@@ -32,7 +32,7 @@ This template lists standard, useful information about an improv troupe.
 <div style="background-color: #dff; max-width=200px; border: 1px solid #aaa; clear: right; float: right; font-size: 88%; margin: 5px 0px 5px 10px;">
 	<table style = "padding: 5px;">
 		<tr>
-			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Troupe Name}}}</th>
+			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Show Name}}}</th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" style="text-align:center;">
