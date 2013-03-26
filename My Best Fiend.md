@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		My Best Fiend
-|Picture	=	DancyStreet.jpg
+|Picture	=	My best fiend.jpg
 |Cast	=	{{Unbulleted list|[[Chris Allen]]|[[Andreas Fabis]]}}
 
 
