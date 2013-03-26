@@ -38,11 +38,11 @@ This template lists standard, useful information about an improv troupe.
 			</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left;">Cast</th>
+			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
 			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left;">Years Active</th>
+			<th scope="row" style="text-align:left; vertical-align: top;">Years Active</th>
 			<td class="category">{{{Years|Unknown}}}</td>
 		</tr>
 	</table>
