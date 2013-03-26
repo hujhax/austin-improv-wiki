@@ -30,8 +30,8 @@ This template lists standard, useful information about an improv theater.
 |}
 </noinclude>
 
-<div style="background-color: #ddf5eb; max-width=200px; border: 1px solid #aaa; clear: right; float: right; font-size: 88%; margin: 5px 10px 5px 0px;">
-	<table>
+<div style="background-color: #ddf5eb; max-width=200px; border: 1px solid #aaa; clear: right; float: right; font-size: 88%;">
+	<table style = "margin: 5px 10px 5px 0px;">
 		<tr>
 			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Theater Name}}}</th>
 		</tr>
