@@ -1,7 +1,15 @@
 <noinclude>
+<noinclude>
 ## Usage
-Give standard information about an improv theater.
-{{ImprovTheater}}
+This template lists standard, useful information about an improv theater.
+<pre>
+{{ImprovTheater
+|Name	=	
+|Picture	=	
+|Homepage	=	
+|Years	=	
+}}
+</pre>
 </noinclude>
 
 <div style="background-color: #ddf5eb; max-width=200px; border: 1px solid #aaa; clear: right; float: right; font-size: 88%">
@@ -11,7 +19,7 @@ Give standard information about an improv theater.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" style="text-align:center;">
-				{{{Image | TheaterImage | 50px}}}
+				{{{Image | Picture | 50px}}}
 			</td>
 		</tr>
 		<tr class="">
