@@ -6,4 +6,4 @@
 |Run	=	Sep/Oct 2012
 }}
 
-"The Black Vault" was an improvised longform show, each show consisting of three individual stories linked by a framing narrative, performed in the style of the novels and stories of H.P. Lovecraft.
+"The Black Vault" was an improvised longform show, each show consisting of three individual stories linked by a framing narrative, performed in the style of the novels and stories of [[Wikipedia - H. P. Lovecraft|H.P. Lovecraft]].
