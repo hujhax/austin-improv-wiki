@@ -17,7 +17,7 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[Cover to Cover]]* (2011)
 * *[[Steam, Rose-Colored Goggles, and the Flight of the Victoriana]]* (2012)
 
-Gnap! and Merlin Works also sponsored the creation of several troupes: 
+Gnap! and Merlin Works also sponsored the creation of several troupes, who then had mainstage runs at [[Salvage Vanguard Theater]]: 
 * *[[Blink]]*
 * *[[Wait OK Now]]*
 * *[[The Seven Eight Sevens]]*
