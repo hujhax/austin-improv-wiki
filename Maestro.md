@@ -1,6 +1,7 @@
 {{Infobox Show
 |Name	=	Maestro
 |Picture =	Default_Maestro_Image.jpg
+|Theater =	[[The Hideout Theatre]]
 |Director =	Various	
 |Cast	=	Various
 |Run	=	2000-Present
