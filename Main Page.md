@@ -18,7 +18,7 @@ The [[Merlin Works Institute for Improvisation]] also teaches classes and produc
 [[List of Austin Improv Performers]]
 
 ## Shows
-In addition to one-off shows from troupes, Austin improv theaters often cast and produce runs of shows themselves.
+In addition to one-off shows from troupes, both troupes and Austin improv theaters often produce runs of shows themselves.
 
 These are enumerated in the [[List of Austin Improv Shows]].
 
