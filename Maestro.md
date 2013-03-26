@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name	=	Maestro
+|Picture =	Default_Maestro_Image.jpg
 |Director =	Various	
 |Cast	=	Various
 |Run	=	2000-Present
