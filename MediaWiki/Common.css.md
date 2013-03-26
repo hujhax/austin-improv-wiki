@@ -10,6 +10,7 @@
 	margin: 0.5em 0px 0.5em 1em;
 	padding: 0.2em;
 	text-align: left;
+	width: 200px
 }
 
 .plainlist ul { 
