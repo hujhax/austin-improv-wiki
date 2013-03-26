@@ -1,0 +1,1 @@
+The default image for a performer.
