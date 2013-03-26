@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Peter Rogers	
+|Picture =	Peter Rogers Pic.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2000-2004, 2007-Present
 }}
