@@ -4,7 +4,7 @@ Give standard information about an improv theater.
 {{ImprovTheater}}
 </noinclude>
 
-<div style="background-color: #ddf5eb; max-width=200px; border-style: solid;">
+<div style="background-color: #ddf5eb; max-width=200px; border: 1px solid #aaa; clear: right; float: right; font-size: 88%">
 	<table>
 		<tr>
 			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Theater Name}}}</th>
