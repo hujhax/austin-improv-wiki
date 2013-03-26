@@ -22,9 +22,9 @@ This template lists standard, useful information about an improv troupe.
 |-
 | *Picture*           || A picture associated with the show; typically the publicity poster.
 |-
-| *Director*           || The person or persons who directed the show.
-|-
 | *Theater*           || The theater where the show happened.  In some cases, this could be more than one theater.
+|-
+| *Director*           || The person or persons who directed the show.
 |-
 | *Cast*           || Who was in the show.
 |-
@@ -42,6 +42,12 @@ This template lists standard, useful information about an improv troupe.
 				![[{{{Picture]]
 			</td>
 		</tr>
+{{#if: {{{Theater|}}} |
+		<tr class="">
+			<th scope="row" style="text-align:left; vertical-align: top;">Theater</th>
+			<td class="category">{{{Theater|Unknown}}}</td>
+		</tr>
+|}}
 		<tr class="">
 			<th scope="row" style="text-align:left; vertical-align: top;">Directed by</th>
 			<td class="category">{{{Director|Unknown}}}</td>
@@ -50,12 +56,6 @@ This template lists standard, useful information about an improv troupe.
 			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
 			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
-{{#if: {{{Theater|}}} |
-		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Theater</th>
-			<td class="category">{{{Theater|Unknown}}}</td>
-		</tr>
-|}}
 		<tr class="">
 			<th scope="row" style="text-align:left; vertical-align: top;">Initial Run</th>
 			<td class="category">{{{Run|Unknown}}}</td>
