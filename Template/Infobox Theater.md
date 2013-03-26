@@ -34,7 +34,7 @@ This template lists standard, useful information about an improv theater.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" style="text-align:center;">
-				{{{Image | Picture | 50px}}}
+				![[{{{Picture]]
 			</td>
 		</tr>
 		<tr class="">
