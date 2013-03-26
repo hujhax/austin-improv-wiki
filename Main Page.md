@@ -1,13 +1,15 @@
 This is a wiki devoted to the Austin Improv community.  It's here to accumulate information about the theaters, troupes, performers, shows, and history associated with the Austin improv scene.
 
 ## Theaters
-There are four improv theaters currently operating in Austin, Texas:
+There are four comedy theaters in Austin, Texas that produce improv shows:
 * [[ColdTowne Theater]]
 * [[The Hideout Theatre]]
 * [[The Institution Theater]]
 * [[The New Movement Theater]]
 
 In addition, [[Salvage Vanguard Theater]] still puts up occasional improv shows.
+
+The [[Merlin Works Institute for Improvisation]] also teaches classes and produces monthly shows at the ZACH theater.
 
 ## Troupes
 [[List of Austin Improv Troupes]]
