@@ -17,7 +17,12 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[Cover to Cover]]* (2011)
 * *[[Steam, Rose-Colored Goggles, and the Flight of the Victoriana]]* (2012)
 
-Gnap! and Merlin Works also sponsored the creation of several troupes: *[[Wait OK Now]]*, *[[The Seven Eight Sevens]]*, *[[Kosher Bacon]]*, *[[Stone Airplane]]*, and *[[Buckets of Buckets]]*.
+Gnap! and Merlin Works also sponsored the creation of several troupes: 
+* *[[Wait OK Now]]*
+* *[[The Seven Eight Sevens]]*
+* *[[Kosher Bacon]]*
+* *[[Stone Airplane]]*
+* *[[Buckets of Buckets]]*
 
 ## The Hideout Theatre
 ### Ongoing Shows
