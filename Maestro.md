@@ -11,7 +11,7 @@ Maestro is a competitive short-form improv format. It has played at the [[Hideou
 ## History
 [[Keith Johnstone]] invented Maestro (originally known as "Micetro" and still called that outside of Austin) when he was asked, on short notice, to concoct an improv format that 50 people could play. He initially called it "The New Game." When [[Sean Hill]] founded the Hideout, Micetro was one of the games he brought from [[BATS]] in San Francisco.
 
-In February 1999, Dan O’Connor and Brian Lohman directed the first Micetro show in Austin for [[Austin Theatresports]] at the Public Domain Theater on Congress Avenue. Edi Patterson was the first winner. Later, Micetro was one of two shows ([[Gorilla Theater]] was the other) performed by Theatresports at the Hyde Park Theater, and part of the original programming when the Hideout opened in 2000.
+In February 1999, [http://www.imdb.com/name/nm0640284/ Dan O’Connor] and [http://www.brianlohmann.com Brian Lohmann] directed the first Micetro show in Austin for [[Austin Theatresports]] at the Public Domain Theater on Congress Avenue. [http://www.imdb.com/name/nm0666198/ Edi Patterson] was the first winner. Later, Micetro was one of two shows ([[Gorilla Theater]] was the other) performed by Theatresports at the Hyde Park Theater, and part of the original programming when the Hideout opened in 2000.
 
 ## Description
 ## Notable Moments in Maestro History
