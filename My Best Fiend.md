@@ -13,3 +13,9 @@ Andreas is from Dusseldorf, Germany. He speaks German very well. Christopher is 
 
 ## History
 "My Best Fiend" premiered at the Hideout's Free Fringe on May 17th 2012.
+
+## More Information
+*[https://www.facebook.com/klausandwerner My Best Fiend facebook page]
+*[http://www.youtube.com/watch?v=vUtpOyVSfRM Video "Wunderfisch"]
+*[http://www.youtube.com/watch?v=uPkwf693jaE Video "Der Stille Winterwald"]
+*[http://vimeo.com/42396160 Video "Der Wolf in den Bergen"]
