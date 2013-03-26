@@ -63,4 +63,7 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[The Next Chapter]]* (2013)
 * *[[The Briefcase]]* (2013)
 
+## Merlin Works Student Productions
+* *[[The Sword of Merlin Works]]*
+
 ## The New Movement Theater
