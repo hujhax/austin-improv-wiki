@@ -20,7 +20,7 @@ This template lists standard, useful information about an improv troupe.
 |-
 | *Picture*           || A picture of the troupe.
 |-
-| *Cast*           || Who's in the troupe.
+| *Cast*           || Who's in the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
 |-
 | *Years*     || The years that the troupe was active, for instance "1993-1997".  If it's still in operation, set it to something like "1998-Present".
 |}
