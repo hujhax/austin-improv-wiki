@@ -1,6 +1,5 @@
 {{Infobox Show
 |Name	=	Maestro
-|Picture=	Maestro.gif
 |Director =	Various	
 |Cast	=	Various
 |Run	=	1999-Present
