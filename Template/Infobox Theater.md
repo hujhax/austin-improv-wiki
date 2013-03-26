@@ -10,6 +10,21 @@ This template lists standard, useful information about an improv theater.
 |Years	=	
 }}
 </pre>
+
+
+## Attributes
+{| class="wikitable" style="line-height:1.3em;"
+!style="background:gray; text-align:left;"| Parameter
+!style="background:gray; text-align:left;"| Explanation
+|-
+| *Name*       || The name of the theater.
+|-
+| *Picture*           || A picture of the theater.
+|-
+| *Homepage*         || The URL of the theater's web page.
+|-
+| *Years*     || The years that the theater was in operation, for instance "1993-1997".  If it's still in operation, set it to something like "1998-Present".
+|}
 </noinclude>
 
 <div style="background-color: #ddf5eb; max-width=200px; border: 1px solid #aaa; clear: right; float: right; font-size: 88%">
