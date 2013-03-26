@@ -3,7 +3,7 @@
 ## Usage
 This template lists standard, useful information about an improv theater.
 <pre>
-{{ImprovTheater
+{{Infobox Theater
 |Name	=	
 |Picture	=	
 |Homepage	=	
