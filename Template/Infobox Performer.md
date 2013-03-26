@@ -4,9 +4,9 @@ This template lists standard, useful information about an improv performer.
 <pre>
 {{Infobox Performer
 |Name	=		
-|Picture	=
-|Theater	=		
-|Years	=		
+|Picture=	
+|Theater=			
+|Years	=	
 }}
 </pre>
 
