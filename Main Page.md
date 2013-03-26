@@ -7,7 +7,7 @@ There are four comedy theaters in Austin, Texas that produce improv shows:
 * [[The Institution Theater]]
 * [[The New Movement Theater]]
 
-In addition, [[Salvage Vanguard Theater]] still puts up occasional improv shows.
+In addition, [[Salvage Vanguard Theater]] still hosts occasional improv shows. Until 2013, [[Gnap! Theater Projects]] produced improv shows there.
 
 The [[Merlin Works Institute for Improvisation]] also teaches classes and produces monthly shows at the ZACH theater.
 
