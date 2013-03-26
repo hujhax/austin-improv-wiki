@@ -31,7 +31,7 @@ This template lists standard, useful information about an improv theater.
 </noinclude>
 
 <div>
-	<table class="infobox" style="background-color: #ddf5eb">
+	<table class="infobox" style="background-color: #ddf5eb; width: 250px;">
 		<tr>
 			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Theater Name}}}</th>
 		</tr>
