@@ -13,4 +13,5 @@ Maestro is a competitive short-form improv format. It has played at the [[Hideou
 ## Notable Moments in Maestro History
 On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
 
-{{references}}
+## Notes
+<references />
