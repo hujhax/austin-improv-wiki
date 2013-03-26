@@ -4,10 +4,11 @@
 This template lists standard, useful information about an improv theater.
 <pre>
 {{Infobox Theater
-|Name	=	
+|Name	=		
 |Picture	=	
+|Address	=	
 |Homepage	=	
-|Years	=	
+|Years	=		
 }}
 </pre>
 
@@ -20,6 +21,8 @@ This template lists standard, useful information about an improv theater.
 | *Name*       || The name of the theater.
 |-
 | *Picture*           || A picture of the theater.
+|-
+| *Address*           || The theater's street address.  Austin is assumed; if it's a nearby city, include the city name afterwards, in parentheses: "(Round Rock)".
 |-
 | *Homepage*         || The URL of the theater's web page.
 |-
