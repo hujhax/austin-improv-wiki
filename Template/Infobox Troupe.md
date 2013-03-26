@@ -1,5 +1,4 @@
 <noinclude>
-<noinclude>
 ## Usage
 This template lists standard, useful information about an improv troupe.
 <pre>
