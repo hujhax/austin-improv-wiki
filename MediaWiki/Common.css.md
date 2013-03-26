@@ -1,11 +1,23 @@
 /* CSS placed here will be applied to all skins */
 
-.plainlist ul li { 
-	margin-bottom: 0px;
+.infobox {
+	border: 1px solid #AAAAAA;
+	clear: right;
+	color: black;
+	float: right;
+	font-size: 88%;
+	line-height: 1.5em;
+	margin: 0.5em 0px 0.5em 1em;
+	padding: 0.2em;
+	text-align: left;
 }
 
 .plainlist ul { 
 	line-height: inherit;
 	list-style: none outside none;
 	margin: 0px;
+}
+
+.plainlist ul li { 
+	margin-bottom: 0px;
 }
