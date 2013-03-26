@@ -9,9 +9,9 @@ In 1997, Austin was put on the national improv and sketch map with the first ann
 
 In 1998, Sean Hill and David Lampe hosted auditions for “Austin Theatresports,” [a.k.a. Austin Theatresports a.k.a. We Could Be Heroes a.k.a. The Heroes of Comedy.] The first rehearsals were in a cozy classroom on 5th Street, in what was functionally nicknamed “The Batcave.”
 
-Austin Theatersports did its first show, a Micetro, at the Public Domain Theater on Congress Ave in February of 1999, with [http://www.imdb.com/name/nm0640284/ Dan O’Connor] and [http://www.brianlohmann.com Brian Lohman] directing. (For the record, [http://www.imdb.com/name/nm0666198/ Edi Patterson] won the first ever Austin Micetro). Soon after, Theatersports began a run at the Hyde Park Theater, where they played Micetro and Gorilla Theater. Then, in late 1998, Sean started work on a new Improv Theater and Coffee House called The Hideout.
-The Boom and the Bust
+Austin Theatersports did its first show, a [[Micetro]], at the Public Domain Theater on Congress Ave in February of 1999. Soon after, Theatersports began a run at the Hyde Park Theater, where they played Micetro and Gorilla Theater. Then, in late 1998, Sean started work on a new Improv Theater and Coffee House called The Hideout.
 
+## The Boom and the Bust
 In 1999, the improv scene was booming. These times were the beginning of the heyday of Austin Improv. There were many venues: The Hideout, The Velveeta Room, The Bad Dog Comedy Theatre, The ComedySportz Playhouse, and even Capital City Comedy Club and Esther’s Follies would host improv from time to time. There were lots of troupes: “Austin Theatresports,” “ComedySports,” “Monk’s Night Out,” “Well Hung Jury,” “Code Blue,” “The Cheese Pistols,” “Ray Prewitt’s 4th Grade Class,” “Fatbuckle,” “The Skinnies,” “The Inflatable Egos,” “Only 90% Effective,” and even more I don’t remember or didn’t even know about. Big Stinkin’ Improv and Sketch Comedy Festival, was getting bigger and stinkier by the year, bringing in top talent from stage, television and film. But everything was booming back then—remember the economy in Austin before 2001?
 
 In 2000, the Hideout officially opened as a venue. Sean Hill and Shana Merlin ran the house troupe, We Could Be Heroes, and opened the We Could Be Heroes School of Improvisational Theatre.
