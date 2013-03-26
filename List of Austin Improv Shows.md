@@ -57,7 +57,7 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[TV Tuesdays]]*
 * *[[Pulp Friction]]*
 * *[[Only Three Will Survive]]*
-* *[[The Next Chapter]]* (upcoming)
-* *[[The Briefcase]]* (upcoming)
+* *[[The Next Chapter]]* (2013)
+* *[[The Briefcase]]* (2013)
 
 ## The New Movement Theater
