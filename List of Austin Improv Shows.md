@@ -45,9 +45,9 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[Austin Secrets]]*
 * *[[Fandom]]*
 * *[[Strange Worlds]]*
-* *[[Theatresports]]* (upcoming)
-* *[[Fakespeare]]* (upcoming)
-* *[[A Bedtime Gorey]]* (upcoming)
+* *[[Theatresports]]* (2013)
+* *[[Fakespeare]]* (2013)
+* *[[A Bedtime Gorey]]* (2013)
 
 ## The Institution Theater
 ### Ongoing Shows
