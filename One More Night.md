@@ -8,6 +8,8 @@
 
 *One More Night* was an improvised longform narrative show inspired by *The Arabian Nights*.  It featured multi-layered framing devices, used bolts of bright fabric scattered about the stage for a variety of props, costumes, and scenery, and emphasized sensuality and violence.
 
+The show was produced by [[Gnap! Theater Productions]] at [[Salvage Vanguard Theater]].
+
 ## Media
 * [https://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282 Roy Moore's photos of the opening-night show. (1/22)]
 * [http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju Jon Bolden's photos of the opening-night show. (1/22)]
