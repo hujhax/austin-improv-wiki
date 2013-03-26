@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		The Foreign Legion
-|Picture	=	My best fiend.jpg
+|Picture	=	Foreign legion.jpg
 |Cast	=	{{Unbulleted list|[[Leng Wong]]|[[Menelaos Prokos]]|[[Andreas Fabis]]|[[Abbas Amirabadi]]|[[Alex Dobrenko]]|[[Gene Zhou]]}}
 
 
