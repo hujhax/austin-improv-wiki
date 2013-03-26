@@ -16,7 +16,9 @@ In addition, [[Salvage Vanguard Theater]] still puts up occasional improv shows.
 [[List of Austin Improv Performers]]
 
 ## Shows
-In addition to one-off shows from troupes, Austin improv theaters often cast and produce runs of shows themselves.  These are enumerated in the [[List of Austin Improv Shows]].
+In addition to one-off shows from troupes, Austin improv theaters often cast and produce runs of shows themselves.
+
+These are enumerated in the [[List of Austin Improv Shows]].
 
 ## History
 [[History of Austin Improv]]
