@@ -6,7 +6,7 @@
 |Run	=	Jan/Feb 2010
 }}
 
-*One More Night* was an improvised longform narrative show inspired by the Arabian Nights.  It featured multi-layered framing devices, used bolts of bright fabric scattered about the stage for a variety of props, costumes, and scenery, and emphasized sensuality and violence.
+*One More Night* was an improvised longform narrative show inspired by *The Arabian Nights*.  It featured multi-layered framing devices, used bolts of bright fabric scattered about the stage for a variety of props, costumes, and scenery, and emphasized sensuality and violence.
 
 ## Media
 * [https://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282 Roy Moore's photos of the opening-night show. (1/22)]
