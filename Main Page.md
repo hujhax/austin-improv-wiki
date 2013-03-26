@@ -1,7 +1,3 @@
-**MediaWiki has been successfully installed.**
-
-Consult the [//meta.wikimedia.org/wiki/Help:Contents User's Guide] for information on using the wiki software.
-
 This is a wiki devoted to the Austin Improv community.  It's here to accumulate information about the theaters, troupes, performers, shows, and history associated with the Austin improv scene.
 
 ## Theaters
