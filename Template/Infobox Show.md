@@ -28,12 +28,12 @@ This template lists standard, useful information about an improv troupe.
 |-
 | *Cast*           || Who was in the show.
 |-
-| *Run*     || The time frame of its initial run, say "January/February 2010".
+| *Run*     || The time frame of its initial run -- e.g., "Jan/Feb 2010".
 |}
 </noinclude>
 
-<div style="background-color: #dff; max-width=200px; border: 1px solid #aaa; clear: right; float: right; font-size: 88%; margin: 5px 0px 5px 10px;">
-	<table style = "padding: 5px;">
+<div>
+	<table class="infobox" style="background-color: #dff; width: 200px; margin: 5px 0px 5px 10px;">
 		<tr>
 			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Show Name}}}</th>
 		</tr>
