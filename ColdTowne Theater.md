@@ -1,5 +1,6 @@
 {{Infobox Theater
 |Name	=		Coldtowne Theater
+|Picture =		Coldtowne.jpg
 |Address	=	4803 Airport Boulevard
 |Homepage	=	http://www.coldtownetheater.com
 |Years	=		2006-Present
