@@ -12,14 +12,14 @@ The show was produced by [[Gnap! Theater Productions]] at [[Salvage Vanguard The
 
 
 ## Full Cast & Crew
-[[Bryan Cruz]] as Dylan McKay
-[[Colin Thomas Bates]] as David Silver
-[[Courtney Hopkin]] as Donna Martin
-[[Jesse Overright]] as Brandon Walsh
-[[Katie Thornton]] as Kelly Taylor
-[[Michael Thomas]] as Steve Sanders
-[[Lauren Zinn]] as Brenda Walsh
-[[Shana Merlin]] as Andrea Zuckerman
+[[Bryan Cruz]] as Dylan McKay<br/>
+[[Colin Thomas Bates]] as David Silver<br/>
+[[Courtney Hopkin]] as Donna Martin<br/>
+[[Jesse Overright]] as Brandon Walsh<br/>
+[[Katie Thornton]] as Kelly Taylor<br/>
+[[Michael Thomas]] as Steve Sanders<br/>
+[[Lauren Zinn]] as Brenda Walsh<br/>
+[[Shana Merlin]] as Andrea Zuckerman<br/>
 
 Flex Cast: [[Amy Averett]], [[Kevin Miller]], [[Kimberly Cox]], [[Mark Carpenter]], [[Peter Rogers]]
 
