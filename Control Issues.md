@@ -1,7 +1,8 @@
 {{Infobox Show
 |Name	=	Pick Your Own Path
+|Picture = 	Pick_Your_Own_Path.jpg
 |Theater=	[[The Hideout Theatre]]
-|Director =	[[Roy Yanik]]	
+|Director =	[[Roy Janik]]	
 |Run	=	Oct 2010-Present
 }}
 
