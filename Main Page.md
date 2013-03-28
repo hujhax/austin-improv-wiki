@@ -18,7 +18,7 @@ The [[Merlin Works Institute for Improvisation]] also teaches classes and produc
 [[List of Austin Improv Performers]]
 
 ## Shows
-[[List of Austin Improv Shows]].
+[[List of Austin Improv Shows]]
 
 ## History
 [[History of Austin Improv]]
