@@ -5,7 +5,7 @@
 |Years	=	2005-Present
 }}
 
-Marc Majcher is an improv performer.
+Marc Majcher is an improv performer and director.
 
 ## History
 ## Troupes
