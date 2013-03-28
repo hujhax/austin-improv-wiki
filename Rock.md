@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Rock	
-|Picture=	Rock_poster.gif
+|Picture=	Rock_poster.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	{{Unbulleted list|[[Kacey Samiee]] | [[Michael Brockman]]}}
 |Cast	=	{{Unbulleted list|[[Aden Kirschner]] | [[Amber Franklin]] | [[Amy Averett]] | [[Andy Crouch]] | [[Caeriel Crestin]] | [[Halyn Lee Erickson]] | [[Jason Finkelman]] | [[Jason Vines]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Kimberly Cox]] | [[Lindsey Reeves]] | [[Marc Majcher]] | [[Peter Rogers]]}}
