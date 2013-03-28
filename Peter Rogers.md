@@ -8,7 +8,26 @@
 Peter Rogers is an improv performer who works primarily at [[The Hideout Theatre]].
 
 ## History
-Peter took the Hideout's first set of improv classes from 2000-2001, and then joined First Round Draft, the troupe that formed from the first set of Hideout students.  He left improv from 2004-2007, and returned to do shows primarily at the Hideout.
+Prior to 2000, Peter's only experience with improv had been a number of improv games in high-school theater class, a trip to see Second City in Chicago, and an absolutely terrifying batch of improv games once in college.  Peter saw his first improv show in Austin after getting a free ticket to a ComedySportz show at Northcross Mall from a comedy defensive driving class.  After that, he saw many more improv shows in town, and then he took the Hideout's first set of improv classes from 2000-2001.  After that, Peter joined [[First Round Draft]], the troupe that formed from the first batch of Hideout students.  He left improv from 2004-2007, and then returned to do more shows, primarily at the Hideout.
+
+## Troupes
+* [[Blink]]
+* [[Continental Breakfast]]
+* [[The Dancy Street D'Orchestra]]
 
 ## Shows
-Peter has performed in a number of mainstage and recurring shows, including [[One More Night]], [[Maestro]], and [[Improvised Dickens]].
+* *[[Improvised Shakespeare]]*
+* *[[Live Nude Improv]]*
+* *[[Totally Improvised, 90210]]*
+* *[[Spirited]]*
+* *[[Charles Dickens Unleashed]]*
+* *[[TV Tuesdays Presents -  Buffy]]*
+* *[[TV Tuesdays Presents -  Freaks and Geeks]]*
+* *[[The Sci-Fi Comedy Double Feature]]*
+* *[[The Professor]]*
+* *[[TV Tuesdays Presents -  Angel]]*
+* *[[Rock]]*
+* *[[The Black Vault]]*
+* *[[Austin Secrets]]*
+* *[[Fandom]]*
+* *[[Strange Worlds]]*
