@@ -1,6 +1,6 @@
 {{Infobox Theater
 |Name	=		The Institution Theater
-|Picture	=	Insitution_logo.png
+|Picture	=	Insitution_logo.jpg
 |Address	=	3708 Woodbury Drive
 |Homepage	=	http://www.theinstitutiontheater.com/
 |Years	=		2010-Present
