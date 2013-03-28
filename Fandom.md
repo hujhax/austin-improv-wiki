@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Fandom	
-|Picture=	Fandom_poster.jpg
+|Picture=	Fandom_cover_photo.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	{{Unbulleted list|[[Andy Crouch]] | [[Kaci Beeler]]}}
 |Cast	=	{{Unbulleted list| [[Aaron Saenz]] | [[Andrew Buck]] | [[Andy Crouch]] | [[Bridget Brewer]] | [[Courtney Hopkin]] | [[Eric Heiberg]] | [[Halyn Lee Erickson]] | [[Jordan T. Maxwell]] | [[Kaci Danger]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Peter Rogers]] | [[Quinn Buckner]]}} 
