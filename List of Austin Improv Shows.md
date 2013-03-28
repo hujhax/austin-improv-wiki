@@ -30,6 +30,8 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[Gorilla Theater]]*
 * *[[More or Less]]*
 * *[[Maestro]]* (2000-)
+* *[[Dubbed Indemnity]]* (2010-2012)
+* *[[The Nightmare Video Project]]* (2010-2012)
 * *[[The Fancy-Pants Mashup]]*
 * *[[Pick Your Own Path]]*
 * *[[The TV Set]]*
