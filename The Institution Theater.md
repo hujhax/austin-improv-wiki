@@ -10,6 +10,6 @@ The Institution presents and teaches both improv and scripted theater.  Their im
 
 
 ## History
-The Institution theater was founded in 2010 by [[Asaf Ronen]] and [[Tom Booker]]
+The Institution theater was founded in 2010 by [[Asaf Ronen]] and [[Tom Booker]].
 
 ## Shows
