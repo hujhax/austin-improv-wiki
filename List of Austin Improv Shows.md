@@ -45,6 +45,8 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[Start Trekkin']]*
 * *[[Cops and Lawyers]]*
 * *[[After-School Improv]]*
+* *[[Spirited]]*
+* *[[Charles Dickens Unleashed]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Process]]*
 * *[[Rock]]*
