@@ -56,7 +56,7 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[Austin Secrets]]*
 * *[[Fandom]]*
 * *[[Strange Worlds]]*
-* *[[Theatresports]]* (2013)
+* *[[TheatreSports (mainstage run)]]* (2013)
 * *[[Fakespeare]]* (2013)
 * *[[A Bedtime Gorey]]* (2013)
 
