@@ -1,1 +1,7 @@
-Photo of the improv troupe "The Dancy Street D'Orchestra".  Image ©2010 Jon Bolden, taken from http://dancy.austinimprov.com/.
+## Summary
+Publicity photo of the improv troupe [[The Dancy Street D'Orchestra]].
+
+Image ©2010 [[Jon Bolden]], taken from http://dancy.austinimprov.com/.
+
+## Licensing
+{{AIC-Wiki-only license}}
