@@ -1,6 +1,6 @@
+*Permission from license selector|The copyright holder gave me permission to use this work only in AIC Wiki articles
 *subst:No license from license selector|Don't know|I do not know the license
 *subst:No license from license selector|Somewebsite|Found the image somewhere
-*subst:Permission from license selector|The copyright holder gave me permission to use this work only in AIC Wiki articles
 *subst:Non-commercial from license selector|The copyright holder only allows this work to be used for non-commercial and/or educational purposes
 * Your own work:
 ** Allow non-commercial use, commercial use, and modifications as long as others credit you and share alike:
