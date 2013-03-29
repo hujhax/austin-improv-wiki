@@ -1,2 +1,2 @@
-*The copyright holder gave permission to use this work only in AIC Wiki articles. For more information, see [[Limited AIC Wiki Use]].|The copyright holder gave me permission to use this work only in AIC Wiki articles
-*No license from license selector|Don't know|I do not know the license
+*AIC-Wiki-only license|The copyright holder gave me permission to use this work only in AIC Wiki articles
+*No license|I do not know the license
