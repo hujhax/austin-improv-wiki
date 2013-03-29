@@ -27,3 +27,4 @@ The Black Vault stories were generally of three main styles:
 * [http://vimeo.com/52665609 Video of the 10/27/2012 performance.]
 * [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset of 10/27/12 performance.]
 * [http://vimeo.com/52659608 Video of the 10/31/2012 performance.]
+* [http://vimeo.com/55421296 Video of the one-off "Lovecraft Secrets" show] (a mash-up with [[Austin Secrets]]), from 12/6/12.
