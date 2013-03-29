@@ -3,7 +3,7 @@
 |Picture=	Steam.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Audrey Rachel Sansom]]	
-|Cast = 	
+|Cast	=	{{Unbulleted list|[[Audrey Rachel Sansom]] | [[Julie Gillis]] | [[Emily Breedlove]] | [[Elizabeth Brammer]] | [[Gricelda Silva]] | [[Aaron Walther]] | [[Brady James]] | [[Marc Majcher]] | [[Jeff Mills]] | [[Kevin Miller]] | [[Howard Katz]] | [[Joel Osborne]] | [[Jayme Ramsey]] | [[Leng Wong]]}}
 |Run	=	Jan/Feb 2012
 }}
 
