@@ -13,7 +13,7 @@ Austin Theatersports did its first show, a [[Micetro]], at the Public Domain The
 ## The Boom and the Bust
 In 1999, the improv scene was booming. These times were the beginning of the heyday of Austin Improv. There were many venues: [[The Hideout]], [[The Velveeta Room]], [[The Bad Dog Comedy Theatre]], [[The ComedySportz Playhouse]], and even [[Capital City Comedy Club]] and [[Esther's Follies]] would host improv from time to time. There were lots of troupes: Austin Theatresports, ComedySportz, [[Monk's Night Out]], [[Well Hung Jury]], [[Code Blue]], [[The Cheese Pistols]], [[Ray Prewitt's 4th Grade Class]], [[Fatbuckle]], [[The Skinnies]], [[The Inflatable Egos]], [[Only 90% Effective]], and even more I don't remember or didn't even know about. The [[Big Stinkin' Improv and Sketch Comedy Festival]] was getting bigger and stinkier by the year, bringing in top talent from stage, television and film. But everything was booming back then -- remember the economy in Austin before 2001?
 
-In 2000, the [[Hideout]] officially opened as a venue. [[Sean Hill]] and [[Shana Merlin]] ran the house troupe, [[We Could Be Heroes]], and opened the We Could Be Heroes School of Improvisational Theatre.
+In 2000, [[The Hideout]] officially opened as a venue. [[Sean Hill]] and [[Shana Merlin]] ran the house troupe, [[We Could Be Heroes]], and opened the We Could Be Heroes School of Improvisational Theatre.
 
 After 2000, well, the festival producers [[Ed Carter]] and [[Marc Pruter]], along with a lot of other Austinites, lost their shirts in the coming years. [[Big Stinkin']] shut down, along with all of the other improv venues and troupes -- except [[The Hideout]].
 
