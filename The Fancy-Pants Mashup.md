@@ -1,3 +1,11 @@
+{{Infobox Show
+|Name	=	The Fancy-Pants Mashup
+|Picture = 	Fancy-Pants Mashup.jpg
+|Theater=	[[The Hideout Theatre]]
+|Cast=		Varies
+|Director =	[[Ryan Austin]]	
+|Run	=	Oct 2010-Present
+}}
 ## Summary
 Fancy Pants is a show that happens on the first Friday of every month at [[The Hideout Theatre]]. It was "lovingly borrowed (i.e., egregiously stolen)" from [http://en.wikipedia.org/wiki/Projectproject PROJECTproject] in Toronto, Canada.
 
