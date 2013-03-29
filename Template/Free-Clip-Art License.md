@@ -1,0 +1,1 @@
+This file is free clip art, and may be redistributed freely.
