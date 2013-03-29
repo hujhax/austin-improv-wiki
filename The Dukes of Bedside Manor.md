@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		The Dukes of Bedside Manor
+|Picture = Dukes-bedside-manor.jpg
 |Cast	=	{{Unbulleted list|[[Jon Bolden]]|[[Quinn Buckner]]|[[Mike Sullivan]]|[[Kyle Traughber]]|[[Hugo Vargas-Zesati]]}}
 
 
