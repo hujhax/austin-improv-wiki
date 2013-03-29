@@ -19,4 +19,11 @@ The Black Vault stories were generally of three main styles:
 * Cosmic horror -- As in the stories in Lovecraft's "[[Wikipedia - Cthulhu Mythos|Cthulhu Mythos]]," these stories focused on unknowable and largely unseen forces from beyond the stars, represented on Earth by mysterious cults and strange ancient artifacts.
 
 ## Media
+* Sample video of [[Marc Majcher]]'s [http://vimeo.com/49958497 introduction to the show].
+* [http://vimeo.com/49647825 Video of the 9/15/2012 performance.]
+* [http://vimeo.com/50914775 Video of the 9/22/2012 performance.]
+* [http://vimeo.com/52598840 Video of the 10/13/2012 performance.]
+* [http://vimeo.com/52585149 Video of the 10/20/2012 performance.]
+* [http://vimeo.com/52665609 Video of the 10/27/2012 performance.]
 * [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset of 10/27/12 performance.]
+* [http://vimeo.com/52659608 Video of the 10/31/2012 performance.]
