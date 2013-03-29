@@ -1,4 +1,4 @@
 ## Summary
 Photo by Steve Rogers, from [[Steam]].
 ## Licensing
-{{subst:Permission from license selector}}
+{{AIC-Wiki-only license}}
