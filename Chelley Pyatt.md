@@ -5,7 +5,7 @@
 |Years	=	2008-Present
 }}
 
-Peter Rogers is an improv performer who works primarily with [[The Institution Theater]].
+Chelley Pyatt is an improv performer who works primarily with [[The Institution Theater]].
 
 ## Shows
 * *[[TV Tuesdays Presents -  Buffy]]*
