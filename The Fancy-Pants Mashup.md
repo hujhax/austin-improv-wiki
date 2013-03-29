@@ -26,3 +26,6 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 Photoset of the 1/13 performance.]
 * [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 Photoset of the 3/13 performance.]
 * [http://vimeo.com/61489752 Video of 3/1/13 performance.]
+
+## Other Information
+* [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
