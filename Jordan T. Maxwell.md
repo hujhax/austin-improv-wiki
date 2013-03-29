@@ -12,6 +12,8 @@ Jordan was also a regular on the Hulu original series *[http://en.wikipedia.org/
 
 ## Troupes
 * [[Well Hung Jury]]
+* [[The Sicks]]
+* [[The Great Mundane]]
 * [[710 Split]]
 * [[Indigo Shift]]
 * [[The Awkwards]]
