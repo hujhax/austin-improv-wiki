@@ -1,11 +1,15 @@
 {{Infobox Troupe
 |Name	=		First Round Draft
 |Picture	=	First Round Draft.png
-|Cast	=	{{Unbulleted list|[[Amy McCurdy]] | [[Bob Apthorpe]] | [[Ed Piston]] | [[Katy Shea]] | [[Kacey Samiee]] | [[Peter Rogers]] | [[Shelly Miller Bosse]] | [[Suzy Mihalik]]}}
+|Cast	=	{{Unbulleted list|[[Amy McCurdy]] | [[Bob Apthorpe]] | [[Chris R. B. Fay]] | [[Ed Piston]] | [[Griffin Mauser]] | [[Katy Shea]] | [[Kacey Samiee]] | [[Peter Rogers]] | [[Shelly Miller Bosse]] | [[Suzy Mihalik]]}}
 |Years	=		2001-2002
 }}
 
 First Round Draft was a short-form improv troupe based out of [[The Hideout Theatre]].
+
+They occasionally included [[Brett Webster]] on guitar and [[Tim Girardot]] on keyboards.
+
+[[Maggie Bell]] was their lighting improvisor.
 
 ## History
 The troupe formed out of the first graduating class from the [[Hideout]]'s improv program.
