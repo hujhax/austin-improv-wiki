@@ -1,6 +1,6 @@
 {{Infobox Theater
 |Name	=		Salvage Vanguard Theater
-|Picture =		Salvage Vanguard Theater.jpg
+|Picture =		Salvage Vanguard Theater.gif
 |Address	=	2803 Manor Road
 |Homepage	=	http://salvagevanguard.org/
 |Years	=		2008-Present
