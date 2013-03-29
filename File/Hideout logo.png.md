@@ -1,1 +1,5 @@
-The Hideout Theatre logo.
+## Summary
+Logo of [[The Hideout Theatre]].
+
+## Licensing
+{{AIC-Wiki-only license}}
