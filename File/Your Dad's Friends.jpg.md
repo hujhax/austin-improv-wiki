@@ -3,4 +3,4 @@ YDF logo, taken from [http://www.facebook.com/pages/Your-Dads-Friends/2473440887
 
 Artist unknown.
 ## Licensing
-{{subst:No license from license selector|Somewebsite}}
+{{No license}}
