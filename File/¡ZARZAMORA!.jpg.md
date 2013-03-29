@@ -3,4 +3,4 @@ Promotional photo from [http://www.facebook.com/pages/Zarzamora/126236170779574 
 
 Photographer unknown.
 ## Licensing
-{{subst:No license from license selector|Somewebsite}}
+{{No license}}
