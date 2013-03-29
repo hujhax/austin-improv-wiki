@@ -9,7 +9,7 @@
 The Hideout is an improv theater in downtown Austin that draws its primary inspiration from the work of [http://en.wikipedia.org/wiki/Keith_Johnstone Keith Johnstone].
 
 ## History
-The Hideout Theatre was founded in 1998 by [[Sean Hill]].
+The Hideout Theatre was founded in 1999 by [[Sean Hill]].
 
 ## Shows
 The Hideout puts on a number of mainstage shows, and a variety of recurring shows such as [[Maestro]] and [[The Free Fringe]].
