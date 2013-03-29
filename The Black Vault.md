@@ -2,7 +2,7 @@
 |Name	=	The Black Vault	
 |Picture =	The_Black_Vault.jpg ‎
 |Director =	[[Marc Majcher]]	
-|Cast	=	{{Unbulleted list|[[Andreas Fabis]] |  [[Emily Breedlove]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Paul Normandin]] | [[Jessica Arjet]] | [[Brad Hawkins]] | [[Clay Towery]] | [[Roy Janik]] | [[Jayme Ramsay]] | [[Justin Davis]] | [[Jay Michael]] | [[Ryan Hill]]}}
+|Cast	=	{{Unbulleted list|[[Andreas Fabis]] | [[Brad Hawkins]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Jay Michael]] | [[Jayme Ramsay]] | [[Jessica Arjet]] |  [[Justin Davis]] | [[Marc Majcher]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Roy Janik]] | [[Ryan Hill]]}}
 |Theater = [[The Hideout Theatre]]
 |Run	=	Sep/Oct 2012
 }}
