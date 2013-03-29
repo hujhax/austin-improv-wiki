@@ -37,12 +37,18 @@ This template lists standard, useful information about an improv troupe.
 			</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
-			<td class="category">{{{Cast|Unknown}}}</td>
-		</tr>
-		<tr class="">
 			<th scope="row" style="text-align:left; vertical-align: top;">Years Active</th>
 			<td class="category">{{{Years|Unknown}}}</td>
+		</tr>
+{{#if: {{{Director|}}} |
+		<tr class="">
+			<th scope="row" style="text-align:left; vertical-align: top;">Directed by</th>
+			<td class="category">{{{Director|Unknown}}}</td>
+		</tr>
+|}}
+		<tr class="">
+			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
+			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
 	</table>
 </div>
