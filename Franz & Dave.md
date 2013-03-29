@@ -10,7 +10,7 @@
 Franz & Dave is a duo consisting of [[Brad Hawkins]] and [[Chris Allen]], playing the roles of Franz Kafka and David Lynch.
 
 ## History
-Franz & Dave was conceived in the Hideout's green room during a show sometime in early 2011. The duo debuted as part of [[ColdTowne]]'s Shakedown, hosted by [[Brett Tribe]]. They played to an audience of six that night.
+Franz & Dave was conceived in the Hideout's green room during a show sometime in early 2011. The duo debuted as part of [[ColdTowne Theater|ColdTowne]]'s Shakedown, hosted by [[Brett Tribe]]. They played to an audience of six that night.
 
 ## More Information
 * [http://facebook.com/franzanddave Franz & Dave's Facebook page.]
