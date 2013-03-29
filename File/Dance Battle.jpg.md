@@ -1,5 +1,5 @@
 ## Summary
-Justin Davis and Jessie Pascarelli after their Dance Battle scene.
+Justin Davis and Jessie Pascarelli after their Dance Battle scene in Fancy Pants.
 
 Photo by Michael Yew.
 
