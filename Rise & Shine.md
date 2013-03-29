@@ -1,12 +1,20 @@
 {{Infobox Troupe
 |Name	=		Rise & Shine
 |Cast	=	{{Unbulleted list|[[Jon Bolden]]|[[Curtis Luciani]]|[[Valerie Ward]]}}
-
+|Picture= Rise_shine.jpg
 
 |Years	=		2009-2010
 }}
 
-*Rise & Shine* was an improvised morning talk show parody of "Regis & Kelli" and regional/local morning talk shows.  
+*Rise & Shine* was an improvised morning talk show parody of "Regis & Kelli" and regional/local morning talk shows.  Each episode took place in real time as if it were being recorded (a monoscene). The cast played the same characters every time & invited a guest player to improvise a fictional celebrity. 
+
+## Cast & Roles
+*[[Valerie Ward]] as Lorelei Reiser, one of the host.
+*[[Curtis Luciani]] as Elmo Shein, one of the host.
+*[[Jon Bolden]] as J. Robert Sturrier, their producer.
+
 
 ## History
 *Rise & Shine* started in January, 2009 and stopped performing sometime in late 2010.
+
+The first performance was a [[Cagematch]] show and happened on Saturday, March 7th, 2009 at [[ColdTowne Theater]]. It featured [[John Ratliff]] as the guest celebrity.
