@@ -9,8 +9,11 @@ Jon Bolden is an improv performer, director, and photographer who works primaril
 
 ## History
 ## Troupes
+* [[Rise & Shine]]
 * [[Blink]]
+* [[The Dukes of Bedside Manor]]
 * [[Squirrel Buddies]]
+* [[The Randy Meisner]]
 
 ## Shows
 * "[[After School Improv]]"
