@@ -16,9 +16,9 @@ Jon Bolden is an improv performer, director, and photographer who works primaril
 * [[The Randy Meisner]]
 
 ## Shows
-* "[[After School Improv]]"
+* *[[After School Improv]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Austin Secrets]]*
-* "[[The Andersons]]"
-* "[[Theatresports]]"
+* *[[The Andersons]]*
+* *[[Theatresports]]*
 * *[[Manhattan Stories]]*
