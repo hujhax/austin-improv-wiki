@@ -17,8 +17,13 @@ Jordan was also a regular on the Hulu original series *[http://en.wikipedia.org/
 * [[The Awkwards]]
 
 ## Shows
-* *[[Improvised Shakespeare]]*
+* *[[Austin Secrets]]*
+* *[[Showdown]]*
 * *[[Live Nude Improv]]*
+* *[[Spirited]]*
+* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]* (director)
+* *[[Process]]*
 * *[[Rock]]*
+* *[[Pocketful of Posies]]*
 * *[[Fandom]]*
-* *[[Strange Worlds]]*
+* *[[Strange Worlds]]* (director)
