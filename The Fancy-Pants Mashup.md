@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	The Fancy-Pants Mashup
-|Picture = 	Fancy-Pants Mashup.jpg
+|Picture = 	Dance_Battle.jpg
 |Theater=	[[The Hideout Theatre]]
 |Cast=		Varies
 |Director =	[[Ryan Austin]]	
