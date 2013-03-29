@@ -1,5 +1,5 @@
 ## Summary
-Promotional image for *One More Night: Improvised Tales of the Arabian Nights*.
+Promotional image for *[[One More Night]]*.
 
 Taken from http://onemorenight.eventbrite.com/.
 
