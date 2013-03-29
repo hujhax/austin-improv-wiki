@@ -17,3 +17,6 @@ The Black Vault stories were generally of three main styles:
 * Weird horror -- Tales of unnatural doings moored in such horror tropes as reanimation of the dead, infestation, mind control, or madness.
 * Dreamscape -- Following the style of Lovecraft's "[[Wikipedia - Dream Cycle|Dream Cycle]]," these stories focused on the inner life of the dreaming mind, usually with a fantasy or science fiction bent.
 * Cosmic horror -- As in the stories in Lovecraft's "[[Wikipedia - Cthulhu Mythos|Cthulhu Mythos]]," these stories focused on unknowable and largely unseen forces from beyond the stars, represented on Earth by mysterious cults and strange ancient artifacts.
+
+## Media
+* [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset of 10/27/12 performance.]
