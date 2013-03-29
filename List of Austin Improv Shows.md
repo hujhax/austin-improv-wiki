@@ -77,3 +77,5 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[The Sword of Merlin Works]]*
 
 ## The New Movement Theater
+* *[[Lights Up]]*
+* *[[The Franchise]]*
