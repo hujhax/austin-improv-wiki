@@ -13,6 +13,9 @@ Jon Bolden is an improv performer, director, and photographer who works primaril
 * [[Squirrel Buddies]]
 
 ## Shows
+* "[[After School Improv]]"
 * *[[Charles Dickens Unleashed]]*
 * *[[Austin Secrets]]*
+* "[[The Andersons]]"
+* "[[Theatresports]]"
 * *[[Manhattan Stories]]*
