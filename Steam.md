@@ -11,21 +11,21 @@
 
 
 ## Cast
-[[Audrey Rachel Sansom]] as The Wild Heart
-[[Julie Gillis]] as The Duchess
-[[Emily Breedlove]] as The Amazon
-[[Elizabeth Brammer]] as The Ingenue
-[[Gricelda Silva]] as The Pixie
-[[Aaron Walther]] as The Rogue
-[[Brady James]] as The Young Adventurer
-[[Marc Majcher]] as The Veteran
-[[Jeff Mills]] as The Reluctant Hero
-[[Kevin Miller]] as The Engineer
-[[Ashlee Medlin]] as Bolt
-[[Howard Katz]] as Gear Shift
-[[Joel Osborne]] as Leather Strap
-[[Jayme Ramsey]] as Crank
-[[Leng Wong]] as Alloysia
-[[Ashley Lowe]] as Lily Sabine
+*[[Audrey Rachel Sansom]] as The Wild Heart
+*[[Julie Gillis]] as The Duchess
+*[[Emily Breedlove]] as The Amazon
+*[[Elizabeth Brammer]] as The Ingenue
+*[[Gricelda Silva]] as The Pixie
+*[[Aaron Walther]] as The Rogue
+*[[Brady James]] as The Young Adventurer
+*[[Marc Majcher]] as The Veteran
+*[[Jeff Mills]] as The Reluctant Hero
+*[[Kevin Miller]] as The Engineer
+*[[Ashlee Medlin]] as Bolt
+*[[Howard Katz]] as Gear Shift
+*[[Joel Osborne]] as Leather Strap
+*[[Jayme Ramsey]] as Crank
+*[[Leng Wong]] as Alloysia
+*[[Ashley Lowe]] as Lily Sabine
 
 ## Media
