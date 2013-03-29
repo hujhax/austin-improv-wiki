@@ -46,6 +46,7 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[Cops and Lawyers]]*
 * *[[After-School Improv]]*
 * *[[Live Nude Improv]]*
+* *[[The Andersons]]*
 * *[[Spirited]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
