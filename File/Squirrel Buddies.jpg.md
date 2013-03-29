@@ -3,4 +3,4 @@ Taken from [http://www.facebook.com/squirrelbuddies/photos_stream the Squirrel B
 
 Source unknown.
 ## Licensing
-{{subst:No license from license selector|Somewebsite}}
+{{No license}}
