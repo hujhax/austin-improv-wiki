@@ -26,3 +26,6 @@ The show is an improvised serial anthology based in the tropes of [[Wikipedia - 
 ## Show Summaries
 ## Media
 * [http://vimeo.com/62740963 Video of the 3/9/13 "Beacon" show.]
+
+## More Information
+* [http://www.hideouttheatre.com/ryan-austin-vs-the-perils-of-pulp "Ryan Austin Vs. The Perils of Pulp"]: a post from [[Ryan Austin]] about the rehearsal process.
