@@ -9,7 +9,10 @@
 
 *Strange Worlds* is a mainstage show at [[The Hideout Theatre]].
 
+## Summary
 The show is an improvised serial anthology based in the tropes of [[Wikipedia - Pulp magazine|the pulps]] of the 30s and 40s.  The cast developed hero characters in rehearsals, and each performance featured two adventures, each featuring one of those heroes, and an shorter interstitial story ("Strange Times") that followed a reporter and cop as they investigated the blowback from those stories.
+
+The technical improvisors for the show are [[Cindy Ward]], [[Chad Wellington]], and [[Michael Yew]].
 
 ## Characters
 * **The Beacon** ([[Marc Majcher]]) is a stage magician and debunker named Rick White, cursed by gypsies to attract supernatural forces at all times.
