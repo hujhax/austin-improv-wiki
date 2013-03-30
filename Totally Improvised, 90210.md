@@ -2,7 +2,7 @@
 |Name	=	Totally Improvised, 90210
 |Picture=	90210.jpg
 |Theater=	[[Salvage Vanguard Theater]]
-|Director =	[[Lauren Zinn]]	
+|Director =	[[Lauren Buck]]	
 |Run	=	August 2011
 }}
 
@@ -23,7 +23,7 @@ The show was produced by [[Gnap! Theater Productions]] at [[Salvage Vanguard The
 [[Jesse Overright]] as Brandon Walsh<br/>
 [[Katie Thornton]] as Kelly Taylor<br/>
 [[Michael Thomas]] as Steve Sanders<br/>
-[[Lauren Zinn]] as Brenda Walsh<br/>
+[[Lauren Buck]] as Brenda Walsh<br/>
 [[Shana Merlin]] as Andrea Zuckerman<br/>
 
 Flex Cast: [[Amy Averett]], [[Kevin Miller]], [[Kimberly Cox]], [[Mark Carpenter]], [[Peter Rogers]]
