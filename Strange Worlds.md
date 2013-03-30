@@ -25,4 +25,4 @@ The show is an improvised serial anthology based in the tropes of [[Wikipedia - 
 
 ## Show Summaries
 ## Media
-* [[Http - --vimeo.com-62740963|Video of the 3/9/13 "Beacon" show.]]
+* [http://vimeo.com/62740963 Video of the 3/9/13 "Beacon" show.]
