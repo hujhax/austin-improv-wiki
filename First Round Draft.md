@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		First Round Draft
 |Picture	=	First Round Draft.png
-|Cast	=	{{Unbulleted list|[[Amy McCurdy]] | [[Bob Apthorpe]] | [[Chris R. B. Fay]] | [[Ed Piston]] | [[Griffin Mauser]] | [[Katy Shea]] | [[Kacey Samiee]] | [[Peter Rogers]] | [[Shelly Miller Bosse]] | [[Suzy Mihalik]]}}
+|Cast	=	{{Unbulleted list|[[Amy McCurdy]] | [[Bob Apthorpe]] | [[Chris R. B. Fay]] | [[Ed Piston]] | [[Griffin Mauser]] | [[Katy Shea]] | [[Kacey Samiee]] | [[Peter Rogers]] | [[Shelly Miller Bosse]] | [[Suzie Mihalak]]}}
 |Years	=		2001-2002
 }}
 
