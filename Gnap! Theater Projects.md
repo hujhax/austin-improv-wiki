@@ -23,7 +23,7 @@ See [[List of Austin Improv Shows#Mainstage Productions|the list of improv shows
 *[[Julie Gillis]]
 *[[Kerri Lendo]]
 *[[Kyle Traughber]]
-*[[Lauren Zinn]]
+*[[Lauren Buck]]
 *[[Marc Majcher]]
 *[[Sara Farr]]
 *[[Sarah Marie Curry]]
