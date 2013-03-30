@@ -16,7 +16,6 @@ The troupe formed out of the first graduating class from the [[Hideout]]'s impro
 
 One of their formats was "Fast Forward", a montage show with no scene lasting longer than a minute or two.
 
-
 ## Media
 * [http://www.facebook.com/media/set/?set=a.19100722264.15332.588952264&type=1 Photoset of their 8/11/2002 "Fast Forward" performance.]
 
