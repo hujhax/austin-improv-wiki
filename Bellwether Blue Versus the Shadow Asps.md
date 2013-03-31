@@ -1,4 +1,4 @@
-This was the first [[Strange Worlds]] story about Bellwether Blue.  It was improvised on March 9th, 2013.
+This was the first [[Strange Worlds]] story about Bellwether Blue.  It was improvised on March 9th, 2013. 
 
 ## Episode Summary
 At an Egyptian bazaar near the Pyramids of Giza, buyers and sellers are going about their business...when suddenly in the distance the Pyramids explode, the wave of sound and sand knocking everyone to their feet!  Everyone looks up to see a black cloud in the shape of a snake emerge from where the mighty Pyramids once stood before dissipating!
