@@ -38,7 +38,9 @@ The technical improvisors for the show are [[Cindy Ward]], [[Chad Wellington]], 
 ** [[Bellwether Blue Versus the Shadow Asps]]
 
 ## Media
-* [http://vimeo.com/62740963 Video of the 3/9/13 "Beacon" show.]
+* Episode 1 (3/2/13): [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 photos].
+* Episode 2 (3/9/13): [http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3 photos], [http://vimeo.com/62740963 video (The Beacon)].
+* Episode 3 (3/16/13):  [http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3 photos].
 
 ## More Information
 * [http://www.hideouttheatre.com/ryan-austin-vs-the-perils-of-pulp "Ryan Austin Vs. The Perils of Pulp"]: a post from [[Ryan Austin]] about the rehearsal process.
