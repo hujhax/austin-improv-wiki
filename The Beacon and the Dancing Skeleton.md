@@ -1,4 +1,4 @@
-This was the first [[Strange Worlds]] story about The Beacon.  It was improvised on March 9th, 2013.
+This was the first [[Strange Worlds]] story about The Beacon.  It was improvised on March 9th, 2013. 
 
 ## Episode Summary
 A pair of stage magicians gather at a restaurant cafe catering to their profession of prestidigitation and discuss the Aztec Tomb trick, one claiming it was perfected two years prior by his great grandfather, the legendary Mortimer Chumley (who had reportedly once made the Statue of Liberty disappear).  He confides in his friend that Chumley has become a bit of a recluse...and, worse yet, a necromancer!  At that moment, before his great grandson can spill any more secrets, a pack of Chumley’s zombies attack and kill them both!
