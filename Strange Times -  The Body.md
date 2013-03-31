@@ -1,4 +1,4 @@
-This was the first "Strange Times" story from [[Strange Worlds]].  It was improvised on March 2nd, 2013.
+This was the first "Strange Times" story from [[Strange Worlds]].  It was improvised on March 2nd, 2013. 
 
 ## Episode Summary
 Morgan McNulty and Nate Jester investigate a body found floating in the lake, uncertain of if it’s a person or a bloated fish.  McNulty finds an ID on the body, identifying it as [[Jason Finkelman]].  
