@@ -24,7 +24,7 @@
 *[[Ashlee Medlin]] as Bolt
 *[[Howard Katz]] as Gear Shift
 *[[Joel Osborne]] as Leather Strap
-*[[Jayme Ramsey]] as Crank
+*[[Jayme Ramsay]] as Crank
 *[[Leng Wong]] as Alloysia
 *[[Ashley Lowe]] as Lily Sabine
 
