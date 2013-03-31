@@ -16,7 +16,7 @@ The technical improvisors for the show are [[Cindy Ward]], [[Chad Wellington]], 
 
 ## Characters
 * **The Beacon** ([[Marc Majcher]]) is a stage magician and debunker named Rick White, cursed by gypsies to attract supernatural forces at all times.
-* **Jack Ryder of Neptune** ([[Ryan Austin]]) is an American sailor who, while returning home from the war, is sucked into a wormhole that deposits him on the fantastical planet of Neptune.
+* **Jack Ryder of Neptune** ([[Ryan Austin]]) is an American sailor who, while returning home from the war, is sucked into a wormhole that deposits him on the fantastical planet of Neptune (known to its natives as Shano).
 * **Simon Doyle**
 * **Dr. Lily Wilde**
 * **Maxine Maker**
