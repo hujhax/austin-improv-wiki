@@ -17,14 +17,15 @@ The technical improvisors for the show are [[Cindy Ward]], [[Chad Wellington]], 
 ## Characters
 * **The Beacon** ([[Marc Majcher]]) is a stage magician and debunker named Rick White, cursed by gypsies to attract supernatural forces at all times.
 * **Jack Ryder of Neptune** ([[Ryan Austin]]) is an American sailor who, while returning home from the war, is sucked into a wormhole that deposits him on the fantastical planet of Neptune (known to its natives as Shano).
-* **Simon Doyle**
-* **Dr. Lily Wilde**
-* **Maxine Maker**
-* **The Grey Bishop**
-* **The Peregrine**
-* **Bellwether Blue**
-* **Morgan McNulty**
-* **Nate Jester**
+* **Simon Doyle** ([[Peter Rogers]]) AKA "Codename: Sleuth" is a brilliant British agent who was thrown out of SIS because of his ceaseless pursuit of a shadowy international cabal known only as "The Spiderweb".  He now lives in the United States, tracking the group's agents and zeroing in on its sinister purpose.
+* **Dr. Lily Wilde**, Jungle Professor ([[Madeline Malka]]) is an anthropologist raised in the jungles of the Amazon.  With her ready fists and her keen scientific insights, she fights all of the enemies of the natural world and its denizens.
+* **Maxine Maker** ([[Jessica Arjet]]) is a clever gadgeteer who uses her inventions to fight mad scientists, giant robots, and the like, in a world that's often biased against female engineers.
+* **The Grey Bishop** ([[Andreas Fabis]]) is Martin Van Sant, a Dutch bookshop owner and chess enthusiast who, in his spare time, dons a domino mask and matches wits against master criminals as "The Grey Bishop".  His morally ambiguous crimefighting methods often leave a body count, and he has a penchant for leaving chess pieces with his victims: pawns for minor henchmen, perhaps a bishop for a higher lieutenant, and so on.
+* **The Peregrine** ([[Lacy Shawn]]) is Annie Peregrine, a high-society girl who moonlights as the city's most feared cat burglar.  She targets the corrupt rich, and commits her crimes with the help of a slingshot with a variety of useful pellets, and Hawkimedes, a particularly well-trained hawk.
+* **Bellwether Blue** ([[Jayme Ramsey]]) is an ace pilot, the daughter of a great (and deceased) war hero.  She flies with her two "Liberty Aces", Tank ([[Alexander Hilary]]) and Spunk ([[Heidi Rogers]]), and often fights fascists intent on world domination.
+### The Protagonists of Strange Times
+* **Morgan McNulty** ([[Heidi Rogers]]) is a city cop with a penchant for violence.  She's been suspended from active duty at least once for this.
+* **Nate Jester** ([[Alexander Hilary]]) is a former war reporter who now covers oddball, freak occurrences for the city paper.
 
 ## Show Summaries
 ## Media
