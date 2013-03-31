@@ -1,4 +1,4 @@
-This was the second "Strange Times" story from [[Strange Worlds]].  It was improvised on March 9th, 2013.
+This was the second "Strange Times" story from [[Strange Worlds]].  It was improvised on March 9th, 2013. 
 
 ## Episode Summary
 With his partner Detective Morgan McNulty on suspension, Nate Jester pursues his own story as he tries to convince his editor to let him investigate rumors of a mystical piece of jewelry.  His sources have led him to Stephenson, who now works for reclusive billionaire and occult collector Benjamin Davis (who has apparently acquired both Van Der Pferffer’s manservant and his collection).  His editor begrudgingly allows him to chase the story, ignoring the reports of a zombie attack at a local cafe.
