@@ -28,11 +28,11 @@ The technical improvisors for the show are [[Cindy Ward]], [[Chad Wellington]], 
 * **Nate Jester** ([[Alexander Hilary]]) is a former war reporter who now covers oddball, freak occurrences for the city paper.
 
 ## Show Summaries
-* Episode 1 (3/2/13)
+* Episode 1 (3/2/13):
 ** [[Maxine Maker and the Scintillating Confabulator!]]
 ** [[Strange Times -  The Body]]
 ** [[The Grey Bishop -  The Ruby and the Tiger]]
-* Episode 2 (3/9/13)
+* Episode 2 (3/9/13):
 ** [[The Beacon and the Dancing Skeleton]]
 ** [[Strange Times -  The Pendant]]
 ** [[Bellwether Blue Versus the Shadow Asps]]
