@@ -6,4 +6,4 @@
 |Run	=	May/Jun 2012
 }}
 
-[[Theatresports]], [http://en.wikipedia.org/wiki/TheatreSports the traditional 'improv contest' format] from [http://en.wikipedia.org/wiki/Keith_Johnstone Keith Johnstone], will have a mainstage run at [[The Hideout Theatre]] in their downstairs theater.
+[[Wikipedia - TheatreSports|TheatreSports]], the traditional 'improv contest' format from [http://en.wikipedia.org/wiki/Keith_Johnstone Keith Johnstone], will have a mainstage run at [[The Hideout Theatre]] in their downstairs theater.
