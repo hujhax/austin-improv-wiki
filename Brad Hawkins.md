@@ -15,4 +15,4 @@ Brad Hawkins is an improv performer who works primarily with [[The Hideout Theat
 
 ## Shows
 * *[[The Black Vault]]*
-* *[[Pocketful of Posies]*
+* *[[Pocketful of Posies]]*
