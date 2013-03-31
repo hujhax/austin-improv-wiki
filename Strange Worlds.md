@@ -23,7 +23,7 @@ The technical improvisors for the show are [[Cindy Ward]], [[Chad Wellington]], 
 * **The Grey Bishop**
 * **The Peregrine**
 * **Bellwether Blue**
-* **Debra McNulty**
+* **Morgan McNulty**
 * **Nate Jester**
 
 ## Show Summaries
