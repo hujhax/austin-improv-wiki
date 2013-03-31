@@ -1,5 +1,5 @@
-This was the first [[Strange Worlds]] story about The Grey Bishop.  It was improvised on March 2nd, 2013.
-
+This was the first [[Strange Worlds]] story about The Grey Bishop.  It was improvised on March 2nd, 2013. 
+ 
 ## Episode Summary
 Two cops discuss what a slow night it is when a mysterious woman sneaks behind them and knocks them both unconscious with a light touch to their necks before stealing the precious ruby they had been hired to guard.
 
