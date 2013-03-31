@@ -1,4 +1,4 @@
-This was the first [[Strange Worlds]] story about Maxine Maker.  It was improvised on March 2nd, 2013.
+This was the first [[Strange Worlds]] story about Maxine Maker.  It was improvised on March 2nd, 2013. 
 
 ## Episode Summary
 The Slime Guts gang, adorned in prep school jackets, stages a series of heists in laboratories across the city, stealing a variety of chemicals, assaulting and threatening scientists, and commanding them to spread the gang’s name around.  
