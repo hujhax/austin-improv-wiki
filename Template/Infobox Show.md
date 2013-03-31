@@ -9,6 +9,7 @@ This template lists standard, useful information about an improv troupe.
 |Director =		
 |Cast	=		
 |Run	=		
+|Subsequent Runs = 
 }}
 </pre>
 
@@ -26,9 +27,11 @@ This template lists standard, useful information about an improv troupe.
 |-
 | *Director*           || The person or persons who directed the show.
 |-
-| *Cast*           || Who was in the show.
+| *Cast*           || Who was in the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of performers.
 |-
 | *Run*     || The time frame of its initial run -- e.g., "Jan/Feb 2010".
+|-
+| *Subsequent Runs*     || The time frame(s) of its subsequent run(s) -- e.g., "Jan/Feb 2010".  If there are multiple subsequent runs, use the [[Template/Unbulleted list|unbulleted list template]] to create a list.
 |}
 </noinclude>
 
@@ -53,12 +56,18 @@ This template lists standard, useful information about an improv troupe.
 			<td class="category">{{{Director|Unknown}}}</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
-			<td class="category">{{{Cast|Unknown}}}</td>
-		</tr>
-		<tr class="">
 			<th scope="row" style="text-align:left; vertical-align: top;">Initial Run</th>
 			<td class="category">{{{Run|Unknown}}}</td>
+		</tr>
+{{#if: {{{Subsequent Runs|}}} |
+		<tr class="">
+			<th scope="row" style="text-align:left; vertical-align: top;">Subsequent Run(s)</th>
+			<td class="category">{{{Subsequent Runs|Unknown}}}</td>
+		</tr>
+|}}
+		<tr class="">
+			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
+			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
 	</table>
 </div>
