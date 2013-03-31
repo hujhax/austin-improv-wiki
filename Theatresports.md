@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	TheatreSports	
-|Director =	[[Roy Janik]]	
+|Director =	{{Unbulleted list|[[Roy Janik]]	| [[Ryan Austin]]}}
 |Cast	=	{{Unbulleted list|[[Bridget Brewer]] | [[Jon Bolden]] | [[Kareem Badr]] | [[Keegan Hines]] | [[Lacy Shawn]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Nicole Oliver]] | [[Quinn Buckner]] | [[Sean Hill]]}} 
 |Theater = [[The Hideout Theatre]]
 |Run	=	May/Jun 2012
