@@ -16,6 +16,7 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[The Derby]]*
 * *[[The Saturday Night Special]]*
 ### Mainstage Productions
+* "[[Lola]]"
 * *[[Dusk]]*
 * *[[Guilds of Steel]]*
 * *[[One More Night]]*
@@ -56,10 +57,12 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[Start Trekkin']]*
 * *[[Cops and Lawyers]]*
 * *[[After-School Improv]]*
+* "[[Ka-Baam!]]"
 * *[[The Violet Underbelly]]*
 * *[[Live Nude Improv]]*
 * *[[Hitchcocked!]]*
 * *[[The Andersons]]*
+* "[[Holy 1960s Batman, Batman!]]"
 * *[[Who Is T. Henry Baudecliffe]]*
 * *[[Spirited]]*
 * *[[Charles Dickens Unleashed]]*
@@ -74,6 +77,10 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[TheatreSports (mainstage run)]]* (2013)
 * *[[Fakespeare]]* (2013)
 * *[[A Bedtime Gorey]]* (2013)
+
+* "[[Louder Than Words]]"
+* "[[The Plagiarists]]"
+* "[[The Library]]"
 
 ## The Institution Theater
 ### Ongoing Shows
