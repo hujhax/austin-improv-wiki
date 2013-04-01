@@ -50,7 +50,9 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[After-School Improv]]*
 * *[[The Violet Underbelly]]*
 * *[[Live Nude Improv]]*
+* *[[Hitchcocked!]]*
 * *[[The Andersons]]*
+* *[[Who Is T. Henry Baudecliffe]]*
 * *[[Spirited]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
