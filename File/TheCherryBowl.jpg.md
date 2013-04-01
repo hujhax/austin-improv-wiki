@@ -1,5 +1,7 @@
 ## Summary
-Poster art for [[The Cherry Bowl]].
+Poster for [[The Cherry Bowl]].
+
+Poster art by [[Courtney Hopkin]].
 
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
