@@ -23,7 +23,7 @@ The current members of ¡ZARZAMORA! are:
 * BIg Sexy Weekend of Improv, Dallas, TX, 2012
 * Red Dirt Improv Festival, Oklahoma City, OK, 2012
 * Providence Improv Festival, Providence, RI, 2012
-* [[Out of Bounds Improv Festival]], Austin, TX, 2012
+* [[Out of Bounds Comedy Festival]], Austin, TX, 2012
 
 The following upcoming festival appearances are scheduled:
 * Houston Improv Festival, Houston, TX, 2013
