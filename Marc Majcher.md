@@ -11,29 +11,42 @@ Marc Majcher is an improv performer and director.
 ## Troupes
 * [[Improv for Evil]]
 * [[The Escorts]]
+* [[The Asides]]
+* [[MmmmK]]
 
 ## Shows
+* "[[41 Hour Improv Marathon]]"
+* "[[43 Hour Improv Marathon]]"
 * *[[After-School Improv]]*
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
 * *[[Charles Dickens Unleashed]]*
+* "[[Cochise]]"
 * *[[False Matters]]* (2011)
 * *[[Fandom]]*
 * *[[Guilds of Steel]]*
+* "[[Holy 1960s Batman, Batman!]]"
 * *[[Improvised Shakespeare]]*
+* "[[Ka-Baam!]]"
+* "[[The Library]]"
 * *[[Live Nude Improv]]*
+* "[[Lola]]"
+* "[[Louder Than Words]]"
+* "[[Magna Veritas]]"
 * *[[Manhattan Stories]]*
 * *[[One More Night]]*
+* "[[The Plagiarists]]"
 * *[[Process]]*
+* "[[Racket]]"
 * *[[Rock]]*
 * *[[The Sandbox]]*
+* "[[Seance]]"
 * *[[Spirited]]* (Performed and co-directed)
 * *[[Start Trekkin']]*
 * *[[Steam]]* (2012)
 * *[[Strange Worlds]]*
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]*
-
 
 * *[[Maestro]]* (2000-)
 * *[[The Nightmare Video Project]]* (2010-2012)
@@ -47,22 +60,5 @@ Marc Majcher is an improv performer and director.
 * *[[This American Live]]* (Segment)
 
 * *[[Blink]]* (Coached)
-
-* "[[Magna Veritas]]"
-* "[[Cochise]]"
-* "[[Racket]]"
-* "[[Seance]]"
-* "[[41 Hour Improv Marathon]]"
-* "[[43 Hour Improv Marathon]]"
-
-* "[[Lola]]"
-* "[[Louder Than Words]]"
-* "[[Ka-Baam!]]"
-* "[[The Plagiarists]]"
-* "[[The Library]]"
-* "[[Holy 1960s Batman, Batman!]]"
-The Asides
-MmmmK
-
 
 [[Category/Performer|M]]
