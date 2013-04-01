@@ -4,7 +4,6 @@ Here is a list of shows that have run at various improv theaters in Austin.
 ### Ongoing Shows
 * *[[The Cagematch]]*
 * *[[Stool Pigeon]]*
-### Former Shows
 * *[[The Shakedown]]*
 ### Mainstage Productions
 * *[[Family Tides]]*
