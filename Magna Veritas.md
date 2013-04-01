@@ -23,7 +23,7 @@
 
 
 ## Format
-Two "supernatural" characters were pre-selected prior to each show, one angelic, one demonic. The remainder of the cast mainly played humans or minor supernatural figures. 
+Two "supernatural" characters were pre-selected prior to each show, one angelic, one demonic. The remainder of the cast mainly played humans or minor supernatural figures. The show took the form of a single narrative which pitted the two supernatural forces against each other, usually revolving around tropes found in such religious/apocalyptic fiction as *[[Wikipedia - The Omen|The Omen]]*, *[[Wikipedia - Left Behind|Left Behind]]*, or *[[Wikipedia - Good Omens|Good Omens]]*.
 
 ## Scheduling
 *Magna Veritas* represented something of an experiment for Gnap! scheduling, intended to build a show by a conventional rehearsal process and then a run spread out over an extended period of time. The show was slotted at 10pm on one Saturday a month, in a 45-minute time slot. The bill was shared with a [[Merlin Works]] troupe or other local troupe.
