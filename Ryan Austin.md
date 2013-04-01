@@ -19,4 +19,4 @@ Ryan Austin is an improviser who works mostly with [[The Hideout Theatre]].
 *[[TheatreSports (mainstage run)]] (2013, assistant director)
 
 
-[[Performer|A]]
+[[Category/Performer|A]]
