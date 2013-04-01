@@ -23,7 +23,7 @@ The Foreign Legion explored truly American customs, locations and things by send
 *7/2/2011 - SVT Saturday Night Special ("4th of July")
 *6/18/2011 - SVT Saturday Night Special ("Unionized Labor")
 
-After Menelaos went back to his home country of Greece The Foreign Legion stopped performing.
+After Menelaos went back to his home country of Greece, The Foreign Legion stopped performing.
 
 ## More Information
 *[https://www.facebook.com/pages/The-Foreign-Legion/204366602931754 The Foreign Legion facebook page]
