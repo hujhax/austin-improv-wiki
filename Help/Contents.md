@@ -18,9 +18,9 @@ If you'd like to make a new page for a troupe, a show, or a performer, try using
 
 **How do I upload a picture?**<br/>
 [[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers I contacted ([[Jon Bolden]], [[Steve Rogers]], [[Roy Moore]], [[Menelaos Pokros]], and [[Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
-1. Credit them in the picture's description.
-2. Link back to the original photoset if you can.
-3. In the "licensing" dropdown, select "The copyright holder gave me permission to use this work only in AIC Wiki articles."
+* Credit them in the picture's description.
+* Link back to the original photoset if you can.
+* In the "licensing" dropdown, select "The copyright holder gave me permission to use this work only in AIC Wiki articles."
 
 For an example of following these three rules, look at [http://wiki.austinimprov.com/wiki/File:Peter_Rogers_Pic.jpg this photo].
 
