@@ -3,6 +3,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ## Active
 ### A
 * [[The Amazon and the Milksop]]
+* [[The Asides]]
 ### B
 * [[Bad Boys]]
 * [[Big Beautiful Warlock]]
@@ -39,6 +40,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Midnight Society]]
 * [[Mike & Irene]]
 * [[Miller & Purselley]]
+* [[MmmmK]]
 * [[My Best Fiend]]
 
 ### N
