@@ -15,13 +15,13 @@ Marc Majcher is an improv performer and director.
 * [[MmmmK]]
 
 ## Shows
-* "[[41 Hour Improv Marathon]]"
-* "[[43 Hour Improv Marathon]]"
-* *[[After-School Improv]]*
-* *[[Austin Secrets]]*
-* *[[The Black Vault]]*
+* [[41 Hour Improv Marathon]]
+* [[43 Hour Improv Marathon]]
+* [[After-School Improv]]
+* [[Austin Secrets]]
+* *[[The Black Vault]]* (Performed and Directed)
 * *[[Charles Dickens Unleashed]]*
-* "[[Cochise]]"
+* "[[Cochise]]" (Performed and Directed)
 * *[[False Matters]]* (2011)
 * *[[Fandom]]*
 * *[[Guilds of Steel]]*
