@@ -25,3 +25,5 @@ There has been an influx of experienced improvisers from out of town coming to A
 
 ## Proliferation of Theaters
 Following [http://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina] in 2005, New Orleans-based improv troupe [[ColdTowne (troupe)|ColdTowne]] relocated to Austin. In 2006, they opened [[ColdTowne Theater]] on Airport Blvd.
+
+[[Tom Booker]], formerly of Chicago and Los Angeles, relocated to Austin in 2007 and soon founded [[The Institution Theater]]. At first, the Institution taught classes out of a photography studio on East 7th St, but moved into its own facility in 2011.
