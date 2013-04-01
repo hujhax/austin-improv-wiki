@@ -20,15 +20,15 @@ The current members of ¡ZARZAMORA! are:
 
 ## Festivals
 ¡ZARZAMORA! has played the following festivals:
-* BIg Sexy Weekend of Improv, Dallas, TX, 2012
-* Improv Festival Oklahoma, Oklahoma City, OK, 2011 and 2012
-* Providence Improv Festival, Providence, RI, 2012
-* [[Out of Bounds Comedy Festival]], Austin, TX, 2012
+* BIg Sexy Weekend of Improv, Dallas, TX (2012)
+* Improv Festival Oklahoma, Oklahoma City, OK (2011, 2012)
+* Providence Improv Festival, Providence, RI, (2012)
+* [[Out of Bounds Comedy Festival]], Austin, TX (2011, 2012)
 
 The following upcoming festival appearances are scheduled:
-* Houston Improv Festival, Houston, TX, 2013
-* Finland International Improv Festival, Tampere, Finland, 2013
-* Duke City Improv Festival, Albuquerque, NM, 2013
+* Houston Improv Festival, Houston, TX (2013)
+* Finland International Improv Festival, Tampere, Finland (2013)
+* Duke City Improv Festival, Albuquerque, NM (2013)
 
 ## More Information
 * [https://www.facebook.com/pages/Zarzamora/126236170779574 The troupe's facebook page.]
