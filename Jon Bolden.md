@@ -11,11 +11,11 @@ Jon Bolden is an improv performer, director, and photographer who works primaril
 Jon moved to downtown Austin in 2007, where he stumbled upon a performance of [[The Available Cupholders]] at [[The Hideout Theatre]]. It was his first experience seeing live improv. He attended the free [[Tuesday Night Jam]] the following week.
 
 ## Troupes
-* [[Rise & Shine]]
 * [[Blink]]
 * [[The Dukes of Bedside Manor]]
 * [[Squirrel Buddies]]
 * [[The Randy Meisner]]
+* [[Rise & Shine]]
 
 ## Shows
 * *[[After School Improv]]*
