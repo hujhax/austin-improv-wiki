@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Magna Veritas	
-|Picture=	MagnaVeritas.gif
+|Picture=	MagnaVeritas.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Andreas Fabis]]	
 |Cast	=	{{Unbulleted list|[[Andreas Fabis]] 
@@ -13,6 +13,7 @@
 | [[Kristin Firth]]
 | [[Todd Hart]]
 | [[Emily Breedlove]]
+| [[Katherine Greco]]
 }}
 |Run	=	Sep-Dec 2011
 }}
