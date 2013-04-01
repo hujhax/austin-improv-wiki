@@ -35,8 +35,10 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### M
 * [[MANDINKA]]
 * [[Midnight Society]]
-* [[Mike & Irene  [[Miller & Purselley]]
+* [[Mike & Irene]]
+* [[Miller & Purselley]]
 * [[My Best Fiend]]
+
 ### N
 * [[The Nesting Dolls]]
 * [[Nice Astronaut]]
