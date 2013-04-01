@@ -15,6 +15,9 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 * [[Three Hot Chicks]]
 * [[Franz & Dave]]
 * [[Goat]]
+* [[¡Zarzamora!]]
+* [[Your Dad's Friends]]
+* [[Who Dack]]
 
 ## Shows
 * *[[Magna Veritas]]*
