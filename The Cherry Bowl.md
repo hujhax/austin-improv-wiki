@@ -20,7 +20,7 @@
 }}
 |Run	=	Feb/Mar 2012
 }}
-***The Cherry Bowl*** was a show produced by [[Gnap! Theater Projects]] in 2012. While not an improvised show, improv was used to create bits of clowning to construct a dialogue-free, commedia dell'arte-inspired adaptation of Anton Chekhov's *[http://en.wikipedia.org/wiki/The_Cherry_Orchard The Cherry Orchard]*. Gnap! member [[Ben Schave]] directed the production.
+***The Cherry Bowl*** was a show produced by [[Gnap! Theater Projects]] in 2012. While not an improvised show, improv was used to create bits of clowning to construct a dialogue-free, *commedia dell'arte*-inspired adaptation of Anton Chekhov's *[http://en.wikipedia.org/wiki/The_Cherry_Orchard The Cherry Orchard]*. Gnap! member [[Ben Schave]] directed the production.
 
 ## Cast
 * [[Emily Breedlove]] as Lyubov
