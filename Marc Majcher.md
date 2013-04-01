@@ -48,4 +48,21 @@ Marc Majcher is an improv performer and director.
 
 * *[[Blink]]* (Coached)
 
+* "[[Magna Veritas]]"
+* "[[Cochise]]"
+* "[[Racket]]"
+* "[[Seance]]"
+* "[[41 Hour Improv Marathon]]"
+* "[[43 Hour Improv Marathon]]"
+
+* "[[Lola]]"
+* "[[Louder Than Words]]"
+* "[[Ka-Baam!]]"
+* "[[The Plagiarists]]"
+* "[[The Library]]"
+* "[[Holy 1960s Batman, Batman!]]"
+The Asides
+MmmmK
+
+
 [[Category/Performer|M]]
