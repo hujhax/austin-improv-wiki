@@ -24,6 +24,8 @@ There has been an influx of experienced improvisers from out of town coming to A
 
 
 ## Proliferation of Theaters
+Beginning in the mid-2000s, more improv venues began to crop up in Austin.
+
 Following [http://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina] in 2005, New Orleans-based improv troupe [[ColdTowne (troupe)|ColdTowne]] relocated to Austin. In 2006, they opened [[ColdTowne Theater]] on Airport Blvd.
 
 [[The New Movement Theater]] was founded in 2009 by former ColdTowne members [[Chris Trew]] and [[Tami Nelson]].
