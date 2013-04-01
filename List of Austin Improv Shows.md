@@ -48,6 +48,7 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[Start Trekkin']]*
 * *[[Cops and Lawyers]]*
 * *[[After-School Improv]]*
+* *[[The Violet Underbelly]]*
 * *[[Live Nude Improv]]*
 * *[[The Andersons]]*
 * *[[Spirited]]*
