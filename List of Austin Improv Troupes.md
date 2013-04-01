@@ -26,7 +26,9 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Improv for Evil]]
 * [[In Our Prime]]
 * [[Indigo Shift]]
+* [[The Intentions]]
 * [[IScream Sandwich]]
+
 ### J
 ### K
 * [[The Knuckleball Now]]
