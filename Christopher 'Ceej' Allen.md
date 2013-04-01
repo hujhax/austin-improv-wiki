@@ -5,6 +5,15 @@
 |Years	=	2003-Present
 }}
 
-**Christopher "Ceej" Allen** is an Austin improviser. He is currently a member of the troupes [[Confidence Men]], [[Franz & Dave]], and [[My Best Fiend]].
+**Christopher "Ceej" Allen** is an Austin improviser.
 
 "Ceej" is a diminutive of Allen's first two initials, C.J.
+
+## Troupes
+* [[Confidence Men]]
+* [[Franz & Dave]]
+* [[My Best Fiend]]
+
+## Shows
+* *[[Hitchcocked!]]*
+* *[[The Sci-Fi Comedy Double Feature]]*
