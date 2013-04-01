@@ -30,6 +30,6 @@ Following [http://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina] in 
 
 [[Shannon McCormick]] founded [[Gnap! Theater Projects]] in 2008, sharing use of [[Salvage Vanguard Theater]] with [[Merlin Works Institute for Improvisation]] and producing weekly improv shows.
 
-[[The New Movement Theater]] was founded in 2009 by former ColdTowne members [[Chris Trew]] and [[Tami Nelson]]. Originally based out of space on East 11th St, The New Movement moved into its present facility on Lavaca St in 2012.
+[[The New Movement Theater]] was founded in 2009 by former ColdTowne members [[Chris Trew]] and [[Tami Nelson]]. Originally based out of space on East 11th St, The New Movement moved into its present facility on Lavaca St in 2012. Branches of the theater and school have since opened in Houston and New Orleans.
 
 [[Tom Booker]], formerly of Chicago and Los Angeles, relocated to Austin in 2007 and soon founded [[The Institution Theater]]. At first, the Institution taught classes out of a photography studio on East 7th St, but moved into its own facility in 2011.
