@@ -21,3 +21,7 @@ After 2000, well, the festival producers [[Ed Carter]] and [[Marc Pruter]], alon
 In the past few years, several factors has led to a renaissance in Austin Improv. Most of the previously mentioned troupes have died and like a phoenix from the ashes have been able to be reborn at [[The Hideout]] because of new leadership by [[Andy Crouch]] and collaborative projects like [[The Austin Improv Collective]], [[The Out of Bounds Improv Festival and Miniature Golf Tournament]], and [[Waffle Fest]].
 
 There has been an influx of experienced improvisers from out of town coming to Austin to perform and study. And because of the collapse of other venues, Austin now has a central home for improvisation where troupes from different background and styles perform. Thankfully, the Austin economy has picked up so people have more money for improv classes and shows.
+
+
+## Proliferation of Theaters
+Following [http://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina] in 2005, New Orleans-based improv troupe [[ColdTowne (troupe)|ColdTowne]] relocated to Austin. In 2006, they opened [[ColdTowne Theater]] on Airport Blvd.
