@@ -20,5 +20,6 @@ Rhino Dino included, in various combinations of three:
 * [[Quinn Buckner]]
 * [[Kyle Traughber]]
 * [[Courtney Hopkin]]
+* [[Lacy Shawn]]
 
 Rhino Dino has continued to perform together following the discontinuation of the Derby.
