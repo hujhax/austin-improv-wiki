@@ -15,7 +15,6 @@
 | [[Aaron Walther]]
 | [[Michael Jastroch]]
 | [[Joel Osborne]]
-| [[Brady James]]
 | [[Ben Schave]]
 }}
 |Run	=	Feb/Mar 2012
@@ -34,4 +33,4 @@
 * [[Aaron Walther]] as Yasha
 * [[Michael Jastroch]] as Yepikhodov
 * [[Joel Osborne]] as Firs
-* [[Brady James]] as Pishchik (Due to family emergency, James was unable to perform in the production, and the role of Pischik was played by director Schave.)
+* [[Ben Schave]] as Pishchik (stepping in for [[Brady James]], who had to bow out of the production just before opening night)
