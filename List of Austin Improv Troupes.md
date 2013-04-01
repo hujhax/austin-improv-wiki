@@ -7,7 +7,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Parallelogramophonograph]]
 * [[The Randy Meisner]]
 * [[Squirrel Buddies]]
-* [[Your 's Friends]]
+* [[Your Dad's Friends]]
 * [[¡Zarzamora!]]
 
 ## On Hiatus
@@ -16,5 +16,5 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ## Not Active
 * [[Blink]]
 * [[The Dancy Street D'Orchestra]]
-* [[First Draft]]
-* [[The Legion]]
+* [[First Round Draft]]
+* [[The Foreign Legion]]
