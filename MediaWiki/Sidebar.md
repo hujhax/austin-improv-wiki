@@ -7,7 +7,7 @@
 ** List of Austin Improv Performers|Performers
 ** recentchanges-url|recentchanges
 ** randompage-url|randompage
-** helppage|help
+** helppage|**Help!**
 * SEARCH
 * TOOLBOX
 * LANGUAGES
