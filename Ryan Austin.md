@@ -17,3 +17,6 @@ Ryan Austin is an improviser who works mostly with [[The Hideout Theatre]].
 * [[The Fancy-Pants Mashup]] (director)
 * [[Strange Worlds]]
 *[[TheatreSports (mainstage run)]] (2013, assistant director)
+
+
+[[Performer|A]]
