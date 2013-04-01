@@ -2,6 +2,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 
 ## Active
 ### A
+* [[The Amazon and the Milksop]]
 ### B
 * [[Bad Boys]]
 * [[Big Beautiful Warlock]]
@@ -11,6 +12,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### D
 * [[Dervish]]
 ### E
+* [[Elevator Action]]
 * [[The Escorts]]
 ### F
 * [[The Frank Mills]]
@@ -27,13 +29,16 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[IScream Sandwich]]
 ### J
 ### K
+* [[The Knuckleball Now]]
 ### L
 * [[Local Genius Society]]
 ### M
+* [[MANDINKA]]
 * [[Midnight Society]]
 * [[Miller & Purselley]]
 * [[My Best Fiend]]
 ### N
+* [[The Nesting Dolls]]
 * [[Nice Astronaut]]
 ### O
 * [[Oh, Science!]]
@@ -44,12 +49,15 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### R
 * [[The Randy Meisner]]
 * [[Ratliff & Jackson]]
+* [[RhinoDino]]
 ### S
 * [[Scout]]
 * [[The Seven Eight Sevens]]
 * [[Squirrel Buddies]]
 ### T
 * [[The Team]]
+* [[Toy Boat]]
+* [[Two Guys From Yonkers]]
 ### U
 ### V
 ### W
