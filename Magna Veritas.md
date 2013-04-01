@@ -14,7 +14,6 @@
 | [[Todd Hart]]
 | [[Emily Breedlove]]
 }}
-}}
 |Run	=	Sep-Dec 2011
 }}
 
