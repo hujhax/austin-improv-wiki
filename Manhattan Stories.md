@@ -8,4 +8,4 @@
 |Run	=	July/August 2012 - Extended through Sept 2012
 }}
 
-*Manhattan Stories* was an improvised longform show in style of the films of [[Wikipedia - Woody Allen|Woody Allen]].
+*Manhattan Stories* was an improvised longform show in style of the films of [[Wikipedia - Woody Allen|Woody Allen]]. It originally ran in July/August of 2012 but was extended through September.
