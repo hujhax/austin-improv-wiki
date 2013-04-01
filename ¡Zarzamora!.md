@@ -5,7 +5,7 @@
 |Years	=		2012-Present
 }}
 
-¡ZARZAMORA! is an improv troupe that focuses on historically-themed improv shows.
+**¡ZARZAMORA!** is an improv troupe that focuses on historically-themed improv shows.
 
 ## History
 ## More Information
