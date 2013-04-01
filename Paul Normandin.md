@@ -10,6 +10,8 @@ Paul Normandin is an improv performer who works primarily with [[The Hideout The
 ## History
 ## Troupes
 * [[In Our Prime]]
+* [[We're Here to Date Your Daughter]]
+* [[Two Guys From Yonkers]]
 
 ## Shows
 * *[[The Black Vault]]*
