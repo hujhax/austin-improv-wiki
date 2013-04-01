@@ -7,7 +7,7 @@
 |Years	=		2012-Present
 }}
 
-Squirrel Buddies is an improv duo that focuses on positivity.
+**Squirrel Buddies** is an improv duo that focuses on positivity.
 
 ## History
 Squirrel Buddies plan to attend the Alaska Improv Festival in 2013.
