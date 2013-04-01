@@ -77,7 +77,7 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[Only Three Will Survive]]*
 * *[[This American Live]]*
 * *[[The Next Chapter]]* (2013)
-* *[[The Briefcase]]* (2013)
+* *[[The Suitcase]]* (2013)
 
 ## Merlin Works Student Productions
 * *[[Heist]]*
