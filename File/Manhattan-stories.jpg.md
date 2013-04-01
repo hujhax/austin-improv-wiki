@@ -1,5 +1,5 @@
 ## Summary
-Promotional photo for [[Manhattan Stories]].
+Promotional photo collage for [[Manhattan Stories]].
 
 Photos by [[Jon Bolden]].
 
