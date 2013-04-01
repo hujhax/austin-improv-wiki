@@ -1,1 +1,1 @@
-**The Merlin Works Institute for Improvisation** is the improv production and teaching company run by [[Shana Merlin]]. The company was founded in 2003 adopting its current name in 2008.
+**The Merlin Works Institute for Improvisation** is the improv production and teaching company run by [[Shana Merlin]]. The company was founded in 2003, adopting its current name in 2008.
