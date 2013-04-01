@@ -21,7 +21,7 @@
 *[[Sci-Fi Saturdays]]
 *[[Only Three Will Survive]]
 *[[Strange Worlds]]
-*[[TheatreSports (mainstage run)]] (2013, assistant director)
+*[[TheatreSports (mainstage run)]]
 *[[The Sword of Merlin Works]]
 
 
