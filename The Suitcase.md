@@ -3,7 +3,7 @@
 |Picture=	The Suitcase.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Asaf Ronen]]
-|Cast	=	{{Unbulleted list|[[Andrew Robinson]] | [[Clifton Highfield]] | [[David Lampe]] | [[Jason Vines]] | [[Jeanette Jones]] | [[Jen Kaplan]] | [[Kayla Lane Freeman]] | [[Nicole Beckley]] | [[Samantha schak]] | [[Wyatt Tall]]}}
+|Cast	=	{{Unbulleted list|[[Alexander Hilary]] | [[Andrew Robinson]] | [[Clifton Highfield]] | [[David Lampe]] | [[Jason Vines]] | [[Jeanette Jones]] | [[Jen Kaplan]] | [[Kayla Lane Freeman]] | [[Nicole Beckley]] | [[Samantha schak]] | [[Wyatt Tall]]}}
 |Run	=	May/Jun 2013
 }}
 
