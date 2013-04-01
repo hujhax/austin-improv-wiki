@@ -15,32 +15,32 @@ Marc Majcher is an improv performer and director.
 * [[MmmmK]]
 
 ## Shows
-* [[41 Hour Improv Marathon]]
-* [[43 Hour Improv Marathon]]
-* [[After-School Improv]]
-* [[Austin Secrets]]
+* *[[41 Hour Improv Marathon]]*
+* *[[43 Hour Improv Marathon]]*
+* *[[After-School Improv]]*
+* *[[Austin Secrets]]*
 * *[[The Black Vault]]* (Performed and Directed)
 * *[[Charles Dickens Unleashed]]*
-* "[[Cochise]]" (Performed and Directed)
+* *[[Cochise]]* (Performed and Directed)
 * *[[False Matters]]* (2011)
 * *[[Fandom]]*
 * *[[Guilds of Steel]]*
-* "[[Holy 1960s Batman, Batman!]]"
+* *[[Holy 1960s Batman, Batman!]]*
 * *[[Improvised Shakespeare]]*
-* "[[Ka-Baam!]]"
-* "[[The Library]]"
+* *[[Ka-Baam!]]*
+* *[[The Library]]*
 * *[[Live Nude Improv]]*
-* "[[Lola]]"
-* "[[Louder Than Words]]"
-* "[[Magna Veritas]]"
+* *[[Lola]]*
+* *[[Louder Than Words]]*
+* *[[Magna Veritas]]*
 * *[[Manhattan Stories]]*
 * *[[One More Night]]*
-* "[[The Plagiarists]]"
+* *[[The Plagiarists]]*
 * *[[Process]]*
-* "[[Racket]]"
+* *[[Racket]]*
 * *[[Rock]]*
 * *[[The Sandbox]]*
-* "[[Seance]]"
+* *[[Seance]]*
 * *[[Spirited]]* (Performed and co-directed)
 * *[[Start Trekkin']]*
 * *[[Steam]]* (2012)
