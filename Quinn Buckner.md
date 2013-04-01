@@ -18,3 +18,5 @@ This is a story all about how...
 ## Shows
 * *[[Guilds of Steel]]*
 * *[[Fandom]]*
+
+[[Category/Performer|Category:Performer]]
