@@ -9,7 +9,7 @@
 **Goat** is a troupe specializing in improvised tragedy.
 
 ## History
-Goat was formed in late 2011 when [[Brad Hawkins]] assembled a group of improvisers to try a show based around drama rather than overt comedy. 
+Goat was formed in late 2011 when [[Brad Hawkins]] assembled a group of improvisers to try a show based around drama rather than overt comedy. Their first show was on March 27, 2012.
 
 ## Members
 ### Active Members
@@ -22,6 +22,12 @@ Goat was formed in late 2011 when [[Brad Hawkins]] assembled a group of improvis
 * [[Amber Shae]]
 * [[John Brewster]]
 * [[Michael Ferstenfeld]]
+
+## Festivals
+Goat has appeared in the following festivals:
+
+* [[Out of Bounds Comedy Festival]] (2012)
+* [[Improvised Play Festival]] (2013)
 
 ## Links
 * [http://goatimprov.com Goat's Website]
