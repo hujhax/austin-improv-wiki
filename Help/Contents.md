@@ -31,6 +31,12 @@ For an example of following these three rules, look at [http://wiki.austinimprov
 (Also, [[Courtney Hopkin]] and [[Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
 
 
+**I want both "Hideout Theatre" and "The Hideout Theatre" to link to the same information.  Does this mean I need to make two copies of the Hideout page?**
+Fortunately, no.  You would handle this with something called [http://www.mediawiki.org/wiki/Help:Redirects "redirects"].  In this case, we've created a page for [[The Hideout Theatre]].  Then we created a page called [[Hideout Theatre]] that only contains the following text: 
+ <nowiki>#REDIRECT [[-nowiki[[The Hideout Theatre]]<nowiki>]]</nowiki>
+That means that all the [[Hideout Theatre]] page does is "redirect" to [[The Hideout Theatre]].
+
+
 **I have a problem with the site! Who do I call?**<br/>
 Either [[Kevin Miller]] or [[Peter Rogers]] can probably handle your issue.
 
