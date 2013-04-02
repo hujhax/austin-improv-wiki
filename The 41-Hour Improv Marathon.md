@@ -53,3 +53,4 @@
 ## Media
 ## More Information
 * [http://www.hideouttheatre.com/the-complete-2010-41-hour-marathon-schedule The marathon schedule announcement.]
+* [[Kevin Miller]] posts [http://happywaffle.wordpress.com/2010/06/06/hour-41-of-the-41-hour-improv-marathon/ a story about hour 41 of the marathon].
