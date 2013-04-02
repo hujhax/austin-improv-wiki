@@ -21,6 +21,8 @@ This is a list of improvisors who perform or who have performed regularly in the
 * [[Jordan T. Maxwell]]
 ### K
 * [[Kyle Traughber]]
+* [[Kaci Beeler]]
+
 ### L
 * [[Lacy Shawn]]
 ### M
