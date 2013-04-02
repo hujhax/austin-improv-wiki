@@ -13,3 +13,4 @@
 
 ## Videos
 [http://vimeo.com/channels/austinimprov/47516274 Manhattan Stories - July 28, 2012]
+[http://vimeo.com/channels/austinimprov/47680093 Manhattan Stories - August 4, 2012]
