@@ -5,7 +5,7 @@
 |Years	=	2002-Present
 }}
 
-Matt Pollock is an improv performer.
+Matt Pollock is an improv performer. 
 
 ## History
 ## Troupes
@@ -15,4 +15,4 @@ Matt Pollock is an improv performer.
 ## Shows
 * *[[Cochise]]*
 
-[[Category/Performer|P]]
+[[Category/Performers|P]]
