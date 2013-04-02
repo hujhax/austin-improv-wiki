@@ -26,10 +26,10 @@
 
 .CategoryTreeBullet {
      list-style: disc outside none;
+display: list-item;
 }
 
 .CategoryTreeItem {
 display: list-item;
 list-style: disc outside none;
-background-color: Red;
 }
