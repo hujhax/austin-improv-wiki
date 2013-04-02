@@ -15,21 +15,10 @@
 
 .plainlist ul { 
 	line-height: inherit;
-	list-style: circle outside;
+	list-style: none outside none;
 	margin: 0px;
 }
 
 .plainlist ul li { 
 	margin-bottom: 0px;
-}
-
-
-.CategoryTreeBullet {
-     list-style: disc outside none;
-display: list-item;
-}
-
-.CategoryTreeItem {
-display: list-item;
-list-style: disc outside none;
 }
