@@ -58,6 +58,8 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[The Randy Meisner]]
 * [[Ratliff & Jackson]]
 * [[RhinoDino]]
+* [[Rise & Shine]]
+
 ### S
 * [[Scout]]
 * [[The Seven Eight Sevens]]
