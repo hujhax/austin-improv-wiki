@@ -6,3 +6,10 @@
 [[Category/Performers|Lampe]]
 
 **David Lampe** is an Austin improviser.
+
+## Troupes
+* [[Your Dad's Friends]]
+* [[¡Zarzamora!]]
+
+## Shows
+* [[Start Trekkin']]
