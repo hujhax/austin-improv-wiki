@@ -6,8 +6,8 @@
 * [[Jessica Arjet]]
 * [[Kaci Beeler]]
 * [[Marc Majcher]]
-* [[Roy Janik]]
 * [[Meghan Wolff]]
+* [[Roy Janik]]
 * [[Valerie Ward]]
 
 ## Schedule
