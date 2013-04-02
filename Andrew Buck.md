@@ -8,7 +8,7 @@
 * [[Past Lives]]
 
 ## Troupes
-[[The Seven Eight Sevens]]
-[[MANDINKA]]
+* [[The Seven Eight Sevens]]
+* [[MANDINKA]]
 
 [[Category/Performers|Buck]]
