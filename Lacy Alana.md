@@ -26,4 +26,4 @@
 *[[The Sword of Merlin Works]]
 
 
-[[Category/Performer|S]]
+[[Category/Performers|S]]
