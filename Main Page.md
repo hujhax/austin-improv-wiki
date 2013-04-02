@@ -3,11 +3,11 @@ This is a wiki devoted to the Austin Improv community.  It's here to accumulate 
 ## Theaters
 [[List of Austin Improv Theaters]]
 
-## Troupes
-[[List of Austin Improv Troupes]]
-
 ## Performers
 [[List of Austin Improv Performers]]
+
+## Troupes
+[[List of Austin Improv Troupes]]
 
 ## Shows
 [[List of Austin Improv Shows]]
