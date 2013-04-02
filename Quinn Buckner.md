@@ -19,8 +19,8 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 
 ## Shows
 * *[[Guilds of Steel]]*
-* "[[The Professor -  Improv Inspired by Doctor Who]]"
+* *[[The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Fandom]]*
-* "[[Theatresports]]"
+* *[[TheatreSports (mainstage run)|TheatreSports]]*
 
 [[Category/Performers|Buckner]]
