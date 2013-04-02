@@ -5,7 +5,7 @@
 |Years	=	2005-Present
 }}
 
-Marc Majcher is an improv performer and director.
+Marc Majcher is an improv performer and director. He has enormous hands.
 
 ## History
 ## Troupes
