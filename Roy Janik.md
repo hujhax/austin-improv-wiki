@@ -1,3 +1,10 @@
+{{Infobox Performer
+|Name	=	Roy Janik	
+|Picture =	Roy Janik Pic.jpg
+|Theater=	[[The Hideout Theatre]]
+|Years	=	2005-Present
+}}
+
 **Roy Janik** is an improviser, as well as co-owner and Artistic Director of [[The Hideout Theatre]].
 
 ## Troupes
