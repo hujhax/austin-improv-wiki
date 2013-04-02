@@ -9,7 +9,7 @@
 ## Troupes
 * [[Bedfellows]]
 * [[Apocalypse]]
-
+* [[Senshi Sokkyo]]
 ## Shows
 *[[LNI]]
 * [[Dusk]]
