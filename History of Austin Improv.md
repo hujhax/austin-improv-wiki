@@ -20,7 +20,15 @@ After 2000, well, the festival producers [[Ed Carter]] and [[Marc Pruter]], alon
 ## The Ongoing Austin Improv Renaissance
 In 2004 and 2005 a variety of factors led to a second renaissance in Austin improv. [[Andy Crouch]] was hired to run the day to day operations at the Hideout and made a concerted effort to grow the community of active Austin improvisers through weekly shows and social events, and eventually a nonprofit organization called the [[Austin Improv Collective]]. A handful of improvisers moved to Austin from Chicago and Cleveland eventually coming together as the troupe [[Tight]] (now the [[Frank Mills]]) bringing with them the performance styles of famous Chicago theaters like Improv Olympic and the Second City. The New Orleans troupe [[ColdTowne]] rolled into Austin in the aftermath of Hurricane Katrina. And the [[Out of Bounds Improv and Minigolf Festival]], started in 2002 by Jeremy Lamb as a local, experimental improv festival, had been slowly but surely gaining momentum and national attention.
 
-Things began to bubble up at the Hideout and by October of 2006, ColdTowne struck out and opened their own self-titled theater and conservatory on Airport Blvd, offering improv, sketch and stand up comedy. In March of 2008 the [[Merlin-Works Institute for Improvisation]] and [[Gnap! Theater Projects]] began teaching classes and performing shows at the [[Salvage Vanguard Theater]] on Manor Rd. ComedySportz resumed weekly shows at Cafe Caffeine in south Austin in the fall of 2008. In 2009 [[The New Movement]] opened in east Austin as a home for all forms of comedy. In 2010 the [[Institution Theatre]] was opened by LA transplant [[Tom Booker]] and New York transplant [[Asaf Ronen]].
+Things began to bubble up at the Hideout and by October of 2006, ColdTowne struck out and opened a self-titled theater and conservatory on Airport Blvd, offering improv, sketch and stand up comedy. 
+
+In March of 2008 the [[Merlin-Works Institute for Improvisation]] and [[Gnap! Theater Projects]] began teaching classes and performing shows at the [[Salvage Vanguard Theater]] on Manor Rd. 
+
+ComedySportz resumed weekly shows at Cafe Caffeine in south Austin in the fall of 2008. 
+
+In 2009 former ColdTowne members Chris Trew and Tami Nelson opened [[The New Movement]] in east Austin as a home for all forms of comedy. And in 2012 they opened a branch of the New Movement in New Orleans.  
+
+In 2010 LA transplant [[Tom Booker]] and New York transplant [[Asaf Ronen]] opened the [[Institution Theatre]] in south Austin. 
 
 In recent years there has been a remarkable stability in the various Austin theaters, with only minor adjustments: The local ComedySportz franchise is currently inactive, the New Movement relocated to a new downtown location on Lavaca, Gnap! shifted focus from the production of improv to scripted work (though improv is still independently produced at Salvage Vanguard) and the Merlin-Works training center found a new home at the longtime Austin venue Zach Theatre.
 
