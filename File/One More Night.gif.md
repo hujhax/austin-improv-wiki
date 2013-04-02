@@ -6,4 +6,4 @@ Photo by [[Jon Bolden]].  Design by [[Courtney Hopkin]].
 Taken from http://onemorenight.eventbrite.com/.
 
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
