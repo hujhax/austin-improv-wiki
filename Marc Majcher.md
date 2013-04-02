@@ -15,8 +15,8 @@ Marc Majcher is an improv performer and director.
 * [[MmmmK]]
 
 ## Shows
-* *[[41 Hour Improv Marathon]]*
-* *[[43 Hour Improv Marathon]]*
+* [[The 41-Hour Improv Marathon]]
+* [[The 43-Hour Improv Marathon]]
 * *[[After-School Improv]]*
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]* (Performed and Directed)
@@ -47,7 +47,6 @@ Marc Majcher is an improv performer and director.
 * *[[Strange Worlds]]*
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]*
-
 * *[[Maestro]]* (2000-)
 * *[[The Nightmare Video Project]]* (2010-2012)
 * *[[Flying Theater Machine]]*
@@ -58,7 +57,6 @@ Marc Majcher is an improv performer and director.
 * *[[The Derby]]*
 * *[[The Cagematch]]*
 * *[[This American Live]]* (Segment)
-
 * *[[Blink]]* (Coached)
 
 [[Category/Performer|M]]
