@@ -20,6 +20,10 @@ If you'd like to make a new page for a troupe, a show, or a performer, try using
 To ensure that your wiki page shows in in the Performers category, add the following code: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last initial. That ensures you'll be properly alphabetized on the [[Category/Performers|Performers]] page.
 
 
+**How Do I Get My Troupe to Show Up in the Troupes Category?**<br/>
+Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Category:Troupes]]</nowiki>. If your troupe begins with an article such as "the" or "a," you can add the first letter under which the troupe should be alphabetized. For example, if you were adding a page for [[The Frank Mills]], you could add: <nowiki>[[Category/Troupes|F]]</nowiki>.
+
+
 **How do I upload a picture?**<br/>
 [[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers I contacted ([[Jon Bolden]], [[Steve Rogers]], [[Roy Moore]], [[Menelaos Prokos]], [[Dave Alley]], and [[Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
 * Credit them in the picture's description.
