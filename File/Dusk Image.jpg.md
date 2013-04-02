@@ -1,8 +1,8 @@
 ## Summary
 Promotional image for [[Dusk]].
 
-Photo credit unknown.
+Photo by [[Jon Bolden]].
 
 Poster art by [[Courtney Hopkin]].
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
