@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Andreas Fabis
 |Picture =	Andreas.jpg
-|Theater=	[[Gnap!],[The Institution],[The Hideout Theatre]]
+|Theater=	[[Gnap!]]
 |Years	=	2007-Present
 }}
 
