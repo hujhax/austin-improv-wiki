@@ -28,7 +28,8 @@
 * Saturday 7am: [[Rise & Shine]]
 * Saturday 8am: musical montage-improv with [[Pretty Jack Jaybird]]
 * Saturday 9am: [[Editor and Chief]] presents improvised Dungeons & Dragons
-* Saturday 10am: [[The Dancy Street D'Orchestra]]            Saturday 11am: [[ComedySportz]]
+* Saturday 10am: [[The Dancy Street D'Orchestra]]
+* Saturday 11am: [[ComedySportz]]
 * Saturday 12pm: Student Show
 * Saturday 1pm: [[Your Dad's Friends]] presents "Cliff's Notes"
 * Saturday 2pm: [[Flying Theater Machine]]
