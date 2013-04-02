@@ -14,3 +14,6 @@ As a teenager in San Antonio, Zarate was coached in improv by [[David Lampe]].
 * [[Oxymorons]]
 * [[Your Dad's Friends]]
 * [[¡Zarzamora!]]
+
+## Shows
+* [[Austin Secrets]]
