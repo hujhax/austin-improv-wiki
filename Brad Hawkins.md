@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-Brad Hawkins is an improv performer who works primarily with [[The Hideout Theatre]].
+**Brad Hawkins** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
 A native of Cedar Rapids, Iowa, Hawkins moved to Austin in 1999. He became interested in improv after watching a [[Confidence Men]] show in mid-2010. He has taken classes at [[The Hideout Theatre]] and [[The Institution Theater]].
