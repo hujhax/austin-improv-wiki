@@ -20,4 +20,5 @@ Andreas is from Dusseldorf, Germany. He speaks German very well. Christopher is 
 *[http://www.youtube.com/watch?v=uPkwf693jaE Video "Der Stille Winterwald"]
 *[http://vimeo.com/42396160 Video "Der Wolf in den Bergen"]
 
+[[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
