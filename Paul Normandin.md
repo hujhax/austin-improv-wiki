@@ -17,4 +17,4 @@ Paul Normandin is an improv performer who works primarily with [[The Hideout The
 * *[[The Black Vault]]*
 * *[[Austin Secrets]]*
 
-[[Category/Performer|N]]
+[[Category/Performers|N]]
