@@ -5,4 +5,4 @@
 |Years	=	2001-Present
 }}
 
-**Kaci Beeler** is an improv performer and director, and the artistic director of [[The Hideout Theatre]]
+**Kaci Beeler** is an improv performer and director, and the artistic director of [[The Hideout Theatre]].
