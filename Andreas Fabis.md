@@ -8,6 +8,8 @@
 Andreas Fabis is an improv performer.
 
 ## History
+Fabis was born in Düsseldorf, Germany.
+
 ## Troupes
 * [[Bedfellows]]
 * [[The Escorts]]
