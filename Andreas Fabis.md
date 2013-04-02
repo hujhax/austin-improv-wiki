@@ -35,4 +35,4 @@ Fabis was born in Düsseldorf, Germany.
 * *[[The Fancy-Pants Mashup]]*
 * *[[Pick Your Own Path]]*
 
-[[Category/Performers|F]]
+[[Category/Performers|Fabis]]
