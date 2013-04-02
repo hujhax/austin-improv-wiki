@@ -1,8 +1,8 @@
-**What Is It?**<br/>
+**What is it?**<br/>
 The site is like Wikipedia, only it's devoted to Austin improv. It's here to accumulate useful information about shows, troupes, performers, and anything else relevant to our improv scene.
 
 
-**Who Can Contribute?**<br/>
+**Who can contribute?**<br/>
 Anybody! To edit a page on the wiki, click the "Edit" link in the top right corner. To create a new page, click on any red link.
 
 Alternately, you can type the title of a page you want to create into the search box and click "Go" -- if that page doesn't exist, the wiki will give you a link for creating it.
@@ -16,11 +16,11 @@ But if you want to learn about wiki markup, [http://www.mediawiki.org/wiki/Help:
 If you'd like to make a new page for a troupe, a show, or a performer, try using [[The Foreign Legion|this troupe page]], [[Totally Improvised, 90210|this show page]], or [[Peter Rogers|this performer page]] as a starting point. Open up one of those pages, click "Edit", copy the text for in the edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
 
 
-**How Do I Show Up in the Performers Category?**<br/>
+**How do I show up in the performers category?**<br/>
 To ensure that your wiki page shows in in the Performers category, add the following code: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last name. That ensures you'll be properly alphabetized on the [[Category/Performers|Performers]] page.
 
 
-**How Do I Get My Troupe to Show Up in the Troupes Category?**<br/>
+**How do I get my troupe to show up in the troupes category?**<br/>
 Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Category:Troupes]]</nowiki>. If your troupe begins with an article such as "the" or "a," you can add the first letter under which the troupe should be alphabetized. For example, if you were adding a page for [[The Frank Mills]], you could add: <nowiki>[[Category/Troupes|F]]</nowiki>.
 
 
