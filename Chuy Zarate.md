@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Chuy Zarate
+|Picture =      Chuy Zarate.jpg
 |Theater=	various
 |Years	=	??-Present
 }}
