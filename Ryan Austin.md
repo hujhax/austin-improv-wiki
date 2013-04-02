@@ -18,7 +18,7 @@ He is known for often dressing up.
 * [[Local Genius Society]]
 
 ## Shows
-* ''[[The Professor -  Improv (second run at [[Salvage Vanguard Theater]])
+* *[[The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
 * *[[Pocketful of Posies]]*
 * *[[The Fancy-Pants Mashup]]* (director)
 * *[[Strange Worlds]]*
