@@ -77,15 +77,9 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[TheatreSports (mainstage run)]]* (2013)
 * *[[Fakespeare]]* (2013)
 * *[[A Bedtime Gorey]]* (2013)
-
 * *[[Louder Than Words]]*
 * *[[The Plagiarists]]*
 * *[[The Library]]*
-
-* *[[40 Hour Improv Marathon]]*
-* *[[41 Hour Improv Marathon]]*
-* *[[42 Hour Improv Marathon]]*
-* *[[43 Hour Improv Marathon]]*
 
 ## The Institution Theater
 ### Ongoing Shows
