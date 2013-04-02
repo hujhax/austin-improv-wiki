@@ -11,10 +11,9 @@
 The cast played the same characters every time & invited a guest player to improvise a fictional celebrity. 
 
 ## Cast & Roles
-*[[Valerie Ward]] as Lorelei Reiser, one of the host.
-*[[Curtis Luciani]] as Elmo Shein, one of the host.
+*[[Valerie Ward]] as Lorelei Reiser, one of the hosts.
+*[[Curtis Luciani]] as Elmo Shein, one of the hosts.
 *[[Jon Bolden]] as J. Robert Sturrier, their producer.
-
 
 ## History
 *Rise & Shine* started in January, 2009 and stopped performing sometime in late 2010.
