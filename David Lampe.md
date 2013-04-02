@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	David Lampe
+|Picture =      David Lampe.jpg
 |Theater=	Various
 |Years	=	1988-Present
 }}
