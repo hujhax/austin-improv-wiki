@@ -16,3 +16,5 @@ Opposites first performed on March 24, 2010 at [[The New Movement Theater]] when
 ## More Information
 *[https://www.facebook.com/OppositesComedy?ref=ts&fref=ts Opposites facebook page]
 *[http://www.oppositescomedy.com Opposites website]
+
+[[Category/Troupes|Category:Troupes]]
