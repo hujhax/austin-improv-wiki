@@ -5,3 +5,7 @@
 
 |Years	=		2012-Present
 }}
+
+**The Known Wizards** is a troupe consisting of faculty members from the [[Merlin Works Institute for Improvisation]].
+
+[[Category/Troupes|K]]
