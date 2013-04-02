@@ -2,7 +2,7 @@
 |Name	=	Pulp Friction	
 |Picture=	Pulp Friction poster.jpg
 |Theater=	[[The Institution Theater]]
-|Director =	[[Asaf Ronen]]
+|Director =	[[Tom Booker]]
 |Cast	=	{{Unbulleted list | [[Chris Allen]] | [[Andreas Fabis]] | [[Eric Heiberg]] | [[Clifton Highfield]] | [[Mia Iseman]] | [[Michael Joplin]] | [[Laura Komkov]] | [[Taylor Overstreet]] | [[Joe Ricks]] | [[Heidi Rogers]] | [[Brett Tribe]] | }}
 |Run	=	Sep/Oct 2012
 }}
