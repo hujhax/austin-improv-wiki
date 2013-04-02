@@ -23,3 +23,5 @@
 ## Links
 * [http://goatimprov.com Goat's Website]
 * [http://vimeo.com/channels/307618 Goat's Vimeo Channel]
+
+[[Category/Troupes|Category:Troupes]]
