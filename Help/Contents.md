@@ -25,7 +25,7 @@ Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Categor
 
 
 **How do I upload a picture?**<br/>
-[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers I contacted ([[Jon Bolden]], [[Steve Rogers]], [[Roy Moore]], [[Menelaos Prokos]], [[Dave Alley]], and [[Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
+[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Jon Bolden]], [[Steve Rogers]], [[Roy Moore]], [[Menelaos Prokos]], [[Dave Alley]], and [[Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
 * Credit them in the picture's description.
 * Link back to the original photoset if you can.
 * In the "licensing" dropdown, select "The copyright holder gave me permission to use this work only in AIC Wiki articles."
