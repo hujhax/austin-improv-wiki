@@ -13,6 +13,7 @@
 ## History
 ## Troupes
 * [[RhinoDino]]
+*[[The Known Wizards]]
 * [[Stone Airplane]]
 *[[Wait OK Now]]
 
