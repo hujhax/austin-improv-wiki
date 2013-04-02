@@ -13,6 +13,6 @@
 * [[Senshi Sokkyo]]
 ## Shows
 *[[Live Nude Improv]]
-* [[Dusk]]
+* [[Dusk - Improvised Tween Erotica]]
 
 [[Category/Performers|Yanoshak]]
