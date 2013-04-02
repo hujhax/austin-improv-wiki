@@ -22,3 +22,13 @@
 .plainlist ul li { 
 	margin-bottom: 0px;
 }
+
+
+.CategoryTreeBullet {
+     list-style: disc outside none;
+}
+
+.CategoryTreeItem {
+display: list-item;
+list-style: disc outside none;
+}
