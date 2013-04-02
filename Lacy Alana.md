@@ -24,6 +24,11 @@
 *[[Strange Worlds]]
 *[[TheatreSports (mainstage run)]]
 *[[The Sword of Merlin Works]]
+* *[[The Derby]]*
+* *[[The Cagematch]]*
+* *[[The Fancy-Pants Mashup]]*
+* *[[Maestro]]* (2000-)
+* *[[Pick Your Own Path]]*
 
 
 [[Category/Performers|Shawn]]
