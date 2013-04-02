@@ -1,1 +1,1 @@
-[[Category/Performers|y]]
+#REDIRECT [[Dana Yanoshak]]
