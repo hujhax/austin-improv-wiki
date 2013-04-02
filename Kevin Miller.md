@@ -11,9 +11,12 @@
 * [[¡Zarzamora!]]
 
 ## Shows
-* [[Steam, Rose-Colored Goggles, and the Flight of the Victoriana]]
+* [[Start Trekkin']]
+* [[Slumber Party Slaughter]]
+* [[False Matters]]
 * [[Totally Improvised, 90210]]
 * [[Cover to Cover]]
-* [[This American LIVE!]]
+* [[Steam, Rose-Colored Goggles, and the Flight of the Victoriana]]
+* [[This American Live]]
 
 [[Category/Performers|M]]
