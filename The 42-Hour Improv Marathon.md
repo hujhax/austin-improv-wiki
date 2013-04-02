@@ -12,7 +12,7 @@
 
 ## Schedule
 * Friday 6pm: "Inaugural Show", free-form improv with the core improvisors
-* Friday 7pm: [[Maestro]]
+* Friday 7pm: *[[Maestro]]*
 * Friday 9pm: [[Junk]]
 * Friday 10pm: [[Parallelogramophonograph]] presents "Impromatic!", an improvised play using old photos 
 * Friday 11pm: *[[Wikipedia - TheatreSports|TheatreSports]]*
@@ -27,29 +27,29 @@
 * Saturday 8am: [[Midnight Society]]
 * Saturday 9am: [[Bad Boys]]
 * Saturday 10am: [[The Institution Theater]]
-* Saturday 11am: [[Dubbed Indemnity]]
+* Saturday 11am: *[[Dubbed Indemnity]]*
 * Saturday 12pm: Student Show
 * Saturday 1pm: 8-way Hell Dub narrative
 * Saturday 2pm: [[Confidence Men]] presents "The Blank Variations"
-* Saturday 3pm: [[Pick Your Own Path]]
+* Saturday 3pm: *[[Pick Your Own Path]]*
 * Saturday 4pm: [[Happy Butter]]
 * Saturday 5pm: [[The Knuckleball Now]]
-* Saturday 6pm: [[Start Trekkin']]
-* Saturday 7pm: [[The Nightmare Video Project]]
-* Saturday 8pm: [[Holy 1960s Batman, Batman!]]
+* Saturday 6pm: *[[Start Trekkin']]*
+* Saturday 7pm: *[[The Nightmare Video Project]]*
+* Saturday 8pm: *[[Holy 1960s Batman, Batman!]]*
 * Saturday 9pm: [[Improv for Evil]]
-* Saturday 10pm: [[Maestro]]
+* Saturday 10pm: *[[Maestro]]*
 * Sunday 12am: [[McNichol and May]]
-* Sunday 1am: [http://improvencyclopedia.org/games/The_Bat.html The Bat] with [[ColdTowne (troupe)|ColdTowne]]
+* Sunday 1am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]
 * Sunday 2am: [[The Puppet Improv Project]]
-* Sunday 3am: [[Live Nude Improv]] preview
+* Sunday 3am: *[[Live Nude Improv]]* preview
 * Sunday 4am: [[Secret Senate]]
 * Sunday 5am: [[The Dancy Street D'Orchestra]]
 * Sunday 6am: [[Doctors Without Boundaries]]
 * Sunday 7am: [[Your Dad’s Friends]] present "Impovention"
 * Sunday 8am: [[Amazon & The Milksop]]
-* Sunday 9am: [[False Matters]]
-* Sunday 10am: [[Improvised Shakespeare]]
+* Sunday 9am: *[[False Matters]]*
+* Sunday 10am: *[[Improvised Shakespeare]]*
 * Sunday 11am: "The Final Countdown", free-form improv with the core improvisors
 
 ## Media
