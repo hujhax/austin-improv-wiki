@@ -1,10 +1,13 @@
 {{Infobox Performer
 |Name	=	Chuy Zarate
-|Theater=	Various
+|Theater=	various
 |Years	=	??-Present
 }}
 
-**Estevan J. "Chuy" Zarate** is an Austin improviser, originally from San Antonio
+**Estevan J. "Chuy" Zarate** is an Austin improviser, originally from San Antonio.
+
+## History
+As a teenager in San Antonio, Zarate was coached in improv by [[David Lampe]].
 
 ## Troupes
 * [[Oxymorons]]
