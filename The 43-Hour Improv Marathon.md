@@ -55,12 +55,13 @@
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.3952167173802.162192.1568827741&type=3 Photoset] from [[Anna Lattka]].
+* [http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/ Photoset] from [[The Hideout Theatre]].
 * [http://www.facebook.com/media/set/?set=a.373501069380082.89433.221927764537414&type=3 Photoset of hours 1-4] from [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.3204199026618.122311.1315383518&type=3 Photoset of hours 5-9] from [[Michael Yew]].
+* [http://www.flickr.com/photos/hideouttheatre/sets/72157630038239970/ Photoset of hours 17-20, 28] from [[Michael Yew]].
 * [http://www.facebook.com/media/set/?set=a.10151037625202265.487222.588952264&type=3 Photoset of hour 40] from [[Peter Rogers]].
 * [http://www.facebook.com/media/set/?set=a.427332093954958.95954.100000345135257&type=3 Photoset of hours 37-43] from [[Claudio Fox]].
 * [http://www.facebook.com/media/set/?set=a.374667585930097.89589.221927764537414&type=3 Photoset of hours 41-43] from [[Steve Rogers]].
-* Videos:
 
 ## More Information
 * The schedule announcement, [http://forum.austinimprov.com/viewtopic.php?p=120814 on the forums] and [http://www.hideouttheatre.com/announcing-the-43-hour-improv-marathon-schedule on the Hideout web site].
