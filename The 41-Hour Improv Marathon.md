@@ -8,7 +8,7 @@
 * [[Marc Majcher]]
 * [[Roy Janik]]
 * [[Meghan Wolff]]
-* ???
+* [[Valerie Ward]]
 
 ## Schedule
 * Friday 4pm: "Flowey Donut", free-form improv with the core improvisors
