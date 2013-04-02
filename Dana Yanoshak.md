@@ -1,6 +1,7 @@
 {{Infobox Performer
 |Name	=	Dana Yanoshak
 |Picture =	Dana Yanoshak Pic.jpg
+|Theater = Gnap!
 |Years	=	2009-Present
 }}
 
