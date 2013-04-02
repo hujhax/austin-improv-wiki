@@ -17,7 +17,7 @@
 * [[Perfect Season]]
 * [[Mr. and Mrs. Danger]]
 * [[Comedic Amoeba]]
-* [[The PITS]]
+* [[The PITS of Westwood High School]]
 
 ## Shows
 * [[The 40-Hour Improv Marathon]]
