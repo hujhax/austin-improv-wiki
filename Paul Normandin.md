@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-Paul Normandin is an improv performer who works primarily with [[The Hideout Theatre]].
+**Paul Normandin** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
 ## Troupes
