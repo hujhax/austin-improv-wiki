@@ -15,4 +15,4 @@ Matt Pollock is an improv performer.
 ## Shows
 * *[[Cochise]]*
 
-[[Category/Performers|P]]
+[[Category/Performers|Pollock]]
