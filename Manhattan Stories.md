@@ -2,7 +2,7 @@
 |Name	=	Manhattan Stories
 |Picture =	Manhattan-stories.jpg
 |Director =	[[Jon Bolden]] & [[Valerie Ward]]	
-|Cast	=	{{Unbulleted list|[[Nicole Beckley]]|[[Kaci Beeler]]|[[Andy Buck]]|[[Alex Dobrenko]]|[[Emma Holder]]|[[Lisa Jackson]]|[[Marc Majcher]]|[[Troy Miller]]|[[Caitlin Sweetlamb]]|[[Valerie Ward]]
+|Cast	=	{{Unbulleted list|[[Nicole Beckley]]|[[Kaci Beeler]]|[[Andrew Buck]]|[[Alex Dobrenko]]|[[Emma Holder]]|[[Lisa Jackson]]|[[Marc Majcher]]|[[Troy Miller]]|[[Caitlin Sweetlamb]]|[[Valerie Ward]]
 }}
 |Theater = [[The Hideout Theatre]]
 |Run	=	July-Sept. 2012 
