@@ -1,1 +1,3 @@
-Dana Yanoshak[[Category/Performers|y]]
+Dana Yanoshak 
+Wolf Girl, Furkini, Bedfellow
+[[Category/Performers|y]]
