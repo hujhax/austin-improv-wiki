@@ -5,4 +5,11 @@
 |Years	=	2001-Present
 }}
 
-**Kaci Beeler** is an improv performer and director, and the artistic director of [[The Hideout Theatre]].
+**Kaci Beeler** is an improv performer and director, and the Director of Design for [[The Hideout Theatre]].
+
+## Troupes
+* [[Parallelogramophonograph]]
+* [[The Amazon and the Milksop]]
+* [[Girl Embassy World Team]]
+
+[[Category/Performers|Category:Performers]]
