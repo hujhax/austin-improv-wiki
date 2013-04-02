@@ -5,8 +5,8 @@
 * [[Curtis Luciani]]
 * [[Jessica Arjet]]
 * [[Kaci Beeler]]
+* [[Marc Majcher]]
 * [[Roy Janik]]
-* ???
 * ???
 * ???
 
