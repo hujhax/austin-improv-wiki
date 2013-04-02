@@ -15,7 +15,7 @@
 
 .plainlist ul { 
 	line-height: inherit;
-	list-style: none outside none;
+	list-style: circle outside;
 	margin: 0px;
 }
 
