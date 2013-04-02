@@ -11,6 +11,9 @@
 ## History
 Goat was formed in late 2011 when [[Brad Hawkins]] assembled a group of improvisers to try a show based around drama rather than overt comedy. Their first show was on March 27, 2012.
 
+### Name
+Goat takes its name from the Greek word *tragos*, which means "goat" and is the root of the English word "tragedy."
+
 ## Members
 ### Active Members
 * [[Brad Hawkins]]
