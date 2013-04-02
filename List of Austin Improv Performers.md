@@ -12,6 +12,7 @@ This is a list of improvisors who perform or who have performed regularly in the
 ### E
 * [[Emily Breedlove]]
 ### F
+* [[Andreas Fabis]]
 ### G
 ### H
 ### I
