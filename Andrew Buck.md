@@ -1,3 +1,9 @@
+{{Infobox Performer
+|Name	=	Andrew Buck
+|Picture =	Andrew Buck Pic.jpg
+|Theater=	[[The Hideout Theatre]]
+|Years	=	2012-Present
+}}
 
 ## History
 ## Shows
