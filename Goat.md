@@ -8,6 +8,9 @@
 
 **Goat** is a troupe specializing in improvised tragedy.
 
+## History
+Goat was formed in late 2011 when [[Brad Hawkins]] assembled a group of improvisers to try a show based around drama rather than overt comedy. 
+
 ## Members
 ### Active Members
 * [[Brad Hawkins]]
