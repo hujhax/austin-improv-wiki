@@ -16,9 +16,11 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Elevator Action]]
 * [[The Escorts]]
 ### F
+* [[Foolish Mortals]]
 * [[The Frank Mills]]
 * [[Franz & Dave]]
 ### G
+* [[Get Up]]
 * [[Girls Girls Girls]]
 * [[The Glamping Trip]]
 * [[Goat]]
@@ -43,7 +45,6 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Miller & Purselley]]
 * [[MmmmK]]
 * [[My Best Fiend]]
-
 ### N
 * [[The Nesting Dolls]]
 * [[Nice Astronaut]]
@@ -53,8 +54,6 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### P
 * [[Parallelogramophonograph]]
 ### Q
-* [[Quayle]]
-
 ### R
 * [[The Randy Meisner]]
 * [[Ratliff & Jackson]]
@@ -62,6 +61,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### S
 * [[Scout]]
 * [[The Seven Eight Sevens]]
+* [[The Sicks]]
 * [[Squirrel Buddies]]
 ### T
 * [[The Team]]
@@ -70,6 +70,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### U
 ### V
 ### W
+* [[Well Hung Jury]]
 ### X
 ### Y
 * [[Your Dad's Friends]]
