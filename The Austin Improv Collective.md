@@ -5,8 +5,10 @@ The mission statement of the AIC is as follows:
 
 <blockquote>The mission of the Austin Improv Collective is to promote improvisational theatre in Central Texas and develop sustainable performance, practice, management, and teaching skills for Austin's improvisational theatre community. We believe that improvisation is a vital and viable art form which provides unique and invaluable benefits to the individual and the community and we strive to raise awareness of improvisational theatre through performance, teaching, and community outreach.</blockquote>
 
-## Organziational Details
+## Organizational Details
 The AIC's president is [[Brad Temple]], and its chief financial officer is [[Matt Pollock]].  The AIC has access to 501(c)(3) status via the [http://www.austincreativealliance.org/ Greater Austin Creative Alliance] as a sponsored project of theirs.  This means that donations to the GACA marked for the AIC are tax-deductible and can be matched by many employers.
+
+After [http://forum.austinimprov.com/viewtopic.php?f=13&t=155 spirited] [http://forum.austinimprov.com/viewtopic.php?f=13&t=251 discussion], the organization settled on a "kitchen-sink" logo.
 
 ## History
 The AIC began as the Austin Improv Co-op circa 2004, as a loose coalition of the improv theaters in town.  A [http://forum.austinimprov.com/viewtopic.php?f=5&t=70 name change was proposed] at their 10/22/2005 meeting, and they quickly settled on "Austin Improv Collective".
