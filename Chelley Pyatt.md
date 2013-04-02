@@ -12,4 +12,4 @@ Chelley Pyatt is an improv performer who works primarily with [[The Institution 
 * *[[TV Tuesdays Presents -  Angel]]*
 * *[[Thinning the Herd]]*
 
-[[Category/Performers|P]]
+[[Category/Performers|Pyatt]]
