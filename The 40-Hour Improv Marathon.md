@@ -41,7 +41,7 @@
 * Saturday 9pm: "Holy Sleep Deprivation, Batman!", an improvised episode of the 60s *Batman* tv show
 * Saturday 10pm: Musical [[Maestro]]
 * Saturday midnight: [[Dubbed Indemnity]]
-* Sunday 1am: [http://improvencyclopedia.org/games/The_Bat.html The Bat] with [[ColdTowne]]
+* Sunday 1am: [http://improvencyclopedia.org/games/The_Bat.html The Bat] with [[ColdTowne (troupe)|ColdTowne]]
 * Sunday 2am: [[The Institution]]
 * Sunday 3am: "Musical [http://improvencyclopedia.org/games//Armando.html Armando]", with [[A Bunch of Liars]] and [[The Love Notes]]
 * Sunday 4am: [[Parallelogramophonograph]]
