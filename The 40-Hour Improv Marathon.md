@@ -20,7 +20,7 @@
 * Friday midnight: "Parlor Games"; twisted games with [[Your Terrific Neighbors]]
 * Saturday 1am: [[Available Cupholders]]
 * Saturday 2am: [[The New Movement]]
-* Saturday 3am: [[Northshore Locale]]
+* Saturday 3am: [[Northshore Local]]
 * Saturday 4am: [[Snackers]]
 * Saturday 5am: [[Midnight Society]]
 * Saturday 6am: [[The Starter Kit]]
