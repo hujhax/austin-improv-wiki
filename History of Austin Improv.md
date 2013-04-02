@@ -22,7 +22,6 @@ In the past few years, several factors has led to a renaissance in Austin Improv
 
 There has been an influx of experienced improvisers from out of town coming to Austin to perform and study. And because of the collapse of other venues, Austin now has a central home for improvisation where troupes from different background and styles perform. Thankfully, the Austin economy has picked up so people have more money for improv classes and shows.
 
-
 ## Proliferation of Theaters
 Beginning in the mid-2000s, more improv venues began to crop up in Austin.
 
