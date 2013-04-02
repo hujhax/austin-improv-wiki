@@ -12,6 +12,7 @@
 * [[Parallelogramophonograph]]
 * [[Available Cupholders]]
 * [[The Amazon and the Milksop]]
+* [[Adventure Squad!]]
 * [[Girl Embassy World Team]]
 * [[Perfect Season]]
 * [[Mr. and Mrs. Danger]]
