@@ -56,7 +56,6 @@
 * [[Lola]]: [http://www.flickr.com/photos/8820084@N02/sets/72157620827646114/comments/ photoset] by [[Michael Yew]].
 * [http://www.flickr.com/photos/pgraph/sets/72157620581563801/ Photoset] from [[Parallelogramophonograph]].
 
-
 ## More Information
 * [http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success "The Hideout’s 40-Hour Improv Marathon a Big Success"] (blogpost at [[The Hideout]]'s web site)
 * [http://www.austinchronicle.com/arts/2009-06-26/799086/ "The Hideout Improv Marathon"] by [[Robert Faires]] (*The Austin Chronicle*)
