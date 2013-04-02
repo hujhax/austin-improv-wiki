@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Kevin Miller	
 |Picture =	Kevin Miller.jpg
-|Theater=	[[Merlin Works Institute for Improvisation]]
+|Theater=	[[Gnap! Theater Projects]], [[Merlin Works Institute for Improvisation]]
 |Years	=	2001-Present
 }}
 **Kevin Miller** is an Austin improviser and instructor at the [[Merlin Works Institute for Improvisation]].
