@@ -1,4 +1,4 @@
-**The 40-Hour Improv Marathon** was the first annual [[Hideout Improv Marathon]].
+**The 40-Hour Improv Marathon** was the first annual [[Hideout Improv Marathon]].  It was performed in 2009.
 
 ## Core Players
 * [[Andy Crouch]]
