@@ -11,7 +11,7 @@
 * [[Apocalypse]]
 * [[Senshi Sokkyo]]
 ## Shows
-*[[LNI]]
+*[[Live Nude Improv]]
 * [[Dusk]]
 
 [[Category/Performers|Yanoshak]]
