@@ -1,5 +1,5 @@
 ## Early Days
-In 1996, the main improv venues were [[The Velveeta Room]], featuring [[Marc Pruter]]'s [[Monk's Night Out]] and [[The ComedySportz Playhouse]], featuring [[Les McGehee]]'s ComedySportz Players.
+In 1996 the main improv venues were [[The Velveeta Room]], featuring [[Marc Pruter]]'s [[Monk's Night Out]] and [[The ComedySportz Playhouse]], featuring [[Les McGehee]]'s [[ComedySportz Players]].
 
 There was also a University of Texas troupe called [[Only 90% Effective]] directed by [[Brently Heilbron]]. [[The Velveeta Room]] was also producing other troupes like [[Code Blue]] and [[Los Paranoias]], directed by [[Pam Ribon]] and [[David Lampe]]. [[David Lampe]] was a member of [[Monk's Night Out]] and a founding member of [[The Oxymorons]] in San Antonio.
 
