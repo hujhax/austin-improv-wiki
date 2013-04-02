@@ -19,4 +19,4 @@ In 2008 while attending UT Quinn saw some *[[Gigglepants]] shows on campus and i
 * *[[Guilds of Steel]]*
 * *[[Fandom]]*
 
-[[Category/Performer|B]]
+[[Category/Performers|B]]
