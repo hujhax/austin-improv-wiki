@@ -12,4 +12,4 @@
 * [[The Amazon and the Milksop]]
 * [[Girl Embassy World Team]]
 
-[[Category/Performers|B]]
+[[Category/Performers|Beeler]]
