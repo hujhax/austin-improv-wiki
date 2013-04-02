@@ -15,6 +15,8 @@
 * [[Girl Embassy World Team]]
 * [[Perfect Season]]
 * [[Mr. and Mrs. Danger]]
+* [[Comedic Amoeba]]
+* [[The PITS]]
 
 ## Shows
 * [[The 40-Hour Improv Marathon]]
