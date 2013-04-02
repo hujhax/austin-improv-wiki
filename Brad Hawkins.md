@@ -8,7 +8,7 @@
 Brad Hawkins is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
-Hawkins became interested in improv after watching a [[Confidence Men]] show in mid-2010. He has taken classes at [[The Hideout Theatre]] and [[The Institution Theater]].
+A native of Cedar Rapids, Iowa, Hawkins moved to Austin in 1999. He became interested in improv after watching a [[Confidence Men]] show in mid-2010. He has taken classes at [[The Hideout Theatre]] and [[The Institution Theater]].
 After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[Three Hot Chicks]]. Since then, he has been a member of the troupes [[The Walk-Ons]], [[Franz & Dave]], [[Who Dack]], [[Epic]], [[¡Zarzamora!]], and [[Your Dad's Friends]], and is a founding member of [[Goat]].
 
 ## Troupes
