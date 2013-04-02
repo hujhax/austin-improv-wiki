@@ -25,14 +25,3 @@ Things began to bubble up at the Hideout and by October of 2006, ColdTowne struc
 In recent years there has been a remarkable stability in the various Austin theaters, with only minor adjustments: The local ComedySportz franchise is currently inactive, the New Movement relocated to a new downtown location on Lavaca, Gnap! shifted focus from the production of improv to scripted work (though improv is still independently produced at Salvage Vanguard) and the Merlin-Works training center found a new home at the longtime Austin venue Zach Theatre.
 
 As of early 2013 the number of improvisers in Austin is estimated at between 300 and 500. Austin has gained national attention for the vibrant community of improvisers and quality work in a variety of styles. A Johnstone-inspired, short form and storytelling focus can be found at the Hideout Theatre and Merlin-Works. Various Chicago and New York influences are prevalent at ColdTowne, the New Movement and the Institution. But Austin is ultimately a melting pot. The intentional building of the community has resulted in an environment of collaborative competition, and many improvisers study and perform at multiple theaters, coming together throughout the year for events like Out of Bounds, [[WaffleFest]], the [[Austin Improv Potluck]], [[Same Year’s Eve]] and more.
-
-## Proliferation of Theaters
-Beginning in the mid-2000s, more improv venues began to crop up in Austin.
-
-Following [http://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina] in 2005, New Orleans-based improv troupe [[ColdTowne (troupe)|ColdTowne]] relocated to Austin. In 2006, they opened [[ColdTowne Theater]] on Airport Blvd.
-
-[[Shannon McCormick]] founded [[Gnap! Theater Projects]] in 2008, sharing use of [[Salvage Vanguard Theater]] with [[Merlin Works Institute for Improvisation]] and producing weekly improv shows.
-
-[[The New Movement Theater]] was founded in 2009 by former ColdTowne members [[Chris Trew]] and [[Tami Nelson]]. Originally based out of space on East 11th St, The New Movement moved into its present facility on Lavaca St in 2012. Branches of the theater and school have since opened in Houston and New Orleans.
-
-[[Tom Booker]], formerly of Chicago and Los Angeles, relocated to Austin in 2007 and soon founded [[The Institution Theater]]. At first, the Institution taught classes out of a photography studio on East 7th St, but moved into its own facility in 2011.
