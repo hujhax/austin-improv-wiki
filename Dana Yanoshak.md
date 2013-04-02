@@ -3,8 +3,9 @@
 |Picture =	Dana Yanoshak Pic.jpg
 |Years	=	2009-Present
 }}
-**Dana Yanoshak** is an improv performer.
 
+## History
+**Dana Yanoshak** is an improv performer. Sometimes she performs in a Furkini.
 ## Troupes
 * [[Bedfellows]]
 * [[Apocalypse]]
