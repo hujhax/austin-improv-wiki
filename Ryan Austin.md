@@ -2,7 +2,7 @@
 |Name	=	Ryan Austin	
 |Picture =	Ryan Austin Pic.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	2010-Present
+|Years	=	2011-Present
 }}
 
 Ryan Austin is a well-dressed improviser who works mostly with [[The Hideout Theatre]].
