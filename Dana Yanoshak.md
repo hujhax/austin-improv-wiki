@@ -10,6 +10,7 @@
 * [[Apocalypse]]
 
 ## Shows
+*[[LNI]]
 * [[Dusk]]
 
 [[Category/Performers|Yanoshak]]
