@@ -13,5 +13,5 @@
 * [[¡Zarzamora!]]
 
 ## Shows
-* [[Start Trekkin']]
-* [[The Violet Underbelly]]
+* *[[Start Trekkin']]*
+* *[[The Violet Underbelly]]*
