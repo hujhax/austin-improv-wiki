@@ -25,4 +25,4 @@ He is known for often dressing up.
 *[[TheatreSports (mainstage run)]] (2013, assistant director)
 
 
-[[Category/Performer|A]]
+[[Category/Performers|A]]
