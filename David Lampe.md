@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	David Lampe
 |Theater=	Various
-|Years	=	0-Present
+|Years	=	1988-Present
 }}
 [[Category/Performers|Lampe]]
 
