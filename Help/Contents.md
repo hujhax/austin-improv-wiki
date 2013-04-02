@@ -17,7 +17,7 @@ If you'd like to make a new page for a troupe, a show, or a performer, try using
 
 
 **How Do I Show Up in the Performers Category?**<br/>
-To ensure that your wiki page shows in in the Performers category, add the following code: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last initial. That ensures you'll be properly alphabetized on the [[Category/Performers|Performers]] page.
+To ensure that your wiki page shows in in the Performers category, add the following code: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last name. That ensures you'll be properly alphabetized on the [[Category/Performers|Performers]] page.
 
 
 **How Do I Get My Troupe to Show Up in the Troupes Category?**<br/>
