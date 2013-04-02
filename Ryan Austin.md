@@ -18,11 +18,11 @@ He is known for often dressing up.
 * [[Local Genius Society]]
 
 ## Shows
-*[[The Professor -  Improv Inspired by Doctor Who]] (second run at [[Salvage Vanguard Theater]])
-*[[Pocketful of Posies]]
-* [[The Fancy-Pants Mashup]] (director)
-* [[Strange Worlds]]
-*[[TheatreSports (mainstage run)]] (2013, assistant director)
+* ''[[The Professor -  Improv (second run at [[Salvage Vanguard Theater]])
+* *[[Pocketful of Posies]]*
+* *[[The Fancy-Pants Mashup]]* (director)
+* *[[Strange Worlds]]*
+* *[[TheatreSports (mainstage run)|TheatreSports]]* (2013, assistant director)
 
 
 [[Category/Performers|Austin]]
