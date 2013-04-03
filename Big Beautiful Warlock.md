@@ -1,0 +1,1 @@
+BBW performs a modified La Ronde. In addition to these shows, they host a monthly improvised game show called Big Beautiful Warriors the first Saturday of every month at ColdTowne Theater. Members include Kristin Henn, Frank Netscher, Amy Carpenter, Emma Holder, Delaney Hernandez and Chris Baldenhofer.
