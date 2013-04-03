@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=	Nice Astronaut
+|Picture=	Nice Astronaut.jpg
 |Cast	=	{{Unbulleted list|[[Tim Honker]]|[[Nicole McCracken]]|[[Drew Wesely]]|[[Calan lambert]]|[[Jessica Marpe]]|[[Chaz Formichella]] }}
 
 |Years	=		2008-Present
