@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Phil Aulie	
-|Picture =	Kaci Beeler.jpg
+|Picture =	Philspin.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2003-2007
 }}
