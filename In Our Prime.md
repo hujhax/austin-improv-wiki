@@ -16,20 +16,17 @@ The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii I
 They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]].
 
 ## History
-*03/01/2012 - Debut @ Hideout ("Printing Presses")
-*04/05/2012 - Hideout ("Disobedient Daughter")
+*03/01/2012 - Debut @ [[The Hideout]] ("Printing Presses")
+*04/05/2012 - [[The Hideout]] ("Disobedient Daughter")
 *07/20/2012 - Oklahoma Improv Festival ("Survivalist Family")
-*09/01/2012 - Out of Bounds ("Dating an Environmentalist")
+*09/01/2012 - [[Out of Bounds]] ("Dating an Environmentalist")
 *09/29/2012 - Hawaii Improvaganza Festival ("Art")
-*10/04/2012 - Threefer Run ("Gay Boy")
-*10/11/2012 - Threefer Run ("Drugs and Kids")
-*10/18/2012 - Threefer Run ("")
-*10/18/2012 - Free Fringe Curve Ball Format Debut ("Hell")
-*10/25/2012 - Threefer Run ("Run-Away Dad")
-*11/10/2012 - Wafflefest ("The Affair")
-
-
-Free Fringe
+*10/04/2012 - [[Threefer]] Run ("Gay Boy")
+*10/11/2012 - [[Threefer]] Run ("Drugs and Kids")
+*10/18/2012 - [[Threefer]] Run ("")
+*10/18/2012 - [[Free Fringe]] Curve Ball Format Debut ("Hell")
+*10/25/2012 - [[Threefer]] Run ("Run-Away Dad")
+*11/10/2012 - [[WaffleFest]] ("The Affair")
 
 ## More Information
 *[https://www.facebook.com/InOurPrime In Our Prime facebook page]
