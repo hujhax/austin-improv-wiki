@@ -12,13 +12,21 @@
 Who Dack? was formed when [[Drew Wesely]] gathered a diverse group of improvisers for ColdTowne's [[Cagematch]] in May 2011. Since that time, the troupe's ever-changing lineup has performed at ColdTowne numerous times, with a handful of shows at other theaters.
 
 ## Members
-Who Dack? seldom has the same lineup from show to show. Those who have performed with the troupe include:
+The lineup of Who Dack? has evolved in accordance with the troupe philosophy of reaching improvisers from all over the community. The most recent lineup includes:
 
 * [[Drew Wesely]]
 * [[Brad Hawkins]]
-* [[John Brewster]]
-* [[Delaney Hernandez]]
-* [[Nicole McCracken]]
+* [[Delaney Jo Hernandez]]
 * [[Nathan Sowell]]
 * [[Milo Smith]]
+* [[Joseph Dailey]]
+* [[Eric Rutherford]]
+* [[John Brewster]]
+
+
+Those who have performed with the troupe include:
+* [[Scott Raney]]
+* [[Nicole McCracken]]
 * [[Katie Sicking]]
+* [[Will Storie]]
+* [[Ryan Thomas]]
