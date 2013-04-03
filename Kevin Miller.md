@@ -10,6 +10,7 @@
 * [[Foolish Mortals]] (2003-2004)
 * [[¡Zarzamora!]] (2011-)
 * [[Your Dad's Friends]] (2012-)
+* [[Known Wizards]] (2013-)
 
 ## Shows
 * *[[Start Trekkin']]*
