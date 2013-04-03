@@ -77,6 +77,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### V
 ### W
 * [[Well Hung Jury]]
+* [[What's the Story Steve]]
 ### X
 ### Y
 * [[Your Dad's Friends]]
