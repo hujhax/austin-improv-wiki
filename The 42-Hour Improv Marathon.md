@@ -49,7 +49,7 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 * Sunday 4am: [[Secret Senate]]
 * Sunday 5am: [[The Dancy Street D'Orchestra]]
 * Sunday 6am: [[Doctors Without Boundaries]]
-* Sunday 7am: [[Your Dad’s Friends]] present "Impovention"
+* Sunday 7am: [[Your Dad’s Friends]] present "Improvention"
 * Sunday 8am: [[Amazon & The Milksop]]
 * Sunday 9am: *[[False Matters]]*
 * Sunday 10am: *[[Improvised Shakespeare]]*
