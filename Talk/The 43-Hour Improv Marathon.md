@@ -1,0 +1,1 @@
+We should probably put something in there about the four audience members who stayed with us the entire time this year, right? I remember that something was written about it, but I can't find anything. It was... ah! Here we go: http://www.hideouttheatre.com/the-first-hardcore-four
