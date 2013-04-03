@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=	What's the Story, Steve?
+|Picture =      WTSS.jpg
 |Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Arian Brumby]] | [[Caitlin Baumgartner]] | [[Chris Baldenhofer]] | [[Clint Harris]] | [[Drew Wesley]] | [[Frank Netscher]] | [[Kristin Henn]] | }}
 |Years	=		2011-Present
 }}
