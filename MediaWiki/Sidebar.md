@@ -7,7 +7,6 @@
 ** List of Austin Improv Shows|Shows
 ** List of Austin Improv Festivals|Festivals
 ** recentchanges-url|recentchanges
-** randompage-url|randompage
 ** helppage|Help!!!
 * SEARCH
 * TOOLBOX
