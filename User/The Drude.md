@@ -1,1 +1,1 @@
-The Drude abides.
+#REDIRECT [[Drew Wesely]]
