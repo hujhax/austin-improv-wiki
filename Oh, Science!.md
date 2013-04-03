@@ -1,0 +1,1 @@
+Oh, Science was founded as a ColdTowne student troupe in July of 2009. They host a weekly show at ColdTowne Theater followed by an open jam. Members include Kristin Henn, Alex Baia, Josh Gill, Ed Melendez and Nathan Livni.
