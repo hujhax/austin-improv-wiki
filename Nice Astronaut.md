@@ -10,7 +10,7 @@ Nice Astronaut is a Chicago-style longform improv troupe in Austin, TX that spec
 ## History
 Nice Astronaut was the first self-formed troupe that intended to stay together longer than a single cagematch tournament from ColdTowne Theater and was formed from several students in a level 1 class together at ColdTowne Theater.  They began rehearsing in the summer of 2008 and their first show was October 11, 2008 when they premiered in a cagematch under the temporary name they used to submit for a cage match: "H.J. Compromise".  They were originally coached by Tom Booker (2008-2009) and were later coached by Dave Buckman (2009-2011).
 
-As H.J. Compromise, they went on to win the December 2008 ColdTowne Theater Cagematch championships after defeating "Honky Knife Fight" (Josh Krilov and Stephanie Russo).
+As H.J. Compromise, they went on to win the December 2008 ColdTowne Theater Cagematch championships after defeating "Honky Knife Fight" (Josh Krilov and Stephanie Russo) and "Four Square On The Moon".
 
 ## Etymology
 After narrowing down the potential troupe name from a list of over 200, the troupe wanted to be called "Bad Astronaut" (a pun on "Bad-Ass"), but the name was already taken by a punk band.  After exploring several alternatives (including "Fat Astronaut"), they settled on "Nice Astronaut"- which is a pun on "Nice-Ass" and "Nice Ass... (scoff) NOT!" (a la Wayne's World).  This part of the troupe name original is now considered stupid and they don't like to talk about it.
