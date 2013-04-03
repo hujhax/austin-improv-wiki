@@ -12,7 +12,7 @@ Kaci Beeler began learning and studying improv in 2002 at Westwood High School[h
 
 Kaci began performing in [[Maestro]] at [[The Hideout Theatre]] in June of 2005 and met fellow improvisers [[Roy Janik]], [[Kareem Badr]], [[Valerie Ward]], [[Andy Crouch]], [[Michael Ferstenfeld]], among many others through the [[Tuesday Night Jam]]. Kaci moved to Fullerton, CA[http://en.wikipedia.org/wiki/Fullerton,_California] in August of 2005 to get a Bachelor of Fine Arts Degree with an emphasis in Acting at California State University at Fullerton[http://en.wikipedia.org/wiki/Cal_State_Fullerton]. 
 
-In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal State Fullerton at the end of the Fall Semester. She was asked to join the Austin Improv Troupe [[Parallelogramophonograph]] upon her return and had her first performance with them on December 23rd, 2005, 42 days after the troupe's debut at [[WaffleFest]] in November.
+In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal State Fullerton at the end of the Fall Semester. She was asked to join the Austin improv troupe [[Parallelogramophonograph]] upon her return and had her first performance with them on December 23rd, 2005, 42 days after the troupe's debut at [[WaffleFest]] in November.
 
 ## Awards
 * Austin Chronicle Best Of Austin Awards 2012, Readers Poll: Best Actor/Actress[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1368787]
