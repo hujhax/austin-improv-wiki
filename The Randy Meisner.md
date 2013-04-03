@@ -10,4 +10,4 @@ The troupe was founded by [[Jon Bolden]], [[David Hess]], and [[John Ratliff]] i
 
 A few years later, they asked [[Kareem Badr]] to join the troupe to further differentiate the troupe from [[The Glamping Trip]], a frequently performing duo comprised of [[John Ratliff]], and [[David Hess]].
 
-[[Category/Troupes|R]]
+[[Category/Troupes|Randy Meisner]]
