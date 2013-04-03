@@ -57,7 +57,7 @@ Similar to an Armando, the Improvioke replaces the monologues and monologist wit
 28 Minutes Later (named after the approximate length of the show) is a mono-scene show that follows the third act of a zombie survival movie.  Nice Astronaut takes a suggestion of a non-geographic location where "humanity may make its last stand" against the zombies, then each improviser enters a dark stage with a flashlight and delivers a character monologue until the last character locates the lights in the location and the show starts.
 
 ### It's A Tolerable Existence
-Performed as a run at ColdTowne Theater in December 2011, this narrative format improvises an alternate version of "It's A Wonderful Life" based off the real life and childhood dreams of an audience member.
+Performed as a run at [[ColdTowne Theater]] in December 2011, this narrative format improvises an alternate version of "It's A Wonderful Life" based off the real life and childhood dreams of an audience member.
 
 ### White Elephant
 TBD
@@ -66,7 +66,7 @@ TBD
 The Small Universe format is the combination of a Close Quarters and a Harold. The show begins with scene painting one or more nearby locations in which the show will take place.  A set of scenes are performed in these, or closely inspired locations, and eventually they all intertwine.
 
 ## Festivals
-Nice Astronaut has performed at the Chicago Improv Festival (2013), the Del Close Marathon (2009, 2012), and Out of Bounds (2009, 2010, 2011, 2012).
+Nice Astronaut has performed at the Chicago Improv Festival (2013), the Del Close Marathon (2009, 2012), and [[Out of Bounds]] (2009, 2010, 2011, 2012).
 
 ## Miscellaneous
 Nice Astronaut also hosted the short lived "Nomad Comedy Nights" on Wednesdays at Nomad Bar during the summer of 2009.
