@@ -10,6 +10,8 @@
 ## History
 Gloria is a founding member of both [[Furiously Missing]] and [[In Our Prime]].
 
+She has also produced segments based on the concept of fear, called *What Are You Afraid Of?* for [[The Free Fringe]] at [[The Hideout Theater]].
+
 ## Troupes
 * [[In Our Prime]]
 * [[Furiously Missing]]
