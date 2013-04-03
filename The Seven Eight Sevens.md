@@ -14,4 +14,4 @@ The Seven Eight Sevens were originally cast as a Gnap! house troupe by [[Jason F
 
 
 ## More Information
-*[https://www.facebook.com/pages/The-Foreign-Legion/204366602931754 The Foreign Legion facebook page]
+*[https://www.facebook.com/theseveneightsevens The Seven Eight Sevens facebook page]
