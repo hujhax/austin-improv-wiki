@@ -5,9 +5,11 @@
 |Years	=	2002-Present
 }}
 
-**Kaci Beeler** is an improv performer, director, scenic painter, teacher, and the Director of Design for [[The Hideout Theatre]].
+**Kaci Beeler** is an improv performer, director, scenic painter, teacher, and the Director of Design for [[The Hideout Theatre]]. Kaci is a represented actor with TAG Talent Agency[http://www.tagtalent.com/Main.php?Region=Tx&Branch=Main&Entry=Talent&TCode=KB05] who represent actors in film, television, commercial, voice-over, and print media. 
 
 ## History
+Kaci Beeler began learning and studying improv in 2002 at Westwood High School in Round Rock, Texas. 
+
 ## Troupes
 * [[Parallelogramophonograph]]
 * [[Available Cupholders]]
