@@ -1,1 +1,1 @@
-Hosted by ColdTowne troupe Oh, Science! this weekly show features a  new opening act every week, followed by an Oh, Science show. Audience members are then invited to join OS on stage for an open jam.
+Hosted by ColdTowne troupe Oh, Science! every Sunday night at 8:30, this weekly show features a  new opening act every week. Oh, Science headlines, performing a long form, improvised show. Audience members are then invited to join OS and the opening act on stage for an open jam.
