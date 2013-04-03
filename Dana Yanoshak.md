@@ -12,7 +12,7 @@
 * [[Apocalypse]]
 * [[Senshi Sokkyo]]
 ## Shows
-*[[Live Nude Improv]]
-* [[Dusk - Improvised Tween Erotica]]
+* *[[Live Nude Improv]]*
+* *[[Dusk - Improvised Tween Erotica]]*
 
 [[Category/Performers|Yanoshak]]
