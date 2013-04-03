@@ -1,8 +1,8 @@
 {{Infobox Performer
 |Name	=	Chuy Zarate
 |Picture =      Chuy Zarate.jpg
-|Theater=	various
-|Years	=	??-Present
+|Theater=	Various
+|Years	=	1982-Present
 }}
 [[Category/Performers|Zarate]]
 
