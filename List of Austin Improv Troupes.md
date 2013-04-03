@@ -77,8 +77,10 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### U
 ### V
 ### W
+* [[We Could Be Heroes]] (later The Heroes of Comedy)
 * [[Well Hung Jury]]
 * [[What's the Story Steve]]
+
 ### X
 ### Y
 * [[Your Dad's Friends]]
