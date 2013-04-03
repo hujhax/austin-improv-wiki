@@ -1,4 +1,7 @@
 ## Summary
-[[Claudio Fox]] took this picture
+[[Michael Ferstenfeld]], portraying Not Ira Glass at [[This American Live]].
+
+Photo by [[Claudio Fox]].
+
 ## Licensing
 {{AIC-Wiki-only license}}
