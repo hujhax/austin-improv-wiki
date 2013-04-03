@@ -10,11 +10,17 @@
 
 
 ## History
+RhinoDino was initially conceptualized sometime in 2011 by good friends [[Quinn Buckner]], [[Kyle Traughber]], and [[Colin Bates]] as a troupe that would perform "improvised heavy metal."  This format was never conceptualized, though RhinoDino began playing short-form shows together at [[The Salvage Vanguard Theatre]] in early 2012.  In September, 2012, [[Lacy Shawn]] and [[Courtney Hopkins]] joined RhinoDino.  [[Colin Bates]] recently re-located to Houston, but the remainder of the troupe remains intact and continues to perform regularly, with [[Colin Bates]] joining whenever he is in town.  
+
+RhinoDino previously served as the "House Troupe" for [[The Derby]].  
+
+
 ## Format
-RhinoDino primarily performs short-form improv, with a specialization in naive games.  RhinoDino currently has a show at [[Salvage Vanguard Theater]] on the fourth Friday of every month at 10PM.  RhinoDino previously served as the "House Troupe" for [[The Derby]].  RhinoDino has also performed at [[The Hideout Theatre]], [[The Institution Theater]], and [[ColdTowne Theater]].
+RhinoDino primarily performs short-form improv, with a specialization in naive games.  RhinoDino currently has a show at [[Salvage Vanguard Theater]] on the fourth Friday of every month at 10PM.  RhinoDino has also performed at [[The Hideout Theatre]], [[The Institution Theater]], and [[ColdTowne Theater]].
 
 ## More Information
 * www.facebook.com/rhinodinorhinodino
+* Shows always posted on Do512.com (Search Rhinodino)
 
 
 [[Category/Troupes|Category:Troupes]]
