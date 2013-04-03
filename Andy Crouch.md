@@ -13,7 +13,7 @@
 * [[Danger! Warning! Improv!]]
 
 ## Shows
-* [[Start Trekkin']]
-* [[Live Nude Improv]] (director)
-* [[Fandom]] (co-director)
-* [[Fakespeare]] (director)
+* *[[Start Trekkin']]*
+* *[[Live Nude Improv]]* (director)
+* *[[Fandom]]* (co-director)
+* *[[Fakespeare]]* (director)
