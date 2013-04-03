@@ -49,7 +49,7 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 * *[[Start Trekkin']]*
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]* (Performed and Directed)
-* *[[Maestro]]* (2000-)
+* *[[Maestro]]* (2005-)
 * *[[The Nightmare Video Project]]* (2010-2012)
 * *[[Flying Theater Machine]]* (Touring Performer)
 * *[[Dubbed Indemnity]]* (2010-2012)
