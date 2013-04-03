@@ -67,4 +67,4 @@
 * The schedule announcement, [http://forum.austinimprov.com/viewtopic.php?p=120814 on the forums] and [http://www.hideouttheatre.com/announcing-the-43-hour-improv-marathon-schedule on the Hideout web site].
 * [http://www.austinchronicle.com/arts/2012-06-01/the-43-hour-improv-marathon/ A story about the marathon] in *The Austin Chronicle*.
 * [http://blog.jonbolden.com/2012/43-hour-improv-marathon/ A blog post prior to the marathon] from [[Jon Bolden]].
-* [http://www.hideouttheatre.com/the-first-hardcore-four A blog post about the Hardcore Four], audience members Ashley Lowe, Amy Dietze, Ryan Criswell, and Cat Drago who stayed for the entire 43 hours.
+* [http://www.hideouttheatre.com/the-first-hardcore-four A blog post about the Hardcore Four], audience members [[Ashley Lowe]], [[Amy Dietze]], [[Ryan Criswell]], and [[Cat Drago]] who stayed for the entire 43 hours.
