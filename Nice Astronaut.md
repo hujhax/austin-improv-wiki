@@ -67,6 +67,9 @@ The Small Universe format is the combination of a Close Quarters and a Harold. T
 ## Festivals
 Nice Astronaut has performed at the Chicago Improv Festival (2013), the Del Close Marathon (2009, 2012), and Out of Bounds (2009, 2010, 2011, 2012).
 
+## Miscellaneous
+Nice Astronaut also hosted the short lived "Nomad Comedy Nights" on Wednesdays at Nomad Bar during the summer of 2009.
+
 ## See Also
 * [[Townsville]]
 * [[Gillactica]]
