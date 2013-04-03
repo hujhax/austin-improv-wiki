@@ -4,7 +4,7 @@
 |Theater=	[[Gnap! Theater Projects]], [[Merlin Works Institute for Improvisation]]
 |Years	=	2001-Present
 }}
-**Kevin Miller** is an Austin improviser and instructor at the [[Merlin Works Institute for Improvisation]].
+**Kevin Miller** is an Austin improviser and instructor at the [[Merlin Works Institute for Improvisation]]. He started improv on October 24, 2001, the morning after seeing his friend [[Andy Crouch]]'s graduation show at the [[Hideout Theatre]]. His first instructor was [[Shana Merlin]].
 
 ## Troupes
 * [[Foolish Mortals]] (2003-2004)
