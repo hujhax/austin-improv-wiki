@@ -2,25 +2,25 @@ Mitchell Deane, born in the last century, is a native Austinite with a bold Aust
 
 
 
-Improv Shows and Troupes:
+Improv Shows and Troupes: ---
 
-The Seven Eight Sevens
-Kosher Bacon
-Manson: The Musical
-Joss Whedon's Pajama Party
-Flying Theatre Machine
-Maestro
-Love Fest
-Free Fringe
-Pick Your Own Path
-Cagematch
-After School Improv
-Camp Danger
-Fancy Pants Mash Up
-The Lottery
-Nightmare Video Project
-Islander Improv
-Maestro Raw
-Dicken's Unleashed
-RPG Story
-Commedia!
+The Seven Eight Sevens  ---
+Kosher Bacon ---
+Manson: The Musical --- 
+Joss Whedon's Pajama Party --- 
+Flying Theatre Machine --- 
+Maestro --- 
+Love Fest --- 
+Free Fringe --- 
+Pick Your Own Path --- 
+Cagematch --- 
+After School Improv --- 
+Camp Danger --- 
+Fancy Pants Mash Up --- 
+The Lottery --- 
+Nightmare Video Project --- 
+Islander Improv --- 
+Maestro Raw --- 
+Dicken's Unleashed --- 
+RPG Story --- 
+Commedia! ---
