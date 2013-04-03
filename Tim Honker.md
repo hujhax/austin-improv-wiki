@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Tim Honker
+|Picture =      Tim Honker.jpg
 |Theater=	[[ColdTowne Theater]]
 |Years	=	2008-Present
 }}
@@ -8,9 +9,9 @@
 
 ## Improv & Sketch Troupes & Shows
 * [[Nice Astronaut]] - improv & sketchprov
-* [[Townsville]] - writer, co-director, actor, producer
-* [[Stool Pigeon]]
-* [[UpTowne]] - sketch writer/actor
+* *[[Townsville]]* - writer, co-director, actor, producer
+* *[[Stool Pigeon]]*
+* *[[UpTowne]]* - sketch writer/actor
 * [[ColdTowne Tour Co]]
 * [[First United Methodist Church of Plano Youth Group Improv]]
 * [[Total Panic]]
