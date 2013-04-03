@@ -5,10 +5,10 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[The Cagematch]]*
 * *[[Stool Pigeon]]*
 * *[[The Shakedown]]*
-* "[[What's the Story Steve]]"
-* "[[The Jam with Oh, Science]]"
-* "[[The Speakeasy]]"
-* "[[BBW presents, Big Beautiful Warriors]]"
+* *[[What's the Story Steve]]*
+* *[[The Jam with Oh, Science]]*
+* *[[The Speakeasy]]*
+* *[[Big Beautiful Warriors]]*
 
 ### Mainstage Productions
 * *[[Family Tides]]*
