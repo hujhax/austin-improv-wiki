@@ -38,25 +38,28 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 * *[[After-School Improv]]* (Performed and Directed)
 * *[[The Andersons]]*
 * *[[Austin Secrets]]*
+* *[[The Cagematch]]*
 * *[[Charles Dickens Unleashed]]* (Performed and Directed)
+* *[[The Derby]]*
+* *[[Dubbed Indemnity]]* (2010-2012)
+* *[[The Fancy-Pants Mashup]]*
 * *[[Fandom]]* (Performed and Directed)
+* *[[Flying Theater Machine]]* (Touring Performer)
+* *[[Gorilla Theater]]*
 * *[[Hitchcocked!]]*
 * *[[Holy 1960s Batman, Batman!]]* (Performed and Directed)
 * *[[Improvised Shakespeare]]*
 * *[[Ka-Baam!]]*
 * *[[Manhattan Stories]]*
-* *[[Process]]*
-* *[[Start Trekkin']]*
-* *[[The Violet Underbelly]]*
-* *[[Who Is T. Henry Baudecliffe]]* (Performed and Directed)
 * *[[Maestro]]* (2005-)
 * *[[The Nightmare Video Project]]* (2010-2012)
-* *[[Flying Theater Machine]]* (Touring Performer)
-* *[[Dubbed Indemnity]]* (2010-2012)
-* *[[The Fancy-Pants Mashup]]*
 * *[[Pick Your Own Path]]*
-* *[[Gorilla Theater]]*
-* *[[The Derby]]*
-* *[[The Cagematch]]*
+* *[[Process]]*
+* *[[Start Trekkin']]*
+* *[[Stool Pigeon]]*
+* *[[This Week Tonight]]*
+* *[[The Violet Underbelly]]*
+* *[[Whirled News Tonight]]*
+* *[[Who Is T. Henry Baudecliffe]]* (Performed and Directed)
 
 [[Category/Performers|Beeler]]
