@@ -14,7 +14,7 @@ Ryan was a teaching assistant for Hideout Theatre owner [[Jessica Arjet]] at the
 The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii Improv Festival, and [[The Out of Bounds Comedy Festival]]. They have a regular monthly slot in [[The Free Fringe]] at [[The Hideout Theatre]] and have also performed a month-long [[Threefer]] run there. The troupe's Free Fringe shows tend to be more humorous and less grounded.
 
 ## History
-<nowiki>03/01/2012 - Debut @ Hideout ("Printing Presses")
+03/01/2012 - Debut @ Hideout ("Printing Presses")
 04/05/2012 - Hideout ("Disobedient Daughter")
 07/20/2012 - Oklahoma Improv Festival ("Survivalist Family")
 09/01/2012 - Out of Bounds ("Dating an Environmentalist")
@@ -24,7 +24,7 @@ The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii I
 10/18/2012 - Threefer Run ("")
 10/18/2012 - Free Fringe Curve Ball Format Debut ("Hell")
 10/25/2012 - Threefer Run ("Run-Away Dad")
-11/10/2012 - Wafflefest ("The Affair")</nowiki>
+11/10/2012 - Wafflefest ("The Affair")
 
 
 
