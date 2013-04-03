@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Andy Crouch
+|Picture =      Andy Crouch.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2001-Present
 }}
