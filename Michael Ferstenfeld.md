@@ -19,9 +19,12 @@ Comin' soon.
 * [[The Band of Liars]]
 * [[Double Dutch]]
 * [[The Professor]]
+* [[Goat]]
 * [[This American LIVE!]]
 
 ## Shows
+* *[[Gorilla Theatre]]*
+* *[[This Week Tonight]]*
 * *[[The Professor]]*
 * *[[This American LIVE!]]*
 
