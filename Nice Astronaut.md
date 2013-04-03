@@ -12,10 +12,13 @@ Nice Astronaut was the first self-formed troupe that intended to stay together l
 
 As H.J. Compromise, they went on to win the December 2008 ColdTowne Theater Cagematch championships after defeating "Honky Knife Fight" (Josh Krilov and Stephanie Russo).
 
+## Etymology
+After narrowing down the potential troupe name from a list of over 200, the troupe wanted to be called "Bad Astronaut" (a pun on "Bad-Ass"), but the name was already taken by a punk band.  After exploring several alternatives (including "Fat Astronaut"), they settled on "Nice Astronaut"- which is a pun on "Nice-Ass" and "Nice Ass... (scoff) NOT!" (a la Wayne's World).  This part of the troupe name original is now considered stupid and they don't like to talk about it.
+
 ### Members
 The troupe was formed by Becca Peterson, Allison Alvarez, Patrick Daniel, Clay Crenshaw, Tim Honker and Carla Goodman.  Carla left the troupe after rehearsals began but before the first show.
 
-Over the years, the following people were/are members of Nice Astronaut:
+Over the years, the following people have been or are currently still members of Nice Astronaut:
 * Becca Peterson (2008 - 2013)
 * Allison Alvarez (2008 - 2011)
 * Patrick Daniel (2008 - 2009)
@@ -34,7 +37,7 @@ Over the years, the following people were/are members of Nice Astronaut:
 * Chaz Formichella (2012 - present)
 
 ## Show Formats
-Nice Astronaut has specialized in creating and preforming custom formats, but has also performed montages and Deconstructions for extended periods of time.
+Nice Astronaut has specialized in creating and preforming custom formats, but has also performed montages, living rooms, Armandos, and Deconstructions for extended periods of time.
 
 ### After Midnight
 After Midnight was Nice Astronaut's monthly sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The show titles included:
