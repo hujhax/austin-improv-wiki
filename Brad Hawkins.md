@@ -23,6 +23,7 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 * *[[Magna Veritas]]*
 * *[[Pocketful of Posies]]*
 * *[[The Black Vault]]*
+* *[[The Next Chapter]]*
 
 
 [[Category/Performers|Hawkins]]
