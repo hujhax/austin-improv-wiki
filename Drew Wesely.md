@@ -21,7 +21,6 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * [[Delta Force of Venus]] - improv troupe (captain)
 * [[JTS Brown Project]] (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
 
-
 ## Past Improv Troupes
 * [[Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
 * [[Unfurled]] - improv troupe (Performed in TCIF, NCCAF, OOB and twice in NOIF)
