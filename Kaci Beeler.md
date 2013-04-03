@@ -19,7 +19,7 @@ Kaci Beeler began learning and studying improv in 2002 at Westwood High School[h
 * [[Perfect Season]]
 * [[Mr. and Mrs. Danger]]
 * [[Comedic Amoeba]]
-* [[The PITS of Westwood High School]]
+* [[The PITS]]
 
 ## Shows
 * [[The 40-Hour Improv Marathon]]
