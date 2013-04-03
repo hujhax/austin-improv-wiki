@@ -1,5 +1,7 @@
 **The 42-Hour Improv Marathon** was the third annual [[Hideout Improv Marathon]].  It was performed in 2011.
 
+Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start doing improv after watching long stretches of the marathon.  The following year, they would come back to perform in one of the hours of [[The 43-Hour Improv Marathon]].
+
 ## Core Players
 * [[Andy Crouch]]
 * [[Jason Vines]]
@@ -9,6 +11,7 @@
 * [[Peter Rogers]]
 * [[Tim Redmond]]
 * [[Troy Miller]]
+
 
 ## Schedule
 * Friday 6pm: "Inaugural Show", free-form improv with the core improvisors
