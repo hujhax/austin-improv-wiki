@@ -1,8 +1,7 @@
 {{Infobox Troupe
 |Name	=	Big Beautiful Warlock
 |Picture =      Big Beautiful Warlock.jpg
-|Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Chris Baldenhofer]] | [[Delaney Hernandez]] | [[Frank Netscher]] | [[Kristin Henn]] | [[Emma Holder]]}}
-|Years	=		???-Present
+|Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Chris Baldenhofer]] | [[Delaney Hernandez]] | [[Emma Holder]] | [[Frank Netscher]] | [[Kristin Henn]]}}|Years	=		???-Present
 }}
 
 **Big Beautiful Warlock** is a troupe which performs a modified La Ronde.
