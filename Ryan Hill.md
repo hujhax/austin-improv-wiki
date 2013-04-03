@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Ryan Hill	
-|Picture =	Ryan Hill Pic.jpg
+|Picture =	ryanonstage.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2011-Present
 }}
