@@ -25,6 +25,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[The Glamping Trip]]
 * [[Goat]]
 ### H
+* [[Happiness is a Choice]]
 ### I
 * [[Improv for Evil]]
 * [[In Our Prime]]
@@ -35,7 +36,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### J
 ### K
 * [[The Knuckleball Now]]
-*[[The Known Wizards]]
+* [[The Known Wizards]]
 ### L
 * [[Local Genius Society]]
 ### M
@@ -53,6 +54,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Opposites]]
 ### P
 * [[Parallelogramophonograph]]
+* [[Polite Society Presents]]
 ### Q
 ### R
 * [[The Randy Meisner]]
@@ -90,3 +92,4 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[The Foreign Legion]]
 * [[Three Hot Chicks]]
 * [[Stone Airplane]]
+* [[Double Dutch]]
