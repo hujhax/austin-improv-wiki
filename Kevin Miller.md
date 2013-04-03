@@ -12,12 +12,12 @@
 * [[Your Dad's Friends]] (2012-)
 
 ## Shows
-* [[Start Trekkin']]
-* [[Slumber Party Slaughter]]
-* [[False Matters]]
-* [[Totally Improvised, 90210]]
-* [[Cover to Cover]]
-* [[Steam, Rose-Colored Goggles, and the Flight of the Victoriana]]
-* [[This American Live]]
+* *[[Start Trekkin']]*
+* *[[Slumber Party Slaughter]]*
+* *[[False Matters]]*
+* *[[Totally Improvised, 90210]]*
+* *[[Cover to Cover]]*
+* *[[Steam, Rose-Colored Goggles, and the Flight of the Victoriana]]*
+* *[[This American Live]]*
 
 [[Category/Performers|Miller]]
