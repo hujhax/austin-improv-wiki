@@ -56,6 +56,8 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Parallelogramophonograph]]
 * [[Polite Society Presents]]
 ### Q
+* [[Quayle]]
+
 ### R
 * [[The Randy Meisner]]
 * [[Ratliff & Jackson]]
