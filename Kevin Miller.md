@@ -7,8 +7,9 @@
 **Kevin Miller** is an Austin improviser and instructor at the [[Merlin Works Institute for Improvisation]].
 
 ## Troupes
-* [[Your Dad's Friends]]
-* [[¡Zarzamora!]]
+* [[Foolish Mortals]] (2003-2004)
+* [[¡Zarzamora!]] (2011-)
+* [[Your Dad's Friends]] (2012-)
 
 ## Shows
 * [[Start Trekkin']]
