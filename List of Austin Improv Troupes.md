@@ -25,6 +25,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[The Glamping Trip]]
 * [[Goat]]
 ### H
+* [[We Could Be Heroes]] (later The Heroes of Comedy)
 * [[Happiness is a Choice]]
 ### I
 * [[Improv for Evil]]
