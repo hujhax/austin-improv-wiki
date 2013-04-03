@@ -9,7 +9,7 @@
 **Who Dack?** is an improv troupe composed of members from several theaters and improv traditions, that performs mainly at [[ColdTowne Theater]].
 
 ## History
-Who Dack? was formed when [[Drew Wesely]] gathered a diverse group of improvisers for ColdTowne's [[Cagematch]] in May 2011. Since that time, the troupe's ever-changing lineup has performed at ColdTowne numerous times, with a handful of shows at other theaters.
+Who Dack? was formed when [[Drew Wesely]] gathered a diverse group of improvisers for Coldtowne's [[Cagematch]] in May 2011, and reached the finals. The goal was to bring together improvisers who had drifted out of the community, were new to it and still in classes, or were trained at Austin improv venues other than Coldtowne. Since that time, the troupe's ever-changing lineup has performed at Coldtowne and The Hideout Theater numerous times.
 
 ## Members
 The lineup of Who Dack? has evolved in accordance with the troupe philosophy of reaching improvisers from all over the community. The most recent lineup includes:
