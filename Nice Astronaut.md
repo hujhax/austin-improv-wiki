@@ -1,0 +1,49 @@
+{{Infobox Troupe
+|Name	=	Nice Astronaut
+|Cast	=	{{Unbulleted list|[[Tim Honker]]|[[Nicole McCracken]]|[[Drew Wesely]]|[[Calan lambert]]|[[Jessica Marpe]]|[[Chaz Formichella]] }}
+
+|Years	=		2008-Present
+}}
+
+Nice Astronaut is a Chicago-style longform improv troupe in Austin, TX that specializes in creating formats. They have a monthly show ([[Last Call]]) on the second Saturdays at 11pm at [[ColdTowne Theater]].
+
+## History
+Nice Astronaut was the first self-formed troupe that intended to stay together longer than a single cagematch tournament from ColdTowne Theater and was formed from several students in a level 1 class together at ColdTowne Theater.  They began rehearsing in the summer of 2008 and their first show was October 11, 2008 when they premiered in a cagematch under the temporary name they used to submit for a cage match: "H.J. Compromise".  They were originally coached by Tom Booker (2008-2009) and were later coached by Dave Buckman (2009-2011).
+
+### Members
+The troupe was formed by Becca Peterson, Allison Alvarez, Patrick Daniel, Clay Crenshaw, Tim Honker and Carla Goodman.  Carla left the troupe after rehearsals began but before the first show.
+
+Over the years, the following people were/are members of Nice Astronaut:
+* Becca Peterson (2008 - 2013)
+* Allison Alvarez (2008 - 2011)
+* Patrick Daniel (2008 - 2009)
+* Clay Crenshaw (2008 - 2010)
+* Carla Goodman (2008)
+* Tim Honker (2008 - present)
+* Nicole McCracken (2009 - present)
+* Josh Gill (2009 - 2012)
+* Lisa Jackson (2010 - 2012)
+* Drew Wesely (2011 - present)
+* Jared Stepp (2011 - 2012)
+* Nathan Sowell (2012 - 2013)
+* Chrissy Shackleford (2012 - 2013)
+* Calan Lambert (2012 - present)
+* Jessica Marpe (2012 - present)
+* Chaz Formichella (2012 - present)
+
+## Show Formats
+Nice Astronaut has specialized in creating and preforming custom formats, but has also performed montages and Deconstructions for extended periods of time.
+
+### Improvioke
+Similar to an Armando, the Improvioke replaces the monlogues and monologist with an improvised song based off an audience member to a well known song's karaoke backing track.  Nice Astronaut created this form in early 2010 and often performs it on their second Saturday shows.
+
+### 28 Minutes Later
+28 Minutes Later (named after the approximate length of the show) is a mono-scene show that follows the third act of a zombie survival movie.  Nice Astronaut takes a suggestion of a non-geographic location where "humanity may make its last stand" against the zombies, then each improviser enters a dark stage with a flashlight and delivers a character monologue until the last character locates the lights in the location and the show starts.
+
+### Small Universe
+The Small Universe format is the combination of a Close Quarters and a Harold. The show begins with scene painting one or more nearby locations in which the show will take place.  A set of scenes are performed in these, or closely inspired locations, and eventually they all intertwine.
+
+## Festivals
+Nice Astronaut has performed at the Chicago Improv Festival (2013), the Del Close Marathon (2009, 2012), and Out of Bounds (2009, 2010, 2011, 2012).
+
+[[Category/Troupes|Category:Troupes]]
