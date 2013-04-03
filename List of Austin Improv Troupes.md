@@ -79,7 +79,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### W
 * [[We Could Be Heroes]] (later The Heroes of Comedy)
 * [[Well Hung Jury]]
-* [[What's the Story Steve]]
+* [[What's the Story, Steve]]
 
 ### X
 ### Y
