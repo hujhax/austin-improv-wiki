@@ -30,6 +30,7 @@ Over the years, the following people have been or are currently still members of
 * Lisa Jackson (2010 - 2012)
 * Drew Wesely (2011 - present)
 * Jared Stepp (2011 - 2012)
+* Milo Smith (2012)
 * Nathan Sowell (2012 - 2013)
 * Chrissy Shackleford (2012 - 2013)
 * Calan Lambert (2012 - present)
