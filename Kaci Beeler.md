@@ -15,7 +15,7 @@ Kaci began performing in [[Maestro]] at [[The Hideout Theatre]] in June of 2005 
 In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal State Fullerton at the end of the Fall Semester. She was asked to join the Austin Improv Troupe [[Parallelogramophonograph]] upon her return and had her first performance with them on December 23rd, 2005, 42 days after the troupe's debut at [[WaffleFest]] in November.
 
 ## Awards
-* Austin Chronicle Best Of Austin Awards 2012, Readers Poll: Best Actor[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1368787]
+* Austin Chronicle Best Of Austin Awards 2012, Readers Poll: Best Actor/Actress[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1368787]
 * Austin Chronicle Best Of Austin Awards 2012, Critics Pick: Most Continuously Innovative Improv Troupe[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1260410] (Parallelogramophonograph)
 * FronteraFest Best Of Fest 2011: Fitzgeralds For Hire[http://forum.austinimprov.com/viewtopic.php?p=100509]
 * FronteraFest Best Of Fest 2009: Parallelogramophonograph's Improvised French Farce[http://zinereem.livejournal.com/544531.html]
