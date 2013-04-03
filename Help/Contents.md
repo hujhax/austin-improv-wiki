@@ -32,7 +32,7 @@ Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Categor
 
 For an example of following these three rules, look at [http://wiki.austinimprov.com/wiki/File:Peter_Rogers_Pic.jpg this photo].
 
-(Also, [[Courtney Hopkin]] and [[Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
+(Also, [[Courtney Hopkin]], [[Asaf Ronen]] and [[Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
 
 
 **I want both "Hideout Theatre" and "The Hideout Theatre" to link to the same information -- does this mean I need to make two copies of the Hideout page?**<br/>
