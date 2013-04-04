@@ -61,7 +61,7 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 * Overall photosets:
 ** [http://www.facebook.com/media/set/?set=a.1724964966691.86123.1315383518&type=3 Photoset] from [[Michael Yew]].
 ** [http://www.facebook.com/media/set/?set=a.10100679445652283.3052072.2230063&type=3 Photoset]  from [[Shruti Saran]].
-** [http://www.facebook.com/media/set/?set=a.227294783964236.77228.167352376625144&type=3 Photoset] from [[Menelaos Pokros]].
+** [http://www.facebook.com/media/set/?set=a.227294783964236.77228.167352376625144&type=3 Photoset] from [[Menelaos Prokos]].
 * Videos:
 ** [http://vimeo.com/24983412 Video of hour 5] with [[Parallelogramophonograph]]
 ** [http://vimeo.com/25015231 Video of hour 8] with [[Sarah 7]]
