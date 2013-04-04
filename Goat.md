@@ -32,8 +32,9 @@ Goat has appeared in the following festivals:
 * [[Out of Bounds Comedy Festival]] (2012)
 * [[Improvised Play Festival]] (2013)
 
-## Links
+## More Information
 * [http://goatimprov.com Goat's Website]
+* [http://facebookcom/goatimprov] Goat's Facebook Page
 * [http://vimeo.com/channels/307618 Goat's Vimeo Channel]
 
 [[Category/Troupes|Category:Troupes]]
