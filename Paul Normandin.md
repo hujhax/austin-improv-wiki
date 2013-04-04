@@ -25,9 +25,10 @@ Paul is a regular performer at [[Austin No Shame Theater]].
 Paul is currently a teaching assistant at [[The Hideout Theatre]].
 
 ## Troupes
-* [[In Our Prime]]
-* [[We're Here to Date Your Daughter]]
-* [[Two Guys From Yonkers]]
+* [[Apocalypse]] (2012)
+* [[Two Guys From Yonkers]] (2011 - Present)
+* [[In Our Prime]] (2011 - Present)
+* [[We're Here to Date Your Daughter]] (2012 - Present)
 
 ## Shows
 * *[[EPIC!]]* Season 1 & 2
