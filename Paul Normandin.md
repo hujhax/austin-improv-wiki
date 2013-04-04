@@ -12,7 +12,7 @@ Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[T
 
 Paul completed classes at [[The Hideout Theatre]] with his friend and classmate, [[Bob Olmstead]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Two Guys From Yonkers]]" on October 31, 2011.  
 
-Other classmates included [[Brad Hawkins]], [[Chad Wellington]], [[Katherine Greco]], and [[Cindy Ward]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
+Other classmates included [[Brad Hawkins]], [[Chad Wellington]], [[Katherine Greco]], and [[Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
 
 Paul conceived of and started the grounded, narrative troupe [[In Our Prime]] in 2011.
 
