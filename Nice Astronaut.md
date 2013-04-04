@@ -22,7 +22,7 @@ After narrowing down the potential troupe name from a list of over 200, the trou
 ### Members
 The troupe was formed by [[Becca Peterson]], [[Allison Alvarez]], [[Patrick Daniel]], [[Clay Crenshaw]], [[Tim Honker]] and [[Carla Goodman]].  Carla left the troupe after rehearsals began but before the first show.
 
-Over the years, the following people have been or are currently still members of Nice Astronaut:
+Over the years, the following people have been or are currently still members of Nice Astronaut (in order of joining):
 * [[Becca Peterson]] (2008 - 2013)
 * [[Allison Alvarez]] (2008 - 2011)
 * [[Patrick Daniel]] (2008 - 2009)
