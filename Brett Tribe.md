@@ -2,17 +2,17 @@
 
 
 **Previous Projects**
-Secret Senate
-Achatina! Achatina!
-LNI
-Pulp Friction: Improvised Tarantino
-The Pappy Parker Players
-Live Television Tuesdays: Buffy The Vampire Slayer (Xander Harris)
-Live Television Tuesdays: Small Colorado Mountain Town (Director)
+Secret Senate 
+Achatina! Achatina! 
+LNI 
+Pulp Friction: Improvised Tarantino 
+The Pappy Parker Players 
+Live Television Tuesdays: Buffy The Vampire Slayer (Xander Harris) 
+Live Television Tuesdays: Small Colorado Mountain Town (Director) 
 
 
 **Awards**
-Most Improved Improviser Coldtowne Awards 2010
-Best New Troupe Achatina! Achatina! 2010
-Most Outstanding Troupe Bad Boys Coldtowne Awards 2011
+Most Improved Improviser Coldtowne Awards 2010 
+Best New Troupe Achatina! Achatina! 2010 
+Most Outstanding Troupe Bad Boys Coldtowne Awards 2011 
 Official nomination for B. Iden Payne award with Bad Boys 2012
