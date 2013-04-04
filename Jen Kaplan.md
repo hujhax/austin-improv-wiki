@@ -17,8 +17,8 @@ Jen started taking improv classes at Merlin Works in 2007. She has been enjoying
 * [[Wait OK Now]]
 
 ## Shows
-* [[Totally Improvised 90210]]
-* [[The Good Life]]
-* [[The Suitcase]]
+* *[[Totally Improvised, 90210]]*
+* *[[The Good Life]]*
+* *[[The Suitcase]]*
 
 [[Category/Performers|Kaplan]]
