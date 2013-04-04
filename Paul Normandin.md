@@ -31,17 +31,17 @@ Paul is currently a teaching assistant at [[The Hideout Theatre]].
 * [[We're Here to Date Your Daughter]] (2012 - Present)
 
 ## Shows
-* *[[EPIC!]]* Season 1 & 2
+* *[[EPIC!]]* (Season 1 & 2 - 2011)
 * *[[Maestro]]* (2000-)
-* *[[Maestro Raw]]*
-* *[[The Derby]]*
+* *[[Maestro Raw]]* (2012-)
+* *[[The Derby]]* 
 * *[[The Cagematch]]*
 * *[[The Fancy-Pants Mashup]]*
-* *[[The Sword of Merlin Works]]*
+* *[[The Sword of Merlin Works]]* (2012)
 * *[[Pick Your Own Path]]*
-* *[[The Black Vault]]*
-* *[[Austin Secrets]]*
-* *[[The Next Chapter]]*
+* *[[The Black Vault]]* (2012-)
+* *[[Austin Secrets]]* (Season 3 - 2012)
+* *[[The Next Chapter]]* (2013)
 
 
 [[Category/Performers|Normandin]]
