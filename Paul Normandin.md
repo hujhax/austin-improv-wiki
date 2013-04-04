@@ -20,6 +20,7 @@ He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Thea
 * [[Two Guys From Yonkers]]
 
 ## Shows
+* *[[EPIC!]]*
 * *[[The Black Vault]]*
 * *[[Austin Secrets]]*
 * *[[The Sword of Merlin Works]]*
