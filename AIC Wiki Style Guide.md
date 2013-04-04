@@ -1,3 +1,6 @@
+The AIC Wiki follows the <nowiki>[[Wikipedia - Wikipedia - Manual of Style|Wikipedia:Manual of Style]]</nowiki> except in cases noted below.
+
+http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style
 
 ## Names and Titles
 * Each article should begin with the name of the page in **bold text**.
