@@ -19,7 +19,7 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 
 ## History
 *03/01/2012 - Debut @ [[The Hideout]] ("Printing Presses")
-*04/05/2012 - [[The Hideout]] ("Disobedient Daughter") 
+*04/05/2012 - [[The Hideout]] ("Disobedient Daughter") w/ [[Jessica Arjet]]
 *07/20/2012 - Oklahoma Improv Festival ("Survivalist Family")
 *09/01/2012 - [[Out of Bounds]] ("Dating an Environmentalist")
 *09/29/2012 - Hawaii Improvaganza Festival ("Art")
