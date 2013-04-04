@@ -18,7 +18,7 @@ He is known for often dressing up.
 * [[Local Genius Society]]
 
 ## Shows
-* [[Pick Your Own Path]]
+* *[[Pick Your Own Path]]*
 * *[[The Fancy-Pants Mashup]]* (director)
 * *[[The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
 * *[[Pocketful of Posies]]*
