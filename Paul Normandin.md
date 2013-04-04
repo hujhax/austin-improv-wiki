@@ -8,9 +8,15 @@
 **Paul Normandin** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
-Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He is also a storyteller and has a strong focus on narrative improv.
+Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He is also a storyteller and has a strong focus on narrative improv.   
 
-Paul conceived of and started the grounded, narrative troupe [[In Our Prime]] in 2012.
+Paul completed classes at [[The Hideout Theater]] with his friend and classmate, Bob Olmstead.  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Two Guys From Yonkers]]" on October 31, 2011.  
+
+Other classmates at [[The Hideout Theater]] included Brad Hawkins, Chad Wellington, Katherine Greco, and Cindy Ward. 
+
+Paul conceived of and started the grounded, narrative troupe [[In Our Prime]] in 2011.
+
+Paul is also a member of the troupe "[[We're Here to Date Your Daughter]] founded in 2012." 
 
 He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theater]] to include a version of the Improviser's Nightmare format, The Great Debate, and Bob Finds 50.
 
