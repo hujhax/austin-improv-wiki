@@ -4,7 +4,6 @@ Here is a list of shows that have run at various improv theaters in Austin.
 ### Ongoing Shows
 * *[[The Cagematch]]*
 * *[[Stool Pigeon]]*
-* *[[The Shakedown]]*
 * *[[What's the Story, Steve]]*
 * *[[The Jam with Oh, Science]]*
 * *[[The Speakeasy]]*
