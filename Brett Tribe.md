@@ -2,6 +2,7 @@
 
 
 **Previous Projects**
+
 Secret Senate
  
 Achatina! Achatina! 
@@ -18,6 +19,7 @@ Live Television Tuesdays: Small Colorado Mountain Town (Director)
 
 
 **Awards**
+
 Most Improved Improviser Coldtowne Awards 2010 
 
 Best New Troupe Achatina! Achatina! 2010 
