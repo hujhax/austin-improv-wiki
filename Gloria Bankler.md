@@ -1,5 +1,5 @@
 {{Infobox Performer
-|Name	=	Gloria Bankler
+|Name	=	Gloria Rabil Bankler
 |Picture =	Gloria Bankler Pic.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2010-Present
