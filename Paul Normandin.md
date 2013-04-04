@@ -20,14 +20,17 @@ He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Thea
 * [[Two Guys From Yonkers]]
 
 ## Shows
-* *[[EPIC!]]*
-* *[[The Black Vault]]*
-* *[[Austin Secrets]]*
-* *[[The Sword of Merlin Works]]*
+* *[[EPIC!]]* Season 1 & 2
+* *[[Maestro]]* (2000-)
+* *[[Maestro Raw]]*
 * *[[The Derby]]*
 * *[[The Cagematch]]*
 * *[[The Fancy-Pants Mashup]]*
-* *[[Maestro]]* (2000-)
+* *[[The Sword of Merlin Works]]*
 * *[[Pick Your Own Path]]*
+* *[[The Black Vault]]*
+* *[[Austin Secrets]]*
+* *[[The Next Chapter]]*
+
 
 [[Category/Performers|Normandin]]
