@@ -18,5 +18,5 @@ False Matters was directed by [[Shannon McCormick]] and assistant-directed by [[
 ## Media
 * [http://www.austinchronicle.com/blogs/arts/2011-05-18/false-matters/ Austin Chronicle preview] by [[Wayne Alan Brenner]]
 * [http://kut.org/2011/05/false-matters/ KUT.org Arts Eclectic radio piece on False Matters]
-* [http://www.youtube.com/watch?feature=player_embedded&v=R3ONjeVSjJM "What if…? False Matters promotional video]
+* [http://www.youtube.com/watch?feature=player_embedded&v=R3ONjeVSjJM "What if…?" False Matters promotional video]
 * [http://vimeo.com/26127355 False Matters at the 2011 Improvised Play Festival]
