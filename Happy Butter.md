@@ -1,0 +1,1 @@
+Happy Butter was a troupe focusing on narrative improv, it was comprised of the graduates of the Hideout Theatre's first Level VI class.
