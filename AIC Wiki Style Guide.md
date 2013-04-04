@@ -5,7 +5,7 @@
 * Keep troupe names in a normal font, linked to the troupe page.
 * (What about format names??)
 
-Example: [[Pgraph|Parallelogramophonograph]] has a regular show on Friday evenings at [[The Hideout Theater]] called *The Spectacle*. One Friday they played a show that ended up being about being giraffes with emotional issues which they have subsequently referred to as "Neurotic Giraffes."
+Example: [[Pgraph|Parallelogramophonograph]] has a regular show on Friday evenings at [[The Hideout Theatre|The Hideout Theater]] called *The Spectacle*. One Friday they played a show that ended up being about being giraffes with emotional issues which they have subsequently referred to as "Neurotic Giraffes."
 
 ## Links
 * Link everything you can on the first mention. Subsequent mentions on the same page need not be linked.
