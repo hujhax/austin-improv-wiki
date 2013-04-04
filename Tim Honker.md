@@ -21,5 +21,7 @@ Tim got started in improvised comedy by performing in improvised narrative short
 * [[Total Panic]] - improviser
 * [[Murphy Power Hour Sketchprov]] - writer/performer
 * [[Dear Frailty]] - director, co-writer, tech
+* [[Varsity]] - improviser
+* [[ColdTowne All Stars]] - improviser
 
 [[Category/Performers|Honker]]
