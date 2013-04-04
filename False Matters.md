@@ -12,3 +12,5 @@
 *False Matters* was a longform mainstage improv production with [[Gnap! Theater Projects]] that played from May 20 to June 11, 2001 (and on August 24 and 25, 2012). After the original run, it lived on as an informal troupe composed of members of the original cast. Its first show outside Salvage Vanguard was as a part of the first [[Improvised Play Festival]] on July 2, 2011.
 
 False Matters' tagline is "Stories Improvised in the Style of [http://en.wikipedia.org/wiki/Philip_K._Dick Philip K. Dick]." The show explores similar themes to those in Dick's works, including dystopian futures, shifting identities, questionable reality, and intrusive government. False Matters includes many tropes common in PKD stories, including interplanetary travel, time travel, intelligent robots, and omnipresent media.
+
+False Matters was directed by [[Shannon McCormick]] and assistant-directed by [[Bryan 'Lubu' Roberts]]. [[Courtney Hopkin]] created the costumes and poster for the show. [[Marc Majcher]] created a custom Flash interaction to randomly select the suggestion for the show.
