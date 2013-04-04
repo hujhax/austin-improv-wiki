@@ -6,6 +6,7 @@
 
 **Roy Janik** is an improviser, as well as co-owner and Artistic Director of [[The Hideout Theatre]].
 
+## History
 ## Troupes
 * [[Parallelogramophonograph]]
 * [[Squirrel Buddies]]
