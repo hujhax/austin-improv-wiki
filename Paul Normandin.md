@@ -20,7 +20,9 @@ Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin 
 
 He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include a version of the Improviser's Nightmare format, The Great Debate, and Bob Finds 50.
 
-Paul is a regular performer at [[Austin No Shame Theater]].
+Paul is a regular performer at [[Austin No Shame Theater]].  
+
+Paul is currently a teaching assistant at [[The Hideout Theatre]].
 
 ## Troupes
 * [[In Our Prime]]
