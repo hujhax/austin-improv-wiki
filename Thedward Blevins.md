@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Thedward Blevins	
 |Picture =	thedward01.jpg
-|Theater=	[[The Hideout Theatre]], [[The Institution Theater]]
+|Theater=	[[The Hideout Theatre]]
 |Years	=	2009-Present
 }}
 
