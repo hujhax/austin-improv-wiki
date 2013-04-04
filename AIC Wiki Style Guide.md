@@ -6,9 +6,10 @@ The AIC Wiki follows the [http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style
 * Italicize show names. A show is something that plays many times.
 * Place individual, one-off show names in quotes.
 * Keep troupe names in a normal font, linked to the troupe page.
+* Note that these standards may overlap. There may be a show name italics that is also a link.
 * (What about format names??)
 
-Example: [[Parallelogramophonograph]] has a regular show on Friday evenings at [[The Hideout Theatre|The Hideout Theater]] called *The Spectacle*. One Friday they played a show that ended up being about being giraffes with emotional issues which they have subsequently referred to as "Neurotic Giraffes."
+Example: [[Parallelogramophonograph]] has a regular show on Friday evenings at [[The Hideout Theatre|The Hideout Theater]] called *[[The Spectacle]]*. One Friday they played a show that ended up being about being giraffes with emotional issues which they have subsequently referred to as "Neurotic Giraffes."
 
 ## Adding Categories
 Categories can be added for the following:
