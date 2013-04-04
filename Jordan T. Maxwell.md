@@ -2,7 +2,7 @@
 |Name	=	Jordan T. Maxwell
 |Picture =	Jordan T. Maxwell Pic.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	1995-Present
+|Years	=	1998-Present
 }}
 
 Jordan T. Maxwell is an improv performer and director.
