@@ -8,10 +8,13 @@
 
 **Nice Astronaut** is a Chicago-style longform improv troupe in Austin, TX that specializes in creating formats. They have a monthly show ([[Last Call]]) on the second Saturdays at 11pm at [[ColdTowne Theater]].
 
-## History
-Nice Astronaut was the first self-formed troupe that intended to stay together longer than a single cagematch tournament from [[ColdTowne Theater]] and was formed from several students in a level 1 class together at ColdTowne Theater.  They began rehearsing in the summer of 2008 and their first show was October 11, 2008 when they premiered in a cagematch under the temporary name they used to submit for a cage match: "H.J. Compromise".  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011).
+## Formation
+Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] and was formed from several students in a level 1 class together at ColdTowne Theater.  They debuted under the temporary name "H.J. Compromise" in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011).
 
-As H.J. Compromise, they went on to win the December 2008 [[ColdTowne Theater]] [[Cagematch]] championships after defeating "Honky Knife Fight" ([[Josh Krilov]] and [[Stephanie Russo]]) and "Four Square On The Moon".
+As H.J. Compromise, they went on to win the December 2008 [[ColdTowne Theater]] [[Cagematch]] championships after defeating "Honky Knife Fight" ([[Josh Krilov]] and [[Stephanie Russo]]) and "Four Square On The Moon" (one of the many permutations of the [[ColdTowne Student Troupe]] [[North Shore Local]].
+
+### Controversy
+The original members of Nice Astronaut were classmates in a level 1 class together, but did not include all students in the class.  The [[ColdTowne Faculty]] did not officially condone the formation of Nice Astronaut since it did not include all students in their class, and prohibited them from performing or rehearsing as a troupe at ColdTowne Theater, nor were they allowed to use any ColdTowne Faculty as a coach.  A ColdTowne Faculty member recommended [[Tom Booker]] as the initial coach since he was not ColdTowne faculty.  Approximately 6-9 months after formation, the troupe was permitted to perform at ColdTowne Theater in a non-cagematch show ([[The Proctor]]) after the ColdTowne Faculty watched a troupe rehearsal.
 
 ## Etymology
 After narrowing down the potential troupe name from a list of over 200, the troupe wanted to be called "Bad Astronaut" (a pun on "Bad-Ass"), but the name was already taken by a punk band.  After exploring several alternatives (including "Fat Astronaut"), they settled on "Nice Astronaut"- which is a pun on "Nice-Ass" and "Nice Ass... (scoff) NOT!" (a la Wayne's World).  This part of the troupe name original is now considered stupid and they don't like to talk about it.
