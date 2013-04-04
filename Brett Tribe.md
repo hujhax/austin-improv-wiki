@@ -1,4 +1,4 @@
-**Brett Tribe** is a graduate of the Coldtowne Conservatory as well as Binghamton University's Theatre Arts program. He currently performs with Bad Boys Improv, The Intentions, Faster, Robot! Kill! Kill! and Best Friends Club of Austin.
+**Brett Trib[[E** is a graduate of the Coldtowne Conservatory as well as Binghamton University's Theatre Arts program. He currently performs with [[Bad Boys Improv]], The Intentions]], [[Faster, Robot! Kill! Kill!]] and [[Best Friends Club of Austin]].
 
 
 **Previous Projects**
@@ -7,13 +7,13 @@ Secret Senate
  
 Achatina! Achatina! 
 
-LNI 
+[[Live Nude Improv]]
 
 Pulp Friction: Improvised Tarantino 
 
 The Pappy Parker Players 
 
-Live Television Tuesdays: Buffy The Vampire Slayer (Xander Harris) 
+[[Live Television Tuesdays -  Buffy The Vampire Slayer]] (Xander Harris) 
 
 Live Television Tuesdays: Small Colorado Mountain Town (Director) 
 
