@@ -8,4 +8,9 @@
 
 Thedward Blevins is an improv performer.
 
+## Troupes
+* [[Happy Butter]] *(defunct)*
+* [[Flying Theater Machine]]
+
+
 [[Category/Performers|Blevins]]
