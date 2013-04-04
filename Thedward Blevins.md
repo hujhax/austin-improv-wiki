@@ -4,9 +4,7 @@
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2009-Present
 }}
-
-
-Thedward Blevins is an improv performer.
+**Thedward Blevins** is an improv performer.
 
 ## Troupes
 * [[Happy Butter]] *(defunct)*
