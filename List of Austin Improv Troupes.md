@@ -12,6 +12,8 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Confidence Men]]
 ### D
 * [[Dervish]]
+* [[Dumbasses]]
+
 ### E
 * [[Elevator Action]]
 * [[The Escorts]]
