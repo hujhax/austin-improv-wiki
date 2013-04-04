@@ -19,3 +19,4 @@ Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
 ## More Information
 * [http://threehotchicksimprov.com The Three Hot Chicks website] (moribund)
 * [http://vimeo.com/19634320 Three Hot Chicks' debut show] on Vimeo, courtesy of [[Peter Rogers]]
+* [http://vimeo.com/25332777 Three Hot Chicks' appearance] in [[The 42-Hour Improv Marathon]]
