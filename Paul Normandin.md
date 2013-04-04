@@ -22,5 +22,11 @@ He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Thea
 ## Shows
 * *[[The Black Vault]]*
 * *[[Austin Secrets]]*
+* *[[The Sword of Merlin Works]]*
+* *[[The Derby]]*
+* *[[The Cagematch]]*
+* *[[The Fancy-Pants Mashup]]*
+* *[[Maestro]]* (2000-)
+* *[[Pick Your Own Path]]*
 
 [[Category/Performers|Normandin]]
