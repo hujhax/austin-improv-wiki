@@ -1,5 +1,6 @@
 Brett Tribe is a graduate of the Coldtowne Conservatory as well as Binghamton University's Theatre Arts program. He currently performs with Bad Boys Improv, The Intentions, Faster, Robot! Kill! Kill! and Best Friends Club of Austin.
 
+
 **Previous Projects**
 Secret Senate
 Achatina! Achatina!
