@@ -25,11 +25,11 @@
 |-
 ! scope="row"| 5
 | [[Northshore Local]]
-| ?
+| December 2008
 |-
 ! scope="row"| 6
 | [[Total Panic]]
-| ?
+| June 14, 2009
 |-
 ! scope="row"| 7
 | [[Oh Science!]]
