@@ -1,6 +1,7 @@
 
 ## Names and Titles
 * Each article should begin with the name of the page in **bold text**.
+** Example: "**Goat** is an improv troupe in Austin."
 * Italicize show names. A show is something that plays many times.
 * Place individual, one-off show names in quotes.
 * Keep troupe names in a normal font, linked to the troupe page.
