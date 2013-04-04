@@ -11,7 +11,7 @@ In Our Prime was the brainchild of [[Paul Normandin]]. Paul and [[Gloria Bankler
 
 Ryan was a teaching assistant for Hideout Theatre owner [[Jessica Arjet]] at the time. When he told her about the troupe she asked if she could play with them. Fifteen minutes after a very successful second show with Jessica guesting, the troupe asked her to join permanently.
 
-The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii Improv Festival, and [[The Out of Bounds Comedy Festival]]. They have a regular monthly slot in [[The Free Fringe]] at [[The Hideout Theatre]] and have also performed a month-long [[Threefer]] run there. The troupe's Free Fringe shows tend to be more humorous and less grounded.
+The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii Improv Festival, [[WaffleFest]], and [[The Out of Bounds Comedy Festival]]. They have a regular monthly slot in [[The Free Fringe]] at [[The Hideout Theatre]] and have also performed a month-long [[Threefer]] run there. The troupe's Free Fringe shows tend to be more humorous and less grounded.
 
 They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]].
 
