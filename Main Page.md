@@ -1,13 +1,11 @@
-This is a wiki devoted to the Austin Improv community.  It's here to accumulate information about the theaters, performers, troupes, shows, festivals, and history associated with the Austin improv scene.
+This is a wiki devoted to the Austin Improv community.  It's here to accumulate information about the theaters, people, troupes, shows, festivals, and history associated with the Austin improv scene.
 
 ## Theaters
 [[List of Austin Improv Theaters]]
 
-## Teachers
-[[List of Austin Improv Teachers]]
-
-## Performers
-[[List of Austin Improv Performers]]
+## People
+* [[List of Austin Improv Performers]]
+* [[List of Austin Improv Teachers]]
 
 ## Troupes
 [[List of Austin Improv Troupes]]
