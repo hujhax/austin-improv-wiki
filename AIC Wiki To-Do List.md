@@ -1,11 +1,7 @@
 ## Tasks
 * Upload [[Sara Farr]]'s AIC logo designs.
 ** Also, re-save the Illustrator files as JPGs, and upload those.
-* Create AIC Wiki formatting page.
-** Include link to MediaWiki formatting page.
-** Add summary of most useful information.
-** Include info about infoboxes
-* Separate out Infobox documentation from Infoboxes.
+* Infoboxes.
 ** Include more thorough information about each category.
 ** Make infobox item names link to the documentation about the category.
 * Make each infobox include some indication of its category.
