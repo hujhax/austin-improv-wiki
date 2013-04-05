@@ -102,6 +102,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[Pulp Friction]]*
 * *[[Only Three Will Survive]]*
 * *[[This American Live]]*
+* *[[Bad Girls in Plaid Skirts]]*
 * *[[The Next Chapter]]* (2013)
 * *[[The Suitcase]]* (2013)
 
