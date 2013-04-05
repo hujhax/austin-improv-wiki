@@ -61,6 +61,11 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[The Spectacle]]*
 * *[[The Free Fringe]]*
 
+### Headliner Shows
+* *[[Louder Than Words]]*
+* *[[The Plagiarists]]*
+* *[[The Library]]*
+
 ### Mainstage Productions
 * *[[Start Trekkin']]*
 * *[[Cops and Lawyers]]*
@@ -85,9 +90,6 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[TheatreSports (mainstage run)]]* (2013)
 * *[[Fakespeare]]* (2013)
 * *[[A Bedtime Gorey]]* (2013)
-* *[[Louder Than Words]]*
-* *[[The Plagiarists]]*
-* *[[The Library]]*
 
 ## The Institution Theater
 ### Ongoing Shows
