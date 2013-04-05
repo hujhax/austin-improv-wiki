@@ -8,13 +8,13 @@
 Chelley Pyatt is an improv performer who works primarily with [[The Institution Theater]].
 
 ## Shows
-* *[[TV Tuesdays Presents -  Buffy]]*
-* *[[TV Tuesdays Presents -  Angel]]*
+* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]* (Stage manager/Prop Master)
+* *[[TV Tuesdays Presents -  Angel]]* (director)
 * *[[Thinning the Herd]]*
-* *[[TV Tuesdays Presents -  Doctor Horrible Live!]]*
-* *[[TV Tuesdays Presents -  Firefly The Musical]]*
+* *[[TV Tuesdays Presents -  Doctor Horrible Live!]]* (Assistant Director/Co-Musical director/Groupie 1)
+* *[[TV Tuesdays Presents -  Firefly The Musical]]* (Vocal Coach)
 * *[[Joss Whedon Pajama Party]]*
-* *[[Only 3 Will Survive]]*
-* *[[Bad Girls in Plaid Skirts]]*
+* *[[Only 3 Will Survive]]* (Tech)
+* *[[Bad Girls in Plaid Skirts]]* (Tech)
 
 [[Category/Performers|Pyatt]]
