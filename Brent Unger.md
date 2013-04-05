@@ -11,9 +11,11 @@ Brent dabbled in theater in high school and college performing in various stage 
 
 While working as an extra on the *Friday Night Lights* television series, Brent befriended [[Michael Ferstenfeld]] who introduced him to the robust improv scene in Austin.  Brent started classes in May 2011 with [[Shana Merlin]] and [[Ted Rutherford]] at [[Salvage Vanguard Theater]].  He later transferred and finished classes at [[The Hideout Theatre]] with instructors [[Andy Crouch]], [[Roy Janik]], [[Lisa Jackson]] and [[Josh Gill]].
 
-Brent has been an occasional performer in recurring shows such as [[Fancy Pants]], [[The Derby]] and [[Maestro]].  He has been a member of troupes [[Apocalypse]], [[Epic]] and [[Joy]].  He’s the founding director of *[[Taxi Cab Impressions]]*, a predominantly short-form *Armando*-style troupe with a rotating cast pool.  Brent shares his own experiences as a taxi driver and audience members share their own experiences in taxis and those stories are used as inspiration for improvised scenes.
+Brent is an accomplished sound improviser scoring for numerous shows at The Hideout, Salvage Vanguard and Zach Theatre.  He is the assistant sound improviser for Get Up and accompanied the troupe at the Montreal Improv Festival in October 2012.  Most recently he scored for The Hideout Theatre's production of *Fandom: Star Wars* and *Fandom: Harry Potter*.
 
-Brent has been a taxi driver in the Austin area since 2008.  He is a member of the Austin Facial Hair Club which is featured regularly on the reality T.V. show “Whisker Wars”.
+Brent is the founding director of *[[Taxi Cab Impressions]]*, a predominantly short-form *Armando*-style troupe with a rotating cast pool.  Brent shares his own experiences as a taxi driver and audience members share their own experiences in taxis and those stories are used as inspiration for improvised scenes.
+
+Mr. Unger has been a taxi driver in the Austin area since 2008 and he is a member of the Austin Facial Hair Club which is featured regularly on the reality T.V. show “Whisker Wars”.
 
 ## Shows
 * *[[Apocalypse]]* 
