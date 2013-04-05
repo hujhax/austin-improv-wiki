@@ -14,3 +14,5 @@ While working as an extra on the *Friday Night Lights* television series, Brent 
 Brent has been an occasional performer in recurring shows such as [[Fancy Pants]], [[The Derby]] and [[Maestro]].  He has been a member of troupes [[Apocalypse]], [[Epic]] and [[Joy]].  He’s the founding director of *[[Taxi Cab Impressions]]*, a predominantly short-form *Armando*-style troupe with a rotating cast pool.  Brent shares his own experiences as a taxi driver and audience members share their own experiences in taxis and those stories are used as inspiration for improvised scenes.
 
 Brent has been a taxi driver in the Austin area since 2008.  He is a member of the Austin Facial Hair Club which is featured regularly on the reality T.V. show “Whisker Wars”.
+
+[[Category/Performers|Unger]]
