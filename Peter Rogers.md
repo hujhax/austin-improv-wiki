@@ -23,11 +23,12 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 * *[[Totally Improvised, 90210]]*
 * *[[Spirited]]*
 * *[[Charles Dickens Unleashed]]*
-* *[[Live TV Tuesdays Presents -  Buffy]]*
+* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]*
 * *[[Live TV Tuesdays Presents -  Freaks and Geeks]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[The Professor]]*
 * *[[Live TV Tuesdays Presents -  Angel]]*
+* *[[Joss Whedon Pajama Party]]*
 * *[[Rock]]*
 * *[[The Black Vault]]*
 * *[[Austin Secrets]]*
