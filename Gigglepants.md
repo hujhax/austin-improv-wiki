@@ -21,6 +21,8 @@
 *[[Bryan Roberts]]
 *[[Kyle Traughber]]
 *[[Meghan Wolff]]
-
+*[[Thai Le]]
+*[[Alex Hunt]]
+*[[Miachel Pruett]]
 
 [[Category/Troupes|Category:Troupes]]
