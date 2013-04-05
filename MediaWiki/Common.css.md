@@ -11,7 +11,7 @@
 	padding: 0.2em;
 	text-align: left;
 	width: 200px
-	border-radius: 10px;
+	border-radius: 10px 10px 10px 10px;
 	-moz-box-shadow: 5px 5px 5px #888888;
 	-webkit-box-shadow: 5px 5px 5px #888888;
 	box-shadow: 5px 5px 5px #888888;
