@@ -16,3 +16,8 @@ In late 2012 they added two members, bringing their total to six.
 ## Awards
 * Most Outstanding Troupe - ColdTowne Awards - 2011
 * B. Iden Payne Award for Outstanding Work in Improvisational Theatre Nominee - 2012
+
+## More Info
+* [http://badboysimprov.tumblr.com Bad Boys' Website]
+* [http://www.facebook.com/badboysimprov Bad Boys' Facebook]
+* [http://vimeo.com/user6611089/videos Bad Boys' Vimeo]
