@@ -99,6 +99,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[The Triple Scoop]]*
 ### Mainstage Productions
 * *[[Live TV Tuesdays]]*
+* *[[Manson -  The Musical]]*
 * *[[Pulp Friction]]*
 * *[[Only Three Will Survive]]*
 * *[[This American Live]]*
