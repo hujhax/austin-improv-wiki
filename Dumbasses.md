@@ -11,7 +11,7 @@
 [[Marcus Hysmith]] and [[Luis Salinas]] play a couple of well-meaning guys who attempt to carry out tasks that require intelligence and/or skill, while possessing neither.
 
 ## History
-Dumbasses formed in the Institution Theater's master class during one of instructor Asaf Ronen's "Duo Days."  Given about 10 minutes to come up with a format, Marcus and Luis decided to play a couple of idiots.  Everyone loved them, so they became a performing troupe, appearing regularly on the Institution's stage.
+Dumbasses formed in [[The Institution Theater]]'s master class during one of instructor [[Asaf Ronen]]'s "Duo Days."  Given about 10 minutes to come up with a format, Marcus and Luis decided to play a couple of idiots.  Everyone loved them, so they became a performing troupe, appearing regularly on the Institution's stage.
 
 ## Video
 *[http://vimeo.com/user5750859/dumbasses120121  Submarine (Institution Theater January 21, 2012)]
