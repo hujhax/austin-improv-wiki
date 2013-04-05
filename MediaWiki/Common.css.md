@@ -22,3 +22,11 @@
 .plainlist ul li { 
 	margin-bottom: 0px;
 }
+
+.template-documentation { 
+	background-color: #ECFCF4;
+	border: 1px solid #AAAAAA;
+	clear: both;
+	margin: 1em 0px 0px;
+	padding: 5px;
+}
