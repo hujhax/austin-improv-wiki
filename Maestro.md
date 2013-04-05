@@ -6,7 +6,7 @@
 |Cast	=	Various
 |Run	=	2000-Present
 }}
-Maestro is a competitive short-form improv format. It has played at the [[Hideout Theatre]] on Saturday nights at 10 pm continuously since 2000. It's the longest-running improv show in Austin.
+**Maestro** is a competitive short-form improv format. It has played at the [[Hideout Theatre]] on Saturday nights at 10 pm continuously since 2000. It's the longest-running improv show in Austin.
 
 ## History
 [http://en.wikipedia.org/wiki/Keith_Johnstone Keith Johnstone] invented Maestro (originally known as "Micetro" and still called that outside of Austin) when he was asked, on short notice, to concoct an improv format that 50 people could play. He initially called it "The New Game." When [[Sean Hill]] founded the Hideout, Micetro was one of the games he brought from [http://www.improv.org/Home.aspx BATS] in San Francisco.
