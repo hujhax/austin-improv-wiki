@@ -13,6 +13,7 @@ Jessica Arjet graduated from the [[Heroes of Comedy]] Improv School in 2003.  Up
 ## Troupes
 * [[Firth & Arjet]]
 * [[In Our Prime]]
+* [[Bedfellows]]
 
 ## Shows
 * *[[Charles Dickens Unleashed]]*
