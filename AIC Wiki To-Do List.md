@@ -1,6 +1,7 @@
 ## Tasks
 * Upload [[Sara Farr]]'s AIC logo designs.
 ** Also, re-save the Illustrator files as JPGs, and upload those.
+* Add bit about crediting photos to the [[AIC Wiki Style Guide]].
 * Infoboxes.
 ** Include more thorough information about each field.
 ** Make infobox field names link to the documentation about the field.
