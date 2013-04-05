@@ -15,8 +15,8 @@
 * [[Live Nude Improv]]
 * [[Pulp Friction]]: Improvised Tarantino 
 * [[The Pappy Parker Players]] 
-* *[[Live Television Tuesdays -  Buffy The Vampire Slayer]]* (Xander Harris) 
-* *[[Live Television Tuesdays -  Small Colorado Mountain Town]]* (Director) 
+* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]* (Xander Harris) 
+* *[[Live TV Tuesdays -  Small Colorado Mountain Town]]* (Director) 
 
 
 ### Awards
