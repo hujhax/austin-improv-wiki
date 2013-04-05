@@ -105,6 +105,5 @@ ends the list.
 
 # end the list and start another.
 Any other start also
-ends the list.|}
-
-## AIC Wiki Formatting
+ends the list.
+|}
