@@ -12,15 +12,15 @@
 ??
 
 ## Notable Alums
-[[Colin Bates]]
-[[Michael Bird]]
-[[Quinn Buckner]]
-[[Bryan Cruz]]
-[[Michael Domangue]]
-[[Yamina Khouane]]
-[[Bryan Roberts]]
-[[Kyle Traughber]]
-[[Meghan Wolff]]
+*[[Colin Bates]]
+*[[Michael Bird]]
+*[[Quinn Buckner]]
+*[[Bryan Cruz]]
+*[[Michael Domangue]]
+*[[Yamina Khouane]]
+*[[Bryan Roberts]]
+*[[Kyle Traughber]]
+*[[Meghan Wolff]]
 
 
 [[Category/Troupes|Category:Troupes]]
