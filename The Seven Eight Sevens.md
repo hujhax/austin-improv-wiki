@@ -13,5 +13,8 @@
 3/31/2012 - Debut Show at The Salvage Vanguard Theater
 Opened for PGraph.
 
+3/28/2013
+Played the Dallas Comedy Festival.
+
 ## More Information
 *[https://www.facebook.com/theseveneightsevens The Seven Eight Sevens facebook page]
