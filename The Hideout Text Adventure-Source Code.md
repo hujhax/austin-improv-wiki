@@ -1,4 +1,4 @@
-This is the source code, in Inform 7, for [[The Hideout Text Adventure]].
+This is the source code, in Inform 7, as of 4/1/2013, for [[The Hideout Text Adventure]].
 
 ----
 
