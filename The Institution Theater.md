@@ -6,10 +6,8 @@
 |Years	=		2010-Present
 }}
 
-The Institution presents and teaches both improv and scripted theater.  Their improv draws equally from a wide variety of sources.
+**The Institution Theater** presents and teaches both improv and scripted theater.  Their improv draws equally from a wide variety of sources.
 
 
 ## History
-The Institution theater was founded in 2008 by Tom Booker.  Classes began in the Velveeta Room, initially with just one class.
-
-## Shows
+The theater was founded in 2008 by Tom Booker.  Classes began in the Velveeta Room, initially with just one class.
