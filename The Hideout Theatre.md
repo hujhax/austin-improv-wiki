@@ -13,3 +13,6 @@ The Hideout Theatre was founded in 1999 by [[Sean Hill]].
 
 ## Shows
 The Hideout puts on a number of mainstage shows, and a variety of recurring shows such as *[[Maestro]]* and *[[The Free Fringe]]*.
+
+## Notable Facts
+The Hideout has had a [[The Hideout Text Adventure|text adventure]] written about it.
