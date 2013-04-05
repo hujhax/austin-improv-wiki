@@ -9,7 +9,7 @@
 **Bad Boys** is an improv troupe.
 
 ## Summary
-Bad Boys have been performing since July of 2010. Originally started as a [[The Cagematch]] troupe, the foursome decided to continue after the tournament was over. They currently have an open ended run on Friday nights at [[ColdTowne Theater]]. In late 2012 they added two members, bringing their total to six.
+Bad Boys have been performing since July of 2010. Originally started as a [[The Cagematch]] troupe, the foursome decided to continue after winning the tournament. They currently have an open ended run on Friday nights at [[ColdTowne Theater]]. In late 2012 they added two members, bringing their total to six.
 
 ## Current Members
 * [[Adam Trabka]]
@@ -20,6 +20,5 @@ Bad Boys have been performing since July of 2010. Originally started as a [[The 
 * [[Sam Malcom]]
 
 ## Awards
-* Cage Match Champions
-* Most Outstanding Troupe Coldtowne Awards 2011
-* Official nomination for B. Iden Payne award 2012
+* Most Outstanding Troupe - ColdTowne Awards - 2011
+* B. Iden Payne Award for Outstanding Work in Improvisational Theatre Nominee - 2012
