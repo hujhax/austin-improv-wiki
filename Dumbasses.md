@@ -2,12 +2,13 @@
 |Name	=		Dumbasses
 |Picture	=	Dumbasses.jpg
 |Cast	=	{{Unbulleted list|[[Marcus Hysmith]]|[[Luis Salinas]]}}
-
-
 |Years	=		2011-Present
 }}
 
-Marcus Hysmith and Luis Salinas play a couple of well-meaning guys who attempt to carry out tasks that require intelligence and/or skill, while possessing neither.
+**Dumbasses** is an improv duo.
+
+## Summary
+[[Marcus Hysmith]] and [[Luis Salinas]] play a couple of well-meaning guys who attempt to carry out tasks that require intelligence and/or skill, while possessing neither.
 
 ## History
 Dumbasses formed in the Institution Theater's master class during one of instructor Asaf Ronen's "Duo Days."  Given about 10 minutes to come up with a format, Marcus and Luis decided to play a couple of idiots.  Everyone loved them, so they became a performing troupe, appearing regularly on the Institution's stage.
@@ -18,3 +19,6 @@ Dumbasses formed in the Institution Theater's master class during one of instruc
 
 ## More Information
 *[http://www.facebook.com/pages/Dumbasses/311185398904052 The Dumbasses facebook page]
+
+[[Category/Troupes|A]]
+[[Category/Duos|A]]
