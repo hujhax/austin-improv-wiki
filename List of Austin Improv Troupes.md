@@ -74,6 +74,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[The Sicks]]
 * [[Squirrel Buddies]]
 ### T
+* [[Taxi Cab Impressions]]
 * [[The Team]]
 * [[Toy Boat]]
 * [[Two Guys From Yonkers]]
