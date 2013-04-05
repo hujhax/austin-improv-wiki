@@ -11,7 +11,7 @@
 
 ## History
 3/31/2012 - Debut Show at The Salvage Vanguard Theater
-Opened for PGraph.
+opened for PGraph.
 
 3/28/2013
 Played the Dallas Comedy Festival.
