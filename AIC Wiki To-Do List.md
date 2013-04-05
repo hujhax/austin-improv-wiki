@@ -9,7 +9,6 @@
 ** e.g., a "performer" infobox has the word "Performer" visible somewhere.
 *** Maybe in a thing above the main box
 * Make a new category for Photographers
-** Replace the top-level "Performers" category with "People"
 ** Add a photographer-list page to the new "People" category.
 
 ## Content
