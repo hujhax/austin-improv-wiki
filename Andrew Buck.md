@@ -13,7 +13,7 @@ Andrew Buck (aka, Andy) is an improviser living and performing in Austin, Texas.
 * *[[Fandom]]*
 * *[[This American Live]]*
 * ''[[Braised in Texas]]'
-'* *[[The JTS Brown Experience]]*
+* "[[The JTS Brown Experience]]''
 * *[[Past Lives]]*
 
 ## Troupes
