@@ -147,4 +147,4 @@ To do that, you just include an "infobox" template at the top of the page.  For 
  |Years	=	2008-Present
  }}</nowiki>
 
-For more information about infoboxes, check the documentation on infoboxes for troupes, performers, shows, and theaters.
+For more information about infoboxes, check the documentation on infoboxes for [[Template/Infobox Troupe|troupes]], [[Template/Infobox Performer|performers]], [[Template/Infobox Show|shows]], and [[Template/Infobox Theater|theaters]].
