@@ -12,7 +12,7 @@ Alternately, you can type the title of a page you want to create into the search
 **I haven't used a wiki before! How do I make my page look pretty?**<br/>
 First off, *don't worry about it*. It's *incredibly* easy for the rest of us to make the content you add look pretty. But it's hard (as in "impossible") for the rest of us to magically know the things that *you* know about the Austin improv scene. So be bold, make mistakes, and trust that the rest of this community has your back.
 
-But if you want to learn about wiki markup, [http://www.mediawiki.org/wiki/Help:Formatting this page] gives a great summary.
+But if you want to learn about wiki markup, [[Help/- Formatting|this page]] gives a great summary.
 
 If you'd like to make a new page for a troupe, a show, or a performer, try using [[The Foreign Legion|this troupe page]], [[Totally Improvised, 90210|this show page]], or [[Peter Rogers|this performer page]] as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
 
