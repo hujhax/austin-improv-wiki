@@ -107,3 +107,44 @@ ends the list.
 Any other start also
 ends the list.
 |}
+
+## Links
+Here's a quick list of how to make some simple links.
+
+[http://www.mediawiki.org/wiki/Help:Links This site] lists a more complete list of features.
+
+
+{| border="1" class="wikitable"
+!Description
+!You type
+!You get
+|-
+|Internal link
+|<pre>[[Main Page]]</pre>
+|[[Main Page]]
+|-
+|Piped link 
+|<pre>[[Main Page|different text]]</pre>
+|[[Main Page|different text]]
+|-
+|External link
+|<tt><nowiki>http://mediawiki.org</nowiki></tt>
+|http://mediawiki.org
+|-
+|External link with different label
+|<tt><nowiki>[http://mediawiki.org MediaWiki]</nowiki></tt>
+|[http://mediawiki.org MediaWiki]
+|}
+
+## Infoboxes
+You may be wondering how to make those little colorful "information boxes" depicted on (for example) the troupe, theater, and performer pages.
+
+To do that, you just include an "infobox" template at the top of the page.  For a performer, that text might look like this:
+ <nowiki>{{Infobox Performer
+ |Name	=	John Doe	
+ |Picture =	John Doe Pic.jpg
+ |Theater=	[[The Hideout Theatre]]
+ |Years	=	2008-Present
+ }}</nowiki>
+
+For more information about infoboxes, check the documentation on infoboxes for troupes, performers, shows, and theaters.
