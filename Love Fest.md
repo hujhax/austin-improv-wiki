@@ -7,7 +7,7 @@
 |Run	=	February 2013
 }}
 
-*Love Fest* was an improvised longform show based on the theme of love for Valentine's days 2013.
+***Love Fest*** was an improvised longform show based on the theme of love for Valentine's days 2013.
 
 ## Format
 Each show consisted of three separate troupe performances by [[Nugefield]], [[Bedfellows]], and [[The Seven Eight Sevens]]. The troupe performances were interspersed with brief musical acts and true stories by the cast members about their love lives.
