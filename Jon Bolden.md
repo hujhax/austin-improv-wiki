@@ -28,3 +28,5 @@ Jon moved to downtown Austin in 2007, where he stumbled upon a performance of [[
 * *[[Theatresports]]*
 
 [[Category/Performers|Bolden]]
+
+[[Category/Teachers|Bolden]]
