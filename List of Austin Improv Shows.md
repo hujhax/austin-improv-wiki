@@ -98,7 +98,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[The Rubber Room]]*
 * *[[The Triple Scoop]]*
 ### Mainstage Productions
-* *[[TV Tuesdays]]*
+* *[[Live TV Tuesdays]]*
 * *[[Pulp Friction]]*
 * *[[Only Three Will Survive]]*
 * *[[This American Live]]*
