@@ -24,5 +24,6 @@
 *[[Thai Le]]
 *[[Alex Hunt]]
 *[[Miachel Pruett]]
+*[[Kim Espinosa]]
 
 [[Category/Troupes|Category:Troupes]]
