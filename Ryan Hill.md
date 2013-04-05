@@ -23,6 +23,7 @@ Ryan has performed at The Oklahoma Improv Festival and Improvaganza Hawaii with 
 * *[[Live TV Tuesdays Presents -  Buffy]]*
 * *[[After School Improv]]*
 * *[[The Black Vault]]*
+* ''[[Love Fest]]
 * *[[The Next Chapter]]*
 
 [[Category/Performers|Hill]]
