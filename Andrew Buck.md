@@ -5,8 +5,10 @@
 |Years	=	2012-Present
 }}
 
+**Andrew Buck** (aka Andy) is an improviser living and performing in Austin, Texas.
+
 ## History
-Andrew Buck (aka, Andy) is an improviser living and performing in Austin, Texas. He began his improv career as a student at Merlin Works in July, 2011. He has performed improv at Salvage Vanguard, the Hideout Theatre, the Institution Theater, and ColdTowne. 
+Andrew began his improv career as a student at [[Merlin Works]] in July, 2011. He has performed improv at [[Salvage Vanguard Theater]], [[The Hideout Theatre]], [[The Institution Theater]], and [[ColdTowne Theater]].
 
 ## Shows
 * *[[Manhattan Stories]]*
