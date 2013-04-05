@@ -15,6 +15,15 @@ Brent has been an occasional performer in recurring shows such as [[Fancy Pants]
 
 Brent has been a taxi driver in the Austin area since 2008.  He is a member of the Austin Facial Hair Club which is featured regularly on the reality T.V. show “Whisker Wars”.
 
+## Shows
+* *[[Apocalypse]]* 
+* *[[The Derby]]*
+* *[[The Fancy-Pants Mashup]]*
+* *[[Pick Your Own Path]]*
+* *[[Maestro]]*
+
+[[Category/Performers|Unger]]
+
 ## Troupes
 * [[Apocalypse]] (2012) 
 * [[Epic]] (2012)
