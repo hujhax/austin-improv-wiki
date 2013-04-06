@@ -60,3 +60,4 @@ Marc Majcher is an improv performer and director. He has enormous hands.
 * *[[Blink]]* (Coached)
 
 [[Category/Performers|Majcher]]
+[[Category/Directors|Majcher]]
