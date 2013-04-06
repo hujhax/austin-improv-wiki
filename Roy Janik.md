@@ -17,5 +17,5 @@
 * [[The Black Vault]]
 
 [[Category/Performers|Janik]]
-
-[[Category/Teachers|Bolden]]
+[[Category/Teachers|Janik]]
+[[Category/Directors|Janik]]
