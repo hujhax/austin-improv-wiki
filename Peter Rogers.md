@@ -16,6 +16,9 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 * [[Continental Breakfast]] (2010)
 * [[The Dancy Street D'Orchestra]] (2010-2011)
 
+## Photography
+Though not a professional photographer, Peter has photographed nearly three hundred improv shows.  He is perhaps better known for videoing shows, posting shows almost weekly to vimeo.
+
 ## Shows
 * *[[Improvised Shakespeare]]*
 * *[[The Violet Underbelly]]*
@@ -35,6 +38,9 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 * *[[Fandom]]*
 * *[[Strange Worlds]]*
 
+## Media
+* [http://www.flickr.com/photos/hujhax/collections/72157613519092868/ Peter's improv photos on flickr.]
+* [http://vimeo.com/hujhax/videos Peter's videos on vimeo.]
 
 [[Category/Performers|Rogers]]
 [[Category/Photographers|Rogers]]
