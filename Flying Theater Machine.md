@@ -1,4 +1,4 @@
-{{Infobox Troupe
+{{Infobox Show
 |Name	=		Flying Theater Machine
 |Cast	=	{{Unbulleted list |[[Jessica Arjet]] | [[Thedward Blevins]] | [[Mitchell Deane]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Mike Kinald]] | [[Marc Majcher]] | [[Jo Maraschino]] | [[Mike Nystul]] | [[Matt Pollock]] | [[Ruby Willmann]] |}}
 |Years	=		2007-Present
