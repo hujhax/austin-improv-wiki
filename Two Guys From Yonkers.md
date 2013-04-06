@@ -22,7 +22,7 @@ The name is entirely based on the accent. Neither of the performers has ever eve
 * [[]] (Year)
 
 ## Shows
-* 
+* ??/??/????- Debut @ The Hideout ("Show Subject") 
 
 ## More Information
 * [https://www.facebook.com/TwoGuysFromYonkers Two Guys From Yonkers Facebook Page]
