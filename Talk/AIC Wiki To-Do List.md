@@ -1,3 +1,3 @@
 Wonderful! Great idea to have a to do list. :-) --Ryan H.
 
-*tips hat* --[[Peter Rogers|Peter]]
+<nowiki>*tips</nowiki> hat* --[[Peter Rogers|Peter]]
