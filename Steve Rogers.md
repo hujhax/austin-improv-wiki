@@ -1,5 +1,3 @@
-{{Stub}}
-
 **Steve Rogers** is a photographer who has worked frequently with the Austin improv community, both photographing shows and shooting publicity photos, since 2011.
 
 ## More Information
