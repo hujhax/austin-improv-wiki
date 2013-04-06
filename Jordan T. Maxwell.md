@@ -33,3 +33,4 @@ Jordan was also a regular on the Hulu original series *[http://en.wikipedia.org/
 * *[[Strange Worlds]]* (director)
 
 [[Category/Performers|Maxwell]]
+[[Category/Directors|Maxwell]]
