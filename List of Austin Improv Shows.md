@@ -108,8 +108,10 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[The Suitcase]]* (2013)
 
 ## Merlin Works Student Productions
+* *[[Bad Company]]*
 * *[[Heist]]*
 * *[[The Sword of Merlin Works]]*
+* *[[The Trouble With Terry]]*
 
 ## The New Movement Theater
 ### Ongoing Shows
