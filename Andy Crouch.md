@@ -6,6 +6,7 @@
 }}
 [[Category/Performers|Crouch]]
 [[Category/Teachers|Crouch]]
+[[Category/Directors|Crouch]]
 
 **Andy Crouch** is an improviser and the Director of Education for [[The Hideout Theatre]].
 
