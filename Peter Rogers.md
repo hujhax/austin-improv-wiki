@@ -17,7 +17,7 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 * [[The Dancy Street D'Orchestra]] (2010-2011)
 
 ## Photography
-Though not a professional photographer, Peter has photographed nearly three hundred improv shows.  He is perhaps better known for videoing shows, posting shows almost weekly to vimeo.
+Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly.
 
 ## Shows
 * *[[Improvised Shakespeare]]*
