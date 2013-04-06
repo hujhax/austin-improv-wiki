@@ -1,8 +1,8 @@
 {{Infobox Troupe
 |Name	=	Happy Butter
 |Picture =      Happy Butter.jpg
-|Cast	=	{{Unbulleted list | [[David Nayer]] | [[Karen Jane DeWitt]] | [[Menelaos Prokos]] | [[Mike Nystul]] | [[Thedward Blevins]] | [[Zac Grantham]] | }}
-|Years	=		2011
+
+|Cast	=	{{Unbulleted list  |  [[Nicole Beckley]] |  [[Thedward Blevins]] |  [[Zac Grantham]] |  [[Karen Jane DeWitt]] |  [[Halyn Lee Erickson]] |  [[David Nayer]] |  [[Mike Nystul]] |  [[Amy O'Connor]] |  [[Menelaos Prokos]] |  }} | |Years	=		2011
 }}
 **Happy Butter** was a troupe focusing on narrative improv.
 
