@@ -14,8 +14,8 @@ This is a wiki devoted to the Austin Improv community.  It's here to accumulate 
 [[List of Austin Improv Shows]]
 
 ## Events
-[[List of Austin Improv Festivals]]
-[[List of Austin Improv Annual Events]]
+* [[List of Austin Improv Festivals]]
+* [[List of Austin Improv Annual Events]]
 
 ## History
 [[History of Austin Improv]]
