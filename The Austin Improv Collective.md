@@ -13,6 +13,6 @@ After [http://forum.austinimprov.com/viewtopic.php?f=13&t=155 spirited] [http://
 ## History
 The AIC began as the Austin Improv Co-op circa 2004, as a loose coalition of Austin improvisers.  A [http://forum.austinimprov.com/viewtopic.php?f=5&t=70 name change was proposed] at their 10/22/2005 meeting, and they quickly settled on "Austin Improv Collective".
 
-In its early days the AIC organized shows, events and activities to facilitate more improv performance in Austin. Some long-running shows, such as [[The Cagematch]] and [[The Threefer]] started out life as AIC-produced and -branded shows.  Other AIC shows included [[The Double Barrel]], [[Thursday Night Awesome]], and [[The Blank Show]]. The AIC also initiated regular Austin-improv events such as [[Same Year's Eve]] and the [[Austin Improv Potluck]].
+In its early days the AIC organized shows, events and activities to facilitate more improv performance in Austin. Some long-running shows, such as [[The Cagematch]] and [[The Threefer]] started out life as AIC-produced and -branded shows.  Other AIC shows included [[The Double Barrel]], [[Thursday Night Awesome]], and [[The Blank Show]]. The AIC also initiated regular Austin-improv events such as [[Same Year's Eve]] and [[The Austin Improv Potluck]].
 
-By about 2008, the individual theaters had taken on much of the show/event/activity organization, leaving the AIC largely inactive, but still an active part of the [[Austin Improv Potluck]].
+By about 2008, the individual theaters had taken on much of the show/event/activity organization, leaving the AIC largely inactive, but still an active part of [[The Austin Improv Potluck]].
