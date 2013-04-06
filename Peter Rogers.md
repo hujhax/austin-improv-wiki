@@ -37,3 +37,4 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 
 
 [[Category/Performers|Rogers]]
+[[Category/Photographers|Rogers]]
