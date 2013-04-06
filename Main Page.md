@@ -5,6 +5,7 @@ This is a wiki devoted to the Austin Improv community.  It's here to accumulate 
 
 ## People
 * [[List of Austin Improv Performers]]
+* [[List of Austin Improv Photographers]]
 * [[List of Austin Improv Teachers]]
 
 ## Troupes
