@@ -10,7 +10,7 @@
 ## Shows
 * **[[Flying Theater Machine]]** (2012-Present)
 * **[[Maestro]]**
-* **[[The Fancy Pants Mash-up]]**
+* **[[The Fancy-Pants Mashup]]**
 * **[[The Tribunal]]**
 
 ## Troupes
