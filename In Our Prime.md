@@ -7,11 +7,11 @@
 |Years	=		2012-Present
 }}
 
-In Our Prime was the brainchild of [[Paul Normandin]]. Paul and [[Gloria Bankler]] became close friends after [[Kaci Beeler]]'s *Romance and Intimacy* Elective at [[The Hideout Theatre]] in 2011. [[Ryan Hill]], Gloria and Paul all took an Elective at [[The Hideout Theatre]] entitled *Andy is Mean to You*, wherein Hideout Education Director [[Andy Crouch]] would give very direct feedback to students. Soon after, Paul approached Gloria and Ryan with his idea for a troupe that would perform extremely grounded, even dramatic, improv with very little focus on comedy. 
+In Our Prime was the brainchild of [[Paul Normandin]]. Paul and [[Gloria Bankler]] became close friends after [[Kaci Beeler]]'s *Romance and Intimacy* Elective at [[The Hideout Theatre]] in 2011. Gloria and Paul met [[Ryan Hill]] when they all took an elective workshop at [[The Hideout Theatre]] entitled *Andy is Mean to You*, wherein Hideout Education Director [[Andy Crouch]] would give very direct feedback to students. Soon after, Paul approached Gloria and Ryan with his idea for a troupe that would perform extremely grounded, even dramatic, improv with very little focus on comedy. 
 
 The troupe was briefly named *It'll Come to Us* until the name *In Our Prime* was decided on due to the older-than-average age of the cast and the primeness of their number (three). The trio performed a debut show at the Hideout.
 
-Ryan was a teaching assistant for Hideout Theatre co-owner [[Jessica Arjet]] at the time. When he told her about the troupe she asked if she could play with them. Five minutes after a very successful second show with Jessica guesting, the troupe asked her to join permanently.
+Ryan was a teaching assistant for Hideout Theatre co-owner [[Jessica Arjet]] at the time. When he told her about the troupe she asked if she could play with them. The four rehearsed together once. Ten minutes after a very successful second show with Jessica guesting, the troupe asked her to join permanently.
 
 The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii Improv Festival, [[WaffleFest]], and [[The Out of Bounds Comedy Festival]]. They have a regular monthly slot in [[The Free Fringe]] at [[The Hideout Theatre]] and have also performed a month-long [[Threefer]] run there. The troupe's Free Fringe shows tend to be more humorous and less grounded.
 
