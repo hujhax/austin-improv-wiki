@@ -14,6 +14,6 @@
 * **[[The Tribunal]]**
 
 ## Troupes
-* [[Happy Butter]] *(defunct)*
+* **[[Happy Butter]]** (2011)
 
 [[Category/Performers|Blevins]]
