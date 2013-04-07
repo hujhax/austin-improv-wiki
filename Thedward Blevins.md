@@ -6,9 +6,14 @@
 }}
 **Thedward Blevins** is an improv performer.
 
+
+## Shows
+* **[[Flying Theater Machine]]** (2012-Present)
+* **[[Maestro]]**
+* **[[The Fancy Pants Mash-up]]**
+* **[[The Tribunal]]**
+
 ## Troupes
 * [[Happy Butter]] *(defunct)*
-* [[Flying Theater Machine]]
-
 
 [[Category/Performers|Blevins]]
