@@ -41,7 +41,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 ## Media
 * [http://www.flickr.com/photos/hujhax/collections/72157613519092868/ Peter's improv photos on flickr.]
 * [http://vimeo.com/hujhax/videos Peter's videos on vimeo.]
-* [http://hujhax.livejournal.com/872048.html Peter explains the best way to video-record improv shows with your phone.]
+* [http://hujhax.livejournal.com/872048.html Peter explains the best way to video-record improv shows with your iPhone.]
 
 [[Category/Performers|Rogers]]
 [[Category/Photographers|Rogers]]
