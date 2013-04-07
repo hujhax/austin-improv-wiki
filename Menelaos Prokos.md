@@ -10,5 +10,8 @@
 * [[Happy Butter]]
 * [[The Foreign Legion]]
 
+## More Information
+* [http://improvibe.gr/?lang=en ImproVibe]
+
 [[Category/Performers|Prokos]]
 [[Category/Photographers|Prokos]]
