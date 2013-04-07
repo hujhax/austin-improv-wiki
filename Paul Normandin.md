@@ -16,7 +16,7 @@ Other classmates included [[Brad Hawkins]], [[Chad Wellington]], [[Katherine Gre
 
 Paul conceived of and started the grounded, narrative troupe [[In Our Prime]] in 2011.
 
-Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the troupe "[[We're Here to Date Your Daughter]]" founded in 2012. 
+Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the troupe [[We're Here to Date Your Daughter]] founded in 2012. 
 
 He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include a version of the Improviser's Nightmare format, The Great Debate, and Bob Finds 50.
 
