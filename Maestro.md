@@ -17,5 +17,6 @@ In February 1999, [http://www.imdb.com/name/nm0640284/ Dan O’Connor] and [http
 ## Notable Moments in Maestro History
 On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
 
+### Blue Maestro
 ## Notes
 <references />
