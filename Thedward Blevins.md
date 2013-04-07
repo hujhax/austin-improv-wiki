@@ -12,6 +12,9 @@
 * **[[Maestro]]**
 * **[[The Fancy-Pants Mashup]]**
 * **[[The Tribunal]]**
+* **[[Pick Your Own Path]]**
+* **[[The Free Fringe]]**
+* **[[The Derby]]**
 
 ## Troupes
 * **[[Happy Butter]]** (2011)
