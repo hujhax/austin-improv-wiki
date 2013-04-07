@@ -14,9 +14,30 @@
 In February 1999, [http://www.imdb.com/name/nm0640284/ Dan O’Connor] and [http://www.brianlohmann.com Brian Lohmann] directed the first Micetro show in Austin for [[Austin Theatresports]] at the Public Domain Theater on Congress Avenue. [http://www.imdb.com/name/nm0666198/ Edi Patterson] was the first winner. Later, Micetro was one of two shows ([[Gorilla Theater]] was the other) performed by Theatresports at the Hyde Park Theater, and part of the original programming when the Hideout opened in 2000.
 
 ## Description
+### Show Structure
+As performed at [[The Hideout]], Maestro typically has between 11 and 13 players, and two directors.
+
+The directors host the top of the show, explaining the structure of the show, warming up the audience if necessary, and then introducing the players.  The players all name themselves -- this is the last time the players are referred to by name.  Each player wears a number (from 1 to however-many-players-there-are), and that serves to identify them for the duration of the show.
+
+The players clear to the sides, and one of the directors sets up the first scene or game.  They do this by selecting some number of players at random (they do this by pulling numbered chips; those correspond to the players' numbers) and giving the players some sort of scene or game setup.  After the scene or game finishes, the director takes the stage and has the audience score the scene (by applause) from 1 (bad) to 5 (good).  Once the score is obtained, each player goes to a specially-designed scoreboard to assign themselves that many points for the round.
+
+Then the other director sets up a scene with some number of remaining players (again, selected at random).  The show proceeds like that, with the two directors taking turns at scene setups and scoring, until all the performers have played.  This is the end of a round, at which point the directors have the option of eliminating low-scoring players.  After that, all the chips for the remaining players go back into the box, and the directors start another round.
+
+The show proceeds like this, typically with eliminations after each round, until only one player remains.  That player is crowned the "Maestro" for the evening, and wins the prize of a framed Canadian five-dollar bill.
+
+Often, tie-breakers are used in Maestro, say if it's down to two remaining performers with equal scores, or if the directors want to eliminate three players out of a five-way tie for last place.
+
+### Other Information
+The [[Out of Bounds Festival]] includes an "All-Star Maestro" performance, which usually has 24 players.
+
+The Hideout sporadically puts on *[[Blue Maestro]]*, which is the non-family-friendly version of the show.
+
+
 ## Notable Moments in Maestro History
 On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
 
-### Blue Maestro
 ## Notes
 <references />
+
+## More Information
+* [http://improvencyclopedia.org/games//Micetro.html The Improv Encyclopedia's summary of Maestro.]
