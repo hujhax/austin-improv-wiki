@@ -1,7 +1,7 @@
 **The Austin Improv Potluck** is an annual potluck for the Austin Improv community.
 
 ## Summary
-The potluck occurs on a Sunday night, the weekend before [[Wikipedia - Thanskgiving|Thanskgiving]].  Everyone in the Austin-improv community is invited, and typically about a hundred people show up for the event.  The potluck is one of the few events still under the aegis of [[The Austin Improv Collective]].  At some point during every potluck, all the improvisors gather together for a massive group photo.
+The potluck occurs every year on the Sunday before [[Wikipedia - Thanskgiving|Thanskgiving]].  Everyone in the Austin-improv community is invited, and typically about a hundred people show up for the event.  The potluck is one of the few events still under the aegis of [[The Austin Improv Collective]].  At some point during every potluck, all the improvisors gather together for a massive group photo.
 
 ### Love Notes
 "Love notes", a potluck tradition, are short affectionate notes exchanged among improvisors.
