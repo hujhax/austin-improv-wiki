@@ -2,7 +2,7 @@
 |Name	=	Love Fest	
 |Picture =	Love_Fest.jpg ‎
 |Director =	[[Clifton Highfield]]	
-|Cast	=	{{Unbulleted list|[[Jessica Arjet]] | [[Ashley Jayne Carlisle]] | [[Cat Drago]] | [[Mitchell Deane]] | [[Andreas Fabis]] | [[Scott Hearne]] | [[Clifton Highfield]] | [[Ryan Hill]] | [[Brandon Martin]] | [[Sarah Swofford]] | [[Dana Yanoshak]]}}
+|Cast	=	{{Unbulleted list|[[Jessica Arjet]] | [[Andrew Basile]] | [[Ashley Jayne Carlisle]] | [[Cat Drago]] | [[Mitchell Deane]] | [[Andreas Fabis]] | [[Scott Hearne]] | [[Clifton Highfield]] | [[Ryan Hill]] | [[Brandon Martin]] | [[Nathan Sowell]] | [[Sarah Swofford]] | [[Dana Yanoshak]]}}
 |Theater = [[The Institution Theater]]
 |Run	=	February 2013
 }}
