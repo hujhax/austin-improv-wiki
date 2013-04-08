@@ -11,7 +11,7 @@
 ## History
 [http://en.wikipedia.org/wiki/Keith_Johnstone Keith Johnstone] invented Maestro (originally known as "Micetro" and still called that outside of Austin) when he was asked, on short notice, to concoct an improv format that 50 people could play. He initially called it "The New Game." When [[Sean Hill]] founded the Hideout, Micetro was one of the games he brought from [http://www.improv.org/Home.aspx BATS] in San Francisco.
 
-In February 1999, [http://www.imdb.com/name/nm0640284/ Dan O’Connor] and [http://www.brianlohmann.com Brian Lohmann] directed the first Micetro show in Austin for [[Austin Theatresports]] at the Public Domain Theater on Congress Avenue. [http://www.imdb.com/name/nm0666198/ Edi Patterson] was the first winner. Later, Micetro was one of two shows ([[Gorilla Theater]] was the other) performed by Theatresports at the Hyde Park Theater, and part of the original programming when the Hideout opened in 2000.
+In February 1999, [http://www.imdb.com/name/nm0640284/ Dan O’Connor] and [http://www.brianlohmann.com Brian Lohmann] directed the first Micetro show in Austin for [[Austin Theatresports]] at the [http://www.austinchronicle.com/arts/2001-11-02/83474/ Public Domain Theatre] at 807 Congress Avenue. [http://www.imdb.com/name/nm0666198/ Edi Patterson] was the first winner. Later, Micetro was one of two shows ([[Gorilla Theater]] was the other) performed by Theatresports at the Hyde Park Theater, and part of the original programming when the Hideout opened in 2000.
 
 ## Description
 ### Show Structure
@@ -34,7 +34,9 @@ The Hideout sporadically puts on *[[Blue Maestro]]*, which is the non-family-fri
 
 
 ## Notable Moments in Maestro History
-On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
+In 2002 or 2003, Maestro played for an audience of two—a couple on a date, the only people who bought tickets. During the second round [[Sean Hill]] played [http://www.ehow.com/video_4949483_improv-twin-pillars.html Twin Pillars], meaning that the scene was played for an empty house.
+
+On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience played the final tie-breaker scene using [http://learnimprov.com/?p=237 Speak in One Voice] with [[Peter Rogers]], and collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
 
 ## Notes
 <references />
