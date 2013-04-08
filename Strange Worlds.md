@@ -38,6 +38,8 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [[Bellwether Blue Versus the Shadow Asps]]
 * Episode 3 (3/16/13):
 ** [[Jack Ryder and the Temples of Neptune]]
+** [[Strange Times -  The Trident]]
+** [[The Peregrine and the Web of Youth]]
 
 ## Media
 * Episode 1 (3/2/13): [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 photos].
