@@ -21,5 +21,5 @@ Each night of the show has a different guest author. The show starts with the au
 * Doug Dorst &mdash; *[http://amzn.com/B008W3T50S The Surf Guru]*
 * Katherine Catmull &mdash; *[http://amzn.com/0525953469 Summer and Bird]*
 * Manuel Gonzales &mdash; "One-Horned and Wild-Eyed" from *[http://amzn.com/1594486042 The Miniature Wife and Other Stories]*
-* Beth Kander &mdash; *Was*
+* Beth Kander &mdash; *[http://amzn.com/B00BDR0MNE Was]*
 * Owen Egerton &mdash; *[http://amzn.com/1593765185 Everyone Says That at the End of the World]*
