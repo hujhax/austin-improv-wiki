@@ -6,6 +6,6 @@
 ## Format
 The show is generally an interview with a well-known Austin improviser. Some episodes interview troupes or show casts. When a troupe or cast is interviewed their is usually a section of the podcast where they improvise in their format.
 
-## Links
+## More Information
 * [[Http - --directory.libsyn.com-shows-view-id-thetheftforum The Theft Forum episode list]]
 * [[Https - --www.facebook.com-TheTheftForum The Theft Forum Facebook page]]
