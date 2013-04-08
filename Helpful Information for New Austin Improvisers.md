@@ -1,3 +1,4 @@
+Most of the critical information is disseminated throughout the community on the 
 
 
 * [[List of Theaters]]
