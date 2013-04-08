@@ -18,6 +18,11 @@ Each night of the show has a different guest author. The show starts with the au
 * Suzy Spencer "Secret Sex Lives: A Year on the Fringes of American Sexuality"
 * Daniel Quinn "At Woomeroo"
 * Matt Sturges "The Office of Shadow," "The Four Norsemen of the Apocalypse"
+* Doug Dorst "The Surf Guru"
+* Katerine Catmull "Summer and Bird"
+* Manuel Gonzales "One-Horned and Wild-Eyed" from The Miniature Wife and Other Stories
+* Beth Kander "Was"
+* Owen Egerton "Everyone Says That at the End of the World"
 
 ## Media
 *
