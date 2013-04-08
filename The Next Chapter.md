@@ -8,7 +8,7 @@
 |Run	=	May/Jun 2013
 }}
 
-*The Next Chapter* is a mainstage show at [[The Institution Theater]] that performs improvised continuations of the works of a published author.
+***The Next Chapter*** is a mainstage show at [[The Institution Theater]] that performs improvised continuations of the works of a published author.
 
 ## Summary
 Each night of the show has a different guest author. The show starts with the author reading anywhere from 500 to 1,000 words of his or her choosing from a published work. The cast listens and at the conclusion of the reading, steps forward to recite different details, themes, or concepts they heard for about a minute. They then begin to improvise where the story left off.
