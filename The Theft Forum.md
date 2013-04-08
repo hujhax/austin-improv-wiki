@@ -1,4 +1,4 @@
-{{Infobox Show
+{{Infobox Troupe
 |Name	=	The Theft Forum
 |Picture=	The Theft Forum Pic.jpg
 |Director =	[[Scott Hearne]]	
