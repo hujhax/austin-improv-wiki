@@ -17,12 +17,10 @@ Each night of the show has a different guest author. The show starts with the au
 * [[Deano Jones]] &mdash; *Rise of the Cafe Racer*
 * Suzy Spencer &mdash; *Secret Sex Lives: A Year on the Fringes of American Sexuality*
 * Daniel Quinn &mdash; *At Woomeroo*
-* Matt Sturges &mdash; *The Office of Shadow*, ''The Four Norsemen of the Apocalypse
-''
+* Matt Sturges &mdash; *The Office of Shadow*, *The Four Norsemen of the Apocalypse*
 * Doug Dorst &mdash; *The Surf Guru*
 * Katerine Catmull &mdash; *Summer and Bird*
-* Manuel Gonzales &mdash; "One-Horned and Wild-Eyed" from ''The Miniature Wife and Other Stories
-''
+* Manuel Gonzales &mdash; "One-Horned and Wild-Eyed" from *The Miniature Wife and Other Stories*
 * Beth Kander &mdash; *Was*
 * Owen Egerton &mdash; ''Everyone Says That at the End of the World
 ''
