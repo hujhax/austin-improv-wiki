@@ -2,7 +2,7 @@
 |Name	=	Past Lives	
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Andrew Buck]]
-|Cast	=	{{Unbulleted list|[[Aaron Saenz]]|[[Andrew Buck]]|[[Mia Iseman]]}}
+|Cast	=	{{Unbulleted list|[[Aaron Saenz]]|[[Andrew Buck]]|[[Mia Iseman]]|[[Ryan Austin]]}}
 |Run	=	April 2013
 }}
 
