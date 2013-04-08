@@ -28,10 +28,12 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[Guilds of Steel]]*
 * *[[One More Night]]*
 * *[[The Sandbox]]*
+* *[[Crack! The Improvised Puppet Musical]]* (PIP/Gnap 2009, 2010)
 * *[[Showdown]]* (2011)
 * *[[False Matters]]* (2011)
 * *[[Totally Improvised, 90210]]* (2011)
 * *[[Cover to Cover]]* (2011)
+* *[[Elf Employment]]* (PIP/Gnap 2011)
 * *[[The Cherry Bowl]]* (2012)
 * *[[Steam]]* (2012)
 *  [[The Professor -  Improv Inspired by Doctor Who]] (2012)
