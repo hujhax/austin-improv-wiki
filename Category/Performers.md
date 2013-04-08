@@ -1,1 +1,1 @@
-These are the performers who are known to be active or formerly active in the [[Austin Improv Community]].
+#REDIRECT [[List of Austin Improv Performers]]
