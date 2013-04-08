@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Roy Janik	
+|Picture = Roy Janik.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2005-Present
 }}
