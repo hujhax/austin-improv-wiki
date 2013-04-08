@@ -15,7 +15,6 @@ This section is for the most significant missing content on the site.
 
 * Make a page for Out of Bounds.
 ** Perhaps some other festivals too.
-* Make a page for Same Year's Eve.
 * Get the history of the Hideout on to its page.
 * Finish out pages for the Hideout mainstage shows.
 ** After that, do the remaining continuing shows.
