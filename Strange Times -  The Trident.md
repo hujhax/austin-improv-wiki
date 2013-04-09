@@ -1,0 +1,14 @@
+This was the third "Strange Times" story from [[Strange Worlds]].  It was improvised on March 16th, 2013. 
+
+## Episode Summary
+Detective Morgan McNulty and reporter Nate Jester investigate the sudden and inexplicable appearance of a golden trident embedded in the sidewalk outside of McNulty's house.  McNulty questions Jester's odd behavior, then contemplates the world mythologies and stories of gods hurling objects to Earth.  Passing neighbors are distracted, inconvenienced, or outright injured by the trident.  McNulty decides to contract an outside business to remove it.  
+
+Two workers contemplate the saw, deciding the best option is to saw through it with a ¾" reticulating saw.  Their foreman walks through and tells them they're on break.  They depart.  
+
+McNulty and Jester continue to watch the saw, unable to be removed by saw.  Police tape surrounds it to keep neighbors away, but to no avail.  Jester approaches the trident and takes hold, the metallic artifact glowing a brilliant aquamarine at his touch.  Static electricity and a low hum fills the air as he attempts to pull the trident from the cement, cracking the pavement, but ultimately to no avail.  
+
+After two days of watching the trident, McNulty wakes a napping and frustrated Jester.  She examines his now hazel eyes and inquires what's been going on, eventually discovering the mystical amulet he now wears.  Concerned he has become part of the strange happenings they're meant to investigate, she draws her gun on him.  Worried at her trigger happy past, he reassures her he is fine.  McNulty decides they should consult with the Museum of Natural History.  
+
+The pair question an archaeologist, who upon hearing of the trident and Jester's effect upon it pulls out an old tome and explains his theory that Atlantis was not sunk but transported to a world called Shano and that the king at that time, Kakurat, wielded such a trident and that legends say when Atlantis needs a new king, only a descendant will make the trident glow and remove it when he is ready to rule.  The archaeologist gives Jester the tome, telling him he is the new king of Atlantis and Shano and asking him to take him to the new world when he goes.  Believing him to be crazy, Jester and McNulty depart.  
+
+A pair of mysterious agents arrive outside McNulty's house and easily remove the trident.  Their accents are strange and makeup begins to flake off of their dehydrated skin.  A suspicious McNulty pulls her gun, but the two vanish through a portal with the trident.  The fractured sidewalk repairs itself, leaving no evidence it had ever been there.  McNulty invites Jester back to her place, but he proclaims he's too tired to stay.
