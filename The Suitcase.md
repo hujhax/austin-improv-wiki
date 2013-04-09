@@ -4,6 +4,8 @@
 |Theater=	[[The Institution Theater]]
 |Director =	[[Asaf Ronen]]
 |Cast	=	{{Unbulleted list|[[Alexander Hilary]] | [[Andrew Robinson]] | [[Clifton Highfield]] | [[David Lampe]] | [[Jason Vines]] | [[Jeanette Jones]] | [[Jen Kaplan]] | [[Kayla Lane Freeman]] | [[Nicole Beckley]] | [[Samantha schak]] | [[Wyatt Tall]]}}
+|Tech	=	{{Unbulleted list
+| [[Cortney DeAngelo]]}}
 |Run	=	May/Jun 2013
 }}
 
