@@ -25,10 +25,8 @@ Here is a list of guests for each show:
 * 8/20/10: [[L. B. Deyo]]
 * 8/21/10: [[Shana Merlin]]
 
-
 ### Press Description
 The show is created by mixing highly volatile puppet characters with a band of uninhibited improvisers. The result is a hilarious variety of songs and scenes in Act 1, and a completely improvise musical in Act 2 -- all conceived and performed on the spot and starring puppets. This is not your average puppet show, and it is definitely NOT a show for young children.
-
 
 ## Media
 * The 8/6/10 performance:
