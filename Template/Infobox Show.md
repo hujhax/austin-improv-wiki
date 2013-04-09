@@ -1,6 +1,6 @@
 <noinclude>
 ## Usage
-This template lists standard, useful information about an improv troupe.
+This template lists standard, useful information about an improv show.
 <pre>
 {{Infobox Show
 |Name	=		
