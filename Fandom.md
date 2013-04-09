@@ -5,6 +5,10 @@
 |Director =	{{Unbulleted list|[[Andy Crouch]] | [[Kaci Beeler]]}}
 |Cast	=	{{Unbulleted list| [[Aaron Saenz]] | [[Andrew Buck]] | [[Andy Crouch]] | [[Bridget Brewer]] | [[Courtney Hopkin]] | [[Eric Heiberg]] | [[Halyn Lee Erickson]] | [[Jordan T. Maxwell]] | [[Kaci Danger]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Peter Rogers]] | [[Quinn Buckner]]}} 
 |Run	=	Jan/Feb 2013
+|Tech	=	{{Unbulleted list
+| [[Michael Yew]]
+| [[Cortney DeAngelo]]
+| [[Neal Tibrewala]]}}
 }}
 
 *Fandom* was a mainstage show at [[The Hideout Theatre]].  Dubbed 'improvised fanfiction', the show was an improv take on a different fan-beloved universe every week.  The show opened with an [http://wiki.improvresourcecenter.com/index.php?title=Invocation invocation] on the subject of the show, and then moved into a half-hour of short-form games that riffed on that show's universe.  After a ten-minute intermission, the cast would return to perform a forty-minute narrative based on that fandom.
