@@ -6,6 +6,10 @@
 }}
 |Theater = [[The Hideout Theatre]]
 |Run	=	July-Sept. 2012 
+|Tech	=	{{Unbulleted list
+| [[Cortney DeAngelo]]
+| [[Michael Yew]]
+| [[Neal Tibrewala]]}}
 }}
 
 *Manhattan Stories* was an improvised longform show in style of the films of [[Wikipedia - Woody Allen|Woody Allen]]. It originally ran in July/August of 2012 but was extended through September.
