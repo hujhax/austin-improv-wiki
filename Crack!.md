@@ -15,9 +15,9 @@ It was a two-act show, featuring short-form songs and scenes in act one, and the
 
 The show debuted Thanksgiving weekend, 2009, and returned to SVT for a run of 6 shows in August, 2010.  It also played [[The Out of Bounds Comedy Festival]] that year.
 
-### Guests
-Each performance had a (human) guest for the night, while all the other performers improvised through modified sock puppets with rod armatures.  Sometimes, larger puppets, such as full-body puppets, were used as well.
+Each performance had a (human) guest for the night, while all the other performers improvised through modified sock puppets with rod armatures.  Sometimes, larger puppets, such as full-body puppets, were used as well.  Also, there was a musical improvisor providing live music for every performance.
 
+### Guests
 Here is a list of guests for each show:
 * 8/6/10: [[Albert Im]]
 * 8/7/10: [[Arthur Simone]]
