@@ -14,7 +14,7 @@ Three Hot Chicks was founded by [[Joel Ausanka Reese]] after he attended the [[O
 Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
 
 ## Format
-"Three Hot Chicks" referred to both the troupe and the name of the fictional sitcom the troupe created. Set in New York City, the show followed the misadventures of Mark Rabinowitz ([[Brad Hawkins]]), his brother Vinnie [[Joel Ausanka Reese]], and three of Mark's ex-girlfriends: Morgan ([[Ruby Leigh Young]]), Brooke ([[Kacy Todd]]), and Jill ([[Ruby Willmann]]). Standard sitcom tropes such as misunderstood intentions, the completion of absurd tasks, and even a laugh track were employed. At first, no continuity was observed between shows, but in the last handful of shows, characters were allowed to develop deeper relationships. 
+"Three Hot Chicks" referred to both the troupe and the name of the fictional sitcom the troupe created. Set in New York City, the show followed the misadventures of Mark Rabinowitz ([[Brad Hawkins]]), his brother Vinnie ([[Joel Ausanka Reese]]), and three of Mark's ex-girlfriends: Morgan ([[Ruby Leigh Young]]), Brooke ([[Kacy Todd]]), and Jill ([[Ruby Willmann]]). Standard sitcom tropes such as misunderstood intentions, the completion of absurd tasks, and even a laugh track were employed. At first, no continuity was observed between shows, but in the last handful of shows, characters were allowed to develop deeper relationships.
 
 ## More Information
 * [http://threehotchicksimprov.com The Three Hot Chicks website] (moribund)
