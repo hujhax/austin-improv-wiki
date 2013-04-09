@@ -1,7 +1,8 @@
 {{Infobox Show
 |Name	=	False Matters	
 |Picture=	False Matters.jpg
-|Theater=	[[Gnap! Theater Projects]] at [[Salvage Vanguard Theater]]
+|Theater=	[[Salvage Vanguard Theater]]
+|Producer=      [[Gnap! Theater Projects]]
 |Director =	[[Shannon McCormick]]
 |Cast	=	{{Unbulleted list|[[Shannon McCormick]]|[[Marc Majcher]]|[[Kareem Badr]]|[[Courtney Hopkin]]|[[Liz Brammer]]|[[Kristin Firth]]|[[Kevin Miller]]|[[Ruby Willmann]]|[[Jon Bolden]]|[[Kyle Traughber]]|[[Craig Kotfas]]}}
 |Run	=	May-June 2011
