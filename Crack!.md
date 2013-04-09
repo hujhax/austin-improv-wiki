@@ -4,7 +4,8 @@
 |Theater=	[[Salvage Vanguard Theater]]
 |Producer=	{{Unbulleted List|[[Gnap! Theater Projects]] | [[The Puppet Improv Project]]}}
 |Director =	[[Sara Farr]]
-|Cast	=	{{Unbulleted list| [[Alexander Hilary]] | [[Andreas Fabis]] | [[Heidi Rogers]] | [[Jayme Ramsay]] | [[Jessica Arjet]] | [[Lacy Shawn]] | [[Madeline Malka]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Ryan Austin]]}}
+|Cast	=	{{Unbulleted list | [[Bryan Cruz]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Howard Katz]] | [[Jesse Overright]] | [[Lisa Jackson]] | [[Patrick Daniel]] | [[Patrick Knisely]] | [[Peter Rogers]] | [[Sara Farr]] | [[Topping Haggerty]] | [[Valerie Ward]]}}
+|Music =        {{Unbulleted list | [[David Rosenbaum]] | [[Jason Laney]] | [[Pat Buchta]]}}
 |Run	=	Aug 2010
 }}
 ***Crack!*** (full name: *Crack! The Improvised Puppet Musical*) was an improvised puppet musical.
