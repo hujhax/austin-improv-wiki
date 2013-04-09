@@ -5,8 +5,8 @@
 |Director =	[[Jordan T. Maxwell]]
 |Cast	=	{{Unbulleted list| [[Alexander Hilary]] | [[Andreas Fabis]] | [[Heidi Rogers]] | [[Jayme Ramsay]] | [[Jessica Arjet]] | [[Lacy Shawn]] | [[Madeline Malka]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Ryan Austin]]}}
 |Tech	=	{{Unbulleted list
-| [[Chad Wellington]]
 | [[Cindy Page]]
+| [[Chad Wellington]]
 | [[Michael Yew]]}}
 |Run	=	Mar/Apr 2013
 }}
