@@ -11,11 +11,11 @@
 ## Summary
 Bad Boys have been performing since July of 2010. Originally started as a [[Cagematch]] troupe, the foursome decided to continue after winning the tournament. They currently have an open-ended run on Friday nights at [[ColdTowne Theater]].
 
-In late 2012 they added two members, Ed Reed and Sam Malcolm.
+In late 2012 they added two members, [[Ed Reed]] and [[Sam Malcolm]].
 
 ## Awards
-* Most Outstanding Troupe - ColdTowne Awards - 2011
-* B. Iden Payne Award for Outstanding Work in Improvisational Theatre Nominee - 2012
+* Most Outstanding Troupe - [[ColdTowne Awards]] - 2011
+* [[B. Iden Payne Award]] for Outstanding Work in Improvisational Theatre Nominee - 2012
 
 ## More Info
 * [http://badboysimprov.tumblr.com Bad Boys' Website]
