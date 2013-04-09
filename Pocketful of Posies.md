@@ -13,6 +13,9 @@
 | [[Ruby Willmann]]
 | [[Ryan Austin]]
 | [[Sam Schak]]}}
+|Tech	=	{{Unbulleted list
+| [[Cindy Page]]
+| [[Chad Wellington]]}}
 |Run	=	July/August 2012
 }}
 
