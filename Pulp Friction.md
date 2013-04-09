@@ -5,6 +5,10 @@
 |Director =	[[Tom Booker]]
 |Cast	=	{{Unbulleted list | [[Chris Allen]] | [[Andreas Fabis]] | [[Eric Heiberg]] | [[Clifton Highfield]] | [[Mia Iseman]] | [[Michael Joplin]] | [[Laura Komkov]] | [[Taylor Overstreet]] | [[Joe Ricks]] | [[Heidi Rogers]] | [[Brett Tribe]] | }}
 |Run	=	Sep/Oct 2012
+|Tech	=	{{Unbulleted list
+| [[Carl Ziegler]]
+| [[Chelley Pyatt]]
+| [[Wyatt Tall]]}}
 }}
 
 ***Pulp Friction*** was an improvised longform narrative show inspired by the works of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]].
