@@ -9,9 +9,10 @@
 
 ## History
 ## Troupes
-* [[Gigglepants]]
+* [[Gigglepants]] (???)
 * [[Blink]] (2009)
 * [[Continental Breakfast]] (2010)
+* [[The Love Notes]] (???)
 
 ## Shows
 * *[[One More Night]]*
