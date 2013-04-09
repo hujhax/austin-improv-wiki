@@ -4,7 +4,7 @@
 |Theater =	[[The Institution Theater]]
 |Director =		[[Asaf Ronen]]
 |Cast	=		Various
-|Run	=		2012-Present
+|Run	=		Sep 2012-Present
 }}
 ***The Rubber Room*** is the weekly improv jam at [[The Institution Theater]].
 
