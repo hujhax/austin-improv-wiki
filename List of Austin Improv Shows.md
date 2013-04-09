@@ -111,7 +111,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 
 ## Merlin Works Student Productions
 * *[[Bad Company]]*
-* *[[Heist]]*
+* *[[Heist!]]*
 * *[[The Sword of Merlin Works]]*
 * *[[The Trouble With Terry]]*
 
