@@ -4,6 +4,11 @@
 |Theater=	[[The Hideout Theatre]]
 |Director =	{{Unbulleted list|[[Kacey Samiee]] | [[Michael Brockman]]}}
 |Cast	=	{{Unbulleted list|[[Aden Kirschner]] | [[Amber Franklin]] | [[Amy Averett]] | [[Andy Crouch]] | [[Caeriel Crestin]] | [[Halyn Lee Erickson]] | [[Jason Finkelman]] | [[Jason Vines]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Kimberly Cox]] | [[Lindsey Reeves]] | [[Marc Majcher]] | [[Peter Rogers]]}}
+|Tech	=	{{Unbulleted list
+| [[Cindy Page]]
+| [[Cortney DeAngelo]]}}
+|Music	=	{{Unbulleted list
+| [[Michael Brockman]]}}
 |Run	=	May/Jun 2012
 }}
 
