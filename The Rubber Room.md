@@ -13,4 +13,4 @@ The Rubber Room happens every Sunday at [[The Institution Theater]] at 8pm, is f
 
 The jam starts with about fifteen minutes of group improv warm-ups.  Then, attendees are split up into a set of *ad hoc* mini-troupes, and each 'troupe' performs a brief montage piece -- some number of scenes based on an audience-suggested theme -- for the rest of the attendees.  The faculty members call scenes and occasionally provide light direction.
 
-After that, there is a 'lottery' -- attendees are given raffle tickets upon arrival, and then each faculty member performs a random draw, selecting an improvisor from the crowd to do a scene with them.  After that, the faculty closes the Rubber Room by performing a twenty-minute set.
+After that, there is a 'lottery' -- each faculty member randomly selects an improvisor from the crowd (using raffle tickets) to do a scene with them.  After that, the faculty closes the Rubber Room by performing a twenty-minute set.
