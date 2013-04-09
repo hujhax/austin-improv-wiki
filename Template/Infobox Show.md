@@ -7,6 +7,7 @@ This template lists standard, useful information about an improv troupe.
 |Picture	=
 |Theater =	
 |Director =		
+|Producer =		
 |Cast	=		
 |Run	=		
 |Subsequent Runs = 
@@ -26,6 +27,8 @@ This template lists standard, useful information about an improv troupe.
 | *Theater*           || The theater where the show happened.  In some cases, this could be more than one theater.
 |-
 | *Director*           || The person or persons who directed the show.
+|-
+| *Producer*           || The entity (such as [[Gnap!]]) that produced the show, if that's different from the theater.
 |-
 | *Cast*           || Who was in the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of performers.
 |-
@@ -55,6 +58,12 @@ This template lists standard, useful information about an improv troupe.
 			<th scope="row" style="text-align:left; vertical-align: top;">Directed by</th>
 			<td class="category">{{{Director|Unknown}}}</td>
 		</tr>
+{{#if: {{{Producer|}}} |
+		<tr class="">
+			<th scope="row" style="text-align:left; vertical-align: top;">Directed by</th>
+			<td class="category">{{{Produced By|Unknown}}}</td>
+		</tr>
+|}}
 		<tr class="">
 			<th scope="row" style="text-align:left; vertical-align: top;">Initial Run</th>
 			<td class="category">{{{Run|Unknown}}}</td>
