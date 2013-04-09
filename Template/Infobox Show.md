@@ -9,6 +9,7 @@ This template lists standard, useful information about an improv troupe.
 |Director =		
 |Producer =		
 |Music =      
+|Tech =      
 |Cast	=		
 |Run	=		
 |Subsequent Runs = 
@@ -32,6 +33,8 @@ This template lists standard, useful information about an improv troupe.
 | *Assistant Director* || List any assistant director here.
 |-
 | *Producer*           || The entity (such as [[Gnap!]]) that produced the show, if that's different from the theater.
+|-
+| *Tech*           || Who teched the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of technical improvisors, if necessary.
 |-
 | *Cast*           || Who was in the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of performers.
 |-
@@ -85,15 +88,21 @@ This template lists standard, useful information about an improv troupe.
 			<td class="category">{{{Subsequent Runs|Unknown}}}</td>
 		</tr>
 |}}
+{{#if: {{{Tech|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
-			<td class="category">{{{Cast|Unknown}}}</td>
+			<th scope="row" style="text-align:left; vertical-align: top;">Crew</th>
+			<td class="category">{{{Tech|Unknown}}}</td>
 		</tr>
+|}}
 {{#if: {{{Music|}}} |
 		<tr class="">
 			<th scope="row" style="text-align:left; vertical-align: top;">Music By</th>
 			<td class="category">{{{Music|Unknown}}}</td>
 		</tr>
 |}}
+		<tr class="">
+			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
+			<td class="category">{{{Cast|Unknown}}}</td>
+		</tr>
 	</table>
 </div>
