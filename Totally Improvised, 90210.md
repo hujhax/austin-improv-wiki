@@ -3,7 +3,11 @@
 |Picture=	90210.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Lauren Buck]]	
-|Run	=	August 2011
+|Proudcer =     [[Gnap! Theater Projects]]
+|Assistant Director = [[Peter Rogers]]
+|Cast = {{Unbulleted list | [[Amy Averett]] | [[Bryan Cruz]] | [[Colin Thomas Bates]] | [[Courtney Hopkin]] | [[Jesse Overright]] | [[Katie Thornton]] | [[Kevin Miller]] | [[Kimberly Cox]] | [[Lauren Buck]] | [[Mark Carpenter]] | [[Michael Thomas]] | [[Peter Rogers]] | [[Shana Merlin]]}}
+|Music =        [[Vinh Ngo]]
+|Run	=	Aug 2011
 }}
 
 ## Summary
@@ -18,14 +22,14 @@ The show was produced by [[Gnap! Theater Projects]] at [[Salvage Vanguard Theate
 
 
 ## Full Cast & Crew
-[[Bryan Cruz]] as Dylan McKay<br/>
-[[Colin Thomas Bates]] as David Silver<br/>
-[[Courtney Hopkin]] as Donna Martin<br/>
-[[Jesse Overright]] as Brandon Walsh<br/>
-[[Katie Thornton]] as Kelly Taylor<br/>
-[[Michael Thomas]] as Steve Sanders<br/>
-[[Lauren Buck]] as Brenda Walsh<br/>
-[[Shana Merlin]] as Andrea Zuckerman<br/>
+* [[Bryan Cruz]] as Dylan McKay
+* [[Colin Thomas Bates]] as David Silver
+* [[Courtney Hopkin]] as Donna Martin
+* [[Jesse Overright]] as Brandon Walsh
+* [[Katie Thornton]] as Kelly Taylor
+* [[Michael Thomas]] as Steve Sanders
+* [[Lauren Buck]] as Brenda Walsh
+* [[Shana Merlin]] as Andrea Zuckerman
 
 Flex Cast: [[Amy Averett]], [[Kevin Miller]], [[Kimberly Cox]], [[Mark Carpenter]], [[Peter Rogers]]
 
@@ -36,8 +40,15 @@ Tech Crew: [[Anne Wolfe Andersen]], [[Jen Kaplan]]
 Assistant Director: [[Peter Rogers]]
 
 ## Media
-* [http://vimeo.com/27416904 Performance from 8.5.11]
-* [http://vimeo.com/27955924 Performance from 8.19.11]
-* [http://vimeo.com/28875407 Performance from 8.26.11]
-* [http://vimeo.com/28932183 Performance from 8.27.11]
-* [http://vimeo.com/53748005 A special one-off performance from 11.16.12] for *[[The TV Set]]*.
+* [http://www.facebook.com/media/set/?set=a.159711617443203.42516.100002130980897&type=1 Publicity shoot] by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.10150243909883311.328380.16782108310&type=1 Promo photos] by [[Steve Rogers]], with art by [[Courtney Hopkin]].
+* [http://vimeo.com/27416904 Video of performance from 8.5.11]
+* [http://www.facebook.com/media/set/?set=a.155438774537154.41667.100002130980897&type=1 Photoset of the 8/12 performance] by [[Steve Rogers]].
+* 8/19/11 performance:
+** [http://www.facebook.com/media/set/?set=a.1866250187876.2088399.1589679282&type=1 Photoset] by [[Roy Moore]].
+** [http://vimeo.com/27955924 Video.]
+* [http://vimeo.com/28875407 Video of performance from 8.26.11]
+* [http://vimeo.com/28932183 Video of performance from 8.27.11]
+* 11/16/12 performance for *[[The TV Set]]*:
+** [http://www.facebook.com/media/set/?set=a.493085927379574.111406.100000345135257&type=1 Photoset] by [[Claudio Fox]].
+** [http://vimeo.com/53748005 Video.]
