@@ -7,8 +7,7 @@
 |Tech	=	{{Unbulleted list
 | [[Cindy Page]]
 | [[Cortney DeAngelo]]}}
-|Music	=	
-| [[Michael Brockman]]
+|Music	=	[[Michael Brockman]]
 |Run	=	May/Jun 2012
 }}
 
