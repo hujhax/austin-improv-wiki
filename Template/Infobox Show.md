@@ -71,7 +71,7 @@ This template lists standard, useful information about an improv troupe.
 |}}
 {{#if: {{{Producer|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Directed by</th>
+			<th scope="row" style="text-align:left; vertical-align: top;">Produced by</th>
 			<td class="category">{{{Producer|Unknown}}}</td>
 		</tr>
 |}}
