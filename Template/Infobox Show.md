@@ -3,16 +3,17 @@
 This template lists standard, useful information about an improv show.
 <pre>
 {{Infobox Show
-|Name	=		
-|Picture	=
-|Theater =	
-|Director =		
-|Producer =		
-|Music =      
-|Tech =      
-|Cast	=		
-|Run	=		
-|Subsequent Runs = 
+|Name	=						
+|Picture	=						
+|Theater =						
+|Director =					
+|Assistant Director =	
+|Producer =					
+|Music =      					
+|Tech =      					
+|Cast	=							
+|Run	=							
+|Subsequent Runs = 		
 }}
 </pre>
 
