@@ -7,6 +7,9 @@
 |Music= [[David Zimmerman]]
 |Run=							Sep/Oct 2011
 |Cast	=		{{Unbulleted list | [[Andreas Fabis]] | [[Andrew Pish]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Halyn Lee Erickson]] | [[Menelaos Prokos]] | [[Jason Vines]] | [[Jessica Arjet]] | [[John Buseman]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Kayla Freeman]] | [[Leng Wong]] | [[Liz Brammer]] | [[Peter Rogers]] | [[Sarah Marie Curry]] | [[Taylor Overstreet]]}}
+|Tech	=	{{Unbulleted list
+| [[David Zimmerman]]
+| [[Neal Tibrewala]]}}
 }}
 
 ***Spirited*** was a mainstage show at [[The Hideout Theatre]], inspired by the dream-logic works from artists like [[Wikipedia - Lewis Carroll|Lewis Carroll]], [[Wikipedia - Hayao Miyazaki|Hayao Miyazaki]], and [[Wikipedia - Maurice Sendak|Maurice Sendak]].
