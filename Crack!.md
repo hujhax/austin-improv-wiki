@@ -12,7 +12,7 @@
 ## Summary
 It was a two-act show, featuring short-form songs and scenes in act one, and then an improvised narrative musical in act two.
 
-The show debuted Thanksgiving weekend, 2009, and returned to SVT for a run of 6 shows in August, 2010.
+The show debuted Thanksgiving weekend, 2009, and returned to SVT for a run of 6 shows in August, 2010.  It also played [[The Out of Bounds Comedy Festival]] that year.
 
 ### Guests
 Each performance had a (human) guest for the night, while all the other performers improvised through modified sock puppets with rod armatures.  Sometimes, larger puppets, such as full-body puppets, were used as well.
