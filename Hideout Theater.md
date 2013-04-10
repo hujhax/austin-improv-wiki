@@ -1,1 +1,1 @@
-#REDIRECT [[Hideout Theatre]]
+#REDIRECT [[The Hideout Theatre]]
