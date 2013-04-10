@@ -3,7 +3,7 @@
 |Picture	=	Fakespeare Preview Image.jpg				
 |Theater =		[[The Hideout Theatre]]
 |Director =		{{Unbulleted list | [[Andy Crouch]] | [[Jordan T. Maxwell]] }}
-|Run=							Jul/Aug 2011
+|Run=							Jul/Aug 2013
 |Cast	=		{{Unbulleted list | [[Aden Kirschner]] | [[Andy Crouch]] | [[Austin Terrell]] | [[Brett Tribe]] | [[Caeriel Crestin]] | [[Caitlin Sweetlamb]] | [[Jeremy Sweetlamb]] | [[Jessica Arjet]] | [[Jordan Maxwell]] | [[Katie Dahm]] | [[Katie Van Winkle]] | [[Mike Ferstenfeld]] | [[Peter Rogers]] | [[Taylor Flanagan]] | [[Troy Miller]] | }}
 }}
 
