@@ -21,11 +21,11 @@
 |-
 ! scope="row"| 4
 | [[Unfurled]]
-| ?
+| June, 2008
 |-
 ! scope="row"| 5
 | [[Northshore Local]]
-| December 2008
+| December, 2008
 |-
 ! scope="row"| 6
 | [[Total Panic]]
