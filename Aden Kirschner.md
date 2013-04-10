@@ -19,6 +19,8 @@ Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]],
 ## Troupes
 * [[The Known Wizards]]
 * [[Girls Girls Girls]]
+* [[Duck Duck Boom]]
+* [[The Starter Kit]]
 
 ## Shows
 * *[[Rock]]*
