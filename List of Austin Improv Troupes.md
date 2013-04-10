@@ -8,8 +8,11 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Bad Boys]]
 * [[Big Beautiful Warlock]]
 ### C
+* [[Cheap Date]]
 * [[ColdTowne (troupe)|ColdTowne]]
 * [[Confidence Men]]
+* [[Cup]]
+
 ### D
 * [[Dervish]]
 * [[Dumbasses]]
@@ -38,6 +41,8 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[IScream Sandwich]]
 
 ### J
+* [[Journey to the Big Water]]
+
 ### K
 * [[The Knuckleball Now]]
 * [[The Known Wizards]]
@@ -76,6 +81,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### T
 * [[Taxi Cab Impressions]]
 * [[The Team]]
+* [[Tears But Joy]]
 * [[Toy Boat]]
 * [[Two Guys From Yonkers]]
 ### U
@@ -96,17 +102,23 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[The Dukes of Bedside Manor]]
 
 ## Not Active
+* [[Boy Toy]]
 * [[Blink]]
+* [[Consequences]]
 * [[The Dancy Street D'Orchestra]]
 * [[Double Dutch]]
 * [[First Round Draft]]
 * [[The Foreign Legion]]
+* [[Girl Trap]]
 * [[The Leading Brands]]
+* [[Hey Girl]]
 * [[Look Cookie]]
 * [[Murphy]]
 * [[Northshore Local]]
-* [[Three Hot Chicks]]
+* [[Secret Senate]]
+* [[The Smoking Gun]]
 * [[Stone Airplane]]
+* [[Three Hot Chicks]]
 * [[Total Panic]]
 * [[Unfurled]]
 * [[UpTowne]]
