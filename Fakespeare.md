@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=		Fakespeare				
-|Picture	=	Fakespeare.jpg				
+|Picture	=	Fakespeare Preview Image.jpg				
 |Theater =		[[The Hideout Theatre]]
 |Director =		{{Unbulleted list | [[Andy Crouch]] | [[Jordan T. Maxwell]] }}
 |Run=							Jul/Aug 2011
