@@ -4,7 +4,7 @@
 |Theater =		[[The Hideout Theatre]]
 |Director =		{{Unbulleted list | [[Andy Crouch]] | [[Jordan T. Maxwell]] }}
 |Run=							Jul/Aug 2013
-|Cast	=		{{Unbulleted list | [[Aden Kirschner]] | [[Andy Crouch]] | [[Austin Terrell]] | [[Brett Tribe]] | [[Caeriel Crestin]] | [[Caitlin Sweetlamb]] | [[Jeremy Sweetlamb]] | [[Jessica Arjet]] | [[Jordan Maxwell]] | [[Katie Dahm]] | [[Katie Van Winkle]] | [[Mike Ferstenfeld]] | [[Peter Rogers]] | [[Taylor Flanagan]] | [[Troy Miller]] | }}
+|Cast	=		{{Unbulleted list | [[Aden Kirschner]] | [[Andy Crouch]] | [[Austin Terrell]] | [[Brett Tribe]] | [[Caeriel Crestin]] | [[Caitlin Sweetlamb]] | [[Jeremy Sweetlamb]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Katie Van Winkle]] | [[Mike Ferstenfeld]] | [[Peter Rogers]] | [[Taylor Flanagan]] | [[Troy Miller]] | }}
 }}
 
 ***Fakespeare*** is an upcoming mainstage show at [[The Hideout Theatre]].  It is a slight variation on previous runs of *[[Improvised Shakespeare]]*.
