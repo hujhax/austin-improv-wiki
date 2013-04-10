@@ -37,8 +37,8 @@
 * Andy Crouch - Macduff, Captain
 * Austin Terrell - Porter, Second Murderer
 * Brett Tribe - Macbeth
-* Caeriel Crestin - Third Witch, Donalbain, Messenger,
-* Caitlin Sweetlamb - Second Witch, Son to Macduff,
+* Caeriel Crestin - Third Witch, Donalbain, Messenger
+* Caitlin Sweetlamb - Second Witch, Son to Macduff
 * Jeremy Sweetlamb - First Murderer, Old Siward
 * Jessica Arjet - Hecate, Gentlewoman, Angus, Old Man, Lord
 * Jordan T. Maxwell - Doctor
