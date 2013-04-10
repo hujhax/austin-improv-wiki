@@ -20,7 +20,7 @@ Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We
 ## Local Festivals
 * [[Out of Bounds Comedy Festival]] - Headlining troupe 2007
 * [[Waffle Fest]]
-* [[Frontera Fest]] - Best of Fest: 2005, 2007 & 2008.
+* [[Frontera Fest]] - Best of Week: 2005, 2007 & 2008.
 * [[The Improvised Play Festival]]
 * [[The Hideout Improv Marathon]]
 * [[The Ladies Are Funny Festival]] - Festival founders, producers and headliners.
