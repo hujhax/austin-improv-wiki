@@ -21,8 +21,8 @@ Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]],
 * [[Girls Girls Girls]]
 
 ## Shows
-* [[Rock]]
-* [[Fakespeare]]
+* *[[Rock]]*
+* *[[Fakespeare]]*
 
 
 [[Category/Performers|Kirschner]]
