@@ -140,7 +140,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Look Cookie]]
 * [[Lovely April]]
 * [[Murphy]]
-* [[Mustache Mole Face]] Local]]
+* [[Mustache Mole Face]]
 * [[Rattlesnake]]
 * [[Sarah 7]]
 * [[Sea Kings]]
