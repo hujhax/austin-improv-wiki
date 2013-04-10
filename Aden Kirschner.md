@@ -30,4 +30,5 @@ Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]],
 * "[[Theatersports]]"
 * "[[Esther's Follies]]"
 
-[[Category/Performers|Teachers|Kirschner]]
+[[Category/Performers|Kirschner]]
+[[Category/Teachers|Kirschner]]
