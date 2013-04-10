@@ -1,7 +1,7 @@
-{{Infobox Performer
+{{Infobox Troupe
 |Name	=	Girls Girls Girls	
 |Picture=	GGG-Logo G.jpg
-|Theater=	Various	
+|Cast=	Various	
 |Years	= 1998, 2003 - Present
 }}
 
