@@ -17,3 +17,7 @@
 TBA
 ### *Macbeth*
 TBA
+
+
+## More Information
+* [http://forum.austinimprov.com/viewtopic.php?f=3&t=14898 The audition- and casting-announcement thread.]
