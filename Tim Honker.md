@@ -33,9 +33,11 @@ Tim is also an avid homebrewer, a NAUI certified Master Scuba Diver, and a co-cu
 
 ## Festivals
 * Chicago Improv Festival (Nice Astronaut 2013)
-* Del Close Marathon (Nice Astronaut 2009, 2012)
-* Charleston Comedy Festival (ColdTowne Tour Co 2010)
 * [[Out of Bounds]] (Nice Astronaut 2009, 2010, 2011, 2012)
+* Del Close Marathon (Nice Astronaut 2009, 2012)
+* [[Frontera Fest]] (Townsville 2012)
+* [[Austin Sketch Fest]] (Dear Frailty 2009)
+* Charleston Comedy Festival ([[ColdTowne Tour Co]] 2010)
 
 ## External Links
 * [http://www.linkedin.com/in/timhonker/ LinkedIn Profile]
