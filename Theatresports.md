@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name	=	TheatreSports	
+|Picture = TheatreSports Preview Pic.jpg
 |Director =	{{Unbulleted list|[[Roy Janik]]	| [[Ryan Austin]]}}
 |Cast	=	{{Unbulleted list|[[Bridget Brewer]] | [[Jon Bolden]] | [[Kareem Badr]] | [[Keegan Hines]] | [[Lacy Shawn]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Nicole Oliver]] | [[Quinn Buckner]] | [[Sean Hill]]}} 
 |Theater = [[The Hideout Theatre]]
