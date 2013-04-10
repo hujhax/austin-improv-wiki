@@ -11,6 +11,8 @@
 ## Formation
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] and was formed from several students in a level 1 class together at ColdTowne Theater.  They debuted under the temporary name "H.J. Compromise" in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011).
 
+![[Niceasstronautchamp1.jpg|Nice Astronaut as cagematch champions December 2008]]
+
 As H.J. Compromise, they went on to win the December 2008 [[ColdTowne Theater]] [[Cagematch]] championships after defeating "Honky Knife Fight" ([[Josh Krilov]] and [[Stephanie Russo]]) and "Four Square On The Moon" (one of the many permutations of the [[ColdTowne Student Troupe]] [[Northshore Local]].
 
 ### Controversy
@@ -21,6 +23,8 @@ After narrowing down the potential troupe name from a list of over 200, the trou
 
 ### Members
 The troupe was formed by [[Becca Peterson]], [[Allison Alvarez]], [[Patrick Daniel]], [[Clay Crenshaw]], [[Tim Honker]] and [[Carla Goodman]].  Carla left the troupe after rehearsals began but before the first show.
+
+![[NiceAstro-2011Lineup.jpg|Nice Astronaut lineup 2010]]
 
 Over the years, the following people have been or are currently still members of Nice Astronaut (in order of joining):
 * [[Becca Peterson]] (2008 - 2013)
