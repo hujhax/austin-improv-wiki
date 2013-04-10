@@ -69,5 +69,4 @@ Also, if you know CSS styles, you can also set the list's "ul style" and "li sty
   -->{{#if:{{{48|}}}|<li style="{{{li_style|}}}{{{li_style48|}}}">{{{48}}}</li>}}<!--
   -->{{#if:{{{49|}}}|<li style="{{{li_style|}}}{{{li_style49|}}}">{{{49}}}</li>}}<!--
   -->{{#if:{{{50|}}}|<li style="{{{li_style|}}}{{{li_style50|}}}">{{{50}}}</li>}}<!--
---></ul></div>}}<noinclude>
-{{documentation}}</noinclude>
+--></ul></div>}}
