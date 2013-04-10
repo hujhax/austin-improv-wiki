@@ -36,9 +36,9 @@ Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We
 * Big Sexy Weekend of Improv - Dallas
 
 ## Awards
-Austin Chronicle award for Best Improv Troupe
-2012 B. Iden Payne Rudy Kloptic Award for Outstanding Improvised Theater
-Austin Improv Collective Award for Hardest Working Troupe.
+* Austin Chronicle award for Best Improv Troupe
+* 2012 B. Iden Payne Rudy Kloptic Award for Outstanding Improvised Theater
+* Austin Improv Collective Award for Hardest Working Troupe.
 
 ## Current Cast
 * [[Aden Kirschner]]
