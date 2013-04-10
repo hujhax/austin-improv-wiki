@@ -53,3 +53,6 @@ Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We
 ## Current Musicians
 * [[Ammon Taylor]]
 * [[Joel Love]]
+
+## Current Crew
+* [[Sara Farr]]
