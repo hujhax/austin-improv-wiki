@@ -1,0 +1,1 @@
+Caeriel Crestin is an improviser who is a graduate of the Hideout Theatre and works for the Hideout Theatre. He's also taken classes at the Institution Theater as well as the UCB Theatre in New York City. He is a regular cast member of the Flying Theater Machine. ![[Fullwinter2012.jpg]]
