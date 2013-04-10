@@ -1,4 +1,4 @@
-**ColdTowne Student Troupes** are officially sponsored house troupes of ColdTowne Theater.  Auditions are held once to twice per year, and only ColdTowne students and alumni are eligible to audition.  The ColdTowne faculty typically selects 9 to 11 performers and assigns a ColdTowne faculty member as their coach.
+**ColdTowne Student Troupes** are officially sponsored troupes of ColdTowne Theater composed of [[ColdTowne Conservatory]] students and graduates.  Auditions are held once to twice per year, and only ColdTowne students and alumni are eligible to audition.  The [[ColdTowne Faculty]] typically selects 9 to 11 performers and assigns a ColdTowne faculty member as the new troupe's coach.  Until the troupe selects a name, they are typically referred as "The New Troupe" or "Troupe X" where X is the student troupe number.
 
 ## ColdTowne Student Troupes
 {| class="wikitable"
@@ -39,16 +39,22 @@
 | [[Secret Senate]]
 | ?
 |-
-! scope="row"| ?
+! scope="row"| 9
 | [[Journey to the Big Water]]
 | ?
 |-
-! scope="row"| ?
+! scope="row"| 10
 | [[Consequences]]
 | ?
 |-
-
-
+! scope="row"| ?
+| [[Tears But Joy]]
+| ?
+|-
+! scope="row"| ?
+| [[Cheap Date]]
+| ?
+|-
 |}
 
-## Traditions
+## Debut Traditions
