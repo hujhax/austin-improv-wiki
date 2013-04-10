@@ -1,1 +1,7 @@
-Nice Astronaut photo from March 2013 - Calan Lambert not pictured.
+## Summary
+[[Nice Astronaut]] photo from March 2013 -- [[Calan lambert]] not pictured.
+
+Photo by: unknown.
+
+## Licensing
+{{No license}}
