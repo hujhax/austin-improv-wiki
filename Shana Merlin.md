@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Shana Merlin	
 |Picture =	Shana Merlin Pic.jpg
-|Theater=	Various
+|Theater=	[[ZACH Theater]]
 |Years	=	1995-Present
 }}
 ***Shana Merlin*** is an improv performer, director, and teacher.  She founded and runs [[The Merlin Works Institute for Improvisation]].
