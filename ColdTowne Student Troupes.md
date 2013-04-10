@@ -35,6 +35,19 @@
 | [[Oh Science!]]
 | ?
 |-
+! scope="row"| 8
+| [[Secret Senate]]
+| ?
+|-
+! scope="row"| ?
+| [[Journey to the Big Water]]
+| ?
+|-
+! scope="row"| ?
+| [[Consequences]]
+| ?
+|-
+
 
 |}
 
