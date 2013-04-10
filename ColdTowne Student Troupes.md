@@ -47,11 +47,15 @@
 | [[Consequences]]
 | ?
 |-
-! scope="row"| ?
+! scope="row"| 11
 | [[Tears But Joy]]
 | ?
 |-
-! scope="row"| ?
+! scope="row"| 12
+| [[Cup]]
+| ?
+|-
+! scope="row"| 13
 | [[Cheap Date]]
 | ?
 |-
