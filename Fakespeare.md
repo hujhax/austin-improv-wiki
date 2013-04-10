@@ -16,9 +16,38 @@
 
 ## Roles
 ### *Much Ado About Nothing*
-TBA
+* Aden Kirschner - Ursula, Watchman
+* Andy Crouch - Antonio
+* Austin Terrell - Claudio
+* Brett Tribe - Verges
+* Caeriel Crestin - Leonato
+* Caitlin Sweetlamb - Beatrice
+* Jeremy Sweetlamb - Benedick
+* Jessica Arjet - Margaret, Watchman
+* Jordan T. Maxwell - Dogberry
+* Katie Dahm - Hero, Sexton
+* Katie Van Winkle - Don John, Watchman
+* Mike Ferstenfeld - Balthasar, Borachio
+* Peter Rogers - Don Pedro
+* Taylor Flanagan - Friar, a Boy, Messenger
+* Troy Miller - Conrade, Messenger
+
 ### *Macbeth*
-TBA
+* Aden Kirschner - Lady Macbeth
+* Andy Crouch - Macduff, Captain
+* Austin Terrell - Porter, Second Murderer
+* Brett Tribe - Macbeth
+* Caeriel Crestin - Third Witch, Donalbain, Messenger,
+* Caitlin Sweetlamb - Second Witch, Son to Macduff,
+* Jeremy Sweetlamb - First Murderer, Old Siward
+* Jessica Arjet - Hecate, Gentlewoman, Angus, Old Man, Lord
+* Jordan T. Maxwell - Doctor
+* Katie Dahm - First Witch, Lady Macduff, Young Siward
+* Katie Van Winkle - Rosse
+* Mike Ferstenfeld - Banquo, Cathness, Seyton
+* Peter Rogers - Third Murderer, Lennox
+* Taylor Flanagan - Malcolm, Fleance
+* Troy Miller - Duncan
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14898 The audition- and casting-announcement thread.]
