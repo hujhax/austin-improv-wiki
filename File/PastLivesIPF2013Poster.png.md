@@ -1,9 +1,9 @@
 ## Summary
 Publicity graphic for *[[Past Lives]]*.
 
-Art by [[Mia Iseman]].
+Photos and art by [[Mia Iseman]].
 
 Photos by: unknown.
 
 ## License
-{{No license}}
+{{AIC-Wiki-only license}}
