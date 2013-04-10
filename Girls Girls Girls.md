@@ -8,7 +8,7 @@
 **Girls Girls Girls** is an all-female musical-improv troupe.
 
 ## Summary
-Girls Girls Girls is Austin's longest running all female musical improv troupe.  The Gals of GGG create full-length improvised musicals from a single audience suggestion. In other words using the talent of real live musicians, GGG makes up all of the songs, dances, characters, and stories to create one complete, blow-your-socks-off improvised musical.
+Girls Girls Girls is Austin's longest-running all-female musical-improv troupe.  The Gals of GGG create full-length improvised musicals from a single audience suggestion. In other words using the talent of real live musicians, GGG makes up all of the songs, dances, characters, and stories to create one complete, blow-your-socks-off improvised musical.
 
 ## History
 In 1998, [[Austin Theatresports]] was founded with male and female members. The Girls of today started as a lab show of female members of Austin Theatresports. Goddess Improviser Rebecca Stockley came to Austin to teach a workshop and while visiting, she gave the girls in the troupe some essential advice for having an all girl improv troupe: never, under no circumstances, let the boys come. The girls in the troupe first put up a lab show under the name "Rock Star Girls Galactica 3000". Original members included troupe founder [[Amy McCurdy]], [[Kacey Samiee]], [[Chelsea Gilman]], [[Lauren Zinn]], [[Kari Malek]], and [[Shana Merlin]].
