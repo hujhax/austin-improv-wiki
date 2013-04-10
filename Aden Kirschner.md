@@ -25,4 +25,4 @@ Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]],
 * [[Fakespeare]]
 
 
-[[Category/Performer|Kirschner]]
+[[Category/Performers|Kirschner]]
