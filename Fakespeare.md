@@ -12,6 +12,8 @@
 ## Summary
 *Fakespeare* includes a scripted show run in July, in which *[[Wikipedia - Much Ado About Nothing|Much Ado About Nothing]]* and *[[Wikipedia - Macbeth|Macbeth]]* are presented in repertory, and then an improvised run in August, which will vary from the traditional "improvise a play" format of *[[Improvised Shakespeare]]*, borrowing elements from previous [[Hideout]] shows such as *[[Process]]*, *[[Live Nude Improv]]*, and *[[Fandom]]*.  The same fifteen performers will put on *Much Ado About Nothing*, *Macbeth*, *and* the improvised run.
 
+[[Jordan T. Maxwell]] will be directing *Macbeth*.  [[Andy Crouch]] will be directing *Much Ado About Nothing* and the improvised run, as well as directing the overall production.
+
 ## Roles
 ### *Much Ado About Nothing*
 TBA
