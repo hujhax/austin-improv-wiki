@@ -1,8 +1,10 @@
 {{Infobox Troupe
 |Name	=	Townsville
+|Picture=	Townsville-duoposter1.jpg
 |Type   =       Sketch Comedy
 |Created by	=	{{Unbulleted list|[[Tim Honker]]|[[Nicole McCracken]]}}
 |Years	=		2012-Present
+Townsville-duoposter1.jpg
 }}
 
 **Townsville** is a Close Quarters sketch comedy show created by [[Tim Honker]] and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles as needed for each script.  
@@ -22,7 +24,9 @@ The name is intended to invoke a generic town that could be anywhere.
 
 Townsville's first script took place at a fictional sleazy small-town bar named "MacDaddy's" and was composed of 5 core sketches with 3 beats each and 3 transition sketches with 3 beats each (similar to what would be an 8x3 [[Harold]]). 
 
-The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole paid to rent out ColdTowne Theater for 2 nights while the theater was dark for the holidays.  "MacDaddy's" was then performed at the Frontera Short Fringe Festival in February 2012.  Tim & Nicole had directed the show up to this point, but once they were given a March 2012 run at ColdTowne Theater on Thursday nights, they got [[Clifton Highfield]] to direct the show.  The MacDaddy's script was performed a total of 7 times.
+![[Macdaddy-Redux-11x17 smaller.png|The poster for the March 2012 run of MacDaddy's at ColdTowne Theater]]
+
+The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole paid to rent out ColdTowne Theater for 2 nights while the theater was dark for the holidays.  "MacDaddy's" was then performed at the Frontera Short Fringe Festival in February 2012.  Tim & Nicole had directed the show up to this point, but once they were given a March 2012 run at ColdTowne Theater on Saturday nights, they got [[Clifton Highfield]] to direct the show.  The MacDaddy's script was performed a total of 7 times.
 
 #### MacDaddy's Cast & Crew
 * Nicole McCracken - writer/co-director/producer, lead actress
