@@ -25,6 +25,9 @@ Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]],
 ## Shows
 * *[[Rock]]*
 * *[[Fakespeare]]*
-
+* "[[The Anderson's]]"
+* "[[Start Trekkin']]"
+* "[[Theatersports]]"
+* "[[Esther's Follies]]"
 
 [[Category/Performers|Kirschner]]
