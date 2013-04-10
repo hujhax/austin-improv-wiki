@@ -1,4 +1,5 @@
 {{Infobox Show
+|Picture = PastLivesIPF2013Poster.png
 |Name	=	Past Lives	
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Andrew Buck]]
