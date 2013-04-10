@@ -10,14 +10,14 @@
 ## Comedy Education and Performances
 Tim started taking improv and sketch classes at [[ColdTowne Conservatory]] in 2008 and graduated in March 2009. Tim currently performs improv with [[Nice Astronaut]] and [[Stool Pigeon]].  He also co-created the sketch comedy troupe [[Townsville]] with [[Nicole McCracken]].  Tim co-developed and directed Arthur Simone’s (Best Actor – Austin Chronicle, 2009) one-man sketch show [[Dear Frailty]].  He also wrote and performed with the sketch group [[UpTowne]] and has performed with the [[ColdTowne Touring Company]].
 
-Tim got started in improvised comedy by performing in improvised narrative short films in junior high with his friends under the name "FAS Productions".  FAS Productions continued through high school and on into college when his friends became film students at the University Of Texas.  
+Tim got started in improvised comedy by performing in improvised narrative short films in junior high with his friends.  These improvised videos continued continued through high school and on into college when his friends became film students at the University Of Texas.
 
 ## Non-comedy
 Tim graduated from the University of Texas in 2006 with a B.S. in Aerospace Engineering and a minor in Computer Science.  Tim spent several years working in the defense industry designing and testing weapons and military systems ranging from digital rifle sights to nuclear missile test systems as a systems, mechanical, software, and test engineer.
 
 Tim assisted on design of FASTRAC, the University of Texas's nanosatellite, that was launched into low Earth orbit on November 19, 2010, several years after he graduated.  He went on to be the structural subsystems lead on FASTRAC's successor ARTEMIS.
 
-Tim is also an avid homebrewer, a NAUI certified Master Scuba Diver, worked on several published PC video game titles, and is a co-curator of ColdTowne Theater's [[Bad Movie Night]].
+Tim is also a homebrewer, a NAUI certified Master Scuba Diver, worked on several published PC video game titles, and is a co-curator of ColdTowne Theater's [[Bad Movie Night]].
 
 ## Active Troupes & Shows
 * [[Nice Astronaut]] - improviser & sketchprov
@@ -27,13 +27,13 @@ Tim is also an avid homebrewer, a NAUI certified Master Scuba Diver, worked on s
 * [[First United Methodist Church of Plano Youth Group Improv]] - improviser & troupe creator, 2012 - present
 
 ## Former Troupes & Shows
-* [[UpTowne]] - sketch writer/actor
-* [[ColdTowne Tour Co]] - improviser
-* [[Total Panic]] - improviser
-* [[Murphy Power Hour]] - sketchprov writer/performer
-* [[Dear Frailty]] - director, co-writer, tech
-* [[Varsity]] - improviser
-* [[ColdTowne All Stars]] - improviser
+* [[UpTowne]] - sketch writer/actor (2008-2010)
+* [[ColdTowne Tour Co]] - improviser (2010)
+* [[Total Panic]] - improviser (2009)
+* [[Murphy Power Hour]] - sketchprov writer/performer (2009 - 2010)
+* [[Dear Frailty]] - director, co-writer, tech (2009, 2010)
+* [[Varsity]] - improviser (2011)
+* [[ColdTowne All Stars]] - improviser (2009-2011)
 
 ## Festivals
 * Chicago Improv Festival (Nice Astronaut 2013)
