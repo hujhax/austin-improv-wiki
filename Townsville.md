@@ -18,6 +18,8 @@ The name is intended to invoke a generic town that could be anywhere.
 
 ## Shows/Episodes
 ### MacDaddy's Bar & Grill
+![[Townsville-macdaddys.jpg|The cast of MacDaddy's Bar & Grill - March 2012 Run at ColdTowne (incomplete)]]
+
 Townsville's first script took place at a fictional sleazy small-town bar named "MacDaddy's" and was composed of 5 core sketches with 3 beats each and 3 transition sketches with 3 beats each (similar to what would be an 8x3 [[Harold]]). 
 
 The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole paid to rent out ColdTowne Theater for 2 nights while the theater was dark for the holidays.  "MacDaddy's" was then performed at the Frontera Short Fringe Festival in February 2012.  Tim & Nicole had directed the show up to this point, but once they were given a March 2012 run at ColdTowne Theater on Thursday nights, they got [[Clifton Highfield]] to direct the show.  The MacDaddy's script was performed a total of 7 times.
