@@ -136,7 +136,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Hey Girl]]
 * [[Idiot Box]]
 * [[Improv Royale]]
-* [[[Improvised Robocop]]
+* [[Improvised Robocop]]
 * [[Jorak and Jorak Do Movie]]
 * [[Le Sexy]]
 * [[The Leading Brands]]
