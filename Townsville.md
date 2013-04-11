@@ -4,19 +4,19 @@
 |Type   =       Sketch Comedy
 |Created by	=	{{Unbulleted list|[[Tim Honker]]|[[Nicole McCracken]]}}
 |Years	=		2012-Present
-Townsville-duoposter1.jpg
 }}
 
-**Townsville** is a Close Quarters sketch comedy show created by [[Tim Honker]] and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles as needed for each script.  
+**Townsville** is a [[Close Quarters]] sketch comedy show created by [[Tim Honker]] and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles and crew as needed for each script.
 
 ## Format
-Townsville is a scripted version of the improv format [[Close Quarters]].  Each Townsville script takes place in 1 location (typically a building or business) over a short period of time (typically under an hour) in the fictional Austin suburb of Townsville, Texas.  Each script is titled after the location where the show takes place.
+Townsville is a scripted version of the improv format Close Quarters.  Each Townsville script takes place in a single location (typically a building or business) over a short period of time (typically under an hour) in the fictional Austin suburb of Townsville, Texas.  Each script is titled after the location where the show takes place.
 
 ## History
 Tim & Nicole met in their improv troupe [[Nice Astronaut]] when she joined in late 2009.  They both wanted to write a Close Quarters based improv show, but the rest of the improv troupe wasn't interested at the time, so they formed a separate group.
 
 ## Etymology
-The name is intended to invoke a generic town that could be anywhere.
+The name is intended to invoke a generic town that could be anywhere.  **Townsville, Texas** is intended to be an amalgamation of Pflugerville and Budda, Texas.  The usage of "town" in the name was accidental and is not intended to invoke the spelling of [[ColdTowne Theater]] or an association like Tim's former sketch group [[UpTowne]].
+
 
 ## Shows/Episodes
 ### MacDaddy's Bar & Grill
@@ -44,6 +44,11 @@ The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole pa
 * [[Max Krumke]] - video sketch camera operator, actor, editor
 * [[A.J. Holler]] - actor
 * [[Michael Pedacano]] - actor
+
+### Community Center
+![[Townsville-communitycenter-planning.jpg|Townsville second script in planning. Writing and organizing 8 sketches with 3 beats each and a total of 10 reoccurring characters is a complex process]]
+
+Community Center will be the second installment of Townsville.
 
 ## Festivals
 [[Townsville presents MacDaddy's Bar & Grill]] performed as part of the Hyde Park Theater Short Fringe Festival in February 2012.
