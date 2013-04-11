@@ -83,8 +83,10 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[Taxi Cab Impressions]]
 * [[The Team]]
 * [[Tears But Joy]]
+* [[Townsville]]
 * [[Toy Boat]]
 * [[Two Guys From Yonkers]]
+
 ### U
 ### V
 ### W
