@@ -5,7 +5,7 @@
 }}
 
 
-**ColdTowne** is an improv troupe founded in New Orleans, that relocated to Austin following [http://en.wikipedia.org/Hurricane_Katrina Hurricane Katrina] in 2005. Its members founded [[ColdTowne Theater]] in 2006.
+**ColdTowne** is an improv troupe founded in New Orleans, that relocated to Austin following [[Wikipedia - Hurricane Katrina|Hurricane Katrina]] in 2005. Its members founded [[ColdTowne Theater]] in 2006.
 
 The original 9 members of the troupe ColdTowne were in 2 different student troupes at La Nuit Comedy Theater in New Orleans, Louisiana.  They preferred playing with each other and left their two respected troupes and formed a new troupe called "ColdTowne Heroes".  ColdTowne Heroes later shortened its name to ColdTowne.  The members of the troupe had ambitions to open their own theater and began performing shortform at a local bar regularly in order to earn enough money to open their own theater.  While saving up the money, Hurricane Katrina struck and all the troupe members evacuated New Orleans, scattering to different cities for several months.
 
