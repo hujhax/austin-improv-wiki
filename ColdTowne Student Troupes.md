@@ -33,11 +33,11 @@
 |-
 ! scope="row"| 7
 | [[Oh Science!]]
-| ?
+| December 2009
 |-
 ! scope="row"| 8
 | [[Secret Senate]]
-| ?
+| June 6, 2010
 |-
 ! scope="row"| 9
 | [[Journey to the Big Water]]
