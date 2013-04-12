@@ -1,5 +1,7 @@
 **The 2008 Out of Bounds Comedy Festival** was the seventh annual [[Out of Bounds Comedy Festival]].
 
+Its advertising and art were election-themed.
+
 ## Acts
 ### Local Acts
 * [[$10 Bourbon]]
