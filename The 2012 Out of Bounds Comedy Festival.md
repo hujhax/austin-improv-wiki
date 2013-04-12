@@ -7,6 +7,8 @@ It featured Scott Adsit, John Lutz, and L. A. improv troupe Beer Shark Mice as h
 
 The festival ran from Tuesday 8/28/12 to Monday 9/3/11.
 
+It included a performance of [[Blue Maestro]].
+
 ## Acts
 ### Local Acts
 Unknown.
