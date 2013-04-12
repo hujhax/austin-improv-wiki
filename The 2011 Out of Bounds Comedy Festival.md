@@ -7,6 +7,8 @@ It featured [[Wikipedia - Tim Meadows|Tim Meadows]] and [[Wikipedia - Greg Proop
 
 The festival ran from Tuesday 8/30/11, to Monday 9/5/11.
 
+The roast featured [[Tom Booker]].
+
 ## Acts
 ### Local Acts
 Unknown.
