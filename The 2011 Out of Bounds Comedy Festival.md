@@ -63,9 +63,9 @@ The roast featured [[Tom Booker]].
 * [[Storyboard]]
 * [[ThinkTank]]
 * [[Victrola]]
-* [[Your Dad’s Friends]]
+* [[Your Dad's Friends]]
 * [[Your Terrific Neighbors]]
-* [[You’re Not My Real Dad]]
+* [[You're Not My Real Dad]]
 
 ### Out-of-Town Improv and Sketch Acts
 * 2-Man No-Show (Toronto)
