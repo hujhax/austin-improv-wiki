@@ -1,5 +1,8 @@
 **The 2007 Out of Bounds Comedy Festival** was the sixth annual [[Out of Bounds Comedy Festival]].
 
+## Summary
+Its advertising and art were themed around Soviet Russia.
+
 ## Acts
 ### Local Acts
 * [[ColdTowne (troupe)|ColdTowne]]
