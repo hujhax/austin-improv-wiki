@@ -14,7 +14,7 @@ This is the listed mission statement for the festival: "Out of Bounds is dedicat
 ## History
 [[Jeremy Lamb]] founded Out of Bounds in 2002, as a way to bring troupes from around Texas and beyond to the Austin comedy scene.
 
-In 2003, after the second festival, Lamb left Austin for Chicago, leaving the festival in the hands of [[Mike D'Alonzo]] and [[Shannon McCormick]], two longtime veterans of the Austin comedy scene. In their time in 2004 and 2005, D'Alonzo and McCormick expanded the festival to two stages, doubling the number of performers and the size of the audience. In 2006, Lamb returned to Austin and rejoined the production team.  Since then, the festival has steadily expanded and grown every year and for the first time, delved into the areas of short film and stand-up comedy in 2008.
+In 2003, after the second festival, Lamb left Austin for Chicago, leaving the festival in the hands of [[Mike D'Alonzo]] and [[Shannon McCormick]], two longtime veterans of the Austin comedy scene. In their time in 2004 and 2005, D'Alonzo and McCormick expanded the festival to two stages, doubling the number of performers and the size of the audience. In 2006, Lamb returned to Austin and rejoined the production team.  Since then, the festival has steadily grown every year; in 2008, the festival expanded to include short films and stand-up comedy.
 
 ## List of Out of Bounds Festivals
 * [[The 2002 Out of Bounds Comedy Festival]]
