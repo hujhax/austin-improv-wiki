@@ -1,5 +1,6 @@
 **The 2008 Out of Bounds Comedy Festival** was the seventh annual [[Out of Bounds Comedy Festival]].
 
+## Summary
 Its advertising and art were election-themed.
 
 ## Acts
