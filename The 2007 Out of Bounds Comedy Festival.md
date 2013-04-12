@@ -48,4 +48,4 @@
 * You're Fat (Austin, New York)
 
 ## More Information
-* [http://www.outofboundsimprov.com/2007/shows07.html The 2007 Out of Bounds web site.]
+* [http://www.outofboundsimprov.com/2007/home07.html The 2007 Out of Bounds web site.]
