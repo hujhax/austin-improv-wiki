@@ -1,9 +1,5 @@
 **The 2006 Out of Bounds Comedy Festival** was the fifth annual [[Out of Bounds Comedy Festival]].
 
-
-## Summary
-Its advertising and art were themed around Soviet Russia.
-
 ## Acts
 ### Local Acts
 * [[The Becchini]]
