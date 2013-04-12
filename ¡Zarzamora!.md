@@ -31,6 +31,6 @@ The following upcoming festival appearances are scheduled:
 * Duke City Improv Festival, Albuquerque, NM (2013)
 
 ## More Information
-* [https://www.facebook.com/pages/Zarzamora/126236170779574 The troupe's facebook page.]
+* [http://www.facebook.com/pages/Zarzamora/126236170779574 The troupe's facebook page.]
 
 [[Category/Troupes|Z]]
