@@ -22,3 +22,7 @@ This is a wiki devoted to the Austin Improv community.  It's here to accumulate 
 
 ## History
 [[History of Austin Improv]]
+
+## More Information
+* For general information about improv, check out [http://wiki.improvresourcecenter.com the improv resource center].
+* For general information about Austin, check out [http://www.austin360.com/ Austin360.com].
