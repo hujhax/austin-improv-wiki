@@ -40,7 +40,6 @@ The roast featured [[Tom Booker]].
 * [[Hot Property]]
 * [[Improv for Evil]]
 * [[Improv Royale]]
-* [[IZARZAMORA!]]
 * [[J-K]]
 * [[Jorak and Jorak Do Movie]]
 * [[Journey to the Big Water]]
@@ -66,6 +65,7 @@ The roast featured [[Tom Booker]].
 * [[Your Dad's Friends]]
 * [[Your Terrific Neighbors]]
 * [[You're Not My Real Dad]]
+* [[¡Zarzamora!]]
 
 ### Out-of-Town Improv and Sketch Acts
 * 2-Man No-Show (Toronto)
