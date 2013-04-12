@@ -9,6 +9,8 @@ The festival ran from Tuesday 8/28/12 to Monday 9/3/11.
 
 It included a performance of [[Blue Maestro]].
 
+The festival roast featured [[David Lampe]].
+
 ## Acts
 ### Local Acts
 Unknown.
