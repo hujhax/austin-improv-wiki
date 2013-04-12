@@ -2,3 +2,5 @@
 
 ## Summary
 Applications for improv, sketch, and stand-up acts are due on April 30th, 2013.
+
+Its advertising is graffiti-themed.
