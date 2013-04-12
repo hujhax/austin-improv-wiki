@@ -29,8 +29,8 @@
 ### Out-of-Town Acts
 * 88improv (Omaha, NE)
 * Attencion! (Chicago, IL)
-* Available Cupholders (Austin, Chicago, LA)
-* Backpack Picnic (Austin, LA)
+* [[Available Cupholders]] (Austin, Chicago, LA)
+* [[Backpack Picnic]] (Austin, LA)
 * Curtis Needs a Ride (Ft. Worth, TX)
 * Double Eagle Short Films Festival (Various)
 * FUCT (New York, NY)
