@@ -50,3 +50,6 @@
 * Unexpected Company (Warwick, RI)
 * Varoom (Los Angeles, CA)
 * Weisenheimers (Omaha, NE)
+
+## More Information
+* [http://www.outofboundsimprov.com/2008/home08.html The 2008 Out of Bounds web site.]
