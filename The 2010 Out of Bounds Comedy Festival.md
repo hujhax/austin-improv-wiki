@@ -6,7 +6,7 @@ Its advertising was themed around [[Wikipedia - 2010 (film)|the film *2010*]].
 It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikipedia - The Kids in the Hall|The Kids in the Hall]]) as a headliner.
 
 ## Acts
-### Local Sketch and Improv Acts
+### Local Improv and Sketch Acts
 * *2001* Dubbed
 * [[The 3$Bills]]
 * [[Achatina Achatina!]]
@@ -58,7 +58,7 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [[Your Terrific Neighbors]]
 * [[You’re Not My Real Dad]]
 
-### Out-of-Town Sketch and Improv Acts
+### Out-of-Town Improv and Sketch Acts
 * 1954 (LA)
 * The 400 Cat (LA)
 * 710 Split (LA)
