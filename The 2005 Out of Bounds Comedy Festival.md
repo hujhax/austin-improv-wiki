@@ -7,7 +7,7 @@
 * [[Get Up]]
 * [[Girls Girls Girls]]
 * [[Heroes of Comedy]]
-* [[Polite Society Presents]]
+* [[Polite Society]]
 * [[The Knuckleball Now]]
 * [[The Plurals]]
 * [[The Sicks]]
