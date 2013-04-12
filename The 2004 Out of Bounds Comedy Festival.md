@@ -2,7 +2,7 @@
 
 ## Acts
 ### Local Acts
-* [[Ed32 Starship]]
+* [[Ed 32]] "Starship"
 * [[Fatbuckle]]
 * [[Gag Reflex]]
 * [[Girls Girls Girls]]
