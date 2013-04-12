@@ -3,13 +3,13 @@
 ## Acts
 ### Local Acts
 * [[Ed 32]] "Starship"
+* [[The Edmund Bulldogs]]
 * [[Fatbuckle]]
 * [[Gag Reflex]]
 * [[Girls Girls Girls]]
 * [[Gravy]]
 * [[Heroes of Comedy]]
 * [[Latino Comedy Project]]
-* [[The Edmund Bulldogs]]
 
 ### Out-of-Town Acts
 * Bearded Lamb (Chicago, IL)
