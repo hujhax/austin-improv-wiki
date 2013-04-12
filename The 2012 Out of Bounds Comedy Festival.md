@@ -106,7 +106,7 @@ The festival roast featured [[David Lampe]].
 * The Magnet Theater TourCo 
 * ManCamp 
 * The Mascot Wedding Show 
-* MegaWolff
+* [[Meghan Wolff|MegaWolff]]
 * Mike and Irene and Eric
 * Never Pickles (Chicago)
 * Oh Theodora 
@@ -133,7 +133,7 @@ The festival roast featured [[David Lampe]].
 * Umlautilde
 * The US National Improv Team 
 * The Victims 
-* We're From Here 
+* We're From Here
 
 ### Stand-Up Performers
 * Alli Breen
