@@ -22,6 +22,3 @@ This is a wiki devoted to the Austin Improv community.  It's here to accumulate 
 
 ## History
 [[History of Austin Improv]]
-
-## Improv Exercises
-* [[List of Improv Warm-Ups]]
