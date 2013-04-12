@@ -6,7 +6,7 @@
 |Years	=		2005-Present
 }}
 
-Parallelogramophonograph (often abbreviated to "Pgraph") is a theatre company in Austin, TX that specializes in improvising plays. They have a weekly show ([[The Spectacle]]) on Fridays at 10pm at [[The Hideout Theatre]].
+***Parallelogramophonograph*** (often abbreviated to "Pgraph") is a theatre company in Austin, TX that specializes in improvising plays. They have a weekly show ([[The Spectacle]]) on Fridays at 10pm at [[The Hideout Theatre]].
 
 ## Show Formats
 ### New Works
