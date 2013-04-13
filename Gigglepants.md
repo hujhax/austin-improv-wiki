@@ -23,7 +23,9 @@
 *[[Meghan Wolff]]
 *[[Thai Le]]
 *[[Alex Hunt]]
+*[[David Toscano]]
 *[[Miachel Pruett]]
 *[[Kim Espinosa]]
+*[[Tom Glinkowski]]
 
 [[Category/Troupes|Category:Troupes]]
