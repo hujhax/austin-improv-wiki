@@ -1,8 +1,7 @@
 {{Infobox Show
 |Name	=	Guilds Of Steel	
-|Picture=	
 |Theater=	[[Salvage Vanguard Theater]]
-|Director =	[[Bryan Roberts]] & [[Michael Joplin]]	
-|Cast	=	{{Unbulleted list|[[Bryan Roberts]] | [[Audrey Rachel Sansom]] | [[Michael Joplin]] | [[Ace Manning]] | [[Mike Kinald]] | [[Marc Majcher]] | [[Jason Vines]] | [[Jon Clinkenbeard]] | [[Zach Palmer]] | [[Leah Moss]] | [[Sarah Marie Curry]] | [[Topping Haggerty]]}}
+|Director =	{{Unbulleted list | [[Bryan Roberts]] | [[Michael Joplin]] | }}
+|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Audrey Rachel Sansom]] | [[Bryan Roberts]] | [[Jason Vines]] | [[Jon Clinkenbeard]] | [[Leah Moss]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Mike Kinald]] | [[Sarah Marie Curry]] | [[Topping Haggerty]] | [[Zach Palmer]] | }}
 |Run	=	May/June 2009
 }}
