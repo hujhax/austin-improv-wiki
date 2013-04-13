@@ -4,7 +4,7 @@
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Andrew Buck]]
 |Cast	=	{{Unbulleted list|[[Aaron Saenz]]|[[Andrew Buck]]|[[Mia Iseman]]|[[Ryan Austin]]}}
-|Run	=	April 2013
+|Run	=	Apr 2013
 }}
 
 ***Past Lives*** is an improvised play.
