@@ -16,7 +16,10 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[Slaughter Your Shorts]]*
 * *[[TGIS - Improvised 90's Sitcoms]]*
 * *[[Eye for an iPhone]]*
+* *[[Shanty Town Lake]]*
 * *[[Rapture the Flag]]*
+* *[[Cereal for Adults]]*
+* *[[After School Special Victims Unit]]*
 
 ## Gnap! Theater Projects
 ### Ongoing Shows
