@@ -1,4 +1,4 @@
-**The Out of Bounds Comedy Festival** (formerly "The Out of Bounds Improv Festival", or more fully, "The Out of Bounds Improv Festival and Miniature Golf Tournament") is an annual comedy festival that occurs during and around [[Wikipedia - Labor Day|Labor Day]] weekend.
+**The Out of Bounds Comedy Festival** (formerly "The Out of Bounds Improv Festival") is an annual comedy festival that occurs during and around [[Wikipedia - Labor Day|Labor Day]] weekend.
 
 ## Summary
 While Out of Bounds began as an improv festival, it has grown to include sketch comedy, stand-up performers, and short film as well.  It is the largest-scale comedy festival in Austin, with around fifty acts attending in 2008, and momentous growth since then.  It takes over multiple theaters in the Austin area, and in 2012, it lasted from the Tuesday before Labor Day through the Monday afterwards.
