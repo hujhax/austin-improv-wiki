@@ -10,9 +10,9 @@
 ***Past Lives*** is an improvised play.
 
 ## Summary
-*Past Lives* is conceived by [[Andrew Buck]].
+*Past Lives* was created by [[Andrew Buck]].
 
-It explores a soul and all of its previous incarnations in reverse chronological order.
+The show explores a soul and all of its previous incarnations in reverse chronological order.
 
 The show debuted at the 2013 [[Improvised Play Festival]] at [[The Hideout Theatre]] on April 11, 2013.
 
