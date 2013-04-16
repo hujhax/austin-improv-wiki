@@ -44,7 +44,6 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 * [[Quinn Buckner]]
 * [[Ryan Austin]]
 
-## Media
 * 11/4/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/d82d5bf6 Video of the regeneration scene] by [[Michael Ferstenfeld]].
@@ -63,6 +62,10 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 * 3/30/12 performance ("My Way"):
 ** [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/d22be4a7 Video] by [[Michael Ferstenfeld]].
+* 4/21/12 performance (season 2 finale):
+** [http://www.youtube.com/watch?v=_hoIsN3l7sc Video] by [[Michael Ferstenfeld]].
+* 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea"):
+** [http://www.youtube.com/watch?v=gZuQFuFSpB8 Video] by [[Michael Ferstenfeld]].
 * 1/18/13 performance at [[The TV Set]].
 ** [http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1 Photoset] by [[Michael Yew]].
 
