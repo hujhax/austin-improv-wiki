@@ -47,16 +47,22 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 ## Media
 * 11/4/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* 10/21/11 performance:
+** [http://www.viddler.com/v/d82d5bf6 Video of the regeneration scene] by [[Michael Ferstenfeld]].
+* 10/21/11 performance (2x03: "The Price of Periwinkles"):
 ** [http://www.facebook.com/media/set/?set=a.211122242289796.50272.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* 11/4/11 performance:
+** [http://www.viddler.com/v/44c548e3 Video] by [[Michael Ferstenfeld]].
+* 10/28/11 performance (2x04: "Are We Off-World Yet?"):
+** [http://www.viddler.com/v/66a1d12f Video] by [[Michael Ferstenfeld]].
+* 11/4/11 performance (2x05: "The Shapes We Draw"):
 ** [http://www.facebook.com/media/set/?set=a.216700898398597.51775.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.viddler.com/v/6eeff981 Video] by [[Michael Ferstenfeld]].
 * 11/11/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.220876431314377.52600.118587218209966&type=3 Photoset] by [[Roy Moore]].
 * 11/18/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.229603903774963.53941.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* 3/30/12 performance:
+* 3/30/12 performance ("My Way"):
 ** [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.viddler.com/v/d22be4a7 Video] by [[Michael Ferstenfeld]].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=4&t=11329 2010 forum thread about improvising *Doctor Who* in Austin.]
