@@ -59,6 +59,7 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 ** [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]].
 
 ## More Information
+* [[Jordan T. Maxwell]]'s [http://forum.austinimprov.com/viewtopic.php?f=4&t=11329&start=15#p99920 show proposal for "Professor Why"].
 * [http://forum.austinimprov.com/viewtopic.php?t=12036 Forum announcement of the premiere.]
 * [http://forum.austinimprov.com/viewtopic.php?t=12042 Forum announcement of the second show.]
 * [http://forum.austinimprov.com/viewtopic.php?p=110925 Cast announcement for season one.]
