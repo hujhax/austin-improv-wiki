@@ -10,7 +10,7 @@
 
 
 ## History
-RhinoDino was initially conceptualized sometime in 2011 by good friends [[Quinn Buckner]], [[Kyle Traughber]], and [[Colin Bates]] as a troupe that would perform "improvised heavy metal."  This format was never conceptualized, though RhinoDino began playing short-form shows together at [[The Salvage Vanguard Theatre]] in early 2012.  In September, 2012, [[Lacy Shawn]] and [[Courtney Hopkin]] joined RhinoDino.  [[Colin Bates]] recently re-located to Houston, but the remainder of the troupe remains intact and continues to perform regularly, with [[Colin Bates]] joining whenever he is in town.  
+RhinoDino was initially conceptualized sometime in 2011 by good friends [[Quinn Buckner]], [[Kyle Traughber]], and [[Colin Bates]] as a troupe that would perform "improvised heavy metal."  This format was never realized, though RhinoDino began playing short-form shows together at [[The Salvage Vanguard Theatre]] in early 2012.  In September, 2012, [[Lacy Shawn]] and [[Courtney Hopkin]] joined RhinoDino.  [[Colin Bates]] recently re-located to Houston, but the remainder of the troupe remains intact and continues to perform regularly, with [[Colin Bates]] joining whenever he is in town.  
 
 RhinoDino previously served as the "House Troupe" for [[The Derby]].
 
