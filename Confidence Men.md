@@ -19,7 +19,9 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 <p>Confidence Men features six Austin, Texas-based improvisers who have come together full of love for noted playwright David Mamet. Taking an audience suggestion for where that night's particular story will take place, Confidence Men is then off and running to create a 2-act improvised play infused with the verbal style and story sensibility of Mamet himself: rapid-fire elliptical speech, liberal and creative use of profanity, desperate men trying to fight for one-upmanship in a dog-eat-dog junkyard of a world."</p></blockquote>
 
 ## Media
+* [http://www.viddler.com/v/aa8c6d9d Video of their 8/1/2010 show.] ("Area 51")
 * [http://vimeo.com/26129030 Video of their performance] at the 2011 [[Improvised Play Festival]].
+* [http://www.viddler.com/v/b1728855 Video of their performance] at [[The 2011 Out of Bounds Comedy Festival]]. ("The Hall of Justice")
 * [https://vimeo.com/40901517 Video of their performance] at the 2012 [[Improvised Play Festival]].
 
 ## More Information
