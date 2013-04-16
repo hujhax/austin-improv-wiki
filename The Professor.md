@@ -6,7 +6,7 @@
 |Years	=		2011-Present
 }}
 
-**The Professor** is a narrative improv troupe that presents improv in the style of the British science-fiction franchise *[[Wikipedia - Doctor Who|Doctor Who]]*.
+**The Professor** (full name: "The Professor: Improv Inspired by *Doctor Who*") is a narrative improv troupe that presents improv in the style of the British science-fiction franchise *[[Wikipedia - Doctor Who|Doctor Who]]*.
 
 ## History
 Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community, including a show proposal from [[Jordan T. Maxwell]] for [[The Well Hung Jury Memorial Scholarship]].  In June 2011, [[Justin Davis]] posted a facebook thread invited all interested parties to join him for an improv take on Doctor Who.  The Professor then premiered at [[The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[The Threefer]], and played an 8pm show at the Hideout two days later.
