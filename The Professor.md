@@ -3,7 +3,7 @@
 |Picture	=	The Professor.jpg
 |Cast	=	Various
 |Director = {{Unbulleted list | [[Justin Davis]] (2010-2012) | [[Michael Ferstenfeld]] (2013-Present) }}
-|Years	=		2010-2011
+|Years	=		2011-Present
 }}
 
 **The Professor** is a narrative improv troupe that presents improv in the style of the British science-fiction franchise *[[Wikipedia - Doctor Who|Doctor Who]]*.
