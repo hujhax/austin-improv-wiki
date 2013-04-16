@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Improv for Evil
 |Picture =     Improv for Evil.jpg
-|Cast	=	{{Unbulleted list | [[Bob Apthorpe]] | [[Jason Vines]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Kinald]] | [[Mo Daviau]] | [[Sarah Marie Curry]] | }}
+|Cast	=	{{Unbulleted list | [[Bob Apthorpe]] | [[Jason Vines]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mo Daviau]] | [[Sarah Marie Curry]] | }}
 |Years	=		2006-Present
 }}
 
