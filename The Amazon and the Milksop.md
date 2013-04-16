@@ -5,7 +5,7 @@
 |Years	=		2009-Present
 }}
 
-**The Amazon and the Milksop** is a duo consisting of [[Kaci Beeler]] and [[Curtis Luciani]].
+**The Amazon and the Milksop** is an improv duo consisting of [[Kaci Beeler]] and [[Curtis Luciani]].
 
 ## Summary
 ### Press Blurb
