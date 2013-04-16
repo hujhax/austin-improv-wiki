@@ -13,7 +13,7 @@ Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had l
 
 Its first full run was a six-week set of Friday shows at [[The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Salvage Vanguard Theater]] (produced by [[Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including [[The TV Set]] in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738]
 
-At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 2013, [[Michael Ferstenfeld]] took over as director, and the show returned to one-off shows such as [[The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613].  Ferstenfeld tried to bring more scene-painting into the show, and draw more influence from "classic" *Doctor Who*, from the years preceding Russell T Davies and Steven Moffat.
+At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 2013, [[Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613].  Ferstenfeld tried to bring more scene-painting into the show, and draw more influence from "classic" *Doctor Who*, from the years preceding Russell T Davies and Steven Moffat.
 
 ## Casts
 ### "Season Zero"
