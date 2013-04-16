@@ -20,23 +20,23 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly.
 
 ## Shows
-* *[[Improvised Shakespeare]]*
-* *[[The Violet Underbelly]]*
-* *[[Live Nude Improv]]*
-* *[[Totally Improvised, 90210]]*
-* *[[Spirited]]*
-* *[[Charles Dickens Unleashed]]*
-* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]*
-* *[[Live TV Tuesdays Presents -  Freaks and Geeks]]*
-* *[[The Sci-Fi Comedy Double Feature]]*
-* *[[The Professor]]*
-* *[[Live TV Tuesdays Presents -  Angel]]*
-* *[[Joss Whedon Pajama Party]]*
-* *[[Rock]]*
-* *[[The Black Vault]]*
 * *[[Austin Secrets]]*
+* *[[The Black Vault]]*
+* *[[Charles Dickens Unleashed]]*
 * *[[Fandom]]*
+* *[[Improvised Shakespeare]]*
+* *[[Joss Whedon Pajama Party]]*
+* *[[Live Nude Improv]]*
+* *[[Live TV Tuesdays Presents -  Angel]]*
+* *[[Live TV Tuesdays Presents -  Freaks and Geeks]]*
+* *[[The Professor]]*
+* *[[Rock]]*
+* *[[The Sci-Fi Comedy Double Feature]]*
+* *[[Spirited]]*
 * *[[Strange Worlds]]*
+* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]*
+* *[[Totally Improvised, 90210]]*
+* *[[The Violet Underbelly]]*
 
 ## Media
 * [http://www.flickr.com/photos/hujhax/collections/72157613519092868/ Peter's improv photos on flickr.]
