@@ -20,5 +20,8 @@ This features [[Curtis Luciani]] as [[Wikipedia - F. Scott Fitzgerald|F. Scott F
 This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry Finn]]*, as they present a Living Room-type format opening with a couple of 19th-century rural Americans having a conversation.
 
 ## Media
+* 2/2/12
+** [http://www.facebook.com/media/set/?set=a.10150661726392265.450321.588952264&type=3 Photoset of "Catchin' Frogs"] by [[Peter Rogers]].
+
 [[Category/Troupes|A]]
 [[Category/Duos|A]]
