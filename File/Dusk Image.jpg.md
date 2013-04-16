@@ -1,5 +1,5 @@
 ## Summary
-Promotional image for [[Dusk]].
+Promotional image for *[[Dusk]]*.
 
 From left: [[Bryan Cruz]], [[Chelsea Gilman]], and [[Michael Thomas]].
 
