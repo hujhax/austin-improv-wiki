@@ -76,7 +76,7 @@ The festival roast featured [[David Lampe]].
 
 ### Out-of-Town Improv and Sketch Acts
 * 3 For All (San Francisco)
-* 710 Split (Seattle)
+* 710 Split (Seattle/Austin)
 * Adsit and Lutz (LA)
 * Aphasia (Portland)
 * Asperger's Are Us 
