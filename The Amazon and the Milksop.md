@@ -14,7 +14,11 @@ This is their bio from the [[2012 Out of Bounds]] site:
 
 ## Formats
 ### Fitzgeralds for Hire
+This features [[Curtis Luciani]] as [[Wikipedia - F. Scott Fitzgerald|F. Scott Fitzgerald]] and [[Kaci Beeler]] as [[Wikipedia - Zelda Fitzgerald|Zelda Fitzgerald]].  In the show's universe, the two are also secret agents who fight various shadowy threats to America.
+
 ### Catchin' Frogs
+This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry Finn]]*, as they present a Living Room-type format opening with a couple of 19th-century rural Americans having a conversation.
+
 ## Media
 [[Category/Troupes|A]]
 [[Category/Duos|A]]
