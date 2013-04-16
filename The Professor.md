@@ -63,6 +63,8 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 * 3/30/12 performance ("My Way"):
 ** [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/d22be4a7 Video] by [[Michael Ferstenfeld]].
+* 1/18/13 performance at [[The TV Set]].
+** [http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1 Photoset] by [[Michael Yew]].
 
 ## More Information
 * [http://www.doctorwhotheatre.com/ The troupe's web site.]
