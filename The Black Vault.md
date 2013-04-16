@@ -11,7 +11,7 @@
 |Run	=	Sep/Oct 2012
 }}
 
-*The Black Vault* was an improvised longform show, each show consisting of three individual stories linked by a framing narrative, performed in the style of the novels and stories of [[Wikipedia - H. P. Lovecraft|H.P. Lovecraft]].
+***The Black Vault*** was an improvised longform show, each show consisting of three individual stories linked by a framing narrative, performed in the style of the novels and stories of [[Wikipedia - H. P. Lovecraft|H.P. Lovecraft]].
 
 ## Format
 Each show was divided into three stories. A predetermined group of characters would begin on stage, establishing a framing sequence. Eventually, one of the characters would say a phrase which might constitute the title of a Lovecraftian story, and the title was taken up by one of the show's two predetermined main characters. That character would then narrate a story, stepping into and out of the scene as desired. At the conclusion of the story, the framing sequence would resume, until a second title is announced, at which case the second narrator would begin his or her story. After that, the framing sequence resumed for a final time, at which point the frame itself became the third story and one (non-predetermined) character from the frame became the final narrator.
