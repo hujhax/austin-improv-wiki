@@ -1,4 +1,4 @@
-**The [[Well Hung Jury]] Memorial Scholarship** was a contest associated with [[The Out of Bounds Improv Festival]] from 2006 to 2010.  In it, applicants would propose improv show ideas.  The best entrant would win an all-access pass to the Out of Bounds Festival.
+**The [[Well Hung Jury]] Memorial Scholarship** was a contest associated with [[The Out of Bounds Comedy Festival]] from 2006 to 2010.  In it, applicants would propose improv show ideas.  The best entrant would win an all-access pass to the Out of Bounds Festival.
 
 ## Summary
 ### The Rules
