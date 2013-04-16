@@ -3,4 +3,4 @@
 
 Photo by [[Sarah Swofford]] from [http://www.flickr.com/photos/oob_pics/8024433868/sizes/k/in/photostream/ flickr].
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
