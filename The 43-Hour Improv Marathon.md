@@ -1,4 +1,4 @@
-**The 43-Hour Improv Marathon** was the fourth annual [[Hideout Improv Marathon]].  It was performed in 2012.
+**The 43-Hour Improv Marathon** was the fourth annual [[Hideout Improv Marathon]]. It was performed from 5pm on June 1st to 12pm June 3rd 2012.
 
 ## Core Players
 * [[Emma Holder]]
