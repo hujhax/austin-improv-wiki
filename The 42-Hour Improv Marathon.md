@@ -88,3 +88,4 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 ## More Information
 * The schedule announcement, [http://forum.austinimprov.com/viewtopic.php?t=11947&p=107065 on the forums] and [http://www.hideouttheatre.com/42-hour-improv-marathon-schedule on the Hideout web site].
 * [http://www.austinchronicle.com/calendar/comedy/42-hour-improv-marathon-1196265/ A story about the marathon] in *The Austin Chronicle*.
+* [http://hujhax.livejournal.com/760057.html A recap of the event] from core player [[Peter Rogers]].
