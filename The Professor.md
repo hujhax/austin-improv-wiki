@@ -44,6 +44,21 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 * [[Quinn Buckner]]
 * [[Ryan Austin]]
 
+### Season Three
+* [[Aden Kirschner]]
+* [[Clay Towery]]
+* [[Emily Breedlove]]
+* [[Jacob Trussell]]
+* [[Jeff Britt]]
+* [[Lacy Shawn]]
+* [[Lindsey Reeves]]
+* [[Michael Ferstenfeld]]
+* [[Peter Rogers]]
+* [[Quinn Buckner]]
+* [[Topping Haggerty]]
+
+(Note that this cast list may change between now and November.)
+
 ## Media
 * 11/4/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]].
