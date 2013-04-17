@@ -8,14 +8,16 @@
 **Roy Janik** is an improviser, as well as co-owner and Artistic Director of [[The Hideout Theatre]].
 
 ## History
+# Performer
 ## Troupes
 * [[Parallelogramophonograph]]
 * [[Squirrel Buddies]]
 
 ## Shows
-* [[Who Is T. Henry Baudecliffe]]
-* [[The Violet Underbelly]]
-* [[The Black Vault]]
+* *[[Who Is T. Henry Baudecliffe]]*
+* *[[The Violet Underbelly]]*
+* *[[The Black Vault]]*
+* *[[Austin Secrets]]* (creator/director)
 
 [[Category/Performers|Janik]]
 [[Category/Teachers|Janik]]
