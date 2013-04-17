@@ -8,15 +8,15 @@
 
 
 ## Shows
-* **[[Flying Theater Machine]]** (2012-Present)
-* **[[Maestro]]**
-* **[[The Fancy-Pants Mashup]]**
-* **[[The Tribunal]]**
-* **[[Pick Your Own Path]]**
-* **[[The Free Fringe]]**
-* **[[The Derby]]**
+* *[[Flying Theater Machine]]*
+* *[[Maestro]]*
+* *[[The Fancy-Pants Mashup]]*
+* *[[The Tribunal]]*
+* *[[Pick Your Own Path]]*
+* *[[The Free Fringe]]*
+* *[[The Derby]]*
 
 ## Troupes
-* **[[Happy Butter]]** (2011)
+* [[Happy Butter]] (2011)
 
 [[Category/Performers|Blevins]]
