@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-***Caeriel Crestin*** is an improviser who is a graduate of, and works for, [[The Hideout Theatre]].
+**Caeriel Crestin** is an improviser who is a graduate of, and works for, [[The Hideout Theatre]].
 
 He's also taken classes at [[The Institution Theater]] as well as the UCB Theatre in New York City.
 
