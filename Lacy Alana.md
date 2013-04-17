@@ -21,8 +21,8 @@ Lacy is currently a teaching assistant for [[Merlin Works]] adult classes and [[
 ## Troupes
 * [[RhinoDino]]
 *[[The Known Wizards]]
-* [[Stone Airplane]]
-*[[Wait OK Now]]
+* [[Stone Airplane]] (Disbanded)
+*[[Wait OK Now]] (Previous member)
 
 ## Shows
 *[[The Professor -  Improv Inspired by Doctor Who]] (second run at [[Salvage Vanguard Theater]])
