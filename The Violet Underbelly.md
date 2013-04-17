@@ -39,6 +39,5 @@ After its main run, the show performed one mash-up night with [[False Matters]] 
 * "Violet Matters", the 6/23/12 mash-up with [[False Matters]].
 ** [http://vimeo.com/44619659 Video] by [[Peter Rogers]].
 
-
 ## More Information
 * [http://www.hideouttheatre.com/shows/thevioletunderbelly The show's facebook site.]
