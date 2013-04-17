@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Jen Kaplan
 |Picture =	Jen Kaplan Pic.jpg
-|Theater=	[[The Hideout Theatre]], [[The Institution Theater]], [[ColdTowne Theater]], [[Merlin Works]]
+|Theater=	Various
 |Years	=	2007-Present
 }}
 
