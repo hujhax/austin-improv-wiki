@@ -68,12 +68,12 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 * 11/4/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/d82d5bf6 Video of the regeneration scene] by [[Michael Ferstenfeld]].
-* 10/21/11 performance (2x03: "The Price of Periwinkles"):
+* 10/21/11 performance (1x03: "The Price of Periwinkles"):
 ** [http://www.facebook.com/media/set/?set=a.211122242289796.50272.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/44c548e3 Video] by [[Michael Ferstenfeld]].
-* 10/28/11 performance (2x04: "Are We Off-World Yet?"):
+* 10/28/11 performance (1x04: "Are We Off-World Yet?"):
 ** [http://www.viddler.com/v/66a1d12f Video] by [[Michael Ferstenfeld]].
-* 11/4/11 performance (2x05: "The Shapes We Draw"):
+* 11/4/11 performance (1x05: "The Shapes We Draw"):
 ** [http://www.facebook.com/media/set/?set=a.216700898398597.51775.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/6eeff981 Video] by [[Michael Ferstenfeld]].
 * 11/11/11 performance:
@@ -83,8 +83,12 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 * 3/30/12 performance ("My Way"):
 ** [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/d22be4a7 Video] by [[Michael Ferstenfeld]].
-* 4/21/12 performance (season 2 finale):
+* 4/20/12 performance ("All the World's a Stage?"):
+** [http://vimeo.com/40819538 Video] by [[Peter Rogers]].
+* 4/21/12 performance (season two finale):
 ** [http://www.youtube.com/watch?v=_hoIsN3l7sc Video] by [[Michael Ferstenfeld]].
+* 8/29/12 performance at [[The Institution]]:
+** [http://vimeo.com/48524413 Video] by [[Peter Rogers]].
 * 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea"):
 ** [http://www.youtube.com/watch?v=gZuQFuFSpB8 Video] by [[Michael Ferstenfeld]].
 * 1/18/13 performance at [[The TV Set]].
