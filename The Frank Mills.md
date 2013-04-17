@@ -7,9 +7,11 @@
 
 **The Frank Mills** is an improv troupe of working actors who perform grounded, character-driven longform.
 
-They perform every Friday at 10pm at [[ColdTowne Theater]].
+They perform every Saturday at 10pm at [[ColdTowne Theater]].
 
 ## More Information
 * [http://www.thefrankmills.net/ The troupe's website.]
+* [http://www.facebook.com/pages/The-Frank-Mills/215601841791447 The troupe's facebook page.]
+* [http://thefrankmills.wordpress.com/ The troupe's blog.]
 
 [[Category/Troupes|Category:Troupes]]
