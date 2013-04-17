@@ -17,7 +17,7 @@ Thus far, Franz & Dave have performed one format, wherein the characters of Kafk
 
 ## More Information
 * [http://facebook.com/franzanddave Franz & Dave's Facebook page.]
-* [http://vimeo.com Franz & Dave's Vimeo channel.]
+* [https://vimeo.com/channels/307160 Franz & Dave's Vimeo channel.]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
