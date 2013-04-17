@@ -88,7 +88,7 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 ## More Information
 * [http://www.doctorwhotheatre.com/ The troupe's web site.]
 * [http://forum.austinimprov.com/viewtopic.php?f=4&t=11329 2010 forum thread about improvising *Doctor Who* in Austin.]
-* [[Jordan T. Maxwell]]'s [http://forum.austinimprov.com/viewtopic.php?f=4&t=11329&start=15#p99920 show proposal for "Professor Why"].
+* [[Jordan T. Maxwell]]'s [http://forum.austinimprov.com/viewtopic.php?f=4&t=11329&start=15#p99920 show proposal for "Professor Why"] for [[The Well Hung Jury Memorial Scholarship]].
 * [http://forum.austinimprov.com/viewtopic.php?t=12036 Forum announcement of the premiere.]
 * [http://forum.austinimprov.com/viewtopic.php?t=12042 Forum announcement of the second show.]
 * [http://forum.austinimprov.com/viewtopic.php?p=110925 Cast announcement for season one.]
