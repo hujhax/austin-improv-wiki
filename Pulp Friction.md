@@ -3,7 +3,7 @@
 |Picture=	Pulp Friction poster.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Chris Allen]] | [[Andreas Fabis]] | [[Eric Heiberg]] | [[Clifton Highfield]] | [[Mia Iseman]] | [[Michael Joplin]] | [[Laura Komkov]] | [[Taylor Overstreet]] | [[Joe Ricks]] | [[Heidi Rogers]] | [[Brett Tribe]] | }}
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Brett Tribe]] | [[Chris Allen]] | [[Clifton Highfield]] | [[Eric Heiberg]] | [[Heidi Rogers]] | [[Joe Ricks]] | [[Laura Komkov]] | [[Mia Iseman]] | [[Michael Joplin]] | [[Taylor Overstreet]] }}
 |Run	=	Sep/Oct 2012
 |Tech	=	{{Unbulleted list
 | [[Carl Ziegler]]
