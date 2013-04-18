@@ -37,4 +37,4 @@ Goat has appeared in the following festivals:
 * [http://facebook.com/goatimprov Goat's Facebook Page]
 * [http://vimeo.com/channels/307618 Goat's Vimeo Channel]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Active Troupes|Category:Active Troupes]]
