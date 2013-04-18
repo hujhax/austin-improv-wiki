@@ -8,5 +8,8 @@
 
 The pair perform character-driven "mono-pop" shows with a focus on pacing, heightening, and strong character relationships.
 
+## More Information
+* [http://www.facebook.com/mandinkaimprov The troupe's facebook page.]
+
 [[Category/Active Troupes|Category:Active Troupes]]
 [[Category/Duos|Category:Duos]]
