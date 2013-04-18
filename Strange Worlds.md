@@ -46,7 +46,11 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [[The Peregrine and the Web of Youth]]
 
 ## Media
-* Episode 1 (3/2/13): [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 photos].
+* Episode 1 (3/2/13):
+** [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 photoset] by [[Steve Rogers]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/64216657 The Grey Bishop]
+*** [http://vimeo.com/64240670 Maxine Maker]
 * Episode 2 (3/9/13): [http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3 photos], [http://vimeo.com/62740963 video (The Beacon)].
 * Episode 3 (3/16/13):  [http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3 photos].
 
