@@ -1,5 +1,7 @@
 This is a list of improv troupes that are operating or have operated in the AIC.
 
+
+
 ## Active
 <categorytree mode=pages hideroot=on style="-moz-column-width:20em;-webkit-column-width:20em">Active Troupes</categorytree>
 
