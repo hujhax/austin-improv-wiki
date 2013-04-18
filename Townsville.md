@@ -60,5 +60,5 @@ Townsville was nominated for Best Sketch Show at the [[ColdTowne Theater Awards]
 * [[Nice Astronaut]]
 * [[Close Quarters]]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Active Troupes|Category:Active Troupes]]
 [[Category/Duos|Category:Duos]]
