@@ -8,4 +8,4 @@
 
 **The Known Wizards** is a troupe consisting of faculty members from the [[Merlin Works Institute for Improvisation]]. The troupe was founded in conjunction with Merlin Works' move from [[Salvage Vanguard Theater]] to [[ZACH Theater]] specifically to perform in Merlin Works' monthly [[Second Sundays]] shows.
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active Troupes|Known Wizards]]
