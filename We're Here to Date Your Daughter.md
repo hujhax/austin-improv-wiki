@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		We're Here To Date Your Daughter
+|Picture	=	WHTDYD.jpg
 |Cast	=	{{Unbulleted list|[[Sandra Ybarra]]|[[Regina Soto]]|[[Jennifer Dorsey]]|[[Katherine Greco]]|[[Gene Zhou]]|[[Todd Geldon]]|[[Paul Normandin]]}}
 |Years	=		2012-Present
 }}
