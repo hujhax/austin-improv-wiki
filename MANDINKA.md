@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Mandinka
+|Photo = Mandinka.jpg
 |Cast	=	{{Unbulleted list|[[Mia Iseman]]|[[Andrew Buck]]}}
 |Years	=		2012-Present
 }}
