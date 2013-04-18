@@ -11,3 +11,5 @@ Featuring Steve the Improvising Poodle, WTSS shows introduce Steve as both the h
 The troupe was founded in August of 2011.
 
 Troupe members include [[Kristin Henn]], [[Drew Wesely]], [[Frank Netscher]], [[Amy Carpenter]], [[Clint Harris]], [[Chris Baldenhofer]], [[Arian Brumby]] and [[Caitlin Baumgartner]].
+
+[[Category/Active Troupes|Category:Active Troupes]]
