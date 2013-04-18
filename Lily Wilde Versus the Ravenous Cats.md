@@ -1,4 +1,4 @@
-This was the first [[Strange Worlds]] story about Lily Wilde.  It was improvised on March 23rd, 2013. 
+This was the first [[Strange Worlds]] story about Lily Wilde, Jungle Professor.  It was improvised on March 23rd, 2013. 
 
 ## Episode Summary
 A volcano erupts on the island of Botan, trapping a vacationing couple.  With the assistance of Bellwether Blue and her Liberty Aces, Lily Wilde pilots a plane overhead to rescue them.  She lowers a rope as the lava encircles them.  They grab hold and Lily flies away, moments before the volcano explodes!
