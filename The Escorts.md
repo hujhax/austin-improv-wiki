@@ -20,4 +20,4 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 ## More Information
 * [https://www.facebook.com/pages/The-Escorts-Improv-Theater-from-Austin/519211014791053 The troupe's facebook page.]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active Troupes|Escorts]]
