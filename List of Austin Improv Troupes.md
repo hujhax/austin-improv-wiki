@@ -91,6 +91,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 ### V
 ### W
 * [[We Could Be Heroes]] (later The Heroes of Comedy)
+* [[We're Here to Date Your Daughter]] 
 * [[Well Hung Jury]]
 * [[What's the Story, Steve]]
 
@@ -110,6 +111,7 @@ This is a list of improv troupes that are operating or have operated in the AIC:
 * [[3,2,1 Kill!]]
 * [[50 Minute Hour]]
 * [[All Talk]]
+* [[Apocalypse]]
 * [[Billy Icon]]
 * [[Bless This Mess]]
 * [[Blink]]
