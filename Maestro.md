@@ -15,7 +15,7 @@ In February 1999, [http://www.imdb.com/name/nm0640284/ Dan O’Connor] and [http
 
 ## Description
 ### Show Structure
-As performed at [[The Hideout]], Maestro typically has between 11 and 13 players, and two directors.
+As performed at [[The Hideout]], Maestro typically has between 11 and 13 players and two directors.
 
 The directors host the top of the show, explaining the structure of the show, warming up the audience if necessary, and then introducing the players.  The players all name themselves -- this is the last time the players are referred to by name.  Each player wears a number (from 1 to however-many-players-there-are), and that serves to identify them for the duration of the show.
 
