@@ -11,3 +11,4 @@
 * [http://getup.austinimprov.com Get Up's website]
 
 [[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Duo|Category:Duo]]
