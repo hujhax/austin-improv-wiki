@@ -2,8 +2,6 @@
 |Name	=		My Best Fiend
 |Picture	=	My best fiend.jpg
 |Cast	=	{{Unbulleted list|[[Chris Allen]]|[[Andreas Fabis]]}}
-
-
 |Years	=		2012-Present
 }}
 
@@ -20,5 +18,5 @@ Andreas is from Dusseldorf, Germany. He speaks German very well. Christopher is 
 *[http://www.youtube.com/watch?v=uPkwf693jaE Video "Der Stille Winterwald"]
 *[http://vimeo.com/42396160 Video "Der Wolf in den Bergen"]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Active Troupes|Category:Active Troupes]]
 [[Category/Duos|Category:Duos]]
