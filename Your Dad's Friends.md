@@ -11,4 +11,4 @@ Your Dad's Friends is an improv troupe that consists mainly of improvisors who w
 ## More Information
 * [http://www.facebook.com/pages/Your-Dads-Friends/247344088770 The troupe's facebook page.]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Active Troupes|Category:Active Troupes]]
