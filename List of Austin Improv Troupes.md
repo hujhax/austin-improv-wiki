@@ -1,13 +1,9 @@
 This is a list of improv troupes that are operating or have operated in the AIC.
 
-
-
 ## Active
 <categorytree mode=pages hideroot=on style="-moz-column-width:20em;-webkit-column-width:20em">Active Troupes</categorytree>
-
 ## Inactive
 <categorytree mode=pages hideroot=on style="-moz-column-width:20em;-webkit-column-width:20em">Inactive Troupes</categorytree>
-
 ## In Need of Pages
 These are troupes that still need pages created for them.
 
