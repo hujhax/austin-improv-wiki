@@ -23,5 +23,5 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * 2/2/12
 ** [http://www.facebook.com/media/set/?set=a.10150661726392265.450321.588952264&type=3 Photoset of "Catchin' Frogs"] by [[Peter Rogers]].
 
-[[Category/Active Troupes|Category:Active Troupes]]
-[[Category/Duos|A]]
+[[Category/Active Troupes|Amazon]]
+[[Category/Duos|Amazon]]
