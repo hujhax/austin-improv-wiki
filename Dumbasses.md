@@ -20,5 +20,5 @@ Dumbasses formed in [[The Institution Theater]]'s master class during one of ins
 ## More Information
 *[http://www.facebook.com/pages/Dumbasses/311185398904052 The Dumbasses facebook page]
 
-[[Category/Troupes|A]]
-[[Category/Duos|A]]
+[[Category/Troupes|D]]
+[[Category/Duos|D]]
