@@ -15,5 +15,5 @@ Squirrel Buddies plan to attend the Alaska Improv Festival in 2013.
 ## More Information
 * [http://www.squirrelbuddies.com The Squirrel Buddies home page.]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Active Troupes|Category:Active Troupes]]
 [[Category/Duos|Category:Duos]]
