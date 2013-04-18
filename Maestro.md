@@ -32,7 +32,7 @@ The [[Out of Bounds Festival]] includes an "All-Star Maestro" performance, which
 
 The Hideout sporadically puts on *[[Blue Maestro]]*, which is the non-family-friendly version of the show.
 
-Once a month, as part of [[The Wheel]], The Hideout puts on "Maestro RAW", which is casts mostly, often exclusively, from Hideout students.
+Once a month, as part of [[The Wheel]], The Hideout puts on "Maestro RAW", which is cast mostly (if not exclusively) from Hideout students.
 
 ## Notable Moments in Maestro History
 In 2002 or 2003, Maestro played for an audience of two—a couple on a date, the only people who bought tickets. During the second round [[Sean Hill]] played [http://www.ehow.com/video_4949483_improv-twin-pillars.html Twin Pillars], meaning that the scene was played for an empty house.
