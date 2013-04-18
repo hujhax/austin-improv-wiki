@@ -22,7 +22,11 @@ To ensure that your wiki page shows in in the Performers category, add the follo
 
 
 **How do I get my troupe to show up in the troupes category?**<br/>
-Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Active Troupes|Category:Active Troupes]]</nowiki>. If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[The Frank Mills]], you could add: <nowiki>[[Category/Active Troupes|Frank Mills]]</nowiki>.  (And if it's an inactive troupe, you'll include <nowiki>[[Category/Inactive Troupes|Category:Inactive Troupes]]</nowiki> instead.)
+Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Active Troupes|Category:Active Troupes]]</nowiki>.
+
+If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[The Frank Mills]], you could add: <nowiki>[[Category/Active Troupes|Frank Mills]]</nowiki>.
+
+(And if it's an inactive troupe, you'll include this instead: <nowiki>[[Category/Inactive Troupes|Category:Inactive Troupes]]</nowiki>.)
 
 
 **How do I upload a picture?**<br/>
