@@ -88,4 +88,4 @@ Nice Astronaut also hosted the short lived "Nomad Comedy Nights" on Wednesdays a
 * [[First United Methodist Church of Plano's Youth Group Improv]]
 
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Active Troupes|Category:Active Troupes]]
