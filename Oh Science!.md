@@ -1,1 +1,1 @@
-#REDIRECT  [[Oh, Science!]]
+#REDIRECT [[Oh, Science!]]
