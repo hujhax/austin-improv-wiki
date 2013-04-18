@@ -19,8 +19,6 @@ The name is entirely based on the accent. Neither of the performers has ever eve
 * [[Bob Olmstead]]
 
 ## Festivals
-* [[]] (Year)
-
 ## Shows
 * ??/??/????- Debut @ The Hideout ("Show Subject") 
 
@@ -29,4 +27,4 @@ The name is entirely based on the accent. Neither of the performers has ever eve
 * [http://vimeo.com/36173294 Two Guys From Yonkers debut show]
 * [http://vimeo.com/normandin Paul Normandin's Vimeo channel]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Active Troupes|Category:Active Troupes]]
