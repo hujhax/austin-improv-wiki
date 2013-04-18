@@ -33,3 +33,5 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 ## More Information
 *[https://www.facebook.com/InOurPrime In Our Prime facebook page]
 *[http://www.inourprimeimprov.com/ In Our Prime website]
+
+[[Category/Active Troupes|Category:Active Troupes]]
