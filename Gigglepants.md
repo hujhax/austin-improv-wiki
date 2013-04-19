@@ -28,4 +28,4 @@
 *[[Kim Espinosa]]
 *[[Tom Glinkowski]]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Active Troupes|Category:Active Troupes]]
