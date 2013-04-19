@@ -18,4 +18,4 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 ## More Information
 * [http://www.facebook.com/CtrlAltDelight The troupe's facebook page.]
 
-[[Category/Troupes|C]]
+[[Category/Active Troupes|Category:Active Troupes]]
