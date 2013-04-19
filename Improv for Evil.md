@@ -19,4 +19,4 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [http://www.improvforevil.com/ The troupe's web site.]
 * [http://www.facebook.com/pages/Improv-for-Evil/8654193578 The troupe's facebook page.]
 
-[[Category/Troupes|I]]
+[[Category/Active Troupes|Category:Active Troupes]]
