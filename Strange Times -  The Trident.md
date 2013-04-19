@@ -1,4 +1,4 @@
-This was the third "Strange Times" story from [[Strange Worlds]].  It was improvised on March 16th, 2013. 
+This was the third "Strange Times" story from [[Strange Worlds]].  It was improvised on March 23rd, 2013. 
 
 ## Episode Summary
 Detective Morgan McNulty and reporter Nate Jester investigate the sudden and inexplicable appearance of a golden trident embedded in the sidewalk outside of McNulty's house.  McNulty questions Jester's odd behavior, then contemplates the world mythologies and stories of gods hurling objects to Earth.  Passing neighbors are distracted, inconvenienced, or outright injured by the trident.  McNulty decides to contract an outside business to remove it.  
