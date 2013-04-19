@@ -19,8 +19,6 @@ Bob is a dedicated Star Wars nerd, owner/operator of Rogue Sage, and gifted publ
 
 ## Shows
 * *[[Maestro]]* (2000-)
-* *[[Maestro Raw]]* (2012-)
-* *[[The Derby]]* 
 * *[[The Cagematch]]*
 * *[[The Fancy-Pants Mashup]]*
 * *[[Pick Your Own Path]]*
