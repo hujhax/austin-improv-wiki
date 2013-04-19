@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Heidi Rogers	
 |Picture =	Heidi Rogers Pic.jpg
-|Theater=	[[The Institution Theatre]]
+|Theater=	[[The Institution Theater]]
 |Years	=	2011-Present
 }}
 
