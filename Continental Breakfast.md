@@ -6,4 +6,6 @@
 |Years	=		2010
 }}
 
-**Continental Breakfast** was a troupe cast from one of the [[Merlin Works]] [[Improv mixers]].  It performed a longform show with a Harold-like structure, set at a hotel.
+**Continental Breakfast** was a troupe cast from one of the [[Merlin Works]] [[Improv mixers]].
+
+It performed a longform show with a Harold-like structure, set at a hotel.
