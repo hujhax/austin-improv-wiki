@@ -1,0 +1,1 @@
+Retrieved from http://www.flyingtheatermachine.com/images/school_shows/photobooth1.jpg
