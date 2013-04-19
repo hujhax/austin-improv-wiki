@@ -53,7 +53,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 Photoset] by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
 *** [http://vimeo.com/64240670 Maxine Maker and the Scintillating Confabulator!]
-*** [http://vimeo.com/64283087 Strange Times: The Body.]
+*** [http://vimeo.com/64283087 Strange Times: "The Body".]
 *** [http://vimeo.com/64216657 The Grey Bishop in "The Ruby and the Tiger".]
 * Episode 2 (3/9/13):
 ** [http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3 Photoset] by [[Steve Rogers]].
