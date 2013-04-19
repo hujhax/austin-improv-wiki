@@ -13,6 +13,8 @@
 ## History
 This was the last [[Live TV Tuesdays]] whose run happened entirely at [[The Highball]].
 
+This was the only TV Tuesdays production to include *improvised* commercials, instead of period commercials projected on-screen.
+
 Ironically, it also had a "preview performance" on 10/11/11 that was the very first show to take place at the newly-constructed [[Institution Theater]].
 
 Also, this was the last of a continuous run of teen-angst-themed TV choices.  After this, the TV Tuesdays series branched out with [[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|*Doctor Horrible's Sing-Along Blog*]]
@@ -45,6 +47,7 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 * Director -- [[Jordan T. Maxwell]]
 
 ## Media
+* [http://vimeo.com/32064772 Video of Brett and Andrew workshopping one of the production's improvised sections.]
 * [http://www.facebook.com/media/set/?set=a.10150288659198621.344556.511938620&type=1 Photoset] of rehearsal, publicity, and costume-test shots from [[Jordan T. Maxwell]].
 * 10/11/11 preview:
 ** [http://www.facebook.com/media/set/?set=a.181560375258327.48331.100002130980897&type=1 Photoset] by [[Steve Rogers]].
