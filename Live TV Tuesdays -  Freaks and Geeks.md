@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name	=	Live TV Tuesdays: Freaks and Geeks	
+|Name	=	Live TV Tuesdays:<br/>Freaks and Geeks	
 |Picture=	Live TV Tuesdays - Freaks and Geeks.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Ted Meredith]]
