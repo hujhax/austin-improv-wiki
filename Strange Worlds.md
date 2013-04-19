@@ -57,7 +57,8 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 * Episode 2 (3/9/13):
 ** [http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3 Photoset] by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/64279539 The Beacon] [http://vimeo.com/62740963 (unedited)].
+*** [http://vimeo.com/64279539 The Beacon].
+**** [http://vimeo.com/62740963 (Unedited version of The Beacon.)]
 *** [http://vimeo.com/64307521 Strange Times.]
 *** [http://vimeo.com/64279538 Bellwether Blue.]
 * Episode 3 (3/16/13):
