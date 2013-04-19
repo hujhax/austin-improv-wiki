@@ -21,4 +21,4 @@ So far, their formats have been "Secret Agnet Men" ([[Wikipedia - James Bond|Jam
 ## More Information
 * [http://www.facebook.com/pages/Danger-Warning-Improv/346798645384312 The troupe's facebook page.]
 
-[[Category/Troupes|D]]
+[[Category/Active Troupes|Category:Active Troupes]]
