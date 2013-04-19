@@ -19,7 +19,7 @@ This was the fourth of the Joss-Whedon-derived productions from *[[Live TV Tuesd
 
 This show sold out its entire run before the second performance.  Soon after that, FOX sent the production a cease-and-desist letter, and the production ended shortly afterwards.
 
-The runaway popularity of this production led [[The Institution]] to produce [[The Joss Whedon Pajama Party]], in which some of the cast reprised their *Firefly* roles.
+The runaway popularity of this production led [[The Institution]] to produce *[[The Joss Whedon Pajama Party]]*, in which some of the cast reprised their *Firefly* roles.
 
 ## Cast
 * Mal -- [[Michael Thomas]]
