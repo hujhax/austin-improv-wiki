@@ -1,5 +1,5 @@
 ## Summary
-Photobooth picture of [[Flying Theater Machine]].
+Photobooth picture of the [[Flying Theater Machine]].
 
 Photo by: unknown.
 
