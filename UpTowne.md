@@ -9,4 +9,4 @@
 
 UpTowne initially had a single show once per month on the 3rd Thursdays at ColdTowne Theater.  During the last year (2010), UpTowne would alternate Thursday night runs at 10pm with [[Midnight Society]]'s sketch show every other month.  Shows were typically themed and titled after the theme, such as "Science", "The Future", "Remote Control", and "Business, Business, Business".
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Inactive Troupes|Category:Inactive Troupes]]
