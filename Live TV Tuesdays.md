@@ -24,6 +24,7 @@ After that, [[The Institution Theater]] ceased production on *Live TV Tuesdays*.
 * Mar/Apr 2011: [[Live TV Tuesdays -  Beverly Hills, 90210|*Beverly Hills, 90210*: "Spring Dance"]]
 * May/Jun 2011: [[Live TV Tuesdays -  Dawson's Creek|*Dawson's Creek*: "The Longest Day"]]
 * Jul/Aug 2011: [[Live TV Tuesdays -  My So-Called Life|*My So-Called Life*: "The Longest Day"]]
+* Jul/Aug 2011: [[Live TV Tuesdays -  Party of Five|*Party of Five*: "The Wedding"]]
 * Sep/Oct 2011: [[Live TV Tuesdays -  Felicity|*Felicity*: "Gimme an O!"]]
 * Oct/Nov 2011: [[Live TV Tuesdays -  Buffy|*Buffy the Vampire Slayer*: "The Prom"]]
 * Feb/Mar 2012: [[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|*Doctor Horrible's Sing-Along Blog*]]
