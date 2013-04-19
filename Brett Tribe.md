@@ -10,13 +10,13 @@
 
 
 ## Previous Projects
-* [[Secret Senate]]
 * [[Achatina! Achatina!]] 
 * *[[Live Nude Improv]]*
-* *[[Pulp Friction]]*: Improvised Tarantino 
+* *[[Live TV Tuesdays -  Buffy]]* (Xander Harris) 
+* *[[Live TV Tuesdays -  South Park]]* (Director)
 * [[The Pappy Parker Players]] 
-* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]* (Xander Harris) 
-* *[[Live TV Tuesdays -  Small Colorado Mountain Town]]* (Director)
+* *[[Pulp Friction]]*: Improvised Tarantino 
+* [[Secret Senate]]
 
 ## Awards
 * Most Improved Improviser ColdTowne Awards 2010 
