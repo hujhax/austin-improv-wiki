@@ -3,6 +3,7 @@
   |Director = Jessica Arjet
   |Theater  = [[The Hideout Theatre]]
   |Cast     = various
+  |Picture  = Flying_Theater_Machine.jpg
   |Run    = 2007-Present
   |Subsequent Runs =
 }}
