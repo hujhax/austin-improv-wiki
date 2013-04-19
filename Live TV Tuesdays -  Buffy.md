@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Live TV Tuesdays: Buffy	
-|Picture=	Live TV Tuesdays: Buffy.jpg
+|Picture=	Live TV Tuesdays- Buffy.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Jordan T. Maxwell]]
 |Assistant Director= [[Sarah Marie Curry]]
