@@ -3,7 +3,7 @@
 |Picture=	Live TV Tuesdays- Buffy.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Jordan T. Maxwell]]
-|Assistant Director= [[Sarah Marie Curry]]
+|Assistant Director= {{Unbulleted list | [[Ruby Willmann]] | [[Sarah Marie Curry]] }}
 |Cast	=	{{Unbulleted list | [[Amanda Garfield]] | [[Andrew Pish]] | [[Brett Tribe]] | [[Bryan Cruz]] | [[David Lampe]] | [[Derek Diaz]] | [[Guy Vizard]] | [[Jayme Ramsay]] | [[Jennifer Blair]] | [[Jessica Arjet]] | [[Kristin Firth]] | [[Peter Rogers]] | [[Ryan Hill]] | [[Sarah Marie Curry]] | [[Stephanie Hagemeister]] }}
 |Tech	=	{{Unbulleted list | Carlos San Miguel | [[Chelley Pyatt]] | James Downing | [[Kacey Samiee]] | [[Leann Fryer]] | [[Lisa Marie Kull]] }}
 |Run	=	Oct/Nov 2011
