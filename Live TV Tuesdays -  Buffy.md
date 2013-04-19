@@ -46,6 +46,8 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 * Assistant Director -- [[Sarah Marie Curry]]
 * Director -- [[Jordan T. Maxwell]]
 
+([[Ruby Willmann]] served as Assistant Director during the pre-production and development phase, but had to back out before rehearsals started due to scheduling issues.  [[Sarah Marie Curry]], who had already been cast as Willow, stepped into the role and oversaw direction of productions after [[Jordan T. Maxwell]] departed to film Battleground.)
+
 ## Media
 * [http://vimeo.com/32064772 Video of Brett and Andrew workshopping one of the production's improvised sections.]
 * [http://www.facebook.com/media/set/?set=a.10150288659198621.344556.511938620&type=1 Photoset] of rehearsal, publicity, and costume-test shots from [[Jordan T. Maxwell]].
