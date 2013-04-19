@@ -46,6 +46,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [[The Peregrine and the Web of Youth]]
 * Episode 4 (3/23/13):
 ** [[Lily Wilde Versus the Ravenous Cats]]
+** [[Strange Times -  The Tattoo]]
 
 ## Media
 * Episode 1 (3/2/13):
