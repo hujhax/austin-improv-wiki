@@ -17,7 +17,6 @@ These are troupes that still need pages created for them.
 * [[Foolish Mortals]]
 * [[The Glamping Trip]]
 * [[Happiness is a Choice]]
-* [[Improv for Evil]]
 * [[Indigo Shift]]
 * [[The Intentions]]
 * [[Journey to the Big Water]]
