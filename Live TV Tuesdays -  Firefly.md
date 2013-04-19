@@ -3,9 +3,9 @@
 |Picture=	Live TV Tuesdays - Firefly.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Asaf Ronen]]
-|Assistant Director= [[Michael Thomas]]
+|Assistant Director= {{Unbulleted list | [[Allison Asher]] | [[Michael Thomas]] }}
 |Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Alexa Ramirez]] | [[Ammie Nicole Leonards]] | [[David Young]] | [[Heath Allyn]] | [[Jason Vines]] | [[Lindsey Reeves]] | [[Michael Thomas]] | [[Peter Rogers]] | [[Sabrina Jones]] | [[Sarah Swofford]] | [[Stephen Robinson]] }}
-|Tech	=	{{Unbulleted list | [[Allison Asher]] | [[Chad Wellington]] | [[Chelley Pyatt]] | [[Chelley Pyatt]] | [[Cindy Ward]] }}
+|Tech	=	{{Unbulleted list | [[Chad Wellington]] | [[Chelley Pyatt]] | [[Chelley Pyatt]] | [[Cindy Ward]] }}
 |Music = {{Unbulleted list | [[Heath Allyn]] | [[Jeremy Logan]] | [[Thelma Faglie]] }}
 |Run	=	May/Jun 2012
 }}
