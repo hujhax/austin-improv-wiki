@@ -23,6 +23,6 @@
 * Best New Troupe Achatina! Achatina! 2010 
 * Most Outstanding Troupe Bad Boys Coldtowne Awards 2011 
 * Official nomination for B. Iden Payne award with Bad Boys 2012
-
+* National Academy of Sports Medicine Certified Personal Trainer 2013
 
 [[Category/Performers|Tribe]]
