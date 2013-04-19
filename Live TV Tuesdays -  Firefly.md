@@ -36,12 +36,12 @@ The runaway popularity of this production led [[The Institution]] to produce *[[
 * Corbin, Ensemble -- [[Heath Allyn]]
 
 ## Crew
-* Vocal Coach -- [[Allison Asher]]
-* Puppets By -- [[Chadwick Smith]] and [[Sara Farr]]
-* Puppet Director -- [[Sara Farr]]
-* Tech -- [[BK McKee]]
-* Videography -- [[Brian Boyko]]
-* Directed By -- [[Chelley Pyatt]]
+* Stage Manager -- [[Chelley Pyatt]]
+* Vocal Coach -- [[Chelley Pyatt]]
+* Lights -- [[Cindy Page]]
+* Video/Sound -- [[Chad Wellington]]
+* Assistant Director -- [[Allison Asher]]
+* Director -- [[Asaf Ronen]]
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.348540731881279.76730.118587218209966&type=3 Photoset] of a performance by [[Roy Moore]].
