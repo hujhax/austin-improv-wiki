@@ -28,14 +28,14 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Improvised Shakespeare]]*
 * *[[Joss Whedon Pajama Party]]*
 * *[[Live Nude Improv]]*
-* *[[Live TV Tuesdays Presents -  Angel]]*
-* *[[Live TV Tuesdays Presents -  Freaks and Geeks]]*
+* *[[Live TV Tuesdays -  Angel]]*
+* *[[Live TV Tuesdays -  Buffy]]*
+* *[[Live TV Tuesdays -  Freaks and Geeks]]*
 * *[[The Professor]]*
 * *[[Rock]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Spirited]]*
 * *[[Strange Worlds]]*
-* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]*
 * *[[Totally Improvised, 90210]]*
 * *[[The Violet Underbelly]]*
 
