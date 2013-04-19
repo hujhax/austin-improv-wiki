@@ -1,4 +1,4 @@
-This was the first [[Strange Worlds]] story about The Peregrine.  It was improvised on March 16th, 2013. 
+This was the first [[Strange Worlds]] story about The Peregrine.  It was improvised on March 23rd, 2013. 
 
 ## Episode Summary
 The Carmichaels, a wealthy couple of indulgent luxury, entertain the similarly wealthy Guinevere McCall and grouse about how much their charities demand when their manservant Reginald arrives with a note.  It reads "Behind you."  Suddenly, the Peregrine appears, slingshot drawn!  She confronts the Carmichaels about the money they've been stealing from their orphanage... and declares she's taking it back!  She launches a gas pellet, knocking the trio unconscious, and robs their safe, amateurly hidden behind a painting.  
