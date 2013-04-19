@@ -25,7 +25,7 @@ After finishing the run of *Freaks and Geeks*, [[Katie Thornton]], [[Lindsey Ree
 * Jean Weir -- [[Sam Schak]]
 * Mr. Rosso -- [[Michael Jastroch]]
 * Millie Kentner -- [[Laura Komkov]]
-* Cindy Sanders -- [[Briana McKeague]]
+* Cindy Sanders -- [[Briana Mckeague]]
 * Harris Trinsky -- [[Mitchell Deane]]
 
 ## Media
