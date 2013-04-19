@@ -51,21 +51,24 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 * Episode 1 (3/2/13):
 ** [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 Photoset] by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/64240670 Maxine Maker.]
-*** [http://vimeo.com/64283087 Strange Times.]
-*** [http://vimeo.com/64216657 The Grey Bishop.]
+*** [http://vimeo.com/64240670 Maxine Maker and the Scintillating Confabulator!]
+*** [http://vimeo.com/64283087 Strange Times: The Body.]
+*** [http://vimeo.com/64216657 The Grey Bishop in "The Ruby and the Tiger".]
 * Episode 2 (3/9/13):
 ** [http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3 Photoset] by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/64279539 The Beacon].
-**** [http://vimeo.com/62740963 (Unedited version of The Beacon.)]
-*** [http://vimeo.com/64307521 Strange Times.]
-*** [http://vimeo.com/64279538 Bellwether Blue.]
-* Episode 3 (3/16/13):
+*** [http://vimeo.com/64279539 The Beacon and the Dancing Skeleton.]
+**** [http://vimeo.com/62740963 (Unedited version of the show.)]
+*** [http://vimeo.com/64307521 Strange Times: "The Pendant".]
+*** [http://vimeo.com/64279538 Bellwether Blue Versus the Shadow Asps.]
+* Episode 3 (3/23/13):
 ** [http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3 Photoset] by [[Steve Rogers]].
-* Episode 4 (3/23/13):
-* Episode 5 (3/30/13):
+* Episode 4 (3/30/13):
 ** [http://www.smugmug.com/gallery/28941754_bJ4Bsx#!i=2460013495&k=KfRHW5c Photoset] by [[Jon Bolden]].
+* Episode 5 (4/6/13):
+** [http://www.facebook.com/media/set/?set=a.558248124196687.1073741832.100000345135257&type=3 Photoset] by [[Claudio Fox]].
+* Episode 6 (4/13/13):
+** [http://www.facebook.com/media/set/?set=a.524634750933379.1073741856.221927764537414&type=1 Photoset] by [[Steve Rogers]].
 
 ## More Information
 * [http://www.hideouttheatre.com/ryan-austin-vs-the-perils-of-pulp "Ryan Austin Vs. The Perils of Pulp"]: a post from [[Ryan Austin]] about the rehearsal process.
