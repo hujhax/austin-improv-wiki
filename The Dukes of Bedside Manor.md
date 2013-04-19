@@ -11,4 +11,4 @@
 ## History
 The troupe was founded in the fall of 2010 by all the original cast and disbanded after their [[Out of Bounds]] performance in 2012.
 
-[[Category/Inactive Troupes|Category:Inactive Troupes]]
+[[Category/Inactive Troupes|Dukes of Bedside Manor]]
