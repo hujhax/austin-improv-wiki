@@ -18,11 +18,9 @@ Since starting to improvise, Lacy has been cast in mainstage shows at [[The Hide
 
 Lacy is currently a teaching assistant for [[Merlin Works]] adult classes and [[The Hideout Theatre]]'s teen classes.
 
-## Troupes
+## Current Troupes
 * [[RhinoDino]]
 *[[The Known Wizards]]
-* [[Stone Airplane]] (Disbanded)
-*[[Wait OK Now]] (Previous member)
 
 ## Shows
 *[[The Professor -  Improv Inspired by Doctor Who]] (second run at [[Salvage Vanguard Theater]])
@@ -36,6 +34,15 @@ Lacy is currently a teaching assistant for [[Merlin Works]] adult classes and [[
 * *[[The Fancy-Pants Mashup]]*
 * *[[Maestro]]* (2000-)
 * *[[Pick Your Own Path]]*
+
+## Festivals
+* "[[The Out of Bounds Comedy Festival]]"
+* "[[The Improvised Play Festival]]"
+* "Improvaganza" (in Hawaii)
+
+## Previous Troupes
+* [[Stone Airplane]] (Disbanded)
+*[[Wait OK Now]] (Previous member)
 
 
 [[Category/Performers|Shawn]]
