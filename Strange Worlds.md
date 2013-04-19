@@ -40,11 +40,11 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [[The Beacon and the Dancing Skeleton]]
 ** [[Strange Times -  The Pendant]]
 ** [[Bellwether Blue Versus the Shadow Asps]]
-* Episode 3 (3/16/13):
+* Episode 3 (3/23/13):
 ** [[Jack Ryder and the Temples of Neptune]]
 ** [[Strange Times -  The Trident]]
 ** [[The Peregrine and the Web of Youth]]
-* Episode 4 (3/23/13):
+* Episode 4 (3/30/13):
 ** [[Lily Wilde Versus the Ravenous Cats]]
 ** [[Strange Times -  The Tattoo]]
 
