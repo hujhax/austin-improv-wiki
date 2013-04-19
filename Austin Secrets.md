@@ -5,7 +5,7 @@
 |Director =	[[Roy Janik]]
 |Cast	=	Various
 |Run	=	Jan/Feb 2010
-|Subsequent Runs = {{Unbulleted list|Jan/Feb 2011|Nov/Dec 2012|Nov/Dec 2013}}
+|Subsequent Runs = {{Unbulleted list|Jan/Feb 2011|Nov/Dec 2012|Sep/Oct 2013<ref>[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule Announcing the 2013 Season and Schedule]</ref>}}
 }}
 
 *Austin Secrets* is an improvised shortform show inspired by real-life-storytelling projects such as [[Wikipedia - PostSecret|PostSecret]], [[Wikipedia - StoryCorps|StoryCorps]], and [[Wikipedia - The Moth|The Moth]].
@@ -88,3 +88,6 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://vimeo.com/54682393 Video of the 11/17/12 performance.]
 * [http://vimeo.com/54237354 Video of the 11/24/12 performance.]
 * [http://vimeo.com/54746832 Video of the 12/1/12 performance.]
+
+## Notes
+<references/>
