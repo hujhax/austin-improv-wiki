@@ -1,4 +1,4 @@
-This was the first [[Strange Worlds]] story about Jack Ryder.  It was improvised on March 16th, 2013. 
+This was the first [[Strange Worlds]] story about Jack Ryder.  It was improvised on March 23rd, 2013. 
 
 ## Episode Summary
 A pair of elders of Pano receive news from Corporal Kern that the majority of their fleet of flying whale ships have been annihilated by barbarians.  All three kneel and pray to the gods of Shano to protect them.
