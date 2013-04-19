@@ -4,7 +4,7 @@
 |Theater=	[[The Institution Theater]]
 |Director =	[[Chelley Pyatt]]
 |Assistant Director= [[Sara Farr]]
-|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Angela Maldonado]] | [[Carissa McAtee]] | [[Chad Wellington]] | [[Heath Allyn]] | [[Heidi Caldwell]] | [[Heidi Caldwell]] | [[Joel Reese]] | [[Kevin Machate]] | [[Peter Rogers]] | [[Robin Anderson]] | [[Sara Farr]] | [[Vicki Bui]] }}
+|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Angela Maldonado]] | [[Carissa McAtee]] | [[Chad Wellington]] | [[Heath Allyn]] | [[Heidi Caldwell]] | [[Joel Reese]] | [[Kevin Machate]] | [[Peter Rogers]] | [[Robin Anderson]] | [[Sara Farr]] | [[Vicki Bui]] }}
 |Tech	=	[[BK McKee]]
 |Run	=	Apr/May 2012
 }}
