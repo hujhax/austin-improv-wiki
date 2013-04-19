@@ -8,6 +8,7 @@
 * [[List of Austin Improv Performers]]
 * [[List of Austin Improv Photographers]]
 * [[List of Austin Improv Teachers]]
+* [[List of Austin Improv Techs]]
 
 ## Troupes
 [[List of Austin Improv Troupes]]
