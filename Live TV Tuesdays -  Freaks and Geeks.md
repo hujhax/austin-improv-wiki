@@ -3,7 +3,7 @@
 |Picture=	Live TV Tuesdays - Freaks and Geeks.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Ted Meredith]]
-|Cast	=	{{Unbulleted list | [[Briana Mckeague]] | [[Carrie Pinkstaff]] | [[Dave Buckman]] | [[Guy Vizard]] | [[Katie Richter]] | [[Katie Thornton]] | [[Kyle Traughber]] | [[Laura Komkov]] | [[Lindsey Reeves]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Sam Schak]] | [[Wyatt Tall]] }}
+|Cast	=	{{Unbulleted list | [[Briana Mckeague]] | [[Carrie Pinkstaff]] | [[Dave Buckman]] | [[Guy Vizard]] | [[Katie Richter]] | [[Katie Thornton]] | [[Kyle Traughber]] | [[Laura Komkov]] | [[Lindsey Reeves]] | [[Michael Jastroch]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Sam Schak]] | [[Wyatt Tall]] }}
 |Tech	=	[[David Zimmerman]]
 |Run	=	Mar/Apr 2012
 }}
@@ -23,6 +23,7 @@ After finishing the run of *Freaks and Geeks*, [[Katie Thornton]], [[Lindsey Ree
 * Kim Kelly -- [[Carrie Pinkstaff]]
 * Harold Weir -- [[Dave Buckman]]
 * Jean Weir -- [[Sam Schak]]
+* Mr. Rosso -- [[Michael Jastroch]]
 * Millie Kentner -- [[Laura Komkov]]
 * Cindy Sanders -- [[Briana McKeague]]
 * Harris Trinsky -- [[Mitchell Deane]]
