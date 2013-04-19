@@ -5,7 +5,7 @@
 
 |Years	=		2011-Present
 }}
-[[Category/Troupes|Who Dack]]
+[[Category/Active Troupes|Category:Active Troupes]]
 **Who Dack?** is an improv troupe composed of members from several theaters and improv traditions, that performs mainly at [[ColdTowne Theater]].
 
 ## History
