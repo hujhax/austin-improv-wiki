@@ -11,7 +11,9 @@
 ***Live TV Tuesdays: Buffy*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Buffy the Vampire Slayer|*Buffy the Vampire Slayer*]] episode [[Wikipedia - The Prom (Buffy the Vampire Slayer)|"The Prom"]].
 
 ## History
-This was the last [[Live TV Tuesdays]] whose run happened entirely at [[The Highball]].  Ironically, it also had a "preview performance" on 10/11/11 that was the very first show to take place at the newly-constructed theater.
+This was the last [[Live TV Tuesdays]] whose run happened entirely at [[The Highball]].
+
+Ironically, it also had a "preview performance" on 10/11/11 that was the very first show to take place at the newly-constructed [[Institution Theater]].
 
 Also, this was the last of a continuous run of teen-angst-themed TV choices.  After this, the TV Tuesdays series branched out with [[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|*Doctor Horrible's Sing-Along Blog*]]
 
