@@ -15,10 +15,10 @@
 
 *Staged by the Bell* was performed at the Spider House.  Subsequent productions happened at [[The Highball|the Highball]].  Up through the *Buffy* production, productions of *Live TV Tuesdays* stayed exclusively at that venue, but starting in 2012, each production would spend the first month of its run at [[The Highball|the Highball]], and the second month at [[The Institution]], which had a newly-constructed theater.
 
-In 2011 and 2012, the Institution hit great commercial success with a series of [[Wikipedia - Joss Whedon|Joss-Whedon]]-based productions of *Buffy*, *Angel*, *Doctor Horrible*, and *Firefly*.  (This led to their capitalizing on that success with *[[The Joss Whedon Pajama Party]]*.)  Unfortunately, with success, *Live TV Tuesdays* also got the attention of the various TV companies' legal departments.  *Firefly* received a cease-and-desist order from FOX after their second performance.  *South Park* received a cease-and-desist order from Viacom very early in their run.
+In 2011 and 2012, the Institution hit great commercial success with a series of [[Wikipedia - Joss Whedon|Joss-Whedon]]-based productions of *Buffy*, *Angel*, *Doctor Horrible*, and *Firefly*.  (They then capitalized on that success with *[[The Joss Whedon Pajama Party]]*.)  Unfortunately, with success, *Live TV Tuesdays* also got the attention of the various TV companies' legal departments.  *Firefly* received a cease-and-desist order from FOX after their second performance.  *South Park* received a cease-and-desist order from Viacom very early in their run.
 
 After that, [[The Institution Theater]] ceased production on *Live TV Tuesdays*.
- 
+
 ## List of TV Tuesdays Runs
 * Sep/Oct/Nov 2009:  [[Live TV Tuesdays -  Saved by the Bell|*Saved by the Bell*: "Jessie's Song" and "The Zach Tapes"]]
 * Mar/Apr 2011: [[Live TV Tuesdays -  Beverly Hills, 90210|*Beverly Hills, 90210*: "Spring Dance"]]
