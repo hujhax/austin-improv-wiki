@@ -6,4 +6,4 @@
 
 **The Better Half** is an improv troupe.
 
-[[Category/Troupes|B]]
+[[Category/Active Troupes|Category:Active Troupes]]
