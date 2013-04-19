@@ -15,7 +15,7 @@ This was the third of the Joss-Whedon-derived productions from *[[Live TV Tuesda
 
 This was one of the most ambitious *TV Tuesdays* shows in terms of production.  To do justice to the source material, the show was very mixed-media, involving not only the usual sound and lighting tech, but also musical numbers, video playback, and (most significantly) both hand and full-body puppets.  [[Sara Farr]] of the [[Puppet Improv Project]] handled the show's puppet-related work.
 
-[[Peter Rogers]] reprised his role as Wesley.  The production brought [[Heath Allyn]] and [[Adam Mengesha]] into [[The Institution]]'s orbit; they would both go on to participate in [[Live TV Tuesdays -  Firefly|the TV Tuesdays production of *Firefly*]].
+[[Peter Rogers]] reprised his role as Wesley from the earlier production of [[Live TV Tuesdays -  Buffy|*Buffy*]].  The production brought [[Heath Allyn]] and [[Adam Mengesha]] into [[The Institution]]'s orbit; they would both go on to participate in [[Live TV Tuesdays -  Firefly|the TV Tuesdays production of *Firefly*]].
 
 ## Cast
 * Angel -- [[Heath Allyn]]
