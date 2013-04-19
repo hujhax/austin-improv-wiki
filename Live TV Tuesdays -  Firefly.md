@@ -40,7 +40,7 @@ The runaway popularity of this production led [[The Institution]] to produce *[[
 * Vocal Coach -- [[Chelley Pyatt]]
 * Lights -- [[Cindy Page]]
 * Video/Sound -- [[Chad Wellington]]
-* Assistant Director -- [[Allison Asher]]
+* Assistant Directors -- [[Allison Asher]] and [[Michael Thomas]]
 * Director -- [[Asaf Ronen]]
 
 ## Media
