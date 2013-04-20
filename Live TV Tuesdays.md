@@ -32,3 +32,4 @@ After that, [[The Institution Theater]] ceased production on *Live TV Tuesdays*.
 * Apr/May 2012: [[Live TV Tuesdays -  Angel|*Angel*: "Smile Time"]]
 * May/Jun 2012: [[Live TV Tuesdays -  Firefly|*Firefly*: "Our Mrs. Reynolds" -- The Musical!]]
 * Jun/Jul 2012: [[Live TV Tuesdays -  South Park|*South Park*: "Something You Can Do With Your Finger" and "Professor Chaos"]]
+* Jul/Aug 2012: [[Live TV Tuesdays -  Scrubs|*Scrubs*: "My Overkill" and "My Musical"]]
