@@ -57,7 +57,7 @@ The festival roast featured [[David Lampe]].
 * *[[Process]]*
 * [[The Professor]]
 * [[Puppet Improv Project]]
-* [[Rachel & Dave]]
+* [[Rachel and Dave]]
 * [[Ratliff and Jackson]]
 * [[Sarah 7]]
 * [[Shades of Brown]]
