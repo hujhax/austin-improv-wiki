@@ -28,7 +28,6 @@
 * Stage Manager -- [[Jo Maraschino]]
 * Director -- [[Tom Booker]]
 
-
 ## Media
 * [http://www.facebook.com/media/set/?set=a.10150189247619090.330829.273514734089&type=3 Photoset of the 4/5/11 production.]
 * [http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=3 Photoset of the 5/3/11 performance] by [[Michael Yew]].
