@@ -20,16 +20,16 @@ Jordan was also a regular on the Hulu original series *[http://en.wikipedia.org/
 * [[The Awkwards]]
 
 ## Shows
-* *[[Start Trekkin']]*
 * *[[Austin Secrets]]*
-* *[[Showdown]]*
+* *[[Fandom]]*
 * *[[Live Nude Improv]]*
-* *[[Spirited]]*
-* *[[Teen Angst Tuesdays -  Buffy the Vampire Slayer]]* (director)
+* *[[Live TV Tuesdays -  Buffy]]* (director)
+* *[[Pocketful of Posies]]*
 * *[[Process]]*
 * *[[Rock]]*
-* *[[Pocketful of Posies]]*
-* *[[Fandom]]*
+* *[[Showdown]]*
+* *[[Spirited]]*
+* *[[Start Trekkin']]*
 * *[[Strange Worlds]]* (director)
 
 [[Category/Performers|Maxwell]]
