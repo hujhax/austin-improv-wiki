@@ -1,1 +1,1 @@
-**The 44-Hour Improv Marathon** will be the fifth annual [[Hideout Improv Marathon]].  It will be performed in 2013.
+**The 44-Hour Improv Marathon** will be the fifth annual [[Hideout Improv Marathon]].  It will be performed in 2013, between Friday, June 21 through Sunday, June 23.
