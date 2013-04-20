@@ -2,11 +2,12 @@
 |Name	=		In Our Prime
 |Picture	=	In Our Prime.jpg
 |Cast	=	{{Unbulleted list|[[Jessica Arjet]]|[[Gloria Bankler]]|[[Ryan Hill]]|[[Paul Normandin]]}}
-
-
 |Years	=		2012-Present
 }}
 
+**In Our Prime** is an improv troupe that focuses on grounded, dramatic longforms.
+
+## Summary
 In Our Prime was the brainchild of [[Paul Normandin]]. Paul and [[Gloria Bankler]] became close friends after [[Kaci Beeler]]'s *Romance and Intimacy* Elective at [[The Hideout Theatre]] in 2011. Gloria and Paul met [[Ryan Hill]] when they all took an elective workshop at [[The Hideout Theatre]] entitled *Andy is Mean to You*, wherein Hideout Education Director [[Andy Crouch]] would give very direct feedback to students. Soon after, Paul approached Gloria and Ryan with his idea for a troupe that would perform extremely grounded, even dramatic, improv with very little focus on comedy. 
 
 The troupe was briefly named *It'll Come to Us* until the name *In Our Prime* was decided on due to the older-than-average age of the cast and the primeness of their number (three). The trio performed a debut show at the Hideout.
