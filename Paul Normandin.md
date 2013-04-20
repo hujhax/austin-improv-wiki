@@ -14,7 +14,7 @@ Paul completed classes at [[The Hideout Theatre]] with his friend and classmate,
 
 Other classmates included [[Brad Hawkins]], [[Chad Wellington]], [[Katherine Greco]], and [[Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
 
-Paul conceived of and started the grounded, narrative troupe [[In Our Prime]] in 2011 with [[Gloria Rabil Bankler]], [[Ryan Hill]], and [[Jessica Arjet]].
+Paul conceived of and started the grounded, narrative troupe [[In Our Prime]] in 2011 with [[Gloria Rabil-Bankler]], [[Ryan Hill]], and [[Jessica Arjet]].
 
 Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the troupe [[We're Here to Date Your Daughter]] founded in 2012. 
 
