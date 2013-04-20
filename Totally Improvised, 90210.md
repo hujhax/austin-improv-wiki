@@ -10,8 +10,11 @@
 |Run	=	Aug 2011
 }}
 
+:*This page refers to the [[Gnap! Theater Projects]] improv show based on *90210*.  For the [[Live TV Tuesdays]] staging of the *90210* episode "Spring Dance", see *[[Live TV Tuesdays -  Beverly Hills, 90210]]''.
+***Totally Improvised, 90210*** was an improvised take on *[[Wikipedia - Beverly Hills, 90210|Beverly Hills, 90210]]*.
+
 ## Summary
-*Totally Improvised, 90210* was an improvised take on *Beverly Hills, 90210*, in that same world, with that same central cast.  Each performance began with a three-minute intro from an episode of the show, and then ran with that for about an hour of improv.
+The show took place in the same world as *Beverly Hills, 90210*, with that same central cast.  Each performance began with a three-minute intro from an episode of the show, and then ran with that for about an hour of improv.
 
 Much of the rehearsal process focused on *slowing down*, getting the cast to concentrate less on plot, and more of exploring the feelings with each development -- the notion was slowing down the improv performance so that it matched the pace of the original television show.  Performers also had to be comfortable playing out intimacy onstage, and again, slowing their pace with it to something that matched the source material.
 
