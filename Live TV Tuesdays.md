@@ -31,6 +31,6 @@ In 2011 and 2012, the Institution achieved great commercial success with a serie
 * Feb/Mar 2012: [[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|*Doctor Horrible's Sing-Along Blog*]]
 * Mar/Apr 2012: [[Live TV Tuesdays -  Freaks and Geeks|*Freaks and Geeks*: "Beers and Weirs"]]
 * Apr/May 2012: [[Live TV Tuesdays -  Angel|*Angel*: "Smile Time"]]
-* May/Jun 2012: [[Live TV Tuesdays -  Firefly|*Firefly*: "Our Mrs. Reynolds" -- The Musical!]]
+* May/Jun 2012: [[Live TV Tuesdays -  Firefly|*Firefly*: "Our Mrs. Reynolds" (as a musical)]]
 * Jun/Jul 2012: [[Live TV Tuesdays -  South Park|*South Park*: "Something You Can Do With Your Finger" and "Professor Chaos"]]
 * Jul/Aug 2012: [[Live TV Tuesdays -  Scrubs|*Scrubs*: "My Overkill" and "My Musical"]]
