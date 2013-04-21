@@ -23,7 +23,7 @@ Its first full run was a six-week set of Friday shows at [[The Institution Theat
 At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 2013, [[Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613].  Ferstenfeld tried to bring more scene-painting into the show, and draw more influence from "classic" *Doctor Who*, from the years preceding Russell T Davies and Steven Moffat.  They have announced a third run of shows at [[The Institution Theater]] in November.
 
 ## Casts
-### "Season Zero"
+### "Season Zero" (Jun 2010)
 The first two test shows featured [[Jordan T. Maxwell]] as the First Professor.
 
 * [[Jordan T. Maxwell]]
@@ -34,7 +34,7 @@ The first two test shows featured [[Jordan T. Maxwell]] as the First Professor.
 
 ([[Emily Breedlove]] rehearsed with the cast, but did not play in either show.)
 
-### Season One
+### Season One (Oct-Nov 2011)
 The first run of shows featured [[Michael Ferstenfeld]] and [[Andrew Pish]] as the Second and Third Professors.
 
 * [[Clay Towery]]
@@ -46,7 +46,7 @@ The first run of shows featured [[Michael Ferstenfeld]] and [[Andrew Pish]] as t
 * [[Lindsey Reeves]]
 * [[Quinn Buckner]]
 
-### Season Two
+### Season Two (Mar-Apr 2012)
 The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as the Fourth and Fifth Professors, with [[Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Clay Towery]]
@@ -59,7 +59,7 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 * [[Quinn Buckner]]
 * [[Ryan Austin]]
 
-### Season Three
+### Season Three (Nov 2012)
 * [[Aden Kirschner]]
 * [[Clay Towery]]
 * [[Emily Breedlove]]
