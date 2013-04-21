@@ -36,7 +36,7 @@ Winners are listed in **bold text**.
 * [[Amy Dietz]], for *[[Danger!]]*
 * [[Asaf Ronen]] & [[Mike Ferstenfeld]], for *[[This American Live]]*
 * [[Sarah Marie Curry]], for *[[Racket!]]*
-* [[Tom Booker]], for *[[Pulp Friction]]*
+* **[[Tom Booker]], for *[[Pulp Friction]]***
 
 ### Favorite Male Performer
 * [[Adam Mengesha]]
