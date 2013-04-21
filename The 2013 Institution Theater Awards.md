@@ -28,7 +28,7 @@ Winners are listed in **bold text**.
 
 ### Favorite Director of a Scripted Show
 * [[Asaf Ronen]], for *[[Live TV Tuesdays -  Firefly]]*
-* [[Heidi Caldwell]], for *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]*
+* **[[Heidi Caldwell]], for *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
 * [[Jo Maraschino]] & [[Kevin Machate]], for *[[Live TV Tuesdays -  Scrubs]]*
 * [[Ted Meredith]], for *[[Live TV Tuesdays -  Freaks and Geeks]]*
 
