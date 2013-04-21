@@ -5,8 +5,8 @@
 |Director =	Various
 |Cast	=	Various
 |Tech	=	Various
-|Run	=	Sep/Oct/Nov 2009
-|Subsequent Runs= 2010-2012
+|Run	=	Aug 2009
+|Subsequent Runs= 2009-2012
 }}
 ***Live TV Tuesdays*** (formerly known as "Teen Angst Tuesdays") were a series of theatrical presentations at [[The Institution Theater]] where casts of mostly improvisors presented staged versions of beloved TV episodes.
 
