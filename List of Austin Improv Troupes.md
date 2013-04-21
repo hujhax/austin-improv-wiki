@@ -18,7 +18,6 @@ These are troupes that still need pages created for them.
 * [[The Glamping Trip]]
 * [[Happiness is a Choice]]
 * [[Indigo Shift]]
-* [[The Intentions]]
 * [[Journey to the Big Water]]
 * [[The Knuckleball Now]]
 * [[Local Genius Society]]
