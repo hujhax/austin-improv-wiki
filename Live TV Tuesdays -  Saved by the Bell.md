@@ -8,7 +8,7 @@
 }}
 ***Live TV Tuesdays: Saved by the Bell*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Saved by the Bell|*Saved by the Bell*]] epiodes [http://www.imdb.com/title/tt0794963 "Jessie's Song"] and [http://www.imdb.com/title/tt0695237 "The Zack Tapes"].
 
-At the time, this production was referred to as "Staged by the Bell".
+This was the first production in what became the "Teen Angst Tuesdays" and subsequently the "Live TV Tuesdays" series.  At this time, this show was known only as "Staged by the Bell".
 
 It was presented by [[The Institution Theater]] at The United States Art Authority at [[The Spider House]].
 
