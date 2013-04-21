@@ -17,7 +17,7 @@
 
 In 2011 and 2012, the Institution achieved great commercial success with a series of [[Wikipedia - Joss Whedon|Joss-Whedon]]-based productions of *Buffy*, *Angel*, *Doctor Horrible*, and *Firefly*.  (They then capitalized on that success with *[[The Joss Whedon Pajama Party]]*.)  Unfortunately, with success, *Live TV Tuesdays* also got the attention of the TV companies' legal departments.  *Firefly* received a cease-and-desist order from FOX after their second performance.  *South Park* received a cease-and-desist order from Viacom very early in their run.
 
-After that, [[The Institution Theater]] ceased production on *Live TV Tuesdays*.
+[[The Institution Theater]] produced one more show (*[[Live TV Tuesdays -  Scrubs|Scrubs]]*), and then ceased production on *Live TV Tuesdays*.
 
 ## List of TV Tuesdays Runs
 * Aug 2009:  [[Live TV Tuesdays -  Saved by the Bell|*Saved by the Bell*: "Jessie's Song"]]
