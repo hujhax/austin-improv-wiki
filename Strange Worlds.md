@@ -65,8 +65,12 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 *** [http://vimeo.com/64279538 Bellwether Blue Versus the Shadow Asps.]
 * Episode 3 (3/23/13):
 ** [http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/64498551 The Peregrine and the Web of Youth.]
 * Episode 4 (3/30/13):
 ** [http://www.smugmug.com/gallery/28941754_bJ4Bsx#!i=2460013495&k=KfRHW5c Photoset] by [[Jon Bolden]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/64478922 Codename: Sleuth and the Case of the Assassin's Sting.]
 * Episode 5 (4/6/13):
 ** [http://www.facebook.com/media/set/?set=a.558248124196687.1073741832.100000345135257&type=3 Photoset] by [[Claudio Fox]].
 * Episode 6 (4/13/13):
