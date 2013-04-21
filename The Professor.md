@@ -26,6 +26,14 @@ At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 
 ### "Season Zero"
 The first two test shows featured [[Jordan T. Maxwell]] as the First Professor.
 
+* [[Jordan T. Maxewll]]
+* [[Justin Davis]]
+* [[Karen Jane DeWitt]]
+* [[Katie Thornton]]
+* [[Mike Nystul]]
+
+([[Emily Breedlove]] rehearsed with the cast, but did not play in either show.)
+
 ### Season One
 The first run of shows featured [[Michael Ferstenfeld]] and [[Andrew Pish]] as the Second and Third Professors.
 
