@@ -47,6 +47,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 * Episode 4 (3/30/13):
 ** [[Lily Wilde Versus the Ravenous Cats]]
 ** [[Strange Times -  The Tattoo]]
+** [[Codename -  Sleuth and the Case of the Assassin's Sting]]
 
 ## Media
 * Episode 1 (3/2/13):
