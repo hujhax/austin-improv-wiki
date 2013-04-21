@@ -139,6 +139,7 @@ Winners are listed in **bold text**.
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.480786615318193.115392.221927764537414&type=1 Photoset of the event] by [[Steve Rogers]].
+* [http://thetitievids.tumblr.com/ The 2013 nominated videos.]
 
 ## More Information
 * [http://www.facebook.com/events/274500962675435/?ref=3 Facebook event for the awards ceremony.]
