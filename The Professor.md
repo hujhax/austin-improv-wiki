@@ -26,7 +26,7 @@ At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 
 ### "Season Zero"
 The first two test shows featured [[Jordan T. Maxwell]] as the First Professor.
 
-* [[Jordan T. Maxewll]]
+* [[Jordan T. Maxwell]]
 * [[Justin Davis]]
 * [[Karen Jane DeWitt]]
 * [[Katie Thornton]]
