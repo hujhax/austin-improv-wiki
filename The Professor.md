@@ -23,8 +23,8 @@ Its first full run was a six-week set of Friday shows at [[The Institution Theat
 At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 2013, [[Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613].  Ferstenfeld tried to bring more scene-painting into the show, and draw more influence from "classic" *Doctor Who*, from the years preceding Russell T Davies and Steven Moffat.  They have announced a third run of shows at [[The Institution Theater]] in November.
 
 ## Casts
-### "Season Zero" (Jun 2010)
-The first two test shows featured [[Jordan T. Maxwell]] as the First Professor.
+### "Season Zero"
+The first two test shows in June 2010 featured [[Jordan T. Maxwell]] as the First Professor.
 
 * [[Jordan T. Maxwell]]
 * [[Justin Davis]]
@@ -34,8 +34,8 @@ The first two test shows featured [[Jordan T. Maxwell]] as the First Professor.
 
 ([[Emily Breedlove]] rehearsed with the cast, but did not play in either show.)
 
-### Season One (Oct-Nov 2011)
-The first run of shows featured [[Michael Ferstenfeld]] and [[Andrew Pish]] as the Second and Third Professors.
+### Season One
+The first run of shows, from October to November of 2011, featured [[Michael Ferstenfeld]] and [[Andrew Pish]] as the Second and Third Professors.
 
 * [[Clay Towery]]
 * [[Colin Bates]]
@@ -46,8 +46,8 @@ The first run of shows featured [[Michael Ferstenfeld]] and [[Andrew Pish]] as t
 * [[Lindsey Reeves]]
 * [[Quinn Buckner]]
 
-### Season Two (Mar-Apr 2012)
-The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as the Fourth and Fifth Professors, with [[Michael Ferstenfeld]] also reprising his take on the role.
+### Season Two
+The second run of shows, from March to April of 2012, introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as the Fourth and Fifth Professors, with [[Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Clay Towery]]
 * [[Colin Bates]]
@@ -59,7 +59,9 @@ The second run of shows introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as
 * [[Quinn Buckner]]
 * [[Ryan Austin]]
 
-### Season Three (Nov 2012)
+### Season Three
+Season three will be at [[The Institution Theater]] in November 2012.
+
 * [[Aden Kirschner]]
 * [[Clay Towery]]
 * [[Emily Breedlove]]
