@@ -1,6 +1,6 @@
 **The 2013 Institution Theater Awards** were the first annual [[Institution Theater Awards]].
 
-![[TITie2013.jpg|Don't know yet.]]
+![[TITie2013.jpg|[[There's Waldo]] presents an award at The 2013 Institution Theater Awards.]]
 
 ## Summary
 The awards ceremony was held on 1/27/13.
