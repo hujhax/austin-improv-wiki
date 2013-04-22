@@ -9,5 +9,5 @@
 
 ## Shows
 * *[[Live TV Tuesdays -  Angel]]* (Spike/Framkin)
-* *[[Live TV Tuesdays -  Scrubs]]* (Dr. Cox)
+* *[[Live TV Tuesdays -  Scrubs]]* (Dr. Cox, co-director)
 * *[[Mason -  The Musical]]*
