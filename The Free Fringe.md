@@ -3,7 +3,7 @@
 ![[Free Fringe Poster.jpg|Publicity image for the Free Fringe.]]
 
 ## Summary
-The Free Fringe happens every Thursday at 10pm at the Hideout.  It is also free to attend, and features experimental and risky formats.
+The Free Fringe happens every Thursday at 10pm at the Hideout.  It is free to attend, and features experimental and risky formats.
 
 The show is concept-driven, rather than troupe-driven.  The Hideout accepts online submissions for show concepts, and picks several to showcase each week.
 
