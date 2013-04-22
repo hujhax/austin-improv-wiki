@@ -9,3 +9,4 @@
 
 ## Shows
 * *[[Live TV Tuesdays -  Angel]]* (Spike)
+* *[[Live TV Tuesdays -  Scrubs]]* (Dr. Cox)
