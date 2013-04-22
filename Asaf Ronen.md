@@ -1,3 +1,10 @@
+{{Infobox Performer
+|Name	=	Asaf Ronen	
+|Picture =	AsafRonen.jpg
+|Theater=	[[The Institution Theater]]
+|Years	=	2007-Present
+}}
+
 [[Category/Performers|Ronen]]
 [[Category/Directors|Ronen]]
 ASAF RONEN is the creator and Editor-in-Chief of YESand.com, a website devoted to improvisation, and is the author of Directing Improv: Show the Way By Getting Out of the Way. He has been involved in improv since 1990, starting in college and working with Theatresports, ComedySportz and directing his own longform improv troupe, Hiatus, where he helped create original formats.
