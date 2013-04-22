@@ -5,7 +5,7 @@
 |Years	=	2012-Present
 }}
 
-**Kevin Machate** is an improv performer who works primarily with the Institution Theater.
+**Kevin Machate** is an improv performer who works primarily with [[The Institution Theater]].
 
 ## Shows
 * *[[Live TV Tuesdays -  Angel]]* (Spike)
