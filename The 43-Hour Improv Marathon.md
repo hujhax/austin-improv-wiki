@@ -30,7 +30,7 @@
 * Saturday 8am: [[The Seven Eight Sevens]] 
 * Saturday 9am: [[Racket]]
 * Saturday 10am: [[What's the Story, Steve]]
-* Saturday 11am: [[The Institution Theatre]] presents the movie format
+* Saturday 11am: [[The Institution Theater]] presents the movie format
 * Saturday 12pm: [[The Amazon & The Milksop]] present improvised Tennessee Williams (by robots)
 * Saturday 1pm: *[[Cover to Cover]]*
 * Saturday 2pm: Free-form improv from the core cast.
