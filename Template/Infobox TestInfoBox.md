@@ -12,7 +12,7 @@ This template lists standard, useful information about an improv performer.
 
 
 ## Attributes
-{| class="wikitable" style="line-height:1.3em;"
+{| class="wikitable" "
 !style="background:gray; text-align:left;"| Parameter
 !style="background:gray; text-align:left;"| Explanation
 |-
@@ -32,7 +32,7 @@ This template lists standard, useful information about an improv performer.
 			<th colspan="2" >{{{Name|Performer Name}}}</th>
 		</tr>
 		<tr class="">
-			<td colspan="2" class="" style="text-align:center;">
+			<td colspan="2" class="" >
 				![[{{{Picture]]
 			</td>
 		</tr>
