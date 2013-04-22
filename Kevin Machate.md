@@ -8,6 +8,6 @@
 **Kevin Machate** is an improv performer who works primarily with [[The Institution Theater]].
 
 ## Shows
-* *[[Live TV Tuesdays -  Angel]]* (Spike)
+* *[[Live TV Tuesdays -  Angel]]* (Spike/Framkin)
 * *[[Live TV Tuesdays -  Scrubs]]* (Dr. Cox)
 * *[[Mason -  The Musical]]*
