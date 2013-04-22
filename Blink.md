@@ -6,7 +6,7 @@
 |Years	=		2009
 }}
 
-Blink was a troupe cast from one of the [[Merlin Works]] mixers.  It performed organic montage.
+**Blink** was a troupe cast from one of the [[Merlin Works]] mixers.  It performed organic montage.
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.422560852264.198004.588952264&type=1 Blink publicity photos (3/21/10)]
