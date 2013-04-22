@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=	The Better Half
+|Picture =      The Better Half.jpg
 |Cast	=	{{Unbulleted list | [[Ashley Lowe]] | [[Jo Maraschino]] | [[Regina Soto]] }}
 }}
 {{Stub}}
