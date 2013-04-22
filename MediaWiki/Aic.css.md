@@ -12,5 +12,5 @@ text-align: right;
 font-size: 100%;
 font-weight: bold;
 font-style: normal;
-border-right: 1px solid Red;
+padding-right: 10px;
 }
