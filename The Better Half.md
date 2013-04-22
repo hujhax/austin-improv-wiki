@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	The Better Half
-|Cast	=	{{Unbulleted list |[[Madeline Chauvin]] | [[Ashley Lowe]] | [[Regina Soto]] }}
+|Cast	=	{{Unbulleted list | [[Ashley Lowe]] | [[Jo Maraschino]] | [[Regina Soto]] }}
 }}
 {{Stub}}
 
