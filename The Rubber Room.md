@@ -17,3 +17,5 @@ After that, there is a 'lottery' -- each faculty member randomly selects an impr
 
 ## More Information
 * [http://www.theinstitutiontheater.com/shows/52 The show's web site.]
+
+[[Category/Jams and Mixers|Category:Jams and Mixers]]
