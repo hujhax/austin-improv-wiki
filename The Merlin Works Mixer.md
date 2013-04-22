@@ -17,3 +17,5 @@ Sometimes local improv directors scout for talent at the mixers, or announce pro
 From 2008 to 2012, the Merlin Works Mixers also served as auditions for [[Gnap!]]'s [[List of Austin Improv Shows#Mainstage Productions 2|mainstage shows]], which ran regularly at the [[Salvage Vanguard Theater]].
 
 They went on hiatus through late 2012 and early 2013, as [[Merlin Works]] completed its move to [[ZACH Theater]].
+
+[[Category/Mixers & Jams|Category:Mixers & Jams]]
