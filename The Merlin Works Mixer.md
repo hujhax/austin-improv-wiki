@@ -1,5 +1,7 @@
 **The Merlin Works Mixer** is a recurring improv mixer put on by [[The Merlin Works Institute for Improvisation]].
 
+![[Merlin Works Mixer.jpg|Attendees perform a scene at a Merlin Works Mixer.]]
+
 ## Summary
 Merlin Works mixers are open to all improvisors in the community.  Most of the advertising for the mixers is through Merlin Works, so attendance is very Merlin-Works-student-heavy.
 
