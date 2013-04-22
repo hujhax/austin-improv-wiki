@@ -77,4 +77,5 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [http://www.facebook.com/media/set/?set=a.524634750933379.1073741856.221927764537414&type=1 Photoset] by [[Steve Rogers]].
 
 ## More Information
+* [http://forum.austinimprov.com/viewtopic.php?f=4&t=4898&p=41024 The 2007 'format manifesto' for an improvised pulp show] by [[Jordan T. Maxwell]].
 * [http://www.hideouttheatre.com/ryan-austin-vs-the-perils-of-pulp "Ryan Austin Vs. The Perils of Pulp"]: a post from [[Ryan Austin]] about the rehearsal process.
