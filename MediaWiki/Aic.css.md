@@ -14,3 +14,7 @@ font-weight: bold;
 font-style: normal;
 padding-right: 10px;
 }
+
+table.infobox img.thumborder {
+text-align: center;
+}
