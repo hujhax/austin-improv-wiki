@@ -8,7 +8,7 @@ The game originated in a facebook discussion on January 9th, 2012 about setting 
 [[Brad Hawkins]] then jokingly wrote out a walk-through of a (nonexistent) text-adventure game set at the Hideout, and [[Peter Rogers]] ran with the idea, quickly coding up more and more complicated iterations of a Hideout-themed game in [[Wikipedia - Inform 7#Inform 7|Inform 7]].  Eventually, Peter met with [[Kevin Miller]] and [[Marc Majcher]] to plan out the rest of the game, and quickly completed the code on his own on January 21st.
 
 ## Gameplay
-As with most interactive fiction games, the player interacts with the game engine via text -- the player reads prose descriptions of places, items, and events, and types text commands such as "CLIMB THE STAIRS", "PICK UP THE TICKET", or "TALK TO [[Kareem Badr|KAREEM]]".  The game is based around a fairly simple storyline: the beloved skull-on-a-stick prop has gone missing at the Hideout, and it's up to you to find it.
+As with most interactive fiction games, the player interacts with the game engine via text -- the player reads prose descriptions of places, items, and events, and types text commands such as "CLIMB THE STAIRS", "PICK UP THE TICKET", or "TALK TO [[Kareem Badr|KAREEM]]".  The game is based around a fairly simple storyline: a beloved skull-on-a-stick prop has gone missing at the Hideout, and it's up to you to find it.
 
 ## More Information
 * [http://www.facebook.com/roydanger/posts/10101478959545090 The facebook discussion that prompted the game.]
