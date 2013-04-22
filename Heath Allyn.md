@@ -12,6 +12,8 @@ An actor and musician since around 1981, improvisation has always been present i
 
 He exists in a strange limbo in the AIC in that he is somewhat known for his improvisational skills in the film community, but is known more as an actor and musician in the AIC.
 
+It is posited (but as of yet, scientifically unproven) that Heath is cool as hell like email, but still timeless like a letter.
+
 ## Shows
 * *[[Joss Whedon Pajama Party]]*
 * *[[Live TV Tuesdays -  Angel]]*
