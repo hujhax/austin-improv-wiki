@@ -9,5 +9,5 @@
 
 ## Shows
 * *[[Live TV Tuesdays -  Angel]]* (Spike)
-* *[[Mason -  The Musical]]*
 * *[[Live TV Tuesdays -  Scrubs]]* (Dr. Cox)
+* *[[Mason -  The Musical]]*
