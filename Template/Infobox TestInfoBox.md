@@ -27,9 +27,9 @@ This template lists standard, useful information about an improv performer.
 </noinclude>
 
 <div>
-	<table class="infobox" style="background-color: #fee8d6;">
+	<table class="infobox">
 		<tr>
-			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Performer Name}}}</th>
+			<th colspan="2" >{{{Name|Performer Name}}}</th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" style="text-align:center;">
@@ -37,11 +37,11 @@ This template lists standard, useful information about an improv performer.
 			</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Primary Theater</th>
+			<th scope="row">Primary Theater</th>
 			<td class="category">{{{Theater|None}}}</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Years Active</th>
+			<th scope="row" s>Years Active</th>
 			<td class="category">{{{Years|Unknown}}}</td>
 		</tr>
 	</table>
