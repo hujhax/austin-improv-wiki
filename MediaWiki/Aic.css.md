@@ -17,4 +17,6 @@ padding-right: 10px;
 
 table.infobox img.thumborder {
 text-align: center;
+display: block;
+margin: 0 auto;
 }
