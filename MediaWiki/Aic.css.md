@@ -15,7 +15,7 @@ font-style: normal;
 padding-right: 10px;
 }
 
-table.infobox img.thumborder {
+table.infobox img.thumbborder {
 text-align: center;
 display: block;
 margin: 0 auto;
