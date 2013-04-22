@@ -1,3 +1,1 @@
-p {
-color: Magenta;
-}
+/* CSS in this file will only apply to the AIC theme. */
