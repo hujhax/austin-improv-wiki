@@ -1,4 +1,4 @@
-**Showdown – First Episode: "Pilot"** refers to the first performance of *[[Showdown]]*, which was improvised on 3/25/11.
+***Showdown* – First Episode: "Pilot"** refers to the first performance of *[[Showdown]]*, which was improvised on 3/25/11.
 
 ## Episode Summary
 * Saloon owner Clement Merseault and his madame Fancy discuss the troublesome affair of whore Clarinda trying to hide her pregnancy. Clement decides to send Clarinda to Jonathan Peterson, the town’s dentist and partner in Clement’s shadier dealings, to get a draught in order to lose the child.
