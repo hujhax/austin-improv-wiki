@@ -47,3 +47,6 @@ th.category-header {
 .infobox-troupe {
         background-color: #fdd;
 }
+.infobox-performer {
+	background-color: #fee8d6;
+}
