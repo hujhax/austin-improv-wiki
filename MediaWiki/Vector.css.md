@@ -10,7 +10,7 @@
 	margin: 0.5em 0px 0.5em 1em;
 	padding: 0.2em;
 	text-align: left;
-	width: 200px
+	width: 200px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 	border-radius: 10px;
@@ -52,4 +52,8 @@ th.category-header {
 }
 .infobox-show {
         background-color: #dff;
+}
+infobox-theater {
+        background-color: #ddf5eb;
+        width: 300px;
 }
