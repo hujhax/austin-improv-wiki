@@ -22,9 +22,9 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 * Doc Parish, George, Jebidiah, Jacob -- [[Jason Vines]]
 * Sheriff Robert Solomon -- [[Jericho Thorp]]
 * Hank -- [[Jesse Bertron]]
-* Zeke Preston, Caleb Forsythe, Sam Houston -- [[Jordan T. Maxwell]]
+* Zeke Preston, Caleb Forsythe, Sam Houston, Reverend -- [[Jordan T. Maxwell]]
 * Fancy -- [[Julie Gillis]]
-* Clarinda -- [[Katie Van Winkle]]
+* Clarinda, Marquesa -- [[Katie Van Winkle]]
 * Elisabeth Peterson -- [[Liz Brammer]]
 * Celia, Delilah Prudence -- [[Shana Merlin]]
 
