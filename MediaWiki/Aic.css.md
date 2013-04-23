@@ -7,7 +7,8 @@ font-weight: bold;
 font-style: italic;
 }
 
-table.infobox th[scope=row] {
+table.infobox th.category-header {
+vertical-align: top;
 text-align: right;
 font-size: 100%;
 font-weight: bold;
