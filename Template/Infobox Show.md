@@ -59,7 +59,7 @@ This template lists standard, useful information about an improv show.
 		</tr>
 {{#if: {{{Theater|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Theater</th>
+			<th scope="row" class="category-header">Theater</th>
 			<td class="category">{{{Theater|Unknown}}}</td>
 		</tr>
 |}}
