@@ -57,4 +57,4 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 * Sixth episode:
 ** [http://www.facebook.com/media/set/?set=a.116459398435092.23584.100002130980897 Photoset] from [[Steve Rogers]].
 
-(This was the first improv show shot by photographer [[Steve Rogers]].)
+(This was the first improv show where [[Steve Rogers]] did primary photography.)
