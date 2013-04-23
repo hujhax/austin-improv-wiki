@@ -48,12 +48,12 @@ This template lists standard, useful information about an improv show.
 </noinclude>
 
 <div>
-	<table class="infobox" style="background-color: #dff">
+	<table class="infobox" class="infobox-show" style="background-color: #dff">
 		<tr>
-			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Show Name}}}</th>
+			<th colspan="2" class="infobox-header">{{{Name|Show Name}}}</th>
 		</tr>
 		<tr class="">
-			<td colspan="2" class="" style="text-align:center;">
+			<td colspan="2" class="infobox-picture">
 				![[{{{Picture]]
 			</td>
 		</tr>
@@ -64,45 +64,45 @@ This template lists standard, useful information about an improv show.
 		</tr>
 |}}
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Directed by</th>
+			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">{{{Director|Unknown}}}</td>
 		</tr>
 {{#if: {{{Assistant Director|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Assistant Director(s)</th>
+			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category">{{{Assistant Director|Unknown}}}</td>
 		</tr>
 |}}
 {{#if: {{{Producer|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Produced by</th>
+			<th scope="row" class="category-header">Produced by</th>
 			<td class="category">{{{Producer|Unknown}}}</td>
 		</tr>
 |}}
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Initial Run</th>
+			<th scope="row" class="category-header">Initial Run</th>
 			<td class="category">{{{Run|Unknown}}}</td>
 		</tr>
 {{#if: {{{Subsequent Runs|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Subsequent Run(s)</th>
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category">{{{Subsequent Runs|Unknown}}}</td>
 		</tr>
 |}}
 {{#if: {{{Tech|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Crew</th>
+			<th scope="row" class="category-header">Crew</th>
 			<td class="category">{{{Tech|Unknown}}}</td>
 		</tr>
 |}}
 {{#if: {{{Music|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Music By</th>
+			<th scope="row" class="category-header">Music By</th>
 			<td class="category">{{{Music|Unknown}}}</td>
 		</tr>
 |}}
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
+			<th scope="row" class="category-header">Cast</th>
 			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
 	</table>
