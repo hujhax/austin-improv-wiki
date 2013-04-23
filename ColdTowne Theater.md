@@ -11,3 +11,7 @@
 ## History
 The theater was founded by the troupe [[ColdTowne (troupe)|ColdTowne]] after they were displaced from New Orleans by [http://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina].
 Later, Coldtowne Theater was featured in The Huffington Post. <ref>http://www.huffingtonpost.com/2013/04/23/drunk-heckler-apologizes-_n_3137841.html?utm_hp_ref=comedy</ref>
+
+
+## Notes
+<references/>
