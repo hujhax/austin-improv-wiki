@@ -21,7 +21,7 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[Cereal for Adults]]*
 * *[[After School Special Victims Unit]]*
 
-## Gnap! Theater Projects
+## Salvage Vanguard Theater
 ### Ongoing Shows
 * *[[The Derby]]*
 * *[[The Saturday Night Special]]*
