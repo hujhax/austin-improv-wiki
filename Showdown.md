@@ -45,14 +45,14 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 
 ## Media
 * First episode:
-** [https://www.facebook.com/media/set/?set=a.113015822112783.21301.100002130980897 Photoset] from [[Steve Rogers]].
+** [http://www.facebook.com/media/set/?set=a.113015822112783.21301.100002130980897 Photoset] from [[Steve Rogers]].
 * Second episode:
 ** [http://www.facebook.com/media/set/?set=a.113249208756111.21493.100002130980897 Photoset] from [[Steve Rogers]].
 * Third episode:
-** [https://www.facebook.com/media/set/?set=a.114568441957521.22414.100002130980897] from [[Steve Rogers]].
+** [http://www.facebook.com/media/set/?set=a.114568441957521.22414.100002130980897 Photoset] from [[Steve Rogers]].
 * Fourth episode:
-** [https://www.facebook.com/media/set/?set=a.114797541934611.22578.100002130980897 Photoset] from [[Steve Rogers]].
+** [http://www.facebook.com/media/set/?set=a.114797541934611.22578.100002130980897 Photoset] from [[Steve Rogers]].
 * Fifth episode:
-** [https://www.facebook.com/media/set/?set=a.116085848472447.23349.100002130980897 Photoset] from [[Steve Rogers]].
+** [http://www.facebook.com/media/set/?set=a.116085848472447.23349.100002130980897 Photoset] from [[Steve Rogers]].
 * Sixth episode:
-** [https://www.facebook.com/media/set/?set=a.116459398435092.23584.100002130980897 Photoset] from [[Steve Rogers]].
+** [http://www.facebook.com/media/set/?set=a.116459398435092.23584.100002130980897 Photoset] from [[Steve Rogers]].
