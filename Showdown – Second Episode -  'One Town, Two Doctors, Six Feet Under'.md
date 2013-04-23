@@ -1,4 +1,4 @@
-**Showdown – Second Episode: "One Town, Two Doctors, Six Feet Under"** refers to the second performance of *[[Showdown]]*, which was improvised on 3/26/11.
+***Showdown* – Second Episode: "One Town, Two Doctors, Six Feet Under"** refers to the second performance of *[[Showdown]]*, which was improvised on 3/26/11.
 
 ## Episode Summary
 * Sheriff Robert Solomon is unswayed by his former friend Zeke Preston’s explanation and arrests him for the murder of Doc Peterson.
