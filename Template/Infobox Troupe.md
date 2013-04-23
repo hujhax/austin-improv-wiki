@@ -27,7 +27,7 @@ This template lists standard, useful information about an improv troupe.
 </noinclude>
 
 <div>
-	<table class="infobox" style="background-color: #fdd">
+	<table class="infobox infobox-troupe">
 		<tr>
 			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Troupe Name}}}</th>
 		</tr>
