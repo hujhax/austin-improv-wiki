@@ -1,4 +1,4 @@
-**Showdown – Fourth Episode: "Trial and Error"** refers to the fourth performance of *[[Showdown]]*, which was improvised on 4/2/11.
+***Showdown* – Fourth Episode: "Trial and Error"** refers to the fourth performance of *[[Showdown]]*, which was improvised on 4/2/11.
 
 ## Episode Summary
 * Clarinda is in bad shape after the beating she got from Celia and fears for the life of her child.
