@@ -10,18 +10,22 @@
 
 *Steam* (full title: *Steam, Rose-Colored Goggles, and the Flight of the Victoriana*) was a serialized narrative longform show that had set characters from week to week and took place in a steampunk-inspired universe.  Several cast members in *Steam* specialized in sceneography, scene-painting, and the use of abstract props to fill out the world of the Victoriana.
 
+Like *[[Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" telling a complete ten-part story. The primary cast members maintained the same characters throughout the run, 
+
 
 ## Cast
-*[[Audrey Rachel Sansom]] as The Wild Heart
-*[[Julie Gillis]] as The Duchess
-*[[Emily Breedlove]] as The Amazon
-*[[Elizabeth Brammer]] as The Ingenue
-*[[Gricelda Silva]] as The Pixie
-*[[Aaron Walther]] as The Rogue
-*[[Brady James]] as The Young Adventurer
-*[[Marc Majcher]] as The Veteran
-*[[Jeff Mills]] as The Reluctant Hero
-*[[Kevin Miller]] as The Engineer
+*[[Audrey Rachel Sansom]] as "The Wild Heart," Wilhemina Wyldeheart 
+*[[Julie Gillis]] as "The Duchess," Lady Electra Spencer
+*[[Emily Breedlove]] as "The Amazon," Yvette Cloud
+*[[Elizabeth Brammer]] as "The Ingenue," Adelaide McKenna
+*[[Gricelda Silva]] as "The Pixie," Leto
+*[[Aaron Walther]] as "The Rogue," Captain Hamwich Leon
+*[[Brady James]] as "The Young Adventurer," Benjamin Cumberbatch
+*[[Marc Majcher]] as "The Veteran," Colonel Solomon Fitzgerald
+*[[Jeff Mills]] as "The Reluctant Hero," Barnaby Jones
+*[[Kevin Miller]] as "The Engineer," Joshua Mew
+
+### "The Machine" (supporting cast)
 *[[Ashlee Medlin]] as Bolt
 *[[Howard Katz]] as Gear Shift
 *[[Joel Osborne]] as Leather Strap
