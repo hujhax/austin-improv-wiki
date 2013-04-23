@@ -5,7 +5,7 @@
 |Years	=		2012-Present
 }}
 
-**Brain Trust** is an improv troupe.
+**Brain Trust** (often written all-caps: "BRAIN TRUST") is an improv troupe.
 
 ## Media
 * [http://www.viddler.com/v/aa9dee6b Video of their 9/28/12 show: "Railroad".]
