@@ -31,25 +31,25 @@ This template lists standard, useful information about an improv theater.
 </noinclude>
 
 <div>
-	<table class="infobox" style="background-color: #ddf5eb; width: 300px;">
+	<table class="infobox infobox-theater">
 		<tr>
-			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Theater Name}}}</th>
+			<th colspan="2" class="infobox-header">{{{Name|Theater Name}}}</th>
 		</tr>
 		<tr class="">
-			<td colspan="2" class="" style="text-align:center;">
+			<td colspan="2" class="infobox-picture">
 				![[{{{Picture]]
 			</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left;">Address</th>
+			<th scope="row" class="category-header">Address</th>
 			<td class="category">{{{Address|Theater Address}}}</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left;">Homepage</th>
+			<th scope="row" class="category-header">Homepage</th>
 			<td class="category">{{{Homepage|Theater Homepage URL}}}</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left;">Years of Operation</th>
+			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category">{{{Years|Years of Operation}}}</td>
 		</tr>
 	</table>
