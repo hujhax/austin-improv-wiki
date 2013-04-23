@@ -1,4 +1,4 @@
-**Showdown – Third Episode: "Texas, My Texas"** refers to the third performance of *[[Showdown]]*, which was improvised on 4/1/11.
+***Showdown* – Third Episode: "Texas, My Texas"** refers to the third performance of *[[Showdown]]*, which was improvised on 4/1/11.
 
 ## Episode Summary
 * Delilah is unimpressed by the dilapidated headquarters that Hank has secured for the Houston campaign. Texas Ranger Caleb Forsythe makes his introduction as the head of security for the campaign speeches.
