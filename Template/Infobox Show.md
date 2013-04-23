@@ -48,7 +48,7 @@ This template lists standard, useful information about an improv show.
 </noinclude>
 
 <div>
-	<table class="infobox" class="infobox-show" style="background-color: #dff">
+	<table class="infobox infobox-show" style="background-color: #dff">
 		<tr>
 			<th colspan="2" class="infobox-header">{{{Name|Show Name}}}</th>
 		</tr>
