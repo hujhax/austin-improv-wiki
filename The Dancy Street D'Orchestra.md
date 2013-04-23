@@ -42,3 +42,6 @@ After the troupe was dissolved, [[Susannah Raulino]], [[Topping Haggerty]], and 
 ** [http://vimeo.com/22143713 Video] by [[Peter Rogers]].
 * 9/1/11 performance at [[The Hideout Theatre]]:
 ** [http://vimeo.com/28875521 Video] by [[Peter Rogers]].
+
+## More Information
+* [http://dancy.austinimprov.co The troupe's web site.]
