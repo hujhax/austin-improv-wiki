@@ -1,4 +1,4 @@
-**Showdown – Fifth Episode: "The End Is Near"** refers to the fifth performance of *[[Showdown]]*, which was improvised on 4/8/11.
+***Showdown* – Fifth Episode: "The End Is Near"** refers to the fifth performance of *[[Showdown]]*, which was improvised on 4/8/11.
 
 ## Episode Summary
 * The minister is called to attend to Clement’s injury, but professes his limited knowledge of injuries.
