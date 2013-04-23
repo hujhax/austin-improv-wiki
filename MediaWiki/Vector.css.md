@@ -53,7 +53,7 @@ th.category-header {
 .infobox-show {
         background-color: #dff;
 }
-infobox-theater {
+.infobox-theater {
         background-color: #ddf5eb;
         width: 300px;
 }
