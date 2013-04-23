@@ -7,6 +7,9 @@
 
 **The Dancy Street D'Orchestra** was a narrative musical improv troupe that formed from students of [[Shana Merlin|Shana Merlin's]] first improvised-singing classes.
 
+## Summary
+The troupe included musicians [[David Rosenbaum]] (on guitar) and [[Chelsea Gilman]] (on drums).
+
 ## History
 The troupe was founded in 2010 by [[Susannah Raulino]] and [[Amy Averett]], and disbanded after their [[Out of Bounds]] performance in 2011.
 
