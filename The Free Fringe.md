@@ -1,6 +1,13 @@
-**The Free Fringe** is a performance slot at [[The Hideout Theatre]].
+{{Infobox Show
+  |Name     = The Free Fringe
+  |Director = Various
+  |Theater  = [[The Hideout Theatre]]
+  |Cast     = Various
+  |Picture  = Free Fringe Poster.jpg
+  |Run    = 2012-Present
+}}
 
-![[Free Fringe Poster.jpg|Publicity image for the Free Fringe.]]
+**The Free Fringe** is a performance slot at [[The Hideout Theatre]].
 
 ## Summary
 The Free Fringe happens every Thursday at 10pm at the Hideout.  It is free to attend, and features experimental and risky formats.
