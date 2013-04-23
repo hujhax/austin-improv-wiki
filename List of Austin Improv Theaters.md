@@ -8,4 +8,4 @@ Prior to 2013, [[Gnap! Theater Projects]] produced improv shows at [[Salvage Van
 
 The [[Merlin Works Institute for Improvisation]] also teaches classes and produces shows at the [[ZACH theater]].
 
-[[The Lair]] was an improv theater in Round Rock opened and closed in 2010.
+[[The Lair]] was an improv theater in Round Rock that opened and closed in 2010.
