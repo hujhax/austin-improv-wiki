@@ -21,3 +21,7 @@ text-align: center;
 display: block;
 margin: 0 auto;
 }
+
+.infobox-theater {
+width: 300px;
+}
