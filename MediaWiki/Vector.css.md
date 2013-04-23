@@ -28,3 +28,7 @@
 .plainlist ul li { 
 	margin-bottom: 0px;
 }
+
+.infobox-troupe {
+        background-color: #fdd;
+}
