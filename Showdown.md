@@ -17,15 +17,15 @@ The show was set in the fictional town of Showdown in the Republic of Texas in t
 Its story was characterized by brutal violence, civic instability, and near-constant tension.
 
 ## Cast
-* Tobias, Sam Johnson -- [[Andreas Fabis]]
+* Tobias, Sam Johnson, Jonathan Peterson -- [[Andreas Fabis]]
 * Clement Merseault -- [[Clay Towery]]
 * Doc Parish, George, Jebidiah, Jacob -- [[Jason Vines]]
-* Sheriff Robert Solomon -- [[Jericho Thorp]]
-* Hank -- [[Jesse Bertron]]
+* Sheriff Robert Solomon, Bertram -- [[Jericho Thorp]]
+* Hank, Judge Thomas Clancy -- [[Jesse Bertron]]
 * Zeke Preston, Caleb Forsythe, Sam Houston, Reverend -- [[Jordan T. Maxwell]]
-* Fancy -- [[Julie Gillis]]
-* Clarinda, Marquesa -- [[Katie Van Winkle]]
-* Elisabeth Peterson -- [[Liz Brammer]]
+* Fancy, Miss Jessie -- [[Julie Gillis]]
+* Clarinda, Marquesa/Adelaide -- [[Katie Van Winkle]]
+* Elisabeth Peterson, Johnny Matthews, Angelica -- [[Liz Brammer]]
 * Celia, Delilah Prudence -- [[Shana Merlin]]
 
 ## Crew
