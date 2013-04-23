@@ -5,7 +5,7 @@
 |Years	=	1998-Present
 }}
 
-Jordan T. Maxwell is an improv performer and director.
+**Jordan T. Maxwell** is an improv performer and director.
 
 ## History
 Jordan was also a regular on the Hulu original series *[http://en.wikipedia.org/wiki/Battleground_(TV_series) Battleground]*
