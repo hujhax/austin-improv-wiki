@@ -9,7 +9,7 @@
 |Run	=	Mar/Apr 2011
 }}
 
-**Showdown** was a serialized narrative longform Western that ran as a mainstage show at [[Salvage Vanguard Theater]].
+***Showdown*** was a serialized narrative longform Western that ran as a mainstage show at [[Salvage Vanguard Theater]].
 
 The show was set in the fictional town of Showdown in the Republic of Texas in the early 19<sup>th</sup> century.
 
