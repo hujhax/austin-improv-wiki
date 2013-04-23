@@ -29,6 +29,21 @@
 	margin-bottom: 0px;
 }
 
+table.infobox th.infobox-header {
+	text-align: center; 
+	font-size: 125%; 
+	font-weight: bold; 
+	font-style: italic;
+}
+td.infobox-picture {
+	text-align: center;
+}
+
+th.category-header {
+	text-align:left; 
+	vertical-align: top;
+}
+
 .infobox-troupe {
         background-color: #fdd;
 }
