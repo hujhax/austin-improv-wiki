@@ -19,10 +19,10 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 ## Cast
 * Tobias, Sam Johnson -- [[Andreas Fabis]]
 * Clement Merseault -- [[Clay Towery]]
-* Doc Parish, George, Jebidiah -- [[Jason Vines]]
+* Doc Parish, George, Jebidiah, Jacob -- [[Jason Vines]]
 * Sheriff Robert Solomon -- [[Jericho Thorp]]
 * Hank -- [[Jesse Bertron]]
-* Zeke Preston, Caleb Forsythe -- [[Jordan T. Maxwell]]
+* Zeke Preston, Caleb Forsythe, Sam Houston -- [[Jordan T. Maxwell]]
 * Fancy -- [[Julie Gillis]]
 * Clarinda -- [[Katie Van Winkle]]
 * Elisabeth Peterson -- [[Liz Brammer]]
