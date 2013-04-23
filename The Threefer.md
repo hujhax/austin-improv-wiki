@@ -1,6 +1,13 @@
-**The Threefer** (AKA "The Thursday Threefer") is a performance slot at [[The Hideout Theatre]].
+{{Infobox Show
+  |Name     = The Threefer
+  |Director = Various
+  |Theater  = [[The Hideout Theatre]]
+  |Cast     = Various
+  |Picture  = Threefer Publicity.jpg
+  |Run    = 2005-Present
+}}
 
-![[Threefer Publicity.jpg|Publicity image for the Threefer.]]
+**The Threefer** (AKA "The Thursday Threefer") is a performance slot at [[The Hideout Theatre]].
 
 ## Summary
 The Threefer happens every Thursday at 8pm at [[The Hideout]].  As the name implies, it's a triple bill, with three improv acts.  The first two slots are typically twenty-five to thirty minutes, and the third act is thirty to thirty-five minutes.  The first two acts vary from week to week, but the third act is a headliner act -- each headliner gets a monthlong run of Threefer shows.
