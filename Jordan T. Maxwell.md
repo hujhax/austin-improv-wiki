@@ -31,7 +31,7 @@ His written stage works include *Icons: a pop fantasy* and *The Appointment.*  H
 * *[[Austin Secrets]]*
 * *[[Fandom]]*
 * *[[Live Nude Improv]]*
-* *[[Live TV Tuesdays -  Buffy]] the Vampire Slayer* (director)
+* *[[Live TV Tuesdays -  Buffy|Live TV Tuesdays: Buffy the Vampire Slayer]]* (director)
 * *[[Pocketful of Posies]]*
 * *[[Process]]*
 * *[[Rock]]*
