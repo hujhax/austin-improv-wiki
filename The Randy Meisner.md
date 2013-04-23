@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		The Randy Meisner
+|Picture = The Randy Meisner.jpg
 |Cast	=	{{Unbulleted list|[[Kareem Badr]]|[[Jon Bolden]]|[[David Hess]]|[[John Ratliff]]}}
 |Years	=		2010-Present
 }}
