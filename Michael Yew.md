@@ -3,3 +3,4 @@
 Michael is also a technical improvisor for mainstage shows such as *[[Strange Worlds]]*.
 
 [[Category/Photographers|Yew]]
+[[Category/Techs|Yew]]
