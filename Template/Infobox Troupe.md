@@ -29,25 +29,25 @@ This template lists standard, useful information about an improv troupe.
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
-			<th colspan="2" style="text-align:center; font-size:125%; font-weight:bold; font-style: italic;">{{{Name|Troupe Name}}}</th>
+			<th class="infobox-header" colspan="2">{{{Name|Troupe Name}}}</th>
 		</tr>
 		<tr class="">
-			<td colspan="2" class="" style="text-align:center;">
+			<td colspan="2" class="infobox-picture">
 				![[{{{Picture]]
 			</td>
 		</tr>
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Years Active</th>
+			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">{{{Years|Unknown}}}</td>
 		</tr>
 {{#if: {{{Director|}}} |
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Directed by</th>
+			<th class="category-header" scope="row">Directed by</th>
 			<td class="category">{{{Director|Unknown}}}</td>
 		</tr>
 |}}
 		<tr class="">
-			<th scope="row" style="text-align:left; vertical-align: top;">Cast</th>
+			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
 	</table>
