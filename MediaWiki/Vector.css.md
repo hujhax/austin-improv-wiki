@@ -50,3 +50,6 @@ th.category-header {
 .infobox-performer {
 	background-color: #fee8d6;
 }
+.infobox-show {
+        background-color: #dff;
+}
