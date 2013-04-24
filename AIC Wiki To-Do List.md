@@ -14,7 +14,7 @@
 This section is for the most significant missing content on the site.
 
 * Fill out remaining [[Live TV Tuesdays]] shows.
-* Also, picking off all the Hideout "slot shows" ([[The Weekender]], [[The Double Barrel]], [[The Spectacle]]) should be pretty easy.
+* Pages for [[The Double Barrel]], [[Dubbed Indemnity]], [[The Lottery]], [[The Nightmare Video Project]].
 * Make pages for other festivals.
 * Get the history of the Hideout on to its page.
 * Finish out pages for the Hideout mainstage shows.
