@@ -5,7 +5,7 @@ __NOINDEX__
 |Picture=	Live Nude Improv Performance.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Andy Crouch]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Andy Crouch]] | [[Brett Tribe]] | [[Pseudonyms|Dana]] | [[Jessica Arjet]] | [[Pseudonyms|Katie]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Pseudonyms|Ruby]] }}
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Andy Crouch]] | [[Brett Tribe]] | [[Pseudonyms|Dana]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Pseudonyms|Katie]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Pseudonyms|Ruby]] }}
 |Music	=	[[Bradley Dean Whyte]]
 |Run	=	Jul/Aug 2011
 }}
@@ -41,7 +41,7 @@ The director would finish the show, announcing to the audience that they'd had a
 ## History
 [[Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of [[Wikipedia - Dionysus in '69 (theatrical production)|*Dionysus in '69*]] by the [[Wikipedia - Rude Mechanicals (theater company)|Rude Mechanicals]].  He was inspired to make something equally transgressive and raw in the world of improv.
 
-Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Peter Rogers]] was the first of the cast to get completely naked onstage for the production.
+Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Peter Rogers]] was the first of the cast to get completely naked onstage for the production, with [[Jordan T. Maxwell]] following soon after.
 
 The mainstage show ran through July and August in 2011, selling out often weeks in advance, and breaking all prior Hideout records for early sales.
 
@@ -61,7 +61,7 @@ After the end of its run, *Live Nude Improv* discussed doing subsequent runs, bu
 ## More Information
 * [http://www.hideouttheatre.com/shows/livenudeimprov The show's web site.]
 * [http://www.hideouttheatre.com/thoughts-on-live-nude-improv "Thoughts on Live Nude Improv"]: a blog post interviewing the cats on why they chose to participate in *Live Nude Improv*.
-* [http://www.hideouttheatre.com/blog/page/20 "Nude Rangers: Assemble!"]: a blog post about the cast.
+* [http://www.hideouttheatre.com/blog/page/20 "Nude Rangers: Assemble!"]: a blog post from [[Jordan T. Maxwell]] about the cast.
 * [http://www.austinchronicle.com/blogs/arts/2011-08-11/live-nude-improv/ An article from *The Austin Chronicle* about the show.]
 * [http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1261035 The "Best of Austin" award for the show.]
 * [http://theflintpodcast.com/2012/02/20/ep-17-live-nude-improv-with-andy-crouch/ An interview with Andy Crouch about the show.]
