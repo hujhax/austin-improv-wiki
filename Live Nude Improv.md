@@ -38,6 +38,15 @@ Finally, before the last stretch of the show, the director would announce we wou
 
 The director would finish the show, announcing to the audience that they'd had a great, productive rehearsal, and the show would open next week (with one last wink and nod that no, it really wouldn't).
 
+## History
+[[Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of *Dionysus in '69* by the Rude Mechanicals.  He was inspired to make something equally transgressive and raw in the world of improv.
+
+Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Peter Rogers]] was the first of the cast to get completely naked onstage for the production.
+
+The mainstage show ran through July and August in 2011, selling out often weeks in advance, and breaking all prior Hideout records for early sales.
+
+After the end of its run, *Live Nude Improv* discussed doing subsequent runs, but only ever did a few festival appearances, such as the 2012 Philadelphia Improv Festival.
+
 ## The Fake Plays of Live Nude Improv
 * 7/9/11:  "Whatever You Like".  A riff on Shakespearean comedy in which a young couple vacations on a tropical island, and quickly becomes ensared in a case of mistaken identity involving ancient island rituals.
 * 7/16/11: unknown
@@ -47,15 +56,6 @@ The director would finish the show, announcing to the audience that they'd had a
 * 8/13/11: unknown
 * 8/20/11: "The Caterpillar Detective" A noirish detective story in which all the characters were insects.
 * 8/27/11: unknown
-
-## History
-[[Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of *Dionysus in '69* by the Rude Mechanicals.  He was inspired to make something equally transgressive and raw in the world of improv.
-
-Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Peter Rogers]] was the first of the cast to get completely naked onstage for the production.
-
-The mainstage show ran through July and August in 2011, selling out often weeks in advance, and breaking all prior Hideout records for early sales.
-
-After the end of its run, *Live Nude Improv* discussed doing subsequent runs, but only ever did a few festival appearances, such as the 2012 Philadelphia Improv Festival.
 
 ## Media
 ## More Information
