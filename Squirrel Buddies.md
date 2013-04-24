@@ -4,13 +4,13 @@
 |Cast	=	{{Unbulleted list|[[Jon Bolden]]|[[Roy Janik]]}}
 
 
-|Years	=		2012-Present
+|Years	=		2010-Present
 }}
 
 **Squirrel Buddies** is an improv duo that focuses on positivity.
 
 ## History
-Squirrel Buddies plan to attend the Alaska Improv Festival in 2013.
+Squirrel Buddies attended the Alaska Improv Festival in 2013.
 
 ## More Information
 * [http://www.squirrelbuddies.com The Squirrel Buddies home page.]
