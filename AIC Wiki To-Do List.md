@@ -13,9 +13,8 @@
 ## Content
 This section is for the most significant missing content on the site.
 
-* I really want to pick off a TV Tuesdays section.
-* Also, picking off all the Hideout "slot shows" ([[The Threefer]], [[The Weekender]], [[The Double Barrel]], [[The Free Fringe]], [[The Spectacle]]) should be pretty easy.
-** (We've already got [[The Wheel]] taken care of.)
+* Fill out remaining [[Live TV Tuesdays]] shows.
+* Also, picking off all the Hideout "slot shows" ([[The Weekender]], [[The Double Barrel]], [[The Spectacle]]) should be pretty easy.
 * Make pages for other festivals.
 * Get the history of the Hideout on to its page.
 * Finish out pages for the Hideout mainstage shows.
