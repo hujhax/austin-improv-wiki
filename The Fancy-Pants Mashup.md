@@ -15,7 +15,7 @@ It currently is cast and directed by [[Ryan Austin]].
 17 - 21 improvisors are cast each month and put their names in a hat. The host/director draws out two names at a time and those players do whatever they want. It can be a scene/game or something they make up.
 
 ## History
-The show began under the direction of [[Jon Bolden]] before it was passed down to [[Jordan T. Maxwell]]. Afterwards, it passed to [[Ruby Willmann]] who frequently sold out shows of Fancy Pants. Now, it is currently run by [[Ryan Austin]].
+The show began under the direction of [[Jon Bolden]] before it was passed down to [[Jordan T. Maxwell]], [[Ruby Willmann]], and then [[Ryan Austin]].
 
 ## Media
 * [http://vimeo.com/23484902 Video of 5/6/11 performance.]
