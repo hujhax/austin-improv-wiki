@@ -5,7 +5,7 @@ __NOINDEX__
 |Picture=	Live Nude Improv Performance.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Andy Crouch]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Andy Crouch]] | [[Brett Tribe]] | [[Pseudonyms|Dana]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Pseudonyms|Katie]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Pseudonyms|Ruby]] }}
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Andy Crouch]] | [[Brett Tribe]] | [[Dana Yanoshak]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Pseudonyms|Katie]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Pseudonyms|Ruby]] }}
 |Music	=	[[Bradley Dean Whyte]]
 |Run	=	Jul/Aug 2011
 }}
