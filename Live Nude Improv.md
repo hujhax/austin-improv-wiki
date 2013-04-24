@@ -39,7 +39,7 @@ Finally, before the last stretch of the show, the director would announce we wou
 The director would finish the show, announcing to the audience that they'd had a great, productive rehearsal, and the show would open next week (with one last wink and nod that no, it really wouldn't).
 
 ## History
-[[Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of [[Dionysus in '69 (theatrical production)|*Dionysus in '69*]] by the [[Rude Mechanicals (theater company)|Rude Mechanicals]].  He was inspired to make something equally transgressive and raw in the world of improv.
+[[Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of [[Wikipedia - Dionysus in '69 (theatrical production)|*Dionysus in '69*]] by the [[Wikipedia - Rude Mechanicals (theater company)|Rude Mechanicals]].  He was inspired to make something equally transgressive and raw in the world of improv.
 
 Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Peter Rogers]] was the first of the cast to get completely naked onstage for the production.
 
