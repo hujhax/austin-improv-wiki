@@ -20,6 +20,7 @@ Jessica Arjet graduated from the [[Heroes of Comedy]] Improv School in 2003.  Up
 * *[[Live Nude Improv]]*
 * *[[The Black Vault]]*
 * *[[Strange Worlds]]*
+* *[[Fakespeare]]*
 
 [[Category/Performers|Arjet]]
 
