@@ -15,7 +15,7 @@ __NOINDEX__
 ## Summary
 *Live Nude Improv* acted under the conceit that the Hideout was about to put on a play, that all the attendees -- cast and audience alike -- had been cast in this play, and that they had all arrived at the final rehearsal for that play.  In actuality, there was no play, and the attendees were collectively making everything up as they went along.
 
-(To avoid confusion, in the rest of this article, "cast" will refer to the actual cast of *Live Nude Improv*, not the "pretend cast" of the pretend-show they were putting together on any given night.)
+(To avoid confusion, in the rest of this article, "cast" will refer to the actual cast of *Live Nude Improv*, not the "pretend cast" of the pretend-play they were putting together on any given night.)
 
 The show had a strict "no photography" policy (only one improv photographer, usually [[Steve Rogers]], was permitted to photograph anything), and an equally strict "no creeping" policy.
 
