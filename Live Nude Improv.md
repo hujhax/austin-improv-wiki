@@ -48,14 +48,14 @@ The mainstage show ran through July and August in 2011, selling out often weeks 
 After the end of its run, *Live Nude Improv* discussed doing subsequent runs, but only ever did a few festival appearances, such as the 2012 Philadelphia Improv Festival.
 
 ## The Fake Plays of Live Nude Improv
-* 7/9/11:  "Whatever You Like": a riff on Shakespearean comedy in which a young couple vacations on a tropical island, and quickly becomes ensared in a case of mistaken identity involving ancient island rituals.
-* 7/16/11: unknown
+* 7/9/11:  title unknown: a slice-of-life drama featuring a rich and poor couple.
+* 7/16/11: "Whatever You Like": a riff on Shakespearean comedy in which a young couple vacations on a tropical island, and quickly becomes ensared in a case of mistaken identity involving ancient island rituals.
 * 7/23/11: unknown
 * 7/30/11: unknown
 * 8/6/11: unknown
 * 8/13/11: unknown
-* 8/20/11: "The Caterpillar Detective": a noirish detective story in which all the characters were insects.
-* 8/27/11: unknown
+* 8/20/11: "The Caterpillar Constable": a noirish detective story in which all the characters were insects.
+* 8/27/11: "Days of Our Lives"
 
 ## Media
 ## More Information
