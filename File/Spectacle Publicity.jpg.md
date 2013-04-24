@@ -5,4 +5,4 @@ Photo by: unknown.
 
 Art by [[Kaci Beeler]].
 ## Licensing
-{{AIC-Wiki-only license}}
+{{No license}}
