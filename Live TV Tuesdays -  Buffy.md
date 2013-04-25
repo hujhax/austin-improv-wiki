@@ -13,9 +13,9 @@
 ## History
 This was the last [[Live TV Tuesdays]] whose run happened entirely at [[The Highball]].
 
-This was the only TV Tuesdays production to include *improvised* commercials, instead of period commercials projected on-screen.
+It also had a "preview performance" on 10/11/11 that was the very first show to take place at the newly-constructed [[Institution Theater]].
 
-Ironically, it also had a "preview performance" on 10/11/11 that was the very first show to take place at the newly-constructed [[Institution Theater]].
+This was the only TV Tuesdays production to include *improvised* commercials, instead of period commercials projected on-screen.
 
 Also, this was the last of a continuous run of teen-angst-themed TV choices.  After this, the TV Tuesdays series branched out with [[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|*Doctor Horrible's Sing-Along Blog*]]
 
