@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-**Gloria Rabil-Bankler** is an improv performer who works primarily with [[The Hideout Theatre]].
+**Gloria Rabil Bankler** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
 Gloria is a founding member of both [[Furiously Missing]] and [[In Our Prime]].
