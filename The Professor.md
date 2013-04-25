@@ -20,7 +20,7 @@ Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had l
 
 Its first full run was a six-week set of Friday shows at [[The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Salvage Vanguard Theater]] (produced by [[Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including [[The TV Set]] in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738]
 
-At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 2013, [[Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613].  Ferstenfeld is incorporating into the show scene-painting, the interior of the TARDIS, voice modulation, and eventually ROBOTS, and drawing more influence from "classic" *Doctor Who*, from the years preceding Russell T Davies and Steven Moffat.  They have announced a third run of shows at [[The Institution Theater]] in November.
+At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 2013, [[Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613].  Ferstenfeld plans to incorporate scene-painting, the interior of the TARDIS, voice modulation, and eventually *actual robots and aliens*, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.  The Professor have announced a third run of shows at [[The Institution Theater]] in November.
 
 ## Casts
 ### "Season Zero"
