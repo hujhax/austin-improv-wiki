@@ -30,7 +30,7 @@ It played exclusively at [[The Highball]].
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 A photoset] by [[Michael Yew]] that includes photos of the 5/24/11 performance.
-* [[File/DawsonsProgram.jpeg|The show's program.]]
+* [[File/DawsonsProgram.jpg|The show's program.]]
 
 ## More Information
 * [https://www.facebook.com/events/152475268155249/ One of the facebook-event pages for the show.]
