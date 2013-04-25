@@ -10,7 +10,7 @@
 ***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Dawson's Creek|*Dawson's Creek*]] episode [http://www.imdb.com/title/tt0555187/ "The Longest Day"].
 
 ## Summary
-It was referred to as "*Teen Angst Tuesdays, Featuring *Dawson's Creek".
+This show was referred to as "*Teen Angst Tuesdays, Featuring *Dawson's Creek".
 
 It played exclusively at [[The Highball]].
 
