@@ -25,7 +25,7 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 
 
 ## Shows
-* *[[Live TV Tuesdays Presents -  Buffy]]*
+* *[[Live TV Tuesdays -  Buffy]]*
 * *[[After School Improv]]*
 * *[[The Black Vault]]*
 * ''[[Love Fest]]
