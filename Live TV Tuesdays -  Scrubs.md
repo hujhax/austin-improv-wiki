@@ -8,7 +8,9 @@
 |Tech	=	{{Unbulleted list | [[BK McKee]] | [[Neal Tibrewala]] | [[Todd Hart]] }}
 |Run	=	Aug 2012
 }}
-***Live TV Tuesdays: Scrubs*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Scrubs (TV series)|*Scrubs*]] episodes [http://scrubs.wikia.com/wiki/My_Overkill "My Overkill"] and [http://scrubs.wikia.com/wiki/My_Musical "My Musical"].  It was referred to as "*Scrubs: Live*".
+***Live TV Tuesdays: Scrubs*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Scrubs (TV series)|*Scrubs*]] episodes [http://scrubs.wikia.com/wiki/My_Overkill "My Overkill"] and [http://scrubs.wikia.com/wiki/My_Musical "My Musical"].
+
+It was referred to as "*Scrubs: Live*".
 
 ## History
 This was the last of the [[Live TV Tuesdays]] productions.
