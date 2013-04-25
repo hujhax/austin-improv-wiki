@@ -80,6 +80,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[The Great Mundane]]*
 * *[[Cops and Lawyers]]*
 * *[[After-School Improv]]*
+* *[[Cochise]]*
 * *[[Ka-Baam!]]*
 * *[[The Violet Underbelly]]*
 * *[[Live Nude Improv]]*
