@@ -9,7 +9,7 @@
 
 ## Summary
 ### Show Structure
-A typical Confidence Men show is a two-act play.  Each act is a monoscene.  Each performer plays one character throughout the show.  In between act one and act two, there is a 45-second solo musical performance.
+A typical Confidence Men show is a two-act play.  Each act is a monoscene.  Each performer plays one character throughout the show.  In between act one and act two, there is a 45-second solo musical performance.  They also do a variation on the format called "The Variations," inspired by Mamet's *Duck Variations.*  This format typically features a theme and a symphonic variety of conversations around that theme.
 
 ### Press Blurb
 This is their bio from their web site:
