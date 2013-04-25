@@ -31,7 +31,7 @@ It played exclusively at [[The Institution Theater]].
 * Jordan/Ensemble -- [[Adriane Shown]]
 * Doug/Ensemble -- [[Andy Hush]]
 * Chet/Ensemble -- [[Chris Villafano]]
-* Gooch -- [[Jo Maraschino]]
+* Gooch -- [[Madeline Chauvin]]
 
 ## Crew
 * Produced and Directed by -- [[Jo Maraschino]], [[Kevin Machate]]
