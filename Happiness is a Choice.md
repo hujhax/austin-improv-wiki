@@ -5,5 +5,5 @@
 |Years	=		2010-Present
 }}
 
-## Thesis
+## Hypothesis
 Austin, Texas based experimental performance art group Happiness is a Choice use improvisation and their unique style of meta-theater to learn about each other and about the moments that they share on stage.
