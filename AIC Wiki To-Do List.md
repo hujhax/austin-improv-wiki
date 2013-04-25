@@ -22,8 +22,10 @@ This section is for the most significant missing content on the site.
 * Finish making basic pages for all troupes that have attended out of bounds (and thus have online bios).
 
 * Figure out how to use DynamicPageList; here's an example...
+<div class="DPLTest">
 <DynamicPageList>
 category=Active Troupes
 ordermethod=sortkey
 order=ascending
 </DynamicPageList>
+</div>
