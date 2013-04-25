@@ -11,7 +11,7 @@
 ## Summary
 The production was referred to as "*Doctor Horrible, Live!*".
 
-It ran exclusively at [[The Institution Theater]], and they played a one-night only reprise of the show on 7/27/2012.
+It ran exclusively at [[The Institution Theater]], and then played a one-night only reprise of the show on 7/27/2012.
 
 ## Cast
 (Note: [[Kevin Williamson]] & [[Brett Tribe]] traded parts on alternate show nights.)
