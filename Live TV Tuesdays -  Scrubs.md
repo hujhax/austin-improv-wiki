@@ -2,7 +2,7 @@
 |Name	=	Live TV Tuesdays: Scrubs	
 |Picture=	Live TV Tuesdays - Scrubs.jpg
 |Theater=	[[The Institution Theater]]
-|Director = {{Unbulleted list | [[Jo Maraschino]] | [[Kevin Machate]] }}
+|Director = {{Unbulleted list | [[Madeline Chauvin]] | [[Kevin Machate]] }}
 |Producer= {{Unbulleted list | [[Diana Caldwell]] | [[Jesse Prebix]] | [[Tom Booker]] }}
 |Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Adriane Shown]] | [[Andy Hush]] | [[Ben Howell]] | [[Benjamin Scott]] | [[Carrie H. Stephens]] | [[Chris Villafano]] | [[David Rosenbaum]] | [[Howard Katz]] | [[Jo Maraschino]] | [[Kevin Machate]] | [[Laura Komkov]] | [[Richard Dodwell]] | [[Tatiana Artis]] }}
 |Tech	=	{{Unbulleted list | [[BK McKee]] | [[Neal Tibrewala]] | [[Todd Hart]] }}
