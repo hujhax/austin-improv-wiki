@@ -28,6 +28,7 @@ In 2011 and 2012, the Institution achieved great commercial success with a serie
 * May/Jun 2011: [[Live TV Tuesdays -  Dawson's Creek|*Dawson's Creek*: "The Longest Day"]]
 * Jun/Jul 2011: [[Live TV Tuesdays -  My So-Called Life|*My So-Called Life*: "Pressure"]]
 * Jul/Aug 2011: [[Live TV Tuesdays -  Party of Five|*Party of Five*: "The Wedding"]]
+* Jul/Aug 2011: [[Live TV Tuesdays -  John Hughes Summer School|"John Hughes Summer School"]]
 * Sep/Oct 2011: [[Live TV Tuesdays -  Felicity|*Felicity*: "Gimme an O!"]]
 * Oct/Nov 2011: [[Live TV Tuesdays -  Buffy|*Buffy the Vampire Slayer*: "The Prom"]]
 * Feb/Mar 2012: [[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|*Dr. Horrible's Sing-Along Blog*]]
