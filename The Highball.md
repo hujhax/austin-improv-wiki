@@ -8,6 +8,6 @@
 
 **The Highball** was an restaurant/entertainment facility that served as an adjunct to the Alamo Drafthouse's former South Lamar location.
 
-It had a ballroom with a stage which served as the venue for a number of shows from [[The Institution Theater]], including most of its *[[Live TV Tuesday]]* runs.
+It had a ballroom with a stage which served as the venue for a number of shows from [[The Institution Theater]], including most of its *[[Live TV Tuesdays]]* runs.
 
 The facility shut down on 11/18/12 and has not yet re-opened.
