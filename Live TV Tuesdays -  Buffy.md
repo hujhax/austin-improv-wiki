@@ -51,6 +51,7 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 ## Media
 * [http://vimeo.com/32064772 Video of Brett and Andrew workshopping one of the production's improvised sections.]
 * [http://www.facebook.com/media/set/?set=a.10150288659198621.344556.511938620&type=1 Photoset] of rehearsal, publicity, and costume-test shots from [[Jordan T. Maxwell]].
+* [http://vimeo.com/31125314 Opening-credits video] by [[Leann Fryer]].
 * 10/11/11 preview:
 ** [http://www.facebook.com/media/set/?set=a.181560375258327.48331.100002130980897&type=1 Photoset] by [[Steve Rogers]].
 * 11/1/11 performance:
