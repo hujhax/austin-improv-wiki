@@ -15,7 +15,7 @@ It was referred to as "*Scrubs: Live*".
 ## History
 This was the last of the [[Live TV Tuesdays]] productions.
 
-It played exclusively at [[The Institution]].
+It played exclusively at [[The Institution Theater]].
 
 ## Cast
 * Dr. J.D. Dorian -- [[Ben Howell]]
