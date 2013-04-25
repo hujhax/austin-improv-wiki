@@ -1,0 +1,1 @@
+Cops and Lawyers was a long form narrative genre production based upon television's "Law & Order" series.  It was produced and directed by David Lampe and Troy Miller.
