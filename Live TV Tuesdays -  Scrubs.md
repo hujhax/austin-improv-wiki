@@ -47,7 +47,7 @@ This was the last of the [[Live TV Tuesdays]] productions.
 * [http://www.facebook.com/media/set/?set=a.376141825787836.83399.118587218209966&type=3 Photoset of the 8/10/12 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.10102310892215350.3454321.7944448&type=3 Photoset]  by [[Jo Maraschino]].
 * [http://www.facebook.com/media/set/?set=a.10102326737516240.3457235.7914830&type=3 Publicity photos] posted by [[Adam Mengesha]].
-* [[Media - ScrubsProgram|The show's program.]]
+* [[Media - ScrubsProgram.jpg|The show's program.]]
 
 ## More Information
 * [http://www.facebook.com/events/435835689802184/ The show's facebook page.]
