@@ -4,7 +4,7 @@
 |Theater=	[[The Institution Theater]]
 |Director = {{Unbulleted list | [[Madeline Chauvin]] | [[Kevin Machate]] }}
 |Producer= {{Unbulleted list | [[Diana Caldwell]] | [[Jesse Prebix]] | [[Tom Booker]] }}
-|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Adriane Shown]] | [[Andy Hush]] | [[Ben Howell]] | [[Benjamin Scott]] | [[Carrie H. Stephens]] | [[Chris Villafano]] | [[David Rosenbaum]] | [[Howard Katz]] | [[Jo Maraschino]] | [[Kevin Machate]] | [[Laura Komkov]] | [[Richard Dodwell]] | [[Tatiana Artis]] }}
+|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Adriane Shown]] | [[Andy Hush]] | [[Ben Howell]] | [[Benjamin Scott]] | [[Carrie H. Stephens]] | [[Chris Villafano]] | [[David Rosenbaum]] | [[Howard Katz]] | [[Madeline Chauvin]] | [[Kevin Machate]] | [[Laura Komkov]] | [[Richard Dodwell]] | [[Tatiana Artis]] }}
 |Tech	=	{{Unbulleted list | [[BK McKee]] | [[Neal Tibrewala]] | [[Todd Hart]] }}
 |Run	=	Aug 2012
 }}
