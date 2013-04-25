@@ -77,6 +77,7 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.
 
 * *[[Start Trekkin']]*
+* *[[The Great Mundane]]*
 * *[[Cops and Lawyers]]*
 * *[[After-School Improv]]*
 * *[[Ka-Baam!]]*
