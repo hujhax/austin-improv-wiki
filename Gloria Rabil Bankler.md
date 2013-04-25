@@ -31,3 +31,6 @@ Gloria has performed at The NYC Improv Festival, The Oklahoma Improv Festival, T
 * [[The Vacation]]
 
 [[Category/Performers|Bankler]]
+
+## Writing
+* [[Untitled Novel]]
