@@ -9,7 +9,7 @@
 ***Live TV Tuesdays: South Park*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - South Park|*South Park*]] episodes [[Wikipedia - Something You Can Do with Your Finger|"Something You Can Do with Your Finger"]] and [[Wikipedia - Professor Chaos|"Professor Chaos"]].
 
 ## Summary
-The production was referred to as "*South Park: Live*".
+This production was referred to as "*South Park: Live*".
 
 It ran for its first month at [[The Highball]], and then moved to [[The Institution Theater]] for its second month.
 
