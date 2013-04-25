@@ -117,6 +117,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[The Suitcase]]* (2013)
 
 ## Merlin Works Student Productions
+* *[[Haunted]]*
 * *[[Bad Company]]*
 * *[[Heist!]]*
 * *[[The Sword of Merlin Works]]*
