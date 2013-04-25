@@ -13,6 +13,8 @@ Shortly thereafter, Regina, Madeline, and Ashley took off and started performing
 
 In Spring 2013 Ashley Lowe left the troupe (amicably!) to focus on other projects.  Now Regina and Madeline, who also perform as The Cruise Ladies, perform The Better Half as a duo and sometimes with special guests, most notably Heidi Caldwell and Carla Goodman.
 
+The Better Half perfected the spank circle, and Regina can never remember what Character Chords are.
+
 
 
 [[Category/Active Troupes|Category:Active Troupes]]
