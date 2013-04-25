@@ -1,6 +1,6 @@
 {{Infobox Theater
 |Name	=		The Highball
-|Picture =		The Highball.jpg
+|Picture =		Highball Logo.jpg
 |Address	=	1142 S Lamar Blvd
 |Homepage	=	http://www.thehighball.com
 |Years	=		2009-2012
