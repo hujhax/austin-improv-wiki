@@ -1,1 +1,1 @@
-**Cops & Lawyers** was a long form narrative genre production based upon television's "Law & Order" series.  It was produced and directed by [[David Lampe]] and [[Troy Miller]]. It ran from July 29 to September 30, 2006.
+**Cops & Lawyers** was a long form narrative genre production based upon television's *[[Wikipedia - Law & Order|Law & Order]]* series.  It was produced and directed by [[David Lampe]] and [[Troy Miller]]. It ran from July 29 to September 30, 2006.
