@@ -20,17 +20,31 @@ This show has only been performed twice so far, and the results were… intense.
 
 ## Casts
 ### Septempber 28th, 2012
-* [[Thedward Blevins]]
-* [[Valerie Ward]]
-* [[Mitchell Deane]]
-* [[Kevin Miller]]
-* [[Cat Drago]]
-* [[Jordan T. Maxwell]]
-* [[Jayme Ramsay]]
 * [[Bob Olmstead]]
-* [[Mike Kinald]]
+* [[Cat Drago]]
 * [[Emily Breedlove]]
 * [[Halyn Lee Erickson]]
+* [[Jayme Ramsay]]
+* [[Jordan T. Maxwell]]
 * [[Justin Davis]]
+* [[Kevin Miller]]
+* [[Mike Kinald]]
+* [[Mitchell Deane]]
+* [[Thedward Blevins]]
+* [[Valerie Ward]]
+* [[Britney Salyer]] (thug)
 
 ### April 12th, 2013
+* [[Ashley Jayne Carlisle]]
+* [[Brett Tribe]]
+* [[Bridget Brewer]]
+* [[Chad Wellington]]
+* [[Cortney DeAngelo]]
+* [[Cynthia Ward]]
+* [[Heidi Rogers]]
+* [[Jessica Arjet]]
+* [[JM Specht]]
+* [[Mike Nystul]]
+* [[Nicole Oliver]]
+* [[Ryan Hill]]
+* [[Jayme Ramsay]] (thug)
