@@ -34,7 +34,7 @@ It played exclusively at [[The Institution Theater]].
 * Gooch -- [[Madeline Chauvin]]
 
 ## Crew
-* Produced and Directed by -- [[Jo Maraschino]], [[Kevin Machate]]
+* Produced and Directed by -- [[Madeline Chauvin]], [[Kevin Machate]]
 * Executive Producers -- [[Tom Booker]], [[Diana Caldwell]], [[Jesse Prebix]]
 * Choreographer -- [[Carissa McAtee]]
 * Music Arranger -- [[Stefan DelBosque]]
@@ -42,7 +42,7 @@ It played exclusively at [[The Institution Theater]].
 * Photographer -- [[Eleazar Paradise]]
 * Program Designer -- [[Asaf Ronen]]
 * Technical Arts -- [[Todd Hart]], [[BK McKee]], [[Neal Tibrewala]]
-* Video Production -- [[Jo Maraschino]]
+* Video Production -- [[Madeline Chauvin]]
 * "My Overkill" written by Bill Lawrence
 * "My Musical" written by Debra Fordham
 * "Screw You" written by Garfunkel and Oates
