@@ -24,29 +24,24 @@ The troupe took a brief hiatus while Maxwell and Brockman fulfilled other profes
 
 **Colin** (Jeffrey Amos)
 
+### Former/Guest Artists
+**Brother Monkirk** ([[Michael Brockman]])
 
-*Former/Guest Artists*
+**Doc Jenkins** ([[Craig Kotfas]])
 
-**Brother Monkirk** (Michael Brockman)
+**Baby Doll** ([[Sarah Marie Curry]])
 
-**Doc Jenkins** (Craig Kotfas)
-
-**Baby Doll** (Sarah Marie Curry)
-
-Jeremy Sweetlamb and Cindy Page played without "in universe" characters.
+[[Jeremy Sweetlamb]] and [[Cindy Page]] played without "in universe" characters.
 
 ## Media
-[https://www.facebook.com/#!/media/set/?set=a.180261545388210.48035.100002130980897&type=1 Photo set from 10/8/2011 by [[Steve Rogers]] ]
-
-[https://www.facebook.com/#!/media/set/?set=a.364117846958907.80222.338492619521430&type=1 Photo set from 3/29/2012 by [[Roy Moore]] ]
-
-[https://www.facebook.com/#!/media/set/?set=a.413861802010675.100390.221927764537414&type=1 Photo set from Out of Bounds Comedy Festival 2012 by Steve Rogers]
-
-[https://vimeo.com/41260565 Video of 3/29/2012 performance]
-
-[https://vimeo.com/62552448 Video of 12/20/2012 performance]
+* [http://www.facebook.com/#!/media/set/?set=a.180261545388210.48035.100002130980897&type=1 Photoset] from 10/8/2011 by [[Steve Rogers]].
+* 3/29/2012 performance:
+** [http://www.facebook.com/#!/media/set/?set=a.364117846958907.80222.338492619521430&type=1 Photoset] by [[Roy Moore]].
+** [http://vimeo.com/41260565 Video.]
+* [http://www.facebook.com/#!/media/set/?set=a.413861802010675.100390.221927764537414&type=1 Photoset] from [[The 2012 Out of Bounds Comedy Festival]] by [[Steve Rogers]].
+* [http://vimeo.com/62552448 Video of 12/20/2012 performance.]
 
 ## More Information
-[https://www.facebook.com/#!/shiftindigo?fref=ts Indigo Shift's Facebook page]
+* [http://www.facebook.com/#!/shiftindigo?fref=ts Indigo Shift's Facebook page]
 
 [[Category/Active Troupes|Category:Active Troupes]]
