@@ -9,3 +9,6 @@
 
 ## Summary
 Happiness is a Choice use improvisation and their unique style of meta-theater to learn about each other and about the moments that they share on stage.
+
+## Media
+* [http://choosehappiness.info/wordpress/?p=412 Audio of their 10/6/10 performance, in which they spent forty minutes taking a suggestion.]
