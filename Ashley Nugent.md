@@ -2,7 +2,7 @@
 |Name	=	Ashley Nugent	
 |Picture =	AshleyNugent.jpg
 |Theater=	[[ColdTowne Theater]]
-|Years	=	??-Present
+|Years	=	2010-Present
 }}
 
 **Ashley Nugent** is an actor, improviser, and improv teacher.
