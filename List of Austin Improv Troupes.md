@@ -16,8 +16,6 @@ These are troupes that still need pages created for them.
 * [[Elevator Action]]
 * [[Foolish Mortals]]
 * [[The Glamping Trip]]
-* [[Happiness is a Choice]]
-* [[Indigo Shift]]
 * [[Journey to the Big Water]]
 * [[The Knuckleball Now]]
 * [[Local Genius Society]]
