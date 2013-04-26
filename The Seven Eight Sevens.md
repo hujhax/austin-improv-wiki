@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		The Seven Eight Sevens
 |Picture	=	Seven Eight Sevens.jpg
-|Cast	=	{{Unbulleted list|[[Brandon Martin]]|[[Cat Drago]]|[[Mitchell Deane]]|[[Ryan Hill]]|[[Sarah Swofford]]|[[Scott Hearne]]}}
+|Cast	=	{{Unbulleted list|[[Cat Drago]]|[[Mitchell Deane]]|[[Ryan Hill]]|[[Sarah Swofford]]|[[Scott Hearne]]}}
 
 
 |Years	=		2012-Present
