@@ -5,7 +5,7 @@
 |Years	=		2012-Present
 }}
 
-**Mike and Irene** is an improv troupe.
+**Mike and Irene** is an improv duo.
 
 ## More Information
 * [http://www.facebook.com/mikeandireneimprov The duo's facebook page.]
