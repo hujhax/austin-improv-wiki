@@ -11,6 +11,7 @@
 The troupe debuted at [[The Spectacle]] on 11/27/10.
 
 ## More Information
+* [http://www.facebook.com/simplydvineimprov The troupe's facebook page.]
 * [http://forum.austinimprov.com/viewtopic.php?t=11353 Forum announcement of the troupe's debut.]
 
 [[Category/Active Troupes|Category:Active Troupes]]
