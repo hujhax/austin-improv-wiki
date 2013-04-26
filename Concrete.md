@@ -5,4 +5,7 @@
 |Years	=	2012 - Present	
 }}
 
+## History
+* January 2012 - [[ColdTowne Theater]] Cagematch Champions
+
 [[Category/Active Troupes|Concrete]]
