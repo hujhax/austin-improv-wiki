@@ -7,5 +7,8 @@
 
 **Mike and Irene** is an improv troupe.
 
+## More Information
+* [http://www.facebook.com/mikeandireneimprov The duo's facebook page.]
+
 [[Category/Active Troupes|Category:Active Troupes]]
 [[Category/Duos|Category:Duos]]
