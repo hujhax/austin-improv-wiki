@@ -8,7 +8,7 @@
 **Baxter and Bernard** is an improv duo.
 
 ## Summary
-The duo consists of [[Asaf Ronen]] and [[Tom Booker]] as two of "the world's most eligible confirmed bachelors".  They are whimsical, upper-class gentlemen, typically dressed in colorful silkl dressing gowns.
+The duo consists of [[Asaf Ronen]] and [[Tom Booker]] as two of "the world's most eligible confirmed bachelors".  They are whimsical, upper-class gentlemen, typically dressed in colorful silk dressing gowns.
 
 The duo is assisted by their butler, Meredith, who has been played by [[Jeff Britt]], [[Alex Hilary]], and [[Jordan T. Maxwell]].
 
