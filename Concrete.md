@@ -5,7 +5,9 @@
 |Years	=	2012 - Present	
 }}
 
+**Concrete** is an improv troupe.
+
 ## History
 * January 2012 - [[ColdTowne Theater]] Cagematch Champions
 
-[[Category/Active Troupes|Concrete]]
+[[Category/Active Troupes|Category:Active Troupes]]
