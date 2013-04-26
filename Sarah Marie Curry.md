@@ -8,7 +8,7 @@
 **Sarah Marie Curry** is an actor, theater manager, improviser, and improv teacher.
 
 ## History
-Sarah Marie Curry has been an acting singing improvising artistic adventurer for over twelve years, with extensive experience in musical theatre and theatre management. She has been an improvisational actress since 2009 and has clocked over 120 performance hours thus far. In addition to pursuing improv and acting, Sarah Marie has recently undertaken rhythmic improvisation as a medium by directing RACKET: Improvised Stomp at The Institution Theatre. She is a current member and ongoing performer with [[Girls Girls Girls]] Improvised Musicals (one of the oldest improv troupes in Austin) and [[Improv for Evil]] (one of the most evil troupes in Austin) and regularly performs long form narrative with [[The Hideout Theatre]], [[Gnap Theatre Projects]], and [[The Institution Theater]].
+Sarah Marie Curry has been an acting singing improvising artistic adventurer for over twelve years, with extensive experience in musical theatre and theatre management. She has been an improvisational actress since 2009 and has clocked over 120 performance hours thus far. In addition to pursuing improv and acting, Sarah Marie has recently undertaken rhythmic improvisation as a medium by directing *[[Racket|Racket: Improvised Stomp]]* at [[The Institution Theater]]. She is a current member and ongoing performer with [[Girls Girls Girls]] Improvised Musicals (one of the oldest improv troupes in Austin) and [[Improv for Evil]] (one of the most evil troupes in Austin) and regularly performs long form narrative with [[The Hideout Theatre]], [[Gnap! Theater Projects]], and [[The Institution Theater]].
 
 ## Troupes
 * [[Girls Girls Girls]] 
