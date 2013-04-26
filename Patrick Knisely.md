@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Patrick Knisely	
 |Picture =	Patrick Knisely Pic.jpg
-|Theater=	[[The New Movement Theater]]
+|Theater=	[[The New Movement]]
 |Years	=	2005-Present
 }}
 
