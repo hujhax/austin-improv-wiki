@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Baxter and Bernard
 |Picture =     Baxter and Bernard.jpg
-|Cast	=	{{Unbulleted list | [[Asaf Ronen]] | [[Jeff Britt]] | [[Tom Booker]] }}
+|Cast	=	{{Unbulleted list | [[Asaf Ronen]] | [[Tom Booker]] }}
 |Years	=		2010-Present
 }}
 
