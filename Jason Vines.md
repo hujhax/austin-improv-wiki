@@ -19,7 +19,7 @@ Jason also works in film and is a special effects artist.
 
 ## Troupes
 * [[Improv for Evil]]
-* [[Simply Devine]]
+* [[Simply D-Vine]]
 
 ## Shows
 * *[[Rock]]*
