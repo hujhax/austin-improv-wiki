@@ -5,7 +5,7 @@
 |Years	=	2004-Present
 }}
 
-**Clifton Highfield** is an improv performer and instructor who works primarily with [[The Institution Theater]].
+**Clifton Highfield** is an improv performer, instructor, and director who works primarily with [[The Institution Theater]].
 
 ## Troupes
 * [[Concrete]]
