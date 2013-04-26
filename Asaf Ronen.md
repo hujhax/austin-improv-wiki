@@ -7,6 +7,7 @@
 
 [[Category/Performers|Ronen]]
 [[Category/Directors|Ronen]]
+[[Category/Teachers|Ronen]]
 
 **Asaf Ronen** is an improv performer and director.  He co-runs [[The Institution Theater]].
 
