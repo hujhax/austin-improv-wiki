@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Big Beautiful Warlock
 |Picture =      Big Beautiful Warlock.jpg
-|Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Chris Baldenhofer]] | [[Delaney Hernandez]] | [[Emma Holder]] | [[Frank Netscher]] | [[Kristin Henn]]}}
+|Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Ashley Nugent]] | [[Chris Baldenhofer]] | [[Delaney Hernandez]] | [[Emma Holder]] | [[Frank Netscher]] | [[Kristin Henn]]}}
 |Years	=	2011-Present
 }}
 
