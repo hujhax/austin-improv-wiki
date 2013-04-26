@@ -22,6 +22,7 @@ Jason also works in film and is a special effects artist.
 * [[Simply D-Vine]]
 
 ## Shows
+* *[[Spirited]]*
 * *[[Rock]]*
 * *[[After School Improv]]* (Director)
 * *[[The Suitcase]]*
