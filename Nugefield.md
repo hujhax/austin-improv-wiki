@@ -1,7 +1,9 @@
 {{Infobox Troupe
-|Name	=		Nugefield
-|Picture	=	Nugefield.jpg
-|Cast	=	{{Unbulleted list|[[Clifton Highfield]]|[[Ashley Nugent]]}}
+|Name	=	[[Nugefield]]	
+|Picture	= nugefield.jpg
+|Cast	=	{{Unbulleted list|[[Clifton Highfield]]|[[Ashley Nugent]]}}	
+|Years	=		
+}}
 
 
 [[Category/Active Troupes|Nugefield]]
