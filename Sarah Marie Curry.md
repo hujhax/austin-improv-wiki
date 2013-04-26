@@ -19,3 +19,6 @@ Sarah Marie Curry has been an acting singing improvising artistic adventurer for
 * *[[Live TV Tuesdays -  Buffy]]*
 * *[[Racket]]*
 * *[[Spirited]]*
+
+[[Category/Performers|Curry]]
+[[Category/Teachers|Curry]]
