@@ -19,5 +19,8 @@ In Spring 2013 [[Ashley Lowe]] left the troupe (amicably!) to focus on other pro
 The Better Half perfected the spank circle, and Regina can never remember what Character Chords are.
 
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Duo|Category:Duo]]
+
 [[Category/Duos|Category:Duos]]
