@@ -26,5 +26,6 @@ Asaf Ronen, Tom Booker and Jeff Britt have about one thousand years of combined 
 ## More Information
 * [http://vimeo.com/22766356 Video of a 2012 performance.]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
 [[Category/Duos|Category:Duos]]
