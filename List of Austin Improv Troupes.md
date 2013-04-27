@@ -11,6 +11,17 @@ order=ascending
 </DynamicPageList>
 </div>
 
+### Duos
+Of those troupes, the following are duos:
+<div class="DPLTest">
+<DynamicPageList>
+category=Duos
+category=Active
+ordermethod=sortkey
+order=ascending
+</DynamicPageList>
+</div>
+
 ## Inactive
 These troupes are no longer performing in Austin (though some may perform rare "reunion shows").
 <div class="DPLTest">
