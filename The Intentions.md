@@ -17,4 +17,5 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 ## More Information
 *[http://www.facebook.com/theintentionsimprov/info The Intentions' facebook page]
 
-[[Category/Active Troupes|Intentions]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Intentions]]
