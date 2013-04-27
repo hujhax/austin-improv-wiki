@@ -20,4 +20,5 @@ The troupe was briefly named "I'm Here to Date Your Daughter" until the name "We
 ## More Information
 *[http://www.facebook.com/TalkinToStrangers We're Here to Date Your Daughter Facebook page]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
