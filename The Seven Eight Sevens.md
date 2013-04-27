@@ -16,4 +16,5 @@
 ## More Information
 *[https://www.facebook.com/theseveneightsevens The Seven Eight Sevens facebook page]
 
-[[Category/Active Troupes|Seven Eight Sevens]]
+[[Category/Troupes|Seven Eight Sevens]]
+[[Category/Active|Category:Active]]
