@@ -22,7 +22,9 @@ In February 2012, the Wheel was revamped to look like this:
 * Week 3: *[[The Narrative Improv Jam]]*
 * Week 4: *[[Maestro|Maestro RAW]]*
 
-*[[The Lottery]]* was retired from the schedule, and *[[Pick Your Own Path]]* went to a double bill, with two consecutive stories in that performance slot.  In place of *[[The Lottery]]*, [[The Hideout]] added a dedicated night for newer improvisors with *[[Maestro|Maestro RAW]]*.
+*[[The Lottery]]* was retired from the schedule. *[[Pick Your Own Path]]* went to a double bill, with two consecutive stories in that performance slot.
+
+In place of *[[The Lottery]]*, [[The Hideout]] added a dedicated night for newer improvisors with *[[Maestro|Maestro RAW]]*.
 
 ### 2012-2013 Schedule
 In July 2012, *[[The Narrative Improv Jam]]* was retired and replaced with *[[The TV Set]]*:
