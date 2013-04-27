@@ -15,8 +15,8 @@ In its original incarnation, the Wheel's schedule looked like this:
 
 Weeks two through four were double-billed with *[[The Lottery]]*.
 
-### Mid-2012 Schedule
-In February 2012, the Wheel was revamped to look like this:
+### Early-2012 Schedule
+In January 2012, the Wheel was revamped to look like this:
 * Week 1: *[[The Fancy-Pants Mash-Up]]*
 * Week 2: *[[Pick Your Own Path]]*
 * Week 3: *[[The Narrative Improv Jam]]*
