@@ -13,4 +13,5 @@ In addition to these shows, they host a monthly improvised game show called [[Bi
 ## More Information
 * [http://www.facebook.com/pages/Big-Beautiful-Warlock/154058364667941 The troupe's facebook page.]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
