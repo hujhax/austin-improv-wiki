@@ -4,7 +4,7 @@
 |Theater=	[[The Hideout Theatre]]
 |Cast=		Varied
 |Director =	[[Roy Janik]]	
-|Run	=	Sep 2010-Jan 2012
+|Run	=	Sep 2010-Sep 2011
 }}
 
 ***Dubbed Indemnity*** was a shortform show at [[The Hideout Theater]] where improvisors dubbed a new soundtrack onto silenced film and television clips.
@@ -17,7 +17,7 @@ It was part of *[[The Wheel]]*.
 It was a challenging format for performers.  A common pitfall was to simply narrate what was going on onscreen.  The best way to combat this was typically to pick some *arbitrary* thing for the scene to be about (say, trying to cook a hot dog), and sticking to that topic no matter what happened, interpreting anything that happened onscreen as part of that tack.
 
 ## History
-*Dubbed Indemnity* debuted as part of *[[The Wheel]]* in September of 2010.  Unfortunately, the video production required for *Dubbed Indemnity* became untenable, and [[Roy Janik]] retired the format in January of 2012.
+*Dubbed Indemnity* debuted as part of *[[The Wheel]]* in September of 2010.  Unfortunately, the video production required for *Dubbed Indemnity* became untenable, and [[Roy Janik]] retired the format in September of 2011.  A number of different one-off events happened in its monthly time slot until it was replaced by *[[Maestro|Maestro RAW]]* in January 2012.
 
 ## Media
 * 10/22/10: [http://vimeo.com/16618448 Video.]
