@@ -24,4 +24,4 @@ Auditions for the 6th ColdTowne Student Troupe were held in early January 2009 a
 
 Other members petitioned ColdTowne Theater to allow them to return to ColdTowne as Troupe Six without the full cast.  They were permitted to do so and named themselves "Total Panic".
 
-[[Category/Inactive Troupes|Category:Inactive Troupes]]
+[[Category/Troupes|Category:Troupes]]
