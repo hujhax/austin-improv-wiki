@@ -23,4 +23,5 @@ Their goal is to elevate the form and playing field, shedding light on the ever-
 * [http://www.availablecupholders.com/achome.html The troupe's web site.]
 * [http://www.facebook.com/AvailableCupholders/info The troupe's facebook page.]
 
-[[Category/Troupes|A]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
