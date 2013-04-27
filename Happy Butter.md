@@ -15,4 +15,4 @@ It was made up of graduates of [[The Hideout Theatre]]'s first Level 6 class.
 * [http://youtu.be/G-VpF0Qk0IM Video of their 6/4/11 show.]
 * [http://www.youtube.com/watch?v=YLR3mamRjx8 Video of their 6/30/11 show.]
 
-[[Category/Inactive Troupes|Category:Inactive Troupes]]
+[[Category/Troupes|Category:Troupes]]
