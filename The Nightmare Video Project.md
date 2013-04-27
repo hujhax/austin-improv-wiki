@@ -7,7 +7,9 @@
 |Run	=	Sep 2010-Jan 2012
 }}
 
-***The Nightmare Video Project*** was a shortform show at [[The Hideout Theater]] that was directed by pre-recorded footage.  It was part of *[[The Wheel]]*.
+***The Nightmare Video Project*** was a shortform show at [[The Hideout Theater]] that was directed by pre-recorded footage.
+
+It was part of *[[The Wheel]]*.
 
 ## Summary
 *The Nightmare Video Project* featured [[Marc Majcher]] as "the Gate Keeper", a hideous, cackling, [wikipedia:Tales from the Crypt (TV series)#Episodes Crypt-Keeper]-like improv director.  The conceit of the show was that all the performers had landed in hell, and had to perform according to the Gate Keeper's whims if they wanted the privilege of avoiding painful death.
