@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		ColdTowne (troupe)
 |Picture  =  Coldtowne.jpg
-|Years	=		2005-Present
+|Years	=		2005-2010
 }}
 
 
