@@ -4,7 +4,7 @@
 The Wheel was brought into the Hideout schedule in September 2010 as a replacement for *[[The Double Barrel]]*.
 
 ## The Schedule
-The wheel rotates through the same four shows every month, with show number n happening on the nth Friday of the month.  Sometimes this schedule is thrown off -- say, if SXSW is renting the theater on the 3rd Friday, then [[The TV Set]] and [[Maestro|Maestro RAW]] get bumped forward a week.  Occasionally, there's an empty "fifth Friday", which is then scheduled at the Hideout's discretion.
+The wheel rotates through the same four shows every month, with show number n happening on the nth Friday of the month.  Sometimes this schedule is thrown off -- say, if SXSW is renting the theater on the 3rd Friday, then *[[2x4]]* and *[[Maestro|Maestro RAW]]* get bumped forward a week.  Occasionally, there's an empty "fifth Friday", which is then scheduled at the Hideout's discretion.
 
 ### 2010-2012 Schedule
 In its original incarnation, the Wheel's schedule looked like this:
