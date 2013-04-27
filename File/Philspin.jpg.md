@@ -1,4 +1,5 @@
 ## Summary
-Photo taken by Kaci Beeler. 
+Photo of [[Philip Aulie]] taken by [[Kaci Beeler]].
+
 ## Licensing
 {{AIC-Wiki-only license}}
