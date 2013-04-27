@@ -16,5 +16,5 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 ## More Information
 * [https://www.facebook.com/CubbiesImprov The troupe's facebook page.]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Cubbies]]
 [[Category/Active|Category:Active]]
