@@ -30,4 +30,5 @@ The troupe started performing in the spring semester of 2004. The original cast 
 *[[Tom Glinkowski]]
 *[[Yamina Khouane]]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
