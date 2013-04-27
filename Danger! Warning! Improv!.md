@@ -16,9 +16,9 @@ The troupe primarily works in specific genres for each show.
 So far, their formats have been "Secret Agnet Men" ([[Wikipedia - James Bond|James Bond]]), "Two to Beam Up" (*[[Wikipedia - Star Trek|classic Star Trek]]*), and "Elementary, Dear Holmes" (classic [[Wikipedia - Sherlock Holmes|Sherlock Holmes]]).
 
 ## Media
-*
-
 ## More Information
 * [http://www.facebook.com/pages/Danger-Warning-Improv/346798645384312 The troupe's facebook page.]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Duos|Category:Duos]]
