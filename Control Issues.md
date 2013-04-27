@@ -7,7 +7,7 @@
 |Run	=	Oct 2010-Present
 }}
 
-**Pick Your Own Path** is [[The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
+***Pick Your Own Path*** is [[The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
 
 ## Summary
 In Pick Your Own Path, the story takes the form of a middle-schooler going off on a crazy adventure.  Periodically, the show's narrator stops the proceedings and offers the audience a choice for how to proceed.  The audience votes for their choice via applause, and the story proceeds accordingly.  Choices may lead to the protagonist's death, in which case, the narrator ratchets back the story and tries another alternative.
