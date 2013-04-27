@@ -23,4 +23,5 @@ This is their bio from their web site:
 * [http://www.facebook.com/media/set/?set=a.3811816376672.136825.1315383518&type=3 Photoset of their performance] from [[WaffleFest]] 2012.
 
 ## More Information
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
