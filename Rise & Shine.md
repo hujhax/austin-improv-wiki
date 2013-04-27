@@ -20,4 +20,4 @@ The cast played the same characters every time & invited a guest player to impro
 
 The first performance was a [[Cagematch]] show and happened on Saturday, March 7th, 2009 at [[ColdTowne Theater]]. It featured [[John Ratliff]] as the guest celebrity.
 
-[[Category/Inactive Troupes|Category:Inactive Troupes]]
+[[Category/Troupes|Category:Troupes]]
