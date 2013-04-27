@@ -14,4 +14,5 @@ They perform every Saturday at 10pm at [[ColdTowne Theater]].
 * [http://www.facebook.com/pages/The-Frank-Mills/215601841791447 The troupe's facebook page.]
 * [http://thefrankmills.wordpress.com/ The troupe's blog.]
 
-[[Category/Active Troupes|Frank Mills]]
+[[Category/Troupes|Frank Mills]]
+[[Category/Active|Category:Active]]
