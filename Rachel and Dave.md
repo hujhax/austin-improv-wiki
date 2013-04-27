@@ -16,5 +16,6 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 ## More Information
 *[http://rachelanddave.com/ Rachel and Dave's web site.]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
