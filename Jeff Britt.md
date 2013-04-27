@@ -13,6 +13,7 @@ Jeff had been only a scripted actor before he started taking improv classes at T
 ## Troupes
 * [[Confidence Men]] (2009-Present)
 * [[Happiness is a Choice]] (2009-Present)
+* [[Two Man Polanski]] (2011)
 * [[The Professor]] (2013)
 
 [[Category/Performers|Britt]]
