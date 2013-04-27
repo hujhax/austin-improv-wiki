@@ -2,7 +2,7 @@
 |Name	=	Simply D-Vine	
 |Picture	= Simply D-Vine.jpg
 |Cast	=	{{Unbulleted list|[[Deano Jones]]|[[Jason Vines]]}}	
-|Years	=	2010-Current
+|Years	=	2010-Present
 }}
 
 **Simply D-Vine** is an improv duo.
@@ -14,5 +14,6 @@ The troupe debuted at [[The Spectacle]] on 11/27/10.
 * [http://www.facebook.com/simplydvineimprov The troupe's facebook page.]
 * [http://forum.austinimprov.com/viewtopic.php?t=11353 Forum announcement of the troupe's debut.]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
