@@ -9,7 +9,7 @@
 **Stone Airplane** was an improv troupe.
 
 ## History
-Stone Airplane cast from one of the [[Merlin Works Mixers]] and performed improv inspired by the works of [[Wikipedia - Shel Silverstein|Shel Silverstein]].  At each show, an audience member selected a random Shel Silverstein poem (brought in by the cast).  The poem was read aloud, and then players identified 3-5 "facts" about the world in which that poem existed.  The players then engage in a montage set in this world.  
+Stone Airplane was cast from one of the [[Merlin Works Mixers]] and performed improv inspired by the works of [[Wikipedia - Shel Silverstein|Shel Silverstein]].  At each show, an audience member selected a random Shel Silverstein poem (brought in by the cast).  The poem was read aloud, and then players identified 3-5 "facts" about the world in which that poem existed.  The players then engage in a montage set in this world.  
 
 Stone Airplane completed a run of shows at [[Salvage Vanguard Theater]] in the summer of 2012.
 
