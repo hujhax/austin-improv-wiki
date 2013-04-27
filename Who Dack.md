@@ -5,7 +5,6 @@
 
 |Years	=		2011-Present
 }}
-[[Category/Active Troupes|Category:Active Troupes]]
 **Who Dack?** is an improv troupe composed of members from several theaters and improv traditions, that performs mainly at [[ColdTowne Theater]].
 
 ## History
@@ -31,3 +30,6 @@ Those who have performed with the troupe include:
 * [[Will Storie]]
 * [[Ryan Thomas]]
 * [[Tim Honker]]
+
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
