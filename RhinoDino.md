@@ -20,5 +20,5 @@ RhinoDino primarily performs short-form improv, with a specialization in naive g
 * [http://www.facebook.com/rhinodinorhinodino Their facebook page.]
 * Shows always posted on Do512.com (Search Rhinodino)
 
-
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
