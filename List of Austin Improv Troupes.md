@@ -46,7 +46,6 @@ These are troupes that still need pages created for them.
 * [[The Knuckleball Now]]
 * [[Local Genius Society]]
 * [[Midnight Society]]
-* [[Mike & Irene]]
 * [[Miller & Purselley]]
 * [[MmmmK]]
 * [[The Nesting Dolls]]
