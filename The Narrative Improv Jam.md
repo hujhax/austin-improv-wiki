@@ -9,6 +9,8 @@
 
 ***The Narrative Improv Jam*** was a monthly Friday-night show at [[The Hideout]] where the cast collaborated with the audience to perform a narrative longform.
 
+It was part of *[[The Wheel]]*.
+
 ## Summary
 *The Narrative Improv Jam* had a cast of ringers joining the audience -- though the audience, too, was typically mostly improvisors.  After leading the attendees in some simple warm-ups, several audience members would get up on the stage and do the opening scene of a longform narrative.  As the story went on, audience members either volunteered or were pressed into service as volunteers.
 
