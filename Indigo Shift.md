@@ -44,4 +44,5 @@ The troupe took a brief hiatus while Maxwell and Brockman fulfilled other profes
 ## More Information
 * [http://www.facebook.com/#!/shiftindigo?fref=ts Indigo Shift's Facebook page]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
