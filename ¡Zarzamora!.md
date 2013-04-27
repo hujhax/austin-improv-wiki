@@ -36,4 +36,5 @@ The following upcoming festival appearances are scheduled:
 ## More Information
 * [http://www.facebook.com/pages/Zarzamora/126236170779574 The troupe's facebook page.]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
