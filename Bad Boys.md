@@ -26,4 +26,5 @@ Bad Boys currently has an open-ended run on Friday nights at [[ColdTowne Theater
 * [http://www.facebook.com/badboysimprov Bad Boys' Facebook]
 * [http://vimeo.com/user6611089/videos Bad Boys' Vimeo]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
