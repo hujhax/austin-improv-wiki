@@ -17,5 +17,7 @@ A narrative improv jam had happened as a successful experiment at other theaters
 
 During one performance of *The Narrative Improv Jam*, a longtime Hideout fan proposed to her partner in the middle of the show.  The director and cast knew about this plan ahead of time, and so set up a story that included the protagonist happening on a marriage proposal in the middle of a public park.  (She said yes.)
 
+Due to poor attendance and generally lackluster performances, the show was quickly replaced with *[[The TV Set]]* in July of 2012.
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheNarrativeImprovJam The show's web page.]
