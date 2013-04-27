@@ -17,9 +17,7 @@ This is their bio from their web site:
 
 ## Media
 * [http://www.viddler.com/v/aa8c6d9d Video of their 8/1/2010 show.] ("Area 51")
-* [http://vimeo.com/26129030 Video of their performance] at the 2011 [[Improvised Play Festival]].
 * [http://www.viddler.com/v/b1728855 Video of their performance] at [[The 2011 Out of Bounds Comedy Festival]]. ("The Hall of Justice")
-* [http://vimeo.com/40901517 Video of their performance] at the 2012 [[Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.3811816376672.136825.1315383518&type=3 Photoset of their performance] from [[WaffleFest]] 2012.
 
 ## More Information
