@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-**Simply D-Vine** is an improv duo.
+**Simply D-Vine** is an improv duo that focuses on high-energy narrative improv.
 
 ## History
 The troupe debuted at [[The Spectacle]] on 11/27/10.
