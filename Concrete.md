@@ -10,4 +10,5 @@
 ## History
 * January 2013 - [[ColdTowne Theater]] Cagematch Champions
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
