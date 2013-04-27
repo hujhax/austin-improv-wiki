@@ -7,14 +7,14 @@
   |Run    = 2012-Present
 }}
 
-**The Free Fringe** is a performance slot at [[The Hideout Theatre]].
+***The Free Fringe*** is a performance slot at [[The Hideout Theatre]].
 
 ## Summary
-The Free Fringe happens every Thursday at 10pm at the Hideout.  It is free to attend, and features experimental and risky formats.
+The Free Fringe happens every Thursday at 10pm at the Hideout.  It is free to attend, and features two experimental, one-off shows followed by a headliner act.
 
 The show is concept-driven, rather than troupe-driven.  The Hideout accepts online submissions for show concepts, and picks several to showcase each week.
 
-In 2013, perhaps due to a paucity of such submissions, the Hideout moved to a headliner model, with two experimental formats followed by a monthly headlining troupe.
+The show is hosted by [[Jessica Arjet]].   Up until 2012, [[Firth & Arjet]] was the *Free Fringe*'s headliner.  After [[Kristin Firth]] left Austin, a rotating set of Jessica's projects have occupied the headliner slot.
 
 Many of the experiments put up for the Free Fringe have met with unexpected success and become recurring shows.
 
