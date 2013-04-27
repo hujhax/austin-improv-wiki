@@ -26,7 +26,7 @@ Unfortunately, the video production required for *The Nightmare Video Project* b
 ## Media
 * 5/20/11: [http://vimeo.com/24094909 Video.]
 * 6/7/11: [http://vimeo.com/25373377 Video.]
-* 7/29/11: [http//vimeo.com/27131686 Video.]
+* 7/29/11: [http://vimeo.com/27131686 Video.]
 * 9/23/11: [http://vimeo.com/29569007 Video.]
 * 10/21/11: [http://vimeo.com/30999738 Video.]
 
