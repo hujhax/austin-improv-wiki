@@ -84,7 +84,7 @@ Nice Astronaut also hosted the short lived "Nomad Comedy Nights" on Wednesdays a
 ## See Also
 * [[Townsville]]
 * [[Who Dack]]
-* [[Gillactica]]
+* [[Galactic]]
 * [[First United Methodist Church of Plano's Youth Group Improv]]
 
 
