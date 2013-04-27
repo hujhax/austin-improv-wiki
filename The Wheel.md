@@ -1,4 +1,4 @@
-**The Wheel** is the rotating set of Friday 8pm shows at [[The Hideout Theatre]].
+***The Wheel*** is the rotating set of Friday 8pm shows at [[The Hideout Theatre]].
 
 ## History
 The Wheel was brought into the Hideout schedule in September 2010 as a replacement for *[[The Double Barrel]]*.
