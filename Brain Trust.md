@@ -14,4 +14,5 @@
 ## More Information
 * [http://www.facebook.com/braintrustimprov The troupe's facebook page.]
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
