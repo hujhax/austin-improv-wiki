@@ -38,4 +38,5 @@ An improvised story in the style of the screwball comedy movies of the 1930s and
 ### French Farce
 An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wiki/Molière Molière], but closer to [http://en.wikipedia.org/wiki/Georges_Feydeau Georges Feydeau] in content.
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
