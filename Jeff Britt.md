@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Jeff Britt	
 |Picture =	Jeff Britt Pic.jpg
-|Theater=	[[The Hideout Theatre & The Institution Theater]]
+|Theater=	[[The Institution Theater]]
 |Years	=	2007-Present
 }}
 
