@@ -8,4 +8,5 @@
 
 They host a weekly show at [[ColdTowne Theater]] followed by [[The Jam with Oh, Science!|an open jam]].
 
-[[Category/Active Troupes|Category:Active Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
