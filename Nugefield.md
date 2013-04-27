@@ -7,5 +7,6 @@
 
 **Nugefield** is an improv duo.
 
-[[Category/Active Troupes|Nugefield]]
+[[Category/Active|Nugefield]]
+[[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
