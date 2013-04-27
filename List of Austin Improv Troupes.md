@@ -2,8 +2,6 @@ This is a list of improv troupes that are operating or have operated in the AIC.
 
 ## Active
 These troupes are currently performing in Austin.
-<categorytree mode=pages hideroot=on style="-moz-column-width:20em;-webkit-column-width:20em">Active Troupes</categorytree>
-
 <div class="DPLTest">
 <DynamicPageList>
 category=Troupes
@@ -15,8 +13,6 @@ order=ascending
 
 ## Inactive
 These troupes are no longer performing in Austin (though some may perform rare "reunion shows").
-<categorytree mode=pages hideroot=on style="-moz-column-width:20em;-webkit-column-width:20em">Inactive Troupes</categorytree>
-
 <div class="DPLTest">
 <DynamicPageList>
 category=Troupes
@@ -28,7 +24,6 @@ order=ascending
 
 ## In Need of Pages
 These are troupes that still need pages created for them.
-
 * [[The Asides]]
 * [[Cheap Date]]
 * [[Cup]]
