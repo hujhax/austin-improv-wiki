@@ -15,9 +15,8 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 <p>[[Marc Majcher]] is both a performer and teacher at [[The Hideout Theatre]]. [[Andreas Fabis]], a member of the [[Gnap!]] company and director of [[Magna Veritas]], has also performed in game-changing shows such as [[Live Nude Improv]]. [[Ruby Willmann]] is director of [[The Good Life]] and a youth [[Hideout]] improv teacher, and [[Alex Dobrekno]] is a recent participant in the New York Improv Festival. [[Lindsey Reeves]] is the newest member of the Escorts and played in [[The Professor]] and [[Firefly -  The musical]]."</p></blockquote>
 
 ## Media
-*
-
 ## More Information
 * [https://www.facebook.com/pages/The-Escorts-Improv-Theater-from-Austin/519211014791053 The troupe's facebook page.]
 
-[[Category/Active Troupes|Escorts]]
+[[Category/Troupes|Escorts]]
+[[Category/Active|Category:Active]]
