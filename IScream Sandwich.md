@@ -3,7 +3,7 @@
 {{Infobox Troupe
 |Name	=		iScream Sandwich
 |Picture	=	iScream Sandwich.jpg
-|Cast	=	{{Unbulleted list | [[Andrew RobinsonCarissa McAteeErica LiesHeidi CaldwellMarv PrattRegina SotoWyatt Tall]] }}
+|Cast	=	{{Unbulleted list | [[Andrew Robinson]] | [[Carissa McAtee]] | [[Erica Lies]] | [[Heidi Caldwell]] | [[Marv Pratt]] | [[Regina Soto]] | [[Wyatt Tall]] }}
 
 |Years	=		2012-Present
 }}
