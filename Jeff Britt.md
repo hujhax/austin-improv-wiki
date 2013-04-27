@@ -8,7 +8,7 @@
 **Jeff Britt** is an improv performer.
 
 ## History
-Jeff had been only a scripted actor before he started taking improv classes at The Hideout in 2007. His 101 instructor was Andy Crouch, his 201 was future Confidence Men troupe-mate Troy Miller, and his 301 teacher was Shana Merlin.
+Jeff's acting career had consisted only of scripted theatre until he started taking improv classes at The Hideout in 2007. His 101 instructor was Andy Crouch, his 201 was future Confidence Men troupe-mate Troy Miller, and his 301 teacher was Shana Merlin.
 
 ## Troupes
 * [[Confidence Men]] (2009-Present)
