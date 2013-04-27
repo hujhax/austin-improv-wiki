@@ -1,9 +1,12 @@
-{{Infobox Troupe
+{{Infobox Show
 |Name	=	Townsville
 |Picture=	Townsville-duoposter1.jpg
+|Theater =      [[ColdTowne Theater]]
 |Type   =       Sketch Comedy
-|Created by	=	{{Unbulleted list|[[Tim Honker]]|[[Nicole McCracken]]}}
-|Years	=		2012-Present
+|Director	=	{{Unbulleted list|[[Tim Honker]]|[[Nicole McCracken]]}}
+|Cast =		Varies
+|Run 	=		Dec 2011
+|Subsequent Runs= {{Unbulleted list|Feb 2012|Mar 2012}}
 }}
 
 **Townsville** is a [http://wiki.improvresourcecenter.com/index.php?title=Close_Quarters Close Quarters] sketch comedy show created by [[Tim Honker]] and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles and crew as needed for each script.
@@ -60,5 +63,4 @@ Townsville was nominated for Best Sketch Show at the [[ColdTowne Theater Awards]
 * [[Nice Astronaut]]
 * [[Close Quarters]]
 
-[[Category/Active Troupes|Category:Active Troupes]]
-[[Category/Duos|Category:Duos]]
+[[Category/Active|Category:Active]]
