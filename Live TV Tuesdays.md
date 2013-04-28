@@ -10,7 +10,7 @@
 }}
 
 
-***Live TV Tuesdays*** (formerly known as "Teen Angst Tuesdays") were a series of theatrical presentations put on by [[The Institution Theater]] where casts of mostly improvisors presented staged versions of beloved TV episodes.
+***Live TV Tuesdays*** (formerly known as "*Teen Angst Tuesdays*") were a series of theatrical presentations put on by [[The Institution Theater]] where casts of mostly improvisors presented staged versions of beloved TV episodes.
 
 ## History
 [[Tom Booker]] began the tradition of *Live TV Tuesdays* in 2009 with his production of [[Live TV Tuesdays -  Saved by the Bell|*Staged by the Bell*]], a live-theater presentation of the *Saved by the Bell* episode "Jessie's Song".  This sort of production was not unprecedented for Mr. Booker: in Los Angeles, he had directed a similar take on *The Brady Bunch* (called [[Wikipedia - The Brady Bunch#Specials.2C documentaries.2C and other revivals|*The Real Live Brady Bunch*]]) to great success.
