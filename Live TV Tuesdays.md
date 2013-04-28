@@ -19,7 +19,7 @@
 
 The show was known by a variety of names over the course of its run.  The first production was known only as "Staged by the Bell".  After that, productions were known as "Teen Angst Tuesdays", except for *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]*, which was known as "Doctor Horrible Live!"  Then starting with *[[Live TV Tuesdays -  Angel|Angel]]*, the name shifted to "Live TV Tuesdays".  Finally, *[[Live TV Tuesdays -  South Park|South Park]]* returned to the "Live!" moniker, going by "South Park Live!"
 
-Note that two of the productions were actually not TV episodes.  [[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]] presented the famous Joss Whedon webseries, and the [[Live TV Tuesdays -  John Hughes Summer School|"John Hughes Summer School"]] presented a variety of scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.
+Note that two of the productions were actually not TV episodes.  *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]* presented the famous Joss Whedon webseries, and the [[Live TV Tuesdays -  John Hughes Summer School|"John Hughes Summer School"]] presented a variety of scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.
 
 ![[SouthParkCeaseAndDesist.jpg|South Park Live]]''.]]
 
