@@ -1,6 +1,6 @@
 {{Infobox Show
   |Name     = The Double Barrel
-  |Picture  = The Double Barrel.jpg
+  |Picture  = The Double Barrel.png
   |Director = Various
   |Theater  = [[The Hideout Theatre]]
   |Cast     = Various
