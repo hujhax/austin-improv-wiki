@@ -13,6 +13,10 @@ This production was referred to as "*South Park: Live*".
 
 It ran for its first month at [[The Highball]], and then moved to [[The Institution Theater]] for its second month.
 
+![[SouthParkCeaseAndDesist.jpg|South Park Live]]''.]]
+
+On 6/28/12, Viacom sent [[File/SouthParkCeaseAndDesist.jpg|a cease-and-desist letter]], demanding an end to the show for reasons of copyright violation.
+
 ## Cast
 * Stan -- [[Michael Pedicano]]
 * Kyle -- [[Nichole McCracken]]
