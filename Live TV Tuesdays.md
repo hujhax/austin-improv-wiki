@@ -8,6 +8,8 @@
 |Run	=	Aug 2009
 |Subsequent Runs= 2009-2012
 }}
+
+
 ***Live TV Tuesdays*** (formerly known as "Teen Angst Tuesdays") were a series of theatrical presentations put on by [[The Institution Theater]] where casts of mostly improvisors presented staged versions of beloved TV episodes.
 
 ## History
@@ -15,9 +17,11 @@
 
 [[Live TV Tuesdays -  Saved by the Bell|*Staged by the Bell*]] was performed at The United States Art Authority at the [[Spider House]].  Subsequent productions happened at [[The Highball]].  Up through the *[[Live TV Tuesdays -  Buffy|Buffy]]* production, productions of *Live TV Tuesdays* stayed exclusively at that venue, but starting with *[[Live TV Tuesdays -  Buffy|Buffy]]*, each production would spend the first month of its run at [[The Highball|the Highball]], and spend their second month at [[The Institution]], which had a newly-constructed theater.  The final show, *[[Live TV Tuesdays -  Scrubs|Scrubs]]*, never played at [[The Highball]], but was performed exclusively at [[The Institution]].
 
-The show was known by a variety of names over the course of its run.  The first production was known only as "Staged by the Bell".  After that, productions were known as "Teen Angst Tuesdays", except for *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]*, which was known as "Doctor Horrible Live!"  Then starting with *[[Live TV Tuesdays -  Angel|Angel]]*, the name shifted to "Live TV Tuesdays".  Finally, *[[Live TV Tuesdays -  Scrubs|Scrubs]]* returned to the "Live!" moniker, going by "Scrubs Live!"
+The show was known by a variety of names over the course of its run.  The first production was known only as "Staged by the Bell".  After that, productions were known as "Teen Angst Tuesdays", except for *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]*, which was known as "Doctor Horrible Live!"  Then starting with *[[Live TV Tuesdays -  Angel|Angel]]*, the name shifted to "Live TV Tuesdays".  Finally, *[[Live TV Tuesdays -  South Park|South Park]]* returned to the "Live!" moniker, going by "South Park Live!"
 
 Note that two of the productions were actually not TV episodes.  [[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]] presented the famous Joss Whedon webseries, and the [[Live TV Tuesdays -  John Hughes Summer School|"John Hughes Summer School"]] presented a variety of scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.
+
+![[SouthParkCeaseAndDesist.jpg|South Park Live]]''.]]
 
 In 2011 and 2012, the Institution achieved great commercial success with a series of [[Wikipedia - Joss Whedon|Joss-Whedon]]-based productions of *[[Live TV Tuesdays -  Buffy|Buffy]]*, *[[Live TV Tuesdays -  Buffy|Angel]]*, *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]*, and *[[Live TV Tuesdays -  Firefly|Firefly]]*.  (They then capitalized on that success with *[[The Joss Whedon Pajama Party]]*.)  Unfortunately, with success, *Live TV Tuesdays* also got the attention of the TV companies' legal departments.  *[[Live TV Tuesdays -  Firefly|Firefly]]* received a cease-and-desist order from FOX after their second performance.  *[[Live TV Tuesdays -  South Park|South Park]]* received a cease-and-desist order from Viacom very early in their run.
 
