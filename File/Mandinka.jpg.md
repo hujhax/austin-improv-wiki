@@ -1,8 +1,9 @@
 ## Summary
 Promotional photo for [[MANDINKA]], featuring [[Mia Iseman]] and [[Andrew Buck]].
 
-Photo by: unknown.
+Photo by: Corina Sims
 
-Art by: unknown.
+Art by: Andrew Buck
+
 ## Licensing
 {{No license}}
