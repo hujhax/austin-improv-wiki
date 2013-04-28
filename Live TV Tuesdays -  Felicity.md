@@ -5,6 +5,7 @@
 |Producer= {{Unbulleted list | [[The Institution Theater]] | [[Tom Booker]] }}
 |Director = [[Carla Goodman]]
 |Cast	=	{{Unbulleted list | [[Adriane Shown]] | [[Bill Price]] | [[Brad Hawkins]] | [[Indigo Rael]] | [[Kacy Todd]] | [[Nathalie Holmes]] | [[Rafael Virguez]] }}
+|Tech = {{Unbulleted list | [[Carla Goodman]] | [[Todd Hart]] | [[Tom Booker]] }}
 |Run	=	Sep/Oct 2011
 }}
 ***Live TV Tuesdays: Felicity*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Felicity (TV series)|*Felicity*]] episode [http://www.imdb.com/title/tt0578679/ "Gimme an O!"].
