@@ -9,7 +9,7 @@
 * [[Furiously Missing]]
 * [[GrimmNoir]]
 * [[Local Genius Society]]
-* [[The Narrative Improv Jam]]
+* *[[The Narrative Improv Jam]]*
 * [[Parallelogramophonograph]] present "Dick and Jane"
 * *[[Process]]*
 * *[[Spirited]]*
