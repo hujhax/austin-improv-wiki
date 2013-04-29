@@ -2,7 +2,10 @@
 
 **The Improvised Play Festival** is an improv festival devoted to narrative longform held at [[The Hideout Theatre]] every April.
 
-The first IPF was held in 2011.
+## List of Improvised Play Festivals
+* [[The 2011 Improvised Play Festvial]]
+* [[The 2012 Improvised Play Festvial]]
+* [[The 2013 Improvised Play Festvial]]
 
 ## More Info
 * [http://www.flickr.com/photos/hideouttheatre/sets/72157629690749871/comments/ Publicity art for the 2012 Improvised Play Festival.]
