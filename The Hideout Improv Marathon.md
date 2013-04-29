@@ -12,3 +12,6 @@ The marathon originated with [[The 40-Hour Improv Marathon]] in 2009.  The event
 * 2011: [[The 42-Hour Improv Marathon]]
 * 2012: [[The 43-Hour Improv Marathon]]
 * 2013: [[The 44-Hour Improv Marathon]] (projected)
+
+## More Information
+* [http://www.hideouttheatre.com/shows/improvmarathon The marathon's web page.]
