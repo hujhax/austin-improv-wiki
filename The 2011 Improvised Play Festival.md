@@ -1,5 +1,7 @@
 **The 2011 Improvised Play Festival** was the first annual [[The Improvised Play Festival|Improvised Play Festival]].
 
+It ran from 6/30/11 to 7/2/11.
+
 ## Acts
 ### Local Acts
 * [[The Amazon and the Milksop]] present Fitzgeralds for Hire
