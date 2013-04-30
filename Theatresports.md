@@ -17,7 +17,6 @@ A group of judges award points, set special 'judges' challenges', and cut short 
 
 In this run, the show will open with a 15-minute "exhibition match", featuring teams organized around some kind of theme.  This will be followed by two matches involving teams drawn from the show's cast.  The show will run in the downstairs theater.
 
-
 ## Guest Stars
 Every week, *TheatreSports* will include two guests stars.  The schedule of guest stars is as follows:
 
