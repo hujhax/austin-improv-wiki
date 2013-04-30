@@ -1,11 +1,11 @@
 {{Infobox Troupe
-|Name	=	Magician Versus Clown
+|Name	=	Magician vs. Clown
 |Picture =     Magician Versus Clown.jpg
 |Cast	=	{{Unbulleted list | [[Jericho Thorp]] | [[Nathan Livni]] }}
 |Years	=		2010-Present
 }}
 
-**Magician Versus Clown** is an improv duo.
+**Magician vs. Clown** is an improv duo.
 
 ## Summary
 Their bio, from the web site for [[The 2012 Out of Bounds Comedy Festival]]:
