@@ -11,7 +11,7 @@
 | [[Neal Tibrewala]]}}
 }}
 
-*Fandom* was a mainstage show at [[The Hideout Theatre]].
+***Fandom*** was a mainstage show at [[The Hideout Theatre]].
 
 ## Summary
 Dubbed 'improvised fanfiction', the show was an improv take on a different fan-beloved universe every week.  The show opened with an [http://wiki.improvresourcecenter.com/index.php?title=Invocation invocation] on the subject of the show, and then moved into a half-hour of short-form games that riffed on that show's universe.  After a ten-minute intermission, the cast would return to perform a forty-minute narrative based on the fandom, perhaps drawing from successful elements in the first half's short-form games.
