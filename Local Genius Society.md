@@ -15,6 +15,10 @@ Beach Cops is an improv show inspired by *[[Wikipedia - Baywatch|Baywatch]]*.
 ## History
 The troupe formed from Hideout students in late 2010.
 
+### Former Members
+* [[Andrew Pish]]
+* [[Kayla Lane Freeman]]
+
 ## Media
 * [http://youtu.be/0hOEB6ctECQ Video of their performance] from 5/28/11.
 * [http://vimeo.com/44633920 Video of their performance] from the 2011 [[WaffleFest]].
