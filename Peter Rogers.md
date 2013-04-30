@@ -10,14 +10,14 @@
 ## History
 Prior to 2000, Peter's only experience with improv had been a number of improv games in high-school theater class, a trip to see Second City in Chicago, and an absolutely terrifying batch of improv games once in college.  Peter saw his first improv show in Austin after getting a free ticket to a [[ComedySportz]] show at Northcross Mall from a comedy defensive driving class.  After that, he saw many more improv shows in town, and then he took the Hideout's first set of improv classes, from [[Shana Merlin]], between 2000 and 2001.  After that, Peter joined [[First Round Draft]], the troupe that formed from the first batch of Hideout students.  He left improv from 2004-2007, and then returned to do more shows, primarily at the Hideout.
 
+## Photography
+Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly.
+
 ## Troupes
 * [[First Round Draft]] (2001-2002)
 * [[Blink]] (2009)
 * [[Continental Breakfast]] (2010)
 * [[The Dancy Street D'Orchestra]] (2010-2011)
-
-## Photography
-Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly.
 
 ## Shows
 * *[[Austin Secrets]]*
