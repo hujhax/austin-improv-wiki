@@ -1,7 +1,7 @@
 ## Summary
 Viacom's cease-and-desist letter demanding an end to *[[Live TV Tuesdays -  South Park|South Park Live]]*.
 
-It was framed and hung in the lobby of [[The Institution Theater]].
+It was immediately framed and hung in the lobby of [[The Institution Theater]].
 
 ## Licensing
 {{AIC-Wiki-only license}}
