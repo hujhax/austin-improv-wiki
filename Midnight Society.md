@@ -13,7 +13,7 @@ Their bio, from their web site:
 
 ## Media
 ## More Information
-* [http://midnightsociety.org/]
+* [http://midnightsociety.org/ The troupe's website.]
  
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
