@@ -36,6 +36,7 @@ order=ascending
 ## In Need of Pages
 These are troupes that still need pages created for them.
 * [[The Asides]]
+* [[Buckets of Buckets]]
 * [[Cheap Date]]
 * [[Cup]]
 * [[Dervish]]
@@ -44,7 +45,7 @@ These are troupes that still need pages created for them.
 * [[The Glamping Trip]]
 * [[Journey to the Big Water]]
 * [[The Knuckleball Now]]
-* [[Local Genius Society]]
+* [[Kosher Bacon]]
 * [[Midnight Society]]
 * [[Miller & Purselley]]
 * [[MmmmK]]
@@ -58,6 +59,7 @@ These are troupes that still need pages created for them.
 * [[The Team]]
 * [[Tears But Joy]]
 * [[Toy Boat]]
+* [[Wait OK Now]]
 * [[We Could Be Heroes]]
 * [[Well Hung Jury]]
 * [[You're Not My Real Dad]]
