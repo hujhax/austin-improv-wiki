@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	J/K
-|Picture =     J/K.jpg
+|Picture =     J-K.jpg
 |Cast	=	{{Unbulleted list | [[Jon Clinkenbeard]] | [[Kacey Samiee]]}}
 |Years	=		2011
 }}
