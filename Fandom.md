@@ -18,6 +18,17 @@ Dubbed 'improvised fanfiction', the show was an improv take on a different fan-b
 
 In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* narrative at [[The Institution Theater]] on 1/25/13, and took over [[The Free Fringe]] for one night on 3/7/13.
 
+## List of Shows
+* 1/5/13: *Buffy the Vampire Slayer*
+* 1/12/13: *The Lord of the Rings*
+* 1/19/13: *Batman*
+* 1/26/13: *The Hunger Games*
+* 2/2/13: *Classic Nintendo*
+* 2/9/13: *Star Wars*
+* 2/16/13: *Harry Potter* (6pm & 8pm)
+* 2/23/13: *Firefly* (determined by online audience vote)
+
+
 ## Media
 * [http://vimeo.com/57198694 Video of the 1/5/13 show (*Buffy the Vampire Slayer*).]
 * [http://vimeo.com/57359770 Video of the 1/12/13 show (*The Lord of the Rings*).]
