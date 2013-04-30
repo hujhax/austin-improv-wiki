@@ -16,11 +16,11 @@ This is their bio from the web site for [[The 2011 Improvised Play Festival]]:
 ### The Cast's Styles
 Each cast member acted in the style of a particular playwright, as follows:
 
-* Asaf Ronen -- [[Wikipedia - Samuel Beckett|Samuel Beckett]]
-* Jon Clinkenbeard -- [[Wikipedia - Sam Shepard|Sam Shepard]]
-* Kacey Samiee -- [[Wikipedia - A. R. Gurney|A. R. Gurney]]
-* Kristin Firth -- [[Wikipedia - John Guare|John Guare]]
-* Marc Majcher -- [[Wikipedia - Eric Bogosian|Eric Bogosian]]
+* [[Asaf Ronen]] -- [[Wikipedia - Samuel Beckett|Samuel Beckett]]
+* [[Jon Clinkenbeard]] -- [[Wikipedia - Sam Shepard|Sam Shepard]]
+* [[Kacey Samiee]] -- [[Wikipedia - A. R. Gurney|A. R. Gurney]]
+* [[Kristin Firth]] -- [[Wikipedia - John Guare|John Guare]]
+* [[Marc Majcher]] -- [[Wikipedia - Eric Bogosian|Eric Bogosian]]
 
 ## Media
 * [http://vimeo.com/26118195 Video of their performance] at [[The 2011 Improvised Play Festival]].
