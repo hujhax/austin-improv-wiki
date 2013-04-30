@@ -40,7 +40,7 @@
 * Saturday 6pm: *[[Spirited]]*
 * Saturday 7pm: *[[Pick Your Own Path]]* 
 * Saturday 8pm: *[[Rock]]*
-* Saturday 9pm: [[The Available Cupholders]]
+* Saturday 9pm: [[Available Cupholders]]
 * Saturday 10pm: *[[Maestro]]*
 * Sunday 12am: [[Confidence Men]]
 * Sunday 1am: [[The Puppet Improv Project]]
