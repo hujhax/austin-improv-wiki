@@ -13,9 +13,10 @@
 ## Summary
 TheatreSports is an improv show in which two teams of improvisors challenge each other to a series of shortform games.
 
-Several judges award points, set special 'judges' challenges', and cut short scenes that are boring.
+A group of judges award points, set special 'judges' challenges', and cut short scenes that are boring.
 
-The show will run in the downstairs theater.
+In this run, the show will open with a 15-minute "exhibition match", featuring teams organized around some kind of theme.  This will be followed by two matches involving teams drawn from the show's cast.  The show will run in the downstairs theater.
+
 
 ## Guest Stars
 Every week, *TheatreSports* will include two guests stars.  The schedule of guest stars is as follows:
@@ -45,7 +46,25 @@ Every week, *TheatreSports* will include two guests stars.  The schedule of gues
 ** [[Andrew Buck]]
 ** [[Kaci Beeler]]
 
+## Exhibition Matches
+Every performance will open with an 'exhibition match' of some kind.
 
+* May 4th
+** Unknown.
+* May 11th
+** Unknown.
+* May 18th
+** Unknown.
+* May 25th
+** *[[Fandom]]* presents: *Star Wars* versus *The Lord of the Rings*
+* June 1st
+** Unknown.
+* June 8th
+** Unknown.
+* June 15th
+** Unknown.
+* June 29th
+** Unknown.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheatresportsTournament The show's web page.]
