@@ -82,7 +82,7 @@ Unknown
 * 11/26/11 performance: [http://vimeo.com/32810551 video].
 * 12/3/11 6pm performance: [http://vimeo.com/33430321 video].
 * 12/3/11 8pm performance: [http://vimeo.com/33398135 video].
-* 12/10/11 8pm performance: [http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.2275267843919.103545.1315383518&type=3 photoset] by [[Michael Yew]]; [https://vimeo.com/33825571 video].
+* 12/10/11 8pm performance: [http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.2275267843919.103545.1315383518&type=3 photoset] by [[Michael Yew]]; [http://vimeo.com/33825571 video].
 * 12/17/11 6pm performance: [http://vimeo.com/34602446 video].
 * 12/17/11 8pm performance: [http://vimeo.com/34029468 video].
 * 12/21/12 performance: [http://www.facebook.com/media/set/?set=a.462857947111060.112251.221927764537414&type=3 photoset] by [[Steve Rogers]]; [http://vimeo.com/56314382 video].
