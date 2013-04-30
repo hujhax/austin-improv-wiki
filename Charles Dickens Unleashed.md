@@ -9,7 +9,7 @@
 |Subsequent Runs= Nov/Dec 2011
 }}
 
-***Charles Dickens Unleashed*** was an improvised longform narrative show inspired by the works of [[Wikipedia - Charles Dickens|Charles Dickens]].
+***Charles Dickens Unleashed*** was a longform narrative show inspired by the works of [[Wikipedia - Charles Dickens|Charles Dickens]].
 
 ## Summary
 The show was a narrated longform, in the style of one of the earlier Dickens novels like *Oliver Twist*.  The narrator was looking back on his early life, and following it through the sort of ups and downs one often saw in Dickens novels.
