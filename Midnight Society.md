@@ -19,7 +19,7 @@ Their bio, from their web site:
 * [http://www.facebook.com/cameraforaface/photos?collection_token=509318085%3A2305272732%3A69&set=a.10151125056593086.494340.509318085&type=3 Photoset of "Andy and Nick's going-away show."]
 
 ## More Information
-* [http://midnightsociety.org/|The troupe's website.]
+* [http://midnightsociety.org/ The troupe's website.]
  
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
