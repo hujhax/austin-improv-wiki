@@ -1,6 +1,6 @@
-Here is a list of shows that have run at various improv theaters in Austin.
+Here is a list of shows that have run or are running in Austin, organized by producer.
 
-## ColdTowne Theater
+## [[ColdTowne Theater]]
 ### Ongoing Shows
 * *[[The Cagematch]]*
 * *[[Stool Pigeon]]*
@@ -21,7 +21,7 @@ Here is a list of shows that have run at various improv theaters in Austin.
 * *[[Cereal for Adults]]*
 * *[[After School Special Victims Unit]]*
 
-## Salvage Vanguard Theater
+## [[Gnap! Theater Projects]]
 ### Ongoing Shows
 * *[[The Derby]]*
 * *[[The Saturday Night Special]]*
@@ -43,16 +43,14 @@ Here is a list of shows that have run at various improv theaters in Austin.
 *  [[This American Live]] (2012)
 * *[[Pocketful of Posies]]* (2012)
 * *[[Seance]]* (2012)
+* *[[Haunted]]*
+* *[[Bad Company]]*
+* *[[Heist!]]*
+* *[[The Sword of Merlin Works]]*
+* *[[The Trouble With Terry]]*
 
-Gnap! and Merlin Works also sponsored the creation of several troupes, who then had mainstage runs at [[Salvage Vanguard Theater]]: 
-* *[[Blink]]*
-* *[[Wait OK Now]]*
-* *[[The Seven Eight Sevens]]*
-* *[[Kosher Bacon]]*
-* *[[Stone Airplane]]*
-* *[[Buckets of Buckets]]*
 
-## The Hideout Theatre
+## [[The Hideout Theatre]]
 ### Ongoing Shows
 * *[[Gorilla Theater]]*
 * *[[More or Less]]*
@@ -67,11 +65,6 @@ Gnap! and Merlin Works also sponsored the creation of several troupes, who then 
 * *[[The Threefer]]*
 * *[[The Spectacle]]*
 * *[[The Free Fringe]]*
-
-### Headliner Shows
-* *[[Louder Than Words]]*
-* *[[The Plagiarists]]*
-* *[[The Library]]*
 
 ### Mainstage Productions
 The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.
@@ -102,7 +95,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[Fakespeare]]* (2013)
 * *[[A Bedtime Gorey]]* (2013)
 
-## The Institution Theater
+## [[The Institution Theater]]
 ### Ongoing Shows
 * *[[The Rubber Room]]*
 * *[[The Triple Scoop]]*
@@ -116,14 +109,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[The Next Chapter]]* (2013)
 * *[[The Suitcase]]* (2013)
 
-## Merlin Works Student Productions
-* *[[Haunted]]*
-* *[[Bad Company]]*
-* *[[Heist!]]*
-* *[[The Sword of Merlin Works]]*
-* *[[The Trouble With Terry]]*
-
-## The New Movement Theater
+## [[The New Movement Theater]]
 ### Ongoing Shows
 * *[[Lights Up!]]*
 * *[[The Franchise]]*
