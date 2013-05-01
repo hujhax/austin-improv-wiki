@@ -71,7 +71,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Jon Bolden]]
 * [[Kaci Beeler]]
 * [[Kareem Badr]]
-* [[Kayla Freeman]]
+* [[Kayla Lane Freeman]]
 * [[Lisa Jackson]]
 * [[Nicole Oliver]]
 * [[Paul Normandin]]
