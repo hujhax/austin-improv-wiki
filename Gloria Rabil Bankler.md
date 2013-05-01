@@ -15,11 +15,9 @@ She has also produced segments based on the concept of fear, called *What Are Yo
 Gloria studied theater in college at the University of North Carolina at Greensboro. 
 In the summer of 2010 her sister-in-law, Faye Bankler Casell, talked her into taking classes at the Hideout Theatre after watching Gloria’s son, Quinn Rabil Bankler, perform in a student showcase.  
 Gloria started classes at the Hideout shortly after in a level one class with [[Valerie Ward]]. She took classes through level four with [[Andy Crouch]], the Hideout Education Director. 
-Gloria has performed at The NYC Improv Festival, The Oklahoma Improv Festival, The Improvised Play Festival, Wafflefest, Out of Bounds and Improvaganza Hawaii with [[In Our Prime]].  She has also performed at The Improvised Play Festival, Wafflefest and Out of bounds with [[Furiously Missing]]. 
+Gloria has performed at The NYC Improv Festival, The Oklahoma Improv Festival, The Improvised Play Festival, Wafflefest, Out of Bounds and Improvaganza Hawaii with [[In Our Prime]].  She has also performed at The Improvised Play Festival, Wafflefest and Out of bounds with [[Furiously Missing]].
 
-
-
-
+Gloria is also a wife, mother of two (boys), scripted actor, writer, director and filmmaker.
 
 ## Troupes
 * [[In Our Prime]]
