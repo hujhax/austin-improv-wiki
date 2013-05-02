@@ -1,3 +1,5 @@
+**Current page count: {{NUMBEROFARTICLES}}.**
+
 ## Tasks
 * Upload [[Sara Farr]]'s AIC logo designs.
 ** Also, re-save the Illustrator files as JPGs, and upload those.
