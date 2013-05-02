@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		In Our Prime
 |Picture	=	In Our Prime.jpg
-|Cast	=	{{Unbulleted list|[[Jessica Arjet]]|[[Gloria Bankler]]|[[Ryan Hill]]|[[Paul Normandin]]}}
+|Cast	=	{{Unbulleted list|[[Jessica Arjet]]|[[Gloria Rabil Bankler]]|[[Ryan Hill]]|[[Paul Normandin]]}}
 |Years	=		2012-Present
 }}
 
