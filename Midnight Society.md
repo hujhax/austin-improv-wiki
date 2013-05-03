@@ -12,10 +12,14 @@ Their bio, from their web site:
 <blockquote><p>"Made up of stand up and sketch comedians, filmmakers, and writers, Midnight Society was named Austin’s best improv troupe by the Austin American Satesman’s A-List and was recently nominated for a B. Iden Payne Award. They’ve performed all around the country, including one show where star of stage and screen Matthew Lillard was in the audience. Midnight Society performs every Saturday night at 10PM at [[ColdTowne Theater]] along with improv veterans [[The Frank Mills]]."</p></blockquote>
 
 ## Former Members
+* [[Stephanie Cook]]
 * [[Elizabeth Leader]]
+* [[Drew Lee]]
+* [[Delaney Liming]]
 * [[Andy Petruzzo]]
 * [[Nick Ramirez]]
-* [[Stephanie Cook]]
+* [[Stephen Short]]
+* [[David Zimmerman]]
 
 ## Media
 * [http://www.facebook.com/cameraforaface/photos?collection_token=509318085%3A2305272732%3A69&set=a.10151125056593086.494340.509318085&type=3 Photoset of "Andy and Nick's going-away show."]
