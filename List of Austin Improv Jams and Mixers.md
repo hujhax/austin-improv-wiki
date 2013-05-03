@@ -3,5 +3,5 @@
 * The first Saturday of every month, [[Merlin Works]] puts on [[The Merlin Works Mixer]] at the AT&T Education Room at the Long Center for the Performing Arts.
 * The second Sunday of every month, [[Leng Wong]] and [[Kevin Miller]] host *[[Whoosh Bang Pow -  Back to Basics]]*.
 * Every Sunday night at 8pm, [[The Institution Theater]] puts on *[[The Rubber Room]]*.
-* Every first Sunday of the month at 5pm, [[ColdTowne Theater]] hosts *[[Teen Improv Night]]* perfromers under 18.
+* Every first Sunday of the month at 5pm, [[ColdTowne Theater]] hosts *[[Teen Improv Night]]* for performers under 18.
 * Every Tuesday night at around 9:30pm, [[ColdTowne Theater]] hosts a jam following *[[Stool Pigeon]]*.
