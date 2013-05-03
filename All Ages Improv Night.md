@@ -12,5 +12,9 @@ Every first Sunday of the month, [[ColdTowne Theater]]'s youth program hosts two
 
 The goal of *Teen Improv Night* is to provide young improvisers with the opportunity to see both their peers and accomplished adult performers improvise full length shows. The jam, which follows, invites both audience members and performers to join [[Journey to the Big Water]] onstage for Austin's most unpredictable jam!
 
+
+## More Information
+* [http://www.facebook.com/MYTatCT The show's facebook page.]
+
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
 [[Category/Shows|Category:Shows]]
