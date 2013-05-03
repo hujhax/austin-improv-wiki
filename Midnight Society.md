@@ -15,6 +15,7 @@ Their bio, from their web site:
 * [[Elizabeth Leader]]
 * [[Andy Petruzzo]]
 * [[Nick Ramirez]]
+* [[Stephanie Cook]]
 
 ## Media
 * [http://www.facebook.com/cameraforaface/photos?collection_token=509318085%3A2305272732%3A69&set=a.10151125056593086.494340.509318085&type=3 Photoset of "Andy and Nick's going-away show."]
