@@ -10,7 +10,7 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * [[Christopher 'Ceej' Allen]]
 * [[Jessica Arjet]]
 * [http://www.facebook.com/jonathan.monkhouse Jonathan Monkhouse] (guest from England)
-* [[Kayla Freeman]]
+* [[Kayla Lane Freeman]]
 * [[Lindsey Reeves]]
 * [[Lisa Jackson]]
 * [[Peter Rogers]]
