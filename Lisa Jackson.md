@@ -11,8 +11,11 @@
 Lisa appeared in [[The 42-Hour Improv Marathon]], and will appear in [[The 44-Hour Improv Marathon]], both at [[The Hideout Theatre]].
 
 ## Troupes
+* [[Dervish]]
 * [[Galactic]]
-* [[Nice Astronaut]]
+* [[Ratliff & Jackson]]
+* [[Stool Pigeon]]
+* [[Nice Astronaut]] (former member)
 
 ## Shows
 * *[[Austin Secrets]]*
