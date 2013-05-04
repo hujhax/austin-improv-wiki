@@ -1,5 +1,8 @@
 **The 44-Hour Improv Marathon** will be the fifth annual [[Hideout Improv Marathon]].
 
+![[The 44-Hour Improv Marathon.jpg|Publicity image for the 44-Hour Improv Marathon.]]
+
+
 ## Summary
 It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 
@@ -14,3 +17,7 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * [[Lindsey Reeves]]
 * [[Lisa Jackson]]
 * [[Peter Rogers]]
+
+## More Information
+* [http://www.facebook.com/hideouttheatre/posts/10151469906483510 Cast announcement] from [[The Hideout Theatre]].
+* [http://www.hideouttheatre.com/shows/improvmarathon The show's web page.]
