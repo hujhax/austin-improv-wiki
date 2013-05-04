@@ -20,3 +20,4 @@ Lisa appeared in [[The 42-Hour Improv Marathon]], and will appear in [[The 44-Ho
 * *[[Manhattan Stories]]*
 
 [[Category/Performers|Jackson]]
+[[Category/Teachers|Jackson]]
