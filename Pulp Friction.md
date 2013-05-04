@@ -17,5 +17,5 @@ It was a mainstage show at [[The Institution Theater]].
 
 
 ## Media
-* [http://vimeo.com/52304966 Video of the 10/26/12 performance.]
+* [http://vimeo.com/52304966 Video of their 10/26/12 performance.]
 * [http://vimeo.com/65464246 Video of their 4/11/13 performance] in [[The 2013 Improvised Play Festival]].
