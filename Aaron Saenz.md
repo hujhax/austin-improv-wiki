@@ -5,7 +5,7 @@
 |Years	=	2000-2003, 2012-Present
 }}
 
-**Aaron Saenz**  a classically-trained improviser.
+**Aaron Saenz** is a classically-trained improviser.
 
 ## History
 Aaron will appear in [[The 44-Hour Improv Marathon]] at [[The Hideout Theatre]].
