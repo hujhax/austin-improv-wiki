@@ -15,10 +15,10 @@ Aaron will appear in [[The 44-Hour Improv Marathon]] at [[The Hideout Theatre]].
 * [[The Awkwards]]
 * [[Well Hung Jury]]
 
-### San Francisco Troupes
-* American Standard
-* The Immediate Gratification Players
-* Un-Scripted Theater
+### Other Troupes
+* American Standard (New York City)
+* The Immediate Gratification Players (Boston)
+* Un-Scripted Theater (San Francisco)
 
 ## Shows
 * *[[Fandom]]*
