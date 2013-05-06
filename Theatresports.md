@@ -23,20 +23,20 @@ Every week, *TheatreSports* will include two guests stars, as well as a themed "
 The schedule is as follows:
 
 * May 4th
-** Exhibition match: unknown
+** Exhibition match: Girls Girls Girls Improvised Musicals VS Orphans Orphans Orphans
 ** Guests:
 *** [[Caitlin Sweetlamb]]
 *** [[Jeremy Sweetlamb]]
 * May 11th
-** Exhibition match: unknown
+** Exhibition match: Puppets VS Known Wizards
 ** Guests:
 *** [[Courtney Hopkin]]
 *** [[Lauren Buck]]
 * May 18th
 ** Exhibition match: *[[Fandom]]* presents: *Star Wars* versus *The Lord of the Rings*.
 ** Guests:
-*** [[Alex Dobrenko]]
-*** [[Asaf Ronen]]
+*** ???
+*** ???
 * May 25th
 ** Exhibition match: unknown.
 ** Guests:
