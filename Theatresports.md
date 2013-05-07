@@ -11,7 +11,7 @@
 ***Theatresports* (mainstage run)** refers to the May 2013 Mainstage run of [[Wikipedia - Theatresports|the traditional 'improv contest']] format from [[Wikipedia - Keith Johnstone|Keith Johnstone]].
 
 ## Summary
-Theatresports is an improv show in which two teams of improvisors challenge each other to a series of shortform games.
+Theatresports is an improv show in which two teams of improvisors challenge each other to a series of improv games, improvised scenes, and other, less classifiable feats.
 
 A group of judges award points, set special 'judges' challenges', and cut short scenes that are boring.
 
