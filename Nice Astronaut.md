@@ -52,7 +52,7 @@ Nice Astronaut has specialized in creating and preforming custom formats, but ha
 The Small Universe format is the combination of a Close Quarters and a Harold. The show begins with scene painting one or more nearby locations in which the show will take place.  A set of scenes are performed in these, or closely inspired locations, and eventually they all intertwine.  Nice Astronaut started performing this format in the summer of 2012.
 
 ### Improvioke
-Similar to an Armando, the Improvioke replaces the monologues and monologist with an improvised song based off an audience member to a well known song's karaoke backing track.  Nice Astronaut created this form in early 2010 and often performs it on their second Saturday shows.
+Similar to an Armando, the [http://www.coldtownetheater.com/events/nice-astronaut-improvioke Improvioke] replaces the monologues and monologist with an improvised song based off an audience member to a well known song's karaoke backing track.  Nice Astronaut created this form in early 2010 and often performs it on their second Saturday shows.
 
 ### 28 Minutes Later
 28 Minutes Later (named after the approximate length of the show) is a mono-scene show that follows the third act of a zombie survival movie.  Nice Astronaut takes a suggestion of a non-geographic location where "humanity may make its last stand" against the zombies, then each improviser enters a dark stage with a flashlight and delivers a character monologue until the last character locates the lights in the location and the show starts.
@@ -63,8 +63,8 @@ Performed as a [http://www.coldtownetheater.com/blog/nice-astronaut-presents-its
 ### White Elephant
 White Elephant was a format performed as a [http://do512.com/event/weekly/thu/thursday-night-social-club-nice-astronaut-and-precious-dads-hosted-by-mac-blake December 2012 run at ColdTowne Theater].  Audience members were instructed to write down previous good and bad gifts they had given and received in the past onto pieces of paper.  Nice Astronaut, dressed in festive attire, then randomly drew these piece of paper and used them as suggestions to inspire real life monologues which inspired a run of scenes.
 
-### Dating Game
-A semi-narrative improv format that follows the potential dates and long term lives and what-if's of a game show contestant and their 3 suitors.  Nice Astronaut performed this format in February and March 2012.
+### Save These Dates
+A semi-narrative improv format that follows the potential dates and long term lives and what-if's of a game show contestant and their 3 suitors.  Nice Astronaut performed this format in [http://www.coldtownetheater.com/events/nice-astronaut-presents-save-these-dates February and March 2012].
 
 ### After Midnight
 After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The same time slot is now called "[[Last Call]]".  The show titles included:
@@ -82,7 +82,7 @@ Nice Astronaut has performed at the following festivals
 * [[Out of Bounds]] - [http://outofboundsimprov.com/2009/shows/wed8svtapples.html 2009], [http://www.outofboundscomedy.com/2010/2010/coming-soon/Index.html 2010], [http://www.outofboundscomedy.com/2011/duo-shmuoatx530pmachatina-achatinaatxoj-in-a-sippy-cupnyc630pmthe-glamping-tripatx-margots-piela-730pmthat-summer-in-junechi-tbatba830pmbitter-sweet-chokechi-jerkslachi930pml/index.html 2011], [http://www.outofboundscomedy.com/2012/events/fri-aug-31st-830pm-coldtowne/index.html 2012]
 
 ## Miscellaneous
-Nice Astronaut also hosted the short lived "Nomad Comedy Nights" on Wednesdays at Nomad Bar during the summer of 2009.
+Nice Astronaut also hosted the short lived [http://blog.coldtownetheater.com/wp-content/uploads/2009/06/nomad-poster-june09b.jpg "Nomad Comedy Nights"] on Wednesdays at Nomad Bar during the summer of 2009.
 
 ## See Also
 * [[Townsville]]
