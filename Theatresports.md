@@ -28,7 +28,7 @@ The schedule is as follows:
 *** [[Caitlin Sweetlamb]]
 *** [[Jeremy Sweetlamb]]
 * May 11th
-** Exhibition match: Puppets VS Known Wizards
+** Exhibition match: [[Puppet Improv Project|Puppets]] VS [[The Known Wizards]]
 ** Guests:
 *** [[Courtney Hopkin]]
 *** [[Lauren Buck]]
