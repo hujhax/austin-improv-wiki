@@ -51,7 +51,7 @@
 * Sunday 6am: [[Local Genius Society]] presents "Beach Cops"
 * Sunday 7am: [[Your Dad's Friends]]
 * Sunday 8am: Student Show
-* Sunday 9am: [[Charles Dickens Unleashed!]]
+* Sunday 9am: *[[Charles Dickens Unleashed]]*
 * Sunday 10am: an improv show based on *[[Wikipedia - The Hunger Games|The Hunger Games]]*
 * Sunday 11am: Free-form improv from the core cast.
 
