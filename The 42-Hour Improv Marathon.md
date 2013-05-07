@@ -9,9 +9,8 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 * [[Karen Jane DeWitt]]
 * [[Lisa Jackson]]
 * [[Peter Rogers]]
-* [[Tim Redmond]]
+* [http://theimprobox.com/tim-redmond/ Tim Redmond] (guest from Australia)
 * [[Troy Miller]]
-
 
 ## Schedule
 * Friday 6pm: "Inaugural Show", free-form improv with the core improvisors
