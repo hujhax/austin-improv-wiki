@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name	=	TheatreSports	
+|Name	=	Theatresports	
 |Picture = TheatreSports.jpg
 |Director = [[Roy Janik]]
 |Assistant Director = [[Ryan Austin]]
@@ -8,17 +8,17 @@
 |Run	=	May/Jun 2013
 }}
 
-***TheatreSports* (mainstage run)** refers to the May 2013 Mainstage run of [[Wikipedia - TheatreSports|the traditional 'improv contest']] format from [[Wikipedia - Keith Johnstone|Keith Johnstone]].
+***Theatresports* (mainstage run)** refers to the May 2013 Mainstage run of [[Wikipedia - Theatresports|the traditional 'improv contest']] format from [[Wikipedia - Keith Johnstone|Keith Johnstone]].
 
 ## Summary
-TheatreSports is an improv show in which two teams of improvisors challenge each other to a series of shortform games.
+Theatresports is an improv show in which two teams of improvisors challenge each other to a series of shortform games.
 
 A group of judges award points, set special 'judges' challenges', and cut short scenes that are boring.
 
-In this run, the show opens with a 15-minute "exhibition match", featuring teams organized around some kind of theme.  This is followed by two matches involving teams drawn from the show's cast.  The show runs in the downstairs theater.
+In this run, the show opens with a 15-minute student bout, featuring two student teams captained by a member of the core cast. This is followed by an "exhibition match", featuring teams organized around some kind of theme.  After an intermission, there is a "main event" bout, involving teams drawn from the show's cast.  The show runs in the downstairs theater.
 
 ## List of Shows
-Every week, *TheatreSports* includes two guest stars, as well as a themed "exhibition match".
+Every week, *Theatresports* includes two guest stars, as well as a themed "exhibition match".
 
 The schedule is as follows:
 
