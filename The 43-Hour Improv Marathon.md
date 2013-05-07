@@ -6,7 +6,7 @@
 * [[Emma Holder]]
 * [[Eric Heiberg]]
 * [[Halyn Lee Erickson]]
-* [[Jill Bernard]]
+* [http://jillbernard3.blogspot.com/ Jill Bernard] (guest from Minneapolis)
 * [[John Ratliff]]
 * [[Jon Bolden]]
 * [[Marc Majcher]]
