@@ -10,7 +10,7 @@
 ## Summary
 ### Press Blurb
 This is from the "philosophy" section of their web site:
-<blockquote>"As mentioned before... The Knuckleball Now is an improv comedy troupe based in Austin... but first and foremost, TKN is a philosophy, an energy and a way of thinking.  It's all about having fun with fearless enthusiasm.  It's having an unwavering faith in each other, where the brain synapses are in sync, and there is a connection through chaos."</blockquote>
+<blockquote>"The Knuckleball Now is an improv comedy troupe based in Austin... but first and foremost, TKN is a philosophy, an energy and a way of thinking.  It's all about having fun with fearless enthusiasm.  It's having an unwavering faith in each other, where the brain synapses are in sync, and there is a connection through chaos."</blockquote>
 
 ## History
 The troupe was formed in 2005.
