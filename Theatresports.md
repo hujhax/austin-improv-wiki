@@ -15,15 +15,15 @@ TheatreSports is an improv show in which two teams of improvisors challenge each
 
 A group of judges award points, set special 'judges' challenges', and cut short scenes that are boring.
 
-In this run, the show will open with a 15-minute "exhibition match", featuring teams organized around some kind of theme.  This will be followed by two matches involving teams drawn from the show's cast.  The show will run in the downstairs theater.
+In this run, the show opens with a 15-minute "exhibition match", featuring teams organized around some kind of theme.  This is followed by two matches involving teams drawn from the show's cast.  The show runs in the downstairs theater.
 
 ## List of Shows
-Every week, *TheatreSports* will include two guests stars, as well as a themed "exhibition match".
+Every week, *TheatreSports* includes two guest stars, as well as a themed "exhibition match".
 
 The schedule is as follows:
 
 * May 4th
-** Exhibition match: Girls Girls Girls Improvised Musicals VS Orphans Orphans Orphans
+** Exhibition match: [[Girls Girls Girls]] versus "Orphans Orphans Orphans", a trio of [[Charles Dickens Unleashed|Dickensian]] orphans
 ** Guests:
 *** [[Caitlin Sweetlamb]]
 *** [[Jeremy Sweetlamb]]
