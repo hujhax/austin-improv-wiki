@@ -6,7 +6,7 @@
 |Cast	=	Various
 |Tech	=	Various
 |Run	=	Unknown
-|Subsequent Runs = {{Unbulleted list | Apr/May 2005 | Season 3 | Sep-Nov 2007 | Sep-Nov 2008 | Nov/Dec 2010 | Jan/Feb 2011 }}
+|Subsequent Runs = {{Unbulleted list | Apr-May 2005 | Season 3 | Sep-Nov 2007 | Sep-Nov 2008 | Nov-Dec 2010 | Jan-Feb 2011 }}
 }}
 
 ***Start Trekkin***' was an improvised longform narrative show inspired by [[Wikipedia - Star Trek -  The Original Series|the original *Star Trek* television series]].
@@ -20,12 +20,12 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 
 ### Season Dates
 * Season 1: unknown
-* Season 2: Apr/May 2005
+* Season 2: Apr-May 2005
 * Season 3: unknown
 * Season 4: Sep-Nov 2007
 * Season 5: Sep-Nov 2008
-* Season 6: Nov/Dec 2010
-* Season 7: Jan/Feb 2011
+* Season 6: Nov-Dec 2010
+* Season 7: Jan-Feb 2011
 
 ## Casts
 The casts of season 1 and of seasons 3-6 are unknown at this time.
@@ -35,7 +35,7 @@ The casts of season 1 and of seasons 3-6 are unknown at this time.
 ### Season 1: Unknown
 Unknown.
 
-### Season 2: Apr/May 2005
+### Season 2: Apr-May 2005
 *This list is incomplete.*
 
 * [[David Lampe]]
@@ -66,7 +66,7 @@ Unknown.
 * [[Sean Hill]]
 * [[Topping Haggerty]]
 
-### Season 6: Nov/Dec 2010
+### Season 6: Nov-Dec 2010
 *This list is incomplete.*
 
 * [[Aden Kirschner]]
@@ -76,7 +76,7 @@ Unknown.
 * [[Roy Danger]]
 * [[Troy Miller]]
 
-### Season 7: Jan/Feb 2011
+### Season 7: Jan-Feb 2011
 * [[Alex Dobrenko]]
 * [[Andy Crouch]]
 * [[Chris Allen]]
