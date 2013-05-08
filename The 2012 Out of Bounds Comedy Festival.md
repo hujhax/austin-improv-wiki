@@ -88,7 +88,7 @@ The festival roast featured [[David Lampe]].
 * Checkbook
 * Commerce Street
 * Doctro
-* [The Don't We Boys!]http://www.dontweboys.com
+* [http://www.dontweboys.com The Don't We Boys!]
 * Drew's Tumbler
 * Drum Machine (Minneapolis)
 * The Ed Forman Show, with ME! ED FORMAN! 
