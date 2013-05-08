@@ -27,7 +27,7 @@ In January 2012, the Wheel was revamped to look like this:
 In place of *[[The Lottery]]*, [[The Hideout]] added a dedicated night for newer improvisors with *[[Maestro|Maestro RAW]]*.
 
 ### 2012-2013 Schedule
-In July 2012, *[[The Narrative Improv Jam]]* was retired and replaced with *[[The TV Set]]*:
+In July 2012, *[[The Narrative Improv Jam]]* was retired and replaced with *[[The TV Set]]*.
 * Week 1: *[[The Fancy-Pants Mash-Up]]*
 * Week 2: *[[Pick Your Own Path]]*
 * Week 3: *[[The TV Set]]*
