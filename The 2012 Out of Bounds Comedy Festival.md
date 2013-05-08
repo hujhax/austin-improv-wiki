@@ -63,11 +63,11 @@ The festival roast featured [[David Lampe]].
 * [[Shades of Brown]]
 * *[[Spirited]]*
 * [[Squirrel Buddies]]
-* [[Start Trekkin']]
+* *[[Start Trekkin']]*
 * [[Stool Pigeon]]
 * [[Tears But Joy]]
 * [[There's Waldo]]
-* *Twilight Zoned* (part of [[The Sci-Fi Comedy Double Feature]])
+* *[[Twilight Zoned]]*
 * [[What's the Story, Steve]]
 * [[Your Dad's Friends]]
 * [[Your Terrific Neighbors]]
