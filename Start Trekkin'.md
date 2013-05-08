@@ -19,36 +19,41 @@ The people involved in *Start Trekkin*' refer to their runs as "seasons".
 Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theatre]].
 
 ### Season Dates
-* Season 1: unknown
+* Season 1: May 15-29, 2004
 * Season 2: Apr-May 2005
 * Season 3: unknown
 * Season 4: Sep-Nov 2007
 * Season 5: Sep-Nov 2008
-* Season 6: Nov-Dec 2010
+* Season 6: Nov 28 and Dec 5, 2010
 * Season 7: Jan-Feb 2011
+
+## Star Trek Convention
+In August 2005, the season 2 Start Trekkin' cast was invited to perform at the official Star Trek convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
 ## Casts
 [[David Lampe]] is the only improvisor to appear in all seven seasons of the show.
 
-### Season 1: Unknown
+### Season 1
 Unknown.
 
-### Season 2: Apr-May 2005
+### Season 2
 *This list is incomplete.*
-
+* [[Andy Crouch]]
 * [[David Lampe]]
 * [[Jay Michael]]
 * [[Kacey Samiee]]
+* [[Shana Merlin]]
 * [[Kevin Miller]]
 * [[Troy Miller]]
+* [[Ben Sterling]]
 
-### Season 3: Unknown
+### Season 3
 Unknown.
 
-### Season 4: Sep-Nov 2007
+### Season 4
 Unknown.
 
-### Season 5: Sep-Nov 2008
+### Season 5
 * [[Aden Kirschner]]
 * [[Andy Crouch]]
 * [[Audrey Rachel Sansom]]
@@ -64,7 +69,7 @@ Unknown.
 * [[Sean Hill]]
 * [[Topping Haggerty]]
 
-### Season 6: Nov-Dec 2010
+### Season 6
 *This list is incomplete.*
 
 * [[Aden Kirschner]]
@@ -74,7 +79,7 @@ Unknown.
 * [[Roy Danger]]
 * [[Troy Miller]]
 
-### Season 7: Jan-Feb 2011
+### Season 7
 * [[Alex Dobrenko]]
 * [[Andy Crouch]]
 * [[Chris Allen]]
