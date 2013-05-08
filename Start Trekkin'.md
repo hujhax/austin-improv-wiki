@@ -18,7 +18,7 @@
 
 Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on *Start Trekkin*', establishing many tropes that are hallmarks of the format: fights with three exchanges in which the loser is called ahead of time; onstage transporter effects; and focusing on the relationships among the ship's crew.
 
-*Start Trekkin* was invited to perform at the Star Trek Premiere Party at the Bob Bullock State History Museum on May 8th, 2009.
+*Start Trekkin* was invited to perform at the Star Trek Premiere Party[http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/] at the Bob Bullock State History Museum on May 8th, 2009.
 
 Subsequent seasons followed almost once per year.  In early 2011, *Start Trekkin*' ran as half of *[[The Sci-Fi Comedy Double Feature]]*.
 
