@@ -12,9 +12,13 @@
 ***Start Trekkin***' was an improvised longform narrative show inspired by [[Wikipedia - Star Trek -  The Original Series|the original *Star Trek* television series]].
 
 ## History
-*Start Trekkin*' was an early mainstage show at [[The Hideout Theater]], and one of the first "improvised <blank>" formats in Austin.  It had six mainstage runs and a performance at a Las Vegas *Star Trek* convention, before running as half of *[[The Sci-Fi Comedy Double Feature]]* in early 2011.
+*Start Trekkin*' was originated by Lawrence Wolf in San Francisco around 2000.  The show was very successful there, with a large number of performances and sci-fi-convention appearances.
 
-The people involved in *Start Trekkin*' refer to their runs as "seasons".
+[[Sean Hill]] saw the show in San Francisco, and decided to bring the format to Austin.  In 2004, [http://www.facebook.com/richard.ross.102 Richard Ross], a founding member of the original San Francisco show, taught a brief workshop in the format at [[The Hideout Theatre]].  A year later, [[Jay Michael]] and [[Troy Miller]] produced season one of *Start Trekkin' * at the Hideout.  (Note: the people involved in *Start Trekkin' * refer to their runs as "seasons".)
+
+Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on *Start Trekkin*', establishing many tropes that are hallmarks of the format: fights with three exchanges in which the loser is called ahead of time; onstage transporter effects; and focusing on the relationships among the ship's crew.
+
+Subsequent seasons followed almost once per year.  In early 2011, *Start Trekkin*' ran as half of *[[The Sci-Fi Comedy Double Feature]]*.
 
 Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theatre]].
 
