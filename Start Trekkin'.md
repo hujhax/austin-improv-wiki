@@ -44,14 +44,14 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 
 ### Season 2
 * [[Andy Crouch]]
+* [[Ben Sterling]]
 * [[David Lampe]]
 * [[Jay Michael]]
 * [[Kacey Samiee]]
-* [[Shana Merlin]]
 * [[Kevin Miller]]
-* [[Troy Miller]]
-* [[Ben Sterling]]
+* [[Shana Merlin]]
 * [[Tim Giradot]] (Musical improviser)
+* [[Troy Miller]]
 
 ### Season 3
 *This list is incomplete*
