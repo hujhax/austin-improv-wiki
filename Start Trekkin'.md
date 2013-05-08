@@ -86,6 +86,8 @@ Unknown.
 * [http://vimeo.com/35437814 Video of the 4/23/05 performance.]
 * [http://vimeo.com/35681293 Video of the 5/28/05 performance.]
 * [http://vimeo.com/35681293 Video of 'episode seven' from season 2.]
+* Video of the 9/27/08 performance, in three parts: [http://www.facebook.com/photo.php?v=43256292752 1], [http://www.facebook.com/photo.php?v=43351022752 2], [http://www.facebook.com/photo.php?v=43700942752 3].
+* Video of the 11/15/08 performance, in four parts: [http://www.facebook.com/photo.php?v=76146882755 1], [http://www.facebook.com/photo.php?v=76163692755 2], [http://www.facebook.com/photo.php?v=76179897755 3], [http://www.facebook.com/photo.php?v=76192262755 4].
 * [http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1 A photoset from season 5.]
 * [http://vimeo.com/20415485 A 2011 video compilation of *Start Trekkin*' fight scenes.]
 * [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/8/11 performance.
