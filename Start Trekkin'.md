@@ -16,7 +16,7 @@
 
 The people involved in *Start Trekkin*' refer to their runs as "seasons".
 
-Season six ran at [[The Highball]]; all other runs ran at [[The Hideout Theatre]].
+Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theatre]].
 
 ### Season Dates
 * Season 1: unknown
