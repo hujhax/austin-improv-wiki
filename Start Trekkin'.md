@@ -27,7 +27,7 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 * Season 6: Nov 28 and Dec 5, 2010
 * Season 7: Jan-Feb 2011
 
-=== Convention Appareance ==-
+### Convention Appareance
 ![[TrekInVegas.jpg|The season-two cast at the convention.]]In August 2005, the season 2 Start Trekkin' cast was invited to perform at the official Star Trek convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
 ## Casts
