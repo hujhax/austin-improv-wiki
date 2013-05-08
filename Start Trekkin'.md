@@ -108,3 +108,4 @@ Unknown.
 * [http://www.facebook.com/starttrekkin The show's facebook page.]
 * [http://forum.austinimprov.com/viewtopic.php?p=39556 The premiere announcement for season 4.]
 * [http://forum.austinimprov.com/viewtopic.php?p=60656 Casting announcement for season 5.]
+* [http://www.hideouttheatre.com/shows/highballstarttrekkin The show's web page for season 6.]
