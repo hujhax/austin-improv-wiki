@@ -48,7 +48,7 @@ Unknown.
 * [[Ben Sterling]]
 
 ### Season 3
-Unknown.
+* [[Jordan T. Maxwell]]
 
 ### Season 4
 Unknown.
