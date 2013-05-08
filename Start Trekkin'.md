@@ -6,7 +6,7 @@
 |Cast	=	Various
 |Tech	=	Various
 |Run	=	Unknown
-|Subsequent Runs = {{Unbulleted list | Apr/May 2005 | Season 3 | Sep-Nov 2008 | Season 5 | Season 6 | Jan/Feb 2011 }}
+|Subsequent Runs = {{Unbulleted list | Apr/May 2005 | Season 3 | Sep-Nov 2007 | Sep/Oct 2008 | Season 6 | Jan/Feb 2011 }}
 }}
 
 ***Start Trekkin***' was an improvised longform narrative show inspired by [[Wikipedia - Star Trek -  The Original Series|the original *Star Trek* television series]].
@@ -20,8 +20,8 @@ The people involved in *Start Trekkin*' refer to their runs as "seasons", number
 * Season 1: unknown
 * Season 2: Apr/May 2005
 * Season 3: unknown
-* Season 4: Sep-Nov 2008
-* Season 5: unknown
+* Season 4: Sep-Nov 2007
+* Season 5: Sep/Oct 2008
 * Season 6: unknown
 * Season 7: Jan/Feb 2011
 
@@ -65,3 +65,4 @@ The casts of season 1 and of seasons 3-6 are unknown at this time.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=39556 The premiere announcement for season 4.]
+* [http://forum.austinimprov.com/viewtopic.php?p=60656 Casting announcement for season 5.]
