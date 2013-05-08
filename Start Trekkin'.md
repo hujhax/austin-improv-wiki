@@ -31,7 +31,7 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 ![[TrekInVegas.jpg|The season-two cast at the convention.]]In August 2005, the season 2 Start Trekkin' cast was invited to perform at the official Star Trek convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
 ## Casts
-[[David Lampe]] is the only improvisor to appear in all seven seasons of the show.
+[[David Lampe]] and [[Troy Miller]] are the only improvisors to appear in all seven seasons of the show.
 
 ### Season 1
 *This list is incomplete*
@@ -40,6 +40,7 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 * [[Kevin Miller]]
 * [[Sean Hill]]
 * [[Tim Giradot]] (Musical improviser)
+* [[Troy Miller]]
 
 ### Season 2
 * [[Andy Crouch]]
@@ -65,7 +66,10 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 * [[Ben Sterling]]
 
 ### Season 4
-Unknown.
+*This list is incomplete*
+
+* [[David Lampe]]
+* [[Troy Miller]]
 
 ### Season 5
 * [[Aden Kirschner]]
@@ -82,6 +86,7 @@ Unknown.
 * [[Michael Brockman]] (musical improvisor)
 * [[Sean Hill]]
 * [[Topping Haggerty]]
+* [[Troy Miller]]
 
 ### Season 6
 *This list is incomplete.*
