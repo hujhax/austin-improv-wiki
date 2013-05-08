@@ -19,7 +19,7 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 
 ## Shows
 * *[[Guilds of Steel]]*
-* "[[Blank or Bust]]"
+* *[[Blank or Bust]]*
 * *[[The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Fandom]]*
 * *[[TheatreSports (mainstage run)|TheatreSports]]*
