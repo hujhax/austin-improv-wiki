@@ -17,11 +17,11 @@ But if you want to learn about wiki markup, [[Help/Formatting|this page]] gives 
 If you'd like to make a new page for a troupe, a show, or a performer, try using [[The Foreign Legion|this troupe page]], [[Totally Improvised, 90210|this show page]], or [[Peter Rogers|this performer page]] as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.  [http://screencast.com/t/rJvTnPGn8 Here is a quick video demonstration.]
 
 
-**How do I show up in the performers category?**<br/>
+**How do I show up in [[List of Austin Improv Performers|the performers category]]?**<br/>
 To ensure that your wiki page shows in in the Performers category, add the following code: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last name. That ensures you'll be properly alphabetized on the [[List of Austin Improv Performers|Performers]] page.
 
 
-**How do I get my troupe to show up in the troupes category?**<br/>
+**How do I get my troupe to show up in [[List of Austin Improv Troupes|the troupes category]]?**<br/>
 Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Category:Troupes]]</nowiki>.
 
 If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[The Frank Mills]], you could add: <nowiki>[[Category/Troupes|Frank Mills]]</nowiki>.
