@@ -6,7 +6,7 @@
 |Cast	=	Various
 |Tech	=	Various
 |Run	=	Unknown
-|Subsequent Runs = {{Unbulleted list | Apr/May 2005 | Season 3 | Sep-Nov 2007 | Sep/Oct 2008 | Season 6 | Jan/Feb 2011 }}
+|Subsequent Runs = {{Unbulleted list | Apr/May 2005 | Season 3 | Sep-Nov 2007 | Sep-Nov 2008 | Season 6 | Jan/Feb 2011 }}
 }}
 
 ***Start Trekkin***' was an improvised longform narrative show inspired by [[Wikipedia - Star Trek -  The Original Series|the original *Star Trek* television series]].
@@ -21,7 +21,7 @@ The people involved in *Start Trekkin*' refer to their runs as "seasons", number
 * Season 2: Apr/May 2005
 * Season 3: unknown
 * Season 4: Sep-Nov 2007
-* Season 5: Sep/Oct 2008
+* Season 5: Sep-Nov 2008
 * Season 6: unknown
 * Season 7: Jan/Feb 2011
 
@@ -48,7 +48,7 @@ Unknown.
 ### Season 4: Sep-Nov 2007
 Unknown.
 
-### Season 5: Sep/Oct 2008
+### Season 5: Sep-Nov 2008
 * [[Aden Kirschner]]
 * [[Andy Crouch]]
 * [[Audrey Rachel Sansom]]
