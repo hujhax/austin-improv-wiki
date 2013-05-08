@@ -41,6 +41,7 @@ Unknown.
 * [[Andy Crouch]]
 * [[David Lampe]]
 * [[Jay Michael]]
+* [[Jordan T. Maxwell]]
 * [[Kacey Samiee]]
 * [[Shana Merlin]]
 * [[Kevin Miller]]
