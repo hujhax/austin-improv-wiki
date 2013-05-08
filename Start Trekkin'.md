@@ -65,7 +65,14 @@ Unknown.
 * [[Topping Haggerty]]
 
 ### Season 6: Nov/Dec 2010
-Unknown.
+*This list is incomplete.*
+
+* [[Aden Kirschner]]
+* [[David Lampe]]
+* [[Kaci Beeler]]
+* [[Kareem Badr]]
+* [[Roy Danger]]
+* [[Troy Miller]]
 
 ### Season 7: Jan/Feb 2011
 * [[Alex Dobrenko]]
