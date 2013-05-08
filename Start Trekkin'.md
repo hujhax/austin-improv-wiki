@@ -48,7 +48,16 @@ Unknown.
 * [[Ben Sterling]]
 
 ### Season 3
+*This list is incomplete*
+* [[Andy Crouch]]
+* [[David Lampe]]
+* [[Jay Michael]]
 * [[Jordan T. Maxwell]]
+* [[Kacey Samiee]]
+* [[Shana Merlin]]
+* [[Kevin Miller]]
+* [[Troy Miller]]
+* [[Ben Sterling]]
 
 ### Season 4
 Unknown.
