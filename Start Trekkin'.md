@@ -14,7 +14,14 @@
 ## History
 *Start Trekkin*' was an early mainstage show at [[The Hideout Theater]], and one of the first "improvised <blank>" formats in Austin.  It had six mainstage runs, and a performance at a Las Vegas *Star Trek* convention, before running as half of *[[The Sci-Fi Comedy Double Feature]]* in early 2011.
 
-The dates of run #1 and of runs #3-#6 are unknown at this time.
+### Run Dates
+* Run #1: unknown
+* Run #2: Apr/May 2005
+* Run #3: unknown
+* Run #4: Sep-Nov 2008
+* Run #5: unknown
+* Run #6: unknown
+* Run #7: Jan/Feb 2011
 
 ## Casts
 The casts of run #1 and of runs #3-#6 are unknown at this time.
