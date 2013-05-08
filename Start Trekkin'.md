@@ -91,12 +91,12 @@ Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on
 * [[Andy Crouch]]
 * [[Audrey Rachel Sansom]]
 * [[Chris Allen]]
-* [[Courtney Hopkin]]
 * [[Dario Konjicija]]
 * [[David Lampe]]
 * [[Jay Michael]]
 * [[Jon Clinkenbeard]]
 * [[Justin Davis]]
+* [[Kaci Beeler]]
 * [[Kacey Samiee]]
 * [[Michael Brockman]] (musical improvisor)
 * [[Sean Hill]]
