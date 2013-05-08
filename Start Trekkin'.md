@@ -28,7 +28,7 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 * Season 7: Jan-Feb 2011
 
 ## Star Trek Convention
-In August 2005, the season 2 Start Trekkin' cast was invited to perform at the official Star Trek convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
+![[TrekInVegas.jpg]]In August 2005, the season 2 Start Trekkin' cast was invited to perform at the official Star Trek convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
 ## Casts
 [[David Lampe]] is the only improvisor to appear in all seven seasons of the show.
