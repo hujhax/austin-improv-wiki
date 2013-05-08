@@ -2,7 +2,7 @@
   |Name     = Flying Theater Machine
   |Director = Jessica Arjet
   |Theater  = [[The Hideout Theatre]]
-  |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Jessica Arjet]] | [[Jo Maraschino]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] }}
+  |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Jessica Arjet]] | [[Jo Maraschino]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Kristin Henn]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] }}
   |Picture  = Flying_Theater_Machine.jpg
   |Run    = 2007-Present
 }}
@@ -33,7 +33,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Kaci Beeler]] (Touring Performer)
 * [[Kristin Faner]]    (2013-Present)
 * [[Kristin Firth]]  
-* [[Kristin Hen]] (Touring Performer)
+* [[Kristin Henn]] (Touring Performer)
 * [[Marc Majcher]]
 * [[Matt Pollock]]
 * [[Mike Kinald]]
