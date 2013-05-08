@@ -23,6 +23,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * Scavenger Hunt
 * Wild Wild Puppets
 * Story Sports
+* Gryffinpuffleclawsin - The American Wizard School
 
 ## Cast
 * [[Amira Pollock]]
