@@ -12,7 +12,9 @@
 ***Start Trekkin***' was an improvised longform narrative show inspired by [[Wikipedia - Star Trek -  The Original Series|the original *Star Trek* television series]].
 
 ## History
-*Start Trekkin*' was one of the first mainstage shows at [[The Hideout Theater]], and one of the first "improvised <blank>" formats in Austin.  It had six mainstage runs, and a performance at a Las Vegas *Star Trek* convention, before running as half of *[[The Sci-Fi Comedy Double Feature]]* in early 2011.
+*Start Trekkin*' was an early mainstage show at [[The Hideout Theater]], and one of the first "improvised <blank>" formats in Austin.  It had six mainstage runs, and a performance at a Las Vegas *Star Trek* convention, before running as half of *[[The Sci-Fi Comedy Double Feature]]* in early 2011.
+
+The dates of run #1 and of runs #3-#6 are unknown at this time.
 
 ## Casts
 The casts of run #1 and of runs #3-#6 are unknown at this time.
@@ -28,7 +30,6 @@ The casts of run #1 and of runs #3-#6 are unknown at this time.
 * [[Kevin Miller]]
 * [[Troy Miller]]
 
-
 ### Run #7: Jan/Feb 2011
 * [[Alex Dobrenko]]
 * [[Andy Crouch]]
@@ -43,7 +44,6 @@ The casts of run #1 and of runs #3-#6 are unknown at this time.
 * [[Sean Hill]]
 * [[Steve Harwood]]
 * [[Troy Miller]]
-
 
 ## Media
 * [http://vimeo.com/35437814 Video of the 4/23/05 performance.]
