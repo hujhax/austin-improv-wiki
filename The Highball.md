@@ -10,4 +10,6 @@
 
 It had a ballroom with a stage which served as the venue for a number of shows from [[The Institution Theater]], including most of the *[[Live TV Tuesdays]]* runs.
 
+It also hosted season six of *[[Start Trekkin']]*.
+
 The facility shut down on 11/18/12 and has not yet re-opened.
