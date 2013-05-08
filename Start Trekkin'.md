@@ -41,6 +41,7 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 *This list is incomplete*
 * [[Andy Crouch]]
 * [[David Lampe]]
+* [[Jay Michael]]
 * [[Kevin Miller]]
 * [[Sean Hill]]
 * [[Tim Giradot]] (Musical improviser)
