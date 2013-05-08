@@ -78,6 +78,13 @@ Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on
 * [[David Lampe]]
 * [[Jay Michael]]
 * [[Troy Miller]]
+* [[Kaci Beeler]]
+* [[Roy Janik]]
+* [[Kareem Badr]]
+* [[Wesley Bain]]
+* [[Christina DeRoos]]
+* [[Kacey Samiee]]
+* [[Sean Hill]]
 
 ### Season 5
 * [[Aden Kirschner]]
