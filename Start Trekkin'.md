@@ -74,6 +74,7 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 *This list is incomplete*
 
 * [[David Lampe]]
+* [[Jay Michael]]
 * [[Troy Miller]]
 
 ### Season 5
