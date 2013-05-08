@@ -34,10 +34,12 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 [[David Lampe]] is the only improvisor to appear in all seven seasons of the show.
 
 ### Season 1
-Unknown.
+*This list is incomplete*
+* [[Sean Hill]]
+* [[Andy Crouch]]
+* [[Tim Giradot]] (Musical improviser)
 
 ### Season 2
-*This list is incomplete.*
 * [[Andy Crouch]]
 * [[David Lampe]]
 * [[Jay Michael]]
@@ -46,6 +48,7 @@ Unknown.
 * [[Kevin Miller]]
 * [[Troy Miller]]
 * [[Ben Sterling]]
+* [[Tim Giradot]] (Musical improviser)
 
 ### Season 3
 *This list is incomplete*
