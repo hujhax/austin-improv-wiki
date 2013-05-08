@@ -26,10 +26,13 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ## Cast
 * [[Amira Pollock]]
+* [[Asaf Ronen]] (Touring Performer)
 * [[Jessica Arjet]]    (2007-Present)
 * [[Jo Maraschino]]    (2013-Present)
+* [[Kaci Beeler]] (Touring Performer)
 * [[Kristin Faner]]    (2013-Present)
 * [[Kristin Firth]]  
+* [[Kristin Hen]] (Touring Performer)
 * [[Marc Majcher]]
 * [[Matt Pollock]]
 * [[Mike Kinald]]
