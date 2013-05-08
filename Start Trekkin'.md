@@ -15,7 +15,7 @@
 *Start Trekkin*' was an early mainstage show at [[The Hideout Theater]], and one of the first "improvised <blank>" formats in Austin.  It had six mainstage Seasons, and a performance at a Las Vegas *Star Trek* convention, before Seasonning as half of *[[The Sci-Fi Comedy Double Feature]]* in early 2011.
 
 ### Season Dates
-The people involved in *[[Start Trekkin']]* refer to their runs as "seasons", numbered like so:
+The people involved in *Start Trekkin*' refer to their runs as "seasons", numbered like so:
 
 * Season 1: unknown
 * Season 2: Apr/May 2005
