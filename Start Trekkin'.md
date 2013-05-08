@@ -118,8 +118,8 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 * [[Troy Miller]]
 
 ## Media
-* [http://vimeo.com/35437814 Video of the 4/23/05 performance from season 2.]
-* [http://vimeo.com/35681293 Video of the 5/28/05 performance from season 2.]
+* [http://vimeo.com/35437814 Video of the 4/23/05 performance (season 2, episode 4).]
+* [http://vimeo.com/35497405 Video of the 5/28/05 performance (season 2, episode 5).]
 * [http://vimeo.com/35681293 Video of 'episode seven' from season 2.]
 * Video of the 9/27/08 performance, in three parts: [http://www.facebook.com/photo.php?v=43256292752 1], [http://www.facebook.com/photo.php?v=43351022752 2], [http://www.facebook.com/photo.php?v=43700942752 3].
 * [http://youtu.be/zRWkhp3VkP8 Video of a scene from the 10/11/08 performance.]
