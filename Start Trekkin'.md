@@ -28,8 +28,6 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 * Season 7: Jan-Feb 2011
 
 ## Casts
-The casts of season 1 and of seasons 3-6 are unknown at this time.
-
 [[David Lampe]] is the only improvisor to appear in all seven seasons of the show.
 
 ### Season 1: Unknown
