@@ -27,5 +27,5 @@ The troupe was formed in 2005.
 * [http://www.facebook.com/pages/The-Knuckleball-Now/83670441074 The troupe's facebook page.]
 * [http://forum.austinimprov.com/viewtopic.php?t=112&view=previous The first forum mention of the troupe.]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Knuckleball Now]]
 [[Category/Active|Category:Active]]
