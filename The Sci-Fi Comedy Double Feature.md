@@ -18,4 +18,5 @@ The show opened with *[[Twilight Zoned]]*.  That act would use about five improv
 * [http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 1/14/12 performance.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/thesci-fidoublefeature The show's website.]
+* [http://www.hideouttheatre.com/shows/thesci-fidoublefeature The show's web page.]
+* [http://forum.austinimprov.com/viewtopic.php?t=12569 The casting announcement for the show.]
