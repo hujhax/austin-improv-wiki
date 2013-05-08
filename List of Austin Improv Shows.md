@@ -69,7 +69,6 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 ### Mainstage Productions
 The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.
 
-* *[[Start Trekkin']]*
 * *[[The Great Mundane]]*
 * *[[Cops and Lawyers]]*
 * *[[After-School Improv]]*
@@ -83,7 +82,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Each show has a run t
 * *[[Who Is T. Henry Baudecliffe]]*
 * *[[Spirited]]*
 * *[[Charles Dickens Unleashed]]*
-* *[[The Sci-Fi Comedy Double Feature]]*
+* *[[The Sci-Fi Comedy Double Feature]]* (which included *[[Twilight Zoned]]* and *[[Start Trekkin']]*)
 * *[[Process]]*
 * *[[Rock]]*
 * *[[Manhattan Stories]]*
