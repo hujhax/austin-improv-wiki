@@ -102,7 +102,7 @@ Unknown.
 * [http://vimeo.com/20415485 A 2011 video compilation of *Start Trekkin*' fight scenes.]
 * [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/8/11 performance.
 * [http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 1/14/11 performance.
-* [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A 2012 photoset] from [[Steve Rogers]], [http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3 and another]  from [[Michael Yew]], of a *[[Free Fringe]]* performance that included a *Start Trekkin*' adventure with an all-female cast.
+* [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] from [[Steve Rogers]], [http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3 and another]  from [[Michael Yew]], of the 3/8/12 *[[Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
 
 ## More Information
 * [http://www.facebook.com/starttrekkin The show's facebook page.]
