@@ -30,6 +30,9 @@ The casts of season 1 and of seasons 3-6 are unknown at this time.
 
 [[David Lampe]] is the only improvisor to appear in all seven seasons of the show.
 
+### Season 1: Unknown
+Unknown.
+
 ### Season 2: Apr/May 2005
 *This list is incomplete.*
 
@@ -38,6 +41,31 @@ The casts of season 1 and of seasons 3-6 are unknown at this time.
 * [[Kacey Samiee]]
 * [[Kevin Miller]]
 * [[Troy Miller]]
+
+### Season 3: Unknown
+Unknown.
+
+### Season 4: Sep-Nov 2007
+Unknown.
+
+### Season 5: Sep/Oct 2008
+* [[Aden Kirschner]]
+* [[Andy Crouch]]
+* [[Audrey Rachel Sansom]]
+* [[Chris Allen]]
+* [[Courtney Hopkin]]
+* [[Dario Konjicija]]
+* [[David Lampe]]
+* [[Jay Michael]]
+* [[Jon Clinkenbeard]]
+* [[Justin Davis]]
+* [[Kacey Samiee]]
+* [[Michael Brockman]]
+* [[Sean Hill]]
+* [[Topping Haggerty]]
+
+### Season 6: Unknown
+Unknown.
 
 ### Season 7: Jan/Feb 2011
 * [[Alex Dobrenko]]
@@ -58,11 +86,13 @@ The casts of season 1 and of seasons 3-6 are unknown at this time.
 * [http://vimeo.com/35437814 Video of the 4/23/05 performance.]
 * [http://vimeo.com/35681293 Video of the 5/28/05 performance.]
 * [http://vimeo.com/35681293 Video of 'episode seven' from season 2.]
+* [http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1 A photoset from season 5.]
 * [http://vimeo.com/20415485 A 2011 video compilation of *Start Trekkin*' fight scenes.]
 * [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/8/11 performance.
 * [http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 1/14/11 performance.
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A 2012 photoset] from [[Steve Rogers]], [http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3 and another]  from [[Michael Yew]], of a *[[Free Fringe]]* performance that included a *Start Trekkin*' adventure with an all-female cast.
 
 ## More Information
+* [http://www.facebook.com/starttrekkin The show's facebook page.]
 * [http://forum.austinimprov.com/viewtopic.php?p=39556 The premiere announcement for season 4.]
 * [http://forum.austinimprov.com/viewtopic.php?p=60656 Casting announcement for season 5.]
