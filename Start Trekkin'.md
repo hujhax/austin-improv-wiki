@@ -16,13 +16,13 @@
 
 [[Sean Hill]] saw the show in San Francisco, and decided to bring the format to Austin.  In 2003, [http://www.facebook.com/richard.ross.102 Richard Ross], a founding member of the original San Francisco show, taught a brief workshop in the format at [[The Hideout Theatre]].  A year later, [[Jay Michael]] and [[Troy Miller]] produced season one of *Start Trekkin' * there.  (Note: the people involved in *Start Trekkin' * refer to their runs as "seasons".)
 
-Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on *Start Trekkin*', establishing many tropes that are hallmarks of the format: fights with three exchanges in which the loser is called ahead of time; onstage transporter effects; and focusing on the relationships among the ship's crew.
-
-*Start Trekkin* was invited to perform at the Star Trek Premiere Party[http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/] at the Bob Bullock State History Museum on May 8th, 2009.
-
 Subsequent seasons followed almost once per year.  In early 2011, *Start Trekkin*' ran as half of *[[The Sci-Fi Comedy Double Feature]]*.
 
 Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theatre]].
+
+Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on *Start Trekkin*', establishing many tropes that are hallmarks of the format: fights with three exchanges in which the loser is called ahead of time; onstage transporter effects; and focusing on the relationships among the ship's crew.
+
+*Start Trekkin* was invited to perform at the Star Trek Premiere Party[http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/] at the Bob Bullock State History Museum on May 8th, 2009.
 
 ### Season Dates
 * Season 1: May 15-29, 2004
