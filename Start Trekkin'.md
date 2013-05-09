@@ -22,6 +22,11 @@ Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theat
 
 Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on *Start Trekkin*', establishing many tropes that are hallmarks of the format: fights with three exchanges in which the loser is called ahead of time; onstage transporter effects; and focusing on the relationships among the ship's crew.
 
+Start Trekkin' has had several special performances outside of regular season runs.  These include:
+
+* 11/10/09 Alamo Drafthouse (S. Lamar)
+* 02/10/10 Alamo Drafthouse (Ritz)
+
 ### Season Dates
 * Season 1: May 15-29, 2004
 * Season 2: Apr-May 2005
