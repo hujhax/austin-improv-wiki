@@ -16,8 +16,11 @@ Sarah Marie moved to Austin Texas in November of 2007 with the intention of expa
 * [[Girl Embassy World Team]]
 
 ## Shows
+* *[[Dusk]]*
 * *[[Guilds of Steel]]*
+* *[[Hitchcocked]*  *[[Kabaam!]]*
 * *[[Live TV Tuesdays -  Buffy]]*
+* *[[More Than Words]]*
 * *[[Racket]]*
 * *[[Spirited]]*
 
