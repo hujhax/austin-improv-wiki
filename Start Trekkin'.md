@@ -63,28 +63,28 @@ Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on
 ### Season 3
 *This list is incomplete*
 * [[Andy Crouch]]
+* [[Ben Sterling]]
 * [[David Lampe]]
 * [[Jay Michael]]
 * [[Jordan T. Maxwell]]
 * [[Kacey Samiee]]
-* [[Shana Merlin]]
 * [[Kevin Miller]]
+* [[Shana Merlin]]
 * [[Troy Miller]]
-* [[Ben Sterling]]
 
 ### Season 4
 *This list is incomplete*
 
+* [[Christina DeRoos]]
 * [[David Lampe]]
 * [[Jay Michael]]
-* [[Troy Miller]]
-* [[Kaci Beeler]]
-* [[Roy Janik]]
-* [[Kareem Badr]]
-* [[Wesley Bain]]
-* [[Christina DeRoos]]
 * [[Kacey Samiee]]
+* [[Kaci Beeler]]
+* [[Kareem Badr]]
+* [[Roy Janik]]
 * [[Sean Hill]]
+* [[Troy Miller]]
+* [[Wesley Bain]]
 
 ### Season 5
 * [[Aden Kirschner]]
@@ -96,8 +96,8 @@ Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on
 * [[Jay Michael]]
 * [[Jon Clinkenbeard]]
 * [[Justin Davis]]
-* [[Kaci Beeler]]
 * [[Kacey Samiee]]
+* [[Kaci Beeler]]
 * [[Michael Brockman]] (musical improvisor)
 * [[Sean Hill]]
 * [[Topping Haggerty]]
