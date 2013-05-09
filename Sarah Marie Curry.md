@@ -8,7 +8,7 @@
 **Sarah Marie Curry** is an actor, theater manager, improviser, and improv teacher.
 
 ## History
-Sarah Marie Curry has been an acting singing improvising artistic adventurer for over twelve years, with extensive experience in musical theatre and theatre management. She has been an improvisational actress since 2009 and has clocked over 120 performance hours thus far. In addition to pursuing improv and acting, Sarah Marie has recently undertaken rhythmic improvisation as a medium by directing *[[Racket|Racket: Improvised Stomp]]* at [[The Institution Theater]]. She is a current member and ongoing performer with [[Girls Girls Girls]] Improvised Musicals (one of the oldest improv troupes in Austin) and [[Improv for Evil]] (one of the most evil troupes in Austin) and regularly performs long form narrative with [[The Hideout Theatre]], [[Gnap! Theater Projects]], and [[The Institution Theater]].
+Sarah Marie is an acting, singing, improvising, artistic adventurer living in Austin Texas. She has extensive experience in musical theatre and has been recognized for her work in local productions of Bloody Bloody Andrew Jackson, Company and I Love You Because (to name a few). She has been an improvisational actress since 2009 and is a proud member of the B. Iden Payne Award Winning Troupe: Girls Girls Girls Improvised Musicals and regularly performs and teaches improv with The Institution Theater.
 
 ## Troupes
 * [[Girls Girls Girls]] 
