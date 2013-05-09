@@ -13,6 +13,7 @@ Sarah Marie moved to Austin Texas in November of 2007 with the intention of expa
 ## Troupes
 * [[Girls Girls Girls]] 
 * [[Improv for Evil]]
+* [[G.E.W.T]]
 
 ## Shows
 * *[[Guilds of Steel]]*
