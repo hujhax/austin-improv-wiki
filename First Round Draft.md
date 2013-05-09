@@ -5,9 +5,9 @@
 |Years	=		2001-2002
 }}
 
-First Round Draft was a short-form improv troupe based out of [[The Hideout Theatre]].
+**First Round Draft** was a short-form improv troupe based out of [[The Hideout Theatre]].
 
-They occasionally included [[Brett Webster]] on guitar and [[Tim Girardot]] on keyboards.
+They occasionally included musicians [[Brett Webster]] on guitar and [[Tim Girardot]] on keyboards.
 
 [[Maggie Bell]] was their lighting improvisor.
 
