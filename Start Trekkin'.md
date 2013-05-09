@@ -25,7 +25,7 @@ Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on
 ### Season Dates
 * Season 1: May 15-29, 2004
 * Season 2: Apr-May 2005
-* Season 3: unknown
+* Season 3: Sep-Nov 2005
 * Season 4: Sep-Nov 2007
 * Season 5: Sep-Nov 2008
 * Season 6: Nov 28 and Dec 5, 2010
