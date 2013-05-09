@@ -20,11 +20,12 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 * [[Who Dack]]
 
 ## Shows
+### Improvised
 * *[[Magna Veritas]]*
 * *[[Pocketful of Posies]]*
 * *[[The Black Vault]]*
 * *[[The Next Chapter]]*
+### Non-Improvised
 * *[[Live TV Tuesdays -  Felicity]]*
-
-
+* *[[The Cherry Bowl]]*
 [[Category/Performers|Hawkins]]
