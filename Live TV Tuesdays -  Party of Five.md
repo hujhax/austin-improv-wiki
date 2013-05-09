@@ -3,7 +3,7 @@
 |Picture=	Live TV Tuesdays - Party of Five.jpg
 |Theater=	[[The Institution Theater]]
 |Director = [[Heidi Caldwell]]
-|Cast	=	{{Unbulleted list | [[Alex Hilary]] | [[Blaine Paradise]] | [[Carissa McAtee]] | [[Christian Huey]] | [[Cody Melcher]] | [[Fred Winkler]] | [[Karen Jane DeWitt]] | [[Roanna Flowers]] | [[Taylor Overstreet]] | [[Tyler Reece Booker]] }}
+|Cast	=	{{Unbulleted list | [[Alexander Hilary]] | [[Blaine Paradise]] | [[Carissa McAtee]] | [[Christian Huey]] | [[Cody Melcher]] | [[Fred Winkler]] | [[Karen Jane DeWitt]] | [[Roanna Flowers]] | [[Taylor Overstreet]] | [[Tyler Reece Booker]] }}
 |Run	=	Jun/Jul 2011
 }}
 ***Live TV Tuesdays: Party of Five*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode [http://www.imdb.com/title/tt0670372/ "The Wedding"].
@@ -15,7 +15,7 @@ It played exclusively at [[The Highball]].
 
 ## Cast
 * Bailey -- [[Fred Winkler]]
-* Charlie -- [[Alex Hilary]]
+* Charlie -- [[Alexander Hilary]]
 * Claudia -- [[Karen Jane DeWitt]]
 * Ellie -- [[Roanna Flowers]]
 * Gene -- [[Blaine Paradise]]
