@@ -26,6 +26,7 @@ It played exclusively at [[The Highball]].
 * Will -- [[Cody Melcher]]/[[Tyler Reece Booker]]
 
 ## Media
+* [http://youtu.be/M-9woBN_azM The dance scene from the 8/23/11 performance.]
 * [http://www.facebook.com/media/set/?set=a.10150309044674090.366087.273514734089&type=3 Photoset of the 8/30/11 performance].
 
 ## More Information
