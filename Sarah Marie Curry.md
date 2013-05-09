@@ -2,7 +2,7 @@
 |Name	=	Sarah Marie Curry	
 |Picture =	SarahMarie.jpg
 |Theater=       [[The Institution Theater]]
-|Years	=	2009-Present
+|Years	=	2008-Present
 }}
 
 **Sarah Marie Curry** is an actor, theater manager, improviser, and improv teacher.
