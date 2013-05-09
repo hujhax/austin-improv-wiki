@@ -5,7 +5,7 @@ Every year on December 30th, improvisors from all around Austin descend on [[The
 
 A large number of improvisors from throughout the community attend the event -- in 2012, Same Year's drew some ninety performers and another hundred improvisors who just came for the party.
 
-The event was first held in 2008.
+The event was first held in 2007.
 
 ## Media
 * Videos of Same Year's Eve 2011: [http://vimeo.com/34559336 part 1], [http://vimeo.com/34580604 part 2], [http://vimeo.com/34556688 part 3].
