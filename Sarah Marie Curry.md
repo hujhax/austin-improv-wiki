@@ -8,7 +8,7 @@
 **Sarah Marie Curry** is an actor, theater manager, improviser, and improv teacher.
 
 ## History
-Sarah Marie is an acting, singing, improvising, artistic adventurer living in Austin Texas. She has extensive experience in musical theatre and has been recognized for her work in local productions of Bloody Bloody Andrew Jackson, Company and I Love You Because (to name a few). She has been an improvisational actress since 2009 and is a proud member of the B. Iden Payne Award Winning Troupe: Girls Girls Girls Improvised Musicals and regularly performs and teaches improv with The Institution Theater.
+Sarah Marie moved to Austin Texas in November of 2007 with the intention of expanding her abilities as an actress, and to pursue her passion for theatre in any way possible. She met  [[Peter Rogers]], [[Andy Crouch]] and [[Les McGehee]] while working backstage as a costume mistress for Austin Shakespear's 2008 production of Much Ado About Nothing. It was during this time that she first heard of the concept of improv, and was given [[Les McGehee's]] book: Plays Well With Others. After taking acting classes with The State Theater, Sarah Marie saw an ad for [[Merlin Works]] and signed up for [[Shana Merlin's]] 101 class. ([[Shannon McCormick]] was Shana's TA at the time.) She has since had the honor of playing in numerous improv theater's in Austin and hopes to continue her journey for years to come.
 
 ## Troupes
 * [[Girls Girls Girls]] 
