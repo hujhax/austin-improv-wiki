@@ -32,9 +32,9 @@ Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on
 * Season 7: Jan-Feb 2011
 
 ### Event Appearances
-![[TrekInVegas.jpg|The season-two cast at the convention.]]In August 2005, the season 2 Start Trekkin' cast was invited to perform at the official Star Trek convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
+![[TrekInVegas.jpg|The season-two cast at the convention.]]In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
-*Start Trekkin* performed at the [http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/ *Star Trek* Premiere Party] at the Bob Bullock State History Museum on May 8th, 2009.
+*Start Trekkin*' performed at the [http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/ *Star Trek* Premiere Party] at the Bob Bullock State History Museum on May 8th, 2009.
 
 ## Casts
 [[David Lampe]], [[Jay Michael]] and [[Troy Miller]] are the only improvisors to appear in all seven seasons of the show.
