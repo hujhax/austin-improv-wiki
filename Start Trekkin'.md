@@ -2,7 +2,7 @@
 |Name	=	Start Trekkin'	
 |Picture=	Start Trekkin'.jpg
 |Theater=	[[The Hideout Theatre]]
-|Director = {{Unbulleted list | [[Sean Hill]] | [[Troy Miller]] }}
+|Director = {{Unbulleted list | [[Sean Hill]] | [[Troy Miller]] | [[Jay Michael]]}}
 |Cast	=	Various
 |Tech	=	Various
 |Run	=	May 2004
