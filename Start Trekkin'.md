@@ -6,7 +6,7 @@
 |Cast	=	Various
 |Tech	=	Various
 |Run	=	May 2004
-|Subsequent Runs = {{Unbulleted list | Apr-May 2005 | Season 3 | Sep-Nov 2007 | Sep-Nov 2008 | Nov-Dec 2010 | Jan-Feb 2011 }}
+|Subsequent Runs = {{Unbulleted list | Apr-May 2005 | Sep-Nov 2005 | Sep-Nov 2007 | Sep-Nov 2008 | Nov-Dec 2010 | Jan-Feb 2011 }}
 }}
 
 ***Start Trekkin***' was an improvised longform narrative show inspired by [[Wikipedia - Star Trek -  The Original Series|the original *Star Trek* television series]].
