@@ -108,6 +108,8 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Sean Hill]]
 * [[Topping Haggerty]]
 * [[Troy Miller]]
+* [[David Zimmerman]] (Sound FX)
+* [[Neal Tibrewala]] (Lights)
 
 ### Season 6
 *This list is incomplete.*
