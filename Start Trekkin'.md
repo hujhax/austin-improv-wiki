@@ -67,6 +67,7 @@ Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on
 * [[David Lampe]]
 * [[Jay Michael]]
 * [[Jordan T. Maxwell]]
+* [[Kareem Badr]]
 * [[Kacey Samiee]]
 * [[Kevin Miller]]
 * [[Shana Merlin]]
