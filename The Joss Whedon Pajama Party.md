@@ -18,7 +18,9 @@ The show was hosted by [[Jordan T. Maxwell]], who was also in charge of the impr
 
 Each performance included a trivia contest, with questions written by [[Chelley Pyatt]].
 
-The show ran immediately after *[[Live TV Tuesdays -  Firefly|Firefly]]* for every week in June 2012, and was brought back for a one-off performance on 1/25/13.  That last performance had a slightly different format: it included video sketches, improv from the *[[Live TV Tuesdays -  Firefly|Firefly]]* cast, and a half-hour *Buffy* narrative from the cast of *[[Fandom]]*.
+The show ran immediately after *[[Live TV Tuesdays -  Firefly|Firefly]]* for every week in June 2012.
+
+The Pajama Party was brought back for a special, one-off performance on 1/25/13.  That last performance had a slightly different format: it included video sketches, improv from the *[[Live TV Tuesdays -  Firefly|Firefly]]* cast, and a half-hour *Buffy* narrative from the cast of *[[Fandom]]*.
 
 ## Casts
 All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was hosted by [[Sarah Marie Curry]].
