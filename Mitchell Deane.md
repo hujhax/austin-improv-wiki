@@ -17,7 +17,7 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 
 ## Shows
 * *[[Manson -  The Musical]]*
-* *[[Joss Whedon's Pajama Party]]*
+* *[[The Joss Whedon Pajama Party]]*
 * *[[Flying Theatre Machine]]*
 * *[[Maestro]]*
 * *[[Love Fest]]*
