@@ -4,7 +4,7 @@
 |Theater=	[[The Institution Theater]]
 |Director = [[Heidi Caldwell]]
 |Cast	=	{{Unbulleted list | [[Alexander Hilary]] | [[Blaine Paradise]] | [[Carissa McAtee]] | [[Christian Huey]] | [[Cody Melcher]] | [[Fred Winkler]] | [[Karen Jane DeWitt]] | [[Roanna Flowers]] | [[Taylor Overstreet]] | [[Tyler Reece Booker]] }}
-|Run	=	Jun/Jul 2011
+|Run	=	Aug 2011
 }}
 ***Live TV Tuesdays: Party of Five*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode [http://www.imdb.com/title/tt0670372/ "The Wedding"].
 
