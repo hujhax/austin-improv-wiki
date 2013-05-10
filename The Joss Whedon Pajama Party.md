@@ -65,7 +65,7 @@ All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was 
 *** [[Kristin Firth]]
 *** [[Peter Rogers]]
 *** [[Sarah Swofford]]
-* 6/29/12 performance:
+* 1/25/13 performance:
 ** *[[Live TV Tuesdays -  Firefly|Firefly]]* players:
 *** [[Adam Mengesha]]
 *** [[Alexa Ramirez]]
