@@ -109,4 +109,4 @@ All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was 
 
 ## More Information
 * [http://www.facebook.com/events/280906805365647/permalink/280907145365613/ The facebook event for the 1/25/13 performance.]
-* [[Chelley Pyatt]] [http://www.reddit.com/r/whedon/comments/174rdi/im_putting_together_trivia_for_a_whedon_based/ canvassing the Whedon subreddit for quiz questions].
+* [[Chelley Pyatt]] [http://www.reddit.com/r/whedon/comments/174rdi/im_putting_together_trivia_for_a_whedon_based/ canvasses the Whedon subreddit for quiz questions].
