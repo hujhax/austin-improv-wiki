@@ -90,14 +90,13 @@ All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was 
 ## Media
 * Videos of sketches:
 ** [http://vimeo.com/44147623 "The Big Red Button"]: civic engineers at the complex in *Cabin in the Woods* discuss getting rid of the big red button that releases all the monsters.
-** [http://vimeo.com/44147529 "Cancellation Support Group"]: Whedon consoles Dan Harmon after the showrunner is fired from *Community*.  Chuck Lorre sends a sarcastic gift basket.
-** [http://youtu.be/UQqW3UFqWbc "Reaverdance"]: exactly what it says on the tin.
-** [http://vimeo.com/44627632 "Whedon-Bay Band"]: Wesleyan college roommates Joss Whedon and Michael Bay have a rehearsal for their fledgling garage band.
-** [http://vimeo.com/45110204 "Mamet does *Buffy*"]: [[Peter Rogers]] and [[Confidence Men]] present the playwright's take on a scene from [[Wikipedia - Blood Ties (Buffy the Vampire Slayer)|"Blood Ties"]].
 ** [http://vimeo.com/45108059 "Burton does *Buffy*"]: filmmaker [[Wikipedia - Tim Burton|Tim Burton]]'s take on a scene from [[Wikipedia - Blood Ties (Buffy the Vampire Slayer)|"Blood Ties"]].
+** [http://vimeo.com/44147529 "Cancellation Support Group"]: Whedon consoles Dan Harmon after the showrunner is fired from *Community*.  Chuck Lorre sends a gift basket.
 ** [http://vimeo.com/45173703 "Joss Whedon's Dream Project"]: the trailer for the 'dream project' Joss Whedon gets to do after the success of *The Avengers*.
+** [http://vimeo.com/45110204 "Mamet does *Buffy*"]: [[Peter Rogers]] and [[Confidence Men]] present the playwright's take on a scene from [[Wikipedia - Blood Ties (Buffy the Vampire Slayer)|"Blood Ties"]].
+** [http://youtu.be/UQqW3UFqWbc "Reaverdance"]: exactly what it says on the tin.
 ** "Wash Has Too Much Time On His Hands": left to his own devices with a Weyland-Yutani recording device and his dinosaur toys, Wash makes some little home movies: [http://vimeo.com/45295722 1], [http://vimeo.com/45295972 2], [http://vimeo.com/45295836 3].
-
+** [http://vimeo.com/44627632 "Whedon-Bay Band"]: Wesleyan college roommates Joss Whedon and Michael Bay have a rehearsal for their fledgling garage band.
 * Full shows:
 ** [http://vimeo.com/44162958 Video of the 6/15/12 performance.]
 ** [http://vimeo.com/44638683 Video of the 6/22/12 performance.]
