@@ -26,7 +26,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Fakespeare]]*
 * *[[Fandom]]*
 * *[[Improvised Shakespeare]]*
-* *[[Joss Whedon Pajama Party]]*
+* *[[The Joss Whedon Pajama Party]]*
 * *[[Live Nude Improv]]*
 * *[[Live TV Tuesdays -  Angel]]*
 * *[[Live TV Tuesdays -  Buffy]]*
