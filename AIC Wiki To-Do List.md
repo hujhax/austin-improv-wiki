@@ -15,19 +15,7 @@
 ## Content
 This section is for the most significant missing content on the site.
 
-* Fill out remaining [[Live TV Tuesdays]] shows.
-* Pages for [[The Double Barrel]], [[Dubbed Indemnity]], [[The Lottery]], [[The Nightmare Video Project]].
 * Make pages for other festivals.
 * Get the history of the Hideout on to its page.
 * Finish out pages for the Hideout mainstage shows.
-** After that, do the remaining continuing shows.
 * Finish making basic pages for all troupes that have attended out of bounds (and thus have online bios).
-
-* Figure out how to use DynamicPageList; here's an example...
-<div class="DPLTest">
-<DynamicPageList>
-category=Active Troupes
-ordermethod=sortkey
-order=ascending
-</DynamicPageList>
-</div>
