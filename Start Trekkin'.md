@@ -104,6 +104,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Justin Davis]]
 * [[Kacey Samiee]]
 * [[Kaci Beeler]]
+* [[Marc Majcher]]
 * [[Michael Brockman]] (musical improvisor)
 * [[Sean Hill]]
 * [[Topping Haggerty]]
