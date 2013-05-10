@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name	=	Live TV Tuesdays:<br/>Dr. Horrible's Sing-Along Blog	
+|Name	=	Live TV Tuesdays:<br/>Dr. Horrible's<br/>Sing-Along Blog	
 |Picture=	Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg
 |Theater=	[[The Institution Theater]]
 |Director = [[Heidi Caldwell]]
