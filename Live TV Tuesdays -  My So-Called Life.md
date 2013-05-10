@@ -17,12 +17,12 @@ It played exclusively at [[The Highball]].
 * Angela Chase -- [[Christine Giordano]]
 * Jordan Catalano -- [[Kyle Traughber]]
 * Brian Krakow -- [[Ted Meredith]] 
-* Patricia Chase -- [[Ruby Willmann]]
+* Patricia Chase/Sharon Cherski -- [[Ruby Willmann]]
 * Graham Chase -- [[Christian Rashsalve Huey]]
 * Danielle Chase -- [[Stephanie Hagemeister]]
-* Rickie Vasquez -- [[Rafael Virguez]]
-* Sharon Cherski -- [[Ann Wilson]]
+* Rickie Vasquez -- [[Matholomew Giles]]
 * Rayanne Graff -- [[Brittany Salyer]]
+* Ensemble -- [[Ann Wilson]], [[Rafael Virguez]]
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 7/12/11 performance.
