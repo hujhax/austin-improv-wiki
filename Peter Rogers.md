@@ -23,20 +23,21 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
 * *[[Charles Dickens Unleashed]]*
-* *[[Fakespeare]]*
+* *[[Fakespeare]]* (Don Pedro / Lennox)
 * *[[Fandom]]*
 * *[[Improvised Shakespeare]]*
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Live Nude Improv]]*
-* *[[Live TV Tuesdays -  Angel]]*
-* *[[Live TV Tuesdays -  Buffy]]*
-* *[[Live TV Tuesdays -  Freaks and Geeks]]*
+* *[[Live TV Tuesdays -  Angel]]* (Wesley)
+* *[[Live TV Tuesdays -  Buffy]]* (Wesley)
+* *[[Live TV Tuesdays -  Firefly]]* (Simon)
+* *[[Live TV Tuesdays -  Freaks and Geeks]]* (Nick)
 * *[[The Professor]]*
 * *[[Rock]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Spirited]]*
 * *[[Strange Worlds]]*
-* *[[Totally Improvised, 90210]]*
+* *[[Totally Improvised, 90210]]* (ensemble)
 * *[[The Violet Underbelly]]*
 
 ## Media
