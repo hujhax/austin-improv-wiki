@@ -10,7 +10,7 @@
 ***The Joss Whedon Pajama Party*** was a sketch and improv revue themed around the works of Joss Whedon.
 
 ## Summary
-With the massive success of *[[Live TV Tuesdays -  Firefly]]* capping off successful *[[Live TV Tuesdays]]* runs of *[[Live TV Tuesdays -  Buffy|Buffy]]*, *[[Live TV Tuesdays -  Angel|Angel]]*, and *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Doctor Horrible]]*, the Institution decided to capitalize on the Whedon fanbase by making a sketch and improv revue based on his works.
+With the massive success of [[Live TV Tuesdays -  Firefly|the *Firefly* musical]] capping off successful *[[Live TV Tuesdays]]* runs of *[[Live TV Tuesdays -  Buffy|Buffy]]*, *[[Live TV Tuesdays -  Angel|Angel]]*, and *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Doctor Horrible]]*, the Institution decided to capitalize on the Whedon fanbase by making a sketch and improv revue based on his works.
 
 The show was hosted by [[Jordan T. Maxwell]], who was also in charge of the improv sections of the show, put on every night by an ad hoc troupe called "The Mutant Enemies", after Whedon's production company.
 
