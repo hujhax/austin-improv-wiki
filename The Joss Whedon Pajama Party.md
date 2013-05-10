@@ -25,69 +25,72 @@ The Pajama Party was brought back for a special, one-off performance on 1/25/13.
 ## Casts
 All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was hosted by [[Sarah Marie Curry]].
 
-* 6/15/12 performance:
-** Improv players:
-*** [[Courtney DeAngelo]]
-*** [[Heidi Rogers]]
-*** [[Jason Vines]]
-*** [[Kristin Firth]]
-*** [[Peter Rogers]]
-*** [[Sarah Swofford]]
-** Sketch players:
-*** [[Alex Kingston]]
-*** [[Heath Allyn]]
-*** [[Mitchell Deane]]
-* 6/22/12 performance:
-** Improv players:
-*** [[Chad Wellington]]
-*** [[Chelley Pyatt]]
-*** [[Courtney DeAngelo]]
-*** [[David Higgins]]
-*** [[Kristin Firth]]
-** Sketch players:
-*** [[Alex Kingston]]
-*** [[Mitchell Deane]]
-*** [[Heath Allyn]]
-* 6/29/12 performance:
-** Improv players:
-*** [[Courtney DeAngelo]]
-*** [[David Higgins]]
-*** [[Jeremy Logan]]
-*** [[Kristin Firth]]
-*** [[Tyler Bryce]]
-** Sketch players:
-*** [[Adam Mengesha]]
-*** [[Alexa Ramirez]]
-*** [[Asaf Ronen]]
-*** [[Chelley Pyatt]]
-*** [[Cindy Ward]]
-*** [[David Zimmerman]]
-*** [[Heath Allyn]]
-*** [[Jeremy Logan]]
-*** [[Kristin Firth]]
-*** [[Peter Rogers]]
-*** [[Sarah Swofford]]
-* 1/25/13 performance:
-** *[[Live TV Tuesdays -  Firefly|Firefly]]* players:
-*** [[Adam Mengesha]]
-*** [[Alexa Ramirez]]
-*** [[Ammie Nicole Leonards]]
-*** [[Heath Allyn]]
-*** [[Jason Vines]]
-*** [[Lindsey Reeves]]
-*** [[Peter Rogers]]
-*** [[Sarah Swofford]]
-** *[[Fandom]]* players:
-*** [[Aaron Saenz]]
-*** [[Bridget Brewer]]
-*** [[Eric Heiberg]]
-*** [[James Leary]]
-**** N.B.: [http://buffy.wikia.com/wiki/James_Charles_Leary Mr. Leary] played [http://buffy.wikia.com/wiki/Clement Clem] on *Buffy*.
-*** [[Jordan T. Maxwell]]
-*** [[Marc Majcher]]
-*** [[Meghan Wolff]]
-*** [[Peter Rogers]]
-*** [[Sarah Marie Curry]]
+### 6/15/12 Performance
+* Improv players:
+** [[Courtney DeAngelo]]
+** [[Heidi Rogers]]
+** [[Jason Vines]]
+** [[Kristin Firth]]
+** [[Peter Rogers]]
+** [[Sarah Swofford]]
+* Sketch players:
+** [[Alex Kingston]]
+** [[Heath Allyn]]
+** [[Mitchell Deane]]
+
+### 6/22/12 Performance
+* Improv players:
+** [[Chad Wellington]]
+** [[Chelley Pyatt]]
+** [[Courtney DeAngelo]]
+** [[David Higgins]]
+** [[Kristin Firth]]
+* Sketch players:
+** [[Alex Kingston]]
+** [[Mitchell Deane]]
+** [[Heath Allyn]]
+
+### 6/29/12 Performance
+* Improv players:
+** [[Courtney DeAngelo]]
+** [[David Higgins]]
+** [[Jeremy Logan]]
+** [[Kristin Firth]]
+** [[Tyler Bryce]]
+* Sketch players:
+** [[Adam Mengesha]]
+** [[Alexa Ramirez]]
+** [[Asaf Ronen]]
+** [[Chelley Pyatt]]
+** [[Cindy Ward]]
+** [[David Zimmerman]]
+** [[Heath Allyn]]
+** [[Jeremy Logan]]
+** [[Kristin Firth]]
+** [[Peter Rogers]]
+** [[Sarah Swofford]]
+
+### 1/25/13 Performance
+* *[[Live TV Tuesdays -  Firefly|Firefly]]* players:
+** [[Adam Mengesha]]
+** [[Alexa Ramirez]]
+** [[Ammie Nicole Leonards]]
+** [[Heath Allyn]]
+** [[Jason Vines]]
+** [[Lindsey Reeves]]
+** [[Peter Rogers]]
+** [[Sarah Swofford]]
+* *[[Fandom]]* players:
+** [[Aaron Saenz]]
+** [[Bridget Brewer]]
+** [[Eric Heiberg]]
+** [[James Leary]] (guest)
+*** N.B.: [http://buffy.wikia.com/wiki/James_Charles_Leary Mr. Leary] played [http://buffy.wikia.com/wiki/Clement Clem] on *Buffy*.
+** [[Jordan T. Maxwell]]
+** [[Marc Majcher]]
+** [[Meghan Wolff]] (guest)
+** [[Peter Rogers]]
+** [[Sarah Marie Curry]] (guest)
 
 ## Media
 * Videos of sketches:
