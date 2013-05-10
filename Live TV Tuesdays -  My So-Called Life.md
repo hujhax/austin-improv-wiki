@@ -25,6 +25,7 @@ It played exclusively at [[The Highball]].
 * Ensemble -- [[Ann Wilson]], [[Rafael Virguez]]
 
 ## Media
+* [http://www.facebook.com/media/set/?set=a.10150272583409090.354543.273514734089&type=3 Photoset of the 6/21/11 performance.]
 * [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 7/12/11 performance.
 
 ## More Information
