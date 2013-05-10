@@ -6,7 +6,7 @@
 |Years	=		2008-Present
 }}
 
-**Nice Astronaut** is a Chicago-style longform improv troupe in Austin, TX that specializes in creating formats. They have a monthly show (*[[Last Call]]*) on the second Saturdays at 11pm at [[ColdTowne Theater]].
+**Nice Astronaut** is a Chicago-style longform improv troupe in Austin, TX that specializes in creating formats. Their monthly Improvioke show is on the second Saturdays at 11pm at [[ColdTowne Theater]].
 
 ## Formation
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] and was formed from several students in a level 1 class together at ColdTowne Theater.  They debuted under the temporary name "H.J. Compromise" in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011).
@@ -67,7 +67,8 @@ White Elephant was a format performed as a [http://do512.com/event/weekly/thu/th
 A semi-narrative improv format that follows the potential dates and long term lives and what-if's of a game show contestant and their 3 suitors.  Nice Astronaut performed this format in [http://www.coldtownetheater.com/events/nice-astronaut-presents-save-these-dates February and March 2012].
 
 ### After Midnight
-After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The same time slot is now called "[[Last Call]]".  The show titles included:
+After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The show titles included:
+
 * Infomercials
 * You are NOT the father
 * Improvised Bosom Buddies
