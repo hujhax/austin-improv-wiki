@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name	=	The Joss Whedon Pajama Party 	
+|Name	=	The Joss Whedon<br/>Pajama Party 	
 |Picture=	The Joss Whedon Pajama Party.jpg
 |Theater=	[[The Institution Theater]]
 |Director = {{Unbulleted list | [[Asaf Ronen]] | [[Chelley Pyatt]] | [[Jordan T. Maxwell]] }}
