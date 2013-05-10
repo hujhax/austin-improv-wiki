@@ -15,7 +15,7 @@ He exists in a strange limbo in the AIC in that he is somewhat known for his imp
 It is posited (but as of yet, scientifically unproven) that Heath is cool as hell like email, but still timeless like a letter.
 
 ## Shows
-* *[[Joss Whedon Pajama Party]]*
+* *[[The Joss Whedon Pajama Party]]*
 * *[[Live TV Tuesdays -  Angel]]*
 * *[[Live TV Tuesdays -  Firefly]]*
 * *[[Love Fest]]*
