@@ -11,18 +11,17 @@
 Kayla will appear in [[The 44-Hour Improv Marathon]] as a core cast member.
 
 ## Troupes
-* [[Royston]]
-* [[The Nesting Dolls]]
-* [[Sugarbakers]]
 * [[Dance Card]]
+* [[The Nesting Dolls]]
 * [[Nice Save]]
-
+* [[Royston]]
+* [[Sugarbakers]]
 
 ## Shows
-* *[[Stool Pigeon]]*
 * *[[Austin Secrets]]*
 * *[[Pocketful of Posies]]*
 * *[[Spirited]]*
+* *[[Stool Pigeon]]*
 * *[[The Suitcase]]*
 
 ## More Information
