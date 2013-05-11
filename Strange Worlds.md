@@ -48,6 +48,18 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [[Lily Wilde Versus the Ravenous Cats]]
 ** [[Strange Times -  The Tattoo]]
 ** [[Codename -  Sleuth and the Case of the Assassin's Sting]]
+* Episode 5 (4/6/13):
+** The Peregrine and the Tempest Equation
+** Strange Times: The Tunnels
+** The Beacon and the Enchanted Mirror
+* Episode 6 (4/13/13):
+** Strange Times: The President
+* Episode 7 (4/13/13):
+** Strange Times: The Supplies
+* Episode 8 (4/13/13):
+** Words Collide, Chapter 1: 
+** Strange Times: The Invasion
+** Words Collide, Chapter 2:
 
 ## Media
 * Episode 1 (3/2/13):
