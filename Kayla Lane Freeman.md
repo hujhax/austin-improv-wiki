@@ -1,6 +1,5 @@
 {{Infobox Performer
 |Name	=	Kayla Lane Freeman	
-|Picture =	
 |Years	=	2011-Present
 }}
 
