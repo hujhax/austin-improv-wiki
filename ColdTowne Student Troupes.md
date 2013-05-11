@@ -57,7 +57,7 @@
 |-
 ! scope="row"| 13
 | [[Cheap Date]]
-| ?
+| January 3, 2013
 |-
 |}
 
