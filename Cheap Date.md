@@ -1,3 +1,5 @@
+![[Cheapdate.gif]]
+
 Cheap Date is has been tasked by ColdTowne to mine raw yukz ore and refine it through comedallurgy into pure audience bliss. 
 
 Cheap Date is not daunted by or disdainful of the Harold.
