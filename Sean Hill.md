@@ -11,6 +11,7 @@
 * [[Junk]]
 
 ## Shows
+* *[[Hitchcocked]]*
 * *[[The Sci-Fi Comedy Double Feature]]* (director)
 * *[[Start Trekkin']]* (director)
 * *[[TheatreSports (mainstage run)|Theatresports]]*
