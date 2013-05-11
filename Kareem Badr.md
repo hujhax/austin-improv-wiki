@@ -25,5 +25,11 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * *[[Start Trekkin']]*
 * *[[TheatreSports (mainstage run)|Theatresports]]* (director, 2010)
 * *[[The Violet Underbelly]]* (director)
+* *[[After School Improv]]* 
+* *[[Improvised Shakespeare]]* 
+* *[[This Week Tonight]]* 
+* *[[Process]]* 
+* *[[The Andersons]]* 
+
 [[Category/Performers|Badr]]
 [[Category/Teachers|Badr]]
