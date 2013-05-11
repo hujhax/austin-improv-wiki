@@ -11,9 +11,9 @@
 * [[Junk]]
 
 ## Shows
-* *[[The Sci-Fi Comedy Double Feature]]*
-* *[[Start Trekkin']]*
-* *[[Theatersports (mainstage run)|Theatersports]]*
-* *[[Twilight Zoned]]*
+* *[[The Sci-Fi Comedy Double Feature]]* (director)
+* *[[Start Trekkin']]* (director)
+* *[[TheatreSports (mainstage run)|Theatresports]]*
+* *[[Twilight Zoned]]* (director)
 
 [[Category/Performers|Hill]]
