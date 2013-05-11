@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Live TV Tuesdays: Firefly	
-|Picture=	Live TV Tuesdays - Firefly.jpg
+|Picture=	FireflyPoster.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Asaf Ronen]]
 |Assistant Director= {{Unbulleted list | [[Allison Asher]] | [[Michael Thomas]] }}
@@ -10,7 +10,7 @@
 |Run	=	May/Jun 2012
 }}
 
-![[FireflyPoster.jpg|The publicity poster for *Firefly*.]]
+![[Live TV Tuesdays - Firefly.jpg|The cast of *Firefly* takes a bow.]]
 
 ***Live TV Tuesdays: Firefly*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Firefly (TV series)|*Firefly*]] episode [[Wikipedia - Our Mrs. Reynolds|"Our Mrs. Reynolds"]]
 
