@@ -15,7 +15,7 @@
 For this production, director [[Asaf Ronen]] and assistant director [[Michael Thomas]] wrote six original songs for the show, turning it into a musical.
 
 ## History
-This was the fourth of the Joss-Whedon-derived productions from *[[Live TV Tuesdays]]* (the first three being [[Live TV Tuesdays -  Buffy|*Buffy*]], [[Live TV Tuesdays -  Doctor Horrible|*Doctor Horrible*]], and [[Live TV Tuesdays -  Angel|*Angel*]]).
+This was the fourth of the Joss-Whedon-derived productions from *[[Live TV Tuesdays]]* (the first three being [[Live TV Tuesdays -  Buffy|*Buffy*]], [[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|*Doctor Horrible*]], and [[Live TV Tuesdays -  Angel|*Angel*]]).
 
 This show sold out its entire run before the second performance.  Soon after that, FOX sent the production a cease-and-desist letter, and the production ended shortly afterwards.
 
