@@ -20,6 +20,7 @@ Troy was a core cast member in both [[The 40-Hour Improv Marathon]] and [[The 42
 * *[[Cops & Lawyers]]* (director)
 * *[[Fakespeare]]* (Conrade / Duncan)
 * *[[Hitchcocked]]*
+* *[[Manhattan Stories]]*
 * *[[The Sci-Fi Comedy Double Feature]]* (director)
 * *[[Start Trekkin']]* (director)
 * *[[Twilight Zoned]]* (director)
