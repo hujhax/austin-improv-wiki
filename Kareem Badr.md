@@ -16,6 +16,8 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * [[False Matters]]
 * [[Parallelogramophonograph]]
 * [[The Randy Meisner]]
+* [[The Smoking Arm]]
+* [[Badr & Janik]]
 
 ## Shows
 * *[[Austin Secrets]]*
