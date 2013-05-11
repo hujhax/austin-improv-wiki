@@ -9,6 +9,9 @@
 |Music = {{Unbulleted list | [[Heath Allyn]] | [[Jeremy Logan]] | [[Thelma Faglie]] }}
 |Run	=	May/Jun 2012
 }}
+
+![[FireflyPoster.jpg|The publicity poster for *Firefly*.]]
+
 ***Live TV Tuesdays: Firefly*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Firefly (TV series)|*Firefly*]] episode [[Wikipedia - Our Mrs. Reynolds|"Our Mrs. Reynolds"]]
 
 ## Summary
