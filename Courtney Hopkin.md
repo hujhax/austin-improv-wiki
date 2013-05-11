@@ -14,6 +14,7 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 * [[False Matters]]
 * [[Girl Embassy World Team]]
 * [[Lady Couch]]
+* [[Ratgirls]]
 * [[RhinoDino]]
 * [[Snackers]]
 * [[Your Terrific Neighbors]]
