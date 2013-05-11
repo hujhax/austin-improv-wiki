@@ -1,15 +1,15 @@
-![[Cheapdate.gif]]
+{{Infobox Troupe
+|Name	=	Cheap Date
+|Picture =     Cheap Date.jpg
+|Cast	=	{{Unbulleted list | [[Alejandro Garcia]] | [[Andrew Basile]] | [[Chrissy Shackleford]] | [[Jessica Marpe]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Nathan Sowell]] | [[Will Casto]] }}
+|Years	=		2013-Present
+}}
 
-Cheap Date is not daunted by or disdainful of the Harold.
+**Cheap Date** is a [[ColdTowne Student Troupes|student troupe]] at [[ColdTowne Theater]].
 
-Cheap Date's members are as follows:
+## Former Members
+* [[Spindrift Beck]]
 
-Andrew Basile
-Nathan Sowell
-Jessica Marpe
-Matt Needles
-Naomi Perryman
-Alejandro Garcia
-Chrissy Shackleford
-Will Casto
-Spindrift Beck (in Absentia)
+## More Information
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
