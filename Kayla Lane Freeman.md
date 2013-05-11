@@ -1,7 +1,6 @@
 {{Infobox Performer
 |Name	=	Kayla Lane Freeman	
 |Picture =	Kayla Lane Freeman Pic.jpg
-|Theater=	[[The Hideout Theatre]]
 |Years	=	2011-Present
 }}
 
@@ -11,12 +10,16 @@
 Kayla will appear in [[The 44-Hour Improv Marathon]] as a core cast member.
 
 ## Troupes
-* [[Local Genius Society]]
-* [[The Professor]]
+* [[Royston]]
+* [[The Nesting Dolls]]
+* [[Sugarbakers]]
+* [[Dance Card]]
+* [[Nice Save]]
+
 
 ## Shows
+* *[[Stool Pigeon]]*
 * *[[Austin Secrets]]*
-* *[[Blood, Sweat, and Cheers]]*
 * *[[Pocketful of Posies]]*
 * *[[Spirited]]*
 * *[[The Suitcase]]*
