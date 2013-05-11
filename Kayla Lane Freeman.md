@@ -1,6 +1,8 @@
 {{Infobox Performer
 |Name	=	Kayla Lane Freeman	
-|Years	=	2011-Present
+|Picture =	kaylalane.png
+|Theater=	
+|Years	=	2011-present
 }}
 
 **Kayla Lane Freeman** is an improv performer.
