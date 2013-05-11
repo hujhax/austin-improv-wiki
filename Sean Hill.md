@@ -17,3 +17,5 @@
 * *[[Twilight Zoned]]* (director)
 
 [[Category/Performers|Hill]]
+[[Category/Teachers|Hill]]
+[[Category/Directors|Hill]]
