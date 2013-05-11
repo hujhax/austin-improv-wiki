@@ -25,6 +25,5 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * *[[Start Trekkin']]*
 * *[[TheatreSports (mainstage run)|Theatresports]]*
 * *[[The Violet Underbelly]]* (director)
-
 [[Category/Performers|Badr]]
 [[Category/Teachers|Badr]]
