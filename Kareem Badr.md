@@ -23,7 +23,7 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Start Trekkin']]*
-* *[[TheatreSports (mainstage run)|Theatresports]]*
+* *[[TheatreSports (mainstage run)|Theatresports]]* (director, 2010)
 * *[[The Violet Underbelly]]* (director)
 [[Category/Performers|Badr]]
 [[Category/Teachers|Badr]]
