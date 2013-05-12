@@ -5,7 +5,7 @@
 |Years	=	2005-Present
 }}
 
-**Roy Janik** is an improviser, as well as co-owner and Artistic Director of [[The Hideout Theatre]].
+**Roy Janik** (AKA **Roy Danger**) is an improviser, as well as co-owner and Artistic Director of [[The Hideout Theatre]].
 
 ## History
 # Performer
