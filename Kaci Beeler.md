@@ -22,14 +22,14 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 * FronteraFest Best Of Fest 2008: Parallelogramophonograph's Improvised French Farce[http://zinereem.livejournal.com/544531.html]
 
 ## Troupes
-* [[Parallelogramophonograph]]
-* [[Available Cupholders]]
-* [[The Amazon and the Milksop]]
 * [[Adventure Squad!]]
-* [[Girl Embassy World Team]]
-* [[Perfect Season]]
-* [[Mr. and Mrs. Danger]]
+* [[The Amazon and the Milksop]]
+* [[Available Cupholders]]
 * [[Comedic Amoeba]]
+* [[Girl Embassy World Team]]
+* [[Mr. and Mrs. Danger]]
+* [[Parallelogramophonograph]]
+* [[Perfect Season]]
 * [[The PITS]]
 
 ## Shows
