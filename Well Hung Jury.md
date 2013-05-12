@@ -12,6 +12,14 @@ The troupe was founded in May 1998, and performed their final show in October 20
 
 Over the course of their run, they performed Austin's first improv marathon with a 27-hour-long show, and did a series of performances in unconventional places, such as a parking garage, the Capitol grounds, and a cross-city bus.
 
-They performed a one-off reunion show on 4/30/09 at [[The Hideout Theatre]].
+They performed a one-off "ten-year reunion" show on 4/30/09 at [[The Hideout Theatre]].
+
+
+## Media
+* [http://youtu.be/NLhCMNArKzA A video of one of their "Inter-Presidential Wrestling" shows.]
+* [http://www.flickr.com/photos/noahvoelker/sets/72157617960415800/with/3519108591/ A photoset] of the reunion show from [[Noah Voelker]].
+
+## More Information
+* [http://web.archive.org/web/20020802152723/http://www.wellhungjury.com/theformats.html A list of the Jury's formats.]
 
 [[Category/Troupes|Category:Troupes]]
