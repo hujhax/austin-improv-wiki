@@ -13,23 +13,23 @@ Kareem began taking classes at [[The Hideout Theatre]] on 1/7/05.  He performed 
 On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That same year, he appeared in [[The 40-Hour Improv Marathon]].
 
 ## Troupes
-* [[False Matters]]
-* [[Parallelogramophonograph]]
-* [[The Randy Meisner]]
-* [[The Smoking Arm]]
 * [[Badr & Janik]]
+* [[False Matters]]
+* [[The Randy Meisner]]
+* [[Parallelogramophonograph]]
+* [[The Smoking Arm]]
 
 ## Shows
+* *[[After School Improv]]* 
+* *[[The Andersons]]* 
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
+* *[[Improvised Shakespeare]]* 
+* *[[Process]]* 
 * *[[Start Trekkin']]*
 * *[[TheatreSports (mainstage run)|Theatresports]]* (director, 2010)
-* *[[The Violet Underbelly]]* (director)
-* *[[After School Improv]]* 
-* *[[Improvised Shakespeare]]* 
 * *[[This Week Tonight]]* 
-* *[[Process]]* 
-* *[[The Andersons]]* 
+* *[[The Violet Underbelly]]* (director)
 
 [[Category/Performers|Badr]]
 [[Category/Teachers|Badr]]
