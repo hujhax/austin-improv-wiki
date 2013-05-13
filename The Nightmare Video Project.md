@@ -14,7 +14,7 @@ It was part of *[[The Wheel]]*.
 ## Summary
 *The Nightmare Video Project* featured [[Marc Majcher]] as "the Gate Keeper", a hideous, cackling, [[Wikipedia - Tales from the Crypt (TV series)#Episodes|Crypt-Keeper]]-like improv director.  The conceit of the show was that all the performers had landed in hell, and had to perform according to the Gate Keeper's whims if they wanted the privilege of avoiding painful death.
 
-The Gate Keeper only appeared onscreen, as the entire performance was a pre-recorded DVD prepared by Mr. Majcher and projected, during the show, and the video screen.  This meant that everything -- setups, suggestion-taking, even calling the end of scenes (which he usually did with a shouted, "SCENE IS OVER!") -- was recorded ahead of time, and the players had to contend with it as best as they could.
+The Gate Keeper only appeared onscreen, as the entire performance was a pre-recorded DVD prepared by Mr. Majcher and projected, during the show, on the theater's video screen.  This meant that everything -- setups, suggestion-taking, even calling the end of scenes (which he usually did with a shouted, "SCENE IS OVER!") -- was recorded ahead of time, and the players had to contend with it as best as they could.
 
 Towards the end of the *Nightmare* run, Mr. Majcher began experimenting with the multimedia format, including, for example, a setup where, in the scene, the characters' inner thoughts were represented as floating text onscreen.  For another episode, he brought in his four-year-old daughter as an Assistant Gate Keeper.
 
