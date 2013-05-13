@@ -14,10 +14,11 @@
 * [[Squirrel Buddies]]
 
 ## Shows
-* *[[Who Is T. Henry Baudecliffe]]*
-* *[[The Violet Underbelly]]*
-* *[[The Black Vault]]*
+* *[[The Andersons]]* (Mr. Cooper)
 * *[[Austin Secrets]]* (creator/director)
+* *[[The Black Vault]]*
+* *[[The Violet Underbelly]]*
+* *[[Who Is T. Henry Baudecliffe]]*
 
 [[Category/Performers|Janik]]
 [[Category/Teachers|Janik]]
