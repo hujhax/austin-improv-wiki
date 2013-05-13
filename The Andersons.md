@@ -26,6 +26,7 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * Madge Miller -- [[Stacy Kaplowitz]]
 * Mitch Miller -- [[Jason Vines]]
 * Mr. Cooper -- [[Roy Janik]]
+* Ensemble -- [[Curtis Luciani]], [[Dav Wallace]], [[Deana Ricks]], [[Indigo Rael]], [[Jared Stepp]], [[Justin York]], [[Kacey Samiee]], [[Valerie Ward]]
 
 ## Media
 * [http://youtu.be/3GjaTWZi6Kg A video promo for the show.]
