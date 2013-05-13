@@ -25,7 +25,7 @@ Jon moved to downtown Austin in 2007, where he stumbled upon a performance of th
 * *[[False Matters]]*
 * *[[Heist]]*
 * *[[Manhattan Stories]]* (Performed and Directed)
-* *[[Theatresports]]*
+* *[[TheatreSports (mainstage run)|Theatresports]]*
 
 [[Category/Performers|Bolden]]
 [[Category/Teachers|Bolden]]
