@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Bridget Brewer	
+|Picture = BridgetBrewer.png 
 |Theater=	[[The Hideout Theatre]]
 }}
 
