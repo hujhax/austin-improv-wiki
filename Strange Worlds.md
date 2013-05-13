@@ -54,9 +54,9 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** The Beacon and the Enchanted Mirror
 * Episode 6 (4/13/13):
 ** Strange Times: The President
-* Episode 7 (4/13/13):
+* Episode 7 (4/20/13):
 ** Strange Times: The Supplies
-* Episode 8 (4/13/13):
+* Episode 8 (4/27/13):
 ** Words Collide, Chapter 1: 
 ** Strange Times: The Invasion
 ** Words Collide, Chapter 2:
