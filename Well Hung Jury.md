@@ -63,7 +63,7 @@ They performed in [[The 2005 Out of Bounds Comedy Festival]], and did a one-off 
 ### Scripted Work
 Their first shot at a scripted work was Tom Stoppard's *Fifteen Minute Hamlet*. It turned out very well and got a good response from the audience that showed up to our free outdoor performance at Wooldridge Park. The show was followed by some Shakespearean improv.
 
-Secondarily, they penned and directed a new play, *For the Love of You, Mother Dear*,  which attempted to set a world record for the shortest play ever to be performed.  (Its running time was 1.28 seconds.)  Unfortunately, *The Guinness Book of World Records* refused to recognize the record.
+Secondarily, they penned and directed a new play, *For the Love of You, Mother Dear*,  which attempted to set a world record for the shortest play ever to be performed.  (Its running time was 1.28 seconds.)  Unfortunately, *The Guinness Book of World Records* refuses to recognize the record.
 
 ## Media
 * [http://youtu.be/NLhCMNArKzA A video of one of their "Inter-Presidential Wrestling" shows.]
