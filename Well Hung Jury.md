@@ -12,7 +12,7 @@ The troupe was founded in May 1998, and performed their final show in October 20
 
 Over the course of their run, they performed Austin's first improv marathon with a 27-hour-long show, and did a series of performances in unconventional places, such as a parking garage, the Capitol grounds, and a cross-city bus.
 
-They performed a one-off "ten-year reunion" show on 4/30/09 at [[The Hideout Theatre]].
+They performed in [[The 2005 Out of Bounds Comedy Festival]], and did a one-off "ten-year reunion" show on 4/30/09 at [[The Hideout Theatre]].
 
 ## Formats
 ### Conceptual Improv Formats
