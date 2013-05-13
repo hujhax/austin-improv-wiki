@@ -12,7 +12,7 @@
 ## History
 The run of the show included a performance in [[The 41-Hour Improv Marathon]].
 
-It was reprised a couple of shows at [[The Highball]] in late August of 2010, and once more for [[The Hideout Holiday Super Special]] at the end of the year.
+It was reprised a couple of shows at [[The Highball]] in late August of 2010, and once more for *[[The Hideout Holiday Super Special]]* at the end of the year.
 
 ## Cast
 About half the cast of *The Andersons* played the same, pre-established characters from week to week, all based on classic 1950s-sitcom archetypes.  (The rest were ensemble players.)
