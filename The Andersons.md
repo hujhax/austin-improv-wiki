@@ -2,7 +2,7 @@
 |Name	=	The Andersons	
 |Picture =	The Andersons.jpg ‎
 |Director =	[[Patrick Daniel]]	
-|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Curtis Lucianni]] | [[Dav Wallace]] | [[Deana Ricks]] | [[Deano Jones]] | [[Indigo Rael]] | [[Jared Stepp]] | [[Jason Vines]] | [[Jon Bolden]] | [[Justin York]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Katie Thornton]] | [[Roy Janik]] | [[Stacy Kaplowitz]] | [[Valerie Ward]] }}
+|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Curtis Luciani]] | [[Dav Wallace]] | [[Deana Ricks]] | [[Deano Jones]] | [[Indigo Rael]] | [[Jared Stepp]] | [[Jason Vines]] | [[Jon Bolden]] | [[Justin York]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Katie Thornton]] | [[Roy Janik]] | [[Stacy Kaplowitz]] | [[Valerie Ward]] }}
 |Theater = [[The Hideout Theatre]]
 |Run	=	May/Jun 2010
 }}
