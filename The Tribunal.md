@@ -8,7 +8,7 @@
 |Subsequent Runs = April 12th 2013
 }}
 
-The Tribunal is a scenario about the mechanics of oppression.
+***The Tribunal*** is a scenario about the mechanics of oppression.
 
 Inspired by Orwell, Krylov, Buchner, Linna, and the prisoner’s dilemma.
 
@@ -21,6 +21,7 @@ This show has only been performed twice so far, and the results were… intense.
 ## Casts
 ### Septempber 28th, 2012
 * [[Bob Olmstead]]
+* [[Britney Salyer]] (thug)
 * [[Cat Drago]]
 * [[Emily Breedlove]]
 * [[Halyn Lee Erickson]]
@@ -32,7 +33,6 @@ This show has only been performed twice so far, and the results were… intense.
 * [[Mitchell Deane]]
 * [[Thedward Blevins]]
 * [[Valerie Ward]]
-* [[Britney Salyer]] (thug)
 
 ### April 12th, 2013
 * [[Ashley Jayne Carlisle]]
@@ -42,9 +42,9 @@ This show has only been performed twice so far, and the results were… intense.
 * [[Cortney DeAngelo]]
 * [[Cynthia Ward]]
 * [[Heidi Rogers]]
+* [[Jayme Ramsay]] (thug)
 * [[Jessica Arjet]]
 * [[JM Specht]]
 * [[Mike Nystul]]
 * [[Nicole Oliver]]
 * [[Ryan Hill]]
-* [[Jayme Ramsay]] (thug)
