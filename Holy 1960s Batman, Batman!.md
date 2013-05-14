@@ -29,7 +29,7 @@ Each week, a guest improvisor would play the villain of the episode.  The villia
 * [[Tom Booker]]
 
 ## History
-Early takes on the format appeared under the title "Holy Sleep Deprivation, Batman" at [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
+Early takes on the format appeared under the title "Holy Sleep Deprivation, Batman" at [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].  There was also a test run during [[The 2011 Improvised Play Festival]].
 
 The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]].  Its mainstage run included an appearance in [[The 42-Hour Improv Marathon]].
 
