@@ -1,3 +1,10 @@
+{{Infobox Performer
+|Name	=	Deano Jones
+|Picture =	Deano Jones pic.jpg
+|Theater =      Various
+|Years	=	2009-Present
+}}
+
 **Deano Jones** is an Austin improvisor.
 
 
