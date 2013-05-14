@@ -5,7 +5,7 @@
 |Years	=	2000-Present
 }}
 
-**Michael Joplin** is an improv performer and director.
+**Michael Joplin** is an improv performer, teacher, and director.
 
 ## Troupes
 * [[Available Cupholders]]
@@ -26,3 +26,4 @@
 
 [[Category/Teachers|Joplin]]
 [[Category/Performers|Joplin]]
+[[Category/Directors|Joplin]]
