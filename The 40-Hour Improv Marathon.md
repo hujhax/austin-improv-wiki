@@ -27,8 +27,8 @@
 * Saturday 7am: "The Sleepover", an improvised slumber party with [[Look Cookie]].
 * Saturday 8am: [[No Chaser]]
 * Saturday 9am: "Pancake Social", a mimosa party and improv cooking show
-* Saturday 10am: [[Ka-Baam!!]]
-* Saturday 11am: "What the Dickens!?", improvised Charles Dickens
+* Saturday 10am: *[[Ka-Baam!!]]*
+* Saturday 11am: [[Charles Dickens Unleashed|"What the Dickens!?", improvised Charles Dickens]]
 * Saturday noon: Student Showcase
 * Saturday 1pm: [[ComedySportz]]
 * Saturday 2pm: [[Flying Theatre Machine]]
@@ -36,11 +36,11 @@
 * Saturday 4pm: "Play by Play: Cubs vs. White Sox", improv commentary over Major League Baseball
 * Saturday 5pm: "The Life Game", improv inspired by a live celebrity interview
 * Saturday 6pm: "The Hippodrome", improv beyond the horizon
-* Saturday 7pm: [[After School Improv]]
-* Saturday 8pm: [[Improvised Shakespeare]]
-* Saturday 9pm: "Holy Sleep Deprivation, Batman!", an improvised episode of the 60s *Batman* tv show
-* Saturday 10pm: Musical [[Maestro]]
-* Saturday midnight: [[Dubbed Indemnity]]
+* Saturday 7pm: *[[After School Improv]]*
+* Saturday 8pm: *[[Improvised Shakespeare]]*
+* Saturday 9pm: [[Holy 1960s Batman, Batman!|"Holy Sleep Deprivation, Batman!"]], an improvised episode of the 60s *Batman* tv show
+* Saturday 10pm: *[[Maestro|Musical Maestro]]*
+* Saturday midnight: *[[Dubbed Indemnity]]*
 * Sunday 1am: [http://improvencyclopedia.org/games/The_Bat.html The Bat] with [[ColdTowne (troupe)|ColdTowne]]
 * Sunday 2am: [[The Institution]]
 * Sunday 3am: "Musical [http://improvencyclopedia.org/games//Armando.html Armando]", with [[A Bunch of Liars]] and [[The Love Notes]]
