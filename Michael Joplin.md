@@ -11,6 +11,8 @@
 * [[Available Cupholders]]
 * [[Brain Trust]]
 * [[Continental Breakfast]] (director)
+* [[The Known Wizards]]
+* [[The Knuckleball Now]]
 * [[Well Hung Jury]]
 
 ## Shows
