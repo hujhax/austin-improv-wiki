@@ -57,11 +57,13 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [[Strange Times -  The President]]
 ** [[Maxine Maker and the Sumptuous Nanoreciprocator]]
 * Episode 7 (4/20/13):
+** [[The Grey Bishop -  The Queen's Gambit]]
 ** [[Strange Times -  The Supplies]]
+** [[Lily Wilde and the Orchid of Death]]
 * Episode 8 (4/27/13):
-** [[Words Collide, Chapter 1 -]] 
+** [[Words Collide, Chapter 1 -  The Twilight of Neptune]] 
 ** [[Strange Times -  The Invasion]]
-** [[Words Collide, Chapter 2 -]]
+** [[Words Collide, Chapter 2 -  The Tomb of Heartbreak]]
 
 ## Media
 * Episode 1 (3/2/13):
