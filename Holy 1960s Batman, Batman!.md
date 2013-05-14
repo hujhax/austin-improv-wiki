@@ -29,7 +29,11 @@ Each week, a guest improvisor would play the villain of the episode.  The villia
 * [[Tom Booker]]
 
 ## History
-The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]], had its run extended for two weeks, played two special Halloween shows in 2011, and headlined the Black Box Comedy Festival in Atlanta that same year.
+Early takes on the format appeared under the title "Holy Sleep Deprivation, Batman" at [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
+
+The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]].  Its mainstage run included an appearance in [[The 42-Hour Improv Marathon]].
+
+After its May and June performances, it had its run extended for two weeks, played two special Halloween shows, and headlined the Black Box Comedy Festival in Atlanta, all in 2011.
 
 ## Media
 * [http://youtu.be/OpWVV8wuM1A The video intro for the show.]
