@@ -19,7 +19,7 @@ His novel, *[http://www.riseofthecaferacer.com Rise of the Cafe Racer]*, was fea
 ## Shows
 * *[[The Andersons]]*
 * *[[The Family]]*
-* *[[Holy 1960's Batman, Batman!]]*
+* *[[Holy 1960s Batman, Batman!]]*
 * *[[The Violet Underbelly]]*
 
 ## Troupes
