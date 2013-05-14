@@ -14,6 +14,8 @@ He has appeared in [[Michael Joplin]]'s *[[The Family]]*, Hideout mainstage show
 
 As a graphic designer, Deano has created over 200 posters for improv shows in the AIC.
 
+His novel, *[http://www.riseofthecaferacer.com Rise of the Cafe Racer]*, was featured in *[[The Next Chapter]]*.
+
 ## Shows
 * *[[The Andersons]]*
 * *[[The Family]]*
