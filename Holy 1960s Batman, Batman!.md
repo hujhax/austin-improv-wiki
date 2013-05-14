@@ -36,6 +36,14 @@ The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]]. 
 After its May and June performances, it had its run extended for two weeks, played two special Halloween shows, and headlined the Black Box Comedy Festival in Atlanta, all in 2011.
 
 ## Media
-* [http://youtu.be/OpWVV8wuM1A The video intro for the show.]
-* Teasers for the show: [http://youtu.be/v-Enot5nZyg "Superior Intellect"], [http://youtu.be/vmYDs-M53_8 "Walk It Off"], [http://youtu.be/17FTN8qNMqc "A Dream Come True"], [http://youtu.be/6a7QO56rKm0 "No Ego"], [http://youtu.be/h_jpVQn3Lfk "Chia Pet"].
-* [http://youtu.be/c4V0yO1ZXIg A teaser for the Halloween shows.]
+* Photos:
+** [http://www.facebook.com/media/set/?set=a.10150154016553510.295261.24535278509&type=3 Publicity photos for the mainstage run.]
+** [http://www.facebook.com/media/set/?set=a.1879506000571.105920.1628915954&type=3 Pictures from their live appearance on KEYE.]
+** [http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their performance in [[The 2011 Improvised Play Festival]].
+** [http://www.facebook.com/media/set/?set=a.123789247702107.31360.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 5/14/11 performance.
+** [http://www.facebook.com/media/set/?set=a.1909076659819.107287.1628915954&type=3 Photoset] uploaded by [[Deano Jones]] of 5/21/11 performance ("The Baguette").
+** [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 5/28/11 performance.
+* Videos:
+** [http://youtu.be/OpWVV8wuM1A The video intro for the show.]
+** Teasers for the show: [http://youtu.be/v-Enot5nZyg "Superior Intellect"], [http://youtu.be/vmYDs-M53_8 "Walk It Off"], [http://youtu.be/17FTN8qNMqc "A Dream Come True"], [http://youtu.be/6a7QO56rKm0 "No Ego"], [http://youtu.be/h_jpVQn3Lfk "Chia Pet"].
+** [http://youtu.be/c4V0yO1ZXIg A teaser for the Halloween shows.]
