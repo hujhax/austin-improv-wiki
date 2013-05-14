@@ -1,31 +1,37 @@
-Holy 1960's Batman, Batman" is an improvised comedy show based on the 1960's Batman TV series. The show debuted at the Hideout Theatre in Austin, Texas every Saturday Night in May - June, 2011.
+{{Infobox Show
+|Name	=	Holy 1960s Batman, Batman!	
+|Picture=	Batman.cast.jpg
+|Theater=	[[The Hideout Theatre]]
+|Director =	[[Kaci Beeler]]
+|Cast	=	{{Unbulleted list | [[Curtis Luciani]] | [[Eric Heiberg]] | [[Jared Stepp]] | [[Jason Vines]] | [[Jay Byrd]] | [[Keegan Hines]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Roy Janik]] | [[Taylor Overstreet]] | [[Teresa Troxel]] }}
+| Tech = {{Unbulleted list | [[Britney Salyer]] | [[Carl Ziegler]] | [[John Brewster]] | [[Michael Yew]] | [[Zac Grantham]] }}
+|Run	=	May/Jun 2011
+}}
 
-The show sold out all 10 weeks of it's debut run at the Hideout Theatre in Austin, Texas, added 2 weeks of extended shows and headlined the Black Box Comedy Festival in Atlanta in 2011.
+***Holy 1960's Batman, Batman!*** was an improvised longform narrative show inspired by [[Wikipedia - Batman (TV series)|the 1960's *Batman* TV series]].
 
-Deano Jones and Kaci Beeler starred as Batman and Robin respectively and were joined by an All-Star cast of Austin's best improvisers to create an entirely new episode at each show, complete with costumes, sound effects , musical scores and a villain created by the audience on the spot.
+## Cast & Crew
+[[Deano Jones]] appeared as Batman/Bruce Wayne, and [[Kaci Beeler]] played Robin/Dick Grayson.
 
-Directed by Kaci Beeler
+The rest of the cast were ensemble players.
+ 
+[[Michael Yew]] was the technical director for the show.
 
-Featured: 
-Deano Jones as Batman/Bruce Wayne , Kaci Beeler as Robin/Dick Grayson
+### Guest Villains
+Each week, a guest improvisor would play the villain of the episode.  The villians were as follows:
+* [[Asaf Ronen]]
+* [[Justin Davis]]
+* [[Kareem Badr]]
+* [[Lauren Buck]]
+* [[Mike Kinald]]
+* [[Shana Merlin]]
+* [[Shannon McCormick]]
+* [[Tom Booker]]
 
-Ensemble Cast:
-Curtis Luciani, Eric Heiberg, Jared Stepp, Lisa Jackson, Marc Majcher, Taylor Overstreet, James Dean Jay Byrd, Jason Vines, Keegan Hines, Teresa Troxel and Roy Janik
+## History
+The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]], had its run extended for two weeks, played two special Halloween shows in 2011, and headlined the Black Box Comedy Festival in Atlanta that same year.
 
-Guest Villains:
-Shannon McCormick, Asaf Ronen, Mike Kinald, Tom Booker, Shana Merlin, Lauren Zinn, Kareem Badr and Justin Davis
-
-Bat Tech Wizards:
-Michael Yew (Technical Director), Carl Ziegler, John Brewster, Zac Grantham, and Britney Salyer.
-
-Media:
-
-http://www.youtube.com/watch?v=v-Enot5nZyg
-http://www.youtube.com/watch?v=vmYDs-M53_8
-http://www.youtube.com/watch?v=c4V0yO1ZXIg
-http://www.youtube.com/watch?v=OpWVV8wuM1A
-http://www.youtube.com/watch?v=17FTN8qNMqc
-http://www.youtube.com/watch?v=h_jpVQn3Lfk
-http://www.youtube.com/watch?v=6a7QO56rKm0
-http://www.youtube.com/watch?v=6a7QO56rKm0
-http://www.youtube.com/watch?v=c4V0yO1ZXIg&feature=player_embedded
+## Media
+* [http://youtu.be/OpWVV8wuM1A The video intro for the show.]
+* Teasers for the show: [http://youtu.be/v-Enot5nZyg "Superior Intellect"], [http://youtu.be/vmYDs-M53_8 "Walk It Off"], [http://youtu.be/17FTN8qNMqc "A Dream Come True"], [http://youtu.be/6a7QO56rKm0 "No Ego"], [http://youtu.be/h_jpVQn3Lfk "Chia Pet"].
+* [http://youtu.be/c4V0yO1ZXIg A teaser for the Halloween shows.]
