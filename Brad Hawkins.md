@@ -12,12 +12,13 @@ A native of Cedar Rapids, Iowa, Hawkins moved to Austin in 1999. He became inter
 After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[Three Hot Chicks]]. Since then, he has been a member of the troupes [[The Walk-Ons]], [[Franz & Dave]], [[Who Dack]], [[Epic]], [[¡Zarzamora!]], and [[Your Dad's Friends]], and is a founding member of [[Goat]].
 
 ## Troupes
-* [[Three Hot Chicks]]
 * [[Franz & Dave]]
 * [[Goat]]
-* [[¡Zarzamora!]]
-* [[Your Dad's Friends]]
+* [[Three Hot Chicks]]
+* [[The Walk-Ons]]
 * [[Who Dack]]
+* [[Your Dad's Friends]]
+* [[¡Zarzamora!]]
 
 ## Shows
 ### Improvised
