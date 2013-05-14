@@ -11,10 +11,10 @@
 |Run	=	Mar/Apr 2013
 }}
 
-***Strange Worlds*** is a mainstage show at [[The Hideout Theatre]] based on 30s [[Wikipedia - Pulp magazine|pulp adventure]].
+***Strange Worlds*** was a mainstage show at [[The Hideout Theatre]] based on 30s [[Wikipedia - Pulp magazine|pulp adventure]].
 
 ## Summary
-The show is an improvised serial anthology based in the tropes of [[Wikipedia - Pulp magazine|the pulps]] of the 30s and 40s.  The cast developed hero characters in rehearsals, and each performance featured two adventures, each featuring one of those heroes, and an shorter interstitial story ("Strange Times") that followed a reporter and cop as they investigated the blowback from those stories.
+The show was an improvised serial anthology based in the tropes of [[Wikipedia - Pulp magazine|the pulps]] of the 30s and 40s.  The cast developed hero characters in rehearsals, and each performance featured two adventures, each featuring one of those heroes, and an shorter interstitial story ("Strange Times") that followed a reporter and cop as they investigated the blowback from those stories.
 
 The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], and [[Michael Yew]].
 
