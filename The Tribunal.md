@@ -19,7 +19,7 @@ How many must stand together to protect the innocent?
 This show has only been performed twice so far, and the results were… intense. To keep the experience fresh, the cast was entirely new for the second performance.
 
 ## Casts
-### Septempber 28th, 2012
+### September 28th, 2012
 * [[Bob Olmstead]]
 * [[Britney Salyer]] (thug)
 * [[Cat Drago]]
