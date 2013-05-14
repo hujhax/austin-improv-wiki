@@ -57,3 +57,9 @@ th.category-header {
         background-color: #ddf5eb;
         width: 300px;
 }
+
+#mw-panel a {
+text-shadow: none;
+    }
+
+.infobox { text-shadow: none;}
