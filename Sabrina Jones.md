@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Sabrina Jones	
 |Picture =	Sabrina Jones Pic.jpg
-|Theater=	Various
+|Theater=	[[The Institution Theater]]
 |Years	=	2012
 }}
 
