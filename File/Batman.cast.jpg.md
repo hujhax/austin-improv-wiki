@@ -1,7 +1,7 @@
 ## Summary
 The cast of *[[Holy 1960s Batman, Batman!]]*
 
-Photo by: unknown
+Photo by: Niki Jones.
 
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
