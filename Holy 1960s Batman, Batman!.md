@@ -4,7 +4,7 @@ The show sold out all 10 weeks of it's debut run at the Hideout Theatre in Austi
 
 Deano Jones and Kaci Beeler starred as Batman and Robin respectively and were joined by an All-Star cast of Austin's best improvisers to create an entirely new episode at each show, complete with costumes, sound effects , musical scores and a villain created by the audience on the spot.
 
-The debut run was directed by Kaci Beeler
+Directed by Kaci Beeler
 
 Featured: 
 Deano Jones as Batman/Bruce Wayne , Kaci Beeler as Robin/Dick Grayson
