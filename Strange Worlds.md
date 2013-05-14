@@ -40,15 +40,56 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [[The Beacon and the Dancing Skeleton]]
 ** [[Strange Times -  The Pendant]]
 ** [[Bellwether Blue Versus the Shadow Asps]]
-* Episode 3 (3/16/13):
+* Episode 3 (3/23/13):
 ** [[Jack Ryder and the Temples of Neptune]]
 ** [[Strange Times -  The Trident]]
 ** [[The Peregrine and the Web of Youth]]
+* Episode 4 (3/30/13):
+** [[Lily Wilde Versus the Ravenous Cats]]
+** [[Strange Times -  The Tattoo]]
+** [[Codename -  Sleuth and the Case of the Assassin's Sting]]
+* Episode 5 (4/6/13):
+** The Peregrine and the Tempest Equation
+** Strange Times: The Tunnels
+** The Beacon and the Enchanted Mirror
+* Episode 6 (4/13/13):
+** Strange Times: The President
+* Episode 7 (4/20/13):
+** Strange Times: The Supplies
+* Episode 8 (4/27/13):
+** Words Collide, Chapter 1: 
+** Strange Times: The Invasion
+** Words Collide, Chapter 2:
 
 ## Media
-* Episode 1 (3/2/13): [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 photos].
-* Episode 2 (3/9/13): [http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3 photos], [http://vimeo.com/62740963 video (The Beacon)].
-* Episode 3 (3/16/13):  [http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3 photos].
+* Episode 1 (3/2/13):
+** [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/64240670 Maxine Maker and the Scintillating Confabulator!]
+*** [http://vimeo.com/64283087 Strange Times: The Body.]
+*** [http://vimeo.com/64216657 The Grey Bishop in "The Ruby and the Tiger".]
+* Episode 2 (3/9/13):
+** [http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/64279539 The Beacon and the Dancing Skeleton.]
+**** [http://vimeo.com/62740963 (Unedited version of the show.)]
+*** [http://vimeo.com/64307521 Strange Times: The Pendant.]
+*** [http://vimeo.com/64279538 Bellwether Blue Versus the Shadow Asps.]
+* Episode 3 (3/23/13):
+** [http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/64577633 Jack Ryder and the Temples of Neptune.]
+*** [http://vimeo.com/64498551 The Peregrine and the Web of Youth.]
+* Episode 4 (3/30/13):
+** [http://www.smugmug.com/gallery/28941754_bJ4Bsx#!i=2460013495&k=KfRHW5c Photoset] by [[Jon Bolden]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/64577634 Lily Wilde Versus the Ravenous Cats.]
+*** [http://vimeo.com/64478922 Codename: Sleuth and the Case of the Assassin's Sting.]
+* Episode 5 (4/6/13):
+** [http://www.facebook.com/media/set/?set=a.558248124196687.1073741832.100000345135257&type=3 Photoset] by [[Claudio Fox]].
+* Episode 6 (4/13/13):
+** [http://www.facebook.com/media/set/?set=a.524634750933379.1073741856.221927764537414&type=1 Photoset] by [[Steve Rogers]].
 
 ## More Information
+* [http://forum.austinimprov.com/viewtopic.php?f=4&t=4898&p=41024 The 2007 'format manifesto' for an improvised pulp show] by [[Jordan T. Maxwell]].
 * [http://www.hideouttheatre.com/ryan-austin-vs-the-perils-of-pulp "Ryan Austin Vs. The Perils of Pulp"]: a post from [[Ryan Austin]] about the rehearsal process.
