@@ -5,7 +5,7 @@
 |Years	=	2005-Present
 }}
 
-Marc Majcher is an improv performer and director. He has enormous hands.
+**Marc Majcher** ([[Wikipedia - Help - IPA for English#Key|/ˈmeɪtʃər/]]) is an improv performer and director. He has enormous hands.
 
 ## History
 ## Troupes
