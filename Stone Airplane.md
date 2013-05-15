@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Stone Airplane
 |Picture	=	457986 10151011200081351 2110136360 o.jpg
-|Cast	=	{{Unbulleted list|[[Lacy Shawn]] | [[Bryson Rushing]] | [[Colin Bates]] | [[April Sanchez]] | [[Linzy Beltran]] | [[Chad Wellington]]|[[Caeriel Crestin]]}}
+|Cast	=	{{Unbulleted list | [[April Sanchez]] | [[Bryson Rushing]] | [[Caeriel Crestin]] | [[Chad Wellington]] | [[Colin Bates]] | [[Lacy Shawn]] | [[Linzy Beltran]] }}
 |Director =	{{Unbulleted list|[[Aden Kirschner]] |[[Quinn Buckner]]}}
 |Years	=		2012
 }}
