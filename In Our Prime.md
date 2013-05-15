@@ -14,7 +14,7 @@ The troupe was briefly named *It'll Come to Us* until the name *In Our Prime* wa
 
 Ryan was a teaching assistant for Hideout Theatre co-owner [[Jessica Arjet]] at the time. When he told her about the troupe she asked if she could play with them. The four rehearsed together once. Ten minutes after a very successful second show with Jessica guesting, the troupe asked her to join permanently.
 
-The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii Improv Festival, [[WaffleFest]], and [[The Out of Bounds Comedy Festival]]. They have a regular monthly slot in [[The Free Fringe]] at [[The Hideout Theatre]] and have also performed a month-long [[Threefer]] run there. The troupe's Free Fringe shows tend to be more humorous and less grounded.
+The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii Improv Festival, [[WaffleFest]], and [[The Out of Bounds Comedy Festival]]. They have a regular monthly slot in *[[The Free Fringe]]* at [[The Hideout Theatre]] and have also performed a month-long [[Threefer]] run there. The troupe's *[[Free Fringe]]* shows tend to be more humorous and less grounded.
 
 They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]].
 
