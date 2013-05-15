@@ -8,7 +8,7 @@
 **The Awkwards** are an improv troupe.
 
 ## Media
-* A photoset of their 5/9/13 premiere, by [[Warren Henderson]].
+* A photoset of their 5/9/13 premiere in *[[The Threefer]]*, by [[Warren Henderson]].
 
 [[Category/Troupes|Awkwards]]
 [[Category/Active|Category:Active]]
