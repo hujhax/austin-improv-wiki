@@ -12,6 +12,7 @@ He's also taken classes at [[The Institution Theater]] as well as the UCB Theatr
 He is a regular cast member of the Flying Theater Machine.
 
 ## Troupes
+* [[Stone Airplane]]
 * [[Wait OK Now]]
 
 ## Shows
