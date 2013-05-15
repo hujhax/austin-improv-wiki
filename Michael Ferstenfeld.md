@@ -5,10 +5,10 @@
 |Years	=	2001-Present
 }}
 
-Michael Ferstenfeld is a freelance improv performer, director, and producer.  He's also the co-founder and artistic director of scripted theatre troupe, [http://dystheatre.com Dystheatre], co-creator of [http://wiki.exquisitezombies.com The Exquisite Zombies], an [http://www.ferstenfeld.com/zombies/mediawiki/index.php5?title=E-learning online course developer], and a TA at [[Merlin Works]].  He taught an elective at [[The Hideout Theatre]] with [[Chris Allen]] called "Once More . . . with Confidence" and will be teaching an ACTING/IMPROV [http://www.theinstitutiontheater.com/workshops/41 workshop] at [[Institution Theater]] at the end of April!
+**Michael Ferstenfeld** is a freelance improv performer, director, and producer.
 
-## History
-Comin' soon.
+## Summary
+Michael is the co-founder and artistic director of scripted theatre troupe, [http://dystheatre.com Dystheatre], co-creator of [http://wiki.exquisitezombies.com The Exquisite Zombies], an [http://www.ferstenfeld.com/zombies/mediawiki/index.php5?title=E-learning online course developer], and a TA at [[Merlin Works]].  He taught an elective at [[The Hideout Theatre]] with [[Chris Allen]] called "Once More... with Confidence" and is teaching an acting/improv [http://www.theinstitutiontheater.com/workshops/41 workshop] at [[Institution Theater]] this month.
 
 ## Troupes
 * [[Ed32]]
@@ -27,6 +27,5 @@ Comin' soon.
 * *[[This Week Tonight]]*
 * *[[The Professor]]*
 * *[[This American LIVE!]]*
-
 
 [[Category/Performers|Ferstenfeld]]
