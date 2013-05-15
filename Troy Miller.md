@@ -15,6 +15,7 @@ He was a core cast member in both [[The 40-Hour Improv Marathon]] and [[The 42-H
 ## Troupes
 * [[Brain Trust]]
 * [[Confidence Men]]
+* [[Danger! Warning! Improv!]]
 * [[Foolish Mortals]]
 * [[Junk]]
 * [[We Could Be Heroes]]
