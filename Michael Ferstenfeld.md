@@ -20,12 +20,10 @@ Michael is the co-founder and artistic director of scripted theatre troupe, [htt
 * [[Happiness is a Choice]]
 * [[The Polite Society]]
 * [[The Professor]]
-* [[This American LIVE!]]
 
 ## Shows
 * *[[Gorilla Theatre]]*
 * *[[This Week Tonight]]*
-* *[[The Professor]]*
 * *[[This American LIVE!]]*
 
 [[Category/Performers|Ferstenfeld]]
