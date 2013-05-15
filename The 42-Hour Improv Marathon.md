@@ -72,7 +72,7 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 *** Scene #3,  [[Jordan T. Maxwell]] and [[Peter Rogers]], [http://vimeo.com/24967846 "Turtles"] 
 *** Scene #4, [[Karen Jane DeWitt]] and [[Lisa Jackson]], [http://vimeo.com/24967941 "God"] 
 *** Scene #5, [[Andy Crouch]] and [[Christopher Allen]], [http://vimeo.com/24968081 "Wigs"] 
-*** Scene #6, [[Tim Redmond]] and [[Troy Miller]], [http://vimeo.com/24968289 "Waiting"] 
+*** Scene #6, [http://theimprobox.com/tim-redmond/ Tim Redmond] and [[Troy Miller]], [http://vimeo.com/24968289 "Waiting"] 
 *** Scene #7, [[Jeff Britt]] and [[Lisa Jackson]], [http://vimeo.com/24968387 "Intermission"] 
 *** Scene #8, [[Jason Vines]] and [[Mike Ferstenfeld]], [http://vimeo.com/24969210 "Dreams"] 
 *** Scene #9, [[Andy Crouch]] and [[Asaf Ronen]], [http://vimeo.com/24968732 "Seventh Billing"] 
@@ -80,7 +80,7 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 *** Scene #11, [[Christopher Allen]] and [[Peter Rogers]], [http://vimeo.com/24968915 "High-Wire Act"] 
 *** Scene #12, [[Jeff Britt]] and [[Jason Vines]], [http://vimeo.com/24968983 "Integrity"] 
 *** Scene #13, [[Asaf Ronen]] and [[Lisa Jackson]], [http://vimeo.com/24969077 "Hank Charlie"] 
-*** Scene #14, [[Mike Ferstenfeld]], [[Troy Miller]], & [[Tim Redmond]], [http://vimeo.com/24969097 "Tourists"] 
+*** Scene #14, [[Mike Ferstenfeld]], [[Troy Miller]], & [http://theimprobox.com/tim-redmond/ Tim Redmond], [http://vimeo.com/24969097 "Tourists"] 
 ** [http://vimeo.com/25373290 Video of hour 41] with [[Improvised Shakespeare]]
 ** [http://vimeo.com/24979661 Video of hour 42]
 
