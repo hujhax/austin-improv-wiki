@@ -2,28 +2,31 @@
 |Name	=	Troy Miller	
 |Picture =	Troy Miller Pic.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	2000-Present
+|Years	=	2001-Present
 }}
 
 **Troy Miller** is an improv performer, director, and teacher.
 
 ## History
-Troy was a core cast member in both [[The 40-Hour Improv Marathon]] and [[The 42-Hour Improv Marathon]].
+Troy started taking improv classes at [[The Hideout Theatre]] in September 2001, and started performing in *[[Maestro]]* there in early 2002.
+
+He was a core cast member in both [[The 40-Hour Improv Marathon]] and [[The 42-Hour Improv Marathon]].
 
 ## Troupes
 * [[Brain Trust]]
 * [[Confidence Men]]
+* [[Foolish Mortals]]
 * [[Junk]]
 * [[We Could Be Heroes]]
 
 ## Shows
-* *[[Cops & Lawyers]]* (director)
+* *[[Cops & Lawyers]]* (co-director)
 * *[[Fakespeare]]* (Conrade / Duncan)
-* *[[Hitchcocked]]*
+* *[[Hitchcocked]]* (co-director)
 * *[[Manhattan Stories]]*
-* *[[The Sci-Fi Comedy Double Feature]]* (director)
-* *[[Start Trekkin']]* (director)
-* *[[Twilight Zoned]]* (director)
+* *[[The Sci-Fi Comedy Double Feature]]* (co-director)
+* *[[Start Trekkin']]* (co-director)
+* *[[Twilight Zoned]]* (co-director)
 * *[[The Violet Underbelly]]*
 
 [[Category/Performers|Miller]]
