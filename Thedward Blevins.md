@@ -4,7 +4,8 @@
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2010-Present
 }}
-**Thedward Blevins** is an improv performer.
+**Thedward Blevins** has studied improv at [[The Hideout Theatre]], [[The Merlin Works Institute for Improvisation]] and [[The Institution Theater]].
+He has been performing regularly since 2010 and is a regular cast member of [[Flying Theater Machine]].
 
 
 ## Shows
