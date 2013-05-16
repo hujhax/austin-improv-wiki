@@ -5,10 +5,10 @@
 |Years	=	2005-Present
 }}
 
-**Roy Janik** ([[Wikipedia - Help - IPA for English#Key|/ˈjɑːnɪk/]]; AKA **Roy Danger**) is an improviser, as well as co-owner and Artistic Director of [[The Hideout Theatre]].
+**Roy Janik** ([[Wikipedia - Help - IPA for English#Key|/ˈjɑːnɪk/]]; AKA **Roy Danger**) is an improv performer, teacher, and director.
 
-## History
-# Performer
+Roy is a co-owner of [[The Hideout Theatre]] and its Artistic Director.
+
 ## Troupes
 * [[Parallelogramophonograph]]
 * [[Squirrel Buddies]]
