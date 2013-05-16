@@ -8,18 +8,22 @@
 |Subsequent Runs = April 12th 2013
 }}
 
-***The Tribunal*** is a scenario about the mechanics of oppression.
+***The Tribunal*** is an improv show about the mechanics of oppression.
 
-Inspired by Orwell, Krylov, Buchner, Linna, and the prisoner’s dilemma.
+## Summary
+The show is a presentation of the LARP of the same name by J. Tuomas Harviainen.
 
-Twelve soldiers living under a totalitarian regime debate which of their comrades will be executed for the crime of stealing bread.
+The scenario is inspired by the works of Orwell, Krylov, Buchner, and Linna.
 
-How many must stand together to protect the innocent?
+In it, twelve soldiers living under a totalitarian regime debate which of their comrades will be executed for the crime of stealing bread.  The scenario raises intense questions, such as whether soldiers are willing to stand together to protect the innocent, or if they will break off from the group and focus on their own safety.  These game mechanics share a lot in common with the [[Wikipedia - Prisoner's dilemma|Prisoner's Dilemma]].
 
-This show has only been performed twice so far, and the results were… intense. To keep the experience fresh, the cast was entirely new for the second performance.
+## History
+This show has been performed twice.  The premiere was on 9/28/12, and the second show was on 4/12/13.  To keep the experience fresh, the second performance used an almost entirely different cast from the first.
+
+The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The Hideout Theatre]].
 
 ## Casts
-### September 28th, 2012
+### Show #1
 * [[Bob Olmstead]]
 * [[Britney Salyer]] (thug)
 * [[Cat Drago]]
@@ -34,7 +38,7 @@ This show has only been performed twice so far, and the results were… intense.
 * [[Thedward Blevins]]
 * [[Valerie Ward]]
 
-### April 12th, 2013
+### Show #2
 * [[Ashley Jayne Carlisle]]
 * [[Brett Tribe]]
 * [[Bridget Brewer]]
@@ -48,3 +52,7 @@ This show has only been performed twice so far, and the results were… intense.
 * [[Mike Nystul]]
 * [[Nicole Oliver]]
 * [[Ryan Hill]]
+
+
+## More Information
+* [http://www.larpwriter.org/2010/11/and-winner-is.html An announcement of the original LARP winning the 2010 "Larpwriter Challenge".]
