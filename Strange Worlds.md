@@ -94,7 +94,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 * Episode 5 (4/6/13):
 ** [http://www.facebook.com/media/set/?set=a.558248124196687.1073741832.100000345135257&type=3 Photoset] by [[Claudio Fox]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/65959433 The Beacon and the Dancing Skeleton.]
+*** [http://vimeo.com/65959433 The Beacon and the Enchanted Mirror.]
 *** [http://vimeo.com/66134872 Strange Times: The Tunnels.]
 *** [http://vimeo.com/65423075 The Peregrine and the Tempest Equation.]
 * Episode 6 (4/13/13):
