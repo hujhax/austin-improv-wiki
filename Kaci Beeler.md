@@ -65,4 +65,4 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 * *[[Who Is T. Henry Baudecliffe]]* (Performed and Directed)
 
 [[Category/Performers|Beeler]]
-[[Cateogry - Directors|Beeler]]
+[[Category/Directors|Beeler]]
