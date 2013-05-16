@@ -27,6 +27,7 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 * 2/9/13: *Star Wars*
 * 2/16/13: *Harry Potter* (6pm & 8pm)
 * 2/23/13: *Firefly* (determined by online audience vote)
+* 3/7/13: "Fandom Fringe" night (*Ghostbusters*, *Sherlock*, and *South Park*)
 
 ## Media
 * [http://vimeo.com/57198694 Video of the 1/5/13 show (*Buffy the Vampire Slayer*).]
