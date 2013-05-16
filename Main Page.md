@@ -1,3 +1,5 @@
+![[AIC 2011 Potluck Group Photo.jpg|The group photo from the 2011 [[Austin Improv Potluck]].]]
+
 **The Austin Improv Wiki** is a wiki devoted to the Austin Improv community.  It's here to accumulate information about the theaters, people, troupes, performances, events, and history associated with the Austin improv scene.
 
 ## Theaters
