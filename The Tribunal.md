@@ -53,6 +53,8 @@ The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The 
 * [[Nicole Oliver]]
 * [[Ryan Hill]]
 
+## Media
+* [http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3 Photoset of the premiere] by [[Roy Moore]].
 
 ## More Information
 * [http://www.larpwriter.org/2010/11/and-winner-is.html An announcement of the original LARP winning the 2010 "Larpwriter Challenge".]
