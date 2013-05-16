@@ -83,16 +83,40 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3 Photoset] by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
 *** [http://vimeo.com/64577633 Jack Ryder and the Temples of Neptune.]
+*** [http://vimeo.com/65341953 Strange Times: The Trident.]
 *** [http://vimeo.com/64498551 The Peregrine and the Web of Youth.]
 * Episode 4 (3/30/13):
 ** [http://www.smugmug.com/gallery/28941754_bJ4Bsx#!i=2460013495&k=KfRHW5c Photoset] by [[Jon Bolden]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
 *** [http://vimeo.com/64577634 Lily Wilde Versus the Ravenous Cats.]
+*** [http://vimeo.com/66177022 Strange Times: The Tattoo.]
 *** [http://vimeo.com/64478922 Codename: Sleuth and the Case of the Assassin's Sting.]
 * Episode 5 (4/6/13):
 ** [http://www.facebook.com/media/set/?set=a.558248124196687.1073741832.100000345135257&type=3 Photoset] by [[Claudio Fox]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/65959433 The Beacon and the Dancing Skeleton.]
+*** [http://vimeo.com/66134872 Strange Times: The Tunnels.]
+*** [http://vimeo.com/65423075 The Peregrine and the Tempest Equation.]
 * Episode 6 (4/13/13):
 ** [http://www.facebook.com/media/set/?set=a.524634750933379.1073741856.221927764537414&type=1 Photoset] by [[Steve Rogers]].
+*** [http://vimeo.com/66225436 Codename: Sleuth and the Case of the Fractured Wing.]
+*** [http://vimeo.com/66271683 Strange Times: The President.]
+*** [http://vimeo.com/66259424 Maxine Maker and the Sumptuous Nanoreciprocator!]
+* Episode 7 (4/20/13):
+** [http://www.facebook.com/media/set/?set=a.528599867203534.1073741860.221927764537414&type=3 Photoset] by [[Steve Rogers]]
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/66226023 Lily Wilde and the Orchid of Death.]
+*** [http://vimeo.com/66177068 Strange Times: The Supplies.]
+*** [http://vimeo.com/66271684 The Grey Bishop in "The Queen's Gambit".]
+* Episode 8 (4/27/13):
+** [http://www.facebook.com/media/set/?set=a.10151361640900793.1073741841.666390792&type=3 Photoset] by [[Dave Alley]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
+*** [http://vimeo.com/66294097 Worlds Collide, Chapter 1: The Twilight of Neptune.]
+*** [http://vimeo.com/66134873 Strange Times: The Invasion.]
+*** [http://vimeo.com/66306441 Worlds Collide, Chapter 2: The Tomb of Heartbreak.]
+* "Shaken Not Stirred" Party (5/1/13):
+** [http://vimeo.com/66324632 Video of Codename: Sleuth and the Case of the Diamonds in the Rough.]
+* [http://www.facebook.com/media/set/?set=a.4671818636191.1073741831.1315383518&type=3 Photoset] of the cast party by [[Michael Yew]].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=4&t=4898&p=41024 The 2007 'format manifesto' for an improvised pulp show] by [[Jordan T. Maxwell]].
