@@ -1,5 +1,6 @@
 {{Infobox Performer
 | Name	  = Valerie Ward	
+| Picture = Valerie Ward.jpg
 | Theater = [[The Hideout Theatre]]
 | Years = 2001-Present
 }}
