@@ -12,6 +12,6 @@
 * [[Well Hung Jury]] 
 
 ### Out-of-Town Acts
-* Fredian Slip (College Station)
+* Freudian Slip (College Station)
 * Pavlov's Dogs (Dallas)
 * Sunshine Express (Kentucky)
