@@ -2,18 +2,26 @@
 |Name	=	Jayme Ramsay	
 |Picture = Jayme_Ramsay.jpg
 |Theater=	[[The Hideout Theatre]]
+|Years= 2011-Present
 }}
  
-**Jayme Ramsay** has studied improv at [[The Hideout Theatre]], [[ColdTowne Theater]] and [[The Institution Theater]].
+**Jayme Ramsay** is an improv performer.
 
-## Troupes
+## History
+Jayme first started taking improv classes at [[The Hideout Theatre]] in early 2011.
+
+Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Theater]].
+
 ## Shows
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
-* *[[The Cherry Bowl]]*
-* *[[Live TV Tuesdays -  Buffy]]*
-* *[[Steam, Rose-Colored Goggles, and the Flight of the Victoriana]]*
-* *[[Strange Worlds]]*
+* *[[The Cherry Bowl]]* (Anya)
+* *[[Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
+* *[[Steam]]* (Crank)
+* *[[Strange Worlds]]* (Bellwether Blue)
 * *[[The Tribunal]]*
+
+## More Information
+* [http://forum.austinimprov.com/viewtopic.php?t=11956 Jayme's introduction thread] on [[The AIC Forums]].
 
 [[Category/Performers|Ramsay]]
