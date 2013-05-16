@@ -38,6 +38,7 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 * *[[After-School Improv]]* (Performed and Directed)
 * *[[The Andersons]]*
 * *[[Austin Secrets]]*
+* *[[Blood, Sweat, and Cheers]]*
 * *[[The Cagematch]]*
 * *[[Charles Dickens Unleashed]]* (Performed and Directed)
 * *[[The Derby]]*
@@ -49,7 +50,7 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 * *[[Hitchcocked!]]*
 * *[[Holy 1960s Batman, Batman!]]* (Performed and Directed)
 * *[[Improvised Shakespeare]]*
-* *[[Ka-Baam!]]*
+* *[[Ka-Baam!!]]*
 * *[[Manhattan Stories]]*
 * *[[Maestro]]* (2005-)
 * *[[The Nightmare Video Project]]* (2010-2012)
