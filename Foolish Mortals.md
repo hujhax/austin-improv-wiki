@@ -10,7 +10,7 @@
 ## History
 The troupe formed with a large number of improvisors, but quickly reduced down to a core cast of [[Andrea Young]], [[Andy Perreira]], [[Chris 'Ceej' Allen]], [[Ed Piston]], [[Jill Morris]], [[Ted Rutherford]], and [[Troy Miller]].
 
-[[Ed Piston]] quit the troupe shortly before [[Jill Morris]] and [[Andy Perreira]] both moved away from Austin.  After that, the troupe dissolved, with the remaining members regrouping in [[Junk]] that same year.
+[[Ed Piston]] quit the troupe shortly before [[Jill Morris]] and [[Andy Perreira]] both moved away from Austin.  After that, the troupe dissolved, with several of the remaining members regrouping in [[Junk]] that same year.
 
 ### Former Members
 * [[Kevin Miller]] (2003-2004)
