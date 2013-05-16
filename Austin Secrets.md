@@ -68,6 +68,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Alex Dobrenko]]
 * [[Chuy Zarate]]
 * [[Courtney Hopkin]]
+* [[Jayme Ramsay]]
 * [[Jon Bolden]]
 * [[Kaci Beeler]]
 * [[Kareem Badr]]
