@@ -33,7 +33,7 @@ The schedule is as follows:
 *** [[Courtney Hopkin]]
 *** [[Lauren Buck]]
 * May 18th
-** Exhibition match: *[[Fandom]]* presents: *Star Wars* versus *The Lord of the Rings*.
+** Exhibition match: *[[Fandom]]* presents: *Star Wars* ([[Peter Rogers]], [[Marc Majcher]], and [[Jordan T. Maxwell]]) versus *The Lord of the Rings* ([[Quinn Buckner]], [[Mia Iseman]], and [[Bridget Brewer]]).
 ** Guests:
 *** ???
 *** ???
