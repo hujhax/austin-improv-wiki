@@ -18,3 +18,5 @@ The troupe formed with a large number of improvisors, but quickly reduced down t
 
 ## More Information
 * [http://foolishmortals.austinimprov.com/ The troupe's web site.]
+
+[[Category/Troupes|Category:Troupes]]
