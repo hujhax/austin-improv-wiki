@@ -55,7 +55,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 * Episode 6 (4/13/13):
 ** [[Codename -  Sleuth and the Case of the Fractured Wing]]
 ** [[Strange Times -  The President]]
-** [[Maxine Maker and the Sumptuous Nanoreciprocator]]
+** [[Maxine Maker and the Sumptuous Nanoreciprocator!]]
 * Episode 7 (4/20/13):
 ** [[The Grey Bishop -  The Queen's Gambit]]
 ** [[Strange Times -  The Supplies]]
