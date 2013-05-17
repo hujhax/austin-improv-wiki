@@ -26,6 +26,7 @@ The show was included in *[[The Hideout Improv Marathon]]* several times before 
 Unfortunately, the video production required for *The Nightmare Video Project* became untenable, and [[Roy Janik]] retired the format in January of 2012.
 
 ## Media
+* [http://youtu.be/_CoDebTOMu4 Promo Video.]
 * 5/20/11: [http://vimeo.com/24094909 Video.]
 * 6/7/11: [http://vimeo.com/25373377 Video.]
 * 7/29/11: [http://vimeo.com/27131686 Video.]
