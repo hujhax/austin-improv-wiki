@@ -2,6 +2,7 @@
 
 {{Infobox Performer
 |Name	=	Alex Baia	
+|Picture = Alex Baia.jpg
 |Theater=	[[ColdTowne Theater]]
 }}
 
@@ -11,7 +12,10 @@
 * [[Oh, Science!]]
 
 ## Shows
+* *[[The Fancy-Pants Mashup]]*
+* *[[The JTS Brown Experience]]*
 * *[[Lord Wensleydale’s Last High Tea]]*
+* *[[Pick Your Own Path]]*
 * *[[Sci-Fi Saturdays]]*
 
 [[Category/Performers|Baia]]
