@@ -15,7 +15,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |1/1/07||1/31/07||[[Available Cupholders]]||[[Jeremy Sweetlamb]]
 |-
-|2/1/07||3/31/07||*[[Six Degrees]]*||[[Andy Crouch]] |[[Sean Hill]]
+|2/1/07||3/31/07||*[[Six Degrees]]*||[[Andy Crouch]], [[Sean Hill]]
 |-
 |4/14/07||6/30/07||*[[Theatresports]]*||[[Dav Wallace]], [[Sean Hill]]
 |-
