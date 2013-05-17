@@ -81,6 +81,8 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 ** With [[False Matters]], [[Holy 1960s Batman, Batman!]], [[The Plagiarists]], and [[The Violet Underbelly]]
 * [[The 2011 Out of Bounds Comedy Festival]]
 ** With [[The Asides]] and [[Improv for Evil]]
+* Improvaganza Improv Festival 2011 (Honolulu)
+** With [[MmmmK]]
 * [[The 2012 Improvised Play Festival]]
 ** With [[After School Improv]], [[The Escorts]], [[Process]], [[Spirited]], and [[Steam]]
 * [[The 43-Hour Improv Marathon]]
@@ -88,6 +90,8 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 ** With [[The Escorts]], [[False Matters]], [[Improv for Evil]], [[Manhattan Stories]], [[Process]], and [[Spirited]]
 * [[The 2013 Improvised Play Festival]]
 ** With [[The Black Vault]], [[The Escorts]], [[False Matters]], [[Live Nude Improv]], [[Strange Worlds]], and [[The Tribunal]]
+
+
 
 [[Category/Performers|Majcher]]
 [[Category/Directors|Majcher]]
