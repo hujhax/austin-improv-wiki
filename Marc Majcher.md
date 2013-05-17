@@ -72,27 +72,27 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * [[WaffleFest]]
 ** With [[Improv for Evil]]
 * [[The 2008 Out of Bounds Comedy Festival]]
-** With [[Improv for Evil]] and [[Ka-Baam!!]]
+** With [[Improv for Evil]] and *[[Ka-Baam!!]]*
 * [[The 2009 Out of Bounds Comedy Festival]]
 ** With [[Improv for Evil]]
 * [[The 41-Hour Improv Marathon]]
 * [[The 2010 Out of Bounds Comedy Festival]]
-** With [[Austin Secrets]] and [[Improv for Evil]]
+** With *[[Austin Secrets]]* and [[Improv for Evil]]
 * [[The 2011 Improvised Play Festival]]
-** With [[False Matters]], [[Holy 1960s Batman, Batman!]], [[The Plagiarists]], and [[The Violet Underbelly]]
+** With *[[False Matters]]*, *[[Holy 1960s Batman, Batman!]]*, [[The Plagiarists]], and *[[The Violet Underbelly]]*
 * [[The 2011 Out of Bounds Comedy Festival]]
 ** With [[The Asides]] and [[Improv for Evil]]
 * Improvaganza Improv Festival 2011 (Honolulu)
 ** With [[MmmmK]]
 * [[The 2012 Improvised Play Festival]]
-** With [[After School Improv]], [[The Escorts]], [[Process]], [[Spirited]], and [[Steam]]
+** With *[[After School Improv]]*, [[The Escorts]], *[[Process]]*, *[[Spirited]]*, and *[[Steam]]*
 * [[The 43-Hour Improv Marathon]]
 * The Del Close Marathon 2012 (New York)
 ** With [[The Escorts]]
 * [[The 2012 Out of Bounds Comedy Festival]]
-** With [[The Escorts]], [[False Matters]], [[Improv for Evil]], [[Manhattan Stories]], [[Process]], and [[Spirited]]
+** With [[The Escorts]], *[[False Matters]]*, [[Improv for Evil]], *[[Manhattan Stories]]*, *[[Process]]*, and *[[Spirited]]*
 * [[The 2013 Improvised Play Festival]]
-** With [[The Black Vault]], [[The Escorts]], [[False Matters]], [[Live Nude Improv]], [[Strange Worlds]], and [[The Tribunal]]
+** With *[[The Black Vault]]*, [[The Escorts]], *[[False Matters]]*, *[[Live Nude Improv]]*, *[[Strange Worlds]]*, and *[[The Tribunal]]*
 
 
 
