@@ -18,5 +18,17 @@ He has appeared in several television shows, a few movies and nearly a hundred c
 
 He's a really nice guy. You should meet him.
 
+## Troupes
+* [[Baxter and Bernard]]
+* [[Confidence Men]]
+
+## Shows
+* *[[Bad Girls in Laid Skirts]]* (director)
+* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (director)
+* *[[Live TV Tuesdays -  John Hughes Summer School]]* (director)
+* *[[Live TV Tuesdays -  My So-Called Life]]* (director)
+* *[[Live TV Tuesdays -  Saved by the Bell]]* (director)
+* *[[Pulp Friction]]* (director)
+
 [[Category/Performers|Booker]]
 [[Category/Directors|Booker]]
