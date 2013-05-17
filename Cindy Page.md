@@ -2,7 +2,8 @@
 {{Pseudonym}}
 
 {{Infobox Performer
-|Name	=	Cindy Page	
+|Name	=	Cindy Page
+|Picture = Cindy Page Pic.jpg	
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2010-Present
 }}
