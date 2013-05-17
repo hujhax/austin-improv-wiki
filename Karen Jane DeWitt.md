@@ -16,6 +16,7 @@ Karen Jane first started doing improv in September 2009.
 She was a core cast member in [[The 42-Hour Improv Marathon]].
 
 ## Troupes
+* [[Girls Girls Girls]]
 * [[Happy Butter]]
 * [[Local Genius Society]]
 * [[The Professor]]
