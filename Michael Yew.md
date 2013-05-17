@@ -11,7 +11,7 @@ Michael is also a technical improvisor for mainstage shows such as *[[Strange Wo
 * *[[Manhattan Stories]]* *(tech)*
 * *[[Process]]* *(tech)*
 * *[[Strange Worlds]]* *(tech)*
-* *[[Violet Underbelly]]* *(tech)*
+* *[[The Violet Underbelly]]* *(tech)*
 
 [[Category/Photographers|Yew]]
 [[Category/Techs|Yew]]
