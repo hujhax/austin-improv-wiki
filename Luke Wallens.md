@@ -15,6 +15,7 @@ He is a regular cast member of the *[[Flying Theater Machine]]*.
 ## Shows
 * *[[Flying Theater Machine]]*
 * *[[The Good Life]]*
+* *[[Key Party]]*
 * *[[The Next Chapter]]*
 * *[[Taxi Cab Impressions]]*
 
