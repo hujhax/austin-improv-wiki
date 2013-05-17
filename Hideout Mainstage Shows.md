@@ -35,7 +35,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |9/1/08||11/18/08||*[[Start Trekkin']]*||[[Troy Miller]]
 |-
-|11/1/08||12/1/08||*[[Cochese]]*||[[Improv for Evil]]
+|11/1/08||12/1/08||*[[Cochise]]*||[[Improv for Evil]]
 |-
 |1/1/09||2/28/09||*[[After School Improv]]*||[[Kaci Beeler]]
 |-
