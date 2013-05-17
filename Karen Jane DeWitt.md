@@ -23,6 +23,7 @@ She was a core cast member in [[The 42-Hour Improv Marathon]].
 
 ## Shows
 * *[[Austin Secrets]]*
+* *[[Blood, Sweat, and Cheers]]*
 * *[[Live TV Tuesdays -  Party of Five]]* (Claudia)
 
 ## More Information
