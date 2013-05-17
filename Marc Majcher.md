@@ -19,7 +19,7 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 ## Shows
 * [[The 41-Hour Improv Marathon]]
 * [[The 43-Hour Improv Marathon]]
-* *[[After-School Improv]]*
+* *[[After School Improv]]*
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]* (Performed and Directed)
 * *[[Blink]]* (Coached)
