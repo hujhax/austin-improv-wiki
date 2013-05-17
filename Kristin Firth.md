@@ -2,6 +2,7 @@
 |Name	=	Kristin Firth
 |Picture =	Kristin firth.jpg
 |Theater=	[[The Hideout Theatre]]
+|Years= 2003-2012
 }}
 
 **Kristin Firth** is a Canadian improv performer who lived and performed regularly in Austin before moving to Philadelphia, Pennsylvania.
