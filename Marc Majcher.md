@@ -23,6 +23,7 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]* (Performed and Directed)
 * *[[Blink]]* (Coached)
+* *[[Blue Maestro]]*
 * *[[The Cagematch]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Cochise]]* (Performed and Directed)
@@ -42,6 +43,7 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[Lola]]*
 * *[[Louder Than Words]]*
 * *[[Maestro]]* (2000-)
+** *[[Maestro|Maestro RAW]]* (Directed)
 * *[[Magna Veritas]]*
 * *[[Manhattan Stories]]*
 * *[[The Nightmare Video Project]]* ("Directed"/Produced videos 2010-2012)
