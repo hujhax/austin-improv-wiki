@@ -1,9 +1,9 @@
 {{Infobox Performer
 |Name	 = John Ratliff
+|Picture = John Ratliff Pic.jpg
 |Theater = [[ColdTowne Theatre]]
 }}
 
-{{Stub}}
 
 **John Ratliff** is a performer and teacher of improv.
 
@@ -11,13 +11,13 @@
 * [[Dirvish]]
 * [[The Glamping Trip]]
 * [[The Randy Meisner]]
-* [[Rise & Shine]]
+* [[You're Not My Real Dad]]
 
 ## Shows
 * *[[The 43-Hour Improv Marathon]]*
 * *[[Austin Secrets]]*
 * *[[Braised in Texas]]*
-* *[[Crack!]]*
+* *[[Process]]*
 
 
 [[Category/Performers|Ratliff]]
