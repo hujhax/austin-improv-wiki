@@ -1,1 +1,1 @@
-#REDIRECT [[TheatreSports (mainstage run)]]
+#REDIRECT [[Theatresports]]
