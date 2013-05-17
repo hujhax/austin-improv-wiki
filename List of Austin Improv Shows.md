@@ -72,7 +72,7 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 * *[[The Free Fringe]]*
 
 ### Mainstage Productions
-The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, each show has had a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.
+The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, each show has had a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.  For more information see the [[List of Hideout Mainstage Shows in Chronological Order]].
 
 * *[[The Great Mundane]]*
 * *[[Cops and Lawyers]]*
