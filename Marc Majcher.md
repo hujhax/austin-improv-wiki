@@ -87,6 +87,8 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * [[The 2012 Improvised Play Festival]]
 ** With [[After School Improv]], [[The Escorts]], [[Process]], [[Spirited]], and [[Steam]]
 * [[The 43-Hour Improv Marathon]]
+* The Del Close Marathon 2012 (New York)
+** With [[The Escorts]]
 * [[The 2012 Out of Bounds Comedy Festival]]
 ** With [[The Escorts]], [[False Matters]], [[Improv for Evil]], [[Manhattan Stories]], [[Process]], and [[Spirited]]
 * [[The 2013 Improvised Play Festival]]
