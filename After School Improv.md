@@ -10,5 +10,3 @@
 
 
 **After School Improv** was an improv show produced by [[The Hideout Theatre]] inspired by after school specials.
-
-[[Category/Shows|Category:Shows]]
