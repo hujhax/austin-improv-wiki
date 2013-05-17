@@ -17,6 +17,7 @@ Kyle was a company member with [[Gnap! Theater Projects]].
 * [[Gigglepants]]
 * [[Quayle]]
 * [[RhinoDino]]
+* [[Senshi Sokkyo]]
 
 ## Shows
 * *[[Dusk]]*
