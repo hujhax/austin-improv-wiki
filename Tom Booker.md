@@ -23,7 +23,7 @@ He's a really nice guy. You should meet him.
 * [[Confidence Men]]
 
 ## Shows
-* *[[Bad Girls in Laid Skirts]]* (director)
+* *[[Bad Girls in Plaid Skirts]]* (director)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (director)
 * *[[Live TV Tuesdays -  John Hughes Summer School]]* (director)
 * *[[Live TV Tuesdays -  My So-Called Life]]* (director)
