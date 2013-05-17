@@ -18,6 +18,7 @@ Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
 
 ## Shows
 * *[[A Bedtime Gorey]]* (director) (*forthcoming*)
+* *[[After School Improv]]*
 * *[[The Andersons]]*
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
