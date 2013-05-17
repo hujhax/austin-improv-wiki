@@ -8,4 +8,4 @@
 *'Cindy Page* is a technical improviser and and improv performer.
 
 [[Category/Performers|Page]]
-[[Category/Tech|Page]]
+[[Category/Techs|Page]]
