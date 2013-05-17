@@ -1,5 +1,5 @@
 ## Summary
-A [[What's the Story, Steve]] performance from 4/15/12.
+A [[What's the Story, Steve]] performance from April 2012.
 
 In foreground: Steve.
 
