@@ -4,7 +4,7 @@
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Audrey Rachel Sansom]]
 |Producer =     [[Gnap! Theater Projects]]	
-|Cast	=	{{Unbulleted list|[[Audrey Rachel Sansom]] | [[Julie Gillis]] | [[Emily Breedlove]] | [[Elizabeth Brammer]] | [[Gricelda Silva]] | [[Aaron Walther]] | [[Brady James]] | [[Marc Majcher]] | [[Jeff Mills]] | [[Kevin Miller]] | [[Howard Katz]] | [[Joel Osborne]] | [[Jayme Ramsay]] | [[Leng Wong]]}}
+|Cast	=	{{Unbulleted list | [[Aaron Walther]] | [[Audrey Rachel Sansom]] | [[Brady James]] | [[Elizabeth Brammer]] | [[Emily Breedlove]] | [[Gricelda Silva]] | [[Howard Katz]] | [[Jayme Ramsay]] | [[Jeff Mills]] | [[Joel Osborne]] | [[Julie Gillis]] | [[Kevin Miller]] | [[Leng Wong]] | [[Marc Majcher]] }}
 |Run	=	Jan/Feb 2012
 }}
 
