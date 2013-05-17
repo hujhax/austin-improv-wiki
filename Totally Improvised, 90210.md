@@ -6,7 +6,7 @@
 |Proudcer =     [[Gnap! Theater Projects]]
 |Assistant Director = [[Peter Rogers]]
 |Cast = {{Unbulleted list | [[Amy Averett]] | [[Bryan Cruz]] | [[Colin Thomas Bates]] | [[Courtney Hopkin]] | [[Jesse Overright]] | [[Katie Thornton]] | [[Kevin Miller]] | [[Kimberly Cox]] | [[Lauren Buck]] | [[Mark Carpenter]] | [[Michael Thomas]] | [[Peter Rogers]] | [[Shana Merlin]]}}
-|Crew = {{Unbulleted list | [[Anne Wolfe Andersen]] | [[Jen Kaplan]] }}
+|Tech = {{Unbulleted list | [[Anne Wolfe Andersen]] | [[Jen Kaplan]] }}
 |Music =        [[Vinh Ngo]]
 |Run	=	Aug 2011
 }}
