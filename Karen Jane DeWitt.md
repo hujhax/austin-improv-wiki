@@ -15,6 +15,8 @@ Karen Jane first started doing improv in September 2009.
 
 She was a core cast member in [[The 42-Hour Improv Marathon]].
 
+In 2012, she attended the iO Summer Intensive in Chicago.
+
 ## Troupes
 * [[Girls Girls Girls]]
 * [[Happy Butter]]
