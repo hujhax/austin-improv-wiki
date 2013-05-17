@@ -35,7 +35,7 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 ## Shows
 * [[The 40-Hour Improv Marathon]]
 * [[The 41-Hour Improv Marathon]]
-* *[[After-School Improv]]* (Performed and Directed)
+* *[[After School Improv]]* (Performed and Directed)
 * *[[The Andersons]]*
 * *[[Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]*
