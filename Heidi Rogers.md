@@ -14,6 +14,7 @@ Heidi was a film student and enthusiast. She started taking improv classes at th
 * [[The Secret Garden]] (2012) 
 
 ## Shows
+* *[[After School Improv]]*
 * *[[The Next Chapter]]*
 * *[[Pulp Friction]]*
 * *[[Strange Worlds]]*
