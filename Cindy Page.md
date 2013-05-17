@@ -4,6 +4,7 @@
 {{Infobox Performer
 |Name	=	Cindy Page	
 |Theater=	[[The Hideout Theatre]]
+|Years	=	2010-Present
 }}
 
 **Cindy Page** is a technical improviser and and improv performer.
