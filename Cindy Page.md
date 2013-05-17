@@ -11,7 +11,7 @@
 She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Favorite Tech Performer]] at the [[The 2013 Institution Theater Awards]].
 
 ## Shows
-* *[[After School Improv]]* *(tech)*
+* *[[After-School Improv]]* *(tech)*
 * *[[Austin Secrets]]* *(tech)*
 * *[[The Black Vault]]* *(tech)*
 * *[[Charles Dickens Unleashed]]* *(tech)*
