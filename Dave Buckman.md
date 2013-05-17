@@ -17,9 +17,11 @@ A bio from the website for [[Rachel and Dave]]:<blockquote>Dave studied, taught 
 * [[Brain Trust]]
 * [[The Frank Mills]]
 * [[Rachel and Dave]]
+* [[You're Not My Real Dad]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Mr. Weir)
+* *[[Thinning the Herd]]*
 
 [[Category/Performers|Buckman]]
 [[Category/Directors|Buckman]]
