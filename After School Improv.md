@@ -14,7 +14,7 @@
 ## History
 *After School Improv* started out as a show format from [[Parallelogramophonograph]] in 2006.
 
-The show premiered as a mainstage show at [[The Hideout Theatre]] in 2009.
+The show premiered as a mainstage show at [[The Hideout Theatre]] in January and February of 2009.
 
 It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in March.
 
