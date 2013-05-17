@@ -5,7 +5,7 @@
 |Years	=	2000-Present
 }}
 
-**Audrey Rachel Sansom** is an improv performer.
+**Audrey Rachel Sansom** is an improv performer and director.
 
 ## Summary
 Audrey was a company member of [[Gnap! Theater Projects]], and directed several shows for that company.
@@ -26,3 +26,4 @@ Audrey was a company member of [[Gnap! Theater Projects]], and directed several 
 * *[[The Violet Underbelly]]*
 
 [[Category/Performers|Sansom]]
+[[Category/Directors|Sansom]]
