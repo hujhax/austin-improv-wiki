@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Patrick Daniel	
-|Picture =	Patrick Daniel	 Pic.jpg
+|Picture =	Patrick Daniel Pic.jpg
 |Theater=	Various
 |Years	=	1999-2012
 }}
