@@ -7,6 +7,5 @@
 * Every first Sunday of the month at 5pm, [[ColdTowne Theater]] hosts *[[Teen Improv Night]]* for performers under 18.
 * Every Tuesday night at around 9:30pm, [[ColdTowne Theater]] hosts a jam following *[[Stool Pigeon]]*.
 
-
 ## Inactive Jams and Mixers
 * From 2005 to 2009, [[The Hideout Theatre]] held [[The Tuesday Night Jam]], a weekly free improv jam.
