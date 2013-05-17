@@ -37,6 +37,8 @@ The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]]. 
 
 After its mainstage performances, it had its run extended for two weeks, played two special Halloween shows, and headlined the Black Box Comedy Festival in Atlanta, all in 2011.
 
+On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective roles as Chief O'Hara and Commissioner Gordon for a *[[Free Fringe]]* format called "Waiting for Batman".  In it, the two characters spent twenty minutes chatting and waiting for Batman to show up at the commissioner's office.
+
 ## Media
 * Photos:
 ** [http://www.facebook.com/media/set/?set=a.10150154016553510.295261.24535278509&type=3 Publicity photos for the mainstage run.]
@@ -50,4 +52,4 @@ After its mainstage performances, it had its run extended for two weeks, played 
 ** [http://youtu.be/OpWVV8wuM1A The video intro for the show.]
 ** Teasers for the show: [http://youtu.be/v-Enot5nZyg "Superior Intellect"], [http://youtu.be/vmYDs-M53_8 "Walk It Off"], [http://youtu.be/17FTN8qNMqc "A Dream Come True"], [http://youtu.be/6a7QO56rKm0 "No Ego"], [http://youtu.be/h_jpVQn3Lfk "Chia Pet"].
 ** [http://youtu.be/c4V0yO1ZXIg A teaser for the Halloween shows.]
-** [http://vimeo.com/60813845 "Waiting for Batman"], a 2/28/13 *[[Free Fringe]]* format in which [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective roles as Chief O'Hara and Commissioner Gordon, and spent twenty minutes waiting for Batman to show up at the police precinct.
+** [http://vimeo.com/60813845 Video of "Waiting for Batman".]
