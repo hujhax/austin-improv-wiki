@@ -84,7 +84,7 @@ In the 2013 run, the show opens with a 15-minute student bout, featuring two stu
 * [[Quinn Buckner]]
 * [[Sean Hill]]
 
-## List of Third-Run Shows
+### List of Third Run Shows
 Every week, *Theatresports* includes two guest stars, as well as a themed "exhibition match".
 
 The schedule is as follows:
