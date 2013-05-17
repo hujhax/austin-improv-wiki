@@ -13,15 +13,16 @@ She began watching shows at [[The Hideout Theatre]] when she was still in high s
 ## Shows
 * *[[The 43-Hour Improv Marathon]]*
 * *[[Austin Secrets]]*
-* *[[Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Fandom]]*
-* *[[Happy Butter]]*
 * *[[Lord Wensleydale’s Last High Tea]]*
 * *[[Rock]]*
 * *[[Spirited]]*
 * *[[The Tribunal]]*
+
+## Troupes
+* [[Happy Butter]]
 
 [[Category/Performers|Erickson]]
 [[Category/Active|Category:Active]]
