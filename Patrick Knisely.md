@@ -5,7 +5,7 @@
 |Years	=	2005-Present
 }}
 
-**Patrick Knisely** is an improv performer and instructor who works primarily with [[The New Movement Theater]].
+**Patrick Knisely** ([[Wikipedia - Help - IPA for English#Key|/ˈnaɪzliː/]])  is an improv performer and instructor who works primarily with [[The New Movement Theater]].
 
 ## Troupes
 * [[Opposites]]
