@@ -6,6 +6,8 @@
 |Years	=		1998-Present
 }}
 
+![[Hideout Exterior.jpg|The view from Congress of the Hideout Theatre.]]
+
 **The Hideout Theatre** is an improv theater in downtown Austin that draws its primary inspiration from the work of [http://en.wikipedia.org/wiki/Keith_Johnstone Keith Johnstone].
 
 ## History
