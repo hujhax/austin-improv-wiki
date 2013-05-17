@@ -18,9 +18,8 @@ In 2009, the theatre was in danger of shutting down, but was instead acquired by
 ## Shows
 The Hideout puts on a number of mainstage shows, and a variety of recurring shows such as *[[Maestro]]* and *[[The Free Fringe]]*.
 
-## Notable Facts
-The Hideout has had a [[The Hideout Text Adventure|text adventure]] written about it.
-
+## More Information
+* [[The Hideout Text Adventure|A text adventure written about the Hideout.]]
 
 ## Notes
 <references/>
