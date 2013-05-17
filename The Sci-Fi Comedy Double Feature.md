@@ -4,7 +4,8 @@
 |Theater=	[[The Hideout Theatre]]
 |Director = {{Unbulleted list | [[Sean Hill]] | [[Troy Miller]] }}
 |Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Andy Crouch]] | [[Chris Allen]] | [[Courtney Hopkin]] | [[David Lampe]] | [[Jay Michael]] | [[Lauren Zinn]] | [[Nicole Beckley]] | [[Peter Rogers]] | [[Ruby Willmann]] | [[Sean Hill]] | [[Steve Harwood]] | [[Troy Miller]] }}
-|Tech	=	Unknown
+|Tech	=	{{Unbulleted list | [[Cindy Page]] | [[Gene Zhou]] | [[Kim Dilling]] | [[Luke Wallens]] | [[Neal Tibrewala]]}}
+|Music	=	{{Unbulleted list | [[Bradley Dean Whyte]] | [[David Zimmerman]] }}
 |Run	=	Jan/Feb 2011
 }}
 
