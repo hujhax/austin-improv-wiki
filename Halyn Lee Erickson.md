@@ -10,6 +10,9 @@
 ## History
 She began watching shows at [[The Hideout Theatre]] when she was still in high school and started taking improv classes there in 2009.
 
+## Troupes
+* [[Happy Butter]]
+
 ## Shows
 * *[[The 43-Hour Improv Marathon]]*
 * *[[Austin Secrets]]*
@@ -21,8 +24,7 @@ She began watching shows at [[The Hideout Theatre]] when she was still in high s
 * *[[Spirited]]*
 * *[[The Tribunal]]*
 
-## Troupes
-* [[Happy Butter]]
+
 
 [[Category/Performers|Erickson]]
 [[Category/Active|Category:Active]]
