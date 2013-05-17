@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Kyle Traughber	
 |Picture =	Kyle Traughber Pic.jpg
-|Theater=	Salvage Vanguard Theater
+|Theater=	[[Salvage Vanguard Theater]]
 |Years	=	2009-Present
 }}
 
