@@ -15,7 +15,23 @@ In 1998, [[Austin Theatresports]] was founded with male and female members. The 
 
 The girls started out with a mix of longform and short form. Shows included a wheel with names of improv games on it that you could spin to choose what was performed next. Also there were buckets onstage with suggestions in them. The girls even invented their own longform format called "Telephone." The show included an opening number which featured a choreographed dance to Bel Biv Devoe’s "Poison." They gave themselves rock-star aliases for the show as well such as "Casiopia", "Zelda Moonbeam", and "Chelsea Gilman". But as improv troupes do, this one lost momentum. No shows were scheduled no rehearsals held for over a year.
 
-Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We Could Be Heroes]], but as its own troupe, called "Girls Girls Girls". The opening numbers were so much fun and went over so well, that the girls got together and decided they wanted to do improvised musical theatre. New members were added including [[Andrea Young]], [[Shelly Miller]], [[Monique Daviau]], and [[Katy Shea]] and the Girls as we know it today had begun. In 2003, the Girls decided to become an improv collective and work together to manage the troupe. In 2004 they added new members [[Tara White]] and [[Annette Jurcevic]] and began performing regularly at Arts on Real Theatre. In 2005, the Girls grew even bigger with the addition of [[Kimberly Tortorrici]], [[Jennifer Cargill]], [[Julie Lucas]], and [[Caitlin Sweetlamb]]. They also added a new format, GGG Beneath The Music, an improvised parody of VH1's Behind the Music.
+Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We Could Be Heroes]], but as its own troupe, called "Girls Girls Girls". The opening numbers were so much fun and went over so well, that the girls got together and decided they wanted to do improvised musical theatre. New members were added including [[Andrea Young]], [[Shelly Miller Bosse]], [[Monique Daviau]], and [[Katy Shea]] and the Girls as we know it today had begun. In 2003, the Girls decided to become an improv collective and work together to manage the troupe. In 2004 they added new members [[Tara White]] and [[Annette Jurcevic]] and began performing regularly at Arts on Real Theatre. In 2005, the Girls grew even bigger with the addition of [[Kimberly Tortorrici]], [[Jennifer Cargill]], [[Julie Lucas]], and [[Caitlin Sweetlamb]]. They also added a new format, GGG Beneath The Music, an improvised parody of VH1's Behind the Music.
+
+### Former Cast Members
+* [[Amy McCurdy]]
+* [[Andrea Young]]
+* [[Annette Jurcevic]]
+* [[Chelsea Gilman]]
+* [[Jennifer Cargill]]
+* [[Julie Lucas]]
+* [[Kacey Samiee]]
+* [[Kari Malek]]
+* [[Katy Shea]]
+* [[Kimberly Tortorrici]]
+* [[Lauren Zinn]]
+* [[Monique Daviau]]
+* [[Shelly Miller Bosse]]
+* [[Tara White]]
 
 ## Local Festivals
 * [[Out of Bounds Comedy Festival]] - Headlining troupe 2007
