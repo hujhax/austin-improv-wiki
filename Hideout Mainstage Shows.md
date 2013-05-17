@@ -75,7 +75,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |Sep 2011||Oct 2011||*[[Spirited]]*||[[Asaf Ronen]]
 |-
-|Nov 2011||Dec 2011||*[[Charles Dickens Unleashed!]]*||[[Jessica Arjet]], [[Kaci Beeler]]
+|Nov 2011||Dec 2011||*[[Charles Dickens Unleashed]]*||[[Jessica Arjet]], [[Kaci Beeler]]
 |-
 |Jan 2012||Feb 2012||*[[The Sci-Fi Comedy Double Feature]]*||[[Sean Hill]], [[Troy Miller]]
 |-
