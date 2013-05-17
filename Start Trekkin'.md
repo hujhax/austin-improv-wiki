@@ -130,7 +130,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Courtney Hopkin]]
 * [[David Lampe]]
 * [[Jay Michael]]
-* [[Lauren Zinn]]
+* [[Lauren Buck]]
 * [[Nicole Beckley]]
 * [[Peter Rogers]]
 * [[Ruby Willmann]]
