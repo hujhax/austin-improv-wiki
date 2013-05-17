@@ -8,6 +8,8 @@
 
 **Alex Baia** is an improv performer.
 
+He is a graduate of the ColdTowne Conservatory at [[ColdTown Theater]] and has also taken classes at [[The Hideout Theatre]].
+
 ## Troupes
 * [[Oh, Science!]]
 
