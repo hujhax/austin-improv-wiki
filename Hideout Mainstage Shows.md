@@ -97,7 +97,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |Jul 2013||Aug 2013||*[[Fakespeare]]*||[[Andy Crouch]]
 |-
-|Sep 2013||Oct 2013||*[[Austin Secrets]]*||[[Lisa Jackson]], [[Roy Janik]]
+|Sep 2013||Oct 2013||*[[Austin Secrets]]*|| [[Roy Janik]]
 |-
 |Nov 2013||Dec 2013||*[[A Bedtime Gorey]]*||[[Valerie Ward]]
 |}
