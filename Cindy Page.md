@@ -1,4 +1,5 @@
-{{Stub}}
+{{Stub}}<br>
+{{Pseudonym}}
 
 {{Infobox Performer
 |Name	=	Cindy Page	
