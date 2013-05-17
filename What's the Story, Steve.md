@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	What's the Story, Steve?
 |Picture =      WTSS.jpg
-|Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Arian Brumby]] | [[Caitlin Baumgartner]] | [[Chris Baldenhofer]] | [[Clint Harris]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Kristin Henn]] }}
+|Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Arian Brumby]] | [[Caitlin Baumgartner]] | [[Chris Baldenhofer]] | [[Clint Harris]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Kristin Henn]] | [[Luke Wallens]]}}
 |Years	=		2011-Present
 }}
 **What's the Story Steve?** is a troupe that specializes in children's theater and features a poodle.
