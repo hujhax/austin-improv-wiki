@@ -56,7 +56,8 @@ Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We
 * 2012 B. Iden Payne Rudy Kloptic Award for Outstanding Improvised Theater
 * Austin Improv Collective Award for Hardest Working Troupe.
 
-## Current Cast
+## Current Personnel
+### Cast
 * [[Aden Kirschner]]
 * [[Amy Averett]]
 * [[Caitlin Sweetlamb]]
@@ -65,13 +66,14 @@ Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We
 * [[Megan Flynn]]
 * [[Sarah Marie Curry]]
 * [[Shana Merlin]]
-
-## Current Musicians
+### Musicians
 * [[Ammon Taylor]]
 * [[Joel Love]]
 
-## Current Crew
+### Crew
 * [[Sara Farr]]
 
+## More Information
+* [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
