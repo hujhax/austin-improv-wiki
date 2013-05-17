@@ -5,7 +5,7 @@
 |Years	=	2000-Present
 }}
 
-**Kacey Samiee** is an improv performer and director.
+**Kacey Samiee** ([[Wikipedia - Help - IPA for English#Key|/ˈsæmiːˌiː/]]) is an improv performer and director.
 
 ## Troupes
 * [[The Awkwards]]
