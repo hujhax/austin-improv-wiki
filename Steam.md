@@ -46,3 +46,12 @@ Like *[[Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" tel
 * [[Steam – Tenth Night]]
 
 ## Media
+* [http://www.facebook.com/media/set/?set=a.251392551596098.58303.118587218209966&type=1 Photoset of the 1/7/12 show] by [[Roy Moore]].
+* [https://www.facebook.com/media/set/?set=a.254834544585232.59040.118587218209966&type=3 Photoset of the 1/13/12 show] by [[Roy Moore]].
+* [https://www.facebook.com/media/set/?set=a.255962171139136.59278.118587218209966&type=3 Photoset of the 1/14/12 show] by [[Roy Moore]].
+* [https://www.facebook.com/media/set/?set=a.259084494160237.59888.118587218209966&type=3 Photoset of the 1/20/12 show] by [[Roy Moore]].
+* [https://www.facebook.com/media/set/?set=a.259795757422444.60075.118587218209966&type=3 Photoset of the 1/21/12 show] by [[Roy Moore]].
+* [https://www.facebook.com/media/set/?set=a.263712960364057.60825.118587218209966&type=3 Photoset of the 1/27/12 show] by [[Roy Moore]].
+* [https://www.facebook.com/media/set/?set=a.265911776810842.61218.118587218209966&type=3 Photoset of the 1/28/12 show] by [[Roy Moore]].
+* [https://www.facebook.com/media/set/?set=a.268279006574119.61635.118587218209966&type=3 Photoset of the 2/3/12 show] by [[Roy Moore]].
+* [https://www.facebook.com/media/set/?set=a.269124603156226.61798.118587218209966&type=3 Photoset of the 2/4/12 show] by [[Roy Moore]].
