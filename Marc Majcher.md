@@ -47,7 +47,7 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[Start Trekkin']]*
 * *[[Steam]]* (2012)
 * *[[Strange Worlds]]*
-* "[[The Tribunal]]" (Performed and directed)
+* *[[The Tribunal]]* (Performed and directed)
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 * *[[Maestro]]* (2000-)
