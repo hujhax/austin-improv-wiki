@@ -16,6 +16,7 @@ Audrey was a company member of [[Gnap! Theater Projects]], and directed several 
 * [[Well Hung Jury]]
 
 ## Shows
+* *[[After School Improv]]*
 * *[[Cover to Cover]]* (director)
 * *[[Dusk]]*
 * *[[Guilds of Steel]]*
