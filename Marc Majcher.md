@@ -22,10 +22,17 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[After-School Improv]]*
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]* (Performed and Directed)
+* *[[Blink]]* (Coached)
+* *[[The Cagematch]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Cochise]]* (Performed and Directed)
+* *[[The Derby]]*
+* *[[Dubbed Indemnity]]* (2010-2012)
 * *[[False Matters]]* (2011)
+* *[[The Fancy-Pants Mashup]]*
 * *[[Fandom]]*
+* *[[Flying Theater Machine]]*
+* *[[Gorilla Theater]]*
 * *[[Guilds of Steel]]*
 * *[[Holy 1960s Batman, Batman!]]*
 * *[[Improvised Shakespeare]]*
@@ -34,34 +41,27 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[Live Nude Improv]]*
 * *[[Lola]]*
 * *[[Louder Than Words]]*
+* *[[Maestro]]* (2000-)
 * *[[Magna Veritas]]*
 * *[[Manhattan Stories]]*
+* *[[The Nightmare Video Project]]* ("Directed"/Produced videos 2010-2012)
 * *[[One More Night]]*
+* *[[Pick Your Own Path]]*
 * *[[The Plagiarists]]*
 * *[[Process]]*
 * *[[Racket]]*
 * *[[Rock]]*
-* *[[The Sandbox]]*
+* *[[The Sandbox]]* (Performed, Directed "Bloody Work")
 * *[[Seance]]*
 * *[[Spirited]]* (Performed and co-directed)
 * *[[Start Trekkin']]*
 * *[[Steam]]* (2012)
 * *[[Strange Worlds]]*
 * *[[Theatresports]]*
+* *[[This American Live]]* (Segment)
 * *[[The Tribunal]]* (Performed and directed)
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]*
-* *[[Maestro]]* (2000-)
-* *[[The Nightmare Video Project]]* (2010-2012)
-* *[[Flying Theater Machine]]*
-* *[[Dubbed Indemnity]]* (2010-2012)
-* *[[The Fancy-Pants Mashup]]*
-* *[[Pick Your Own Path]]*
-* *[[Gorilla Theater]]*
-* *[[The Derby]]*
-* *[[The Cagematch]]*
-* *[[This American Live]]* (Segment)
-* *[[Blink]]* (Coached)
 
 [[Category/Performers|Majcher]]
 [[Category/Directors|Majcher]]
