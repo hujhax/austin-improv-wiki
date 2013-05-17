@@ -43,8 +43,8 @@ The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The 
 * [[Brett Tribe]]
 * [[Bridget Brewer]]
 * [[Chad Wellington]]
+* [[Cindy Page]]
 * [[Cortney DeAngelo]]
-* [[Cynthia Ward]]
 * [[Heidi Rogers]]
 * [[Jayme Ramsay]] (thug)
 * [[Jessica Arjet]]
