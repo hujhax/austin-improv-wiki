@@ -23,6 +23,7 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 
 ## [[Gnap! Theater Projects]]
 ### Ongoing Shows
+* *[[Austin's Next Top Improvisor]]*
 * *[[The Derby]]*
 * *[[The Saturday Night Special]]*
 ### Mainstage Productions
@@ -48,7 +49,6 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 * *[[Heist!]]*
 * *[[The Sword of Merlin Works]]*
 * *[[The Trouble With Terry]]*
-
 
 ## [[The Hideout Theatre]]
 ### Ongoing Shows
