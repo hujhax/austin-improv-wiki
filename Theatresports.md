@@ -39,7 +39,7 @@ For this one, teams were set at the start of the run, and those teams played tog
 * Team Alamo Drafthouse
 ** [[Brad Temple]]
 ** [[David Lampe]]
-** [[Lauren Zinn]]
+** [[Lauren Buck]]
 ** [[Ted Rutherford]]
 ** [[Troy Miller]]
 * Team Katz's Deli ("The Chosen Ones")
