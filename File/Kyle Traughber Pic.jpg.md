@@ -6,6 +6,3 @@ Photo by [[Steve Rogers]], from [http://www.facebook.com/media/set/?set=a.117507
 
 ## Licensing
 {{AIC-Wiki-only license}}
-
-## Licensing
-{{AIC-Wiki-only license}}
