@@ -52,12 +52,22 @@ Like *[[Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" tel
 * Night 2 (1/8/12)
 ** Photosets by [[Steve Rogers]]: [http://www.facebook.com/media/set/?set=a.271281489602041.68812.221927764537414&type=3 1], [http://www.facebook.com/media/set/?set=a.271690159561174.68910.221927764537414&type=3 2], [http://www.facebook.com/media/set/?set=a.271726299557560.68916.221927764537414&type=3 3].
 * Night 3 (1/13/12)
-** [http://www.facebook.com/media/set/?set=a.254834544585232.59040.118587218209966&type=3 Photoset of the 1/13/12 show] by [[Roy Moore]].
-** [http://www.facebook.com/media/set/?set=a.275207809209409.69637.221927764537414&type=3 Photoset of the 1/13/12 show] by [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.255962171139136.59278.118587218209966&type=3 Photoset of the 1/14/12 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.259084494160237.59888.118587218209966&type=3 Photoset of the 1/20/12 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.259795757422444.60075.118587218209966&type=3 Photoset of the 1/21/12 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.263712960364057.60825.118587218209966&type=3 Photoset of the 1/27/12 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.265911776810842.61218.118587218209966&type=3 Photoset of the 1/28/12 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.268279006574119.61635.118587218209966&type=3 Photoset of the 2/3/12 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.269124603156226.61798.118587218209966&type=3 Photoset of the 2/4/12 show] by [[Roy Moore]].
+** [http://www.facebook.com/media/set/?set=a.254834544585232.59040.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.facebook.com/media/set/?set=a.275207809209409.69637.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+* Night 4 (1/14/12)
+** [http://www.facebook.com/media/set/?set=a.255962171139136.59278.118587218209966&type=3 Photoset] by [[Roy Moore]].
+* Night 5 (1/20/12)
+** Photosets by Steve Rogers: [http://www.facebook.com/media/set/?set=a.280001812063342.70633.221927764537414&type=3 1], [http://www.facebook.com/media/set/?set=a.284270068303183.71564.221927764537414&type=3 2].
+** [http://www.facebook.com/media/set/?set=a.259084494160237.59888.118587218209966&type=3 Photoset of the 1/20/12 show] by [[Roy Moore]].
+* Night 6 (1/21/12)
+** [http://www.facebook.com/media/set/?set=a.259795757422444.60075.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [https://www.facebook.com/media/set/?set=a.280686221994901.70792.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+* Night 7 (1/27/12)
+** [http://www.facebook.com/media/set/?set=a.263712960364057.60825.118587218209966&type=3 Photoset] by [[Roy Moore]].
+* Night 8 (1/28/12)
+** [http://www.facebook.com/media/set/?set=a.265911776810842.61218.118587218209966&type=3 Photoset] by [[Roy Moore]].
+* Night 9 (2/3/12)
+** [http://www.facebook.com/media/set/?set=a.268279006574119.61635.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.facebook.com/media/set/?set=a.290146614382195.72625.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+* Night 10 (2/4/12)
+** [http://www.facebook.com/media/set/?set=a.269124603156226.61798.118587218209966&type=3 Photoset] by [[Roy Moore]].
