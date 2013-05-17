@@ -4,4 +4,4 @@
 Photo by [[Scott Hearne]].
 
 ## Licensing
-{{AIC-Wiki-only license.}}
+{{AIC-Wiki-only license}}
