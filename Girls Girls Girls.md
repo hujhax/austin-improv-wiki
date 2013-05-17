@@ -25,6 +25,7 @@ Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We
 * [[Jennifer Cargill]]
 * [[Julie Lucas]]
 * [[Kacey Samiee]]
+* [[Karen Jane DeWitt]]
 * [[Kari Malek]]
 * [[Katy Shea]]
 * [[Kimberly Tortorrici]]
