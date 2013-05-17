@@ -2,19 +2,16 @@
 |Name	=	Curtis Luciani	
 |Picture =	Curtis Luciani Pic.jpg
 |Theater=	The Hideout Theatre
-|Years	=	xxxx-Present
+|Years	=	2001-Present
 }}
 
 **Curtis Luciani** is an improv performer and director.
 
 ## History
-Curtis began improvising with [[Fatbuckle]] in 1998.
-
-He was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
+Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
 
 ## Troupes
 * [[The Amazon and the Milksop]]
-* [[Fatbuckle]]
 * [[Rise & Shine]]
 * [[Your Terrific Neighbors]]
 
