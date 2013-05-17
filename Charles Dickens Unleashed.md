@@ -60,7 +60,7 @@ On 11/17/11, cast members [[Curtis Luciani]], [[Kaci Beeler]], and [[Peter Roger
 * [[Clay Towery]]
 * [[Courtney Hopkin]]
 * [[Curtis Luciani]]
-* [[Halyn Erickson]]
+* [[Halyn Lee Erickson]]
 * [[Jessica Arjet]]
 * [[Kaci Beeler]]
 * [[Kristin Firth]]
