@@ -4,7 +4,7 @@ Michael is also a technical improvisor for mainstage shows such as *[[Strange Wo
 
 ## Shows
 * *[[The Black Vault]]* *(tech)*
-* *[[Charles Dickens Unleased]]* *(tech)*
+* *[[Charles Dickens Unleashed]]* *(tech)*
 * *[[Fandom]]* *(tech)*
 * *[[Hitchcocked!]]* *(tech)*
 * *[[Holy 1960s Batman, Batman!]]* *(tech)*
