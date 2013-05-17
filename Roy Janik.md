@@ -14,9 +14,11 @@ Roy is a co-owner of [[The Hideout Theatre]] and its Artistic Director.
 * [[Squirrel Buddies]]
 
 ## Shows
+* *[[After School Improv]]*
 * *[[The Andersons]]* (Mr. Cooper)
 * *[[Austin Secrets]]* (creator/director)
 * *[[The Black Vault]]*
+* *[[Theatresports]]*
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 
