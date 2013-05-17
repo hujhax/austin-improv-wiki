@@ -14,6 +14,7 @@ In 2012, he moved away to Los Angeles.
 
 ## Troupes
 * [[Blink]]
+* [[Fatbuckle]]
 * [[Nice Astronaut]]
 * [[¡Zarzamora!]]
 
