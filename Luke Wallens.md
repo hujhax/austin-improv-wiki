@@ -11,6 +11,7 @@ He is a regular cast member of the *[[Flying Theater Machine]]*.
 
 ## Troupes
 * [[Wait OK Now]]
+* [[What's the Story, Steve]]
 
 ## Shows
 * *[[Flying Theater Machine]]*
