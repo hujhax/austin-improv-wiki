@@ -1,6 +1,9 @@
 ## Summary
-A [[What's the Story, Steve]] performance.
+A [[What's the Story, Steve]] performance from 4/15/12.
 
-Photo by: unknown.
+In foreground: Steve.
+
+Photo by [[Kevin Miller]].
+
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
