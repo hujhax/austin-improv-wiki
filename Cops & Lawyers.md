@@ -15,7 +15,6 @@ Like its source material, a *Cops & Lawyers* performance followed one crime, and
 ## History
 The show ran from 7/29/06 to 9/30/06.
 
-
 ## Media
 * [http://www.facebook.com/media/set/?set=a.10151697338427265.1073741827.588952264&type=3 Photoset of the 7/29/06 performance] by [[Marc Majcher]].
 * [http://www.facebook.com/media/set/?set=a.10151697344967265.1073741828.588952264&type=3 Photoset of the 8/12/06 performance] by [[Marc Majcher]].
