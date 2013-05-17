@@ -9,7 +9,7 @@
 **Claudio Fox** is an improv performer, technical improviser and photographer.
 
 ## Troupes
-* *[[Shades of Brown]]*
+* [[Shades of Brown]]
 
 [[Category/Performers|Fox]]
 [[Category/Techs|Fox]]
