@@ -5,7 +5,7 @@
 |Years	=	2005-Present
 }}
 
-**Marc Majcher** ([[Wikipedia - Help - IPA for English#Key|/ˈmeɪtʃər/]]) is an improv performer, director, and teacher. He has enormous hands.
+**Marc Majcher** ([[Wikipedia - Help - IPA for English#Key|/ˈmetʃər/]]) is an improv performer, director, and teacher. He has enormous hands.
 
 ## History
 Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. He's done a whole bunch of stuff since then.
