@@ -24,3 +24,4 @@ She began watching shows at [[The Hideout Theatre]] when she was still in high s
 * *[[The Tribunal]]*
 
 [[Category/Performers|Erickson]]
+[[Category/Active|Category:Active]]
