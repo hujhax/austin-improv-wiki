@@ -65,6 +65,13 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 
+## Festivals
+* [[The 2011 Improvised Play Festival]]
+** With [[False Matters]], [[Holy 1960s Batman, Batman!]], [[The Plagiarists]], and [[The Violet Underbelly]]
+
+* [[The 2012 Improvised Play Festival]]
+* [[The 2013 Improvised Play Festival]]
+
 [[Category/Performers|Majcher]]
 [[Category/Directors|Majcher]]
 [[Category/Teachers|Majcher]]
