@@ -7,6 +7,7 @@
  
 **Halyn Lee Erickson** is an improv performer.
 
+## History
 She began watching shows at [[The Hideout Theatre]] when she was still in high school and started taking improv classes there in 2009.
 
 ## Shows
