@@ -14,6 +14,15 @@
 
 The show was produced by [[Gnap! Theater Productions]] at [[Salvage Vanguard Theater]].
 
+## Soundtrack
+The following are links to songs that were frequently used in the *One More Night* score.
+
+* [http://www.youtube.com/watch?v=UEWFc4avub0&list=PL26F7C39412F3E020 "Isa Lei"], by Vishwa Mohan Bhatt and Ry Cooder, from [http://www.allmusic.com/album/a-meeting-by-the-river-mw0000099129 *A Meeting By the River*]
+* [http://youtu.be/YOIdB-GPa24 "Alegria"], by Cirque de Soleil, from [http://www.allmusic.com/album/cirque-du-soleil-alegría-mw0000118575 the album of the same name].
+* [http://youtu.be/eAA3KF-VBac "Starálfur"], by Sigur Rós, from [http://www.allmusic.com/album/%C3gætis-byrjun-mw0000623855 *Ágætis Byrjun*].
+* [http://youtu.be/-_2gW3zwMMQ "Chaiyya Chaiyya"], by Dil Se.
+** Performances frequently closed with the cast dancing out into the lobby to this song.
+
 ## Media
 * [https://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282 Roy Moore's photos of the opening-night show. (1/22)]
 * [http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju Jon Bolden's photos of the opening-night show. (1/22)]
