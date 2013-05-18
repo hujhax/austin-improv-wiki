@@ -16,19 +16,19 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 * [[Camp Danger]] 
 
 ## Shows
-* *[[Manson -  The Musical]]*
-* *[[The Joss Whedon Pajama Party]]*
-* *[[Flying Theatre Machine]]*
-* *[[Maestro]]*
-* *[[Love Fest]]*
-* *[[Free Fringe]]*
-* *[[Pick Your Own Path]]*
-* *[[Cagematch]]*
 * *[[After School Improv]]*
-* *[[The Fancy Pants Mash Up]]*
-* *[[The Lottery]]*
-* *[[The Nightmare Video Project]]*
-* *[[Maestro Raw]]*
+* *[[Cagematch]]*
 * *[[Charles Dickens Unleashed]]*
-* *[[RPG Story]]*
 * *[[Commedia!]]*
+* *[[The Fancy Pants Mash Up]]*
+* *[[Flying Theatre Machine]]*
+* *[[Free Fringe]]*
+* *[[The Joss Whedon Pajama Party]]*
+* *[[The Lottery]]*
+* *[[Love Fest]]*
+* *[[Maestro Raw]]*
+* *[[Maestro]]*
+* *[[Manson -  The Musical]]*
+* *[[The Nightmare Video Project]]*
+* *[[Pick Your Own Path]]*
+* *[[RPG Story]]*
