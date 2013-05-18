@@ -62,7 +62,7 @@ All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was 
 ** [[Alexa Ramirez]]
 ** [[Asaf Ronen]]
 ** [[Chelley Pyatt]]
-** [[Cindy Ward]]
+** [[Cindy Page]]
 ** [[David Zimmerman]]
 ** [[Heath Allyn]]
 ** [[Jeremy Logan]]
