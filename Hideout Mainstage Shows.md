@@ -67,7 +67,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |Jan 2011||Feb 2011||*[[Austin Secrets]]*||[[Roy Janik]]
 |-
-|Mar 2011||Apr 2011||*[[Violet Underbelly]]*||[[Kareem Badr]]
+|Mar 2011||Apr 2011||*[[The Violet Underbelly]]*||[[Kareem Badr]]
 |-
 |May 2011||Jun 2011||*[[Holy 1960s Batman, Batman!]]*||[[Kaci Beeler]]
 |-
