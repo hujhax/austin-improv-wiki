@@ -10,6 +10,9 @@
 |Run	=	Jan/Feb 2010
 }}
 
+![[One More Night - Scheherazade and Shahryar.jpg|Scheherazade and Shahryar provided a framing device for each evening's tales.]]
+
+
 ***One More Night*** was an improvised longform narrative show inspired by *The Arabian Nights*.
 
 ## Summary
