@@ -7,12 +7,12 @@
 |Run	=	February 2013
 }}
 
-***Love Fest*** (AKA "Lovefest") was an improvised longform show based on the theme of love for Valentine's days 2013.
+***Love Fest*** (AKA "Lovefest") was an improvised longform show based on the theme of love for Valentine's days 2013.  It ran concurrently with *[[Bitterfest]]*.
 
 ## Format
 Each show consisted of three separate troupe performances by [[Nugefield]], [[Bedfellows]], and [[The Seven Eight Sevens]]. The troupe performances were interspersed with brief musical acts and true stories by the cast members about their love lives.
 
-The Seven Eight Sevens format for Love Fest was conceived of by [[Clifton Highfield]] who was coaching them at the time. The format was titled "Missed Connections" and was a series of scenes on the them of love interspersed with readings from that days "Missed Connections" section of Craig's List.
+[[The Seven Eight Sevens]]' format for *Love Fest* was conceived of by [[Clifton Highfield]] who was coaching them at the time. The format was titled "Missed Connections", and was a series of scenes on the them of love interspersed with readings from that day's "Missed Connections" section of [[Wikipedia - Craigslist|craigslist]].
 
 ## Style
 ## Media
