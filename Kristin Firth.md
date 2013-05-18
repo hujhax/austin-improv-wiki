@@ -16,12 +16,12 @@
 ## Shows
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
-* *[[The Cherry Bowl]]*
+* *[[The Cherry Bowl]]*(Varya)
 * *[[False Matters]]*
 * *[[Flying Theater Machine]]*
 * *[[The Free Fringe]]*
 * *[[The Joss Whedon Pajama Party]]*
-* *[[Live TV Tuesdays -  Buffy]]*
+* *[[Live TV Tuesdays -  Buffy]]* (sales manager/ensemble)
 * *[[Magna Veritas]]*
 * *[[Pocketful of Posies]]*
 * *[[Theatresports]]*
