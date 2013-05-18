@@ -74,30 +74,33 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 ### Mainstage Productions
 The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, each show has had a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.  For more information see the [[List of Hideout Mainstage Shows in Chronological Order]].
 
-* *[[The Great Mundane]]*
-* *[[Cops and Lawyers]]*
+* *[[A Bedtime Gorey]]* (2013)
 * *[[After School Improv]]*
-* *[[Cochise]]*
-* *[[Ka-Baam!]]*
-* *[[The Violet Underbelly]]*
-* *[[Live Nude Improv]]*
-* *[[Hitchcocked!]]*
 * *[[The Andersons]]*
-* *[[Holy 1960s Batman, Batman!]]*
-* *[[Who Is T. Henry Baudecliffe]]*
-* *[[Spirited]]*
+* *[[Austin Secrets]]*
+* *[[The Black Vault]]*
 * *[[Charles Dickens Unleashed]]*
-* *[[The Sci-Fi Comedy Double Feature]]* (which included *[[Twilight Zoned]]* and *[[Start Trekkin']]*)
+* *[[Cochise]]*
+* *[[Cops and Lawyers]]*
+* *[[Fakespeare]]* (2013)
+* *[[Fandom]]*
+* *[[The Great Mundane]]*
+* *[[The Hideout Holiday Super Special]]*
+* *[[Hitchcocked!]]*
+* *[[Holy 1960s Batman, Batman!]]*
+* *[[Ka-Baam!]]*
+* *[[Live Nude Improv]]*
+* *[[Manhattan Stories]]*
 * *[[Process]]*
 * *[[Rock]]*
-* *[[Manhattan Stories]]*
-* *[[The Black Vault]]*
-* *[[Austin Secrets]]*
-* *[[Fandom]]*
+* *[[Spirited]]*
+* *[[Start Trekkin']]*
 * *[[Strange Worlds]]*
-* *[[TheatreSports (mainstage run)]]* (2013)
-* *[[Fakespeare]]* (2013)
-* *[[A Bedtime Gorey]]* (2013)
+* *[[The Sci-Fi Comedy Double Feature]]*
+* *[[Theatresports]]*
+* *[[Twilight Zoned]]*
+* *[[The Violet Underbelly]]*
+* *[[Who Is T. Henry Baudecliffe]]*
 
 ## [[The Institution Theater]]
 ### Ongoing Shows
