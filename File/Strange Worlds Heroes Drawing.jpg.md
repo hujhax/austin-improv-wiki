@@ -8,7 +8,7 @@ The drawing is owned by [[Jordan T. Maxwell]], who commissioned it at the end of
 ## Character Guide
 Top row, from left: Bellwether Blue, The Stranger ([[Jordan T. Maxwell]]'s hosting role), Jack Ryder.
 
-Center row, from left: Nate Jester, Simon Doyle, Maxine Maker, Rick White, Morgan McNulty.
+Middle row, from left: Nate Jester, Simon Doyle, Maxine Maker, Rick White, Morgan McNulty.
 
 Bottom row, from left: Dr. Lily Wilde, The Grey Bishop, The Peregrine
 
