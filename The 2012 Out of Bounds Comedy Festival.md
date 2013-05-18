@@ -49,7 +49,7 @@ The festival roast featured [[David Lampe]].
 * *[[Manhattan Stories]]*
 * [[Midnight Society]]
 * [[Miller and Purselley]]
-* [[Monks' Night Out]]
+* [[Monks' Night Out]] Reunion
 * [[Nice Astronaut]]
 * [[Oh, Science!]]
 * [[Opposites]]
