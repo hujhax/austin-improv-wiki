@@ -4,6 +4,7 @@
 |Name	=	One More Night	
 |Picture=	One More Night.gif
 |Theater=	[[Salvage Vanguard Theater]]
+|Producer=	[[Gnap! Theater Projects]]
 |Director =	[[Audrey Rachel Sansom]]	
 |Cast	=	{{Unbulleted list|[[Andreas Fabis]] | [[Audrey Rachel Sansom]] | [[Avimaan Vivek Syam]] | [[Curtis Luciani]] | [[Emily Breedlove]] | [[Julie Gillis]] | [[Kyle Traughber]] | [[Madi Goff]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Mike Sullivan]] | [[Peter Rogers]]}}
 |Run	=	Jan/Feb 2010
