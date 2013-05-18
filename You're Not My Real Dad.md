@@ -14,7 +14,7 @@ A typical You're Not My Real Dad show is montage inspired by music. The audience
 ### Press Blurb
 "Long an Austin Improv fan favorite...
 
-"Upbeat", "fresh-faced", and "brimming with youthful enthusiasm"
+'Upbeat', 'fresh-faced', and 'brimming with youthful enthusiasm'.
 
 These are phrases you will never, ever hear applied to Austin's You're Not My Real Dad. A troupe with over 60 years of stage experience between them. Embittered by experience, railroaded by relationships, down by law, YNMRD are never going to see thirty again, and they're pissed about it. They get their inspiration from old LPs and their dinner from the gas station. This is improv with authority from the last people you'd want to have any."
 
