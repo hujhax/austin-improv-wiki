@@ -14,7 +14,7 @@
 ## Summary
 *One More Night* featured multi-layered framing devices, used bolts of bright fabric scattered about the stage for a variety of props, costumes, and scenery, and emphasized sensuality and violence.
 
-The show was produced by [[Gnap! Theater Productions]] at [[Salvage Vanguard Theater]].
+The show was produced by [[Gnap! Theater Projects]] at [[Salvage Vanguard Theater]].
 
 ## Soundtrack
 The following are links to songs that were frequently used in the *One More Night* score.
