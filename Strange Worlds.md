@@ -11,6 +11,9 @@
 |Run	=	Mar/Apr 2013
 }}
 
+![[Strange Worlds Heroes Drawing.jpg|A drawing by [[Ryan Austin]] of the cast of heroes from *Strange Worlds*.]]
+
+
 ***Strange Worlds*** was a mainstage show at [[The Hideout Theatre]] based on 30s [[Wikipedia - Pulp magazine|pulp adventure]].
 
 ## Summary
