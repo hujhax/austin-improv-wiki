@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	You're Not My Real Dad
-|Picture =     http://www.outofboundscomedy.com/2011/wp-content/uploads/troupe_photos/808.jpg
+|Picture =     YNMRD.jpg
 |Cast	=	{{Unbulleted list | [[Tom Booker]] | [[Dave Buckman]] | [[John Ratliff]] | [[Asaf Ronen]]}}
 |Years	=		???-Present
 }}
