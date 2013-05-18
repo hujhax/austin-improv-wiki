@@ -10,7 +10,7 @@
 ## Summary
 The duo consists of [[Asaf Ronen]] and [[Tom Booker]] as two of "the world's most eligible confirmed bachelors".  They are whimsical, upper-class gentlemen, typically dressed in colorful silk dressing gowns.
 
-The duo is assisted by their butler, Meredith, who has been played by [[Jeff Britt]], [[Alex Hilary]], [[David Lampe]], and [[Jordan T. Maxwell]].
+The duo is assisted by their butler, Meredith, who has been played by [[Jeff Britt]], [[Alex Hilary]], [[David Lampe]], and [[Jordan T. Maxwell]]. The character was named by Jeff Britt as a pun on the name Meredith Baxter Bernie.
 
 ### Press Blurb
 This is their bio from the [[2012 Out of Bounds]] web site:
