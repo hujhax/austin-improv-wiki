@@ -102,8 +102,8 @@ The schedule is as follows:
 * May 18th
 ** Exhibition match: *[[Fandom]]* presents: *Star Wars* ([[Peter Rogers]], [[Marc Majcher]], and [[Jordan T. Maxwell]]) versus *The Lord of the Rings* ([[Quinn Buckner]], [[Mia Iseman]], and [[Bridget Brewer]]).
 ** Guests:
-*** Kaci Beeler
-*** Ace Manning
+*** [[Kaci Beeler]]
+*** [[Ace Manning]]
 * May 25th
 ** Exhibition match: unknown.
 ** Guests:
