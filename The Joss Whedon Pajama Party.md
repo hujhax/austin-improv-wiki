@@ -3,8 +3,8 @@
 |Picture=	The Joss Whedon Pajama Party.jpg
 |Theater=	[[The Institution Theater]]
 |Director = {{Unbulleted list | [[Asaf Ronen]] | [[Chelley Pyatt]] | [[Jordan T. Maxwell]] }}
-|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Alex Kingston]] | [[Alexa Ramirez]] | [[Asaf Ronen]] | [[Chad Wellington]] | [[Chelley Pyatt]] | [[Cindy Ward]] | [[Courtney DeAngelo]] | [[David Higgins]] | [[David Zimmerman]] | [[Heath Allyn]] | [[Heidi Rogers]] | [[Jason Vines]] | [[Jeremy Logan]] | [[Jordan T. Maxwell]] | [[Kristin Firth]] | [[Laura Komkov]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Sarah Swofford]] | [[Stephen Robinson]] | [[Tyler Bryce]] }}
-|Tech= {{Unbulleted list | [[Chelley Pyatt]] | [[Cindy Ward]] }}
+|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Alex Kingston]] | [[Alexa Ramirez]] | [[Asaf Ronen]] | [[Chad Wellington]] | [[Chelley Pyatt]] | [[Cindy Page]] | [[Courtney DeAngelo]] | [[David Higgins]] | [[David Zimmerman]] | [[Heath Allyn]] | [[Heidi Rogers]] | [[Jason Vines]] | [[Jeremy Logan]] | [[Jordan T. Maxwell]] | [[Kristin Firth]] | [[Laura Komkov]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Sarah Swofford]] | [[Stephen Robinson]] | [[Tyler Bryce]] }}
+|Tech= {{Unbulleted list | [[Chelley Pyatt]] | [[Cindy Page]] }}
 |Run	=	Jun 2012
 }}
 ***The Joss Whedon Pajama Party*** was a sketch and improv revue themed around the works of Joss Whedon.
