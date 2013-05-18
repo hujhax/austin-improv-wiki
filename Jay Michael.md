@@ -10,7 +10,7 @@
 ## Shows
 * *[[The Black Vault]]*
 * *[[Cops & Lawyers]]*
-* *[[Holy 1960s Batman, Batman!]]*
+* *[[Reality Improv]]* (director)
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Start Trekkin']]* (director)
 * *[[Theatresports]]*
