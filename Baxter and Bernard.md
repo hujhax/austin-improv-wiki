@@ -10,13 +10,13 @@
 ## Summary
 The duo consists of [[Asaf Ronen]] and [[Tom Booker]] as two of "the world's most eligible confirmed bachelors".  They are whimsical, upper-class gentlemen, typically dressed in colorful silk dressing gowns.
 
-The duo is assisted by their butler, Meredith, who has been played by [[Jeff Britt]], [[Alex Hilary]], and [[Jordan T. Maxwell]].
+The duo is assisted by their butler, Meredith, who has been played by [[Jeff Britt]], [[Alex Hilary]], [[David Lampe]], and [[Jordan T. Maxwell]].
 
 ### Press Blurb
 This is their bio from the [[2012 Out of Bounds]] web site:
 <blockquote><P>"[[The Institution Theater]]'s Tom Booker and Asaf Ronen play "Baxter & Bernard," the world's most eligible confirmed bachelors -- giddily so. Join them and their manservant, Meredith, as they travel the far corners of the audience's imagination in search of adventure -- and the love of the ladies.</P>
 <P>
-Asaf Ronen and Tom Booker discovered the characters of Baxter and Bernard as they were living together as roommates. They started talking in silly voices around the house. (That's not weird, is it? It's something that all divorced middle-aged men living together do, right? Am I right or am I right?!) </P>
+Asaf Ronen and Tom Booker discovered the characters of Baxter and Bernard as they were living together as roommates. They started talking in silly voices around the house. (That's not weird, is it? It's something that all divorced middle-aged men living together do, right? Am I right or am I right?!)</P>
 <P>
 Anyway, they had so much fun entertaining each other that it seems like destiny when the characters of Baxter and Bernard came out during a performance of [[You're Not My Real Dad]] at [[The 2010 Out of Bounds Comedy Festival]]. The character of Meredith, Baxter and Bernard's Man Servant, was added later to aid the performance aspect of the group and add a bit of calm to the troupe.</P>
 <P>
