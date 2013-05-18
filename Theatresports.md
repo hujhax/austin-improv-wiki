@@ -6,7 +6,7 @@
 |Cast	=	Various
 |Theater = [[The Hideout Theatre]]
 |Run	=	Apr-Jun 2007
-|Subsequent Runs = {{Unbulleted list | [[May-Jun 2013]] | [[Sep-Oct 2010]] }}
+|Subsequent Runs = {{Unbulleted list | Sep/Oct 2010 | May/Jun 2013 }}
 }}
 
 ***Theatresports*** is an improv-contest format from [[Wikipedia - Keith Johnstone|Keith Johnstone]] that has run repeatedly as a mainstage show at [[The Hideout Theatre]].
