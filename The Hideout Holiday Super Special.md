@@ -8,7 +8,7 @@
 |Run	=	Nov/Dec 2010
 }}
 
-**The Hideout Holiday Super Special** was an anthology of Christmas-themed performances of previous mainstage shows at [[The Hideout Theatre]].
+***The Hideout Holiday Super Special*** was an anthology of Christmas-themed performances of previous mainstage shows at [[The Hideout Theatre]].
 
 ## Schedule
 * 11/6/10: *[[Start Trekkin']]*
@@ -17,3 +17,6 @@
 * 12/4/10: *[[Charles Dickens Unleashed]]*
 * 12/11/10: *[[Who Is T. Henry Baudecliffe]]*
 * 12/18/10: *[[The Andersons]]*
+
+## More Information
+* [http://www.hideouttheatre.com/shows/thehideoutholidaysuperspecial The show's web page.]
