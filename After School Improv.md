@@ -3,8 +3,8 @@
 |Picture = After School Improv Pic.jpg
 |Theater=	[[The Hideout Theatre]]
 |Cast = Various
-|Director ={{Unbulleted list | [[Kaci Beeler]] (2009) | [[Jason Vines]] (2010)}}
-|Tech	=	[[Cindy Page]]
+|Director ={{Unbulleted list | [[Kaci Beeler]] (2009) | [[Jason Vines]] (2012)}}
+|Tech	=	{{Unbulleted list | [[Cindy Page]] (2012) | [[Cortney DeAngelo]] (2012) | [[Dorah Masibo]] (2012)}}
 |Run = Jan/Feb 2009
 |Subsequent Runs = Mar 2012
 }}
