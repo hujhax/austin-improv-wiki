@@ -13,7 +13,7 @@
 * *[[Reality Improv]]* (director)
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Start Trekkin']]* (director)
-* *[[Maestro']]* (director)
+* *[[Maestro]]* (director)
 * *[[Theatresports]]*
 * *[[Twilight Zoned]]*
 * *[[The Violet Underbelly]]*
