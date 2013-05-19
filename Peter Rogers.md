@@ -25,7 +25,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
 * *[[Charles Dickens Unleashed]]*
-* *[[Fakespeare]]* (Don Pedro / Lennox)
+* ***[[Fakespeare]]* (Don Pedro / Lennox) [current]**
 * *[[Fandom]]*
 * *[[Improvised Shakespeare]]*
 * *[[The Joss Whedon Pajama Party]]*
