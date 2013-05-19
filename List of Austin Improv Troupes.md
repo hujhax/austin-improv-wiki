@@ -44,7 +44,6 @@ These are troupes that still need pages created for them.
 * [[Journey to the Big Water]]
 * [[Kosher Bacon]]
 * [[Miller & Purselley]]
-* [[MmmmK]]
 * [[The Nesting Dolls]]
 * [[Polite Society Presents]]
 * [[Ratliff & Jackson]]
