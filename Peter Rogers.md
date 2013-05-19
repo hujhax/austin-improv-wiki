@@ -41,7 +41,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Start Trekkin']]*
 * *[[Twilight Zoned]]*
 * *[[Strange Worlds]]*
-* *[[Totally Improvised, 90210]]* (ensemble)
+* *[[Totally Improvised, 90210]]* (ensemble, assistant director)
 * *[[The Violet Underbelly]]*
 
 ## Media
