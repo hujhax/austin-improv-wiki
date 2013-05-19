@@ -9,4 +9,4 @@
 
 ## Inactive Jams and Mixers
 * From 2005 to 2009, [[The Hideout Theatre]] held *[[The Tuesday Night Jam]]*, a weekly free improv jam.
-* Until 5/12/13, [[ColdTowne Theater]] hosted *[[The Jam with Oh, Science!]]*
+* From 2010 to 2013, [[ColdTowne Theater]] hosted *[[The Jam with Oh, Science!]]*
