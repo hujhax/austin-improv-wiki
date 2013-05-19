@@ -1,11 +1,12 @@
 **Improv Jams and Mixers** differ from shows in that they are participatory.  A group of improvisors comes to the event and puts on scenes and games for each other.
 
 ## Active Jams and Mixers
-* The first Saturday of every month, [[Merlin Works]] puts on [[The Merlin Works Mixer]] at the AT&T Education Room at the Long Center for the Performing Arts.
+* The first Saturday of every month, [[Merlin Works]] puts on *[[The Merlin Works Mixer]]* at the AT&T Education Room at the Long Center for the Performing Arts.
 * The second Sunday of every month, [[Leng Wong]] and [[Kevin Miller]] host *[[Whoosh Bang Pow -  Back to Basics]]*.
 * Every Sunday night at 8pm, [[The Institution Theater]] puts on *[[The Rubber Room]]*.
 * Every first Sunday of the month at 5pm, [[ColdTowne Theater]] hosts *[[Teen Improv Night]]* for performers under 18.
 * Every Tuesday night at around 9:30pm, [[ColdTowne Theater]] hosts a jam following *[[Stool Pigeon]]*.
 
 ## Inactive Jams and Mixers
-* From 2005 to 2009, [[The Hideout Theatre]] held [[The Tuesday Night Jam]], a weekly free improv jam.
+* From 2005 to 2009, [[The Hideout Theatre]] held *[[The Tuesday Night Jam]]*, a weekly free improv jam.
+* Until 5/12/13, [[ColdTowne Theater]] hosted *[[The Jam with Oh, Science!]]*
