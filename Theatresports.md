@@ -70,7 +70,9 @@ For this one, teams were set at the start of the run, and those teams played tog
 ## Third Run
 The third run is being directed by [[Roy Janik]], with assistance from [[Ryan Austin]].
 
-In the 2013 run, the show opens with a 15-minute student bout, featuring two student teams captained by a member of the core cast. This is followed by an "exhibition match", featuring teams organized around some kind of theme.  After an intermission, there is a "main event" bout, involving teams sponsored by local businesses and drawn from the show's cast.  The show runs in the downstairs theater.
+In the 2013 run, the show opens with a 15-minute student bout, featuring two student teams captained by a member of the core cast. This is followed by an "exhibition match", featuring teams organized around some kind of theme.  After an intermission, there is a "main event" bout, involving teams sponsored by local businesses and drawn from the show's cast.  Each performance has a designated "snogger", or scenographer, who handles props, costumes, and scene-painting throughout the show.
+
+The show runs in the downstairs theater.
 
 ### Third Run Cast
 * [[Bridget Brewer]]
@@ -94,16 +96,18 @@ The schedule is as follows:
 ** Guests:
 *** [[Caitlin Sweetlamb]]
 *** [[Jeremy Sweetlamb]]
+** Snogger: [[Quinn Buckner]]
 * May 11th
 ** Exhibition match: [[Puppet Improv Project|Puppets]] VS [[The Known Wizards]]
 ** Guests:
 *** [[Courtney Hopkin]]
 *** [[Lauren Buck]]
 * May 18th
-** Exhibition match: *[[Fandom]]* presents: *Star Wars* ([[Peter Rogers]], [[Marc Majcher]], and [[Jordan T. Maxwell]]) versus *The Lord of the Rings* ([[Quinn Buckner]], [[Mia Iseman]], and [[Bridget Brewer]]).
+** Exhibition match: *[[Fandom]]* presents: *Star Wars* ([[Peter Rogers]], [[Courtney Hopkin]], [[Marc Majcher]], and [[Jordan T. Maxwell]]) versus *The Lord of the Rings* ([[Quinn Buckner]], [[Mia Iseman]], and [[Bridget Brewer]]).
 ** Guests:
 *** [[Kaci Beeler]]
 *** [[Ace Manning]]
+** Snogger: [[Marc Majcher]]
 * May 25th
 ** Exhibition match: unknown.
 ** Guests:
