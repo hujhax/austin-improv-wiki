@@ -23,8 +23,6 @@ In addition to the main run, *Totally Improvised, 90210* performed a special one
 
 The show was produced by [[Gnap! Theater Projects]] at [[Salvage Vanguard Theater]].
 
-
-
 ## Full Cast & Crew
 * [[Bryan Cruz]] as Dylan McKay
 * [[Colin Thomas Bates]] as David Silver
