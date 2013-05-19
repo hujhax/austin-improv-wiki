@@ -13,7 +13,7 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 Peter was a core cast member in [[The 41-Hour Improv Marathon]], and will be a core cast member in [[The 44-Hour Improv Marathon]].
 
 ## Photography
-Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly.
+Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly, and setting up [[The Austin Improv Vimeo Channel]].
 
 ## Troupes
 * [[First Round Draft]] (2001-2002)
@@ -47,6 +47,14 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 ## Media
 * [http://www.flickr.com/photos/hujhax/collections/72157613519092868/ Peter's improv photos on flickr.]
 * [http://vimeo.com/hujhax/videos Peter's videos on vimeo.]
+
+## Writing
+### Sketches
+* Sketches Peter wrote for *[[The Joss Whedon Pajama Party]]*: [http://vimeo.com/44147623 "The Big Red Button"]; [http://vimeo.com/44147529 "Cancellation Support Group"]; [http://vimeo.com/45173703 "Joss Whedon's Dream Project"], "Wash Has Too Much Time on His Hands", Parts [http://vimeo.com/45295722 1], [http://vimeo.com/45295972 2], & [http://vimeo.com/45295836 3].
+* Sketches Peter wrote for an opening set for [[Your Terrific Neighbors]]: [http://vimeo.com/44639689 "*Hurt Locker* OMG YAY"]; [http://vimeo.com/44640172 "Harlequin Network-Computing Theater"]; [http://vimeo.com/44640577 "Waylon Jennings Interrupts"].
+* [http://vimeo.com/51553569 "The *Arrested Development* Documentary Crew"]
+### Other Writing
+* [http://hujhax.livejournal.com/tag/spanish "Spanish for Everyday Situations".]
 
 ## More Information
 * [http://hujhax.livejournal.com/872048.html Peter's explanation of the best way to video-record improv shows with your iPhone.]
