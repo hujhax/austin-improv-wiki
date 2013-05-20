@@ -23,12 +23,12 @@ Season 2 was based on the books *[[Wikipedia - New Moon (novel)|New Moon]]* and 
 ## History
 The show had two mainstage runs at [[Salvage Vanguard Theater]], which the cast and crew refer to as "seasons".  Season 1 was Fridays and Saturdays from 10/23/09 to 11/21/09.  Season 2 was Fridays and Saturdays from 10/22/10 to 11/20/10.  They also did three festival appearances: the Chicago Improv Festival from 4/23/10-4/24/10; New York City at the Tank Theater on 7/9/10; and Atlanta in 2011.  They ran fundraiser shows for the Chicago trip on 4/9/10 and 4/16/10 and for the New York trip on 6/25/10 and 7/2/10 (the fundraiser shows were held at [[Salvage Vanguard Theater]]).
 
-The marketing tagline for the 2009 run was "True love waits... forever."
+The marketing tagline for the season 1 was "True love waits... forever."
 
-The marketing tagline for the 2010 run was "Forever is for serious."
+The marketing tagline for the season 2 was "Forever is for serious."
 
 ## Cast and Crew
-### 2010 Run
+### Season 1 (2009)
 #### Cast
 * [[Andreas Fabis]]
 * [[Audrey Rachel Sansom]]
@@ -90,7 +90,7 @@ The marketing tagline for the 2010 run was "Forever is for serious."
 * [[Michael Thomas]]
 * [[Shana Merlin]]
 
-### 2011 Run
+### Season 2 (2010)
 #### Cast
 * [[Ace Manning]]
 * [[Andreas Fabis]]
@@ -143,7 +143,7 @@ The marketing tagline for the 2010 run was "Forever is for serious."
 * Video of their 9/24/10 show: [http://vimeo.com/30947551 part 1], [http://vimeo.com/31256790 part 2].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=9800 The announcement of the 2010 run] on [[The AIC Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?f=2&t=9800 The announcement of season 1] on [[The AIC Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?p=92285 The announcement of the Chicago fundraiser shows] on [[The AIC Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?p=94536 The announcement of the New York City fundraiser shows] on [[The AIC Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=11210 The announcement of the 2011 run] on [[The AIC Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?f=2&t=11210 The announcement of season 2] on [[The AIC Forums]].
