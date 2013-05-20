@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Nathan Livni	
+|Picture=	Nathan Livni.jpg
 |Years	=	2008-present
 }}
 
