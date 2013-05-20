@@ -13,7 +13,7 @@
 
 It was an improvised take on [[Wikipedia - Twilight (series)|The *Twilight* Saga]].
 
-## Show Structure
+## Summary
 The show included many of the tropes associated with the novels, including a werewolf/vampire/human love triangle, a diary voiceover, and some sort of vampire sporting event.
 
 Season 1 was based on *[[Wikipedia - Twilight (novel)|Twilight]]*, and focused on the human and vampire meeting and falling in love.
