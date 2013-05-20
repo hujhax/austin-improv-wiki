@@ -31,3 +31,4 @@ Sarah 7 headlined *[[The Threefer]]* in October 2012.
 * [http://forum.austinimprov.com/viewtopic.php?t=11152 Forum announcement] of their *[[Threefer]]* headlining gig.
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
