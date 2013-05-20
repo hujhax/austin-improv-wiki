@@ -17,6 +17,16 @@ The girls started out with a mix of longform and short form. Shows included a wh
 
 Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We Could Be Heroes]], but as its own troupe, called "Girls Girls Girls". The opening numbers were so much fun and went over so well, that the girls got together and decided they wanted to do improvised musical theatre. New members were added including [[Andrea Young]], [[Shelly Miller Bosse]], [[Monique Daviau]], and [[Katy Shea]] and the Girls as we know it today had begun. In 2003, the Girls decided to become an improv collective and work together to manage the troupe. In 2004 they added new members [[Tara White]] and [[Annette Jurcevic]] and began performing regularly at Arts on Real Theatre. In 2005, the Girls grew even bigger with the addition of [[Kimberly Tortorrici]], [[Jennifer Cargill]], [[Julie Lucas]], and [[Caitlin Sweetlamb]]. They also added a new format, GGG Beneath The Music, an improvised parody of VH1's Behind the Music.
 
+### Formats
+A typical GGG show is a longform musical narrative.  But for several runs, the troupe has tweaked that format in various ways:
+* *[[Boys of Summer]]*: in this show, a male improvisor guests with the troupe.
+* GGGlee: this format was inspired by *[[Wikipedia - Glee (TV series)|Glee]]*.  In each performance, a different group guest-starred as a rival school.  The guests were:
+** The [[Puppet Improv Project]].
+** "Smoooooth", an *ad hoc* boy band consisting of [[Asaf Ronen]], [[Craig Kotfas]], [[Jason Vines]], and [[Michael Thomas]].
+** [[The Dancy Street D'Orchestra]].
+* Jersey Shorez: this format was inspired by the TV show *[[Wikipedia - Jersey Shore (TV series)|Jersey Shore]]*.
+* Stage Door: this was a 'backstage musical' format.
+
 ### Former Cast Members
 * [[Amy McCurdy]]
 * [[Andrea Young]]
