@@ -47,7 +47,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |May 2009||Jun 2009||*[[Improvised Shakespeare]]*||[[Andy Crouch]]
 |-
-|Jul 2009||Aug 2009||[[Girls Girls Girls]] present "Boys of Summer"||[[Girls Girls Girls]]
+|Jul 2009||Aug 2009||*[[Boys of Summer]]*||[[Girls Girls Girls]]
 |-
 |Sep 2009||Oct 2009||*[[Ka-Baam!!]]*||[[Asaf Ronen]]
 |-
