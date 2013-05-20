@@ -16,6 +16,10 @@ It was an improvised take on [[Wikipedia - Twilight (series)|The *Twilight* Saga
 ## Show Structure
 The show included many of the tropes associated with the novels, including a werewolf/vampire/human love triangle, a diary voiceover, and some sort of vampire sporting event.
 
+Season 1 was based on *[[Wikipedia - Twilight (novel)|Twilight]]*, and focused on the human and vampire meeting and falling in love.
+
+Season 2 was based on the books *[[Wikipedia - New Moon (novel)|New Moon]]* and *[[Wikipedia - Eclipse (Meyer novel)|Eclipse]]*, and focused on the love triangle and werewolves.
+
 ## History
 The show had two mainstage runs at [[Salvage Vanguard Theater]].  The first was Fridays and Saturdays from 10/23/09 to 11/21/09.  The second was Fridays and Saturdays from 10/22/10 to 11/20/10.  They also did three festival appearances: the Chicago Improv Festival from 4/23/10-4/24/10; New York City at the Tank Theater on 7/9/10; and Atlanta in 2011.  They ran fundraiser shows for the Chicago trip on 4/9/10 and 4/16/10 and for the New York trip on 6/25/10 and 7/2/10 (all those shows were at [[Salvage Vanguard Theater]].
 
