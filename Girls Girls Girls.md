@@ -88,3 +88,4 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
