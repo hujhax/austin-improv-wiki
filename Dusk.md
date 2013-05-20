@@ -140,4 +140,6 @@ The marketing tagline for the 2010 run was "Forever is for serious."
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=9800 The announcement of the 2010 run] on [[The AIC Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?p=92285 The announcement of the Chicago fundraiser shows] on [[The AIC Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?p=94536 The announcement of the New York City fundraiser shows] on [[The AIC Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=11210 The announcement of the 2011 run] on [[The AIC Forums]].
