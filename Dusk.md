@@ -19,6 +19,10 @@ The show included many of the tropes associated with the novels, including a wer
 ## History
 The show had two mainstage runs at [[Salvage Vanguard Theater]].  The first was Fridays and Saturdays from 10/23/09 to 11/21/09.  The second was Fridays and Saturdays from 10/22/10 to 11/20/10.  They also did three festival appearances: Chicago from 4/23/10-4/24/10; New York City on 7/9/10; and Atlanta in 2011.
 
+The marketing tagline for the 2009 run was "True love waits... forever."
+
+The marketing tagline for the 2010 run was "Forever is for serious."
+
 ## Cast and Crew
 ### 2010 Run
 #### Cast
