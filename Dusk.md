@@ -9,7 +9,7 @@
 }}
 
 
-***Dusk*** (full name: *Dusk: Improvised Tween Erotica*) was a show produced by [[Gnap! Theater Projects]].
+***Dusk*** (full name: *Dusk: Improvised Tween Erotica*) was a longform narrative improv show produced by [[Gnap! Theater Projects]].
 
 It was an improvised take on [[Wikipedia - Twilight (series)|The *Twilight* Saga]].
 
