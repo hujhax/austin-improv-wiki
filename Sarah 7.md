@@ -18,6 +18,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 Sarah 7 headlined *[[The Threefer]]* in October 2012.
 
 ### Former Members
+* [[Jenny Carlson]]
 * [[Kate Bojanek]]
 * [[Valerie Ward]]
 
