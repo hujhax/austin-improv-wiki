@@ -79,6 +79,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[The Andersons]]*
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
+* *[[Boys of Summer]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Cochise]]*
 * *[[Cops and Lawyers]]*
