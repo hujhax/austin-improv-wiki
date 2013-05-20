@@ -15,6 +15,7 @@ Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
 * [[Girl Embassy World Team]]
 * [[Parallelogramophonograph]]
 * [[Rise & Shine]]
+* [[Sarah 7]]
 
 ## Shows
 * *[[A Bedtime Gorey]]* (director) (*forthcoming*)
