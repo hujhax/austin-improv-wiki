@@ -2,6 +2,7 @@
 |Name	=	The Jam with Oh, Science!
 |Picture=	The Jam with Oh, Science!.jpg
 |Theater=	[[ColdTowne Theater]]
+|Director=	[[Oh, Science!]]
 |Cast	=	Various
 |Run	=	Feb 2010-May 2013
 }}
