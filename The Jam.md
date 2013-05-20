@@ -14,7 +14,7 @@ The Jam was hosted by [[ColdTowne Theater]] troupe [[Oh, Science!]] every Sunday
 ## History
 The first jam was held on 2/10/10.
 
-The last jam was held on 5/12/13.
+The last jam was held on 5/5/13.
 
 After the jam ended, the Sunday-night show became a straight double bill featuring [[Oh, Science!]]
 
