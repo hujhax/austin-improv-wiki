@@ -32,7 +32,7 @@ If your troupe begins with an article such as "the" or "a", you will want to tel
 **How do I upload a picture?**<br/>
 [http://screencast.com/t/OhasuYtz Here is a quick video that explains how to do it.]
 
-[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Jon Bolden]], [[Steve Rogers]], [[Roy Moore]], [[Menelaos Prokos]], [[Dave Alley]], and [[Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
+[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Jon Bolden]], [[Michael Yew]], [[Steve Rogers]], [[Roy Moore]], [[Menelaos Prokos]], [[Dave Alley]], and [[Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
 * Credit them in the picture's description.
 * Link back to the original photoset if you can.
 * In the "licensing" dropdown, select "The copyright holder gave me permission to use this work only in AIC Wiki articles."
