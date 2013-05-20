@@ -3,7 +3,7 @@
 |Picture=	Dusk Image.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Shana Merlin]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Bryan Cruz]] | [[Chelsea Gilman]] | [[Courtney Hopkin]] | [[Kyle Traughber]] | [[Lauren Buck]] | [[Michael Joplin]] | [[Michael Thomas]] | [[Sara Marie Curry]] | [[Shana Merlin]] | }}
+|Cast	=	Various
 |Run	=	Oct/Nov 2009
 |Subsequent Runs = Oct/Nov 2010
 }}
