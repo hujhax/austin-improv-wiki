@@ -6,10 +6,10 @@
 |Cast	=	Various
 |Run	=	Feb 2010-May 2013
 }}
-***The Jam with Oh, Science!*** was an improv show/mixer.
+***The Jam*** was an improv show/mixer at [[ColdTowne Theater]].
 
 ## Summary
-The Jam was hosted by [[ColdTowne Theater]] troupe [[Oh, Science!]] every Sunday night at 8:30. The show featured a different opening act every week. [[Oh, Science!]] headlined, performing a long form, improvised show. Audience members were then invited to join [[Oh, Science!]] and the opening act on stage for an open jam.
+The Jam was held every Sunday night at 8:30. [[Murphy]] hosted it from from February 2010 until October 2010. [[Oh, Science!]] hosted it until May 2013. The show featured a different opening act every week. [[Oh, Science!]] headlined, performing a long form, improvised show. Audience members were then invited to join [[Oh, Science!]] and the opening act on stage for an open jam.
 
 ## History and Transformation
 The first jam was held on 2/10/10.
