@@ -8,7 +8,7 @@
 |Subsequent Runs = {{Unbulleted list | Jul/Aug 2007 | Jul/Aug 2008 | Jul/Aug 2009 | Jul/Aug 2010 | Jul/Aug 2011 | Jul/Aug 2012 }}
 }}
 
-**Boys of Summer** is a longform musical improv show from [[Girls Girls Girls]] which features a different male improvisor guesting with the troupe in every performance.
+***Boys of Summer*** is a longform musical improv show from [[Girls Girls Girls]] which features a different male improvisor guesting with the troupe in every performance.
 
 ## History
 This format has had an annual run in July and August since 2006.  It was a mainstage show at [[The Hideout Theatre]] in 2007, 2008, and 2009.  In 2010, it ran as a non-mainstage show at the Hideout, on Friday nights.  It ran at [[The Institution Theater]] in Jul/Aug 2012.
