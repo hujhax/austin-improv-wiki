@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name	=	The Jam with Oh, Science!
+|Name	=	The Jam
 |Picture=	The Jam with Oh, Science!.jpg
 |Theater=	[[ColdTowne Theater]]
 |Director=	[[Oh, Science!]]
