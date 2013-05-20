@@ -119,6 +119,9 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 
 ## [[The New Movement Theater]]
 ### Ongoing Shows
+* *[[Block Party]]*
 * *[[Lights Up!]]*
+* *[[Student Union]]*
 * *[[The Franchise]]*
+* *[[The Megaphone Show]]*
 * *[[The Opposites Show]]*
