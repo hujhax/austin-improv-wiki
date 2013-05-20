@@ -22,8 +22,8 @@ Sarah 7 headlined *[[The Threefer]]* in October 2012.
 * [[Valerie Ward]]
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.10151045919445267.430310.550920266&type=1 A photoset] by [[Adriane Shown]] that includes their performance at [[The 2012 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.10151044387950793.420989.666390792&type=1 A photoset] by [[Dave Alley]] that includes their performance at the 9/20/12 *[[The Threefer|Threefer]]*.
+* [http://www.facebook.com/media/set/?set=a.394469047415.170839.332822362415&type=1 A photoset] of their appearance at the 2010 [[Ladies Are Funny Festival]].
+* [http://www.facebook.com/media/set/?set=a.435022037139.215390.545242139&type=1 A photoset] by [[Edison Carter]] of their appearance at [[The 2010 Out of Bounds Comedy Festival]] on 9/4/10.
 
 ## More Information
 * [http://www.facebook.com/pages/Sarah-7/332822362415 The troupe's facebook page.]
