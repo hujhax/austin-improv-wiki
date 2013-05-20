@@ -19,7 +19,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |4/14/07||6/30/07||*[[Theatresports]]*||[[Dav Wallace]], [[Sean Hill]]
 |-
-|7/1/07||8/11/07||[[Girls Girls Girls]] present "Boys of Summer"||[[Girls Girls Girls]]
+|7/1/07||8/11/07||*[[Boys of Summer]]*||[[Girls Girls Girls]]
 |-
 |7/18/07||7/25/07||[[Available Cupholders]]||[[Jeremy Sweetlamb]]
 |-
@@ -31,7 +31,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |5/1/08||6/30/08||*[[Ka-Baam!!]]*||[[Asaf Ronen]]
 |-
-|7/12/08||8/23/08||[[Girls Girls Girls]] present "Boys of Summer"||[[Girls Girls Girls]]
+|7/12/08||8/23/08||*[[Boys of Summer]]*||[[Girls Girls Girls]]
 |-
 |9/1/08||11/18/08||*[[Start Trekkin']]*||[[Troy Miller]]
 |-
