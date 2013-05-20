@@ -140,7 +140,7 @@ The marketing tagline for the 2010 run was "Forever is for serious."
 * [http://vimeo.com/9117551 Video] of the opening of the 11/13/09 show.
 * [http://vimeo.com/10691457 Video] of their 4/1/10 show (a warm-up for their Chicago festival appearance).
 * Video of their 9/23/10 show: [http://vimeo.com/29566603 part 1], [http://vimeo.com/30286429 part 2].
-* Video of their 9/23/10 show: [http://vimeo.com/30947551 part 1], [http://vimeo.com/31256790 part 2].
+* Video of their 9/24/10 show: [http://vimeo.com/30947551 part 1], [http://vimeo.com/31256790 part 2].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=9800 The announcement of the 2010 run] on [[The AIC Forums]].
