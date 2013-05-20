@@ -23,9 +23,9 @@ Season 2 was based on the books *[[Wikipedia - New Moon (novel)|New Moon]]* and 
 ## History
 The show had two mainstage runs at [[Salvage Vanguard Theater]], which the cast and crew refer to as "seasons".  Season 1 was Fridays and Saturdays from 10/23/09 to 11/21/09.  Season 2 was Fridays and Saturdays from 10/22/10 to 11/20/10.  They also did three festival appearances: the Chicago Improv Festival from 4/23/10-4/24/10; New York City at the Tank Theater on 7/9/10; and Atlanta in 2011.  They ran fundraiser shows for the Chicago trip on 4/9/10 and 4/16/10 and for the New York trip on 6/25/10 and 7/2/10 (the fundraiser shows were held at [[Salvage Vanguard Theater]]).
 
-The marketing tagline for the season 1 was "True love waits... forever."
+The marketing tagline for season 1 was "True love waits... forever."
 
-The marketing tagline for the season 2 was "Forever is for serious."
+The marketing tagline for season 2 was "Forever is for serious."
 
 ## Cast and Crew
 ### Season 1 (2009)
