@@ -55,7 +55,8 @@ The show had two mainstage runs at [[Salvage Vanguard Theater]].  The first was 
 * Light Tech -- [[Michael Sullivan]]
 * Box Office -- [[Britney Salyer]]
 
-### Chicago Cast
+### Chicago
+#### Cast
 * [[Avimaan Syam]]
 * [[Chelsea Gilman]]
 * [[Courtney Hopkin]]
@@ -64,8 +65,10 @@ The show had two mainstage runs at [[Salvage Vanguard Theater]].  The first was 
 * [[Michael Joplin]]
 * [[Michael Thomas]]
 * [[Patrick Knisely]]
-* [[Sara Farr]]
 * [[Shana Merlin]]
+
+#### Crew
+* Tech -- [[Sara Farr]]
 
 ### New York Cast
 * [[Andreas Fabis]]
