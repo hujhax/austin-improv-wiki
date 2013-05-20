@@ -5,7 +5,7 @@
 |Years	=		2010-Present
 }}
 
-**Galactic** (formerly "Battlestar Gillacktucka") is an improv duo consisting of [[Josh Gill]] and [[Lisa Jackson]].
+**Galactic** (formerly **Battlestar Gillacktucka**) is an improv duo consisting of [[Josh Gill]] and [[Lisa Jackson]].
 
 ## Summary
 ### Press Blurb
