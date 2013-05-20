@@ -4,10 +4,13 @@
 |Theater=	[[ColdTowne Theater]]
 |Director=	[[Oh, Science!]]
 |Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Ed Melendez]] | [[Josh Gill]] | [[Kristin Henn]] | [[Nathan Livni]]}}
-|Run	=	Feb 2010-Present
+|Run	=	May 2013-Present
 }}
-***The Jam with Oh, Science!*** is a double header improv show featuring [[Oh, Science!]] at 8:30PM every Sunday at [[ColdTowne Theater]].
+***Improvised Comedy with Oh, Science!*** is a double-header improv show featuring [[Oh, Science!]] at 8:30PM every Sunday at [[ColdTowne Theater]].
 
-2010-2012 [[Oh, Science!]] perfomed a modified Harold. Starting in 2013 they began straying into the monoscene format.
+## History
+This show is what *[[The Jam with Oh, Science!]]* turned into after the "jam" part of the show was discontinued.
+
+It had its first performance on 5/12/13.
 
 [[Category/Shows|Category:Shows]]
