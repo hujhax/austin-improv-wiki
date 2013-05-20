@@ -22,3 +22,4 @@ The Better Half perfected the spank circle, and Regina can never remember what C
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Better Half]]
 [[Category/Duos|Better Half]]
+[[Category/All-Female Troupes|Better Half]]
