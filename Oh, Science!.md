@@ -9,7 +9,7 @@
 ## Summary
 The troupe was founded as a [[ColdTowne Student Troupes|ColdTowne student troupe]] in July of 2009. Known for their intensely joyful, energetic shows, the troupe performed a modified Harold until Spring 2013. Currently, they perform a monoscene.
 
-Every Sunday night, they host *[[The Jam with Oh, Science!]]* at [[ColdTowne Theater]].
+Since February 10, 2010 they have hosted the [[ColdTowne Theater]] 8:30PM Sunday slot which now bears their name: [[Improvised Comedy with Oh, Science!]].
 
 Oh, Science! has performed at [[The Out of Bounds Comedy Festival]] and at The Del Close Marathon.
 
