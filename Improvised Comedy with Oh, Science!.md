@@ -1,6 +1,6 @@
 {{Infobox Show
-|Name	=	The Jam with Oh, Science!
-|Picture=	The Jam with Oh, Science!.jpg
+|Name	=	Improvised Comedy with Oh, Science!
+|Picture=	Oh, Science!.jpg
 |Theater=	[[ColdTowne Theater]]
 |Director=	[[Oh, Science!]]
 |Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Ed Melendez]] | [[Josh Gill]] | [[Kristin Henn]] | [[Nathan Livni]]}}
