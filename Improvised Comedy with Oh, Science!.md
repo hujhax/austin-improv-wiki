@@ -3,7 +3,7 @@
 |Picture=	Oh, Science!.jpg
 |Theater=	[[ColdTowne Theater]]
 |Director=	[[Oh, Science!]]
-|Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Ed Melendez]] | [[Josh Gill]] | [[Kristin Henn]] | [[Nathan Livni]]}}
+|Cast	=	{{Unbulleted list | [[Oh, Science!]] | Guest acts}}
 |Run	=	May 2013-Present
 }}
 ***Improvised Comedy with Oh, Science!*** is a double-header improv show featuring [[Oh, Science!]] at 8:30PM every Sunday at [[ColdTowne Theater]].
