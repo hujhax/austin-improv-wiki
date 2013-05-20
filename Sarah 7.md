@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Sarah 7
 |Picture =     Sarah 7.jpg
-|Cast	=	{{Unbulleted list | [[Cortnie Jones]] | [[Elizabeth Brammer]] | [[Erika May McNichol]] | [[Kate Bojanek]] | [[Katie Sicking]] | [[Teresa York]] | [[Valerie Ward]] }}
+|Cast	=	{{Unbulleted list | [[Cortnie Jones]] | [[Elizabeth Brammer]] | [[Erika May McNichol]] | [[Katie Sicking]] | [[Stephanie Russo]] | [[Teresa York]] }}
 |Years	=		2010-2012
 }}
 
@@ -16,6 +16,10 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ## History
 Sarah 7 headlined *[[The Threefer]]* in October 2012.
+
+### Former Members
+* [[Kate Bojanek]]
+* [[Valerie Ward]]
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.10151045919445267.430310.550920266&type=1 A photoset] by [[Adriane Shown]] that includes their performance at [[The 2012 Out of Bounds Comedy Festival]].
