@@ -40,3 +40,6 @@ The following are links to songs that were frequently used in the *One More Nigh
 * [http://www.facebook.com/media/set/?set=a.1177677093979.2023536.1589679282&type=3 Photoset of the 2/5 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3 Photoset of the 2/12 performance] by [[Roy Moore]].
 * 2/13 performance: [http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3 photoset] by [[Roy Moore]]; video: [https://vimeo.com/10709773 part 1], [http://vimeo.com/10885057 part 2], [http://vimeo.com/10996943 part 3], [http://vimeo.com/10997395 part 4].
+
+## More Information
+* [http://forum.austinimprov.com/viewtopic.php?p=89742 The announcement of the premiere] on [[The AIC Forums]].
