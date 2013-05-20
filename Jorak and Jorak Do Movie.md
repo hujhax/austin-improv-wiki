@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Jorak and Jorak Do Movie
 |Picture =     Jorak and Jorak Do Movie.jpg
-|Cast	=	{{Unbulleted list | [[Brent Foshee]] | [[Lisa Jackson]] }}
+|Cast	=	{{Unbulleted list | [[Brent Foshee]] | [[Scott Moss]] }}
 |Years	=		2010-Present
 }}
 
