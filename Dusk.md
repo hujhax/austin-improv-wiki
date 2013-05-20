@@ -3,7 +3,7 @@
 |Picture=	Dusk Image.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Shana Merlin]]
-|Cast	=	Various
+|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Andreas Fabis]] | [[Audrey Rachel Sansom]] | [[Avimaan Syam]] | [[Bryan Cruz]] | [[Chelsea Gilman]] | [[Colin Thomas Bates]] | [[Courtney Hopkin]] | [[Dana Yanoshak]] | [[Hugo Zesati]] | [[Julie Gillis]] | [[Katie Thornton]] | [[Kyle Traughber]] | [[Lauren Buck]] | [[Lauren Zinn]] | [[Lindsey Reeves]] | [[Liz Brammer]] | [[Madi Goff]] | [[Michael Joplin]] | [[Michael Thomas]] | [[Patrick Knisely]] | [[Sarah Marie Curry]] | [[Sarah Marie Curry]] | [[Shana Merlin]] }}
 |Run	=	Oct/Nov 2009
 |Subsequent Runs = Oct/Nov 2010
 }}
@@ -23,7 +23,7 @@ The show had two mainstage runs at [[Salvage Vanguard Theater]].  The first was 
 ### 2010 Run
 #### Cast
 * [[Andreas Fabis]]
-* [[Audrey Sansom]]
+* [[Audrey Rachel Sansom]]
 * [[Avimaan Syam]]
 * [[Bryan Cruz]]
 * [[Chelsea Gilman]]
@@ -69,7 +69,7 @@ The show had two mainstage runs at [[Salvage Vanguard Theater]].  The first was 
 
 ### New York Cast
 * [[Andreas Fabis]]
-* [[Audrey Sansom]]
+* [[Audrey Rachel Sansom]]
 * [[Avimaan Syam]]
 * [[Bryan Cruz]]
 * [[Julie Gillis]]
@@ -83,7 +83,7 @@ The show had two mainstage runs at [[Salvage Vanguard Theater]].  The first was 
 #### Cast
 * [[Ace Manning]]
 * [[Andreas Fabis]]
-* [[Audrey Sansom]]
+* [[Audrey Rachel Sansom]]
 * [[Avimaan Syam]]
 * [[Bryan Cruz]]
 * [[Chelsea Gilman]]
@@ -127,7 +127,7 @@ The show had two mainstage runs at [[Salvage Vanguard Theater]].  The first was 
 * [http://vimeo.com/16178759 Video interview] with [[Shana Merlin]] about the show.
 * Video of opening night (10/23/09): [http://vimeo.com/16185444 part 1], [http://vimeo.com/16533754 part 2].
 * [http://vimeo.com/9117551 Video] of the opening of the 11/13/09 show.
-* [http://vimeo.com/10691457 Video] of their 4/1/10 show (a warm-up for their Chicago festival appearancw).
+* [http://vimeo.com/10691457 Video] of their 4/1/10 show (a warm-up for their Chicago festival appearance).
 * Video of their 9/23/10 show: [http://vimeo.com/29566603 part 1], [http://vimeo.com/30286429 part 2].
 * Video of their 9/23/10 show: [http://vimeo.com/30947551 part 1], [http://vimeo.com/31256790 part 2].
 
