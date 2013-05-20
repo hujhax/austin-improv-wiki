@@ -7,7 +7,7 @@
 
 
 ## Troupes
-* [[Magician vs Clown]]
+* [[Magician vs. Clown]]
 * [[Oh, Science!]]
 
 ## Shows
