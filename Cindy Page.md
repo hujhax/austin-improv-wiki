@@ -1,4 +1,3 @@
-{{Stub}}<br>
 {{Pseudonym}}
 
 {{Infobox Performer
