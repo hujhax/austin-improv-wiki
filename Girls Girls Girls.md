@@ -46,7 +46,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 
 ## Local Festivals
 * [[Out of Bounds Comedy Festival]] - Headlining troupe 2007
-* [[Waffle Fest]]
+* [[WaffleFest]]
 * [[Frontera Fest]] - Best of Week: 2005, 2007 & 2008.
 * [[The Improvised Play Festival]]
 * [[The Hideout Improv Marathon]]
