@@ -36,5 +36,5 @@ Several events punctuated the high tea.  Shortly after the first course, a fathe
 
 ## More Information
 * [http://www.austinchronicle.com/food/2013-04-19/the-art-of-dining/ An *Austin Chronicle* preview of the event.]
-* [http://fuseboxfestival.com/blog/digestible-feats-does-it-again-with-lord-wensleydales-last-high-tea The Fusebox page about the event.]
+* [http://www.fuseboxfestival.com/2013-festival/lord-wensleydales-last-high-tea The Fusebox page about the event.]
 * [http://www.fuseboxfestival.com/blog/digestible-feats-does-it-again-with-lord-wensleydales-last-high-tea A review of the event.]
