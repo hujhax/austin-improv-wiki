@@ -23,9 +23,15 @@ The 6/13/09 show featured an all-female cast.
 ### Cast
 #### 2008 Run
 * [[Andy Crouch]]
-* [[Audrey Rachel Sansom]]
+* [[Asaf Ronen]]
 * [[Curtis Luciani]]
+* [[Kacey Samiee]]
+* [[Kaci Beeler]]
 * [[Roy Janik]]
+* [[Shana Merlin]]
+* [[Troy Miller]]
+* [[Valerie Ward]]
+* [[Madeline Malka]]
 
 #### 2009 Run
 * [[Audrey Rachel Sansom]]
