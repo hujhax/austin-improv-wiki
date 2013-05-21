@@ -27,6 +27,7 @@ Asaf has taught throughout NYC's public school system as a resident artist throu
 * *[[Flying Theater Machine]]* (touring performer)
 * *[[Holy 1960s Batman, Batman!]]* (director)
 * *[[Hyperlinks]]* (director)
+* *[[Improvised Shakespeare]]*
 * *[[The Joss Whedon Pajama Party]]* (director)
 * *[[Ka-Baam!!]]* (director)
 * *[[Live TV Tuesdays -  Firefly]]* (director)
