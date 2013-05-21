@@ -102,11 +102,12 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 *** [http://vimeo.com/65423075 The Peregrine and the Tempest Equation.]
 * Episode 6 (4/13/13):
 ** [http://www.facebook.com/media/set/?set=a.524634750933379.1073741856.221927764537414&type=1 Photoset] by [[Steve Rogers]].
+** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
 *** [http://vimeo.com/66225436 Codename: Sleuth and the Case of the Fractured Wing.]
 *** [http://vimeo.com/66271683 Strange Times: The President.]
 *** [http://vimeo.com/66259424 Maxine Maker and the Sumptuous Nanoreciprocator!]
 * Episode 7 (4/20/13):
-** [http://www.facebook.com/media/set/?set=a.528599867203534.1073741860.221927764537414&type=3 Photoset] by [[Steve Rogers]]
+** [http://www.facebook.com/media/set/?set=a.528599867203534.1073741860.221927764537414&type=3 Photoset] by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
 *** [http://vimeo.com/66226023 Lily Wilde and the Orchid of Death.]
 *** [http://vimeo.com/66177068 Strange Times: The Supplies.]
