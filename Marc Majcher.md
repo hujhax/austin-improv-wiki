@@ -41,6 +41,7 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[The Library]]*
 * *[[Live Nude Improv]]*
 * *[[Lola]]*
+* [[Lord Wensleydale's Last High Tea]] (Dietrich von Geltsack)
 * *[[Louder Than Words]]*
 * *[[Maestro]]* (2000-)
 * *[[Maestro|Maestro RAW]]* (Directed)
