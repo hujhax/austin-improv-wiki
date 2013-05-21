@@ -24,6 +24,7 @@ Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Crack!]]*
+* *[[Improvised Shakespeare]]*
 * *[[Manhattan Stories]]* (co-director)
 * *[[The Tribunal]]*
 
