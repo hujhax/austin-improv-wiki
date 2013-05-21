@@ -1,5 +1,3 @@
-{{Stub}}
-
 {{Infobox Performer
 |Name	=	Alex Baia	
 |Picture = Alex Baia.jpg
