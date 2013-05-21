@@ -44,6 +44,9 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Shelly Miller Bosse]]
 * [[Tara White]]
 
+### Former Musicians
+* [[Michael Brockman]]
+
 ## Local Festivals
 * [[Out of Bounds Comedy Festival]] - Headlining troupe 2007
 * [[WaffleFest]]
