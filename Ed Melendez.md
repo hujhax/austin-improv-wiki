@@ -1,6 +1,6 @@
 {{Infobox Performer
-|Name	=		
-|Picture = 
+|Name	= Ed Melendez		
+|Picture = Ed Melendez Pic.jpg
 |Theater=	[[ColdTowne Theater]]
 |Years= 2009-Present
 }}
@@ -12,11 +12,5 @@ He is a graduate of the ColdTowne Conservatory at [[ColdTowne Theater]].
 ## Troupes
 * [[Oh, Science!]]
 
-## Shows
-* *[[]]*
-* *[[]]*
-* *[[]]*
-* *[[]]*
-* *[[]]*
 
 [[Category/Performers|Melendez]]
