@@ -8,6 +8,8 @@
 **Meghan Wolff** is an improv performer who worked primarily with [[The Hideout Theatre]], and now lives in Minneapolis.
 
 ## History
+Meghan was a core cast member in [[The 41-Hour Improv Marathon]].
+
 ## Troupes
 * [[Gigglepants]] (???)
 * [[Blink]] (2009)
@@ -15,10 +17,10 @@
 * [[The Love Notes]] (???)
 
 ## Shows
-* *[[One More Night]]*
-* *[[Charles Dickens Unleashed]]*
-* *[[The 41-Hour Improv Marathon]]*
 * *[[Apocalypse]]*
+* *[[Charles Dickens Unleashed]]*
+* *[[Improvised Shakespeare]]*  
+* *[[One More Night]]*
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=81189 Meghan's self-introduction thread] on [[The AIC Forums]].
