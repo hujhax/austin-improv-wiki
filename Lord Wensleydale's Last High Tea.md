@@ -6,7 +6,7 @@
 |Run	= Saturday April 27 2013				
 }}
 
-**Lord Wensleydale's Last High Tea** was an improvised, interactive farce performed as part of Digestible Feats in the 2013 Fusebox Festival.
+***Lord Wensleydale's Last High Tea*** was an improvised, interactive farce performed as part of Digestible Feats in the 2013 Fusebox Festival.
 
 It was presented by [[Parallelogramophonograph]], who were in charge of the theatrics, and pastry chef Jodi Elliot, who was in charge of the food.
 
