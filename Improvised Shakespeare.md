@@ -20,6 +20,7 @@ The second run had an "initial informational meeting/rehearsal" on 4/1/09 before
 #### 2008 Run
 * [[Andy Crouch]]
 * [[Audrey Rachel Sansom]]
+* [[Curtis Luciani]]
 * [[Roy Janik]]
 
 #### 2009 Run
