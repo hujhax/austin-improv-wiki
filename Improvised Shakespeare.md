@@ -3,7 +3,7 @@
 |Picture=	Improvised Shakespeare.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Andy Crouch]]
-|Cast	=	{{Unbulleted list | [[Audrey Rachel Sansom]] | [[Curtis Luciani]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Peter Rogers]] | [[Roy Janik]] | [[Troy Miller]] | [[Valerie Ward]] }}
+|Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Asaf Ronen]] | [[Audrey Rachel Sansom]] | [[Curtis Luciani]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Madeline Malka]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Peter Rogers]] | [[Roy Janik]] | [[Shana Merlin]] | [[Troy Miller]] | [[Valerie Ward]] }}
 |Run	=	Jan-Mar 2008
 |Subsequent Runs = May/Jun 2009
 }}
@@ -27,11 +27,11 @@ The 6/13/09 show featured an all-female cast.
 * [[Curtis Luciani]]
 * [[Kacey Samiee]]
 * [[Kaci Beeler]]
+* [[Madeline Malka]]
 * [[Roy Janik]]
 * [[Shana Merlin]]
 * [[Troy Miller]]
 * [[Valerie Ward]]
-* [[Madeline Malka]]
 
 #### 2009 Run
 * [[Audrey Rachel Sansom]]
