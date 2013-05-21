@@ -3,7 +3,7 @@
 |Picture=	Dusk Image.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Shana Merlin]]
-|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Andreas Fabis]] | [[Audrey Rachel Sansom]] | [[Avimaan Syam]] | [[Bryan Cruz]] | [[Chelsea Gilman]] | [[Colin Thomas Bates]] | [[Courtney Hopkin]] | [[Dana Yanoshak]] | [[Hugo Zesati]] | [[Julie Gillis]] | [[Katie Thornton]] | [[Kyle Traughber]] | [[Lauren Buck]] | [[Lauren Zinn]] | [[Lindsey Reeves]] | [[Liz Brammer]] | [[Madi Goff]] | [[Michael Joplin]] | [[Michael Thomas]] | [[Patrick Knisely]] | [[Sarah Marie Curry]] | [[Sarah Marie Curry]] | [[Shana Merlin]] }}
+|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Andreas Fabis]] | [[Audrey Rachel Sansom]] | [[Avimaan Syam]] | [[Bryan Cruz]] | [[Chelsea Gilman]] | [[Colin Thomas Bates]] | [[Courtney Hopkin]] | [[Dana Yanoshak]] | [[Hugo Zesati]] | [[Julie Gillis]] | [[Katie Thornton]] | [[Kyle Traughber]] | [[Lauren Buck]] | [[Lauren Zinn]] | [[Lindsey Reeves]] | [[Liz Brammer]] | [[Madi Goff]] | [[Michael Joplin]] | [[Michael Thomas]] | [[Patrick Knisely]] | [[Sarah Marie Curry]] | [[Shana Merlin]] }}
 |Run	=	Oct/Nov 2009
 |Subsequent Runs = Oct/Nov 2010
 }}
