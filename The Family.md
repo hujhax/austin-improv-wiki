@@ -4,7 +4,7 @@
 |Theater=	[[Salvage Vanguard Theater]]
 |Producer= [[Gnap! Theater Projects]]
 |Director =	[[Michael Joplin]]
-|Cast	=	{{Unbulleted list | [[Aron Taylor]] | [[Deano Jones]] | [[Elizabeth Bigger]] | [[Erin Molson]] | [[Gary Richardson]] | [[Hugo Vargas-Zesati]] | [[Jonathan Euseppi]] | [[Madeline Malka]] | [[Ron Weisberg]] }}
+|Cast	=	{{Unbulleted list | [[Aron Taylor]] | [[Deano Jones]] | [[Elizabeth Bigger]] | [[Erin Molson]] | [[Gary Richardson]] | [[Hugo Vargas-Zesati]] | [[Jonathan Euseppi]] | [[Pseudonyms|Madeline M.]] | [[Ron Weisberg]] }}
 |Run	=	Feb/Mar 2010
 }}
 
