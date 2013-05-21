@@ -20,4 +20,7 @@
 * *[[The 41-Hour Improv Marathon]]*
 * *[[Apocalypse]]*
 
+## More Information
+* [http://forum.austinimprov.com/viewtopic.php?p=81189 Meghan's self-introduction thread] on [[The AIC Forums]].
+
 [[Category/Performers|Wolff]]
