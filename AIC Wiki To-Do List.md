@@ -16,5 +16,5 @@ This section is for the most significant missing content on the site.
 
 * Make pages for other festivals.
 * Get the history of the Hideout on to its page.
-* Finish out pages for the Hideout mainstage shows.
+* Finish out pages for the [[List of Hideout Mainstage Shows in Chronological Order|Hideout mainstage shows]].
 * Finish making basic pages for all troupes that have attended out of bounds (and thus have online bios).
