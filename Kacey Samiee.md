@@ -18,6 +18,7 @@
 
 ## Shows
 * *[[After School Improv]]*
+* *[[Improvised Shakespeare]]*
 * *[[Live TV Tuesdays -  Buffy]]* (lighting tech)
 * *[[Rock]]* (director)
 * *[[Start Trekkin']]*
