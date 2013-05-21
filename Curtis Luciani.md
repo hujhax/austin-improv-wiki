@@ -20,6 +20,7 @@ Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Holy 1960s Batman, Batman!]]*
+* *[[Improvised Shakespeare]]*
 * *[[One More Night]]*
 * *[[Who Is T. Henry Baudcliffe]]* (co-director)
 
