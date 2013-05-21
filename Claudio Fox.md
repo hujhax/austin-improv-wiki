@@ -1,5 +1,3 @@
-{{Stub}}
-
 {{Infobox Performer
 |Name	=	Claudio Fox	
 |Picture = Claudio Fox Pic.jpg
