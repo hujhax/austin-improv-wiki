@@ -20,7 +20,6 @@ Several events punctuated the high tea.  Shortly after the first course, a fathe
 ## Cast
 ### "Guests"
 * [[Jon Bolden]]
-* [[Sarah Marie Curry]]
 * [[Halyn Lee Erickson]]
 * [[Emma Holder]]
 * [[Mia Iseman]]
