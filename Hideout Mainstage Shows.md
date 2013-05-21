@@ -59,7 +59,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |May 2010||Jun 2010||*[[The Andersons]]*||[[Patrick Daniel]]
 |-
-|Jul 2010||Aug 2010||*[[Who Is T. Henry Baudcliffe]]*||[[Curtis Luciani]], [[Kaci Beeler]]
+|Jul 2010||Aug 2010||*[[Who Is T. Henry Baudecliffe]]*||[[Curtis Luciani]], [[Kaci Beeler]]
 |-
 |Sep 2010||Oct 2010||*[[Theatresports]]*||[[Andy Crouch]], [[Kareem Badr]]
 |-
