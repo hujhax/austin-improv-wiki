@@ -18,11 +18,13 @@ This is their bio from their web site:
 <blockquote><p>"Legendary American playwright David Mamet has a certain way with language–rapid fire dialogue, unfinished sentences, meaningful pauses, raucous cursing, jazz symphonic rhythms . . . meanwhile, Confidence Men: Improvised Mamet have a certain way of lifting that style and making it their own. In the realm of improvised theatre. Every show is a wild testosterone-fueled romp of comedy that can turn deadly serious at the drop of a hat. These six acclaimed and dishonorable menschen will sell you a plot of fuck yes in a two-act play made off the cuffs of their three-piece suits. And, yes, there will be a 45-second musical intermission."</p></blockquote>
 
 ## Media
-* [http://confidencemenimprov.com/ Official Website]
+* [http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/25/09 show.
 * [http://www.viddler.com/v/aa8c6d9d Video of their 8/1/2010 show.] ("Area 51")
 * [http://www.viddler.com/v/b1728855 Video of their performance] at [[The 2011 Out of Bounds Comedy Festival]]. ("The Hall of Justice")
 * [http://www.facebook.com/media/set/?set=a.3811816376672.136825.1315383518&type=3 Photoset of their performance] from [[WaffleFest]] 2012.
 
 ## More Information
+* [http://confidencemenimprov.com/ Official Website]
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
