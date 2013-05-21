@@ -2,6 +2,7 @@
 |Name	=	Alex Baia	
 |Picture = Alex Baia.jpg
 |Theater=	[[ColdTowne Theater]]
+|Years= 2009-Present
 }}
 
 **Alex Baia** is an improv performer.
