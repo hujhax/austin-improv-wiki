@@ -12,6 +12,7 @@
 * [[Firth & Arjet]]
 * [[MmmmK]]
 * [[The Plagiarists]]
+* [[Revlis]]
 
 ## Shows
 * *[[Austin Secrets]]*
