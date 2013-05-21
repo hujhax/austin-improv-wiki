@@ -24,6 +24,7 @@ He was a core cast member in both [[The 40-Hour Improv Marathon]] and [[The 42-H
 * *[[Cops & Lawyers]]* (co-director)
 * *[[Fakespeare]]* (Conrade / Duncan)
 * *[[Hitchcocked]]* (co-director)
+* *[[Improvised Shakespeare]]*
 * *[[Manhattan Stories]]*
 * *[[The Sci-Fi Comedy Double Feature]]* (co-director)
 * *[[Start Trekkin']]* (co-director)
