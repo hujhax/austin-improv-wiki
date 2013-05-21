@@ -16,6 +16,10 @@ The first run of *Improvised Shakespeare* began with a series of open rehearsals
 
 The second run had an "initial informational meeting/rehearsal" on 4/1/09 before the cast was decided on.
 
+The 6/6/09 show featured an all-male cast.
+
+The 6/13/09 show featured an all-female cast.
+
 ### Cast
 #### 2008 Run
 * [[Andy Crouch]]
