@@ -2,7 +2,7 @@
 |Name	=	Lord Wensleydale's<br>Last High Tea	
 |Picture = Lord Wensleydale's Last High Tea.jpg				
 |Director =	[[Parallelogramophonograph]]				
-|Cast	= {{Unbulleted list| [[Alex Baia]] | [[Thedward Blevins]] | [[Jon Bolden]] | [[Bridget Brewer]] | [[Sarah Marie Curry]] | [[Halyn Lee Erickson]] | [[Emma Holder]] | [[Mia Iseman]] | [[Pseudonyms|Madeline M.]] | [[Jordan T. Maxwell]] | [[Jayme Ramsay]] | [[Peter Rogers]] | [[Irene White]]}}
+|Cast	= {{Unbulleted list| [[Alex Baia]] | [[Thedward Blevins]] | [[Jon Bolden]] | [[Bridget Brewer]] | [[Halyn Lee Erickson]] | [[Emma Holder]] | [[Mia Iseman]] | [[Pseudonyms|Madeline M.]] | [[Jordan T. Maxwell]] | [[Jayme Ramsay]] | [[Peter Rogers]] | [[Irene White]]}}
 |Run	= Saturday April 27 2013				
 }}
 
