@@ -25,4 +25,9 @@ She has produced  [[The Ladies Are Funny Festival]] from its inception until 201
 * *[[Steam]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 
+## Festivals
+* The Dirty South Improv Festival
+* [[The Ladies Are Funny Festival]] (producer)
+* [[The Out of Bounds Comedy Festival]]
+
 [[Category/Performers|Gillis]]
