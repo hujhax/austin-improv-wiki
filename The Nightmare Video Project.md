@@ -23,7 +23,7 @@ Towards the end of the *Nightmare* run, Mr. Majcher began experimenting with the
 
 The show was included in *[[The Hideout Improv Marathon]]* several times before debuting as part of *[[The Wheel]]*.
 
-Unfortunately, the video production required for *The Nightmare Video Project* became untenable, and [[Roy Janik]] retired the format in January of 2012.
+Unfortunately, the video production schedule required for *The Nightmare Video Project* became untenable, and [[Roy Janik]] retired the format in January of 2012.
 
 ## Media
 * [http://youtu.be/_CoDebTOMu4 Promo Video.]
