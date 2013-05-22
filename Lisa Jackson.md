@@ -13,13 +13,14 @@ Lisa appeared in [[The 42-Hour Improv Marathon]], and will appear in [[The 44-Ho
 ## Troupes
 * [[Dervish]]
 * [[Galactic]]
-* [[Ratliff & Jackson]]
+* [[Ratliff and Jackson]]
 * [[Stool Pigeon]]
 * [[Nice Astronaut]] (former member)
 
 ## Shows
 * *[[Austin Secrets]]*
 * *[[Crack!]]*
+* *[[Hitchcocked!]]*
 * *[[Manhattan Stories]]*
 
 [[Category/Performers|Jackson]]
