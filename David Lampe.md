@@ -13,5 +13,6 @@
 * [[¡Zarzamora!]]
 
 ## Shows
+* *[[Hitchcocked!]]*
 * *[[Start Trekkin']]*
 * *[[The Violet Underbelly]]*
