@@ -8,7 +8,7 @@
 **Alex Dobrenko** is an improv performer.
 
 ## History
-Alex first took classes at [[The Hideout Theatre]] with [[Andy Crouch]] in 2000.
+Alex first took classes at [[The Hideout Theatre]] with [[Andy Crouch]] in 2010.
 
 ## Troupes
 * [[The Escorts]]
