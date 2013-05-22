@@ -16,8 +16,10 @@ Katie started taking improv classes with [[Shana Merlin]] at [[The State Theater
 
 ## Shows
 * *[[The Andersons]]* (Mary-Alice Anderson)
+* *[[Apocalypse]]*
 * *[[Dusk]]*
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
+* *[[The Sandbox]]*
 * *[[Totally Improvised, 90210]]* (Kelly Taylor)
 
 [[Category/Performers|Thornton]] 
