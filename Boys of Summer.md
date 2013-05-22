@@ -24,7 +24,6 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ** [[Les McGehee]]
 ** [[Asaf Ronen]]
 ** [[John Ratliff]]
-** [[Les McGehee]]
 ** [[Andy Crouch]]
 * 2008 Run
 ** [[Marc Majcher]]
