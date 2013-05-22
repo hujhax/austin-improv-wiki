@@ -31,7 +31,7 @@ Several events punctuated the high tea.  Shortly after the first course, the von
 * Mimsy -- [[Halyn Lee Erickson]]
 * [[Emma Holder]]
 * [[Mia Iseman]]
-* [[Pseudonyms|Madeline M.]]
+* Claire Asa Bell -- [[Pseudonyms|Madeline M.]]
 * Professor Reginald "Reg" Lackwit -- [[Jordan T. Maxwell]]
 * Peter Hinchcliffe -- [[Peter Rogers]]
 * [[Irene White]]
