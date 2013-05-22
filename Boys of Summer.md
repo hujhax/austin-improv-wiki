@@ -28,7 +28,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ** [[Andy Crouch]]
 * 2008 Run
 ** [[Marc Majcher]]
-** [[Jordan T Maxwell]] 
+** [[Jordan T. Maxwell]] 
 ** [[Erik Adams]] 
 ** [[Albert Im]] 
 ** [[Jason Vines]] 
