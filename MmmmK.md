@@ -4,10 +4,13 @@
 |Name	=		mmmmK
 |Picture	=	mmmmK.jpg
 |Cast	=	{{Unbulleted list | [[Kristin Firth]] | [[Marc Majcher]] }}
-|Years	=		2003-2012
+|Years	=		2006-2012
 }}
 
 **mmmmK** was an improv duo.
+
+## Formats
+Their "P.S." format showed two characters living unique lives, yet were bonded to each other by communicating via the written word. The show explored the outside relationships of those characters as well as their connection to each other.
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.325258794217486.73391.151475938262440&type=3 A photoset of their performance in Honolulu's 2011 Improvaganza improv festival.]
