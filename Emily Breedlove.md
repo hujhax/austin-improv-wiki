@@ -6,7 +6,7 @@
 }}
 ![[Emily Breedlove - Tribunal.jpg|Emily Breedlove in *[[The Tribunal]]*.]]
 
-**Emily Breedlove** is an improv performer.
+**Emily Breedlove** is an opera singer and an improv performer.
 
 ## Troupes
 * [[Blink]]
