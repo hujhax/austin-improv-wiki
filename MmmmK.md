@@ -4,7 +4,7 @@
 |Name	=		mmmmK
 |Picture	=	mmmmK.jpg
 |Cast	=	{{Unbulleted list | [[Kristin Firth]] | [[Marc Majcher]] }}
-|Years	=		2003-2007
+|Years	=		2003-2012
 }}
 
 **mmmmK** was an improv duo.
