@@ -29,12 +29,12 @@ Several events punctuated the high tea.  Shortly after the first course, the von
 ### Guests
 * Michael Pickswithsmith (the artist) -- [[Jon Bolden]]
 * Mimsy -- [[Halyn Lee Erickson]]
-* [[Emma Holder]]
-* [[Mia Iseman]]
+* Rebecca -- [[Emma Holder]]
+* Elizabeth (Rebecca's sister) -- [[Mia Iseman]]
 * Claire Asa Bell -- [[Pseudonyms|Madeline M.]]
 * Professor Reginald "Reg" Lackwit -- [[Jordan T. Maxwell]]
 * Peter Hinchcliffe -- [[Peter Rogers]]
-* [[Irene White]]
+* Rosemary Moncrieff -- [[Irene White]]
 
 ### Servants
 * Crasser -- [[Alex Baia]]
