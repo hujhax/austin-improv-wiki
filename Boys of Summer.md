@@ -20,6 +20,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ** [[Arthur Simone]] 
 ** [[Jeremy Sweetlamb]] ?? 
 * 2007 Run
+** [[Kareem Badr]]
 ** [[Jeremy Sweetlamb]]
 ** [[Les McGehee]]
 ** [[Asaf Ronen]]
