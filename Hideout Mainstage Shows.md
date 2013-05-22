@@ -55,7 +55,7 @@ This is a **list of Hideout mainstage shows in chronological order**, from March
 |-
 |Jan 2010||Feb 2010||*[[Austin Secrets]]*||[[Roy Janik]]
 |-
-|Mar 2010||Apr 2010||*[[Hitchcocked]]*||[[Sean Hill]], [[Troy Miller]]
+|Mar 2010||Apr 2010||*[[Hitchcocked!]]*||[[Sean Hill]], [[Troy Miller]]
 |-
 |May 2010||Jun 2010||*[[The Andersons]]*||[[Patrick Daniel]]
 |-
