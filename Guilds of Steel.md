@@ -49,6 +49,7 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [[Zach Palmer]]
 
 ## Media
+* [http://www.facebook.com/media/set/?set=a.405946063310.181500.16782108310&type=3 Promotional photos for the 2010 run.]
 * [http://www.facebook.com/media/set/?set=a.1305295204352.2036938.1589679282&type=3 Photoset of the 7/16/10 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1307549820716.2037275.1589679282&type=3 Photoset of the 7/17/10 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1311506519631.2037619.1589679282&type=3 Photoset of the 7/23/10 performance] by [[Roy Moore]].
