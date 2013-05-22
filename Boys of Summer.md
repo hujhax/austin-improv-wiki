@@ -37,7 +37,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 * 2009 Run
 ** [[Michael Joplin]] 
 ** [[Jason Neulander]] 
-** Westen (Shorty of White Ghost Shivers) 
+** Westen Borghesi ("Shorty" from the White Ghost Shivers) 
 ** [[Jon Clinkenbeard]] 
 ** [[Owen Egerton]] 
 ** [[Shannon McCormick]] 
@@ -46,7 +46,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ** [[Joshua Krilov]]
 ** [[Peter Rogers]]
 ** [[Eric Heiberg]] 
-** [[M Scott Tatum]] 
+** [[M. Scott Tatum]] 
 ** [[Jon Bolden]]
 * 2011 Run
 ** [[Michael Thomas]]
@@ -55,7 +55,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ** [[Deano Jones]]
 ** [[Jason Laney]]
 * 2012 Run
-** Clint and Buck Vrazel (Oklahoma City)
+** Clint and Buck Vrazel, of Twinprov (Oklahoma City)
 ** [[Clay Towery]]
 ** [[Jesse Overright]]
 ** [[Bobby DiPasquale]]
