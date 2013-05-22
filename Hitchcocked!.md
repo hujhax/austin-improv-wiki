@@ -3,11 +3,12 @@
 |Picture=	Hitchcocked! Poster.jpg
 |Theater=	[[The Hideout Theatre]]	
 |Director =	[[Troy Miller]]
-|Cast	=	{{Unbulleted list | [[Asaf Ronen]] | [[Audrey Rachel Sansom]] | [[Chris Allen]] | [[Curtis Luciani]] | [[David Lampe]] | [[Jay Michael]] | [[Kaci Beeler]] | [[Lisa Jackson]] | [[Roy Janik]] | [[Sarah Marie Tufts]] | [[Sean Hill]] | [[Stacy Kaplowitz]] | [[Troy Miller]] }}
+|Cast	=	{{Unbulleted list | [[Asaf Ronen]] | [[Audrey Rachel Sansom]] | [[Chris Allen]] | [[Curtis Luciani]] | [[David Lampe]] | [[Jay Michael]] | [[Kaci Beeler]] | [[Lisa Jackson]] | [[Roy Janik]] | [[Sarah Marie Curry]] | [[Sean Hill]] | [[Stacy Kaplowitz]] | [[Troy Miller]] }}
 | Music = {{Unbulleted list | [[Michael Brockman]] | [[Sara Farr]] }}
 |Tech	=	{{Unbulleted list | [[Anandhi Mani]] | [[Brianne Wilson]] | [[David Zimmerman]] | [[Josh Becker]] | [[Michael Yew]] | [[Neal Tibrewala]] | [[Todd Hart]] }}
 |Run	=	Mar/Apr 2010
 }}
+![[Hitchcocked! Performance.jpg|A performance of *Hitchcocked!*.]]
 
 ***Hitchcocked!*** was a mainstage show at [[The Hideout Theatre]] inspired by the works of [[Wikipedia - Alfred Hitchcock|Alfred Hitchcock]].
 
