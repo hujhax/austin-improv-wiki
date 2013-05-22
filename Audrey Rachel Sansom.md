@@ -20,6 +20,7 @@ Audrey was a company member of [[Gnap! Theater Projects]], and directed several 
 * *[[Cover to Cover]]* (director)
 * *[[Dusk]]*
 * *[[Guilds of Steel]]*
+* *[[Hitchcocked!]]*
 * *[[Improvised Shakespeare]]*
 * *[[One More Night]]* (director)
 * *[[The Sandbox]]*
