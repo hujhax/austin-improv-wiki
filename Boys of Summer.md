@@ -33,7 +33,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ** [[Albert Im]] 
 ** [[Jason Vines]] 
 ** [[Roy Janik]] 
-** Mitch n' Dave (Backpack Picnic)
+** [[Mitch Baker]] and [[Dave Brewer]], of [[Backpack Picnic]]
 * 2009 Run
 ** [[Michael Joplin]] 
 ** [[Jason Neulander]] 
