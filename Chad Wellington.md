@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-**Chad Wellington** is an improv performer.
+**Chad Wellington** is a technical improvisor and an improv performer.
 
 ## History
 Chad began taking improv classes in June 2010.
@@ -21,5 +21,6 @@ Chad began taking improv classes in June 2010.
 * *[[The Tribunal]]*
 
 [[Category/Performers|Wellington]]
+[[Category/Techs|Wellington]]
 
 __NOINDEX__
