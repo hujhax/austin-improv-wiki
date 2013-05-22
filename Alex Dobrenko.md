@@ -16,7 +16,9 @@ Alex first took classes at [[The Hideout Theatre]] with [[Andy Crouch]] in 2000.
 
 ## Shows
 * *[[Austin Secrets]]*
+* *[[Cover to Cover]]*
 * *[[Manhattan Stories]]*
+* *[[Process]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Start Trekkin']]*
 * *[[Twilight Zoned]]*
