@@ -8,7 +8,7 @@
 **Julie Gillis** is an improv performer.
 
 ## History
-Julie started doing improv in Austin in 2004, joined GGG in 2005, and performed longform narrative with Gnap and Hideout from then until early 2012.
+Julie started doing improv in Austin in 2004, joined [[Girls Girls Girls]] in 2005, and performed longform narrative with Gnap and Hideout from then until early 2012.
 
 She has produced  [[The Ladies Are Funny Festival]] from its inception until 2012, and am currently produces *[[Bedpost Confessions]]*.
 
