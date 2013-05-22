@@ -15,20 +15,39 @@ This format has had an annual run in July and August since 2006.  It was a mains
 
 An improvisor only gets one chance to guest star in a Boys of Summer show; there are no repeats.  Here is a list of improvisors who have guest-starred in Boys of Summer:
 * 2006 Run
-** Unknown
+** [[Ted Rutherford]] 
+** [[Craig Kotfas]] 
+** [[Arthur Simone]] 
+** [[Jeremy Sweetlamb]] ?? 
 * 2007 Run
 ** [[Jeremy Sweetlamb]]
 ** [[Les McGehee]]
 ** [[Asaf Ronen]]
 ** [[John Ratliff]]
+** [[Les McGehee]]
+** [[Andy Crouch]]
 * 2008 Run
 ** [[Marc Majcher]]
+** [[Jordan T Maxwell]] 
+** [[Erik Adams]] 
+** [[Albert Im]] 
+** [[Jason Vines]] 
+** [[Roy Janik]] 
+** Mitch n' Dave (Backpack Picnic)
 * 2009 Run
-** Unknown
+** [[Michael Joplin]] 
+** [[Jason Neulander]] 
+** Westen (Shorty of White Ghost Shivers) 
+** [[Jon Clinkenbeard]] 
+** [[Owen Egerton]] 
+** [[Shannon McCormick]] 
 * 2010 Run
 ** [[Pierce Purselley]]
 ** [[Joshua Krilov]]
 ** [[Peter Rogers]]
+** [[Eric Heiberg]] 
+** [[M Scott Tatum]] 
+** [[Jon Bolden]]
 * 2011 Run
 ** [[Michael Thomas]]
 ** [[Jay Byrd]]
