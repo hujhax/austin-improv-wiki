@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name	=	Guilds Of Steel	
+|Picture =    Guilds of Steel Pic.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Producer= [[Gnap! Theater Projects]]
 |Director =	{{Unbulleted list | [[Bryan Roberts]] | [[Michael Joplin]] | }}
