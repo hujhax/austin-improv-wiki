@@ -10,6 +10,7 @@
 ## Shows
 * *[[Fandom]]*
 * *[[Flying Theater Machine]]*
+* *[[Seance]]*
 * *[[The Tribunal]]*
 * *[[Theatresports]]*
 
