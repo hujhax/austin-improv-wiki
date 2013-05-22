@@ -8,7 +8,7 @@ See [[List of Austin Improv Shows#Mainstage Productions 2|the list of improv sho
 ## Company Members
 *[[Ace Manning]]
 *[[Andreas Fabis]]
-*[[Audrey Sansom]]
+*[[Audrey Rachel Sansom]]
 *[[Avimaan Syam]]
 *[[Ben Schave]]
 *[[Brandon Salinas]]
