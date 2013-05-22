@@ -11,7 +11,7 @@
 It was presented by [[Parallelogramophonograph]], who were in charge of the theatrics, and pastry chef Jodi Elliot, who was in charge of the food.
 
 ## Summary
-This was a high tea held at the Umlauf Sculpture Garden.  The paying guests were, according to the show's conceit, the guest of Lord Wensleydale, who had invited them all to high tea to make a very special announcement.
+This was a high tea held at the Umlauf Sculpture Garden.  The paying attendees were, according to the show's conceit, the guests of Lord Wensleydale, who had invited them all to high tea to make a very special announcement.
 
 All cast members wore period costumes and white makeup.  Some were "guests", and sat among the paying customers.  Others were "servants", who worked the event.  Cast members interacted with the audience and with each other (typically with the guests abusing the servants).  [[Roy Janik]] emceed the event in character as "Mr. Tiddles", the house steward.
 
