@@ -25,6 +25,7 @@ Asaf has taught throughout NYC's public school system as a resident artist throu
 
 ## Shows
 * *[[Flying Theater Machine]]* (touring performer)
+* *[[Hitchcocked!]]*
 * *[[Holy 1960s Batman, Batman!]]* (director)
 * *[[Hyperlinks]]* (director)
 * *[[Improvised Shakespeare]]*
