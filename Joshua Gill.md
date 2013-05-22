@@ -16,4 +16,7 @@ In late 2008, Josh moved in with [[Arthur Simone]], co-founder of [[ColdTowne Th
 * [[Dervish]] (2012-present)
 * [[Nice Astronaut]] (2010-2012)
 
+## Shows
+* *[[Dear Frailty]]* (tech)
+
 [[Category/Performers|Gill]]
