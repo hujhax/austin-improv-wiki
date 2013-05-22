@@ -89,8 +89,8 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[The Hideout Holiday Super Special]]*
 * *[[Hitchcocked!]]*
 * *[[Holy 1960s Batman, Batman!]]*
-* *[[Improvised Shakepseare]]*
-* *[[Ka-Baam!]]*
+* *[[Improvised Shakespeare]]*
+* *[[Ka-Baam!!]]*
 * *[[Live Nude Improv]]*
 * *[[Manhattan Stories]]*
 * *[[Process]]*
