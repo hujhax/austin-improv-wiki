@@ -17,6 +17,7 @@ Katie started taking improv classes with [[Shana Merlin]] at [[The State Theater
 ## Shows
 * *[[The Andersons]]* (Mary-Alice Anderson)
 * *[[Apocalypse]]*
+* *[[Braised in Texas]]*
 * *[[Dusk]]*
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
 * *[[The Sandbox]]*
