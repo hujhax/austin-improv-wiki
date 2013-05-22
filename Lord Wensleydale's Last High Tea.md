@@ -39,7 +39,7 @@ Several events punctuated the high tea.  Shortly after the first course, the von
 ### Servants
 * Crasser -- [[Alex Baia]]
 * Gilbert -- [[Thedward Blevins]]
-* [[Bridget Brewer]]
+* Nancy Bottomtop (from Limerick) -- [[Bridget Brewer]]
 * Penny -- [[Jayme Ramsay]]
 
 ## More Information
