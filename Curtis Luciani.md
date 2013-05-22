@@ -19,10 +19,11 @@ Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41
 * *[[The Andersons]]* (ensemble)
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
+* *[[Hitchcocked!]]*
 * *[[Holy 1960s Batman, Batman!]]*
 * *[[Improvised Shakespeare]]*
 * *[[One More Night]]*
-* *[[Who Is T. Henry Baudcliffe]]* (co-director)
+* *[[Who Is T. Henry Baudecliffe]]* (co-director)
 
 ## Media
 * [http://youtu.be/buYJ8CoEZPQ A video] of Curtis roasting [[Tom Booker]] at [[The 2011 Out of Bounds Comedy Festival]].
