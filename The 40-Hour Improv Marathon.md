@@ -2,13 +2,13 @@
 
 ## Core Players
 * [[Andy Crouch]]
-* [[Caitlin Sweet]] 
+* [[Caitlin Sweetlamb]] 
 * [[Curtis Luciani]]
 * [[Jeremy Lamb]] 
 * [[Kaci Beeler]] 
 * [[Kareem Badr]] 
 * [[Matt Pollock]]
-* [[Troy Miller]] 
+* [[Troy Miller]]
 
 ## Schedule
 * Friday 5pm: *[[Maestro]]*
