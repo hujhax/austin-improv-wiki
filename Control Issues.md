@@ -12,7 +12,7 @@
 It Is part of *[[The Wheel]]*.
 
 ## Summary
-In Pick Your Own Path, the story takes the form of a middle-schooler going off on a crazy adventure.  Periodically, the show's narrator stops the proceedings and offers the audience a choice for how to proceed.  The audience votes for their choice via applause, and the story proceeds accordingly.  Choices may lead to the protagonist's death, in which case, the narrator ratchets back the story and tries another alternative.
+In *Pick Your Own Path*, the story takes the form of a middle-schooler going off on a crazy adventure.  Periodically, the show's narrator stops the proceedings and offers the audience a choice for how to proceed.  The audience votes for their choice via applause, and the story proceeds accordingly.  Choices may lead to the protagonist's death, in which case, the narrator ratchets back the story and tries another alternative.
 
 ## History
 This show originated as a [[The Cagematch|Cagematch]] show from [[The Dark Bloodlords]].  They played three shows in 2006.  A year later, several Hideout players performed a Harry-Potter-themed *Choose Your Own Adventure* show for an event associated with the latest *Harry Potter* book release.  In October 2010, it began a run at [[The Hideout Theatre]] as part of *[[The Wheel]]*.
