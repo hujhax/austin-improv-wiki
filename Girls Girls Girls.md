@@ -32,6 +32,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Andrea Young]]
 * [[Annette Jurcevic]]
 * [[Chelsea Gilman]]
+* [[Erin Molson]]
 * [[Jennifer Cargill]]
 * [[Julie Gillis]]
 * [[Kacey Samiee]]
