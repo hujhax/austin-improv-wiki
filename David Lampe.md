@@ -13,9 +13,10 @@
 * [[¡Zarzamora!]]
 
 ## Shows
-* *[[Hitchcocked!]]*
-* *[[Start Trekkin']]*
-* *[[The Violet Underbelly]]*
-* *[[Sci-Fi Double Feature]]*
-* *[[The Suitcase]]*
 * *[[Cops & Lawyers]]*
+* *[[Hitchcocked!]]*
+* *[[The Sci-Fi Comedy Double Feature]]*
+* *[[Start Trekkin']]*
+* *[[The Suitcase]]*
+* *[[Twilight Zoned]]*
+* *[[The Violet Underbelly]]*
