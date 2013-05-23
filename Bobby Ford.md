@@ -22,7 +22,7 @@ Bob is a fully out Star Wars nerd, owner/operator of Rogue Sage, gifted public s
 * *[[The Cagematch]]*
 * *[[The Fancy-Pants Mashup]]*
 * *[[Pick Your Own Path]]*
-* *[[Tribunal]]*
+* *[[The Tribunal]]*
 
 
 [[Category/Performers|Olmstead]]
