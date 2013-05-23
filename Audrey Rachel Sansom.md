@@ -22,6 +22,7 @@ Audrey was a company member of [[Gnap! Theater Projects]], and directed several 
 * *[[Guilds of Steel]]*
 * *[[Hitchcocked!]]*
 * *[[Improvised Shakespeare]]*
+* *[[Ka-Baam!!]]*
 * *[[One More Night]]* (director)
 * *[[The Sandbox]]*
 * *[[Start Trekkin']]*
