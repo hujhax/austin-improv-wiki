@@ -50,6 +50,72 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Sarah Marie Curry]]
 * [[Troy Miller]]
 
+### Heroes & Villains
+#### 2008 Run
+* 5/3/08
+** [[Jason Vines]] as Man Bear Pig
+** [[Kacey Samiee]] as Mistress Madness
+** [[Michael Thomas]] as Mariachi Man
+* 5/10/08
+** [[Kaci Beeler]] as Dr. Steam
+** [[Erik Adams]] as Big Wet Hero
+** [[Jason Vines]] as Captain Accomodator
+* 5/17/08
+** [[Michael Thomas]] as Inflatable Man
+** [[Audrey Sansom]] as Jane the Unremarkable
+** [[Roy Janik]] as The Exciting Elemental
+* 5/24/08
+** [[Michael Thomas]] as Anteater Man
+** [[Erik Adams]] as Captain Giggles
+** [[Audrey Sansom]] as Sargent Shortbread
+
+#### 2009 Run
+* 9/11/09
+** [[Troy Miller]] as Mr. No Depth Perception Guy
+** [[Michael Thomas]] as Cricket the Clairvoyant Kitty Cat
+** [[Erik Adams]] as Austin Music Scene Kid
+** [[Jon Clinkenbeard]] as Black Fungus Guy [villain]
+* 9/12/09
+** [[Eric Heiberg]] as Mr. Buckets
+** [[Aden Kirschner]] as the The Pigtail Player
+** [[Sarah Marie Curry]] as Blanket Woman.
+** [[Jason Vines]] as The Chatty Mime [villain]
+* 9/18/09
+** [[Eric Heiberg]] as Recyclotron
+** [[Sarah Marie Tufts]] as Jazz Hands!
+** [[Erik Adams]] as Catch Man
+** [[Jason Vines]] as Spaceclaw [villain]
+* 9/19/09
+** [[Audrey Sansom]] as Brick Woman
+** [[Marc Majcher]] as Diabetes Boy
+** [[Justin Davis]] as Spam-Man
+** [[Troy Miller]] as The Contortionist Alien [villain]
+* 9/25/09
+** [[Eric Heiberg]] as Improv Dwarf
+** [[Michael Thomas]] as Epicurean King
+** [[Aden Kirschner]] as Swirling Vortex of Emotional Need a.k.a. SVEN.
+* 10/2/09
+** [[Audrey Sansom]] as Super Zoo Keeper
+** [[Marc Majcher]] as Dr. Hijinx
+** [[Jason Vines]] as Captain Jelly Belly
+
+### Guest Artists
+#### 2008 Run
+* 5/3/08:  Thomas Reidy
+* 5/10/08:  Rob Osborne
+* 5/17/08:  Thomas Reidy
+* 5/24/08:  Kristin Hogan
+
+#### 2009 Run
+* 9/11/09: Kristin Hogan
+* 9/12/09: Kristin Hogan
+* 9/18/09: Angelica Brenner
+* 9/19/09: Jim Kersey
+* 9/25/09: Andrew Augustine
+* 9/26/09: *unknown*
+* 10/2/09: Robert Faires
+* 10/2/09: *unknown*
+
 ## Media
 * [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset of the 2009 run.]
 * [http://www.flickr.com/photos/majcher/tags/kabaam/ Photos of the 2009 run] from [[Marc Majcher]].
