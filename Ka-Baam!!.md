@@ -19,6 +19,8 @@ The show would begin with origin stories for three different heroes, which were 
 
 Throughout the show, director [[Asaf Ronen]] served as the narrator, occasionally providing interstitials which introduced advertisements or responded to viewer mail.
 
+Each hero and villain would cobble together a costume from the show's collection of capes, masks, and attachable felt decorative pieces.
+
 ### Press Blurb
 The press blurb for the show from the show's web site:<blockquote>"*Ka-Baam!!* is every four-color fantasy writ large and on-the-spot by a cast of Austin's most heroic improv comedians.  Every week audience suggestions will inspire the origins and adventures of three never-before-seen heroes in a comic book story that will never be seen again.  The Golden Age will be reborn with the deadliest of villains, most ridiculous brawls and special guest comic book artists every week to capture the action in pencil and ink."</blockquote>
 
