@@ -40,6 +40,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Roy Janik]]
 
 ### 2009 Cast
+![[Ka-Baam!! Promo.jpg|A promotional photo of *Ka-Baam!!*, with ninjas.]]
 * [[Aden Kirschner]]
 * [[Audrey Rachel Sansom]]
 * [[Eric Heiberg]]
