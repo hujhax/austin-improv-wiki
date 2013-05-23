@@ -24,6 +24,7 @@ Jason also works in film and is a special effects artist.
 * *[[After School Improv]]* (Director)
 * *[[The Andersons]]*
 * *[[Cochise]]*
+* *[[Ka-Baam!!]]*
 * *[[Rock]]*
 * *[[Spirited]]*
 * *[[The Suitcase]]*
