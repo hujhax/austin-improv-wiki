@@ -22,7 +22,7 @@ Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Th
 * *[[The Tribunal]]*
 * *[[Maestro]]*
 * *[[Pick Your Own Path]]*
-* *[[The Fancy Pants Mash-up]]*
+* *[[The Fancy-Pants Mashup]]*
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=11956 Jayme's introduction thread] on [[The AIC Forums]].
