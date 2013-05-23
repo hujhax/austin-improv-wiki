@@ -14,7 +14,7 @@
 * Friday 5pm: *[[Maestro]]*
 * Friday 7pm: "Flowey Donut" (free-form improv with the core improvisors)
 * Friday 8pm: *[[Start Trekkin']]*
-* Friday 9pm: *[[Wikipedia - TheatreSports|TheatreSports]]*
+* Friday 9pm: *[[Theatresports]]*
 * Friday 10pm: "This Week Tonight", improv inspired by the news
 * Friday 11pm: *[[Cochise]]*
 * Friday midnight: "Parlor Games"; twisted games with [[Your Terrific Neighbors]]
