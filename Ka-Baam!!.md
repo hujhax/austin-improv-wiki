@@ -127,6 +127,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 ## Media
 * [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset that includes both runs.]
 * [http://www.flickr.com/photos/majcher/tags/kabaam/ Photos of the 2009 run] from [[Marc Majcher]].
+* [http://www.youtube.com/watch?v=NWNM1jVvQGA Video of show intro].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=6771 Announcement of the opening of the first run] on [[The AIC Forums]].
