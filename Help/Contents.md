@@ -9,12 +9,14 @@ Anybody! To edit a page on the wiki, click the "Edit" link in the top right corn
 Alternately, you can type the title of a page you want to create into the search box and click "Go" -- if that page doesn't exist, the wiki will give you a link for creating it.
 
 
+**How do I make a new page?**<br/>
+[http://screencast.com/t/rJvTnPGn8 Here is a quick video demonstration] of how to do it.  Basically, the easy way to do it is to take an existing page for a troupe, a show, or a performer -- like [[The Foreign Legion|this troupe page]], [[Totally Improvised, 90210|this show page]], or [[Peter Rogers|this performer page]] -- as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
+
+
 **I haven't used a wiki before! How do I make my page look pretty?**<br/>
 First off, *don't worry about it*. It's *incredibly* easy for the rest of us to make the content you add look pretty. But it's hard (as in "impossible") for the rest of us to magically know the things that *you* know about the Austin improv scene. So be bold, make mistakes, and trust that the rest of this community has your back.
 
 But if you want to learn about wiki markup, [[Help/Formatting|this page]] gives a great summary.  Also, [[AIC Wiki Style Guide|the style guide]] can show you how to make your new page fit in with all the pages we've already got.
-
-If you'd like to make a new page for a troupe, a show, or a performer, try using [[The Foreign Legion|this troupe page]], [[Totally Improvised, 90210|this show page]], or [[Peter Rogers|this performer page]] as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.  [http://screencast.com/t/rJvTnPGn8 Here is a quick video demonstration.]
 
 
 **How do I show up in [[List of Austin Improv Performers|the performers category]]?**<br/>
