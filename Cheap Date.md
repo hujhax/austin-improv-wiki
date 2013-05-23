@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Cheap Date
 |Picture =     Cheap Date.jpg
-|Cast	=	{{Unbulleted list | [[Alejandro Garcia]] | [[Andrew Basile]] | [[Chrissy Shackleford]] | [[Jessica Marpe]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Nathan Sowell]] | [[Will Casto]] }}
+|Cast	=	{{Unbulleted list | [[Alejandro Garcia]] | [[Andrew Basile]] | [[Chrissy Shackelford]] | [[Jessica Marpe]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Nathan Sowell]] | [[Will Casto]] }}
 |Years	=		2013-Present
 }}
 
