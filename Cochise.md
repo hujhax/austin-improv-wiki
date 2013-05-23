@@ -4,7 +4,7 @@
 |Theater=	[[The Hideout Theatre]]	
 |Director =	{{Unbulleted list | [[Bob Apthorpe]] | [[Marc Majcher]] }}
 |Cast	=	[[Improv for Evil]]
-|Run	=	Nov 2008
+|Run	=	Nov/Dec 2008
 |Subsequent Runs =	Jan 2009
 }}
 
@@ -18,7 +18,7 @@ The show included over-the-top 70s costumes and many fake moustaches.
 ## History
 The name "Cochise" is a reference to a character in the Beastie Boys video "Sabotage", which traffics in the same genre as the improv show.
 
-The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show in November of that year.  After that, it played at the Long Fringe of [[Frontera Fest]] in January of 2009, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[The 40-Hour Improv Marathon]].
+The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[The 40-Hour Improv Marathon]].
 
 ### Frontera Fest Show Dates
 * January 21st, 2009 at 7:30pm 
