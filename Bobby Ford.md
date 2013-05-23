@@ -12,7 +12,7 @@ Bob completed classes at [[The Hideout Theatre]] with his friend and classmate, 
 
 Other classmates included [[Brad Hawkins]], [[Chad Wellington]], [[Katherine Greco]], and [[Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
 
-Bob is a fully out Star Wars nerd, owner/operator of Rogue Sage, gifted public speaker, filmmaker, director and marketing Jedi.  Bob has two dogs, *Wicket and Peanut*.
+Bob is a fully out *Star Wars* nerd, owner/operator of Rogue Sage, gifted public speaker, filmmaker, director and marketing Jedi.  Bob has two dogs, Wicket and Peanut.
 
 ## Troupes
 * [[Two Guys From Yonkers]] (2011 - Present)
