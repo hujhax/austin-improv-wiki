@@ -28,6 +28,7 @@ The show ran as [[The Hideout Theatre]]'s mainstage show in November of 2008.  A
 
 ## Media
 ![[Cochise Performance.jpg|A performance of *Cochise*.]]
+* [http://www.youtube.com/watch?v=gHYDvzQKeoM Cochise Premiere performance at Out of Bounds 2008]
 * [http://youtu.be/04yQnI0n7rg Video of the first performance of the first run: "Bad Santa".]
 * [http://www.youtube.com/watch?v=b6IpnJBVM34 Video of the second performance of the first run: "Something Smells at the Docks".]
 * [http://www.youtube.com/watch?v=VH9K1iQfmt4 Video of the third performance of the first run.]
