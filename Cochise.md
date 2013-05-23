@@ -36,3 +36,4 @@ The show ran as [[The Hideout Theatre]]'s mainstage show in November of 2008.  A
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=72523 The announcement of the dates] for [[Frontera Fest]] on [[The AIC Wiki]].
+* [http://www.austinchronicle.com/arts/2008-11-28/707074/ Article in *The Austin Chronicle* about the show.]
