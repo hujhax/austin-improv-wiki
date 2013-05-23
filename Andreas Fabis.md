@@ -19,6 +19,7 @@ Fabis was born in Düsseldorf, Germany.
 ## Shows
 * *[[Apocalypse]]* 
 * *[[The Black Vault]]*
+* *[[Crack!]]*
 * *[[The Derby]]*
 * *[[Dusk - Improvised Tween Erotica]]*
 * *[[Heist]]* 
