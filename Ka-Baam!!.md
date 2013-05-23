@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Ka-Baam!!
-|Picture=	Ka-Baam!! Logo.jpg
+|Picture=	Ka-Baam!! Logo.png
 |Theater=	[[The Hideout Theatre]]	
 |Director =	[[Asaf Ronen]]
 |Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Audrey Rachel Sansom]] | [[Eric Heiberg]] | [[Erik Adams]] | [[Jason Vines]] | [[Jon Clinkenbeard]] | [[Justin Davis]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Michael Thomas]] | [[Patrick Daniel]] | [[Roy Janik]] | [[Sarah Marie Curry]] | [[Troy Miller]] }}
