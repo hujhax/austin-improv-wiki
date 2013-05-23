@@ -130,6 +130,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=6771 Announcement of the opening of the first run] on [[The AIC Forums]].
+* [http://keepjustinwriting.com/2009/05/11/7/ Press release for the 2008 run] by [[Justin Davis]].
 * [http://www.austinchronicle.com/arts/2008-05-02/618700/ A story about the show in *The Austin Chronicle*] by [[Wayne Allen Brenner]]
 * [http://www.austinchronicle.com/arts/2009-01-02/721384/ The top ten arts events of 2008 (which included *Ka-Baam!!*)], by [[Wayne Allen Brenner]] for *The Austin Chronicle*
 * [http://forum.austinimprov.com/viewtopic.php?t=6953 An announcement of the 5/31/08 show] on [[The AIC Forums]].
