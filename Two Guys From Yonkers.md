@@ -24,10 +24,10 @@ The name is entirely based on the accent. Neither of the performers has ever eve
 ## Festivals
 ## Shows
 * *[[The Hyde Park FringeFest]]* (2012-2013)
-* *[The Hideout - The Threefer and The Weekender*
-* *[[Opening act for Parallelogramophonograph]]* (2000-)
-* *[[The Institution Triple Scoop]]*
-* *[[Coldtowne & Coldtown Cagematch]]*
+* *[The Hideout]] - The Threefer and The Weekender*
+* *Opening act for [[Parallelogramophonograph]]* (2000-)
+* *[[The Institution]] Triple Scoop*
+* *[[ColdTowne]] & Coldtowne Cagematch*
 
 ## More Information
 * [https://www.facebook.com/TwoGuysFromYonkers Two Guys From Yonkers Facebook Page]
