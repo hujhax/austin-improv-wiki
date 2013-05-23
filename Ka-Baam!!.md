@@ -14,7 +14,8 @@ It was based on [[Wikipedia - Golden Age of Comic Books|the Golden Age of superh
 
 ## Summary
 ### Show Structure
-The show would begin with origin stories for three different heroes, which were based on audience suggestions.  Meanwhile, a comics artist (often Kristin Hogan) would draw the cover art for an adventure for those heroes.  Finally, they would improvise a half-hour narrative superhero story based on that cover art.
+![[Ka-Baam!! Audience Winner.jpg|After every performance, one lucky audience member would win the show's cover art.]]
+The show would begin with origin stories for three different heroes, which were based on audience suggestions.  Meanwhile, a comics artist (often Kristin Hogan) would draw the cover art for an adventure for those heroes.  They would improvise a half-hour narrative superhero story based on that cover art, and one lucky audience member would receive the cover art as a prize.
 
 Throughout the show, director [[Asaf Ronen]] served as the narrator, occasionally providing interstitials which introduced advertisements or responded to viewer mail.
 
