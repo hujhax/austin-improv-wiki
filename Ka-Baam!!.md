@@ -120,7 +120,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * 10/2/09: *unknown*
 
 ## Media
-* [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset of the 2009 run.]
+* [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset that includes both runs.]
 * [http://www.flickr.com/photos/majcher/tags/kabaam/ Photos of the 2009 run] from [[Marc Majcher]].
 
 ## More Information
