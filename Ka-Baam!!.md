@@ -101,6 +101,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 ** [[Jason Vines]] as Captain Jelly Belly
 
 ### Guest Artists
+![[Ka-Baam!! Cover Art.jpg|Cover art from *Ka-Baam!!* by Andrew Augustine.]]
 #### 2008 Run
 * 5/3/08:  Thomas Reidy
 * 5/10/08:  Rob Osborne
