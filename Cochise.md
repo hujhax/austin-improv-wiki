@@ -18,7 +18,7 @@ The show included over-the-top 70s costumes and many fake moustaches.
 ## History
 The name "Cochise" is a reference to a character in the Beastie Boys video "Sabotage", which traffics in the same genre as the improv show.
 
-The show ran as [[The Hideout Theatre]]'s mainstage show in November of 2008.  After that, it played at the Long Fringe of [[Frontera Fest]] in January of 2009, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[The 40-Hour Improv Marathon]].
+The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show in November of that year.  After that, it played at the Long Fringe of [[Frontera Fest]] in January of 2009, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[The 40-Hour Improv Marathon]].
 
 ### Frontera Fest Show Dates
 * January 21st, 2009 at 7:30pm 
@@ -28,7 +28,7 @@ The show ran as [[The Hideout Theatre]]'s mainstage show in November of 2008.  A
 
 ## Media
 ![[Cochise Performance.jpg|A performance of *Cochise*.]]
-* [http://www.youtube.com/watch?v=gHYDvzQKeoM Cochise Premiere performance at Out of Bounds 2008]
+* [http://www.youtube.com/watch?v=gHYDvzQKeoM The premiere performance of *Cochise*] at [[The 2008 Out of Bounds Comedy Festival]].
 * [http://youtu.be/04yQnI0n7rg Video of the first performance of the first run: "Bad Santa".]
 * [http://www.youtube.com/watch?v=b6IpnJBVM34 Video of the second performance of the first run: "Something Smells at the Docks".]
 * [http://www.youtube.com/watch?v=VH9K1iQfmt4 Video of the third performance of the first run.]
