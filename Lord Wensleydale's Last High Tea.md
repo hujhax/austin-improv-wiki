@@ -42,7 +42,7 @@ Several events punctuated the high tea.  Shortly after the first course, the von
 * Nancy Bottomtop (from Limerick) -- [[Bridget Brewer]]
 * Penny -- [[Jayme Ramsay]]
 
-### Recognition
+## Recognition
 The event was nominated for an Austin Critics Table Award in 2013, under the category of "Theatrical Event."
 
 ## More Information
