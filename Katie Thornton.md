@@ -20,6 +20,7 @@ Katie started taking improv classes with [[Shana Merlin]] at [[The State Theater
 * *[[Braised in Texas]]*
 * *[[Dusk]]*
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
+* *[[Oscar Bait]]*
 * *[[The Sandbox]]*
 * *[[Totally Improvised, 90210]]* (Kelly Taylor)
 
