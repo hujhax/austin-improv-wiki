@@ -21,7 +21,8 @@ Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Th
 * *[[Strange Worlds]]* (Bellwether Blue)
 * *[[The Tribunal]]*
 * *[[Maestro]]*
-* *[Pick Your Own Path]*
+* *[[Pick Your Own Path]]*
+* *[[The Fancy Pants Mash-up]]*
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=11956 Jayme's introduction thread] on [[The AIC Forums]].
