@@ -27,6 +27,8 @@ The press blurb for the show from the show's web site:<blockquote>"*Ka-Baam!!* i
 ## History
 Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up with the idea for *Ka-Baam!!* in New York City in 1998.  Ronen performed in the show's four-year run there.  Once he arrived in Austin, he mounted the show at [[The Hideout Theatre]].  Its first run, which was from 5/3/2008 to 7/5/2008, was sponsored by Austin Books and Comics (who provided free comics).  Its second run was from 9/11/09 to 10/24/09, and included both Friday and Saturday shows.
 
+*Ka-Baam!!* was part of [[The 2008 Out of Bounds Comedy Festival]] and [[The 40-Hour Improv Marathon]].
+
 ### 2008 Cast
 * [[Audrey Rachel Sansom]]
 * [[Erik Adams]]
