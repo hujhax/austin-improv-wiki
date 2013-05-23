@@ -14,6 +14,7 @@
 
 ## Shows
 * *[[The Black Vault]]*
+* *[[Ka-Baam!!]]*
 * *[[Magna Veritas]]*
 * *[[The Next Chapter]]* (director)
 * *[[Spirited]]*
