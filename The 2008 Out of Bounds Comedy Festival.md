@@ -7,10 +7,10 @@ Its advertising and art were election-themed.
 ### Local Acts
 * [[$10 Bourbon]]
 * [[Buddy Daddy]]
+* *[[Cochise]]*
 * [[ColdTowne]]
 * [[Get Up]]
 * [[Girls Girls Girls]]
-* [[Improv for Evil]]
 * [[Improvised Shakespeare]]
 * [[Junk]]
 * [[Ka-Baam!!]]
