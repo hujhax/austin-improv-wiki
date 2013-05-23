@@ -16,13 +16,13 @@ Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Th
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
 * *[[The Cherry Bowl]]* (Anya)
+* *[[The Fancy-Pants Mashup]]*
 * *[[Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
+* *[[Maestro]]*
+* *[[Pick Your Own Path]]*
 * *[[Steam]]* (Crank)
 * *[[Strange Worlds]]* (Bellwether Blue)
 * *[[The Tribunal]]*
-* *[[Maestro]]*
-* *[[Pick Your Own Path]]*
-* *[[The Fancy-Pants Mashup]]*
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=11956 Jayme's introduction thread] on [[The AIC Forums]].
