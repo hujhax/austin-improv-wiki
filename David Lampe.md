@@ -16,3 +16,6 @@
 * *[[Hitchcocked!]]*
 * *[[Start Trekkin']]*
 * *[[The Violet Underbelly]]*
+* *[[Sci-Fi Double Feature]]*
+* *[[The Suitcase]]*
+* *[[Cops & Lawyers]]*
