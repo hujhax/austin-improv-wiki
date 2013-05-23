@@ -21,21 +21,21 @@ Fabis was born in Düsseldorf, Germany.
 * *[[The Black Vault]]*
 * *[[Crack!]]*
 * *[[The Derby]]*
-* *[[Dusk - Improvised Tween Erotica]]*
+* *[[Dusk]]*
+* *[[The Fancy-Pants Mashup]]*
 * *[[Heist]]*
 * *[[Ka-Baam!!]]*
 * *[[Live Nude Improv]]*
 * *[[Live TV Tuesdays -  Dawson's Creek]]*
 * *[[Love Fest]]*
 * *[[Magna Veritas]]*
+* *[[The Nightmare Video Project]]* (2011-2012)
 * *[[One More Night]]*
+* *[[Pick Your Own Path]]*
 * *[[Pulp Friction]]*
 * *[[Seance]]*
 * *[[Showdown]]*
 * *[[Spirited]]*
 * *[[Strange Worlds]]*
-* *[[The Nightmare Video Project]]* (2011-2012)
-* *[[The Fancy-Pants Mashup]]*
-* *[[Pick Your Own Path]]*
 
 [[Category/Performers|Fabis]]
