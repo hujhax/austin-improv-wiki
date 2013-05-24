@@ -26,8 +26,8 @@ The name is entirely based on the accent. Neither of the performers has ever eve
 * FRONTERAFEST Hyde Park (both 2012 & 2013)
 * [[The Hideout Theatre]] - [[The Threefer]] and [[The Weekender]]
 * Opening act for [[Parallelogramophonograph]] (2000-)
-* [[The Institution Theater]] [[Triple Scoop]]
-* [[ColdTowne Theater]] & [[The Cagematch]]
+* [[The Institution Theater]] in [[The Triple Scoop]]
+* [[ColdTowne Theater]] and their show the [[Cagematch]]
 
 ## More Information
 * [https://www.facebook.com/TwoGuysFromYonkers Two Guys From Yonkers Facebook Page]
