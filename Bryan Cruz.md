@@ -7,6 +7,9 @@
 
 **Bryan Cruz** is an improv performer.
 
+## History
+In 2012, Bryan moved away to Houston.
+
 ## Troupes
 * [[Gigglepants]] (co-founder)
 * [[No Chaser]]
