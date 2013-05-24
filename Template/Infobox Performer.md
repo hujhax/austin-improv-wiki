@@ -49,7 +49,7 @@ This template lists standard, useful information about an improv performer.
 {{#if: {{{Instruments|}}} |
 		<tr class="">
 			<th scope="row" class="category-header">Instrument(s)</th>
-			<td class="category">{{{Years|Unknown}}}</td>
+			<td class="category">{{{Instruments|Unknown}}}</td>
 		</tr>
 |}}
 	</table>
