@@ -48,6 +48,7 @@ They performed in [[The 2005 Out of Bounds Comedy Festival]], and did a one-off 
 * Musical - This is just what it says. Except of course, it's improvised.
 * Fortune Cookie - This borrowed format involves six characters that are all finishing up their meals at a Chinese restaurant. They each grab a fortune cookie and read it out to the rest of the table. This fortune is supposed to be their inspiration and guidance throughout the narrative to follow. We have done this incorrectly twice and are now scared of it.
 * Restaurant Booth - This one specifies that all the action must take place in one location, not necessarily a restaurant booth. Worked okay.
+* The Play Format - This took the audience through the production process of a (fictional) play, showing audiences parts of the table read, a rehearsal, and opening night.  This would eventually evolve into the show *[[Process]]*.
 
 ### Shortform Improv Formats
 * Giant 4 Year Anniversary show - A hugely massive show that included a murder mystery longform (format chosen by the audience), our first shot at Proxy Improv, and Ace singing a lovely tribute to the troupe in the key of Rod Stewart. The first 1,000 fans received a friendship bracelet, the second 1,000 fans received a car. 
