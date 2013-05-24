@@ -16,6 +16,7 @@ In 2012, Michael Thomas moved away to San Francisco.
 * [[No Chaser]]
 
 ## Shows
+* *[[Apocalypse]]*
 * *[[Dusk]]*
 * *[[Ka-Baam!!]]*
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (Steve Sanders)
