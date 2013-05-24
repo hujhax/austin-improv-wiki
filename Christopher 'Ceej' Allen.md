@@ -9,6 +9,9 @@
 
 "Ceej" is a diminutive of Allen's first two initials, C.J.
 
+## History
+Ceej will be a core cast member of [[The 44-Hour Improv Marathon]].
+
 ## Troupes
 * [[Confidence Men]]
 * [[Franz & Dave]]
