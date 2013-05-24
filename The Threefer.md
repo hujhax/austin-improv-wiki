@@ -15,9 +15,11 @@
 The acts are scheduled by [[Roy Janik]], who puts out a call for applications every two months.
 
 ## History
-*The Threefer* originated as an [[Austin Improv Collective]]-branded show in 2005, with a ticket price of $3.  Until mid-2006, its name was hyphenated: "Three-fer".
+*The Threefer* originated as *Threefer Madness*, an [[Austin Improv Collective]]-branded show in 2005, with three different troupes every Friday night at 8 PM for $10. Until mid-2006, its name was hyphenated: "Three-fer". The Threefer led into the [[Double Barrel]] at 10 PM, which featured two experienced improv troupes playing longer sets.
 
-Later, the show was taken over by [[The Hideout]], which had always hosted the event.  Inflation eventually drove the ticket price up to $5.
+Beginning in January 2009, [[The Hideout]] moved the Threefer to Thursday nights at 8 PM and instituted a few changes. Ticket prices were reduced from $10 to $3 and each month featured a headlining troupe who would host the show. [[The Starter Kit]] was the first troupe to headline the Threefer in its new format. 
+
+Inflation eventually drove the ticket price up to $5.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=113 An early call for submissions] from [[Dave Buckman]].
