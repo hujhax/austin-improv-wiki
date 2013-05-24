@@ -16,8 +16,8 @@
 * *[[Cops & Lawyers]]*
 * *[[Hitchcocked!]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
+* *[[Sci-Fi Saturdays]]*
 * *[[Start Trekkin']]*
 * *[[The Suitcase]]*
 * *[[Twilight Zoned]]*
 * *[[The Violet Underbelly]]*
-* *[[Sci-Fi Saturdays]]*
