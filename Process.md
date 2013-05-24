@@ -39,7 +39,7 @@ That winter, [[Jeremy Sweetlamb]] produced a holiday-themed run of the show at t
 ### The Hideout Mainstage Run
 When [[Jeremy Sweetlamb]] moved back to Austin, he immediately pitched the show to [[The Hideout Theatre]] under its new name.  It received a mainstage run there in March and April of 2012.  This run introduced new elements, mostly geared towards cranking up the theatricality and "completeness" of the show: a larger selection of props and costumes were kept backstage for the third act; they introduced a "Desi Team", three cast members who would sit backstage, listen to the show, and quickly design and build the elements they'd need for the third act; they created a display of fake headshots, complete with the fake names the performers had come up with during auditions, to display during intermission.
 
-It was so successful, they added an extra 6pm show on closing night.
+The run included a performance in [[The 2012 Improvised Play Festival]].  The run was so successful, they added an extra 6pm show on closing night.
 
 Many performances of the Hideout mainstage run had pre-determined genres:
 * Absurdism
