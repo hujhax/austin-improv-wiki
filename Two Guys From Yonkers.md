@@ -27,7 +27,7 @@ The name is entirely based on the accent. Neither of the performers has ever eve
 * [[The Hideout Theatre]] - [[The Threefer]] and [[The Weekender]]
 * Opening act for [[Parallelogramophonograph]] (2000-)
 * [[The Institution Theater]] [[Triple Scoop]]
-* [[ColdTowne]] & [[Coldtowne Cagematch]]
+* [[ColdTowne Theater]] & [[The Cagematch]]
 
 ## More Information
 * [https://www.facebook.com/TwoGuysFromYonkers Two Guys From Yonkers Facebook Page]
