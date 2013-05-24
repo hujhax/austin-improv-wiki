@@ -11,6 +11,7 @@
 Clay was a company member of [[Gnap! Theater Projects]].
 
 ## Troupes
+* [[Duck Duck Boom]]
 * [[The Professor]]
 
 ## Shows
