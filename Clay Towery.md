@@ -18,6 +18,7 @@ Clay was a company member of [[Gnap! Theater Projects]].
 * *[[The Black Vault]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Crack!]]*
+* *[[Doctors Without Boundaries]]*
 * *[[Guilds of Steel]]*
 * *[[Puppet Fever]]*
 * *[[Seance]]* (director)
