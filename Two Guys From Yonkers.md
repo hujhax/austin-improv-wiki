@@ -22,7 +22,6 @@ The name is entirely based on the accent. Neither of the performers has ever eve
 * [[Paul Normandin]]
 * [[Bob Olmstead]]
 
-## Festivals
 ## Shows
 * *[[The Hyde Park FringeFest]]* (2012-2013)
 * *[[The Hideout]] - The Threefer and The Weekender*
