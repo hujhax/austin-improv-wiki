@@ -26,7 +26,7 @@ Act three consisted of a section of opening night of the play.  By this point, t
 ### Before the Hideout Mainstage Run
 *Process* had its origins in "The Play Format", a longform that the [[Well Hung Jury]] came up with when they were invited (as an "experimental" act) to play a fringe stage at the Chicago Improv Festival in 1999 or 2000.  Instead of blank scripts, they used scripts with "IMPROV IMPROV IMPROV" printed in the layout of a play's script.  Instead of an opening "audition" section, the first act was a table read.  There was no stage-manager character, and the third act didn't include any costuming or props (all props were mimed).
 
-In the mid-2000s, [[The Available Cupholders]] played The Play Format sporadically, sometimes in combined shows with [[Parallelogramophonograph]].
+In the mid-2000s, the [[Available Cupholders]] played The Play Format sporadically, sometimes in combined shows with [[Parallelogramophonograph]].
 
 Then, in 2010, [[Jeremy Sweetlamb]] put together a group in New York City called The Hypotheticals.  (The group consisted of him, Lee Eddy, [[Ben Sterling]], Jeff Mills, Viviana Olen, Jeff Lepine, and [[Caitlin Sweetlamb]].)  They returned to The Play Format.  They tried introducing the audition section, and met with great success.  They also created the tech director/stage manager as a way to help the director keep things moving and straightened out endowment-wise.  The Hypotheticals played the format a number of times at The PIT and the Tank theater.
 
