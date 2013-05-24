@@ -18,7 +18,7 @@ In 2003, Jeremy left Austin for Chicago.  He returned in 2005.
 
 ## Shows
 * *[[Fakespeare]]* (Benedick / First Murderer)
-* *[[Process (director)]]*
+* *[[Process]]* (director)
 * *[[Thinning the Herd]]*
 
 [[Category/Performers|Sweetlamb]]
