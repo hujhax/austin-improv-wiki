@@ -14,6 +14,7 @@
 ## Content
 This section is for the most significant missing content on the site.
 
+* Add info from [http://forum.austinimprov.com/viewtopic.php?t=9591 this thread] and [http://forum.austinimprov.com/viewtopic.php?t=14630 this thread].
 * Make pages for other festivals.
 * Get the history of the Hideout on to its page.
 * Finish out pages for the [[List of Hideout Mainstage Shows in Chronological Order|Hideout mainstage shows]].
