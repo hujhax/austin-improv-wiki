@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Colin Thomas Bates	
 |Picture =	Colin Thomas Bates Pic.jpg
-|Theater=	Various
+|Theater=	[[Salvage Vanguard Theater]]
 |Years	=	2011-2012
 }}
 
