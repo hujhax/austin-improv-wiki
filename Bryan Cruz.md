@@ -8,7 +8,7 @@
 **Bryan Cruz** is an improv performer.
 
 ## History
-In 2012, Bryan moved away to Houston.
+In 2012, Bryan moved away to Houston.  Just before that, [[The Institution Theater]] threw him a farewell show.
 
 ## Troupes
 * [[Gigglepants]] (co-founder)
