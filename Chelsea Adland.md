@@ -12,7 +12,7 @@
 Chelsea Gilman started improvising when she auditioned successfully for [[We Could Be Heroes]] in 2000.
 
 ## Troupes
-* [[The Dancy Street D’Orchestra]] (drummer)
+* [[The Dancy Street D'Orchestra]] (drummer)
 * [[Girls Girls Girls]]
 * [[The Intentions]]
 * [[The Love Notes]] (2009-2010)
