@@ -7,7 +7,7 @@
 |Run	=	Oct 2010-Present
 }}
 
-***Pick Your Own Path*** is [[The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
+***Pick Your Own Path*** (original title: ***Choose Your Own Adventure***) is [[The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
 
 It is part of *[[The Wheel]]*.
 
