@@ -13,7 +13,7 @@
 * [[Girls Girls Girls]]
 
 ## Shows
-* *[[Fakespeare]]*
+* *[[Fakespeare]]* (Beatrice/Second Witch)
 * *[[Manhattan Stories]]*
 * *[[Process]]*
 
