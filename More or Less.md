@@ -9,7 +9,7 @@
 ***More or Less*** was a Johnstone format put on by [[The Hideout Theatre]].
 
 ## Summary
-In more or less, players take turns setting up scenes.  After each scene, the players ask the audience if they would like to see more or less of that story.  If the audience asks for "more", the current "director" sets up the next scene in the story, and they repeat the process.  If the audience asks for "less", another player gets a crack at being the director, and sets up something new.
+In *More or Less*, players take turns setting up scenes.  After each scene, the players ask the audience if they would like to see more or less of that story.  If the audience asks for "more", the current "director" sets up the next scene in the story, and they repeat the process.  If the audience asks for "less", another player gets a crack at being the director, and sets up something new.
 
 ## History
 The show was put on sporadically during the early years of the Hideout, but hasn't been such much since 2003.
