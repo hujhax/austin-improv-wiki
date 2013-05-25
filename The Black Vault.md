@@ -22,6 +22,13 @@ Each show was divided into three stories. A predetermined group of characters wo
 * Dreamscape -- Following the style of Lovecraft's "[[Wikipedia - Dream Cycle|Dream Cycle]]," these stories focused on the inner life of the dreaming mind, usually with a fantasy or science fiction bent.
 * Cosmic horror -- As in the stories in Lovecraft's "[[Wikipedia - Cthulhu Mythos|Cthulhu Mythos]]," these stories focused on unknowable and largely unseen forces from beyond the stars, represented on Earth by mysterious cults and strange ancient artifacts.
 
+## History
+After its mainstage run, there were a number of one-off shows:
+* 12/6/12: "Lovecraft Secrets", a mash-up with *[[Austin Secrets]]* that played at *[[The Free Fringe]]*.
+* 4/13/13: a 25-minute show played [[The 2013 Improvised Play Festival]].
+* 5/5/13: a 25-minute show played "nerd-prov", a nerd-themed quadruple-bill at *[[The Institution Theater]]*.
+* 5/23/13: "Pick Your Own Black Vault", a mash-up with *[[Pick Your Own Path]]* that played at *[[The Free Fringe]]*.
+
 ## Media
 * Sample video of [[Marc Majcher]]'s [http://vimeo.com/49958497 introduction to the show].
 * [http://vimeo.com/49647825 Video of the 9/15/2012 performance.]
@@ -31,5 +38,6 @@ Each show was divided into three stories. A predetermined group of characters wo
 * [http://vimeo.com/52665609 Video of the 10/27/2012 performance.]
 * [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset of 10/27/12 performance.]
 * [http://vimeo.com/52659608 Video of the 10/31/2012 performance.]
-* [http://vimeo.com/55421296 Video of the one-off "Lovecraft Secrets" show] (a mash-up with [[Austin Secrets]]), from 12/6/12.
-* [http://vimeo.com/64275476 Video of the 4/13/2013 performance] at [[The Improvised Play Festival]].
+* [http://vimeo.com/55421296 Video of the one-off "Lovecraft Secrets" show] (a mash-up with *[[Austin Secrets]]* at *[[The Free Fringe]]*), from 12/6/12.
+* [http://vimeo.com/64275476 Video of the 4/13/2013 performance] at [[The 2013 Improvised Play Festival]].
+* [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[Pick Your Own Path]]* at *[[The Free Fringe]]*), from 5/23/13.
