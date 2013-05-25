@@ -31,6 +31,7 @@ Sara also designed the [[Austin Improv Collective]]'s "kitchen sink" logo.
 * [[Puppet Improv Project]] productions:
 ** *[[Crack]]*
 ** *[[Elf Employment]]*
+** *[[Off the Reef]]*
 ** *[[Puppet Fever]]*
 ** *[[Puppet Katamari]]*
 ** *[[Trash]]*
