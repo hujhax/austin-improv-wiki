@@ -6,7 +6,7 @@
 |Assistant Director =	[[Marc Majcher]]
 |Music= [[David Zimmerman]]
 |Run=							Sep/Oct 2011
-|Cast	=		{{Unbulleted list | [[Andreas Fabis]] | [[Andrew Pish]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Halyn Lee Erickson]] | [[Menelaos Prokos]] | [[Jason Vines]] | [[Jessica Arjet]] | [[John Buseman]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Kayla Freeman]] | [[Leng Wong]] | [[Liz Brammer]] | [[Peter Rogers]] | [[Sarah Marie Curry]] | [[Taylor Overstreet]]}}
+|Cast	=		{{Unbulleted list | [[Andreas Fabis]] | [[Andrew Pish]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Halyn Lee Erickson]] | [[Menelaos Prokos]] | [[Jason Vines]] | [[Jessica Arjet]] | [[John Buseman]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Kayla Lane Freeman]] | [[Leng Wong]] | [[Liz Brammer]] | [[Peter Rogers]] | [[Sarah Marie Curry]] | [[Taylor Overstreet]]}}
 |Tech	=	[[Neal Tibrewala]]
 }}
 
