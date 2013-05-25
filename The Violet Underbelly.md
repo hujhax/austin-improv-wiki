@@ -34,7 +34,7 @@ After its main run, the show performed one mash-up night with [[False Matters]] 
 ** [http://vimeo.com/23268142 Video] by [[Peter Rogers]].
 * 4/30/11 performance:
 ** [http://vimeo.com/24140520 Video] by Stephen Reynolds.
-* Performance at the 2011 [[Improvised Play Festival]] (date unknown):
+* 7/2/11 performance at [[The 2011 Improvised Play Festival]]:
 ** [http://vimeo.com/26180322 Video] by [[The Hideout Theatre]].
 * "Violet Matters", the 6/23/12 mash-up with [[False Matters]].
 ** [http://vimeo.com/44619659 Video] by [[Peter Rogers]].
