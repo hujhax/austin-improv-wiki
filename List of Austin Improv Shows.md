@@ -53,24 +53,25 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 
 ## [[The Hideout Theatre]]
 ### Ongoing Shows
-* *[[Gorilla Theater]]*
-* *[[More or Less]]*
-* *[[The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
-** *[[The Lottery]]*
-** *[[The Nightmare Video Project]]*
-** *[[Dubbed Indemnity]]*
-** *[[The TV Set]]*
-** *[[The Narrative Improv Jam]]*
-** *[[The Fancy-Pants Mashup]]*
-** *[[Pick Your Own Path]]*
-** *[[2x4]]*
-** *[[Maestro|Maestro RAW]]*
-* *[[Maestro]]*
 * *[[Flying Theater Machine]]*
-* *[[The Weekender]]*
-* *[[The Threefer]]*
-* *[[The Spectacle]]*
 * *[[The Free Fringe]]*
+* *[[Gorilla Theater]]*
+* *[[Maestro]]*
+* *[[More or Less]]*
+* *[[Six Degrees]]*
+* *[[The Spectacle]]*
+* *[[The Threefer]]*
+* *[[The Weekender]]*
+* *[[The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
+** *[[2x4]]*
+** *[[Dubbed Indemnity]]*
+** *[[The Fancy-Pants Mashup]]*
+** *[[The Lottery]]*
+** *[[Maestro|Maestro RAW]]*
+** *[[The Narrative Improv Jam]]*
+** *[[The Nightmare Video Project]]*
+** *[[Pick Your Own Path]]*
+** *[[The TV Set]]*
 
 ### Mainstage Productions
 The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, each show has had a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.  For more information see the [[List of Hideout Mainstage Shows in Chronological Order]].
