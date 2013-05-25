@@ -15,7 +15,7 @@ It ran from 4/11/13 to 4/13/13.
 * [[In Our Prime]]
 * *[[Live Nude Improv]]*
 * [[Local Genius Society]]
-* [[Miller & Purselley]]
+* [[Miller and Purselley]]
 * [[Parallelogramophonograph]] 
 * *[[Past Lives]]*
 * *[[Pulp Friction]]*
