@@ -1,7 +1,27 @@
-This is a **list of Hideout mainstage shows in chronological order**, from March 2006 to today.
+This is a **list of Hideout mainstage shows in chronological order**.
+
+Note that in the early years, specific runs of shows were rare.  Apart from *[[Start Trekkin']]*, [[Sean Hill]] presented various Keith Johnstone formats in its Saturday 8pm slot.
 
 {| class="wikitable"
 |**Start Date**||**End Date**||**Show**||**Directed by**
+|-
+|1999||5/14/04||(Various Johnstone formats)||[[Sean Hill]]
+|-
+|5/15/04||5/29/04||*[[Start Trekkin']]*||[[Sean Hill]], [[Troy Miller]]
+|-
+|5/30/04||3/31/05||(Various Johnstone formats)||[[Sean Hill]]
+|-
+|5/15/04||5/29/04||*[[Start Trekkin']]*||[[Sean Hill]], [[Troy Miller]]
+|-
+|5/30/04||3/31/05||(Various Johnstone formats)||[[Sean Hill]]
+|-
+|4/1/05||5/31/05||*[[Start Trekkin']]*||[[Sean Hill]], [[Troy Miller]]
+|-
+|6/1/05||8/30/05||(Various Johnstone formats)||[[Sean Hill]]
+|-
+|9/1/05||11/30/05||*[[Start Trekkin']]*||[[Sean Hill]], [[Troy Miller]]
+|-
+|12/1/05||3/3/06||(Various Johnstone formats)||[[Sean Hill]]
 |-
 |3/4/06||4/8/06||*[[The Great Mundane]]*||[[Jay Bernardo]], [[Jon Hunt]]
 |-
