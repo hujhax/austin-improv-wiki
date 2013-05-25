@@ -10,6 +10,8 @@
 He is a graduate of the ColdTowne Conservatory at [[ColdTowne Theater]].
 
 ## Troupes
+* [[Corporate Synergy]]
+* [[Dr. Doctor]]
 * [[Oh, Science!]]
 
 
