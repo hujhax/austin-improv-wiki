@@ -30,11 +30,12 @@ Sara also designed the [[Austin Improv Collective]]'s "kitchen sink" logo.
 * [[Live TV Tuesdays -  Angel]] (assistant director)
 * [[Puppet Improv Project]] productions:
 ** *[[Crack]]*
+** *[[Elf Employment]]*
 ** *[[Puppet Fever]]*
 ** *[[Puppet Katamari]]*
 ** *[[Trash]]*
 ** *[[Wild West Puppets]]*
-
+* *[[Seance]]*
 [[Category/Performers|Farr]]
 [[Category/Techs|Farr]]
 [[Category/Active|Category:Active]]
