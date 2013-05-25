@@ -4,9 +4,8 @@
 |Theater=	[[Salvage Vanguard Theater]]
 |Producer=      [[Gnap! Theater Projects]]
 |Director =	[[Shannon McCormick]]
-|Cast	=	{{Unbulleted list|[[Shannon McCormick]]|[[Marc Majcher]]|[[Kareem Badr]]|[[Courtney Hopkin]]|[[Liz Brammer]]|[[Kristin Firth]]|[[Kevin Miller]]|[[Ruby Willmann]]|[[Jon Bolden]]|[[Kyle Traughber]]|[[Craig Kotfas]]}}
-|Tech	=	{{Unbulleted list
-| [[Sam Schak]]}}
+|Cast	=	{{Unbulleted list | [[Courtney Hopkin]] | [[Craig Kotfas]] | [[Jon Bolden]] | [[Kareem Badr]] | [[Kevin Miller]] | [[Kristin Firth]] | [[Kyle Traughber]] | [[Liz Brammer]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Shannon McCormick]] }}
+|Tech	=	[[Sam Schak]]
 |Run	=	May-June 2011
 |Subsequent Runs = August 2012–
 |Tagline = Stories Improvised in the Style of Philip K. Dick
