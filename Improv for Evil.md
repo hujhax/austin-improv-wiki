@@ -14,7 +14,6 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ## History
 ### Former Members
-* [[Mike Karrdak]]
 * [[Nadine Latief]]
 
 ## Media
