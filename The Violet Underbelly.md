@@ -5,7 +5,7 @@
 |Director =		[[Kareem Badr]]
 |Run=							Mar/Apr 2011
 |Tech= {{Unbulleted list | [[David Zimmerman]] | [[Michael Yew]] }}
-|Cast	=		{{Unbulleted list | [[Audrey Sansom]] | [[David Lampe]] | [[Deano Jones]] | [[Jay Michael]] | [[Jessica Arjet]] | [[Jon Clinkenbeard]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kristin Firth]] | [[Marc Majcher]] | [[Mo Daviau]] | [[Peter Rogers]] | [[Roy Janik]] | [[Troy Miller]] | [[Zac Grantham]]}}
+|Cast	=		{{Unbulleted list | [[Audrey Rachel Sansom]] | [[David Lampe]] | [[Deano Jones]] | [[Jay Michael]] | [[Jessica Arjet]] | [[Jon Clinkenbeard]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kristin Firth]] | [[Marc Majcher]] | [[Mo Daviau]] | [[Peter Rogers]] | [[Roy Janik]] | [[Troy Miller]] | [[Zac Grantham]]}}
 }}
 
 ***The Violet Underbelly*** was a mainstage show at [[The Hideout Theatre]] which presented narrative longform inspired by [[Wikipedia - Film noir|film noir]].
