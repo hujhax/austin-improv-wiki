@@ -13,7 +13,7 @@
 ## Summary
 The director deliberately steered the show away from the traditional, wackier signifiers of film noir -- the gumshoes, the voiceover, and the heightened language that often serves to poke fun at the genre -- and aimed for a grittier tone that was truer to the actual source material.
 
-After its main run, the show performed one mash-up night with [[False Matters]] (called "Violet Matters"), but otherwise hasn't been done since.
+After its main run, the show was performed once at [[The 2011 Improvised Play Festival]], and then once more in a one-off mash-up night with [[False Matters]] (called "Violet Matters").  Other than those two shows, it hasn't been done since.
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.203882802970620.62905.203880682970832&type=3 Publicity photos] by [[Jon Bolden]].
