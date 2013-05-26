@@ -23,6 +23,7 @@ She was a core cast member of [[The 41-Hour Improv Marathon]], and will be a cor
 * [[Your Dad's Friends]]
 
 ## Shows
+* *[[Blood, Sweat, and Cheers]]* (Barbara Davis)
 * *[[Charles Dickens Unleashed]]*
 * *[[Live Nude Improv]]*
 * *[[The Black Vault]]*
