@@ -34,7 +34,8 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ## More Information
 * [http://www.yourterrificneighbors.com/ The troupe's website.]
-* [ The troupe's facebook page.]
+* [http://www.facebook.com/YourTerrificNeighbors The troupe's facebook page.]
+* [http://austin.culturemap.com/news/arts/05-24-13-meet-your-terrific-neighbors-the-sketch-comedy-vets-keeping-it-weird/ An *Austin Culture Map* interview with the troupe] for the 2012 [[Austin Sketchfest]]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
