@@ -38,7 +38,7 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 * *[[After School Improv]]* (Performed and Directed)
 * *[[The Andersons]]*
 * *[[Austin Secrets]]*
-* *[[Blood, Sweat, and Cheers]]*
+* *[[Blood, Sweat, and Cheers]]* (June Davis, writer, producer)
 * *[[The Cagematch]]*
 * *[[Charles Dickens Unleashed]]* (Performed and Directed)
 * *[[The Derby]]*
