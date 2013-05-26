@@ -45,7 +45,6 @@ These are troupes that still need pages created for them.
 * [[Kosher Bacon]]
 * [[The Nesting Dolls]]
 * [[Polite Society Presents]]
-* [[Ratliff & Jackson]]
 * [[Scout]]
 * [[Shades of Brown]]
 * [[The Sicks]]
