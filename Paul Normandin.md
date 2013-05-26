@@ -31,17 +31,18 @@ Paul is currently a teaching assistant at [[The Hideout Theatre]].
 * [[We're Here to Date Your Daughter]] (2012 - Present)
 
 ## Shows
+* *[[Austin Secrets]]* (Season 3 - 2012)
+* *[[The Black Vault]]* (2012-)
+* *[[Blood, Sweat, and Cheers]]* (Bob Davis)
+* *[[The Cagematch]]*
+* *[[The Derby]]* 
 * *[[EPIC!]]* (Season 1 & 2 - 2011)
+* *[[The Fancy-Pants Mashup]]*
 * *[[Maestro]]* (2000-)
 * *[[Maestro Raw]]* (2012-)
-* *[[The Derby]]* 
-* *[[The Cagematch]]*
-* *[[The Fancy-Pants Mashup]]*
-* *[[The Sword of Merlin Works]]* (2012)
-* *[[Pick Your Own Path]]*
-* *[[The Black Vault]]* (2012-)
-* *[[Austin Secrets]]* (Season 3 - 2012)
 * *[[The Next Chapter]]* (2013)
+* *[[Pick Your Own Path]]*
+* *[[The Sword of Merlin Works]]* (2012)
 
 
 [[Category/Performers|Normandin]]
