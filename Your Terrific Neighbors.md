@@ -15,6 +15,8 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 <p>Volleyball children, magic sex pencilists, submarine dads, jazzercise preachers, and dudes who love to 69, bro - these are but a few of Your Terrific Neighbors. One of Austin's most passionately loved (and loving) sketch troupes, Your Terrific Neighbors are out there dropping fresh sketches on the community's head on a monthly basis. They've been doing it for 4(ish) years and pride themselves on creating some of the most smartly dumb, dumbly smart, sweetly sick, sickly sweet comedy around, depending on what you mean by 'around.'"</p></blockquote>
 
 ## History
+The troupe participated in [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]] with their "Parlor Games" format.
+
 ### Show Runs
 * "Ronald Stepp Presents Ron Stepp and the Stepp Sisters"
 
