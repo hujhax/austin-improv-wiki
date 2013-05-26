@@ -26,8 +26,8 @@ Paul is currently a teaching assistant at [[The Hideout Theatre]].
 
 ## Troupes
 * [[Apocalypse]] (2012)
-* [[Two Guys From Yonkers]] (2011 - Present)
 * [[In Our Prime]] (2011 - Present)
+* [[Two Guys From Yonkers]] (2011 - Present)
 * [[We're Here to Date Your Daughter]] (2012 - Present)
 
 ## Shows
