@@ -45,6 +45,7 @@ Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25
 * [http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3 Promo photo shoot] by [[Jon Bolden]].
 
 ## More Information
+* [http://www.austincheershow.com/Austin_Cheer_Show/Welcome.html The show's web site.]
 * [http://www.kickstarter.com/projects/kacibeeler/it-takes-blood-sweat-and-cheers-to-make-theater The show's kickstarter.]
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=15140 "Save the date" post] on [[The AIC Forums]].
 * [http://austincheershow.blogspot.com/ The show's blog.]
