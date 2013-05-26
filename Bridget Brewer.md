@@ -8,6 +8,7 @@
 **Bridget Brewer** is an improv performer.
 
 ## Shows
+* *[[Blood, Sweat, and Cheers]]* (sound tech)
 * *[[Fandom]]*
 * *[[Flying Theater Machine]]*
 * *[[Seance]]*
