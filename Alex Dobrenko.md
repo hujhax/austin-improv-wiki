@@ -16,6 +16,7 @@ Alex first took classes at [[The Hideout Theatre]] with [[Andy Crouch]] in 2010.
 
 ## Shows
 * *[[Austin Secrets]]*
+* *[[Blood, Sweat, and Cheers]]* (James Kowalski)
 * *[[Cover to Cover]]*
 * *[[Manhattan Stories]]*
 * *[[Process]]*
