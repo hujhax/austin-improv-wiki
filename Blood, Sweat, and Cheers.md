@@ -4,7 +4,7 @@
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Roy Janik]]
 |Producer = [[Kaci Beeler]]
-|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Amy Gentry]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Halyn Erickson]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] | [[Paul Normandin]] }}
+|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Amy Gentry]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Halyn Lee Erickson]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] | [[Paul Normandin]] }}
 |Run	=	May/Jun 2013
 }}
 
