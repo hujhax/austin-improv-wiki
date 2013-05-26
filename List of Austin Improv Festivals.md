@@ -1,5 +1,6 @@
-This is a list of improv festivals that happen in and around Austin.
+This is a list of festivals associated with the Austin improv scene.
 
+* [[Austin Sketchfest]]
 * [[Hell Yes Fest]]
 * [[The Hideout Improv Marathon]]
 * [[Improv Wins!]]
