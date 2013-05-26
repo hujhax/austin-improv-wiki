@@ -18,7 +18,7 @@ The script was written by [[Amy Gentry]] and [[Kaci Beeler]], based on improvisa
 * June Davis -- [[Kaci Beeler]]
 * Gabriella "Gabi" Romero -- [[Karen Jane DeWitt]]
 * James Kowalski  -- [[Alex Dobrenko]]
-* Kennedy Campbell  -- [[Halyn Erickson]]
+* Kennedy Campbell  -- [[Halyn Lee Erickson]]
 * Chrissy McCarthy  -- [[Kayla Lane Freeman]]
 * Katherine Pepper (Coach Kay) -- [[Amy Gentry]]
 * Samantha "Sam" Rogers -- [[Courtney Hopkin]]
