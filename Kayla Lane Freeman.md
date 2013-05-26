@@ -18,6 +18,7 @@ Kayla will appear in [[The 44-Hour Improv Marathon]] as a core cast member.
 
 ## Shows
 * *[[Austin Secrets]]*
+* *[[Blood, Sweat, and Cheers]]* (Chrissy McCarthy)
 * *[[Pocketful of Posies]]*
 * *[[Spirited]]*
 * *[[Stool Pigeon]]*
