@@ -21,6 +21,7 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 
 ## Shows
 * *[[Austin Secrets]]*
+* *[[Blood, Sweat, and Cheers]]* (Samantha "Sam" Rogers)
 * *[[Charles Dickens Unleashed]]*
 * *[[Dusk]]*
 * *[[Fandom]]*
