@@ -1,38 +1,39 @@
-This **list of *[[Free Fringe]]*s** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/11 inaugural show to 5/23/13.
+This **list of *[[Free Fringe]]*s** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 5/23/13.
 
-* 1/5/2011: 
+## 2012 Shows
+* 1/5/2012: 
 ** Drag: It's simple. Girls dress up as guys. Guys dress up as girls. Everyone plays opposite their actual gender. We get 4 guys and 4 girls in drag up on stage and do a montage. Anything goes. 
 ** The New Game Project: In shows like Maestro that feature improv games, we've got a ton of favorites that we bust out week after week. In the New Game Project we're throwing all those out of the window. We'll take names of non-existent games from the audience and invent new games on the fly. And who knows, the ones we like the best might make their way back into Maestro.
 ** [[Firth&Arjet]]
-* 1/12/2011: 
+* 1/12/2012: 
 ** Shortform Mashup: Every Saturday for the past 12 years or so we have played improv games during Maestro, our most popular show... games like The Alphabet Game, No Questions, Pan Left/Pan Right, and so on. On their own they're a blast, but what happens when we combine games together? Madness, that's what. Alphabet Hell Dub? Movies Bodies Samurai Showdown? Come see the brains of improvisers get super broken. 
 ** The Floor is Lava! This one's not that weird. Everyone improvises as normal... except the floor is lava! Improvisers have to perform on top of chairs, benches, blocks, etc... whatever they can do to keep off the floor. If they touch they floor, they die, and have to leave the scene. What? 
 ** [[Firth&Arjet]]:  Always a Bridesmaid
-* 1/19/2011: 
+* 1/19/2012: 
 ** Ding!, produced by [[Mike Kinald]]: At the Hideout Theatre, we love to tell stories. Many of our shows are full length improvised plays! But we also games, like in Maestro, our most popular show. Ding! is an experiment to combine the two. Four to six improvisers will be performing a short narrative. But every time a bell rings, they pick a game (like Alphabet, scene in reverse, etc...) out a hat. They then have to *use* that game to help tell the story. Expect madness. Expect confusion. Expect a surprisingly cohesive story despite (or perhaps because of) all the challenges along the way. 
 ** Blind Montage, produced by [[Amy Dietze]]: There's a decently common improv format called the Bat, which is like a radio play in the dark. The lights go out and the improvisers do all the scenework using only their voices and imaginations. The Blind Montage reverses that idea and flips it around. The lights will stay on, but for the entire show, the improvisers will be blindfolded. Can two actors connect emotionally without being able to see? Can they effectively hand one another a cup? Can they avoid injury to life and limb? There's only one way to find out. 
 ** [[Firth&Arjet]]:  Always a Bridesmaid
-* 1/26/2011: 
+* 1/26/2012: 
 ** LADIES NIGHT! Join the Hideout for the first ever Ladies Night at the Free Fringe. Funny, talented ladies from all over the Austin improv scene will be converging on The Fringe to mix it up. The ladies will be divided into 3 troupes who will each decide on a format and then almost immediately perform it. Expect the energy in the air to be incredible. 
 ** [[Firth&Arjet]]:  Always a Bridesmaid
-* 2/2/2011: 
+* 2/2/2012: 
 ** GrimmNoire: Ever wonder what Cinderella would look like if written by Dashiell Hammett? How about if The Big Bad Wolf was looking for a "Special Package" when Red came down the path? It's Grimm's Fairy Tales in the style of Film Noir. One fairy tale is retold in the style of Noir. starring: [[Mike Kinald]], [[David Lampe]], [[Jason Vines]], [[Topping Haggerty]], [[Halyn Lee Erickson]]
 ** Tamales! We have a large container of cooked tamales on stage. + We do improv scenes. = At least one person must be eating a tamale at all times during any given scene. Improvisers must justify why one person has their mouth full. starring: [[Jason Vines, Mike Kinald, Eric Heiberg, Ann Wilson]], [[Amy Averett]], [[Meredith Newell]], [[Victoria Bui]], [[John Buseman]]
 ** [[Firth&Arjet]]:  Always a Bridesmaid
-* 2/9/2011: 
+* 2/9/2012: 
 ** The Bestiary, produced by [[Thedward Blevins]]: There's a pretty awesome technique/game in improv where you play your character by taking on the characteristics of animals in human form. So if you're a mouse, you might play shy but excitable. The Bestiary takes that one step further. All the characters are animals. They cannot speak human language; they can only make animal noises. starring: [[Brad Hawkins]], [[Sandra Ybarra]], [[Marguax Binder]], [[Karen Jane DeWitt]], [[Thedward Blevins]]
 ** Spirit of Influence, produced by [[Mitchell Deane]]: The bareness of the improv stage is both its blessing and its curse. A few chairs, a few curtains, and our words are used to create everything in the universe. But there's so much that's unseen. In Spirit of Influence, there will be an "unseen" person who provides the characters and scenes with subtext and texture by stating these things out loud. This can be anything from granting characters emotions such as "rage" or "euphoria" to giving them specific characteristics like "allergic to peanuts" or "has Smashmouth song stuck in his head" starring: [[Mitchell Deane]], [[Karen DeWitt]], [[Brandon Martin]], [[Sam Schak]], and [[Heidi Rogers]]
 ** The Library, produced by [[Justin Davis]]: We all have our own unique perspective on life. No two people are the same. But what happens when all the people in a story literally come from different universes? The library is a long-form narrative show with each improviser playing from a different genre perspective. Science fiction, romance, horror, Southern gothic, quirky meet-cute indie movie, whatever. One story, multiple genres. starring: [[Justin Davis]], [[Kacey Samiee]], [[Nicole Beckley]], [[Jon Bolden]], and [[Karen Jane DeWitt]] 
 ** [[Firth&Arjet]]:  Always a Bridesmaid
-* 2/16/2011: 
+* 2/16/2012: 
 ** Formats on Shuffle, produced by [[Chris Sebilia]]: On one wheel many different styles of improv. On the second wheel several different audience suggestions. We spin the wheels. *spin* *spin* *spin* Looks like we're doing an opera about Cracker Jacks. *spin* No, wait, opera has been skipped over, and now it's a VH1 Behind the Music about the life and times of Cracker Jack. 4 minutes later, we spin the wheels again. *spin* *spin* *spin* 
 ** Mousetrap! Improv is at its most exciting when the performers are taking risks and on the edge of failure. Most of the time that means making bold choices in scenes, or showing emotional vulnerability. But sometimes you have to break out the big guns. And by guns we mean mousetraps. The stage will be scattered with mousetraps, and blindfolded improvisers will have to navigate them while doing scenes. Gimmicky? Painful? Ridculous? Yes, yes, yes. Our pain is your reward. 
 ** [[Firth&Arjet]]: Always a Bridesmaid
-* 2/23/2011: 
+* 2/23/2012: 
 ** Alternate Ending, produced by [[Jason Oliver]]: This show takes stories, books, and movies that we all know and love, and indulges in a bit of wish fulfillment. The improvisers will take suggestions for stories that are crying out to be rewritten. First, they'll perform a mostly accurate version of the original ending, and then throw the script away to find out what could have happened. These are the Director's endings, the insane endings, the just endings, the "What should have happened" endings. starring: Jason Oliver, Chuy Zarate, Arby Gonzales, Zac Grantham 
 ** Mixed Modes, produced by [[Paul Normandin]]: Allison is done with improv. She's decided to return to the world of scripted theatre, and she's dragging the rest of us along with her. She'll be performing the entire show with a script (only known to her), including all her lines and stage directions. Everyone else had better catch up, and make sense of whatever miscommunications happen along the way. starring: Allison Asher, Ryan Hill, Jessica Arjet, Katherine Greco, Gloria Bankler, Paul Normandin 
 ** [[Firth&Arjet]]: Always a Bridesmaid
-* 3/01/2011: 
+* 3/01/2012: 
 ** The Mitch-o-Scene, produced by [[Jeff O'Leary]]: The late, great Mitch Hedberg was a fantastic comedian: surreal, unconventional, and brilliantly insane. So what happens when a bunch of improvisers play tribute to Mitch by all pretending to be him while doing improv? Who knows. Is this idea too out there even for the extremely out there Free Fringe? Quite possibly!  Starring: Andy Campbell, Ashley Carlisle, Stephanie Hagemeister, Dan Kerrigan, Jeff O'Leary, Nichole Oliver and Kevin Smith 
 ** DrunkProv, produced by [[Chuy Zarate]]: Speaking of questionable ideas, here's another one. There are 4 performers. There is one case of beer. The case must be completely drunk by the end of the show. Insanity prevails. starring: David Lampe, Blynch, Jessica Arjet, Chuy Zarate 
 ** Headliners: [[Firth&Arjet]]
@@ -72,7 +73,7 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 ** [[Firth&Arjet]]: Tomboys
 * 5/17/2012: 
 ** My Best Fiend
-** Evil Peter Rogers, produced by [[Kevin Miller -  Peter Rogers]]: affable, witty, introverted--and above all, exceptionally nice. €¦Or so we thought. Turns out Peter Rogers has a dark side, an EVIL side, that comes out to play at the most random of moments. This format will insert Peter Rogers, playing himself, into a variety of real-world situations. At any moment, players from the sides can tag Peter out and become Evil Peter Rogers, sabotaging the situation in any way they see fit. Peter must then re-enter the stage and attempt to justify or salvage the horrible evil thing he's just done. starring: [[Kevin Miller]], [[John Buseman]], [[Brad Hawkins]], [[Christine Giordano]], [[Peter Rogers]]
+** Evil [[Peter Rogers]], produced by [[Kevin Miller]]: [[Peter Rogers]]: affable, witty, introverted--and above all, exceptionally nice. Or so we thought. Turns out Peter Rogers has a dark side, an EVIL side, that comes out to play at the most random of moments. This format will insert Peter Rogers, playing himself, into a variety of real-world situations. At any moment, players from the sides can tag Peter out and become Evil Peter Rogers, sabotaging the situation in any way they see fit. Peter must then re-enter the stage and attempt to justify or salvage the horrible evil thing he's just done. starring: [[Kevin Miller]], [[John Buseman]], [[Brad Hawkins]], [[Christine Giordano]], [[Peter Rogers]]
 ** [[Firth&Arjet]]: Tomboys
 * 5/24/2012: 
 ** The Improv Bachelor, produced by [[Brad Hawkins]]: It's like a dating reality show, only for improv duos. There will be an improviser chosen to be the Bachelor and three or four contestants. A director sets up some scenes, and the Bachelor is paired with each of the contestants in turn. The audience judges the scenes, and the winning pairing forms a duo which is given a slot in the next Hideout schedule. 
@@ -185,15 +186,17 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 ** Preacher Roommate Detective Squad, produced by [[Mitchell Deane]]: They are preachers. They are roommates. They are freelance detectives. They are... the Preacher Roommate Detective Squad. starring: [[Mitchell Deane]], [[Chris Allen]], [[Kevin Miller]], [[Claudio Fox]], [[Scott Hearne]]
 ** Expectoratin' with [[Julie Gillis]], produced by [[Julie Gillis]]: We've all got things we want to get off our chest... fears, secrets, pet peeves, aliens, and mucus. This show is about that. With [[Julie Gillis]]. starring: [[Kevin Miller]], [[Jordan T. Maxwell]], [[Ashlee Medlin]], [[Marc Majcher]] 
 ** Headliners: Your Dad's Friends
-* 1/3/2012: 
+
+## 2013 Shows
+* 1/3/2013: 
 ** Austin Free Hug Day Adventure, produced by [[Sandra Ybarra]]: Scenes inspired by the experiences of local improvisers who braved the rain and cold weather to reach out and hug a stranger to brighten up their lives. Everyone needs a hug. Come feel the change. starring: [[Adriane Shown]], [[Cassidy Santaguida]], [[Christopher Sebilia]], [[Luke Wallens]], [[Ryan Hill]], [[Sandra Ybarra]], and [[Victoria Hawthorne]]
 ** It's a Wonderful Resolution, produced by [[Travis Devitt]]: New Years resolutions are notoriously difficult to actually carry out and most people fail at them. We'll be getting actual New Years resolutions from the audience and do an improvised set of scenes based on what life will be like for the audience member if they actually stick with their resolution. starring: [[Travis Devitt]], [[Ryan Austin]], [[Luke Wallens]], [[Heidi Rogers]], [[Brandon Martin]], [[And Kim Dilling]]
 ** [[Firth&Arjet]]: Once Upon a Time
-* 1/10/2012: 
+* 1/10/2013: 
 ** Mystery Project, produced by [[Jason Vines -  We have no idea what Jason Vines is up to this week. But this is the man who brought us Drag!, The Floor is Lava, Sht Ton of Hugs, and the infamous Tamales. We only requested that he not make a mess (see]]: Tamales). Other than that, it's wide open. 
 ** What Are You Scared of?, produced by [[Gloria Bankler]]: It's a chain of intimidation. One improviser invites another improviser they're scared to perform with to do a scene with them. They in turn, have invited someone else... and so on. Will we learn a lot about human nature? it's entirely possible. 
 ** Blue Monsters!, produced by <redacted>: Okay - First thing is that monsters don't believe in humans. If you don't get that the whole show falls apart. Also you should know that monsters have families - of course they have families - otherwise where would baby monsters come from. Third if you happen to be playing this show for kids at some random, unnamed theater, for two months, then maybe you have some ideas, thoughts, or curse words that you'd never say in front of kids, but geez do you wanna pull that stuff out once in awhile.  So this Thursday, in the Free Fringe, a bunch of people who perform for kids at an unnamed theater, in an [[Flying Theater Machine|unnamed weekly kids show]], will let it all hang out. If you ever wondered what monsters are really like - this is your opportunity. 
-* 1/17/2012: 
+* 1/17/2013: 
 ** The Fellowship of The Fringe, produced by [[Paul Normandin]]: The Lord of the Rings is one of the most-read and most cherished books of all time. So maybe all the elves and wizards and giant eagles and the painstaking attention to detail have something to do with that... But we suspect it's really about the story structure. In this show, we'll take the basic, classic setup and improvise the details on top of it. A band of variously skilled individuals comes together to destroy a great evil. Except maybe this time instead of taking The One Ring to Mount Doom, they're taking a particularly stale baggette to the top of the Eiffel Tower. Actually, let's hope it's something a little cooler than that. But that's in your hands, audience! 
 ** Headlining Group: [[In Our Prime]]
 * 1/24/2013: 
