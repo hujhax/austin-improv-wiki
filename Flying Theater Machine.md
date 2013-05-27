@@ -44,9 +44,8 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Ruby Willmann]]
 * [[Thedward Blevins]] (2012-Present)
 
-
 ## History
-### Former Members
+### Former Cast Members
 * [[Kristin Firth]]  
 
 ## More Information
