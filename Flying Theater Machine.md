@@ -27,7 +27,6 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * Gryffinpuffleclawsin - The American Wizard School
 
 ## Cast
-* [[Amira Pollock]]
 * [[Asaf Ronen]] (Touring Performer)
 * [[Bridget Brewer]] (2013-Present)
 * [[Caeriel Crestin]] 
@@ -35,7 +34,6 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Jo Maraschino]]    (2013-Present)
 * [[Kaci Beeler]] (Touring Performer)
 * [[Kristin Faner]]    (2013-Present)
-* [[Kristin Firth]]  
 * [[Kristin Henn]] (Touring Performer)
 * [[Luke Wallens]]
 * [[Marc Majcher]]
@@ -45,6 +43,11 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Mitchell Deane]]
 * [[Ruby Willmann]]
 * [[Thedward Blevins]] (2012-Present)
+
+
+## History
+### Former Members
+* [[Kristin Firth]]  
 
 ## More Information
 *[http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
