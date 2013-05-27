@@ -19,4 +19,4 @@
 |Run	=	July/August 2012
 }}
 
-*Pocketful of Posies* was an improvised show based around the films of the European [[Wikipedia - French New Wave|New Wave]] of the 1960s. It was staged at [[Salvage Vanguard Theater]] through [[Gnap! Theater Projects]] in July and August of 2012.
+***Pocketful of Posies*** was an improvised show based around the films of the European [[Wikipedia - French New Wave|New Wave]] of the 1960s. It was staged at [[Salvage Vanguard Theater]] through [[Gnap! Theater Projects]] in July and August of 2012.
