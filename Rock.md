@@ -11,7 +11,7 @@
 |Run	=	May/Jun 2012
 }}
 
-***Rock*** (full title: *Rock: The Improvised Rock Opera*) was an improvised longform narrative show inspired by rock operas.  All dialog was sung, and punctuated by rock'n'roll musical numbers.  Musician [[Michael Brockman]] improvised accompaniment using two keyboards, a drum machine, and an electric guitar.
+***Rock*** (full title: ***Rock: The Improvised Rock Opera***) was an improvised longform narrative show inspired by rock operas.  All dialog was sung, and punctuated by rock'n'roll musical numbers.  Musician [[Michael Brockman]] improvised accompaniment using two keyboards, a drum machine, and an electric guitar.
 
 *Rock* was a mainstage show at [[The Hideout Theatre]].
 
