@@ -11,7 +11,7 @@
 ***Blood, Sweat, and Cheers*** is a devised play about competitive cheerleading.
 
 ## Summary
-The script was written by [[Amy Gentry]] and [[Kaci Beeler]].  It was based on improvisations by the cast, via a process inspired by Chicago's New Colony theater company.
+The script was written by [[Amy Gentry]] and [[Kaci Beeler]].  It was subsequently revised to incorporate improvisations by the cast, via a process inspired by Chicago's New Colony theater company.
 
 ### Cast
 * Barbara Davis -- [[Jessica Arjet]]
