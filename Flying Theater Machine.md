@@ -2,7 +2,7 @@
   |Name     = Flying Theater Machine
   |Director = Jessica Arjet
   |Theater  = [[The Hideout Theatre]]
-  |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Jessica Arjet]] | [[Jo Maraschino]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Luke Wallens]] | [[Kristin Henn]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] }}
+  |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Luke Wallens]] | [[Kristin Henn]] | [[Madeline Jo Chauvin]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] }}
   |Picture  = Flying_Theater_Machine.jpg
   |Run    = 2007-Present
 }}
@@ -31,11 +31,11 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Bridget Brewer]] (2013-Present)
 * [[Caeriel Crestin]] 
 * [[Jessica Arjet]]    (2007-Present)
-* [[Jo Maraschino]]    (2013-Present)
 * [[Kaci Beeler]] (Touring Performer)
 * [[Kristin Faner]]    (2013-Present)
 * [[Kristin Henn]] (Touring Performer)
 * [[Luke Wallens]]
+* [[Madeline Jo Chauvin]]    (2013-Present)
 * [[Marc Majcher]]
 * [[Matt Pollock]]
 * [[Mike Kinald]]
