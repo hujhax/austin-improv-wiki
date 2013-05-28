@@ -12,7 +12,9 @@ Bryan was a company member of [[Gnap! Theater Projects]].
 
 ## Troupes
 * [[False Matters]] (assistant director, original run)
+* [[Ghetto Sketch Warlock]]
 * [[Gigglepants]]
+* [[No Chaser]]
 
 ## Shows
 * *[[Guilds of Steel]]* (director)
