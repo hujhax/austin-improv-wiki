@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	Total Panic
-|Type   =       Improv Comedy
+|Cast  =        {{Unbulleted list | [[Aaron Parker Fasel]] | [[Brandt Pileggi]] | [[Brian Engravalle]] | [[Brian Howard]] | [[Bryan Cruz]] | [[Jenny Calrson]] | [[Liz Brammer]] | [[Patrick Daniel]] | [[Shyla Ray]] | [[Tim Honker]] }}
 |Years	=	2009-2011
 }}
 
