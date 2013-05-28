@@ -8,7 +8,7 @@
 **Bryan "Lubu" Roberts** is an improv performer.
 
 ## History
-Bryan was a company member of [[Gnap! Theater Projects]].
+Bryan was a company member of [[Gnap! Theater Projects]]. He currently performs regularly at [[ColdTowne Theater]] and occasionally at Austin's other improv theaters.
 
 ## Troupes
 * [[False Matters]] (assistant director, original run)
