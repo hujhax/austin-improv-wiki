@@ -27,7 +27,7 @@ It was presented by [[The Institution Theater]] at [[The Highball]].
  
 ## Crew
 * Tech -- [[Todd Hart]]
-* Stage Manager -- [[Jo Maraschino]]
+* Stage Manager -- [[Madeline Jo Chauvin]]
 * Director -- [[Tom Booker]]
 
 ## Media
