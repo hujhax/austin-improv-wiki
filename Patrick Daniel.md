@@ -16,6 +16,7 @@ In 2012, he moved away to Los Angeles.
 * [[Blink]]
 * [[Fatbuckle]]
 * [[Nice Astronaut]]
+* [[Total Panic]]
 * [[¡Zarzamora!]]
 
 ## Shows
