@@ -18,6 +18,7 @@ In 2012, Liz moved to Seattle.
 * [[Total Panic]]
 
 ## Shows
+* *[[69 Love Scenes]]*
 * *[[Dusk]]*
 * *[[Pocketful of Posies]]* (director)
 * *[[Showdown]]* (Elisabeth Peterson, Johnny Matthews, Angelica)
