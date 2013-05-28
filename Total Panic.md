@@ -9,16 +9,16 @@
 ## History
 Auditions for the 6th ColdTowne Student Troupe were held in early January 2009 after the debut in December 2008 of the previous ColdTowne Student Troupe [[Northshore Local]].  The cast was announced on 1/12/2009 with [[ColdTowne Faculty]] member [[Tami Nelson]] as the coach.  The following ColdTowne students were cast in "Troupe Six":
 
-* [[Shyla Ray]]
+* [[Aaron Parker Fasel]]
+* [[Brandt Pileggi]]
+* [[Brian Engravalle]]
+* [[Brian Howard]]
+* [[Bryan Cruz]]
+* [[Jenny Calrson]]
 * [[Liz Brammer]]
+* [[Patrick Daniel]]
+* [[Shyla Ray]]
 * [[Tim Honker]]
-* Brian Cruz
-* Brandt Pileggi
-* Brian Howard
-* Jenny Calrson
-* Brian Engravalle
-* Pat Daniels
-* Aaron Parker Fasel
 
 "Troupe Six" had 2 rehearsals with their coach Tami Nelson before the [[ColdTowne-New Movement Split]] occurred on 2/4/2009.  Troupe Six continued to rehearse with Tami Nelson at The New Movement Theater while it was under construction, until they collectively decided to dissolve the troupe several weeks later.  Some members left their classes at ColdTowne Theater in favor of classes at The New Movement.
 
