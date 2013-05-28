@@ -3,7 +3,7 @@
 |Picture=	Hyperlinks.jpg
 |Theater=	[[The Hideout Theatre]]	
 |Director =	[[Asaf Ronen]]
-|Cast	=	{{Unbulleted list | [[Bryan Roberts]] | [[Christopher 'Ceej' Allen]] | [[Curtis Luciani]] | [[Eric Heiberg]] | [[Jon Clinkenbeard]] | [[Kaci Beeler]] | [[Kristin Firth]] | [[Roy Janik]] }}
+|Cast	=	{{Unbulleted list | [[Bryan 'Lubu' Roberts]] | [[Christopher 'Ceej' Allen]] | [[Curtis Luciani]] | [[Eric Heiberg]] | [[Jon Clinkenbeard]] | [[Kaci Beeler]] | [[Kristin Firth]] | [[Roy Janik]] }}
 |Run	=	Mar 2009
 |Subsequent Runs =	Jan 2010
 }}
