@@ -18,6 +18,8 @@ All cast members wore period costumes and white makeup.  Some were "guests", and
 Several events punctuated the high tea.  Shortly after the first course, the von Geltsacks, rich visitors from Germany and the high tea's honored guests, arrived at the venue.  Towards the end of the event, Lord Wensleydale announced that he was marrying his daughter Petunia off to the Dietrich von Geltsack.  Baron von Geltsack was shocked, as he had assumed *he* would marry the young Miss Petunia.  Finally, Petunia rejected both offers, and ran off with the head servant, Mr. Tiddles.
 
 ## Cast
+![[Lord Wensleydale Performance.jpg|A mishap with a cake at *Lord Wensleydale's Last High Tea*.]]
+
 ### Main Characters
 * Lord Wenseleydale (the host) -- [[Kareem Badr]]
 * Lady Wenseleydale (his wife) -- [[Valerie Ward]]
