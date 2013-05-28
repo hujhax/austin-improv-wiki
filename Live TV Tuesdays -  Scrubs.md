@@ -2,9 +2,9 @@
 |Name	=	Live TV Tuesdays: Scrubs	
 |Picture=	Live TV Tuesdays - Scrubs.jpg
 |Theater=	[[The Institution Theater]]
-|Director = {{Unbulleted list | [[Madeline Chauvin]] | [[Kevin Machate]] }}
+|Director = {{Unbulleted list | [[Madeline Jo Chauvin]] | [[Kevin Machate]] }}
 |Producer= {{Unbulleted list | [[Diana Caldwell]] | [[Jesse Prebix]] | [[Tom Booker]] }}
-|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Adriane Shown]] | [[Andy Hush]] | [[Ben Howell]] | [[Benjamin Scott]] | [[Carrie H. Stephens]] | [[Chris Villafano]] | [[David Rosenbaum]] | [[Howard Katz]] | [[Madeline Chauvin]] | [[Kevin Machate]] | [[Laura Komkov]] | [[Richard Dodwell]] | [[Tatiana Artis]] }}
+|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Adriane Shown]] | [[Andy Hush]] | [[Ben Howell]] | [[Benjamin Scott]] | [[Carrie H. Stephens]] | [[Chris Villafano]] | [[David Rosenbaum]] | [[Howard Katz]] | [[Madeline Jo Chauvin]] | [[Kevin Machate]] | [[Laura Komkov]] | [[Richard Dodwell]] | [[Tatiana Artis]] }}
 |Tech	=	{{Unbulleted list | [[BK McKee]] | [[Neal Tibrewala]] | [[Todd Hart]] }}
 |Run	=	Aug 2012
 }}
@@ -31,10 +31,10 @@ It played exclusively at [[The Institution Theater]].
 * Jordan/Ensemble -- [[Adriane Shown]]
 * Doug/Ensemble -- [[Andy Hush]]
 * Chet/Ensemble -- [[Chris Villafano]]
-* Gooch -- [[Madeline Chauvin]]
+* Gooch -- [[Madeline Jo Chauvin]]
 
 ## Crew
-* Produced and Directed by -- [[Madeline Chauvin]], [[Kevin Machate]]
+* Produced and Directed by -- [[Madeline Jo Chauvin]], [[Kevin Machate]]
 * Executive Producers -- [[Tom Booker]], [[Diana Caldwell]], [[Jesse Prebix]]
 * Choreographer -- [[Carissa McAtee]]
 * Music Arranger -- [[Stefan DelBosque]]
