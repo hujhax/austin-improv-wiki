@@ -183,7 +183,7 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 ** Downton 2121, produced by [[Andy Buck]]: Downton Abbey jumps to the year 2121. Stately English manor drama meets the distant future. Ray guns heat tea. Robot stable boys. Holograms eavesdropping on the scullery maids. starring: [[Mia Iseman]], [[Andy Buck]], [[Karen Jane DeWitt]], [[Luke Wallens]], [[Colin Thomas Bates]], [[Katie Thornton]], and [[Courtney Hopkin]]
 ** Headliners: In Our Prime
 * 12/27/2012: 
-** Preacher Roommate Detective Squad, produced by [[Mitchell Deane]]: They are preachers. They are roommates. They are freelance detectives. They are... the Preacher Roommate Detective Squad. starring: [[Mitchell Deane]], [[Chris Allen]], [[Kevin Miller]], [[Claudio Fox]], [[Scott Hearne]]
+** Preacher Roommate Detective Squad, produced by [[Mitchell Deane]]: They are preachers. They are roommates. They are freelance detectives. They are... the Preacher Roommate Detective Squad. starring: [[Mitchell Deane]], [[Christopher 'Ceej' Allen]], [[Kevin Miller]], [[Claudio Fox]], [[Scott Hearne]]
 ** Expectoratin' with [[Julie Gillis]], produced by [[Julie Gillis]]: We've all got things we want to get off our chest... fears, secrets, pet peeves, aliens, and mucus. This show is about that. With [[Julie Gillis]]. starring: [[Kevin Miller]], [[Jordan T. Maxwell]], [[Ashlee Medlin]], [[Marc Majcher]] 
 ** Headliners: Your Dad's Friends
 
