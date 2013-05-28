@@ -46,7 +46,7 @@ For this one, teams were set at the start of the run, and those teams played tog
 ** [[Aden Kirschner]]
 ** [[Asaf Ronen]]
 ** [[Shana Merlin]]
-** [[Stacey Kaplowitz]]
+** [[Stacy Kaplowitz]]
 * Team Taco Deli ("Holy Molés")
 ** [[Emily Breedlove]]
 ** [[Eric Heiberg]]
