@@ -12,6 +12,7 @@ Emma Holder was a core cast member in [[The 43-Hour Improv Marathon]].
 
 ## Troupes
 * [[Big Beautiful Warlock]]
+* [[Florida Room]]
 * [[The Seven Eight Sevens]]
 * [[UpTowne]]
 
