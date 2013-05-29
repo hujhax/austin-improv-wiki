@@ -32,6 +32,7 @@ ComedySportz ran in a number of theaters over the course of its existence, inclu
 
 ## Cast
 ComedySportz included some 350 members over the course of its existence, including:
+* [[Aden Kirschner]]
 * [[Allison Gobin Fischer]]
 * [[Amy Averett]]
 * [[Andre Meadows]]
