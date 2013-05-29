@@ -16,7 +16,7 @@ The troupe started performing in the spring semester of 2004. The original cast 
 ## Notable Alums
 *[[Alex Hunt]]
 *[[Bryan Cruz]]
-*[[Bryan Roberts]]
+*[[Bryan 'Lubu' Roberts]]
 *[[Cody Melcher]]
 *[[Colin Thomas Bates]]
 *[[David Toscano]]
