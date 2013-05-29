@@ -1,0 +1,1 @@
+This was a headshot taken in 1999.
