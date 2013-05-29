@@ -25,7 +25,7 @@ ComedySportz ran in five different dedicated theaters over the course of its exi
 * [[Café Caffeine]] (2010-2012)
 
 ## Cast
-[[ComedySportz]] included some 350 members over the course of its existence, including:
+ComedySportz included some 350 members over the course of its existence, including:
 * [[Dav Wallace]]
 * [[Eric Heiberg]]
 * [[Les McGehee]]
