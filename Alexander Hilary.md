@@ -11,7 +11,7 @@
 * [[Goat]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Party of Five]]*
+* *[[Live TV Tuesdays -  Party of Five]]* (Charlie)
 * *[[Strange Worlds]]* (Nate Jester)
 * *[[The Suitcase]]*
 
