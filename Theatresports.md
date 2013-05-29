@@ -141,8 +141,8 @@ The schedule is as follows:
 * 5/4/13 performance:
 ** [http://vimeo.com/66174442 Video] by [[Ryan Austin]].
 ** [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset] by [[Warren Henderson]].
-
-
+* 5/11/13 performance:
+** [http://vimeo.com/67173124 Video] by [[Ryan Austin]].
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheatresportsTournament The show's web page.]
