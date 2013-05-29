@@ -37,5 +37,5 @@ The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran a
 * [http://www.flickr.com/photos/8820084@N02/sets/72157620623735851 Photoset] by [[Michael Yew]] of their appearance in [[The 40-Hour Improv Marathon]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=72523 The announcement of the dates] for [[Frontera Fest]] on [[The AIC Wiki]].
+* [http://forum.austinimprov.com/viewtopic.php?p=72523 The announcement of the dates] for [[Frontera Fest]] on [[The Austin Improv Forums]].
 * [http://www.austinchronicle.com/arts/2008-11-28/707074/ Article in *The Austin Chronicle* about the show.]
