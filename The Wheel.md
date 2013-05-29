@@ -20,7 +20,7 @@ In January 2012, the Wheel was revamped to look like this:
 * Week 1: *[[The Fancy-Pants Mash-Up]]*
 * Week 2: *[[Pick Your Own Path]]*
 * Week 3: *[[The Narrative Improv Jam]]*
-* Week 4: *[[Maestro|Maestro RAW]]*
+* Week 4: *[[Maestro Raw]]*
 
 *[[The Lottery]]* was retired from the schedule. *[[Pick Your Own Path]]* went to a double bill, with two consecutive stories in that performance slot.
 
@@ -31,11 +31,11 @@ In July 2012, *[[The Narrative Improv Jam]]* was retired and replaced with *[[Th
 * Week 1: *[[The Fancy-Pants Mash-Up]]*
 * Week 2: *[[Pick Your Own Path]]*
 * Week 3: *[[The TV Set]]*
-* Week 4: *[[Maestro|Maestro RAW]]*
+* Week 4: *[[Maestro Raw]]*
 
 ### 2013-Present Schedule
 In May 2013, *[[The TV Set]]* was retired and replaced with *[[2x4]]*, a performance slot devoted to duos.
 * Week 1: *[[The Fancy-Pants Mash-Up]]*
 * Week 2: *[[Pick Your Own Path]]*
 * Week 3: *[[2x4]]*
-* Week 4: *[[Maestro|Maestro RAW]]*
+* Week 4: *[[Maestro Raw]]*
