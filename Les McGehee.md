@@ -16,6 +16,13 @@ Les has helped create a strong network of improv performers that extends well be
 
 Les is happily engaged to Kim Lane, and is a proud father of two teenaged daughters (Lucia and Marina) with whom he performs improv regularly.
 
+## Troupes
+* [[ComedySportz]]
+* [[The Pie and Ear Show]]
+
+## Shows
+* *[[Thinning the Herd]]*
+
 [[Category/Performers|McGehee]]
 [[Category/Teachers|McGehee]]
 [[Category/Directors|McGehee]]
