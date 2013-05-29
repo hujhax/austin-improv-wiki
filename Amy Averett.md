@@ -8,6 +8,7 @@
 **Amy Averett** is an improv performer.
 
 ## Troupes
+* [[ComedySportz]]
 * [[The Dancy Street D'Orchestra]]
 * [[Girls Girls Girls]]
 
