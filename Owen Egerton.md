@@ -4,8 +4,6 @@
 |Theater=	[[ComedySportz]]
 |Years	=	1995-2012
 }}
-
-
 **Owen Egerton** is an improv performer.
 
 ## Summary
