@@ -2,8 +2,8 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 
 ## 2012 Shows
 * 1/5/2012: 
-** Drag: It's simple. Girls dress up as guys. Guys dress up as girls. Everyone plays opposite their actual gender. We get 4 guys and 4 girls in drag up on stage and do a montage. Anything goes. 
-** The New Game Project: In shows like Maestro that feature improv games, we've got a ton of favorites that we bust out week after week. In the New Game Project we're throwing all those out of the window. We'll take names of non-existent games from the audience and invent new games on the fly. And who knows, the ones we like the best might make their way back into Maestro.
+** Drag, produced by [[Jason Vines]]: It's simple. Girls dress up as guys. Guys dress up as girls. Everyone plays opposite their actual gender. We get 4 guys and 4 girls in drag up on stage and do a montage. Anything goes. 
+** The New Game Project, produced by [[Roy Janik]]: In shows like Maestro that feature improv games, we've got a ton of favorites that we bust out week after week. In the New Game Project we're throwing all those out of the window. We'll take names of non-existent games from the audience and invent new games on the fly. And who knows, the ones we like the best might make their way back into Maestro.
 ** [[Firth&Arjet]]
 * 1/12/2012: 
 ** Shortform Mashup: Every Saturday for the past 12 years or so we have played improv games during Maestro, our most popular show... games like The Alphabet Game, No Questions, Pan Left/Pan Right, and so on. On their own they're a blast, but what happens when we combine games together? Madness, that's what. Alphabet Hell Dub? Movies Bodies Samurai Showdown? Come see the brains of improvisers get super broken. 
