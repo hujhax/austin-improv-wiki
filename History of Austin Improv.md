@@ -4,9 +4,9 @@ In 1996 the main improv venues were [[The Velveeta Room]], featuring [[Marc Prut
 There was also a University of Texas troupe called [[Only 90% Effective]] directed by [[Brently Heilbron]]. [[The Velveeta Room]] was also producing other troupes like [[Code Blue]] and [[Los Paranoias]], directed by [[Pam Ribon]] and [[David Lampe]]. [[David Lampe]] was a member of [[Monk's Night Out]] and a founding member of [[The Oxymorons]] in San Antonio.
 
 ## Austin Improv Goes National
-In 1997 Austin landed on the national improv and sketch map with the first annual [[Big Stinkin’ Improv and Sketch Comedy Festival]], which brought troupes, teachers and talent scouts from around the nation to Austin for a fantabulous long weekend of comedy. Improv played some of the biggest venues in town from the Paramount to Palmer Auditorium. It was awesome.
+In 1997 Austin landed on the national improv and sketch map with the first annual [[Big Stinkin' Improv and Sketch Comedy Festival]], which brought troupes, teachers and talent scouts from around the nation to Austin for a fantabulous long weekend of comedy. Improv played some of the biggest venues in town from the Paramount to Palmer Auditorium. It was awesome.
 
-In 1998 [[Sean Hill]] and [[David Lampe]] hosted auditions for [[Austin Theatresports]] [a.k.a. Austin Theatresports a.k.a. We Could Be Heroes a.k.a. The Heroes of Comedy]. The first rehearsals were in a cozy classroom on 5th Street, in what was functionally nicknamed “The Batcave.”
+In 1998 [[Sean Hill]] and [[David Lampe]] hosted auditions for [[We Could Be Heroes|Austin Theatresports]] [AKA Austin Theatresports, We Could Be Heroes, and The Heroes of Comedy]. The first rehearsals were in a cozy classroom on 5th Street, in what was functionally nicknamed "The Batcave."
 
 Austin Theatersports did its first show, a [[Micetro]], at the Public Domain Theater on Congress Ave in February of 1999 (Edi Patterson won the first ever Austin Micetro). Soon after Austin Theatersports began a run at the Hyde Park Theater where they played Micetro and [[Gorilla Theatre]]. Then in late 1998, Sean started work on a new improv theater and coffee house called the Hideout.
 
