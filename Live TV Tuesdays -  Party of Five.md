@@ -22,7 +22,7 @@ It played exclusively at [[The Highball]].
 * Julia -- [[Carissa McAtee]]
 * Justin -- [[Christian Huey]]
 * Kirsten -- [[Taylor Overstreet]]
-* Sarah -- Unknown
+* Sarah -- [[Jessica Simmons]]
 * Will -- [[Cody Melcher]]/[[Tyler Reece Booker]]
 
 ## Media
