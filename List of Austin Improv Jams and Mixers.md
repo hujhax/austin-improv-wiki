@@ -1,4 +1,4 @@
-This **list of Austin improv jams and mixers** coveres jams and mixers, which differ from shows in that they are participatory: a group of improvisors comes to the event and puts on scenes and games for each other.
+This **list of Austin improv jams and mixers** covers jams and mixers, which differ from shows in that they are participatory: a group of improvisors comes to the event and puts on scenes and games for each other.
 
 ## Active Jams and Mixers
 * The first Saturday of every month, [[Merlin Works]] puts on *[[The Merlin Works Mixer]]* at the AT&T Education Room at the Long Center for the Performing Arts.
