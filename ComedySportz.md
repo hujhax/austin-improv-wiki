@@ -50,7 +50,7 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [[Dav Wallace]]
 * [[Dave Cox]]
 * [[David Westerberg]]
-* [[Dayne Choat]]
+* [[Dayne Choate]]
 * [[Debra Downing]]
 * [[Devin Kennedy-Puthoff]]
 * [[Don Johnson]]
