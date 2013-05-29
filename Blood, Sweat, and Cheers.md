@@ -43,6 +43,7 @@ Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3 Promo photo shoot] by [[Jon Bolden]].
+* [http://kut.org/2013/05/204801/ An interview about the play] with [[Kaci Beeler]] and [[Roy Janik]] on KUT's *Arts Eclectic*.
 
 ## More Information
 * [http://www.austincheershow.com/Austin_Cheer_Show/Welcome.html The show's web site.]
