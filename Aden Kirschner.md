@@ -17,6 +17,7 @@ With nearly thirty years of experience on stage, Aden has been winning awards an
 Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]], Aden joined the Merlin Works faculty in 2009 where her performance classes are in high demand. She now additionally promotes the Corporate Training side of the Institute as the Training and Events Coordinator, where she seeks to improve the way people communicate with each other, one business at a time.
 
 ## Troupes
+* [[ComedySportz]]
 * [[Duck Duck Boom]]
 * [[Girls Girls Girls]]
 * [[The Known Wizards]]
