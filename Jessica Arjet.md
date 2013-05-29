@@ -17,10 +17,10 @@ Jessica Arjet graduated from the [[Heroes of Comedy]] Improv School in 2003.  Up
 She was a core cast member of [[The 41-Hour Improv Marathon]], and will be a core cast member in [[The 44-Hour Improv Marathon]].
 
 ## Troupes
+* [[Bedfellows]]
 * [[ComedySportz]]
 * [[Firth & Arjet]]
 * [[In Our Prime]]
-* [[Bedfellows]]
 * [[Your Dad's Friends]]
 
 ## Shows
