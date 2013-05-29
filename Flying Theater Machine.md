@@ -46,7 +46,8 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ## History
 ### Former Cast Members
-* [[Kristin Firth]]  
+* [[Kristin Firth]]
+* [[Cody Melcher]]
 
 ## More Information
 *[http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
