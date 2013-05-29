@@ -15,7 +15,9 @@ ComedySportz is a format in which teams of improvisors compete to do the best sh
 ## History
 The franchise had its first audition on 1/22/86 (Superbowl Sunday).  Over their 28-year run, they put on over five thousand shows -- both in Austin and on tour around the world.
 
-ComedySportz participated in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]]. In 2000, The Austin Audacities defeated the Chicago Jazz in a nail-biting finale to the ComedySportz National Tournament and were crowned the Champions of the Comedy League of America.  
+In 2000, the Austin Audacities defeated the Chicago Jazz in a nail-biting finale to the ComedySportz National Tournament and were crowned the Champions of the Comedy League of America.  
+
+ComedySportz participated in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]]. 
 
 The Austin franchise closed up shop in 2012, but the San Antonio franchise continues to put on shows.
 
