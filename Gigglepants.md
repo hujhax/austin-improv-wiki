@@ -18,7 +18,7 @@ The troupe started performing in the spring semester of 2004. The original cast 
 *[[Bryan Cruz]]
 *[[Bryan Roberts]]
 *[[Cody Melcher]]
-*[[Colin Bates]]
+*[[Colin Thomas Bates]]
 *[[David Toscano]]
 *[[Kim Espinosa]]
 *[[Kyle Traughber]]
