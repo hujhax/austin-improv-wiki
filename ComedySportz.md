@@ -5,7 +5,7 @@
 |Director = [[Les McGehee]]
 |Years	=		1986-2012
 }}
-: This page refers to the competitive short-form improv show that ran in a number of theaters from 1986 to 2012.  For the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show, see [[Theatresports]].
+: This page refers to the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012.  For the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show, see [[Theatresports]].
 
 **ComedySportz** refers to the Austin franchise of [[Wikipedia - ComedySportz|ComedySportz]]. 
 
