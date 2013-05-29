@@ -23,6 +23,6 @@
 * [[List of Austin Improv Rehearsal Spaces]]
 
 ## External Resources
-Note that this wiki is specifically for Austin improv.  Fortunately, there are other websites that cover more general topics:
+Note that this wiki is specifically for Austin improv.  There are other websites that cover more general topics:
 * For general information about improv, check out [http://wiki.improvresourcecenter.com the improv resource center].
 * For general information about Austin, check out [http://www.austin360.com/ Austin360.com].
