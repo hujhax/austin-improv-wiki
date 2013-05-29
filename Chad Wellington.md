@@ -11,10 +11,10 @@
 Chad began taking improv classes in June 2010.
 
 ## Troupes
+* [[Apocalypse]]
+* [[The Bystanders]]
 * [[Racket]]
 * [[Stone Airplane]]
-* [[Apocalypse]]
-* The Bystanders
 
 ## Shows
 * *[[Racket]]*
