@@ -28,7 +28,7 @@ The show proceeds like this, typically with eliminations after each round, until
 Often, tie-breakers are used in Maestro, say if it's down to two remaining performers with equal scores, or if the directors want to eliminate three players out of a five-way tie for last place.
 
 ### Other Information
-The [[Out of Bounds Festival]] includes an "All-Star Maestro" performance, which usually has 24 players.
+The [[Out of Bounds Comedy Festival]] includes an "All-Star Maestro" performance, which usually has 24 players.
 
 The Hideout sporadically puts on *[[Blue Maestro]]*, which is the non-family-friendly version of the show.
 
