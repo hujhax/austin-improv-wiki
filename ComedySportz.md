@@ -26,10 +26,10 @@ ComedySportz ran in five different dedicated theaters over the course of its exi
 * [[ComedySportz Improv Club]] (2004-2006)
 
 In addition to these venues, CSz performed regularly in several other venues.  
-1991- Olive's Pizza
-1992- The Deep End of Esther's Pool (Now the Fabulous Velveeta Room)
-1993- Headliner's East
-1997- The Velveeta Room
+1991- Olive's Pizza, 
+1992- The Deep End of Esther's Pool (Now the Fabulous Velveeta Room),
+1993- Headliner's East,
+1997- The Velveeta Room,
 1998-1999 The Laugh Stop's Lounge
 
 ## Cast
