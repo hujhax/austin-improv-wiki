@@ -11,7 +11,7 @@ It ran from 6/30/11 to 7/2/11.
 * [[Furiously Missing]]
 * [[Get Up]]
 * [[Happy Butter]]
-* [[Holy 1960s Batman, Batman!]]
+* *[[Holy 1960s Batman, Batman!]]*
 * *[[The Narrative Improv Jam]]*
 * [[Parallelogramophonograph]] presents French Farce
 * [[The Plagiarists]]
