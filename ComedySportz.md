@@ -21,8 +21,8 @@ The Austin franchise closed up shop in 2012, but the San Antonio franchise conti
 
 ## Theaters
 ComedySportz ran in five different dedicated theaters over the course of its existence, including:
-* [[The ComedySportz Playhouse (Northcross Mall)]] (2000-2005)
-* [[Café Caffeine]] (2010-2012)
+* [[The ComedySportz Playhouse (Northcross Mall)]] (1999-2004)
+* [[Café Caffeine]] (2008-2012)
 
 ## Cast
 ComedySportz included some 350 members over the course of its existence, including:
