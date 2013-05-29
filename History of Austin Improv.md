@@ -20,9 +20,9 @@ After 2000 the festival producers [[Ed Carter]] and [[Marc Pruter]], along with 
 ## The Ongoing Austin Improv Renaissance
 In 2004 and 2005 a variety of factors led to a second renaissance in Austin improv. [[Andy Crouch]] was hired to run the day to day operations at the Hideout and made a concerted effort to grow the community of active Austin improvisers through weekly shows and social events, and eventually a nonprofit organization called the [[Austin Improv Collective]]. A handful of improvisers moved to Austin from Chicago and Cleveland eventually coming together as the troupe [[The Frank Mills|Tight]] (now [[The Frank Mills]]) bringing with them the performance styles of famous Chicago theaters like Improv Olympic and the Second City. The New Orleans troupe [[ColdTowne (troupe)|ColdTowne]] rolled into Austin in the aftermath of Hurricane Katrina. And the [[Out of Bounds Comedy Festival]], started in 2002 by [[Jeremy Sweetlamb|Jeremy Lamb]] as a local, experimental improv festival, had been slowly but surely gaining momentum and national attention.
 
-Things began to bubble up at the Hideout and by October of 2006, ColdTowne struck out and opened a self-titled theater and conservatory on Airport Blvd, offering improv, sketch and stand up comedy. 
+Things began to bubble up at the Hideout and by October of 2006, ColdTowne struck out and opened a self-titled theater and conservatory on Airport Boulevard, offering improv, sketch and stand up comedy. 
 
-In March of 2008 [[The Merlin Works Institute for Improvisation]] and [[Gnap! Theater Projects]] began teaching classes and performing shows at the [[Salvage Vanguard Theater]] on Manor Rd. 
+In March of 2008 [[The Merlin Works Institute for Improvisation]] and [[Gnap! Theater Projects]] began teaching classes and performing shows at the [[Salvage Vanguard Theater]] on Manor Road. 
 
 ComedySportz resumed weekly shows at [[Cafe Caffeine]] in south Austin in the fall of 2008. 
 
