@@ -6,4 +6,4 @@ The BBS was started by [[Bob Apthorpe]] in 2006, as part of [[Austinimprov.com]]
 * [[The Wu Yun Saga]].
 
 ## More Information
-* [[Http - --forum.austinimprov.com- The Forums]]
+* [http://forum.austinimprov.com/ The main page for the forums.]
