@@ -271,7 +271,6 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 ** Pick Your Own Black Vault, produced by [[Peter Rogers]]: *[[The Black Vault]]* meets *[[Pick Your Own Path]]*. Come control a spontaneously created Lovecraftian horror story, Choose Your Own Adventure style. If you die you can go back, but you can never forget. 
 ** Headliner: [[Jessica Arjet]] & [[Tyler Bryce]]
 * 5/30/2013:
-** Infotainment, produced by [[Brad Smith]]: Infotainment! Our cast of experts will amaze and inform you by answering questions (correctly or otherwise) in our various areas of expertise.
-Then comes the shocking conclusion when we bring it all together!  starring: [[Anna Giacomo]], [[Brad Smith]], [[Vicky Vegh]], [[Brett Weaver]], [[Noah Wright]], and [[Patrick Yonkin]]; hosted by [[Jessica von Schramm]]
+** Infotainment, produced by [[Brad Smith]]: Infotainment! Our cast of experts will amaze and inform you by answering questions (correctly or otherwise) in our various areas of expertise. Then comes the shocking conclusion when we bring it all together!  starring: [[Anna Giacomo]], [[Brad Smith]], [[Vicky Vegh]], [[Brett Weaver]], [[Noah Wright]], and [[Patrick Yonkin]]; hosted by [[Jessica von Schramm]]
 ** World of Typos, produced by [[Asaf Ronen]]:  Many improvisers are writers and many writers notice the typos that squeeze through and end up on menus, on signs, in magazine articles.  And many improviser/writers imagine the world where those would be typos, where a diner would offer Fred Eggs, where quotation marks are thrown about willy nilly. starring: [[Justin Davis]], [[Lisa Jackson]], [[Jeanette Jones]], [[Ted Meredith]], and [[Asaf Ronen]].
 ** Headliner: [[Your Dad's Friends]]
