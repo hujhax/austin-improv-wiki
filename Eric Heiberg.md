@@ -15,6 +15,7 @@ He was a core cast member in [[The 43-Hour Improv Marathon]] and a guest boy in 
 In 2013, he moved to Minneapolis.  Just before that, he had a special *[[Free Fringe]]* devoted to him.
 
 ## Troupes
+* [[ComedySportz]]
 * [[Improv for Evil]]
 
 ## Shows
