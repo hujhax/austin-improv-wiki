@@ -1,0 +1,1 @@
+With Austin CSz from 1989 to May 1994. left to Chicago with Martin Garcia and Debra Downing.  All three toured with Second City as part of RedCo. Performed at iO Chicago with Monkey Danger. Played piano at iO for several years. Creator of the game "Love Song"
