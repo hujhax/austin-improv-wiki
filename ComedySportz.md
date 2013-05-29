@@ -92,6 +92,7 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [[Marina McGehee]]
 * [[Mark Shoemaker]]
 * [[Martin Garcia]]
+* [[Matt Pollock]]
 * [[Megan Flynn]]
 * [[Meghan Wolff]]
 * [[Melissa Cathcart]]
