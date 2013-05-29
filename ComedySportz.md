@@ -58,6 +58,7 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [[Eric Christianson]]
 * [[Eric Heiberg]]
 * [[Eric Perry]]
+* [[Erin Molson]]
 * [[Erin Plischke]]
 * [[Francisco J. Benevides]]
 * [[George Bendele]]
