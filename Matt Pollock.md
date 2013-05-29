@@ -9,6 +9,7 @@ Matt Pollock is an improv performer.
 
 ## History
 ## Troupes
+* [[ComedySportz]]
 * [[Improv for Evil]]
 * [[Flying Theatre Machine]]
 
