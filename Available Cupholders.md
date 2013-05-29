@@ -19,6 +19,8 @@ Unlocking the power of this art form through live performance and various perfor
 Their goal is to elevate the form and playing field, shedding light on the ever-changing zeitgeist in which we live, with belly laughs along the way. "</blockquote>
 
 ## Media
+* [http://www.facebook.com/media/set/?set=a.523882717675249.1073741854.221927764537414&type=1 A photoset] by [[Steve Rogers]] of their performance in [[The 2013 Improvised Play Festival]] on 4/12/13.
+
 ## More Information
 * [http://www.availablecupholders.com/achome.html The troupe's web site.]
 * [http://www.facebook.com/AvailableCupholders/info The troupe's facebook page.]
