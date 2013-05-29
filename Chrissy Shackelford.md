@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Chrissy Shackelford	
-|Picture =	
+|Picture =	Chrissy Shackelford Pic.jpg
 |Theater=	[[ColdTowne Theater]]
 |Years	=	2012-present
 }}
