@@ -24,10 +24,10 @@ ComedySportz ran in a number of theaters over the course of its existence, inclu
 * 1991: [[Olive's Pizza]]
 * 1992: [[The Velveeta Room]] (at the time, called "The Deep End of Esther's Pool")
 * 1993: [[Headliners East]]
+* 1994-1996: [[The ComedySportz Improv Club]] 
 * 1997: [[The Velveeta Room]]
 * 1998-1999: [[The Laugh Stop's Lounge]]
 * 1999-2004: [[The ComedySportz Playhouse]]
-* 2004-2006: [[The ComedySportz Improv Club]]
 * 2008-2012: [[Café Caffeine]]
 
 ## Cast
