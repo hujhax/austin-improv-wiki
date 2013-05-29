@@ -47,6 +47,7 @@ These are troupes that still need pages created for them.
 * [[Polite Society Presents]]
 * [[Scout]]
 * [[Shades of Brown]]
+* [[The3$Bills]]
 * [[The Sicks]]
 * [[The Team]]
 * [[Tears But Joy]]
