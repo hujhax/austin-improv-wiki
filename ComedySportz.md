@@ -13,9 +13,9 @@
 ComedySportz is a format in which teams of improvisors compete to do the best short-form improv.  A referee oversees the competition, and a scorekeeper assigns points to each team's efforts.  The show emphasizes quick-witted, short-form, family-friendly comedy.  True to its name, the show includes many sports conventions -- the referee dresses in a vertically-striped jersey, the tech booth provides sports-arena-style music, and the players can get penalized for "fouls", including the "brown bag foul" (lewd or offensive humor), and the "groaner foul" (awful puns).
 
 ## History
-The franchise had its first show on 1/22/86 (Superbowl Sunday).  Over their 28-year run, they put on over five thousand shows -- both in Austin and on tour around the country.
+The franchise had its first audition on 1/22/86 (Superbowl Sunday).  Over their 28-year run, they put on over five thousand shows -- both in Austin and on tour around the world.
 
-ComedySportz participated in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
+ComedySportz participated in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]]. In 2000, The Austin Audacities defeated the Chicago Jazz in a nail-biting finale to the ComedySportz National Tournament and were crowned the Champions of the Comedy League of America.  
 
 The Austin franchise closed up shop in 2012, but the San Antonio franchise continues to put on shows.
 
