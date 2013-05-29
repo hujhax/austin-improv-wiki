@@ -27,9 +27,9 @@ She was a core cast member of [[The 41-Hour Improv Marathon]], and will be a cor
 * *[[The Black Vault]]*
 * *[[Blood, Sweat, and Cheers]]* (Barbara Davis)
 * *[[Charles Dickens Unleashed]]*
-* *[[Fakespeare]]*
+* *[[Fakespeare]]* (Margaret/Hecate/Angus)
 * *[[Live Nude Improv]]*
-* *[[Strange Worlds]]*
+* *[[Strange Worlds]]* (Maxine Maker)
 
 [[Category/Performers|Arjet]]
 
