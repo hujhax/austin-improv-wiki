@@ -8,7 +8,7 @@
 |Music =        {{Unbulleted list | [[David Rosenbaum]] | [[Jason Laney]] | [[Pat Buchta]]}}
 |Run	=	Aug 2010
 }}
-***Crack!*** (full name: *Crack! The Improvised Puppet Musical*) was an improvised puppet musical.
+***Crack!*** (full name: ***Crack! The Improvised Puppet Musical***) was an improvised puppet musical.
 
 ## Summary
 It was a two-act show, featuring short-form songs and scenes in act one, and then an improvised narrative musical in act two.
