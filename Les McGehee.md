@@ -1,0 +1,5 @@
+Les McGehee is an improv comedian, producer and director best know for owning and operating ComedySportz Austin from 1990 until 2012.  Les is also an author.  His book, "Plays Well With Others" is filled with stories and observations from his nearly 30 year improv career.  In addition to performing in thousands of public shows, Les has also spent the last 20 years teaching improv to thousands of people through his private and corporate improv workshops.  Les has traveled the world with his improv, including two USO tours entertaining our troops through Europe and the Middel East.  
+
+Les has helped create a strong network of improv performers that extends well beyond the Austin Improv Community.  
+
+Les is happily engaged to Kim Lane, and is a proud father of two teenaged daughters (Lucia and Marina) with whom he performs improv regularly.
