@@ -13,7 +13,7 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 Peter was a core cast member in [[The 41-Hour Improv Marathon]], and will be a core cast member in [[The 44-Hour Improv Marathon]].
 
 ## Photography
-Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly, and setting up the Austin improv Vimeo channel.
+Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly, and setting up [http://vimeo.com/channels/austinimprov The Austin Improv Vimeo Channel].
 
 ## Troupes
 * [[First Round Draft]] (2001-2002)
