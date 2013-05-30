@@ -24,5 +24,6 @@ The Fringe premiered on 1/5/12, shortly after [[Parallelogramophonograph]] trave
 For a list of all formats performed in *The Free Fringe*, see: [[List of Free Fringes]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=12821 The initial call for submissions.]
 * [http://www.hideouttheatre.com/shows/thefreefringe The show's site.]
+* [http://forum.austinimprov.com/viewtopic.php?t=12821 The initial call for submissions.]
+* [http://docs.google.com/spreadsheet/viewform?formkey=dEhZLV9GVEpjSlhZN0Z0VjZlNklTU3c6MQ The Free Fringe Idea Submission Form.]
