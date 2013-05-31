@@ -25,7 +25,7 @@ The script was written by [[Amy Gentry]] and [[Kaci Beeler]].  It was subsequent
 * Jason Flipp (Coach Jay) -- [[Curtis Luciani]]
 * Bob Davis -- [[Paul Normandin]]
 
-The show also features 20-25 athletes from Austin Cheer Factory, Austin's most elite all-star cheerleading program.
+The show also features 9 athletes from Austin Cheer Factory, Austin's most elite all-star cheerleading program, and Hutto High School.
 
 ### Crew
 * Choreography -- Amanda Butterfield, [[Cortney DeAngelo]], [[Halyn Lee Erickson]], and the Austin Cheer Factory
