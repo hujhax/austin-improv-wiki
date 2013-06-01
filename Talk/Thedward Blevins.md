@@ -31,3 +31,5 @@
 |style=text-align:center;white-space:nowrap|[[Firth&Arjet]]
 |&nbsp;
 |}
+
+*Holy crap -- this looks aweseome, and if you can pull this off, Thedward, my hat's off to you.  I guess this will involve many, many regexp-replaces... -- Peter*
