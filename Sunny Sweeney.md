@@ -7,3 +7,5 @@ Sunny has played the Grand Ole Opry multiple times and is constantly on the road
 In 2013, she signed a new record deal with Thirty Tigers Records, and is currently working on her third album.  
 
 She is married to a police officer and currently lives in Austin.
+
+Here is a link to her website: http://www.sunnysweeney.com/.  Follow her on Twitter: @GettinSweenered.
