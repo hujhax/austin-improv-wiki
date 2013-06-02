@@ -89,7 +89,7 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [[Les McGehee]]
 * [[Lisa Perry]]
 * [[Louise Richardson]]
-* [[Loz Abersold]]
+* [[Liz Abersold]]
 * [[Madi Goff]]
 * [[Marc Pruter]]
 * [[Mariella Krause]]
