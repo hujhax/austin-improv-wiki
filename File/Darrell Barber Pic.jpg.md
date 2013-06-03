@@ -1,1 +1,5 @@
-Darrell Barber and his swinging organ.  He probably just played "Love Song".
+## Summary
+[[Darrell Barber]], performing with [[ComedySportz]], year unknown, photo by: unknown.
+
+## Licensing
+{{AIC-Wiki-only license}}
