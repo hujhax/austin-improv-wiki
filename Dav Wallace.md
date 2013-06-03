@@ -1,3 +1,13 @@
+{{Infobox Performer
+|Name	=	Dav Wallace	
+|Picture =	Dav Wallace Pic.jpg
+|Theater=	[[ComedySportz]]
+|Years	=	1998-Present
+}}
+
+**Dav Wallace** is an improv performer.
+
+## Summary
 Dav Wallace first joined ComedySportz in the late 1990s while the troupe was performing in the first Northcross Mall space.  Dav is probably best remembered for his quick wordplay, fantastic singing, and his psychic-like guessing abilities in 5 Things.  
 
 While performing at Cafe Caffeine, Dav took on a managerial role.
