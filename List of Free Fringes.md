@@ -168,7 +168,7 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 ** NaNoWriMo Special National Novel Writing Month is a fun, seat-of-your-pants approach to novel writing. Participants begin writing on November 1. The goal is to write a 50,000-word (approximately 175-page) novel by 11:59:59 PM on November 30. In this very special fringe, we'll be interviewing six different authors about their works in progress, hearing an excerpt from their stories, and then improvising as yet unwritten scenes to help figure out what comes next. This should be an exciting blend of literature and improv. The authors: [[Justin Davis]], [[Gloria Bankler]], [[Jessie Pascarelli]], [[Cindy Page]], [[Ruby Willmann]] (via Skype from Peru!), and [[Kareem Badr]] 
 ** Headlining will be [[In Our Prime]]
 * 11/29/2012: 
-** Plaid Boys, produced by [[Kayla Layne Freeman]]: There is a troupe called Bad Boys made up some some funny dudes. They're smart, they tend to wester Western style shirts, and they all have classes. This is not that troupe. It may resemble that troupe in both content and form, but look closely and you'll notice some rather significant differences. 
+** Plaid Boys, produced by [[Kayla Lane Freeman]]: There is a troupe called Bad Boys made up some some funny dudes. They're smart, they tend to wester Western style shirts, and they all have classes. This is not that troupe. It may resemble that troupe in both content and form, but look closely and you'll notice some rather significant differences. 
 ** Improv Saved My Life, produced by [[Jason Vines]]: Improv saved their life. This is their story. 
 ** Headliners: Your Dad's Friends
 * 12/6/2012: 
