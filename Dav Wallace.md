@@ -22,4 +22,5 @@ Dav spends his time obsessively looking for the man who stole the "e" from the e
 
 ## Shows
 * *[[The Andersons]]* (ensemble)
+* *[[ComedySportz]]*
 * *[[Theatresports]]* (co-director, first run)
