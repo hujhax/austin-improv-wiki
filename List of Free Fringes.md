@@ -211,7 +211,7 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 ** Mad Tea Party, produced by [[Brad Hawkins]]: Each chair has a property that affects the characters, and the characters keep changing seats. 
 ** TBD, produced by [[Chuy Zarate]]:  
 ** Arcie Cola in da House!, produced by [[Arcie Cola]]: "I won't need nothin but a light on the stage." 
-** Plus projects by Andy Buck and Madeline Chauvin!
+** Plus projects by [[Andy Buck]] and [[Madeline Jo Chauvin]]!
 * 1/31/2013: 
 ** Vin Diagram, produced by [[Kevin Miller]]: A one man cop buddy flick in 10 minutes. Vin Diesel is Detective Nick Chowder, a one man wrecking crew. Prince is a beat cop who just got his new assignment to detective. These two must find a way to use their vastly different styles in post-apocalyptic Minneapolis. This is a one man show that cannot be missed! starring: Kevin Miller 
 ** Starborn, produced by [[Ryan Austin]]: Hey Starchild. Let's be David Bowie humanoid space aliens. We will leave our home planet of Kanamite 12 to visit Earth and prepare it for our occupancy. We will heal the planet with our superior technology, telepathy, and beauty. We will talk to its inhabitants, we will rid them of their self-imposed obstacles (using our technology, telepethy, and legends of our home world). They will be our slaves. We are SOOOO much better than them. We are the starborn, 12th tribe of the 12 tribes of Kanamite. Starring: [[Mia Iseman]] and [[Ryan Austin]]
@@ -222,7 +222,7 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 ** Headliners: [[Jessica Arjet]] and [[Chuy Zarate]]
 * 2/7/2013: 
 ** [[Bob Olmstead|Bob]]'s 50th: One life, so many people that change it, move it, make it better and sometimes make it much worse worse. All heroes do not wear Tights and Capes. This tale will be of the unsung heroes of plain pants and simple blouses that change our lives every day. This show is tribute to the everyday person that performs a heroic act in our life. Follow our single, adult male encountering 50 as he encounters people that have affected his life. 
-** Blind Date: [[Regina Soto]] and [[Madeline Chauvin]] wondered why dating is so awkward but acting ridiculous onstage comes naturally. So they thought....what if they had blind dates onstage? So with the help of "man-wrangler" [[Sandra Ybarra]], and the support of the improv community, Regina and Madeline harassed their friends to find them blind dates. They won't see the dates until they get on the stage, and won't know anything about them. Of course, there's always the chance that nobody will show up...which means Regina and Madeline will have to, well, improvise. 
+** Blind Date: [[Regina Soto]] and [[Madeline Jo Chauvin]] wondered why dating is so awkward but acting ridiculous onstage comes naturally. So they thought....what if they had blind dates onstage? So with the help of "man-wrangler" [[Sandra Ybarra]], and the support of the improv community, Regina and Madeline harassed their friends to find them blind dates. They won't see the dates until they get on the stage, and won't know anything about them. Of course, there's always the chance that nobody will show up...which means Regina and Madeline will have to, well, improvise. 
 ** Headliners: In [[Our Prime]]
 * 2/28/2013: 
 ** Teach a Man to Fischer: An opening set to cleanse the pallet. Nothing too shocking about this show, just friends who haven't gotten to improvise together in a while. starring: [[Terrill Fischer]], [[Roy Janik]], [[Peter Rogers]] 
