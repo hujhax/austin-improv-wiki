@@ -162,8 +162,8 @@ This **list of *[[Free Fringe]]*s** includes all the formats for every performan
 ** Headliners: [[Your Dad's Friends]]
 * 11/1/2012: 
 ** Ralph Rogers:  Look, just trust us on this one. We play-tested it, and it's hilarious. A scene cannot end unless [[Peter Rogers]] utters the line "Hey Guys, there's a lot of vomit out there." TRUST US. 
-** Jessica and Peter: It's a Peter Rogers double-header, as [[Jessica Arjet]] and Peter combine forces to unleash their duo power on the world. 
-** [[Bedfellows]]: A series of 3 vignettes, all about intimacy and relationships. With Andreas Fabis, Dana Yanoshak, and Jessica Arjet. 
+** Jessica and Peter: It's a [[Peter Rogers]] double-header, as [[Jessica Arjet]] and Peter combine forces to unleash their duo power on the world. 
+** [[Bedfellows]]: A series of 3 vignettes, all about intimacy and relationships. With [[Andreas Fabis]], [[Dana Yanoshak]], and [[Jessica Arjet]]. 
 * 11/15/2012: 
 ** NaNoWriMo Special National Novel Writing Month is a fun, seat-of-your-pants approach to novel writing. Participants begin writing on November 1. The goal is to write a 50,000-word (approximately 175-page) novel by 11:59:59 PM on November 30. In this very special fringe, we'll be interviewing six different authors about their works in progress, hearing an excerpt from their stories, and then improvising as yet unwritten scenes to help figure out what comes next. This should be an exciting blend of literature and improv. The authors: [[Justin Davis]], [[Gloria Bankler]], [[Jessie Pascarelli]], [[Cindy Page]], [[Ruby Willmann]] (via Skype from Peru!), and [[Kareem Badr]] 
 ** Headlining will be [[In Our Prime]]
