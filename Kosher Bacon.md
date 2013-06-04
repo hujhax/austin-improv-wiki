@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Kosher Bacon
-|Picture	=	
+|Picture	=	Kosher Bacon Pic.jpg
 |Cast	=	{{Unbulleted list | [[Amber Shae]] | [[Ashley Carlisle]] | [[Brandon Martin]] | [[Cat Drago]] | [[Ellen Pittsford]] | [[Jessie Pascarelli]] | [[Mitchell Deane]] | [[Travis Devitt]] }}
 |Director =	[[Kevin Miller]]
 |Years	=		2012
