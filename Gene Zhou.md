@@ -23,8 +23,8 @@ Gene Zhou started improv in 2010 when he got thirsty walking downtown and wander
 ## Shows
 * *[[The Sci-Fi Comedy Double Feature]]* (tech)
 * *[[Start Trekkin']]* (tech)
-* *[[This American LIVE!]]* (tech)
-* *[[Twilight Zoned]]*
+* *[[This American LIVE!]]*
+* *[[Twilight Zoned]]* (tech)
 * *[[Victrola]]*
 
 [[Category/Performers|Zhou]]
