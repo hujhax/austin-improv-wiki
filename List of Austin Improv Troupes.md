@@ -49,6 +49,5 @@ These are troupes that still need pages created for them.
 * [[The3$Bills]]
 * [[The Sicks]]
 * [[The Team]]
-* [[Tears But Joy]]
 * [[Toy Boat]]
 * [[We Could Be Heroes]]
