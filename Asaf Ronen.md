@@ -33,5 +33,6 @@ Asaf has taught throughout NYC's public school system as a resident artist throu
 * *[[Ka-Baam!!]]* (director)
 * *[[Live TV Tuesdays -  Firefly]]* (director)
 * *[[The Rubber Room]]* (director)
+* *[[Sickest Fing Stories]]* (director)
 * *[[Spirited]]* (director)
 * *[[The Suitcase]]* (director)
