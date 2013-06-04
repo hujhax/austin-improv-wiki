@@ -40,7 +40,7 @@ Over the years, the following people have been or are currently still members of
 * [[Jared Stepp]] (2011 - 2012)
 * [[Milo Smith]] (2012)
 * [[Nathan Sowell]] (2012 - 2013)
-* [[Chrissy Shackleford]] (2012 - 2013)
+* [[Chrissy Shackelford]] (2012 - 2013)
 * [[Calan lambert]] (2012 - present)
 * [[Jessica Marpe]] (2012 - present)
 * [[Chaz Formichella]] (2012 - present)
