@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Mike Kinald	
 |Picture =	Mike Kinald Pic.jpg
-|Theater=	The Hideout Theatre
+|Theater=	[[The Hideout Theatre]]
 |Years	=	2006-Present
 }}
 
