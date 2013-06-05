@@ -11,7 +11,7 @@
 Jo is a frequent host at [[The Institution Theater]] for shows like *[[The Clusterfunk]]* and *[[The Triple Scoop]]*.
 
 ## History
-Madeline Jo Chauvin first got into improv when she took the first classes offered by [[The Institution Theater]].  Since then, she's trained at the Institution, [[The Hideout Theatre]], and the DSI Comedy Training Center.
+Jo first got into improv when she took the first class offered by [[The Institution Theater]].  Since then, she's trained at the Institution, [[The Hideout Theatre]], and the DSI Comedy Training Center.
 
 ## Troupes
 * [[The Better Half]]
