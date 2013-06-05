@@ -23,16 +23,16 @@ Madeline Jo Chauvin first got into improv when she took the first classes offere
 
 ## Shows
 * *[[Bad Girls in Plaid Skirts]]* (Juanita)
-* *[[Danger!]]*
+* *[[Danger! The Improvised Lifetime Movie]]*
 * *[[Flying Theater Machine]]*
 * *[[The Informal Pig Show]]*
-* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (tech)
+* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Manson -  The Musical]]* (Katie)
 * *[[The Moral Compass Rumpus]]*
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (tech)
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (stage manager)
-* *[[Live TV Tuesdays -  Scrubs]]* (co-director / Gooch)
+* *[[Live TV Tuesdays -  Scrubs]]* (co-producer, co-director / Gooch)
 
 ## Awards
 * [[The 2013 Institution Theater Awards]]: nominated for Favorite Female Performer, The Audience Award, and Favorite Director (for *[[Live TV Tuesdays -  Scrubs]]*)
