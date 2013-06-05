@@ -35,5 +35,5 @@ Madeline Jo Chauvin first got into improv when she took the first classes offere
 * *[[Live TV Tuesdays -  Scrubs]]* (co-producer, co-director / Gooch)
 
 ## Awards
-* [[The 2013 Institution Theater Awards]]: nominated for Favorite Female Performer, The Audience Award, and Favorite Director (for *[[Live TV Tuesdays -  Scrubs]]*)
+* [[The 2013 Institution Theater Awards]]: nominated for Favorite Female Performer, The Audience Award, Favorite Director (for *[[Live TV Tuesdays -  Scrubs]]*) Favorite Show(as producer) (for *[[Live TV Tuesdays -  Scrubs]]*), and Favorite Video ("Dr. Horrible's Sing-Along Blog")- Winner
 [[Category/Performers|Chauvin]]
