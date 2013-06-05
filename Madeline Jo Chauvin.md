@@ -8,7 +8,8 @@
 **Madeline Jo Chauvin** is an improv performer.
 
 ## Summary
-Jo is a frequent host at [[The Institution Theater]] for shows like *[[The Clusterfunk]]* and *[[The Triple Scoop]]*.
+Jo is a frequent host at [[The Institution Theater]] for shows like *[[Clusterfunk]]* and *[[The Triple Scoop]]*.
+She also hosted at OOB.
 
 ## History
 Jo first got into improv when she took the first class offered by [[The Institution Theater]].  Since then, she's trained at the Institution, [[The Hideout Theatre]], and the DSI Comedy Training Center.
