@@ -118,10 +118,17 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 *** [http://vimeo.com/66294097 Worlds Collide, Chapter 1: The Twilight of Neptune.]
 *** [http://vimeo.com/66134873 Strange Times: The Invasion.]
 *** [http://vimeo.com/66306441 Worlds Collide, Chapter 2: The Tomb of Heartbreak.]
-* "Shaken Not Stirred" Party (5/1/13):
-** [http://vimeo.com/66324632 Video of Codename: Sleuth and the Case of the Diamonds in the Rough.]
 * [http://www.facebook.com/media/set/?set=a.4671818636191.1073741831.1315383518&type=3 Photoset] of the cast party by [[Michael Yew]].
 * [http://www.facebook.com/media/set/?set=a.10151697102622265.1073741825.588952264&type=1 A photoset of video title cards] by [[Peter Rogers]] (from photos by [[Jon Bolden]]).
+* "Shaken Not Stirred" Party (5/1/13):
+** [http://vimeo.com/66324632 Video of Codename: Sleuth and the Case of the Diamonds in the Rough.]
+* "NerdProv" (5/3/13):
+** [http://vimeo.com/67667122 Video of the Grey Bishop in "The Sicilian Defense".]
+* The New York Unscripted Festival (5/31/13 and 6/2/13):
+** [http://vimeo.com/67689241 Video of The Beacon and the Soul of the Wizard.]
+** [http://vimeo.com/67697488 Video of Codename: Sleuth and the Case of the Laughing Cascade.]
+** [http://vimeo.com/67702032 Video of Bellwether Blue versus the Vermin Young.]
+** [http://vimeo.com/67706793 Video of the Grey Bishop in "The Exchange Variation".]
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=4&t=4898&p=41024 The 2007 'format manifesto' for an improvised pulp show] by [[Jordan T. Maxwell]].
