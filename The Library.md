@@ -17,6 +17,6 @@ The troupe began as a *[[Free Fringe]]* one-off on 2/9/12.
 * [[Jon Bolden]]
 * [[Karen Jane DeWitt]]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Library]]
 [[Category/Active|Category:Active]]
-[[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
+[[Category/Started as a Fringe Show|Library]]
