@@ -12,9 +12,9 @@
 The troupe performs "The JTS Brown", a free-form, organic montage. 
 
 ## History
-The troupe was formed as a workshop at [[ColdTowne Theater]] designed to teach the JTS Brown.
+The troupe was formed as a collaborative process between improvisers from multiple theaters to study the JTS Brown format with Craig Cackowski Dave Buckman, and Cody Dearing.
 
-They had a run of Thursday shows in May 2013 at [[ColdTowne Theater]].
+They had a run of Thursday shows in May 2013 at [[ColdTowne Theater]] with [[Cheap Date]]
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14803 The casting call for the workshop] on [[The Austin Improv Forums]]
