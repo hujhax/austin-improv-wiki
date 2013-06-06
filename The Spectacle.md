@@ -15,7 +15,7 @@
 The acts are scheduled by [[Roy Janik]], who puts out a call for applications every two months.
 
 ## History
-*The Spectacle* began in May 2010 as a replacement for *[[The Double Barrel]]*.
+*The Spectacle* began in April 2010 as a replacement for *[[The Double Barrel]]*.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheSpectacle The show's site.]
