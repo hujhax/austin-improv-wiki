@@ -19,6 +19,8 @@ It was a challenging format for performers.  A common pitfall was to simply narr
 ## History
 *Dubbed Indemnity* debuted as part of *[[The Wheel]]* in September of 2010.  Unfortunately, the video production required for *Dubbed Indemnity* became untenable, and [[Roy Janik]] retired the format in September of 2011.  A number of different one-off events happened in its monthly time slot until it was replaced by *[[Maestro Raw]]* in January 2012.
 
+Since then, *Dubbed Indemnity* has shown up for occasional one-off performances in events like [[The 44-Hour Improv Marathon]].
+
 ## Media
 * 10/22/10: [http://vimeo.com/16618448 Video.]
 * 1/28/11: [http://vimeo.com/19541045 Video.]
