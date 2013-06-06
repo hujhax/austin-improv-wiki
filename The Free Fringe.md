@@ -14,7 +14,7 @@ The Free Fringe happens every Thursday at 10pm at the Hideout.  It is free to at
 
 The show is concept-driven, rather than troupe-driven.  The Hideout accepts online submissions for show concepts, and picks several to showcase each week.
 
-The show is hosted by [[Jessica Arjet]].   Up until 2012, [[Firth & Arjet]] was the *Free Fringe*'s headliner.  After [[Kristin Firth]] left Austin, a rotating set of Jessica's projects have occupied the headliner slot.
+The show is hosted by [[Jessica Arjet]].   [[Firth & Arjet]] was the *Free Fringe*'s headliner through 8/9/12.  Then, after [[Kristin Firth]] left Austin, a rotating set of Jessica's projects have occupied the headliner slot.
 
 Many of the experiments put up for the Free Fringe have met with unexpected success and become recurring shows.
 
