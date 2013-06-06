@@ -17,6 +17,8 @@ The acts are scheduled by [[Roy Janik]], who puts out a call for applications ev
 ## History
 *The Spectacle* began in April 2010 as a replacement for *[[The Double Barrel]]*.
 
+Its early performances included a five-minute interstitial act between the first and second acts, and included an artist in attendance, whose job it was to watch the show and create some piece of art inspired by it, that would then be posted on the Hideout's blog.
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheSpectacle The show's site.]
 * [http://forum.austinimprov.com/viewtopic.php?t=10520 The first call for submissions for *The Spectacle*], from [[Roy Janik]].
