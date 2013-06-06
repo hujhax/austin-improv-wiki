@@ -14,7 +14,7 @@ They duo started in January 2007, winning a series of *[[Cagematch]]* competitio
 The troupe went on hiatus in 2012, when Kristin moved to Philadelphia.
 
 ## Formats
-![[Firth&Arjet Logo.jpg|The Firth & Arjet logo.]]
+![[Firth&Arjet Logo.png|The Firth & Arjet logo.]]
 
 ### Duologues
 Based on an audience suggestion, Jessica and Kristin create unique characters with two simultaneous monologues. Throughout the rest of the show they alternate scenes and monologues to explore the characters and reveal their relationships. The show is theatrical in style and remains truthful even when culminating in absurd situations. Silly and sublime, ethereal and grounded, real and outlandish.
@@ -26,7 +26,7 @@ A wedding is the happiest day of a woman's life. And the most stressful. It can 
 It can be tough growing up as a girl who prefers trucks over dolls, getting dirty over being pretty, and adventure over politeness. It's a lot easier with a friend who likes that stuff just as much as you. They might get into trouble but that won't stop them, even as they get older.
 
 ### Once Upon A Time
-Jessica and Kristin create a brand new fantasy story each week, using fairy tale elements provided by the audience before the show. Princesses, dragons, castles, swamps, magic lamps, poisonous apples - you help guide what gets added to the tale. Will the heroes have a happily ever after or a grim demise? An audience vote before the ending will decide. 
+Jessica and Kristin create a brand new fantasy story each week, using fairy tale elements provided by the audience before the show. Princesses, dragons, castles, swamps, magic lamps, poisonous apples - you help guide what gets added to the tale. Will the heroes have a happily ever after or a grim demise? An audience vote before the ending will decide.
 
 ## Festivals
 * The Chicago Improv Festival
