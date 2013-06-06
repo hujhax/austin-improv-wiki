@@ -1,3 +1,9 @@
+{{Infobox Performer
+|Name	=	The Starter Kit	
+|Picture =	The Starter Kit logo.jpg
+|Years	=	2007-2011
+}}
+
 In late 2006, [[Justin Davis]], Eric Garcia, and Brad Temple met while taking improv classes at [[The Hideout Theatre]]. Wanting to continue on performing with each other, the three of them decided to form a troupe. The three then asked [[Aden Kirschner]], Zach Palmer, and Ann Wilson to join this troupe after meeting and playing with them in the [[Tuesday Night Jam]]. After a few rehearsals, the nameless troupe signed up to play the [[Cage Match]] at [[ColdTowne Theater]]. Before the first show, Davis received a phone call by someone (possibly [[Andy Crouch]] or [[Michael Jastroch]]) looking for a name to call this team. Without thinking, he instantly said the words The Starter Kit. The troupe went on to win that Cage Match tournament. Troupe members discussed coming up with a different name, but after performing several shows and being introduced by this name, the troupe decided that the name had stuck.  
 
 Known for their playful and adventurous style, The Starter Kit quickly went on to perform regular shows at The Hideout and ColdTowne Theater, often being the opening act for [[Parallelogramophonograph]]'s weekly Thursday night slot at ColdTowne. For the first three anniversary shows, The Starter Kit handed out water guns to the audience and performed montage scenes while audience members soaked them with water. 
