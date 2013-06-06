@@ -8,7 +8,8 @@
 
 : *This page refers to the narrative troupe in which each player improvises in a particular genre.  For the narrative troupe in which each player improvised in the style of a particular playwright, see [[The Plagiarists]].*
 
-**The Library** is an improv troupe in which each performer improvises in their own particular genre.
+**The Library** is an improv troupe in which each each improviser acts in a different style or genre, while they all work together to create one story. 
+
 
 ## History
 The troupe began as a *[[Free Fringe]]* one-off on 2/9/12.
