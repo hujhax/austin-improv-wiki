@@ -6,7 +6,7 @@
 |Years	=		2012-Present
 }}
 
-: *This page refers to the narrative troupe in which each player improvises in a particular genre.  For the narrative troupe in which each player improvises in the style of a particular playwright, see [[The Plagiarists]].*
+: *This page refers to the narrative troupe in which each player improvises in a particular genre.  For the narrative troupe in which each player improvised in the style of a particular playwright, see [[The Plagiarists]].*
 
 **The Library** is an improv troupe in which each performer improvises in their own particular genre.
 
