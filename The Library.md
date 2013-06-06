@@ -19,3 +19,4 @@ The troupe began as a *[[Free Fringe]]* one-off on 2/9/12.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
+[[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
