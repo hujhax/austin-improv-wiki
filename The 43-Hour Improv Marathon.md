@@ -44,7 +44,7 @@
 * Saturday 10pm: *[[Maestro]]*
 * Sunday 12am: [[Confidence Men]]
 * Sunday 1am: [[The Puppet Improv Project]]
-* Sunday 2am: "Tech Nightmare", a show where the tech booth rebels and controls the performers with random sounds, lighting cues, and music.
+* Sunday 2am: *[[Tech Nightmare]]*
 * Sunday 3am: [[Midnight Society]] 
 * Sunday 4am: *[[Seance]]*
 * Sunday 5am: [[Tears But Joy]] 
