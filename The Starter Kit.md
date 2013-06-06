@@ -1,6 +1,7 @@
 {{Infobox Performer
 |Name	=	The Starter Kit
 |Picture =	The Starter Kit logo.jpeg
+|Cast =   {{Unbulleted list | [[Brad Temple]] | [[Erik Adams]] | [[Justin Davis]] | [[Zach Palmer]] }}
 |Years	=	2007-2011
 }}
 
