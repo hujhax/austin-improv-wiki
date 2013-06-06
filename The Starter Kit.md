@@ -1,6 +1,6 @@
 {{Infobox Performer
-|Name	=	The Starter Kit	
-|Picture =	The Starter Kit logo.jpg
+|Name	=	The Starter Kit
+|Picture =	The Starter Kit logo.jpeg
 |Years	=	2007-2011
 }}
 
