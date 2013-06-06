@@ -24,3 +24,8 @@ They then repeat this process with a new audience title.
 The show began as a one-off for the premiere of *[[The Free Fringe]]* on 1/5/12
 
 It will be part of [[The 44-Hour Improv Marathon]]
+
+
+[[Category/Active|Category:Active]]
+[[Category/Shows|Category:Shows]]
+[[Category/Started as a Fringe Show‎|Category:Started as a Fringe Show‎]]
