@@ -43,14 +43,14 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Saturday 2am: Project2 (a science-fiction duo from Britain)
 * Saturday 3am: [[Cheap Date]]
 * Saturday 4am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]
-* Saturday 5am: *[[Epic Telescope]]* (a old *[[Free Fringe]]* format that does Half-Life in reverse)
+* Saturday 5am: *[[Epic Telescope]]* (AKA "Half-Life in reverse")
 * Saturday 6am: Performance with veterans of [[The Hideout Improv Marathon]]
 * Saturday 7am: Student Show
 * Saturday 8am: [[Waterpark]], a musical-improv troupe from [[The New Movement]]
 * Saturday 9am: *[[Dubbed Indemnity]]*
 * Saturday 10am: [[Local Genius Society]] presents "Video Game", where cards scattered with 'helpful' instructions throw kinks and twists into this improvised story.
 * Saturday 11am: *[[Charles Dickens Unleashed]]*
-* Saturday 12pm: [[Arkay]] presents JTS Brown, an improv format---or rather, lack of format -- invented by some bigwigs in Chicago in 1998. It involves a large cast and never-ending improv.
+* Saturday 12pm: [[Arkay]] presents JTS Brown.
 * Saturday 1pm: [[What's the Story, Steve]]
 * Saturday 2pm: Free-form improv from the core cast. (Nicknamed "The Eye of the Storm", this is the exact midpoint of the marathon.)
 * Saturday 3pm: [[Girls Girls Girls]]
@@ -63,7 +63,7 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Saturday 10pm: *[[Maestro]]*
 * Sunday 12am: *[[The Black Vault]]*
 * Sunday 1am: [[Puppet Improv Project]]
-* Sunday 2am: *[[Tech Nightmare]]*, a show where the tech booth rebels and controls the performers with random sounds, lighting cues, and music.
+* Sunday 2am: *[[Tech Nightmare]]*
 * Sunday 3am: TBA
 * Sunday 4am: *[[Pulp Friction]]*
 * Sunday 5am: Secret Show
