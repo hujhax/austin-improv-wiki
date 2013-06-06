@@ -8,7 +8,7 @@
 |Subsequent Runs= 7/19/12, 9/27/12, 10/25/12, 12/13/12
 }}
 
-**Tech Nightmare** is an improv show in which the technical improvisors control the show with bold and often arbitrary sound and light choices.
+***Tech Nightmare*** is an improv show in which the technical improvisors control the show with bold and often arbitrary sound and light choices.
 
 ## Summary
 This show is entirely controlled by the tech booth.  The tech booth offers a variety of offers that the players must incorporate into their performance, including:
