@@ -38,7 +38,7 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Friday 8pm: *[[The Fancy-Pants Mashup]]*
 * Friday 10pm: [[Parallelogramophonograph]] presents "New Works"
 * Friday 11pm: [[Franz & Dave]]
-* Saturday 12am: [[The New Game Project]]
+* Saturday 12am: *[[The New Game Project]]*
 * Saturday 1am: [[In Our Prime]]
 * Saturday 2am: Project2 (a science-fiction duo from Britain)
 * Saturday 3am: [[Cheap Date]]
