@@ -43,7 +43,7 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Saturday 2am: Project2 (a science-fiction duo from Britain)
 * Saturday 3am: [[Cheap Date]]
 * Saturday 4am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]
-* Saturday 5am: [[Epic Telescope]] (a old *[[Free Fringe]]* format that does Half-Life in reverse)
+* Saturday 5am: *[[Epic Telescope]]* (a old *[[Free Fringe]]* format that does Half-Life in reverse)
 * Saturday 6am: Performance with veterans of [[The Hideout Improv Marathon]]
 * Saturday 7am: Student Show
 * Saturday 8am: [[Waterpark]], a musical-improv troupe from [[The New Movement]]
