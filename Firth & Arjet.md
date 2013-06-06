@@ -11,6 +11,8 @@
 ## History
 They duo started in January 2007, winning a series of *[[Cagematch]]* competition shows with a signature half-scripted format.  Later, they started working with [[Asaf Ronen]] as their director and coach, and worked on character-focused formats.
 
+Firth and Arjet headlined *[[The Free Fringe]]* from its premiere on 1/5/12 until their last performance, on 8/9/12.
+
 The troupe went on hiatus in 2012, when Kristin moved to Philadelphia.
 
 ## Formats
