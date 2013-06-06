@@ -5,7 +5,7 @@
 |Years	=		2013-Present
 }}
 
-**Cheap Date** is a [[ColdTowne Student Troupes|student troupe]] at [[ColdTowne Theater]]. They share members with [[Nice Astronaut]], [[Concrete]], [[Golden Age]], [[Arkay]], and [[Book Club]].
+**Cheap Date** started as a [[ColdTowne Student Troupes|student troupe]] at [[ColdTowne Theater]]. They share members with [[Nice Astronaut]], [[Concrete]], [[Golden Age]], [[Arkay]], and [[Book Club]]. 
 
 ## More Information
 * [http://www.facebook.com/cheapdateatx The troupe's facebook page.]
