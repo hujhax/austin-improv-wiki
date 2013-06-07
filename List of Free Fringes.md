@@ -9,7 +9,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |style="white-space:nowrap" rowspan="3"| Jan 5, 2012
 |Drag || |[[Jason Vines]] ||style=text-align:left;|It's simple. Girls dress up as guys. Guys dress up as girls. Everyone plays opposite their actual gender. We get 4 guys and 4 girls in drag up on stage and do a montage. Anything goes.
 |-
-|*[[New Game Project]]* || [[Roy Janik]] ||style=text-align:left;|In shows like Maestro that feature improv games, we've got a ton of favorites that we bust out week after week. In the New Game Project we're throwing all those out of the window. We'll take names of non-existent games from the audience and invent new games on the fly. And who knows, the ones we like the best might make their way back into Maestro.
+|*[[The New Game Project]]* || [[Roy Janik]] ||style=text-align:left;|In shows like Maestro that feature improv games, we've got a ton of favorites that we bust out week after week. In the New Game Project we're throwing all those out of the window. We'll take names of non-existent games from the audience and invent new games on the fly. And who knows, the ones we like the best might make their way back into Maestro.
 |-
 | Headlining ||  [[Firth & Arjet]] ||
 |-
