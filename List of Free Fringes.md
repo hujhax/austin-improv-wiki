@@ -2,7 +2,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 
 {| class="wikitable" style=padding:1em;text-align:center
 |-
-!Date!!Format!!width=100em|Producer!!Description
+!Date!!Format!!Producer!!Description
 |-
 !colspan="4"|2012 Shows
 |-
@@ -480,4 +480,11 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 | World of Typos || [[Asaf Ronen]] ||style=text-align:left;|Many improvisers are writers and many writers notice the typos that squeeze through and end up on menus, on signs, in magazine articles.  And many improviser/writers imagine the world where those would be typos, where a diner would offer Fred Eggs, where quotation marks are thrown about willy nilly. starring: [[Justin Davis]], [[Lisa Jackson]], [[Jeanette Jones]], [[Ted Meredith]], and [[Asaf Ronen]].
 |-
 |Headlining ||  [[Your Dad's Friends]] ||
+|-
+|style="white-space:nowrap" rowspan="3"|Jun  7, 2013
+|TeacherProv || [[Mia Iseman]] || Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.
+|-
+|Bueler, Bueler?|| [[Andrew Buck]] || Andrew picks one person from the audience… a person who has no improv training, and does a show with them.
+|-
+|Jessica & Marc || [[Jessica Arjet]] ||
 |}
