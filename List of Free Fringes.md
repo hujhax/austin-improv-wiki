@@ -33,9 +33,9 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |Always a Bridesmaid || [[Firth & Arjet]] ||
 |-
 |style="white-space:nowrap" rowspan="3"| Feb  2, 2012 
-|GrimmNoire || ||style=text-align:left;|Ever wonder what Cinderella would look like if written by Dashiell Hammett? How about if The Big Bad Wolf was looking for a "Special Package" when Red came down the path? It's Grimm's Fairy Tales in the style of Film Noir. One fairy tale is retold in the style of Noir. starring: [[Mike Kinald]], [[David Lampe]], [[Jason Vines]], [[Topping Haggerty]], [[Halyn Lee Erickson]]
+|*[[GrimmNoire]]* || ||style=text-align:left;|Ever wonder what Cinderella would look like if written by Dashiell Hammett? How about if The Big Bad Wolf was looking for a "Special Package" when Red came down the path? It's Grimm's Fairy Tales in the style of Film Noir. One fairy tale is retold in the style of Noir. starring: [[Mike Kinald]], [[David Lampe]], [[Jason Vines]], [[Topping Haggerty]], [[Halyn Lee Erickson]]
 |-
-|Tamales!  || [[Jason Vines]] ||style=text-align:left;|We have a large container of cooked tamales on stage. + We do improv scenes. = At least one person must be eating a tamale at all times during any given scene. Improvisers must justify why one person has their mouth full. starring: [[Jason Vines, Mike Kinald, Eric Heiberg, Ann Wilson]], [[Amy Averett]], [[Meredith Newell]], [[Victoria Bui]], [[John Buseman]]
+|Tamales!  || [[Jason Vines]] ||style=text-align:left;|We have a large container of cooked tamales on stage. + We do improv scenes. = At least one person must be eating a tamale at all times during any given scene. Improvisers must justify why one person has their mouth full. starring: [[Jason Vines]], [[Mike Kinald]], [[Eric Heiberg]], [[Ann Wilson]], [[Amy Averett]], [[Meredith Newell]], [[Victoria Bui]], [[John Buseman]]
 |-
 |Always a Bridesmaid || [[Firth & Arjet]] ||
 |-
@@ -56,16 +56,16 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 | Always a Bridesmaid || [[Firth & Arjet]] ||
 |-
 |style="background-color:#dddddd;white-space:nowrap" rowspan="3"| Feb 23, 2012 
-| Alternate Ending || [[Jason Oliver]] ||style=text-align:left;|This show takes stories, books, and movies that we all know and love, and indulges in a bit of wish fulfillment. The improvisers will take suggestions for stories that are crying out to be rewritten. First, they'll perform a mostly accurate version of the original ending, and then throw the script away to find out what could have happened. These are the Director's endings, the insane endings, the just endings, the "What should have happened" endings. starring: Jason Oliver, Chuy Zarate, Arby Gonzales, Zac Grantham 
+| Alternate Ending || [[Jason Oliver]] ||style=text-align:left;|This show takes stories, books, and movies that we all know and love, and indulges in a bit of wish fulfillment. The improvisers will take suggestions for stories that are crying out to be rewritten. First, they'll perform a mostly accurate version of the original ending, and then throw the script away to find out what could have happened. These are the Director's endings, the insane endings, the just endings, the "What should have happened" endings. starring: [[Jason Oliver]], [[Chuy Zarate]], [[Arby Gonzales]], [[Zac Grantham]]
 |-
-| Mixed Modes || [[Paul Normandin]] ||style=text-align:left;|Allison is done with improv. She's decided to return to the world of scripted theatre, and she's dragging the rest of us along with her. She'll be performing the entire show with a script (only known to her), including all her lines and stage directions. Everyone else had better catch up, and make sense of whatever miscommunications happen along the way. starring: Allison Asher, Ryan Hill, Jessica Arjet, Katherine Greco, Gloria Bankler, Paul Normandin 
+| Mixed Modes || [[Paul Normandin]] ||style=text-align:left;|Allison is done with improv. She's decided to return to the world of scripted theatre, and she's dragging the rest of us along with her. She'll be performing the entire show with a script (only known to her), including all her lines and stage directions. Everyone else had better catch up, and make sense of whatever miscommunications happen along the way. starring: [[Allison Asher]], [[Ryan Hill]], [[Jessica Arjet]], [[Katherine Greco]], [[Gloria Bankler]], [[Paul Normandin]]
 |-
 |Always a Bridesmaid || [[Firth & Arjet]] ||
 |-
 |style="white-space:nowrap" rowspan="3"| Mar  1, 2012 
-| The Mitch-o-Scene || [[Jeff O'Leary]] ||style=text-align:left;|The late, great Mitch Hedberg was a fantastic comedian: surreal, unconventional, and brilliantly insane. So what happens when a bunch of improvisers play tribute to Mitch by all pretending to be him while doing improv? Who knows. Is this idea too out there even for the extremely out there Free Fringe? Quite possibly!  Starring: Andy Campbell, Ashley Carlisle, Stephanie Hagemeister, Dan Kerrigan, Jeff O'Leary, Nichole Oliver and Kevin Smith 
+| The Mitch-o-Scene || [[Jeff O'Leary]] ||style=text-align:left;|The late, great Mitch Hedberg was a fantastic comedian: surreal, unconventional, and brilliantly insane. So what happens when a bunch of improvisers play tribute to Mitch by all pretending to be him while doing improv? Who knows. Is this idea too out there even for the extremely out there Free Fringe? Quite possibly!  Starring: [[Andy Campbell]], [[Ashley Carlisle]], [[Stephanie Hagemeister]], [[Dan Kerrigan]], [[Jeff O'Leary]], [[Nichole Oliver]], [[Kevin Smith]] 
 |-
-| DrunkProv || [[Chuy Zarate]] ||style=text-align:left;|Speaking of questionable ideas, here's another one. There are 4 performers. There is one case of beer. The case must be completely drunk by the end of the show. Insanity prevails. starring: David Lampe, Blynch, Jessica Arjet, Chuy Zarate 
+| DrunkProv || [[Chuy Zarate]] ||style=text-align:left;|Speaking of questionable ideas, here's another one. There are 4 performers. There is one case of beer. The case must be completely drunk by the end of the show. Insanity prevails. starring: [[David Lampe]], [[Blynch]], [[Jessica Arjet]], [[Chuy Zarate]] 
 |-
 | Headlining || [[Firth & Arjet]] ||
 |-
@@ -113,7 +113,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |style="background-color:#dddddd;white-space:nowrap" rowspan="3"| Apr 26, 2012 
 | Campfire Songs || [[Michael Brockman]] ||style=text-align:left;|Folks gathered 'round a campfire, making s'mores and telling each other stories. Except the stories will all be improvised songs and the campfire will be fake (hopefully). All the warmth and joy of a communal night around the fire, with more music and fewer bugs. starring: [[Aden Kirschner]], [[Jordan Maxwell]], [[Jason Vines]], [[Peter Rogers]], [[Amber Franklin]], and [[Michael Brockman]]
 |-
-| Epic Telescope || [[Peter Rogers]] and [[Marc Majcher]] ||style=text-align:left;|There's a game in Maestro called Half-Life, where we do a scene in a minute, then the same scene in 30 seconds, then 15, then 7... This is the opposite of that. The brave performers will start with a 10 second scene, and re-do it longer, and longer, and longer. As Peter Rogers, one of the producers, said: "This is probably completely impossible. If it crashes and burns, I will reveal that the whole thing was Marc's (the other producer's) idea."  starring: [[Peter Rogers]], [[Marc Majcher]], [[Lauren Buck]], [[Lisa Jackson]], and [[Josh Gill]]
+| *[[Epic Telescope]]* || [[Peter Rogers]] and [[Marc Majcher]] ||style=text-align:left;|There's a game in Maestro called Half-Life, where we do a scene in a minute, then the same scene in 30 seconds, then 15, then 7... This is the opposite of that. The brave performers will start with a 10 second scene, and re-do it longer, and longer, and longer. As Peter Rogers, one of the producers, said: "This is probably completely impossible. If it crashes and burns, I will reveal that the whole thing was Marc's (the other producer's) idea."  starring: [[Peter Rogers]], [[Marc Majcher]], [[Lauren Buck]], [[Lisa Jackson]], and [[Josh Gill]]
 |-
 |Tomboys || [[Firth & Arjet]] ||
 |-
@@ -224,7 +224,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |style="background-color:#dddddd;white-space:nowrap" rowspan="3"| Aug 16, 2012 
 | Object Stories || [[Neal Tibrewala]] ||style=text-align:left;|What is worth? What gives an object value? Let's find out in the most ridiculous way possible! 1. Let's take valueless objects 2. Give them value by making up stories about them 3. Auction the newly made-awesome objects off to the audience. Bring an object if you like! We'll do the legwork for you by improvising a totally untrue story all about it, and then selling it for cold, hard cash. starring: [[Peter Rogers]], [[Neal Tibrewala]], [[Troy Miller]], [[Halyn Erickson]], [[Valerie Ward]]
 |-
-| The New Game People!  || [[Roy Janik]] ||style=text-align:left;|Brand new, never before seen improv games will be invented on the spot based on audience suggestions. starring: Alex Dobrenko, Jon Bolden, Ruby Willmann, Roy Janik 
+| The New Game People!  || [[Roy Janik]] ||style=text-align:left;|Brand new, never before seen improv games will be invented on the spot based on audience suggestions. starring: [[Alex Dobrenko]], [[Jon Bolden]], [[Ruby Willmann]], [[Roy Janik]] 
 |-
 |Headlining || [[In Our Prime]] ||
 |-
@@ -257,7 +257,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |-
 | *[[Tech Nightmare]]* || [[Cindy Page]] ||style=text-align:left;|Improvisers are great and all, but they have too much control over their own destiny. It's time for the true puppet masters to shine... the tech booth! For one show only, the tech booth is entirely in charge. Lighting, sound effects, and music are all played at their whim, and the improvisers don't play along, they are severely punished. 
 |-
-|Politiprov:||Your Dad's Friends ||style=text-align:left;|It's time for some timely, relevant improv. Your Dad's Friends takes us behind the scenes of two warring political campaigns. We won't know what the issue is until the audience decides, but it's bound to be contentious. The drama is intense, the stakes are high, and the fate of humanity (or some small town's curfew hours) hangs in the balance! 
+|Politiprov:||[[Your Dad's Friends]] ||style=text-align:left;|It's time for some timely, relevant improv. [[Your Dad's Friends]] takes us behind the scenes of two warring political campaigns. We won't know what the issue is until the audience decides, but it's bound to be contentious. The drama is intense, the stakes are high, and the fate of humanity (or some small town's curfew hours) hangs in the balance! 
 |-
 |style="background-color:#dddddd;white-space:nowrap" rowspan="3"| Oct  4, 2012 
 | Gamers of a Certain Age || [[Mike Nystul]] ||style=text-align:left;|A group of older men is gathering like they have every week since high school. At first, it was to play D&D but over time it has become an excuse to get away from their lives and talk to the only people who understand them - their adventuring buddies.  They're there to play the game, but can the quest be won when real life keeps getting in the way?
@@ -319,21 +319,21 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |-
 | Downton 2121 || [[Andy Buck]] ||style=text-align:left;|Downton Abbey jumps to the year 2121. Stately English manor drama meets the distant future. Ray guns heat tea. Robot stable boys. Holograms eavesdropping on the scullery maids. starring: [[Mia Iseman]], [[Andy Buck]], [[Karen Jane DeWitt]], [[Luke Wallens]], [[Colin Thomas Bates]], [[Katie Thornton]], and [[Courtney Hopkin]]
 |-
-| Headlining || In Our Prime || 
+| Headlining || [[In Our Prime]] || 
 |-
 |style="background-color:#dddddd;white-space:nowrap" rowspan="3"| Dec 27, 2012 
 | Preacher Roommate Detective Squad || [[Mitchell Deane]] ||style=text-align:left;|They are preachers. They are roommates. They are freelance detectives. They are... the Preacher Roommate Detective Squad. starring: [[Mitchell Deane]], [[Christopher 'Ceej' Allen]], [[Kevin Miller]], [[Claudio Fox]], [[Scott Hearne]]
 |-
 | Expectoratin' with [[Julie Gillis]] || [[Julie Gillis]] ||style=text-align:left;|We've all got things we want to get off our chest... fears, secrets, pet peeves, aliens, and mucus. This show is about that. With [[Julie Gillis]]. starring: [[Kevin Miller]], [[Jordan T. Maxwell]], [[Ashlee Medlin]], [[Marc Majcher]] 
 |-
-| Headlining || Your Dad's Friends || 
+| Headlining || [[Your Dad's Friends]] || 
 |-
 !colspan="4"|2013 Shows
 |-
 |style="white-space:nowrap" rowspan="3"| Jan  3, 2013 
 | Austin Free Hug Day Adventure || [[Sandra Ybarra]] ||style=text-align:left;|Scenes inspired by the experiences of local improvisers who braved the rain and cold weather to reach out and hug a stranger to brighten up their lives. Everyone needs a hug. Come feel the change. starring: [[Adriane Shown]], [[Cassidy Santaguida]], [[Christopher Sebilia]], [[Luke Wallens]], [[Ryan Hill]], [[Sandra Ybarra]], and [[Victoria Hawthorne]]
 |-
-| It's a Wonderful Resolution || [[Travis Devitt]] ||style=text-align:left;|New Years resolutions are notoriously difficult to actually carry out and most people fail at them. We'll be getting actual New Years resolutions from the audience and do an improvised set of scenes based on what life will be like for the audience member if they actually stick with their resolution. starring: [[Travis Devitt]], [[Ryan Austin]], [[Luke Wallens]], [[Heidi Rogers]], [[Brandon Martin]], [[And Kim Dilling]]
+| It's a Wonderful Resolution || [[Travis Devitt]] ||style=text-align:left;|New Years resolutions are notoriously difficult to actually carry out and most people fail at them. We'll be getting actual New Years resolutions from the audience and do an improvised set of scenes based on what life will be like for the audience member if they actually stick with their resolution. starring: [[Travis Devitt]], [[Ryan Austin]], [[Luke Wallens]], [[Heidi Rogers]], [[Brandon Martin]], and [[Kim Dilling]]
 |-
 |Once Upon a Time || [[Firth & Arjet]] ||
 |-
@@ -482,7 +482,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |Headlining ||  [[Your Dad's Friends]] ||
 |-
 |style="white-space:nowrap" rowspan="3"|Jun  7, 2013
-|TeacherProv || [[Mia Iseman]] || Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.
+|TeacherProv || [[Mia Iseman]] || Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.  Cast: [[Ashley Jayne Carlisle]], [[Caitlin Sweetlamb]], [[David Lampe]], [[Jayme Ramsey]], [[Jeremy Sweetlamb]], [[Mia Iseman]]
 |-
 |Bueler, Bueler?|| [[Andrew Buck]] || Andrew picks one person from the audience… a person who has no improv training, and does a show with them.
 |-
