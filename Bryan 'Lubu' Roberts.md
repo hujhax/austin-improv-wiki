@@ -30,5 +30,6 @@ Bryan was a company member of [[Gnap! Theater Projects]]. He currently performs 
 * *[[After School Special Victims Unit]]*
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (Samuel "Screech" Powers)
 * *[[Sci-Fi Saturdays]]*
+* *[[TGIS - Improvised Sitcoms]]*
 
 [[Category/Performers|Roberts]]
