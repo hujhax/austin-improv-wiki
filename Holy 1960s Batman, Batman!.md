@@ -53,3 +53,6 @@ On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective ro
 ** Teasers for the show: [http://youtu.be/v-Enot5nZyg "Superior Intellect"], [http://youtu.be/vmYDs-M53_8 "Walk It Off"], [http://youtu.be/17FTN8qNMqc "A Dream Come True"], [http://youtu.be/6a7QO56rKm0 "No Ego"], [http://youtu.be/h_jpVQn3Lfk "Chia Pet"].
 ** [http://youtu.be/c4V0yO1ZXIg A teaser for the Halloween shows.]
 ** [http://vimeo.com/60813845 Video of "Waiting for Batman".]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
