@@ -4,7 +4,7 @@
   |Director = Various
   |Theater  = [[The Hideout Theatre]]
   |Cast     = Various
-  |Run    = 2005-Present
+  |Run    = 2005-2010
 }}
 
 ***The Double Barrel*** (formerly ***The Twofer*** and ***The Style Show***) was a performance slot at [[The Hideout Theatre]].
