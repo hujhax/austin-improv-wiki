@@ -25,3 +25,6 @@ The show was put on sporadically during the early years of the Hideout, and then
 ## Media
 * [http://www.facebook.com/media/set/?set=a.19101007264.15333.588952264&type=3 of the 5/24/2002 show] by [[Peter Rogers]].
 * [http://www.facebook.com/media/set/?set=a.79685787264.92719.588952264&type=3 Photoset of a one-off show on 2/26/2009] by [[Peter Rogers]].
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
