@@ -93,7 +93,7 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |Jul 2011||Aug 2011||*[[Live Nude Improv]]*||[[Andy Crouch]]
 |-
-|Sep 2011||Oct 2011||*[[Spirited]]*||[[Asaf Ronen]],[[Marc Majcher]]
+|Sep 2011||Oct 2011||*[[Spirited]]*||[[Asaf Ronen]], [[Marc Majcher]]
 |-
 |Nov 2011||Dec 2011||*[[Charles Dickens Unleashed]]*||[[Jessica Arjet]], [[Kaci Beeler]]
 |-
@@ -113,7 +113,7 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |Mar 2013||Apr 2013||*[[Strange Worlds]]*||[[Jordan T. Maxwell]]
 |-
-|May 2013||Jun 2013||*[[Theatresports]]*||[[Roy Janik]],[[Ryan Austin]]
+|May 2013||Jun 2013||*[[Theatresports]]*||[[Roy Janik]], [[Ryan Austin]]
 |-
 |Jul 2013||Aug 2013||*[[Fakespeare]]*||[[Andy Crouch]]
 |-
