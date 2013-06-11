@@ -41,3 +41,6 @@ After its mainstage run, there were a number of one-off shows:
 * [http://vimeo.com/55421296 Video of the one-off "Lovecraft Secrets" show] (a mash-up with *[[Austin Secrets]]* at *[[The Free Fringe]]*), from 12/6/12.
 * [http://vimeo.com/64275476 Video of the 4/13/2013 performance] at [[The 2013 Improvised Play Festival]].
 * [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[Pick Your Own Path]]* at *[[The Free Fringe]]*), from 5/23/13.
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
