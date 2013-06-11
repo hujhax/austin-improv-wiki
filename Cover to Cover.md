@@ -7,6 +7,8 @@
 |Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Amy McKenna]] | [[Ashlee Medlin]] | [[Ashley Lowe]] | [[Audrey Sansom]] | [[Emma Holder]] | [[Eric Heiberg]] | [[Julie Gillis]] | [[Kevin Miller]] | [[Nick Jimenez]] | [[Nicole Beckley]] | [[Odin Amador]] }}
 |Run	=	Oct/Nov 2011
 }}
+![[Cover to Cover Performance.jpg|A performance of *Cover to Cover*.]]
+
 
 ***Cover to Cover*** was a longform show inspired by the [[Wikipedia - Nancy Drew|Nancy Drew]] and [[Wikipedia - Hardy Boys|Hardy Boys]] young-adult mystery novels.
 
