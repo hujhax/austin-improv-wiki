@@ -35,3 +35,6 @@ Unfortunately, the video production schedule required for *The Nightmare Video P
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/nightmarevideoproject The show's web page.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
