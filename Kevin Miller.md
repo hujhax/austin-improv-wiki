@@ -8,18 +8,18 @@
 
 ## Troupes
 * [[Foolish Mortals]] (2003-2004)
-* [[¡Zarzamora!]] (2011-)
-* [[Your Dad's Friends]] (2012-)
 * [[The Known Wizards]] (2013-)
+* [[Your Dad's Friends]] (2012-)
+* [[¡Zarzamora!]] (2011-)
 
 ## Shows
-* *[[Start Trekkin']]*
-* *[[Slumber Party Slaughter]]*
-* *[[False Matters]]*
-* *[[Totally Improvised, 90210]]*
 * *[[Cover to Cover]]*
-* *[[Steam, Rose-Colored Goggles, and the Flight of the Victoriana]]*
+* *[[False Matters]]*
+* *[[Slumber Party Slaughter]]*
+* *[[Start Trekkin']]*
+* *[[Steam]]*
 * *[[This American Live]]*
+* *[[Totally Improvised, 90210]]*
 
 [[Category/Performers|Miller]]
 [[Category/Teachers|Miller]]
