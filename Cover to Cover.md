@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Cover to Cover
-|Picture=	Cover to Cover.jpg
+|Picture=	Cover to Cover.gif
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	{{Unbulleted list | [[Audrey Rachel Sansom]] | [[Julie Gillis]] }}
 |Producer =     [[Gnap! Theater Projects]]	
