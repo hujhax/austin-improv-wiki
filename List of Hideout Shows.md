@@ -27,4 +27,5 @@ order=ascending
 ### Shows Without Pages
 These are Hideout shows that still need pages on the wiki.
 * *[[The Blank Show]]*
+* *[[Thursday Night Awesome]]*
 * *[[Slumber Party Slaughter]]*
