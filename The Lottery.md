@@ -17,3 +17,6 @@
 
 ## Media
 * [http://vimeo.com/22243800 Video of the 4/8/11 lottery.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
