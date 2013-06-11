@@ -24,3 +24,6 @@ The cast worked at slowing down the plot.  They would focus less on making thing
 
 ## More Information
 * [http://www.facebook.com/pages/Twilight-Zoned-Improv-Comedy/273908725985889 The show's facebook page.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
