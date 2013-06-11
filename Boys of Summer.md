@@ -70,3 +70,4 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 * [https://vimeo.com/29000288 Video] of [[Jason Laney]] guesting with *Boys of Summer* in 2011.
 
 [[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
