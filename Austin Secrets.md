@@ -93,3 +93,6 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 
 ## Notes
 <references/>
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
