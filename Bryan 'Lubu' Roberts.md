@@ -27,6 +27,7 @@ Bryan currently maintains the comedy website ghettosketchwarlock.com and perform
 ## Shows
 * *[[Guilds of Steel]]* (director)
 * *[[Hyperlinks]]*
+* *[[Maestro]]* (Maestro of Maestros)
 * *[[Eye for an iPhone]]*
 * *[[Shanty Town Lake]]*
 * *[[Rapture the Flag]]*
