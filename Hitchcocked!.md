@@ -29,3 +29,6 @@ The show included several guest performers who weren't part of the main cast:
 * [http://www.hideouttheatre.com/hitchcocked-podcast A podcast interview about the show] with co-director [[Troy Miller]].
 * [http://forum.austinimprov.com/viewtopic.php?p=90840 The announcement of the show's premiere] on [[The AIC Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?p=90441 The call for technical improvisors] on [[The AIC Forums]].
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
