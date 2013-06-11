@@ -146,3 +146,7 @@ The schedule is as follows:
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheatresportsTournament The show's web page.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+[[Category/Active|Category:Active]]
