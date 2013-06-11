@@ -94,3 +94,6 @@ Unknown
 * [http://forum.austinimprov.com/viewtopic.php?t=9918 Forum announcement of the premiere.]
 * [http://www.hideouttheatre.com/statesman-review-for-charles-dickens-unleashed Review of a 2009 performance by *The Austin Statesman*.]
 * [http://www.austinchronicle.com/arts/2010-01-01/933531/ Review of a 2009 performance by *The Austin Chronicle*.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
