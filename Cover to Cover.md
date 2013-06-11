@@ -4,7 +4,7 @@
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	{{Unbulleted list | [[Audrey Rachel Sansom]] | [[Julie Gillis]] }}
 |Producer =     [[Gnap! Theater Projects]]	
-|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Amy McKenna]] | [[Ashlee Medlin]] | [[Ashley Lowe]] | [[Audrey Sansom]] | [[Emma Holder]] | [[Eric Heiberg]] | [[Julie Gillis]] | [[Kevin Miller]] | [[Nick Jimenez]] | [[Nicole Beckley]] | [[Odin Amador]] }}
+|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Amy McKenna]] | [[Ashlee Medlin]] | [[Ashley Lowe]] | [[Audrey Rachel Sansom]] | [[Emma Holder]] | [[Eric Heiberg]] | [[Julie Gillis]] | [[Kevin Miller]] | [[Nick Jimenez]] | [[Nicole Beckley]] | [[Odin Amador]] }}
 |Run	=	Oct/Nov 2011
 }}
 ![[Cover to Cover Performance.jpg|A performance of *Cover to Cover*.]]
