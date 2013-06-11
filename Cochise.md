@@ -39,3 +39,6 @@ The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran a
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=72523 The announcement of the dates] for [[Frontera Fest]] on [[The Austin Improv Forums]].
 * [http://www.austinchronicle.com/arts/2008-11-28/707074/ Article in *The Austin Chronicle* about the show.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
