@@ -19,6 +19,7 @@ In 2013, he moved to Minneapolis.  Just before that, he had a special *[[Free Fr
 * [[Improv for Evil]]
 
 ## Shows
+* *[[Cover to Cover]]*
 * *[[The Derby]]* (producer/creator)
 * *[[Fandom]]*
 * *[[Holy 1960s Batman, Batman!]]*
