@@ -23,3 +23,7 @@ Its early performances included a five-minute interstitial act between the first
 * [http://www.hideouttheatre.com/shows/TheSpectacle The show's site.]
 * [http://forum.austinimprov.com/viewtopic.php?t=10520 The first call for submissions for *The Spectacle*], from [[Roy Janik]].
 * [http://www.hideouttheatre.com/mo-daviaus-story-for-the-spectacle The art created for the 4/2/10 premiere] (by [[Mo Daviau]]).
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+[[Category/Active|Category:Active]]
