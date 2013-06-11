@@ -138,3 +138,6 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [http://www.comicbookresources.com/?page=article&id=16806 Article on comicbookresources.com from 6/16/08.]
 * [http://goodcomics.comicbookresources.com/2008/06/26/superhero-improv-is-good/ Article on comicbookresources.com from 6/26/08.]
 * [http://forum.austinimprov.com/viewtopic.php?t=9700 Announcement of the opening of the second run] on [[The AIC Forums]].
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
