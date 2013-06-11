@@ -22,5 +22,5 @@ The show opened with *[[Twilight Zoned]]*.  That act would use about five improv
 * [http://www.hideouttheatre.com/shows/thesci-fidoublefeature The show's web page.]
 * [http://forum.austinimprov.com/viewtopic.php?t=12569 The casting announcement for the show.]
 
-[[Category/Shows|Category:Shows]]
+[[Category/Shows|Sci-Fi Comedy Double Feature]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
