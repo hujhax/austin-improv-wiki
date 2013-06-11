@@ -27,3 +27,6 @@
 * [http://vimeo.com/43766319 Video of the 6/9/12 performance ("The ROT Rally").]
 * [http://vimeo.com/44192011 Video of the 6/16/12 performance ("2525").]
 * [http://vimeo.com/45013518 Video of the 6/30/12 performance ("The Pool").]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
