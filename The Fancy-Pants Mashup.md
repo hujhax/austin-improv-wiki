@@ -33,3 +33,7 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 
 ## Other Information
 * [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+[[Category/Active|Category:Active]]
