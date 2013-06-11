@@ -20,3 +20,6 @@
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/thehideoutholidaysuperspecial The show's web page.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
