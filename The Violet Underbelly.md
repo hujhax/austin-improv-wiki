@@ -41,3 +41,6 @@ After its main run, the show was performed once at [[The 2011 Improvised Play Fe
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/thevioletunderbelly The show's facebook site.]
+
+[[Category/Shows|Violet Underbelly]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
