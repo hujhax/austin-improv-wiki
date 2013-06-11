@@ -41,3 +41,4 @@ Bryan currently maintains the comedy website ghettosketchwarlock.com and perform
 * *[[Stool Pigeon]]*
 
 [[Category/Performers|Roberts]]
+[[Category/Directors|Roberts]]
