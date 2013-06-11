@@ -7,7 +7,7 @@
   |Run    = 2005-Present
 }}
 
-***The Double Barrel*** (formerly **The Twofer** and **The Style Show**) was a performance slot at [[The Hideout Theatre]].
+***The Double Barrel*** (formerly ***The Twofer*** and ***The Style Show***) was a performance slot at [[The Hideout Theatre]].
 
 ## Summary
 *The Double Barrel* played every Friday at 10pm at [[The Hideout Theatre]].
