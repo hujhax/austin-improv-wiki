@@ -30,3 +30,6 @@ Since then, *Dubbed Indemnity* has shown up for occasional one-off performances 
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/dubbedindemnity The show's web page.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
