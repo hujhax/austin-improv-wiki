@@ -42,3 +42,6 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 * [http://forum.austinimprov.com/viewtopic.php?p=92600 The audition announcement for the show] on [[The AIC Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?p=95062 The premiere announcement for the show] on [[The AIC Forums]].
 * [http://www.hideouttheatre.com/who-is-t-henry-baudecliffe A blogpost] from [[Curtis Luciani]] summarizing what the show is about.
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
