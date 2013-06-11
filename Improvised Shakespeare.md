@@ -53,3 +53,6 @@ The 6/13/09 show featured an all-female cast.
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=4930 The announcement of the first run] on [[The AIC Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?t=8826 The announcement of the second run] on [[The AIC Forums]].
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
