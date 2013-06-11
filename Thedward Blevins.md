@@ -8,7 +8,7 @@
 
 He began studying improv at [[The Hideout Theatre]] in November of 2009 and has since taken classes at [[The Merlin Works Institute for Improvisation]] and [[The Institution Theater]]. 
 
-Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], Dive Bar and the [http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum Umlauf Sculpture Garden].
+Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], [http://www.diveaustin.com/ Dive Bar] and the [http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum Umlauf Sculpture Garden].
 
 He has been performing regularly since 2010 and is a cast member of *[[Flying Theater Machine]]*.
 
