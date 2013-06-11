@@ -28,6 +28,6 @@ For a list of all formats performed in *The Free Fringe*, see: [[List of Free Fr
 * [http://forum.austinimprov.com/viewtopic.php?t=12821 The initial call for submissions.]
 * [http://docs.google.com/spreadsheet/viewform?formkey=dEhZLV9GVEpjSlhZN0Z0VjZlNklTU3c6MQ The Free Fringe Idea Submission Form.]
 
-[[Category/Shows|Category:Shows]]
+[[Category/Shows|Free Fringe]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
 [[Category/Active|Category:Active]]
