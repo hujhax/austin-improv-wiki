@@ -44,3 +44,7 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 
 ## More Information
 * [http://improvencyclopedia.org/games//Micetro.html The Improv Encyclopedia's summary of Maestro.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+[[Category/Active|Category:Active]]
