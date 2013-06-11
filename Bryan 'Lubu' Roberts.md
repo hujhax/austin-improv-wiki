@@ -23,6 +23,11 @@ Bryan was a company member of [[Gnap! Theater Projects]]. He currently performs 
 ## Shows
 * *[[Guilds of Steel]]* (director)
 * *[[Hyperlinks]]*
+* *[[Eye for an iPhone]]*
+* *[[Shanty Town Lake]]*
+* *[[Rapture the Flag]]*
+* *[[Cereal for Adults]]*
+* *[[After School Special Victims Unit]]*
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (Samuel "Screech" Powers)
 * *[[Sci-Fi Saturdays]]*
 
