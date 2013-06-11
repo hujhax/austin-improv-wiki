@@ -23,3 +23,7 @@ Each night of the show has a different guest author. The show starts with the au
 * Manuel Gonzales &mdash; "One-Horned and Wild-Eyed" from *[http://amzn.com/1594486042 The Miniature Wife and Other Stories]*
 * Beth Kander &mdash; *[http://amzn.com/B00BDR0MNE Was]*
 * Owen Egerton &mdash; *[http://amzn.com/1593765185 Everyone Says That at the End of the World]*
+
+
+## More Information
+* [http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/ An *Austin Chronicle* interview] with director [[Justin Davis]] by [[Wayne Allen Brenner]].
