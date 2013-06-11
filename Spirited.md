@@ -54,3 +54,6 @@ After about an hour of these explorations, there would be a transition back to t
 ** [http://vimeo.com/40844685 Video of the show.]
 * Performance from the 2012 [[Out of Bounds Comedy Festival]]:
 ** [http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
