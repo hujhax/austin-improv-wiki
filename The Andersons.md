@@ -38,3 +38,6 @@ About half the cast of *The Andersons* played the same, pre-established characte
 
 ## More Information
 * [http://hideouttheater.com/shows/theandersons The show's web page.]
+
+[[Category/Shows|Andersons]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
