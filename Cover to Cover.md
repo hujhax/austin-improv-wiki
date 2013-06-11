@@ -21,7 +21,7 @@ Each performance of *Cover to Cover* opened with a classroom scene.  One of the 
 The teacher would assign chapters to the students for a book report.  Then, each 'chapter' would open with the student working on their book report, and then transition (à la "Typewriter") into that student narrating the next chapter of the story.  The teacher would narrate the final chapter of the story -- this chapter would begin and end back in the classroom, and would close the show.
 
 ## History
-After its mainstage run with Gnap!, the show had a special benefit show on 12/5/11 for the Austin Children's Shelter.
+After its mainstage run with Gnap!, *Cover to Cover* had a special benefit show on 12/5/11 for the Austin Children's Shelter.
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.10150336363103311.351864.16782108310&type=1 Publicity photos] by [[Steve Rogers]], with art by [[Courtney Hopkin]].
