@@ -26,5 +26,5 @@ Finally, in September of 2010, the show was replaced by [[The Wheel]].
 ## More Information
 * [http://www.hideouttheatre.com/shows/thedoublebarrel The show's web page.]
 
-[[Category/Shows|Category:Shows]]
+[[Category/Shows|Double Barrel]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
