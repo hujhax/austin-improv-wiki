@@ -36,3 +36,7 @@ The show began its run with the name *Choose Your Own Adventure*, but on Novembe
 * 12/14/12: [http://vimeo.com/55996276 Video.]
 * 1/11/13: [http://vimeo.com/57495369 Video.]
 * 3/8/13: Videos of [http://vimeo.com/61403063 show #1] and [http://vimeo.com/61405412 show #2].
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+[[Category/Active|Category:Active]]
