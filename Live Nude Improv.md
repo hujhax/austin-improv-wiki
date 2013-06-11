@@ -66,3 +66,6 @@ After the end of its run, *Live Nude Improv* discussed doing subsequent runs, bu
 * [http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1261035 The "Best of Austin" award for the show.]
 * [http://theflintpodcast.com/2012/02/20/ep-17-live-nude-improv-with-andy-crouch/ An interview with Andy Crouch about the show.]
 * [http://yesandrew.com/2013/04/14/live-nude-improv/ A blog post about seeing the *Live Nude Improv* performance] at [[The Improvised Play Festival]] from [[Andrew Buck]].
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
