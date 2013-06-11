@@ -93,7 +93,7 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |Jul 2011||Aug 2011||*[[Live Nude Improv]]*||[[Andy Crouch]]
 |-
-|Sep 2011||Oct 2011||*[[Spirited]]*||[[Asaf Ronen]]
+|Sep 2011||Oct 2011||*[[Spirited]]*||[[Asaf Ronen]],[[Marc Majcher]]
 |-
 |Nov 2011||Dec 2011||*[[Charles Dickens Unleashed]]*||[[Jessica Arjet]], [[Kaci Beeler]]
 |-
