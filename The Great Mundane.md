@@ -22,3 +22,6 @@ Each week included a guest star.  These are the guests who appeared on the show:
 
 ## Media
 * [http://xhibition.majcher.com/images/2006_03_19_improv/ A photoset] from [[Marc Majcher]] that includes at least one performance of *The Great Mundane*.
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
