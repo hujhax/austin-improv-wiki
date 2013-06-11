@@ -39,3 +39,6 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 * [http://vimeo.com/60057414 Video of the 8pm 2/16/13 show (*Harry Potter*).]
 * Videos of [http://vimeo.com/60635127 games] and [http://vimeo.com/60476344 narrative] from the 2/23/13 performance (*Firefly*).
 * [http://vimeo.com/61370613 Video of *Fandom* night at the Free Fringe.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
