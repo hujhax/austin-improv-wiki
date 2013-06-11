@@ -21,6 +21,6 @@ The headliner acts are scheduled by [[Roy Janik]], who puts out a call for appli
 * [http://www.hideouttheatre.com/shows/TheWeekender The show's site.]
 * [http://forum.austinimprov.com/viewtopic.php?t=10520 the first call for submissions for *The Weekender*], from [[Roy Janik]].
 
-[[Category/Shows|Category:Shows]]
+[[Category/Shows|Weekender]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
 [[Category/Active|Category:Active]]
