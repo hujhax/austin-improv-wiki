@@ -8,6 +8,7 @@
 |Run	=	Oct/Nov 2011
 }}
 ![[Cover to Cover Performance.jpg|A performance of *Cover to Cover*.]]
+![[Cover to Cover Blackboard.jpg|The *Cover to Cover* blackboard, showing the book title and the chapter assignments.]]
 
 
 ***Cover to Cover*** was a longform show inspired by the [[Wikipedia - Nancy Drew|Nancy Drew]] and [[Wikipedia - Hardy Boys|Hardy Boys]] young-adult mystery novels.
