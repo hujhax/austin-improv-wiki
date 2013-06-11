@@ -52,3 +52,6 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=114683 The 2012 casting announcement for the 2012 run.]
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
