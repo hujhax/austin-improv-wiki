@@ -159,3 +159,6 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [http://forum.austinimprov.com/viewtopic.php?p=60656 Casting announcement for season 5.]
 * [http://www.hideouttheatre.com/shows/highballstarttrekkin The show's web page for season 6.]
 * [http://www.austinchronicle.com/arts/2005-05-06/269694/ A review of season 2, episode 4] in *The Austin Chronicle*.
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
