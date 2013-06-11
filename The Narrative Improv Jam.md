@@ -24,5 +24,6 @@ Due to poor attendance, the show was quickly replaced with *[[The TV Set]]* in J
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheNarrativeImprovJam The show's web page.]
 
-[[Category/Shows|Category:Shows]]
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
