@@ -38,5 +38,3 @@ See [[List of Austin Improv Shows#Mainstage Productions 2|the list of improv sho
 *[[Chris Lucas]]
 *[[Don Swaynos]]
 *[[Jon Bolden]]
-
-[[Category/Shows|Gnap]]
