@@ -36,3 +36,5 @@
 * [[Michael Jastroch]] as Yepikhodov
 * [[Joel Osborne]] as Firs
 * [[Ben Schave]] as Pishchik (stepping in for [[Brady James]], who had to bow out of the production just before opening night)
+
+[[Category/Shows|Cherry]]
