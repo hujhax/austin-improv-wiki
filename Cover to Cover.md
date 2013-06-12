@@ -36,3 +36,5 @@ After its mainstage run with Gnap!, *Cover to Cover* had a special benefit show 
 * [http://forum.austinimprov.com/viewtopic.php?p=111197 The casting announcement] on [[The Austin Improv Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?p=112700 The show announcement] on [[The Austin Improv Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?p=113728 The benefit-show announcement] on [[The Austin Improv Forums]].
+
+[[Category/Shows|Cover]]
