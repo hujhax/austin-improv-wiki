@@ -1,3 +1,11 @@
+{{Infobox Show
+|Name	=	The Wheel
+|Picture = 	The Wheel.jpg
+|Theater=	[[The Hideout Theatre]]
+|Cast=		Varies
+|Director =	Varies
+|Run	=	Sep 2010-Present
+}}
 ***The Wheel*** is the rotating set of Friday 8pm shows at [[The Hideout Theatre]].
 
 ## History
