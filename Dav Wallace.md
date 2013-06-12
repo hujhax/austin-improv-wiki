@@ -14,7 +14,7 @@ While performing at [[Cafe Caffeine]], Dav took on a managerial role.
 
 While a regular performer with [[ComedySportz]], Dav has also performed in many other AIC shows through the years. 
 
-Dav's is a pun-slinger.  In 2012, he won the O'Henry Pun-Off.  
+Dav is a pun-slinger.  In 2012, he won the O'Henry Pun-Off.  
 
 Dav works as a technical writer, and has two sons by his wife Kim.  
 
