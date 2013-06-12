@@ -35,5 +35,3 @@ For a complete list of Hideout shows, [[List of Austin Improv Shows#The Hideout 
 
 ## Notes
 <references/>
-
-[[Category/Shows|Hideout]]
