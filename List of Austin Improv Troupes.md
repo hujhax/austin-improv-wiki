@@ -36,10 +36,12 @@ order=ascending
 ## In Need of Pages
 These are troupes that still need pages created for them.
 * [[The Asides]]
+* [[BOSS]]
 * [[Buckets of Buckets]]
 * [[Cup]]
 * [[Dervish]]
 * [[Elevator Action]]
+* [[Ghetto Sketch Warlock]]
 * [[The Glamping Trip]]
 * [[Journey to the Big Water]]
 * [[Kosher Bacon]]
