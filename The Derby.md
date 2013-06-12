@@ -16,3 +16,5 @@ The Derby's personnel consisted of two directors, a cast of twelve improvisers b
 For later shows, a "house troupe" called [[RhinoDino]] was created.  Every week, one team was some three-person subset of [[RhinoDino]]. This lent some stability to the Derby's ever-changing roster of players, many of which had never played together before. RhinoDino took the responsibility of leading the "rap battles" which often punctuated the show, and adopted the persona of the "[[Wikipedia - Heel (professional wrestling)|heel]]," a target for the audience's hatred.
 
 RhinoDino has continued to perform together following the discontinuation of the Derby.
+
+[[Category/Shows|Derby]]
