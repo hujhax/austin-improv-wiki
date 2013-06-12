@@ -5,8 +5,8 @@
 |Director =	[[Asaf Ronen]]
 |Assistant Director = [[Jason Vines]]
 |Cast	=	{{Unbulleted list|[[Alexander Hilary]] | [[Andrew Robinson]] | [[Clifton Highfield]] | [[David Lampe]] | [[Jason Vines]] | [[Jeanette Jones]] | [[Jen Kaplan]] | [[Kayla Lane Freeman]] | [[Nicole Beckley]] | [[Samantha schak]] | [[Wyatt Tall]]}}
-|Tech	=	{{Unbulleted list
-| [[Adriane Shown]] | [[Cortney DeAngelo] ]}}|Run	=	May/Jun 2013
+|Tech	=	{{Unbulleted list | [[Adriane Shown]] | [[Cortney DeAngelo]]}}
+|Run	=	May/Jun 2013
 }}
 
 *The Suitcase* is a mainstage show at [[The Institution Theater]].
