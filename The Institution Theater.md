@@ -13,5 +13,3 @@
 The theater was founded in 2008 by [[Tom Booker]].  Classes began in the Velveeta Room, initially with just one class.
 
 In 2013, the Institution hosted the first annual [[Institution Theater Awards]].
-
-[[Category/Shows|Institution]]
