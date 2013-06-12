@@ -24,11 +24,12 @@ The current members of ¡Zarzamora! are:
 * Improv Festival Oklahoma, Oklahoma City, OK (2011, 2012)
 * Providence Improv Festival, Providence, RI, (2012)
 * [[Out of Bounds Comedy Festival]], Austin, TX (2011, 2012)
-
-The following upcoming festival appearances are scheduled:
 * Houston Improv Festival, Houston, TX (2013)
 * Finland International Improv Festival, Tampere, Finland (2013)
+
+The following upcoming festival appearances are scheduled:
 * Duke City Improv Festival, Albuquerque, NM (2013)
+* [[Out of Bounds Comedy Festival]], Austin, TX (2013)
 
 ## Media
 * [http://vimeo.com/21367828 Video of a 2011 performance.]
