@@ -14,3 +14,5 @@ The New Movement theaters are owned and operated by [[Chris Trew]] and [[Tami Ne
 The original Austin theater opened for classes in February 2009 and began running shows on January 13th 2010.
 
 On March 3rd 2012, a second theater space opened in New Orleans, Louisiana.
+
+[[Category/Shows|New]]
