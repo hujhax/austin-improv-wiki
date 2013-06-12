@@ -21,3 +21,5 @@ Starting with the 5/19/13 *Rubber Room*, the faculty made it possible for attend
 * [http://www.theinstitutiontheater.com/shows/52 The show's web site.]
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
+
+[[Category/Shows|Rubber]]
