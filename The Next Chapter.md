@@ -28,3 +28,5 @@ Each night of the show has a different guest author. The show starts with the au
 
 ## More Information
 * [http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/ An *Austin Chronicle* interview] with director [[Justin Davis]] by [[Wayne Allen Brenner]].
+
+[[Category/Shows|Next]]
