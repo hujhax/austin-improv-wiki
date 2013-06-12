@@ -16,3 +16,5 @@ It was a [[Merlin Works]] 601 graduation show that opened [[The Saturday Night S
 ## Media
 * [http://vimeo.com/34628393 Kitchen Timer--Video of the first performance.]
 * [http://vimeo.com/34627371 Kangaroo--Video of the second performance.]
+
+[[Category/Shows|Trouble]]
