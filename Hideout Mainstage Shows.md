@@ -121,5 +121,3 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |Nov 2013||Dec 2013||*[[A Bedtime Gorey]]*||[[Valerie Ward]]
 |}
-
-[[Category/Shows|List]]
