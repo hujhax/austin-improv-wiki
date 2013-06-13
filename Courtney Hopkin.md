@@ -25,6 +25,7 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 * *[[Charles Dickens Unleashed]]*
 * *[[Dusk]]*
 * *[[Fandom]]*
+* *[[Myth Debunkers]]* (Kari Byron)
 * *[[Process]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Start Trekkin']]*
