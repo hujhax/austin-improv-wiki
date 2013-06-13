@@ -18,6 +18,7 @@ In 2003, Jeremy left Austin for Chicago.  He returned in 2005.
 
 ## Shows
 * *[[Fakespeare]]* (Benedick / First Murderer)
+* *[[Myth Debunkers]]* (Jaime Hyneman)
 * *[[Process]]* (director)
 * *[[Thinning the Herd]]*
 
