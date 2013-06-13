@@ -29,7 +29,7 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[Cochise]]* (Performed and Directed)
 * *[[The Derby]]*
 * *[[Dubbed Indemnity]]* (2010-2012)
-* '[[Ego's Trip]]
+* [[Ego's Trip]]
 * *[[False Matters]]* (2011)
 * *[[The Fancy-Pants Mashup]]*
 * *[[Fandom]]*
