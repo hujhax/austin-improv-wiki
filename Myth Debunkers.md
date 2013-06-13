@@ -24,7 +24,7 @@ Improvisors played the central cast of *MythBusters*, occasionally subbing out a
 
 ## Media
 * [http://vimeo.com/44089819 Video of the 6/14/12 show.]
-* Video of the 3/22/13 show.
+* [http://vimeo.com/68283980 Video of the 3/22/13 show.]
 
 [[Category/Shows|Category:Shows]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
