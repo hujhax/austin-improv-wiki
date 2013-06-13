@@ -157,7 +157,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |Once Upon A Time || [[Firth & Arjet]] ||
 |-
 |style="white-space:nowrap" rowspan="3"| Jun 14, 2012 
-| Myth Debunkers || [[Eric Heiberg]] ||style=text-align:left;|An improvised version of Myth Busters, the TV Show. Does a cat always land on its feet? Will combing your hair with wedding cake make your hair grow back? Will being nice to others make you happy? Let's find out. 
+| *[[Myth Debunkers]]* || [[Eric Heiberg]] ||style=text-align:left;|An improvised version of Myth Busters, the TV Show. Does a cat always land on its feet? Will combing your hair with wedding cake make your hair grow back? Will being nice to others make you happy? Let's find out. 
 |-
 | The Better Half of Two Guys || [[The Better Half]] and [[Two Guys From Yonkers]] ||style=text-align:left;|Take the three girls from The Better Half that play boys (Regina, Ashley, and Madeline) and mix Two Guys From Yonkers, who will be playing Two Gals from Yonkers for that night. It's a gender-bending, group mashup of a Fringe show. 
 |-
