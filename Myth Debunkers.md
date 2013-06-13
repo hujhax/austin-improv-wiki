@@ -16,7 +16,7 @@ The show ran once as a *[[Free Fringe]]* on 6/14/12, and had an encore performan
 ## Cast
 Improvisors played the central cast of *MythBusters*, occasionally subbing out as flex characters.
 * Jamie Hyneman - [[Jeremy Lamb]] 
-* Adam Savage - [[Jason Vines]] (6/14/12)/[[Ryan Austin]] (3/22/13)
+* Adam Savage - [[Jason Vines]] (6/14/12) / [[Ryan Austin]] (3/22/13)
 * Tory Belleci - [[Eric Heiberg]]
 * Kari Byron - [[Courtney Hopkin]]
 * Grant Imahara - [[Gene Joe]]
