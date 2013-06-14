@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		The Dancy Street D'Orchestra
 |Picture	=	DancyStreet.jpg
-|Cast	=	{{Unbulleted list|[[Amy Averett]]|[[Chelsea Gilman]] |[[David Rosenbaum]] |[[Howard Katz]] |[[Kristin Firth]] |[[Madi Goff]] | [[Monique Daviau]] |[[Neal Tibrewala]] |[[Peter Rogers]] |[[Susannah Raulino]] |[[Topping Haggerty]]}}
+|Cast	=	{{Unbulleted list|[[Amy Averett]]|[[Chelsea Gilman]] |[[David Rosenbaum]] |[[Howard Katz]] |[[Kristin Firth]] |[[Madi Goff]] | [[Mo Daviau]] |[[Neal Tibrewala]] |[[Peter Rogers]] |[[Susannah Raulino]] |[[Topping Haggerty]]}}
 |Years	=		2010-2011
 }}
 
