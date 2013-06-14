@@ -9,6 +9,7 @@
 
 ## Troupes
 * [[The Foreign Legion]]
+* [[Senshi Sokyo]]
 * [[The Walk Ons]]
 
 ## Shows
