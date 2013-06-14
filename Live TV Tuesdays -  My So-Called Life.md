@@ -21,7 +21,7 @@ It played exclusively at [[The Highball]].
 * Graham Chase -- [[Christian Rashsalve Huey]]
 * Danielle Chase -- [[Stephanie Hagemeister]]
 * Rickie Vasquez -- [[Matholomew Giles]]
-* Rayanne Graff -- [[Brittany Salyer]]
+* Rayanne Graff -- [[Britany Salyer]]
 * Ensemble -- [[Ann Wilson]], [[Rafael Virguez]]
 
 ## Media
