@@ -27,3 +27,4 @@ She considers herself more of a writer than an improviser these days. She left A
 * *[[The Violet Underbelly]]*
 
 [[Category/Performers|Daviau]]
+[[Cateogry - Active]]
