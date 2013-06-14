@@ -12,7 +12,7 @@ Brad started taking classes at the [[Hideout Theatre]] in September 2006. He for
 
 Brad was the former Managing Director of [[The Austin Improv Collective]].
 
-In March 2012, Brad moved to New York City to continue training. He is currently in the Advanced Study program for both improv and sketch comedy at the Upright Citizens Brigade Training Center.
+In March 2012, Brad moved to New York City to continue training. He is currently in the Advanced Study program for both improv and sketch comedy at the Upright Citizens Brigade Training Center. Brad also performs on a few [http://newyork.improvteams.com/performers/4466/bradtemple indie teams] in the NYC area.
 
 ## Troupes
 * [[The Starter Kit]] (2007-2011)
