@@ -6,4 +6,4 @@ Photo by: Wylie Maercklien.
 Art by: Meredith Mae Roberts.
 
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
