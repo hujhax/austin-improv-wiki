@@ -8,9 +8,9 @@
 **Brad Temple** is an improv performer.
 
 ## History
-Brad started taking classes at [[ColdTowne Theater]] in October 2009, and moved to New York City in March 2012.  He is currently in the Advanced Study program for both improv and sketch at UCB Training Center in NYC.
+Brad started taking classes at the [[Hideout Theatre]] in September 2006. He began classes at [[ColdTowne Theater]] in October 2009, and moved to New York City in March 2012.  He is currently in the Advanced Study program for both improv and sketch at UCB Training Center in NYC.
 
-Brad was an officer of [[The Austin Improv Collective]].
+Brad was the former Managing Director of [[The Austin Improv Collective]].
 
 ## Troupes
 * [[Dave Matthews Troupe]]
