@@ -2,7 +2,7 @@
 |Name	=	Wyatt Tall	
 |Picture =	Wyatt Tall Pic.jpg
 |Theater=	[[The Institution Theater]]
-|Years	=	2012-Present
+|Years	=	2011-Present
 }}
 
 **Wyatt Tall** is an improv performer.
@@ -12,6 +12,7 @@
 
 ## Shows
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Bill Haverchuck)
+* *[[Only Three Will Survive]]*
 * *[[Pulp Friction]]*
 * *[[The Suitcase]]*
 
