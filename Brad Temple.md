@@ -2,7 +2,7 @@
 |Name	=	Brad Temple	
 |Picture =	Brad Temple Pic.jpg
 |Theater=	{{Unbulleted list | [[ColdTowne Theater]] | [[The Hideout Theatre]] }}
-|Years	=	2009-2012
+|Years	=	2006-2012
 }}
 
 **Brad Temple** is an improv performer.
