@@ -14,6 +14,6 @@ Known for their playful and adventurous style, The Starter Kit quickly went on t
 
 Kirschner, Garcia, and Wilson eventually left the troupe to pursue other interests. [[Erik Adams]] was brought on in 2008 as a full-time member. This new, four-member troupe went on to create shows with more structured formats (a murder mystery show and a flashback sitcom-based show) that emphasized character interactions and unexpected choices, while continuing the sense of fun play they had become known for. 
 
-The Starter Kit split up in mid-2011 due to creative differences and because multiple members moved away from Austin.
+The Starter Kit split up in mid-2011 due to creative differences.
 
 [[Category/Troupes|Starter Kit]]
