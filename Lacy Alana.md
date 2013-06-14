@@ -23,17 +23,17 @@ Lacy is currently a teaching assistant for [[Merlin Works]] adult classes and [[
 *[[The Known Wizards]]
 
 ## Shows
-*[[The Professor -  Improv Inspired by Doctor Who]] (second run at [[Salvage Vanguard Theater]])
-*[[Sci-Fi Saturdays]]
-*[[Only Three Will Survive]]
-*[[Strange Worlds]]
-*[[TheatreSports (mainstage run)]]
-*[[The Sword of Merlin Works]]
-* *[[The Derby]]*
 * *[[The Cagematch]]*
+* *[[The Derby]]*
 * *[[The Fancy-Pants Mashup]]*
 * *[[Maestro]]* (2000-)
+* *[[Only Three Will Survive]]*
 * *[[Pick Your Own Path]]*
+* [[The Professor]] (second run at [[Salvage Vanguard Theater]])
+* *[[Sci-Fi Saturdays]]*
+* *[[Strange Worlds]]*
+* *[[The Sword of Merlin Works]]*
+* *[[Theatresports]]*
 
 ## Festivals
 * "[[The Out of Bounds Comedy Festival]]"
