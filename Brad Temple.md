@@ -5,7 +5,7 @@
 |Years	=	2006-2012
 }}
 
-**Brad Temple** is an improv performer.
+**Brad Temple** is an improviser.
 
 ## History
 Brad started taking classes at the [[Hideout Theatre]] in September 2006. He formed [[The Starter Kit]] with Hideout classmates in early 2007 and was a fairly regular performer in [[Maestro]]. Brad continued his improv education at [[ColdTowne Theater]] in 2009. He also volunteered as a Teaching Assistant for several ColdTowne classes beginning in 2011.  
