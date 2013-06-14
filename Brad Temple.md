@@ -15,9 +15,9 @@ Brad was the former Managing Director of [[The Austin Improv Collective]].
 In March 2012, Brad moved to New York City to continue training. He is currently in the Advanced Study program for both improv and sketch comedy at the Upright Citizens Brigade Training Center.
 
 ## Troupes
-* [[Dave Matthews Troupe]]
-* [[Journey to the Big Water]]
-* [[The Starter Kit]]
+* [[The Starter Kit]] (2007-2011)
+* [[Journey to the Big Water]] (2010-2012)
+* [[Dave Matthews Troupe]] (2012)
 
 ## Shows
 * *[[Family Tides]]*
