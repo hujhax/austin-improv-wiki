@@ -41,7 +41,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Katy Shea]]
 * [[Kimberly Tortorrici]]
 * [[Lauren Buck]]
-* [[Monique Daviau]]
+* [[Mo Daviau]]
 * [[Shelly Miller Bosse]]
 * [[Tara White]]
 
