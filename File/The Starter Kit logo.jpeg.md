@@ -1,7 +1,7 @@
 ## Summary
 Logo for [[The Starter Kit]]. 
 
-Art by: unknown.
+Art by: Tiffany Adams.
 
 ## Licensing
 {{No license}}
