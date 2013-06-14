@@ -11,7 +11,6 @@
 Jason lived in Houston, where he played with Scatter!, before moving to Austin.
 
 ## Shows
-* *[[After School Improv]]*
 * *[[Sci-Fi Saturdays]]*
 
 [[Category/Performers|Oliver]]
