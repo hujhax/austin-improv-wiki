@@ -12,7 +12,7 @@ Brad started taking classes at the [[Hideout Theatre]] in September 2006. He for
 
 Brad was the former Managing Director of [[The Austin Improv Collective]].
 
-In March 2012, Brad moved to New York City to continue training. He is currently in the Advanced Study program for both improv and sketch at the Upright Citizens Brigade Training Center.
+In March 2012, Brad moved to New York City to continue training. He is currently in the Advanced Study program for both improv and sketch comedy at the Upright Citizens Brigade Training Center.
 
 ## Troupes
 * [[Dave Matthews Troupe]]
