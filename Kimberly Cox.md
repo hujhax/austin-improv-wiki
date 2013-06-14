@@ -8,6 +8,7 @@
 **Kimberly Cox** is an improv performer.
 
 ## Troupes
+* [[Duck Duck Boom]]
 * [[Girls Girls Girls]]
 * [[The Intentions]]
 
