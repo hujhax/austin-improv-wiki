@@ -10,6 +10,9 @@
 ## History
 Jason lived in Houston, where he played with Scatter!, before moving to Austin.
 
+## Troupes
+[[Mathematical!]]
+
 ## Shows
 * *[[Sci-Fi Saturdays]]*
 
