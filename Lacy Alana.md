@@ -39,6 +39,7 @@ Lacy is currently a teaching assistant for [[Merlin Works]] adult classes and [[
 * "[[The Out of Bounds Comedy Festival]]"
 * "[[The Improvised Play Festival]]"
 * "Improvaganza" (in Hawaii)
+* Unscripted New York
 
 ## Previous Troupes
 * [[Stone Airplane]] (Disbanded)
