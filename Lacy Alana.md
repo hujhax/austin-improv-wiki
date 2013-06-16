@@ -43,7 +43,7 @@ Lacy is currently a teaching assistant for [[Merlin Works]] adult classes and [[
 
 ## Previous Troupes
 * [[Stone Airplane]] (Disbanded)
-*[[Wait OK Now]] (Previous member)
+*[[Wait OK Now]] (Disbanded)
 
 
 [[Category/Performers|Shawn]]
