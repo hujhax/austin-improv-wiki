@@ -64,7 +64,7 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Sunday 12am: *[[The Black Vault]]*
 * Sunday 1am: [[Puppet Improv Project]]
 * Sunday 2am: *[[Tech Nightmare]]*
-* Sunday 3am: TBA
+* Sunday 3am: [[Big Beautiful Warlock]]
 * Sunday 4am: *[[Pulp Friction]]*
 * Sunday 5am: Secret Show
 * Sunday 6am: TBA
