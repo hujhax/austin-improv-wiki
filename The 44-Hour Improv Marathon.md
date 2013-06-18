@@ -17,6 +17,8 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * [[Peter Rogers]]
 
 ## Staff
+![[The 44-Hour Cover Photo.jpg|Publicity image for the 44-Hour Improv Marathon.]]
+
 * [[Roy Janik]] Artistic Director
 * [[Ryan Hill]] Producer
 * [[Jessie Pascarelli]] Assistant Producer
