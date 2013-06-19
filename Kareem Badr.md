@@ -34,3 +34,4 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 
 [[Category/Performers|Badr]]
 [[Category/Teachers|Badr]]
+[[Category/Directors|Badr]]
