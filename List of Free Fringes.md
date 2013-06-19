@@ -481,7 +481,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |-
 |Headlining ||  [[Your Dad's Friends]] ||
 |-
-|style="white-space:nowrap" rowspan="3"|Jun  7, 2013
+|style="white-space:nowrap" rowspan="3"|Jun  6, 2013
 |TeacherProv || [[Mia Iseman]] || Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.  Cast: [[Ashley Jayne Carlisle]], [[Caitlin Sweetlamb]], [[David Lampe]], [[Jayme Ramsey]], [[Jeremy Sweetlamb]], [[Mia Iseman]]
 |-
 |Bueler, Bueler?|| [[Andrew Buck]] || Andrew picks one person from the audience… a person who has no improv training, and does a show with them.
