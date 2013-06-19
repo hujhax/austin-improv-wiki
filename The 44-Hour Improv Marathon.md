@@ -84,8 +84,6 @@ British improvisor [http://www.facebook.com/jonathan.monkhouse Jonathan Monkhous
 
 The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk/ Project2], the science-fiction troupe that both Monkhouse and Chris Mead are a part of.
 
-The Sunday 6am slot was originally scheduled for "The Queen is not Amused", wherein Monkhouse would impersonate the Queen for the full hour.
-
 ## More Information
 * [http://www.hideouttheatre.com/shows/improvmarathon The show's web page.]
 * [http://www.facebook.com/hideouttheatre/posts/10151469906483510 Cast announcement] from [[The Hideout Theatre]].
