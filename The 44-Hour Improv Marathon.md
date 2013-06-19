@@ -40,7 +40,7 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Friday 11pm: [[Franz & Dave]] present "Pine Falls", a surreal television pilot in the style of *[[Twin Peaks|Twin Peaks]]*.
 * Saturday 12am: *[[The New Game Project]]*
 * Saturday 1am: [[In Our Prime]]
-* Saturday 2am: TBA
+* Saturday 2am: *[[Past Lives]]*
 * Saturday 3am: [[Cheap Date]]
 * Saturday 4am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]
 * Saturday 5am: *[[Epic Telescope]]* (AKA "Half-Life in reverse")
@@ -64,11 +64,11 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Sunday 12am: *[[The Black Vault]]*
 * Sunday 1am: [[Puppet Improv Project]]
 * Sunday 2am: *[[Tech Nightmare]]*
-* Sunday 3am: [[Big Beautiful Warlock]]
+* Sunday 3am: [[Big Beautiful Warlock]] presents *[[Big Beautiful Warriors]]*, a game show with very non-traditional games.
 * Sunday 4am: *[[Pulp Friction]]*
 * Sunday 5am: a secret show, produced by [[Jason Vines]].
 ** Roy has made Jason promise not to be *too* cruel to the core cast with his secret format.
-* Sunday 6am: TBA
+* Sunday 6am: "The Queen Is Not Amused", wherein Jonathan Monkhouse appears via Skype, portraying the queen of England.
 * Sunday 7am: Student Show
 * Sunday 8am: Care Bear Stare -- The Care Bears are here to bring badly animated joy to your lives.
 * Sunday 9am: [[The Institution Theater]] presents "the movie format", an improv montage with screenplay-style scene painting.
