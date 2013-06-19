@@ -38,6 +38,7 @@ Note: some things in this schedule might shift or change before the actual perfo
 ** This one features a slight change in format: each two-hander will include a marathon player and someone from the visiting *Fancy-Pants* cast.
 * Friday 10pm: [[Parallelogramophonograph]] presents "New Works"
 * Friday 11pm: [[Franz & Dave]] present "Pine Falls", a surreal television pilot in the style of *[[Wikipedia - Twin Peaks|Twin Peaks]]*.
+** Each marathoner will get an odd character trait from the audience at the top of the show, and Franz Kafka and David Lynch will narrate the story as usual.
 * Saturday 12am: *[[The New Game Project]]*
 * Saturday 1am: [[In Our Prime]]
 * Saturday 2am: *[[Past Lives]]*
