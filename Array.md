@@ -19,6 +19,7 @@ They had a run of Thursday shows in May 2013 at [[ColdTowne Theater]] with [[Che
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14803 The casting call for the workshop] on [[The Austin Improv Forums]]
 * [http://forum.austinimprov.com/viewtopic.php?t=15249&p=131289 The show-run announcement] on [[The Austin Improv Forums]]
+* [http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html A 2006 interview with Craig Cackowski about the JTS Brown format.]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
