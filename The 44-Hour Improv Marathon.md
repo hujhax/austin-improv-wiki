@@ -20,7 +20,7 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * [[Ryan Hill]] Producer
 * [[Jessie Pascarelli]] Assistant Producer
 * [[Cat Drago]] Food Wrangler
-* [[Victoria Hawthorne]] Food Wrangler
+* Victoria Hawthorne Food Wrangler
 * [[Ruby Willmann]] Sponsorship Captain
 * [[Dave Alley]] Photography Coordinator
 * [[Jessica Arjet]] Volunteer Coordinator
