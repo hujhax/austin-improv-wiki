@@ -1,0 +1,1 @@
+Golden Age is a troupe formed by ColdTowne students and graduates to explore sci fi themed improv. They perform a Bat as their intro.
