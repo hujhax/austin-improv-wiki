@@ -38,8 +38,9 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Friday 6pm: Free-form improv from the core cast.
 * Friday 7pm: *[[Start Trekkin']]*
 * Friday 8pm: *[[The Fancy-Pants Mashup]]*
+** This one features a slight change in format: each two-hander will include a marathon player and someone from the visiting *Fancy-Pants* cast.
 * Friday 10pm: [[Parallelogramophonograph]] presents "New Works"
-* Friday 11pm: [[Franz & Dave]]
+* Friday 11pm: [[Franz & Dave]] present "Pine Falls", a surreal television pilot in the style of *[[Twin Peaks|Twin Peaks]]*.
 * Saturday 12am: *[[The New Game Project]]*
 * Saturday 1am: [[In Our Prime]]
 * Saturday 2am: TBA
@@ -48,11 +49,11 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Saturday 5am: *[[Epic Telescope]]* (AKA "Half-Life in reverse")
 * Saturday 6am: Performance with veterans of [[The Hideout Improv Marathon]]
 * Saturday 7am: Student Show
-* Saturday 8am: [[Waterpark]], a musical-improv troupe from [[The New Movement]]
+* Saturday 8am: [[Waterpark]], a musical-improv troupe from [[The New Movement]], presents a non-narrative musical-improv show.
 * Saturday 9am: *[[Dubbed Indemnity]]*
 * Saturday 10am: [[Local Genius Society]] presents "Video Game", where cards scattered with 'helpful' instructions throw kinks and twists into this improvised story.
 * Saturday 11am: *[[Charles Dickens Unleashed]]*
-* Saturday 12pm: [[Arkay]] presents JTS Brown.
+* Saturday 12pm: [[Arkay]] presents [http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html JTS Brown].
 * Saturday 1pm: [[What's the Story, Steve]]
 * Saturday 2pm: Free-form improv from the core cast. (Nicknamed "The Eye of the Storm", this is the exact midpoint of the marathon.)
 * Saturday 3pm: [[Girls Girls Girls]]
@@ -61,19 +62,21 @@ Note: some things in this schedule might shift or change before the actual perfo
 * Saturday 6pm: [[The Library]]
 * Saturday 7pm: [[The Knuckleball Now]]
 * Saturday 8pm: *[[Theatresports]]*
-* Saturday 9pm: [[Confidence Men]]
+* Saturday 9pm: [[Confidence Men]] presents "The Duck Variations", a series of two-hander scenes based around an audience-suggested theme.
 * Saturday 10pm: *[[Maestro]]*
 * Sunday 12am: *[[The Black Vault]]*
 * Sunday 1am: [[Puppet Improv Project]]
 * Sunday 2am: *[[Tech Nightmare]]*
 * Sunday 3am: [[Big Beautiful Warlock]]
 * Sunday 4am: *[[Pulp Friction]]*
-* Sunday 5am: Secret Show
+* Sunday 5am: a secret show, produced by [[Jason Vines]].
+** Roy has made Jason promise not to be *too* cruel to the core cast with his secret format.
 * Sunday 6am: TBA
 * Sunday 7am: Student Show
 * Sunday 8am: Care Bear Stare -- The Care Bears are here to bring badly animated joy to your lives.
-* Sunday 9am: [[The Institution Theater]] presents the movie format
+* Sunday 9am: [[The Institution Theater]] presents "the movie format", an improv montage with screenplay-style scene painting.
 * Sunday 10am: *[[Fakespeare]]*
+** This version of the show will start off with a few Shakespearean improv games, and then segue into a narrative.
 * Sunday 11am: [[Bad Boys]]
 * Sunday 12pm: Free-form improv from the core cast (nicknamed "The Final Countdown").
 
