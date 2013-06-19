@@ -8,7 +8,7 @@
 **Cat Drago** is an improv performer.
 
 ## History
-Cat began doing improv after watching long stretches [[The 42-Hour Improv Marathon]].  She returned to [[The 43-Hour Improv Marathon]] as one of the "Hard-Core Four" who watched the entire Marathon, start-to-finish.  For [[The 44-Hour Improv Marathon]], she will be one of the Food Wranglers, keeping the cast fed for the duration.
+Cat began doing improv after watching long stretches of [[The 42-Hour Improv Marathon]].  She returned to [[The 43-Hour Improv Marathon]] as one of the "Hard-Core Four" who watched the entire Marathon, start-to-finish.  For [[The 44-Hour Improv Marathon]], she will be one of the Food Wranglers, keeping the cast fed for the duration.
 
 ## Troupes
 * [[Kosher Bacon]]
