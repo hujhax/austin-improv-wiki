@@ -487,4 +487,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |Bueler, Bueler?|| [[Andrew Buck]] || Andrew picks one person from the audience… a person who has no improv training, and does a show with them.
 |-
 |Jessica & Marc || [[Jessica Arjet]] ||
+|-
+|style="background-color:#dddddd;white-space:nowrap" rowspan="1"|Jun  13, 2013
+|Welcome Back Ruby Willmann Show || ||
 |}
