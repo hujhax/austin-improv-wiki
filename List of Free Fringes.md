@@ -1,4 +1,4 @@
-This **list of *[[Free Fringe]]s*** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 5/30/13.
+This **list of *[[Free Fringe]]s*** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 6/13/13.
 
 {| class="wikitable" style=padding:1em;text-align:center
 |-
@@ -482,12 +482,12 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |Headlining ||  [[Your Dad's Friends]] ||
 |-
 |style="white-space:nowrap" rowspan="3"|Jun  6, 2013
-|TeacherProv || [[Mia Iseman]] || Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.  Cast: [[Ashley Jayne Carlisle]], [[Caitlin Sweetlamb]], [[David Lampe]], [[Jayme Ramsey]], [[Jeremy Sweetlamb]], [[Mia Iseman]]
+|TeacherProv || [[Mia Iseman]] || Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.  Cast: [[Ashley Jayne Carlisle]], [[Caitlin Sweetlamb]], [[David Lampe]], [[Jayme Ramsay]], [[Jeremy Sweetlamb]], [[Mia Iseman]]
 |-
 |Bueler, Bueler?|| [[Andrew Buck]] || Andrew picks one person from the audience… a person who has no improv training, and does a show with them.
 |-
-|Jessica & Marc || [[Jessica Arjet]] ||
+|Jessica & [[Marc Majcher|Marc]] || [[Jessica Arjet]] ||
 |-
 |style="background-color:#dddddd;white-space:nowrap" rowspan="1"|Jun  13, 2013
-|Welcome Back Ruby Willmann Show || ||
+|Welcome Back [[Ruby Willmann]] Show || [[Ruby Willmann]] || Ruby presents anecdotes from her six-month stint in South America, and improvisors use those stories to inspire scenes.  
 |}
