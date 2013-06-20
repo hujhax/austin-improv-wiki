@@ -489,5 +489,5 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |Jessica & [[Marc Majcher|Marc]] || [[Jessica Arjet]] ||
 |-
 |style="background-color:#dddddd;white-space:nowrap" rowspan="1"|Jun  13, 2013
-|Welcome Back [[Ruby Willmann]] Show || [[Ruby Willmann]] || Ruby presents anecdotes from her six-month stint in South America, and improvisors use those stories to inspire scenes.  
+|Welcome Back [[Ruby Willmann]] Show || [[Ruby Willmann]] || Ruby presents anecdotes from her six-month stint in South America, and improvisors use those stories to inspire scenes.  Cast: [[Christopher Allen]], [[Sam Schak]], [[Jessica Arjet]], [[Bridget Brewer]], [[Caeriel Crestin]], [[Andrew Buck]], [[Lindsey Reeves]], [[Paul Normandin]], [[Alex Dobrenko]], [[Andreas Fabis]].
 |}
