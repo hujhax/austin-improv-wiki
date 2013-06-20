@@ -55,6 +55,31 @@
 * [[Cindy Page]] - Assistant Director
 * [[Michael Yew]] - Sound
 
+## Show Dates
+### Scripted Run
+* July 3 (Wednesday) - *Much Ado* preview at [[Wikipedia - Shakespeare at Winedale|Shakespeare at Winedale]]
+* July 5 (Friday) - *Macbeth*
+* July 6 (Saturday) - *Much Ado*
+* July 7 (Sunday) - *Macbeth*
+* July 11 (Thursday) - *Macbeth*
+* July 12 (Friday) - *Much Ado*
+* July 13 (Saturday) - *Macbeth*
+* July 14 (Sunday) - *Much Ado*
+* July 18 (Friday) - *Much Ado*
+* July 19 (Saturday) - *Macbeth*
+* July 20 (Sunday) - *Much Ado*
+* July 21 (Saturday) - *Macbeth*
+
+### Improvised Run
+* August 2 (Friday)
+* August 3 (Saturday)
+* August 9 (Friday)
+* August 10 (Saturday)
+* August 16 (Friday)
+* August 17 (Saturday)
+* August 23 (Friday)
+* August 24 (Saturday)
+
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14898 The audition- and casting-announcement thread.]
 * [http://www.facebook.com/hideouttheatre/posts/10151433012633510 The facebook casting announcement for the show.]
