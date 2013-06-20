@@ -16,17 +16,17 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * [[Peter Rogers]]
 
 ## Staff
-* [[Roy Janik]] Artistic Director
-* [[Ryan Hill]] Producer
-* [[Jessie Pascarelli]] Assistant Producer
-* [[Cat Drago]] Food Wrangler
-* Victoria Hawthorne Food Wrangler
-* [[Ruby Willmann]] Sponsorship Captain
-* [[Dave Alley]] Photography Coordinator
-* [[Jessica Arjet]] Volunteer Coordinator
-* [[Kareem Badr]] Planning
-* [[Andy Crouch]] Planning Committee
-* [[Kaci Beeler]] Design
+* [[Roy Janik]] - Artistic Director
+* [[Ryan Hill]] - Producer
+* [[Jessie Pascarelli]] - Assistant Producer
+* [[Cat Drago]] - Food Wrangler
+* Victoria Hawthorne - Food Wrangler
+* [[Ruby Willmann]] - Sponsorship Captain
+* [[Dave Alley]] - Photography Coordinator
+* [[Jessica Arjet]] - Volunteer Coordinator
+* [[Kareem Badr]] - Planning
+* [[Andy Crouch]] - Planning 
+* [[Kaci Beeler]] - Design
 
 ## Schedule
 Note: some things in this schedule might shift or change before the actual performance.
