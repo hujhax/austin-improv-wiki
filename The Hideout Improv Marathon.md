@@ -3,6 +3,8 @@
 ## Summary
 In the improv marathon, a core cast of eight improvisors performs some number of one-hour improv shows, back-to-back and without sleep.  Every hour brings a different show format, and with it, different guests who specialize in that format.
 
+In its first year, the marathon was a fundraiser for the Hideout itself.  The next year, it became a fundraiser for [[The Hideout Theatre Youth Scholarship Fund]].
+
 ## History
 The marathon originated with [[The 40-Hour Improv Marathon]] in 2009.  The event has recurred every subsequent year, with the number of hours incrementing by one every time.
 
