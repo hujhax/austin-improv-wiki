@@ -33,49 +33,50 @@ Note: some things in this schedule might shift or change before the actual perfo
 
 * Friday 5pm: The cast performs with teens from [[The Hideout Theatre]]'s summer camp.
 * Friday 6pm: Free-form improv from the core cast.
-* Friday 7pm: *[[Start Trekkin']]*
+* Friday 7pm: *[[Start Trekkin']]*: improvised *[[Wikipedia - Star Trek -  The Original Series|Star Trek]]*
 * Friday 8pm: *[[The Fancy-Pants Mashup]]*
 ** This one features a slight change in format: each two-hander will include a marathon player and someone from the visiting *Fancy-Pants* cast.
-* Friday 10pm: [[Parallelogramophonograph]] presents "New Works"
+* Friday 10pm: [[Parallelogramophonograph]] presents "New Works": the audience suggests a play title, and the players perform a narrative with that title.
 * Friday 11pm: [[Franz & Dave]] present "Pine Falls", a surreal television pilot in the style of *[[Wikipedia - Twin Peaks|Twin Peaks]]*.
 ** Each marathoner will get an odd character trait from the audience at the top of the show, and Franz Kafka and David Lynch will narrate the story as usual.
-* Saturday 12am: *[[The New Game Project]]*
-* Saturday 1am: [[In Our Prime]]
-* Saturday 2am: *[[Past Lives]]*
+* Saturday 12am: *[[The New Game Project]]*: the audience suggests the names of games, and the players invent and play games with those names.
+* Saturday 1am: [[In Our Prime]]: grounded, dramatic improv, in this case based around an extended family attending a wedding.
+* Saturday 2am: *[[Past Lives]]*: following a soul through thematically-linked vignettes across history.
 * Saturday 3am: [[Cheap Date]]
-* Saturday 4am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]
-* Saturday 5am: *[[Epic Telescope]]* (AKA "Half-Life in reverse")
+* Saturday 4am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]: an improv show in the dark.
+* Saturday 5am: *[[Epic Telescope]]* (AKA "Half-Life in reverse"): a story presented first in one minute, then three minutes, then five, then fifteen, then thirty.
 * Saturday 6am: Performance with veterans of [[The Hideout Improv Marathon]]
 * Saturday 7am: Student Show
 * Saturday 8am: [[Waterpark]], a musical-improv troupe from [[The New Movement]], presents a non-narrative musical-improv show.
-* Saturday 9am: *[[Dubbed Indemnity]]*
+* Saturday 9am: *[[Dubbed Indemnity]]*: improvising the dialog, sound effects, and soundtrack for silenced TV and film clips.
 * Saturday 10am: [[Local Genius Society]] presents "Video Game", where cards scattered with 'helpful' instructions throw kinks and twists into this improvised story.
-* Saturday 11am: *[[Charles Dickens Unleashed]]*
+* Saturday 11am: *[[Charles Dickens Unleashed]]*: improv in the style of one of [[Wikipedia - Charles Dickens|Charles Dickens]]' early novels.
 * Saturday 12pm: [[Arkay]] presents [http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html JTS Brown].
-* Saturday 1pm: [[What's the Story, Steve]]
+* Saturday 1pm: [[What's the Story, Steve]]: kid-friendly improv, featuring a dog.
 * Saturday 2pm: Free-form improv from the core cast. (Nicknamed "The Eye of the Storm", this is the exact midpoint of the marathon.)
-* Saturday 3pm: [[Girls Girls Girls]]
-* Saturday 4pm: *[[Pick Your Own Path]]*
+* Saturday 3pm: [[Girls Girls Girls]]: improvised narrative musical.
+* Saturday 4pm: *[[Pick Your Own Path]]*: improv in the style of the old *[[Wikipedia - Choose Your Own Adventure|Choose Your Own Adventure]]* books.
 * Saturday 5pm: [[The Amazon & The Milksop]] are your guides for a series of improvised English Instructional Videos. You will learn so much.
-* Saturday 6pm: [[The Library]]
-* Saturday 7pm: [[The Knuckleball Now]]
-* Saturday 8pm: *[[Theatresports]]*
-* Saturday 9pm: [[Confidence Men]] presents "The Duck Variations", a series of two-hander scenes based around an audience-suggested theme.
-* Saturday 10pm: *[[Maestro]]*
-* Sunday 12am: *[[The Black Vault]]*
-* Sunday 1am: [[Puppet Improv Project]]
-* Sunday 2am: *[[Tech Nightmare]]*
+* Saturday 6pm: [[The Library]]: improvisors playing several different genres nonetheless perform a story together.
+* Saturday 7pm: [[The Knuckleball Now]]: rapid-fire improv.
+* Saturday 8pm: *[[Theatresports]]*: two teams of improvisors compete in a series of improv challenges.
+* Saturday 9pm: [[Confidence Men]]: improvised David Mamet
+** They're doing "The Variations", a series of two-hander scenes based around an audience-suggested theme.
+* Saturday 10pm: *[[Maestro]]*: an improv competition with *[[Wikipedia - Survivor (U.S. TV series)|Survivor]]*-style eliminations.
+* Sunday 12am: *[[The Black Vault]]*: improvised [[Wikipedia - H. P. Lovecraft|H. P. Lovecraft]]
+* Sunday 1am: [[Puppet Improv Project]]: improv with puppets!
+* Sunday 2am: *[[Tech Nightmare]]*: wherein the players have to do everything the people in the tech booth tell them to.
 * Sunday 3am: [[Big Beautiful Warlock]] presents *[[Big Beautiful Warriors]]*, a game show with very non-traditional games.
-* Sunday 4am: *[[Pulp Friction]]*
+* Sunday 4am: *[[Pulp Friction]]*: improv in the style of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]]
 * Sunday 5am: a secret show, produced by [[Jason Vines]].
 ** Roy has made Jason promise not to be *too* cruel to the core cast with his secret format.
 * Sunday 6am: "The Queen Is Not Amused", wherein Jonathan Monkhouse appears via Skype, portraying the queen of England.
 * Sunday 7am: Student Show
 * Sunday 8am: Care Bear Stare -- The Care Bears are here to bring badly animated joy to your lives.
 * Sunday 9am: [[The Institution Theater]] presents "the movie format", an improv montage with screenplay-style scene painting.
-* Sunday 10am: *[[Fakespeare]]*
+* Sunday 10am: *[[Fakespeare]]*: improv in the style of William Shakespeare.
 ** This version of the show will start off with a few Shakespearean improv games, and then segue into a narrative.
-* Sunday 11am: [[Bad Boys]]
+* Sunday 11am: [[Bad Boys]]: a non-narrative montage of scenes.
 * Sunday 12pm: Free-form improv from the core cast (nicknamed "The Final Countdown").
 
 ## Jonathan Monkhouse
