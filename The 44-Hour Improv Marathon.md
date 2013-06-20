@@ -29,8 +29,6 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * [[Kaci Beeler]] - Design
 
 ## Schedule
-Note: some things in this schedule might shift or change before the actual performance.
-
 * Friday 5pm: The cast performs with teens from [[The Hideout Theatre]]'s summer camp.
 * Friday 6pm: Free-form improv from the core cast.
 * Friday 7pm: *[[Start Trekkin']]*: improvised *[[Wikipedia - Star Trek -  The Original Series|Star Trek]]*
