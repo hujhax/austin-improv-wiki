@@ -54,6 +54,7 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * Saturday 2pm: Free-form improv from the core cast. (Nicknamed "The Eye of the Storm", this is the exact midpoint of the marathon.)
 * Saturday 3pm: [[Girls Girls Girls]]: improvised narrative musical.
 * Saturday 4pm: *[[Pick Your Own Path]]*: improv in the style of the old *[[Wikipedia - Choose Your Own Adventure|Choose Your Own Adventure]]* books.
+** The core cast will be joined by [[Content Love Knowles]], [[Thedward Blevins]], [[Mitchell Deane]], and [[Brad Hawkins]].
 * Saturday 5pm: [[The Amazon & The Milksop]] are your guides for a series of improvised English Instructional Videos. You will learn so much.
 * Saturday 6pm: [[The Library]]: improvisors playing several different genres nonetheless perform a story together.
 * Saturday 7pm: [[The Knuckleball Now]]: rapid-fire improv.
