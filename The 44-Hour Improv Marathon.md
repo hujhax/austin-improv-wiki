@@ -62,6 +62,8 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * Saturday 9pm: [[Confidence Men]]: improvised David Mamet
 ** They're doing "The Variations", a series of two-hander scenes based around an audience-suggested theme.
 * Saturday 10pm: *[[Maestro]]*: an improv competition with *[[Wikipedia - Survivor (U.S. TV series)|Survivor]]*-style eliminations.
+** This will be co-directed by [[Peter Rogers]] and [[Jessica Arjet]].
+** The core cast will be joined by [[Scott Hearne]], [[Ruby Willmann]], [[Troy Miller]], [[Cat Drago]], [[Chuy Zarate]], and [[Kaci Beeler]].
 * Sunday 12am: *[[The Black Vault]]*: improvised [[Wikipedia - H. P. Lovecraft|H. P. Lovecraft]]
 * Sunday 1am: [[Puppet Improv Project]]: improv with puppets!
 * Sunday 2am: *[[Tech Nightmare]]*: wherein the players have to do everything the people in the tech booth tell them to.
