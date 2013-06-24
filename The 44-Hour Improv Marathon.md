@@ -40,7 +40,7 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * Friday 10pm (hour 6): [[Parallelogramophonograph]] presented "The Tab", a montage in which all the characters were blindfolded.
 * Friday 11pm (hour 7): [[Franz & Dave]] presented "Pine Falls", a surreal television pilot in the style of *[[Wikipedia - Twin Peaks|Twin Peaks]]*.
 ** Each marathoner got a character type from the audience at the top of the show; Franz Kafka and David Lynch narrated the story as usual.
-** Like the *Twin Peaks* pilot, this performance featured an FBI agent investigating the murder of a college coed in a northwest logging town.
+** Like the *Twin Peaks* pilot, this performance featured an FBI agent investigating the murder of a teenage girl in a northwest logging town.
 * Saturday 12am (hour 8): *[[The New Game Project]]*: the audience suggested the names of games, and the players invented and played games with those names.
 * Saturday 1am (hour 9): [[In Our Prime]]: grounded, dramatic improv, in this case based around an extended family attending a wedding.
 * Saturday 2am (hour 10): *[[Past Lives]]*: following a soul through thematically-linked vignettes across history.
