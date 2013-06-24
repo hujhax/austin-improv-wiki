@@ -44,6 +44,7 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * Saturday 4am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]: an improv show in the dark.
 * Saturday 5am: *[[Epic Telescope]]* (AKA "Half-Life in reverse"): a story presented first in one minute, then three minutes, then five, then fifteen, then thirty.
 * Saturday 6am: Performance with veterans of [[The Hideout Improv Marathon]]
+** This featured guests [[Andy Crouch]], [[Emma Holder]], [[Halyn Lee Erickson]], [[Jason Vines]], [[John Ratliff]], [[Jon Bolden]], [[Kaci Beeler]], [[Karen Jane DeWitt]], [[Roy Janik]], and [[Valerie Ward]].
 * Saturday 7am: Student Show
 * Saturday 8am: [[Waterpark]], a musical-improv troupe from [[The New Movement]], presented a non-narrative musical-improv show.
 * Saturday 9am: *[[Dubbed Indemnity]]*: improvising the dialog, sound effects, and soundtrack for silenced TV and film clips.
