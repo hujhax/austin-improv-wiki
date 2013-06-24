@@ -74,7 +74,7 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 * Saturday 7pm (hour 27): [[The Knuckleball Now]]: rapid-fire improv.
 * Saturday 8pm (hour 28): *[[Theatresports]]*: two teams of improvisors competed in a series of improv challenges.
 * Saturday 9pm (hour 29): [[Confidence Men]]: improvised David Mamet.
-** They're doing "The Variations", a series of two-hander scenes based around an audience-suggested word (in this case, "pencil").
+** They did "The Variations", a series of two-hander scenes based around an audience-suggested word (in this case, "pencil").
 * Saturday 10pm (hours 30 & 31): *[[Maestro]]*: an improv competition with *[[Wikipedia - Survivor (U.S. TV series)|Survivor]]*-style eliminations.
 ** This was co-directed by [[Peter Rogers]] and [[Jessica Arjet]].
 ** The core cast was joined by [[Scott Hearne]], [[Ruby Willmann]], [[Troy Miller]], [[Cat Drago]], [[Chuy Zarate]], and [[Kaci Beeler]].
