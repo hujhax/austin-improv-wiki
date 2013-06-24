@@ -127,4 +127,3 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://www.hideouttheatre.com/improv-for-kids/donate The show's sponsorship page.]
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=15375&p=131708#p131708 The call for marathon volunteers] on [[The Austin Improv Forums]].
 ** [http://goo.gl/uCnNK The volunteer schedule.]
-* [http://hideouttheatre.com/stream/ Streaming link for the marathon.]
