@@ -54,6 +54,7 @@ It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 2
 ** This was a set of short-form games.
 * Saturday 8am: [[Waterpark]], a musical-improv troupe from [[The New Movement]], presented a non-narrative musical-improv show.
 * Saturday 9am: *[[Dubbed Indemnity]]*: improvising the dialog, sound effects, and soundtrack for silenced TV and film clips.
+** This featured guest [[Josh Gill]].
 * Saturday 10am: [[Local Genius Society]] presented "Video Game", where cards scattered with 'helpful' instructions threw kinks and twists into an improvised story.
 ** This was a narrative based around "Disney Place", a knockoff version of [[Wikipedia - Disney World|Disney World]].
 * Saturday 11am: *[[Charles Dickens Unleashed]]*: improv in the style of one of [[Wikipedia - Charles Dickens|Charles Dickens]]' early novels.
