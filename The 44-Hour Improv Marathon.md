@@ -3,7 +3,7 @@
 **The 44-Hour Improv Marathon** was the fifth annual [[Hideout Improv Marathon]].
 
 ## Summary
-It will be performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
+It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 
 ## Core Players
 * [[Aaron Saenz]]
