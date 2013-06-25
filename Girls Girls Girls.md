@@ -46,7 +46,13 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Tara White]]
 
 ### Former Musicians
+* [[Nathan Aloysius]]
 * [[Michael Brockman]]
+* [[Pat Buchta]]
+* [[Jon Guyton]]
+* [[Jason Laney]]
+* [[John Ratliff]]
+* [[Robby]]
 
 ## Local Festivals
 * [[Out of Bounds Comedy Festival]] - Headlining troupe 2007
