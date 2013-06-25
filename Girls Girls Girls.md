@@ -88,8 +88,10 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Sarah Marie Curry]]
 * [[Shana Merlin]]
 ### Musicians
-* [[Ammon Taylor]]
+* [[Joseph Robert Dailey]]
 * [[Joel Love]]
+* [[David Rosenbaum]]
+* [[Ammon Taylor]]
 
 ### Crew
 * [[Sara Farr]]
