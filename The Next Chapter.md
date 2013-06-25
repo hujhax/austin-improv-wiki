@@ -17,14 +17,13 @@ Each night of the show has a different guest author. An author is interviewed, u
 ## Guest Authors and Works
 * 5/3: [[Deano Jones]] &mdash; *[http://www.riseofthecaferacer.com Rise of the Cafe Racer]*
 * 5/10: [[Owen Egerton]] &mdash; *[http://amzn.com/1593765185 Everyone Says That at the End of the World]*
-* 5/17: Doug Dorst &mdash; *[http://amzn.com/B008W3T50S The Surf Guru]*
-* 5/24: Manuel Gonzales &mdash; "One-Horned and Wild-Eyed" from *[http://amzn.com/1594486042 The Miniature Wife and Other Stories]*
+* 5/17: Doug Dorst &mdash; Two stories from *[http://amzn.com/B008W3T50S The Surf Guru]*
+* 5/24: Manuel Gonzales &mdash; Two stories from *[http://amzn.com/1594486042 The Miniature Wife and Other Stories]*
 * 5/31: Matt Sturges &mdash; *[http://www.amazon.com/Masked-Lou-Anders/dp/1439168822 Masked]*
 * 6/7: Katherine Catmull &mdash; *[http://amzn.com/0525953469 Summer and Bird]*
 * 6/14: Beth Kander &mdash; *[http://www.amazon.com/Was-ebook/dp/B00BDR0MNE Was]*
 * 6/21: Suzy Spencer &mdash; *[http://amzn.com/0425219364 Secret Sex Lives: A Year on the Fringes of American Sexuality]*
-* 6/28: Daniel Quinn &mdash; *[http://www.ishmael.org/Origins/woomeroo/ At Woomeroo]*
-
+* 6/28: Daniel Quinn &mdash; Two stories from *[http://www.ishmael.org/Origins/woomeroo/ At Woomeroo]*
 
 ## More Information
 * [http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/ An *Austin Chronicle* interview] with director [[Justin Davis]] by [[Wayne Allen Brenner]].
