@@ -12,7 +12,7 @@ Jo is a frequent host at [[The Institution Theater]] for shows like *[[Clusterfu
 She also hosted at OOB.
 
 ## History
-Jo first got into improv when she took the first class offered by [[The Institution Theater]].  Since then, she's trained at the Institution, [[The Hideout Theatre]], and the DSI Comedy Training Center.
+Jo first got into improv when she took the first class offered by [[The Institution Theater]].  Since then, she's trained at the Institution, [[The Hideout Theatre]], and the DSI Comedy Training Center.  She has taken workshops with Keith Johnstone, Laura Hall, Dave Sheridan, Mark Beltzman, and others.
 
 ## Troupes
 * [[The Better Half]]
