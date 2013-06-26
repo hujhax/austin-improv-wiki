@@ -98,9 +98,10 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 *** [[Josh Gill]] -- Stoner Bear
 *** [[Cat Drago]] -- My Parents Didn't Love Me Enough Bear
 *** [[John Ratliff]] -- The Bear of Lost Hope
-*** [[Michael Joplin]] -- Gay Bear ![Bi Bear]
+*** [[Michael Joplin]] -- Gay Bear (and later, Bi Bear)
 * Sunday 9am (hour 41): [[The Institution Theater]] presented "the movie format", an improv montage with screenplay-style scene painting.
 ** This story followed a girl in the inner city and her estranged father through a narrative that became increasingly [[Wikipedia - David Lynch|Lynch]]ian over time.
+** Guest performers: [[Asaf Ronen]], [[Clifton Highfield]], [[Deana Ricks]], [[Justin Davis]], [[Taylor Overstreet]], [[Tom Booker]].
 * Sunday 10am (hour 42): *[[Fakespeare]]*: improv in the style of William Shakespeare.
 ** This version of the show started with a few Shakespearean improv games, and then segue into a narrative.
 ** The narrative was based on a Persian attack on Jericho.
