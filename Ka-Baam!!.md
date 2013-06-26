@@ -118,11 +118,16 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * 9/11/09: Kristin Hogan
 * 9/12/09: Kristin Hogan
 * 9/18/09: Angelica Brenner
-* 9/19/09: Jim Kersey
-* 9/25/09: Andrew Augustine
-* 9/26/09: *unknown*
+* 9/19/09: James Kersey
+* 9/25/09: Andrew Augustine (Dat Boi Drew)
 * 10/2/09: Robert Faires
-* 10/2/09: *unknown*
+* 10/3/09: Martin Whitmore
+* 10/9/09: Robert Faires
+* 10/10/09: Matt Frank
+* 10/16/09: Chris Matteson
+* 10/17/09: Chris Matteson
+* 10/23/09: Joel Watson
+* 10/24/09: Joel Watson
 
 ## Media
 * [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset that includes both runs.]
