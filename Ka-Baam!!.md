@@ -113,6 +113,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * 5/10/08:  Rob Osborne
 * 5/17/08:  Thomas Reidy
 * 5/24/08:  Kristin Hogan
+* 6/7/08:  Lea Hernandez
 
 #### 2009 Run
 * 9/11/09: Kristin Hogan
