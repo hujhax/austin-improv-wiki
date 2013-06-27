@@ -117,6 +117,7 @@ British improvisor [http://www.facebook.com/jonathan.monkhouse Jonathan Monkhous
 The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk/ Project2], the science-fiction troupe that both Monkhouse and Chris Mead are a part of.
 
 ## Media
+### Photos
 * [http://www.facebook.com/media/set/?set=a.554452047951649.1073741879.221927764537414&type=3 Selected marathon photos] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.587814621240037.1073741843.100000345135257&type=3 A photoset] by [[Claudio Fox]] of hours 1 and 2.
 * [http://www.facebook.com/media/set/?set=a.4944587095232.1073741839.1315383518&type=1 A photoset] by [[Michael Yew]] of hours 4-5, 38, and 42.
@@ -124,6 +125,18 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://www.facebook.com/media/set/?set=a.10151445124280793.1073741853.666390792&type=1 A photoset] by [[Dave Alley]] of hours 25-29.
 * [http://www.facebook.com/media/set/?set=a.555620097834844.1073741882.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hours 30 and 31.
 ** [http://www.facebook.com/media/set/?set=a.555618604501660.1073741881.221927764537414&type=3 A separate photoset] of the same hours which is all olo shots of [[Cat Drago]].
+
+### Videos
+* [http://vimeo.com/69060732 Hour 6: Parallelogramophonograph presents "The Tab"]
+* [http://vimeo.com/69014376 Hour 7: Franz & Dave present "Pine Falls"]
+* [http://vimeo.com/69028237 Hour 19: *Charles Dickens Unleashed*]
+* [http://vimeo.com/69001828 Hour 23: Girls Girls Girls]
+** Unfortunately, we were only able to get the first 15 minutes or so of this show.
+* [http://vimeo.com/69104964 Hour 25: ESL with The Amazon and the Milksop]
+* [http://vimeo.com/69221817 Hour 34: *Tech Nightmare*]
+* [http://vimeo.com/69145400 Hour 41: The Movie Format with the Institution Theater]
+* [http://vimeo.com/69196616 Hour 42: *Fakespeare*]
+* [http://vimeo.com/69068028 Hour 44b: The Marathon-closing Q&A]
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/improvmarathon The show's web page.]
