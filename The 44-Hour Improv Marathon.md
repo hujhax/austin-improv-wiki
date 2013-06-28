@@ -119,6 +119,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.554452047951649.1073741879.221927764537414&type=3 Selected marathon photos] by [[Steve Rogers]].
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103272537904680.1073741831.7909117&type=3 Marathon photos] by [[Heidi Rogers]].
 * [http://www.facebook.com/media/set/?set=a.587814621240037.1073741843.100000345135257&type=3 A photoset] by [[Claudio Fox]] of hours 1 and 2.
 * [http://www.facebook.com/media/set/?set=a.557128874350633.1073741886.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 3.
 * [http://www.facebook.com/media/set/?set=a.4944587095232.1073741839.1315383518&type=1 A photoset] by [[Michael Yew]] of hours 4-5, 38, and 42.
