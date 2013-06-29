@@ -60,6 +60,13 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ** [[Jesse Overright]]
 ** [[Bobby DiPasquale]]
 ** [[Tom Booker]]
+* 2013 Run
+** Bryan Curry
+** [[Ammon Taylor]]
+** Craig Ries
+** [[Chuy Zarate]]
+** [[Brently Heilbron]]
+** "Pick-a-Boy" (audience vote)
 
 ## Media
 * [http://youtu.be/RAIGgBSf0rA Video] of [[Marc Majcher]] guesting with *Boys of Summer* on 8/9/08.
