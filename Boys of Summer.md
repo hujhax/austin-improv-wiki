@@ -5,7 +5,7 @@
 |Cast = [[Girls Girls Girls]]
 |Director =[[Girls Girls Girls]]
 |Run = Jul/Aug 2006
-|Subsequent Runs = {{Unbulleted list | Jul/Aug 2007 | Jul/Aug 2008 | Jul/Aug 2009 | Jul/Aug 2010 | Jul/Aug 2011 | Jul/Aug 2012 }}
+|Subsequent Runs = {{Unbulleted list | Jul/Aug 2007 | Jul/Aug 2008 | Jul/Aug 2009 | Jul/Aug 2010 | Jul/Aug 2011 | Jul/Aug 2012 | Jul/Aug 2013 }}
 }}
 
 ***Boys of Summer*** is a longform musical improv show from [[Girls Girls Girls]] which features a different male improvisor guesting with the troupe in every performance.
