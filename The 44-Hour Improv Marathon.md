@@ -135,6 +135,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 ### Videos
 * [http://vimeo.com/69060732 Hour 6: Parallelogramophonograph presents "The Tab"]
 * [http://vimeo.com/69014376 Hour 7: Franz & Dave present "Pine Falls"]
+* [http://vimeo.com/69401082 Hour 8: The New Game Project]
 * [http://vimeo.com/69028237 Hour 19: *Charles Dickens Unleashed*]
 * [http://vimeo.com/69001828 Hour 23: Girls Girls Girls]
 ** Unfortunately, we were only able to get the first 15 minutes or so of this show.
