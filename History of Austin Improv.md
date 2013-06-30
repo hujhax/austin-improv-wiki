@@ -4,7 +4,7 @@ In 1996 the main improv venues were [[The Velveeta Room]], featuring [[Marc Prut
 There was also a University of Texas troupe called [[Only 90% Effective]] directed by [[Brently Heilbron]]. [[The Velveeta Room]] was also producing other troupes like [[Code Blue]] and [[Los Paranoias]], directed by [[Pam Ribon]] and [[David Lampe]]. [[David Lampe]] was a member of [[Monk's Night Out]] and a founding member of [[The Oxymorons]] in San Antonio.
 
 ## Austin Improv Goes National
-In 1997 Austin landed on the national improv and sketch map with the first annual [[Big Stinkin' Improv and Sketch Comedy Festival]], which brought troupes, teachers and talent scouts from around the nation to Austin for a fantabulous long weekend of comedy. Improv played some of the biggest venues in town from the Paramount to Palmer Auditorium. It was awesome.
+In 1996 Austin landed on the national improv and sketch map with the first annual [[Big Stinkin' Improv and Sketch Comedy Festival]], which brought troupes, teachers and talent scouts from around the nation to Austin for a fantabulous long weekend of comedy. Improv played some of the biggest venues in town from the Paramount to Palmer Auditorium. It was awesome.
 
 In 1998 [[Sean Hill]] and [[David Lampe]] hosted auditions for [[We Could Be Heroes|Austin Theatresports]] [AKA Austin Theatresports, We Could Be Heroes, and The Heroes of Comedy]. The first rehearsals were in a cozy classroom on 5th Street, in what was functionally nicknamed "The Batcave."
 
