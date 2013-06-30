@@ -32,3 +32,7 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 * *[[The Nightmare Video Project]]*
 * *[[Pick Your Own Path]]*
 * *[[RPG Story]]*
+
+
+[[Category/Performers|Deane]]
+[[Category/Active|Category:Active]]
