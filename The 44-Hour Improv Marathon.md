@@ -87,7 +87,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Sunday 3am (hour 35): [[Big Beautiful Warlock]] presented *[[Big Beautiful Warriors]]*, a game show with very non-traditional games.
 * Sunday 4am (hour 36): *[[Pulp Friction]]*: improv in the style of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]]
 * Sunday 5am (hour 37): a secret show, produced by [[Jason Vines]].
-** This turned out to be "Human Clay", where Jason, in character as a Bob-Ross-like sculpture, molded players into various shapes and blew "magic dust" on them that brought them to life for scenes.
+** This turned out to be "Human Clay", where Jason, in character as a Bob-Ross-like sculptor, molded players into various shapes and blew "magic dust" on them that brought them to life for scenes.
 ** Roy had made Jason promise not to be *too* cruel to the core cast with his secret format.
 * Sunday 6am (hour 38): "The Queen Is Not Amused", wherein Jonathan Monkhouse appeared via Skype, portraying the queen of England.
 * Sunday 7am (hour 39): Student Show
