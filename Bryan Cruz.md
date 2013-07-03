@@ -13,7 +13,6 @@ In 2012, Bryan moved away to Houston.  Just before that, [[The Institution Theat
 ## Troupes
 * [[Gigglepants]] (co-founder)
 * [[No Chaser]]
-* [[Total Panic]]
 
 ## Shows
 * *[[Crack!]]*
