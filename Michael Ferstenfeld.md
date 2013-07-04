@@ -22,7 +22,7 @@ Michael is the co-founder and artistic director of scripted theatre troupe, [htt
 * [[The Professor]]
 
 ## Shows
-* *[[Fakespeare]]* (Balthasar/Banquo)
+* *[[Fakespeare]]* (Balthasar/Borachio/Banquo)
 * *[[Gorilla Theatre]]*
 * *[[This Week Tonight]]*
 * *[[This American LIVE!]]*
