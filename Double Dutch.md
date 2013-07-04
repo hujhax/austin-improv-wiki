@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	Double Dutch
-|Picture =     DoubleDutch.jpeg
+|Picture =     DoubleDutch
 |Cast	=	{{Unbulleted list | [[Avimaan Syam]] | [[Shana Merlin]] | [[Lauren Buck]] | [[Michael Ferstenfeld]] }}
 |Years	=		2010
 }}
