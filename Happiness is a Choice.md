@@ -14,7 +14,7 @@ Happiness is a Choice use improvisation and their unique style of meta-theater t
 * [http://choosehappiness.info/wordpress/?p=412 Audio of their 10/6/10 performance, in which they spent forty minutes taking a suggestion.]
 
 ## More Info
-* [[Http - --choosehappiness.info Have VISITS of their WEBSITE!]]
+* [http://choosehappiness.info Have VISITS of their WEBSITE!]
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
