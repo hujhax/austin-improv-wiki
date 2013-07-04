@@ -9,3 +9,4 @@ The podcast is hosted and produced by [[Scott Hearne]] and [[Caeriel Crestin]].
 
 ## More Information
 * [http://www.facebook.com/austinimprov The podcast's facebook page.]
+* [http://directory.libsyn.com/shows/view/id/austinimprov The podcast's episode list.]
