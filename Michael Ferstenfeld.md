@@ -8,7 +8,7 @@
 **Michael Ferstenfeld** is a performer, director, teacher, and producer.
 
 ## Summary
-Michael is the co-founder and artistic director of scripted theatre company, [http://dystheatre.com Dystheatre], co-creator of [http://wiki.exquisitezombies.com The Exquisite Zombies], an [http://www.ferstenfeld.com/zombies/mediawiki/index.php5?title=E-learning online course and game developer], he's currently teaching at [[Merlin Works]]with the occasional elective at the [[The Hideout Theatre]] or workshop at [[Institution Theater]].
+Michael is the co-founder and artistic director of scripted theatre company, [http://dystheatre.com Dystheatre], co-creator of [http://wiki.exquisitezombies.com The Exquisite Zombies], an [http://www.ferstenfeld.com/zombies/mediawiki/index.php5?title=E-learning online course and game developer], and teaching at [[Merlin Works]] with the occasional elective or workshop at the [[The Hideout Theatre]] and [[Institution Theater]].
 
 
 ## Troupes
