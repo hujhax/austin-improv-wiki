@@ -23,8 +23,9 @@ Michael is the co-founder and artistic director of scripted theatre company, [ht
 
 ## Shows
 * *[[Fakespeare]]* (Balthasar/Borachio/Banquo)
-* *[[Start Trekkin']]*
 * *[[Gorilla Theatre]]*
+* *[[Key Party]]*
+* *[[Start Trekkin']]*
 * *[[This Week Tonight]]*
 * *[[This American LIVE!]]*
 
