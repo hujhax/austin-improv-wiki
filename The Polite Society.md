@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	The Polite Society
 |Picture =     https://sphotos-a.xx.fbcdn.net/hphotos-ash3/253856_520377841327852_383394975_n.jpg
-|Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Caitlin Sweet]] | [[Kan Yan]] | [[Michael Ferstenfeld]]}}
+|Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Caitlin Sweetlamb]] | [[Kan Yan]] | [[Michael Ferstenfeld]]}}
 |Years	=		2006-Present
 }}
 
