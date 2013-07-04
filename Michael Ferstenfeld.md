@@ -17,6 +17,7 @@ Michael is the co-founder and artistic director of scripted theatre company, [ht
 * [[Ed32]]
 * [[Goat]]
 * [[Happiness is a Choice]]
+* [[Short & Sweet]]
 * [[The Band of Liars]]
 * [[The Polite Society]]
 * [[The Professor]]
