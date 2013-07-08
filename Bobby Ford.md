@@ -18,11 +18,11 @@ Bob is a fully out *Star Wars* nerd, owner/operator of Rogue Sage, a gifted publ
 * [[Two Guys From Yonkers]] (2011 - Present)
 
 ## Shows
-* *[[Maestro]]* (2000-)
+* *[[Maestro]]* 
 * *[[The Cagematch]]*
 * *[[The Fancy-Pants Mashup]]*
 * *[[Pick Your Own Path]]*
-* *[[The Tribunal]]*
+* *[[The Tribunal]]* (2012 Cast)
 
 
 [[Category/Performers|Olmstead]]
