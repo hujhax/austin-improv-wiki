@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	Local Genius Society
-|Picture =     Local Genius Society.jpg
+|Picture =     Lgs_grouphug.jpg
 |Cast	=	{{Unbulleted list | [[Karen Jane DeWitt]] | [[Nicole Beckley]] | [[Ryan Austin]] | [[Zac Grantham]] }}
 |Years	=		2010-Present
 }}
