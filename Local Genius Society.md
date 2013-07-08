@@ -5,6 +5,8 @@
 |Years	=		2010-Present
 }}
 
+![[LGSpatch.jpg|Local Genius Society custom club jacket crest. Designed by [[Ryan Austin]]. Each object on the crest represents a member of the cast at the time of design.]]
+
 **Local Genius Society** is a group of raconteurs, savants, and bon vivants.
 
 Together, their knowledge includes the rules of curling, the intricacies of motion graphics, the proper way to handle a dangling participle, and how to bake a Baked Alaska.
