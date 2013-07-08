@@ -5,10 +5,14 @@
 |Years	=		2010-Present
 }}
 
-**Local Genius Society** is an improv troupe.
+**Local Genius Society** is a group of raconteurs, savants, and bon vivants.
+
+Together, their knowledge includes the rules of curling, the intricacies of motion graphics, the proper way to handle a dangling participle, and how to bake a Baked Alaska.
+
+They have an original prep-school blazer crest designed by troupe member [[Ryan Austin]] that they all wear on their navy blazers when they perform.
 
 ## Formats
-Local Genius Society has presented a number of different improv formats.
+Local Genius Society has presented a number of different improv formats, including...
 
 ### Groundhog Day
 ### Evil Genius
@@ -16,6 +20,12 @@ Local Genius Society has presented a number of different improv formats.
 Beach Cops was a series of narratives done in the style of *[[Wikipedia - Baywatch|Baywatch]]*. It came about as a one one-off joke in a show where Andrew and Zac played Beach Cops patrolling and protecting a beach. Tickled by the idea, LGS developed the format by drawing not only from Baywatch but also from *[[Wikipedia - Pacific Blue|Pacific Blue]]*. Beach Cops debuted at the [[The 2012 Improvised Play Festival]] ([http://vimeo.com/40328506 Video]) and was met with surprising success.
 
 It was performed several more times, including once at [[ColdTowne Theater]] with [[Kaci Danger]] as a guest Beach Cop. The final show was performed in Honolulu's Improvaganza festival in 2012. Beach Cops has since been retired.
+
+### Color
+Local Genius Society takes a suggestion of a color or brings a crayon box for an audience to select from and discuss what that color makes them think of. After each member has shared, a narrative based on the discussion is performed.
+
+### Narrative Game
+Bringing a stack of cards with thematic (e.g. the confession) or specific (e.g. one player's dialogue must be all song lyrics) instructions, Local Genius Society plays a narrative and selects a card at will and/or at the top of a scene. They brought this format to the 44 hour marathon to give the sleep-deprived players some fun chaos.
 
 ## History
 Local Genius Society formed in late 2010 by a group of improv students from the Hideout Theatre. After building their early career performing shortform, including a run of successful “Groundhog Day” shows, the geniuses embarked on longform narrative in the summer of 2011. Since then, Local Genius Society has opened for notable Austin improv troupes such as: Parallelogramophonograph, Girls Girls Girls: Improvised Musical Comedy, The Glamping Trip, and Confidence Men. In 2012 they hosted a weekly show, “Underground Improv” at Dive Bar.  They have performed in WaffleFest (2011, 2012), the Improvised Play Festival (2011, 2012, 2013), the 42 and 43-Hour Improv Marathons (2011, 2012), and the Out Of Bounds Comedy Festival (2012) in Austin, TX, and the Improvaganza Festival in Honolulu, HI (2012).
