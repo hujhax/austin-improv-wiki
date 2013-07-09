@@ -14,7 +14,7 @@
 
 The show explores a soul and all of its previous incarnations in reverse chronological order.
 
-The show debuted at the 2013 [[Improvised Play Festival]] at [[The Hideout Theatre]] on April 11, 2013.
+The show debuted at the 2013 [[Improvised Play Festival]] at [[The Hideout Theatre]] on April 11, 2013 and has since been featured in [[The 44-Hour Improv Marathon]].
 
 ## Media
 * [http://vimeo.com/63959273 Past Lives debut show video]
