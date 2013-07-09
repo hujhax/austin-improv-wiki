@@ -57,7 +57,7 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 ## Media
 * Photosets of [http://www.facebook.com/media/set/?set=a.2021040415803.120215.1537720942&type=3 hours 0 and 1], as well as [http://www.facebook.com/media/set/?set=a.2021301582332.120233.1537720942&type=3 hours 2 and 3] from [[Lorraine DeNardis]].
 * [http://www.facebook.com/media/set/?set=a.863884206963.2357098.209898&type=3 Photoset of hours 20, 21, and 22] from [[Nicole Beckley]].
-* [http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 42.
+* [http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 24.
 * Overall photosets:
 ** [http://www.facebook.com/media/set/?set=a.1724964966691.86123.1315383518&type=3 Photoset] from [[Michael Yew]].
 ** [http://www.facebook.com/media/set/?set=a.10100679445652283.3052072.2230063&type=3 Photoset]  from [[Shruti Saran]].
