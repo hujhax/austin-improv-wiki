@@ -134,7 +134,6 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 ** [http://www.facebook.com/media/set/?set=a.555618604501660.1073741881.221927764537414&type=3 A separate photoset] of the same hours which is all solo shots of [[Cat Drago]].
 * [http://www.facebook.com/media/set/?set=a.556512987745555.1073741885.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 32.
 * [http://www.facebook.com/media/set/?set=a.556099991120188.1073741884.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 33.
-* [http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 42.
 
 ### Videos
 * [http://vimeo.com/69060732 Hour 6: Parallelogramophonograph presents "The Tab"]
