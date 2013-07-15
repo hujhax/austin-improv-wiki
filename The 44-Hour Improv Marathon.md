@@ -143,6 +143,9 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://vimeo.com/69001828 Hour 23: Girls Girls Girls]
 ** Unfortunately, we were only able to get the first 15 minutes or so of this show.
 * [http://vimeo.com/69104964 Hour 25: ESL with The Amazon and the Milksop]
+* Hour 32: The Black Vault
+** [http://vimeo.com/69325354 Video by Victoria Hawthorne]
+** [http://vimeo.com/70318263 Video by Victoria Hawthorne and Peter Rogers]
 * [http://vimeo.com/69221817 Hour 34: *Tech Nightmare*]
 * [http://vimeo.com/69145400 Hour 41: The Movie Format with the Institution Theater]
 * [http://vimeo.com/69196616 Hour 42: *Fakespeare*]
