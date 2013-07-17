@@ -10,8 +10,7 @@
 ## Film
 As a teenager Jesse worked behind-the-scenes on films “25th Hour” and “Hustle & Flow.” He appeared on Japanese television as a stuntman and later created special effects for “James Cameron’s Expedition: Bismarck” and “America’s Most Wanted.”
 
-In 2002 Jesse was attending the University of Texas when Director Robert Rodriguez awarded his short film the grand prize for Alamo Drafthouse’s Bloodshots 48 Hour Film Contest. The film appeared in South By Southwest 2004 as an official selection. The following year Jesse co-wrote & produced a television show with Zach Anner.
-
+In 2002 Jesse was attending the University of Texas when Director Robert Rodriguez awarded his short film the grand prize for Alamo Drafthouse’s Bloodshots 48 Hour Film Contest. The film appeared in South By Southwest 2005 as an official selection. The following year Jesse co-wrote & produced a television show with Zach Anner.
 
 ## Improv
 In 2010 Jesse began taking classes at The New Movement in Austin.  He graduated the program in 2011 after a ten city comedy tour.
