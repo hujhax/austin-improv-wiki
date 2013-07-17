@@ -1,20 +1,22 @@
 {{Infobox Troupe
-|Name	=	Arkay
-|Picture =     Arkay.jpg
+|Name	=	Array
+|Picture =     Array.jpg
 |Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Amy Averett]] | [[Andrew Buck]] | [[Arthur Simone]] | [[Ashley Franks]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jason Finkelman]] | [[John Brewster]] | [[Joshua Philips]] | [[Matt Needles]] | [[Michael Jastroch]] | [[Naomi Perryman]] | [[Sarah Marie Curry]] | [[Taylor Overstreet]] }}
 |Years	=		2013-Present
 |Theater = [[ColdTowne Theater]]
 }}
 
-**Arkay** is an improv troupe.
+**Array** is an improv troupe.
 
 ## Summary
 The troupe performs "The JTS Brown", a free-form, organic montage. 
 
 ## History
-The troupe was formed as a collaborative process between improvisers from multiple theaters to study the JTS Brown format with Craig Cackowski Dave Buckman, and Cody Dearing.
+The troupe was originally named "Arkay" and was formed by [[Joshua Philips]] as a collaborative process between improvisers from multiple theaters to study the JTS Brown format with Craig Cackowski Dave Buckman, and Cody Dearing.
 
-They had a run of Thursday shows in May 2013 at [[ColdTowne Theater]] with [[Cheap Date]]
+They had a one time run of Thursday shows in May 2013 at [[ColdTowne Theater]] with [[Cheap Date]]
+
+[[Joshua Philips]] and [[Ashley Franks]] left to move to Chicago to pursue improv, and Arkay reorganized and renamed itself in order to continue performing in shows. The new team headlined the Threefer at the Hideout Theater in July 2013 and was accepted into OOB of that year, and continue to perform shows in the Austin improv scene. 
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14803 The casting call for the workshop] on [[The Austin Improv Forums]]
