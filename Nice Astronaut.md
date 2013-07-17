@@ -39,11 +39,12 @@ Over the years, the following people have been or are currently still members of
 * [[Drew Wesely]] (2011 - present)
 * [[Jared Stepp]] (2011 - 2012)
 * [[Milo Smith]] (2012)
-* [[Nathan Sowell]] (2012 - 2013)
+* [[Nathan Sowell]] (2012 - present)
 * [[Chrissy Shackelford]] (2012 - 2013)
 * [[Calan lambert]] (2012 - present)
 * [[Jessica Marpe]] (2012 - present)
 * [[Chaz Formichella]] (2012 - present)
+* [[Joseph Dailey]] (2013 - present)
 
 ## Show Formats
 Nice Astronaut has specialized in creating and preforming custom formats, but has also performed montages, living rooms, Armandos, and Deconstructions for extended periods of time.
