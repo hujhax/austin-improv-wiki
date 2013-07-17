@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Array
 |Picture =     Arkay.jpg
-|Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Amy Averett]] | [[Andrew Buck]] | [[Arthur Simone]] | [[Ashley Franks]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jason Finkelman]] | [[John Brewster]] | [[Joshua Philips]] | [[Matt Needles]] | [[Michael Jastroch]] | [[Naomi Perryman]] | [[Sarah Marie Curry]] | [[Taylor Overstreet]] }}
+|Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Amy Averett]] | [[Andrew Buck]] | [[Arthur Simone]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jason Finkelman]] | [[John Brewster]] | [[Matt Needles]] | [[Michael Jastroch]] | [[Naomi Perryman]] | [[Sarah Marie Curry]] | [[Taylor Overstreet]] }}
 |Years	=		2013-Present
 |Theater = [[ColdTowne Theater]]
 }}
