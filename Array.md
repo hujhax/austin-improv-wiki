@@ -6,7 +6,7 @@
 |Theater = [[ColdTowne Theater]]
 }}
 
-**Array** is an improv troupe.
+**Array** (formerly **Arkay**) is an improv troupe.
 
 ## Summary
 The troupe performs "The JTS Brown", a free-form, organic montage. 
