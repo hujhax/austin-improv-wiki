@@ -12,6 +12,6 @@ As with most interactive fiction games, the player interacts with the game engin
 
 ## More Information
 * [http://www.facebook.com/roydanger/posts/10101478959545090 The facebook discussion that prompted the game.]
-* [http://forum.austinimprov.com/viewtopic.php?f=7&t=12893&p=115852 The thread devoted to solving the game] on the [[AIC Forum]].
+* [http://forum.austinimprov.com/viewtopic.php?f=7&t=12893&p=115852 The thread devoted to solving the game] on [[The Austin Improv Forums]].
 * [http://hujhax.austinimprov.com/files/misc/HideoutGame/play.html The game itself], playable in your browser.
 * [[The Hideout Text Adventure-Source Code|The source code for the game.]]
