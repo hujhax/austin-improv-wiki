@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-**Chad Wellington** is a technical improvisor and an improv performer.
+**Chad Wellington** is an improv performer, technical improvisor, and photographer.
 
 ## History
 Chad began taking improv classes in June 2010.
@@ -26,7 +26,11 @@ Chad began taking improv classes in June 2010.
 * *[[Live Nude Improv]]* (tech)
 * *[[Pocketful of Posies]]* (light tech)
 
+## More Information
+* [http://cwcreations.smugmug.com/ Chad's photography website.]
+
 [[Category/Performers|Wellington]]
 [[Category/Techs|Wellington]]
+[[Category/Photographers|Wellington]]
 
 __NOINDEX__
