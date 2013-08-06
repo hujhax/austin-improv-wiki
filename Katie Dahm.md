@@ -8,7 +8,6 @@
 **Katie Dahm** is an improv performer.
 
 ## Troupes
-* [[The Awkwards]]
 * [[Quayle]]
 * [[Rhythm Reactor]]
 * [[The Walk-Ons]]
