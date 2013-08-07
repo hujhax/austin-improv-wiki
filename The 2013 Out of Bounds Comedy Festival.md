@@ -76,6 +76,7 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[There's Waldo]]
 * [[The Tribunal]]
 * [[Twilight Zoned]]
+* [[Waiting for Batman]]
 * [[What's the Story Steve]]
 * [[You're Not My Real Dad]]
 * [[Your Dad's Friends]]
@@ -131,7 +132,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * Triggerfinger
 * Unsuspectingly Sponsored By
 * The US National Improv Team	
-* Waiting for Batman
 * We're From Here
 * Winter Formal	
 * Women Be Shoppin'
