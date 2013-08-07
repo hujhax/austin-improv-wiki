@@ -24,6 +24,7 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[Brain Trust]]
 * [[Braised in Texas]]
 * [[Cheap Date]]
+* [[ColdTowne Rap Tigers]]
 * [[Confidence Men]]
 * [[Danger! Warning! Improv!]]
 * [[Dervish]]
@@ -91,7 +92,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * Blowfly
 * Claymore
 * Clearance Shelf
-* ColdTowne Rap Tigers
 * Cream Stain
 * The Doubtful Guests
 * Drum Machine
