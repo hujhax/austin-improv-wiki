@@ -22,7 +22,7 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[Big Beautiful Warlock]]
 * [[Braised in Texas]]
 * [[Cheap Date]]
-* [[Confidence Men -  Improvised Mamet]]
+* [[Confidence Men]]
 * [[Danger! Warning! Improv!]]
 * [[Dervish]]
 * [[Do You Still Want To Do This]]
@@ -74,7 +74,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[Your Dad's Friends]]
 * [[Your Terrific Neighbors]]
 * [[ZEDtalks]]
-
 
 ### Out-of-Town Improv and Sketch Acts
 * #UGH (all of my disappointments located conveniently in one show)
