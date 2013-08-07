@@ -20,6 +20,7 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[Backpack Picnic]]
 * [[Bad Boys]]
 * [[Big Beautiful Warlock]]
+* [[BOSS]]
 * [[Brain Trust]]
 * [[Braised in Texas]]
 * [[Cheap Date]]
@@ -44,6 +45,7 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[Junk]]
 * [[Known Wizards]]
 * [[The Knuckleball Now]]
+* [[The Ladies]]
 * [[Local Genius Society]]
 * [[Magician vs Clown]]
 * [[MANDINKA]]
@@ -56,15 +58,18 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[Opposites]]
 * [[Parallelogramophonograph]]
 * [[The Professor]]
+* [[Precious Dads]]
 * [[Pulp Friction]]
 * [[Ratliff & Jackson]]
 * [[RhinoDino]]
+* [[Scout]]
 * [[The Seven Eight Sevens]]
 * [[Shades of Brown]]
 * [[Simply D-Vine]]
 * [[Squirrel Buddies]]
 * [[Stool Pigeon]]
 * *[[Strange Worlds]]*
+* [[The Team]]
 * [[The Theft Forum]]
 * [[There's Waldo]]
 * [[The Tribunal]]
@@ -84,7 +89,7 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * Baby Wants Candy
 * Beginnings with Andy Beckerman
 * Blowfly
-* BOSS
+* 
 * Claymore
 * Clearance Shelf
 * ColdTowne Rap Tigers
@@ -98,7 +103,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * Hip.Bang!
 * Johnson Center
 * K.C. Redheart and Friends
-* The Ladies
 * Lilan and Wilder
 * Los Improviachis
 * ManCamp
@@ -109,7 +113,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * New Money
 * Noël Wells
 * Phortasics
-* Precious Dads
 * Press Play
 * Ranger Danger and the Danger Ranger
 * Rap-Battle
@@ -118,12 +121,10 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * Rogue Improv
 * RuBin	
 * The Scoundrels
-* Scout
 * Shock T's	
 * STAG
 * Super Human
 * Taco Tuesdays 
-* The Team
 * This Week in Despair Podcast
 * Thunderstood
 * TMI
