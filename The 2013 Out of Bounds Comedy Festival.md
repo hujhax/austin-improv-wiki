@@ -68,6 +68,7 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[Shades of Brown]]
 * [[Simply D-Vine]]
 * [[Squirrel Buddies]]
+* [[STAG]]
 * [[Stool Pigeon]]
 * *[[Strange Worlds]]*
 * [[The Team]]
@@ -121,7 +122,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * RuBin	
 * The Scoundrels
 * Shock T's	
-* STAG
 * Super Human
 * Taco Tuesdays 
 * This Week in Despair Podcast
