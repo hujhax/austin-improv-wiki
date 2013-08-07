@@ -89,7 +89,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * Baby Wants Candy
 * Beginnings with Andy Beckerman
 * Blowfly
-* 
 * Claymore
 * Clearance Shelf
 * ColdTowne Rap Tigers
@@ -136,7 +135,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * We're From Here
 * Winter Formal	
 * Women Be Shoppin'
-
 
 ### Stand-Up Performers
 * Aaron Brooks
