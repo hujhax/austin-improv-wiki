@@ -20,6 +20,7 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * [[Backpack Picnic]]
 * [[Bad Boys]]
 * [[Big Beautiful Warlock]]
+* [[Brain Trust]]
 * [[Braised in Texas]]
 * [[Cheap Date]]
 * [[Confidence Men]]
@@ -84,7 +85,6 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * Beginnings with Andy Beckerman
 * Blowfly
 * BOSS
-* Brain Trust
 * Claymore
 * Clearance Shelf
 * ColdTowne Rap Tigers
