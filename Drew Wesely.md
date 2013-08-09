@@ -11,7 +11,7 @@ Drew Wesely began classes at [[ColdTowne Theater|ColdTowne Conservatory]] in 200
 He performed a minor role in a scene with Ashley Judd in the motion picture **High Crimes** as "Marine", and was a background actor/dancer in the film **Desert Bloom** with Jon Voight.
 
 ## Active Improv & Sketch Troupes & Comedy Festival Shows
-* [[Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB four times, twice in UCBT's DCM, and Chicago Improv Festival)
+* [[Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB four times, three times in UCBT's DCM, and Chicago Improv Festival)
 * [[Who Dack]] - improv troupe (captain) 
 * [[What's the Story, Steve]] - improv and sketchprov troupe (Performed in OOB)
 * [[Stool Pigeon]] - performer
@@ -19,7 +19,7 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * [[First United Methodist Church of Plano Youth Group Improv]] 
 * [[Townsville]] - actor  (Performed in Frontera Fest)
 * [[Delta Force of Venus]] - improv troupe (captain)
-* [[JTS Brown Project]] (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
+* [[Array]] - JTS Brown format troupe (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
 
 ## Past Improv Troupes
 * [[Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
