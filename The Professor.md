@@ -62,17 +62,20 @@ The second run of shows, from March to April of 2012, introduced [[Peter Rogers]
 ### Season Three
 Season three will be at [[The Institution Theater]] in November 2012.
 
-* [[Aden Kirschner]]
+* [[Bridget Brewer]]
 * [[Clay Towery]]
 * [[Emily Breedlove]]
-* [[Jacob Trussell]]
 * [[Jeff Britt]]
+* [[Jordan T. Maxwell]]
+* [[Kareem Badr]]
 * [[Lacy Shawn]]
-* [[Lindsey Reeves]]
+* [[Marc Majcher]]
 * [[Michael Ferstenfeld]]
 * [[Peter Rogers]]
 * [[Quinn Buckner]]
 * [[Topping Haggerty]]
+
+... with tech by [[Michael Yew]].
 
 (Note that this cast list may change between now and November.)
 
