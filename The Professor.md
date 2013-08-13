@@ -6,7 +6,7 @@
 |Years	=		2011-Present
 }}
 
-**The Professor** (full name: "The Professor: Improv Inspired by *Doctor Who*") is a narrative improv troupe that presents improv in the style of the British science-fiction franchise *[[Wikipedia - Doctor Who|Doctor Who]]*.
+**The Professor** (full name: ***The Professor: Improv Inspired by *Doctor Who**) is a narrative improv troupe that presents improv in the style of the British science-fiction franchise *[[Wikipedia - Doctor Who|Doctor Who]]*.
 
 ## Summary
 While identical in concept to *Doctor Who*, the shows performed by The Professor don't occupy the exact same universe as *Doctor Who*.  The central character is "The Professor", and no mention is made of specific [[Wikipedia - Whoniverse|Whoniverse]] villains.
