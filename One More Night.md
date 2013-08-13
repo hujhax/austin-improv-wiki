@@ -34,12 +34,15 @@ The following are links to songs that were frequently used in the *One More Nigh
 * [http://hujhax.livejournal.com/605866.html Recap of the 1/30 show.]
 
 ## Media
+### Photos
 * 1/22 performance: [http://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282 photoset] by [[Roy Moore]]; [http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju photoset] by [[Jon Bolden]].
 * [http://www.facebook.com/media/set/?set=a.1168134175412.2022541.1589679282&type=3 Photoset of the 1/23 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1173102059606.2023044.1589679282&type=3 Photoset of the 1/30 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1177677093979.2023536.1589679282&type=3 Photoset of the 2/5 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3 Photoset of the 2/12 performance] by [[Roy Moore]].
 * 2/13 performance: [http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3 photoset] by [[Roy Moore]]; video: [https://vimeo.com/10709773 part 1], [http://vimeo.com/10885057 part 2], [http://vimeo.com/10996943 part 3], [http://vimeo.com/10997395 part 4].
+### Videos
+* 2/13 performance: [http://vimeo.com/10709773 1], [http://vimeo.com/10885057 2], [http://vimeo.com/10996943 3], [http://vimeo.com/10997395 4].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=89742 The announcement of the premiere] on [[The AIC Forums]].
