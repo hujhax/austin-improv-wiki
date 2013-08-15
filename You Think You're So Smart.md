@@ -11,7 +11,7 @@
 ## Format
 In every performance, the panelists discuss facts and trivia in that week's category, provided by the show's host, [[Justin Davis]].
 
-Recurring features include the "Ranter's Corner", where a guest speaker delivers a rant related to the night's topic, and "Spin the Wiki", where Justin uses [http://en.wikipedia.org/wiki/Special:Random Wikipedia's "Random article" link] to supply a random topic, and "Would You Rather", which is the classic scneario question where you're given a choice between two alternatives, each with their pros and cons.
+Recurring features include the "Ranter's Corner", where a guest speaker delivers a rant related to the night's topic, and "Spin the Wiki", where Justin uses [http://en.wikipedia.org/wiki/Special:Random Wikipedia's "Random article" link] to supply a random topic, and "Would You Rather", where the panel discusses a choice between two alternatives which both have pros and cons.
 
 ## Schedule
 The show will run Fridays at 8pm.
