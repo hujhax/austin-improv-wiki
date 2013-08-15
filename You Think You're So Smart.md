@@ -1,7 +1,7 @@
 {{Infobox Show
 |Name	=	You Think You're So Smart
 |Director =	[[Justin Davis]]	
-|Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[John Ratliff]] | [[Justin Davis]] | [[Mia Iseman]] | [[Valerie Ward]] }}
+|Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[John Ratliff]] | [[Justin Davis]] | [[Mia Iseman]] | [[Peter Rogers]] | [[Valerie Ward]] }}
 |Theater = [[The Institution Theater]]
 |Run	=	Sep 2013
 }}
