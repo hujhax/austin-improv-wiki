@@ -68,7 +68,7 @@
 * July 18 (Friday) - *Much Ado*
 * July 19 (Saturday) - *Macbeth*
 * July 20 (Sunday) - *Much Ado*
-* July 21 (Saturday) - *Macbeth*
+* July 21 (Saturday) - this was a semi-improvised show in which the cast riffed on both scripted productions.
 
 ### Improvised Run
 * August 2 (Friday)
@@ -79,6 +79,18 @@
 * August 17 (Saturday)
 * August 23 (Friday)
 * August 24 (Saturday)
+
+## Media
+### Photos
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.593035304060292.1073741831.100000614831752&type=3 Photoset of *Macbeth* (date unknown)] by [[Warren Henderson]].
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.608194305877725.1073741836.100000614831752&type=3 Photoset of *Much Ado About Nothing* (date unknown)] by [[Warren Henderson]].
+* The 7/21/13 show:
+** [http://www.facebook.com/tylerbryce/media_set?set=a.10151814054412704.1073741838.505207703&type=3 Photoset of the 7/21/13 show] by [[Tyler Bryce]].
+** [http://www.facebook.com/warren.henderson.946/media_set?set=a.619012461462576.1073741837.100000614831752&type=3 Photoset of the 7/21/13 show] by [[Warren Henderson]]
+
+### Videos
+* [http://vimeo.com/72798057 Video of the closing night (7/19/13) of *Macbeth*.]
+* Videos of the 8/17/13 show: [http://vimeo.com/72755432 short-form half]; [http://vimeo.com/72755433 narrative half].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14898 The audition- and casting-announcement thread.]
