@@ -55,6 +55,21 @@ There will be a third performance at [[The 2013 Out of Bounds Comedy Festival]],
 * [[Nicole Oliver]]
 * [[Ryan Hill]]
 
+### Show #3
+* [[Brad Hawkins]]
+* [[Bridget Brewer]]
+* [[Caeriel Crestin]]
+* [[Heidi Rogers]]
+* [[J. M. Specht]]
+* [[Jayme Ramsay]]
+* [[Jessica Arjet]]
+* [[Jordan T. Maxwell]]
+* [[Manuel Duran]]
+* [[Marc Majcher]]
+* [[Nicole Oliver]]
+* [[Peter Rogers]]
+* [[Ruby Willmann]]
+
 ## Media
 * [http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3 Photoset of the premiere] by [[Roy Moore]].
 
