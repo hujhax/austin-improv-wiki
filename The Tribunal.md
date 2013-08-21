@@ -22,6 +22,8 @@ This show has been performed twice.  The premiere was on 9/28/12, and the second
 
 The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The Hideout Theatre]].
 
+There will be a third performance at [[The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[The Hideout Theatre]].
+
 ## Casts
 ### Show #1
 * [[Bob Olmstead]]
