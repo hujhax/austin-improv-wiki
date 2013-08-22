@@ -134,9 +134,9 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Nicole Beckley]]
 * [[Peter Rogers]]
 * [[Ruby Willmann]]
-* [[Sean Hill]]
+* [[Sean Hill]] (co-director)
 * [[Steve Harwood]]
-* [[Troy Miller]]
+* [[Troy Miller]] (co-director)
 
 ## Media
 * [http://vimeo.com/35437814 Video of the 4/23/05 performance (season 2, episode 4).]
