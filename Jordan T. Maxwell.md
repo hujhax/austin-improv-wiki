@@ -34,6 +34,7 @@ His written stage works include *Icons: a pop fantasy* and *The Appointment.*  H
 * *[[Live TV Tuesdays -  Buffy|Live TV Tuesdays: Buffy the Vampire Slayer]]* (director)
 * *[[Pocketful of Posies]]*
 * *[[Process]]*
+* *[[The Professor]]*
 * *[[Rock]]*
 * *[[Showdown]]*
 * *[[Spirited]]*
