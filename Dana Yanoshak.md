@@ -12,6 +12,9 @@
 * [[Apocalypse]]
 * [[Senshi Sokkyo]]
 ## Shows
+* *[[Love Fest]]*
+* *[[Seance]]*
+* *[[The Derby]]*
 * *[[Live Nude Improv]]*
 * *[[Dusk - Improvised Tween Erotica]]*
 
