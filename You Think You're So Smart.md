@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name	=	You Think You're So Smart
+|Picture = You Think You're So Smart Poster.jpg
 |Director =	[[Justin Davis]]	
 |Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[John Ratliff]] | [[Justin Davis]] | [[Mia Iseman]] | [[Peter Rogers]] | [[Valerie Ward]] }}
 |Theater = [[The Institution Theater]]
