@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Nice Astronaut
 |Picture=	Niceastro-2013-04-10.jpg
-|Cast	=	{{Unbulleted list|[[Calan lambert]]|[[Chaz Formichella]]|[[Drew Wesely]]|[[Jessica Marpe]]|[[Nicole McCracken]]|[[Tim Honker]]}}
+|Cast	=	{{Unbulleted list|[[Calan lambert]]|[[Chaz Formichella]]|[[Drew Wesely]]|[[Jessica Marpe]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Nicole McCracken]]|[[Tim Honker]]}}
 
 |Years	=		2008-Present
 }}
