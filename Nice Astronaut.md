@@ -6,14 +6,16 @@
 |Years	=		2008-Present
 }}
 
-**Nice Astronaut** is a Chicago-style longform improv troupe in Austin, TX that specializes in creating formats. Their monthly Improvioke show is on the second Saturdays at 11pm at [[ColdTowne Theater]].  They also teach regional workshops on forms they have created.
+**Nice Astronaut** is a comedy troupe in Austin, TX that creates and performs Chicago-style longform improv forms, writes and performs sketch comedy, and teaches regional improv workshops. Their monthly Improvioke show is on the second Saturdays at 11pm at [[ColdTowne Theater]].
 
-## Formation
+## History
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] and was formed from several students in a level 1 class together at ColdTowne Theater.  They debuted under the temporary name "H.J. Compromise" in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013).
 
 ![[Niceasstronautchamp1.jpg|Nice Astronaut as cagematch champions December 2008]]
 
 As H.J. Compromise, they went on to win the December 2008 [[ColdTowne Theater]] [[Cagematch]] championships after defeating "Honky Knife Fight" ([[Josh Krilov]] and [[Stephanie Russo]]) and "Four Square On The Moon" (one of the many permutations of the [[ColdTowne Student Troupe]] [[Northshore Local]]).
+
+In 2011, Nicole and Tim formed a separate troupe named Townsville to write and perform scripted comedy.  In 2013, Townsville was folded back into Nice Astronaut.
 
 ### Controversial Formation
 The original 6 members of Nice Astronaut were classmates in a level 1 ColdTowne Theater class together, but did not include all of the 9 students in the class.  Because of this exclusion, the [[ColdTowne Faculty]] dispatched a faculty member to regretfully inform Nice Astronaut that they would not be permitted to use any ColdTowne Faculty as a coach, could not freely rehearse at ColdTowne Theater, and would only be allowed to perform in Cagematches at ColdTowne Theater.  The Faculty member empathized and related the start of Nice Astonaut to the start of the self-formed troupe ColdTowne back at La Nuit in New Orleans years before.  The ColdTowne Faculty member recommended the newly arrived Austin transplant [[Tom Booker]] as their initial coach.  Over the next six to nine months, the troupe played 2 *[[Cagematch]]* shows at ColdTowne under a different name, but no other shows there.  Then, after the ColdTowne Faculty watched a troupe rehearsal, ColdTowne invited the troupe to play in *[[The Proctor]]*, one of their few performance slots available to outside troupes.
