@@ -6,7 +6,7 @@
 |Years	=		2008-Present
 }}
 
-**Nice Astronaut** is a Chicago-style longform improv troupe in Austin, TX that specializes in creating formats. Their monthly Improvioke show is on the second Saturdays at 11pm at [[ColdTowne Theater]].
+**Nice Astronaut** is a Chicago-style longform improv troupe in Austin, TX that specializes in creating formats. Their monthly Improvioke show is on the second Saturdays at 11pm at [[ColdTowne Theater]].  They also teach regional workshops on forms they have created.
 
 ## Formation
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] and was formed from several students in a level 1 class together at ColdTowne Theater.  They debuted under the temporary name "H.J. Compromise" in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013).
