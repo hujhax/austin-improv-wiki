@@ -18,11 +18,11 @@ The scenario is inspired by the works of Orwell, Krylov, Buchner, and Linna.
 In it, twelve soldiers living under a totalitarian regime debate which of their comrades will be executed for the crime of stealing bread.  The scenario raises intense questions, such as whether soldiers are willing to stand together to protect the innocent, or if they will break off from the group and focus on their own safety.  These game mechanics share a lot in common with the [[Wikipedia - Prisoner's dilemma|Prisoner's Dilemma]].
 
 ## History
-This show has been performed twice.  The premiere was on 9/28/12, and the second show was on 4/12/13.  To keep the experience fresh, the second performance used an almost entirely different cast from the first.
+This show has been performed three times.  The premiere was on 9/28/12, and the second show was on 4/12/13.  To keep the experience fresh, the second performance used an almost entirely different cast from the first.
 
 The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The Hideout Theatre]].
 
-There will be a third performance at [[The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[The Hideout Theatre]].
+The third performance took place as part of [[The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[The Hideout Theatre]].
 
 ## Casts
 ### Show #1
