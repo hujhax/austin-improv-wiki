@@ -45,29 +45,29 @@ Over the years, the following people have been or are currently still members of
 * [[Chaz Formichella]] (2012 - present)
 * [[Joseph Dailey]] (2013 - present)
 
-## Show Formats
-Nice Astronaut has specialized in creating and preforming custom formats, but has also performed montages, living rooms, Armandos, and Deconstructions for extended periods of time.
+## Custom Created Lonform Forms
+Nice Astronaut has specialized in creating and preforming custom forms, but has also performed montages, living rooms, Armandos, and Deconstructions for extended periods of time as well as short form.
 
 ### Small Universe
-The Small Universe format is the combination of a Close Quarters and a Harold. The show begins with scene painting one or more nearby locations in which the show will take place.  A set of scenes are performed in these, or closely inspired locations, and eventually they all intertwine.  Nice Astronaut started performing this format in the summer of 2012.
+The Small Universe format is the combination of a loose Close Quarters and a loose Harold. The format consists of describing an object and collectively storytelling about that object from a plural first person point of view.  Long rabbit holes are traveled down to generate 2-3 rules of the universe which eventually cause the characters, locations, relationships and rules to intertwine in the end of the show.  Nice Astronaut started performing this format in the summer of 2012.
 
-### Improvioke
-Similar to an Armando, the [http://www.coldtownetheater.com/events/nice-astronaut-improvioke Improvioke] replaces the monologues and monologist with an improvised song based off an audience member to a well known song's karaoke backing track.  Nice Astronaut created this form in early 2010 and often performs it on their second Saturday shows.
+### Improvaoke
+The [http://www.coldtownetheater.com/events/nice-astronaut-improvioke Improvioke] is similar to an Armando, but replaces the monologues with the interview of an audience member about their life and then an improvised song based about that person.  The improvised lyrics are sung to an existing  and well known karaoke backing track, such as Sweet Caroline.  Nice Astronaut created this form in early 2010 and performs it on their second Saturday shows.
 
 ### 28 Minutes Later
-28 Minutes Later (named after the approximate length of the show) is a mono-scene show that follows the third act of a zombie survival movie.  Nice Astronaut takes a suggestion of a non-geographic location where "humanity may make its last stand" against the zombies, then each improviser enters a dark stage with a flashlight and delivers a character monologue until the last character locates the lights in the location and the show starts.
+28 Minutes Later (named after the approximate length of the show) is a mono-scene form that follows the third act of a zombie survival movie.  Nice Astronaut takes a suggestion of a non-geographic location where "humanity may make its last stand" against the zombies. Each improviser enters a dark stage with a flashlight and delivers a character monologue until the last character locates the lights in the location and the show starts.
 
 ### It's A Tolerable Existence
-Performed as a [http://www.coldtownetheater.com/blog/nice-astronaut-presents-its-a-tolerable-existence-4 run at ColdTowne Theater in December 2011], this narrative format improvises an alternate version of "It's A Wonderful Life" based off the real life and childhood dreams of an audience member.  The show was presented as if it was a hosted Christmas movie from the 1940's showing similar to Masterpiece Theater.  This run of shows would also end with some a Christmas themed Improvioke set.
+Performed as a [http://www.coldtownetheater.com/blog/nice-astronaut-presents-its-a-tolerable-existence-4 run at ColdTowne Theater in December 2011], this narrative format improvises an alternate version of "It's A Wonderful Life" based off the real life and childhood dreams of an audience member from an interview.  The show was presented as if it was a hosted Christmas movie from the 1940's showing similar to Masterpiece Theater.  This run of shows would also end with some a Christmas themed Improvaoke set.
 
 ### White Elephant
 White Elephant was a format performed as a [http://do512.com/event/weekly/thu/thursday-night-social-club-nice-astronaut-and-precious-dads-hosted-by-mac-blake December 2012 run at ColdTowne Theater].  Audience members were instructed to write down previous good and bad gifts they had given and received in the past onto pieces of paper.  Nice Astronaut, dressed in festive attire, then randomly drew these piece of paper and used them as suggestions to inspire real life monologues which inspired a run of scenes.
 
 ### Save These Dates
-A semi-narrative improv format that follows the potential dates and long term lives and what-if's of a game show contestant and their 3 suitors.  Nice Astronaut performed this format in [http://www.coldtownetheater.com/events/nice-astronaut-presents-save-these-dates February and March 2012].
+A semi-narrative improv format that follows the potential dates and long term lives and "what-if's" of a game show contestant and their 3 suitors.  Nice Astronaut performed this format in [http://www.coldtownetheater.com/events/nice-astronaut-presents-save-these-dates February and March 2012].
 
 ### After Midnight
-After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The show titles included:
+After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The show titles and themes included:
 
 * Infomercials
 * You are NOT the father
