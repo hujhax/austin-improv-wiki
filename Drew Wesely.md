@@ -31,4 +31,9 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * [[The Draft]]
 * [[ColdTowne Allstars]]
 
+## External Links
+* [https://www.facebook.com/NiceAstronaut Nice Astronaut Facebook Page]
+* [https://www.facebook.com/pages/Whats-the-Story-Steve/339233816110601 What's the Story, Steve? Facebook Page]
+* [http://www.coldtownetheater.com/austincomedy/performers?uid=63 ColdTowne Performers Page]
+
 [[Category/Performers|Wesely]]
