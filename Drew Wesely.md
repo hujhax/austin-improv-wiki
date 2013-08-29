@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Drew Wesely
+|Picture =	Drew Wesely Pic.jpg
 |Theater=	[[ColdTowne Theater]]
 |Years	=	2007-Present
 }}
