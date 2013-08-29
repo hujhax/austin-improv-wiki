@@ -16,7 +16,7 @@ The troupe was originally named "Arkay" and was formed by [[Joshua Philips]] as 
 
 They had a one-time run of Thursday shows in May 2013 at [[ColdTowne Theater]] with [[Cheap Date]]
 
-[[Joshua Philips]] and [[Ashley Franks]] left to move to Chicago to pursue improv, and Arkay reorganized and renamed itself in order to continue performing in shows. The new team headlined *[[The Threefer]]* at [[The Hideout Theatre]] in July 2013 and was accepted into [[The 2013 Out of Bounds Comedy Festival]], and continue to perform shows in the Austin improv scene.
+[[Joshua Philips]] and [[Ashley Franks]] left to move to Chicago to pursue improv, and Arkay reorganized and renamed itself in order to continue performing in shows. The new team headlined *[[The Threefer]]* at [[The Hideout Theatre]] in July 2013 and was accepted into [[The 2013 Out of Bounds Comedy Festival]], and continues to perform shows in the Austin improv scene.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14803 The casting call for the workshop] on [[The Austin Improv Forums]]
