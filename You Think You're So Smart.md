@@ -21,21 +21,21 @@ The show will run Fridays at 8pm.
 ** Cast: [[Valerie Ward]], [[Mia Iseman]], [[John Ratliff]]
 ** Guests: [[Mary Jo Pehl]], [[Kareem Badr]]
 ** Guest Ranter: [[Andrew Buck]]
+
 * 9/13: "The Devil's Tongue" (the English language)
 ** Cast: [[Aaron Saenz]], [[Valerie Ward]], [[John Ratliff]], [[Peter Rogers]]
 ** Guest: [[Robert Faires]]
 ** Guest Ranter: [[Maggie Maye]]
-** Sub-topic presenter: [[Valerie Ward]]
+
 * 9/20: "Political Relations" (odd political connections and scenarios)
 ** Cast: [[Aaron Saenz]], [[Mia Iseman]], [[John Ratliff]]
 ** Guests: [[Suzy Spencer]], [[Tom Booker]]
 ** Guest Ranter: [[Asaf Ronen]]
-** Sub-topic presenter: [[John Ratliff]]
+
 * 9/27: "Not-So-Great Expectations" (one-hit wonders, failed ideas, and surprising/accidental successes)
 ** Cast: [[Aaron Saenz]], [[Mia Iseman]], [[John Ratliff]], [[Peter Rogers]]
 ** Guests: [[Robert Faires]]
 ** Guest Ranter: [[Brett Tribe]]
-** Sub-topic presenter: [[Aaron Saenz]]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]
