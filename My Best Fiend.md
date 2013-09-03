@@ -17,9 +17,10 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 
 ## More Information
 *[http://www.facebook.com/klausandwerner My Best Fiend facebook page]
-*[http://www.youtube.com/watch?v=vUtpOyVSfRM Video "Wunderfisch"]
-*[http://www.youtube.com/watch?v=uPkwf693jaE Video "Der Stille Winterwald"]
-*[http://vimeo.com/42396160 Video "Der Wolf in den Bergen"]
+*"Die gewesene Sardine" (OOB 2013)
+*"Wunderfisch" [http://www.youtube.com/watch?v=vUtpOyVSfRM Video]
+*"Der Stille Winterwald" [http://www.youtube.com/watch?v=uPkwf693jaE Video]
+*"Der Wolf in den Bergen" [http://vimeo.com/42396160 Video]
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
