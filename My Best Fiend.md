@@ -13,7 +13,7 @@
 Andreas is from Düsseldorf, Germany. He speaks German very well. Christopher is from Iowa. He took German twenty years ago in college... and tries hard to remember how to speak it while performing on stage. Andreas interprets as best as he can.
 
 ## History
-My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012.
+My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and performed at the 2013 Out of Bounds Festival.
 
 ## More Information
 *[http://www.facebook.com/klausandwerner My Best Fiend facebook page]
