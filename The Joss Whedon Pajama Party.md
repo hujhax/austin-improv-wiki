@@ -105,6 +105,7 @@ All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was 
 ### Videos of Full Shows
 * [http://vimeo.com/44162958 Video of the 6/15/12 performance.]
 * [http://vimeo.com/44638683 Video of the 6/22/12 performance.]
+* [http://vimeo.com/45023515 Video of the 6/29/12 performance.]
 * [http://vimeo.com/65174297 Video of the 1/25/13 performance.]
 
 ## More Information
