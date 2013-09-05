@@ -398,7 +398,7 @@ This **list of *[[Free Fringe]]s*** includes all the formats for every performan
 |style="background-color:#dddddd;white-space:nowrap" rowspan="4"| Feb 28, 2013 
 |Teach a Man to Fischer || ||style=text-align:left;|An opening set to cleanse the pallet. Nothing too shocking about this show, just friends who haven't gotten to improvise together in a while. starring: [[Terrill Fischer]], [[Roy Janik]], [[Peter Rogers]] 
 |-
-| Waiting for Batman || [[Eric Heiberg]] ||style=text-align:left;|It's 1964. Commissioner Gordon ([[Curtis Luciani]]) and Chief O'Hara ([[Eric Heiberg]]) have come against yet another dubious crime from a criminal mastermind. Once again, they are stumped and have called Batman on the Bat-phone. Commissioner Gordon and Chief O'Hara discuss life, crime, and each other's wives while Batman is making his 22 minute journey to the Commissioner's office. 
+| [[Waiting for Batman]] || [[Eric Heiberg]] ||style=text-align:left;|It's 1964. Commissioner Gordon ([[Curtis Luciani]]) and Chief O'Hara ([[Eric Heiberg]]) have come against yet another dubious crime from a criminal mastermind. Once again, they are stumped and have called Batman on the Bat-phone. Commissioner Gordon and Chief O'Hara discuss life, crime, and each other's wives while Batman is making his 22 minute journey to the Commissioner's office. 
 |-
 | Off Book || [[Gloria Bankler]] ||style=text-align:left;|One improviser has memorized lines from a scene that the other improviser has no clue of. The on-book improviser never deviates from the script. The improviser, well... improvises! 
 |-
