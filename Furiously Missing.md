@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Furiously Missing
 |Picture =     Furiously Missing.jpg
-|Cast	=	{{Unbulleted list | [[Amy O'Connor]] | [[Cassidy Santaguida]] | [[Chris Sutphen]] | [[Gloria Bankler]] | [[Zack Phillips]] }}
+|Cast	=	{{Unbulleted list | [[Amy O'Connor]] | [[Cassidy Santaguida]] | [[Chris Sutphen]] | [[Gloria Bankler]] |  }}
 |Years	=		2011-Present
 }}
 
