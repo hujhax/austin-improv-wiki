@@ -13,6 +13,8 @@
 ## Summary
 The troupe hosts a weekly improv show, *[[The Triple Scoop]]*, on Saturday nights at 10pm.
 
+They perform a modified Harold, with a much looser structure.
+
 ## More Information
 * [http://www.facebook.com/iScreamSandwich The troupe's facebook page.]
 
