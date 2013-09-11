@@ -17,13 +17,14 @@ The lineup of Who Dack? has evolved in accordance with the troupe philosophy of 
 * [[Brad Hawkins]]
 * [[Delaney Jo Hernandez]]
 * [[Nathan Sowell]]
-* [[Milo Smith]]
 * [[Joseph Dailey]]
 * [[Eric Rutherford]]
 * [[John Brewster]]
 
 
+
 Those who have performed with the troupe include:
+* [[Milo Smith]]
 * [[Scott Raney]]
 * [[Nicole McCracken]]
 * [[Katie Sicking]]
