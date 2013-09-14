@@ -42,6 +42,7 @@ These are troupes that still need pages created for them.
 * [[Dervish]]
 * [[Elevator Action]]
 * [[Ghetto Sketch Warlock]]
+* [[Glamazon]]
 * [[The Glamping Trip]]
 * [[Journey to the Big Water]]
 * [[Kosher Bacon]]
