@@ -15,6 +15,8 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * [[Topping coached troupe]] (Inactive)
 * [[Bolik Not ZIB]] (Inactive)
 * [[Quayle]] (Inactive)
+* [[Dukes of Bedside Manor]] (Inactive)
+* [[Senshi Sokkyo]] (Inactive)
 * [[RhinoDino]] (Active)
 
 ## Shows
