@@ -11,10 +11,6 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |5/30/04||3/31/05||(Various Johnstone formats)||[[Sean Hill]]
 |-
-|5/15/04||5/29/04||*[[Start Trekkin']]*||[[Sean Hill]], [[Troy Miller]]
-|-
-|5/30/04||3/31/05||(Various Johnstone formats)||[[Sean Hill]]
-|-
 |4/1/05||5/31/05||*[[Start Trekkin']]*||[[Sean Hill]], [[Troy Miller]]
 |-
 |6/1/05||8/30/05||(Various Johnstone formats)||[[Sean Hill]]
