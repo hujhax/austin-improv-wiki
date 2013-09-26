@@ -22,13 +22,17 @@ It currently is cast and directed by [[Ryan Austin]].
 The show began under the direction of [[Jon Bolden]] before it was passed down to [[Jordan T. Maxwell]], [[Ruby Willmann]], and then [[Ryan Austin]].
 
 ## Media
-* [http://vimeo.com/23484902 Video of 5/6/11 performance.]
+### Photos
 * [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 Photoset of the 8/12 performance.]
 * [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 Photoset of the 9/12 performance.]
 * [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 Photoset of the 12/12 performance.]
-* [http://vimeo.com/55383414 Video of 12/7/12 performance.]
 * [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 Photoset of the 1/13 performance.]
 * [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 Photoset of the 3/13 performance.]
+
+### Videos
+* [http://vimeo.com/23484902 Video of 5/6/11 performance.]
+* [http://vimeo.com/31770847 Video of 11/4/11 performance.]
+* [http://vimeo.com/55383414 Video of 12/7/12 performance.]
 * [http://vimeo.com/61489752 Video of 3/1/13 performance.]
 
 ## Other Information
