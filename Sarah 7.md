@@ -25,6 +25,7 @@ Sarah 7 headlined *[[The Threefer]]* in October 2012.
 ## Media
 * [http://www.facebook.com/media/set/?set=a.394469047415.170839.332822362415&type=1 A photoset] of their appearance at the 2010 [[Ladies Are Funny Festival]].
 * [http://www.facebook.com/media/set/?set=a.435022037139.215390.545242139&type=1 A photoset] by [[Edison Carter]] of their appearance at [[The 2010 Out of Bounds Comedy Festival]] on 9/4/10.
+* [http://vimeo.com/35555795 Video of 1/22/12 show.]
 
 ## More Information
 * [http://www.facebook.com/pages/Sarah-7/332822362415 The troupe's facebook page.]
