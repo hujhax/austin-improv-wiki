@@ -82,6 +82,10 @@ Nice Astronaut has performed at the following festivals
 * Del Close Marathon - [http://www.delclosemarathon.com/dcm11/shows/view/510 2009], [http://www.delclosemarathon.com/dcm14/shows/view/683 2012], [http://www.delclosemarathon.com/dcm15/shows/view/756/full 2013]
 * [[Out of Bounds]] - [http://outofboundsimprov.com/2009/shows/wed8svtapples.html 2009], [http://www.outofboundscomedy.com/2010/2010/coming-soon/Index.html 2010], [http://www.outofboundscomedy.com/2011/duo-shmuoatx530pmachatina-achatinaatxoj-in-a-sippy-cupnyc630pmthe-glamping-tripatx-margots-piela-730pmthat-summer-in-junechi-tbatba830pmbitter-sweet-chokechi-jerkslachi930pml/index.html 2011], [http://www.outofboundscomedy.com/2012/events/fri-aug-31st-830pm-coldtowne/index.html 2012], [http://www.outofboundscomedy.com/events/thu-10pm-hideout-up/ 2013]
 
+## Media
+### Videos
+* [http://vimeo.com/36009826 December 2011 "It's a Tolerable Existence" show.]
+
 ## Miscellaneous
 Nice Astronaut also hosted the short lived [http://blog.coldtownetheater.com/wp-content/uploads/2009/06/nomad-poster-june09b.jpg "Nomad Comedy Nights"] on Wednesdays at Nomad Bar during the summer of 2009.
 
@@ -96,7 +100,6 @@ Nice Astronaut also hosted the short lived [http://blog.coldtownetheater.com/wp-
 * [https://www.youtube.com/user/NiceAstronaut Nice Astronaut on YouTube]
 * [https://vimeo.com/niceastronaut Nice Astronaut on Vimeo]
 * [https://twitter.com/NiceAstronaut Nice Astronaut on Twitter]
-
 
 
 [[Category/Active|Category:Active]]
