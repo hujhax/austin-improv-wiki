@@ -32,6 +32,7 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 ### Videos
 * [http://vimeo.com/23484902 Video of 5/6/11 performance.]
 * [http://vimeo.com/31770847 Video of 11/4/11 performance.]
+* [http://vimeo.com/33377293 Video of 12/2/11 performance.]
 * [http://vimeo.com/55383414 Video of 12/7/12 performance.]
 * [http://vimeo.com/61489752 Video of 3/1/13 performance.]
 
