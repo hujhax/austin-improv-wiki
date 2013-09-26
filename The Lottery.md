@@ -16,7 +16,9 @@
 *The Lottery* began its run at [[The Hideout Theatre]] as part of *[[The Wheel]]* in October of 2010.  It was intended as a way to give students opportunities for stage time (a problem that would finally be solved with *[[Maestro Raw]]*).  It went away when *[[The Wheel]]* was revamped in early 2012.
 
 ## Media
-* [http://vimeo.com/22243800 Video of the 4/8/11 lottery.]
+### Videos
+* [http://vimeo.com/22243800 The 4/8/11 lottery.]
+* [http://vimeo.com/30644711 The 4/8/11 lottery.]
 
 [[Category/Shows|Lottery]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
