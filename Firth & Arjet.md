@@ -52,8 +52,10 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 
 ### Videos
 * [http://youtu.be/wFvyMaIUtms Video of their 12/26/08 show.]
+* [http://vimeo.com/31389357 Video of their 9/30/11 show.]
 * [http://vimeo.com/30646467 Video of their 10/14/11 show.]
 * [http://vimeo.com/30997701 Video of their 10/21/11 show.]
+* [http://vimeo.com/32053229 Video of their 11/11/11 show.]
 * [http://vimeo.com/39465848 Video of their 3/29/12 "Tomboys" show.]
 
 ## More Information
