@@ -16,6 +16,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ## Media
 * [http://vimeo.com/groups/83993/videos/21004511 Video of their 3/13/11 show.]
+* [http://vimeo.com/30877867 Video of their 8/18/11 show.]
 
 ## More Information
 * [https://www.facebook.com/BattlestarGillacktucka The troupe's facebook page.]
