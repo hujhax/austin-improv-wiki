@@ -38,7 +38,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [[The Out of Bounds Comedy Festival]]
 
 ## Media
-* [http://youtu.be/wFvyMaIUtms Video of their 12/26/08 show.]
+### Photos
 * [http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 2/5/10 *[[Threefer]]* show.
 * [http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 11/5/10 show.
 * [http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 1/23/11 show.
@@ -46,10 +46,15 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1 A photoset] by [[Steve Rogers]] that includes their 9/2/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[The Free Fringe]]*.
 * [http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1 A photoset] by [[Sam Schak]] that includes their 2/2/12 *[[Free Fringe]]* show.
-* [http://vimeo.com/39465848 Video of their 3/29/12 "Tomboys" show.]
 * Their final *[[Free Fringe]]* performance on 8/9/12.
 ** [http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1 A photoset] by [[Michael Yew]].
 ** [http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1 A photoset] by [[Steve Rogers]].
+
+### Videos
+* [http://youtu.be/wFvyMaIUtms Video of their 12/26/08 show.]
+* [http://vimeo.com/30646467 Video of their 10/14/11 show.]
+* [http://vimeo.com/30997701 Video of their 10/21/11 show.]
+* [http://vimeo.com/39465848 Video of their 3/29/12 "Tomboys" show.]
 
 ## More Information
 * [http://firthandarjet.austinimprov.com/ The troupe's web site] on [[The Austin Improv Website]].
