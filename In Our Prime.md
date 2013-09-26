@@ -33,6 +33,10 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 *10/25/2012 - [[Threefer]] Run ("Run-Away Dad")
 *11/10/2012 - [[WaffleFest]] ("The Affair")
 
+## Media
+### Videos
+* [http://vimeo.com/38076871 The troupe's debut show.]
+
 ## More Information
 *[https://www.facebook.com/InOurPrime In Our Prime facebook page]
 *[http://www.inourprimeimprov.com/ In Our Prime website]
