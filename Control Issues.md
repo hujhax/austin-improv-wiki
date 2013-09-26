@@ -30,7 +30,7 @@ The show began its run with the name *Choose Your Own Adventure*, but on Novembe
 * 11/11/11: [http://vimeo.com/32054956 Video.]
 * 12/9/11: [http://vimeo.com/33461487 Video.]
 * 1/13/12: Videos of [http://vimeo.com/35070066 show #1] and [http://vimeo.com/35064068 show #2]
-* 2/10/12: [http://vimeo.com/36857558 Video.]
+* 2/10/12: Videos of [http://vimeo.com/36857558 show #1] and [http://vimeo.com/36871158 show #2].
 * 5/11/12: [http://vimeo.com/42285493 Video.]
 * 6/2/12: Videos of [http://vimeo.com/43374371 show #1] and [http://vimeo.com/43417838 show #2] (from [[The 42-Hour Improv Marathon]])
 * 10/12/12: [http://vimeo.com/51661325 Video.]
