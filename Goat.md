@@ -28,9 +28,12 @@ Goat takes its name from the Greek word *tragos*, which means "goat" and is the 
 
 ## Festivals
 Goat has appeared in the following festivals:
-
 * [[Out of Bounds Comedy Festival]] (2012)
 * [[Improvised Play Festival]] (2013)
+
+## Media
+### Videos
+* [http://vimeo.com/39035730 Their 3/22/12 show] at *[[The Threefer]]*.
 
 ## More Information
 * [http://goatimprov.com Goat's Website]
