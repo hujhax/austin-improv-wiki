@@ -15,6 +15,11 @@ Franz & Dave was conceived in the [[The Hideout Theatre|Hideout's]] green room d
 ## Format
 Thus far, Franz & Dave have performed one format, wherein the characters of Kafka and Lynch collaborate on a "movie" based on the audience's suggestion (typically a dull or menial occupation, ala Kafka). The characters begin by scene painting, then break into and out of scenes from the "movie" as desired.
 
+## Media
+### Videos
+* [http://vimeo.com/32631302 9/26/11].
+* [http://vimeo.com/32605135 10/16/11.]
+
 ## More Information
 * [http://facebook.com/franzanddave Franz & Dave's Facebook page.]
 * [https://vimeo.com/channels/307160 Franz & Dave's Vimeo channel.]
