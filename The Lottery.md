@@ -20,6 +20,7 @@
 * [http://vimeo.com/22243800 The 4/8/11 lottery.]
 * [http://vimeo.com/30644711 The 10/14/11 lottery.]
 * [http://vimeo.com/30997916 The 10/21/11 lottery.]
+* [http://vimeo.com/33474887 The 12/9/11 lottery.]
 
 [[Category/Shows|Lottery]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
