@@ -33,6 +33,7 @@ The following upcoming festival appearances are scheduled:
 
 ## Media
 * [http://vimeo.com/21367828 Video of a 2011 performance.]
+* [http://vimeo.com/39645172 Video of a 2012 performance, giving the history of the Q-Tip.]
 
 ## More Information
 * [http://www.facebook.com/pages/Zarzamora/126236170779574 The troupe's facebook page.]
