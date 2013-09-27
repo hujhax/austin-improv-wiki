@@ -15,7 +15,9 @@ Since February 10, 2010 they have hosted the [[ColdTowne Theater]] 8:30PM Sunday
 Oh, Science! has performed at [[The Out of Bounds Comedy Festival]] and at The Del Close Marathon.
 
 ## Media
-[http://www.youtube.com/watch?feature=player_embedded&v=uPKRZKagWIE "Oh, Science! Reveals Top Secret Improv Warm-up"]
+### Videos
+* [http://www.youtube.com/watch?feature=player_embedded&v=uPKRZKagWIE "Oh, Science! Reveals Top Secret Improv Warm-up"]
+* [http://vimeo.com/40475824 Their 4/15/12 performance.]
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
