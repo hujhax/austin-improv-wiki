@@ -56,6 +56,10 @@ For the remaining shows, they just let the title and table-read dictate the genr
 *Process* was part of [[The 2012 Out of Bounds Comedy Festival]].  It used a portion of the 2012 mainstage cast, and included [[Bill Stern]] as a guest director.
 
 ## Media
+### Videos
+* [http://vimeo.com/40488504 Their performance] in [[The 2012 Improvised Play Festival]].
+
+### Photos
 * [http://www.facebook.com/media/set/?set=a.310853215644868.76512.221927764537414&type=3 Photoset of the 3/3/12 show] ("Hole to Nowhere") by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.329076013822588.80828.221927764537414&type=3 Photoset of the 3/31/12 show] ("Middle School") by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3 Photoset of the 4/15/12 show] ("My Heart Doth Bleed Gold") by [[Roy Moore]].
