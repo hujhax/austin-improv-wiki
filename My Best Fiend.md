@@ -15,12 +15,16 @@ Andreas is from Düsseldorf, Germany. He speaks German very well. Christopher is
 ## History
 My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and performed at the 2013 Out of Bounds Festival.
 
-## More Information
-*[http://www.facebook.com/klausandwerner My Best Fiend facebook page]
-*"Die gewesene Sardine" (OOB 2013)
+## Media
+### Videos
+* [http://vimeo.com/42396160 5/17/12 performance] in *[[The Free Fringe]]*.
 *"Wunderfisch" [http://www.youtube.com/watch?v=vUtpOyVSfRM Video]
 *"Der Stille Winterwald" [http://www.youtube.com/watch?v=uPkwf693jaE Video]
 *"Der Wolf in den Bergen" [http://vimeo.com/42396160 Video]
+
+## More Information
+*[http://www.facebook.com/klausandwerner My Best Fiend facebook page]
+*"Die gewesene Sardine" (OOB 2013)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
