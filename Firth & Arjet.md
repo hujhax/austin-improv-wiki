@@ -60,6 +60,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [http://vimeo.com/39019302 Video of their 3/8/12 "Tomboys" show.]
 * [http://vimeo.com/39305541 Video of their 3/22/12 "Tomboys" show.]
 * [http://vimeo.com/39465848 Video of their 3/29/12 "Tomboys" show.]
+* [http://vimeo.com/40801623 Video of their 4/19/12 "Tomboys" show.]
 
 ## More Information
 * [http://firthandarjet.austinimprov.com/ The troupe's web site] on [[The Austin Improv Website]].
