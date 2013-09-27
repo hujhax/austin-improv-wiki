@@ -10,7 +10,7 @@
 ![[Poster Beach Cops.jpg|Official poster promoting Local Genius Society in the 2012 Honolulu Improvaganza festival performing "Beach Cops".]]
 
 
-**Local Genius Society** is a group of raconteurs, savants, and bon vivants.
+**Local Genius Society** is an improv troupe of raconteurs, savants, and bon vivants.
 
 Together, their knowledge includes the rules of curling, the intricacies of motion graphics, the proper way to handle a dangling participle, and how to bake a Baked Alaska.
 
@@ -40,6 +40,7 @@ Local Genius Society formed in late 2010 by a group of improv students from [[Th
 * [[Kayla Lane Freeman]]
 
 ## Media
+### Videos
 * [http://youtu.be/0hOEB6ctECQ Video of their performance] from 5/28/11.
 * [http://vimeo.com/44633920 Video of their performance] from the 2011 [[WaffleFest]].
 * [http://vimeo.com/40328506 Video of their performance] at [[The 2012 Improvised Play Festival]].
