@@ -61,5 +61,5 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 * 11/22/11 performance:
 ** [http://vimeo.com/58122681 Video] by [[Leann Fryer]].
 ** [http://www.facebook.com/media/set/?set=a.246276032102587.63825.221927764537414&type=1 Photoset] by [[Steve Rogers]].
-* 11/29/11 performance:
+* 11/28/11 performance:
 ** [http://vimeo.com/40986174 Video] by [[Leann Fryer]].
