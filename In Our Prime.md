@@ -36,6 +36,7 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 ## Media
 ### Videos
 * [http://vimeo.com/38076871 The troupe's debut show.]
+* [http://vimeo.com/41817882 The troupe's third show.]
 * [http://vimeo.com/39884307 Their 4/5/12 show], their second with [[Jessica Arjet]].
 
 ## More Information
