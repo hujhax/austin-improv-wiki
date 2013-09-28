@@ -28,21 +28,24 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ## Cast
 * [[Asaf Ronen]] (Touring Performer)
-* [[Bridget Brewer]] (2013-Present)
+* [[Bridget Brewer]] (Nov 2013-Present)
 * [[Caeriel Crestin]] 
 * [[Jessica Arjet]]    (2007-Present)
 * [[Kaci Beeler]] (Touring Performer)
-* [[Kristin Faner]]    (2013-Present)
+* [[Kristin Faner]]    (Nov 2013-Present)
 * [[Kristin Henn]] (Touring Performer)
 * [[Luke Wallens]]
 * [[Madeline Jo Chauvin]]    (2013-Present)
-* [[Marc Majcher]]
+* [[Marc Majcher]] 
 * [[Matt Pollock]]
 * [[Mike Kinald]]
 * [[Mike Nystul]]
 * [[Mitchell Deane]]
-* [[Ruby Willmann]]
-* [[Thedward Blevins]] (2012-Present)
+* [[Ruby Willmann]] (Touring Performer)
+* [[Thedward Blevins]] (Sep 2012-Present)
+* [[Andrew Robinson]]  (Sep 2013-Present)
+* [[Megan Venable]]  (Sep 2013-Present)
+* [[Sarah Swofford]]  (Sep 2013-Present)
 
 ## History
 ### Former Cast Members
