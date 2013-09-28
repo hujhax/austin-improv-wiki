@@ -58,6 +58,7 @@
 ## Media
 ### Videos
 * [http://vimeo.com/43331034 Hour 4: Girls Girls Girls]
+* Hour 27: *[[Pick Your Own Path]]*: [http://vimeo.com/43374371 show #1], [http://vimeo.com/43417838 show #2].
 * [http://vimeo.com/43361530 Hours 30 & 31: *Maestro*]
 
 ### Photos
