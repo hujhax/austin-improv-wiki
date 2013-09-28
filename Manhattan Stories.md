@@ -21,6 +21,7 @@ It originally ran in July/August of 2012 but was extended through September.
 ## Media
 ### Videos
 * [http://vimeo.com/47516274 6/28/12]
+* [http://vimeo.com/45806847 7/14/12]
 * [http://vimeo.com/47680093 8/4/12]
 
 ### Publicity
