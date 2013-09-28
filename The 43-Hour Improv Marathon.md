@@ -56,6 +56,10 @@
 * Sunday 11am: Free-form improv from the core cast.
 
 ## Media
+### Videos
+* [http://vimeo.com/43331034 Hour 4: Girls Girls Girls]
+
+### Photos
 * [http://www.facebook.com/media/set/?set=a.3952167173802.162192.1568827741&type=3 Photoset] from [[Anna Lattka]].
 * [http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/ Photoset] from [[The Hideout Theatre]].
 * [http://www.facebook.com/media/set/?set=a.373501069380082.89433.221927764537414&type=3 Photoset of hours 1-4] from [[Steve Rogers]].
