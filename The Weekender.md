@@ -17,6 +17,10 @@ The headliner acts are scheduled by [[Roy Janik]], who puts out a call for appli
 ## History
 *The Weekender* began in May 2010 under the name "The Sunday Showcase".  By July 2010, it had been renamed "The Weekender".
 
+## Media
+### Videos
+* [http://vimeo.com/channels/austinimprov/43860472 6/10/12 show.]
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheWeekender The show's site.]
 * [http://forum.austinimprov.com/viewtopic.php?t=10520 the first call for submissions for *The Weekender*], from [[Roy Janik]].
