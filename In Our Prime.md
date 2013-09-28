@@ -39,6 +39,7 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 * [http://vimeo.com/41817882 The troupe's third show.]
 * [http://vimeo.com/39884307 Their 4/5/12 show], their second with [[Jessica Arjet]].
 * [http://vimeo.com/45049371 Their 7/1/12 show.]
+* [http://vimeo.com/46721795 Their 2012 fundraiser for their trip to Hawaii's Improvaganza festival.]
 
 ## More Information
 *[https://www.facebook.com/InOurPrime In Our Prime facebook page]
