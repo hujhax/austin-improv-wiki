@@ -18,9 +18,12 @@
 *False Matters* was directed by [[Shannon McCormick]] and assistant-directed by [[Bryan 'Lubu' Roberts]]. [[Courtney Hopkin]] created the costumes and poster for the show. [[Marc Majcher]] created a custom Flash interaction to randomly select the suggestion for the show.
 
 ## Media
+### Videos
+* [http://vimeo.com/26127355 Video of their show] at [[The 2011 Improvised Play Festival]].
+* [http://vimeo.com/channels/austinimprov/44619659 "Violet Matters"], a mash-up with *[[The Violet Underbelly]]*
+
+### Publicity
 * [http://www.austinchronicle.com/blogs/arts/2011-05-18/false-matters/ Austin Chronicle preview] by [[Wayne Alan Brenner]]
 * [http://kut.org/2011/05/false-matters/ KUT.org Arts Eclectic radio piece on False Matters]
 * [http://www.youtube.com/watch?feature=player_embedded&v=R3ONjeVSjJM "What if…?" False Matters promotional video]
-* [http://vimeo.com/26127355 False Matters at the 2011 Improvised Play Festival]
-
 [[Category/Shows|False]]
