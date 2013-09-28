@@ -6,7 +6,7 @@
 |Director =	[[Roy Janik]]	
 |Run	=	1/5/12
 }}
-***The New Game Project*** is a shortform show that generates shortform formats based on audience suggestions.
+***The New Game Project*** (AKA ***The New Game People***) is a shortform show that generates shortform formats based on audience suggestions.
 
 
 ## Format
@@ -23,8 +23,11 @@ They then repeat this process with a new audience title.
 ## History
 The show began as a one-off for the premiere of *[[The Free Fringe]]* on 1/5/12
 
-It will be part of [[The 44-Hour Improv Marathon]]
+It was part of [[The 44-Hour Improv Marathon]]
 
+## Media
+### Videos
+* [http://vimeo.com/47767437 Their 8/16/12 performance] in *[[The Free Fringe]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Shows|Category:Shows]]
