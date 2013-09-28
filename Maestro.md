@@ -62,6 +62,7 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://vimeo.com/44665361 6/23/12 *Maestro*.]
 * [http://vimeo.com/45044706 6/30/12 *Maestro*.]
 * [http://vimeo.com/46978920 8/4/12 *Maestro*.]
+* [http://vimeo.com/47832497 8/18/12 *Maestro*.]
 
 ## Notes
 <references />
