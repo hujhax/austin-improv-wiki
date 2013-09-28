@@ -20,7 +20,7 @@
 ## Media
 ### Videos
 * [http://vimeo.com/26127355 Video of their show] at [[The 2011 Improvised Play Festival]].
-* [http://vimeo.com/channels/austinimprov/44619659 "Violet Matters"], a mash-up with *[[The Violet Underbelly]]*
+* [http://vimeo.com/channels/austinimprov/44619659 "Violet Matters"], a 6/23/12 mash-up with *[[The Violet Underbelly]]*
 
 ### Publicity
 * [http://www.austinchronicle.com/blogs/arts/2011-05-18/false-matters/ Austin Chronicle preview] by [[Wayne Alan Brenner]]
