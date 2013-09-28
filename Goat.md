@@ -34,6 +34,7 @@ Goat has appeared in the following festivals:
 ## Media
 ### Videos
 * [http://vimeo.com/39035730 Their 3/22/12 show] at *[[The Threefer]]*.
+* [http://vimeo.com/44984553 Their 6/28/12 show] at *[[The Threefer]]*.
 
 ## More Information
 * [http://goatimprov.com Goat's Website]
