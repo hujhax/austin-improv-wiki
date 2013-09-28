@@ -26,19 +26,19 @@ The third performance took place as part of [[The 2013 Out of Bounds Comedy Fest
 
 ## Casts
 ### Show #1
-* [[Bob Olmstead]]
+* [[Bob Olmstead]] (Wolf)
 * [[Britney Salyer]] (thug)
-* [[Cat Drago]]
-* [[Emily Breedlove]]
-* [[Halyn Lee Erickson]]
-* [[Jayme Ramsay]]
-* [[Jordan T. Maxwell]]
-* [[Justin Davis]]
-* [[Kevin Miller]]
-* [[Mike Kinald]]
-* [[Mitchell Deane]]
-* [[Thedward Blevins]]
-* [[Valerie Ward]]
+* [[Cat Drago]] (Cat)
+* [[Emily Breedlove]] (Dog)
+* [[Halyn Lee Erickson]] (Mouse)
+* [[Jayme Ramsay]] (Hawk)
+* [[Jordan T. Maxwell]] (Bison)
+* [[Justin Davis]] (Rat)
+* [[Kevin Miller]] (Raven)
+* [[Mike Kinald]] (Stork)
+* [[Mitchell Deane]] (Elk)
+* [[Thedward Blevins]] (Horse)
+* [[Valerie Ward]] (Peacock)
 
 ### Show #2
 * [[Ashley Jayne Carlisle]]
