@@ -19,8 +19,12 @@ It originally ran in July/August of 2012 but was extended through September.
 
 
 ## Media
-* [http://vimeo.com/channels/austinimprov/47516274 Manhattan Stories - July 28, 2012]
-* [http://vimeo.com/channels/austinimprov/47680093 Manhattan Stories - August 4, 2012]
+### Videos
+* [http://vimeo.com/47516274 6/28/12]
+* [http://vimeo.com/47680093 8/4/12]
+
+### Publicity
+* [http://vimeo.com/45020927 Show trailer.]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
