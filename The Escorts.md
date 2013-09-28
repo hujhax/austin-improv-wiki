@@ -19,6 +19,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [http://vimeo.com/40345112 Their performance] at [[The 2012 Improvised Play Festival]].
 * [http://vimeo.com/41428744 4/29/12 show.]
 * [http://vimeo.com/44588989 6/21/12 show.]
+* [http://vimeo.com/44942426 6/28/12 show.]
 
 ## More Information
 * [https://www.facebook.com/pages/The-Escorts-Improv-Theater-from-Austin/519211014791053 The troupe's facebook page.]
