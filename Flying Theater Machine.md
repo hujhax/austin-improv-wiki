@@ -31,34 +31,38 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * **Story Sports** (S) *Sep/Oct 2010*
 * **Wang Dang Doodle Hour** (S)
 * **Wild Wild Puppets** (L)
-* **Gryffinpuffleclawsin / Wizard School** (L) *May/Jun 2012*<br /> A long-form narrative which follows our protagonists through a chapter of life at wizard school, broken up by games as their classes.
+* **Gryffinpuffleclawsin / Wizard School** (L) *May/Jun 2013*<br /> A long-form narrative which follows our protagonists through a chapter of life at wizard school, broken up by games as their classes.
 * **Wonderland** (L) *Sep/Oct 2009*, *Sep/Oct 2011*, *Sep/Oct 2012*<br /> Wonderland is a magical, silly place, full of excitement and strange characters.  Our hero starts out in the real world with real world problems, but it is not long before they are swept away into Wonderland, where we will find amazing creatures and obstacles to overcome.
 * **You Drive** (S)
 * **Pterodactyl Cactus** *Nov/Dec 2010*
 
 ## Cast
-* [[Asaf Ronen]] (Touring Performer)
-* [[Bridget Brewer]] (Nov 2013-Present)
-* [[Caeriel Crestin]] 
-* [[Jessica Arjet]]    (2007-Present)
-* [[Kaci Beeler]] (Touring Performer)
-* [[Kristin Faner]]    (Nov 2013-Present)
-* [[Kristin Henn]] (Touring Performer)
+* [[Jessica Arjet]]       (2007-Present) 
+* [[Thedward Blevins]]    (Sep 2012-Present)
+* [[Bridget Brewer]]      (Nov 2012-Present)
+* [[Madeline Jo Chauvin]] (Jan 2013-Present)
+* [[Caeriel Crestin]]
+* [[Mitchell Deane]]
+* [[Andrew Robinson]]     (Sep 2013-Present)
+* [[David Ronn]]          (May 2013-Present)
+* [[Sarah Swofford]]      (Sep 2013-Present)
+* [[Megan Venable]]       (Sep 2013-Present)
 * [[Luke Wallens]]
-* [[Madeline Jo Chauvin]]    (2013-Present)
+
+### Touring
+* [[Jessica Arjet]]
+* [[Kaci Beeler]]
+* [[Caeriel Crestin]]
+* [[Kristin Henn]]
+* [[Asaf Ronen]]
+* [[Ruby Willmann]]
+
+### Alumni / On Hiatus
 * [[Marc Majcher]] 
 * [[Matt Pollock]]
 * [[Mike Kinald]]
 * [[Mike Nystul]]
-* [[Mitchell Deane]]
-* [[Ruby Willmann]] (Touring Performer)
-* [[Thedward Blevins]] (Sep 2012-Present)
-* [[Andrew Robinson]]  (Sep 2013-Present)
-* [[Megan Venable]]  (Sep 2013-Present)
-* [[Sarah Swofford]]  (Sep 2013-Present)
-
-## History
-### Former Cast Members
+* [[Kristin Faner]]    (Nov 2012-Jun 2013)
 * [[Kristin Firth]]
 * [[Cody Melcher]]
 
