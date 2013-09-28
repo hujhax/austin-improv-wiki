@@ -27,6 +27,7 @@ It originally ran in July/August of 2012 but was extended through September.
 
 ### Publicity
 * [http://vimeo.com/45020927 Show trailer.]
+* [http://vimeo.com/47916987 Show trailer] for [[The Out of Bounds Comedy Festival]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
