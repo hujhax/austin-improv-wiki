@@ -99,6 +99,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 ## Media
 ### Videos
 * [http://vimeo.com/43331034 Their 6/1/12 show] for [[The 43-Hour Improv Marathon]].
+* [http://vimeo.com/43532723 6/2/12 show.]
 
 ## More Information
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
