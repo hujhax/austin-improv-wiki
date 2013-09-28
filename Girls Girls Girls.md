@@ -96,6 +96,10 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 ### Crew
 * [[Sara Farr]]
 
+## Media
+### Videos
+* [http://vimeo.com/43331034 Their 6/1/12 show] for [[The 43-Hour Improv Marathon]].
+
 ## More Information
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
 [[Category/Active|Category:Active]]
