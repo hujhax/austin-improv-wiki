@@ -58,6 +58,8 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://vimeo.com/43361530 6/2/12 Maestro.] (from [[The 43-Hour Improv Marathon]])
 * [http://vimeo.com/43786857 6/9/12 Maestro.]
 * [http://vimeo.com/44226957 6/16/12 Maestro.]
+* [http://vimeo.com/44665361 6/23/12 Maestro.]
+* [http://vimeo.com/45044706 6/30/12 Maestro.]
 
 ## Notes
 <references />
