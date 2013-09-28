@@ -15,16 +15,26 @@ Flying Theater Machine happens every Sunday afternoon at 2pm.  Tickets are $7.
 The format of the show changes regularly (see below), but always emphasizes audience involvement and G-rated antics.
 
 ## Formats
-* The Adventure Room
-* Pirate Adventures
-* Snowball Fright
-* Monster Families
-* Fairly Silly Fairy Tales
-* Scavenger Hunt
-* Wild Wild Puppets
-* Story Sports
-* Wonderland
-* Gryffinpuffleclawsin - The American Wizard School
+* **Adventure Room** (L)
+* **Clockwork stories** (L) *May/Jun 2010*
+* **Dinosaurs!** *Jul/Aug 2013*
+* **Fairly Silly Fairy Tales** (S) *Sep/Oct 2013*<br /> Mostly short-form fairy-tale-themed games, with two longer stories mixed in: Fractured fairy tales &ndash; a familiar fairy tale with audience-suggested changes, and our “big story” &ndash; a completely made up fairy tale.
+* **Improvable Circus** *Mar/Apr 2010*
+* **Made-up Magic** (L) *Jul/Aug 2010*
+* **Magic Club House** (L) *Jul/Aug 2011*
+* **Monster Family** (L) *Nov/Dec 2011*, *Nov/Dec 2012*<br /> follows the experience of baby monster who is the only one who can see humans. Mostly short-form games, filtered through the experience of baby monster.
+* **Pirate Adventures** (L) *May/Jun 2011*
+* **Scavenger Hunt** (L)
+* **Snowball Fight** (S) *Nov/Dec 2009*, *Jan/Feb 2011*, *Jan/Feb 2012*<br /> Two teams duke it out, theater sports style, the audience “votes” on the winner by throwing “snowballs” at their favorite team (pieces of paper with words or phrases), which are then used for a blind-line story.
+* **Story Book Capers** *Mar/Apr 2011*
+* **Story Soup** (S) *Jan/Feb 2010*
+* **Story Sports** (S) *Sep/Oct 2010*
+* **Wang Dang Doodle Hour** (S)
+* **Wild Wild Puppets** (L)
+* **Gryffinpuffleclawsin / Wizard School** (L) *May/Jun 2012*<br /> A long-form narrative which follows our protagonists through a chapter of life at wizard school, broken up by games as their classes.
+* **Wonderland** (L) *Sep/Oct 2009*, *Sep/Oct 2011*, *Sep/Oct 2012*<br /> Wonderland is a magical, silly place, full of excitement and strange characters.  Our hero starts out in the real world with real world problems, but it is not long before they are swept away into Wonderland, where we will find amazing creatures and obstacles to overcome.
+* **You Drive** (S)
+* **Pterodactyl Cactus** *Nov/Dec 2010*
 
 ## Cast
 * [[Asaf Ronen]] (Touring Performer)
