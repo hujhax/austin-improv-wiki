@@ -41,6 +41,7 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 * [http://vimeo.com/45049371 Their 7/1/12 show.]
 * [http://vimeo.com/46721795 Their 2012 fundraiser for their trip to Hawaii's Improvaganza festival.]
 * [http://vimeo.com/47800315 The troupe's seventh show.]
+* [http://vimeo.com/47916623 8/19/12: the troupe's eighth show.]
 
 ## More Information
 *[https://www.facebook.com/InOurPrime In Our Prime facebook page]
