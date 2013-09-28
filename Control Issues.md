@@ -20,6 +20,8 @@ This show originated as a [[The Cagematch|Cagematch]] show from [[The Dark Blood
 The show began its run with the name *Choose Your Own Adventure*, but on November 4th, 2010, [[The Hideout Theatre]] received a cease-and-desist letter from [http://en.wikipedia.org/wiki/Chooseco Chooseco], the publisher of the *Choose Your Own Adventure* line of books.
 
 ## Media
+### Videos
+* [http://vimeo.com/45774212 The original Pick Your Own Path show], presented by [[The Dark Bloodlords]] on 9/29/06.
 * 11/12/10: [http://vimeo.com/16899095 Video.]
 * 12/10/10: [http://vimeo.com/17777461 Video.]
 * 4/8/11: [http://vimeo.com/22245450 Video.]
