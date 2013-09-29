@@ -17,6 +17,10 @@ Troupes and shows included in *The TV Set* included [[The Professor]], *[[Totall
 
 In May 2013, perhaps due to running out of TV-themed shows and troupes who hadn't yet performed in *The TV Set*, the slot was replaced by *[[2x4]]*.
 
+## Media
+### Videos
+* [http://vimeo.com/51898584 10/29/12: the short-form, "Channel Surfing" edition of the show.]
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/thetvset The show's web page.]
 
