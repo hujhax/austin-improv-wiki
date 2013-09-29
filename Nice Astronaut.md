@@ -85,6 +85,7 @@ Nice Astronaut has performed at the following festivals
 ## Media
 ### Videos
 * [http://vimeo.com/36009826 December 2011 "It's a Tolerable Existence" show.]
+* [http://vimeo.com/50645379 8/11/12 show: "Mattress Cover".]
 
 ## Miscellaneous
 Nice Astronaut also hosted the short lived [http://blog.coldtownetheater.com/wp-content/uploads/2009/06/nomad-poster-june09b.jpg "Nomad Comedy Nights"] on Wednesdays at Nomad Bar during the summer of 2009.
