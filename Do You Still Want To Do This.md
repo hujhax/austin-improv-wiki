@@ -10,6 +10,10 @@
 ## History
 Courtney and Alex met doing [[List of Hideout Mainstage Shows in Chronological Order|mainstage shows]] at [[The Hideout Theatre]].
 
+## Media
+### Videos
+* [http://vimeo.com/56966436 Video of their 12/7/12 show] at *[[The Threefer]]*.
+
 ## More Information
 *[http://www.facebook.com/doyoustillwanttodothis The duo's facebook page.]
 
