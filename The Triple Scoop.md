@@ -1,1 +1,5 @@
-The Triple Scoop is a three act improv night headlined by [[IScream Sandwich]] Saturday nights at 10PM at [[The Institution Theater]]. Each show consists of three improve troupes performing a 30 minute set with a guest stand up comedian acting as MC.
+**The Triple Scoop** is a three-act improv night headlined by [[IScream Sandwich]].
+
+It runs Saturday nights at 10pm at [[The Institution Theater]].
+
+Each show consists of three improv troupes performing a half-hour minute set with a guest stand-up comedian acting as MC.
