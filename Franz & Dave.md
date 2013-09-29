@@ -17,9 +17,10 @@ Thus far, Franz & Dave have performed one format, wherein the characters of Kafk
 
 ## Media
 ### Videos
-* [http://vimeo.com/32631302 9/26/11.]
-* [http://vimeo.com/32605135 10/16/11.]
-* [http://vimeo.com/37759076 2/2/12.]
+* [http://vimeo.com/32631302 Video of their 9/26/11 show.]
+* [http://vimeo.com/32605135 Video of their 10/16/11 show.]
+* [http://vimeo.com/37759076 Video of their 2/2/12 show.]
+* [http://vimeo.com/61101915 Video of their 3/4/13 show.]
 
 ## More Information
 * [http://facebook.com/franzanddave Franz & Dave's Facebook page.]
