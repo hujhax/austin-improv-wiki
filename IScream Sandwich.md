@@ -18,6 +18,7 @@ They perform a modified Harold, with a much looser structure.
 ## Media
 ### Videos
 * [http://vimeo.com/41113843 Video of a performance] at [[The Institution Theater]].
+* [http://vimeo.com/53658157 Their 11/10/12 show] in *[[The Triple Scoop]]*.
 
 ## More Information
 * [http://www.facebook.com/iScreamSandwich The troupe's facebook page.]
