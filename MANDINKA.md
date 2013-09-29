@@ -13,6 +13,10 @@ The pair perform character-driven "mono-pop" shows with a focus on pacing, heigh
 After being thrown together as inaugural members of [[The Seven Eight Sevens]], they decided to form their own duo troupe in late 2012. Their debut show was on December 6, 2012, as part of the [[Thursday Threefer]] at [[The Hideout Theater]]. Since then, Mandinka has performed at [[Salvage Vanguard Theater]], [[The Institution Theater]], and at [[ColdTowne Theater]] (as part of the inaugural Duo [[Cagematch]] tournament). 
 
 
+## Media
+### Videos
+* [http://vimeo.com/channels/austinimprov/55258511 Their 12/7/12 show] at *[[The Threefer]]*.
+
 ## More Information
 * [http://www.facebook.com/mandinkaimprov The troupe's facebook page.]
 
