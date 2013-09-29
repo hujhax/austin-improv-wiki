@@ -17,5 +17,5 @@ The show explores a soul and all of its previous incarnations in reverse chronol
 The show debuted at the 2013 [[Improvised Play Festival]] at [[The Hideout Theatre]] on April 11, 2013 and has since been featured in [[The 44-Hour Improv Marathon]].
 
 ## Media
-* [http://vimeo.com/63959273 Video of their debut performance] in [[The 2013 Improvised Play Festival]].
-* [http://vimeo.com/67467225 Video of a performance] in *[[The Spectacle]]*.
+* [http://vimeo.com/63959273 Video of their 4/11/13 debut performance] in [[The 2013 Improvised Play Festival]].
+* [http://vimeo.com/67467225 Video of their 5/24/13 performance] in *[[The Spectacle]]*.
