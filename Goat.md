@@ -40,7 +40,8 @@ Goat has appeared in the following festivals:
 * [http://vimeo.com/53269887 Video of their 11/10/12 show] at *[[The Triple Scoop]]*.
 * [http://vimeo.com/57374969 Video of their 1/13/13 show] at *[[ColdTowne Theater]]*.
 * [http://vimeo.com/58632857 Video of their 1/30/13 show] at *[[ColdTowne Theater]]*.
-* [http://vimeo.com/60605310 Video of an early 2013 show ("Guns")] at *[[ColdTowne Theater]]*.
+* [http://vimeo.com/60605310 Video of a February 2013 show ("Guns")] at *[[ColdTowne Theater]]*.
+* [http://vimeo.com/61016007 Video of their 3/2/13 show ("Optometrist")] at *[[The Institution Theater]]*.
 
 ## More Information
 * [http://goatimprov.com Goat's Website]
