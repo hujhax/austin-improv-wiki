@@ -34,12 +34,13 @@ Goat has appeared in the following festivals:
 ## Media
 ### Videos
 * [http://vimeo.com/39035730 Video of their 3/22/12 show] at *[[The Threefer]]*.
-* [http://vimeo.com/44984553 Video of their  6/28/12 show] at *[[The Threefer]]*.
-* [http://vimeo.com/48548486 Video of their  8/29/12 show] at *[[The 2012 Out of Bounds Comedy Festival]]*.
-* [http://vimeo.com/49553431 Video of their  9/13/12 show] at *[[The Threefer]]*.
-* [http://vimeo.com/53269887 Video of their  11/10/12 show] at *[[The Triple Scoop]]*.
-* [http://vimeo.com/57374969 Video of their  1/13/13 show] at *[[ColdTowne Theater]]*.
-* [http://vimeo.com/58632857 Video of their  1/30/13 show] at *[[ColdTowne Theater]]*.
+* [http://vimeo.com/44984553 Video of their 6/28/12 show] at *[[The Threefer]]*.
+* [http://vimeo.com/48548486 Video of their 8/29/12 show] at *[[The 2012 Out of Bounds Comedy Festival]]*.
+* [http://vimeo.com/49553431 Video of their 9/13/12 show] at *[[The Threefer]]*.
+* [http://vimeo.com/53269887 Video of their 11/10/12 show] at *[[The Triple Scoop]]*.
+* [http://vimeo.com/57374969 Video of their 1/13/13 show] at *[[ColdTowne Theater]]*.
+* [http://vimeo.com/58632857 Video of their 1/30/13 show] at *[[ColdTowne Theater]]*.
+* [http://vimeo.com/60605310 Video of an early 2013 show ("Guns")] at *[[ColdTowne Theater]]*.
 
 ## More Information
 * [http://goatimprov.com Goat's Website]
