@@ -90,6 +90,7 @@
 
 ### Videos
 * [http://vimeo.com/72798057 Video of the closing night (7/19/13) of *Macbeth*.]
+* [http://vimeo.com/73240411 Video of the closing night (7/20/13) of *Much Ado About Nothing*.]
 * Videos of the 8/17/13 show: [http://vimeo.com/72755432 short-form half]; [http://vimeo.com/72755433 narrative half].
 
 ## More Information
