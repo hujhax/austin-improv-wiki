@@ -13,6 +13,10 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 <p>Rachel and Dave teach on the faculty of ColdTowne Theater, perform regularly as members of the award-winning improv ensemble The Frank Mills and live in Austin, Texas. Together, they have appeared in the Web Series: The Bank Manager, Finding Love at Whole Foods, Finding Troo Helth at Whole Foods and Hungry Todd Rungy. They also appear in the feature films: Ultiamte's Guide to Flight and Days of Delusion and the short films: Last Day of School and Master Cleanse"</p></blockquote>
 
+## Media
+### Videos
+* [http://vimeo.com/66537080 Video of their 5/17/13 show] in the *[[2x4]]*.
+
 ## More Information
 *[http://rachelanddave.com/ Rachel and Dave's web site.]
 
