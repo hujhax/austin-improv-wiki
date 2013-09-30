@@ -25,6 +25,10 @@ Each night of the show had a different guest author. An author was interviewed, 
 * 6/21: Suzy Spencer &mdash; *[http://amzn.com/0425219364 Secret Sex Lives: A Year on the Fringes of American Sexuality]*
 * 6/28: Daniel Quinn &mdash; Two stories from *[http://www.ishmael.org/Origins/woomeroo/ At Woomeroo]*
 
+## Media
+### Videos
+* [http://vimeo.com/66971311 Video of the 5/24/13 show, featuring Manuel Gonzales.]
+
 ## More Information
 * [http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/ An *Austin Chronicle* interview] with director [[Justin Davis]] by [[Wayne Allen Brenner]].
 
