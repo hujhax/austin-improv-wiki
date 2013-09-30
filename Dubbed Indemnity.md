@@ -22,11 +22,13 @@ It was a challenging format for performers.  A common pitfall was to simply narr
 Since then, *Dubbed Indemnity* has shown up for occasional one-off performances in events like [[The 44-Hour Improv Marathon]].
 
 ## Media
+### Videos
 * 10/22/10: [http://vimeo.com/16618448 Video.]
 * 1/28/11: [http://vimeo.com/19541045 Video.]
 * 3/25/11: [http://vimeo.com/21607975 Video.]
 * 4/23/11: [http://vimeo.com/22841998 Video.]
 * 5/27/11: [http://vimeo.com/24452011 Video.]
+* 6/22/13: [http://vimeo.com/73282840 Video.] (Part of [[The 44-Hour Improv Marathon]].)
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/dubbedindemnity The show's web page.]
