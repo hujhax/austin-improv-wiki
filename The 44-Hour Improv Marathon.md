@@ -150,6 +150,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 ** Unfortunately, we were only able to get the first 15 minutes or so of this show.
 * [http://vimeo.com/70460663 Hour 25: *Pick Your Own Path*]
 * [http://vimeo.com/69104964 Hour 25: ESL with The Amazon and the Milksop]
+* [http://vimeo.com/69454380 Hour 29: Confidence Men]
 * Hour 32: The Black Vault
 ** [http://vimeo.com/69325354 Video by Victoria Hawthorne]
 ** [http://vimeo.com/70318263 Video by Victoria Hawthorne and Peter Rogers]
