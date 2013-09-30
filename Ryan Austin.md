@@ -19,7 +19,7 @@ He is known for often dressing up.
 
 ## Shows
 * *[[Pick Your Own Path]]*
-* *[[The Fancy-Pants Mashup]]* (director)
+* *[[The Fancy-Pants Mashup]]* (director 2012-2013)
 * *[[Myth Debunkers]]* (Adam Savage)
 * *[[The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
 * *[[Pocketful of Posies]]*
