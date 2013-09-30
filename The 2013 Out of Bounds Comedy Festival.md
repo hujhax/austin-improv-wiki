@@ -1,13 +1,13 @@
-**The 2013 Out of Bounds Comedy Festival** will be the twelfth annual [[Out of Bounds Comedy Festival]].
+**The 2013 Out of Bounds Comedy Festival** was the twelfth annual [[Out of Bounds Comedy Festival]].
 
 ## Summary
-Its advertising is graffiti-themed.
+Its advertising was graffiti-themed.
 
-The festival will run from from Tuesday 8/27/13 to Monday 9/2/13.
+The festival ran from from Tuesday 8/27/13 to Monday 9/2/13.
 
-It will feature Baby Wants Candy as headliners.
+It featured Baby Wants Candy as headliners.
 
-The festival roast will feature Alamo Drafthouse founder Tim League.
+The festival roast featured Alamo Drafthouse founder Tim League.
 
 ## Acts
 ### Local Improv and Sketch Acts
@@ -179,6 +179,10 @@ The festival roast will feature Alamo Drafthouse founder Tim League.
 * Ted Morris
 * Tim Messenger
 * Zach Peterson
+
+## Media
+### Videos
+* [http://vimeo.com/74687764 Video of the 8/29/13 roast of Tim League.]
 
 ## More Information
 * [http://www.outofboundscomedy.com/ The 2013 Out of Bounds web site.]
