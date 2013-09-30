@@ -44,7 +44,7 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 * [http://vimeo.com/47916623 8/19/12: the troupe's eighth show.]
 * [http://vimeo.com/49933970 Their 9/20/12 show] at *[[The Free Fringe]]*.
 * [http://vimeo.com/65469964 Their 4/11/13 show] at [[The 2013 Improvised Play Festival]].
-* [http://vimeo.com/74497522 Their 6/22/13 show] at [[The 2013 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/74497522 Their 6/22/13 show] at [[The 44-Hour Improv Marathon]].
 
 ## More Information
 *[https://www.facebook.com/InOurPrime In Our Prime facebook page]
