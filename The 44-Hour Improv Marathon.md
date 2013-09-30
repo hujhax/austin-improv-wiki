@@ -141,6 +141,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://vimeo.com/69014376 Hour 7: Franz & Dave present "Pine Falls"]
 * [http://vimeo.com/69401082 Hour 8: The New Game Project]
 * [http://vimeo.com/73282840 Hour 17: *Dubbed Indemnity*]
+* [http://vimeo.com/75469789 Hour 18: Local Genius Society]
 * [http://vimeo.com/69028237 Hour 19: *Charles Dickens Unleashed*]
 * [http://vimeo.com/69001828 Hour 23: Girls Girls Girls]
 ** Unfortunately, we were only able to get the first 15 minutes or so of this show.
@@ -149,6 +150,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * Hour 32: The Black Vault
 ** [http://vimeo.com/69325354 Video by Victoria Hawthorne]
 ** [http://vimeo.com/70318263 Video by Victoria Hawthorne and Peter Rogers]
+* [http://vimeo.com/73323916 Hour 33: Puppet Improv Project]
 * [http://vimeo.com/69221817 Hour 34: *Tech Nightmare*]
 * [http://vimeo.com/70615208 Hour 38: "The Queen Is Not Amused"]
 * [http://vimeo.com/70503492 Hour 40: "Care Bear Stare"]
