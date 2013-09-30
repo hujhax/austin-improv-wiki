@@ -14,7 +14,8 @@ After being thrown together as inaugural members of [[The Seven Eight Sevens]], 
 
 ## Media
 ### Videos
-* [http://vimeo.com/channels/austinimprov/55258511 Their 12/7/12 show] at *[[The Threefer]]*.
+* [http://vimeo.com/55258511 Their 12/7/12 show] at *[[The Threefer]]*.
+* [http://vimeo.com/66537082 Their 5/17/13 show] in *[[2x4]]*.
 
 ## More Information
 * [http://www.facebook.com/mandinkaimprov The troupe's facebook page.]
