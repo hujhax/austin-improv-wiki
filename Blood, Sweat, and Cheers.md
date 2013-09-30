@@ -42,6 +42,11 @@ The show will run at 8pm, Thursday to Saturday, from 5/30/13 to 6/9/13 at the [[
 Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25/13.
 
 ## Media
+### Videos
+* [http://vimeo.com/67621275 Video of 6/2/13 show.]
+* [http://vimeo.com/68640834 Video of 6/6/13 show.]
+
+### Publicity
 * [http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3 Promo photo shoot] by [[Jon Bolden]].
 
 ## More Information
