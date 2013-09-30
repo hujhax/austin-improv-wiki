@@ -37,6 +37,7 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://vimeo.com/41711039 Video of 5/4/12 performance.]
 * [http://vimeo.com/47377300 Video of 7/6/12 performance.]
 * [http://vimeo.com/61489752 Video of 3/1/13 performance.]
+* [http://vimeo.com/65959353 Video of 5/3/13 performance.]
 
 ## Other Information
 * [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
