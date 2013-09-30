@@ -136,13 +136,19 @@ The schedule is as follows:
 *** [[Kaci Beeler]]
 
 ## Media
+### Videos
+* Video of the 10/30/10 performance by [[Peter Rogers]]: [http://vimeo.com/16402965 part 1], [http://vimeo.com/16403547 part 2].
+* [http://vimeo.com/66174442 Video of the 5/4/13 performance] by [[Ryan Austin]].
+* [http://vimeo.com/67173124 Video of the 5/11/13 performance] by [[Ryan Austin]].
+* [http://vimeo.com/67725617 Video of the 5/18/13 performance] by [[Ryan Austin]].
+* [http://vimeo.com/69837645 Video of the 5/25/13 performance] by [[Ryan Austin]].
+* [http://vimeo.com/69837644 Video of the 6/1/13 performance] by [[Ryan Austin]].
+* [http://vimeo.com/70243827 Video of the 6/8/13 performance] by [[Ryan Austin]].
+
+### Photos
 * [http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1 Photoset of the 9/18/10 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1379182571490.2052519.1589679282&type=3 Photoset of the 10/2/10 performance] by [[Roy Moore]].
-* 5/4/13 performance:
-** [http://vimeo.com/66174442 Video] by [[Ryan Austin]].
-** [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset] by [[Warren Henderson]].
-* 5/11/13 performance:
-** [http://vimeo.com/67173124 Video] by [[Ryan Austin]].
+* [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset of the 5/4/13 performance] by [[Warren Henderson]].
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheatresportsTournament The show's web page.]
