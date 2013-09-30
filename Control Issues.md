@@ -40,6 +40,8 @@ The show began its run with the name *Choose Your Own Adventure*, but on Novembe
 * 1/11/13: [http://vimeo.com/57495369 Video.]
 * 3/8/13: Videos of [http://vimeo.com/61403063 show #1] and [http://vimeo.com/61405412 show #2].
 * 5/10/13: Videos of [http://vimeo.com/65993964 show #1] and [http://vimeo.com/65981712 show #2].
+* 5/23/13: [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[The Black Vault]]* at *[[The Free Fringe]]*).
+
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
