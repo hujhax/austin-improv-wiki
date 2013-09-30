@@ -18,9 +18,13 @@ Shows typically hewed to one of two types.  Some shows were "devil's bargain" so
 The cast worked at slowing down the plot.  They would focus less on making things happen, and more on really exploring each strange thing that occurred.  Characters would list possible explanations, or make tentative experiments to gather more information.  Typically, only three or four things would actually happen in a half-hour show.
 
 ## Media
+### Videos
+* [http://vimeo.com/47840197 Video of the 8/7/12 performance], which was a one-off performance for *[[The TV Set]]*.
+* [http://vimeo.com/74718403 Video of their 8/27/13 performance,] part of [[The 2013 Out of Bounds Comedy Festival]].
+
+### Photos
 * [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/8/11 performance.
 * [http://www.facebook.com/media/set/?set=a.275898742473649.69807.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 1/14/11 performance.
-* [http://vimeo.com/47840197 Video of the 8/7/12 performance], which was a one-off performance for *[[The TV Set]]*.
 
 ## More Information
 * [http://www.facebook.com/pages/Twilight-Zoned-Improv-Comedy/273908725985889 The show's facebook page.]
