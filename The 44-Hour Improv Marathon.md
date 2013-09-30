@@ -140,6 +140,8 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://vimeo.com/69060732 Hour 6: Parallelogramophonograph presents "The Tab"]
 * [http://vimeo.com/69014376 Hour 7: Franz & Dave present "Pine Falls"]
 * [http://vimeo.com/69401082 Hour 8: The New Game Project]
+* [http://vimeo.com/75513299 Hour 14: Veterans' Show]
+* [http://vimeo.com/74482653 Hour 16: Waterpark]
 * [http://vimeo.com/73282840 Hour 17: *Dubbed Indemnity*]
 * [http://vimeo.com/75469789 Hour 18: Local Genius Society]
 * [http://vimeo.com/69028237 Hour 19: *Charles Dickens Unleashed*]
@@ -156,6 +158,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://vimeo.com/70503492 Hour 40: "Care Bear Stare"]
 * [http://vimeo.com/69145400 Hour 41: The Movie Format with the Institution Theater]
 * [http://vimeo.com/69196616 Hour 42: *Fakespeare*]
+* [http://vimeo.com/75559278 Hour 43: Bad Boys]
 * [http://vimeo.com/70541270 Hour 44a: "The Final Countdown"]
 * [http://vimeo.com/69068028 Hour 44b: The Marathon-closing Q&A]
 
