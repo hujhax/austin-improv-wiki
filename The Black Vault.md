@@ -30,18 +30,21 @@ After its mainstage run, there were a number of one-off shows:
 * 5/23/13: "Pick Your Own Black Vault", a mash-up with *[[Pick Your Own Path]]* that played at *[[The Free Fringe]]*.
 
 ## Media
+### Videos
 * Sample video of [[Marc Majcher]]'s [http://vimeo.com/49958497 introduction to the show].
 * [http://vimeo.com/49647825 Video of the 9/15/2012 performance.]
 * [http://vimeo.com/50914775 Video of the 9/22/2012 performance.]
 * [http://vimeo.com/52598840 Video of the 10/13/2012 performance.]
 * [http://vimeo.com/52585149 Video of the 10/20/2012 performance.]
 * [http://vimeo.com/52665609 Video of the 10/27/2012 performance.]
-* [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset of 10/27/12 performance.]
 * [http://vimeo.com/52659608 Video of the 10/31/2012 performance.]
 * [http://vimeo.com/55421296 Video of the one-off "Lovecraft Secrets" show] (a mash-up with *[[Austin Secrets]]* at *[[The Free Fringe]]*), from 12/6/12.
 * [http://vimeo.com/64275476 Video of the 4/13/2013 performance] at [[The 2013 Improvised Play Festival]].
 * [http://vimeo.com/67752198 Video of the 5/5/2013 performance], which was part of "Nerdprov" at [[The Institution Theater]].
 * [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[Pick Your Own Path]]* at *[[The Free Fringe]]*), from 5/23/13.
+* [http://vimeo.com/70318263 Video of the 6/22/13 performance], part of [[The 44-Hour Improv Marathon]].
+### Photos
+* [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset of 10/27/12 performance.]
 
 [[Category/Shows|Black Vault]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
