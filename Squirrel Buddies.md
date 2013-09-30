@@ -18,6 +18,7 @@ Squirrel Buddies attended the Alaska Improv Festival in 2013.
 ## Media
 ### Videos
 * [http://vimeo.com/40801624 Video of their 4/19/12 show] at the *[[Free Fringe]]*.
+* [http://vimeo.com/62426968 Video of their 7/22/12 show] at *[[The Weekender]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
