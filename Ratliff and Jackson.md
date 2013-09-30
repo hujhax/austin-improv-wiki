@@ -16,6 +16,10 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 Ratliff and Jackson headlined *[[The Threefer]]* in September 2012.
 
 ## Media
+### Videos
+* [http://vimeo.com/74439291 Video of their 8/27/13 performance], part of [[The 2013 Our of Bounds Comedy Festival]].
+
+### Photos
 * [http://www.facebook.com/media/set/?set=a.10151045919445267.430310.550920266&type=1 A photoset] by [[Adriane Shown]] that includes their performance at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.10151044387950793.420989.666390792&type=1 A photoset] by [[Dave Alley]] that includes their performance at the 9/20/12 *[[The Threefer|Threefer]]*.
 
