@@ -18,6 +18,7 @@ They performed the format as part of *[[The Free Fringe]]* on 2/28/13.  They the
 * [http://vimeo.com/60813845 Video of the 2/28/13 performance.]
 ** [http://vimeo.com/60731807 A trailer based on the video.]
 * [http://www.facebook.com/media/set/?set=a.530802303655120.1073741859.118587218209966&type=3 Photoset of their 9/1/13 8pm performance] by [[Roy Moore]].
+* Video of their shows at [[The 2013 Out of Bounds Comedy Festival]]: [http://vimeo.com/74581061 show #1], [http://vimeo.com/74581060 show #2].
 
 [[Category/Duos|Category:Duos]]
 [[Category/Active|Category:Active]]
