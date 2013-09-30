@@ -13,7 +13,9 @@
 Franz & Dave was conceived in the [[The Hideout Theatre|Hideout's]] green room during a show sometime in early 2011. The duo debuted as part of [[ColdTowne Theater|ColdTowne]]'s [[Shakedown]], hosted by [[Brett Tribe]]. They played to an audience of six that night.
 
 ## Format
-Thus far, Franz & Dave have performed one format, wherein the characters of Kafka and Lynch collaborate on a "movie" based on the audience's suggestion (typically a dull or menial occupation, ala Kafka). The characters begin by scene painting, then break into and out of scenes from the "movie" as desired.
+Franz & Dave's usual format has the characters of Kafka and Lynch collaborating on a "movie" based on the audience's suggestion (typically a dull or menial occupation, ala Kafka). The characters begin by scene painting, then break into and out of scenes from the "movie" as desired.
+
+In [[The 44-Hour Improv Marathon]], the duo introduced "Pine Falls", an improvised take on *[http://en.wikipedia.org/wiki/Twin_Peaks Twin Peaks]*
 
 ## Media
 ### Videos
