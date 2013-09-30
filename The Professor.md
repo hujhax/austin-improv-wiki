@@ -80,6 +80,7 @@ Season three will be at [[The Institution Theater]] in November 2012.
 (Note that this cast list may change between now and November.)
 
 ## Media
+### Season One
 * 11/4/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/d82d5bf6 Video of the regeneration scene] by [[Michael Ferstenfeld]].
@@ -95,6 +96,8 @@ Season three will be at [[The Institution Theater]] in November 2012.
 ** [http://www.facebook.com/media/set/?set=a.220876431314377.52600.118587218209966&type=3 Photoset] by [[Roy Moore]].
 * 11/18/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.229603903774963.53941.118587218209966&type=3 Photoset] by [[Roy Moore]].
+
+### Season Two
 * 3/30/12 performance ("My Way"):
 ** [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/d22be4a7 Video] by [[Michael Ferstenfeld]].
@@ -106,8 +109,11 @@ Season three will be at [[The Institution Theater]] in November 2012.
 ** [http://vimeo.com/48524413 Video] by [[Peter Rogers]].
 * 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea"):
 ** [http://www.youtube.com/watch?v=gZuQFuFSpB8 Video] by [[Michael Ferstenfeld]].
+
+### Season 2½ (One-Offs)
 * 1/18/13 performance at [[The TV Set]].
 ** [http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1 Photoset] by [[Michael Yew]].
+* 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]]: [http://vimeo.com/73437075 story #1], [http://vimeo.com/73480143 story #2]
 
 ## More Information
 * [http://www.doctorwhotheatre.com/ The troupe's web site.]
