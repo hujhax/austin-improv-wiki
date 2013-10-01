@@ -102,6 +102,9 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://vimeo.com/43532723 Video of their 6/2/12 show.]
 * [http://vimeo.com/69001828 Video of the first fifteen minutes of their 6/22/13 show,] part of [[The 43-Hour Improv Marathon]].
 
+### Photos
+* [http://www.facebook.com/media/set/?set=a.257845284278995.65486.221927764537414&type=3 Photoset of their 12/3/11 performance] in *[[The Saturday Night Special]]* (photos by [[Steve Rogers]]).
+
 ## More Information
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
 [[Category/Active|Category:Active]]
