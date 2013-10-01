@@ -8,6 +8,10 @@ A large number of improvisors from throughout the community attend the event -- 
 The event was first held in 2007.
 
 ## Media
+### Videos
 * Videos of Same Year's Eve 2011: [http://vimeo.com/34559336 part 1], [http://vimeo.com/34580604 part 2], [http://vimeo.com/34556688 part 3].
 * [http://vimeo.com/56655614 Video of Same Year's Eve 2012.]
-* Photosets from Same Year's Eve 2012 by [[Steve Rogers]]: [http://www.facebook.com/media/set/?set=a.467317639998424.113152.221927764537414&type=3 candids and warm-ups], [http://www.facebook.com/media/set/?set=a.467320109998177.113153.221927764537414&type=3 group 1], [http://www.facebook.com/media/set/?set=a.467323289997859.113154.221927764537414&type=3 group 2], [http://www.facebook.com/media/set/?set=a.467327929997395.113155.221927764537414&type=3 group 3 and afterparty].
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.266768773386646.67745.221927764537414&type=3 Same Year's Eve 2011 photoset] (by [[Steve Rogers]]).
+* Same Year's Eve 2012: [http://www.facebook.com/media/set/?set=a.467317639998424.113152.221927764537414&type=3 candids and warm-ups], [http://www.facebook.com/media/set/?set=a.467320109998177.113153.221927764537414&type=3 group 1], [http://www.facebook.com/media/set/?set=a.467323289997859.113154.221927764537414&type=3 group 2], [http://www.facebook.com/media/set/?set=a.467327929997395.113155.221927764537414&type=3 group 3 and afterparty] (by [[Steve Rogers]]).
