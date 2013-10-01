@@ -13,7 +13,6 @@
 ## Summary
 Magna Veritas was a monthly show put on by [[Gnap! Theater Projects]] that ran for four performances, from September to December 2011. The show, inspired by the French roleplaying game [[Wikipedia - In Nomine Satanis-Magna Veritas|In Nomine Satanis/Magna Veritas]], cast the players as angels and demons battling for the soul of humanity.
 
-
 ## Format
 Two "supernatural" characters were pre-selected prior to each show, one angelic, one demonic. The remainder of the cast mainly played humans or minor supernatural figures. The show took the form of a single narrative which pitted the two supernatural forces against each other, usually revolving around tropes found in such religious/apocalyptic fiction as *[[Wikipedia - The Omen|The Omen]]*, *[[Wikipedia - Left Behind|Left Behind]]*, or *[[Wikipedia - Good Omens|Good Omens]]*.
 
