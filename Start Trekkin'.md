@@ -139,16 +139,19 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Troy Miller]] (co-director)
 
 ## Media
+### Videos
 * [http://vimeo.com/35437814 Video of the 4/23/05 performance (season 2, episode 4).]
 * [http://vimeo.com/35497405 Video of the 5/28/05 performance (season 2, episode 5).]
 * [http://vimeo.com/35681293 Video of 'episode seven' from season 2.]
 * Video of the 9/27/08 performance, in three parts: [http://www.facebook.com/photo.php?v=43256292752 1], [http://www.facebook.com/photo.php?v=43351022752 2], [http://www.facebook.com/photo.php?v=43700942752 3].
 * [http://youtu.be/zRWkhp3VkP8 Video of a scene from the 10/11/08 performance.]
 * Video of the 11/15/08 performance, in four parts: [http://www.facebook.com/photo.php?v=76146882755 1], [http://www.facebook.com/photo.php?v=76163692755 2], [http://www.facebook.com/photo.php?v=76179897755 3], [http://www.facebook.com/photo.php?v=76192262755 4].
-* [http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1 A photoset from season 5.]
 * [http://youtu.be/WoGBGHe9Cms Video of an audience-participation "Kobayashi Maru" scene] from their performance in [[The 2009 Out of Bounds Comedy Festival]].
 * Promo videos for season six by [[Troy Miller]]: [http://youtu.be/7cL_KoQWAns "Alien Love"], [http://youtu.be/JLhH3VF_EJI "Fight"], [http://youtu.be/z9fCC3ZG2io "Sacrifices"], [http://youtu.be/jE3goOhutlQ "The Landing Party" (version 1)], and [http://youtu.be/Apynw0GNH2o "The Landing Party" (version 2)].
 * [http://vimeo.com/20415485 A 2011 video compilation of *Start Trekkin*' fight scenes.]
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1 A photoset from season 5.]
 * [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/8/11 performance.
 * [http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 1/14/11 performance.
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] from [[Steve Rogers]], [http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3 and another]  from [[Michael Yew]], of the 3/8/12 *[[Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
