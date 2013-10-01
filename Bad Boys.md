@@ -26,6 +26,9 @@ Bad Boys currently has an open-ended run on Friday nights at [[ColdTowne Theater
 * [http://vimeo.com/39051708 Their 3/22/12 show] at *[[The Threefer]]*.
 * [http://vimeo.com/75559278 Their 6/23/13 show] at *[[The 44-Hour Improv Marathon]]*.
 
+### Photos
+* [http://www.facebook.com/media/set/?set=a.248623315201192.64136.221927764537414&type=3 Their 12/1/11 show] at *[[The Threefer]]* (photoset by [[Steve Rogers]]).
+
 ## More Info
 * [http://badboysimprov.tumblr.com Bad Boys' Website]
 * [http://www.facebook.com/badboysimprov Bad Boys' Facebook]
