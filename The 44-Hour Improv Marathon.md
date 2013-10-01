@@ -61,6 +61,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 ** This was the story of William Barachnal, a young aristocrat who was banished from his family home and, after a checkered youth, became a respected blacksmith in Derbyshire.
 * Saturday 12pm (hour 20): [[Arkay]] presents [http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html JTS Brown].
 * Saturday 1pm (hour 21): [[What's the Story, Steve]]: kid-friendly improv, featuring a dog.
+** This featured guests [[Amy Carpenter]], [[Arian Brumby]], [[Clint Harris]], [[Drew Wesely]], [[Frank Netscher]], [[Kristin Henn]], and [[Luke Wallens]].
 ** In this story, Steve was a duke in a fantasy setting who was not invited to the kingdom's most eagerly-awaited birthday party.
 * Saturday 2pm (hour 22): Free-form improv from the core cast. (Nicknamed "The Eye of the Storm", this is the exact midpoint of the marathon.)
 * Saturday 3pm (hour 23): [[Girls Girls Girls]]: improvised narrative musical.
