@@ -4,19 +4,7 @@
 |Theater=	[[Salvage Vanguard Theater]]
 |Producer=	[[Gnap! Theater Projects]]
 |Director =	[[Andreas Fabis]]	
-|Cast	=	{{Unbulleted list
-| [[Andreas Fabis]] 
-| [[Brad Hawkins]]
-| [[Marc Majcher]]
-| [[Sophia Hoang]]
-| [[Ruby Willmann]]
-| [[Leng Wong]]
-| [[Justin Davis]]
-| [[Kristin Firth]]
-| [[Todd Hart]]
-| [[Emily Breedlove]]
-| [[Katherine Greco]]
-}}
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Emily Breedlove]] | [[Justin Davis]] | [[Katherine Greco]] | [[Kristin Firth]] | [[Leng Wong]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Sophia Hoang]] | [[Todd Hart]] }}
 |Run	=	Sep-Dec 2011
 }}
 
