@@ -28,6 +28,7 @@ Bad Boys currently has an open-ended run on Friday nights at [[ColdTowne Theater
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.248623315201192.64136.221927764537414&type=3 Their 12/1/11 show] at *[[The Threefer]]* (photoset by [[Steve Rogers]]).
+* [http://www.facebook.com/media/set/?set=a.323769481019908.79466.221927764537414&type=3 Photoset of their 3/22/12 show] at *[[The Threefer]]* by [[Steve Rogers]].
 
 ## More Info
 * [http://badboysimprov.tumblr.com Bad Boys' Website]
