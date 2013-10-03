@@ -24,7 +24,9 @@ The troupe participated in [[The 40-Hour Improv Marathon]] and [[The 41-Hour Imp
 * [[Joel Osborne]]
 
 ## Media
-* Sketch videos: [http://youtu.be/BGMXhTWc0Vg "Knife Fight"]; "Campaign Ads": [http://youtu.be/TON0fwdFAq8 #1], [http://youtu.be/1-lenOOt0ls #2], and [http://youtu.be/tu8tq3jJniQ #3]; [http://youtu.be/25ObVq_9uAA "Pet Expert"]; [http://youtu.be/Oj-VspFF_nI "O, Those Merry Stumblebums!"]; [http://youtu.be/QDdgQg2bKno "Love to Hear Percussion"]; [http://youtu.be/8GWzJHfNteQ "Frasier: The Facts"]; "Yo-Yodeo Promos": [http://youtu.be/MVDrFBb8O_k #1], [http://youtu.be/ZMl5HhF6GqQ #2]; 
+### Videos
+* Sketch videos: [http://youtu.be/BGMXhTWc0Vg "Knife Fight"]; "Campaign Ads": [http://youtu.be/TON0fwdFAq8 #1], [http://youtu.be/1-lenOOt0ls #2], and [http://youtu.be/tu8tq3jJniQ #3]; [http://youtu.be/25ObVq_9uAA "Pet Expert"]; [http://youtu.be/Oj-VspFF_nI "O, Those Merry Stumblebums!"]; [http://youtu.be/QDdgQg2bKno "Love to Hear Percussion"]; [http://youtu.be/8GWzJHfNteQ "Frasier: The Facts"]; "Yo-Yodeo Promos": [http://youtu.be/MVDrFBb8O_k #1], [http://youtu.be/ZMl5HhF6GqQ #2]
+### Photos
 * [http://www.facebook.com/media/set/?set=a.1299236843754.36635.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 6/6/10 performance.
 * [http://www.facebook.com/media/set/?set=a.479155366923.261825.106747986923&type=1 A photoset] by [[Stephanie Hagemeister]] of their performance in the 2010 [[WaffleFest]].
 * [http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1 A photoset] by [[Michael Yew]] that includes a 2/6/11 performance.
@@ -32,6 +34,7 @@ The troupe participated in [[The 40-Hour Improv Marathon]] and [[The 41-Hour Imp
 ** [http://www.facebook.com/media/set/?set=a.126797817401250.32892.100002130980897&type=1 A photoset] by [[Steve Rogers]] that includes the same show.
 * [http://www.facebook.com/media/set/?set=a.164587043622327.43580.100002130980897&type=1 A photoset] by [[Steve Rogers]] that includes their performance in [[The 2011 Out of Bounds Comedy Festival]], on 9/3/11.
 * [http://www.facebook.com/media/set/?set=a.370876979642491.89035.221927764537414&type=1 A photoset] by [[Steve Rogers]] of their performance in the 2012 [[Austin Sketchfest]].
+* [http://www.facebook.com/media/set/?set=a.396688563727999.94464.221927764537414&type=3 Photoset of "Ronald Stepp Presents Ron Stepp and the Stepp Sisters" from 7/13/12] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.446455175375983.99833.100000345135257&type=1 Photoset of "Ronald Stepp Presents Ron Stepp and the Stepp Sisters" from 7/14/12] by [[Claudio Fox]].
 * [http://www.facebook.com/media/set/?set=a.542657045797816.1073741872.221927764537414&type=3 A photoset] by [[Steve Rogers]] of their performance in the 2013 [[Austin Sketchfest]].
 
