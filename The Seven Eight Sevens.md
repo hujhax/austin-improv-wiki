@@ -4,7 +4,7 @@
 |Cast	=	{{Unbulleted list|[[Cat Drago]]|[[Mitchell Deane]]|[[Ryan Hill]]|[[Sarah Swofford]]|[[Scott Hearne]]}}
 
 
-|Years	=		2012-Present
+|Years	=		2012-2013
 }}
 
 **The Seven Eight Sevens** are an improv troupe.
