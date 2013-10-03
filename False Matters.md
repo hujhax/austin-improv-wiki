@@ -7,15 +7,19 @@
 |Cast	=	{{Unbulleted list | [[Courtney Hopkin]] | [[Craig Kotfas]] | [[Jon Bolden]] | [[Kareem Badr]] | [[Kevin Miller]] | [[Kristin Firth]] | [[Kyle Traughber]] | [[Liz Brammer]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Shannon McCormick]] }}
 |Tech	=	[[Sam Schak]]
 |Run	=	May-June 2011
-|Subsequent Runs = August 2012–
+|Subsequent Runs = {{Unbulleted list | [[Aug 2012]] | [[Oct-Nov 2013]] }}
 |Tagline = Stories Improvised in the Style of Philip K. Dick
 }}
 
-***False Matters*** was a longform mainstage improv production with [[Gnap! Theater Projects]] that played from May 20 to June 11, 2001 (and on August 24 and 25, 2012). After the original run, it lived on as an informal troupe composed of members of the original cast. Its first show outside [[Salvage Vanguard]] was as a part of the first [[Improvised Play Festival]] on July 2, 2011.
+***False Matters*** was a longform mainstage improv production with [[Gnap! Theater Projects]] based on the work of [http://en.wikipedia.org/wiki/Philip_K._Dick Philip K. Dick]."
 
-*False Matters*' tagline is "Stories Improvised in the Style of [http://en.wikipedia.org/wiki/Philip_K._Dick Philip K. Dick]." The show explores similar themes to those in Dick's works, including dystopian futures, shifting identities, questionable reality, and intrusive government. *False Matters* includes many tropes common in PKD stories, including interplanetary travel, time travel, drug use, intelligent robots, and omnipresent media.
+## Summary
+The show explores similar themes to those in Dick's works, including dystopian futures, shifting identities, questionable reality, and intrusive government. *False Matters* includes many tropes common in PKD stories, including interplanetary travel, time travel, drug use, intelligent robots, and omnipresent media.
 
 *False Matters* was directed by [[Shannon McCormick]] and assistant-directed by [[Bryan 'Lubu' Roberts]]. [[Courtney Hopkin]] created the costumes and poster for the show. [[Marc Majcher]] created a custom Flash interaction to randomly select the suggestion for the show.
+
+## History
+The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 2001 (and on August 24 and 25, 2012). After the original run, it lived on as an informal troupe composed of members of the original cast. Its first show outside [[Salvage Vanguard]] was as a part of the first [[Improvised Play Festival]] on July 2, 2011.  Its second full run is on Fridays at [[The Institution Theater]] in October and November 2013.
 
 ## Media
 ### Videos
