@@ -24,5 +24,6 @@
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.402069043189951.96182.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/27/12 performance.
+* [http://www.facebook.com/media/set/?set=a.407668889296633.98272.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/10/12 performance.
 
 [[Category/Shows|Pocketful]]
