@@ -29,7 +29,7 @@ This is their bio from their web site:
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/25/09 show.
 * [http://www.facebook.com/media/set/?set=a.3811816376672.136825.1315383518&type=3 Photoset of their performance] from [[WaffleFest]] 2012.
-
+* [http://www.facebook.com/media/set/?set=a.340729629323893.83550.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/14/12 show at [[The 2012 Improvised Play Festival]].
 
 ## More Information
 * [http://confidencemenimprov.com/ Official Website]
