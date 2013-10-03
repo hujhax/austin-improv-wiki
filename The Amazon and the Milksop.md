@@ -24,8 +24,8 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * [http://vimeo.com/40801622 Video of a "Catchin' Frogs" show.]
 
 ### Photos
-* 2/2/12
-** [http://www.facebook.com/media/set/?set=a.10150661726392265.450321.588952264&type=3 Photoset of "Catchin' Frogs"] by [[Peter Rogers]].
+* [http://www.facebook.com/media/set/?set=a.10150661726392265.450321.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/2/12 "Catchin' Frogs" show.
+* [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12  "Catchin' Frogs" show at the *[[Free Fringe]]*.
 
 [[Category/Troupes|Amazon and the Milksop]]
 [[Category/Active|Category:Active]]
