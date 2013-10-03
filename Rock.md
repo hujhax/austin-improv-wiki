@@ -17,16 +17,18 @@
 
 
 ## Media
+### Videos
 * [http://vimeo.com/42747831 Show trailer.]
 * [http://vimeo.com/41668101 Video of the 5/5/12 performance ("Halloween").]
 * [http://vimeo.com/42106561 Video of the 5/12/12 performance ("Dolly/Cheyenne").]
 * [http://vimeo.com/42486309 Video of the 5/19/12 performance ("Politicians").]
-* 5/26/12 performance ("Don't Try Too Hard")
-** [http://vimeo.com/42917035 Video] by [[Peter Rogers]].
-** [http://www.facebook.com/media/set/?set=a.10150828768740793.394951.666390792&type=1 Photoset] by [[Dave Alley]].
+* [http://vimeo.com/42917035 Video of the 5/26/12 performance ("Don't Try Too Hard")]
 * [http://vimeo.com/43766319 Video of the 6/9/12 performance ("The ROT Rally").]
 * [http://vimeo.com/44192011 Video of the 6/16/12 performance ("2525").]
 * [http://vimeo.com/45013518 Video of the 6/30/12 performance ("The Pool").]
+### Photos
+* [http://www.facebook.com/media/set/?set=a.10150828768740793.394951.666390792&type=1 Photoset] by [[Dave Alley]] of the 5/26/12 performance ("Don't Try Too Hard").
+* [http://www.facebook.com/media/set/?set=a.380863341977188.90896.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 6/9/12 performance ("The ROT Rally").
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
