@@ -21,4 +21,8 @@
 
 ***Pocketful of Posies*** was an improvised show based around the films of the European [[Wikipedia - French New Wave|New Wave]] of the 1960s. It was staged at [[Salvage Vanguard Theater]] through [[Gnap! Theater Projects]] in July and August of 2012.
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.402069043189951.96182.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/27/12 performance.
+
 [[Category/Shows|Pocketful]]
