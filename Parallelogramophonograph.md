@@ -44,6 +44,7 @@ An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wik
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.296102733786583.73596.221927764537414&type=3 Photoset of their 2/10/12 "Reverend Goodman" show] by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.356404607756395.86521.221927764537414&type=3 Photoset of their 5/5/12 "Parallelogramophonograph SINGS" show] by [[Steve Rogers]].
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
