@@ -18,7 +18,7 @@ The troupe has played in the Oklahoma Improv Festival, the Improvaganza Hawaii I
 
 In 2013 the troupe has been invited to perform again in the Oklahoma Improv Festival and [[The Out of Bounds Comedy Festival]].  Also in 2013, the troupe was invited to perform at the District Improv Festival in Washington, DC.
 
-They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]] and [[Shannon McCormick]] started coaching them in June of 2013.
+They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]].  [[Shannon McCormick]] started coaching them in June of 2013.
 
 ## History
 *03/01/2012 - Debut @ [[The Hideout]] ("Printing Presses")
