@@ -16,6 +16,9 @@ The troupe primarily works in specific genres for each show.
 So far, their formats have been "Secret Agent Men" ([[Wikipedia - James Bond|James Bond]]), "Two to Beam Up" (*[[Wikipedia - Star Trek|classic Star Trek]]*), and "Elementary, Dear Holmes" (classic [[Wikipedia - Sherlock Holmes|Sherlock Holmes]]).
 
 ## Media
+### Pictures
+* [http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 5/31/12 "Elementary, Dear Holmes" show at *[[The Threefer]]*.
+
 ## More Information
 * [http://www.facebook.com/pages/Danger-Warning-Improv/346798645384312 The troupe's facebook page.]
 
