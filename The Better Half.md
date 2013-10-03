@@ -21,6 +21,8 @@ The Better Half perfected the spank circle, and Regina can never remember what C
 ## Media
 ### Videos
 * [http://vimeo.com/40801627 Video of their 4/19/12 show] at the *[[Free Fringe]]*.
+### Photoset
+* [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Better Half]]
