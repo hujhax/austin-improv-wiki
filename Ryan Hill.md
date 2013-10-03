@@ -20,7 +20,7 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 
 ## Troupes
 * [[In Our Prime]] (2012-Present) 
-* [[The Seven Eight Sevens]] (2012-Present)
+* [[The Seven Eight Sevens]] (2012-2013)
 * [[Apocalypse]] (2012)
 
 
