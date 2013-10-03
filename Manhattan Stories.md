@@ -25,6 +25,9 @@ It originally ran in July/August of 2012 but was extended through September.
 * [http://vimeo.com/47516274 7/28/12]
 * [http://vimeo.com/47680093 8/4/12]
 
+### Photos
+* [http://www.facebook.com/media/set/?set=a.397800070283515.94798.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/14/12 performance.
+
 ### Publicity
 * [http://vimeo.com/45020927 Show trailer.]
 * [http://vimeo.com/47916987 Show trailer] for [[The Out of Bounds Comedy Festival]].
