@@ -8,7 +8,7 @@
 **Mark Carpenter** is an improv performer and instructor who works primarily with [[The New Movement Theater]].
 
 ## Shows
-* *[[Apocalypse]]*
+* *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[Totally Improvised, 90210]]*
 
 ## Troupes
