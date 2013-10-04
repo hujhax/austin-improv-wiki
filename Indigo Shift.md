@@ -8,7 +8,7 @@
 **Indigo Shift** was a musical improv troupe set in a cabaret at the end of the world.
 
 ## Format
-Indigo Shift follows a troupe of performers (Solomon Strange, Anita Deva, and Colin) as they perform one final show for the last night on Earth.  Suggestions are drawn out through discussion of apocalyptic themes with the audience, which are then spun into a series of scenes, stories, and songs loosely threaded together by the banter between the three characters.  
+Indigo Shift followed a troupe of performers (Solomon Strange, Anita Deva, and Colin) as they performed one final show for the last night on Earth.  Suggestions were drawn out through discussion of apocalyptic themes with the audience, which were then spun into a series of scenes, stories, and songs loosely threaded together by the banter between the three characters.  
 
 ## History
 Shortly after [[Jordan T. Maxwell]] announced he was moving back to Austin from Los Angeles, [[Michael Brockman]] approached him about developing a musical format.  Maxwell was inspired at a concert for the Brechtian punk duo [http://en.wikipedia.org/wiki/The_Dresden_Dolls The Dresden Dolls] to create an improvised dystopian cabaret that would take place at the end of the world.  
