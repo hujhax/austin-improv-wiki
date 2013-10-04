@@ -25,7 +25,7 @@ These are the published rules from the 2008 contest[http://forum.austinimprov.co
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=11&t=1187 Forum thread for the 2006 contest.]
-** [http://www.outofboundsimprov.com/2007/scholarship07.html The 2007 Out of Bound site's page about the scholarship, including a description of *Opening Night at the Burton Community Theater*] 
+** [http://www.outofboundsimprov.com/2007/scholarship07.html The 2007 Out of Bounds site's page about the scholarship, including a description of *Opening Night at the Burton Community Theater*] 
 * [http://forum.austinimprov.com/viewtopic.php?f=11&t=4514 Forum thread for the 2007 winners.]
 * [http://forum.austinimprov.com/viewtopic.php?f=11&t=7304 Forum thread for the 2008 contest.]
 * [http://forum.austinimprov.com/viewtopic.php?f=4&t=9589 Forum thread for the 2009 winner.]
