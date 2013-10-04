@@ -5,7 +5,7 @@
 |Years	=		2011-2013
 }}
 
-**Indigo Shift** is a musical improv troupe set in a cabaret at the end of the world.
+**Indigo Shift** was a musical improv troupe set in a cabaret at the end of the world.
 
 ## Format
 Indigo Shift follows a troupe of performers (Solomon Strange, Anita Deva, and Colin) as they perform one final show for the last night on Earth.  Suggestions are drawn out through discussion of apocalyptic themes with the audience, which are then spun into a series of scenes, stories, and songs loosely threaded together by the banter between the three characters.  
