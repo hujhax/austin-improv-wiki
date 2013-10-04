@@ -22,6 +22,7 @@ Jason also works in film and is a special effects artist.
 
 ## Shows
 * *[[After School Improv]]* (Director)
+* *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[The Andersons]]*
 * *[[Cochise]]*
 * *[[Ka-Baam!!]]*
