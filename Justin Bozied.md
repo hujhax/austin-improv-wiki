@@ -21,7 +21,7 @@
 * *[[The Next Chapter]]* (director and performer)
 * *[[Spirited]]*
 * *[[Start Trekkin']]*
-* *[[Apocalypse]]*
+* *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[The Birthday Clusterfunk]]* (host and producer)
 * *[[The Rubber Room]]* (performer and producer)
 * *[[This American Live]]* (guest storyteller)
