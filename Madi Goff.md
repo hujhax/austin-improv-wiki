@@ -22,7 +22,7 @@ She's also performed in LA with iO West's improvised take on *Doctor Who.*
 
 ## Shows
 * *[[69 Love Scenes]]*
-* *[[Apocalypse]]*
+* *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[Crack]]*
 * *[[Dusk]]*
 * *[[Guilds of Steel]]*
