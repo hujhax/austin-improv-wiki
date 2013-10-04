@@ -18,7 +18,7 @@ Fabis was born in Düsseldorf, Germany.
 * [[My Best Fiend]]
 
 ## Shows
-* *[[Apocalypse]]* 
+* *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[The Black Vault]]*
 * *[[Crack!]]*
 * *[[The Derby]]*
