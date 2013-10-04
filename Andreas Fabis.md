@@ -11,7 +11,7 @@ Andreas Fabis is an improv performer.
 Fabis was born in Düsseldorf, Germany.
 
 ## Troupes
-* [[Apocalypse]]
+* [[Apocalypse (troupe)|Apocalypse]]
 * [[Bedfellows]]
 * [[The Escorts]]
 * [[The Foreign Legion]]
