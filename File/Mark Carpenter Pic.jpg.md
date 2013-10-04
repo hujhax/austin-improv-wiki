@@ -1,5 +1,5 @@
 ## Summary
-[[Mark Carpenter]], in a publicity photo for *[[Apocalypse]]*.
+[[Mark Carpenter]], in a publicity photo for *[[Apocalypse! (show)|Apocalypse!]]*
 
 Photo by: [[Roy Moore]].
 
