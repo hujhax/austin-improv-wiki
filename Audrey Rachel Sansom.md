@@ -17,6 +17,7 @@ Audrey was a company member of [[Gnap! Theater Projects]], and directed several 
 
 ## Shows
 * *[[After School Improv]]*
+* *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[Cover to Cover]]* (director)
 * *[[Dusk]]*
 * *[[Guilds of Steel]]*
