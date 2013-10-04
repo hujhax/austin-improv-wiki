@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name	=	Apocalypse (Show)
+|Name	=	Apocalypse! (Show)
 |Picture=	Apocalypse (Show).jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Producer=	[[Gnap! Theater Projects]]
@@ -10,7 +10,7 @@
 }}
 
 :*This page refers to the [[Gnap! Theater Projects]] mainstage show based on post-apocalyptic fiction.  For the similarly-themed troupe that performed a *La Ronde'' set in a post-apocalyptic world, see [[Apocalypse (troupe)]].
-***Apocalypse* (Show)** was an improvised longform mainstage show based on post-acopalyptic stories such as *[[Wikipedia - The Road Warrior|The Road Warrior]]* and *[[Wikipedia - The Walking Dead|The Walking Dead]]*.
+***Apocalypse!* (Show)** refers to ***Apocalpyse!*** (often written all-lower-case: ***apocalypse!***), an improvised longform mainstage show based on post-acopalyptic stories such as *[[Wikipedia - The Road Warrior|The Road Warrior]]* and *[[Wikipedia - The Walking Dead|The Walking Dead]]*.
 
 ## Summary
 The show's concept was to stage a three-act narrative based on postapocalyptic fiction. Each night, one audience member spun the "Apocalypse Wheel" (constructed by [[Michael Thomas]]). Nailed to each wedge of the wheel was an apocalypse type, e.g. zombies, gray goo, meteors. The cast was unaware of the possible apocalypse types, so each night was a surprise to them.
