@@ -17,7 +17,7 @@ She has produced  [[The Ladies Are Funny Festival]] from its inception until 201
 
 ## Shows
 * *[[69 Love Scenes]]*
-* *[[Apocalypse]]*
+* *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[Cover to Cover]]* (co-director)
 * *[[Dusk]]*
 * *[[One More Night]]*
