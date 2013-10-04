@@ -3,7 +3,7 @@
 |Picture=	Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg
 |Theater=	[[The Institution Theater]]
 |Director = [[Heidi Caldwell]]
-|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Allison Asher]] | [[Brett Tribe]] | [[Carissa McAtee]] | [[Chelley Pyatt]] | [[David Zimmerman]] | [[David Zimmerman]] | [[Heidi Caldwell]] | [[James Pound]] | [[James Pound]] | [[Jeremy Logan]] | [[Jeremy Logan]] | [[Justin LaVergne]] | [[Kevin Williamson]] | [[Taylor Overstreet]] }}
+|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Allison Asher]] | [[Brett Tribe]] | [[Carissa McAtee]] | [[Chelley Pyatt]] | [[David Zimmerman]]  | [[Heidi Caldwell]] | [[James Pound]] | [[Jeremy Logan]] | [[Justin LaVergne]] | [[Kevin Williamson]] | [[Taylor Overstreet]] }}
 |Run	=	Feb/Mar 2012
 }}
 ***Live TV Tuesdays: Dr. Horrible's Sing-Along Blog*** refers to the *[[Live TV Tuesdays]]* presentation of [[Wikipedia - Dr. Horrible's Sing-Along Blog|*Dr. Horrible's Sing-Along Blog*]].
