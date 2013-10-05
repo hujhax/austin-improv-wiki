@@ -9,7 +9,7 @@
 |Run	=	Mar/Apr 2010
 }}
 
-:*This page refers to the [[Gnap! Theater Projects]] mainstage show based on post-apocalyptic fiction.  For the similarly-themed troupe that performed a *La Ronde'' set in a post-apocalyptic world, see [[Apocalypse (troupe)]].
+:''This page refers to the [[Gnap! Theater Projects]] mainstage show based on post-apocalyptic fiction.  For the similarly-themed troupe that performed a La Ronde set in a post-apocalyptic world, see [[Apocalypse (troupe)]].
 ***Apocalypse!* (show)** refers to ***Apocalypse!*** (often written all-lower-case: ***apocalypse!***), an improvised longform mainstage show based on post-acopalyptic stories such as *[[Wikipedia - The Road Warrior|The Road Warrior]]* and *[[Wikipedia - The Walking Dead|The Walking Dead]]*.
 
 ## Summary
