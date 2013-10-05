@@ -1,0 +1,22 @@
+{{Infobox Troupe
+|Name	=	Apocalypse (troupe)
+|Picture=	Apocalypse (troupe).jpg
+|Theater=	[[Salvage Vanguard Theater]]
+|Producer=	[[Gnap! Theater Projects]]
+|Director =	[[Andreas Fabis]]
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Brent Unger]] | [[Chad Wellington]] | [[Dana Yanoshak]] | [[Heidi Rogers]] | [[Paul Normandin]] | [[Robin Anderson]] | [[Ryan Hill]] }}<b></b>
+|Years = 2010-2012
+}}
+
+:*This page refers to the troupe that performed a La Ronde set in a post-apocalyptic world.  For the similarly-themed [[Gnap! Theater Projects]] mainstage show, see [[Apocalypse! (show)]].*
+
+**Apocalypse (troupe)** refers to Apocalypse, an improv troupe that performed narratives set in a post-apocalyptic world.
+
+## Summary
+At the start of the show, the troupe got a suggestion from the audience that they made into the reason for the apocalypse.  A [http://wiki.improvresourcecenter.com/index.php?title=La_Ronde La Ronde] established characters and then they went from there in a long-form story.
+
+## History
+[[Andreas Fabis]] founded the troupe after the end of *[[Apocalypse! (show)|Apocalypse!]]*, the similarly-themed show of the same name.  They performed their last show on 12/21/12, the day of the so-called [[Wikipedia - 2012 phenomenon#Apocalypse|"Mayan Apocalypse"]].
+
+## Media
+[[Category/Troupes|Category:Troupes]]
