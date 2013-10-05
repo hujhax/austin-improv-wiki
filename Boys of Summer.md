@@ -66,7 +66,8 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ** Craig Ries
 ** [[Chuy Zarate]]
 ** [[Brently Heilbron]]
-** "Pick-a-Boy" (audience vote)
+** [[Mitch Miller]]
+*** Mitch Miller was the run's "Pick-a-Boy", where a number of possible guests were nominated by Austin improvisors, and then put to an audience vote.
 
 ## Media
 * [http://youtu.be/RAIGgBSf0rA Video] of [[Marc Majcher]] guesting with *Boys of Summer* on 8/9/08.
