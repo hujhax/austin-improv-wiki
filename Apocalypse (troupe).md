@@ -19,4 +19,11 @@ At the start of the show, the troupe got a suggestion from the audience that the
 [[Andreas Fabis]] founded the troupe after the end of *[[Apocalypse! (show)|Apocalypse!]]*, the similarly-themed show of the same name.  They performed their last show on 12/21/12, the day of the so-called [[Wikipedia - 2012 phenomenon#Apocalypse|"Mayan Apocalypse"]].
 
 ## Media
+### Videos
+* [http://vimeo.com/50120574 Video] by [[Peter Rogers]] of their 9/21/12 show.
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 5/31/12 performance in *[[The Threefer]]*.
+
+
 [[Category/Troupes|Category:Troupes]]
