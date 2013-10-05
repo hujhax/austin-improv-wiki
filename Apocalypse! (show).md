@@ -54,6 +54,10 @@ In addition, [[Sarah Marie Curry]] and [[Courtney Hopkin]] appeared as guest cas
 
 ## Media
 ### Photos
+* [http://www.facebook.com/hypersuit/media_set?set=a.390777798656.156386.675498656&type=3 Photoset]  by [[Courtney Hopkin]] of the 3/26/10 and 3/27/10 performances.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1220926575189.2027811.1589679282&type=3 Photoset]  by [[Roy Moore]] of the 4/3/10 performance.
+* [http://www.facebook.com/andreas.fabis/media_set?set=a.395509120616.163768.607595616&type=3 Photoset]  by [[Andreas Fabis]] of the 4/10/10 performance.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1232321100045.2028901.1589679282&type=3 Photoset]  by [[Roy Moore]] of the 4/16/10 performance.
 * [http://www.flickr.com/photos/9022071@N03/sets/72157623902695136/ Photoset]  by [[Brandon Salinas]] of the 4/17/10 performance.
 
 ### Publicity
