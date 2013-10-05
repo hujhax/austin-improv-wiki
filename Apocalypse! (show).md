@@ -15,7 +15,7 @@
 ## Summary
 The show's concept was to stage a three-act narrative based on postapocalyptic fiction. Each night, one audience member spun the "Apocalypse Wheel" (constructed by [[Michael Thomas]]). Nailed to each wedge of the wheel was an apocalypse type, e.g. zombies, gray goo, meteors. The cast was unaware of the possible apocalypse types, so each night was a surprise to them.
 
-For the final performance, since they had not had "zombies" as an apocalypse scenario for the entire run, the wheel was secretly loaded with eight different types of zombie scenarios, each of which was then covered them with other non-zombie suggestions.
+For the final performance, since they had not had "zombies" as an apocalypse scenario for the entire run, the wheel was secretly loaded with eight different types of zombie scenarios, each of which was then covered with other non-zombie suggestions.  After the wheel stopped spinning, the true (i.e., zombie) scenario was then revealed.
 
 The show's structure was heavily influenced by *[[Wikipedia - The Road Warrior|The Road Warrior]]*, in which a lone hero meets a band of survivors and acquires a sidekick/love interest/protégé. That hero then meets a band of villains who threaten the initial survivors, hero, or protégé. The hero is brought low, then must rise up to conquer the villains. 
 
