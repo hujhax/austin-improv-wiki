@@ -54,6 +54,7 @@ Local Genius Society formed in late 2010 by a group of improv students from [[Th
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.248623315201192.64136.221927764537414&type=3 Their 12/1/11 show] at *[[The Threefer]]* (photoset by [[Steve Rogers]]).
+* [http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
 
 ## More Information
 * [http://www.facebook.com/localgeniussociety The troupe's facebook page.]
