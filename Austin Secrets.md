@@ -82,6 +82,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Valerie Ward]]
 
 ## Media
+### Videos
 * [http://vimeo.com/11071577 Video of the 2/27/10 performance.]
 * [http://vimeo.com/19663599 Video of the 2/5/11 performance.]
 * [http://vimeo.com/20532380 Video of the 2/19/11 performance.]
@@ -90,6 +91,9 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://vimeo.com/54682393 Video of the 11/17/12 performance.]
 * [http://vimeo.com/54237354 Video of the 11/24/12 performance.]
 * [http://vimeo.com/54746832 Video of the 12/1/12 performance.]
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.451551858241669.109988.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/24/12 performance.
 
 ## Notes
 <references/>
