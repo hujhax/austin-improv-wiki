@@ -44,7 +44,8 @@ After its mainstage run, there were a number of one-off shows:
 * [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[Pick Your Own Path]]* at *[[The Free Fringe]]*), from 5/23/13.
 * [http://vimeo.com/70318263 Video of the 6/22/13 performance], part of [[The 44-Hour Improv Marathon]].
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset of 10/27/12 performance.]
+* [http://www.facebook.com/media/set/?set=a.418383731558482.101763.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/8/12 performance.
+* [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/27/12 performance.
 
 [[Category/Shows|Black Vault]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
