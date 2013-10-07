@@ -149,7 +149,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://vimeo.com/69028237 Hour 19: *Charles Dickens Unleashed*]
 * [http://vimeo.com/69001828 Hour 23: Girls Girls Girls]
 ** Unfortunately, we were only able to get the first 15 minutes or so of this show.
-* [http://vimeo.com/70460663 Hour 25: *Pick Your Own Path*]
+* [http://vimeo.com/70460663 Hour 24: *Pick Your Own Path*]
 * [http://vimeo.com/69104964 Hour 25: ESL with The Amazon and the Milksop]
 * [http://vimeo.com/69454380 Hour 29: Confidence Men]
 * Hour 32: The Black Vault
