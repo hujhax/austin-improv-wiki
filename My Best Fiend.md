@@ -21,11 +21,10 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 *"Wunderfisch" [http://www.youtube.com/watch?v=vUtpOyVSfRM Video]
 *"Der Stille Winterwald" [http://www.youtube.com/watch?v=uPkwf693jaE Video]
 *"Der Wolf in den Bergen" [http://vimeo.com/42396160 Video]
-* [http://vimeo.com/76356598 9/27/13 performance] at [[The 2013 Out of Bounds Comedy Festival]] ("The Salmon That Was").
+*"Die gewesene Sardine": [http://vimeo.com/76356598 9/27/13 performance] at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 *[http://www.facebook.com/klausandwerner My Best Fiend facebook page]
-*"Die gewesene Sardine" (OOB 2013)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
