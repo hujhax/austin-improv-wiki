@@ -4,7 +4,7 @@
   |Theater  = [[Salvage Vanguard Theater]]
   |Producer  = [[Gnap! Theater Projects]]
   |Cast     = Various
-  |Picture  = The Saturday Night Special Publicity.jpg
+  |Picture  = The Saturday Night Special Publicity.gif
   |Run    = 2008-2012
 }}
 
