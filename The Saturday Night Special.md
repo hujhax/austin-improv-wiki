@@ -22,6 +22,6 @@ Its final performance was on 12/22/12.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=54901 The announcement] on [[The Austin Improv Forums]] of the show's debut.
-* [http://forum.austinimprov.com/viewtopic.php?p=90812 The announcement] that on [[The Austin Improv Forums]] *[[Heist!]]* will open *The Saturday Night Special* in March 2010.
+* [http://forum.austinimprov.com/viewtopic.php?p=90812 The announcement] on [[The Austin Improv Forums]] that *[[Heist!]]* was opening *The Saturday Night Special* in March 2010.
 
 [[Category/Shows|Saturday Night Special]]
