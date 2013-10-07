@@ -29,3 +29,4 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
+[[Category/Started as a Fringe Show‎|Category:Started as a Fringe Show‎]]
