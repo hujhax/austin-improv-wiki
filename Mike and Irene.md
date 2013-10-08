@@ -7,6 +7,10 @@
 
 **Mike and Irene** is an improv duo.
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.593334920730028.1073741931.221927764537414&type=3 A photoset] by [[Steve Rogers]] of their 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
+
 ## More Information
 * [http://www.facebook.com/mikeandireneimprov The duo's facebook page.]
 
