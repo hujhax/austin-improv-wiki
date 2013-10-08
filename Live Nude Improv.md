@@ -58,6 +58,12 @@ After the end of its run, *Live Nude Improv* discussed doing subsequent runs, bu
 * 8/27/11: "Days of Our Lives"
 
 ## Media
+### Videos
+Videography was expressly forbidden at *Live Nude Improv*, so there are no extant videos of the show.
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.525820724148115.1073741858.221927764537414&type=3 A SFW photoset] by [[Steve Rogers]] of their 4/13/13 performance at [[The 2013 Improvised Play Festival]].
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/livenudeimprov The show's web site.]
 * [http://www.hideouttheatre.com/thoughts-on-live-nude-improv "Thoughts on Live Nude Improv"]: a blog post interviewing the cats on why they chose to participate in *Live Nude Improv*.
