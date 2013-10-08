@@ -26,12 +26,18 @@ The show was included in *[[The Hideout Improv Marathon]]* several times before 
 Unfortunately, the video production schedule required for *The Nightmare Video Project* became untenable, and [[Roy Janik]] retired the format in January of 2012.
 
 ## Media
-* [http://youtu.be/_CoDebTOMu4 Promo Video.]
+### Videos
 * 5/20/11: [http://vimeo.com/24094909 Video.]
 * 6/7/11: [http://vimeo.com/25373377 Video.]
 * 7/29/11: [http://vimeo.com/27131686 Video.]
 * 9/23/11: [http://vimeo.com/29569007 Video.]
 * 10/21/11: [http://vimeo.com/30999738 Video.]
+
+### Photos =
+* [http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3 Photoset] by [[Steve Rogers]] of its 6/4/11 performance in [[The 42-Hour Improv Marathon]].
+
+### Publicity
+* [http://youtu.be/_CoDebTOMu4 Promo Video.]
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/nightmarevideoproject The show's web page.]
