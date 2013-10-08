@@ -3,7 +3,7 @@
 |Picture = 	Dance_Battle.jpg
 |Theater=	[[The Hideout Theatre]]
 |Cast=		Varies
-|Director =	[[Ryan Austin]]	
+|Director =	[[Lacy Shawn]]	
 |Run	=	Oct 2010-Present
 }}
 ***The Fancy-Pants Mashup*** is a shortform show featuring two-person scenes.
