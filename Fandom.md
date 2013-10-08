@@ -30,6 +30,7 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 * 3/7/13: "Fandom Fringe" night (*Ghostbusters*, *Sherlock*, and *South Park*)
 
 ## Media
+### Videos
 * [http://vimeo.com/57198694 Video of the 1/5/13 show (*Buffy the Vampire Slayer*).]
 * [http://vimeo.com/57359770 Video of the 1/12/13 show (*The Lord of the Rings*).]
 * [http://vimeo.com/57836379 Video of the 1/19/13 show (*Batman*).]
@@ -39,6 +40,14 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 * [http://vimeo.com/60057414 Video of the 8pm 2/16/13 show (*Harry Potter*).]
 * Videos of [http://vimeo.com/60635127 games] and [http://vimeo.com/60476344 narrative] from the 2/23/13 performance (*Firefly*).
 * [http://vimeo.com/61370613 Video of *Fandom* night at the Free Fringe.]
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.470833459646842.113816.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/5/13 show (*Buffy the Vampire Slayer*).
+* [http://www.facebook.com/media/set/?set=a.477942988935889.114948.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/19/13 show (*Batman*).
+* [http://www.facebook.com/media/set/?set=a.486940854702769.115717.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/2/13 show (Classic Nintendo).
+* [http://www.facebook.com/media/set/?set=a.491315270931994.116331.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/9/13 show (*Star Wars*).
+** [http://www.facebook.com/media/set/?set=a.491557640907757.116359.221927764537414&type=3 Photoset] of [[Paul Marino]] as Boba Fett at the event.
+* [http://www.facebook.com/media/set/?set=a.494601140603407.116693.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/16/13 shows (*Harry Potter*).
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
