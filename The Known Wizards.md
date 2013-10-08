@@ -14,6 +14,7 @@ The troupe was founded in conjunction with Merlin Works' move from [[Salvage Van
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.472343332829188.114046.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 1/10/13 dress rehearsal.
+* [http://www.facebook.com/media/set/?set=a.537592239637630.1073741866.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 5/12/13 performance at [[ZACH Theater]].
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Known Wizards]]
