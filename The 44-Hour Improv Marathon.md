@@ -134,6 +134,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://www.facebook.com/media/set/?set=a.10151445124280793.1073741853.666390792&type=1 A photoset] by [[Dave Alley]] of hours 25-29 and 43-44.
 * [http://www.facebook.com/media/set/?set=a.555620097834844.1073741882.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hours 30 and 31.
 ** [http://www.facebook.com/media/set/?set=a.555618604501660.1073741881.221927764537414&type=3 A separate photoset] of the same hours which is all solo shots of [[Cat Drago]].
+** [http://www.facebook.com/media/set/?set=a.555615611168626.1073741880.221927764537414&type=3 A separate photoset] of the same hours which is devoted solely to the show's opening samurai battle.
 * [http://www.facebook.com/media/set/?set=a.556512987745555.1073741885.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 32.
 * [http://www.facebook.com/media/set/?set=a.556099991120188.1073741884.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 33.
 
