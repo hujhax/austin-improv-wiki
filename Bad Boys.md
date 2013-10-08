@@ -31,6 +31,7 @@ Bad Boys currently has an open-ended run on Friday nights at [[ColdTowne Theater
 * [http://www.facebook.com/media/set/?set=a.323769481019908.79466.221927764537414&type=3 Photoset of their 3/22/12 show] at *[[The Threefer]]* by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
+* [http://www.facebook.com/media/set/?set=a.584113118318875.1073741912.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/16/13 performance.
 
 ## More Info
 * [http://badboysimprov.tumblr.com Bad Boys' Website]
