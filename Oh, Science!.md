@@ -22,6 +22,7 @@ Oh, Science! has performed at [[The Out of Bounds Comedy Festival]] and at The D
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.323769481019908.79466.221927764537414&type=3 Photoset of their 3/22/12 show] at *[[The Threefer]]* by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/media/set/?set=a.591899984206855.1073741921.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/4/13 performance at [[ColdTowne Theater]].
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
