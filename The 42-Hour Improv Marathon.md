@@ -55,37 +55,40 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 * Sunday 11am: "The Final Countdown", free-form improv with the core improvisors
 
 ## Media
+### Videos
+* [http://vimeo.com/24983412 Video of hour 5] with [[Parallelogramophonograph]]
+* [http://vimeo.com/25015231 Video of hour 8] with [[Sarah 7]]
+* [http://vimeo.com/25332777 Video of hour 9] with [[Three Hot Chicks]]
+* [http://vimeo.com/24973753 Video of hour 10] with [[The Intentions]]
+* Videos of hour 21 with [[Confidence Men]]:
+** Scene #1, [[Jason Vines]] and [[Troy Miller]], [http://vimeo.com/24965887 "Women at the Bar"] 
+** Scene #2, [[Asaf Ronen]] and [[Mike Ferstenfeld]], [http://vimeo.com/24967781 "Tchaikovsky"] 
+** Scene #3,  [[Jordan T. Maxwell]] and [[Peter Rogers]], [http://vimeo.com/24967846 "Turtles"] 
+** Scene #4, [[Karen Jane DeWitt]] and [[Lisa Jackson]], [http://vimeo.com/24967941 "God"] 
+** Scene #5, [[Andy Crouch]] and [[Christopher Allen]], [http://vimeo.com/24968081 "Wigs"] 
+** Scene #6, [http://theimprobox.com/tim-redmond/ Tim Redmond] and [[Troy Miller]], [http://vimeo.com/24968289 "Waiting"] 
+** Scene #7, [[Jeff Britt]] and [[Lisa Jackson]], [http://vimeo.com/24968387 "Intermission"] 
+** Scene #8, [[Jason Vines]] and [[Mike Ferstenfeld]], [http://vimeo.com/24969210 "Dreams"] 
+** Scene #9, [[Andy Crouch]] and [[Asaf Ronen]], [http://vimeo.com/24968732 "Seventh Billing"] 
+** Scene #10, [[Jordan T. Maxwell]] and [[Karen Jane DeWitt]], [http://vimeo.com/24968810 "Double Trouble"] 
+** Scene #11, [[Christopher Allen]] and [[Peter Rogers]], [http://vimeo.com/24968915 "High-Wire Act"] 
+** Scene #12, [[Jeff Britt]] and [[Jason Vines]], [http://vimeo.com/24968983 "Integrity"] 
+** Scene #13, [[Asaf Ronen]] and [[Lisa Jackson]], [http://vimeo.com/24969077 "Hank Charlie"] 
+** Scene #14, [[Mike Ferstenfeld]], [[Troy Miller]], & [http://theimprobox.com/tim-redmond/ Tim Redmond], [http://vimeo.com/24969097 "Tourists"] 
+* [http://vimeo.com/25373290 Video of hour 41] with [[Improvised Shakespeare]]
+* [http://vimeo.com/24979661 Video of hour 42]
+
+### Photos
 * Photosets of [http://www.facebook.com/media/set/?set=a.2021040415803.120215.1537720942&type=3 hours 0 and 1], as well as [http://www.facebook.com/media/set/?set=a.2021301582332.120233.1537720942&type=3 hours 2 and 3] from [[Lorraine DeNardis]].
 * [http://www.facebook.com/media/set/?set=a.863884206963.2357098.209898&type=3 Photoset of hours 20, 21, and 22] from [[Nicole Beckley]].
-* [http://www.facebook.com/media/set/?set=a.562180183845502.1073741892.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 23.
-* [http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 24.
-* [http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 26.
+* [http://www.facebook.com/media/set/?set=a.562180183845502.1073741892.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 23 with [[Happy Butter]].
+* [http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 24 with [[The Knuckleball Now]].
+* [http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 25 with *[[Start Trekkin']]*.
+* [http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 26 with *[[The Nightmare Video Project]]*.
 * Overall photosets:
 ** [http://www.facebook.com/media/set/?set=a.1724964966691.86123.1315383518&type=3 Photoset] from [[Michael Yew]].
 ** [http://www.facebook.com/media/set/?set=a.10100679445652283.3052072.2230063&type=3 Photoset]  from [[Shruti Saran]].
 ** [http://www.facebook.com/media/set/?set=a.227294783964236.77228.167352376625144&type=3 Photoset] from [[Menelaos Prokos]].
-* Videos:
-** [http://vimeo.com/24983412 Video of hour 5] with [[Parallelogramophonograph]]
-** [http://vimeo.com/25015231 Video of hour 8] with [[Sarah 7]]
-** [http://vimeo.com/25332777 Video of hour 9] with [[Three Hot Chicks]]
-** [http://vimeo.com/24973753 Video of hour 10] with [[The Intentions]]
-** Videos of hour 21 with [[Confidence Men]]:
-*** Scene #1, [[Jason Vines]] and [[Troy Miller]], [http://vimeo.com/24965887 "Women at the Bar"] 
-*** Scene #2, [[Asaf Ronen]] and [[Mike Ferstenfeld]], [http://vimeo.com/24967781 "Tchaikovsky"] 
-*** Scene #3,  [[Jordan T. Maxwell]] and [[Peter Rogers]], [http://vimeo.com/24967846 "Turtles"] 
-*** Scene #4, [[Karen Jane DeWitt]] and [[Lisa Jackson]], [http://vimeo.com/24967941 "God"] 
-*** Scene #5, [[Andy Crouch]] and [[Christopher Allen]], [http://vimeo.com/24968081 "Wigs"] 
-*** Scene #6, [http://theimprobox.com/tim-redmond/ Tim Redmond] and [[Troy Miller]], [http://vimeo.com/24968289 "Waiting"] 
-*** Scene #7, [[Jeff Britt]] and [[Lisa Jackson]], [http://vimeo.com/24968387 "Intermission"] 
-*** Scene #8, [[Jason Vines]] and [[Mike Ferstenfeld]], [http://vimeo.com/24969210 "Dreams"] 
-*** Scene #9, [[Andy Crouch]] and [[Asaf Ronen]], [http://vimeo.com/24968732 "Seventh Billing"] 
-*** Scene #10, [[Jordan T. Maxwell]] and [[Karen Jane DeWitt]], [http://vimeo.com/24968810 "Double Trouble"] 
-*** Scene #11, [[Christopher Allen]] and [[Peter Rogers]], [http://vimeo.com/24968915 "High-Wire Act"] 
-*** Scene #12, [[Jeff Britt]] and [[Jason Vines]], [http://vimeo.com/24968983 "Integrity"] 
-*** Scene #13, [[Asaf Ronen]] and [[Lisa Jackson]], [http://vimeo.com/24969077 "Hank Charlie"] 
-*** Scene #14, [[Mike Ferstenfeld]], [[Troy Miller]], & [http://theimprobox.com/tim-redmond/ Tim Redmond], [http://vimeo.com/24969097 "Tourists"] 
-** [http://vimeo.com/25373290 Video of hour 41] with [[Improvised Shakespeare]]
-** [http://vimeo.com/24979661 Video of hour 42]
 
 ## More Information
 * The schedule announcement, [http://forum.austinimprov.com/viewtopic.php?t=11947&p=107065 on the forums] and [http://www.hideouttheatre.com/42-hour-improv-marathon-schedule on the Hideout web site].
