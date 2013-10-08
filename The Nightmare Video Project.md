@@ -33,7 +33,7 @@ Unfortunately, the video production schedule required for *The Nightmare Video P
 * 9/23/11: [http://vimeo.com/29569007 Video.]
 * 10/21/11: [http://vimeo.com/30999738 Video.]
 
-### Photos =
+### Photos
 * [http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3 Photoset] by [[Steve Rogers]] of its 6/4/11 performance in [[The 42-Hour Improv Marathon]].
 
 ### Publicity
