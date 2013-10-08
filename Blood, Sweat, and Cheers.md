@@ -46,6 +46,9 @@ Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25
 * [http://vimeo.com/67621275 Video of 6/2/13 show.]
 * [http://vimeo.com/68640834 Video of 6/6/13 show.]
 
+### Photos
+* [http://www.facebook.com/media/set/?set=a.546330938763760.1073741876.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/2/13 performance.
+
 ### Publicity
 * [http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3 Promo photo shoot] by [[Jon Bolden]].
 
