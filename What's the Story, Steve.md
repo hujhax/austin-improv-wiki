@@ -14,7 +14,11 @@ Featuring Steve the Improvising Poodle, WTSS shows introduce Steve as both the h
 ## History
 The troupe was founded in August of 2011.
 
-It has performed in [[The 2012 Out of Bounds Comedy Festival]] and [[The 43-Hour Improv Marathon]].
+It has performed in [[The 2012 Out of Bounds Comedy Festival]], [[The 43-Hour Improv Marathon]], and [[The 44-Hour Improv Marathon]].
+
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.591956450867875.1073741927.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/30/13 performane at [[The ColdTowne Marathon]].
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
