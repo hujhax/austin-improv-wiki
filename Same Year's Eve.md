@@ -13,5 +13,6 @@ The event was first held in 2007.
 * [http://vimeo.com/56655614 Video of Same Year's Eve 2012.]
 
 ### Photos
+* Photosets by [[Roy Moore]] of the Same Year's Eve 2009 [http://www.facebook.com/roy.moore/media_set?set=a.1152271138846.2020691.1589679282&type=3 show] and [http://www.facebook.com/roy.moore/media_set?set=a.1152849433303.2020782.1589679282&type=3 afterparty].
 * [http://www.facebook.com/media/set/?set=a.266768773386646.67745.221927764537414&type=3 Same Year's Eve 2011 photoset] (by [[Steve Rogers]]).
 * Same Year's Eve 2012: [http://www.facebook.com/media/set/?set=a.467317639998424.113152.221927764537414&type=3 candids and warm-ups], [http://www.facebook.com/media/set/?set=a.467320109998177.113153.221927764537414&type=3 group 1], [http://www.facebook.com/media/set/?set=a.467323289997859.113154.221927764537414&type=3 group 2], [http://www.facebook.com/media/set/?set=a.467327929997395.113155.221927764537414&type=3 group 3 and afterparty] (by [[Steve Rogers]]).
