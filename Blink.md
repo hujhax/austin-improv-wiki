@@ -13,6 +13,7 @@
 * [http://www.facebook.com/roy.moore/media_set?set=a.1221672153828.2027915.1589679282&type=3 Photoset] by [[Roy Moore]] of their 4/3/10 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1226449233252.2028347.1589679282&type=3 Photoset] by [[Roy Moore]] of their 4/10/10 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1236039433001.2029601.1589679282&type=3 Photoset] by [[Roy Moore]] of their 4/17/10 performance in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 5/31/10 performance in *[[The Monday Night Mash]]*.
 * [http://www.facebook.com/media/set/?set=a.1280492264294.2033519.1589679282&type=1 Photoset] by [[Roy Moore]] of their 6/12/10 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.1335337155382.2040417.1589679282&type=1 Photoset] by [[Roy Moore]] of their 8/19/10 performance in *[[The Threefer]]*.
 
