@@ -26,6 +26,7 @@ Junk performed its 100th show on 12/22/12.
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1137160881099.2019048.1589679282&type=3 Photoset] by [[Roy Moore]] of their 12/4/09 show.
 * [http://www.facebook.com/media/set/?set=a.1280492264294.2033519.1589679282&type=1 Photoset] by [[Roy Moore]] that includes their 6/12/10 performance in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1313301724510.2038344.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 7/24/10 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.465998583463663.112885.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 100th show, on 12/22/12.
 
