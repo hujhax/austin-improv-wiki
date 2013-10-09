@@ -1,6 +1,6 @@
 ![[Hideout Text Adventure Gamplay.jpg|Sample gameplay from The Hideout Text Adventure.]]
 
-**The Hideout Text Adventure** (actual title: *The Hideout Theatre Adventures: Quest for the Secret Skull*) is an [[Wikipedia - Interactive fiction|interactive-fiction]] game that takes place in and around [[The Hideout Theatre]].
+**The Hideout Text Adventure** (actual title: ***The Hideout Theatre Adventures: Quest for the Secret Skull***) is an [[Wikipedia - Interactive fiction|interactive-fiction]] game that takes place in and around [[The Hideout Theatre]].
 
 ## History
 The game originated in a facebook discussion on January 9th, 2012 about setting up a possible text-adventure-themed show at the Hideout, a production that could be paired with *[[Pick Your Own Path]]*.
