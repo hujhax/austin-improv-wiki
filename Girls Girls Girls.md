@@ -103,9 +103,10 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://vimeo.com/69001828 Video of the first fifteen minutes of their 6/22/13 show,] part of [[The 43-Hour Improv Marathon]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.257845284278995.65486.221927764537414&type=3 Photoset of their 12/3/11 performance] in *[[The Saturday Night Special]]* (photos by [[Steve Rogers]]).
-* [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset of the 5/5/12 show] which they shared with [[Confidence Men]] (photos by [[Steve Rogers]]).
-* [http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3 Photoset of their 7/21/12 performance] of *[[Boys of Summer]]* featuring guest boy [[Clay Towery]] (photos by [[Steve Rogers]]).
+* [http://www.facebook.com/roy.moore/media_set?set=a.1221978361483.2027946.1589679282&type=3 Photoset] by [[Roy Moore]] of their 4/3/10 performance in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/media/set/?set=a.257845284278995.65486.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 12/3/11 performance in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/5/12 show which they shared with [[Confidence Men]].
+* [http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 7/21/12 performance of *[[Boys of Summer]]*, featuring guest boy [[Clay Towery]].
 
 ## More Information
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
