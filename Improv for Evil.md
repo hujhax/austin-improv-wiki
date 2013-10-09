@@ -23,7 +23,7 @@ After two years of relative inactivity, the troupe performed their final show at
 * [http://youtu.be/Z1FhlDnIInI Video of the troupe's first show], as part of *[[The Threefer]]*.
 
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1116285479227.2016637.1589679282&type=3 Photoset] by [[Steve Rogers]] of their 10/31/09 performance.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1116285479227.2016637.1589679282&type=3 Photoset] by [[Roy Moore]] of their 10/31/09 performance.
 
 ## More Information
 * [http://www.improvforevil.com/ The troupe's web site.]
