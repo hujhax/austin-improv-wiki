@@ -30,7 +30,7 @@ After the troupe was dissolved, [[Susannah Raulino]], [[Topping Haggerty]], and 
 * [http://vimeo.com/21022057 Video] by [[Peter Rogers]] of their 3/11/11 performance with [[Girls Girls Girls]].
 * [http://vimeo.com/21601065 Video] by [[Peter Rogers]] of their 3/24/11 performance at [[Salvage Vanguard Theater]].
 * [http://vimeo.com/22143713 Video] by [[Peter Rogers]] of their 4/7/11 performance at [[The Hideout Theatre]].
-* [http://vimeo.com/28875521 Video] by [[Peter Rogers]] of their 9/1/11 performance at [[The Hideout Theatre]].
+* [http://vimeo.com/28875521 Video] by [[Peter Rogers]] of their final show, their 9/1/11 performance at [[The 2011 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1308342800540.2037332.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 7/17/10 performance at *[[The Saturday Night Special]]*.
