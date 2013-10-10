@@ -80,6 +80,8 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3 Photoset] by [[Roy Moore]] of the 1/9/10 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1199698684505.2025888.1589679282&type=3 Photoset] by [[Roy Moore]] of the 3/7/10 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1216743030603.2027415.1589679282&type=3 Photoset] by [[Roy Moore]] of the 3/27/10 Maestro.
+* [http://www.flickr.com/photos/oob_pics/sets/72157624879000746/ Photoset] by [[Nadine Latief]] of the 9/3/10 All-Star Maestro at [[The 2010 Out of Bounds Comedy Festival]].
+** [http://www.facebook.com/roy.moore/media_set?set=a.1349973521282.2049911.1589679282&type=3 Another photoset] by [[Roy Moore]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3 6/2/12 Maestro.] (from [[The 43-Hour Improv Marathon]])
 * [http://www.facebook.com/media/set/?set=a.478638782199643.115019.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/19/13 Maestro.
 
