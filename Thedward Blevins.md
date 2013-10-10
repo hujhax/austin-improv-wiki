@@ -10,7 +10,7 @@ He began studying improv at [[The Hideout Theatre]] in November of 2009 and has 
 
 Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], [http://www.diveaustin.com/ Dive Bar] and the [http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum Umlauf Sculpture Garden].
 
-He has been performing regularly since 2010 and is a cast member of *[[Flying Theater Machine]]*.
+He has been performing regularly since 2011 and is a regular cast member of *[[Flying Theater Machine]]*.
 
 ## Shows
 * *[[The Derby]]* (2011-2012)
