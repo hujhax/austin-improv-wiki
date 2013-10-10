@@ -34,6 +34,7 @@ After the troupe was dissolved, [[Susannah Raulino]], [[Topping Haggerty]], and 
 
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1308342800540.2037332.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 7/17/10 performance at *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1330574876328.2040082.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/14/10 performance at *[[The Saturday Night Special]]*.
 
 ## More Information
 * [http://dancy.austinimprov.co The troupe's web site.]
