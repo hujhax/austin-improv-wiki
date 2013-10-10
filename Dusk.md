@@ -143,6 +143,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3 Photoset] by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3 Photoset] by [[Roy Moore]] of their 10/29/10 show at [[Salvage Vanguard Theater]].
+* [http://www.facebook.com/roy.moore/media_set?set=a.1435556900813.2056609.1589679282&type=3 Photoset] by [[Roy Moore]] of their 11/19/10 show at [[Salvage Vanguard Theater]].
 
 ### Publicity
 * "Bella Picks a Team" promo: [http://youtu.be/FtYlYgi1VFk part 1], [http://youtu.be/vMB-7BVfcJM part 2], [http://youtu.be/WtXFzyyBuRg part 3], [http://youtu.be/V5BQAFlib_g part 4].
