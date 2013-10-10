@@ -21,6 +21,7 @@ These are phrases you will never, ever hear applied to Austin's You're Not My Re
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.481887847264.251804.588952264&type=1 A photoset] by [[Peter Rogers]] of their 9/1/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
+** [http://www.facebook.com/roy.moore/media_set?set=a.1346865163575.2043493.1589679282&type=3 Another photoset of the show] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1 Photoset] by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.10150538747644090.404340.273514734089&type=1 Photoset of their 1/14/12 show.]
 * [http://www.facebook.com/media/set/?set=a.414658608597661.100647.221927764537414&type=1 Photoset] by [[Steve Rogers]] which includes their 8/30/12 show at [[The 2012 Out of Bounds Comedy Festival]].
