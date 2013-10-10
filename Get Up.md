@@ -13,6 +13,7 @@ Get Up members [[Shana Merlin]] and [[Shannon McCormick]] have been working toge
 ## Media
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1330574876328.2040082.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/14/10 performance at *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1337793056778.2040655.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/21/10 performance at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.466006816796173.112887.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 12/22/12 show at the last *[[Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.522987541098100.1073741852.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/12/13 show at [[The 2013 Improvised Play Festival]].
 
