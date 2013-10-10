@@ -29,12 +29,14 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * Ensemble -- [[Curtis Luciani]], [[Dav Wallace]], [[Deana Ricks]], [[Indigo Rael]], [[Jared Stepp]], [[Justin York]], [[Kacey Samiee]], [[Valerie Ward]]
 
 ## Media
-* [http://youtu.be/3GjaTWZi6Kg A video promo for the show.]
+### Photos
 * [http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=3 A photoset including the 5/1/10 show] by [[Michael Yew]]
 * [http://www.facebook.com/media/set/?set=a.441737982264.214512.588952264&type=3 A photoset of the 5/15/10 show] by [[Peter Rogers]].
-* [http://www.facebook.com/media/set/?set=a.1338708039652.2040736.1589679282&type=3 A photoset of the 8/22/10 show] by [[Roy Moore]].
+* [http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
 * [http://www.facebook.com/media/set/?set=a.1344776671364.2041272.1589679282&type=3 A photoset of the 8/29/10 show]  by [[Roy Moore]]
 * [http://www.facebook.com/media/set/?set=a.1633431608865.84097.1628915954&type=3 A photoset of the 12/18/10 show] by [[Deano Jones]].
+### Publicity
+* [http://youtu.be/3GjaTWZi6Kg A video promo for the show.]
 
 ## More Information
 * [http://hideouttheater.com/shows/theandersons The show's web page.]
