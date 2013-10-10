@@ -133,14 +133,20 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [[Shana Merlin]]
 
 ## Media
-* "Bella Picks a Team" promo: [http://youtu.be/FtYlYgi1VFk part 1], [http://youtu.be/vMB-7BVfcJM part 2], [http://youtu.be/WtXFzyyBuRg part 3], [http://youtu.be/V5BQAFlib_g part 4].
-* [http://vimeo.com/16279072 Video interview] with [[Katie Thornton]] about the show.
-* [http://vimeo.com/16178759 Video interview] with [[Shana Merlin]] about the show.
+### Videos
 * Video of opening night (10/23/09): [http://vimeo.com/16185444 part 1], [http://vimeo.com/16533754 part 2].
 * [http://vimeo.com/9117551 Video] of the opening of the 11/13/09 show.
 * [http://vimeo.com/10691457 Video] of their 4/1/10 show (a warm-up for their Chicago festival appearance).
 * Video of their 9/23/10 show: [http://vimeo.com/29566603 part 1], [http://vimeo.com/30286429 part 2].
 * Video of their 9/24/10 show: [http://vimeo.com/30947551 part 1], [http://vimeo.com/31256790 part 2].
+
+### Photos
+* [http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3 Photoset] by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
+
+### Publicity
+* "Bella Picks a Team" promo: [http://youtu.be/FtYlYgi1VFk part 1], [http://youtu.be/vMB-7BVfcJM part 2], [http://youtu.be/WtXFzyyBuRg part 3], [http://youtu.be/V5BQAFlib_g part 4].
+* [http://vimeo.com/16279072 Video interview] with [[Katie Thornton]] about the show.
+* [http://vimeo.com/16178759 Video interview] with [[Shana Merlin]] about the show.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=9800 The announcement of season 1] on [[The AIC Forums]].
