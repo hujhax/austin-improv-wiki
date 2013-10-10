@@ -23,6 +23,9 @@ Anyway, they had so much fun entertaining each other that it seems like destiny 
 Asaf Ronen, Tom Booker and Jeff Britt have about one thousand years of combined improv experience. All three of them are members of the multi-award winning [[Confidence Men]]. One of them studied with Del Close. Another one of them was the founder of YesAnd.com. And the third one is Jeff."</P></blockquote>
 
 ## Media
+### Photos
+* [http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3 Photoset]  by [[Roy Moore]] that includes their 9/16/10 performance in *[[The Threefer]]*.
+
 ## More Information
 * [http://vimeo.com/22766356 Video of a 2012 performance.]
 
