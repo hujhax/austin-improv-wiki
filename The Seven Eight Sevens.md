@@ -7,7 +7,7 @@
 |Years	=		2012-2013
 }}
 
-**The Seven Eight Sevens** are an improv troupe.
+**The Seven Eight Sevens** were an improv troupe.
 
 ## History
 The troupe was originally cast as a [[Gnap!]] house troupe by [[Jason Finkelman]] from a [[Merlin Works Mixer]]. Jason wanted to direct a troupe that based its improv on the "Big and Colorful Characters of Austin." His vision was influenced by the television show *[[Wikipedia - Portlandia (TV series)|Portlandia]]*. He originally cast [[Andrew Buck]], [[Scott Hearne]], [[Ryan Hill]], [[Emma Holder]], [[Mia Iseman]], [[Ashlee Medlin]], and [[Theresa York]]. The troupe was named by the cast after the first three numbers in the Austin area zip code. At the conclusion of the initially scheduled Gnap! run at [[Salvage Vanguard Theater]] most of the cast moved on to other projects, leaving only Scott Hearne and Ryan Hill. The pair enjoyed the concept of the troupe so much that they recast it, primarily with improvisers Ryan had worked with in the 2012 run of *[[After School Improv]]*. The new cast members were [[Mitchell Deane]], [[Cat Drago]], [[Brandon Martin]], and [[Sarah Swofford]]. At the same time the troupe also started working with [[Clifton Highfield]] as a new coach.
@@ -22,4 +22,3 @@ The Seven Eight Sevens decided to bring the troupe to a close in the Summer of 2
 *[https://www.facebook.com/theseveneightsevens The Seven Eight Sevens facebook page]
 
 [[Category/Troupes|Seven Eight Sevens]]
-[[Category/Active|Category:Active]]
