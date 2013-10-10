@@ -30,15 +30,17 @@ Here is a list of guests for each show:
 The show is created by mixing highly volatile puppet characters with a band of uninhibited improvisers. The result is a hilarious variety of songs and scenes in Act 1, and a completely improvise musical in Act 2 -- all conceived and performed on the spot and starring puppets. This is not your average puppet show, and it is definitely NOT a show for young children.
 
 ## Media
-* The 8/6/10 performance:
-** [http://www.facebook.com/media/set/?set=a.1325506949633.2039669.1589679282&type=3 Photoset] by [[Roy Moore]].
-** Video by [[Sara Farr]], in four parts: [http://vimeo.com/16455732 1], [http://vimeo.com/16456196 2], [http://vimeo.com/16456760 3], [http://vimeo.com/16456886 4].
-* [http://www.facebook.com/media/set/?set=a.1328148975682.2039874.1589679282&type=3 Photoset of the 8/7/10 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1330395951855.2040063.1589679282&type=1 Photoset of the 8/14/10 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1333129940203.2040265.1589679282&type=1 Photoset of the 8/14/10 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1336635907850.2040545.1589679282&type=3 Photoset of the 8/20/10 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1339599941949.2040804.1589679282&type=1 Photoset of the 8/21/10 show] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.10150258545585324.492830.503270323&type=3 Photoset that includes *Crack!*'s set] from [[Out of Bounds]] 2012 by [[Kevin Miller]].
+### Videos
+* Video by [[Sara Farr]] of the 8/6/10 show, in four parts: [http://vimeo.com/16455732 1], [http://vimeo.com/16456196 2], [http://vimeo.com/16456760 3], [http://vimeo.com/16456886 4].
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.1325506949633.2039669.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/6/10 show.
+* [http://www.facebook.com/media/set/?set=a.1328148975682.2039874.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/7/10 show.
+* [http://www.facebook.com/media/set/?set=a.1330395951855.2040063.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/13/10 show.
+* [http://www.facebook.com/media/set/?set=a.1333129940203.2040265.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/14/10 show.
+* [http://www.facebook.com/media/set/?set=a.1336635907850.2040545.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/20/10 show.
+* [http://www.facebook.com/media/set/?set=a.1339599941949.2040804.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/21/10 show.
+* [http://www.facebook.com/media/set/?set=a.10150258545585324.492830.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their show from [[The 2012 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://puppetimprovproject.org/crack.html The show's website.]
