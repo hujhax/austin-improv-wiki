@@ -116,4 +116,16 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |Sep 2013||Oct 2013||*[[Austin Secrets]]*|| [[Roy Janik]]
 |-
 |Nov 2013||Dec 2013||*[[A Bedtime Gorey]]*||[[Valerie Ward]]
+|-
+|Jan 2014||Feb 2014||*[[I Love You So Much]]*||[[Jessica Arjet]], [[Roy Janik]]
+|-
+|Mar 2014||Apr 2014||*[[Kurosawa]]*||[[Kareem Badr]], [[Shannon McCormick]]
+|-
+|May 2014||Jun 2014||*[[Theatresports]]*||TBA
+|-
+|Jul 2014||Aug 2014||*[[The International Improv Experience]]*||[[Roy Janik]]
+|-
+|Sep 2014||Oct 2014||*[[Reform School for Wayward Girls]]*|| [[Kaci Beeler]]
+|-
+|Nov 2014||Dec 2014||*[[Nothing and Everything]]*||[[Jon Bolden]]
 |}
