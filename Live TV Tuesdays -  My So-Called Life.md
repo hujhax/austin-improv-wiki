@@ -27,6 +27,7 @@ It played exclusively at [[The Highball]].
 ## Media
 * [http://www.facebook.com/media/set/?set=a.10150272583409090.354543.273514734089&type=3 Photoset of the 6/21/11 performance.]
 * [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 7/12/11 performance.
+** [http://www.facebook.com/roy.moore/media_set?set=a.1834242947715.2086854.1589679282&type=3 Photoset] by [[Roy Moore]] of that performance.
 
 ## More Information
 * [http://www.facebook.com/events/222767514422626/ Facebook event for one of the performances.]
