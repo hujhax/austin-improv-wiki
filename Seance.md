@@ -36,6 +36,14 @@ The main run was from 10/26/12 to 11/17/12, on Fridays and Saturdays.
 * [[Marc Majcher]]
 * [[Todd Hart]]
 
+## Media
+### Videos
+* [http://vimeo.com/53759220 Video] by [[Paul Normandin]] of the 11/16/12 show.
+
+### Photos
+* [http://www.facebook.com/roy.moore/media_set?set=a.1407870328666.2054722.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/29/10 show.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1462195166753.2059154.1589679282&type=3 Photoset] by [[Roy Moore]] of the 12/17/10 show.
+
 ## More Information
 * [http://gnaptheater.org/seance/ The show's web page.]
 * [http://forum.austinimprov.com/viewtopic.php?t=12430&p=111712 The initial show announcement] on [[The Austin Improv Forums]].
