@@ -15,4 +15,4 @@ The troupe was founded in the fall of 2010 by all the original cast and disbande
 * [http://www.facebook.com/roy.moore/media_set?set=a.1544315339706.2067468.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 2/25/11 show at [[Salvage Vanguard Theater]].
 
 [[Category/Troupes|Dukes of Bedside Manor]]
-[[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]
+[[Category/Played Their Last Show at Out of Bounds|Dukes of Bedside Manor]]
