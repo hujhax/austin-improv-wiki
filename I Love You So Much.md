@@ -7,7 +7,7 @@
 |Cast	=		TBA
 }}
 
-***I Love You So Much*** is an upcoming mainstage show at [[The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
+***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) is an upcoming mainstage show at [[The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
 
 ## Summary
 Each performance will feature three interwoven stories, each one centered on a loving relationship.  These relationships may not be traditionally romantic ones -- while it could be the story of two lovers, it could also be the story of a man and his dog.  Each performer will play one character through an entire performance, perhaps featuring as a protagonist in the first story, a supporting character in the second, and a momentary "extra" in the third.  The show will emphasize honest, grounded scenes and vulnerability, similar to the style of British improv duo [http://www.facebook.com/TenThousandMillionLoveStories Ten Thousand Million Love Stories].
