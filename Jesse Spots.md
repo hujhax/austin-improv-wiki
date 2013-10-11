@@ -1,6 +1,5 @@
 {{Infobox Performer
 |Name	=	Jesse Spots	
-|Picture =	Jesse Spots Pic.jpg
 |Theater=	[[The New Movement Theater]]
 |Years	=	2009-2012
 }}
