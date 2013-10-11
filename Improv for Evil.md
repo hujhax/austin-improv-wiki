@@ -33,3 +33,4 @@ After two years of relative inactivity, the troupe performed their final show at
 * [http://www.facebook.com/pages/Improv-for-Evil/8654193578 The troupe's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]
