@@ -25,7 +25,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
 * *[[Charles Dickens Unleashed]]*
-* ***[[Fakespeare]]* (Don Pedro / Lennox) [current]**
+* ''[[Fakespeare]]'
 * *[[Fandom]]*
 * *[[Improvised Shakespeare]]*
 * *[[The Joss Whedon Pajama Party]]*
@@ -45,6 +45,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Strange Worlds]]*
 * *[[Totally Improvised, 90210]]* (ensemble, assistant director)
 * *[[The Violet Underbelly]]*
+* *[[You Think You're So Smart]]*
 
 ## Media
 * [http://www.flickr.com/photos/hujhax/collections/72157613519092868/ Peter's improv photos on flickr.]
