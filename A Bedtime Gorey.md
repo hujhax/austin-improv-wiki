@@ -12,5 +12,8 @@
 ## Preview Description
 "At a party, the adults play frivolous parlor games and quaff copious amounts of brandy.  Meanwhile in the nursery, the children have been left with their coldly efficient Governess, who tells them terrible tales to keep them in their place.  Inspired by the delightfully sinister illustrations of Edward Gorey."[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule]
 
+## More Information
+* [http://forum.austinimprov.com/viewtopic.php?f=3&t=15503 The audition notice for the show] on [[The Austin Improv Forums]].
+
 [[Category/Shows|Bedtime Gorey]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
