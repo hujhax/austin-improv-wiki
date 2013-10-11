@@ -7,7 +7,7 @@
 |Cast	=	{{Unbulleted list | [[Courtney Hopkin]] | [[Craig Kotfas]] | [[Jon Bolden]] | [[Kareem Badr]] | [[Kevin Miller]] | [[Kristin Firth]] | [[Kyle Traughber]] | [[Liz Brammer]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Shannon McCormick]] }}
 |Tech	=	[[Sam Schak]]
 |Run	=	May-June 2011
-|Subsequent Runs = {{Unbulleted list | [[Aug 2012]] | [[Oct-Nov 2013]] }}
+|Subsequent Runs = {{Unbulleted list | Aug 2012 | Oct-Nov 2013 }}
 |Tagline = Stories Improvised in the Style of Philip K. Dick
 }}
 
