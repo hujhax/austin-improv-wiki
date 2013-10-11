@@ -4,7 +4,7 @@
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Valerie Ward]]
 |Run=							Nov/Dec 2013
-|Cast	=		TBA
+|Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Alex Baia]] | [[Andreas Fabis]] | [[Cat Drago]] | [[Jason Vines]] | [[Jayme Ramsey]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Nicole Oliver]] | [[Ruby Willmann]] }}
 }}
 
 ***A Bedtime Gorey*** is an upcoming mainstage show at [[The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
