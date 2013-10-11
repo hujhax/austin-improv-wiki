@@ -55,7 +55,7 @@ Assistant Director: [[Peter Rogers]]
 * [http://www.facebook.com/media/set/?set=a.1866250187876.2088399.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/9/11 performance.
 * [http://www.facebook.com/media/set/?set=a.493085927379574.111406.100000345135257&type=1 Photoset] by [[Claudio Fox]] of the 11/16/12 performance for *[[The TV Set]]*.
 
-=== Publicity
+### Publicity
 * [http://www.facebook.com/media/set/?set=a.159711617443203.42516.100002130980897&type=1 Publicity shoot] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.10150243909883311.328380.16782108310&type=1 Promo photos] by [[Steve Rogers]], with art by [[Courtney Hopkin]].
 
