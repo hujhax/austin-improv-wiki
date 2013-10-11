@@ -6,7 +6,7 @@
 |Cast	=	Various
 |Theater = [[The Hideout Theatre]]
 |Run	=	Apr-Jun 2007
-|Subsequent Runs = {{Unbulleted list | Sep/Oct 2010 | May/Jun 2013 }}
+|Subsequent Runs = {{Unbulleted list | Sep/Oct 2010 | May/Jun 2013 | May/Jun 2014 }}
 }}
 : *This page refers to the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show.  For the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012, see [[ComedySportz]].*
 
