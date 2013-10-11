@@ -85,6 +85,7 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 * [http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 24 with [[The Knuckleball Now]].
 * [http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 25 with *[[Start Trekkin']]*.
 * [http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 26 with *[[The Nightmare Video Project]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1714827082393.2081748.1589679282&type=3 A photoset] by [[Roy Moore]] of hour 33 with the *[[Puppet Improv Project]]*.
 * Overall photosets:
 ** [http://www.facebook.com/media/set/?set=a.1724964966691.86123.1315383518&type=3 Photoset] from [[Michael Yew]].
 ** [http://www.facebook.com/media/set/?set=a.10100679445652283.3052072.2230063&type=3 Photoset]  from [[Shruti Saran]].
