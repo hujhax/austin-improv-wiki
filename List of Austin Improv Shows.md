@@ -76,16 +76,16 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 ### Mainstage Productions
 The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, each show has had a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.  For more information see the [[List of Hideout Mainstage Shows in Chronological Order]].
 
-* *[[A Bedtime Gorey]]* (2013)
 * *[[After School Improv]]*
 * *[[The Andersons]]*
 * *[[Austin Secrets]]*
+* *[[A Bedtime Gorey]]*
 * *[[The Black Vault]]*
 * *[[Boys of Summer]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Cochise]]*
 * *[[Cops and Lawyers]]*
-* *[[Fakespeare]]* (2013)
+* *[[Fakespeare]]*
 * *[[Fandom]]*
 * *[[The Great Mundane]]*
 * *[[The Hideout Holiday Super Special]]*
