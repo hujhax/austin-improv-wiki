@@ -22,4 +22,4 @@ The Seven Eight Sevens decided to bring the troupe to a close in the Summer of 2
 *[https://www.facebook.com/theseveneightsevens The Seven Eight Sevens facebook page]
 
 [[Category/Troupes|Seven Eight Sevens]]
-[[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]
+[[Category/Played Their Last Show at Out of Bounds|Seven Eight Sevens]]
