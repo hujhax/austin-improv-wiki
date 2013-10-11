@@ -1,14 +1,28 @@
-{{Stub}}
-
-
 {{Infobox Show
-|Name	=	Mister Morbid’s Moonlight Movie Mayhem Madness Massacre
+|Name	=	Mister Morbid's Moonlight Movie Mayhem Madness Massacre
 |Theater=	[[The Institution Theater]]
-|Cast	=	{{Unbulleted list|[[Tom Booker]]|[[Thedward Blevins]]}}
+|Picture=	Mister Morbid.jpg
+|Director=	[[Tom Booker]]
+|Cast	=	Varies
 |Run	=	October 2013
 }}
 
-*Mister Morbid’s Moonlight Movie Mayhem Madness Massacre* is a show at [[The Institution Theater]].
+***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** is an improv show.
 
+## Summary
+In the world of the show, [[Tom Booker]] plays Mister Morbid, a quaint small-town mortician who hosts a "fright night" where he plays old B-horror movies.  But technical difficulties prevent him from playing the movie successfully, and he has to call on friends to re-create the movie for him.
+
+In practical terms, the host presents a short segment or trailer of a 70s horror film, and then an improv troupe uses that segment as the inspiration for an improvised narrative.  Then the host presents a second segment/trailer, and the second visiting troupe improvises off of that.
+
+## History
+This is the guest schedule for *Mister Morbid's*:
+* 10/4/13: [[Dumbasses]] & [[Indigo Shift]] 
+* 10/5/13: [[Flying Theater Machine]] & [[Zarzamora]]
+* 10/11/13: *[[The Black Vault]]* & [[Midnight Society]] 
+* 10/12/13: [[Parallelogramophonograph]] & "David Razowsky and Friends" 
+* 10/18/13: [[The Knuckleball Now]] & [[No Frills]] 
+* 10/19/13: [[False Matters]] & [[The Professor]]
+* 10/25/13: [[Waterpark]] & [[Girls Girls Girls]] 
+* 10/26/13: [[IScream Sandwich]] & [[My Best Fiend]]
 
 [[Category/Shows|Mister Morbid's]]
