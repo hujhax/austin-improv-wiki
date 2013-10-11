@@ -25,6 +25,10 @@ This is the guest schedule for *Mister Morbid's*:
 * 10/25/13: [[Waterpark]] & [[Girls Girls Girls]] 
 * 10/26/13: [[IScream Sandwich]] & [[My Best Fiend]]
 
+## Media
+### Publicity
+* [http://www.facebook.com/photo.php?v=10151686876796262 Trailer for the show.]
+
 ## More Information
 * [http://www.theinstitutiontheater.com/shows/85/mister-morbids-moonlight-movie-mayhem-madness-massacre The show's web page.]
 
