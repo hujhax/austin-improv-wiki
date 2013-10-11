@@ -52,6 +52,7 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 ** [http://www.facebook.com/media/set/?set=a.114568441957521.22414.100002130980897 Photoset] from [[Steve Rogers]].
 * Fourth episode:
 ** [http://www.facebook.com/media/set/?set=a.114797541934611.22578.100002130980897 Photoset] from [[Steve Rogers]].
+** [http://www.facebook.com/roy.moore/media_set?set=a.1597606991964.2071396.1589679282&type=3 Photoset] from [[Roy Moore]].
 * Fifth episode:
 ** [http://www.facebook.com/media/set/?set=a.116085848472447.23349.100002130980897 Photoset] from [[Steve Rogers]].
 * Sixth episode:
