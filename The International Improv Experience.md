@@ -3,7 +3,7 @@
 |Picture	=	The International Improv Experience.jpg				
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Roy Janik]]
-|Run=							May/Jun 2014
+|Run=							Jul/Aug 2014
 |Cast	=		TBA
 }}
 
