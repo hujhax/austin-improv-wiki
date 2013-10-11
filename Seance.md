@@ -4,7 +4,7 @@
 |Theater =	[[Salvage Vanguard Theater]]
 |Producer = [[Gnap! Theater Projects]]
 |Director =	[[Clay Towery]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Bridget Brewer]] | [[Cassidy Claire Riesen]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Emily Breedlove]] | [[J. M. Specht]] | [[Jesse Overright]] | [[Kristin Firth]] | [[Marc Majcher]] | [[Marc Majcher]] | [[Sara Farr]] | [[Todd Hart]] }}
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Bridget Brewer]] | [[Cassidy Claire Riesen]] | [[Clay Towery]] | [[Emily Breedlove]] | [[J. M. Specht]] | [[Jesse Overright]] | [[Kristin Firth]] | [[Marc Majcher]] | [[Sara Farr]] | [[Todd Hart]] }}
 |Run	=	Oct/Nov 2012
 }}
 ***Seance*** (full title: ***Seance! A Meeting of the Secret Society of the Blackbower Mediums*** was a mainstage show of improvised Victorian ghost stories.
@@ -14,6 +14,7 @@
 Prior to its main run, *Seance* had one-off performance dates on 10/29/10 and 12/17/10.
 
 #### Early Cast
+* [[Clay Towery]]
 * [[Emily Breedlove]]
 * [[Jesse Overright]]
 * [[Kristin Firth]]
