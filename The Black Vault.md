@@ -51,6 +51,10 @@ After its mainstage run, there were a number of one-off shows:
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/theblackvault The show's web page.]
+* [http://www.hideouttheatre.com/the-creeping-laughter A blog post] by [[Roy Janik]] about the rehearsal process.
+
+### Press
+* [http://www.austinchronicle.com/blogs/chronolog/2012-10-11/can-i-get-a-suggestion-for-something-that-goes-fhtagn/ Review of the show in *The Austin Chronicle*.]
 
 [[Category/Shows|Black Vault]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
