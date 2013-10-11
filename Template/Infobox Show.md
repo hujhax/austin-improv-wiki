@@ -80,7 +80,11 @@ This template lists standard, useful information about an improv show.
 		</tr>
 |}}
 		<tr class="">
+{{#if: {{{Subsequent Runs|}}} |
 			<th scope="row" class="category-header">Initial Run</th>
+|
+			<th scope="row" class="category-header">Run</th>
+}}
 			<td class="category">{{{Run|Unknown}}}</td>
 		</tr>
 {{#if: {{{Subsequent Runs|}}} |
