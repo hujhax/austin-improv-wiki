@@ -152,6 +152,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1 A photoset from season 5.]
+* [http://www.facebook.com/roy.moore/media_set?set=a.1449103279464.2057829.1589679282&type=3 Photoset] by [[Roy Moore]] which includes their 12/5/10 performance at [[The Highball]].
 * [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/8/11 performance.
 * [http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 1/14/11 performance.
 * [http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/4/11 performance in [[The 42-Hour Improv Marathon]].
