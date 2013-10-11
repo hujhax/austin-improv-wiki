@@ -39,3 +39,6 @@ After the troupe was dissolved, [[Susannah Raulino]], [[Topping Haggerty]], and 
 
 ## More Information
 * [http://dancy.austinimprov.co The troupe's web site.]
+
+[[Category/Troupes|Category:Troupes]]
+[[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]
