@@ -15,6 +15,8 @@ The Puppet Improv Project does one-off shows for productions like [[The Hideout 
 ## Media
 ### Videos
 * [http://vimeo.com/73323916 Video of their 6/23/13 show] that was part of [[The 44-Hour Improv Marathon]].
+### Photos
+* [http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 3/10/11 show at *[[The Threefer]]*.
 
 ## More Information
 * [http://puppetimprovproject.org/ The organization's web site.]
