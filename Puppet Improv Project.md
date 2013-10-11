@@ -18,6 +18,7 @@ The Puppet Improv Project does one-off shows for productions like [[The Hideout 
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 3/10/11 show at *[[The Threefer]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 6/4/11 show at *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1714827082393.2081748.1589679282&type=3 Photoset] by [[Roy Moore]] of their 6/4/11 performance in [[The 42-Hour Improv Marathon]].
 
 ## More Information
 * [http://puppetimprovproject.org/ The organization's web site.]
