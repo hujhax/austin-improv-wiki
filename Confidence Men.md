@@ -30,6 +30,7 @@ This is their bio from their web site:
 * [http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/25/09 show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
+* [http://www.facebook.com/roy.moore/media_set?set=a.1719096989138.2081992.1589679282&type=3 Photoset] by [[Roy Moore]] of their 6/14/11 "Two Year Anniversary" show.
 * [http://www.facebook.com/media/set/?set=a.3811816376672.136825.1315383518&type=3 Photoset of their performance] from [[WaffleFest]] 2012.
 * [http://www.facebook.com/media/set/?set=a.340729629323893.83550.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/14/12 show at [[The 2012 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset of the 5/5/12 show] which they shared with [[Girls Girls Girls]] (photos by [[Steve Rogers]]).
