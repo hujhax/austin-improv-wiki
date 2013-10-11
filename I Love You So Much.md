@@ -1,0 +1,16 @@
+{{Infobox Show
+|Name	=		I Love You So Much				
+|Picture	=	I Love You So Much.jpg				
+|Theater =		[[The Hideout Theatre]]
+|Director =		[[Jessica Arjet]], [[Roy Janik]]
+|Run=							Jan/Feb 2014
+|Cast	=		TBA
+}}
+
+***I Love You So Much*** is an upcoming mainstage show at [[The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
+
+## Summary
+Each performance will feature three interwoven stories, each one centered on a loving relationship.  These relationships may not be traditionally romantic ones -- while it could be the story of two lovers, it could also be the story of a man and his dog.  Each performer will play one character through an entire performance, perhaps featuring as a protagonist in the first story, a supporting character in the second, and a momentary "extra" in the third.  The show will emphasize honest, grounded scenes and vulnerability, similar to the style of British improv duo [http://www.facebook.com/TenThousandMillionLoveStories Ten Thousand Million Love Stories].
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
