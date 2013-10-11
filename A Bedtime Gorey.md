@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=		A Bedtime Gorey				
-|Picture	=	A Bedtime Gorey Preview Image.jpg				
+|Picture	=	A Bedtime Gorey.jpg				
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Valerie Ward]]
 |Run=							Nov/Dec 2013
