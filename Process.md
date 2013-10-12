@@ -57,7 +57,7 @@ For the remaining shows, they just let the title and table-read dictate the genr
 
 ## Media
 ### Videos
-* [http://vimeo.com/40488504 Their performance] in [[The 2012 Improvised Play Festival]].
+* [http://vimeo.com/40488504 Video] of their 4/15/12 performance in [[The 2012 Improvised Play Festival]].
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.310853215644868.76512.221927764537414&type=3 Photoset of the 3/3/12 show] ("Hole to Nowhere") by [[Steve Rogers]].
