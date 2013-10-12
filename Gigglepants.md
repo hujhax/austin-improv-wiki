@@ -13,6 +13,7 @@ Gigglepants was founded in the fall of 2003 by [[Bryan Cruz]], [[Thai Le]], and 
 
 The troupe started performing in the spring semester of 2004. The original cast also included [[David Toscano]], [[Bryan Roberts]], [[Shawn Davis]], [[Major Hoffman]], [[Brandon Stackhouse]], [[Jason Dunkelberger]], [[Sylvia Ortiz]], and [[Connor McGee]].
 
+
 ## Notable Alums
 *[[Alex Hunt]]
 *[[Bryan Cruz]]
@@ -30,6 +31,10 @@ The troupe started performing in the spring semester of 2004. The original cast 
 *[[Thai Le]]
 *[[Tom Glinkowski]]
 *[[Yamina Khouane]]
+
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/19/11 performance at [[WaffleFest]].
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
