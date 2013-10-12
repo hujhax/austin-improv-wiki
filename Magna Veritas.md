@@ -21,4 +21,5 @@ Two "supernatural" characters were pre-selected prior to each show, one angelic,
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.238076309589226.62459.221927764537414&type=3 Their 11/12/11 show] (photoset by [[Steve Rogers]]).
+* [http://www.facebook.com/media/set/?set=a.212738282128192.50688.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 10/22/11 show.
+* [http://www.facebook.com/media/set/?set=a.238076309589226.62459.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 11/12/11 show.
