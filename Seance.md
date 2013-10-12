@@ -43,6 +43,7 @@ The main run was from 10/26/12 to 11/17/12, on Fridays and Saturdays.
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1407870328666.2054722.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/29/10 show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1462195166753.2059154.1589679282&type=3 Photoset] by [[Roy Moore]] of the 12/17/10 show.
+* [http://www.facebook.com/media/set/?set=a.215468491855171.51455.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/30/11 show.
 
 ## More Information
 * [http://gnaptheater.org/seance/ The show's web page.]
