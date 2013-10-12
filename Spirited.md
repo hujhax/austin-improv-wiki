@@ -49,6 +49,8 @@ After about an hour of these explorations, there would be a transition back to t
 ** [http://www.facebook.com/media/set/?set=a.211216708947016.50291.118587218209966&type=3 Photoset] by [[Roy Moore]].
 * 10/22/11 8pm performance:
 ** [http://www.facebook.com/media/set/?set=a.212038482198172.50513.118587218209966&type=3 Photoset] by [[Roy Moore]].
+* 10/29/11 8pm performance:
+** [http://www.facebook.com/media/set/?set=a.214136538655033.51070.118587218209966&type=3 Photoset] by [[Roy Moore]].
 * Performance from the 2012 [[Improvised Play Festival]]:
 ** [http://www.facebook.com/media/set/?set=a.311258025609550.70437.118587218209966&type=1 Photoset] by [[Roy Moore]].
 ** [http://vimeo.com/40844685 Video of the show.]
