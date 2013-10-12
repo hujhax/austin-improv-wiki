@@ -1,4 +1,4 @@
-The ninth performance of [[Steam]] was improvised on xxxxxxxx.
+The ninth performance of [[Steam]] was improvised on 2/3/12.
 
 ## Episode Summary
 EPISODE 9: THE MONKEY ARMY
