@@ -49,3 +49,4 @@ They performed their last show at [[The 2013 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/#!/shiftindigo?fref=ts Indigo Shift's Facebook page]
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Played Their Last Show at Out of Bounds|Dancy Street D'Orchestra]]
