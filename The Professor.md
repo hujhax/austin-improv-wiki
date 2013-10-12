@@ -81,7 +81,7 @@ Season three will be at [[The Institution Theater]] in November 2012.
 
 ## Media
 ### Season One
-* 11/4/11 performance:
+* 10/14/11 performance:
 ** [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/d82d5bf6 Video of the regeneration scene] by [[Michael Ferstenfeld]].
 * 10/21/11 performance (1x03: "The Price of Periwinkles"):
