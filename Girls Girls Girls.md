@@ -107,6 +107,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/roy.moore/media_set?set=a.1249529610247.2030742.1589679282&type=3 Photoset] by [[Roy Moore]] of their 5/8/10 performance at *[[The Ladies Are Funny Festival]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 6/4/11 show at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.257845284278995.65486.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 12/3/11 performance in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/media/set/?set=a.252339914834695.58497.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 1/7/12 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/5/12 show which they shared with [[Confidence Men]].
 * [http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 7/21/12 performance of *[[Boys of Summer]]*, featuring guest boy [[Clay Towery]].
 
