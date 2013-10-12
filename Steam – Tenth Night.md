@@ -1,4 +1,4 @@
-The tenth performance of [[Steam]] was improvised on xxxxxxxx.
+The tenth performance of [[Steam]] was improvised on 2/4/12.
 
 ## Episode Summary
 EPISODE 10: STEAM, ROSE-COLORED GOGGLES, AND THE FLIGHT OF THE VICTORIANA
