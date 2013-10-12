@@ -1,4 +1,4 @@
-The first performance of [[Steam]] was improvised on xxxxxxxx.
+The first performance of [[Steam]] was improvised on 1/6/12.
 
 ## Episode Summary
 Adelaide McKenna, the ingenue and textiles heiress, determined that she would break free of the moneyed life she’d always known. She plotted with the Duchess, Lady Electra Spencer, older and wiser but equally soured on a life of privilege. Together they resolved to pool their considerable wealth and head out in search of adventure.
