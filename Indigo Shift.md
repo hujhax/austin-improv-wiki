@@ -37,13 +37,13 @@ They performed their last show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## Media
 ### Videos
-* [http://www.facebook.com/#!/media/set/?set=a.180261545388210.48035.100002130980897&type=1 Photoset] from 10/8/2011 by [[Steve Rogers]].
-* [http://www.facebook.com/#!/media/set/?set=a.364117846958907.80222.338492619521430&type=1 Photoset] from 3/29/2012 by [[Roy Moore]].
-* [http://www.facebook.com/#!/media/set/?set=a.413861802010675.100390.221927764537414&type=1 Photoset] from [[The 2012 Out of Bounds Comedy Festival]] by [[Steve Rogers]].
-
-### Photos
 * [http://vimeo.com/41260565 Video of 3/29/2012.]
 * [http://vimeo.com/62552448 Video of 12/20/2012 performance.]
+
+### Photos
+* [http://www.facebook.com/#!/media/set/?set=a.180261545388210.48035.100002130980897&type=1 Photoset] from 10/8/2011 by [[Steve Rogers]].
+* [http://www.facebook.com/#!/media/set/?set=a.364117846958907.80222.338492619521430&type=1 Photoset] by [[Roy Moore]] of their 3/29/2012 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/#!/media/set/?set=a.413861802010675.100390.221927764537414&type=1 Photoset] from [[The 2012 Out of Bounds Comedy Festival]] by [[Steve Rogers]].
 
 ## More Information
 * [http://www.facebook.com/#!/shiftindigo?fref=ts Indigo Shift's Facebook page]
