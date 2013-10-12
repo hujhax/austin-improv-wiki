@@ -33,6 +33,7 @@ They have appeared in every [[Out of Bounds Comedy Festival]] from 2005 to 2012.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1337793056778.2040655.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/21/10 performance at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3 Photoset]  by [[Roy Moore]] that includes their 9/16/10 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/4/11 performance in [[The 42-Hour Improv Marathon]].
+* [http://www.facebook.com/media/set/?set=a.221915231210497.52761.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/12/11 show at *[[The Saturday Night Special]]*.
 
 ## More Information
 * [http://theknuckleballnow.net/ The troupe's web site.]
