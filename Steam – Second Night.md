@@ -1,4 +1,4 @@
-The second performance of [[Steam]] was improvised on xxxxxxxx.
+The second performance of [[Steam]] was improvised on 1/7/12.
 
 ## Episode Summary
 The place: deep in the jungles of Paraguay. The prime minister, a member of the notorious Black Cloaks, has been assassinated. A passenger train has suspiciously derailed. And the mighty airship Victoriana is right in the center of it all.
