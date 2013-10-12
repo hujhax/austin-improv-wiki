@@ -1,4 +1,4 @@
-The seventh performance of [[Steam]] was improvised on xxxxxxxx.
+The seventh performance of [[Steam]] was improvised on 1/27/12.
 
 ## Episode Summary
 The mighty airship Victoriana hovers over the dusty streets of Cairo. In the market bazaar below, ship’s engineer Joshua Mew confronts “Randy,” the drifter who has been living a quiet and lazy life aboard ship for 7 weeks now. Joshua has learned Randy’s true name, Barnaby Jones, and suspects that Barnaby has been an agent for the nefarious Black Cloaks this entire time. Barnaby denies any such involvement, insisting that his only loyalty is to finger sandwiches.
