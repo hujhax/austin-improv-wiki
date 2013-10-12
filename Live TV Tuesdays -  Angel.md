@@ -41,7 +41,12 @@ This was one of the most ambitious *TV Tuesdays* shows in terms of production.  
 * Directed By -- [[Chelley Pyatt]]
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.10150690986807291.395973.155494462290&type=1 Publicity photos] commissioned by the [[Puppet Improv Project]].
+### Videos
 * [http://vimeo.com/41587461 Video of a very silly speed-through of the show's second half.]
-* [http://www.facebook.com/media/set/?set=a.333075650094454.74236.118587218209966&type=1 Performance photoset] by [[Roy Moore]].
-* [http://vimeo.com/55953813 Video of one of the shows.]
+* [http://vimeo.com/55953813 Video of one of the performances.]
+
+### Photos =
+* [http://www.facebook.com/media/set/?set=a.333075650094454.74236.118587218209966&type=1 Photoset] by [[Roy Moore]] of the 5/16/12 show.
+
+### Publicity
+* [http://www.facebook.com/media/set/?set=a.10150690986807291.395973.155494462290&type=1 Publicity photos] commissioned by the [[Puppet Improv Project]].
