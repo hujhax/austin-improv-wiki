@@ -19,3 +19,4 @@ Bad Font was cast by [[Scott Hearne]] throughout 2012 and 2013. The team is prim
 *[http://www.facebook.com/pages/Bad-Font/1413245738890485 Bad Font's facebook page]
 
 [[Category/Troupes|Bad Font]]
+[[Category/Active|Bad Font]]
