@@ -39,6 +39,7 @@ This is their bio from their web site:
 * [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset of the 5/5/12 show] which they shared with [[Girls Girls Girls]] (photos by [[Steve Rogers]]).
 * [http://www.facebook.com/media/set/?set=a.415265488536973.100822.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/31/12 show at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.525065577556963.1073741857.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/13/13 at [[The 2013 Improvised Play Festival]].
+* [http://www.facebook.com/media/set/?set=a.530515880350429.1073741857.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://confidencemenimprov.com/ Official Website]
