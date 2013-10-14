@@ -27,6 +27,7 @@ After two years of relative inactivity, the troupe performed their final show at
 * [http://www.facebook.com/roy.moore/media_set?set=a.1137154640943.2019047.1589679282&type=3 Photoset] by [[Roy Moore]] of their 12/4/09 performance.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1198757940987.2025752.1589679282&type=3 Photoset] by [[Roy Moore]] of their 3/5/10 performance.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1348520124948.2045014.1589679282&type=3 Photoset] by [[Roy Moore]] of their 9/2/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in the 2012 [[WaffleFest]].
 
 ## More Information
 * [http://www.improvforevil.com/ The troupe's web site.]
