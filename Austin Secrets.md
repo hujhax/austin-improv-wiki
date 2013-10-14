@@ -93,6 +93,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://vimeo.com/54746832 Video of the 12/1/12 performance.]
 
 ### Photos
+* [http://www.facebook.com/media/set/?set=a.408278745907477.91540.118587218209966&type=3 Photoset] by [[Roy Moore]] of the show from the 2012 [[WaffleFest]].
 * [http://www.facebook.com/media/set/?set=a.451551858241669.109988.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/24/12 performance.
 
 ## Notes
