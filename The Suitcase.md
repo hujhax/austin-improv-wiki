@@ -17,6 +17,10 @@ The show opened with a set of monologs, and then the story split up, with indepe
 [[Cortney DeAngelo]] was the show's tech director, and [[Adriane Shown]] was in charge of mise-en-scene and costume design.
 
 ## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.497467976988553.1073741838.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 6/4/13 show.
+
+### Publicity
 * [http://www.facebook.com/media/set/?set=a.10151560732329090.1073741825.273514734089&type=1 Press photos for the show.]
 
 [[Category/Shows|Suitcase]]
