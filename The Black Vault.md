@@ -44,6 +44,8 @@ After its mainstage run, there were a number of one-off shows:
 * [http://vimeo.com/67752198 Video of the 5/5/2013 performance], which was part of "Nerdprov" at [[The Institution Theater]].
 * [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[Pick Your Own Path]]* at *[[The Free Fringe]]*), from 5/23/13.
 * [http://vimeo.com/70318263 Video of the 6/22/13 performance], part of [[The 44-Hour Improv Marathon]].
+* [http://vimeo.com/76849825 Audio of the 10/11/13 performance], part of *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.418383731558482.101763.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/8/12 performance.
 * [http://www.facebook.com/media/set/?set=a.396822437053108.88995.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/6/12 performance.
