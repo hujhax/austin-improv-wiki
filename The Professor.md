@@ -113,7 +113,9 @@ Season three will be at [[The Institution Theater]] in November 2012.
 ### Season 2½ (One-Offs)
 * 1/18/13 performance at [[The TV Set]].
 ** [http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1 Photoset] by [[Michael Yew]].
-* 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]]: [http://vimeo.com/73437075 story #1], [http://vimeo.com/73480143 story #2]
+* 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]]:
+** Videos: [http://vimeo.com/73437075 story #1], [http://vimeo.com/73480143 story #2]
+** [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes the show.
 
 ## More Information
 * [http://www.doctorwhotheatre.com/ The troupe's web site.]
