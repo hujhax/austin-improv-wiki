@@ -46,8 +46,9 @@ After its mainstage run, there were a number of one-off shows:
 * [http://vimeo.com/70318263 Video of the 6/22/13 performance], part of [[The 44-Hour Improv Marathon]].
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.418383731558482.101763.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/8/12 performance.
+* [http://www.facebook.com/media/set/?set=a.396822437053108.88995.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/6/12 performance.
 * [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/27/12 performance.
-
+* [http://www.facebook.com/media/set/?set=a.406375719431113.91155.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/31/12 performance.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/theblackvault The show's web page.]
