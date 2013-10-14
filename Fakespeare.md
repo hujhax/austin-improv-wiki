@@ -8,12 +8,12 @@
 |Tech = {{Unbulleted list | [[Catherine Arjet]] | [[Cindy Page]] | [[Cortney DeAngelo]] | [[Michael Yew]] | [[Warren Henderson]] }}
 }}
 
-***Fakespeare*** is the current mainstage show at [[The Hideout Theatre]].  It is a slight variation on previous runs of *[[Improvised Shakespeare]]*.
+***Fakespeare*** was a mainstage show at [[The Hideout Theatre]].  It was a slight variation on previous runs of *[[Improvised Shakespeare]]*.
 
 ## Summary
-*Fakespeare* included a scripted show run in July, in which *[[Wikipedia - Much Ado About Nothing|Much Ado About Nothing]]* and *[[Wikipedia - Macbeth|Macbeth]]* were presented in repertory, and then an improvised run in August, which varies from the traditional "improvise a play" format of *[[Improvised Shakespeare]]*, borrowing elements from previous [[Hideout]] shows such as *[[Process]]*, *[[Live Nude Improv]]*, and *[[Fandom]]*.  The same fifteen performers put on *Much Ado About Nothing*, *Macbeth*, *and* the improvised run.
+*Fakespeare* included a scripted show run in July, in which *[[Wikipedia - Much Ado About Nothing|Much Ado About Nothing]]* and *[[Wikipedia - Macbeth|Macbeth]]* were presented in repertory, and then an improvised run in August, which varied from the traditional "improvise a play" format of *[[Improvised Shakespeare]]*, instead borrowing elements from previous [[Hideout]] shows such as *[[Process]]*, *[[Live Nude Improv]]*, and *[[Fandom]]*.  The same fifteen performers put on *Much Ado About Nothing*, *Macbeth*, *and* the improvised run.
 
-[[Jordan T. Maxwell]] directed *Macbeth*.  [[Andy Crouch]] directed*Much Ado About Nothing* and is directing the improvised run, as well as managing the overall production.
+[[Jordan T. Maxwell]] directed *Macbeth*.  [[Andy Crouch]] directed *Much Ado About Nothing* and improvised run, and managed the overall production.
 
 ## Cast
 ### *Much Ado About Nothing*
@@ -79,6 +79,7 @@
 * August 17 (Saturday)
 * August 23 (Friday)
 * August 24 (Saturday)
+* August 31 (Saturday at [[The 2013 Out of Bounds Comedy Festival]])
 
 ## Media
 ### Photos
