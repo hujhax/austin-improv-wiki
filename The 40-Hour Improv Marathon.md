@@ -51,10 +51,18 @@
 * Sunday 8am: "The Final Countdown", free-form improv with the core improvisors
 
 ## Media
-* "Holy Sleep Deprivation, Batman!":  [http://www.flickr.com/photos/8820084@N02/sets/72157620748382275/ photoset] by [[Michael Yew]].
-* [[Improvised Shakespeare]]: [http://www.flickr.com/photos/8820084@N02/sets/72157620822671488/ photoset] by [[Michael Yew]].
-* [[Lola]]: [http://www.flickr.com/photos/8820084@N02/sets/72157620827646114/comments/ photoset] by [[Michael Yew]].
-* [http://www.flickr.com/photos/pgraph/sets/72157620581563801/ Photoset] from [[Parallelogramophonograph]].
+### Photo
+* [http://www.facebook.com/hujhax/media_set?set=a.129973482264.120564.588952264&type=3 Photoset] by [[Peter Rogers]] of the Life Game (Saturday 5pm).
+* [http://www.facebook.com/hujhax/media_set?set=a.129977122264.120567.588952264&type=3 Photoset] by [[Peter Rogers]] of *[[After School Improv]]* (Saturday 7pm).
+* [http://www.flickr.com/photos/8820084@N02/sets/72157620822671488/ Photoset] by [[Michael Yew]] of [[Improvised Shakespeare]] (Saturday 8pm).
+** [http://www.facebook.com/hujhax/media_set?set=a.129979382264.120568.588952264&type=3 Photoset] by [[Peter Rogers]] of the same show. 
+* [http://www.flickr.com/photos/8820084@N02/sets/72157620748382275/ Photoset] by [[Michael Yew]] of "Holy Sleep Deprivation, Batman!" (Saturday 9pm).
+* [http://www.flickr.com/photos/pgraph/sets/72157620581563801/ Photoset] from [[Parallelogramophonograph]] (Sunday 4am).
+* [http://www.facebook.com/hujhax/media_set?set=a.129983882264.120571.588952264&type=3 Photoset] by [[Peter Rogers]] of [[Junk]] (Sunday 6am).
+* [http://www.facebook.com/hujhax/media_set?set=a.129984552264.120572.588952264&type=3 Photoset] by [[Peter Rogers]] of [[McNichol & May]] (Sunday 7am).
+* [http://www.facebook.com/hujhax/media_set?set=a.129987327264.120574.588952264&type=3 Photoset] by [[Peter Rogers]] of the Final Countdown (Sunday 8am).
+* [http://www.flickr.com/photos/8820084@N02/sets/72157620827646114/comments/ Photoset] by [[Michael Yew]] of *[[Lola]]* (???).
+* [http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3 Photoset] by [[Peter Rogers]] of *[[Lola]]* (???).
 
 ## More Information
 * [http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success "The Hideout’s 40-Hour Improv Marathon a Big Success"] (blogpost at [[The Hideout]]'s web site)
