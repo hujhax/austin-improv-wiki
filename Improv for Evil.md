@@ -25,6 +25,7 @@ After two years of relative inactivity, the troupe performed their final show at
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.104486522264.104209.588952264&type=3 Photoset] by [[Peter Rogers]] of their 4/16/09 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.114134807264.110676.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/15/09 performance.
+* [http://www.facebook.com/hujhax/media_set?set=a.173246262264.145640.588952264&type=3 Photoset] by [[Peter Rogers]] of their 9/17/09 performance of "The Barons".
 * [http://www.facebook.com/roy.moore/media_set?set=a.1116285479227.2016637.1589679282&type=3 Photoset] by [[Roy Moore]] of their 10/31/09 performance.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1137154640943.2019047.1589679282&type=3 Photoset] by [[Roy Moore]] of their 12/4/09 performance.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1198757940987.2025752.1589679282&type=3 Photoset] by [[Roy Moore]] of their 3/5/10 performance.
