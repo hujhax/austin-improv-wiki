@@ -75,6 +75,25 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://vimeo.com/61489753 1/26/13 Maestro.]
 * [http://vimeo.com/65951692 2/9/13 Maestro.]
 ### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.19095342264.15293.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/25/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19095542264.15295.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/9/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19095777264.15296.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/16/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19095917264.15299.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/23/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19096077264.15300.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/2/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19096517264.15301.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/9/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19096587264.15302.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/23/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19096747264.15303.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/30/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19096917264.15305.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/14/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19097262264.15306.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/20/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19097372264.15307.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/27/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19097692264.15311.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/11/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19097777264.15312.588952264&type=3 Photoset] by [[Peter Rogers]] of the 6/29/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19097882264.15314.588952264&type=3 Photoset] by [[Peter Rogers]] of the 7/28/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19098232264.15315.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/10/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19099482264.15323.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/12/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19099652264.15325.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/19/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19100172264.15327.588952264&type=3 Photoset] by [[Peter Rogers]] of the 11/2/02 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.19100322264.15328.588952264&type=3 Photoset] by [[Peter Rogers]] of the 11/16/02 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/31/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1145900099574.2020007.1589679282&type=3 Photoset] by [[Roy Moore]] of the 12/19/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3 Photoset] by [[Roy Moore]] of the 1/9/10 Maestro.
