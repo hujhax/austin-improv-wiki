@@ -93,6 +93,7 @@ Unknown
 ### Photos
 * 11/2/09 dress rehearsal: [http://www.facebook.com/hujhax/media_set?set=a.206913962264.157845.588952264&type=3 photoset] by [[Peter Rogers]].
 * 11/14/09 performance: [http://www.facebook.com/hujhax/media_set?set=a.215017017264.160855.588952264&type=3 photoset] by [[Peter Rogers]].
+* 12/05/09 "orphans" performance: [http://www.facebook.com/hujhax/media_set?set=a.242733297264.168271.588952264&type=3 photoset] by [[Peter Rogers]].
 * 12/19/09 performance: [http://www.facebook.com/roy.moore/photos?collection_token=1589679282%3A2305272732%3A69&set=a.1145815257453.2020001.1589679282&type=3 photoset] by [[Roy Moore]].
 * 12/3/11 8pm performance: [http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.2231464548864.102851.1315383518&type=1 photoset] by [[Michael Yew]].
 * 12/10/11 8pm performance: [http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.2275267843919.103545.1315383518&type=3 photoset] by [[Michael Yew]].
