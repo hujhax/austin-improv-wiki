@@ -37,7 +37,7 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [[Bryan Cruz]]
 * [[Bryan Roberts]]
 * [[Chelsea Gilman]]
-* [[Clay Towrey]]
+* [[Clay Towery]]
 * [[Emily Breedlove]]
 * [[Kyle Traughber]]
 * [[Liz Bigger]]
