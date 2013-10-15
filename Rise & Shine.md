@@ -20,4 +20,8 @@ The cast played the same characters every time & invited a guest player to impro
 
 The first performance was a [[Cagematch]] show and happened on Saturday, March 7th, 2009 at [[ColdTowne Theater]]. It featured [[John Ratliff]] as the guest celebrity.
 
+## Media
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.114135967264.110677.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/15/09 performance.
+
 [[Category/Troupes|Category:Troupes]]
