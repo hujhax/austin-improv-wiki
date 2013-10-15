@@ -28,6 +28,7 @@ This is their bio from their web site:
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/25/09 show.
+* [http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 11/15/09 performance.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1719096989138.2081992.1589679282&type=3 Photoset] by [[Roy Moore]] of their 6/14/11 "Two Year Anniversary" show.
