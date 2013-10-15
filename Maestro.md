@@ -111,6 +111,9 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://www.facebook.com/hujhax/media_set?set=a.99326862264.100889.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/4/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.101923177264.102298.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/11/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.104488332264.104211.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/18/09 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.114527182264.110958.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/16/09 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.116189772264.111951.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/23/09 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.121688197264.115592.588952264&type=3 Photoset] by [[Peter Rogers]] of the 6/6/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/31/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1145900099574.2020007.1589679282&type=3 Photoset] by [[Roy Moore]] of the 12/19/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3 Photoset] by [[Roy Moore]] of the 1/9/10 Maestro.
