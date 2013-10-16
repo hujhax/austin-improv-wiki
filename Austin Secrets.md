@@ -3,7 +3,7 @@
 |Picture=	Austin Secrets.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Roy Janik]]
-|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Andy Crouch]] | [[Chuy Zarate]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Halyn Lee Erickson]] | [[Jayme Ramsay]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] | [[Kristin Firth]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Mike Sullivan]] | [[Nicole Oliver]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Roy Janik]] | [[Stacy Kaplowitz]] | [[Valerie Ward]] }}
+|Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[Alex Dobrenko]] | [[Andy Crouch]] | [[Bridget Brewer]] | [[Chuy Zarate]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Halyn Lee Erickson]] | [[Halyn Lee Erickson]] | [[Jayme Ramsay]] | [[Jeanette Jones]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] | [[Kristin Firth]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Michael Joplin]] | [[Mike Sullivan]] | [[Nicole Oliver]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Roy Janik]] | [[Stacy Kaplowitz]] | [[Valerie Ward]] }}
 |Run	=	Jan/Feb 2010
 |Subsequent Runs = {{Unbulleted list|Jan/Feb 2011|Nov/Dec 2012|Sep/Oct 2013<ref>[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule Announcing the 2013 Season and Schedule]</ref>}}
 }}
