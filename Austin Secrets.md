@@ -81,6 +81,21 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Roy Janik]]
 * [[Valerie Ward]]
 
+### Season Four =
+* [[Aaron Saenz]]
+* [[Alex Dobrenko]]
+* [[Bridget Brewer]]
+* [[Chuy Zarate]]
+* [[Courtney Hopkin]]
+* [[Halyn Lee Erickson]]
+* [[Jeanette Jones]]
+* [[John Ratliff]]
+* [[Jon Bolden]]
+* [[Kaci Beeler]]
+* [[Karen Jane DeWitt]]
+* [[Marc Majcher]]
+* [[Michael Joplin]]
+
 ## Media
 ### Videos
 * [http://vimeo.com/11071577 Video of the 2/27/10 performance.]
