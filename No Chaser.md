@@ -68,7 +68,6 @@ They headlined *[[The Threefer]]* in February 2009.
 * 9/7/09: *[[The Monday Night Mash]]*, with [[Northshore Local]] and [[Look Cookie]].
 * 10/15/09: *[[The Threefer]]*, with [[The Glamping Trip]] and [[The Starter Kit]].
 
-
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=8580 Announcement] of the troupe's 2/13/09 "Valentine's Spectacular" on [[The Austin Improv Forums]].
 
