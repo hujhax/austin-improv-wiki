@@ -106,7 +106,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 ** This story followed a girl in the inner city and her estranged father through a narrative that became increasingly [[Wikipedia - David Lynch|Lynch]]ian over time.
 ** Guest performers: [[Asaf Ronen]], [[Clifton Highfield]], [[Deana Ricks]], [[Justin Davis]], [[Taylor Overstreet]], [[Tom Booker]].
 * Sunday 10am (hour 42): *[[Fakespeare]]*: improv in the style of William Shakespeare.
-** This version of the show started with a few Shakespearean improv games, and then segue into a narrative.
+** This version of the show started with a few Shakespearean improv games, and then segued into a narrative.
 ** The narrative was based on a Persian attack on Jericho.
 * Sunday 11am (hour 43): [[Bad Boys]]: a non-narrative montage of scenes.
 * Sunday 12pm (hour 44): Free-form improv from the core cast (nicknamed "The Final Countdown").
