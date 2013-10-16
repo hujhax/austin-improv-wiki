@@ -81,7 +81,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Roy Janik]]
 * [[Valerie Ward]]
 
-### Season Four =
+### Season Four
 * [[Aaron Saenz]]
 * [[Alex Dobrenko]]
 * [[Bridget Brewer]]
