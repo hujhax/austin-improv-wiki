@@ -87,7 +87,8 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 ** The core cast were joined by [[Chad Wellington]], [[Elizabeth Buchanan]], [[Jennifer Bateman]], [[Patrick Knisely]], [[Sara Farr]], and [[Topping Haggerty]].
 * Sunday 2am (hour 34): *[[Tech Nightmare]]*: wherein the players have to do everything the people in the tech booth tell them to.
 * Sunday 3am (hour 35): [[Big Beautiful Warlock]] presented *[[Big Beautiful Warriors]]*, a game show with very non-traditional games.
-* Sunday 4am (hour 36): *[[Pulp Friction]]*: improv in the style of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]]
+* Sunday 4am (hour 36): *[[Pulp Friction]]*: improv in the style of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]].
+** This hour featured guests [[Andreas Fabis]], [[Clifton Highfield]], [[Heidi Rogers]], [[Joe Ricks]], and [[Taylor Overstreet]].
 * Sunday 5am (hour 37): a secret show, produced by [[Jason Vines]].
 ** This turned out to be "Human Clay", where Jason, in character as a Bob-Ross-like sculptor, molded players into various shapes and blew "magic dust" on them that brought them to life for scenes.
 ** Roy had made Jason promise not to be *too* cruel to the core cast with his secret format.
