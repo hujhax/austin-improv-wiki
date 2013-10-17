@@ -61,7 +61,7 @@
 |-
 ! scope="row"| 14
 | [[Bear Derby]]
-| August 1st 2013
+| August 1, 2013
 |-
 |}
 
