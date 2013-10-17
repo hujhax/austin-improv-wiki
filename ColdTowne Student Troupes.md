@@ -32,7 +32,7 @@
 | June 14, 2009
 |-
 ! scope="row"| 7
-| [[Oh Science!]]
+| [[Oh, Science!]]
 | December 2009
 |-
 ! scope="row"| 8
