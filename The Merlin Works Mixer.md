@@ -18,4 +18,8 @@ From 2008 to 2012, the Merlin Works Mixers also served as auditions for [[Gnap!]
 
 They went on hiatus through late 2012 and early 2013, as [[Merlin Works]] completed its move to [[ZACH Theater]].
 
+## Media
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.441741597264.214518.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/16/10 mixer.
+
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
