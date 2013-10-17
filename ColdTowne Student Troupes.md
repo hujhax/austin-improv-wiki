@@ -9,15 +9,15 @@
 |-
 ! scope="row"| 1
 | [[Look Cookie]]
-| ?
+| April 2007
 |-
 ! scope="row"| 2
 | [[Midnight Society]]
-| ?
+| September 2007
 |-
 ! scope="row"| 3
 | [[Murphy]]
-| ?
+| February 10, 2008
 |-
 ! scope="row"| 4
 | [[Unfurled]]
@@ -41,7 +41,7 @@
 |-
 ! scope="row"| 9
 | [[Journey to the Big Water]]
-| ?
+| November 14, 2010
 |-
 ! scope="row"| 10
 | [[Consequences]]
