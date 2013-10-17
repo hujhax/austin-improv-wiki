@@ -115,8 +115,11 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://www.facebook.com/hujhax/media_set?set=a.116189772264.111951.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/23/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.121688197264.115592.588952264&type=3 Photoset] by [[Peter Rogers]] of the 6/6/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/31/09 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.242762607264.168277.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/12/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1145900099574.2020007.1589679282&type=3 Photoset] by [[Roy Moore]] of the 12/19/09 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.275881937264.175325.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/2/10 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3 Photoset] by [[Roy Moore]] of the 1/9/10 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.300456707264.179794.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/16/10 Maestro (which included special guest Keith Johnstone).
 * [http://www.facebook.com/roy.moore/media_set?set=a.1199698684505.2025888.1589679282&type=3 Photoset] by [[Roy Moore]] of the 3/7/10 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1216743030603.2027415.1589679282&type=3 Photoset] by [[Roy Moore]] of the 3/27/10 Maestro.
 * [http://www.flickr.com/photos/oob_pics/sets/72157624879000746/ Photoset] by [[Nadine Latief]] of the 9/3/10 All-Star Maestro at [[The 2010 Out of Bounds Comedy Festival]].
