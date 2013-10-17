@@ -29,6 +29,8 @@ Since then, *Dubbed Indemnity* has shown up for occasional one-off performances 
 * 4/23/11: [http://vimeo.com/22841998 Video.]
 * 5/27/11: [http://vimeo.com/24452011 Video.]
 * 6/22/13: [http://vimeo.com/73282840 Video.] (Part of [[The 44-Hour Improv Marathon]].)
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.462070062264.231094.588952264&type=3 A photoset] by [[Peter Rogers]] of the 7/9/10 show.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/dubbedindemnity The show's web page.]
