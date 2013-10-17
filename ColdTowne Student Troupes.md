@@ -59,6 +59,10 @@
 | [[Cheap Date]]
 | January 3, 2013
 |-
+! scope="row"| 14
+| [[Bear Derby]]
+| ?
+|-
 |}
 
 ## Debut Traditions
