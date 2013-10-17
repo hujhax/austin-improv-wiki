@@ -19,7 +19,7 @@ Bad Boys currently has an open-ended run on Friday nights at [[ColdTowne Theater
 
 ## Awards
 * Most Outstanding Troupe - [[ColdTowne Awards]] - 2011
-* [[B. Iden Payne Award]] for Outstanding Work in Improvisational Theatre Nominee - 2012
+* [[B. Iden Payne Award]] for Outstanding Work in Improvisational Theatre Nominee - 2012, 2013
 
 ## Media
 ### Videos
