@@ -66,6 +66,10 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Kristin Firth]]
 * [[Cody Melcher]]
 
+## Media
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/5/10 performance at [[The 40-Hour Improv Marathon]].
+
 ## More Information
 *[http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
 
