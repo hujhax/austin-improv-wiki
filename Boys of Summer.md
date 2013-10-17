@@ -70,12 +70,15 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 *** Mitch Mills was the run's "Pick-a-Boy", where a number of possible guests were nominated by Austin improvisors, and then put to an audience vote.
 
 ## Media
+### Videos
 * [http://youtu.be/RAIGgBSf0rA Video] of [[Marc Majcher]] guesting with *Boys of Summer* on 8/9/08.
 * [http://vimeo.com/13888720 Video] of [[Peter Rogers]] guesting with *Boys of Summer* on 7/30/10.
 * Video of [[Jay Byrd]] guesting with *Boys of Summer* in 2011: [http://vimeo.com/29503112 part 1], [http://vimeo.com/30314674 part 2].
 * [http://vimeo.com/27829205 Video] of [[Jason Finkelman]] guesting with *Boys of Summer* in 2011.
 * [http://vimeo.com/28332016 Video] of [[Deano Jones]] guesting with *Boys of Summer* in 2011.
 * [https://vimeo.com/29000288 Video] of [[Jason Laney]] guesting with *Boys of Summer* in 2011.
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3 A snapshot] of [[Peter Rogers]] as guest boy on 7/30/10.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
