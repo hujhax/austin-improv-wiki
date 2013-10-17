@@ -43,6 +43,12 @@ The show began its run with the name *Choose Your Own Adventure*, but on Novembe
 * 5/23/13: [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[The Black Vault]]* at *[[The Free Fringe]]*).
 * [http://vimeo.com/70460663 6/22/13: Video,] from [[The 44-Hour Improv Marathon]].
 
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3 A couple of pre-show photos] by [[Peter Rogers]] of the 10/8/10 show.
+
+## More Information
+* [http://www.hideouttheatre.com/shows/pickyourownpath The show's web page.]
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
 [[Category/Active|Category:Active]]
