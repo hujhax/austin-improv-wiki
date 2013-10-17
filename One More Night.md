@@ -37,6 +37,7 @@ The following are links to songs that were frequently used in the *One More Nigh
 ### Photos
 * 1/22 performance: [http://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282 photoset] by [[Roy Moore]]; [http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju photoset] by [[Jon Bolden]].
 * [http://www.facebook.com/media/set/?set=a.1168134175412.2022541.1589679282&type=3 Photoset of the 1/23 performance] by [[Roy Moore]].
+** [http://www.facebook.com/hujhax/media_set?set=a.312700062264.181592.588952264&type=3 Another photoset] of the same show by [[Peter Rogers]].
 * [http://www.facebook.com/media/set/?set=a.1173102059606.2023044.1589679282&type=3 Photoset of the 1/30 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1177677093979.2023536.1589679282&type=3 Photoset of the 2/5 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3 Photoset of the 2/12 performance] by [[Roy Moore]].
