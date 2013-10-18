@@ -8,7 +8,7 @@
 **John Ratliff** is a performer and teacher of improv.
 
 ## Troupes
-* [[Dirvish]]
+* [[Dervish]]
 * [[The Glamping Trip]]
 * [[The Randy Meisner]]
 * [[You're Not My Real Dad]]
