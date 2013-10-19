@@ -143,7 +143,9 @@ The marketing tagline for season 2 was "Forever is for serious."
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3 Photoset] by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3 Another photoset of the show] by [[Peter Rogers]]
+* [http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3 Photoset] by [[Peter Rogers]] of their 10/23/10 show at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3 Photoset] by [[Roy Moore]] of their 10/29/10 show at [[Salvage Vanguard Theater]].
+* [http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3 Photoset] by [[Peter Rogers]] of their 11/13/10 show at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1435556900813.2056609.1589679282&type=3 Photoset] by [[Roy Moore]] of their 11/19/10 show at [[Salvage Vanguard Theater]].
 
 ### Publicity
