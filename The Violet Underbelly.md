@@ -22,6 +22,8 @@ After its main run, the show was performed once at [[The 2011 Improvised Play Fe
 ** [http://www.facebook.com/media/set/?set=a.10150158191992265.332249.588952264&type=1 Photoset] by [[Peter Rogers]].
 * 2/23/11 rehearsal:
 ** [http://www.facebook.com/media/set/?set=a.10150164551402265.334935.588952264&type=1 Photoset] by [[Peter Rogers]].
+* 3/2/11 rehearsal:
+** [http://www.facebook.com/hujhax/media_set?set=a.10150169239482265.336902.588952264&type=3 Photoset] by [[Peter Rogers]].
 * 3/12/11 performance:
 ** [http://vimeo.com/23047888 Video] by [[Peter Rogers]].
 * 4/2/11 performance:
