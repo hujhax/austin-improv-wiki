@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	 = John Ratliff
 |Picture = John Ratliff Pic.jpg
-|Theater = [[ColdTowne Theatre]]
+|Theater = [[ColdTowne Theater]]
 }}
 
 
