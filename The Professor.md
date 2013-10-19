@@ -60,24 +60,17 @@ The second run of shows, from March to April of 2012, introduced [[Peter Rogers]
 * [[Ryan Austin]]
 
 ### Season Three
-Season three will be at [[The Institution Theater]] in November 2012.
+Season three will be on Saturdays at [[The Institution Theater]] in November 2012.
 
 * [[Bridget Brewer]]
-* [[Clay Towery]]
-* [[Emily Breedlove]]
 * [[Jeff Britt]]
-* [[Jordan T. Maxwell]]
-* [[Kareem Badr]]
 * [[Lacy Shawn]]
-* [[Marc Majcher]]
 * [[Michael Ferstenfeld]]
 * [[Peter Rogers]]
 * [[Quinn Buckner]]
-* [[Topping Haggerty]]
+* [[Steve Harwood]]
 
 ... with tech by [[Michael Yew]].
-
-(Note that this cast list may change between now and November.)
 
 ## Media
 ### Season One
