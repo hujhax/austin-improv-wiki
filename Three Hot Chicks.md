@@ -17,13 +17,14 @@ Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
 "Three Hot Chicks" referred to both the troupe and the name of the fictional sitcom the troupe created. Set in New York City, the show followed the misadventures of Mark Rabinowitz ([[Brad Hawkins]]), his brother Vinnie ([[Joel Ausanka Reese]]), and three of Mark's ex-girlfriends: Morgan ([[Ruby Leigh Young]]), Brooke ([[Kacy Todd]]), and Jill ([[Ruby Willmann]]). Standard sitcom tropes such as misunderstood intentions, the completion of absurd tasks, and even a laugh track were employed. At first, no continuity was observed between shows, but in the last handful of shows, characters were allowed to develop deeper relationships.
 
 ## Media
+### Videos
+* [http://vimeo.com/19634320 Three Hot Chicks' debut show] on Vimeo, courtesy of [[Peter Rogers]]
+* [http://vimeo.com/25332777 Three Hot Chicks' appearance] in [[The 42-Hour Improv Marathon]]
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.10150150642222265.328170.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/3/11 performance in *[[The Threefer]]*.
 
 ## More Information
 * [http://threehotchicksimprov.com The Three Hot Chicks website] (moribund)
-* [http://vimeo.com/19634320 Three Hot Chicks' debut show] on Vimeo, courtesy of [[Peter Rogers]]
-* [http://vimeo.com/25332777 Three Hot Chicks' appearance] in [[The 42-Hour Improv Marathon]]
 
 
 [[Category/Troupes|Category:Troupes]]
