@@ -21,7 +21,7 @@ The Double Barrel originated as an [[Austin Improv Collective]]-branded show in 
 
 Later, the show was taken over by [[The Hideout]], which had always hosted the event.
 
-Finally, in September of 2010, the show was replaced by [[The Wheel]].
+Finally, in April of 2010, the show was replaced by *[[The Spectacle]]*.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/thedoublebarrel The show's web page.]
