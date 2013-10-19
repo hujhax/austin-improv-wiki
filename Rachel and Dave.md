@@ -19,6 +19,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1198984106641.2025779.1589679282&type=3 Photoset] by [[Roy Moore]] of their 3/5/10 performance at [[The Hideout Theatre]].
+* [http://www.facebook.com/hujhax/media_set?set=a.10150120827122265.308819.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/9/10 performance at [[The Hideout Theatre]].
 
 ## More Information
 *[http://rachelanddave.com/ Rachel and Dave's web site.]
