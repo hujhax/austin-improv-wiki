@@ -149,11 +149,13 @@ The schedule is as follows:
 * [http://vimeo.com/70243827 Video of the 6/8/13 performance] by [[Ryan Austin]].
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3 Photoset of the 9/25/10 performance] by [[Peter Rogers]].
-* [http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1 Photoset of the 9/18/10 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1379182571490.2052519.1589679282&type=3 Photoset of the 10/2/10 performance] by [[Roy Moore]].
-* [http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3 Photoset of the 10/30/10 performance] by [[Peter Rogers]].
-* [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset of the 5/4/13 performance] by [[Warren Henderson]].
+* [http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/25/10 performance.
+* [http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1 Photoset] by [[Roy Moore]] of the 9/18/10 performance.
+* [http://www.facebook.com/media/set/?set=a.1379182571490.2052519.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/2/10 performance.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/30/10 performance.
+* [http://www.facebook.com/hujhax/media_set?set=a.19102197264.15341.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/14/12 performance.
+* [http://www.facebook.com/hujhax/media_set?set=a.19102282264.15342.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/21/12 performance.
+* [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 5/4/13 performance.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheatresportsTournament The show's web page.]
