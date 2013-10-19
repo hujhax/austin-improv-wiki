@@ -24,6 +24,7 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * [http://vimeo.com/40801622 Video of a "Catchin' Frogs" show.]
 
 ### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.10150120828317265.308821.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/9/10 "Fitzgeralds for Hire" show at *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.10150661726392265.450321.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/2/12 "Catchin' Frogs" show.
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12  "Catchin' Frogs" show at the *[[Free Fringe]]*.
 
