@@ -26,6 +26,8 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/hujhax/media_set?set=a.455820182264.226206.588952264&type=3 A photoset] by [[Peter Rogers]] of the 6/25/10 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150096018652265.296306.588952264&type=3 A photoset] by [[Peter Rogers]] of the 10/29/10 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150116451902265.306393.588952264&type=3 A photoset] by [[Peter Rogers]] of the 12/3/10 performance.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150170941132265.337552.588952264&type=3 A photoset] by [[Peter Rogers]] of the 3/4/11 performance.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150257321562265.368949.588952264&type=3 A photoset] by [[Peter Rogers]] of the 5/6/11 performance.
 * [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/2012 performance.
 * [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/2012 performance.
 * [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 A photoset] by [[Michael Yew]] of the 12/2012 performance.
