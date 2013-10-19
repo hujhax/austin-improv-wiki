@@ -9,7 +9,7 @@
 
 ## Media
 * [http://vimeo.com/17953560 Video of their 12/11/10 show] at *[[The Saturday Night Special]]*.
-* [http://www.facebook.com/media/set/?set=a.10150151634862265.328768.588952264&type=3 Photoset of their 2/5/11 show.]
+* [http://www.facebook.com/media/set/?set=a.10150151634862265.328768.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/5/11 performance in *[[The Saturday Night Special]]*.
 
 ## More Information
 * [https://www.facebook.com/quayleimprov The troupe's facebook page.]
