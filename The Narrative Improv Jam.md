@@ -21,6 +21,10 @@ During one performance of *The Narrative Improv Jam*, a longtime Hideout fan pro
 
 Due to poor attendance, the show was quickly replaced with *[[The TV Set]]* in July of 2012.
 
+## Media
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.10150623993402265.445112.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/20/12 show.
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/TheNarrativeImprovJam The show's web page.]
 
