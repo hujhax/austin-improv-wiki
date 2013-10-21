@@ -66,10 +66,11 @@
 * [http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/ Photoset] from [[The Hideout Theatre]].
 * [http://www.facebook.com/media/set/?set=a.373501069380082.89433.221927764537414&type=3 Photoset of hours 1-4] from [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.3204199026618.122311.1315383518&type=3 Photoset of hours 5-9] from [[Michael Yew]].
+* [http://www.facebook.com/hujhax/media_set?set=a.10151037606607265.487220.588952264&type=3 Photoset of hour 10] (Drum Machine) from [[Peter Rogers]].
 * [http://www.flickr.com/photos/hideouttheatre/sets/72157630038239970/ Photoset of hours 17-20, 28] from [[Michael Yew]].
 * [http://www.facebook.com/media/set/?set=a.375108375886018.89657.221927764537414&type=3 Photoset of hours 27-29] from [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3 Photoset of hours 30-31] from [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.10151037625202265.487222.588952264&type=3 Photoset of hour 40] from [[Peter Rogers]].
+* [http://www.facebook.com/media/set/?set=a.10151037625202265.487222.588952264&type=3 Photoset of hour 40] (the second student show) from [[Peter Rogers]].
 * [http://www.facebook.com/media/set/?set=a.427332093954958.95954.100000345135257&type=3 Photoset of hours 37-43] from [[Claudio Fox]].
 * [http://www.facebook.com/media/set/?set=a.374667585930097.89589.221927764537414&type=3 Photoset of hours 41-43] from [[Steve Rogers]].
 
