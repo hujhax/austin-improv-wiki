@@ -23,5 +23,6 @@ It was a mainstage show at [[The Institution Theater]].
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.421587074571481.102701.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/14/12 show.
+* [http://www.facebook.com/hujhax/media_set?set=a.10151322055487265.525636.588952264&type=3 Photoset] by [[Peter Rogers]] of their 10/26/12 show.
 
 [[Category/Shows|Pulp]]
