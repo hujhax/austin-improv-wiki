@@ -29,6 +29,7 @@
 * [http://www.facebook.com/hujhax/media_set?set=a.10150282216542265.375392.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/27/11 show.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150299790862265.381469.588952264&type=3 Photoset] by [[Peter Rogers]] of the 6/17/11 show.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150343147212265.394405.588952264&type=3 Photoset] by [[Peter Rogers]] of the 7/29/11 show.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150403734012265.410077.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/23/11 show.
 
 [[Category/Shows|Lottery]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
