@@ -27,6 +27,7 @@
 * [http://vimeo.com/44192011 Video of the 6/16/12 performance ("2525").]
 * [http://vimeo.com/45013518 Video of the 6/30/12 performance ("The Pool").]
 ### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.10150981818562265.481248.588952264&type=3 Photoset] by [[Dave Alley]] of the 5/12/12 warm-ups ("Dolly"/"Cheyenne").
 * [http://www.facebook.com/media/set/?set=a.10150828768740793.394951.666390792&type=1 Photoset] by [[Dave Alley]] of the 5/26/12 performance ("Don't Try Too Hard").
 * [http://www.facebook.com/media/set/?set=a.380863341977188.90896.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 6/9/12 performance ("The ROT Rally").
 
