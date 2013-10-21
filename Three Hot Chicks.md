@@ -22,7 +22,7 @@ Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
 * [http://vimeo.com/25332777 Three Hot Chicks' appearance] in [[The 42-Hour Improv Marathon]]
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.10150150642222265.328170.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/3/11 performance in *[[The Threefer]]*.
-* [http://www.flickr.com/photos/menelaosprokos/sets/72157626290918877 Photoset] by [[Menelaos Pokros]] of their 3/27/11 performance in *[[The Weekender]]*.
+* [http://www.flickr.com/photos/menelaosprokos/sets/72157626290918877 Photoset] by [[Menelaos Prokos]] of their 3/27/11 performance in *[[The Weekender]]*.
 
 ## More Information
 * [http://threehotchicksimprov.com The Three Hot Chicks website] (moribund)
