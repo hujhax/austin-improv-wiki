@@ -130,6 +130,7 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://www.facebook.com/hujhax/media_set?set=a.10150527171352265.429807.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/8/11 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150614504637265.443834.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/13/12 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150708161262265.455188.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/18/12 Maestro.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150981823947265.481249.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/12/12 Maestro.
 * [http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3 6/2/12 Maestro.] (from [[The 43-Hour Improv Marathon]])
 * [http://www.facebook.com/media/set/?set=a.478638782199643.115019.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/19/13 Maestro.
 
