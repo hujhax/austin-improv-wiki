@@ -109,6 +109,8 @@ Season three will be on Saturdays at [[The Institution Theater]] in November 201
 * 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]]:
 ** Videos: [http://vimeo.com/73437075 story #1], [http://vimeo.com/73480143 story #2]
 ** [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes the show.
+* 9/29/13 show at Improvaganza in Honolulu
+** [http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3 Casual photos] by [[Peter Rogers]].
 
 ## More Information
 * [http://www.doctorwhotheatre.com/ The troupe's web site.]
