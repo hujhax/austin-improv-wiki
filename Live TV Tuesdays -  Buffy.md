@@ -66,6 +66,7 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 * [http://www.facebook.com/media/set/?set=a.216275195107834.51655.118587218209966&type=1 Photoset] by [[Roy Moore]] of the 11/1/11 performance.
 ** [http://www.facebook.com/media/set/?set=a.10150351355658325.353816.608098324&type=1 Photoset] by Marsha G. Mitchell of the same show.
 * [http://www.facebook.com/media/set/?set=a.246276032102587.63825.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 11/22/11 performance.
+** [http://www.facebook.com/hujhax/media_set?set=a.10150492012902265.426071.588952264&type=3 Photoset] by [[Madeline Jo Chauvin]] of the same show.
 
 #### Other
 * [http://www.facebook.com/media/set/?set=a.10150288659198621.344556.511938620&type=1 Photoset] from [[Jordan T. Maxwell]] of rehearsal, publicity, and costume-test shots.
