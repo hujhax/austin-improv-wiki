@@ -45,7 +45,8 @@ This was one of the most ambitious *TV Tuesdays* shows in terms of production.  
 * [http://vimeo.com/41587461 Video of a very silly speed-through of the show's second half.]
 * [http://vimeo.com/55953813 Video of one of the performances.]
 
-### Photos =
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.10150715866007265.456324.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/23/12 rehearsal.
 * [http://www.facebook.com/media/set/?set=a.333075650094454.74236.118587218209966&type=1 Photoset] by [[Roy Moore]] of the 5/16/12 show.
 
 ### Publicity
