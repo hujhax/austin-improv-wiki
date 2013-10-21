@@ -45,7 +45,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 3/25/11 and 4/22/11 shows.
 * A [http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3 photoset] by [[Roy Moore]] that includes their 5/8/11 show at [[The Ladies Are Funny Festival]].
 * [http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1 A photoset] by [[Steve Rogers]] that includes their 9/2/11 show at [[The 2011 Out of Bounds Comedy Festival]].
-* A [http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3 photoset] by [[Peter Rogers]] of their 1/5/12 performance in the premiere of *[[The Free Fringe]]*.
+* A [http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3 photoset] by [[Peter Rogers]] of their 1/5/12 "Bridesmaids" performance in the premiere of *[[The Free Fringe]]*.
 * [http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[The Free Fringe]]*.
 * [http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1 A photoset] by [[Sam Schak]] that includes their 2/2/12 *[[Free Fringe]]* show.
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 3/8/12 *[[Free Fringe]]* show.
