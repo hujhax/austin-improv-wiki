@@ -4,7 +4,7 @@
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Jessica Arjet]], [[Roy Janik]]
 |Run=							Jan/Feb 2014
-|Cast	=		TBA
+|Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Andreas Fabis]] | [[Andrew Buck]] | [[Bridget Brewer]] | [[Jen Kaplan]] | [[Jordan T. Maxwell]] | [[Karen Jayne DeWitt]] | [[Katie Dahm]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Ryan Austin]] | [[Ryan Hill]] | [[Sam Schak]] }}
 }}
 
 ***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) is an upcoming mainstage show at [[The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
