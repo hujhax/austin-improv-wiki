@@ -6,7 +6,7 @@
 |Cast	=	Various
 |Tech	=	Various
 |Run	=	May 2004
-|Subsequent Runs = {{Unbulleted list | Apr-May 2005 | Sep-Nov 2005 | Sep-Nov 2007 | Sep-Nov 2008 | Nov-Dec 2010 | Jan-Feb 2011 }}
+|Subsequent Runs = {{Unbulleted list | Apr-May 2005 | Sep-Nov 2005 | Sep-Nov 2007 | Sep-Nov 2008 | Nov-Dec 2010 | Jan-Feb 2012 }}
 }}
 
 ***Start Trekkin***' was an improvised longform narrative show inspired by [[Wikipedia - Star Trek -  The Original Series|the original *Star Trek* television series]].
@@ -34,7 +34,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Season 4: Sep-Nov 2007
 * Season 5: Sep-Nov 2008
 * Season 6: Nov 28 and Dec 5, 2010
-* Season 7: Jan-Feb 2011
+* Season 7: Jan-Feb 2012
 
 ### Event Appearances
 ![[TrekInVegas.jpg|The season-two cast at the convention.]]In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
