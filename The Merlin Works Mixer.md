@@ -22,5 +22,6 @@ They went on hiatus through late 2012 and early 2013, as [[Merlin Works]] comple
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.441741597264.214518.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/16/10 mixer.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150265172502265.371165.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/15/11 mixer.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150344124197265.394763.588952264&type=3 Photoset] by [[Peter Rogers]] of the 7/31/11 mixer.
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
