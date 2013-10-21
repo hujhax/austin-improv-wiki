@@ -49,17 +49,24 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 ([[Ruby Willmann]] served as Assistant Director during the pre-production and development phase, but had to back out before rehearsals started due to scheduling issues.  [[Sarah Marie Curry]], who had already been cast as Willow, stepped into the role and oversaw direction of productions after [[Jordan T. Maxwell]] departed to film *[[Wikipedia - Battleground (TV series)|Battleground]]*.)
 
 ## Media
+### Videos
+#### Performances
+* [http://vimeo.com/66583951 Video] by [[Leann Fryer]] of the 10/10/11 preview.
+* [http://vimeo.com/58122681 Video] by [[Leann Fryer]] of the 11/22/11 performance.
+* [http://vimeo.com/40986174 Video] by [[Leann Fryer]] of the 11/28/11 performance.
+
+#### Other
 * [http://vimeo.com/32064772 Video of Brett and Andrew workshopping one of the production's improvised sections.]
-* [http://www.facebook.com/media/set/?set=a.10150288659198621.344556.511938620&type=1 Photoset] of rehearsal, publicity, and costume-test shots from [[Jordan T. Maxwell]].
 * [http://vimeo.com/31125314 Opening-credits video] by [[Leann Fryer]].
-* 10/10/11 preview:
-** [http://vimeo.com/66583951 Video] by [[Leann Fryer]].
-** [http://www.facebook.com/media/set/?set=a.181560375258327.48331.100002130980897&type=1 Photoset] by [[Steve Rogers]].
-* 11/1/11 performance:
-** [http://www.facebook.com/media/set/?set=a.216275195107834.51655.118587218209966&type=1 Photoset] by [[Roy Moore]].
-** [http://www.facebook.com/media/set/?set=a.10150351355658325.353816.608098324&type=1 Photoset] by Marsha G. Mitchell.
-* 11/22/11 performance:
-** [http://vimeo.com/58122681 Video] by [[Leann Fryer]].
-** [http://www.facebook.com/media/set/?set=a.246276032102587.63825.221927764537414&type=1 Photoset] by [[Steve Rogers]].
-* 11/28/11 performance:
-** [http://vimeo.com/40986174 Video] by [[Leann Fryer]].
+
+### Photos
+#### Performances
+* [http://www.facebook.com/hujhax/media_set?set=a.10150423141857265.414132.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/9/11 tech rehearsal.
+* [http://www.facebook.com/media/set/?set=a.181560375258327.48331.100002130980897&type=1 Photoset] by [[Steve Rogers]] of the 10/10/11 preview.
+* [http://www.facebook.com/media/set/?set=a.216275195107834.51655.118587218209966&type=1 Photoset] by [[Roy Moore]] of the 11/1/11 performance.
+** [http://www.facebook.com/media/set/?set=a.10150351355658325.353816.608098324&type=1 Photoset] by Marsha G. Mitchell of the same show.
+* [http://www.facebook.com/media/set/?set=a.246276032102587.63825.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 11/22/11 performance.
+
+#### Other
+* [http://www.facebook.com/media/set/?set=a.10150288659198621.344556.511938620&type=1 Photoset] from [[Jordan T. Maxwell]] of rehearsal, publicity, and costume-test shots.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150415839082265.412734.588952264&type=3 Photoset] by [[Peter Rogers]] of costume test shots from 10/2/11.
