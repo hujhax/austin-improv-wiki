@@ -17,6 +17,10 @@ After that, there is a 'lottery' -- each faculty member randomly selects an impr
 
 Starting with the 5/19/13 *Rubber Room*, the faculty made it possible for attendees to replace one of the "Short Films" segments with a custom format for the night.
 
+## Media
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.10151703977722265.1073741830.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/19/13 show.
+
 ## More Information
 * [http://www.theinstitutiontheater.com/shows/52 The show's web site.]
 
