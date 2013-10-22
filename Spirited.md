@@ -36,6 +36,8 @@ After about an hour of these explorations, there would be a transition back to t
 ** [http://www.facebook.com/media/set/?set=a.193922120676475.45895.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.facebook.com/media/set/?set=a.168144419933256.44334.100002130980897&type=3 Photoset] by [[Steve Rogers]]. 
 ** [http://vimeo.com/30096332 Video clip from opening night.]
+* 09/14/11 Review from the Austin Chronicle: Some Enchanted Evenings
+** [http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/]
 * 10/8/11 6pm performance:
 ** [http://www.facebook.com/media/set/?set=a.205305389538148.48992.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.facebook.com/media/set/?set=a.181097728637925.48242.100002130980897&type=1 Photoset] by [[Steve Rogers]].
@@ -56,6 +58,5 @@ After about an hour of these explorations, there would be a transition back to t
 ** [http://vimeo.com/40844685 Video of the show.]
 * Performance from the 2012 [[Out of Bounds Comedy Festival]]:
 ** [http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3 Photoset] by [[Steve Rogers]].
-
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
