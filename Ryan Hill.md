@@ -24,9 +24,10 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * [[Apocalypse]] (2012)
 
 ## Shows
-* *[[Live TV Tuesdays -  Buffy]]*
 * *[[After School Improv]]*
 * *[[The Black Vault]]*
+* *[[I Love You So Much]]*
+* *[[Live TV Tuesdays -  Buffy]]*
 * ''[[Love Fest]]
 * *[[The Next Chapter]]*
 
