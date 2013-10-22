@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Neal Tibrewala	
 |Picture =	Neal Tibrewala Pic.jpg
-|Theater=	{{Unbulleted list | [[The Hideout Theatre]] | [[Salvage Vanguard Theater]] | [[The Institution Theater]] }}
+|Theater=	{{Unbulleted list | [[Hideout]] }}
 |Years	=	2007-Present
 }}
 
