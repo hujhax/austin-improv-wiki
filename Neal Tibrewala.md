@@ -29,12 +29,13 @@ Throughout his improv career he has specialized in Technical Improv, having done
 * [[Fandom]] (tech)
 * [[Hitchcocked!]] (tech)
 * [[Ka-Baam!!]] (tech)
+* [[Maestro]] (performer & tech)
 * [[Manhattan Stories]] (technical director)
 * [[Spirited]] (tech)
 * [[Start Trekkin']] (technical director)
 * [[The Sci-Fi Comedy Double Feature]] (tech)
-* [[The Derby]] (tech)
-* [[Theatresports]] (technical director)
+* [[The Derby]] (tech & performer)
+* [[Theatresports]] (technical director & performer)
 
 [[Category/Performers|Tibrewala]]
 [[Category/Techs|Tibrewala]]
