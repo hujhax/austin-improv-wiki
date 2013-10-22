@@ -15,5 +15,6 @@
 * *[[Seance]]*
 * *[[The Tribunal]]*
 * *[[Theatresports]]*
+* "[[Austin Secrets]]"
 
 [[Category/Performers|Brewer]]
