@@ -22,6 +22,7 @@ Throughout his improv career he has specialized in Technical Improv, having done
 * [[My Friend Stripey]]
 
 ## Shows
+* [[' ' or Bust!]] (performer)
 * [[After School Improv]] (tech)
 * [[Austin Secrets]] (tech)
 * [[The Black Vault]] (tech)
