@@ -19,6 +19,7 @@ Throughout his improv career he has specialized in Technical Improv, having done
 * [[EPIC!]]
 * [[Flying Theater Machine]]
 * [[The Professor]] (tech)
+* [[My Friend Stripey]]
 
 ## Shows
 * [[After School Improv]] (tech)
