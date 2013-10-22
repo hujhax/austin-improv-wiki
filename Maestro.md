@@ -75,6 +75,7 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://vimeo.com/61489753 1/26/13 Maestro.]
 * [http://vimeo.com/65951692 2/9/13 Maestro.]
 ### Photos
+#### 2002
 * [http://www.facebook.com/hujhax/media_set?set=a.19095342264.15293.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/25/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19095417264.15294.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/2/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19095542264.15295.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/9/02 Maestro.
@@ -102,9 +103,12 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://www.facebook.com/hujhax/media_set?set=a.19099652264.15325.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/19/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19100172264.15327.588952264&type=3 Photoset] by [[Peter Rogers]] of the 11/2/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19100322264.15328.588952264&type=3 Photoset] by [[Peter Rogers]] of the 11/16/02 Maestro.
+#### 2003
 * [http://www.facebook.com/hujhax/media_set?set=a.19100492264.15329.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/25/03 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19100492264.15329.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/1/03 Maestro.
+#### 2008
 * [http://www.facebook.com/hujhax/media_set?set=a.42613887264.51527.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/2/08 Maestro.
+#### 2009
 * [http://www.facebook.com/hujhax/media_set?set=a.79786742264.92840.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/28/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.83199192264.96085.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/14/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.87475887264.99253.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/28/09 Maestro.
@@ -117,6 +121,7 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/31/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.242762607264.168277.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/12/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1145900099574.2020007.1589679282&type=3 Photoset] by [[Roy Moore]] of the 12/19/09 Maestro.
+#### 2010
 * [http://www.facebook.com/hujhax/media_set?set=a.275881937264.175325.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/2/10 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3 Photoset] by [[Roy Moore]] of the 1/9/10 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.300456707264.179794.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/16/10 Maestro (which included special guest Keith Johnstone).
@@ -125,13 +130,16 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://www.flickr.com/photos/oob_pics/sets/72157624879000746/ Photoset] by [[Nadine Latief]] of the 9/3/10 All-Star Maestro at [[The 2010 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/roy.moore/media_set?set=a.1349973521282.2049911.1589679282&type=3 Another photoset] by [[Roy Moore]] of the same show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1365397666876.2051363.1589679282&type=3 Photoset] by [[Roy Moore]] of the 9/18/10 Maestro.
+#### 2011
 * [http://www.facebook.com/hujhax/media_set?set=a.10150198563102265.346711.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/1/11 Maestro.
 * [http://www.facebook.com/media/set/?set=a.215015301900490.51321.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/29/11 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150527171352265.429807.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/8/11 Maestro.
+#### 2012
 * [http://www.facebook.com/hujhax/media_set?set=a.10150614504637265.443834.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/13/12 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150708161262265.455188.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/18/12 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150981823947265.481249.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/12/12 Maestro.
 * [http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 6/2/12 Maestro (from [[The 43-Hour Improv Marathon]]).
+#### 2013
 * [http://www.facebook.com/media/set/?set=a.478638782199643.115019.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/19/13 Maestro.
 
 ## Notes
