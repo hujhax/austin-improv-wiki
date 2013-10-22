@@ -23,7 +23,6 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * [[The Seven Eight Sevens]] (2012-2013)
 * [[Apocalypse]] (2012)
 
-
 ## Shows
 * *[[Live TV Tuesdays -  Buffy]]*
 * *[[After School Improv]]*
@@ -38,5 +37,29 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * [[The 2013 Out of Bounds Comedy Festival]]
 ** With [[In Our Prime]]
 ** With [[The Seven Eight Sevens]]
+
+* The Dallas Comedy Festival 2013
+** With [[The Seven Eight Sevens]]
+
+* Wafflefest 2012
+** With [[In Our Prime]]
+
+* Wafflefest 2013
+** With [[In Our Prime]]
+
+* The Improvised Play Festival 2013
+** With [[In Our Prime]]
+
+* Improv Festival Oklahoma 2012
+** With [[In Our Prime]]
+
+* Improv Festival Oklahoma 2013
+** With [[In Our Prime]]
+
+* Hawaii 2012
+** With [[In Our Prime]]
+
+* District Improv Festival 2013
+** With [[In Our Prime]]
 
 [[Category/Performers|Hill]]
