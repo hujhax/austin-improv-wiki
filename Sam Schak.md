@@ -12,8 +12,6 @@ Sam began her improv career as a student at [[The Institution Theater]].
 
 In the sketch show [[Fuck It's Hot]] at the Institution Theater, she played the "I Love You So Much" sign from Jo's Coffee on South Congress in Austin. Soon after she was cast in the show [[I Love You So Much]].
 
-She is a notorious bank robber and con-artist with her partner "Bear" Miller.
-
 ## Shows
 * *[[I Love You So Much]]*
 * *[[Fuck It's Hot]]*
