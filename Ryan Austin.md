@@ -25,7 +25,8 @@ He is known for often dressing up.
 * *[[Pocketful of Posies]]*
 * *[[Strange Worlds]]*
 * *[[TheatreSports (mainstage run)|TheatreSports]]* (2013, assistant director)
-*[[Past Lives]]
+* *[[Past Lives]]*
+* *[[I Love You So Much]]*
 
 
 [[Category/Performers|Austin]]
