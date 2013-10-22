@@ -19,8 +19,9 @@ Andrew also maintains the young, but growing bigger everyday, improv blog at [ht
 * *[[Fandom]]*
 * *[[This American Live]]*
 * ''[[Braised in Texas]]
-* [[The JTS Brown Experience]]''
+* *[[The JTS Brown Experience]]*
 * *[[Past Lives]]*
+* *[[I Love You So Much]]*
 
 ## Troupes
 * [[The Seven Eight Sevens]]
