@@ -3,7 +3,7 @@
 |Picture=	Fuck Its Hot Poster.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Tyler Bryce]] | [[Bryan Curry]] | [[Claudio Fox]] | [[Ash Nunley]] | [[Brian Lubu Roberts]] | [[Sam Schak]] | [[Sarah Swofford]] }}
+|Cast	=	{{Unbulleted list | [[Tyler Bryce]] | [[Bryan Curry]] | [[Claudio Fox]] | [[Ash Nunley]] | [[Bryan 'Lubu' Roberts]] | [[Sam Schak]] | [[Sarah Swofford]] }}
 |Run	=	Jul/August 2013
 |Tech	=	{{Unbulleted list
 | [[Chelley Pyatt]]
