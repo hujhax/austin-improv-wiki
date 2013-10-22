@@ -14,7 +14,4 @@
 
 The show sometimes featured special guest ukelele player [[Ryan Hill]].
 
-## Media
-### Videos
-### Photos
 [[Category/Shows|Fuck]]
