@@ -45,7 +45,7 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * District Improv Festival 2013 (Washington, DC)
 ** With [[In Our Prime]]
 
-* Improvaganza 2012 (Honolulu)
+* Improvaganza 2012 (Honolulu, HI)
 ** With [[In Our Prime]]
 
 * Improv Festival Oklahoma 2012 (Norman, OK)
