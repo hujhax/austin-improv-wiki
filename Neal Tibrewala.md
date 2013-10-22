@@ -26,15 +26,18 @@ Throughout his improv career he has specialized in Technical Improv, having done
 * [[Austin Secrets]] (tech)
 * [[The Black Vault]] (tech)
 * [[Charles Dickens Unleashed]] (tech)
+* [[The Derby]] (tech & performer)
 * [[Fandom]] (tech)
+* [[The Free Fringe]]
+** *[[List of Free Fringes#Shortform Mashup .28Neal Tibrewala.29|The Shortform Mashup]]* (director)
+** *[[List of Free Fringes#Object Stories .28Neal Tibrewala.29|Object Stories]]* (director)
 * [[Hitchcocked!]] (tech)
 * [[Ka-Baam!!]] (tech)
 * [[Maestro]] (performer & tech)
 * [[Manhattan Stories]] (technical director)
+* [[The Sci-Fi Comedy Double Feature]] (tech)
 * [[Spirited]] (tech)
 * [[Start Trekkin']] (technical director)
-* [[The Sci-Fi Comedy Double Feature]] (tech)
-* [[The Derby]] (tech & performer)
 * [[Theatresports]] (technical director & performer)
 
 [[Category/Performers|Tibrewala]]
