@@ -31,5 +31,12 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * ''[[Love Fest]]
 * *[[The Next Chapter]]*
 
-## Media
+## Festivals
+* [[The 2012 Out of Bounds Comedy Festival]]
+** With [[In Our Prime]]
+
+* [[The 2013 Out of Bounds Comedy Festival]]
+** With [[In Our Prime]]
+** With [[The Seven Eight Sevens]]
+
 [[Category/Performers|Hill]]
