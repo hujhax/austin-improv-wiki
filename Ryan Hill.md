@@ -39,13 +39,10 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 ** With [[In Our Prime]]
 ** With [[The Seven Eight Sevens]]
 
-* The Dallas Comedy Festival 2013
+* Dallas Comedy Festival 2013
 ** With [[The Seven Eight Sevens]]
 
-* [[WaffleFest]] 2012
-** With [[In Our Prime]]
-
-* [[WaffleFest]] 2013
+* District Improv Festival 2013
 ** With [[In Our Prime]]
 
 * The Improvised Play Festival 2013
@@ -57,10 +54,14 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * Improv Festival Oklahoma 2013
 ** With [[In Our Prime]]
 
-* Hawaii 2012
+* Improvaganza Hawaii 2012
 ** With [[In Our Prime]]
 
-* District Improv Festival 2013
+* [[WaffleFest]] 2012
 ** With [[In Our Prime]]
+
+* [[WaffleFest]] 2013
+** With [[In Our Prime]]
+
 
 [[Category/Performers|Hill]]
