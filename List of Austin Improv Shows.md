@@ -119,6 +119,8 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[Bad Girls in Plaid Skirts]]*
 * *[[The Next Chapter]]* (2013)
 * *[[The Suitcase]]* (2013)
+* *[[Hell & Back Cabaret]]* (2013)
+* *[[Scrubs  -  My Musical!]]* (2012)
 
 ## [[The New Movement Theater]]
 ### Ongoing Shows
