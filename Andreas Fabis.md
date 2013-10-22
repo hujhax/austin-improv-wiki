@@ -18,6 +18,7 @@ Fabis was born in Düsseldorf, Germany.
 * [[My Best Fiend]]
 
 ## Shows
+* *[[A Bedtime Gorey]]*
 * *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[The Black Vault]]*
 * *[[Crack!]]*
