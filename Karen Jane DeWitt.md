@@ -29,6 +29,7 @@ In 2012, she attended the iO Summer Intensive in Chicago.
 * *[[Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]* (Gabriella "Gabi" Romero)
 * *[[Danger!]]*
+* *[[I Love You So Much]]*
 * *[[Live TV Tuesdays -  Party of Five]]* (Claudia)
 
 ## More Information
