@@ -35,6 +35,7 @@ After the troupe was dissolved, [[Susannah Raulino]], [[Topping Haggerty]], and 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.426328652264.201079.588952264&type=3 Casual photos] by [[Peter Rogers]] from before and after their 4/2/10 performance at [[The Lair]].
 * [http://www.facebook.com/hujhax/media_set?set=a.432644602264.207692.588952264&type=3 A casual photo] by [[Peter Rogers]] from before their 4/9/10 performance at [[The Lair]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/13/10 show in *[[The Threefer]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1308342800540.2037332.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 7/17/10 performance at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1330574876328.2040082.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/14/10 performance at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/10 performance at [[Salvage Vanguard Theater]].
