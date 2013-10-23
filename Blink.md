@@ -9,7 +9,7 @@
 **Blink** was an improv troupe that performed organic montage.
 
 ## History
-The troupe was cast from one of the [[Merlin Works]] mixers, and played their last show at *[[The Threefer]]* on 8/19/10.
+The troupe was cast from one of the [[The Merlin Works Mixer|Merlin Works Mixers]], and played their last show at *[[The Threefer]]* on 8/19/10.
 
 ## Media
 ### Photos
