@@ -18,6 +18,7 @@ The troupe was cast from one of the [[Merlin Works]] mixers, and played their la
 * [http://www.facebook.com/roy.moore/media_set?set=a.1236039433001.2029601.1589679282&type=3 Photoset] by [[Roy Moore]] of their 4/17/10 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 5/31/10 performance in *[[The Monday Night Mash]]*.
 * [http://www.facebook.com/media/set/?set=a.1280492264294.2033519.1589679282&type=1 Photoset] by [[Roy Moore]] that includes their 6/12/10 performance in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/19/10 performance at *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.1335337155382.2040417.1589679282&type=1 Photoset] by [[Roy Moore]] of their (final) 8/19/10 performance in *[[The Threefer]]*.
 
 ### Publicity
