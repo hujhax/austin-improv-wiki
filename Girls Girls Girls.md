@@ -106,6 +106,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/roy.moore/media_set?set=a.1221978361483.2027946.1589679282&type=3 Photoset] by [[Roy Moore]] of their 4/3/10 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1249529610247.2030742.1589679282&type=3 Photoset] by [[Roy Moore]] of their 5/8/10 performance at *[[The Ladies Are Funny Festival]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/11/10 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150151636822265.328769.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/5/11 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 6/4/11 show at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.257845284278995.65486.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 12/3/11 performance in *[[The Saturday Night Special]]*.
