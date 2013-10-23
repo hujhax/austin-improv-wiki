@@ -154,6 +154,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1 A photoset from season 5.]
 * [http://www.facebook.com/hujhax/media_set?set=a.129962042264.120555.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/26/09 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/3/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/28/10 performance at [[The Highball]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1449103279464.2057829.1589679282&type=3 Photoset] by [[Roy Moore]] which includes their 12/5/10 performance at [[The Highball]].
 * [http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/4/11 performance in [[The 42-Hour Improv Marathon]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/5/12 dress rehearsal.
