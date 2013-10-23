@@ -30,6 +30,7 @@ Since then, *Dubbed Indemnity* has shown up for occasional one-off performances 
 * 5/27/11: [http://vimeo.com/24452011 Video.]
 * 6/22/13: [http://vimeo.com/73282840 Video.] (Part of [[The 44-Hour Improv Marathon]].)
 ### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 6/4/10 performance at [[The 41-Hour Improv Marathon]].
 * [http://www.facebook.com/hujhax/media_set?set=a.462070062264.231094.588952264&type=3 A photoset] by [[Peter Rogers]] of the 7/9/10 show.
 
 ## More Information
