@@ -22,8 +22,8 @@ The show included several guest performers who weren't part of the main cast:
 * [[Lauren Buck]]
 
 ## Media
+* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 3/26/10 performance.
 * [http://www.facebook.com/media/set/?set=a.1215742685595.2027304.1589679282&type=1 Photoset] by [[Roy Moore]] of the 3/27/10 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 5/1/10 performance.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/hitchcocked The show's web page.]
