@@ -41,7 +41,7 @@
 * Saturday 8pm: *[[The Andersons]]*
 * Saturday 9pm: Improv based on *1001 Monologues for Teens*
 * Saturday 10pm: *[[Maestro]]*
-* Sunday 12am: [[The Puppet Improv Project]]
+* Sunday 12am: [[Puppet Improv Project]]
 * Sunday 1am: [[Your Terrific Neighbors]] present "Parlour Games"
 * Sunday 2am: [[Look Cookie]] presents "Sleepover"
 * Sunday 3am: [http://improvencyclopedia.org/games/The_Bat.html "The Bat"] with [[ColdTowne (troupe)|ColdTowne]]
