@@ -1,4 +1,4 @@
-**The 41-Hour Improv Marathon** was the second annual [[Hideout Improv Marathon]].  It was performed in 2010.
+**The 41-Hour Improv Marathon** was the second annual [[Hideout Improv Marathon]].  It was performed from 6/4/2010 to 6/6/2010.
 
 ## Core Players
 * [[Bill Stern]] 
