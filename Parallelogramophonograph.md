@@ -46,6 +46,7 @@ An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wik
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/11/10 "French Farce" show at [[ColdTowne Theater]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/7/10 show from *[[The Spectacle]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/21/10 show from *[[The Spectacle]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/18/10 performance.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1320517784907.2039246.1589679282&type=3 A photoset] by [[Roy Moore]] that includes their 7/31/10 performance at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.296102733786583.73596.221927764537414&type=3 Photoset of their 2/10/12 "Reverend Goodman" show] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.356404607756395.86521.221927764537414&type=3 Photoset of their 5/5/12 "Parallelogramophonograph SINGS" show] by [[Steve Rogers]].
