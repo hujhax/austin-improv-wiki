@@ -32,7 +32,8 @@ After two years of relative inactivity, the troupe performed their final show at
 * [http://www.facebook.com/hujhax/media_set?set=a.251222597264.169617.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/18/09 "Office Party" show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/5/10 show at *[[The Double Barrel]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1198757940987.2025752.1589679282&type=3 Photoset] by [[Roy Moore]] of their 3/5/10 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/5/10 performance at [[The 40-Hour Improv Marathon]].
+* [http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/5/10 performance at [[The 41-Hour Improv Marathon]].
+** [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes the same performance.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1348520124948.2045014.1589679282&type=3 Photoset] by [[Roy Moore]] of their 9/2/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10150403717672265.410072.588952264&type=3 Photoset] by [[Peter Rogers]] of their 9/19/11 performance at [[ColdTowne Theater]].
 * [http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in the 2012 [[WaffleFest]].
