@@ -24,5 +24,6 @@ The first performance was a [[Cagematch]] show and happened on Saturday, March 7
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.114135967264.110677.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/15/09 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] of their 5/16/10 performance in *[[The Weekender]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/27/10 performance.
 
 [[Category/Troupes|Category:Troupes]]
