@@ -51,6 +51,7 @@ An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wik
 * [http://www.facebook.com/roy.moore/media_set?set=a.1320517784907.2039246.1589679282&type=3 A photoset] by [[Roy Moore]] that includes their 7/31/10 performance at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/20/10 "Eris 2035" performance at *[[The Spectacle]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/10/10 "Eris 2035" performance at *[[The Spectacle]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/17/10 performance at *[[The Spectacle]]*.
 * [http://www.facebook.com/media/set/?set=a.296102733786583.73596.221927764537414&type=3 Photoset of their 2/10/12 "Reverend Goodman" show] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.356404607756395.86521.221927764537414&type=3 Photoset of their 5/5/12 "Parallelogramophonograph SINGS" show] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 9/2/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
