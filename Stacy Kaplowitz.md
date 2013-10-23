@@ -5,7 +5,7 @@
 |Years	=	2009-2010
 }}
 
-**Stacy Kaplowitz** is an improv performer.
+**Stacy Kaplowitz** was an improv performer.
 
 ## Shows
 * *[[The Andersons]]*
