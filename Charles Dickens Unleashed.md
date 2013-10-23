@@ -99,6 +99,7 @@ On 11/17/11, cast members [[Curtis Luciani]], [[Kaci Beeler]], and [[Peter Roger
 * 12/05/09 "orphans" performance: [http://www.facebook.com/hujhax/media_set?set=a.242733297264.168271.588952264&type=3 photoset] by [[Peter Rogers]].
 * 12/12/09 "orphans" performance: [http://www.facebook.com/hujhax/media_set?set=a.242759517264.168275.588952264&type=3 photoset] by [[Peter Rogers]].
 * 12/19/09 performance: [http://www.facebook.com/roy.moore/photos?collection_token=1589679282%3A2305272732%3A69&set=a.1145815257453.2020001.1589679282&type=3 photoset] by [[Roy Moore]]; [http://www.facebook.com/hujhax/media_set?set=a.253986712264.170277.588952264&type=3 photoset] by [[Peter Rogers]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 12/4/10 performance.
 * 12/3/11 8pm performance: [http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.2231464548864.102851.1315383518&type=1 photoset] by [[Michael Yew]].
 * 12/10/11 8pm performance: [http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.2275267843919.103545.1315383518&type=3 photoset] by [[Michael Yew]].
 * 12/17/11 performance: [http://www.facebook.com/media/set/?set=a.462273963836125.112151.221927764537414&type=3 photoset] by [[Steve Rogers]].
