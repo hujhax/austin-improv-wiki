@@ -34,6 +34,7 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * [http://www.facebook.com/media/set/?set=a.441737982264.214512.588952264&type=3 A photoset of the 5/15/10 show] by [[Peter Rogers]], and [http://www.facebook.com/hujhax/media_set?set=a.447241452264.218625.588952264&type=3 a selfie of his costume].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 6/5/10 performance at [[The 41-Hour Improv Marathon]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
+** [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes the same performance.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
 * [http://www.facebook.com/media/set/?set=a.1344776671364.2041272.1589679282&type=3 A photoset of the 8/29/10 show]  by [[Roy Moore]]
 * [http://www.facebook.com/media/set/?set=a.1633431608865.84097.1628915954&type=3 A photoset of the 12/18/10 show] by [[Deano Jones]].
