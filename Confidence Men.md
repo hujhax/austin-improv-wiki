@@ -32,6 +32,7 @@ This is their bio from their web site:
 * [http://www.facebook.com/hujhax/media_set?set=a.242737852264.168272.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/11/09 performance ("Asylum").
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/21/10 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] of their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/23/10 performance at *[[The Spectacle]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1719096989138.2081992.1589679282&type=3 Photoset] by [[Roy Moore]] of their 6/14/11 "Two Year Anniversary" show.
