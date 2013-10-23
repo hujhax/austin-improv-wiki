@@ -34,6 +34,7 @@ The show is created by mixing highly volatile puppet characters with a band of u
 * Video by [[Sara Farr]] of the 8/6/10 show, in four parts: [http://vimeo.com/16455732 1], [http://vimeo.com/16456196 2], [http://vimeo.com/16456760 3], [http://vimeo.com/16456886 4].
 
 ### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 11/28/09 show.
 * [http://www.facebook.com/media/set/?set=a.1325506949633.2039669.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/6/10 show.
 * [http://www.facebook.com/media/set/?set=a.1328148975682.2039874.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/7/10 show.
 * [http://www.facebook.com/media/set/?set=a.1330395951855.2040063.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/13/10 show.
