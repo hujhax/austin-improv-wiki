@@ -108,6 +108,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://vimeo.com/54746832 Video of the 12/1/12 performance.]
 
 ### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 2/6/10 show.
 * [http://www.facebook.com/hujhax/media_set?set=a.482845292264.261205.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/2/10 show from [[The 2010 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.408278745907477.91540.118587218209966&type=3 Photoset] by [[Roy Moore]] of the show from the 2012 [[WaffleFest]].
 * [http://www.facebook.com/media/set/?set=a.451551858241669.109988.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/24/12 performance.
