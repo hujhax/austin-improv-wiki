@@ -24,6 +24,11 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 <p>We hope that you'll join us for this unique show. The Hideout Theatre has managed to acquire an impressive collection of Baudecliffe's work, which will be on display during the run. We've also been recording and editing a short documentary that will help introduce people to the Baudecliffe phenomenon."</p></blockquote>
 
 ## Media
+### Videos
+* [http://vimeo.com/13863061 Video of the 7/31/10 performance] by [[Kristin Firth]].
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/28/10 performance.
+### Publicity
 * [http://youtu.be/wmasllYo73g "Baudecliffe's Art"] by [[Kaci Beeler]].
 * Interviews with local artists about Mr. Baudecliffe:
 ** [http://youtu.be/V2iAATDydHE Interview] with [[Jon Bolden]].
@@ -34,7 +39,6 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 ** [http://vimeo.com/12930561 Interview with Ben Hill.]
 ** [http://youtu.be/vVx5ahTbt9U Interview with Dano Johnson.]
 ** [http://youtu.be/Y-IlVZjYZ6Y Interview with Tracy Lands.]
-* [http://vimeo.com/13863061 Video of the 7/31/10 performance] by [[Kristin Firth]].
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/whoist-henrybaudecliffe The show's web page.]
