@@ -1,0 +1,1 @@
+Faster, Robot! Kill! Kill! is a duo trope featuring [[Lisa Jackson]] and [[Brett Tribe]].
