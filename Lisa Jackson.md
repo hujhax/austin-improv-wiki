@@ -8,7 +8,7 @@
 **Lisa Jackson** is an improv instructor and performer.
 
 ## History
-Lisa appeared in [[The 42-Hour Improv Marathon]], and will appear in [[The 44-Hour Improv Marathon]], both at [[The Hideout Theatre]].
+Lisa appeared in [[The 42-Hour Improv Marathon]], and [[The 44-Hour Improv Marathon]], both at [[The Hideout Theatre]].
 
 ## Troupes
 * [[Dervish]]
@@ -16,6 +16,7 @@ Lisa appeared in [[The 42-Hour Improv Marathon]], and will appear in [[The 44-Ho
 * [[Ratliff and Jackson]]
 * [[Stool Pigeon]]
 * [[Nice Astronaut]] (former member)
+* [[Faster, Robot! Kill! Kill!]]
 
 ## Shows
 * *[[Austin Secrets]]*
