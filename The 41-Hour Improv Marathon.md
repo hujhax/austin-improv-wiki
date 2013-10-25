@@ -46,7 +46,8 @@
 * Sunday 2am: [[Look Cookie]] presents "Sleepover"
 * Sunday 3am: [http://improvencyclopedia.org/games/The_Bat.html "The Bat"] with [[ColdTowne (troupe)|ColdTowne]]
 * Sunday 4am: [[Midnight Society]] presents "Late Night Talk Show"
-* Sunday 5am: [[The Starter Kit]] presents a time-travel adventure
+* Sunday 5am: [[The Starter Kit]]
+** They presented "Professor Dobson's Time Travel Adventure", which was in some ways a progenitor of [[The Professor]].
 * Sunday 6am: [[Holy 1960s Batman, Batman!|"Holy Sleep Deprivation, Batman!"]], an improvised episode of the 60s *Batman* tv show
 * Sunday 7am: [[The Frank Mills]]
 * Sunday 8am: "The Final Countdown", free-form improv with the core improvisors
