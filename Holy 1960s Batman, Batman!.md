@@ -40,19 +40,21 @@ After its mainstage performances, it had its run extended for two weeks, played 
 On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective roles as Chief O'Hara and Commissioner Gordon for a *[[Free Fringe]]* format called "Waiting for Batman".  In it, the two characters spent twenty minutes chatting and waiting for Batman to show up at the commissioner's office.
 
 ## Media
-* Photos:
-** [http://www.facebook.com/media/set/?set=a.10150154016553510.295261.24535278509&type=3 Publicity photos for the mainstage run.]
-** [http://www.facebook.com/media/set/?set=a.1879506000571.105920.1628915954&type=3 Pictures from their live appearance on KEYE.]
-** [http://www.facebook.com/media/set/?set=a.123789247702107.31360.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 5/14/11 performance.
-** [http://www.facebook.com/media/set/?set=a.1909076659819.107287.1628915954&type=3 Photoset] posted by [[Deano Jones]] of the 5/21/11 performance ("The Baguette").
-** [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 5/28/11 performance.
-** [http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/2/11 performance in [[The 2011 Improvised Play Festival]].
-** [http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3 Photoset] posted by [[Deano Jones]] of their Black Box Festival performance in Atlanta
-* Videos:
-** [http://youtu.be/OpWVV8wuM1A The video intro for the show.]
-** Teasers for the show: [http://youtu.be/v-Enot5nZyg "Superior Intellect"], [http://youtu.be/vmYDs-M53_8 "Walk It Off"], [http://youtu.be/17FTN8qNMqc "A Dream Come True"], [http://youtu.be/6a7QO56rKm0 "No Ego"], [http://youtu.be/h_jpVQn3Lfk "Chia Pet"].
-** [http://youtu.be/c4V0yO1ZXIg A teaser for the Halloween shows.]
-** [http://vimeo.com/60813845 Video of "Waiting for Batman".]
+### Videos
+* [http://youtu.be/OpWVV8wuM1A The video intro for the show.]
+* Teasers for the show: [http://youtu.be/v-Enot5nZyg "Superior Intellect"], [http://youtu.be/vmYDs-M53_8 "Walk It Off"], [http://youtu.be/17FTN8qNMqc "A Dream Come True"], [http://youtu.be/6a7QO56rKm0 "No Ego"], [http://youtu.be/h_jpVQn3Lfk "Chia Pet"].
+* [http://youtu.be/c4V0yO1ZXIg A teaser for the Halloween shows.]
+* [http://vimeo.com/60813845 Video of "Waiting for Batman".]
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.10150154016553510.295261.24535278509&type=3 Publicity photos for the mainstage run.]
+* [http://www.facebook.com/media/set/?set=a.1879506000571.105920.1628915954&type=3 Pictures from their live appearance on KEYE.]
+* [http://www.facebook.com/media/set/?set=a.123789247702107.31360.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 5/14/11 performance.
+* [http://www.facebook.com/media/set/?set=a.1909076659819.107287.1628915954&type=3 Photoset] posted by [[Deano Jones]] of the 5/21/11 performance ("The Baguette").
+* [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 5/28/11 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/11/11 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/2/11 performance in [[The 2011 Improvised Play Festival]].
+* [http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3 Photoset] posted by [[Deano Jones]] of their Black Box Festival performance in Atlanta
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
