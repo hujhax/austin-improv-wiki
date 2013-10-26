@@ -10,7 +10,7 @@ __NOINDEX__
 |Run	=	Jul/Aug 2011
 }}
 
-***Live Nude Improv*** was a mainstage show at [[The Hideout Theatre]]. 
+***Live Nude Improv*** (also referred to as the ***Live Summer Show***) was a mainstage show at [[The Hideout Theatre]]. 
 
 ## Summary
 *Live Nude Improv* acted under the conceit that the Hideout was about to put on a play, that all the attendees -- cast and audience alike -- had been cast in this play, and that they had all arrived at the final rehearsal for that play.  In actuality, there was no play, and the attendees were collectively making everything up as they went along.
