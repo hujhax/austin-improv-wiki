@@ -25,6 +25,7 @@
 * [http://www.facebook.com/hujhax/media_set?set=a.498462097264.290141.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/24/10 show.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150150644617265.328172.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/21/11 show.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150231663867265.348837.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/8/11 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 4/22/11 performance at [[The Hideout Theatre]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10150263787272265.370555.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/13/11 show.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150282216542265.375392.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/27/11 show.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150299790862265.381469.588952264&type=3 Photoset] by [[Peter Rogers]] of the 6/17/11 show.
