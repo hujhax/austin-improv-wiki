@@ -52,7 +52,7 @@ On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective ro
 * [http://www.facebook.com/media/set/?set=a.123789247702107.31360.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 5/14/11 performance.
 * [http://www.facebook.com/media/set/?set=a.1909076659819.107287.1628915954&type=3 Photoset] posted by [[Deano Jones]] of the 5/21/11 performance ("The Baguette").
 * [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 5/28/11 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/11/11 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/11/11 performance.
 * [http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/2/11 performance in [[The 2011 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3 Photoset] posted by [[Deano Jones]] of their Black Box Festival performance in Atlanta
 
