@@ -84,6 +84,7 @@ Season three will be on Saturdays at [[The Institution Theater]] in November 201
 ** [http://www.viddler.com/v/d82d5bf6 Video of the regeneration scene] by [[Michael Ferstenfeld]].
 * 10/21/11 performance (1x03: "The Price of Periwinkles"):
 ** [http://www.facebook.com/media/set/?set=a.211122242289796.50272.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 10/21/11 show.
 ** [http://www.viddler.com/v/44c548e3 Video] by [[Michael Ferstenfeld]].
 * 10/28/11 performance (1x04: "Are We Off-World Yet?"):
 ** [http://www.viddler.com/v/66a1d12f Video] by [[Michael Ferstenfeld]].
