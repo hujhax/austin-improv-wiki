@@ -16,4 +16,9 @@ Kirschner, Garcia, and Wilson eventually left the troupe to pursue other interes
 
 The Starter Kit split up in mid-2011 due to creative differences.
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/14/11 performance in *[[The Threefer]]*.
+
+
 [[Category/Troupes|Starter Kit]]
