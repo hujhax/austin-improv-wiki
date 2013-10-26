@@ -30,6 +30,7 @@ The troupe participated in [[The 40-Hour Improv Marathon]] and [[The 41-Hour Imp
 * [http://www.facebook.com/media/set/?set=a.1299236843754.36635.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 6/6/10 performance.
 * [http://www.facebook.com/media/set/?set=a.479155366923.261825.106747986923&type=1 A photoset] by [[Stephanie Hagemeister]] of their 11/19/10 performance in [[WaffleFest]].
 ** [http://www.facebook.com/hujhax/media_set?set=a.10150109005422265.302244.588952264&type=3 Another photoset] of the show by [[Peter Rogers]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/6/11 performance at [[The Hideout Theatre]].
 * [http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1 A photoset] by [[Michael Yew]] that includes a 2/6/11 performance.
 * [http://www.facebook.com/media/set/?set=a.10151003285993086.481280.509318085&type=1 A photoset] by [[Arian Bumby]] that includes their performance in the 2011 [[Austin Sketchfest]].
 ** [http://www.facebook.com/media/set/?set=a.126797817401250.32892.100002130980897&type=1 A photoset] by [[Steve Rogers]] that includes the same show.
