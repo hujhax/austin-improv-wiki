@@ -16,8 +16,9 @@ This is their bio from their facebook page:
 ## Media
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/27/10 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/19/10 performance at *[[The Threefer]]*.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/19/10 performance at *[[The Threefer]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/19/10 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/19/10 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/24/11 performance in *[[The Threefer]]*.
 
 ## More Information
 * [http://www.facebook.com/SOBimprov The troupe's facebook page.]
