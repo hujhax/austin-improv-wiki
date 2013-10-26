@@ -26,7 +26,8 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/2/10 "Fitzgeralds for Hire" show at *[[The Threefer]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150120828317265.308821.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/9/10 "Fitzgeralds for Hire" show at *[[The Threefer]]*.
-* [https://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/23/10 "Fitzgeralds for Hire" show at [[The Hideout Theatre]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/23/10 "Fitzgeralds for Hire" show at [[The Hideout Theatre]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/23/11 performance at [[The Hideout Theatre]].
 * [http://www.facebook.com/media/set/?set=a.10150661726392265.450321.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/2/12 "Catchin' Frogs" show.
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12  "Catchin' Frogs" show at the *[[Free Fringe]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.10151908985107265.1073741836.588952264&type=3 Photoset] by [[Peter Rogers]] of their 8/28/13 "Fitzgeralds for Hire" show at *[[The 2013 Out of Bounds Comedy Festival]]*.
