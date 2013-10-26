@@ -145,6 +145,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3 Photoset] by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3 Another photoset of the show] by [[Peter Rogers]]
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/5/10 performance at [[The 41-Hour Improv Marathon]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 10/22/10 performance at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3 Photoset] by [[Peter Rogers]] of their 10/23/10 show at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3 Photoset] by [[Roy Moore]] of their 10/29/10 show at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3 Photoset] by [[Peter Rogers]] of their 11/13/10 show at [[Salvage Vanguard Theater]].
