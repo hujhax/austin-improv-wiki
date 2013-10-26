@@ -45,6 +45,7 @@ After about an hour of these explorations, there would be a transition back to t
 ** [http://www.facebook.com/media/set/?set=a.205745719494115.49091.118587218209966&type=3 Photoset] by [[Roy Moore]].
 * 10/15/11 6pm performance:
 ** [http://www.facebook.com/media/set/?set=a.208078812594139.49557.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.facebook.com/michael.yew/media_set?set=a.2050770631629.98662.1315383518&type=3 Photoset] by [[Michael Yew]].
 * 10/15/11 8pm performance:
 ** [http://www.facebook.com/media/set/?set=a.208760575859296.49669.118587218209966&type=3 Photoset] by [[Roy Moore]].
 * 10/22/11 6pm performance:
