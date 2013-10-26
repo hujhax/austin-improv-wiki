@@ -65,6 +65,7 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 * [http://www.facebook.com/media/set/?set=a.181560375258327.48331.100002130980897&type=1 Photoset] by [[Steve Rogers]] of the 10/10/11 preview.
 * [http://www.facebook.com/media/set/?set=a.216275195107834.51655.118587218209966&type=1 Photoset] by [[Roy Moore]] of the 11/1/11 performance.
 ** [http://www.facebook.com/media/set/?set=a.10150351355658325.353816.608098324&type=1 Photoset] by Marsha G. Mitchell of the same show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/8/11 performance at [[The Highball]].
 * [http://www.facebook.com/media/set/?set=a.246276032102587.63825.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 11/22/11 performance.
 ** [http://www.facebook.com/hujhax/media_set?set=a.10150492012902265.426071.588952264&type=3 Photoset] by [[Madeline Jo Chauvin]] of the same show.
 
