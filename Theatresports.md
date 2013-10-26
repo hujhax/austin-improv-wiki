@@ -150,9 +150,12 @@ The schedule is as follows:
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/25/10 performance.
-* [http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1 Photoset] by [[Roy Moore]] of the 9/18/10 performance.
+* [http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1 Photoset] by [[Roy Moore]] of the 9/18/2010 match between Team Cathedral of Junk and Team H8 Cupcake.
+** [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the same show.
+[http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 10/1/2010 match between Team Katz's Deli and Team Taco Deli.
 * [http://www.facebook.com/media/set/?set=a.1379182571490.2052519.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/2/10 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/30/10 performance.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/30/10 final match.
+** [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the same match.
 * [http://www.facebook.com/hujhax/media_set?set=a.19102197264.15341.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/14/12 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.19102282264.15342.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/21/12 performance.
 * [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 5/4/13 performance.
