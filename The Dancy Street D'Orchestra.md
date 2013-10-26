@@ -41,6 +41,7 @@ After the troupe was dissolved, [[Susannah Raulino]], [[Topping Haggerty]], and 
 * [http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/10 performance at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10150150528457265.328109.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/3/11 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/10/11 performance at [[The Hideout Theatre]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/24/11 performance at [[The Hideout Theatre]].
 
 ## More Information
 * [http://dancy.austinimprov.co The troupe's web site.]
