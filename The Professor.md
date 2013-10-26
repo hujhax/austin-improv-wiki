@@ -76,7 +76,7 @@ Season three will be on Saturdays at [[The Institution Theater]] in November 201
 
 ## Media
 ### Season Zero
-* [[Http - --www.facebook.com-michael.yew-media setset=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/23/11 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/23/11 performance in *[[The Threefer]]*.
 
 ### Season One
 * 10/14/11 performance:
