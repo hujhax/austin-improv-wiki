@@ -40,7 +40,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 2/5/10 *[[Double Barrel]]* show.
-* [http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 11/5/10 show.
+* [http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 11/5/10 show in *[[The Spectacle]]*.
 * [http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 1/23/11 show.
 * [http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 3/25/11 and 4/22/11 shows.
 * A [http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3 photoset] by [[Roy Moore]] that includes their 5/8/11 show at [[The Ladies Are Funny Festival]].
