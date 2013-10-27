@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		The Intentions
 |Picture	=	The Intentions.jpg
-|Cast	=	{{Unbulleted list | [[Bob Khosravi]] | [[Brett Tribe]] | [[Chelsea Gilman]] | [[Deano Jones]] | [[Jason Finkleman]] | [[Kimberly Cox]] }}
+|Cast	=	{{Unbulleted list | [[Bob Khosravi]] | [[Brett Tribe]] | [[Chelsea Gilman]] | [[Deano Jones]] | [[Jason Finkelman]] | [[Kimberly Cox]] }}
 |Years	=		2010-Present
 }}
 
