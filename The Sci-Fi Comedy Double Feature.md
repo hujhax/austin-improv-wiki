@@ -16,9 +16,10 @@ The show opened with *[[Twilight Zoned]]*.  That act would use about five improv
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/5/12 dress rehearsal.
-* [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/8/12 performance.
-* [http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 1/14/12 performance.
+* [http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/5/12 dress rehearsal.
+* [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/8/12 performance.
+* [http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/14/12 performance.
+* [http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2/25/12 performance.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/thesci-fidoublefeature The show's web page.]
