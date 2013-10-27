@@ -31,6 +31,7 @@ It was part of [[The 44-Hour Improv Marathon]]
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3 Photoset] by [[Peter Rogers]] of their 1/5/12 performance at *[[The Free Fringe]]*.
+** [http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes the same show.
 
 [[Category/Active|Category:Active]]
 [[Category/Shows|Category:Shows]]
