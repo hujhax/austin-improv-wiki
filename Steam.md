@@ -64,6 +64,7 @@ Like *[[Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" tel
 * Night 5 (1/20/12)
 ** Photosets by Steve Rogers: [http://www.facebook.com/media/set/?set=a.280001812063342.70633.221927764537414&type=3 1], [http://www.facebook.com/media/set/?set=a.284270068303183.71564.221927764537414&type=3 2].
 ** [http://www.facebook.com/media/set/?set=a.259084494160237.59888.118587218209966&type=3 Photoset of the 1/20/12 show] by [[Roy Moore]].
+** [http://www.facebook.com/michael.yew/media_set?set=a.2498819352567.108485.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the show.
 * Night 6 (1/21/12)
 ** [http://www.facebook.com/media/set/?set=a.259795757422444.60075.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.facebook.com/media/set/?set=a.280686221994901.70792.221927764537414&type=3 Photoset] by [[Steve Rogers]].
@@ -76,6 +77,7 @@ Like *[[Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" tel
 ** [http://www.facebook.com/media/set/?set=a.290146614382195.72625.221927764537414&type=3 Photoset] by [[Steve Rogers]].
 * Night 10 (2/4/12)
 ** [http://www.facebook.com/media/set/?set=a.269124603156226.61798.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.facebook.com/michael.yew/media_set?set=a.2498819352567.108485.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the show.
 
 ### Publicity
 * [http://www.facebook.com/media/set/?set=a.273249729405217.69252.221927764537414&type=3 Character photoset] by [[Steve Rogers]].
