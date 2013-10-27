@@ -11,13 +11,13 @@ Jason began performing improv after taking classes at the University of Florida 
 
 Since moving to Austin in 2010, he has appeared in *[[Rock]]* and was the show director for [[The Seven Eight Sevens]].
 
-He is a member of Austin troupes [[The Intentions]], [[JTS Brown, aka Array]], [[Newsical]], and [[The Wombmates]].
+He is a member of Austin troupes [[The Intentions]], [[JTS Brown (aka Array)]], [[Newsical]], and [[The Wombmates]].
 
 ## Troupes
 * [[The Intentions]] (2010)
 * [[The Seven Eight Sevens]] (director) (2012)
 * [[Duck Duck Boom]] (2011)
-* [[JTS Brown aka Array]] (2013)
+* [[JTS Brown (aka Array)]] (2013)
 * [[Newsical]] (2013)
 * [[The Wombmates]] (2013)
 
