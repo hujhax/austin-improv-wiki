@@ -28,10 +28,12 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/hujhax/media_set?set=a.10150116451902265.306393.588952264&type=3 A photoset] by [[Peter Rogers]] of the 12/3/10 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150170941132265.337552.588952264&type=3 A photoset] by [[Peter Rogers]] of the 3/4/11 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150257321562265.368949.588952264&type=3 A photoset] by [[Peter Rogers]] of the 5/6/11 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 6/18/10 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 9/10/10 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 6/18/10 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 9/10/10 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150331885122265.390794.588952264&type=3 A photoset] by [[Peter Rogers]] of the 7/15/11 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2031102379935.98059.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/7/11 performance
+* [http://www.facebook.com/michael.yew/media_set?set=a.2031102379935.98059.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/7/11 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.2112633858171.100660.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 11/4/11 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.2112633858171.100660.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 12/2/11 performance.
 * [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/2012 performance.
 * [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/2012 performance.
 * [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 A photoset] by [[Michael Yew]] of the 12/2012 performance.
