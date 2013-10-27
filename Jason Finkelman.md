@@ -6,6 +6,8 @@
 
 **Jason Finkelman** is an Austin improvisor.
 
+ "__NOINDEX__" 
+
 ## History
 Jason began performing improv after taking classes at the University of Florida in 2000.  After college, he performed improv as a member of Just The Funny and Model Citizens in Miami, Florida and festivals throughout the country.
 
