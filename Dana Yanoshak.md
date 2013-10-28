@@ -10,7 +10,7 @@
 ## Troupes
 * [[Apocalypse]]
 * [[Bedfellows]]
-* [[My Best Fiend]]
+* [[My Best Fiend]] (Guest appearance) 
 * [[Senshi Sokkyo]]
 
 ## Shows
