@@ -82,7 +82,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Valerie Ward]]
 
 ### Season Four
-#### cast
+#### Cast
 * [[Aaron Saenz]]
 * [[Alex Dobrenko]]
 * [[Bridget Brewer]]
@@ -96,14 +96,14 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Karen Jane DeWitt]]
 * [[Marc Majcher]]
 * [[Michael Joplin]]
-#### tech
-* [[Cindy Page]]
-* [[Luke Wallens]]
-* [[Jennifer Brinlee]]
-* [[Dean Palm]]
-* [[David Ronn]]
-* [[Warren Henderson]]
+#### Tech
 * [[Chris Albano]]
+* [[Cindy Page]]
+* [[David Ronn]]
+* [[Dean Palm]]
+* [[Jennifer Brinlee]]
+* [[Luke Wallens]]
+* [[Warren Henderson]]
 
 ## Media
 ### Videos
