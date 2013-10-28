@@ -8,9 +8,9 @@
 ## History
 **Dana Yanoshak** is an improv performer. Sometimes she performs in a Furkini.
 ## Troupes
-* [[Apocalypse]]
+* [[Apocalypse (troupe)|Apocalypse]]
 * [[Bedfellows]]
-* [[My Best Fiend]](Guest Appearance as Marlene Dietrich) 
+* [[My Best Fiend]] (Guest Appearance as Marlene Dietrich) 
 * [[Senshi Sokkyo]]
 
 ## Shows
