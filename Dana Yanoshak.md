@@ -15,13 +15,11 @@
 
 ## Shows
 * *[[The Derby]]*
-* *[[Dusk - Improvised Tween Erotica]]*
+* *[[Dusk]]*
 * *[[The Fancy-Pants Mashup]]*
 * *[[Live Nude Improv]]*
 * *[[Love Fest]]*
-* *[[Mr. Morbid's Moonlight Movie Madness Mayhem Massacre!]]*
+* *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
 * *[[Seance]]*
-
-
 
 [[Category/Performers|Yanoshak]]
