@@ -97,7 +97,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Marc Majcher]]
 * [[Michael Joplin]]
 #### tech
-* [[Cindy Ward]]
+* [[Cindy Page]]
 * [[Luke Wallens]]
 * [[Jennifer Brinlee]]
 * [[Dean Palm]]
