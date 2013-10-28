@@ -14,11 +14,13 @@
 * [[Senshi Sokkyo]]
 
 ## Shows
-* *[[Mr. Morbid's Moonlight Movie Madness Mayhem Massacre!]]*
-* *[[Love Fest]]*
-* *[[Seance]]*
 * *[[The Derby]]*
-* *[[Live Nude Improv]]*
 * *[[Dusk - Improvised Tween Erotica]]*
+* *[[Live Nude Improv]]*
+* *[[Love Fest]]*
+* *[[Mr. Morbid's Moonlight Movie Madness Mayhem Massacre!]]*
+* *[[Seance]]*
+
+
 
 [[Category/Performers|Yanoshak]]
