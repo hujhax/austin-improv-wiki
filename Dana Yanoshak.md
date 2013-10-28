@@ -10,7 +10,7 @@
 ## Troupes
 * [[Apocalypse]]
 * [[Bedfellows]]
-* [[My Best Fiend]] (Guest appearance) 
+* [[My Best Fiend]](Guest Appearance as Marlene Dietrich) 
 * [[Senshi Sokkyo]]
 
 ## Shows
