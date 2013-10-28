@@ -8,9 +8,11 @@
 ## History
 **Dana Yanoshak** is an improv performer. Sometimes she performs in a Furkini.
 ## Troupes
-* [[Bedfellows]]
 * [[Apocalypse]]
+* [[Bedfellows]]
+* [[My Best Fiend]]
 * [[Senshi Sokkyo]]
+
 ## Shows
 * *[[Mr. Morbid's Moonlight Movie Madness Mayhem Massacre!]]*
 * *[[Love Fest]]*
