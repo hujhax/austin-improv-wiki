@@ -12,6 +12,7 @@
 * [[Apocalypse]]
 * [[Senshi Sokkyo]]
 ## Shows
+* *[[Mr. Morbid's Moonlight Movie Madness Mayhem Massacre!]]*
 * *[[Love Fest]]*
 * *[[Seance]]*
 * *[[The Derby]]*
