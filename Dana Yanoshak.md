@@ -16,6 +16,7 @@
 ## Shows
 * *[[The Derby]]*
 * *[[Dusk - Improvised Tween Erotica]]*
+* *[[The Fancy-Pants Mashup]]*
 * *[[Live Nude Improv]]*
 * *[[Love Fest]]*
 * *[[Mr. Morbid's Moonlight Movie Madness Mayhem Massacre!]]*
