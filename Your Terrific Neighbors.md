@@ -36,6 +36,7 @@ The troupe participated in [[The 40-Hour Improv Marathon]] and [[The 41-Hour Imp
 ** [http://www.facebook.com/media/set/?set=a.126797817401250.32892.100002130980897&type=1 A photoset] by [[Steve Rogers]] that includes the same show.
 * [http://www.facebook.com/media/set/?set=a.164587043622327.43580.100002130980897&type=1 A photoset] by [[Steve Rogers]] that includes their performance in [[The 2011 Out of Bounds Comedy Festival]], on 9/3/11.
 * [http://www.facebook.com/media/set/?set=a.370876979642491.89035.221927764537414&type=1 A photoset] by [[Steve Rogers]] of their performance in the 2012 [[Austin Sketchfest]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/24/12 performance.
 * [http://www.facebook.com/media/set/?set=a.396688563727999.94464.221927764537414&type=3 Photoset of "Ronald Stepp Presents Ron Stepp and the Stepp Sisters" from 7/13/12] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.446455175375983.99833.100000345135257&type=1 Photoset of "Ronald Stepp Presents Ron Stepp and the Stepp Sisters" from 7/14/12] by [[Claudio Fox]].
 * [http://www.facebook.com/media/set/?set=a.415628145167374.100927.221927764537414&type=3 A photoset] by [[Steve Rogers]] of their 8/31/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
