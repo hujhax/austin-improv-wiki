@@ -40,11 +40,11 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/michael.yew/media_set?set=a.2899917379767.116680.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/6/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3062135595121.119568.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/4/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3341472898379.125369.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/6/12 performance.
-* [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/3/2012 performance.
-* [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/7/2012 performance.
-* [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 A photoset] by [[Michael Yew]] of the 12/7/2012 performance.
-* [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 A photoset] by [[Michael Yew]] of the 1/4/2013 performance.
-* [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 A photoset] by [[Michael Yew]] of the 3/1/2013 performance.
+* [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/3/12 performance.
+* [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/7/12 performance.
+* [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 A photoset] by [[Michael Yew]] of the 12/7/12 performance.
+* [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 A photoset] by [[Michael Yew]] of the 1/4/13 performance.
+* [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 A photoset] by [[Michael Yew]] of the 3/1/13 performance.
 
 ### Videos
 * [http://vimeo.com/23484902 Video of 5/6/11 performance.]
