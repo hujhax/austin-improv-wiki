@@ -51,8 +51,9 @@ The runaway popularity of this production led [[The Institution]] to produce *[[
 * [http://vimeo.com/50896456 Video of the final performance.]
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.362600717136784.87551.221927764537414&type=3 Photoset] of the 5/15/12 performance by [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.348540731881279.76730.118587218209966&type=3 Photoset] of the 6/5/12 performance by [[Roy Moore]].
+* [http://www.facebook.com/media/set/?set=a.362600717136784.87551.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/15/12 performance.
+* [http://www.facebook.com/media/set/?set=a.348540731881279.76730.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 6/5/12 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.3304329209810.124642.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/29/12 performance at [[The Institution Theater]].
 
 ## More Information
 * [http://www.reddit.com/r/firefly/comments/t1s45/walked_by_this_near_ut_campus_in_austin_today/c6m87m7 Reddit post about the production.]
