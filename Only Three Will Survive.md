@@ -5,7 +5,7 @@
 |Director =	[[Asaf Ronen]]
 |Assistant Director = [[Allison Asher]]
 |Cast	=	{{Unbulleted list|[[Tyler Booker]] | [[Kathy Rose Center]] | [[Megan Moten]] | [[Taylor Overstreet]] | [[Heidi Rogers]] | [[David Rosenbaum]] | [[Lacy Shawn]] | [[Luke Wallens]] | [[Wyatt Tall]] | [[Ruby Willmann]]}}
-|Tech	=	{{Unbulleted list | [[Cindy Ward]]}}
+|Tech	=	[[Cindy Page]]
 |Run	=	Jul/Aug 2012
 }}
 
