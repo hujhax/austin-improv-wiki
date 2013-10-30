@@ -78,6 +78,7 @@ Like *[[Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" tel
 * Night 10 (2/4/12)
 ** [http://www.facebook.com/media/set/?set=a.269124603156226.61798.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.facebook.com/michael.yew/media_set?set=a.2498819352567.108485.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/12/12 performance in [[The 2012 Improvised Play Festival]].
 
 ### Publicity
 * [http://www.facebook.com/media/set/?set=a.273249729405217.69252.221927764537414&type=3 Character photoset] by [[Steve Rogers]].
