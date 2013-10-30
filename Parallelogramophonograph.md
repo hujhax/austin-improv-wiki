@@ -66,6 +66,7 @@ An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wik
 * [http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/13/12 performance in [[The 2012 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.356404607756395.86521.221927764537414&type=3 Photoset of their 5/5/12 "Parallelogramophonograph SINGS" show] by [[Steve Rogers]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/1/12 performance in [[The 43-Hour Improv Marathon]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.3479991321253.129043.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 7/27/12 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 9/2/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.523040367759484.1073741853.221927764537414&type=3 A photoset] by [[Steve Rogers]] of their 4/12/13 performance at [[The 2013 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.598935996836587.1073741936.221927764537414&type=3 A photoset] by [[Steve Rogers]] of their 500th show, on 9/15/13.
