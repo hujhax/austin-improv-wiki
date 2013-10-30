@@ -51,6 +51,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 3/8/12 *[[Free Fringe]]* show.
 ** [http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3 Another photoset] by [[Michael Yew]] of that same show.
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/12 performance in *[[The Free Fringe]]*.
 * Their final *[[Free Fringe]]* performance on 8/9/12.
 ** [http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1 A photoset] by [[Michael Yew]].
 ** [http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1 A photoset] by [[Steve Rogers]].
