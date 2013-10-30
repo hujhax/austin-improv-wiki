@@ -27,6 +27,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [http://www.facebook.com/michael.yew/media_set?set=a.3479991321253.129043.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 7/27/12 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/media/set/?set=a.412280975502091.99885.221927764537414&type=3 Their 8/25/12 performance] (photoset by [[Steve Rogers]]).
 * [http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.3538649347667.130761.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 9/1/12 performance at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
 
 ## More Information
