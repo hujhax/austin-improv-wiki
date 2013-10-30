@@ -37,6 +37,7 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/michael.yew/media_set?set=a.2404044943266.106645.1315383518&type=3 Photoset] by [[Michael Yew]] of the 1/6/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2569504519652.109802.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2/3/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2727534230296.112720.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/2/12 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.2899917379767.116680.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/6/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3062135595121.119568.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/4/12 performance.
 * [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/3/2012 performance.
 * [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/7/2012 performance.
