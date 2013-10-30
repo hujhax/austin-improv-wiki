@@ -21,6 +21,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [http://www.facebook.com/hujhax/media_set?set=a.10150265183057265.371172.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/15/11 performance at *[[The Weekender]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/21/11 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/18/11 performance at [[WaffleFest]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/10/12 performance in *[[The Threefer]]*.
 
 ## More Information
 *[http://www.facebook.com/theintentionsimprov/info The Intentions' facebook page]
