@@ -116,6 +116,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/hujhax/media_set?set=a.10150661813077265.450334.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/1/12 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150665278392265.450841.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/4/12 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.252339914834695.58497.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 1/7/12 performance in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.3027821617293.119201.1315383518&type=3 Photoset] by [[Michael Yew]] of their 4/27/12 performance with [[Wikipedia - Laura Hall (musician)|Laura Hall]]
 * [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/5/12 show which they shared with [[Confidence Men]].
 * [http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 7/21/12 performance of *[[Boys of Summer]]*, featuring guest boy [[Clay Towery]].
 
