@@ -46,6 +46,9 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 * [http://vimeo.com/65469964 Their 4/11/13 show] at [[The 2013 Improvised Play Festival]].
 * [http://vimeo.com/74497522 Their 6/22/13 show] at [[The 44-Hour Improv Marathon]].
 
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/9/12 performance at [[WaffleFest]].
+
 ## More Information
 *[https://www.facebook.com/InOurPrime In Our Prime facebook page]
 *[http://www.inourprimeimprov.com/ In Our Prime website]
