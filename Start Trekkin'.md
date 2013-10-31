@@ -164,6 +164,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 2/25/12 performance.
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] from [[Steve Rogers]], [http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3 and another]  from [[Michael Yew]], of the 3/8/12 *[[Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
 * [http://www.facebook.com/media/set/?set=a.415641555166033.100932.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 9/1/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+** [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Another photoset] by [[Michael Yew]] which includes the same show.
 * [http://www.facebook.com/media/set/?set=a.572351752828345.1073741903.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 7/27/13 performance.
 
 ## More Information
