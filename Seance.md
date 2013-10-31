@@ -47,6 +47,7 @@ The main run was from 10/26/12 to 11/17/12, on Fridays and Saturdays.
 * [http://www.facebook.com/media/set/?set=a.252339914834695.58497.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 1/7/12 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.402660706469281.90392.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 10/26/12 performance.
 * [http://www.facebook.com/media/set/?set=a.409877385747613.91910.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 11/9/12 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.3845319054218.137446.1315383518&type=3 Photoset] by [[Michael Yew]] of their 11/16/12 performance.
 
 ## More Information
 * [http://gnaptheater.org/seance/ The show's web page.]
