@@ -22,6 +22,15 @@ It currently is cast and directed by [[Lacy Shawn]].
 The show began under the direction of [[Jon Bolden]] before it was passed down to [[Jordan T. Maxwell]], [[Ruby Willmann]], [[Ryan Austin]] and then [[Lacy Shawn]].
 
 ## Media
+### Videos
+* [http://vimeo.com/23484902 Video of 5/6/11 performance.]
+* [http://vimeo.com/31770847 Video of 11/4/11 performance.]
+* [http://vimeo.com/33377293 Video of 12/2/11 performance.]
+* [http://vimeo.com/55383414 Video of 12/7/12 performance.]
+* [http://vimeo.com/41711039 Video of 5/4/12 performance.]
+* [http://vimeo.com/47377300 Video of 7/6/12 performance.]
+* [http://vimeo.com/61489752 Video of 3/1/13 performance.]
+* [http://vimeo.com/65959353 Video of 5/3/13 performance.]
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.455820182264.226206.588952264&type=3 A photoset] by [[Peter Rogers]] of the 6/25/10 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150096018652265.296306.588952264&type=3 A photoset] by [[Peter Rogers]] of the 10/29/10 performance.
@@ -47,16 +56,6 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 A photoset] by [[Michael Yew]] of the 12/7/12 performance.
 * [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 A photoset] by [[Michael Yew]] of the 1/4/13 performance.
 * [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 A photoset] by [[Michael Yew]] of the 3/1/13 performance.
-
-### Videos
-* [http://vimeo.com/23484902 Video of 5/6/11 performance.]
-* [http://vimeo.com/31770847 Video of 11/4/11 performance.]
-* [http://vimeo.com/33377293 Video of 12/2/11 performance.]
-* [http://vimeo.com/55383414 Video of 12/7/12 performance.]
-* [http://vimeo.com/41711039 Video of 5/4/12 performance.]
-* [http://vimeo.com/47377300 Video of 7/6/12 performance.]
-* [http://vimeo.com/61489752 Video of 3/1/13 performance.]
-* [http://vimeo.com/65959353 Video of 5/3/13 performance.]
 
 ## Other Information
 * [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
