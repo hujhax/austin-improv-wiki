@@ -25,6 +25,7 @@ Show runs have included "A Silent Show: Now With Sound!", "Human Santapede", and
 * [http://www.facebook.com/media/set/?set=a.217348495000504.51936.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 11/4/11 "Jerkholes" performance at [[The Institution Theater]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.2996259548261.118592.1315383518&type=3 Photoset] by [[Michael Yew]] of a 4/12 show at [[The Institution Theater]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/24/12 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.3972198386122.139663.1315383518&type=3 Photoset] by [[Michael Yew]] of their 12/15/12 "Human Santapede" show.
 * [http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 2/3/13 performance at *[[BitterFest]]*.
 
 ## More Information
