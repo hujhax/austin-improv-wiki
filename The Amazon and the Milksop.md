@@ -35,7 +35,7 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/23/12 "Catchin' Frogs" show in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12  "Catchin' Frogs" show at the *[[Free Fringe]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/2/12 performance of "Tennessee Williams, Performed By Robots" in [[The 43-Hour Improv Marathon]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/9/12 performance at [[WaffleFest]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10151908985107265.1073741836.588952264&type=3 Photoset] by [[Peter Rogers]] of their 8/28/13 "Fitzgeralds for Hire" show at *[[The 2013 Out of Bounds Comedy Festival]]*.
 
 [[Category/Troupes|Amazon and the Milksop]]
