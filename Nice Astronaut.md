@@ -86,6 +86,8 @@ Nice Astronaut has performed at the following festivals
 ### Videos
 * [http://vimeo.com/36009826 December 2011 "It's a Tolerable Existence" show.]
 * [http://vimeo.com/50645379 8/11/12 show: "Mattress Cover".]
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/27/12 performance in *[[The Threefer]]*.
 
 ## Miscellaneous
 Nice Astronaut also hosted the short lived [http://blog.coldtownetheater.com/wp-content/uploads/2009/06/nomad-poster-june09b.jpg "Nomad Comedy Nights"] on Wednesdays at Nomad Bar during the summer of 2009.
