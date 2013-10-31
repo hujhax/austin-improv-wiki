@@ -20,6 +20,8 @@ In May 2013, perhaps due to running out of TV-themed shows and troupes who hadn'
 ## Media
 ### Videos
 * [http://vimeo.com/51898584 10/29/12: the short-form, "Channel Surfing" edition of the show.]
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3 Photoset] by [[Michael Yew]] of the 1/17/13 show.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/thetvset The show's web page.]
