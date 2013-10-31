@@ -45,8 +45,8 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/michael.yew/media_set?set=a.3582900613921.131839.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/13/12 performance with [[Ruby Willmann]] at *[[The Free Fringe]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3781324494394.136231.1315383518&type=3 A photoset] by [[Michael Yew]] of the 11/2/12 performance.
 * [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 A photoset] by [[Michael Yew]] of the 12/7/12 performance.
-* [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 A photoset] by [[Michael Yew]] of the 1/4/13 performance.
-* [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 A photoset] by [[Michael Yew]] of the 3/1/13 performance.
+* [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 A photoset] by [[Michael Yew]] of the 1/4/13 performance.
+* [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 A photoset] by [[Michael Yew]] of the 3/1/13 performance.
 
 ### Videos
 * [http://vimeo.com/23484902 Video of 5/6/11 performance.]
