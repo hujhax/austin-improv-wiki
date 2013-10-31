@@ -27,7 +27,8 @@ Their goal is to elevate the form and playing field, shedding light on the ever-
 * [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/24/12 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in the 2012 [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/13/12 performance in [[The 2012 Improvised Play Festival]].
-* [http://www.steve-rogers-photography.com/Festivals/ImprovSketch/43-Hour-Marathon-2012/Hour-29-Available-Cupholders Photoset] by [[Steve Rogers]] of their 6/12/12 performance at [[The 43-Hour Improv Marathon]]
+* [http://www.steve-rogers-photography.com/Festivals/ImprovSketch/43-Hour-Marathon-2012/Hour-29-Available-Cupholders Photoset] by [[Steve Rogers]] of their 6/12/12 performance at [[The 43-Hour Improv Marathon]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/27/12 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.523882717675249.1073741854.221927764537414&type=1 Photoset] by [[Steve Rogers]] of their 4/12/13 performance at [[The 2013 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.588814161182104.1073741916.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/27/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
 
