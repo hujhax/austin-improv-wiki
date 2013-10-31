@@ -45,6 +45,7 @@ The show began its run with the name *Choose Your Own Adventure*, but on Novembe
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3 A couple of pre-show photos] by [[Peter Rogers]] of the 10/8/10 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 12/14/12 show.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/pickyourownpath The show's web page.]
