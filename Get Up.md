@@ -23,6 +23,7 @@ Get Up members [[Shana Merlin]] and [[Shannon McCormick]] have been working toge
 ** [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes that same performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2410326380298.106779.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/8/12 performance at the "Five Families" night at [[The Institution Theater]].
 * [http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in the 2012 [[WaffleFest]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.3931529289420.138986.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/8/12 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.466006816796173.112887.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 12/22/12 show at the last *[[Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.522987541098100.1073741852.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/12/13 show at [[The 2013 Improvised Play Festival]].
 
