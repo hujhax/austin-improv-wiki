@@ -52,6 +52,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 ** In this format, veterans would tell anecdotes of their experiences in the Marathon, and the cast would perform a few scenes based on that anecdote.
 * Saturday 7am (hour 15): Student Show
 ** This was a set of short-form games.
+** This show featured student guests [[Ali Meier]], [[Corey Craig]], [[Greg Blank]], [[Jennifer Brinlee]], [[Niran Babalola]], and [[Ziad Rouhana]].
 * Saturday 8am (hour 16): [[Waterpark]], a musical-improv troupe from [[The New Movement]], presented a non-narrative musical-improv show.
 * Saturday 9am (hour 17): *[[Dubbed Indemnity]]*: improvising the dialog, sound effects, and soundtrack for silenced TV and film clips.
 ** This featured guest [[Josh Gill]].
@@ -94,6 +95,8 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 ** Roy had made Jason promise not to be *too* cruel to the core cast with his secret format.
 * Sunday 6am (hour 38): "The Queen Is Not Amused", wherein Jonathan Monkhouse appeared via Skype, portraying the queen of England.
 * Sunday 7am (hour 39): Student Show
+** This was a long-form narrative set in New Orleans.
+** This show featured student guests [[Ammu Ganesan]], [[David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Lindsay Hejl]], and [[Patrick Creamer]].
 * Sunday 8am (hour 40): Care Bear Stare -- The Care Bears came to bring badly animated joy to your lives.
 ** In this show, [http://en.wikipedia.org/wiki/Care_Bears Care Bears] based around not-exactly-G-rated emotions solved problems for the core-cast members in a longform narrative.
 ** The Care Bears:
