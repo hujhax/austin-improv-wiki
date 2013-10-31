@@ -34,4 +34,4 @@ After finishing the run of *Freaks and Geeks*, [[Katie Thornton]], [[Lindsey Ree
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.3028863043328.119217.1315383518&type=1 Performance photoset] by [[Michael Yew]].
 * [http://www.facebook.com/media/set/?set=a.366395980048570.84950.100000345135257&type=1 Photoset of the 3/6/12 performance] by [[Claudio Fox]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 1/17/13 "GeekProv" performance in *[[The TV Set]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.4125388415777.142093.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 1/17/13 "GeekProv" performance in *[[The TV Set]]*.
