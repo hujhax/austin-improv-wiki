@@ -52,7 +52,7 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 #### 2012 Run
 * [http://www.facebook.com/media/set/?set=a.325071134223076.79811.221927764537414&type=3 Photoset of the 3/24/12 show] by [[Steve Rogers]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
-## Publicity
+### Publicity
 #### 2012 Run
 * [http://www.facebook.com/media/set/?set=a.10150527381254142.380624.628264141&type=3 Publicity photos.]
 * [http://www.facebook.com/photo.php?fbid=642713580249&set=t.507050184&type=3 Publicity poster.]
