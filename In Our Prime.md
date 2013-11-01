@@ -48,6 +48,7 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200173474242320.1073741840.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 7/18/13 performance in *[[The Free Fringe]]*.
 
 ## More Information
 *[https://www.facebook.com/InOurPrime In Our Prime facebook page]
