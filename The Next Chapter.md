@@ -28,6 +28,8 @@ Each night of the show had a different guest author. An author was interviewed, 
 ## Media
 ### Videos
 * [http://vimeo.com/66971311 Video of the 5/24/13 show, featuring Manuel Gonzales.]
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.4730364379798.1073741833.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/10/13 show.
 
 ## More Information
 * [http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/ An *Austin Chronicle* interview] with director [[Justin Davis]] by [[Wayne Allen Brenner]].
