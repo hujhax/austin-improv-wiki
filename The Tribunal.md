@@ -71,7 +71,8 @@ The third performance took place as part of [[The 2013 Out of Bounds Comedy Fest
 * [[Ruby Willmann]]
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3 Photoset of the premiere] by [[Roy Moore]].
+* [http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3 Photoset of show #1] by [[Roy Moore]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3 Photoset] by [[Michael Yew]] that includes show #3.
 
 ## More Information
 * [http://www.larpwriter.org/2010/11/and-winner-is.html An announcement of the original LARP winning the 2010 "Larpwriter Challenge".]
