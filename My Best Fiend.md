@@ -25,6 +25,7 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/27/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 10/26/13 performance in *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
 
 ## More Information
 *[http://www.facebook.com/klausandwerner My Best Fiend facebook page]
