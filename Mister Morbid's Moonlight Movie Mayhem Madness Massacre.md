@@ -26,6 +26,8 @@ This is the guest schedule for *Mister Morbid's*:
 * 10/26/13: [[IScream Sandwich]] & [[My Best Fiend]]
 
 ## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/26/13 performance.
 ### Publicity
 * [http://www.facebook.com/photo.php?v=10151686876796262 Trailer for the show.]
 
