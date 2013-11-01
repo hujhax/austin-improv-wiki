@@ -123,6 +123,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3931529289420.138986.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/8/12 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 1/13/13 performance in the [[Merlin Works]] grand opening.
+* [http://www.facebook.com/michael.yew/media_set?set=a.4573289653028.1073741829.1315383518&type=3 Photoset] by [[Michael Yew]] of their 4/5/13 "Stage Door" performance.
 
 ## More Information
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
