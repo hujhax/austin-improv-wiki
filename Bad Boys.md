@@ -35,6 +35,7 @@ Bad Boys currently has an open-ended run on Friday nights at [[ColdTowne Theater
 * [http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/10/12 performance at [[WaffleFest]].
 ** [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.584113118318875.1073741912.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/16/13 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Info
 * [http://badboysimprov.tumblr.com Bad Boys' Website]
