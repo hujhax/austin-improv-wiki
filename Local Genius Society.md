@@ -61,6 +61,7 @@ Local Genius Society formed in late 2010 by a group of improv students from [[Th
 * [http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/12 performance in [[The 2012 Improvised Play Festival]].
 ** [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 2/1/13 performance in *[[The Spectacle]]*.
 
 ## More Information
 * [http://www.facebook.com/localgeniussociety The troupe's facebook page.]
