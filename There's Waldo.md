@@ -2,10 +2,10 @@
 |Name	=	There's Waldo
 |Picture =     There's Waldo.jpg
 |Cast	=	{{Unbulleted list | [[Amy Dietze]] | [[Christine Giordano]] | [[Erica Lies]] | [[John Buseman]] | [[Sara Osburn]] | [[Taylor Overstreet]] | [[Tyler Reece Booker]] }}
-|Years	=		2011-Present
+|Years	=		2011-2013
 }}
 
-**There's Waldo** is a sketch troupe.
+**There's Waldo** was a sketch troupe.
 
 ## Summary
 ### Press Blurb
@@ -15,6 +15,9 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 <p>The members of There's Waldo have been writing and performing sketch comedy together since 2010. They have performed at The Velveeta Room, The Institution Theater, ColdTowne Theater, The Hideout, The Alamo Drafthouse, The Moontower Comedy Festival, LAFF, and Austin Sketchfest. They love weird characters, silly voices, and singing 90's music a cappella at inappropriate times."</p></blockquote>
 
 Show runs have included "A Silent Show: Now With Sound!", "Human Santapede", and "Human Santapede 2: Santapocalypse".
+
+## History
+The troupe played their last show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## Media
 ### Videos
@@ -36,4 +39,4 @@ Show runs have included "A Silent Show: Now With Sound!", "Human Santapede", and
 * [http://www.youtube.com/user/TheresWaldoComedy1 The troupe's youtube channel.]
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+[[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]
