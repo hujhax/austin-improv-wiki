@@ -32,8 +32,11 @@ The following upcoming festival appearances are scheduled:
 * [[Out of Bounds Comedy Festival]], Austin, TX (2013)
 
 ## Media
+### Videos
 * [http://vimeo.com/21367828 Video of a 2011 performance.]
 * [http://vimeo.com/39645172 Video of a 2012 performance, giving the history of the Q-Tip.]
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200549618405689.1073741857.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 9/24/13 performance in *[[The Weekender]]*.
 
 ## More Information
 * [http://www.facebook.com/pages/Zarzamora/126236170779574 The troupe's facebook page.]
