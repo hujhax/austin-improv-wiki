@@ -21,6 +21,7 @@ They perform a modified Harold, with a much looser structure.
 * [http://vimeo.com/53658157 Their 11/10/12 show] in *[[The Triple Scoop]]*.
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.4398232116699.1073741826.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/2/13 performance in *[[The Triple Scoop]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 10/26/13 performance in *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
 
 ## More Information
 * [http://www.facebook.com/iScreamSandwich The troupe's facebook page.]
