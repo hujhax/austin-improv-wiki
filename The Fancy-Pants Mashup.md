@@ -55,8 +55,10 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/michael.yew/media_set?set=a.3781324494394.136231.1315383518&type=3 A photoset] by [[Michael Yew]] of the 11/2/12 performance.
 * [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 A photoset] by [[Michael Yew]] of the 12/7/12 performance.
 * [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 A photoset] by [[Michael Yew]] of the 1/4/13 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.4241718923967.142831.1315383518&type=3 A photoset] by [[Michael Yew]] of the 2/7/13 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.4241718923967.142831.1315383518&type=3 A photoset] by [[Michael Yew]] of the 2/1/13 performance.
 * [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 A photoset] by [[Michael Yew]] of the 3/1/13 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.4854500043112.1073741837.1315383518&type=3 A photoset] by [[Michael Yew]] of the 6/7/13 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200260764744528.1073741842.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/2/13 performance.
 
 ## Other Information
 * [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
