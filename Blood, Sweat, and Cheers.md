@@ -48,6 +48,7 @@ Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.546330938763760.1073741876.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/2/13 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.4862013230937.1073741838.1315383518&type=3 Photoset] by [[Michael Yew]] of their 6/8/13 performance.
 
 ### Publicity
 * [http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3 Promo photo shoot] by [[Jon Bolden]].
