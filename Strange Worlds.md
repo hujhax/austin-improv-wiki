@@ -53,6 +53,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [[Codename -  Sleuth and the Case of the Assassin's Sting]]
 
 ## Media
+### Main Run
 * Episode 1 (3/2/13):
 ** [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 Photoset] by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
@@ -104,6 +105,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 *** [http://vimeo.com/66306441 Worlds Collide, Chapter 2: The Tomb of Heartbreak.]
 * [http://www.facebook.com/media/set/?set=a.4671818636191.1073741831.1315383518&type=3 Photoset] of the cast party by [[Michael Yew]].
 * [http://www.facebook.com/media/set/?set=a.10151697102622265.1073741825.588952264&type=1 A photoset of video title cards] by [[Peter Rogers]] (from photos by [[Jon Bolden]]).
+### Post-Run
 * "Shaken Not Stirred" Party (5/1/13):
 ** [http://vimeo.com/66324632 Video of Codename: Sleuth and the Case of the Diamonds in the Rough.]
 * "NerdProv" (5/3/13):
@@ -113,6 +115,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [http://vimeo.com/67697488 Video of Codename: Sleuth and the Case of the Laughing Cascade.]
 ** [http://vimeo.com/67702032 Video of Bellwether Blue versus the Vermin Young.]
 ** [http://vimeo.com/67706793 Video of the Grey Bishop in "The Exchange Variation".]
+** [http://www.facebook.com/michael.yew/media_set?set=a.4838455402006.1073741836.1315383518&type=3 Casual photos] by [[Michael Yew]].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=4&t=4898&p=41024 The 2007 'format manifesto' for an improvised pulp show] by [[Jordan T. Maxwell]].
