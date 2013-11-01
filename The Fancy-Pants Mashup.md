@@ -62,6 +62,7 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200260764744528.1073741842.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/2/13 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200445657486731.1073741852.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/6/13 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200613154194044.1073741860.1315383518&type=3 A photoset] by [[Michael Yew]] of the 10/4/13 performance.
 
 ## Other Information
 * [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
