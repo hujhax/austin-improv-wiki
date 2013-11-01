@@ -53,6 +53,7 @@ This is their bio from their web site:
 * [http://www.facebook.com/media/set/?set=a.415265488536973.100822.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/31/12 show at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10151291684187265.521166.588952264&type=3 Casual photos] by [[Peter Rogers]] from after their 9/27/12 show at Improvaganza in Honolulu.
 * [http://www.facebook.com/media/set/?set=a.525065577556963.1073741857.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/13/13 at [[The 2013 Improvised Play Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.4771818696130.1073741835.1315383518&type=3 Photoset] by [[Michael Yew]] of their 5/18/13 show with special guest Joe Bill.
 * [http://www.facebook.com/media/set/?set=a.530515880350429.1073741857.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
