@@ -44,6 +44,7 @@ After two years of relative inactivity, the troupe performed their final show at
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
 * [http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in the 2012 [[WaffleFest]].
 * [http://www.facebook.com/media/set/?set=a.530020827066601.1073741852.118587218209966&type=3 Photoset] by [[Roy Moore]] of their final show on 8/30/13 at [[The 2013 Out of Bounds Comedy Festival]].
+** [http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3 Another photoset] by [[Michael Yew]] which includes the same show.
 
 ## More Information
 * [http://www.improvforevil.com/ The troupe's web site.]
