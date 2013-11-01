@@ -47,6 +47,7 @@ Goat has appeared in the following festivals:
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.323769481019908.79466.221927764537414&type=3 Photoset of their 3/22/12 show] at *[[The Threefer]]* by [[Steve Rogers]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.4398232116699.1073741826.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/2/13 performance in *[[The Triple Scoop]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.4606882972840.1073741830.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 4/12/13 performance in [[The 2013 Improvised Play Festival]].
 
 ## More Information
 * [http://goatimprov.com Goat's Website]
