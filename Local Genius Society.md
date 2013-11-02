@@ -64,6 +64,15 @@ Local Genius Society formed in late 2010 by a group of improv students from [[Th
 * [http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 2/1/13 performance in *[[The Spectacle]]*.
 
+### Publicity
+* As part of their fundraiser for their trip to Improvaganza in 2012, the troupe recorded a series of mock PSAs from the "Beach Cops"
+** [http://vimeo.com/45762135 "Trash and Dumping"]
+** [http://vimeo.com/45762134 "Lady Cops"]
+** [http://vimeo.com/45762133 "Dangers of the Tide"]
+** [http://vimeo.com/45762132 "Proper Eyewear"]
+** [http://vimeo.com/45761775 "The Sun"]
+** [http://vimeo.com/45761774 "Respect the Ocean"]
+
 ## More Information
 * [http://www.facebook.com/localgeniussociety The troupe's facebook page.]
 * [http://localgeniussociety.wordpress.com/ The troupe's home page.]
