@@ -19,7 +19,9 @@ The show began as a one-off for the premiere of *[[The Free Fringe]]* on 4/26/12
 It was part of [[The 44-Hour Improv Marathon]].
 
 ## Media
+### Videos
 * [http://vimeo.com/channels/austinimprov/41139122 Video of the 4/26/12 show.]
+* [https://vimeo.com/77276938 Video of the 6/22/12 show] in [[The 44-Hour Improv Marathon]].
 
 
 [[Category/Active|Category:Active]]
