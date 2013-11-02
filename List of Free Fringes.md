@@ -517,9 +517,10 @@ Headliners
 #### *Heiberg Heiberg Heiberg* ([[Courtney Hopkin]])
 [[Eric Heiberg]] has been a mover and shaker and hugger and force of goodwill in the Austin improv community for years and years now. But in just a few days, he's leaving our fair city for Minneapolis. This show is his 57th last hurrah. 
 
-"It's Always Sunny In Austin, Texas" ([[Kareem Badr]])<br/>Awful people with terrible ideas that, when executed, lead to utter chaos. It's a wonderful world. And yes, [[Eric Heiberg]] is in it. 
+#### "It's Always Sunny In Austin, Texas" ([[Kareem Badr]])
+Awful people with terrible ideas that, when executed, lead to utter chaos. It's a wonderful world. And yes, [[Eric Heiberg]] is in it. 
 
-#### [[Your Dad's Friends]]<br/>featuring guest star [[Eric Heiberg]]
+#### [[Your Dad's Friends]] featuring guest star [[Eric Heiberg]]
 Headliners
 
 ### Apr  4, 2013
