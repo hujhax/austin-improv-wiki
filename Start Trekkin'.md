@@ -146,6 +146,9 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Video of the 9/27/08 performance, in three parts: [http://www.facebook.com/photo.php?v=43256292752 1], [http://www.facebook.com/photo.php?v=43351022752 2], [http://www.facebook.com/photo.php?v=43700942752 3].
 * [http://youtu.be/zRWkhp3VkP8 Video of a scene from the 10/11/08 performance.]
 * Video of the 11/15/08 performance, in four parts: [http://www.facebook.com/photo.php?v=76146882755 1], [http://www.facebook.com/photo.php?v=76163692755 2], [http://www.facebook.com/photo.php?v=76179897755 3], [http://www.facebook.com/photo.php?v=76192262755 4].
+* [http://vimeo.com/76770049 Video of their 6/21/13 show] in [[The 44-Hour Improv Marathon]].
+
+### Publicity
 * [http://youtu.be/WoGBGHe9Cms Video of an audience-participation "Kobayashi Maru" scene] from their performance in [[The 2009 Out of Bounds Comedy Festival]].
 * Promo videos for season six by [[Troy Miller]]: [http://youtu.be/7cL_KoQWAns "Alien Love"], [http://youtu.be/JLhH3VF_EJI "Fight"], [http://youtu.be/z9fCC3ZG2io "Sacrifices"], [http://youtu.be/jE3goOhutlQ "The Landing Party" (version 1)], and [http://youtu.be/Apynw0GNH2o "The Landing Party" (version 2)].
 * [http://vimeo.com/20415485 A 2011 video compilation of *Start Trekkin*' fight scenes.]
