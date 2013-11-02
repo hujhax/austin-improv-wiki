@@ -148,11 +148,6 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Video of the 11/15/08 performance, in four parts: [http://www.facebook.com/photo.php?v=76146882755 1], [http://www.facebook.com/photo.php?v=76163692755 2], [http://www.facebook.com/photo.php?v=76179897755 3], [http://www.facebook.com/photo.php?v=76192262755 4].
 * [http://vimeo.com/76770049 Video of their 6/21/13 show] in [[The 44-Hour Improv Marathon]].
 
-### Publicity
-* [http://youtu.be/WoGBGHe9Cms Video of an audience-participation "Kobayashi Maru" scene] from their performance in [[The 2009 Out of Bounds Comedy Festival]].
-* Promo videos for season six by [[Troy Miller]]: [http://youtu.be/7cL_KoQWAns "Alien Love"], [http://youtu.be/JLhH3VF_EJI "Fight"], [http://youtu.be/z9fCC3ZG2io "Sacrifices"], [http://youtu.be/jE3goOhutlQ "The Landing Party" (version 1)], and [http://youtu.be/Apynw0GNH2o "The Landing Party" (version 2)].
-* [http://vimeo.com/20415485 A 2011 video compilation of *Start Trekkin*' fight scenes.]
-
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1 A photoset from season 5.]
 * [http://www.facebook.com/hujhax/media_set?set=a.129962042264.120555.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/26/09 performance.
@@ -169,6 +164,11 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [http://www.facebook.com/media/set/?set=a.415641555166033.100932.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 9/1/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Another photoset] by [[Michael Yew]] which includes the same show.
 * [http://www.facebook.com/media/set/?set=a.572351752828345.1073741903.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 7/27/13 performance.
+
+### Publicity
+* [http://youtu.be/WoGBGHe9Cms Video of an audience-participation "Kobayashi Maru" scene] from their performance in [[The 2009 Out of Bounds Comedy Festival]].
+* Promo videos for season six by [[Troy Miller]]: [http://youtu.be/7cL_KoQWAns "Alien Love"], [http://youtu.be/JLhH3VF_EJI "Fight"], [http://youtu.be/z9fCC3ZG2io "Sacrifices"], [http://youtu.be/jE3goOhutlQ "The Landing Party" (version 1)], and [http://youtu.be/Apynw0GNH2o "The Landing Party" (version 2)].
+* [http://vimeo.com/20415485 A 2011 video compilation of *Start Trekkin*' fight scenes.]
 
 ## More Information
 * [http://www.facebook.com/starttrekkin The show's facebook page.]
