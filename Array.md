@@ -18,6 +18,10 @@ They had a one-time run of Thursday shows in May 2013 at [[ColdTowne Theater]] w
 
 [[Joshua Philips]] and [[Ashley Franks]] left to move to Chicago to pursue improv, and Arkay reorganized and renamed itself in order to continue performing in shows. The new team headlined *[[The Threefer]]* at [[The Hideout Theatre]] in July 2013 and was accepted into [[The 2013 Out of Bounds Comedy Festival]], and continues to perform shows in the Austin improv scene.
 
+## Media
+### Videos
+* [http://vimeo.com/76498906 Video of their 6/22/13 show] in [[The 44-Hour Improv Marathon]].
+
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14803 The casting call for the workshop] on [[The Austin Improv Forums]]
 * [http://forum.austinimprov.com/viewtopic.php?t=15249&p=131289 The show-run announcement] on [[The Austin Improv Forums]]
