@@ -50,8 +50,9 @@ Local Genius Society formed in late 2010 by a group of improv students from [[Th
 * [http://vimeo.com/59947353 Video of their performance] on 2/17/13 at [[ColdTowne Theater]].
 * [http://vimeo.com/63959453 Video of their performance] at [[The 2013 Improvised Play Festival]].
 * [http://vimeo.com/55503754 Video of another performance] (date unknown) at *[[The Spectacle]]*.
-* [http://vimeo.com/76922366 Video of their performance] from the September 19th [[The Threefer]].
-* [http://vimeo.com/75631300 Video of their performance] from the September 26th [[The Threefer]].
+* [http://vimeo.com/67256516 Video] of their 5/17/13 performance in *[[The Spectacle]]*.
+* [http://vimeo.com/76922366 Video] of their 9/19/13 performance in *[[The Threefer]]*.
+* [http://vimeo.com/75631300 Video] of their 9/26/13 performance in *[[The Threefer]]*.
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/6/11 performance in *[[The Threefer]]*.
