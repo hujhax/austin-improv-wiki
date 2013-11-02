@@ -32,4 +32,8 @@ Jason also works in film and is a special effects artist.
 * *[[Spirited]]*
 * *[[The Suitcase]]*
 
+## Media
+### Videos
+* The [http://vimeo.com/78187121 "Human Clay" show he directed] on 6/23/13 for [[The 44-Hour Improv Marathon]].
+
 [[Category/Performers|Vines]]
