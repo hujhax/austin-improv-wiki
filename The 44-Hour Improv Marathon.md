@@ -180,6 +180,7 @@ The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk
 * [http://vimeo.com/77117598 Hour 35: Big Beautiful Warlock]
 * [http://vimeo.com/77031919 Hour 36: *Pulp Friction*]
 * [http://vimeo.com/78187121 Hour 37: "Human Clay"]
+** [http://vimeo.com/78401240 An interview] that [[Cat Drago]] did with [[Kayla Lane Freeman]] after hour 37.
 * [http://vimeo.com/70615208 Hour 38: "The Queen Is Not Amused"]
 * [http://vimeo.com/70503492 Hour 40: "Care Bear Stare"]
 * [http://vimeo.com/69145400 Hour 41: The Movie Format with the Institution Theater]
