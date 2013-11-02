@@ -77,6 +77,8 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 * [http://vimeo.com/27829205 Video] of [[Jason Finkelman]] guesting with *Boys of Summer* in 2011.
 * [http://vimeo.com/28332016 Video] of [[Deano Jones]] guesting with *Boys of Summer* in 2011.
 * [https://vimeo.com/29000288 Video] of [[Jason Laney]] guesting with *Boys of Summer* in 2011.
+* [http://youtu.be/0Ed8OCc5R2E&feature=youtu.be Video] of [[Mitch Mills]] guesting with *Boys of Summer* in 2013.
+
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3 A snapshot] of [[Peter Rogers]] as guest boy on 7/30/10.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200301863411969.1073741843.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2013 show featuring [[Chuy Zarate]].
