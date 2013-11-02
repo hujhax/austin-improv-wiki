@@ -109,6 +109,7 @@ Season three will be on Saturdays at [[The Institution Theater]] in November 201
 ** [http://vimeo.com/48524413 Video] by [[Peter Rogers]].
 * 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea"):
 ** [http://www.youtube.com/watch?v=gZuQFuFSpB8 Video] by [[Michael Ferstenfeld]].
+** [http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3 Casual photos] by [[Peter Rogers]].
 
 ### Season 2½ (One-Offs)
 * 1/18/13 performance at [[The TV Set]].
@@ -116,8 +117,7 @@ Season three will be on Saturdays at [[The Institution Theater]] in November 201
 * 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]]:
 ** Videos: [http://vimeo.com/73437075 story #1], [http://vimeo.com/73480143 story #2]
 ** [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes the show.
-* 9/29/13 show at Improvaganza in Honolulu
-** [http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3 Casual photos] by [[Peter Rogers]].
+* [http://vimeo.com/77576162 Video] of their 10/19/13 show with *[[Mister Morbid]]*.
 
 ## More Information
 * [http://www.doctorwhotheatre.com/ The troupe's web site.]
