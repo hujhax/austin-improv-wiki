@@ -15,7 +15,7 @@
 * [http://vimeo.com/75015384 Video of their 9/15/13 show.]
 
 ## More Information
-* [https://www.facebook.com/BeauMoMa The troupe's facebook page.]
+* [http://www.facebook.com/BeauMoMa The troupe's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
