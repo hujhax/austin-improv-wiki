@@ -76,3 +76,4 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
