@@ -19,3 +19,4 @@
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
