@@ -15,3 +15,4 @@ After rehearsing together at [[The Institution Theater]] in the summer of 2013, 
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
