@@ -15,3 +15,4 @@ Fact: each member of Glamazon is a woman 5'8" or over.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
