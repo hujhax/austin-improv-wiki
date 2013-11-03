@@ -62,7 +62,7 @@ The second run of shows, from March to April of 2012, introduced [[Peter Rogers]
 * [[Ryan Austin]]
 
 ### Season Three
-Season three will be on Saturdays at [[The Institution Theater]] in November 2012.
+Season three is on Saturdays at [[The Institution Theater]] in November 2012.
 
 * [[Bridget Brewer]]
 * [[Jeff Britt]]
@@ -72,7 +72,7 @@ Season three will be on Saturdays at [[The Institution Theater]] in November 201
 * [[Quinn Buckner]]
 * [[Steve Harwood]]
 
-... with tech by [[Michael Yew]].
+The run features tech by [[Michael Yew]] and guest appearances from [[Jordan T. Maxwell]] and [[Clay Towery]].
 
 ## Media
 ### Season Zero
