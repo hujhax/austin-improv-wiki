@@ -22,6 +22,6 @@
 * [http://www.facebook.com/glampingtrip The troupe's facebook page.]
 * [http://www.theglampingtrip.com/ The troupe's web site.]
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Duos|Category:Duos]]
+[[Category/Troupes|Glamping Trip]]
+[[Category/Duos|Glamping Trip]]
 [[Category/Active|Category:Active]]
