@@ -45,8 +45,9 @@ The festival ran from 5/9/12 to 5/12/12 at [[Salvage Vanguard Theater]] and (on 
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/6/11 ([[Girl Embassy World Team]], [[Girls Girls Girls]], stand-up).
-* [http://www.facebook.com/roy.moore/media_set?set=a.1654454893126.2078281.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/6/11 ([[Sarah 7]], stand-up).
-* [http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/7/11 7pm ([[The Lindas]], [[Firth&Arjet]], [[Battle Axe]]).
-* [http://www.facebook.com/roy.moore/media_set?set=a.1656348260459.2078408.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/7/11 9pm (stand-up).
-* [http://www.facebook.com/roy.moore/media_set?set=a.1656640467764.2078435.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/7/11 9pm (stand-up, Skinny Bitch Jesus Meeting).
+* [http://www.facebook.com/media/set/?set=a.358578824205640.86892.221927764537414&type=3 Photoset] by [[Steve Rogers]] of 5/9/12 (stand-up).
+* [http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3 Photoset] by [[Roy Moore]] of 5/10/12 ([[Galactic]], [[Adventure Squad]], The Band of Wreckers, stand-up).
+* [http://www.facebook.com/media/set/?set=a.363255750404614.87663.221927764537414&type=3 Photoset] by [[Steve Rogers]] of 5/11/12 ([[DA Foundry]], The Bennets, [[Girls Girls Girls]]).
+* [http://www.facebook.com/media/set/?set=a.363289433734579.87673.221927764537414&type=3 Photoset] by [[Steve Rogers]] of 5/11/12 (Reformed Whores).
+* [http://www.facebook.com/media/set/?set=a.363274543736068.87671.221927764537414&type=3 Photoset] by [[Steve Rogers]] of 5/12/12 (stand-up).
+* [http://www.facebook.com/media/set/?set=a.363310977065758.87675.221927764537414&type=3 Photoset] by [[Steve Rogers]] of 5/12/12 (Skinny Bitch Jesus Meeting).
