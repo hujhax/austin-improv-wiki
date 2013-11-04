@@ -5,7 +5,7 @@
 ## History
 The festival was founded by [[Girls Girls Girls]] in 2007.
 
-Stand-up comedian Selena Coppock and NYC sketch troupe [http://www.facebook.com/SBJMComedy Skinny Bitch Jesus Meeting] have performed in every LAFF since its inception.
+NYC sketch troupe [http://www.facebook.com/SBJMComedy Skinny Bitch Jesus Meeting] have performed in every LAFF since its inception.
 
 In 2012, the festival introduced short films into their program.
 
