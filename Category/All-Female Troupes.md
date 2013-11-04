@@ -13,6 +13,7 @@ This is a list of both active and inactive all-female troupes in Austin.
 * [[Florida Room]]
 * [[Girl Embassy World Team]]
 * [[The Ladies]]
+* [[The Lindas]]
 * [[Lane & Jane]]
 * [[The Nesting Dolls]]
 * [[Oil Field Girls]]
