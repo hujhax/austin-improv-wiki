@@ -2,6 +2,7 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 
 ## Active Jams and Mixers
 * The first Saturday of every month, [[Merlin Works]] puts on *[[The Merlin Works Mixer]]* at the AT&T Education Room at the Long Center for the Performing Arts.
+* The warm-up for the monthly [[Merlin Works Second Sundays]] show is an "open warm-up" which any improviser can join.
 * Every Sunday night at 8pm, [[The Institution Theater]] puts on *[[The Rubber Room]]*.
 * Every Sunday at 5pm, [[ColdTowne Theater]] hosts *[[Teen Improv Night]]* for performers under 18.
 * Every Tuesday night at 6:30pm, [[Harold's House]] happens at RLM on the UT campus. **(Currently on hiatus)**
