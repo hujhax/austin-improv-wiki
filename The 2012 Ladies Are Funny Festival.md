@@ -1,3 +1,5 @@
+![[LAFF 2012 Logo.jpg|The 2012 LAFF logo.]]
+
 **The 2012 Ladies Are Funny Festival** was the sixth annual [[Ladies Are Funny Festival]].
 
 ## Summary
