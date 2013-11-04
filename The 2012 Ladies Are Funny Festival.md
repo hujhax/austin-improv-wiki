@@ -11,7 +11,7 @@ The festival ran from 5/9/12 to 5/12/12 at [[Salvage Vanguard Theater]] and (on 
 * [[DA Foundry]]
 * [[Galactic]]
 * [[Girls Girls Girls]]
-* It's Just Reilly
+* [[It's Just Reilly]]
 * [[Sarah 7]]
 * [[There's Waldo]]
 
