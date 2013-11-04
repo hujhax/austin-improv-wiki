@@ -31,5 +31,10 @@ These lists are incomplete until we can find a complete schedule for the 2011 fe
 * Selena Coppock (NYC/Boston)
 * Sharon Houston
 
-## More Information
-* [http://www.austinchronicle.com/arts/2010-04-30/1022147/ An article about the festival] by [[Wayne Allen Brenner]] in *The Austin Chronicle*.
+## Media
+### Photos
+* [http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/6/11 ([[Girl Embassy World Team]], [[Girls Girls Girls]], stand-up).
+* [http://www.facebook.com/roy.moore/media_set?set=a.1654454893126.2078281.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/6/11 ([[Sarah 7]], stand-up).
+* [http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/7/11 7pm ([[The Lindas]], [[Firth&Arjet]], [[Battle Axe]]).
+* [http://www.facebook.com/roy.moore/media_set?set=a.1656348260459.2078408.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/7/11 9pm (stand-up).
+* [http://www.facebook.com/roy.moore/media_set?set=a.1656640467764.2078435.1589679282&type=3 Photoset] by [[Roy Moore]] of 5/7/11 9pm (stand-up, Skinny Bitch Jesus Meeting).
