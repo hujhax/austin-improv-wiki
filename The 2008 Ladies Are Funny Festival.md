@@ -1,4 +1,4 @@
-**The 2008 Ladies Are Funny Festival** was the first annual [[Ladies Are Funny Festival]].
+**The 2008 Ladies Are Funny Festival** was the second annual [[Ladies Are Funny Festival]].
 
 ## Summary
 The festival ran from 4/24/08 to 4/26/08 at [[The Hideout Theatre]].
