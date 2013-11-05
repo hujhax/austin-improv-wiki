@@ -18,7 +18,7 @@ It included an all-star *[[Maestro]]*.
 * [[Is That Science]]
 * [[Junk]]
 * [[The Knuckleball Now]]
-* [[Les McGeehee]] (as "Les McGeehee plays well with Waffles")
+* [[Les McGehee]] (as "Les McGehee plays well with Waffles")
 * [[Look Cookie]]
 * [[Midnight Society]]
 * [[Parallelogramophonograph]]
