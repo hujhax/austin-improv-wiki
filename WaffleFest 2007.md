@@ -1,6 +1,3 @@
-http://www.flickr.com/photos/austinimprov/536353336/
-![[WaffleFest 2004 Poster.jpg|Poster for WaffleFest 2004.]]
-
 **WaffleFest 2007** was the sixth annual [[WaffleFest]].
 
 ## Summary
