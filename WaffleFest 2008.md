@@ -26,4 +26,4 @@ It included an all-star *[[Maestro]]*.
 * Curtis Needs a Ride
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=13&t=5380 Call for volunteers] on [[The Austin Improv Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?p=71875 Some lines from night #1] on [[The Austin Improv Forums]].
