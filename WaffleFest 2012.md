@@ -35,4 +35,4 @@ The festival also included several acts from *[[The Free Fringe]]*.
 * [[Your Dad's Friends]]
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11204 Call for volunteers] on [[The Austin Improv Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?f=2&t=14272 Post about Ladies' Night] on [[The Austin Improv Forums]].
