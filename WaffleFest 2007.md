@@ -23,7 +23,7 @@ It included an all-star *[[Maestro]]*.
 * [[Midnight Society]]
 * [[Parallelogramophonograph]]
 * [[The Smoking Arm]]
-* [[Starter Kit]]
+* [[The Starter Kit]]
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=13&t=5380 Call for volunteers] on [[The Austin Improv Forums]].
