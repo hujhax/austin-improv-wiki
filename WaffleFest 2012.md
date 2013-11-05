@@ -1,3 +1,5 @@
+![[Wafflefest ad.jpg|A promotional image for WaffleFest 2012.]]
+
 **WaffleFest 2012** was the eleventh annual [[WaffleFest]].
 
 ## Summary
