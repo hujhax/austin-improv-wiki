@@ -1,7 +1,7 @@
 **WaffleFest 2008** was the seventh annual [[WaffleFest]].
 
 ## Summary
-The ran from 11/15/08 to 11/17/08.
+The ran from 11/20/08 to 11/22/08.
 
 It included an all-star *[[Maestro]]*.
 
