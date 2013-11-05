@@ -1,4 +1,4 @@
-**WaffleFest 2011** was the ninth annual [[WaffleFest]].
+**WaffleFest 2011** was the tenth annual [[WaffleFest]].
 
 ## Summary
 The ran from 11/17/11 to 1/19/11.
