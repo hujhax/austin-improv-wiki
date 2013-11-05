@@ -4,7 +4,7 @@ http://www.flickr.com/photos/austinimprov/536353336/
 **WaffleFest 2007** was the sixth annual [[WaffleFest]].
 
 ## Summary
-The festival ran from 11/15/05 to 11/17/05.
+The festival ran from 11/15/07 to 11/17/07.
 
 It included an all-star *[[Maestro]]*.
 
