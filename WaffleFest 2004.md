@@ -3,7 +3,7 @@
 **WaffleFest 2004** was the third annual [[WaffleFest]].
 
 ## Summary
-The festival ran from 12/13/04 to 12/13/04.
+Its festival dates are unknown.
 
 ## Acts
 * [[Bedridden]]
