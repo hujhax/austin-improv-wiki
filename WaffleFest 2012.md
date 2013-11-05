@@ -11,7 +11,7 @@ The festival also included several acts from *[[The Free Fringe]]*.
 
 ## Acts
 * [[The Amazon and the Milksop]]
-* [[Austin Secrets]]
+* *[[Austin Secrets]]*
 * [[Available Cupholders]]
 * [[Bad Boys]]
 * [[Big Beautiful Warlock]]
