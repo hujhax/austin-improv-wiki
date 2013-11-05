@@ -3,8 +3,6 @@
 ## Summary
 The ran from 11/20/08 to 11/22/08.
 
-It included an all-star *[[Maestro]]*.
-
 ## Acts
 ### Local Acts
 * [[Available Cupholders]]
