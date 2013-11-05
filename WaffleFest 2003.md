@@ -3,7 +3,7 @@
 **WaffleFest 2003** was the second annual [[WaffleFest]].
 
 ## Summary
-The festival ran from 12/13/03 to 12/13/03.
+The festival ran from 12/12/03 to 12/13/03.
 
 ## Acts
 * [[ComedySportz]]
