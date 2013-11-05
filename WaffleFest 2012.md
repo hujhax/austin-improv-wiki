@@ -1,7 +1,7 @@
 **WaffleFest 2012** was the eleventh annual [[WaffleFest]].
 
 ## Summary
-The ran from 11/17/12 to 1/19/12.
+The festival ran from 11/17/12 to 1/19/12.
 
 It included an all-star *[[Maestro]]*, and a "Ladies' Night", which featured local improvisors [[Aden Kirschner]], [[Amy Averett]], [[Courtney Hopkin]], [[Emma Holder]], [[Erika McNichol]], [[Halyn Lee Erickson]], [[Kaci Beeler]], [[Kayla Lane Freeman]], [[Lauren Zinn]], and [[Shana Merlin]].
 
