@@ -3,7 +3,7 @@
 **WaffleFest 2013** will be the twelfth annual [[WaffleFest]].
 
 ## Summary
-The festival will run from 11/21/12 to 11/23/12.
+The festival will run from 11/21/13 to 11/23/13.
 
 It will include an all-star *[[Maestro]]* and a teen showcase.
 
