@@ -1,4 +1,4 @@
-**WaffleFest** is an festival devoted to local improv acts.
+**WaffleFest** is a festival devoted to local improv acts.
 
 ![[Wafflefest Logo.png|The WaffleFest logo; a variation on the Hideout logo.]]
 
