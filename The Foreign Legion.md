@@ -30,13 +30,13 @@ After [[Menelaos Prokos]] went back to his home country of Greece, The Foreign L
 
 ## Media
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.131622266918805.35340.100002130980897&type=3 Photoset] by [[Steve Rogers]] of their 6/18/11 show.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.136180276463004.37254.100002130980897&type=3 Photoset] by [[Steve Rogers]] of their 7/2/11 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/24/11 performance at [[The Hideout Theatre]].
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.131622266918805.35340.100002130980897&type=3 Photoset] by [[Steve Rogers]] of their 6/18/11 show in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.136180276463004.37254.100002130980897&type=3 Photoset] by [[Steve Rogers]] of their 7/2/11 show in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/24/11 performance in *[[The Weekender]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/18/11 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/media/set/?set=a.232661733464017.61201.221927764537414&type=3 Photoset of their 10/29/11 show] by [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.250591138337743.64406.221927764537414&type=3 Photoset of their 12/4/11 show] by [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.287205778009612.72155.221927764537414&type=3 Photoset of their 1/28/12 show] by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.232661733464017.61201.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 10/29/11 show in *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/media/set/?set=a.250591138337743.64406.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 12/4/11 show in *[[The Weekender]]*.
+* [http://www.facebook.com/media/set/?set=a.287205778009612.72155.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 1/28/12 show in *[[The Saturday Night Special]]*.
 
 ## More Information
 *[https://www.facebook.com/pages/The-Foreign-Legion/204366602931754 The Foreign Legion facebook page]
