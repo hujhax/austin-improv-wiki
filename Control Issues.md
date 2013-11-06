@@ -19,7 +19,7 @@ This show originated as a [[The Cagematch|Cagematch]] show from [[The Dark Blood
 
 The show began its run with the name *Choose Your Own Adventure*, but on November 4th, 2010, [[The Hideout Theatre]] received a cease-and-desist letter from [http://en.wikipedia.org/wiki/Chooseco Chooseco], the publisher of the *Choose Your Own Adventure* line of books.
 
-At the start of its run, a single *Pick Your Own Path* adventure was paired with *[[The Lottery]]* and a montage jam from experienced Hideout players.  In January 2012, *[[The Wheel]]* was revamped, *[[The Lottery]]* was retired, and *Pick Your Own Path* expanded to a double-bill, with two *Pick Your Own Path* adventures and no additional acts.
+At the start of its run, a single *Pick Your Own Path* adventure was paired with *[[The Lottery]]* and a montage jam from experienced Hideout players.  In January 2012, *[[The Wheel]]* was revamped, *[[The Lottery]]* was retired, and *Pick Your Own Path* expanded to a double bill, with two *Pick Your Own Path* adventures and no additional acts.
 
 ## Media
 ### Videos
