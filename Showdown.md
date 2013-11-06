@@ -44,6 +44,7 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 * [[Showdown – Sixth Episode -  'Death and Texas']]
 
 ## Media
+### Photos
 * First episode:
 ** [http://www.facebook.com/media/set/?set=a.113015822112783.21301.100002130980897 Photoset] from [[Steve Rogers]].
 * Second episode:
@@ -60,5 +61,8 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 ** [http://www.facebook.com/media/set/?set=a.116459398435092.23584.100002130980897 Photoset] from [[Steve Rogers]].
 
 (This was the first improv show where [[Steve Rogers]] did primary photography.)
+
+### Publicity
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.116016391812726.23306.100002130980897&type=3 Character portraits] by [[Steve Rogers]].
 
 [[Category/Shows|Showdown]]
