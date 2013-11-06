@@ -31,8 +31,9 @@ After its main run, the show was performed once at [[The 2011 Improvised Play Fe
 * [http://www.facebook.com/media/set/?set=a.10150164551402265.334935.588952264&type=1 Photoset] by [[Peter Rogers]] of the 2/23/11 rehearsal.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150169239482265.336902.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/2/11 rehearsal.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150191338757265.344586.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/26/11 performance.
+** [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes that show.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150198561812265.346709.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/1/11 show prep.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 3/26/11 performance.
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.117825398298492.24437.100002130980897&type=3 Photoset] by [[Steve Rogers]] of their 4/16/11 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1661395897504.82683.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/23/11 performance.
 
 ### Publicity
