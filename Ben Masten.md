@@ -7,7 +7,7 @@
 **Ben Masten** is an improv performer and transplant from New York City.
 
 ## History
-Ben trained in improv in New York. He visited Austin for [[Out of Bounds Comedy Festival 2011]] and decided to move here. Then he did.
+Ben trained in improv in New York. He visited Austin for [[The Out of Bounds Comedy Festival]] in 2011, and decided to move here. Then he did.
 
 ## Troupes
 * [[Century]] (2013-Present)
