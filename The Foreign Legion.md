@@ -7,10 +7,10 @@
 |Years	=		2011-2012
 }}
 
-**The Foreign Legion** was an improv troupe.
+**The Foreign Legion** was an improv troupe composed entirely of foreign-born improvisers.
 
 ## Summary
-The Foreign Legion explored truly American customs, locations and things by sending two members of the troupe on a quest to find out as much as possible about the history and secrets surrounding the topic. At the end both heroes had to explain their findings to an immigration officer and were either allowed to stay or would get deported, depending on the audience vote.
+The Foreign Legion explored truly American customs, locations and concepts by sending two members of the troupe on a quest to find out as much as possible about the history and secrets surrounding the topic. At the end both heroes had to explain their findings to an immigration officer and were either allowed to stay or would get deported, depending on the audience vote.
 
 ## History
 * 6/18/11 - SVT *[[Saturday Night Special]]* ("Unionized Labor")
