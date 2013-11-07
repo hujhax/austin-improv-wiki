@@ -12,6 +12,7 @@ After the four members performed in [[The Next Chapter]], directed by [[Justin D
 
 ## Shows
 * Debut show at [[ColdTowne Theater]]
+* Second show at [[ColdTowne Theater]]
 
 ## More Information
 *[http://www.facebook.com/pages/centuryimprov Century's facebook page]
