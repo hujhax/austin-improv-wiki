@@ -19,6 +19,7 @@ Ryan has performed at The Oklahoma Improv Festival and Improvaganza Hawaii with 
 Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]] and [[Andy Crouch]], at [[The Hideout Theatre]]; he coaches [[Four Stories Tall]], a teen improv troupe; and he is producing [[The 44-Hour Improv Marathon]].
 
 ## Troupes
+* [[Century]] (2013-Present) 
 * [[In Our Prime]] (2012-Present) 
 * [[The Seven Eight Sevens]] (2012-2013)
 * [[Apocalypse]] (2012)
