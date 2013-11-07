@@ -1,8 +1,7 @@
 {{Infobox Troupe
 |Name	=		Century
+|Picture =      Century.jpg
 |Cast	=	{{Unbulleted list|[[Justin Davis]]|[[Brad Hawkins]]|[[Ryan Hill]]|[[Ben Masten]]}}
-
-
 |Years	=		2013 - Present
 }}
 
