@@ -129,5 +129,6 @@ The run features tech by [[Michael Yew]] and guest appearances from [[Jordan T. 
 * [http://forum.austinimprov.com/viewtopic.php?t=12879 Cast announcement for season two.]
 * [http://forum.austinimprov.com/viewtopic.php?t=13189 Show announcement for season two.]
 * [http://www.tor.com/blogs/2012/04/time-and-relative-dimensions-in-improv-the-professor A 2012 Tor.com blog story about season two.]
+* [http://www.facebook.com/events/1424792731066029/ Facebook event for the third season.]
 
 [[Category/Shows|Professor]]
