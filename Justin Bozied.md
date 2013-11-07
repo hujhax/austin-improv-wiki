@@ -8,6 +8,7 @@
 **Justin Davis** is an improv performer, director, and teacher who works primarily with [[The Institution Theater]]. He first took classes at [[The Hideout Theatre]] from 2006 to 2007. Davis was a founding member of [[The Starter Kit]], an improv troupe that lasted four and a half years before splitting up mainly due to multiple members moving away from Austin. A decided shift in his performing style happened around this time, and he pursued more opportunities behind the scenes as a director, producer, creator, and instructor.  
 
 ## Troupes
+* [[Century]]
 * [[The Library]]
 * [[The Professor]] (director, 2011-2012)
 * [[The Starter Kit]]
