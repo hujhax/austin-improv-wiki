@@ -138,7 +138,7 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 * [http://www.facebook.com/hujhax/media_set?set=a.10150198563102265.346711.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/1/11 Maestro.
 * [http://www.facebook.com/SteveRogers1212/media_set?set=a.121210094626689.30021.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 4/30/11 Maestro.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 5/28/11 Maestro.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 6/3/11 & 6/4/11 Maestros from [[The 42-Hour Improv Marathon]].
+* [https://www.facebook.com/michael.yew/media_set?set=a.1724964966691.86123.1315383518&type=3] by [[Michael Yew]] that includes the 6/3/11 & 6/4/11 Maestros from [[The 42-Hour Improv Marathon]].
 * [http://www.facebook.com/media/set/?set=a.215015301900490.51321.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/29/11 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150527171352265.429807.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/8/11 Maestro.
 
