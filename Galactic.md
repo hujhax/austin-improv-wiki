@@ -9,10 +9,7 @@
 
 ## Summary
 ### Press Blurb
-This is their bio from the [[2012 Out of Bounds]] web site:
-<blockquote><p>"Galactic is husband and wife Joshua Gill and Lisa Jackson. Using deep character work, they explore the straight/absurd and absurd/absurd dynamics. Often the worlds of different characters they create will collide.</p>
-
-<p>Both Josh and Lisa have a deep abiding love for science fiction, and the heart of Galactic started in the genre. It is not uncommon for their shows to feature alien/human relationships, time travel, deep space, and alternate universes. Each of their shows is a unique journey into their demented minds and often their loving relationship as well."</p></blockquote>
+<blockquote><p>Husband and wife improv comedy duo, Lisa Jackson and Josh Gill, are prominent performers and instructors in the Austin improv scene. They bring the fun and absurdity of their relationship to the stage as Galactic.</p></blockquote>
 
 ## Media
 ### Video
