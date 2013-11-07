@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Ben Masten	
 |Picture =	Ben Masten Pic.jpg
-|Years	=	2012Present
+|Years	=	2012-Present
 }}
 
 **Ben Masten** is an improv performer and transplant from New York City.
