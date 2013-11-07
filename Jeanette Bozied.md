@@ -16,5 +16,6 @@ Jeanette trained at [[The Institution Theater]].
 * *[[The Next Chapter]]*
 * *[[Austin Secrets]]*
 * *[[The Suitcase]]*
+* *[[Bad Girls in Plaid Skirts]]*
 
 [[Category/Performers|Jones]]
