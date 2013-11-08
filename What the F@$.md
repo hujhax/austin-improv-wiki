@@ -14,7 +14,7 @@
 ... info about show format goes here.
 
 ## More Information
-* [http://forum.austinimprov.com/viewforum.php?f=3 The audition notice] on [[The Austin Improv Forums]].
+* [http://forum.austinimprov.com/viewforum.php?f=3 The audition notice] on [[The Austin Improv Forums]], and [http://docs.google.com/spreadsheet/viewform?formkey=dHpzNTQ4clBGV2JCUDZjWW9Idmp1VkE6MA#gid=1 the audition form].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
