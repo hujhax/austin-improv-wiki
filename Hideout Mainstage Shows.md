@@ -137,7 +137,7 @@ Starting in 2014, the Hideout will begin presenting two mainstage shows every Sa
 {| class="wikitable"
 |**Month**||**Show**||**Directed by**
 |-
-|Feb 2014||*[[What the F@#$]]*||[[Ruby Willmann]]
+|Feb 2014||*[[What the F@$]]*||[[Ruby Willmann]]
 |-
 |Apr 2014||*[[Camp Madeupponathaspotta]]*|| [[Jon Bolden]]
 |-
