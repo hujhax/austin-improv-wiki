@@ -20,6 +20,8 @@ The name "Cochise" is a reference to a character in the Beastie Boys video "Sabo
 
 The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[The 40-Hour Improv Marathon]].
 
+"Cochise" will return in 2014 as one of the first [[Student Mainstage Productions]] at [[The Hideout Theatre]].
+
 ### Frontera Fest Show Dates
 * January 21st, 2009 at 7:30pm 
 * January 24th, 2009 at 2:15pm 
