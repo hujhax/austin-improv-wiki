@@ -14,7 +14,6 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 * [[The Escorts]]
 * [[The Good Life]] (director)
 * [[Three Hot Chicks]]
-* [[New Game Project]]
 
 ## Shows
 * *[[False Matters]]*
@@ -24,6 +23,7 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 * *[[Live TV Tuesdays -  Buffy]]* (Assistant Director)
 * *[[Live TV Tuesdays -  My So-Called Life]]*
 * *[[Magna Veritas]]*
+* *[[The New Game Project]]*
 * *[[Only Three Will Survive]]*
 * *[[Pocketful of Posies]]*
 * *[[Process]]*
