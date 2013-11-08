@@ -33,4 +33,5 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 * *[[A Bedtime Gorey]]*
 
 [[Category/Performers|Willmann]]
+[[Category/Teachers|Willmann]]
 [[Category/Active|Category:Active]]
