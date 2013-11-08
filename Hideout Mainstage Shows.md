@@ -1,5 +1,6 @@
 This is a **list of Hideout mainstage shows in chronological order**.
 
+## Traditional Mainstage Shows
 Note that in the early years, specific runs of shows were rare.  Apart from *[[Start Trekkin']]*, [[Sean Hill]] presented various Keith Johnstone formats in its Saturday 8pm slot.
 
 {| class="wikitable"
@@ -128,4 +129,17 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |Sep 2014||Oct 2014||*[[Reform School for Wayward Girls]]*|| [[Kaci Beeler]]
 |-
 |Nov 2014||Dec 2014||*[[Nothing and Everything]]*||[[Jon Bolden]]
+|}
+
+## Student Mainstage Shows
+Starting in 2014, the Hideout will begin presenting two mainstage shows every Saturday: their 'traditional' mainstage shows will continue in the downstairs theater, and they will begin to present student mainstage shows, featuring either current or recent Hideout students, in their upstairs theater.  Each student mainstage will run for a single month.
+
+{| class="wikitable"
+|**Month**||**Show**||**Directed by**
+|-
+|Feb 2014||*[[What the F@#$]]*||[[Ruby Willmann]]
+|-
+|Apr 2014||*[[Camp Madeupponathaspotta]]*|| [[Jon Bolden]]
+|-
+|Jun 2014||*[[Cochise]]*||[[Marc Majcher]]
 |}
