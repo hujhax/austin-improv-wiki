@@ -14,6 +14,7 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 * [[The Escorts]]
 * [[The Good Life]] (director)
 * [[Three Hot Chicks]]
+* [[New Game Project]]
 
 ## Shows
 * *[[False Matters]]*
