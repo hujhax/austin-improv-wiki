@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name	=	Only Three Will Survive...	
+|Name	=	Only Three Will Survive	
 |Picture=	Only Three Will Survive.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Asaf Ronen]]
