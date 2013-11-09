@@ -8,9 +8,9 @@
 **Unfurled** was the fourth [[ColdTowne Student Troupe]].
 
 ## History
-The troupe was named after Brent Furl, who was cast in the troupe but immediately moved away.
+The troupe was named after [[Brent Furl]], who was cast in the troupe but immediately moved away.
 
 ## More Information
-* [https://www.facebook.com/unfurled The troupe's facebook page.]
+* [http://www.facebook.com/unfurled The troupe's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
