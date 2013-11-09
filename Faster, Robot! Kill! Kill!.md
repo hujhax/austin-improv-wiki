@@ -1,5 +1,5 @@
 {{Infobox Troupe
-|Name	=	Faster, Robot! Kill! Kill?
+|Name	=	Faster, Robot! Kill! Kill!
 |Picture =	Faster, Robot! Kill! Kill? Pic.jpg
 |Cast	=	{{Unbulleted list | [[Brett Tribe]] | [[Lisa Jackson]] }}
 |Years	=		2013-Present
