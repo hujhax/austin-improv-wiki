@@ -9,7 +9,7 @@
 |Run	=	Jul/Aug 2012
 }}
 
-***Only Three Will Survive*** (often written with a trailing ellipsis: ***Only Three Will Survive...*** was a mainstage show at [[The Institution Theater]].
+***Only Three Will Survive*** (often written with a trailing ellipsis: ***Only Three Will Survive...***) was a mainstage show at [[The Institution Theater]].
 
 ## Summary
 The show was a narrative improv that took place in and around an audience-suggested location. The cast of characters united in this space would suffer through a series of tragic disasters until, as the title states, only three of them were left.
