@@ -1,3 +1,16 @@
-Ed Reed is primarily a [[ColdTowne Theater]] improvisor, who has been active since 2009. He is a member of [[Bad Boys]].
+{{Infobox Performer
+|Name	=	Ed Reed	
+|Picture =	Ed Reed Pic.jpg
+|Theater=	[[ColdTowne Theater]]
+|Years	=	2009-Present
+}}
 
+**Ed Reed** is an improv performer.
+
+## History
 He is originally from Connecticut.
+
+## Troupes
+* [[Bad Boys]]
+
+[[Category/Performers|Reed]]
