@@ -18,6 +18,7 @@ He is a regular cast member of the *[[Flying Theater Machine]]*.
 * *[[The Good Life]]*
 * *[[Key Party]]*
 * *[[The Next Chapter]]*
+* *[[Only Three Will Survive]]*
 * *[[Taxi Cab Impressions]]*
 
 [[Category/Performers|Wallens]]
