@@ -2,6 +2,7 @@
 |Name	=	Jason Finkelman
 |Picture =	JF pic.jpg
 |Theater =      Various
+|Years =        2010-Present
 }}
 __NOINDEX__
 **Jason Finkelman** is an Austin improvisor.
@@ -17,7 +18,7 @@ He is a member of Austin troupes [[The Intentions]], [[Array]], [[Newsical]], an
 * [[The Intentions]] (2010)
 * [[The Seven Eight Sevens]] (director) (2012)
 * [[Duck Duck Boom]] (2011)
-* [[JTS Brown (aka Array)]] (2013)
+* [[Array]] (2013)
 * [[Newsical]] (2013)
 * [[The Wombmates]] (2013)
 
