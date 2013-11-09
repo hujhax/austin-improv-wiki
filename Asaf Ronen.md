@@ -32,6 +32,7 @@ Asaf has taught throughout NYC's public school system as a resident artist throu
 * *[[The Joss Whedon Pajama Party]]* (director)
 * *[[Ka-Baam!!]]* (director)
 * *[[Live TV Tuesdays -  Firefly]]* (director)
+* *[[Only Three Will Survive]]* (director)
 * *[[The Rubber Room]]* (director)
 * *[[Sickest Fing Stories]]* (director)
 * *[[Spirited]]* (director)
