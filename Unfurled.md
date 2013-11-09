@@ -1,1 +1,16 @@
-Unfurled was the fourth ColdTowne student troupe. Its first performing lineup was Jason Cohen, Gene Joe, Julia Kirchen, Beth Lebwohl, Scott Moss, John Ratliff, Katie Sicking, Drew Wesely, and Hanna Woodruff. It was named after Brent Furl, who was cast in the troupe but immediately moved away.
+{{Infobox Troupe
+|Name	=	Unfurled
+|Picture =	Unfurled Pic.jpg
+|Cast	=	{{Unbulleted list | [[Beth Lebwohl]] | [[Drew Wesely]] | [[Gene Joe]] | [[Hanna Woodruff]] | [[Jason Cohen]] | [[John Ratliff]] | [[Julia Kirchen]] | [[Katie Sicking]] | [[Scott Moss]] }}
+|Years	=		2008-2010
+}}
+
+**Unfurled** was the fourth [[ColdTowne Student Troupe]].
+
+## History
+The troupe was named after Brent Furl, who was cast in the troupe but immediately moved away.
+
+## More Information
+* [https://www.facebook.com/unfurled The troupe's facebook page.]
+
+[[Category/Troupes|Category:Troupes]]
