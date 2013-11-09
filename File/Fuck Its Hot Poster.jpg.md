@@ -1,5 +1,5 @@
 ## Summary
-Publicity image for *[[Fuck, It's Hot]]*.
+Publicity image for *[[Fuck It's Hot]]*.
 
 Art by: unknown.
 
