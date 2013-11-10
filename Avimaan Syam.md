@@ -14,8 +14,10 @@ In 2012, he moved away to Los Angeles.
 
 ## Troupes
 * [[Double Dutch]]
+* [[The Love Notes]]
 
 ## Shows
+* *[[69 Love Scenes]]*
 * *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[Dusk]]*
 * *[[Heist!]]*
