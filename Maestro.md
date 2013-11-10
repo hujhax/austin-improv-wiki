@@ -161,3 +161,4 @@ On December 15, 2012, the Maestro cast was short one player, and the audience it
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
 [[Category/Active|Category:Active]]
+[[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]
