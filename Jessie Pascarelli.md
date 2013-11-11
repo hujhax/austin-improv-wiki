@@ -8,7 +8,7 @@
 **Jessie Pascarelli** is an improv performer.
 
 ## History
-Jessie is the assistant producer of [[The 44-Hour Improv Marathon]]. She was the Social Media Director for [[Out of Bounds Comedy Festival]] in 2013. She is the producer of the Institution's Lovefest and Bitterfest shows.
+Jessie is the assistant producer of [[The 44-Hour Improv Marathon]]. She was the Social Media Director for [[The 2013 Out of Bounds Comedy Festival]]. She is the producer of [[The Institution Theater]]'s *[[Lovefest]]* and *[[Bitterfest]]* shows.
 
 ## Troupes
 * [[Kosher Bacon]] (defunct)
