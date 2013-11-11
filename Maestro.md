@@ -35,12 +35,15 @@ The Hideout sporadically puts on *[[Blue Maestro]]*, which is the non-family-fri
 Once a month, as part of *[[The Wheel]]*, The Hideout puts on *[[Maestro Raw]]*, which is cast mostly (if not exclusively) from Hideout students.
 
 ## Notable Moments in Maestro History
+On May 18, 2002, an audience member was selected to fill a gap in the Maestro cast and won.<ref>http://www.heroescomedy.com/shows/micetro/images/2002-051802_micetro_win_audience.jpg</ref>
+
 In 2002 or 2003, Maestro played for an audience of two—a couple on a date, the only people who bought tickets. During the second round [[Sean Hill]] played [http://www.ehow.com/video_4949483_improv-twin-pillars.html Twin Pillars], meaning that the scene was played for an empty house.
 
 On December 1, 2007, a special "Maestro of Maestros" was performed, directed by [[Shana Merlin]] and [[Andy Crouch]], and containing a cast of only previous Maestro winners. [[Bryan 'Lubu' Roberts]] eventually won the title, defeating [[Dav Wallace]] in the final round. He now waits for a worthy cast of challengers.
 
 On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience played the final tie-breaker scene using [http://learnimprov.com/?p=237 Speak in One Voice] with [[Peter Rogers]], and collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
 
+On November 9, 2013, a couple arranged for a marriage proposal to occur during the final scene of Maestro.
 
 ## Media
 ### Videos
