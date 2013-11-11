@@ -10,6 +10,7 @@
 ## Troupes
 * [[The Foreign Legion]]
 * [[Senshi Sokyo]]
+* [[Diplomatic Impunity]]
 * [[The Walk Ons]]
 
 ## Shows
