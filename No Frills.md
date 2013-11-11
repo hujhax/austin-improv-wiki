@@ -8,7 +8,7 @@
 **No Frills** is a troupe that focuses on monoscenes about women who like each other.
 
 ## History
-After rehearsing together at [[The Institution Theater]] in the summer of 2013, they had a soft debut at the Institution's *[[Rubber Room]]* on 7/7/13, and then had their official debut at [[ColdTowne Theater]] on 9/2/13 (taking the suggestion "Laundromat"). They have since performed at The Hideout Theatre in the Threefer and at the Institution in The Triple Scoop.
+After rehearsing together at [[The Institution Theater]] in the summer of 2013, they had a soft debut at the Institution's *[[Rubber Room]]* on 7/7/13, and then had their official debut at [[ColdTowne Theater]] on 9/2/13 (taking the suggestion "Laundromat"). They have since performed at [[The Hideout Theatre]] in *[[The Threefer]]* and at [[The Institution Theater]] in *[[The Triple Scoop]]*.
 
 ## More Information
 * [http://www.facebook.com/NoFrillsAustin?ref=br_rs The troupe's facebook page.]
