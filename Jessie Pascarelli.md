@@ -11,7 +11,9 @@
 Jessie is the assistant producer of [[The 44-Hour Improv Marathon]].
 
 ## Troupes
-* [[Kosher Bacon]]
+* [[Kosher Bacon]] (defunct)
+* [[No Frills]]
+* [[Bad Font]]
 
 ## Shows
 * *[[The Next Chapter]]* (assistant director)
