@@ -8,8 +8,7 @@
 **McNichol & May** is an improv duo consisting of married couple [[Bob McNichol]] and [[Erika May McNichol]].
 
 ## Media
-* [http://www.facebook.com/hujhax/media_set?set=a.129984552264.120572.588952264&type=3
- Photoset] by [[Peter Rogers]] of their 6/28/09 performance in [[The 40-Hour Improv Marathon]].
+* [http://www.facebook.com/hujhax/media_set?set=a.129984552264.120572.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/28/09 performance in [[The 40-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/5/11 show in [[The 42-Hour Improv Marathon]].
 
 ## More Information
