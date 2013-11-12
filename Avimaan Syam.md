@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Avimaan Syam	
 |Picture =	Avimaan Syam Pic.jpg
-|Theater=	Various
+|Theater=	[[Salvage Vanguard Theater]]
 |Years	=	2009-2012
 }}
 
