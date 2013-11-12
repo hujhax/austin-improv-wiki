@@ -43,7 +43,7 @@ On December 1, 2007, a special "Maestro of Maestros" was performed, directed by 
 
 On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience played the final tie-breaker scene using [http://learnimprov.com/?p=237 Speak in One Voice] with [[Peter Rogers]], and collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
 
-On November 9, 2013, a couple arranged for a marriage proposal to occur during the final scene of Maestro.
+On November 9, 2013, a couple arranged for a marriage proposal to occur during the final scene of Maestro. During the final round, they were called onstage as audience volunteers, and the players used a "dubbed moving bodies" format to get them into the right position onstage before backing off and letting the proposal happen. The scene got a 5.
 
 ## Media
 ### Videos
