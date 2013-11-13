@@ -10,7 +10,7 @@
 ## Troupes
 * [[Century]]
 * [[The Library]]
-* [[The Professor]] (director, 2011-2012)
+* [[The Professor]] (creator, director, 2011-2012)
 * [[The Starter Kit]]
 * [[The Asides]]
 * [[Mr. Rather]]
