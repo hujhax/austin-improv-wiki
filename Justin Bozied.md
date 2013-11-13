@@ -19,7 +19,8 @@
 * *[[The Black Vault]]*
 * *[[Ka-Baam!!]]*
 * *[[Magna Veritas]]*
-* *[[The Next Chapter]]* (director and performer)
+* *[[The Next Chapter]]* (creator, director, and performer)
+* *[[You Think You're So Smart]]* (creator, director, and performer)
 * *[[Spirited]]*
 * *[[Start Trekkin']]*
 * *[[Apocalypse! (show)|Apocalypse!]]*
