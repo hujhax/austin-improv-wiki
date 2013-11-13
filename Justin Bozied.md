@@ -27,7 +27,7 @@
 * *[[The Birthday Clusterfunk]]* (host and producer)
 * *[[The Rubber Room]]* (performer and producer)
 * *[[This American Live]]* (guest storyteller)
-* *[[Maestro]]* (2000-) 
+* *[[Maestro]]* (2000-) (director, performer)
 * ''[[The Nightmare Video Project]]
 * ''[[Pick Your Own Path]]
 * ''[[The Tribunal]]
