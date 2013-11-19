@@ -4,7 +4,7 @@
 |Director =		[[Ruby Willmann]]
 |Assistant Director =		[[Caeriel Crestin]]
 |Run=							Feb 2014
-|Cast	=		TBA
+|Cast	=		{{Unbulleted list | [[Adrienne Brown]] | [[Chris Albano]] | [[David Schwartz]] | [[Emma Czarnecki]] | [[Judith Schomp]] | [[Lindsay Hejl]] | [[Manuel Duran]] | [[Melissa Patterson]] | [[Michael Guy Bowman]] }}
 }}
 
 ***What the F@*$*** (the symbols may vary) will be the first student mainstage production at [[The Hideout Theatre]].
