@@ -23,7 +23,7 @@ In the mid-2000s, [[Sean Hill]] took a more hands-off approach to the theater, a
 ### 2009-Present: New Management
 By mid-2009, [[Sean Hill]]'s lease on the property came to an end, and he chose not to renew.  Eager to see [[The Hideout Theater]] continue, [[Jessica Arjet]], [[Kareem Badr]] and [[Roy Janik]] acquired the property.<ref name="auschron1">[http://www.austinchronicle.com/arts/2009-05-22/784213/ The Hideout: Under new – but very familiar – management (Austin Chronicle, 22 May 2009)]</ref>  They immediately scheduled regular two-month mainstage runs for Saturday nights.  Over time, they steadily expanded the education program, and the weekly show schedule.
 
-In January of 2013, they began running mainstage shows, as well as *[[Maestro]]*, in the building's larger, downstairs theater.  The next month, they took over the building's café space.  In April, they expanded the hours of the café, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows.
+On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House business and operations. In January of 2013, the Saturday mainstage shows, as well as *[[Maestro]]*, were moved to the building's larger, downstairs theater. In April, the Coffee House hours were extended, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows. A second, smaller, Hideout Coffee location is scheduled to open in January 2014.
 
 ## Shows
 The Hideout puts on a number of [[List of Hideout Mainstage Shows in Chronological Order|mainstage shows]], and a variety of recurring shows such as *[[Maestro]]* and *[[The Free Fringe]]*.
