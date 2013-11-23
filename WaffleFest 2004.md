@@ -12,5 +12,5 @@ Its festival dates are unknown.
 * [[Girls Girls Girls]]
 * [[The Heroes of Comedy]]
 * [[The Knuckleball Now]]
-* [[Lation Comedy Project]]
+* [[Latino Comedy Project]]
 * [[The Polite Society]]
