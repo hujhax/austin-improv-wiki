@@ -8,6 +8,7 @@
 **Bridget Brewer** is an improv performer.
 
 ## Shows
+* *[[Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]* (sound tech)
 * *[[Fandom]]*
 * *[[Flying Theater Machine]]*
@@ -15,6 +16,5 @@
 * *[[Seance]]*
 * *[[The Tribunal]]*
 * *[[Theatresports]]*
-* "[[Austin Secrets]]"
 
 [[Category/Performers|Brewer]]
