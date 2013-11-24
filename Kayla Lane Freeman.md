@@ -7,7 +7,7 @@
 **Kayla Lane Freeman** is an improv performer.
 
 ## History
-Kayla will appear in [[The 44-Hour Improv Marathon]] as a core cast member.
+Kayla appeared in [[The 44-Hour Improv Marathon]] as a core cast member.
 
 ## Troupes
 * [[Dance Card]]
