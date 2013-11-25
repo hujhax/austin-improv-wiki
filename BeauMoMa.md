@@ -5,7 +5,6 @@
 |Years	=	2013-Present
 }}
 
-
 ## Summary
 **BeauMoMa** is an improv troupe that just wants to have fun.
 
