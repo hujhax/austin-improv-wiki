@@ -7,7 +7,7 @@
 |Run	=	2007-Present
 }}
 
-***The Cagematch*** (AKA **Cage Match**, **Cagematch**) is a competitive performance slot at [[ColdTowne Theater]] in which two to three improv troupes perform and the audience votes on their favorite.  It runs at 10pm on Wednesday nights.
+***The Cagematch*** (AKA ***Cage Match***, ***Cagematch***) is a competitive performance slot at [[ColdTowne Theater]] in which two to three improv troupes perform and the audience votes on their favorite.  It runs at 10pm on Wednesday nights.
 
 ## Summary
 In its current incarnation, the Cagematch is a single-elimination bracket tournament.  Eight two twelve 'teams' (troupes) play against each other, first in four preliminary matches featuring two to three teams, then in two-team matches, over the course of seven weeks.  In each show, each scheduled team performs a twenty-minute set.  The audience votes for their favorite performance, and the winning team advances to the next round or (in the last match) wins the championship.  Occasionally, there is an exhibition match scheduled among the regular tournament. The winner of the exhibition match automatically gets a slot in the next tournament (provided they submit).
@@ -15,6 +15,7 @@ In its current incarnation, the Cagematch is a single-elimination bracket tourna
 Each bracket tournament usually has an over-the-top subtitle, such as "Hog Wild" or "Trail of Terror."  It is scheduled by the so-called "Cagematch Commissioner", a position which has been held by [[Chris Trew]] (2007-2008) and [[Michael Williams]] (2008-2012), and which has been held by [[Adam Trabka]] since August of 2012.
 
 ## History
+![[Cagematch2x4.jpg|The winners of *The Cagematch* are recorded on a 2x4 mounted on the wall at ColdTowne Theater.]]
 The Cagematch originated as an [[AIC]]-branded show at [[The Hideout Theatre]] in 2007.  It moved to [[ColdTowne Theater]] later that year.  The AIC became largely inactive in 2009, and the Cagematch continued as a ColdTowne show.
 
 In its tenure at the Hideout, and in the first months of its move to ColdTowne, the Cagematch was a "King of the Hill"-style contest, where the winner would always return to compete next week.  The show returned to this format briefly in late 2010/early 2011.
