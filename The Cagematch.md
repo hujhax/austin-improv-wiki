@@ -4,7 +4,7 @@
 |Theater=	{{Unbulleted list | [[The Hideout Theatre]] (2007) | [[ColdTowne Theater]] (2007-Present) }}
 |Director =	{{Unbulleted list | [[Chris Trew]] (2007-2008) | [[Michael Williams]] (2008-2012) | [[Adam Trabka]] (2012-Present) }}
 |Cast	=	Various
-|Run	=	2007-Present
+|Run	=	2005-Present
 }}
 
 ***The Cagematch*** (AKA ***Cage Match***, ***Cagematch***) is a competitive performance slot at [[ColdTowne Theater]] in which two to three improv troupes perform and the audience votes on their favorite.  It runs at 10pm on Wednesday nights.
