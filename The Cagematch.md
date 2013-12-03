@@ -16,7 +16,7 @@ Each bracket tournament usually has an over-the-top subtitle, such as "Hog Wild"
 
 ## History
 ![[Cagematch2x4.jpg|The winners of *The Cagematch* are recorded on a 2x4 mounted on the wall at ColdTowne Theater.]]
-The Cagematch originated as an [[AIC]]-branded show at [[The Hideout Theatre]] in 2007.  It moved to [[ColdTowne Theater]] later that year.  The AIC became largely inactive in 2009, and the Cagematch continued as a ColdTowne show.
+The Cagematch originated as an [[AIC]]-branded show at [[The Hideout Theatre]] in November of 2005.  It moved to [[ColdTowne Theater]] in 2007.  The AIC became largely inactive in 2009, and the Cagematch continued as a ColdTowne show.
 
 In its tenure at the Hideout, and in the first months of its move to ColdTowne, the Cagematch was a "King of the Hill"-style contest, where the winner would always return to compete next week.  The show returned to this format briefly in late 2010/early 2011.
 
