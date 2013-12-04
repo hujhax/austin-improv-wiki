@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Snackers
 |Picture =     Snackers.png
-|Cast	=	{{Unbulleted list | [[Courtney Hopkin]] | [[Eric Heiberg]] | [[James Roberts]] | [[Katie Thornton]] | [[Mark Carpenter]] }}
+|Cast	=	{{Unbulleted list | [[Courtney Hopkin]] | [[Eric Heiberg]] | [[James Roberts]] | [[Katie Thornton]] | [[Mark Carpenter]] | [[Albert Im]] }}
 |Years	=		2007-2011
 }}
 
