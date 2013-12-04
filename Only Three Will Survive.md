@@ -20,5 +20,9 @@ Then the play began, showing this cross-section of people going about their rout
 
 This continued a few times through the evening.  Sometimes more than one character card would be pulled simultaneously.
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.3483597451404.129149.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/17/12 performance.
+
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10151019281434090&set=a.10151019273174090.456363.273514734089&type=3&theater The show's facebook page.]
