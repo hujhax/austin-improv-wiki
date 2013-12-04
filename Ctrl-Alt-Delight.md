@@ -5,6 +5,7 @@
 |Years	=		2010-2011
 }}
 
+:''This page refers to the defunct all-male troupe consisting of ex-members of [[Continental Breakfast]].  For the current, all-female [[ColdTowne]] troupe, see [[Ctrl Alt Delete]].
 **Ctrl-Alt-Delight** was an improv troupe consisting of ex-members of [[Continental Breakfast]].
 
 ## Summary
