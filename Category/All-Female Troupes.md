@@ -9,7 +9,6 @@ This is a list of both active and inactive all-female troupes in Austin.
 * [[Checkbook]]
 * [[Coco]]
 * [[Crepes Suzette]]
-* [[Ctrl Alt Delete]]
 * [[Florida Room]]
 * [[Girl Embassy World Team]]
 * [[The Ladies]]
