@@ -8,7 +8,7 @@
 **Snackers** was an improv troupe.
 
 ## History
-The troupe's members met in [[Shana Merlin]]'s improv classes at [[The State Theater]] in 2006 and 2007.  The troupe began in September 2007.  In 2008, they founded *[[The Monday Night Mash]]*, which [[Albert Im]] has arranged for them to host at [[Kick Butt Coffee]].
+The troupe's members met in [[Shana Merlin]]'s improv classes at [[The State Theater]] in 2006 and 2007.  The troupe began in September 2007.  In 2008, they founded *[[The Monday Night Mash]]*, which [[Albert Im]] has arranged for them to host at [[Kick Butt Coffee]].  In 2010, they played the Black Box Comedy Festival in Atlanta, Georgia.
 
 ### Formats
 After an initial run that performed the Living Room format, the troupe performed a series of formats that drew inspiration from television, movies, and books:
