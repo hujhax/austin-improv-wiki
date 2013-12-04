@@ -2,6 +2,8 @@
 
 Its advertising was classic-Nintendo themed.
 
+It ran from Thursday to Monday, 9/3/09 to 9/6/09.
+
 ## Acts
 ### Local Improv and Sketch Acts
 * [[A Buch of Liars]]
@@ -106,5 +108,8 @@ Its advertising was classic-Nintendo themed.
 * Bill and the Bacon Explosion
 * First Date featuring Cody Dearing
 
+## Media
+* [http://blip.tv/out-of-bounds-comedy-festival/cackowski-and-talarico-live-at-out-of-bounds-3102690 Video of Cackowski and Talarico's performance.]
+
 ## More Information
-* [http://www.outofboundsimprov.com/2009/ The 2009 Out of Bounds web site.]
+* [http://www.examiner.com/article/out-of-bounds-comedy-festival-2009-thursday An article about the festival from *The Examiner*.]
