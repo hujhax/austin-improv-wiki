@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Ctrl Alt Delete
 |Picture =     Ctrl Alt Delete.jpg
-|Cast	=	{{Unbulleted list | [[Chrissy Chackelford]] | [[Jessica Marpe]] | [[Naomi Perryman]] }}
+|Cast	=	{{Unbulleted list | [[Chrissy Shackelford]] | [[Jessica Marpe]] | [[Naomi Perryman]] }}
 |Years	=		2013-Present
 }}
 
