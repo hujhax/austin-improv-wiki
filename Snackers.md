@@ -19,11 +19,11 @@ After an initial run that performed the Living Room format, the troupe performed
 * "Snacksucker Proxy" drew from the writing of [[Wikipedia - Horatio Alger|Horatio Alger]] and the movie *[[Wikipedia - The Hudsucker Proxy|The Hudsucker Proxy]]*.  (This was their last format before they disbanded.)
 
 ## Media
+![[SnackersLogo.gif|The Snackers logo.]]
 ### Videos
 * [http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327 Video] of Snackers' show at [[The 2009 Out of Bounds Comedy Festival]].
 
 ### Photos
-https://www.facebook.com/hujhax/media_set?set=a.482835317264.261188.588952264&type=3
 * [http://www.facebook.com/hujhax/media_set?set=a.164960802264.141040.588952264&type=3 Photoset] by [[Peter Rogers]] of their 8/27/09 performance of "The Snackers Club" at [[The Hideout Theatre]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/7/10 show in *[[The Spectacle]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/10 performance at [[Salvage Vanguard Theater]].
