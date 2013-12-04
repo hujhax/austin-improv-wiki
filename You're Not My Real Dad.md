@@ -19,6 +19,9 @@ A typical You're Not My Real Dad show is montage inspired by music. The audience
 These are phrases you will never, ever hear applied to Austin's You're Not My Real Dad. A troupe with over 60 years of stage experience between them. Embittered by experience, railroaded by relationships, down by law, YNMRD are never going to see thirty again, and they're pissed about it. They get their inspiration from old LPs and their dinner from the gas station. This is improv with authority from the last people you'd want to have any."
 
 ## Media
+### Videos
+* [http://blip.tv/out-of-bounds-comedy-festival/you-re-not-my-real-dad-wed-8pm-svt-apples-stage-1248969 Video] of their performance at [[The 2009 Out of Bounds Comedy Festival]].
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.481887847264.251804.588952264&type=1 A photoset] by [[Peter Rogers]] of their 9/1/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/roy.moore/media_set?set=a.1346865163575.2043493.1589679282&type=3 Another photoset of the show] by [[Roy Moore]].
