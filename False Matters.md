@@ -19,7 +19,7 @@ The show explores similar themes to those in Dick's works, including dystopian f
 *False Matters* was directed by [[Shannon McCormick]] and assistant-directed by [[Bryan 'Lubu' Roberts]]. [[Courtney Hopkin]] created the costumes and poster for the show. [[Marc Majcher]] created a custom Flash interaction to randomly select the suggestion for the show.
 
 ## History
-The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 2001 (and on August 24 and 25, 2012). After the original run, it lived on as an informal troupe composed of members of the original cast. Its first show outside [[Salvage Vanguard]] was as a part of the first [[Improvised Play Festival]] on July 2, 2011.  Its second full run is on Fridays at [[The Institution Theater]] in October and November 2013.
+The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 2011 (and on August 24 and 25, 2012). After the original run, it lived on as an informal troupe composed of members of the original cast. Its first show outside [[Salvage Vanguard]] was as a part of the first [[Improvised Play Festival]] on July 2, 2011.  Its second full run is on Fridays at [[The Institution Theater]] in October and November 2013.
 
 ## Media
 ### Videos
