@@ -14,6 +14,7 @@
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=15503 The audition notice for the show] on [[The Austin Improv Forums]].
+* [http://www.austinchronicle.com/arts/2013-12-06/a-bedtime-gorey/ An article about the show] by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
 
 [[Category/Shows|Bedtime Gorey]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
