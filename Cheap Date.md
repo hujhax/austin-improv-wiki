@@ -5,7 +5,7 @@
 |Years	=		2013-Present
 }}
 
-**Cheap Date** is an improv troupe.
+**Cheap Date** is an improv troupe, voted ColdTowne's Outstanding New Troupe 2013
 
 ## Summary
 Cheap Date started as a [[ColdTowne Student Troupes|student troupe]] at [[ColdTowne Theater]]. They share members with [[Nice Astronaut]], [[Concrete]], [[Golden Age]], [[Arkay]], and [[Book Club]]. 
