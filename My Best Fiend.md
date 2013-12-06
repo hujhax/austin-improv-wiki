@@ -22,6 +22,7 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 *"Der Stille Winterwald" [http://www.youtube.com/watch?v=uPkwf693jaE Video]
 *"Der Wolf in den Bergen" [http://vimeo.com/42396160 Video]
 *"Die gewesene Sardine": [http://vimeo.com/76356598 9/27/13 performance] at [[The 2013 Out of Bounds Comedy Festival]].
+*"Die Mörderbestie" [http://youtu.be/fzWXDO5noGQ Video]
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/27/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
