@@ -1,4 +1,4 @@
-**The Skull on Stick** is a beloved prop at, and unofficial mascot of, [[The Hideout Theatre]].
+**Skull on Stick** is a beloved prop at, and unofficial mascot of, [[The Hideout Theatre]].
 
 It served as the MacGuffin in [[The Hideout Text Adventure]].
 
