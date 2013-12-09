@@ -22,9 +22,11 @@ This is their bio from their web site:
 * [http://www.viddler.com/explore/troyamiller/videos/9/ Video of their 6/4/09 show.] ("Loading Dock")
 * [http://vimeo.com/5614691 Video of their 6/9/09 show.] ("Airport Bar")
 * [http://www.viddler.com/explore/troyamiller/videos/3/ Video of their 7/16/09 show.] ("Greenhouse")
+** [http://www.viddler.com/v/9d4a33e7 Part 2 of the video.]
 * [http://www.viddler.com/explore/troyamiller/videos/5/ Video of their 7/17/09 show.] ("Conservatory")
 * [http://www.viddler.com/explore/troyamiller/videos/10/ Video of their 7/31/09 show.] ("Diner")
 * [http://www.viddler.com/explore/troyamiller/videos/6/ Video of their 9/3/09 show.] ("Aquarium")
+** [http://www.viddler.com/v/2590a790 Part 2 of the video.]
 * [http://www.viddler.com/explore/troyamiller/videos/14/ Video of their 11/20/09 show.] ("Monastery")
 * [http://www.viddler.com/v/aa8c6d9d Video of their 1/28/2010 show.] ("Deck of a Cruise Ship")
 * [http://www.viddler.com/explore/troyamiller/videos/64/ Video of their 2/18/2010 show.] ("Submarine")
