@@ -50,7 +50,8 @@ This is their bio from their web site:
 * [http://www.viddler.com/v/716e0762 Video of their 1/29/12 show.] ("Mamet Goes to the Movies")
 * [http://www.viddler.com/v/b2981ce2 Video of their 3/9/12 show.] ("The Daily Planet")
 * Videos of their 3/31/12 "Mamet Goes to the Movies" performance: [http://vimeo.com/39723699 "The Cake Variations"]; [http://vimeo.com/39687688 *Star Wars*]
-* [http://vimeo.com/40901517 Video of their performance] in [[The 2012 Improvised Play Festival]].
+* [http://vimeo.com/40901517 Video of their performance] in [[The 2012 Improvised Play Festival]] by [[Kristin Firth]]. ("The Great Pyramid")
+** [http://www.viddler.com/v/2a1b2ab3 Another video of the same show] by [[Michael Ferstenfeld]].
 * [http://www.viddler.com/v/73560641 Video of their 9/28/12 show.] ("Rivendell")
 * [http://www.viddler.com/v/8310310b Video of their 9/29/12 show.] ("Sesame Street")
 * [http://www.viddler.com/v/2a1b2ab3 Video of their 2/16/13 show.] ("Jury Duty")
