@@ -19,12 +19,43 @@ This is their bio from their web site:
 
 ## Media
 ### Videos
-* [http://www.viddler.com/v/aa8c6d9d Video of their 8/1/2010 show.] ("Area 51")
-* [http://www.viddler.com/v/b1728855 Video of their performance] at [[The 2011 Out of Bounds Comedy Festival]]. ("The Hall of Justice")
+* [http://www.viddler.com/explore/troyamiller/videos/9/ Video of their 6/4/09 show.] ("Loading Dock")
+* [http://vimeo.com/5614691 Video of their 6/9/09 show.] ("Airport Bar")
+* [http://www.viddler.com/explore/troyamiller/videos/3/ Video of their 7/16/09 show.] ("Greenhouse")
+* [http://www.viddler.com/explore/troyamiller/videos/5/ Video of their 7/17/09 show.] ("Conservatory")
+* [http://www.viddler.com/explore/troyamiller/videos/10/ Video of their 7/31/09 show.] ("Diner")
+* [http://www.viddler.com/explore/troyamiller/videos/6/ Video of their 9/3/09 show.] ("Aquarium")
+* [http://www.viddler.com/explore/troyamiller/videos/14/ Video of their 11/20/09 show.] ("Monastery")
+* [http://www.viddler.com/v/aa8c6d9d Video of their 1/28/2010 show.] ("Deck of a Cruise Ship")
+* [http://www.viddler.com/explore/troyamiller/videos/64/ Video of their 2/18/2010 show.] ("Submarine")
+* [http://www.viddler.com/explore/troyamiller/videos/55/ Video of their 2/19/2010 show.] ("Preschool")
+* [http://www.viddler.com/explore/troyamiller/videos/56/ Video of their 2/20/2010 show.] ("Wedding")
+* [http://www.viddler.com/explore/troyamiller/videos/48/ Video of their 3/25/2010 show.] ("Fire Station")
+* [http://www.viddler.com/explore/troyamiller/videos/49/ Video of their 4/1/2010 show.] ("Train Station")
+* [http://www.viddler.com/explore/troyamiller/videos/59/ Video of their 4/8/2010 show.] ("Movie Set")
+* [http://www.viddler.com/explore/troyamiller/videos/71/ Video of their 6/3/2010 show.] ("Bar Mitzvah")
+* [http://www.viddler.com/v/aa8c6d9d Video of their 6/24/2010 show.] ("Area 51")
+* [http://www.viddler.com/explore/troyamiller/videos/74/ Video of their 7/23/2010 show.] ("Men's Empowerment Workshop")
+* [http://www.viddler.com/explore/exquisitezombie/videos/2/ Video of their 7/24/2010 show.] ("Niagara Falls")
+* [http://www.viddler.com/explore/troyamiller/videos/83/ Video of their 2/18/2011 show.] ("Arctic Research Facility")
+* [http://www.viddler.com/explore/troyamiller/videos/82/ Video of their 2/19/2011 show.] ("Mount Olympus")
+* [http://www.viddler.com/explore/troyamiller/videos/84/ Video of their 2/24/2011 show.] ("News Room")
+* [http://www.viddler.com/explore/exquisitezombie/videos/6/ Video of their 6/4/2011 show.] ("Opryland Variations")
+* [http://www.viddler.com/explore/troyamiller/videos/90/ Video of their 9/3/2011 show.] ("Hall of Justice")
+* [http://www.viddler.com/explore/exquisitezombie/videos/19/ Video of their 10/9/2011 show.] ("Petting Zoo")
+* [http://www.viddler.com/v/2a45c665 Video of their 11/19/2011 show.] ("Clock Tower")
+* [http://www.viddler.com/v/5fa26cc Video of their 12/17/2011 show.] ("Japanese Bullet Train")
+* [http://www.viddler.com/v/a3ae49c6 Video of their 12/24/2011 show.] ("Round Table Variations")
+* [http://www.viddler.com/v/bf0dab2c Video of their 1/6/12 show.] ("Carnival Sideshow")
+* [http://www.viddler.com/v/716e0762 Video of their 1/29/12 show.] ("Mamet Goes to the Movies")
+* [http://www.viddler.com/v/b2981ce2 Video of their 3/9/12 show.] ("The Daily Planet")
 * Videos of their 3/31/12 "Mamet Goes to the Movies" performance: [http://vimeo.com/39723699 "The Cake Variations"]; [http://vimeo.com/39687688 *Star Wars*]
-* [http://vimeo.com/40901517 Their performance] in [[The 2012 Improvised Play Festival]].
-* [http://vimeo.com/69454380 Their 6/22/13 performance] in [[The 44-Hour Improv Marathon]].
-* [http://vimeo.com/74439292 Their 8/31/13 performance] in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/40901517 Video of their performance] in [[The 2012 Improvised Play Festival]].
+* [http://www.viddler.com/v/73560641 Video of their 9/28/12 show.] ("Rivendell")
+* [http://www.viddler.com/v/8310310b Video of their 9/29/12 show.] ("Sesame Street")
+* [http://www.viddler.com/v/2a1b2ab3 Video of their 2/16/13 show.] ("Jury Duty")
+* [http://vimeo.com/69454380 Video of their 6/22/13 performance] in [[The 44-Hour Improv Marathon]].
+* [http://vimeo.com/74439292 Video of their 8/31/13 performance] in [[The 2013 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/25/09 show.
