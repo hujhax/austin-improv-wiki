@@ -129,6 +129,9 @@ The run featured tech by [[Michael Yew]].
 ** [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes the show.
 * [http://vimeo.com/77576162 Video] of their 10/19/13 show with *[[Mister Morbid]]*.
 
+### Publicity
+* [http://www.viddler.com/v/ee23833e "Distress Call" video from 6/16/12.]
+
 ## More Information
 * [http://www.doctorwhotheatre.com/ The troupe's web site.]
 * [http://forum.austinimprov.com/viewtopic.php?f=4&t=11329 2010 forum thread about improvising *Doctor Who* in Austin.]
