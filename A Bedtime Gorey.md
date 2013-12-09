@@ -9,8 +9,11 @@
 
 ***A Bedtime Gorey*** is an upcoming mainstage show at [[The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
 
-## Preview Description
+## Summary
+### Preview Description
 "At a party, the adults play frivolous parlor games and quaff copious amounts of brandy.  Meanwhile in the nursery, the children have been left with their coldly efficient Governess, who tells them terrible tales to keep them in their place.  Inspired by the delightfully sinister illustrations of Edward Gorey."[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule]
+### Press Blurb
+A dozen of Austin’s finest improvisers embody that ethos as *A Bedtime Gorey* alternates between a frivolous party that’s somehow not quite right, and the nursery where the children of the partygoers are under total control of the Governess, who tells them terrible tales for their own good. Edward Gorey’s unique combination of the horrible and the mundane is brought to life in an evening of general unease and great amusement!
 
 ## Media
 ### Publicity
