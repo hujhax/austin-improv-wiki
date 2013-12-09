@@ -34,6 +34,7 @@ This is their bio from their web site:
 * [http://www.viddler.com/explore/troyamiller/videos/49/ Video of their 4/1/2010 show.] ("Train Station")
 * [http://www.viddler.com/explore/troyamiller/videos/59/ Video of their 4/8/2010 show.] ("Movie Set")
 * [http://www.viddler.com/explore/troyamiller/videos/71/ Video of their 6/3/2010 show.] ("Bar Mitzvah")
+** [http://www.viddler.com/v/2a3e01c8 Video of 'lottery scenes' from that same show.]
 * [http://www.viddler.com/v/aa8c6d9d Video of their 6/24/2010 show.] ("Area 51")
 * [http://www.viddler.com/explore/troyamiller/videos/74/ Video of their 7/23/2010 show.] ("Men's Empowerment Workshop")
 * [http://www.viddler.com/explore/exquisitezombie/videos/2/ Video of their 7/24/2010 show.] ("Niagara Falls")
