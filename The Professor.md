@@ -108,6 +108,8 @@ The run features tech by [[Michael Yew]] and guest appearances from [[Jordan T. 
 ** [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3 Photoset] by [[Michael Yew]].
 ** [http://www.viddler.com/v/d22be4a7 Video] by [[Michael Ferstenfeld]].
+* 4/2/12 performance:
+** [http://www.viddler.com/v/e328a7 Video] by [[Michael Ferstenfeld]].
 * 4/20/12 performance ("All the World's a Stage?"):
 ** [http://vimeo.com/40819538 Video] by [[Peter Rogers]].
 * 4/21/12 performance (season two finale):
