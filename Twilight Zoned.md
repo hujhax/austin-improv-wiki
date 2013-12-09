@@ -19,6 +19,11 @@ The cast worked at slowing down the plot.  They would focus less on making thing
 
 ## Media
 ### Videos
+* [http://www.viddler.com/v/fa42c316 Video of the 1/14/12 show.]
+* [http://www.viddler.com/v/f1d7501c Video of the 1/21/12 show.]
+* [http://www.viddler.com/v/d1985aab Video of the 1/28/12 show.]
+* [http://www.viddler.com/v/dd16e453 Video of the 2/4/12 show.]
+* [http://www.viddler.com/v/67cab00f Video of the 2/24/12 show.]
 * [http://vimeo.com/47840197 Video of the 8/7/12 performance], which was a one-off performance for *[[The TV Set]]*.
 * [http://vimeo.com/74718403 Video of their 8/27/13 performance,] part of [[The 2013 Out of Bounds Comedy Festival]].
 
