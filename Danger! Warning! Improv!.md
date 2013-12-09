@@ -16,6 +16,16 @@ The troupe primarily works in specific genres for each show.
 So far, their formats have been "Secret Agent Men" ([[Wikipedia - James Bond|James Bond]]), "Two to Beam Up" (*[[Wikipedia - Star Trek|classic Star Trek]]*), and "Elementary, Dear Holmes" (classic [[Wikipedia - Sherlock Holmes|Sherlock Holmes]]).
 
 ## Media
+### Videos
+* [http://www.viddler.com/v/79993bb7 Video of their 5/19/11 "Two to Beam Up" show.] ("Liberation of the Super String")
+* [http://www.viddler.com/v/32775c00 Video of their 6/30/11 "Two to Beam Up" show.] ("Pythagoras' Shame")
+* [http://www.viddler.com/v/334acba6 of their 10/6/11 "Secret Agent Men" show.] ("Never Die Nightly")
+* [http://www.viddler.com/v/3af50108 Video of their 10/26/11 "Secret Agent Men" show.] ("Dead Man's Switch")
+* [http://www.viddler.com/v/7984788c Video of their 5/10/12 "Elementary, Dear Holmes!" show.]
+* [http://www.viddler.com/v/30e782e6 Video of their 5/17/12 "Elementary, Dear Holmes!" show.]
+** [http://www.viddler.com/v/6121a73e A two-camera video of the same show.]
+* [http://www.viddler.com/v/a19b1fd3 Video of their 9/2/12 "Secret Agent Men" show.] 
+* [http://www.viddler.com/v/17509728 Video of their 9/2/12 "Elementary, Dear Holmes!" show.] 
 ### Pictures
 * [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/12/11 and 5/19/11 "Two to Beam Up" performances in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/18/11 "Secret Agent Men" performance at [[WaffleFest]].
