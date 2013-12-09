@@ -56,6 +56,9 @@ This is their bio from their web site:
 * [http://www.facebook.com/michael.yew/media_set?set=a.4771818696130.1073741835.1315383518&type=3 Photoset] by [[Michael Yew]] of their 5/18/13 show with special guest Joe Bill.
 * [http://www.facebook.com/media/set/?set=a.530515880350429.1073741857.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 
+### Other
+* [http://ferstenfeld.com/mp3s/prov/may23-confidancemen-rehearsal-tearoom.mp3 Audio of their 5/23/09 rehearsal.] ("Tea Room")
+
 ### Publicity
 * [http://www.flickr.com/photos/austinimprov/sets/72157622398615698/ Publicity photos.]
 
