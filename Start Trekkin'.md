@@ -146,6 +146,8 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Video of the 9/27/08 performance, in three parts: [http://www.facebook.com/photo.php?v=43256292752 1], [http://www.facebook.com/photo.php?v=43351022752 2], [http://www.facebook.com/photo.php?v=43700942752 3].
 * [http://youtu.be/zRWkhp3VkP8 Video of a scene from the 10/11/08 performance.]
 * Video of the 11/15/08 performance, in four parts: [http://www.facebook.com/photo.php?v=76146882755 1], [http://www.facebook.com/photo.php?v=76163692755 2], [http://www.facebook.com/photo.php?v=76179897755 3], [http://www.facebook.com/photo.php?v=76192262755 4].
+* [http://www.viddler.com/v/e51091cf Video of the 1/14/12 show.]
+* [http://www.viddler.com/v/cd274c34 Video of the 1/21/12 show.]
 * [http://vimeo.com/76770049 Video of their 6/21/13 show] in [[The 44-Hour Improv Marathon]].
 
 ### Photos
