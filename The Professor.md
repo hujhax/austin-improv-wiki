@@ -79,8 +79,11 @@ The run features tech by [[Michael Yew]] and guest appearances from [[Jordan T. 
 * [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/23/11 performance in *[[The Threefer]]*.
 
 ### Season One
-* 10/14/11 performance:
+* 10/7/11 performance (1x01: "Caddywhompus"):
+** [http://www.viddler.com/v/904c9778 Video] by [[Michael Ferstenfeld]].
+* 10/14/11 performance (1x02: "The Charm of Rune"):
 ** [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.viddler.com/v/cc8889b1 Video] by [[Michael Ferstenfeld]].
 ** [http://www.viddler.com/v/d82d5bf6 Video of the regeneration scene] by [[Michael Ferstenfeld]].
 * 10/21/11 performance (1x03: "The Price of Periwinkles"):
 ** [http://www.facebook.com/media/set/?set=a.211122242289796.50272.118587218209966&type=3 Photoset] by [[Roy Moore]].
@@ -91,10 +94,14 @@ The run features tech by [[Michael Yew]] and guest appearances from [[Jordan T. 
 * 11/4/11 performance (1x05: "The Shapes We Draw"):
 ** [http://www.facebook.com/media/set/?set=a.216700898398597.51775.118587218209966&type=3 Photoset] by [[Roy Moore]].
 ** [http://www.viddler.com/v/6eeff981 Video] by [[Michael Ferstenfeld]].
-* 11/11/11 performance:
+* 11/11/11 performance (1x06: "Dinner for One"):
 ** [http://www.facebook.com/media/set/?set=a.220876431314377.52600.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* 11/18/11 performance:
+** [http://www.viddler.com/v/958d0f05 Video] by [[Michael Ferstenfeld]].
+* 11/18/11 performance (1x07: "The Animal Within"):
 ** [http://www.facebook.com/media/set/?set=a.229603903774963.53941.118587218209966&type=3 Photoset] by [[Roy Moore]].
+** [http://www.viddler.com/v/c39200bc Video] by [[Michael Ferstenfeld]].
+* 12/17/11 performance (Christmas Special: "We Three Improvisors"):
+** [http://www.viddler.com/v/3a572642 Video] by [[Michael Ferstenfeld]].
 
 ### Season Two
 * 3/30/12 performance ("My Way"):
