@@ -22,6 +22,18 @@ The show included several guest performers who weren't part of the main cast:
 * [[Lauren Buck]]
 
 ## Media
+### Videos
+* [http://www.viddler.com/v/e9ab9cb3 Video of the 3/6/10 show.] ("Olympics/Barber")
+* [http://www.viddler.com/v/473de9ca Video of the 3/13/10 show.] ("Bus Station")
+* [http://www.viddler.com/v/71e710ca Video of the 3/26/10 show.] ("Wake")
+* [http://www.viddler.com/v/45f19249 Video of the 3/27/10 show.] ("Hospital")
+* [http://www.viddler.com/v/45738600 Video of the 4/3/10 show.] ("Airport")
+* Video of the 4/9/10 show ("Marina"): [http://www.viddler.com/v/54246de9 part 1], [http://www.viddler.com/v/bceaf31a
+ part 2].
+* [http://www.viddler.com/v/766ff398 Video of the 4/17/10 show.] ("Baseball Stadium")
+ * Video of the 4/24/10 show ("Presidential Parade"): [http://www.viddler.com/v/360d25cd part 1], [http://www.viddler.com/v/b2aa0851
+ part 2].
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 3/26/10 performance.
 * [http://www.facebook.com/media/set/?set=a.1215742685595.2027304.1589679282&type=1 Photoset] by [[Roy Moore]] of the 3/27/10 performance.
