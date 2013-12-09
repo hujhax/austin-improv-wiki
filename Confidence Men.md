@@ -105,7 +105,6 @@ This is their bio from their web site:
 
 ### Publicity
 * [http://www.flickr.com/photos/austinimprov/sets/72157622398615698/ Publicity photos.]
-* [http://www.viddler.com/v/ee23833e "Distress Call" video from 6/16/12.]
 
 ## More Information
 * [http://confidencemenimprov.com/ Official Website]
