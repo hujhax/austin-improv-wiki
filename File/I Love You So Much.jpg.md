@@ -1,6 +1,9 @@
 ## Summary
-Audition image for *[[I Love You So Much]]*.
+Publicity poster for *[[I Love You So Much]]*.
 
 Art by [[Kaci Beeler]].
+
+Photos by [[Jon Bolden]].
+
 ## Licensing
 {{AIC-Wiki-only license}}
