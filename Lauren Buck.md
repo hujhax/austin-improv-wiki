@@ -18,7 +18,7 @@ Lauren was a company member of [[Gnap! Theater Projects]].
 
 ## Shows
 * *[[Dusk]]*
-* *[[Hitchcocked]]*
+* *[[Hitchcocked!]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Start Trekkin']]*
 * *[[Theatresports]]*
