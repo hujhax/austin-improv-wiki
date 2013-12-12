@@ -14,6 +14,7 @@ The troupe debuted at [[The Spectacle]] on 11/27/10.
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/6/11 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/23/11 performance at [[The Hideout Theatre]].
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.165388706875494.43739.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their performance in [[The 2011 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.588812357848951.1073741915.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/28/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
