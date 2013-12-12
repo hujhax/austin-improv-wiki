@@ -15,6 +15,7 @@ The troupe was founded in the fall of 2010 by all the original cast and disbande
 * [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/11/11 performance at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1544315339706.2067468.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 2/25/11 show at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 3/10/11 show at *[[The Threefer]]*.
+* [http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1 Photoset] by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Dukes of Bedside Manor]]
 [[Category/Played Their Last Show at Out of Bounds|Dukes of Bedside Manor]]
