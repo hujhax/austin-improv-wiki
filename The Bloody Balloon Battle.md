@@ -9,6 +9,8 @@ In preparation for the event, [[Jason Vines]] and friends filled a large quantit
 The Balloon Battle started in 2011, when [[Jason Vines]] found himself with a large superfluous quantity of fake blood from a video project.  He decided to use them for a giant balloon fight.  The event went over so well that he brought it back, on an even larger scale, in 2012.
 
 ## Media
+* [http://www.facebook.com/media/set/?set=a.237426606320863.62326.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 2011 Battle.
+** [http://www.facebook.com/media/set/?set=a.219408021461218.52329.118587218209966&type=3 Another photoset] by [[Roy Moore]] of the event.
 * [http://www.facebook.com/media/set/?set=a.441066759290179.107646.221927764537414&type=3 A photoset] by [[Steve Rogers]] of 'before' and 'after' photos from the 2012 Battle.
 * [http://www.facebook.com/media/set/?set=a.441083802621808.107651.221927764537414&type=3 A photoset] by [[Steve Rogers]] from the 2012 Battle itself.
 * [http://youtu.be/gJfJXwz-LuE A video of the 2012 event] from Ivan Walker.
