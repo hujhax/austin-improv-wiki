@@ -13,6 +13,7 @@
 ** [http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3 Photoset] by [[Roy Moore]] that includes the same show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1341213702292.2040957.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/26/10 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/18/11 performance in *[[The Threefer]]*.
+** [http://www.facebook.com/SteveRogers1212/media_set?set=a.159798017434563.42528.100002130980897&type=3 Another photoset] by [[Steve Rogers]] that includes the same performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/25/11 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 11/15/09 performance at [[Hyde Park Theater]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/28/12 performance at [[The Institution Theater]].
