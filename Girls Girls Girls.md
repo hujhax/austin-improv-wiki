@@ -112,6 +112,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/6/11 performance in [[The Ladies Are Funny Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/4/11 show in [[The 42-Hour Improv Marathon]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 6/4/11 show at *[[The Saturday Night Special]]*.
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.140277072719991.38310.100002130980897&type=3 Photoset] by [[Steve Rogers]] of their 7/2/11 show at *[[The Saturday Night Special]]*. ("Graceland")
 * [http://www.facebook.com/media/set/?set=a.257845284278995.65486.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 12/3/11 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150661813077265.450334.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/1/12 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150665278392265.450841.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/4/12 performance in *[[The Saturday Night Special]]*.
