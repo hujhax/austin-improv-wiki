@@ -23,6 +23,7 @@ Two "supernatural" characters were pre-selected prior to each show, one angelic,
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.194157847319569.45926.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 9/10/11 show at *[[The Saturday Night Special]]*.
 ** [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes that performance.
+** [http://www.facebook.com/SteveRogers1212/media_set?set=a.172726816141683.45782.100002130980897&type=3 Yet another photoset] by [[Steve Rogers]] of that same show.
 * [http://www.facebook.com/media/set/?set=a.212738282128192.50688.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 10/22/11 show at *[[The Saturday Night Special]]*.
 ** [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes that performance.
 * [http://www.facebook.com/media/set/?set=a.221915231210497.52761.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/12/11 show at *[[The Saturday Night Special]]*.
