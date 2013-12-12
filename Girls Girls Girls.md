@@ -97,6 +97,8 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Sara Farr]]
 
 ## Media
+(Note that there are additional Girls Girls Girls videos in the [[Boys of Summer#Media|*Boys of Summer* media section]].)
+
 ### Videos
 * [http://vimeo.com/43331034 Video of their 6/1/12 show] for [[The 43-Hour Improv Marathon]].
 * [http://vimeo.com/43532723 Video of their 6/2/12 show.]
