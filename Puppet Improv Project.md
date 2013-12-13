@@ -8,9 +8,10 @@ The Puppet Improv Project does one-off shows for productions like [[The Hideout 
 * *[[PIP on TV]]* (Mar 2011)
 * *[[Puppet Fever]]* (Jun 2011)
 * *[[Puppet Katamari]]* (Sep/Oct 2011)
-* *[[Elf Employment]]* (Dec 2011)
+* *[[Elf Employment]]* (Dec 2011, Dec 2013)
 * *[[Off the Reef]]* (Sep/Oct 2012)
 * *[[Trash]]* (Jul 2013)
+* *[[Fae]]* (Winter 2014)
 
 ## Media
 ### Videos
