@@ -5,7 +5,7 @@
 |Director =	[[Tyler Bryce]]
 |Cast	=	Various
 |Run	=	Oct 2012-Jan 2013
-|Subsequent Runs= {{Unbulleted list | Feb-Jun 2013 | Nov 2013-Jan 2014 }}
+|Subsequent Runs= {{Unbulleted list | Feb-Jun 2013 | Oct 2013-Jan 2014 }}
 }}
 ***Thinning the Herd*** is an improv show based around a (real-life) team-based weight-loss competition.
 
@@ -37,7 +37,7 @@ Season two ran from 2/10/13 to June of 2013.
 * person
 
 #### Season 3
-Season one is running from November 2013 to January 2014.
+Season one is running from 10/6/13 to January 2014.
 
 * person
 * person
@@ -57,7 +57,7 @@ Season one is running from November 2013 to January 2014.
 * [http://www.facebook.com/media/set/?set=a.538299602900227.1073741870.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/21/13 show.
 * [http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/19/13 show.
 * [http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/19/13 show.
-* [http://www.facebook.com/media/set/?set=a.608715279191992.1073741941.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/6/12 season-three premiere.
+* [http://www.facebook.com/media/set/?set=a.608715279191992.1073741941.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/6/13 season-three premiere.
 
 ## More Information
 * [http://www.facebook.com/thintheherd The show's facebook page.]
