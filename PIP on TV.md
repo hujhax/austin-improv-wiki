@@ -16,4 +16,5 @@ This show had games and scenes performed using standard televised-puppetry techn
 This show headlined *[[The Threefer]]* in March 2011.
 
 ## More Information
+* [http://forum.austinimprov.com/viewtopic.php?t=11652 The show announcement] on [[The Austin Improv Forums]].
 * [http://puppetimprovproject.org/pip-on-tv.html The show's web page.]
