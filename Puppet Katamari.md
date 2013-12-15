@@ -14,8 +14,8 @@ The show included pre-filmed shorts, improv games, and a narrative set in an und
 
 ## Media
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.173388176075547.46005.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 9/23/11 performance.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.173668319380866.46089.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 9/24/11 performance.
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.173388176075547.46005.100002130980897&type=3 Photoset] by [[Steve Rogers]] of an unknown performance.
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.173668319380866.46089.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 9/23/11 performance.
 * [http://www.facebook.com/SteveRogers1212/media_set?set=a.178583978889300.47624.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 10/2/11 performance.
 
 ### Publicity
