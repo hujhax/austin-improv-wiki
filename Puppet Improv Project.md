@@ -17,16 +17,8 @@ The Puppet Improv Project does one-off shows for productions like [[The Hideout 
 ### Videos
 * [http://vimeo.com/73323916 Video of their 6/23/13 show] that was part of [[The 44-Hour Improv Marathon]].
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 3/10/11 show at *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/6/10 performance at [[The 41-Hour Improv Marathon]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/24/11 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150198554097265.346705.588952264&type=3 Photoset] by [[Peter Rogers]] of their 3/31/11 *[[PIP on TV]]* show at *[[The Threefer]]*.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150257317112265.368948.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/5/11 *[[Puppet Fever]]* rehearsal.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150263784492265.370554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/14/11 *[[Puppet Fever]]* rehearsal.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150282246257265.375406.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/28/11 *[[Puppet Fever]]* rehearsal.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 6/4/11 show at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1714827082393.2081748.1589679282&type=3 Photoset] by [[Roy Moore]] of their 6/5/11 performance in [[The 42-Hour Improv Marathon]].
-* [http://www.facebook.com/roy.moore/media_set?set=a.1724667128388.2082226.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 6/11/11 show at *[[The Saturday Night Special]]*.
 
 ## More Information
 * [http://puppetimprovproject.org/ The organization's web site.]
