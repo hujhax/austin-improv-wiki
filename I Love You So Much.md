@@ -4,7 +4,7 @@
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Jessica Arjet]], [[Roy Janik]]
 |Run=							Jan/Feb 2014
-|Crew =	[[Dean Palm]]
+|Tech =	[[Dean Palm]]
 |Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Andreas Fabis]] | [[Andrew Buck]] | [[Bridget Brewer]] | [[Jen Kaplan]] | [[Jordan T. Maxwell]] | [[Karen Jane DeWitt]] | [[Katie Dahm]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Ryan Austin]] | [[Ryan Hill]] | [[Sam Schak]] }}
 }}
 
