@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Off the Reef	
-|Picture=	Off the Reef.jpg
+|Picture=	Off the Reef.png
 |Theater=	[[The Dougherty Arts Center]]
 |Producer=	[[Puppet Improv Project]]
 |Director =	[[Dave Buckman]]
