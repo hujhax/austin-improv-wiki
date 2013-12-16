@@ -14,6 +14,8 @@ The Puppet Improv Project does one-off shows for productions like [[The Hideout 
 * *[[Fae]]* (Winter 2014)
 
 ## Media
+{Note: Media for specific PIP shows can be found on the pages for those shows.}
+
 ### Videos
 * [http://vimeo.com/73323916 Video of their 6/23/13 show] that was part of [[The 44-Hour Improv Marathon]].
 ### Photos
