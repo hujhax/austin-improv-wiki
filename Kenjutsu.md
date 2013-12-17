@@ -4,7 +4,7 @@
 |Theater =		[[The Hideout Theatre]]
 |Director =		{{Unbulleted list | [[Kareem Badr]] | [[Shannon McCormick]] }}
 |Run=							Mar/Apr 2014
-|Cast	=		{{Unbulleted list | [[Audrey Sansom]] | [[Brad Hawkins]] | [[Cat Drago]] | [[Jayme Ramsay]] | [[Jeff Britt]] | [[Jordan Maxwell]] | [[Justin Davis]] | [[Lacy Shawn]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Quinn Buckner]] | [[Ruby Willmann]] | [[Shannon McCormick]] }}
+|Cast	=		{{Unbulleted list | [[Audrey Sansom]] | [[Brad Hawkins]] | [[Cat Drago]] | [[Jayme Ramsay]] | [[Jeff Britt]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Lacy Shawn]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Quinn Buckner]] | [[Ruby Willmann]] | [[Shannon McCormick]] }}
 }}
 
 ***Kurosawa*** is the working title of an upcoming mainstage show at [[The Hideout Theatre]] that will be inspired by the samurai films of Akira Kurosawa
