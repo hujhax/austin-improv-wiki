@@ -4,7 +4,7 @@
   |Theater  = [[The Hideout Theatre]]
   |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Luke Wallens]] | [[Kristin Henn]] | [[Madeline Jo Chauvin]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] }}
   |Picture  = Flying_Theater_Machine.jpg
-  |Run    = 2007-Present
+  |Run    = Oct 2007-Present
 }}
 
 **Flying Theater Machine** is the Hideout's weekly improv show for kids.
@@ -73,6 +73,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ## More Information
 *[http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
+* [http://forum.austinimprov.com/viewtopic.php?f=13&t=4936 A thread for naming the show] from [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
