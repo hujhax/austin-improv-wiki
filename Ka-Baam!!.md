@@ -131,9 +131,13 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * 10/24/09: Joel Watson
 
 ## Media
+### Videos
+* [http://www.youtube.com/watch?v=NWNM1jVvQGA Video of show intro].
+### Photos
 * [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset that includes both runs.]
 * [http://www.flickr.com/photos/majcher/tags/kabaam/ Photos of the 2009 run] from [[Marc Majcher]].
-* [http://www.youtube.com/watch?v=NWNM1jVvQGA Video of show intro].
+### Other
+* Set photos from [[Kaci Beeler]]: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2459454053_0a1baac74c/2459454053_0a1baac74c.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2534889035_76644d6259/2534889035_76644d6259.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2461681911_601d6d39d1/2461681911_601d6d39d1.jpg?disposition=download 3].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=6771 Announcement of the opening of the first run] on [[The AIC Forums]].
