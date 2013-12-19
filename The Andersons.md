@@ -43,6 +43,9 @@ About half the cast of *The Andersons* played the same, pre-established characte
 ### Publicity
 * [http://youtu.be/3GjaTWZi6Kg A video promo for the show.]
 
+### Other
+* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203/photo%203.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo/photo.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204/photo%204.jpg?disposition=download 3].
+
 ## More Information
 * [http://hideouttheater.com/shows/theandersons The show's web page.]
 
