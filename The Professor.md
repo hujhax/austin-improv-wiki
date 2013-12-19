@@ -74,60 +74,39 @@ Season three rann on Saturdays at [[The Institution Theater]] in November 2013.
 The run featured tech by [[Michael Yew]].
 
 ## Media
-### Season Zero
-* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/23/11 performance in *[[The Threefer]]*.
-
-### Season One
-* 10/7/11 performance (1x01: "Caddywhompus"):
-** [http://www.viddler.com/v/904c9778 Video] by [[Michael Ferstenfeld]].
-* 10/14/11 performance (1x02: "The Charm of Rune"):
-** [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.viddler.com/v/cc8889b1 Video] by [[Michael Ferstenfeld]].
+### Videos
+* [http://www.viddler.com/v/904c9778 Video] by [[Michael Ferstenfeld]] of their 10/7/11 performance (1x01: "Caddywhompus").
+* [http://www.viddler.com/v/cc8889b1 Video] by [[Michael Ferstenfeld]] of their 10/14/11 performance (1x02: "The Charm of Rune").
 ** [http://www.viddler.com/v/d82d5bf6 Video of the regeneration scene] by [[Michael Ferstenfeld]].
-* 10/21/11 performance (1x03: "The Price of Periwinkles"):
-** [http://www.facebook.com/media/set/?set=a.211122242289796.50272.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 10/21/11 show.
-** [http://www.viddler.com/v/44c548e3 Video] by [[Michael Ferstenfeld]].
-* 10/28/11 performance (1x04: "Are We Off-World Yet?"):
-** [http://www.viddler.com/v/66a1d12f Video] by [[Michael Ferstenfeld]].
-* 11/4/11 performance (1x05: "The Shapes We Draw"):
-** [http://www.facebook.com/media/set/?set=a.216700898398597.51775.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.viddler.com/v/6eeff981 Video] by [[Michael Ferstenfeld]].
-* 11/11/11 performance (1x06: "Dinner for One"):
-** [http://www.facebook.com/media/set/?set=a.220876431314377.52600.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.viddler.com/v/958d0f05 Video] by [[Michael Ferstenfeld]].
-* 11/18/11 performance (1x07: "The Animal Within"):
-** [http://www.facebook.com/media/set/?set=a.229603903774963.53941.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.viddler.com/v/c39200bc Video] by [[Michael Ferstenfeld]].
-* 12/17/11 performance (Christmas Special: "We Three Improvisors"):
-** [http://www.viddler.com/v/3a572642 Video] by [[Michael Ferstenfeld]].
-
-### Season Two
-* 3/30/12 performance ("My Way"):
-** [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3 Photoset] by [[Michael Yew]].
-** [http://www.viddler.com/v/d22be4a7 Video] by [[Michael Ferstenfeld]].
-* 4/2/12 performance:
-** [http://www.viddler.com/v/e328a7 Video] by [[Michael Ferstenfeld]].
-* 4/20/12 performance ("All the World's a Stage?"):
-** [http://vimeo.com/40819538 Video] by [[Peter Rogers]].
-* 4/21/12 performance (season two finale):
-** [http://www.youtube.com/watch?v=_hoIsN3l7sc Video] by [[Michael Ferstenfeld]].
-* 8/29/12 performance at [[The Institution]]:
-** [http://vimeo.com/48524413 Video] by [[Peter Rogers]].
-* 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea"):
-** [http://www.youtube.com/watch?v=gZuQFuFSpB8 Video] by [[Michael Ferstenfeld]].
-** [http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3 Casual photos] by [[Peter Rogers]].
-
-### Season 2½ (One-Offs)
-* 1/18/13 performance at [[The TV Set]].
-** [http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1 Photoset] by [[Michael Yew]].
-* 1/25/13 performance at [[The Institution Theater]]:
-** [http://vimeo.com/62584250 Video] by [[Michael Ferstenfeld]].
-* 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]]:
-** Videos: [http://vimeo.com/73437075 story #1], [http://vimeo.com/73480143 story #2]
-** [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes the show.
+* [http://www.viddler.com/v/44c548e3 Video] by [[Michael Ferstenfeld]] of their 10/21/11 performance (1x03: "The Price of Periwinkles").
+* [http://www.viddler.com/v/66a1d12f Video] by [[Michael Ferstenfeld]] of the 10/28/11 performance (1x04: "Are We Off-World Yet?").
+* [http://www.viddler.com/v/6eeff981 Video] by [[Michael Ferstenfeld]] of the 11/4/11 performance (1x05: "The Shapes We Draw").
+* [http://www.viddler.com/v/958d0f05 Video] by [[Michael Ferstenfeld]] of the 11/11/11 performance (1x06: "Dinner for One").
+* [http://www.viddler.com/v/c39200bc Video] by [[Michael Ferstenfeld]] of the 11/18/11 performance (1x07: "The Animal Within").
+* [http://www.viddler.com/v/3a572642 Video] by [[Michael Ferstenfeld]] of the 12/17/11 performance (Christmas Special: "We Three Improvisors").
+* [http://www.viddler.com/v/d22be4a7 Video] by [[Michael Ferstenfeld]] of the 3/30/12 performance ("My Way").
+* [http://www.viddler.com/v/e328a7 Video] by [[Michael Ferstenfeld]] of the 4/2/12 performance ("Chesapeekaboo!").
+* [http://vimeo.com/40819538 Video] by [[Peter Rogers]] of the 4/20/12 performance ("All the World's a Stage?").
+* [http://www.youtube.com/watch?v=_hoIsN3l7sc Video] by [[Michael Ferstenfeld]] of the 4/21/12 performance (season two finale).
+* [http://vimeo.com/48524413 Video] by [[Peter Rogers]] of the 8/29/12 performance at [[The Institution]].
+* [http://www.youtube.com/watch?v=gZuQFuFSpB8 Video] by [[Michael Ferstenfeld]] of the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
+* [http://vimeo.com/62584250 Video] by [[Michael Ferstenfeld]] of the 1/25/13 performance at [[The Institution Theater]].
+* Videos of the 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]]: [http://vimeo.com/73437075 story #1], [http://vimeo.com/73480143 story #2]
 * [http://vimeo.com/77576162 Video] of their 10/19/13 show with *[[Mister Morbid]]*.
+
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/23/11 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 10/14/11 performance (1x02: "The Charm of Rune").
+* [http://www.facebook.com/media/set/?set=a.211122242289796.50272.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 10/21/11 performance (1x03: "The Price of Periwinkles").
+** [http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the performance.
+* [http://www.facebook.com/media/set/?set=a.216700898398597.51775.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 11/4/11 performance (1x05: "The Shapes We Draw").
+* [http://www.facebook.com/media/set/?set=a.220876431314377.52600.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 11/11/11 performance (1x06: "Dinner for One").
+* [http://www.facebook.com/media/set/?set=a.229603903774963.53941.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 11/18/11 performance (1x07: "The Animal Within").
+* [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 3/30/12 performance ("My Way").
+** [http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3 Photoset] by [[Michael Yew]] of the same show.
+* [http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3 Casual photos] by [[Peter Rogers]] from the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
+* [http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1 Photoset] by [[Michael Yew]] of the 1/18/13 performance at [[The TV Set]].
+* [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes the 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ### Publicity
 * [http://www.viddler.com/v/ee23833e "Distress Call" video from 6/16/12.]
