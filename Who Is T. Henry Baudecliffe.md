@@ -39,6 +39,9 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 ** [http://vimeo.com/12930561 Interview with Ben Hill.]
 ** [http://youtu.be/vVx5ahTbt9U Interview with Dano Johnson.]
 ** [http://youtu.be/Y-IlVZjYZ6Y Interview with Tracy Lands.]
+### Other
+* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_1/photo%204_1.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205/photo%205.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baude1/baude1.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_1/photo%203_1.jpg?disposition=download 4].
+** Artwork from [[Kaci Beeler]] that helped inspire the design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo12/baudecliffe_photo12.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo11/baudecliffe_photo11.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202/photo%202.jpg?disposition=download 3].
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/whoist-henrybaudecliffe The show's web page.]
