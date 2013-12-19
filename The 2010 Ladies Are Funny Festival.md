@@ -39,8 +39,7 @@ The festival ran from 5/5/10 to 5/8/10 at [[Salvage Vanguard Theater]].
 
 ## Media
 ### Other
-* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set9/LAFF_set9.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set15/LAFF_set15.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set16/LAFF_set16.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set13/LAFF_set13.jpg?disposition=download 4], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set12/LAFF_set12.jpg?disposition=download 5],
-[http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set14/LAFF_set14.jpg?disposition=download 6].
+* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set9/LAFF_set9.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set15/LAFF_set15.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set16/LAFF_set16.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set13/LAFF_set13.jpg?disposition=download 4], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set12/LAFF_set12.jpg?disposition=download 5],[http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/LAFF_set14/LAFF_set14.jpg?disposition=download 6].
 
 ## More Information
 * [http://www.austinchronicle.com/arts/2010-04-30/1022147/ An article about the festival] by [[Wayne Allen Brenner]] in *The Austin Chronicle*.
