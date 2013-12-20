@@ -23,6 +23,7 @@ Lisa appeared in [[The 42-Hour Improv Marathon]], and [[The 44-Hour Improv Marat
 * *[[Crack!]]*
 * *[[Hitchcocked!]]*
 * *[[Manhattan Stories]]*
+* *[[Racket]]*
 
 [[Category/Performers|Jackson]]
 [[Category/Teachers|Jackson]]
