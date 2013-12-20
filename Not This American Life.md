@@ -2,7 +2,7 @@
 |Name	=	Not This American Life	
 |Picture=	Not This American Life.jpg
 |Theater=	[[The Institution Theater]]
-|Director = {{Unbulleted list | [[Asaf Ronen]] | [[Michael Ferstenfeld]] }}
+|Director = {{Unbulleted list | [[Michael Ferstenfeld]] | [[Asaf Ronen]] }}
 |Cast	=	Unknown
 |Run	=	May/Jun 2012
 |Subsequent Runs = {{Unbulleted list | Nov/Dec 2012 | Nov 2013 }}
