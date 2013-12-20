@@ -66,6 +66,9 @@ For the remaining shows, they just let the title and table-read dictate the genr
 * [http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1 Photoset] by [[Anna Lattka]] of the 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
 ** Note that this photoset is locked to Anna's friends.
 
+### Other
+* Photos of [[Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set/process-set.jpg?disposition=download ], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set-actors/process-set-actors.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/kaci-kareem-sword-fight/kaci-kareem-sword-fight.jpg?disposition=download 3].
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/process The show's web page.]
 * [http://forum.austinimprov.com/viewtopic.php?p=114894 The audition notice] for the mainstage run on [[The AIC Forums]].
