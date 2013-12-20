@@ -40,6 +40,7 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * *[[Maestro]]*
 * *[[Process]]*
 * *[[Puppet Katamari]]* (composer)
+* *[[Racket]]* (performer)
 * *[[Revlis]]*
 * *[[Rock]]* (co-director)
 * *[[Same Year's Eve]]*
