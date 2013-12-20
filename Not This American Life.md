@@ -26,13 +26,14 @@ The show was originally called *This American Live*, but in 2013, it received a 
 ### Topics
 #### First Run
 * 5/4/12 - Episode 1 - "A Map of the World" (produced by [[Gene Joe]])
-* 5/11/12 - Episode 2 - "Co-existence" (produced by [[Ruby Wilmann]] & [[Lisa Jackson]])
+* 5/11/12 - Episode 2 - "Co-existence" (produced by [[Ruby Willmann]] & [[Lisa Jackson]])
 * 5/18/12 - Episode 3 - "Physics as a Metaphor" (produced by [[Luis Salinas]])
-* 5/25/12 - Episode 4 - "Cinematic Reality" (produced by [[Heidi Noelle]])
+* 5/25/12 - Episode 4 - "Cinematic Reality" (produced by [[Heidi Rogers]])
 * 6/1/12 - Episode 5 - "What a Coincidence" (produced by [[Teresa York]])
 * 6/2/12 - Episode 6 - "Haunted." (produced by [[Kevin Miller]])
 * 6/8/12 - Episode 7 - "Food Glorious Food" (produced by [[Andy Buck]])
 * 6/9/12 - Episode 8 - "Beginnings and Endings" Producer [[Emma Holder]])
+
 #### Second Run
 * 11/2/12 - Episode 9 - "Body Image & Body Commerce"
 * 11/9/12 - Episode 10 - "TechnEcology"
