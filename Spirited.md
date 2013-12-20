@@ -59,5 +59,9 @@ After about an hour of these explorations, there would be a transition back to t
 ** [http://vimeo.com/40844685 Video of the show.]
 * Performance from the 2012 [[Out of Bounds Comedy Festival]]:
 ** [http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+
+### Other
+* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_3/photo%201_3.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_4/photo%202_4.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/spirited_set/spirited_set.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205_1/photo%205_1.jpg?disposition=download 4], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_3/photo%204_3.jpg?disposition=download 5].
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
