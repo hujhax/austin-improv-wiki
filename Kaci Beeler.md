@@ -65,5 +65,8 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 * *[[Whirled News Tonight]]*
 * *[[Who Is T. Henry Baudecliffe]]* (Performed and Directed)
 
+## Media
+* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design.html#grid A photo album of Kaci Beeler's set designs.]
+
 [[Category/Performers|Beeler]]
 [[Category/Directors|Beeler]]
