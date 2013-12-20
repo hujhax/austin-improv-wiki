@@ -15,6 +15,7 @@ Chelley Pyatt is an improv performer who works primarily with [[The Institution 
 * *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]* (assistant director/co-musical director/groupie 1)
 * *[[Live TV Tuesdays -  Firefly]]* (vocal coach)
 * *[[Only Three Will Survive]]* (tech)
+* *[[Racket]]*
 * *[[Thinning the Herd]]*
 
 [[Category/Performers|Pyatt]]
