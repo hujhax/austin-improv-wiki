@@ -96,6 +96,9 @@
 * [http://vimeo.com/73240411 Video of the closing night (7/20/13) of *Much Ado About Nothing*.]
 * Videos of the 8/17/13 show: [http://vimeo.com/72755432 short-form half]; [http://vimeo.com/72755433 narrative half].
 
+### Other
+* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/shakespeare-set/shakespeare-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
+
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14898 The audition- and casting-announcement thread.]
 * [http://www.facebook.com/hideouttheatre/posts/10151433012633510 The facebook casting announcement for the show.]
