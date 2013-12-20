@@ -118,7 +118,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [http://vimeo.com/67706793 Video of the Grey Bishop in "The Exchange Variation".]
 ** [http://www.facebook.com/michael.yew/media_set?set=a.4838455402006.1073741836.1315383518&type=3 Casual photos] by [[Michael Yew]].
 
-## Other
+### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/strange-worlds-set/strange-worlds-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
 
 ## More Information
