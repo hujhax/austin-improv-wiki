@@ -18,6 +18,10 @@
 * 12/11/10: *[[Who Is T. Henry Baudecliffe]]*
 * 12/18/10: *[[The Andersons]]*
 
+## Media
+### Other
+* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/snowflakesset/snowflakesset.jpg?disposition=download Photo] of [[Kaci Beeler]]'s holiday set design for the run.
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/thehideoutholidaysuperspecial The show's web page.]
 
