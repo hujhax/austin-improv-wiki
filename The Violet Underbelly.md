@@ -40,6 +40,9 @@ After its main run, the show was performed once at [[The 2011 Improvised Play Fe
 * [http://www.facebook.com/media/set/?set=a.203882802970620.62905.203880682970832&type=3 Publicity photos] by [[Jon Bolden]].
 * [http://vimeo.com/22258453 Trailer] by [[Deano Jones]].
 
+### Other
+* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_3/photo%202_3.jpg?disposition=download 1],[http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/violet_underbelly/violet_underbelly.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_3/photo%203_3.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_2/photo%201_2.jpg?disposition=download 4].
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/thevioletunderbelly The show's facebook site.]
 
