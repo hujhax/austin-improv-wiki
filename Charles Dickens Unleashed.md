@@ -106,6 +106,7 @@ On 11/17/11, cast members [[Curtis Luciani]], [[Kaci Beeler]], and [[Peter Roger
 * 12/21/12 performance: [http://www.facebook.com/media/set/?set=a.462857947111060.112251.221927764537414&type=3 photoset] by [[Steve Rogers]].
 ### Other
 * Photos of [[Kaci Beeler]]'s 2009 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%285%29/photo%285%29.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%284%29/photo%284%29.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%286%29/photo%286%29.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/Dickens_24/Dickens_24.jpg?disposition=download 4], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%287%29/photo%287%29.jpg?disposition=download 5], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/Dickens_10/Dickens_10.jpg?disposition=download 6].
+* Photos of [[Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/dickens-set-pgraph/dickens-set-pgraph.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/dickens_set_actors/dickens_set_actors.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo-57/photo-57.jpg?disposition=download 3].
 
 ## More Information
 * The show's web page.
