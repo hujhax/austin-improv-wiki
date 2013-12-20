@@ -53,6 +53,9 @@ Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25
 ### Publicity
 * [http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3 Promo photo shoot] by [[Jon Bolden]].
 
+### Other
+* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/bsc-cheer-number/bsc-cheer-number.jpg?disposition=download] of [[Kaci Beeler]]'s set design.
+
 ## More Information
 * [http://www.austincheershow.com/Austin_Cheer_Show/Welcome.html The show's web site.]
 * [http://www.kickstarter.com/projects/kacibeeler/it-takes-blood-sweat-and-cheers-to-make-theater The show's kickstarter.]
