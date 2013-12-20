@@ -125,6 +125,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 
 ### Other
 * Photos of [[Kaci Beeler]]'s set design for the 2011 run: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_2/photo%203_2.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_1/photo%202_1.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_2/photo%204_2.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201/photo%201.jpg?disposition=download 4].
+* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/austin-secrets-set-2012/austin-secrets-set-2012.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design for the 2012 run.
 
 ## Notes
 <references/>
