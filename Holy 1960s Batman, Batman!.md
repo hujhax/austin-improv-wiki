@@ -57,5 +57,8 @@ On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective ro
 * [http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/2/11 performance in [[The 2011 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3 Photoset] posted by [[Deano Jones]] of their Black Box Festival performance in Atlanta
 
+### Other
+* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_1/photo%201_1.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/batman_and_robin/batman_and_robin.jpg?disposition=download 2].
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
