@@ -24,31 +24,31 @@ The show was originally called *This American Live*, but in 2013, it received a 
 ** ???
 
 ### Topics
-* First run:
-** 5/4/12 - Episode 1 - "A Map of the World" (produced by [[Gene Joe]])
-** 5/11/12 - Episode 2 - "Co-existence" (produced by [[Ruby Wilmann]] & [[Lisa Jackson]])
-** 5/18/12 - Episode 3 - "Physics as a Metaphor" (produced by [[Luis Salinas]])
-** 5/25/12 - Episode 4 - "Cinematic Reality" (produced by [[Heidi Noelle]])
-** 6/1/12 - Episode 5 - "What a Coincidence" (produced by [[Teresa York]])
-** 6/2/12 - Episode 6 - "Haunted." (produced by [[Kevin Miller]])
-** 6/8/12 - Episode 7 - "Food Glorious Food" (produced by [[Andy Buck]])
-** 6/9/12 - Episode 8 - "Beginnings and Endings" Producer [[Emma Holder]])
-* Second run:
-** 11/2/12 - Episode 9 - "Body Image & Body Commerce"
-** 11/9/12 - Episode 10 - "TechnEcology"
-** 11/16/12 - Episode 11 - "Secret Identity"
-** 11/23/12 - Episode 12 - "Sense(Less)"
-** 11/30/12 - Episode 13 -  "The Line in the Sand"
-** 12/7/12 - Episode 14 - "Life of Privelege"
-** 12/14/12 - Episode 15 -  "My Strange Habit"
-** 12/21/12 - Episode 16 - "Insufficient Data"
-** 12/28/12 - Episode 17 - "24 Hours"
-* Third run:
-** 11/1/13 - Episode 17 - "Transition" (produced by [[Heidi Caldwell]])
-** 11/8/13 - Episode 18 - "Art is Theft" (produced by [[Nicole Beckley]])
-** 11/15/13 - Episode 19 - "Weather the Weather" (produced by [[Sarah Marie Tufts]])
-** 11/22/13 -Episode 20 -  "Mapping the Mind" (produced by [[Gene Joe]] & [[Luis Salinas]])
-** 11/29/13 - Episode 21 - "The Immigrant Experience" (produced by [[Asaf Ronen]])
+#### First Run
+* 5/4/12 - Episode 1 - "A Map of the World" (produced by [[Gene Joe]])
+* 5/11/12 - Episode 2 - "Co-existence" (produced by [[Ruby Wilmann]] & [[Lisa Jackson]])
+* 5/18/12 - Episode 3 - "Physics as a Metaphor" (produced by [[Luis Salinas]])
+* 5/25/12 - Episode 4 - "Cinematic Reality" (produced by [[Heidi Noelle]])
+* 6/1/12 - Episode 5 - "What a Coincidence" (produced by [[Teresa York]])
+* 6/2/12 - Episode 6 - "Haunted." (produced by [[Kevin Miller]])
+* 6/8/12 - Episode 7 - "Food Glorious Food" (produced by [[Andy Buck]])
+* 6/9/12 - Episode 8 - "Beginnings and Endings" Producer [[Emma Holder]])
+#### Second Run
+* 11/2/12 - Episode 9 - "Body Image & Body Commerce"
+* 11/9/12 - Episode 10 - "TechnEcology"
+* 11/16/12 - Episode 11 - "Secret Identity"
+* 11/23/12 - Episode 12 - "Sense(Less)"
+* 11/30/12 - Episode 13 -  "The Line in the Sand"
+* 12/7/12 - Episode 14 - "Life of Privelege"
+* 12/14/12 - Episode 15 -  "My Strange Habit"
+* 12/21/12 - Episode 16 - "Insufficient Data"
+* 12/28/12 - Episode 17 - "24 Hours"
+#### Third Run
+* 11/1/13 - Episode 17 - "Transition" (produced by [[Heidi Caldwell]])
+* 11/8/13 - Episode 18 - "Art is Theft" (produced by [[Nicole Beckley]])
+* 11/15/13 - Episode 19 - "Weather the Weather" (produced by [[Sarah Marie Curry]])
+* 11/22/13 -Episode 20 -  "Mapping the Mind" (produced by [[Gene Joe]] & [[Luis Salinas]])
+* 11/29/13 - Episode 21 - "The Immigrant Experience" (produced by [[Asaf Ronen]])
 
 ## Media
 * http://www.facebook.com/michael.yew/media_set?set=a.3169864168268.121677.1315383518&type=3
