@@ -25,10 +25,10 @@ The show was originally called *This American Live*, but in 2013, it received a 
 
 ### Topics
 * First run:
-** 5/4/12 - ???
-** 5/11/12 - ???
-** 5/18/12 - ???
-** 5/25/12 - ???
+** 5/4/12 - "A Map of the World" (produced by [[Gene Joe]])
+** 5/11/12 - "Co-existence" (produced by [[Ruby Wilmann]] & [[Lisa Jackson]])
+** 5/18/12 - "Physics as a Metaphor" (produced by [[Luis Salinas]])
+** 5/25/12 - "Cinematic Reality" (produced by [[Heidi Noelle]])
 ** 6/1/12 - "What a Coincidence" (produced by [[Teresa York]])
 ** 6/2/12 - "Haunted." (produced by [[Kevin Miller]])
 ** 6/8/12 - "Food Glorious Food" (produced by [[Andy Buck]])
