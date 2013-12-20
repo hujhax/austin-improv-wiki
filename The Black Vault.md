@@ -52,6 +52,9 @@ After its mainstage run, there were a number of one-off shows:
 * [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/27/12 performance.
 * [http://www.facebook.com/media/set/?set=a.406375719431113.91155.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/31/12 performance.
 
+### Other
+* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/theblackvault The show's web page.]
 * [http://www.hideouttheatre.com/the-creeping-laughter A blog post] by [[Roy Janik]] about the rehearsal process.
