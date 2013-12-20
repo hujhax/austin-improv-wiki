@@ -123,6 +123,9 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://www.facebook.com/media/set/?set=a.408278745907477.91540.118587218209966&type=3 Photoset] by [[Roy Moore]] of the show from the 2012 [[WaffleFest]].
 * [http://www.facebook.com/media/set/?set=a.451551858241669.109988.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/24/12 performance.
 
+### Other
+* Photos of [[Kaci Beeler]]'s set design for the 2011 run: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_2/photo%203_2.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_1/photo%202_1.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_2/photo%204_2.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201/photo%201.jpg?disposition=download 4].
+
 ## Notes
 <references/>
 
