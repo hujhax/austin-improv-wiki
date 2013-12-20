@@ -13,7 +13,7 @@
 ## Summary
 ## History
 ### Name Change
-The show was originally called *This American Life*, but in 2013, it received a cease-and-desist letter from NPR, which apologized for the 'hassle' but pointed out that at least one theatergoer had contacted NPR asking for ticket information.  Host [[Michael Ferstenfeld]] wrote back with a set of suggested alternate titles.  *This American Life* host [[Wikipedia - This American Life|Ira Glass]] favored "Not This American Life", and the name change followed.
+The show was originally called *This American Live*, but in 2013, it received a cease-and-desist letter from NPR, which apologized for the 'hassle' but pointed out that at least one theatergoer had contacted NPR asking for ticket information.  Host [[Michael Ferstenfeld]] wrote back with a set of suggested alternate titles.  *This American Life* host [[Wikipedia - This American Life|Ira Glass]] favored "Not This American Life", and the name change followed.
 
 ### Casts
 * First run:
