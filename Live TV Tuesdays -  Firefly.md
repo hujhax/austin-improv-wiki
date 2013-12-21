@@ -38,6 +38,8 @@ The runaway popularity of this production led [[The Institution]] to produce *[[
 * Breed, Ensemble -- [[David Young]]
 * Corbin, Ensemble -- [[Heath Allyn]]
 
+Also, [[Kacey Samiee]] subbed in for [[Lindsey Reeves]] in the final performance.
+
 ## Crew
 * Stage Manager -- [[Chelley Pyatt]]
 * Vocal Coach -- [[Chelley Pyatt]]
