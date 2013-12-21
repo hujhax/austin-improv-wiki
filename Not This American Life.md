@@ -59,14 +59,19 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * 11/29/13 - Episode 21 - "The Immigrant Experience" (produced by [[Asaf Ronen]])
 
 ## Media
-* http://www.facebook.com/michael.yew/media_set?set=a.3169864168268.121677.1315383518&type=3
-* http://www.facebook.com/michael.yew/media_set?set=a.3891714614078.138307.1315383518&type=3
-* http://vimeo.com/76290597
-* http://www.viddler.com/v/a565f130
-* http://www.viddler.com/v/82b8359b
-* http://www.viddler.com/v/a6fd2140
-* http://www.viddler.com/v/f878f53c
-* http://www.viddler.com/v/3a208da7
+### Videos
+* [http://www.viddler.com/v/a565f130 Video] of the 5/4/12 premiere ("A Map of the World").
+* [http://www.viddler.com/v/82b8359b Video] of the 5/11/12 show ("Co-Existence").
+* [http://www.viddler.com/v/a6fd2140 Video] of the 5/18/12 show ("Physics as a Metaphor").
+* [http://www.viddler.com/v/f878f53c Video] of the 5/25/12 show ("Cinematic Reality").
+* [http://www.viddler.com/v/3a208da7 Video] of the 6/1/12 show ("What a Coincidence").
+
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.3169864168268.121677.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/25/12 show ("Cinematic Reality").
+* [http://www.facebook.com/michael.yew/media_set?set=a.3891714614078.138307.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/30/12 show ("The Line in the Sand").
+
+### Other
+* [http://vimeo.com/76290597 Audio] from the "House of the Future" sketch from the 11/9/12 show ("TechnEcology")
 
 ## More Information
 * Posts to [[The Austin Improv Forums]]:
