@@ -17,4 +17,4 @@ The festival ran from 11/7/02 to 11/9/02.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/happywaffle/media_set?set=a.132310055323.219859.503270323&type=3 Photoset] by [[Kevin Miller]] of the event.
+* Photosets by [[Kevin Miller]] of the event: [http://www.facebook.com/happywaffle/media_set?set=a.132310055323.219859.503270323&type=3 1], [http://www.facebook.com/happywaffle/media_set?set=a.132310925323.219860.503270323&type=3 2].
