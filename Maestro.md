@@ -93,7 +93,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [http://www.facebook.com/hujhax/media_set?set=a.19097372264.15307.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/27/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19097487264.15308.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/4/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19097692264.15311.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/11/02 Maestro.
-* [https://www.facebook.com/happywaffle/media_set?set=a.132305320323.219849.503270323&type=3 Photoset] by [[Kevin Miller]] of the 6/8/02 Maestro.
+* [http://www.facebook.com/happywaffle/media_set?set=a.132305320323.219849.503270323&type=3 Photoset] by [[Kevin Miller]] of the 6/8/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19097777264.15312.588952264&type=3 Photoset] by [[Peter Rogers]] of the 6/29/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19097882264.15314.588952264&type=3 Photoset] by [[Peter Rogers]] of the 7/28/02 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19098232264.15315.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/10/02 Maestro.
