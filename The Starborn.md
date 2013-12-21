@@ -28,7 +28,6 @@ It began as a [[Free Fringe]] show inspired by troupes like Super Mega Art Show 
 * [https://www.facebook.com/warren.henderson.946/media_set?set=a.697804313583390.1073741849.100000614831752&type=3] by [[Warren Henderson]] Their 10/17/2013 show] at *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/thestarborn The troupe's facebook page.]
 * [http://strikingly.com/starbornimprov The troupe's home page.]
  
 [[Category/Troupes|Category:Troupes]]
