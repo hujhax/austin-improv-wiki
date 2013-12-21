@@ -31,7 +31,7 @@ The show was originally called *This American Live*, but in 2013, it received a 
 
 ### Topics
 #### First Run
-* 5/4/12 - Episode 1 - "A Map of the World" (produced by [[Gene Joe]])
+* 5/4/12 - Episode 1 - "A Map of the World" (produced by [[Gene Zhou]])
 * 5/11/12 - Episode 2 - "Co-existence" (produced by [[Ruby Willmann]] & [[Lisa Jackson]])
 * 5/18/12 - Episode 3 - "Physics as a Metaphor" (produced by [[Luis Salinas]])
 * 5/25/12 - Episode 4 - "Cinematic Reality" (produced by [[Heidi Rogers]])
@@ -55,7 +55,7 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * 11/1/13 - Episode 17 - "Transition" (produced by [[Heidi Caldwell]])
 * 11/8/13 - Episode 18 - "Art is Theft" (produced by [[Nicole Beckley]])
 * 11/15/13 - Episode 19 - "Weather the Weather" (produced by [[Sarah Marie Curry]])
-* 11/22/13 -Episode 20 -  "Mapping the Mind" (produced by [[Gene Joe]] & [[Luis Salinas]])
+* 11/22/13 -Episode 20 -  "Mapping the Mind" (produced by [[Gene Zhou]] & [[Luis Salinas]])
 * 11/29/13 - Episode 21 - "The Immigrant Experience" (produced by [[Asaf Ronen]])
 
 ## Media
