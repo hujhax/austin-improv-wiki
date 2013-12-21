@@ -10,6 +10,9 @@
 ## History
 Jeff's acting career had consisted only of scripted theatre until he started taking improv classes at The Hideout in 2007. His 101 instructor was [[Andy Crouch]], his 201 was future [[Confidence Men]] troupe-mate [[Troy Miller]], and his 301 teacher was [[Shana Merlin]].
 
+## Shows
+* *[[Not This American Life]]*
+
 ## Troupes
 * [[Confidence Men]] (2009-Present)
 * [[Happiness is a Choice]] (2009-Present)
