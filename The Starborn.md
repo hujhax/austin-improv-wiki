@@ -24,7 +24,7 @@ It began as a [[Free Fringe]] show inspired by troupes like Super Mega Art Show 
 
 
 ### Photos
-* [https://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3] by [[Warren Henderson]] that includes their 11/15/2013 performance in *[[The 2x4]]*.
+* [https://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3] by [[Warren Henderson]] that includes their 11/15/2013 performance in *the [[2x4]]*.
 * [https://www.facebook.com/warren.henderson.946/media_set?set=a.697804313583390.1073741849.100000614831752&type=3] by [[Warren Henderson]] Their 10/17/2013 show] at *[[The Threefer]]*.
 
 ## More Information
