@@ -38,7 +38,7 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * 6/1/12 - Episode 5 - "What a Coincidence" (produced by [[Teresa York]])
 * 6/2/12 - Episode 6 - "Haunted." (produced by [[Kevin Miller]])
 * 6/8/12 - Episode 7 - "Food Glorious Food" (produced by [[Andy Buck]])
-* 6/9/12 - Episode 8 - "Beginnings and Endings" Producer [[Emma Holder]])
+* 6/9/12 - Episode 8 - "Beginnings and Endings" (produced by [[Emma Holder]] & [[Asaf Ronen]])
 
 #### Second Run
 * 11/2/12 - Episode 9 - "Body Image & Body Commerce"
