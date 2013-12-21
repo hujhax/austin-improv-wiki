@@ -15,6 +15,7 @@ He began directing improv in August of 2012 when [[Ruby Willmann]] handed down t
 He is known for often dressing up.
 
 ## Troupes
+* [[The Starborn]]
 * [[Local Genius Society]]
 
 ## Shows
