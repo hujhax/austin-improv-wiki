@@ -6,7 +6,7 @@
 |Years	=		September 2013-Present
 }}
 
-![[Poster StarbornPoster.jpg|Popular poster promoting their return and first show as a dedicated troupe.]]
+![[StarbornPoster.jpg|Popular poster promoting their return and first show as a dedicated troupe.]]
 
 
 **The Starborn** is a highly theatrical, audience-interactive improv show. Ryan and Mia play sibling aliens that "land" on the stage and mock the people of earth before the big invasion. Often times they will take humans at the end of the show as "pets", or misinterpret common customs and style to believe they are in the presence of James Bond or Batman. Audience members are frequently brought up on stage and integrated into the show.
