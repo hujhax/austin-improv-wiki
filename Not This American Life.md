@@ -16,12 +16,18 @@
 The show was originally called *This American Live*, but in 2013, it received a cease-and-desist letter from NPR, which apologized for the 'hassle' but pointed out that at least one theatergoer had contacted NPR asking for ticket information.  Host [[Michael Ferstenfeld]] wrote back with a set of suggested alternate titles.  *This American Life* host [[Wikipedia - This American Life|Ira Glass]] favored "Not This American Life", and the name change followed.
 
 ### Casts
-* First run:
-** ???
-* Second run:
-** ???
-* Third run:
-** ???
+* First run, cast by [[Shannon McCormick]] & [[Kerri Lendo]]
+* Directed and adapted for the stage by [[Michael Ferstenfeld]]
+* Assistant Directed by [[Elizabeth Ruby Wilmann]]
+** Cast & Producers: Andy Buck, Emma Holder, Lisa Jackson, Gene Joe, Kevin Miller, Heidi Rogers, Teresa York, Elizabeth Ruby Wilmann, Sam Schak (tech)
+
+* Second run, cast, directed, and produced by [[Asaf Ronen]] & [[Michael Ferstenfeld]]
+** [[Colin Bates]], [[Nicole Beckley]], [[Heidi Caldwell]], [[Dan Kerrigan]], [[Kevin Miller]], [[Sam Schak]]
+
+* Third run, no regular cast:
+* Directed and Produced by [[Michael Ferstenfeld]] & [[Asaf Ronen]]
+** Recurring cast: [[Jeff Britt]], [[Ryan Hill]]
+** Assistant Producers: [[Heidi Caldwell]], [[Nicole Beckley]], [[Sarah Marie Tufts]], [[Gene Joe]], [[Luis Salinas]]
 
 ### Topics
 #### First Run
@@ -44,6 +50,7 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * 12/14/12 - Episode 15 -  "My Strange Habit"
 * 12/21/12 - Episode 16 - "Insufficient Data"
 * 12/28/12 - Episode 17 - "24 Hours"
+
 #### Third Run
 * 11/1/13 - Episode 17 - "Transition" (produced by [[Heidi Caldwell]])
 * 11/8/13 - Episode 18 - "Art is Theft" (produced by [[Nicole Beckley]])
