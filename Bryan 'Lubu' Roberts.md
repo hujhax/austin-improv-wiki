@@ -31,6 +31,7 @@ Bryan currently maintains the comedy website ghettosketchwarlock.com and perform
 * *[[After School Special Victims Unit]]*
 * *[[Cereal for Adults]]*
 * *[[Eye for an iPhone]]*
+* *[[Fuck It's Christmas]]*
 * *[[Guilds of Steel]]* (director)
 * *[[Hyperlinks]]*
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (Samuel "Screech" Powers)
