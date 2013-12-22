@@ -17,6 +17,7 @@ Sarah Marie moved to Austin Texas in November of 2007 with the intention of expa
 
 ## Shows
 * *[[Dusk]]*
+* *[[Fuck It's Christmas]]*
 * *[[Guilds of Steel]]*
 * *[[Hitchcocked!]]*
 * *[[Ka-Baam!!]]*
