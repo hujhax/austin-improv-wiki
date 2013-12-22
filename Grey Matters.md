@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Grey Matters
 |Picture	=	Grey Matters.jpg
-|Cast	=	{{Unbulleted list | [[Madeline Jo Chauvin]] | [[Kathy Rose Center]] | [[Todd Hart]] }}
+|Cast	=	{{Unbulleted list | [[Kathy Rose Center]] | [[Madeline Jo Chauvin]] | [[Todd Hart]] }}
 |Years	=		2011-2012
 }}
 
