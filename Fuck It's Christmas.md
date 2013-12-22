@@ -3,7 +3,7 @@
 |Picture=	Fuck It's Christmas.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Ash Nunley]] | [[Bryan Roberts]] | [[Claudio Fox]] | [[Duncan Coe]] | [[Elena Weinberg]] | [[Sarah Marie Curry]] }}
+|Cast	=	{{Unbulleted list | [[Ash Nunley]] | [[Bryan Roberts]] | [[Claudio Fox]] | [[Duncan Coe]] | [[Elena Weinberg]] | [[Sarah Marie Curry]] | [[Tom Booker]] }}
 |Music = {{Unbulleted list | [[Brently Heilbron]] | [[Ryan Hill]] }}
 |Run	=	Nov/Dec 2013
 |Tech	=	[[Bryan Curry]]
