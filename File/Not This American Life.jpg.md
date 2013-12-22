@@ -1,7 +1,7 @@
 ## Summary
 Publicity poster for the 2013 run of *[[Not This American Life]]*
 
-Art by [[Asaf Ronen]].
+Art by [[Michael Ferstenfeld]].
 
 Photo by: unknown.
 
