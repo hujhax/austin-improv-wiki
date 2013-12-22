@@ -36,7 +36,7 @@ This is the running order for the show:
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201077450641165.1073741871.1315383518&type=1 Photoset] by [[Michael Yew]] of one of the shows.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201077450641165.1073741871.1315383518&type=1 Photoset] by [[Michael Yew]] of the 12/20/13 show.
 
 ### Publicity
 * [http://youtu.be/i4pWvyCJl8k Trailer for the show.]
