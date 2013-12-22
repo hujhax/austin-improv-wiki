@@ -14,6 +14,26 @@
 ## Summary
 Like its predecessor, *[[Fuck It's Hot]]*, the show was directed by [[Tom Booker]] and written by [[Brently Heilbron]], and after the initial writing of the sketches they were further developed through improv.
 
+### Sketch List
+This is the running order for the show:
+* Opening Number (song)
+* Office Party #1 (improv)
+* Whole Foods (sketch)
+* Craft PSA (improv)
+* Tamale Lady (improv Performance Art)
+* Austin Christmas Album (video)
+* Office Party #2 (improv)
+* Lubu Rap (song)
+* 50 Shades of God (sketch)
+* Carriage (sketch)
+* Office Party #3 (improv)
+* 12 Drugs (song & Improv)
+* Santa Bound (sketch)
+* Christmas Of The Future (video)
+* Soup Peddler (song)
+* Office Party #4 (skecth)
+* Closing Number (song)
+
 ## Media
 ### Publicity
 * [http://youtu.be/i4pWvyCJl8k Trailer for the show.]
