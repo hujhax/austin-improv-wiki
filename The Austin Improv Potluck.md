@@ -32,5 +32,6 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.10152063720712265.1073741841.588952264&type=1 A photoset of the annual group photos from 2006 to the present.]
 * [http://www.flickr.com/photos/austinimprov/sets/72157603231421564/ A photoset of the 2007 potluck]. 
+* [http://www.facebook.com/Jonbolden/media_set?set=a.511218956713.2022096.76200304&type=3 A photoset] by [[Jon Bolden]] of the 2008 potluck.
 * [http://www.facebook.com/media/set/?set=a.223961494339204.53042.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 2011 potluck.
 * [http://www.steve-rogers-photography.com/Events/AIC2011/20191237_kpnsVB#!i=2223901020&k=HBbLV3r The 2011 and 2012 group photos], as shot by [[Steve Rogers]].
