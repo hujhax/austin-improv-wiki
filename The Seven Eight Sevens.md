@@ -18,6 +18,10 @@ The Seven Eight Sevens decided to bring the troupe to a close in the Summer of 2
 * 3/31/2012 - Debut show at [[Salvage Vanguard Theater]], opening for [[Parallelogramophonograph]].
 * 3/28/2013 - Played the Dallas Comedy Festival.
 
+## Media
+### Pictures
+* [http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3 Photoset] by [[Jon Bolden]] which includes their performance at [[WaffleFest 2012]].
+
 ## More Information
 *[https://www.facebook.com/theseveneightsevens The Seven Eight Sevens facebook page]
 
