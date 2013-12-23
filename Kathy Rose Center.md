@@ -17,7 +17,7 @@ In 2007-2008, she completed levels 1-4 with [[Shana Merlin]] and performed with 
 
 In 2012, Kathy Rose completed the [[Hideout Theater]]'s levels 1-3, taught in north Austin by [[Troy Miller]], with the hope of creating a northern cadre of improv performers. Still waiting for that to jell...
 
-Kathy Rose likes to take workshops each year to keep refreshing her skills.  These have included clowning with Deanna Fleysher, trance mask work with Steve Jarand, impro theater with Keith Johnstone, narrative intensives with [[Parallelogramophonograph]], and numerous sessions with David Razowsky, whose style of improv she greatly admires. 
+Kathy Rose likes to take workshops each year to continue refreshing and expanding her skills.  These have included clowning with Deanna Fleysher, trance mask work with Steve Jarand, impro theater with Keith Johnstone, narrative intensives with [[Parallelogramophonograph]], numerous sessions with David Razowsky and many others. 
 
 In 2013, she applied her improv skills to her professional work, becoming "G.G. Norwood," Curator of the Curtis Creek Creature Museum for the short film (mockumentary) "My Monster," directed by Scott Rice. 
 
