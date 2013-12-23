@@ -5,7 +5,7 @@
 |Years	=		2011-2012
 }}
 
-**Grey Matters** was an improv troupe based at [[The Institution Theater]] from 2011 to 2012, created by [[Asaf Ronen]] to showcase the dark comedic chemistry of Kathy Rose, [[Madeline Jo Chauvin]], and [[Todd Hart]].
+**Grey Matters** was an improv troupe based at [[The Institution Theater]] from 2011 to 2012, created by [[Asaf Ronen]] to showcase the dark comedic chemistry of [[Kathy Rose Center]], [[Madeline Jo Chauvin]], and [[Todd Hart]].
 
 ## Media
 ### Videos
