@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Kathy Rose Center	
-|Picture =	scontent-a-dfw.xx.fbcdn.net/hphotos-frc3/1476476_10202351125597255_1911528292_n.jpg
+|Picture =	Kathy Rose Center pic.jpg
 |Theater=	[[The Institution Theater]]
 |Years	=	2007-Present
 }}
