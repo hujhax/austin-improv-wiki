@@ -10,6 +10,8 @@
 ## History
 The first iteration of the troupe consisted of [[Avimaan Syam]], [[Paul Wainwright]], and a third member.  Upon her departure from Austin, the two men auditioned for new members, eventually adding [[Chelsea Adland]], [[Kristin Firth]], and [[Meghan Wolff]] in mid-2009, and performing in that incarnation for the first time on 8/27/09.
 
+In November 2009, they presented "Where in the World?", a show format based on *[[Wikipedia - Where in the World is Carmen Sandiego|Where in the World is Carmen Sandiego?]]* as the regular opener for *[[The Saturday Night Special]]*.
+
 The troupe performed in [[WaffleFest 2009]], [[The 40-Hour Improv Marathon]], and  [[The 41-Hour Improv Marathon]].
 
 ## Media
