@@ -2,7 +2,7 @@
 |Name	=		The Love Notes
 |Picture	=	The Love Notes.jpg
 |Cast	=	{{Unbulleted list | [[Avimaan Syam]] | [[Chelsea Adland]] | [[Kristin Firth]] | [[Meghan Wolff]] | [[Paul Wainwright]] }}
-|Years	=	2009-2010
+|Years	=	2009-2011
 }}
 
 **The Love Notes** was an improv troupe.
@@ -19,6 +19,7 @@ The troupe performed in [[WaffleFest 2009]], [[The 40-Hour Improv Marathon]], an
 * [http://www.facebook.com/hujhax/media_set?set=a.242748657264.168273.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/11/09 "Where in the World?" show at [[The Hideout Theatre]].
 * [http://www.facebook.com/hujhax/media_set?set=a.437930922264.211725.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/6/10 longform show in *[[The Threefer]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.447241697264.218626.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/29/10 longform show in *[[The Saturday Night Special]]*, their last show with [[Meghan Wolff]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/24/11 performance in *[[The Threefer]]*.
 
 ## More Information
 * [http://www.facebook.com/groups/137197575746/ Facebook group for the troupe.]
