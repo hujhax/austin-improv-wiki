@@ -1,15 +1,15 @@
 {{Infobox Performer
-|Name	=	Chelsea Gilman	
+|Name	=	Chelsea Adland
 |Picture =	Chelsea Gilman Pic.jpg
 |Theater=	Various
 |Years	=	2000-Present
 |Instruments =  Drums
 }}
 
-**Chelsea Gilman** is an improv performer.
+**Chelsea Adland** (née **Gilman**) is an improv performer.
 
 ## History
-Chelsea Gilman started improvising when she auditioned successfully for [[We Could Be Heroes]] in 2000.
+Chelsea Adland started improvising when she auditioned successfully for [[We Could Be Heroes]] in 2000.
 
 ## Troupes
 * [[The Dancy Street D'Orchestra]] (drummer)
