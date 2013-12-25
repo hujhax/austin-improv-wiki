@@ -1,0 +1,3 @@
+Andrew Johnston has been a student at The Institution Theater since early 2012.  After "trying it out" to overcome stage fright, he has continued to study and perform when possible.  As of December, 2013, Andrew is also in the process of nurturing a new group entitled Candy Vampires. 
+
+He has also performed magic during the Hell and Back Cabaret and Mr. Morbid's Moonlight Movie Mayhem Madness Massacre.
