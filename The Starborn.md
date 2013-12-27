@@ -1,8 +1,8 @@
 {{Infobox Troupe
 |Name	=	The Starborn
 |Picture =     TheStarborn.jpg
-|Tech	=     [[Neal Tibriwala]]
 |Cast	=	{{Unbulleted list | [[Ryan Austin]] | [[Mia Iseman]] }}
+|Tech =         {{Unbulleted list | [[Neal Tibriwala]] }}
 |Years	=		September 2013-Present
 }}
 
