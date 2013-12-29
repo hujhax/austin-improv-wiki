@@ -18,6 +18,8 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * [[Dukes of Bedside Manor]] (Inactive)
 * [[Senshi Sokkyo]] (Inactive)
 * [[RhinoDino]] (Active)
+* [[Known Wizards]] (Active)
+* [[Tastemakers]] (Active)
 
 ## Shows
 * *[[Guilds of Steel]]*
@@ -25,5 +27,13 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * *[[The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Fandom]]*
 * *[[TheatreSports (mainstage run)|TheatreSports]]*
+* *[[Big Bash]]*
+
+## Festivals
+2010 - The Out Of Bounds Comedy Festival - Anticdotes, Guilds of Steel
+2011 - The Out Of Bounds Comedy Festival - Bolik Not ZIB,Dukes of Bedside Manor, Quayle
+2012 - The Out Of Bounds Comedy Festival - Dukes of Bedside Manor, The Professor
+2012 - Improvaganza (Hawaii)             - The Professor
+2013 - The Out Of Bounds Comedy Festival - Ghetto Sketch Warlock, Known Wizards, The Professor, Rhinodino
 
 [[Category/Performers|Buckner]]
