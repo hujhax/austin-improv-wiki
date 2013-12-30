@@ -3,19 +3,7 @@
 |Picture=	TheCherryBowl.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Ben Schave]]	
-|Cast	=	{{Unbulleted list|
-| [[Emily Breedlove]]
-| [[Kristin Firth]]
-| [[Jayme Ramsay]]
-| [[Frank Nappi]]
-| [[Brad Hawkins]]
-| [[Bob Galligan]]
-| [[Jessica Arjet]]
-| [[Niki Jacobsen-Torres]]
-| [[Aaron Walther]]
-| [[Michael Jastroch]]
-| [[Joel Osborne]]
-| [[Ben Schave]]
+|Cast	=	{{Unbulleted list | [[Aaron Walther]] | [[Adriane Shown]] | [[Austin Alexander]] | [[Ben Schave]] | [[Bob Galligan]] | [[Brad Hawkins]] | [[Dave Alley]] | [[Emily Breedlove]] | [[Frank Nappi]] | [[Jayme Ramsay]] | [[Jessica Arjet]] | [[Joel Osborne]] | [[Joey Hood]] | [[Jon Cook]] | [[Kelly Hasandr]] | [[Kerri Lendo]] | [[Kristin Firth]] | [[Meghan Morongova]] | [[Michael Jastroch]] | [[Nate Dunaway]] | [[Niki Jacobsen-Torres]] | [[Zac Carr]] }}
 }}
 |Run	=	Feb/Mar 2012
 |Subsequent Runs = Nov 2013
