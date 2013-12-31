@@ -6,10 +6,10 @@ This template lists standard, useful information about an improv troupe.
 |Name	=		
 |Picture	=
 |Cast	=		
+|Crew	=		
 |Years	=		
 }}
 </pre>
-
 
 ## Attributes
 {| class="wikitable" style="line-height:1.3em;"
