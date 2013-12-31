@@ -5,9 +5,11 @@ This template lists standard, useful information about an improv troupe.
 {{Infobox Troupe
 |Name	=		
 |Picture	=
-|Cast	=		
-|Crew	=		
 |Years	=		
+|Director	=		
+|Cast	=		
+|Tech	=		
+|Crew	=		
 }}
 </pre>
 
