@@ -22,7 +22,9 @@ This template lists standard, useful information about an improv troupe.
 |-
 | *Cast*           || The stage performers in the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
 |-
-| *Crew*           || The backstage and/or tech. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
+| *Tech*           || The technical improvisors in the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
+|-
+| *Crew*           || The backstage people involved in the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
 |-
 | *Years*     || The years that the troupe was active, for instance "1993-1997".  If it's still in operation, set it to something like "1998-Present".
 |}
