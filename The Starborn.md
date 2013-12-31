@@ -2,7 +2,7 @@
 |Name	=	The Starborn
 |Picture =     TheStarborn.jpg
 |Cast	=	{{Unbulleted list | [[Ryan Austin]] | [[Mia Iseman]] }}
-|Crew =         {{Unbulleted list | [[Neal Tibriwala]] }}
+|Crew =         {{Unbulleted list | [[Neal Tibrewala]] }}
 |Years	=		September 2013-Present
 }}
 
