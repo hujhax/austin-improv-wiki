@@ -16,6 +16,8 @@
 A dozen of Austin’s finest improvisers embody that ethos as *A Bedtime Gorey* alternates between a frivolous party that’s somehow not quite right, and the nursery where the children of the partygoers are under total control of the Governess, who tells them terrible tales for their own good. Edward Gorey’s unique combination of the horrible and the mundane is brought to life in an evening of general unease and great amusement!
 
 ## Media
+### Videos
+* Video by [[Warren Henderson]] of the 12/28/13 show: [http://youtu.be/JVXKyvqu0cw 1], [http://youtu.be/GNye_JJxLco 2], [http://youtu.be/NorltUxGLzQ 3].
 ### Publicity
 * [http://youtu.be/ii545XAl5FU A trailer for the show.]
 
