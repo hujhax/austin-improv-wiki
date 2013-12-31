@@ -29,7 +29,7 @@ It began as a [[Free Fringe]] show inspired by troupes like Super Mega Art Show 
 
 ## More Information
 * [http://strikingly.com/starbornimprov The troupe's home page.]
-* [http://facebook.com/thestarbornimprov The troupe's home page.]
+* [http://facebook.com/thestarbornimprov The troupe's Facebook page.]
  
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
