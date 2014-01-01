@@ -19,3 +19,4 @@ The event was first held in 2007.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1477491149143.2061102.1589679282&type=3 Photoset] by [[Roy Moore]] of Same Year's Eve 2010.
 * [http://www.facebook.com/media/set/?set=a.266768773386646.67745.221927764537414&type=3 Same Year's Eve 2011 photoset] (by [[Steve Rogers]]).
 * Same Year's Eve 2012: [http://www.facebook.com/media/set/?set=a.467317639998424.113152.221927764537414&type=3 candids and warm-ups], [http://www.facebook.com/media/set/?set=a.467320109998177.113153.221927764537414&type=3 group 1], [http://www.facebook.com/media/set/?set=a.467323289997859.113154.221927764537414&type=3 group 2], [http://www.facebook.com/media/set/?set=a.467327929997395.113155.221927764537414&type=3 group 3 and afterparty] (by [[Steve Rogers]]).
+* Same Year's Eve 2013: [http://www.facebook.com/warren.henderson.946/media_set?set=a.753644821332672.1073741859.100000614831752&type=1 Photoset] by [[Warren Henderson]].
