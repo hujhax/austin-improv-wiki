@@ -24,6 +24,7 @@ In 2013, she applied her improv skills to her professional work, becoming "G.G. 
 ## Troupes
 * [[Pom Pom Sisterhood]]
 * [[Grey Matters]]
+* [[JOY!]]
 * [[Taxi Cab Impressions]]
 
 ## Shows
