@@ -1,0 +1,1 @@
+**The Megaphone Show** is a weekly Armando at [[The New Movement]] theater, described as its "flagship show." It currently plays every Saturday at 10:30 pm. Previously, it was on Wednesdays.
