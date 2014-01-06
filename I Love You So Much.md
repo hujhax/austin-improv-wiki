@@ -13,6 +13,11 @@
 ## Summary
 Each performance features three interwoven stories, each one centered on a loving relationship.  These relationships may not be traditionally romantic ones -- while it could be the story of two lovers, it could also be the story of a man and his dog.  Each performer plays one character through an entire performance, perhaps featuring as a protagonist in the first story, a supporting character in the second, and a momentary "extra" in the third.  The show emphasizes honest, grounded scenes and vulnerability, similar to the style of British improv duo [http://www.facebook.com/TenThousandMillionLoveStories Ten Thousand Million Love Stories].
 
+## History
+At the end of opening night of *I Love You So Much*, improviser [[Ryan Hill]] proposed to improviser [[Jen Kaplan]], during a contrived "bonus scene" set up by [[Roy Janik]] and [[Jessica Arjet]].  The directors and some of the cast knew about this plan ahead of time and assisted with the plans. (She said yes.) The proposer's son, [[Dean Palm]] was in the tech booth.
+
+* [http://www.youtube.com/watch?v=5efU1sE-0I4 Video of the proposal.]
+
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=16525 Audition notice] on [[The Austin Improv Forums]].
