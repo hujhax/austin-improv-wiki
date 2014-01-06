@@ -25,9 +25,21 @@ For each of its runs, the show has run every other Sunday at 6pm.
 #### Season 1
 Season one ran from 10/1/12 to 1/3/2013.
 
-* person
-* person
-* person
+* Tyler Bryce
+* Monica Ybarra-Torres
+* Sandra Ybarra
+* Jeremy Sweetlamb
+* Tom Booker
+* Caitlin Baumgartner
+* Britain Spellings
+* Amy Averett
+* Cortney DeAngelo
+* Jaime Gonzalez
+* Jen Dorsey
+* Jeff Britt
+* Jim Doggett
+* Jesse Pangelinan
+* Chuy Zarate
 
 #### Season 2
 Season two ran from 2/10/13 to June of 2013.
