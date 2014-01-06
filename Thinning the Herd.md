@@ -25,21 +25,21 @@ For each of its runs, the show has run every other Sunday at 6pm.
 #### Season 1
 Season one ran from 10/1/12 to 1/3/2013.
 
-* *[[Amy Averett]]*
-* *[[Britain Spellings]]*
-* *[[Caitlin Baumgartner]]*
-* *[[Chuy Zarate]]*
-* *[[Cortney DeAngelo]]*
-* *[[Jaime Gonzalez]]*
-* *[[Jeff Britt]]*
-* *[[Jen Dorsey]]*
-* *[[Jeremy Sweetlamb]]*
-* *[[Jesse Pangelinan]]*
-* *[[Jim Doggett]]*
-* *[[Monica Ybarra-Torres]]*
-* *[[Sandra Ybarra]]*
-* *[[Tom Booker]]*
-* *[[Tyler Bryce]]*
+* [[Amy Averett]]
+* [[Britain Spellings]]
+* [[Caitlin Baumgartner]]
+* [[Chuy Zarate]]
+* [[Cortney DeAngelo]]
+* [[Jaime Gonzalez]]
+* [[Jeff Britt]]
+* [[Jen Dorsey]]
+* [[Jeremy Sweetlamb]]
+* [[Jesse Pangelinan]]
+* [[Jim Doggett]]
+* [[Monica Ybarra-Torres]]
+* [[Sandra Ybarra]]
+* [[Tom Booker]]
+* [[Tyler Bryce]]
 
 #### Season 2
 Season two ran from 2/10/13 to June of 2013.
