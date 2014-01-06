@@ -10,7 +10,7 @@
 ## History
 Jeremy founded [[Well Hung Jury]] in 1998, [[The Out of Bounds Comedy Festival]] in 2002, and [[Available Cupholders]] in 2004. He has also performed solo improv nationally under the name Bearded Lamb.
 
-In 2003, Jeremy left Austin for Chicago.  He returned in 2006, went to LA in 2007, then to New York in 2009, returning home in 2011 after a brief residency in Sarasota.
+In 2003, Jeremy left Austin for Chicago.  He returned in 2006, went to LA in 2007, then to New York in 2009, returning home in 2011 after a brief residency in Sarasota. In his travels he has trained at Second City Chicago, UCB LA, Ultimate, iO, and performed or taught in 35 of these US states.
 
 ## Troupes
 * [[Available Cupholders]]
