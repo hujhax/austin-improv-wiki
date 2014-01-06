@@ -17,7 +17,7 @@ In 2003, Jeremy left Austin for Chicago.  He returned in 2006, went to LA in 200
 * [[Well Hung Jury]]
 
 ## Shows
-* *[[Fakespeare]]* (Benedick / First Murderer)
+* *[[Fakespeare]]* (Benedick / First Murderer/Old Siward)
 * *[[Myth Debunkers]]* (Jaime Hyneman)
 * *[[Process]]* (director)
 * *[[Thinning the Herd]]*
