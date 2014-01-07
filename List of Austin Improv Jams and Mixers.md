@@ -4,7 +4,7 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 * The first Saturday of every month, [[Merlin Works]] puts on *[[The Merlin Works Mixer]]* at the AT&T Education Room at the Long Center for the Performing Arts.
 * The warm-up for the monthly [[Merlin Works Second Sundays]] show is an "open warm-up" which any improviser can join.
 * Every Sunday at 5pm, [[ColdTowne Theater]] hosts *[[Teen Improv Night]]* for performers under 18.
-* Every Sunday at 7pm in the month of January 2014, [[The New Movement Theater]] hosts an open jam. The jam is preceded by a 6pm workshop and followed by an 8pm stand-up open mic.
+* Every Sunday at 7pm in the month of January 2014, [[The New Movement Theater]] hosts an open jam. The jam is preceded by a 6pm workshop.
 * Every Sunday at 8pm, [[The Institution Theater]] puts on *[[The Rubber Room]]*.
 * Every Tuesday at 10pm, [[ColdTowne Theater]] hosts a long-form jam.
 
