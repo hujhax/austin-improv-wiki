@@ -35,9 +35,9 @@ The show also features 9 athletes from Austin Cheer Factory, Austin's most elite
 * Photography -- [[Jon Bolden]]
 
 ## History
-The production process has involved eight months of intensive cheerleading training for the cast, and the show was waitlisted for seven months for the [[Salvage Vanguard Theater]] mainstage.
+The production process involved eight months of intensive cheerleading training for the cast, and the show was waitlisted for seven months for the [[Salvage Vanguard Theater]] mainstage.
 
-The show will run at 8pm, Thursday to Saturday, from 5/30/13 to 6/9/13 at the [[Salvage Vanguard Theater]].
+The show ran at 8pm, Thursday to Saturday, from 5/30/13 to 6/9/13 at the [[Salvage Vanguard Theater]].
 
 Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25/13.
 
