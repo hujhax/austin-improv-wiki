@@ -11,12 +11,12 @@
 ***Reframed*** is an improv show inspired by photographs by [[Steve Rogers]].
 
 ## Summary
-The show starts with the cast using a set of Steve's photographs, pre-selected by Steve, to inspire scenes.
+The show starts with the cast using a pre-selected set of [[Steve Rogers]]'s photographs to inspire scenes.
 
-Over the course of the show, Steve takes more photographs.  Steve selects some of those photos, and the cast uses *those* photos to inspire further scenes.
+Meanwhile, an on-site photographer takes pictures of the show.  At the halfway point, one of those photographs is then used to inspire further scenes.
 
 ## History
-The show runs for three days in January -- 1/4/14, 1/10/14, and 1/11/14 -- at 8pm.
+The show runs for three days in January -- 1/4/14, 1/10/14, and 1/11/14 -- at 8pm.  The run coincided with a photo exhibit by [[Steve Rogers]] at the theater.
 
 ## Media
 ### Photos
