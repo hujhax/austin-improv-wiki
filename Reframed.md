@@ -5,6 +5,7 @@
 |Producer = [[Lucky Chaos Theater]]
 |Director =	[[Ceej Allen]]
 |Cast	=	{{Unbulleted list | [[Bryan 'Lubu' Roberts]] | [[Ceej Allen]] | [[Craig Kotfas]] | [[Luke Wallens]] | [[Meredith Mae Roberts]] | [[Naomi Perryman]] | [[Scott Hearne]] }}
+|Music = [[Content Love Knowles]]
 |Run	=	Jan 2014
 }}
 
