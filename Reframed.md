@@ -22,4 +22,7 @@ The show runs for three days in January -- 1/4/14, 1/10/14, and 1/11/14 -- at 8p
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.590197414382275.1073741865.118587218209966&type=1 Photoset] by [[Roy Moore]] of the 1/4/14 premiere.
 
+## More Information
+* [http://www.austinchronicle.com/arts/2014-01-10/reframed/ Review of the show] by Stacy Alexander Evans in *[[The Austin Chronicle]]*.
+
 [[Category/Shows|Category:Shows]]
