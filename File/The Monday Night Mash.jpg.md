@@ -1,7 +1,7 @@
 ## Summary
 Publicity art for *[[The Monday Night Mash]]*.
 
-Art by: [[Albert I'm]].
+Art by: [[Albert Im]].
 
 ## Licensing
 {{No license}}
