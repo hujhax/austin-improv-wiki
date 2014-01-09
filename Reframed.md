@@ -8,7 +8,7 @@
 |Run	=	Jan 2014
 }}
 
-***Reframed*** is an improv show inspired by photographs by [[Steve Rogers]].
+***Reframed*** is an improv show inspired by improv-show photographs.
 
 ## Summary
 The show starts with the cast using a pre-selected set of [[Steve Rogers]]'s photographs to inspire scenes.
