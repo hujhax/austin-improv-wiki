@@ -59,7 +59,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ### Alumni / On Hiatus
 * [[Marc Majcher]] 
-* [[Matt Pollock]]
+* [[Matt Pollock]] (2007-June 2013, currently on paternity hiatus)
 * [[Mike Kinald]]
 * [[Mike Nystul]]
 * [[Kristin Faner]]    (Nov 2012-Jun 2013)
