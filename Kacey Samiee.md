@@ -10,6 +10,7 @@
 ## Troupes
 * [[The Awkwards]]
 * [[First Round Draft]]
+* [[Girl Embassy World Team]]
 * [[Girls Girls Girls]]
 * [[Indigo Shift]]
 * [[J-K]]
