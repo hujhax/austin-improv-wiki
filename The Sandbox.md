@@ -17,7 +17,7 @@
 * 1/22/11: [[Eric Heiberg]] directed "Robot, Shark, Romance, Other", a new network television show based on intense real-time market research.
 * 1/28/11: [[Kerri Lendo]] directed "Teenage Dream", a night of improv themed around adolescence.
 * 1/29/11: [[Britney Salyer]] directed "Lesser Humans".
-* 2/4/11: [[Marc Majcher]] directed "Bloody Work".
+* 2/4/11: [[Marc Majcher]] directed "Bloody Work", a retelling and exploration of the Servant Girl Annihilator murders in Austin in 1884-1885.
 * 2/5/11: [[Jason Vines]] directed "Crossroads".
 * 2/11/11: [[Audrey Rachel Sansom]] directed "Worm Hole: Adventures in Multi-Dimensional Time Space".
 * 2/12/11:  [[Topping Haggerty]] directed "Quantum Historical Flux 101".
