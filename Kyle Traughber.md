@@ -26,5 +26,6 @@ Kyle was a company member with [[Gnap! Theater Projects]].
 * *[[Live TV Tuesdays -  My So-Called Life]]* (Jordan Catalano)
 * *[[One More Night]]*
 * *[[Pocketful of Posies]]*
+* *[[The Sandbox]]* (creator)
 
 [[Category/Performers|Traughber]]
