@@ -16,6 +16,7 @@ Jeff's acting career had consisted only of scripted theatre until he started tak
 ## Troupes
 * [[Confidence Men]] (2009-Present)
 * [[Happiness is a Choice]] (2009-Present)
+* [[The JBs]]
 * [[Two Man Polanski]] (2011)
 * [[The Professor]] (2013)
 
