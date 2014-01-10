@@ -28,7 +28,7 @@ GEWT is comprised of some of Austin's top improvisational performers from all ov
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/28/10 performance at *[[The Weekender]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/19/10 performance at [[WaffleFest]].
-* [http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3 Photoset] by [[Roy Moore]] of their 5/6/11 performance at [[The 2011 Ladies Are Funny Festival]]
+* [http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3 Photoset] by [[Roy Moore]] of their 5/6/11 performance at [[The 2011 Ladies Are Funny Festival]].
 ** [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes the same show.
 
 ### Publicity
