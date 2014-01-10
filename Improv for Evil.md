@@ -17,6 +17,7 @@ After two years of relative inactivity, the troupe performed their final show at
 
 ### Former Members
 * [[Nadine Latief]]
+* [[Kristin Firth]]
 
 ## Media
 ### Videos
