@@ -28,6 +28,7 @@ Jon moved to downtown Austin in 2007, where he stumbled upon a performance of th
 * *[[Process]]*
 * *[[Manhattan Stories]]* (Performed and Directed)
 * *[[TheatreSports (mainstage run)|Theatresports]]*
+* *[[The New Game Project]]*
 
 [[Category/Performers|Bolden]]
 [[Category/Teachers|Bolden]]
