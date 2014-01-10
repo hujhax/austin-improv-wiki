@@ -13,6 +13,7 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 ## Troupes
 * [[The Asides]]
 * [[The Escorts]]
+* [[The Library]]
 * [[Improv for Evil]]
 * [[MmmmK]]
 
