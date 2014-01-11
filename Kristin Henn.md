@@ -24,5 +24,5 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010.
 * *[[Big Beautiful Warriors]]*
 * *[[Flying Theater Machine]]*
 
-[[Category/Performer|Henn]]
+[[Category/Performers|Henn]]
 [[Category/Active|Category:Active]]
