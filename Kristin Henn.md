@@ -10,7 +10,7 @@
 ## Summary
 Kristin oversees and facilitates the youth program at [[ColdTowne Theater]] via her performing arts organization, Move Your Tale.
 
-Additionally, she organizes the weekly *[[Teen Improv Night]]* at [[ColdTowne Theater]].
+Additionally, she organizes the weekly "[(All Ages Improv Night)]" formerly known as *[[Teen Improv Night]]* at [[ColdTowne Theater]].
 
 ## History
 Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010.
@@ -22,6 +22,7 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010.
 
 ## Shows
 * *[[Flying Theater Machine]]*
+* "[(Big Beautiful Warriors)]"
 
 [[Category/Performer|Henn]]
 [[Category/Active|Category:Active]]
