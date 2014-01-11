@@ -21,8 +21,8 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010.
 * [[What's the Story, Steve]] (director/performer)
 
 ## Shows
+* *[[Big Beautiful Warriors]]*
 * *[[Flying Theater Machine]]*
-Big Beautiful Warriors
 
-[[Category/Performer [[Henn|Category:Performer [[Henn]]
+[[Category/Performer Henn|Category:Performer Henn]]
 [[Category/Active|Category:Active]]
