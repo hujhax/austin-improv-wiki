@@ -14,8 +14,11 @@ Dave first studied improv at [[The Hideout Theater]] and has since moved on to s
 Dave is an avid photographer of improv. He also takes troupe photos.
 
 ## Shows
+### Improvised
 * *[[The Fancy Pants Mashup]]*
 * *[[Maestro]]*
+
+### Non Improvised
 * *[[The Cherry Bowl]]*
 
 ## Media
