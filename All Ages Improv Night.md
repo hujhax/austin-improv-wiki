@@ -1,11 +1,11 @@
 {{Infobox Troupe
-|Name	=	Teen Improv Night
+|Name	=	All Ages Improv Night
 |Picture =      Teen Improv Night.jpg
 |Cast	=	Various
 |Years	=		2012-Present
 }}
 
-***All Ages Improv Night*** is a monthly show/mixer at [[ColdTowne Theater]].
+***All Ages Improv Night*** (formerly ***Teen Improv Night***) is a monthly show/mixer at [[ColdTowne Theater]].
 
 ## Summary
 Every Sunday at 5pm, [[ColdTowne Theater]]'s youth program hosts a troupe comprised of performers under the age of 18 followed by an established adult troupe. The two shows are ditectly followed by an Improv jam.
