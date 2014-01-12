@@ -1,10 +1,11 @@
 ## Summary
-Publicity photo for [[ColdTowne Theater]]'s *[[Teen Improv Night]]*.
+Publicity photo for [[ColdTowne Theater]]'s *[[All Ages Improv Night]]*.
 
 Photo by: unknown.
 
 Art by: unknown.
 
 Taken from [http://www.facebook.com/MYTatCT the show's facebook page].
+
 ## Licensing
 {{No license}}
