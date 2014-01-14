@@ -12,6 +12,7 @@
 * [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/19/10 performance in *[[The Threefer]]*.
 ** [http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3 Photoset] by [[Roy Moore]] that includes the same show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1341213702292.2040957.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/26/10 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/18/11 performance in *[[The Threefer]]*.
 ** [http://www.facebook.com/SteveRogers1212/media_set?set=a.159798017434563.42528.100002130980897&type=3 Another photoset] by [[Steve Rogers]] that includes the same performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/25/11 performance in *[[The Threefer]]*.
