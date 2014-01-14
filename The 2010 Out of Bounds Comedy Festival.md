@@ -1,6 +1,8 @@
 **The 2010 Out of Bounds Comedy Festival** was the ninth annual [[Out of Bounds Comedy Festival]].
 
 ## Summary
+The festival ran from Tuesday, 8/31/10 to Monday, 9/6/10.
+
 Its advertising was themed around [[Wikipedia - 2010 (film)|the film *2010*]].
 
 It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikipedia - The Kids in the Hall|The Kids in the Hall]]) as a headliner.
