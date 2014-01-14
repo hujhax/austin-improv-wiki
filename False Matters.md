@@ -38,6 +38,7 @@ The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/5/11 show in [[The 42-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/10/11 performance at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1720672979394.85878.1315383518&type=3 Photoset] by [[Roy Moore]] of their 6/11/11 performance.
+* [http://www.facebook.com/happywaffle/media_set?set=a.10150645560780324.682290.503270323&type=3 Casual photos of the cast] by [[Kevin Miller]] from June 2011.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/1/11 show at [[The 2011 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.412280975502091.99885.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/25/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3538649347667.130761.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 9/1/12 performance at [[Salvage Vanguard Theater]].
