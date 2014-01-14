@@ -28,6 +28,7 @@ The troupe participated in [[The 40-Hour Improv Marathon]] and [[The 41-Hour Imp
 * Sketch videos: [http://youtu.be/BGMXhTWc0Vg "Knife Fight"]; "Campaign Ads": [http://youtu.be/TON0fwdFAq8 #1], [http://youtu.be/1-lenOOt0ls #2], and [http://youtu.be/tu8tq3jJniQ #3]; [http://youtu.be/25ObVq_9uAA "Pet Expert"]; [http://youtu.be/Oj-VspFF_nI "O, Those Merry Stumblebums!"]; [http://youtu.be/QDdgQg2bKno "Love to Hear Percussion"]; [http://youtu.be/8GWzJHfNteQ "Frasier: The Facts"]; "Yo-Yodeo Promos": [http://youtu.be/MVDrFBb8O_k #1], [http://youtu.be/ZMl5HhF6GqQ #2]
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.1299236843754.36635.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 6/6/10 performance.
+* [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.479155366923.261825.106747986923&type=1 A photoset] by [[Stephanie Hagemeister]] of their 11/19/10 performance in [[WaffleFest]].
 ** [http://www.facebook.com/hujhax/media_set?set=a.10150109005422265.302244.588952264&type=3 Another photoset] of the show by [[Peter Rogers]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/6/11 performance at [[The Hideout Theatre]].
