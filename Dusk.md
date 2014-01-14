@@ -141,6 +141,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 * Video of their 9/24/10 show: [http://vimeo.com/30947551 part 1], [http://vimeo.com/31256790 part 2].
 
 ### Photos
+* [http://www.facebook.com/happywaffle/media_set?set=a.10150295116320324.548314.503270323&type=3 Photoset] by [[Kevin Miller]] of the 10/23/09 premiere.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 11/7/09 show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3 Photoset] by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3 Another photoset of the show] by [[Peter Rogers]]
