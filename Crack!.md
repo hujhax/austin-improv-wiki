@@ -43,7 +43,7 @@ The show is created by mixing highly volatile puppet characters with a band of u
 * [http://www.facebook.com/media/set/?set=a.1333129940203.2040265.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/14/10 show.
 * [http://www.facebook.com/media/set/?set=a.1336635907850.2040545.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/20/10 show.
 * [http://www.facebook.com/media/set/?set=a.1339599941949.2040804.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/21/10 show.
-* [https://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://puppetimprovproject.org/crack.html The show's website.]
