@@ -9,7 +9,7 @@
 
 
 ## Troupes
-* [[Ed32]]
+* [[Ed 32]]
 * [[Girls Girls Girls]]
 
 ## Shows
