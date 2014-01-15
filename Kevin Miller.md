@@ -12,6 +12,7 @@ Kevin took time off from improv starting in late 2004 to be a guide for Austin G
 In September 2011, Kevin went on a solo backpacking trip to Montana. In the weeks and months preceding the trip, [[Chuy Zarate]]—an avowed indoorsman—expressed his confidence that Kevin would be eaten by a bear while hiking through the wilderness. Upon Kevin's return, Chuy adopted the theory that Kevin **had** been eaten by a bear, and was now actually a bear wearing Kevin Miller's skin as camouflage. The joke became strangely persistent, even among AIC members who had no idea as to its origin.
 
 ## Troupes
+* [[Ed 32]]
 * [[Foolish Mortals]] (2003-2004)
 * [[The Known Wizards]] (2013-)
 * [[Your Dad's Friends]] (2012-)
