@@ -4,4 +4,4 @@
 Photo by: [[Claudio Fox]]
 
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
