@@ -12,6 +12,7 @@
 
 
 ## Troupes
+* [[Ed 32]]
 * [[Junk]]
 * [[Danger! Warning! Improv!]]
 
