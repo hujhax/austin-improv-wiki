@@ -14,7 +14,7 @@ Michael is the co-founder and artistic director of scripted theatre company, [ht
 ## Troupes
 * [[Confidence Men]]
 * [[Double Dutch]]
-* [[Ed32]]
+* [[Ed 32]]
 * [[Goat]]
 * [[Happiness is a Choice]]
 * [[Short & Sweet]]
