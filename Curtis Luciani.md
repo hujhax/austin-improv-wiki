@@ -12,6 +12,7 @@ Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41
 
 ## Troupes
 * [[The Amazon and the Milksop]]
+* [[Ed 32]]
 * [[Girl Embassy World Team]]
 * [[Rise & Shine]]
 * [[Your Terrific Neighbors]]
