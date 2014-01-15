@@ -12,6 +12,7 @@ Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
 
 ## Troupes
 * [[Adventure Squad!]]
+* [[Ed 32]]
 * [[Girl Embassy World Team]]
 * [[Parallelogramophonograph]]
 * [[Rise & Shine]]
