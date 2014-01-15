@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Two Man Polanski
-|Picture	=	Two Man Polanski.jpg
+|Picture	=	Two Man Polanski Vid.jpg
 |Cast	=	{{Unbulleted list | [[Ceej Allen]] | [[Jeff Britt]] }}
 |Years	=		2011-2012
 }}
