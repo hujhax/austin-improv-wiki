@@ -2,13 +2,15 @@
 |Name	=		Do You Still Want To Do This?
 |Picture	=	Do You Still Want To Do This.jpg
 |Cast	=	{{Unbulleted list|[[Alex Dobrenko]]|[[Courtney Hopkin]]}}
-|Years	=		2013-Present
+|Years	=		2013-2014
 }}
 
 **Do You Still Want To Do This?** is an improv duo where the two improvisors play very neurotic characters.
 
 ## History
 Courtney and Alex met doing [[List of Hideout Mainstage Shows in Chronological Order|mainstage shows]] at [[The Hideout Theatre]].
+
+When Alex moved away to Los Angeles in 2014, the duo went on hiatus.
 
 ## Media
 ### Videos
