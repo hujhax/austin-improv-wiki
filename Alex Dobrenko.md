@@ -2,13 +2,15 @@
 |Name	=	Alex Dobrenko	
 |Picture =	Alex Dobrenko Pic.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	2010-Present
+|Years	=	2010-2014
 }}
 
 **Alex Dobrenko** is an improv performer.
 
 ## History
 Alex first took classes at [[The Hideout Theatre]] with [[Andy Crouch]] in 2010.
+
+In 2014, Alex moved away to Los Angeles.
 
 ## Troupes
 * [[The Escorts]]
