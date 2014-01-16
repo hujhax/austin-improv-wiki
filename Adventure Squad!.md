@@ -5,7 +5,7 @@
 |Years	=		2008-Present
 }}
 
-**Adventure Squad!** is an improv duo in which [[Kaci Beeler]] and [[Valerie Ward]] play two pre-teens (Tabitha Martinez and Emily Neidermeyer-Smith-McBaker) who go on adventures.
+**Adventure Squad!** is an improv duo in which [[Kaci Beeler]] and [[Valerie Ward]] play two pre-teens ("Tabitha Martinez" and "Emily Neidermeyer-Smith-McBaker") who go on adventures.
 
 ## History
 The two performers developed the format for [[The 2008 Ladies Are Funny Festival]].
