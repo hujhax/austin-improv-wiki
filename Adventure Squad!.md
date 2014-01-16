@@ -27,4 +27,5 @@ Shortly afterwards, this structure went by the wayside, and it became a show abo
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
+[[Category/Duos|Category:Duos]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]
