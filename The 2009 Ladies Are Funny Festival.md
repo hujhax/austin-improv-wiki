@@ -5,7 +5,7 @@ The festival ran from 5/7/09 to 5/9/09 at [[Salvage Vanguard Theater]].
 
 ## Acts
 ### Local Acts
-* [[Adventure Squad]]
+* [[Adventure Squad!]]
 * [[Firth&Arjet]]
 * [[Girls Girls Girls]]
 
