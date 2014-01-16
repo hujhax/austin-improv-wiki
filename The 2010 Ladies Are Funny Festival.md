@@ -5,7 +5,7 @@ The festival ran from 5/5/10 to 5/8/10 at [[Salvage Vanguard Theater]].
 
 ## Acts
 ### Local Acts
-* [[Adventure Squad]]
+* [[Adventure Squad!]]
 * [[Battle Axe]]
 * [[Firth&Arjet]]
 * [[Florida Room]]
