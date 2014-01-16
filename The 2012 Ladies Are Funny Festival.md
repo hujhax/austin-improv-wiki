@@ -7,7 +7,7 @@ The festival ran from 5/9/12 to 5/12/12 at [[Salvage Vanguard Theater]] and (on 
 
 ## Acts
 ### Local Acts
-* [[Adventure Squad]]
+* [[Adventure Squad!]]
 * [[DA Foundry]]
 * [[Galactic]]
 * [[Girls Girls Girls]]
