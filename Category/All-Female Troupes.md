@@ -18,5 +18,4 @@ This is a list of both active and inactive all-female troupes in Austin.
 * [[Salem]]
 * [[So Many Dicks]]
 * [[Spice Rack]]
-* [[Sugarbakers]]
 * [[Xaria & Friends]]
