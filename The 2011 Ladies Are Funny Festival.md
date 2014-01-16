@@ -7,7 +7,7 @@ The festival ran from 5/5/11 to 5/7/11 at [[Salvage Vanguard Theater]].
 These lists are incomplete until we can find a complete schedule for the 2011 festival.
 
 ### Local Acts
-* [[Adventure Squad]]
+* [[Adventure Squad!]]
 * [[Battle Axe]]
 * [[Firth & Arjet]]
 * [[Girl Embassy World Team]]
