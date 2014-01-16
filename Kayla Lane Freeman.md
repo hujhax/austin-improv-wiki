@@ -1,13 +1,15 @@
 {{Infobox Performer
 |Name	=	Kayla Lane Freeman	
 |Picture =	kaylalane.png
-|Years	=	2011-present
+|Years	=	2011-2013
 }}
 
 **Kayla Lane Freeman** is an improv performer.
 
 ## History
 Kayla appeared in [[The 44-Hour Improv Marathon]] as a core cast member.
+
+In 2013, she moved away to Chicago.
 
 ## Troupes
 * [[Dance Card]]
