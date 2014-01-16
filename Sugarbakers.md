@@ -13,3 +13,4 @@ They played in *[[The Cagematch]]* on 2/6/13, against [[Hyena]].
 The troupe went on hiatus in 2013, when member [[Kayla Lane Freeman]] moved to Chicago.
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
