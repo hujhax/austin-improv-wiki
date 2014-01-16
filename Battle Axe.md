@@ -14,4 +14,5 @@
 * [http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/4/11 performance in *[[The Weekender]]*.
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Duos|Category:Duos]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]
