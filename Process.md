@@ -61,6 +61,7 @@ For the remaining shows, they just let the title and table-read dictate the genr
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.310853215644868.76512.221927764537414&type=3 Photoset of the 3/3/12 show] ("Hole to Nowhere") by [[Steve Rogers]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.377731208915047.87462.100000345135257&type=3 Photoset of the 3/24/12 show] by [[Claudio Fox]].
 * [http://www.facebook.com/media/set/?set=a.329076013822588.80828.221927764537414&type=3 Photoset of the 3/31/12 show] ("Middle School") by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3 Photoset of the 4/15/12 show] ("My Heart Doth Bleed Gold") by [[Roy Moore]].
 * [http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1 Photoset] by [[Anna Lattka]] of the 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
