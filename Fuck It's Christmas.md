@@ -35,6 +35,9 @@ This is the running order for the show:
 * Closing Number (song)
 
 ## Media
+### Videos
+* [http://youtu.be/LvyFoyiUiAA The "50 Shades of God" sketch.]
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201077450641165.1073741871.1315383518&type=1 Photoset] by [[Michael Yew]] of the 12/20/13 show.
 
