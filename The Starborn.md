@@ -37,5 +37,5 @@ In February of 2014 The Starborn headlined [[The Threefer]] at [[The Hideout The
 * [http://strikingly.com/starbornimprov The troupe's home page.]
 * [http://facebook.com/thestarbornimprov The troupe's Facebook page.]
  
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Starborn]]
 [[Category/Active|Category:Active]]
