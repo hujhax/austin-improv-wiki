@@ -127,6 +127,8 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[The Lab]]*
 * *[[Austin Comedy Hour]]*
 * *[[Rucker Park]]*
+* *[[Stoned vs. Drunk vs. Sober]]*
+* *[[Pass the Mic]]*
 * *[[Block Party]]*
 * *[[Lights Up!]]*
 * *[[Student Union]]*
