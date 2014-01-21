@@ -123,7 +123,6 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[Hell & Back Cabaret]]* (2013)
 
 ## [[The New Movement Theater]]
-### Ongoing Shows
 * *[[The Megaphone Show]]*
 * *[[The Lab]]*
 * *[[Austin Comedy Hour]]*
