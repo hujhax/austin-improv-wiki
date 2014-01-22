@@ -2,7 +2,11 @@
 |Name = The Megaphone Show	
 |Picture =	The Megaphone Show.jpg
 |Theater = [[The New Movement Theater]]
-|Cast =	Varies
+|Cast =	Aaron Walther
+Gsu Paek
+
+Karen Early
+Megan Simon
 |Director = Varies
 |Run	= 2009-Present
 }}
