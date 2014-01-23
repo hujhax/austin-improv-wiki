@@ -1,6 +1,6 @@
 {{Infobox Show
   |Name     = Lights Up!
-  |Picture  = Lights Up!.png
+  |Picture  = Lights Up!.jpg
   |Director = Various
   |Theater  = [[The New Movement]]
   |Cast     = Various
