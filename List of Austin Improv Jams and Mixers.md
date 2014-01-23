@@ -10,6 +10,7 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 
 ## Inactive Jams and Mixers
 * From 2005 to 2009, [[The Hideout Theatre]] held *[[The Tuesday Night Jam]]*, a weekly free improv jam.
+* In 2012, [[The Hideout Theatre]] hosted *[[The Narrative Improv Jam]]*.
 * From 2010 to 2013, [[ColdTowne Theater]] hosted *[[The Jam with Oh, Science!]]*
 * In 2012, [[Leng Wong]] and [[Kevin Miller]] hosted *[[Whoosh Bang Pow -  Back to Basics]]*.
 * Every Tuesday night at 6:30pm, [[Harold's House]] happens at RLM on the UT campus. **(Currently on hiatus)**
