@@ -133,3 +133,4 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[Lights Up!]]*
 * *[[Student Union]]*
 * *[[The Franchise]]*
+* *[[Fighting Spirit]]*
