@@ -9,7 +9,7 @@ This **List of ColdTowne Theater Shows** is designed to be transcluded into any 
 * *[[The Speakeasy]]*
 * *[[Big Beautiful Warriors]]*
 * *[[Nice Astronaut]] presents [[Last Call]]*
-* [[Teen Improv Night]]
+* *[[Teen Improv Night]]*
 
 ### Mainstage Productions
 * *[[Family Tides]]*
