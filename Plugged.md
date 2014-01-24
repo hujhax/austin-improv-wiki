@@ -18,7 +18,7 @@ Themes include:
 * Never-ending Comedy Contest
 ** [[Lane Krarup]] gathers together comedians who then compete for a panel of three veteran comedians who act as judges and between-set commentators.  At the end of every show, Mr. Krarup and regular guest [[Pat Sirois]] freestyle rap about whatever the audience calls out.
 * Comedian Battle Rap Authority
-** Comics perform stand up, riff and rap on audience suggestions, and battle until one winner remain
+** Comics perform stand up, riff and rap on audience suggestions, and battle until one winner remains.
 * Rob Gagnon's 1 Hour Comedy Festival
 * Shit's Golden
 
