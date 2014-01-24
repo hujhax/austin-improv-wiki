@@ -10,3 +10,6 @@
 
 ## History
 The theater was founded by the improv troupe [[ColdTowne (troupe)|ColdTowne]] after they were displaced from New Orleans by [http://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina].
+
+## Shows
+{{List of ColdTowne Theater Shows}}
