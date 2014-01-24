@@ -17,4 +17,7 @@ The show was directed by [[Tom Booker]] and written by [[Brently Heilbron]]. Aft
 
 The show sometimes featured special guest ukulele player [[Ryan Hill]].
 
+## More Information
+* [http://www.facebook.com/EffItsHot The show's facebook page.]
+
 [[Category/Shows|Category:Shows]]
