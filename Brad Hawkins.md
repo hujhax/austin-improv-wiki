@@ -27,6 +27,7 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 * *[[Pocketful of Posies]]*
 * *[[The Black Vault]]*
 * *[[The Next Chapter]]*
+* *[[Trust No One]]* (directed)
 ### Non-Improvised
 * *[[Live TV Tuesdays -  Felicity]]*
 * *[[The Cherry Bowl]]*
