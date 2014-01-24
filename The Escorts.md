@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	The Escorts
 |Picture =     The Escorts.jpg
-|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Andreas Fabis]] | [[Lindsey Reeves]] | [[Marc Majcher]] | [[Ruby Willmann]]}}
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Marc Majcher]] | [[Lindsey Reeves]] | [[Aaron Saenz]] | [[Ruby Willmann]] | [[Alex Dobrenko]] (alumni)}}
 |Years	=		2011-Present
 }}
 
