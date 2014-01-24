@@ -26,9 +26,7 @@ By mid-2009, [[Sean Hill]]'s lease on the property came to an end, and he chose 
 On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House business and operations. In January of 2013, the Saturday mainstage shows, as well as *[[Maestro]]*, were moved to the building's larger, downstairs theater. In April, the Coffee House hours were extended, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows. A second, smaller, Hideout Coffee location is scheduled to open in January 2014.
 
 ## Shows
-The Hideout puts on a number of [[List of Hideout Mainstage Shows in Chronological Order|mainstage shows]], and a variety of recurring shows such as *[[Maestro]]* and *[[The Free Fringe]]*.
-
-For a complete list of Hideout shows, [[List of Austin Improv Shows#The Hideout Theatre|see the "Shows" page]].
+{{List of Hideout Theatre Shows}}
 
 ## More Information
 * [[The Hideout Text Adventure|A text adventure written about the Hideout.]]
