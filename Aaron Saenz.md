@@ -13,6 +13,7 @@ Aaron appeared in [[The 44-Hour Improv Marathon]] at [[The Hideout Theatre]].
 ## Troupes
 ### Austin Troupes
 * [[The Awkwards]]
+* [[The Escorts]]
 * [[Well Hung Jury]]
 
 ### Other Troupes
