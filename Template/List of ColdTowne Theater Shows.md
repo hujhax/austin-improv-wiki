@@ -7,12 +7,14 @@ This **List of ColdTowne Theater Shows** is designed to be transcluded into any 
 * *[[What's the Story, Steve]]*
 * *[[Teen Improv Night]]*
 * *[[Big Beautiful Warriors -  Game Show]]*
-* *[[Move Vs. Movie]]*
+* *[[Movie vs. Movie]]*
 * *[[The Hustle Show]]*
 * *[[Comedy Bazaar]]*
 * *[[Raney Nights]]*
 * *[[Red Envelope]]*
 * *[[Midnight Special -  Gong Show]]*
+* *[[The Speakeasy]]*
+* *[[Stool Pigeon]]*
 
 ### Mainstage Productions
 * *[[After School Special Victims Unit]]*
