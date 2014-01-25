@@ -19,8 +19,8 @@ This **List of Gnap! Theater Projects Shows** is designed to be transcluded into
 * *[[Elf Employment]]* (PIP/Gnap 2011)
 * *[[The Cherry Bowl]]* (2012)
 * *[[Steam]]* (2012)
-*  [[The Professor]] (2012)
-*  *[[Not This American Life]]* (2012)
+* *[[The Professor]]* (2012)
+* *[[Not This American Life]]* (2012)
 * *[[Pocketful of Posies]]* (2012)
 * *[[Seance]]* (2012)
 * *[[Haunted]]*
