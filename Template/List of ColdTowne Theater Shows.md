@@ -2,16 +2,17 @@
 This **List of ColdTowne Theater Shows** is designed to be transcluded into any "ColdTowne shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
+* *[[Nice Astronaut]] presents [[Last Call]]*
 * *[[Big Beautiful Warriors -  Game Show]]*
 * *[[The Cagematch]]*
-* *[[Nice Astronaut]] presents [[Last Call]]*
-* *[[Teen Improv Night]]*
-* *[[What's the Story, Steve]]*
 * *[[Move Vs. Movie]]*
-* *[[Comedy Bazaar]]*
-* *[[Rainey Nights]]*
-* *[[Red Envelope]]*
+* *[[What's the Story, Steve]]*
 * *[[The Hustle Show]]*
+* *[[Comedy Bazaar]]*
+* *[[Raney Nights]]*
+* *[[Red Envelope]]*
+* *[[Midnight Special -  Gong Show]]*
+* *[[Teen Improv Night]]*
 
 ### Mainstage Productions
 * *[[After School Special Victims Unit]]*
