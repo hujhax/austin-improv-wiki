@@ -5,12 +5,12 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[The Rubber Room]]*
 * *[[The Triple Scoop]]*
 ### Mainstage Productions
+* *[[Bad Girls in Plaid Skirts]]*
+* *[[Hell & Back Cabaret]]* (2013)
 * *[[Live TV Tuesdays]]*
 * *[[Manson -  The Musical]]*
-* *[[Pulp Friction]]*
-* *[[Only Three Will Survive]]*
-* *[[This American Live]]*
-* *[[Bad Girls in Plaid Skirts]]*
 * *[[The Next Chapter]]* (2013)
+* *[[Only Three Will Survive]]*
+* *[[Pulp Friction]]*
 * *[[The Suitcase]]* (2013)
-* *[[Hell & Back Cabaret]]* (2013)
+* *[[This American Live]]*
