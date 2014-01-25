@@ -3,12 +3,12 @@ This **List of ColdTowne Theater Shows** is designed to be transcluded into any 
 </noinclude>
 ### Ongoing Shows
 * *[[Big Beautiful Warriors]]*
+* *[[The Cagematch]]*
 * *[[Improvised Comedy with Oh, Science!]]*
 * *[[Nice Astronaut]] presents [[Last Call]]*
+* *[[The Speakeasy]]*
 * *[[Stool Pigeon]]*
 * *[[Teen Improv Night]]*
-* *[[The Cagematch]]*
-* *[[The Speakeasy]]*
 * *[[What's the Story, Steve]]*
 
 ### Mainstage Productions
