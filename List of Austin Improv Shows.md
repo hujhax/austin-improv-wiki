@@ -25,16 +25,4 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 * *[[Hell & Back Cabaret]]* (2013)
 
 ## [[The New Movement Theater]]
-* *[[The Megaphone Show]]*
-* *[[The Lab]]*
-* *[[Austin Comedy Hour]]*
-* *[[Rucker Park]]*
-* *[[Stoned vs. Drunk vs. Sober]]*
-* *[[Pass the Mic]]*
-* *[[Block Party]]*
-* *[[Lights Up!]]*
-* *[[Student Union]]*
-* *[[The Franchise]]*
-* *[[Fighting Spirit]]*
-* *[[The Opener]]*
-* *[[Plugged]]*
+{{List of New Movement Shows}}
