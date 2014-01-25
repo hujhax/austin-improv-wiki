@@ -10,19 +10,7 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 {{List of Hideout Theatre Shows}}
 
 ## [[The Institution Theater]]
-### Ongoing Shows
-* *[[The Rubber Room]]*
-* *[[The Triple Scoop]]*
-### Mainstage Productions
-* *[[Live TV Tuesdays]]*
-* *[[Manson -  The Musical]]*
-* *[[Pulp Friction]]*
-* *[[Only Three Will Survive]]*
-* *[[This American Live]]*
-* *[[Bad Girls in Plaid Skirts]]*
-* *[[The Next Chapter]]* (2013)
-* *[[The Suitcase]]* (2013)
-* *[[Hell & Back Cabaret]]* (2013)
+{{List of Institution Theater Shows}}
 
 ## [[The New Movement Theater]]
 {{List of New Movement Shows}}
