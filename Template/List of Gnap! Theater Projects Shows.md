@@ -6,25 +6,25 @@ This **List of Gnap! Theater Projects Shows** is designed to be transcluded into
 * *[[The Derby]]*
 * *[[The Saturday Night Special]]*
 ### Mainstage Productions
-* *[[Lola]]*
-* *[[Dusk - Improvised Tween Erotica]]*
-* *[[Guilds of Steel]]*
-* *[[One More Night]]*
-* *[[The Sandbox]]*
-* *[[Crack! The Improvised Puppet Musical]]* (PIP/Gnap 2009, 2010)
-* *[[Showdown]]* (2011)
-* *[[False Matters]]* (2011)
-* *[[Totally Improvised, 90210]]* (2011)
-* *[[Cover to Cover]]* (2011)
-* *[[Elf Employment]]* (PIP/Gnap 2011)
-* *[[The Cherry Bowl]]* (2012)
-* *[[Steam]]* (2012)
-* *[[The Professor]]* (2012)
-* *[[Not This American Life]]* (2012)
-* *[[Pocketful of Posies]]* (2012)
-* *[[Seance]]* (2012)
-* *[[Haunted]]*
 * *[[Bad Company]]*
+* *[[The Cherry Bowl]]* (2012)
+* *[[Cover to Cover]]* (2011)
+* *[[Crack! The Improvised Puppet Musical]]* (PIP/Gnap 2009, 2010)
+* *[[Dusk - Improvised Tween Erotica]]*
+* *[[Elf Employment]]* (PIP/Gnap 2011)
+* *[[False Matters]]* (2011)
+* *[[Guilds of Steel]]*
+* *[[Haunted]]*
 * *[[Heist!]]*
+* *[[Lola]]*
+* *[[Not This American Life]]* (2012)
+* *[[One More Night]]*
+* *[[Pocketful of Posies]]* (2012)
+* *[[The Professor]]* (2012)
+* *[[The Sandbox]]*
+* *[[Seance]]* (2012)
+* *[[Showdown]]* (2011)
+* *[[Steam]]* (2012)
 * *[[The Sword of Merlin Works]]*
+* *[[Totally Improvised, 90210]]* (2011)
 * *[[The Trouble With Terry]]*
