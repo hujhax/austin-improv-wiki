@@ -15,6 +15,9 @@ The original Austin theater opened for classes in February 2009 and began runnin
 
 On March 3rd 2012, a second theater space opened in New Orleans, Louisiana.
 
+## Shows
+{{List of New Movement Shows}} 
+
 ## Media
 ### Videos
 * [http://vimeo.com/35453849 The TNM TourCo playing in Oklahoma City in October 2011.]
