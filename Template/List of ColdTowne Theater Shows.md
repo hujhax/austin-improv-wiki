@@ -13,6 +13,7 @@ This **List of ColdTowne Theater Shows** is designed to be transcluded into any 
 
 ### Mainstage Productions
 * *[[After School Special Victims Unit]]*
+* *[[Beware of Lady Spies]]*
 * *[[Cereal for Adults]]*
 * *[[Eye for an iPhone]]*
 * *[[Family Tides]]*
@@ -21,3 +22,16 @@ This **List of ColdTowne Theater Shows** is designed to be transcluded into any 
 * *[[Shanty Town Lake]]*
 * *[[Slaughter Your Shorts]]*
 * *[[TGIS - Improvised 90's Sitcoms]]*
+* *[[Victrola]]*
+* *[[Dads in Bars]]*
+* *[[Dating Game]]*
+* *[[Braised in Texas]]*
+* *[[Indy Movies]]*
+* *[[Boy Band]]*
+* *[[The Barmando]]*
+* *[[The PSA Wrestling Federation]]*
+* *[[Late Night Down]]*
+* *[[Live From ColdTowne It’s Saturday Night!]]*
+* *[[The Organ Trail]]*
+* *[[Pilgrims Are From Mars]]*
+* *[[Festival Festival]]*
