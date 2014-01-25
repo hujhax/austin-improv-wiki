@@ -3,7 +3,7 @@ Gnap! Theater Projects is a theater production company that, between 2008 and 20
 Its artistic director is [[Shannon McCormick]].
 
 ## Shows
-See [[List of Austin Improv Shows#Mainstage Productions 2|the list of improv shows]].
+{{List of Gnap! Theater Projects Shows}}
 
 ## Company Members
 *[[Ace Manning]]
