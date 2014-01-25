@@ -8,6 +8,10 @@ This **List of ColdTowne Theater Shows** is designed to be transcluded into any 
 * *[[Teen Improv Night]]*
 * *[[What's the Story, Steve]]*
 * *[[Move Vs. Movie]]*
+* *[[Comedy Bazaar]]*
+* *[[Rainey Nights]]*
+* *[[Red Envelope]]*
+* *[[The Hustle Show]]*
 
 ### Mainstage Productions
 * *[[After School Special Victims Unit]]*
