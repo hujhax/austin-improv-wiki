@@ -120,7 +120,7 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |Jan 2014||Feb 2014||*[[I Love You So Much]]*||[[Jessica Arjet]], [[Roy Janik]]
 |-
-|Mar 2014||Apr 2014||*[[Kurosawa]]*||[[Kareem Badr]], [[Shannon McCormick]]
+|Mar 2014||Apr 2014||*[[Kenjutsu]]*||[[Kareem Badr]], [[Shannon McCormick]]
 |-
 |May 2014||Jun 2014||*[[Theatresports]]*||TBA
 |-
