@@ -16,6 +16,8 @@ Each performance features three interwoven stories, each one centered on a lovin
 ## History
 At the end of opening night of *I Love You So Much*, improviser [[Ryan Hill]] proposed to improviser [[Jen Kaplan]], during a contrived "bonus scene" set up by [[Roy Janik]] and [[Jessica Arjet]].  The directors and some of the cast knew about this plan ahead of time and assisted with the plans. (She said yes.) The proposer's son, [[Dean Palm]], was in the tech booth.
 
+Later in the run, an audience member proposed to his girlfriend during a show (she also said yes).
+
 ## Media
 ### Videos
 * [http://www.youtube.com/watch?v=5efU1sE-0I4 Video of the opening-night proposal.]
