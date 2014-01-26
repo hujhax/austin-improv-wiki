@@ -36,12 +36,6 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[Sci-Fi Saturdays]]*
 * *[[Victrola]]*
 
-#### Other
-* *[[Dating Game]]*
-* *[[Festival Festival]]*
-* *[[Live From ColdTowne It's Saturday Night!]]*
-* *[[Rapture the Flag]]*
-
 #### Themed Troupe Shows
 Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these shows are listed with the troupe page.
 
@@ -49,3 +43,9 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * [[Nice Astronaut]] has presented "Last Call" and will present "Back in Townesville" in 2014.
 * [[Turn of the Century Paris]] has presented *The SpeakEasy*.
 * [[Stag Comedy]] has presented "Stab Comedy".
+
+#### Other
+* *[[Dating Game]]*
+* *[[Festival Festival]]*
+* *[[Live From ColdTowne It's Saturday Night!]]*
+* *[[Rapture the Flag]]*
