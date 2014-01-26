@@ -23,7 +23,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[Shanty Town Lake]]*
 
 #### Improv Shows
-* *[[Beware of Lady Spies]]*
+* *[[Beware of Female Spies]]*
 * *[[Boy Band]]*
 * *[[Braised in Texas]]*
 * *[[Family Tides]]*
