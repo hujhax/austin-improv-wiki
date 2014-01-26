@@ -2,41 +2,50 @@
 This **List of ColdTowne Theater Shows** is designed to be transcluded into any "ColdTowne shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
-* *[[Big Beautiful Warriors -  Game Show]]*
+* *[[Big Beautiful Warriors]]*
 * *[[The Cagematch]]*
 * *[[Comedy Bazaar]]*
 * *[[The Hustle Show]]*
 * *[[Midnight Special -  Gong Show]]*
 * *[[Movie vs. Movie]]*
-* *[[Nice Astronaut]] presents [[Last Call]]*
 * *[[Raney Nights]]*
 * *[[Red Envelope]]*
-* *[[The Speakeasy]]*
 * *[[Stool Pigeon]]*
 * *[[Teen Improv Night]]*
-* *[[What's the Story, Steve]]*
 
 ### Mainstage Productions
+In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.
+#### Sketch Revues
 * *[[After School Special Victims Unit]]*
-* *[[The Barmando]]*
+* *[[Cereal for Adults]]*
+* *[[Eye for an iPhone]]*
+* *[[Pilgrims Are From Mars]]*
+* *[[Shanty Town Lake]]*
+
+#### Improv Shows
 * *[[Beware of Lady Spies]]*
 * *[[Boy Band]]*
 * *[[Braised in Texas]]*
-* *[[Cereal for Adults]]*
-* *[[Dads in Bars]]*
-* *[[Dating Game]]*
-* *[[Eye for an iPhone]]*
 * *[[Family Tides]]*
-* *[[Festival Festival]]*
 * *[[Indy Movies]]*
 * *[[Late Night Down]]*
-* *[[Live From ColdTowne It’s Saturday Night!]]*
 * *[[The Organ Trail]]*
-* *[[Pilgrims Are From Mars]]*
 * *[[The PSA Wrestling Federation]]*
-* *[[Rapture the Flag]]*
-* *[[Sci-Fi Saturdays]]*
-* *[[Shanty Town Lake]]*
 * *[[Slaughter Your Shorts]]*
-* *[[TGIS - Improvised 90's Sitcoms]]*
+* *[[TGIS]]*
+* *[[Sci-Fi Saturdays]]*
 * *[[Victrola]]*
+
+#### Other
+* *[[Dating Game]]*
+* *[[Festival Festival]]*
+* *[[Live From ColdTowne It's Saturday Night!]]*
+* *[[Rapture the Flag]]*
+
+#### Themed Troupe Shows
+Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these shows are listed with the troupe page.
+
+* [[Precious Dads]] have presented "Dads in Bars" and will present "The Barmando" in 2014.
+* [[Nice Astronaut]] has presented "Last Call" and will present "Back in Townesville" in 2014.
+* [[Turn of the Century Paris]] has presented *The SpeakEasy*.
+* [[Stag Comedy]] has presented "Stab Comedy".
