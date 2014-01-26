@@ -1,5 +1,5 @@
 <noinclude>
-This **List of ColdTowne Theater Shows** is designed to be transcluded into any "ColdTowne shows" section on the wiki.
+This **List of ColdTowne Theater Shows** is designed to be transcluded into any "[[ColdTowne]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
 * *[[Big Beautiful Warriors]]*
