@@ -14,13 +14,13 @@ In 2014, Taylor moved away to Chicago.
 * [[There's Waldo]]
 
 ## Shows
+* *[[Array]]*
+* *[[Braised in Texas]]*
 * *[[Holy 1960s Batman, Batman!]]*
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Penny)
 * *[[Live TV Tuesdays -  Party of Five]]* (Kirsten)
 * *[[Only Three Will Survive]]*
 * *[[Pulp Friction]]*
 * *[[Spirited]]*
-* *[[Braised in Texas]]*
-* *[[Array]]*
 
 [[Category/Performers|Overstreet]]
