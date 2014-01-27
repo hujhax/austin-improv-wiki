@@ -6,7 +6,7 @@ This **List of [[ColdTowne Theater]] Shows** is designed to be transcluded into 
 * *[[The Cagematch]]*
 * *[[Comedy Bazaar]]*
 * *[[The Hustle Show]]*
-* *[[Midnight Special -  Gong Show]]*
+* *[[Midnight Special and Gong Show]]*
 * *[[Movie vs. Movie]]*
 * *[[Raney Nights]]*
 * *[[Red Envelope]]*
