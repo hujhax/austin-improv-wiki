@@ -21,6 +21,6 @@ In 2014, Taylor moved away to Chicago.
 * *[[Pulp Friction]]*
 * *[[Spirited]]*
 * *[[Braised in Texas]]*
-* *[[Arkay presents -  the JTS Brown Experience]]*
+* *[[Array]]*
 
 [[Category/Performers|Overstreet]]
