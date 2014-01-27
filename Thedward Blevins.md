@@ -22,6 +22,7 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 * *[[Pick Your Own Path]]* (2012-{{CURRENTYEAR}})
 * *[[The Tribunal]]* (2012)
 * *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013)
+* *[[Camp Madeupponthaspotta]]* (2014)
 
 ## Troupes
 * [[Happy Butter]] (2011)
