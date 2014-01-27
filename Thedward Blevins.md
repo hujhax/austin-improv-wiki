@@ -25,5 +25,6 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 
 ## Troupes
 * [[Happy Butter]] (2011)
+* [[Candy Vampires]] (2014)
 
 [[Category/Performers|Blevins]]
