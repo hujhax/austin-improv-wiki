@@ -2,10 +2,13 @@
 |Name	=	Taylor Overstreet	
 |Picture =	Taylor Overstreet Pic.jpg
 |Theater=	[[The Institution Theater]] 
-|Years	=	2010-Present
+|Years	=	2010-2014
 }}
 
 **Taylor Overstreet** is an improv performer.
+
+## History
+In 2014, Taylor moved away to Chicago.
 
 ## Troupes
 * [[There's Waldo]]
