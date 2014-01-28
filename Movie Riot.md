@@ -12,7 +12,7 @@
 ## Summary
 The show is put on by the core cast (called "The Academy"), along with a different "challenger group" every week.  At the end of each performance, the audience votes on their favorite movie.
 
-It runs Fridays at 7pm.
+It runs Fridays at 7pm.  They offer free movie candies.
 
 ## More Information
 * [http://www.coldtownetheater.com/blog/movie-movie-returns The show's web page.]
