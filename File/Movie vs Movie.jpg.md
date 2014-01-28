@@ -1,6 +1,5 @@
 ## Summary
-Publicity art for *[[Movie vs Movie]]*.
+Publicity art for *[[Movie vs Movie]]* by [[Carlos LaRotta]].
 
-Art by: unknown.
 ## Licensing
 {{No license}}
