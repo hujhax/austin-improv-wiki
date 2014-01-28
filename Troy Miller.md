@@ -19,6 +19,7 @@ He was a core cast member in both [[The 40-Hour Improv Marathon]] and [[The 42-H
 * [[Foolish Mortals]]
 * [[Junk]]
 * [[We Could Be Heroes]]
+* [[Ball&Chain]]
 
 ## Shows
 * *[[Cops & Lawyers]]* (co-director)
