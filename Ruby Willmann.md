@@ -39,4 +39,5 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 
 [[Category/Performers|Willmann]]
 [[Category/Teachers|Willmann]]
+[[Category/Directors|Willmann]]
 [[Category/Active|Category:Active]]
