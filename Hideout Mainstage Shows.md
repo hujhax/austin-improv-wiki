@@ -139,7 +139,7 @@ Starting in 2014, the Hideout will begin presenting two mainstage shows every Sa
 |-
 |Feb 2014||*[[What the F@$]]*||[[Ruby Willmann]]
 |-
-|Apr 2014||*[[Camp Madeupponathaspotta]]*|| [[Jon Bolden]]
+|Apr 2014||*[[Camp Madeupponthaspotta]]*|| [[Jon Bolden]]
 |-
 |Jun 2014||*[[Cochise]]*||[[Marc Majcher]]
 |}
