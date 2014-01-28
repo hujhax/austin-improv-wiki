@@ -4,16 +4,7 @@
 |Director           = [[Jon Bolden]]
 |Assistant Director = [[Nicole Oliver]]
 |Run                = Apr 2014
-|Cast               = {{ Unbulleted list | [[Rachel Austin]]
-                                         | [[Thedward Blevins]]
-                                         | [[Patrick Creamer]]
-                                         | [[Katie Doran]]
-                                         | [[Catherine Grady]]
-                                         | [[Heather McConochie]]
-                                         | [[Mitch Mills]]
-                                         | [[David Ronn]]
-                                         | [[Jillian Summar]]
-                                         | [[Norman Tran]]  }}
+|Cast               = {{Unbulleted list | [[Catherine Grady]] | [[David Ronn]] | [[Heather McConochie]] | [[Jillian Summar]] | [[Katie Doran]] | [[Mitch Mills]] | [[Norman Tran]] | [[Patrick Creamer]] | [[Rachel Austin]] | [[Thedward Blevins]] }}
 }}
 
 ***Camp Madeupponathaspotta*** will be the April 2014 student mainstage production at [[The Hideout Theatre]].
