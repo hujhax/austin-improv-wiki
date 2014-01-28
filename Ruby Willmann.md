@@ -12,7 +12,6 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 ## Troupes
 * [[False Matters]]
 * [[The Escorts]]
-* [[The Good Life]] (director)
 * [[Three Hot Chicks]]
 
 ## Shows
