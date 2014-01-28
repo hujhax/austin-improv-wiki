@@ -7,7 +7,7 @@
 **Ruby Willmann** is an Austin improviser.
 
 ## History
-Ruby Willmann started taking improv classes after seeing a [[Parallelogramophonograph]] show in September 2010.
+Ruby Willmann started taking improv classes after seeing a [[Parallelogramophonograph]] show in September 2010. She became a Hideout Teacher in the summer of 2013.
 
 ## Troupes
 * [[False Matters]]
