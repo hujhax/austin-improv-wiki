@@ -32,7 +32,7 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 * *[[Start Trekkin']]*
 * *[[Twilight Zoned]]*
 * *[[A Bedtime Gorey]]*
-* "[[Kenjutsu]]"
+* [[Kenjutsu]]
 
 [[Category/Performers|Willmann]]
 [[Category/Teachers|Willmann]]
