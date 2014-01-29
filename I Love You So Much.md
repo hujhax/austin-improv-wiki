@@ -21,6 +21,9 @@ Later in the run, an audience member proposed to his girlfriend during a show (s
 ## Media
 ### Videos
 * [http://www.youtube.com/watch?v=5efU1sE-0I4 Video of the opening-night proposal.]
+* [https://vimeo.com/83907645 Video of the opening night show on 01/04/2014]
+* [https://vimeo.com/84009211 Video of the second show on 01/12/2014]
+* [https://vimeo.com/85152112 Video of the fourth show on 01/25/2014]
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
