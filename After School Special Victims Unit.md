@@ -6,10 +6,13 @@
 |Assistant Director =	[[Lizzie Leslie]]
 |Music = [[Jason Laney]]
 |Cast =	{{Unbulleted list | [[Adam Trabka]] | [[Brett Tribe]] | [[Bryan 'Lubu' Roberts]] | [[Chris Baldenhofer]] | [[Cortnie Jones]] | [[Meredith Mae Roberts]] }}
-|Run	=	Aug/Sep 2011
+|Run	=	Sep 2011
 }}
 
 ***After School Special Victims Unit*** was a sketch revue at [[ColdTowne Theater]].
+
+## History
+The show had a couple of previews in August 2011, and then ran on Fridays and Saturdays in September.
 
 ## Media
 ### Photos
