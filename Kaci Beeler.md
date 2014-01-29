@@ -11,16 +11,7 @@
 
 Very nice site!
 
-## Troupes
-* [[Adventure Squad!]]
-* [[The Amazon and the Milksop]]
-* [[Available Cupholders]]
-* [[Comedic Amoeba]]
-* [[Girl Embassy World Team]]
-* [[Mr. and Mrs. Danger]]
-* [[Parallelogramophonograph]]
-* [[Perfect Season]]
-* [[The PITS]]
+ Hello! fkkkegd interesting fkkkegd site! I'm really like it! Very, very fkkkegd good!
 
 ## Shows
 * [[The 40-Hour Improv Marathon]]
