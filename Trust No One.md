@@ -5,7 +5,7 @@
 |Director =	[[Brad Hawkins]]
 |Assistant Director = [[Ryan Hill]]
 |Tech = {{Unbulleted list | [[Cindy Page]] | [[Michael Yew]] }}
-|Cast	=	TBD
+|Cast	=	{{Unbulleted list | [[Alexandria Ayala]] | [[Andreas Fabis]] | [[Andy Hush]] | [[Ceej Allen]] | [[Chelley Pyatt]] | [[Clint Harris]] | [[Jay Michael]] | [[Jen Kaplan]] | [[Luis Salinas]] | [[Maitland Lederer]] | [[Nicole Beckley]] | [[Tess Hermes]] }}
 |Run	=	Apr/May 2014
 }}
 
