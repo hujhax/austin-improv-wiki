@@ -18,7 +18,7 @@ As H.J. Compromise, they went on to win the December 2008 [[ColdTowne Theater]] 
 In 2011, Nicole and Tim formed a separate troupe named Townsville to write and perform scripted comedy.  In 2013, Townsville was folded back into Nice Astronaut.
 
 ## Etymology
-After narrowing down the potential troupe name from a list of over 200, the troupe wanted to be called "Bad Astronaut" (a pun on "Bad-Ass"), but the name was already taken by a punk band.  After exploring several alternatives (including "Fat Astronaut"), they settled on "Nice Astronaut"- which is a pun on "Nice Ass".
+After narrowing down the potential troupe name from a list of over 200, the troupe wanted to be called "Bad Astronaut" (a pun on "Bad-Ass"), but the name was already taken by a punk band.  After exploring several alternatives (including "Fat Astronaut"), they settled on "Nice Astronaut".
 
 ### Members
 The troupe was formed by [[Becca Peterson]], [[Allison Alvarez]], [[Patrick Daniel]], [[Clay Crenshaw]], [[Tim Honker]] and [[Carla Goodman]].  Carla left the troupe after rehearsals began but before the first show.
