@@ -3,7 +3,7 @@
 |Picture =	Eye for an iPhone.jpg
 |Theater = [[ColdTowne Theater]]
 |Director =	[[Dave Buckman]]
-|Cast =	{{Unbulleted list | [[Alison Alvarez]] | [[Andy Petruzzo]] | [[Bryan 'Lubu' Roberts]] | [[Eizabeth Brammer]] | [[Joshua Krilov]] | [[Justin York]] }}
+|Cast =	{{Unbulleted list | [[Alison Alvarez]] | [[Andy Petruzzo]] | [[Bryan 'Lubu' Roberts]] | [[Joshua Krilov]] | [[Justin York]] | [[Liz Brammer]]}}
 |Run	=	Oct-Dec 2009
 }}
 
