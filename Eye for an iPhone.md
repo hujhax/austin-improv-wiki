@@ -10,7 +10,7 @@
 ***Eye for an iPhone*** was a sketch revue at [[ColdTowne Theater]].
 
 ## History
-The show ran from 10/8/09 to 12/18/09.
+The show ran on Fridays at 8pm from 10/8/09 to 12/18/09.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=9716&p=85879 Show announcement]
