@@ -22,6 +22,7 @@ In 2012, Liz moved to Seattle.
 ## Shows
 * *[[69 Love Scenes]]*
 * *[[Dusk]]*
+* *[[Eye for an iPhone]]*
 * *[[Pocketful of Posies]]* (director)
 * *[[Showdown]]* (Elisabeth Peterson, Johnny Matthews, Angelica)
 * *[[Spirited]]*
