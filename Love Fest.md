@@ -4,7 +4,7 @@
 |Director =	[[Clifton Highfield]]	
 |Cast	=	{{Unbulleted list|[[Jessica Arjet]] | [[Andrew Basile]] | [[Ashley Jayne Carlisle]] | [[Cat Drago]] | [[Mitchell Deane]] | [[Andreas Fabis]] | [[Scott Hearne]] | [[Clifton Highfield]] | [[Ryan Hill]] | [[Brandon Martin]] | [[Nathan Sowell]] | [[Sarah Swofford]] | [[Dana Yanoshak]]}}
 |Theater = [[The Institution Theater]]
-|Run	=	February 2013
+|Run	=	February 2013, February 2014
 }}
 
 ***Love Fest*** (AKA "Lovefest") is an improvised longform show based on the theme of love for which has played February 2013-2014.  It runs concurrently with *[[Bitterfest]]*.
