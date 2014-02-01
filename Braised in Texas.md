@@ -20,7 +20,7 @@ The show had several performances after its run, including [[The 2013 Out of Bou
 ## Media
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes McNichol and May's first experiment with the format in [[The 42-Hour Improv Marathon]].
-* [http://www.facebook.com/hujhax/media_set?set=a.10151909102032265.10z73741838.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/30/13 show in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/hujhax/media_set?set=a.10151909102032265.1073741838.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/30/13 show in [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14677 The audition announcement] on [[The Austin Improv Forums]].
