@@ -7,7 +7,7 @@
 |Run	=	May/Jun 2013
 }}
 
-***Braised in Texas*** was an narrated improv show with set characters, based around an annual barbecue competition in a fictional Texas town.
+***Braised in Texas*** was an narrated improv show based around an annual barbecue competition in a fictional Texas town.
 
 ![[Braised Cast.jpg|A performance of *Braised in Texas*.]]
 
