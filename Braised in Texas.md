@@ -9,6 +9,8 @@
 
 ***Braised in Texas*** was an narrated improv show with set characters, based around an annual barbecue competition in a fictional Texas town.
 
+![[Braised Cast.jpg|A performance of *Braised in Texas*.]]
+
 ## Summary
 [[John Ratliff]] (as "The Stranger") narrated the show.
 
