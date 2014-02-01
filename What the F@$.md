@@ -1,5 +1,6 @@
 {{Infobox Show
-|Name	=		What the F@*$				
+|Name	=		What the F@*$
+|Picture = What the F@*$.jpg			
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Ruby Willmann]]
 |Assistant Director =		[[Caeriel Crestin]]
