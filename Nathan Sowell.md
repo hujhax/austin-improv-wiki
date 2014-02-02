@@ -7,4 +7,15 @@
 
 **Nathan Sowell** is an improviser that can be found regularly playing at [[ColdTowne Theater]]. He has gone through training at the Improv Olympic in Chicago and is currently taking classes at the ColdTowne Conservatory.
 
+## Troupes
+* [[Cheap Date]]
+* [[Concrete]]
+* [[Golden Age]]
+* [[Nice Astronaut]]
+* [[Who Dack]]
+
+## Shows
+* *[[Indy Movies]]*
+* *[[Love Fest]]*
+
 [[Category/Performers|Sowell]]
