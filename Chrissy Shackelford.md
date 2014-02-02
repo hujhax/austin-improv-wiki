@@ -20,5 +20,7 @@ Before coming to improv, Chrissy Shackelford attended the University of Texas at
 * [[Stool Pigeon]] (2013-present)
 * [[Powerball]] (2013-present)
 
+## Shows
+* *[[Indy Movies]]*
 
 [[Category/Performers|Shackelford]]
