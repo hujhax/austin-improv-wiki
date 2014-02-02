@@ -34,6 +34,7 @@ Tim is also a homebrewer, a NAUI certified Master Scuba Diver, worked on several
 * [[Dear Frailty]] - director, co-writer, tech (2009, 2010)
 * [[Varsity]] - improviser (2011)
 * [[ColdTowne All Stars]] - improviser (2009-2011)
+* *[[Indy Movies]]* - improviser (2013)
 
 ## Festivals
 * Chicago Improv Festival (Nice Astronaut 2013)
