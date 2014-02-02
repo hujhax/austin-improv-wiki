@@ -29,7 +29,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[Indy Movies]]*
 * *[[Late Night Down]]*
 * *[[The Organ Trail]]*
-* *[[The PSA Wrestling Federation]]*
+* *[[Slam Team Six]]*
 * *[[Slaughter Your Shorts]]*
 * *[[TGIS]]*
 * *[[Sci-Fi Saturdays]]*
