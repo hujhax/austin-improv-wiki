@@ -10,6 +10,9 @@
 ## History
 He is originally from Connecticut.
 
+## Shows
+* *[[Slaughter Your Shorts]]*
+
 ## Troupes
 * [[Bad Boys]]
 
