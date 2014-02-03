@@ -21,6 +21,7 @@ Emma Holder was a core cast member in [[The 43-Hour Improv Marathon]].
 * *[[Lord Wensleydale's Last High Tea]]* (Rebecca)
 * *[[Manhattan Stories]]*
 * *[[Not This American Life]]*
+* *[[TGIS]]*
 * *[[Townsville]]*
 
 [[Category/Performers|Holder]]
