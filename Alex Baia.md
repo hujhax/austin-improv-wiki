@@ -18,5 +18,6 @@ He is a graduate of the ColdTowne Conservatory at [[ColdTowne Theater]] and has 
 * *[[Lord Wensleydale’s Last High Tea]]*
 * *[[Pick Your Own Path]]*
 * *[[Sci-Fi Saturdays]]*
+* *[[Slaughter Your Shorts]]*
 
 [[Category/Performers|Baia]]
