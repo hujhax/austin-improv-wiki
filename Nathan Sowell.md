@@ -16,6 +16,7 @@
 
 ## Shows
 * *[[Indy Movies]]*
+* *[[TGIS]]*
 * *[[Love Fest]]*
 
 [[Category/Performers|Sowell]]
