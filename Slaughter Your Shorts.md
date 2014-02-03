@@ -11,7 +11,7 @@
 ***Slaughter Your Shorts*** was an improvised mainstage show at [[ColdTowne Theater]].
 
 ## Summary
-The show was a longform genre mash-up between a 90s summer camp sitcom (such as *[[Wikipedia - Salute Your Shorts|Salute Your Shorts]]*) and 80s slasher movies.  It featured live blood effects, and provided free ponchos to audience members in the front row. The blood effects were later employed in the Raiders Of The Last Ark inspired show Indy Movies in 2013. 
+The show was a longform genre mash-up between a 90s summer camp sitcom (such as *[[Wikipedia - Salute Your Shorts|Salute Your Shorts]]*) and 80s slasher movies.  It featured live blood effects, and provided free ponchos to audience members in the front row. (The blood effects were later employed in *[[Indy Movies]]*.) 
 
 Its tagline was: "A killer is on the loose at Camp Anawanna. Will anyone survive the night?"
 
