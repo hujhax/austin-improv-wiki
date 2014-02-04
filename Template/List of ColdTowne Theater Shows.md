@@ -10,6 +10,7 @@ This **List of [[ColdTowne Theater]] Shows** is designed to be transcluded into 
 * *[[Movie vs Movie]]*
 * *[[Raney Nights]]*
 * *[[Red Envelope]]*
+* *[[The Speakeasy]]*
 * *[[Stool Pigeon]]*
 * *[[Teen Improv Night]]*
 
@@ -40,7 +41,6 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 
 * [[Precious Dads]] have presented "Dads in Bars" in January 2013 and "Home for the Holidays" in November 2013, and will present "The Barmando" in March 2014.
 * [[Nice Astronaut]] has presented "Last Call" and will present "Back in Townesville" in May 2014.
-* [[Turn of the Century Paris]] has presented *The SpeakEasy*.
 * [[Stag Comedy]] has presented "Stab Comedy".
 * [[Wink Planet]] will present "Pilgrims Are From Mars" in November 2014.
 
