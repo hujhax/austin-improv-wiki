@@ -27,6 +27,7 @@ Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41
 * *[[The Hustle Show]]*
 * *[[Improvised Shakespeare]]*
 * *[[One More Night]]*
+* *[[Victrola]]*
 * *[[Who Is T. Henry Baudecliffe]]* (co-director)
 
 ## Media
