@@ -38,7 +38,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 #### Themed Troupe Shows
 Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these shows are listed with the troupe page.
 
-* [[Precious Dads]] have presented "Dads in Bars" and will present "The Barmando" in March 2014.
+* [[Precious Dads]] have presented "Dads in Bars" in January 2013 and "Home for the Holidays" in November 2013, and will present "The Barmando" in March 2014.
 * [[Nice Astronaut]] has presented "Last Call" and will present "Back in Townesville" in May 2014.
 * [[Turn of the Century Paris]] has presented *The SpeakEasy*.
 * [[Stag Comedy]] has presented "Stab Comedy".
