@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Turn of the Century Paris
 |Picture	=	Turn of the Century Paris.jpg
-|Cast	=	{{Unbulleted list | [[Chaz Formichella]] | [[Danny Catlow]] | [[Ed Ree]] | [[Matt Derman]] | [[Steve Donovan]] }}
+|Cast	=	{{Unbulleted list | [[Chaz Formichella]] | [[Danny Catlow]] | [[Ed Reed]] | [[Matt Derman]] | [[Steve Donovan]] }}
 |Years	=		2010-2013
 }}
 
