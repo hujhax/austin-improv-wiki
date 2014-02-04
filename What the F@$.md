@@ -15,7 +15,7 @@ In 'What the F#*@!', an improvised story is split into two halves. In the first 
 
 ## More Information
 * [http://forum.austinimprov.com/viewforum.php?f=3 The audition notice] on [[The Austin Improv Forums]], and [http://docs.google.com/spreadsheet/viewform?formkey=dHpzNTQ4clBGV2JCUDZjWW9Idmp1VkE6MA#gid=1 the audition form].
-* [http://www.hideouttheatre.com/carefree-and-fearless Blog post about the show] by cast member [[Lindsey Hejl]].
+* [http://www.hideouttheatre.com/carefree-and-fearless Blog post about the show] by cast member [[Lindsay Hejl]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
