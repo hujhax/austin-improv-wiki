@@ -15,5 +15,6 @@ He is originally from Connecticut.
 
 ## Troupes
 * [[Bad Boys]]
+* [[Turn of the Century Paris]]
 
 [[Category/Performers|Reed]]
