@@ -25,7 +25,6 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 ## Past Improv Troupes
 * [[Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
 * [[Unfurled]] - improv troupe (Performed in TCIF, NCCAF, OOB and twice in NOIF)
-* [[Victrola]] - improv troupe (The Bat format) (Performed in Frontera Fest)
 * [[UpTowne]] - sketch actor/writer
 * [[Lifeboat]] - Cagematch champion
 * [[The Draft]]
@@ -33,7 +32,7 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 
 ## Past Shows
 * *[[Indy Movies]]*
-* *[[Victrola]]*
+* *[[Victrola]]* (The Bat format) (Performed in Frontera Fest)
 
 ## External Links
 * [https://www.facebook.com/NiceAstronaut Nice Astronaut Facebook Page]
