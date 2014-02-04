@@ -33,6 +33,7 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 
 ## Past Shows
 * *[[Indy Movies]]*
+* *[[Victrola]]*
 
 ## External Links
 * [https://www.facebook.com/NiceAstronaut Nice Astronaut Facebook Page]
