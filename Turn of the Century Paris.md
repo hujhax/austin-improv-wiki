@@ -8,6 +8,8 @@
 **Turn of the Century Paris** was a sketch troupe based at [[ColdTowne Theater]].
 
 ## History
+Turn of the Century Paris was a sketch troupe started by "The Boston Boys" (Matt, Chaz, Steve & later Ed) after their arrival in Austin. They wanted to bring their brand of fast paced sketch comedy to their new home after their experiences writing and performing at Emerson College in Boston. TCP focused on heavy workshopping to boil down their sketches and make them as short as possible, while still exploring the idea. Aside from it's founding Boston contingent, the cast featured others over time including Cortnie Jones, Brian Engravalle, Kate Bojanek, Danny Catlow, and Sam VanMetre.
+
 In May 2010, the troupe had a monthlong mainstage run at [[ColdTowne Theater]].
 
 The troupe hosted *[[The Speakeasy]]* from 2010 to 2013.
