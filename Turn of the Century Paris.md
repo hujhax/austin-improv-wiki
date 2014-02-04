@@ -1,8 +1,8 @@
 {{Infobox Troupe
 |Name	=		Turn of the Century Paris
 |Picture	=	Turn of the Century Paris.jpg
-|Cast	=	{{Unbulleted list | [[Chaz Formichella]] | [[Danny Catlow]] | [[Ed Reed]] | [[Matt Derman]] | [[Steve Donovan]] }}
-|Years	=		2010-2013
+|Cast	=	{{Unbulleted list | [[Chaz Formichella]] | [[Ed Reed]] | [[Matt Derman]] | [[Steve Donovan]] | [[Kate Bojanek]] | [[Danny Catlow]] }}
+|Years	=		2009-2013
 }}
 
 **Turn of the Century Paris** was a sketch troupe based at [[ColdTowne Theater]].
