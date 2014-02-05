@@ -10,4 +10,4 @@
 ***The Speakeasy*** was a monthly open mic at [[ColdTowne Theater]] presented by [[Turn of the Century Paris]].
 
 
-[[Category/Shows|Category:Shows]]
+[[Category/Shows|Speakeasy]]
