@@ -13,7 +13,7 @@ Jessica is the founder and manager of the [[Flying Theater Machine]], Austin's o
 ## History
 Jessica Arjet graduated from the [[Heroes of Comedy]] Improv School in 2003.  Upon graduation, she was invited to join the house improv team.
 
-She was a core cast member of [[The 41-Hour Improv Marathon]], and will be a core cast member in [[The 44-Hour Improv Marathon]].
+She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour Improv Marathon]].
 
 ## Troupes
 * [[Bedfellows]]
