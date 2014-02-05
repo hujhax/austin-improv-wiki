@@ -11,6 +11,7 @@ Megan trained at [[The Institution Theater]].
 
 ## Troupes
 * [[No Frills]] (2013-Present)
+* [[Bad Font]] (2013-Present)
 
 ## Shows
 * *[[The Next Chapter]]*
