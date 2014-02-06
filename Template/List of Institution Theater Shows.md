@@ -6,6 +6,8 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[The Triple Scoop]]*
 ### Mainstage Productions
 * *[[Bad Girls in Plaid Skirts]]*
+* *[[Fuck It's Christmas]]*
+* *[[Fuck It's Hot]]*
 * *[[Hell & Back Cabaret]]* (2013)
 * *[[Hurly Burly]]* 
 * *[[The Joss Whedon Pajama Party]]* 
