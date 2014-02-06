@@ -20,3 +20,4 @@ The troupe produced "Stab Comedy", a Halloween-themed sketch show, as a mainstag
 
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
