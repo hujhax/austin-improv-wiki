@@ -9,10 +9,10 @@
 |Music	=	[[Jason Laney]]
 }}
 
-***Rapture the Flag*** (AKA **No Holes Bear'd**) was a comedy revue at [[ColdTowne Theater]] themed around the [[Wikipedia - Rapture|Rapture]]. It ran on Fridays at 8:30 during November 2010.
+***Rapture the Flag*** (AKA **No Holes Bear'd**) was a comedy revue at [[ColdTowne Theater]] themed around the [[Wikipedia - Rapture|Rapture]].
 
 ## Summary
-The show included sketch, improv, song, and dance.
+The show included sketch, improv, song, and dance. It ran on Fridays at 8:30 during November 2010.
 
 
 ## More Information
