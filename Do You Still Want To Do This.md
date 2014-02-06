@@ -19,6 +19,5 @@ When Alex moved away to Los Angeles in 2014, the duo went on hiatus.
 ## More Information
 *[http://www.facebook.com/doyoustillwanttodothis The duo's facebook page.]
 
-[[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
