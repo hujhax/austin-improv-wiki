@@ -18,6 +18,6 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[Only Three Will Survive]]*
 * *[[Pulp Friction]]*
 * *[[The Suitcase]]* (2013)
-* *[[Trust No One]]*
 * *[[This American Live]]*
+* *[[Trust No One]]*
 * *[[You Think You're So Smart]]*
