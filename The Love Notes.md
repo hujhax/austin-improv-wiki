@@ -27,4 +27,4 @@ The troupe performed in [[WaffleFest 2009]], [[The 40-Hour Improv Marathon]], an
 * [http://www.facebook.com/groups/137197575746/ Facebook group for the troupe.]
 * [http://forum.austinimprov.com/viewtopic.php?t=9920&p=86218 Announcement] of their "Where in the World?" run on [[The Austin Improv Forums]].
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Love Notes]]
