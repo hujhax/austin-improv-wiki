@@ -39,7 +39,8 @@ Eventually [[Asaf Ronen]], Education Director of [[The Institution Theater]], an
 * 1/24/14 preview performance: [http://vimeo.com/85125217].
 
 ### Photos
-* 11/2/09 dress rehearsal: [http://www.facebook.com/hujhax/media_set?set=a.206913962264.157845.588952264&type=3 photoset] by [[Peter Rogers]].
+* 1/24/14 preview performance: [http://controlimages.zenfolio.com/breaking_beckett_reginald_39] by [[Roy Moore]], Control Images.
+* 1/24/14 preview performance: [https://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104172328452210.1073741850.7909117&type=3] by [[Heidi Rogers]].
 
 ## More Information
 * The show's Facebook page: 
