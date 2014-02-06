@@ -1,7 +1,7 @@
 {{Infobox Show
 |Name	=	Breaking Beckett	
 |Picture=	Breaking Beckett Poster Ryan.png
-|Theater=	[[The Institution Theatre]]
+|Theater=	[[The Institution Theater]]
 |Director = [[Bob Olmstead]]
 |Cast	= {{Unbulleted list | [[Ryan Hill]] | [[Marc Majcher]] | [[Jayme Ramsey]]}}
 |Tech  = [[Mark Shoemaker]]
