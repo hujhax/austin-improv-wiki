@@ -44,7 +44,7 @@ Paul was a teaching assistant at [[The Hideout Theatre]] in 2013.
 * *[[Maestro]]* (2000-)
 * *[[Maestro Raw]]* (2012-)
 * *[[Pick Your Own Path]]*
-
+* *[[Elf Employment]]*
 
 
 [[Category/Performers|Normandin]]
