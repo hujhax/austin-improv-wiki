@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Bob Olmstead	
-|Picture =	Bob Olmstead Pic.jpg
+|Picture =	Bob Olmstead 2 Pic.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2010-Present
 }}
