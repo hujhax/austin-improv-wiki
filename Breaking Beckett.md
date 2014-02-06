@@ -46,4 +46,4 @@ Eventually [[Asaf Ronen]], Education Director of [[The Institution Theater]], an
 * The show's Facebook page: [https://www.facebook.com/BreakingBeckett]
 
 [[Category/Shows|Category:Shows]]
-[[Category/The Institution Theatre|Category:The Institution Theatre]]
+[[Category/The Institution Theater|Category:The Institution Theater]]
