@@ -16,3 +16,4 @@ In November 2014, the troupe will present "Pilgrims Are From Mars" at [[ColdTown
 * [http://www.facebook.com/winkplanet The troupe's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
