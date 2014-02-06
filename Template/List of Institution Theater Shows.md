@@ -11,6 +11,7 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[The Joss Whedon Pajama Party]]* 
 * *[[Live TV Tuesdays]]*
 * *[[Manson -  The Musical]]*
+* *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
 * *[[The Next Chapter]]* (2013)
 * *[[Only Three Will Survive]]*
 * *[[Pulp Friction]]*
