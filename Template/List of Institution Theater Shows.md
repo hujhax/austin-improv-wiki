@@ -7,10 +7,13 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 ### Mainstage Productions
 * *[[Bad Girls in Plaid Skirts]]*
 * *[[Hell & Back Cabaret]]* (2013)
+* *[[Hurly Burly]]* 
 * *[[Live TV Tuesdays]]*
 * *[[Manson -  The Musical]]*
 * *[[The Next Chapter]]* (2013)
 * *[[Only Three Will Survive]]*
 * *[[Pulp Friction]]*
 * *[[The Suitcase]]* (2013)
+* *[[Trust No One]]*
 * *[[This American Live]]*
+* *[[You Think You're So Smart]]*
