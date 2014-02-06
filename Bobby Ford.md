@@ -25,6 +25,7 @@ Bob is a fully out *Star Wars* nerd, owner/operator of Rogue Sage, a gifted publ
 * *[[The Fancy-Pants Mashup]]*
 * *[[Pick Your Own Path]]*
 * *[[The Tribunal]]* (2012 Cast)
-*"[[The ReSet Project]]"
+* *[[The ReSet Project]]*
+* *[[Breaking Beckett]]*
 
-[[Category/Performers|Olmstead]]
+[[Category/Performers|Olmstead][Category:Directors:Olmstead]]
