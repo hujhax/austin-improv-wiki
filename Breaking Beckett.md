@@ -43,7 +43,7 @@ Eventually [[Asaf Ronen]], Education Director of [[The Institution Theater]], an
 * 1/24/14 preview performance: [https://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104172328452210.1073741850.7909117&type=3] by [[Heidi Rogers]].
 
 ## More Information
-* The show's Facebook page: 
+* The show's Facebook page: [https://www.facebook.com/BreakingBeckett]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theatre|Category:The Institution Theatre]]
