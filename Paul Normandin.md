@@ -22,7 +22,7 @@ He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Thea
 
 Paul is a regular performer at [[Austin No Shame Theater]].  
 
-Paul is currently a teaching assistant at [[The Hideout Theatre]].
+Paul was a teaching assistant at [[The Hideout Theatre]] in 2013.
 
 ## Troupes
 * [[Apocalypse]] (2012)
