@@ -8,6 +8,7 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[Bad Girls in Plaid Skirts]]*
 * *[[Hell & Back Cabaret]]* (2013)
 * *[[Hurly Burly]]* 
+* *[[The Joss Whedon Pajama Party]]* 
 * *[[Live TV Tuesdays]]*
 * *[[Manson -  The Musical]]*
 * *[[The Next Chapter]]* (2013)
