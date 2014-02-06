@@ -48,4 +48,4 @@ After [[Menelaos Prokos]] went back to his home country of Greece, The Foreign L
 *[http://www.youtube.com/watch?feature=player_embedded&v=eVpYWvVfPkI KUT Video feature of The Foreign Legion]
 *[http://www.steve-rogers-photography.com/ImprovPerformances/Foreign-Legion Photo sets at Steve Rogers Photography]
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Foreign Legion]]
