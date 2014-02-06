@@ -28,4 +28,5 @@ Bob is a fully out *Star Wars* nerd, owner/operator of Rogue Sage, a gifted publ
 * *[[The ReSet Project]]*
 * *[[Breaking Beckett]]*
 
-[[Category/Performers|Olmstead][Category:Directors:Olmstead]]
+[[Category/Performers|Olmstead]]
+[[Category/Directors - Olmstead|Category:Directors:Olmstead]]
