@@ -3,7 +3,7 @@
 |Picture=	Breaking Beckett.jpg
 |Theater=	[[The Institution Theatre]]
 |Director = [[Bob Olmstead]]
-|Cast	= {{Unbulleted list | [[Ryan Hill]] | [[Marc Machjer]] | [[Jayme Ramsey]]}}
+|Cast	= {{Unbulleted list | [[Ryan Hill]] | [[Marc Majcher]] | [[Jayme Ramsey]]}}
 |Tech  = [[Mark Shoemaker]]
 |Music = [[Content Knowles]]
 |Preview = January 2014
@@ -30,7 +30,7 @@ The second act begins with Beckett narrating and moving the cast into *Play* pos
 The third act begins with Beckett standing and the cast removing their costume scarves and moving to the front of the stage. Beckett narrates and a tight spot settles on each actor in turn. They identify themselves by their real (actor's) names and monologue on their personal experience with the subject matter of the show and their reactions to it. The act ends with the cast and director all standing together center stage with music and the lights slowly fading.
 
 ### History
-***Breaking Beckett*** is the brainchild of [[Bob Olmstead]]. He approached [[Ryan Hill]], [[Marc Machjer]], and [[Jayme Ramsey]] about it and began rehearsals without knowing where the show would happen. Rehearsals lasted several months at the end of 2013. The show developed collaboratively during that time with leadership from Olmstead. Olmstead consulted with [[Kareem Badr]] and [[Kaci Danger]] about show structure, makeup, design, etc.
+***Breaking Beckett*** is the brainchild of [[Bob Olmstead]]. He approached [[Ryan Hill]], [[Marc Majcher]], and [[Jayme Ramsey]] about it and began rehearsals without knowing where the show would happen. Rehearsals lasted several months at the end of 2013. The show developed collaboratively during that time with leadership from Olmstead. Olmstead consulted with [[Kareem Badr]] and [[Kaci Danger]] about show structure, makeup, design, etc.
 
 Eventually [[Asaf Ronen]], Education Director of [[The Institution Theater]], and a Beckett enthusiast, agreed to put up the show. A preview show took place on January 15, 2014 and two more shows are planned for March 2014 at [[The Institution Theater]]. A longer run for later in the year at another theater is in the works.
 
