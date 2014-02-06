@@ -31,4 +31,4 @@ Each cast member acted in the style of a particular playwright, as follows:
 * [http://www.facebook.com/hujhax/media_set?set=a.447239482264.218623.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/28/10 show.
 
 ## More Information
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Plagiarists]]
