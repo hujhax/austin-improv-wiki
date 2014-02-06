@@ -9,7 +9,7 @@
 |Music	=	[[Jason Laney]]
 }}
 
-***Rapture the Flag*** (AKA **No Holes Bear'd**) was a comedy revue at [[ColdTowne Theater]] themed around the rapture.
+***Rapture the Flag*** (AKA **No Holes Bear'd**) was a comedy revue at [[ColdTowne Theater]] themed around the [[Wikipedia - Rapture|Rapture]].
 
 ## Summary
 The show included sketch, improv, song, and dance.
