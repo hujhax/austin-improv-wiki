@@ -5,7 +5,7 @@
 |Director = [[Bob Olmstead]]
 |Cast	= {{Unbulleted list | [[Ryan Hill]] | [[Marc Majcher]] | [[Jayme Ramsey]]}}
 |Tech  = [[Mark Shoemaker]]
-|Music = [[Content Knowles]]
+|Music = [[Content Love Knowles]]
 |Preview = January 2014
 |Run	=	Mar 2014
 }}
