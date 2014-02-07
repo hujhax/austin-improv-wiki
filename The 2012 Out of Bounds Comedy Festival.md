@@ -174,5 +174,9 @@ The festival roast featured [[David Lampe]].
 * Ryan Douglass
 * Steven Farmer
 
+## Media
+### Videos
+* [http://www.facebook.com/photo.php?v=10151033461051953 Video] by [[Mitchell Deane]] of the roast of [[David Lampe]].
+
 ## More Information
 * [http://www.outofboundscomedy.com/2012/ The 2012 Out of Bounds web site.]
