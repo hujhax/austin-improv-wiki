@@ -21,3 +21,6 @@
 * *[[The Suitcase]]*
 * *[[Twilight Zoned]]*
 * *[[The Violet Underbelly]]*
+
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2246910 Interview] with Lampe on *[[The Theft Forum]]*.
