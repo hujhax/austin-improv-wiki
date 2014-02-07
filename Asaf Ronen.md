@@ -37,3 +37,6 @@ Asaf has taught throughout NYC's public school system as a resident artist throu
 * *[[Sickest Fing Stories]]* (director)
 * *[[Spirited]]* (director)
 * *[[The Suitcase]]* (director)
+
+## More Information
+* Interview with Asaf Ronen on *[[The Theft Forum]]*: [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2215619 part 1 (Asaf's history with improv)], [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2225837 part 2 (Asaf's thoughts about improv)].
