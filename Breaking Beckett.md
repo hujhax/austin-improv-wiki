@@ -10,7 +10,7 @@
 |Run	=	Mar 2014
 }}
 
-***Breaking Becket*** was a longform narrative show inspired by the works of [[Wikipedia - Samuel Beckett|Samuel Beckett]].
+***Breaking Becket*** is a longform narrative show inspired by the works of [[Wikipedia - Samuel Beckett|Samuel Beckett]].
 
 ## Summary
 Breaking Beckett examines the moments we tend to not share: moments of heartbreak or overwhelming despair, childhood innocence lost, the shame of our most serious mistakes, all filtered through the work of Samuel Beckett. Inspired by but not beholden to the author’s absurdist one-act plays, the actors will adhere to the choreography of the pieces while following their own improvised storylines. This will both honor the playwright and sacrilegiously go against his scripted wishes, for a unique exploration of the light and dark edges of human experience that will only ever be witnessed by that night’s audience.
