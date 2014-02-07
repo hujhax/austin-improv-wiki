@@ -32,6 +32,7 @@ Their bio, from their web site:
 
 ## More Information
 * [http://midnightsociety.org/ The troupe's website.]
- 
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2639408 Interview] with the troupe on *[[The Theft Forum]]*.
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
