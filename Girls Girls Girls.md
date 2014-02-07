@@ -131,6 +131,8 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 
 ## More Information
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2398141 Interview] with cast members [[Aden Kirschner]] and [[Shana Merlin]] on *[[The Theft Forum]]*.
+
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]
