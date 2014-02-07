@@ -36,7 +36,7 @@ The third act begins with Sam standing and removing his and the cast removing th
 The robust collaboration process with the cast was comprehensive, constantly fine tuning elements that Olmstead would then incorporate into the overall vision. For example, the idea of the protagonist wearing a scarf came from the cast but then evolved multiple times into its current staging, a great example of the kind of collaboration involved in developing the show. Another example is the stomp mechanics, which Olmstead had some very specific ideas about. Marc Majcher helped to refine the idea into key transitions while Ryan Hill came up with the idea of using the three stomp pattern for all transitions. In watching Jayme Ramsey's amazing physicality, it hit Bob that the stomping in Act One was a march of daily drudgery and routine. The result is the look and feel that you see today, in Act One.
  
 
-At the core of the show was a mantra taken directly from a Beckett quote, **"I pause to record that I feel in extraordinary form."***Italic text*
+At the core of the show was a mantra taken directly from a Beckett quote, **"I pause to record that I feel in extraordinary form."**'''
 
 
 Bob also consulted with [[Kareem Badr]] and [[Kaci Danger]] about show structure, makeup, design, narration and more, which played a very key role in the polish of the show.
