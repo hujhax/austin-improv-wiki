@@ -51,8 +51,9 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200173474242320.1073741840.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 7/18/13 performance in *[[The Free Fringe]]*.
 
 ## More Information
-*[https://www.facebook.com/InOurPrime In Our Prime facebook page]
-*[http://www.inourprimeimprov.com/ In Our Prime website]
+* [http://www.facebook.com/InOurPrime In Our Prime facebook page]
+* [http://www.inourprimeimprov.com/ In Our Prime website]
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2089910 Interview] with the troupe on *[[The Theft Forum]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
