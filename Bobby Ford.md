@@ -17,7 +17,7 @@ Bobby and Paulie were two characters the pair often played while in class.  Afte
 Bob is a fully out *Star Wars* nerd, owner/operator of Rogue Sage, a gifted public speaker and a true business Jedi.  On the filmmaking side, he has produced and directed two dramatic short films which have toured internationally. His filmmaking studies include work with the University of Texas, Sundance Shorts, Microbudget Film School, Meisner for Directors - Los Angeles and FilmWorks Austin . Bob has two beloved dogs, Wicket and Peanut and has called Austin home since 1987.
 
 ## Breaking Beckett
-In late 2013 Bob began working on [[Breaking Beckett]], which he went on to direct.
+In late 2013 Bob began working on an idea to bring dramatic absurdist theater to improv, [[Breaking Beckett]], which he went on to direct. Breaking Beckett examines the moments we tend to not share: moments of heartbreak or overwhelming despair, childhood innocence lost, the shame of our most serious mistakes, all filtered through the work of Samuel Beckett. Inspired by but not beholden to the author’s absurdist one-act plays, the actors will adhere to the choreography of the pieces while following their own improvised storylines.
 
 ## Troupes
 * [[Two Guys From Yonkers]] (2011 - Present)
