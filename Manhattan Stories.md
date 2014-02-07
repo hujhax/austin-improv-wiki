@@ -35,5 +35,8 @@ It originally ran in July/August of 2012 but was extended through September.
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/manhattan-stories-set/manhattan-stories-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
 
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2048029 Interview] with directors [[Valerie Ward]] and [[Jon Bolden]] and cast members [[Nicole Beckley]] and [[Marc Majcher]] on *[[The Theft Forum]]*.
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
