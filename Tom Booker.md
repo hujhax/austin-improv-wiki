@@ -32,5 +32,8 @@ He's a really nice guy. You should meet him.
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (director)
 * *[[Pulp Friction]]* (director)
 
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2424971 Interview] with Tom on *[[The Theft Forum]]*.
+
 [[Category/Performers|Booker]]
 [[Category/Directors|Booker]]
