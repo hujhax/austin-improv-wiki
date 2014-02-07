@@ -31,6 +31,8 @@ She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour 
 * *[[Live Nude Improv]]*
 * *[[Strange Worlds]]* (Maxine Maker)
 
-[[Category/Performers|Arjet]]
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2628012 Interview] with Jessica on *[[The Theft Forum]]*.
 
+[[Category/Performers|Arjet]]
 [[Category/Teachers|Arjet]]
