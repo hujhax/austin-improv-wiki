@@ -39,10 +39,7 @@ The robust collaboration process with the cast was comprehensive, constantly fin
 At the core of the show was a mantra taken directly from a Beckett quote, **"I pause to record that I feel in extraordinary form."**'''
 
 
-Bob also consulted with [[Kareem Badr]] and [[Kaci Danger]] about show structure, makeup, design, narration and more, which played a very key role in the polish of the show.
-
-
-Eventually [[Asaf Ronen]], Education Director of [[The Institution Theater]], and a Beckett enthusiast, agreed to put up the show, helping Bob nail down the last few elements of lighting. A preview show took place on January 15, 2014 and two more shows are planned for March 2014 at [[The Institution Theater]]. A longer run for later in the year at another theater is in the works.
+Bob also consulted with [[Kareem Badr]] and [[Kaci Danger]] about show structure, makeup, design, narration and more, which played a very key role in the polish of the show. Eventually [[Asaf Ronen]], Education Director of [[The Institution Theater]], and a Beckett enthusiast, agreed to put up the show, helping Bob nail down the last few elements of lighting. A preview show took place on January 15, 2014 and two more shows are planned for March 2014 at [[The Institution Theater]]. A longer run for later in the year at another theater is in the works.
 
 ## Media
 ### Videos
