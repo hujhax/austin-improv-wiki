@@ -31,4 +31,7 @@ In 2012, Liz moved to Seattle.
 * *[[Who Is T. Henry Baudecliffe]]*
 * *[[ColdTowne Mainstage]]*
 
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041256 Interview] with Liz on *[[The Theft Forum]]*.
+
 [[Category/Performers|Brammer]]
