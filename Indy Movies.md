@@ -20,5 +20,6 @@ The show included stage-blood effects and fight choreography.
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=15381 Audition announcement] on [[The Austin Improv Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=15497 Show announcement] on [[The Austin Improv Forums]].
 * [http://yesandrew.com/2013/08/21/there-will-be-fake-blood/comment-page-1 A review of the show] by [[Andrew Buck]] on his blog.
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2461457 Interview] with director [[Cody Dearing]] and cast member [[Chrissy Shackelford]] on *[[The Theft Forum]]*.
 
 [[Category/Shows|Category:Shows]]
