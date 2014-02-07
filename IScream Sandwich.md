@@ -25,6 +25,7 @@ They perform a modified Harold, with a much looser structure.
 
 ## More Information
 * [http://www.facebook.com/iScreamSandwich The troupe's facebook page.]
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2191988 Interview] with the troupe on *[[The Theft Forum]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
