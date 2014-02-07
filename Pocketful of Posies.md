@@ -28,4 +28,7 @@
 ** [http://www.facebook.com/michael.yew/media_set?set=a.3471523349559.128816.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10151211225352265.507819.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/18/12 performance.
 
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2035639 Interview] with cast members [[Kristin Firth]], [[Brad Hawkins]], [[Ruby Willmann]], and [[Ryan Austin]] on *[[The Theft Forum]]*.
+
 [[Category/Shows|Pocketful]]
