@@ -5,9 +5,7 @@
 |Years	=	2009-Present
 }}
 
-
 **Brett Tribe** is a graduate of the [[ColdTowne]] Conservatory as well as Binghamton University's Theatre Arts program. He currently performs with [[Bad Boys Improv]], [[The Intentions]], and [[Faster, Robot! Kill! Kill!]].  Cast in [[Fakespeare]] as Macbeth in "Macbeth" and Verges in "Much Ado About Nothing". Renowned for his Facebook antics. Has been referred to as 'the hardest working man in Austin Improv' but this title may no longer be accurate.
-
 
 ## Previous Projects
 * [[Achatina! Achatina!]] 
@@ -28,5 +26,8 @@
 * Official nomination for B. Iden Payne award with Bad Boys 2012
 * Official nomination for B. Iden Payne award with Bad Boys 2013
 * National Academy of Sports Medicine Certified Personal Trainer 2013
+
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2178013 Interview] with Brett on *[[The Theft Forum]]*.
 
 [[Category/Performers|Tribe]]
