@@ -47,6 +47,7 @@ They performed their last show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://www.facebook.com/#!/shiftindigo?fref=ts Indigo Shift's Facebook page]
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2474844 Interview] with the troupe on *[[The Theft Forum]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]
