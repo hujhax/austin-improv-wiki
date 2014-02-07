@@ -21,13 +21,13 @@ The production includes projected backdrops, costuming, and theatrical makeup as
 The show opens with the cast already seated on stage in 'stasis' as they have been since the opening of the house.
 
 ### Act I: Walls as inspired by Quad 1 and 2
-The first act begins with Beckett narrating broadly, awakening the cast from stasis, and the cast beginning a rhythmic movement pattern. Beckett takes a suggestion of a name and age. The rhythmic movement continues and is broken for a monologue from the protagonist describing the facts of their life. We return to the rhythmic movement which is again broken for parallel monologues by the supporting characters, an enemy and advocate for the protagonist. The movement returns again, and we see the protagonist's death.
+The first act begins with Beckett narrating broadly, awakening the cast from stasis, and the cast beginning a rhythmic movement pattern. Beckett takes a suggestion of a name and age. The rhythmic movement continues and is broken for a monologue from the protagonist describing the facts of their life. We return to the rhythmic movement which is again broken for parallel monologues by the supporting characters, an antagonist and an advocate for the protagonist. The movements repeat one more time, wherein soon after we see the protagonist's death.
 
 ### Act II: Windows as inspired by Play
-The second act begins with Sam narrating and moving the cast into *Play* position, seated side by side. Three parallel monologues describing the protagonist's life from their three different points of view, all after death, is the basis for this act. 
+The second act begins with Sam narrating and moving the cast into *Play* position, seated side by side, a new act with a new look. Three parallel monologues that explore life after death, the same three characters from Act One, is the basis of Act Two. As well, the Beckett mechanics differ significantly then those in Act One.
 
-### Act III: The Fireplace as inspired by Not I
-The third act begins with Sam standing and removing his and the cast removing their costume scarves and moving to the front of the stage. Sam narrates and a tight spot settles on each actor in turn. They identify themselves by their real (actor's) names and monologue on their personal experience with the subject matter of the show and their reactions to it. The act ends with the cast and director all standing together center stage with music and the lights slowly fading.
+### Act III: The Fireplace as inspired by Not, I
+The third act begins with Sam standing and removing his scarf, the cast follows removing their costume scarves and moving to the front of the stage. One by one, director to actor, we seem them in a whole new light, transparent and vulnerable, a very unique tilt that shatters the fourth wall. As well, all of Act Three is spot lit.
 
 ## History
 ***Breaking Beckett*** is the brainchild of [[Bob Olmstead]]. He approached [[Ryan Hill]], [[Marc Majcher]], and [[Jayme Ramsey]] about it and began rehearsals without knowing where the show would happen. Rehearsals lasted several months at the end of 2013. Olmstead developed the core format after the first rehearsal, turning the idea into a full length show. Over a period of three months, the cast then worked closely with Bob on locking down all of the detailed mechanics necessary to bring this vision to life. 
