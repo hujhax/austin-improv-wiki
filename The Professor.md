@@ -120,6 +120,7 @@ The run featured tech by [[Michael Yew]].
 * [http://forum.austinimprov.com/viewtopic.php?p=110925 Cast announcement for season one.]
 * [http://forum.austinimprov.com/viewtopic.php?t=12879 Cast announcement for season two.]
 * [http://forum.austinimprov.com/viewtopic.php?t=13189 Show announcement for season two.]
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041810 2012 Interview] with director [[Justin Davis]] and cast members [[Ryan Austin]], [[Emily Breedlove]], [[Colin Thomas Bates]], and [[Peter Rogers]]. on *[[The Theft Forum]]*.
 * [http://www.tor.com/blogs/2012/04/time-and-relative-dimensions-in-improv-the-professor A 2012 Tor.com blog story about season two.]
 * [http://www.facebook.com/events/1424792731066029/ Facebook event for the third season.]
 
