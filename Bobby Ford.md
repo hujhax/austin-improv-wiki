@@ -29,7 +29,7 @@ In late 2013 Bob began working on an idea to bring dramatic absurdist theater to
 * *[[Pick Your Own Path]]*
 * *[[The Tribunal]]* (2012 Cast)
 * *[[The ReSet Project]]*
-* *[[Breaking Beckett]]*
+* *[[Breaking Beckett]]* (Producer/Director)
 
 [[Category/Performers|Olmstead]]
 [[Category/Directors|Olmstead]]
