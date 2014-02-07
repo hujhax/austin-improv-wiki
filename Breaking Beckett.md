@@ -26,7 +26,7 @@ The first act begins with Beckett narrating broadly, awakening the cast from sta
 ### Act II: Windows as inspired by Play
 The second act begins with Sam narrating and moving the cast into *Play* position, seated side by side. Three parallel monologues describing the protagonist's life from their three different points of view, all after death, is the basis for this act. 
 
-### Act III: The Fireplace inspired by Not I
+### Act III: The Fireplace as inspired by Not I
 The third act begins with Sam standing and removing his and the cast removing their costume scarves and moving to the front of the stage. Sam narrates and a tight spot settles on each actor in turn. They identify themselves by their real (actor's) names and monologue on their personal experience with the subject matter of the show and their reactions to it. The act ends with the cast and director all standing together center stage with music and the lights slowly fading.
 
 ## History
