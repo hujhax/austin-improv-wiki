@@ -21,3 +21,6 @@
 * *[[Live Nude Improv]]* (director)
 * *[[Fandom]]* (co-director)
 * *[[Fakespeare]]* (director)
+
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2389786 Interview] with Andy on *[[The Theft Forum]]*.
