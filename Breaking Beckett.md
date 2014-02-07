@@ -32,11 +32,15 @@ The third act begins with Sam standing and removing his and the cast removing th
 ## History
 ***Breaking Beckett*** is the brainchild of [[Bob Olmstead]]. He approached [[Ryan Hill]], [[Marc Majcher]], and [[Jayme Ramsey]] about it and began rehearsals without knowing where the show would happen. Rehearsals lasted several months at the end of 2013. Olmstead developed the core format after the first rehearsal, turning the idea into a full length show. Over a period of three months, the cast then worked closely with Bob on locking down all of the detailed mechanics necessary to bring this vision to life. 
 
-The robust collaboration process with the cast was comprehensive, constantly fine tuning elements that Olmstead would then incorporate into the overall vision. For example, the idea of the protagonist wearing a scarf came from the cast but then evolved multiple times into its current staging, a great example of the kind of collaboration involved in developing the show. Another example is the stomp mechanics, which Olmstead had some very specific ideas about. Marc Majcher helped to refine the idea into key transitions while Ryan Hill came up with the idea of using the three stomp pattern for all transitions. In watching Jayme Ramsey's amazing physicality, it hit Bob that the stomping in Act One was a march of daily drudgery and routine. The result is the look and feel that you see today, in Act One. 
 
-At the core of the show was a mantra taken directly from a Beckett quote, "I pause to record that I feel in extraordinary form."
+The robust collaboration process with the cast was comprehensive, constantly fine tuning elements that Olmstead would then incorporate into the overall vision. For example, the idea of the protagonist wearing a scarf came from the cast but then evolved multiple times into its current staging, a great example of the kind of collaboration involved in developing the show. Another example is the stomp mechanics, which Olmstead had some very specific ideas about. Marc Majcher helped to refine the idea into key transitions while Ryan Hill came up with the idea of using the three stomp pattern for all transitions. In watching Jayme Ramsey's amazing physicality, it hit Bob that the stomping in Act One was a march of daily drudgery and routine. The result is the look and feel that you see today, in Act One.
+ 
+
+At the core of the show was a mantra taken directly from a Beckett quote, **"I pause to record that I feel in extraordinary form."***Italic text*
+
 
 Bob also consulted with [[Kareem Badr]] and [[Kaci Danger]] about show structure, makeup, design, narration and more, which played a very key role in the polish of the show.
+
 
 Eventually [[Asaf Ronen]], Education Director of [[The Institution Theater]], and a Beckett enthusiast, agreed to put up the show, helping Bob nail down the last few elements of lighting. A preview show took place on January 15, 2014 and two more shows are planned for March 2014 at [[The Institution Theater]]. A longer run for later in the year at another theater is in the works.
 
