@@ -26,5 +26,8 @@ Sarah Marie moved to Austin Texas in November of 2007 with the intention of expa
 * *[[Racket]]* (director, performer)
 * *[[Spirited]]*
 
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2207805 Interview] with Sarah Marie on *[[The Theft Forum]]*.
+
 [[Category/Performers|Curry]]
 [[Category/Teachers|Curry]]
