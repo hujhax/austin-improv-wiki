@@ -32,6 +32,9 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * *[[This Week Tonight]]* 
 * *[[The Violet Underbelly]]* (director)
 
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2441797 Interview] with Kareem on *[[The Theft Forum]]*.
+
 [[Category/Performers|Badr]]
 [[Category/Teachers|Badr]]
 [[Category/Directors|Badr]]
