@@ -117,7 +117,7 @@ After the ceremony, winners will be listed in **bold text**.
 * "These aren't words. Is this Braille?" -- [[Regina Soto]], seeing Hebrew for the first time with troupe [[The Better Half]] in *[[The Triple Scoop]]*, 11/2/13.
 * "As God is my pendulum, I swing both ways" -- [[Caeriel Crestin]] in *[[The Rubber Room]]*, 1/6/13.
 * "So I took one of those 'What Knight Are You' online tests... I'm 56% Lancelot, 22% Robb Stark, and 5% M. Night Shyamalan." -- [[Luke Wallens]] in "The Key Party".
-* "Okay, zombies. 5, 6, 7, 8... *cause this is thrillerrrrrr.'" -- [[Luke Wallens]] in *[[The Next Chapter]]''.
+* "Okay, zombies. 5, 6, 7, 8... *'cause this is thrillerrrrrr!*" -- [[Luke Wallens]] in *[[The Next Chapter]]*.
 
 ## Media
 ### Videos
