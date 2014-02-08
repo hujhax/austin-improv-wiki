@@ -60,6 +60,7 @@ This is their bio from their web site:
 * [http://www.viddler.com/v/2a1b2ab3 Video of their 2/16/13 show.] ("Jury Duty")
 * [http://vimeo.com/69454380 Video of their 6/22/13 performance] in [[The 44-Hour Improv Marathon]].
 * [http://vimeo.com/74439292 Video of their 8/31/13 performance] in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/81238166 The video intro for their "100 Shows and C#nting" performance.]
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/25/09 show.
