@@ -7,3 +7,4 @@ The awards, colloquially known as the "TITies", were first given out in 2013.  L
 
 ## List of Institution Theater Awards Ceremonies
 * [[The 2013 Institution Theater Awards]]
+* [[The 2014 Institution Theater Awards]]
