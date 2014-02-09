@@ -40,5 +40,6 @@ Fabis was born in Düsseldorf, Germany.
 * *[[Showdown]]*
 * *[[Spirited]]*
 * *[[Strange Worlds]]*
+* *[[Trust No One]]*
 
 [[Category/Performers|Fabis]]
