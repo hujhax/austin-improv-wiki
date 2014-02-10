@@ -23,9 +23,10 @@ Jo first got into improv when she took the first class offered by [[The Institut
 * [[Tight Cookie]]
 
 ## Shows
+* *[[Thinning the Herd -  Season Three]]* (producer)
 * *[[Bad Girls in Plaid Skirts]]* (Juanita)
 * *[[Danger! The Improvised Lifetime Movie]]*
-* *[[Flying Theater Machine]]*
+* *[[Flying Theater Machine]]* (regular cast member 2013- present)
 * *[[The Informal Pig Show]]*
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Manson -  The Musical]]* (Katie)
