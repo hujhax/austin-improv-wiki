@@ -11,7 +11,7 @@
 Jo performs regularly in Austin, mostly improv, but some scripted work and hosting as well.  She also produces and directs, and has TA'd at The Institution and Hideout theatres. Soon she will be teaching Level 101 at The Institution.
 
 ## History
-Jo first got into improv when she took the very first class offered by [[The Institution Theater]].  Since then, she's trained the Institution Theater and [[The Hideout Theatre]].  She has taken workshops with Austin visitors Keith Johnstone, Laura Hall, Dave Sheridan, Mark Beltzman, Zach Ward, Jill Bernard and others.
+Jo first got into improv when she took the very first class offered by [[The Institution Theater]].  Since then, she's trained at the Institution Theater and [[The Hideout Theatre]].  She has taken workshops with Austin visitors Keith Johnstone, Laura Hall, Dave Sheridan, Mark Beltzman, Zach Ward, Jill Bernard, and others.
 
 Jo is excited that she was able to perform in London with C3467X in 2013.  Sure, it was just once, but it makes her an international performer!
 
