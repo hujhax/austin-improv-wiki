@@ -24,13 +24,13 @@ Jo first got into improv when she took the first class offered by [[The Institut
 
 ## Shows
 * *[[Thinning the Herd -  Season Three]]* (producer)
-* *[[Bad Girls in Plaid Skirts]]* (Juanita)
+* *[[Bad Girls in Plaid Skirts]]* (Juanita, 1-time fill in)
 * *[[Danger! The Improvised Lifetime Movie]]*
 * *[[Flying Theater Machine]]* (regular cast member 2013- present)
 * *[[The Informal Pig Show]]*
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Manson -  The Musical]]* (Katie)
-* *[[The Moral Compass Rumpus]]*
+* *[[The Moral Compass Rumpus]]*(performer, 1-time fill in)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (tech)
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (stage manager)
