@@ -8,8 +8,7 @@
 **Madeline Jo Chauvin** is an improv performer.
 
 ## Summary
-Jo is a frequent host at [[The Institution Theater]] for shows like *[[Clusterfunk]]* and *[[The Triple Scoop]]*.
-She also hosted at OOB.
+Jo performs regularly in Austin, mostly improv, but some scripted work and hosting as well.  She also produces and directs, and has TA'd at The Institution and Hideout theatres. Soon she will be teaching Level 101 at The Institution.
 
 ## History
 Jo first got into improv when she took the very first class offered by [[The Institution Theater]].  Since then, she's trained the Institution Theater and [[The Hideout Theatre]].  She has taken workshops with Austin visitors Keith Johnstone, Laura Hall, Dave Sheridan, Mark Beltzman, Zach Ward, Jill Bernard and others.
