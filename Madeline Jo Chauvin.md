@@ -24,14 +24,15 @@ Jo is excited that she was able to perform in London with C3467X in 2013.  Sure,
 * [[Tight Cookie]]
 
 ## Shows
+* *[[Lovefest]]* (performer, improv)
 * *[[Thinning the Herd -  Season Three]]* (producer)
-* *[[Bad Girls in Plaid Skirts]]* (Juanita, 1-time fill in)
-* *[[Danger! The Improvised Lifetime Movie]]*
-* *[[Flying Theater Machine]]* (regular cast member 2013- present)
-* *[[The Informal Pig Show]]*
+* *[[Bad Girls in Plaid Skirts]]* (performer, scripted, "Juanita", 1-time fill in)
+* *[[Danger! The Improvised Lifetime Movie]]*(performer, improv)
+* *[[Flying Theater Machine]]* (performer, improv 2013- present)
+* *[[The Informal Pig Show]]* (host)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
-* *[[Manson -  The Musical]]* (Katie)
-* *[[The Moral Compass Rumpus]]* (performer, 1-time fill in)
+* *[[Manson -  The Musical]]* (performer, scripted, "Katie")
+* *[[The Moral Compass Rumpus]]* (performer, scripted, 1-time fill in)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (tech)
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (stage manager)
