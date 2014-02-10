@@ -12,7 +12,9 @@ Jo is a frequent host at [[The Institution Theater]] for shows like *[[Clusterfu
 She also hosted at OOB.
 
 ## History
-Jo first got into improv when she took the first class offered by [[The Institution Theater]].  Since then, she's trained at the Institution, [[The Hideout Theatre]], and the DSI Comedy Training Center.  She has taken workshops with Keith Johnstone, Laura Hall, Dave Sheridan, Mark Beltzman, and others.
+Jo first got into improv when she took the very first class offered by [[The Institution Theater]].  Since then, she's trained the Institution Theater and [[The Hideout Theatre]].  She has taken workshops with Austin visitors Keith Johnstone, Laura Hall, Dave Sheridan, Mark Beltzman, Zach Ward, Jill Bernard and others.
+
+Jo is excited that she was able to perform in London with C3467X in 2013.  Sure, it was just once, but it makes her an international performer!
 
 ## Troupes
 * [[The Better Half]]
