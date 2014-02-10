@@ -31,7 +31,7 @@ Jo is excited that she was able to perform in London with C3467X in 2013.  Sure,
 * *[[The Informal Pig Show]]*
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Manson -  The Musical]]* (Katie)
-* *[[The Moral Compass Rumpus]]*(performer, 1-time fill in)
+* *[[The Moral Compass Rumpus]]* (performer, 1-time fill in)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (tech)
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (stage manager)
