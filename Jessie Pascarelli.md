@@ -16,6 +16,7 @@ Jessie is the assistant producer of [[The 44-Hour Improv Marathon]]. She was the
 * [[Bad Font]]
 
 ## Shows
+* *[[Hurly Burly]]*
 * *[[The Next Chapter]]* (assistant director)
 
 [[Category/Performers|Pascarelli]]
