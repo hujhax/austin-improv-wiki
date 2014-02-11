@@ -19,5 +19,6 @@ Carissa moved from Dallas to Austin in 2011.
 * *[[Live TV Tuesdays -  Party of Five]]* (Julia)
 * *[[Live TV Tuesdays -  Scrubs]]* (choreographer)
 * *[[Live TV Tuesdays -  South Park]]* (Wendy)
+* *[[Manson -  The Musical]]* (choreographer)
 
 [[Category/Performers|McAtee]]
