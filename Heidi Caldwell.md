@@ -22,7 +22,8 @@ Heidi is currently studying to be a Certified Therapeutic Recreational Specialis
 ## Shows
 * *[[Live TV Tuesdays -  Angel]]* (Harmony)
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (director)
-* *[[Live TV Tuesdays -  Party of Five]]* (director)
+* *[[Live TV Tuesdays -  Party of Five]]* (director)]
+* *[[Manson -  The Musical]]*  (Gypsy, Abigail Folger)
 * *[[Not This American Life]]*
 
 [[Category/Performers|Caldwell]]
