@@ -28,6 +28,7 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * *[[After School Improv]]*
 * *[[The Black Vault]]*
 * *[[Fuck It's Christmas]]* (musician)
+* *[[Hurly Burly]]*
 * *[[I Love You So Much]]*
 * *[[Live TV Tuesdays -  Buffy]]*
 * ''[[Love Fest]]
