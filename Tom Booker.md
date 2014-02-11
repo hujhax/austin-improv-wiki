@@ -30,6 +30,7 @@ He's a really nice guy. You should meet him.
 * *[[Live TV Tuesdays -  John Hughes Summer School]]* (director)
 * *[[Live TV Tuesdays -  My So-Called Life]]* (director)
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (director)
+* *[[Manson -  The Musical]]* (director/Vincent Bugliosi)
 * *[[Pulp Friction]]* (director)
 
 ## More Information
