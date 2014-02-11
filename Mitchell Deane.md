@@ -28,7 +28,7 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 * *[[Love Fest]]*
 * *[[Maestro Raw]]*
 * *[[Maestro]]*
-* *[[Manson -  The Musical]]*
+* *[[Manson -  The Musical]]* (Beatle/Monkee/Beach Boy)
 * *[[The Nightmare Video Project]]*
 * *[[Pick Your Own Path]]*
 * *[[RPG Story]]*
