@@ -18,5 +18,6 @@ In late 2008, Josh moved in with [[Arthur Simone]], co-founder of [[ColdTowne Th
 
 ## Shows
 * *[[Dear Frailty]]* (tech)
+* *[[Manson -  The Musical]]*  (Tex Watson)
 
 [[Category/Performers|Gill]]
