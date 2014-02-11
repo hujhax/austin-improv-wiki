@@ -17,6 +17,7 @@ Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Th
 * *[[The Black Vault]]*
 * *[[The Cherry Bowl]]* (Anya)
 * *[[The Fancy-Pants Mashup]]*
+* *[[Hurly Burly]]* (co-director)
 * *[[Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
 * *[[Maestro]]*
 * *[[Pick Your Own Path]]*
