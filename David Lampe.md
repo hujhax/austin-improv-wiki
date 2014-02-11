@@ -15,6 +15,7 @@
 ## Shows
 * *[[Cops & Lawyers]]*
 * *[[Hitchcocked!]]*
+* *[[Manson -  The Musical]]* (Beatle/Monkee/Beach Boy, Judge)
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Sci-Fi Saturdays]]*
 * *[[Start Trekkin']]*
