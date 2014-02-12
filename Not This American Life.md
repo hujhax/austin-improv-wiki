@@ -19,8 +19,8 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * First run, cast by [[Shannon McCormick]] & [[Kerri Lendo]]
 ** Directed and adapted for the stage by [[Michael Ferstenfeld]]
 ** Assistant Directed by [[Ruby Willmann]]
-** Cast & Producers: [[Andy Buck]], [[Emma Holder]], [[Lisa Jackson]], [[Kevin Miller]], [[Heidi Rogers]], [[Luis Salinas]], [[Teresa York]], [[Ruby Willmann]],[[Gene Zhou]] ([[Sam Schak]]tech)
-
+** Cast & Producers: [[Andy Buck]], [[Emma Holder]], [[Lisa Jackson]], [[Kevin Miller]], [[Heidi Rogers]], [[Luis Salinas]], [[Teresa York]], [[Ruby Willmann]], [[Gene Zhou]], [[Sam Schak]] (tech)
+ 
 * Second run, cast, directed, and produced by [[Asaf Ronen]] & [[Michael Ferstenfeld]]
 ** [[Colin Bates]], [[Nicole Beckley]], [[Heidi Caldwell]], [[Annabel Guevara]], [[Dan Kerrigan]], [[Brandon Martin]], [[Kevin Miller]], [[Sam Schak]], [[Mars Wright]], [[Gene Zhou]]
 
