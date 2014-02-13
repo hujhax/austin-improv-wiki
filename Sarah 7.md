@@ -23,9 +23,13 @@ Sarah 7 headlined *[[The Threefer]]* in October 2012.
 * [[Valerie Ward]]
 
 ## Media
+### Videos
+* [http://vimeo.com/35555795 Video of 1/22/12 show.]
+
+### Photos
 * [http://www.facebook.com/media/set/?set=a.394469047415.170839.332822362415&type=1 A photoset] of their appearance at the 2010 [[Ladies Are Funny Festival]].
 * [http://www.facebook.com/media/set/?set=a.435022037139.215390.545242139&type=1 A photoset] by [[Edison Carter]] of their appearance at [[The 2010 Out of Bounds Comedy Festival]] on 9/4/10.
-* [http://vimeo.com/35555795 Video of 1/22/12 show.]
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/12/12 performance at [[The 2012 Ladies Are Funny Festival]].
 
 ## More Information
 * [http://www.facebook.com/pages/Sarah-7/332822362415 The troupe's facebook page.]
