@@ -83,6 +83,8 @@ This is their bio from their web site:
 * [http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/28/12 "Mamet Goes to the Movies" show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2848574976239.115505.1315383518&type=3 Photoset] by [[Michael Yew]] of their 3/19/12 "Mamet Goes to the Movies" show.
 * [http://www.facebook.com/media/set/?set=a.303370379731648.68604.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 3/31/12 "Mamet Goes to the Movies" show.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3
+ Photoset] by [[Claudio Fox]] that includes their 4/1/12 performance in *[[The Weekender]]*.
 * [http://www.facebook.com/media/set/?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] of their 11/10/12 performance [[WaffleFest]].
 * [http://www.facebook.com/media/set/?set=a.340729629323893.83550.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/14/12 show at [[The 2012 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset of the 5/5/12 show] which they shared with [[Girls Girls Girls]] (photos by [[Steve Rogers]]).
