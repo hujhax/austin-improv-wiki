@@ -1,6 +1,6 @@
 **The 2014 Improvised Play Festival** will be the fourth annual [[The Improvised Play Festival|Improvised Play Festival]].
 
-It is scheduled to run from April 10th through April 12th.
+It is scheduled to run from 4/10/14 through 4/12/14.
 
 ## Acts
 ### Local Acts
