@@ -167,6 +167,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 
 #### 2013
 * [http://www.facebook.com/media/set/?set=a.478638782199643.115019.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/19/13 Maestro.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648700138484818.1073741864.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 10/26/13 Maestro.
 
 ## Notes
 <references />
