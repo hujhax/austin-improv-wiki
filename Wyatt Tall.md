@@ -8,7 +8,7 @@
 **Wyatt Tall** is an improv performer.
 
 ## Troupes
-* [[Melting iScream Sandwich]]
+* [[IScream Sandwich]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Bill Haverchuck)
