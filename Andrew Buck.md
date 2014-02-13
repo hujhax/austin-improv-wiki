@@ -19,7 +19,7 @@ Andrew also maintains an improv-related blog at [http://www.yesandrew.com YesAnd
 * *[[Fandom]]*
 * *[[Not This American Life]]*
 * ''[[Braised in Texas]]
-* *[[The JTS Brown Experience]]*
+* *[[Array]]*
 * *[[Past Lives]]*
 * *[[I Love You So Much]]*
 
