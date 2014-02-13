@@ -30,6 +30,7 @@ So far, their formats have been "Secret Agent Men" ([[Wikipedia - James Bond|Jam
 * [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/12/11 and 5/19/11 "Two to Beam Up" performances in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/18/11 "Secret Agent Men" performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/10/12 "Elementary, Dear Holmes" performance in *[[The Threefer]]*.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.415574365130731.94045.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/17/12 "Elementary, Dear Holmes" performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 5/31/12 "Elementary, Dear Holmes" show at *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/2/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/14/12 "Elementary, Dear Holmes" performance.
