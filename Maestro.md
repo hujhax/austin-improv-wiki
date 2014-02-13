@@ -150,9 +150,20 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 #### 2012
 * [http://www.facebook.com/hujhax/media_set?set=a.10150614504637265.443834.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/13/12 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150708161262265.455188.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/18/12 Maestro.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.377574975597337.87417.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 3/24/12 Maestro.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.382232748464893.88476.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 3/31/12 Maestro.
+* [http://www.facebook.com/media/set/?set=a.386083531413148.89245.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 4/7/12 Maestro.
+* [http://www.facebook.com/media/set/?set=a.396656530355848.91289.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 4/21/12 Maestro.
+* [http://www.facebook.com/media/set/?set=a.401211873233647.91991.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 4/27/12 Maestro RAW.
+* [http://www.facebook.com/media/set/?set=a.408064165881751.92831.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 5/5/12 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150981823947265.481249.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/12/12 Maestro.
+* [http://www.facebook.com/media/set/?set=a.420267784661389.94795.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 5/25/12 Maestro RAW.
 * [http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 6/2/12 Maestro (from [[The 43-Hour Improv Marathon]]).
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.436355936385907.97610.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 6/22/12 Maestro RAW.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.456811871006980.102564.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 8/11/12 Maestro.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.474423889245778.107410.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 9/29/12 Maestro.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3755733654639.135694.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/27/12 Maestro.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.491018644252969.111039.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 11/10/12 All-Star Maestro at [[WaffleFest 2012]].
 
 #### 2013
 * [http://www.facebook.com/media/set/?set=a.478638782199643.115019.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/19/13 Maestro.
