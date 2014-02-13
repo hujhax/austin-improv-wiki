@@ -59,6 +59,7 @@ Local Genius Society formed in late 2010 by a group of improv students from [[Th
 * [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/12/11 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.248623315201192.64136.221927764537414&type=3 Their 12/1/11 show] at *[[The Threefer]]* (photoset by [[Steve Rogers]]).
 * [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/6/12 performance at [[The Hideout Theatre]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.369516133069888.85770.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their 3/11/12 show.
 * [http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/12 performance in [[The 2012 Improvised Play Festival]].
 ** [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
