@@ -14,7 +14,7 @@ He is a graduate of the ColdTowne Conservatory at [[ColdTowne Theater]] and has 
 
 ## Shows
 * *[[The Fancy-Pants Mashup]]*
-* *[[The JTS Brown Experience]]*
+* *[[Array]]*
 * *[[Lord Wensleydale’s Last High Tea]]*
 * *[[Pick Your Own Path]]*
 * *[[Sci-Fi Saturdays]]*
