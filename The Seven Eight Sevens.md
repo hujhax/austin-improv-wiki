@@ -20,6 +20,7 @@ The Seven Eight Sevens decided to bring the troupe to a close in the Summer of 2
 
 ## Media
 ### Pictures
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.423932184294949.95441.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/31/12 performance at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3 Photoset] by [[Jon Bolden]] which includes their performance at [[WaffleFest 2012]].
 
 ## More Information
