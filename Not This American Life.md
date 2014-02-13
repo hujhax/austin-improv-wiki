@@ -46,7 +46,7 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * 11/16/12 - Episode 11 - "Secret Identity"
 * 11/23/12 - Episode 12 - "Sense(Less)"
 * 11/30/12 - Episode 13 -  "The Line in the Sand"
-* 12/7/12 - Episode 14 - "Life of Privelege"
+* 12/7/12 - Episode 14 - "Life of Privilege"
 * 12/14/12 - Episode 15 -  "My Strange Habit"
 * 12/21/12 - Episode 16 - "Insufficient Data"
 * 12/28/12 - Episode 17 - "24 Hours"
