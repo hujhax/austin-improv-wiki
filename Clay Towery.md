@@ -2,15 +2,18 @@
 |Name	=	Clay Towery	
 |Picture =	Clay Towery Pic.jpg
 |Theater=	Various
-|Years	=	2010-Present
+|Years	=	2010-2014
 }}
 
-**Clay Towery** is an improv performer.
+**Clay Towery** was an improv performer and director.
 
 ## History
 Clay was a company member of [[Gnap! Theater Projects]].
 
+He passed away the morning of 2/13/14.
+
 ## Troupes
+* [[Dandy]]
 * [[Duck Duck Boom]]
 * [[The Professor]]
 
@@ -33,4 +36,4 @@ Clay was a company member of [[Gnap! Theater Projects]].
 * [http://forum.austinimprov.com/viewtopic.php?p=100274 Clay's self-introduction thread] on [[The AIC Forums]].
 
 [[Category/Performers|Towery]]
-[[Category/Active|Category:Active]]
+[[Category/Directors|Towery]]
