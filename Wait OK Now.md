@@ -14,4 +14,10 @@ The troupe did a run of shows at [[Salvage Vanguard Theater]] performing an impr
 
 They are currently on indefinite hiatus.
 
-[[Category/Troupes|Wait OK Now]]
+## Media
+### Photos
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.423932184294949.95441.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/31/12 performance at [[Salvage Vanguard Theater]].
+
+
+
+[[Category/Troupes|Category:Troupes]]
