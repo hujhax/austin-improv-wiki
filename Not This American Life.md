@@ -67,8 +67,15 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * [http://www.viddler.com/v/3a208da7 Video] of the 6/1/12 show ("What a Coincidence").
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.3169864168268.121677.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/25/12 show ("Cinematic Reality").
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.420821037939397.94879.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 5/25/12 show ("Cinematic Reality").
+** [http://www.facebook.com/michael.yew/media_set?set=a.3169864168268.121677.1315383518&type=3 Photoset] by [[Michael Yew]] of the same show.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.426194707402030.95771.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 6/2/12 show ("Haunted").
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.429397763748391.96354.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 6/9/12 show ("Beginnings and Endings").
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.487594341262066.110357.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 11/2/12 show ("Body Image & Body Commerce").
 * [http://www.facebook.com/michael.yew/media_set?set=a.3891714614078.138307.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/30/12 show ("The Line in the Sand").
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.501547396533427.113006.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 12/7/12 show ("Life of Privilege").
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.507971672557666.114181.100000345135257&type= Photoset] by [[Claudio Fox]] of the 12/21/12 show ("Insufficient Data").
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.654955964525902.1073741867.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 11/8/13 show ("Art Is Theft").
 
 ### Other
 * [http://vimeo.com/76290597 Audio] from the "House of the Future" sketch from the 11/9/12 show ("TechnEcology")
