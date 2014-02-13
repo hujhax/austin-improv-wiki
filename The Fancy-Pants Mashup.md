@@ -48,6 +48,7 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/michael.yew/media_set?set=a.2727534230296.112720.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/2/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2899917379767.116680.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/6/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3062135595121.119568.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/4/12 performance.
+** [http://www.facebook.com/claudio.fox.5/media_set?set=a.407354619286039.92726.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the same show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3341472898379.125369.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/6/12 performance.
 * [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/3/12 performance.
 * [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/7/12 performance.
@@ -57,6 +58,7 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 A photoset] by [[Michael Yew]] of the 1/4/13 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4241718923967.142831.1315383518&type=3 A photoset] by [[Michael Yew]] of the 2/1/13 performance.
 * [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 A photoset] by [[Michael Yew]] of the 3/1/13 performance.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.568004749887691.1073741836.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 5/3/13 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4854500043112.1073741837.1315383518&type=3 A photoset] by [[Michael Yew]] of the 6/7/13 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4944587095232.1073741839.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 6/21/13 performance in [[The 44-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200260764744528.1073741842.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/2/13 performance.
