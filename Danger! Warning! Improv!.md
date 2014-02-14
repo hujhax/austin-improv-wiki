@@ -33,6 +33,7 @@ So far, their formats have been "Secret Agent Men" ([[Wikipedia - James Bond|Jam
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.415574365130731.94045.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/17/12 "Elementary, Dear Holmes" performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 5/31/12 "Elementary, Dear Holmes" show at *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/2/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.493085927379574.111406.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 11/16/12 performance in *[[The TV Set]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/14/12 "Elementary, Dear Holmes" performance.
 * [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/13 "Two to Beam Up" show at [[The 2013 Out of Bounds Comedy Festival]].
 
