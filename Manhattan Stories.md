@@ -26,6 +26,7 @@ It originally ran in July/August of 2012 but was extended through September.
 * [http://vimeo.com/47680093 Video of the 8/4/12 performance.]
 
 ### Photos
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.443869988967835.99163.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 7/7/12 performance.
 * [http://www.facebook.com/media/set/?set=a.397800070283515.94798.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/14/12 performance.
 
 ### Publicity
