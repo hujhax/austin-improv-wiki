@@ -43,7 +43,7 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.470833459646842.113816.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/5/13 show (*Buffy the Vampire Slayer*).
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.518225591532274.116030.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 1/12/12 show (*The Lord of the Rings*).
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.518225591532274.116030.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 1/12/13 show (*The Lord of the Rings*).
 * [http://www.facebook.com/media/set/?set=a.477942988935889.114948.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/19/13 show (*Batman*).
 * [http://www.facebook.com/media/set/?set=a.486940854702769.115717.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/2/13 show (Classic Nintendo).
 ** [http://www.facebook.com/michael.yew/media_set?set=a.4247734954364.142935.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same show.
@@ -51,7 +51,7 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 ** [http://www.facebook.com/claudio.fox.5/media_set?set=a.534632676558232.117948.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same show.
 ** [http://www.facebook.com/media/set/?set=a.491557640907757.116359.221927764537414&type=3 Photoset] of [[Paul Marino]] as Boba Fett at the event.
 * [http://www.facebook.com/media/set/?set=a.494601140603407.116693.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/16/13 shows (*Harry Potter*).
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.540278589326974.118800.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 2/23/12 show (*Firefly*).
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.540278589326974.118800.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 2/23/13 show (*Firefly*).
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
