@@ -24,6 +24,6 @@ At the start of the show, the troupe got a suggestion from the audience that the
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 5/31/12 performance in *[[The Threefer]]*.
-
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.446479128706921.99843.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/14/12 performance in *[[The Saturday Night Special]]*.
 
 [[Category/Troupes|Category:Troupes]]
