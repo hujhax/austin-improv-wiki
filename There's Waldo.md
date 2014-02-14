@@ -30,6 +30,7 @@ The troupe played their last show at [[The 2013 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/12/12 performance at [[The 2012 Ladies Are Funny Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/24/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3972198386122.139663.1315383518&type=3 Photoset] by [[Michael Yew]] of their 12/15/12 "Human Santapede" show.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.507735242581309.114139.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their 12/20/12 "Human Santapede" show at [[The Institution Theater]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.4125445057193.142095.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 1/18/13 performance in "The Ladies Monthly Museum" at [[The Hideout Theatre]].
 * [http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 2/3/13 performance at *[[BitterFest]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their final 8/30/13 show at [[The 2013 Out of Bounds Comedy Festival]].
