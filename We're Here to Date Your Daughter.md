@@ -17,6 +17,10 @@ The troupe was briefly named "I'm Here to Date Your Daughter" until the name "We
 *02/10/2013 - [[The Hideout Theatre]]
 *03/30/2013 - [[The Institution Theater]]
 
+## Media
+### Photos
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.555449511143215.1073741826.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 3/30/13 performance in *[[The Triple Scoop]]*.
+
 ## More Information
 *[http://www.facebook.com/TalkinToStrangers We're Here to Date Your Daughter Facebook page]
 
