@@ -130,6 +130,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/michael.yew/media_set?set=a.3931529289420.138986.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/8/12 performance in *[[The Saturday Night Special]]*.
 ** [http://www.facebook.com/claudio.fox.5/media_set?set=a.502172756470891.113111.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 1/13/13 performance in the [[Merlin Works]] grand opening.
+** [http://www.facebook.com/claudio.fox.5/media_set?set=a.519628588058641.116285.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same event.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4573289653028.1073741829.1315383518&type=3 Photoset] by [[Michael Yew]] of their 4/5/13 "Stage Door" performance.
 
 ## More Information
