@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=		Kenjutsu
-|Picture	=	Kurosawa.jpg				
+|Picture	=	Kenjutsu.jpg				
 |Theater =		[[The Hideout Theatre]]
 |Director =		{{Unbulleted list | [[Kareem Badr]] | [[Shannon McCormick]] }}
 |Run=							Mar/Apr 2014
