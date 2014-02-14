@@ -104,6 +104,7 @@ The run featured tech by [[Michael Yew]].
 * [http://www.facebook.com/media/set/?set=a.229603903774963.53941.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 11/18/11 performance (1x07: "The Animal Within").
 * [http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 3/30/12 performance ("My Way").
 ** [http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3 Photoset] by [[Michael Yew]] of the same show.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/20/12 performance in *[[The TV Set]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3 Casual photos] by [[Peter Rogers]] from the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1 Photoset] by [[Michael Yew]] of the 1/18/13 performance at [[The TV Set]].
 * [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes the 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]].
