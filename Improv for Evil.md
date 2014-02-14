@@ -42,6 +42,7 @@ After two years of relative inactivity, the troupe performed their final show at
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/4/11 "Alternate Timelines of [[Jason Vines]]" show in [[The 42-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/21/11 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/happywaffle/media_set?set=a.10150814614650324.728304.503270323&type=3 Photoset] by [[Kevin Miller]] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.456451977709636.102466.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 8/10/12 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150403717672265.410072.588952264&type=3 Photoset] by [[Peter Rogers]] of their 9/19/11 performance at [[ColdTowne Theater]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/18/11 performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
