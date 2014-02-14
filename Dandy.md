@@ -20,6 +20,8 @@ Clay approached [[Cindy Page]] to tech for the duo and though she generally refu
 
 The duo only put on one show, on January 7, 2014 at [[The Hideout Theatre]], before Clay's untimely death on February 13, 2014. It was Clay's last performance.
 
+Their last rehearsal was two weeks before Clay's death and consisted of watching the show and discussing the future direction of the duo.
+
 ## Media
 ### Videos
 * [http://vimeo.com/84908395 Video of their 1/7/14 debut show.]
