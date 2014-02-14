@@ -51,6 +51,7 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 ** [http://www.facebook.com/claudio.fox.5/media_set?set=a.407354619286039.92726.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the same show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3341472898379.125369.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/6/12 performance.
 * [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/3/12 performance.
+** [http://www.facebook.com/claudio.fox.5/media_set?set=a.476618529026314.107891.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/7/12 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3582900613921.131839.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/13/12 performance with [[Ruby Willmann]] at *[[The Free Fringe]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3781324494394.136231.1315383518&type=3 A photoset] by [[Michael Yew]] of the 11/2/12 performance.
