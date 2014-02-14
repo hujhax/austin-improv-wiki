@@ -121,6 +121,8 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 6/5/10 performance at [[The 41-Hour Improv Marathon]].
 * [http://www.facebook.com/hujhax/media_set?set=a.482845292264.261205.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/2/10 show from [[The 2010 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.408278745907477.91540.118587218209966&type=3 Photoset] by [[Roy Moore]] of the show from the 2012 [[WaffleFest]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.493316100689890.111453.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 11/17/12 performance.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.505047759516724.113636.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 12/15/12 performance.
 * [http://www.facebook.com/media/set/?set=a.451551858241669.109988.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/24/12 performance.
 
 ### Other
