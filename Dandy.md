@@ -8,6 +8,8 @@
 **Dandy** was an improv duo featuring [[Ryan Hill]] and [[Clay Towery]].
 
 ## History
+Late in 2012, Clay and Ryan rehearsed and played together in [[The Black Vault]].
+
 The duo only put on one show, in early 2014, before Clay's untimely death on 2/13/14.
 
 ## Media
