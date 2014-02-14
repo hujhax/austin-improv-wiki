@@ -13,4 +13,8 @@ Stone Airplane was cast from one of the [[Merlin Works Mixers]] and performed im
 
 Stone Airplane completed a run of shows at [[Salvage Vanguard Theater]] in the summer of 2012.
 
+## Media
+### Photos
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/7/12 performance in *[[The Saturday Night Special]]*.
+
 [[Category/Troupes|Category:Troupes]]
