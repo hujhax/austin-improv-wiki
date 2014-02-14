@@ -24,6 +24,7 @@
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.402069043189951.96182.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/27/12 performance.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.453977811290386.101756.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 8/3/12 performance.
 * [http://www.facebook.com/media/set/?set=a.407668889296633.98272.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/10/12 performance.
 ** [http://www.facebook.com/michael.yew/media_set?set=a.3471523349559.128816.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10151211225352265.507819.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/18/12 performance.
