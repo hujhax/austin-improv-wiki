@@ -17,4 +17,5 @@ Each show consisted of three separate troupe performances by [[Nugefield]], [[Be
 
 ## Media
 ### Photos
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.534099176611582.117854.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 2/8/13 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4359528749139.144191.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2/22/13 show.
