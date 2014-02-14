@@ -210,7 +210,7 @@ the nice version: Mother F***ing Action Heroes! is one part narrative improv and
 #### *Confessions of an Improv Class* ([[Jon Bolden]])
 Jon says: "I had the same group of students from Level 1 to Level 5. By the time we closed our series of graduation shows, featuring story telling, we had a pretty cool story about ourselves. It was my first time leading students all the way through an improv program, and obviously their first experiences with improv. We thought a great way to say goodbye to a few folks that have to part ways was to have one last show using our level five format (the living room) and basing our stories on experiences with the class and how they got into improv." 
 
-#### *The Triumphant Return of the [[Tech Nightmare]]* ([[Cortney DeAngelo]] & [[Cindy Page]])
+#### *The Triumphant Return of the *[[Tech Nightmare]] ([[Cortney DeAngelo]] & [[Cindy Page]])
 One of the most surprisingly delightful shows of the 43 Hour Improv Marathon this year was The Tech Nightmare. Cortney and Cindy controlled the show from the booth, playing sound effects and music at random, and screwing with the lights randomly. They also dolled out punishments harshly and with evil fervor. This is also the now famous show where the audience took over the show and sang Bohemian Rhapsody in the dark. Who knows what will happen this time. A whole new crew of victims lines up for the slaughter. 
 
 #### *Once Upon A Time* ([[Firth & Arjet]])
@@ -369,7 +369,7 @@ Parent and child is one of the closest relationships in the human experience. Bu
 #### *The Twelve Scenes of Christmas* ([[Jon Bolden]])
 We all know that The 12 Days of Christmas is the best Christmas song. That fact is not up for debate. Exhibit A: 5 GOLLLLLDDDEEEENNNN RINGS. Case closed. It is therefore hoped that The Twelve Scenes of Christmas will be the best improv show ever. There will be 12 scenes. The first scene will involve 12 people, the second scene will have 11, etc, etc... all the way down to the pear tree. Starring (so far): [[Caitlin Sweetlamb]], [[Michael Joplin]], [[Jon Bolden]], [[Lisa Jackson]], [[Mia Iseman]], [[Andy Buck]], [[Adam Trabka]], [[Courtney Hopkin]], [[Peter Rogers]], [[Marc Majcher]], [[Ryan Austin]] 
 
-#### *Merry Xmas *[[Tech Nightmare]]'' ([[Cortney DeAngelo]])
+#### *Merry Xmas *[[Tech Nightmare]] ([[Cortney DeAngelo]])
 The ever popular Tech Nightmare returns. Ordinarily the people on stage call the shots, but in this show the tech booth has taken over. The performers are utterly at their mercy... and if they don't do exactly what they're told, they are punished. This time with a Christmas flair! Strange and sometimes otherworldly Christmas songs will inform the nightmare landscape of the show. 
 
 #### *Jessica and Alex* ([[Jessica Arjet]])
