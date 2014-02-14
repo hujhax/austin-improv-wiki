@@ -1,9 +1,11 @@
 {{Infobox Troupe
 |Name	=		Mike and Irene
-|Picture	=	MikeIrene.jpg
+|Picture	=	MikeIrenePoster.jpg
 |Cast	=	{{Unbulleted list|[[Michael Jastroch]]|[[Irene White]]}}
 |Years	=		2012-Present
 }}
+
+![[MikeIrene.jpg|Mike and Irene performing at [[The Hideout Theatre]].]]
 
 **Mike and Irene** is an improv duo.
 
