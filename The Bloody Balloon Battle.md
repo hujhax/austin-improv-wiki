@@ -13,6 +13,7 @@ The Balloon Battle started in 2011, when [[Jason Vines]] found himself with a la
 ** [http://www.facebook.com/media/set/?set=a.219408021461218.52329.118587218209966&type=3 Another photoset] by [[Roy Moore]] of the event.
 * [http://www.facebook.com/media/set/?set=a.441066759290179.107646.221927764537414&type=3 A photoset] by [[Steve Rogers]] of 'before' and 'after' photos from the 2012 Battle.
 * [http://www.facebook.com/media/set/?set=a.441083802621808.107651.221927764537414&type=3 A photoset] by [[Steve Rogers]] from the 2012 Battle itself.
+** [http://www.facebook.com/claudio.fox.5/media_set?set=a.488635691157931.110571.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same event
 * [http://youtu.be/gJfJXwz-LuE A video of the 2012 event] from Ivan Walker.
 ** [http://youtu.be/LZq45cBfsJw A "highlight reel" of the same event] from [[Jason Vines]]
 * [http://youtu.be/3MG9MHm3jAo#t=237 Interview footage] wherein [[Jason Vines]] discusses the event.
