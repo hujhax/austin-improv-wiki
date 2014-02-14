@@ -10,7 +10,7 @@
 ## History
 Late in 2012, Clay and Ryan rehearsed and played together in [[The Black Vault]]. They enjoyed performing together and planned to do more. Family, career and other performance obligations prevented them from initiating a new project until late 2013 when they started rehearsing a duo with [[Jason Vines]] as a coach.
 
-The duo only put on one show, in early 2014, before Clay's untimely death on 2/13/14.
+The duo only put on one show, on January 7, 2014 at [[The Hideout Theatre]], before Clay's untimely death on February 13, 2014. It was Clay's last performance.
 
 ## Media
 ### Videos
