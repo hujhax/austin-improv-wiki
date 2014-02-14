@@ -123,6 +123,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/5/12 show which they shared with [[Confidence Men]].
 * [http://www.facebook.com/happywaffle/media_set?set=a.10151724038250324.843293.503270323&type=3 Photoset] by [[Kevin Miller]] of a 5/23/12 improv jam they hosted.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/1/12 performance in [[The 43-Hour Improv Marathon]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/7/12 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 7/21/12 performance of *[[Boys of Summer]]*, featuring guest boy [[Clay Towery]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3931529289420.138986.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/8/12 performance in *[[The Saturday Night Special]]*.
