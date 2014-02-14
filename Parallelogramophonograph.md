@@ -68,6 +68,7 @@ An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wik
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.416279815060186.94189.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/18/12 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/1/12 performance in [[The 43-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3479991321253.129043.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 7/27/12 performance in *[[The Spectacle]]*.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.456451977709636.102466.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 8/10/12 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 9/2/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/9/12 performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 2/1/13 performance in *[[The Spectacle]]*.
