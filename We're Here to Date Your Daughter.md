@@ -5,7 +5,7 @@
 |Years	=		2012-Present
 }}
 
-**We're Here to Date Your Daughter** (often referred to by its acronym, "WHTDYD") is an ensemble Improv troupe focusing on relationships.
+**We're Here to Date Your Daughter** (often referred to by its acronym, **WHTDYD**) is an ensemble Improv troupe focusing on relationships.
 
 The troupe has members who have taken classes from [[The Hideout Theatre]], [[ColdTowne Theater]], [[The Institution Theater]], and [[The Merlin Works Institute for Improvisation]].  
 
