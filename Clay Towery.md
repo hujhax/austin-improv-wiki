@@ -10,7 +10,7 @@
 ## History
 Clay was a company member of [[Gnap! Theater Projects]].
 
-He passed away the morning of February 13, 2014.
+He passed away the morning of 2/13/14.
 
 ## Troupes
 * [[Dandy]]
