@@ -44,9 +44,23 @@ Season one ran from 10/1/12 to 1/3/2013.
 #### Season 2
 Season two ran from 2/10/13 to June of 2013.
 
-* person
-* person
-* person
+* [[Caitlin Baumgartner]]
+* [[Celena Diamond]]
+* [[Chelley Pyatt]]
+* [[Cortney DeAngelo]]
+* [[Dave Buckman]]
+* [[Heidi Caldwell]]
+* [[Jaime Gonzales]]
+* [[Jen Dorsey]]
+* [[Jesse Pangelinan]]
+* [[Jim Doggett]]
+* [[Les McGehee]]
+* [[Mark Shoemaker]]
+* [[Monica Ybarra-Torres]]
+* [[Roy Janik]]
+* [[Sandra Ybarra]]
+* [[Tom Booker]]
+* [[Tyler Bryce]]
 
 #### Season 3
 Season one is running from 10/6/13 to January 2014.
