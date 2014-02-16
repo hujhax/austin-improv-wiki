@@ -23,6 +23,8 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * [[In Our Prime]] (2012-Present) 
 * [[The Seven Eight Sevens]] (2012-2013)
 * [[Apocalypse]] (2012)
+* [[Dandy]] (2014)
+* [[Shamrock]] (2014)
 
 ## Shows
 * *[[After School Improv]]*
