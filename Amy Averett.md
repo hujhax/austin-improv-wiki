@@ -15,6 +15,7 @@
 ## Shows
 * *[[Heist!]]*
 * *[[Rock]]*
+* *[[Thinning the Herd]]*
 * *[[Totally Improvised, 90210]]* (flex cast)
 
 [[Category/Performers|Averett]]
