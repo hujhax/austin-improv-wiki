@@ -22,6 +22,7 @@ The show had several performances after its run, including [[The 2013 Out of Bou
 ## Media
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes McNichol and May's first experiment with the format in [[The 42-Hour Improv Marathon]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.585498514804981.1073741842.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their 6/16/13 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10151909102032265.1073741838.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/30/13 show in [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
