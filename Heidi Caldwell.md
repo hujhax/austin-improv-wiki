@@ -25,5 +25,6 @@ Heidi is currently studying to be a Certified Therapeutic Recreational Specialis
 * *[[Live TV Tuesdays -  Party of Five]]* (director)]
 * *[[Manson -  The Musical]]*  (Gypsy, Abigail Folger)
 * *[[Not This American Life]]*
+* *[[Thinning the Herd]]*
 
 [[Category/Performers|Caldwell]]
