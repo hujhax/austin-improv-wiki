@@ -20,6 +20,9 @@ The name BeauMoMa is a combination of their nicknames.  Bridget "Beau" short for
 * [http://vimeo.com/74918469 Video of their 7/18/13 show.]
 * [http://vimeo.com/75015384 Video of their 9/15/13 show.]
 
+### Photos
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.608175565870609.1073741848.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 6/27/13 performance in *[[The Triple Scoop]]*.
+
 ## More Information
 * [http://www.facebook.com/BeauMoMa The troupe's Facebook page.]
 * [http://beaumoma.tumblr.com The troupe's Tumblr page.]
