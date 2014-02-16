@@ -1,5 +1,5 @@
 {{Infobox Troupe
-|Name	=		Dandy
+|Name	=		Shamrock
 |Picture	=	Shamrock.jpg
 |Cast	=	{{Unbulleted list | [[Scott Hearne]] | [[Ryan Hill]] }}
 |Years	=		2014
@@ -18,3 +18,4 @@ Scott and Ryan were the only two members of [[The Seven Eight Sevens]] for the e
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
+[[Category/Active|Category:Active]]
