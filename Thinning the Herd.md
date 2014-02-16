@@ -63,11 +63,22 @@ Season two ran from 2/10/13 to June of 2013.
 * [[Tyler Bryce]]
 
 #### Season 3
-Season one is running from 10/6/13 to January 2014.
+Season one ran from 10/6/13 to January 2014.
 
-* person
-* person
-* person
+* [[Angela Maldonado]]
+* [[Ceej Allen]]
+* [[Celena Diamond]]
+* [[Chelley Pyatt]]
+* [[Cortney DeAngelo]]
+* [[David Lampe]]
+* [[Heidi Caldwell]]
+* [[Jen Dorsey]]
+* [[Mark Shoemaker]]
+* [[Monica Ybarra-Torres]]
+* [[Paul Normandin]]
+* [[Sandra Ybarra]]
+* [[Tom Booker]]
+* [[Tyler Bryce]]
 
 ## Media
 ### Photos
