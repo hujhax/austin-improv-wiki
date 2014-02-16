@@ -30,7 +30,7 @@ Season one ran from 10/1/12 to 1/3/2013.
 * [[Caitlin Baumgartner]]
 * [[Chuy Zarate]]
 * [[Cortney DeAngelo]]
-* [[Jaime Gonzalez]]
+* [[Jaime Gonzales]]
 * [[Jeff Britt]]
 * [[Jen Dorsey]]
 * [[Jeremy Sweetlamb]]
