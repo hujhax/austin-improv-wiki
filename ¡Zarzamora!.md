@@ -39,6 +39,7 @@ The following upcoming festival appearances are scheduled:
 * [http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1 Photoset] by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 4/1/12 performance in *[[The Weekender]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200549618405689.1073741857.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 9/24/13 performance in *[[The Weekender]]*.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 10/5/13 performance with *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
 
 ## More Information
 * [http://www.facebook.com/pages/Zarzamora/126236170779574 The troupe's facebook page.]
