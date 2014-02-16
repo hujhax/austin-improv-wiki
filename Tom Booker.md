@@ -32,6 +32,7 @@ He's a really nice guy. You should meet him.
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (director)
 * *[[Manson -  The Musical]]* (director/Vincent Bugliosi)
 * *[[Pulp Friction]]* (director)
+* *[[Thinning the Herd]]*
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2424971 Interview] with Tom on *[[The Theft Forum]]*.
