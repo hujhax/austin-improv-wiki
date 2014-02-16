@@ -41,6 +41,7 @@ They have appeared in every [[Out of Bounds Comedy Festival]] from 2005 to 2013.
 * [http://www.facebook.com/media/set/?set=a.221915231210497.52761.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/12/11 show at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/26/12 performance.
 * [http://www.facebook.com/media/set/?set=a.530405963694754.1073741855.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 9/1/13 show at [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.629538103734355.1073741857.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://theknuckleballnow.net/ The troupe's web site.]
