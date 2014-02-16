@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=	Taxi Cab Impressions
+|Picture = Taxi Cab Impressions.jpg
 |Director =	[[Brent Unger]]
 |Cast	=	{{Unbulleted list|[[Brent Unger]]|Various}}
 |Years =	2013-Present
