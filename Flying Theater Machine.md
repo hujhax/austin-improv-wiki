@@ -70,6 +70,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 ## Media
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/5/10 performance at [[The 40-Hour Improv Marathon]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 10/5/13 performance with [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 
 ## More Information
 *[http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
