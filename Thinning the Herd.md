@@ -3,7 +3,7 @@
 |Picture =	Thinning the Herd.jpg
 |Theater =	[[The Institution Theater]]
 |Director =	[[Tyler Bryce]]
-|Cast	=	Various
+|Cast	=	{{Unbulleted list | [[Amy Averett]] | [[Angela Maldonado]] | [[Britain Spellings]] | [[Caitlin Baumgartner]] | [[Ceej Allen]] | [[Celena Diamond]] | [[Chelley Pyatt]] | [[Chuy Zarate]] | [[Cortney DeAngelo]] | [[Dave Buckman]] | [[David Lampe]] | [[Heidi Caldwell]] | [[Jaime Gonzales]] | [[Jeff Britt]] | [[Jen Dorsey]] | [[Jeremy Sweetlamb]] | [[Jesse Pangelinan]] | [[Jim Doggett]] | [[Les McGehee]] | [[Mark Shoemaker]] | [[Monica Ybarra-Torres]] | [[Paul Normandin]] | [[Roy Janik]] | [[Sandra Ybarra]] | [[Tom Booker]] | [[Tyler Bryce]] }}
 |Run	=	Oct 2012-Jan 2013
 |Subsequent Runs= {{Unbulleted list | Feb-Jun 2013 | Oct 2013-Jan 2014 }}
 }}
