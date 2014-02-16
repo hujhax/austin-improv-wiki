@@ -26,6 +26,7 @@ Roy was a core cast member in [[The 41-Hour Improv Marathon]] and [[The 43-Hour 
 * *[[Improvised Shakespeare]]*
 * *[[Ka-Baam!!]]*
 * *[[Theatresports]]* (director)
+* *[[Thinning the Herd]]*
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 
