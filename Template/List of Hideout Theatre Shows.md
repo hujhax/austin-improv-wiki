@@ -32,6 +32,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[The Black Vault]]*
 * *[[Boys of Summer]]*
 * *[[Charles Dickens Unleashed]]*
+* *[[Camp Madeupponathaspotta]]*
 * *[[Cochise]]*
 * *[[Cops and Lawyers]]*
 * *[[Fakespeare]]*
@@ -40,12 +41,16 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[The Hideout Holiday Super Special]]*
 * *[[Hitchcocked!]]*
 * *[[Holy 1960s Batman, Batman!]]*
-* *[[Improvised Shakespeare]]*
 * *[[I Love You So Much]]*
+* *[[Improvised Shakespeare]]*
+* *[[The International Improv Experience]]*
 * *[[Ka-Baam!!]]*
+* *[[Kenjutsu]]*
 * *[[Live Nude Improv]]*
 * *[[Manhattan Stories]]*
+* *[[Nothing and Everything]]*
 * *[[Process]]*
+* *[[Reform School for Wayward Girls]]*
 * *[[Rock]]*
 * *[[Spirited]]*
 * *[[Start Trekkin']]*
@@ -54,4 +59,5 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[Theatresports]]*
 * *[[Twilight Zoned]]*
 * *[[The Violet Underbelly]]*
+* *[[What the F@$]]*
 * *[[Who Is T. Henry Baudecliffe]]*
