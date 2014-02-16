@@ -12,6 +12,7 @@ Jeff's acting career had consisted only of scripted theatre until he started tak
 
 ## Shows
 * *[[Not This American Life]]*
+* *[[Thinning the Herd]]*
 
 ## Troupes
 * [[Confidence Men]] (2009-Present)
