@@ -55,6 +55,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * Their final *[[Free Fringe]]* performance on 8/9/12.
 ** [http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1 A photoset] by [[Michael Yew]].
 ** [http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1 A photoset] by [[Steve Rogers]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 
 ### Videos
 * [http://youtu.be/wFvyMaIUtms Video of their 12/26/08 show.]
