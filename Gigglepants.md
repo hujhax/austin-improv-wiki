@@ -35,6 +35,7 @@ The troupe started performing in the spring semester of 2004. The original cast 
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/19/11 performance at [[WaffleFest]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
