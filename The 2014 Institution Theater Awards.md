@@ -4,18 +4,18 @@
 The awards ceremony will be held at the Institution Theater at 6pm on 2/16/14.
 
 ## Nominees
-After the ceremony, winners will be listed in **bold text**.
+Winners are listed in **bold text**.
 
 ### Favorite Improvised "Something" Show
 * *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
 * *[[The Next Chapter]]*
 * *[[The Suitcase]]*
 * *[[Thinning the Herd]]*
-* [[The Triple Scoop]]'s "Comedy Troupe Night"
+* **[[The Triple Scoop]]'s "Comedy Troupe Night"**
 
 ### Favorite Scripted, Sketch, or Variety Show
 * *[[Bad Girls in Plaid Skirts]]*
-* *[[Fuck It's Hot]]*
+* ***[[Fuck It's Hot]]***
 * *[[Hell and Back Cabaret]]*
 * *[[Lovefest]]*
 * *[[Not This American Life]]*
@@ -24,11 +24,11 @@ After the ceremony, winners will be listed in **bold text**.
 * "Butt Kapinski", presented by Deanna Fleysher
 * [[Confidence Men]]'s "100 Shows & C*nting"
 * "Mayfly", presented by Todd Stashwick 
-* "Not So Silent Night of Standup Comedy", hosted by Regina Soto.
-* "The Velvet Rut", a sketch show about Austin.
+* **"Not So Silent Night of Standup Comedy", hosted by Regina Soto**
+* "The Velvet Rut", a sketch show about Austin
 
 ### Favorite Director
-* [[Asaf Ronen]], for *[[The Suitcase]]*
+* **[[Asaf Ronen]], for *[[The Suitcase]]***
 * [[Clifton Highfield]], for *[[Lovefest]]*
 * [[Justin Davis]], for *[[The Next Chapter]]*
 * [[Tom Booker]], for *[[Fuck It's Hot]]*
@@ -39,10 +39,10 @@ After the ceremony, winners will be listed in **bold text**.
 * [[Cindy Page]], for *[[False Matters]]* and *[[Hell and Back Cabaret]]*.
 * [[Cindy Page]] & [[Chad Wellington]], for *[[Thinning the Herd]]*.
 * [[Courtney DeAngelo]], for *[[The Suitcase]]* and *[[Hell and Back Cabaret]]*.
-* [[Mark Shoemaker]], for *[[The Triple Scoop]]*, *[[False Matters]]*, and *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
+* **[[Mark Shoemaker]], for *[[The Triple Scoop]]*, *[[False Matters]]*, and *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.**
 
 ### Favorite Male Performer
-* [[Andrew Robinson]]
+* **[[Andrew Robinson]]**
 * [[Bryan 'Lubu' Roberts]]
 * [[Bryan Curry]]
 * [[Ceej Allen]]
@@ -54,7 +54,7 @@ After the ceremony, winners will be listed in **bold text**.
 ### Favorite Female Performer
 * [[Adriene Shown]]
 * [[Carissa McAtee]]
-* [[Erica Lies]]
+* **[[Erica Lies]]**
 * [[Heidi Caldwell]]
 * [[Jeanette Jones]]
 * [[Regina Soto]]
@@ -65,7 +65,7 @@ After the ceremony, winners will be listed in **bold text**.
 * [[Adam Mengesha]]
 * [[Andrew Johnston]]
 * [[James Leary]]
-* [[Justin Davidson]]
+* **[[Justin Davidson]]**
 * [[Mark Shoemaker]]
 * [[Mason Pitluck]]
 
@@ -75,12 +75,12 @@ After the ceremony, winners will be listed in **bold text**.
 * [[Jessie Pitluck]]
 * [[Kristen Kurtis]]
 * [[Lena Long]]
-* [[Megan Venable]]
+* **[[Megan Venable]]**
 
 ### Favorite Male Stand-Up Comedian
 * [[Brently Heilbron]]
 * [[Evan Eggers]]
-* [[John Buseman]]
+* **[[John Buseman]]**
 * [[Marv Pratt]]
 * [[Will Cleveland]]
 
@@ -89,24 +89,24 @@ After the ceremony, winners will be listed in **bold text**.
 * [[Cassidy Santaguida]]
 * [[Catherine Grady]]
 * [[Regina Soto]]
-* [[Valerie Nies]]
+* **[[Valerie Nies]]**
 
 ### The Audience Member Award
 * [[Allison Huston]]
 * [[Andrew Johnston]]
 * [[Celena Diamond]]
 * [[Kathy Rose Center]]
-* [[Madeline Jo Chauvin]]
+* **[[Madeline Jo Chauvin]]**
 * [[Mark Shoemaker]]
 
 ### Favorite Outstanding Intern
-* [[Adam Mengesha]]
+* **[[Adam Mengesha]]**
 * [[Mark Shoemaker]]
 * [[Sydney Huddleston]]
 * [[Vicki Ralston]]
 
 ### Favorite Original Line
-* "Emotions are mother nature's way of saying fuck you." -- [[Clifton Highfield]] in *[[The Rubber Room]]*.
+* **"Emotions are mother nature's way of saying fuck you." -- [[Clifton Highfield]] in *[[The Rubber Room]]*.**
 * "Oh wow, Candy Land" -- [[Rebecca Blue Velvet]], about a back tattoo in 201 student showcase.
 * "Masturbating makes you gain weight. Look at me!" -- [[Monica Torres]] in *[[Thinning the Herd]]*, Season 2, 10/20/13.
 * "Can you have your dog smell my fingers and sniff out my girlfriend?" -- [[Clifton Highfield]], during "David Razowsky and Friends" in *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
@@ -118,6 +118,13 @@ After the ceremony, winners will be listed in **bold text**.
 * "As God is my pendulum, I swing both ways" -- [[Caeriel Crestin]] in *[[The Rubber Room]]*, 1/6/13.
 * "So I took one of those 'What Knight Are You' online tests... I'm 56% Lancelot, 22% Robb Stark, and 5% M. Night Shyamalan." -- [[Luke Wallens]] in "The Key Party".
 * "Okay, zombies. 5, 6, 7, 8... *'cause this is thrillerrrrrr!*" -- [[Luke Wallens]] in *[[The Next Chapter]]*.
+
+### Tom Booker Appreciation Awards
+Tom Booker gave out four appreciation awards in the ceremony, to the following people:
+* [[Adriane Shown]]
+* [[Mark Shoemaker]]
+* [[Regina Soto]]
+* [[Sarah Marie Curry]]
 
 ## Media
 ### Videos
