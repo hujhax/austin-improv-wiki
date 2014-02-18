@@ -29,6 +29,7 @@ Get Up members [[Shana Merlin]] and [[Shannon McCormick]] have been working toge
 * [http://www.facebook.com/media/set/?set=a.466006816796173.112887.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 12/22/12 show at the last *[[Saturday Night Special]]*.
 * [http://www.facebook.com/media/set/?set=a.522987541098100.1073741852.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/12/13 show at [[The 2013 Improvised Play Festival]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.629538103734355.1073741857.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 
 ## More Info
 * [http://getup.austinimprov.com Get Up's website]
