@@ -32,6 +32,7 @@ Their goal is to elevate the form and playing field, shedding light on the ever-
 * [http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/27/12 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.523882717675249.1073741854.221927764537414&type=1 Photoset] by [[Steve Rogers]] of their 4/12/13 performance at [[The 2013 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.588814161182104.1073741916.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/27/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 
 ## More Information
 * [http://www.availablecupholders.com/achome.html The troupe's web site.]
