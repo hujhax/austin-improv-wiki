@@ -4,10 +4,10 @@
 |Picture=	Mister Morbid.jpg
 |Director=	[[Tom Booker]]
 |Cast	=	{{Unbulleted list | [[Thedward Blevins]] | [[Tom Booker]] }}
-|Run	=	October 2013
+|Run	=	Oct 2013
 }}
 
-***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** is an improv show.
+***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** was an improv show.
 
 ## Summary
 In the world of the show, [[Tom Booker]] plays Mister Morbid, a quaint small-town mortician who hosts a "fright night" where he plays old B-horror movies.  ([[Thedward Blevins]] plays his sidekick, Montgomery.)  But technical difficulties prevent him from playing the movie successfully, and he has to call on friends to re-create the movie for him.
