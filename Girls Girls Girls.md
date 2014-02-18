@@ -135,6 +135,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.539914026030097.118722.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 2/9/13 performance in *[[The Triple Scoop]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4573289653028.1073741829.1315383518&type=3 Photoset] by [[Michael Yew]] of their 4/5/13 "Stage Door" performance.
 ** [http://www.facebook.com/claudio.fox.5/media_set?set=a.556864001001766.1073741830.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same show.
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 
 ## More Information
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
