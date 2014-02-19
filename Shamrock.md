@@ -8,7 +8,7 @@
 **Shamrock** is an improv duo featuring [[Ryan Hill]] and [[Scott Hearne]].
 
 ## Format
-Shamrock is a game focused comedic montage that opens with a three minute pattern creation game known as a shamrock.
+Shamrock is a game focused comedic montage that opens with a three minute pattern creation game known as a cloverleaf.
 
 ## History
 Scott and Ryan were the only two members of [[The Seven Eight Sevens]] for the entirety of its life. When that project ended, they decided to start a duo.
