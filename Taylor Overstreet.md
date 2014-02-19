@@ -12,6 +12,7 @@ In 2014, Taylor moved away to Chicago.
 
 ## Troupes
 * [[There's Waldo]]
+* [[Three on a Match]]
 
 ## Shows
 * *[[Beware of Female Spies]]*
