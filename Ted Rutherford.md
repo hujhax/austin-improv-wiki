@@ -9,6 +9,7 @@
 
 ## Troupes
 * [[Foolish Mortals]]
+* [[The Heroes of Comedy]] 
 * [[Junk]]
 * [[The Known Wizards]]
 
