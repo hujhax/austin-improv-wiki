@@ -13,6 +13,7 @@
 
 ## Troupes
 * [[Ed 32]]
+* [[The Heroes of Comedy]] 
 * [[Junk]]
 * [[Danger! Warning! Improv!]]
 
