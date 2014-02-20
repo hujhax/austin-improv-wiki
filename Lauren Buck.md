@@ -13,6 +13,7 @@ Lauren was a company member of [[Gnap! Theater Projects]].
 ## Troupes
 * [[Blink]]
 * [[Double Dutch]]
+* [[The Heroes of Comedy]] 
 * [[The Known Wizards]]
 * [[Lady Couch]]
 
