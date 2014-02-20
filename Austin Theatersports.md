@@ -1,0 +1,1 @@
+#REDIRECT [[The Heroes of Comedy]]
