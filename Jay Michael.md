@@ -20,5 +20,8 @@
 * *[[Twilight Zoned]]*
 * *[[The Violet Underbelly]]*
 
+## Troupes
+* [[The Heroes of Comedy]] 
+
 [[Category/Performers|Michael]]
 [[Category/Directors|Michael]]
