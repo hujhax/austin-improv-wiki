@@ -8,6 +8,7 @@
 **Sean Hill** is an improv performer, director, and teacher.  He is the founder of [[The Hideout Theatre]], and ran the theater until 2009.
 
 ## Troupes
+* [[The Heroes of Comedy]] (director)
 * [[Junk]]
 
 ## Shows
