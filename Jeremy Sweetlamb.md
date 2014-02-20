@@ -14,6 +14,7 @@ In 2003, Jeremy left Austin for Chicago.  He returned in 2006, went to LA in 200
 
 ## Troupes
 * [[Available Cupholders]]
+* [[The Heroes of Comedy]] 
 * [[Well Hung Jury]]
 
 ## Shows
