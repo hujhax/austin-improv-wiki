@@ -20,6 +20,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * [[Blink]] (2009)
 * [[Continental Breakfast]] (2010)
 * [[The Dancy Street D'Orchestra]] (2010-2011)
+* [[The Heroes of Comedy]]
 
 ## Shows
 * *[[Austin Secrets]]*
