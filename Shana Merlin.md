@@ -13,6 +13,7 @@ Awarded "The Best Improv Teacher" and "Best Female Improviser" by [[The Austin I
 * [[Double Dutch]]
 * [[Get Up]]
 * [[Girls Girls Girls]]
+* [[The Heroes of Comedy]] 
 * [[The Known Wizards]]
 
 ## Shows
