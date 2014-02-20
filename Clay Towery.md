@@ -34,6 +34,9 @@ He passed away the morning of 2/13/14.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=100274 Clay's self-introduction thread] on [[The AIC Forums]].
+* Obituaries:
+** [http://www.austinchronicle.com/daily/arts/2014-02-14/clay-towery-r-i-p/ Austin Chronicle]
+** [http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Timothy-Towery&lc=4887&pid=169739786&mid=5859402 Dignity Memorial]
 
 [[Category/Performers|Towery]]
 [[Category/Directors|Towery]]
