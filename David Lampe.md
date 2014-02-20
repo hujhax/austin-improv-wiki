@@ -9,6 +9,7 @@
 **David Lampe** is an Austin improviser.
 
 ## Troupes
+* [[The Heroes of Comedy]] 
 * [[Your Dad's Friends]]
 * [[¡Zarzamora!]]
 
