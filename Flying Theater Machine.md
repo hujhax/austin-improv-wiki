@@ -43,9 +43,9 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Madeline Jo Chauvin]] (Jan 2013-Present)
 * [[Caeriel Crestin]]
 * [[Mitchell Deane]]
+* [[Lindsay Hejl]]        (Mar 2014-Present)
 * [[Andrew Robinson]]     (Sep 2013-Present)
 * [[David Ronn]]          (May 2013-Present)
-* [[Sarah Swofford]]      (Sep 2013-Present)
 * [[Megan Venable]]       (Sep 2013-Present)
 * [[Luke Wallens]]
 
