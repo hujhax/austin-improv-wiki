@@ -8,6 +8,7 @@
 **Well Hung Jury** was an improv troupe.
 
 ## History
+![[WHJ Final Show Flyer.jpg|Flyer from the Jury's final show in October 2003.]]
 The troupe was founded in May 1998, and performed their final show in October 2003.
 
 Over the course of their run, they performed Austin's first improv marathon with a 27-hour-long show, and did a series of performances in unconventional places, such as a parking garage, the Capitol grounds, and a cross-city bus.
