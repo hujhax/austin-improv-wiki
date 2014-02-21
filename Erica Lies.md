@@ -17,8 +17,8 @@ She studied improv at New York's Magnet Theater and the Institution Theater in A
 
 ## Shows
 * *[[Bitterfest]]*
-* *[[Live TV Tuesdays - 90210]]* (Andrea Zuckerman)
-* *[[Live TV Tuesdays - Saved By the Bell]]*
+* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (Andrea Zuckerman)
+* *[[Live TV Tuesdays -  Saved by the Bell]]*
 * *[[Rapture the Flag]]*
 * *[[The Triple Scoop]]*
 * *[[The Velvet Rut]]*
