@@ -49,4 +49,3 @@ These are troupes that still need pages created for them.
 * [[The Sicks]]
 * [[The Team]]
 * [[Toy Boat]]
-* [[We Could Be Heroes]]
