@@ -24,6 +24,7 @@
 * *[[Haunted]]*
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Live TV Tuesdays -  Buffy]]* (sales manager/ensemble)
+* *[[Lola]]* (tech)
 * *[[Magna Veritas]]*
 * *[[Pocketful of Posies]]*
 * *[[Theatresports]]*
