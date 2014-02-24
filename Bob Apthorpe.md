@@ -13,7 +13,4 @@ Bob Apthorpe was an improv performer who worked primarily at [[The Hideout Theat
 * [[The Heroes of Comedy]] 
 * [[Improv for Evil]]
 
-## Shows
-* *[[Haunted]]*
-
 [[Category/Performers|Apthorpe]]
