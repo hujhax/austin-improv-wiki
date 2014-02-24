@@ -29,6 +29,7 @@ Sara also designed the [[Austin Improv Collective]]'s "kitchen sink" logo.
 * *[[Heist!]]*
 * *[[Hitchcocked!]]*
 * [[Live TV Tuesdays -  Angel]] (assistant director)
+* *[[Lola]]* (tech, sound design)
 * [[Puppet Improv Project]] productions:
 ** *[[Crack]]*
 ** *[[Elf Employment]]*
