@@ -24,9 +24,10 @@ Sara also designed the [[Austin Improv Collective]]'s "kitchen sink" logo.
 * [[Wooden Nickel]]
 
 ## Shows
-* [[Dusk]]
-* [[Heist!]]
-* [[Hitchcocked!]]
+* *[[Dusk]]*
+* *[[Haunted]]*
+* *[[Heist!]]*
+* *[[Hitchcocked!]]*
 * [[Live TV Tuesdays -  Angel]] (assistant director)
 * [[Puppet Improv Project]] productions:
 ** *[[Crack]]*
