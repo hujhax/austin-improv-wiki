@@ -19,6 +19,7 @@ Ace was a company member of [[Gnap! Theater Projects]].
 * *[[Dusk]]*
 * *[[Guilds of Steel]]*
 * *[[Hitchcocked!]]*
+* *[[Lola]]*
 * *[[Process]]*
 
 [[Category/Performers|Manning]]
