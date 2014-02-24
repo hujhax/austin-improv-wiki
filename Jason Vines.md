@@ -26,6 +26,7 @@ Jason also works in film and is a special effects artist.
 * *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[Cochise]]*
 * *[[Ka-Baam!!]]*
+* *[[Lola]]*
 * *[[Myth Debunkers]]* (Adam Savage)
 * *[[Process]]*
 * *[[Rock]]*
