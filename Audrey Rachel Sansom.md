@@ -24,6 +24,7 @@ Audrey was a company member of [[Gnap! Theater Projects]], and directed several 
 * *[[Hitchcocked!]]*
 * *[[Improvised Shakespeare]]*
 * *[[Ka-Baam!!]]*
+* *[[Lola]]*
 * *[[One More Night]]* (director)
 * *[[The Sandbox]]*
 * *[[Start Trekkin']]*
