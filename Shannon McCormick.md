@@ -18,6 +18,9 @@ In 2003, Shannon began co-producing [[The Out of Bounds Comedy Festival]].
 * [[The Known Wizards]]
 * [[We Could Be Heroes]]
 
+## Shows
+* *[[Lola]]* (director)
+
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2494652 Interview] with Shannon on *[[The Theft Forum]]*.
 
