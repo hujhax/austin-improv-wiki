@@ -23,6 +23,7 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * *[[Crack!]]*
 * *[[Elf Employment]]*
 * *[[Guilds of Steel]]*
+* *[[Lola]]*
 * *[[Off the Reef]]*
 * *[[The Sandbox]]*
 * *[[Start Trekkin']]*
