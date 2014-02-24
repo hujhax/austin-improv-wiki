@@ -8,7 +8,7 @@
 |Run	=	Sep/Oct 2008
 }}
 
-:''This page refers to the Salvage Vanguard graduation show run based on classic ghost stories.  For the Salvage Vanguard mainstage run based around 19th-century communications with dead spirits, see ***Seance***.
+:*This page refers to the Salvage Vanguard graduation show run based on classic ghost stories.  For the Salvage Vanguard mainstage run based around 19th-century communications with dead spirits, see *[[Seance]]''.
 ***Haunted*** was a longform narrative based around classic ghost stories.  It was a show run for a graduating class from [[The Merlin Works School of Improvisation]].
 
 ## History
