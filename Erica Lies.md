@@ -2,7 +2,7 @@
 |Name	=	Erica Lies
 |Picture =	Erica Lies Pic.jpg
 |Theater=	[[The Institution Theater]]
-|Years	=	???-Present
+|Years	=	2007-Present
 }}
 
 **Erica Lies** is an improv and sketch performer.
