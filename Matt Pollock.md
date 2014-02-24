@@ -15,5 +15,6 @@
 
 ## Shows
 * *[[Cochise]]*
+* *[[Haunted]]*
 
 [[Category/Performers|Pollock]]
