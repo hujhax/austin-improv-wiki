@@ -7,6 +7,7 @@
 |Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Bridget Brewer]] | [[Cassidy Claire Riesen]] | [[Clay Towery]] | [[Emily Breedlove]] | [[J. M. Specht]] | [[Jesse Overright]] | [[Kristin Firth]] | [[Marc Majcher]] | [[Sara Farr]] | [[Todd Hart]] }}
 |Run	=	Oct/Nov 2012
 }}
+:''This page refers to the Salvage Vanguard mainstage run based around 19th-century communications with dead spirits.  For the Salvage Vanguard graduation show run based on classic ghost stories, see ***Haunted***.
 ***Seance*** (full title: ***Seance! A Meeting of the Secret Society of the Blackbower Mediums*** was a mainstage show of improvised Victorian ghost stories.
 
 ## History
