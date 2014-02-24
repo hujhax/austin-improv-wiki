@@ -31,13 +31,14 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[Cochise]]* (Performed and Directed)
 * *[[The Derby]]*
 * *[[Dubbed Indemnity]]* (2010-2012)
-* [[Ego's Trip]]
+* *[[Ego's Trip]]*
 * *[[False Matters]]* (2011)
 * *[[The Fancy-Pants Mashup]]*
 * *[[Fandom]]*
 * *[[Flying Theater Machine]]*
 * *[[Gorilla Theater]]*
 * *[[Guilds of Steel]]*
+* *[[Haunted]]*
 * *[[Holy 1960s Batman, Batman!]]*
 * *[[Hurly Burly]]* (performer, co-director)
 * *[[I Love You So Much]]*
@@ -46,7 +47,7 @@ Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. H
 * *[[The Library]]*
 * *[[Live Nude Improv]]*
 * *[[Lola]]*
-* [[Lord Wensleydale's Last High Tea]] (Dietrich von Geltsack)
+* "[[Lord Wensleydale's Last High Tea]]" (Dietrich von Geltsack)
 * *[[Louder Than Words]]*
 * *[[Maestro]]* (2000-)
 * *[[Maestro|Maestro RAW]]* (Directed)
