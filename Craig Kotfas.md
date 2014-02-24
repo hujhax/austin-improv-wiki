@@ -23,6 +23,7 @@ He has been a guest musician for [[Indigo Shift]] and a guest boy for *[[Boys of
 ## Shows
 * *[[The Great Mundane]]*
 * *[[Hitchcocked!]]*
+* *[[Lola]]*
 * *[[Theatresports]]*
 
 ## More Information
