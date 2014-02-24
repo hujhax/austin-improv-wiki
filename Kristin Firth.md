@@ -5,7 +5,7 @@
 |Years= 2003-2012
 }}
 
-**Kristin Firth** is a Canadian improv performer who lived and performed regularly in Austin before moving to Philadelphia, Pennsylvania.
+**Kristin Firth** is a Canadian improv performer who lived in and performed regularly in Austin before moving to Philadelphia, Pennsylvania.
 
 ## Troupes
 * [[The Dancy Street D'Orchestra]]
