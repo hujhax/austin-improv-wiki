@@ -20,6 +20,7 @@ Jen started taking improv classes at Merlin Works in 2007. She has been enjoying
 * *[[The Good Life]]*
 * *[[Hurly Burly]]*
 * *[[I Love You So Much]]*
+* *[[Lola]]* (tech)
 * *[[The Suitcase]]*
 * *[[Totally Improvised, 90210]]*
 * *[[Trust No One]]*
