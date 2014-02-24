@@ -17,9 +17,10 @@ Awarded "The Best Improv Teacher" and "Best Female Improviser" by [[The Austin I
 * [[The Known Wizards]]
 
 ## Shows
+* *[[Dusk]]*
+* *[[Lola]]*
 * *[[Improvised Shakespeare]]*
 * *[[Totally Improvised, 90210]]*
-* *[[Dusk]]*
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062973 Interview] with Shana on *[[The Theft Forum]]*.
