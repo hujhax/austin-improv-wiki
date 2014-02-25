@@ -2,9 +2,10 @@
 This **List of Gnap! Theater Projects Shows** is designed to be transcluded into any "[[Gnap! Theater Projects]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
-* *[[Austin's Next Top Improvisor]]*
+* *[[Austin's Next Top Improviser]]*
 * *[[The Derby]]*
 * *[[The Saturday Night Special]]*
+
 ### Mainstage Productions
 * *[[Bad Company]]*
 * *[[The Cherry Bowl]]* (2012)
