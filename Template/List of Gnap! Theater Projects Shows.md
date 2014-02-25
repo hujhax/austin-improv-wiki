@@ -8,7 +8,7 @@ This **List of Gnap! Theater Projects Shows** is designed to be transcluded into
 
 ### Mainstage Productions
 * *[[Bad Company]]*
-* *[[The Cherry Bowl]]* (2012)
+* *[[The Cherry Bowl]]* (2012, 2013)
 * *[[Cover to Cover]]* (2011)
 * *[[Crack! The Improvised Puppet Musical]]* (PIP/Gnap 2009, 2010)
 * *[[Dusk - Improvised Tween Erotica]]*
