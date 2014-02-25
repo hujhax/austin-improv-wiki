@@ -8,6 +8,8 @@
 **David Wells** is an improv performer.
 
 ## History
+David has studied primarily with [[Merlin Works]].
+
 ## Troupes
 * 
 
