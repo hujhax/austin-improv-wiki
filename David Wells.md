@@ -15,6 +15,7 @@ David has studied primarily with [[Merlin Works]].
 
 ## Shows
 * *[[The Sword of Merlin Works]]* (2012)
+* *[[The Trouble With Terry]]* (2011)
 
 
 [[Category/Performers|Wells]]
