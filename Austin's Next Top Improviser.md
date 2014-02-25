@@ -19,5 +19,6 @@ The show ran the second and fourth Friday of every month.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=7973 A call for show taglines] on [[The Austin Improv Forums]].
+* [http://www.facebook.com/events/221743358427/ Facebook event] for the 12/11/09 show.
 
 [[Category/Shows|Category:Shows]]
