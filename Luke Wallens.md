@@ -14,6 +14,7 @@ He is a regular cast member of the *[[Flying Theater Machine]]*.
 * [[What's the Story, Steve]]
 
 ## Shows
+* *[[Danger!]]*
 * *[[Flying Theater Machine]]*
 * *[[The Good Life]]*
 * *[[Key Party]]*
