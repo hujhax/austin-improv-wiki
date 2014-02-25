@@ -22,7 +22,7 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 * *[[Maestro]]* (2011-{{CURRENTYEAR}})
 * *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013) (cohost)
 * *[[Pick Your Own Path]]* (2012-{{CURRENTYEAR}})
-* *[[The Sword of Merlin Works]]* 2012
+* *[[The Sword of Merlin Works]]* (2012)
 * *[[The Tribunal]]* (2012)
 
 ## Troupes
