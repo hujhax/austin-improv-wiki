@@ -19,7 +19,7 @@ Lindsey will appear in [[The 44-Hour Improv Marathon]] as a core cast member.
 * [[Sugarbakers]]
 
 ## Shows
-* *[[Danger! The Improvised Lifetime Movie]]*
+* *[[Danger!]]*
 * *[[Dusk]]* (2009)
 * *[[Live TV Tuesdays -  Firefly]]* (Inara)
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Neal)
