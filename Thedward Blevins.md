@@ -13,16 +13,17 @@ Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]],
 He has been performing regularly since 2011 and is a regular cast member of *[[Flying Theater Machine]]*.
 
 ## Shows
+* *[[Camp Madeupponthaspotta]]* (2014)
 * *[[The Derby]]* (2011-2012)
 * *[[The Fancy-Pants Mashup]]* (2011-{{CURRENTYEAR}})
 * *[[Flying Theater Machine]]* (2012-{{CURRENTYEAR}})
 * *[[The Free Fringe]]* (2012-{{CURRENTYEAR}})
 * *[[Lord Wensleydale’s Last High Tea]]* (2013)
 * *[[Maestro]]* (2011-{{CURRENTYEAR}})
-* *[[Pick Your Own Path]]* (2012-{{CURRENTYEAR}})
-* *[[The Tribunal]]* (2012)
 * *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013) (cohost)
-* *[[Camp Madeupponthaspotta]]* (2014)
+* *[[Pick Your Own Path]]* (2012-{{CURRENTYEAR}})
+* *[[The Sword of Merlin Works]]* 2012
+* *[[The Tribunal]]* (2012)
 
 ## Troupes
 * [[Happy Butter]] (2011)
