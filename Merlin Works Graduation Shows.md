@@ -10,6 +10,8 @@ Each run was the culmination of the school's "601" class which specialized in cr
 |-
 |10/9/10||10/30/10||*[[' ' or Bust!]]*||[[Shana Merlin]]
 |-
+|12/4/10||12/18/10||*[[Bad Company]]*||[[Shana Merlin]], [[Ted Rutherford]]
+|-
 |5/14/11||5/28/11||*[[Doctors Without Boundaries]]*||[[Shana Merlin]]
 |-
 |7/23/11||8/6/11||*[[The Trouble With Terry]]*||[[Shana Merlin]]
