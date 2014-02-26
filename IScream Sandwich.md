@@ -1,4 +1,4 @@
-{{Lowercase title}}
+{{DISPLAYTITLE:iScream Sandwich}}
 
 {{Infobox Troupe
 |Name	=		iScream Sandwich
