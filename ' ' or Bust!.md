@@ -4,7 +4,7 @@
 |Theater = [[Salvage Vanguard Theater]]
 |Producer = [[Gnap! Theater Projects]]
 |Director =	[[Shana Merlin]]
-|Cast =	{{Unbulleted list | [[Bob Khosravi]] | [[Britney Salyer]] | [[Jerry Akellian]] | [[Neal Tibrewala]] | [[Quinn Buckner]] | [[Reid Jacobson]] | [[Robin Kay Anderson]] | [[Valerie Nies]] }}
+|Cast =	{{Unbulleted list | [[Bob Khosravi]] | [[Britney Salyer]] | [[Jerry Akellian]] | [[Neal Tibrewala]] | [[Quinn Buckner]] | [[Reid Jacobson]] | [[Robin Anderson]] | [[Valerie Nies]] }}
 |Run	=	Oct 2010
 }}
 
