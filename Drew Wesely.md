@@ -15,16 +15,16 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * [[Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB four times, three times in UCBT's DCM, and Chicago Improv Festival)
 * [[Who Dack]] - improv troupe (captain) 
 * [[What's the Story, Steve]] - improv and sketchprov troupe (Performed in OOB)
-* [[Stool Pigeon]] - performer
 * [[ColdTowne TourCo]] - (Performed in DCM and NYC's Magnet Theater, and Charleston Improv Festival)
 * [[First United Methodist Church of Plano Youth Group Improv]] 
 * [[Townsville]] - actor  (Performed in Frontera Fest)
-* [[Delta Force of Venus]] - improv troupe (captain)
 * [[Array]] - JTS Brown format troupe (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
 
 ## Past Improv Troupes
 * [[Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
+* [[Delta Force of Venus]] - improv troupe (captain)
 * [[Unfurled]] - improv troupe (Performed in TCIF, NCCAF, OOB and twice in NOIF)
+* [[Stool Pigeon]] - performer
 * [[UpTowne]] - sketch actor/writer
 * [[Lifeboat]] - Cagematch champion
 * [[The Draft]]
