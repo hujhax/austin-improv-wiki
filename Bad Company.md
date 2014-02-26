@@ -4,7 +4,7 @@
 |Theater=	[[Gnap! Theater Projects]]
 |Director =	[[Shana Merlin & Ted Rutherford]]
 |Cast	=	{{Unbulleted list | [[Ashlee Medlin]] | [[Bob Khosravi]] | [[David Rosenbaum]] | [[Enecito Acedillo]] | [[Jessica Salinas]] | [[Luis Salinas]] | [[Scott Crocker]] | }}
-|Run	=	November 2010
+|Run	=	December 2010
 }}
 
 ***Bad Company*** was an improvised longform narrative show inspired by mockumentaries such as The Office.
