@@ -60,10 +60,10 @@ The show was originally called *This American Live*, but in 2013, it received a 
 
 ## Media
 ### Videos
-* [http://www.viddler.com/v/a565f130 Video] of the 5/4/12 premiere ("A Map of the World").
-* [http://www.viddler.com/v/82b8359b Video] of the 5/11/12 show ("Co-Existence").
-* [http://www.viddler.com/v/a6fd2140 Video] of the 5/18/12 show ("Physics as a Metaphor").
-* [http://www.viddler.com/v/f878f53c Video] of the 5/25/12 show ("Cinematic Reality").
+* [http://www.viddler.com/v/a565f130 Video] of the 5/18/12 premiere ("A Map of the World").
+* [http://www.viddler.com/v/82b8359b Video] of the 5/19/12 show ("Co-Existence").
+* [http://www.viddler.com/v/a6fd2140 Video] of the 5/25/12 show ("Physics as a Metaphor").
+* [http://www.viddler.com/v/f878f53c Video] of the 5/26/12 show ("Cinematic Reality").
 * [http://www.viddler.com/v/3a208da7 Video] of the 6/1/12 show ("What a Coincidence").
 
 ### Photos
