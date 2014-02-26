@@ -10,7 +10,7 @@
 
 ***The Sword of Merlin Works*** was an improvised narrative based on [[Wikipedia - King Arthur|Arthurian]] fantasy.
 
-It was a graduation show of the Merlin Works School of Improvisation.
+It was a [[Merlin Works Graduation Shows|Merlin Works graduation show]].
 
 ## History
 The show ran for three performances: Saturday 10pm shows on 5/19/12, 6/2/12, and 6/9/12.
