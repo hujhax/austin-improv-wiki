@@ -12,6 +12,8 @@ Each run was the culmination of the school's "601" class which specialized in cr
 |-
 |5/14/11||5/28/11||*[[Doctors Without Boundaries]]*||[[Shana Merlin]]
 |-
+|7/23/11||8/6/11||*[[The Trouble With Terry]]*||[[Shana Merlin]]
+|-
 |12/3/11||12/17/11||*[[The Amazing Improvised Race]]*||[[Aden Kirschner]], [[Shana Merlin]]
 |-
 |5/19/12||6/9/12||*[[The Sword of Merlin Works]]*||[[Michael Joplin]], [[Quinn Buckner]]
