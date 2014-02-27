@@ -1,8 +1,8 @@
 {{Infobox Show
 |Name	=	Theatresports	
 |Picture = TheatreSports.jpg
-|Director = Various
-|Assistant Director = Various
+|Director = {{Unbulleted list | [[Dav Wallace]] and [[Sean Hill]] (2007) | [[Andy Crouch]] and [[Kareem Badr]] (2010) | [[Roy Janik]] (2013) | [[Lacy Shawn]] and [[Ryan Austin]] (2014) }}
+|Assistant Director = [[Ryan Austin]] (2013)
 |Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Aden Kirschner]] | [[Amira Wizig]] | [[Andrew Buck]] | [[Andrew Robinson]] | [[Andy Crouch]] | [[Asaf Ronen]] | [[Brad Temple]] | [[Bridget Brewer]] | [[Ceej Allen]] | [[David Lampe]] | [[Emily Breedlove]] | [[Eric Heiberg]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Jay Michael]] | [[Jessica Arjet]] | [[Joe Fraser]] | [[Jon Bolden]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Katie Dahm]] | [[Keegan Hines]] | [[Kristin Firth]] | [[Kyle Traughber]] | [[Lacy Shawn]] | [[Lauren Buck]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mia Iseman]] | [[Monique Daviau]] | [[Nicole Oliver]] | [[Patrick Daniel]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Roy Janik]] | [[Sarah Marie Curry]] | [[Sean Hill]] | [[Shana Merlin]] | [[Shannon McCormick]] | [[Stacy Kaplowitz]] | [[Ted Rutherford]] | [[Teresa Troxel]] | [[Troy Miller]] }}
 |Theater = [[The Hideout Theatre]]
 |Run	=	Apr-Jun 2007
