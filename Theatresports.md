@@ -69,9 +69,9 @@ For this one, teams were set at the start of the run, and those teams played tog
 ** [[Teresa Troxel]]
 
 ## Third Run
-The third run is being directed by [[Roy Janik]], with assistance from [[Ryan Austin]].
+The third run was directed by [[Roy Janik]], with assistance from [[Ryan Austin]].
 
-In the 2013 run, the show opens with a 15-minute student bout, featuring two student teams captained by a member of the core cast. This is followed by an "exhibition match", featuring teams organized around some kind of theme.  After an intermission, there is a "main event" bout, involving teams sponsored by local businesses and drawn from the show's cast.  Each performance has a designated "snogger", or scenographer, who handles props, costumes, and scene-painting throughout the show.
+In the 2013 run, the show opened with a 15-minute student bout, featuring two student teams captained by a member of the core cast. This was followed by an "exhibition match", featuring teams organized around some kind of theme.  After an intermission, there was a "main event" bout, involving teams sponsored by local businesses and drawn from the show's cast.  Each performance had a designated "snogger", or scenographer, who handled props, costumes, and scene-painting throughout the show.
 
 The show runs in the downstairs theater.
 
