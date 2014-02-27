@@ -7,12 +7,12 @@
 |Run	=	December 2010
 }}
 
-***Bad Company*** was an improvised longform narrative show inspired by mockumentaries such as The Office.
+***Bad Company*** was an improvised longform narrative show inspired by mockumentaries such as *[[Wikipedia - The Office|The Office]]*.
 
-It was a MerlinWorks 601 graduation show that opened the Saturday Night Special for a three-week run at [[Salvage Vanguard Theater]].
+It was a [[Merlin Works Graduation Show]] that opened the *[[Saturday Night Special]]* for a three-week run at [[Salvage Vanguard Theater]].
 
 
 ## Media
 * [http://vimeo.com/34696186 Museum]
 
-[[Category/Shows|Bad]]
+[[Category/Shows|Category:Shows]]
