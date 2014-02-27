@@ -1,8 +1,9 @@
 {{Infobox Show
 |Name	=	Bad Company	
 |Picture=	BadCo.jpg
-|Theater=	[[Gnap! Theater Projects]]
-|Director =	[[Shana Merlin & Ted Rutherford]]
+|Producer=	[[Gnap! Theater Projects]]
+|Theater=	[[Salvage Vanguard Theater]]
+|Director =	{{Unbulleted list | [[Shana Merlin]] | [[Ted Rutherford]] }}
 |Cast	=	{{Unbulleted list | [[Ashlee Medlin]] | [[Bob Khosravi]] | [[David Rosenbaum]] | [[Enecito Acedillo]] | [[Jessica Salinas]] | [[Luis Salinas]] | [[Scott Crocker]] | }}
 |Run	=	December 2010
 }}
