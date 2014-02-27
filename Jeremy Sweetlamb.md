@@ -5,7 +5,7 @@
 |Years	=	1999-2003, 2011-Present
 }}
 
-**Jeremy Sweetlamb** (née **Jeremy Lamb**) is an improv performer, director, and teacher.
+**Jeremy Sweetlamb** (né **Jeremy Lamb**) is an improv performer, director, and teacher.
 
 ## History
 Jeremy founded [[Well Hung Jury]] in 1998, [[The Out of Bounds Comedy Festival]] in 2002, and [[Available Cupholders]] in 2004. He has also performed solo improv nationally under the name Bearded Lamb.
