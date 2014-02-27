@@ -14,7 +14,9 @@ David has studied primarily with [[Merlin Works]].
 * 
 
 ## Shows
+* *[[Epic]]* (2012)
 * *[[The Sword of Merlin Works]]* (2012)
+* *[[The Amazing Improvised Race]]* (2012)
 * *[[The Trouble With Terry]]* (2011)
 
 
