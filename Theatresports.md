@@ -3,7 +3,7 @@
 |Picture = TheatreSports.jpg
 |Director = Various
 |Assistant Director = Various
-|Cast	=	Various
+|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Aden Kirschner]] | [[Amira Wizig]] | [[Andrew Buck]] | [[Andrew Robinson]] | [[Andy Crouch]] | [[Asaf Ronen]] | [[Brad Temple]] | [[Bridget Brewer]] | [[Ceej Allen]] | [[David Lampe]] | [[Emily Breedlove]] | [[Eric Heiberg]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Jay Michael]] | [[Jessica Arjet]] | [[Joe Fraser]] | [[Jon Bolden]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Katie Dahm]] | [[Keegan Hines]] | [[Kristin Firth]] | [[Kyle Traughber]] | [[Lacy Shawn]] | [[Lauren Buck]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mia Iseman]] | [[Monique Daviau]] | [[Nicole Oliver]] | [[Patrick Daniel]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Roy Janik]] | [[Sarah Marie Curry]] | [[Sean Hill]] | [[Shana Merlin]] | [[Shannon McCormick]] | [[Stacy Kaplowitz]] | [[Ted Rutherford]] | [[Teresa Troxel]] | [[Troy Miller]] }}
 |Theater = [[The Hideout Theatre]]
 |Run	=	Apr-Jun 2007
 |Subsequent Runs = {{Unbulleted list | Sep/Oct 2010 | May/Jun 2013 | May/Jun 2014 }}
