@@ -1,4 +1,4 @@
-{Infobox Performer
+{{Infobox Performer
 |Name	=	Luis Salinas	
 |Picture = ls_cropped.jpg
 |Theater=	[[The Institution Theatre]]
