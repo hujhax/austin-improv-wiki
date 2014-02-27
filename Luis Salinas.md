@@ -14,9 +14,9 @@ Luis began his improv journey in the Fall of 2009, with the Improv 101 course at
 * [[Dumbasses]] (2011-Present)
 
 ## Shows
-* *[[Not This American Life (Season 1)]]*
+* *[[Not This American Life]]* (Season 1)
 * *[[The ReSet Project]]*
-* *[[LoveFest (Season 2)]]*
+* *[[Lovefest]]* (Season 2)
 * *[[Trust No One]]*
 
 
