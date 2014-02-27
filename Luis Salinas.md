@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Luis Salinas	
 |Picture = ls_cropped.jpg
-|Theater=	[[The Institution Theatre]]
+|Theater=	[[The Institution Theater]]
 |Years	=	2010-Present
 }}
 
