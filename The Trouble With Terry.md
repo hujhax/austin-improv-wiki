@@ -5,12 +5,12 @@
 |Producer=	[[Gnap! Theater Projects]]
 |Director =	[[Shana Merlin]]
 |Cast	=	{{Unbulleted list | [[David Wells]] | [[Dee Ann Asbury]] | [[Erica Swanholm Knisely]] | [[Leng Wong]] | [[Luis Salinas]] | [[Patrick Knisely]] | }}
-|Run	=	July 2011
+|Run	=	Jul/Aug 2011
 }}
 
 ***The Trouble With Terry*** was an improvised longform narrative show inspired by fantastical television sitcoms such as *Alf*, *Bewitched*, *I Dream of Genie*, and *My Mother the Car*.
 
-It was a [[Merlin Works Graduation Show]] that opened *[[The Saturday Night Special]]* for a three-week run at [[Salvage Vanguard Theater]].
+It was a [[Merlin Works Graduation Show]] that opened *[[The Saturday Night Special]]* for a three-week run (7/23/11, 7/30/11, 8/6/11) at [[Salvage Vanguard Theater]].
 
 
 ## Media
