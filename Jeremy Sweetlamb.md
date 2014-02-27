@@ -27,5 +27,6 @@ In 2003, Jeremy left Austin for Chicago.  He returned in 2006, went to LA in 200
 * *[[Myth Debunkers]]* (Jaime Hyneman)
 * *[[Process]]* (director)
 * *[[Thinning the Herd]]*
+* Hideout 40-Hour Marathon
 
 [[Category/Performers|Sweetlamb]]
