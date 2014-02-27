@@ -11,5 +11,8 @@
 * [[Opposites]]
 * [[Puppet Improv Project]]
 
+## Shows
+* *[[The Trouble With Terry]]*
+
 [[Category/Teachers|Knisely]]
 [[Category/Performers|Knisely]]
