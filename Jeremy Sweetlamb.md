@@ -16,11 +16,11 @@ In 2003, Jeremy left Austin for Chicago.  He returned in 2006, went to LA in 200
 * [[Available Cupholders]]
 * [[The Heroes of Comedy]] 
 * [[Well Hung Jury]]
-Backpack Picnic
-Gravy
-Catch 24
-Kazillionaire*
-Bearded Lamb
+* Backpack Picnic
+* Gravy
+* Catch 24
+* Kazillionaire*
+* Bearded Lamb
 
 ## Shows
 * *[[Fakespeare]]* (Benedick / First Murderer/Old Siward)
