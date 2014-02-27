@@ -5,12 +5,12 @@
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	{{Unbulleted list | [[Shana Merlin]] | [[Ted Rutherford]] }}
 |Cast	=	{{Unbulleted list | [[Ashlee Medlin]] | [[Bob Khosravi]] | [[David Rosenbaum]] | [[Enecito Acedillo]] | [[Jessica Salinas]] | [[Luis Salinas]] | [[Scott Crocker]] | }}
-|Run	=	December 2010
+|Run	=	Dec 2010
 }}
 
 ***Bad Company*** was an improvised longform narrative show inspired by mockumentaries such as *[[Wikipedia - The Office|The Office]]*.
 
-It was a [[Merlin Works Graduation Show]] that opened the *[[Saturday Night Special]]* for a three-week run at [[Salvage Vanguard Theater]].
+It was a [[Merlin Works Graduation Show]] that opened the *[[Saturday Night Special]]* for a three-week run (12/4/10, 12/11/10, 12/18/10) at [[Salvage Vanguard Theater]].
 
 
 ## Media
