@@ -25,7 +25,7 @@ The show ran the second and fourth Friday of every month.
 ** [[Jen Spencer]]
 ** [[Jessica Salinas]]
 ** [[Jon Bolden]]
-*** Hosted by [[Shana Merlin]].
+** Hosted by [[Shana Merlin]].
 ** Sound by [[Joshua Bush]].
 * 9/11/09:
 ** [[David Harper]]
