@@ -9,6 +9,7 @@ TBA
 ## Staff
 * [[Roy Janik]] - Artistic Director
 * [[Ryan Hill]] - Producer
+* [[Jessie Pascarelli]] - Assistant Producer
 
 ## Schedule
 TBA
