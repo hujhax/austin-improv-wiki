@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name = The ReSet Project	
-|Picture =	The ReSet Project.jpg
+|Picture =	The ReSet Project.png
 |Theater = [[Salvage Vanguard Theater]]
 |Producer = [[Lucky Chaos Theatre Projects]]
 |Director =	[[Asaf Ronen]]
