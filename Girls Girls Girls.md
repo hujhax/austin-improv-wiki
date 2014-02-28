@@ -138,6 +138,15 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.670030793018419.1073741871.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 12/7/13 performance at [[The Institution Theater]].
 
+### *[[Boys of Summer]]*
+This section lists media specifically for their *[[Boys of Summer]]* shows.
+
+#### Videos
+{{Boys of Summer Videos}}
+
+#### Photos
+{{Boys of Summer Photos}}
+
 ## More Information
 * [http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/ The troupe's web page.]
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2398141 Interview] with cast members [[Aden Kirschner]] and [[Shana Merlin]] on *[[The Theft Forum]]*.
