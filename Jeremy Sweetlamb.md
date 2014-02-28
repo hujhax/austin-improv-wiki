@@ -23,10 +23,10 @@ In 2003, Jeremy left Austin for Chicago.  He returned in 2006, went to LA in 200
 * [[Bearded Lamb]]
 
 ## Shows
-* *[[Fakespeare]]* (Benedick / First Murderer/Old Siward)
+* *[[Fakespeare]]* (Benedick / First Murderer / Old Siward)
 * *[[Myth Debunkers]]* (Jaime Hyneman)
 * *[[Process]]* (director)
 * *[[Thinning the Herd]]*
-* Hideout 40-Hour Marathon
+* [[The 40-Hour Improv Marathon]]
 
 [[Category/Performers|Sweetlamb]]
