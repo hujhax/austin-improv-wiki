@@ -71,21 +71,10 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 
 ## Media
 ### Videos
-* [http://youtu.be/RAIGgBSf0rA Video] of [[Marc Majcher]] guesting with *Boys of Summer* on 8/9/08.
-* [http://vimeo.com/13888720 Video] of [[Peter Rogers]] guesting with *Boys of Summer* on 7/30/10.
-* Video of [[Jay Byrd]] guesting with *Boys of Summer* in 2011: [http://vimeo.com/29503112 part 1], [http://vimeo.com/30314674 part 2].
-* [http://vimeo.com/27829205 Video] of [[Jason Finkelman]] guesting with *Boys of Summer* in 2011.
-* [http://vimeo.com/28332016 Video] of [[Deano Jones]] guesting with *Boys of Summer* in 2011.
-* [http://vimeo.com/29000288 Video] of [[Jason Laney]] guesting with *Boys of Summer* in 2011.
-* [http://youtu.be/0Ed8OCc5R2E&feature=youtu.be Video] of [[Mitch Mills]] guesting with *Boys of Summer* in 2013.
+{{Boys of Summer Videos}}
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.449206698434164.100559.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 7/21/12 performance with [[Clay Towery]].
-* [http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3 A snapshot] of [[Peter Rogers]] as guest boy on 7/30/10.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.148885235192508.40280.100002130980897&type=3 A photoset] by [[Steve Rogers]] of the 7/31/11 show featuring [[Michael Thomas]]. ("Comic Book Convention")
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3 A photoset] by [[Steve Rogers]] of the 8/27/11 show featuring [[Jason Laney]]. ("Mortuary")
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200301863411969.1073741843.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2013 show featuring [[Chuy Zarate]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.614654581889374.1073741852.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 8/16/13 show featuring [[Brently Heilbron]].
+{{Boys of Summer Photos}}
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
