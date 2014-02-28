@@ -18,7 +18,6 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[The Next Chapter]]* (2013)
 * *[[Only Three Will Survive]]*
 * *[[Pulp Friction]]*
-* *[[The ReSet Project]]*
 * *[[The Suitcase]]* (2013)
 * *[[This American Live]]*
 * *[[Trust No One]]*
