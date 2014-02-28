@@ -1,7 +1,7 @@
 **The 45-Hour Improv Marathon** will be the sixth annual [[Hideout Improv Marathon]].
 
 ## Summary
-It was performed in 2014, starting Friday, June 20 and ending Sunday, June 22.
+It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/14.
 
 ## Core Players
 TBA
