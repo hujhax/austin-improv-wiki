@@ -24,6 +24,7 @@ Jason also works in film and is a special effects artist.
 * *[[After School Improv]]* (Director)
 * *[[The Andersons]]*
 * *[[Apocalypse! (show)|Apocalypse!]]*
+* *[[Bad Girls in Plaid Skirts]]* (The Spawn Of Satan)
 * *[[Cochise]]*
 * *[[Ka-Baam!!]]*
 * *[[Lola]]*
