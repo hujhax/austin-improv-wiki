@@ -13,7 +13,7 @@
 ## Summary
 The troupe hosts a weekly improv show, *[[The Triple Scoop]]*, on Saturday nights at 10pm.
 
-They perform a modified Harold, with a much looser structure.
+They perform a Harold.
 
 ## Media
 ### Videos
