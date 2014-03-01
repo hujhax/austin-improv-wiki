@@ -1,3 +1,4 @@
- Hello! kdccaef interesting kdccaef site! I'm really like it! Very, very kdccaef good!
+## Summary
+The default image for a show or theater.
 
-Very nice site!
+Taken from http://all-free-download.com/free-vector/vector-clip-art/wasat_theatre_masks_clip_art_26216.html.
