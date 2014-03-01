@@ -15,6 +15,7 @@ Clifton Highfield has over 15 years of improv experience. His Austin improv expe
 * [[Nugefield]]
 
 ## Shows
+* *[[Bad Girls in Plaid Skirts]]* (Jesus Christ)
 * *[[Danger!]]*
 * *[[Pulp Friction]]*
 * *[[Lovefest]]*
