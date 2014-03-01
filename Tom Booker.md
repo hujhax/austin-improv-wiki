@@ -23,7 +23,7 @@ He's a really nice guy. You should meet him.
 * [[Confidence Men]]
 
 ## Shows
-* *[[Bad Girls in Plaid Skirts]]* (director)
+* *[[Bad Girls in Plaid Skirts]]* (writer, director, performer [The Bishop])
 * *[[Fuck It's Christmas]]* (director, performer)
 * *[[Fuck It's Hot]]* (director)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (director)
