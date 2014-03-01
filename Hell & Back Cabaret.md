@@ -15,7 +15,9 @@ The show includes a range of guests, ranging from music and improv to magic, men
 
 As those last items imply, its marketing tends to be 19th-century-themed.
 
-It is hosted by [[Adriane Shown]] (as "Helena Back"), and runs Fridays at 10pm.
+It is hosted by [[Adriane Shown]] (as "Helena Back").
+
+Its first run was Saturdays at 8pm; subsequent runs have been on Fridays at 10pm.
 
 ## Media
 ### Photos
