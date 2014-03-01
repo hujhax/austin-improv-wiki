@@ -26,5 +26,7 @@ It is hosted by [[Adriane Shown]] (as "Helena Back"), and runs Fridays at 10pm.
 
 ## More Information
 * [http://www.facebook.com/HellBackCabaret The show's facebook page.]
+* [http://www.facebook.com/events/504576142924233/ Facebook event for the 6/29/13 show.]
+* [http://www.facebook.com/events/552329074802802/ Facebook event for the 9/27/13 show.]
 
 [[Category/Shows|Category:Shows]]
