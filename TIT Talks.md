@@ -25,8 +25,8 @@ It is hosted by [[Wikipedia - KGSR|KGSR]]'s [http://www.kgsr.com/jocks/kristen.a
 * 3/8/14: Lectures from [[John Buseman]], [[Sarah Marie Curry]], [[Lindsay Hejl]], [[Justin Strackany]], and [[Drew Wesely]]; performances from [[Roxy Castillo]] and [[David Howe]].
 * 3/14/14: Lectures from [[John Buseman]], [[Sarah Marie Curry]], [[Michael Joplin]], [[Amy Jordan]], and [[Drew Wesely]]; a performance from [[Adam Niederpruem]].
 * 3/15/14: Lectures from [[Tom Booker]], [[Amy Jordan]], [[Ash Nunley]], and [[Drew Wesely]]; a performance from [[Adam Niederpruem]].
-* 3/21/14: Lectures from [[Justin Davidson]], [[Emma Holder]], [[Bryan “Lubu” Roberts]], and [[Asaf Ronen]],; performances from [[Thomas Niland]] and [[The Balance Brothers]].
-* 3/22/14: Lectures from [[Emma Holder]], [[Ash Nunley]], [[Bryan “Lubu” Roberts]], and [[Asaf Ronen]],; performances from [[Roxy Castillo]] and [[The Balance Brothers]].
+* 3/21/14: Lectures from [[Justin Davidson]], [[Emma Holder]], [[Bryan 'Lubu' Roberts]], and [[Asaf Ronen]],; performances from [[Thomas Niland]] and [[The Balance Brothers]].
+* 3/22/14: Lectures from [[Emma Holder]], [[Ash Nunley]], [[Bryan 'Lubu' Roberts]], and [[Asaf Ronen]],; performances from [[Roxy Castillo]] and [[The Balance Brothers]].
 
 ## More Information
 * [http://www.theinstitutiontheater.com/shows The show's web page.]
