@@ -16,9 +16,10 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[Manson -  The Musical]]*
 * *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
 * *[[The Next Chapter]]* (2013)
+* *[[Not This American Life]]*
 * *[[Only Three Will Survive]]*
 * *[[Pulp Friction]]*
 * *[[The Suitcase]]* (2013)
-* *[[This American Live]]*
+* *[[TIT Talks]]*
 * *[[Trust No One]]*
 * *[[You Think You're So Smart]]*
