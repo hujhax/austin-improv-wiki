@@ -1,6 +1,5 @@
 ## Summary
-Screen grab from a performance video of *[[The Amazing Improvised Race]]*.
+Publicity poster for *The Amazing Improvised Race*. Photo by [[Steve Rogers]]. Art by [[Courtney Hopkin]].
 
-Video by [[David Wells]] of the 12/10/11 performance.
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
