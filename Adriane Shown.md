@@ -23,15 +23,15 @@ She was one of the recipients of the [[Tom Booker]] Appreciation Awards at [[The
 * *[[The Suitcase]]* (mise-en-scene, costume design)
 
 #### Additional Scripted Shows
-* "Mr Marmalade"
 * "Cafe at the End of Time"
-* "The Vagina Monologues"
-* "Fire & Ash" (solo performance)
 * "Dead White Males"
+* "Fire & Ash" (solo performance)
+* "Mr Marmalade"
+* "The Vagina Monologues"
 
 #### Film Appearances
-* "Summer League"
 * "The Man from Orlando"
+* "Summer League"
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2323283 Interview with Adriane Shown] on *[[The Theft Forum]]*.
