@@ -5,7 +5,7 @@
 |Director =	[[Adriane Shown]]
 |Cast =	Various
 |Run	=	Jun 2013
-|Subsequent Runs = {{Unbulleted list | Sep 2013 | Apr 2014 | Nov 2013 }}
+|Subsequent Runs = {{Unbulleted list | Sep 2013 | Nov 2013 | Apr 2014 }}
 }}
 
 ***Hell & Back Cabaret*** is a variety show at [[The Institution Theater]].
