@@ -15,7 +15,7 @@ They were voted "Outstanding New Troupe" at [[ColdTowne Theater]] in 2013.
 
 ## Media
 ### Videos
-* [https://vimeo.com/channels/austinimprov/77204222 Video of their 6/22/13 show] in [[The 44-Hour Improv Marathon]].
+* [http://vimeo.com/channels/austinimprov/77204222 Video of their 6/22/13 show] in [[The 44-Hour Improv Marathon]].
 
 ## More Information
 * [http://www.facebook.com/cheapdateatx The troupe's facebook page.]
