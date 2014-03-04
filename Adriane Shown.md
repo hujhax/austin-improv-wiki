@@ -1,14 +1,39 @@
-Adriane Shown (Actor / Artist / eBay Goddess) has been on stage & behind the scenes 
-in several of Austin’s theatres in scripted & improvisational works.
-Among the productions are “The Cherry Bowl” (silent clown adaptation of The Cherry Orchard) “Mr Marmalade”, 
-“Bad Girls in Plaid Skirts”,  “Cafe at the End of Time”, “The Vagina Monologues” & solo performance, “Fire & Ash”. 
-Creator, Director & host Gentress Helena Back of “Hell & Back Cabaret” featuring her improv troupe 
-of rotating guests, “The Dark Sparkles” & her burlesque persona, Sugarbabe Goodhue.
-Recently on screen in “Summer League” & “The Man from Orlando”.
-Costume & set designer, wardrobe & prop mistress, are some other hats she has worn 
-for several film & stage productions, among them are the B Iden Payne awarded 
-“The Suitcase” & “Dead White Males”.
-She can be seen in upcoming productions of “The Vagina Monologues” at ND; 
-“Hurly Burly”, an improvised play, set in the 1930’s, behind the scenes of a burlesque show.
-And a third run of her own show, “Hell & Back Cabaret”, both at The Institution Theatre.
-The Theft Forum : Episode 28
+{{Infobox Performer
+|Name	=	Adriane Shown	
+|Picture =	Adriane Shown Pic.jpg
+|Theater=	[[The Institution Theater]]
+|Years	=	2011-Present
+}}
+
+**Adriane Shown** is an improv performer, musician, and technical improvisor.
+
+## History
+She was one of the recipients of the [[Tom Booker]] Appreciation Awards at [[The 2014 Institution Theater Awards]].
+
+## Troupes
+* [[The Dark Sparkles]]
+
+## Shows
+* *[[Bad Girls in Plaid Skirts]]* (Mother Superior)
+* *[[The Cherry Bowl]]* (Lyubov, 2013 run)
+* *[[Hell & Back Cabaret]]* (creator, director, host [as "Helena Back"])
+* *[[Hurly Burly]]*
+* *[[Live TV Tuesdays -  Felicity]]* (ensemble)
+* *[[Live TV Tuesdays -  Scrubs]]* (Jordan/Ensemble)
+* *[[The Suitcase]]* (mise-en-scene, costume design)
+
+#### Additional Scripted Shows
+* "Mr Marmalade"
+* "Cafe at the End of Time"
+* "The Vagina Monologues"
+* "Fire & Ash" (solo performance)
+* "Dead White Males"
+
+#### Film Appearances
+* "Summer League"
+* "The Man from Orlando"
+
+## More Information
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2323283 Interview with Adriane Shown] on *[[The Theft Forum]]*.
+
+[[Category/Performers|Shown]]
