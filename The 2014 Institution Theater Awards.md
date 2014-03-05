@@ -52,7 +52,7 @@ Winners are listed in **bold text**.
 * [[Wyatt Tall]]
 
 ### Favorite Female Performer
-* [[Adriene Shown]]
+* [[Adriane Shown]]
 * [[Carissa McAtee]]
 * **[[Erica Lies]]**
 * [[Heidi Caldwell]]
