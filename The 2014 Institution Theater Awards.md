@@ -16,7 +16,7 @@ Winners are listed in **bold text**.
 ### Favorite Scripted, Sketch, or Variety Show
 * *[[Bad Girls in Plaid Skirts]]*
 * ***[[Fuck It's Hot]]***
-* *[[Hell and Back Cabaret]]*
+* *[[Hell & Back Cabaret]]*
 * *[[Lovefest]]*
 * *[[Not This American Life]]*
 
