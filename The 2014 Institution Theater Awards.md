@@ -127,6 +127,9 @@ Tom Booker gave out four appreciation awards in the ceremony, to the following p
 * [[Sarah Marie Curry]]
 
 ## Media
+### Photos
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.712689492085882.1073741882.100000345135257&type=3 Photoset] by [[Claudio Fox]].
+
 ### Videos
 * [http://www.youtube.com/watch?v=1khtgKzALQI Announcement of the 2014 nominees.]
 
