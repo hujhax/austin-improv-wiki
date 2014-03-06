@@ -4,7 +4,7 @@
 |Theater = [[Salvage Vanguard Theater]]
 |Producer = [[Lucky Chaos Theatre Projects]]
 |Director =	[[Asaf Ronen]]
-|Cast =	{{Unbulleted list | [[Bob Olmstead]] | [[Circe Strum]] | [[Jessica Salinas]] | [[Kathy Rose Center]] | [[Leng Wong]] | [[Luis Salinas]] | [[Mike Kinald]] | [[Paul Normandin]] }}
+|Cast =	{{Unbulleted list | [[Bob Olmstead]] | [[Circe Sturm]] | [[Jessica Salinas]] | [[Kathy Rose Center]] | [[Leng Wong]] | [[Luis Salinas]] | [[Mike Kinald]] | [[Paul Normandin]] }}
 |Run	=	Aug/Sep 2013
 }}
 
