@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name               = Camp Madeupponaspotta
+|Picture            = Camp Madeupponaspotta.png
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Jon Bolden]]
 |Assistant Director = [[Nicole Oliver]]
