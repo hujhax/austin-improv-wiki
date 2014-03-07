@@ -26,7 +26,7 @@ The first act begins with Beckett narrating broadly, awakening the cast from sta
 ### Act II: Windows as inspired by Play
 The second act begins with Sam narrating and moving the cast into *Play* position, seated side by side, a new act with a new look. Three parallel monologues that explore life after death, the same three characters from Act One, is the basis of Act Two. As well, the Beckett mechanics differ significantly then those in Act One.
 
-### Act III: The Fireplace as inspired by Not, I
+### Act III: Doorways as inspired by Not, I
 The third act begins with Sam standing and removing his scarf, the cast follows removing their costume scarves and moving to the front of the stage. One by one, director to actor, we seem them in a whole new light, transparent and vulnerable, a very unique tilt that shatters the fourth wall. As well, all of Act Three is spot lit.
 
 ## History
