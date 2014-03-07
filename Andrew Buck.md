@@ -22,7 +22,7 @@ Andrew also maintains an improv-related blog at [http://www.yesandrew.com YesAnd
 * *[[Array]]*
 * *[[Past Lives]]*
 * *[[I Love You So Much]]*
-* "[[TheatreSports 2014]]"
+* [[TheatreSports 2014]]
 
 ## Troupes
 * [[The Seven Eight Sevens]]
