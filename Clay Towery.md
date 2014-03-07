@@ -8,9 +8,11 @@
 **Clay Towery** was an improv performer and director.
 
 ## History
+Clay has a long history of performance in music, scripted theater, dance and improv. He studied acting at St. Edward's University.
+
 Clay was a company member of [[Gnap! Theater Projects]].
 
-He passed away the morning of 2/13/14.
+He passed away unexpectedly the morning of February 13, 2014.
 
 ## Troupes
 * [[Dandy]]
