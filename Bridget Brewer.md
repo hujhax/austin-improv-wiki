@@ -7,6 +7,9 @@
 
 **Bridget Brewer** is an improv performer.
 
+## Troupes
+* [[BeauMoMa]]
+
 ## Shows
 * *[[Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]* (sound tech)
