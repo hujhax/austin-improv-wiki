@@ -4,7 +4,14 @@
 It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/14.
 
 ## Core Players
-TBA
+* [[Bridget Brewer]]
+* [[Dave Buckman]]
+* Jonathan Monkhouse
+* [[Katie Dahm]]
+* [[Michael Ferstenfeld]]
+* [[Rachel Madorsky]]
+* [[Ruby Willmann]]
+* [[Troy Miller]]
 
 ## Staff
 * [[Roy Janik]] - Artistic Director
