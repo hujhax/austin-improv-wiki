@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Your Dad's Friends
 |Picture	=	Your Dad's Friends.jpg
-|Cast	=	{{Unbulleted list|[[Chuy Zarate]]|[[David Lampe]]|[[Kevin Miller]]|[[Summer Wilson Brow]]}}
+|Cast	=	{{Unbulleted list|[[Brently Heilbron]]|[[Chuy Zarate]]|[[David Lampe]]|[[Kevin Miller]]|[[Summer Wilson Brow]]}}
 |Years	=		2010-Present
 }}
 
