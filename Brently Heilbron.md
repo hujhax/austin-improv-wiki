@@ -15,6 +15,8 @@ He guested with [[Girls Girls Girls]] during their *[[Boys of Summer]]* run in 2
 ## Troupes
 * [[Monks Night Out]]
 * [[Only 90% Effective]]
+* [[P.A.L.S]]
+* [[Your Dad's Friends]]
 
 ## Shows
 * *[[Fuck It's Hot]]* (writer/musician [2013], writer/musician/director [2014])
