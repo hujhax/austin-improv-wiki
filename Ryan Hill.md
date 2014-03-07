@@ -37,6 +37,7 @@ Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]
 * *[[The Next Chapter]]*
 * *[[Not This American Life]]*
 * *[[Breaking Beckett]]*
+* *[[Trust No One]]* (Assistant Director)
 
 ## Festivals
 * [[The 2012 Out of Bounds Comedy Festival]]
