@@ -4,7 +4,7 @@
 |Theater=	[[The Institution Theater]]
 |Director =	[[Tom Booker]]
 |Cast	=	{{Unbulleted list | [[Ashley Lowe]] | [[Bryan Cruz]] | [[Cassiday Proctor]] | [[Erica Lies]] | [[Jason Vines]] | [[John Buseman]] | [[Martina Ohlhauser]] | [[Michael Thomas]] | [[Sara Osburn]] | [[Tyler Pratt]] }}
-|Tech	=	{{Unbulleted list | [[Jo Maraschino]] | [[Todd Hart]] }}
+|Tech	=	{{Unbulleted list | [[Madeline Jo Chauvin]] | [[Todd Hart]] }}
 |Run	=	Mar/Apr 2011
 }}
 :*This page refers to the [[Live TV Tuesdays]] presentation of "Spring Dance".  For the [[Gnap! Theater Projects]] improv show based on *90210*, see *[[Totally Improvised, 90210]]''.
