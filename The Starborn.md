@@ -48,4 +48,4 @@ In February of 2014 The Starborn headlined [[The Threefer]] at [[The Hideout The
 [[Category/Troupes|Starborn]]
 [[Category/Active|Category:Active]]
 [[Category/Duos|Starborn]]
-[[Category/Started as a Fringe Show‎|Category:Started as a Fringe Show‎]]
+[[Category/Started as a Fringe Show|Starborn‎]]
