@@ -24,6 +24,7 @@ In February of 2014 The Starborn headlined [[The Threefer]] at [[The Hideout The
 
 ## Media
 ### Videos
+* [https://vimeo.com/88495374 Video of their 7th performance] from 02/27/2014.
 * [https://vimeo.com/87466815 Video of their 6th performance] from 02/20/2014.
 * [http://vimeo.com/86862036 Video of their 5th performance] from 02/13/2014.
 * [http://vimeo.com/86311594 Video of their 4th performance] from 02/06/2014.
@@ -35,6 +36,7 @@ In February of 2014 The Starborn headlined [[The Threefer]] at [[The Hideout The
 * [http://www.hideouttheatre.com/the-starborn-descend Interview] for their February run of shows in [[The Threefer]]
 
 ### Photos
+* [https://www.facebook.com/warren.henderson.946/media_set?set=a.789847014379119.1073741865.100000614831752&type=1 photoset] by [[Warren Henderson]] Of their 02/27/2014 show in *[[The Threefer]]*.
 * [https://www.facebook.com/media/set/?set=a.268630569971078.1073741832.244975242336611&type=1 photoset] by [[Warren Henderson]] Of their 02/06/2014 show in *[[The Threefer]]*.
 * [https://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3  photoset] by [[Warren Henderson]] that includes their 11/15/2013 performance in *the [[2x4]]*.
 * [https://www.facebook.com/warren.henderson.946/media_set?set=a.697804313583390.1073741849.100000614831752&type=3  photoset] by [[Warren Henderson]] Of their 10/17/2013 show in *[[The Threefer]]*.
