@@ -1,0 +1,1 @@
+This is a list of stage entities that only had a single performance.
