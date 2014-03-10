@@ -32,3 +32,4 @@ Their last rehearsal was two weeks before Clay's death and consisted of watching
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
+[[Category/Only One Performance|Category:Only One Performance]]
