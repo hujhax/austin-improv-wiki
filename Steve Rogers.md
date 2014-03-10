@@ -1,5 +1,6 @@
 **Steve Rogers** is a photographer who has worked frequently with the Austin improv community, both photographing shows and shooting publicity photos.
 
+## Summary
 After cutting his teeth shooting a couple of performances of *[[Dusk]]* and *[[The Sandbox]]*, he did primary photography for the first time on *[[Showdown]]* in 2011.
 
 He has shot over 380 troupes and improv shows since then in all of the improv theaters.
