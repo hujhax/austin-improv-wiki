@@ -5,13 +5,14 @@
 |Years	=	2006-Present
 }}
 
-**Cody Dearing** is an improv performer and director.
+**Cody Dearing** is an improv performer, teacher, and director.
 
 ## History
 Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph" on 2/1/13.
 
 ## Troupes
 * [[Array]]
+* [[Scout]]
 
 ## Shows
 * *[[Family Tides]]*
@@ -23,3 +24,4 @@ Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph
 
 [[Category/Performers|Dearing]]
 [[Category/Directors|Dearing]]
+[[Category/Teachers|Dearing]]
