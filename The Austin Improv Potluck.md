@@ -26,7 +26,7 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 * 2010: [[Julie Gillis]]'s house.
 * 2011: [[The Institution Theater]]
 * 2012: The Elks Lodge
-* 2012: The Moose Lodge
+* 2013: The Moose Lodge
 
 ## Media
 ### Photos
