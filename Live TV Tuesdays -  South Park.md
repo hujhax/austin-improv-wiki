@@ -3,7 +3,7 @@
 |Picture=	Live TV Tuesdays - South Park.jpg
 |Theater=	[[The Institution Theater]]
 |Director = [[Brett Tribe]]
-|Cast	=	{{Unbulleted list | [[Amber Shae]] | [[Carissa McAtee]] | [[Christine Gwillam]] | [[Clinton Harris]] | [[Danine Lareu]] | [[Erik Chase]] | [[Guy Vizard]] | [[Jacob Bertrand]] | [[Jeremy Logan]] | [[Joel Ausanka Reese]] | [[Michael Pedicano]] | [[Mike Nystul]] | [[Nichole McCracken]] }}
+|Cast	=	{{Unbulleted list | [[Amber Shae]] | [[Carissa McAtee]] | [[Christine Gwillam]] | [[Clinton Harris]] | [[Danine Lareu]] | [[Erik Chase]] | [[Guy Vizard]] | [[Jacob Bertrand]] | [[Jeremy Logan]] | [[Joel Ausanka Reese]] | [[Michael Pedicano]] | [[Mike Nystul]] | [[Nicole McCracken]] }}
 |Run	=	Jun/Jul 2012
 }}
 ***Live TV Tuesdays: South Park*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - South Park|*South Park*]] episodes [[Wikipedia - Something You Can Do with Your Finger|"Something You Can Do with Your Finger"]] and [[Wikipedia - Professor Chaos|"Professor Chaos"]].
@@ -19,7 +19,7 @@ On 6/28/12, Viacom sent [[File/SouthParkCeaseAndDesist.jpg|a cease-and-desist le
 
 ## Cast
 * Stan -- [[Michael Pedicano]]
-* Kyle -- [[Nichole McCracken]]
+* Kyle -- [[Nicole McCracken]]
 * Kenny, Token, Jimmy, Tweek, Timmy, Clyde, Craig -- [[Guy Vizard]]
 * Butters, Pip -- [[Clinton Harris]]
 * Wendy -- [[Carissa McAtee]]
@@ -31,7 +31,3 @@ On 6/28/12, Viacom sent [[File/SouthParkCeaseAndDesist.jpg|a cease-and-desist le
 * Ensemble -- [[Jacob Bertrand]]
 * Chef, Token -- [[Amber Shae]]
 * Dougie, Mall Manager -- [[Joel Ausanka Reese]]
-
-## Crew
-## Media
-## More Information
