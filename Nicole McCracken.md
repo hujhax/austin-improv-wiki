@@ -16,6 +16,7 @@
 * *[[Braised in Texas]]*
 * *[[Danger!]]*
 * *[[Live TV Tuesdays -  John Hughes Summer School]]*
+* *[[Live TV Tuesdays -  South Park]]*
 * *[[Sci-Fi Saturdays]]*
 * *[[Townsville]]*
 
