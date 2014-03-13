@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Warren Henderson	
 |Picture =	Warren Henderson Pic.jpg
-|Theater=	Hideout
+|Theater=[[The Hideout Theatre]]
 |Years	=	2012-Present
 }}
 
