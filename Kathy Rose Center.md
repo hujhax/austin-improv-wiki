@@ -19,7 +19,7 @@ In 2012, Kathy Rose completed the [[Hideout Theater]]'s levels 1-3, taught in no
 
 Kathy Rose likes to take workshops each year to continue refreshing and expanding her skills.  These have included clowning with Deanna Fleysher, trance mask work with Steve Jarand, impro theater with Keith Johnstone, narrative intensives with [[Parallelogramophonograph]], and numerous workshops with David Razowsky, Jill Bernard, Todd Stashwick, Tim Orr and other visiting instructors. 
 
-In 2013, she applied her improv skills to her professional work, becoming "G.G. Norwood," Curator of the Curtis Creek Creature Museum for the short film (mockumentary) "My Monster," directed by Scott Rice. And in 2014, she largely improvised a scene for the pilot episode of "American Crime" for ABC Studios, under the direction of writer/director John Ridley (2013 Oscar winner for best adapted screenplay, "12 Years a Slave").
+In 2013, she applied her improv skills to her professional acting work, becoming "G.G. Norwood," Curator of the Curtis Creek Creature Museum for the short film (mockumentary) "My Monster," directed by Scott Rice. And in 2014, she largely improvised a scene for the pilot episode of "American Crime" for ABC Studios, under the direction of writer/director John Ridley (2013 Oscar winner for best adapted screenplay, "12 Years a Slave").
 
 ## Troupes
 * [[Pom Pom Sisterhood]]
