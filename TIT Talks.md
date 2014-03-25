@@ -7,16 +7,16 @@
 |Run	=	Feb/Mar 2014
 }}
 
-***TIT Talks*** is an improv show inspired by [[Wikipedia - TED (conference)|TED Talks]].
+***TIT Talks*** was an improv show inspired by [[Wikipedia - TED (conference)|TED Talks]].
 
 ## Summary
-The show runs Fridays and Saturdays from 2/28/14 to 3/22/14.
+The show ran Fridays and Saturdays from 2/28/14 to 3/22/14.
 
-The show features a series of 'guest lecturers', performers from all of Austin's improv theaters, who are given random topics by the show's directors, and random PowerPoint presentations to accompany their presentation.
+The show featured a series of 'guest lecturers', performers from all of Austin's improv theaters who performed in character, who were given random topics and PowerPoint presentations to accompany their presentation.
 
-The show is rounded out by scripted performances.
+The show was rounded out by scripted performances.
 
-It is hosted by [[Wikipedia - KGSR|KGSR]]'s [http://www.kgsr.com/jocks/kristen.aspx Kristen Kurtis].
+It was hosted by [[Wikipedia - KGSR|KGSR]]'s [http://www.kgsr.com/jocks/kristen.aspx Kristen Kurtis].
 
 ### Guests
 * 2/28/14: Lectures from [[Tom Booker]], [[Adam Niederpruem]], [[Heidi Rogers]], and [[Katie Thornton]]; performances from [[David Howe]] and [[Thomas Nilan]].
