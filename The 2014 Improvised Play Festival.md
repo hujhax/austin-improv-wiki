@@ -9,7 +9,7 @@ It is scheduled to run from 4/10/14 through 4/12/14.
 * *[[The Big Bash]]*
 * *[[The Black Vault]]*
 * [[Breaking Beckett]]
-* *[[Camp Madeuponthespotta]]*
+* *[[Camp Madeupponathaspotta]]*
 * [[Confidence Men]]
 * [[The Escorts]]
 * [[GOOFS]]
