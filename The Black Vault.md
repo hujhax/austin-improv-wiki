@@ -29,6 +29,7 @@ After its mainstage run, there were a number of one-off shows:
 * 5/5/13: a 25-minute show played "nerd-prov", a nerd-themed quadruple-bill at *[[The Institution Theater]]*.
 * 5/23/13: "Pick Your Own Black Vault", a mash-up with *[[Pick Your Own Path]]* that played at *[[The Free Fringe]]*.
 * 6/23/13: the show was hour 32 of [[The 44-Hour Improv Marathon]].
+* 3/27/14: a double-bill with [[Strange Worlds]] as a fundraiser for both show's trip to the Alaska State Improv Festival.
 
 ## Media
 ### Videos
