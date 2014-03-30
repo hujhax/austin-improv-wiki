@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Ryan Austin	
-|Picture =	Ryan Austin Pic.jpg
+|Picture =	Ryan Austin New Headshot.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2011-Present
 }}
