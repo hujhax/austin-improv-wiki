@@ -16,6 +16,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[Austin Secrets]]* *(tech)*
 * *[[The Black Vault]]* *(tech)*
 * *[[Charles Dickens Unleashed]]* *(tech)*
+* *[[Hurly Burly]]* *(tech)*
 * *[[The Joss Whedon Pajama Party]]* *(tech)*
 * *[[Live Nude Improv]]* *(tech)*
 * *[[Only Three Will Survive]]* *(tech)*
