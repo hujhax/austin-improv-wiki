@@ -12,7 +12,7 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 
 ## Troupes
 * [[Anticdotes]] (Inactive)
-* [[Topping coached troupe]] (Inactive)
+* [[Techno Forest of Doom]] (Inactive)
 * [[Bolik Not ZIB]] (Inactive)
 * [[Quayle]] (Inactive)
 * [[Dukes of Bedside Manor]] (Inactive)
@@ -20,6 +20,7 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * [[RhinoDino]] (Active)
 * [[Known Wizards]] (Active)
 * [[Tastemakers]] (Active)
+* [[Austin-Austin]] (Active)
 
 ## Shows
 * *[[Guilds of Steel]]*
