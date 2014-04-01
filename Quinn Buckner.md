@@ -29,7 +29,7 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * *[[Fandom]]*
 * *[[TheatreSports (mainstage run)|TheatreSports]]*
 * *[[Big Bash]]*
-* "[[Kenjutsu]]"
+* *[[Kenjutsu]]*
 
 ## Festivals
 *2010 - The Out Of Bounds Comedy Festival - Anticdotes, Guilds of Steel
