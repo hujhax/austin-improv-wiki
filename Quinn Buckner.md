@@ -31,11 +31,11 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * *[[Big Bash]]*
 
 ## Festivals
-2010 - The Out Of Bounds Comedy Festival - Anticdotes, Guilds of Steel
-2011 - The Out Of Bounds Comedy Festival - Bolik Not ZIB,Dukes of Bedside Manor, Quayle
-2012 - The Out Of Bounds Comedy Festival - Dukes of Bedside Manor, The Professor
-2012 - Improvaganza (Hawaii)             - The Professor
-2013 - The Out Of Bounds Comedy Festival - Ghetto Sketch Warlock, Known Wizards, The Professor, Rhinodino
-2014 - Vancouver Theatre Sports League Valentine's Day Massacre - Theatresports 
+*2010 - The Out Of Bounds Comedy Festival - Anticdotes, Guilds of Steel
+*2011 - The Out Of Bounds Comedy Festival - Bolik Not ZIB,Dukes of Bedside Manor, Quayle
+*2012 - The Out Of Bounds Comedy Festival - Dukes of Bedside Manor, The Professor
+*2012 - Improvaganza (Hawaii) - The Professor
+*2013 - The Out Of Bounds Comedy Festival - Ghetto Sketch Warlock, Known Wizards, The Professor, Rhinodino
+*2014 - Vancouver Theatre Sports League Valentine's Day Massacre - Theatresports 
 
 [[Category/Performers|Buckner]]
