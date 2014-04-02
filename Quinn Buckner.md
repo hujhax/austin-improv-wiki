@@ -15,10 +15,10 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * [[Techno Forest of Doom]] (Inactive)
 * [[Bolik Not ZIB]] (Inactive)
 * [[Quayle]] (Inactive)
-* [[Dukes of Bedside Manor]] (Inactive)
+* [[The Dukes of Bedside Manor]] (Inactive)
 * [[Senshi Sokkyo]] (Inactive)
 * [[RhinoDino]] (Active)
-* [[Known Wizards]] (Active)
+* [[The Known Wizards]] (Active)
 * [[Tastemakers]] (Active)
 * [[Austin-Austin]] (Active)
 
