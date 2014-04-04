@@ -9,9 +9,9 @@
 |Run	=	Apr/May 2014
 }}
 
-***Trust No One*** is a forthcoming mainstage show at [[The Institution Theater]].
+***Trust No One*** is a currently-running mainstage show at [[The Institution Theater]].
 
 ## Summary
-The show is expected to be a longform narrative, dealing with conspiracies and paranoia. 
+The show is a longform narrative, dealing with conspiracies and paranoia. An audience suggestion of a single organization that secretly controls everything (usually, an entity not generally held to be sinister in nature) is used to craft an improvised play in which the shadowy dealings of this organization are discovered.
 
 [[Category/Shows|Trust]]
