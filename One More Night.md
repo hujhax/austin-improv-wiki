@@ -13,7 +13,7 @@
 ![[One More Night - Scheherazade and Shahryar.jpg|Scheherazade and Shahryar provided a framing device for each evening's tales.]]
 
 
-***One More Night*** was an improvised longform narrative show inspired by *The Arabian Nights*.
+***One More Night*** was an improvised longform narrative show inspired by *[[Wikipedia - The Arabian Nights|The Arabian Nights]]*.
 
 ## Summary
 *One More Night* featured multi-layered framing devices, used bolts of bright fabric scattered about the stage for a variety of props, costumes, and scenery, and emphasized sensuality and violence.
