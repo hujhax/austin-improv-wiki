@@ -15,7 +15,7 @@
 The show is a longform narrative, dealing with conspiracies and paranoia. An audience suggestion of a single organization that secretly controls everything (usually, an entity not generally held to be sinister in nature) is used to craft an improvised play in which the shadowy dealings of this organization are discovered.
 
 ### The View-Master of Providence
-In materials promoting this show, the Institution Theater's logo of a [[Wikipedia - View-Master|View-Master]] was incorporated into the [[Wikipedia - Eye of Providence|Eye of Providence]], a common [[Wikipedia - Freemasonry|Masonic]] symbol and one often associated with the [[Wikipedia - Illuminati|Illuminati]]. 
+In materials promoting this show, the Institution Theater's logo of a [[Wikipedia - View-Master|View-Master]] was incorporated into the [[Wikipedia - Eye of Providence|Eye of Providence]], a common [http://en.wikipedia.org/wiki/Freemasonry Masonic] symbol and one often associated with the [[Wikipedia - Illuminati|Illuminati]]. 
 
 ![[Eye-of-institution-1.gif|The View-Master of Providence, designed by [[Brad Hawkins]]]]
 
