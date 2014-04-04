@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	Trust No One
-|Picture = Eye-of-institution-1.gif
+|Picture = tno-poster-small.jpg
 |Theater=	[[The Institution Theater]]
 |Director =	[[Brad Hawkins]]
 |Assistant Director = [[Ryan Hill]]
