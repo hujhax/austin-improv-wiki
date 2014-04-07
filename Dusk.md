@@ -116,9 +116,9 @@ The marketing tagline for season 2 was "Forever is for serious."
 * Costumes -- [[Audrey Rachel Sansom]], [[Courtney Hopkin]]
 * Photos -- [[Jon Bolden]]
 * Video Director -- [[Michael Thomas]]
-* Video Editor -- [[Michael Thomas]], [[Courtney Hopkin]]
+* Video Editor -- [[Michael Thomas]]
 * Sound Design -- [[Sarah Marie Curry]], [[Sara Farr]]
-* Set Design -- [[Cindie Mooney]], [[Andreas Fabis]]
+* Set Design -- [[Audrey Rachel Sansom]], [[Courtney Hopkin]]
 
 ### Atlanta Cast
 * [[Andreas Fabis]]
