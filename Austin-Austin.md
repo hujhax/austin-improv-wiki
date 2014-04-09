@@ -9,7 +9,7 @@
 
 ## Media
 ### Videos
-* [http://vimeo.com/90457615 03/27/14 show] at *[Free Fringe]]*.
+* [http://vimeo.com/90457615 03/27/14 show] at *[[Free Fringe]]*.
 ### Photos
 ## More Information
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
