@@ -122,7 +122,7 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |Mar 2014||Apr 2014||*[[Kenjutsu]]*||[[Kareem Badr]], [[Shannon McCormick]]
 |-
-|May 2014||Jun 2014||*[[Theatresports]]*||TBA
+|May 2014||Jun 2014||*[[Theatresports]]*||[[Lacy Shawn]], [[Ryan Austin]]
 |-
 |Jul 2014||Aug 2014||*[[The International Improv Experience]]*||[[Roy Janik]]
 |-
