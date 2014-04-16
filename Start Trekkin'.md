@@ -16,7 +16,7 @@
 
 [[Sean Hill]] saw the show in San Francisco, and decided to bring the format to Austin.  In 2003, [http://www.facebook.com/richard.ross.102 Richard Ross], a founding member of the original San Francisco show, taught a brief workshop in the format at [[The Hideout Theatre]].  A year later, [[Jay Michael]] and [[Troy Miller]] produced season one of *Start Trekkin' * there.  (Note: the people involved in *Start Trekkin' * refer to their runs as "seasons".)
 
-Subsequent seasons followed almost once per year.  In early 2011, *Start Trekkin*' ran as half of *[[The Sci-Fi Comedy Double Feature]]*.
+Subsequent seasons followed almost once per year.  In early 2012, *Start Trekkin*' ran as half of *[[The Sci-Fi Comedy Double Feature]]*.
 
 Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theatre]].
 
