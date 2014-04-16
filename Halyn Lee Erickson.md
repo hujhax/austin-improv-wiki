@@ -13,6 +13,8 @@ She began watching shows at [[The Hideout Theatre]] when she was in 6th grade, a
 ## Troupes
 * [[Happy Butter]]
 
+* [[The Delightfuls]]
+
 ## Shows
 * *[[The 43-Hour Improv Marathon]]*
 * *[[Austin Secrets]]*
