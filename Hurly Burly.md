@@ -1,6 +1,7 @@
 {{Infobox Show
 |Name = Hurly Burly	
 |Theater = [[The Institution Theater]]
+|Picture = Hurly Burly Poster.jpg
 |Director =	{{Unbulleted list | [[Jayme Ramsay]] | [[Marc Majcher]] }}
 |Cast =	{{Unbulleted list | [[Adriane Shown]] | [[Pseudonyms|Brooke Beltane]] | [[Caeriel Crestin]] | [[Pseudonyms|Eureka Smoke]] | [[Pseudonyms|Foxy Cakes]] | [[Jen Kaplan]] | [[Jessie Pascarelli]] | [[Pseudonyms|Lulu La Mer]] | [[Marc Majcher]] | [[Paul Normandin]] | [[Pseudonyms|Rosie Dear]] | [[Ryan Hill]] | [[Pseudonyms|Wilhelmina Wyldehart]] }}
 |Tech = {{Unbulleted list | [[Cindy Page]] | [[Lindsey McGowen]] }}
