@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-**Lindsey McGowen** is an technical improvisor.
+**Lindsey McGowen** is a technical improvisor.
 
 ## Summary
 Lindsey holds a BA in Technical Theater but took a hiatus from the theater from 2006-2013. Since returning, she has worked as a tech for the Detroit Improv Festival, the Alaska State Improv Festival and [[The Improvised Play Festival]]. 
