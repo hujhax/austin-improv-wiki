@@ -10,6 +10,7 @@
 ## Summary
 Lindsey holds a BA in Technical Theater but took a hiatus from the theater from 2006-2013. Since returning, she has worked as a tech for the Detroit Improv Festival, the Alaska State Improv Festival and [[The Improvised Play Festival]]. 
 
+
 Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer.
 
 ## Shows
