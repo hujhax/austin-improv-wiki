@@ -11,7 +11,7 @@
 **iScream Sandwich** is a Harold team at [[The Institution Theater]].
 
 ## Summary
-The troupe hosts a weekly improv show, *[[The Triple Scoop]]*, on Saturday nights at 10pm.
+The troupe hosted a weekly improv show, *[[The Triple Scoop]]*, on Saturday nights at 10pm at The Institution Theater from November 2012 through March 2014.
 
 They perform a Harold.
 
