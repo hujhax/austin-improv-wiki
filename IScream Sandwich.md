@@ -17,8 +17,8 @@ They perform a Harold.
 
 ## Media
 ### Videos
-* [http://vimeo.com/41113843 Video of a performance] at [[The Institution Theater]].
 * [http://vimeo.com/53658157 Their 11/10/12 show] in *[[The Triple Scoop]]*.
+
 ### Photos
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.539914026030097.118722.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 2/9/13 performance in *[[The Triple Scoop]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4398232116699.1073741826.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/2/13 performance in *[[The Triple Scoop]]*.
