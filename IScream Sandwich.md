@@ -27,6 +27,7 @@ They perform a Harold.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.630965533591612.1073741859.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 9/7/13 performance in *[[The Triple Scoop]]*.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.649123725109126.1073741866.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 10/5/13 performance in *[[The Triple Scoop]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 10/26/13 performance in *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
+* [https://www.facebook.com/claudio.fox.5/media_set?set=a.727245447296953.1073741884.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 3/29/14 performance in the last Triple Scoop.
 
 ## More Information
 * [http://www.facebook.com/iScreamSandwich The troupe's facebook page.]
