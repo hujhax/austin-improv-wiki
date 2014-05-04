@@ -36,6 +36,7 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 * [[Heidi Rogers]]
 * [[Jason Vines]]
 * [[JenRaye Adams]]
+* [[Karen Jane DeWitt]]
 * [[Keegan Hines]]
 * [[Mitchell Deane]]
 * [[Nicole Oliver]]
