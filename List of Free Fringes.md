@@ -545,7 +545,7 @@ Headliners
 
 ### Apr 25, 2013
 #### *Twenty Minutes of Hosting* ([[Peter Rogers]])
-The time has come for the fine art of hosting to get recognized as being worth in its own right. [[Peter Rogers]] and [[Marc Majcher]] host the top of an improv show for 20 solid minutes. 
+The time has come for the fine art of hosting to get recognized as being worthy in its own right. [[Peter Rogers]] and [[Marc Majcher]] host the top of an improv show for 20 solid minutes.
 
 #### *The Imaginary Show* ([[Kevin Miller]])
 Whatever imaginary show Peter and Marc wind up introducing at the end of their 20 minute hosting set is the show that Kevin and Company will attempt to do. ANYTHING could happen. 
