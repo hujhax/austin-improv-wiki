@@ -69,7 +69,7 @@ Allison is done with improv. She's decided to return to the world of scripted th
 #### *Always a Bridesmaid* ([[Firth & Arjet]])
 ### Mar  1, 2012
 #### *The Mitch-o-Scene* ([[Jeff O'Leary]])
-The late, great Mitch Hedberg was a fantastic comedian: surreal, unconventional, and brilliantly insane. So what happens when a bunch of improvisers play tribute to Mitch by all pretending to be him while doing improv? Who knows. Is this idea too out there even for the extremely out there Free Fringe? Quite possibly!  Starring: [[Andy Campbell]], [[Ashley Carlisle]], [[Stephanie Hagemeister]], [[Dan Kerrigan]], [[Jeff O'Leary]], [[Nichole Oliver]], [[Kevin Smith]] 
+The late, great Mitch Hedberg was a fantastic comedian: surreal, unconventional, and brilliantly insane. So what happens when a bunch of improvisers play tribute to Mitch by all pretending to be him while doing improv? Who knows. Is this idea too out there even for the extremely out there Free Fringe? Quite possibly!  Starring: [[Andy Campbell]], [[Ashley Carlisle]], [[Stephanie Hagemeister]], [[Dan Kerrigan]], [[Jeff O'Leary]], [[Nicole Oliver]], [[Kevin Smith]]
 
 #### *DrunkProv* ([[Chuy Zarate]])
 Speaking of questionable ideas, here's another one. There are 4 performers. There is one case of beer. The case must be completely drunk by the end of the show. Insanity prevails. starring: [[David Lampe]], [[Blynch]], [[Jessica Arjet]], [[Chuy Zarate]] 
