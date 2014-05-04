@@ -617,3 +617,324 @@ Andrew picks one person from the audience… a person who has no improv training
 ### Jun  13, 2013
 #### *Welcome Back [[Ruby Willmann]] Show* ([[Ruby Willmann]])
 Ruby presents anecdotes from her six-month stint in South America, and improvisors use those stories to inspire scenes.  Cast: [[Christopher Allen]], [[Sam Schak]], [[Jessica Arjet]], [[Bridget Brewer]], [[Caeriel Crestin]], [[Andrew Buck]], [[Lindsey Reeves]], [[Paul Normandin]], [[Alex Dobrenko]], [[Andreas Fabis]].
+
+### Jun  20, 2013
+#### Wanted
+Every character wants something and there is usually something they don't want. We are going to assign those things at random and watch as the cast tries to navigate their way through the resulting story. No one knows what anyone else was assigned and everyone has to try to get what they want by the end of the show. It is very likely that they will fail but the process of watching them struggle is half the fun!
+
+[[Mike Nystul]], [[Jessica Arjet]], [[David Lampe]], [[Brad Hawkins]], [[Topping Haggerty]], [[Chad Wellington]]
+
+#### First and Last
+Stories without all the boring bits in the middle. We see the opening and ending scenes of several improvised tales.
+
+[[Jeanette Jones]], [[Bridget Brewer]], [[Andrew Robinson]], [[Jessica Brooks Allen]], and Peter.
+
+#### [[In Our Prime]]
+Headliners
+
+### Jun  27, 2013
+#### Cool Clown School
+Inspired by Deanna Fleysher's "Naked Comedy" Workshop, these brave imps will present and improvised clowning show by exploring physical comedy with minimal to no speech.
+
+#### Can It Be Done?!?
+Starring: [[Luke Wallens]], [[Content Love Knowles]], [[Sam Schak]], and [[Thedward Blevins]]
+
+#### Bald Men
+The Bald Men of Austin Improv perform as monks
+
+#### [[Your Dad's Friends]]
+Headliners
+
+### Jul 11, 2013
+#### The Audition
+Get a harrowing and hilarious look at the inside world of the actor. The audition process can be a frustrating,Â exhilarating process. This show focuses around a group of people before, during, and after an audition. Inspired by ACTUAL events!
+
+Starring: [[Sam Schack]], [[Aaron Saenz]], [[Jeanette Jones]], [[Cariel Crestin]], and [[Marc Majcher]]
+
+#### Dexterprov ([[Andrew Buck]])
+Dexterprov tells a never-before-seen and never-before-written episode of the serial killer drama *[[Wikipedia - Dexter|Dexter]]*. Who will kill whom? Will Dexter get caught at his dangerous game? Will Deb act on her brotherly love? Who will the newest serial killer be? Will Batista ever stop wearing that dumb hat? All of these questions -- and one or two more -- will be answered in this completely improvised show.
+
+#### [[Jessica Arjet]] and [[Caitlin Sweetlamb]]
+Headliners
+
+### July 18, 2013
+#### Ceej and Arthur Hate the Papparazi ([[Arthur Simone]] and [[Ceej Allen]])
+[[Arthur Simone]] and [[Ceej Allen]], three veteran award-winning improvisers, have only one photograph of them together on stage. They like it like that.
+
+On this bedazzling night of improv euphoria, staff photographers and the audience are encouraged to snap away as many photos of the duo performing their brands of absurdist reality...just to piss them off. Bring your cameras. Bring your shades. Bring your tag-happy fingers.
+
+(Yes, three improvisers... Cuz they be absurd). :)
+
+#### Brnnr x Facebook Vs. Improv ([[Wayne Alan Brenner]])
+[[Wayne Alan Brenner]] is well known for his articles, interviews, listings, and reviews in the Arts section of the *[[Wikipedia - Austin Chronicle|Austin Chronicle]]*, and also for being the most well-connected man in the city.
+
+But he's only slightly less well known for this: his absurd, poignant, head-scratching, saliva-inducing, poetic, ridiculous, mysterious Facebook posts.
+
+On this night he'll share a specially curated selection of his favorites, and his hapless cast of improvisers will have to do their best to make sense out of it all.
+
+Starring: [[Kareem Badr]], [[Valerie Ward]], [[Claudio Fox]], [[Jon Bolden]], [[Craig Kotfas]], [[Halyn Lee Erickson]], [[Jayme Ramsey]], [[Marc Majcher]], [[Ace Manning]], and [[Andreas Fabis]].
+
+#### [[In Our Prime]]
+Headliners
+
+
+### July 25, 2013
+#### Exquisite Corpse
+Remember drawing those exquisite corpse drawings when you were a kid? Your friend drew the head, then you took turns drawing the next part while only being able to see the very bottom of what had come before. We'll do the improv equivalent. Three teams will tell a story but each subsequent team will only know a tiny piece of what's already happened -- beautiful chaos ensues!
+
+Cast: [[Caeriel Crestin]], [[Cassidy Santaguida]], [[Chris Sebilia]], [[David Lampe]], [[David Ronn]], [[Gloria Bankler]], [[Jen Kaplan]], [[Ryan Hill]], [[Sam Schak]]
+
+#### Improv Slam!
+Four troupes. Ten minutes each. Five random audience members with score cards. The first ever Improv Slam is this Thursday night at the Free Fringe.
+
+Competing troupes:
+* [[Concrete]]
+* [[Duran & Johnson]]
+* [[Furiously Missing]]
+* [[¡Zarzamora!]]
+
+#### [[Your Dad's Friends]]
+Headliners
+
+### August 1, 2013
+#### Searching For A Dave ([[Asaf Ronen]])
+TJ & Dave are considered the best improv duo out there and ever since [[Asaf Ronen]] got
+involved on their documentary, he's been wanting to find his improv
+soulmate. If he were to be TJ, who would be his Dave?
+
+Asaf has invited three contenders to join him in a two-person set: [[Dave]]
+[[Buckman]], [[Kareem Badr]], and [[Courtney Hopkin]], with the audience deciding who the better match is at the end.
+
+
+### August 8, 2013
+#### Topping Has Two Dads ([[Topping Haggerty]])
+Cole, Topping and I were driving back from Oklahoma and decided that we should put up a sitcom where Topping is the child. She never gets what she wants and Cole and I probably end up divorced.
+
+Starring: [[Chuy Zarate]], Cole, and [[Topping Haggerty]]
+
+#### Ryan Austin Secrets ([[Ryan Austin]])
+[[Ryan Austin]] shares some intimate details of his life, which will inspire the scenes the performers act out. He can call scene at any time and share a new secret to start the next scene. Are these secrets real? Are they true? He swears they are. Who knows what we might learn about homeschooling, hip hop, Dakota Fanning or designated driving.
+
+#### [[Jessica Arjet]] and [[Jordan T. Maxwell]]
+Headliners
+
+### August 15, 2013
+#### The Wedding Toast ([[Jessie Pascarelli]])
+A wedding is a meticulously-orchestrated affair. Every last detail is planned out, sometimes years in advance.
+
+But the wedding toast is another matter. Mix together heightened emotions, deep-seated jealousy, and copious amounts of champagne, and you've got a cocktail recipe for disaster.
+
+This show is a wedding toast (or maybe a series of toasts) of epic proportions.
+
+#### On Trial ([[Justin Davis]])
+All the drama of the courtroom, on stage.
+
+#### [[In Our Prime]]
+Headliners
+
+### August 22, 2013
+#### Diesel Dreams and a Cup of Joe: Improvised Tom Waits ([[Ceej Allen]])
+We sail tonight to Singapore to improvise stories, songs and scenes inspired by the world of eccentric musician and storyteller Tom Waits. [[Kareem Badr]], [[Marc Majcher]], [[Jayme Ramsay]], [[Brad Hawkins]], [[Heidi Rogers]], [[Ceej Allen]] and musical improvisers [[Craig Kotfas]] and [[Joseph Dailey]] invite you underground where rust and tattooed tears are currency. Come and tango 'til you're sore. We're all as mad as hatters here.
+
+#### Fluffy Bunny Tea Party Live! ([[Marc Majcher]])
+Marc Majcher made a card game about fluffy bunnies having tea, and politely foisting desserts on one another. It's awesome.
+
+And now it's live, improvised on stage!
+
+#### [[The Escorts]]
+Headliners
+
+### September 5, 2013
+#### Shatner! ([[Cortney DeAngelo]])
+Based on the Facebook Meme that says, "Anytime someone yells 'Shatner!' you must immediately over-act whatever you're doing."  No Shatner Impressions!
+
+Cast: [[Halyn Lee Erickson]], [[Dana Yanoshak]], [[Heidi Rogers]], [[David Lampe]], [[Kevin Miller]], and [[Chad Wellington]]
+
+#### 210° ([[David Lampe]])
+It's an infinite chain of character scenes, starring only two people.
+
+Cast: [[David Lampe]] and [[Kevin Miller]]
+
+#### [[Jessica Arjet]] and [[Andreas Fabis]]
+Headliners
+
+### September 12, 2013
+#### Difficult Loves ([[Ceej Allen]])
+Life is complicated. Love is even more complicated.   For FBI Frog and Flower Fairy it's just a mess.
+
+Toss in a Billy Pilgramesque narrative that shifts through time and space and see how their relationship ebbs and flows between connection and disintegration. Imagine randomly flipping through a photo album that encapsulates an entire relationship from childhood through old age.
+
+Difficult Love is a format inspired by a show from Phoenix, Arizona improv duo Wedding Party (Jacque Arend and Sam Haldiman). [[Ceej Allen]] and [[Halyn Lee Erickson]] are curious themselves to experience the beauty and heartache that transpire.
+
+Cast: [[Ceej Allen]] and [[Halyn Lee Erickson]].
+
+#### Drunk Ryan ([[Ryan Austin]])
+Ryan Austin is a helluva a man. Always sharply dressed. Always polite. But what happens when you get him super drunk and make him do improv? We're as curious as you are.
+
+Cast: [[The Escorts]] and [[Ryan Austin]].
+
+#### [[Jessica Arjet]] and [[Brently Heilbron]]
+Headliners
+
+
+### September 19, 2013
+#### Chu By Four ([[Chuy Zarate]])
+Look, Chuy Zarate is an amazing improviser. A mainstay of the Austin Improv scene for years, the man is a comedy chameleon. He can play wacky, sensitive, insane, real... whatever.
+
+And in this Fringe he's going to play four times.... four duos with performers chosen lottery style from the audience. If you're an improviser and always wanted to play with Chuy, this could be your lucky night!
+
+#### [[In Our Prime]]
+Headliners
+
+
+### September 26, 2013
+#### Geppetto's Workshop ([[Thedward Blevins]])
+The audience arranges all the players in an opening tableau; Each scene begins with a subset of the players in their tableau positions.
+
+#### The Cat is Not Amused! ([[Cat Drago]] and [[Cindy Page]])
+Cat Drago is in the hospital. We all love her. So she is going to attempt to run this show via Skype. She is completely and utterly in charge. Get better soon, Cat!
+
+#### [[Your Dad's Friends]]
+Headliners, presenting "Back in My Day".
+
+### October 3, 2013
+#### BFFs ([[Ryan Austin]])
+They say that the more connected you are, the better your improv is. And although troupes spend a lot of time together, short of being the best friends ever for a decade, you'll never achieve that ultimate connection.
+
+But what if your best friend in the whole world, with whom you have the kind of friendship that's so rare not everyone gets to experience it; The most psychic, bromantic, sweet and simultaneously weird/creepy connection; What if you did improv with THAT person? But WHAT IF they weren't an improvisor?
+
+Ryan Austin takes the stage with his best friend, roommate, co-worker, and emergency contact Drew Wolber to find out if together, their connection is enough to produce THE GREATEST IMPROV EVER.
+
+Ryan has graduated improv at the Hideout.
+Drew has been to the Hideout.
+
+Starring: [[Ryan Austin]] and [[Drew Wobler]]
+
+#### What's Your Damage, Regina? ([[Nicole Oliver]])
+A hilarious take on mean girl movies such as *[[Wikipedia - Heathers|Heathers]]*, *[[Wikipedia - Jawbreaker|Jawbreaker]]* and of course *[[Wikipedia - Mean Girls|Mean Girls]]*.
+
+Starring: [[Jeanette Jones]], [[Sam Schak]], [[Jen Kaplan]], [[Sarah Swofford]], and [[Nicole Oliver]].
+
+#### [[Jessica Arjet]] and [[Asaf Ronen]]
+Headliners
+
+### October 10, 2013
+#### Ladies' Night!
+Your favorite female performers in bold new combinations!
+
+### October 17, 2013
+#### Last Name Bonanza ([[Ruby Willmann]])
+Two improvisers combine their last names and then use those last names to inspire two characters who are married and then we see a slice of life. The improvisers would be chosen at random, and then three combination options are given and the audience chooses the best one.
+
+Starring: [[Cat Drago]], [[Caeriel Crestin]], [[Dean Palm]], [[Taylor Overstreet]], [[Ryan Austin]], [[Sam Schak]], [[Jennifer kaplan]], [[Ruby Willmann]].
+
+#### There Will Be Cake ([[Jo Chauvin]])
+[[Jo Chauvin]], [[Regina Soto]], and [[Sandra Ybarra]] recently had birthdays and want to celebrate with you! Come see Jo, Regina, and Sandra play with their alter-egos: [[Caeriel Crestin]], [[Claudio Fox]], and [[Paul Normandin]]. We're expecting mayhem! Pandemonium! Insanity! And there will be cake!
+
+#### [[In Our Prime]]
+Headliners
+
+### October 24, 2013
+#### Scrabble ([[Heidi Rogers]])
+Using the classic game of Scrabble to inspire improv!
+
+#### Invisible Man ([[Lacy Shawn]])
+The audience helps build and create the main character of the show. Then that character is IN every scene, but is not played by any performer. Hence, they are invisible.
+
+Starring: Various
+
+#### Invisible Man ([[Lacy Shawn]])
+The audience helps build and create the main character of the show. Then that character is IN every scene, but is not played by any performer. Hence, they are invisible.
+
+Starring: Various
+
+#### Marbles (Ryan Millar [From Amsterdam!])
+Marbles is "open-source" improv; a free-and-easy solo format where anything can happen.
+
+It usually involves chats with the audience, sometimes guest players (from seasoned veterans to innocent audience members), and always features Ryan riffing on it all through improvised stories, scenarios and characters.
+
+Starring: Ryan Millar
+
+#### [[Jessica Arjet]] and [[Aaron Saenz]]
+Headliners
+
+
+### November 7, 2013
+#### 20 Years and Counting... ([[Chuy Zarate]])
+"My wife and I have been together forever... We have been through most things that other couples fret about. We will help couples be better at being couples by our improv!"
+
+#### Super Special Guest (Amber Nash)
+Amber Nash, the voice of Pam Poovy on Archer, is in town for Archer Live! Fortunately for us, she's also a badass improviser from Dad's Garage in Atlanta, GA. We couldn't pass up the opportunity to do a show with her.
+
+Starring: [[Amber Nash]], [[Shannon McCormick]], [[Ruby Willman]], [[Troy Miller]], [[Kareem Badr]]
+
+#### [[Jessica Arjet]], [[Chuy Zarate]], and [[Tyler Bryce]]
+Headliners
+
+
+### November 14, 2013
+#### Inner Demon ([[Halyn Lee Erickson]])
+Halyn Lee Erickson alone with her demons. (she's done scenes like this in Maestro before, but those were 2 minutes long. What trouble will she get into in a full length show?)
+
+Starring: Halyn and her demons.
+
+#### The Gloom Corps ([[Barrett Phelan]])
+1988.
+Hallandale, Florida.
+The original Limelight goth club burned down.
+An electrical fire claimed the lives of these kids.
+Just three nights shy of their first gig.
+Eternally damned to entertain.
+To your delight and their disdain.
+Angsty, gothic, and unscripted.
+Behold the set list as it's written!
+If, by chance, you are offended...
+you are probably old.
+
+#### [[Jessica Arjet]] and [[Aden Kirschner]]
+Headliners
+
+### December 5, 2013
+#### [[Franz and Dave]] Improvise ([[Chris Allen]])
+Franz Kafka and David Lynch are two of the great creative powerhouses over the last one hundred years. Their respective books and films have inspired artists over the last century. Now, together, they are tackling their greatest challenge ever: improv comedy. Come see what they learned after taking classes at The Hideout Theatre.
+
+#### Love Is Blind ([[Ryan Hill and Thedward Blevins]])
+Every year at an annual potluck, improvisers in Austin write each other 'love notes', little notes with nice things to say about each other. This is true.
+
+Like all things, these love notes will now be used to inspire improv. Come see these notes turned into fuel for games and scenes.
+
+#### [[My Best Fiend]] mit [[Jessica Arjet]]
+Headliners
+
+
+### December 12, 2013
+#### Holiday Commercial Break ([[Courtney Hopkin]])
+There's nothing quite like holiday commercials. Gap, Old Navy, Wal-Mart, whatever. Sweater clad suburbanites with rustic decorations and fixed smiles. But what happens when the characters from these commercials are not in the commercials? What happens when they're just living their lives?
+
+#### Bridget Reads Erotica ([[Bridget Brewer]])
+Bridget is adorable. Have you seen her? She plays in lots of shows these days. She also writes erotica online to help make ends meet. For one night only, Bridget will be reading some of the more interesting excerpts from her sensuous tales. That will in turn inspire some saucy improv scenes.
+
+#### [[Jessica Arjet]], [[Bridget Brewer]], [[Caeriel Crestin]]
+Headliners
+
+
+### December 19, 2013
+#### The Doppleganger Show ([[¡Zarzamora!]])
+We all know that every person in this world has a double. A dark shadow out there in the world. Similar to us, but also the opposite of us. Our balance and our foil. Our fate and our doom. What? Anyhow. There's a guy in the Netherlands name Peter More who looks like [[Marc Majcher]], and he's in town. So Zarzamora decided it would be fun to put them in the same show and get them to aid or hinder things as they see fit.
+
+#### Romans Ridin' Dirty (a [[44 Hour Marathon]] Reunion)
+The cast of this past year's [[44 Hour Improv Marathon]] have reunited and are going to see if they can channel the insanity of that crazy few days for one. More. Show.
+
+#### [[In Our Prime]]
+Headliners, presenting "Santa is REAL!"
+
+### December 26, 2013
+#### Tales from the Sleigh ([[Mike Nystul]])
+Santa shares stories from the road, and a cast of improvisers bring them to life.
+
+#### A Zarate Family After-Xmas Special ([[Your Dad's Friends]])
+Gone are the days of the schmaltzy, over-the-top Christmas special. Bing Crosby and friends boozing it up on national television as they invite you to join them for one night only.
+
+But for one night only, Your Dad's Friends invite you to join them for a very special Xmas Special, even if it is the day after Xmas.
+
+Celebrity guests, yuletide feelings of comfort and joy, and live music.  FOR FREE.
