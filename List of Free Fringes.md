@@ -555,7 +555,7 @@ Headliners
 
 ### May  2, 2013
 #### *Deane Martin* ([[Brandon Martin]])
-Have you ever wondered what it might be like to hang around a group of very successful lounge singers from the 50's-60's era? How much scotch, cigars, and Philandering might go on amongst celebrity friends? Let's find out in "Deane Martin, a look into the lounge" 
+Have you ever wondered what it might be like to hang around a group of very successful lounge singers from the 50's-60's era? How much scotch, cigars, and philandering might go on amongst celebrity friends? Let's find out in "Deane Martin, a look into the lounge"
 
 #### *Theatersports for Non-Improvisers* ([[Roy Janik]])
 *[[Theatresports]]* debuts this Saturday at the Hideout, but before that happens some of the cast is going to cut loose in the Fringe. Two teams can challenge each other to anything at all, so long as it does NOT involve an improv scene or game. Most push-ups? Best hug? We shall see! 
