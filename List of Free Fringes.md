@@ -898,7 +898,7 @@ Headliners
 #### [[Franz and Dave]] Improvise ([[Chris Allen]])
 Franz Kafka and David Lynch are two of the great creative powerhouses over the last one hundred years. Their respective books and films have inspired artists over the last century. Now, together, they are tackling their greatest challenge ever: improv comedy. Come see what they learned after taking classes at The Hideout Theatre.
 
-#### Love Is Blind ([[Ryan Hill and Thedward Blevins]])
+#### Love Is Blind ([[Ryan Hill]] and [[Thedward Blevins]])
 Every year at an annual potluck, improvisers in Austin write each other 'love notes', little notes with nice things to say about each other. This is true.
 
 Like all things, these love notes will now be used to inspire improv. Come see these notes turned into fuel for games and scenes.
