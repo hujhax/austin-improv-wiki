@@ -12,11 +12,11 @@ Ryan dabbled in theater in high school and college. In the aughts he performed w
 
 In 2011 he was telecommuting at the Hideout Coffee House and ran into an old friend, [[Thedward Blevins]], who was attending improv class. Thedward introduced Ryan to Hideout Education Director [[Andy Crouch]]. After accepting Thedward's invitation to a Thursday evening of watching improv, Ryan attended twelve hours of [[The 42-Hour Improv Marathon]]. Somewhere in the wee hours of Saturday morning, he realized with a jolt of fear that he had discovered a new passion that could not be ignored.
 
-In June, 2011 he started classes with Crouch at [[The Hideout Theatre]]. He completed the Hideout curriculum in 2012. [[Roy Janik]], [[The Hideout Theatre]] co-owner, was his teacher for the upper levels. Ryan is currently studying at [[The Institution Theater]].
+In June, 2011 he started classes with Crouch at [[The Hideout Theatre]]. He completed the Hideout curriculum in 2012. [[Roy Janik]], [[The Hideout Theatre]] co-owner, was his teacher for the upper levels. He also took classes at [[The Institution Theater]].
 
-Ryan has performed at The Oklahoma Improv Festival and Improvaganza Hawaii with [[In Our Prime]]. He has performed at the Dallas Comedy Festival with [[The Seven Eight Sevens]].
+Ryan has been a TA for adult and teen improv classes at [[The Hideout Theater]]; he has coached [[Four Stories Tall]], a teen improv troupe. He produced [[The 44-Hour Improv Marathon]] and is currently co-producing [[The 45-Hour Improv Marathon]] with [[Jessie Pascarelli]].
 
-Ryan is a teaching assistant for teen improv classes, taught by [[Jessica Arjet]] and [[Andy Crouch]], at [[The Hideout Theatre]]; he coaches [[Four Stories Tall]], a teen improv troupe; and he is producing [[The 44-Hour Improv Marathon]].
+He is also a musician and has played for [[I Love You So Much]] with the band Tiny Cute Trio and [[Fuck It's Hot!]] solo. He is also a frequent musical improviser substitute for [[Indigo Shift]].
 
 ## Troupes
 * [[Century]] (2013-Present) 
