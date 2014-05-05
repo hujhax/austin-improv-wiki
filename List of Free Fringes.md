@@ -940,3 +940,75 @@ But for one night only, Your Dad's Friends invite you to join them for a very sp
 Celebrity guests, yuletide feelings of comfort and joy, and live music.  FOR FREE.
 
 ## 2014 Shows
+### January 2, 2014
+#### okcupid's Missed Arrows ([[Justin Davis]])
+Stories told of less than successful experiences of people who have used Ok Cupid, or any other bad date experience, and scenes inspired by those stories. Maybe even make the scenes be the bad date and his or her perfect companion to find a positive, and funny, spin on things.
+
+#### Dinosaur Scientist Conference Room ([[Mitchell Deane]])
+Dinosaur scientists discuss the upcoming meteor crisis and how to combat the upcoming crisis using dinotechnology.
+
+### January 9, 2014
+#### Chevy Nova ([[Alex Baia]])
+A whole bunch of scenes in a whole bunch of cars. Each unique combination of improvisers and positions determines what scene we're currently in. A confusing and delightful automotive experience.
+
+#### David Lynch Meditation Time Machine ([[Christopher Allen]])
+Deep in a transcendental meditation, filmmaker David Lynch realizes that history has been altered.  Certain events have not happened and others hang in the balance.  It is up to him to travel back in time in his mind in disguise as his past lives to make things right.  Will the letter "e" still be in our alphabet when he returns?
+
+#### [[Jessica Arjet]] and [[Sarah Marie Curry]]
+Headliners, presenting "Animal Farm".
+
+### January 16, 2014
+#### Generations ([[In Our Prime]])
+The Generations format follows the lives of our characters from childhood then teens and twenties then thirties and forties then on well past their prime.
+
+#### Makeout Party ([[Jason Vines]])
+10 Improvisers engage in some college party antics, and play games like "Never Have I Ever" and "Truth or Dare" to push themselves and their honesty to the edge, and to inspire some improv that hits a little too close to home.
+
+#### Special Advanced Screening of Broad City (Comedy Central)
+*[[Wikipedia - Broad City|Broad City]]* is a new show premiering on Comedy Central on the 22nd, but we got the hookup, and we're showing the first episode in this week's Free Fringe.
+
+PLUS, the first 30 people in the theater get a free Broad City t-shirt.
+
+### January 23, 2014
+#### So Long, [[Taylor Overstreet]]
+[[Taylor Overstreet]] is moving away from our fair city (to Chicago!), and we're sending her off in style with a *Free Fringe* dedicated to her.
+
+Come wish her well and say goodbye. And if you've never seen her perform before, now is your last chance!
+
+### January 30, 2014
+#### Theatresports Pregame Warmup Explosion!
+In February we're sending three representatives (Quinn, Lacy, and Bridget) from The Hideout's cast of *[[Theatresports]]* to compete in the Vancouver Theatresports League's 26th Annual Massacre and Festival. 
+
+That's a HUGE deal, as they'll be representing Austin against Vancouver, Edmonton, Slovenia, and Portland. It's going to be a wild ride.
+
+And we need to train them up right and get their Theatresports chops up to snuff for the battles to come.
+
+So come watch some Theatresports battles in the *Free Fringe* and wish our champions well.
+
+#### [[Your Dad's Friends]]
+Headliners
+
+### February 6, 2014
+#### Theatresports Pregame Warmup Explosion!
+In February we're sending three representatives (Quinn, Lacy, and Bridget) from The Hideout's cast of *[[Theatresports]]* to compete in the Vancouver Theatresports League's 26th Annual Massacre and Festival. 
+
+That's a HUGE deal, as they'll be representing Austin against Vancouver, Edmonton, Slovenia, and Portland. It's going to be a wild ride.
+
+And we need to train them up right and get their Theatresports chops up to snuff for the battles to come.
+
+So come watch some Theatresports battles in the *Free Fringe* and wish our champions well.
+
+#### [[Jessica Arjet]] and [[Sarah Marie Curry]]
+Headliners, presenting "Animal Farm".
+
+### February 13, 2014
+#### The Cutest Show EVER ([[Luke Wallens]])
+The cutest improvisers doing the cutest improv. What does that mean? It's a mystery. *Free Fringe*!
+
+Starring:  [[Luke Wallens]], [[Mia Iseman]], [[Ryan Austin]], [[John Ratliff]], [[Amy Carpenter]], [[Chrissy Shackleford]], [[Justin Davis]], [[Jeanette Jones]]
+
+#### The Return of Deane Martin ([[Brandon Martin]] & [[Mitchell Deane]])
+The Rat Pack: In their day they were the epitome of cool... always collected, clever, and calm. But what happens when they're just hanging out in their lounge. WHO KNOWS?
+
+#### [[Jessica Arjet]] and [[Andrew Buck]]
+Headliners
