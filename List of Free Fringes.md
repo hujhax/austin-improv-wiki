@@ -523,7 +523,7 @@ Awful people with terrible ideas that, when executed, lead to utter chaos. It's 
 #### [[Your Dad's Friends]] featuring guest star [[Eric Heiberg]]
 Headliners
 
-### Apr  4, 2013
+### Apr 4, 2013
 #### *Kat Improvises* ([[Scott Hearne]])
 Stand up comic Kat Ramzinski, has never done improv before, but there's a first time for everything . In tonight's Free Fringe, Kat will be thrown head first into the fray with a group of experienced improvisers. So what happens when a stand up comic with zero improv background sits in with an improv group? Wonderful chaos. 
 
@@ -533,7 +533,7 @@ Jules and Heather are fantastic improvisers from the United Kingdom. They've com
 #### [[Jessica Arjet]] and [[Clifton Highfield]]
 Headliners
 
-### Apr  8, 2013
+### Apr 8, 2013
 #### *Overdirection Overthruster* ([[Thedward Blevins]])
 Too many directors and too much direction. Multiple directors simultaneously: directing the same scene physically rearranging players putting dialog in their mouths telling them how they feel making them rewind. 
 
@@ -563,7 +563,7 @@ Have you ever wondered what it might be like to hang around a group of very succ
 #### [[Jessica Arjet]] & [[Lisa Jackson]]
 Headliners
 
-### May  9, 2013
+### May 9, 2013
 #### *Sing Along* ([[Amanda Hinsman]])
 We want to jump up and sing whatever song might pop into our heads and we want you to sing along! Scenes inspired by such glory will hence commence. If you are a fan of the song pop app, pitch perfect, or constantly switching radio stations this is your show. starring: [[Lindsay Hejl]], [[Blake Rienhart]], [[Seth Johnson]], [[Tim Stiefler]], [[Jennifer Brinlee]], [[Jillian Summar]], and [[Amanda Hinsman]]
 
@@ -581,7 +581,7 @@ Time to take the comedy out of improv, am I right? Kill the laughs and bring on 
 known for this format, serious and dark.
 
 #### [[The Awkwards]]
-take their usual funny quirky tone, and let it have dark consequences. 
+They take their usual funny quirky tone, and let it have dark consequences. 
 
 #### [[In Our Prime]]
 Headliners
@@ -606,7 +606,7 @@ Many improvisers are writers and many writers notice the typos that squeeze thro
 #### [[Your Dad's Friends]]
 Headliners
 
-### Jun  6, 2013
+### Jun 6, 2013
 #### *TeacherProv* ([[Mia Iseman]])
 Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.  Cast: [[Ashley Jayne Carlisle]], [[Caitlin Sweetlamb]], [[David Lampe]], [[Jayme Ramsay]], [[Jeremy Sweetlamb]], [[Mia Iseman]]
 
@@ -614,11 +614,11 @@ Inspired by real classroom stories, these actual teachers will give you an educa
 Andrew picks one person from the audience… a person who has no improv training, and does a show with them.
 
 #### *Jessica & [[Marc Majcher|Marc]]* ([[Jessica Arjet]])
-### Jun  13, 2013
+### Jun 13, 2013
 #### *Welcome Back [[Ruby Willmann]] Show* ([[Ruby Willmann]])
 Ruby presents anecdotes from her six-month stint in South America, and improvisors use those stories to inspire scenes.  Cast: [[Christopher Allen]], [[Sam Schak]], [[Jessica Arjet]], [[Bridget Brewer]], [[Caeriel Crestin]], [[Andrew Buck]], [[Lindsey Reeves]], [[Paul Normandin]], [[Alex Dobrenko]], [[Andreas Fabis]].
 
-### Jun  20, 2013
+### Jun 20, 2013
 #### Wanted
 Every character wants something and there is usually something they don't want. We are going to assign those things at random and watch as the cast tries to navigate their way through the resulting story. No one knows what anyone else was assigned and everyone has to try to get what they want by the end of the show. It is very likely that they will fail but the process of watching them struggle is half the fun!
 
@@ -632,7 +632,7 @@ Stories without all the boring bits in the middle. We see the opening and ending
 #### [[In Our Prime]]
 Headliners
 
-### Jun  27, 2013
+### Jun 27, 2013
 #### Cool Clown School
 Inspired by Deanna Fleysher's "Naked Comedy" Workshop, these brave imps will present and improvised clowning show by exploring physical comedy with minimal to no speech.
 
@@ -677,7 +677,6 @@ Starring: [[Kareem Badr]], [[Valerie Ward]], [[Claudio Fox]], [[Jon Bolden]], [[
 #### [[In Our Prime]]
 Headliners
 
-
 ### July 25, 2013
 #### Exquisite Corpse
 Remember drawing those exquisite corpse drawings when you were a kid? Your friend drew the head, then you took turns drawing the next part while only being able to see the very bottom of what had come before. We'll do the improv equivalent. Three teams will tell a story but each subsequent team will only know a tiny piece of what's already happened -- beautiful chaos ensues!
@@ -704,7 +703,6 @@ soulmate. If he were to be TJ, who would be his Dave?
 
 Asaf has invited three contenders to join him in a two-person set: [[Dave]]
 [[Buckman]], [[Kareem Badr]], and [[Courtney Hopkin]], with the audience deciding who the better match is at the end.
-
 
 ### August 8, 2013
 #### Topping Has Two Dads ([[Topping Haggerty]])
@@ -776,7 +774,6 @@ Cast: [[The Escorts]] and [[Ryan Austin]].
 #### [[Jessica Arjet]] and [[Brently Heilbron]]
 Headliners
 
-
 ### September 19, 2013
 #### Chu By Four ([[Chuy Zarate]])
 Look, Chuy Zarate is an amazing improviser. A mainstay of the Austin Improv scene for years, the man is a comedy chameleon. He can play wacky, sensitive, insane, real... whatever.
@@ -785,7 +782,6 @@ And in this Fringe he's going to play four times.... four duos with performers c
 
 #### [[In Our Prime]]
 Headliners
-
 
 ### September 26, 2013
 #### Geppetto's Workshop ([[Thedward Blevins]])
@@ -858,7 +854,6 @@ Starring: Ryan Millar
 #### [[Jessica Arjet]] and [[Aaron Saenz]]
 Headliners
 
-
 ### November 7, 2013
 #### 20 Years and Counting... ([[Chuy Zarate]])
 "My wife and I have been together forever... We have been through most things that other couples fret about. We will help couples be better at being couples by our improv!"
@@ -870,7 +865,6 @@ Starring: [[Amber Nash]], [[Shannon McCormick]], [[Ruby Willman]], [[Troy Miller
 
 #### [[Jessica Arjet]], [[Chuy Zarate]], and [[Tyler Bryce]]
 Headliners
-
 
 ### November 14, 2013
 #### Inner Demon ([[Halyn Lee Erickson]])
@@ -906,7 +900,6 @@ Like all things, these love notes will now be used to inspire improv. Come see t
 #### [[My Best Fiend]] mit [[Jessica Arjet]]
 Headliners
 
-
 ### December 12, 2013
 #### Holiday Commercial Break ([[Courtney Hopkin]])
 There's nothing quite like holiday commercials. Gap, Old Navy, Wal-Mart, whatever. Sweater clad suburbanites with rustic decorations and fixed smiles. But what happens when the characters from these commercials are not in the commercials? What happens when they're just living their lives?
@@ -916,7 +909,6 @@ Bridget is adorable. Have you seen her? She plays in lots of shows these days. S
 
 #### [[Jessica Arjet]], [[Bridget Brewer]], [[Caeriel Crestin]]
 Headliners
-
 
 ### December 19, 2013
 #### The Doppleganger Show ([[¡Zarzamora!]])
