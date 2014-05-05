@@ -29,7 +29,7 @@ There's a decently common improv format called the Bat, which is like a radio pl
 #### *Always a Bridesmaid* ([[Firth & Arjet]])
 ### Jan 26, 2012
 #### *LADIES' NIGHT!*
-Join the Hideout for the first ever Ladies Night at the Free Fringe. Funny, talented ladies from all over the Austin improv scene will be converging on The Fringe to mix it up. The ladies will be divided into 3 troupes who will each decide on a format and then almost immediately perform it. Expect the energy in the air to be incredible.
+Join the Hideout for the first ever Ladies' Night at the Free Fringe. Funny, talented ladies from all over the Austin improv scene will be converging on The Fringe to mix it up. The ladies will be divided into 3 troupes who will each decide on a format and then almost immediately perform it. Expect the energy in the air to be incredible.
 
 #### *Always a Bridesmaid* ([[Firth & Arjet]])
 ### Feb  2, 2012
