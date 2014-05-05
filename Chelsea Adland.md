@@ -17,7 +17,6 @@ Chelsea Adland started improvising when she auditioned successfully for [[We Cou
 * [[The Intentions]] (2010-present)
 * [[The Love Notes]] (2009-2010)
 * [[We Could Be Heroes]] (2000-2002)
-* [[Zombie Love]]
 
 ## Shows
 * *[[Dusk]]*
