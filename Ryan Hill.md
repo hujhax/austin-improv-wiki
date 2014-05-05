@@ -22,7 +22,7 @@ He is also a musician and has played for [[I Love You So Much]] with the band Ti
 * [[Century]] (2013-Present) 
 * [[In Our Prime]] (2012-Present) 
 * [[The Seven Eight Sevens]] (2012-2013)
-* [[Apocalypse]] (2012)
+* [[Apocalypse (troupe)|Apocalypse]] (2012)
 * [[Dandy]] (2014)
 * [[Shamrock]] (2014)
 
