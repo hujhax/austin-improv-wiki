@@ -115,6 +115,7 @@ These are troupes that still need pages created for them.
 * [[The Delightfuls]]
 * [[Delta Burka]]
 * [[Delta Force of Venus]]
+* [[Depeche a la Mode]]
 * [[Derb City]]
 * [[Dervish]]
 * [[Difficult]]
