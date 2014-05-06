@@ -66,6 +66,10 @@ White Elephant was a format performed as a [http://do512.com/event/weekly/thu/th
 ### Save These Dates
 A semi-narrative improv format that follows the potential dates and long term lives and "what-if's" of a game show contestant and their 3 suitors.  Nice Astronaut performed this format in [http://www.coldtownetheater.com/events/nice-astronaut-presents-save-these-dates February and March 2012].
 
+## Scripted Shows
+### Back In Townsville: Townsville Community Center
+See full article: [[Back In Townsville -  Townsville Community Center]]
+
 ### After Midnight
 After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The show titles and themes included:
 
