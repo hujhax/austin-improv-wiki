@@ -20,13 +20,14 @@ Tim assisted on design of FASTRAC, the University of Texas's nanosatellite, that
 Tim is also a homebrewer, a NAUI certified Master Scuba Diver, worked on several published PC video game titles, and is a co-curator of ColdTowne Theater's [[Bad Movie Night]].
 
 ## Active Troupes & Shows
-* [[Nice Astronaut]] - improviser & sketchprov
+* [[Nice Astronaut]] - improviser, head writer, producer, actor
 * [[Townsville]] - writer, co-director, actor, producer
-* [[Stool Pigeon]] - improviser, 2009-2011, 2013 - present
-* [[Dinner Detective]] - actor, founding cast for Austin, 2010 - present
 * [[First United Methodist Church of Plano Youth Group Improv]] - improviser & troupe creator, 2012 - present
 
 ## Former Troupes & Shows
+* *[[Indy Movies]]* - improviser (2013)
+* [[Stool Pigeon]] - improviser, 2009-2011, 2013
+* [[Dinner Detective]] - actor, founding cast for Austin, 2010 - present
 * [[UpTowne]] - sketch writer/actor (2008-2010)
 * [[ColdTowne Tour Co]] - improviser (2010)
 * [[Total Panic]] - improviser (2009)
@@ -34,12 +35,11 @@ Tim is also a homebrewer, a NAUI certified Master Scuba Diver, worked on several
 * [[Dear Frailty]] - director, co-writer, tech (2009, 2010)
 * [[Varsity]] - improviser (2011)
 * [[ColdTowne All Stars]] - improviser (2009-2011)
-* *[[Indy Movies]]* - improviser (2013)
 
 ## Festivals
 * Chicago Improv Festival (Nice Astronaut 2013)
-* [[Out of Bounds]] (Nice Astronaut 2009, 2010, 2011, 2012)
-* Del Close Marathon (Nice Astronaut 2009, 2012)
+* [[Out of Bounds]] (Nice Astronaut 2009, 2010, 2011, 2012, 2013)
+* Del Close Marathon (Nice Astronaut 2009, 2012, 2013)
 * [[Frontera Fest]] (Townsville 2012)
 * [[Austin Sketch Fest]] (Dear Frailty 2009)
 * Charleston Comedy Festival ([[ColdTowne Tour Co]] 2010)
