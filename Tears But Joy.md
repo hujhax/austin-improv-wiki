@@ -18,3 +18,4 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [http://www.facebook.com/TearsButJoy/ The troupe's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
