@@ -18,6 +18,8 @@ The Mayor of Townsville executes a complicated scheme that involves all of the p
 ## History
 [[Nicole McCracken]] and [[Tim Honker]] approached their improv troupe [[Nice Astronaut]] with the existing outline they wrote in 2012 for the follow up to their previous comedic play: [[Townville -  MacDaddy's Bar & Grill]]. Tim & Nicole's plan in 2012 was to have a trilogy of plays that took place at 3 locations: a bar, a community center, and a hospital.
 
+The troupe selected [[Chaz Formichella]] as Producer and [[Tim Honker]] as Head Writer. Tim & Nicole functioned as Associate Producers.
+
 Members of Nice Astronaut began writing and improvising in rehearsal in October 2013. Several of the sketches were tested in November 2013 through January 2014 in various scripted slots. The main writing and pre-production process began in early January 2014. [[Chris McKeever]] was brought on in February 2014 and advised rewrites that took place over February 2014. Additional cast members were needed (10 total), which were cast, and rehearsals began in early March 2014. [[Joseph Dailey]] wrote the song based off the outline provided by the writers.
 
 [[Category/Shows|Category:Shows]]
