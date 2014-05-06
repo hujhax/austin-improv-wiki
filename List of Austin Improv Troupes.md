@@ -33,6 +33,8 @@ order=ascending
 </DynamicPageList>
 </div>
 
+## In Need of Pages
+These are troupes that still need pages created for them.
 * [[$10 Bourbon]]
 * [[The $3 Bills]]
 * [[1205 Draft]]
