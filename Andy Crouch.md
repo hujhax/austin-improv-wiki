@@ -14,6 +14,7 @@
 ## Troupes
 * [[Ed 32]]
 * [[The Heroes of Comedy]] 
+* [[Polite Society Presents]] 
 * [[Junk]]
 * [[Danger! Warning! Improv!]]
 
@@ -22,6 +23,7 @@
 * *[[Live Nude Improv]]* (director)
 * *[[Fandom]]* (co-director)
 * *[[Fakespeare]]* (director)
+* *[[The Big Bash]]* (director)
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2389786 Interview] with Andy on *[[The Theft Forum]]*.
