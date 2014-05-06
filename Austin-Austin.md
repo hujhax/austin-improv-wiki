@@ -28,3 +28,5 @@ Finally Dungeon Masters is a montage/narrative in which Austin/Austin fill out a
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Duos|Category:Duos]]
