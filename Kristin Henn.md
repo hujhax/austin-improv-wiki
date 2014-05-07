@@ -10,7 +10,7 @@
 ## Summary
 Kristin oversees and facilitates the youth program at [[ColdTowne Theater]] via her performing arts organization, Move Your Tale.
 
-She organizes the weekly All Ages Improv Night formerly known as *[[Teen Improv Night]]* at [[ColdTowne Theater]], Directs and produces weekly kids improv show, What's the Story Steve.
+She organizes the weekly All Ages Improv Night formerly known as *[[Teen Improv Night]]* at [[ColdTowne Theater]], Directs and produces weekly kids improv show, *[[What's the Story Steve]]*.
 
 ## History
 Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010.
