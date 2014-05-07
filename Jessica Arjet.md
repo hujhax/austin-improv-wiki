@@ -24,11 +24,12 @@ She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour 
 
 ## Shows
 * *[[The Black Vault]]*
-* *[[Blood, Sweat, and Cheers]]* (Barbara Davis)
+* "[[Spirited}}'  Louder than Words (director)  *[[Blood, Sweat, and Cheers]]* (Barbara Davis)
 * *[[Charles Dickens Unleashed]]*
 * *[[Fakespeare]]* (Margaret/Hecate/Angus)
 * *[[Live Nude Improv]]*
 * *[[Strange Worlds]]* (Maxine Maker)
+* "[[I Love You So Much]]" (Director)
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2628012 Interview] with Jessica on *[[The Theft Forum]]*.
