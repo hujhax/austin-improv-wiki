@@ -10,7 +10,7 @@
 ## History
 Julie started doing improv in Austin in 2004, joined [[Girls Girls Girls]] in 2005, and performed longform narrative with [[Gnap! Theater Projects]] and [[The Hideout Theatre]] from then until early 2012.
 
-She has produced  [[The Ladies Are Funny Festival]] from its inception until 2012, and am currently produces *[[Bedpost Confessions]]*.
+She produced  [[The Ladies Are Funny Festival]] from its inception until 2012, and currently produces *[[Bedpost Confessions]]*.
 
 ## Troupes
 * [[Girls Girls Girls]]
