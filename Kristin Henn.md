@@ -5,7 +5,7 @@
 |Years	=	2009 -Present
 }}
 
-**Kristin Henn** is an improv performer, director, producer and teacher.  She directs Move Your Tale, the youth program at [[ColdTowne Theater]].
+**Kristin Henn** is an improv performer, director, producer and teacher.  She directs Move Your Tale, the youth program at [[ColdTowne Theater]]. She performs every Sunday night at [[ColdTowne Theater]] with * [[Oh, Science!]] and Saturday mornings with * [[What's the Story Steve]].
 
 ## Summary
 Kristin oversees and facilitates the youth program at [[ColdTowne Theater]] via her performing arts organization, Move Your Tale.
