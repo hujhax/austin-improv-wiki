@@ -25,3 +25,4 @@ Emma Holder was a core cast member in [[The 43-Hour Improv Marathon]]. She perfo
 * *[[Townsville]]*
 * *[[Braised in Texas]]*
 [[Category/Performers|Holder]]
+[[Category/Directors|Holder]]
