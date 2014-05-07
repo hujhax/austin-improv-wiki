@@ -20,3 +20,4 @@ Jessie was the assistant producer of [[The 44-Hour Improv Marathon]] and co-prod
 * *[[The Next Chapter]]* (assistant director)
 
 [[Category/Performers|Pascarelli]]
+[[Category/Directors|Pascarelli]]
