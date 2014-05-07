@@ -23,7 +23,7 @@ Katie started taking improv classes with [[Shana Merlin]] at [[The State Theater
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
 * *[[Oscar Bait]]*
 * *[[The Sandbox]]*
-* *[[The Professor]]*
+* *[[The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Totally Improvised, 90210]]* (Kelly Taylor)
 * ''[[Back In Townsville  -  The Community Center]] (comedic play by Nice Astronaut)
 * *[[Beware of Female Spies]]* (producer) 
