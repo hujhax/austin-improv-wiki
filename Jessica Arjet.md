@@ -5,7 +5,7 @@
 |Years	=	2003-Present
 }}
 
-**Jessica Arjet** is an improv performer, teacher, and co-owner of [[The Hideout Theatre]].
+**Jessica Arjet** is an improv performer, director, teacher, and co-owner of [[The Hideout Theatre]].
 
 ## Summary
 Jessica is the founder and manager of the [[Flying Theater Machine]], Austin's only improv comedy for kids. She is a professional clown (Penelope Foolish). Jessica is the youth program director at the Hideout Theater, where she runs weekly classes, summer camps, and touring performances.
