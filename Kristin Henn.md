@@ -13,7 +13,7 @@ Kristin oversees and facilitates the youth program at [[ColdTowne Theater]] via 
 She organizes the weekly All Ages Improv Night formerly known as *[[Teen Improv Night]]* at [[ColdTowne Theater]], Directs and produces weekly kids improv show, *[[What's the Story Steve]]*.
 
 ## History
-Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010.
+Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has studied at iO Chicago, The Annoyance Theater and taken workshops and from every awesome visiting improviser that she could.
 
 ## Troupes
 * [[Big Beautiful Warlock]]
