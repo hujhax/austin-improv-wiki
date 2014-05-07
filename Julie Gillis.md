@@ -31,3 +31,4 @@ She produced  [[The Ladies Are Funny Festival]] from its inception until 2012, a
 * [[The Out of Bounds Comedy Festival]]
 
 [[Category/Performers|Gillis]]
+[[Category/Directors|Gillis]]
