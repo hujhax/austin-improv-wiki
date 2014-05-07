@@ -16,17 +16,18 @@ Katie started taking improv classes with [[Shana Merlin]] at [[The State Theater
 * [[Three on a Match]]
 
 ## Shows
-* *[[The Andersons]]* (Mary-Alice Anderson)
 * *[[Apocalypse! (show)|Apocalypse!]]*
-* *[[Braised in Texas]]*
+* *[[The Andersons]]* (Mary-Alice Anderson)
 * *[[Dusk]]*
+* *[[The Sandbox]]*
+* *[[Totally Improvised, 90210]]* (Kelly Taylor)
+* *[[The Professor -  Improv Inspired by Doctor Who]]* (first two seasons)
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
 * *[[Oscar Bait]]*
-* *[[The Sandbox]]*
-* *[[The Professor -  Improv Inspired by Doctor Who]]*
-* *[[Totally Improvised, 90210]]* (Kelly Taylor)
-* ''[[Back In Townsville  -  The Community Center]] (comedic play by Nice Astronaut)
+* *[[Braised in Texas]]*
 * *[[Beware of Female Spies]]* (producer) 
+* ''[[Back In Townsville  -  The Community Center]] (comedic play by Nice Astronaut)
+
 
 [[Category/Performers|Thornton]] 
 
