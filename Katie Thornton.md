@@ -23,6 +23,8 @@ Katie started taking improv classes with [[Shana Merlin]] at [[The State Theater
 * *[[Oscar Bait]]*
 * *[[The Sandbox]]*
 * *[[Totally Improvised, 90210]]* (Kelly Taylor)
+* ''[[Back In Townsville  -  The Community Center]] (comedic play by Nice Astronaut)
+* *[[Beware of Female Spies]]* (producer) 
 
 [[Category/Performers|Thornton]] 
 
