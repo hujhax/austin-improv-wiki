@@ -39,3 +39,4 @@ She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour 
 
 [[Category/Performers|Arjet]]
 [[Category/Teachers|Arjet]]
+[[Category/Directors|Arjet]]
