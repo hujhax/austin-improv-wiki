@@ -2,6 +2,8 @@
 
 It is scheduled to run from 4/10/14 through 4/12/14.
 
+It was produced by [[Thedward Blevins]] and [[Ruby Willman]].
+
 ## Acts
 ### Local Acts
 * [[BeauMoMa]]
