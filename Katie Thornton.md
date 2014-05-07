@@ -11,8 +11,9 @@
 Katie started taking improv classes with [[Shana Merlin]] at [[The State Theater]] in 2007, with classmates [[Courtney Hopkin]] and [[Albert Im]].
 
 ## Troupes
-* [[The Professor]]
 * [[Snackers]]
+* [[Sugarbakers]]
+* [[Three on a Match]]
 
 ## Shows
 * *[[The Andersons]]* (Mary-Alice Anderson)
