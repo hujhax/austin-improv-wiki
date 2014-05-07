@@ -24,7 +24,9 @@ She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour 
 
 ## Shows
 * *[[The Black Vault]]*
-* "[[Spirited}}'  Louder than Words (director)  *[[Blood, Sweat, and Cheers]]* (Barbara Davis)
+* "[[Spirited]]"
+* Louder than Words (director) 
+* *[[Blood, Sweat, and Cheers]]* (Barbara Davis)
 * *[[Charles Dickens Unleashed]]*
 * *[[Fakespeare]]* (Margaret/Hecate/Angus)
 * *[[Live Nude Improv]]*
