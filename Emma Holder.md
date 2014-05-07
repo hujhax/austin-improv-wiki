@@ -8,7 +8,7 @@
 **Emma Holder** is an improv performer.
 
 ## History
-Emma Holder was a core cast member in [[The 43-Hour Improv Marathon]].
+Emma Holder was a core cast member in [[The 43-Hour Improv Marathon]]. She performs regularly with Big Beautiful Warlock, Three on a Match and sketch comedy group, Comedy Bazaar. She has performed in various main stage improv productions at Coldtowne Theater, the Hideout Theatre, and with GNAP. She directed the Coldtowne theater main stage production Beware of Female Spies.
 
 ## Troupes
 * [[Big Beautiful Warlock]]
