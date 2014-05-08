@@ -1,6 +1,6 @@
-**The 2014 Improvised Play Festival** will be the fourth annual [[The Improvised Play Festival|Improvised Play Festival]].
+**The 2014 Improvised Play Festival** was the fourth annual [[The Improvised Play Festival|Improvised Play Festival]].
 
-It is scheduled to run from 4/10/14 through 4/12/14.
+It ran from 4/10/14 through 4/12/14.
 
 It was produced by [[Thedward Blevins]] and [[Ruby Willmann]].
 
