@@ -8,7 +8,7 @@
 **Clay Towery** was an improv performer and director.
 
 ## History
-Clay has a long history of performance in music, scripted theater, dance and improv. He studied acting at St. Edward's University.
+Clay had a long history of performance in music, scripted theater, dance and improv. He studied acting at St. Edward's University.
 
 Clay was a company member of [[Gnap! Theater Projects]].
 
