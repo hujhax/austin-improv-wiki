@@ -44,6 +44,7 @@ At the start of its run, a single *Pick Your Own Path* adventure was paired with
 * 5/10/13: Videos of [http://vimeo.com/65993964 show #1] and [http://vimeo.com/65981712 show #2].
 * 5/23/13: [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[The Black Vault]]* at *[[The Free Fringe]]*).
 * [http://vimeo.com/70460663 6/22/13: Video,] from [[The 44-Hour Improv Marathon]].
+* 5/9/14: [http://youtu.be/GAQarSR6qIM Video.]
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3 A couple of pre-show photos] by [[Peter Rogers]] of the 10/8/10 show.
