@@ -16,7 +16,7 @@ She was also a member of many troupes in New York City, that include, but are no
 
 Topping is also known for her dark unique sketch comedy. In Austin she put up *Akimbo Bubble Scuttle Ruckus* for Frontera Fest 2011. She was part of the first Second City Conservatory NYC sketch show *We Built This City of Rent Control*. Also, in New York she either wrote or directed for, and often performed in: *Scrap Metal Theatre*, *The Resistance*, *TJ Stomp*, *Skeeger*, and *Short & Funny: The Final Chapter*.
 
-
+Topping received her BA in Drama from San Francisco State University, and studied improv with Bay Area Thearesports, The Upright Citizens Brigade, Second City NYC, Armando Diaz, Michael Gellman, Mark Sutton, Joe Bill,  Billy Merritt, and Mick Napier, among others.
 
 Topping was a company member with [[Gnap! Theater Projects]].
 
