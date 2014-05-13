@@ -8,6 +8,16 @@
 **Topping Haggerty** is an improv performer.
 
 ## History
+Topping came to Austin from New York City in 2008.
+
+In New York City she directed such improv shows as *The Kihckercast Project*, *Late Night Ritalin*, *What Men Talk About While Women Make Us Wait*, and *Seeking: Sexy Sane and Singl*e. 
+
+She was also a member of many troupes in New York City, that include, but are not limited to: *Cute Kids with Guns*, *Start Trekkin' NYC*, *L'quid P'aper*, *Channel Surfing*, *The Bastards*, *Jenkins*, *Amnesia Wars Etc.*, etc.
+
+Topping is also known for her dark unique sketch comedy. In Austin she put up *Akimbo Bubble Scuttle Ruckus* for Frontera Fest 2011. She was part of the first Second City Conservatory NYC sketch show *We Built This City of Rent Control*. Also, in New York she either wrote or directed for, and often performed in: *Scrap Metal Theatre*, *The Resistance*, *TJ Stomp*, *Skeeger*, and *Short & Funny: The Final Chapter*.
+
+
+
 Topping was a company member with [[Gnap! Theater Projects]].
 
 ## Troupes
