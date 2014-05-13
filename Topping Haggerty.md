@@ -21,6 +21,7 @@ Topping received her BA in Drama from San Francisco State University, and studie
 Topping was a company member with [[Gnap! Theater Projects]].
 
 ## Troupes
+* [[BatShyt Crazy]]
 * [[Comedy Sportz]]
 * [[DA Foundry]]
 * [[The Dancy Street D'Orchestra]]
