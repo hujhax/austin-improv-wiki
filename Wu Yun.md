@@ -1,1 +1,1 @@
-[[The Wu Yun Saga]]
+#REDIRECT [[The Wu Yun Saga]]
