@@ -5,7 +5,7 @@
 ## History
 The thread began on 4/24/12, when a spambot posted the following text to the "General Discussion" forum (with the topic "want to know"):<blockquote>Chapter 30 1 ...He looked at Wu Yun, slowly asked: "I find you not to ask you this, I just want to know, you refuse me, drew this picture of that person?"</blockquote>A few hours later (before moderators could delete the spam), [[Peter Rogers]] added a continuation of "Chapter 30", re-contextualizing the original garbled line as a story about a Chinese-American bounty hunter in the Old West.
 
-Ten minutes after that, [[Brad Hawkins]] added "Chapter 31", and the thread became a collaborative novella, with AIC members adding subsequent chapters.  Over time, the story incorporated many new characters and complications, until 2/20/13, when [[Jordan T. Maxwell]] posted chapter 70.
+Ten minutes after that, [[Brad Hawkins]] added "Chapter 31", and the thread became a collaborative novella, with AIC members adding subsequent chapters.  At one point, [[Jordan T. Maxwell]] tasked the *[[Strange Worlds]]* cast with adding chapters to the story.  Over time, the story incorporated many new characters and complications, until 2/20/13, when [[Jordan T. Maxwell]] posted chapter 70.  After that, the thread went dormant.
 
 On 4/1/13, frequent contributors [[Jordan T. Maxwell]], [[Peter Rogers]], [[Kevin Miller]], and [[Jessie Pascarelli]] met to plan out the conclusion of the story with a four-chapter arc, but those chapters were not posted until the week of 5/12/14.
 
