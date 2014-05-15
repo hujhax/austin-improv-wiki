@@ -17,15 +17,18 @@ She began watching shows at [[The Hideout Theatre]] when she was in 6th grade, a
 
 ## Shows
 * *[[The 43-Hour Improv Marathon]]*
-* *[[Austin Secrets]]*
+* *[[Austin Secrets]]* (seasons 2 and 4)
 * *[[Blood, Sweat, and Cheers]]* (Kennedy Campbell, choreographer)
-* *[[Charles Dickens Unleashed]]*
+* *[[Charles Dickens Unleashed]]* (season 2)
 * *[[Fandom]]*
 * *[[Lord Wensleydale’s Last High Tea]]*
 * *[[Process]]*
 * *[[Rock]]*
 * *[[Spirited]]*
 * *[[The Tribunal]]*
+* *[[Hurly Burly]]*
+* *[[Theatresports]]*
+* *[[Live Nude Improv]]*
 
 
 
