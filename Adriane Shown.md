@@ -5,7 +5,7 @@
 |Years	=	2011-Present
 }}
 
-**Adriane Shown** is an improv performer, musician, and technical improvisor.
+**Adriane Shown** is an improv performer, singer, musician, and technical improvisor.
 
 ## History
 She was one of the recipients of the [[Tom Booker]] Appreciation Awards, as well as a Blind Side Award at [[The Institution Theater Awards]] 2014. Also nominated for Favorite Female Performer & her show, Hell & Back Cabaret was nominated for Favorite Variety Show.
