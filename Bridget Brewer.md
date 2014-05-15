@@ -9,6 +9,7 @@
 
 ## Troupes
 * [[BeauMoMa]]
+*[[The Delightfuls]]
 
 ## Shows
 * *[[Austin Secrets]]*
