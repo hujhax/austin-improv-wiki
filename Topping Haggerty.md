@@ -22,13 +22,14 @@ Topping was a company member with [[Gnap! Theater Projects]].
 
 ## Troupes
 * [[BatShyt Crazy]]
+* [[ChuTopp]]
 * [[Comedy Sportz]]
 * [[DA Foundry]]
 * [[The Dancy Street D'Orchestra]]
 * [[The Moral Compass Rumpus]]
 * [[The Special Features]]
 * [[The Topping Haggerty Experience]]
-* [[Wine Smugglers]]
+* [[The Wine Smugglers]]
 * [[Your Dad's Friends]]
 * [[¡Zarzamora!]]
 
