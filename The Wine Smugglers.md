@@ -1,6 +1,5 @@
 {{Infobox Troupe
-|Name	=	Lady Couch
-|Picture =     Lady Couch.jpg
+|Name	=	The Wine Smugglers
 |Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Susannah Raulino]] | [[Nancy Lyon]] }}
 |Years	=	2011
 }}
