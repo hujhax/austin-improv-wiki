@@ -21,6 +21,7 @@ Lacy is currently a teacher for [[Merlin Works]] adult classes and [[The Hideout
 ## Current Troupes
 * [[RhinoDino]]
 *[[The Known Wizards]]
+*[[The Delightfuls]]
 
 ## Shows
 * *[[The Cagematch]]*
