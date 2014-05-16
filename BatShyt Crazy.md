@@ -11,5 +11,7 @@
 ## History
 BatShyt Crazy has performed at The Institution Theater, the Hideout Theatre, with with Dystheatre Company teaching Shakespeare 101 (yes, puppets know shit).
 
+In BatShyt Crazy's most famous sketch, Pedro Poops Joy, [[Susannah Raulino]] played the angry lead singer.
+
 
 [[Category/Troupes|BatShyt Crazy]]
