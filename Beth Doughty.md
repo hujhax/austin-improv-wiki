@@ -5,7 +5,7 @@
 |Years	=	20012-Present
 }}
 
-**Beth Dought** is an improviser, writer, and sketch performer.
+**Beth Doughty** is an improviser, writer, and sketch performer.
 
 ## History
 Beth dabbles in improv and sketch, but spends most of her time producing shorts films.
