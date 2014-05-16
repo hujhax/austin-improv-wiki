@@ -5,7 +5,7 @@
 |Years	=	2008-Present
 }}
 
-**Topping Haggerty** is an improv performer.
+**Topping Haggerty** is an actress, sketch comedy writer & director, and improv performer.
 
 ## History
 Topping came to Austin from New York City in 2008.
