@@ -12,5 +12,5 @@
 The troupe played at the Frontera Fest 2012 and a few times at The Hideout Theatre.
 
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/All-Female Troupes|Category:All-Female Troupes]]
+[[Category/Troupes|Wine Smugglers]]
+[[Category/All-Female Troupes|Wine Smugglers]]
