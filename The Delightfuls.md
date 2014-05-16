@@ -13,6 +13,6 @@ The troupe was formed around the time of [[The 2013 Out of Bounds Comedy Festiva
 ## Summary
 Their style consists of positive, relatively quick-paced scenes based on true stories of their lives.
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
-[[Category/All-Female Troupes|Category:All-Female Troupes]]
+[[Category/Troupes|Delightfuls]]
+[[Category/Active|Delightfuls]]
+[[Category/All-Female Troupes|Delightfuls]]
