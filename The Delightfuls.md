@@ -4,7 +4,6 @@
 |Cast	=	{{Unbulleted list | [[Bridget Brewer]] | [[Halyn Lee Erickson]] | [[Lacy Shawn]] }}
 |Years	=		2013-Present
 }}
-
 **The Delightfuls** are an improv troupe.
 
 ## History
