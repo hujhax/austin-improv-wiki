@@ -5,6 +5,8 @@
 |Years	=	2012
 }}
 
+BatShyt Crazy is puppets.
+
 ## Summary
 **BatShyt Crazy** is a bunch of angry mean dirty sexy puppets that perform improv and sketch.
 
