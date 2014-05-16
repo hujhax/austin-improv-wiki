@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Nancy Lyon	
-|Picture =	Nancy Lyon.jpg
+|Picture =	Nancy Lyon 1.jpg
 |Theater=	Various
 |Years	=	2010-Present
 }}
