@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=	The Wine Smugglers
+|Picture =      The Wine Smugglers.jpg
 |Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Susannah Raulino]] | [[Nancy Lyon]] }}
 |Years	=	2011
 }}
