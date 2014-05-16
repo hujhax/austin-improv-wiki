@@ -27,6 +27,7 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * [[DA Foundry]]
 * [[The Dancy Street D'Orchestra]]
 * [[The Moral Compass Rumpus]]
+* [[RedRover]]
 * [[The Special Features]]
 * [[The Topping Haggerty Experience]]
 * [[The Wine Smugglers]]
