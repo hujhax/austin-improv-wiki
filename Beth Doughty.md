@@ -8,6 +8,8 @@
 **Beth Dought** is an improviser, writer, and sketch performer.
 
 ## History
+Beth dabbles in improv and sketch, but spends most of her time producing shorts films.
+
 ## Troupes
 * [[BatShyt Crazy]]
 * [[The Moral Compass Rumpus]]
