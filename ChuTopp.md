@@ -6,7 +6,7 @@
 }}
 
 ## Summary
-**ChuTopp** is an improv power duo of Topping Haggerty and Chuy Zarate. Their characters are usually trying to save the world or over through the world using that innocuous life skills.
+**ChuTopp** is the improv power duo of Topping Haggerty and Chuy Zarate. Their characters are usually trying to save the world or over through the world using that innocuous life skills.
 
 ## History
 ChuTopp performs at The Hideout Theatre, The Institution Theater, and Coldtowne Theater. 
