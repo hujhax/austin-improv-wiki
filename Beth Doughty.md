@@ -8,7 +8,7 @@
 **Beth Doughty** is an improviser, writer, and sketch performer.
 
 ## History
-Beth dabbles in improv and sketch, but spends most of her time producing shorts films.
+Beth dabbles in improv and sketch, but spends most of her time producing short films.
 
 ## Troupes
 * [[BatShyt Crazy]]
