@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	The Special Features
 |Picture =      The Special Features 1.jpg
-|Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Matthew Arisheh Falkenberg]] | [[Ali Meier]] | [[Robert Slack]] | [[Carl Zeigler]] | [[Barrett Phelan]] | [[Ripley Adams]] }}
+|Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Matthew Arisheh Falkenberg]] | [[Ali Meier]] | [[Robert Slack]] | [[Carl Ziegler]] | [[Barrett Phelan]] | [[Ripley Adams]] }}
 |Years	=	2013
 }}
 
