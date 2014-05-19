@@ -93,7 +93,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Sunday 5am (hour 37): a secret show, produced by [[Jason Vines]].
 ** This turned out to be "Human Clay", where Jason, in character as a Bob-Ross-like sculptor, molded players into various shapes and blew "magic dust" on them that brought them to life for scenes.
 ** Roy had made Jason promise not to be *too* cruel to the core cast with his secret format.
-* Sunday 6am (hour 38): "The Queen Is Not Amused", wherein Jonathan Monkhouse appeared via Skype, portraying the queen of England.
+* Sunday 6am (hour 38): "The Queen Is Not Amused", wherein Jay Funky appeared via Skype, portraying the queen of England.
 * Sunday 7am (hour 39): Student Show
 ** This was a long-form narrative set in New Orleans.
 ** This show featured student guests [[Ammu Ganesan]], [[David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Lindsay Hejl]], and [[Patrick Creamer]].
@@ -117,12 +117,12 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 
 Also, in between shows, [[Cat Drago]] performed, for the livestream, short interviews with people involved in the production.
 
-## Jonathan Monkhouse
-British improvisor [http://www.facebook.com/jonathan.monkhouse Jonathan Monkhouse] was originally scheduled to play in the 44-Hour Marathon.  Due to [http://www.scifiimprov.co.uk/1/post/2013/06/p2-needs-a-p2.html visa troubles], neither Monkhouse nor his improv partner Chris Mead were able to come to the United States.
+## Jay Funky
+British improvisor Jay Funky was originally scheduled to play in the 44-Hour Marathon.  Due to [http://www.scifiimprov.co.uk/1/post/2013/06/p2-needs-a-p2.html visa troubles], neither Funky nor his improv partner Chris Mead were able to come to the United States.
 
 [[Michael Joplin]] stepped in as Jonathan's replacement in the core cast.
 
-The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk/ Project2], the science-fiction troupe that both Monkhouse and Chris Mead are a part of.
+The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk/ Project2], the science-fiction troupe that both Funky and Chris Mead are a part of.
 
 ## Media
 ### Photos
