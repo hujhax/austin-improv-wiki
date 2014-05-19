@@ -6,7 +6,7 @@ It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/
 ## Core Players
 * [[Bridget Brewer]]
 * [[Dave Buckman]]
-* Jay Funkhouse
+* Jay Funky
 * [[Katie Dahm]]
 * [[Michael Ferstenfeld]]
 * [[Rachel Madorsky]]
