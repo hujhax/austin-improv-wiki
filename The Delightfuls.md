@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		The Delightfuls
-|Picture	=	The Delightfuls.jpg
+|Picture	=	Delightfuls.jpg
 |Cast	=	{{Unbulleted list | [[Bridget Brewer]] | [[Halyn Lee Erickson]] | [[Lacy Shawn]] }}
 |Years	=		2013-Present
 }}
