@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Topping Haggerty	
-|Picture =	Topping Haggerty Pic.jpg
+|Picture =	Topping Haggerty Pic2.jpg
 |Theater=	Various
 |Years	=	2008-Present
 }}
