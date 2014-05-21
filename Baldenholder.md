@@ -5,7 +5,7 @@
 |Years	=		2011-2013
 }}
 
-**Baldenholder** was an improv troupe.
+**Baldenholder** was an improv duo.
 
 ## Summary
 ### Press Blurb
