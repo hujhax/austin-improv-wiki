@@ -15,5 +15,5 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We ask for an object and then we do a montage inspired by the object.</blockquote>
 
 [[Category/Troupes|Really Aggressive Dream]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+[[Category/Auto-Generated Troupe Pages|Really Aggressive Dream]]
+[[Category/Active|Really Aggressive Dream]]
