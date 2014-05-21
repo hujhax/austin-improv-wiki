@@ -23,7 +23,7 @@ Topping was a company member with [[Gnap! Theater Projects]].
 ## Troupes
 * [[BatShyt Crazy]]
 * [[ChuTopp]]
-* [[Comedy Sportz]]
+* [[ComedySportz]]
 * [[DA Foundry]]
 * [[The Dancy Street D'Orchestra]]
 * [[The Moral Compass Rumpus]]
