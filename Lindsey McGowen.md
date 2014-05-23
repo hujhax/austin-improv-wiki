@@ -8,7 +8,7 @@
 **Lindsey McGowen** is a technical improvisor.
 
 ## Summary
-Lindsey has a fancy piece of paper that says she knows stuff about technical theater, but decided theater-as-a-day-job made it less fun and took a break from theater from 2006-2013. 
+Lindsey has an expensive piece of paper that says she knows stuff about technical theater. While at school she stage managed and did lighting work for the  collegiate improv troupe, but then decided upon graduating that theater-as-a-day-job made it less fun and took a break from theater from 2006-2013. 
 
 Since moving to Austin in early 2014, she immediately jumped into the local improv scene and has been running tech for shows at both [[The Hideout Theatre]] and [[The Institution Theater]]. She specializes in scoring and sound effects.
 
