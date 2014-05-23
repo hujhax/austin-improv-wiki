@@ -8,7 +8,9 @@
 **Lindsey McGowen** is a technical improvisor.
 
 ## Summary
-Lindsey has a fancy piece of paper that says she knows stuff about technical theater, but decided theater-as-a-day-job made it less fun and took a break from theater from 2006-2013. Since moving to Austin in early 2014, she immediately jumped into the local improv scene and has been running tech for shows at both [[The Hideout Theatre]] and [[The Institution Theater]]. She specializes in sound improvisation. 
+Lindsey has a fancy piece of paper that says she knows stuff about technical theater, but decided theater-as-a-day-job made it less fun and took a break from theater from 2006-2013. 
+
+Since moving to Austin in early 2014, she immediately jumped into the local improv scene and has been running tech for shows at both [[The Hideout Theatre]] and [[The Institution Theater]]. She specializes in sound improvisation. 
 
 Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer.
 
