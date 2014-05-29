@@ -5,7 +5,7 @@
 |Years	=		2011-2013
 }}
 
-**Best Friends Club of Austin** was an improv troupe.
+**Best Friends Club of Austin** was an improv duo.
 
 ## Summary
 ### Press Blurb
@@ -15,7 +15,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>At the most basic, we do mono scenes with pop outs. We weave physicality, surreal organic pop-outs and big emotional responses into the shows. If you've seen [[The Glamping Trip]] and [[Billy Icon]], we try to go from one to the other and back again.</blockquote>
 
 ## More Information
-* [https://www.facebook.com/pages/Best-Friends-Club-of-Austin/215125325175962 The troupe's web site.]
+* [https://www.facebook.com/pages/Best-Friends-Club-of-Austin/215125325175962 The duo's web site.]
 
 
 [[Category/Troupes|Category:Troupes]]
