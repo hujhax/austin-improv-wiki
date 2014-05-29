@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Billy Icon
+|Picture=		Billy Icon.jpg
 |Cast	=	{{ Unbulleted list | [[Joshua Krilov]] | [[Stephanie Russo]] }}
 |Years	=		2010-2013
 }}
