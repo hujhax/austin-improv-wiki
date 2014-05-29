@@ -5,7 +5,7 @@
 |Years	=		2013-Present
 }}
 
-**Bear Derby** is an improv troupe.
+**Bear Derby** is a [[ColdTowne Student Troupe]].
 
 ## Summary
 ### Press Blurb
