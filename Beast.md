@@ -9,9 +9,9 @@
 ## Summary
 ### Press Blurb
 Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Alex Baia and Shea Scott present character-driven long-form improvisation that teeters on the fine line between grounded drama and comedic delirium. 
-
+<br><br>
 This is improvisation unified by its unbridled commitment to characters that matter. 
-
+<br><br>
 This is improvisation with guts and brains.</blockquote>
 
 ### "What's Your Deal?"
