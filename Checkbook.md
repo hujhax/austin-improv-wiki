@@ -2,10 +2,10 @@
 |Name	=		Checkbook
 |Picture	=	Checkbook.jpg
 |Cast	=	{{ Unbulleted list | [[Ariel Greenspoon]] | [[Ellen Kubecka]] | [[Jenna Marie Carey]] | [[Megan Simon]] | [[Reagan Ward]] | [[Yamina Khouane]] }}
-|Years	=		2012-2013
+|Years	=		2011-2013
 }}
 
-**Checkbook** was an improv troupe.
+**Checkbook** was an improv troupe at [[The New Movement]].
 
 ## Summary
 ### Press Blurb
