@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		DA Foundry
-|Picture	=	DA Foundry.jpg
+|Picture	=	DA Foundry.png
 |Cast	=	{{ Unbulleted list | [[Chelsea Gilman]] | [[David Rosenbaum]] | [[Susannah Raulino]] | [[Topping Haggerty]] }}
 |Years	=		2011-2013
 }}
