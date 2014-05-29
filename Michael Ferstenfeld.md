@@ -12,6 +12,7 @@ Michael is the co-founder and artistic director of scripted theatre company, [ht
 
 
 ## Troupes
+* [[A Bunch of Liars]]
 * [[Confidence Men]]
 * [[Double Dutch]]
 * [[Ed 32]]
