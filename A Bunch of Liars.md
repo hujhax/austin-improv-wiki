@@ -2,7 +2,7 @@
 |Name	=		Bunch of Liars
 |Picture	=	Bunch of Liars.jpg
 |Cast	=	{{Unbulleted list | [[Chris Kelley]] | [[Daniel Rigney]] | [[Kelli Bland]] | [[Michael Ferstenfeld]] | [[Paul Wainright]] | [[Todd Mein]] }}
-|Years	=		2011-2012
+|Years	=		2010-2011
 }}
 
 **Bunch of Liars** was an improv troupe.
