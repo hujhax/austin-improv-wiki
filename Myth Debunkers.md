@@ -8,7 +8,7 @@
 |Subsequent Runs = 3/22/13
 }}
 
-***Myth Debunkers*** was an improvised version of *[[Wikipedia - MythBusters|MythBusters]]*
+***Myth Debunkers*** was an improvised version of *[[Wikipedia - MythBusters|MythBusters]]*.
 
 ## History
 The show ran once as a *[[Free Fringe]]* on 6/14/12, and had an encore performance on 3/22/13 as part of *[[The TV Set]]*.
