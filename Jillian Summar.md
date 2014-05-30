@@ -5,7 +5,7 @@
 |Years	=	2013-Present
 }}
 
-Jillian Summar is an improv performer.
+Jillian Summar is an improv performer, singing improv teacher, and vocal performer.
 
 ## History
 ## Troupes
