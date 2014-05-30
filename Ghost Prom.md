@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Ghost Prom
-|Picture	=	Ghost Prom.jpg
+|Picture	=	Ghost Prom.png
 |Cast	=	{{ Unbulleted list | [[Amy Pacheco]] | [[Chad Smith]] | [[Dan Rumney]] | [[Dave Ward]] | [[James Patrick Robinson]] | [[Jennifer Monsees]] | [[Milo Smith]] }}
 |Years	=		2010-2011
 }}
