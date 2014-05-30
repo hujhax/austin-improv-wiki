@@ -5,7 +5,7 @@
 |Years	=		2013-2014
 }}
 
-**Doin Maintenance** is an improv troupe.
+**Doin Maintenance** was an improv troupe.
 
 ## Summary
 ### Press Blurb
