@@ -1,7 +1,7 @@
 
 
 {{Infobox Performer
-|Name	=	Greg BlankRogers	
+|Name	=	Greg Blank
 |Picture =	blank.jpg
 |Theater=	{{Unbulleted list | [[The Hideout Theatre]] | [[The Institution Theater]] | [http://washingtonimprovtheater.com Washington Improv Theater] | [http://www.dcimprov.com/comedy-school/learn-improv.html DCImprov] | [http://comedyindc.com DC ComedySportz] }}
 |Years	=	2008-Present
