@@ -19,6 +19,15 @@ In materials promoting this show, the Institution Theater's logo of a [[Wikipedi
 
 ![[Eye-of-institution-1.gif|The View-Master of Providence, designed by [[Brad Hawkins]]]]
 
+## Media
+### Videos
+* [http://vimeo.com/91137418 Video of the 4/4/2014 performance.]
+* [http://vimeo.com/92235221 Video of the 4/11/2014 performance.]
+* [http://vimeo.com/93384305 Video of the 4/18/2014 performance.]
+* [http://vimeo.com/93541011 Video of the 4/25/2014 performance.]
+* [http://vimeo.com/94790723 Video of the 5/2/2014 performance.]
+* [http://vimeo.com/96163000 Video of the 5/9/2014 performance.]
+
 ## Links
 [https://www.flickr.com/photos/58011781@N00/sets/72157642005128263/ Cast photos] taken by [[Roy Moore]]
 [[Category/Shows|Trust]]
