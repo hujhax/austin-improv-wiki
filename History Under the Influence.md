@@ -24,7 +24,7 @@ After a very successful Free Fringe show, Kevin submitted the show for a month-l
 * The 5/15/14 show. http://vimeo.com/95560857
 
 ### YouTube Series
-https://www.youtube.com/user/DrunkHistory
+* https://www.youtube.com/user/DrunkHistory
 
 ### Comedy Central Show
 * http://www.cc.com/shows/drunk-history
