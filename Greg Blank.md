@@ -19,7 +19,9 @@ Greg started doing improv in Washington DC in 2008.  He attended classes at Wash
 Upon moving to Austin he signed up for classes pronto.
 
 ## Troupes
-* Peanut Berry (2013)
+* [[Peanut Berry]]
+
+## Shows
 * [[Cochise]] (2014)
 
 
