@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Bad Font
-|Cast	=	{{Unbulleted list|[[Justin Davidson]]|[[Karen Jane DeWitt]]|[[Scott Hearne]]|[[Alexander Hilary]]|[[Ron Morelli]]|[[Christina Parrish]]|[[Jessie Pascarelli]]||[[Megan Venable]]}}
+|Cast	=	{{Unbulleted list|[[Justin Davidson]]|[[Scott Hearne]]|[[Alexander Hilary]]|[[Kristen Kurtis]]|[[Carlos LaRotta]]|[[Ron Morelli]]|[[Christina Parrish]]|[[Jessie Pascarelli]]||[[Megan Venable]]}}
 
 
 |Years	=		2013 - Present
