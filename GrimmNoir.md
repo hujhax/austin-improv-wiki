@@ -26,8 +26,7 @@ The show premiered as a *[[Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2
 * [http://vimeo.com/40916902 Video] of their performance in [[The 2012 Improvised Play Festival]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3
- Photoset] by [[Roy Moore]] that includes their performance in [[The 2012 Improvised Play Festival]].
+* [http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in [[The 2012 Improvised Play Festival]].
  
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
