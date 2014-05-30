@@ -2,7 +2,7 @@
 |Name	=		Doin Maintenance
 |Picture	=	Doin Maintenance.jpg
 |Cast	=	{{ Unbulleted list | [[Amy Wright]] | [[Chris Albano]] | [[David Ronn]] | [[Jillian Summar]] | [[Stuart Feild]] }}
-|Years	=		2013-Present
+|Years	=		2013-2014
 }}
 
 **Doin Maintenance** is an improv troupe.
@@ -19,4 +19,3 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
