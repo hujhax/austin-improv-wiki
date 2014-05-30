@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Jillian Summar	
 |Picture =	Jillian Summar.jpg
-|Theater=	[[The Hideout Theatre]], [[The Institution Theater]]
+|Theater=	[[The Hideout Theatre]], [[The Institution Theater]] [[Merlin Works]]
 |Years	=	2012-Present
 }}
 
