@@ -13,8 +13,11 @@
 [[Kevin Miller]] 
 
 ## History
-*History Under the Influence* started out as a Free Fringe format. 
+*History Under the Influence* started out as a Free Fringe format inspired by the YouTube series "Drunk History." It was proposed by [[Kevin Miller]] and played in the [[The Free Fringe]] on DATE with a cast of [[Ryan Hill]], [[]], [[]]. The cast was recruited from a post on [[Roy Janik]]'s Facebook wall.
 
+After a very successful Free Fringe show, Kevin submitted the show for a month-long run in [[The Threefer]] at [[The Hideout Theater]], somewhat tongue-in-cheek, not expecting it to be scheduled. Roy had been looking to shake up the Threefer and doubled-down on Kevin's dare. **'History Under the Influence**' played five sold out shows at the Hideout in May of 2014.
+
+It was regarded by the cast as an effortless format where comedy happened naturally. Audience response was extremely positive.
 
 ## Media
 ### Videos
