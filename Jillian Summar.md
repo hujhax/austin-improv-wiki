@@ -12,7 +12,7 @@ Jillian Summar is an improv performer.
 * 
 
 ## Shows
-* *[[Camp Madeuponathaspotta]]*
+* *[[Camp Madeupponathaspotta]]*
 
 
 [[Category/Performers|Summar]]
