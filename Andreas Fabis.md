@@ -8,7 +8,7 @@
 Andreas Fabis is an improv performer.
 
 ## History
-Fabis was born in Düsseldorf, Germany.
+Fabis was born o July 9th 1970 in Düsseldorf, Germany. In 2005 he moved to Austin, TX to work for an IT security company. Before doing improv he organized live action role-playing games in Germany.
 
 ## Troupes
 * [[Apocalypse (troupe)|Apocalypse]]
