@@ -2,7 +2,7 @@
 |Name	=	Jillian Summar	
 |Picture =	Jillian Summar.jpg
 |Theater=	[[The Hideout Theatre]], [[The Institution Theater]]
-|Years	=	2013-Present
+|Years	=	2012-Present
 }}
 
 Jillian Summar is an improv performer, singing improv teacher, and vocal performer.
