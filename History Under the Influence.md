@@ -8,7 +8,7 @@
 |Run = May 2014
 }}
 
-***History Under the Influence*** was an improv show created by [[Kevin Miller]] and inspired by the YouTube/Comedy Central series *Drunk History*.
+***History Under the Influence*** was an improv show inspired by the YouTube/Comedy Central series *Drunk History*.
 
 ## History
 *History Under the Influence* started out as a *Free Fringe* format. It was proposed by [[Kevin Miller]] and played in the [[The Free Fringe]] on March 20th, 2014 with a cast of [[Ryan Hill]], [[Jillian Summar]], [[Bridget Brewer]], [[David Lampe]], [[Caeriel Crestin]], [[Mitchell Deane]], [[Peter Rogers]], and [[Kevin Miller]]. The cast was recruited from a post on [[Roy Janik]]'s Facebook wall.
