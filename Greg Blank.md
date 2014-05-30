@@ -3,7 +3,11 @@
 {{Infobox Performer
 |Name	=	Greg BlankRogers	
 |Picture =	blank.jpg
-|Theater=	[[The Hideout Theatre]][[The Institution Theatre]]Washington Improv Theater DCImprov DCComedySportz
+|Theater=	[[The Hideout Theatre]]
+[[The Institution Theatre]]
+Washington Improv Theater
+DCImprov
+DCComedySportz
 |Years	=	2008-Present
 }}
 
@@ -15,8 +19,8 @@ Greg started doing improv in Washington DC in 2008.  He attended classes at Wash
 Upon moving to Austin he signed up for classes pronto.
 
 ## Troupes
-* [[Peanut Berry]] (2013)
-* [[Chocise]] (2014)
+* Peanut Berry (2013)
+* [[Cochise]] (2014)
 
 
 
