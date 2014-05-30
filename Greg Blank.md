@@ -5,9 +5,9 @@
 |Picture =	blank.jpg
 |Theater=	[[The Hideout Theatre]]
 [[The Institution Theatre]]
-Washington Improv Theater
-DCImprov
-DCComedySportz
+Washington Improv Theater[http://washingtonimprovtheater.com/]
+DCImprov[http://www.dcimprov.com/comedy-school/learn-improv.html]
+DC ComedySportz[http://comedyindc.com/]
 |Years	=	2008-Present
 }}
 
