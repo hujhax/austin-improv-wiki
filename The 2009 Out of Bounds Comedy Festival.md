@@ -6,14 +6,14 @@ It ran from Thursday to Monday, 9/3/09 to 9/6/09.
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[A Buch of Liars]]
+* [[A Bunch of Liars]]
 * [[Antique Limax]]
 * [[Available Cupholders]]
 * [[Buddy Daddy]]
-* [[The New Movement Presents -  Chris and Tami]]
+* [[The New Movement]] Presents: Chris and Tami
 * [[ColdTowne]]
-* [[ComedySportz All-Stars]]
-* [[Confidence Men -  Improvised Mamet]]
+* [[ComedySportz]] All-Stars
+* [[Confidence Men]]
 * [[Firth & Arjet]]
 * [[Flying Theatre Machine]]
 * [[The Frank Mills]]
@@ -23,7 +23,7 @@ It ran from Thursday to Monday, 9/3/09 to 9/6/09.
 * [[Girltrap]]
 * [[Golden Eagle]]
 * [[Improv for Evil]]
-* [[The Inmates of the Institution Theatre]]
+* The Inmates of [[The Institution Theatre]]
 * [[Jabbertalky]]
 * [[Junk]]
 * [[The Knuckleball Now]]
@@ -40,7 +40,7 @@ It ran from Thursday to Monday, 9/3/09 to 9/6/09.
 * [[The Starter Kit]]
 * [[Stool Pigeon]]
 * [[Venn Diaphragm]]
-* [[You Me and Greg Reunion Show]]
+* [[You Me and Greg]] Reunion Show
 * [[You're Not My Real Dad]]
 * [[Your Terrific Neighbors]]
 
