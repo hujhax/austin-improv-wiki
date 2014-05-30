@@ -9,9 +9,8 @@ Jillian Summar is an improv performer, singing improv teacher, and vocal perform
 
 ## History
 ## Troupes
-*
-Doin' Maintenance (defunct)
-The Known Wizards
+* Doin' Maintenance (defunct)
+* The Known Wizards
 
 ## Shows
 * *[[Camp Madeupponathaspotta]]*
