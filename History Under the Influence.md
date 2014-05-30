@@ -11,7 +11,7 @@
 ***History Under the Influence*** was an improv show inspired by the YouTube/Comedy Central series *Drunk History*.
 
 ## History
-*History Under the Influence* started out as a *Free Fringe* format. It was proposed by [[Kevin Miller]] and played in the [[The Free Fringe]] on March 20th, 2014 with a cast of [[Ryan Hill]], [[Jillian Summar]], [[Bridget Brewer]], [[David Lampe]], [[Caeriel Crestin]], [[Mitchell Deane]], [[Peter Rogers]], and [[Kevin Miller]]. The cast was recruited from a post on [[Roy Janik]]'s Facebook wall.
+*History Under the Influence* started out as a *Free Fringe* format. It was proposed by [[Kevin Miller]] and played in the [[The Free Fringe]] on 3/20/14 with a cast of [[Ryan Hill]], [[Jillian Summar]], [[Bridget Brewer]], [[David Lampe]], [[Caeriel Crestin]], [[Mitchell Deane]], [[Peter Rogers]], and [[Kevin Miller]]. The cast was recruited from a post on [[Roy Janik]]'s Facebook wall.
 
 After a very successful Free Fringe show, Kevin submitted the show for a month-long run in *[[The Threefer]]* at [[The Hideout Theater]], somewhat tongue-in-cheek, not expecting it to be scheduled. Roy had been looking to shake up the *Threefer* and doubled-down on Kevin's dare. The first show in the Threefer coincided with a final tech and dress rehearsal for *[[Hurly Burly]]*. Four of the original Free Fringe players were also cast in *Hurly Burly*, so the first week was filled with substitute improvisers including [[Ruby Willmann]], .
 
@@ -19,7 +19,7 @@ After a very successful Free Fringe show, Kevin submitted the show for a month-l
 
 ## Media
 ### Videos
-* [http://vimeo.com/89691491 The original *Free Fringe* show.] 
+* [http://vimeo.com/89691491 The original 3/20/14 *Free Fringe* show.] 
 * [http://vimeo.com/94626212 The 5/8/14 show.] 
 * [http://vimeo.com/95560857 The 5/15/14 show.]
 
