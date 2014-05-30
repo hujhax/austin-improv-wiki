@@ -15,5 +15,5 @@ We love performing elaborate lies in front of large crowds, and making people la
 ## More Information
 * [http://www.facebook.com/pages/A-Bunch-Of-Liars/10150104673395494 Their web site.]
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Troupes|Bunch of Liars]]
+[[Category/Auto-Generated Troupe Pages|Bunch of Liars]]
