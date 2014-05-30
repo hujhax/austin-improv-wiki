@@ -17,5 +17,8 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 ## Media
 * [http://youtu.be/sfEVsAFAeH4 Video of their 2/12/11 show.]
 
+## More Information
+* [http://twitter.com/ghostpromcomedy The troupe's twitter account.]
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
