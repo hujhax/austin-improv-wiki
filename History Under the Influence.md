@@ -19,7 +19,7 @@ After a very successful Free Fringe show, Kevin submitted the show for a month-l
 
 ## Media
 ### Videos
-* [http://vimeo.com/89691491 The original Free Fringe show.] 
+* [http://vimeo.com/89691491 The original *Free Fringe* show.] 
 * [http://vimeo.com/94626212 The 5/8/14 show.] 
 * [http://vimeo.com/95560857 The 5/15/14 show.]
 
