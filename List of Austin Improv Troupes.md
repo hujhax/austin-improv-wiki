@@ -206,6 +206,7 @@ These are troupes that still need pages created for them.
 * [[P.A.L.S]]
 * [[Patriot Actors]]
 * [[Pawnshp Marmba]]
+* [[Peanut Berry]]
 * [[The People's Army]]
 * [[Pep!]]
 * [[Perfect Season]]
