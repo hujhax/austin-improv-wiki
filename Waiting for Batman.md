@@ -2,12 +2,12 @@
 |Name	=		Waiting for Batman
 |Picture = Waiting for Batman.jpg
 |Cast	=	{{Unbulleted list|[[Curtis Luciani]]|[[Eric Heiberg]]}}
-|Years	=		2013-Present
+|Years	=		2013
 }}
-**Waiting for Batman** is an improv duo consisting of [[Curtis Luciani]] and [[Eric Heiberg]].
+**Waiting for Batman** was an improv duo consisting of [[Curtis Luciani]] and [[Eric Heiberg]].
 
 ## Summary
-Luciani and Heiberg perform as Officer Commissioner Gordon and Chief O'Hara, respectively, in the 1960s *Batman* universe.  In the show, the two characters chat while waiting for Batman to show up at the office.
+Luciani and Heiberg performed as Officer Commissioner Gordon and Chief O'Hara, respectively, in the 1960s *Batman* universe.  In the show, the two characters chat while waiting for Batman to show up at the office.
 
 ## History
 The two performers were part of the cast for the Hideout mainstage show *[[Holy 1960s Batman, Batman!]]*  The two enjoyed playing off of each other as Gordon and O'Hara, and decided to try making a whole show out of that interplay.
@@ -28,6 +28,5 @@ They performed the format as part of *[[The Free Fringe]]* on 2/28/13.  They the
 * [http://vimeo.com/60731807 A trailer based on the 2/28/13 video.]
 
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
