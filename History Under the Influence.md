@@ -19,9 +19,9 @@ After a very successful Free Fringe show, Kevin submitted the show for a month-l
 
 ## Media
 ### Videos
-* The original Free Fringe show. http://vimeo.com/89691491
-* The 5/8/14 show. http://vimeo.com/94626212
-* The 5/15/14 show. http://vimeo.com/95560857
+* [http://vimeo.com/89691491 The original Free Fringe show.] 
+* [http://vimeo.com/94626212 The 5/8/14 show.] 
+* [http://vimeo.com/95560857 The 5/15/14 show.]
 
 ## More Information
 * The [http://www.youtube.com/user/DrunkHistory youtube series] and [http://www.cc.com/shows/drunk-history Comedy Central show] that inspired the format.
