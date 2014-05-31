@@ -6,6 +6,8 @@
 |Years	=		2012
 }}
 
+![[Stone Airplane.jpg|Publicity photo of Stone Airplane.]]
+
 **Stone Airplane** was an improv troupe.
 
 ## History
