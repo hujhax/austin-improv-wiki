@@ -15,7 +15,7 @@ Since moving to Austin in early 2014, she immediately jumped into the local impr
 Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer.
 
 ## Shows
-* *[[History Under the Influrence]]* (tech)
+* *[[History Under the Influence]]* (tech)
 * *[[Hurly Burly]]* (sound tech)
 * *[[Pick Your Own Path]]* (tech)
 * *[[Theatresports]]* (2014 run) (tech)
