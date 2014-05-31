@@ -16,5 +16,19 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 <p>We perform onstage in character as retired wrestlers. We treat the improv seriously, mostly, but use wrestling themed scene breaks and edits. It's really all about having fun onstage and connecting with the audience.</blockquote></p>
 
+### Cast
+* [[Brent Foshee]] as The Texecutioner
+* [[Brett Tribe]] as El Tribe Loco
+* [[Bryan Roberts]] as The Natural Boy
+* [[Dave Buckman]] as Baby Bob Buckland
+* [[Jericho Thorpe]] as Psychobilly
+* [[Lance Gilstrap]] as Harrison Mack, The Business Maniac
+* [[Nick Ramierez]] as Stone Cold Nick Ramirez
+* [[Todd Schanbacher]] as The Ultimate Midwesterner
+
+## Media
+### Photos
+* [http://www.flickr.com/photos/oob_pics/sets/72157627612725716 Photoset] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
