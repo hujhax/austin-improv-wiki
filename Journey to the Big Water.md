@@ -33,7 +33,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * [http://www.youtube.com/channel/UC3lOqe4TTAfd3O36rdCOjZg The troupe's youtube channel.]
 
 ## More Information
-* [http://www.facebook.com/#!/bigwaterimprov The troupe's web site.]
+* [http://www.facebook.com/#!/bigwaterimprov The troupe's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
