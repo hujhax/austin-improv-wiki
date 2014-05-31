@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Humanz
-|Picture	=	Humanz.jpg
+|Picture	=	Humanz.png
 |Cast	=	{{ Unbulleted list | [[Ceej Allen]] | [[Heidi Rogers]] }}
 |Years	=		2013-Present
 }}
