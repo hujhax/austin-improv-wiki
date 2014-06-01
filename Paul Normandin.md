@@ -34,18 +34,13 @@ Paul was a teaching assistant at [[The Hideout Theatre]] in 2013.
 * *[[EPIC!]]* (Season 1 & 2 - 2011)
 * *[[The Sword of Merlin Works]]* (2012)
 * *[[The Black Vault]]* (2012-)
-* *[[Austin Secrets]]* (Season 3 - 2012)
+* *[[Austin Secrets]]* (2012)
 * *[[Blood, Sweat, and Cheers]]* (Bob Davis)
 * *[[The Next Chapter]]* (2013)
 * *[[The ReSet Project]]* (2013)
-* *[[The Cagematch]]*
-* *[[The Derby]]* 
-* *[[The Fancy-Pants Mashup]]*
-* *[[Maestro]]* (2000-)
-* *[[Maestro Raw]]* (2012-)
-* *[[Pick Your Own Path]]*
+* *[[Pick Your Own Path]]* (2013-)
 * *[[Elf Employment]]* (2013 Guest)
-* *[[Thinning the Herd]]*
-
+* *[[Thinning the Herd]]* (2013-2014)
+* *[[Hurly Burly]]* (2014-)
 
 [[Category/Performers|Normandin]]
