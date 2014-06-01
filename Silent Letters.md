@@ -20,4 +20,5 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 <p>We begin grounded and ramp the pace and lean into the crazy near the middle and then ground out our world at the end.</p> </blockquote>
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
