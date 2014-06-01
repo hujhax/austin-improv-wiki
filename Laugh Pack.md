@@ -7,10 +7,6 @@
 
 **Laugh Pack** was a sketch troupe.
 
-## Summary
-### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>sketch comedy</blockquote>
-
 ## Media
 ### Videos
 * [http://www.facebook.com/photo.php?v=595627381174 "Three Guys Watching TV": Episode 8.]
