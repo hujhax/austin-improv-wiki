@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Kakkerlakken
-|Picture	=	Kakkerlakken.jpg
+|Picture	=	Kakkerlakken.png
 |Cast	=	{{ Unbulleted list | [[Alex Gray]] | [[Bradley Harrington]] | [[Bryan Wells]] | [[David Nayer]] | [[Elly Van Laar]] | [[Jason Heffron]] | [[Keegan Hines]] | [[Menelaos Prokos]] | Tim | [[Todd Geldon]] | [[Troy Miller]] | [[Tyler Pratt]] }}
 |Years	=		2011
 }}
