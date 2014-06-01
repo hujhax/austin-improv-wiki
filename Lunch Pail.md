@@ -9,7 +9,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Lunchpail follows the fun, building on each previous line and scene to craft a show of absurd adventure. Formed by Coldtowne graduates Matt Needles, Alejandro Garcia, and Andrew Basile, Lunchpail is troupe that performs a show for an audience: THE AUDIENCE IS YOU! </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Lunchpail follows the fun, building on each previous line and scene to craft a show of absurd adventure. Formed by [[ColdTowne]] graduates [[Matt Needles]], [[Alejandro Garcia]], and [[Andrew Basile]], Lunchpail is troupe that performs a show for an audience: THE AUDIENCE IS YOU! </blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Hi, we are a new troupe comprised of members of Cheap Date. Previously 2/3 of this troupe has played out as [[Price Check]]. We play a new school modified Harold. Like 3033, we follow the fun, sometimes digging into a scene for the duration of the show if we deem it fit. We have been working with [[Cody Dearing]] on the principles focused on during his advanced Harold workshops to try to create a slower and more grounded Harold show.</blockquote>
