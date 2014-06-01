@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-**Paul Normandin** is an improv performer who works primarily with [[The Hideout Theatre]].
+**Paul Normandin** is an improv performer who works primarily with [[The Hideout Theatre]] and [[The Institution Theater]].
 
 ## History
 Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He is also a storyteller and has a strong focus on narrative improv.   
