@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Laugh Pack
-|Picture	=	Laugh Pack.png
+|Picture	=	Laugh Pack.jpg
 |Cast	=	{{ Unbulleted list | [[Bobby DiPasquale]] | [[Daniel Sawtelle]] | [[Dario Konjicija]] }}
 |Years	=		2009
 }}
