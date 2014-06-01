@@ -5,7 +5,7 @@
 |Years	=		2014-Present
 }}
 
-**Lunch Pail** is a [[ColdTowne]] improv troupe.
+**Lunch Pail** (also written **Lunchpail**) is a [[ColdTowne]] improv troupe.
 
 ## Summary
 ### Press Blurb
