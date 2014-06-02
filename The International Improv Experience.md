@@ -4,7 +4,6 @@
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Roy Janik]]
 |Run=							Jul/Aug 2014
-|Crew =		        {{Unbulleted list | [[Lindsey McGowen]][[Michael Yew]]
 |Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Caeriel Crestin]] | [[Ceej Allen]] | [[Karen Jane DeWitt]] | [[Katie Dahm]] | [[Lacy Shawn]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Ryan Austin]] | [[Shannon Dale Stott]] | [[Zac Grantham]] }}
 }}
 
