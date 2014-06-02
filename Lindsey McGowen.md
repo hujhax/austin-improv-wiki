@@ -17,9 +17,9 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 ## Shows
 * *[[History Under the Influence]]* (tech)
 * *[[Hurly Burly]]* (sound tech)
-* *[[The International Improv Experience]]* (light/video tech)
 * *[[Pick Your Own Path]]* (tech)
 * *[[Theatresports]]* (2014 run) (tech)
+* *[[The International Improv Experience]]* (light/video tech)
 
 ## More Information
 * [http://wikipella.org/wiki/Lindsey_McGowen Lindsey's wikipella page.]
