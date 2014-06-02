@@ -13,6 +13,7 @@ Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]],
 He has been performing regularly since 2011 and is a regular cast member of *[[Flying Theater Machine]]*.
 
 ## Shows
+* *[[History Under the Influence]]* (2014)
 * *[[Camp Madeupponthaspotta]]* (2014)
 * *[[The Derby]]* (2011-2012)
 * *[[The Fancy-Pants Mashup]]* (2011-{{CURRENTYEAR}})
