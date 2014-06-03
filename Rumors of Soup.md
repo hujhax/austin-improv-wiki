@@ -4,7 +4,7 @@
 |Years	=		2013-Present
 }}
 
-**Rumors of Soup** is an improv troupe.
+**Rumors of Soup** is an improv duo.
 
 ## Summary
 ### Press Blurb
