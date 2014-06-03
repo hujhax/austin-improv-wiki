@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		New Moustache
-|Cast	=	{{ Unbulleted list | [[Adan Gabriel Gutierrez]] | [[Adan Gutierrez]] | [[Christine Giordano]] | [[Drew Burton]] | [[Sara Osburn]] }}
+|Cast	=	{{ Unbulleted list | [[Adan Gutierrez]] | [[Christine Giordano]] | [[Drew Burton]] | [[Sara Osburn]] }}
 |Years	=		2010-2011
 }}
 
