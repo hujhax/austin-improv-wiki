@@ -4,7 +4,7 @@
 |Years	=		2013-Present
 }}
 
-**PJ Party** is an improv troupe.
+**PJ Party** is an improv duo.
 
 ## Summary
 ### Press Blurb
