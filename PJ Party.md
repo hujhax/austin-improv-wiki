@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		PJ Party
+|Picture=		PJ Party.jpg
 |Cast	=	{{ Unbulleted list | [[Judith Schomp]] | [[Paul Heyduck]] }}
 |Years	=		2013-Present
 }}
