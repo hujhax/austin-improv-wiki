@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Pasta with a Chat
-|Picture	=	Pasta with a Chat.jpg
+|Picture	=	Pasta with a Chat.png
 |Cast	=	{{ Unbulleted list | [[Frank Netscher]] | [[Kate Bojanek]] }}
 |Years	=		2011-2012
 }}
