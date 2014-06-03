@@ -5,7 +5,7 @@
 |Years	=		2011-Present
 }}
 
-**Miller and Purselley** are an improv duo.  They perform improvised plays.
+**Miller and Purselley** (originally **Nat and Pierce**) are an improv duo.  They perform improvised plays.
 
 They play a weekly show at [[ColdTowne Theater]] every Wednesday at 8:30pm.
 
