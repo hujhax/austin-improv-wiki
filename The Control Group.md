@@ -20,7 +20,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 <p>Hopefully, it makes us seem friendly and charming and likable while generating information to use in our pieces. </p>
 <p>We then use the information we've generated just moments before to name our piece on the spot and begin doing long form scenes. </p>
 <p>We try to pull elements through from scene to scene.</p>
-<p></blockquote>
+</blockquote>
 
 ## More Information
 * [http://www.facebook.com/pages/The-Control-Group/140017466035714 The troupe's facebook page.]
