@@ -1,6 +1,7 @@
 ## Summary
 Publicity poster for *[[Kaleidoscope]]*.
 
-Art by: unknown.
+Art by: [[Julia Sweeney]].
+
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
