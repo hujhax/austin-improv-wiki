@@ -16,7 +16,7 @@ The show is inspired by the UCB show *Let's Have a Ball*.  Each show had a four-
 Each performance was double-billed with a set from [[Collective Alibi]].
 
 ### Press Blurb
-A press blurb from their facebook event page: <blockquote>Featuring a cast of six of ColdTowne Theater’s sharpest improvisers, Kaleidoscope is an improvised comedy show unlike any other currently playing in Austin. Inspired by a structure originated at the Upright Citizens Brigade Theater, Kaleidoscope blends three unique audience 
+A press blurb from their facebook event page: <blockquote>Featuring a cast of six of ColdTowne Theater’s sharpest improvisers, *Kaleidoscope* is an improvised comedy show unlike any other currently playing in Austin. Inspired by a structure originated at the Upright Citizens Brigade Theater, Kaleidoscope blends three unique audience 
 suggestions into a single experience developed and executed right before your eyes. This elite team will first build a compelling comedic world in the vein of *[[Wikipedia - Louie (TV series)|Louie]]* before tearing through that world in a series of fast and funny scenes with the energy and sensibility of *[[Wikipedia - 30 Rock|30 Rock]]*. </blockquote>
 
 ## History
