@@ -15,6 +15,6 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We do a mix of stand-up, improv, and sketch. At the Hideout we'll probably just do improv and maybe some stand-up. In terms of improv we do short-form games. If we had a deal or gimmick it would probably be that we're in high school.</blockquote>
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+[[Category/Troupes|Bare Minimum]]
+[[Category/Auto-Generated Troupe Pages|Bare Minimum]]
+[[Category/Active|Bare Minimum]]
