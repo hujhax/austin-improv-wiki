@@ -14,5 +14,5 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We do an improvised dating game loosely based on the old TV show *Studs*.</blockquote>
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Troupes|Box Social]]
+[[Category/Auto-Generated Troupe Pages|Box Social]]
