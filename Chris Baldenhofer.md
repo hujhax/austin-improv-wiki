@@ -9,6 +9,7 @@
 
 ## Troupes
 * [[Big Beautiful Warlock]]
+* [[T-Conn]]
 * [[UpTowne]]
 * [[What's the Story, Steve]]
 
