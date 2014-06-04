@@ -5,7 +5,7 @@
 |Years	=		Jun 2014
 }}
 
-**The Devil and Halyn Erickson** is an solo improv show.
+***The Devil and Halyn Erickson*** is an solo improv show.
 
 ## Summary
 ### Press Blurb
