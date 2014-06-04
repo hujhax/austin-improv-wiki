@@ -1,6 +1,9 @@
 ## Summary
-Publicity photo of [[The Control Group]].
+Publicity image of [[The Control Group]].
 
 Photo by: unknown.
+
+Art by: unknown.
+
 ## Licensing
 {{No license}}
