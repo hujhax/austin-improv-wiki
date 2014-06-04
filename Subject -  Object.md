@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Subject: Object
-|Name	=		Subject: Object.jpg
+|Picture =		Subject: Object.jpg
 |Cast	=	{{ Unbulleted list | [[Alex Baia]] | [[Ed Melendez]] }}
 |Years	=		2011-2013
 }}
