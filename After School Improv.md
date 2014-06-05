@@ -45,7 +45,10 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 
 ## Media
 ### Videos
-* [http://vimeo.com/40844686 Their performance] in [[The 2012 Improvised Play Festival]].
+* [http://vimeo.com/93883895 Video of their 3/31/12 performance.]
+* [http://vimeo.com/93968180 Video of their 4/7/12 performance.]
+* [http://vimeo.com/40844686 Video of their 4/13/12 performance] in [[The 2012 Improvised Play Festival]].
+
 ### Photos
 #### 2009 Run
 * [http://www.facebook.com/hujhax/media_set?set=a.129977122264.120567.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/27/09 performance in [[The 40-Hour Improv Marathon]].
