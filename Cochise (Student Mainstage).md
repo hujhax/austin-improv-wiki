@@ -3,8 +3,9 @@
 |Picture=	Cochise2014.jpg
 |Theater=	[[The Hideout Theatre]]	
 |Director =	[[Marc Majcher]]
-|Assistant Director = 
-|Cast	=	{{Unbulleted list | [[Barrett Phelan]] | [[Manuel Duran]] | [[Greg Blank]] | [[Emma Zarnecki]]}}
+|Assistant Director = [[Paul Normandin]]
+|Cast	=	{{Unbulleted list | [[Barrett Phelan]] | [[Emma Czarnecki]] | [[Ericka Bundy]] | [[Greg Blank]] | [[Haley Alea Erickson]] | [[Joshua Santo]] | [[Manuel Duran]] | [[Matthew Davis]]}}
+|Tech = [[Devon Ragsdale]]
 |Run	=	Jun/July 2014
 }}
 
