@@ -1,3 +1,5 @@
+![[The 45-Hour Cover Photo.jpg|Publicity image for the 45-Hour Improv Marathon.]]
+
 **The 45-Hour Improv Marathon** will be the sixth annual [[Hideout Improv Marathon]].
 
 ## Summary
