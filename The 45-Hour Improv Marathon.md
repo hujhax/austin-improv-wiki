@@ -25,7 +25,7 @@ It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/
 * Friday 6pm (hour 2): "And They're Off" -- free-form improv with the core cast.
 * Friday 7pm (hour 3): *[[Start Trekkin']]*
 * Friday 8pm (hours 4 & 5): *[[The Fancy-Pants Mash-Up]]*
-* Friday 10pm (hour 6):[[Parallelogramophonograph]]
+* Friday 10pm (hour 6): [[Parallelogramophonograph]]
 * Friday 11pm (hour 7): [[The Knuckleball Now]]
 * Saturday 12am (hour 8): [[Confidence Men]]
 * Saturday 1am (hour 9): "The Queen Is Not Amused": the Queen is here, and she is (of course) in charge of the whole show.
@@ -34,7 +34,7 @@ It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/
 * Saturday 4am (hour 12): [[ColdTowne Theater]] presents The Bat.
 * Saturday 5am (hour 13): [[Waterpark]]
 * Saturday 6am (hour 14): Hideout student show.
-* Saturday 7am (hour 15):"The Marathon Alumni Show": 	A blast from the past. Marathon Alumni come to support and advise the 2014 participants.
+* Saturday 7am (hour 15): "The Marathon Alumni Show": 	A blast from the past. Marathon Alumni come to support and advise the 2014 participants.
 * Saturday 8am (hour 16): [[Rush]]
 * Saturday 9am (hour 17): *[[Dubbed Indemnity]]*
 * Saturday 10am (hour 18): [[The Escorts]], presenting "The E-Files"
