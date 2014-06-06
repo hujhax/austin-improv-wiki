@@ -26,8 +26,8 @@ It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/
 * Friday 7pm (hour 3): *[[Start Trekkin']]*
 * Friday 8pm (hours 4 & 5): *[[The Fancy-Pants Mash-Up]]*
 * Friday 10pm (hour 6):[[Parallelogramophonograph]]
-* Friday 11pm (hour 7): [[Confidence Men]]
-* Saturday 12am (hour 8): [[The Knuckleball Now]]
+* Friday 11pm (hour 7): [[The Knuckleball Now]]
+* Saturday 12am (hour 8): [[Confidence Men]]
 * Saturday 1am (hour 9): "The Queen Is Not Amused": the Queen is here, and she is (of course) in charge of the whole show.
 * Saturday 2am (hour 10): *[[The Black Vault]]*
 * Saturday 3am (hour 11): [[Squirrel Buddies]]
