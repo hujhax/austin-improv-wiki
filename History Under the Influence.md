@@ -17,6 +17,8 @@ After a very successful Free Fringe show, Kevin submitted the show for a month-l
 
 *History Under the Influence* played five sold-out shows at the Hideout in May of 2014. It was regarded by the cast as an effortless format where comedy happened naturally. Audience response was extremely positive.
 
+In June of 2014, Kevin took an impromptu trip to Tampere, Finland, where had performed in 2013 with [[Zarzamora!]]. There he performed History Under the Influence with a European cast.
+
 ## Media
 ### Videos
 * [http://vimeo.com/89691491 The original 3/20/14 *Free Fringe* show.] 
