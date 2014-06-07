@@ -97,7 +97,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Sunday 7am (hour 39): Student Show
 ** This was a long-form narrative set in New Orleans.
 ** This show featured student guests [[Ammu Ganesan]], [[David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Lindsay Hejl]], and [[Patrick Creamer]].
-* Sunday 8am (hour 40): Care Bear Stare -- The Care Bears came to bring badly animated joy to your lives.
+* Sunday 8am (hour 40): *[[Care Bear Stare]]* -- The Care Bears came to bring badly animated joy to your lives.
 ** In this show, [http://en.wikipedia.org/wiki/Care_Bears Care Bears] based around not-exactly-G-rated emotions solved problems for the core-cast members in a longform narrative.
 ** The Care Bears:
 *** [[Roy Janik]] -- Desperately Cheerful Bear
