@@ -1,6 +1,9 @@
 {{Infobox Show
 |Name	=	The Care Bear Stare
 |Picture = Care Bears.jpg
+|Director = {{Unbulleted list | [[Roy Janik]] | [[Ryan Hill]] }}
+|Run = Jun 2013
+|Subsequent Runs = Jun 2014
 |Theater=	[[The Hideout Theatre]]
 |Cast = {{Unbulleted list | [[Roy Janik]] | [[John Ratliff]] | [[Josh Gill]] | [[Kareem Badr]] | [[Cat Drago]] | [[Lisa Jackson]]}}
 |Directors = {{Unbulleted list | [[Ryan Hill]] [[Roy Janik]]}}
