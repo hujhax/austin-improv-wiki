@@ -57,7 +57,7 @@ It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/
 * Sunday 4am (hour 36): [[Big Beautiful Warlock]]
 * Sunday 5am (hour 37): Student show
 * Sunday 6am (hour 38): [[Field Day]]
-* Sunday 7am (hour 39): "Care Bear Stare": The Care Bears are here to bring badly animated joy to your lives.
+* Sunday 7am (hour 39): *[[Care Bear Stare]]*: The Care Bears are here to bring badly animated joy to your lives.
 * Sunday 8am (hour 40): *[[Kaleidoscope]]*
 * Sunday 9am (hour 41): [[The Institution Theater]] presents their "movie format".
 * Sunday 10am (hour 42): Secret Show
