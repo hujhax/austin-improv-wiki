@@ -115,7 +115,7 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [[Sean Petrie]]
 * [[Shane Breaux]]
 * [[Shannon Pickard]]
-* [[Steve Catlack]]
+* [[Shawn Utterback]]
 * [[Steve Makler]]
 * [[Steve Sanders]]
 * [[Sunny Sweeney]]
