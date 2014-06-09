@@ -19,6 +19,6 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 ## More Information
 * [http://www.facebook.com/TheNestingDolls The troupe's facebook page.]
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/All-Female Troupes|Category:All-Female Troupes]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Troupes|Nesting Dolls]]
+[[Category/All-Female Troupes|Nesting Dolls]]
+[[Category/Auto-Generated Troupe Pages|Nesting Dolls]]
