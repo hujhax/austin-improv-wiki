@@ -20,8 +20,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * [http://vimeo.com/34440294 Video] of their 12/29/11 performance at *[[The Threefer]]*.
 
 ## More Information
-* [https://www.facebook.com/weinventeddinosaurs The duo's facebook page.]
-
+* [http://www.facebook.com/weinventeddinosaurs The duo's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
