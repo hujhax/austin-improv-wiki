@@ -16,6 +16,6 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=11099 The announcement of the duo's debut] on [[The Austin Improv Forums]].
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Duos|Category:Duos]]
+[[Category/Troupes|Surprise Party]]
+[[Category/Auto-Generated Troupe Pages|Surprise Party]]
+[[Category/Duos|Surprise Party]]
