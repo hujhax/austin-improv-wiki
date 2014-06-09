@@ -22,5 +22,5 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [http://vimeo.com/46207042  Video] of their 7/22/12 student show.
 
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Troupes|Super Troupers]]
+[[Category/Auto-Generated Troupe Pages|Super Troupers]]
