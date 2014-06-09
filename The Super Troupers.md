@@ -2,7 +2,7 @@
 |Name	=		The Super Troopers
 |Picture	=	The Super Troopers.jpg
 |Cast	=	{{ Unbulleted list | [[Danny Goldstein]] | [[JM Specht]] | [[Joseph Dailey]] | [[Stephanie Asmus]] | [[Tyler Wasden]] }}
-|Years	=		2013
+|Years	=		2012-2013
 }}
 
 **The Super Troopers** was a troupe of newer improvisors associated with [[ColdTowne Theater]].
