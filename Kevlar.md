@@ -1,11 +1,11 @@
 {{Infobox Troupe
-|Name	=		Kevlar
+|Name	=		Kevlar: We're Bulletproof
 |Picture	=	Kevlar.jpg
 |Cast	=	{{ Unbulleted list | [[David Lampe]] | [[Kevin Miller]] }}
 |Years	=		2013-Present
 }}
 
-**Kevlar** is an improv duo.
+**Kevlar: We're Bulletproof** is an improv duo.
 
 ## Summary
 ### Press Blurb
