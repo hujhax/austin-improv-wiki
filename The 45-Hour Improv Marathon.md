@@ -65,6 +65,10 @@ It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/
 * Sunday 12pm (hour 44): [[The Frank Mills]]
 * Sunday 1pm (hour 45): "Final Show": 	The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep
 
+## Media
+### Publicity
+* [http://youtu.be/SrwOOvwxSNE A mini-documentary about the upcoming festival] by [[Ceej Allen]].
+
 ## More Information
 * [http://docs.google.com/forms/d/1l0bLg0JDek9x8sEsCrTuKoim2xf8rFuF2gF5ToNHsDw/viewform The suggestion form for troupes or formats for the marathon.]
 * [http://www.hideouttheatre.com/shows/improvmarathon The show's web page.]
