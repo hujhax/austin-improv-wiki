@@ -46,13 +46,16 @@ Through her personal improv work and her work with Parallelogramophonograph and 
 * [[The 41-Hour Improv Marathon]]
 * *[[After School Improv]]* (Performed and Directed)
 * *[[The Andersons]]*
-* *[[Austin Secrets]]*
+* *[[Austin Secrets]]* (2010-2013)
 * *[[Blood, Sweat, and Cheers]]* (June Davis, writer, producer)
+* "[[A Bedtime Gorey]]"
+* "[[Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]]" (2006, 2014)
 * *[[The Cagematch]]*
 * *[[Charles Dickens Unleashed]]* (Performed and Directed)
 * *[[The Derby]]*
 * *[[Dubbed Indemnity]]* (2010-2012)
 * *[[The Fancy-Pants Mashup]]*
+* "[[F. Scott and Zelda Fitzgerald Save The World!]]" (Performed and Produced)
 * *[[Fandom]]* (Performed and Directed)
 * *[[Flying Theater Machine]]* (Touring Performer)
 * *[[Gorilla Theater]]*
