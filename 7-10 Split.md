@@ -19,8 +19,7 @@ They've played every [[Out of Bounds Comedy Festival]] from 2009 to 2013.
 * [http://www.vimeo.com/16379647 Video of their performance] at [[The 2010 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [https://www.facebook.com/pages/710-Split/249945580157 The duo's facebook page.]
-
+* [http://www.facebook.com/pages/710-Split/249945580157 The duo's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
