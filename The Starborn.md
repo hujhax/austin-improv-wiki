@@ -32,6 +32,11 @@ In February of 2014 The Starborn headlined [[The Threefer]] at [[The Hideout The
 * [http://vimeo.com/77375209 Video of their 2nd performance] from 10/17/2013.
 * [http://vimeo.com/58856305 Video of their 1st performance] from the [[Free Fringe]]
 
+### Press Blurb
+The StarBorn is an audience-interactive, improvised alien invasion. The playful brother/sister alien twins (Mia Iseman & Ryan Austin) arrive from Kananite 12 to take over the planet and destroy all the humans! Earth will soon be theirs and there is nothing we can do to stop the imminent invasion!
+
+But just before they blast us into particle dust, they want to get to know us a little bit. Play with our emotions and see up close the culture they've prepared to destroy for centuries. No seat is safe as they work their way into the audience and observe, misinterpret and often abduct anyone that strikes their fancy. Earth is doomed in the best possible way.
+
 ### Interviews
 * [http://www.hideouttheatre.com/the-starborn-descend Interview] for their February run of shows in [[The Threefer]]
 
