@@ -3,7 +3,7 @@
 |Picture =	Sketchville.jpg
 |Theater = (Webseries)
 |Director = Amy Leland
-|Cast =	{{Unbulleted list | Andy Fleming | [[Bob Apthorpe]] | Chibbi Orduna | Erick Anderson | Jake Pool | Jason Yackov | [[Jeff Britt]] | Jeremy Dozier | [[JM Specht]] | John Daws | [[Kacey Samiee]] | Karin L. Kross | Kirk Landson | Lani Steffens | Miguel Jimenez | Mike Dunlop | [[Peter Rogers]] | Philip Emanuel | Brit Reese }}
+|Cast =	{{Unbulleted list | Andy Fleming | [[Bob Apthorpe]] | Brit Reese | Chibbi Orduna | Erick Anderson | Jake Pool | Jason Yackov | [[Jeff Britt]] | Jeremy Dozier | [[JM Specht]] | John Daws | [[Kacey Samiee]] | Karin L. Kross | Kirk Landson | Lani Steffens | Miguel Jimenez | Mike Dunlop | [[Peter Rogers]] | Philip Emanuel }}
 |Tech =	 {{Unbulleted list | Adrian Rodriguez | Amy Leland | Andrew Lee | Brandy Retzolk | Chris Chang | Ellie Fenton | Greg Armstrong | Jonathan Van Matre | Karin L. Kross | Kyle Osburn | Martin Pederson | Micah Sampson | Nancy Smith | Nick Fang | [[Peter Rogers]] }}
 |Run	=	{{Unbulleted list | 2007-2008 (shot) | 2014 (distributed) }}
 }}
