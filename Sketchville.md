@@ -62,7 +62,7 @@ The series was written and shot in 2006-2008, completing primary filming on four
 ### Videos
 This is a list of all the completed episodes of *Sketchville*.
 
-(Note that [http://vimeo.com/92593114 this page] has all the episodes concatenated into one half-hour video, and [https://vimeo.com/couchmode/album/2913238/sort:alphabetical/97883502 this album] to play each of the videos individually.)
+(Note that [http://vimeo.com/92593114 this page] has all the episodes concatenated into one half-hour video, and [http://vimeo.com/couchmode/album/2913238/sort:alphabetical/97883502 this album] will play each of the videos individually.)
 
 * [http://vimeo.com/97883502 3:38pm: Ted Prepares to Bungee Jump]
 * [http://vimeo.com/97885140 2:35pm: Tiffany Shows a House]
