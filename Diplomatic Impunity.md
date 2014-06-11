@@ -40,6 +40,11 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 ## History
 The troupe played a few times at ColdTowne before disbanding.
 
+## Media
+### Photos
+* [http://www.facebook.com/leng.wong.94/media_set?set=a.1944666862538.119532.1418500568&type=3 Photoset of a performance].
+* [http://www.steve-rogers-photography.com/ImprovPerformances/Diplomatic-Impunity/Diplomatic-Impunity-April-9/ Photoset] by [[Steve Rogers]] of their 4/9/11 show.
+
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=11668 Casting announcement] on [[The Austin Improv Forums]].
 
