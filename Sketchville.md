@@ -58,25 +58,26 @@ The series was projected to eventually zero in on a botched robbery in the middl
 The series was written and shot in 2006-2008, completing primary filming on fourteen episodes out of a projected thirty.  After that, the project went dormant in post-production until 2014, when [[Peter Rogers]] completed the editing process and put all the completed episodes online.
 
 ## Media
+## Media
 ### Videos
 This is a list of all the completed episodes of *Sketchville*.
 
-(Note that [xxxxx this vimeo album] has all of the episodes in a single playlist.
+(Note that [http://vimeo.com/92593114 this page] has all the episodes concatenated into one half-hour video, and [https://vimeo.com/couchmode/album/2913238/sort:alphabetical/97883502 this album] to play each of the videos individually.)
 
-* [xxxxxx 10:20pm: Josh is in Jail]
-* [xxxxxx 11:31am: Ted Meets His Daughter for Lunch]
-* [xxxxxx 11:44am: Josh Tries Out for a TV Show]
-* [xxxxxx 12:45pm: Ted Rides an Elevator]
-* [xxxxxx 1:01pm: Claude Proposes]
-* [xxxxxx 1:39pm: Mike Shows Mr. Bradford Around UT]
-* [xxxxxx 2:35pm: Tiffany Shows a House]
-* [xxxxxx 3:38pm: Ted Prepares to Bungee Jump]
-* [xxxxxx 3:39pm: Tiffany Shows a House, Again]
-* [xxxxxx 4:02pm: Trouble at the Phone Company]
-* [xxxxxx 4:10pm: Ruthven & Inana Shop for CDs]
-* [xxxxxx 7:26pm: Owen Arrives at the Happy Meadows Nuclear Power Facility]
-* [xxxxxx 9:04am: Tiffany Talks With Her Boss]
-* [xxxxxx 9:28pm: Josh Gets Interrogated]
+* [http://vimeo.com/97883502 3:38pm: Ted Prepares to Bungee Jump]
+* [http://vimeo.com/97885140 2:35pm: Tiffany Shows a House]
+* [http://vimeo.com/97883503 10:20pm: Josh is in Jail]
+* [http://vimeo.com/97883504 1:39pm: Mike Shows Mr. Bradford Around UT]
+* [http://vimeo.com/97883505 4:02pm: Trouble at the Phone Company]
+* [http://vimeo.com/97883506 3:39pm: Tiffany Shows a House, Again]
+* [http://vimeo.com/97885141 11:31am: Ted Meets His Daughter for Lunch]
+* [http://vimeo.com/97885142 7:26pm: Owen Arrives at the Happy Meadows Nuclear Power Facility]
+* [http://vimeo.com/97885143 11:44am: Josh Tries Out for a TV Show]
+* [http://vimeo.com/97885145 4:10pm: Ruthven & Inana Shop for CDs]
+* [http://vimeo.com/97887615 1:01pm: Claude Proposes]
+* [http://vimeo.com/97887618 9:28pm: Josh Gets Interrogated]
+* [http://vimeo.com/97887616 9:04am: Tiffany Talks With Her Boss]
+* [http://vimeo.com/97887617 12:45pm: Ted Rides an Elevator]
 
 ## More Information
 * [http://hujhax.livejournal.com/261159.html The 2006 livejournal post detailing the original idea for the webseries.]
