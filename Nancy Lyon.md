@@ -8,7 +8,7 @@
 **Nancy Lyon** is an improv and sketch performer.
 
 ## History
-Nancy has enjoyed performing at Coldtowne Theatre, The Hideout Theatre, Salvage Vanguard Theatre, The Institution, and in Frontera Fest 2012.
+Nancy has enjoyed performing at [[ColdTowne Theater]], [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], and in [[Frontera Fest]] 2012.
 
 ## Troupes
 * [[BatShyt Crazy]]
