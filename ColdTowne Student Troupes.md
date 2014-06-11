@@ -63,6 +63,10 @@
 | [[Bear Derby]]
 | August 1, 2013
 |-
+! scope="row"| 15
+| [[Rush]]
+| ???
+|-
 |}
 
 ## Debut Traditions
