@@ -2,7 +2,7 @@
 |Name	=	History Under the Influence
 |Picture = History Under the Influence Pic.jpg
 |Theater=	[[The Hideout Theatre]]
-|Cast = {{Unbulleted list | [[Kevin Miller]] | [[Caeriel Crestin]] | [[Ryan Hill]] | [[David Lampe]] | [[Jillian Summar]] | [[Mitchell Deane]] | [[Thedward Blevins]] | [[Bridget Brewer]] | [[Peter Rogers]]}}
+|Cast = {{Unbulleted list | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[David Lampe]] | [[Jillian Summar]] | [[Kevin Miller]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Ryan Hill]] | [[Thedward Blevins]] }}
 |Director = [[Kevin Miller]]
 |Tech	=	[[Lindsey McGowen]]
 |Run = May 2014
