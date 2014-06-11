@@ -16,26 +16,25 @@ The show is a series of sketches that all occur in Austin over the course of a s
 The series was projected to eventually zero in on a botched robbery in the middle of that day which involves all of the recurring characters.
 
 ### Cast
-College Kid: Brit Reese
-Detective Rutherford: [[JM Specht]]
-Fish Thief: [[Jeff Britt]]
-Hans: Kirk Landson
-Innana: Karin L. Kross
-Josh: Peter Rogers
-Mike: Jake Pool
-Mr. Bradford: John Daws
-Motivational Speaker: Philip Emanuel
-Ninja: Lani Steffens
-Nuclear Plant Boss: Jeremy Dozier
-Nuclear Plant Employee: Jason Yackov
-Owen: Erick Anderson
-Phone Company Boss: Mike Dunlop
-Phone Company Employee #1: Miguel Jimenez
-Phone Company Employee #2: Chibbi Orduna
-Ruthven: Andy Fleming
-Ted: [[Bob Apthorpe]]
-Tiffany: [[Kacey Samiee]]
-
+* College Kid: Brit Reese
+* Detective Rutherford: [[JM Specht]]
+* Fish Thief: [[Jeff Britt]]
+* Hans: Kirk Landson
+* Innana: Karin L. Kross
+* Josh: Peter Rogers
+* Mike: Jake Pool
+* Mr. Bradford: John Daws
+* Motivational Speaker: Philip Emanuel
+* Ninja: Lani Steffens
+* Nuclear Plant Boss: Jeremy Dozier
+* Nuclear Plant Employee: Jason Yackov
+* Owen: Erick Anderson
+* Phone Company Boss: Mike Dunlop
+* Phone Company Employee #1: Miguel Jimenez
+* Phone Company Employee #2: Chibbi Orduna
+* Ruthven: Andy Fleming
+* Ted: [[Bob Apthorpe]]
+* Tiffany: [[Kacey Samiee]]
 
 ### Crew
 * Director: Amy Leland
