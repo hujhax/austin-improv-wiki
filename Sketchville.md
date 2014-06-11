@@ -52,6 +52,7 @@ The series was projected to eventually zero in on a botched robbery in the middl
 * Editor: Amy Leland & [[Peter Rogers]]
 * Music: Jonathan Van Matre
 * Sound Mixer: Greg Armstrong
+* Title Graphics: Howard Des Chenes
 * Written by [[Peter Rogers]] & Karin L. Kross
 
 ## History
