@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Rush
 |Picture	=	Rush.jpg
-|Cast	=	{{ Unbulleted list | [[Ashley Seibels]] | [[Ashley Siebels]] | [[Emily McDonald]] | [[Jon Bolden]] | [[Juliet Prather]] | [[Kim Dilling]] | [[Luke Wallens]] | [[Matt Stoner]] | [[Matt Vaughn]] | [[Ricky Oliphant]] | [[Steve Moore]] | [[Tevis Paxton]] }}
+|Cast	=	{{ Unbulleted list | [[Ashley Seibels]] | [[Emily McDonald]] | [[Jon Bolden]] | [[Juliet Prather]] | [[Kim Dilling]] | [[Luke Wallens]] | [[Matt Stoner]] | [[Matt Vaughn]] | [[Ricky Oliphant]] | [[Steve Moore]] | [[Tevis Paxton]] }}
 |Years	=		2014-Present
 }}
 
