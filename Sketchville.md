@@ -58,7 +58,6 @@ The series was projected to eventually zero in on a botched robbery in the middl
 The series was written and shot in 2006-2008, completing primary filming on fourteen episodes out of a projected thirty.  After that, the project went dormant in post-production until 2014, when [[Peter Rogers]] completed the editing process and put all the completed episodes online.
 
 ## Media
-## Media
 ### Videos
 This is a list of all the completed episodes of *Sketchville*.
 
