@@ -64,20 +64,21 @@ This is a list of all the completed episodes of *Sketchville*.
 
 (Note that [http://vimeo.com/92593114 this page] has all the episodes concatenated into one half-hour video, and [http://vimeo.com/couchmode/album/2913238/sort:alphabetical/97883502 this album] will play each of the videos individually.)
 
-* [http://vimeo.com/97883502 3:38pm: Ted Prepares to Bungee Jump]
-* [http://vimeo.com/97885140 2:35pm: Tiffany Shows a House]
-* [http://vimeo.com/97883503 10:20pm: Josh is in Jail]
-* [http://vimeo.com/97883504 1:39pm: Mike Shows Mr. Bradford Around UT]
-* [http://vimeo.com/97883505 4:02pm: Trouble at the Phone Company]
-* [http://vimeo.com/97883506 3:39pm: Tiffany Shows a House, Again]
-* [http://vimeo.com/97885141 11:31am: Ted Meets His Daughter for Lunch]
-* [http://vimeo.com/97885142 7:26pm: Owen Arrives at the Happy Meadows Nuclear Power Facility]
-* [http://vimeo.com/97885143 11:44am: Josh Tries Out for a TV Show]
-* [http://vimeo.com/97885145 4:10pm: Ruthven & Inana Shop for CDs]
-* [http://vimeo.com/97887615 1:01pm: Claude Proposes]
-* [http://vimeo.com/97887618 9:28pm: Josh Gets Interrogated]
-* [http://vimeo.com/97887616 9:04am: Tiffany Talks With Her Boss]
-* [http://vimeo.com/97887617 12:45pm: Ted Rides an Elevator]
+* [http://vimeo.com/97883502 1 - 3:38pm: Ted Prepares to Bungee Jump]
+* [http://vimeo.com/97885140 2 - 2:35pm: Tiffany Shows a House]
+* [http://vimeo.com/97883503 3 - 10:20pm: Josh is in Jail]
+* [http://vimeo.com/97883504 4 - 1:39pm: Mike Shows Mr. Bradford Around UT]
+* [http://vimeo.com/97883505 5 - 4:02pm: Trouble at the Phone Company]
+* [http://vimeo.com/97883506 6 - 3:39pm: Tiffany Shows a House, Again]
+* [http://vimeo.com/97885141 7 - 11:31am: Ted Meets His Daughter for Lunch]
+* [http://vimeo.com/97885142 8 - 7:26pm: Owen Arrives at the Happy Meadows Nuclear Power Facility]
+* [http://vimeo.com/97885143 9 - 11:44am: Josh Tries Out for a TV Show]
+* (Episode 10 was never filmed.)
+* [http://vimeo.com/97885145 11 - 4:10pm: Ruthven & Inana Shop for CDs]
+* [http://vimeo.com/97887615 12 - 1:01pm: Claude Proposes]
+* [http://vimeo.com/97887618 13 - 9:28pm: Josh Gets Interrogated]
+* [http://vimeo.com/97887616 14 - 9:04am: Tiffany Talks With Her Boss]
+* [http://vimeo.com/97887617 15 - 12:45pm: Ted Rides an Elevator]
 
 ## More Information
 * [http://hujhax.livejournal.com/261159.html The 2006 livejournal post detailing the original idea for the webseries.]
