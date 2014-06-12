@@ -26,4 +26,3 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Duos|Category:Duos]]
-[[Category/Never Performed|Category:Never Performed]]
