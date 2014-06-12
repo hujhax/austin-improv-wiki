@@ -14,7 +14,7 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>"Grounded" scenework, WHATEVER THAT MEANS. Typically three or four longer scenes but sometimes things start moving faster. </blockquote>
 
 ## More Information
-* [http://www.facebook.com/RarebitImprov The duo's web site.]
+* [http://www.facebook.com/RarebitImprov The duo's facebook page.]
 
 
 [[Category/Troupes|Category:Troupes]]
