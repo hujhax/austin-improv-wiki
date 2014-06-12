@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Rarebit
+|Picture=		Rarebit.jpg
 |Cast	=	{{ Unbulleted list | [[Amy Carpenter]] | [[John Ratliff]] }}
 |Years	=		2013-Present
 }}
