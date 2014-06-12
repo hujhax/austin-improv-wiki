@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Toby Keith and the French Guy
-|Picture	=	Toby Keith and the French Guy.jpg
+|Picture	=	Toby Keith and the French Guy.gif
 |Cast	=	{{ Unbulleted list | [[Chris Baldenhofer]] | [[Scott Moss]] }}
 |Years	=		2011-2013
 }}
