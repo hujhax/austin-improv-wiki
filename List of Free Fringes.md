@@ -270,8 +270,8 @@ The 7 Dwarves whistle while they work, But beatbox with Snow in their off times.
 #### *May I speak to Batman?* ([[Ellen Pittsford]])
 Comic books only tell the exciting parts of the story. Maybe when superheroes aren't fighting evil, they take their dogs for walks. They get a beer with some buddies. They kiss their wife goodnight. And they keep their identity a SECRET. Come see what happens as our completely improvised superhero walks the line between living two lives! starring: [[Deano Jones]], [[Jordan T. Maxwell]], [[Jessie Pascarelli]], and [[Ellen Pittsford]]
 
-#### *Animal Farm* ([[Jessica Arjet]])
-Animal Farm - Swift like a Cheetah, clever like a Fox, we all have a bit of an animal in us. Now when Sarah Marie and Jessica let that animal side out, guess what happens? Two hilarious characters emerge to perform some crazy, silly, sublime stories for you. All Improv is Equal, but some is more Equal than others.... 
+#### *[[Animal Farm]]* ([[Jessica Arjet]])
+Animal Farm - Swift like a Cheetah, clever like a Fox, we all have a bit of an animal in us. Now when Sarah Marie and Jessica let that animal side out, guess what happens? Two hilarious characters emerge to perform some crazy, silly, sublime stories for you. All Improv is Equal, but some is more Equal than others....
 
 ### Sep 13, 2012
 #### *Ruby's Fancy Pants*
