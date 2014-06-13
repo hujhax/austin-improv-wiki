@@ -16,6 +16,10 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 <p>We have been experimenting with formats, but have not decided on doing a specific one beyond traditional montage.</p></blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 5/29/14 performance in *[[The Threefer]]*.
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Active|Category:Active]]
