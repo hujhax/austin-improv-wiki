@@ -304,8 +304,8 @@ A group of older men is gathering like they have every week since high school. A
 #### *A Thoroughly Modern Lady in King Arthur's Court* ([[Scott Hearne]])
 A Connecticut Yankee in King Arthur's Court, except...instead of a man from the 19th century, a woman from the 21st Century is transported to King Arthur's Court.  Magic, intrigue, costumes...Madness ensues!
 
-#### *Animal Farm*
-Swift like a Cheetah, clever like a Fox, we all have a bit of an animal in us. Now [[Sarah Marie Curry]] and [[Jessica Arjet]] let that animal side out, guess what happens? Two hilarious characters emerge to perform some crazy, silly, sublime stories for you. All Improv is Equal, but some is more Equal than others.... 
+#### *[[Animal Farm]]*
+Swift like a Cheetah, clever like a Fox, we all have a bit of an animal in us. Now [[Sarah Marie Curry]] and [[Jessica Arjet]] let that animal side out, guess what happens? Two hilarious characters emerge to perform some crazy, silly, sublime stories for you. All Improv is Equal, but some is more Equal than others....
 
 ### Oct 11, 2012
 #### *LADIES NIGHT!*
