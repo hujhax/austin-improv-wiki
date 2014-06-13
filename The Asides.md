@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		The Asides
 |Picture	=	The Asides.jpg
-|Cast	=	{{ Unbulleted list | [[Dario Konjicija]] | [[Eric Lies]] | [[Jon Clinkenbeard]] | [[Justin Davis]] | [[Marc Majcher]] |[[Tom Booker]] }}
+|Cast	=	{{ Unbulleted list | [[Dario Konjicija]] | [[Erica Lies]] | [[Jon Clinkenbeard]] | [[Justin Davis]] | [[Marc Majcher]] |[[Tom Booker]] }}
 |Years	=		2010-2012
 }}
 
