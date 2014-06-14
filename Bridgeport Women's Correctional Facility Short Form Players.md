@@ -47,4 +47,3 @@ The troupe returned to [[ColdTowne]] in June 2014 for a run of Saturday-night sh
 * [http://www.coldtownetheater.com/comedy-show/bridgeport-womens-correctional-facility-short-form-players-improv The 2014 run's web page.]
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
