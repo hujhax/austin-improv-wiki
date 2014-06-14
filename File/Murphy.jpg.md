@@ -1,6 +1,7 @@
 ## Summary
-Casual photo of [[Murphy]].
+Publicity photo of [[Murphy]].
 
 Photo by: unknown.
+
 ## Licensing
 {{No license}}
