@@ -2,7 +2,7 @@
 |Name	=		Gravy
 |Picture	=	GravyReunion.jpg
 |Cast	=	{{ Unbulleted list | [[Ace Manning]] | [[Craig Kotfas]] | [[Jeremy Sweetlamb]] | [[Michael Joplin]] | [[Mike D'Alonzo]] | [[Shannon McCormick]] }}
-|Years	=		2002-2005
+|Years	=		2002-2004.
 }}
 
 **Gravy** was an improv troupe.
@@ -17,5 +17,9 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Utilizing frequent pop-outs in the "Elevator" format, the group weaves broken narratives from the past and future while tying together the present situation the characters are met with.</blockquote>
 
+## History
+The troupe performed their last show at [[The 2004 Out of Bounds Comedy Festival]].
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]
