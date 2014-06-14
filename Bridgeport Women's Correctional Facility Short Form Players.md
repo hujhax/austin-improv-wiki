@@ -11,14 +11,14 @@
 ## Summary
 The players portray pre-developed "prisoner" characters, and, as those characters, they perform short-form improv.
 
-In their 2006 performances (see below), they played sets usually lasting twenty to thirty minutes, and were strictly short-form persona-prov shows.  In their 2014 run, their shows were an hour long and included set pieces and character development.
+In their 2006-2007 performances (see below), they played sets usually lasting twenty to thirty minutes, and were strictly short-form persona-prov shows.  In their 2014 run, their shows were an hour long and included set pieces and character development.
 
 The troupe prepared for the performance runs by, among other things, developing their "prisoner" personas and rehearsing stage combat.
 
 ## History
 [[Erika May McNichol]] came up with the idea for the troupe while living in Chicago, after seeing *[[Wikipedia - Switchblade Sisters|Switchblade Sisters]]*.  She also drew inspiration from the 1980s promotional TV show [[Wikipedia - Gorgeous Ladies of Wrestling|Gorgeous Ladies of Wrestling]].
 
-The troupe premiered in *[[The Cagematch]]* on 7/14/06, with the following cast:
+The troupe debuted in *[[The Cagematch]]* on 7/14/06 with the following cast:
 * [[Erika May]]
 * [[Jen Cargill]]
 * [[Jill Morris]]
@@ -27,7 +27,7 @@ The troupe premiered in *[[The Cagematch]]* on 7/14/06, with the following cast:
 * [[Rachel Madorsky]]
 * [[Tami Nelson]]
 
-Their last performance in that incarnation was at [[The 2006 Out of Bounds Comedy Festival]].
+This run included a show at [[The 2006 Out of Bounds Comedy Festival]].  The last performance on record for that incarnation is a 4/27/07 performance in *[[The Threefer]]*.
 
 The troupe returned to [[ColdTowne]] in June 2014 for a run of Saturday-night shows, with the following cast:
 * [[Chrissy Shackleford]]
