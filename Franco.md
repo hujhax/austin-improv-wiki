@@ -14,4 +14,4 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We're really funny.</blockquote>
 
 [[Category/Troupes|Category:Troupes]]
-[[Category:Auto-Generated Troupe Pages
+[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
