@@ -1,7 +1,7 @@
 ## Summary
-[[Nice Astronaut]] photo from March 2013 -- [[Calan lambert]] not pictured.
+[[Nice Astronaut]] photo from DCM 2013.
 
-Photo by: unknown.
+Photo by: Will Hines.
 
 ## Licensing
 {{No license}}
