@@ -6,7 +6,7 @@
 |Years	=		2008-Present
 }}
 
-**Nice Astronaut** is a comedy troupe in Austin, TX that creates and performs Chicago-style longform improv forms, writes and performs sketch comedy, and teaches regional improv workshops. Their monthly Improvaoke show is on the second Saturdays at 11:15pm at [[ColdTowne Theater]].
+**Nice Astronaut** is a comedy troupe in Austin, TX that creates and performs Chicago-style longform improv forms, writes and performs sketch comedy, and teaches improv workshops. Their monthly Improvaoke show is on the second Saturdays at 11:15pm at [[ColdTowne Theater]].
 
 ## History
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] and was formed from several students in a level 1 class together at ColdTowne Theater.  They debuted under the temporary name "H.J. Compromise" in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013) and then [[Cody Dearing]] (2013-).
@@ -17,10 +17,10 @@ As H.J. Compromise, they went on to win the December 2008 [[ColdTowne Theater]] 
 
 In 2011, Nicole and Tim formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
 
-## Etymology
-After narrowing down the potential troupe name from a list of over 200, the troupe wanted to be called "Bad Astronaut" (a pun on "Bad-Ass"), but the name was already taken by a punk band.  After exploring several alternatives (including "Fat Astronaut"), they settled on "Nice Astronaut".
+## Teaching
+Nice Astronaut began teaching workshops in 2013 in Austin, Phoenix, and Houston. They currently teach out of the ColdTowne Conservatory space.
 
-### Members
+## Members
 The troupe was formed by [[Becca Peterson]], [[Allison Alvarez]], [[Patrick Daniel]], [[Clay Crenshaw]], [[Tim Honker]] and [[Carla Goodman]].  Carla left the troupe after rehearsals began but before the first show.
 
 ![[NiceAstro-2011Lineup.jpg|Nice Astronaut lineup 2010]]
@@ -46,7 +46,7 @@ Over the years, the following people have been or are currently still members of
 * [[Joseph Dailey]] (2013 - present)
 
 ## Custom Created Lonform Forms
-Nice Astronaut has specialized in creating and preforming custom forms, but has also performed montages, living rooms, Armandos, and Deconstructions for extended periods of time as well as short form.
+Nice Astronaut has specialized in creating and preforming custom forms, but has also performed montages, living rooms, narratives, Armandos, and Deconstructions for extended periods of time as well as short form.
 
 ### Small Universe
 The Small Universe format is the combination of a loose Close Quarters and a loose Harold. The format consists of describing an object and collectively storytelling about that object from a plural first person point of view.  Long rabbit holes are traveled down to generate 2-3 rules of the universe which eventually cause the characters, locations, relationships and rules to intertwine in the end of the show.  Nice Astronaut started performing this format in the summer of 2012.
