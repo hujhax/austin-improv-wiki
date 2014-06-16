@@ -1,6 +1,5 @@
 {{Infobox Troupe
 |Name	=		Tom Booker and Son
-|Picture	=	Tom Booker and Son.jpg
 |Cast	=	{{Unbulleted list | [[Noah Voelker]] | [[Tom Booker]] }}
 |Years	=		2010
 }}
