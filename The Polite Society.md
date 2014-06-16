@@ -7,5 +7,8 @@
 
 **The Polite Society** presents in a variety of formats when it feels like that's the right thing to do.
  
+## More Information
+* [http://www.facebook.com/politesocietypresents The troupe's facebook page.]
+
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Polite Society]]
