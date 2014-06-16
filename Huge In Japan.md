@@ -4,7 +4,7 @@
 |Years	=		2013
 }}
 
-Huge In Japan (often written all-caps: **HUGE IN JAPAN**) was an improv troupe.
+**Huge In Japan** (often written all-caps: **HUGE IN JAPAN**) was an improv troupe.
 
 ## Summary
 ### Press Blurb
