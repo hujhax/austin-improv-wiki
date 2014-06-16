@@ -1,7 +1,9 @@
 ## Early Days
-In 1996 the main improv venues were [[The Velveeta Room]], featuring [[Marc Pruter]]'s [[Monk's Night Out]] and [[The ComedySportz Playhouse]], featuring [[Les McGehee]]'s [[ComedySportz|ComedySportz Players]].
+In 1986 [[Cap City Comedy Club|the Laff Stop]] (which would later become [[Cap City Comedy Club]]) was selling out improv shows featuring house troupe [[The Laff Staff]]. 
 
-There was also a University of Texas troupe called [[Only 90% Effective]] directed by [[Brently Heilbron]]. [[The Velveeta Room]] was also producing other troupes like [[Code Blue]] and [[Los Paranoias]], directed by [[Pam Ribon]] and [[David Lampe]]. [[David Lampe]] was a member of [[Monk's Night Out]] and a founding member of [[The Oxymorons]] in San Antonio.
+The Austin ComedySportz franchise, owned by Les McGeehee, produced shows in a series of spaces, starting in their own space above Headliner's East, then the original Vortex, The Ritz, Laff Stop and Cap City, eventually helping to open a comedy venue next to [[Esther's Follies]] called the Deep End (now known as [[The Velveeta Room]]). The Velveeta Room was also home to [[The Cheese Pistols]] and Austin's fist local comedy festivals, [[Austin Comedy Festival]] and the [[Southwest Improv Festival of Texas]] (SWIFT). When ComedySportz opened [[The ImprovClub]] on the same block as Esther's and the Velveeta Room in 1994, the city briefly recognized the area as the "Austin Comedy District". 
+
+In 1996 ComedySportz relocated to [[The ComedySportz Playhouse]] in Northcross Mall, producing five shows a week with a kitchen and full bar. The Velveeta Room was still going strong, featuring troupes like [[Marc Pruter]]'s [[Monk's Night Out]], [[Code Blue]], and [[Los Paranoias]], directed by [[Pam Ribon]] and [[David Lampe]]. And at the University of Texas there was a troupe called [[Only 90% Effective]] directed by [[Brently Heilbron]].
 
 ## Austin Improv Goes National
 In 1997 Austin landed on the national improv and sketch map with the first annual [[Big Stinkin' Improv and Sketch Comedy Festival]], which brought troupes, teachers and talent scouts from around the nation to Austin for a memorable weekend of comedy. Improv played some of the biggest venues in town from the Paramount to Palmer Auditorium.
