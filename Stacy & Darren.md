@@ -1,6 +1,5 @@
 {{Infobox Troupe
 |Name	=		Stacy & Darren
-|Picture	=	Stacy & Darren.jpg
 |Director = [[John Ratliff]]
 |Cast	=	{{ Unbulleted list | [[Darren Mieskoski]] | [[Stacy Kaplowitz]] }}
 |Years	=		2010
