@@ -17,4 +17,5 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 The duo performed at least once at [[ColdTowne]] and a couple of times at [[The Hideout]]. 
 
 [[Category/Troupes|Category:Troupes]]
+[[Duos]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
