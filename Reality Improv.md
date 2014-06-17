@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name = Reality Improv
+|Picture= Reality Improv.jpg
 |Theater = [[The Hideout Theatre]]
 |Director =	[[Jay Michael]]
 |Cast =	{{Unbulleted list | [[Andrea Young]] | [[Andy Pereira]] | [[Ceej Allen]] | [[Jill Morris]] | [[Rene Pinnell]] }}
