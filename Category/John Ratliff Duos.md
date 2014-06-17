@@ -1,0 +1,1 @@
+[[John Ratliff]] has performed with a number of duos.  The duos tend to favor slow, grounded scenework.
