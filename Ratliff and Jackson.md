@@ -30,8 +30,9 @@ Ratliff and Jackson headlined *[[The Threefer]]* in September 2012.
 * [http://www.facebook.com/media/set/?set=a.10151044387950793.420989.666390792&type=1 A photoset] by [[Dave Alley]] that includes their performance at the 9/20/12 *[[The Threefer|Threefer]]*.
 
 ## More Information
-* [https://www.facebook.com/RatliffandJackson The duo's facebook page.]
+* [http://www.facebook.com/RatliffandJackson The duo's facebook page.]
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
+[[Category/John Ratliff Duos|Category:John Ratliff Duos]]
