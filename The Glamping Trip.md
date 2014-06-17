@@ -26,4 +26,5 @@
 
 [[Category/Troupes|Glamping Trip]]
 [[Category/Duos|Glamping Trip]]
-[[Category/Active|Category:Active]]
+[[Category/Active|Glamping Trip]]
+[[Category/John Ratliff Duos|Glamping Trip]]
