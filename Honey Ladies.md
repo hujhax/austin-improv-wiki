@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Honey Ladies
+|Picture =		Honey Ladies.jpg
 |Cast	=	{{ Unbulleted list | [[Jeanette Jones]] | [[Jen Kaplan]] | [[Nicole Oliver]] | [[Sam Schack]] | [[Sarah Swofford]] }}
 |Years	=		2013-Present
 }}
