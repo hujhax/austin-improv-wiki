@@ -2,7 +2,7 @@
 |Name	=	The Special Features
 |Picture =      The Special Features 1.jpg
 |Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Matthew Arisheh Falkenberg]] | [[Ali Meier]] | [[Robert Slack]] | [[Carl Ziegler]] | [[Barrett Phelan]] | [[Ripley Adams]] }}
-|Years	=	2013
+|Years	=	2013-Present
 }}
 
 ## Summary
@@ -13,4 +13,5 @@ The Special Features have played at The Hideout Theatre and Coldtowne.
 
 
 
-[[Category/Troupes|The Special Features]]
+[[Category/Troupes|Special Features]]
+[[Category/Active|Special Features]]
