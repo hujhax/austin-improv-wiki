@@ -26,5 +26,5 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 ## More Information
 * [http://www.facebook.com/pages/The-Honeypot/296185193774779 The troupe's facebook page.]
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Troupes|Honeypot]]
+[[Category/Auto-Generated Troupe Pages|Honeypot]]
