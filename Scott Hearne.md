@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Scott Hearne
-|Picture =      Scott Hearne.jpg
+|Picture =      ScottHearne.jpg
 |Theater=	
 |Years	=	2011-Present
 }}
