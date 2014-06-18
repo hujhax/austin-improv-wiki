@@ -45,7 +45,7 @@ It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/
 * Saturday 3pm (hour 23): "The Eye of the Storm": free-form improv from the core cast.
 * Saturday 4pm (hour 24): *[[Charles Dickens Unleashed]]*
 * Saturday 5pm (hour 25): [[Girls Girls Girls]]
-* Saturday 6pm (hour 26): *[[Cochise]]*
+* Saturday 6pm (hour 26): *[[Cochise (Student Mainstage)|Cochise]]*
 * Saturday 7pm (hour 27): TBA
 * Saturday 8pm (hour 28): *[[Theatresports]]*
 * Saturday 9pm (hour 29): [[The Professor]]
