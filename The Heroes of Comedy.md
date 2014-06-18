@@ -94,4 +94,4 @@ The following performers joined the troupe in 2002:
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.10152298824352265.1073741842.588952264&type=3&uploaded=6 A photoset of scans] by [[Craig Kotfas]] from the earliest days of the troupe.
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Heroes of Comedy]]
