@@ -1,6 +1,7 @@
 {{Infobox Performer
 |Name	=	Christina Parrish
-|Picture =      ChristinaParrish.jpg	
+|Picture =      ChristinaParrish.jpg
+|Theater = The New Movement Theater	
 |Years	=	?-Present
 }}
 [[Category/Performers|Parrish]]
