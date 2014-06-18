@@ -18,6 +18,8 @@ She was a core cast member in [[The 42-Hour Improv Marathon]].
 In 2012, she attended the iO Summer Intensive in Chicago.
 
 ## Troupes
+* [[BadWitt]]
+* [[Bad Font]]
 * [[Girls Girls Girls]]
 * [[Happy Butter]]
 * [[Local Genius Society]]
