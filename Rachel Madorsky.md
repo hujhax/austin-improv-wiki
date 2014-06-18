@@ -7,6 +7,9 @@
 
 **Rachel Madorsky** is an improv teacher and performer.
 
+## History
+Rachel is a core cast member in [[The 45-Hour Improv Marathon]].
+
 ## Troupes
 * [[Bridgeport Women's Correctional Facility Short Form Players]]
 * [[ComedySportz]]
@@ -17,6 +20,7 @@
 
 ## Shows
 * *[[Shanty Town Lake]]*
+
 
 ## More Information
 * [http://rachelanddave.com/rachelanddave.com/Rachel.html Her bio page]  on the [[Rachel and Dave]] website.
