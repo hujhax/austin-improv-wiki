@@ -1,6 +1,7 @@
 {{Infobox Performer
 |Name	=	Kristen Kurtis
-|Picture =      KristenKurtis.jpg	
+|Picture =      KristenKurtis.jpg
+|Theater = The Institution Theater	
 |Years	=	?-Present
 }}
 [[Category/Performers|Kurtis]]
