@@ -1,4 +1,5 @@
 {{Infobox Troupe
+|Picture = BadFont_Hideout.jpg
 |Name	=		Bad Font
 |Cast	=	{{Unbulleted list|[[Justin Davidson]]|[[Scott Hearne]]|[[Alexander Hilary]]|[[Kristen Kurtis]]|[[Carlos LaRotta]]|[[Ron Morelli]]|[[Christina Parrish]]|[[Jessie Pascarelli]]||[[Megan Venable]]}}
 
