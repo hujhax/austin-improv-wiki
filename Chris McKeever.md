@@ -7,7 +7,7 @@
 **Chris McKeever** is an improviser, sketch writer, instructor, and director.
 
 ## History
-Chris McKeever studied improv and comedy at The Upright Citizens Brigade Theater in New York City, New York. He maintains a Twitter presence as "NormalTweetGuy". Katie Perry is on of his followers. THE Katie Perry. 
+Chris McKeever studied improv and comedy at The Upright Citizens Brigade Theater in New York City, New York. He maintains a Twitter presence as "NormalTweetGuy". Katie Perry is one of his followers on Twitter. THE Katie Perry. 
 
 ## Troupes
 * [[Double Tap]]
