@@ -13,8 +13,8 @@
 * [[Local Genius Society]]
 
 ## Shows
-* *[[Cover to Cover]]*
 * *[[Comedy Bazaar]]*
+* *[[Cover to Cover]]*
 * *[[Manhattan Stories]]*
 * *[[Not This American Life]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
