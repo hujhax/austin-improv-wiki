@@ -13,5 +13,5 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>This will be musical narrative in costumes poking fun at The Doubtful Guests, teenagers, and the goth world.</blockquote>
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Guestful Doubts]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
