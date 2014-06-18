@@ -11,10 +11,10 @@
 * [[Happy Butter]]
 * [[The Library]]
 * [[Local Genius Society]]
-* [[Comedy Bazaar]]
 
 ## Shows
 * *[[Cover to Cover]]*
+* *[[Comedy Bazaar]]*
 * *[[Manhattan Stories]]*
 * *[[Not This American Life]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
