@@ -11,16 +11,16 @@
 Rachel is a core cast member in [[The 45-Hour Improv Marathon]].
 
 ## Troupes
-* [[Bridgeport Women's Correctional Facility Short Form Players]]
-* [[ComedySportz]]
-* [[Fox Paws]]
 * [[The Frank Mills]]
-* [[R&R]]
 * [[Rachel and Dave]]
+* [[Yay with Rachel and Emma]]
+* [[ComedySportz]]
 
 ## Shows
+* *[[Bridgeport Women's Correctional Facility Short Form Players]]*
 * *[[Shanty Town Lake]]*
-
+* *[[3 2 1 Kill]]*
+* *[[You're Fat]]*
 
 ## More Information
 * [http://rachelanddave.com/rachelanddave.com/Rachel.html Her bio page]  on the [[Rachel and Dave]] website.
