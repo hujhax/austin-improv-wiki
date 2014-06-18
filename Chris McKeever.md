@@ -17,7 +17,5 @@ Chris McKeever studied improv and comedy at The Upright Citizens Brigade Theater
 * *[[Play by Play featuring Double Tap]]*
 * *[[Nice Astronaut Presents -  Back to Townsville]]* (Director)
 
-
-[[Category/Teachers|McKeever]]
 [[Category/Performers|McKeever]]
 [[Category/Directors|McKeever]]
