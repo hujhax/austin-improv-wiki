@@ -5,12 +5,13 @@
 |Years	=	2010-Present
 }}
 
-**Nicole Beckley** is an improv performer.
+**Nicole Beckley** is an improviser and sketch writer/performer.
 
 ## Troupes
 * [[Happy Butter]]
 * [[The Library]]
 * [[Local Genius Society]]
+* [[Comedy Bazaar]]
 
 ## Shows
 * *[[Cover to Cover]]*
