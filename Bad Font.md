@@ -10,7 +10,7 @@
 **Bad Font** is an independent, Harold oriented, improv team.
 
 ## History
-Bad Font was cast by [[Scott Hearne]] throughout 2012 and 2013. The team is primarily coached by [[Dave Buckman]]. Former coaches are [[Clifton Highfield]] and [[Chris McKeever]]. [[Karen Jane DeWitt]] is a former cast member.
+Bad Font was originally cast by [[Scott Hearne]] throughout 2012 and 2013. The team is primarily coached by [[Dave Buckman]]. Former coaches are [[Clifton Highfield]] and [[Chris McKeever]]. [[Karen Jane DeWitt]] is a former cast member. In 2014, [[Carlos LaRotta]] and [[Kristen Kurtis]] joined the team. 
 
 [[Justin Davidson]] originated the name Bad Font. The team chose the name because it is easy to spell and pronounce, it contains multiple meanings, and is mildly amusing. Oh! And no one hated the name.
 
