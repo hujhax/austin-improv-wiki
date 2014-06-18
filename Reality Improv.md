@@ -11,6 +11,6 @@
 
 ## Summary
 ### Show Name
-From the show's directory: "Inspired by a Harold-style Groundlings show in L.A., the name was meant to convey an 'anything can happen' theme, not connected with any particular style or genre.  In retrospect the name would have been better utilized for a Reality TV parody, shows of which were quite popular at the time."
+From the show's director: "Inspired by a Harold-style Groundlings show in L.A., the name was meant to convey an 'anything can happen' theme, not connected with any particular style or genre.  In retrospect the name would have been better utilized for a Reality TV parody, shows of which were quite popular at the time."
 
 [[Category/Shows|Category:Shows]]
