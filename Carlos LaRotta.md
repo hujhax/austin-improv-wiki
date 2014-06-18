@@ -1,6 +1,7 @@
 {{Infobox Performer
 |Name	=	Carlos LaRotta	
 |Picture =	CarlosLaRotta.jpg
+|Theater = Coldtowne Theater
 |Years	=	?-Present
 }}
 
