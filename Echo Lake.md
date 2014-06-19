@@ -1,10 +1,10 @@
 {{Infobox Troupe
 |Name	=		Echo Lake
 |Cast	=	{{ Unbulleted list | [[Cortnie Jones]] | [[Courtney Hopkin]] | [[Valerie Ward]] }}
-|Years	=		2013
+|Years	=		2013-Present
 }}
 
-**Echo Lake** was an improv troupe.
+**Echo Lake** is an improv troupe.
 
 ## Summary
 ### Press Blurb
@@ -16,5 +16,6 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 <p>We're really funny. That's our deal.</p></blockquote>
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
