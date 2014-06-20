@@ -9,6 +9,10 @@
 **Parallelogramophonograph** (often abbreviated to **Pgraph**) is a theatre company in Austin, TX that specializes in improvising plays. They have a weekly show ([[The Spectacle]]) on Fridays at 10pm at [[The Hideout Theatre]].
 
 ## Show Formats
+### The Nutty Funsters
+![[The Nutty Funsters.jpg|Parallelogramophonograph in character as 'The Nutty Funsters']]
+In 2007, the troupe developed an alter ego of "The Nutty Funsters", a zany, Christian, short-form troupe from "West Carolina".
+
 ### New Works
 In *New Works*, Parallelogramophonograph uses a Dramatists Play Service catalog to inspire their premier of a never-before-seen, fully-improvised one act play.
 
