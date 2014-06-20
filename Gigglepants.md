@@ -3,15 +3,31 @@
 |Cast	=	Semester to Yearly Rotating Cast
 |Picture=    Gigglepants Logo.jpg
 
-|Years	=		2004-Present
+|Years	=		2003-Present
 }}
 
-**Gigglepants** is the college troupe for University of Texas that has been the starting point for a few improvisors around town and continues to do shows every two weeks.
+**Gigglepants** is an improv troupe at the University of Texas.
+
+## Summary
+The troupe performs every two weeks, and has been the starting point for many local improvisors.
 
 ## History
-Gigglepants was founded in the fall of 2003 by [[Bryan Cruz]], [[Thai Le]], and [[Tom Glinkowski]]. Alums of ComedySportz High School League in Houston, the troupe is named after their mutual coach Chris "Chim Chim Gigglepants" Craig.
+Gigglepants was founded in the fall of 2003 by [[Bryan Cruz]], [[Thai Le]], and [[Tom Glinkowski]]. Alums of [[ComedySportz]] High School League in Houston, the troupe is named after their mutual coach Chris "Chim Chim Gigglepants" Craig.
 
-The troupe started performing in the spring semester of 2004. The original cast also included [[David Toscano]], [[Bryan Roberts]], [[Shawn Davis]], [[Major Hoffman]], [[Brandon Stackhouse]], [[Jason Dunkelberger]], [[Sylvia Ortiz]], and [[Connor McGee]].
+The troupe started performing in the spring semester of 2004.
+
+## Original Cast
+* [[Brandon Stackhouse]]
+* [[Bryan 'Lubu' Roberts]]
+* [[Bryan Cruz]]
+* [[Connor McGee]]
+* [[David Toscano]]
+* [[Jason Dunkelberger]]
+* [[Major Hoffman]]
+* [[Shawn Davis]]
+* [[Sylvia Ortiz]]
+* [[Thai Le]]
+* [[Tom Glinkowski]]
 
 
 ## Notable Alums
