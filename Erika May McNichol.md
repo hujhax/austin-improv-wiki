@@ -22,7 +22,7 @@ After doing improv in Chicago, Erika May McNichol moved to Austin in June 2005.
 ## Shows
 * *[[Braised in Texas]]* (Director/Producer)
 * *[[Pocketful of Posies]]*
-* *[[Whirled News Tonight 2005-2006]]*(Director/Producer)
+* *[[Whirled News Tonight]]* (Director/Producer, 2005-2006)
 
 [[Category/Performers|McNichol]]
 [[Category/Directors|McNichol]]
