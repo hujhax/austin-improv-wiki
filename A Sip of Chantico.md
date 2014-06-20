@@ -12,5 +12,5 @@ The duo were troupemates in the New York City troupe "Chantico Warfare", and per
 ## History
 The duo played their last show on 5/3/2007.
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Duos|Category:Duos]]
+[[Category/Troupes|Sip of Chantico]]
+[[Category/Duos|Sip of Chantico]]
