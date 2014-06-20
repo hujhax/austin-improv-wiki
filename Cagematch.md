@@ -1,1 +1,1 @@
-#REDIRECT [[The Cagematch]]
+#REDIRECT [[Cagematch]]
