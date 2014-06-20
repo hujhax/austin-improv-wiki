@@ -1,10 +1,10 @@
 {{Infobox Troupe
-|Name	=		JonJohn
+|Name	=		Déclassé
 |Cast	=	{{Unbulleted list|[[John Ratliff]] | [[Jon Bolden]] }}
 |Years	=		2014-Present
 }}
 
-**JonJohn** is an improv duo.
+Déclassé (formerly **JonJohn**) is an improv duo.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
