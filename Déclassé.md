@@ -9,4 +9,4 @@
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
 [[Category/Duos|Category:Duos]]
-[[Category/John RatliffDuos|Category:John RatliffDuos]]
+[[Category/John Ratliff Duos|Category:John Ratliff Duos]]
