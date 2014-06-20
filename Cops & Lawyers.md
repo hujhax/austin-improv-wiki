@@ -3,7 +3,7 @@
 |Picture=	Cops & Lawyers Pic.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	{{Unbulleted list|[[David Lampe]] | [[Troy Miller]]}}
-|Cast	=	{{Unbulleted list | [[Christina Bain]] | [[Christopher Orf]] | [[David Lampe]] | [[Jay Michael]] | [[Kacey Samiee]] | [[Shana Merlin]] | [[Troy Miller]] | [[Wesley Bain]] }}
+|Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Christina Bain]] | [[Christopher Orf]] | [[David Lampe]] | [[Jay Michael]] | [[Kacey Samiee]] | [[Kareem Badr]] | [[Shana Merlin]] | [[Sean Cooper]] | [[Troy Miller]] | [[Wesley Bain]] }}
 |Run	=	Jul-Sep 2006
 }}
 
