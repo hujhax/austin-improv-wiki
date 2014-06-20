@@ -1,5 +1,5 @@
 ## Summary
-Rudimentary preview image for *[[The International Improv Experience]]*, taken from [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule the Hideout's 2014 season preview].
+Poster for *[[The International Improv Experience]]*.
 
 Art by [[Kaci Beeler]].
 
