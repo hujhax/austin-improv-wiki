@@ -29,7 +29,6 @@ The troupe started performing in the spring semester of 2004.
 * [[Thai Le]]
 * [[Tom Glinkowski]]
 
-
 ## Notable Alums
 *[[Alex Hunt]]
 *[[Bryan Cruz]]
