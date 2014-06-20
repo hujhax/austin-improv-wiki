@@ -10,4 +10,9 @@
 ## History
 The troupe played in at least two *[[Cagematch|Cagematches]]* in 2006.
 
+[[Jill Morris]] came up with the troupe's name.
+
+## More Information
+* [http://forum.austinimprov.com/viewtopic.php?t=477 Discussion of the origin of the troupe name] on [[The Austin Improv Forums]].
+
 [[Category/Troupes|Category:Troupes]]
