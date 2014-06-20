@@ -11,7 +11,9 @@
 3, 2, 1, Kill! was a video improv show.  They had two camera crews and a stage crew.  They would film scenes outside of their venue, rush the footage back, and play it back on a projector.
 
 ## History
-The troupe debuted on 7/1/06.
+The troupe debuted at [[ColdTowne Theater]] on 7/1/06.
+
+It had a run of shows at the Alamo Drafthouse in April 2008.
 
 ## Media
 ### Photos
