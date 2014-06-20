@@ -1,6 +1,5 @@
 {{Infobox Troupe
 |Name	=		Ratliff & Kacey
-|Picture	=	Ratliff & Kacey.jpg
 |Cast	=	{{Unbulleted list | [[John Ratliff]] | [[Kacey Samiee]] }}
 |Years	=		2009
 }}
