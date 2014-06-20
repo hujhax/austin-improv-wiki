@@ -4,7 +4,7 @@
 |Years	=		2014-Present
 }}
 
-Déclassé (formerly **JonJohn**) is an improv duo.
+**Déclassé** (formerly **JonJohn**) is an improv duo.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
