@@ -20,6 +20,9 @@ It had a run of shows at the Alamo Drafthouse in April 2008.
 * [http://nekomouser.livejournal.com/pics/catalog/2447 Behind-the-scenes photoset] by [[Wesley Bain]] of one of their first two shows.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=8180 Announcement of the troupe's debut] in [[The Austin Improv Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?p=8180 Announcement of the troupe's debut] on [[The Austin Improv Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?p=58453 Announcement of the 2008 run] on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Improvised Video|Category:Improvised Video]]
+[[Category/Video|Category:Video]]
