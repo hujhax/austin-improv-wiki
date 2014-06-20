@@ -1,6 +1,7 @@
 {{Infobox Troupe
 |Name	=		ColdTowne (troupe)
 |Picture  =  Coldtowne.jpg
+|Cast = {{Unbulleted list | [[Arthur Simone]] | [[Michael Jastroch]] }}
 |Years	=		2005-2010
 }}
 
@@ -15,3 +16,4 @@ Several members arrived in Austin, Texas around the time of Out of Bounds 2005. 
 ColdTowne is currently composed of only 2 of the 9 original members: [[Michael Jastroch]] and [[Arthur Simone]], and is mostly inactive except for special occasions such as the 5 Families opening for [[The Institution Theater]].
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Duos|Category:Duos]]
