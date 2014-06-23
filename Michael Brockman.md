@@ -29,12 +29,14 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * Three Falling (w/ Muli Shulman & Inbal Lori)
 
 ## Shows
-* [['Campfire Songs']]
+* *[[The Big Bash]]*
 * *[[Boys of Summer]]*
+* [['Campfire Songs']]
 * *[[Crack]]*
 * *[[The Fancy-Pants Mashup]]*
 * *[[Hitchcocked!]]*
 * *[[Jukebox Heroes]]*  (w/ Laura Hall)
+* *[[The Last Freak Show]]*
 * *[[Louder Than Words]]*
 * *[[Love Is a Funny Thing]]*
 * *[[Maestro]]*
@@ -46,8 +48,6 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * *[[Same Year's Eve]]*
 * *[[Start Trekkin']]*
 * *[[Theatresports]]*
-* *[[The Big Bash]]*
-* *[[The Last Freak Show]]*
 * *[[The Trouble With Terry]]* (composer)
 
 ## Festivals
