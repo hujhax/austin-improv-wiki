@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Look Cookie
 |Picture	=	Look Cookie.jpg
-|Cast	=	{{ Unbulleted list | [[Bryan Roberts]] | [[Jerry Bilbo]] | [[Kerri Lendo]] | [[Leah Moss]] | [[Michael Williams]] }}
+|Cast	=	{{ Unbulleted list | [[Bryan Roberts]] | [[Cody Dearing]] | [[Eric Seufert]] | [[Jerry Bilbo]] | [[Kerri Lendo]] | [[Leah Moss]] | [[Michael Williams]] }}
 |Years	=		2007-2010
 }}
 
