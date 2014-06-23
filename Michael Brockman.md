@@ -35,7 +35,6 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * *[[The Fancy-Pants Mashup]]*
 * *[[Hitchcocked!]]*
 * *[[Jukebox Heroes]]*  (w/ Laura Hall)
-* *[[The Last Freak Show]]*
 * *[[Louder Than Words]]*
 * *[[Love Is a Funny Thing]]*
 * *[[Maestro]]*
@@ -47,6 +46,8 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * *[[Same Year's Eve]]*
 * *[[Start Trekkin']]*
 * *[[Theatresports]]*
+* *[[The Big Bash]]*
+* *[[The Last Freak Show]]*
 * *[[The Trouble With Terry]]* (composer)
 
 ## Festivals
