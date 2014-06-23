@@ -66,6 +66,11 @@ It will be performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/
 * Sunday 1pm (hour 45): "Final Show": 	The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep
 
 ## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.753647561365429.1073742018.221927764537414&type=1 Photoset] of hour 1 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.753656124697906.1073742019.221927764537414&type=1 Photoset] of hour 2 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.753664144697104.1073742020.221927764537414&type=1 Photoset] of hour 3 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.10152099340360793.1073741871.666390792&type=3 Photoset] of hour 45 by [[Dave Alley]].
 ### Publicity
 * [http://youtu.be/SrwOOvwxSNE A mini-documentary about the upcoming festival] by [[Ceej Allen]].
 
