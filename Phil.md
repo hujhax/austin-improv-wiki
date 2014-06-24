@@ -7,12 +7,8 @@
 
 **Phil** is an improv troupe.
 
-## Summary
-### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Phil wants to present you with touching narratives about real people doing stuff that real people really do. Part comedy, part heartache, Phil shows are an improvised emotional rollercoaster that are not to be missed. </blockquote>
-
-### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We do a montage. we call it a reunion. we take a suggestion and then all four of us become characters who are meeting again for some reason after years of separation. we explore the characters' pasts and their relationships that helped form who they are today. </blockquote>
+## History
+Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[The Hideout Theatre]] with Tyler as their TA. Phil has since performed regularly at [[The Hideout Theatre]] and [[ColdTowne Theater]]. In May 2014, Phil had [[Threefer]] run at [[The Hideout Theatre]].
 
 ## Media
 ### Videos
