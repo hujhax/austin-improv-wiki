@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name = Whirled News Tonight	
+|Picture = Whirled News Tonight.jpg
 |Theater = [[The Hideout Theatre]]
 |Cast =	{{Unbulleted list | [[Chris Trew]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Marc Majcher]] |[[Roy Janik]] | [[Scott Chester]] | [[Wesley Bain]] }}
 |Director = [[Erika McNichol]]
