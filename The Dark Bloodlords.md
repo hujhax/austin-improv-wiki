@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		The Dark Bloodlords
+|Picture=		The Dark Bloodlords.jpg
 |Cast	=	{{Unbulleted list | [[Amy McKenna]] | [[Andy Crouch]] | [[Andy Pereira]] | [[Chris Allen]] | [[Jason Vines]] | [[Kaci Beeler]] | [[Michael Jastroch]] | [[Mike Kinald]] | [[Roy Janik]] }}
 |Years	=		2005-2007
 }}
