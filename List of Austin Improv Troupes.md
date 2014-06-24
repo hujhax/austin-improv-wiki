@@ -151,6 +151,7 @@ These are troupes that still need pages created for them.
 * [[P. O. V]]
 * [[P.A.L.S]]
 * [[Patriot Actors]]
+* [[The Perfect Banana]]
 * [[The Plurals]]
 * [[Punch]]
 * [[Puppet Gun]]
