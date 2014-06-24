@@ -14,7 +14,7 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote><p>We do a loose Harold.</p> 
 
-<p>Cortnie, Frank, Sanjay and I have all played together a bunch. Chris and Jillian are from UCBT NY, new to Austin, and they are extremely experienced there. Jillian also trained at Jill Bernard's Huge Theater before going to NYC.</p> </blockquote>
+<p>Cortnie, Frank, Sanjay and Drew have all played together a bunch. Chris and Jillian are from UCBT NY, new to Austin, and they are extremely experienced there. Jillian also trained at Jill Bernard's Huge Theater before going to NYC.</p> </blockquote>
 
 ## More Information
 * [https://www.facebook.com/KingstonImprov The troupe's facebook page.]
