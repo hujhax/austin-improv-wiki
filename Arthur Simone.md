@@ -4,7 +4,6 @@
 |Theater=	[[ColdTowne Theater]] 
 |Years	=	2006-Present
 }}
-
 **Arthur Simone** is an improv performer, teacher, and director.
 
 ## Summary
@@ -31,7 +30,6 @@ From [http://www.coldtownetheater.com/performer/arthur-simone his bio page on th
 ### Guest Appearances
 * *[[Crack!]]* (8/7/10)
 * *[[Boys of Summer]]* (2006 run)
-
 
 ## More Information
 * [http://www.coldtownetheater.com/performer/arthur-simone Arthur's bio page on the ColdTowne Theater site.]
