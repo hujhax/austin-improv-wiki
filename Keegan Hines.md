@@ -8,7 +8,7 @@
 **Keegan Hines** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
-Keegan began improv classes at [[The Hideout Theatre]] in 2009 after seeing a [[Maestro]] show.  Upon completing class, he formed the troupe [[Phil]] with fellow classmates. He has performed improv at the [[The Hideout Theatre]], [[ColdTowne Theater]], and [[The Institution Theater]].
+Keegan began improv classes at [[The Hideout Theatre]] in 2009 after seeing a [[Maestro]] show. He has performed improv at the [[The Hideout Theatre]], [[ColdTowne Theater]], and [[The Institution Theater]].
 
 ## Troupes
 * [[Phil]] (2010-2014)
