@@ -40,7 +40,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these shows are listed with the troupe page.
 
 * [[Precious Dads]] have presented "Dads in Bars" in January 2013 and "Home for the Holidays" in November 2013, and will present "The Barmando" in March 2014.
-* [[Nice Astronaut]] has presented "Last Call" and will present "Back in Townesville" in May 2014.
+* [[Nice Astronaut]] has presented "Last Call", "It's a Tolerable Existence!", "28 Minutes Later", "Townesville", and "Back in Townesville".
 * [[Stag Comedy]] has presented "Stab Comedy".
 * [[Wink Planet]] will present "Pilgrims Are From Mars" in November 2014.
 
