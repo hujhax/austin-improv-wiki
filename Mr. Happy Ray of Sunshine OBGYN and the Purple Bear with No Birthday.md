@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday
+|Name	=		Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg
 |Cast	=	{{Unbulleted list|[[Andrea Young]] | [[Cody Dearing]] }}
 |Years	=		2006
 }}
