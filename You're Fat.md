@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		You're Fat
+|Picture=		You're Fat.jpg
 |Cast	=	{{Unbulleted list|[[Jill Morris]] | [[Rachel Madorsky]] }}
 |Years	=		2006-2007
 }}
