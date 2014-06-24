@@ -26,7 +26,9 @@ At about the two-thirds mark, the narrator would introduce some significant pass
 At the end of the story, the onstage characters would again freeze into a tableau, and the narrator would step out to provide the closing lines of the "novel".
 
 ## History
-The show ran in the 2009 November/December holiday season, and was brought back for a second mainstage run in 2011.  That second run was so successful that, in December, the Hideout added 6pm shows every Saturday.  The show also had Christmas performances in its "off" years (2010, 2012), and was part of [[The 43-Hour Improv Marathon]].
+The show format was first tested out in [[The 40-Hour Improv Marathon]] on 6/27/09, for an audience of one ([[Mike Kinald]]).
+
+The show then ran in the 2009 November/December holiday season, and was brought back for a second mainstage run in 2011.  That second run was so successful that, in December, the Hideout added 6pm shows every Saturday.  The show also had Christmas performances in its "off" years (2010, 2012), and was part of [[The 43-Hour Improv Marathon]].
 
 On 11/17/11, cast members [[Curtis Luciani]], [[Kaci Beeler]], and [[Peter Rogers]] appeared on KUT's *[http://en.wikipedia.org/wiki/KUT#Local_productions Eklektikos]* to promote the show.
 
