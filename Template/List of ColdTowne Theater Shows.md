@@ -6,15 +6,13 @@ This **List of [[ColdTowne Theater]] Shows** is designed to be transcluded into 
 * *[[The Cagematch]]*
 * *[[Comedy Bazaar]]*
 * *[[The Hustle Show]]*
-* *[[Midnight Special and Gong Show]]*
-* *[[Movie vs Movie]]*
-* *[[Raney Nights]]*
-* *[[Red Envelope]]*
+* *[[Movie Riot]]*
+* *[[Nice Astronaut Presents Improvaoke]]*
+* *[[Oh, Science!]]*
+* *[[Play By Play]]*
 * *[[The Speakeasy]]*
-* *[[Stool Pigeon]]*
 * *[[All Ages Improv Night]]*
 * *[[What's the Story Steve]]*
-* *[[Oh, Science!]]*
 
 ### Mainstage Productions
 In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.
