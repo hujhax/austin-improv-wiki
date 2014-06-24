@@ -1,10 +1,10 @@
 {{Infobox Troupe
-|Name	=		Mr. Happy Chocolate Sunshine OBGYN And A Purple Bear With No Birthday
+|Name	=		Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday
 |Cast	=	{{Unbulleted list|[[Andrea Young]] | [[Cody Dearing]] }}
 |Years	=		2006
 }}
 
-**Mr. Happy Chocolate Sunshine OBGYN And A Purple Bear With No Birthday** was an improv duo.
+**Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday** was an improv duo.
 
 ## History
 The duo played at least one *[[Cagematch]]* in 2006.
