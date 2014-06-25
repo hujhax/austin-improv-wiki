@@ -1,7 +1,8 @@
 {{Infobox Troupe
 |Name	=		Twelve-Inch Integrity
 |Picture	=	Twelve-Inch Integrity.png
-|Cast	=	{{ Unbulleted list | [[Aaron Parker-Fasel]] | [[Aden Pennington]] | [[Alex Biasci]] | [[Ana Ward]] | [[Elizabeth Brammer]] }}
+|Cast	=	{{ Unbulleted list | [[Aaron Parker-Fasel]] | [[Aden Pennington]] | [[Alex Biasci]] | [[Ana Ward]] | [[Elizabeth Brammer]] | [[Emma Holder]]}}
+|Director = [[Lisa Jackson]]
 |Years	=		2009-2010
 }}
 
