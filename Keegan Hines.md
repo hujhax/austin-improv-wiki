@@ -13,7 +13,6 @@ Keegan began improv classes at [[The Hideout Theatre]] in 2009 after seeing a [[
 ## Troupes
 * [[Phil]] (2010-2014)
 
-
 ## Shows
 * *[[Holy 1960s Batman, Batman!]]*
 * *[[After School Improv]]*
