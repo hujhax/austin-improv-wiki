@@ -6,7 +6,7 @@
 |Years	=	2014-Present
 }}
 
-**Ammon Taylor** is an improv musician.
+**Tosin Awofeso** is an improv musician.
 
 ## Summary
 Pianist Tosin Awofeso is best known as the accompanist for [[Hurly Burly]], but also accompanies many ongoing shows at [[The Hideout Theatre]]. 
@@ -15,5 +15,5 @@ Pianist Tosin Awofeso is best known as the accompanist for [[Hurly Burly]], but 
 * *[[Hurly Burly]]* (accompanist)
 * *[[Maestro]]* (accompanist)
 
-[[Category/Performers|Awofeso]]
-[[Category/Musicians|Awofeso]]
+[[Category/Performers|Tosin Awofeso]]
+[[Category/Musicians|Tosin Awofeso]]
