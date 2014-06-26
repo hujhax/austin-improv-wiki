@@ -13,7 +13,7 @@
 ## Summary
 The show depicted epic tales of corruption, power, and betrayal set in feudal Japan, inspired by Japanese samurai films such as  *[[Wikipedia - Seven Samurai|Seven Samurai]]*, *[[Wikipedia - Harakiri (1962 film)|Harakiri]]*, and *[[Wikipedia - 13 Assassins|13 Assassins]]*.
 
-The cast trained with and used on stage actual *bokken* (wooden samurai swords).
+The cast trained with and used, on stage, actual *bokken* (wooden samurai swords). Combat was handled in slow motion.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
