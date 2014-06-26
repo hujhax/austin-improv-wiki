@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Frogtown Hollow Jubilee Jugband
 |Picture=		Frogtown Hollow Jubilee Jugband.jpg
-|Cast	=	{{Unbulleted list | [[Chris Trew]] | [[Eric Heiburg]] | [[Jason Vines]] | [[Jordan Maxwell]] | [[Kaci Beeler]] | [[Wesley Bain]] }}
+|Cast	=	{{Unbulleted list | [[Chris Trew]] | [[Eric Heiberg]] | [[Jason Vines]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Wesley Bain]] }}
 |Years	=		2006-2007
 }}
 
