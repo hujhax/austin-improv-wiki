@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Keegan Hines	
-|Picture =	
+|Picture =	Keegan Hines.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2009-Present
 }}
