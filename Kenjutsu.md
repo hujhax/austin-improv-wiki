@@ -3,6 +3,7 @@
 |Picture	=	Kenjutsu.jpg				
 |Theater =		[[The Hideout Theatre]]
 |Director =		{{Unbulleted list | [[Kareem Badr]] | [[Shannon McCormick]] }}
+|Tech = {{Unbulleted list | [[Cindy Page]] (lights) | [[Michael Yew]] (sound) }}
 |Run=							Mar/Apr 2014
 |Cast	=		{{Unbulleted list | [[Audrey Rachel Sansom]] | [[Brad Hawkins]] | [[Cat Drago]] | [[Jayme Ramsay]] | [[Jeff Britt]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Lacy Shawn]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Quinn Buckner]] | [[Ruby Willmann]] | [[Shannon McCormick]] }}
 }}
