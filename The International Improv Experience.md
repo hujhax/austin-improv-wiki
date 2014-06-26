@@ -5,7 +5,7 @@
 |Director =		[[Roy Janik]]
 |Run=							Jul/Aug 2014
 |Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Caeriel Crestin]] | [[Ceej Allen]] | [[Karen Jane DeWitt]] | [[Katie Dahm]] | [[Lacy Shawn]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Ryan Austin]] | [[Shannon Dale Stott]] | [[Zac Grantham]] }}
-|Tech = {{Unbulleted list | [[Lindsey McGowen]] | [[Michael Yew]] }}
+|Tech = {{Unbulleted list | [[Lindsey McGowen]] | [[Michael Yew]] | [[Cindy Page]]}}
 }}
 
 ***The International Improv Experience*** is an upcoming mainstage show at [[The Hideout Theatre]] that will draw inspiration from friends of the Hideout around the world.
