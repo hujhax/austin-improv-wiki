@@ -20,7 +20,7 @@ The troupe took a brief hiatus while Maxwell and Brockman fulfilled other profes
 They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvaganza in Honolulu, Hawaii, and the Alaska State Improv Festival in Juneau, Alaska.  They are also frequently featured guests at the [[Hell & Back Cabaret]].
 
 ## Dramatis Personae
-**Solomon Strange** (Jordan T. Maxwell)
+**Rev. Solomon Strange** (Jordan T. Maxwell)
 
 **Anita Deva** (Kacey Samiee)
 
