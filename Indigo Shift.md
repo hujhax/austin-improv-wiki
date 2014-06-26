@@ -31,9 +31,13 @@ They performed their last official show at [[The 2013 Out of Bounds Comedy Festi
 
 **Doc Jenkins** ([[Craig Kotfas]])
 
+**Nigel**  ([[Ryan Hill]])
+
+**Kitty Draco**  ([[Cindy Page]])
+
 **Baby Doll** ([[Sarah Marie Curry]])
 
-[[Jeremy Sweetlamb]] and [[Cindy Page]] played without "in universe" characters.
+[[Jeremy Sweetlamb]] played without an "in universe" character.
 
 ## Media
 ### Videos
