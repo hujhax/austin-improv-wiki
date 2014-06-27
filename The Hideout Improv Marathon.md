@@ -6,7 +6,8 @@ In the improv marathon, a core cast of eight improvisors performs some number of
 In its first year, the marathon was a fundraiser for the Hideout itself.  The next year, it became a fundraiser for [[The Hideout Theatre Youth Scholarship Fund]].
 
 ## History
-The marathon originated with [[The 40-Hour Improv Marathon]] in 2009.  The event has recurred every subsequent year, with the number of hours incrementing by one every time.
+The first record of the idea for the marathon is an email from [[Andy Crouch]] to [[Roy Janik]] from 8/15/08:<blockquote>"We absolutely should do a 52-hour improv marathon as a fundraiser. You have a core group of people that actually stays up for the full time. Some people won't make it, but some will. You bring in guest players and change format every hour, working in all of our main formats (*[[Maestro]]*, *[[Gorilla Theater|Gorilla]]*, *[[Theatresports]]*, *[[Six Degrees]]*, *[[Start Trekkin']]*, [[Improvised Shakespeare|Shakespeare]], *[[After School Improv|After School Special]]*, improvised musical, etc.) maybe more than once, and we make up some fun formats to fill the hours."</blockquote>
+The marathon debuted as [[The 40-Hour Improv Marathon]] in 2009.  The event has recurred every subsequent year, with the number of hours incrementing by one every time.
 
 ### Individual Marathons
 * 2009: [[The 40-Hour Improv Marathon]]
