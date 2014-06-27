@@ -55,7 +55,7 @@ At this point in 2010, the Cagematch reverted to a "King of the Hill" format wit
 * [[Beertown Beers]] (1/6/12)
 * [[Tears But Joy]] (2/24/12)
 * [[Martians]] (4/20/12)
-* [[Dry Weave]] (Summer 2012)
+* [[Dry Weave]] (6/29/12)
 * [[The Golden Age]] (10/24/2012)
 * [[Silent Letters]] (at the time, called "The Men in Chrissy's Life") (3/13/13)
 * [[Gioboozeman Party]] (featuring special guests Rob Gagnon and Nicole McCracken's Brother 5/1/13)
