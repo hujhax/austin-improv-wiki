@@ -34,6 +34,7 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * [['Campfire Songs']]
 * *[[Crack]]*
 * *[[The Fancy-Pants Mashup]]*
+* *[[Gorilla Improv]]*  (w/ Greg Proops, Jill Bernard, Jeremy Lamb & Shana Merlin)
 * *[[Hitchcocked!]]*
 * *[[Jukebox Heroes]]*  (w/ Laura Hall)
 * *[[The Last Freak Show]]*
