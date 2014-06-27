@@ -12,7 +12,7 @@ What's the Story Steve? produces a weekly improvised children's show at [[ColdTo
 Featuring Steve the Improvising Poodle, WTSS shows introduce Steve as both the host of the show and as a performer. The Voice of Steve (V.o.S.) is played by an actor offstage, using a microphone.
 
 ## History
-The troupe was founded in August of 2011.
+The troupe was founded in August of 2011, and first performed the following month as "What's the Story?: Improvised Wishbone" in *[[The Cagematch]]*.
 
 It has performed in [[The 2012 Out of Bounds Comedy Festival]], [[The 43-Hour Improv Marathon]], and [[The 44-Hour Improv Marathon]].
 
