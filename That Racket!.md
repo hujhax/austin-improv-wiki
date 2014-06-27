@@ -1,9 +1,8 @@
 {{Infobox Troupe
 |Name	=		That Racket!
 |Picture	=	That Racket!.jpg
-|Cast	=	{{Unbulleted list | [[Amy Lowrey]] | [[Ella Gale]] | [[Kevin Smith]] | [[Linzy Beltran]] | [[Mitch Mills]] | [[Stephanie Chiarello]] }}
+|Cast	=	{{Unbulleted list | [[Amy Lowrey]] | [[Ella Gale]] | [[Kevin Smith]] | [[Linzy Beltran]] | [[Mitch Mills]] | [[Stephanie Chiarello]] | [[Mike O'Connor]] | [[Dave Ronn]] }}
 |Years	=		2014-Present
-|Music = [[Michael O'Connor]]
 }}
 :*This page refers to the 2014 musical-improv troupe.  For the 2012 improv show inspired by *Stomp'', see [[Racket]].
 **That Racket!** is a musical improv troupe.
