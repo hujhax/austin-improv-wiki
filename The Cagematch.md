@@ -37,7 +37,7 @@ This is a list of winners of the Cagematch.
 * [[Antique Limax]] (9/27/08)
 * [[Nice Astronaut]] (at the time called "HJ Compromise") (12/6/08)
 * [[Golden Eagle]] (2/28/09)
-* [[Twelve Inch Integrity]] (unknown)
+* [[Twelve Inch Integrity]] (1/31/08)
 * [[Lady Forms]] (6/20/09)
 * [[I Don't Appreciate It When You Talk to Me That Way]] (10/24/09)
 * [[Achatina Achatina]] (12/19/09)
