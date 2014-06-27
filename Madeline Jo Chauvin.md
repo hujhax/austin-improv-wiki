@@ -39,7 +39,7 @@ Jo is excited that she was able to perform in London with C3467X in 2013.  Sure,
 * *[[Live TV Tuesdays -  Scrubs]]* (co-producer, co-director / Gooch)
 
 ## Awards
-*[[The 2014 Institution Theater Awards]]: winner, The Audience Award.
+*[[The 2014 Institution Theater Awards]]: winner, The Audience Member Award.
 
 * [[The 2013 Institution Theater Awards]]: nominated for Favorite Female Performer, The Audience Award, Favorite Director (for *[[Live TV Tuesdays -  Scrubs]]*) Favorite Show (as Producer) (for *[[Live TV Tuesdays -  Scrubs]]*), and Favorite Video ( for "Dr. Horrible's Sing-Along Blog")- Winner
 [[Category/Performers|Chauvin]]
