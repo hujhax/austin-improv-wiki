@@ -1,5 +1,5 @@
 ## Summary
-[[Concrete]], after winning a [[Cagematch]] championship.
+[[Concrete]] celebrating their 1/16/13 [[Cagematch]] championship.
 
 Photo by [[Scott Hearne]].
 
