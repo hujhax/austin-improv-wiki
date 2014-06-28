@@ -2,7 +2,7 @@
 |Name	=	The Cagematch	
 |Picture=	The Cagematch.jpg
 |Theater=	{{Unbulleted list | [[The Hideout Theatre]] (2007) | [[ColdTowne Theater]] (2007-Present) }}
-|Director =	{{Unbulleted list | [[Chris Trew]] (2007-2008) | [[Michael Williams]] (2008-2012) | [[Adam Trabka]] (2012-Present) }}
+|Director =	{{Unbulleted list | [[Chris Trew]] (2007-2008) | [[Michael Williams]] (2008-2012) | [[Adam Trabka]] (2012-2014) | [[Nathan Sowell]] (2014-Present) }}
 |Cast	=	Various
 |Run	=	2005-Present
 }}
