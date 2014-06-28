@@ -14,7 +14,7 @@ Featuring Steve the Improvising Poodle, WTSS shows introduce Steve as both the h
 ## History
 The troupe was founded in August of 2011, and first performed the following month as "What's the Story?: Improvised Wishbone" in *[[The Cagematch]]*.
 
-It has performed a weekly show at ColdTowne Theater since November of 2011 and in [[The 2012 Out of Bounds Comedy Festival]], [[The 43-Hour Improv Marathon]], and [[The 44-Hour Improv Marathon]].
+It has performed a weekly show at ColdTowne Theater since November of 2011 and in [[The 2012 Out of Bounds Comedy Festival]], [[The 2013 Out of Bounds Comedy Festival]], [[The 43-Hour Improv Marathon]], [[The 44-Hour Improv Marathon]] and [[The 45-Hour Improv Marathon]].
 
 ## Media
 ### Videos
