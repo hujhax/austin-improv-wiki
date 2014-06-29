@@ -5,7 +5,7 @@
 |Director =	{{Unbulleted list | [[Andy Crouch]] | [[Roy Janik]] }}
 |Cast =	{{Unbulleted list | [[Aaron Saenz]] | [[Andy Crouch]] | [[Bridget Brewer]] | [[Caitlin Sweetlamb]] | [[Chuy Zarate]] | [[Jon Bolden]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Quinn Buckner]] | [[Roy Janik]] | [[Ruby Willmann]] | [[Troy Miller]] }}
 |Tech =	 Various
-|Run	=	Dec 2014-Present
+|Run	=	Dec 2013-Present
 }}
 
 ***The Big Bash*** is a Friday-night show at the Hideout Theatre designed for general audiences. 
