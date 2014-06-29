@@ -363,11 +363,6 @@ The semifinals were held on 6/11/11 and 6/18/11.  Nothing else is known.
 #### Championship
 * 6/25/11: [[Who Dack]] vs. **The British Knights**
 
-Nothing is known of the rest of the match, apart from this:
-* The semifinals were on 6/11/11 and 6/18/11.
-* The championship was on 6/25/11.
-* The British Knights won the tournament.
-
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=11869 Thread about the tournament] on [[The Austin Improv Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?t=12012 Championship announcement] on [[The Austin Improv Forums]].
