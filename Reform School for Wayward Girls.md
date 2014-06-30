@@ -4,7 +4,8 @@
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Kaci Beeler]]
 |Run=							Sep/Oct 2014
-|Cast	=		TBA
+|Cast	=		{{Unbulleted list | [[Adrienne Brown]] | [[Ash Nunley]] | [[Courtney Hopkin]] | [[David Schwartz]] | [[Halyn Erickson]] | [[Kyle Traughber]] | [[Lacy Shawn]] | [[Marc Majcher]] | [[Melissa Patterson]] | [[Nicole Oliver]] | [[Peter Rogers]] | [[Ruby Willmann]] | [[Valerie Ward]] }}
+|Tech = {{Unbulleted list | [[Chris Albano]] | [[Lindsey McGowen]] }}
 }}
 
 ***Reform School for Wayward Girls*** is an upcoming mainstage show at [[The Hideout Theatre]] set in a 1970s all-girl reform school.
