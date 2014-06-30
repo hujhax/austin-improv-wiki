@@ -32,7 +32,8 @@ Finally Dungeon Masters is a montage/narrative in which Austin/Austin fill out a
 ***What Do We Do? Dungeon Masters**
 "Dungeon Masters is a open world format in which we jump around to different moments in the lives of the inhabitants of a fantasy world. We build the lore for that show at the top with a guided mad libs/ hesitation debate style telling of the lore then we jump into a scene from that world that inspires us. Its not a narrative unless we find ourselves having fun with a particular set of characters, otherwise its more of a world connected montage."
 ***Who Are We and What Do We Do? Dungeon Masters**
-"Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. Austin/Austin is currently working on a deep fantasy genre format called "Dungeon Masters" in which they dive deep into a fantasy world you help create with a heavily audience suggestion influenced lore. Come along for a look at peasants and kings, orcs and dwarfs, or maybe even things we haven't thought up yet!"
+"Austin/Austin is the joining of two friends, Ryan and Quinn, whose goal is to try everything and become the best they can be while having as much fun as possible. Austin/Austin is currently performing a deep fantasy genre format called "Dungeon Masters" in which they dive deep into a fantasy world you help create with a heavily audience suggestion influenced lore. Come along for a look into a world filled with peasants and kings, orcs and dwarfs, and everything in between."
+
 ## More Information
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
 
