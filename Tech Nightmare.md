@@ -3,7 +3,7 @@
 |Picture = 	Tech Nightmare Pic.jpg
 |Theater=	Various
 |Cast=		Varies
-|Director =	{{Unbulleted list | [[Cindy Page]] | [[Cortney DeAngelo]] }}
+|Director =	{{Unbulleted list | [[Cindy Page]] | [[Cortney DeAngelo]] [[Lindsey McGowen]]}}
 |Run	=	6/3/12
 |Subsequent Runs= 7/19/12, 9/27/12, 10/25/12, 12/13/12
 }}
@@ -21,7 +21,9 @@ As the tech booth announces at the top of the show, if the players don't follow 
 ## History
 The show originated as the Sunday-2am slot of [[The 43-Hour Improv Marathon]], with just the marathon's core players participating.
 
-It was brought back many times as part of *[[The Free Fringe]]*, with performance dates on 7/19/12, 9/27/12, 10/25/12, and (for a special "Christmas *Tech Nightmare*") 12/13/12.  It will be part of [[The 44-Hour Improv Marathon]].
+It was brought back many times as part of *[[The Free Fringe]]*, with performance dates on 7/19/12, 9/27/12, 10/25/12, and (for a special "Christmas *Tech Nightmare*") 12/13/12.  It was part of [[The 44-Hour Improv Marathon]] and [[The 45-Hour Improv Marathon]].
+
+[[Lindsey McGowen]] was added as a permanent member of the tech team after her debut in [[The 45-Hour Marathon]].
 
 ## Media
 * 12/13/12 performance:
