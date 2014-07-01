@@ -603,21 +603,20 @@ All that's known about the semifinals is that they happened on 4/17/13 and 4/24/
 #### Quarterfinals
 * 5/8/13: Natan vs. [[We're Here to Date Your Daughter]]
 * 5/15/13: Lady Freeman vs. Discotheque
-* 5/29/13: **[[Heather Has Two Oprahs]]** vs. [[Whalehouse]]
+* 5/29/13: **[[Duran & Johnson]]** (then known as "Heather Has Two Oprhas") vs. [[Whalehouse]]
 * 6/5/13: Banditos vs. Powerball
 
 #### Semifinals
 All that's known of the semifinals is that they happened on 6/12/13 and 6/19/13.
 
 #### Championship
-All that's known of the championship is that [[Duran and Johnson]] (then known as "Heather Has Two Oprahs") won it on 7/3/13.
+All that's known of the championship is that [[Duran & Johnson]] (then known as "Heather Has Two Oprahs") won it on 7/3/13.
 
 #### Exhibition
 * 6/26/13: [[Pep!]] vs. Private Piles
 
 ### More Information
 * [https://www.facebook.com/ColdTowneCageMatch/photos/a.324774374285012.72006.320334281395688/428400217255760/?type=1&relevant_count=1 Bracket image] from the facebook group.
-
 
 ## 7/10/13-8/28/13 ("Bit-tle Royale")
 ### Ad Hoc Troupes
