@@ -647,16 +647,16 @@ There is no record of the semifinals of this tournament.
 This tournament included *three* teams in each quarterfinal match, instead of the usual two.
 
 * 9/4/13: Shitload of Bens vs. **[[Glamazon]]** vs. [[Century]]
-* 9/11/13: Kevin Space Jam vs. [[Ctrl Alt Delete]] vs. Skim
+* 9/11/13: Kevin Space Jam vs. **[[Ctrl Alt Delete]]** vs. Skim
 * 9/18/13: Underground Bus vs. Camera Shy vs. The Japanese Adaptation of Happy Hour See What Happens
 * 9/25/13: **[[Three on a Match]]** (then called "Homecoming") vs. Meat Candy vs. Scrimshawshank Redemption
 
 #### Semifinals
-* 10/9/13: [[Glamazon]] vs. ???
+* 10/9/13: [[Glamazon]] vs. **[[Ctrl Alt Delete]]**
 * 10/16/13: **[[Three on a Match]]** vs. ???
 
 #### Championship
-* 10/23/13: **[[Three on a Match]]** vs. ???
+* 10/23/13: **[[Three on a Match]]** vs. [[Ctrl Alt Delete]]
 
 ## 11/6/13-3/1/14 ("ColdTowne Showdown")
 In this tournament, ColdTowne Theater participated in a multi-city tournament.
