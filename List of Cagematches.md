@@ -627,7 +627,7 @@ There is no record of the semifinals of this tournament.
 * 8/28/13: Mr. President, Please vs. **[[MANDINKA]]**.
 
 
-## 9/25/13-10/23/13
+## 9/4/13-10/23/13
 ### Ad Hoc Troupes
 * Camera Shy
 * The Japanese Adaptation of Happy Hour See What Happens: [[Lisa Jackson]], [[Meredith Mae Roberts]], and several other women
