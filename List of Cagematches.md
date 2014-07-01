@@ -539,6 +539,9 @@ There are no records of a Cagematch in this period, but it seems logical that th
 ### Exhibition
 * 1/2/13: [[Lucy]] vs. Bangs vs. Tall, Dark, and Handsome
 
+### More Information
+* [http://forum.austinimprov.com/viewtopic.php?t=14437 Request for troupes for the 1/2/13 match] on [[The Austin Improv Forums]].
+
 ## 1/23/13-3/13/13 ("Pourin' Like an Avalanche Comin' Down the Mountain")
 ### Ad Hoc Troupes
 * Hyena: [[Joshua Phillips]], [[Byron Brown]]
