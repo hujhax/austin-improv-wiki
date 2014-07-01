@@ -480,15 +480,15 @@ There are no records of a Cagematch in this period, but it seems logical that th
 #### Quarterfinals
 * 9/12/12: [[Raney Nights|Raney Nights Improv]] vs. **[[Phil]]**
 * 9/19/12: Graduate Grudgematch Carrots vs. **Somethin' Good**
-* 9/25/12: **[[The Golden Age]]** vs. [[Youth Group Improv|The First UMC of Plano Youth Group]]
+* 9/25/12: **[[Golden Age]]** vs. [[Youth Group Improv|The First UMC of Plano Youth Group]]
 * 10/3/12: Three Blondes vs. **[[Watergate]]**
 
 #### Semifinals
 * 10/10/12: [[Phil]] vs. **Somethin' Good**
-* 10/17/12: **[[The Golden Age]]** vs. [[Watergate]]
+* 10/17/12: **[[Golden Age]]** vs. [[Watergate]]
 
 #### Championship
-* 10/24/12: **[[The Golden Age]]** vs. Somethin' Good
+* 10/24/12: **[[Golden Age]]** vs. Somethin' Good
 
 #### Exhibition
 * 9/5/12: Sococonuts vs. Reality (tie)
@@ -496,7 +496,6 @@ There are no records of a Cagematch in this period, but it seems logical that th
 ### More Information
 * [http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/324774377618345/?type=1&relevant_count=1 Bracket graphic] from the Cagematch facebook group.
 * [http://forum.austinimprov.com/viewtopic.php?t=13990&p=124676 Tournament announcement] on [[The Austin Improv Forums]].
-
 
 ## 10/31/12-12/19/12 ("Death & Taxes")
 ### Ad Hoc Troupes
