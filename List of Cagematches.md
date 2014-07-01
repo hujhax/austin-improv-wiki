@@ -476,6 +476,11 @@ There are no records of a Cagematch in this period, but it seems logical that th
 
 ## 9/5/12-10/24/12 ("Hog Wild")
 ### Ad Hoc Troupes
+* Reality
+* Somethin' Good
+* Three Blondes
+* Sococonuts
+
 ### Matches
 #### Quarterfinals
 * 9/12/12: [[Raney Nights|Raney Nights Improv]] vs. **[[Phil]]**
