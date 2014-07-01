@@ -648,7 +648,6 @@ This tournament included *three* teams in each quarterfinal match, instead of th
 * 9/25/13: **[[Three on a Match]]** (then called "Homecoming") vs. Meat Candy vs. Scrimshawshank Redemption
 
 #### Semifinals
-All that's known about the semi-finals is that they were on 10/9/13 and 10/16/13.
 * 10/9/13: [[Glamazon]] vs. ???
 * 10/16/13: **[[Three on a Match]]** vs. ???
 
