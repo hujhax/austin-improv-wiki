@@ -300,7 +300,7 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 * [http://forum.austinimprov.com/viewtopic.php?t=11386 Registration announcement] on [[The Austin Improv Forums]].
 
 
-## 3/6/10-4/24/10 ("Frank Herbert's Dune")
+## 3/6/10-4/23/10 ("Frank Herbert's Dune")
 ### Ad Hoc Troupes
 * The Adorables: [[Kristin Henn]], [[Jessica Arjet]], [[Cody Melcher]]
 * Bless This Mess: [[Liz Butler]], [[Matt Derman]], [[Steve Donovan]], [[Chaz Formichella]], [[Jen Kaplan]], [[Matt Luke]], [[Jon Simmons]], [[Patricia Tate]], [[Sam VanMetre]], [[Alida Villatoro]]
@@ -318,11 +318,11 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 * 4/3/10: The Jackson May Experience vs. Sausage Party
 
 #### Semifinals
-* Match 1: My Two Dads vs. **Bless This Mess**
-* Match 2: Unknown.
+* 4/10/10: My Two Dads vs. **Bless This Mess**
+* 4/17/10: Unknown.
 
 #### Championship
-Bless This Mess won the championship, but no further information is known.
+* 4/23/10: **[[Bless This Mess]]** vs. ???
 
 #### Exhibition
 * 3/20/10: [[Achatina Achatina]] vs. Death Comet 300
