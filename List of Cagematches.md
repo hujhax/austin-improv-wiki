@@ -175,7 +175,7 @@ Only the last match of the quarterfinals is known:
 * 4/4/09: **Fuck You!** vs. [[RedRover]]
 
 #### Semifinals
-* 4/11/09: [[Rise and Shine]] vs. **[[Twelve Inch Integrity]]**
+* 4/11/09: [[Rise & Shine]] vs. **[[Twelve Inch Integrity]]**
 * 4/18/09: (Ramirez and Gilstrap vs. [[The P Comany!]]) vs. Fuck You!
 
 #### Championship
