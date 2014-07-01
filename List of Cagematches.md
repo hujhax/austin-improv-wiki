@@ -54,6 +54,36 @@ There are no more known matches for 2006.
 ### 2007
 There are no known "King of the Hill" matches for 2007.
 
+## 5/4/07-6/22/07 ("Blood Initiation")
+### Ad Hoc Troupes
+* JaMiGe
+
+### Matches
+#### Quarterfinals
+* 5/4/07: **[[Look Cookie]]** vs. unknown troupe
+** [[Eric Seufert]] put out repeated requests for a second team to compete against look cookie.  As of 5/1/07, no team had offered to take on [[Look Cookie]].
+* 5/11/07: **[[A Bride Soon]]** vs. JaMiGe
+* 5/18/07: **[[The Starter Kit]]** vs. [[Suspicious Package]]
+* 5/25/07: [[Firth & Arjet]] vs. The Great Toad & Chameleon Circus
+** This match resulted in a tie -- no audience members showed up to vote -- so the teams joined forces for the semifinals.
+
+#### Semifinals
+* 5/31/07: **[[The Starter Kit]]** vs. [[Look Cookie]]
+* 6/9/07: **[[A Bride Soon]]** vs. [[Firth & Arjet]] + The Great Toad & Chameleon Circus
+
+#### Championship
+* 6/22/07: **[[The Starter Kit]]** vs. [[A Bride Soon]]
+
+### More Information
+* [http://forum.austinimprov.com/viewtopic.php?f=6&t=3594&p=28896&hilit=seufert#p28896 Request for a second team for the 5/4/07 show.]
+* [http://youtu.be/sFxqW1-4gtA Video promo for the tournament.]
+
+## Jun-Jul 2007
+There are no records of a tournament for June/July 2007, but timing indicates that there must have been one.
+
+## Aug-Sep 2007
+There are no records of a tournament for June/July 2007, but timing indicates that there must have been one.
+
 ## 10/25/07-1/31/08 ("Nightmare Forest")
 ### Ad Hoc Troupes
 * Chris & Kaci: [[Chris Trew]] & [[Kaci Beeler]].
