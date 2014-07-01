@@ -171,7 +171,8 @@ There is no known information about further tournaments in 2008, but the six-mon
 
 ### Matches
 #### Quarterfinals
-Only the last match of the quarterfinals is known:
+* 3/7/09: [[Rise & Shine]] vs. ???
+** This was [[Rise & Shine]]'s first show, and featured [[John Ratliff]] as the guest celebrity.
 * 4/4/09: **Fuck You!** vs. [[RedRover]]
 
 #### Semifinals
