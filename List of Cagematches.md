@@ -55,6 +55,8 @@ There are no more known matches for 2006.
 There are no known "King of the Hill" matches for 2007.
 
 ## 5/4/07-6/22/07 ("Blood Initiation")
+This was the very first Cagematch tournament.
+
 ### Ad Hoc Troupes
 * JaMiGe
 
