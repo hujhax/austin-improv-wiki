@@ -384,7 +384,7 @@ Nothing is known of this tournament besides that "Stabby Jake" were the winners.
 * Be Prepared: [[Arthur Simone]], [[Jericho Thorp]], [[Kyle Sweeney]]
 * The British Knights: [[Stephanie Russo]], [[Katie Sicking]], [[Brad Temple]], [[Ed Reed]], [[Danny Catlow]], [[Jericho Thorp]]
 * Dixon McCracken: [[Joel Keith and Nicole McCracken]]
-* Fall Then Smirk: [[Brent Foshee]], [[Kate Bojanik]], [[Sam Malcolm]], [[Brett Tribe]], [[Ann Potter]]
+* Fall Then Smirk: [[Brent Foshee]], [[Kate Bojanek]], [[Sam Malcolm]], [[Brett Tribe]], [[Ann Potter]]
 * The Mexican Free-Tailed Bat: [[Ann Potter]], [[Ashley Franks]], [[Joshua Philips]], [[Sam Malcolm]], [[Lacy Cox]], [[Ed Reed]], [[Andy O'Meara]]
 * Sons of Tiny Dinosaurs: [[Sam Van Metre]], [[Adam Trabka]], [[Ed Reed]], [[Chaz Formichella]], [[Matt Derman]], [[Joel Usher]]
 
