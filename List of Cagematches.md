@@ -322,7 +322,7 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 * 4/17/10: Unknown.
 
 #### Championship
-* 4/23/10: **[[Bless This Mess]]** vs. ???
+* 4/23/10: **Bless This Mess** vs. ???
 
 #### Exhibition
 * 3/20/10: [[Achatina Achatina]] vs. Death Comet 300
