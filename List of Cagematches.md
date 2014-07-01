@@ -566,7 +566,6 @@ There are no records of a Cagematch in this period, but it seems logical that th
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=14612 Bracket discussion] on [[The Austin Improv Forums]].
 * [http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/378472728915176/?type=1&relevant_count=1 Bracket image] from the facebook group.
-* [http://forum.austinimprov.com/viewtopic.php?t=14437 Request for troupes for the 1/2/13 match] on [[The Austin Improv Forums]].
 
 ## 3/20/13-5/1/13 ("March Madness")
 This tournament featured not two but *three* competing troupes in each quarterfinal.  All the troupes in this tournament were duos.
