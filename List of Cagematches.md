@@ -537,7 +537,7 @@ There are no records of a Cagematch in this period, but it seems logical that th
 * Tall, Dark & Handsome: [[Tim Traini]], [[Brett Tribe]], [[Will Casto]]
 
 ### Exhibition
-* 1/2/13: Lucy vs. Bangs vs. Tall, Dark, and Handsome
+* 1/2/13: [[Lucy]] vs. Bangs vs. Tall, Dark, and Handsome
 
 ## 1/23/13-3/13/13 ("Pourin' Like an Avalanche Comin' Down the Mountain")
 ### Ad Hoc Troupes
