@@ -634,7 +634,7 @@ There is no record of the semifinals of this tournament.
 * Kevin Space Jam
 * Meat Candy: Pierce Purselly's level one class.
 * Scrimshawshank Redemption: [[Brendan K. O'Grady]], others
-* Shitload of Bens
+* Shitload of Bears
 * Skim
 * Underground Bus
 
