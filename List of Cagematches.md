@@ -627,31 +627,33 @@ There is no record of the semifinals of this tournament.
 * 8/28/13: Mr. President, Please vs. **[[MANDINKA]]**.
 
 
-## 9/5/13-10/24/13
+## 9/25/13-10/23/13
 ### Ad Hoc Troupes
-* Graduate Grudgematch Carrots
-* Reality
-* Sococonuts
-* Somethin' Good
-* Three Blondes
+* Camera Shy
+* The Japanese Adaptation of Happy Hour See What Happens: [[Lisa Jackson]], [[Meredith Mae Roberts]], and several other women
+* Kevin Space Jam
+* Meat Candy: Pierce Purselly's level one class.
+* Scrimshawshank Redemption: [[Brendan K. O'Grady]], others
+* Shitload of Bens
+* Skim
+* Underground Bus
 
 ### Matches
 #### Quarterfinals
-* 9/12/13: [[Rainey Nights]] vs. [[Phil]]
-* 9/19/13: Graduate Grudgematch Carrots vs. **Somethin' Good**
-* 9/26/13: **[[The Golden Age]]** vs. [[Youth Group Improv]]
-* 10/3/13: Three Blondes vs. [[Watergate]]
+This tournament included *three* teams in each quarterfinal match, instead of the usual two.
+
+* 9/4/13: Shitload of Bens vs. **[[Glamazon]]** vs. [[Century]]
+* 9/11/13: Kevin Space Jam vs. [[Ctrl-Alt-Del]] vs. Skim
+* 9/18/13: Underground Bus vs. Camera Shy vs. The Japanese Adaptation of Happy Hour See What Happens
+* 9/25/13: **[[Three on a Match]]** (then called "Homecoming") vs. Meat Candy vs. Scrimshawshank Redemption
 
 #### Semifinals
-All that's known about the semi-finals is that they were on 10/10/13 and 10/17/13.
+All that's known about the semi-finals is that they were on 10/9/13 and 10/16/13.
+* 10/9/13: [[Glamazon]] vs. ???
+* 10/16/13: **[[Three on a Match]]** vs. ???
 
 #### Championship
-* 10/24/13: Somethin' Good vs. [[The Golden Age]]
-
-The winner is unknown.  The 2x4 lists a 10/23/13 winner as [[Three on a Match]], but this contradicts daily show records.
-
-#### Exhibition
-* 9/5/13: Sococonuts vs. Reality
+* 10/23/13: **[[Three on a Match]]** vs. ???
 
 ## 11/6/13-3/1/14 ("ColdTowne Showdown")
 In this tournament, ColdTowne Theater participated in a multi-city tournament.
