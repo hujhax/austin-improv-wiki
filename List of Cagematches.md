@@ -396,7 +396,8 @@ Nothing is known of this tournament besides that "Stabby Jake" were the winners.
 * 6/4/11: [[Hot Property]] vs. Be Prepared
 
 #### Semifinals
-The semifinals were held on 6/11/11 and 6/18/11.  Nothing else is known.
+* 6/11/11: **The British Knights** vs. ???
+* 6/18/11: **[[Who Dack]]** vs. ???
 
 #### Championship
 * 6/25/11: [[Who Dack]] vs. **The British Knights**
@@ -404,7 +405,6 @@ The semifinals were held on 6/11/11 and 6/18/11.  Nothing else is known.
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=11869 Thread about the tournament] on [[The Austin Improv Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?t=12012 Championship announcement] on [[The Austin Improv Forums]].
-
 
 ## 7/2/11-8/27/11
 All that's known of this tournament is the set of show dates.
