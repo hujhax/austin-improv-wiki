@@ -108,7 +108,7 @@ There are no more known matches for this tournament.
 * [http://forum.austinimprov.com/viewtopic.php?p=44492 Bracket discussion] on [[The Austin Improv Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?p=51162 Semifinal announcement] on [[The Austin Improv Forums]].
 
-## 2/28/08-5/8/08 ("Legacy of Shame")
+## 2/28/08-5/22/08 ("Legacy of Shame")
 ### Ad Hoc Troupes
 * Bail
 * Fort Knox: [[Madeline Malka]], [[Eric Heiberg]], [[Ceej Allen]], "Al", "Jeff", and [[Erik Adams]].
@@ -124,10 +124,14 @@ There are no more known matches for this tournament.
 #### Quarterfinals
 * 2/28/08: **[[Murphy]]** vs. Lo Mismo vs. Bail
 * 2/22/08: Ovula vs. Splatter vs. Jocks and Nerds
-* 2/27/08: [[Dick Rambuck]] vs. Relentless 4 vs. [[Snackers]]
-* 4/10/08: Twisted Knickers vs. Pom Pom Sisterhood vs. Fort Knox 
+* 2/27/08: **[[Dick Rambuck]]** vs. Relentless 4 vs. [[Snackers]]
+* 4/10/08: Twisted Knickers vs. Pom Pom Sisterhood vs. Fort Knox
 
-(Subseuqent rounds of the tournament are unknown.)
+#### Semifinals
+Nothing is known about this tournament's semifinals.
+
+#### Championship
+* 5/22/08: **[[Dick Rambuck]]** vs. ???
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=6271&p=54335 Bracket discussion] on [[The Austin Improv Forums]].
