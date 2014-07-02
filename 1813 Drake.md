@@ -16,4 +16,4 @@ They performed regularly in shows at the Hideout Theatre and occasionally ColdTo
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+[[Category/Inactive|Category:Inactive]]
