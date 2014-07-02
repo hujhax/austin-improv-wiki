@@ -31,7 +31,7 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 ## Shows
 * *[[The Big Bash]]*
 * *[[Boys of Summer]]*
-* [['Campfire Songs']]
+* *[[Campfire Songs]]*
 * *[[Crack]]*
 * *[[The Fancy-Pants Mashup]]*
 * *[[Gorilla Improv]]*  (w/ Greg Proops, Jill Bernard, Jeremy Lamb & Shana Merlin)
