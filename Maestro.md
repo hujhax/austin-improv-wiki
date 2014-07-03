@@ -37,7 +37,7 @@ Once a month, as part of *[[The Wheel]]*, The Hideout puts on *[[Maestro Raw]]*,
 ## Notable Moments in Maestro History
 On May 18, 2002, an audience member was selected to fill a gap in the Maestro cast and won.<ref>http://www.heroescomedy.com/shows/micetro/images/2002-051802_micetro_win_audience.jpg</ref>
 
-In 2002 or 2003, Maestro played for an audience of two—a couple on a date, the only people who bought tickets. During the second round [[Sean Hill]] played [http://www.ehow.com/video_4949483_improv-twin-pillars.html Twin Pillars], meaning that the scene was played for an empty house.
+In 2002 or 2003, Maestro played for an audience of two—a couple on a date, the only people who bought tickets. During the second round [[Sean Hill]] directed [http://www.ehow.com/video_4949483_improv-twin-pillars.html Twin Pillars], meaning that the scene was played for an empty house.
 
 On December 1, 2007, a special "Maestro of Maestros" was performed, directed by [[Shana Merlin]] and [[Andy Crouch]], and containing a cast of only previous Maestro winners. [[Bryan 'Lubu' Roberts]] eventually won the title, defeating [[Dav Wallace]] in the final round. He now waits for a worthy cast of challengers.
 
