@@ -17,7 +17,7 @@ In addition to their regular two-person format, Franz & Dave have played a numbe
 ## Format
 Franz & Dave's usual format has the characters of Kafka and Lynch collaborating on a "movie" based on the audience's suggestion (typically a dull or menial occupation, ala Kafka). The characters begin by scene painting, then break into and out of scenes from the "movie" as desired.
 
-In [[The 44-Hour Improv Marathon]], the duo introduced "Pine Falls", an improvised take on *[http://en.wikipedia.org/wiki/Twin_Peaks Twin Peaks]*
+In [[The 44-Hour Improv Marathon]], the duo introduced "Pine Falls", an improvised take on *[http://en.wikipedia.org/wiki/Twin_Peaks Twin Peaks]* which allowed them to incorporate additional players into their show. That format was revived in [[The 45-Hour Improv Marathon]] as well.
 
 ## Media
 ### Videos
