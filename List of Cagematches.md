@@ -167,24 +167,19 @@ Nothing is known about the other two quarterfinals.
 ## 5/2/09-6/27/09 ("Slash of the Talons!")
 ### Ad Hoc Troupes
 * Blokes with Jokes: This is described as "straight in from London, [[Eric Seufert]] and friends".
-* DJ Dubb and the Tripspinnaz: Shorty Bodega ([[Patrick Daniel]]), Dj Dubb ([[Brandt Pileggi]]), El Chiba Masta Cruel ([[Brian Engravalle]]), Lil' One Eye ([[Elizabeth Brammer]])
-* LadyForms: [[Kerri Atwood]], [[Brent Foshee]], [[Kyle Sweeney]], [[Josh Krilov]], [[Jennifer Micallef]], [[Anthony Norton]], [[Chris Baldenhofer]]
-* Lifeboat: [[Jenny Carlson]], [[Gene Joe]], [[Beth Lebwohl]], [[Delaney Liming]], [[Bryan 'Lubu' Roberts]], [[Arthur Simone]], [[Drew Wesely]] 
-* The People's Army: [[Alex Baia]], [[Mike Faerber]], [[Rick Heineman]], [[Nathan Livni]], [[Nicole McCracken]], [[Christie Stevenson]]
-* Idiot Box (AKA "PhotoRealism"): [[Nick Ramirez]], [[Lisa Jackson,]] [[Katie Sicking]]
 
 ### Matches
 #### Quarterfinals
-* 5/2/09: The People's Army vs. **[[The Love Notes]]** (19-18)
-* 5/9/09: DJ Dubb and the Tripspinnaz vs. **[[Baby Kick Baby]]**
+* 5/2/09: [[The People's Army]] vs. **[[The Love Notes]]** (19-18)
+* 5/9/09: [[DJ Dubb and the Tripspinnaz]] vs. **[[Baby Kick Baby]]**
 * 5/16/09: [[J-K]] vs. **[[LadyForms]]**
-* 5/23/09: **Lifeboat** vs. Idiot Box
+* 5/23/09: **[[Lifeboat]]** vs. [[Idiot Box]]
  
 #### Semifinals
 All that's known of the semifinals is that they were played on 6/6/13 and 6/13/13.  The bracketing thread says that it featured the winner of 5/2 vs. the winner of 5/9, followed by the winner of 5/16 vs. the winner of 5/23, but the resulting championship matchup makes this impossible.
 
 #### Championship
-* 6/20/09: **LadyForms** vs. Lifeboat
+* 6/20/09: **[[LadyForms]]** vs. [[Lifeboat]]
 
 #### Exhibition
 * 5/30/09: Blokes with Jokes vs. [[No Chaser]]
