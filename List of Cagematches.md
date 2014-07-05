@@ -128,26 +128,19 @@ There are no more known matches for this tournament.
 There is no known information about further tournaments in 2008, but the six-month gap in the record suggests that three complete tournaments took place before the end of the year.
 
 ## 1/2/09-2/27/09 ("Theater of Cruelty")
-### Ad Hoc Troupes
-* Drinkies Galore: [[Topping Haggerty]], [[Dario Konjicija]], [[Jessica Arjet]]
-* The Fancy Saucers: [[Kristen Henn]], [[Ed Melendez]], [[Wes gandy]], [[Kate Bojanek]], [[Frank Netscher]], [[Ethan Love]], [[Shea Scott]], [[Josh Gill]]
-* La Ronde: [[Josh Gill]], [[Mike Faerber]], [[Chris Baldenhofer]], [[Alex Baia]], [[John Ratliff]], [[Leah Moss]], [[Nathan Livni]], [[Josh Krilov]], [[Tej Ludher]], [[Justin York]]
-* The Milkmen: [[Lance Gilstrap]], [[Nick Rameriz]], [[Michael Jastroch]], [[Jericho Thorp]], [[Michael WIlliams]]
-* Uncle Dan: [[David Hess]], [[Josh Krilov]], [[Sandra Markarian]], [[Stephanie Russo]]
- 
 ### Matches
 #### Quarterfinals
-* 1/2/09: **The MilkMen** vs. The Fancy Saucers
+* 1/2/09: **[[The MilkMen]]** vs. [[The Fancy Saucers]]
 * 1/16/09: **[[Your Dad's Friends]]** vs. [[Nice Astronaut]]
-* 1/23/09: **La Ronde** vs. Drinkies Galore
-* 1/30/09: **Uncle Dan** vs. [[Gerbobble]]
+* 1/23/09: **[[La Ronde]]** vs. [[Drinkies Galore]]
+* 1/30/09: **[[Uncle Dan]]** vs. [[Gerrbobble]]
 
 #### Semifinals
-* 2/6/09: The MilkMen vs. **[[Your Dad's Friends]]**
-* 2/13/09: La Ronde vs. **Uncle Dan**
+* 2/6/09: [[The MilkMen]] vs. **[[Your Dad's Friends]]**
+* 2/13/09: [[La Ronde]] vs. **Uncle Dan**
 
 #### Championship
-* 2/27/09: **[[Your Dad's Friends]]** vs. Uncle Dan
+* 2/27/09: **[[Your Dad's Friends]]** vs. [[Uncle Dan]]
 
 ### More Information
 * [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Theater%20of%20Cruelty Online bracket info.]
