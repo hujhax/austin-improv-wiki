@@ -166,12 +166,12 @@ Nothing is known about the other two quarterfinals.
 
 ## 5/2/09-6/27/09 ("Slash of the Talons!")
 ### Ad Hoc Troupes
-* Blokes with Jokes
+* Blokes with Jokes: This is described as "straight in from London, [[Eric Seufert]] and friends".
 * DJ Dubb and the Tripspinnaz: Shorty Bodega ([[Patrick Daniel]]), Dj Dubb ([[Brandt Pileggi]]), El Chiba Masta Cruel ([[Brian Engravalle]]), Lil' One Eye ([[Elizabeth Brammer]])
 * LadyForms: [[Kerri Atwood]], [[Brent Foshee]], [[Kyle Sweeney]], [[Josh Krilov]], [[Jennifer Micallef]], [[Anthony Norton]], [[Chris Baldenhofer]]
 * Lifeboat: [[Jenny Carlson]], [[Gene Joe]], [[Beth Lebwohl]], [[Delaney Liming]], [[Bryan 'Lubu' Roberts]], [[Arthur Simone]], [[Drew Wesely]] 
 * The People's Army: [[Alex Baia]], [[Mike Faerber]], [[Rick Heineman]], [[Nathan Livni]], [[Nicole McCracken]], [[Christie Stevenson]]
-* Idiot Box (AKA "PhotoRealism"): [[Nick Ramirez]], [[Lisa Jackson,]] [[Katie Sicking]] 
+* Idiot Box (AKA "PhotoRealism"): [[Nick Ramirez]], [[Lisa Jackson,]] [[Katie Sicking]]
 
 ### Matches
 #### Quarterfinals
