@@ -356,8 +356,32 @@ This tournament featured the champions of previous tournaments.
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=92980 Thread about the tournament] on [[The Austin Improv Forums]].
 
-## 7/3/10-8/28/10
-All that's known about this tournament are the show dates.
+## 7/3/10-9/11/10
+### Ad Hoc Troupes
+* Dragons?: [[Particia Tate]], [[Sam Van Metre]], [[Lacy Cox]], [[Jessica Hamilton]], [[Katie Sicking]], [[Danny Catlow]], [[Ed Reed]]
+* Dudeprov: [[John Chakales]], [[Sam Malcolm]], [[Ben McVey]], [[Andy O'Meara]], [[Joshua Philips]], [[Ed Reed]]
+* The Duke Harbinsons: [[Nick Ramirez]], [[Lance Gilstrap]], [[Emma Holder]], [[Katie Sicking]]
+* Mixed Dinks: [[Lisa Jackson]], [[Teresa Kubos]], [[Jon Bolden]], [[Bob McNichol]], [[Erika May-McNichol]], [[Cortnie Jones]], [[Joshua Gill]]
+* Southern Hospitality's Cardboard Coffin: [[Meredith Newell]], [[Frank Willmore]], [[Melanie DeMarinis]], [[Lizzi Leslie]], [[Sandra Ybarra]], [[Gene Joe]], [[Kim Gottschalk]], [[Jenny Carlson]], [[Collin Cannaday]]
+
+### Matches
+#### Quarterfinals
+* 7/10/10: [[Shades of Brown]] vs. [[Elevator Action]]
+* 7/17/10: Mixed Drinks vs. The Duke Harbisons
+* 7/24/10: [[The Dancy Street D'Orchestra]] vs. **[[Bad Boys]]**
+* 8/7/10: Southern Hospitality's Cardboard Coffin vs. [[Secret Senate]]
+
+#### Semifinals
+* 8/14/10: **[[Shades of Brown]]** vs. ???
+* 8/21/10: **[[Bad Boys]]** vs. ???
+
+#### Championship
+* 9/11/10: **[[Bad Boys]]** vs. [[Shades of Brown]]
+** This match was settled via a dance-off after a tie vote.
+
+#### Exhibitions
+* 7/3/10: Dragons? vs. Dudeprov
+* 7/31/10: [[Blink]] vs. [[Discomfort Trumpet]]
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=10817 Registration announcment] on [[The Austin Improv Forums]].
