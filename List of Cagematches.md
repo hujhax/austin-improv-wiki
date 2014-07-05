@@ -152,9 +152,11 @@ There is no known information about further tournaments in 2008, but the six-mon
 ** This was [[Rise & Shine]]'s first show, and featured [[John Ratliff]] as the guest celebrity.
 * 4/4/09: **[[Fuck You!]]** vs. [[RedRover]]
 
+Nothing is known about the other two quarterfinals.
+
 #### Semifinals
 * 4/11/09: [[Rise & Shine]] vs. **[[Twelve Inch Integrity]]**
-* 4/18/09: ([[Ramirez and Gilstrap]] vs. [[The P Comany!]]) vs. [[Fuck You!]]
+* 4/18/09: [[Ramirez and Gilstrap]] vs. [[The P Comany!]] vs. [[Fuck You!]]
 
 #### Championship
 * 4/25/09: **[[Twelve Inch Integrity]]** vs. ???
