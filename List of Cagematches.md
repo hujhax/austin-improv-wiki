@@ -7,7 +7,7 @@ Through this stretch of time, *The Cagematch* was not a bracketed tournament.  I
 
 ### 2005
 #### Ad Hoc Troupes
-* The Science Geeks
+* The Science Geeks: [[Wesley Bain]], other players
 * Kevin [in honor of a fallen comrade]
 
 #### Matches
