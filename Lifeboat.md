@@ -7,6 +7,6 @@
 **Lifeboat** was a one-off *[[Cagematch]]* team.
 
 ## History
-They on a "Slash of the Talons" Cagematch quarterfinal on 5/23/09.
+They won a "Slash of the Talons" Cagematch quarterfinal on 5/23/09.
 
 [[Category/Troupes|Category:Troupes]]
