@@ -39,7 +39,7 @@ There are no records of the two Cagematches before 11/18/05.
 * 2/17/06 - **[[You Me & Greg]]** vs. [[Sui Generis]] (YM&G win 22-8) 
 * 2/24/06 - **[[You Me & Greg]]** vs. [[Paul Bunyan]] (YM&G win 33-6) 
 * 3/3/06 - **[[You Me & Greg]]** vs. Get Down (YM&G win 34-4) 
-* 3/10/06 - **[[You Me & Greg]]** vs. [[Clown Fart Glasses]] (YM&G win 44-7) 
+* 3/10/06 - **[[You Me & Greg]]** vs. [[Fart Clown Glasses]] (YM&G win 44-7) 
 * 3/17/06 - **[[You Me & Greg]]** vs. [[1813 Drake]] (YM&G win 10-3) 
 * 3/24/06 - **[[You Me & Greg]]** vs. Trash Can Boys (YM&G win 7-5) 
 * 3/31/06 - **[[You Me & Greg]]** vs. [[I Am a Coat Rack, I Am a Lamp]] (YM&G win 21-7) 
