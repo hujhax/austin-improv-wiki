@@ -118,7 +118,9 @@ There are no more known matches for this tournament.
 * 4/10/08: Twisted Knickers vs. Pom Pom Sisterhood vs. Fort Knox
 
 #### Semifinals
-Nothing is known about this tournament's semifinals.
+* 4/24/08: [[Murphy]] vs. Ovula vs. **Jocks and Nerds**
+
+No other semifinals are known.
 
 #### Championship
 * 5/22/08: **[[Dick Rambuck]]** vs. Jocks and Nerds
