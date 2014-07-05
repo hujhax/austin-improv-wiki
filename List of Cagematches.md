@@ -101,29 +101,24 @@ There are no more known matches for this tournament.
 ## 2/28/08-5/22/08 ("Legacy of Shame")
 ### Ad Hoc Troupes
 * Bail
-* Fort Knox: [[Madeline Malka]], [[Eric Heiberg]], [[Ceej Allen]], "Al", "Jeff", and [[Erik Adams]].
-* Jocks and Nerds
-* Lo Mismo: [[Tami Nelson]] and [[Justin York]].
 * Ovula
-* Pom Pom Sisterhood 
 * Relentless 4
 * Splatter
-* Twisted Knickers: [[Jason Vines]], [[Erin Molson]], [[Mo Daviau]], [[Kacey Samiee]], and [[Audrey Rachel Sansom]].
 
 ### Matches
 #### Quarterfinals
-* 2/28/08: **[[Murphy]]** vs. Lo Mismo vs. Bail
-* 2/22/08: Ovula vs. Splatter vs. **Jocks and Nerds**
+* 2/28/08: **[[Murphy]]** vs. [[Lo Mismo]] vs. Bail
+* 2/22/08: Ovula vs. Splatter vs. **[[Jocks and Nerds]]**
 * 2/27/08: **[[Dick Rambuck]]** vs. Relentless 4 vs. [[Snackers]]
-* 4/10/08: Twisted Knickers vs. Pom Pom Sisterhood vs. Fort Knox
+* 4/10/08: [[Twisted Knickers]] vs. [[Pom-Pom Sisterhood]] vs. [[Fort Knox]]
 
 #### Semifinals
-* 4/24/08: [[Murphy]] vs. Ovula vs. **Jocks and Nerds**
+* 4/24/08: [[Murphy]] vs. Ovula vs. **[[Jocks and Nerds]]**
 
-No other semifinals are known.
+[[Dick Rambuck]] won the other semifinal, but nothing else is known about it.
 
 #### Championship
-* 5/22/08: **[[Dick Rambuck]]** vs. Jocks and Nerds
+* 5/22/08: **[[Dick Rambuck]]** vs. [[Jocks and Nerds]]
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=6271&p=54335 Bracket discussion] on [[The Austin Improv Forums]].
