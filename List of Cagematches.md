@@ -113,7 +113,7 @@ There are no more known matches for this tournament.
 ### Matches
 #### Quarterfinals
 * 2/28/08: **[[Murphy]]** vs. Lo Mismo vs. Bail
-* 2/22/08: Ovula vs. Splatter vs. Jocks and Nerds
+* 2/22/08: Ovula vs. Splatter vs. **Jocks and Nerds**
 * 2/27/08: **[[Dick Rambuck]]** vs. Relentless 4 vs. [[Snackers]]
 * 4/10/08: Twisted Knickers vs. Pom Pom Sisterhood vs. Fort Knox
 
@@ -121,10 +121,11 @@ There are no more known matches for this tournament.
 Nothing is known about this tournament's semifinals.
 
 #### Championship
-* 5/22/08: **[[Dick Rambuck]]** vs. ???
+* 5/22/08: **[[Dick Rambuck]]** vs. Jocks and Nerds
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=6271&p=54335 Bracket discussion] on [[The Austin Improv Forums]].
+* [http://forum.austinimprov.com/viewtopic.php?t=6914 Championship announcement] on [[The Austin Improv Forums]].
 
 ## Late-2008 Tournaments
 There is no known information about further tournaments in 2008, but the six-month gap in the record suggests that three complete tournaments took place before the end of the year.
