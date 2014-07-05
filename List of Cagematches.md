@@ -60,7 +60,7 @@ This was the very first Cagematch tournament.
 #### Quarterfinals
 * 5/4/07: **[[Look Cookie]]** vs. unknown troupe
 ** [[Eric Seufert]] put out repeated requests for a second team to compete against look cookie.  As of 5/1/07, no team had offered to take on [[Look Cookie]].
-* 5/11/07: **[[A Bride Soon]]** vs. JaMiGe
+* 5/11/07: **[[A Bride Soon]]** vs. [[JaMiGe]]
 * 5/18/07: **[[The Starter Kit]]** vs. [[Suspicious Package]]
 * 5/25/07: [[Firth & Arjet]] vs. The Great Toad & Chameleon Circus
 ** This match resulted in a tie -- no audience members showed up to vote -- so the teams joined forces for the semifinals.
