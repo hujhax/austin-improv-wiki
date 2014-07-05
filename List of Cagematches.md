@@ -137,7 +137,7 @@ There is no known information about further tournaments in 2008, but the six-mon
 
 #### Semifinals
 * 2/6/09: [[The MilkMen]] vs. **[[Your Dad's Friends]]**
-* 2/13/09: [[La Ronde]] vs. **Uncle Dan**
+* 2/13/09: [[La Ronde]] vs. **[[Uncle Dan]]**
 
 #### Championship
 * 2/27/09: **[[Your Dad's Friends]]** vs. [[Uncle Dan]]
