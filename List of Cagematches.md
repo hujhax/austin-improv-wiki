@@ -54,7 +54,7 @@ There are no known "King of the Hill" matches for 2007.
 This was the very first Cagematch tournament.
 
 ### Ad Hoc Troupes
-* JaMiGe
+* The Great Toad & Chameleon Circus
 
 ### Matches
 #### Quarterfinals
