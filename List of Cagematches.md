@@ -367,11 +367,11 @@ Through this section of its history, the show reverted to their "King of the Hil
 
 ### Ad Hoc Troupes
 * Hey Girl!: [[Chaz Formichella]], [[Patricia Tate]], [[Sam Van Metre]]
-* Dragos?: [[Lacy Cox]], [[Ed Reed]], [[Patricia Tate]], [[San van Metre]], [[Katie Sicking]], [[Jessica Hamilton]], [[Danny Catlow]], [[Michael Williams]] 
+* Dragons?: [[Lacy Cox]], [[Ed Reed]], [[Patricia Tate]], [[San van Metre]], [[Katie Sicking]], [[Jessica Hamilton]], [[Danny Catlow]], [[Michael Williams]] 
 
 ### Matches
 * 9/18/10: **[[Jorak and Jorak Do Movie]]** vs. Hey Girl!
-* 9/25/10: [[Jorak and Jorak Do Movie]] vs. Dragos?
+* 9/25/10: [[Jorak and Jorak Do Movie]] vs. Dragons?
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=97418 Format-change announcement] on [[The Austin Improv Forums]].
