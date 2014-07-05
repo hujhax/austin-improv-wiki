@@ -53,21 +53,20 @@ There are no known "King of the Hill" matches for 2007.
 ## 5/4/07-6/22/07 ("Blood Initiation")
 This was the very first Cagematch tournament.
 
-### Ad Hoc Troupes
-* The Great Toad & Chameleon Circus
-
 ### Matches
 #### Quarterfinals
 * 5/4/07: **[[Look Cookie]]** vs. unknown troupe
 ** [[Eric Seufert]] put out repeated requests for a second team to compete against look cookie.  As of 5/1/07, no team had offered to take on [[Look Cookie]].
 * 5/11/07: **[[A Bride Soon]]** vs. [[JaMiGe]]
 * 5/18/07: **[[The Starter Kit]]** vs. [[Suspicious Package]]
-* 5/25/07: [[Firth & Arjet]] vs. The Great Toad & Chameleon Circus
+* 5/25/07: [[Firth & Arjet]] vs. [[The Great Toad & Chameleon Circus]]
 ** This match resulted in a tie -- no audience members showed up to vote -- so the teams joined forces for the semifinals.
 
 #### Semifinals
 * 5/31/07: **[[The Starter Kit]]** vs. [[Look Cookie]]
-* 6/9/07: **[[A Bride Soon]]** vs. [[Firth & Arjet]] + The Great Toad & Chameleon Circus
+* 6/9/07: **[[A Bride Soon]]** vs. [[Firth & Arjet]] + [[The Great Toad & Chameleon Circus]]
+** [[Cody Dearing]] hosted this match as "future Cody", complete with a pair of glowing sunglasses.
+** [[Firth & Arjet]] and [[The Great Toad & Chameleon Circus]] lost this match in spite of bribing the audience with donuts.
 
 #### Championship
 * 6/22/07: **[[The Starter Kit]]** vs. [[A Bride Soon]]
