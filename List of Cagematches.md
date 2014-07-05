@@ -161,7 +161,7 @@ There is no known information about further tournaments in 2008, but the six-mon
 * 4/18/09: (Ramirez and Gilstrap vs. [[The P Comany!]]) vs. Fuck You!
 
 #### Championship
-The championship matchup is unknown, but was won by [[Twelve Inch Integrity]].
+* 4/25/09: **[[Twelve Inch Integrity]]** vs. ???
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=8880 Bracket listings] on [[The Austin Improv Forums]].
