@@ -4,7 +4,7 @@
 |Years	=		2010
 }}
 
-**Idiot Box** was an improv troupe.
+**Idiot Box** (formerly **PhotoRealism**) was an improv troupe.
 
 ## Summary
 ### Press Blurb
@@ -12,6 +12,9 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Katie and Lisa improvise scenes with a tv sitting in a wheelchair with Nick's head in real time on the screen</blockquote>
+
+## History
+The troupe lost a [[Cagematch]] on 5/23/09.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
