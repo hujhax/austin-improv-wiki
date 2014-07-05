@@ -27,7 +27,7 @@ There are no records of the two Cagematches before 11/18/05.
 * The Chins
 * Get Down
 * I am a Coat Rack, I am a Lamp
-* Paul Bunyan
+* Paul Bunyan: [[Wesley Bain]], other players
 * Scorpions
 * Short&Sweet
 * Sui Generis
