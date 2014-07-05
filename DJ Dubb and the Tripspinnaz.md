@@ -13,7 +13,6 @@ The cast had the following personas:
 * [[Elizabeth Brammer]]: Lil' One Eye 
 * [[Patrick Daniel]]: Shorty Bodega 
 
-
 ## History
 They played one Cagematch on 5/9/09.
 
