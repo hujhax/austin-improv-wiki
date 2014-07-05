@@ -84,18 +84,12 @@ There are no records of a tournament for June/July 2007, but timing indicates th
 
 ## 10/25/07-1/31/08 ("Nightmare Forest")
 ### Ad Hoc Troupes
-* Chris & Kaci: [[Chris Trew]] & [[Kaci Beeler]].
-* The Halls of Power: [[Roy Janik]], [[Tami Nelson]], "Bob", "Drew the Coldtowne intern", and [[Mike Williams]] explore an institution and the people that control it. 
-* Hard Times: [[Roy Janik]], [[Ann Wilson]], and [[Marc Majcher]].
-* Late Night Lunch Show: You have been invited to join [[Aden Kirschner]], [[Eric A. Garcia]], and [[Will Oakley]] for lunch.
-* Mr. Rather is [[Christopher Orf]] and [[Justin Davis]] teaming up to present the dilemmas of life pitted against the dilemmas of life.
-* Punch: [[Lance Gilstrap]], [[Leah Moss]], and [[John Ratliff]] perform riveting improv scenes inspired by their own misspent lives.
 * The Trainees
 
 ### Matches
-* 12/13/07: Hard Times vs. The Halls of Power vs. Punch
-* 1/10/08: [[Midnight Society]] vs. Late Night Lunch vs. Mr. Rather 
-* 1/12/08: Chris & Kaci vs. The Halls of Power vs. The Trainees
+* 12/13/07: [[Hard Times]] vs. [[The Halls of Power]] vs. [[Punch]]
+* 1/10/08: [[Midnight Society]] vs. [[Late Night Lunch Show]] vs. [[Mr. Rather]] 
+* 1/12/08: [[Chris & Kaci]] vs. [[The Halls of Power]] vs. The Trainees
 
 There are no more known matches for this tournament.
 
