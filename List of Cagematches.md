@@ -27,10 +27,10 @@ There are no records of the two Cagematches before 11/18/05.
 * The Chins
 * Get Down
 * I am a Coat Rack, I am a Lamp
-* Paul Bunyan: [[Wesley Bain]], other players
-* Scorpions
+* Paul Bunyan
+* Scorpions: This was a Houston troupe that included Michael Garcia.
 * Short&Sweet
-* Sui Generis
+* Sui Generis: [[Wesley Bain]], other players
 * Trash Can Boys
 
 #### Matches
