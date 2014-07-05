@@ -146,19 +146,15 @@ There is no known information about further tournaments in 2008, but the six-mon
 * [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Theater%20of%20Cruelty Online bracket info.]
 
 ## 3/14/09-4/25/09 ("Plagues of the Beast")
-### Ad Hoc Troupes
-* Fuck You!: [[Bryan 'Lubu' Roberts]] & [[Erin Molson]]
-* Ramirez and Gilstrap: [[Nick Ramirez]] & [[Lance Gilstrap]]
-
 ### Matches
 #### Quarterfinals
 * 3/7/09: **[[Rise & Shine]]** vs. ???
 ** This was [[Rise & Shine]]'s first show, and featured [[John Ratliff]] as the guest celebrity.
-* 4/4/09: **Fuck You!** vs. [[RedRover]]
+* 4/4/09: **[[Fuck You!]]** vs. [[RedRover]]
 
 #### Semifinals
 * 4/11/09: [[Rise & Shine]] vs. **[[Twelve Inch Integrity]]**
-* 4/18/09: (Ramirez and Gilstrap vs. [[The P Comany!]]) vs. Fuck You!
+* 4/18/09: ([[Ramirez and Gilstrap]] vs. [[The P Comany!]]) vs. [[Fuck You!]]
 
 #### Championship
 * 4/25/09: **[[Twelve Inch Integrity]]** vs. ???
