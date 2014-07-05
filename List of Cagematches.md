@@ -26,27 +26,23 @@ There are no records of the two Cagematches before 11/18/05.
 * Blue Balls
 * The Chins
 * Get Down
-* I am a Coat Rack, I am a Lamp
-* Paul Bunyan
 * Scorpions: This was a Houston troupe that included Michael Garcia.
-* Short&Sweet
-* Sui Generis: [[Wesley Bain]], other players
 * Trash Can Boys
 
 #### Matches
 * 1/6/06 - **[[Available Cupholders]]** vs. [[Foolish Mortals]] (Cupholders win 16-5) 
 * 1/13/06 - **[[Available Cupholders]]** vs. [[1813 Drake]] (Cupholders win 19-4) 
-* 1/20/06 - [[Available Cupholders]] vs. **Short&Sweet** (S&S win 24-23) 
-* 1/27/06 - Short & Sweet vs. **The Chins** (Chins win) 
+* 1/20/06 - [[Available Cupholders]] vs. **[[Short and Sweet]]** (S&S win 24-23) 
+* 1/27/06 - [[Short and Sweet]] vs. **The Chins** (Chins win) 
 * 2/3/06 - **The Chins** vs. Blue Balls (The Chins win 17-2) 
 * 2/10/06 - The Chins vs. **[[You Me & Greg]]** (YM&G win 16-3) 
-* 2/17/06 - **[[You Me & Greg]]** vs. Sui Generis (YM&G win 22-8) 
-* 2/24/06 - **[[You Me & Greg]]** vs. Paul Bunyan (YM&G win 33-6) 
+* 2/17/06 - **[[You Me & Greg]]** vs. [[Sui Generis]] (YM&G win 22-8) 
+* 2/24/06 - **[[You Me & Greg]]** vs. [[Paul Bunyan]] (YM&G win 33-6) 
 * 3/3/06 - **[[You Me & Greg]]** vs. Get Down (YM&G win 34-4) 
-* 3/10/06 - **[[You Me & Greg]]** vs. Clown Fart Glasses (YM&G win 44-7) 
+* 3/10/06 - **[[You Me & Greg]]** vs. [[Clown Fart Glasses]] (YM&G win 44-7) 
 * 3/17/06 - **[[You Me & Greg]]** vs. [[1813 Drake]] (YM&G win 10-3) 
 * 3/24/06 - **[[You Me & Greg]]** vs. Trash Can Boys (YM&G win 7-5) 
-* 3/31/06 - **[[You Me & Greg]]** vs. I am a Coat Rack, I am a Lamp (YM&G win 21-7) 
+* 3/31/06 - **[[You Me & Greg]]** vs. [[I Am a Coat Rack, I Am a Lamp]] (YM&G win 21-7) 
 * 4/7/06 - [[You Me & Greg]] vs. **Scorpions** (Scorpions win 22-13) 
 
 There are no more known matches for 2006.
