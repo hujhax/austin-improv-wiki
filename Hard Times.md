@@ -10,3 +10,4 @@
 The troupe played a Cagematch on 12/13/07.
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Only One Performance|Category:Only One Performance]]
