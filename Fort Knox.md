@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Fort Knox
-|Cast	=	{{Unbulleted list | [['Al']] | [['Jeff']] | [[Ceej Allen]] | [[Eric Heiberg]] | [[Erik Adams]] | [[Madeline Malka]] }}
+|Cast	=	{{Unbulleted list | [[Albert Im]] | [[Ceej Allen]] | [[Eric Heiberg]] | [[Erik Adams]] | [[Jeff Britt]] | [[Madeline Malka]] }}
 |Years	=		2008
 }}
 
