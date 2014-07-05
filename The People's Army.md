@@ -14,5 +14,8 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 <p>That's it!</p></blockquote>
 
+## History
+They lost a "Slash of the Talons" Cagematch quarterfinal on 5/2/09.
+
 [[Category/Troupes|People's Army]]
 [[Category/Auto-Generated Troupe Pages|People's Army]]
