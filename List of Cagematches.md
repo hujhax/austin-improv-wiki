@@ -189,27 +189,21 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 
 ## 7/11/09-8/29/09 ("Feud of Fury")
 ### Ad Hoc Troupes
-* Clammes: [[Stephanie Rousso]], [[Josh Krilov]], [[Chris Baldenhoffer]], [[Emma Holder]], [[Michael Williams]]
-* Crazytowne: [[Ace Manning]], [[Amy McCurdy]], [[Audrey Sansom]], [[Bryan Roberts]], [[Chris Allen]], [[Jason Vines]]
-* FredProv: [[Emma Holder]], [[Jericho Thorpe]], Joel, Nicole, [[Nick Ramirez]], [[Fred Bothwell]]
-* God:  [[Michael Jastroch]], [[Lisa Jackson]], [[John Ratliff]], [[Josh Gill]]
 * Invisible House Of Kaos: Josh T, Statia W, Laura B,Anthony O, Miranda W, Renee R, Aaron C, Malcom N, Amy H, Joseph (paco) G, Stephen F 
-* Transcontinental: [[Chris Baldenhofer]], [[Emma Holder]], [[Cortnie Jones]], [[Patrick Knisely]], [[Teresa Kubos]], [[Mark Carpenter]], [[Jared Stepp]], [[Collin Canaday]], [[Philip Wilhelm]] 
-* You're in Big Trouble, Mister!: [[Nick Ramirez]], [[Delanie Liming]], Mike S., [[Lance Gilstrap]]
  
 ### Matches
 #### Quarterfinals
-* 7/11/09: **[[Boy Toy]]** vs. FredProv
-* 7/18/09: God vs. **[[Billy Icon]]**
-* 7/25/09: Crazytowne vs. **You're in Big Trouble, Mister!** 
-* 8/1/09: **Transcontinental** vs. Clammes
+* 7/11/09: **[[Boy Toy]]** vs. [[FredProv]]
+* 7/18/09: [[God]] vs. **[[Billy Icon]]**
+* 7/25/09: [[Crazytowne]] vs. **You're in Big Trouble, Mister!** 
+* 8/1/09: **[[Transcontinental]]** vs. [[Clammes]]
 
 #### Semifinals
 * 8/8/09: **[[Boy Toy]]** vs. [[Billy Icon]]
-* 8/22/09: **You're in Big Trouble, Mister!** vs. Transcontinental
+* 8/22/09: **[[You're in Big Trouble, Mister!]]** vs. [[Transcontinental]]
 
 #### Championship
-* 8/29/09: [[Boy Toy]] vs. **You're in Big Trouble, Mister!**
+* 8/29/09: [[Boy Toy]] vs. **[[You're in Big Trouble, Mister!]]**
 
 #### Exhibition
 * 8/15/09: [[Tom Booker and Son]] vs. Invisible House Of Kaos
