@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Sausage Party
-|Cast	=	{{Unbulleted list | [[Ashley Nugent]] | [[Emma Holder]] | [[Kate Bojanek]] | [[Katie Sicking]] | [[Kristen Henn]] | [[Lisa Jackson]] | [[Liz Brammer]] | [[Liz Butler]] | [[Liz Dykes]] | [[Nicole McCracken]] | [[Patricia Tate]] | [[Sandra Markarian]] | [[Stephanie Russo]] | [[Teresa Kubos]] }}
+|Cast	=	{{Unbulleted list | [[Ashley Nugent]] | [[Emma Holder]] | [[Kate Bojanek]] | [[Katie Sicking]] | [[Kristin Henn]] | [[Lisa Jackson]] | [[Liz Brammer]] | [[Liz Butler]] | [[Liz Dykes]] | [[Nicole McCracken]] | [[Patricia Tate]] | [[Sandra Markarian]] | [[Stephanie Russo]] | [[Teresa Kubos]] }}
 |Years	=		2010
 }}
 
