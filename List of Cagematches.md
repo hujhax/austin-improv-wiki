@@ -210,31 +210,24 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 
 ## 9/12/09-10/14/09 ("War Forms of Dangerous Curves")
 ### Ad Hoc Troupes
-* Everyone But Shea: [[Wes Gandy]], [[Edward Melendez]], [[Kristin Henn]], [[Kate Bojanek]], [[Frank Netscher]], [[Josh Gill]], [[Shea Scott]]
-* I Don't Appreciate It When You Talk to Me Like That: [[Drew Wesely]], [[Brian Howard]], [[Brian Engravalle]], [[Sandra Markarian]], [Liz Butler], [[Liz Dykes]], and [[Leah Moss]].
-* Maude: [[Liz Brammer]], [[Jenny Carlson]], [[Cortnie Jones]], [[Teresa Kubos]], [[Stephanie Russo]], [[Katie Sicking]], [[Delanie Liming]]
-* NewPort Hen: [[Ed Melendez]], [[Kristen Henn]], [[Nathan Livni]], [[Josh Gill]], [[Alex Baia]], [[Tej Ludher]], [[Mike Faerber]]
-* Something About Sandwiches: [[Jason Oliver]], [[Pat Daniels]]
-* Tarantina Turner: [[Brian Engravalle]], [[Brent Foshee]], [[Cortnie Jones]], [[Josh Gill]], [[Teresa Kubos]], and [[Sandra Markarian]]
-* That's My Retarded Brother: [[Patrick Knisely]] and [[David Meyers]]
 * ZombieProv: this was montage featuring whoever showed up in the appropriate costume.
 
 ### Matches
 #### Quarterfinals
-* 9/12/09: Something About Sandwiches vs. **I Don't Appreciate It When You Talk to Me Like That**
-* 9/19/09: **Maude** vs. [[Florida Room]]
-* 9/26/09: **Everyone But Shea** vs. Tarantina Turner
-* 10/3/09: NewPort Hen vs. **[[The Glamping Trip]]**
+* 9/12/09: [[Something About Sandwiches]] vs. **[[I Don't Appreciate It When You Talk to Me Like That]]**
+* 9/19/09: **[[Maude]]** vs. [[Florida Room]]
+* 9/26/09: **[[Everyone But Shea]]** vs. [[Tarantina Turner]]
+* 10/3/09: [[NewPort Hen]] vs. **[[The Glamping Trip]]**
 
 #### Semifinals
-* 10/10/09: **I Don't Appreciate It When You Talk to Me Like That** vs. Maude
-* 10/17/09: **Everyone But Shea** vs. [[The Glamping Trip]]
+* 10/10/09: **[[I Don't Appreciate It When You Talk to Me Like That]]** vs. [[Maude]]
+* 10/17/09: **[[Everyone But Shea]]** vs. [[The Glamping Trip]]
 
 #### Championship
-* 10/24/09: **I Don't Appreciate It When You Talk to Me Like That** vs. Everyone But Shea
+* 10/24/09: **[[I Don't Appreciate It When You Talk to Me Like That]]** vs. [[Everyone But Shea]]
 
 #### Exhibition
-* 10/31/09: That's My Retarded Brother vs. ZombieProv
+* 10/31/09: [[That's My Retarded Brother]] vs. ZombieProv
 
 ### More Information
 * [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=War%20Forms%20of%20Dangerous%20Curves Online bracket info.]
