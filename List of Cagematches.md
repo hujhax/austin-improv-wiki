@@ -256,31 +256,22 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 
 
 ## 3/6/10-4/23/10 ("Frank Herbert's Dune")
-### Ad Hoc Troupes
-* The Adorables: [[Kristin Henn]], [[Jessica Arjet]], [[Cody Melcher]]
-* Bless This Mess: [[Liz Butler]], [[Matt Derman]], [[Steve Donovan]], [[Chaz Formichella]], [[Jen Kaplan]], [[Matt Luke]], [[Jon Simmons]], [[Patricia Tate]], [[Sam VanMetre]], [[Alida Villatoro]]
-* Death Comet 300: [[Tej Ludher]], [[Katie Sicking]], and friends
-* The Jackson May Experience: [[Lisa Jackson]], [[Erika May McNichol]]
-* The Last Detail: [[John Ratliff]], [[David Hess]]
-* My Two Dads: [[Kate Bojanek]], [[Ed Melendez]], [[Shea Scott]]
-* Sausage Party: [[Sandra Markarian]], [[Liz Butler]], [[Nicole McCracken]], [[Kristen Henn]], [[Liz Brammer]], [[Liz Dykes]], [[Lisa Jackson]], [[Ashley Nugent]], [[Emma Holder]], [[Stephanie Russo]], [[Katie Sicking]], [[Patricia Tate]], [[Kate Bojanek]], [[Teresa Kubos]]
-
 ### Matches
 #### Quarterfinals
-* 3/6/10: **My Two Dads** vs. The Last Detail
-* 3/13/10: **Bless This Mess** vs. The Adorables
+* 3/6/10: **[[My Two Dads]]** vs. [[The Last Detail]]
+* 3/13/10: **[[Bless This Mess]]** vs. [[The Adorables]]
 * 3/27/10: [[Elevator Action]] vs. [[Commentary Track]]
-* 4/3/10: The Jackson May Experience vs. Sausage Party
+* 4/3/10: [[The Jackson May Experience]] vs. [[Sausage Party]]
 
 #### Semifinals
-* 4/10/10: My Two Dads vs. **Bless This Mess**
+* 4/10/10: [[My Two Dads]] vs. **[[Bless This Mess]]**
 * 4/17/10: Unknown.
 
 #### Championship
-* 4/23/10: **Bless This Mess** vs. ???
+* 4/23/10: **[[Bless This Mess]]** vs. ???
 
 #### Exhibition
-* 3/20/10: [[Achatina Achatina]] vs. Death Comet 300
+* 3/20/10: [[Achatina Achatina]] vs. [[Death Comet 300]]
 
 ### More Information
 * [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Frank%20Herbert%27s%20Dune Online bracket info.]
