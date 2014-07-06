@@ -1,13 +1,12 @@
 {{Infobox Troupe
-|Name	=		Be Prepared
-|Cast	=	{{Unbulleted list | [[Arthur Simone]] | [[Jericho Thorp]] | [[Kyle Sweeney]] }}
+|Name	=		The British Knights
+|Cast	=	{{Unbulleted list | [[Brad Temple]] | [[Danny Catlow]] | [[Ed Reed]] | [[Jericho Thorp]] | [[Katie Sicking]] | [[Stephanie Russo]] }}
 |Years	=		2011
 }}
 
-**Be Prepared** was a one-off *[[Cagematch]]* team.
+**The British Knights** was a one-off *[[Cagematch]]* team.
 
 ## History
-They played one Cagematch on 6/4/11.
+They won the Cagematch tournament in the summer of 2011.
 
-[[Category/Troupes|Category:Troupes]]
-[[Category/Only One Performance|Category:Only One Performance]]
+[[Category/Troupes|British Knights]]
