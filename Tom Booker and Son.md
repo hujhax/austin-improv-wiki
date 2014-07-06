@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Tom Booker and Son
 |Cast	=	{{Unbulleted list | [[Noah Voelker]] | [[Tom Booker]] }}
-|Years	=		2010
+|Years	=		2009-2010
 }}
 
 **Tom Booker and Son** was an improv duo.
@@ -12,6 +12,9 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Character driven scenes. So far monoscenes, but for a next shows we are hoping to change our format a little more.</blockquote>
+
+## History
+They played one exhibition *[[Cagematch]]* on 8/15/09.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
