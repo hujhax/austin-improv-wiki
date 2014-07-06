@@ -38,3 +38,4 @@ Currently the number of improvisers in Austin is estimated at between 400 and 60
 
 ## Articles on Austin Improv
 * [http://www.austinchronicle.com/arts/2001-01-26/80278/ The Austin Chronicle], "Livin' Lavaca Loca: Laughing It Up at the Comedy Workshop" by Angela Davis
+* [http://www.austinchronicle.com/arts/2013-08-23/improv-educated/ The Austin Chronicle], "Improv-Educated: Out of Bounds Comedy Festival makes more room for Austin's increasingly savvy audiences" by Robert Faires
