@@ -4,7 +4,7 @@
 |Years	=		2010
 }}
 
-**Death Comet 300** was a one-off *[[Cagematch]]* team.
+**Death Comet 300** was a one-off *[[Cagematch]]* duo.
 
 ## History
 They played one exhibition Cagematch on 3/20/10.
