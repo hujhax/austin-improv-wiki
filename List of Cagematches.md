@@ -233,21 +233,16 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 * [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=War%20Forms%20of%20Dangerous%20Curves Online bracket info.]
 
 ## 11/7/09-12/19/09 ("Rise of the Curmudgeoned")
-### Ad Hoc Troupes
-* All Talk: [[Michael Jastroch]], [[Nick Rameriz]], [[Lance Gilstrap]], and [[Michael Williams]]
-* Fontanel: [[Asaf Ronen]], [[Ceej Allen]], and [[Patrick Daniel]]
-* I'm With Genius: [[Alex Baia]], [[Mike Faerber]], and [[Nathan Livni]]
-
 ### Matches
 #### Quarterfinals
 * 11/7/09: **[[Pretty Jack Jaybird]]** vs. [[Executive Mandate]]
 * 11/14/09: **[[Battle Axe]]** vs. [[Gang Bang]]	
-* 11/21/09: **All Talk** vs. Fontanel
-* 11/28/09: I'm With Genius vs. **[[Achatina Achatina]]**
+* 11/21/09: **[[All Talk]]** vs. [[Fontanel]]
+* 11/28/09: [[I'm With Genius]] vs. **[[Achatina Achatina]]**
 
 #### Semifinals
 * 12/5/09: **[[Pretty Jack Jaybird]]** vs. [[Battle Axe]]
-* 12/12/09: All Talk vs. **[[Achatina Achatina]]**
+* 12/12/09: [[All Talk]] vs. **[[Achatina Achatina]]**
 
 #### Championship
 * 12/19/09: [[Pretty Jack Jaybird]] vs. **[[Achatina Achatina]]**
