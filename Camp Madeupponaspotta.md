@@ -15,6 +15,7 @@
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17099#p135663 The audition notice] on [[The Austin Improv Forums]].
+* [https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta Archived version of the official page]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
