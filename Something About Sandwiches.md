@@ -1,8 +1,8 @@
 {{Infobox Troupe
 |Name	=		Something About Sandwiches
 |Cast	=	{{Unbulleted list | [[Jason Oliver]] | [[Patrick Daniel]] }}
-}}
 |Years	=		2009
+}}
 
 **Something About Sandwiches** was a one-off *[[Cagematch]]* duo.
 
