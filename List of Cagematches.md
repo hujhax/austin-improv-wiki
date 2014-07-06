@@ -323,7 +323,7 @@ This tournament featured the champions of previous tournaments.
 Through this section of its history, the show reverted to their "King of the Hill" format, where the winner from one week's show came back for the next.
 
 ### Matches
-* 9/18/10: **[[Jorak and Jorak Do Movie]]** vs. [[Hey Girl!]]
+* 9/18/10: **[[Jorak and Jorak Do Movie]]** vs. [[Hey, Girl!]]
 * 9/25/10: [[Jorak and Jorak Do Movie]] vs. [[Dragons]]
 
 ### More Information
