@@ -10,4 +10,5 @@
 They played one exhibition Cagematch on 3/20/10.
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Duos|Category:Duos]]
 [[Category/Only One Performance|Category:Only One Performance]]
