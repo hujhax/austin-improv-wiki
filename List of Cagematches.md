@@ -322,13 +322,9 @@ This tournament featured the champions of previous tournaments.
 ## 9/18/10-Jan 2011 ("King of the Hill" Cagematches)
 Through this section of its history, the show reverted to their "King of the Hill" format, where the winner from one week's show came back for the next.
 
-### Ad Hoc Troupes
-* Hey Girl!: [[Chaz Formichella]], [[Patricia Tate]], [[Sam Van Metre]]
-* Dragons?: [[Lacy Cox]], [[Ed Reed]], [[Patricia Tate]], [[San van Metre]], [[Katie Sicking]], [[Jessica Hamilton]], [[Danny Catlow]], [[Michael Williams]] 
-
 ### Matches
-* 9/18/10: **[[Jorak and Jorak Do Movie]]** vs. Hey Girl!
-* 9/25/10: [[Jorak and Jorak Do Movie]] vs. Dragons?
+* 9/18/10: **[[Jorak and Jorak Do Movie]]** vs. [[Hey Girl!]]
+* 9/25/10: [[Jorak and Jorak Do Movie]] vs. [[Dragons]]
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=97418 Format-change announcement] on [[The Austin Improv Forums]].
