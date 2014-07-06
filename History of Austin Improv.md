@@ -37,4 +37,5 @@ In recent years there has been remarkable stability in the various Austin theate
 Currently the number of improvisers in Austin is estimated at between 400 and 600. Austin has gained national attention for the vibrant community of improvisers and quality work in a variety of styles. A Johnstone-inspired, short form and storytelling focus can be found at the Hideout Theatre and Merlin-Works. Various Chicago and New York influences are prevalent at ColdTowne, the New Movement and the Institution. But Austin is ultimately a melting pot. The intentional building of a scene and community has resulted in an environment of collaborative competition, and many improvisers study and perform at multiple theaters, coming together throughout the year for events like Out of Bounds, [[The Improvised Play Festival]], [[Sketchfest]], [[The Improv Wins Conference]], [[WaffleFest]], [[The Austin Improv Potluck]], [[Same Year's Eve]] and more.
 
 ## Articles on Austin Improv
-* [http://www.austinchronicle.com/arts/2001-01-26/80278/ Keith Johnstone], Lost in Austin by Angela Davis
+* [http://www.austinchronicle.com/arts/2001-01-26/80278/ The Austin Chronicle], "Livin' Lavaca Loca
+Laughing It Up at the Comedy Workshop" by Angela Davis
