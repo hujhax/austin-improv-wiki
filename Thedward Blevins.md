@@ -27,7 +27,8 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 * *[[The Tribunal]]* (2012)
 
 ## Troupes
-* [[Happy Butter]] (2011)
-* [[Candy Vampires]] (2014)
+* [[Happy Butter]] (2011) (defunct)
+* [[Candy Vampires]] (2014) (former member)
+* [[Northward]] (2014-Present)
 
 [[Category/Performers|Blevins]]
