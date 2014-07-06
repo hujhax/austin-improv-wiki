@@ -279,25 +279,19 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 ## 5/8/10-6/26/10 ("Tournament of Champions")
 This tournament featured the champions of previous tournaments.
 
-### Ad Hoc Troupes
-* Bless This Mess: [[Liz Butler]], [[Matt Derman]], [[Steve Donovan]], [[Chaz Formichella]], [[Jen Kaplan]], [[Matt Luke]], [[Jon Simmons]], [[Patricia Tate]], [[Sam VanMetre]], [[Alida Villatoro]]
-* Golden Eagle: [[Jenny Carlson]], [[Katie Sicking]], [[Patrick Knisely]], [[Erik Adams]], [[Delanie Liming]], [[Michael Bird]] 
-* I Don't Appreciate It When You Talk to Me Like That: [[Drew Wesely]], [[Brian Howard]], [[Brian Engravalle]], [[Sandra Markarian]], [Liz Butler], [[Liz Dykes]], and [[Leah Moss]].
-* You're In Big Trouble, Mister!: [[Lance Gilstrap]], [[Nick Ramirez]], [[Michael Williams]], and a special guest.
-
 ### Matches
 #### Quarterfinals
-* 5/8/10: **Bless This Mess** vs. [[Twelve Inch Integrity]]
-* 5/15/10: **You're In Big Trouble, Mister!** vs. Golden Eagle
+* 5/8/10: **[[Bless This Mess]]** vs. [[Twelve Inch Integrity]]
+* 5/15/10: **[[You're in Big Trouble, Mister!]]** vs. [[Golden Eagle]]
 * 5/22/10: **[[Achatina Achatina]]** vs. [[Dick Rambuck]]
-* 6/5/10: I Don't Appreciate It When You Talk to Me Like That vs. **[[Your Dad's Friends]]**
+* 6/5/10: [[I Don't Appreciate It When You Talk to Me Like That]] vs. **[[Your Dad's Friends]]**
 * 
 #### Semifinals
-* 6/12/10: Bless This Mess vs. **You're In Big Trouble, Mister!**
+* 6/12/10: [[Bless This Mess]] vs. **[[You're in Big Trouble, Mister!]]**
 * 6/19/10: **[[Achatina Achatina]]** vs. [[Your Dad's Friends]]
 
 #### Championship
-* 6/26/10: **You're In Big Trouble, Mister!** vs. [[Achatina Achatina]]
+* 6/26/10: **[[You're in Big Trouble, Mister!]]** vs. [[Achatina Achatina]]
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=92980 Thread about the tournament] on [[The Austin Improv Forums]].
