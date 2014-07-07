@@ -511,7 +511,7 @@ Its full title was "The 1st Annual ColdTowne Theater Temporarily Adjacent To, Bu
 
 ### Matches
 #### Quarterfinals
-* 3/20/13: Gioboozeman Party vs. [[BOSS]] vs. Werewolf Birthday
+* 3/20/13: **Gioboozeman Party** vs. [[BOSS]] vs. Werewolf Birthday
 * 3/27/13: [[MANDINKA]] vs. [[Subject -  Object]] vs. [[Baldenholder]]
 * 4/3/13: [[Two Guys From Yonkers]] vs. Mr. Herman vs. **Monday Monday**
 * 4/10/13: Dixon-McCracken vs. Simone & Franks vs. Surprise! Party
