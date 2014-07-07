@@ -461,11 +461,8 @@ There are no records of a Cagematch in this period, but it seems logical that th
 ** Note that this information was inconsistent with contemporaneous records from [http://www.facebook.com/ColdTowneCageMatch the facebook group], which are more likely to be accurate.
 
 ## 1/2/13 (One-Off Exhibition Match)
-* Bangs: [[Jenna Carey]], [[Karen Early]], [[Ellen Kubecka]]
-* Tall, Dark & Handsome: [[Tim Traini]], [[Brett Tribe]], [[Will Casto]]
-
 ### Exhibition
-* 1/2/13: [[Lucy]] vs. Bangs vs. Tall, Dark, and Handsome
+* 1/2/13: [[Lucy]] vs. [[Bangs]] vs. [[Tall, Dark, and Handsome]]
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=14437 Request for troupes for the 1/2/13 match] on [[The Austin Improv Forums]].
