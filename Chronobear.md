@@ -13,5 +13,8 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>We do a monoscene.</blockquote>
 
+## History
+They played a *[[Cagematch]]* on 5/11/12.
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
