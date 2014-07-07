@@ -502,6 +502,7 @@ Its full title was "The 1st Annual ColdTowne Theater Temporarily Adjacent To, Bu
 * Mr. Herman
 * Simone & Franks: [[Ashley Franks]], [[Arthur Simone]]
 * Surprise! Party
+** N.B.: this is different from [[The Surprise Party]].
 * Werewolf Birthday
 
 ### Matches
