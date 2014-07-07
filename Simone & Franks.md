@@ -10,4 +10,5 @@
 They played one Cagematch on 4/10/13.
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Duos|Category:Duos]]
 [[Category/Only One Performance|Category:Only One Performance]]
