@@ -16,9 +16,11 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 <p>We love finding the game and focusing on relationships.</p></blockquote>
 
+## History
+They played in the *[[Cagematch]]* on 12/12/12 and 1/9/13.
+
 ## Media
 ### Videos
-* [http://vimeo.com/44662712  Video] of their 6/22/12 *[[Cagematch]]* show.
 * [http://vimeo.com/46207042  Video] of their 7/22/12 student show.
 
 
