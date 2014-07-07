@@ -408,6 +408,7 @@ There are no records of a Cagematch in this period, but it seems logical that th
 
 ## 9/5/12-10/24/12 ("Hog Wild")
 ### Ad Hoc Troupes
+* Carrots
 * Reality
 * Somethin' Good
 * Three Blondes
@@ -416,7 +417,8 @@ There are no records of a Cagematch in this period, but it seems logical that th
 ### Matches
 #### Quarterfinals
 * 9/12/12: [[Raney Nights|Raney Nights Improv]] vs. **[[Phil]]**
-* 9/19/12: Graduate Grudgematch Carrots vs. **Somethin' Good**
+* 9/19/12: Carrots vs. **Somethin' Good**
+** This was called the "Graduate Grudge Match", as it was between two recently-graduated ColdTowne classes.
 * 9/25/12: **[[Golden Age]]** vs. [[Youth Group Improv|The First UMC of Plano Youth Group]]
 * 10/3/12: Three Blondes vs. **[[Watergate]]**
 
