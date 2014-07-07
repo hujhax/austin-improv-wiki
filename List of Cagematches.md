@@ -333,27 +333,19 @@ Through this section of its history, the show reverted to their "King of the Hil
 Nothing is known of this tournament besides that "Stabby Jake" were the winners.
 
 ## 5/7/11-6/25/11
-### Ad Hoc Troupes
-* Be Prepared: [[Arthur Simone]], [[Jericho Thorp]], [[Kyle Sweeney]]
-* The British Knights: [[Stephanie Russo]], [[Katie Sicking]], [[Brad Temple]], [[Ed Reed]], [[Danny Catlow]], [[Jericho Thorp]]
-* Dixon McCracken: [[Joel Keith and Nicole McCracken]]
-* Fall Then Smirk: [[Brent Foshee]], [[Kate Bojanek]], [[Sam Malcolm]], [[Brett Tribe]], [[Ann Potter]]
-* The Mexican Free-Tailed Bat: [[Ann Potter]], [[Ashley Franks]], [[Joshua Philips]], [[Sam Malcolm]], [[Lacy Cox]], [[Ed Reed]], [[Andy O'Meara]]
-* Sons of Tiny Dinosaurs: [[Sam Van Metre]], [[Adam Trabka]], [[Ed Reed]], [[Chaz Formichella]], [[Matt Derman]], [[Joel Usher]]
-
 ### Matches
 #### Quarterfinals
-* 5/7/11: The Mexican Free-Tailed Bat vs. Sons of Tiny Dinosaurs
-* 5/14/11: **The British Knights** vs. Dixon McCracken
+* 5/7/11: [[The Mexican Free-Tailed Bat]] vs. [[Sons of Tiny Dinosaurs]]
+* 5/14/11: **[[The British Knights]]** vs. [[Dixon McCracken]]
 * 5/21/11: **[[Who Dack]]** vs. [[Fall Then Smirk]]
-* 6/4/11: [[Hot Property]] vs. Be Prepared
+* 6/4/11: [[Hot Property]] vs. [[Be Prepared]]
 
 #### Semifinals
 * 6/11/11: **The British Knights** vs. ???
 * 6/18/11: **[[Who Dack]]** vs. ???
 
 #### Championship
-* 6/25/11: [[Who Dack]] vs. **The British Knights**
+* 6/25/11: [[Who Dack]] vs. **[[The British Knights]]**
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=11869 Thread about the tournament] on [[The Austin Improv Forums]].
