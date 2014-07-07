@@ -500,27 +500,23 @@ This tournament featured not two but *three* competing troupes in each quarterfi
 Its full title was "The 1st Annual ColdTowne Theater Temporarily Adjacent To, But Not Affiliated With, March Madness 2-on-2-on-2 Tournament".
 
 ### Ad Hoc Troupes
-* Dixon-McCracken
-* Gioboozeman Party: [[John Buseman]], [[Christine Giordiano]]
 * Monday Monday
 * Mr. Herman
-* Simone & Franks: [[Ashley Franks]], [[Arthur Simone]]
 * Surprise! Party
 ** N.B.: this is different from [[The Surprise Party]].
-* Werewolf Birthday
 
 ### Matches
 #### Quarterfinals
-* 3/20/13: **Gioboozeman Party** vs. [[BOSS]] vs. Werewolf Birthday
+* 3/20/13: **[[Gioboozeman Party]]** vs. [[BOSS]] vs. [[Werewolf Birthday]]
 * 3/27/13: [[MANDINKA]] vs. [[Subject -  Object]] vs. [[Baldenholder]]
 * 4/3/13: [[Two Guys From Yonkers]] vs. Mr. Herman vs. **Monday Monday**
-* 4/10/13: Dixon-McCracken vs. Simone & Franks vs. Surprise! Party
+* 4/10/13: [[Dixon McCracken]] vs. [[Simone & Franks]] vs. Surprise! Party
 
 #### Semifinals
 All that's known about the semifinals is that they happened on 4/17/13 and 4/24/13.
 
 #### Championship
-* 4/29/13: **Gioboozeman Party** vs. Monday Monday
+* 4/29/13: **[[Gioboozeman Party]]** vs. Monday Monday
 
 ### More Information
 * [http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/407840175978431/?type=1&permPage=1 Bracket image] from the facebook group.
