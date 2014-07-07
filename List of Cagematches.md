@@ -124,7 +124,11 @@ There are no more known matches for this tournament.
 * [http://forum.austinimprov.com/viewtopic.php?t=6914 Championship announcement] on [[The Austin Improv Forums]].
 
 ## Late-2008 Tournaments
-There is no known information about further tournaments in 2008, but the six-month gap in the record suggests that three complete tournaments took place before the end of the year.
+* 8/14/08: [[Werewolf Birthday]] vs. [[Antique Limax]] vs. [[Race Card]] (semifinal)
+
+This is the only known match from late 2008.
+
+The six-month gap in the record suggests that three complete tournaments took place before the end of the year.
 
 ## 1/2/09-2/27/09 ("Theater of Cruelty")
 ### Matches
