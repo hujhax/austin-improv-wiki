@@ -366,9 +366,9 @@ All that's known of this tournament is the set of show dates.
 ### Matches
 #### Quarterfinals
 * 9/9/11: [[Furiously Missing]] vs. [[What's the Story, Steve]]
-* 9/16/11: [[The Box Social]] vs. Sparklepants
-* 9/30/11: Straight Men vs. [[Best Friends Club of Austin]]
-* 10/7/11: Hit and Rundberg vs. [[Toby Keith and the French Guy]]
+* 9/16/11: [[The Box Social]] vs. [[Sparklepants]]
+* 9/30/11: [[Straight Men]] vs. [[Best Friends Club of Austin]]
+* 10/7/11: [[Hit and Rundberg]] vs. [[Toby Keith and the French Guy]]
 
 #### Other Matches
 Nothing is known of this tournament besides that [[The Box Social]] were the champions.
