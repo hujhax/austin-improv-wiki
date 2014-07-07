@@ -13,7 +13,7 @@
 ## Summary
 Each performance contains two acts.  The first act has the cast responding to video short-form challenges that have been sent in from improv troupes around the world.  The second act is a long-form narrative that uses the first act as inspiration.
 
-The set design includes a number of carboard boxes (and other shapes), which the cast uses to create international landmarks and locales on the fly.
+The set design includes a number of wooden boxes (and other shapes), which the cast uses to create international landmarks and locales on the fly.
 
 ### Participating Troupes
 * Again! Productions (Paris, France)
