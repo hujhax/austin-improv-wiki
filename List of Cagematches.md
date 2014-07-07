@@ -468,24 +468,19 @@ There are no records of a Cagematch in this period, but it seems logical that th
 * [http://forum.austinimprov.com/viewtopic.php?t=14437 Request for troupes for the 1/2/13 match] on [[The Austin Improv Forums]].
 
 ## 1/23/13-3/13/13 ("Pourin' Like an Avalanche Comin' Down the Mountain")
-### Ad Hoc Troupes
-* Hyena: [[Joshua Phillips]], [[Byron Brown]]
-* Mickle: [[Pierce Purselley]], [[Nathan Sowell]], [[Ben Bazan]], [[Joseph Dailey]], [[Michael Williams]], [[Chrissy Shackelford]]
-* Movie Meat: [[Kyle Sweeney]], [[Sam Malcolm]], guest
-
 ### Matches
 #### Quarterfinals
 * 1/23/13: **[[Cheap Date]]** vs. [[Rarebit]]
-* 2/6/13: [[Sugarbakers]] vs. **Hyena**
-* 2/13/13: [[The Randy Meisner]] vs. **Mickle**
-* 2/20/13: [[Lucy]] vs. **Movie Meat**
+* 2/6/13: [[Sugarbakers]] vs. **[[Hyena]]**
+* 2/13/13: [[The Randy Meisner]] vs. **[[Mickle]]**
+* 2/20/13: [[Lucy]] vs. **[[Movie Meat]]**
 
 #### Semifinals
-* 2/27/13: **[[Cheap Date]]** vs. Movie Meat
-* 3/6/13: **Mickle** vs. Hyena
+* 2/27/13: **[[Cheap Date]]** vs. [[Movie Meat]]
+* 3/6/13: **[[Mickle]]** vs. [[Hyena]]
 
 #### Championship
-* 3/13/13: **Mickle** vs. [[Cheap Date]]
+* 3/13/13: **[[Mickle]]** vs. [[Cheap Date]]
 
 #### Exhibition
 * 1/30/13: Star Force vs. Super Apocalypse
