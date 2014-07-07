@@ -388,30 +388,17 @@ All that's known of this tournament are the start and end dates, and that it was
 
 ## 5/11/12-6/29/12
 In this tournament, each quarterfinal pitted *three* troupes against one another instead of the usual two.
-
-### Ad Hoc Troupes
-* Bathroom Mysteries: [[Tim Traini]], [[Wes gandy]], [[Caitlin Baumgartner]], [[AJ Holler]]
-* Blazeprov: [[Michael Joplin]], [[Dave Buckman]]
-* Chronobear: [[Adam Trabka]], [[Sam Malcolm]], [[Ed Reed]]
-* Cold Turkey: [[Katherine Johnson]], [[Arian Brumby]], [[Tre Fuentes]], [[Adam Sullivan]], [[Andrew Basile]], [[Sam Bremen]], [[Carlos LaRotta]]
-* Dick’s Kids: [[Lance Gilstrap]], [[Addison Billingsley]], [[Danny Catlow]], [[Max Lipchitz]], [[Jack Jeahy]]
-* Dry Weave: [[Tyler Wasden]], [[Arian Brumby]], [[Daniel Goldstein]], [[Stephanie Asmus]], [[Dustin Conley]] 
-* Fat. Gay. Jewish.: [[Rachel Madorsky]], [[Britain Spellings]], [[George Benedele]]
-* Nerd Zoo: [[Gene Zhou]], [[Katherine Greco]], [[Monica Torres]], [[Nancy Lyon]], [[Regina Soto]], [[Sandra Ybarra]], [[Todd Geldon]]
-* The Research Project: [[Clint Harris]], [[Matthew Wells]], [[AJ Holler]], [[Addison Billingsly]], [[Cortnie Jones]] 
-* Two-Thousand and Fun: An Improv Odyssey: [[Danny Catlow]], [[Addison Billingsley]]
-
 ### Matches
 #### Quarterfinals
-* 5/11/12: Cold Turkey vs. Two-Thousand and Fun: An Improv Odyssey versus Chronobear
-* 5/18/12: Blazeprov vs. Bathroom Mysteries vs. Fat. Gay. Jewish
-* 6/1/12: Dick's Kids vs. [[Secret Garden]] vs. Nerd Zoo
-* 6/8/12: **Dry Weave** vs. The Research Project vs. [[Checkbook]]
+* 5/11/12: [[Cold Turkey]] vs. [[Two-Thousand and Fun -  An Improv Odyssey]] versus [[Chronobear]]
+* 5/18/12: [[Blazeprov]] vs. [[Bathroom Mysteries]] vs. [[Fat. Gay. Jewish]]
+* 6/1/12: [[Dick's Kids]] vs. [[Secret Garden]] vs. [[Nerd Zoo]]
+* 6/8/12: **[[Dry Weave]]** vs. [[The Research Project]] vs. [[Checkbook]]
 
 #### Further Matches
 All that's known of the rest of the tournament is:
 * The semifinals were on 6/15/12 and 6/22/12.
-* The championship was on 6/29/12, and was won by Dry Weave.
+* The championship was on 6/29/12, and was won by [[Dry Weave]].
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=13428 Tournament announcment] on [[The Austin Improv Forums]].
