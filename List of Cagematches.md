@@ -395,10 +395,12 @@ In this tournament, each quarterfinal pitted *three* troupes against one another
 * 6/1/12: [[Dick's Kids]] vs. [[Secret Garden]] vs. [[Nerd Zoo]]
 * 6/8/12: **[[Dry Weave]]** vs. [[The Research Project]] vs. [[Checkbook]]
 
-#### Further Matches
-All that's known of the rest of the tournament is:
-* The semifinals were on 6/15/12 and 6/22/12.
-* The championship was on 6/29/12, and was won by [[Dry Weave]].
+#### Semifinals
+* 6/15/12: ??? vs. ???
+* 6/22/12: **[[Dry Weave]]** vs. ???
+
+#### Championship
+* 6/29/12: **[[Dry Weave]]** vs. ???
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=13428 Tournament announcment] on [[The Austin Improv Forums]].
