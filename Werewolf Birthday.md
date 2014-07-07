@@ -7,7 +7,7 @@
 **Werewolf Birthday** was an improv duo.
 
 ## History
-They played one Cagematch on 3/20/13.
+They played one Cagematch on 8/14/08, and one on 3/20/13.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
