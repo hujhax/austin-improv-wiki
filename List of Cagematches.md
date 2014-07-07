@@ -439,30 +439,22 @@ There are no records of a Cagematch in this period, but it seems logical that th
 * [http://forum.austinimprov.com/viewtopic.php?t=13990&p=124676 Tournament announcement] on [[The Austin Improv Forums]].
 
 ## 10/31/12-12/19/12 ("Death & Taxes")
-### Ad Hoc Troupes
-* The Actors: [[Emma Holder]], [[Nat Miller]], [[Arthur Simone]], [[Alex Dobrenko]], [[Nicole McCracken]], [[Michael Joplin]]
-* Connie West: [[Kayla Lane Freeman]], [[Jenna Marie Carey]], [[Brady James]], [[Adam Trabka]], [[Lance Gilstrap Jessica Hamilton]]
-* The Level Five: [[Spin Beck]], [[Matt Needles]], [[Naomi Perryman]], [[Alejandro Garcia]], [[Katie Moore]]
-* Mundane: [[Dave Michaels]], [[Xaria J'stone Coleman]], [[Daniel Howard]], [[Zachary Braver]], [[Joseph Robert Dailey]], [[Jessica Tate Cristy Rivera]]
-* The Super Troupers: [[Arian Brumby]], [[Stephanie Asmus]], [[Tyler Wasden]], [[JM Specht Danny Goldstein]]
-* Texas Jim Crago: [[Danny Catlow]], [[Addison Billingsley]], [[Sam Malcom]], [[Eric Rutherford]], [[Jack Leahy]], [[Ed Reed Max Lipschitz]]
-
 ### Matches
 #### Quarterfinals
 * 11/7/12: **[[Concrete]]** vs. [[RhinoDino]]
-* 11/14/12: **Mundane** vs. The Actors
-* 12/5/12: **[[Royston]]** vs. The Level Five
-* 12/12/12: **[[Tomato Pie]]** vs. The Super Troupers
+* 11/14/12: **Mundane** vs. [[The Actors]]
+* 12/5/12: **[[Royston]]** vs. [[The Level Five]]
+* 12/12/12: **[[Tomato Pie]]** vs. [[The Super Troupers]]
 
 #### Semifinals
-* 12/19/12: **[[Concrete]]** vs. Mundane
-* 1/9/13: [[Royston]] vs. **The Super Troupers**
+* 12/19/12: **[[Concrete]]** vs. [[Mundane]]
+* 1/9/13: [[Royston]] vs. **[[The Super Troupers]]**
 
 #### Championship
-* 1/16/13: **[[Concrete]]** vs. The Super Troupers
+* 1/16/13: **[[Concrete]]** vs. [[The Super Troupers]]
 
 #### Exhibition
-* 11/28/12: Texas Jim Crago vs. [[Toby Keith and the French Guy]]
+* 11/28/12: [[Texas Jim Crago]] vs. [[Toby Keith and the French Guy]]
 
 ### More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=14221 Bracket discussion] on [[The Austin Improv Forums]].
