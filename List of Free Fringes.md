@@ -437,7 +437,10 @@ Jason Vines, Sarah Swofford and Taylor Overstreet had dinner together tonight. T
 Fresh from Deanna Flysher's 3 day Naked Comedy intensive, these brave clowns in training bare it all on stage. 
 
 #### *Awkward Silence* ([[Cindy Page]])
-Thirty seconds of silence is a nice way to start a two-person scene, but what happens when you stretch thirty seconds to three minutes, and two people to a crowd of six? 
+Thirty seconds of silence is a nice way to start a two-person scene, but what happens when you stretch thirty seconds to three minutes, and two people to a crowd of six?
+
+##### *Viking Improv* ([[Chad Wellington]])
+The scene above was stolen by a band of marauding vikings who really like this improv thing but really only know how to pillage.
 
 #### *Left Wing Poultry* ([[Amy Carpenter]])
 Chicken and human performers come together for a longform improv show that is sometimes political, sometimes controversial, yet always heartwarming. 
