@@ -8,7 +8,7 @@
 **Kathy Rose Center** is an improv performer and professional actor, represented by Agence Talent. Her online bio and resume are available at http://kathyrosecenter.nowcasting.com and http://www.imdb.com/name/nm2180001/
 
 ## Summary
-Kathy Rose plays with improv whenever time and opportunity allows. She especially enjoys the in-depth character work of improvised theater. 
+Kathy Rose plays with improv whenever time and opportunity allows. She especially enjoys the in-depth character work of improvised theater and long-form comedy.
 
 ## History
 In 2004, Kathy Rose took her first improv class, "Crossing the Chasm from Theater to Life," a 2-day Omega Institute class at The Crossings in Austin, taught by Alan Arkin.  She studied with Alan again in 2005 and 2008. (The session in 2005 was an advanced intensive 5-day retreat on the island of Molokai, Hawaii.) 
