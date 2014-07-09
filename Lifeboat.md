@@ -7,6 +7,6 @@
 **Lifeboat** was a one-off *[[Cagematch]]* team.
 
 ## History
-They won a "Slash of the Talons" Cagematch quarterfinal on 5/23/09.
+They won a "Slash of the Talons" Cagematch quarterfinal on 5/23/09. They performed a monoscene in a lifeboat of castaways, inspired by the Alfred Hitchcock movie of the same name, which also is set entirely in a lifeboat. The troupe performed a number of shows after the cagematch at ColdTowne Theater. 
 
 [[Category/Troupes|Category:Troupes]]
