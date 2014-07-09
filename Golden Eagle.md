@@ -3,8 +3,6 @@
 |Cast	=	{{Unbulleted list | [[Delanie Liming]] | [[Erik Adams]] | [[Jenny Carlson]] | [[Katie Sicking]] | [[Michael Bird]] | [[Patrick Knisely]] }}
 |Years	=		2009-2010
 }}
-
-
 ## History
 The troupe was part of ColdTowne's sixth graduating class (as was [[Wicked City]]).
 
