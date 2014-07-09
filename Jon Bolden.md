@@ -5,7 +5,7 @@
 |Years	=	2007-Present
 }}
 
-Jon Bolden is an improv performer, director, and photographer who works primarily at [[The Hideout Theatre]].
+Jon Bolden is an improv performer, director, and photographer who works primarily at [[The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
 
 ## History
 Jon moved to downtown Austin in 2007, where he stumbled upon a performance of the [[Available Cupholders]] at [[The Hideout Theatre]]. It was his first experience seeing live improv. He attended the free [[Tuesday Night Jam]] the following week.
