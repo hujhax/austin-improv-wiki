@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Tarantina Turner
-|Name	=		Tarantina Turner.jpg
+|Picture =		Tarantina Turner.jpg
 |Cast	=	{{Unbulleted list | [[Brent Foshee]] | [[Brian Engravalle]] | [[Cortnie Jones]] | [[Josh Gill]] | [[Sandra Markarian]] | [[Teresa Kubos]] }}
 |Years	=		2009
 }}
