@@ -233,6 +233,7 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 
 #### Exhibition
 * 10/31/09: ZombieProv vs. ???
+** "That's My Retarded Brother" ([[Patrick Knisely]] and [[David Meyers]]) were schedule to play against ZombieProv, but Mr. Meyers got sick that day.
 
 ### More Information
 * [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=War%20Forms%20of%20Dangerous%20Curves Online bracket info.]
