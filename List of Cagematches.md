@@ -633,29 +633,23 @@ None of the winners are known.
 
 ## 4/30/14-6/25/14 ("Let's Get Sweaty")
 ### Ad Hoc Troupes
-* Billy Shakes And All-Star Bards: [[Ian Townsend]], [[KC Harvey-Taylor]], [[Eli Edison]], [[Alejandro Garcia]], [[Matt Needles]], [[Emma Holder]]
-* Charlatans!: [[Will Cleveland]], [[Andrew Buck]], [[Christina Parrish]], [[Andrew Basile]], [[Mia Iseman]]
-* The Hunger: [[Lance Gilstrap]], [[Juliet Prather]], [[Carlos LaRotta]], [[Chrissy Shackelford]]
-* Intertowne: This was an *ad hoc* troupe consisting of all current ColdTowne interns.
-* Knife Crime Island: [[Matthew Stoner]], [[Sarah Coker]], [[Leah Nobel]], [[Stephen Husmann]]
-* Mixed Company: [[Joseph Daily]], [[Robert Moncrief]], [[Justin Soileau]]
-* Now It Can Be Told!: [[Michael Jastroch]], [[Seth Johnson]], [[Adam Trabka]]
-* Pack Of Cigarettes & Some Milk: [[Collective Alibi]], [[Adam Trabka]]
-* Seussed Up: [[Clint Harris]], [[Matt Fitzgerald]], [[Cassadie Petersen]], [[Sarah Vasilas]], [[Alessandra Manon]], [[Bloom Davis]]
+* Intertowne: This was a troupe consisting of all current ColdTowne interns.
+* The Half Time Show
+* Ponciano
 
 ### Matches
 #### Quarterfinals
-* 4/30/14: Seussed Up vs. **[[Wink Planet]]** vs. Pack of Cigarettes & Some Milk
-* 5/7/14: Knife Crime Island vs. **The Hunger** vs. Now It Can Be Told!
-* 5/28/14: Billy Shakes and All-Star Bards vs. Charlatans! vs. **Mixed Company**
+* 4/30/14: [[Seussed Up]] vs. **[[Wink Planet]]** vs. [[Pack of Cigarettes & Some Milk]]
+* 5/7/14: [[Knife Crime Island]] vs. **[[The Hunger]]** vs. [[Now It Can Be Told!]]
+* 5/28/14: [[Billy Shakes and All-Star Bards]] vs. [[Charlatans!]] vs. **[[Mixed Company]]**
 * 6/4/14: **[[That Racket!]]** vs. Intertowne vs. [[Field Day]]
 
 #### Semifinals
-* 6/11/14: [[Wink Planet]] vs. **The Hunger**
-* 6/18/14: Mixed Company vs. **[[That Racket!]]**
+* 6/11/14: [[Wink Planet]] vs. **[[The Hunger]]**
+* 6/18/14: [[Mixed Company]] vs. **[[That Racket!]]**
 
 #### Championship
-* 6/25/14: **[[That Racket!]]** vs. The Hunger
+* 6/25/14: **[[That Racket!]]** vs. [[The Hunger]]
 
 #### Exhibition
 * 5/14/14 ("Exhibition of Duos"): The Half Time Show vs. [[Shamrock]] vs. Ponciano vs. [[Austin-Austin]]
