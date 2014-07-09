@@ -289,7 +289,7 @@ This tournament featured the champions of previous tournaments.
 * 5/15/10: **[[You're in Big Trouble, Mister!]]** vs. [[Golden Eagle]]
 * 5/22/10: **[[Achatina Achatina]]** vs. [[Dick Rambuck]]
 * 6/5/10: [[I Don't Appreciate It When You Talk to Me Like That]] vs. **[[Your Dad's Friends]]**
-* 
+
 #### Semifinals
 * 6/12/10: [[Bless This Mess]] vs. **[[You're in Big Trouble, Mister!]]**
 * 6/19/10: **[[Achatina Achatina]]** vs. [[Your Dad's Friends]]
