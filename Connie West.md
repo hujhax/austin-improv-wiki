@@ -4,6 +4,6 @@
 |Years	=		2012
 }}
 
-**Connie West** was an improv troupe.
+**Connie West** was an improv troupe.  It later morphed into [[Royston]].
 
 [[Category/Troupes|Category:Troupes]]
