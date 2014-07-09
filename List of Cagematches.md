@@ -232,7 +232,7 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 * 10/24/09: **[[I Don't Appreciate It When You Talk to Me Like That]]** vs. [[Everyone But Shea]]
 
 #### Exhibition
-* 10/31/09: [[That's My Retarded Brother]] vs. ZombieProv
+* 10/31/09: ZombieProv vs. ???
 
 ### More Information
 * [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=War%20Forms%20of%20Dangerous%20Curves Online bracket info.]
