@@ -22,7 +22,7 @@ Kathy Rose likes to take workshops each year to continue refreshing and expandin
 In 2013, she applied her improv skills to her professional acting work, becoming "G.G. Norwood," Curator of the Curtis Creek Creature Museum for the short film (mockumentary) "My Monster," directed by Scott Rice. And in 2014, she largely improvised a scene for the pilot episode of "American Crime" for ABC Studios, under the direction of writer/director John Ridley (2013 Oscar winner for best adapted screenplay, "12 Years a Slave").
 
 ## Troupes
-* [[Pom Pom Sisterhood]]
+* [[Pom-Pom Sisterhood]]
 * [[Grey Matters]]
 * [[JOY!]]
 * [[Taxi Cab Impressions]]
