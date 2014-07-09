@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		The MilkMen
-|Cast	=	{{Unbulleted list | [[Jericho Thorp]] | [[Lance Gilstrap]] | [[Michael Jastroch]] | [[Michael WIlliams]] | [[Nick Rameriz]] }}
+|Cast	=	{{Unbulleted list | [[Jericho Thorp]] | [[Lance Gilstrap]] | [[Michael Jastroch]] | [[Michael WIlliams]] | [[Nick Ramirez]] }}
 |Years	=		2009
 }}
 
