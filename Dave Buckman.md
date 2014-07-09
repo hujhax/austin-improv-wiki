@@ -22,10 +22,42 @@ He is also a producer for The Out Of Bounds Comedy Festival and has helped produ
 </blockquote>
 
 ## Troupes
+ACTIVE
 * [[Brain Trust]]
 * [[The Frank Mills]]
 * [[Rachel and Dave]]
 * [[You're Not My Real Dad]]
+
+PREVIOUS
+* [[Dick Rambuck]]
+* [[BlueBalls]]
+* [[Fart Thought]]
+* [[Straight Men]]
+* [[Cuddle Corner Crew]]
+
+
+## Coached
+* [[The Foolish Mortals]]
+* [[Wooden Nickel]]
+* [[Improv for Evil]]
+* [[Journey to the Big Water]]
+* [[Nice Astronaut]]
+* [[Bad Font]]
+* [[Girls Girls Girls]]
+* [[Array]]
+* [[Ego's Trip]]
+
+## Directed
+* [[Fart Thought]]
+* [[Dead Uncle Ted - Loose Fish]]
+* [[Shanty Town Lake]]
+* [[Thursday Night Awesome]]
+* [[Eye for an iPhone]]
+* [[B. Iden Payne Awards Ceremony]]
+* [[Array -  JTS BROWN]]
+* [[Nice Astronaut -  It's A Tolerbale Christmas]]
+* [[Nice Astronaut -  Improvioke]]
+* [[McNichol & May -  Great Americans]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Mr. Weir)
