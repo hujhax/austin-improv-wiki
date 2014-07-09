@@ -17,6 +17,7 @@ Jon moved to downtown Austin in 2007, where he stumbled upon a performance of th
 * [[The JBs]]
 * [[The Randy Meisner]]
 * [[Rise & Shine]]
+* [[Rush]]
 
 ## Shows
 * *[[The 43-Hour Improv Marathon]]*
