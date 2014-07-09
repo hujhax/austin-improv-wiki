@@ -1,6 +1,7 @@
 {{Infobox Troupe
 |Name	=		Maude
 |Cast	=	{{Unbulleted list | [[Cortnie Jones]] | [[Delanie Liming]] | [[Jenny Carlson]] | [[Katie Sicking]] | [[Liz Brammer]] | [[Stephanie Russo]] | [[Teresa Kubos]] }}
+|Director = [[Liz Brammer]]
 |Years	=		2009
 }}
 
@@ -8,6 +9,8 @@
 
 ## History
 They played two Cagematches on 9/19/09 and 10/10/09.
+
+Afterwards, the troupe morphed into [[Sarah 7]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]
