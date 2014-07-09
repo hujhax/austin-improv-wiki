@@ -19,6 +19,8 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 ## History
 Their first show was on 12/19/08.
 
+They performed in the summer 2009 "Feud of Fury" *[[Cagematch]]* under the name "Transcontinental".
+
 ## More Information
 * [http://www.third-beat.com/2009/08/12/del-close-marathon-countdown-northshore-local/ Interview with the troupe] before their performance at the 2009 Del Close Marathon.
 
