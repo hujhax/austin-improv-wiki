@@ -11,6 +11,7 @@ Jon Bolden is an improv performer, director, and photographer who works primaril
 Jon moved to downtown Austin in 2007, where he stumbled upon a performance of the [[Available Cupholders]] at [[The Hideout Theatre]]. It was his first experience seeing live improv. He attended the free [[Tuesday Night Jam]] the following week.
 
 ## Troupes
+* [[The Big Bash]]
 * [[Blink]]
 * [[The Dukes of Bedside Manor]]
 * [[Squirrel Buddies]]
