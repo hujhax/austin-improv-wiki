@@ -7,7 +7,7 @@
 **Pom-Pom Sisterhood** was an all-girl improv troupe.
 
 ## Summary
-Shows started from a group scene with the characters in a knitting circle.
+They did long-form shows which started from a group scene with the characters in a knitting circle.
 
 ## History
 Their first show was on 4/10/08.
