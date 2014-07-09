@@ -412,7 +412,6 @@ There are no records of a Cagematch in this period, but it seems logical that th
 * Carrots
 * Reality
 * Somethin' Good
-* Three Blondes
 * Sococonuts
 
 ### Matches
@@ -421,7 +420,7 @@ There are no records of a Cagematch in this period, but it seems logical that th
 * 9/19/12: Carrots vs. **Somethin' Good**
 ** This was called the "Graduate Grudge Match", as it was between two recently-graduated ColdTowne classes.
 * 9/25/12: **[[Golden Age]]** vs. [[Youth Group Improv|The First UMC of Plano Youth Group]]
-* 10/3/12: Three Blondes vs. **[[Watergate]]**
+* 10/3/12: [[Three Blondes]] vs. **[[Watergate]]**
 
 #### Semifinals
 * 10/10/12: [[Phil]] vs. **Somethin' Good**
