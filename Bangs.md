@@ -10,4 +10,5 @@
 They played one Cagematch on 1/2/13.
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
 [[Category/Only One Performance|Category:Only One Performance]]
