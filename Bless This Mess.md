@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Bless This Mess
-|Cast	=	{{Unbulleted list | [[Alida Villatoro]] | [[Chaz Formichella]] | [[Jen Kaplan]] | [[Jon Simmons]] | [[Liz Butler]] | [[Matt Derman]] | [[Matt Luke]] | [[Patricia Tate]] | [[Sam VanMetre]] | [[Steve Donovan]] }}
+|Cast	=	{{Unbulleted list | [[Alida Villatoro]] | [[Chaz Formichella]] | [[Jen Kaplan]] | [[Jon Simmons]] | [[Liz Butler]] | [[Matt Derman]] | [[Matt Luke]] | [[Patricia Tate]] | [[Sam VanMetre]] | [[Steve Donovan]] | [[Brett Tribe]] }}
 |Years	=		2010
 }}
 
