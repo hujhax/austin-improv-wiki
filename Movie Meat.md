@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Movie Meat
+|Picture	=		Movie Meat.jpg
 |Cast	=	{{Unbulleted list | [[Kyle Sweeney]] | [[Sam Malcolm]] }}
 |Years	=		2012-2013
 }}
