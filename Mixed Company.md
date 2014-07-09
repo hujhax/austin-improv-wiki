@@ -6,6 +6,13 @@
 
 **Mixed Company** was a one-off *[[Cagematch]]* team.
 
+## Summary
+[[Joseph Dailey]] is also a member of [[Nice Astronaut]].
+
+[[Justin Soileau]] and Robert Moncreiff were in [[Lasagna]].
+
+They are all graduates of the ColdTowne Conservatory
+
 ## History
 They played Cagematches on 5/28/14 and 6/18/14.
 
