@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Billy Shakes and All-Star Bards
-|Cast	=	{{Unbulleted list | [[Alejandro Garcia]] | [[Eli Edison]] | [[Emma Holder]] | [[Ian Townsend]] | [[KC Harvey-Taylor]] | [[Matt Needles]] }}
+|Cast	=	{{Unbulleted list | [[Alejandro Garcia]] | [[Eli Edison]] | [[Amy Wright]] | [[Kasey Borger]]| [[Emma Holder]] | [[Ian Townsend]] | [[KC Harvey-Taylor]] | [[Matt Needles]] }}
 |Years	=		2014
 }}
 
