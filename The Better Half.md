@@ -22,10 +22,9 @@ The Better Half perfected the spank circle, and Regina can never remember what C
 
 ## Media
 ### Videos
-* [http://vimeo.com/40801627 Video of their 4/19/12 show] at the *[[Free Fringe]]*.
-
 *Berlin Wall Prom: https://vimeo.com/89816499
 *Bar Mitzvah Funeral: https://vimeo.com/78600483
+*[http://vimeo.com/40801627 Video of their 4/19/12 show] at the *[[Free Fringe]]*.
 
 ### Photoset
 * [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/26/12 performance.
