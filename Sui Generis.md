@@ -4,7 +4,7 @@
 |Years	=		2006
 }}
 
-**Sui Generis** was an improv troupe.
+**Sui Generis** was an improv troupe that specialized in short-form games.
 
 ## History
 They played one [[Cagematch]] against [[You, Me, and Greg]] on 2/17/06, which they lost.
