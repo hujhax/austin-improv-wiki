@@ -304,12 +304,12 @@ This tournament featured the champions of previous tournaments.
 ### Matches
 #### Quarterfinals
 * 7/10/10: **[[Shades of Brown]]** vs. [[Elevator Action]]
-* 7/17/10: [[Mixed Dinks]] vs. [[The Duke Harbisons]]
+* 7/17/10: **[[Mixed Dinks]]** vs. [[The Duke Harbisons]]
 * 7/24/10: [[The Dancy Street D'Orchestra]] vs. **[[Bad Boys]]**
 * 8/7/10: [[Southern Hospitality's Cardboard Coffin]] vs. [[Secret Senate]]
 
 #### Semifinals
-* 8/14/10: **[[Shades of Brown]]** vs. ???
+* 8/14/10: **[[Shades of Brown]]** vs. [[Mixed Dinks]]
 * 8/21/10: **[[Bad Boys]]** vs. ???
 
 #### Championship
