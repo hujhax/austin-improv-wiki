@@ -7,7 +7,7 @@
 **Short and Sweet** was an improv duo.
 
 ## Summary
-The duo performed scenes and songs, aiming for a vulnerable tone.
+The duo performed scenes and songs, aiming for a vulnerable, theatrical, emotional tone, but often erring on the side of insanity.
 
 ## History
 They played two "king of the hill" cagematches in early 2006, and a reunion show on 7/12/12, for *[[The Birthday Clusterfunk]]*.
