@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Mixed Dinks
-|Picture	=		Mixed Dinks
+|Picture	=		Mixed Dinks.jpg
 |Cast	=	{{Unbulleted list | [[Bob McNichol]] | [[Cortnie Jones]] | [[Erika May McNichol]] | [[Jon Bolden]] | [[Joshua Gill]] | [[Lisa Jackson]] | [[Teresa Kubos]] }}
 |Years	=		2010
 }}
