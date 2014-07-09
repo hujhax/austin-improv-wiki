@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Fuck You!
-|Cast	=	{{Unbulleted list | [[Bryan 'Lubu' Roberts]] | [[Erin Molson]] }}
+|Cast	=	{{Unbulleted list | [[Audrey Rachel Sansom]]| [[Bryan 'Lubu' Roberts]] }}
 |Years	=		2009
 }}
 
