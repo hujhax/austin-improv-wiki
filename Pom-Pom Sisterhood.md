@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Pom-Pom Sisterhood
-|Cast	=	{{Unbulleted list | [[Amy McKenna]] | [[Jessica Arjet]] | [[Sara Farr]] | [[Shana Merlin]] }}
+|Cast	=	{{Unbulleted list | [[Amy McKenna]] | [[Audrey Rachel Sansom]] | [[Jessica Arjet]] | [[Kathy Rose Center]] | [[Sara Farr]] }}
 |Years	=		2008
 }}
 
