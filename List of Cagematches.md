@@ -362,11 +362,6 @@ All that's known of this tournament is the set of show dates.
 * [http://forum.austinimprov.com/viewtopic.php?t=12012 Registration announcement] on [[The Austin Improv Forums]].
 
 ## 9/9/11-10/28/11 ("Pretty Pretty Ponies of Death")
-### Ad Hoc Troupes
-* Hit and Rundberg: [[Isaac Smith]], [[Michael Williams]], [[John Ratliff]], [[Liz Brammer]], [[Stephanie Redding Hardie]], [[Lisa Jackson]], [[Will Elliott]], [[Scott Raney]], [[Adam Trabka]] ("Audiences will run away with laughter with they hit the characters with emotions" )
-* Sparklepants: [[Stephanie Redding Hardie]], [[Liz Butler]], [[Stephanie Hagermeister]], [[Jennifer Karydas]], [[Andy O'Meara]], [[Bradford Hardie]], [[Brad Knox]], [[Billy Smith]]
-* Straight Men: [[Dave Buckman]], [[Bob McNichol]], [[Curtis Luciani]], [[Lance Gilstrap]], [[Nick Ramirez]], [[Jericho Thorp]], [[Katie Sicking]], [[Valerie Ward]] ("Based on the Straight Men show at the Del Close Marathon in New York- a show where everyone plays the straight man. A sort of one upmanship, where the goal is everyone for themselves trying to make themselves the straight man and everyone else crazy")
-
 ### Matches
 #### Quarterfinals
 * 9/9/11: [[Furiously Missing]] vs. [[What's the Story, Steve]]
