@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Golden Age
 |Picture =     Golden Age.jpg
-|Cast	=	{{Unbulleted list | [[Andrew Basile]] | [[Cody Greenlee]] | [[Dave Michaels]] | [[Jake Milward]] | [[Joseph Dailey]] | [[Matt Needles]] | [[Nathan Sowell]] | [[Timothy Traini]] | [[Will Casto]] }}
+|Cast	=	{{Unbulleted list | [[Pseudonyms|Alessandra T.]] | [[Andrew Basile]] | [[Cody Greenlee]] | [[Dave Michaels]] | [[Jake Milward]] | [[Joseph Dailey]] | [[Matt Needles]] | [[Nathan Sowell]] | [[Will Casto]] }}
 |Years	=		2012-2013
 }}
 
