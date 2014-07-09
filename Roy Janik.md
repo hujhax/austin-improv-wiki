@@ -13,6 +13,7 @@ Roy is a co-owner of [[The Hideout Theatre]] and its Artistic Director.
 Roy was a core cast member in [[The 41-Hour Improv Marathon]] and [[The 43-Hour Improv Marathon]].
 
 ## Troupes
+* [[The Big Bash]]
 * [[Parallelogramophonograph]]
 * [[Squirrel Buddies]]
 
