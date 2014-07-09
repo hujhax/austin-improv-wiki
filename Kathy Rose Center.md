@@ -13,7 +13,7 @@ Kathy Rose plays with improv whenever time and opportunity allows. She especiall
 ## History
 In 2004, Kathy Rose took her first improv class, "Crossing the Chasm from Theater to Life," a 2-day Omega Institute class at The Crossings in Austin, taught by Alan Arkin.  She studied with Alan again in 2005 and 2008. (The session in 2005 was an advanced intensive 5-day retreat on the island of Molokai, Hawaii.) 
 
-In 2007-2008, she completed levels 1-4 with [[Shana Merlin]] and performed with the all-girl troupe [[Pom Pom Sisterhood]]. In 2011, she joined [[Asaf Ronen]]'s Improv Master Class at The [[Institution Theater]]. Asaf created the troupe [[Grey Matters]] to showcase the dark comedic chemistry of Kathy Rose, [[Madeline Jo Chauvin]], and [[Todd Hart]]. 
+In 2007-2008, she completed levels 1-4 with [[Shana Merlin]] and performed with the all-girl troupe [[Pom-Pom Sisterhood]]. In 2011, she joined [[Asaf Ronen]]'s Improv Master Class at The [[Institution Theater]]. Asaf created the troupe [[Grey Matters]] to showcase the dark comedic chemistry of Kathy Rose, [[Madeline Jo Chauvin]], and [[Todd Hart]]. 
 
 In 2012, Kathy Rose completed the [[Hideout Theater]]'s levels 1-3, taught in north Austin by [[Troy Miller]], with the hope of creating a northern cadre of improv performers. Still waiting for that to jell...
 
