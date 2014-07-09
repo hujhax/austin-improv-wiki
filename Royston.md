@@ -4,7 +4,7 @@
 |Years	=		2013
 }}
 
-**Royston** was an improv troupe.
+**Royston** (originally **Connie West**) was an improv troupe.
 
 ## Summary
 ### Press Blurb
