@@ -576,7 +576,7 @@ There is no record of the semifinals of this tournament.
 #### Quarterfinals
 This tournament included *three* teams in each quarterfinal match, instead of the usual two.
 
-* 9/4/13: Shitload of Bens vs. **[[Glamazon]]** vs. [[Century]]
+* 9/4/13: Shitload of Bears vs. **[[Glamazon]]** vs. [[Century]]
 * 9/11/13: Kevin Space Jam vs. **[[Ctrl Alt Delete]]** vs. Skim
 * 9/18/13: Underground Bus vs. Camera Shy vs. The Japanese Adaptation of Happy Hour See What Happens
 * 9/25/13: **[[Three on a Match]]** (then called "Homecoming") vs. Meat Candy vs. Scrimshawshank Redemption
