@@ -16,7 +16,7 @@ A bio from the website for [[Rachel and Dave]]:<blockquote><br/>
 
 <p>After Europe, Dave worked as a director and teacher at The Second City in Chicago and Cleveland, directing Cleveland’s 2003 Main Stage revue, “Who’s yer Baghdadi?” and directing three original revues with the National Touring Company.</p>
 
-<p>Since 2005, Dave has been living in Austin, TX with wife and creative partner [[Rachel Madorsky]], teaching and performing with their award-winning troupe [[The Frank Mills]]. Dave also performs with [[You’re Not My Real Dad]], [[Brain Trust]] and with [[Rachel and Dave]]. </p>
+<p>Since 2005, Dave has been living in Austin, TX with wife and creative partner [[Rachel Madorsky]], teaching and performing with their award-winning troupe [[The Frank Mills]]. Dave also performs with [[You're Not My Real Dad]], [[Brain Trust]] and with [[Rachel and Dave]]. </p>
 
 <p>He is also a producer for The [[Out of Bounds]] Comedy Festival and has helped produce the [[Austin Sketch Fest]] and [[Ladies Are Funny Festival]] (LAFF).</p>
 </blockquote>
