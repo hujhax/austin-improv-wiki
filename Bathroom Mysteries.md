@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Bathroom Mysteries
-|Cast	=	{{Unbulleted list | [[AJ Holler]] | [[Caitlin Baumgartner]] | [[Tim Traini]] | [[Wes Gandy]] }}
+|Cast	=	{{Unbulleted list | [[AJ Holler]] | [[Pseudonyms|Alessandra T.]] | [[Caitlin Baumgartner]] | [[Wes Gandy]] }}
 |Years	=		2012
 }}
 
