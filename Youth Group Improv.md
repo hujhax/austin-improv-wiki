@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Youth Group Improv
-|Cast	=	{{ Unbulleted list | [[Becca Westerkom]] | [[Caitlin Bumgartner]] | [[Cody Dearing]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jeremy Logan]] | [[John Brewster]] | [[Kayla Freeman]] | [[Milo Smith]] | [[Nathan Sowell]] | [[Tim Honker]] | [[Timothy Traini]] }}
+|Cast	=	{{ Unbulleted list | [[Pseudonyms|Alessandra T.]] | [[Becca Westerkom]] | [[Caitlin Bumgartner]] | [[Cody Dearing]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jeremy Logan]] | [[John Brewster]] | [[Kayla Freeman]] | [[Milo Smith]] | [[Nathan Sowell]] | [[Tim Honker]] }}
 |Years	=		2012
 }}
 
