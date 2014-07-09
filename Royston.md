@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Royston
 |Cast	=	{{ Unbulleted list | [[Adam Trabka]] | [[Brady James]] | [[Jenna Carey]] | [[Jessica Hamilton]] | [[Kayla Lane Freeman]] | [[Lance Gilstrap]] }}
-|Years	=		2013
+|Years	=		2012-2013
 }}
 
 **Royston** (originally **Connie West**) was an improv troupe.
