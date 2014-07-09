@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Mundane
-|Cast	=	{{Unbulleted list | [[Daniel Howard]] | [[Dave Michaels]] | [[Jessica Tate Cristy Rivera]] | [[Joseph Robert Dailey]] | [[Xaria J'stone Coleman]] | [[Zachary Braver]] }}
+|Cast	=	{{Unbulleted list | [[Cristy Rivera]] | [[Daniel Howard]] | [[Dave Michaels]] | [[Jessica Tate]] | [[Joseph Robert Dailey]] | [[Xaria J'stone Coleman]] | [[Zachary Braver]] }}
 |Years	=		2012
 }}
 
