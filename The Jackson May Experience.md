@@ -10,5 +10,6 @@
 They played one Cagematch on 4/3/10
 
 [[Category/Troupes|Jackson May Experience]]
+[[Category/All-Female Troupes|Jackson May Experience]]
 [[Category/Duos|Jackson May Experience]]
 [[Category/Only One Performance|Jackson May Experience]]
