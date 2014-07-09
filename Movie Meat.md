@@ -18,5 +18,8 @@ Eventually, the duo formed the nucleus for the *[[Movie Riot]]* cast.
 ## History
 They played in the Cagematch on 2/20/13 and 2/27/13.
 
+## More Information
+* [http://www.facebook.com/moviemeat The duo's facebook page.]
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
