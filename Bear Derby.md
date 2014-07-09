@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Bear Derby
 |Picture	=	Bear Derby.jpg
-|Cast	=	{{ Unbulleted list | [[Ashley Siebels]] | [[Austin Davison]] | [[Ben Bazan]] | [[Dustin Finkelnstein]] | [[Dustin Finkelstein]] | [[Juliet Prather]] | [[Matthew Stoner]] | [[Sanjay Rao]] | [[Sarah Coker]] | [[Tim Traini]] | [[XJ Coleman]]}}
+|Cast	=	{{ Unbulleted list | [[Pseudonyms|Alessandra T.]] | [[Ashley Siebels]] | [[Austin Davison]] | [[Ben Bazan]] | [[Dustin Finkelnstein]] | [[Dustin Finkelstein]] | [[Juliet Prather]] | [[Matthew Stoner]] | [[Sanjay Rao]] | [[Sarah Coker]] | [[XJ Coleman]]}}
 |Years	=		2013-Present
 }}
 
