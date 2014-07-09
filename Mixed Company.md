@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Mixed Company
-|Cast	=	{{Unbulleted list | [[Joseph Daily]] | [[Justin Soileau]] | [[Robert Moncrief]] }}
+|Cast	=	{{Unbulleted list | [[Joseph Robert Daily]] | [[Justin Soileau]] | [[Robert Moncrief]] }}
 |Years	=		2014
 }}
 
