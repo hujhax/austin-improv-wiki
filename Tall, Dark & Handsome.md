@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Tall, Dark & Handsome
-|Cast	=	{{Unbulleted list | [[Brett Tribe]] | [[Tim Traini]] | [[Will Casto]] }}
+|Cast	=	{{Unbulleted list | [[Pseudonyms|Alessandra T.]] | [[Brett Tribe]] | [[Will Casto]] }}
 |Years	=		2013
 }}
 
