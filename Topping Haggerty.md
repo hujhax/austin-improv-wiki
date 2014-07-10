@@ -44,7 +44,7 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * *[[Lola]]*
 * *[[Off the Reef]]*
 * *[[The Sandbox]]*
-* [[Twp on Two]]
+* [[Two on Two]]
 * *[[Start Trekkin']]*
 
 [[Category/Performers|Haggerty]]
