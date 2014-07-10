@@ -1,4 +1,5 @@
 ## Summary
-Photo by Topping Haggerty
+Photo of [[Drinkies Galore]] by [[Topping Haggerty]].
+
 ## Licensing
 {{Free license}}
