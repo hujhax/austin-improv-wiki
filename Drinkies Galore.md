@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Drinkies Galore
+|Picture =	Topping Haggerty Pic2.jpg
 |Cast	=	{{Unbulleted list | [[Dario Konjicija]] | [[Jessica Arjet]] | [[Topping Haggerty]] }}
 |Years	=		2009
 }}
