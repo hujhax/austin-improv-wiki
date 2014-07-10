@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Duplex
 |Picture	=	Duplex.jpg
-|Cast	=	{{ Unbulleted list | [[Austen Silver]] | [[Catherine Grady]] | [[Evan Eggers]] | [[Evan Rigs]] | [[Norman Tran]] }}
+|Cast	=	{{ Unbulleted list | [[Austen Silver]] | [[Catherine Grady]] | [[Evan Eggers]] | [[Norman Tran]] }}
 |Years	=		2014-Present
 }}
 
