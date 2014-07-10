@@ -5,9 +5,10 @@
 |Years	=		2012
 }}
 
-**Three Blondes** was an improv troupe.
+**Three Blondes** was a one-off *[[Cagematch]]* team.
 
 ## History
-The troupe debuted at *[[The Cagematch]]* on 10/3/12.
+The troupe played a Cagematch on 10/3/12.
 
 [[Category/Troupes|Category:Troupes]]
+[[Category/Only One Performance|Category:Only One Performance]]
