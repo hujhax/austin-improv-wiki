@@ -62,6 +62,7 @@ The festival roast will feature [[Andy Crouch]].
 * [[Ratliff & Jackson]]
 * [[Simply D-Vine]]
 * *[[Slam Team Six]]*
+* [[SNAFU]]
 * [[Squirrel Buddies]]
 * [[Stag Comedy]]
 * [[The Starborn]]
@@ -128,7 +129,6 @@ The festival roast will feature [[Andy Crouch]].
 * Samurai Drunk
 * The Scoundrels
 * Smack Smack Sniff
-* Snafu
 * That Just Happened
 * Triggerfinger
 * Unisex
