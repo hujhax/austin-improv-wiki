@@ -11,14 +11,14 @@ The roast featured [[Tom Booker]].
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[The 3$Bills]]
+* [[The $3 Bills]]
 * [[Achatina Achatina]]
 * [[The Amazon & The Milksop]]
 * [[Ames and James]]
 * [[The Asides]]
 * [[Available Cupholders]]
 * [[Bad Boys]]
-* [[Baxter & Bernard]]
+* [[Baxter and Bernard]]
 * [[Billy Icon]]
 * [[Bolik Not ZIB]]
 * [[Buddy Daddy]]
@@ -50,7 +50,7 @@ The roast featured [[Tom Booker]].
 * [[Midnight Society]]
 * [[Parallelogramophonograph]]
 * [[Quayle]]
-* [[Rachel & Dave]]
+* [[Rachel and Dave]]
 * [[Revlis]]
 * [[Sarah 7]]
 * [[Shades of Brown]]
