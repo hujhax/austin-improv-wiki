@@ -10,20 +10,19 @@ The festival roast will feature [[Andy Crouch]].
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[7-10 Split]]
-* [[The Amazon & The Milksop]]
-* [[The Austin Comedy Hour]]
+* [[710 Split]  [[The Amazon & The Milksop]]
+* [[Austin Comedy Hour]]
 * [[Available Cupholders]]
 * [[Bad Boys]]
 * [[Bad Font]]
-* [[Ball and Chain]]
+* [[Ball&Chain]]
 * *[[Beware of Female Spies]]*
 * [[Big Beautiful Warlock]]
 * *[[Maestro|Blue Maestro]]*
 * [[BOSS]]
 * *[[Boy Band]]*
 * [[Brain Trust]]
-* [[The Bridgeport Correction Facility Short Form Impromptu Skit Players]]
+* [[Bridgeport Women's Correctional Facility Short Form Players]]
 * [[Collective Alibi]]
 * [[Confidence Men]]
 * [[Ctrl Alt Delete]]
@@ -33,7 +32,7 @@ The festival roast will feature [[Andy Crouch]].
 * [[The Escorts]]
 * [[The Frank Mills]]
 * [[Franz & Dave]]
-* *[[Fuck, It's Hot!]]*
+* *[[Fuck It's Hot]]*
 * [[Galactic]]
 * [[Get Up]]
 * [[Girls Girls Girls]]
