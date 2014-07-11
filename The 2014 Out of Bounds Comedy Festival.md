@@ -189,5 +189,14 @@ The festival roast will feature [[Andy Crouch]].
 * Valerie Niece
 * Zimu Yang
 
+## Other Acts
+* Improv Nerd podcast
+* de la Thwazz
+* Kristina Wong
+* Mo & Tell
+* Risk! podcast
+* Rob Paravorian
+* Testify
+
 ## More Information
 * [http://www.outofboundscomedy.com/2014 The 2013 Out of Bounds web site.]
