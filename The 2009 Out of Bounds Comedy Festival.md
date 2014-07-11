@@ -40,7 +40,7 @@ It ran from Thursday to Monday, 9/3/09 to 9/6/09.
 * [[The Starter Kit]]
 * [[Stool Pigeon]]
 * [[Venn Diaphragm]]
-* [[You Me and Greg]] Reunion Show
+* [[You, Me, and Greg]] Reunion Show
 * [[You're Not My Real Dad]]
 * [[Your Terrific Neighbors]]
 
