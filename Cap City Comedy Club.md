@@ -1,6 +1,6 @@
 Cap City Comedy Club is a professional stand-up comedy club in Austin, Texas and home to the [[Funniest Person in Austin]] competition. It also played a part in the early history of improv comedy in Austin. 
 
-In the 1980s Cap City was known as the Laff Stop. In 1986, from a series of workshops run by an actor named Rodney Rincon, a troupe called the Laff Staff was born, included Robert Faires, Dee Llewelyn, Joel McKean (Michael McKean's younger brother). Making their debut in early 1987, they performed a 45-minute pre-show lounge slot four days a week for about five years.
+In the 1980s Cap City was known as the Laff Stop. In 1986, from a series of workshops run by an actor named Rodney Rincon, a troupe called the Laff Staff was born, included [[Robert Faires]], Dee Llewelyn, Joel McKean (Michael McKean's younger brother). Making their debut in early 1987, they performed a 45-minute pre-show lounge slot four days a week for about five years.
 
 According to Robert Faires:
 
