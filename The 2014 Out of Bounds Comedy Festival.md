@@ -10,7 +10,8 @@ The festival roast will feature [[Andy Crouch]].
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[710 Split]  [[The Amazon & The Milksop]]
+* [[710 Split]]
+* [[The Amazon & The Milksop]]
 * [[Austin Comedy Hour]]
 * [[Available Cupholders]]
 * [[Bad Boys]]
@@ -49,7 +50,6 @@ The festival roast will feature [[Andy Crouch]].
 * [[The Lottery]]
 * [[Magician vs. Clown]]
 * [[MANDINKA]]
-* [[Mayfly]]
 * [[Midnight Society]]
 * [[Miller and Purselley]]
 * [[Movie Riot]]
@@ -110,6 +110,7 @@ The festival roast will feature [[Andy Crouch]].
 * Lethal Action Force
 * Like & Subscribe
 * Manacle
+* Mayfly
 * Mister Sister
 * The Mondays
 * Movies on Demand
