@@ -23,7 +23,6 @@ There are no records of the two Cagematches before 11/18/05.
 
 ### 2006
 #### Ad Hoc Troupes
-* Blue Balls
 * The Chins
 * Get Down
 * Scorpions: This was a Houston troupe that included Michael Garcia.
@@ -34,7 +33,7 @@ There are no records of the two Cagematches before 11/18/05.
 * 1/13/06 - **[[Available Cupholders]]** vs. [[1813 Drake]] (Cupholders win 19-4) 
 * 1/20/06 - [[Available Cupholders]] vs. **[[Short and Sweet]]** (S&S win 24-23) 
 * 1/27/06 - [[Short and Sweet]] vs. **The Chins** (Chins win) 
-* 2/3/06 - **The Chins** vs. Blue Balls (The Chins win 17-2) 
+* 2/3/06 - **The Chins** vs. [[Blue Balls]] (The Chins win 17-2) 
 * 2/10/06 - The Chins vs. **[[You Me & Greg]]** (YM&G win 16-3) 
 * 2/17/06 - **[[You Me & Greg]]** vs. [[Sui Generis]] (YM&G win 22-8) 
 * 2/24/06 - **[[You Me & Greg]]** vs. [[Paul Bunyan]] (YM&G win 33-6) 
