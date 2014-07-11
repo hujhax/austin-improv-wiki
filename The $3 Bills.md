@@ -5,7 +5,7 @@
 |Years	=		2009-2012
 }}
 
-**3$Bills ** was a [[Wikipedia - GLBTQ|GLBTQ]]-themed improv troupe.
+**The $3 Bills** was a [[Wikipedia - GLBTQ|GLBTQ]]-themed improv troupe.
 
 ## Summary
 ## Press Blurb
