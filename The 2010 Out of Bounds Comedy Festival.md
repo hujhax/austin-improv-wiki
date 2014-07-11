@@ -10,16 +10,15 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 ## Acts
 ### Local Improv and Sketch Acts
 * *2001* Dubbed
-* [[The 3$Bills]]
+* [[The $3 Bills]]
 * [[Achatina Achatina!]]
-* [[The Amazon & The Milksop]]
+* [[The Amazon and the Milksop]]
 * [[Anticdotes]]
 * [[Austin Secrets]]
 * [[Boy Toy]]
 * [[Buddy Daddy]]
 * [[ColdTowne]]
 * [[ColdTowne Fantasy]]
-* [[ColdTowne -  Shanty Town Lake]]
 * [[Confidence Men -  Improvised Mamet]]
 * [[Cooper Street]]
 * [[Crack!]]
@@ -48,6 +47,7 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [[Pretty Jack Jaybird]]
 * [[Sarah 7]]
 * [[Shades of Brown]]
+* *[[Shanty Town Lake]]*
 * [[The Sicks]]
 * [[Snackers]]
 * [[Start Trekkin']] (NYC+Austin)
@@ -56,9 +56,9 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [[Topping Haggerty Experience]]
 * [[Triforce]]
 * [[Venn Diaphragm]]
-* [[Your Dad’s Friends]]
+* [[Your Dad's Friends]]
 * [[Your Terrific Neighbors]]
-* [[You’re Not My Real Dad]]
+* [[You're Not My Real Dad]]
 
 ### Out-of-Town Improv and Sketch Acts
 * 1954 (LA)
