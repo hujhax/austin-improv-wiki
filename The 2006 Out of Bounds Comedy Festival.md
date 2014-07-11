@@ -10,7 +10,7 @@
 * [[Hoover's Blanket]]
 * [[The Knuckleball Now]]
 * [[Latino Comedy Project]]
-* [[Leading Brands]]
+* [[The Leading Brands]]
 * [[McNichol & May]]
 * [[One Night Band]]
 * [[Parallelogramophonograph]]
