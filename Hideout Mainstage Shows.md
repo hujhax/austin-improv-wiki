@@ -147,5 +147,5 @@ Starting in 2014, the Hideout will begin presenting two mainstage shows every Sa
 |-
 |Oct 2014||*[[The Aftermath]]*||[[Jordan T. Maxwell]]
 |-
-|Dec 2014||*[[A Penny Dreadful]]*||[[Jordan T. Maxwell]]
+|Dec 2014||*[[A Penny Dreadful]]*||[[Troy Miller]]
 |}
