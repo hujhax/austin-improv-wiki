@@ -11,9 +11,11 @@
 ***Kenjutsu*** (full title: ***Kenjutsu: The Art of the Sword***) was a mainstage show at [[The Hideout Theatre]] that was inspired by Japanese samurai films.
 
 ## Summary
-The show depicted epic tales of corruption, power, and betrayal set in feudal Japan, inspired by Japanese samurai films such as  *[[Wikipedia - Seven Samurai|Seven Samurai]]*, *[[Wikipedia - Harakiri (1962 film)|Harakiri]]*, and *[[Wikipedia - 13 Assassins|13 Assassins]]*. Prior to the title being finalized, the show was referred to familiarly as *Kurosawa* in honor of director [[Wikipedia - Akira Kurosawa|Akira Kurosawa]].
+The show depicted epic tales of corruption, power, and betrayal set in feudal Japan, inspired by Japanese samurai films such as  *[[Wikipedia - Seven Samurai|Seven Samurai]]*, *[[Wikipedia - Harakiri (1962 film)|Harakiri]]*, and *[[Wikipedia - 13 Assassins|13 Assassins]]*.
 
-The cast trained with and used, on stage, actual *bokken* (wooden samurai swords). Combat was performed in slow motion. 
+The cast trained with, and used on stage, actual *bokken* (wooden samurai swords). Combat was performed in slow motion.  Generally, the cast eschewed non-stop action, focusing instead on patience and developing tension.
+
+Prior to the title being finalized, the show was referred to familiarly as *Kurosawa* in honor of director [[Wikipedia - Akira Kurosawa|Akira Kurosawa]].
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Initial show announcement] on the Hideout's web site.
