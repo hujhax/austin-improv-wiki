@@ -29,6 +29,7 @@ This is a list of winners of the Cagematch.
 * [[Frogtown Hollow Jubilee Jug Band]] (5 weeks)
 * [[You, Me & Greg]] (4 weeks)
 * [[Arthur Simone & Chris Trew Sing the Songs of]] (3 weeks)
+* [[Awww, Shit!]]
 
 #### The Tournament Years
 * [[The Starter Kit]] (no date)
