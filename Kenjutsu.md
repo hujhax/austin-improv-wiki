@@ -15,5 +15,8 @@ The show depicted epic tales of corruption, power, and betrayal set in feudal Ja
 
 The cast trained with and used, on stage, actual *bokken* (wooden samurai swords). Combat was performed in slow motion. 
 
+## More Information
+* [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Initial show announcement] on the Hideout's web site.
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
