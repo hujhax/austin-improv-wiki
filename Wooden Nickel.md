@@ -13,4 +13,7 @@ This was the first troupe formed by [[Erin Plischke]] and [[Jen Cargill]] after 
 
 After the group broke up, [[Terrill Fischer]], [[Andy Pereira]], [[Alex Nixon]], and [[Erin Molson]] went on to form [[$10 Bourbon]].
 
+## More Information
+* [http://forum.austinimprov.com/viewtopic.php?p=154 Audition notice] on [[The Austin Improv Forums]].
+
 [[Category/Troupes|Category:Troupes]]
