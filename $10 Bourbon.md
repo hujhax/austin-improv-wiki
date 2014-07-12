@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		$10 Bourbon
 |Picture	=	$10 Bourbon.jpg
-|Cast	=	{{Unbulleted list | [[Alex Nixon]] | [[Andy Pereira]] | [[Erin Molson]] | [[Erin Plischke]] | [[Terrill Fischer]] }}
+|Cast	=	{{Unbulleted list | [[Alex Nixon]] | [[Andy Pereira]] | [[Erin Molson]] | [[Terrill Fischer]] }}
 |Years	=		2007-2008
 }}
 
