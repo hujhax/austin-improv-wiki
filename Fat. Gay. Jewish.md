@@ -7,7 +7,7 @@
 **Fat. Gay. Jewish.** was a one-off *[[Cagematch]]* team.
 
 ## History
-Three good friends and Comedy Sportz, Austin Alum from the 90’s got together 15 years later and played one Cagematch on 5/18/12. They had a great time and thought it was a great show.
+Three good friends and Comedy Sportz, Austin Alum from the 90’s got together 15 years later and played one Cagematch on 5/18/12. They had a great time and plan to do it again in another 15 years. 
 
 
 [[Category/Troupes|Category:Troupes]]
