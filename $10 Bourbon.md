@@ -8,6 +8,8 @@
 **$10 Bourbon** was an improv troupe.
 
 ## History
+The troupe formed after [[Wooden Nickel]] broke up.
+
 Their final show was on 8/27/08, at [[The 2008 Out of Bounds Comedy Festival]].
 
 ## Media
