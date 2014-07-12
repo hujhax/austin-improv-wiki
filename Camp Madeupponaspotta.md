@@ -13,6 +13,12 @@
 ## Summary
 *Camp Madeupponaspotta* featured improvised coming-of-age stories about the lives of teens & camp counselors at a fictional summer camp. The characters and details were different every show. The show focused on positivity, ensemble, and creating endearing moments as well as hilarious ones.
 
+At the top of the show, they would ask the audience for real summer camp experiences, using follow-up questions like "What kind of summer camp was it?" , "How old were you?", or "What was the camp called?" to elicit more details.
+
+The first half of the show ran 25 minutes, and was followed by an intermission.  After intermission, the cast would improvise a song about the show so far, and then perform the 25-minute second half.  (Often, they'd end the show with a reprise of the song.)
+
+## History
+The show returned for the Saturday 7pm hour of [[The 45-Hour Improv Marathon]], and for a *[[Free Fringe]]* show called "Bankruptcy Camp".
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17099#p135663 The audition notice] on [[The Austin Improv Forums]].
 * [https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta Archived version of the official page]
