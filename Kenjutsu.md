@@ -17,6 +17,8 @@ The cast trained with and used, on stage, actual *bokken* (wooden samurai swords
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Initial show announcement] on the Hideout's web site.
-
+* [http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa Hideout blog post about the show] by [[Kareem Badr]].
+* [http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/ Interview with the directors] by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
+ 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
