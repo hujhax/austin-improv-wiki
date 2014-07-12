@@ -16,5 +16,5 @@ From the show announcement:<blockquote>"Improvised stories inspired by Roald Dah
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+[[Category/Shows|Dahl House]]
+[[Category/The Hideout Theatre|Dahl House]]
