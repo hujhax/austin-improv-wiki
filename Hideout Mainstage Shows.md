@@ -142,4 +142,10 @@ Starting in 2014, the Hideout will begin presenting two mainstage shows every Sa
 |Apr 2014||*[[Camp Madeupponathaspotta]]*|| [[Jon Bolden]]
 |-
 |Jun 2014||*[[Cochise]]*||[[Marc Majcher]]
+|-
+|Aug 2014||*[[The Dahl House]]*||[[Valerie Ward]]
+|-
+|Oct 2014||*[[The Aftermath]]*||[[Jordan T. Maxwell]]
+|-
+|Dec 2014||*[[A Penny Dreadful]]*||[[Jordan T. Maxwell]]
 |}
