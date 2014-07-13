@@ -19,6 +19,7 @@ Generally, the cast eschewed non-stop action, focusing instead on patience and d
 
 Prior to the title being finalized, the show was referred to familiarly as *Kurosawa* in honor of director [[Wikipedia - Akira Kurosawa|Akira Kurosawa]].
 
+Was discussed on the podcast Yo Is this Racist? Was deemed racist by the host Andrew Ti and his guest. [http://http://www.earwolf.com/episode/improvised-samurai-stories/]
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Initial show announcement] on the Hideout's web site.
 * [http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa Hideout blog post about the show] by [[Kareem Badr]].
