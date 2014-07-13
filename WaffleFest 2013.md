@@ -1,11 +1,11 @@
 ![[WaffleFest 2013 Publicity Art.jpg|Publicity art for WaffleFest 2013.]]
 
-**WaffleFest 2013** will be the twelfth annual [[WaffleFest]].
+**WaffleFest 2013** was the twelfth annual [[WaffleFest]].
 
 ## Summary
-The festival will run from 11/21/13 to 11/23/13.
+The festival ran from 11/21/13 to 11/23/13.
 
-It will include an all-star *[[Maestro]]* and a teen showcase.
+It included an all-star *[[Maestro]]* and a teen showcase.
 
 ## Acts
 * [[The Amazon and the Milksop]]
