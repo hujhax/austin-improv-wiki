@@ -3,6 +3,7 @@
 |Picture =	The Triple Scoop.jpg
 |Theater =	[[The Institution Theater]]
 |Director =	[[IScream Sandwich]]
+|Cast	=	Various
 |Run	=	2012-2014
 }}
 **The Triple Scoop** was a three-act improv night headlined by [[IScream Sandwich]].
