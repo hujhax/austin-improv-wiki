@@ -15,10 +15,17 @@ The name BeauMoMa is a combination of their nicknames.  Bridget "Beau" short for
 
 ## Media
 ### Videos
-* [http://vimeo.com/68827080 Video of their first show.]
-* [http://vimeo.com/69155213 Video of their second show.]
-* [http://vimeo.com/74918469 Video of their 7/18/13 show.]
-* [http://vimeo.com/75015384 Video of their 9/15/13 show.]
+* [http://vimeo.com/68827080 Video] by [[Melissa Patterson]] of show #1.
+* [http://vimeo.com/69155213 Video] by [[Melissa Patterson]] of show #2.
+* [http://vimeo.com/74918469 Video] by [[Melissa Patterson]] of show #4 (7/18/13).
+* [http://vimeo.com/75015384 Video] by [[Melissa Patterson]] of show #5 (9/15/13).
+* [https://vimeo.com/83402149 Video] by [[Melissa Patterson]] of show #6 (10/7/13).
+* [https://vimeo.com/83384759 Video] by [[Melissa Patterson]] of show #7 (*[[The Threefer]]*, 1/2/14).
+* [https://vimeo.com/84854572 Video] by [[Melissa Patterson]] of show #8 (*[[The Threefer]]*, 1/9/14).
+* [https://vimeo.com/85531546 Video] by [[Melissa Patterson]] of show #11.
+* [https://vimeo.com/85588221 Video] by [[Melissa Patterson]] of show #12 (*[[The Threefer]]*, 1/23/14). 
+* [https://vimeo.com/90823926 Video] by [[Melissa Patterson]] of show #13.
+* [https://vimeo.com/90436637 Video] by [[Melissa Patterson]] of show #14.
 
 ### Photos
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.608175565870609.1073741848.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 6/27/13 performance in *[[The Triple Scoop]]*.
