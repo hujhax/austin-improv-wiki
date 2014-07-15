@@ -536,7 +536,7 @@ Jules and Heather are fantastic improvisers from the United Kingdom. They've com
 #### [[Jessica Arjet]] and [[Clifton Highfield]]
 Headliners
 
-### Apr 8, 2013
+### Apr 11, 2013
 #### *Overdirection Overthruster* ([[Thedward Blevins]])
 Too many directors and too much direction. Multiple directors simultaneously: directing the same scene physically rearranging players putting dialog in their mouths telling them how they feel making them rewind. 
 
