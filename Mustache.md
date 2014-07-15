@@ -24,6 +24,8 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
+* [http://vimeo.com/18781674 Video of their 11/7/10 show.]
+* [http://vimeo.com/19912376 Video of their 1/13/11 show.]
 * [http://vimeo.com/19827335 Video of their 1/24/11 show.]
 * [http://vimeo.com/23991678 Video of their 5/18/11 show.]
 
