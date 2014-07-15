@@ -7,7 +7,7 @@
   |Run    = 2010-Present
 }}
 
-***The Weekender*** is a performance slot at [[The Hideout Theatre]] that provides stage time for Hideout students.
+***The Weekender*** (formerly **The Sunday Showcase**) is a performance slot at [[The Hideout Theatre]] that provides stage time for Hideout students.
 
 ## Summary
 *The Weekender* happens every Sunday at 8pm at [[The Hideout]].  It is a triple bill with two student acts followed by an experienced headliner act.
