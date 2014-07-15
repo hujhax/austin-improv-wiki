@@ -34,8 +34,8 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 ## Media
 ### Videos
 * [http://vimeo.com/38076871 The troupe's debut show.]
+* [http://vimeo.com/39884307 Their 4/5/12 second show] (and their first with [[Jessica Arjet]]).
 * [http://vimeo.com/41817882 The troupe's third show.]
-* [http://vimeo.com/39884307 Their 4/5/12 show], their second with [[Jessica Arjet]].
 * [http://vimeo.com/45049371 Their 7/1/12 show.]
 * [http://vimeo.com/46721795 Their 2012 fundraiser for their trip to Hawaii's Improvaganza festival.]
 * [http://vimeo.com/47800315 The troupe's seventh show.]
