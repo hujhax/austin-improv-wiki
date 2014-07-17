@@ -1,8 +1,9 @@
 **The 2009 Out of Bounds Comedy Festival** was the eighth annual [[Out of Bounds Comedy Festival]].
 
-Its advertising was classic-Nintendo themed.
-
+## Summary
 It ran from Thursday to Monday, 9/3/09 to 9/6/09.
+
+Its advertising was classic-Nintendo themed.
 
 ## Acts
 ### Local Improv and Sketch Acts
