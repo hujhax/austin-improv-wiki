@@ -28,6 +28,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Charles Dickens Unleashed]]*
 * *[[Fakespeare]]*
 * *[[Fandom]]*
+* *[[History Under the Influence]]*
 * *[[Improvised Shakespeare]]*
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Live Nude Improv]]*
