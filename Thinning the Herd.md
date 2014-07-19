@@ -81,6 +81,10 @@ Season one ran from 10/6/13 to January 2014.
 * [[Tyler Bryce]]
 
 ## Media
+### Videos
+* [http://vimeo.com/80101072 Video] by [[Paul Normandin]] of the 10/20/13 show.
+* [http://vimeo.com/84097461 Video] by [[Jo Chauvin]] of the cast's 1/5/14 dance party.
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.426596174070571.104123.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/1/12 season-one premiere.
 * [http://www.facebook.com/media/set/?set=a.433061613424027.105735.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/14/12 show.
@@ -93,9 +97,13 @@ Season one ran from 10/6/13 to January 2014.
 * [http://www.facebook.com/media/set/?set=a.538294176234103.1073741869.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/24/13 show.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.558598700828296.1073741833.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 4/7/13 show.
 * [http://www.facebook.com/media/set/?set=a.538299602900227.1073741870.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/21/13 show.
+** [http://cwcreations.smugmug.com/Improv-2013/Institution/2013-04-21-Thinning-the-Herd/ Photoset]  by [[Chad Wellington]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/19/13 show.
 * [http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/19/13 show.
 * [http://www.facebook.com/media/set/?set=a.608715279191992.1073741941.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/6/13 season-three premiere.
+* [http://www.facebook.com/media/set/?set=a.629515183778668.1073741943.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/3/13 performance.
+* [http://www.facebook.com/media/set/?set=a.633862086677311.1073741944.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/17/13 performance.
+* [http://www.facebook.com/media/set/?set=a.668757583187761.1073741954.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/12/14 performance.
 
 ## More Information
 * [http://www.facebook.com/thintheherd The show's facebook page.]
