@@ -20,11 +20,13 @@ The Seven Eight Sevens decided to bring the troupe to a close in the Summer of 2
 
 ## Media
 ### Pictures
+* [http://www.facebook.com/photo.php?fbid=10101796073556070&set=a.10101796070781630.3377695.7909117&type=3&theater Photoset] by [[Heidi Rogers]] that includes their 3/31/12 debut at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.421729564515211.95097.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/28/12 performance in *[[The Weekender]]*.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.423932184294949.95441.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/31/12 performance at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.435799136441587.97506.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 6/21/12 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.446479128706921.99843.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/14/12 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3 Photoset] by [[Jon Bolden]] which includes their performance at [[WaffleFest 2012]].
+* [http://www.facebook.com/tylerbryce/media_set?set=a.10151904164517704.1073741841.505207703&type=3 Photoset] by [[Tyler Bryce]] of their final show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 *[https://www.facebook.com/theseveneightsevens The Seven Eight Sevens facebook page]
