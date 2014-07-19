@@ -66,6 +66,8 @@ This is their bio from their web site:
 * [http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/25/09 show.
 * [http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 11/15/09 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.242737852264.168272.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/11/09 performance ("Asylum").
+* [https://www.facebook.com/MadelineChauvin/media_set?set=a.10100417741200160.3101439.7944448&type=3 Photoset] by [[Jo Chauvin]] of their 3/25/10 "Women With Confidence" show (featuring guest performer [[Shana Merlin]]).
+* [http://www.facebook.com/tylerbryce/media_set?set=a.414116062703.206133.505207703&type=3 Photoset] by [[Tyler Bryce]] of their April 2010 show at the Red Dirt Improv Festival in Oklahoma.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/21/10 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] of their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/23/10 performance at *[[The Spectacle]]*.
@@ -75,7 +77,9 @@ This is their bio from their web site:
 ** [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/24/10 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 10/2/10 performance at the [[Hyde Park Theater]].
+* [https://www.facebook.com/MadelineChauvin/media_set?set=a.10100748440466180.3190128.7944448&type=3 Photoset] by [[Jo Chauvin]] of their 4/29/11 show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1719096989138.2081992.1589679282&type=3 Photoset] by [[Roy Moore]] of their 6/14/11 "Two Year Anniversary" show.
+** [https://www.facebook.com/MadelineChauvin/media_set?set=a.10100845194265790.3215678.7944448&type=3 Photoset] by [[Jo Chauvin]] of the same show.
 * [[Http - --www.facebook.com-michael.yew-media setset=a.1811908780232.89127.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/1/11 show at [[The 2011 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.190613261007361.45295.118587218209966&type=3 Photoset] by [[Roy Moore]] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/19/11 performance at [[WaffleFest]].
@@ -84,15 +88,19 @@ This is their bio from their web site:
 * [http://www.facebook.com/michael.yew/media_set?set=a.2848574976239.115505.1315383518&type=3 Photoset] by [[Michael Yew]] of their 3/19/12 "Mamet Goes to the Movies" show.
 * [http://www.facebook.com/media/set/?set=a.303370379731648.68604.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 3/31/12 "Mamet Goes to the Movies" show.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 4/1/12 performance in *[[The Weekender]]*.
+** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the same show.
 * [http://www.facebook.com/media/set/?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] of their 11/10/12 performance [[WaffleFest]].
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the same show.
 * [http://www.facebook.com/media/set/?set=a.340729629323893.83550.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/14/12 show at [[The 2012 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3 Photoset of the 5/5/12 show] which they shared with [[Girls Girls Girls]] (photos by [[Steve Rogers]]).
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their July 2013 "UN" show, as well as their 100th show.
 * [http://www.facebook.com/media/set/?set=a.415265488536973.100822.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/31/12 show at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/hujhax/media_set?set=a.10151291684187265.521166.588952264&type=3 Casual photos] by [[Peter Rogers]] from after their 9/27/12 show at Improvaganza in Honolulu.
 * [http://www.facebook.com/media/set/?set=a.525065577556963.1073741857.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/13/13 at [[The 2013 Improvised Play Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.4771818696130.1073741835.1315383518&type=3 Photoset] by [[Michael Yew]] of their 5/18/13 show with special guest Joe Bill.
 * [http://www.facebook.com/media/set/?set=a.530515880350429.1073741857.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 ** [http://www.flickr.com/photos/oob_pics/sets/72157635455662967/ Photoset] by [[Ryan Criswell]] of the same show.
+* [https://www.facebook.com/media/set/?set=a.644308972299289.1073741951.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 100th show on 12/6/13.
 
 ### Audio
 * [http://ferstenfeld.com/mp3s/prov/may23-confidancemen-rehearsal-tearoom.mp3 Audio of their 5/23/09 rehearsal.] ("Tea Room")
