@@ -43,6 +43,7 @@ This is their bio from their web site:
 * [http://www.viddler.com/explore/troyamiller/videos/83/ Video of their 2/18/2011 show.] ("Arctic Research Facility")
 * [http://www.viddler.com/explore/troyamiller/videos/82/ Video of their 2/19/2011 show.] ("Mount Olympus")
 * [http://www.viddler.com/explore/troyamiller/videos/84/ Video of their 2/24/2011 show.] ("News Room")
+* [http://vimeo.com/26129030 Video] of their performance in [[The 2011 Improvised Play Festival]].
 * [http://www.viddler.com/explore/exquisitezombie/videos/6/ Video of their 6/4/2011 show.] ("Opryland Variations")
 * [http://www.viddler.com/explore/troyamiller/videos/90/ Video of their 9/3/2011 show.] ("Hall of Justice")
 * [http://www.viddler.com/explore/exquisitezombie/videos/19/ Video of their 10/9/2011 show.] ("Petting Zoo")
