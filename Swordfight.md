@@ -24,7 +24,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 * [http://www.facebook.com/photo.php?v=1388920284727 Footage from the Austin variety show.]
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.360450719602.192831.360441029602&type=1 Photoset] of their performance in *[[4x4]]*.
+* [http://www.facebook.com/media/set/?set=a.360450719602.192831.360441029602&type=1 Photoset] of their performance in *[[2x4]]*.
 
 ### Publicity
 * [http://www.facebook.com/media/set/?set=a.360804534602.192868.360441029602&type=1 Publicity photoset.]
