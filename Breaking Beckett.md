@@ -59,7 +59,7 @@ Bob also consulted with [[Kareem Badr]] and [[Kaci Danger]] about show structure
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
 
 ## More Information
-* The show's Facebook page: [https://www.facebook.com/BreakingBeckett]
+* [http://www.facebook.com/BreakingBeckett The show's Facebook page].
+* [http://www.austinchronicle.com/daily/arts/2014-07-18/improv-tragedy-absurdity-wtf-institution-theatre/ Article about the show] by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
 
-[[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]
