@@ -19,7 +19,12 @@ Starting with the 5/19/13 *Rubber Room*, the faculty made it possible for attend
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10151703977722265.1073741830.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/19/13 show.
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102526795004430.3491242.7909117&type=3 Photoset] by [[Heidi Rogers]] of the 11/11/12 jam.
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the 1/6/13 jam, the 4/7/13 jam, and the 5/26/13 jam.
+* [http://www.facebook.com/tylerbryce/media_set?set=a.10151630499882704.1073741827.505207703&type=3 Photoset] by [[Tyler Bryce]] of the 4/7/13 jam.
+* [http://www.facebook.com/hujhax/media_set?set=a.10151703977722265.1073741830.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/19/13 jam.
+** [http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-19-Rubber-Room/ Photoset] by [[Chad Wellington]] of the same jam.
+* [https://www.facebook.com/MadelineChauvin/media_set?set=a.10104147379555000.1073741835.7944448&type=3 Photoset] by [[Jo Chauvin]] that includes the 1/25/14 jam.
 
 ## More Information
 * [http://www.theinstitutiontheater.com/shows/52 The show's web site.]
