@@ -85,11 +85,12 @@
 ### Photos
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.593035304060292.1073741831.100000614831752&type=3 Photoset of *Macbeth* (date unknown)] by [[Warren Henderson]].
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.608194305877725.1073741836.100000614831752&type=3 Photoset of *Much Ado About Nothing* (date unknown)] by [[Warren Henderson]].
+* [Photoset http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3] by [[Heidi Rogers]] that includes the 7/19/13 finale of *Macbeth*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4944587095232.1073741839.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 6/21/13 performance in [[The 44-Hour Improv Marathon]].
-* The 7/21/13 show:
-** [http://www.facebook.com/tylerbryce/media_set?set=a.10151814054412704.1073741838.505207703&type=3 Photoset of the 7/21/13 show] by [[Tyler Bryce]].
-** [http://www.facebook.com/warren.henderson.946/media_set?set=a.619012461462576.1073741837.100000614831752&type=3 Photoset of the 7/21/13 show] by [[Warren Henderson]].
+* [http://www.facebook.com/tylerbryce/media_set?set=a.10151814054412704.1073741838.505207703&type=3 Photoset of the 7/21/13 show] by [[Tyler Bryce]].
+** [http://www.facebook.com/warren.henderson.946/media_set?set=a.619012461462576.1073741837.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.530459920356025.1073741856.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/media/set/?set=a.756193911110794.1073742024.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 
 ### Videos
 * [http://vimeo.com/72798057 Video of the closing night (7/19/13) of *Macbeth*.]
