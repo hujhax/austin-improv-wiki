@@ -19,6 +19,9 @@ The Seven Eight Sevens decided to bring the troupe to a close in the Summer of 2
 * 3/28/2013 - Played the Dallas Comedy Festival.
 
 ## Media
+### Videos
+* [http://vimeo.com/46227834 Video] by [[Paul Normandin]] of their 7/14/12 show at [[Salvage Vanguard Theater]].
+
 ### Pictures
 * [http://www.facebook.com/photo.php?fbid=10101796073556070&set=a.10101796070781630.3377695.7909117&type=3&theater Photoset] by [[Heidi Rogers]] that includes their 3/31/12 debut at [[Salvage Vanguard Theater]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.421729564515211.95097.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/28/12 performance in *[[The Weekender]]*.
