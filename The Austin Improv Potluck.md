@@ -30,6 +30,7 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 
 ## Media
 ### Photos
+* [http://www.flickr.com/photos/austinimprov/sets/72157637709625706/ Brainstorming notes about the local improv scene] from the 2005 potluck.
 * [http://www.facebook.com/hujhax/media_set?set=a.10152063720712265.1073741841.588952264&type=1 A photoset of the annual group photos from 2006 to the present.]
 * [http://www.flickr.com/photos/austinimprov/sets/72157603231421564/ A photoset of the 2007 potluck]. 
 * [http://www.facebook.com/Jonbolden/media_set?set=a.511218956713.2022096.76200304&type=3 A photoset] by [[Jon Bolden]] of the 2008 potluck.
