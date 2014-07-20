@@ -16,6 +16,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 ## Media
 ### Videos
 * [http://vimeo.com/17767225 Video of their 12/9/10 show]  at *[[The Threefer]]*.
+* Video of their 1/13/11 show: [http://youtu.be/hcP9NoVJwPE 1], [http://youtu.be/QfsS_yL33jQ 2].
 * [http://vimeo.com/66537080 Video of their 5/17/13 show] in the *[[2x4]]*.
 
 ### Photos
