@@ -5,7 +5,7 @@
 |Years	=		2013-Present
 }}
 
-**Kevlar: We're Bulletproof** is an improv duo.
+**Kevlar** (full name: **Kevlar: We're Bulletproof**) is an improv duo.
 
 ## Summary
 ### Press Blurb
