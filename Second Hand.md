@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Second Hand
+|Picture=		Second Hand.jpg
 |Cast	=	{{ Unbulleted list | [[Avimaan Syam]] | [[Jesse Bertron]] | [[Paul Wainright]] }}
 |Years	=		2010-2011
 }}
@@ -19,6 +20,10 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 <p>We want our stories to be grounded in the emotional reality of our characters, and our characters to be grounded in unresolved worldviews. </p>
 <p>We want our shows to feel very intimate, and secretly wish people left thinking we're magicians in addition to improvisers.</p>
 </blockquote>
+
+## Media
+### Photos
+* [https://www.facebook.com/michael.yew/media_set?set=a.1451649133966.61937.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/1/10 performance.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
