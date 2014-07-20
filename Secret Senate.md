@@ -19,6 +19,10 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 ### Videos
 * [http://vimeo.com/17767225 Video of their 12/9/10 show]  at *[[The Threefer]]*.
 
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.10150120821962265.308816.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/9/10 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/12/11 performance in *[[The Threefer]]*.
+
 ## More Information
 * [http://www.facebook.com/pages/Secret-Senate-Improv/114779638558764 The troupe's facebook page.]
 
