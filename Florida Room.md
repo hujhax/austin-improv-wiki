@@ -14,6 +14,12 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>We improvise an episode of *The Golden Girls* based on an audience suggestion. We eat lots of cheescake during the show and wear costumes. It's a good time!</blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes one of their shows. 
+* [http://www.facebook.com/hujhax/media_set?set=a.437930102264.211724.588952264&type=3 Photoset] by [[Peter Rogers]] of their performance in the 5/6/10 *[[Threefer]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/27/10 performance.
+
 ## More Information
 * [http://www.facebook.com/pages/Florida-Room-Improvised-Golden-Girls/112412095444201 The troupe's facebook page.]
 
