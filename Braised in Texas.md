@@ -3,7 +3,7 @@
 |Picture =	Braised in Texas.jpg
 |Theater = [[ColdTowne Theater]]
 |Director =	[[Erika May McNichol]]
-|Cast =	{{Unbulleted list | [[Andy Buck]] | [[Arthur Simone]] | [[Calan lambert]] | [[Carlos LaRotta]] | [[Cortnie Jones]] | [[Emma Holder]] | [[Jericho Thorp]] | [[John Ratliff]] | [[Katie Thorton]] | [[Nicole McCracken]] | [[Taylor Overstreet]] | [[Valerie Ward]] }}
+|Cast =	{{Unbulleted list | [[Andy Buck]] | [[Arthur Simone]] | [[Calan lambert]] | [[Carlos LaRotta]] | [[Cortnie Jones]] | [[Emma Holder]] | [[Jericho Thorp]] | [[John Ratliff]] | [[Katie Thornton]] | [[Nicole McCracken]] | [[Taylor Overstreet]] | [[Valerie Ward]] }}
 |Run	=	May/Jun 2013
 }}
 
