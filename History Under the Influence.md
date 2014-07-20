@@ -20,8 +20,13 @@ After a very successful Free Fringe show, Kevin submitted the show for a month-l
 In June of 2014, Kevin took an impromptu trip to Tampere, Finland, where he had performed in 2013 with [[Zarzamora]]. While there he performed History Under the Influence with a European cast.
 
 ## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=1 Photoset] by [[Chad Wellington]] that includes their 5/29/14 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
+
 ### Videos
 * [http://vimeo.com/89691491 The original 3/20/14 *Free Fringe* show.] 
+* [http://vimeo.com/93695385 Video] by [[Peter Rogers]] of the 5/1/14 show.
 * [http://vimeo.com/94626212 The 5/8/14 show.] 
 * [http://vimeo.com/95560857 The 5/15/14 show.]
 
