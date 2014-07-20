@@ -35,7 +35,7 @@
 * Saturday 3pm: Student Showcase
 * Saturday 4pm: "Play by Play: Cubs vs. White Sox", improv commentary over Major League Baseball
 * Saturday 5pm: "The Life Game", improv inspired by a live celebrity interview
-* Saturday 6pm: "The Hippodrome", improv beyond the horizon
+* Saturday 6pm: *[[Lola]]*
 * Saturday 7pm: *[[After School Improv]]*
 * Saturday 8pm: *[[Improvised Shakespeare]]*
 * Saturday 9pm: [[Holy 1960s Batman, Batman!|"Holy Sleep Deprivation, Batman!"]], an improvised episode of the 60s *Batman* tv show
