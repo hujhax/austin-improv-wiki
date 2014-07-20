@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		My Friend Stripey
+|Picture	=		My Friend Stripey.jpg
 |Directory = [[Patrick Daniel]]
 |Cast	=	{{ Unbulleted list | [[David Rosenbaum]] | [[Kim Roche]] | [[Matt Craighead]] | [[Nancy Lyon]] | [[Neal Tibrewala]] | [[Susannah Raulino]] }}
 |Years	=		2009-2011
