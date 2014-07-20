@@ -14,6 +14,10 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We're demons making a go of this dimension. It's the ultimate fish out of water world, where two individuals are learning more about themsleves and how their new environment is changing them and the way they relate to one another.</blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 4/11/11 performance in *[[The Monday Night Mash]]*.
+ 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Duos|Category:Duos]]
