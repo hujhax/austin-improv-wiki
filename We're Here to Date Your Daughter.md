@@ -18,8 +18,15 @@ The troupe was briefly named "I'm Here to Date Your Daughter" until the name "We
 *03/30/2013 - [[The Institution Theater]]
 
 ## Media
+### Videos
+* [http://vimeo.com/55717158 Video] by [[Paul Normandin]] of their 12/8/12 debut.
+* [http://vimeo.com/63069386 Video] by [[Paul Normandin]] of their 3/30/13 show at [[The Institution Theater]].
+* [http://vimeo.com/65027838 Video] by [[Paul Normandin]] of their 4/28/13 performance in *[[The Weekender]]*.
+
 ### Photos
+* [http://www.facebook.com/media/set/?set=a.499932860070235.117264.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 2/10/13 performance in *[[The Weekender]]*.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.555449511143215.1073741826.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 3/30/13 performance in *[[The Triple Scoop]]*.
+* [http://www.facebook.com/media/set/?set=a.704040979659421.1073741972.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 3/16/14 show at [[ColdTowne Theater]].
 
 ## More Information
 *[http://www.facebook.com/TalkinToStrangers We're Here to Date Your Daughter Facebook page]
