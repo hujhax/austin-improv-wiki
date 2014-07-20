@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		3, 2, 1, Kill!
 |Picture	=	3, 2, 1, Kill!.jpg
-|Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Arthur Simone]] | [[Bob McNichol]] | [[Ceej Allen]] | [[Chris Trew]] | [[Dave Buckman]] | [[Erika May McNichol]] | [[Jill Morris]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Madeline Malka]] | [[Michael Jastroch]] | [[Rachel Madorsky]] | [[Roy Janik]] | [[Tami Nelson]] | [[Valerie Ward]] | [[Wesley Bain]] }}
+|Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Arthur Simone]] | [[Bob McNichol]] | [[Ceej Allen]] | [[Chris Trew]] | [[Dave Buckman]] | [[Erika May McNichol]] | [[Jill Morris]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Psuedonyms|Madeline M.]] | [[Michael Jastroch]] | [[Rachel Madorsky]] | [[Roy Janik]] | [[Tami Nelson]] | [[Valerie Ward]] | [[Wesley Bain]] }}
 |Years	=		2006-2008
 }}
 
