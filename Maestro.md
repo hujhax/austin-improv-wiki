@@ -48,6 +48,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 ## Media
 ### Videos
 * 3/26/99 Maestro: [http://vimeo.com/45370945 part 1], [http://vimeo.com/45370946 part 2].
+* Video of the 8/29/08 "All-Star Maestro" at [[The 2008 Out of Bounds Comedy Festival]]: [http://blip.tv/out-of-bounds-comedy-festival/all-star-maestro-fri-12midnight-svt-apples-stage-1234101 1], [http://blip.tv/out-of-bounds-comedy-festival/maestro-pt-2-fri-12midnight-svt-apples-stage-1271626 2].
 * [http://vimeo.com/30999435 10/22/11 Maestro.]
 * 12/10/11 Maestro: [http://vimeo.com/33847258 part 1], [http://vimeo.com/33862670 part 2].
 * [http://vimeo.com/33971411 12/17/11 Maestro.]
@@ -55,6 +56,8 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [http://vimeo.com/36954891 2/11/12 Maestro.]
 * [http://vimeo.com/39794849 3/24/12 Maestro.]
 * [http://vimeo.com/39994722 4/7/12 Maestro.]
+* [http://vimeo.com/40840353 Video] by [[Dave Alley]] of the 4/21/12 show.
+* [http://vimeo.com/41233363 Video] by [[Dave Alley]] of the 4/27/12 "Maestro Raw" show.
 * [http://vimeo.com/41226763 4/28/12 Maestro.]
 * [http://vimeo.com/41711040 5/5/12 Maestro.]
 * [http://vimeo.com/42177393 5/12/12 Maestro.] ([[LAFF]] edition)
@@ -70,6 +73,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [http://vimeo.com/49647824 9/15/12 Maestro.]
 * [http://vimeo.com/50040340 9/22/12 Maestro.]
 * [http://vimeo.com/51877333 10/20/12 Maestro.]
+* [http://vimeo.com/52908514 Video] by [[Paul Normandin]] of the 11/3/12 show.
 * [http://vimeo.com/54076754 11/17/12 Maestro.]
 * 11/24/12 Maestro: [http://vimeo.com/51877333 part #1], [http://vimeo.com/54503387 part #2].
 * [http://vimeo.com/55421295 12/8/12 Maestro.]
@@ -77,6 +81,9 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [http://vimeo.com/58159656 1/6/13 Maestro.]
 * [http://vimeo.com/61489753 1/26/13 Maestro.]
 * [http://vimeo.com/65951692 2/9/13 Maestro.]
+* [http://vimeo.com/73717598 Video] by [[Brad Hawkins]] of the "All-Star Maestro" at [[The 2013 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/92380406 Video] by [[Peter Rogers]] of the 4/17/14 "[[Franz and Dave]] *Maestro*".
+
 ### Photos
 #### 2002
 * [http://www.facebook.com/hujhax/media_set?set=a.19095342264.15293.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/25/02 Maestro.
@@ -111,8 +118,10 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 #### 2003
 * [http://www.facebook.com/hujhax/media_set?set=a.19100492264.15329.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/25/03 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.19100492264.15329.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/1/03 Maestro.
+
 #### 2008
 * [http://www.facebook.com/hujhax/media_set?set=a.42613887264.51527.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/2/08 Maestro.
+
 #### 2009
 * [http://www.facebook.com/hujhax/media_set?set=a.79786742264.92840.588952264&type=3 Photoset] by [[Peter Rogers]] of the 2/28/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.83199192264.96085.588952264&type=3 Photoset] by [[Peter Rogers]] of the 3/14/09 Maestro.
@@ -123,21 +132,30 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [http://www.facebook.com/hujhax/media_set?set=a.114527182264.110958.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/16/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.116189772264.111951.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/23/09 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.121688197264.115592.588952264&type=3 Photoset] by [[Peter Rogers]] of the 6/6/09 Maestro.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/31/09 Maestro.
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 9/12/09 show.
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100134803793990.2808265.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 10/19/09 show.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/31/09 "Celebrity Maestro".
+** [http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3 Photoset] by [[Jo Chauvin]] of the same show.
 * [http://www.facebook.com/hujhax/media_set?set=a.242762607264.168277.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/12/09 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1145900099574.2020007.1589679282&type=3 Photoset] by [[Roy Moore]] of the 12/19/09 Maestro.
+
 #### 2010
 * [http://www.facebook.com/hujhax/media_set?set=a.275881937264.175325.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/2/10 Maestro.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3 Photoset] by [[Roy Moore]] of the 1/9/10 Maestro.
 * [http://www.facebook.com/hujhax/media_set?set=a.300456707264.179794.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/16/10 Maestro (which included special guest Keith Johnstone).
-* [http://www.facebook.com/roy.moore/media_set?set=a.1199698684505.2025888.1589679282&type=3 Photoset] by [[Roy Moore]] of the 3/7/10 Maestro.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1199698684505.2025888.1589679282&type=3 Photoset] by [[Roy Moore]] of the 3/6/10 Maestro.
+** [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183544532160.2849456.7944448&type=3 Photoset] by [[Jo Chauvin]] of the same show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1216743030603.2027415.1589679282&type=3 Photoset] by [[Roy Moore]] of the 3/27/10 Maestro.
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100205308766460.2867895.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 4/17/10 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 5/29/10 Maestro.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 6/5/10 Maestro from [[The 41-Hour Improv Marathon]].
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100427938659370.3109252.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 8/28/10 show.
 * [http://www.flickr.com/photos/oob_pics/sets/72157624879000746/ Photoset] by [[Nadine Latief]] of the 9/3/10 All-Star Maestro at [[The 2010 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/roy.moore/media_set?set=a.1349973521282.2049911.1589679282&type=3 Another photoset] by [[Roy Moore]] of the same show.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1365397666876.2051363.1589679282&type=3 Photoset] by [[Roy Moore]] of the 9/18/10 Maestro.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 11/28/10 Maestro.
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100397893450210.3089568.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 11/13/10 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 11/27/10 Maestro.
+** [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100417660501880.3101372.7944448&type=3 Photoset] by [[Jo Chauvin]] of the same show.
 
 #### 2011
 * [http://www.facebook.com/hujhax/media_set?set=a.10150198563102265.346711.588952264&type=3 Photoset] by [[Peter Rogers]] of the 4/1/11 Maestro.
@@ -167,7 +185,15 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 
 #### 2013
 * [http://www.facebook.com/media/set/?set=a.478638782199643.115019.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/19/13 Maestro.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648700138484818.1073741864.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 10/26/13 Maestro.
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes the 5/25/13 show.
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the 8/31/13 show in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103601951227740.7909117&type=3 Photoset] by [[Heidi Rogers]] of the 9/7/13 show.
+* [http://www.facebook.com/tylerbryce/media_set?set=a.10152066090907704.1073741845.505207703&type=3 Photoset] by [[Tyler Bryce]] of the 11/9/13 "[[Girls Girls Girls]] Maestro".
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648700138484818.1073741864.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 10/26/13 "Costume Maestro".
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.732132273483927.1073741857.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes the 11/29/13 performance of *Maestro RAW*.
+
+#### 2014
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201313265936400.1073741880.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2/1/14 show.
 
 ## Notes
 <references />
