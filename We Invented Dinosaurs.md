@@ -19,6 +19,9 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * [http://vimeo.com/31198200 Video] of their 10/22/11 performance at *[[The Speakeasy]]*.
 * [http://vimeo.com/34440294 Video] of their 12/29/11 performance at *[[The Threefer]]*.
 
+### Photos
+* [http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 4/11/11 performance in *[[The Monday Night Mash]]*.
+
 ## More Information
 * [http://www.facebook.com/weinventeddinosaurs The duo's facebook page.]
 
