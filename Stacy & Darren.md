@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Stacy & Darren
+|Picture=		Stacy & Darren.jpg
 |Director = [[John Ratliff]]
 |Cast	=	{{ Unbulleted list | [[Darren Mieskoski]] | [[Stacy Kaplowitz]] }}
 |Years	=		2010
@@ -19,6 +20,13 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 <p>We mix in some pretty sweet organic edits between scenes which maintains a nice flow throughout the set.</p>
 
 <p>Of course this is all based on the phenomenal skills we both learned taking classes at The Hideout Theater as well as what we've learned from being coached by John Ratliff since May.</p></blockquote>
+
+## History
+The duo had only one performance, on 12/1/10.
+
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/1/10 performance.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
