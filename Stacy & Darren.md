@@ -26,7 +26,7 @@ The duo had only one performance, on 12/1/10.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/1/10 performance.
+* [https://www.facebook.com/michael.yew/media_set?set=a.1451649133966.61937.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/1/10 performance.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
