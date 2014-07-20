@@ -41,12 +41,37 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 * [http://vimeo.com/47800315 The troupe's seventh show.]
 * [http://vimeo.com/47916623 8/19/12: the troupe's eighth show.]
 * [http://vimeo.com/49933970 Their 9/20/12 show] at *[[The Free Fringe]]*.
+* [http://vimeo.com/51042429 Video] by [[Paul Normandin]] of their 10/4/12 performance in *[[The Threefer]]*.
+* [http://vimeo.com/52598839 Video] by [[Paul Normandin]] of their 10/11/12 performance in *[[The Threefer]]* ("Drugs & Kids").
+* [http://vimeo.com/52051384 Video] by [[Paul Normandin]] of their 10/18/12 performance in *[[The Threefer]]* ("Car Accident"/"Brady Bunch").
+** [http://vimeo.com/63321919 A second copy of the video.]
+* [http://vimeo.com/52466512 Video] by [[Paul Normandin]] of their 10/25/12 performance in *[[The Threefer]]* ("Runaway Dad").
+* [http://vimeo.com/53309165 Video] by [[Paul Normandin]] of their 11/10/12 performance at [[WaffleFest 2012]] ("The Affair").
+* [http://vimeo.com/54726986 Video] by [[Paul Normandin]] of their 12/1/12 performance at [[The Institution Theater]].
+* [http://vimeo.com/59231320 Video] by [[Paul Normandin]] of their 2/3/13 performance in *[[The Weekender]]*.
+* [http://vimeo.com/60349214 Video] by [[Paul Normandin]] of their 2/21/13 performance in *[[The Free Fringe]]* ("Worst Show").
 * [http://vimeo.com/65469964 Their 4/11/13 show] at [[The 2013 Improvised Play Festival]].
+* [http://vimeo.com/64388123 Video] by [[Paul Normandin]] of their 4/18/13 performance in *[[The Free Fringe]]*.
+* [http://vimeo.com/65119505 Video] by [[Paul Normandin]] of their 4/29/13 performance at [[ColdTowne Theater]].
+* [http://vimeo.com/66219259 Video] by [[Paul Normandin]] of their 5/12/13 performance in *[[The Weekender]]*.
+* [http://vimeo.com/68677057 Video] by [[Paul Normandin]] of their 6/17/13 performance at [[ColdTowne Theater]].
 * [http://vimeo.com/74497522 Their 6/22/13 show] at [[The 44-Hour Improv Marathon]].
+* [http://vimeo.com/72630352 Video] by [[Paul Normandin]] of their 8/15/13 performance in *[[The Threefer]]*.
+* [http://vimeo.com/72633647 Video] by [[Paul Normandin]] of their 8/15/13 performance in *[[The Free Fringe]]*.
+* [http://vimeo.com/73463186 Video] by [[Paul Normandin]] of their 8/28/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/76981801 Video] by [[Paul Normandin]] of their 9/20/13 performance at [[Salvage Vanguard Theater]].
+* [http://vimeo.com/75935997 Video] by [[Paul Normandin]] of their 9/27/13 performance in Washington, DC's "District Improv Festival".
+* [http://vimeo.com/76978922 Video] by [[Paul Normandin]] of their 10/9/13 performance at [[ColdTowne Theater]].
+* [http://vimeo.com/77411147 Video] by [[Paul Normandin]] of their 10/17/13 performance in *[[The Free Fringe]]*.
+* [http://vimeo.com/80867898 Video] by [[Paul Normandin]] of their 11/21/13 performance in [[WaffleFest 2013]].
+* [http://vimeo.com/80870736 Video] by [[Paul Normandin]] of their 11/25/13 performance at [[ColdTowne Theater]].
+* [http://vimeo.com/91778243 Video] of their show in [[The 2014 Improvised Play Festival]].
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200173474242320.1073741840.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 7/18/13 performance in *[[The Free Fringe]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
 
 ## More Information
 * [http://www.facebook.com/InOurPrime In Our Prime facebook page]
