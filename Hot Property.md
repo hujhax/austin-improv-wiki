@@ -20,6 +20,10 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 ### Videos
 * [http://vimeo.com/22529926 Performance at ColdTowne Theater].
 
+### Photos
+* [http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 3/5/12 performance in *[[The Monday Night Mash]]*.
+* [http://www.facebook.com/media/set/?set=a.383608938369295.91499.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/16/12 show.
+
 ## More Information
 * [http://hotproperty.tumblr.com/ The troupe's web site.]
 
