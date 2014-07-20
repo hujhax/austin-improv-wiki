@@ -2,7 +2,7 @@
 |Name	=		Church Potluck
 |Picture	=	Church Potluck.jpg
 |Cast	=	{{ Unbulleted list | [[Christine Giordano]] | [[John Buseman]] | [[Madeline Jo Chauvin]] | [[Ryan Thomas]] | [[Ted Meredith]] }}
-|Years	=		2011-2012
+|Years	=		2010-2012
 }}
 
 **Church Potluck** was an improv troupe.
