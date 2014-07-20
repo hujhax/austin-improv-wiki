@@ -18,6 +18,10 @@ Together, they are Ames and James -- delivering comedy and engaging characters w
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We've been doing a lot of history-based scene work where we jump around time and play characters that might be found at famous battles or civil rights marches or doing cave paintings in pre-historic times.</blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/23/11 performance at [[The Hideout Theatre]].
+
 ## More Information
 * [http://www.facebook.com/pages/Ames-and-James/136531642051 The troupe's web site.]
 
