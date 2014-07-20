@@ -1,5 +1,5 @@
 {{Infobox Troupe
-|Name	=		Kevlar: We're Bulletproof
+|Name	=		Kevlar
 |Picture	=	Kevlar.jpg
 |Cast	=	{{ Unbulleted list | [[David Lampe]] | [[Kevin Miller]] }}
 |Years	=		2013-Present
