@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Baby Kick Baby
+|Picture=		Baby Kick Baby.jpg
 |Cast	=	{{ Unbulleted list | [[Jason Oliver]] | [[Michael Bird]] }}
 |Years	=		2009
 }}
