@@ -16,7 +16,8 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.469676042264.238160.588952264&type=3 Photoset] by [[Peter Rogers]] of their 8/31/10 performance in *[[The Cagematch]]*.
+* [http://www.facebook.com/hujhax/media_set?set=a.469676042264.238160.588952264&type=3 Photoset] by [[Peter Rogers]] of their 8/31/10 performance in an exhibition match at *[[The Cagematch]]*.
+* [http://www.facebook.com/hujhax/media_set?set=a.482836252264.261191.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/2/10 show from [[The 2010 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
