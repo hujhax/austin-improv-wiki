@@ -8,7 +8,7 @@
 |Subsequent Runs = May/Jun 2009
 }}
 
-:*This page refers to the 2008 and 2009 mainstage runs of improvised plays in the style of William Shakespeare.  For the 2013 mainstage run which will have a more free-form format, and include runs of *Much Ado About Nothing* and *Macbeth*, see *[[Fakespeare]]''.
+:*This page refers to the 2008 and 2009 mainstage runs of improvised plays in the style of William Shakespeare.  For the 2013 mainstage run which had a more free-form format, and included scripted runs of *Much Ado About Nothing* and *Macbeth*, see *[[Fakespeare]]''.
 ***Improvised Shakespeare*** was a mainstage show at [[The Hideout Theatre]] of improvised plays in the style of [[Wikipedia - William Shakespeare|William Shakespeare]].
 
 ## History
