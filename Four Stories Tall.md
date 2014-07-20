@@ -15,6 +15,10 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>We like to do montage, but we are also experimenting with other forms at the moment, such as mono-scene. The members of this troupe have known each other for at least 3 years or so. We all come from the Hideouts Teen Class, but more recently we have decided to branch out and start are own troupe. Our coach is Jeremy Sweetlamb. </blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.304156159653070.68767.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 3/1/12 show at [[ColdTowne Theater]].
+
 ## More Information
 * [http://www.facebook.com/pages/Four-Stories-Tall/288843287855043 The troupe's facebook page.]
 
