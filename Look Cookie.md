@@ -14,6 +14,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 ## Media
 ### Videos
 * [http://youtu.be/lTqFxtviEZc Video] by [[Cody Dearing]] of their first show in April 2007.
+* [http://blip.tv/out-of-bounds-comedy-festival/look-cookie-wed-10pm-apples-stage-1236752 Video] of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://www.myspace.com/lookcookiecrew The troupe's myspace page.]
