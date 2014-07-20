@@ -24,7 +24,9 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 * [http://www.facebook.com/photo.php?v=1388920284727 Footage from the Austin variety show.]
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.360450719602.192831.360441029602&type=1 Photoset] of their performance in "4x4".
+* [http://www.facebook.com/media/set/?set=a.360450719602.192831.360441029602&type=1 Photoset] of their performance in "4x4" (uploaded 3/3/10).
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183505325730.2849425.7944448&type=3 Photoset] by [[Jo Chauvin]] of their 3/15/10 show.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 5/31/10 performance in *[[The Monday Night Mash]]*.
 
 ### Publicity
 * [http://www.facebook.com/media/set/?set=a.360804534602.192868.360441029602&type=1 Publicity photoset.]
