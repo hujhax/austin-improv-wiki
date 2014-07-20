@@ -17,6 +17,8 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 * [http://www.facebook.com/media/set/?set=a.214762594820.133325.198227579820&type=3 Photoset] that includes their 12/21/09 performance in *[[The Cagematch]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 5/31/10 performance in *[[The Monday Night Mash]]*.
+* [http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 3/10/11 show at *[[The Threefer]]*.
 
 ## More Information
 * [http://www.facebook.com/pages/Achatina-Achatina/198227579820 The troupe's web site.]
