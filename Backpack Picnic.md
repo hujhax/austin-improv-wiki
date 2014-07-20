@@ -25,7 +25,7 @@ After going dormant in 2008, the troupe performed several reunion shows for [[Th
 
 ### Photos
 * [http://www.flickr.com/photos/oob_pics/sets/72157606947626225 Photoset] that includes their performance in [[The 2008 Out of Bounds Comedy Festival]].
-* [http://www.flickr.com/photos/hujhax/sets/72157635322943322 Photoset] by [[Peter Rogers]] of their performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.flickr.com/photos/hujhax/sets/72157635322943322 Photoset] by [[Peter Rogers]] of their 8/30/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://en.wikipedia.org/wiki/Backpack_Picnic The duo's wikipedia page.]
