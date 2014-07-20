@@ -26,9 +26,14 @@ In [[The 44-Hour Improv Marathon]], the duo introduced "Pine Falls", an improvis
 * [http://vimeo.com/37759076 Video of their 2/2/12 show.]
 * [http://vimeo.com/61101915 Video of their 3/4/13 show.]
 * [http://vimeo.com/69014376 Video of their 6/21/13 "Pine Falls" show,] part of [[The 44-Hour Improv Marathon]].
+* [http://vimeo.com/70835393 Video] by [[Brad Hawkins]] of a "Pine Falls" show at [[The Hideout Theatre]] (uploaded 7/23/13).
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 12/5/13 "Franz & Dave Do Improv" show at *[[The Free Fringe]]*.
+* [http://vimeo.com/82472952 Video] by [[Brad Hawkins]] of their 12/20/13 show at [[The Hideout Theatre]] ("Hotel").
+* [http://vimeo.com/92380406 Video] by [[Peter Rogers]] of the 4/17/14 "Franz and Dave *[[Maestro]]*" at *[[The Free Fringe]]*.
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.10150659165717265.450006.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/1/12 show.
+* [http://www.facebook.com/media/set/?set=a.756998384363680.1073742027.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 
 ## More Information
 * [http://facebook.com/franzanddave Franz & Dave's Facebook page.]
