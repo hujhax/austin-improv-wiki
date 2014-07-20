@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Bridgeport Women's Correctional Facility Short Form Players
 |Picture	=	Bridgeport Women's Correctional Facility Short Form Players.jpg
-|Cast	=	{{Unbulleted list | [[Chrissy Shackleford]] | [[Cortnie Jones]] | [[Courtney Hopkin]] | [[Erika May McNichol]] | [[Jen Cargill]] | [[Jill Morris]] | [[Kaci Beeler]] | [[Katie Thornton]] | [[Lisa Jackson]] | [[Madeline Malka]] | [[Rachel Madorsky]] | [[Tami Nelson]] }}
+|Cast	=	{{Unbulleted list | [[Chrissy Shackleford]] | [[Cortnie Jones]] | [[Courtney Hopkin]] | [[Erika May McNichol]] | [[Jen Cargill]] | [[Jill Morris]] | [[Kaci Beeler]] | [[Katie Thornton]] | [[Lisa Jackson]] | [[Psuedonyms|Madeline M.]] | [[Rachel Madorsky]] | [[Tami Nelson]] }}
 |Director = [[Erika May McNichol]]
 |Years	=		2006-2007, 2014
 }}
@@ -23,7 +23,7 @@ The troupe debuted in *[[The Cagematch]]* on 7/14/06 with the following cast:
 * [[Jen Cargill]]
 * [[Jill Morris]]
 * [[Kaci Beeler]]
-* [[Madeline Malka]]
+* [[Psuedonyms|Madeline M.]]
 * [[Rachel Madorsky]]
 * [[Tami Nelson]]
 
