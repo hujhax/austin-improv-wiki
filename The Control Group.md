@@ -22,6 +22,10 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 <p>We try to pull elements through from scene to scene.</p>
 </blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/14/11 performance in *[[The Threefer]]*.
+
 ## More Information
 * [http://www.facebook.com/pages/The-Control-Group/140017466035714 The troupe's facebook page.]
 
