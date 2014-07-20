@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Kazillionaire*
 |Picture	=	Kazillionaire*.jpg
-|Cast	=	{{Unbulleted list | [[Jeremy Lamb]] | [[Psuedonyms|Madeline M.]] }}
+|Cast	=	{{Unbulleted list | [[Jeremy Lamb]] | [[Pseudonyms|Madeline M.]] }}
 |Years	=		2006-2007
 }}
 
