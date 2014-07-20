@@ -44,7 +44,7 @@ Local Genius Society formed in late 2010 by a group of improv students from [[Th
 * [http://youtu.be/0hOEB6ctECQ Video of their performance] from 5/28/11.
 * [http://vimeo.com/44633920 Video of their performance] from the 2011 [[WaffleFest]].
 * [http://vimeo.com/40328506 Video of their performance] at [[The 2012 Improvised Play Festival]].
-* [http://vimeo.com/44634493 Video] of their "Werewolves" show at *[[The Free Fringe]]* from 5/10/12.
+* [http://vimeo.com/44634493 Video] of their "Full Moon Rises" show at *[[The Free Fringe]]* from 5/10/12.
 * [http://vimeo.com/53183870 Video of their performance] from the 2012 [[WaffleFest]].
 * [http://vimeo.com/58861610 Video of their performance] from their 2/1/13 performance headlining *[[The Spectacle]]*.
 * [http://vimeo.com/59947353 Video of their performance] on 2/17/13 at [[ColdTowne Theater]].
@@ -66,6 +66,7 @@ Local Genius Society formed in late 2010 by a group of improv students from [[Th
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3
 Photoset] that includes their 12/8/12 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 2/1/13 performance in *[[The Spectacle]]*.
+* [http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
 
 ### Publicity
 * As part of their fundraiser for their trip to Improvaganza in 2012, the troupe recorded a series of mock PSAs from the "Beach Cops"
