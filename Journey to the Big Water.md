@@ -34,8 +34,14 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.376374809050687.87193.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their performance in the 3/22/12 *[[Threefer]]*.
 
 ### Videos
-* [http://www.youtube.com/watch?v=HyHgSUg6EqU Video of their 1/19/11 show.]
-* [http://www.youtube.com/channel/UC3lOqe4TTAfd3O36rdCOjZg The troupe's youtube channel.]
+* Video of their second show (11/18/10): [http://youtu.be/DwBEble15w4 1], [http://youtu.be/oxLOyQIYJfw 2].
+* Video of their fourth show (1/6/11): [http://youtu.be/9KKwdWcMfbE 1], [http://youtu.be/wVP66OwrLoo 2], [http://youtu.be/EDoQiAkKuW8 3].
+* Video of their fifth show (1/13/11): [http://youtu.be/zEj-wUe4rrc 1], [http://youtu.be/K6_qQXivXoQ 2]
+* [http://www.youtube.com/watch?v=HyHgSUg6EqU Video of their sixth show (1/19/11).]
+** [http://youtu.be/HyHgSUg6EqU Another partial video of the same show.]
+
+### Publicity
+* [http://youtu.be/Tre4FYcYVBI Troupe promo.]
 
 ## More Information
 * [http://www.facebook.com/#!/bigwaterimprov The troupe's facebook page.]
