@@ -18,7 +18,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 ## Media
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/13/11 performance in *[[The Threefer]]*.
-** [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3 Photoset] by [[Jo Chauvin]] of the same show.
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3 Photoset] by [[Jo Chauvin]] of their 1/31/11 performance at [[ColdTowne Theater]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
