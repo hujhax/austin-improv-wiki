@@ -16,6 +16,9 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We perform a deconstructed Deconstruction.</blockquote>
 
+## Media
+* [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/26/12 performance.
+
 ## More Information
 * [http://www.facebook.com/TheNestingDolls The troupe's facebook page.]
 
