@@ -22,6 +22,10 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>So Lucy starts off the set by doing 5-7 quick scenes (4 lines or so similar the to Doctor Doctor warm up game) and then begin the piece. We don't do sweep edits - mainly french edits with one scene morphing into the next at times. </blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/23/12 performance in *[[The Threefer]]*.
+
 ## More Information
 * [http://www.facebook.com/4LUCY The troupe's web site.]
 
