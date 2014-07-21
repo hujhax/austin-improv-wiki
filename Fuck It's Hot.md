@@ -17,6 +17,13 @@ The show was directed by [[Tom Booker]] and written by [[Brently Heilbron]]. Aft
 
 The show sometimes featured special guest ukulele player [[Ryan Hill]].
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200492579299747.1073741855.1315383518&type=3 Photoset] by [[Michael Yew]] of a show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200492579299747.1073741855.1315383518&type=3 Photoset] by [[Michael Yew]] of the 9/16/13 show.
+* [http://www.facebook.com/media/set/?set=a.743179352412250.1073742004.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/31/14 show.
+
+
 ## More Information
 * [http://www.facebook.com/EffItsHot The show's facebook page.]
 
