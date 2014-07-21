@@ -36,6 +36,7 @@ So far, their formats have been "Secret Agent Men" ([[Wikipedia - James Bond|Jam
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.493085927379574.111406.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 11/16/12 performance in *[[The TV Set]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/14/12 "Elementary, Dear Holmes" performance.
 * [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/13 "Two to Beam Up" show at [[The 2013 Out of Bounds Comedy Festival]].
+** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the same show.
 
 ## More Information
 * [http://www.facebook.com/pages/Danger-Warning-Improv/346798645384312 The troupe's facebook page.]
