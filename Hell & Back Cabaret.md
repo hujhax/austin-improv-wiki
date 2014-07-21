@@ -21,9 +21,12 @@ Its first run was Saturdays at 8pm; subsequent runs have been on Fridays at 10pm
 
 ## Media
 ### Photos
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.811732662190554.1073741869.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
 * [http://www.facebook.com/media/set/?set=a.561242043939316.1073741890.221927764537414&type=3&uploaded=54 Photoset] by [[Steve Rogers]] of the 6/22/13 show.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.630522000302632.1073741858.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 9/6/13 show.
+* [http://cwcreations.smugmug.com/Improv-2013/Hell-and-Back-Cabaret/20130913/Dark-Sparkles/ Photoset] by [[Chad Wellington]] of the Dark Sparkles in the 9/13/13 performance in [[The Hell & Back Cabaret]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200570606370375.1073741859.1315383518&type=3 Photoset] by [[Michael Yew]] of the 9/20/13 and 9/27/13 shows.
+* [http://www.facebook.com/media/set/?set=a.604500396280147.1073741937.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/20/13 show.
 * [http://www.facebook.com/media/set/?set=a.208887992621682.1073741837.156632087847273&type=1 Photoset] by [[Steve Rogers]] of the 9/27/13 show.
 
 ## More Information
