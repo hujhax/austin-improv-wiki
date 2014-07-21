@@ -1,11 +1,11 @@
 {{Infobox Troupe
-|Name	=		710 Split
+|Name	=		7/10 Split
 |Picture	=	710 Split.jpg
 |Cast	=	{{ Unbulleted list | [[Jeffrey Amos]] | [[Jordan T. Maxwell]] }}
 |Years	=		2009-Present
 }}
 
-**710 Split** is an improv duo.
+**7/10 Split** is an improv duo.
 
 ## Summary
 ### Press Blurb
