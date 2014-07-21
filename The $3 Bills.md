@@ -16,5 +16,9 @@ Their press blurb from [[The 2010 Out of Bounds Comedy Festival]]:<blockquote><p
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>We do short form scenes, games, etc with a Queer twist. For example we may do a town hall style game with the subject being gay marriage, with someone taking a extreme Right view and another an extreme liberal view. Or, we may do a scene where the suggestion asked for is "a good name for a drag queen". </blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.163136237100741.43305.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their 8/30/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
+
 [[Category/Troupes|3 Bills]]
 [[Category/Auto-Generated Troupe Pages|3 Bills]]
