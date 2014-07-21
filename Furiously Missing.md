@@ -18,11 +18,14 @@ This is their bio from the [[2012 Out of Bounds]] web site:
  <p>Furiously Missing hails from Austin, TX where they met while taking classes at [[The Hideout Theatre]]. They love connecting with their audiences by telling stories inspired by the things they miss most. They have done over 25 shows together in their first year, including performances at [[The Improvised Play Festival]], [[WaffleFest]], and NYC Improv Festival at The People's Improv Theater."</p></blockquote>
 
 ## Media
+### Videos
 * [http://vimeo.com/25885607 Video of their show] at the 2011 [[Improvised Play Festival]].
 * [http://vimeo.com/40781767 Video of their April 19th, 2011 show.]
 * [http://vimeo.com/33157277 Video of their show] at [[WaffleFest]] 2011.
 * [http://vimeo.com/40901518 Video of their show] at the 2012 [[Improvised Play Festival]].
 
+### Photos
+* [http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://www.facebook.com/furiouslymissing The troupe's facebook page.]
