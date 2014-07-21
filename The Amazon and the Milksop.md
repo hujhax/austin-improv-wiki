@@ -21,7 +21,12 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 
 ## Media
 ### Videos
+* [http://vimeo.com/10584357 Video] of their March 2010 show at [[The Hideout Theatre]].
+* [http://vimeo.com/19055962 Video] of their 1/20/11 "Fitzgeralds for Hire" show at [[Frontera Fest]].
+* [http://vimeo.com/19107010 Video] of their 1/22/11 show.
 * [http://vimeo.com/40801622 Video of a "Catchin' Frogs" show.]
+* [http://vimeo.com/86963260 Video] of their 2/3/14 show in *[[The Threefer]]*.
+* [http://vimeo.com/96226803 Video] of their 4/24/14 "F. Scott and Zelda Fitzgerald Save The World" show.
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/2/10 "Fitzgeralds for Hire" show at *[[The Threefer]]*.
@@ -38,8 +43,14 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/2/12 performance of "Tennessee Williams, Performed By Robots" in [[The 43-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 8/30/12 "Catchin' Frogs" performance at [[The 2012 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
+** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the same show.
 * [http://www.facebook.com/hujhax/media_set?set=a.10151908985107265.1073741836.588952264&type=3 Photoset] by [[Peter Rogers]] of their 8/28/13 "Fitzgeralds for Hire" show at *[[The 2013 Out of Bounds Comedy Festival]]*.
+* [http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
+* [http://www.facebook.com/chriscurl/media_set?set=a.10152299683852107.1073741832.549002106&type=3 Photoset] by [[Chris Curl]] of their 4/16/14 "F. Scott and Zelda Fitzgerald Save The World" show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201747442190535.1073741886.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/21/14 performance of "F. Scott and Zelda Fitzgerald Save the World".
+* [http://www.facebook.com/media/set/?set=a.723690821027770.1073741992.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/27/14 "F. Scott and Zelda Fitzgerald Save The World!" show.
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes their 6/12/14 performance in *[[The Threefer]]*.
 
 [[Category/Troupes|Amazon and the Milksop]]
-[[Category/Active|Category:Active]]
+[[Category/Active|Amazon and the Milksop]]
 [[Category/Duos|Amazon and the Milksop]]
