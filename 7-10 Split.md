@@ -16,7 +16,14 @@ They've played every [[Out of Bounds Comedy Festival]] from 2009 to 2013.
 
 ## Media
 ### Videos
-* [http://www.vimeo.com/16379647 Video of their performance] at [[The 2010 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/6786358 Video] of their performance at [[The 2009 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/16379647 Video] of their performance at [[The 2010 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/38814731 Video] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/52415920 Video] of their performance at [[The 2012 Out of Bounds Comedy Festival]].
+
+### Photos
+* [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their performance in [[The 2012 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://www.facebook.com/pages/710-Split/249945580157 The duo's facebook page.]
