@@ -25,6 +25,12 @@ Later in the run, an audience member proposed to his girlfriend during a show (s
 * [http://vimeo.com/84009211 Video of the second show on 1/12/2014.]
 * [http://vimeo.com/85152112 Video of the fourth show on 1/25/2014.]
 * [http://vimeo.com/85691904 Video of the fifth show on 2/1/2014.]
+* [http://vimeo.com/86575695 Video] of the sixth show on 2/8/14 show.
+* [http://vimeo.com/86952004 Video] of the seventh show on 2/15/14 show.
+
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201237064271406.1073741879.1315383518&type=3 Photoset] by [[Michael Yew]] of the 1/19/13 show.
+* [http://www.facebook.com/media/set/?set=a.679895555407297.1073741960.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/8/14 show.
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
