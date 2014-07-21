@@ -47,8 +47,11 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 ### Photos
 * [http://www.facebook.com/#!/media/set/?set=a.180261545388210.48035.100002130980897&type=1 Photoset] from 10/8/2011 by [[Steve Rogers]].
 * [http://www.facebook.com/#!/media/set/?set=a.364117846958907.80222.338492619521430&type=1 Photoset] by [[Roy Moore]] of their 3/29/2012 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/#!/media/set/?set=a.413861802010675.100390.221927764537414&type=1 Photoset] from [[The 2012 Out of Bounds Comedy Festival]] by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/28/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200570606370375.1073741859.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their performance in the 9/20/13 *[[Hell and Back Cabaret]]*.
 * [http://www.facebook.com/media/set/?set=a.208887992621682.1073741837.156632087847273&type=1 Photoset] by [[Steve Rogers]] that includes their 9/27/13 performance at *[[The Hell & Back Cabaret]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3 Photoset] by [[Michael Yew]] of their 12/20/13 performance in *[[PGraph Presents]]*.
+* [http://cwcreations.smugmug.com/Improv-2014/Indigo-Shift-20140418/ Photoset] by [[Chad Wellington]] of their 4/18/14 show.
 
 ## More Information
 * [http://www.facebook.com/#!/shiftindigo?fref=ts Indigo Shift's Facebook page]
