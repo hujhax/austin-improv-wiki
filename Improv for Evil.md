@@ -22,7 +22,8 @@ After two years of relative inactivity, the troupe performed their final show at
 ## Media
 ### Videos
 * [http://youtu.be/Z1FhlDnIInI Video of the troupe's first show], as part of *[[The Threefer]]*.
-* [http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040 Video] of their performance in [[The 2009 Out of Bounds Comedy Festival]].
+* [http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040 Video] of their 8/27/08 "Cochese" show at [[The 2008 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/26028152 Video] by [[Peter Rogers]] of their 6/17/11 show.
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.104486522264.104209.588952264&type=3 Photoset] by [[Peter Rogers]] of their 4/16/09 performance.
@@ -46,9 +47,13 @@ After two years of relative inactivity, the troupe performed their final show at
 * [http://www.facebook.com/hujhax/media_set?set=a.10150403717672265.410072.588952264&type=3 Photoset] by [[Peter Rogers]] of their 9/19/11 performance at [[ColdTowne Theater]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/18/11 performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
-* [http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in the 2012 [[WaffleFest]].
+* [http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/28/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/28/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in [[WaffleFest 2012]].
+** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3 Another photoset] by [[Heidi Rogers]] that includes the same show.
 * [http://www.facebook.com/media/set/?set=a.530020827066601.1073741852.118587218209966&type=3 Photoset] by [[Roy Moore]] of their final show on 8/30/13 at [[The 2013 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3 Another photoset] by [[Michael Yew]] which includes the same show.
+** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3 Another photoset] by [[Heidi Rogers]] that includes the same show.
 
 ## More Information
 * [http://www.improvforevil.com/ The troupe's web site.]
