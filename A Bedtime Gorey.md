@@ -19,6 +19,12 @@ A dozen of Austin’s finest improvisers embody that ethos as *A Bedtime Gorey* 
 ### Videos
 * Video by [[Warren Henderson]] of the 12/28/13 show: [https://www.youtube.com/watch?v=WCZauHWmE0s].
 
+### Photos
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.718828708147617.1073741856.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.711879688842519.1073741853.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 11/2/13 premiere.
+* [http://cwcreations.smugmug.com/Improv-2013/A-Bedtime-Gorey/20131130/ Photoset] by [[Chad Wellington]] of the 11/30/13 show.
+* [http://www.facebook.com/media/set/?set=a.644621752268011.1073741952.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 12/7/13 performance.
+
 ### Publicity
 * [http://youtu.be/ii545XAl5FU A trailer for the show.]
 
