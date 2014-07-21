@@ -17,6 +17,9 @@ Kirschner, Garcia, and Wilson eventually left the troupe to pursue other interes
 The Starter Kit split up in mid-2011 due to creative differences.
 
 ## Media
+### Videos
+* [http://youtu.be/YbnOgeb9trI The troupe playing "Good, Bad, Worst Advice" on cable access on 8/1/07.]
+
 ### Photos
 * [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/14/11 performance in *[[The Threefer]]*.
