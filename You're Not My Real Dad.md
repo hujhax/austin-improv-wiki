@@ -20,7 +20,7 @@ These are phrases you will never, ever hear applied to Austin's You're Not My Re
 
 ## Media
 ### Videos
-* [http://blip.tv/out-of-bounds-comedy-festival/you-re-not-my-real-dad-wed-8pm-svt-apples-stage-1248969 Video] of their performance at [[The 2009 Out of Bounds Comedy Festival]].
+* [http://blip.tv/out-of-bounds-comedy-festival/you-re-not-my-real-dad-wed-8pm-svt-apples-stage-1248969 Video] of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.481887847264.251804.588952264&type=1 A photoset] by [[Peter Rogers]] of their 9/1/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
