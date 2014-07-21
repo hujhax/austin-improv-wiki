@@ -14,7 +14,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote><p>After successful careers as professional wrestlers during the 1980's a group of retired wrestlers took some improv classes as they transitioned into everyday life. Unfortunately for this troupe old habits sometimes die hard. The result is Improv Royale!</p>
 
-<p>We perform onstage in character as retired wrestlers. We treat the improv seriously, mostly, but use wrestling themed scene breaks and edits. It's really all about having fun onstage and connecting with the audience.</blockquote></p>
+<p>We perform onstage in character as retired wrestlers. We treat the improv seriously, mostly, but use wrestling themed scene breaks and edits. It's really all about having fun onstage and connecting with the audience.</p></blockquote>
 
 ### Cast
 * [[Brent Foshee]] as The Texecutioner
