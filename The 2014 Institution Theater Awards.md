@@ -1,7 +1,7 @@
-**The 2014 Institution Theater Awards** will be the second annual [[Institution Theater Awards]].
+**The 2014 Institution Theater Awards** was the second annual [[Institution Theater Awards]].
 
 ## Summary
-The awards ceremony will be held at the Institution Theater at 6pm on 2/16/14.
+The awards ceremony was held at the Institution Theater at 6pm on 2/16/14.
 
 ## Nominees
 Winners are listed in **bold text**.
