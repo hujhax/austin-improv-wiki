@@ -7,7 +7,7 @@
 |Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Alex Baia]] | [[Andreas Fabis]] | [[Cat Drago]] | [[Jason Vines]] | [[Jayme Ramsey]] | [[Kaci Beeler]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Nicole Oliver]] | [[Ruby Willmann]] }}
 }}
 
-***A Bedtime Gorey*** is the current mainstage show at [[The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
+***A Bedtime Gorey*** was a mainstage show at [[The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
 
 ## Summary
 ### Preview Description
