@@ -55,6 +55,21 @@ Its advertising and art were election-themed.
 * Weisenheimers (Omaha, NE)
 
 ## Media
+### Videos
+* [http://blip.tv/out-of-bounds-comedy-festival/scatter-wed-8pm-svt-apples-stage-1230453 Video of Scatter's 8/27/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/galapagos-thu-8pm-svt-oranges-stage-1243097 Video of Galapagos's 8/28/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/grandma-june-s-sewing-circle-thu-8pm-svt-apples-stage-1253173 Video of Grandma June Sewing Circle's 8/28/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/quaint-little-coffee-shop-thu-10pm-svt-apples-stage-1257701 Video of Quaint Little Coffee Shop's 8/28/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/rue-brutalia-thu-10pm-svt-apples-stage-1228676 Video of Rue Brutalia's 8/28/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/the-victims-thu-10pm-svt-oranges-stage-1244858 Video of The Victims' 8/28/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/unexpected-company-fri-8pm-svt-apples-stage-1233660 Video of Unexpected Company's 8/29/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/88improv-fri-8pm-svt-apples-stage-1229533 Video of 88Improv's 8/29/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/nerdvana-friday-10pm-apples-stage-1229304 Video of Nerdvana's 8/29/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/ph-productions-presents-phrenzy-fri-10pm-svt-oranges-stage-1251820 Video of pHrenzy's 8/29/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/the-weisenheimers-sat-6-30pm-svt-apples-stage-1245065 Video of The Weisenheimers' 8/30/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/varoom-sat-8pm-svt-apples-stage-1268646 Video of VAROOM's 8/30/08 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/attencion-sat-8pm-svt-oranges-stage-1245344 Video of ¡ATTENÇION!'s 8/30/08 show.]
+
 ### Photos
 * [http://www.facebook.com/Jonbolden/media_set?set=a.510093442253.2020581.76200304&type=3 Festival photoset] by [[Jon Bolden]].
 
