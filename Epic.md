@@ -21,6 +21,7 @@ Our cast will provide the inhabitants of the game world - heroes, villains, mons
 * [http://www.facebook.com/SteveRogers1212/media_set?set=a.120952951319070.29866.100002130980897&type=3 Photoset]  by [[Steve Rogers]] of their 5/1/11 show.
 * [http://www.facebook.com/SteveRogers1212/media_set?set=a.155464437867921.41673.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 8/14/11 show.
 * [http://www.facebook.com/media/set/?set=a.233907226672801.61526.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their 10/28/11 show.
+* [http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-29-Triple-Scoop/ Photoset] by [[Chad Wellington]] that includes their performance in the 6/29/13 *[[Triple Scoop]]*.
 
 ## More Information
 * [http://www.facebook.com/pages/Epic/197063490307176 The troupe's web site.]
