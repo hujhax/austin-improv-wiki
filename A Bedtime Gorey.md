@@ -17,7 +17,7 @@ A dozen of Austin’s finest improvisers embody that ethos as *A Bedtime Gorey* 
 
 ## Media
 ### Videos
-* Video by [[Warren Henderson]] of the 12/28/13 show: [https://www.youtube.com/watch?v=WCZauHWmE0s].
+* [http://youtu.be/WCZauHWmE0s Video] by [[Warren Henderson]] of the 12/28/13 show.
 
 ### Photos
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.718828708147617.1073741856.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
