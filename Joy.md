@@ -18,6 +18,9 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 ### Videos
 * [http://www.facebook.com/photo.php?v=484662451568819&set=vb.509410502414433&type=2&theater Video from the 2/7/13 performance.]
 
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/7/13 performance in *[[The Threefer]]*.
+
 ## More Information
 * [http://www.facebook.com/pages/JOY-Improv/509410502414433 The troupe's facebook page.]
 
