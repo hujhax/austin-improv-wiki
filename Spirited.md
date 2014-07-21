@@ -32,36 +32,30 @@ After about an hour of these explorations, there would be a transition back to t
 
 
 ## Media
-* 9/10/11 performance (premiere):
-** [http://www.facebook.com/media/set/?set=a.193922120676475.45895.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.facebook.com/media/set/?set=a.168144419933256.44334.100002130980897&type=3 Photoset] by [[Steve Rogers]]. 
-** [http://vimeo.com/30096332 Video clip from opening night.]
-* 09/14/11 Review from the Austin Chronicle: Some Enchanted Evenings
-** [http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/]
-* 10/8/11 6pm performance:
-** [http://www.facebook.com/media/set/?set=a.205305389538148.48992.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.facebook.com/media/set/?set=a.181097728637925.48242.100002130980897&type=1 Photoset] by [[Steve Rogers]].
-* 10/8/11 8pm performance:
-** [http://www.facebook.com/media/set/?set=a.205745719494115.49091.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* 10/15/11 6pm performance:
-** [http://www.facebook.com/media/set/?set=a.208078812594139.49557.118587218209966&type=3 Photoset] by [[Roy Moore]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.2050770631629.98662.1315383518&type=3 Photoset] by [[Michael Yew]].
-* 10/15/11 8pm performance:
-** [http://www.facebook.com/media/set/?set=a.208760575859296.49669.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* 10/22/11 6pm performance:
-** [http://www.facebook.com/media/set/?set=a.211216708947016.50291.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* 10/22/11 8pm performance:
-** [http://www.facebook.com/media/set/?set=a.212038482198172.50513.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* 10/29/11 8pm performance:
-** [http://www.facebook.com/media/set/?set=a.214136538655033.51070.118587218209966&type=3 Photoset] by [[Roy Moore]].
-* Performance from the 2012 [[Improvised Play Festival]]:
-** [http://www.facebook.com/media/set/?set=a.311258025609550.70437.118587218209966&type=1 Photoset] by [[Roy Moore]].
-** [http://vimeo.com/40844685 Video of the show.]
-* Performance from the 2012 [[Out of Bounds Comedy Festival]]:
-** [http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+### Videos
+* [http://vimeo.com/30096332 Video clip from opening night.]
+* [http://vimeo.com/40844685 Video of their performance] in [[The 2012 Improvised Play Festival]].
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.193922120676475.45895.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 9/10/11 premiere.
+** [http://www.facebook.com/media/set/?set=a.168144419933256.44334.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the same show.
+** [http://www.facebook.com/media/set/?set=a.205305389538148.48992.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/8/11 6pm performance.
+* [http://www.facebook.com/media/set/?set=a.181097728637925.48242.100002130980897&type=1 Photoset] by [[Steve Rogers]] of the same show.
+* [http://www.facebook.com/media/set/?set=a.205745719494115.49091.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/8/11 8pm performance.
+* [http://www.facebook.com/media/set/?set=a.208078812594139.49557.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/15/11 6pm performance.
+** [http://www.facebook.com/michael.yew/media_set?set=a.2050770631629.98662.1315383518&type=3 Photoset] by [[Michael Yew]] of the same show.
+* [http://www.facebook.com/media/set/?set=a.208760575859296.49669.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/15/11 8pm performance.
+* [http://www.facebook.com/media/set/?set=a.211216708947016.50291.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/22/11 6pm performance.
+* [http://www.facebook.com/media/set/?set=a.212038482198172.50513.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/22/11 8pm performance.
+* [http://www.facebook.com/media/set/?set=a.214136538655033.51070.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/29/11 8pm performance.
+* [http://www.facebook.com/media/set/?set=a.311258025609550.70437.118587218209966&type=1 Photoset] by [[Roy Moore]] of their performance in [[The 2012 Improvised Play Festival]].
+* [http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/1/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
 
 ### Other
 * Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_3/photo%201_3.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_4/photo%202_4.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/spirited_set/spirited_set.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205_1/photo%205_1.jpg?disposition=download 4], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_3/photo%204_3.jpg?disposition=download 5].
+
+## More Information
+* [http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/ Review of the show] by [[Wayne Allen Brenner]] in *The Austin Chronicle* (9/14/11).
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
