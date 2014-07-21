@@ -24,7 +24,8 @@ Sarah 7 headlined *[[The Threefer]]* in October 2012.
 
 ## Media
 ### Videos
-* [http://vimeo.com/35555795 Video of 1/22/12 show.]
+* [http://vimeo.com/35555795 Video] by [[Liz Brammer]] of their 1/22/12 show at [[The Hideout Theatre]].
+* [http://vimeo.com/14846874 Video] by [[Liz Brammer]] of their August 2011 show at [[ColdTowne Theater]].
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.394469047415.170839.332822362415&type=1 A photoset] of their appearance at the 2010 [[Ladies Are Funny Festival]].
