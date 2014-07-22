@@ -15,6 +15,7 @@
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/5/11 show in [[The 42-Hour Improv Marathon]].
 * [http://www.facebook.com/SteveRogers1212/media_set?set=a.165388706875494.43739.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their performance in [[The 2011 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/18/11 performance at [[WaffleFest]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.397235606964607.91406.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 4/22/12 performance in *[[The Weekender]]*.
 * [http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3 Photoset] by [[Jon Bolden]] which includes their performance at [[WaffleFest 2012]].
 
 ## More Information
