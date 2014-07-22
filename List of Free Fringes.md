@@ -52,7 +52,7 @@ We have a large container of cooked tamales on stage. + We do improv scenes. = A
 This was the premiere of their "Tomboys" format -- [[Firth&Arjet]] had planned to perform "Always a Bridesmaid", but had just bought their "Tomboys" costumes on the way to the theater, and decided they didn't want to risk staining their bridesmaid dresses with the aftermath of the "Tamales!" show.
 
 #### Media
-* [http://www.facebook.com/sam.schak/media_set?set=a.1922534340016.2064245.1141801116&type=1 Photoset] of the show by [[Sam Schak]].
+* [http://www.facebook.com/sam.schak/media_set?set=a.1922534340016.2064245.1141801116&type=1 Photoset] of the "Tamales!" and "Tomboys" sections by [[Sam Schak]].
 
 ### Feb  9, 2012
 #### *The Bestiary* ([[Thedward Blevins]])
