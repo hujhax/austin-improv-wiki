@@ -40,6 +40,35 @@ The set design includes a number of wooden boxes (and other shapes), which the c
 * Vancouver TheatreSports League (Vancouver, Canada)
 * We Are Improv (Lancaster, UK)
 
+## Media
+### Videos
+* [http://vimeo.com/100664265 Video] of the 7/5/14 show.
+
+### Sample Videos
+The cast recorded a number of example videos of the sort of video challenges they were looking for from the international troupes.
+* [http://vimeo.com/96663041 1st Half of a Scene]
+* [http://vimeo.com/96663951 Animals]
+* [http://vimeo.com/96716300 Animals #2]
+* [http://vimeo.com/96716961 Animals #3]
+* [http://vimeo.com/96664421 Specific Game Setup]
+* [http://vimeo.com/96664422 Welcome to the International Improv Experience]
+* [http://vimeo.com/96664423 Welcome in Another Language]
+* [http://vimeo.com/96664426 Half a Conversation]
+* [http://vimeo.com/96664428 Accent Training]
+* [http://vimeo.com/96664429 Vocabulary Training]
+* [http://vimeo.com/96667239 Foreign Film]
+* [http://vimeo.com/96667241 Monologue]
+* [http://vimeo.com/96667240 Monologue #2]
+* [http://vimeo.com/96667243 Audio Tour]
+* [http://vimeo.com/96667245 Long form / storytelling prompt]
+* [http://vimeo.com/96669325 Local Game Setup]
+* [http://vimeo.com/96669515 Local Game Setup #2]
+* [http://vimeo.com/96669516 Landmark Game Setup]
+* [http://vimeo.com/96669517 Warmup]
+
+### Publicity
+* [http://vimeo.com/100664265 Show teaser.]
+
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
 
