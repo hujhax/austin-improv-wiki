@@ -66,7 +66,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [http://vimeo.com/33455567 Video of their 12/9/11 show.]
 * [http://vimeo.com/39019302 Video of their 3/8/12 "Tomboys" show.]
 * [http://vimeo.com/39305541 Video of their 3/22/12 "Tomboys" show.]
-* [http://vimeo.com/39465848 Video of their 3/29/12 "Tomboys" show.]
+* [http://vimeo.com/39465848 Video] by [[Brad Hawkins]] of their 3/29/12 "Tomboys" performance in *[[The Free Fringe]]*.
 * [http://vimeo.com/40801623 Video of their 4/19/12 "Tomboys" show.]
 * [http://vimeo.com/42431879 Video of their 5/17/12 "Tomboys" show.]
 
