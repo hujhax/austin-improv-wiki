@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name = Slam Team Six	
+|Picture= Slam Team Six.jpg
 |Theater = [[ColdTowne Theater]]
 |Director =	[[Lance Gilstrap]]
 |Producer =	[[Cody Dearing]]
@@ -12,6 +13,9 @@
 ## Summary
 ### Publicity Blurb
 <blockquote>"A group of America's most beloved professional wrestlers use their athletic prowess and 'powers' outside of the ring to fight crime, help children, and protect the environment. The wrestlers will face the challenges of the nefarious plots of other evil villainous wrestlers, the temptations that risk leading them astray from being a good example for kids to look up to, and maybe worst of all their own distractibility. Presented like a kids show, but likely not appropriate for kids to actually watch, this show will be a wild blend of fantasy and reality. This show is produced by Cody Dearing and directed by Lance Gilstrap."</blockquote>
+
+## Media
+* [http://www.facebook.com/media/set/?set=a.711697908893728.1073741982.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/5/14 show.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?t=17162&p=135889 Audition announcement] on [[The Austin Improv Forums]].
