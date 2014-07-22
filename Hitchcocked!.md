@@ -34,8 +34,10 @@ The show included several guest performers who weren't part of the main cast:
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 3/26/10 performance.
+** [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100191585862270.2856707.7944448&type=3 Photoset] by [[Jo Chauvin]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.1215742685595.2027304.1589679282&type=1 Photoset] by [[Roy Moore]] of the 3/27/10 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/2/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
+
 ### Other
 * Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2813%29/photo%2813%29.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2812%29/photo%2812%29.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2814%29/photo%2814%29.jpg?disposition=download 3].
 
