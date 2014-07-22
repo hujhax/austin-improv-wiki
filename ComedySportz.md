@@ -128,6 +128,10 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [[Topping Haggerty]]
 * [[Tyler Bryce]]
 
+## Media
+### Photos
+* Old photosets from [[Tyler Bryce]]: [http://www.facebook.com/tylerbryce/media_set?set=a.10151079418297704.498105.505207703&type=3 1], [http://www.facebook.com/tylerbryce/media_set?set=a.10151081452217704.498300.505207703&type=3 2]
+
 ## More Information
 * [http://www.comedysportz.com/austin.html The homepage for ComedySportz Austin.]
 
