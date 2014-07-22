@@ -32,10 +32,14 @@ All of these performances were at The United States Art Authority at [[The Spide
 * Principal Belding -- [[Terrill Fischer]]
  
 ## Media
-* [http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3 Publicity photos.]
+### Videos
 * Scenes from "Jessie's Song": 
 ** [http://www.facebook.com/photo.php?v=151344256261 Zack refuses to believe that Jessie has a problem.]
 ** [http://www.facebook.com/photo.php?v=151272236261 Zack finds Jessie passed out on her bed.]
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3 Publicity photos.]
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.952975911550.2727692.7944448&type=3 Performance and casual photos] by [[Jo Chauvin]].
 
 ## Other Information
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=9512 Forum announcement of the August run.]
