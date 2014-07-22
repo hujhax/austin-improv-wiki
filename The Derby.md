@@ -17,4 +17,8 @@ For later shows, a "house troupe" called [[RhinoDino]] was created.  Every week,
 
 RhinoDino has continued to perform together following the discontinuation of the Derby.
 
+## Media
+### Photos
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 9/9/11 show.
+
 [[Category/Shows|Derby]]
