@@ -22,6 +22,10 @@ The show ran for two days, 7/5/13 and 7/6/13.  It was written by [[Joel Reese]].
 * [[Elizabeth Buchanan]] as "Alex" & "Ms. Great".
 * [[Chad Wellington]] as "Officer Phil" & "Heap".
 
+## Media
+### Videos
+* Video by [[Sara Farr]] of a performance: [http://vimeo.com/87630421 1], [http://vimeo.com/86962957 2], [http://vimeo.com/86360196 3].
+
 ## More Information
 * [http://puppetimprovproject.org/trash.html The show's web page.]
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=15334 Show announcement] on [[The Austin Improv Forums]].
