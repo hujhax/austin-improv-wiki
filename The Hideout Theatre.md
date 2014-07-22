@@ -28,6 +28,10 @@ On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House bus
 ## Shows
 {{List of Hideout Theatre Shows}}
 
+## Media
+### Videos
+* [http://www.viddler.com/v/92d2eec8 A "tribute video"] by [[Troy Miller]] from 2009.
+
 ## More Information
 * [[The Hideout Text Adventure|A text adventure written about the Hideout.]]
 
