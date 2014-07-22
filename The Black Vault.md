@@ -37,15 +37,15 @@ After its mainstage run, there were a number of one-off shows:
 * [http://vimeo.com/49647825 Video of the 9/15/12 performance.]
 * [http://vimeo.com/50914775 Video of the 9/22/12 performance.]
 * [http://vimeo.com/89084358 Video of the last third of the 10/6/12 performance.]
-* [http://vimeo.com/52598840 Video of the 10/13/12 performance.]
-* [http://vimeo.com/52585149 Video of the 10/20/12 performance.]
-* [http://vimeo.com/52665609 Video of the 10/27/12 performance.]
-* [http://vimeo.com/52659608 Video of the 10/31/12 performance.]
+* [http://vimeo.com/52598840 Video] by [[Paul Normandin]] of the 10/13/12 show.
+* [http://vimeo.com/52585149 Video] by [[Paul Normandin]] of the 10/20/12 show.
+* [http://vimeo.com/52665609 Video] by [[Paul Normandin]] of the 10/27/12 show.
+* [http://vimeo.com/52659608 Video] by [[Paul Normandin]] of the 10/31/12 show.
 * [http://vimeo.com/55421296 Video of the one-off "Lovecraft Secrets" show] (a mash-up with *[[Austin Secrets]]* at *[[The Free Fringe]]*), from 12/6/12.
-* [http://vimeo.com/64275476 Video of the 4/13/13 performance] at [[The 2013 Improvised Play Festival]].
+* [http://vimeo.com/64275476 Video] by [[Paul Normandin]] of their 4/13/13 performance in [[The 2013 Improvised Play Festival]].
 * [http://vimeo.com/67752198 Video of the 5/5/13 performance], which was part of "Nerdprov" at [[The Institution Theater]].
-* [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[Pick Your Own Path]]* at *[[The Free Fringe]]*), from 5/23/13.
-* [http://vimeo.com/70318263 Video of the 6/22/13 performance], part of [[The 44-Hour Improv Marathon]].
+* [http://vimeo.com/66965290 Video] by [[Paul Normandin]] of the 5/23/13 "Pick Your Own Black Vault" show in *[[The Free Fringe]]*.
+* [http://vimeo.com/69325354 Video] by [[Paul Normandin]] of their 6/23/13 performance in [[The 44-Hour Improv Marathon]].
 * [http://vimeo.com/76849825 Audio of the 10/11/13 performance], part of *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
 * [http://www.youtube.com/watch?v=k07bu91F9H4&feature=youtu.be Video of the 3/27/14 performance] by [[Warren Henderson]].
 
@@ -54,6 +54,10 @@ After its mainstage run, there were a number of one-off shows:
 * [http://www.facebook.com/media/set/?set=a.396822437053108.88995.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/6/12 performance.
 * [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/27/12 performance.
 * [http://www.facebook.com/media/set/?set=a.406375719431113.91155.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/31/12 performance.
+* [http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/ Photoset] by [[Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
+* [http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 10/11/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
+* [http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/ Photoset] by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
 
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
