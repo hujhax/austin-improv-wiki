@@ -20,6 +20,8 @@ Their goal is to elevate the form and playing field, shedding light on the ever-
 
 ## Media
 ### Videos
+* [http://blip.tv/out-of-bounds-comedy-festival/battle-of-the-sexes-iii-pt-1-fri-8pm-svt-oranges-stage-1267934 Video] of the 8/29/08 "Battle of the Sexes" match between [[Available Cupholders]] and [[Girls Girls Girls]] at [[The 2008 Out of Bounds Comedy Festival]].
+* [http://blip.tv/out-of-bounds-comedy-festival/the-available-cupholders-sun-9-30pm-esther-s-1243907 Video] of their 8/31/08 headlining show at [[The 2008 Out of Bounds Comedy Festival]].
 * [http://vimeo.com/40844687 Their performance] in [[The 2012 Improvised Play Festival]].
 
 ### Photos
@@ -29,6 +31,7 @@ Their goal is to elevate the form and playing field, shedding light on the ever-
 * [http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/13/12 performance in [[The 2012 Improvised Play Festival]].
 * [http://www.steve-rogers-photography.com/Festivals/ImprovSketch/43-Hour-Marathon-2012/Hour-29-Available-Cupholders Photoset] by [[Steve Rogers]] of their 6/12/12 performance at [[The 43-Hour Improv Marathon]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.469618329726334.106140.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 9/1/12 performance in [[The 2012 Out of Bounds Comedy Fetsival]].
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their performance in [[WaffleFest 2012]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/27/12 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.523882717675249.1073741854.221927764537414&type=1 Photoset] by [[Steve Rogers]] of their 4/12/13 performance at [[The 2013 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.588814161182104.1073741916.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/27/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
