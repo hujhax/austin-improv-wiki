@@ -45,6 +45,18 @@ It runs Fridays at 7pm.  They offer free movie candies.
 * [http://vimeo.com/86046320 Video] by [[Kyle Sweeney]] of their "The Tree That Grows Hearts" show (uploaded 2/6/14).
 * [http://vimeo.com/91555771 Video] by [[Kyle Sweeney]] of their "Places I Remember (Borne Agent)" show (uploaded 4/9/14).
 
+### Publicity
+* [http://vimeo.com/67691335 Promo #1.]
+* [http://vimeo.com/67691955 Promo #2.]
+* [http://vimeo.com/67692334 Promo #3.]
+* [http://vimeo.com/67702525 Promo #4.]
+* [http://vimeo.com/67703388 Promo #5.]
+* [http://vimeo.com/67930299 Promo #6.]
+* [http://vimeo.com/67994283 Promo #7.]
+
+### Other
+* An [http://vimeo.com/68171827 "awards ending"] (uploaded 6/11/13).
+
 ## More Information
 * [http://www.coldtownetheater.com/blog/movie-movie-returns The show's web page.]
 
