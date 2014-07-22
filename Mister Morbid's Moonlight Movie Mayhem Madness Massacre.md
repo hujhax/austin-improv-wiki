@@ -32,9 +32,10 @@ This is the guest schedule for *Mister Morbid's*:
 * [http://vimeo.com/channels/austinimprov/77891213 Video] of the [[False Matters]] show on 10/19/13.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/26/13 performance with [[IScream Sandwich]] and [[My Best Fiend]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 10/5/13 performance with [[Flying Theater Machine]] and [[Zarzamora]].
+* [http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/11/13 performance with *[[The Black Vault]]* and [[Midnight Society]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 10/25/13 performance with [[Waterpark]] and [[Girls Girls Girls]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/26/13 performance with [[IScream Sandwich]] and [[My Best Fiend]].
 
 ### Publicity
 * [http://www.facebook.com/photo.php?v=10151686876796262 Trailer for the show.]
