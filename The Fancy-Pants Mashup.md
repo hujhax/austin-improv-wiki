@@ -26,8 +26,9 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://vimeo.com/23484902 Video of 5/6/11 performance.]
 * [http://vimeo.com/31770847 Video of 11/4/11 performance.]
 * [http://vimeo.com/33377293 Video of 12/2/11 performance.]
+** Videos by [[Luis Salinas]] of the same show: [http://vimeo.com/34625770 1], [http://vimeo.com/34625875 2], [http://vimeo.com/34627912 3], [http://vimeo.com/34628194 4].
 * [http://vimeo.com/55383414 Video of 12/7/12 performance.]
-* [http://vimeo.com/41711039 Video of 5/4/12 performance.]
+* [http://vimeo.com/41711039 Video] by [[Dave Alley]] of the 5/4/12 show.
 * [http://vimeo.com/47377300 Video of 7/6/12 performance.]
 * [http://vimeo.com/61489752 Video of 3/1/13 performance.]
 * [http://vimeo.com/65959353 Video of 5/3/13 performance.]
@@ -66,6 +67,11 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200445657486731.1073741852.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/6/13 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200613154194044.1073741860.1315383518&type=3 A photoset] by [[Michael Yew]] of the 10/4/13 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200768087147271.1073741862.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/1/13 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201166235620734.1073741874.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/6/14 show.
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.780445991985888.1073741863.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes the 2/7/14 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201567845860739.1073741882.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/7/14 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202129347137920.1073741892.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/20/14 show, which was part of [[The 45-Hour Improv Marathon]].
 
 ## Other Information
 * [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
