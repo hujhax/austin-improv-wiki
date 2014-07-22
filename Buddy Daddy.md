@@ -12,6 +12,9 @@
 The duo played [[The Out of Bounds Comedy Festival]] from 2008 to 2011.
 
 ## Media
+### Videos
+* [http://blip.tv/out-of-bounds-comedy-festival/buddy-daddy-sat-6-30pm-svt-apples-stage-1246784 Video] of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+
 ### Photos
 * [http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
 
