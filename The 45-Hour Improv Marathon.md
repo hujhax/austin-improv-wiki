@@ -66,11 +66,28 @@ It was performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/14.
 * Sunday 1pm (hour 45): "Final Show": 	The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep
 
 ## Media
+### Videos
+* [http://vimeo.com/99388847 Video] by [[Peter Rogers]] of hour 29 ([[The Professor]]).
+* [http://vimeo.com/99443000 Video] by [[Peter Rogers]] of hour 33 ([[Puppet Improv Project]]).
+* [http://vimeo.com/99422633 Video] by [[Peter Rogers]] of hour 35 (*[[Tech Nightmare]]*).
+
 ### Photos
+* [http://www.facebook.com/media/set/?set=a.755064164557102.1073742021.221927764537414&type=3 Cast-photo collages] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.753647561365429.1073742018.221927764537414&type=1 Photoset] of hour 1 by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.753656124697906.1073742019.221927764537414&type=1 Photoset] of hour 2 by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.753664144697104.1073742020.221927764537414&type=1 Photoset] of hour 3 by [[Steve Rogers]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202129347137920.1073741892.1315383518&type=3 Photoset] of hours 4 and 5 by [[Michael Yew]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] of hours 9, 19, 20, 21, 22, and 23 by [[Michael Yew]].
+* [http://www.facebook.com/media/set/?set=a.759515957445256.1073742031.221927764537414&type=3 Photoset] of hour 24 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.759510950779090.1073742029.221927764537414&type=3 Photoset] of hour 25 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.759506387446213.1073742028.221927764537414&type=3 Photoset] of hour 26 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.756998384363680.1073742027.221927764537414&type=3 Photoset] of hour 32 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.756856427711209.1073742026.221927764537414&type=3 Photoset] of hour 33 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.756690317727820.1073742025.221927764537414&type=3 Photoset] of hour 42 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.756193911110794.1073742024.221927764537414&type=3 Photoset] of hour 43 by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.756154667781385.1073742023.221927764537414&type=3 Photoset] of hour 44 by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.10152099340360793.1073741871.666390792&type=3 Photoset] of hour 45 by [[Dave Alley]].
+
 ### Publicity
 * [http://youtu.be/SrwOOvwxSNE A mini-documentary about the upcoming festival] by [[Ceej Allen]].
 
