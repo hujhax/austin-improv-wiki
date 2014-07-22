@@ -159,6 +159,9 @@ The schedule is as follows:
 * [http://vimeo.com/69837645 Video of the 5/25/13 performance] by [[Ryan Austin]].
 * [http://vimeo.com/69837644 Video of the 6/1/13 performance] by [[Ryan Austin]].
 * [http://vimeo.com/70243827 Video of the 6/8/13 performance] by [[Ryan Austin]].
+* [http://vimeo.com/95740478 Video] of the 5/10/14 show.
+* [http://vimeo.com/97182583 Video] of the 5/24/14 show.
+* [http://vimeo.com/97182584 Video] of the 5/31/14 show.
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/25/10 performance.
@@ -171,7 +174,15 @@ The schedule is as follows:
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/3/11 show in [[The 42-Hour Improv Marathon]].
 * [http://www.facebook.com/hujhax/media_set?set=a.19102197264.15341.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/14/12 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.19102282264.15342.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/21/12 performance.
-* [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 5/4/13 performance.
+* [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 5/4/13 premiere.
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes the 5/25/13 show.
+** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the same show.
+* [http://cwcreations.smugmug.com/Improv-2013/Hideout/2013-06-15-Theatresports/ Photoset] by [[Chad Wellington]] of the 6/15/13 show.
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.603982086298947.1073741834.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 6/28/13 finale.
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.831365263560627.1073741872.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a 2014 show.
+* [http://www.facebook.com/media/set/?set=a.731734633556722.1073741997.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/10/14 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201938403444447.1073741889.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/24/14 show.
+
 
 ### Other
 * Photos of [[Kaci Beeler]]'s set design for the 2013 run: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatresports-set/theatresports-set.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatersports-orphans/theatersports-orphans.jpg?disposition=download 2].
