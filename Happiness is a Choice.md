@@ -12,7 +12,9 @@ Happiness is a Choice use improvisation and their unique style of meta-theater t
 
 ## Media
 ### Photos
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183527366560.2849442.7944448&type=3 Photoset] by [[Jo Chauvin]] of their 3/15/10 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/14/11 performance in *[[The Threefer]]*.
+
 ### Audio
 * [http://choosehappiness.info/wordpress/?p=412 Audio of their 10/6/10 performance, in which they spent forty minutes taking a suggestion.]
 
