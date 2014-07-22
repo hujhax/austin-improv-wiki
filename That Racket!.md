@@ -14,6 +14,7 @@ The troupe formed from the musical-improv classes at [[The Merlin Works School o
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.532936600162292.1073741830.507547629367856&type=1 A June 2012 rehearsal.]
 * [http://www.facebook.com/media/set/?set=a.511667912289161.1073741828.507547629367856&type=1 Publicity photos.]
+* [http://www.facebook.com/chriscurl/media_set?set=a.10152430621782107.1073741833.549002106&type=3 Photoset] by [[Chris Curl]] of their 6/25/14 championship match in *[[The Cagematch]]*.
 
 ## More Information
 * [http://www.facebook.com/thatracketaustin The troupe's facebook page.]
