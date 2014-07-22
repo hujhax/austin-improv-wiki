@@ -14,6 +14,10 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>We are currently performing a modified La Ronde, starting with character monologues, moving into two person scenes to develop relationships, and finishing with a montage performed as the characters established at the top.</blockquote>
 
+## Media
+### Videos
+* [http://vimeo.com/44573854 Video] by [[Dave Alley]] that includes their 6/21/12 performance in *[[The Threefer]]*.
+
 ## More Information
 * [https://www.facebook.com/checkbookimprov The troupe's facebook page.]
 
