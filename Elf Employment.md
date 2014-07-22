@@ -56,7 +56,7 @@ In 2013, the show runs Fridays and Saturdays at 6pm at [[The Institution Theater
 
 ## Media
 ### Videos
-* [http://vimeo.com/82483244 Video] of the 12/21/13 performance.
+* [http://vimeo.com/82483244 Video] by [[Peter Rogers]] of the 12/21/13 show (guest Santa: [[Peter Rogers]]).
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.2274884274330.103538.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/9/11 performance.
