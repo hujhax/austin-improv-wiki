@@ -14,6 +14,8 @@ It was a [[Merlin Works Graduation Show]] that opened the *[[Saturday Night Spec
 
 
 ## Media
+* [http://vimeo.com/34628393 Video] by [[Luis Salinas]] of show #1.
+* [http://vimeo.com/34627371 Video] by [[Luis Salinas]] of show #2.
 * [http://vimeo.com/34696186 Museum]
 
 [[Category/Shows|Category:Shows]]
