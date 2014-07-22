@@ -17,6 +17,11 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 ## History
 The show headlines *[[The Threefer]]* for June 2014.
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3 Photoset] by [[Michael Yew]] that includes her 6/5/14 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes her 6/12/14 performance in *[[The Threefer]]*.
+
 [[Category/Shows|Devil and Halyn Erickson]]
 [[Category/Auto-Generated Troupe Pages|Devil and Halyn Erickson]]
 [[Category/Active|Devil and Halyn Erickson]]
