@@ -19,6 +19,7 @@ The Starter Kit split up in mid-2011 due to creative differences.
 ## Media
 ### Videos
 * [http://youtu.be/YbnOgeb9trI The troupe playing "Good, Bad, Worst Advice" on cable access on 8/1/07.]
+* [http://blip.tv/out-of-bounds-comedy-festival/the-starter-kit-wed-8pm-svt-apples-stage-1235991 Video] of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
