@@ -16,7 +16,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/83437984 Video of their 1/2/14 show.]
+* [http://vimeo.com/83437984 Video] by [[Melissa Patterson]] of their 1/2/14 performance in *[[The Threefer]]*.
 
 ### Photos
 * [http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/GOOFS/ Photoset] by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
