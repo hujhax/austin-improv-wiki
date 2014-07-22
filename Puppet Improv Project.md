@@ -20,9 +20,11 @@ The Puppet Improv Project does one-off shows for productions like [[The Hideout 
 
 ### Videos
 * [http://vimeo.com/73323916 Video of their 6/23/13 show] that was part of [[The 44-Hour Improv Marathon]].
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/6/10 performance at [[The 41-Hour Improv Marathon]].
 * [http://www.facebook.com/roy.moore/media_set?set=a.1714827082393.2081748.1589679282&type=3 Photoset] by [[Roy Moore]] of their 6/5/11 performance in [[The 42-Hour Improv Marathon]].
+* [http://www.facebook.com/media/set/?set=a.756856427711209.1073742026.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 
 ## More Information
 * [http://puppetimprovproject.org/ The organization's web site.]
