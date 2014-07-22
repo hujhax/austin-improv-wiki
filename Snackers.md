@@ -21,6 +21,7 @@ After an initial run that performed the Living Room format, the troupe performed
 ## Media
 ![[SnackersLogo.gif|The Snackers logo.]]
 ### Videos
+* [http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327 Video] of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 * [http://vimeo.com/10114708 Video] of their 4/9/09 show at [[The Hideout Theatre]].
 * [http://vimeo.com/10116013 Video] of an August 2009 "The Snackers Club" show.
 * [http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327 Video] of Snackers' show at [[The 2009 Out of Bounds Comedy Festival]].
