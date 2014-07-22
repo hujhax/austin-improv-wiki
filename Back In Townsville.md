@@ -22,4 +22,8 @@ The troupe selected [[Chaz Formichella]] as Producer and [[Tim Honker]] as Head 
 
 Members of Nice Astronaut began writing and improvising in rehearsal in October 2013. Several of the sketches were tested in November 2013 through January 2014 in various scripted slots. The main writing and pre-production process began in early January 2014. [[Chris McKeever]] was brought on in February 2014 and advised rewrites that took place over February 2014. Additional cast members were needed (10 total), which were cast, and rehearsals began in early March 2014. [[Joseph Dailey]] wrote the song based off the outline provided by the writers.
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.729336763796509.1073741995.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/24/14 show.
+
 [[Category/Shows|Category:Shows]]
