@@ -20,6 +20,8 @@ This is their bio from their facebook page:
 * [http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/19/10 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/24/11 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.561243300563836.1073741834.100000345135257&type=3 Some 4/17/13 troupe photos] by [[Claudio Fox]].
+* [http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB Photoset] by [[Chad Wellington]] that includes their performance in the 6/9/13 *[[Triple Scoop]]*.
+* [http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 4/3/14 performance in *[[The Threefer]]*.
 
 ## More Information
 * [http://www.facebook.com/SOBimprov The troupe's facebook page.]
