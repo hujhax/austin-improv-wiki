@@ -44,6 +44,9 @@ The set design includes a number of wooden boxes (and other shapes), which the c
 ### Videos
 * [http://vimeo.com/100664265 Video] of the 7/5/14 show.
 
+### Photos
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.862444820452671.1073741878.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
+
 ### Sample Videos
 The cast recorded a number of example videos of the sort of video challenges they were looking for from the international troupes.
 * [http://vimeo.com/96663041 1st Half of a Scene]
