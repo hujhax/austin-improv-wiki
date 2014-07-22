@@ -184,11 +184,23 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 ### Videos
 * [http://vimeo.com/74687764 Video of the 8/29/13 roast of Tim League.]
 * [http://vimeo.com/74439290 Video of the 8/31/13 All Girl Revue.]
+* [http://vimeo.com/74079905 Video] by [[Dave Alley]] of the Shock T's first show.
+* [http://vimeo.com/75142719 Video] by [[Dave Alley]] of the Shock T's second show.
+* [http://vimeo.com/74561501 Video] by [[Dave Alley]] of the Doubtful Guests show.
+* [http://vimeo.com/75369228 Video] by [[Dave Alley]] of the Razowsky & Bernard show.
+* [http://vimeo.com/75744067 Video] by [[Dave Alley]] of the first Baby Wants Candy show.
+* [http://vimeo.com/79299058 Video] by [[Dave Alley]] of the second Baby Wants Candy show.
+* [http://vimeo.com/79623214 Video] by [[Dave Alley]] of the Baby Wants Candy lottery show.
+* [http://vimeo.com/80964868 Video] by [[Dave Alley]] of the Middle Age Comeback show.
+* [http://vimeo.com/81893384 Video] by [[Dave Alley]] of the ZEDTalks show.
+* [http://vimeo.com/74381930 Video] by [[Brad Hawkins]] of the "Thunderstood" show.
+* [http://vimeo.com/74571786 Video] by [[Brad Hawkins]] of the "New Money" show.
 
 ### Photos
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.608306615857504.1073741849.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the festival's "Out of Funds" fundraiser.
 * [http://www.facebook.com/media/set/?set=a.591886167541570.1073741920.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/29/13 roast of Tim League.
 * [http://www.facebook.com/tylerbryce/media_set?set=a.10151901983997704.1073741840.505207703&type=3 Photoset] by [[Tyler Bryce]] of the Minigolf tournament.
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3 Photoset] by [[Heidi Rogers]] of the festival.
 
 ## More Information
 * [http://www.outofboundscomedy.com/2013 The 2013 Out of Bounds web site.]
