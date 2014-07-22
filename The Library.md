@@ -20,9 +20,12 @@ The troupe began as a *[[Free Fringe]]* one-off on 2/9/12.
 
 ## Media
 ### Videos
-* [http://vimeo.com/65951691 Video of their 2/15/13 performance.]
+* [http://vimeo.com/65951691 Video] of their 2/15/13 show in *[[The TV Set]]*.
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/1/12 performance in [[The 43-Hour Improv Marathon]].
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes their 5/16/13 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201568613599932.1073741883.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/21/14 performance in *[[PGraph Presents]]*.
 
 [[Category/Troupes|Library]]
 [[Category/Active|Category:Active]]
