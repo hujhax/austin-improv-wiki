@@ -187,6 +187,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [http://vimeo.com/74079905 Video] by [[Dave Alley]] of the Shock T's first show.
 * [http://vimeo.com/75142719 Video] by [[Dave Alley]] of the Shock T's second show.
 * [http://vimeo.com/74561501 Video] by [[Dave Alley]] of the Doubtful Guests show.
+** [http://vimeo.com/76282619 Video] of another Doubtful Guests show.
 * [http://vimeo.com/75369228 Video] by [[Dave Alley]] of the Razowsky & Bernard show.
 * [http://vimeo.com/75744067 Video] by [[Dave Alley]] of the first Baby Wants Candy show.
 * [http://vimeo.com/79299058 Video] by [[Dave Alley]] of the second Baby Wants Candy show.
@@ -195,6 +196,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [http://vimeo.com/81893384 Video] by [[Dave Alley]] of the ZEDTalks show.
 * [http://vimeo.com/74381930 Video] by [[Brad Hawkins]] of the "Thunderstood" show.
 * [http://vimeo.com/74571786 Video] by [[Brad Hawkins]] of the "New Money" show.
+* [http://vimeo.com/76269860 Video] of the Hill/Jones show.
 
 ### Photos
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.608306615857504.1073741849.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the festival's "Out of Funds" fundraiser.
