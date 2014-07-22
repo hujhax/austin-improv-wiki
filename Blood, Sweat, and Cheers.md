@@ -49,13 +49,14 @@ Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25
 ### Photos
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.579015915453241.1073741841.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their 5/31/13 performance.
 * [http://www.facebook.com/media/set/?set=a.546330938763760.1073741876.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/2/13 performance.
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the 6/6/13 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4862013230937.1073741838.1315383518&type=3 Photoset] by [[Michael Yew]] of their 6/8/13 performance.
 
 ### Publicity
 * [http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3 Promo photo shoot] by [[Jon Bolden]].
 
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/bsc-cheer-number/bsc-cheer-number.jpg?disposition=download] of [[Kaci Beeler]]'s set design.
+* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/bsc-cheer-number/bsc-cheer-number.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
 
 ## More Information
 * [http://www.austincheershow.com/Austin_Cheer_Show/Welcome.html The show's web site.]
