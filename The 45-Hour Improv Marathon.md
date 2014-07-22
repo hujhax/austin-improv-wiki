@@ -89,7 +89,7 @@ It was performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/14.
 * [http://www.facebook.com/media/set/?set=a.10152099340360793.1073741871.666390792&type=3 Photoset] of hour 45 by [[Dave Alley]].
 
 ### Publicity
-* [http://youtu.be/SrwOOvwxSNE A mini-documentary about the upcoming festival] by [[Ceej Allen]].
+* [http://youtu.be/SrwOOvwxSNE A short pre-festival documentary] by [[Ceej Allen]].
 
 ## More Information
 * [http://docs.google.com/forms/d/1l0bLg0JDek9x8sEsCrTuKoim2xf8rFuF2gF5ToNHsDw/viewform The suggestion form for troupes or formats for the marathon.]
