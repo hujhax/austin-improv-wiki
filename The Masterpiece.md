@@ -20,6 +20,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 ## Media
 ### Videos
 * [http://vimeo.com/41329920 Video of their 4/26/12 show.]
+* [http://youtu.be/Wc8uIYKI-2E Video] of their 9/8/12 show at [[The Institution Theater]].
 
 [[Category/Troupes|Masterpiece]]
 [[Category/Duos|Masterpiece]]
