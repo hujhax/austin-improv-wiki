@@ -37,6 +37,7 @@ The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran a
 
 ### Videos
 * [http://www.youtube.com/watch?v=gHYDvzQKeoM Video of the premiere performance of *Cochise*] at [[The 2008 Out of Bounds Comedy Festival]].
+** [http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040 Another video] of the same show.
 * [http://youtu.be/04yQnI0n7rg Video of the first performance of the first run: "Bad Santa".]
 * [http://www.youtube.com/watch?v=b6IpnJBVM34 Video of the second performance of the first run: "Something Smells at the Docks".]
 * [http://www.youtube.com/watch?v=VH9K1iQfmt4 Video of the third performance of the first run.]
