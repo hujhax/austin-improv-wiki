@@ -34,7 +34,11 @@ The following upcoming festival appearances are scheduled:
 ## Media
 ### Videos
 * [http://vimeo.com/21367828 Video of a 2011 performance.]
-* [http://vimeo.com/39645172 Video of a 2012 performance, giving the history of the Q-Tip.]
+* [http://vimeo.com/44295246 Video] by [[Brad Hawkins]] of their "Q-Tip" show (uploaded 4/2/12).
+* [http://vimeo.com/44295246 Video] by [[Brad Hawkins]] of their 6/14/12 show ("The Panini Press").
+* [http://vimeo.com/44444798 Video] by [[Brad Hawkins]] of their "E-ZPass" show (uploaded 6/21/12).
+** [http://vimeo.com/44320993 Lower-res version of the video.]
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1 Photoset] by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 4/1/12 performance in *[[The Weekender]]*.
