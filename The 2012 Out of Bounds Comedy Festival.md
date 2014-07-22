@@ -177,6 +177,8 @@ The festival roast featured [[David Lampe]].
 ## Media
 ### Videos
 * [http://www.facebook.com/photo.php?v=10151033461051953 Video] by [[Mitchell Deane]] of the roast of [[David Lampe]].
+* [http://vimeo.com/48671066 Video] by [[Dave Alley]] of the show from Bearded Men.
+* [http://vimeo.com/49552277 Video] by [[Dave Alley]] of the 8.31.12 show from Epic Adventure.
 
 ## More Information
 * [http://www.outofboundscomedy.com/2012/ The 2012 Out of Bounds web site.]
