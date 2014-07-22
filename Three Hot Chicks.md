@@ -20,6 +20,8 @@ Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
 ### Videos
 * [http://vimeo.com/19634320 Three Hot Chicks' debut show] on Vimeo, courtesy of [[Peter Rogers]]
 * [http://vimeo.com/25332777 Three Hot Chicks' appearance] in [[The 42-Hour Improv Marathon]]
+* [http://vimeo.com/26109575 Video] by [[Brad Hawkins]] of their 7/6/11 show at [[ColdTowne Theater]].
+
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.10150150642222265.328170.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/3/11 performance in *[[The Threefer]]*.
 * [http://www.flickr.com/photos/menelaosprokos/sets/72157626290918877 Photoset] by [[Menelaos Prokos]] of their 3/27/11 performance in *[[The Weekender]]*.
