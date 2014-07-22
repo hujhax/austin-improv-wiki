@@ -45,7 +45,7 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 
 ## Media
 ### Videos
-* [http://vimeo.com/910471 Video] of a [[Parallelogramophonograph]] *[[After School Improv]]* show from November 2006.
+* [http://vimeo.com/910471 Video] of a [[Parallelogramophonograph]] *After School Improv* show from November 2006.
 * [http://vimeo.com/93883895 Video of their 3/31/12 performance.]
 * [http://vimeo.com/93968180 Video of their 4/7/12 performance.]
 * [http://vimeo.com/40844686 Video of their 4/13/12 performance] in [[The 2012 Improvised Play Festival]].
