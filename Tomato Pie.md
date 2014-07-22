@@ -20,7 +20,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/31812790 Video] of their 11/7/11 show at [[ColdTowne Theater]].
+* [http://vimeo.com/31812790 Video] by [[Kyle Sweeney]] of their 11/7/11 show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
