@@ -21,5 +21,11 @@ It ran from 4/12/12 to 4/14/12.
 * Bunker 13 (Seattle)
 * Improv Playhouse (San Francisco)
 
+## Media
+### Videos
+* [http://vimeo.com/40403570 Video] of the Improv Playhouse show.
+* [http://vimeo.com/40844684 Video] of the Improv Playhouse "Naked Screen" show.
+* [http://vimeo.com/40450820 Video] of the Bunker 13 show. 
+
 ## More Information
 * [http://www.improvisedplayfestival.com/about/2012schedule/ The festival schedule.]
