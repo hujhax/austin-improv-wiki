@@ -37,3 +37,4 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 * [http://www.facebook.com/happywaffle/media_set?set=a.10150324901280324.562392.503270323&type=3 Photoset] by [[Kevin Miller]] of the 2010 potluck.
 * [http://www.facebook.com/media/set/?set=a.223961494339204.53042.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 2011 potluck.
 * [http://www.steve-rogers-photography.com/Events/AIC2011/20191237_kpnsVB#!i=2223901020&k=HBbLV3r The 2011 and 2012 group photos], as shot by [[Steve Rogers]].
+* [http://www.facebook.com/media/set/?set=a.637078753022311.1073741947.221927764537414&type=3 Photoset] by [[Steve Rogers]] from the photobooth at the 2013 potluck.
