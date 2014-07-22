@@ -52,6 +52,7 @@
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.284125794989440.64544.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 2/25/12 performance.
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes a 2013 show.
 
 ## More Information
 * [http://www.facebook.com/events/635980636452470/ Facebook event for the 2013 run.]
