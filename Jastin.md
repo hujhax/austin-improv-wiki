@@ -18,6 +18,10 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 <p>We both enjoy doing both comedy-focused and drama-focused improv, so we want to perform scenes where we can show that virtually any topic an be done with an emphasis on one or the other. Maybe do a scene being serious and then redo it being funny. Take one suggestion and two wildly different scenes on it. Pair up opposite types of people in a small space. Play demon voice with one of us being the demon. Etc. Stuff like that.</p></blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/17/14 performance in *[[2x4]]*.
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Active|Category:Active]]
