@@ -15,5 +15,9 @@ Several members arrived in Austin, Texas around the time of Out of Bounds 2005. 
 
 ColdTowne is currently composed of only 2 of the 9 original members: [[Michael Jastroch]] and [[Arthur Simone]], and is mostly inactive except for special occasions such as the 5 Families opening for [[The Institution Theater]].
 
+## Media
+### Videos
+* [http://blip.tv/out-of-bounds-comedy-festival/coldtowne-sat-10pm-svt-oranges-stage-1255935 Video] of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
