@@ -18,8 +18,15 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/42905009 Video of their 5/21/12 show.]
+* [http://vimeo.com/40244451 Video] by [[Kyle Sweeney]] of their 4/12/12 show.
+* [http://vimeo.com/42905009 Video] by [[Lacy Reed]] of their 5/21/12 "P. F. Chang's" show at [[ColdTowne Theater]].
+* [http://vimeo.com/50431482 Video] by [[Lacy Reed]] of their 9/28/12 "Eggplant" show at [[ColdTowne Theater]].
 * [http://vimeo.com/62749753 Video of a 2013 show.]
+* [http://vimeo.com/85033155 Video] by [[Lacy Reed]] of their "Pot Pie" show at [[ColdTowne Theater]].
+* [http://vimeo.com/85039264 Video] by [[Lacy Reed]] of their "Dragon" show at [[ColdTowne Theater]].
+* [http://vimeo.com/85261565 Video] by [[Lacy Reed]] of their 2013 "Literature" show at [[The Institution Theater]].
+* [http://vimeo.com/74463715 Video] by [[Brad Hawkins]] of their performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/85265975 Video] by [[Lacy Reed]] of their "Swedish Fish" show.
 * [http://vimeo.com/93084167 Video of their 4/7/14 show.]
 * [http://vimeo.com/theladies/videos Their vimeo channel.]
 
