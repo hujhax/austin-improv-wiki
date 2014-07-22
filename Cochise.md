@@ -32,6 +32,9 @@ The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran a
 ![[Cochise Performance.jpg|A performance of *Cochise*.]]
 ### Photos
 * [http://www.flickr.com/photos/8820084@N02/sets/72157620623735851 Photoset] by [[Michael Yew]] of their appearance in [[The 40-Hour Improv Marathon]].
+* [http://www.facebook.com/media/set/?set=a.746912335372285.1073742015.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 6/7/14 show.
+* [http://www.facebook.com/media/set/?set=a.759506387446213.1073742028.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+
 ### Videos
 * [http://www.youtube.com/watch?v=gHYDvzQKeoM Video of the premiere performance of *Cochise*] at [[The 2008 Out of Bounds Comedy Festival]].
 * [http://youtu.be/04yQnI0n7rg Video of the first performance of the first run: "Bad Santa".]
@@ -39,6 +42,7 @@ The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran a
 * [http://www.youtube.com/watch?v=VH9K1iQfmt4 Video of the third performance of the first run.]
 * [http://www.youtube.com/watch?v=a6wWUtuHQ-U Video of the fourth performance of the first run.]
 * [http://youtu.be/tR3RSQkm1yM Video of the 1/31/09 performance: "Tag You're It".]
+
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/3066392555_88d13bf6de_o/3066392555_88d13bf6de_o.jpg?disposition=download Photo] of [[Kaci Beeler]]'s 2008 set design.
 
