@@ -439,7 +439,7 @@ Fresh from Deanna Flysher's 3 day Naked Comedy intensive, these brave clowns in 
 #### *Awkward Silence* ([[Cindy Page]])
 Thirty seconds of silence is a nice way to start a two-person scene, but what happens when you stretch thirty seconds to three minutes, and two people to a crowd of six?
 
-##### *Viking Improv* ([[Chad Wellington]])
+#### =*Viking Improv* ([[Chad Wellington]])=
 The scene above was stolen by a band of marauding vikings who really like this improv thing but really only know how to pillage.
 
 #### *Left Wing Poultry* ([[Amy Carpenter]])
