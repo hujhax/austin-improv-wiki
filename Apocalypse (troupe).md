@@ -20,9 +20,12 @@ At the start of the show, the troupe got a suggestion from the audience that the
 
 ## Media
 ### Videos
+* [http://vimeo.com/45799415 Video] by [[Paul Normandin]] of their 7/14/12 show at [[Salvage Vanguard Theater]].
 * [http://vimeo.com/50120574 Video] by [[Peter Rogers]] of their 9/21/12 show.
 
 ### Photos
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10101751599242950.3370973.7909117&type=3 Rehearsal and publicity photos] by [[Heidi Rogers]].
+* [http://www.facebook.com/photo.php?fbid=10101796073556070&set=a.10101796070781630.3377695.7909117&type=3&theater Photoset] by [[Heidi Rogers]] that includes a troupe rehearsal.
 * [http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 5/31/12 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.446479128706921.99843.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/14/12 performance in *[[The Saturday Night Special]]*.
 
