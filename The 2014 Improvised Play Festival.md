@@ -29,6 +29,13 @@ It was produced by [[Thedward Blevins]] and [[Ruby Willmann]].
 * Stephen Kearin Project (San Francisco)
 * Steve Moore Project
 
+## Media
+### Videos
+* [http://vimeo.com/98101962 Video] of the Stephen Kearin Project's "Mélange" show.
+
+### Photos
+* [http://www.facebook.com/chriscurl/media_set?set=a.10152295923042107.1073741831.549002106&type=3 Photoset] by [[Chris Curl]] of the Stephen Kearin Project's "Mélange" show.
+
 ## More Information
 * [http://www.improvisedplayfestival.com/ The festival website.]
 * [http://www.improvisedplayfestival.com/apply/ Apply to the 2014 Festival]
