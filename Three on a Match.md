@@ -18,6 +18,10 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We have a couple of different formats we've been toying around with -- our Homecoming format starts with each girl slow dancing with an imaginary dance partner and each does a short character monologue. One character steps out to take a suggestion and does a more in-depth monologue based on that suggestion and then we do a montage to explore that character's life. Our Superstitions format explores a never-before-seen superstition and the audience will see if the characters really experience bad luck based on that superstition. </blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/5/14 performance in *[[The Threefer]]*.
+
 ## More Information
 * [http://www.facebook.com/threeonamatchcomedy The troupe's facebook page.]
 
