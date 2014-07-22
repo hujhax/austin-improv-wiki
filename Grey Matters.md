@@ -9,7 +9,7 @@
 
 ## Media
 ### Videos
-* [http://vimeo.com/channels/austinimprov/43371871 Video of their 5/14/12 show] at [[ColdTowne Theater]].
+* [http://vimeo.com/43371871 Video] by [[Jo Chauvin]] of their 5/14/12 show at [[ColdTowne Theater]].
 
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1684724329843.2079936.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 5/22/11 show at [[Hyde Park Theater]].
