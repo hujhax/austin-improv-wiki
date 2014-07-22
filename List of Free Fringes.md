@@ -61,8 +61,8 @@ There's a pretty awesome technique/game in improv where you play your character 
 #### *Spirit of Influence* ([[Mitchell Deane]])
 The bareness of the improv stage is both its blessing and its curse. A few chairs, a few curtains, and our words are used to create everything in the universe. But there's so much that's unseen. In Spirit of Influence, there will be an "unseen" person who provides the characters and scenes with subtext and texture by stating these things out loud. This can be anything from granting characters emotions such as "rage" or "euphoria" to giving them specific characteristics like "allergic to peanuts" or "has Smashmouth song stuck in his head" starring: [[Mitchell Deane]], [[Karen Jane DeWitt]], [[Brandon Martin]], [[Sam Schak]], and [[Heidi Rogers]]
 
-#### *The Library* ([[Justin Davis]])
-We all have our own unique perspective on life. No two people are the same. But what happens when all the people in a story literally come from different universes? The library is a long-form narrative show with each improviser playing from a different genre perspective. Science fiction, romance, horror, Southern gothic, quirky meet-cute indie movie, whatever. One story, multiple genres. starring: [[Justin Davis]], [[Kacey Samiee]], [[Nicole Beckley]], [[Jon Bolden]], and [[Karen Jane DeWitt]] 
+#### *[[The Library]]* ([[Justin Davis]])
+We all have our own unique perspective on life. No two people are the same. But what happens when all the people in a story literally come from different universes? The library is a long-form narrative show with each improviser playing from a different genre perspective. Science fiction, romance, horror, Southern gothic, quirky meet-cute indie movie, whatever. One story, multiple genres. starring: [[Justin Davis]], [[Kacey Samiee]], [[Nicole Beckley]], [[Jon Bolden]], and [[Karen Jane DeWitt]]
 
 #### *Always a Bridesmaid* ([[Firth & Arjet]])
 ### Feb 16, 2012
