@@ -16,6 +16,10 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 <p>Cortnie, Frank, Sanjay and Drew have all played together a bunch. Chris and Jillian are from UCBT NY, new to Austin, and they are extremely experienced there. Jillian also trained at Jill Bernard's Huge Theater before going to NYC.</p> </blockquote>
 
+## Media
+### Videos
+* [http://vimeo.com/98304072 Video] by [[Kyle Sweeney]] of their 6/13/14 show.
+
 ## More Information
 * [https://www.facebook.com/KingstonImprov The troupe's facebook page.]
 
