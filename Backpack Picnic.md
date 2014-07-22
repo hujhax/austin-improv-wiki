@@ -15,13 +15,15 @@ After going dormant in 2008, the troupe performed several reunion shows for [[Th
 
 ## Media
 ### Videos
-* Sketches:
-** [http://youtu.be/G2mBcsGM95Y "Suppression Bakery"]
-** [http://youtu.be/_HqLrH2gzsk "Suppression Sequel"]
-** [http://youtu.be/Kq7xUjzWIL4 "Gay Adoption"]
-** [http://youtu.be/lbT73X2weB0 "Hypothetical Stuff"]
-** [http://youtu.be/f-LsjFM2DHg "Meet the Rickies"]
-** [http://youtu.be/UBljCcJ4LvE "Lamborghini Poster"]
+* [http://blip.tv/out-of-bounds-comedy-festival/backpack-picnic-sat-10pm-svt-apples-stage-1238295 Video] of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+
+#### Sketches
+* [http://youtu.be/G2mBcsGM95Y "Suppression Bakery"]
+* [http://youtu.be/_HqLrH2gzsk "Suppression Sequel"]
+* [http://youtu.be/Kq7xUjzWIL4 "Gay Adoption"]
+* [http://youtu.be/lbT73X2weB0 "Hypothetical Stuff"]
+* [http://youtu.be/f-LsjFM2DHg "Meet the Rickies"]
+* [http://youtu.be/UBljCcJ4LvE "Lamborghini Poster"]
 
 ### Photos
 * [http://www.flickr.com/photos/oob_pics/sets/72157606947626225 Photoset] that includes their performance in [[The 2008 Out of Bounds Comedy Festival]].
