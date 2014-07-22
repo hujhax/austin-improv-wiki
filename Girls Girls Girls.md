@@ -97,17 +97,22 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Sara Farr]]
 
 ## Media
-(Note that there are additional Girls Girls Girls videos in the [[Boys of Summer#Media|*Boys of Summer* media section]].)
-
 ### Videos
-* [http://vimeo.com/43331034 Video of their 6/1/12 show] for [[The 43-Hour Improv Marathon]].
-* [http://vimeo.com/43532723 Video of their 6/2/12 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/battle-of-the-sexes-iii-pt-1-fri-8pm-svt-oranges-stage-1267934 Video] of the 8/29/08 "Battle of the Sexes" match between [[Available Cupholders]] and [[Girls Girls Girls]] at [[The 2008 Out of Bounds Comedy Festival]].
+* [http://blip.tv/out-of-bounds-comedy-festival/girls-girls-girls-sun-7-30pm-esther-s-1237263 Video] of their 8/31/08 headlining show at [[The 2008 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/43331034 Video] by [[Dave Alley]] of the 6/1/12 show in [[The 43-Hour Improv Marathon]].
+* [http://vimeo.com/43532723 Video] by [[Paul Normandin]] of their 6/2/12 show at [[Salvage Vanguard Theater]].
+* [http://youtu.be/yDwlCWTJPE4 Video] of their 2/15/13 "Welding Studio" show.
+* [http://youtu.be/9T4WUb7um0Q Video] of their 4/14/13 "Stage Door" show.
 * [http://vimeo.com/69001828 Video of the first fifteen minutes of their 6/22/13 show,] part of [[The 43-Hour Improv Marathon]].
+* [http://youtu.be/XprjNzdgUvo Video] of their 4/12/14 "Pink Is the New Black" show.
+* [http://youtu.be/tgqJAbhzXbg Video] of their 4/19/14 "Pink Is the New Black" show.
 
 ### Photos
 * [http://www.facebook.com/roy.moore/media_set?set=a.1221978361483.2027946.1589679282&type=3 Photoset] by [[Roy Moore]] of their 4/3/10 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/roy.moore/media_set?set=a.1249529610247.2030742.1589679282&type=3 Photoset] by [[Roy Moore]] of their 5/8/10 performance at *[[The Ladies Are Funny Festival]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100438451097360.3117252.7944448&type=3 Photoset] by [[Jo Chauvin]] of their 7/23/10 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/11/10 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150151636822265.328769.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/5/11 performance in *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/4/11 "GGGlee" performance at [[The City Theater]].
@@ -135,8 +140,12 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.539914026030097.118722.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 2/9/13 performance in *[[The Triple Scoop]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4573289653028.1073741829.1315383518&type=3 Photoset] by [[Michael Yew]] of their 4/5/13 "Stage Door" performance.
 ** [http://www.facebook.com/claudio.fox.5/media_set?set=a.556864001001766.1073741830.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same show.
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 10/25/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.670030793018419.1073741871.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 12/7/13 performance at [[The Institution Theater]].
+* [http://www.facebook.com/media/set/?set=a.720979564632229.1073741991.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/19/14 "Pink Is the New Black" show.
+* [http://www.facebook.com/media/set/?set=a.759510950779090.1073742029.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 
 ### *[[Boys of Summer]]*
 This section lists media specifically for their *[[Boys of Summer]]* shows.
