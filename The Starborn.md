@@ -26,13 +26,14 @@ In February of 2014 The Starborn headlined [[The Threefer]] at [[The Hideout The
 ### Videos
 * [https://vimeo.com/99104898 Video of their TheatreSports bout vs The Fitzgeralds] from 05/31/2014.
 * [https://vimeo.com/97889203 Video of their 8th performance] from 05/09/2014.
+** [http://vimeo.com/97880422 Another video] of the same show.
 * [https://vimeo.com/88495374 Video of their 7th performance] from 02/27/2014.
 * [https://vimeo.com/87466815 Video of their 6th performance] from 02/20/2014.
 * [http://vimeo.com/86862036 Video of their 5th performance] from 02/13/2014.
 * [http://vimeo.com/86311594 Video of their 4th performance] from 02/06/2014.
 * [http://vimeo.com/79608023 Video of their 3rd performance] from 11/15/2013.
 * [http://vimeo.com/77375209 Video of their 2nd performance] from 10/17/2013.
-* [http://vimeo.com/58856305 Video of their 1st performance] from the [[Free Fringe]]
+* [http://vimeo.com/58856305 Video of their 1st performance] from the 1/31/13 [[Free Fringe]].
 ** [http://vimeo.com/58798063 Another video] by [[Peter Rogers]] of the same show.
 
 ### Press Blurb
