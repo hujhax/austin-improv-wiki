@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Lane & Jane
+|Picture=		Lane & Jane
 |Cast	=	{{ Unbulleted list | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] }}
 |Years	=		2013
 }}
