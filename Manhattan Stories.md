@@ -35,6 +35,8 @@ It originally ran in July/August of 2012 but was extended through September.
 
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/manhattan-stories-set/manhattan-stories-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
+* [http://vimeo.com/47244617 Video demo] of "Sex & Death", a game created by [[Marc Majcher]] as a show tie-in.
+* [http://vimeo.com/48532990 Pre-show clips.]
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2048029 Interview] with directors [[Valerie Ward]] and [[Jon Bolden]] and cast members [[Nicole Beckley]] and [[Marc Majcher]] on *[[The Theft Forum]]*.
