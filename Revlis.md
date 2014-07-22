@@ -17,7 +17,11 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 ## Media
 ### Videos
 * [http://vimeo.com/19362641 Video of the 1/25/11 performance.]
-* [http://www.vimeo.com/channels/revlis The act's vimeo channel.]
+* [http://vimeo.com/17738105 Video] of the 7/30/10 show.
+* [http://vimeo.com/19362641 Video] of the 1/25/11 show.
+* [http://vimeo.com/26021733 Video] of the 6/17/11 show.
+* [http://vimeo.com/28906778 Video] of the 9/1/11 show.
+* [http://vimeo.com/22547606 Promo] for the 2011 Chicago Improv Festival appearance.
 
 ## More Information
 * [http://www.improvfromthefuture.com The act's web site.]
