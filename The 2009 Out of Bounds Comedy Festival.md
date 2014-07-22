@@ -111,7 +111,10 @@ Its advertising was classic-Nintendo themed.
 
 ## Media
 ### Videos
-* [http://blip.tv/out-of-bounds-comedy-festival/cackowski-and-talarico-live-at-out-of-bounds-3102690 Video of Cackowski and Talarico's performance.]
+* [http://blip.tv/out-of-bounds-comedy-festival/scram-live-at-oob-2009-3100190 Video of Scram's 9/6/09 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/cackowski-and-talarico-live-at-out-of-bounds-3102690 Video of Cackowski and Talarico's 9/6/09 show.]
+* [http://blip.tv/out-of-bounds-comedy-festival/impro-melbourne-live-at-oob-2009-3104539 Video of Impro Melbourne's 9/6/09 show.]
+
 ### Other
 * Photos of [[Kaci Beeler]]'s set designs: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_2/oob_set09_2.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_3/oob_set09_3.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo-25/photo-25.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_1/oob_set09_1.jpg?disposition=download 4].
 
