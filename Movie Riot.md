@@ -44,6 +44,20 @@ It runs Fridays at 7pm.  They offer free movie candies.
 * [http://vimeo.com/85742380 Video] by [[Kyle Sweeney]] of their "We Didn't Start The Fire" show (uploaded 2/3/14).
 * [http://vimeo.com/86046320 Video] by [[Kyle Sweeney]] of their "The Tree That Grows Hearts" show (uploaded 2/6/14).
 * [http://vimeo.com/91555771 Video] by [[Kyle Sweeney]] of their "Places I Remember (Borne Agent)" show (uploaded 4/9/14).
+* [http://vimeo.com/91538927 Video] by [[Kyle Sweeney]] of their "Cowboy Town" show (uploaded 4/9/14).
+* [http://vimeo.com/91555766 Video] by [[Kyle Sweeney]] of their "Deep Black (Red Robin Song)" show (uploaded 4/9/14).
+* [http://vimeo.com/91555767 Video] by [[Kyle Sweeney]] of their "Space Camp 2" show (uploaded 4/9/14).
+* [http://vimeo.com/91555770 Video] by [[Kyle Sweeney]] of their "Unrequited Love (Cyborg Corp)" show (uploaded 4/9/14).
+* [http://vimeo.com/93178041 Video] by [[Kyle Sweeney]] of their "Don't Start No Shit" show (uploaded 4/28/14).
+* [http://vimeo.com/93178042 Video] by [[Kyle Sweeney]] of their "Post Apocalypse Trains" show (uploaded 4/28/14).
+* [http://vimeo.com/93385893 Video] by [[Kyle Sweeney]] of their "Weather Machine" show (uploaded 4/30/14).
+* [http://vimeo.com/94041492 Video] by [[Kyle Sweeney]] of their "Airfarce" show (uploaded 5/5/14).
+* [http://vimeo.com/94994803 Video] by [[Kyle Sweeney]] of their "Dam Kaiju" show at [[The Hideout Theatre]] (uploaded 5/12/14).
+* [http://vimeo.com/95002910 Video] by [[Kyle Sweeney]] of their "Laughing to the Top" show (uploaded 5/12/14).
+* [http://vimeo.com/95994415 Video] by [[Kyle Sweeney]] of their "The Demon Trip" show (uploaded 5/21/14).
+* [http://vimeo.com/97180425 Video] by [[Kyle Sweeney]] of their "Desert Heat" show (uploaded 6/2/14).
+* [http://vimeo.com/98304071 Video] by [[Kyle Sweeney]] of their "Missing Hearts" show (uploaded 6/16/14).
+* [http://vimeo.com/100719568 Video] by [[Kyle Sweeney]] of their "Ghostbusters' 'Hotel Biznass'" show (uploaded 7/14/14).
 
 ### Publicity
 * [http://vimeo.com/67691335 Promo #1.]
