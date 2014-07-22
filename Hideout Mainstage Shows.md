@@ -132,7 +132,7 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |}
 
 ## Student Mainstage Shows
-Starting in 2014, the Hideout will begin presenting two mainstage shows every Saturday: their 'traditional' mainstage shows will continue in the downstairs theater, and they will begin to present student mainstage shows, featuring either current or recent Hideout students, in their upstairs theater.  Each student mainstage will run for a single month.
+Starting in 2014, the Hideout began presenting two mainstage shows every Saturday: their 'traditional' mainstage shows in the downstairs theater, and student mainstage shows, featuring either current or recent Hideout students, in their upstairs theater.  Each student mainstage runs for a single month.
 
 {| class="wikitable"
 |**Month**||**Show**||**Directed by**
