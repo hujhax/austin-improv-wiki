@@ -34,16 +34,18 @@ Goat has appeared in the following festivals:
 
 ## Media
 ### Videos
-* [http://vimeo.com/39035730 Video of their 3/22/12 show] at *[[The Threefer]]*.
-* [http://vimeo.com/44984553 Video of their 6/28/12 show] at *[[The Threefer]]*.
-* [http://vimeo.com/48548486 Video of their 8/29/12 show] at *[[The 2012 Out of Bounds Comedy Festival]]*.
-* [http://vimeo.com/49553431 Video of their 9/13/12 show] at *[[The Threefer]]*.
-* [http://vimeo.com/53269887 Video of their 11/10/12 show] at *[[The Triple Scoop]]*.
-* [http://vimeo.com/57374969 Video of their 1/13/13 show] at *[[ColdTowne Theater]]*.
-* [http://vimeo.com/58632857 Video of their 1/30/13 show] at *[[ColdTowne Theater]]*.
-* [http://vimeo.com/60605310 Video of a February 2013 show ("Guns")] at *[[ColdTowne Theater]]*.
-* [http://vimeo.com/61016007 Video of their 3/2/13 show ("Optometrist")] at *[[The Institution Theater]]*.
-* [http://vimeo.com/64151133 Video of a 2013 show] ("Fun") at *[[The Hideout Theatre]]*.
+* [http://vimeo.com/39035730 Video] by [[Brad Hawkins]] of their 3/22/12 debut in *[[The Threefer]]*.
+* [http://vimeo.com/44984553 Video] by [[Brad Hawkins]] of their 6/28/12 performance in *[[The Threefer]]*.
+* [http://vimeo.com/47593964 Video] by [[Brad Hawkins]] of their 7/15/12 show at [[ColdTowne Theater]].
+* [http://vimeo.com/49553431 Video] by [[Brad Hawkins]] of their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/49553431 Video] by [[Brad Hawkins]] of their 9/13/12 performance in *[[The Threefer]]*.
+* [http://vimeo.com/53269887 Video] by [[Brad Hawkins]] of their 11/10/12 performance in *[[The Triple Scoop]]*.
+* [http://vimeo.com/57374969 Video] by [[Brad Hawkins]] of their 1/13/13 performance at [[ColdTowne Theater]] ("Jerry the Cat").
+* [http://vimeo.com/58632857 Video] by [[Brad Hawkins]] of their 1/30/13 performance at [[ColdTowne Theater]] ("Chickens").
+* [http://vimeo.com/60605310 Video] by [[Brad Hawkins]] of their "Guns" show at [[ColdTowne Theater]] (uploaded 2/26/13).
+* [http://vimeo.com/61016007 Video] by [[Brad Hawkins]] of their "Optometrist" show at [[The Hideout Theatre]] (uploaded 3/2/13).
+* [http://vimeo.com/64151133 Video] by [[Brad Hawkins]] of their "Fun" show at [[The Hideout Theatre]] (uploaded 4/16/13).
+* [http://vimeo.com/64182313 Video] by [[Brad Hawkins]] of their "Circus" show at [[ColdTowne Theater]] (uploaded 4/16/13).
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.323769481019908.79466.221927764537414&type=3 Photoset of their 3/22/12 show] at *[[The Threefer]]* by [[Steve Rogers]].
