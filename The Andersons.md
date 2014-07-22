@@ -30,6 +30,7 @@ About half the cast of *The Andersons* played the same, pre-established characte
 
 ## Media
 ### Photos
+* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100182260325720.2848170.7944448&type=3 Audition photos] by [[Jo Chauvin]].
 * [http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=3 A photoset including the 5/1/10 show] by [[Michael Yew]]
 * [http://www.facebook.com/media/set/?set=a.441737982264.214512.588952264&type=3 A photoset of the 5/15/10 show] by [[Peter Rogers]], and [http://www.facebook.com/hujhax/media_set?set=a.447241452264.218625.588952264&type=3 a selfie of his costume].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 6/5/10 performance at [[The 41-Hour Improv Marathon]].
