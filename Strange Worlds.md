@@ -117,7 +117,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 ** [http://vimeo.com/67702032 Video of Bellwether Blue versus the Vermin Young.]
 ** [http://vimeo.com/67706793 Video of the Grey Bishop in "The Exchange Variation".]
 ** [http://www.facebook.com/michael.yew/media_set?set=a.4838455402006.1073741836.1315383518&type=3 Casual photos] by [[Michael Yew]].
-* [http://www.facebook.com/media/set/?set=a.715099225220263.1073741984.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/11/14 show at [[The 2014 Improvised Play Festival]].
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.* [http://www.facebook.com/media/set/?set=a.715099225220263.1073741984.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/11/14 show at [[The 2014 Improvised Play Festival]].
 
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/strange-worlds-set/strange-worlds-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
