@@ -17,6 +17,9 @@ After being thrown together as inaugural members of [[The Seven Eight Sevens]], 
 * [http://vimeo.com/55258511 Their 12/7/12 show] at *[[The Threefer]]*.
 * [http://vimeo.com/66537082 Their 5/17/13 show] in *[[2x4]]*.
 
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10200768887327275.1073741863.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/1/13 performance in *[[PGraph Presents]]*.
+
 ## More Information
 * [http://www.facebook.com/mandinkaimprov The troupe's facebook page.]
 
