@@ -18,7 +18,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/83413430  Video of their 1/2/14 show.]
+* [http://vimeo.com/83413430 Video] by [[Melissa Patterson]] of their 1/2/14 performance in *[[The Threefer]]*.
 
 ## More Information
 * [http://www.facebook.com/pages/Safety-Word/165685890219962  The troupe's facebook page.]
