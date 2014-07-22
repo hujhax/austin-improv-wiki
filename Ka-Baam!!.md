@@ -133,9 +133,12 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 ## Media
 ### Videos
 * [http://www.youtube.com/watch?v=NWNM1jVvQGA Video of show intro].
+* [http://blip.tv/out-of-bounds-comedy-festival/ka-baam-mon-8pm-svt-apples-stage-1255191 Video]  of their 9/1/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+
 ### Photos
 * [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset that includes both runs.]
 * [http://www.flickr.com/photos/majcher/tags/kabaam/ Photos of the 2009 run] from [[Marc Majcher]].
+
 ### Other
 * Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2459454053_0a1baac74c/2459454053_0a1baac74c.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2534889035_76644d6259/2534889035_76644d6259.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2461681911_601d6d39d1/2461681911_601d6d39d1.jpg?disposition=download 3].
 
