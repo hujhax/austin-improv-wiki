@@ -48,7 +48,12 @@ Ever wonder what Cinderella would look like if written by Dashiell Hammett? How 
 #### *Tamales!* ([[Jason Vines]])
 We have a large container of cooked tamales on stage. + We do improv scenes. = At least one person must be eating a tamale at all times during any given scene. Improvisers must justify why one person has their mouth full. starring: [[Jason Vines]], [[Mike Kinald]], [[Eric Heiberg]], [[Ann Wilson]], [[Amy Averett]], [[Meredith Newell]], [[Victoria Bui]], [[John Buseman]]
 
-#### *Always a Bridesmaid* ([[Firth & Arjet]])
+#### *Tomboys* ([[Firth & Arjet]])
+This was the premiered of their "Tomboys" format -- [[Firth&Arjet]] had planned to perform "Always a Bridesmaid", but had just bought their "Tomboys" costumes, and decided they didn't want to risk staining their bridesmaid dresses with the aftermath of the "Tamales!" show.
+
+#### Media
+* [http://www.facebook.com/sam.schak/media_set?set=a.1922534340016.2064245.1141801116&type=1 Photoset] of the show by [[Sam Schak]].
+
 ### Feb  9, 2012
 #### *The Bestiary* ([[Thedward Blevins]])
 There's a pretty awesome technique/game in improv where you play your character by taking on the characteristics of animals in human form. So if you're a mouse, you might play shy but excitable. The Bestiary takes that one step further. All the characters are animals. They cannot speak human language; they can only make animal noises. starring: [[Brad Hawkins]], [[Sandra Ybarra]], [[Margaux Binder]], [[Karen Jane DeWitt]], [[Thedward Blevins]]
