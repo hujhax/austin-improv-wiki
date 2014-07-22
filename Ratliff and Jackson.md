@@ -22,6 +22,8 @@ Ratliff and Jackson headlined *[[The Threefer]]* in September 2012.
 
 ## Media
 ### Videos
+* [http://vimeo.com/39441547 Video] by [[Lisa Jackson]] of their 3/28/12 show ("Cowboy Boots").
+* [http://vimeo.com/50171903 Video] by [[Lisa Jackson]] of their 9/20/12 show ("Glasses and Underwear").
 * [http://vimeo.com/66528017 Video of their 5/17/13 performance] in the *[[2x4]]*.
 * [http://vimeo.com/74439291 Video of their 8/27/13 performance], part of [[The 2013 Out of Bounds Comedy Festival]].
 
