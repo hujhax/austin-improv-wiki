@@ -23,5 +23,9 @@ The show returned for the Saturday 7pm hour of [[The 45-Hour Improv Marathon]], 
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17099#p135663 The audition notice] on [[The Austin Improv Forums]].
 * [https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta Archived version of the official page]
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.711676885562497.1073741981.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/5/14 show.
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
