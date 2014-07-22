@@ -45,10 +45,13 @@ At the start of its run, a single *Pick Your Own Path* adventure was paired with
 * 5/23/13: [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[The Black Vault]]* at *[[The Free Fringe]]*).
 * [http://vimeo.com/70460663 6/22/13: Video,] from [[The 44-Hour Improv Marathon]].
 * 5/9/14: [http://youtu.be/GAQarSR6qIM Video.]
+* [http://vimeo.com/100615630 Video] by [[Peter Rogers]] of the 7/11/14 first show ("The Lunar Bicycle").
+* [http://vimeo.com/100610406 Video] by [[Peter Rogers]] of the 7/11/14 second show ("The Love and Horror of Bora Bora").
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3 A couple of pre-show photos] by [[Peter Rogers]] of the 10/8/10 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 12/14/12 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/pickyourownpath The show's web page.]
