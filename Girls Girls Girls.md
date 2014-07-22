@@ -100,11 +100,18 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 ### Videos
 * [http://blip.tv/out-of-bounds-comedy-festival/battle-of-the-sexes-iii-pt-1-fri-8pm-svt-oranges-stage-1267934 Video] of the 8/29/08 "Battle of the Sexes" match between [[Available Cupholders]] and [[Girls Girls Girls]] at [[The 2008 Out of Bounds Comedy Festival]].
 * [http://blip.tv/out-of-bounds-comedy-festival/girls-girls-girls-sun-7-30pm-esther-s-1237263 Video] of their 8/31/08 headlining show at [[The 2008 Out of Bounds Comedy Festival]].
+* [http://youtu.be/o-QneRdYgAM Video highlights] of their 2/5/10 show (the premiere of *Jerzey Shorez*).
+* [http://youtu.be/pu1USWq1vy0 Video highlights] of their 2/12/10 show (the second performance of *Jerzey Shorez*).
 * [http://vimeo.com/43331034 Video] by [[Dave Alley]] of the 6/1/12 show in [[The 43-Hour Improv Marathon]].
 * [http://vimeo.com/43532723 Video] by [[Paul Normandin]] of their 6/2/12 show at [[Salvage Vanguard Theater]].
+* [http://youtu.be/196aoEhy3hs Video] of their 1/13/13 show ("King Size Bed").
 * [http://youtu.be/yDwlCWTJPE4 Video] of their 2/15/13 "Welding Studio" show.
+* [http://youtu.be/Sad-Ri4xo2w Video] of their 3/9/13 show ("Backyard").
+* [http://youtu.be/yDwlCWTJPE4 Video] of their 3/16/13 show ("Welding Studio").
 * [http://youtu.be/9T4WUb7um0Q Video] of their 4/14/13 "Stage Door" show.
 * [http://vimeo.com/69001828 Video of the first fifteen minutes of their 6/22/13 show,] part of [[The 43-Hour Improv Marathon]].
+* [http://youtu.be/i6z2TroPzss Video] of their 11/10/13 show ("Jeep").
+* [http://youtu.be/8twSU8tYHiM Video] of their 12/7/13 holiday show.
 * [http://youtu.be/XprjNzdgUvo Video] of their 4/12/14 "Pink Is the New Black" show.
 * [http://youtu.be/tgqJAbhzXbg Video] of their 4/19/14 "Pink Is the New Black" show.
 
@@ -146,6 +153,33 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.670030793018419.1073741871.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 12/7/13 performance at [[The Institution Theater]].
 * [http://www.facebook.com/media/set/?set=a.720979564632229.1073741991.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/19/14 "Pink Is the New Black" show.
 * [http://www.facebook.com/media/set/?set=a.759510950779090.1073742029.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+
+### Publicity
+* Promos for *Jerzey Shorez*:
+** [http://youtu.be/7APV47_iSgU "The Equation"]
+** [http://youtu.be/zurFiul7ewE "Girl Fight"]
+** [http://youtu.be/LUH1eiV1fzQ "Pre Show"]
+** Character Promos:
+*** [http://youtu.be/EMTCt1jTQQM "Lonnie 'Casanova' Morino"]
+*** [http://youtu.be/keoMCTshq5M "Wookie" (#1)]
+*** [http://youtu.be/s_HT6baY4nA "Wookie" (#2)]
+*** [http://youtu.be/9CcNgQB6zxU "Lisa Lee"]
+*** [http://youtu.be/PQlKS7xq7Mg "Veronica 'RAWRRRRR' DeLucci"]
+*** [http://youtu.be/G9sOBKU966w "William 'Willy' Bartholomeo"]
+* Character promos for "GGGlee":
+** [http://youtu.be/qagJ5fe9OMc "Kennedy Stella Montgomery"]
+** [http://youtu.be/gjiPLJmU0G0 "Tiffany Ann-Marie Clayton (and Diamond Jazz)"]
+** [http://youtu.be/vrkq_GK6b3w "Rainbow Moonstone"]
+** [http://youtu.be/19ab6WFcJhU "Jubilation 'Lee' Hildegard O'Riley"]
+*** [http://youtu.be/1IMyxzSyWwY "A poem"]
+** [http://youtu.be/K_6LAZ0GkNE "Coach Rue Stallone"]
+** [http://youtu.be/gTWQ7CwQ6Xw "Mr. Molson"]
+** [http://youtu.be/N3UzuAUAFso "Agnes Swalwell"]
+** [http://youtu.be/j1oK0yhfTIc "London"]
+** [http://youtu.be/7rNeBQ9JlGY "Regina Goldman"]
+
+### Other
+* [http://youtu.be/p8T4acqdnbI&list=UU3ZwcLrGS_Q-ylvswzf1x_A The girls of GGG give advice on love.]
 
 ### *[[Boys of Summer]]*
 This section lists media specifically for their *[[Boys of Summer]]* shows.
