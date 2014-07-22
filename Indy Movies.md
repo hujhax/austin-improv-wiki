@@ -13,8 +13,23 @@
 The show included stage-blood effects and fight choreography.
 
 ## Media
+### Movies
+* [http://vimeo.com/71753813 Video] by [[Kyle Sweeney]] of their 8/3/13 debut ("Rhode Island").
+* [http://vimeo.com/72208663 Video] by [[Kyle Sweeney]] of their 8/10/13 show ("Michigan").
+* [http://vimeo.com/72834889 Video] by [[Kyle Sweeney]] of their 8/17/13 show ("Mississippi").
+* [http://vimeo.com/73247254 Video] by [[Kyle Sweeney]] of their 8/24/13 show ("South Dakota").
+* [http://vimeo.com/80019621 Video] by [[Kyle Sweeney]] of their 9/6/13 show ("Oregon").
+* [http://vimeo.com/79310052 Video] by [[Kyle Sweeney]] of their 9/13/13 show ("Virginia").
+* [http://vimeo.com/78700016 Video] by [[Kyle Sweeney]] of their 9/20/13 show ("Delaware").
+
 ### Publicity
 * [http://vimeo.com/71849739 Promo video for the show.]
+
+### Other
+* Rehearsals: 
+** [http://vimeo.com/71272460 "Beats only" rehearsal.]
+** [http://vimeo.com/71273583 Dress rehearsal.]
+* [http://vimeo.com/71849739 Show promo.]
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=15381 Audition announcement] on [[The Austin Improv Forums]].
