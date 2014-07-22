@@ -15,6 +15,9 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Currently, we're playing with a format where we intersperse confessionals (solo or in pairs, talking directly "to camera") with scenes to explore relationships and situations. When a narrative thread develops in an organic way, we pursue it; otherwise we leave ourselves free to play in situations and find games wherever we can. </blockquote>
 
 ## Media
+### Photos
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10101751552506610.3370965.7909117&type=3 Rehearsal, casual, and performance photos] by [[Heidi Rogers]].
+
 ### Videos
 * [http://vimeo.com/44573854 Video] of their 6/21/12 performance in *[[The Threefer]]*.
 
