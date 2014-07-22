@@ -8,6 +8,9 @@
 **The Glamping Trip** is an improv duo that focuses on grounded improv.
 
 ## Media
+### Videos
+* [http://vimeo.com/31863927 Video] by [[Kyle Sweeney]] of their 8/18/11 performance in *[[The Threefer]]*.
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/19/10 performance in *[[The Threefer]]*.
 ** [http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3 Photoset] by [[Roy Moore]] that includes the same show.
