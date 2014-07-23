@@ -181,6 +181,8 @@ The annual O'Henry Pun Off is coming on May 19th. Improvisers traditionally clea
 * [http://vimeo.com/42390536 Video] by [[Peter Rogers]] of "Evil Peter Rogers".
 
 ### May 24, 2012
+(Note: this Fringe show was not performed, owing to insufficient audience.)
+
 #### *The Improv Bachelor* ([[Brad Hawkins]])
 It's like a dating reality show, only for improv duos. There will be an improviser chosen to be the Bachelor and three or four contestants. A director sets up some scenes, and the Bachelor is paired with each of the contestants in turn. The audience judges the scenes, and the winning pairing forms a duo which is given a slot in the next Hideout schedule. 
 
