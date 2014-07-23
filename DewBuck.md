@@ -1,1 +1,1 @@
-#REDIRECT [[Lane and Jane]]
+#REDIRECT [[Lane & Jane]]
