@@ -5,7 +5,7 @@
 |Years	=		2013
 }}
 
-**Lane & Jane** was an improv duo.
+**Lane & Jane** (AKA **DewBuck**) was an improv duo.
 
 ## Summary
 ### Press Blurb
