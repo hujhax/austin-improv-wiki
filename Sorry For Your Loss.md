@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Sorry For Your Loss
-|Cast	=	
+|Cast	=	{{Unbulleted list | [[Benjamen Babcock]] | [[Brian O'Neill]] | [[Kim Lowery]] | [[Lance Nealy]] | [[Stewart Chow]] }}
 |Years	=		2014
 }}
 
