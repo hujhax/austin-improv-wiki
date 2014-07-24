@@ -2,7 +2,9 @@
 |Name	=	Cochise
 |Picture=	Cochise Poster.jpg
 |Theater=	[[The Hideout Theatre]]	
-|Director =	{{Unbulleted list | [[Bob Apthorpe]] | [[Marc Majcher]] }}
+|Director =	{{Unbulleted list | [[Bob Apthorpe]] ([[Improv for Evil]] runs)| [[Marc Majcher]] (all runs)}}
+|Assistant Director = [[Paul Normandin]] (student mainstage run)
+|Crew = [[Devon Ragsdale]] (student mainstage run)
 |Cast	=	{{Unbulleted list | [[Barrett Phelan]] | [[Bob Apthorpe]] | [[Emma Czarnecki]] | [[Eric Heiberg]] | [[Ericka Bundy]] | [[Greg Blank]] | [[Haley Alea Erickson]] | [[Jason Vines]] | [[Joshua Santo]] | [[Manuel Duran]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Matthew Davis]] }}
 |Run	=	Nov/Dec 2008
 |Subsequent Runs = {{Unbulleted list | Jan 2009 | Jun/Jul 2014 }}
