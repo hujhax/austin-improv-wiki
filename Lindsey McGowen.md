@@ -10,7 +10,9 @@
 ## Summary
 Lindsey has an expensive piece of paper that says she knows stuff about technical theater, studying stage management and lighting design at Case Western Reserve University. She also occasionally ran tech for CWRU's  collegiate improv troupe Improvment. Upon graduating, she decided that theater-as-a-day-job was not as fun as it looked and took a hiatus from theater from 2006-2013. 
 
+
 Since moving to Austin in early 2014, she immediately jumped into the local improv scene and has been running tech for shows at both [[The Hideout Theatre]] and [[The Institution Theater]]. She specializes in scoring and sound effects.
+
 
 Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [http://vimeo.com/100491197 Synesthesia].
 
