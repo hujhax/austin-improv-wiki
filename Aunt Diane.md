@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Aunt Diane
-|Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Kate Trammell]] | [[Kayla Newman]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Nick Wuthrich]] | [[Terry Woodroffe]] }}
+|Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Kate Trammell]] | [[Kayla Newman]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Nick Wuthrich]] }}
 |Years	=		2014
 }}
 
