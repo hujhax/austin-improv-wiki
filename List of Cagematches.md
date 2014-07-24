@@ -658,3 +658,19 @@ None of the winners are known.
 
 ### More Information
 * [https://docs.google.com/spreadsheets/d/1yWoqVZJKSk8Uur9W2BBFNy5lG6frE1zlJSkd5455vIs/edit#gid=0 Online bracketing info].
+
+
+## 7/2/14-8/20/14 ("Who Wants Some Stakes?")
+### Matches
+#### Quarterfinals
+* 7/9/14: [[G.O.O.F.S]] vs. [[Raw Power]] vs. [[Side Hugs]]
+* 7/16/14: [[The Special Features]] vs. [[Sorry For Your Loss]] vs. [[Intervention]]
+* 7/23/14: [[Red Manta]] vs. [[Jacks]] vs. [[IDKY]]
+* 7/30/14: [[Duplex]] vs. [[Space Earth]] vs. [[Aunt Diane]]
+
+#### Exhibition
+* 7/2/14 ("Exhibition of Duos"): [[The Starborn]] vs. [[Northward]] vs. [[Pariah]]
+** This consisted of four 15-minute shows, with the winner promised a spot in the next *Cagematch*.
+
+### More Information
+* [https://docs.google.com/spreadsheets/d/1yWoqVZJKSk8Uur9W2BBFNy5lG6frE1zlJSkd5455vIs/edit#gid=0 Online bracketing info].
