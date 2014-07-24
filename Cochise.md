@@ -10,7 +10,7 @@
 |Subsequent Runs = {{Unbulleted list | Jan 2009 | Jun/Jul 2014 }}
 }}
 
-***Cochise*** was a mainstage show at [[The Hideout Theatre]] based on late-70s cop shows.  It was produced and performed by [[Improv for Evil]].
+***Cochise*** was a mainstage show at [[The Hideout Theatre]] based on late-70s cop shows.  It was originally produced and performed by [[Improv for Evil]].
 
 ## Summary
 In each episode, two characters were pre-determined: "Cochise", a renegade cop, and his beleaguered police sergeant.  Everyone else played whatever characters were needed on the day.  Each performance introduced a villain committing some sort of crime, and showed Cochise gradually closing in on and defeating the villain.
