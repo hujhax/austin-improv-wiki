@@ -63,6 +63,9 @@ PREVIOUS
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Mr. Weir)
 * *[[Thinning the Herd]]*
 
+## More Information
+* [http://yesandrew.com/2013/07/28/the-sunday-interview-dave-buckman/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Buckman]]
 [[Category/Directors|Buckman]]
 [[Category/Teachers|Buckman]]
