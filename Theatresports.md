@@ -17,10 +17,10 @@ Theatresports is an improv show in which two teams of improvisors challenge each
 
 A group of judges award points, set special 'judges' challenges', and cut short scenes that are boring.
 
-## First Run
+## 2007 Run
 The initial run of the show started 4/14/07 and ran through the end of June of that year.  It was directed by [[Dav Wallace]] and [[Sean Hill]].
 
-## Second Run
+## 2010 Run
 The show was brought back as the Sep/Oct 2010 mainstage show, this time directed by [[Andy Crouch]] and [[Kareem Badr]].  This run initiated the show's practice of having local businesses sponsor individual teams.
 
 For this one, teams were set at the start of the run, and those teams played together for the duration of the run.
@@ -68,7 +68,7 @@ For this one, teams were set at the start of the run, and those teams played tog
 ** [[Kacey Samiee]]
 ** [[Teresa Troxel]]
 
-## Third Run
+## 2013 Run
 The third run was directed by [[Roy Janik]], with assistance from [[Ryan Austin]].
 
 In the 2013 run, the show opened with a 15-minute student bout, featuring two student teams captained by a member of the core cast. This was followed by an "exhibition match", featuring teams organized around some kind of theme.  After an intermission, there was a "main event" bout, involving teams sponsored by local businesses and drawn from the show's cast.  Each performance had a designated "snogger", or scenographer, who handled props, costumes, and scene-painting throughout the show.
@@ -135,8 +135,8 @@ The schedule is as follows:
 *** [[Andrew Buck]]
 *** [[Kaci Beeler]]
 
-## Fourth Run
-*Theatresports* will come back as a Hideout mainstage show in May and June of 2014.
+## 2014 Run
+*Theatresports* came back as a Hideout mainstage show in May and June of 2014.
 
 ### Fourth Run Cast
 * [[Andrew Buck]]
