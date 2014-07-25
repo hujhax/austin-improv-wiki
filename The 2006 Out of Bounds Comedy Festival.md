@@ -1,5 +1,7 @@
 **The 2006 Out of Bounds Comedy Festival** was the fifth annual [[Out of Bounds Comedy Festival]].  It ran from 8/30/06 to 9/4/06.
 
+![[2006 Out of Bounds Postcard.jpg|Postcard art for the 2006 Out of Bounds Comedy Festival.]]
+
 ![[2006 Out of Bounds Schedule.jpg|The schedule/postcard for the 2006 Out of Bounds Comedy Festival.]]
 
 ## Acts
