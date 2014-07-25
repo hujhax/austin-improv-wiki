@@ -1,4 +1,4 @@
-**The 2002 Out of Bounds Comedy Festival** was the first annual [[Out of Bounds Comedy Festival]].
+**The 2002 Out of Bounds Comedy Festival** was the first annual [[Out of Bounds Comedy Festival]].  It ran from 7/31/02 to 8/3/02.
 
 ![[2002 Out of Bounds Schedule.jpg|The schedule/program for the 2002 Out of Bounds Comedy Festival]]
 
