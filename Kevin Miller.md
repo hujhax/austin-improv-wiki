@@ -30,5 +30,8 @@ In September 2011, Kevin went on a solo backpacking trip to Montana. In the week
 * *[[Not This American Life]]*
 * *[[Totally Improvised, 90210]]*
 
+## More Information
+* [http://yesandrew.com/2013/06/24/the-sunday-interview-kevin-miller-2/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Miller]]
 [[Category/Teachers|Miller]]
