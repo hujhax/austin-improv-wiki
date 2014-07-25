@@ -8,6 +8,8 @@
 **Pariah** is an improv duo.
 
 ## History
+The duo debuted on 1/30/14.
+
 They played in the 7/2/14 *Cagematch*.
 
 ## More Information
