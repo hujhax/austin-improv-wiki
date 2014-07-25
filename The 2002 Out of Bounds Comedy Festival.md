@@ -1,5 +1,7 @@
 **The 2002 Out of Bounds Comedy Festival** was the first annual [[Out of Bounds Comedy Festival]].
 
+![[2002 Out of Bounds Schedule.jpg|The schedule/program for the 2002 Out of Bounds Comedy Festival]]
+
 ## Acts
 ### Local Acts
 * [[Ed 32]] 
