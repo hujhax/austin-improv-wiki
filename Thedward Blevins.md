@@ -31,4 +31,7 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 * [[Candy Vampires]] (2014) (former member)
 * [[Northward]] (2014-Present)
 
+## More Information
+* [http://yesandrew.com/2013/07/12/in-praise-of-thedward-blevins/ "In Praise Of..." post] by [[Ryan Austin]].
+
 [[Category/Performers|Blevins]]
