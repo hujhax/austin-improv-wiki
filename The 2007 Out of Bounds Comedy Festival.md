@@ -1,6 +1,8 @@
 **The 2007 Out of Bounds Comedy Festival** was the sixth annual [[Out of Bounds Comedy Festival]].
 
 ## Summary
+The festival ran from 8/30/07 to 9/3/07.
+
 Its advertising and art were themed around Soviet Russia.
 
 ## Acts
