@@ -1,4 +1,7 @@
-**The 2005 Out of Bounds Comedy Festival** was the fourth annual [[Out of Bounds Comedy Festival]].
+**The 2005 Out of Bounds Comedy Festival** was the fourth annual [[Out of Bounds Comedy Festival]].  It ran from 9/7/05 to 9/10/05.
+
+![[2005 Out of Bounds Postcard.jpg|A postcard for the 2003 Out of Bounds Comedy Festival.]]
+![[2005 Out of Bounds Schedule.jpg|The schedule/program for the 2005 Out of Bounds Comedy Festival.]]
 
 ## Acts
 ### Local Acts
