@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Wink Planet
 |Picture	=	Wink Planet.jpg
-|Cast	=	{{Unbulleted list | [[Ashley Siebels]] | [[Jared Robertson]] | [[Matt Vaught]] | [[Sanjay Rao]] | [[Taylor Stewart]] }}
+|Cast	=	{{Unbulleted list | [[Ashley Siebels]] | [[Jared Robertson]] | [[Matt Vaught]] | [[Sanjay Rao]] | [[Taylor Stewart]] | [[Steve Moore]]}}
 |Years	=		2013-Present
 }}
 
