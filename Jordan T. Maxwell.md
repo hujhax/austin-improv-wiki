@@ -43,5 +43,8 @@ His written stage works include *Icons: a pop fantasy* and *The Appointment.*  H
 * *[[Start Trekkin']]*
 * *[[Strange Worlds]]* (director)
 
+## More Information
+* [http://yesandrew.com/2013/05/26/the-sunday-interview-jordan-t-maxwell/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Maxwell]]
 [[Category/Directors|Maxwell]]
