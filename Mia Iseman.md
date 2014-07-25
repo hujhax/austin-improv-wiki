@@ -17,11 +17,10 @@
 * *[[Pulp Friction]]*
 * *[[Fandom]]*
 * *[[Lord Wensleydale’s Last High Tea]]*
-* *[[Theatresports 2013]]*
+* *[[Theatresports]]* (2013)
 * *[[A Bedtime Gorey]]*
 * *[[Slam Team Six]]*
-* *[[Theatresports 2014]]*
-
-
+* *[[Theatresports]]* (2014)
 
 [[Category/Performers|Iseman]]
+[[Category/Acive|Iseman]]
