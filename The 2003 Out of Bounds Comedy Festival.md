@@ -1,4 +1,4 @@
-**The 2003 Out of Bounds Comedy Festival** was the second annual [[Out of Bounds Comedy Festival]].
+**The 2003 Out of Bounds Comedy Festival** was the second annual [[Out of Bounds Comedy Festival]].  It ran from 9/24/03 to 9/27/03.
 
 ![[2003 Out of Bounds Schedule.jpg|The schedule/program for the 2003 Out of Bounds Comedy Festival.]]
 
