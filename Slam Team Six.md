@@ -8,7 +8,7 @@
 |Run	=	Apr 2014
 }}
 
-***Slam Team Six*** is an upcoming mainstage show at [[ColdTowne Theater]].  It is an improv show about a team of professional wrestlers who fight crime in their off-hours.
+***Slam Team Six*** was a mainstage improv show at [[ColdTowne Theater]] about a team of professional wrestlers who fight crime in their off-hours.
 
 ## Summary
 ### Publicity Blurb
