@@ -7,7 +7,7 @@
 |Cast =	{{Unbulleted list | [[Alex Baia]] | [[Andrew Basile]] | [[Benjamin Bazan]] | [[Cody Dearing]] | [[Heidi Rogers]] | [[Jericho Thorp]] | [[Joseph Dailey]] | [[Lance Gilstrap]] | [[Meredith Mae Roberts]] | [[Mia Iseman]] | [[Michael Williams]] | [[Sanjay Rao]] | [[Will Casto]] }}
 |Run	=	Apr 2014
 }}
-
+![[Slam Team Cartoon.png|Publicity art for the show.]]
 ***Slam Team Six*** was a mainstage improv show at [[ColdTowne Theater]] about a team of professional wrestlers who fight crime in their off-hours.
 
 ## Summary
