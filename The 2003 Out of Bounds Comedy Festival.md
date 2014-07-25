@@ -1,5 +1,7 @@
 **The 2003 Out of Bounds Comedy Festival** was the second annual [[Out of Bounds Comedy Festival]].
 
+![[2003 Out of Bounds Schedule.jpg|The schedule/program for the 2003 Out of Bounds Comedy Festival.]]
+
 ## Acts
 ### Local Acts
 * [[Catch 24]]
