@@ -54,5 +54,8 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 * [http://www.facebook.com/media/set/?set=a.494601140603407.116693.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/16/13 shows (*Harry Potter*).
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.540278589326974.118800.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 2/23/13 show (*Firefly*).
 
+## More Information
+* Posts by [[Andrew Buck]]: [http://yesandrew.com/2013/01/19/fandom-batman/ "Batman"], [http://yesandrew.com/2013/01/27/fandom-the-hunger-games/ "The Hunger Games"], [http://yesandrew.com/2013/02/17/my-personal-threefer/ "Harry Potter"], [http://yesandrew.com/2013/02/17/fandom-wrap-up/ wrap-up], [http://yesandrew.com/2013/03/20/less-them-more-us/ further thoughts].
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
