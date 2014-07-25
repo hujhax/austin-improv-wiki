@@ -23,6 +23,9 @@ Michael Jastroch writes and performs with [[ColdTowne]], winning several awards 
 * *[[Rapture the Flag]]* (director)
 * *[[Victrola]]* (director)
 
+## More Information
+* [http://yesandrew.com/2013/05/05/the-sunday-interview-michael-jastroch/ Interview] by [[Andrew Buck]].
+
 [[Category/Teachers|Jastroch]]
 [[Category/Performers|Jastroch]]
 [[Category/Directors|Jastroch]]
