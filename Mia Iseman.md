@@ -9,12 +9,19 @@
 
 ## Troupes
 * [[MANDINKA]]
+* [[The Starborn]]
+* [[Three on a Match]]
+* [[Past Lives]]
 
 ## Shows
+* *[[Pulp Friction]]*
 * *[[Fandom]]*
 * *[[Lord Wensleydale’s Last High Tea]]*
-* *[[Past Lives]]*
-* *[[Pulp Friction]]*
-* *[[Theatresports]]*
+* *[[Theatresports 2013]]*
+* *[[A Bedtime Gorey]]*
+* *[[Slam Team Six]]*
+* *[[Theatresports 2014]]*
+
+
 
 [[Category/Performers|Iseman]]
