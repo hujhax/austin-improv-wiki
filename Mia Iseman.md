@@ -5,7 +5,7 @@
   |Years   = 2011-Present
 }}
 
-**Mia Iseman** is an improv performer.
+**Mia Iseman** likes to play pretend with others.
 
 ## Troupes
 * [[MANDINKA]]
