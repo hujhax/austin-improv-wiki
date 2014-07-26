@@ -23,5 +23,6 @@
 
 ## More Information
 * [http://yesandrew.com/2014/05/11/the-sunday-interview-lance-gilstrap/ Interview] by [[Andrew Buck]].
+* [http://traffic.libsyn.com/gybpodcast/Lance_Gilstrap-EP_3_GOT_YOUR_BACK.mp3 Interview] on the *[[Got Your Back]]* podcast.
 
 [[Category/Performers|Gilstrap]]
