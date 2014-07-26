@@ -24,6 +24,6 @@ The show opened with a set of monologs, and then the story split up, with indepe
 * [http://www.facebook.com/media/set/?set=a.10151560732329090.1073741825.273514734089&type=1 Press photos for the show.]
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2314430] with director [[Asaf Ronen]], assistant director [[Jason Vines]], and cast members [[Nicole Beckley]] and [[Jeanette Jones]] on *[[The Theft Forum]]*.
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2314430 Interview] with director [[Asaf Ronen]], assistant director [[Jason Vines]], and cast members [[Nicole Beckley]] and [[Jeanette Jones]] on *[[The Theft Forum]]*.
 
 [[Category/Shows|Suitcase]]
