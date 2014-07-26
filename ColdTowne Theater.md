@@ -17,3 +17,6 @@ The theater was founded by the improv troupe [[ColdTowne (troupe)|ColdTowne]] af
 ## Media
 ### Videos
 * [http://vimeo.com/31405764 Their 2010-2011 "Best Moment Award" video], by [[Kyle Sweeney]].
+
+## Media
+* [http://yesandrew.com/2014/03/24/austin-improv-theaters-as-modern-american-humorists-day-1-coldtowne/ Post about the theater] by [[Andrew Buck]].
