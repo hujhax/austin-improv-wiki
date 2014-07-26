@@ -24,6 +24,7 @@ He guested with [[Girls Girls Girls]] during their *[[Boys of Summer]]* run in 2
 
 ## More Information
 * [http://en.wikipedia.org/wiki/Brently_Heilbron Brently's wikipedia page.]
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2650441 Interview] on *[[The Theft Forum]]*.
 
 [[Category/Performers|Heilbron]]
 [[Category/Directors|Heilbron]]
