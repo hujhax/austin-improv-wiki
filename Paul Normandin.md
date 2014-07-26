@@ -43,4 +43,7 @@ Paul was a teaching assistant at [[The Hideout Theatre]] in 2013.
 * *[[Thinning the Herd]]* (2013-2014)
 * *[[Hurly Burly]]* (2014-)
 
+## More Information
+* [http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/ "In Praise Of..." post] by [[Mia Iseman]].
+
 [[Category/Performers|Normandin]]
