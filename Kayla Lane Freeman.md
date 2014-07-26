@@ -28,5 +28,6 @@ In 2013, she moved away to Chicago.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=21&t=11684 Her self-introduction thread] on [[The AIC Forum]].
+* [http://yesandrew.com/2013/07/05/in-praise-of-kayla-lane-freeman/ "In Praise Of..." post] by [[Karen Jane DeWitt]].
 
 [[Category/Performers|Freeman]]
