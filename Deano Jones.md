@@ -26,3 +26,6 @@ His novel, *[http://www.riseofthecaferacer.com Rise of the Cafe Racer]*, was fea
 * [[The Intentions]]
 * [[The Knuckleball Now]]
 * [[Simply D-Vine]]
+
+## More Information
+* [http://directory.libsyn.com/episode/index/id/2816451 Interview] on *[[The Theft Forum]]*.
