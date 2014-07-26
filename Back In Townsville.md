@@ -10,7 +10,7 @@
 |Run	=	April/May 2014
 }}
 
-***Back In Townsville*** (full name: ***Back In Townsville: Townsville Community Center***) was a scripted comedic play written by members of Nice Astronaut, written as a follow-up to [[Townville -  MacDaddy's Bar & Grill]].
+***Back In Townsville*** (full name: ***Back In Townsville: Townsville Community Center***) was a scripted comedic play written by members of Nice Astronaut, written as a follow-up to *[[Townsville#MacDaddy.27s Bar .26 Grill|Townsville: MacDaddy's Bar & Grill]]*.
 
 ## Plot Summary
 The Mayor of Townsville executes a complicated scheme that involves all of the people at the Townsville Community Center on a Sunday afternoon.
@@ -25,5 +25,8 @@ Members of Nice Astronaut began writing and improvising in rehearsal in October 
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.729336763796509.1073741995.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/24/14 show.
+
+## More Information
+* [http://yesandrew.com/2014/04/04/ive-still-never-seen-a-sketch-show/ Article about the show] by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
