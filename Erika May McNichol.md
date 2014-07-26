@@ -26,6 +26,7 @@ After doing improv in Chicago, Erika May McNichol moved to Austin in June 2005.
 
 ## More Information
 * [http://yesandrew.com/2014/06/15/the-sunday-interview-erika-mcnichol/ Interview] by [[Andrew Buck]].
+* [http://gybpodcast.libsyn.com/erika-may-mcnichol-ep-12-got-your-back Interview] on the *[[Got Your Back]]* podcast.
 
 [[Category/Performers|McNichol]]
 [[Category/Directors|McNichol]]
