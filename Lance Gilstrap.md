@@ -21,4 +21,7 @@
 * *[[TGIS]]* (cast member, "Boy Greets World")
 * *[[Victrola]]*
 
+## More Information
+* [http://yesandrew.com/2014/05/11/the-sunday-interview-lance-gilstrap/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Gilstrap]]
