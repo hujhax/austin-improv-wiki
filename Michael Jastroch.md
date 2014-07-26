@@ -25,7 +25,7 @@ Michael Jastroch writes and performs with [[ColdTowne]], winning several awards 
 
 ## More Information
 * [http://yesandrew.com/2013/05/05/the-sunday-interview-michael-jastroch/ Interview] by [[Andrew Buck]].
-* [http://traffic.libsyn.com/gybpodcast/GOT_YOUR_BACK_EP_1-Michael_Jastroch.mp3 Interview] on the *[[Got Your Back]]* podcast.
+* [http://gybpodcast.libsyn.com/got-your-back-ep-1-michael-jastroch Interview] on the *[[Got Your Back]]* podcast.
 
 [[Category/Teachers|Jastroch]]
 [[Category/Performers|Jastroch]]
