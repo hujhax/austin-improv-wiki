@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name = Back in Townsville: Townsville Community Center	
+|Name = Back in Townsville	
 |Theater = [[ColdTowne Theater]]
 |Director =	[[Chris McKeever]]
 |Producer =     [[Chaz Formichella]] | [[Tim Honker]] | [[Nicole McCracken]]
@@ -10,7 +10,7 @@
 |Run	=	April/May 2014
 }}
 
-***Back In Townsville: Townsville Community Center*** was a scripted comedic play written by members of Nice Astronaut, written as a follow-up to [[Townville -  MacDaddy's Bar & Grill]].
+***Back In Townsville*** (full name: ***Back In Townsville: Townsville Community Center***) was a scripted comedic play written by members of Nice Astronaut, written as a follow-up to [[Townville -  MacDaddy's Bar & Grill]].
 
 ## Plot Summary
 The Mayor of Townsville executes a complicated scheme that involves all of the people at the Townsville Community Center on a Sunday afternoon.
