@@ -25,6 +25,8 @@
 * *[[Process]]*
 * *[[Pulp Friction]]*
 
+## More Information
+* [http://yesandrew.com/2014/07/13/the-sunday-interview-michael-joplin/ Interview] by [[Andrew Buck]].
 
 [[Category/Teachers|Joplin]]
 [[Category/Performers|Joplin]]
