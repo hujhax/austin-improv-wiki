@@ -19,5 +19,6 @@ The show ran Fridays in May and June of 2014, and was hour 34 of [[The 45-Hour I
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17121 Audition notice] in [[The Austin Improv Forums]].
+* [http://yesandrew.com/2014/06/14/6305/ Review] by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
