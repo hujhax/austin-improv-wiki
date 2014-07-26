@@ -29,6 +29,9 @@ Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
 * *[[Manhattan Stories]]* (co-director)
 * *[[The Tribunal]]*
 
+## More Information
+* [http://yesandrew.com/2014/06/29/the-sunday-interview-valerie-ward/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Ward]]
 [[Category/Teachers|Ward]]
 [[Category/Directors|Ward]]
