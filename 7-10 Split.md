@@ -27,6 +27,7 @@ They've played every [[Out of Bounds Comedy Festival]] from 2009 to 2013.
 
 ## More Information
 * [http://www.facebook.com/pages/710-Split/249945580157 The duo's facebook page.]
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2474844 Interview] with the troupe on *[[The Theft Forum]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
