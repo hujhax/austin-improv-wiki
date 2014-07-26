@@ -22,4 +22,7 @@
 * *[[TGIS]]*
 * *[[Love Fest]]*
 
+## More Information
+* [http://yesandrew.com/2014/07/06/the-sunday-interview-nathan-sowell/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Sowell]]
