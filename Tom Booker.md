@@ -40,6 +40,7 @@ He's a really nice guy. You should meet him.
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2424971 Interview] with Tom on *[[The Theft Forum]]*.
+* [http://yesandrew.com/2014/06/22/the-sunday-interview-tom-booker/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Booker]]
 [[Category/Directors|Booker]]
