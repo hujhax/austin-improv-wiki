@@ -105,12 +105,12 @@ Nice Astronaut also hosted the short lived [http://blog.coldtownetheater.com/wp-
 * [[Galactic]]
 * [[First United Methodist Church of Plano's Youth Group Improv]]
 
-## External Sites
-* [https://www.facebook.com/NiceAstronaut Nice Astronaut on Facebook]
-* [https://www.youtube.com/user/NiceAstronaut Nice Astronaut on YouTube]
-* [https://vimeo.com/niceastronaut Nice Astronaut on Vimeo]
-* [https://twitter.com/NiceAstronaut Nice Astronaut on Twitter]
-
+## More Information
+* [http://www.facebook.com/NiceAstronaut Nice Astronaut on Facebook]
+* [http://www.youtube.com/user/NiceAstronaut Nice Astronaut on YouTube]
+* [http://vimeo.com/niceastronaut Nice Astronaut on Vimeo]
+* [http://twitter.com/NiceAstronaut Nice Astronaut on Twitter]
+* [http://directory.libsyn.com/episode/index/id/2762592 Interview] with the troupe on *[[The Theft Forum]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
