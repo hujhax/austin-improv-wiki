@@ -30,6 +30,7 @@ From [http://www.coldtownetheater.com/performer/joshua-krilov his ColdTowne bio]
 
 ## More Information
 * [http://www.coldtownetheater.com/performer/joshua-krilov Joshua's performer page on the ColdTowne web site.]
+* [http://gybpodcast.libsyn.com/joshua-krilov-ep16-got-your-back Interview] on the *[[Got Your Back]]* podcast.
 
 [[Category/Performers|Krilov]]
 [[Category/Teachers|Krilov]]
