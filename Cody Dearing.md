@@ -22,6 +22,9 @@ Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph
 * *[[Slaughter Your Shorts]]* (director)
 * *[[TGIS]]* (cast member, "Buddies")
 
+## More Information
+* [http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Dearing]]
 [[Category/Directors|Dearing]]
 [[Category/Teachers|Dearing]]
