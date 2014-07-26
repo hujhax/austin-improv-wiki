@@ -24,5 +24,6 @@ Awarded "The Best Improv Teacher" and "Best Female Improviser" by [[The Austin I
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062973 Interview] with Shana on *[[The Theft Forum]]*.
+* [http://yesandrew.com/2013/07/07/the-sunday-interview-shana-merlin/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Merlin]]
