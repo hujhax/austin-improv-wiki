@@ -33,5 +33,8 @@ Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]],
 * *[[Start Trekkin']]*
 * *[[Theatresports]]*
 
+## More Information
+* [http://yesandrew.com/2013/08/30/in-praise-of-aden-kirschner-by-eric-heiberg/ "In Praise Of..." post] by [[Eric Heiberg]].
+
 [[Category/Performers|Kirschner]]
 [[Category/Teachers|Kirschner]]
