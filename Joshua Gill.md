@@ -20,4 +20,7 @@ In late 2008, Josh moved in with [[Arthur Simone]], co-founder of [[ColdTowne Th
 * *[[Dear Frailty]]* (tech)
 * *[[Manson -  The Musical]]*  (Tex Watson)
 
+## More Information
+* [http://yesandrew.com/2013/08/11/the-sunday-interview-josh-gill/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Gill]]
