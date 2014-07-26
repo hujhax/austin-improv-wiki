@@ -28,4 +28,7 @@ They played their last show at [[The 2014 Improvised Play Festival]] at [[The Hi
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
 
+## More Information
+* [http://yesandrew.com/2014/04/11/the-death-of-a-show/ Post about the show] by [[Andrew Buck]].
+
 [[Category/Troupes|Category:Troupes]]
