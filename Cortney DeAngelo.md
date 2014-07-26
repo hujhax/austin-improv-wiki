@@ -22,6 +22,7 @@
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?p=113455 Courtney's self-introduction thread] on [[The Austin Improv Forums]].
+* [http://yesandrew.com/2013/08/23/in-praise-of-improv-technicians-by-courtney-deangelo/ "In Praise Of..." post] she wrote about technical improvisors.
 
 [[Category/Performers|DeAngelo]]
 [[Category/Techs|DeAngelo]]
