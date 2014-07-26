@@ -24,5 +24,9 @@ Emma Holder was a core cast member in [[The 43-Hour Improv Marathon]]. She perfo
 * *[[TGIS]]*
 * *[[Townsville]]*
 * *[[Braised in Texas]]*
+
+## More Information
+* [http://yesandrew.com/2014/07/20/the-sunday-interview-emma-holder/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Holder]]
 [[Category/Directors|Holder]]
