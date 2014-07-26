@@ -40,6 +40,7 @@ It originally ran in July/August of 2012 but was extended through September.
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2048029 Interview] with directors [[Valerie Ward]] and [[Jon Bolden]] and cast members [[Nicole Beckley]] and [[Marc Majcher]] on *[[The Theft Forum]]*.
+* [http://yesandrew.com/2013/09/13/in-praise-of-manhattan-stories-woody-allen-and-restraint/ Post about the show] by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
