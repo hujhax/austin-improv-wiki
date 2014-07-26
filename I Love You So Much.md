@@ -35,6 +35,7 @@ Later in the run, an audience member proposed to his girlfriend during a show (s
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=16525 Audition notice] on [[The Austin Improv Forums]].
+* [http://yesandrew.com/2014/01/25/i-love-you-so-much/ Post about the show] by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
