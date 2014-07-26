@@ -22,7 +22,7 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |3/4/06||4/8/06||*[[The Great Mundane]]*||[[Jay Bernardo]], [[Jon Hunt]]
 |-
-|4/15/06||5/6/06||[[The Sicks]] Farewell Tour||[[The Sicks]]
+|4/15/06||5/19/06||[[The Sicks]] Farewell Tour||[[The Sicks]]
 |-
 |5/1/06||5/31/06||*[[Start Trekkin']]*||[[Sean Hill]], [[Troy Miller]]
 |-
