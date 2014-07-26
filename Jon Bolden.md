@@ -34,6 +34,9 @@ Jon moved to downtown Austin in 2007, where he stumbled upon a performance of th
 * *[[The New Game Project]]*
 * *[[TheatreSports (mainstage run)|Theatresports]]*
 
+## More Information
+* [http://yesandrew.com/2014/06/08/the-sunday-interview-jon-bolden-2/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Bolden]]
 [[Category/Teachers|Bolden]]
 [[Category/Photographers|Bolden]]
