@@ -28,6 +28,9 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has st
 * *[[What's the Story Steve]]*
 * *[[All Ages Improv Night]]*
 
+## More Information
+* [http://traffic.libsyn.com/gybpodcast/Kristin_Henn-_EP_4_GOT_YOUR_BACK.mp3 Interview] on the *[[Got Your Back]]* podcast.
+
 [[Category/Performers|Henn]]
 [[Category/Directors|Henn]]
 [[Category/Active|Category:Active]]
