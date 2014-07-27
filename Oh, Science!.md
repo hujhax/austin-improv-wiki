@@ -10,6 +10,8 @@
 The troupe was founded as a [[ColdTowne Student Troupes|ColdTowne student troupe]] in July of 2009. Known for their intensely joyful, energetic shows, the troupe performed a modified Harold until Spring 2013. Currently, they perform a monoscene.
 
 ## History
+Here is [[Josh Gill]]'s explanation of the name's origin:<blockquote>Oh, Science was born out of a Google spreadsheet of well over 200 possible names. We all got together in a room with some pizza, and basically narrowed it down, then went through a voting/vetoing process until we narrowed it down to Oh, Science! (with the proper punctuation. I still think we should have been called The Masons. :D</blockquote>
+
 Since February 10, 2010 they have hosted the [[ColdTowne Theater]] 8:30PM Sunday slot, which was first called *[[The Jam with Oh, Science!]]* and is now called *[[Improvised Comedy with Oh, Science!]]*.
 
 Oh, Science! has performed at [[The Out of Bounds Comedy Festival]] and at The Del Close Marathon.
