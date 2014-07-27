@@ -8,6 +8,9 @@
 **Your Dad's Friends** is an improv troupe that consists mainly of improvisors who were around for the early days of the Austin-improv scene.
 
 ## Media
+### Video
+* [http://youtu.be/QdYzPyrbd2s#t=3242 Video] by [[Warren Henderson]] of their performance in the 4/22/12 *[[Weekender]]*.
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/27/10 performance.
