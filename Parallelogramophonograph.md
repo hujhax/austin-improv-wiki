@@ -115,6 +115,9 @@ An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wik
 ** [http://vimeo.com/15100672 Video] from Tuesday, [[Roy Janik|Roy]] and [[Kaci Beeler|Kaci]]'s dog.
 ** [http://vimeo.com/15101226 Video] from [[Curtis Luciani]].
 ** [http://vimeo.com/15101375 Video] from Patti Stiles.
- 
+
+## More Information
+* [http://www.austinchronicle.com/arts/2011-12-30/oh-the-places-you-ll-go/ An article about the troupe] by [[Robert Faires]] from the 12/30/11 *Austin Chronicle*.
+
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
