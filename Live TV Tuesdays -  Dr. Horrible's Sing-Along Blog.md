@@ -30,13 +30,13 @@ It ran exclusively at [[The Institution Theater]], and then played a one-night o
 
 ## Crew
 ## Media
-## Videos
+### Videos
 * [http://youtu.be/PTgnQpqFmqI Video] of the 2/28/12 show at [[The Highball]].
 
-## Photos
+### Photos
 * [http://www.facebook.com/media/set/?set=a.3478605366605.129003.1315383518&type=3 Photoset] by [[Michael Yew]].
 
-## Publicity
+### Publicity
 * [http://vimeo.com/35999383 Trailer for the show] by [[Jeremy Logan]].
 
 ## More Information
