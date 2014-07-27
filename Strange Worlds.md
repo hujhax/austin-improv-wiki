@@ -21,6 +21,9 @@ The show was an improvised serial anthology based in the tropes of [[Wikipedia -
 
 The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], and [[Michael Yew]].
 
+## History
+Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>I got turned on to the pulps after reading the first issue of Planetary, the last line (and pseudo-motto) of which is "Strange world. Let's keep it that way." When I was trying to think of something that sounded like the title of an old pulp anthology, those first two words were just right. </blockquote>
+
 ## Characters
 * **The Beacon** ([[Marc Majcher]]) is a stage magician and debunker named Rick White, cursed by gypsies to attract supernatural forces at all times.
 * **Jack Ryder of Neptune** ([[Ryan Austin]]) is an American sailor who, while returning home from the war, is sucked into a wormhole that deposits him on the fantastical planet of Neptune (known to its natives as Shano).
