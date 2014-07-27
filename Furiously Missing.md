@@ -23,6 +23,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [http://vimeo.com/40781767 Video of their April 19th, 2011 show.]
 * [http://vimeo.com/33157277 Video of their show] at [[WaffleFest]] 2011.
 * [http://vimeo.com/40901518 Video of their show] at the 2012 [[Improvised Play Festival]].
+* [http://youtu.be/fd7C-Uld8vc#t=681 Video] by [[Warren Henderson]] of their 9/23/12 performance in *[[The Weekender]]*.
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
