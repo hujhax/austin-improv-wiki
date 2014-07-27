@@ -19,6 +19,9 @@ The troupe has played in the Oklahoma Improv Festival (2012-13), the Improvaganz
 They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]]. [[Shannon McCormick]] also coached them for several months starting in June of 2013.
 
 ## History
+Here is [[Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our Prime came from a place holder name when we started (pre-Jessica) - Tripod - Everyone hated it. Later we used Late Bloomers - a reference to the idea that we were all coming late to the Improv scene relatively speaking. Satisfied that Later Bloomers was a false start, we changed it to, "It'll Come to Us." Turns out it did and not much longer. We all liked the play on words and it still had the air of late bloomingness. I am not sure who said "In Our Prime" first, but we all agreed on the spot.</blockquote>
+
+### 2012 Shows
 *03/01/2012 - Debut @ [[The Hideout]] ("Printing Presses")
 *04/05/2012 - [[The Hideout]] ("Disobedient Daughter") w/ [[Jessica Arjet]]
 *07/20/2012 - Improv Festival Oklahoma ("Survivalist Family")
