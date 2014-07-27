@@ -31,6 +31,9 @@ He passed away unexpectedly the morning of February 13, 2014.
 * *[[Spirited]]*
 
 ## Media
+### Video
+* [http://youtu.be/rfzc-XRZEvc Video] by [[Warren Henderson]] of Clay's memorial service.
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3 Photoset] by [[Steve Rogers]] of Clay's 7/21/12 *[[Boys of Summer]]* performance with [[Girls Girls Girls]].
 
