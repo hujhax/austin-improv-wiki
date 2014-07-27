@@ -20,6 +20,9 @@ Generally, the cast eschewed non-stop action, focusing instead on patience and d
 Prior to the title being finalized, the show was referred to familiarly as *Kurosawa* in honor of director [[Wikipedia - Akira Kurosawa|Akira Kurosawa]].
 
 ## Media
+### Video
+* [http://youtu.be/CaNsGXHDKJ0 Video] by [[Warren Henderson]] of the 3/29/14 show.
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10151933330994786.1315383518&type=3 Photoset] by [[Michael Yew]] of rehearsals.
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.811773275519826.1073741870.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
