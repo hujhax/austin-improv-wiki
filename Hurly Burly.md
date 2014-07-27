@@ -17,6 +17,13 @@ Owing to the somewhat risqué nature of burlesque, several performers in the sho
 
 The show ran Fridays in May and June of 2014, and was hour 34 of [[The 45-Hour Improv Marathon]].
 
+## Media
+### Videos
+* [http://youtu.be/VWx0ht1g-9Y An improvised song from one of the shows.]
+
+### Photos
+* [http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3 Photoset] by [[Peter Rogers]] of their show in [[The 45-Hour Improv Marathon]].
+
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17121 Audition notice] in [[The Austin Improv Forums]].
 * [http://yesandrew.com/2014/06/14/6305/ Review] by [[Andrew Buck]].
