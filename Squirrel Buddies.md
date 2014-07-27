@@ -10,6 +10,8 @@
 **Squirrel Buddies** is an improv duo that focuses on positivity.
 
 ## History
+Here is [[Jon Bolden]]'s explanation of the name's origin:<blockquote>Roy and I started Squirrel Buddies because we wanted to do really positive improv (at least to start). I don't even remember who said it first, but it sounded so ridiculous and it stuck. Since then people have told us we should consider changing our name if want to be taken more seriously. I say "poo poo" to that. The Beatles is one of the dumbest names of all time.</blockquote>
+
 Squirrel Buddies attended the Alaska Improv Festival in 2013.
 
 ## More Information
