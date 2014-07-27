@@ -15,6 +15,10 @@ The show has two acts.  In the first act, the host directs the cast in a series 
 
 Every show has exactly four performers, one host, one musician, and one technical improviser. The performers sit in chairs on a raised platform positioned upstage. This means that the performers are seen by the audience at all times.
 
+## Media
+### Videos
+* [http://youtu.be/nLUzSGqYLZw Video] by [[Warren Henderson]] of the 5/30/14 show.
+
 ## More Information
 * [http://www.austinchronicle.com/arts/2013-12-27/the-big-bash/ Article about the show] by [[Robert Faires]] for *The Austin Chronicle*. (12/27/13)
 
