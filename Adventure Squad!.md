@@ -14,6 +14,9 @@ In the original concept, Kaci and Val played two 11-year-old girls who, having b
 
 Shortly afterwards, this structure went by the wayside, and it became a show about pre-teen adventures.
 
+Here is [[Kaci Beeler]]'s explanation of the name's origin:<blockquote>Valerie and I developed this duo group specifically to submit to the Ladies Are Funny Festival in...2008? The whole premise originally was that these two 11-year-old girls were denied entry into the Girl Scouts, so they bought a manual for a scout league called "Adventure Squads" on the internet. When the manual came it was just a couple of sheets of paper stapled together with strange Merit Badges scrawled on it. Ever brave and fearless, the two girls decided to earn all of the merit badges, by interpreting what they might mean in each episode. 
+We did this for our first show, and it was awesome, but later we took out the merit badge stuff and just had fun with the idea of going on new pre-teen "adventures" together, like a Jesus Camp, a Christian Rock Concert, etc. Also, we thought it was fun that "squad" was in our name and there is only ever 2 of us. </blockquote>
+
 ## Media
 ### Videos
 * [http://vimeo.com/channels/austinimprov/41966976 Video] of their 5/10/12 performance at [[The 2012 Ladies Are Funny Festival]].
