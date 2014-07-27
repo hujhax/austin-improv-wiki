@@ -35,6 +35,8 @@ Bringing a stack of cards with thematic (e.g. the confession) or specific (e.g. 
 ## History
 Local Genius Society formed in late 2010 by a group of improv students from [[The Hideout Theatre]]. After building their early career performing shortform, including a run of successful “Groundhog Day” shows, the geniuses embarked on longform narrative in the summer of 2011. Since then, Local Genius Society has opened for notable Austin improv troupes such as: [[Parallelogramophonograph]], [[Girls Girls Girls]], The Glamping Trip, and [[Confidence Men]]. In 2012 they hosted a weekly show, “Underground Improv” at Dive Bar.  They have performed in [[WaffleFest]] (2011, 2012), the [[Improvised Play Festival]] (2011, 2012, 2013), the 42 and 43-Hour Improv Marathons (2011, 2012), and the [[Out of Bounds Comedy Festival]] (2012) in Austin, TX, and the Improvaganza Festival in Honolulu, HI (2012).
 
+Here is [[Zac Grantham]]'s explanation of the name's origin:<blockquote>We put a ton of different words on a whiteboard and drew lines between them to make phrases. Then we voted for which phrases we liked the most. Local Genius Society came in second behind "Global Improv Corporation". We went with Local Genius Society anyways...</blockquote>
+
 ### Former Members
 * [[Andrew Pish]]
 * [[Kayla Lane Freeman]]
