@@ -11,7 +11,9 @@
 Indigo Shift followed a troupe of performers (Solomon Strange, Anita Deva, and Colin) as they performed one final show for the last night on Earth.  Suggestions were drawn out through discussion of apocalyptic themes with the audience, which were then spun into a series of scenes, stories, and songs loosely threaded together by the banter between the three characters.  
 
 ## History
-Shortly after [[Jordan T. Maxwell]] announced he was moving back to Austin from Los Angeles, [[Michael Brockman]] approached him about developing a musical format.  Maxwell was inspired at a concert for the Brechtian punk duo [http://en.wikipedia.org/wiki/The_Dresden_Dolls The Dresden Dolls] to create an improvised dystopian cabaret that would take place at the end of the world.  
+Shortly after [[Jordan T. Maxwell]] announced he was moving back to Austin from Los Angeles, [[Michael Brockman]] approached him about developing a musical format.  Maxwell was inspired at a concert for the Brechtian punk duo [http://en.wikipedia.org/wiki/The_Dresden_Dolls The Dresden Dolls] to create an improvised dystopian cabaret that would take place at the end of the world.
+
+Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>Stolen pretty much directly from the fourth issue of Neil Gaiman's "Books of Magic." One character's description of the end of the universe from the perspective of the Big Crunch. If the universe expands in red shift and contracts in blue shift, then the very end must be indigo shift on the spectrum. It sounded like the late shift at a cabaret to me as well, so kind of the perfect pun.  ;)</blockquote>  
 
 Maxwell and Brockman recruited [[Kacey Samiee]] and [[Sarah Marie Curry]] to round out the troupe and they began rehearsing and hashing out the mechanics of the format.  Curry soon had to drop out of the project and the remaining trio debuted on 10/8/11, opening for [[Get Up]] in [[The Saturday Night Special]].
 
