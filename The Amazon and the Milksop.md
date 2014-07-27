@@ -27,6 +27,7 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * [http://vimeo.com/40801622 Video of a "Catchin' Frogs" show.]
 * [http://vimeo.com/86963260 Video] of their 2/3/14 show in *[[The Threefer]]*.
 * [http://vimeo.com/96226803 Video] of their 4/24/14 "F. Scott and Zelda Fitzgerald Save The World" show.
+* [http://youtu.be/N4fpWQQVdwM Video] by [[Warren Henderson]] that includes their 6/12/14 performance in *[[The Threefer]]*.
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/2/10 "Fitzgeralds for Hire" show at *[[The Threefer]]*.
