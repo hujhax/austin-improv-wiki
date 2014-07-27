@@ -11,6 +11,9 @@
 ### Press Blurb
 <blockquote><p>Husband and wife improv comedy duo, Lisa Jackson and Josh Gill, are prominent performers and instructors in the Austin improv scene. They bring the fun and absurdity of their relationship to the stage as Galactic.</p></blockquote>
 
+## History
+Here is [[Josh Gill]]'s explanation of the name's origin:<blockquote>Galactic started life as Battlestar Gillacktucka. The original concept for the troupe was that each show would have a sci fi element. I believe I was watching BG at the time, but we respelled Galactica to include parts of both Lisa's and my own last name. Gill [J]ack, and the tucka which was an inside joke about a gnome from a different show. The gnome was named Tucka. Well, the name just confused everybody and most of our audience was expecting BG improv, so we took it down to just Galactic.</blockquote>
+
 ## Media
 ### Video
 * [http://vimeo.com/21037196 Video] by [[Lisa Jackson]] of an early show (uploaded 6/29/11).
