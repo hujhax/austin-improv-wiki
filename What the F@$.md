@@ -15,6 +15,8 @@ In 'What the F#*@!', an improvised story is split into two halves. In the first 
 
 ## Media
 ### Videos
+* [http://youtu.be/ga6FUaqWaRA Video] by [[Warren Henderson]] of the 2/1/14 show.
+* [http://youtu.be/O_fRR1yx4qA Video] by [[Warren Henderson]] of the 2/8/14 show.
 * [http://vimeo.com/90447837 Video] by [[Melissa Patterson]] of one of their shows.
 * [http://vimeo.com/91716580 Video] of their 4/10/14 performance in [[The 2014 Improvised Play Festival]].
 
