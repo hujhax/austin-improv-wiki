@@ -14,6 +14,8 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 ## History
 They've played every [[Out of Bounds Comedy Festival]] from 2009 to 2013.
 
+Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>Jeff's idea. because as two tall white guys, it's what we look like onstage together. Our friend Karie briefly joined us while we were in L.A. Jeff asked how she fit into the name. I thought about it and told him, "she's the ball." We laughed. She left after three shows. </blockquote>
+
 ## Media
 ### Videos
 * [http://vimeo.com/6786358 Video] of their performance at [[The 2009 Out of Bounds Comedy Festival]].
