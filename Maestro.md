@@ -66,6 +66,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [http://vimeo.com/43361530 6/2/12 Maestro.] (from [[The 43-Hour Improv Marathon]])
 * [http://vimeo.com/43786857 6/9/12 Maestro.]
 * [http://vimeo.com/44226957 6/16/12 Maestro.]
+* [http://youtu.be/HrFccm0_2pk Video] by [[Warren Henderson]] of the 6/22/12 *Maestro Raw*.
 * [http://vimeo.com/44665361 6/23/12 Maestro.]
 * [http://vimeo.com/45044706 6/30/12 Maestro.]
 * [http://vimeo.com/46978920 8/4/12 Maestro.]
