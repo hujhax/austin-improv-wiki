@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		The Sicks
 |Picture	=	The Sicks.jpg
-|Cast	=	{{Unbulleted list | [[Ben Sterling]] | [[Jeffery Amos]] | [[Jill Marie Morris]] | [[Jonathan Hunt]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Kate Caldwell]]  | [[Lauren Hunt]] | [[Sarah Smiley]] }}
+|Cast	=	{{Unbulleted list | [[Ben Sterling]] | [[Jeffrey Amos]] | [[Jill Marie Morris]] | [[Jonathan Hunt]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Kate Caldwell]]  | [[Lauren Hunt]] | [[Sarah Smiley]] }}
 |Crew = {{Unbulleted list | [[James Downing]] | [[Meggan Amos]] (stage manager) | [[Taylor Browne]] }}
 |Director =	{{Unbulleted list | [[Bob Apthorpe]] | [[Mike D'Alonzo]] }}
 |Years	=		2005-2006
@@ -34,7 +34,7 @@
 Their final show run was called "The Sicks Farewell Tour" and ran as a [[List of Hideout Mainstage Shows in Chronological Order|Hideout mainstage show]] from 4/15/06 to 5/19/06.
 
 The run had the following members:
-* [[Jeffery Amos]]
+* [[Jeffrey Amos]]
 * [[Jill Morris]]
 * [[Jonathan Hunt]]
 * [[Jordan T. Maxwell]]
