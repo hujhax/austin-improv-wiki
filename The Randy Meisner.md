@@ -12,5 +12,7 @@ The troupe was founded by [[Jon Bolden]], [[David Hess]], and [[John Ratliff]] i
 
 A few years later, they asked [[Kareem Badr]] to join the troupe to further differentiate the troupe from [[The Glamping Trip]], a frequently performing duo comprised of [[John Ratliff]], and [[David Hess]].
 
+Here is [[John Ratliff]]'s explanation of the name's origin:<blockquote>Hess and I were doing Meisner exercises in rehearsal (all wrong, as it turns out) and invited Jon Bolden to join us. When we played a show I suggested calling ourselves the Randy Meisner. I assumed that almost nobody would realize that was also the name of the first bassist for the Eagles and I was right.  </blockquote>
+
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Randy Meisner]]
