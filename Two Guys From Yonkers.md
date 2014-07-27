@@ -16,6 +16,8 @@ After twenty performances as two fellas from New York, the show moved into a new
 ### Name
 The name is entirely based on the accent. Neither of the performers has ever even visited Yonkers, NY. And as it would turn out, there is no such place as Yonkers, England.
 
+Here is [[Bob Olmstead]]'s explanation of the name's origin:<blockquote>Paul Normandin and I started playing these two guys with New York accents around level three at The Hideout. The whole thing started when I walked out and called Paul "Paulie" with the accent, which violated the whole "dont call someone by their name" non-rule rule  :lol: to which Paul responded in kind with "Bobby", also in accent. We both sat down on some chairs and started to yammer, noticing that our peers seemed to enjoy the banter. These same two guys kept reappearing in later levels so when we got done with Level 6, the idea of "these two guys" evolved into Two Guys From Yonkers. The Yonkers piece, we debate how that name actually happened, really became a way to identify ourselves with a specific community, this in spite of the fact neither one of us had ever been to Yonkers. Our new format has us from Yonkers, England- which does not exist. It appears that "Yonkers" is becoming a fictional place that we can place anywhere, which is fun to play with.</blockquote>
+
 ## Shows
 * FRONTERAFEST Hyde Park (both 2012 & 2013)
 * [[The Hideout Theatre]] - [[The Threefer]] and [[The Weekender]]
