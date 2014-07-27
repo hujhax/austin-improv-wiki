@@ -24,6 +24,9 @@ The show returned for the Saturday 7pm hour of [[The 45-Hour Improv Marathon]], 
 * [https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta Archived version of the official page]
 
 ## Media
+### Videos
+* [http://youtu.be/EGos-DJaX7g Video] by [[Warren Henderson]] of the 4/26/14 show.
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.711676885562497.1073741981.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/5/14 show.
 
