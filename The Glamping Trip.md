@@ -7,6 +7,9 @@
 
 **The Glamping Trip** is an improv duo that focuses on grounded improv.
 
+## History
+Here is [[John Ratliff]]'s explanation of the name's origin:<blockquote>The original cast of The Glamping Trip included Teresa Kubos (not yet York) and Delaney Liming (not yet Hernandez). In one scene in rehearsal Delaney was talking about going glamping and we all broke because we thought she had made it up. Afterward she assured us it was real. We assumed that it would never become popular enough to create a problem and we were right. </blockquote>
+
 ## Media
 ### Videos
 * [http://vimeo.com/31863927 Video] by [[Kyle Sweeney]] of their 8/18/11 performance in *[[The Threefer]]*.
