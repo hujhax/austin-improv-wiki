@@ -15,6 +15,8 @@ Over the course of their run, they performed Austin's first improv marathon with
 
 They performed in [[The 2005 Out of Bounds Comedy Festival]], and did a one-off "ten-year reunion" show on 4/30/09 at [[The Hideout Theatre]].
 
+Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>The legend has always held that Jeremy heard the phrase "hung jury" in Mr. Smiley's economics class (because it's impossible to actually pay attention to anything pertinent in Mr. Smiley's economics class), and the synaptic reflex to a dick joke was instantaneous. The origins of our troupe pseudonyms, Mad Ezekiel and the Oedipus Freaks and Free Falling Malfactors, have been lost to the sands of time...</blockquote>
+
 ## Formats
 ### Conceptual Improv Formats
 * 1,000 Words - Inspired by Chris Van Allsburg's The Mysteries of Harris Burdick, this format takes the striking illustrations and story fragments from a children's picture book and uses them to improvise full stories. See what Mr. Moe's 4th grade class did, too.
