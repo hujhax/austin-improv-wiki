@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		The Sicks
 |Picture	=	The Sicks.jpg
-|Cast	=	{{Unbulleted list | [[Ben Sterling]] | [[Jeffrey Amos]] | [[Jill Marie Morris]] | [[Jonathan Hunt]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Kate Caldwell]]  | [[Lauren Hunt]] | [[Sarah Smiley]] }}
+|Cast	=	{{Unbulleted list | [[Ben Sterling]] | [[Jeffrey Amos]] | [[Jonathan Hunt]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Kate Caldwell]]  | [[Lauren Hunt]] | [[Sarah Smiley]] }}
 |Crew = {{Unbulleted list | [[James Downing]] | [[Meggan Amos]] (stage manager) | [[Taylor Browne]] }}
 |Director =	{{Unbulleted list | [[Bob Apthorpe]] | [[Mike D'Alonzo]] }}
 |Years	=		2005-2006
