@@ -35,7 +35,6 @@ Their final show run was called "The Sicks Farewell Tour" and ran as a [[List of
 
 The run had the following members:
 * [[Jeffrey Amos]]
-* [[Jill Morris]]
 * [[Jonathan Hunt]]
 * [[Jordan T. Maxwell]]
 * [[Kacey Samiee]]
