@@ -47,7 +47,7 @@ After its mainstage run, there were a number of one-off shows:
 * [http://vimeo.com/66965290 Video] by [[Paul Normandin]] of the 5/23/13 "Pick Your Own Black Vault" show in *[[The Free Fringe]]*.
 * [http://vimeo.com/69325354 Video] by [[Paul Normandin]] of their 6/23/13 performance in [[The 44-Hour Improv Marathon]].
 * [http://vimeo.com/76849825 Audio of the 10/11/13 performance], part of *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
-* [http://www.youtube.com/watch?v=k07bu91F9H4&feature=youtu.be Video of the 3/27/14 performance] by [[Warren Henderson]].
+* [https://www.youtube.com/watch?v=k07bu91F9H4#t=2678 Video of the 3/27/14 performance] by [[Warren Henderson]].
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.418383731558482.101763.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/8/12 performance.
