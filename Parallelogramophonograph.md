@@ -8,6 +8,9 @@
 
 **Parallelogramophonograph** (often abbreviated to **Pgraph**) is a theatre company in Austin, TX that specializes in improvising plays. They have a weekly show ([[The Spectacle]]) on Fridays at 10pm at [[The Hideout Theatre]].
 
+## History
+Here is [[Robert Faires]]'s explanation of the name's origin:<blockquote>After a long, tedious search for a group name in which hundreds of options were considered and discarded, a somewhat alcohol-lubricated Janik offered "Parallelogramophone." Immediately, Badr built on it with "Parallelogramophonograph." They tried it out on some friends, and since it made them laugh, it stuck.</blockquote>
+
 ## Show Formats
 ### The Nutty Funsters
 ![[The Nutty Funsters.jpg|Parallelogramophonograph in character as 'The Nutty Funsters']]
