@@ -65,6 +65,7 @@ Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph
 * ColdTowne's The Tuesday Night Jam
 * Stool Pigeon
 * Ingest
+* Winter Miracles Talent Show
 
 ## More Information
 * [http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/ Interview] by [[Andrew Buck]].
