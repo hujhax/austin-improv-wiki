@@ -13,6 +13,18 @@ Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph
 ## Troupes
 * [[Array]]
 * [[Scout]]
+* Skutch
+* Two Minute Brother
+* Aww, shit
+* Jocks and Nerds
+* Let's Rock
+* Mr.Happy Ray of Sunshine OBGYN and the purple bear with no birthday
+* Speedforce Go!
+* Patriot Actors
+* The Warm 'Em Ups
+* Got Your Back
+* Look Cookie
+* The Crumbs
 
 ## Shows
 * *[[Family Tides]]*
