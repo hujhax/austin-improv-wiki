@@ -9,7 +9,7 @@
 **Got Your Back** is a [[ColdTowne Theater]] podcast about Austin improv.
 
 ## History
-The show began on 2/3/14, with an interview with [[Michael Jastroch]].
+The first show released on 2/3/14, with an interview of [[Michael Jastroch]].
 
 ## Format
 In each show, hosts [[Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a local improvisor or comedian.  Each show ends with some music by a local artist to build on the theme of local support and DYI artist empowerment.
