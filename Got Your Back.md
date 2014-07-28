@@ -28,7 +28,7 @@ In each show, hosts [[Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a loca
 
 7. Who are some of your current favorite local performers? Why?
 
-After the standard questions segment there is often a "commercial break" that features a comedic audio sketch by a local sketch group (often Midnight Society). Each show ends with some music by a "lesser known" (often local) artist to build on the theme of local support and DYI artist empowerment.
+After the standard questions segment there is typically a "commercial break" that features a comedic audio sketch by a local sketch group (often Midnight Society). Each show ends with some music by a "lesser known" (often local) artist to build on the theme of local support and DYI artist empowerment.
 
 ## More Information
 * [http://www.coldtownetheater.com/blog/presenting-got-your-back-podcast The show announcement] on the [[ColdTowne Theater]] website.
