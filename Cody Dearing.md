@@ -26,6 +26,7 @@ Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph
 * Look Cookie
 * The Crumbs
 * The Smoking Arm
+* McNeil deGrasse Tyson
 
 ## Shows
 * *[[Family Tides]]*
