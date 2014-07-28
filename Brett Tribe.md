@@ -8,7 +8,7 @@
 **Brett Tribe** is a graduate of the [[ColdTowne]] Conservatory as well as Binghamton University's Theatre Arts program. He currently performs with [[Bad Boys Improv]], [[The Intentions]], and [[Faster, Robot! Kill! Kill!]].  Cast in [[Fakespeare]] as Macbeth in "Macbeth" and Verges in "Much Ado About Nothing". Renowned for his Facebook antics. Has been referred to as 'the hardest working man in Austin Improv' but this title may no longer be accurate.
 
 ## Previous Projects
-* [[Achatina! Achatina!]] 
+* [[Achatina Achatina]] 
 * *[[Live Nude Improv]]*
 * *[[Live TV Tuesdays -  Buffy]]* (Xander Harris) 
 * *[[Live TV Tuesdays -  South Park]]* (Director)
