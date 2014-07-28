@@ -32,9 +32,20 @@ Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph
 * *[[Family Tides]]*
 * *[[Indy Movies]]* (director)
 * *[[The Organ Trail]]* (director)
-* *[[Slam Team Six]]* (producer)
+* *[[Slam Team Six]]* (producer, director, performer)
 * *[[Slaughter Your Shorts]]* (director)
 * *[[TGIS]]* (cast member, "Buddies")
+* Sci-Fi Saturdays (super apocalypse) 
+* Cody & a student run
+* No Astronauts Allowed
+* The JTS Brown Experience w/ Arkay (director)
+* Vinyl Destination
+* Flipped Scripts
+* Rad Scientists
+* Like & Subscribe
+* The People's Sketch show
+* The Improvised Porno presented by PCI
+* ColdTowne's The Tuesday Night Jam
 
 ## More Information
 * [http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/ Interview] by [[Andrew Buck]].
