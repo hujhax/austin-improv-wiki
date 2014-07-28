@@ -12,7 +12,7 @@
 The first show released on 2/3/14, with an interview of [[Michael Jastroch]].
 
 ## Format
-In each show, hosts [[Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a local comedian. Often times the special guest performs or teachers improv, sketch or stand-up comedy. Shows begin with an open interview of a guest, and then move to a second portion where the guest is asked a standard set of seven questions. Here are those seven questions copied from Cody Dearing's notes 
+In each show, hosts [[Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a local comedian. Often times the special guest performs or teachers improv, sketch or stand-up comedy. Shows begin with an open interview of a guest, and then move to a second portion where the guest is asked a standard set of seven questions. Here are those seven questions copied from Cody Dearing's notes:
 
 1. Do you have a favorite quote about [comedy, improv, writing, etc]?
 
