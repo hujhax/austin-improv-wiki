@@ -46,6 +46,7 @@ Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph
 * The People's Sketch show
 * The Improvised Porno presented by PCI
 * ColdTowne's The Tuesday Night Jam
+* Stool Pigeon
 
 ## More Information
 * [http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/ Interview] by [[Andrew Buck]].
