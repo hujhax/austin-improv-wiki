@@ -10,6 +10,12 @@
 ## History
 Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. He's done a whole bunch of stuff since then.
 
+A post from him about the first improv show he ever saw:<blockquote><p>I'm pretty sure the first improv show I saw was in New York around 1996 or so. My friend from college Tim was in a group called Newman's Nose (or something close to that), and got us to come out a show. I think they were doing some kind of *[[Theatresports]]* type of format, maybe not exactly that, but definitely some team-based competitive short form thing. It was pretty funny, and I was (at the time) impressed that my buddy Tim's team won the world championship of improv or whatever they called it back then, without realizing it was just the thing for the show they were doing. I'm pretty sure that I kept getting flyers and kept not going back, though.</p> 
+
+<p>(The interesting part of that story is that [[Asaf Ronen|Asaf]] was in one or more troupes with Tim around then, so I probably saw him in there, and talked to him at a party or something after. Shortly after arriving in Austin, Asaf brought me some photos that he took at a juggling club thing, and there I was. Crazy.)</p> 
+
+<p>The first improv that I saw in Austin (and I don't think I'd seen any in between, aside from zapping through *Whose Line* on the teevee a couple times) was a show that [[Les McGehee]] put together for the Alamo in 2003 or so. I'd been doing roller derby stuff a bunch in the years around then, and Les was emceeing the matches, and got a bunch of us to go to his show. It was mostly short formy stuff, with Les and [[Cynthia Oelkers]] and [[Scott Chester]] and... someone else. Again, funny, but didn't go to see it more than once.</p> </blockquote>
+
 ## Troupes
 * [[The Asides]]
 * [[The Escorts]]
