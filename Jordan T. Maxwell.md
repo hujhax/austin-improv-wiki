@@ -18,6 +18,10 @@ In October of 2011, Jordan took a brief hiatus from Austin to film the Hulu orig
 
 His written stage works include *Icons: a pop fantasy* and *The Appointment.*  He has tried teaching improv, in Austin and Los Angeles, but isn't very good at it.
 
+A post from him about the first improv show he ever saw:<blockquote>Other than practicing improv as an exercise in high school theatre (as every other Westwood alum has put) and imported *Whose Line* on PBS and Comedy Central... first shows I ever saw were both, I believe, [[Monks Night Out|Monks]] sub-troupes at [[The Velveeta Room]], and both because guys I was friends with in Westwood theatre were in them. The first was, I believe, [[Code Blue]] with [[Michael Joplin|Joplin]] and the second was [[Los Paranoias]] with [[Jeremy Lamb|the Bearded one]]. Never actually considered performing myself... then the end of my junior year, Jeremy decided to put a troupe together. I had to duck in and out of auditions as I was also rehearsing the spring musical, *Sound of Music*, wherein I played one Captain Georg Von Trapp. Understandably, I didn't quite make the cut. but they needed someone to get shot and spit blood all over the audience for the final scene in their debut show as Mad Ezekiel and the Oedipus Freaks... so I got drafted, watched the whole show, slipped a blood capsule in my mouth as the sketch started, stood up and tried to say my line as clearly as possible with a blood capsule slowly dissolving in my mouth, then ran as Jeremy pulled a fake gun on me, did a prat fall and spat fake blood on Jon Benner's dad as I fell. 
+
+The next show was in Jeremy's back yard. [[Aaron Saenz|Aaron]] couldn't be there, so I filled in. It was the first time we went by [[Well Hung Jury]]. and it would take a few more years for [[Bill Stern]] to join and make us truly sweet.  ;)</blockquote>
+
 ## Troupes
 * [[Well Hung Jury]]
 * [[The Sicks]]
