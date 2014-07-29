@@ -8,7 +8,9 @@
 Andreas Fabis is an improv performer.
 
 ## History
-Fabis was born o July 9th 1970 in Düsseldorf, Germany. In 2005 he moved to Austin, TX to work for an IT security company. Before doing improv he organized live action role-playing games in Germany.
+Fabis was born on July 9th 1970 in Düsseldorf, Germany. In 2005 he moved to Austin, TX to work for an IT security company. Before doing improv he organized live action role-playing games in Germany.
+
+A post from him about the first improv show he ever saw:<blockquote>It was [[Get Up]] at the Hideout. [[Shana Merlin|Shana]] and [[Shannon McCormick|Shannon]] did an Amazon adventure story that turned into a virtual reality piece. That got me hooked.</blockquote>
 
 ## Troupes
 * [[Apocalypse (troupe)|Apocalypse]]
