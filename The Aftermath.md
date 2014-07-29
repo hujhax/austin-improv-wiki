@@ -5,7 +5,7 @@
 |Director           = [[Jordan T. Maxwell]]
 |Run                = Oct 2014
 |Cast               = {{Unbulleted list | [[Barrett Phelan]] | [[Cassidy Santaguida]] | [[Freedom Treespirit]] | [[Haley Alea Erickson]] | [[Josh Santo]] | [[JR Zambrano]] | [[Lori Hobbie]] | [[Sushant Sethi]] }}
-|Crew               = {{Unbulleted list | [[Allison Huston]] | [[Robert Heil]] | [[Sarah Hutchins]] }}
+|Tech               = {{Unbulleted list | [[Allison Huston]] | [[Robert Heil]] | [[Sarah Hutchins]] }}
 }}
 
 ***The Aftermath*** will be the October 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
