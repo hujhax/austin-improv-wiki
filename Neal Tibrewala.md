@@ -10,7 +10,9 @@
 ## History
 Neal started out by taking classes at [[The Hideout Theater]] and then [[Merlin Works]] and the [[Institution Theater]]s.  After being in a few student troupes, he performed with the [[Flying Theater Machine]] and [[The Dancy Street D'Orchestra]].  
 
-Throughout his improv career he has specialized in Technical Improv, having done a great many [[List of Austin Improv Shows#Mainstage Productions 3|mainstage]] shows and serving as dedicated tech for several troupes.  
+Throughout his improv career he has specialized in Technical Improv, having done a great many [[List of Austin Improv Shows#Mainstage Productions 3|mainstage]] shows and serving as dedicated tech for several troupes.
+
+The first improv show he ever saw was *[[After School Improv]]*.
 
 ## Troupes
 * [[Apocalypse Meow]]
