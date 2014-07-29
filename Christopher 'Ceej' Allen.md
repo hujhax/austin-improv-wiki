@@ -10,7 +10,18 @@
 "Ceej" is a diminutive of Allen's first two initials, C.J.
 
 ## History
-Ceej will be a core cast member of [[The 44-Hour Improv Marathon]].
+Ceej was a core cast member of [[The 44-Hour Improv Marathon]].
+
+A post from him about the first improv show he ever saw:<blockquote><p>I know it was a Micetro (as it was originally spelled). But I saw a few in a couple months...so my memory may trick me...</p> 
+
+<p>But kevin Miller, Rene Pinnell, Bob Apthorpe and Andrea Young were in a show I remember.</p> 
+
+<p>Kevin did Demon Voice very well. Got a five. since then, I've done several Demon Voices.</p> 
+
+<p>Andrea had a solo scene where she had to play herself and her dad and I think it was her first solo scene. 
+I could tell she was nervous, but I loved that she played the scene anyway.</p> 
+
+<p>Bob...and I think Andrea had a school principal's office scene...I loved it!</p> </blockquote>
 
 ## Troupes
 * [[Confidence Men]]
