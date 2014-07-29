@@ -23,6 +23,16 @@ In 2009, Kaci took on the role of Director of Design at The Hideout Theatre when
 Kaci performed in both the 2009 [[40-Hour Improv Marathon]] and the 2010 [[41-Hour Improv Marathon]]. In 2011 PGraph lived and performed in Edinburgh, Scotland for 28 days while they performed 22 improv shows at the Edinburgh Fringe Festival. In 2012 Kaci toured Asia with the Boston, Massachusetts based group Improv Boston. They performed and taught improv in Seoul, South Korea, Beijing, China, Hong Kong, Shanghai, China, Osaka, Japan, and Tokyo, Japan. 
 Through her personal improv work and her work with Parallelogramophonograph and the Available Cupholders, Kaci has toured to teach and perform improv throughout the United States, Canada, Australia, Scotland, England, France, China, Japan, and South Korea.
 
+### The First Improv Show She Saw
+A post from her about the first improv show she ever saw:<blockquote><p>The first improv I had really been introduced to was doing Freeze Tag in my middle school theatre class. I knew improv only then as an acting tool or a distraction tool so the teacher can bid on ebay while the kids play around onstage.</p> 
+
+<p>In my freshman year of high school everyone was talking about the [[Well Hung Jury]], an improv group of "cool people" who had graduated several years before I got there.</p> 
+
+<p>So in the summer of 2002 I started going to see their shows with some friends ([[Phil Aulie|Phil]] of [[You, Me, and Greg]] and Xaq who used to be a Hideout house manager). I saw so many of their shows over the next few years that I can't exactly remember what happened at the first one. I do remember seeing a really hilarious improvised Shakespeare show they did and a disgusting no rules show they did. I also remember a Real/Surreal in which the phrase, "I am not Batman." was uttered over and over again.</p> 
+
+<p>I always sat as far as I could in the front at every show. If they ever needed a volunteer I was more than ready to participate. I would laugh so hard at their shows I would almost fall out of my chair. 
+I never thought, "I can do this." I figured they were just really funny and talented guys, I never thought at the time that what they were doing was a learned art.</p> </blockquote>
+
 ## Awards
 * Austin Chronicle Best Of Austin Awards 2012, Readers Poll: Best Actor/Actress[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1368787]
 * Austin Chronicle Best Of Austin Awards 2012, Critics Pick: Most Continuously Innovative Improv Troupe[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1260410] (Parallelogramophonograph)
