@@ -15,6 +15,8 @@ Jo first got into improv when she took the very first class offered by [[The Ins
 
 Jo is excited that she was able to perform in London with C3467X in 2013.  Sure, it was just once, but it makes her an international performer!
 
+A post from her about the first improv show she ever saw:<blockquote>I saw "Star Trick: The Musical" in Vancouver around 1990. Spock was played by Dean Haglund, who later played one of the Lone Gunmen on the X-files.</blockquote>
+
 ## Troupes
 * [[The Better Half]]
 * [[Church Potluck]]
