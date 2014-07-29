@@ -2,7 +2,7 @@
 |Name	=	Aden Kirschner	
 |Picture =	Aden Kirschner Pic.jpg
 |Theater =      Various
-|Years	=	2005-Present
+|Years	=	2005-2014
 }}
 
 **Aden Kirschner** is an award winning performer, skilled improv teacher, facilitator and trainer, and currently operates as the Corporate Training and Events Coordinator for [[The Merlin Works Institute for Improvisation]]. Her performance and corporate training clients include Austin Waldorf High School, Hewlett Packard, Safe Place and Dell. As a teacher, Aden seeks to create a fun, safe environment where people can explore and grow new practical skills to help them on stage, in business and in their private life.
@@ -15,6 +15,15 @@ With nearly thirty years of experience on stage, Aden has been winning awards an
 
 ## Coach
 Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]], Aden joined the Merlin Works faculty in 2009 where her performance classes are in high demand. She now additionally promotes the Corporate Training side of the Institute as the Training and Events Coordinator, where she seeks to improve the way people communicate with each other, one business at a time.
+
+## History
+A post from her about the first improv show she ever saw:<blockquote><p>The first improv show I saw was one I produced and directed in High School in February of 1995. Improv was so much a part of my theatrical training (which started at the age of 6), that I wanted to dedicate my senior project work to it. I even wrote my senior thesis on the use of improv as a teaching tool... and went on to teach improv for a couple of years.</p> 
+
+<p>The show I created was called Random Things. It was a mix of monologue, scripted sketch, improvised dialogue inside of already blocked scenes, and included two mini-episodes of a fully improvised soap opera. It was two acts of roughly 45 minutes and had a fifteen minute intermission. The show ran for two weekends and each night was completely different. My parents have one of the nights on video somewhere.</p> 
+
+<p>In comparison the improv I see and participate in here in Austin is sooooo much simpler!</p></blockquote>
+
+In 2014, she moved away to Oregon.
 
 ## Troupes
 * [[ComedySportz]]
