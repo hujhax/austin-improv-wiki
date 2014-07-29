@@ -14,7 +14,6 @@ In 2003, Shannon began co-producing [[The Out of Bounds Comedy Festival]].
 
 A post from him about the first improv show he ever saw:<blockquote> <p>I'm sure I had seen some episodes of the British *Whose Line* at the time, but the first live improv I ever saw was probably some lame college town barprov in Iowa City in the early 90s. Totally forgot the troupe name. My roommate Matt Nelson was in the group, and he'd just quit his pre-med track and had gotten bitten hard by the comedy bug. As a theatrical experience it wasn't much.....</p> 
 
-
 <p>BUT</p> 
 
 <p>Matt graduated a couple years before me and moved to Chicago (he's now in Felt, the puppet troupe that plays/played? at IO and took some Second City Classes with [[Erika May McNichol|Erika May]], I believe--who'd have thought a couple of small town Iowa boys would both still be in the comedy game almost 20 years out) and I would drive over from Iowa City sometimes and we'd go see shows.</p> 
