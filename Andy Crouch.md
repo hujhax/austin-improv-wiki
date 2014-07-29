@@ -10,6 +10,8 @@
 
 **Andy Crouch** is an improviser and the Director of Education for [[The Hideout Theatre]].
 
+## History
+A post from him about the first improv show he ever saw:<blockquote><p>I think mine was actually a [[Monk's Night Out]] show at [[The Bad Dog Theater]] in the spring of 2001. I was taking the world's worst Improv for Non Majors class in the theater department at UT and we were supposed to go see shows during the semester. As awful as the class was, that show was fun, and then the ones I saw at the Hideout around the same time (*[[Theatresports]]*, *[[Maestro]]*, and *[[Six Degrees]]*) got me hooked for good.</p> </blockquote>
 
 ## Troupes
 * [[Ed 32]]
