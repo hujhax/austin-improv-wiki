@@ -26,6 +26,10 @@ Throughout his life as a performer Cody has been involved in a number of shows i
 
 Cody subbed in for [[Roy Janik]] as part of "Substitute Parallelogramophonograph" on 2/1/13.
 
+A post from him about the first improv show he ever saw:<blockquote><p>I saw Four Day Weekend in Fort Worth in 2002. I still remember laughing at the first scene.</p> 
+
+<p>They started with a world-news-type segment where they turned to a page of that day's paper and read a blurb from one of the stories. Then improvised a scene based off of it. Oliver Tull says to the Frank, "What is dat?"... Frank said, "My dog and my cat got fused together," and Oliver replied, "So when I said, 'What is dat?' I was right."</p></blockquote>
+
 ## Troupes
 * [[Array]]
 * [[Scout]]
