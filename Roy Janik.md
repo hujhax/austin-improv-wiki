@@ -12,9 +12,9 @@ Roy is a co-owner of [[The Hideout Theatre]] and its Artistic Director.
 ## History
 Roy was a core cast member in [[The 41-Hour Improv Marathon]] and [[The 43-Hour Improv Marathon]].
 
-A post from him about the first improv show he ever saw:<blockquote><p>The first show I remember seeing was Micetro, sometime around 2000, maybe, in the downstairs. Man, I didn't know it at the time, but it was early on in the Hideout's life.</p> 
+A post from him about the first improv show he ever saw:<blockquote><p>The first show I remember seeing was *[[Micetro]]*, sometime around 2000, maybe, in the downstairs. Man, I didn't know it at the time, but it was early on in the Hideout's life.</p> 
 
-<p>I don't remember much about it, except that I did like it. I remember someone in a black turtleneck I thought was the epitome of cool. I remember that Yasmine was in the show, because I knew her vaguely from something else.</p> 
+<p>I don't remember much about it, except that I did like it. I remember someone in a black turtleneck I thought was the epitome of cool. I remember that [[Yasmine Kittles|Yasmine]] was in the show, because I knew her vaguely from something else.</p> 
 
 <p>I remember getting my suggestion gently shut down by the director. Someone had said something like "pirates" and I was like "monkey pirates", thinking that if pirates were funny, monkey pirates were even funnier. Note that these aren't the actual suggestions. I just can't remember.</p> 
 
