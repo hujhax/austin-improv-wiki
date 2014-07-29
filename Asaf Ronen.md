@@ -18,6 +18,16 @@ Asaf has taught improvisation in Canada, Great Britain, Norway and in twenty-two
 
 Asaf has taught throughout NYC's public school system as a resident artist through LEAP and New Horizons and as part of Weist-Barron's ACTeen. In 2000, Asaf worked with Cirque du Soleil as a scout for improvisational talent.
 
+## History
+A post from him about the first improv show he ever saw:<blockquote><p>The first show I saw was in November of 1990, one month after I started doing improv. Until then my exposure to it was through the original British version of *Whose Line Is It Anyway?*</p> 
+
+<p>The group I saw was called Chicago City Limits and at the time they were performing out of the basement of the Van Huys Church on the Upper East Side of Manhattan. Years later they would get their own theater.</p> 
+
+<p>The show was a mix of sketches and short form games as well as a medley of song parodies that they became very well known for. The cast included a man by the name of John Cameron Telfer who became a template for me to grow into as an improviser. He was smooth, witty and a bit smarmy as well. (Later on my template would become TJ Jagadowski.) There are only two games I remember from that set. One was Telfer doing Hesitation Speech and the other had the four cast members onstage, each with a newspaper, magazine or some form of reading material. One of them would start reading and another would interrupt them with their own reading material, but do it in a way that perfectly completed the sentence that they were interrupting.</p> 
+
+<p>I still think that is an incredibly amazing trick to pull off.</p>
+</blockquote>
+
 ## Troupes
 * [[Baxter and Bernard]]
 * [[Confidence Men]]
