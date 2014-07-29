@@ -9,7 +9,7 @@
 
 ## History
 A post from him about the first improv show he ever saw:<blockquote><p>Aside from obsessively watching *Whose Line* for about six months I think it was a short-form troupe in Binghamton at a New Year's event and I don't recall them being bad or good. They may have been from out of town cuz every time I saw the actual local team they were awful.</p> 
-<p>First in Austin was a Bat at [The 40-Hour Improv Marathon the 40 hour marathon] and then [[Tom Booker]] as *[[Stool Pigeon]]*. They were both good although the Bat is my least favorite format to perform, not watch/listen to. Other people are great at it.</p></blockquote>
+<p>First in Austin was a Bat at [[The 40-Hour Improv Marathon|the 40 hour marathon]] and then [[Tom Booker]] as *[[Stool Pigeon]]*. They were both good although the Bat is my least favorite format to perform, not watch/listen to. Other people are great at it.</p></blockquote>
 
 ## Previous Projects
 * [[Achatina Achatina]] 
