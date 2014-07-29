@@ -5,7 +5,14 @@
 |Years	=	2008-Present
 }}
 
-Chelley Pyatt is an improv performer who works primarily with [[The Institution Theater]].
+**Chelley Pyatt** is an improv performer who works primarily with [[The Institution Theater]].
+
+## History
+A post from her about the first improv show she ever saw:<blockquote><p>The first improv show I saw was the British *Whose Line Is It, Anyway?* when it aired on PBS in Dallas. I continued watching the show when it came to the US. I always found it delightful.</p> 
+
+<p>But the first live show was actually at New Years this year. I went to the ring in the midnight show at the hideout and saw the two Kacies, [[Kareem Badr|Kareem]] and another guy (can't remember his name) with [[Roy Janik|Roy]] directing. It was fantastic and the perfect way to ring in a new year. Definitely better than most drunken dramas that most of my friends went through that night.</p> 
+
+<p>Funnily enough I was already taking classes at the Hideout when I went to this show. Never seen a show live but wanted to take classes anyway b/c my friend [[Kevin Miller]] always talked about his days in improv and it always seemed fun.</p></blockquote>
 
 ## Shows
 * *[[Bad Girls in Plaid Skirts]]* (tech)
