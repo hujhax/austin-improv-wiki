@@ -5,7 +5,7 @@
 |Director =	[[Tom Booker]]
 |Cast	=	{{Unbulleted list | [[Ash Nunley]] | [[Bryan 'Lubu' Roberts]] | [[Bryan Curry]] | [[Claudio Fox]] | [[Duncan Coe]] | [[Elena Weinberg]] | [[Sam Schak]] | [[Sarah Marie Curry]] | [[Sarah Swofford]] | [[Tom Booker]] | [[Tyler Bryce]] }}
 |Run	=	Jul-Sep 2013
-|Subsequent Runs = {{Unbulleted list | Apr/May 2014 | Nov/Dec 2013 }}
+|Subsequent Runs = {{Unbulleted list | Nov/Dec 2013 | Apr/May 2014 }}
 |Tech	=	{{Unbulleted list | [[Bryan Curry]] | [[Chelley Pyatt]] }}
 }}
 
