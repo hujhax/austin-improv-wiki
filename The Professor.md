@@ -24,6 +24,7 @@ At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 
 
 ## Casts
 ### "Season Zero"
+![[The First Professor.jpg|[[Jordan T. Maxwell]] as the First Professor.]]
 The first two test shows in June 2010 featured [[Jordan T. Maxwell]] as the First Professor.
 
 * [[Jordan T. Maxwell]]
