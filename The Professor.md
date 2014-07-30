@@ -37,6 +37,8 @@ The first two test shows in June 2010 featured [[Jordan T. Maxwell]] as the Firs
 ([[Emily Breedlove]] rehearsed with the cast, but did not play in either show.)
 
 ### Season One
+![[The Second Professor.jpg|[[Michael Ferstenfeld]] as the Second Professor.]]
+![[The Third Professor.jpg|[[Andrew Pish]] as the Third Professor.]]
 The first run of shows, from October to November of 2011, featured [[Michael Ferstenfeld]] and [[Andrew Pish]] as the Second and Third Professors.
 
 * [[Clay Towery]]
