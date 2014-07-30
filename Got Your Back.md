@@ -6,7 +6,7 @@
 |Cast= Various
 }}
 
-**Got Your Back** is a [[ColdTowne Theater]] podcast about Austin improv.
+**Got Your Back** is an Austin comedy podcast featuring interviews with Austin comedians.
 
 ## History
 The first show released on 2/3/14, with an interview of [[Michael Jastroch]].
