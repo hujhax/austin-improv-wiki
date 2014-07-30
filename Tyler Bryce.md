@@ -26,7 +26,7 @@
 ## Shows
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Thinning the Herd]]* (director)
-* Fuck, It's Hot
+* *[[Fuck, It's Hot]]*
 
 [[Category/Performers|Bryce]]
 [[Category/Directors|Bryce]]
