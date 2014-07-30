@@ -3,7 +3,7 @@
 |Picture	=	The Professor.jpg
 |Cast	=	{{Unbulleted list | [[Andrew Pish]] | [[Bridget Brewer]] | [[Clay Towery]] | [[Colin Bates]] | [[Emily Breedlove]] | [[Jeff Britt]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Karen Jane DeWitt]] | [[Katie Thornton]] | [[Kayla Lane Freeman]] | [[Lacy Shawn]] | [[Lindsey Reeves]] | [[Michael Ferstenfeld]] | [[Mike Nystul]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Ryan Austin]] | [[Steve Harwood]] }}
 |Tech = [[Michael Yew]]
-|Director = {{Unbulleted list | [[Justin Davis]] (2010-2012) | [[Michael Ferstenfeld]] (2013-Present) }}
+|Director = {{Unbulleted list | [[Justin Davis]] (2011-2012) | [[Michael Ferstenfeld]] (2013-Present) }}
 |Years	=		2011-Present
 }}
 
@@ -26,7 +26,7 @@ At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 
 ## Casts
 ### "Season Zero"
 ![[The First Professor.jpg|[[Jordan T. Maxwell]] as the First Professor.]]
-The first two test shows in June 2010 featured [[Jordan T. Maxwell]] as the First Professor.
+The first two test shows in June 2011 featured [[Jordan T. Maxwell]] as the First Professor.
 
 * [[Jordan T. Maxwell]]
 * [[Justin Davis]]
