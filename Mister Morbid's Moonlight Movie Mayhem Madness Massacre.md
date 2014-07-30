@@ -6,7 +6,7 @@
 |Cast	=	{{Unbulleted list | [[Thedward Blevins]] | [[Tom Booker]] }}
 |Run	=	Oct 2013
 }}
-
+![[Booker as Morbid.jpg|[[Tom Booker]], in character as Mister Morbid.]]
 ***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** was an improv show.
 
 ## Summary
