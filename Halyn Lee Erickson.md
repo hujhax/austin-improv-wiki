@@ -18,7 +18,6 @@ A post from her about the first improv show she ever saw:<blockquote><p>My dad t
 
 <p>I saw Maesetros for years until I actually saw another improv show that wasn't *Maestro* and it was a [[Pgraph]] show. I don't really remember anything about it except for being confused that they were doing an entire story, and not understanding how that could possibly be a thing.</p></blockquote>
 
-
 ## Troupes
 * [[Happy Butter]]
 * [[The Delightfuls]]
