@@ -139,6 +139,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset that includes both runs.]
 * [http://www.flickr.com/photos/majcher/tags/kabaam/ Photos of the 2009 run] from [[Marc Majcher]].
 * [http://www.facebook.com/MadelineChauvin/media_set?set=a.969842825120.2743782.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 9/12/09 show.
+* [http://twitpic.com/mqx6f Cover-art from the 10/23/09 show.]
 
 ### Other
 * Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2459454053_0a1baac74c/2459454053_0a1baac74c.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2534889035_76644d6259/2534889035_76644d6259.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2461681911_601d6d39d1/2461681911_601d6d39d1.jpg?disposition=download 3].
