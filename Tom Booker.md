@@ -31,6 +31,7 @@ He's a really nice guy. You should meet him.
 * *[[Live TV Tuesdays -  My So-Called Life]]* (director)
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (director)
 * *[[Manson -  The Musical]]* (director/Vincent Bugliosi)
+* *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
 * *[[Pulp Friction]]* (director)
 * *[[Thinning the Herd]]*
 
