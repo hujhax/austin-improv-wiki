@@ -1,7 +1,8 @@
 {{Infobox Troupe
 |Name	=		The Professor
 |Picture	=	The Professor.jpg
-|Cast	=	Various
+|Cast	=	{{Unbulleted list | [[Andrew Pish]] | [[Bridget Brewer]] | [[Clay Towery]] | [[Colin Bates]] | [[Emily Breedlove]] | [[Jeff Britt]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Karen Jane DeWitt]] | [[Katie Thornton]] | [[Kayla Lane Freeman]] | [[Lacy Shawn]] | [[Lindsey Reeves]] | [[Michael Ferstenfeld]] | [[Mike Nystul]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Ryan Austin]] | [[Steve Harwood]] }}
+|Tech = [[Michael Yew]]
 |Director = {{Unbulleted list | [[Justin Davis]] (2010-2012) | [[Michael Ferstenfeld]] (2013-Present) }}
 |Years	=		2011-Present
 }}
