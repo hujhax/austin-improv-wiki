@@ -19,6 +19,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[The International Improv Experience]]* ''(tech)
 * *[[Hurly Burly]]* *(tech)*
 * *[[The Joss Whedon Pajama Party]]* *(tech)*
+* *[[Kenjutsu]]* *(tech)*
 * *[[Live Nude Improv]]* *(tech)*
 * *[[Only Three Will Survive]]* *(tech)*
 * *[[Pocketful of Posies]]* *(tech)*
@@ -28,6 +29,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[Strange Worlds]]* *(tech)*
 * *[[Thinning the Herd]]* *(tech)*
 * *[[The Tribunal]]* *(performer)*
+* *[[Trust No One]]* *(tech)*
 
 [[Category/Performers|Page]]
 [[Category/Techs|Page]]
