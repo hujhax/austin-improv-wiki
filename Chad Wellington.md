@@ -10,6 +10,9 @@
 ## History
 Chad began taking improv classes in June 2010.
 
+## History
+A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with special guest Joel Watson of HijinksEnsue, 10/23/09.  The one protagonist had a wombat theme, the other some sort of radioactive Mario knockoff. Fighting the Twittler. Good times.</blockquote>
+
 ## Troupes
 * [[Apocalypse]]
 * [[The Bystanders]]
