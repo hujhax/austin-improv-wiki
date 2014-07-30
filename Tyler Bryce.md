@@ -9,15 +9,15 @@
 
 ## Troupes
 * [[ComedySportz]] (Austin and NYC) 
-* Red Dirt Improv
+* Red Dirt Improv (Oklahoma City)
 * The Cheese Pistols
-* Your Dad's Friends
-* O.U. Improv
-* The Blah Blah Train
+* [[Your Dad's Friends]]
+* O.U. Improv (Oklahoma City)
+* [[The Blah Blah Train]]
 * Improv Asylum
 * National Comedy Theater (Austin and NYC)
 * Thingy
-* Monk's Night Out
+* [[Monk's Night Out]]
 * Off the Top Of Our Heads
 * The Scenery. 
 * The Murky Doors
