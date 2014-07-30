@@ -94,6 +94,7 @@ A third run of the show happened in April and May of 2014.
 
 ## More Information
 * [http://www.facebook.com/EffItsHot The show's facebook page.]
+* [http://www.meetup.com/AWESOME-AUSTIN-Im-fun-and-in-Austin-Im-in-my-30s-40s/events/155427402/ Review of the show from *Awesome Austin*.]
 * [http://www.facebook.com/events/652783781449386/?ref=5 Facebook event for the "Sex and Queso" run.]
 
 [[Category/Shows|Category:Shows]]
