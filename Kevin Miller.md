@@ -15,6 +15,15 @@ After initially suggesting it as a joke, Kevin joined his troupe [[¡Zarzamora!]
 ### The Bear Joke
 In September 2011, Kevin went on a solo backpacking trip to Montana. In the weeks and months preceding the trip, [[Chuy Zarate]]—an avowed indoorsman—expressed his confidence that Kevin would be eaten by a bear while hiking through the wilderness. Upon Kevin's return, Chuy adopted the theory that Kevin **had** been eaten by a bear, and was now actually a bear wearing Kevin Miller's skin as camouflage. The joke became strangely persistent, even among AIC members who had no idea as to its origin.
 
+## History
+A post from him about the first improv show he ever saw:<blockquote><p>My first show was Freudian Slip in College Station on a weekend visit to A&M, circa 1998. They asked for a volunteer. I leapt onstage. It was a courtroom game; I was the defendant, and both lawyers left the room while the crowd decided on what I was being accused of. Then the lawyers returned and tried to determine what the case was while they tried it.</p> 
+
+<p>When the defense attorney started his opening statement, he said: "Ladies and gentlemen of the jury! The only thing this man is guilty of is a receding hairline!" (Insulting an audience volunteer? SERIOUSLY?) Of course I took it in stride, feigned despair, and crawled under my chair.</p> 
+
+<p>Show #2 was *[[ComedySportz]]* on the UT campus, circa 2000.</p> 
+
+Show #3 was [[Andy Crouch|Andy]]'s graduation show, fall 2001. I started Level One with [[Shana Merlin|Shana]] the very next morning.</blockquote>
+
 ## Troupes
 * [[Foolish Mortals]] (2003-2004)
 * [[The Known Wizards]] (2013-)
