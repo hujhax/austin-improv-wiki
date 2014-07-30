@@ -80,10 +80,17 @@ A third run of the show happened in April and May of 2014.
 * [[Tyler Bryce]]
 
 ## Media
+### Videos
+* [http://youtu.be/LvyFoyiUiAA The "50 Shades of God" sketch.]
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200492579299747.1073741855.1315383518&type=3 Photoset] by [[Michael Yew]] of a show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200492579299747.1073741855.1315383518&type=3 Photoset] by [[Michael Yew]] of the 9/16/13 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10201077450641165.1073741871.1315383518&type=1 Photoset] by [[Michael Yew]] of the 12/20/13 show.
 * [http://www.facebook.com/media/set/?set=a.743179352412250.1073742004.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/31/14 show.
+
+### Publicity
+* [http://youtu.be/i4pWvyCJl8k Trailer for the show.]
 
 ## More Information
 * [http://www.facebook.com/EffItsHot The show's facebook page.]
