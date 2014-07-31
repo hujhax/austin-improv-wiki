@@ -66,7 +66,7 @@ The second run of shows, from March to April of 2012, introduced [[Peter Rogers]
 * [[Ryan Austin]]
 
 ### Season Three
-Season three rann on Saturdays at [[The Institution Theater]] in November 2013.
+Season three ran on Saturdays at [[The Institution Theater]] in November 2013.
 
 * [[Bridget Brewer]]
 * [[Jeff Britt]]
