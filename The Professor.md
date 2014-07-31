@@ -52,6 +52,7 @@ The first run of shows, from October to November of 2011, featured [[Michael Fer
 
 ### Season Two
 ![[The Fourth Professor.jpg|[[Peter Rogers]] as the Fourth Professor.]]
+![[The Fifth Professor.jpg|[[Karen Jane DeWitt]] as the FifthProfessor.]]
 The second run of shows, from March to April of 2012, introduced [[Peter Rogers]] and [[Karen Jane DeWitt]] as the Fourth and Fifth Professors, with [[Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Clay Towery]]
