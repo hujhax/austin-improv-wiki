@@ -1,6 +1,9 @@
 ## Summary
-Rudimentary preview image for *[[Reform School for Wayward Girls]]*, taken from [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule the Hideout's 2014 season preview].
+Poster for *[[Reform School for Wayward Girls]]*.
+
+Photo by [[Steve Rogers]].
 
 Art by [[Kaci Beeler]].
+
 ## Licensing
 {{AIC-Wiki-only license}}
