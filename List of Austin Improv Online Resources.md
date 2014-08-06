@@ -14,6 +14,7 @@ This **list of Austin improv online resources** includes information about web s
 * Hideout Maestro - Behind the Scenes
 * The Institution Theater Students, Alumni, and Staff
 * Merlin Works Students and Alumni
+* TNM Students Section
 * Austin Improv Comic Book Community
 * Austin Improv Parents
 * Austin Improv Politicos
