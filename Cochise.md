@@ -31,6 +31,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * [[Jason Vines]]
 * [[Marc Majcher]]
 * [[Matt Pollock]]
+* [[Mike Kinald]]
 
 #### Student Mainstage Run
 ![[Cochise2014.jpg|Poster for the student-mainstage run of *Cochise*.]]
