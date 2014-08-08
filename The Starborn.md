@@ -37,9 +37,10 @@ In February of 2014 The Starborn headlined [[The Threefer]] at [[The Hideout The
 ** [http://vimeo.com/58798063 Another video] by [[Peter Rogers]] of the same show.
 
 ### Press Blurb
-The StarBorn is an audience-interactive, improvised alien invasion. The playful brother/sister alien twins (Mia Iseman & Ryan Austin) arrive from Kananite 12 to take over the planet and destroy all the humans! Earth will soon be theirs and there is nothing we can do to stop the imminent invasion!
+The Starborn is an improvised, interactive alien invasion. The playful and devious alien twins (played by Mia Iseman and Ryan Austin) land on Earth to toy with the humans in the audience before they destroy them for good.
 
 But just before they blast us into particle dust, they want to get to know us a little bit. Play with our emotions and see up close the culture they've prepared to destroy for centuries. No seat is safe as they work their way into the audience and observe, misinterpret and often abduct anyone that strikes their fancy. Earth is doomed in the best possible way.
+
 
 ### Interviews
 * [http://www.hideouttheatre.com/the-starborn-descend Interview] for their February run of shows in [[The Threefer]]
@@ -54,6 +55,7 @@ But just before they blast us into particle dust, they want to get to know us a 
 ## More Information
 * [http://starbornimprov.strikingly.com/ The troupe's home page.]
 * [http://facebook.com/thestarbornimprov The troupe's Facebook page.]
+* Show Count: 10
  
 [[Category/Troupes|Starborn]]
 [[Category/Active|Category:Active]]
