@@ -3,7 +3,6 @@
 |Picture =     AustinAustinPromoBW.jpg
 |Cast	=	{{Unbulleted list | [[Ryan Austin]] | [[Quinn Buckner]] }}
 |Years	=		2014-
-|Show Count  =   4
 }}
 
 **Austin/Austin** (said Austin and Austin) is a duo of friends Ryan Austin and Quinn Buckner with the conscious goal of creating a long term troupe capable of doing regular shows and attending festivals. The duo was conceptualized in early 2014 when after many months of throwing around the name "Austin and Austin" they had their first rehearsal and confirmed wanting to start a duo. The name Austin/Austin comes from Quinn Buckner's first name (Austin) and Ryan Austin's last name. 
@@ -37,6 +36,7 @@ Finally Dungeon Masters is a montage/narrative in which Austin/Austin fill out a
 
 ## More Information
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
+* Show Count: 4
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
