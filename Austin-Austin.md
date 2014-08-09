@@ -8,11 +8,15 @@
 **Austin/Austin** (said Austin and Austin) is a duo of friends Ryan Austin and Quinn Buckner with the conscious goal of creating a long term troupe capable of doing regular shows and attending festivals. The duo was conceptualized in early 2014 when after many months of throwing around the name "Austin and Austin" they had their first rehearsal and confirmed wanting to start a duo. The name Austin/Austin comes from Quinn Buckner's first name (Austin) and Ryan Austin's last name. 
 
 ## Format
+### Current Formats
 #### Don't Worry About it
 Basic montage with the stipulation that each scene end with the phrase "Don't Worry About It" as organically as possible. Its the goal that the audience (and maybe even players) become so engaged in the scene that they forget the phrase is coming.
+#### Dungeon Masters
+Montage set in a fantasy world that gets created at the top of the show with a Mad Libs style narration.
+### Other Formats
 #### Two Lost Brothers
 More grounded narrative in which Ryan and Quinn play two brothers that become lost in a place decided at the top of the show. Potentially a mono-scene depending on if the brothers are forced to split up. To grab the suggestion they inverse the classic "audience yells out something and the troupe picks something they like" standard for Ryan rambling off locations that they haven't been to yet and the audience picking what they like.
-#### Dungeon Masters
+
 ## Media
 ### Videos
 * [http://vimeo.com/90457615 03/27/14 show] at *[[Free Fringe]]*.
