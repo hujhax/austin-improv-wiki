@@ -22,17 +22,16 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 * [http://vimeo.com/90457615 03/27/14 show] at *[[Free Fringe]]*.
 ### Photos
 ### Press/Audition Blurbs
-***What Do We Do? Format Wheel Long Version**
-"Austin/Austin will be doing one of three formats, chosen by the audience via spinning wheel.
+***What Do We Do? Audience Vote Version**
+"Austin/Austin will be doing one of two formats, chosen by the audience via quick vote.
 Don't Worry About It is a montage format in which Austin/Austin try to make you forget that the edit for every scene is an organic "Don't worry about it".
-Two Lost Brothers is a narrative about two brothers of an age chosen by the audience who get lost in a location also of the audience's choice.
 Finally Dungeon Masters is a montage/narrative in which Austin/Austin fill out a fantasy world and visit characters inspired by Lord of the Rings, Song of Fire and Ice, etc...."
 ***Who Are We? Long Version**
 "Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. Ryan Austin is the group's debonair lady killer providing grounded scene work and an unstoppable positive energy. Quinn Buckner is coming up on five years of improv experience bringing to the table an eye for support, an abundance of physicality, and a pension for fun. Ryan and Quinn have separately been to festivals from Out of Bounds to Improvaganza in Hawaii and have done numerous mainstages at the Hideout Theatre as well as shows all around Austin. "
-***Who Are We and What Do We Do? Format Wheel**
-"Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. With three formats: A montage "Don't Worry About It", a narrative "Two Lost Brothers", and a more open ended fantasy based "Dungeon Masters"  Austin/Austin lets chance decide the format for the night. You never know what adventure is to be had unless you see them for yourself!"
-***Why Should You Choose Us for a Run Format Wheel**
-"Our multiple formats and random chance that each one gets played could bring people back eager to see a different format. Each format is solid in concept and fun to see. We also wear basically the same thing and have a very "good guy" vibe that we play into. Ultimately we're aiming to chase inspiration and bring that to every rehearsal and show."
+***Who Are We and What Do We Do? Audience Vote**
+"Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. With two formats: A montage "Don't Worry About It" and a more open ended fantasy based "Dungeon Masters"  Austin/Austin lets chance decide the format for the night. You never know what adventure is to be had unless you see them for yourself!"
+***Why Should You Choose Us for a Run Audience Vote**
+"Our multiple formats and random chance that each one gets played could bring people back eager to see a different format. Each format is solid in concept and fun to see. Ultimately we're aiming to chase inspiration and bring that to every rehearsal and show."
 ***What Do We Do? Dungeon Masters**
 "Dungeon Masters is a open world format in which we jump around to different moments in the lives of the inhabitants of a fantasy world. We build the lore for that show at the top with a guided mad libs/ hesitation debate style telling of the lore then we jump into a scene from that world that inspires us. Its not a narrative unless we find ourselves having fun with a particular set of characters, otherwise its more of a world connected montage."
 ***Who Are We and What Do We Do? Dungeon Masters**
