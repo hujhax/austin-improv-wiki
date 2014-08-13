@@ -6,7 +6,7 @@
 |Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Christina Bain]] | [[Christopher Orf]] | [[David Lampe]] | [[Jay Michael]] | [[Kacey Samiee]] | [[Kareem Badr]] | [[Shana Merlin]] | [[Sean Cooper]] | [[Troy Miller]] | [[Wesley Bain]] }}
 |Run	=	Jul-Sep 2006
 }}
-
+![[Cops & Lawyers Postcard.jpg|Postcard for *Cops & Lawyers*]]
 ***Cops & Lawyers*** was an improvised longform narrative show inspired by *[[Wikipedia - Law & Order|Law & Order]]*
 
 ## Summary
