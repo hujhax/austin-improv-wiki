@@ -25,7 +25,7 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 ***What Do We Do? Audience Vote Version**
 "Austin/Austin will be doing one of two formats, chosen by the audience via quick vote.
 Don't Worry About It is a montage format in which Austin/Austin try to make you forget that the edit for every scene is an organic "Don't worry about it".
-Finally Dungeon Masters is a montage/narrative in which Austin/Austin fill out a fantasy world and visit characters inspired by Lord of the Rings, Song of Fire and Ice, etc...."
+Finally Dungeon Masters is a montage/narrative in which Austin/Austin fill out a fantasy world and visit characters inspired by Lord of the Rings, Song of Fire and Ice, Final Fantasy etc...."
 ***Who Are We? Long Version**
 "Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. Ryan Austin is the group's debonair lady killer providing grounded scene work and an unstoppable positive energy. Quinn Buckner is coming up on five years of improv experience bringing to the table an eye for support, an abundance of physicality, and a pension for fun. Ryan and Quinn have separately been to festivals from Out of Bounds to Improvaganza in Hawaii and have done numerous mainstages at the Hideout Theatre as well as shows all around Austin. "
 ***Who Are We and What Do We Do? Audience Vote**
