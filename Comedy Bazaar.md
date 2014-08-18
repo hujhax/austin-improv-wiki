@@ -7,20 +7,12 @@
 |Run	=	2013-Present
 }}
 
-***Comedy Bazaar*** is a sketch-comedy revue. 
-
-Comedy Bazaar is a monthly sketch show.
+***Comedy Bazaar***  is a monthly sketch show at Coldtowne Theater
 
 ## History
-The show premiered on Fridays at midnight at [[ColdTowne Theater]] in March of 2013.  That year, the show had a rotating cast, but in January 2014 it was restructured, with auditions for a dedicated cast of writer/performers.
+The show premiered on Fridays at midnight at [[ColdTowne Theater]] in March of 2013 before taking over a Saturday night slot formerly used by the Speakeasy.  In January 2014 it was restructured, with auditions for a dedicated cast of writer/performers.
 
-## Media
-### Videos
-* [http://youtu.be/4Vn0x4NOxxY Episode 1.]
-* [http://www.youtube.com/watch?v=6SgSEDvqdVw Episode 3.]
-* [http://www.youtube.com/watch?v=wG-szKMGXQ8 Episode 4.]
-* [http://www.youtube.com/watch?v=_P6OtzefTcw Episode 5.]
-* [http://www.youtube.com/watch?v=rU7E0JdVNeM Episode 6.]
+
 
 ### Publicity
 * [http://youtu.be/y6dXQnrDCm8 "Sexy Halloween" promo.]
