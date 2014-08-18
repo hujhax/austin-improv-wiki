@@ -16,6 +16,7 @@ He is a regular cast member of the Flying Theater Machine.
 * [[Wait OK Now]]
 
 ## Shows
+* *[[History Under the Influence]]*
 * *[[The International Improv Experience]]*
 * *[[The Austin Improv Podcast]]*
 * *[[Fakespeare]]*
