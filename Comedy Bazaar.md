@@ -9,8 +9,7 @@
 
 ***Comedy Bazaar*** is a sketch-comedy revue. 
 
-## Summary
-Promotional material for the show describes it as "a mix between *[[Wikipedia - The Dean Martin Show|The Dean Martin Show]]* and *[[Wikipedia - Pee-wee's Playhouse|Pee-wee's Playhouse]]*."
+Comedy Bazaar is a monthly sketch show.
 
 ## History
 The show premiered on Fridays at midnight at [[ColdTowne Theater]] in March of 2013.  That year, the show had a rotating cast, but in January 2014 it was restructured, with auditions for a dedicated cast of writer/performers.
