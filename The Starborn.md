@@ -55,7 +55,7 @@ But just before they blast us into particle dust, they want to get to know us a 
 ## More Information
 * [http://starbornimprov.strikingly.com/ The troupe's home page.]
 * [http://facebook.com/thestarbornimprov The troupe's Facebook page.]
-* Show Count: 10
+* Show Count: 12 (as of 08/23/2014)
  
 [[Category/Troupes|Starborn]]
 [[Category/Active|Category:Active]]
