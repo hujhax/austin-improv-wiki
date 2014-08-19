@@ -603,6 +603,7 @@ Headliners
 
 #### Media
 * [http://vimeo.com/61034418 Video] by [[Peter Rogers]] of "Teach a Man to Fischer".
+* [http://vimeo.com/60813845 Video] by [[Peter Rogers]] of "Waiting for Batman".
 
 ### Mar  7, 2013
 #### *[[Fandom]]* Redux
