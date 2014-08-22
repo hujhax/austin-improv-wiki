@@ -34,12 +34,15 @@ A post from him about the first improv show he ever saw:<blockquote><p>Other tha
 * [[The Awkwards]]
 
 ## Shows
+* *[[The Aftermath]]* (director)
 * *[[Austin Secrets]]*
 * *[[Fakespeare]]*
 * *[[Fandom]]*
 * *[[I Love You So Much]]*
+* *[[Kenjutsu]]*
 * *[[Live Nude Improv]]*
 * *[[Live TV Tuesdays -  Buffy|Live TV Tuesdays: Buffy the Vampire Slayer]]* (director)
+* *[[Nothing and Everything]]*
 * *[[Pocketful of Posies]]*
 * *[[Process]]*
 * *[[The Professor]]*
