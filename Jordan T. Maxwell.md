@@ -25,13 +25,13 @@ A post from him about the first improv show he ever saw:<blockquote><p>Other tha
 <p>The next show was in Jeremy's back yard. [[Aaron Saenz|Aaron]] couldn't be there, so I filled in. It was the first time we went by [[Well Hung Jury]]. and it would take a few more years for [[Bill Stern]] to join and make us truly sweet.  ;)</p></blockquote>
 
 ## Troupes
-* [[Well Hung Jury]]
-* [[The Sicks]]
-* [[The Great Mundane]]
 * [[710 Split]]
-* [[¡Zarzamora!]]
-* [[Indigo Shift]]
 * [[The Awkwards]]
+* [[The Great Mundane]]
+* [[Indigo Shift]]
+* [[The Sicks]]
+* [[Well Hung Jury]]
+* [[¡Zarzamora!]]
 
 ## Shows
 * *[[The Aftermath]]* (director)
