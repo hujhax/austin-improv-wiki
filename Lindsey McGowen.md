@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Lindsey McGowen	
 |Picture =	Lindsey McGowen Pic.jpg
-|Theater=	{{Unbulleted list | [[The Hideout Theatre]] | [[The Institution Theater]] }}
+|Theater=	{{Unbulleted list | [[The Hideout Theatre]] }}
 |Years	=	2014-Present
 }}
 
