@@ -4,6 +4,7 @@
 |Theater =		[[The Hideout Theatre]]
 |Director =		[[Jon Bolden]]
 |Run=							Nov/Dec 2014
+|Crew=		{{Unbulleted list | [[Cortney DeAngelo]] | [[Lindsey McGowen]] | [[Michael Yew]]   }}
 |Cast	=		{{Unbulleted list | [[Andrew Buck]] | [[Cat Drago]] | [[Courtney Hopkin]] | [[Jordan T. Maxwell]] | [[Kaci Danger]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Megan Sherrod]] | [[Peter Rogers]] | [[Troy A. Miller]] | [[Valerie Ward]] }}
 }}
 
