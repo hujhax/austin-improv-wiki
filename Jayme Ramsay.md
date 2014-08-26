@@ -5,7 +5,7 @@
 |Years= 2011-Present
 }}
  
-**Jayme Ramsay** is an improv performer.
+**Jayme Ramsay** is an improv performer and director.
 
 ## History
 Jayme first started taking improv classes at [[The Hideout Theatre]] in early 2011.
@@ -13,12 +13,14 @@ Jayme first started taking improv classes at [[The Hideout Theatre]] in early 20
 Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Theater]].
 
 ## Shows
+* *[[A Bedtime Gorey]]*
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
 * *[[The Cherry Bowl]]* (Anya)
 * *[[The Dahl House]]* (assistant director)
 * *[[The Fancy-Pants Mashup]]*
 * *[[Hurly Burly]]* (co-director)
+* *[[Kenjutsu]]* 
 * *[[Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
 * *[[Maestro]]*
 * *[[Pick Your Own Path]]*
