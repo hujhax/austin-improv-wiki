@@ -3,7 +3,7 @@
 |Picture=	90210.jpg
 |Theater=	[[Salvage Vanguard Theater]]
 |Director =	[[Lauren Buck]]	
-|Proudcer =     [[Gnap! Theater Projects]]
+|Producer =     [[Gnap! Theater Projects]]
 |Assistant Director = [[Peter Rogers]]
 |Cast = {{Unbulleted list | [[Amy Averett]] | [[Bryan Cruz]] | [[Colin Thomas Bates]] | [[Courtney Hopkin]] | [[Jesse Overright]] | [[Katie Thornton]] | [[Kevin Miller]] | [[Kimberly Cox]] | [[Lauren Buck]] | [[Mark Carpenter]] | [[Michael Thomas]] | [[Peter Rogers]] | [[Shana Merlin]]}}
 |Tech = {{Unbulleted list | [[Anne Wolfe Andersen]] | [[Jen Kaplan]] }}
