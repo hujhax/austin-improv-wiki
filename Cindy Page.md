@@ -12,6 +12,7 @@
 She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Favorite Tech Performer]] at the [[The 2013 Institution Theater Awards]].
 
 ## Shows
+* *[[The Aftermath]]* *(assistant director)*
 * *[[After School Improv]]* *(tech)*
 * *[[Austin Secrets]]* *(tech)*
 * *[[The Black Vault]]* *(tech)*
