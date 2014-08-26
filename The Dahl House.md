@@ -3,6 +3,7 @@
 |Picture            = The Dahl House.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Valerie Ward]]
+|Assistant Director = [[Jayme Ramsay]]
 |Run                = Aug 2014
 |Cast               = {{Unbulleted list | [[Andrew Schwartz]] | [[Ann Nelson]] | [[Chad Wellington]] | [[Heather Hasselle]] | [[Michael Guy Bowman]] | [[Rosemarie Frezza]] | [[Tess Hermes]] }}
 }}
