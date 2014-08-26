@@ -10,9 +10,13 @@ Michael is also a technical improvisor for mainstage shows such as *[[Strange Wo
 * *[[Fandom]]* *(tech)*
 * *[[Hitchcocked!]]* *(tech)*
 * *[[Holy 1960s Batman, Batman!]]* *(tech)*
+* *[[Kenjutsu]]* *(tech)*
+* *[[The International Improv Experience]]* *(tech)*
 * *[[Manhattan Stories]]* *(tech)*
+* *[[Nothing and Everything]]* *(tech)*
 * *[[Process]]* *(tech)*
 * *[[Strange Worlds]]* *(tech)*
+* *[[Trust No One]]* *(tech)*
 * *[[The Violet Underbelly]]* *(tech)*
 
 [[Category/Photographers|Yew]]
