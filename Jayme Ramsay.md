@@ -16,6 +16,7 @@ Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Th
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
 * *[[The Cherry Bowl]]* (Anya)
+* *[[The Dahl House]]* (assistant director)
 * *[[The Fancy-Pants Mashup]]*
 * *[[Hurly Burly]]* (co-director)
 * *[[Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
