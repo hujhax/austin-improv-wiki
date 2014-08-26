@@ -24,6 +24,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[The International Improv Experience]]* (light tech)
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Nothing and Everything]]* (tech)
+* *[[You Think You're So Smart]]* (tech)
 
 ## More Information
 * [http://wikipella.org/wiki/Lindsey_McGowen Lindsey's wikipella page.]
