@@ -13,9 +13,11 @@ In ancient Egypt the sorceress Jillatep first heard the stirrings of improv insp
 ## Troupes
 * [[Doin' Maintenance]] (defunct)
 * [[The Known Wizards]]
+* [[Your Dad's Friends]]
 
 ## Shows
 * *[[Camp Madeupponathaspotta]]*
 * *[[History Under the Influence]]*
+* [[Hurly Burly]] (under a pseudonym)
 
 [[Category/Performers|Summar]]
