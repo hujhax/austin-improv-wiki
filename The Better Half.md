@@ -16,7 +16,7 @@ Shortly thereafter, Regina, Jo, and Ashley took off and started performing aroun
 
 In Spring 2013 [[Ashley Lowe]] left the troupe (amicably!) to focus on other projects.  Now Regina and Jo perform The Better Half as a duo and sometimes with special guests, most notably [[Heidi Caldwell]] and [[Carla Goodman]].
 
-The Better Half Presents Austin Date Night, featuring diverse acts such as clowning, storytelling, improv, music, and sketch, also includes real blind dates on stage.  Future shows will be at [[The Institution Theater]] in August 2014.
+The Better Half Presents Date Night, featuring diverse acts such as clowning, storytelling, improv, music, and sketch, also including real blind dates on stage, had a 4-week run at [[The Institution Theater]] in August 2014, after a one-off show in July sold out.
 
 The Better Half perfected the spank circle, and Regina can never remember what Character Chords are.
 
