@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Nice Astronaut
 |Picture=	Niceastro-2013-04-10.jpg
-|Cast	=	{{Unbulleted list|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Nicole McCracken]]|[[Tim Honker]]}}
+|Cast	=	{{Unbulleted list|[[Calan lambert]]|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Nicole McCracken]]|[[Tim Honker]]}}
 
 |Years	=		2008-Present
 }}
@@ -20,32 +20,7 @@ In 2011, Nicole and Tim formed a separate troupe named [[Townsville]] to write a
 ## Teaching
 Nice Astronaut began teaching workshops in 2013 in Austin, Phoenix, and Houston. They currently teach out of the ColdTowne Conservatory space.
 
-## Members
-The troupe was formed by [[Becca Peterson]], [[Allison Alvarez]], [[Patrick Daniel]], [[Clay Crenshaw]], [[Tim Honker]] and [[Carla Goodman]].  Carla left the troupe after rehearsals began but before the first show.
-
-![[NiceAstro-2011Lineup.jpg|Nice Astronaut lineup 2010]]
-
-Over the years, the following people have been or are currently still members of Nice Astronaut (in order of joining):
-* [[Becca Peterson]] (2008 - 2013)
-* [[Allison Alvarez]] (2008 - 2011)
-* [[Patrick Daniel]] (2008 - 2009)
-* [[Clay Crenshaw]] (2008 - 2010)
-* [[Carla Goodman]] (2008)
-* [[Tim Honker]] (2008 - present)
-* [[Nicole McCracken]] (2009 - present)
-* [[Josh Gill]] (2009 - 2012)
-* [[Lisa Jackson]] (2010 - 2012)
-* [[Drew Wesely]] (2011 - present)
-* [[Jared Stepp]] (2011 - 2012)
-* [[Milo Smith]] (2012)
-* [[Nathan Sowell]] (2012 - present)
-* [[Chrissy Shackelford]] (2012 - 2013)
-* [[Calan lambert]] (2012 - 2014)
-* [[Jessica Marpe]] (2012 - 2014)
-* [[Chaz Formichella]] (2012 - present)
-* [[Joseph Dailey]] (2013 - present)
-
-## Custom Created Lonform Forms
+## Custom Created Longform Forms
 Nice Astronaut has specialized in creating and preforming custom forms, but has also performed montages, living rooms, narratives, Armandos, and Deconstructions for extended periods of time as well as short form.
 
 ### Small Universe
