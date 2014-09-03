@@ -15,6 +15,7 @@ Some of Austin's best female improvisors are underage and under lock and key in 
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
+* [http://www.hideouttheatre.com/shows/ReformSchoolforWaywardGirls The show's web page.]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
