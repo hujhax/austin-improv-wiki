@@ -16,6 +16,9 @@ The improv cast will then do a full length narrative based on the monologue they
 
 [[Jason Vines]] is in charge of makeup effects for the show.
 
+## Media
+* [http://youtu.be/o1tJwHaGpxU&feature=youtu.be Trailer for the show.]
+
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17545 The audition announcement] on [[The Austin Improv Forums]].
 
