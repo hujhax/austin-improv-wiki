@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Yamina Khouane	
-|Picture =	![[Ok.jpg]]
+|Picture =	ok.jpg
 |Theater=	The New Movement
 |Years	=	2010-2013
 }}
