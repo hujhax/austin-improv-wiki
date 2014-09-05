@@ -40,7 +40,6 @@ Tim is also a homebrewer, a NAUI certified Master Scuba Diver, worked on several
 * Chicago Improv Festival (Nice Astronaut 2013)
 * [[Out of Bounds]] (Nice Astronaut 2009, 2010, 2011, 2012, 2013, 2014)
 * Del Close Marathon (Nice Astronaut 2009, 2012, 2013, 2014)
-* Trill Comedy Fest (Nice Astronaut 2014)
 * Improv Festival Oklahoma (Nice Astronaut 2014)
 * [[Frontera Fest]] (Townsville 2012)
 * [[Austin Sketch Fest]] (Dear Frailty 2009)
