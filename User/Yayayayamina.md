@@ -1,1 +1,1 @@
-Yamina is an Austin improvisor from Brownsville, TX. She was a performer at The New Movement Theater from 2010-2013. At TNM, Yamina taught Improv 201 and was a regular perfomer in the flagship show, "The Megaphone Show". She also wrote a two-person sketch show with fellow improvisor Vanessa Gonzalez called "Glorias: A Sketch Show". You can watch a video they made together here: https://www.youtube.com/watch?v=hj9xcIBXA7Q . She now lives in New York City where she is training at the UCB.
+#REDIRECT [[Yamina Khouane]]
