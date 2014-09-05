@@ -12,7 +12,7 @@ Yamina started her improv career with short-form college troupe [[Gigglepants]] 
 
 As a main-stage player for The New Movement theater, Yamina has been a performer for [[Fun Fun Fun Fest]] and has been invited as a guest performer at TNM New Orleans. Yamina's house team CHECKBOOK has been nominated for a B. Iden Payne award for Outstanding Improvisational Theatre and has also participated in several festivals, including [[Hell Yes Fest]], [[The Megaphone Marathons]], and the [[Del Close Marathon]]. 
 
-Yamina now trains at the [[UCB]] in New York City.
+Yamina now trains at the [[Upright Citizens Brigade]] in New York City.
 
 ## Troupes
 * [[Checkbook]]
