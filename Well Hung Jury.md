@@ -10,7 +10,10 @@
 ## History
 ![[WHJ Final Show Flyer.jpg|Flyer from the Jury's final show in October 2003.]]
 
-[soundcloud url="https://api.soundcloud.com/tracks/159993611" params="auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="300" iframe="true" /]
+{{#widget:{{PAGENAME}}
+|id=159993611
+|width=100%
+}}
 
 The troupe was founded in May 1998, and performed their final show in October 2003.
 
