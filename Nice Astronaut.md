@@ -6,25 +6,21 @@
 |Years	=		2008-Present
 }}
 
-**Nice Astronaut** is a comedy troupe in Austin, TX that creates and performs Chicago-style longform improv forms, writes and performs sketch comedy, and teaches improv workshops. Their monthly Improvaoke show is on the second Saturdays at 11:15pm at [[ColdTowne Theater]].
+**Nice Astronaut** is a comedy troupe in Austin, TX that creates and performs Chicago-style longform improv forms, writes and performs sketch comedy, and teaches workshops. Their monthly show is on the second Saturdays at 11:15pm at [[ColdTowne Theater]].
 
 ## History
-Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] and was formed from several students in a level 1 class together at ColdTowne Theater.  They debuted under the temporary name "H.J. Compromise" in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013) and then [[Cody Dearing]] (2013-).
+Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013) and then [[Cody Dearing]] (2013-).
 
-![[Niceasstronautchamp1.jpg|Nice Astronaut as cagematch champions December 2008]]
-
-As H.J. Compromise, they went on to win the December 2008 [[ColdTowne Theater]] [[Cagematch]] championships after defeating "Honky Knife Fight" ([[Josh Krilov]] and [[Stephanie Russo]]) and "Four Square On The Moon" (one of the many permutations of the [[ColdTowne Student Troupe]] [[Northshore Local]]).
-
-In 2011, Nicole and Tim formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
+In 2011, [[Nicole McCracken]] and [[Tim Honker]] formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
 
 ## Teaching
-Nice Astronaut began teaching workshops in 2013 in Austin, Phoenix, and Houston. They currently teach out of the ColdTowne Conservatory space.
+In 2013, Nice Astronaut expanded into teaching workshops, and have since taught in Austin, Phoenix, and Houston. They currently teach out of the ColdTowne Conservatory space.
 
-## Custom Created Longform Forms
-Nice Astronaut has specialized in creating and preforming custom forms, but has also performed montages, living rooms, narratives, Armandos, and Deconstructions for extended periods of time as well as short form.
+## Custom Created Longform Improv Forms
+Nice Astronaut has specialized in creating and preforming custom improv forms, but has also performed montages, living rooms, narratives, Armandos, and the Deconstruction.
 
 ### Small Universe
-The Small Universe format is the combination of a loose Close Quarters and a loose Harold. The format consists of describing an object and collectively storytelling about that object from a plural first person point of view.  Long rabbit holes are traveled down to generate 2-3 rules of the universe which eventually cause the characters, locations, relationships and rules to intertwine in the end of the show.  Nice Astronaut started performing this format in the summer of 2012.
+The Small Universe format is the combination of a loose Close Quarters and a loose Harold. The format consists of describing an object and collectively storytelling about that object from a plural first person point of view.  Long rabbit holes are traveled down to generate 2-3 rules of the universe which eventually cause the characters, locations, relationships and rules to intertwine in the end of the show.  Nice Astronaut created this format in the summer of 2012.
 
 ### Improvaoke
 The [http://www.coldtownetheater.com/events/nice-astronaut-improvioke Improvaoke] is similar to an Armando, but replaces the monologues with the interview of an audience member about their life and then an improvised song based about that person.  The improvised lyrics are sung to an existing  and well known karaoke backing track, such as Sweet Caroline.  Nice Astronaut created this form in early 2010 and performs it on their second Saturday shows.
