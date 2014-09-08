@@ -19,7 +19,7 @@ Labeled as “The funniest person in Austin,” by improv giant, [[Tom Booker]],
 ## History
 Though Aden began improvising early, she joined the Austin Improv Collective in 2005 when she relocated to ATX following living two years of living in South Korea.
 
-She joined [[Girls Girls Girls]] in 2007 and began teaching for Merlin Works in [[2009]].
+She joined [[Girls Girls Girls]] in 2007 and began teaching for [[Merlin Works]] in 2009.
 
 A post from her about the first improv show she ever saw:<blockquote><p>The first improv show I saw was one I produced and directed in High School in February of 1995. Improv was so much a part of my theatrical training (which started at the age of 6), that I wanted to dedicate my senior project work to it. I even wrote my senior thesis on the use of improv as a teaching tool... and went on to teach improv for a couple of years.</p> 
 
