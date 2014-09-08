@@ -53,6 +53,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Jason Laney]]
 * [[John Ratliff]]
 * [[Robby]]
+* [[David Rosenbaum]]
 
 ## Local Festivals
 * [[Out of Bounds Comedy Festival]] - Headlining troupe 2007
