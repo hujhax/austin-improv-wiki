@@ -50,6 +50,7 @@ In 2014, she moved away to Oregon, but visits Austin regularly and is still invo
 
 ## More Information
 * [http://yesandrew.com/2013/08/30/in-praise-of-aden-kirschner-by-eric-heiberg/ "In Praise Of..." post] by [[Eric Heiberg]].
+* [http://yesandrew.com/2014/06/01/the-sunday-interview-aden-kirschner/ "The Sunday Interview..." post] by [[Andrew Buck]]
 
 [[Category/Performers|Kirschner]]
 [[Category/Teachers|Kirschner]]
