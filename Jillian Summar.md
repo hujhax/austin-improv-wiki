@@ -21,3 +21,4 @@ In ancient Egypt the sorceress Jillatep first heard the stirrings of improv insp
 * [[Hurly Burly]] (under a pseudonym)
 
 [[Category/Performers|Summar]]
+[[Category/Teachers|Summar]]
