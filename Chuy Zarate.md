@@ -5,6 +5,7 @@
 |Years	=	1982-Present
 }}
 [[Category/Performers|Zarate]]
+[[Category/Teachers|Zarate]]
 
 **Estevan J. "Chuy" Zarate** is an Austin improviser, originally from San Antonio.
 
