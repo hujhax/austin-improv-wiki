@@ -87,8 +87,12 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 ** With [[Improv for Evil]]
 * [[WaffleFest]]
 ** With [[Improv for Evil]]
+* The 2008 Frontera Fest Short Fringe
+** with [[Improv for Evil]]
 * [[The 2008 Out of Bounds Comedy Festival]]
 ** With [[Improv for Evil]] and *[[Ka-Baam!!]]*
+* The 2009 Frontera Fest Long Fringe
+** With *[[Cochise]]*
 * [[The 2009 Out of Bounds Comedy Festival]]
 ** With [[Improv for Evil]]
 * [[The 41-Hour Improv Marathon]]
@@ -109,7 +113,10 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 ** With [[The Escorts]], *[[False Matters]]*, [[Improv for Evil]], *[[Manhattan Stories]]*, *[[Process]]*, and *[[Spirited]]*
 * [[The 2013 Improvised Play Festival]]
 ** With *[[The Black Vault]]*, [[The Escorts]], *[[False Matters]]*, *[[Live Nude Improv]]*, *[[Strange Worlds]]*, and *[[The Tribunal]]*
-
+* The 2013 Unscripted New York Festival
+** With *[[Strange Worlds]]*
+* The 2013 Alaska State Improv Festival
+** With *[[The Black Vault]]* and *[[Strange Worlds]]*
 
 
 [[Category/Performers|Majcher]]
