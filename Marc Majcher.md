@@ -83,6 +83,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Who Is T. Henry Baudecliffe]]*
 
 ## Festivals
+* The 2007 Frontera Fest Short Fringe
+** with [[Improv for Evil]]
 * [[The 2007 Out of Bounds Comedy Festival]]
 ** With [[Improv for Evil]]
 * [[WaffleFest]]
@@ -111,6 +113,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 ** With [[The Escorts]]
 * [[The 2012 Out of Bounds Comedy Festival]]
 ** With [[The Escorts]], *[[False Matters]]*, [[Improv for Evil]], *[[Manhattan Stories]]*, *[[Process]]*, and *[[Spirited]]*
+* The 2012 Frontera Fest Short Fringe
+** in *Linear Perspectives* by [[Kayla Lane Freeman]]
 * [[The 2013 Improvised Play Festival]]
 ** With *[[The Black Vault]]*, [[The Escorts]], *[[False Matters]]*, *[[Live Nude Improv]]*, *[[Strange Worlds]]*, and *[[The Tribunal]]*
 * The 2013 Unscripted New York Festival
