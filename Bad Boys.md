@@ -53,3 +53,4 @@ Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
+[[Category/Started as a Cagematch Troupe|Category:Started as a Cagematch Troupe]]
