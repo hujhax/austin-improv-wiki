@@ -50,6 +50,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[I Love You So Much]]*
 * *[[Improvised Shakespeare]]*
 * *[[Ka-Baam!!]]*
+* *[[Kenjutsu]]*
 * *[[The Library]]*
 * *[[Live Nude Improv]]*
 * *[[Lola]]*
@@ -65,6 +66,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[The Plagiarists]]*
 * *[[Process]]*
 * *[[Racket]]*
+* *[[Reform School for Wayward Girls]]*
 * *[[Rock]]*
 * *[[The Sandbox]]* (Performed, Directed "Bloody Work")
 * *[[Seance]]*
@@ -74,6 +76,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Strange Worlds]]*
 * *[[Theatresports]]*
 * *[[This American Live]]* (Segment)
+* ''[[The International Improv Experience]]
 * *[[The Tribunal]]* (Performed and directed)
 * *[[The Violet Underbelly]]*
 * *[[Whirled News Tonight]]*
