@@ -115,7 +115,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 ** With *[[The Black Vault]]*, [[The Escorts]], *[[False Matters]]*, *[[Live Nude Improv]]*, *[[Strange Worlds]]*, and *[[The Tribunal]]*
 * The 2013 Unscripted New York Festival
 ** With *[[Strange Worlds]]*
-* The 2013 Alaska State Improv Festival
+* The 2014 Alaska State Improv Festival
 ** With *[[The Black Vault]]* and *[[Strange Worlds]]*
 
 
