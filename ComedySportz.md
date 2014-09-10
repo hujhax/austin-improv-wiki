@@ -102,6 +102,7 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [[Melissa Cathcart]]
 * [[Michael Brockman]]
 * [[Michael Raffety]]
+* [[Monte Bingham]]
 * [[Murray Harvel]]
 * [[Owen Egerton]]
 * [[Quin Arbeitman]]
