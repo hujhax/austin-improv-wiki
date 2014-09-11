@@ -19,6 +19,7 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 
 ## Media
 ### Videos
+* [https://vimeo.com/105811931 09/07/2014 show] in The Weekender
 * [http://vimeo.com/90457615 03/27/14 show] at *[[Free Fringe]]*.
 ### Photos
 ### Press/Audition Blurbs
@@ -39,7 +40,7 @@ Finally Dungeon Masters is a montage/narrative in which Austin/Austin fill out a
 
 ## More Information
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
-* Show Count: 4
+* Show Count: 5 (as of 9/7/2014)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
