@@ -38,6 +38,7 @@ He is also a musician and has played for [[I Love You So Much]] with the band Ti
 * *[[Not This American Life]]*
 * *[[Breaking Beckett]]*
 * *[[Trust No One]]* (Assistant Director)
+* *[[Risen]]*
 
 ## Festivals
 * The Alaska State Improv Festival 2014 (Juneau, AK)
