@@ -18,7 +18,8 @@ In ancient Egypt the sorceress Jillatep first heard the stirrings of improv insp
 ## Shows
 * *[[Camp Madeupponathaspotta]]*
 * *[[History Under the Influence]]*
-* [[Hurly Burly]] (under a pseudonym)
+* "[[Hurly Burly]]" (under a pseudonym)
+* "[[History Under the Influence]]
 
 [[Category/Performers|Summar]]
 [[Category/Teachers|Summar]]
