@@ -39,6 +39,7 @@ The first improv show he ever saw was *[[After School Improv]]*.
 * [[Ka-Baam!!]] (tech)
 * [[Maestro]] (performer & tech)
 * [[Manhattan Stories]] (technical director)
+* [[Louder Than Words]] (technical director)
 * [[The Sci-Fi Comedy Double Feature]] (tech)
 * [[Spirited]] (tech)
 * [[Start Trekkin']] (technical director)
