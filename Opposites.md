@@ -10,7 +10,7 @@
 **Opposites** is a long-form improv duo.
 
 ## History
-Opposites first performed on March 24, 2010 at [[The New Movement Theater]] when it was located on Rosewood.
+Opposites first performed on March 24, 2011 at [[The New Movement Theater]] when it was located on Rosewood.
 
 Currently, the duo performs every Wednesday at 8:00 pm at [[The New Movement Theater]].
 
