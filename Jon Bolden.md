@@ -5,7 +5,7 @@
 |Years	=	2007-Present
 }}
 
-Jon Bolden is an improv performer, director, and photographer who works primarily at [[The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
+Jon Bolden is an improv performer, instructor, director, and photographer who works primarily at [[The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
 
 ## Teaching
 Jon teaches all levels at [[The Hideout Theatre]]. In the fall of 2014, he will being teaching *Introduction to Improv* and *Improv for Actors* at the State Theater for Acting. Jon and [[Roy Janik]] have developed a workshop series on being positive called *The Power of Positivity*.
