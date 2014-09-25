@@ -48,6 +48,8 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[David Ronn]]          (May 2013-Present)
 * [[Megan Venable]]       (Sep 2013-Present)
 * [[Luke Wallens]]
+* [[Nicole Oliver]]
+* [[Aspen Webster]]
 
 ### Touring
 * [[Jessica Arjet]]
