@@ -14,6 +14,9 @@ Here is [[Jon Bolden]]'s explanation of the name's origin:<blockquote>Roy and I 
 
 Squirrel Buddies attended the Alaska Improv Festival in 2013.
 
+## Positivity Workshops
+Roy and Jon developed a series of exercises based on positivity and connection. These exercises are taught in a series of workshop called "The Power of Positivity". They have been taught in Austin and Oklahoma City.
+
 ## More Information
 * [http://www.squirrelbuddies.com The Squirrel Buddies home page.]
 
