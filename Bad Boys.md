@@ -12,7 +12,9 @@
 ## Summary
 Bad Boys have been performing since July of 2010. Bad Boys was originally formed by [[Danny Catlow]], [[Adam Trabka]], [[Byron Brown]] and [[Brett Tribe]] to compete in [[Cagematch]] while they were students at the [[ColdTowne Conservatory]]. They decided to continue performing together after winning that tournament.
 
-In late 2012 they added two members, [[Ed Reed]] and [[Sam Malcolm]]. 
+[[Danny Catlow]] and [[Adam Trabka]] have since moved to other cities in the U.S. but are still considered full members of the ensemble.
+
+In late 2012 they added two members, [[Ed Reed]] and [[Sam Malcolm]]. In August 2014, they added [[Jon Bolden]].
 
 Their initial format involved interviewing an audience member as inspiration for a montage to follow, but their latent awkwardness made this uncomfortable for everyone. They quickly switched to opening with an Invocation, followed by a stream of consciousness set of scenes that lands somewhere on the spectrum between a Harold and one act play.
 
