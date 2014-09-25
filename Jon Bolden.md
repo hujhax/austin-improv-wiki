@@ -14,6 +14,7 @@ Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He
 
 ## Troupes
 * [[The Big Bash]]
+* [[Bad Boys]]
 * [[Blink]]
 * [[The Dukes of Bedside Manor]]
 * [[Squirrel Buddies]]
