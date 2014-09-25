@@ -27,12 +27,14 @@ Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He
 * *[[After School Improv]]*
 * *[[The Andersons]]*
 * *[[Austin Secrets]]*
+* *[[Camp Madeupponaspotta]] (Director)*
 * *[[Charles Dickens Unleashed]]*
 * *[[False Matters]]*
 * *[[Heist]]*
 * *[[Lola]]* (tech)
 * *[[Process]]*
 * *[[Manhattan Stories]]* (Performed and Directed)
+* *[[Nothing and Everything]]* (Director)
 * *[[The New Game Project]]*
 * *[[TheatreSports (mainstage run)|Theatresports]]*
 
