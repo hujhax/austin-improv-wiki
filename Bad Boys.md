@@ -1,7 +1,8 @@
 {{Infobox Troupe
 |Name	=	Bad Boys
 |Picture=    Bad Boys Pic.jpg
-|Cast	=	{{Unbulleted list | [[Adam Trabka]] | [[Brett Tribe]] | [[Byron Brown]] | [[Danny Catlow]] | [[Ed Reed]] | [[Sam Malcom]]}}
+|Cast	=	{{Unbulleted list |  [[Brett Tribe]] | [[Byron Brown]] |  [[Ed Reed]] | [[Jon Bolden]] | [[Sam Malcom]]}}
+|Previous Members	=	{{Unbulleted list | [[Adam Trabka]] | [[Danny Catlow]]]}}
 |Years	=		2010-Present
 }}
 
