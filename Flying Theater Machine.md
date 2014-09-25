@@ -10,7 +10,7 @@
 **Flying Theater Machine** is the Hideout's weekly improv show for kids.
 
 ## Summary
-Flying Theater Machine happens every Sunday afternoon at 2pm.  Tickets are $7.
+Flying Theater Machine happens every Sunday afternoon at 2pm.  Tickets are $5.
 
 The format of the show changes regularly (see below), but always emphasizes audience involvement and G-rated antics.
 
