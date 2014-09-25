@@ -21,6 +21,8 @@ Roy and Jon developed a series of exercises based on positivity and connection. 
 * [http://www.squirrelbuddies.com The Squirrel Buddies home page.]
 
 ## Media
+### Press
+* [http://www.examiner.com/article/squirrel-buddies-what-s-right-about-austin-improv Review of 6/27/13 show. Examiner.com]
 ### Videos
 * [http://vimeo.com/40801624 Video of their 4/19/12 show] at the *[[Free Fringe]]*.
 * [http://vimeo.com/62426968 Video of their 7/22/12 show] at *[[The Weekender]]*.
