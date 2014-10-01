@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	The Knuckleball Now
 |Picture =     The Knuckleball Now.jpg
-|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Craig Kotfas]] | [[Deano Jones]] | [[Michael Joplin]] }}
+|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Craig Kotfas]] | [[Deano Jones]] | [[Michael Joplin]] | [[Lee Eddy]] }}
 |Years	=		2005-Present
 }}
 
@@ -19,12 +19,12 @@ Here is [[Mike D'Alonzo]]'s explanation of the name's origin:<blockquote><p>The 
 
 <p>Cut to a couple days later. We made a list of names for our new troupe, and the only word that appeared on everyone's list was "knuckleball." We knew it was meant to be, but then, we couldn't figure out what to do with it. Modig sort of came up with "The Knuckelball Now" as a double entendre to say 1. this is a weird time we're living in (and it was) and 2. our troupe will be completely different in our approach (which it was). The name stuck, and it gave Craigy an excellent opportunity to do a whole lot of baseball-related promotion, which lasted a few years.</p></blockquote>
 
+They have appeared in every [[Out of Bounds Comedy Festival]] from 2005 to 2014.
 
-They have appeared in every [[Out of Bounds Comedy Festival]] from 2005 to 2013.
+In 2014 Lee Eddy, after a long absence, re-joined The Knuckleball Now. 
 
 ### Former Members
 * [[David Modigliani]] (founder)
-* [[Lee Eddy]]
 * [[Mike D'Alonzo]] (founder)
 * [[Mike Dolan]] (founder)
 
