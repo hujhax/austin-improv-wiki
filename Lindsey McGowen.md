@@ -17,10 +17,10 @@ Since moving to Austin in early 2014, she immediately jumped into the local impr
 Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [http://vimeo.com/100491197 Synesthesia].
 
 ## Shows
-* *[[History Under the Influence]]* (tech)
+* *[[History Under the Influence]]* (light/sound tech)
 * *[[Hurly Burly]]* (sound tech)
-* *[[Pick Your Own Path]]* (tech)
-* *[[Theatresports]]* (2014 run) (tech)
+* *[[Pick Your Own Path]]* (light/sound tech)
+* *[[Theatresports]]* (2014 run) (light/sound tech)
 * *[[The International Improv Experience]]* (light tech)
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Nothing and Everything]]* (stage manager/props mistress)
