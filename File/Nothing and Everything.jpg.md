@@ -1,7 +1,8 @@
-## Summary
-Rudimentary preview image for *[[Nothing and Everything]]*, taken from [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule the Hideout's 2014 season preview].
+Publicity photo for *[[Nothing and Everything]]*.
 
-Art by [[Kaci Beeler]].
+Photo (of cast members on the grounds of the [[Wikipedia - Elisabet Ney Museum|Elisabet Ney Museum]]) by [[Jon Bolden]].
+
+Art by [[Kaci Beeler]] and [[Jon Bolden]].
 
 ## Licensing
 {{AIC-Wiki-only license}}
