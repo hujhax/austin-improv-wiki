@@ -33,9 +33,9 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 * *[[Ka-Baam!!]]*
 * *[[Live TV Tuesdays -  Buffy]]*
 * *[[More Than Words]]*
-* *[[Key Party]]* [director]
+* *[[Key Party]]* (director, performer)
 * *[[Racket]]* (director, performer)
-* *[[The Z Monologues]]*
+* *[[The Z Monologues]]* (director, performer)
 * *[[Spirited]]*
 * *[[Risen]]* (director)
 
