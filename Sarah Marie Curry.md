@@ -33,11 +33,11 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 * *[[Ka-Baam!!]]*
 * *[[Live TV Tuesdays -  Buffy]]*
 * *[[More Than Words]]*
-* "[[Key Party]]"
+* *[[Key Party]]* [director]
 * *[[Racket]]* (director, performer)
-* "[[The Z Monologues]]"
+* *[[The Z Monologues]]*
 * *[[Spirited]]*
-* "[[Risen]]" (director)
+* *[[Risen]]* (director)
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2207805 Interview] with Sarah Marie on *[[The Theft Forum]]*.
