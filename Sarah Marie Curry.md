@@ -5,7 +5,7 @@
 |Years	=	2008-Present
 }}
 
-**Sarah Marie Curry** is an actor, theater manager, improviser, and improv teacher.
+**Sarah Marie Curry** is an actor, theater manager, improviser, improv teacher and director.
 
 ## History
 Sarah Marie moved to Austin Texas in November of 2007 with the intention of expanding her abilities as an actress, and to pursue her passion for theatre in any way possible. She met  [[Peter Rogers]], [[Andy Crouch]] and [[Les McGehee]] while working backstage as a costume mistress for Austin Shakespeare's 2008 production of *Much Ado About Nothing*. It was during this time that she first heard of the concept of improv, and was given [[Les McGehee]]'s book *Plays Well With Others*. After taking acting classes with [[The State Theater]], Sarah Marie saw an ad for [[Merlin Works]] and signed up for [[Shana Merlin]]'s 101 class. ([[Shannon McCormick]] was Shana's TA at the time.) She has since had the honor of playing in numerous improv theaters in Austin and hopes to continue her journey for years to come.
@@ -23,6 +23,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 * [[Girls Girls Girls]] 
 * [[Improv for Evil]]
 * [[Girl Embassy World Team]]
+* [[Cascade]]
 
 ## Shows
 * *[[Dusk]]*
@@ -32,8 +33,11 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 * *[[Ka-Baam!!]]*
 * *[[Live TV Tuesdays -  Buffy]]*
 * *[[More Than Words]]*
+* "[[Key Party]]"
 * *[[Racket]]* (director, performer)
+* "[[The Z Monologues]]"
 * *[[Spirited]]*
+* "[[Risen]]" (director)
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2207805 Interview] with Sarah Marie on *[[The Theft Forum]]*.
