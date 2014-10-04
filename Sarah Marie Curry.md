@@ -40,3 +40,4 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 
 [[Category/Performers|Curry]]
 [[Category/Teachers|Curry]]
+[[Category/Directors|Curry]]
