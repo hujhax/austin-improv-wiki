@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Sarah Marie Curry	
-|Picture =	SarahMarie.jpg
+|Picture =	ShowcaseTIT.png
 |Theater=       [[The Institution Theater]]
 |Years	=	2008-Present
 }}
