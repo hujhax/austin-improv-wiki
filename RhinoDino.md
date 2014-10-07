@@ -5,8 +5,6 @@
 |Past Members = {{Unbulleted list|[[Colin Bates]]}}
 |Years = 2012-Present
 }}
-
-
 **RhinoDino** is an improv troupe that focuses on short-form improv and modifying existing games to make them more interesting.
 
 ## History
