@@ -15,7 +15,7 @@ The troupe was initially conceptualized sometime in 2011 by good friends [[Quinn
 ## Format
 RhinoDino primarily performs short-form improv, with a specialization in naive games.  RhinoDino currently has a show at [[Salvage Vanguard Theater]] on the fourth Friday of every month at 10PM.  RhinoDino has also performed at [[The Hideout Theatre]], [[The Institution Theater]], [[ColdTowne Theater]], and [[The New Movement]].
 
-# Specialized Games
+#### Specialized Games
 Trinoceros: This is a deconstruction of the naive game 3 Things and has gone through several iterations. There are 3 sections that serve as a ramp up to the audience to the idea of a naive game without much explanation. First phase is to play a round of 3 Things while still being able to use words, similar to Shopkeeper. Second phase is a normal round of 3 Things. Last round has undergone the most changes ranging from super hard restrictions placed on the players (lights out, no moving, etc...) to super hard suggestions ("existentialism", "Grover Cleveland", etc... )
 
 ## Media
