@@ -7,7 +7,8 @@ This template lists standard, useful information about an improv troupe.
 |Picture	=
 |Years	=		
 |Director	=		
-|Cast	=		
+|Cast	        =
+|Past Members =		
 |Tech	=		
 |Crew	=		
 }}
@@ -27,6 +28,8 @@ This template lists standard, useful information about an improv troupe.
 | *Directed By*     || The director of the troupe (optional). To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
 |-
 | *Cast*           || The stage performers in the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
+|-
+| *Past Members*           || The past members stage, technical, and backstage people in the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
 |-
 | *Tech*           || The technical improvisors in the troupe (optional). To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
 |-
@@ -57,6 +60,11 @@ This template lists standard, useful information about an improv troupe.
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{{Cast|Unknown}}}</td>
+		</tr>
+|}}
+		<tr class="">
+			<th class="category-header" scope="row">Past Members</th>
+			<td class="category">{{{Past Members|Unknown}}}</td>
 		</tr>
 {{#if: {{{Tech|}}} |
 		<tr class="">
