@@ -25,6 +25,7 @@ In February of 2014 The Starborn headlined [[The Threefer]] at [[The Hideout The
 ## Media
 ### Videos
 *[https://vimeo.com/106635786 Video of their OOB show at The State] from 9/01/2014
+*[https://vimeo.com/108298992 Video of their OOB show at The Hideout Theatre] from 8/27/2014
 * [https://vimeo.com/99104898 Video of their TheatreSports bout vs The Fitzgeralds] from 05/31/2014.
 * [https://vimeo.com/97889203 Video of their 8th performance] from 05/09/2014.
 ** [http://vimeo.com/97880422 Another video] of the same show.
