@@ -1,5 +1,6 @@
 {{Infobox Show
-|Name = Risen	
+|Name = Risen				
+|Picture	=	Risen.jpg
 |Theater = [[The Institution Theater]]
 |Director =	[[Sarah Marie Curry]]
 |Cast =	{{Unbulleted list | [[Adam Mengesha]] | [[Cat Drago]] | [[Clifton Highfield]] | [[Heidi Penix]] | [[Kareem Badr]] | [[Katie Dahm]] | [[Kiersten Cecelia]] | [[Leng Wong]] | [[Ryan Hill]] | [[Trey Stoker]] }}
