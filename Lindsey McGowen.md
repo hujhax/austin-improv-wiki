@@ -14,7 +14,7 @@ Lindsey has an expensive piece of paper that says she knows stuff about technica
 Since moving to Austin in early 2014, she immediately jumped into the local improv scene and has been running tech for shows at both [[The Hideout Theatre]] and [[The Institution Theater]]. She specializes in scoring and sound effects.
 
 
-Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [http://vimeo.com/100491197 Synesthesia].
+Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [http://vimeo.com/100491197 Synesthesia] and as a guest musician with [[Indigo Shift]].
 
 ## Shows
 * *[[History Under the Influence]]* (light/sound tech)
