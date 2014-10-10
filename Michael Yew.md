@@ -15,6 +15,7 @@ Michael is also a technical improvisor for mainstage shows such as *[[Strange Wo
 * *[[Manhattan Stories]]* *(tech)*
 * *[[Nothing and Everything]]* *(tech)*
 * *[[Process]]* *(tech)*
+* "[[The Professor]]" "(tech)"
 * *[[Strange Worlds]]* *(tech)*
 * *[[Trust No One]]* *(tech)*
 * *[[The Violet Underbelly]]* *(tech)*
