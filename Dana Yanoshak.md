@@ -10,7 +10,8 @@
 ## Troupes
 * [[Apocalypse (troupe)|Apocalypse]]
 * [[Bedfellows]]
-* [[My Best Fiend]] (Guest Appearance as Marlene Dietrich) 
+* [[My Best Fiend]] (Guest Appearance as Marlene Dietrich)
+* [[Pick Your Own Path]] 
 * [[Senshi Sokkyo]]
 
 ## Shows
