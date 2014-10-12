@@ -12,7 +12,7 @@
 * [[Bedfellows]]
 * [[My Best Fiend]] (Guest Appearance as Marlene Dietrich)
 * [[Pick Your Own Path]] 
-* [[Senshi Sokkyo]]
+* [[Senshi Sokyo]]
 
 ## Shows
 * *[[The Derby]]*
