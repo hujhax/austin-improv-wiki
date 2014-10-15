@@ -1083,7 +1083,7 @@ Stories told of less than successful experiences of people who have used Ok Cupi
 #### Dinosaur Scientist Conference Room ([[Mitchell Deane]])
 Dinosaur scientists discuss the upcoming meteor crisis and how to combat the upcoming crisis using dinotechnology.
 
-### January 9, 2014
+### January 9, 2014 (the 88th show)
 #### Chevy Nova ([[Alex Baia]])
 A whole bunch of scenes in a whole bunch of cars. Each unique combination of improvisers and positions determines what scene we're currently in. A confusing and delightful automotive experience.
 
@@ -1093,7 +1093,7 @@ Deep in a transcendental meditation, filmmaker David Lynch realizes that history
 #### [[Jessica Arjet]] and [[Sarah Marie Curry]]
 Headliners, presenting "Animal Farm".
 
-### January 16, 2014
+### January 16, 2014 (the 89th show)
 #### Generations ([[In Our Prime]])
 The Generations format follows the lives of our characters from childhood then teens and twenties then thirties and forties then on well past their prime.
 
@@ -1105,13 +1105,13 @@ The Generations format follows the lives of our characters from childhood then t
 
 PLUS, the first 30 people in the theater get a free Broad City t-shirt.
 
-### January 23, 2014
+### January 23, 2014 (the 90th show)
 #### So Long, [[Taylor Overstreet]]
 [[Taylor Overstreet]] is moving away from our fair city (to Chicago!), and we're sending her off in style with a *Free Fringe* dedicated to her.
 
 Come wish her well and say goodbye. And if you've never seen her perform before, now is your last chance!
 
-### January 30, 2014
+### January 30, 2014 (the 91st show)
 #### Theatresports Pregame Warmup Explosion!
 In February we're sending three representatives (Quinn, Lacy, and Bridget) from The Hideout's cast of *[[Theatresports]]* to compete in the Vancouver Theatresports League's 26th Annual Massacre and Festival. 
 
@@ -1124,7 +1124,7 @@ So come watch some Theatresports battles in the *Free Fringe* and wish our champ
 #### [[Your Dad's Friends]]
 Headliners
 
-### February 6, 2014
+### February 6, 2014 (also the 91st show [?])
 #### Theatresports Pregame Warmup Explosion!
 In February we're sending three representatives (Quinn, Lacy, and Bridget) from The Hideout's cast of *[[Theatresports]]* to compete in the Vancouver Theatresports League's 26th Annual Massacre and Festival. 
 
@@ -1137,7 +1137,7 @@ So come watch some Theatresports battles in the *Free Fringe* and wish our champ
 #### [[Jessica Arjet]] and [[Sarah Marie Curry]]
 Headliners, presenting "Animal Farm".
 
-### February 13, 2014
+### February 13, 2014 (the 92nd show)
 #### The Cutest Show EVER ([[Luke Wallens]])
 The cutest improvisers doing the cutest improv. What does that mean? It's a mystery. *Free Fringe*!
 
@@ -1149,23 +1149,375 @@ The Rat Pack: In their day they were the epitome of cool... always collected, cl
 #### [[Jessica Arjet]] and [[Andrew Buck]]
 Headliners
 
-### March 20, 2014
+### February 20, 2014 (the 97th show)
+#### [[History Under the Influence|Drunk History Improv]] ([[Kevin Miller]])
+Kevin Miller gets really drunk and relates tales of true history. And we see some improv about it!
+
+#### #PigPics LIVE (Jake)
+"Based on audience suggestion, I will take my big old sharpie and crudely draw crudely immature animal pictures on my legal pad. Once the picture is drawn, I will show the audience while I or my cast tells the story of that animal. Or I/we will share an improvised poem about that animal."
+
+#### [[Bedfellows]]
+Headliners
+
 #### Media
 * [http://vimeo.com/89691491 Video] by [[Peter Rogers]] of "History Under the Influence".
 * [http://www.facebook.com/MadelineChauvin/media_set?set=a.10104347079764180.1073741836.7944448&type=3 Photoset] by [[Jo Chauvin]] of "Pig Pics".
 
-### April 17, 2014
+### February 27, 2014 (the 98th show)
+#### [[Out of Bounds]] Submission Video Party
+Submissions for the Out of Bounds Comedy Festival are coming up, in order to submit, an improv troupe needs a submission video. So we're opening up the Free Fringe to allow four groups to film their shows for submission purposes.
+
+Those groups are all fantastic, so it works out!
+
+They are:
+* *[[Austin-Austin]]*
+* *[[Bad Font]]*
+* *[[Ball&Chain]]*
+* *[[Your Dad's Friends]]*
+
+That's four troupes for free! Just be sure and laugh loud for the camera.
+
+### April 3, 2014 (the 99th show)
+#### One Activity ([[Norman Tran]])
+How many different scenes can start with digging, bowling, or some other activity? Only one way to find out. In One activity, we'll get a suggestion for an activity, and every scene will start with that.
+
+#### Liar, Liar, Pants on Fire! ([[Lacy Shawn]])
+Secrets are revealed! But WHOSE secrets?? It's up to the audience to figure out which secrets match up with which performer.
+
+#### [[Jessica Arjet]] & [[Kareem Badr]]
+Headliners
+
+### April 17, 2014 (the 100th show)
+#### The [[Franz & Dave]] *[[Maestro]]*
+How can this be? It seems like only yesterday we started the Free Fringe, but this Thursday is our 100th show!
+
+To celebrate, we're pulling out all the crazy, and letting Franz Kafka and David Lynch direct a Maestro.
+
+How crazy, you ask?
+
+This crazy:
+
+(See video promo below)
+
+Starring the following players:
+* [[Aaron Saenz]]
+* [[Andreas Fabis]]
+* [[Cat Drago]]
+* [[Heidi Noelle]]
+* [[Jeff Britt]]
+* [[Jessica Arjet]]
+* [[Kareem Badr]]
+* [[Lindsey Louise]]
+* [[Lisa Jackson]]
+* [[Peter Rogers]]
+* [[Ruby Willmann]]
+
 #### Media
+* [http://youtu.be/YyIWHBdDI9s Promo] for the show.
 * [http://vimeo.com/92380406 Video] by [[Peter Rogers]] of the "Franz & Dave *[[Maestro]]*".
 
-### May 8, 2014
+### April 24, 2014 (the 101st show)
+#### Pet Peeves ([[Justin Davis]])
+Pet peeves are discussed and faced head on in this show.
+
+#### A Boy and His Bear ([[Kevin Miller]])
+The adventures of a little boy ([[Mitchell Deane]]) and his bear ([[Kevin Miller]])
+
+#### Weird Camp! ([[Jon Bolden]])
+The cast of *[[Camp Madeupponaspota]]* blows off steam by presenting a story set an oddball summer camp picked by the audience.
+
+### May 1, 2014 (the 102nd show)
+#### Therapy Thursday ([[Lindsay Hejl]])
+Small-town therapy gone awry. [[Chris Albano]] and [[Lindsay Hejl]] speak in one voice to spout off advice to townspeople, and we see the hilarious consequences.
+
+#### OOB Picture Show
+Headliners
+
+### May 8, 2014 (the 103rd show)
+#### Crossover Creek ([[Ripley Adams]])
+Loosely inspired by *[[Fandom]]* and Ripley's own love of crossovers, performers will each take a different character (with help from the audience) from differing canons spanning movies, books, television shows, comic books, and video games, and explore interpersonal dynamics between these characters in mundane settings. What would happen if Aragorn and Captain Jack Sparrow wound up at the laundromat together? Batman ordering McDonald's from Katniss Everdeen? Our purpose is to explore these vexing questions.
+
+#### Ever After High ([[Cortney DeAngelo]])
+The sons and daughters of fairytale characters attending high school together. It's like Grimm meets Carrie meets Clueless.
+
+#### [[Jessica Arjet]] and [[Karen Jane DeWitt]]
+Headliners
+
 #### Media
 * [http://cwcreations.smugmug.com/Improv-2014/Free-Fringe/20140508/Happily-Ever-After-High Photoset] by [[Chad Wellington]] of "Happily Ever After High"
 
-### July 10, 2014
+### May 15, 2014 (the 104th show)
+#### True Story ([[Sunaina Suhag]])
+The idea is a two person improv troupe (Sunaina and Heather: "Fifth Friends") perform a collection of scenes with Occasional Truth as the running thread throughout the show. One audience member will be given a bell at the beginning of the show, and asked to sound it whenever he or she wants us to share an occasional truth. This truth will be more of a short monologue or story ("True story") instead of a one-line truth.
+
+#### Stupid Service ([[Ryan Hill]])
+What are Secret Service Agents really talking about on their headsets? This idea is born from a group of us waiting around in costume (black suits) at *[[Trust No One]]* rehearsal and doing scenes as idiotic Secret Service Agents. The President needs protection, we're talking about lunch, or analyzing each other's dreams. And there's that one guy who takes things so seriously too.
+
+#### [[Jessica Arjet]], [[Chuy Zarate]], and [[Tyler Bryce]]
+Headliners
+
+### May 22, 2014 (the 105th show)
+#### Laura Ingalls/Aliens ([[Paul Normandin]])
+Laura Ingalls of Little House on the Prairie has many fans in town. But fewer of them are boys. Many of the SciFi and Fantasy Geeks are boys and many of them only want to play where there are monsters! So how do we mash those ideas? Simple, we have Laura Ingalls Fans on stage with a bunch of SciFi Nerds. Costumes and Characters from each can play out in separate scenes until they eventually converge! But I am playing with the idea of the whole thing being dubbed! Ingalls fans dubbing the Nerds and vice versa until the worlds collide, then all hell breaks loose. Nerds speak for Nerds or Nerds play Ingalls fans! Who Can Say!!!
+
+#### Joe, Betty, and Jan ([[Lindsy Hejl]])
+We all play our grandparents. Maybe starts out as a la ronde type thing in the beginning to meet each of us with different people.
+
+#### [[Jessica Arjet]] & [[Mason Pitluk]]
+Headliners
+
+### May 29, 2014 (the 106th show)
+#### Spaceteam Live! ([[Quinn Buckner]])
+Do you know the game SpaceTeam, for iOS? If you do, you know enough to drop everything and come to this show, which is the live version on stage. If you don't, you will witness pure, manic insanity.
+
+#### Irrefutable Buddies
+The two lovable duos [[Squirrel Buddies]] and [[Irrefutable Baby]] combine into one Quatro for one night only.
+
+#### [[Jessica Arjet]] and [[Jo Chauvin]]
+Headliners
+
+### June 5, 2014 (the 107th show)
+#### TRIO ([[Karen Jane DeWitt]])
+Dolly Parton, Emmylou Harris and Linda Ronstadt (the famous supergroup known as TRIO) are overdue for a reunion, having released albums in '87 and '99. They decided to reunite for ONE NIGHT ONLY at the Hideout Theatre in good ol' Austin, Texas. It is the Live Music Capital of the World, after all.
+
+These three ladies are gonna tell some stories about their time on the road together, and even sing some improvised songs from their new album. It's gonna be a lovely ol' time, so gather round and don't forget to bring your whiskey and lipstick.
+
+#### [[Jessica Arjet]]'s Birthday Show
+Headliner
+
+### June 12, 2014 (the 108th show)
+#### The Return of [[Erin Molson]]
+Erin Molson is back in Austin! Hooray! Tonight she returns to the improv stage doing a duo show with [[Kareem Badr]]!
+
+#### The Exit of [[Aden Kirschner|Aden]]
+Aden Kirschner, on the other hand, is moving away to Portland! Boo! I mean, yay for her, but boo for us, you know? But let's give her one last hoorah before she goes:
+
+Aden says:
+
+"While it's true that I am not leaving until after the improv marathon, I wanted to have a show where I could show my appreciation for everything that Austin, TX has done for me.
+
+The OFFICIAL cast includes:
+* [[Aden Kirschner]]
+* [[Ammon Taylor]]
+* [[Andrew Buck]]
+* [[Erin Molson]]
+* [[Halyn Lee Erickson]]
+* [[Jessica Arjet]]
+* [[Jordan T. Maxwell]]
+* [[Joseph Dailey]]
+* [[Justin Davis]]
+* [[Kacey Samiee]]
+* [[Kaci Danger]]
+* [[Kareem Badr]]
+* [[Karen Jane DeWitt]]
+* [[Michael Joplin]]
+* [[Ryan Austin]]
+* [[Troy A. Miller]]
+and
+[[Girls Girls Girls]]
+
+the UNOFFICIAL cast is the rest of you. Please come. It's the Free Fringe. Anything could happen!!!"
+
+### June 19th, 2014 (the 109th show)
+#### 20 Characters in 20 Minutes ([[Luke Wallens]])
+Three awesome improvisers will be playing a different character each minuteÂ for 20min. When the lights change and/or bell dings, it's time for a new character! Will they survive? Or will they not know their names by the end of it? Or both? Come find out!
+
+#### It's a Quarter to 3:00 ([[Chelley Pyatt]])
+A slice of life of a jazz singer down on her luck. It's set in the bar she typically sings at. There will be some old jazz standards with some musical improv peppered throughout.
+
+#### Quadrupeds ([[Jessica Arjet]])
+Headliner
+
+### June 26, 2014 (the 110th show)
+#### Something by Bridget ([[Bridget Brewer]])
+Bridget does something.
+
+#### Wonder Twins ([[Ruby Willmann]])
+Ruby and [[Troy Miller|Troy]] take on the mantle of playing The Wonder Twins. You know...
+
+The Wonder Twins are the most ridiculous super twins in the world. One can only transform into an animal and one can only transform into a type of water. So it's like....."Form of Octopus! Form of Bucket of Water!"
+
+#### [[Your Dad's Friends]]
+Headliners
+
+### July 3, 2014 (the 111th show)
+#### Goodbye [[Tim Sampson]] ([[Andrew Buck]])
+So long, cruel world. Improviser Tim Sampson is leaving Austin to do an internship at The Onion in Chicago! We're sending him off with a great "Hoorah!"
+
+#### [[No Frills]] Presents "Bells & Whistles" ([[Justin Davis]])
+[[No Frills]] is made up of [[Jeanette Jones]], [[Jessie Pascarelli]], [[Megan Venable]], and [[Ash Nunley]]. The four of them created a name for a troupe called "Bells & Whistles" consisting of their significant, which are [[Justin Davis]], [[Dean Palm]], and [[Andrew Robinson]].
+
+First, No Frills plays, and then Bells & Whistles plays trying to do as opposite of a show as possible.
+
+So, if No Frills does a show about architects building a new university, Bells and Whistles could do a show about a demolishing crew taking down a football stadium.
+
+#### [[Flying Theater Machine]] presents "Wonderland"
+Ordinarily improv for kids, The Flying Theater Machine takes their recent Wonderland show and cuts loose with it in the Fringe.
+
+### July 10, 2014 (the 112th show)
+#### Celebrity Improv 101 ([[Caeriel Crestin]])
+"We gather a bunch of imps who can do decent celebrity impressions. These celebrities have all enrolled in a Level One improv class. We get to watch. ([[Ruby Willmann|Ruby]] had a dream where Bruce Willis and John Travolta showed up to a class she was teaching.)"
+
+#### Synesthesia ([[Lindsey McGowen]])
+"So, I have a looping pedal, and a couple of vocal effects pedals. I also have sound > color synesthesia, which means that sounds have particular color and sensory inputs for me.
+
+I would like to improvise soundscapes (a la [[Wikipedia - Sigur Ros|Sigur Ros]]) based on sense memories - i.e. memories that have a very strong sensory component.
+
+I'll ask the audience for some sense memory suggestions, and then perform a loopable soundscape based on those suggestions."
+
+#### [[Jessica Arjet]] & [[Sam Schack]]
+Headliners
+
 #### Media
 * Photosets by [[Peter Rogers]]: [http://www.facebook.com/hujhax/media_set?set=a.10152609197312265.1073741850.588952264&type=3 "Synesthesia"], [http://www.facebook.com/hujhax/media_set?set=a.10152609200917265.1073741851.588952264&type=3 "Celebrity Improv 101"], [http://www.facebook.com/hujhax/media_set?set=a.10152609216697265.1073741852.588952264&type=3 Jessica & Sam]
 * Videos by [[Peter Rogers]]:
 ** [http://vimeo.com/100491197 Video] of "Synesthesia".
 ** [http://vimeo.com/100593128 Video] of "Celebrity Improv 101".
 ** [http://vimeo.com/100619377 Video] "Jessica & Sam".
+
+### July 17, 2014 (the 113th show)
+#### Speed Dating with [[Brett Tribe]] ([[Cortney DeAngelo]])
+"Brett Tribe is concerned for his singleness, so I thought we'd set up a speed dating scenario with him as the center point.
+
+I have girls lining up to play, some in character, most straight-forward.
+
+Brett is aware and has explicitly agreed to do this format.
+
+I would interview him for a few minutes at the top of the show in order to introduce him to the audience."
+
+#### All Stars and Me ([[Tim Coyle]])
+"Basically there are a bunch of vets who have been instrumental in my progress, and I would love to have a chance to share the stage with them"
+
+#### [[Jessica Arjet]] & [[Lisa Jackson]]
+Headliners
+
+### July 24, 2014 (the 114th show)
+#### The Mixer ([[Sandra Ybarra]])
+"What would it look like to see a set where you were performing a Harold and twin pillars in the same show with the alphabet game playing in the background of your mind and the words coming out of your mouth. Or to see a narrative turn into a BAT bit with oscar winning moments. What if we mixed them all together with a little bit an an intermission a la living room style and end it on a monologue note until demon voice showed up with scene partners who were clowning.
+
+What if I invited people I never get to play with and to do a set where we play and mixed in the different formats.
+
+What would that look like? What would that feel like? What other combinations are possible that I haven't even thought about? More importantly, could this happen or will it be a happy cluster fuck? I won't know until I try this."
+
+#### Poly-Juice Prov ([[Lindsay Hejl]])
+"A group of us will get on stage and play each other as characters."
+
+#### [[Jessica Arjet]], [[Sam Schak]], [[Jeanette Jones]], [[Jen Kaplan]], and [[Jessie Pascarelli]]
+Headliners
+
+### July 31, 2014 (the 115th show)
+#### Franky and the Face ([[Kareem Badr]])
+It's Kareem's first solo show. Crazy.
+But what is the Face?
+What is it?
+What Face?
+There is no Face.
+
+#### World Peace ([[Michael Ferstenfeld]] and [[Matthew Falkenberg]])
+Wherein a Palestinian and a Jew hug and talk it out till it all makes sense
+
+#### [[Your Dad's Friends]]
+Headliners
+
+### August 7, 2014 (the 116th show)
+#### Everybody Loves Chris
+Everybody in the cast plays a [[Chris Albano]] caricature. This is basically like the scene from *[[Wikipedia - Being John Malkovich|Being John Malkovich]]* where he goes inside of his own brain and it's just a bunch of Malkoviches saying "Malkovich Malkovich. Malkovich Malkovich!"
+
+#### Ceej Character Explosion ([[Ceej Allen]])
+Five Hideout Theatre students/recent graduates (Tim Coyle, Joy Parks, Robert Slack, Kathleen McFerren and Cagney Ortiz) will challenge improv veteran Ceej Allen by playing a variety of characters that he must then play. After running Ceej through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.
+
+#### Arjet Universe
+This is the show where the headliner was billed simply as "Arjet Universe", rather than listing [[Jessica Arjet]]'s guests by name.
+
+### August 14, 2014 (the 117th show)
+#### The Hideout Summer Intensive Showcase
+We are in the midst of the Hideout Summer Intensive. And it's awesome.
+
+Performers from all over the United States (and a few from abroad) are here to learn at The Hideout.
+
+And now we're throwing them into the Fringe.
+
+Projects by Fringe veterans [[Jason Vines]], [[Paul Normandin]], and [[Bridget Brewer]] will all happen.
+
+Paul Normandin will be going an improvised Sitcom, Bridget will be doing something Shark Week Themed, and WHO KNOWS what Jason Vines will be doing.
+
+### August 21, 2014 (the 118th show)
+#### [[Bridget Brewer|Bridget]]'s Going Away Show
+"Friends, buddies, and Austin lovelies! This Thursday, come party with me at The Hideout Theatre at 10 pm as I celebrate possibly some of the best years of my life with 15 awesome improvisers, 2 lovely tech ladies, one badass Tosin on piano, a final show with [[BeauMoMa]], and a coupla PIES. It'll be my last time performing with y'all before I move to Rhode Island on Monday (!!!). I love you all.
+
+I mean it. All of you. You've changed my life in so many important and wonderful ways. And I hope you come so I can hug you and cry on you and tell you how wonderful you are.
+
+Also, Halyn designed this poster. It is my favorite thing ever. The end.
+
+See you Thursday!"
+
+### September 4, 2014 (the 119th show)
+#### Super City Council ([[Peter Rogers]])
+For reasons not worth getting into, a whole bunch of improvisers spent a whole bunch of hours hanging out at an extremely dull City Council meeting last week. So now, we're passing the entertainment onto you. We'll revisit the meeting, but set it in an alternate universe: Fantasy, Sci-Fi, Whimsical? Come and See!
+
+#### Emergency Buddies ([[Jon Bolden]])
+It is absolutely imperative that Squirrel Buddies do a show with British improviser Chris Mead before he leaves Austin tomorrow. So here it is: an emergency show, for buddies.
+
+#### Arjet Universe
+Headliners
+
+### September 11, 2014 (the 120th show)
+#### Doggone ([[Ripley Adams]])
+With help from the audience, performers will be assigned one of 400+ possible dog breeds, whose personality and defining traits they will craft their characters around. Shenanigans ensue in a burst of colorful scenes that follow! Aloof? Loyal? Sensitive? Merry? How different are we from Man's Best Friend, anyway?
+
+#### Forest of Stories ([[Thedward Blevins]])
+A continuous sequence of "I am" declarations.  The players declare themselves and find a place in the tableau and then peel off to do it again as they inspired to do so.  Occasionally, the sequence of tableaus will segue into actual scenes inspired by the tableau.
+
+#### Arjet Universe
+Headliners
+
+### September 18, 2014 (the 121st show)
+#### MITCH Week ([[Mitch Mills]])
+[[Mitch Mills]], [[Mitchell Deane]], and [[Mitchell Shotts]] celebrate MITCH Week by doing a Mitch-only show.
+
+#### Into the Fridge ([[Heidi Rogers]])
+Some people are stuck in a fridge. How? Who knows. Why? Who can say. But we'll learn all about it in this show.
+
+#### Spoiler Alert ([[Patrick Creamer]])
+We see the end of a story first, and then work our way back up from the beginning. It's avant garde non-traditional narrative, y'all!
+
+#### Arjet Universe
+Headliners (guests: [[Aspen Webster]] and [[Haley Alea Erickson]]
+
+### September 25, 2014 (the 122nd show)
+#### Sister Stories ([[Melissa Patterson]])
+"My sister, Nicole Patterson from the Coalition Theater house troupe in Richmond Va, and I have a lot of stories from our lives that we do not agree on. I'd like to have the 2 of us narrate a story from our lives, that the audience will choose. A group of 4-6 improvisers will act out our stories, there should be tons of revisions and edits from the both of us."
+
+#### The Devil Wears ??? ([[Ryan Austin]])
+Ryan is considered one of most well-dressed men in the AIC, but [[David Schwartz]] is quickly claiming that title from him. So why not remove the sartorial decisions from these two titans and see them out of control?
+
+The entirety of both men's wardrobe will be set on stage for two audience members to peruse and select an outfit for each man, however audacious or ridiculous it may be. Ryan and David will change into the outfit selected for them and begin to form a character based off of the clothes. They will then do a series of scenes from these character's' lives.
+
+The clothes really do make the man.
+
+#### Arjet Universe
+Headliners (guest: [[John Ratliff]])
+
+### October 2, 2014 (the 123rd show)
+#### Drama Alert: Improvised Stories of the Emergency Room! ([[Craig McGreggor]])
+"Simple medical based short narrative for those of us with some medical background and those who don't. The hospital setting can be a very fast paced, high pressure environment but can also have its moments of incredible teamwork and bonding of employees/family/patients. This isn't an opportunity to sling fancy medical jargon but rather a moment to tap into emotions we've truly felt and improvise them for an audience. "
+
+#### Two Detectives ([[Brett Tribe]] and [[Ceej Allen]])
+Ceej and I play two detectives in the style of True Detective, but instead of doing crime stuff, we're on a road trip together to do some activity. We converse, lights go up, lights go down, we move to a different part of the stage and/or get out of the car and/or switch places. Pick up the trip at a later time. Suggestion would be a state in the union that isn't Louisiana so we aren't directly mimic-ing the television show.
+
+#### [[Kaci Beeler]] and [[Michael Joplin]]
+Headliners
+
+### October 9, 2014 (the 124th show)
+#### SeussProv ([[Jayme Ramsay]])
+Improvised Doctor Seuss! Probably the best idea ever.
+
+#### Mr. DeMille ([[Ceej Allen]])
+Linda Calgaro (Lady Fingers--and visiting from Australia!), Adriane Shown (Hurly Burly: Improvised Burlesque Stories and Hell and Back Cabaret) and Ceej Allen (Confidence Men, Franz & Dave and My Best Fiend) are ready to set you up for a close-up into cinematic improv.  Sweet cinematography that inspires big characters await you.  Billy Wilder would be proud!
+
+#### Arjet Universe
+Headliners
+
+### October 16, 2014 (the 125th show)
+#### Best of the Free Fringe
+As part of the Hideout's 15-year-anniversary weekend, they presented a special "Best of the Free Fringe" show.
