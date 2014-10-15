@@ -1,4 +1,4 @@
-This **list of *[[Free Fringe]]s*** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 2/13/14.
+This **list of *[[Free Fringe]]s*** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 10/16/14.
 
 ## 2012 Shows
 ### Jan 5, 2012
