@@ -1520,4 +1520,8 @@ Headliners
 
 ### October 16, 2014 (the 125th show)
 #### Best of the Free Fringe
-As part of the Hideout's 15-year-anniversary weekend, they presented a special "Best of the Free Fringe" show.
+As part of the Hideout's 15-year-anniversary weekend, they presented a special "Best of the Free Fringe" show.  It featured best-loved acts from earlier Fringes, as voted on by the AIC:
+* [[List of Free Fringes#The Floor is Lava.21 .28Jason Vines.29|"The Floor is Lava"]]
+* [[List of Free Fringes#Evil Peter Rogers .28Kevin Miller.29|"Evil Peter Rogers"]]
+* [[List of Free Fringes#All Ladies Be Trekkin.27|"All Ladies Be Trekkin'"]]
+* [[List of Free Fringes#Tech Nightmare .28Cindy Page.29|"Tech Nightmare"]]
