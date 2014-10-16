@@ -1518,10 +1518,19 @@ Linda Calgaro (Lady Fingers--and visiting from Australia!), Adriane Shown (Hurly
 #### Arjet Universe
 Headliners
 
-### October 16, 2014 (the 125th show)
-#### Best of the Free Fringe
-As part of the Hideout's 15-year-anniversary weekend, they presented a special "Best of the Free Fringe" show.  It featured best-loved acts from earlier Fringes, as voted on by the AIC:
-* [[List of Free Fringes#The Floor is Lava.21 .28Jason Vines.29|"The Floor is Lava"]]
-* [[List of Free Fringes#Evil Peter Rogers .28Kevin Miller.29|"Evil Peter Rogers"]]
-* [[List of Free Fringes#All Ladies Be Trekkin.27|"All Ladies Be Trekkin'"]]
-* [[List of Free Fringes#Tech Nightmare .28Cindy Page.29|"Tech Nightmare"]]
+### October 16, 2014 (the 125th show): "Best of the Free Fringe"
+As part of the Hideout's 15-year-anniversary weekend, they presented a special "Best of the Free Fringe" show.  It featured best-loved acts from earlier Fringes, as voted on by the AIC.
+
+#### [[List of Free Fringes#The Floor is Lava.21 .28Jason Vines.29|The Floor is Lava]] ([[Jason Vines]])
+This format [[List of Free Fringes#The Floor is Lava.21 .28Jason Vines.29|originally appeared on 1/12/12]], and was exactly what the title implies.
+
+#### [[List of Free Fringes#Evil Peter Rogers .28Kevin Miller.29|Evil Peter Rogers]] ([[Kevin Miller]])
+This format [[List of Free Fringes#Evil Peter Rogers .28Kevin Miller.29|originally appeared on 5/7/12]], and featured affable improvisor [[Peter Rogers]] justifying horrible actions in various scenes.
+
+The cast also included [[Roy Janik]], [[Kevin Miller]], [[Kaci Beeler]], and [[Chuy Zarate]].
+
+#### [[List of Free Fringes#All Ladies Be Trekkin.27|All Ladies Be Trekkin']]
+This format originally appeared on [[List of Free Fringes#All Ladies Be Trekkin.27|3/8/12]], and featured a *[[Start Trekkin']]* story with an all-female cast.
+
+#### [[Tech Nightmare]]
+This was the beloved, recurring Free Fringe format ([[List of Free Fringes#The Triumphant Return of the Tech Nightmare .28Cortney DeAngelo .26 Cindy Page.29|7/19/12]], [[List of Free Fringes#Tech Nightmare .28Cindy Page.29|9/27/12]], [[List of Free Fringes#Tech Nightmare .28Cindy Page.29 2|10/25/12]], and [[List of Free Fringes#Merry Xmas Tech Nightmare .28Cortney DeAngelo.29|12/13/12]]) that features AIC techs inflicting sound- and light-cue madness on the performers onstage.
