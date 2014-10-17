@@ -15,5 +15,6 @@
 
 ## Troupes
 * [[Northward]] (2014-Present)
+* [[Duplex]] (2014-Present)
 
 [[Category/Performers|Tran]]
