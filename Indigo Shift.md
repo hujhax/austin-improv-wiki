@@ -39,6 +39,8 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 
 **Baby Doll** ([[Sarah Marie Curry]])
 
+**Lili** ([[Lindsey McGowen]])
+
 [[Jeremy Sweetlamb]] played without an "in universe" character.
 
 ## Media
