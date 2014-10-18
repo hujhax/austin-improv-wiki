@@ -2,16 +2,18 @@
 |Name	=	BeauMoMa
 |Picture =     BeauMoMa.jpg
 |Cast	=	{{Unbulleted list | [[Bridget Brewer]] | [[Maitland Lederer]] | [[Melissa Patterson]] }}
-|Years	=	2013-Present
+|Years	=	2013-2014
 }}
 
 ## Summary
-**BeauMoMa** is an improv troupe that just wants to have fun.
+**BeauMoMa** was an improv troupe that just wants to have fun.
 
 ## History
 BeauMoMa was formed after Bridget, Maitland, and Melissa completed levels 1-6 at [[The Hideout Theatre]]. 
 
 The name BeauMoMa is a combination of their nicknames.  Bridget "Beau" short for Beauregard, Melissa "Mo" short for MoPatt, and Maitland "Ma" short for Maglight.
+
+The troupe broke up when Bridget moved away to Rhode Island.
 
 ## Media
 ### Videos
