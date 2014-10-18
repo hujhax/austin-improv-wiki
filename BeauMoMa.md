@@ -39,5 +39,4 @@ The troupe broke up when Bridget moved away to Rhode Island.
 * [http://beaumoma.tumblr.com The troupe's Tumblr page.]
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]
