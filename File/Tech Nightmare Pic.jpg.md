@@ -1,6 +1,7 @@
 ## Summary
-A bizarre lighting cue afflicts [[Peter Rogers]], [[Kaci Beeler]], and [[Michael Joplin]] in the holiday edition of the *[[Tech Nightmare]]* on 12/13/12.
+Tech Nightmare crew: [[Cortney De Angelo]], [[Cindy Page]], and [[Lindsey McGowen]] in the "Best of the [[Free Fringe]] edition of the *[[Tech Nightmare]]* on 10/16/14.
 
-Photo by [[Heidi Rogers]], from [http://www.facebook.com/media/set/?set=a.10101796070781630.3377695.7909117&type=1 this photoset].
+Photo by [[Steve Rogers]], from [https://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3 this photoset].
+
 ## Licensing
 {{No license}}
