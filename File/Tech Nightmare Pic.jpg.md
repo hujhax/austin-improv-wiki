@@ -4,4 +4,4 @@ Tech Nightmare crew: [[Cortney DeAngelo]], [[Cindy Page]], and [[Lindsey McGowen
 Photo by [[Steve Rogers]], from [https://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3 this photoset].
 
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
