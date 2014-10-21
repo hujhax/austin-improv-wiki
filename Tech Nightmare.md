@@ -5,7 +5,7 @@
 |Cast=		Varies
 |Director =	{{Unbulleted list | [[Cindy Page]] | [[Cortney DeAngelo]] [[Lindsey McGowen]]}}
 |Run	=	6/3/12
-|Subsequent Runs= 7/19/12, 9/27/12, 10/25/12, 12/13/12
+|Subsequent Runs= 7/19/12, 9/27/12, 10/25/12, 12/13/12, 10/16/14
 }}
 
 ***Tech Nightmare*** is an improv show in which the technical improvisors control the show with bold and often arbitrary sound and light choices.
