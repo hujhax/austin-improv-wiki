@@ -4,7 +4,7 @@
 |Theater = [[The Institution Theater]]
 |Director =	[[Sarah Marie Curry]]
 |Cast =	{{Unbulleted list | [[Adam Mengesha]] | [[Cat Drago]] | [[Clifton Highfield]] | [[Heidi Penix]] | [[Kareem Badr]] | [[Katie Dahm]] | [[Kiersten Cecelia]] | [[Leng Wong]] | [[Ryan Hill]] | [[Trey Stoker]] }}
-|Tech = [[Bryan Curry]] | [[Mark Shoemaker]] | [[Jason Vines]]
+|Tech = {{Unbulleted list | [[Bryan Curry]] | [[Mark Shoemaker]] | [[Jason Vines]]}}
 |Run	=	Sep/Oct 2014
 }}
 
