@@ -1,11 +1,11 @@
 {{Infobox Performer
 |Name	=	Bryan Curry	
-|Picture =	Bryan Curry.png
+|Picture =	Bryan Curry.jpg
 |Theater=       [[The Institution Theater]]
 |Years	=	??-Present
 }}
 
-**Bryan Curry** is an actor, improviser, and technical improviser.
+**Bryan Curry** is an actor, improviser, singer, and technical improviser.
 
 ## History
 ## Shows
