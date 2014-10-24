@@ -23,6 +23,7 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 * *[[Kenjutsu]]*
 * *[[Live TV Tuesdays -  Buffy]]* (Assistant Director)
 * *[[Live TV Tuesdays -  My So-Called Life]]*
+* *[[Live Nude Improv]]*
 * *[[Magna Veritas]]*
 * *[[Not This American Life]]*
 * *[[Only Three Will Survive]]*
