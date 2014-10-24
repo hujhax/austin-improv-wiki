@@ -22,6 +22,22 @@ The host returns to announce a ten-minute intermission.  The host has, by this p
 
 This begins act two, which is an improvised narrative.  The cast improvises the story the audience picked, typically with the six "reform-school girl" improvisors playing those same students throughout, and the other three performers playing every other character in the story.  Often, the narrative includes a montage-style scene where all the girls have to work together to achieve some complicated goal.
 
+## Media
+### Videos
+* [http://vimeo.com/105467462 Video] by [[Peter Rogers]] of the 9/6/14 show.
+* [http://vimeo.com/106088321 Video] by [[Peter Rogers]] of the 9/13/14 show.
+* [http://vimeo.com/106714467 Video] by [[Peter Rogers]] of the 9/20/14 show.
+* [http://vimeo.com/107374343 Video] by [[Peter Rogers]] of the 9/27/14 show.
+* [http://vimeo.com/108695163 Video] by [[Peter Rogers]] of the 10/11/14 show.
+* [http://vimeo.com/109359186 Video] by [[Peter Rogers]] of the 10/18/14 show.
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.799180693478782.1073742076.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/6/14 show.
+* [http://www.facebook.com/media/set/?set=a.10152761474162265.1073741857.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/13/14 show.
+* [http://www.facebook.com/media/set/?set=a.10152791349842265.1073741858.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/27/14 show.
+* [http://www.facebook.com/media/set/?set=a.10152831513107265.1073741859.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/11/14 show.
+* [http://www.facebook.com/media/set/?set=a.826869260709925.1073742093.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/18/14 show.
+
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
 * [http://www.hideouttheatre.com/shows/ReformSchoolforWaywardGirls The show's web page.]
