@@ -72,7 +72,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 ## More Information
 * [http://hujhax.livejournal.com/872048.html Peter's explanation of the best way to video-record improv shows with your iPhone.]
 * [http://tinyurl.com/petersimprovshows A Google calendar of Peter's improv performances.]
-* A song about Peter Rogers composed and recorded by [[Michael Joplin]]: [http://soundcloud.com/manateemann/peter-rogers-just-dont-give-a "Peter Rogers Just Don't Give A Fuck"]
+* A song about Peter Rogers composed and recorded by [[Michael Joplin]]: [http://soundcloud.com/hujhax/peter-rogers-just-dont-give-a-fuck "Peter Rogers Just Don't Give A Fuck"]
 * [[The Hideout Text Adventure|A game Peter wrote about The Hideout Theatre.]]
 
 [[Category/Performers|Rogers]]
