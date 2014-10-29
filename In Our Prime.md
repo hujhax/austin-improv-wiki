@@ -14,7 +14,7 @@ The troupe was briefly named *It'll Come to Us* until the name *In Our Prime* wa
 
 Ryan was a teaching assistant for Hideout Theatre co-owner [[Jessica Arjet]] at the time. When he told her about the troupe she asked if she could play with them. The four rehearsed together once. Ten minutes after a very successful second show with Jessica guesting, the troupe asked her to join permanently.
 
-The troupe has played in the Oklahoma Improv Festival (2012-13), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), [[WaffleFest]] (2012-13), [[Frontera Fest]] (2013-14), and [[The Out of Bounds Comedy Festival]] (2012-13). They played a regular monthly slot in *[[The Free Fringe]]* at [[The Hideout Theatre]] through 2013 and have also performed a month-long [[Threefer]] run there. The troupe's *[[Free Fringe]]* shows tended to be more humorous and less grounded. 
+The troupe has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), the [[WaffleFest]] (2012-13), [[Frontera Fest]] (2013-14), [[The Improvised Play Festival]] (2013-2014), [[Unscripted New York]] (2014) and [[The Out of Bounds Comedy Festival]] (2012-14). They played a regular monthly slot in *[[The Free Fringe]]* at [[The Hideout Theatre]] through 2013 and have also performed a month-long [[Threefer]] run there. The troupe's *[[Free Fringe]]* shows tended to be more humorous and less grounded. 
 
 They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]]. [[Shannon McCormick]] also coached them for several months starting in June of 2013.
 
@@ -69,6 +69,8 @@ Here is [[Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our
 * [http://vimeo.com/80867898 Video] by [[Paul Normandin]] of their 11/21/13 performance in [[WaffleFest 2013]].
 * [http://vimeo.com/80870736 Video] by [[Paul Normandin]] of their 11/25/13 performance at [[ColdTowne Theater]].
 * [http://vimeo.com/91778243 Video] of their show in [[The 2014 Improvised Play Festival]].
+* [http://vimeo.com/105347452 Video] of their show in [[The 2014 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/102503662 Video] of their show in The 2014 Improv Festival Oklahoma.
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
