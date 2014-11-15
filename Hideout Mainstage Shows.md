@@ -129,6 +129,8 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |Sep 2014||Oct 2014||*[[Reform School for Wayward Girls]]*|| [[Kaci Beeler]]|| Yes
 |-
 |Nov 2014||Dec 2014||*[[Nothing and Everything]]*||[[Jon Bolden]]|| Yes
+|-
+|Jan 2015||Feb 2015||*[[Wanderlust]]*||[[Ruby Willmann]], [[Aaron Saenz]]||Yes
 |}
 
 ## Student Mainstage Shows
