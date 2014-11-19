@@ -13,7 +13,7 @@
 ## Show Style
 The show takes place on a rural Russian estate in the 1890s.  The costumes, while not absolutely period-perfect, suggest that era while conveying an out-of-time quality.  Similarly, the stage is filled with props and furniture that suggest the time period and location -- in fact, the show features no spacework whatsoever, using only real, physical props and furniture.
 
-The show is an ensemble piece, and focuses on no particular hero.  Each performance includes as much of the total cast as available -- in practical terms, this means that between nine and eleven performers are in each show.  Each performer plays one character, and the characters have a complex mesh of relationships, with families, neighbors, friends, and servants all interacting.
+The show is an ensemble piece, and focuses on no particular hero.  Each performance includes as much of the total cast as available -- in practical terms, this means that between eight and eleven performers are in each show.  Each performer plays one character, and the characters have a complex mesh of relationships, with families, neighbors, friends, and servants all interacting.
 
 The acting style is fairly naturalistic, with the stage improvisors often playing characters close to themselves rather than extremely heightened types, and much of the show occurring in the un-heightened circumstances of those characters' everyday lives.  Extreme emotions tend to be tamped down until outbursts later in the play.  The performers explore the characters, either with lengthy monologs of their own, or through descriptions of offstage characters.  Characters don't particularly change from the start of the play to the end.
 
