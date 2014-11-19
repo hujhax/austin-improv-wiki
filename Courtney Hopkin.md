@@ -18,6 +18,9 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 * [[RhinoDino]]
 * [[Snackers]]
 * [[Your Terrific Neighbors]]
+* [[Nesting Dolls]]
+* [[Do You Still Want To Do This]]
+* [[Echo Lake]]
 
 ## Shows
 * *[[Austin Secrets]]*
