@@ -61,10 +61,12 @@ This template lists standard, useful information about an improv troupe.
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
+{{#if: {{{Past Members|}}} |
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category">{{{Past Members|Unknown}}}</td>
 		</tr>
+|}}
 {{#if: {{{Tech|}}} |
 		<tr class="">
 			<th class="category-header" scope="row">Tech</th>
