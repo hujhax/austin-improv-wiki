@@ -43,6 +43,7 @@ Assistant Director: [[Peter Rogers]]
 
 ## Media
 ### Videos
+* [https://www.youtube.com/watch?v=2fw4E04qBts The show's intro video.]
 * [http://vimeo.com/27416904 Video of performance from 8.5.11]
 * [http://vimeo.com/27955924 Video of performance from 8.19.11]
 * [http://vimeo.com/28875407 Video of performance from 8.26.11]
