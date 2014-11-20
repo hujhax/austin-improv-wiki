@@ -8,7 +8,7 @@
 **Aaron Saenz** is a classically-trained improviser.
 
 ## History
-Aaron appeared in [[The 44-Hour Improv Marathon]] at [[The Hideout Theatre]].
+Aaron appeared in the early 1980s and continues to appear today.
 
 ## Troupes
 ### Austin Troupes
