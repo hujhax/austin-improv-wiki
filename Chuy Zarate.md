@@ -20,6 +20,7 @@ As a teenager in San Antonio, Zarate was coached in improv by [[David Lampe]].
 
 ## Shows
 * *[[Austin Secrets]]*
+* *[[GrimmNoir]]*
 * *[[Thinning the Herd]]*
 
 ## More Information
