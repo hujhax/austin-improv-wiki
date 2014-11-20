@@ -19,6 +19,7 @@ He is a regular cast member of *[[Flying Theater Machine]]*.
 * *[[Danger!]]*
 * *[[Flying Theater Machine]]*
 * *[[The Good Life]]*
+* *[[GrimmNoir]]*
 * *[[Key Party]]*
 * *[[The Next Chapter]]*
 * *[[Only Three Will Survive]]*
