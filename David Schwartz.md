@@ -17,6 +17,6 @@ David improvised since "forever", starting it seriously in 2008 and performing i
 
 ## Shows
 * *[[Reform School for Wayward Girls]]*
-* *[[What the F@#!]]*
+* *[[What the F@$]]*
 
 [[Category/Performers|Schwartz]]
