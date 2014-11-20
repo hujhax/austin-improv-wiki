@@ -15,6 +15,7 @@
 * [[The Walk Ons]]
 
 ## Shows
+* *[[GrimmNoir]]*
 * *[[Reframed]]*  (Producer)
 * *[[Project ReSet]]*
 * *[[False Matters]]* (stage manager)
