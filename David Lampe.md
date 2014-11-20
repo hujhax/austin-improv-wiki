@@ -15,6 +15,7 @@
 
 ## Shows
 * *[[Cops & Lawyers]]*
+* *[[GrimmNoir]]* (cast/assistant director)
 * *[[Hitchcocked!]]*
 * *[[Manson -  The Musical]]* (Beatle/Monkee/Beach Boy, Judge)
 * *[[The Sci-Fi Comedy Double Feature]]*
