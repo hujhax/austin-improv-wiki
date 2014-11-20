@@ -28,5 +28,5 @@ Aaron appeared in [[The 44-Hour Improv Marathon]] at [[The Hideout Theatre]].
 * *[[A Bedtime Gorey]]*
 * *[[The International Improv Experience]]*
 * *[[Austin Secrets]]*
-* *[[The 44 Hour Marathon]]*
+* *[[The 44 Hour Improv Marathon]]*
 [[Category/Performers|Saenz]]
