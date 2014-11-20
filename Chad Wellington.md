@@ -20,6 +20,7 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 * [[Stone Airplane]]
 
 ## Shows
+* *[[GrimmNoir]]*
 * *[[Racket]]*
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Live TV Tuesdays -  Angel]]* (Goofus/Knox)
