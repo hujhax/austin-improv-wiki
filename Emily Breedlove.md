@@ -17,6 +17,7 @@
 * *[[The Black Vault]]*
 * *[[The Cherry Bowl]]*
 * *[[Crack!]]*
+* *[[GrimmNoir]]*
 * *[[Magna Veritas]]*
 * *[[One More Night]]*
 * *[[Seance]]*
