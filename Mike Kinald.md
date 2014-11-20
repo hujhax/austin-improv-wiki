@@ -28,6 +28,7 @@ He was asked to join the newly forming Austin troupe [[Improv for Evil]], which 
 * *[[The Derby]]*
 * *[[Flying Theater Machine]]*
 * *[[The Free Fringe]]*
+* *[[GrimmNoir]]* (director)
 * *[[Guilds of Steel]]*
 * *[[Holy 1960's Batman, Batman!]]* (Guest Villain - The English Dentist)
 * *[[Maestro]]*
@@ -37,4 +38,5 @@ He was asked to join the newly forming Austin troupe [[Improv for Evil]], which 
 * *[[Theatresports]]* (2007)
 * *[[The Tribunal]]*
 * *[[Late Night Time Machine With Teddy Hancox]]*
+
 [[Category/Performers|Kinald]]
