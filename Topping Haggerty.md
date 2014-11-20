@@ -40,11 +40,12 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * *[[Charles Dickens Unleashed]]*
 * *[[Crack!]]*
 * *[[Elf Employment]]*
+* *[[GrimmNoir]]*
 * *[[Guilds of Steel]]*
 * *[[Lola]]*
 * *[[Off the Reef]]*
 * *[[The Sandbox]]*
-* [[Two on Two]]
+* *[[Two on Two]]*
 * *[[Start Trekkin']]*
 
 [[Category/Performers|Haggerty]]
