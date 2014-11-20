@@ -30,6 +30,7 @@ He is also a musician and has played for [[I Love You So Much]] with the band Ti
 * *[[After School Improv]]*
 * *[[The Black Vault]]*
 * *[[Fuck It's Christmas]]* (musician)
+* *[[GrimmNoir]]*
 * *[[Hurly Burly]]*
 * *[[I Love You So Much]]*
 * *[[Live TV Tuesdays -  Buffy]]*
