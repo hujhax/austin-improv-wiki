@@ -8,7 +8,7 @@
 |Cast	=		{{Unbulleted list | [[Andrew Buck]] | [[Cat Drago]] | [[Courtney Hopkin]] | [[Jordan T. Maxwell]] | [[Kaci Danger]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Megan Sherrod]] | [[Peter Rogers]] | [[Troy A. Miller]] | [[Valerie Ward]] }}
 }}
 
-***Nothing and Everything*** is the current mainstage show at [[The Hideout Theatre]] inspired by the works of [[Wikipedia - Anton Chekhov|Anton Chekhov]].
+***Nothing and Everything*** is a narrative improv show inspired by the works of [[Wikipedia - Anton Chekhov|Anton Chekhov]].  It is the current mainstage show at [[The Hideout Theatre]].
 
 ## Show Style
 The show takes place on a rural Russian estate in the 1890s.  The costumes, while not absolutely period-perfect, suggest that era while conveying an out-of-time quality.  Similarly, the stage is filled with props and furniture that suggest the time period and location -- in fact, the show features no spacework whatsoever, using only real, physical props and furniture.
