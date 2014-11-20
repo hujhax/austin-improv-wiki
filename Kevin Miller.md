@@ -34,6 +34,7 @@ Show #3 was [[Andy Crouch|Andy]]'s graduation show, fall 2001. I started Level O
 ## Shows
 * *[[Cover to Cover]]*
 * *[[False Matters]]*
+* *[[GrimmNoir]]*
 * *[[Slumber Party Slaughter]]*
 * *[[Start Trekkin']]*
 * *[[Steam]]*
