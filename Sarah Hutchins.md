@@ -8,6 +8,8 @@
 **Sara Hutchins** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
+Sarah began taking classes at the [[Hideout]] in 2013 and singing classes at [[Merlin Works]] in 2014.
+
 ## Troupes
 ## Shows
 * *[[GrimmNoir]]* (Crew)
