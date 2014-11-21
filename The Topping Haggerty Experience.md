@@ -18,4 +18,4 @@ THE: Today is Not Tomorrow (Fully improvised 007 movie)
 THE: Bring It (Audience edits everything - thanks Finland!)
 
 
-The show has been performed in Finland (2013), Austin (2002-present), Boston (2010), Toronto, Miami, Chicago (2002), New York City (2002-2008), Atlanta, Houston (2012), and Buenos Aires (2002).
+The Topping Haggerty Experience has been performed in Finland (2013), Austin (2002-present), Boston (2010), Toronto (2003, 2005), Miami (2004), Chicago (2002), New York City (2002-2008), Atlanta (2005, 2006, 2008, 2010), Houston (2012), and Buenos Aires (2002).
