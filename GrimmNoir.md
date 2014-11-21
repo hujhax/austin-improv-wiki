@@ -4,7 +4,7 @@
 |Director = [[Mike Kinald]]
 |Assistant Director = [[David Lampe]]
 |Cast	=	{{ Unbulleted list | **Original Shows:** | [[David Lampe]] | [[Eric Heiberg]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Justin Davis]] | [[Kareem Badr]] | [[Mike Kinald]] | [[Ruby Willmann]] | [[Topping Haggerty]] |  |  **Mainstage Run:** | [[Alex Ayala]] | [[Brad Hawkins]] | [[Chad Wellington]] | [[Chuy Zarate]] | [[Claudio Fox]] | [[David Lampe]] | [[Emily Breedlove]] | [[Heidi Penix]] | [[Heidi Rogers]] | [[Kevin Miller]] | [[Leng Wong]] | [[Luke Wallens]] | [[Madeline Jo Chauvin]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Ryan Hill]] | [[Topping Haggerty]] | [[Tyler Lane]] }}
-| Tech = {{Unbulleted list | [[Cindy Page]] | [[Lindsey McGowen]] }}
+| Tech = {{Unbulleted list | [[Cindy Page]] | [[Lindsey McGowen]] | [[Sarah Hutchins]] }}
 |Run	=	{{Unbulleted list | 2012 | Feb/Mar 2015 }}
 }}
 
