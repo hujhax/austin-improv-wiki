@@ -12,5 +12,6 @@
 ## Shows
 * *[[GrimmNoir]]* (Crew)
 * *[[The Organ Trail]]*
+* *[[The Aftermath]]* (Crew)
 
 [[Category/Performers|Hutchins]]
