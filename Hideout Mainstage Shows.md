@@ -160,4 +160,16 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |Oct 2014||*[[The Aftermath]]*||[[Jordan T. Maxwell]]
 |-
 |Dec 2014||*[[A Penny Dreadful]]*||[[Troy Miller]]
+|-
+|Feb 2014||*[[One Small Step]]*||[[Ruby Willmann]]
+|-
+|Apr 2014||*[[Golden]]*|| [[Marc Majcher]]
+|-
+|Jun 2014||*[[Cyber House Rules]]*||[[Kacey Samiee]], [[Ammon Taylor]]
+|-
+|Aug 2014||*[[Single Camera Comedy]]*||[[Caeriel Crestin]], [[Jessica Arjet]]
+|-
+|Oct 2014||*[[Teenage Wasteland]]*||[[Jordan T. Maxwell]]
+|-
+|Dec 2014||*[[I'll Be Home For Christmas]]*||[[Valerie Ward]]
 |}
