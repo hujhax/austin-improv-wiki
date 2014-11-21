@@ -3,6 +3,7 @@
 |Picture = Wanderlust.jpg
 |Theater = [[The Hideout Theatre]]
 |Director =	[[Ruby Willmann]]
+|Assistant Director =	[[Aaron Saenz]]
 |Cast =	{{Unbulleted list | [[Andreas Fabis]] | [[Cat Drago]] | [[Ceej Allen]] | [[Chris Albano]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Manuel Duran]] | [[Marc Majcher]] | [[Melissa Patterson]] | [[Nicole Oliver]] | [[Ryan Austin]] }}
 |Tech = [[Michael Yew]]
 |Run	=	Jan/Feb 2015
