@@ -29,6 +29,7 @@ He is also a musician and has played for [[I Love You So Much]] with the band Ti
 ## Shows
 * *[[After School Improv]]*
 * *[[The Black Vault]]*
+* *[[Breaking Beckett]]*
 * *[[Fuck It's Christmas]]* (musician)
 * *[[GrimmNoir]]*
 * *[[Hurly Burly]]*
@@ -37,9 +38,8 @@ He is also a musician and has played for [[I Love You So Much]] with the band Ti
 * ''[[Love Fest]]
 * *[[The Next Chapter]]*
 * *[[Not This American Life]]*
-* *[[Breaking Beckett]]*
-* *[[Trust No One]]* (Assistant Director)
 * *[[Risen]]*
+* *[[Trust No One]]* (Assistant Director)
 
 ## Festivals
 * The Alaska State Improv Festival 2014 (Juneau, AK)
