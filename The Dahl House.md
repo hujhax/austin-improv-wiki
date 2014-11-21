@@ -6,6 +6,7 @@
 |Assistant Director = [[Jayme Ramsay]]
 |Run                = Aug 2014
 |Cast               = {{Unbulleted list | [[Andrew Schwartz]] | [[Ann Nelson]] | [[Cagney Ortiz]] | [[Chad Wellington]] | [[Heather Hasselle]] | [[Michael Guy Bowman]] | [[Rosemarie Frezza]] | [[Tess Hermes]] }}
+|Tech = [[Rachel Posey Austin]] (sound)
 }}
 
 ***The Dahl House*** will be the August 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
