@@ -4,7 +4,7 @@ This is a **list of Hideout mainstage shows in chronological order**.
 Note that in the early years, specific runs of shows were rare.  Apart from *[[Start Trekkin']]*, [[Sean Hill]] presented various Keith Johnstone formats in its Saturday 8pm slot.
 
 {| class="wikitable"
-|**Start Date**||**End Date**||**Show**||**Directed by**||**Marc Majcher?**
+|**Start Date**||**End Date**||**Show**||**Directed by**
 |-
 |1999||5/14/04||(Various Johnstone formats)||[[Sean Hill]]
 |-
@@ -46,91 +46,89 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |-
 |3/15/08||4/30/08||[[Girls Girls Girls]]||[[Girls Girls Girls]]
 |-
-|5/1/08||6/30/08||*[[Ka-Baam!!]]*||[[Asaf Ronen]]|| Yes
+|5/1/08||6/30/08||*[[Ka-Baam!!]]*||[[Asaf Ronen]]
 |-
-|7/12/08||8/23/08||*[[Boys of Summer]]*||[[Girls Girls Girls]]|| Yes
+|7/12/08||8/23/08||*[[Boys of Summer]]*||[[Girls Girls Girls]]
 |-
 |9/1/08||11/18/08||*[[Start Trekkin']]*||[[Troy Miller]]
 |-
-|11/1/08||12/1/08||*[[Cochise]]*||[[Improv for Evil]]|| Yes
+|11/1/08||12/1/08||*[[Cochise]]*||[[Improv for Evil]]
 |-
-|1/1/09||2/28/09||*[[After School Improv]]*||[[Kaci Beeler]]|| Yes
+|1/1/09||2/28/09||*[[After School Improv]]*||[[Kaci Beeler]]
 |-
-|3/1/09||3/31/09||*[[Hyperlinks]]*||[[Asaf Ronen]]||
+|3/1/09||3/31/09||*[[Hyperlinks]]*||[[Asaf Ronen]]
 |-
-|4/1/09||4/30/09||[[Girls Girls Girls]]||[[Girls Girls Girls]]||
+|4/1/09||4/30/09||[[Girls Girls Girls]]||[[Girls Girls Girls]]
 |-
 !colspan="6"|At this point, the Hideout went to a regular mainstage schedule, with a new show every two months.
 |-
-|May 2009||Jun 2009||*[[Improvised Shakespeare]]*||[[Andy Crouch]]|| Yes
+|May 2009||Jun 2009||*[[Improvised Shakespeare]]*||[[Andy Crouch]]
 |-
-|Jul 2009||Aug 2009||*[[Boys of Summer]]*||[[Girls Girls Girls]]||
+|Jul 2009||Aug 2009||*[[Boys of Summer]]*||[[Girls Girls Girls]]
 |-
-|Sep 2009||Oct 2009||*[[Ka-Baam!!]]*||[[Asaf Ronen]]|| Yes
+|Sep 2009||Oct 2009||*[[Ka-Baam!!]]*||[[Asaf Ronen]]
 |-
-|Nov 2009||Dec 2009||*[[Charles Dickens Unleashed]]*||[[Jessica Arjet]], [[Kaci Beeler]]|| Yes
+|Nov 2009||Dec 2009||*[[Charles Dickens Unleashed]]*||[[Jessica Arjet]], [[Kaci Beeler]]
 |-
-|Jan 2010||Feb 2010||*[[Austin Secrets]]*||[[Roy Janik]]|| Yes
+|Jan 2010||Feb 2010||*[[Austin Secrets]]*||[[Roy Janik]]
 |-
-|Mar 2010||Apr 2010||*[[Hitchcocked!]]*||[[Sean Hill]], [[Troy Miller]]||
+|Mar 2010||Apr 2010||*[[Hitchcocked!]]*||[[Sean Hill]], [[Troy Miller]]
 |-
-|May 2010||Jun 2010||*[[The Andersons]]*||[[Patrick Daniel]]||
+|May 2010||Jun 2010||*[[The Andersons]]*||[[Patrick Daniel]]
 |-
-|Jul 2010||Aug 2010||*[[Who Is T. Henry Baudecliffe]]*||[[Curtis Luciani]], [[Kaci Beeler]]|| Yes
+|Jul 2010||Aug 2010||*[[Who Is T. Henry Baudecliffe]]*||[[Curtis Luciani]], [[Kaci Beeler]]
 |-
-|Sep 2010||Oct 2010||*[[Theatresports]]*||[[Andy Crouch]], [[Kareem Badr]]|| Yes
+|Sep 2010||Oct 2010||*[[Theatresports]]*||[[Andy Crouch]], [[Kareem Badr]]
 |-
-|Nov 2010||Dec 2010||*[[The Hideout Holiday Super Special]]*||Various|| Yes
+|Nov 2010||Dec 2010||*[[The Hideout Holiday Super Special]]*||Various
 |-
-|Jan 2011||Feb 2011||*[[Austin Secrets]]*||[[Roy Janik]]|| Yes
+|Jan 2011||Feb 2011||*[[Austin Secrets]]*||[[Roy Janik]]
 |-
-|Mar 2011||Apr 2011||*[[The Violet Underbelly]]*||[[Kareem Badr]]|| Yes
+|Mar 2011||Apr 2011||*[[The Violet Underbelly]]*||[[Kareem Badr]]
 |-
-|May 2011||Jun 2011||*[[Holy 1960s Batman, Batman!]]*||[[Kaci Beeler]]|| Yes
+|May 2011||Jun 2011||*[[Holy 1960s Batman, Batman!]]*||[[Kaci Beeler]]
 |-
-|Jul 2011||Aug 2011||*[[Live Nude Improv]]*||[[Andy Crouch]]|| Yes
+|Jul 2011||Aug 2011||*[[Live Nude Improv]]*||[[Andy Crouch]]
 |-
-|Sep 2011||Oct 2011||*[[Spirited]]*||[[Asaf Ronen]], [[Marc Majcher]]|| Yes
+|Sep 2011||Oct 2011||*[[Spirited]]*||[[Asaf Ronen]], [[Marc Majcher]]
 |-
-|Nov 2011||Dec 2011||*[[Charles Dickens Unleashed]]*||[[Jessica Arjet]], [[Kaci Beeler]]|| Yes
+|Nov 2011||Dec 2011||*[[Charles Dickens Unleashed]]*||[[Jessica Arjet]], [[Kaci Beeler]]
 |-
-|Jan 2012||Feb 2012||*[[The Sci-Fi Comedy Double Feature]]*||[[Sean Hill]], [[Troy Miller]]||
+|Jan 2012||Feb 2012||*[[The Sci-Fi Comedy Double Feature]]*||[[Sean Hill]], [[Troy Miller]]
 |-
-|Mar 2012||Apr 2012||*[[Process]]*||[[Jeremy Sweetlamb]]|| Yes
+|Mar 2012||Apr 2012||*[[Process]]*||[[Jeremy Sweetlamb]]
 |-
-|May 2012||Jun 2012||*[[Rock]]*||[[Kacey Samiee]], [[Michael Brockman]]|| Yes
+|May 2012||Jun 2012||*[[Rock]]*||[[Kacey Samiee]], [[Michael Brockman]]
 |-
-|Jul 2012||Aug 2012||*[[Manhattan Stories]]*||[[Jon Bolden]], [[Valerie Ward]]|| Yes
+|Jul 2012||Aug 2012||*[[Manhattan Stories]]*||[[Jon Bolden]], [[Valerie Ward]]
 |-
-|Sep 2012||Oct 2012||*[[The Black Vault]]*||[[Marc Majcher]]|| Yes
+|Sep 2012||Oct 2012||*[[The Black Vault]]*||[[Marc Majcher]]
 |-
-|Nov 2012||Dec 2012||*[[Austin Secrets]]*||[[Roy Janik]]|| 
+|Nov 2012||Dec 2012||*[[Austin Secrets]]*||[[Roy Janik]]
 |-
-|Jan 2013||Feb 2013||*[[Fandom]]*||[[Andy Crouch]], [[Kaci Beeler]]||Yes
+|Jan 2013||Feb 2013||*[[Fandom]]*||[[Andy Crouch]], [[Kaci Beeler]]
 |-
-|Mar 2013||Apr 2013||*[[Strange Worlds]]*||[[Jordan T. Maxwell]]|| Yes
+|Mar 2013||Apr 2013||*[[Strange Worlds]]*||[[Jordan T. Maxwell]]
 |-
-|May 2013||Jun 2013||*[[Theatresports]]*||[[Roy Janik]], [[Ryan Austin]]|| Yes
+|May 2013||Jun 2013||*[[Theatresports]]*||[[Roy Janik]], [[Ryan Austin]]
 |-
-|Jul 2013||Aug 2013||*[[Fakespeare]]*||[[Andy Crouch]]|| 
+|Jul 2013||Aug 2013||*[[Fakespeare]]*||[[Andy Crouch]]
 |-
-|Sep 2013||Oct 2013||*[[Austin Secrets]]*|| [[Roy Janik]]|| Yes
+|Sep 2013||Oct 2013||*[[Austin Secrets]]*|| [[Roy Janik]]
 |-
-|Nov 2013||Dec 2013||*[[A Bedtime Gorey]]*||[[Valerie Ward]]|| Yes
+|Nov 2013||Dec 2013||*[[A Bedtime Gorey]]*||[[Valerie Ward]]
 |-
-|Jan 2014||Feb 2014||*[[I Love You So Much]]*||[[Jessica Arjet]], [[Roy Janik]]|| Yes
+|Jan 2014||Feb 2014||*[[I Love You So Much]]*||[[Jessica Arjet]], [[Roy Janik]]
 |-
-|Mar 2014||Apr 2014||*[[Kenjutsu]]*||[[Kareem Badr]], [[Shannon McCormick]]|| Yes
+|Mar 2014||Apr 2014||*[[Kenjutsu]]*||[[Kareem Badr]], [[Shannon McCormick]]
 |-
-|May 2014||Jun 2014||*[[Theatresports]]*||[[Lacy Shawn]], [[Ryan Austin]]|| Yes
+|May 2014||Jun 2014||*[[Theatresports]]*||[[Lacy Shawn]], [[Ryan Austin]]
 |-
-|Jul 2014||Aug 2014||*[[The International Improv Experience]]*||[[Roy Janik]]|| Yes
+|Jul 2014||Aug 2014||*[[The International Improv Experience]]*||[[Roy Janik]]
 |-
-|Sep 2014||Oct 2014||*[[Reform School for Wayward Girls]]*|| [[Kaci Beeler]]|| Yes
+|Sep 2014||Oct 2014||*[[Reform School for Wayward Girls]]*|| [[Kaci Beeler]]
 |-
-|Nov 2014||Dec 2014||*[[Nothing and Everything]]*||[[Jon Bolden]]|| Yes
-|-
-|Jan 2015||Feb 2015||*[[Wanderlust]]*||[[Ruby Willmann]], [[Aaron Saenz]]||Yes
+|Nov 2014||Dec 2014||*[[Nothing and Everything]]*||[[Jon Bolden]]
 |}
 
 ## Student Mainstage Shows
