@@ -2,11 +2,11 @@
 |Name = The Organ Trail	
 |Theater = [[ColdTowne Theater]]
 |Director =	[[Cody Dearing]]
-|Cast =	TBA
+|Cast =	{{Unbulleted list | [[Rachel Austin]] | [[Benjamin Bazan]] | [[Quinn Buckner]] | [[Chaz Formichella]] | [[Alejandro Garcia]] | [[KC HT]] | [[Ally Huston]] | [[Sarah Hutchins]] | [[Patrick Kail]] | [[Jessica Marpe]] | [[Chris McKeever]] | [[Lance Nealy]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Sanjay Rao]] | [[Richard Smith]] | [[Bobby Stover]] | [[Drew Wesely]] | [[Logan Williams]] }}
 |Run	=	Oct 2014
 }}
 
-***The Organ Trail*** is an upcoming mainstage show at [[ColdTowne Theater]], an audience-interactive, zombie-fied take on the classic computer educational game [[Wikipedia - The Oregon Trail (video game)|The Oregon Trail]].
+***The Organ Trail*** was a mainstage show at [[ColdTowne Theater]], an audience-interactive, zombie-fied take on the classic computer educational game [[Wikipedia - The Oregon Trail (video game)|The Oregon Trail]].
 
 ## Summary
 ### Publicity Blurb
