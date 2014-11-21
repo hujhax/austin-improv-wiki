@@ -11,6 +11,6 @@
 ## Troupes
 ## Shows
 * *[[GrimmNoir]]* (Crew)
-* "[[The Organ Trail]]"
+* *[[The Organ Trail]]*
 
 [[Category/Performers|Hutchins]]
