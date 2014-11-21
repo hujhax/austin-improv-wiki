@@ -8,7 +8,7 @@
 |Tech               = TBA
 }}
 
-***I'll Be Home for Christmas*** will be the December 2015[[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***I'll Be Home for Christmas*** will be the December 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
