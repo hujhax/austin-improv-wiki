@@ -2,10 +2,13 @@
 |Name	=	Steve Harwood	
 |Picture =	Steve Harwood Pic.jpg
 |Theater=	Various
-|Years	=	2012-Present
+|Years	=	2012-2014
 }}
 
 **Steve Harwood** is an improv performer.
+
+## History
+In early 2014, Steve moved away from Austin.
 
 ## Troupes
 * [[The Professor]]
