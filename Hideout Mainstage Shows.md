@@ -161,7 +161,7 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |-
 |Dec 2014||*[[A Penny Dreadful]]*||[[Troy Miller]]
 |-
-|Feb 2014||*[[One Small Step]]*||[[Andreas Fabis]], [[Jessica Arject]]
+|Feb 2014||*[[One Small Step]]*||[[Andreas Fabis]], [[Jessica Arjet]]
 |-
 |Apr 2014||*[[Golden]]*|| [[Marc Majcher]]
 |-
