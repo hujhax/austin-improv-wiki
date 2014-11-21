@@ -27,7 +27,6 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * [[DA Foundry]]
 * [[The Dancy Street D'Orchestra]]
 * [[Drinkies Galore]]
-* [[Late Night Time Machine]]
 * [[The Moral Compass Rumpus]]
 * [[RedRover]]
 * [[The Special Features]]
@@ -43,6 +42,7 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * *[[Elf Employment]]*
 * *[[GrimmNoir]]*
 * *[[Guilds of Steel]]*
+* *[[Late Night Time Machine]]*
 * *[[Lola]]*
 * *[[Off the Reef]]*
 * *[[The Sandbox]]*
