@@ -42,6 +42,7 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * *[[Elf Employment]]*
 * *[[GrimmNoir]]*
 * *[[Guilds of Steel]]*
+* *[[The Last Freak Show]]*
 * *[[Late Night Time Machine]]*
 * *[[Lola]]*
 * *[[Off the Reef]]*
