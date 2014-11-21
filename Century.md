@@ -8,7 +8,9 @@
 **Century** was an improv troupe that performed a monoscene format with a historical suggestion.
 
 ## History
-After the four members performed in [[The Next Chapter]], directed by [[Justin Davis]], [[Brad Hawkins]] suggested they continue as an independent troupe. 
+After the four members performed in [[The Next Chapter]], directed by [[Justin Davis]], [[Brad Hawkins]] suggested they continue as an independent troupe.
+
+The troupe decided to call it quits in mid 2014.
 
 ## Shows
 * Debut show at [[ColdTowne Theater]]
