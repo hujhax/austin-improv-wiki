@@ -10,6 +10,7 @@
 ## History
 ## Troupes
 ## Shows
+* *[[Rock N Roll Purgatory]]*
 * *[[GrimmNoir]]*
 
 [[Category/Performers|Lane]]
