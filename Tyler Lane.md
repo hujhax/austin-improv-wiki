@@ -8,6 +8,8 @@
 **Tyler Lane** is an improv performer who works primarily with [[The Institution Theatre]].
 
 ## History
+Tyler moved to Austin in the summer of 2013. He stumbled upon *[[Maestro]]* while exploring downtown and has been hooked ever since. 
+
 ## Troupes
 ## Shows
 * *[[Rock N Roll Purgatory]]*
