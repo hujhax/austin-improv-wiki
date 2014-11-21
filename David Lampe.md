@@ -12,6 +12,10 @@
 * [[The Heroes of Comedy]] 
 * [[Your Dad's Friends]]
 * [[¡Zarzamora!]]
+* [[The Oxymorons]]
+* [[The Stucco Iguanas]]
+* [[Monks' Night Out]]
+* [[Comedy Workshop Tour Company]]
 
 ## Shows
 * *[[Cops & Lawyers]]*
