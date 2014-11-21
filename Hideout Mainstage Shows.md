@@ -129,6 +129,18 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |Sep 2014||Oct 2014||*[[Reform School for Wayward Girls]]*|| [[Kaci Beeler]]
 |-
 |Nov 2014||Dec 2014||*[[Nothing and Everything]]*||[[Jon Bolden]]
+|-
+|Jan 2014||Feb 2014||*[[Wanderlust]]*||[[Ruby Willmann]]
+|-
+|Mar 2014||Apr 2014||*[[Austin Secrets]]*||[[Roy Janik]]
+|-
+|May 2014||Jun 2014||*[[Scene of the Crime]]*||[[Troy Miller]]
+|-
+|Jul 2014||Aug 2014||*[[Happily Ever After]]*||[[Ryan Austin]], [[Roy Janik]]
+|-
+|Sep 2014||Oct 2014||*[[A Deed So Dark]]*|| [[Valerie Ward]]
+|-
+|Nov 2014||Dec 2014||*[[Boy, Howdy!]]*||[[Kaci Beeler]]
 |}
 
 ## Student Mainstage Shows
