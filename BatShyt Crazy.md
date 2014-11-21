@@ -8,7 +8,7 @@
 BatShyt Crazy is puppets.
 
 ## Summary
-**BatShyt Crazy** is a bunch of angry mean dirty sexy puppets that perform improv and sketch.
+**BatShyt Crazy** is a bunch of angry mean dirty sexy puppets that perform improv and sketch with dirty sexy humans.
 
 ## History
 BatShyt Crazy has performed at The Institution Theater, the Hideout Theatre, and with Dystheatre Company at Salvage Vanguard Theatre teaching Shakespeare 101 (yes, puppets know shit).
