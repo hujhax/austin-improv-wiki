@@ -1,11 +1,11 @@
 {{Infobox Performer
 |Name	=	Sara Hutchins	
 |Picture =	Sara Hutchins.jpg
-|Theater=	[[The Institution Theater]]
+|Theater=	[[The Hideout Theater]]
 |Years	=	2014-Present
 }}
 
-**Sara Hutchins** is an improv performer who works primarily with [[The Institution Theatre]].
+**Sara Hutchins** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
 ## Troupes
