@@ -68,13 +68,24 @@ He is also a musician and has played for [[I Love You So Much]] with the band Ti
 * Improv Festival Oklahoma 2013 (Norman, OK)
 ** With [[In Our Prime]]
 
+* Improv Festival Oklahoma 2014 (Norman, OK)
+** With [[In Our Prime]]
+
 * [[The 2013 Improvised Play Festival]]
 ** With [[In Our Prime]]
+
+* [[The 2014 Improvised Play Festival]]
+** With [[In Our Prime]]
+
+* The 2014 Unscripted Festival (New York, New York)
 
 * [[WaffleFest]] 2012
 ** With [[In Our Prime]]
 
 * [[WaffleFest]] 2013
+** With [[In Our Prime]]
+
+* [[WaffleFest]] 2014
 ** With [[In Our Prime]]
 
 ## Media
