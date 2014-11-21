@@ -64,7 +64,7 @@ Winners are listed in **bold text**.
 ### Favorite New Male Improvisor
 * [[Adam Mengesha]]
 * [[Andrew Johnston]]
-* [[James Leary]]
+* [[James C. Leary]]
 * **[[Justin Davidson]]**
 * [[Mark Shoemaker]]
 * [[Mason Pitluck]]
