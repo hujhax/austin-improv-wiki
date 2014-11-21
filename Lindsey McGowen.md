@@ -21,6 +21,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[History Under the Influence]]* (light/sound tech)
 * *[[Hurly Burly]]* (sound tech)
 * *[[Pick Your Own Path]]* (light/sound tech)
+* *[[Tech Nightmare]]* (scoring tech)
 * *[[Theatresports]]* (2014 run) (light/sound tech)
 * *[[The International Improv Experience]]* (light tech)
 * *[[Reform School for Wayward Girls]]* (sound tech)
