@@ -5,7 +5,7 @@
 |Director           = [[Jordan T. Maxwell]]
 |Assistant Director = [[Cindy Page]]
 |Run                = Oct 2014
-|Cast               = {{Unbulleted list | [[Barrett Phelan]] | [[Cassidy Santaguida]] | [[Freedom Treespirit]] | [[Haley Alea Erickson]] | [[Josh Santo]] | [[JR Zambrano]] | [[Lori Hobbie]] | [[Sushant Sethi]] }}
+|Cast               = {{Unbulleted list | [[Barrett Phelan]] | [[Cassidy Santaguida]] | [[Sunaina Suhag]] | [[Haley Alea Erickson]] | [[Josh Santo]] | [[JR Zambrano]] | [[Lori Hobbie]] | [[Sushant Sethi]] }}
 |Tech               = {{Unbulleted list | [[Allison Huston]] | [[Robert Heil]] | [[Sarah Hutchins]] }}
 }}
 
