@@ -9,7 +9,7 @@
 |Tech               = {{Unbulleted list | [[Allison Huston]] | [[Robert Heil]] | [[Sarah Hutchins]] }}
 }}
 
-***The Aftermath*** will be the October 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***The Aftermath*** was a [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
