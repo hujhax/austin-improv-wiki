@@ -4,7 +4,7 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Troy Miller]]
 |Run                = Dec 2014
-|Cast               = {{Unbulleted list | [[Andrew Schwartz]] | [[Rosemarie Frezza]] | [[Ali Meier]] | [[Margaret Hunsicker]] | [[Linzy Beltran]] | [[Jessica von Schramm]] | [[Seth Johnson]] | [[Charlie Hoehn]] | [[Jeremy Moran]] | [[Theo Daley]] }}
+|Cast               = {{Unbulleted list | [[Ali Meier]] | [[Andrew Schwartz]] | [[Charlie Hoehn]] | [[Jeremy Moran]] | [[Jessica von Schramm]] | [[Linzy Beltran]] | [[Margaret Hunsicker]] | [[Rosemarie Frezza]] | [[Seth Johnson]] | [[Theo Daley]] }}
 }}
 
 ***A Penny Dreadful*** will be the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
