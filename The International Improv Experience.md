@@ -8,12 +8,12 @@
 |Tech = {{Unbulleted list | [[Lindsey McGowen]] | [[Michael Yew]] | [[Cindy Page]]}}
 }}
 
-***The International Improv Experience*** is the mainstage show at [[The Hideout Theatre]].  It draws inspiration from friends of the Hideout around the world.
+***The International Improv Experience*** was a mainstage show at [[The Hideout Theatre]].  It drew inspiration from friends of the Hideout around the world.
 
 ## Summary
-Each performance contains two acts.  The first act has the cast responding to video short-form challenges that have been sent in from improv troupes around the world.  The second act is a long-form narrative that uses the first act as inspiration.
+Each performance contained two acts.  The first act had the cast responding to video short-form challenges that had been sent in from improv troupes around the world.  The second act was a long-form narrative that used the first act as inspiration.
 
-The set design includes a number of wooden boxes (and other shapes), which the cast uses to create international landmarks and locales on the fly.
+The set design included a number of wooden boxes (and other shapes), which the cast used to create international landmarks and locales on the fly.
 
 ### Participating Troupes
 * Again! Productions (Paris, France)
