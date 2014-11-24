@@ -3,6 +3,7 @@
 |Picture            = A Penny Dreadful.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Troy Miller]]
+|Assistant Director           = [[David Schwartz]]
 |Run                = Dec 2014
 |Cast               = {{Unbulleted list | [[Ali Meier]] | [[Andrew Schwartz]] | [[Charlie Hoehn]] | [[Jeremy Moran]] | [[Jessica von Schramm]] | [[Linzy Beltran]] | [[Margaret Hunsicker]] | [[Rosemarie Frezza]] | [[Seth Johnson]] | [[Theo Daley]] }}
 }}
