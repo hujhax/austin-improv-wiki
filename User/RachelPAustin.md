@@ -1,1 +1,1 @@
-Rachel is a native Texan and Austin improviser, graduating from The Hideout in January 2014. While fairly new to improv, Rachel has been on stage doing scripted theater since she was six. When she is not performing, Rachel works in public relations, specializing in consumer and B2B technology, and is a fiction writer.
+#REDIRECT [[Rachel Posey Austin]]
