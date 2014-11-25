@@ -1,1 +1,1 @@
-Performer in the AIC who primarily performs at the Hideout. Also plays ultimate and soccer with other imps. Likes biking and long walks on the beach with classical music providing backing and the occasional punctuating noise of dolphin chatter. Enjoys slightly dramatic work over goofy improv, but likes to be goofy off stage.
+#REDIRECT [[Sarah Hutchins]]
