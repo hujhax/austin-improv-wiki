@@ -5,7 +5,7 @@
 |Years	=	2008-Present
 }}
 
-**Tim Honker** is an improviser and sketch writer/director/actor/instructor in Austin, Texas and has been performing comedy in Austin and around the country since 2008. 
+**Tim Honker** is an improviser and sketch writer/producer/actor/instructor in Austin, Texas and has been performing comedy in Austin and around the country since 2008. 
 
 ## Comedy Education and Performances
 Tim started taking improv and sketch classes at [[ColdTowne Conservatory]] in 2008 and graduated in March 2009. Tim currently performs improv with [[Nice Astronaut]].  He also co-created the sketch comedy troupe [[Townsville]] with [[Nicole McCracken]].  Tim teaches improv and sketch through Nice Astronaut. Tim co-developed and directed Arthur Simone’s (Best Actor – Austin Chronicle, 2009) one-man sketch show [[Dear Frailty]]. He also wrote and performed with the sketch group [[UpTowne]] and has performed with the [[ColdTowne Touring Company]]. Tim is a co-curator of ColdTowne Theater's [[Bad Movie Night]] along with [[Drew Wesely]]. 
