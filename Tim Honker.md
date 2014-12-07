@@ -18,7 +18,6 @@ Tim graduated from the University of Texas in 2006 with a B.S. in Aerospace Engi
 ## Active Troupes & Shows
 * [[Nice Astronaut]] - improviser, head writer, producer, actor
 * [[Townsville]] - writer, co-director, actor, producer
-* [[First United Methodist Church of Plano Youth Group Improv]] - improviser & troupe creator, 2012 - present
 
 ## Former Troupes & Shows
 * *[[Indy Movies]]* - improviser (2013)
