@@ -22,14 +22,16 @@ Tim graduated from the University of Texas in 2006 with a B.S. in Aerospace Engi
 ## Former Troupes & Shows
 * *[[Indy Movies]]* - improviser (2013)
 * [[Stool Pigeon]] - improviser, 2009-2011, 2013
-* [[Dinner Detective]] - actor, founding cast for Austin, 2010 - present
-* [[UpTowne]] - sketch writer/actor (2008-2010)
+* [[First United Methodist Church of Plano Youth Group Improv]] - improviser & troupe creator, 2012 - 2014
+* [[Dinner Detective]] - actor, founding cast for Austin, 2010 - 2014
 * [[ColdTowne Tour Co]] - improviser (2010)
 * [[Total Panic]] - improviser (2009)
-* [[Murphy Power Hour]] - sketchprov writer/performer (2009 - 2010)
-* [[Dear Frailty]] - director, co-writer, tech (2009, 2010)
 * [[Varsity]] - improviser (2011)
 * [[ColdTowne All Stars]] - improviser (2009-2011)
+
+* [[UpTowne]] - sketch writer/actor (2008-2010)
+* [[Murphy Power Hour]] - sketchprov writer/performer (2009 - 2010)
+* [[Dear Frailty]] - director, co-writer, tech (2009, 2010)
 
 ## Festivals
 * Chicago Improv Festival (Nice Astronaut 2013)
