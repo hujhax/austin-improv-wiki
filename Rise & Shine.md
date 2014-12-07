@@ -21,6 +21,9 @@ The cast played the same characters every time & invited a guest player to impro
 The first performance was a [[Cagematch]] show and happened on Saturday, March 7th, 2009 at [[ColdTowne Theater]]. It featured [[John Ratliff]] as the guest celebrity.
 
 ## Media
+### Videos
+* [http://youtu.be/KtI5gT7QCIk Teaser video] by [[Jon Bolden]].
+
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.114135967264.110677.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/15/09 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] of their 5/16/10 performance in *[[The Weekender]]*.
