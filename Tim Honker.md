@@ -13,11 +13,7 @@ Tim started taking improv and sketch classes at [[ColdTowne Conservatory]] in 20
 Tim got started in improvised comedy by performing in improvised narrative short films in junior high with his friends.  These improvised videos continued continued through high school and on into college when his friends became film students at the University Of Texas.
 
 ## Non-comedy
-Tim graduated from the University of Texas in 2006 with a B.S. in Aerospace Engineering and a minor in Computer Science.  Tim spent several years working in the defense industry designing and testing weapons and military systems ranging from digital rifle sights to nuclear missile test systems as a systems, mechanical, software, and test engineer.
-
-Tim assisted on design of FASTRAC, the University of Texas's nanosatellite, that was launched into low Earth orbit on November 19, 2010, several years after he graduated.  He went on to be the structural subsystems lead on FASTRAC's successor ARTEMIS.
-
-Tim is also a homebrewer, a NAUI certified Master Scuba Diver, worked on several published PC video game titles, and is a co-curator of ColdTowne Theater's [[Bad Movie Night]].
+Tim graduated from the University of Texas in 2006 with a B.S. in Aerospace Engineering and a minor in Computer Science.  Tim spent several years working in the defense industry designing and testing weapons and military systems ranging from digital rifle sights to nuclear missile test systems as a systems, mechanical, software, and test engineer. Tim assisted on design of FASTRAC, the University of Texas's nanosatellite, that was launched into low Earth orbit on November 19, 2010, several years after he graduated.  He went on to be the structural subsystems lead on FASTRAC's successor ARTEMIS. Tim is also a homebrewer, a NAUI certified Master Scuba Diver, and has worked on several published PC video game titles.
 
 ## Active Troupes & Shows
 * [[Nice Astronaut]] - improviser, head writer, producer, actor
