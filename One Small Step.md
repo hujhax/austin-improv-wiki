@@ -8,7 +8,7 @@
 |Tech               = {{Unbulleted list | [[Donnie Garcia]] | [[Ripley Adams]] }}
 }}
 
-***One Small Step*** will be the February 2015[[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***One Small Step*** will be the February 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
