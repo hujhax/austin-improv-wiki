@@ -2,7 +2,7 @@
 |Name = The Organ Trail	
 |Theater = [[ColdTowne Theater]]
 |Director =	[[Cody Dearing]]
-|Cast =	{{Unbulleted list | [[Rachel Austin]] | [[Benjamin Bazan]] | [[Quinn Buckner]] | [[Chaz Formichella]] | [[Alejandro Garcia]] | [[KC HT]] | [[Ally Huston]] | [[Sarah Hutchins]] | [[Patrick Kail]] | [[Jessica Marpe]] | [[Chris McKeever]] | [[Lance Nealy]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Sanjay Rao]] | [[Richard Smith]] | [[Bobby Stover]] | [[Drew Wesely]] | [[Logan Williams]] }}
+|Cast =	{{Unbulleted list | [[Rachel Posey Austin]] | [[Benjamin Bazan]] | [[Quinn Buckner]] | [[Chaz Formichella]] | [[Alejandro Garcia]] | [[KC HT]] | [[Ally Huston]] | [[Sarah Hutchins]] | [[Patrick Kail]] | [[Jessica Marpe]] | [[Chris McKeever]] | [[Lance Nealy]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Sanjay Rao]] | [[Richard Smith]] | [[Bobby Stover]] | [[Drew Wesely]] | [[Logan Williams]] }}
 |Run	=	Oct 2014
 }}
 
