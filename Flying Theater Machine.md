@@ -38,13 +38,10 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ## Cast
 * [[Jessica Arjet]]       (2007-Present) 
-* [[Thedward Blevins]]    (Sep 2012-Present)
-* [[Bridget Brewer]]      (Nov 2012-Present)
-* [[Madeline Jo Chauvin]] (Jan 2013-Present)
+* [[Thedward Blevins]]    (Sep 2012-Present)  
 * [[Caeriel Crestin]]
 * [[Mitchell Deane]]
-* [[Lindsay Hejl]]        (Mar 2014-Present)
-* [[Andrew Robinson]]     (Sep 2013-Present)
+* [[Lindsay Hejl]]        (Mar 2014-Present)   
 * [[David Ronn]]          (May 2013-Present)
 * [[Megan Venable]]       (Sep 2013-Present)
 * [[Luke Wallens]]
@@ -60,6 +57,9 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Ruby Willmann]]
 
 ### Alumni / On Hiatus
+* [[Andrew Robinson]]
+* [[Bridget Brewer]]   
+* [[Madeline Jo Chauvin]]  
 * [[Marc Majcher]] 
 * [[Matt Pollock]] (2007-June 2013, currently on paternity hiatus)
 * [[Mike Kinald]]
