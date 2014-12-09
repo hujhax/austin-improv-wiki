@@ -27,6 +27,7 @@ Katie started taking improv classes with [[Shana Merlin]] at [[The State Theater
 * *[[Braised in Texas]]*
 * *[[Beware of Female Spies]]* (producer) 
 * ''[[Back In Townsville  -  The Community Center]]
+* ''[[Bridgeport Women's Correctional Facility Short Form Improv Players]]
 
 
 [[Category/Performers|Thornton]] 
