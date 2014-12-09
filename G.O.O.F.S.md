@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		G.O.O.F.S.
 |Picture	=	G.O.O.F.S..png
-|Cast	=	{{ Unbulleted list | [[Katie Doran]] | [[Lindsy Hejl]] | [[Michael Bowman]] | [[Mitchell Shotts]] | [[Patrick Creamer]] | [[Tim Stiefler]] }}
+|Cast	=	{{ Unbulleted list | [[Katie Doran]] | [[Lindsay Hejl]] | [[Michael Bowman]] | [[Mitchell Shotts]] | [[Patrick Creamer]] | [[Tim Stiefler]] }}
 |Years	=		2013-Present
 }}
 
