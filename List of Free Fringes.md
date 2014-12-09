@@ -1260,7 +1260,7 @@ Headliners
 #### Laura Ingalls/Aliens ([[Paul Normandin]])
 Laura Ingalls of Little House on the Prairie has many fans in town. But fewer of them are boys. Many of the SciFi and Fantasy Geeks are boys and many of them only want to play where there are monsters! So how do we mash those ideas? Simple, we have Laura Ingalls Fans on stage with a bunch of SciFi Nerds. Costumes and Characters from each can play out in separate scenes until they eventually converge! But I am playing with the idea of the whole thing being dubbed! Ingalls fans dubbing the Nerds and vice versa until the worlds collide, then all hell breaks loose. Nerds speak for Nerds or Nerds play Ingalls fans! Who Can Say!!!
 
-#### Joe, Betty, and Jan ([[Lindsy Hejl]])
+#### Joe, Betty, and Jan ([[Lindsay Hejl]])
 We all play our grandparents. Maybe starts out as a la ronde type thing in the beginning to meet each of us with different people.
 
 #### [[Jessica Arjet]] & [[Mason Pitluk]]
