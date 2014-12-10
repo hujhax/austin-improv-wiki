@@ -21,7 +21,7 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 * *[[The Free Fringe]]* (2012-{{CURRENTYEAR}})
 * *[[Lord Wensleydale’s Last High Tea]]* (2013)
 * *[[Maestro]]* (2011-{{CURRENTYEAR}})
-* *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013) (cohost)
+* *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013 & 2014) (cohost)
 * *[[Pick Your Own Path]]* (2012-{{CURRENTYEAR}})
 * *[[The Sword of Merlin Works]]* (2012)
 * *[[The Tribunal]]* (2012)
