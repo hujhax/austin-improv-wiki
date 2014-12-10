@@ -14,11 +14,12 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 
 ## Troupes
 * [[Apocalypse (troupe)|Apocalypse]]
-* [[The Bystanders]]
+* [[Huge In Japan]] / [[The Bystanders]]
 * [[Racket]]
 * [[Stone Airplane]]
 
 ## Shows
+* *[[Hurly Burly]]*
 * *[[GrimmNoir]]*
 * *[[Racket]]*
 * *[[The Joss Whedon Pajama Party]]*
