@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Past Life Aggression
-|Cast	=	{{ Unbulleted list | [[Dimitri Kasropour]] | [[Kenny Madison]] | [[Amanda Smith]] | [[Robert Slack]] }}
+|Cast	=	{{ Unbulleted list | [[Dimitri Kasropour]] | [[Kenny Madison]] | [[Amanda Smith]] | [[Robert Slack]] | [[Norman Tran]] | [[Cagney Ortiz]] | [[Alex Seymore]] | [[Frank Wilmore]] | [[Gene Zhou]] }}
 |Years	=		2014-Present
 }}
 
