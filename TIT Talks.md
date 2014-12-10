@@ -28,7 +28,7 @@ It was hosted by [[Wikipedia - KGSR|KGSR]]'s [http://www.kgsr.com/jocks/kristen.
 * 3/21/14: Lectures from [[Justin Davidson]], [[Emma Holder]], [[Bryan 'Lubu' Roberts]], and [[Asaf Ronen]],; performances from [[Thomas Niland]] and [[The Balance Brothers]].
 * 3/22/14: Lectures from [[Emma Holder]], [[Ash Nunley]], [[Bryan 'Lubu' Roberts]], and [[Asaf Ronen]],; performances from [[Roxy Castillo]] and [[The Balance Brothers]].
 
-
+## TNM Runs
 The show ran during [[The Moontower Comedy Festival]] on April 23 and April 24, 2014 as TNM Talks at [[The New Movement Theater]]. It had another run there Friday evenings in November 2014. During that November TNM Talks performed on the Yellow Stage of Fun Fun Fun Fest on November 7th. The lectures at Fun Fun Fun Fest were from [[Drew Wesely]], [[Amy Jordan]], [[John Buseman]], and [[Justin Davidson]], with a musical-comedy performance from [[David Howe]]. 
 
 ## Media
