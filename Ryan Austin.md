@@ -27,12 +27,12 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 *[[Austin-Austin]]
 * [[The Starborn]]
 * [[Local Genius Society]] (2012 - 2014)
+* *[[Past Lives]]* (2013 - 2014)
 
 ## Shows
 * *[[The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
 * *[[Pocketful of Posies]]*
 * *[[Strange Worlds]]*
-* *[[Past Lives]]* 
 * *[[I Love You So Much]]*
 * [[The International Improv Experience]]
 * [[Wanderlust]]
