@@ -1,13 +1,8 @@
-{{Infobox Troupe
-|Name	=		Moonsault
-|Picture	=	Moonsault.jpg
-|Cast	=	{{Unbulleted list | [[Clayton Tharp]] | [[Cody Cartagena]] | [[Craig Palumbo]] | [[David Israel]] | [[Olivia Doud]] | [[Stephanie Pace]] | [[Terance McDavid]] }}
-|Years	=		2013-2014
-}}
+Moonsault was a now-legendary improv troupe and World Heavyweight Champion based in Austin, Texas. Often referred to as "the Stone Cold Steve Austin of the Austin improv scene," Moonsault was known for its innovative shows that involved large amounts of slapstick, stunts, spraying beer on weak poser troupes, and non-shitty improv. RIP.
 
-**Moonsault** was an improv troupe based out of [[The New Movement]], with advertising themed around professional wrestling.
+Feats and accomplishments:
 
-## More Information
-* [http://twitter.com/moonsaultcomedy The troupe's twitter feed.]
-
-[[Category/Troupes|Category:Troupes]]
+3X World Heavyweight Champion<br>
+2X Intercontinental Champion<br>
+2X United States Champion<br>
+1X Hardcore Champion<br>
