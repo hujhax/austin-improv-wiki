@@ -6,3 +6,5 @@ Feats and accomplishments:
 2X Intercontinental Champion<br>
 2X United States Champion<br>
 1X Hardcore Champion<br>
+
+None of this is a joke.
