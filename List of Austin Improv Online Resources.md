@@ -8,12 +8,13 @@ This **list of Austin improv online resources** includes information about web s
 ** [http://vimeo.com/channels/austinimprov The Austin Improv Vimeo Channel]: videos of Austin improv shows.
 
 ## Facebook Groups
-* Hey, Austin Improv Community, Whatcha Doin' Tonight?!
-* ColdTowne Students and Performers!
-* Hideout Performers, Students, and Alumni
-* Hideout Maestro - Behind the Scenes
-* The Institution Theater Students, Alumni, and Staff
-* Merlin Works Students and Alumni
+* [https://www.facebook.com/groups/319733741403020/ Hey, Austin Improv Community, Whatcha Doin' Tonight?!]
+* [https://www.facebook.com/groups/329318317231968/ AIC Prop Swap]
+* [https://www.facebook.com/groups/144182719040012/ ColdTowne Students and Performers!]
+* [https://www.facebook.com/groups/hideouttheatre/ Hideout Performers, Students, and Alumni]
+* [https://www.facebook.com/groups/541841935909841/ Hideout Maestro - Behind the Scenes]
+* [https://www.facebook.com/groups/217905648309669/ The Institution Theater Students, Alumni, and Staff]
+* [https://www.facebook.com/groups/merlinworks Merlin Works Students and Alumni]
 * TNM Students Section
 * Austin Improv Comic Book Community
 * Austin Improv Parents
