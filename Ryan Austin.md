@@ -34,8 +34,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Strange Worlds]]*
 * *[[Past Lives]]* 
 * *[[I Love You So Much]]*
-* "[[The International Improv Experience]]"
-* "[[Wanderlust]]"
+* [[The International Improv Experience]]
+* [[Wanderlust]]
 
 ## Directing
 * *[[The Fancy-Pants Mashup]]* (director 2012-2013)
