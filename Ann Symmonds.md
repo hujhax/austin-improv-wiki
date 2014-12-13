@@ -1,6 +1,5 @@
 {{Infobox Performer
 |Name	=	Ann Nelson
-|Picture = example.jpg
 |Theater=	[[The Hideout Theatre]]
 }}
 
