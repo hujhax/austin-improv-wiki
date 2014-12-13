@@ -1,6 +1,5 @@
 {{Infobox Troupe
 |Name	=	Physics Curse
-|Picture =      ![[Example.jpg]]
 |Cast	=	{{Unbulleted list | [[Rosemarie Frezza]]  | [[Aspen Webster]]|| [[Ann Nelson]]| [[Rachel Posey Austin]]}}
 |Years	=		July 2014-Present
 }}
