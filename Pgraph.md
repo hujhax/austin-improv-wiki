@@ -1,1 +1,1 @@
-#redirect [[Parallelogramophonograph]]
+#REDIRECT [[Parallelogramophonograph]]
