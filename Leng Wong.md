@@ -16,6 +16,7 @@
 
 ## Shows
 * *[[GrimmNoir]]*
+* *[[Risen]]*
 * *[[Reframed]]*  (Producer)
 * *[[Project ReSet]]*
 * *[[False Matters]]* (stage manager)
