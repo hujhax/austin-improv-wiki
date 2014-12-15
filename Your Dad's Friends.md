@@ -2,7 +2,7 @@
 |Name	=		Your Dad's Friends
 |Picture	=	Your Dad's Friends.jpg
 |Cast	=	{{Unbulleted list|[[Brently Heilbron]]|[[Chuy Zarate]]|[[David Lampe]]|[[Kevin Miller]]|[[Summer Wilson Brow]]}}
-|Years	=		2010-Present
+|Years	=		2010-2014
 }}
 
 **Your Dad's Friends** is an improv troupe that consists mainly of improvisors who were around for the early days of the Austin-improv scene.
@@ -26,6 +26,6 @@ Here is [[Chuy Zarate]]'s explanation of the name's origin:<blockquote>Your Dad'
 
 ## More Information
 * [http://www.facebook.com/pages/Your-Dads-Friends/247344088770 The troupe's facebook page.]
+* [https://www.facebook.com/permalink.php?story_fbid=10152873795198771&id=247344088770 The troupe's announcement that they were dissolving.]
 
-[[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
