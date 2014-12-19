@@ -19,6 +19,8 @@ Katie got her first taste of improv in high school when a lovely Austin improvis
 * *[[Wanderlust]]*
 * *[[Risen]]*
 * *[[The International Improv Experience]]*
+* *[[The 45-Hour Improv Marathon]]*
+* *[[Pick Your Own Path]]*
 * *[[Theatresports]]*
 * *[[Fakespeare]]*
 * *[[I Love You So Much]]*
