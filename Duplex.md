@@ -3,6 +3,7 @@
 |Picture	=	Duplex.jpg
 |Cast	=	{{ Unbulleted list | [[Austen Silver]] | [[Catherine Grady]] | [[Evan Eggers]] | [[Norman Tran]] }}
 |Years	=		2014-Present
+|Website =      http://dupleximprov.com
 }}
 
 **Duplex** is an improv troupe made up of recent graduates of [[The Hideout Theatre]].
