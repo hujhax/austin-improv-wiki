@@ -10,7 +10,8 @@ The awards currently include improv categories for "Outstanding Production" and 
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: [[ColdTowne (troupe)|ColdTowne]]
 
 ### 2007-2008 Season
-No awards given.
+Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre, both on stage and in the community.)
+Dave Buckman, Asaf Ronen, Tami Nelson, Chris Trew, Michael, Jastroch, Shana Merlin, Roy Janik, and Justin York
 
 ### 2008-2009 Season
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre: [[Parallelogramophonograph]]
