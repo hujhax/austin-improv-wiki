@@ -25,6 +25,8 @@ No awards listed. (?)
 
 ### 2011-2012 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: [[Girls Girls Girls]]
+Nominees:
+Bad Boys
 
 ### 2012-2013 Season
 No awards listed. (?)
