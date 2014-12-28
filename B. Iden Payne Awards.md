@@ -2,7 +2,7 @@ The **B. Iden Payne Awards** are annual awards for local theater in Austin.
 
 The awards currently include improv categories for "Outstanding Production" and "Outstanding Director", as well as the "Rudy Kloptik Award for Outstanding Improvisational Troupe".
 
-## List of Improv Award Winners, By Year
+## List of Improv Award Winners and Nominees, By Year
 ### 2005-2006 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: [[The Frank Mills]]
 
