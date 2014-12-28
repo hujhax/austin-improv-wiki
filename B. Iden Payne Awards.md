@@ -6,10 +6,15 @@ The awards currently include improv categories for "Outstanding Production" and 
 ### 2005-2006 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: [[The Frank Mills]]
 Nominees:
-You Me & Greg
-Girls Girls Girls
-Foolish Mortals
-The Frank Mills
+
+You Me & Greg 
+
+Girls Girls Girls 
+
+Foolish Mortals 
+
+The Frank Mills 
+
 ColdTowne
 
 ### 2006-2007 Season
