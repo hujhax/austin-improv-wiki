@@ -27,6 +27,18 @@ ColdTowne
 ### 2006-2007 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: [[ColdTowne (troupe)|ColdTowne]]
 
+Nominees:
+
+Available Cupholders 
+
+ColdTowne 
+
+Frank Mills 
+
+Parallelogramophonograph 
+
+Girls Girls Girls
+
 ### 2007-2008 Season
 Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre, both on stage and in the community.)
 
