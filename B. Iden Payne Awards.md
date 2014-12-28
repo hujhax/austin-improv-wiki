@@ -37,3 +37,5 @@ Bad Boys
 * Outstanding Production: *[[Hurly Burly]]*
 * Outstanding Director: [[Jayme Ramsay]] and [[Marc Majcher]], *[[Hurly Burly]]*
 * Rudy Kloptik Award for Outstanding Improvisational Troupe: [[Girls Girls Girls]]
+Nominees:
+Bad Boys
