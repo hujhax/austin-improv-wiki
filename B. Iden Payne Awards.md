@@ -52,6 +52,18 @@ Dave Buckman, Asaf Ronen, Tami Nelson, Chris Trew, Michael, Jastroch, Shana Merl
 ### 2008-2009 Season
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre: [[Parallelogramophonograph]]
 
+Nominees:
+
+ColdTowne
+
+Confidence Men: Improvised Mamet
+
+Midnight Society
+
+Parallelogramophonograph
+
+The Frank Mills
+
 ### 2009-2010 Season
 No awards listed. (?)
 
