@@ -3,6 +3,12 @@ The **B. Iden Payne Awards** are annual awards for local theater in Austin.
 The awards currently include improv categories for "Outstanding Production" and "Outstanding Director", as well as the "Rudy Kloptik Award for Outstanding Improvisational Troupe".
 
 ## History
+The B. Iden Payne awards are given annually in the fall by the B. Iden Payne awards council, a sponsored project of the Austin Creative Alliance, to "recognize outstanding contributions to the Austin theatre community". They are named after British theatre director and UT professor B. Iden Payne and handed out their first awards in 1974.  
+
+Only scripted productions were included in the ceremonies until 2006, when Austin Circle of Theatres director Latifah Taormina invited the improv community to become a part of the awards.  The first year, all voting was done in a single round, with each improvisor delivering their ballot with a single nomination via email or paper to Rachel Madorsky and Valerie Ward, who took care of the voting and nominations.  The top five nominees were announced on September 25th, and the winner was announced at the awards ceremony on October 29th.  The official title of the award was "The Rudy Kloptic Award for Outstanding Improvisational Theatre Ensemble," named after Rudy Kloptic (need more info on who he was).
+
+In 2007, voting was again done through a single ballot, this time via online anonymous voting system set up by Roy Janik using Bob Apthorpe's voting program.  The top five nominees were announced on October 20 and the winner on October 21.
+
 ## List of Improv Award Winners and Nominees, By Year
 ### 2005-2006 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: [[The Frank Mills]]
