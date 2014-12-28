@@ -1,11 +1,11 @@
 **Same Year's Eve** is an annual improv show/party held on December 30th at [[The Hideout Theatre]].
 
 ## Summary
-Every year on December 30th, improvisors from all around Austin descend on [[The Hideout Theatre]].  They put on a three-part show in the downstairs theater: the first act consists of games; the second part is a montage of scenes; and the third is an improvised musical narrative.  Afterwards, there is a giant party for the improvisors upstairs at the Hideout.  At midnight, everyone counts down to the "same year", and afterwards, improv notables deliver toasts to the rest of the community.
+Every year on December 30th, improvisors from all around Austin descend on [[The Hideout Theatre]].  They put on a three-part show in the downstairs theater: the first act consists of games; the second part is a montage of scenes; and the third is an improvised musical narrative.  Afterwards, there is a giant party for the improvisors upstairs at the Hideout.  At midnight, everyone counts down to the "same year", and afterwards, improv notables deliver toasts to the rest of the community. While New Year's Eve is a chance to look forward to the year to come and think about new opportunities, Same Year's Eve is one last chance to celebrate the present, the year we are in, and enjoy all the year's accomplishments.
 
 A large number of improvisors from throughout the community attend the event -- in 2012, Same Year's drew some ninety performers and another hundred improvisors who just came for the party.
 
-The event was first held in 2007.
+The event was first held in 2007. Same Year's Eve was created by Valerie Ward as an antidote to the traditional New Year's Eve, where it seems like there are 12 different parties, and at each one you'll only know a few people.  Ward wanted a night where everyone would feel like they were part of the community as a whole, and where improvisors and friends could celebrate the year and each other.  Ward, with the help of the AIC, organized the first year's event to include a show, a potluck after party, and a sleep over/lock-in, complete with a game of Sardines.  No one slept over, and so thereafter the celebrations were simply a party that lasted as long as everyone was having a good time.  While the Hideout Theatre is the official host of the event, it is truly a community affair with everyone providing talent, food, drink, and comraderie to make the night special.  Recent years have the added bonus of a musical dance party overseen by DJ Bouncehouse.
 
 ## Media
 ### Videos
