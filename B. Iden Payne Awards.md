@@ -72,7 +72,7 @@ Parallelogramophonograph
 The Frank Mills
 
 ### 2009-2010 Season
-*Rudy Kloptik Award for Outstanding Work in Improvisational Theatre: ??
+*Rudy Kloptik Award for Outstanding Work in Improvisational Theatre: Confidence Men: Improvised Mamet
 
 Nominees:
 
