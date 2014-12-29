@@ -186,7 +186,7 @@ Girls Girls Girls
 
 Parallelogramophonograph
 
-Outstanding Puppetry (General Theatre category)
+*Outstanding Puppetry (General Theatre category)
 
 Nominee:
 
