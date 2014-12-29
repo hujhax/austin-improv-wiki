@@ -87,6 +87,8 @@ Dusk: Improvised Tween Erotica (GNAP! Theater Productions)
 The Frank Mills (ColdTowne Theater)
 
 ### 2010-2011 Season
+*The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: Confidence Men
+
 Nominees:
 
 Austin Secrets (The Hideout Theatre)
