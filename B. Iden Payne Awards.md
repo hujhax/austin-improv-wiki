@@ -19,7 +19,11 @@ In 2011, the artistic directors of each of the five improv theaters nominated on
 In 2012, Dave Buckman again wragled the nominations process with open nominations based on the following eligibility requirements: 
 a) it is improvised theater (no sketch work) 
 b) it had a run of at least 4 shows on either a regular weekly or monthly basis 
-c) exemplifies the best Improvisational Theater in Austin.  Individuals could nominate up to three shows or troupes.  The top five nominees were again passed to the awards committee for member voting.
+c) exemplifies the best Improvisational Theater in Austin.  Individuals could nominate up to three shows or troupes.  The top five nominees were again passed to the awards committee for member voting. Runners up included: Danger! Warning! Improv!
+Process
+The Frank Mills/Midnight Society 
+The Knuckleball Now 
+The Megaphone Show. At the 2012 awards ceremony it was announced that starting with the 2013-2014 season, improv would be fully integrated into the awards ceremony, and any improv show with a run of 6 or more performances would be eligible to be viewed and nominated by the B. Iden Payne awards committee.
 
 ## List of Improv Award Winners and Nominees, By Year
 ### 2005-2006 Season
