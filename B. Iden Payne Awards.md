@@ -14,7 +14,7 @@ In 2008, the nominations process and award format was changed.  Instead of an ou
 In 2009, Dave Buckman spearheaded the awards nominations process.  He assembled a list of every Austin-based troupe (a consistent cast of players performing long term) and show (a specific concept with a limited run) that had performed that year.  A combined 180 shows and troupes were eligible to be nominated.  Nomination ballots with the complete list were distributed in every program at The Out Of Bounds festival that year, and nominations were open to OOB audience members as well as improvisors and students.  Individuals could nominate up to three shows/troupes via the paper ballot or by contacting Dave directly. Nominees were announced September 9 and handed over to the ACoT members for general membership voting, as all other theatre categories are voted on.  In addition to the official nominees, Dave recognized the following groups as notable runner ups:
 40 Hour Marathon, Available Cupholders, Get Up, Girls Girls Girls, Guilds of Steel, Venn Diaphragm, ... and FUCT(!)<--(huge write-in campaign!).  2010 nominations were handled in the same way.
 
-In 2011, the artistic directors of each of the five improv theaters nominated one troupe or show to represent their theatre, and these nominations were passed to the awards committee for member voting.
+In 2011 and 2013, the artistic directors of each of the five improv theaters nominated one troupe or show to represent their theatre, and these nominations were passed to the awards committee for member voting.
 
 In 2012, Dave Buckman again wragled the nominations process with open nominations based on the following eligibility requirements: 
 a) it is improvised theater (no sketch work) 
@@ -23,7 +23,9 @@ c) exemplifies the best Improvisational Theater in Austin.  Individuals could no
 Process
 The Frank Mills/Midnight Society 
 The Knuckleball Now 
-The Megaphone Show. At the 2012 awards ceremony it was announced that starting with the 2013-2014 season, improv would be fully integrated into the awards ceremony, and any improv show with a run of 6 or more performances would be eligible to be viewed and nominated by the B. Iden Payne awards committee.
+The Megaphone Show. 
+
+At the 2012 awards ceremony it was announced that starting with the 2013-2014 season, improv would be fully integrated into the awards ceremony, and any improv show with a run of 6 or more performances would be eligible to be viewed and nominated by the B. Iden Payne awards committee.  Any show meeting eligibility requirements could submit itself for consideration, and would be viewed and considered for two new improv specific awards, Outstanding Production and Outstanding Director, as well as being eligible for any other general theatre awards as might apply including costuming, set design, etc.  Nominees would be generated through the rigorous nominations committee process, and the nominees would then be voted on by any monetary supporter of the Austin Creative Alliance, opening voting up to all interested parties who could donate, as opposed to the previous system of only dues-paying member of the ACA being able to vote.
 
 ## List of Improv Award Winners and Nominees, By Year
 ### 2005-2006 Season
