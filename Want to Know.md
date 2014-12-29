@@ -27,3 +27,4 @@ On 4/1/13, frequent contributors [[Jordan T. Maxwell]], [[Peter Rogers]], [[Kevi
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=6&t=13360 The original Wu Yun thread.]
+* [http://austinimprov.com/wanttoknow/ An e-book edition of the story], edited by [[Kevin Miller]].
