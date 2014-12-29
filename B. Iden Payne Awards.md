@@ -166,7 +166,7 @@ Nominees:
 
 [[Hurly Burly]]
 
-[[Kenjitsu]]
+[[Kenjutsu]]
 
 [[I Love You So Much]]
 
@@ -181,7 +181,7 @@ Nominees:
 
 [[Valerie Ward]] ([[A Bedtime Gorey]])
 
-[[Kareem Badr]] and [[Shannon McCormick]] ([[Kenjitsu]])
+[[Kareem Badr]] and [[Shannon McCormick]] ([[Kenjutsu]])
 
 [[Roy Janik]] and [[Jessica Arjet]] ([[I Love You So Much]]) 
 
