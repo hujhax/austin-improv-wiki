@@ -85,7 +85,17 @@ Dusk: Improvised Tween Erotica (GNAP! Theater Productions)
 The Frank Mills (ColdTowne Theater)
 
 ### 2010-2011 Season
-No awards listed. (?)
+Nominees:
+
+Austin Secrets (The Hideout Theatre)
+
+Confidence Men (The Institution Theater)
+
+Get Up (Gnap! Theater Projects)
+
+The Megaphone Show (The New Movement Theater)
+
+Midnight Society (ColdTowne Theater)
 
 ### 2011-2012 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: [[Girls Girls Girls]]
