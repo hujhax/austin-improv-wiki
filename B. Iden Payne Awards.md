@@ -45,7 +45,7 @@ Story was clearly articulated and progressed at an appropriate pace by the perfo
 Casting: All actors were suited to their roles and work together in a purposeful manner (reactive)
 Clear collaboration between director and designers which supports all creative and technical elements of a production to tell a unified & integrated affecting story
 
- The nominees would then be voted on by any monetary supporter of the Austin Creative Alliance, opening voting up to all interested parties who could donate, as opposed to the previous system of only dues-paying member of the ACA being able to vote.
+The nominees would then be voted on by any monetary supporter of the Austin Creative Alliance, opening voting up to all interested parties who could donate, as opposed to the previous system of only dues-paying member of the ACA being able to vote.
 
 ## List of Improv Award Winners and Nominees, By Year
 ### 2005-2006 Season
