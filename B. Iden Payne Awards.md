@@ -120,9 +120,20 @@ Manhattan Stories
 Parallelogramophonograph
 
 ### 2012-2013 Season
-No awards listed. (?)
+* Rudy Kloptik Award for Outstanding Work in Improvisational Theatre: The Suitcase 
 Nominees: 
-Bad Boys
+
+Bad Boys (ColdTowne Theater)
+
+Fandom: Improvised Fan Fiction in Your Favorite Worlds (The Hideout Theatre)
+
+Get Up (GNAP! Productions/Salvage Vanguard Theater)
+
+The Known Wizards (MerlinWorks/ZACH Theater)
+
+The Megaphone Show (The New Movement Theater)
+
+The Suitcase (The Institution Theater)
 
 ### 2013-2014 Season
 * Outstanding Production: *[[Hurly Burly]]*
