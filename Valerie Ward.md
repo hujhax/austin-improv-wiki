@@ -5,31 +5,50 @@
 | Years = 2001-Present
 }}
  
-**Valerie Ward** is an improv performer, teacher, and director.
+**Valerie Ward** is an improv performer, teacher, coach, and director.
 
 ## History
-Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
+Valerie started doing improv in 2001 in college at UT as a member of [[Ed32]].  She then became involved with [[The Hideout Theatre]], and took level 2 there with Shana Merlin as her teacher.  She began attending jams and workshops regularly, and became a founding member of [[Parallelogramophonograph]]. She has been very involved at The Hideout ever since, as well as participating in shows at various other theatres around town. She has been teaching all levels of adult classes at The Hideout since 2006 and began teaching as part of the Special Needs youth program in 2014. She also coaches groups around town and directs shows for The Hideout. Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
 
 ## Troupes
+Current:
+* [[Parallelogramophonograph]]
+* [[Echo Lake]]
+* [[Glamazon]]
+* [[Pep!]]
+Past:
 * [[Adventure Squad!]]
 * [[Ed 32]]
 * [[Girl Embassy World Team]]
-* [[Parallelogramophonograph]]
 * [[Rise & Shine]]
 * [[Sarah 7]]
+* [[The Nesting Dolls]]
 
 ## Shows
-* *[[A Bedtime Gorey]]* (director) (*forthcoming*)
-* *[[After School Improv]]*
-* *[[The Andersons]]*
+* *[[I'll Be Home For Christmas]]* (director)
+* *[[A Deed So Dark]]* (director)
+* *[[Nothing and Everything]]*
+* *[[Reform School for Wayward Girls]]*
+* *[[The Dahl House]]* (director)
+* *[[F. Scott & Zelda Fitzgerald Save The World]]*
+* *[[A Bedtime Gorey]]* (director) 
+* *[[Braised in Texas]]*
+* *[[Manhattan Stories]]* (co-director)
+* *[[Who Is T. Henry Baudecliffe]]*
+* *[[The Tribunal]]*
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Crack!]]*
+* *[[After School Improv]]*
 * *[[Improvised Shakespeare]]*
-* *[[Manhattan Stories]]* (co-director)
-* *[[The Tribunal]]*
+
+## Troupes Coached
+* [[Escape Hatch]]
+* [[Ratliff and Jackson]]
+* [[Dudith]]
 
 ## More Information
+In addition to her improv activities, Valerie is co-owner of Sweet Ritual Vegan Ice Cream Parlor.
 * [http://yesandrew.com/2014/06/29/the-sunday-interview-valerie-ward/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Ward]]
