@@ -159,10 +159,35 @@ The Suitcase (The Institution Theater)
 
 ### 2013-2014 Season
 * Outstanding Production: *[[Hurly Burly]]*
+
 Nominees:
+
+A Bedtime Gorey
 
 
 * Outstanding Director: [[Jayme Ramsay]] and [[Marc Majcher]], *[[Hurly Burly]]*
-* Rudy Kloptik Award for Outstanding Improvisational Troupe: [[Girls Girls Girls]]
+
 Nominees:
+
+Jayme Ramsey and Marc Majcher (Hurly Burly)
+
+Valerie Ward (A Bedtime Gorey)
+
+
+
+
+* Rudy Kloptik Award for Outstanding Improvisational Troupe: [[Girls Girls Girls]]
+
+Nominees:
+
 Bad Boys
+
+Girls Girls Girls
+
+Parallelogramophonograph
+
+Outstanding Puppetry (General Theatre category)
+
+Nominee:
+
+A Bedtime Gorey
