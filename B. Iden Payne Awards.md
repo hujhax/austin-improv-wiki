@@ -162,17 +162,30 @@ The Suitcase (The Institution Theater)
 
 Nominees:
 
-A Bedtime Gorey
+[[A Bedtime Gorey]]
+
+[[Hurly Burly]]
+
+[[Kenjitsu]]
+
+[[I Love You So Much]]
+
+[[Austin Secrets]]
 
 
 * Outstanding Director: [[Jayme Ramsay]] and [[Marc Majcher]], *[[Hurly Burly]]*
 
 Nominees:
 
-Jayme Ramsey and Marc Majcher (Hurly Burly)
+[[Jayme Ramsey]] and [[Marc Majcher]] ([[Hurly Burly]])
 
-Valerie Ward (A Bedtime Gorey)
+[[Valerie Ward]] ([[A Bedtime Gorey]])
 
+[[Kareem Badr]] and [[Shannon McCormick]] ([[Kenjitsu]])
+
+[[Roy Janik]] and [[Jessica Arjet]] ([[I Love You So Much]]) 
+
+[[Roy Janik]] and [[Lisa Jackson]] ([[Austin Secrets]])
 
 
 
@@ -180,14 +193,20 @@ Valerie Ward (A Bedtime Gorey)
 
 Nominees:
 
-Bad Boys
+[[Bad Boys]]
 
-Girls Girls Girls
+[[Girls Girls Girls]]
 
-Parallelogramophonograph
+[[Parallelogramophonograph]]
 
-*Outstanding Puppetry (General Theatre category)
+[[Movie Riot]]
 
-Nominee:
+[[The Knuckleball Now]]
 
-A Bedtime Gorey
+
+
+*General Theatre Awards and nominations: 
+
+Outstanding Puppetry Nominee:
+
+[[A Bedtime Gorey]]
