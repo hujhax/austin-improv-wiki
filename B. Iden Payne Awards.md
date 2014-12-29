@@ -25,7 +25,27 @@ The Frank Mills/Midnight Society
 The Knuckleball Now 
 The Megaphone Show. 
 
-At the 2012 awards ceremony it was announced that starting with the 2013-2014 season, improv would be fully integrated into the awards ceremony, and any improv show with a run of 6 or more performances would be eligible to be viewed and nominated by the B. Iden Payne awards committee.  Any show meeting eligibility requirements could submit itself for consideration, and would be viewed and considered for two new improv specific awards, Outstanding Production and Outstanding Director, as well as being eligible for any other general theatre awards as might apply including costuming, set design, etc.  The Rudy Kloptic award was maintained and once again reserved exclusively for the recognition of improv troupes.  Nominees would be generated through the rigorous nominations committee process, and the nominees would then be voted on by any monetary supporter of the Austin Creative Alliance, opening voting up to all interested parties who could donate, as opposed to the previous system of only dues-paying member of the ACA being able to vote.
+At the 2012 awards ceremony it was announced that starting with the 2013-2014 season, improv would be fully integrated into the awards ceremony, and any improv show with a run of 6 or more performances would be eligible to be viewed and nominated by the B. Iden Payne awards committee.  Any show meeting eligibility requirements could submit itself for consideration, and would be viewed and considered for two new improv specific awards, Outstanding Production and Outstanding Director, as well as being eligible for all acting categories and general categories.  The Rudy Kloptic award was maintained and once again reserved exclusively for the recognition of improv troupes, which will continue to be nominated by the improv community.  Nominees for the two new awards would be generated through the rigorous nominations committee process. The committee guidelines for the new awards are as follows, from the B. Iden Payne website:
+
+PRODUCTION (IMPROV)
+DEFINITION: The cohesive synthesis of all production elements including design, direction and collective intent amongst performers
+Guidelines:
+Clear execution of story/mood/theme elicits a strong visceral or intellectual response
+Performers display consistency and collective intention in the stage work
+Consistent flow and progression in story/action culminating in a clear end to the action
+Effective use of available resources
+Cohesive synthesis of all production elements including design, direction, & performance
+
+DIRECTION (IMPROV)
+DEFINITION: Guides and supports all creative and technical elements of a production to create a unified and engaging story world with defined characters and action
+Guidelines:
+Credible and engaging story world with defined characters was created by performers on stage
+Performers established an appropriate style, mood and pace
+Story was clearly articulated and progressed at an appropriate pace by the performers
+Casting: All actors were suited to their roles and work together in a purposeful manner (reactive)
+Clear collaboration between director and designers which supports all creative and technical elements of a production to tell a unified & integrated affecting story
+
+ The nominees would then be voted on by any monetary supporter of the Austin Creative Alliance, opening voting up to all interested parties who could donate, as opposed to the previous system of only dues-paying member of the ACA being able to vote.
 
 ## List of Improv Award Winners and Nominees, By Year
 ### 2005-2006 Season
