@@ -8,7 +8,7 @@
 **Valerie Ward** is an improv performer, teacher, coach, and director.
 
 ## History
-Valerie started doing improv in 2001 in college at UT as a member of [[Ed32]].  She then became involved with [[The Hideout Theatre]], and took level 2 there with Shana Merlin as her teacher.  She began attending jams and workshops regularly, and became a founding member of [[Parallelogramophonograph]]. She has been very involved at The Hideout ever since, as well as participating in shows at various other theatres around town. She has been teaching all levels of adult classes at The Hideout since 2006 and began teaching as part of the Special Needs youth program in 2014. She also coaches groups around town and directs shows for The Hideout. Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
+Valerie started doing improv in 2001 in college at UT as a member of [[Ed 32]].  She then became involved with [[The Hideout Theatre]], and took level 2 there with [[Shana Merlin]] as her teacher.  She began attending jams and workshops regularly, and became a founding member of [[Parallelogramophonograph]]. She has been very involved at The Hideout ever since, as well as participating in shows at various other theatres around town. She has been teaching all levels of adult classes at The Hideout since 2006 and began teaching as part of the Special Needs youth program in 2014. She also coaches groups around town and directs shows for The Hideout. Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
 
 ## Troupes
 Current:
