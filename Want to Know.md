@@ -1,4 +1,4 @@
-**The Wu Yun Saga** was a collaboratively-written western novella on [[The Austin Improv Forums]].
+**Want to Know** was a collaboratively-written western novella that originated on [[The Austin Improv Forums]].
 
 ![[Wu Yun.jpg|A photo used to represent Wu Yun in an online meme.]]
 
@@ -8,6 +8,8 @@ The thread began on 4/24/12, when a spambot posted the following text to the "Ge
 Ten minutes after that, [[Brad Hawkins]] added "Chapter 31", and the thread became a collaborative novella, with AIC members adding subsequent chapters.  At one point, [[Jordan T. Maxwell]] tasked the *[[Strange Worlds]]* cast with adding chapters to the story.  Over time, the story incorporated many new characters and complications, until 2/20/13, when [[Jordan T. Maxwell]] posted chapter 70.  After that, the thread went dormant.
 
 On 4/1/13, frequent contributors [[Jordan T. Maxwell]], [[Peter Rogers]], [[Kevin Miller]], and [[Jessie Pascarelli]] met to plan out the conclusion of the story with a four-chapter arc, but those chapters were not posted until the week of 5/12/14, with its final chapter (number 74) posted on 5/20/14.
+
+On 12/24/14, Kevin completed editing work and released "Want to Know" as an e-book.
 
 ## Characters
 *Warning: This section contains spoilers.*
