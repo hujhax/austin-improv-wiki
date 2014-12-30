@@ -8,7 +8,7 @@ It was performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/14.
 ## Core Players
 * [[Bridget Brewer]]
 * [[Dave Buckman]]
-* Jay Funky
+* Jonathan Monkhouse
 * [[Katie Dahm]]
 * [[Michael Ferstenfeld]]
 * [[Rachel Madorsky]]
