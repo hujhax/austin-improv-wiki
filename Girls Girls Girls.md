@@ -26,6 +26,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 ** [[The Dancy Street D'Orchestra]].
 * Jersey Shorez: this format was inspired by the TV show *[[Wikipedia - Jersey Shore (TV series)|Jersey Shore]]*.
 * Stage Door: this was a 'backstage musical' format.
+* Pink is the New Black: Inspired by the TV show ''[[Wikipedia - Orange is the New Black|Orange is the New Black]]
 
 ### Former Cast Members
 * [[Amy McCurdy]]
