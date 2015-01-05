@@ -6,6 +6,7 @@
 |Assistant Director           = [[David Schwartz]]
 |Run                = Dec 2014
 |Cast               = {{Unbulleted list | [[Ali Meier]] | [[Andrew Schwartz]] | [[Charlie Hoehn]] | [[Jeremy Moran]] | [[Jessica von Schramm]] | [[Linzy Beltran]] | [[Margaret Hunsicker]] | [[Rosemarie Frezza]] | [[Seth Johnson]] | [[Theo Daley]] }}
+|Tech = {{Unbulleted list | [[Tyler Lane]] (lighting) | [[Paul Weiner]] (sound) | [[Mike Reed]] (music) }} 
 }}
 
 ***A Penny Dreadful*** will be the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
