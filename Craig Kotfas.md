@@ -25,6 +25,7 @@ He has been a guest musician for [[Indigo Shift]] and a guest boy for *[[Boys of
 * *[[Hitchcocked!]]*
 * *[[Lola]]*
 * *[[Theatresports]]*
+* *[[Rock N Roll Purgatory]]*
 
 ## More Information
 * [http://kotfas.com/ Craig's web site.]
