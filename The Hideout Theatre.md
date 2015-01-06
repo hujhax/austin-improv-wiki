@@ -18,7 +18,7 @@ Inspired by the improv he had seen in San Francisco, [[Sean Hill]] founded [[Aus
 In the first years of the theater's operation, [[Sean Hill]] led building/renovating the initial theater space, and he produced the first shows there, starting with [[Theatresports]], and expanding the program out to other [[Wikipedia - Keith Johnstone|Keith Johnstone]] formats such as *[[Maestro]]* and *[[Gorilla Theater]]*.  He included some traditional longforms that weren't strictly Johnstonian, such as *[[More or Less]]* and *[[Six Degrees]]*.
 
 ### 2005-2009: The AIC Years
-In the mid-2000s, [[Sean Hill]] took a more hands-off approach to the theater, and the [[Austin Improv Collective]] started to produce shows there, creating programs like *[[The Threefer]]* and *[[The Double Barrel]]*.
+In the mid-2000s, [[Sean Hill]] took a more hands-off approach to the theater, and the [[Austin Improv Collective]] along with Manager [[Andy Crouch]] started to produce shows there, creating programs like *[[The Threefer]]* and *[[The Double Barrel]]*.
 
 ### 2009-Present: New Management
 By mid-2009, [[Sean Hill]]'s lease on the property came to an end, and he chose not to renew.  Eager to see [[The Hideout Theater]] continue, [[Jessica Arjet]], [[Kareem Badr]] and [[Roy Janik]] acquired the property.<ref name="auschron1">[http://www.austinchronicle.com/arts/2009-05-22/784213/ The Hideout: Under new – but very familiar – management (Austin Chronicle, 22 May 2009)]</ref>  They immediately scheduled regular two-month mainstage runs for Saturday nights.  Over time, they steadily expanded the education program, and the weekly show schedule.
