@@ -13,16 +13,16 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 ## Troupes
 #### Active
 * [[Austin-Austin]]
-* [[The Known Wizards]]
-* [[Quayle]]
 * [[RhinoDino]]
 * [[Tastemakers]]
-#### Inactive
+#### Inactive/No Longer a Member
 * [[Anticdotes]]
 * [[Bolik Not ZIB]]
 * [[The Dukes of Bedside Manor]]
+* [[The Known Wizards]]
 * [[Techno Forest of Doom]]
 * [[Senshi Sokkyo]]
+* [[Quayle]]
 
 ## Shows
 * *[[Guilds of Steel]]*
