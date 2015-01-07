@@ -20,7 +20,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[GrimmNoir]]* (sound tech)
 * *[[History Under the Influence]]* (light/sound tech)
 * *[[Hurly Burly]]* (sound tech/stage manager)
-* *[[Pick Your Own Path]]* (light/sound tech)
+* *[[Control Issues]]* (light/sound tech)
 * *[[Tech Nightmare]]* (scoring tech)
 * *[[Theatresports]]* (2014 run) (light/sound tech)
 * *[[The International Improv Experience]]* (light tech)
