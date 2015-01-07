@@ -5,7 +5,7 @@
 |Director =	[[Ruby Willmann]]
 |Assistant Director =	[[Aaron Saenz]]
 |Cast =	{{Unbulleted list | [[Andreas Fabis]] | [[Cat Drago]] | [[Ceej Allen]] | [[Chris Albano]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Manuel Duran]] | [[Marc Majcher]] | [[Melissa Patterson]] | [[Nicole Oliver]] | [[Ryan Austin]] }}
-|Tech = [[Michael Yew]] | [[Chad Wellington]]
+|Tech = {{Unbulleted list | [[Michael Yew]] | [[Chad Wellington]] }}
 |Run	=	Jan/Feb 2015
 }}
 
