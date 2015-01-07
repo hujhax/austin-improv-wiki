@@ -1,18 +1,20 @@
 {{Infobox Show
-|Name	=	Pick Your Own Path
+|Name	=	Control Issues
 |Picture = 	Pick_Your_Own_Path.jpg
 |Theater=	[[The Hideout Theatre]]
-|Cast=		Varies
-|Director =	[[Roy Janik]]	
+|Cast=		{{Unbulleted list | [[Andreas Fabis]] | [[Cat Drago]] | [[Chris Albano]] | [[Dana Yanoshak]] | [[Katie Dahm]] | [[Lindsay Hejl]] | [[Paul Normandin]] | [[Peter Rogers]] }}
+|Director =	{{Unbulleted list | [[Roy Janik]] (2010-2014) | [[Andrew Buck]] (2014) | [[Andreas Fabis]] (2014-Present) }}
 |Run	=	Oct 2010-Present
 }}
 
-***Pick Your Own Path*** (original title: ***Choose Your Own Adventure***) is [[The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
+***Control Issues*** (previous titles: ***Pick Your Own Path***, ***Choose Your Own Adventure***) is [[The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
 
 It is part of *[[The Wheel]]*.
 
 ## Summary
-In *Pick Your Own Path*, the story takes the form of a middle-schooler going off on a crazy adventure.  Periodically, the show's narrator stops the proceedings and offers the audience a choice for how to proceed.  The audience votes for their choice via applause, and the story proceeds accordingly.  Choices may lead to the protagonist's death, in which case, the narrator ratchets back the story and tries another alternative.
+In *Control Issues*, the story usually takes the form of a middle-schooler going off on a crazy adventure.  Periodically, the show's narrator stops the proceedings and offers the audience a choice for how to proceed.  The audience votes for their choice via applause, and the story proceeds accordingly.  Choices may lead to the protagonist's death, in which case, the narrator ratchets back the story and tries another alternative.
+
+In late 2014, the format was modified somewhat, allowing the narrator to take other types of suggestions from the audience, in addition to plot 'branch points'.
 
 ## History
 This show originated as a [[The Cagematch|Cagematch]] show from [[The Dark Bloodlords]].  They played three shows in 2006.  A year later, several Hideout players performed a Harry-Potter-themed *Choose Your Own Adventure* show for an event associated with the latest *Harry Potter* book release.  In October 2010, it began a run at [[The Hideout Theatre]] as part of *[[The Wheel]]*.
@@ -20,6 +22,8 @@ This show originated as a [[The Cagematch|Cagematch]] show from [[The Dark Blood
 The show began its run with the name *Choose Your Own Adventure*, but on November 4th, 2010, [[The Hideout Theatre]] received a cease-and-desist letter from [http://en.wikipedia.org/wiki/Chooseco Chooseco], the publisher of the *Choose Your Own Adventure* line of books.
 
 At the start of its run, a single *Pick Your Own Path* adventure was paired with *[[The Lottery]]* and a montage jam from experienced Hideout players.  In January 2012, *[[The Wheel]]* was revamped, *[[The Lottery]]* was retired, and *Pick Your Own Path* expanded to a double bill, with two *Pick Your Own Path* adventures and no additional acts.
+
+From 2010 to 2014, the show was a pick-up format, cast month-to-month from interested parties, à la *[[The Fancy-Pants Mash-Up]]*.  In mid-2014, [[Andrew Buck]] took over the show, and created a core cast that rehearsed the format regularly, bringing in only one or two guests in any given month.
 
 ## Media
 ### Videos
