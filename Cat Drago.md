@@ -13,10 +13,15 @@ Cat began doing improv after watching long stretches of [[The 42-Hour Improv Mar
 ## Troupes
 * [[Kosher Bacon]]
 * [[The Seven Eight Sevens]]
+* [[Cascade]]
 
 ## Shows
 * *[[After School Improv]]*
+* *[[The Aftermath]]*
+* *[[Control Issues]]*
+* *[[Kenjutsu]]*
 * *[[Love Fest]]*
+* *[[Nothing and Everything]]*
 * *[[The Tribunal]]*
 
 [[Category/Performers|Drago]]
