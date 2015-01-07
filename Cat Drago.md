@@ -17,7 +17,7 @@ Cat began doing improv after watching long stretches of [[The 42-Hour Improv Mar
 
 ## Shows
 * *[[After School Improv]]*
-* *[[The Aftermath]]*
+* *[[Risen]]*
 * *[[Control Issues]]*
 * *[[Kenjutsu]]*
 * *[[Love Fest]]*
