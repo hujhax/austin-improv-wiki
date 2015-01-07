@@ -2,14 +2,11 @@
 
 
 ## Troupes
-[[Duran & Johnson]]
-
-[[FOLKS]]
+* [[Duran & Johnson]]
+* [[FOLKS]]
 
 
 ## Shows
-[[What the F@$]]
-
-[[Cochise]]
-
-[[Wanderlust]]
+* *[[Cochise]]*
+* *[[What the F@$]]*
+* *[[Wanderlust]]*
