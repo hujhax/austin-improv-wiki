@@ -42,6 +42,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[The Fancy-Pants Mashup]]*
 * *[[Fandom]]*
 * *[[Flying Theater Machine]]*
+* *[[Golden]]* (Directed)
 * *[[Gorilla Theater]]*
 * *[[Guilds of Steel]]*
 * *[[Haunted]]*
@@ -62,6 +63,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Manhattan Stories]]*
 * *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
 * *[[The Nightmare Video Project]]* ("Directed"/Produced videos 2010-2012)
+* *[[Nothing and Everything]]*
 * *[[One More Night]]*
 * *[[Pick Your Own Path]]*
 * *[[The Plagiarists]]*
@@ -80,6 +82,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * ''[[The International Improv Experience]]
 * *[[The Tribunal]]* (Performed and directed)
 * *[[The Violet Underbelly]]*
+* *[[Wanderlust]]*
 * *[[Whirled News Tonight]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 
