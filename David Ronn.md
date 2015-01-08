@@ -2,7 +2,7 @@
 |Name	=	David Ronn
 |Picture =	David Ronn.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	?-Present
+|Years	=	2007-Present
 }}
 
 **David Ronn** is an improv performer and musician. 
