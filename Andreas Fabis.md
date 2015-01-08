@@ -47,3 +47,4 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Get
 * *[[Wanderlust]]*
 
 [[Category/Performers|Fabis]]
+[[Category/Directors|Fabis]]
