@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Peanut Berry
-|Cast	=	{{ Unbulleted list | [[Amanda Hinsman]] | [[Blake Reinhart]] | [[Greg Blank]] | [[Jennifer Brinlee]] | [[Lindsey Hejl]] | [[Tim Stiefler]] }}
+|Cast	=	{{ Unbulleted list | [[Amanda Hinsman]] | [[Blake Reinhart]] | [[Greg Blank]] | [[Jennifer Brinlee]] | [[Lindsay Hejl]] | [[Tim Stiefler]] }}
 |Years	=		2013
 }}
 
