@@ -2,8 +2,9 @@
 |Name	=	Brandon Martin	
 |Picture =	Brandon Martin Pic.jpg
 |Theater=	{{Unbulleted list | [[The Hideout Theatre]] | [[The Institution Theater]] }}
-|Years	=	2011-2013, 2014-Present
+|Years	=	{{Unbulleted list | 2011-2013 | 2014-Present }}
 }}
+
 
 **Brandon Martin** was an improv performer.
 
