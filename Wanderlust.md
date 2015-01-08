@@ -26,6 +26,10 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 <p>Yes the show will be funny.</p>
 <p>Yes the show will be challenging.</p></blockquote>
 
+## Media
+### Videos
+* [https://vimeo.com/115893524 Video] by [[Peter Rogers]] of the 1/3/15 premiere. Corresponding playlist used by substitute tech [[Lindsey McGowen]] can be found [http://eilanora.livejournal.com/11890.html here]. 
+
 ## More Information
 * [https://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
 * [http://www.facebook.com/groups/hideouttheatre/permalink/824995157523590/ The audition announcement.]
