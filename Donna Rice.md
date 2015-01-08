@@ -1,1 +1,1 @@
-Acting and Improv
+**Donna Rice** is an actor, improviser, writer and director.
