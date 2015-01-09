@@ -12,4 +12,5 @@
 * [[That Racket!]]
 
 ## Shows
+* *[[Boys of Summer]]* (2013 Run)
 * *[[Camp Madeupponaspotta]]*
