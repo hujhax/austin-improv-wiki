@@ -8,7 +8,7 @@
 **That Racket!** is a musical improv troupe.
 
 ## History
-The troupe formed in January of 2014, primarily from people who met in the musical-improv classes at [[The Merlin Works School of Improvisation]].
+That Racket! formed in January of 2014, primarily from people who met in the musical-improv classes at [[The Merlin Works School of Improvisation]].
 
 ## Media
 ### Photos
