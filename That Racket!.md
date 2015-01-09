@@ -12,7 +12,7 @@ That Racket! formed in January of 2014, primarily from people who met in the mus
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.511667912289161.1073741828.507547629367856&type=1 Publicity photos.]
+* [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/Racket Publicity photos by [[Steve Rogers]].]
 * [http://www.facebook.com/chriscurl/media_set?set=a.10152430621782107.1073741833.549002106&type=3 Photoset] by [[Chris Curl]] of their 6/25/14 championship match in *[[The Cagematch]]*.
 
 ## More Information
