@@ -2,7 +2,7 @@
 |Name	=	History Under the Influence
 |Picture = History Under the Influence Pic.jpg
 |Theater=	[[The Hideout Theatre]]
-|Cast = {{Unbulleted list | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[David Lampe]] | [[Jillian Summar]] | [[Kevin Miller]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Ryan Hill]] | [[Thedward Blevins]] }}
+|Cast = {{Unbulleted list | [[Caeriel Crestin]] | [[David Lampe]] | [[Jillian Summar]] | [[Kevin Miller]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Ryan Hill]] | [[Thedward Blevins]] | [[Melissa Patterson]]  }}
 |Director = [[Kevin Miller]]
 |Tech	=	[[Lindsey McGowen]]
 |Run = May 2014
@@ -18,6 +18,8 @@ After a very successful Free Fringe show, Kevin submitted the show for a month-l
 *History Under the Influence* played five sold-out shows at the Hideout in May of 2014. It was regarded by the cast as an effortless format where comedy happened naturally. Audience response was extremely positive.
 
 In June of 2014, Kevin took an impromptu trip to Tampere, Finland, where he had performed in 2013 with [[Zarzamora]]. While there he performed History Under the Influence with a European cast.
+
+[[Melissa Patterson]] joined the cast when [[Bridget Brewer]] moved to Rhode Island.
 
 ## Media
 ### Photos
