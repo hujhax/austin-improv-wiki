@@ -11,6 +11,7 @@
 Jason lived in Houston, where he played with Scatter!, before moving to Austin.
 
 ## Troupes
+* [[Scatter!]]
 * [[Mathematical!]]
 * [[Epic]]
 * [[Side Hugs]]
