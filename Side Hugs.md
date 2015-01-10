@@ -5,7 +5,7 @@
 |Years	 =		2014
 }}
 
-**Side Hugs** is a *[[Cagematch]]* team.
+“Seldom appropriate. Mostly awkward. Always unexpected.” Known for their grounded, character driven performances, Side Hugs is a tour-de-funny bringing together some of ColdTowne Theater’s brightest up-and-comers.
 
 ## History
 They played in the 7/9/14 *Cagematch*.
