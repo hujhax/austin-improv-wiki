@@ -12,6 +12,8 @@ Jason started his improv career in Houston, where he performed with Scatter!  Af
 
 ## Troupes
 * [[Scatter!]]
+* [[Baby Kick Baby]]
+* [[Roosevelt's Legs]]
 * [[Mother Fing Action Heroes!]]
 * [[Mathematical!]]
 * [[Epic]]
