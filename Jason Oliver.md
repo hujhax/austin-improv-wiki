@@ -8,7 +8,7 @@
 **Jason Oliver** is an improv performer.
 
 ## History
-Jason lived in Houston, where he played with Scatter!, before moving to Austin.
+Jason started his improv career in Houston, where he performed with Scatter!  After quitting his MFA Acting program at the University of Houston, he moved to New York City and then to Austin in 2007.
 
 ## Troupes
 * [[Scatter!]]
