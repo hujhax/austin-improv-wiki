@@ -12,6 +12,7 @@ Jason started his improv career in Houston, where he performed with Scatter!  Af
 
 ## Troupes
 * [[Scatter!]]
+* [[Mother Fing Action Heroes!]]
 * [[Mathematical!]]
 * [[Epic]]
 * [[Side Hugs]]
