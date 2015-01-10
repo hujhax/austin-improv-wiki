@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Epic
 |Picture	=	Epic.jpg
-|Cast	=	{{ Unbulleted list | [[Alex Gray]] | [[Alexander Hilary]] | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Brent Unger]] | [[Cortney DeAngelo]] | [[Dana Yanoshak]] | [[David C. Wells]] | [[David Lampe]] | [[Edwin Wise]] | [[Heidi Rogers]] | [[Jason Edwin Oliver]] | [[Marc Majcher]] | [[Jayme Ramsay]] | [[Paul Normandin]] | [[Sarah Swofford]] | [[Scott Hearne]] | [[Sophia Hoang]] }}
+|Cast	=	{{ Unbulleted list | [[Alex Gray]] | [[Alexander Hilary]] | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Brent Unger]] | [[Cortney DeAngelo]] | [[Dana Yanoshak]] | [[David C. Wells]] | [[David Lampe]] | [[Edwin Wise]] | [[Heidi Rogers]] | [[Jason Oliver]] | [[Marc Majcher]] | [[Jayme Ramsay]] | [[Paul Normandin]] | [[Sarah Swofford]] | [[Scott Hearne]] | [[Sophia Hoang]] }}
 |Years	=		2012-Present
 }}
 
