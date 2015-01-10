@@ -1,7 +1,8 @@
 {{Infobox Troupe
-|Name	=		Side Hugs
-|Cast	=	{{Unbulleted list | [[Chelsea Bunn]] | [[Kim Lowery]] | [[Jason Oliver]] | [[Maria Pond]] | [[Matt Shirley]] | [[Nick Wuthrich]] }}
-|Years	=		2014
+|Name	 =		Side Hugs
+|Picture = SideHugs.jpg
+|Cast	 =	{{Unbulleted list | [[Chelsea Bunn]] | [[Kim Lowery]] | [[Jason Oliver]] | [[Maria Pond]] | [[Matt Shirley]] | [[Nick Wuthrich]] }}
+|Years	 =		2014
 }}
 
 **Side Hugs** is a *[[Cagematch]]* team.
