@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Jason Oliver	
 |Picture =	Jason Oliver Pic.jpg
-|Theater=	[[The Hideout Theatre]] 
+|Theater=	[[ColdTowne Theater]] 
 |Years	=	2007-Present
 }}
 
