@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Mother F***ing Action Heroes!
 |Picture	=	Mother F***ing Action Heroes!.jpg
-|Cast	=	{{ Unbulleted list | [[Aaron Roxby]] | [[Cassidy Santaguida]] | [[Chris Sebilia]] | [[Jared Stepp]] (former member) | [[Jason Oliver]] | [[Maitland Lederer]] | [[Steve Jaffe]] | [[Zac Grantham]] }}
+|Cast	=	{{ Unbulleted list | [[Aaron Roxby]] | [[Cassidy Santaguida]] | [[Chris Sebilia]] | [[Jared Stepp]] | [[Jason Oliver]] | [[Maitland Lederer]] | [[Steve Jaffe]] | [[Zac Grantham]] }}
 |Director = [[Jason Oliver]]
 |Years	=		2012
 }}
