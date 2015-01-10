@@ -9,10 +9,17 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Developed as a Free Fringe and born from five diverse women, Honey Ladies aims to explore the archetypes of women in every aspect of our life. From "mean girls" to "best frenemies" to "motherly love", Honey Ladies explores the relationships of women and how not that much changes from age 5 to 50.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:
 
-### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Right now we are leaning towards a narrative mono scene with pop outs to explore relationships.</blockquote>
+<blockquote>
+Developed as a Free Fringe and born from five diverse women, Honey Ladies aims to explore the archetypes of women in every aspect of our life. From "mean girls" to "best frenemies" to "motherly love", Honey Ladies explores the relationships of women and how not that much changes from age 5 to 50.
+</blockquote>
+
+### "What's Your Damage?"
+Honey Ladies is an all-female troupe that leans towards a grounded and fun experience. We aim to embark on a journey of women stereotypes and slash them down in a funny/thought provoking way.
+
+Showing that women aren't only the stereotypes that we're (at times) perceived to be by pop culture. We start with the stereotypes and then peel back the layers as the show progresses.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
