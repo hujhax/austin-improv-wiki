@@ -17,7 +17,6 @@ Jason started his improv career in Houston, where he performed with Scatter!  Af
 * [[Side Hugs]]
 
 ## Shows
-* *[[Mother Fing Action Heroes!]]*
 * *[[Sci-Fi Saturdays]]*
 
 [[Category/Performers|Oliver]]
