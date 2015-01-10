@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Side Hugs
-|Cast	=	{{Unbulleted list | [[Chelsea Bunn]] | [[Kim Lowery]] | [[Maria Pond]] | [[Matt Shirley]] | [[Nick Wuthrich]] }}
+|Cast	=	{{Unbulleted list | [[Chelsea Bunn]] | [[Kim Lowery]] | [[Jason Oliver]] | [[Maria Pond]] | [[Matt Shirley]] | [[Nick Wuthrich]] }}
 |Years	=		2014
 }}
 
