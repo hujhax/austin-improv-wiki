@@ -13,12 +13,17 @@ Nicole started doing improv with Massive Improv from Houston from 2005-2007. Wit
 ## Troupes
 * [[Catalyst]]
 * [[Stone Airplane]]
+* [[Honey Ladies]]
+* [[Flying Theater Machine]]
 
 ## Shows
 * *[[After School Improv]]*
 * *[[Austin Secrets]]*
 * *[[Theatresports]]*
 * *[[The Tribunal]]*
+* *[[A Bedtime Gorey]]*
+* *[[Reform School for Wayward Girls]]*
+* *[[Wanderlust]]*
 
 [[Category/Performers|Oliver]]
 [[Category/Active|Category:Active]]
