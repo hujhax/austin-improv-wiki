@@ -12,6 +12,7 @@ Jason lived in Houston, where he played with Scatter!, before moving to Austin.
 
 ## Troupes
 * [[Mathematical!]]
+* [[Side Hugs]]
 
 ## Shows
 * *[[Mother Fing Action Heroes!]]*
