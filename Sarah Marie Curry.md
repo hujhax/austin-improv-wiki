@@ -44,7 +44,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 * *[[Spirited]]*
 * *[[Risen]]* (director)
 * *[[Tarantula]]* (director)
-* "[[Impromp-Two]]"
+* *[[Impromp-Two]]*
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2207805 Interview] with Sarah Marie on *[[The Theft Forum]]*.
