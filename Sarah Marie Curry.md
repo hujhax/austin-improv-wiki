@@ -5,7 +5,12 @@
 |Years	=	2008-Present
 }}
 
-**Sarah Marie Curry** is an actor, theater manager, improviser, improv teacher and director.
+**Sarah Marie Curry** is an improv performer, director, and teacher. She is the General Manager of [[The Institution Theatre]] and is responsible for the scheduling, production management, front of house and staffing management of the space.
+
+## Teaching
+Sarah Marie currently teaches level 201 at [[The Institution Theater]]. Workshops in her repertoire include "Viewpoints in Improv" (the lessons of Anne Bogart), "Inspiring Scenes through Stage Picture" (pulling stagecraft into awareness and inspiration on stage) and "Sing Your Feelings" (emotionally charged improvised singing).
+
+Sarah Marie also provides individual troupe coaching and improvised singing lessons.
 
 ## History
 Sarah Marie moved to Austin Texas in November of 2007 with the intention of expanding her abilities as an actress, and to pursue her passion for theatre in any way possible. She met  [[Peter Rogers]], [[Andy Crouch]] and [[Les McGehee]] while working backstage as a costume mistress for Austin Shakespeare's 2008 production of *Much Ado About Nothing*. It was during this time that she first heard of the concept of improv, and was given [[Les McGehee]]'s book *Plays Well With Others*. After taking acting classes with [[The State Theater]], Sarah Marie saw an ad for [[Merlin Works]] and signed up for [[Shana Merlin]]'s 101 class. ([[Shannon McCormick]] was Shana's TA at the time.) She has since had the honor of playing in numerous improv theaters in Austin and hopes to continue her journey for years to come.
@@ -38,6 +43,8 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 * *[[The Z Monologues]]* (director, performer)
 * *[[Spirited]]*
 * *[[Risen]]* (director)
+* *[[Tarantula]]* (director)
+* "[[Impromp-Two]]"
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2207805 Interview] with Sarah Marie on *[[The Theft Forum]]*.
