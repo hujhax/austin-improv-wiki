@@ -19,6 +19,8 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 * [[Stone Airplane]]
 
 ## Shows
+* *[[Wanderlust]]* (light tech)
+* *[[The Dahl House]]*
 * *[[Hurly Burly]]*
 * *[[GrimmNoir]]*
 * *[[Racket]]*
