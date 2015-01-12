@@ -105,6 +105,24 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Luke Wallens]]
 * [[Warren Henderson]]
 
+### Season Five (2015)
+#### Cast
+* [[Andy Crouch]]
+* [[Chuy Zarate]]
+* [[Courtney Hopkin]]
+* [[Heather Hasselle]]
+* [[John Ratliff]]
+* [[Jon Bolden]]
+* [[Kaci Danger]]
+* [[Lisa Jackson]]
+* [[Quinn Buckner]]
+* [[Shannon Dale Stott]]
+* [[Theo Daley]]
+* [[Valerie Ward]]
+
+#### Crew
+* [[Lindsey McGowen]] (tech director)
+
 ## Media
 ### Videos
 * [http://vimeo.com/11071577 Video of the 2/27/10 performance.]
