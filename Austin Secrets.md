@@ -3,9 +3,9 @@
 |Picture=	Austin Secrets.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Roy Janik]]
-|Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[Alex Dobrenko]] | [[Andy Crouch]] | [[Bridget Brewer]] | [[Chuy Zarate]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Halyn Lee Erickson]] | [[Halyn Lee Erickson]] | [[Jayme Ramsay]] | [[Jeanette Jones]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] | [[Kristin Firth]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Michael Joplin]] | [[Mike Sullivan]] | [[Nicole Oliver]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Roy Janik]] | [[Stacy Kaplowitz]] | [[Valerie Ward]] }}
+|Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[Alex Dobrenko]] | [[Andy Crouch]] | [[Bridget Brewer]] | [[Chuy Zarate]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Halyn Lee Erickson]] | [[Halyn Lee Erickson]] | [[Heather Hasselle]] | [[Jayme Ramsay]] | [[Jeanette Jones]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] | [[Kristin Firth]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Michael Joplin]] | [[Mike Sullivan]] | [[Nicole Oliver]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Roy Janik]] | [[Shannon Dale Stott]] | [[Stacy Kaplowitz]] | [[Theo Daley]] | [[Valerie Ward]] }}
 |Run	=	Jan/Feb 2010
-|Subsequent Runs = {{Unbulleted list|Jan/Feb 2011|Nov/Dec 2012|Sep/Oct 2013<ref>[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule Announcing the 2013 Season and Schedule]</ref>}}
+|Subsequent Runs = {{Unbulleted list|Jan/Feb 2011|Nov/Dec 2012|Sep/Oct 2013<ref>[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule Announcing the 2013 Season and Schedule]</ref>|Mar/Apr 2015}}
 }}
 
 *Austin Secrets* is an improvised shortform show inspired by real-life-storytelling projects such as [[Wikipedia - PostSecret|PostSecret]], [[Wikipedia - StoryCorps|StoryCorps]], and [[Wikipedia - The Moth|The Moth]].
