@@ -1,12 +1,12 @@
 {{Infobox Troupe
 |Name	=	Nice Astronaut
 |Picture=	Niceastro-2013-04-10.jpg
-|Cast	=	{{Unbulleted list|[[Calan lambert]]|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Nicole McCracken]]|[[Tim Honker]]}}
+|Cast	=	{{Unbulleted list|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Nicole McCracken]]}}
 
 |Years	=		2008-Present
 }}
 
-**Nice Astronaut** is a comedy troupe in Austin, TX that creates and performs Chicago-style longform improv forms, writes and performs sketch comedy, and teaches workshops. Their monthly show is on the second Saturdays at 11:15pm at [[ColdTowne Theater]].
+**Nice Astronaut** is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:15pm at [[ColdTowne Theater]].
 
 ## History
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013) and then [[Cody Dearing]] (2013-).
@@ -14,7 +14,7 @@ Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Thea
 In 2011, [[Nicole McCracken]] and [[Tim Honker]] formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
 
 ## Teaching
-In 2013, Nice Astronaut expanded into teaching workshops, and have since taught in Austin, Phoenix, and Houston. They currently teach out of the ColdTowne Conservatory space.
+Nice Astronaut taught improv and sketch workshops in Austin, Phoenix, and Houston in 2013-2014.
 
 ## Custom Created Longform Improv Forms
 Nice Astronaut has specialized in creating and preforming custom improv forms, but has also performed montages, living rooms, narratives, Armandos, and the Deconstruction.
