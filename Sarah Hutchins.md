@@ -14,6 +14,6 @@ Sarah began taking classes at the [[Hideout]] in 2013 and singing classes at [[M
 ## Shows
 * *[[GrimmNoir]]* (Stage Manager/Production Manager)
 * *[[The Organ Trail]]*
-* *[[The Aftermath]]* (Crew)
+* *[[The Aftermath]]* (Crew - Scoring)
 
 [[Category/Performers|Hutchins]]
