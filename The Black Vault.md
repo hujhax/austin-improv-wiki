@@ -23,6 +23,7 @@ Each show in the mainstage run was divided into three stories. A predetermined g
 * Cosmic Horror&mdash;As in the stories in Lovecraft's "[[Wikipedia - Cthulhu Mythos|Cthulhu Mythos]]," these stories focused on unknowable and largely unseen forces from beyond the stars, represented on Earth by mysterious cults and strange ancient artifacts.
 
 ## History
+### Post-run Performances
 After its mainstage run, there were a number of one-off shows:
 * 12/6/12: "Lovecraft Secrets", a mash-up with *[[Austin Secrets]]* that played at *[[The Free Fringe]]*.
 * 4/13/13: a 25-minute show played [[The 2013 Improvised Play Festival]].
@@ -30,6 +31,9 @@ After its mainstage run, there were a number of one-off shows:
 * 5/23/13: "Pick Your Own Black Vault", a mash-up with *[[Pick Your Own Path]]* that played at *[[The Free Fringe]]*.
 * 6/23/13: the show was hour 32 of [[The 44-Hour Improv Marathon]].
 * 3/27/14: a double-bill with [[Strange Worlds]] as a fundraiser for both show's trip to the Alaska State Improv Festival.
+
+### *Tales from the Black Vault*
+In 2014, the cast began production on *Tales from the Black Vault*, a podcast version of the show.  Plans were made for an eight-episode audiodrama anthology of improvised stories in the style of H. P. Lovecraft.  They recorded [http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival a demo episode] at the director's home, and then launched [http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama a kickstarter campaign] to raise funding to produce a whole season.  The kickstarter raised enough money to produce *two* seasons -- the cast is now in production on season one, with a projected premiere date in late February.
 
 ## Media
 ### Videos
@@ -61,6 +65,16 @@ After its mainstage run, there were a number of one-off shows:
 
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
+* *Tales from the Black Vault* media:
+** [http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival The podcast's demo episode.]
+** [http://vimeo.com/110104860 Promo video] for *[[The Free Fringe]]*.
+** [http://vimeo.com/110448368 Promo video] for [http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama the kickstarter campaign].
+** Short cast interviews:
+*** [http://vimeo.com/112034604 Interview] with [[Paul Normandin]].
+*** [http://vimeo.com/112034692 Interview] with [[Jayme Ramsay]].
+*** [http://vimeo.com/112257992 Interview] with [[Justin Davis]].
+*** [http://vimeo.com/112363296 Interview] with [[Andreas Fabis]].
+*** [http://vimeo.com/112363297 Interview] with [[Marc Majcher]].
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/theblackvault The show's web page.]
