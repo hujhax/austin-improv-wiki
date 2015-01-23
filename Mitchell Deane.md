@@ -15,7 +15,7 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 * [[Kosher Bacon]]
 * [[The Seven Eight Sevens]]
 * [[Flying Theatre Machine]]
-* [[History Under the Inflence]]
+* [[History Under the Influence]]
 
 ## Shows
 * *[[After School Improv]]*
