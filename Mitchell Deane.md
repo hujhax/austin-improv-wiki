@@ -14,6 +14,8 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 * [[Islander Improv]]
 * [[Kosher Bacon]]
 * [[The Seven Eight Sevens]]
+* [[Flying Theatre Machine]]
+* [[History Under the Inflence]]
 
 ## Shows
 * *[[After School Improv]]*
