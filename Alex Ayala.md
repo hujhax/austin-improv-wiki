@@ -11,7 +11,7 @@
 ## Troupes
 ## Shows
 * *[[Trust No One]]*
-* "[[Late Night Time Machine]]''
+* *[[Late Night Time Machine]]*
 * *[[GrimmNoir]]*
 
 [[Category/Performers|Ayala]]
