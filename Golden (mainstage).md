@@ -4,8 +4,8 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Marc Majcher]]
 |Run                = April 2015
-|Cast               = {{Unbulleted list | [[Patrick Creamer]] | [[Rachel Denton]] | [[Tyler Lane]] | [[Suzanne Link]] | [[Brandon Martin]] | [[Kathleen McFerrin]] | [[Heidi Penix]] | [[Jessica von Shramm]] | [[Robert Slack]] | [[Luke Wallens]] }}
-|Tech               = {{Unbulleted list | [[R. Lance Hunter]] | [[Danielle Saar]]}}
+|Cast               = {{Unbulleted list | [[Brandon Martin]] | [[Heidi Penix]] | [[Jessica von Shramm]] | [[Kathleen McFerrin]] | [[Luke Wallens]] | [[Patrick Creamer]] | [[Rachel Denton]] |[[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
+|Tech               = {{Unbulleted list | [[Danielle Saar]] | [[R. Lance Hunter]] }}
 }}
 
 ***Golden*** will be the April 2015[[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
