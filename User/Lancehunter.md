@@ -1,0 +1,1 @@
+Lance Hunter is an improviser and stand-up in Austin, TX. He has performed at The Hideout Theatre and The Institution Theater as well as many comedy open mics around town. He has also performed at the Austin Poetry Slam and in Sky Candy's theatrical production of "The Circus". He is fat.
