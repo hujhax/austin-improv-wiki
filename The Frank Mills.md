@@ -23,16 +23,25 @@ They currently alternate between [[MonoPop]], a Gameless [[Harold]] and followin
 ## Residency
 They perform every Saturday at 10pm at [[ColdTowne Theater]].
 
-Some of their guests have been:
+Some of their out of town guests have included:
 
 Ike Barinholtz, *The Mindy Project*;
-Mike Garcia, *iO West's Triggerfinger*;
-Zach Ward, *DSI Theater*;
-Rich Talarico, *Key & Peele*;
-Craig Cackowski, *Drunk History*;
-Colton Dunn, *Key & Peele*;
+
+Mike Garcia, *iO West's Triggerfinger*
+
+Zach Ward, *DSI Theater*
+
+Rich Talarico, *Key & Peele*
+
+Craig Cackowski, *Drunk History*
+
+Colton Dunn, *Key & Peele*
+
 Kevin Mullaney, *Under the Gun Theater, Improv Resource Center*;
-Ed Illades, 
+
+Ed Illades
+
+and Austin Improvisers:
 [[Arthur Simone]],
 [[Justin York]],
 [[Teresa Kubos]],
