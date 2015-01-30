@@ -8,12 +8,21 @@
 **The Frank Mills** is an improv troupe of working actors who perform grounded, character-driven longform.
 
 ## History
-Prior to forming the troupe, the members trained, directed and performed extensively at The Second City in Chicago and Cleveland, The Annoyance Theater and Improv Olympic Theater in Chicago, Boom!Chicago in Amsterdam and [[ComedySportz]] in Austin and Chicago.  They have been consistently recognized by their peers, winning "Best Improv Troupe" by the [[Austin Improv Collective]] in 2006 and 2008, and by the Austin artistic community at large; receiving the first [[B. Iden Payne Award]] for "Outstanding Improvisation Ensemble" in 2005-06. In addition, The Frank Mills were selected as "Best of the Fest" by Hyde Park Theater's FronteraFest 2007.
+Prior to forming the troupe, the members trained, directed and performed extensively at The Second City in Chicago and Cleveland, The Annoyance Theater and Improv Olympic Theater in Chicago, Boom!Chicago in Amsterdam and [[ComedySportz]] in Austin and Chicago.  
+
+They have been consistently recognized by their peers, winning "Best Improv Troupe" by the [[Austin Improv Collective]] in 2006 and 2008, and by the Austin artistic community at large; receiving the first [[B. Iden Payne Award]] for "Outstanding Improvisation Ensemble" in 2005-06. 
+
+In addition, The Frank Mills were selected as "Best of the Fest" by Hyde Park Theater's FronteraFest 2007.
 
 All five current members were founding faculty at [[ColdTowne Theater]].
 
 ### Former Members
 * [[Todd Schanbacher]] (2009-2013)
+
+
+### SKETCH SHOWS
+Classy Ass Show FEB 2007, [[The Hideout]]
+Winning Dirty MAY 2007, [[The Blue Theater]]
 
 ## Forms
 Inspired by TJ and Dave, the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover", "Spring Cleaning" and "Snuff Film". They have also performed [[Wikipedia - Harold (improvisation)|the Harold]], Close Quarters, and the Armando.
