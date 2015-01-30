@@ -29,8 +29,6 @@ They have also performed [[Wikipedia - Harold (improvisation)|the Harold]], Clos
 
 They currently alternate between [[MonoPop]], a Gameless [[Harold]] and following [[Rabbit Holes]].
 
-On 4/3/2010 The Frank Mills began their Saturday night residency at ColdTowne Theater and have performed weekly ever since.
-
 ### Sketch Shows
 * *Classy Ass Show* Feb 2007, [[The Hideout]]
 
