@@ -37,7 +37,7 @@ Craig Cackowski, *Drunk History*
 
 Colton Dunn, *Key & Peele*
 
-Kevin Mullaney, *Under the Gun Theater, Improv Resource Center*;
+Kevin Mullaney, *Under the Gun Theater, Improv Resource Center*
 
 Ed Illades
 
