@@ -8,7 +8,7 @@
 **Taylor Flanagan** is an actress and  improv performer.
 
 ## Summary
-Taylor Flanagan is an experienced actress in scripted productions who is improvising for the first time in *[[Fakespeare]]*.  *[[Fakespeare]]* is her first improvised show, but her fourteenth Shakespeare production.
+Taylor Flanagan is an experienced actress in scripted productions who improvised for the first time in *[[Fakespeare]]*.  *[[Fakespeare]]* was her first improvised show, but her fourteenth Shakespeare production.
 
 By day, she works as a Spanish teacher and reading tutor.
 
