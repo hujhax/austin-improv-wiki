@@ -21,7 +21,7 @@ All five current members were founding faculty at [[ColdTowne Theater]].
 
 ## Shows
 ### Improv Shows
-Inspired by [[TJ and Dave]] & [[Dasariski]], the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover" "Spring Cleaning", (their first Fronera Fest show) and "Snuff Film", (their 3rd Show as The Frank Mills), all of which became full cast sketches for their Sketch shows of 2007
+Inspired by [[TJ and Dave]] & [[Dasariski]], the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover" "Spring Cleaning", (their first Fronera Fest show) and "Snuff Film", (their 3rd Show as The Frank Mills), all of which became full cast sketches for their sketch shows of 2007
 
 In 2009 They opened for [[TJ & Dave]] during SXSW and performed *Computational Linguistics* and "Rumspringa'' which weaved Pop Outs into their Monoscene format.
 
