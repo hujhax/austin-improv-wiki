@@ -54,7 +54,7 @@ Colton Dunn, *Key & Peele*
 
 Kevin Mullaney, *Under the Gun Theater, Improv Resource Center*
 
-Brittain Spellings, "Anchorman''
+Brittain Spellings, *Anchorman*
 
 Ed Illades
 
