@@ -85,7 +85,7 @@ and many of their students
 ## More Information
 * [http://www.thefrankmills.net/ The troupe's website.]
 * [http://www.facebook.com/pages/The-Frank-Mills/215601841791447 The troupe's facebook page.]
-* [http://thefrankmills.wordpress.com/ The troupe's blog.]
+* [http://thefrankmills.wordpress.com/ The troupe's blog from their writing process of their sketch show Winning Dirty.]
 
 [[Category/Troupes|Frank Mills]]
 [[Category/Active|Category:Active]]
