@@ -20,9 +20,9 @@ All five current members were founding faculty at [[ColdTowne Theater]].
 * [[Todd Schanbacher]] (2009-2013)
 
 ### Sketch Shows
-* *Classy Ass Show* FEB 2007, [[The Hideout]]
+* *Classy Ass Show* Feb 2007, [[The Hideout]]
 
-* *Winning Dirty* MAY 2007, [[The Blue Theater]]
+* *Winning Dirty* May 2007, [[The Blue Theater]]
 
 ## Forms
 Inspired by TJ and Dave, the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover", "Spring Cleaning" and "Snuff Film". They have also performed [[Wikipedia - Harold (improvisation)|the Harold]], Close Quarters, and the Armando.
