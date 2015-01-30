@@ -35,7 +35,8 @@ They currently alternate between [[MonoPop]], a Gameless [[Harold]] and followin
 * *Winning Dirty* May 2007, [[The Blue Theater]]
 
 ## Residency
-They perform every Saturday at 10pm at [[ColdTowne Theater]].
+On 4/3/2010 The Frank Mills began their Saturday night residency at ColdTowne Theater and have performed weekly ever since.
+They currently perform every Saturday at 10pm at [[ColdTowne Theater]], opening for [[Midnight Society]].
 
 Some of their out of town guests have included:
 
