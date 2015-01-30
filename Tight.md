@@ -17,7 +17,7 @@ In June of 2005, [[Bob McNichol]] & [[Erika McNichol]] also moved from Chicago's
 
 Tight's main format was a monoscene in real time.
 
-They also would have Massive's [[Michael Garcia]] and MADtv's Ike Barinholtz sit in on their shows when they visited Austin.
+They also would have Massive's [[Michael Garcia]] and MADtv's [[Ike Barinholtz]] sit in on their shows when they visited Austin.
 
 In summer 2006, Mac moved to Minneapolis and Jen & Erin moved to Seattle.
 
