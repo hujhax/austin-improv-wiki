@@ -25,9 +25,15 @@ All five current members were founding faculty at [[ColdTowne Theater]].
 * *Winning Dirty* May 2007, [[The Blue Theater]]
 
 ## Forms
-Inspired by TJ and Dave, the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover", "Spring Cleaning" and "Snuff Film". They have also performed [[Wikipedia - Harold (improvisation)|the Harold]], Close Quarters, and the Armando.
+Inspired by [[TJ and Dave]] & [[Dasariski]], the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover" "Spring Cleaning", their first Fronera Fest show and "Snuff Film", their 3rd Show as The Frank Mills, all of which became full cast sketches for their Sketch shows of 2007
+
+In 2009 They opened for [[TJ & Dave]] during SXSW and performed *Computational Linguistics* and "Rumspringa'' which weaved Pop Outs into their Monoscene format.
+
+They have also performed [[Wikipedia - Harold (improvisation)|the Harold]], Close Quarters, and the Armando.
 
 They currently alternate between [[MonoPop]], a Gameless [[Harold]] and following [[Rabbit Holes]].
+
+On 4/3/2010 The Frank Mills began their Saturday night residency at ColdTowne Theater and have performed weekly ever since.
 
 ## Residency
 They perform every Saturday at 10pm at [[ColdTowne Theater]].
