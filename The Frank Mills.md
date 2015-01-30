@@ -18,7 +18,7 @@ All five current members were founding faculty at [[ColdTowne Theater]].
 ## Forms
 Inspired by TJ and Dave, the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover", "Spring Cleaning" and "Snuff Film". They have also performed [[Wikipedia - Harold (improvisation)|the Harold]], Close Quarters, and the Armando.
 
-They currently alternate between [[Monoscenes]], a [[Gameless Harold]] and following [[Rabbit Holes]].
+They currently alternate between [[Monoscene]] with Pop Outs, a [[Gameless Harold]] and following [[Rabbit Holes]].
 
 ## Residency
 They perform every Saturday at 10pm at [[ColdTowne Theater]].
