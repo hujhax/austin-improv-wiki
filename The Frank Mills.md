@@ -19,7 +19,6 @@ All five current members were founding faculty at [[ColdTowne Theater]].
 ### Former Members
 * [[Todd Schanbacher]] (2009-2013)
 
-
 ### Sketch Shows
 Classy Ass Show FEB 2007, [[The Hideout]]
 
