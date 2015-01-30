@@ -23,6 +23,29 @@ They currently alternate between [[MonoPop]], a Gameless [[Harold]] and followin
 ## Residency
 They perform every Saturday at 10pm at [[ColdTowne Theater]].
 
+Some of their guests have been:
+
+Ike Barinholtz, *The Mindy Project*;
+Mike Garcia, *iO West's Triggerfinger*;
+Zach Ward, *DSI Theater*;
+Rich Talarico, *Key & Peele*;
+Craig Cackowski, *Drunk History*;
+Colton Dunn, *Key & Peele*;
+Kevin Mullaney, *Under the Gun Theater, Improv Resource Center*;
+Ed Illades, 
+[[Arthur Simone]],
+[[Justin York]],
+[[Teresa Kubos]],
+[[Eric Rutherford]],
+[[Jeremy Sweetlamb]],
+[[Chrissy Shackelford]],
+[[Bridget Brewer]],
+[[Katie Sicking]],
+[[Michael Joplin]],
+[[Adam Trabka]],
+[[Sam Van Metre]]
+and many of their students
+
 ## Media
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 11/15/09 performance.
