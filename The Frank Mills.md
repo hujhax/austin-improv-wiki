@@ -25,7 +25,7 @@ They perform every Saturday at 10pm at [[ColdTowne Theater]].
 
 Some of their out of town guests have included:
 
-Ike Barinholtz, *The Mindy Project*;
+Ike Barinholtz, *The Mindy Project*
 
 Mike Garcia, *iO West's Triggerfinger*
 
