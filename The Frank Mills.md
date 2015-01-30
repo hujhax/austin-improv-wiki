@@ -19,6 +19,7 @@ All five current members were founding faculty at [[ColdTowne Theater]].
 ### Former Members
 * [[Todd Schanbacher]] (2009-2013)
 
+## Shows
 ## Improv Shows
 Inspired by [[TJ and Dave]] & [[Dasariski]], the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover" "Spring Cleaning", their first Fronera Fest show and "Snuff Film", their 3rd Show as The Frank Mills, all of which became full cast sketches for their Sketch shows of 2007
 
