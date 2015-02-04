@@ -12,7 +12,7 @@
 * Grayson - [[Heath Allyn]]
 * J. T. T. - [[Jordan T. Maxwell]]
 * LARP - [[Peter Rogers]]
-* Mace - [[Josephine McAdam]]
+* Mace - Josephine McAdam
 * New AP - [[Kevin Machate]]
 
 ## Crew
