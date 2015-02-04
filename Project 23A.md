@@ -6,7 +6,7 @@
 | 
 }}
 
-***Project 23A*** is a webseries set in a game-production company.
+***Project 23A*** was a webseries set in a game-production company.
 
 ## Cast
 * Grayson - [[Heath Allyn]]
