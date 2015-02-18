@@ -15,8 +15,10 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[The Aftermath]]* *(assistant director)*
 * *[[After School Improv]]* *(tech)*
 * *[[Austin Secrets]]* *(tech)*
+* *[[BatShyt Crazy]]* *(performer)*
 * *[[The Black Vault]]* *(tech)*
 * *[[Charles Dickens Unleashed]]* *(tech)*
+* *[[GrimmNoir]]* *(tech)*
 * *[[The International Improv Experience]]* ''(tech)
 * *[[Hell & Back Cabaret]]* *(tech, performer)*
 * *[[Hurly Burly]]* *(tech)*
