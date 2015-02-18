@@ -21,6 +21,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[BatShyt Crazy]]* *(performer)*
 * *[[The Black Vault]]* *(tech)*
 * *[[Charles Dickens Unleashed]]* *(tech)*
+* *[[Fakespeare]]* *(crew)*
 * *[[GrimmNoir]]* *(tech)*
 * *[[The International Improv Experience]]* ''(tech)
 * *[[Hell & Back Cabaret]]* *(tech, performer)*
