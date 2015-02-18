@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	BatShyt Crazy
 |Picture =      The Special Features.jpg
-|Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Nancy Lyon]] | [[Beth Doughty]] | [[Megan Thornton]] | [[Sandra Ybarra]] | [[Devon Ragsdale]] | [[Mike Carrion]] | [[Adam Worries]] | [[Taylor Howe]] |  [[Kevin Machate]] | [[Cynthia Ward]] | [[Gene Zhou]]}}
+|Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Nancy Lyon]] | [[Beth Doughty]] | [[Megan Thornton]] | [[Sandra Ybarra]] | [[Devon Ragsdale]] | [[Mike Carrion]] | [[Adam Worries]] | [[Taylor Howe]] |  [[Kevin Machate]] | [[Cindy Page]] | [[Gene Zhou]]}}
 |Years	=	2012
 }}
 
