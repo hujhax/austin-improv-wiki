@@ -23,6 +23,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[The Joss Whedon Pajama Party]]* *(tech)*
 * *[[Kenjutsu]]* *(tech)*
 * *[[Live Nude Improv]]* *(tech)*
+* *[[One Small Step]]* *(performer)*
 * *[[Only Three Will Survive]]* *(tech)*
 * *[[Pocketful of Posies]]* *(tech)*
 * *[[Rock]]* *(tech)*
