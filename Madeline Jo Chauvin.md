@@ -27,7 +27,7 @@ A post from her about the first improv show she ever saw:<blockquote>I saw "Star
 
 ## Shows
 * *[[GrimmNoir]]*
-* *[[Love Fest]]* (performer, improv)
+* *[[Love Fest]]* (performer, improv, host)
 * *[[Christmas at the Cozy Mountain Inn]]* (improv)
 * *[[Thinning the Herd]]* (producer, season three)
 * *[[Bad Girls in Plaid Skirts]]* (performer, scripted, "Juanita", 1-time fill in)
