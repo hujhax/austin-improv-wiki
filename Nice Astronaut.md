@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Nice Astronaut
 |Picture=	Niceastro-2013-04-10.jpg
-|Cast	=	{{Unbulleted list|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Nicole McCracken]]}}
+|Cast	=	{{Unbulleted list|[[Chaz Formichella]]|[[Drew Wesely]]|[[Frank Netscher]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Nicole McCracken]]|[[Sanjay Rao]]}}
 
 |Years	=		2008-Present
 }}
