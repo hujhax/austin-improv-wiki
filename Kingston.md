@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Kingston
 |Picture	=	Kingston.jpg
-|Cast	=	{{ Unbulleted list | [[Chris McKeever]] | [[Cortnie Jones]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jillian Besemer]] | [[Sanjay Rao]] }}
+|Cast	=	{{ Unbulleted list | [[Chris McKeever]] | [[Cortnie Jones]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jillian Besemer]] | [[Lane Ingram]] | [[Sanjay Rao]] }}
 |Years	=		2014-Present
 }}
 
