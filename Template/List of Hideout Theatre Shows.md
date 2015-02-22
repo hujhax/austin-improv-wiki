@@ -65,7 +65,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 Spearheaded by Ruby Willmann in 2014, these month long show runs happen bi-monthly. Both cast and crew are cast purely from the Hideout student body.
 
 **[[What the F@$]]*
-**[[Camp Madeupondaspota]]*
+**[[Camp Madeuponnaspotta]]*
 **[[Cochise]]*
 **[[The Dahl House]]*
 **[[The Aftermath]]*
