@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Three on a Match
 |Picture	=	Three on a Match.jpg
-|Cast	=	{{ Unbulleted list | [[Emma Holder]] | [[Katie Thornton]] | [[Mia Iseman]] | [[Taylor Overstreet]] }}
+|Cast	=	{{ Unbulleted list | [[Emma Holder]] | [[Katie Thornton]] | [[Mia Iseman]] | [[Cortnie Jones]] | [[Taylor Overstreet]] }}
 |Years	=		2013-Present
 }}
 
