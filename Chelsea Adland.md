@@ -9,7 +9,7 @@
 **Chelsea Adland** (née **Gilman**) is an improv performer.
 
 ## History
-Chelsea Adland started improvising when she auditioned successfully for [[We Could Be Heroes]] in May of 2000.
+Chelsea Gilman Adland started improvising when she auditioned successfully for [[We Could Be Heroes]] in May of 2000.
 
 A post from her about the first improv show she ever saw:<blockquote><p>I saw some improv shows as a kid and performed *Whose Line Is It, Anyway?* games  in high school...</p> 
 
