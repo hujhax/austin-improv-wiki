@@ -13,9 +13,7 @@ Chelsea Gilman Adland started improvising when she auditioned successfully for [
 
 A post from her about the first improv show she ever saw:<blockquote><p>I saw some improv shows as a kid and performed *Whose Line Is It, Anyway?* games  in high school...</p> 
 
-<p>The first improv show I saw in Austin was in the Texas Union Building my freshman year at UT, so 1999-2000. It was [[Well Hung Jury]], and I didn't know any of them, but recognized [[Ben Sterling]] from the theatre department.</p> 
-
-<p>I also saw [[Fatbuckle]]'s first show that year, and remember [[Lee Eddy]] trying to get someone to guess Yoko Ono.</p> 
+<p>The first improv show I saw in Austin was in the Texas Union Building my freshman year at UT, so 1999-2000. It was [[Well Hung Jury]], and I didn't know any of them, but recognized [[Ben Sterling]] from the theatre department.  I also saw [[Fatbuckle]]'s first show that year, and remember [[Lee Eddy]] trying to get someone to guess Yoko Ono.</p> 
 
 <p>It looked like a lot of fun, so that spring when I saw an ad in *The Chronicle*, I auditioned for [[We Could Be Heroes]].</p></blockquote>
 
