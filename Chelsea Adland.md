@@ -20,10 +20,10 @@ A post from her about the first improv show she ever saw:<blockquote><p>I saw so
 <p>It looked like a lot of fun, so that spring when I saw an ad in *The Chronicle*, I auditioned for [[We Could Be Heroes]].</p></blockquote>
 
 ## Troupes
-* [[The Dancy Street D'Orchestra]] (drummer)
-* [[Girls Girls Girls]]
 * [[The Intentions]] (2010-present)
+* [[The Dancy Street D'Orchestra]] (drummer)
 * [[The Love Notes]] (2009-2010)
+* [[Girls Girls Girls]]
 * [[We Could Be Heroes]] (2000-2002)
 
 ## Shows
