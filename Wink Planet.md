@@ -8,9 +8,9 @@
 **Wink Planet** is a sketch troupe based out of [[ColdTowne Theater]].
 
 ## History
-The troupe was founded on 5/20/13.
+The troupe was founded from a January 2013 Sketch Level 1 and Level 2 class teachered by Eric Rutherford.  Eric is still a heavy teachering presence within the group.
 
-In November 2014, the troupe will present "Pilgrims Are From Mars" at [[ColdTowne Theater]].
+Every Saturday in November 2014, Wink Planet teamed up with sketch group Off the Wall to present Thicker Than Water: The 18th Annual McGgutchins Family Reunion Show at [[ColdTowne Theater]].
 
 ## Media
 ### Photos
