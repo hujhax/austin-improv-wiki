@@ -6,21 +6,24 @@ This **list of Austin improv online resources** includes information about web s
 * [http://vimeo.com/channels/austinimprov The Austin Improv Vimeo Channel]: videos of Austin improv shows.
 
 ## Facebook Groups
-* [https://www.facebook.com/groups/319733741403020/ Hey, Austin Improv Community, Whatcha Doin' Tonight?!] (This is the de facto Facebook group for the entire AIC.)
-* [https://www.facebook.com/groups/329318317231968/ AIC Prop Swap]
+* [https://www.facebook.com/groups/319733741403020/ Austin Improv Community]
+* [https://www.facebook.com/groups/176926739037527/ Improvisational theatre - group for players worldwide]
+### AIC Theaters and Schools
 * [https://www.facebook.com/groups/144182719040012/ ColdTowne Students and Performers!]
 * [https://www.facebook.com/groups/hideouttheatre/ Hideout Performers, Students, and Alumni]
 ** [https://www.facebook.com/groups/541841935909841/ Hideout Maestro - Behind the Scenes]
 * [https://www.facebook.com/groups/217905648309669/ The Institution Theater Students, Alumni, and Staff]
 * [https://www.facebook.com/groups/merlinworks Merlin Works Students and Alumni]
-* TNM Students Section
-
-* Austin Improv Comic Book Community
-* Austin Improv Parents
-* Austin Improv Politicos
-* Austin Improv Photos
-* Austin Improv Soccer Group
-* Austin Improv Teachers
-* Ladies of Austin Improv
-* The AIC Moviegoers Group
-* North Austin Improvisers
+* [https://www.facebook.com/groups/360333464010851/ TNM Students Section]
+### Other AIC Groups
+* [https://www.facebook.com/groups/329318317231968/ AIC Prop Swap]
+* [https://www.facebook.com/groups/518523611496944/ Austin Improv Photos]
+* [https://www.facebook.com/groups/169920969734578/ Ladies of Austin Improv]
+* [https://www.facebook.com/groups/1411388692483574/ North Austin Improvisers]
+* [https://www.facebook.com/groups/1474348396142454/ Austin Improv Teachers]
+### Special Interests
+* [https://www.facebook.com/groups/725433584136045/ Austin Improv Comic Book Community]
+* [https://www.facebook.com/groups/107502685232/ Austin Improv Parents]
+* [https://www.facebook.com/groups/531373240245027/ Austin Improv Politicos]
+* [https://www.facebook.com/groups/165588326869060/ Austin Improv Soccer Group]
+* [https://www.facebook.com/groups/269560019855519/ The AIC Moviegoers Group]
