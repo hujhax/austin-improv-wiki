@@ -1,9 +1,10 @@
 This **list of Austin improv online resources** includes information about web sites run by and for the Austin Improv scene.
 
-* [[The Austin Improv Web Site]]
-* [[The Austin Improv Forums]]
-* [[The Austin Improv Wiki (description)]]
-* [http://vimeo.com/channels/austinimprov The Austin Improv Vimeo Channel]: videos of Austin improv shows.
+## Web Resources
+* [http://austinimprov.com austinimprov.com]
+* [http://forum.austinimprov.com The AIC Forums] [[The Austin Improv Forums|(wiki page)]]
+* [[The Austin Improv Wiki]]
+* [http://vimeo.com/channels/austinimprov The Austin Improv Vimeo Channel]
 
 ## Facebook Groups
 * [https://www.facebook.com/groups/319733741403020/ Austin Improv Community]
