@@ -7,7 +7,7 @@ This **list of Austin improv online resources** includes information about web s
 * [http://vimeo.com/channels/austinimprov The Austin Improv Vimeo Channel]
 
 ## Facebook Groups
-* [https://www.facebook.com/groups/319733741403020/ Austin Improv Community]
+* [https://www.facebook.com/groups/austinimprov/ Austin Improv Community]
 * [https://www.facebook.com/groups/176926739037527/ Improvisational theatre - group for players worldwide]
 ### AIC Theaters and Schools
 * [https://www.facebook.com/groups/144182719040012/ ColdTowne Students and Performers!]
