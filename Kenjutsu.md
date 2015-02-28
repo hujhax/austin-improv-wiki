@@ -35,6 +35,6 @@ Prior to the title being finalized, the show was referred to familiarly as *Kuro
 * [http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa Hideout blog post about the show] by [[Kareem Badr]].
 * [http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/ Interview with the directors] by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
 * [http://www.earwolf.com/episode/improvised-samurai-stories Show discussion on Andrew Ti's *YO, IS THIS RACIST?* podcast.] (Conclusion: yes, it's racist.)
- 
+ * [http://earwolf.com/episode/left-wing-racism Referenced as an example of left wing racism on Andrew Ti's *YO, IS THIS RACIST?* podcast.]  (Yes, its still racist.)
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
