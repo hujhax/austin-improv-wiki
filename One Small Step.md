@@ -4,7 +4,7 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Andreas Fabis]] | [[Jessica Arjet]] }}
 |Run                = February 2015
-|Cast               = {{Unbulleted list | [[Amanda Hinsman]] | [[Aspen Webster]] | [[Cagney Ortiz]] | [[Cindy Page]] | [[Courtney Ray Goodson]] | [[David Ronn]] | [[Luis Salinas]] }}
+|Cast               = {{Unbulleted list | [[Amanda Hinsman]] | [[Aspen Webster]] | [[Cagney Ortiz]] | [[Chris Canada]] | [[Cindy Page]] | [[Courtney Ray Goodson]] | [[David Ronn]] | [[Luis Salinas]] }}
 |Tech               = {{Unbulleted list | [[Donnie Garcia]] | [[Ripley Adams]] | [[Michael Yew]]}}
 }}
 
