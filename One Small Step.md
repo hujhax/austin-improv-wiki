@@ -20,6 +20,6 @@ From hilarious moments of triumph over everyday obstacles like eating in Zero G 
 * [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
 * [http://www.youtube.com/watch?v=ltFA1MX5z4Y The 2/15/2015 show at the Hideout Theater]
 * [http://www.youtube.com/watch?v=ifDgwTZ0RmI The 2/22/2015 show at the Hideout Theater]
-
+* [http://www.hideouttheatre.com/aspen-webster-on-one-small-step Aspen Webster's Blog entry on One Small Step]
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
