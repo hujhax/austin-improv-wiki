@@ -5,7 +5,7 @@
 |Director           = {{Unbulleted list | [[Andreas Fabis]] | [[Jessica Arjet]] }}
 |Run                = February 2015
 |Cast               = {{Unbulleted list | [[Amanda Hinsman]] | [[Aspen Webster]] | [[Cagney Ortiz]] | [[Cindy Page]] | [[Courtney Ray Goodson]] | [[David Ronn]] | [[Luis Salinas]] }}
-|Tech               = {{Unbulleted list | [[Donnie Garcia]] | [[Ripley Adams]] }}
+|Tech               = {{Unbulleted list | [[Donnie Garcia]] | [[Ripley Adams]] | [[Michael Yew]]}}
 }}
 
 ***One Small Step*** was the February 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]]. The run was extended with an extra show on March 7th. 
