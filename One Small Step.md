@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = One Small Step
-|Picture            = One Small Step.jpg
+|Picture            = One-Small-Step-Poster-2015-web-small.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Andreas Fabis]] | [[Jessica Arjet]] }}
 |Run                = February 2015
