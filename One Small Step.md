@@ -12,7 +12,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>"One small step for man, one giant leap for improv comedy.  A light-hearted look at the simultaneously boundless and claustrophobic miniature world of people crammed together on a spaceship."</blockquote>
+From the Hideout web page:<blockquote>"Space – terrifying and vast, only the bravest men and women will face this final frontier. Locked together in their lonely space ship these intrepid explorers will face a journey full of discovery, danger and romance. One Small Step follows these bold space travelers as they improvise their way from lift-off to touchdown on their new distant planet.
+
+From hilarious moments of triumph over everyday obstacles like eating in Zero G to thrilling space walks, this improvised comedy features some of The Hideout’s upcoming best and brightest performers in a brand new show directed by Jessica Arjet and Andreas Fabis."</blockquote>
 
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
