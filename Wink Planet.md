@@ -17,7 +17,7 @@ Every Saturday in November 2014, Wink Planet teamed up with sketch group Off the
 * [http://www.facebook.com/events/1379225369008806/declines/?comment_id=1434064150162779&notif_t=group_comment Photoset] by [[Claudio Fox]] that includes their 1/31/14 show.
 
 ## More Information
-* [http://www.facebook.com/winkplanet Wink Planet's Facebook]
+* [https://www.facebook.com/winkplanet Wink Planet's Facebook]
 * [https://vimeo.com/winkplanet Wink Planet's Vimeo]
 * [https://soundcloud.com/winkplanet/tracks Wink Planet's SoundCloud]
 [[Category/Troupes|Category:Troupes]]
