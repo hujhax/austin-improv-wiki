@@ -41,7 +41,8 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Thedward Blevins]]    (Sep 2012-Present)  
 * [[Caeriel Crestin]]
 * [[Mitchell Deane]]
-* [[Lindsay Hejl]]        (Mar 2014-Present)   
+* [[Lindsay Hejl]]        (Mar 2014-Present)
+* [[Ryan Hill]]   
 * [[David Ronn]]          (May 2013-Present)
 * [[Megan Venable]]       (Sep 2013-Present)
 * [[Luke Wallens]]
