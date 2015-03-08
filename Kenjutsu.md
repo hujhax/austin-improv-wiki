@@ -19,6 +19,8 @@ Generally, the cast eschewed non-stop action, focusing instead on patience and d
 
 Prior to the title being finalized, the show was referred to familiarly as *Kurosawa* in honor of director [[Wikipedia - Akira Kurosawa|Akira Kurosawa]].
 
+It was featured on the April 18th, 2014 episode of the Yo, Is This Racist? podcast. Host Andrew Ti and guest Tom Kauffman ruled that the show was racist. Kenjutsu: The Art of the Sword was mentioned again on the February 5th, 2015 episode of Yo, Is This Racist? when host Andrew Ti used it as an example of "left wing racism". 
+
 ## Media
 ### Video
 * [http://youtu.be/CaNsGXHDKJ0 Video] by [[Warren Henderson]] of the 3/29/14 show.
@@ -34,5 +36,8 @@ Prior to the title being finalized, the show was referred to familiarly as *Kuro
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Initial show announcement] on the Hideout's web site.
 * [http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa Hideout blog post about the show] by [[Kareem Badr]].
 * [http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/ Interview with the directors] by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
+* [http://www.earwolf.com/episode/improvised-samurai-stories] Discussion of the show on the Yo, Is This Racist? podcast 04/18/14
+* [http://earwolf.com/episode/left-wing-racism] Further discussion of the show on the Yo, Is This Racist? podcast 02/05/15
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
