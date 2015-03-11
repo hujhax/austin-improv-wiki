@@ -14,9 +14,9 @@ In 2011 he was telecommuting at the Hideout Coffee House and ran into an old fri
 
 In June, 2011 he started classes with Crouch at [[The Hideout Theatre]]. He completed the Hideout curriculum in 2012. [[Roy Janik]], [[The Hideout Theatre]] co-owner, was his teacher for the upper levels. He also took classes at [[The Institution Theater]].
 
-Ryan has been a TA for adult and teen improv classes at [[The Hideout Theater]]; he has coached [[Four Stories Tall]], a teen improv troupe. He produced [[The 44-Hour Improv Marathon]] and is currently co-producing [[The 45-Hour Improv Marathon]] with [[Jessie Pascarelli]].
+Ryan has been a TA for adult and teen improv classes at [[The Hideout Theater]]; he has coached [[Four Stories Tall]], a teen improv troupe. He produced [[The 44-Hour Improv Marathon]] and produced [[The 45-Hour Improv Marathon]] with [[Jessie Pascarelli]].
 
-He is also a musician and has played for [[I Love You So Much]] with the band Tiny Cute Trio and [[Fuck It's Hot]] solo. He is also a frequent musical improviser substitute for [[Indigo Shift]].
+He is also a musician and has played for [[I Love You So Much]] with the band [[Tiny Cute Trio]] and [[Fuck It's Hot]] solo. He is also a frequent musical improviser substitute for [[Indigo Shift]].
 
 ## Troupes
 * [[Century]] (2013-Present) 
