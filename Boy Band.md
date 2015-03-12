@@ -8,14 +8,14 @@
 |Run	=	Feb 2014
 }}
 
-***Boy Band*** is an upcoming mainstage improv show at [[ColdTowne Theater]].  It will chronicle the career of "M*Pulse", a fictionalized boy band from the early 2000's, à la *[[Wikipedia - Behind the Music|Behind the Music]]*.
+***Boy Band*** was a mainstage improv show at [[ColdTowne Theater]].  It chronicled the career of "M*Pulse", a fictionalized boy band from the early 2000's, à la *[[Wikipedia - Behind the Music|Behind the Music]]*.
 
 ## Summary
-[[Katie Moore]] is the show's choreographer.
+[[Katie Moore]] was the show's choreographer.
 
-The cast features five boy band archetypes – "the bad boy", "the cute one", "the talent", "the older one", and "the weird one".
+The cast featured five boy band archetypes: "the bad boy", "the cute one", "the talent", "the older one", and "the weird one".
 
-The show will run Saturdays in February at 8:30pm.
+The show will ran Saturdays in February 2014 at 8:30pm.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=16820 The audition notice] on [[The Austin Improv Forums]].
