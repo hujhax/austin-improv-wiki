@@ -102,6 +102,8 @@ This is their bio from their web site:
 * [http://www.facebook.com/media/set/?set=a.530515880350429.1073741857.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 ** [http://www.flickr.com/photos/oob_pics/sets/72157635455662967/ Photoset] by [[Ryan Criswell]] of the same show.
 * [https://www.facebook.com/media/set/?set=a.644308972299289.1073741951.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 100th show on 12/6/13.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202535417569427.1073741903.1315383518&type=3 Photoset] by [[Michael Yew]] of their show at [[The 2014 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10203012933787034.1073741915.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
 
 ### Audio
 * [http://ferstenfeld.com/mp3s/prov/may23-confidancemen-rehearsal-tearoom.mp3 Audio of their 5/23/09 rehearsal.] ("Tea Room")
