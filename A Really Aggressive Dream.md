@@ -14,6 +14,10 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We ask for an object and then we do a montage inspired by the object.</blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/21/14 show at *[[The Threefer]]*.
+
 [[Category/Troupes|Really Aggressive Dream]]
 [[Category/Auto-Generated Troupe Pages|Really Aggressive Dream]]
 [[Category/Active|Really Aggressive Dream]]
