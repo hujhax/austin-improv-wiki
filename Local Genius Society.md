@@ -69,6 +69,7 @@ Here is [[Zac Grantham]]'s explanation of the name's origin:<blockquote>We put a
 Photoset] that includes their 12/8/12 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 2/1/13 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
+* [http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/21/14 show at *[[The Threefer]]*.
 
 ### Publicity
 * As part of their fundraiser for their trip to Improvaganza in 2012, the troupe recorded a series of mock PSAs from the "Beach Cops"
