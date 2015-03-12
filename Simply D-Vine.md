@@ -21,6 +21,7 @@ The troupe debuted at [[The Spectacle]] on 11/27/10.
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes their 11/15/13 performance in the *[[2x4]]*.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 * [http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 4/3/14 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/21/14 show at *[[The Threefer]]*.
 
 ## More Information
 * [http://www.facebook.com/simplydvineimprov The troupe's facebook page.]
