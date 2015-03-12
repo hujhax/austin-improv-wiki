@@ -1,12 +1,12 @@
 ![[2014 OoB.jpg|The 2014 Out of Bounds logo.]]
-**The 2014 Out of Bounds Comedy Festival** is the thirteenth annual [[Out of Bounds Comedy Festival]].
+**The 2014 Out of Bounds Comedy Festival** was the thirteenth annual [[Out of Bounds Comedy Festival]].
 
 ## Summary
-Its advertising is chemistry-themed.
+Its advertising was chemistry-themed.
 
-The festival will run from from Tuesday 8/26/13 to Monday 9/1/13.
+The festival ran from from Tuesday 8/26/13 to Monday 9/1/13.
 
-The festival roast will feature [[Andy Crouch]].
+The festival roast featured [[Andy Crouch]].
 
 ## Acts
 ### Local Improv and Sketch Acts
