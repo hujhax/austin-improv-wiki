@@ -53,6 +53,9 @@ In 2014 Lee Eddy, after a long absence, re-joined The Knuckleball Now.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.629538103734355.1073741857.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[The 2013 Out of Bounds Comedy Festival]].
 * [http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/Knuckleball-Now/ Photoset] by [[Chad Wellington]] of their 10/18/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
+* [http://www.facebook.com/chriscurl/media_set?set=a.10152564402547107.1073741840.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/media/set/?set=a.712663975476783.1073741849.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 10/24/14 show with [[Mister Morbid]].
+* [http://www.facebook.com/media/set/?set=a.844338555629662.1073742111.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
 
 ## More Information
 * [http://theknuckleballnow.net/ The troupe's web site.]
