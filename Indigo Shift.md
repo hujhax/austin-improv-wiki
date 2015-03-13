@@ -56,6 +56,8 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 * [http://www.facebook.com/media/set/?set=a.208887992621682.1073741837.156632087847273&type=1 Photoset] by [[Steve Rogers]] that includes their 9/27/13 performance at *[[The Hell & Back Cabaret]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3 Photoset] by [[Michael Yew]] of their 12/20/13 performance in *[[PGraph Presents]]*.
 * [http://cwcreations.smugmug.com/Improv-2014/Indigo-Shift-20140418/ Photoset] by [[Chad Wellington]] of their 4/18/14 show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202528972488304.1073741902.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their show at [[The 2014 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/hujhax/media_set?set=a.10152831848412265.1073741860.588952264&type=3 Photoset] by [[Peter Rogers]] of their 10/10/14 performance in [[Mister Morbid]], featuring [[Lindsey McGowen]] as their guest musician.
 
 ## More Information
 * [http://www.facebook.com/#!/shiftindigo?fref=ts Indigo Shift's Facebook page]
