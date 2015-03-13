@@ -33,6 +33,7 @@ The troupe broke up when Bridget moved away to Rhode Island.
 ### Photos
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.608175565870609.1073741848.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 6/27/13 performance in *[[The Triple Scoop]]*.
 * [http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/BeauMoMa/ Photoset] by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
+* [http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 1/8/15 reunion show in *[[The Threefer]]*.
 
 ## More Information
 * [http://www.facebook.com/BeauMoMa The troupe's Facebook page.]
