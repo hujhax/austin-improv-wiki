@@ -15,6 +15,10 @@
 ### Publicity Blurb
 From the show announcement:<blockquote>"An improvised post-post-apocalyptic adventure, chronicling the lives of the survivors of a world ending cataclysm. Inspired by works like *[[Wikipedia - World War Z|World War Z]]*, *[[Wikipedia - Y the Last Man|Y the Last Man]]*, *[[Wikipedia - The Hunger Games|The Hunger Games]]*, *[[Wikipedia - Revolution (TV series)|Revolution]]*, and *[[Wikipedia - The Walking Dead|The Walking Dead]]*."</blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.821236394606545.1073742087.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/11/14 performance.
+
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
 
