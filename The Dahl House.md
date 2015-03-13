@@ -15,6 +15,10 @@
 ### Publicity Blurb
 From the show announcement:<blockquote>"Improvised stories inspired by Roald Dahl. British children’s fantasy with a distinctly fizz-wizzing flair."</blockquote>
 
+Long version from the [http://www.hideouttheatre.com/shows/TheDahlHouse show page]:<blockquote>This August, the Hideout brings you brand-new improvised plays inspired by childhood favorite Roald Dahl. The Dahl House takes the audience on an adventure through a world of brave children, horrid grown-ups, playful allies, and a marvelous array of animals, creatures, and thingamajigs.
+
+The world can be a scary and flamboozled place for the good-at-heart, but Roald Dahl has a wonderful way of showing us that goodness can prevail in the end, or at least stand up for itself.</blockquote>
+
 ### Format
 After opening to a choreographed dance, the players line up to the front of the stage at the summoning of the class' teacher (played by Valerie).  The audience is addressed as observers from an English department of educational excellence (with an appropriately extensive Dahl-ian name) and asked for an initial letter.  The players go down the line, adding letters to form an improvised word, then providing a definition word-at-a-time.  The teacher then releases the students to playtime, kicking off the narrative.
 
