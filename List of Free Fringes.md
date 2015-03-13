@@ -1534,3 +1534,6 @@ This format originally appeared on [[List of Free Fringes#All Ladies Be Trekkin.
 
 #### [[Tech Nightmare]]
 This was the beloved, recurring Free Fringe format ([[List of Free Fringes#The Triumphant Return of the Tech Nightmare .28Cortney DeAngelo .26 Cindy Page.29|7/19/12]], [[List of Free Fringes#Tech Nightmare .28Cindy Page.29|9/27/12]], [[List of Free Fringes#Tech Nightmare .28Cindy Page.29 2|10/25/12]], and [[List of Free Fringes#Merry Xmas Tech Nightmare .28Cortney DeAngelo.29|12/13/12]]) that features AIC techs inflicting sound- and light-cue madness on the performers onstage.
+
+#### Media
+* [http://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3 Photoset] by [[Steve Rogers]].
