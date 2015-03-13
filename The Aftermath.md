@@ -25,6 +25,7 @@ From the show's web page:<blockquote><p>The world has ended. Something came and 
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
+* [http://www.hideouttheatre.com/shows/theaftermath The show's web page.]
 
 [[Category/Shows|Aftermath]]
 [[Category/The Hideout Theatre|Aftermath]]
