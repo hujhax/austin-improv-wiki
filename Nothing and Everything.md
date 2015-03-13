@@ -48,6 +48,8 @@ The show featured an unadvertised preview performance two days before its premie
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/6/14 preview.
+* [http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 11/22/14 show.
+* [http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/20/14 show.
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
