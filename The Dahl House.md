@@ -40,6 +40,7 @@ The opening and post-intermission dances had setpiece songs; the rest of the sho
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
+* [http://en.wikipedia.org/wiki/Roald_Dahl Wikipedia's entry on Roald Dahl]
 
 [[Category/Shows|Dahl House]]
 [[Category/The Hideout Theatre|Dahl House]]
