@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=		Field Day
+|Picture = Field Day.jpg
 |Cast	=	{{Unbulleted list | [[Chris Albano]] | [[David Schwartz]] | [[Judith Schomp]] | [[Lindsay Hejl]] | [[Michael Bowman]] }}
 |Director =	[[Ruby Willmann]]
 |Years	=		2014-Present
