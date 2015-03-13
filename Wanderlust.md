@@ -9,7 +9,7 @@
 |Run	=	Jan/Feb 2015
 }}
 
-***Wanderlust*** is an upcoming mainstage at [[The Hideout Theatre]].  It will depict two people going on a journey.
+***Wanderlust*** was a mainstage at [[The Hideout Theatre]].  It depicted two people going on a journey.
 
 ## Summary
 The director's initial description of the show from the audition announcement:
@@ -28,7 +28,17 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 
 ## Media
 ### Videos
-* [https://vimeo.com/115893524 Video] by [[Peter Rogers]] of the 1/3/15 premiere. Corresponding playlist used by substitute tech [[Lindsey McGowen]] can be found [http://eilanora.livejournal.com/11890.html here]. 
+* [https://vimeo.com/115893524 Video] by [[Peter Rogers]] of the 1/3/15 premiere.
+**Corresponding playlist used by substitute tech [[Lindsey McGowen]] can be found [http://eilanora.livejournal.com/11890.html here]. 
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.873676119362572.1073742135.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/3/15 premiere.
+* [http://www.facebook.com/media/set/?set=a.880605918669592.1073742140.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/10/15 performance.
+* [http://www.facebook.com/media/set/?set=a.886081091455408.1073742142.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/17/15 performance.
+* [http://www.facebook.com/media/set/?set=a.10203488369032618.1073741926.1315383518&type=3 Photoset] by [[Michael Yew]] of the 1/31/15 performance.
+* [http://www.facebook.com/media/set/?set=a.899151200148397.1073742149.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/7/15 performance.
+* [http://www.facebook.com/media/set/?set=a.907959222600928.1073742155.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/21/15 performance.
+* [http://www.facebook.com/media/set/?set=a.912193992177451.1073742158.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/28/15 performance.
 
 ## More Information
 * [https://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
