@@ -15,6 +15,11 @@
 ### Publicity Blurb
 From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - Bram Stoker|Bram Stoker]] and [[Wikipedia - Edgar Allen Poe|Edgar Allen Poe]], by the British [[Wikipedia - Hammer Studios|Hammer Studios]] horror films of the 1960s, and featuring a dash of [[Wikipedia - Scooby Doo|Scooby Doo]], comes an improvised gothic horror tale replete with rich characters, terrible secrets, and all kinds of spooky goings-on."</blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.861837887213062.1073742124.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 12/13/14 performance.
+* [http://cwcreations.smugmug.com/Improv-2014/A-Penny-Dreadful/20150110 Photoset] by [[Chad Wellington]] of the 1/10/15 performance.
+
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17711 The cast announcement] on [[The Austin Improv Forums]].
