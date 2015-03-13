@@ -25,6 +25,7 @@ In June of 2014, Kevin took an impromptu trip to Tampere, Finland, where he had 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=1 Photoset] by [[Chad Wellington]] that includes their 5/29/14 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
+* [http://www.facebook.com/media/set/?set=a.891482047581979.1073742147.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 1/25/15 performance in *[[The Weekender]]*.
 
 ### Videos
 * [http://vimeo.com/89691491 The original 3/20/14 *Free Fringe* show.] 
