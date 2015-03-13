@@ -20,6 +20,8 @@ After opening to a choreographed dance, the players line up to the front of the 
 
 The players then spin a Dahl-inspired narrative involving the word.  After an intermission, the protagonist starts asleep on stage, and the players create a dream sequence through improvised dance, opening the second half to the protagonist waking up.
 
+The full cast of eight players, modulo a few absences, played in each show.
+
 ### Improv Stylings
 The players translated elements of Dahl's distinctive narrative and linguistic style to stage.  These elements include fantastical or magical abilities, invented words, and dark or dangerous world.  The players also used extensive scene-painting and other direct-addressing of the audience to mirror the style of a written narrative that communicates directly through the prose standing between quotations.
 
