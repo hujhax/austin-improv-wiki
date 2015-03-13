@@ -105,6 +105,7 @@ An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wik
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201568613599932.1073741883.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/21/14 performance in *[[PGraph Presents]]*.
 * [http://www.facebook.com/media/set/?set=a.10152579627562265.1073741849.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/27/14 performance in *[[PGraph Presents]]*
 ** [http://www.facebook.com/michael.yew/media_set?set=a.10202172654140568.1073741894.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the same performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10203013018949163.1073741916.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
 
 ### Other
 * Eris 2035 "Friend" videos:
