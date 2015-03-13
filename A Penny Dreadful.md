@@ -9,7 +9,7 @@
 |Tech = {{Unbulleted list | [[Tyler Lane]] (lighting) | [[Paul Weiner]] (sound) | [[Mike Reed]] (music) }} 
 }}
 
-***A Penny Dreadful*** will be the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***A Penny Dreadful*** was the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
