@@ -107,6 +107,7 @@ On 11/17/11, cast members [[Curtis Luciani]], [[Kaci Beeler]], and [[Peter Roger
 * 12/17/11 performance: [http://www.facebook.com/media/set/?set=a.462273963836125.112151.221927764537414&type=3 photoset] by [[Steve Rogers]].
 * 12/21/12 performance: [http://www.facebook.com/media/set/?set=a.462857947111060.112251.221927764537414&type=3 photoset] by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.759515957445256.1073742031.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+* [http://www.facebook.com/media/set/?set=a.869583529771831.1073742132.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 12/27/14 performance.
 
 ### Other
 * Photos of [[Kaci Beeler]]'s 2009 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%285%29/photo%285%29.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%284%29/photo%284%29.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%286%29/photo%286%29.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/Dickens_24/Dickens_24.jpg?disposition=download 4], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%287%29/photo%287%29.jpg?disposition=download 5], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/Dickens_10/Dickens_10.jpg?disposition=download 6].
