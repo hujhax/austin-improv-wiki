@@ -1,6 +1,6 @@
 ![[WaffleFest 2014 Publicity Art.jpg|Publicity art for WaffleFest 2013.]]
 
-**WaffleFest 2013** was the twelfth annual [[WaffleFest]].
+**WaffleFest 2013** was the thirteenth annual [[WaffleFest]].
 
 ## Summary
 The festival ran from 11/20/14 to 11/22/14.
