@@ -23,6 +23,10 @@ The players then spin a Dahl-inspired narrative involving the word.  After an in
 ### Improv Stylings
 The players translated elements of Dahl's distinctive narrative and linguistic style to stage.  These elements include fantastical or magical abilities, invented words, and dark or dangerous world.  The players also used extensive scene-painting and other direct-addressing of the audience to mirror the style of a written narrative that communicates directly through the prose standing between quotations.
 
+The narrative followed a single (child) protagonist; no one else was guaranteed to survive.  Villains, or the merely nasty, were often plentiful.  Costume pieces helped differentiate characters; these were often brought in through explicit scene-painting simultaneously with an actual, physical endowment of clothing.
+
+The opening and post-intermission dances had setpiece songs; the rest of the show had improvised scoring from a playlist.  The narrative had improvised lights throughout.
+
 ## Media
 ### Photos
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.880565448640608.1073741880.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
