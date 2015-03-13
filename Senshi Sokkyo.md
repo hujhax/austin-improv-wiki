@@ -1,11 +1,11 @@
 {{Infobox Troupe
-|Name	=	Senshi Sokyo
+|Name	=	Senshi Sokkyo
 |Picture =     Senshi Sokyo.jpg
 |Cast	=	{{Unbulleted list | [[Colin Thomas Bates]] | [[Dana Yanoshak]] | [[Karen Jane DeWitt]] | [[Kyle Traughber]] | [[Leng Wong]] | [[Quinn Buckner]] }}
 |Years	=		2011-2012
 }}
 
-**Senshi Sokyo** was an improv troupe that performed improvised animé.
+**Senshi Sokkyo** was an improv troupe that performed improvised animé.
 
 ## Media
 ### Photos
