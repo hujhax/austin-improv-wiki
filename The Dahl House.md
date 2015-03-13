@@ -15,6 +15,11 @@
 ### Publicity Blurb
 From the show announcement:<blockquote>"Improvised stories inspired by Roald Dahl. British children’s fantasy with a distinctly fizz-wizzing flair."</blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.880565448640608.1073741880.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
+* [http://www.facebook.com/media/set/?set=a.10152690164257265.1073741854.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/16/14 show.
+
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
 
