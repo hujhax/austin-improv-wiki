@@ -1451,6 +1451,10 @@ Also, Halyn designed this poster. It is my favorite thing ever. The end.
 
 See you Thursday!"
 
+#### Media
+* [http://www.facebook.com/warren.henderson.946/media_set?set=a.885140401516446.1073741881.100000614831752&type=3 Photoset] by [[Warren Henderson]].
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104973346355910.1073741868.7909117&type=3 Photoset] by [[Heidi Rogers]].
+
 ### September 4, 2014 (the 119th show)
 #### Super City Council ([[Peter Rogers]])
 For reasons not worth getting into, a whole bunch of improvisers spent a whole bunch of hours hanging out at an extremely dull City Council meeting last week. So now, we're passing the entertainment onto you. We'll revisit the meeting, but set it in an alternate universe: Fantasy, Sci-Fi, Whimsical? Come and See!
