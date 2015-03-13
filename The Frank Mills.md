@@ -81,6 +81,8 @@ and many of their students
 * [http://www.facebook.com/media/set/?set=a.470860206310834.113818.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 1/5/13 performance at [[ColdTowne Theater]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
 * [http://www.facebook.com/media/set/?set=a.756154667781385.1073742023.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105046990502450.1073741875.7909117&type=3 Photoset] by [[Heidi Rogers]] of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
 
 ## More Information
 * [http://www.thefrankmills.net/ The troupe's website.]
