@@ -22,3 +22,4 @@ The event was first held in 2007. Same Year's Eve was created by Valerie Ward as
 * Same Year's Eve 2013: [http://www.facebook.com/warren.henderson.946/media_set?set=a.753644821332672.1073741859.100000614831752&type=1 Photoset] by [[Warren Henderson]].
 ** [http://www.facebook.com/claudio.fox.5/media_set?set=a.684514328236732.1073741874.100000345135257&type=3 Another photoset] by [[Claudio Fox]].
 ** [http://www.facebook.com/media/set/?set=a.572944876115361.1073741837.473177099425473&type=1 Another photoset] by [[Cindy Page]].
+* Photosets by [[Steve Rogers]] of SYE 2014: [http://www.facebook.com/media/set/?set=a.871174546279396.1073742133.221927764537414&type=3 1], [http://www.facebook.com/media/set/?set=a.871175819612602.1073742134.221927764537414&type=3 2].
