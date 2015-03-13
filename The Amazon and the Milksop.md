@@ -55,6 +55,9 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201747442190535.1073741886.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/21/14 performance of "F. Scott and Zelda Fitzgerald Save the World".
 * [http://www.facebook.com/media/set/?set=a.723690821027770.1073741992.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/27/14 "F. Scott and Zelda Fitzgerald Save The World!" show.
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes their 6/12/14 performance in *[[The Threefer]]*.
+* [http://www.facebook.com/media/set/?set=a.826962494033935.1073742094.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 10/16/14 show at *[[The Threefer]]*
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202729046970041.1073741910.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 10/3/14 performance.
+* [http://www.facebook.com/media/set/?set=a.846434505420067.1073742115.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
 
 [[Category/Troupes|Amazon and the Milksop]]
 [[Category/Active|Amazon and the Milksop]]
