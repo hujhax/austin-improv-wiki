@@ -62,6 +62,8 @@ In 2014, the cast began production on *Tales from the Black Vault*, a podcast ve
 * [http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 10/11/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
 * [http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/ Photoset] by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
+* [http://www.facebook.com/media/set/?set=a.712663832143464.1073741848.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 10/24/14 show with [[Mister Morbid]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10203090924416751.1073741919.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/4/14 performance of "Arkham Community Radio" in *[[The Free Fringe]]*.
 
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
