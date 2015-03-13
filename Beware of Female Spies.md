@@ -8,10 +8,10 @@
 |Run	=	Jan 2014
 }}
 
-***Beware of Female Spies*** is a mainstage improv show about a spy agency. 
+***Beware of Female Spies*** was a mainstage improv show about a spy agency. 
 
 ## Summary
-The show takes place in America's top spy agency, Special Patriotic Operations Over Foreign Secrets (S.P.O.O.F.S.).  Each week, a new female performer plays the agency's top spy, who has to fight both the sinister plans of nefarious villains and the patriotic double standards of her fellow agents.  There is also a romantic screwball-comedy element, as sexual tension simmers between her and her male counterpart.
+The show took place in "America's top spy agency", Special Patriotic Operations Over Foreign Secrets (S.P.O.O.F.S.).  Each week, a new female performer played the agency's top spy, who had to fight both the sinister plans of nefarious villains and the patriotic double standards of her fellow agents.  There was also a romantic screwball-comedy element, as sexual tension simmered between her and her male counterpart.
 
 ## More Information
 * [http://www.coldtownetheater.com/events/beware-of-female-spies-improv The show's web page.]
