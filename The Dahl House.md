@@ -9,7 +9,7 @@
 |Tech = [[Rachel Posey Austin]] (sound)
 }}
 
-***The Dahl House*** will be the August 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***The Dahl House*** was the August 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
