@@ -19,7 +19,7 @@ Ryan has been a TA for adult and teen improv classes at [[The Hideout Theater]];
 He is also a musician and has played for [[I Love You So Much]] with the band [[Tiny Cute Trio]] and [[Fuck It's Hot]] solo. He is also a frequent musical improviser substitute for [[Indigo Shift]].
 
 ## Troupes
-* [[Century]] (2013-Present) 
+* [[Century]] (2013-2014) 
 * [[In Our Prime]] (2012-Present) 
 * [[The Seven Eight Sevens]] (2012-2013)
 * [[Apocalypse (troupe)|Apocalypse]] (2012)
