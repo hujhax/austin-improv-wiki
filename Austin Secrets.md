@@ -145,6 +145,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.666557423374746.1073741846.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the a 2013 show.
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.661103777253444.1073741845.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 9/7/13 premiere.
 * [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104423796967290.1073741861.7909117&type=3 Photoset] by [[Heidi Rogers]] of the 10/25/13 show.
+* [http://www.facebook.com/media/set/?set=a.917842691612581.1073742162.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 3/7/15 show.
 
 ### Other
 * Photos of [[Kaci Beeler]]'s set design for the 2011 run: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_2/photo%203_2.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_1/photo%202_1.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_2/photo%204_2.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201/photo%201.jpg?disposition=download 4].
