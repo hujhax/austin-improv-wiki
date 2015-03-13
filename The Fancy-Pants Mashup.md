@@ -72,6 +72,12 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.780445991985888.1073741863.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes the 2/7/14 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201567845860739.1073741882.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/7/14 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202129347137920.1073741892.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/20/14 show, which was part of [[The 45-Hour Improv Marathon]].
+* [http://www.facebook.com/media/set/?set=a.810734165656768.1073742081.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/26/14 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202578293681303.1073741907.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/3/14 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10202944075865629.1073741913.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/7/14 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10203091001138669.1073741920.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/5/14 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10203521225334005.1073741928.1315383518&type=1 Photoset] by [[Michael Yew]] of the 2/6/15 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10203682683050347.1073741929.1315383518&type=1 Photoset] by [[Michael Yew]] of the 3/6/15 performance.
 
 ## Other Information
 * [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
