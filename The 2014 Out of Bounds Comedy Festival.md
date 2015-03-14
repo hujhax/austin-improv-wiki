@@ -199,6 +199,12 @@ The festival roast featured [[Andy Crouch]].
 * Testify
 
 ## Media
+### Videos
+* [http://vimeo.com/108304009 Video] of the 8/26/14 [[Known Wizards]] show.
+* [http://vimeo.com/109193870 Video] of the 8/27/14 [[In Our Prime]] show.
+* [http://vimeo.com/108306676 Video] of the 8/27/14 [[Beware of Female Spies]] show.
+* [http://vimeo.com/106576604 Video] of the 8/30/14 Rapid Fire Theatre show.
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.792646800798838.1073742046.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the [[Known Wizards]] show.
 * [http://www.facebook.com/media/set/?set=a.793165274080324.1073742049.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the [[Oh, Science!]] show.
