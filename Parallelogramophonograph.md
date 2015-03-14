@@ -55,6 +55,11 @@ An improvised French Farce, visually reminiscent of [http://en.wikipedia.org/wik
 * [http://vimeo.com/26027879 Video] by [[Peter Rogers]] of their 6/7/11 show.
 * [http://vimeo.com/25853270 Video] of their 6/23/11 show at ImprovBoston.
 * [http://vimeo.com/26165479 Video] of their "French Farce" performance in [[The 2011 Improvised Play Festival]].
+* [http://vimeo.com/113571987 Video] of their 8/5/11 "Some Like It Improvised" show in the Edinburgh Fringe.
+* [http://vimeo.com/113569400 Video] of their 8/6/11 "Some Like It Improvised" show in the Edinburgh Fringe.
+* [http://vimeo.com/113574369 Video] of their 8/8/11 "GRIMM" show in the Edinburgh Fringe.
+* [http://vimeo.com/113961314 Video] of their 8/9/11 "Some Like It Improvised" show in the Edinburgh Fringe.
+* [http://vimeo.com/113972805 Video] of their 8/11/11 "GRIMM" show in the Edinburgh Fringe.
 * [http://vimeo.com/40500114 Video] of their "Dick and Jane" performance in [[The 2012 Improvised Play Festival]].
 
 ### Photos
