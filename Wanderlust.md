@@ -28,8 +28,12 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 
 ## Media
 ### Videos
-* [https://vimeo.com/115893524 Video] by [[Peter Rogers]] of the 1/3/15 premiere.
-**Corresponding playlist used by substitute tech [[Lindsey McGowen]] can be found [http://eilanora.livejournal.com/11890.html here]. 
+* [http://vimeo.com/115893524 Video] by [[Peter Rogers]] of the 1/3/15 premiere.
+** Corresponding playlist used by substitute tech [[Lindsey McGowen]] can be found [http://eilanora.livejournal.com/11890.html here].
+* [http://vimeo.com/117755059 Video] of the 1/24/15 show.
+* [http://vimeo.com/118672454 Video] of the 1/31/15 show.
+* [http://vimeo.com/119088109 Video] of the 2/7/15 show.
+* [http://vimeo.com/119759341 Video] of the 2/14/15 show.
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.873676119362572.1073742135.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/3/15 premiere.
