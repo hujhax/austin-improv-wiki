@@ -40,4 +40,5 @@ It included an all-star *[[Maestro]]* and a teen showcase.
 * Photosets from [[Michael Yew]]: [http://www.facebook.com/michael.yew/media_set?set=a.10203012933787034.1073741915.1315383518&type=3 1], [http://www.facebook.com/michael.yew/media_set?set=a.10203013018949163.1073741916.1315383518&type=3 2], [http://www.facebook.com/michael.yew/media_set?set=a.10203017065250318.1073741917.1315383518&type=3 3].
 
 ### Videos
-* [https://vimeo.com/112559537 Video] by [[Paul Normandin]] of the [[In Our Prime]] show.
+* [http://vimeo.com/112559537 Video] by [[Paul Normandin]] of the [[In Our Prime]] show.
+* [http://vimeo.com/114202698 Video] of the Squirrel Buddies show.
