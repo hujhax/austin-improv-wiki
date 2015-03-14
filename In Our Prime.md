@@ -69,8 +69,11 @@ Here is [[Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our
 * [http://vimeo.com/80867898 Video] by [[Paul Normandin]] of their 11/21/13 performance in [[WaffleFest 2013]].
 * [http://vimeo.com/80870736 Video] by [[Paul Normandin]] of their 11/25/13 performance at [[ColdTowne Theater]].
 * [http://vimeo.com/91778243 Video] of their show in [[The 2014 Improvised Play Festival]].
-* [http://vimeo.com/105347452 Video] of their show in [[The 2014 Out of Bounds Comedy Festival]].
-* [http://vimeo.com/102503662 Video] of their show in The 2014 Improv Festival Oklahoma.
+* [http://vimeo.com/102503662 Video] by [[Paul Normandin]] of their 8/2/14 show in the 2014 Improv Festival Oklahoma.
+* [http://vimeo.com/105414855 Video] by [[Paul Normandin]] of their 8/8/14 show at [[The Hideout Theatre]].
+* [https://vimeo.com/111587850 Video] by [[Paul Normandin]] of their 8/17/14 show at [[The Hideout Theatre]].
+* [http://vimeo.com/109193870 Video] of their 8/27/14 show in [[The 2014 Out of Bounds Comedy Festival]].
+* [https://vimeo.com/112559537 Video] by [[Paul Normandin]] of their 11/20/14 show at [[WaffleFest 2014]].
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
