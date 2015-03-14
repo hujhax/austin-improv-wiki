@@ -14,6 +14,9 @@
 The show took place in "America's top spy agency", Special Patriotic Operations Over Foreign Secrets (S.P.O.O.F.S.).  Each week, a new female performer played the agency's top spy, who had to fight both the sinister plans of nefarious villains and the patriotic double standards of her fellow agents.  There was also a romantic screwball-comedy element, as sexual tension simmered between her and her male counterpart.
 
 ## Media
+### Videos
+* [http://vimeo.com/108306676 Video] of their 8/27/14 show in [[The 2014 Out of Bounds Comedy Festival]].
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.793169357413249.1073742050.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
 
