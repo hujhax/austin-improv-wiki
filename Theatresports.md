@@ -159,6 +159,8 @@ The schedule is as follows:
 * [http://vimeo.com/69837645 Video of the 5/25/13 performance] by [[Ryan Austin]].
 * [http://vimeo.com/69837644 Video of the 6/1/13 performance] by [[Ryan Austin]].
 * [http://vimeo.com/70243827 Video of the 6/8/13 performance] by [[Ryan Austin]].
+* [http://vimeo.com/108864355 Video] of the 6/14/13 show.
+* [http://vimeo.com/101990260 Video of a 2014 show].
 * [http://vimeo.com/95740478 Video] of the 5/10/14 show.
 * [http://vimeo.com/97182583 Video] of the 5/24/14 show.
 * [http://vimeo.com/97182584 Video] of the 5/31/14 show.
