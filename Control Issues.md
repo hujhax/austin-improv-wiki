@@ -51,6 +51,10 @@ From 2010 to 2014, the show was a pick-up format, cast month-to-month from inter
 * 5/9/14: [http://youtu.be/GAQarSR6qIM Video.]
 * [http://vimeo.com/100615630 Video] by [[Peter Rogers]] of the 7/11/14 first show ("The Lunar Bicycle").
 * [http://vimeo.com/100610406 Video] by [[Peter Rogers]] of the 7/11/14 second show ("The Love and Horror of Bora Bora").
+* Videos by [[Peter Rogers]] of the 11/14/14 show: [http://vimeo.com/111917170 Japanese Folktale], [http://vimeo.com/111918440 Wizard Telenovela].
+* Videos by [[Peter Rogers]] of the 12/12/14 show: [http://vimeo.com/114526131 Pulp Adventure], [http://vimeo.com/114527238 Christmas Horror].
+* Videos by [[Peter Rogers]] of the 1/9/15 show: [http://vimeo.com/116407842 John Hughes], [http://vimeo.com/116407841 Jeunet & Caro].
+* Videos by [[Peter Rogers]] of the 2/13/15 show: [http://vimeo.com/119908815 Romantic Comedy], [http://vimeo.com/119916096 Bigfoot Documentary].
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3 A couple of pre-show photos] by [[Peter Rogers]] of the 10/8/10 show.
