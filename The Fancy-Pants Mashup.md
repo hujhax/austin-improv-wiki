@@ -32,6 +32,8 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://vimeo.com/47377300 Video of 7/6/12 performance.]
 * [http://vimeo.com/61489752 Video of 3/1/13 performance.]
 * [http://vimeo.com/65959353 Video of 5/3/13 performance.]
+* [http://vimeo.com/115926305 Video] by [[Peter Rogers]] of the 1/3/15 show.
+
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.455820182264.226206.588952264&type=3 A photoset] by [[Peter Rogers]] of the 6/25/10 performance.
 * [http://www.facebook.com/hujhax/media_set?set=a.10150096018652265.296306.588952264&type=3 A photoset] by [[Peter Rogers]] of the 10/29/10 performance.
