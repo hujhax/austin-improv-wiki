@@ -18,6 +18,11 @@ In BatShyt Crazy's most famous sketch, Pedro Poops Joy, [[Susannah Raulino]] gue
 BatShyt Crazy had their own run of ridiculous sketch comedy called 'BatShyt Crazy: Live Rude Puppets' at the Institution Theater in August of 2014.
 
 ## Media
+### Videos
+* [http://vimeo.com/104261690 Video] by [[Topping Haggerty]] of their 8/1/14 show.
+* [https://vimeo.com/107663376 Video] by [[Topping Haggerty]] of their 8/22/14 show.
+* [https://vimeo.com/118369303 Video] by [[Topping Haggerty]] of their 2015 [[FronteraFest]] show.
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.10152671362812265.1073741853.588952264&type=3 Photoset] of their 8/1/14 show by [[Peter Rogers]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202412126407225.1073741897.1315383518&type=3 Photoset] of their 8/8/14 show by [[Michael Yew]].
