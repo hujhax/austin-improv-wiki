@@ -43,8 +43,11 @@ The show featured an unadvertised preview performance two days before its premie
 ## Media
 ### Videos
 * [http://vimeo.com/111300281 Video] by [[Peter Rogers]] of the 11/6/14 preview (incomplete).
-* [http://vimeo.com/111329177 Video] by [[Peter Rogers]] of the 11/8/14 premiere.
-* [http://vimeo.com/111990343 Video] by [[Peter Rogers]] of the 11/15/14 premiere.
+* [http://vimeo.com/111329177 Video] by [[Peter Rogers]] of the 11/8/14 show.
+* [http://vimeo.com/111990343 Video] by [[Peter Rogers]] of the 11/15/14 show.
+* [http://vimeo.com/113191194 Video] by [[Peter Rogers]] of the 11/29/14 show.
+* [http://vimeo.com/114520138 Video] by [[Peter Rogers]] of the 12/13/14 show.
+* [http://vimeo.com/115144124 Video] by [[Peter Rogers]] of the 12/20/14 show.
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/6/14 preview.
