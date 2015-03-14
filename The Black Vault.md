@@ -52,6 +52,8 @@ In 2014, the cast began production on *Tales from the Black Vault*, a podcast ve
 * [http://vimeo.com/69325354 Video] by [[Paul Normandin]] of their 6/23/13 performance in [[The 44-Hour Improv Marathon]].
 * [http://vimeo.com/76849825 Audio of the 10/11/13 performance], part of *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
 * [https://www.youtube.com/watch?v=k07bu91F9H4#t=2678 Video of the 3/27/14 performance] by [[Warren Henderson]].
+* [http://vimeo.com/114083493 Video] by [[Peter Rogers]] of the 12/7/14 performance of "Arkham Community Radio" in the *[[2x4]]*.
+* [http://vimeo.com/120012508 Video] by [[Peter Rogers]] of the 1/23/15 performance of "Arkham Community Radio" in *[[The Free Fringe]]*.
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.418383731558482.101763.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/8/12 performance.
