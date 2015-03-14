@@ -31,6 +31,8 @@ In [[The 44-Hour Improv Marathon]], the duo introduced "Pine Falls", an improvis
 * [http://vimeo.com/82472952 Video] by [[Brad Hawkins]] of their 12/20/13 show at [[The Hideout Theatre]] ("Hotel").
 * [http://vimeo.com/92380406 Video] by [[Peter Rogers]] of the 4/17/14 "Franz and Dave *[[Maestro]]*" at *[[The Free Fringe]]*.
 * [http://vimeo.com/107180898 Video] by [[Brad Hawkins]] of their 5/1/14 show at [[The Hideout Theatre]] ("The Lost Heart").
+* [http://vimeo.com/107765199 Video] by [[Brad Hawkins]] of the 7/4/14 show ("Devour").
+* [http://vimeo.com/107818589 Video] by [[Brad Hawkins]] of the 9/26/14 show ("Off-Script").
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.10150659165717265.450006.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/1/12 show.
