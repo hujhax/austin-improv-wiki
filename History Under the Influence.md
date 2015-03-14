@@ -32,6 +32,7 @@ In June of 2014, Kevin took an impromptu trip to Tampere, Finland, where he had 
 * [http://vimeo.com/93695385 Video] by [[Peter Rogers]] of the 5/1/14 show.
 * [http://vimeo.com/94626212 The 5/8/14 show.] 
 * [http://vimeo.com/95560857 The 5/15/14 show.]
+* [http://vimeo.com/111584860 Video] by [[Peter Rogers]] of the 11/6/14 show.
 
 ## More Information
 * The [http://www.youtube.com/user/DrunkHistory youtube series] and [http://www.cc.com/shows/drunk-history Comedy Central show] that inspired the format.
