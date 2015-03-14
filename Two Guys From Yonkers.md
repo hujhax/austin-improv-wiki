@@ -40,6 +40,7 @@ Here is [[Bob Olmstead]]'s explanation of the name's origin:<blockquote>Paul Nor
 * [http://vimeo.com/61076534 Video] by [[Paul Normandin]] of their 3/3/13 performance in *[[The Weekender]]*.
 * [http://vimeo.com/64470434 Video] by [[Paul Normandin]] of their 4/6/13 performance at [[The Institution Theater]].
 * [http://vimeo.com/71314848 Video] by [[Paul Normandin]] of their 7/28/13 performance at [[The Institution Theater]].
+* [https://vimeo.com/111587850 Video] by [[Paul Normandin]] of their 10/17/14 show at [[The Hideout Theatre]].
 
 ## More Information
 * [https://www.facebook.com/TwoGuysFromYonkers Two Guys From Yonkers Facebook Page]
