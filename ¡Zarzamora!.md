@@ -40,6 +40,7 @@ The following upcoming festival appearances are scheduled:
 * [http://vimeo.com/44295246 Video] by [[Brad Hawkins]] of their 6/14/12 show ("The Panini Press").
 * [http://vimeo.com/44444798 Video] by [[Brad Hawkins]] of their "E-ZPass" show (uploaded 6/21/12).
 ** [http://vimeo.com/44320993 Lower-res version of the video.]
+* [http://vimeo.com/116581981 Video] by [[Brad Hawkins]] of their show at Trill Fest in Houston, Texas (the festival ran from 5/22/14 to 5/24/14).
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1 Photoset] by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
