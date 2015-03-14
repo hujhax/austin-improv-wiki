@@ -1541,3 +1541,94 @@ This was the beloved, recurring Free Fringe format ([[List of Free Fringes#The T
 
 #### Media
 * [http://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+
+### October 23, 2014 (the 126th show): "DeaneFest"
+#### DeaneFest! ([[Mitchell Deane]])
+If you know Granville [[Mitchell Deane]] III, then "DeaneFest" should be all you need to know.
+
+The wildest Free Fringe shows have come from Mitchell. His brain simply doesn't work like the rest of ours. In the best way.
+
+Tonight you'll see three projects cooked up by his wiley brain, and we have no idea what they are. RUN! (to the show!) HIDE! (in the audience)
+
+starring: [[Kevin Miller]], [[Rachel Denton]], [[Joshua Bush]], [[Brandon Martin]], [[Jessica Arjet]]
+
+#### Arjet Universe
+"Animal Farm", featuring [[Jessica Arjet]] and [[Sarah Marie Curry]].
+
+### October 30, 2014 (the 127th show)
+#### The No Design ([[Valerie Ward]])
+A show inspired by the music of The Free Design... people hanging out in a cabin, swapping stories and singing songs in the style of Free Design.
+
+#### [[Tales from the Black Vault]] ([[Peter Rogers]])
+This Thursday at the Free Fringe, we're premiering Tales from the Black Vault, an audiodrama podcast of stories inspired by the work of H. P. Lovecraft. And on Halloween, we're launching a kickstarter for a full season of episodes!
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Kevin Miller]]
+
+### November 6, 2014 (the 128th show)
+#### PSA ([[Sushant Sethi]])
+Inspired by public service campaigns of your childhood like "Your Brain on Drugs", "Smokey the Bear", and others. Come watch us warn you about the dangers of the world inspired by an audience suggestion!
+
+#### Nonething and Everning ([[Megan Sherrod]])
+[[Wikipedia - Anton Chekhov|Anton Chekhov]] is arguably the most celebrated playwright since Shakespeare. Mostly known for his hundreds of short stories, this giant of Russian literature cemented his reputation with four major plays written in his final decade: *The Seagull*, *Uncle Vanya*, *Three Sisters,* and *The Cherry Orchard*. See the cast of the Hideout Theatre's *[[Nothing and Everything]]*: Improvised Chekhov Plays share the world of Chekhov through the lens of alcohol in this alternate rendition of the show: "Nonething and Everning".
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Chris Albano]]
+
+### November 13, 2014 (the 129th show)
+#### Six O'Clock Audition Group ([[Heidi Rogers]] and [[Paul Normandin]])
+This show is literally an amalgamation of people randomly put together in an audition slot for the last Hideout Mainstage. They loved auditioning together so much that now they want to keep the magic going. What will they do? Beats me! But their energy is infectious, and it's bound to be fun.
+
+#### Anything You Can Do I Can Do Better ([[Quinn Buckner]] and [[Mia Iseman]])
+Mia and Quinn have a well-known and bitter rivalry that they'll be playing out on stage.  The show will be challenges that they throw out at each other.
+
+The challenges are going to be real and not have any limitations, anything from push-ups to rubix cubes and puzzles and eating contests to drawing contest.
+
+Tests of physical, mental, personal, and emotional limits.
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Ryan Austin]]
+
+### November 20, 2014
+(Dark for [[WaffleFest 2014]].)
+
+### November 27, 2014
+(Dark for [[Wikipedia - Thanskgiving|Thanskgiving]].)
+
+### December 4, 2014 (the 130th show)
+#### Minnesota Nice ([[Chris Curl]])
+Chris Curl is pulling up stakes and moving to Minnesota. But before he does, it's time for one last Fringe show. From the man himself:
+
+"I prep everyone with basic info about minnesota, my job etc. then we do scenes mostly with me as me, interacting with everyones own interpretations of minnesotans."
+
+If there's one thing Texans know, it's what it's like to be in Minnesota. So this should be easy.
+
+#### Arkham Community Radio ([[Peter Rogers]])
+Night Vale isn't the only town with strange things going on. Black Vault</em> director Marc Majcher, Night Vale superfan Ripley Adams, and tech maven Lindsey McGowen introduce you to Arkham, the New England town whose unspeakable horrors were once made famous by H. P. Lovecraft. Arkham still exists today, and still teeters on the edge of sanity-cracking oblivion. Let's listen in on its friendly, informative community-radio show, shall we?
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Kristin Henn]]
+
+### December 11, 2014 (the 130th show)
+#### Sounds like a Troupe ([[Luke Wallens]])
+It's 'that sounds like a song' improv game meets living room style meets interactive audience meets meta-improv.
+
+Basically we will start with living room style with an audience suggestion and joke around until someone calls out someone else's phrase by saying, 'hey, that sounds like an improv troupe'. Then we act like those troupe members until the idea is exhausted. Rinse and repeat!
+
+#### Arjet Universe
+The BAT: improv in the dark.
+
+### December 18, 2014 (the 131st show)
+#### Coffee and Bacon (Michael Day Kauffman)
+This is a one-time Austin performance. A high energy, gamey and very physical 2 man show.  Robert and Michael met taking classes at IO and have performed together with their troupe Sophomore Album for 3 years. Robert currently performs on an IO Harold team, Apollo, and is also a graduate of the Second City Conservatory. And he's in town for the weekend! It's a re-match made in Heaven.
+
+#### Holiday Commercial Break ([[Courtney Hopkin]])
+Back by popular demand!
+
+There's nothing quite like holiday commercials. Gap, Old Navy, Wal-Mart, whatever. Sweater clad suburbanites with rustic decorations and fixed smiles. But what happens when the characters from these commercials are not in the commercials? What happens when they're just living their lives?
+
+#### Arjet Universe
+Naughty List - [[Sam Schak]], [[Ruby Willmann]], and [[Jessica Arjet]].
+
+### December 25, 2014
+(Dark for [[Wikipedia - Christmas|Christmas]].)
