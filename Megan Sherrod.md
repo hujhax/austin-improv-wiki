@@ -18,5 +18,8 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * *[[Maestro]]*
 * *[[Nothing and Everything]]*
 
+## More Information
+* [http://www.megansherrod.com Megan's web page], which includes more information about her performance activities.
+
 [[Category/Performers|Sherrod]]
 [[Category/Active|Category:Active]]
