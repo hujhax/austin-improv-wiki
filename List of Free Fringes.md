@@ -1,4 +1,4 @@
-This **list of *[[Free Fringe]]s*** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 10/16/14.
+This **list of *[[Free Fringe]]s*** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 3/5/15.
 
 ## 2012 Shows
 ### Jan 5, 2012
@@ -1632,3 +1632,134 @@ Naughty List - [[Sam Schak]], [[Ruby Willmann]], and [[Jessica Arjet]].
 
 ### December 25, 2014
 (Dark for [[Wikipedia - Christmas|Christmas]].)
+
+## 2015 Shows
+### January 1, 2014
+(Dark for New Year's.)
+
+### January 8, 2014 (the 132nd show)
+#### No Hablo ([[Cagney Ortiz]])
+[[David Ronn]] speaks a lot of Spanish and is good at it.
+Cagney speaks a fair amount of Spanish and is ok enough to partially survive in Mexico.
+Sunaina does not speak Spanish, but likes to pretend she does. 
+
+This trio thought it would be really fun to do a show where they are all only allowed to speak in their own levels of Spanish. 
+
+Were they right? Let's find out.
+
+#### The Art of the Woo ([[Luke Wallens]])
+[[Luke Wallens]] and [[Sandra Ybarra]] use the best of their physicality, playfulness and silence to woo the audience.
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Ceej Allen]].
+
+### January 15, 2014 (the 133rd show)
+#### Worst First Date ([[Lance Hunter]])
+A date that goes horribly, horribly wrong. Then wrong some more. Then wronger. It's just the wrongiest.
+
+#### Things We Don't Speak Of ([[Jeremy Moran]])
+The title of this piece is "Things We Don't Speak Of" because EVERYTHING is sung.
+
+Even asking the audience for suggestions is sung.
+
+All-sung dialogue.
+
+There will not be a musician but there will definitely be support off to the side providing a cappella backup.
+
+The effect will be like a crazed operetta where there are no rules.
+
+#### Arjet Universe
+"Better Than You" - [[Jessica Arjet]] and [[Courtney Hopkin]].
+
+### January 22, 2014 (the 134th show)
+#### Apples to Improv ([[Norman Tran]])
+There is a audience volunteer with a bell and handful of Apples to Apples(or similar) cards to the side of the stage.
+
+They draw the cards randomly from a stack.
+
+The improvisers perform and during the show the audience member can ring the bell and show them a card. At that point, they must incorporate that card into the current scene and continue.
+
+#### Drunk Lindsay Does Math ([[Chris Albano]])
+Lindsay Hejl gets drunk, and then she tries to solve math word problems from a fifth or sixth grade text book.
+
+While she struggles, the cast acts out scenes based on the word problem prompts.
+
+#### Arjet Universe
+[[Jessica Arjet]] and ???.
+
+### January 29, 2014 (the 135th show)
+#### Lynch Mob ([[Ceej Allen]])
+David Lynch (Ceej Allen) invites you to join him as three improvisers ([[Jericho Thorp]], [[Mason Pitluk]] and [[Jeremy Moran]]) rally with him in deconstructing the dark and wild heart of improv. Yes, there will be cherry pie!
+
+#### Ich Bin Ein Improviser ([[Ryan Hill]])
+The pitch from Ryan:
+<blockquote><p>"I, Ryan Hill, am traveling to Germany for work the first week in February. I would like to learn some useful German before I go. I will ask my improv friends who speak German to teach me. Yeah, this should go well.</p>
+
+<p>I will have each of them give me a quick mini-German lesson on stage and then the whole cast will improvise a scene in Germany where I will have to use my newfound knowledge."</p></blockquote>
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Michael Jastroch]].
+
+### February 5th, 2014 (the 136th show)
+#### Six Degrees of Habitation ([[Suzanne Link]])
+Short two-person scenes, each with the same Johnstonian welcome-to-my-home setup: a character brings a visitor to their home for the first time. Over and over, with different pairings of people.
+
+Marvel at the interconnectivity of the characters' universes. Or not. Written audience suggestions will be used to help fill out and decorate the characters' homes.
+
+#### Ex-Military Show ([[Mike Reed]])
+The concept is simple: a show put on by Austin improvisers who also happen to be ex-military.
+
+So it'll just be combat and physical training scenes? NO!
+
+We're going to break through the clichés and make the scenes about the relationships and personal struggles/triumphs of the characters themselves. Some scenes will be funny, some touching, some uncomfortable. Hopefully all worth watching.
+
+#### Arjet Universe
+[[Jessica Arjet]] presents "Pirate Tales!", featuring [[Andreas Fabis]], [[Dana Yanoshak]], [[Ceej Allen]], [[Katie Dahm]], and [[Cassidy Claire Risien]].
+
+### February 12th, 2014 (the 137th show)
+#### Hug Day ([[Tim Coyle]])
+Every year Paul Normandin, the nicest guy in the universe, organizes a Hug Day downtown. This show will be a tribute and a recreation of that. The idea couldn't be simpler, even if it is a little tricky to grasp. Here's Tim's pitch to Paul:<blockquote>"Say you and others who were giving out hugs play while people are walking on stage from time to time to get or decline hugs.  It could be neat to see the actual conversations that take place between hug times, as well as end with everyone in the audience."</blockquote>The Perfect Free Fringe show.
+
+#### PLANK-A-THON! ([[Joy Parks]])
+Want to support the Hideout's Special Needs program? Sweet! So do we! It's awesome! To learn more about the program, check out [http://www.hideouttheatre.com/improv-for-kids/special-needs-improv www.specialneedsimprov.com].
+
+YOU can help this program continue to grow by participating in the Plank-A-Thon! The concept: Each member of the cast will plank during the show, for as long as s/he can, and the planks will be individually timed. (One improviser, Joy, promises to go for 5 minutes!)How is this a fundraiser? We're hoping you will pledge per minute planked by the whole cast, or place a donation if Joy completes her 5 minute plank or, donate just because you wanna donate! Check out [http://goo.gl/forms/MZIvaATqd3 this google doc] for full show details and more donation info!
+
+#### Mainstage Co-Op ([[Lacy Shawn]])
+In an alternative universe, characters from various Hideout mainstages all live in the same home as roommates.
+
+What happens when a home is shared by a [[Reform School for Wayward Girls|reform school girl]], [[Kenjutsu|kenjutsu guy]], [[Nothing and Eveything|chekhovian person]], [[The Black Vault|black vault person]], etc.? Only *[[The Free Fringe]]* will tell!
+
+#### Arjet Universe
+[[Jessica Arjet]] presents Love Stories, featuring the cast of *[[I Love You So Much]]*.
+
+### February 19th, 2014 (the 138th show)
+#### Andrew and Jeremy Hypnotize Each Other! ([[Jeremy Moran]])
+[[Andrew Schwartz]] (Played by Andrew Schwartz) and Jeremy Moran (Played by Jeremy Moran) are two improvisors who are going fully under hypnosis during an improv set. They will take an audience volunteer to do the deed, most likely using a small hypnotic toy such as a spinning top. Once they are in a somnambulist state, the audience volunteer will then have complete control of the show. They will manipulate Andrew and Jeremy to bend to their will, making them do any scene or character they want to.
+
+#### And the Oscar Goes To... ([[Jessica von Schramm]])
+It's the 87th Academy Awards ceremony a few days earlier and a few hours shorter! Improvisers will act out Oscar clips based on made up films from audience suggestions. Dreams will come true while others are crushed. And it's all up to the audience to decide who wins the coveted Oscar.
+
+#### Something Insane By [[Ceej Allen|Ceej]]
+### February 26th, 2014 (the 139th show)
+#### Norman Gets Angry ([[Thedward Blevins]])
+A bunch of scenes where [[Norman Tran]] gets angry.
+
+#### JonJohn ([[Jon Bolden]])
+It's everyone's favorite adorable little guy's birthday! That's right, li'l Jonny Bolden is turning a big thirty two years old (awwww). To celebrate, he's playing with his buddy, [[John Ratliff]] ( another Jon, but with an 'H'). Together they're JonJohn (we're dying from cuteness over here!). Come wish the big boy a Happy Birthday!
+
+#### Arjet Universe
+[[Jessica Arjet]], with [[In Our Prime]] and [[Brently Heilbron]].
+
+### March 5th, 2014 (the 140th show): "MUSICAL FRINGE!!"
+#### Grounded in Harmony ([[Bobby Stover]])
+Have you ever thought how life would be so much more dramatic if you went through it with a theme song? Or at least a backing track? Come see how the power of music brings the improv world to life. You will laugh, cry, and feel some tension. But most importantly, you will LIVE!
+
+#### [[That Racket!]] ([[Mitch Mills]])
+That Racket! is an Austin-based troupe that combines the three great arts of improv, music, and dance into a playful and hilarious evening of entertainment. Every show, we present stories that have never been told, songs that have never been sung, and dances that have never been danced before. And though they'll never be told, sung, or danced again, they'll stick with you!
+
+#### MC Harold ([[Craig McGreggor]])
+A Magical souffle of improvised rap stuffed with delicious stories with just a dash of outlandish characters sauteed to perfection when the beat drops.
+
+#### Curry, Kirschner and Taylor
+[[Aden Kirschner]], [[Sarah Marie Curry]], and [[Ammon Taylor]] are all members of two time [[B. Iden Payne Awards|B.-Iden-Payne-Award]]-winning, musical-performance collective [[Girls Girls Girls]]. As faculty members of [[Merlin Works Institute for Improvisation]], [[The Institution Theater]], and [[The Hideout Theatre]], these three put on an unforgettably theatrical performance weaving together characters scenes and songs that are magical, catchy and adorable!
