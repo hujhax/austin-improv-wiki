@@ -2,7 +2,6 @@
 |Name	=		The Comedy Workshop
 |Picture =		Comedy Workshop Logo.jpg
 |Address	=	302 W. 15th St.
-|Homepage	=	(this preceded the Internet)
 |Years	=		1982?-1986
 }}
 
