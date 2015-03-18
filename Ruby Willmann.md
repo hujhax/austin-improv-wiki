@@ -41,6 +41,8 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 * *[[Wanderlust]]* *(director)*
 * *[[What the F@$]]* *(director)*
 
+## More Information
+* [http://yesandrew.com/sunday-interview-ruby-willmann/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Willmann]]
 [[Category/Teachers|Willmann]]
