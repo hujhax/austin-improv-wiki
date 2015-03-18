@@ -47,5 +47,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>I was in 
 * *[[Stool Pigeon]]*
 * *[[TGIS]]* ("Boy Greets World")
 
+## More Information
+* [http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back An episode] of *[[Got Your Back]]* that includes his lecture "You Suck Forever: Thoughts on Improv Nihilism".
+
 [[Category/Performers|Roberts]]
 [[Category/Directors|Roberts]]
