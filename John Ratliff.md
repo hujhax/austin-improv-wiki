@@ -27,6 +27,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Braised in Texas]]*
 * *[[Process]]*
 
+## More Information
+* [http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back An episode] of *[[Got Your Back]]* that includes his lecture "Who Arted?".
 
 [[Category/Performers|Ratliff]]
 [[Category/Teachers|Ratliff]]
