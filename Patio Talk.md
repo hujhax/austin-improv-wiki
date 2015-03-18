@@ -9,10 +9,11 @@
 
 ## Media
 ### Videos
-* [https://vimeo.com/117435963 Video] by [[Kyle Sweeney]] of their 1/16/15 show.
+* [http://vimeo.com/117435963 Video] by [[Kyle Sweeney]] of their 1/16/15 show.
 
 ## More Information
 * [http://www.facebook.com/patiotalk The troupe's Facebook page.]
+* [http://gybpodcast.libsyn.com/patio-talk-ep23-got-your-back Interview] on *[[Got Your Back]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Actilve|Category:Actilve]]
