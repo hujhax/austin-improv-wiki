@@ -41,6 +41,11 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[The Violet Underbelly]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 
+## More Information
+* [http://gybpodcast.libsyn.com/roy-janik-ep-24-got-your-back Interview] on *[[Got Your Back]]*.
+* [http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back An episode] of *[[Got Your Back]]* that includes his lecture "Finding, Feeding, and Chasing Inspiration".
+* [http://yesandrew.com/sunday-improv-interview-roy-janik-2/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Janik]]
 [[Category/Teachers|Janik]]
 [[Category/Directors|Janik]]
