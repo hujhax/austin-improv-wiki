@@ -6,11 +6,11 @@
 }}
 
 
-**Brandon Martin** was an improv performer.
+**Brandon Martin** is an improv performer.
 
 ## History
 In 2013, he moved away to Chicago.
-In 2014, he moved back
+In 2014, he moved back.
 
 ## Troupes
 * [[Kosher Bacon]]
