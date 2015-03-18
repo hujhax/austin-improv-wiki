@@ -45,7 +45,9 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 * [http://www.facebook.com/media/set/?set=a.912193992177451.1073742158.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/28/15 performance.
 
 ## More Information
-* [https://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
+* [http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
 * [http://www.facebook.com/groups/hideouttheatre/permalink/824995157523590/ The audition announcement.]
+* [http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing Interview] by [[Scott Hearne]] with [[Ruby Willman]], [[Aaron Saenz]] and [[Manuel Duran]] for *[[The Theft Forum]]*.
+* [http://yesandrew.com/wanderlust-and-the-audacity-of-vision/ Post about the show] by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
