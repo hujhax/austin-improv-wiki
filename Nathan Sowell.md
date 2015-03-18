@@ -24,5 +24,6 @@
 
 ## More Information
 * [http://yesandrew.com/2014/07/06/the-sunday-interview-nathan-sowell/ Interview] by [[Andrew Buck]].
+* [http://gybpodcast.libsyn.com/nathan-sowell-ep-36-got-your-back Interview] on *[[Got Your Back]]*.
 
 [[Category/Performers|Sowell]]
