@@ -22,10 +22,14 @@ Lacy currently teaches adult improv classes at [[Merlin Works]] and is the Speci
 Lacy directed the Fourth Run of *[[TheatreSports (mainstage run)|TheatreSports]]* at [[The Hideout Theatre]] with [[Ryan Austin]], and regularly directs Maestro and [[The Fancy-Pants Mashup]].
 
 
-## Current Troupes
+## Troupes
+### Current
 * [[RhinoDino]]
-*[[The Known Wizards]]
-*[[The Delightfuls]]
+* [[The Known Wizards]]
+* [[The Delightfuls]]
+## Previous
+* [[Stone Airplane]] (Disbanded)
+* [[Wait OK Now]] (Disbanded)
 
 ## Shows
 * *[[The Cagematch]]*
@@ -48,10 +52,8 @@ Lacy directed the Fourth Run of *[[TheatreSports (mainstage run)|TheatreSports]]
 * "Improvaganza" (in Hawaii)
 * Unscripted New York
 
-## Previous Troupes
-* [[Stone Airplane]] (Disbanded)
-*[[Wait OK Now]] (Disbanded)
-
+## More Information
+* [http://yesandrew.com/the-sunday-interview-lacy-shawn/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Shawn]]
 [[Category/Directors|Shawn]]
