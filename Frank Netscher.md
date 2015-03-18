@@ -29,6 +29,7 @@ From [http://www.coldtownetheater.com/performer/frank-netscher his bio page on t
 
 ## More Information
 * [http://www.coldtownetheater.com/performer/frank-netscher Frank's bio page on the ColdTowne Theater site.]
+* [http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short An interview] from *[[Got Your Back]]* on the topic of "Audition Advice for Improvisors".
 
 [[Category/Performers|Netscher]]
 [[Category/Active|Netscher]]
