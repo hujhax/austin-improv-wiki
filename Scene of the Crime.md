@@ -4,8 +4,8 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Troy Miller]]
 |Run                = May/Jun 2015
-|Cast               = TBA
-|Tech               = TBA
+|Cast               = {{Unbulleted list | [[Ace Manning]] | [[Andrew Buck]] | [[Audrey Rachel Sansom]] | [[Cynthia Cobb Oelkers]] | [[David Schwartz]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Kenny Madison]] | [[Mia Iseman]] | [[Nicole Oliver]] | [[Ruby Willmann]] | [[Sean Hill]] | [[Troy A. Miller]] }}
+|Tech               = [[Neal Tibrewala]]
 }}
 
 ***Scene of the Crime*** will be the May/June 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
