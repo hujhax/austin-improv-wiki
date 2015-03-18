@@ -33,4 +33,7 @@ I met them after the show. [[Tyler Bryce]], now of Obviously Unrehearsed at OU a
 * *[[Thinning the Herd]]*
 * [[The 40-Hour Improv Marathon]]
 
+## More Information
+* [http://gybpodcast.libsyn.com/jeremy-sweetlamb-ep17-got-your-back Interview] on *[[Got Your Back]]*.
+
 [[Category/Performers|Sweetlamb]]
