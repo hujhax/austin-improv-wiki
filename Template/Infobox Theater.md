@@ -44,10 +44,12 @@ This template lists standard, useful information about an improv theater.
 			<th scope="row" class="category-header">Address</th>
 			<td class="category">{{{Address|Theater Address}}}</td>
 		</tr>
+{{#if: {{{Homepage|}}} |
 		<tr class="">
 			<th scope="row" class="category-header">Homepage</th>
-			<td class="category">{{{Homepage|Theater Homepage URL}}}</td>
+			<td class="category">{{{Homepage}}}</td>
 		</tr>
+|}}
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category">{{{Years|Years of Operation}}}</td>
