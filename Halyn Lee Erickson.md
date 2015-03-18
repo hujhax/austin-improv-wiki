@@ -38,5 +38,8 @@ A post from her about the first improv show she ever saw:<blockquote><p>My dad t
 * *[[Theatresports]]*
 * *[[The Tribunal]]*
 
+## More Information
+* [http://yesandrew.com/halyn-erickson/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Erickson]]
 [[Category/Active|Category:Active]]
