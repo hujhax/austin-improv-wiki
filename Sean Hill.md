@@ -22,6 +22,9 @@ A post from him about the first improv show he ever saw:<blockquote>First improv
 * *[[TheatreSports (mainstage run)|Theatresports]]*
 * *[[Twilight Zoned]]* (director)
 
+## More Information
+* [http://yesandrew.com/the-sunday-interview-sean-hill/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Hill]]
 [[Category/Teachers|Hill]]
 [[Category/Directors|Hill]]
