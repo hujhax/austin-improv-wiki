@@ -33,7 +33,7 @@ After its mainstage run, there were a number of one-off shows:
 * 3/27/14: a double-bill with [[Strange Worlds]] as a fundraiser for both show's trip to the Alaska State Improv Festival.
 
 ### *Tales from the Black Vault*
-In 2014, the cast began production on *[http://blackvault.austinimprov.com Tales from the Black Vault]*, a podcast version of the show.  Plans were made for an eight-episode audiodrama anthology of improvised stories in the style of H. P. Lovecraft.  They recorded [http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival a demo episode] at the director's home, and then launched [http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama a kickstarter campaign] to raise funding to produce a whole season.  The kickstarter raised enough money to produce *two* seasons, with the first season premiering in mid-March.
+In 2014, the cast began production on *[http://blackvault.austinimprov.com Tales from the Black Vault]*, a podcast version of the show.  Plans were made for an eight-episode audiodrama anthology of improvised stories in the style of H. P. Lovecraft.  They recorded [http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival a demo episode] at the director's home, and then launched [http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama a kickstarter campaign] to raise funding to produce a whole season.  The kickstarter raised enough money to produce *two* seasons, with the first season premiering in mid-March of 2015.
 
 ## Media
 ### Videos
