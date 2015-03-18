@@ -27,4 +27,7 @@ Katie got her first taste of improv in high school when a lovely Austin improvis
 * *[[Live Nude Improv]]*
 * *[[Showdown]]* (tech)
 
+## More Information
+* [http://yesandrew.com/the-sunday-interview-katie-dahm/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Dahm]]
