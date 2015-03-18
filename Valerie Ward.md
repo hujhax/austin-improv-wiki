@@ -48,8 +48,9 @@ Past:
 * [[Dudith]]
 
 ## More Information
-In addition to her improv activities, Valerie is co-owner of Sweet Ritual Vegan Ice Cream Parlor.
 * [http://yesandrew.com/2014/06/29/the-sunday-interview-valerie-ward/ Interview] by [[Andrew Buck]].
+* [http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short An interview] from *[[Got Your Back]]* on the topic of "Audition Advice for Improvisors".
+* In addition to her improv activities, Valerie is co-owner of [http://www.sweetritual.com/ Sweet Ritual Vegan Ice Cream Parlor].
 
 [[Category/Performers|Ward]]
 [[Category/Teachers|Ward]]
