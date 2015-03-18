@@ -34,6 +34,8 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2441797 Interview] with Kareem on *[[The Theft Forum]]*.
+* [http://gybpodcast.libsyn.com/kareem-badr-ep-29-got-your-back Interview] on *[[Got Your Back]]*.
+* [http://yesandrew.com/the-sunday-interview-kareem-badr/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Badr]]
 [[Category/Teachers|Badr]]
