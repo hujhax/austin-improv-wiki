@@ -22,4 +22,7 @@ In 2014, he moved back.
 * *[[Love Fest]]* (2013 run)
 * *[[Not This American Life]]*
 
+## More Information
+* [http://yesandrew.com/the-sunday-interview-brandon-martin/ Interview] by [[Andrew Buck]].
+
 [[Category/Performers|Martin]]
