@@ -37,5 +37,6 @@ I could tell she was nervous, but I loved that she played the scene anyway.</p>
 
 ## More Information
 * [http://archive.org/details/ScottHearneTheTheftForum-CeejAllen-Ep2/ Interview] with Ceej on *[[The Theft Forum]]*.
+* [http://yesandrew.com/the-sunday-interview-ceej-allen/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Allen]]
