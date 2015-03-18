@@ -29,6 +29,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 
 ## More Information
 * [http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back An episode] of *[[Got Your Back]]* that includes his lecture "Who Arted?".
+* [http://gybpodcast.libsyn.com/john-ratliff-ep-28-got-your-back Interview] on *[[Got Your Back]]*.
 
 [[Category/Performers|Ratliff]]
 [[Category/Teachers|Ratliff]]
