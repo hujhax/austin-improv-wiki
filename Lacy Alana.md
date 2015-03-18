@@ -43,8 +43,8 @@ Lacy directed the Fourth Run of *[[TheatreSports (mainstage run)|TheatreSports]]
 * *[[Strange Worlds]]*
 * *[[The Sword of Merlin Works]]*
 * *[[Theatresports]]*
-* "[[Kenjutsu]]"
-* The International Show
+* *[[Kenjutsu]]*
+* *[[The International Improv Experience]]*
 
 ## Festivals
 * "[[The Out of Bounds Comedy Festival]]"
