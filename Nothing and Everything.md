@@ -57,6 +57,8 @@ The show featured an unadvertised preview performance two days before its premie
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
 * [http://www.hideouttheatre.com/shows/NothingAndEverything The show's web page.]
+* Thoughts on the show from [[Andrew Buck]]: [http://yesandrew.com/threethoughtsonchekhov/ 1], [http://yesandrew.com/3-things-about-improvising-chekhov/ 2], [http://yesandrew.com/the-yall-boner/ 3].
+* [http://yesandrew.com/the-sunday-interview-anton-chekhov/ A faux interview] with Chekhov by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
