@@ -93,5 +93,8 @@ I never thought, "I can do this." I figured they were just really funny and tale
 ## Media
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design.html#grid A photo album of Kaci Beeler's set designs.]
 
+## More Information
+* Interviews by [[Andrew Buck]]: [http://yesandrew.com/the-sunday-interview-kaci-beeler/ 1], [http://yesandrew.com/sunday-interview-kaci-beeler/ 2].
+
 [[Category/Performers|Beeler]]
 [[Category/Directors|Beeler]]
