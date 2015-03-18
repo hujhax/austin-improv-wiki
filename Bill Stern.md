@@ -24,4 +24,7 @@ I became a member of Well Hung Jury by April of that year.</p>  </blockquote>
 * [[Available Cupholders]]
 * [[Well Hung Jury]]
 
+## More Information
+* [http://gybpodcast.libsyn.com/bill-stern-ep-37-got-your-back Interview] on *[[Got Your Back]]*.
+
 [[Category/Performers|Stern]]
