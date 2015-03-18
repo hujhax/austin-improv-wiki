@@ -34,13 +34,16 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * *[[Kenjutsu]]*
 
 ## Festivals
-*2010 - The Out Of Bounds Comedy Festival - Anticdotes, Guilds of Steel
-*2011 - The Out Of Bounds Comedy Festival - Bolik Not ZIB,Dukes of Bedside Manor, Quayle
-*2012 - The Out Of Bounds Comedy Festival - Dukes of Bedside Manor, The Professor
-*2012 - Improvaganza (Hawaii) - The Professor
-*2013 - The Out Of Bounds Comedy Festival - Ghetto Sketch Warlock, Known Wizards, The Professor, Rhinodino
-*2014 - Vancouver Theatre Sports League Valentine's Day Massacre - Theatresports 
-*2014 - Improvised Play Festival - Big Bash, Kenjutsu
-*2014 - The Out Of Bounds Comedy Festival - Tastemakers
+*2010 - The Out Of Bounds Comedy Festival - [[Anticdotes]], *[[Guilds of Steel]]*
+*2011 - The Out Of Bounds Comedy Festival - [[Bolik Not ZIB]], [[Dukes of Bedside Manor]], [[Quayle]]
+*2012 - The Out Of Bounds Comedy Festival - [[Dukes of Bedside Manor]], [[The Professor]]
+*2012 - Improvaganza (Hawaii) - [[The Professor]]
+*2013 - The Out Of Bounds Comedy Festival - [[Ghetto Sketch Warlock]], [[Known Wizards]], [[The Professor]], [[RhinoDino]]
+*2014 - Vancouver Theatre Sports League Valentine's Day Massacre - *[[Theatresports]]* 
+*2014 - Improvised Play Festival - *[[The Big Bash]]*, *[[Kenjutsu]]*
+*2014 - The Out Of Bounds Comedy Festival - [[Tastemakers]]
+
+## More Information
+* [http://yesandrew.com/the-sunday-interview-quinn-buckner-2/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Buckner]]
