@@ -27,7 +27,7 @@ Lacy directed the Fourth Run of *[[TheatreSports (mainstage run)|TheatreSports]]
 * [[RhinoDino]]
 * [[The Known Wizards]]
 * [[The Delightfuls]]
-## Previous
+### Previous
 * [[Stone Airplane]] (Disbanded)
 * [[Wait OK Now]] (Disbanded)
 
