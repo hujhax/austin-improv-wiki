@@ -25,3 +25,4 @@ As a teenager in San Antonio, Zarate was coached in improv by [[David Lampe]].
 
 ## More Information
 * [http://archive.org/details/ScottHearneTheTheftForum-ChuyZarate-Episode4 Interview] with Chuy on *[[The Theft Forum]]*.
+* [http://yesandrew.com/the-sunday-interview-chuy-zarate/ Interview] by [[Andrew Buck]].
