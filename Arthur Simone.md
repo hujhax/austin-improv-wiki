@@ -34,6 +34,7 @@ From [http://www.coldtownetheater.com/performer/arthur-simone his bio page on th
 ## More Information
 * [http://www.coldtownetheater.com/performer/arthur-simone Arthur's bio page on the ColdTowne Theater site.]
 * [http://gybpodcast.libsyn.com/aurthur-simone-ep-5-got-your Interview] on the *[[Got Your Back]]* podcast.
+* [http://yesandrew.com/the-sunday-interview-arthur-simone/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Simone]]
 [[Category/Teachers|Simone]]
