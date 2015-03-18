@@ -36,6 +36,7 @@ She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour 
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2628012 Interview] with Jessica on *[[The Theft Forum]]*.
+* [http://yesandrew.com/sunday-interview-jessica-arjet/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Arjet]]
 [[Category/Teachers|Arjet]]
