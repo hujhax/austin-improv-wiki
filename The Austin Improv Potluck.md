@@ -39,3 +39,6 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 * [http://www.facebook.com/media/set/?set=a.223961494339204.53042.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 2011 potluck.
 * [http://www.steve-rogers-photography.com/Events/AIC2011/20191237_kpnsVB#!i=2223901020&k=HBbLV3r The 2011 and 2012 group photos], as shot by [[Steve Rogers]].
 * [http://www.facebook.com/media/set/?set=a.637078753022311.1073741947.221927764537414&type=3 Photoset] by [[Steve Rogers]] from the photobooth at the 2013 potluck.
+
+## More Information
+* Interviews conducted by *[[Got Your Back]]* at the 2014 potluck: [http://gybpodcast.libsyn.com/ep-25-the-aic-potluck-sessions-part-1of-3 1], [http://gybpodcast.libsyn.com/ep-26-the-aic-potluck-sessions-part-2-of-3 2], [http://gybpodcast.libsyn.com/the-aic-potluck-sessions-part-2-of-3 3].
