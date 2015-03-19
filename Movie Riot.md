@@ -10,9 +10,9 @@
 **Movie Riot** (formerly **Movie Versus Movie**) is a double feature of "live improvised films" at [[ColdTowne Theater]].
 
 ## Summary
-The show is put on by the core cast (called "The Academy"), along with a different "challenger group" every week.  At the end of each performance, the audience votes on their favorite movie.
+MOVIE RIOT is one of Austin's premiere improv performance teams- and the best group specializing in "The Movie Format". The supergroup consists of All-Star Austin improvisers- Mac Blake, Lance Gilstrap, Kirk Johnson, Joshua Krilov, Carlos LaRotta, and Kyle Sweeney. 
 
-It runs Fridays at 7pm.  They offer free movie candies.
+You can see this band of brothers every week in their acclaimed improv showcase Friday Nights at 7pm at the Coldtowne Theater. They also offer free margaritas, popcorn, and movie candies.
 
 ## Media
 ### Videos
