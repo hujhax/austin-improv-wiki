@@ -1,3 +1,9 @@
+{{Infobox Performer
+|Name	=	Kyle Sweeney	
+|Picture =	http://www.coldtownetheater.com/wp-content/uploads/2014/03/JKSweeney-Headshot-600x900.jpg
+|Theater=	[[ColdTowne Theater]]
+|Years	=	2008-Present
+}}
 
 ## Summary
 From [http://www.coldtownetheater.com/performer/kyle-sweeney his ColdTowne bio]:<blockquote>
