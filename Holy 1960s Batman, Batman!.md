@@ -37,7 +37,7 @@ The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]]. 
 
 After its mainstage performances, it had its run extended for two weeks, played two special Halloween shows, and headlined the Black Box Comedy Festival in Atlanta, all in 2011.
 
-On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective roles as Chief O'Hara and Commissioner Gordon for a *[[Free Fringe]]* format called "Waiting for Batman".  In it, the two characters spent twenty minutes chatting and waiting for Batman to show up at the commissioner's office.
+On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective roles as Chief O'Hara and Commissioner Gordon for a *[[Free Fringe]]* format called "[[Waiting for Batman]]".  In it, the two characters spent twenty minutes chatting and waiting for Batman to show up at the commissioner's office.
 
 ## Media
 ### Videos
