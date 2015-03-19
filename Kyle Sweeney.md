@@ -8,6 +8,6 @@ Kyle performs regularly with the hit movie format in MOVIE RIOT (Fridays at 7pm)
 
 Outside of performing, Kyle manages to stay pretty busy working in post-production for a local commercial agency. And creating comedy shorts, commercials, and jokes in what little freetime he cultivates.
 
-[[File=http - --www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg]]
+![[Http - --www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg|Kyle doesn't know how to code.]]
 
 [*I apologize for writing this bio description in the third person.]
