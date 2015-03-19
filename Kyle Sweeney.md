@@ -9,10 +9,14 @@ Outside of performing, Kyle manages to stay pretty busy working in post-producti
 
 ## Troupes
 * [[Movie Riot]]
+* [[The P! Company]]
 * [[The Team]] 
 * [[Murphy]]
-* [[The P! Company]]
-
+* [[Movie Meat]]
+* [[Red Giant]]
+* [[ThinkTank]]
+* [[LadyForms]]
+* [[Master Sweeney's Improv 101]]
 
 ## Shows
 * [[Sci-Fi Saturdays]]
