@@ -24,6 +24,7 @@ Outside of performing, Kyle manages to stay pretty busy working in post-producti
 * [[The Morning Sausage]]
 * [[Indy Movies]]
 * [[Oscar Bait]]
+* [[The Gordons]]
 * [[Thursday Night Social Club]]
 * [[The Night Show with Joshua Krilov]]
 * [[Midnight Society Presents]]
