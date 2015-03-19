@@ -5,6 +5,8 @@
 |Years	=	2008-Present
 }}
 
+A physical improviser/sketch comedian with a penchant for the absurb*
+
 ## Summary
 From [http://www.coldtownetheater.com/performer/kyle-sweeney his ColdTowne bio]:<blockquote>
 An avid improvisor, Kyle graduated from ColdTowne Conservatory in 2008 and since then has studied under a variety of the biggest names in improv (UCB, IO, Torch). Kyle performs regularly with the hit movie format in [[Movie Riot]] (Fridays at 7pm).</blockquote>
