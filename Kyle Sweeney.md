@@ -21,14 +21,9 @@ Outside of performing, Kyle manages to stay pretty busy working in post-producti
 ## Shows
 * [[Sci-Fi Saturdays]]
 * [[Star Force]]
+* [[The Morning Sausage]]
 * [[Indy Movies]]
 * [[Oscar Bait]]
 * [[Thursday Night Social Club]]
 * [[The Night Show with Joshua Krilov]]
 * [[Midnight Society Presents]]
-
-
-
-![[Http - --www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg|Kyle doesn't know how to code.]]
-
-[*I apologize for writing this bio description in the third person.]
