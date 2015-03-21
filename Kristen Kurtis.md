@@ -6,8 +6,7 @@
 }}
 [[Category/Performers|Kurtis]]
 
-**Kristen Kurtis** is an improviser, actor, stand-up, and sketch writer/performer.
-
+**Kristen Kurtis** is an improviser, actor, stand-up, and sketch writer/performer. She has performed as Any Winehouse in both *Rock N Roll Purgatory* and *Late Night Time Machine*.
 
 ## Troupes
 * [[Bad Font]]
@@ -15,3 +14,4 @@
 
 ## Shows
 * *[[Rock N Roll Purgatory]]*
+* *[[Late Night Time Machine]]*
