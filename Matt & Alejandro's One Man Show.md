@@ -5,7 +5,7 @@
 |Years	=		2014-Present
 }}
 
-**Matt & Alejandro's One Man Show** was an improv duo.
+**Matt & Alejandro's One Man Show** is an improv duo.
 
 ## Summary
 ### Press Blurb
