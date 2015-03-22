@@ -7,10 +7,11 @@
 
 **Cascade** is an improv duo.
 
-In January 2015 they began hosting *[[ImprompTwo]]* at [[The Institution Theater]] with a different guest troupe every week. 
-
 ## Summary
 Starting in the middle of what looks like a modern three act play (example: God of Carnage, Proof, Take Me Out, Closer) Cascade improvises through the darkest and lightest moments of a slice of human experience until the lights go out.
+
+## History
+In January 2015 they began hosting *[[ImprompTwo]]* at [[The Institution Theater]] with a different guest troupe every week. 
 
 ## Media
 ### Videos
