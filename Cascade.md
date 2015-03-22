@@ -5,9 +5,21 @@
 |Years	=		2014-Present
 }}
 
-**Cascade** is an improv duo composed of [[Cat Drago]] and [[Sarah Marie Curry]].
+**Cascade** is an improv duo.
 
-In January 2015 they are hosting [[ImprompTwo]] at [[The Institution Theater]] with a different guest troupe every week. 
+In January 2015 they began hosting *[[ImprompTwo]]* at [[The Institution Theater]] with a different guest troupe every week. 
 
 ## Summary
 Starting in the middle of what looks like a modern three act play (example: God of Carnage, Proof, Take Me Out, Closer) Cascade improvises through the darkest and lightest moments of a slice of human experience until the lights go out.
+
+## Media
+### Videos
+* [http://www.youtube.com/watch?v=tgVa6Hj5Rzo Video #1]
+* [http://www.cascadeimprov.com/watch-the-flood.html Video #2]
+
+## More Information
+* [http://www.cascadeimprov.com The troupe's web site.]
+
+[[Category/Troupes|Category:Troupes]]
+[[Category/Active|Category:Active]]
+[[Category/Duos|Category:Duos]]
