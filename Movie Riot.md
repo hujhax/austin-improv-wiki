@@ -30,9 +30,6 @@ You can see this band of brothers every week in their acclaimed improv showcase 
 * [http://vimeo.com/67930299 Promo #6.]
 * [http://vimeo.com/67994283 Promo #7.]
 
-### Other
-* An [http://vimeo.com/68171827 "awards ending"] (uploaded 6/11/13).
-
 ## More Information
 * [http://www.coldtownetheater.com/blog/movie-movie-returns The show's web page.]
 
