@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Snap Snap Nation
 |Picture	=	Snap Snap Nation.jpg
-|Cast	=	{{ Unbulleted list | [[Adam Benden]] | [[Susannah Raulino]] | [[Vanessa Shields]] }}
+|Cast	=	{{ Unbulleted list | [[Adam Benden]] (guitarist) | [[Susannah Raulino]] | [[Vanessa Shields]] }}
 |Years	=		2014
 }}
 
