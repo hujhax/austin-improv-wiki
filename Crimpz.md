@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Crimpz
-|Picture	=	Crimpz.jpg
+|Picture	=	Crimpz.png
 |Cast	=	{{ Unbulleted list | [[Lindsay Hejl]] | [[Melissa Patterson]] }}
 |Years	=		2014-2015
 }}
