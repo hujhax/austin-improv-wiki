@@ -16,8 +16,13 @@
 * New AP - [[Kevin Machate]]
 
 ## Crew
-* Producers - Mark Vittek, Jesse Scoble, [[Heath Allyn]]
+* Producers/Creators - Mark Vittek, Jesse Scoble, [[Heath Allyn]]
 * Camera operator - Mark Vittek
+* Music - Bobby Menkedick
+* Audio - Peter Hietman
+* Title Sequence - Jeff Toney
+* Crew - Tim Sanderson
+* Props - Sean Stephens
 
 ## Media
 ### Videos
