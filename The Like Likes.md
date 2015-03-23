@@ -17,6 +17,14 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 Song lyrics kicks off fan interplay of words and movements (for example, "take this job and shove it" was played as "take my love and shove it"' "take this Doug, and shovel it" "take this website and dot gov it" and more. Fast paced tag out games and cross-fade editing keep the energy high.</blockquote>
 
+## Media
+### Videos
+* [http://youtu.be/Lwb13vV8fpEVideo] of an October 2014 show.
+* [http://youtu.be/qb2iBVZGmPg Video] of a December 2014 show.
+* [http://youtu.be/_HKAQBC4tIw Video] of a January 2015 show.
+
+## More Information
+* [http://www.facebook.com/TheLikeLikesImprov The troupe's facebook page.]
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Active|Category:Active]]
