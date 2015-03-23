@@ -3,7 +3,7 @@
 |Picture =	Movie Riot.jpg
 |Theater = [[ColdTowne Theater]]
 |Director =	Various
-|Cast =	{{Unbulleted list | [[MackBlake]] [[Carlos LaRotta]] | [[Joshua Krilov]] | [[Kirk Johnson]] | [[Kyle Sweeney]] | [[Lance Gilstrap]] }}
+|Cast =	{{Unbulleted list | [[Mac Blake]] [[Carlos LaRotta]] | [[Joshua Krilov]] | [[Kirk Johnson]] | [[Kyle Sweeney]] | [[Lance Gilstrap]] }}
 |Run	=	2013-Present
 }}
 
