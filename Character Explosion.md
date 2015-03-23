@@ -20,7 +20,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 * [https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw Youtube Channel]
 
 ## More Information
-* [http://www.facebook.com/CharacterExplosion The troupe's web page.]
+* [http://www.facebook.com/CharacterExplosion Character Explosion FaceBook.]
 
 
 [[Category/Troupes|Category:Troupes]]
