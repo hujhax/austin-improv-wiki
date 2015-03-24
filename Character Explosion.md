@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Character Explosion
 |Picture	=	Character Explosion.jpg
-|Cast	=	{{ Unbulleted list | [[Cagney Ortiz]] | [[Joy Parks]] | [[Kathleen McFerren]] | [[Lahari]] | [[Lahari Samineni]] | [[Robert Slack]] | [[Sushant Sethi]] | [[Sushi]] | [[Tim Coyle]] }}
+|Cast	=	{{ Unbulleted list | [[Cagney Ortiz]] | [[Joy Parks]] | [[Kathleen McFerren]] | [[Lahari Samineni]] | [[Robert Slack]] | [[Sushant Sethi]] | [[Tim Coyle]] }}
 |Years	=		2015-Present
 }}
 
