@@ -22,7 +22,7 @@ In 1996, Monks' Night Out was voted "Austin's Best Theater Company" in the *Aust
 
 The troupe was at one point scrutinized by the producers of the American adaptation of *[[Wikipedia - Whose Line Is It, Anyway|Whose Line Is It, Anyway?]]*.
 
-They performed at the Just for Laughs Comedy Fest in Montreal and at the HBO workspace in L. A., and were important figures in the [[Big Stinkin' Improv Festival]].
+They performed at the [[Wikipedia - Just for Laughs|Just for Laughs Comedy Fest in Montreal]] and at the HBO workspace in L. A., and were important figures in the [[Big Stinkin' Improv Festival]].
 
 The troupe had several musical directors: first [[Ben Prince]], then [[Tim Girardot]], and then [[Paul Finley]].
 
