@@ -8,12 +8,12 @@
 **Brently Heilbron** is an improv performer, director, teacher, and musician.
 
 ## History
-He has been performing improv and stand-up since the age of 15. At 17, he joined the original Austin improv troupes [[Monks Night Out]] and [[Only 90% Effective]]. At 20, he won the very first *[[Maestro]]* in Austin. Since then, he has toured as a stand-up, emceed for Paul McCartney, Dr. John, and the Mighty Boosh and has worked with notables like Woody Allen, George Takei, Daniel Johnston, and Dolemite in his long, strange trip of a career.  He returned to Austin in 2010 and began teaching "Stand-Up for Improvisers" at [[The Institution Theater]].  He has written all three sold-out *[[Fuck It's Hot]]* shows.  The upcoming run of *[[Fuck It's Hot]]* ("Sex & Queso") will be the first show he's written and directed for the Institution.
+He has been performing improv and stand-up since the age of 15. At 17, he joined the original Austin improv troupes [[Monks' Night Out]] and [[Only 90% Effective]]. At 20, he won the very first *[[Maestro]]* in Austin. Since then, he has toured as a stand-up, emceed for Paul McCartney, Dr. John, and the Mighty Boosh and has worked with notables like Woody Allen, George Takei, Daniel Johnston, and Dolemite in his long, strange trip of a career.  He returned to Austin in 2010 and began teaching "Stand-Up for Improvisers" at [[The Institution Theater]].  He has written all three sold-out *[[Fuck It's Hot]]* shows.  The "Sex & Queso" run of *[[Fuck It's Hot]]* was  the first show he wrote and directed for the Institution.
 
 He guested with [[Girls Girls Girls]] during their *[[Boys of Summer]]* run in 2013.
 
 ## Troupes
-* [[Monks Night Out]]
+* [[Monks' Night Out]]
 * [[Only 90% Effective]]
 * [[P.A.L.S]]
 * [[Your Dad's Friends]]
