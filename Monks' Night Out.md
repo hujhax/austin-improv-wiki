@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Monks' Night Out
 |Picture	=	Monks' Night Out.jpg
-|Cast	=	{{Unbulleted list | [[Andy Cobb]] | [[Becca Sadler]] | [[Ben Prince]] | [[Brently Heilbron]] | [[Christie Ingram]] | [[David Lampe]] | [[Eric Perry]] | [[G Cole Spainhour]] | [[Gabriel Folse]] | [[Greg Dorchak]] | [[Holly Simpson]] | [[Jon Wiley]] | [[Joseph Anthony Fotinos]] | [[Katey Mushlin]] | [[Laura Estep]] | [[Marc Pruter]] | [[Matt Bearden]] | [[Mervyn Burnett]] | [[Michael Joplin]] | [[Pamela Ribon]] | [[Paul Finley]] | [[Regina Reale]] | [[Scott Perry]] | [[Tim Bauer]] | [[Tim Girardot]] [[Tyler Bryce]]}}
+|Cast	=	{{Unbulleted list | [[Andy Cobb]] | [[Becca Sadler]] | [[Ben Prince]] | [[Brently Heilbron]] | [[Christie Ingram]] | [[David Lampe]] | [[Eric Perry]] | [[G Cole Spainhour]] | [[Gabriel Folse]] | [[Greg Dorchak]] | [[Holly Simpson]] | [[Jon Wiley]] | [[Joseph Anthony Fotinos]] | [[Katey Mushlin]] | [[Laura Estep]] | [[Marc Pruter]] | [[Matt Bearden]] | [[Mervyn Burnett]] | [[Michael Joplin]] | [[Pamela Ribon]] | [[Paul Finley]] | [[Regina Reale]] | [[Scott Perry]] | [[Tim Bauer]] | [[Tim Girardot]] | [[Tyler Bryce]]}}
 |Director =	[[Marc Pruter]]
 |Years	=		1994-2001
 }}
