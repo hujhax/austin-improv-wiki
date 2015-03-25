@@ -20,6 +20,7 @@ In January 2015 they began hosting *[[ImprompTwo]]* at [[The Institution Theater
 
 ## More Information
 * [http://www.cascadeimprov.com The troupe's web site.]
+* [http://www.facebook.com/cascadeimprov The troupe's facebook page.]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
