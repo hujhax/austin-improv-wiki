@@ -1,3 +1,10 @@
+{{Infobox Performer
+|Name	=	Donna Rice
+|Picture =	Donna RicePic.jpg
+|Theater=	[[The Institution Theater]]
+|Years	=	2013-Present
+}}
+
 **Donna Rice** is an actor, improviser, writer and director.
 
 ## History
@@ -6,3 +13,5 @@ Donna moved to Austin, Texas in October of 2013. Six days later, she happened to
 ## Shows
 * *[[Rock 'N Roll Purgatory]]*
 * *[[The Last Freakshow]]*
+
+[[Category/Performers|Rice]]
