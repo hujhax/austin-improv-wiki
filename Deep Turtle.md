@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Deep Turtle
 |Picture	=	Deep Turtle.jpg
-|Cast	=	{{ Unbulleted list | [[Alex Addision]] | [[Alex Addison]] | [[Cagney Ortiz]] | [[Kathleen McFerren]] | [[Ripley Adams]] | [[Ryan Broussard]] }}
+|Cast	=	{{ Unbulleted list | [[Alex Addison]] | [[Cagney Ortiz]] | [[Kathleen McFerren]] | [[Ripley Adams]] | [[Ryan Broussard]] }}
 |Years	=		2015-Present
 }}
 
