@@ -19,6 +19,7 @@ We did this for our first show, and it was awesome, but later we took out the me
 
 ## Media
 ### Videos
+* [http://youtu.be/na9XqTDPMZw&feature=youtu.be Video of their intro dance] at [[The 2009 Ladies Are Funny Festival]].
 * [http://vimeo.com/channels/austinimprov/41966976 Video] of their 5/10/12 performance at [[The 2012 Ladies Are Funny Festival]].
 
 ### Photos
