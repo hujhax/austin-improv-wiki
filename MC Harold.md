@@ -11,7 +11,7 @@
 ### Press Blurb
 Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>MC Harold
 
-A Magical souffle of improvised rap stuffed with delicious stories with just a dash of outlandish characters sauteed to perfection when the beet drops. </blockquote>
+A Magical souffle of improvised rap stuffed with delicious stories with just a dash of outlandish characters sauteed to perfection when the beat drops. </blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>In short, we do the harold and replace group games with live improvised beats and rapping in between scenes. 
