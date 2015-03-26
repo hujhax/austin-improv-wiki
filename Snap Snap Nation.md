@@ -20,7 +20,7 @@ We just recorded four of our songs and are planning music videos for them.</bloc
 
 ## Media
 ### Videos
-* [http://vimeo.com/97389825 Video #1]
+* [http://www.funnyordie.com/videos/12613397cb/snap-snap-nation-strip-club-song Video #1 Strip Club Song]
 
 ## More Information
 * [http://www.facebook.com/snapsnapnation The troupe's web site.]
