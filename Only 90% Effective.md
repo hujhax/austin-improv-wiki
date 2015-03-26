@@ -5,7 +5,7 @@
 |Years	=		1995-2000
 }}
 
-**Only 90% Effective** was an improv and sketch troupe -- the first improv troupe based out of the University of Texas.
+**Only 90% Effective** (AKA **ONPE**) was an improv and sketch troupe -- the first improv troupe based out of the University of Texas.
 
 ## History
 The troupe was founded by [[Aaron Krebs]], [[Amy Blackard]] and [[Victoria Osbourne]] in 1995.  They held auditions in the fall of that year, bringing in [[Brently Heilbron]], [[Jon Wiley]], [[Andy Fisher]], [[Leon Mandel]], [[Eric Biffle]], [[Neil Shah]], and [[Jessy Schwartz]].
