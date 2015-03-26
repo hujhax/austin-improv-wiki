@@ -28,3 +28,4 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
