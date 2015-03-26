@@ -4,7 +4,7 @@
 |Theater = [[ZACH Theater]]
 |Director =	[[Shana Merlin]]
 |Cast =	[[The Known Wizards]], guests
-|Run	= 2014-Present
+|Run	= 2013-Present
 }}
 
 **Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]].
