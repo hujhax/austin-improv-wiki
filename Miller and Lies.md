@@ -2,7 +2,7 @@
 |Name	=		Miller and Lies
 |Picture	=	Miller and Lies.jpg
 |Cast	=	{{ Unbulleted list | [[Erica Lies]] | [[Nat Miller]] }}
-|Years	=		2015-Present
+|Years	=		2014-Present
 }}
 
 **Miller and Lies** is an improv duo.
