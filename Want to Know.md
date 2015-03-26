@@ -1,4 +1,4 @@
-**Want to Know** was a collaboratively-written western novella that originated on [[The Austin Improv Forums]].
+**Want to Know** (AKA **The Wu Yun Saga**) was a collaboratively-written western novella that originated on [[The Austin Improv Forums]].
 
 ![[Wu Yun.jpg|A photo used to represent Wu Yun in an online meme.]]
 
