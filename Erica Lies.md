@@ -12,6 +12,7 @@ She studied improv at New York's Magnet Theater and the Institution Theater in A
 
 ## Troupes
 * [[IScream Sandwich]]
+* [[Miller and Lies]]
 * [[There's Waldo]]
 * [[Venn Diaphragm]]
 
