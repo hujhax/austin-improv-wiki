@@ -1,0 +1,1 @@
+Began taking improv classes in 2011, by diving right in to Pgraph's Narrative Intensive.  Since then have completed levels 1-4 at the Hideout, 101 at the Institution, and a bunch of other workshops, including the first Hideout Summer Intensive in 2014.  Member of the troupe Mirage Machine with Kenny Madison and Theo Daley.
