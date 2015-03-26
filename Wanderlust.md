@@ -47,7 +47,7 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
 * [http://www.facebook.com/groups/hideouttheatre/permalink/824995157523590/ The audition announcement.]
-* [http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing Interview] by [[Scott Hearne]] with [[Ruby Willman]], [[Aaron Saenz]] and [[Manuel Duran]] for *[[The Theft Forum]]*.
+* [http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing Interview] by [[Scott Hearne]] with [[Ruby Willmann]], [[Aaron Saenz]] and [[Manuel Duran]] for *[[The Theft Forum]]*.
 * [http://yesandrew.com/wanderlust-and-the-audacity-of-vision/ Post about the show] by [[Andrew Buck]].
 * [http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3 Radio interview] with [[Aaron Saenz]], [[Jordan T. Maxwell]], [[Cat Drago]], and [[Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
 
