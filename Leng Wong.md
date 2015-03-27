@@ -12,7 +12,7 @@
 * [[The Foreign Legion]]
 * [[Senshi Sokyo]]
 * [[Diplomatic Impunity]]
-* [[The Walk Ons]]
+* [[The Walk-Ons]]
 
 ## Shows
 * *[[GrimmNoir]]*
