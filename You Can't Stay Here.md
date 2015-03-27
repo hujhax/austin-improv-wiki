@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name = You Can't Stay Here
-|Picture =	You Can't Stay Here
+|Picture =	You Can't Stay Here.jpg
 |Theater = [[The Institution Theater]]
 |Director =	[[Brad Hawkins]]
 |Cast = {{Unbulleted list | [[Alex Alaya]] | [[Andreas Fabis]] | [[Cagney Ortiz]] | [[Ceej Allen]] | [[Clint Harris]] | [[Dana Yanoshak]] | [[Donnie Garcia]] | [[Jenny Schwartz]] | [[Letty Tomlinson]] | [[Margaret Rose]] }}
