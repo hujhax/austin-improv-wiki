@@ -157,7 +157,7 @@ These are troupes that still need pages created for them.
 * [[Unsuspectingly Sponsored By]]
 * [[Urban Yogurt]]
 * [[Vertigo Ramp]]
-* [[The Walk Ons]]
+* [[The Walk-Ons]]
 * [[We Have Jetpacks!]]
 * [[WeatherVane]]
 * [[Whittle]]
