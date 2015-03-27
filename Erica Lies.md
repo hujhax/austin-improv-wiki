@@ -4,13 +4,13 @@
 |Theater=	[[The Institution Theater]]
 |Years	=	2007-Present
 }}
-
+[[Category/Performers|Lies]]
 **Erica Lies** is an improv and sketch performer.
 
 ## History
-She studied improv at New York's Magnet Theater and the Institution Theater in Austin and has performed both sketch and improv all over Austin. She co-wrote, directed, created, and starred in the web series "Freelancers" with Ted Meredith, and is also a long-time story producer for Mortified Austin.
+Erica studied improv at New York's Magnet Theater and the Institution Theater in Austin and has performed both sketch and improv all over Austin. She co-wrote, directed, created, and starred in the web series "Freelancers" with Ted Meredith, and is also a long-time story producer for Mortified Austin.
 
-[[Category/Performers|Lies]]
+
 
 ## Troupes
 * [[IScream Sandwich]]
