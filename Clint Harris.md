@@ -5,7 +5,7 @@
 |Years = 2012-present
 }}
 
-**Clint Harris** is an improv performer who works primarily with [[ColdTowne Theater]] and [[The Institution Theater]].
+**Clint Harris** is an improv performer who works primarily with [[ColdTowne Theater]] and [[The Institution Theater]]. He also performs in scripted productions including *Macbeth*, *The Cat in the Hat*, and *This is Our Youth*.
 
 ## Shows
 ### Improvised
