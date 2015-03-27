@@ -8,7 +8,7 @@
 |Run	=	{{Unbulleted list | 2012 | Feb/Mar 2015 }}
 }}
 
-***GrimmNoir*** is an [[Institution Theater]] mainstage show that combines [[Wikipedia - film noir|film noir]] with *[[Wikipedia - Grimm's Fairy Tales|Grimm's Fairy Tales]]*.
+***GrimmNoir*** (also styled *Grimm Noir*) is an [[Institution Theater]] mainstage show that combines [[Wikipedia - film noir|film noir]] with *[[Wikipedia - Grimm's Fairy Tales|Grimm's Fairy Tales]]*.
 
 ## Summary
 *GrimmNoir* is a narrative longform show takes place in a world that combines gritty, classic film noir with the fantasy world of fairy tales.  It features a grizzled, old-school private eye who investigates a couple of 'cases' (i.e., classic fairy tales) in that world of 'noir fantasy'.
