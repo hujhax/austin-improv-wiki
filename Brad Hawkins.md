@@ -32,6 +32,7 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 * *[[The Black Vault]]*
 * *[[The Next Chapter]]*
 * *[[Trust No One]]* (directed)
+* *[[Grimm Noir]]*
 * *[[You Can't Stay Here]]* (directed)
 
 ### Non-Improvised
