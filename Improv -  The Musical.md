@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name = Improv: The Musical	
-|Picture =	Improv: The Musical.jpg
+|Picture =	Improv The Musical.jpg
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Sarah Marie Curry]] | [[Tom Booker]] }}
 |Cast =	TBA
