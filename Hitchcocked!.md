@@ -31,6 +31,7 @@ The show included several guest performers who weren't part of the main cast:
 * Video of the 4/9/10 show ("Marina"): [http://www.viddler.com/v/54246de9 part 1], [http://www.viddler.com/v/bceaf31a part 2].
 * [http://www.viddler.com/v/766ff398 Video of the 4/17/10 show.] ("Baseball Stadium")
 * Video of the 4/24/10 show ("Presidential Parade"): [http://www.viddler.com/v/360d25cd part 1], [http://www.viddler.com/v/b2aa0851 part 2].
+* Video by [[Brian Boyko]] of an April 2010 show: [http://youtu.be/Om9enOG5-nk 1], [http://youtu.be/OkbiOFs6Sfg 2], [http://youtu.be/oSl4fAeHz5Q 3], [http://youtu.be/1BMiFXvDUg4 4], [http://youtu.be/q-ejIV9VcOo 5], [http://youtu.be/cQpgM4qJ92Y 6], [http://youtu.be/qPCl2-Ayrfc 7].
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 3/26/10 performance.
