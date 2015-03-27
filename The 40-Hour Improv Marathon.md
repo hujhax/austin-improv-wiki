@@ -66,6 +66,9 @@
 * [http://www.facebook.com/hujhax/media_set?set=a.129984552264.120572.588952264&type=3 Photoset] by [[Peter Rogers]] of [[McNichol & May]] (Sunday 7am).
 * [http://www.facebook.com/hujhax/media_set?set=a.129987327264.120574.588952264&type=3 Photoset] by [[Peter Rogers]] of the Final Countdown (Sunday 8am).
 
+## Other
+* [http://youtu.be/RBv0-UyY9Oo Intro video] by [[Brian Boyko]].
+
 ## More Information
 * [http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success "The Hideout’s 40-Hour Improv Marathon a Big Success"] (blogpost at [[The Hideout]]'s web site)
 * [http://www.austinchronicle.com/arts/2009-06-26/799086/ "The Hideout Improv Marathon"] by [[Robert Faires]] (*The Austin Chronicle*)
