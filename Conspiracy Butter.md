@@ -2,7 +2,7 @@
 |Name	=		Conspiracy Butter
 |Picture	=	Conspiracy Butter.jpg
 |Cast	=	{{Unbulleted list|[[Brian Boyko]] | [[Chris Trew]] }}
-|Years	=		2006
+|Years	=		2006-2010
 }}
 
 **Conspiracy Butter** was an improv duo.
