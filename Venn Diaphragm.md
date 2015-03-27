@@ -23,6 +23,9 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 The troupe performed in [[The Out of Bounds Comedy Festival]] in 2009 and 2010.
 
 ## Media
+### Videos
+* Video by [[Brian Boyko]] of their 4/30/10 show at [[The Hideout Theatre]]: [http://youtu.be/XVFQUC7Qe_Y 1], [http://youtu.be/tS2ofy-SlT4 2], [http://youtu.be/wARd4i-7jNc 3].
+
 ### Photos
 * [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 
