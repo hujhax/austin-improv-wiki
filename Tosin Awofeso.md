@@ -14,6 +14,7 @@ Pianist Tosin Awofeso is an accompanist for [[Hurly Burly]], [[Girls Girls Girls
 ## Shows
 * *[[Hurly Burly]]* (accompanist)
 * *[[Maestro]]* (accompanist)
+* *[[You Can't Stay Here]]* (accompanist)
 
 [[Category/Performers|Tosin Awofeso]]
 [[Category/Musicians|Tosin Awofeso]]
