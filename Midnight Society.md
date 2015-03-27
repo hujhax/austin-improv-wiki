@@ -26,6 +26,7 @@ Their bio, from their web site:
 * [http://blip.tv/out-of-bounds-comedy-festival/midnight-society-thu-10pm-svt-oranges-stage-1247023 Video] of their 8/28/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 * [http://vimeo.com/34095847 Video] by [[Kyle Sweeney]] of their 2009 Christmas sketch show.
 * [http://vimeo.com/22499996 Video] by [[Lance Gilstrap]] of a March 2011 show at [[ColdTowne Theater]].
+* [http://youtu.be/ofjRlvs4iFo Video] by [[Brian Boyko]] of their 4/7/12 show.
 * [http://vimeo.com/63216537 Video] by [[Lance Gilstrap]] of a 2012 show at [[ColdTowne Theater]], the last one before [[Nick Ramirez]] and [[Andy Petruzzo]] moved away.
 * [http://vimeo.com/82058494 Video] by [[Dave Alley]] of their show at [[The 2013 Out of Bounds Comedy Festival]].
 
