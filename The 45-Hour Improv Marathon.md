@@ -1,9 +1,6 @@
 ![[The 45-Hour Cover Photo.jpg|Publicity image for the 45-Hour Improv Marathon.]]
 
-**The 45-Hour Improv Marathon** was the sixth annual [[Hideout Improv Marathon]].
-
-## Summary
-It was performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/14.
+**The 45-Hour Improv Marathon** was the sixth annual [[Hideout Improv Marathon]]. It was performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/14.
 
 ## Core Players
 * [[Bridget Brewer]]
