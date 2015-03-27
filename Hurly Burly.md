@@ -6,6 +6,7 @@
 |Cast =	{{Unbulleted list | [[Adriane Shown]] | [[Pseudonyms|Brooke Beltane]] | [[Caeriel Crestin]] | [[Pseudonyms|Eureka Smoke]] | [[Pseudonyms|Foxy Cakes]] | [[Jen Kaplan]] | [[Jessie Pascarelli]] | [[Pseudonyms|Lulu La Mer]] | [[Marc Majcher]] | [[Paul Normandin]] | [[Pseudonyms|Rosie Dear]] | [[Ryan Hill]] | [[Pseudonyms|Wilhelmina Wyldehart]] }}
 |Tech = {{Unbulleted list | [[Cindy Page]] | [[Lindsey McGowen]] }}
 |Run	=	May/Jun 2014
+|Subsequent Runs =	Feb/Mar 2015
 }}
 
 ***Hurly Burly*** was an improvised burlesque narrative mainstage show at [[The Institution Theater]].
@@ -16,6 +17,8 @@ The show followed the lives of nine women working together in a house burlesque 
 Owing to the somewhat risqué nature of burlesque, several performers in the show have chosen to employ [[Pseudonyms]].
 
 The show ran Fridays in May and June of 2014, and was hour 34 of [[The 45-Hour Improv Marathon]].
+
+It then ran Fridays in February and March of 2015, and was part of [[The 2015 Improvised Play Festival]].
 
 ## Media
 ### Videos
