@@ -14,14 +14,14 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 (Note: the first show he saw was specifically the [[Confidence Men]] "Women with Confidence" show on 4/8/10, featuring guest star [[Lauren Zinn]].)
 
 ## Troupes
-* [[Century]]
+* [[¡Zarzamora!]]
 * [[Franz & Dave]]
+* [[Century]]
 * [[Goat]]
 * [[Three Hot Chicks]]
 * [[The Walk-Ons]]
 * [[Who Dack]]
 * [[Your Dad's Friends]]
-* [[¡Zarzamora!]]
 * [[Taxicab Impressions]]
 
 ## Shows
