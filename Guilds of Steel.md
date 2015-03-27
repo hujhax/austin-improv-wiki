@@ -49,6 +49,9 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [[Zach Palmer]]
 
 ## Media
+### Videos
+* Video by [[Brian Boyko]] of the 5/23/09 show: [http://youtu.be/ASVoyW31QjE 1], [http://youtu.be/UJG2GTDPVXA 2], [http://youtu.be/nDy6k6F_vbc 3], [http://youtu.be/HNKP0yiDfVg 4], [http://youtu.be/gk-9JyczlTA 5].
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.1305295204352.2036938.1589679282&type=3 Photoset of the 7/16/10 performance] by [[Roy Moore]].
 * [http://www.facebook.com/media/set/?set=a.1307549820716.2037275.1589679282&type=3 Photoset of the 7/17/10 performance] by [[Roy Moore]].
