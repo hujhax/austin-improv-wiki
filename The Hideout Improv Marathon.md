@@ -29,69 +29,69 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 ! 2014
 ! 2015
 |-
-| Andy Crouch
-| Bill Stern
-| style="font-weight: bold;" | Andy Crouch
-| Emma Holder
-| Aaron Saenz
-| Bridget Brewer
-| Brett Tribe
+| [[Andy Crouch]]
+| [[Bill Stern]]
+| style="font-weight: bold;" | [[Andy Crouch]]
+| [[Emma Holder]]
+| [[Aaron Saenz]]
+| [[Bridget Brewer]]
+| [[Brett Tribe]]
 |-
-| Caitlin Sweetlamb
-| style="font-weight: bold;" | Curtis Luciani
-| Jason Vines
-| Eric Heiberg
-| Christopher "Ceej" Allen
-| Dave Buckman
-| Cat Drago
+| [[Caitlin Sweetlamb]]
+| style="font-weight: bold;" | [[Curtis Luciani]]
+| [[Jason Vines]]
+| [[Eric Heiberg]]
+| [[Christopher 'Ceej' Allen]]
+| [[Dave Buckman]]
+| [[Cat Drago]]
 |-
-| Curtis Luciani
-| Jessica Arjet
-| Jordan T. Maxwell
-| Halyn Lee Erickson
-| style="font-weight: bold;" | Jessica Arjet
+| [[Curtis Luciani]]
+| [[Jessica Arjet]]
+| [[Jordan T. Maxwell]]
+| [[Halyn Lee Erickson]]
+| style="font-weight: bold;" | [[Jessica Arjet]]
 | Jonathan Monkhouse
-| Courtney Hopkin
+| [[Courtney Hopkin]]
 |-
-| Jeremy Sweetlamb
-| style="font-weight: bold;" | Kaci Beeler
-| Karen Jane Dewitt
+| [[Jeremy Sweetlamb]]
+| style="font-weight: bold;" | [[Kaci Beeler]]
+| [[Karen Jane DeWitt]]
 | Jill Bernard
-| Kayla Lane Freeman
-| Katie Dahm
-| style="font-weight: bold;" | Halyn Lee Erickson
+| [[Kayla Lane Freeman]]
+| [[Katie Dahm]]
+| style="font-weight: bold;" | [[Halyn Lee Erickson]]
 |-
-| Kaci Beeler
-| Marc Majcher
-| Lisa Jackson
-| John Ratliff
-| Lindsey Reeves
-| Michael Ferstenfeld
-| style="font-weight: bold;" | Michael Joplin
+| [[Kaci Beeler]]
+| [[Marc Majcher]]
+| [[Lisa Jackson]]
+| [[John Ratliff]]
+| [[Lindsey Reeves]]
+| [[Michael Ferstenfeld]]
+| style="font-weight: bold;" | [[Michael Joplin]]
 |-
-| Kareem Badr
-| Meghan Wolff
-| Peter Rogers
-| Jon Bolden
-| style="font-weight: bold;" | Lisa Jackson
-| Rachel Madorsky
-| Mike D'Alonzo
+| [[Kareem Badr]]
+| [[Meghan Wolff]]
+| [[Peter Rogers]]
+| [[Jon Bolden]]
+| style="font-weight: bold;" | [[Lisa Jackson]]
+| [[Rachel Madorsky]]
+| [[Mike D'Alonzo]]
 |-
-| Matt Pollock
-| Roy Janik
+| [[Matt Pollock]]
+| [[Roy Janik]]
 | Tim Redmond
-| style="font-weight: bold;" | Marc Majcher
-| Michael Joplin
-| Ruby Willmann
-| Quinn Buckner
+| style="font-weight: bold;" | [[Marc Majcher]]
+| [[Michael Joplin]]
+| [[Ruby Willmann]]
+| [[Quinn Buckner]]
 |-
-| Troy Miller
-| Valerie Ward
-| style="font-weight: bold;" | Troy Miller
-| style="font-weight: bold;" | Roy Janik
-| style="font-weight: bold;" | Peter Rogers
-| style="font-weight: bold;" | Troy Miller
-| Sarah Marie Curry
+| [[Troy Miller]]
+| [[Valerie Ward]]
+| style="font-weight: bold;" | [[Troy Miller]]
+| style="font-weight: bold;" | [[Roy Janik]]
+| style="font-weight: bold;" | [[Peter Rogers]]
+| style="font-weight: bold;" | [[Troy Miller]]
+| [[Sarah Marie Curry]]
 |}
 
 ## More Information
