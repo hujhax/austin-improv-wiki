@@ -1,4 +1,4 @@
-**The 46-Hour Improv Marathon** is the seventh annual [[Hideout Improv Marathon]]. It will take place in June 2015.
+**The 46-Hour Improv Marathon** is the seventh annual [[Hideout Improv Marathon]]. It will take place from June 19-21, 2015.
 
 ## Core Players
 * [[Mike D'Alonzo]]
