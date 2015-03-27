@@ -49,6 +49,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 ### Videos
 * 3/26/99 Maestro: [http://vimeo.com/45370945 part 1], [http://vimeo.com/45370946 part 2].
 * Video of the 8/29/08 "All-Star Maestro" at [[The 2008 Out of Bounds Comedy Festival]]: [http://blip.tv/out-of-bounds-comedy-festival/all-star-maestro-fri-12midnight-svt-apples-stage-1234101 1], [http://blip.tv/out-of-bounds-comedy-festival/maestro-pt-2-fri-12midnight-svt-apples-stage-1271626 2].
+* Video by [[Brian Boyko]] of the 4/24/10 show: [http://youtu.be/cqsBX0XlKts 1], [http://youtu.be/UrFzuunbrTU 2], [http://youtu.be/LjCqqv64Wq8 3].
 * [http://vimeo.com/30999435 10/22/11 Maestro.]
 * 12/10/11 Maestro: [http://vimeo.com/33847258 part 1], [http://vimeo.com/33862670 part 2].
 * [http://vimeo.com/33971411 12/17/11 Maestro.]
