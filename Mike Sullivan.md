@@ -14,6 +14,7 @@ In 2011, Mike Sullivan moved to Chicago.
 * [[Blink]]
 * [[Continental Breakfast]]
 * [[Ctrl-Alt-Delight]]
+* [[The Walk-Ons]]
 * [[The Dukes of Bedside Manor]]
 
 ## Shows
