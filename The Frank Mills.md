@@ -73,6 +73,9 @@ and Austin Improvisers:
 and many of their students
 
 ## Media
+### Videos
+* [http://youtu.be/MGPbzObquSM Video] by [[Brian Boyko]] of their 4/7/12 show.
+
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 11/15/09 performance.
 * [http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/19/11 performance at [[WaffleFest]].
