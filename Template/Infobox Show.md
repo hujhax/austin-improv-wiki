@@ -79,20 +79,6 @@ This template lists standard, useful information about an improv show.
 			<td class="category">{{{Producer|Unknown}}}</td>
 		</tr>
 |}}
-		<tr class="">
-{{#if: {{{Subsequent Runs|}}} |
-			<th scope="row" class="category-header">Initial Run</th>
-|
-			<th scope="row" class="category-header">Run</th>
-}}
-			<td class="category">{{{Run|Unknown}}}</td>
-		</tr>
-{{#if: {{{Subsequent Runs|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Subsequent Run(s)</th>
-			<td class="category">{{{Subsequent Runs|Unknown}}}</td>
-		</tr>
-|}}
 {{#if: {{{Tech|}}} |
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
@@ -109,5 +95,20 @@ This template lists standard, useful information about an improv show.
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
+		<tr class="">
+{{#if: {{{Subsequent Runs|}}} |
+			<th scope="row" class="category-header">Initial Run</th>
+|
+			<th scope="row" class="category-header">Run</th>
+}}
+			<td class="category">{{{Run|Unknown}}}</td>
+		</tr>
+{{#if: {{{Subsequent Runs|}}} |
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">{{{Subsequent Runs|Unknown}}}</td>
+		</tr>
+|}}
+		
 	</table>
 </div>
