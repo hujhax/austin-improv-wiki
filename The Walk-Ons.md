@@ -1,12 +1,13 @@
 {{Infobox Troupe
 |Name	=	The Walk-Ons
 |Cast	=	{{Unbulleted list|
-[[Brad Hawkins]]|
+[[Scott Crocker]]
 [[Katie Dahm]]|
-[[Laura Khalil]]|
+[[Brad Hawkins]]|
 [[Thomas Kelleher]]|
-[[Mike Sullivan]]|
+[[Laura Khalil]]|
 [[Jesse Overright]]|
+[[Mike Sullivan]]|
 [[Leng Wong]]
  }}
 
