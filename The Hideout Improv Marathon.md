@@ -18,5 +18,81 @@ The marathon debuted as [[The 40-Hour Improv Marathon]] in 2009.  The event has 
 * 2014: [[The 45-Hour Improv Marathon]]
 * 2015: [[The 46-Hour Improv Marathon]]
 
+#### Marathon Casts
+Repeat performers are in bold. As of 2015, eleven improvisers have completed the marathon more than once; only [[Troy Miller]] has completed it three times.
+{| class="wikitable"
+! 2009
+! 2010
+! 2011
+! 2012
+! 2013
+! 2014
+! 2015
+|-
+| Andy Crouch
+| Bill Stern
+| style="font-weight: bold;" | Andy Crouch
+| Emma Holder
+| Aaron Saenz
+| Bridget Brewer
+| Brett Tribe
+|-
+| Caitlin Sweetlamb
+| style="font-weight: bold;" | Curtis Luciani
+| Jason Vines
+| Eric Heiberg
+| Christopher "Ceej" Allen
+| Dave Buckman
+| Cat Drago
+|-
+| Curtis Luciani
+| Jessica Arjet
+| Jordan T. Maxwell
+| Halyn Lee Erickson
+| style="font-weight: bold;" | Jessica Arjet
+| Jonathan Monkhouse
+| Courtney Hopkin
+|-
+| Jeremy Sweetlamb
+| style="font-weight: bold;" | Kaci Beeler
+| Karen Jane Dewitt
+| Jill Bernard
+| Kayla Lane Freeman
+| Katie Dahm
+| style="font-weight: bold;" | Halyn Lee Erickson
+|-
+| Kaci Beeler
+| Marc Majcher
+| Lisa Jackson
+| John Ratliff
+| Lindsey Reeves
+| Michael Ferstenfeld
+| style="font-weight: bold;" | Michael Joplin
+|-
+| Kareem Badr
+| Meghan Wolff
+| Peter Rogers
+| Jon Bolden
+| style="font-weight: bold;" | Lisa Jackson
+| Rachel Madorsky
+| Mike D'Alonzo
+|-
+| Matt Pollock
+| Roy Janik
+| Tim Redmond
+| style="font-weight: bold;" | Marc Majcher
+| Michael Joplin
+| Ruby Willmann
+| Quinn Buckner
+|-
+| Troy Miller
+| Valerie Ward
+| style="font-weight: bold;" | Troy Miller
+| style="font-weight: bold;" | Roy Janik
+| style="font-weight: bold;" | Peter Rogers
+| style="font-weight: bold;" | Troy Miller
+| Sarah Marie Curry
+|}
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/improvmarathon The marathon's web page.]
