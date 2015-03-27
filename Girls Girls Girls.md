@@ -28,6 +28,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * Stage Door: this was a 'backstage musical' format.
 * Pink is the New Black: Inspired by the TV show ''[[Wikipedia - Orange is the New Black|Orange is the New Black]]
 * The Secret Lives of Soccer Moms
+** This format had a mainstage run at [[The Institution Theater]] on Fridays and Saturdays at 8pm from 4/17/15 to 5/2/15.
 
 ### Former Cast Members
 * [[Amy McCurdy]]
