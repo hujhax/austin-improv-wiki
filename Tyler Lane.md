@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-**Tyler Lane** is an improv performer who works primarily with [[The Institution Theatre]].
+**Tyler Lane** is an improv performer who works primarily with [[The Institution Theater]] and [[The Hideout Theater]].
 
 ## History
 Tyler moved to Austin in the summer of 2013. He stumbled upon *[[Maestro]]* while exploring downtown and has been hooked ever since. 
@@ -15,5 +15,6 @@ Tyler moved to Austin in the summer of 2013. He stumbled upon *[[Maestro]]* whil
 * *[[GrimmNoir]]*
 * *[[Maestro]]*
 * *[[Rock N Roll Purgatory]]*
+* *[[Golden]]*
 
 [[Category/Performers|Lane]]
