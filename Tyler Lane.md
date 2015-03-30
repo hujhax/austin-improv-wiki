@@ -11,9 +11,9 @@
 Tyler moved to Austin in the summer of 2013. He stumbled upon *[[Maestro]]* while exploring downtown and has been hooked ever since. 
 
 ## Shows
+* *[[Rock N Roll Purgatory]]*
 * *[[A Penny Dreadful]]* (lighting)
 * *[[GrimmNoir]]*
-* *[[Rock N Roll Purgatory]]*
 * *[[Golden]]*
 
 [[Category/Performers|Lane]]
