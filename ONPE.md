@@ -1,0 +1,1 @@
+#REDIRECT [[Only 90% Effective]]
