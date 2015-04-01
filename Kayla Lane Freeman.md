@@ -35,5 +35,6 @@ A post from her about the first improv show she ever saw:<blockquote><p>My siste
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=21&t=11684 Her self-introduction thread] on [[The AIC Forum]].
 * [http://yesandrew.com/2013/07/05/in-praise-of-kayla-lane-freeman/ "In Praise Of..." post] by [[Karen Jane DeWitt]].
+* [http://www.hideouttheatre.com/marathon-musings-before-leaving-austin A post bidding farewell to Austin] from the Hideout blog.
 
 [[Category/Performers|Freeman]]
