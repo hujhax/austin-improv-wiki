@@ -1,0 +1,19 @@
+{{Infobox Troupe
+|Name	=		The Laff Staff
+|Picture	=	The Laff Staff.jpg
+|Cast	=	{{Unbulleted list | [[Andy Weisberg]] | [[Angela Davis]] | [[Chris Bonno]] | [[De Lewellen]] | [[Ed Toutant]] | [[Joe Coleman]] (pianist) | [[Mike Emody]] | [[Robert Faires]] }}
+|Director =	[[Rodney Rincon]]
+|Years	=		1987-1993
+}}
+
+**The Laff Staff** was an improv troupe that had a run at [[Cap City Comedy Club]] in the late 80s and early 90s.
+
+## Summary
+The troupe specialized in short-form games, though they did try out longform (Harolds) in rehearsal.
+
+## History
+After the [[Austin Comedy Workshop]] closed its doors, most of the performers from [[Esther's Follies]] drifted away from improv.  But a few performers moved on to [[The Laff Stop]].  Actor [[Rodney Rincon]] ran a series of improv workshops there in late 1986, after which [[Chris Bonno]] and [[Angela Davis]] founded the troupe, which debuted in 1987.  They were given a were 45-minute pre-show slot in the Lounge Tuesday through Thursdays and Sundays until 1993.
+
+They headlined the Comedy Workshop in Houston for a week, which may have been the first professional gig for an Austin improv troupe outside of their home city.
+
+[[Category/Troupes|Category:Troupes]]
