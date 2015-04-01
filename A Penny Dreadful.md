@@ -23,6 +23,7 @@ From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - B
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17711 The cast announcement] on [[The Austin Improv Forums]].
+* [http://www.hideouttheatre.com/a-penny Hideout blogpost] by [[Troy Miller]] detailing his inspirations for the production.
 * [http://www.keyetv.com/lifestyle/features/austin-lifestyle/stories/hideout-theater-722.shtml Hideout blogpost] advertising the final performance.
 
 [[Category/Shows|Penny Dreadful]]
