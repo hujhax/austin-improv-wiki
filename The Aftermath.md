@@ -12,6 +12,12 @@
 ***The Aftermath*** was a [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
+*The Aftermath* was a narrative show set in a post-apocalyptic world.  At the top of the show, the cast would enter and select one token (an item that another cast member had brought and placed on a block center stage before the start of the show). The two hosts would then take a suggestion from the audience of what ended the world, alternating between something that came into the world that caused its downfall or something that vanished from it. The cast then took turns, describing some consequence of that event, creating a chain of events that led to the new state of the world. After declaring that "that was the end. This is the Aftermath," three pre-selected cast members took turns giving testimonial monologues as survivors of the apocalypse, interspersed with scenes depicting or inspired by the events they described. Using the events and characters created in the opening sections, the narrative portion portrayed the lives of the survivors as they did their best to move forward in the new world and rebuild. After the first few scenes of the narrative, the show would take a brief intermission before resolving the narrative in the second act. The hosts would thank the audience and send them off with the declaration, "that was the Aftermath. This...is the end."
+
+The soundtrack was a mix of acoustic guitar and percussion.  It ran a bit over an hour, with an intermission, in the Hideout's upstairs theater.
+
+In light of the announcements of *[[Risen]]* and *[[The Organ Trail]]*, director [[Jordan T. Maxwell]] instituted a soft "no zombies" rule for the run.
+
 ### Publicity Blurbs
 From the show announcement:<blockquote>An improvised post-post-apocalyptic adventure, chronicling the lives of the survivors of a world ending cataclysm. Inspired by works like *[[Wikipedia - World War Z|World War Z]]*, *[[Wikipedia - Y the Last Man|Y the Last Man]]*, *[[Wikipedia - The Hunger Games|The Hunger Games]]*, *[[Wikipedia - Revolution (TV series)|Revolution]]*, and *[[Wikipedia - The Walking Dead|The Walking Dead]]*.</blockquote>
 
