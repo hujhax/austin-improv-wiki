@@ -12,4 +12,4 @@ It had a ballroom with a stage which served as the venue for a number of shows f
 
 It also hosted season six of *[[Start Trekkin']]*.
 
-The facility shut down on 11/18/12 and has not yet re-opened.
+The facility shut down on 11/18/12 and re-opened in 2015, but has not hosted any improv productions since its reopening.
