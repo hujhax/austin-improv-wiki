@@ -128,6 +128,7 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [[Tonie Perensky]]
 * [[Topping Haggerty]]
 * [[Tyler Bryce]]
+* [[Mike Kinald]]
 
 ## Media
 ### Photos
