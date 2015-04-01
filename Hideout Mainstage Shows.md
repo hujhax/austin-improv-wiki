@@ -173,3 +173,6 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |-
 |Dec 2015||*[[I'll Be Home For Christmas]]*||[[Valerie Ward]]
 |}
+
+## More Information
+* [http://www.hideouttheatre.com/new-for-2014-student-mainstage-productions Announcement of the student-mainstage program] from the Hideout blog.
