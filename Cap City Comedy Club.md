@@ -1,6 +1,6 @@
 {{Infobox Theater
 |Name	=		Cap City Comedy Club
-|Picture =		Cap City Comedy Club.jpg
+|Picture =		Cap City Comedy Club.png
 |Address	=	8120 Research Blvd
 |Homepage	=	http://www.capcitycomedy.com/
 |Years	=		1980-Present
