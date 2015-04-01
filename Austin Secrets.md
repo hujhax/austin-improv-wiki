@@ -148,6 +148,8 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://www.facebook.com/media/set/?set=a.917842691612581.1073742162.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 3/7/15 show.
 
 ### Other
+* [http://www.hideouttheatre.com/austin-secrets-from-dec-22-2012 A slideshow of the secrets from 12/22/12.]
+* [http://www.hideouttheatre.com/secrets-from-dec-29-2012-the-last-austin-secrets-show-of-season-3 A slideshow of the secrets from 12/29/12.]
 * Photos of [[Kaci Beeler]]'s set design for the 2011 run: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_2/photo%203_2.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_1/photo%202_1.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_2/photo%204_2.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201/photo%201.jpg?disposition=download 4].
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/austin-secrets-set-2012/austin-secrets-set-2012.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design for the 2012 run.
 
