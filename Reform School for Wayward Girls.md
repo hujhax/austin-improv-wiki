@@ -43,6 +43,7 @@ This began act two, which was an improvised narrative.  The cast improvised the 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
 * [http://www.hideouttheatre.com/shows/ReformSchoolforWaywardGirls The show's web page.]
+* [http://www.hideouttheatre.com/only-three-more-chances-to-see-reform-school-for-wayward-girls Post about the show] from the Hideout's blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
