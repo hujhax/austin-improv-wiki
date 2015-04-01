@@ -16,4 +16,4 @@ After the [[Austin Comedy Workshop]] closed its doors, most of the performers fr
 
 They headlined the Comedy Workshop in Houston for a week, which may have been the first professional gig for an Austin improv troupe outside of their home city.
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Laff Staff]]
