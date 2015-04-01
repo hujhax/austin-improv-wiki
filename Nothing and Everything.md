@@ -59,6 +59,7 @@ The show featured an unadvertised preview performance two days before its premie
 * [http://www.hideouttheatre.com/shows/NothingAndEverything The show's web page.]
 * Thoughts on the show from [[Andrew Buck]]: [http://yesandrew.com/threethoughtsonchekhov/ 1], [http://yesandrew.com/3-things-about-improvising-chekhov/ 2], [http://yesandrew.com/the-yall-boner/ 3].
 * [http://yesandrew.com/the-sunday-interview-anton-chekhov/ A faux interview] with Chekhov by [[Andrew Buck]].
+* [http://www.hideouttheatre.com/audiences-are-raving-about-nothing-and-everything Admiring quotes about the show] from the Hideout's blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
