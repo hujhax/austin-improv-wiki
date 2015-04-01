@@ -50,8 +50,11 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 * [http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing Interview] by [[Scott Hearne]] with [[Ruby Willmann]], [[Aaron Saenz]] and [[Manuel Duran]] for *[[The Theft Forum]]*.
 * [http://yesandrew.com/wanderlust-and-the-audacity-of-vision/ Post about the show] by [[Andrew Buck]].
 * [http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3 Radio interview] with [[Aaron Saenz]], [[Jordan T. Maxwell]], [[Cat Drago]], and [[Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
-* [http://www.hideouttheatre.com/ryan_austin_onwanderlust Hideout-blog post] by [[Ryan Austin]] about the production.
-* [http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback Hideout-blog post] by [[Nicole Oliver]] about the production.
-* [http://www.hideouttheatre.com/cat-drago-bedtime-storytelling Hideout-blog post] by [[Cat Drago]] about the production.
+http://www.hideouttheatre.com/reflectionsonwanderlust#comments
+* [http://www.hideouttheatre.com/the-journey-to-wanderlustHideout blogpost] by [[Ruby Willmann]] about the production.
+* [http://www.hideouttheatre.com/reflectionsonwanderlust Hideout blogpost] by [[Ceej Allen]] about the production.
+* [http://www.hideouttheatre.com/ryan_austin_onwanderlust Hideout blogpost] by [[Ryan Austin]] about the production.
+* [http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback Hideout blogpost] by [[Nicole Oliver]] about the production.
+* [http://www.hideouttheatre.com/cat-drago-bedtime-storytelling Hideout blogpost] by [[Cat Drago]] about the production.
 
 [[Category/Shows|Category:Shows]]
