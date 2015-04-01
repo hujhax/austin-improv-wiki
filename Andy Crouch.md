@@ -29,4 +29,5 @@ A post from him about the first improv show he ever saw:<blockquote><p>I think m
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2389786 Interview] with Andy on *[[The Theft Forum]]*.
+* [http://www.hideouttheatre.com/improv-classes-will-change-your-life An 8/30/13 blogpost recommending improv classes] from the Hideout blog.
 * [http://yesandrew.com/sunday-interview-andy-crouch-2/ Interview] by [[Andrew Buck]].
