@@ -204,6 +204,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 
 ## More Information
 * [http://improvencyclopedia.org/games//Micetro.html The Improv Encyclopedia's summary of Maestro.]
+* [http://www.hideouttheatre.com/how-you-won-maestro A 12/18/12 post] by [[Marc Majcher]] on the Hideout blog, detailing how the audience recently won *Maestro*.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
