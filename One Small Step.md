@@ -17,6 +17,12 @@ From the Hideout web page:<blockquote>"Space – terrifying and vast, only the b
 From hilarious moments of triumph over everyday obstacles like eating in Zero G to thrilling space walks, this improvised comedy features some of The Hideout’s upcoming best and brightest performers in a brand new show directed by Jessica Arjet and Andreas Fabis."</blockquote>
 
 ## Media
+### Videos
+* [http://www.youtube.com/watch?v=ltFA1MX5z4Y Video of the 2/15/2015 show at the Hideout Theater]
+* [http://www.youtube.com/watch?v=ifDgwTZ0RmI Video of the 2/22/2015 show at the Hideout Theater]
+* [http://youtu.be/43j2jnXa12s Video of the 2/29/2015 show at the Hideout Theater]
+* [http://youtu.be/r9b97VWaRPA Video of the 3/7/2015 show at the Hideout Theater]
+
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.901098623286988.1073742152.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/7/15 performance.
 * [http://www.facebook.com/media/set/?set=a.769051933171320.1073741852.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 2/14/15 performance.
@@ -27,13 +33,6 @@ From hilarious moments of triumph over everyday obstacles like eating in Zero G 
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
 * [http://www.hideouttheatre.com/aspen-webster-on-one-small-step Aspen Webster's Blog entry on One Small Step]
-* [http://www.youtube.com/watch?v=ltFA1MX5z4Y The 2/15/2015 show at the Hideout Theater]
-* [http://cwcreations.smugmug.com/Improv-2015/One-Small-Step/20150214/ Show photos 2/15/2015 by Chad Wellington]
-* [http://www.youtube.com/watch?v=ifDgwTZ0RmI The 2/22/2015 show at the Hideout Theater]
-* [http://cwcreations.smugmug.com/Improv-2015/One-Small-Step/20150221/i-3QJNxrF/A Show photos 2/22/2015 by Chad Wellington]
-* [http://youtu.be/43j2jnXa12s The 2/29/2015 show at the Hideout Theater]
-* [http://cwcreations.smugmug.com/Improv-2015/One-Small-Step/20150228/ Show photos 2/29/2015 by Chad Wellington]
-* [http://youtu.be/r9b97VWaRPA The 3/7/2015 show at the Hideout Theater]
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203692511416050.1073741930.1315383518&type=1 Show photos 3/7/2015 by Michael Yew]
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
