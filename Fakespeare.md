@@ -103,6 +103,7 @@
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=14898 The audition- and casting-announcement thread.]
 * [http://www.facebook.com/hideouttheatre/posts/10151433012633510 The facebook casting announcement for the show.]
+* [http://www.hideouttheatre.com/inside-fakespeare A post about the show] by director [[Andy Crouch]] from the Hideout blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
