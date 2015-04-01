@@ -92,3 +92,4 @@
 * [http://docs.google.com/forms/d/1l0bLg0JDek9x8sEsCrTuKoim2xf8rFuF2gF5ToNHsDw/viewform The suggestion form for troupes or formats for the marathon.]
 * [http://www.hideouttheatre.com/shows/improvmarathon The show's web page.]
 * [https://docs.google.com/spreadsheets/d/19EG2enFOwNcKzBMtd1ifAw2SXBx_-jqZucu9Poa_OLQ/edit#gid=1098163139 The volunteer schedule.]
+* [http://www.hideouttheatre.com/improv-marathon-couples-podcast A podcast interview] with the two couples in the cast, from the Hideout's blog.
