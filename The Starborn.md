@@ -65,6 +65,7 @@ But just before they blast us into particle dust, they want to get to know us a 
 ## More Information
 * [http://starbornimprov.strikingly.com/ The troupe's home page.]
 * [http://facebook.com/thestarbornimprov The troupe's Facebook page.]
+* [http://www.hideouttheatre.com/the-starborn-descend A 2/4/14 interview with the cast] on the Hideout blog.
 * Show Count: 16 (as of 11/21/2014)
  
 [[Category/Troupes|Starborn]]
