@@ -81,6 +81,7 @@ The cast recorded a number of example videos of the sort of video challenges the
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
+* [http://www.hideouttheatre.com/the-first-night-off-of-caeriel-island Post about the premiere] by [[Caeriel Crestin]] on the Hideout's blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
