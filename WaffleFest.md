@@ -24,3 +24,6 @@ The first WaffleFest was organized by [[Sean Hill]], and it was just a two-day e
 * [[WaffleFest 2012]]
 * [[WaffleFest 2013]]
 * [[WaffleFest 2014]]
+
+## More Information
+* [http://www.hideouttheatre.com/waffles-improv-and-vicki Post about the festival] by [[Paul Normandin]] from the Hideout blog.
