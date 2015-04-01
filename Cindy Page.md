@@ -40,5 +40,8 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[The Tribunal]]* *(performer)*
 * *[[Trust No One]]* *(tech)*
 
+## More Information
+* [http://www.hideouttheatre.com/view-from-the-booth A hideout blogpost] by Ms. Page about improv tech.
+
 [[Category/Performers|Page]]
 [[Category/Techs|Page]]
