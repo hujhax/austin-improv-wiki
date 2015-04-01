@@ -18,6 +18,8 @@ The soundtrack was a mix of acoustic guitar and percussion.
 
 [[Kaci Beeler]] designed the show's set.
 
+In light of the announcements of *[[Risen]]* and *[[The Organ Trail]]*, director [[Jordan T. Maxwell]] instituted a soft "no zombies" rule for the run.
+
 ### Publicity Blurbs
 From the show announcement:<blockquote>An improvised post-post-apocalyptic adventure, chronicling the lives of the survivors of a world ending cataclysm. Inspired by works like *[[Wikipedia - World War Z|World War Z]]*, *[[Wikipedia - Y the Last Man|Y the Last Man]]*, *[[Wikipedia - The Hunger Games|The Hunger Games]]*, *[[Wikipedia - Revolution (TV series)|Revolution]]*, and *[[Wikipedia - The Walking Dead|The Walking Dead]]*.</blockquote>
 
