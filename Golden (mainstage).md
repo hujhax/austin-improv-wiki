@@ -8,7 +8,7 @@
 |Tech               = {{Unbulleted list | [[Danielle Saar]] | [[R. Lance Hunter]] }}
 }}
 
-***Golden*** will be the April 2015[[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Golden*** is the April 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
