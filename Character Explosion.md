@@ -16,7 +16,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=Q4giLqTx2Rw The troupe's "plank-a-thon" from the 2/12/15 *[[Free Fringe]]*.]
+* [http://www.youtube.com/watch?v=Q4giLqTx2Rw Video of the troupe's "plank-a-thon"] from the 2/12/15 *[[Free Fringe]]*.
 * [https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw The troupe's YouTube channel]
 
 ## More Information
