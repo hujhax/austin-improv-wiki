@@ -15,9 +15,7 @@
 
 The rest of the cast were ensemble players.
  
-[[Michael Yew]] was the technical director for the show.
-
-### Guest Villains
+[[Michael Yew]] was the technical director for the show.=== Guest Villains ===
 Each week, a guest improvisor would play the villain of the episode.  The villians were as follows:
 * [[Asaf Ronen]]
 * [[Justin Davis]]
@@ -61,5 +59,8 @@ On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective ro
 * Teasers for the show: [http://youtu.be/v-Enot5nZyg "Superior Intellect"], [http://youtu.be/vmYDs-M53_8 "Walk It Off"], [http://youtu.be/17FTN8qNMqc "A Dream Come True"], [http://youtu.be/6a7QO56rKm0 "No Ego"], [http://youtu.be/h_jpVQn3Lfk "Chia Pet"].
 * [http://youtu.be/c4V0yO1ZXIg A teaser for the Halloween shows.]
 
+## More Information
+* [http://www.hideouttheatre.com/the-girl-who-plays-the-boy-wonder An interview] with [[Kaci Beeler]] about playing Robin.
+ 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
