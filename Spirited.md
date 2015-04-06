@@ -56,6 +56,7 @@ After about an hour of these explorations, there would be a transition back to t
 
 ## More Information
 * [http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/ Review of the show] by [[Wayne Allen Brenner]] in *The Austin Chronicle* (9/14/11).
+* [http://www.hideouttheatre.com/statesman-review-for-spirited Review of the show] from *The Austin-American Statesman*.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
