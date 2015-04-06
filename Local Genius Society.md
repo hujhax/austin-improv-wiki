@@ -86,6 +86,10 @@ Photoset] that includes their 12/8/12 show.
 * Posts about their Feb/Mar 2012 "Underground Improv" run at The Dive Bar.
 ** [http://www.hideouttheatre.com/local-genius-society-interview-on-their-show-at-the-dive-bar A 2/12/12 interview with the cast.]
 ** [http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar A 3/8/12 post] by [[Kayla Lane Freeman]] 
- 
+* "Ask Local Genius Society": interviews with cast members from December 2011:
+** [http://www.hideouttheatre.com/meet_andrew_pish Interview] with [[Andrew Pish]].
+** [http://www.hideouttheatre.com/lgs-kayla  Interview] with [[Kayle Lane Freeman]].
+** [http://www.hideouttheatre.com/lgs-karen-jane-dewitt Interview] with [[Karen Jane DeWitt]].
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
