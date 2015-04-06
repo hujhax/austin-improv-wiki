@@ -73,3 +73,4 @@
 * [http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success "The Hideout’s 40-Hour Improv Marathon a Big Success"] (blogpost at [[The Hideout]]'s web site)
 * [http://www.austinchronicle.com/arts/2009-06-26/799086/ "The Hideout Improv Marathon"] by [[Robert Faires]] (*The Austin Chronicle*)
 * [http://www.austinchronicle.com/arts/2009-07-03/803083/ "Review: Hideout Improv Marathon"] by [[Robert Faires]] (*The Austin Chronicle*)
+* [http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success A post recapping the marathon.]
