@@ -1,4 +1,9 @@
 ## Summary
-Stub image for *[[Golden]]*, snipped from [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The 2015 Hideout Student Mainstage Season announcement].
+Poster for *[[Golden]]*, featuring [[Tyler Lane]] in a homage to *[[Wikipedia - Safety Last|Safety Last]]*.
+
+Photo by: unknown.
+
+Art by: [[Kaci Beeler]].
+
 ## Licensing
 {{AIC-Wiki-only license}}
