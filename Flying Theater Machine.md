@@ -77,8 +77,9 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [http://www.facebook.com/media/set/?set=a.708255795917601.1073741846.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 10/17/14 show with [[Mister Morbid]].
 
 ## More Information
-*[http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
+* [http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
 * [http://forum.austinimprov.com/viewtopic.php?f=13&t=4936 A thread for naming the show] from [[The Austin Improv Forums]].
+* [http://www.hideouttheatre.com/wow-theater-makes-a-difference A post about the show] by [[Jessica Arjet]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
