@@ -61,6 +61,16 @@ On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective ro
 
 ## More Information
 * [http://www.hideouttheatre.com/the-girl-who-plays-the-boy-wonder An interview] with [[Kaci Beeler]] about playing Robin.
+* Interviews with 'guest villains' from May/June 2011:
+** [http://www.hideouttheatre.com/guest-villain-shannon-mccormick An interview] with [[Shannon McCormick]].
+** [http://www.hideouttheatre.com/guest-villain-mike-kinald An interview] with [[Mike Kinald]].
+** [http://www.hideouttheatre.com/guest-villain-asaf-ronen An interview] with [[Asaf Ronen]].
+** [http://www.hideouttheatre.com/guest-villain-tom-booker An interview] with [[Tom Booker]].
+** [http://www.hideouttheatre.com/guest-villain-shana-merlin An interview] with [[Shana Merlin]].
+** [http://www.hideouttheatre.com/guest-villain-lauren-zinn An interview] with [[Lauren Buck]].
+** [http://www.hideouttheatre.com/guest-villain-justin-davis An interview] with [[Justin Davis]].
+** [http://www.hideouttheatre.com/guest-villain-kareem-badr An interview] with [[Kareem Badr]].
+** [http://www.hideouttheatre.com/guest-villain-jason-vines An interview] with [[Jason Vines]].
  
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
