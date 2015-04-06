@@ -20,4 +20,7 @@ In January 2012, Andrew Pish moved to Los Angeles.  While there, he's studied wi
 * *[[Live TV Tuesdays -  Buffy]]* (Angel)
 * *[[Spirited]]*
 
+## More Information
+* [http://www.hideouttheatre.com/student-stories-pish An 8/12/10 "Student Stories" post from Andrew.]
+
 [[Category/Performers|Pish]]
