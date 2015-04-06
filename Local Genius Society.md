@@ -83,7 +83,9 @@ Photoset] that includes their 12/8/12 show.
 ## More Information
 * [http://www.facebook.com/localgeniussociety The troupe's facebook page.]
 * [http://localgeniussociety.wordpress.com/ The troupe's home page.]
-* [http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar A 3/8/12 post] by [[Kayla Lane Freeman]] about their 2012 "Underground Improv" run at The Dive Bar.
+* Posts about their Feb/Mar 2012 "Underground Improv" run at The Dive Bar.
+** [http://www.hideouttheatre.com/local-genius-society-interview-on-their-show-at-the-dive-bar A 2/12/12 interview with the cast.]
+** [http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar A 3/8/12 post] by [[Kayla Lane Freeman]] 
  
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
