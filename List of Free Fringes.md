@@ -447,6 +447,7 @@ Parent and child is one of the closest relationships in the human experience. Bu
 #### Media
 * [http://vimeo.com/55421296 Video] by [[Peter Rogers]] of "Lovecraft Secrets".
 * [http://vimeo.com/56314414 Video] by [[Peter Rogers]] of "Parents & Kids".
+* [http://www.hideouttheatre.com/blog/page/19 Slideshow of secrets from "Lovecraft Secrets".]
 
 ### Dec 13, 2012
 #### *The Twelve Scenes of Christmas* ([[Jon Bolden]])
