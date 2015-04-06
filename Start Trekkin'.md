@@ -178,6 +178,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [http://www.facebook.com/starttrekkin The show's facebook page.]
 * [http://forum.austinimprov.com/viewtopic.php?p=39556 The premiere announcement for season 4.]
 * [http://forum.austinimprov.com/viewtopic.php?p=60656 Casting announcement for season 5.]
+* [http://www.hideouttheatre.com/starttrekkindrafthouse Announcement of the 11/10/09 one-off show at the Drafthouse.]
 * [http://www.hideouttheatre.com/shows/highballstarttrekkin The show's web page for season 6.]
 * [http://www.austinchronicle.com/arts/2005-05-06/269694/ A review of season 2, episode 4] in *The Austin Chronicle*.
 
