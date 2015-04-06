@@ -77,6 +77,7 @@ For the remaining shows, they just let the title and table-read dictate the genr
 * [http://forum.austinimprov.com/viewtopic.php?p=115286 The cast announcement] on [[The AIC Forums]].
 * [http://austin.culturemap.com/news/music_film/03-29-12-07-42-more-than-just-meta-process-is-pure-play/ An article about the show] by Amy Genry for *Culture Map Austin*.
 * [http://forum.austinimprov.com/viewtopic.php?p=119767 The announcement the added 6pm show on closing night] on [[The AIC Forums]].
+* [http://www.hideouttheatre.com/blog/page/28 2/26/12 post about the show] by [[Caitlin Sweetlamb]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
