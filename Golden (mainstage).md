@@ -16,6 +16,7 @@ From the show announcement:<blockquote>"A full-length improvised narrative, perf
 
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
+* [http://www.hideouttheatre.com/inspiration-is-golden-2 A post] by [[Marc Majcher]] listing the show's influences.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
