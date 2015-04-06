@@ -30,5 +30,6 @@ It ran from 4/12/12 to 4/14/12.
 * [http://vimeo.com/65469965 Video] of the second Ten Thousand Million Love Stories show.
 
 ## More Information
+* [http://www.hideouttheatre.com/2012ipfsubmissions The preliminary announcement on the Hideout blog.]
+* [http://www.hideouttheatre.com/announcing-the-2nd-annual-ipf The official announcement on the Hideout blog.]
 * [http://www.improvisedplayfestival.com/about/2012schedule/ The festival schedule.]
-* [http://www.hideouttheatre.com/announcing-the-2nd-annual-ipf The festival announcement on the Hideout blog.]
