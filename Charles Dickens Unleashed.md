@@ -115,6 +115,7 @@ On 11/17/11, cast members [[Curtis Luciani]], [[Kaci Beeler]], and [[Peter Roger
 * Photos of [[Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/dickens-set-pgraph/dickens-set-pgraph.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/dickens_set_actors/dickens_set_actors.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo-57/photo-57.jpg?disposition=download 3].
 
 ## More Information
+* [http://www.hideouttheatre.com/improviseddickensauditions Audition announcements.]
 * [http://forum.austinimprov.com/viewtopic.php?t=9918 Forum announcement of the premiere.]
 * [http://www.hideouttheatre.com/exciting-a-frame-updates Recap of the 11/7/09 premiere.]
 * [http://www.hideouttheatre.com/statesman-review-for-charles-dickens-unleashed Review of a 2009 performance by *The Austin Statesman*.]
