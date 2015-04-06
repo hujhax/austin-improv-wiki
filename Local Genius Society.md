@@ -88,7 +88,7 @@ Photoset] that includes their 12/8/12 show.
 ** [http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar A 3/8/12 post] by [[Kayla Lane Freeman]] 
 * "Ask Local Genius Society": interviews with cast members from December 2011:
 ** [http://www.hideouttheatre.com/meet_andrew_pish Interview] with [[Andrew Pish]].
-** [http://www.hideouttheatre.com/lgs-kayla  Interview] with [[Kayle Lane Freeman]].
+** [http://www.hideouttheatre.com/lgs-kayla  Interview] with [[Kayla Lane Freeman]].
 ** [http://www.hideouttheatre.com/lgs-karen-jane-dewitt Interview] with [[Karen Jane DeWitt]].
 
 [[Category/Troupes|Category:Troupes]]
