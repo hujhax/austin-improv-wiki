@@ -48,6 +48,9 @@ In May 2013, *[[The TV Set]]* was retired and replaced with *[[2x4]]*, a perform
 * Week 3: *[[2x4]]*
 * Week 4: *[[Maestro Raw]]*
 
+## More Information
+* [http://www.hideouttheatre.com/announcing-the-2012-season-and-schedule The announcement of the early-2012 schedule.]
+
 [[Category/Shows|Wheel]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
 [[Category/Active|Category:Active]]
