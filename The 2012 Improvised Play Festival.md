@@ -31,3 +31,4 @@ It ran from 4/12/12 to 4/14/12.
 
 ## More Information
 * [http://www.improvisedplayfestival.com/about/2012schedule/ The festival schedule.]
+* [http://www.hideouttheatre.com/announcing-the-2nd-annual-ipf The festival announcement on the Hideout blog.]
