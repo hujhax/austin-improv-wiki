@@ -148,6 +148,13 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://www.facebook.com/media/set/?set=a.917842691612581.1073742162.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 3/7/15 show.
 
 ### Other
+* [http://www.hideouttheatre.com/secrets_11_3_2012#comments A slideshow of the secrets from 11/3/12.]
+* [http://www.hideouttheatre.com/austin-secrets-season-3-the-secrets-from-wafflefest A slideshow of the secrets from 11/10/12.]
+* [http://www.hideouttheatre.com/secrets-from-nov-17-2012 A slideshow of the secrets from 11/17/12.]
+* [http://www.hideouttheatre.com/secrets-from-nov-24-2012 A slideshow of the secrets from 11/24/12.]
+* [http://www.hideouttheatre.com/the-austin-secrets-from-dec-1-2012 A slideshow of the secrets from 12/1/12.]
+* [http://www.hideouttheatre.com/blog/page/19 Slideshow of secrets from the 12/7/12 "Lovecraft Secrets" show.]
+* [http://www.hideouttheatre.com/the-austin-secrets-from-dec-8-and-dec-1th-2012 Slideshows of secrets from the 12/8/12 and 12/15/12 shows.]
 * [http://www.hideouttheatre.com/austin-secrets-from-dec-22-2012 A slideshow of the secrets from 12/22/12.]
 * [http://www.hideouttheatre.com/secrets-from-dec-29-2012-the-last-austin-secrets-show-of-season-3 A slideshow of the secrets from 12/29/12.]
 * Photos of [[Kaci Beeler]]'s set design for the 2011 run: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_2/photo%203_2.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_1/photo%202_1.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_2/photo%204_2.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201/photo%201.jpg?disposition=download 4].
