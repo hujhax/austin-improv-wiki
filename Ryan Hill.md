@@ -89,6 +89,7 @@ He is also a musician and has played for [[I Love You So Much]] with the band [[
 ** With [[In Our Prime]]
 
 ## More Information
+* [http://www.hideouttheatre.com/zen-and-improv-fingers-pointing-at-the-moon An 8/29/11 post from Ryan about zen and improv.] 
 * [http://www.hideouttheatre.com/the-game-changer-part-one A 5/30/12 interview] with Ryan about discovering and watching [[The 42-Hour Improv Marathon]].
 
 [[Category/Performers|Hill]]
