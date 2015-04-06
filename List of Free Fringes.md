@@ -1736,7 +1736,6 @@ What happens when a home is shared by a [[Reform School for Wayward Girls|reform
 #### Arjet Universe
 [[Jessica Arjet]] presents Love Stories, featuring the cast of *[[I Love You So Much]]*.
 
-
 #### Media
 * [http://youtu.be/Q4giLqTx2Rw Video] of the Plank-A-Thon.
 
