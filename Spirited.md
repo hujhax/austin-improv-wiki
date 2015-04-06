@@ -55,6 +55,7 @@ After about an hour of these explorations, there would be a transition back to t
 * Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_3/photo%201_3.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_4/photo%202_4.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/spirited_set/spirited_set.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205_1/photo%205_1.jpg?disposition=download 4], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_3/photo%204_3.jpg?disposition=download 5].
 
 ## More Information
+* [http://www.hideouttheatre.com/spirus A post about playing in the show] by [[Kayla Lane Freeman]].
 * [http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/ Review of the show] by [[Wayne Allen Brenner]] in *The Austin Chronicle* (9/14/11).
 * [http://www.hideouttheatre.com/statesman-review-for-spirited Review of the show] from *The Austin-American Statesman*.
 
