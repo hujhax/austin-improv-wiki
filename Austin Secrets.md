@@ -161,6 +161,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/austin-secrets-set-2012/austin-secrets-set-2012.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design for the 2012 run.
 
 ## More Information
+* [http://www.hideouttheatre.com/austin-holiday-secrets An announcement of their 2010 holiday show].
 * [http://www.hideouttheatre.com/honor-the-secret-by-jordan-t-maxwell A post about preparing for the 2011 run] by [[Jordan T. Maxwell]].
 * [http://www.hideouttheatre.com/the-curators-secret A 5/23/11 post about curating the show] by [[Roy Janik]].
 * [http://www.hideouttheatre.com/desperately-seeking-secrets A call for secrets for the 2011 run.]
