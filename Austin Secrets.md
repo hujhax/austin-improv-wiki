@@ -148,7 +148,8 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://www.facebook.com/media/set/?set=a.917842691612581.1073742162.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 3/7/15 show.
 
 ### Other
-* [http://www.hideouttheatre.com/secrets_11_3_2012#comments A slideshow of the secrets from 11/3/12.]
+* [http://www.hideouttheatre.com/the-secrets-thus-far Slideshows of the secrets from the January 2010 shows.]
+* [http://www.hideouttheatre.com/secrets_11_3_2012A slideshow of the secrets from 11/3/12.]
 * [http://www.hideouttheatre.com/austin-secrets-season-3-the-secrets-from-wafflefest A slideshow of the secrets from 11/10/12.]
 * [http://www.hideouttheatre.com/secrets-from-nov-17-2012 A slideshow of the secrets from 11/17/12.]
 * [http://www.hideouttheatre.com/secrets-from-nov-24-2012 A slideshow of the secrets from 11/24/12.]
