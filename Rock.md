@@ -36,5 +36,8 @@
 ### Other
 * Photos of [[Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera-set/rock-opera-set.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera-set-detail/rock-opera-set-detail.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera/rock-opera.jpg?disposition=download 3].
 
+## More Information
+* [http://www.hideouttheatre.com/born-to-rock A 6/8/12 post about the show] by [[Lindsey Reeves]].
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
