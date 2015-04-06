@@ -25,6 +25,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## More Information
 * [http://www.improvfromthefuture.com The act's web site.]
+* [http://www.hideouttheatre.com/rambling-about-revlis A post by Kristin about the show.]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
