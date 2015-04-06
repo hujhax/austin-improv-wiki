@@ -63,7 +63,8 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 * [http://www.facebook.com/photo.php?fbid=642713580249&set=t.507050184&type=3 Publicity poster.]
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=114683 The 2012 casting announcement for the 2012 run.]
+* [http://forum.austinimprov.com/viewtopic.php?p=114683 The 2012 casting announcement for the 2012 run] on [[The Austin Improv Forums]].
+** [http://www.hideouttheatre.com/after-school-improv-auditions The same, on the Hideout blog.]
 * [http://www.hideouttheatre.com/behind-the-scenes-after-school-improv A 3/9/12 post] by [[Cat Drago]] about the show.
 
 [[Category/Shows|Category:Shows]]
