@@ -162,6 +162,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 
 ## More Information
 * [http://www.hideouttheatre.com/austin-holiday-secrets An announcement of their 2010 holiday show].
+* [http://www.hideouttheatre.com/austin-secrets-auditions-tuesday-nov-23rd-from-7-10pm An announcement of the auditions for the 2011 run].
 * [http://www.hideouttheatre.com/honor-the-secret-by-jordan-t-maxwell A post about preparing for the 2011 run] by [[Jordan T. Maxwell]].
 * [http://www.hideouttheatre.com/the-curators-secret A 5/23/11 post about curating the show] by [[Roy Janik]].
 * [http://www.hideouttheatre.com/desperately-seeking-secrets A call for secrets for the 2011 run.]
