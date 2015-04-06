@@ -83,6 +83,9 @@ In 2014, the cast began production on *[http://blackvault.austinimprov.com Tales
 ## More Information
 * [http://www.hideouttheatre.com/shows/theblackvault The show's web page.]
 * [http://www.hideouttheatre.com/the-creeping-laughter A blog post] by [[Roy Janik]] about the rehearsal process.
+* "The Shadow Out of Austin", an abortive collaborative story by the cast from September 2012:
+** [http://www.hideouttheatre.com/the-shadow-out-of-austin Chapter 1], by [[Roy Janik]].
+** [http://www.hideouttheatre.com/the-shadow-out-of-austin-chapter-2 Chapter 2], by [[Jay Michael]].
 * [http://traffic.libsyn.com/thetheftforum/The_Black_Vault_-_Main_Stage_Focus.mp3 Interview] with director [[Marc Majcher]] and cast members [[Jessica Arjet]], [[Ryan Hill]], and [[Paul Normandin]] on *[[The Theft Forum]]*.
 
 ### Press
