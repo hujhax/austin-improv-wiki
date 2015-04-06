@@ -76,7 +76,7 @@
 * [http://www.facebook.com/media/set/?set=a.427332093954958.95954.100000345135257&type=3 Photoset of hours 37-43] from [[Claudio Fox]].
 * [http://www.facebook.com/media/set/?set=a.374667585930097.89589.221927764537414&type=3 Photoset of hours 41-43] from [[Steve Rogers]].
 
-### Other =
+### Other
 * [http://www.hideouttheatre.com/avengers-marathon-cards *Avengers*-themed trading cards for the event] by [[Deano Jones]].
 
 ## More Information
