@@ -45,6 +45,7 @@ After the troupe was dissolved, [[Susannah Raulino]], [[Topping Haggerty]], and 
 
 ## More Information
 * [http://dancy.austinimprov.co The troupe's web site.]
+* [http://www.hideouttheatre.com/alookbehindthedoor A post about their *Threefer* run] by [[Peter Rogers]].
 
 [[Category/Troupes|Dancy Street D'Orchestra]]
 [[Category/Played Their Last Show at Out of Bounds|Dancy Street D'Orchestra]]
