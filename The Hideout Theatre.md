@@ -34,9 +34,11 @@ On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House bus
 * [http://vimeo.com/81069788 Theater promo] from 2013.
 
 ## More Information
+* [http://www.hideouttheatre.com/blog The Hideout's blog.]
 * [[The Hideout Text Adventure|A text adventure written about the Hideout.]]
 * [http://yesandrew.com/2014/03/25/austin-improv-theaters-as-modern-american-humorists-day-2-the-hideout/ Post about the theater] by [[Andrew Buck]].
 * [http://yesandrew.com/in-praise-of-the-hideout-theatre/ "In Praise Of"] post by [[Andrew Buck]].
+* [http://www.hideouttheatre.com/happy-unification-day A blogpost about the 11/1/12 "unification day"], when the upstairs theater, the downstairs theater, and the coffeehouse were united under the Hideout management.
 
 ## Notes
 <references/>
