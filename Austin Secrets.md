@@ -161,6 +161,8 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/austin-secrets-set-2012/austin-secrets-set-2012.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design for the 2012 run.
 
 ## More Information
+* [http://www.hideouttheatre.com/the-curators-secret A 5/23/11 post about curating the show] by [[Roy Janik]].
+* [http://www.hideouttheatre.com/desperately-seeking-secrets A call for secrets for the 2011 run.]
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2199716 2013 interview] with director [[Roy Janik]] and cast members [[Alex Dobrenko]], [[Kayla Lane Freeman]], [[Paul Normandin]], [[Jayme Ramsay]], and [[Peter Rogers]] on *[[The Theft Forum]]*.
 
 ## Notes
