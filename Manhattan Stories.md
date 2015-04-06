@@ -40,7 +40,9 @@ It originally ran in July/August of 2012 but was extended through September.
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2048029 Interview] with directors [[Valerie Ward]] and [[Jon Bolden]] and cast members [[Nicole Beckley]] and [[Marc Majcher]] on *[[The Theft Forum]]*.
-* [http://yesandrew.com/2013/09/13/in-praise-of-manhattan-stories-woody-allen-and-restraint/ Post about the show] by [[Andrew Buck]].
+* [http://yesandrew.com/2013/09/13/in-praise-of-manhattan-stories-woody-allen-and-restraint/ "In Praise Of..." post about the show] by [[Andrew Buck]].
+** [http://www.hideouttheatre.com/an-insiders-look-at-manhattan-stories-improvised-woody-allen A Hideout blogpost about the show] by [[Andrew Buck]].
+* [http://www.hideouttheatre.com/manhattan-stories-the-game Post about "Sex & Death"], a show-associated game by [[Marc Majcher]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
