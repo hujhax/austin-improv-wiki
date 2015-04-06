@@ -4,7 +4,7 @@
 |Theater=	[[The Hideout Theatre]]
 |Cast=		Varied
 |Director =	[[Marc Majcher]]	
-|Run	=	Sep 2010-Jan 2012
+|Run	=	Sep 2010-Dec 2012
 }}
 
 ***The Nightmare Video Project*** was a shortform show at [[The Hideout Theater]] that was directed by pre-recorded footage.
@@ -23,7 +23,7 @@ Towards the end of the *Nightmare* run, Mr. Majcher began experimenting with the
 
 The show was included in *[[The Hideout Improv Marathon]]* several times before debuting as part of *[[The Wheel]]*.
 
-Unfortunately, the video production schedule required for *The Nightmare Video Project* became untenable, and [[Roy Janik]] retired the format in January of 2012.
+Unfortunately, the video production schedule required for *The Nightmare Video Project* became untenable, and [[Roy Janik]] retired the format.  The show closed on 12/16/11.
 
 ## Media
 ### Videos
