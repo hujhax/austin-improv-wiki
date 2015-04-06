@@ -43,6 +43,7 @@ Unfortunately, the video production schedule required for *The Nightmare Video P
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/nightmarevideoproject The show's web page.]
+* [http://www.hideouttheatre.com/in-praise-of-marc-majcher A Hideout blogpost about the show, commemorating its closing night.]
 
 [[Category/Shows|Nightmare Video Project]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
