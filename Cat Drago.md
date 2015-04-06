@@ -24,5 +24,8 @@ Cat began doing improv after watching long stretches of [[The 42-Hour Improv Mar
 * *[[Nothing and Everything]]*
 * *[[The Tribunal]]*
 
+## More Information
+* [http://www.hideouttheatre.com/the-game-changer-part-two A 6/1/12 interview] with Cat about discovering and watching [[The 42-Hour Improv Marathon]].
+
 [[Category/Performers|Drago]]
 [[Category/Active|Category:Active]]
