@@ -49,6 +49,7 @@ About half the cast of *The Andersons* played the same, pre-established characte
 
 ## More Information
 * [http://hideouttheater.com/shows/theandersons The show's web page.]
+* [http://www.hideouttheatre.com/christmas-with-the-andersons Announcement of their Christmas show.]
 
 [[Category/Shows|Andersons]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
