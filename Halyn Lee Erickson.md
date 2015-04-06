@@ -39,6 +39,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>My dad t
 * *[[The Tribunal]]*
 
 ## More Information
+* [http://misshalyn.tumblr.com/post/684528455/on-improv-and-what-it-has-been-to-me-from A 6/10/10 tumblr post titled "on improv and what it has been to me from childhood-present".]
 * [http://yesandrew.com/halyn-erickson/ Interview] by [[Andrew Buck]].
 
 [[Category/Performers|Erickson]]
