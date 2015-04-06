@@ -95,3 +95,5 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 * The schedule announcement, [http://forum.austinimprov.com/viewtopic.php?t=11947&p=107065 on the forums] and [http://www.hideouttheatre.com/42-hour-improv-marathon-schedule on the Hideout web site].
 * [http://www.austinchronicle.com/calendar/comedy/42-hour-improv-marathon-1196265/ A story about the marathon] in *The Austin Chronicle*.
 * [http://hujhax.livejournal.com/760057.html A recap of the event] from core player [[Peter Rogers]].
+* [http://www.hideouttheatre.com/the-game-changer-part-one A 5/30/12 interview] with [[Ryan Hill]] about discovering and watching the event.
+* [http://www.hideouttheatre.com/the-game-changer-part-two A 6/1/12 interview] with [[Cat Drago]] about discovering and watching the event.
