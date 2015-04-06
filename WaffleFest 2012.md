@@ -41,3 +41,4 @@ The festival also included several acts from *[[The Free Fringe]]*.
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=2&t=14272 Post about Ladies' Night] on [[The Austin Improv Forums]].
+** [http://www.hideouttheatre.com/announcing-tonights-super-secret-wafflefest-show Hideout blogpost] about the same.
