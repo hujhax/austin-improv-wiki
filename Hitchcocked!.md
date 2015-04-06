@@ -44,6 +44,7 @@ The show included several guest performers who weren't part of the main cast:
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/hitchcocked The show's web page.]
+* [http://www.hideouttheatre.com/saul-bass-inspired-set-design-for-hitchcocked A post from Kaci about the set design.]
 * [http://www.hideouttheatre.com/hitchcocked-podcast A podcast interview about the show] with co-director [[Troy Miller]].
 * [http://forum.austinimprov.com/viewtopic.php?p=90840 The announcement of the show's premiere] on [[The AIC Forums]].
 * [http://forum.austinimprov.com/viewtopic.php?p=90441 The call for technical improvisors] on [[The AIC Forums]].
