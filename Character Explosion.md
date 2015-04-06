@@ -16,11 +16,11 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=Q4giLqTx2Rw Video #1]
-* [https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw Youtube Channel]
+* [http://www.youtube.com/watch?v=Q4giLqTx2Rw The troupe's "plank-a-thon" from the 2/12/15 *[[Free Fringe]]*.]
+* [https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw The troupe's YouTube channel]
 
 ## More Information
-* [http://www.facebook.com/CharacterExplosion Character Explosion FaceBook.]
+* [http://www.facebook.com/CharacterExplosion The troupe's facebook page.]
 
 
 [[Category/Troupes|Category:Troupes]]
