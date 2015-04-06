@@ -88,5 +88,7 @@ He is also a musician and has played for [[I Love You So Much]] with the band [[
 * [[WaffleFest]] 2014
 ** With [[In Our Prime]]
 
-## Media
+## More Information
+* [http://www.hideouttheatre.com/the-game-changer-part-one A 5/30/12 interview] with Ryan about discovering and watching [[The 42-Hour Improv Marathon]].
+
 [[Category/Performers|Hill]]
