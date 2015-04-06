@@ -73,7 +73,7 @@ Videography was expressly forbidden at *Live Nude Improv*, so there are no extan
 ## More Information
 * [http://www.hideouttheatre.com/shows/livenudeimprov The show's web site.]
 * [http://www.hideouttheatre.com/thoughts-on-live-nude-improv "Thoughts on Live Nude Improv"]: a blog post interviewing the cast on why they chose to participate in *Live Nude Improv*.
-* [http://www.hideouttheatre.com/blog/page/20 "Nude Rangers: Assemble!"]: a blog post from [[Jordan T. Maxwell]] about the cast.
+* [http://www.hideouttheatre.com/nuderangersassemble "Nude Rangers: Assemble!"]: a blog post from [[Jordan T. Maxwell]] about the cast.
 * [http://www.austinchronicle.com/blogs/arts/2011-08-11/live-nude-improv/ An article from *The Austin Chronicle* about the show.]
 * [http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1261035 The "Best of Austin" award for the show.]
 * [http://theflintpodcast.com/2012/02/20/ep-17-live-nude-improv-with-andy-crouch/ An interview with Andy Crouch about the show.]
