@@ -96,7 +96,8 @@ I never thought, "I can do this." I figured they were just really funny and tale
 ## More Information
 * Interviews by [[Andrew Buck]]: [http://yesandrew.com/the-sunday-interview-kaci-beeler/ 1], [http://yesandrew.com/sunday-interview-kaci-beeler/ 2].
 * [http://www.hideouttheatre.com/improv-audition-techniques-and-tips A post of audition tips] from the Hideout blog.
-* [http://www.hideouttheatre.com/layer-upon-layer-of-paint-the-hideout-theatre-set-designs#comments A post by Kaci about her set-design work.]
+* [http://www.hideouttheatre.com/layer-upon-layer-of-paint-the-hideout-theatre-set-designs A post by Kaci about her set-design work.]
+** [http://www.hideouttheatre.com/journey-through-the-2010-set-designs A post recapping her 2010 mainstage set designs.]
 
 [[Category/Performers|Beeler]]
 [[Category/Directors|Beeler]]
