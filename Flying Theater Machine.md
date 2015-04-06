@@ -79,6 +79,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 ## More Information
 * [http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
 * [http://forum.austinimprov.com/viewtopic.php?f=13&t=4936 A thread for naming the show] from [[The Austin Improv Forums]].
+* [http://www.hideouttheatre.com/wonderland-is-looking-wonderful A 9/2/09 post about rehearsing their "Wonderland" format.]
 * [http://www.hideouttheatre.com/summer-camp A post about the show's first summer camp.]
 * [http://www.hideouttheatre.com/wow-theater-makes-a-difference A post about the show] by [[Jessica Arjet]].
 ** [http://www.hideouttheatre.com/why-the-theater-machine-flies A 12/13/10 video interview with Jessica about the show.]
