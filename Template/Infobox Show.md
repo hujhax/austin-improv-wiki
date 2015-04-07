@@ -7,7 +7,8 @@ This template lists standard, useful information about an improv show.
 |Picture	=						
 |Theater =						
 |Director =					
-|Assistant Director =	
+|Assistant Director =				
+|Tech Director =	
 |Producer =					
 |Music =      					
 |Tech =      					
@@ -32,6 +33,8 @@ This template lists standard, useful information about an improv show.
 | *Director*           || The person or persons who directed the show.
 |-
 | *Assistant Director* || List any assistant director here.
+|-
+| *Tech Director* || List any tech director here.
 |-
 | *Producer*           || The entity (such as [[Gnap!]]) that produced the show, if that's different from the theater.
 |-
@@ -71,6 +74,12 @@ This template lists standard, useful information about an improv show.
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category">{{{Assistant Director|Unknown}}}</td>
+		</tr>
+|}}
+{{#if: {{{Tech Director|}}} |
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">{{{Tech Director|Unknown}}}</td>
 		</tr>
 |}}
 {{#if: {{{Producer|}}} |
