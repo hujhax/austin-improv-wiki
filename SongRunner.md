@@ -1,14 +1,15 @@
 {{Infobox Show
-|Name               = Cyber House Rules
+|Name               = SongRunner
 |Picture            = Cyber House Rules.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Ammon Taylor]] | [[Kacey Samiee]] }}
-|Run                = June 2015
+|Assistant Director = [[Jordan T. Maxwell]]
+|Run                = Jun 2015
 |Cast               = TBA
 |Tech               = TBA
 }}
 
-***Cyber House Rules*** will be the June 2015[[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***SongRunner*** will be the June 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
