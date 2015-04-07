@@ -8,10 +8,14 @@
 |Cast	=		{{Unbulleted list | [[Adrienne Brown]] | [[Chris Albano]] | [[David Schwartz]] | [[Emma Czarnecki]] | [[Judith Schomp]] | [[Lindsay Hejl]] | [[Manuel Duran]] | [[Melissa Patterson]] | [[Michael Guy Bowman]] }}
 }}
 
-***What the F@*$*** (the symbols can vary) is the first student mainstage production at [[The Hideout Theatre]].
+***What the F@*$*** (the symbols can vary) was the first student mainstage production at [[The Hideout Theatre]].
 
 ## Summary
-In 'What the F#*@!', an improvised story is split into two halves. In the first half, we see the everyday world and problems of our main character and the people around him or her. During the intermission, the audience helps decide what the 'twist' is. It could be anything... robots, a secret society of magicians, a vast government conspiracy... whatever. The cast then integrates that into the second half, and we watch the chaos ensue.
+In 'What the F#*@!', an improvised story was split into two halves. The first half featured the everyday world and problems of the main character and the people around them.
+
+During the intermission, the audience would help decide on a whimsical twist to the story, which could be anything from robots to a secret society of magicians to a vast government conspiracy.
+
+The cast would then integrate that into the show's second half, when chaos would ensue.
 
 ## Media
 ### Videos
