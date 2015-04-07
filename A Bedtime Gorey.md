@@ -10,8 +10,20 @@
 ***A Bedtime Gorey*** was a mainstage show at [[The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
 
 ## Summary
+Each performance featured the entire cast (or as many as were available), in stylized black-and-white makeup and Edwardian costume.  As the audience entered the theater and took their seats, the cast greeted them as if they (the audience) were children entering a playroom.  Meanwhile, a narrator was hidden stage right in a high-backed chair facing upstage.  Once the audience was seated and after a lights-down/lights-up, the narrator would spin the chair, reveal themselves, and open the show with an introductory poem that explained the format.
+
+The players then began a monoscene set among heightened, upper-class society types (but not royalty) in an Edwardian-era parlor.  The monoscene would feature occasional "parlor games" -- typically known improv games re-framed to fit the historical context.  Then, the monoscene would be interrupted by a morbidly whimsical "shadow scene" -- in this, they'd clear the stage and drop and backlight a large white scrim, and the narrator would tell a story while the cast acted out that story via shadow puppetry (using both their bodies and props).  After the first shadow story resolved, the show would return briefly to the parlor monoscene, and then break for intermission.
+
+After intermission, the show would restart with a choreographed dance, followed by another shadow scene, a return to the parlor monoscene, and a final shadow story.  The whole performance typically ran about ninety minutes.
+
+### Tech
+The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from [[Wikipedia - Danny Elfman|Danny Elfman]], [[Wikipedia - Thomas Newman|Thomas Newman]], and [[Wikipedia - Rachel Portman|Rachel Portman]].  The choreographed dance featured a mix of songs chosen by [[Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [http://youtu.be/rAmGsM4Dids Gorey's opening sequence for PBS's *Mystery!*]
+
+Sound effects were limited to environmental sound effects, with rare effects for actions like gunshots or breaking glass.
+
 ### Preview Description
-"At a party, the adults play frivolous parlor games and quaff copious amounts of brandy.  Meanwhile in the nursery, the children have been left with their coldly efficient Governess, who tells them terrible tales to keep them in their place.  Inspired by the delightfully sinister illustrations of Edward Gorey."[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule]
+"At a party, the adults play frivolous parlor games and quaff copious amounts of brandy.  Meanwhile in the nursery, the children have been left with their coldly efficient Governess, who tells them terrible tales to keep them in their place.  Inspired by the delightfully sinister illustrations of Edward Gorey."
+
 ### Press Blurb
 A dozen of Austin’s finest improvisers embody that ethos as *A Bedtime Gorey* alternates between a frivolous party that’s somehow not quite right, and the nursery where the children of the partygoers are under total control of the Governess, who tells them terrible tales for their own good. Edward Gorey’s unique combination of the horrible and the mundane is brought to life in an evening of general unease and great amusement!
 
