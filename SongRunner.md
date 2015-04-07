@@ -4,9 +4,11 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Ammon Taylor]] | [[Kacey Samiee]] }}
 |Assistant Director = [[Jordan T. Maxwell]]
+|Tech Director      = [[Cindy Page]]
+|Music              = [[Content Love Knowles]]
 |Run                = Jun 2015
-|Cast               = TBA
-|Tech               = TBA
+|Cast               = {{Unbulleted list | [[Creighton Moench]] | [[Emma Czarnecki]] | [[Haley Alea Erickson]] | [[J. R. Zambrano]] | [[John Mendell]] | [[Joy Parks]] | [[Lindsay Hejl]] | [[Rachel Elaine Creason]] | [[Steve Jaffe]] }}
+|Tech               = {{Unbulleted list | [[Greg Blank]] | [[Kyle Grier]] }}
 }}
 
 ***SongRunner*** will be the June 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
