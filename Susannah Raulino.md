@@ -1,11 +1,38 @@
+{{Infobox Performer
+|Name	=	Susannah Raulino	
+|Picture =	Susannah Raulino Pic.jpg
+|Years	=	2005 - Present
+}}
+
+**Susannah Raulino** is an improv performer, director, and teacher.
+
+## Summary
+Susannah currently teaches workshops in Creativity, Writing, Singing Improv and Yoga through her company Create a Gogo and through UT Informal Classes.
+
+## History
 Susannah Raulino has been writing, producing, directing and acting for over 25 years and has studied film, video, and theater in Los Angeles, Seattle, and Austin.
 
 She has written a dozen screenplays, and her projects have screened on cable television and in national and international film festivals.
 
-Susannah currently teaches workshops in Creativity, Writing, Singing Improv and Yoga through her company Create a Gogo and through  UT Informal Classes.  
+In 2010, Susannah published her book It Writes Itself: A Travel Guide to Writing Fiction.
 
-In 2010, Susannah published her book *It Writes Itself: A Travel Guide to Writing Fiction*.
-
-Making her home in Austin since 2005, she has studied improv comedy at Merlin-Works Institute for Improvisation, Coldtowne Theater, The Hideout Theatre and The Institution Theater.  Susannah currently  creates theater, improvised theater, music, and film in Austin, Texas.
+Making her home in Austin since 2005, she has studied improv comedy at Merlin-Works Institute for Improvisation, Coldtowne Theater, The Hideout Theatre and The Institution Theater. Susannah currently creates theater, improvised theater, music, and film in Austin, Texas.
 
 She like miniature golf, odd people, and stinky cheese.
+
+## Troupes
+* [[DA Foundry]]
+* [[The Dancy Street D'Orchestra]]
+* [[My Friend Stripey]]
+* [[Snap Snap Nation]]
+* [[Umami]]
+* [[The Wine Smugglers]]
+
+## Shows
+* *[[BatShyt Crazy]]*
+* *[[Heist!]]*
+* *[[Lola]]*
+
+[[Category/Performers|Raulino]]
+[[Category/Directors|Raulino]]
+[[Category/Teachers|Raulino]]
