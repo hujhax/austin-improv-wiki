@@ -3,7 +3,7 @@
 |Picture =	Late Night Time Machine.jpg
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Clifton Highfield]] (season 1) | [[Mason Pitluk]] (season 2) }}
-|Cast =	{{Unbulleted list | [[James C. Leary]] | [[Syndey Huddleston]] | various guests }}
+|Cast =	{{Unbulleted list | [[James C. Leary]] | [[Syndey Huddleston]] | [[Mike Carreon]] | [[Ceej Allen]] | [[Alex Ayala]] | various guests }}
 |Run	= Sep 2014
 |Subsequent Runs = Mar-Apr 2015
 }}
