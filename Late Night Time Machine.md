@@ -11,9 +11,9 @@
 ***Late Night Time Machine*** is an improvised historical talk show at [[The Institution Theater]].
 
 ## Summary
-The show features Teddy Hancox ([[James C. Leary]]) as a talk-show host from 1968 (aka "the golden era of late-night").  Each show features improvisors who arrive in character as historical figures or celebrities from past, present, and future.  (Via the show's "time machine".)  [[Sydney Huddleston]] appears as the show's intern/PA.
+Late Night Time Machine with Teddy Hancox is an entirely written and entirely improvised live comedy show created by [[Tess Hermes]], James C. Leary, and [[Mason Pitluk]]. The show features Teddy Hancox ([[James C. Leary]]), a talk-show host from 1968 (aka "the golden era of late-night"). Each show features new guest improvisors who arrive in character as historical figures or celebrities from past, present, and future. [[Sydney Huddleston]] co-stars as Matilda "Tildy" Weatherspoon, the show's intern/PA turned producer, and [[Mike Carreon]] as Teddy's sidekick, Bud Grouper.
 
-The show also includes scripted behind-the-scenes storylines and horribly dated commercial sketches.
+The show includes on-air interviews, off-air interactions both on-set, in the green room, and behind the scenes, and commercial sketches typical of 1968.
 
 ## Media
 ### Photos
