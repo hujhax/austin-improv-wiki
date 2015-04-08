@@ -5,7 +5,7 @@
 |Director =	{{Unbulleted list | [[Clifton Highfield]] (season 1) | [[Mason Pitluk]] (season 2) }}
 |Cast =	{{Unbulleted list | [[James C. Leary]] | [[Syndey Huddleston]] | [[Mike Carreon]] | [[Ceej Allen]] | [[Alex Ayala]] | various guests }}
 |Run	= Sep 2014
-|Subsequent Runs = Mar-Apr 2015
+|Subsequent Runs = Apr-May 2015
 }}
 
 ***Late Night Time Machine*** is an improvised historical talk show at [[The Institution Theater]].
