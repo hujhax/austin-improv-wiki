@@ -15,6 +15,10 @@ Late Night Time Machine with Teddy Hancox is an entirely written and entirely im
 
 The show includes on-air interviews, off-air interactions both on-set, in the green room, and behind the scenes, and commercial sketches typical of 1968.
 
+## Origins
+## Season 1
+## Christmas Special Spectacular
+## Season 2
 ## Media
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202688469755636.1073741908.1315383518&type=3 Photoset] by [[Michael Yew]] of a show.
