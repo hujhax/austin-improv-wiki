@@ -8,8 +8,11 @@
 **Physics Curse** is an improv troupe consisting of [[Rosemarie Frezza]], [[Aspen Webster]], [[Ann Nelson]] and [[Rachel Posey Austin]].
 
 ## Summary
-A bunch of ladies doing some sweet improv. We have amazing chemistry and we're not afraid to experiment. This is PHYSICS CURSE. 
+Based out of Austin, Texas, Physics Curse explores the intricacies of relationships with a fast-paced sometimes absurd improv format that starts with a simple compliment between troupe members. Focused on positivity, meaningful character connections and high energy, Physics Curse has amazing chemistry and is not afraid to experiment.
 
-## History
+
+
+
+
 [[Category/Troupes|Physics Curse]]
 [[Category/Active|Physics Curse]]
