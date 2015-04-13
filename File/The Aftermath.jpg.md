@@ -1,5 +1,5 @@
 ## Summary
-Publicity image for *[[The Aftermath]]*.
+Publicity poster for *[[The Aftermath]]*.
 
 Photo by [[Steve Rogers]].
 
