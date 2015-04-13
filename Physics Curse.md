@@ -11,8 +11,8 @@
 Based out of Austin, Texas, Physics Curse explores the intricacies of relationships with a fast-paced sometimes absurd improv format that starts with a simple compliment between troupe members. Focused on positivity, meaningful character connections and high energy, Physics Curse has amazing chemistry and is not afraid to experiment.
 
 ## More Information
-* [https://www.facebook.com/physicscurse?fref=ts The troupe's facebook group]
-* [https://physicscurse.squarespace.com/ The troupe's website]
+* [https://www.facebook.com/physicscurse?fref=ts Physics Curse Facebook Page]
+* [https://physicscurse.squarespace.com/ Physics Curse website]
 
 
 [[Category/Troupes|Physics Curse]]
