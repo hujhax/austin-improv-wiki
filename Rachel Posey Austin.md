@@ -1,7 +1,7 @@
 
 {{Infobox Performer
 |Name	=	Rachel Posey Austin	
-|Picture =	![[Example.jpg]]
+|Picture =	Rachel Posey Austin.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2013-Present
 }}
