@@ -7,6 +7,7 @@
 
 **Girls Girls Girls** is an all-female musical-improv troupe.
 
+![[Secret Life of Soccer Moms Poster.jpg|Poster for "The Secret Lives of Soccer Moms".]]
 ## Summary
 Girls Girls Girls is Austin's longest-running all-female musical-improv troupe.  The Gals of GGG create full-length improvised musicals from a single audience suggestion. In other words using the talent of real live musicians, GGG makes up all of the songs, dances, characters, and stories to create one complete, blow-your-socks-off improvised musical.
 
