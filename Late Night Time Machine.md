@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name = Late Night Time Machine
-|Picture =	Late Night Time Machine Poster.jpg
+|Picture =	Late Night Time Machine.jpg
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Clifton Highfield]] (season 1) | [[Mason Pitluk]] (season 2) }}
 |Cast =	{{Unbulleted list | [[James C. Leary]] | [[Syndey Huddleston]] | [[Mike Carreon]] | [[Ceej Allen]] | [[Alex Ayala]] | various guests }}
@@ -11,7 +11,6 @@
 ***Late Night Time Machine*** is an improvised historical talk show at [[The Institution Theater]].
 
 ## Summary
-![[Late Night Time Machine.jpg|Teddy Hancox and Tildy Weatherspoon]]
 Late Night Time Machine with Teddy Hancox is an entirely written and entirely improvised live comedy show created by [[Tess Hermes]], James C. Leary, and [[Mason Pitluk]]. The show features Teddy Hancox ([[James C. Leary]]), a talk-show host from 1968 (aka "the golden era of late-night"). Each show features new guest improvisors who arrive in character as historical figures or celebrities from past, present, and future. [[Sydney Huddleston]] co-stars as Matilda "Tildy" Weatherspoon, the show's intern/PA turned producer, and [[Mike Carreon]] as Teddy's sidekick, Bud Grouper.
 
 The show includes on-air interviews, off-air interactions both on-set, in the green room, and behind the scenes, and commercial sketches typical of 1968.
