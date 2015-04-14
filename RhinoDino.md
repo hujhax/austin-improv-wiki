@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name =		RhinoDino
 |Picture =  FB.ImAGE.jpg
-|Cast =	{{Unbulleted list|[[Courtney Hopkin]]|[[Kyle Traughber]]|[[Lacy Shawn]]|[[Quinn Buckner]]}}
+|Cast =	{{Unbulleted list|[[Courtney Hopkin]]|[[Kyle Traughber]]|[[Lacy Shawn]]|[[Patrick Creamer]]|[[Quinn Buckner]]}}
 |Past Members = {{Unbulleted list|[[Colin Bates]]}}
 |Years = 2012-Present
 }}
