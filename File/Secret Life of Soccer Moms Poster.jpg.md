@@ -1,7 +1,7 @@
 ## Summary
 Poster for the [[Girls Girls Girls]] run of "The Secret Lives of Soccer Moms".
 
-Photos by: unknown.
+Photos by: [[Steve Rogers]].
 
 Art by [[Asaf Ronen]].
 
