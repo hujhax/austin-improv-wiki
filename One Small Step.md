@@ -3,14 +3,36 @@
 |Picture            = One-Small-Step-Poster-2015-web-small.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Andreas Fabis]] | [[Jessica Arjet]] }}
-|Run                = February 2015
+|Run                = Feb 2015
 |Cast               = {{Unbulleted list | [[Amanda Hinsman]] | [[Aspen Webster]] | [[Cagney Ortiz]] | [[Chris Canada]] | [[Cindy Page]] | [[Courtney Ray Goodson]] | [[David Ronn]] | [[Luis Salinas]] }}
-|Tech               = {{Unbulleted list | [[Donnie Garcia]] | [[Ripley Adams]] | [[Michael Yew]]}}
+|Tech               = {{Unbulleted list | [[Donnie Garcia]] (sound) | [[Ripley Adams]] (lights) }}
+|Tech Director = [[Michael Yew]]
 }}
 
 ***One Small Step*** was the February 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]]. The run was extended with an extra show on March 7th. 
 
 ## Summary
+The show played its space genre in a generally straightforward way, rather than acting as a knowing sendup.  It drew from a variety of works in and around the genre, including *[[Wikipedia - Firefly (TV series)|Firefly]]*, *[[Wikipedia - The Abyss|The Abyss]]*, and (especially) *[[Wikipedia - Space Station 76|Space Station 76]]*.
+
+### Show Structure
+The show ran approximately 75 minutes in the upstairs theater, with a ten-minute intermission.  All eight cast members played every night.
+
+After the directors did the usual hosting and warmup, the show opened with the cast taking the stage (to David Bowie's "Space Oddity") and standing in a dramatic wedge formation.  The frontmost performer would ask the audience for the type of voyage (e.g., warship, missionary trip, etc.) and an everyday problem that a crew member might have (e.g., daddy issues, drug addiction, etc.).
+
+The show then began with the ship's launch from earth.  What followed was a narrative show that followed several concurrent storylines over the ship's years-long journey, focusing on the personal and relationship troubles the passengers and crew experienced along the way.  While the show was not designed to follow a single protagonist, one storyline often became predominant in a given show.
+
+At some point in each performance, the ship's alarm would sound.  At that point, the performers would abandon the current scene and show a quick montage of different characters' response to the alarm.  There were also computer-diary monologs.
+
+Each performance ended with the first step on the destination planet.
+
+### Costumes
+Each stage performer had a uniform consisting of black clothes decorated with brightly-colored duct tape, as per their own designs.
+
+### Tech
+The show included light scoring.  Party scenes typically had jazz/bossa nova music.  The last scene before intermission featured a slow-motion sequence set to the initial fanfare of [[Wikipedia - Also sprach Zarathustra (Strauss)|"Also Sprach Zarathustra"]].  The landing at the end of the show had appropriately dramatic orchestral sounds.
+
+The show also included a special sound effect and thrust spotlighting for the computer-diary sequences, and appropriate sound effects for the initial countdown/takeoff.  The alarm sequence featured a klaxon sound effect, a red wash, and foreboding ambient music.
+
 ### Publicity Blurb
 From the Hideout web page:<blockquote>"Space – terrifying and vast, only the bravest men and women will face this final frontier. Locked together in their lonely space ship these intrepid explorers will face a journey full of discovery, danger and romance. One Small Step follows these bold space travelers as they improvise their way from lift-off to touchdown on their new distant planet.
 
