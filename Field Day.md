@@ -9,7 +9,7 @@
 **Field Day** is an improv troupe.
 
 ## History
-The troupe formed from the cast of the student mainstage *[[What the F@$]]*.
+The troupe formed originally from the cast of the student mainstage *[[What the F@$]]*, its membership gradually changed to [[Judith Schomp]], [[Chris Albano]], [[Lindsay Hejl]], and [[David Schwartz]]. Over its year of activity, Field Day performed at a variety of comedy festivals, such as the [[Dallas Comedy Festival]], hosted its own comedy variety show called [[Field Day and Friends]], and was invited to perform offsite at venues such as the [[North Door]].
 
 ## Media
 ### Photos
