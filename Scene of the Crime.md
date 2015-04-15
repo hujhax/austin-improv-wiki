@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = Scene of the Crime
-|Picture            = Scene of the Crime.jpg
+|Picture            = Scene of the Crime Poster.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Troy Miller]]
 |Run                = May/Jun 2015
