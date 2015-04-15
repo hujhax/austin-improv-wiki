@@ -9,7 +9,7 @@
 **Field Day** is an improv troupe.
 
 ## History
-Over its year of activity, Field Day performed at a variety of comedy festivals, such as the [[Dallas Comedy Festival]] and [[WaffleFest]], hosted its own comedy variety show called [[Field Day and Friends]], and was invited to perform offsite at venues such as the [[North Door]]. They were listed on [[Andrew Buck]]'s top five improv shows post in December, 2014. The troupe members met originally by performing in the first student mainstage *[[What the F@$]]*.
+Over its year of activity, Field Day performed at a variety of comedy festivals, such as the [[Dallas Comedy Festival]] and [[WaffleFest]], hosted its own comedy variety show called [[Field Day and Friends]], and was invited to perform offsite at venues such as the [[North Door]]. They were listed on [[Andrew Buck]]'s top five improv shows post in December, 2014. The troupe members met originally by performing in the first student mainstage *[[What the F@$]]*. Field Day has been gearing down its performances given a few of its members moving to new cities for further improv opportunities.
 
 ## Media
 ### Photos
