@@ -12,9 +12,9 @@
 ***A Penny Dreadful*** was the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].  It drew inspiration from the [[Wikipedia - Gothic fiction|Gothic horror]] genre.
 
 ## Summary
-This was an hour and a half show with a ten-minute intermission.  It ran in the upstairs theater.  Each performance included all ten cast members, although each show had two designated "snoggers" (scene-ographers) who provided scene painting throughout the show, never playing characters.
+This was an hour and a half show with a ten-minute intermission.  It ran in the upstairs theater.  Each performance included all ten cast members, although each show had two designated "snoggers" (scene-ographers) who donned black masks and created environments and emotions using their bodies. 
 
-The cast took the stage to the [[Wikipedia - Toccata and Fugue in D minor, BWV 565|Toccata and Fugue]].  They then took a suggestion -- "Imagine a spooky mansion. What sort of rooms would be in such a place?" -- and began the show.  The story followed a single protagonist, and usually focused on love, one of the show's main grounding themes.  The pacing alternated between slow-paced intensity and higher-energy horror scenes.
+The cast took the stage to the [[Wikipedia - Toccata and Fugue in D minor, BWV 565|Toccata and Fugue]].  They then took a suggestion -- "Imagine a spooky mansion. What sort of rooms would be in such a place?" -- and began the show. The story followed a single protagonist and usually focused on love, one of the show's main grounding themes. The pacing alternated between slow-paced intensity and higher-energy horror scenes. The format utilized character monologues to better understand backstories and relationships as well as character naiveté to allow horror to escalate throughout the show.
 
 ### Selected Source Material
 * *[[Wikipedia - And Now the Screaming Starts!|And Now the Screaming Starts!]]* 
@@ -27,7 +27,7 @@ The cast took the stage to the [[Wikipedia - Toccata and Fugue in D minor, BWV 5
 The stage performers wore formal blacks, reds, and grays that suggested the 19th century.
 
 ### Tech
-The show was scored with classical music, and used red washes to emphasize murder scenes.
+The show was scored with classical music, and used red washes to emphasize murder scenes. Washes were preferred over spotlight scenes as per the genre.
 
 ### Publicity Blurb
 From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - Bram Stoker|Bram Stoker]] and [[Wikipedia - Edgar Allen Poe|Edgar Allen Poe]], by the British [[Wikipedia - Hammer Studios|Hammer Studios]] horror films of the 1960s, and featuring a dash of [[Wikipedia - Scooby Doo|Scooby Doo]], comes an improvised gothic horror tale replete with rich characters, terrible secrets, and all kinds of spooky goings-on."</blockquote>
