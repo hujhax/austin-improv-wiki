@@ -17,8 +17,12 @@ The show is a series of four nordic-style LARPs played on stage: The Tribunal, P
 ### The Tribunal
 This show played on May 9, 2015. 
 #### Cast
-* [[Heidi Penix]]
+* [[Chris Albano]]
 * [[Leonard Balsera]]
+* [[Jeff Britt]]
+* [[Cat Drago]]
+* [[Heidi Penix]]
+* [[Lacy Shawn]]
 
 ### Previous Occupants
 This show played on May 16, 2015. 
