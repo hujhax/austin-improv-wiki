@@ -14,8 +14,7 @@
 ## Summary
 Each show was written by [[Courtney Hopkin]] and leveraged a different music artist's songs as well as time/location for each show. 
 
-Each show ran for two performances, every other month in 2015.
-
+The indivdiual musicals ran for two performances each, every other month in 2015.
 
 ## Shows
 ### The Black Death
