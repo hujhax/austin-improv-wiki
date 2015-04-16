@@ -19,7 +19,7 @@ Generally, the cast eschewed non-stop action, focusing instead on patience and d
 
 Prior to the title being finalized, the show was referred to familiarly as *Kurosawa* in honor of director [[Wikipedia - Akira Kurosawa|Akira Kurosawa]].
 
-It was featured on the [https://soundcloud.com/yo-is-this-racist/337-liberal-austin-w-guy|April 18th, 2014 episode] of the Yo, Is This Racist? podcast. Host Andrew Ti and guest Tom Kauffman ruled that the show was racist. Kenjutsu: The Art of the Sword was mentioned again on the [https://soundcloud.com/yo-is-this-racist/572-left-wing-racism|February 5th, 2015 episode] of Yo, Is This Racist? when host Andrew Ti used it as an example of "left wing racism".
+It was featured on the April 18th, 2014 episode of the Yo, Is This Racist? podcast. Host Andrew Ti and guest Tom Kauffman ruled that the show was racist. Kenjutsu: The Art of the Sword was mentioned again on the February 5th, 2015 episode of Yo, Is This Racist? when host Andrew Ti used it as an example of "left wing racism".
 
 ## Media
 ### Video
