@@ -5,7 +5,7 @@
 |Director           = [[Marc Majcher]]
 |Run                = May 2015
 |Cast               = Various
-|Tech               = {{Unbulleted list | [[Lindsey McGowen]] }}
+|Tech Director      = [[Lindsey McGowen]]
 }}
 
 ***Four Chambers*** is the the inaugural second stage production of the 2015 Stargazer Series at [[The Hideout Theatre]]. 
