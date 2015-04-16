@@ -34,9 +34,9 @@ This show played on May 23, 2015.
 * Dr. Takahashi: TBD
 * Dr. Dörflinger: [[Andreas Fabis]]
 * Chandrakar: [[Sushant Sethi]]
-* Major Van Der Meer: 
+* Major Van Der Meer: TBD
 * Simms: [[Peter Rogers]]
-* Brasseau:
+* Brasseau: TBD
 
 ### Icebox
 This show played on May 30, 2015. 
