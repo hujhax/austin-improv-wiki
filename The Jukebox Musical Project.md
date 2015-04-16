@@ -1,10 +1,10 @@
 {{Infobox Show
 |Name = The Jukebox Musical Project
 |Theater = [[The Institution Theater]]
-|Picture = 
+|Picture = Show Default Image.jpg
 |Director =	{{Unbulleted list | [[Asaf Ronen]] }}
 |Cast =	{{Unbulleted list | Various }}
-|Cast =	{{Unbulleted list | [[Content Love Knowles]] }}
+|Music =	{{Unbulleted list | [[Content Love Knowles]] }}
 |Run	=	2015-Present
 }}
 
