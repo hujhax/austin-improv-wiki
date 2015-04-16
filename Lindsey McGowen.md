@@ -21,14 +21,14 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Control Issues]]* (technical director/sound tech)
 * *[[Four Chambers]]* (technical director)
 * *[[GrimmNoir]]* (sound tech)
-* *[[History Under the Influence]]* (light/sound tech)
+* *[[History Under the Influence]]* (tech director)
 * *[[Hurly Burly]]* (sound tech/stage manager)
 * *[[Tech Nightmare]]* (scoring tech)
-* *[[Theatresports]]* (2014 run) (light/sound tech)
+* *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The International Improv Experience]]* (light tech)
 * *[[The Jukebox Musical Project]]* (music director)
 * *[[Reform School for Wayward Girls]]* (sound tech)
-* *[[Nothing and Everything]]* (stage manager/props mistress/light tech)
+* *[[Nothing and Everything]]* (stage manager/props mistress/swing tech)
 
 ## More Information
 * [http://wikipella.org/wiki/Lindsey_McGowen Lindsey's wikipella page.]
