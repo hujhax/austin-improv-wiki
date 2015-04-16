@@ -4,6 +4,7 @@
 |Picture = Hurly Burly Poster.jpg
 |Director =	{{Unbulleted list | [[Jayme Ramsay]] | [[Marc Majcher]] }}
 |Cast =	{{Unbulleted list | [[Adriane Shown]] | [[Pseudonyms|Brooke Beltane]] | [[Caeriel Crestin]] | [[Pseudonyms|Eureka Smoke]] | [[Pseudonyms|Foxy Cakes]] | [[Jen Kaplan]] | [[Jessie Pascarelli]] | [[Pseudonyms|Lulu La Mer]] | [[Marc Majcher]] | [[Paul Normandin]] | [[Pseudonyms|Rosie Dear]] | [[Ryan Hill]] | [[Pseudonyms|Wilhelmina Wyldehart]] }}
+|Music              = [[Tosin Awofeso]]
 |Tech = {{Unbulleted list | [[Cindy Page]] | [[Lindsey McGowen]] }}
 |Run	=	May/Jun 2014
 |Subsequent Runs =	Feb/Mar 2015
