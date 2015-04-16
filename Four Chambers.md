@@ -16,13 +16,13 @@ The show is a series of four nordic-style LARPs played on stage: The Tribunal, P
 ## Shows
 ### Previous Occupants
 This show played on May 9, 2015. 
-### =Cast
+#### Cast
 * [[Heidi Penix]]
 * [[Leonard Balsera]]
 
 ### Previous Occupants
 This show played on May 16, 2015. 
-### =Cast
+#### Cast
 * Husband: [[JM Specht]]
 * Wife: [[Jayme Ramsay]]
 * Boyfriend: [[Theo Daley]]
@@ -30,7 +30,7 @@ This show played on May 16, 2015.
 
 ### Juggernaut
 This show played on May 23, 2015. 
-### =Cast
+#### Cast
 * Dr. Takahashi: TBD
 * Dr. Dörflinger: [[Andreas Fabis]]
 * Chandrakar: [[Sushant Sethi]]
@@ -40,7 +40,7 @@ This show played on May 23, 2015.
 
 ### Icebox
 This show played on May 30, 2015. 
-### =Cast
+#### Cast
 TBD
 
 [[Category/Shows|Category:Shows]]
