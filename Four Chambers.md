@@ -23,6 +23,8 @@ This show played on May 9, 2015.
 * [[Cat Drago]]
 * [[Heidi Penix]]
 * [[Lacy Shawn]]
+* [[Luke Wallens]]
+* [[Chris Villafano]]
 
 ### Previous Occupants
 This show played on May 16, 2015. 
