@@ -4,7 +4,7 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Marc Majcher]]
 |Run                = May 2015
-|Cast               = {{Unbulleted list | [[Leonard Balsera]] [[Theo Daley]] [[Andreas Fabis]] [[Heidi Penix]] [[Peter Rogers]] [[Sushant Sethi]] [[Aspen Webster]] }}
+|Cast               = Various
 |Tech               = {{Unbulleted list | [[Lindsey McGowen]] }}
 }}
 
