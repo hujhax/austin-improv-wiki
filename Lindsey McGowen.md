@@ -26,6 +26,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Tech Nightmare]]* (scoring tech)
 * *[[Theatresports]]* (2014 run) (light/sound tech)
 * *[[The International Improv Experience]]* (light tech)
+* *[[The Jukebox Musical Project]]* (music director)
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Nothing and Everything]]* (stage manager/props mistress/light tech)
 
