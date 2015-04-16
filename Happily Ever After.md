@@ -3,7 +3,7 @@
 |Picture            = Happily Ever After.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Roy Janik]] | [[Ryan Austin]] }}
-|Assistant Director = [[Ammon Taylor]] (musical director)
+|Music Director = [[Ammon Taylor]] 
 |Run                = Jul/Aug 2015
 |Cast               = TBA
 |Tech               = TBA
