@@ -14,7 +14,7 @@
 The show is a series of four nordic-style LARPs played on stage: The Tribunal, Previous Occupants, Juggernaut, and Icebox.
 
 ## Shows
-### Previous Occupants
+### The Tribunal
 This show played on May 9, 2015. 
 #### Cast
 * [[Heidi Penix]]
