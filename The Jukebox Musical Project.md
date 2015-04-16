@@ -17,9 +17,9 @@ Each show was written by [[Courtney Hopkin]] and leveraged a different music art
 Each show ran for two performances, every other month in 2015.
 
 
-## Casts
+## Shows
 ### The Black Death
-ft. music by the Smashing Pumpkins (March 2015)
+Featuring music by the Smashing Pumpkins (March 2015)
 * [[Jordan Maxwell]]
 * [[Emily Cawood]]
 * [[Jason Vines]]
@@ -28,5 +28,5 @@ ft. music by the Smashing Pumpkins (March 2015)
 * [[Luke Wallens]]
 
 ### In the Air Tonight
-ft. music by Phil Collins (May 2015)
+Featuring music by Phil Collins (May 2015)
 TBD
