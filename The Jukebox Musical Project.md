@@ -18,7 +18,8 @@ Each show ran for two performances, every other month in 2015.
 
 
 ## Casts
-### The Black Death ft. music by the Smashing Pumpkins (March 2015)
+### The Black Death
+ft. music by the Smashing Pumpkins (March 2015)
 * [[Jordan Maxwell]]
 * [[Emily Cawood]]
 * [[Jason Vines]]
@@ -26,5 +27,6 @@ Each show ran for two performances, every other month in 2015.
 * [[Kim Stacy]]
 * [[Luke Wallens]]
 
-### In the Air Tonight ft. music by Phil Collins (May 2015)
+### In the Air Tonight
+ft. music by Phil Collins (May 2015)
 TBD
