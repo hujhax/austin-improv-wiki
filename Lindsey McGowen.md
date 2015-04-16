@@ -19,6 +19,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 ## Shows
 * *[[Austin Secrets]]* (2015 run) (technical director)
 * *[[Control Issues]]* (technical director/sound tech)
+* *[[Four Chambers]]* (technical director)
 * *[[GrimmNoir]]* (sound tech)
 * *[[History Under the Influence]]* (light/sound tech)
 * *[[Hurly Burly]]* (sound tech/stage manager)
