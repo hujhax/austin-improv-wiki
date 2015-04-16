@@ -19,7 +19,8 @@ Each show ran for two performances, every other month in 2015.
 
 ## Shows
 ### The Black Death
-Featuring music by the Smashing Pumpkins (March 2015)
+Set during The Black Plague and featuring music by the Smashing Pumpkins (March 2015)
+#### Cast
 * [[Jordan Maxwell]]
 * [[Emily Cawood]]
 * [[Jason Vines]]
@@ -28,5 +29,6 @@ Featuring music by the Smashing Pumpkins (March 2015)
 * [[Luke Wallens]]
 
 ### In the Air Tonight
-Featuring music by Phil Collins (May 2015)
+Set during the USA/USSR space race of the 1970s and featuring music by Phil Collins (May 2015)
+#### Cast
 TBD
