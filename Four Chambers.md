@@ -29,7 +29,7 @@ This show played on May 9, 2015.
 * [[Chris Villafano]]
 * [[David Lampe]]
 * [[Ryan Austin]]
-* [[Rachel Austin]]
+* [[Rachel Posey Austin]]
 
 ### Previous Occupants
 This show played on May 16, 2015. 
