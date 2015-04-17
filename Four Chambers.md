@@ -54,6 +54,8 @@ This show played on May 30, 2015.
 #### Cast
 * [[Ripley Adams]]
 * [[Jessica Arjet]]
+* [[Chad Wellington]]
+* [[Nicole Oliver]]
 * [[JR Zambrano]]
 
 [[Category/Shows|Category:Shows]]
