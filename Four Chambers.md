@@ -44,7 +44,7 @@ This show played on May 23, 2015.
 * Chandrakar: [[Sushant Sethi]]
 * Major Van Der Meer: TBD
 * Simms: [[Peter Rogers]]
-* Brasseau: TBD
+* Brasseau: [[Ryan Hill]]
 
 ### Icebox
 This show played on May 30, 2015. 
