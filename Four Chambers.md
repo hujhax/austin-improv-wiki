@@ -42,7 +42,7 @@ This show played on May 16, 2015.
 ### Juggernaut
 This show played on May 23, 2015. 
 #### Cast
-* Dr. Takahashi: TBD
+* Dr. Takahashi: [[Angie Alegria Smith]]
 * Dr. Dörflinger: [[Andreas Fabis]]
 * Chandrakar: [[Sushant Sethi]]
 * Major Van Der Meer: TBD
