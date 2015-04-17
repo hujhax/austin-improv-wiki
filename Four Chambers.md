@@ -27,6 +27,9 @@ This show played on May 9, 2015.
 * [[Lacy Shawn]]
 * [[Luke Wallens]]
 * [[Chris Villafano]]
+* [[David Lampe]]
+* [[Ryan Austin]]
+* [[Rachel Austin]]
 
 ### Previous Occupants
 This show played on May 16, 2015. 
