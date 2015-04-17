@@ -45,7 +45,7 @@ This show played on May 23, 2015.
 * Dr. Takahashi: [[Angie Alegria Smith]]
 * Dr. Dörflinger: [[Andreas Fabis]]
 * Chandrakar: [[Sushant Sethi]]
-* Major Van Der Meer: TBD
+* Major Van Der Meer: [[Brad Hawkins]]
 * Simms: [[Peter Rogers]]
 * Brasseau: [[Ryan Hill]]
 
