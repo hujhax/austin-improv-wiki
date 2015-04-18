@@ -34,12 +34,10 @@ The show includes on-air interviews, off-air interactions both on-set, in the gr
 * David Lynch (Ceej Allen)
 * Bjork ([[Sarah Marie Curry]])
 
-
 **April 10th**
 * Alexander the Great ([[Kevin Miller]])
 * Genghis Khan ([[Brad Hawkins]])
 * Amy Winehouse ([[Kristen Kurtis]])
-
 
 **April 17th**
 * Manwell Noriega ([[Donnie Loa]])
