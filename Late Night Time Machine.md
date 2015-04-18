@@ -26,6 +26,27 @@ The show includes on-air interviews, off-air interactions both on-set, in the gr
 * Jesus of Nazareth ([[Justin Davidson]])
 
 ## Season 2
+**April 3rd**
+* Ellen DeGeneres (Mason Pitluk)
+* Conan O'Brien ([[Ryan Hill]])
+* Emily Dickinson ([[Hanna AbuZayed]])
+* Vincent van Gogh (Ceej Allen)
+* David Lynch (Ceej Allen)
+* Bjork ([[Sarah Marie Curry]])
+
+
+**April 10th**
+* Alexander the Great ([[Kevin Miller]])
+* Genghis Khan ([[Brad Hawkins]])
+* Amy Winehouse ([[Kristen Kurtis]])
+
+
+**April 17th**
+* Manwell Noriega ([[Donnie Loa]])
+* Bill Clinton ([[Asaf Ronen]])
+* Stevie Nicks ([[Donna Rice]])
+* Joan Jett ([[Jayme Ramsey]])
+
 ## Media
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202688469755636.1073741908.1315383518&type=3 Photoset] by [[Michael Yew]] of a show.
