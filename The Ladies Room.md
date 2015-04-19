@@ -2,7 +2,7 @@
 |Name = The Ladies Room
 |Picture =	The Ladies Room.jpg
 |Theater = [[The Institution Theater]]
-|Director =	[[Asaf Ronen]]
+|Director =	{{Unbulleted list | [[Ally Huston]] | [[Asaf Ronen]] }}
 |Cast = TBA
 |Run	= Jun-Jul 2015
 }}
