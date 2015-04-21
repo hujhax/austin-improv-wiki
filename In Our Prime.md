@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		In Our Prime
 |Picture	=	In Our Prime.jpg
-|Cast	=	{{Unbulleted list|[[Jessica Arjet]]|[[Gloria Rabil Bankler]]|[[Ryan Hill]]|[[Paul Normandin]]}}
+|Cast	=	{{Unbulleted list|[[Gloria Rabil Bankler]]|[[Ryan Hill]]|[[Paul Normandin]]}}
 |Years	=		2012-Present
 }}
 
@@ -12,11 +12,11 @@ In Our Prime was the brainchild of [[Paul Normandin]]. Paul and [[Gloria Bankler
 
 The troupe was briefly named *It'll Come to Us* until the name *In Our Prime* was decided on due to the older-than-average age of the cast and the primeness of their number (three). The trio performed a debut show at the Hideout.
 
-Ryan was a teaching assistant for Hideout Theatre co-owner [[Jessica Arjet]] at the time. When he told her about the troupe she asked if she could play with them. The four rehearsed together once. Ten minutes after a very successful second show with Jessica guesting, the troupe asked her to join permanently. In March of 2015, Jessica left the troupe. 
+Ryan was a teaching assistant for Hideout Theatre co-owner [[Jessica Arjet]] at the time. When he told her about the troupe she asked if she could play with them. The four rehearsed together once. Ten minutes after a very successful second show with Jessica guesting, the troupe asked her to join them. In March of 2015, Jessica left the troupe. 
 
 The troupe has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), the [[WaffleFest]] (2012-13), [[Frontera Fest]] (2013-14), [[The Improvised Play Festival]] (2013-2014), [[Unscripted New York]] (2014) and [[The Out of Bounds Comedy Festival]] (2012-14). They played a regular monthly slot in *[[The Free Fringe]]* at [[The Hideout Theatre]] through 2013 and have also performed a month-long [[Threefer]] run there. The troupe's *[[Free Fringe]]* shows tended to be more humorous and less grounded. 
 
-They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]]. [[Shannon McCormick]] also coached them for several months starting in June of 2013.
+They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|Jeremy Lamb]]. [[Shannon McCormick]] also coached them for several months starting in June of 2013. [[Chuy Zarate]] and [[Christopher 'Ceej' Allen]] have coached them in 2015.
 
 ## History
 Here is [[Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our Prime came from a place holder name when we started (pre-Jessica) - Tripod - Everyone hated it. Later we used Late Bloomers - a reference to the idea that we were all coming late to the Improv scene relatively speaking. Satisfied that Later Bloomers was a false start, we changed it to, "It'll Come to Us." Turns out it did and not much longer. We all liked the play on words and it still had the air of late bloomingness. I am not sure who said "In Our Prime" first, but we all agreed on the spot.</blockquote>
