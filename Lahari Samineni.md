@@ -11,7 +11,7 @@
 ## Troupes
 * [[Character Explosion]]
 * [[Worst First Date]] (Duo with [[R Lance Hunter]])
-* [[Who Wants Attention]]
+* [[Who Wants Attention!]]
 
 ## Shows
 * *[[The Fancy-Pants Mash-Up]]*
