@@ -1,6 +1,5 @@
 {{Infobox Performer
 |Name	=	Lahari Samineni	
-|Picture =	
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2013-Present
 }}
