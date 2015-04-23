@@ -32,8 +32,9 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 "Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. They will be rocking a montage called "Don't Worry About It" where each scene is a new world made up on the spot. You never know what adventure is to be had unless you see them for yourself!"
 
 ## More Information
+* [http://www.austinandaustin.us/ The duo's website.]
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
-* Show Count: 8 (as of 03/01/2014)
+* Show Count: 9 (as of 04/17/2015)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
