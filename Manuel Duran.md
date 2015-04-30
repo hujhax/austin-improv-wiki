@@ -4,7 +4,7 @@
 ## Troupes
 * [[Duran & Johnson]]
 * [[FOLKS]]
-
+* [[Mirage Machine]]
 
 ## Shows
 * *[[Cochise]]*
