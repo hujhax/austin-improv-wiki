@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Mirage Machine
 |Picture	=	Mirage Machine.jpg
-|Cast	=	{{ Unbulleted list | [[Camille Mitchell]] | [[Chance Garcia]] | [[David Moses Fruchter]] | [[Kenny Madison]] | [[Theo Daley]] }}
+|Cast	=	{{ Unbulleted list | [[Camille Mitchell]] | [[Chance Garcia]] | [[David Moses Fruchter]] | [[Kenny Madison]] | [[Theo Daley]] | [[Manuel Duran]] }}
 |Years	=		2014-Present
 }}
 
