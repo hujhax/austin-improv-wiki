@@ -2,10 +2,10 @@
 |Name	=	Melissa Patterson	
 |Picture =	Melissa Patterson Pic.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	2011-Present
+|Years	=	2011-2015
 }}
 
-**Melissa Patterson** is an improv performer.
+**Melissa Patterson** is an improv performer. In 2015 she moved away to Chicago. 
 
 ## Troupes
 * [[BeauMoMa]]
