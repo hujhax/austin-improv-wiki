@@ -1,2 +1,1 @@
-Hi, I'm a new improviser who began performing in the summer of 2013, mainly with the Hideout Theatre.  I have since have taken levels 1-3 at the Institution, and levels 1-3  in improvised singing at Merlin Works.   I've lived in Austin since 2000.  I've fallen in love with the improv scene here in Austin.   
-Troupes: Character Explosion, Worst First Date, Who Wants Attention?!  Shows: Fancy Pants, Maestro, Maestro Raw, Austin Monologue Jam
+#REDIRECT [[Lahari Samineni]]
