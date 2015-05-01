@@ -1,5 +1,6 @@
 {{Infobox Performer
-|Name	=	Lahari Samineni	
+|Name	=	Lahari Samineni
+|Picture    = Austin Monologue Jam 2015.jpg	
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2013-Present
 }}
