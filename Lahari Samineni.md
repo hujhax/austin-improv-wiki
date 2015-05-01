@@ -6,7 +6,7 @@
 }}
 
 
-**Lahari Samineni** is a newly minted  improv performer who performs primarily with [[The Hideout Theatre]] and [[The Institution Theatre]].  
+**Lahari Samineni** is a new performer who performs primarily with [[The Hideout Theatre]] and [[The Institution Theatre]].  She began taking classes at the Hideout in January 2013, and began performing in November 2013.  
 
 ## Troupes
 * [[Character Explosion]]
