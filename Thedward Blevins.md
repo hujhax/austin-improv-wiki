@@ -13,7 +13,6 @@ Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]],
 He has been performing regularly since 2011 and is a regular cast member of *[[Flying Theater Machine]]*.
 
 ## Shows
-* *[[History Under the Influence]]* (2014)
 * *[[Camp Madeupponthaspotta]]* (2014)
 * *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013 & 2014) (cohost)
 * *[[Lord Wensleydale’s Last High Tea]]* (2013)
@@ -30,6 +29,7 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 * [[Happy Butter]] (2011) (defunct)
 * [[Candy Vampires]] (2014) (former member)
 * [[Northward]] (2014-Present)
+* [[History Under the Influence]] (2014-CURRENTYEAR)
 
 ## More Information
 * [http://yesandrew.com/2013/07/12/in-praise-of-thedward-blevins/ "In Praise Of..." post] by [[Ryan Austin]].
