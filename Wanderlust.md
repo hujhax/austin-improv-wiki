@@ -5,13 +5,27 @@
 |Director =	[[Ruby Willmann]]
 |Assistant Director =	[[Aaron Saenz]]
 |Cast =	{{Unbulleted list | [[Andreas Fabis]] | [[Cat Drago]] | [[Ceej Allen]] | [[Chris Albano]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Manuel Duran]] | [[Marc Majcher]] | [[Melissa Patterson]] | [[Nicole Oliver]] | [[Ryan Austin]] }}
-|Tech = {{Unbulleted list | [[Michael Yew]] | [[Chad Wellington]] }}
+|Tech = {{Unbulleted list | [[Michael Yew]] (sound) | [[Chad Wellington]] (lights) }}
 |Run	=	Jan/Feb 2015
 }}
 
 ***Wanderlust*** was a mainstage at [[The Hideout Theatre]].  It depicted two people going on a journey.
 
 ## Summary
+For each performance, the central protagonists were dressed in red, while the remaining eight ensemble members were in blue.  The central performers asked the audience for a location people might travel to, and conducted a brief interview with an audience member, looking for grounded inspiration for the show.
+
+After that, the show opened with a split-stage montage, depicting each of the central characters in their day-to-day life, set to [http://en.wikipedia.org/wiki/Chicago_(Sufjan_Stevens_song) "Chicago" by Sufjan Stevens].  The montage ended with the two characters meeting and beginning their journey.
+
+The show consisted of a series of scenes along that trip, interspersed with improvised interviews with couples (depicted by the cast) about their relationships, à la *[[Wikipedia - When Harry Met Sally|When Harry Met Sally]]*.  The non-protagonist players portrayed all the other characters in the show (including the "interview subjects"), and also performed 'sceneography', using their bodies, motion, and built-in swaths of onstage fabric to suggest settings and props.
+
+The show concluded, typically, with the central couple on the "interview couch", reflecting on their journey and their experiences.
+
+The show ran ninety minutes in the Hideout's downstairs theater, with a 10-minute introduction and a 15-minute intermission.
+
+### Tech
+The show was scored without sound effects, using mostly modern indie pop, typically switching out to jazz standards for the interview interstitials.  Lighting varied based on the tone or mood of each scene, the location of the fabrics, and whether the ensemble or the highlighted characters were in focus at any given time.
+
+### Initial Description
 The director's initial description of the show from the audition announcement:
 <blockquote><p>With Wanderlust, I want to take a grounded two-person show and display it in a performance that conveys the visually stunning experience of going on a journey. The duo is supported by an ensemble of 8-10 people and they will serve as the connection between emotion and environment. Imagine a library scene where our two focus characters are having a conversation. The ensemble will fill the world as librarians, people reading, people on the computer, etc (they will not be stealing focus). Let's say the duo begins to fight. The ensemble, within their movements, begin to become more agitated and harsh. The tone of the scene becomes more hostile, the duo partners yell at each other until one person says that final line and the duo falls quiet. The environment, which has now become a raging hysteria, returns to its normal state.</p>
 
@@ -29,7 +43,7 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 ## Media
 ### Videos
 * [http://vimeo.com/115893524 Video] by [[Peter Rogers]] of the 1/3/15 premiere.
-** Corresponding playlist used by substitute tech [[Lindsey McGowen]] can be found [http://eilanora.livejournal.com/11890.html here].
+** [http://eilanora.livejournal.com/11890.html The corresponding playlist] used by substitute tech [[Lindsey McGowen]].
 * [http://vimeo.com/117755059 Video] of the 1/24/15 show.
 * [http://vimeo.com/118672454 Video] of the 1/31/15 show.
 * [http://vimeo.com/119088109 Video] of the 2/7/15 show.
