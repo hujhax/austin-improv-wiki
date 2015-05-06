@@ -1,4 +1,9 @@
 ## Summary
-Stub image for *[[Wanderlust]]*, snipped from [https://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The 2015 Hideout Mainstage Season announcement].
+Publicity image for *[[Wanderlust]]*, featuring [[Ryan Austin]] and [[Cat Drago]] in the foreground.
+
+Photos by [[Jon Bolden]].
+
+Art by [[Kaci Beeler]].
+
 ## Licensing
-{{No license}}
+{{AIC-Wiki-only license}}
