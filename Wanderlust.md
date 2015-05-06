@@ -16,7 +16,7 @@ For each performance, the central protagonists were dressed in red, while the re
 
 After that, the show opened with a split-stage montage, depicting each of the central characters in their day-to-day life, set to [http://en.wikipedia.org/wiki/Chicago_(Sufjan_Stevens_song) "Chicago" by Sufjan Stevens].  The montage ended with the two characters meeting and beginning their journey.
 
-The show consisted of a series of scenes along that trip, interspersed with improvised interviews with couples (depicted by the cast) about their relationships, à la *[[Wikipedia - When Harry Met Sally|When Harry Met Sally]]*.  The non-protagonist players portrayed all the other characters in the show (including the "interview subjects"), and also performed 'sceneography', using their bodies, motion, and built-in swaths of onstage fabric to suggest settings and props.
+The show consisted of a series of scenes along that trip, interspersed with improvised interviews with couples (depicted by the cast) about their relationships, à la *[[Wikipedia - When Harry Met Sally|When Harry Met Sally]]*.  The non-protagonist players portrayed all the other characters in the show (including the "interview subjects"), and also performed 'sceneography', using their bodies, motion, and built-in swaths of onstage fabric to suggest settings and props, often reflecting the mood of the scene while they did so.
 
 The show concluded, typically, with the central couple on the "interview couch", reflecting on their journey and their experiences.
 
