@@ -14,6 +14,7 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 * *[[Flying Theater Machine]]* (2014)
 * *[[One Small Step]]* (2015)
 * *[[The Ladies Room]]* (2015)
+* *[[Four Chambers]]* (2015)
 
 ## Troupes
 * [[Physics Curse]] (2014)
