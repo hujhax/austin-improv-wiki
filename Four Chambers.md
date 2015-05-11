@@ -36,7 +36,7 @@ This show played on May 16, 2015.
 #### Cast
 * Husband: [[JM Specht]]
 * Wife: [[Jayme Ramsay]]
-* Boyfriend: [[Theo Daley]]
+* Boyfriend: [[Brandon Martin]]
 * Girlfriend: [[Aspen Webster]]
 
 ### Juggernaut
