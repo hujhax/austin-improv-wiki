@@ -57,6 +57,8 @@ This show played on May 30, 2015.
 * [[Chad Wellington]]
 * [[Nicole Oliver]]
 * [[JR Zambrano]]
+* [[Justin Davis]]
+* [[Jeanette Jones]]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
