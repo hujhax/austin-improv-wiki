@@ -8,7 +8,7 @@
 **Aspen Webster** is an improv performer. 
 
 ## History
-Aspen started taking classes at the [[Hideout Theater]] in November of 2013. In addition to performing weekly with [[Flying Theater Machine]], she has performed in a number of Maestros, [[Fancy Pants]], as part of the student bout of [[Theatresports]], and with her troupe, [[Physics Curse]].  
+Aspen started taking classes at the [[Hideout Theater]] in November of 2013, shortly after moving to Austin, and has been totally hooked on improv ever since. In 2014 she took improv singing classes at [[Merlin Works]]. She performs weekly with [[Flying Theater Machine]] and as often as she can with her troupe, [[Physics Curse]].
 
 ## Shows
 * *[[Flying Theater Machine]]* (2014)
