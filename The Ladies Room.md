@@ -3,7 +3,7 @@
 |Picture =	The Ladies Room.jpg
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Ally Huston]] | [[Asaf Ronen]] }}
-|Cast = TBA
+|Cast = {{Unbulleted list | [[Ally Huston]] | [[Aspen Webster]] | [[Brittany Flurry]] | [[Jessica Brooks]] | [[Jessica Salinas]] | [[Jo Chauvin]] | [[Molly Mckee]] | [[Nicole Oliver]] | [[Sam Schak]]
 |Run	= Jun-Jul 2015
 }}
 
