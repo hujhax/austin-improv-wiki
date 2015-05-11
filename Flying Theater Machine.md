@@ -42,8 +42,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Caeriel Crestin]]
 * [[Mitchell Deane]]
 * [[Lindsay Hejl]]        (Mar 2014-Present)
-* [[Ryan Hill]]   
-* [[David Ronn]]          (May 2013-Present)
+* [[Ryan Hill]]             
 * [[Megan Venable]]       (Sep 2013-Present)
 * [[Luke Wallens]]
 * [[Nicole Oliver]]       (Jun 2014-Present)
@@ -59,7 +58,8 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ### Alumni / On Hiatus
 * [[Andrew Robinson]]
-* [[Bridget Brewer]]   
+* [[Bridget Brewer]] 
+* [[David Ronn]]  
 * [[Madeline Jo Chauvin]]  
 * [[Marc Majcher]] 
 * [[Matt Pollock]] (2007-June 2013, currently on paternity hiatus)
