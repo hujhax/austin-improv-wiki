@@ -16,5 +16,6 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013. In 
 
 ## Troupes
 * [[Physics Curse]] (2014)
+* [[History Under the Influence]] (2015)
 
 [[Category/Performers|Webster]]
