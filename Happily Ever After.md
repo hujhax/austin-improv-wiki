@@ -5,8 +5,8 @@
 |Director           = {{Unbulleted list | [[Roy Janik]] | [[Ryan Austin]] }}
 |Music Director = [[Ammon Taylor]] 
 |Run                = Jul/Aug 2015
-|Cast               = TBA
-|Tech               = TBA
+|Cast               = {{Unbulleted list | [[Cat Drago]] | [[David Schwartz]] | [[Erin Molson]] | [[Halyn Lee Erickson]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Marc Majcher]] | [[Megan Sherrod]] | [[Patrick Creamer]] | [[Ruby Willmann]] | [[Sunaina Suhag]] }}
+|Tech               = [[Jessica T. Von Schramm]] (stage manager)
 }}
 
 ***Happily Ever After*** will be the July/August 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
