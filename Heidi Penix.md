@@ -12,5 +12,6 @@
 ## Shows
 * *[[Risen]]*
 * *[[GrimmNoir]]*
+**[[Golden]]*
 
 [[Category/Performers|Penix]]
