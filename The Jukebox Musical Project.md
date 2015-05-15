@@ -1,7 +1,7 @@
 {{Infobox Show
 |Name = The Jukebox Musical Project
 |Theater = [[The Institution Theater]]
-|Picture = Show Default Image.jpg
+|Picture = The Jukebox Musical Project.jpg
 |Director =	{{Unbulleted list | [[Asaf Ronen]] }}
 |Music Director =	{{Unbulleted list | [[Lindsey McGowen]] }}
 |Cast =	{{Unbulleted list | Various }}
