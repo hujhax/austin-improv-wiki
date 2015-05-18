@@ -14,7 +14,7 @@
 ## Summary
 Each show was written by [[Courtney Hopkin]] and leveraged a different music artist's songs as well as time/location for each show. 
 
-The indivdiual musicals ran for two performances each, every other month in 2015.
+The individual musicals ran for two performances each, every other month in 2015.
 
 ## Shows
 ### The Black Death
@@ -36,3 +36,8 @@ Set during the USA/USSR space race of the 1970s and featuring music by Phil Coll
 * [[Donna Rice]]
 * [[Dave Ronn]]
 * [[Jill Summar]]
+
+## Media
+### Videos
+* [http://vimeo.com/122473300 The 3.14.15 performance of "The Black Death".]
+* [http://vimeo.com/128108210 The 5.9.15 performance of "In the AIr Tonight".]
