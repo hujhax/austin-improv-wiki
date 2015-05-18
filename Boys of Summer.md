@@ -76,7 +76,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 * 8/2/14: [[Michael Jastroch]]
 * 8/9/14: Joe Parsons
 * 8/16/14: [[Dave Buckman]]
-* 8/23/14: Pick-a-Boy Audience Choice
+* 8/23/14: Pick-a-Boy Audience Choice (Mike Carreon)
 
 ## Media
 ### Videos
