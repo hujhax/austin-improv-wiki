@@ -8,7 +8,7 @@
 **Aspen Webster** is an improv performer. 
 
 ## History
-Aspen started taking classes at the [[Hideout Theater]] in November of 2013, shortly after moving to Austin, and has been totally hooked on improv ever since. In 2014 she took improv singing classes at [[Merlin Works]]. She performs weekly with [[Flying Theater Machine]] and as often as she can with her troupe, [[Physics Curse]].
+Aspen started taking classes at the [[Hideout Theater]] in November of 2013, shortly after moving to Austin, and has been totally hooked on improv ever since. In 2014 she took improv singing classes at [[Merlin Works]]. She performs weekly with [[Flying Theater Machine]] and as often as she can with her troupes.
 
 ## Shows
 * *[[Flying Theater Machine]]* (2014)
