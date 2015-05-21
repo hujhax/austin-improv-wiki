@@ -17,6 +17,7 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * *[[The Fancy-Pants Mash-Up]]*
 * *[[Maestro]]*
 * *[[Nothing and Everything]]*
+* *[[Buzz Band]]*
 
 ## More Information
 * [http://www.megansherrod.com Megan's web page], which includes more information about her performance activities.
