@@ -18,6 +18,7 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * [[The Randy Meisner]]
 * [[Parallelogramophonograph]]
 * [[The Smoking Arm]]
+* [[Straight Blades]]
 
 ## Shows
 * *[[After School Improv]]* 
