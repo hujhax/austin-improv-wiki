@@ -59,6 +59,7 @@ This show played on May 30, 2015.
 * [[JR Zambrano]]
 * [[Justin Davis]]
 * [[Jeanette Jones]]
+* [[Mike Kinald]]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
