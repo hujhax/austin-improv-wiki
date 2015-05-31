@@ -38,9 +38,10 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * [[Wanderlust]]
 
 ## Directing
-* *[[The Fancy-Pants Mashup]]* (director 2012-2013)
-* *[[TheatreSports (mainstage run)|TheatreSports]]* (2013, assistant director)
+* "[[Happily Ever After]]" (2015, co-director)
 * *[[TheatreSports (mainstage run)|TheatreSports]]* (2014, co director)
+* *[[TheatreSports (mainstage run)|TheatreSports]]* (2013, assistant director)
+* *[[The Fancy-Pants Mashup]]* (director 2012-2013)
 
 
 [[Category/Performers|Austin]]
