@@ -55,7 +55,7 @@ This show played on May 30, 2015.
 * [[Ripley Adams]]
 * [[Jessica Arjet]]
 * [[Chad Wellington]]
-* [[Nicole Oliver]]
+* [[Heidi Rogers]]
 * [[JR Zambrano]]
 * [[Justin Davis]]
 * [[Jeanette Jones]]
