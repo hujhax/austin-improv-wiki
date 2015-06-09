@@ -13,6 +13,6 @@ Andrew began studying at [[The Institution Theater]] in early 2012 in order to o
 * *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* – Magician, “Well Dressed Homeless Man” (2013)
 * *[[Buzz Band]]* (2015)
 
-Andrew has played once in [[Maestro]] and once in [[Fancy Pants]].  He performed lights & tech for *[[The Last Freakshow]]*   He is a founding member of [[Candy Vampires]]
+Andrew has played once in [[Maestro]] and once in [[Fancy Pants]].  He has performed twice in the [[Austin Monologue Jam]], winning on June 6, 2015.  He performed lights & tech for *[[The Last Freakshow]]*   He is a founding member of [[Candy Vampires]]
 
 [[Category/Performers|Johnston]]
