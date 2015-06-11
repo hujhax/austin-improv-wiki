@@ -19,6 +19,7 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 * [[Stone Airplane]]
 
 ## Shows
+* *[[Happily Ever After]]* (technical director, light tech)
 * *[[Buzz Band]]*
 * *[[Wanderlust]]* (light tech)
 * *[[The Dahl House]]*
