@@ -6,7 +6,7 @@
 |Run	=	Jul 2014
 }}
 
-***Late Night Down*** is an upcoming mainstage show at [[ColdTowne Theater]], based around a late-night talk show.
+***Late Night Down*** was a mainstage show at [[ColdTowne Theater]], based around a late-night talk show which is attacked by a rotating variety of supernatural threats.
 
 ## Summary
 ### Publicity Blurb
