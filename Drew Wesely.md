@@ -34,9 +34,9 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 
 ## Past Shows
 * *[[Austin Translation]]* (Assistant Director)
-* *TGIS*
-* *The Organ Trail*
-* *Late Nite Down*
+* *[[TGIS]]*
+* *[[The Organ Trail]]*
+* *[[Late Night Down]]*
 * *[[Indy Movies]]*
 * *[[Victrola]]* (The Bat format) (Performed in Frontera Fest)
 
