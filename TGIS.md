@@ -10,9 +10,11 @@
 ***TGIS*** was a mainstage show at [[ColdTowne Theater]].  It was an improv double-bill inspired by 1990s TV sitcoms.
 
 ## Summary
-Each performance will include two episodes: an episode of "Boy Greets World" (an improv take on *[[Wikipedia - Boy Meets World|Boy Meets World]]*) and an episode of "Buddies!" (an improv take on *[[Wikipedia - Friends|Friends]]*).
+Each performance included two episodes: an episode of "Boy Greets World" (an improv take on *[[Wikipedia - Boy Meets World|Boy Meets World]]*) and an episode of "Buddies!" (an improv take on *[[Wikipedia - Friends|Friends]]*).
 
 It ran Saturdays at 8:30pm in March and April of 2013, with a special finale on Sunday 4/29/13 at 7pm.
+
+Another run Saturdays in March and April of 2015 had the same TGIS name, but with a supernatural theme. <ref>http://www.coldtownetheater.com/blog/thank-god-its-saturday-returns</ref>
 
 ### Casts
 Each half of the bill had its own cast.
@@ -46,6 +48,7 @@ The show included special guests every week, as follows:
 * 4/28 - every available guest returned for a finale "clip show"
 
 ## Media
+<references/>
 ### Other
 * [http://www.youtube.com/watch?feature=player_embedded&v=I5KiIDC3DkU Opening credits for "Boy Greets World".]
 * [http://www.youtube.com/watch?feature=player_embedded&v=yKYpk8ZjQBw Opening credits for "Buddies".]
