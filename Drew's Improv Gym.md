@@ -1,5 +1,6 @@
 {{Infobox Show
 |Name	=		Drew's Improv Gym
+|Picture	=       Drew's Improv Gym.jpg
 |Theater =	{{Unbulleted list| [[House of Tutors]] | [[ColdTowne Conservatory]]}}
 |Director =		[[Drew Wesely]]
 |Cast	=		Various
