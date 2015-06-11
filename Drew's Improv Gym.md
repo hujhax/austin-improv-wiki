@@ -11,7 +11,7 @@
 ## Summary
 Drew's Improv Gym was started in March 2015 by improv coach and instructor [[Drew Wesely]]. The goal of the jam is to enable improv students and performers to do long form improv scenes, with a focus each jam on targeting a particular aspect of scene-work,  and then receive brief notes on their improvising. 
 
-The jam is open to any improv students or experienced improvisers who want to do long form scenes earlier in the evening and want brief notes on the scene-work. It targets improv students who want to exercise what they have learned in class, or graduates who haven't found a troupe to rehearse regularly with, or any improvisers that wants to maintain skills at a jam that is not late at night or on the weekend.
+The jam is open to any improv students or experienced improvisers who want to do long form scenes earlier in the evening and want brief notes on the scene-work. It is aimed at improv students who want to exercise what they have learned in class, or graduates who haven't found a troupe to rehearse regularly with, or any improvisers that wants to maintain skills at a jam that is not late at night or on the weekend. Each session starts with quick warmups, then scene-work exercises to target a specific improv skill, followed by wide open runs of scenes, with succinct and helpful notes at the end of each run.
 
 ## Media
 ### Photos
