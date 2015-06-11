@@ -33,6 +33,9 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * [[ColdTowne Allstars]]
 
 ## Past Shows
+* *[[Austin Translation]]* (Assistant Director)
+* *TGIS*
+* *Late Nite Down*
 * *[[Indy Movies]]*
 * *[[Victrola]]* (The Bat format) (Performed in Frontera Fest)
 
