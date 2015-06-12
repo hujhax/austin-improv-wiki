@@ -18,9 +18,7 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * [[What's the Story, Steve]] - improv and sketchprov troupe (Performed in OOB)
 * [[ColdTowne TourCo]] - (Performed in DCM and NYC's Magnet Theater, and Charleston Improv Festival)
 * *[[TIT Talks]]* - Performed in [[The Moontower Comedy Festival]] and Fun Fun Fun Fest
-* [[First United Methodist Church of Plano Youth Group Improv]] 
-* [[Townsville]] - actor  (Performed in Frontera Fest)
-* [[Array]] - JTS Brown format troupe (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
+* [[Townsville]] - actor, writer  (Performed in Frontera Fest)
 
 ## Past Improv Troupes
 * [[Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
