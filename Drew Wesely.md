@@ -22,11 +22,13 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 
 ## Past Improv Troupes
 * [[Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
+* [[Array]] - JTS Brown format troupe (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
 * [[Delta Force of Venus]] - improv troupe (captain)
 * [[Unfurled]] - improv troupe (Performed in TCIF, NCCAF, OOB and twice in NOIF)
 * [[Stool Pigeon]] - performer
 * [[UpTowne]] - sketch actor/writer
 * [[Lifeboat]] - Cagematch champion
+* [[First United Methodist Church of Plano Youth Group Improv]] (Cagematch team)
 * [[The Draft]]
 * [[ColdTowne Allstars]]
 
