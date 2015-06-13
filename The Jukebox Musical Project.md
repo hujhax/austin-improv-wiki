@@ -52,4 +52,4 @@ Set during the Salem Witch Trials and featuring music by Radiohead (July 2015)
 ## Media
 ### Videos
 * [http://vimeo.com/122473300 The 3.14.15 performance of "The Black Death".]
-* [http://vimeo.com/128108210 The 5.9.15 performance of "In the AIr Tonight".]
+* [http://vimeo.com/128108210 The 5.9.15 performance of "In the Air Tonight".]
