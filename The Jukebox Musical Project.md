@@ -37,6 +37,18 @@ Set during the USA/USSR space race of the 1970s and featuring music by Phil Coll
 * [[Dave Ronn]]
 * [[Jill Summar]]
 
+### Karma Police
+Set during the Salem Witch Trials and featuring music by Radiohead (July 2015)
+#### Cast
+* [[Jordan Maxwell]]
+* [[Sarah Marie Curry]]
+* [[Emily Cawood]]
+* [[Michael Ferstenfeld]]
+* [[Kim Stacy]]
+* [[Megan Sherrod]]
+* [[Jill Summar]]
+* [[Kelly Campbell]]
+
 ## Media
 ### Videos
 * [http://vimeo.com/122473300 The 3.14.15 performance of "The Black Death".]
