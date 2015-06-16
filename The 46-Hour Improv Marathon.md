@@ -16,7 +16,6 @@
 * [[Jessie Pascarelli]] - Co-Producer
 
 ## Schedule
-## Schedule
 * Friday 5pm (hour 1): A "teen mixer", where the core cast play with teens from the Hideout's classes.
 * Friday 6pm (hour 2): "And They're Off" -- free-form improv with the core cast.
 * Friday 7pm (hour 3): *[[Start Trekkin']]*
