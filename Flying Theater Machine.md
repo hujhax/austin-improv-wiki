@@ -3,6 +3,7 @@
   |Director = Jessica Arjet
   |Theater  = [[The Hideout Theatre]]
   |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Luke Wallens]] | [[Kristin Henn]] | [[Madeline Jo Chauvin]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] }}
+  |Tech     = {{Unbulleted list | [[Neal Tibrewala]] | [[Cindy Page]] }}
   |Picture  = Flying_Theater_Machine.jpg
   |Run    = Oct 2007-Present
 }}
