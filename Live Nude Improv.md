@@ -7,6 +7,7 @@ __NOINDEX__
 |Director =	[[Andy Crouch]]
 |Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Andy Crouch]] | [[Brett Tribe]] | [[Dana Yanoshak]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Pseudonyms|Ruby]] }}
 |Music	=	[[Bradley Dean Whyte]]
+|Tech   =	[[Cindy Page]]
 |Run	=	Jul/Aug 2011
 }}
 
