@@ -1,14 +1,14 @@
 {{Infobox Show
-|Name               = Single Camera Comedy
+|Name               = Close Up
 |Picture            = Single Camera Comedy.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Caeriel Crestin]] | [[Jessica Arjet]] }}
 |Run                = August 2015
-|Cast               = TBA
+|Cast               = {{Unbulleted list | [[Angie Smith]] | [[Aspen Webster]] | [[Cagney Ortiz]] | [[Jenna Howard]] | [[Kenny Madison]] | [[Kelly Campbell]] | [[Luis Salinas]] | [[Suzanne Link]] }}
 |Tech               = TBA
 }}
 
-***Single Camera Comedy*** will be the August 2015[[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Close Up*** will be the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
