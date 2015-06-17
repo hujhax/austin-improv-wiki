@@ -69,3 +69,6 @@
 * Sunday 1pm (hour 45): *[[Fakespeare]]*
 * Sunday 2pm (hour 46): "Final Show"
 ** The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep.
+
+## More Information
+* [http://www.hideouttheatre.com/shows/improvmarathon The marathon's web page.]
