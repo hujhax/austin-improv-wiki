@@ -38,10 +38,10 @@
 ** "Students from the Building Connections improv classes join the Marathoners."
 * Saturday 10am (hour 18): *[[Dubbed Indemnity]]*
 * Saturday 11am (hour 19): *[[Control Issues]]*
-* Saturday 12pm (hour 20): "[[The Devil & Halyn Erickson]]"
+* Saturday 12pm (hour 20): *[[The Devil and Halyn Erickson]]*
 * Saturday 1pm (hour 21): *[[History Under the Influence]]*
 * Saturday 2pm (hour 22): [[What's the Story, Steve]]
-* Saturday 3pm (hour 23): "The Eye in the Storm" (free-form improv from the core cast)
+* Saturday 3pm (hour 23): "The Eye of the Storm" (free-form improv from the core cast)
 * Saturday 4pm (hour 24): *[[Charles Dickens Unleashed]]*
 * Saturday 5pm (hour 25): Double Marathon
 ** "The Austin Runners Club stops by to talk about marathons during the marathon."
@@ -58,14 +58,14 @@
 ** "An orphan ([[Bridget Brewer]]) Skypes into the Marathon to control the action."
 * Sunday 5am (hour 37): *[[Tech Nightmare]]*
 * Sunday 6am (hour 38): *[[Care Bear Stare]]*
-** "The Care Bears are here to bring badly animated joy to your lives."
+** "The Care Bears are here to bring badly-animated joy to your lives."
 * Sunday 7am (hour 39): *[[Buzz Band]]*
 * Sunday 8am (hour 40): [[The Escorts]]
 * Sunday 9am (hour 41): [[Of Mice And Mostly Women]]
-* Sunday 10am (hour 42): Fury Road
-** "Mad Max: Fury Road was a hell of a movie, and this will be a hell of a show."
-* Sunday 11am (hour 43): "[[Spirited]]"
+* Sunday 10am (hour 42): "Fury Road"
+** "*[[Wikipedia - Mad Max -  Fury Road|Mad Max: Fury Road]]* was a hell of a movie, and this will be a hell of a show."
+* Sunday 11am (hour 43): *[[Spirited]]*
 * Sunday 12pm (hour 44): [[The Available Cupholders]]
-* Sunday 12pm (hour 45): *[[Fakespeare]]*
-* Sunday 1pm (hour 46): "Final Show"
+* Sunday 1pm (hour 45): *[[Fakespeare]]*
+* Sunday 2pm (hour 46): "Final Show"
 ** The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep.
