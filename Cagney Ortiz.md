@@ -15,5 +15,7 @@
 
 ## Troupes
 * [[Deep Turtle]]
+* [[Tom Does The Good Work]]
+* [[Character Explosion]]
 
 [[Category/Performers|Ortiz]]
