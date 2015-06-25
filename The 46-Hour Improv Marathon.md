@@ -15,6 +15,20 @@
 * [[Roy Janik]] - Artistic Director
 * [[Ryan Hill]] - Co-Producer
 * [[Jessie Pascarelli]] - Co-Producer
+* [[Kareem Badr]] - Planning
+* [[Andy Crouch]] - Planning
+* [[Jessica Arjet]] - Planning
+* [[Kaci Beeler]] - Planning/Design
+* [[Courtney Hopkin]] - Marketing
+* [[Tim Coyle]] - Donations Captain
+* [[Luke Wallens]] - Donations Assistant
+* [[Lahari Samineni]] - Sponsorship Captain
+* [[Cagney Ortiz]] - Sponsorship Assistant
+* [[Joy Parks]] - Food Captain
+* [[Heidi Rogers]] - Food Assistant
+* [[Thedward Blevins]] - Volunteers Captain
+* [[Cynthia Ward]] - Tech Volunteers Coordinator
+* [[Chad Wellington]] - Photo Volunteers Coordinator
 
 ## Schedule
 * Friday 5pm (hour 1): A "teen mixer", where the core cast play with teens from the Hideout's classes.
