@@ -26,24 +26,48 @@ The show includes on-air interviews, off-air interactions both on-set, in the gr
 * Jesus of Nazareth ([[Justin Davidson]])
 
 ## Season 2
-**April 3rd**
-* Ellen DeGeneres (Mason Pitluk)
+**April 3rd - Episode 1 - Back From the Future**
+* Bjork ([[Sarah Marie Curry]])
 * Conan O'Brien ([[Ryan Hill]])
 * Emily Dickinson ([[Hanna AbuZayed]])
-* Vincent van Gogh (Ceej Allen)
-* David Lynch (Ceej Allen)
-* Bjork ([[Sarah Marie Curry]])
+* Vincent van Gogh ([[Ceej Allen]])
+* fictional YouTube sensation Stacy Stacy ([[Tess Hermes]])
+* Ellen DeGeneres ([[Mason Pitluk]])
+* special appearance by David Lynch (Ceej Allen)
 
 **April 10th**
 * Alexander the Great ([[Kevin Miller]])
 * Genghis Khan ([[Brad Hawkins]])
 * Amy Winehouse ([[Kristen Kurtis]])
+* stand up from Baby Don Rickles ([[John Buseman]])
 
-**April 17th**
-* Manwell Noriega ([[Donnie Loa]])
+**April 17th - Episode 3 - Party Time (or: How I Learned to Stop Worrying and Love Manuel Noriega)**
+* Manuel Noriega ([[Donnie Loa]])
 * Bill Clinton ([[Asaf Ronen]])
 * Stevie Nicks ([[Donna Rice]])
 * Joan Jett ([[Jayme Ramsey]])
+* stand up from James Cagney ([[Lashonda Lester]])
+
+**April 24th - Episode 4 -**
+* Charlie Chaplin ([[Alex Ayala]])
+* Hillary Clintronic 3000 ([[Amy Averett]])
+* Groucho Marx ([[Robert Slack]])
+* Ronald McDonald ([[Luke Wallens]])
+* stand up from Salem Witches ([[Tess Hermes]] and Melanie Dyer)
+
+**May 1st - Episode 5 - Teddy Saves America**
+* Catherine the Great ([[Jessica Arjet]])
+* Albert Einstein ([[Michael Ferstenfeld]])
+* Werher von Braun ([[Andreas Fabis]])
+* Benjamin Franklin ([[Marcus Hysmith]])
+* stand up from Teddy Roosevelt ([[Will Cleveland]])
+
+**May 8th - Episode 6 -**
+* Orson Welles ([[Jordan Maxwell]])
+* Salvador Dali (as a guest and stand up) ([[Brently Heilbron]])
+* Stanley Kubrick ([[Kenny Madison]])
+* Eve ([[Heidi Rogers]])
+* special appearance by David Lynch ([[Ceej Allen]])
 
 ## Media
 ### Photos
