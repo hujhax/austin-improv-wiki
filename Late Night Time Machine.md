@@ -19,8 +19,8 @@ The show includes on-air interviews, off-air interactions both on-set, in the gr
 ## Origins
 ## Season 1
 ## Christmas Special Spectacular
-* Martha Stewart 
-* Paula Deen 
+* Martha Stewart ([[Callie Sharon]])
+* Paula Deen ([[Rebecca Marsh]])
 * Anne Frank ([[Alex Ayala]])
 * David Lynch ([[Ceej Allen]])
 * Jesus of Nazareth ([[Justin Davidson]])
