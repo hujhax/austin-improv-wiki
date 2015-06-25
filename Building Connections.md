@@ -1,0 +1,1 @@
+In 2014, social worker and improviser [[Lacy Shawn]] and [[The Hideout Theater]]'s Children's Programs Coordinator, [[Jessica Arjet]] created an improv class for teenagers on the Asperger's spectrum called "Building Connections."
