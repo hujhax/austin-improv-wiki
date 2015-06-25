@@ -27,7 +27,7 @@
 * [[Joy Parks]] - Food Captain
 * [[Heidi Rogers]] - Food Assistant
 * [[Thedward Blevins]] - Volunteers Captain
-* [[Cynthia Ward]] - Tech Volunteers Coordinator
+* [[Cindy Page]] - Tech Volunteers Coordinator
 * [[Chad Wellington]] - Photo Volunteers Coordinator
 
 ## Schedule
