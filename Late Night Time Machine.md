@@ -3,7 +3,7 @@
 |Picture =	Late Night Time Machine Poster.jpg
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Clifton Highfield]] (season 1) | [[Mason Pitluk]] (season 2) }}
-|Cast =	{{Unbulleted list | [[James C. Leary]] | [[Syndey Huddleston]] | [[Mike Carreon]] | [[Ceej Allen]] | [[Alex Ayala]] | various guests }}
+|Cast =	{{Unbulleted list | [[James C. Leary]] | [[Sydney Huddleston]] | [[Mike Carreon]] | [[Ceej Allen]] | [[Alex Ayala]] | various guests }}
 |Run	= Sep 2014
 |Subsequent Runs = Apr-May 2015
 }}
@@ -17,7 +17,36 @@ Late Night Time Machine with Teddy Hancox is an entirely written and entirely im
 The show includes on-air interviews, off-air interactions both on-set, in the green room, and behind the scenes, and commercial sketches typical of 1968.
 
 ## Origins
+Late Night Time Machine with Teddy Hancox was conceived by Tess Hermes, James C. Leary, and Mason Pitluk in the Summer of 2014. The show was pitched to the Institution Theater with [[Clifton Highfield]] signed on to direct, [[Sydney Huddleston]] signed on to play second lead Matilda Weatherspoon, [[Ceej Allen]] signed on as a performer, and [[Mark Shoemaker]] signed on as Technical Director. Hermes and Pitluk would write and produce while Leary would play host Teddy Hancox. Hermes, Leary, and Pitluk pitched the show after an unconventional presentation; rather than just talk about the concept, they presented a three minute glimpse into an episode featuring a David Lynch guest interview, a off-air Tildy-Teddy interaction, and a Lucky Strike Cigarettes commercial.
+
 ## Season 1
+**Episode 1**
+* Marlon Brando ([[Mike Kinald]])
+* David Lynch ([[Ceej Allen]])
+* Julia Child ([[Topping Haggerty]])
+* Justin Bieber (backstage) ([[Andrew Maniaci]])
+
+**Episode 2**
+* Anne Frank ([[Alex Ayala]])
+* Socrates ([[Luke Wallens]])
+* Bindi Irwin ([[Ann Flynn Terrell]])
+* Beethoven ([[Ceej Allen]])
+
+**Episode 3**
+* Sigmund Freud ([[Andrew Schwartz]])
+* Shirley Temple ([[Alli Huston]]))
+* Paula Deen ([[Rebecca Marsh]])
+* Bindi Irwin (backstage) ([[Ann Flynn Terrell]])
+* Marlon Brando (backstage) ([[Mike Kinald]])
+
+**Episode 4**
+* Charles Manson ([[Tom Booker]])
+* Annie Oakley ([[Heidi Rogers]])
+* Justin Bieber ([[Andrew Maniaci]])
+* Anne Frank ([[Alex Ayala]])
+* Marlon Brando (backstage) ([[Mike Kinald]])
+* Fatally Wounded Audience Member ([[Luke Wallens]]])
+
 ## Christmas Special Spectacular
 * Martha Stewart ([[Callie Sharon]])
 * Paula Deen ([[Rebecca Marsh]])
