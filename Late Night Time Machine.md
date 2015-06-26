@@ -57,6 +57,13 @@ Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes,
 * Jesus of Nazareth ([[Justin Davidson]])
 
 ## Season 2
+Season 2 was directed by Mason Pitluk, written and produced by Tess Hermes and Pitluk, and featured the technical direction of Mark Shoemaker. Ceej Allen and Alex Ayala assisted Hermes and Pitluk with the conception and writing of the season. Along with Hermes and Pitluk, Allen deserves writing credit for episode 1 and Ayala deserves credit for episode 4, arguably two of the finest nights of live comedy in the history of mankind. 
+
+Season 2 primarily focused on:
+* Teddy's growth as an individual, especially in regards to his treatment of Tildy and Bud
+* Tildy's growth as an individual as she figured out how to be a powerful female leader in 1968
+* Teddy and Tildy's quest to make "good television," motivated primarily by Teddy's desire to keep his show and place in the public's eye after being cancelled, and Tildy's knowledge of the sad future state of the entertainment industry after spending time executive producing The Ellen Show in 2016.
+
 **April 3rd - Episode 1 - Back From the Future**
 * Bjork ([[Sarah Marie Curry]])
 * Conan O'Brien ([[Ryan Hill]])
