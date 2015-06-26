@@ -20,6 +20,8 @@ The show includes on-air interviews, off-air interactions both on-set, in the gr
 Late Night Time Machine with Teddy Hancox was conceived by Tess Hermes, James C. Leary, and Mason Pitluk in the Summer of 2014. The show was pitched to the Institution Theater with [[Clifton Highfield]] signed on to direct, [[Sydney Huddleston]] signed on to play second lead Matilda Weatherspoon, [[Ceej Allen]] signed on as a performer, and [[Mark Shoemaker]] signed on as Technical Director. Hermes and Pitluk would write and produce while Leary would play host Teddy Hancox. Hermes, Leary, and Pitluk pitched the show after an unconventional presentation; rather than just talk about the concept, they presented a three minute glimpse into an episode featuring a David Lynch guest interview, a off-air Tildy-Teddy interaction, and a Lucky Strike Cigarettes commercial.
 
 ## Season 1
+Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes, Mason Pitluk, and Highfield, and featured the technical direction of Mark Shoemaker. 
+
 **Episode 1**
 * Marlon Brando ([[Mike Kinald]])
 * David Lynch ([[Ceej Allen]])
@@ -45,7 +47,7 @@ Late Night Time Machine with Teddy Hancox was conceived by Tess Hermes, James C.
 * Justin Bieber ([[Andrew Maniaci]])
 * Anne Frank ([[Alex Ayala]])
 * Marlon Brando (backstage) ([[Mike Kinald]])
-* Fatally Wounded Audience Member ([[Luke Wallens]]])
+* Fatally Wounded Audience Member ([[Luke Wallens]])
 
 ## Christmas Special Spectacular
 * Martha Stewart ([[Callie Sharon]])
