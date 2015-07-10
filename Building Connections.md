@@ -1,6 +1,6 @@
 After a meeting with local AIC improvisers [[Luke Wallens]], [[Sam Schak]], [[Chris Albano]], and [[Bridget Brewer]], the Special Needs Improv Program (later dubbed Building Connections) was created by Social Worker and improviser [[Lacy Shawn]] and [[The Hideout Theater]]'s Children's Programs Coordinator, [[Jessica Arjet]].
 
- The first classes were offered in 2013, and were six weeks in length.  Classes catered to pre-teens and teens on the Autism Spectrum.  Since then, class offerings have expanded, and the Building Connections program now offers:
+ The first classes were offered in 2013, and were six weeks in length. Classes catered to pre-teens and teens on the Autism Spectrum. Since then, class offerings have expanded, and the Building Connections program now offers:
 
 - Fall and Spring 13 week series classes for teens and pre-teens on the Autism Spectrum (or youth with compatible needs)
 - Weekly improv classes for homeless youth and families in a downtown shelter at no cost
