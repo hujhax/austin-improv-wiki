@@ -22,5 +22,5 @@ The first classes were offered in 2013, and were six weeks in length. Classes ca
 
 In June 2014, a handful of students from the Building Connections program took part in hour 17 of the [[46-Hour Improv Marathon]]. In the 9AM Saturday morning slot, the kids provided the marathoners with a much needed pick me up and bundles of positive energy. The show was very successful.
 
-## Links
-For more information on Building Connections, check out [www.specialneedsimprov.com]
+## More Information
+* [http://www.specialneedsimprov.com The Hideout Theater's page on the Building Connections program]
