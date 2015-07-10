@@ -20,7 +20,7 @@ After a meeting with local AIC improvisers [[Luke Wallens]], [[Sam Schak]], [[Ch
 
 The first classes were offered in 2013, and were six weeks in length. Classes catered to pre-teens and teens on the Autism Spectrum.
 
-In June 2014, a handful of students from the Building Connections program took part in hour 17 of the [[46 Hour Improv Marathon]]. In the 9AM Saturday morning slot, the kids provided the marathoners with a much needed pick me up and bundles of positive energy. The show was very successful.
+In June 2014, a handful of students from the Building Connections program took part in hour 17 of the [[46-Hour Improv Marathon]]. In the 9AM Saturday morning slot, the kids provided the marathoners with a much needed pick me up and bundles of positive energy. The show was very successful.
 
 ## Links
 For more information on Building Connections, check out [www.specialneedsimprov.com]
