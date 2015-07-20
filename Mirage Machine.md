@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Mirage Machine
-|Picture	=	Mirage Machine.jpg
+|Picture	=	MMSquare.png
 |Cast	=	{{ Unbulleted list | [[Theo Daley]] | [[David Moses Fruchter]] | [[Manuel Duran]]|  [[Kenny Madison]] | [[Amanda Smith]] }}
 |Former Members	=	{{ Unbulleted list | [[Camille Mitchell]] | [[Chance Garcia]] }}
 |Years	=		2014-Present
