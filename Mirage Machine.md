@@ -1,11 +1,12 @@
 {{Infobox Troupe
 |Name	=		Mirage Machine
 |Picture	=	Mirage Machine.jpg
-|Cast	=	{{ Unbulleted list | [[Camille Mitchell]] | [[Chance Garcia]] | [[David Moses Fruchter]] | [[Kenny Madison]] | [[Theo Daley]] | [[Manuel Duran]] }}
+|Cast	=	{{ Unbulleted list | [[Theo Daley]] | [[David Moses Fruchter]] | [[Manuel Duran]]|  [[Kenny Madison]] | [[Amanda Smith]] }}
+|Former Members	=	{{ Unbulleted list | [[Camille Mitchell]] | [[Chance Garcia]] }}
 |Years	=		2014-Present
 }}
 
-**Mirage Machine** is an improv troupe.
+**Mirage Machine** is an improv troupe that specialized in fast-paced, yet grounded work. Their work borders on the surreal, creating grounded work within completely unreal situations. They are a focused ensemble that 
 
 ## Summary
 ### About the MACHINE
