@@ -6,7 +6,7 @@
 |Years	=		2014-Present
 }}
 
-**Mirage Machine** is an improv troupe that specialized in fast-paced, yet grounded work. Their work borders on the surreal, creating grounded work within completely unreal situations. They are a focused ensemble that 
+**Mirage Machine** is an improv troupe that specialized in fast-paced, yet grounded work. Their work borders on the surreal, creating grounded work within completely unreal situations.
 
 ## Summary
 ### About the MACHINE
