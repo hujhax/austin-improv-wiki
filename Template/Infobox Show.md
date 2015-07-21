@@ -3,8 +3,8 @@
 This template lists standard, useful information about an improv show.
 <pre>
 {{Infobox Show
-|Name	=						
-|Picture	=						
+|Name =						
+|Picture =						
 |Theater =						
 |Director =					
 |Assistant Director =	
@@ -13,8 +13,9 @@ This template lists standard, useful information about an improv show.
 |Producer =					
 |Music =      					
 |Tech =      					
-|Cast	=							
-|Run	=							
+|Cast =	   					
+|Past Members =							
+|Run =							
 |Subsequent Runs = 		
 }}
 </pre>
@@ -44,6 +45,8 @@ This template lists standard, useful information about an improv show.
 | *Tech*           || Who teched the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of technical improvisors, if necessary.
 |-
 | *Cast*           || Who was in the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of performers.
+|-
+| *Past Members*           || The past stage, technical, and backstage members of the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
 |-
 | *Music*           || If there was live music for the show, list the musician or musicians here.
 |-
@@ -113,6 +116,12 @@ This template lists standard, useful information about an improv show.
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">{{{Cast|Unknown}}}</td>
 		</tr>
+{{#if: {{{Past Members|}}} |
+		<tr class="">
+			<th class="category-header" scope="row">Past Members</th>
+			<td class="category">{{{Past Members|Unknown}}}</td>
+		</tr>
+|}}
 		<tr class="">
 {{#if: {{{Subsequent Runs|}}} |
 			<th scope="row" class="category-header">Initial Run</th>
