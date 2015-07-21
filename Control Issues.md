@@ -2,7 +2,8 @@
 |Name	=	Control Issues
 |Picture = 	Control Issues.jpg
 |Theater=	[[The Hideout Theatre]]
-|Cast=		{{Unbulleted list | [[Andreas Fabis]] | [[Cat Drago]] | [[Chris Albano]] | [[Dana Yanoshak]] | [[Katie Dahm]] | [[Lindsay Hejl]] | [[Paul Normandin]] | [[Peter Rogers]] }}
+|Cast=		{{Unbulleted list | [[Andreas Fabis]] | [[Chris Albano]] (2014-Present) | [[Dana Yanoshak]] | [[Katie Dahm]] | [[Lindsay Hejl]] (2014-Present) | [[Paul Normandin]] | [[Peter Rogers]] }}
+|Past Members = [[Cat Drago]] (2014-2015)
 |Director =	{{Unbulleted list | [[Roy Janik]] (2010-2014) | [[Andrew Buck]] (2014) | [[Andreas Fabis]] (2014-2015) | [[Peter Rogers]] (2015-Present) }}
 |Run	=	Oct 2010-Present
 }}
