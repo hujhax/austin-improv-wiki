@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-Rachel Creason is an improv performer.
+**Rachel Creason** is an improv performer.
 
 ## History
 ## Troupes
