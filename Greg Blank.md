@@ -19,5 +19,6 @@ Upon moving to Austin he signed up for classes pronto.
 
 ## Shows
 * *[[Cochise]]* (2014)
+* *[[Song Runner]]* (Tech)
 
 [[Category/Performers|Blank]]
