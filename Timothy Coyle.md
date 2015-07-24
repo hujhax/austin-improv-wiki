@@ -9,8 +9,7 @@ Timothy Coyle is an improv performer and member of the troupe [[Character Explos
 
 ## History
 ## Troupes
-* [[Character Explosion]] (2014-2015) 
-
+* [[Character Explosion]] (2014-current)
 
 ## More Information
 [[Category/Performers|Hill]]
