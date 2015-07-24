@@ -3,8 +3,9 @@
 |Picture            = A Deed So Dark.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Valerie Ward]]
+|Musical Director   = [[Ammon Taylor]]
 |Run                = Sep/Oct 2015
-|Cast               = TBA
+|Cast               = {{Unbulleted list | [[Kacey Samiee]] | [[Erin Molson]] | [[Sarah Doering]] | [[Sarah Marie Curry]] | [[Jordan T. Maxwell]] | [[Kareem Badr]] | [[Brett Tribe]] | [[J. R. Zambrano]] }}
 |Tech               = TBA
 }}
 
