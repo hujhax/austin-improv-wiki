@@ -5,7 +5,7 @@
 |Years	=	2011-Present
 }}
 
-Ryan Hill is an improv performer and founding member of the grounded troupe [[In Our Prime]].
+**Ryan Hill** is an improv performer and founding member of the grounded troupe [[In Our Prime]].
 
 ## History
 Ryan dabbled in theater in high school and college. In the aughts he performed with Austin vintage radio drama troupe, *The Violet Crown Radio Players* and started the *Chicken Fried Radio* comedy podcast with his friend Toby Heidel, but his experience of improv was limited to enjoying reruns of *[[Wikipedia - Whose Line Is It Anyway|Whose Line Is It Anyway?]]*
