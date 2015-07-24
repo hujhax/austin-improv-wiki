@@ -7,7 +7,7 @@
 |Tech Director      = [[Cindy Page]]
 |Music              = [[Content Love Knowles]]
 |Run                = Jun 2015
-|Cast               = {{Unbulleted list | [[Creighton Moench]] | [[Emma Czarnecki]] | [[Haley Alea Erickson]] | [[J. R. Zambrano]] | [[John Mendell]] | [[Joy Parks]] | [[Lindsay Hejl]] | [[Rachel Elaine Creason]] | [[Steve Jaffe]] }}
+|Cast               = {{Unbulleted list | [[Creighton Moench]] | [[Emma Czarnecki]] | [[Haley Alea Erickson]] | [[J. R. Zambrano]] | [[John Mendell]] | [[Joy Parks]] | [[Lindsay Hejl]] | [[Rachel Creason]] | [[Steve Jaffe]] }}
 |Tech               = {{Unbulleted list | [[Greg Blank]] | [[Kyle Grier]] }}
 }}
 
