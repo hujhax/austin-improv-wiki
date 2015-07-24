@@ -19,6 +19,8 @@ Pianist Ammon Taylor is best known as the current accompanist for [[Girls Girls 
 * *[[Maestro]]* (accompanist)
 * *[[Theatresports]]* (accompanist)
 * *[[Trash]]* (composer)
+* *[[Happily Ever After]]* (Musical director)
+* *[[A Deed So Dark]]* (Musical director)
 
 [[Category/Performers|Taylor]]
 [[Category/Musicians|Taylor]]
