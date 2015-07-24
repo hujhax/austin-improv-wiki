@@ -13,7 +13,7 @@ The troupe grew out of a cohort of improvisers that went through the entire [[Me
 The name **Lazer Wolf** came from the name of a fictional band improvised in a game of "Greatest Hits" that took place in their 101 class. [[Leyla Cohlmia]] and [[Rachel Creason]] were **Lazer Wolf** and they would howl at the end of every song. Since then the whole group has adopted the name, and the howl. It's possible that the name is a subconscious reference to the character "Lazar Wolfe" in the musical "Fiddler on the Roof" as **Lazer Wolf** leans towards classic musical theater.
 
 ## Media
-* [https://www.facebook.com/media/set/?set=a.848144505221555.1073741828.847843028585036&type=3 Photos from graduation show "Neverland"
+* [https://www.facebook.com/media/set/?set=a.848144505221555.1073741828.847843028585036&type=3 Photos from graduation show "Neverland"]
 
 ## More Information
 * [https://www.facebook.com/Lazerw0lf Lazer Wolf Facebook page]
