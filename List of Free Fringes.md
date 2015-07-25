@@ -771,7 +771,7 @@ Headliners
 #### The Audition
 Get a harrowing and hilarious look at the inside world of the actor. The audition process can be a frustrating,Â exhilarating process. This show focuses around a group of people before, during, and after an audition. Inspired by ACTUAL events!
 
-Starring: [[Sam Schack]], [[Aaron Saenz]], [[Jeanette Jones]], [[Cariel Crestin]], and [[Marc Majcher]]
+Starring: [[Sam Schak]], [[Aaron Saenz]], [[Jeanette Jones]], [[Caeriel Crestin]], and [[Marc Majcher]]
 
 #### Dexterprov ([[Andrew Buck]])
 Dexterprov tells a never-before-seen and never-before-written episode of the serial killer drama *[[Wikipedia - Dexter|Dexter]]*. Who will kill whom? Will Dexter get caught at his dangerous game? Will Deb act on her brotherly love? Who will the newest serial killer be? Will Batista ever stop wearing that dumb hat? All of these questions -- and one or two more -- will be answered in this completely improvised show.
