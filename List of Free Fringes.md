@@ -769,7 +769,7 @@ Headliners
 
 ### Jul 11, 2013
 #### The Audition
-Get a harrowing and hilarious look at the inside world of the actor. The audition process can be a frustrating,Â exhilarating process. This show focuses around a group of people before, during, and after an audition. Inspired by ACTUAL events!
+Get a harrowing and hilarious look at the inside world of the actor. The audition process can be a frustrating, exhilarating process. This show focuses around a group of people before, during, and after an audition. Inspired by ACTUAL events!
 
 Starring: [[Sam Schak]], [[Aaron Saenz]], [[Jeanette Jones]], [[Caeriel Crestin]], and [[Marc Majcher]]
 
