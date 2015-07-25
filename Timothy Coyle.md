@@ -8,9 +8,9 @@
 Timothy Coyle is an improv performer and member of the troupe [[Character Explosion]] the duo [[You Bet Your Life]] and an instructor for [[Building Connections]].
 
 ## History
-It only took Tim 37, and multiple back injuries in martial arts, to finally got a clue that Improv is much easier on the body than kicks to the head.  A free workshop held by [[Jon Bolden]] shortly after [[WaffleFest]] in 2013 convinced Tim to officially sign up for classes, completing all six levels at [[The Hideout Theatre]].  
+It only took Tim 37 years, and multiple back injuries in martial arts, to finally got a clue that Improv is much easier on the body than kicks to the head.  After taking a free improv workshop that he heard about while watching [[Squirrel Buddies]] during [[WaffleFest]] in 2013, Tim completed all six levels at [[The Hideout Theatre]] graduating in 2014.  
 
-Tim can often be seen in the audience of [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
+Tim can often be seen in the audience watching [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
 
 ## Instructors
 * [[The Hideout Theatre]]
