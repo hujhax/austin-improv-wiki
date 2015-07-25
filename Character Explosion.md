@@ -19,7 +19,8 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 
 ### Troupe Members History
 Started as a Free Fringe :
-#### Ceej Character Explosion ([[Ceej Allen]])
+* *[[Ceej Character Explosion]]* ([[Ceej Allen]])
+
 Original Members of the troupe include [[Cagney Ortiz]], [[Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]], [[Robert Slack]], [[Tim Coyle]] and [[Sushant Sethi]].
 
 
