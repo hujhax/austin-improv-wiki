@@ -20,7 +20,7 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 ### Troupe Members History
 Original Members of the troupe include [[Cagney Ortiz]], [[Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]] and [[Sushant Sethi]].
 
-The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Lahari, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Ceej Allen]].  
+The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Ceej Allen]].  
 
 As often happens schedules conflicted, but it created new opportunity with the addition of [[Bonnie Dilber]], [[Carolyn Gjertsen]], [[Chris Villafano]], [[Nichole Bennett]], and [[Zach Leos]].
 
