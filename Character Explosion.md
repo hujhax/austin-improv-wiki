@@ -18,7 +18,10 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coyle a free fringe was submitted and played out on August 7th 2014 billed as "Ceej Character Explosion" 
 
 ### Troupe Members History
+Started as a Free Fringe :
+#### Ceej Character Explosion ([[Ceej Allen]])
 Original Members of the troupe include [[Cagney Ortiz]], [[Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]], [[Robert Slack]], [[Tim Coyle]] and [[Sushant Sethi]].
+
 
 The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Ceej Allen]].  
 
