@@ -8,10 +8,10 @@
 Timothy Coyle is an improv performer and member of the troupe [[Character Explosion]].
 
 ## History
-At the young age of 37, and multiple back injuries in martial arts, Tim finally got a clue that Improv is much easier on the body than kicks to the head.  A free workshop held by [[Jon Bolden]] shortly after [[WaffleFest]] in 2013 convinced Tim to officially sign up for classes, completing all six levels at [[The Hideout Theatre]]
+It only took Tim 37, and multiple back injuries in martial arts, to finally got a clue that Improv is much easier on the body than kicks to the head.  A free workshop held by [[Jon Bolden]] shortly after [[WaffleFest]] in 2013 convinced Tim to officially sign up for classes, completing all six levels at [[The Hideout Theatre]]
 
 
-Tim can often be seen in the audience of [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack will win a Maestro before he does.
+Tim can often be seen in the audience of [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
 
 ## Instructors
 * [[The Hideout Theatre]]
@@ -30,9 +30,12 @@ Tim can often be seen in the audience of [[Flying Theatre Machine]] with his nep
 * [[Sarah Marie Curry]]
 * [[Caitlin Sweetlamb]]
 
-## Coach
-[[Robert Slack]]
-
+## Coach/Mentors
+* [[Robert Slack]]
+* [[Ceej Allen]]
+* [[Ryan Hill]]
+* [[Chuy Zarate]]
+* [[David Lampe]]
 
 ## Troupes
 * [[Character Explosion]] (2014-current)
@@ -52,6 +55,7 @@ Tim can often be seen in the audience of [[Flying Theatre Machine]] with his nep
 
 * *[[Ceej Character Explosion]]* ([[Ceej Allen]])
 Five Hideout Theatre students/recent graduates ([[Tim Coyle]], [[Joy Parks]], [[Robert Slack]], [[Kathleen McFerren]] and [[Cagney Ortiz]]) will challenge improv veteran [[Ceej Allen]] by playing a variety of characters that he must then play. After running Ceej through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.
+Cast [[Ceej Allen]], [[Tim Coyle]], [[Joy Parks]], [[Robert Slack]], [[Kathleen McFerren]] and [[Cagney Ortiz]]
 
 * *[[Hug Day]]* ([[Tim Coyle]]) 
 How the show was Pitched to [[Paul Normandin]]:
@@ -60,7 +64,8 @@ Every year Paul Normandin, the nicest guy in the universe, organizes a Hug Day d
 
 How the show was performed
 
-In front of an audience of friends and peers, in celebration and recognition of his 5th annual Hug Day, Paul was honored with a Texas State Flag, along with Certificates thanking him signed by the Governor of the State of Texas for his continued contribution and pursuit to bring more happiness and love to the City of Austin.  Credit to [[Laramie Stroud]] for all his contributions and presenting Paul.  The entire audience was a cast member that evening.  
+In front of an audience of friends and peers, in celebration and recognition of his 5th annual Hug Day, Paul was honored with a Texas State Flag, along with Certificates thanking him signed by the Governor of the State of Texas for his continued contribution and pursuit to bring more happiness and love to the City of Austin.  Credit to [[Laramie Stroud]] for all his contributions and presenting Paul.  
+The entire audience was a cast member that evening.  
 
 * *[[PLANK-A-THON!]]* ([[Joy Parks]]) 
 Want to support the Hideout's Special Needs program? Sweet! So do we! It's awesome! To learn more about the program, check out [http://www.hideouttheatre.com/improv-for-kids/special-needs-improv www.specialneedsimprov.com].
@@ -68,13 +73,18 @@ Want to support the Hideout's Special Needs program? Sweet! So do we! It's aweso
 YOU can help this program continue to grow by participating in the Plank-A-Thon! The concept: Each member of the cast will plank during the show, for as long as s/he can, and the planks will be individually timed. (One improviser, Joy, promises to go for 5 minutes!)How is this a fundraiser? We're hoping you will pledge per minute planked by the whole cast, or place a donation if Joy completes her 5 minute plank or, donate just because you wanna donate! Check out [http://goo.gl/forms/MZIvaATqd3 this google doc] for full show details and more donation info!
 Cast [[Tim Coyle]], [[Joy Parks]], [[Robert Slack]], [[Sushant Sethi]], [[Lahari Samineni]], [[Kathleen McFerren]] and [[Cagney Ortiz]]
 
+* *[[Hideout Action News Team]]* ([[Sushant Sethi]]) 
+What do you get when you take Improv, SNL's Weekend Update, The Daily Show and Not Necessarily The News and put them together?  You get The Hideout Action News Team 
+Cast [[Tim Coyle]], [[Joy Parks]], [[Ceej Allen]], [[Robert Slack]], [[Kim Tran]], [[Sushant Sethi]], [[Lahari Samineni]], [[Thedward Blevins]], [[Kathleen McFerren]] and [[Cagney Ortiz]]
+
 * *[[Take me out to the Ballgame]]* ([[Tim Coyle]]) 
-Tim is a big sports fanatic, and in this show the audience gives them a sports event, and their roles to play.  Then away we go.  Cast [[Cagney Ortiz]] [[Tim Coyle]] [[Mitchell Deane]] [[Jason Burnett]]
+Tim is a big sports fanatic, and in this show the audience gives them a sports event, and their roles to play.  Then away we go.  
+Cast [[Cagney Ortiz]] [[Tim Coyle]] [[Mitchell Deane]] [[Jason Burnett]]
 
 * *[[You Bet Your Life]]* ([[Robert Slack]]) 
 After a successful run playing Groucho Marx in [[Late Night Time Machine]] at [[The Institution Theater]] Robert Slack brings the improvised quiz show based off [[Wikipedia - You Bet Your Life|*You Bet Your Life hosted by Groucho Marx*]] to [[The Hideout Theatre]] with [[Tim Coyle]] playing his co-host
 
-* *[[Hideout Action News Team]]* ([[Sushant Sethi]]) 
+
 
 ## More Information
 [[Category/Performers|Coyle]]
