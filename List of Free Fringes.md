@@ -1387,7 +1387,7 @@ Brett is aware and has explicitly agreed to do this format.
 I would interview him for a few minutes at the top of the show in order to introduce him to the audience."
 
 #### All Stars and Me ([[Tim Coyle]])
-"Basically there are a bunch of vets who have been instrumental in my progress, and I would love to have a chance to share the stage with them"
+"Basically there are a bunch of vets who have been instrumental in my progress, and I would love to have a chance to share the stage with them" Staring [[Chuy Zarate]] [[David Lampe]] [[Kevin Miller]] [[Jessica Arjet]][[Jon Bolden]] [[Mitch Mills]] [[Ruby Willmann]] [[Stuart m feild]]
 
 #### [[Jessica Arjet]] & [[Lisa Jackson]]
 Headliners
