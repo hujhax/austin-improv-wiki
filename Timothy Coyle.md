@@ -23,7 +23,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Jason Shotts and Colleen Doyle]] at [[The Hideout Theatre]] - Dummy Master Class
 * [[Kate Duffy]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]] - Elevate Your Play! Take Big Risks!
 * [[Jon Bolden]] at [[The Hideout Theatre]]
-* [[Marc Majcher]] at [[Casa de Marc]]
+* [[Marc Majcher]] at [[Casa de Marc]] - Fear 
 * [[Perisian Gentleman]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]] - Charm, Stage Presence and Audience Seduction
 * [[Sarah Marie Curry]] at [[The Institution Theater]] - Sing Your Feelings 
 * [[Tom Booker]] at [[The Institution Theater]] - Drop In Improv Diagnostics
