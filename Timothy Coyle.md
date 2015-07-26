@@ -18,15 +18,15 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Stuart m feild]] TA Levels 1-6
 
 ## Various Workshops With
-* [[Andy Crouch]] at [[The Hideout Theatre]]
-* [[Caitlin Sweetlamb]] at [[The Institution Theater]]
-* [[Jason Shotts and Colleen Doyle]] at [[The Hideout Theatre]]
-* [[Kate Duffy]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]]
+* [[Andy Crouch]] at [[The Hideout Theatre]] 
+* [[Caitlin Sweetlamb]] at [[The Institution Theater]] - Musical Short Form Games
+* [[Jason Shotts and Colleen Doyle]] at [[The Hideout Theatre]] - Dummy Master Class
+* [[Kate Duffy]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]] - Elevate Your Play! Take Big Risks!
 * [[Jon Bolden]] at [[The Hideout Theatre]]
 * [[Marc Majcher]] at [[Casa de Marc]]
-* [[Perisian Gentleman]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]]
-* [[Sarah Marie Curry]] at [[The Institution Theater]]
-* [[Tom Booker]] at [[The Institution Theater]]
+* [[Perisian Gentleman]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]] - Charm, Stage Presence and Audience Seduction
+* [[Sarah Marie Curry]] at [[The Institution Theater]] - Sing Your Feelings 
+* [[Tom Booker]] at [[The Institution Theater]] - Drop In Improv Diagnostics
 
 ## Coach/Mentors
 * [[Ceej Allen]]
