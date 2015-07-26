@@ -68,6 +68,5 @@ Depending on what crowd Tim is in, he has multiple nicknames including:
 * Lil Country - while studying various martial arts, being that Tim is not exactly slim and with a longer than normal beard at the time, he resembled a smaller "Big Country" Roy Nelson
 * Sweet T - this is what his co-workers call him
 
-Tim was a part of the production crew for 
 
 [[Category/Performers|Coyle]]
