@@ -56,7 +56,8 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * *[[PLANK-A-THON!]]* Produced by ([[Joy Parks]]) 
 * *[[Hideout Action News Team]]* Produced by ([[Sushant Sethi]]) 
 * *[[Take me out to the Ballgame]]* Produced by ([[Tim Coyle]]) 
-* *[[You Bet Your Life]]* Produced by ([[Robert Slack]]) 
+* *[[Tim In A Cup]]* Produced by ([[Angie Alegria Smith]])
+* *[[You Bet Your Life]]* Produced by ([[Robert Slack]])
 
 ## More Information
 Tim can often be seen in the audience watching [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
