@@ -20,12 +20,13 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 ## Various Workshops With
 * [[Andy Crouch]] at [[The Hideout Theatre]]
 * [[Caitlin Sweetlamb]] at [[The Institution Theater]]
+* [[Jason Shotts and Colleen Doyle]] at [[The Hideout Theatre]]
 * [[Kate Duffy]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]]
 * [[Jon Bolden]] at [[The Hideout Theatre]]
 * [[Marc Majcher]] at [[Casa de Marc]]
 * [[Perisian Gentleman]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]]
 * [[Sarah Marie Curry]] at [[The Institution Theater]]
-* [[Tom Booker]] at [[The Institution Theater]] 
+* [[Tom Booker]] at [[The Institution Theater]]
 
 ## Coach/Mentors
 * [[Ceej Allen]]
