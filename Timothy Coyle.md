@@ -49,6 +49,8 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * *[[Improv Mixtape]]*
 * *[[Maestro]]* (2015-Current)
 * *[[Maestro Raw]]* (2014-Current)
+* *[[Fancy Pants]]* (2015-Current)
+* *[[2x4]]* (2015-Current)
 
 ## Free Fringes
 * *[[All Stars and Me]]* Produced by ([[Tim Coyle]])
