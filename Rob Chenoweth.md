@@ -5,7 +5,7 @@
 |Years	=	2015-Present
 }}
 
-**Rob Chenoweth** is an improv performer and founding member of the grounded troupe [[In Our Prime]].
+**Rob Chenoweth** is an improv performer and founding member of the musical troupe [[Lazer Wolf]].
 
 ## History
 ## Troupes
