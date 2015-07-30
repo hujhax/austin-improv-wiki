@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Lazer Wolf
 |Picture	=	LazerWolf.jpg
-|Cast	=	{{Unbulleted list|[[Eileen Alter]]|[[Rob Chenoweth]]|[[Elaine Chung]]|[[Leyla Cohlmia]]|[[Rachel Creason]]|[[Ryan Hill]]|[[Lisa Hurst]]|[[Dimitri Khosrowpour]][[Tania Quintanilla]]}}
+|Cast	=	{{Unbulleted list|[[Eileen Alter]]|[[Rob Chenoweth]]|[[Elaine Chung]]|[[Leyla Cohlmia]]|[[Rachel Creason]]|[[Ryan Hill]]|[[Lisa Hurst]]|[[Dimitri Khosrowpour]]|[[Tania Quintanilla]]}}
 |Years	=		2015-Present
 }}
 
