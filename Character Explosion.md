@@ -37,7 +37,7 @@ As often happens schedules conflicted, but it created new opportunity with the a
 ### Videos
 * [http://www.youtube.com/watch?v=Q4giLqTx2Rw Video of the troupe's "plank-a-thon"] from the 2/12/15 *[[Free Fringe]]*.
 * [http://www.youtube.com/watch?v=6ltXQG2Ye-A Video of the troupe's "Improv Mixtape"] from the 4/13/15 *[[The Institution Theater]]*.
-* [https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw The troupe's YouTube channel]
+* [https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw Character Explosion's YouTube channel]
 
 ## More Information
 * [http://www.facebook.com/CharacterExplosion The troupe's facebook page.]
