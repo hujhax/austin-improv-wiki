@@ -18,8 +18,10 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coyle a free fringe was submitted and played out on August 7th 2014 billed as "Ceej Character Explosion" 
 
 
-### Coach
+### Coaches
 Robert Slack is both a member of the troupe and coach, bringing his Improv experience from Los Angeles and Dallas - Ft Worth to the troupe.
+
+Ceej Allen was instrumental of the concept used for the format, has been a member of the AIC since 2003 is also adding his own flavor and touch as a coach
 
 ### Troupe Members History
 Started as a Free Fringe :
