@@ -103,7 +103,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Karen Jane DeWitt]]
 * [[Marc Majcher]]
 * [[Michael Joplin]]
-#### Tech
+#### Crew
 * [[Chris Albano]]
 * [[Cindy Page]]
 * [[David Ronn]]
