@@ -85,8 +85,8 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 #### Crew
 *[[Cindy Page]] (tech director)
 *[[Katherine Grecco]]
-*[[Warren Henderson]]
 *[[Luke Wallens]]
+*[[Warren Henderson]]
 
 ### Season Four (2013)
 #### Cast
