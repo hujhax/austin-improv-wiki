@@ -66,6 +66,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Valerie Ward]]
 
 ### Season Three (2012)
+#### Cast
 * [[Alex Dobrenko]]
 * [[Chuy Zarate]]
 * [[Courtney Hopkin]]
@@ -80,6 +81,12 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Peter Rogers]]
 * [[Roy Janik]]
 * [[Valerie Ward]]
+
+#### Crew
+*[[Cindy Page]] (tech director)
+*[[Katherine Grecco]]
+*[[Warren Henderson]]
+*[[Luke Wallens]]
 
 ### Season Four (2013)
 #### Cast
