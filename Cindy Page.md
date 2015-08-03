@@ -36,7 +36,8 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[Rock]]* *(tech)*
 * *[[The Sci-Fi Comedy Double Feature]]* *(tech)*
 * *[[Seance]]* *(tech)*
-* *[[Strange Worlds]]* *(tech)*
+* *[[SongRunner]]* *(tech director)*
+* *[[Strange Worlds]]* *(tech director)*
 * *[[Thinning the Herd]]* *(tech)*
 * *[[The Tribunal]]* *(performer)*
 * *[[Trust No One]]* *(tech)*
