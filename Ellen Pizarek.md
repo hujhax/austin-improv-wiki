@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Ellen Pittsford Pizarek	
-|Picture =	
+|Picture =	[[]]
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2010-2012, 2015-present
 }}
