@@ -4,4 +4,4 @@ In December of 2012, she moved to the San Francisco Bay Area, and then married T
 
 Also, she totally has 'camp jitters' about being back in Austin and the AIC. But in a good way.
 
-[[Category:Performers|Pizarek]
+[[Category/Performers|Pizarek]]
