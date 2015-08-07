@@ -165,7 +165,7 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |-
 |Apr 2015||*[[Golden]]*|| [[Marc Majcher]]
 |-
-|Jun 2015||*[[SongRunner]]*||[[Kacey Samiee]], [[Ammon Taylor]]
+|Jun 2015||*[[SongRunner]]*||[[Kacey Samiee]], [[Ammon Taylor]], [[Jordan T. Maxwell]]
 |-
 |Aug 2015||*[[Single Camera Comedy]]*||[[Caeriel Crestin]], [[Jessica Arjet]]
 |-
