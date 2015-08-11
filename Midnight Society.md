@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Midnight Society
 |Picture =     Midnight Society.jpg
-|Cast	=	{{Unbulleted list | [[Addison Billingsley]] | [[Jericho Thorp]] | [[Joel Keith]] | [[Lance Gilstrap]] | [[Michael Williams]] }}
+|Cast	=	{{Unbulleted list | [[Addison Billingsley]] | [[Jericho Thorp]] | [[Joel Keith]] | [[Lance Gilstrap]] | [[Michael Williams]] | [[Joseph Dailey]]}}
 |Years	=		2007-Present
 }}
 
