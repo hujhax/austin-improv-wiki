@@ -3,9 +3,9 @@
 ## Troupes
 * [[My Friend Stripey]]
 * [[Umami]]
-* [[The Dancy Street D'Orchestra]]
-* [[DA Foundry]]
-* [[Score!]]
+* [[The Dancy Street D'Orchestra]] (accompanist)
+* [[DA Foundry]] (accompanist and player)
+* [[Score!]] (accompanist and player)
 
 ## Shows
 * *[[Danger! The Improvised Lifetime Movie]]*
