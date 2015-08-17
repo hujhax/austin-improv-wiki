@@ -14,7 +14,7 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 
 ## Troupes
 * [[Badr & Janik]]
-* [[False Matters]]
+* [[BadWitt]]
 * [[The Randy Meisner]]
 * [[Parallelogramophonograph]]
 * [[The Smoking Arm]]
@@ -25,6 +25,7 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * *[[The Andersons]]* (John Anderson)
 * *[[Austin Secrets]]*
 * *[[Charles Dickens Unleashed]]*
+* *[[False Matters]]*
 * *[[Improvised Shakespeare]]* 
 * *[[Ka-Baam!!]]*
 * *[[Process]]* 
