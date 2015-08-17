@@ -23,6 +23,7 @@ From the initial show announcement: <blockquote>"It’s two a.m. in the big, bad
 *You Can't Stay Here* made use of the Institution's "Institution South" space, which was converted temporarily into a makeshift bar called Tom's Place. Beer and wine were served, and early-arriving customers were treated to a few rounds of pub trivia. [[Asaf Ronen]], [[Kenny Madison]], and [[Will Cleveland]] served as quizmasters.
 
 Following the quiz, the first scene of the show began in Tom's Place. The four central characters for the evening were introduced, and their relationships established. After one scene had concluded, director Hawkins announced the closing of Tom's Place and the audience was ushered into the theater space for the remainder of the show.
+<div style="clear: both"></div>
 
 ## More Information
 * [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The show announcement] on the [[Institution Theater]] facebook page.
