@@ -14,6 +14,8 @@ The theater was founded in 2008 by [[Tom Booker]].  Classes began in the Velveet
 
 In 2013, the Institution hosted the first annual [[Institution Theater Awards]].
 
+In 2014, the Institution expanded into a second space, just across the parking lot, known as The Institution South.
+
 ## Shows
 {{List of Institution Theater Shows}}
 
