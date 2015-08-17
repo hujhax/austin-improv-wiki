@@ -1,7 +1,8 @@
 {{Infobox Troupe
-|Name	=		BadWitt
-|Cast	=	{{ Unbulleted list | [[Kareem Badr]] | [[Karen Jane DeWitt]] }}
-|Years	=		2013
+|Name	 =		BadWitt
+|Cast	 =	{{ Unbulleted list | [[Kareem Badr]] | [[Karen Jane DeWitt]] }}
+|Picture = BadWitt.jpg
+|Years	 =		2013
 }}
 
 **BadWitt** is an improv duo.
