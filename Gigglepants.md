@@ -42,6 +42,7 @@ The troupe started performing in the spring semester of 2004.
 *[[Miachel Pruett]]
 *[[Michael Bird]]
 *[[Michael Domangue]]
+*[[Patrick Creamer]]
 *[[Quinn Buckner]]
 *[[Thai Le]]
 *[[Tom Glinkowski]]
