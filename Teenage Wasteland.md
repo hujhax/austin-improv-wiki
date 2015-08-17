@@ -23,7 +23,7 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>"Inspired by teen comedies like Can't Hardly Wait and Dazed and Confused, *Teenage Wasteland* follows one group of students through the events of the 'Big Party' where secrets are revealed, roles are reversed, revenge schemes are hatched, and loves are confessed."</blockquote>
+From the show announcement:<blockquote>"Inspired by teen comedies like *Can't Hardly Wait* and *Dazed and Confused*, *Teenage Wasteland* follows one group of students through the events of the 'Big Party' where secrets are revealed, roles are reversed, revenge schemes are hatched, and loves are confessed."</blockquote>
 
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
