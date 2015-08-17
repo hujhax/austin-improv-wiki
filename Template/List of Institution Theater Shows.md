@@ -23,3 +23,7 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[TIT Talks]]*
 * *[[Trust No One]]*
 * *[[You Think You're So Smart]]*
+* *[[Risen]]*
+* *[[Buzz Band]]*
+* *[[You Can't Stay Here]]*
+* *[[The Source]]*
