@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name = You Can't Stay Here
-|Picture =	You Can't Stay Here.jpg
+|Picture =	You Can't Stay Here Poster.jpg
 |Theater = [[The Institution Theater]]
 |Director =	[[Brad Hawkins]]
 |Assistant Director = [[Andreas Fabis]]
