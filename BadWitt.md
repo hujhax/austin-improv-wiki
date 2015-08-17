@@ -1,10 +1,10 @@
 {{Infobox Troupe
 |Name	=		BadWitt
-|Cast	=	{{ Unbulleted list | [[Kareem Badr]] | [[Karen DeWitt]] }}
+|Cast	=	{{ Unbulleted list | [[Kareem Badr]] | [[Karen Jane DeWitt]] }}
 |Years	=		2013
 }}
 
-**BadWitt** was an improv duo.
+**BadWitt** is an improv duo.
 
 ## Summary
 ### "What's Your Deal?"
