@@ -13,7 +13,7 @@
 ***You Can't Stay Here*** was a mainstage show at [[The Institution Theater]].
 
 ## Summary
-The show ran Fridays at 10pm from 5/15/15 to 6/19/15. It will be an improvised play chronicling the misadventures of a group of four friends out way too late.
+The show ran Fridays at 10pm from May 15 to June 19, 2015. It was an improvised play chronicling the misadventures of a group of four friends out way too late.
 
 ### Press Blurb
 From the initial show announcement: <blockquote>"It’s two a.m. in the big, bad city. The bars are closed, but the night is just beginning. Beware: Things are different when it gets this late. In this unscripted play, a group of friends will find out how"</blockquote>
