@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-**Alex Ayala** is an improv performer who works primarily with [[The Institution Theatre]].
+**Alex Ayala** is an improv performer who works primarily with [[The Institution Theater]].
 
 ## History
 ## Troupes
