@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Ellen Pizarek	
 |Formerly =     Ellen Pittsford
-|Picture =	![[Ellen.jpg]]
+|Picture =	Ellen.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2010-2012, 2015-present
 }}
