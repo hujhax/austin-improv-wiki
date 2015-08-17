@@ -27,8 +27,8 @@ Following the quiz, the first scene of the show began in Tom's Place. The four c
 
 ## Media
 ### Videos
-* [https://vimeo.com/129382913 Video of the 6/15/15 performance.]
-* [https://vimeo.com/131330299 Video of the 9/22/12 performance.]
+* [https://vimeo.com/129382913 Video of the 5/15/15 performance.]
+* [https://vimeo.com/131330299 Video of the 6/19/15 performance.]
 
 ## More Information
 * [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The show announcement] on the [[Institution Theater]] facebook page.
