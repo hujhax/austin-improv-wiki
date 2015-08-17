@@ -4,7 +4,18 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Jordan T. Maxwell]]
 |Run                = October 2015
-|Cast               = TBA
+|Cast               = 
+{{Unbulleted list|
+[[Hanna AbuZayed]] |
+[[Johnny Anzollitto]] |
+[[Jason Burnett]] |
+[[Rachel Denton]] |
+[[Kyle Grier]] |
+[[Margaret Rose Hunsicker]] |
+[[Chase Pritchett]] |
+[[Danielle Saar]] |
+[[Jessica Soos]] 
+}}
 |Tech               = TBA
 }}
 
