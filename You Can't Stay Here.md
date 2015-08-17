@@ -25,6 +25,11 @@ From the initial show announcement: <blockquote>"It’s two a.m. in the big, bad
 Following the quiz, the first scene of the show began in Tom's Place. The four central characters for the evening were introduced, and their relationships established. After one scene had concluded, director [[Brad Hawkins]] announced the closing of Tom's Place and the audience was ushered into the theater space for the remainder of the show.
 <div style="clear: both"></div>
 
+## Media
+### Videos
+* [https://vimeo.com/129382913 Video of the 6/15/15 performance.]
+* [https://vimeo.com/131330299 Video of the 9/22/12 performance.]
+
 ## More Information
 * [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The show announcement] on the [[Institution Theater]] facebook page.
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17910 The audition announcement] on [[The Austin Improv Forums]].
