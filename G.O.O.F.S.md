@@ -5,7 +5,7 @@
 |Years	=		2013-Present
 }}
 
-**G.O.O.F.S.** is an improv troupe.
+**G.O.O.F.S.** is an improv troupe. The troupe name is an acronym for  for "Ghosts Of Our Former Selves". 
 
 ## Summary
 ### Press Blurb
