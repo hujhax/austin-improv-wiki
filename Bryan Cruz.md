@@ -8,7 +8,7 @@
 **Bryan Cruz** is an improv performer.
 
 ## History
-In 2012, Bryan moved away to Houston.  Just before that, [[The Institution Theater]] threw him a farewell show.
+Bryan Cruz is a notable performer known in the Austin Improv Community before moving to Houston in 2012. Starting his improv career in 2000 with Comedy Sports High School League, he came to austin in 2003 to co-found GigglePants Improv, the premiere college improv troupe of the Univeristy of Texas at Austin,  currently still running. Starting his long form career with ED 32, he continued to perform regularly with the Institution Theater and GNAP theater projects. Currently he is in Houston, Texas teaching at Station Theater.
 
 ## Troupes
 * [[Gigglepants]] (co-founder)
