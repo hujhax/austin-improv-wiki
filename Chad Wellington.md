@@ -27,7 +27,7 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 * *[[GrimmNoir]]*
 * *[[Racket]]*
 * *[[The Joss Whedon Pajama Party]]*
-* *[[Live TV Tuesdays -  Angel]]* (Goofus/Knox)
+* *[[Live TV Tuesdays -  Angel]]* (Groofus/Knox)
 * *[[Live TV Tuesdays -  Firefly]]* (sound tech)
 * *[[Strange Worlds]]* (light tech)
 * *[[The Tribunal]]*
