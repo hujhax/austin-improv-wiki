@@ -31,6 +31,7 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 * *[[Live TV Tuesdays -  Angel]]* (Groofus, Knox)
 * *[[Live TV Tuesdays -  Firefly]]* (sound tech)
 * *[[Strange Worlds]]* (light tech)
+* *[[Thinning the Herd]]* (tech)
 * *[[The Tribunal]]*
 * *[[Live Nude Improv]]* (tech)
 * *[[Pocketful of Posies]]* (light tech)
