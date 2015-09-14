@@ -16,6 +16,7 @@ The current members of ¡Zarzamora! are:
 * [[Brad Hawkins]]
 * [[Kevin Miller]]
 * [[Topping Haggerty]]
+* [[Cole Spainhour]]
 * [[Patrick Daniel]] (member at large)
 
 Here is [[Chuy Zarate]]'s explanation of the name's origin:<blockquote>Lampe and I had always wanted to try a duo together and we were discussing names while having some beers (go figure)... It is pretty common for The Oxymmorons to mention the street, Zarzamora when referencing San Antonio locales in shows. It has kind of become a running joke... Anyway, since we are both from SA and Oxy, we decided to name our duo, iZarzamora! Then we proceeded to invite other people to join. So much for our duo...  :D</blockquote>
