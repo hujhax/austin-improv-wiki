@@ -8,7 +8,8 @@
 **Adriane Shown** is an improv performer, singer, musician, and technical improvisor.
 
 ## History
-She was one of the recipients of the [[Tom Booker]] Appreciation Awards, as well as Blind Side Award at [[The Institution Theater Awards]] 2014. Also nominated for Favorite Female Performer & her show, Hell & Back Cabaret was nominated for Favorite Variety Show.
+Having been involved with The Institution Theater before it actually had a home of it's own, she became a House Manager while still a student, once it found it's home on Woodbury Drive. And has been involved in several shows in many capacities. 
+Hurly Burly : Improvised Burlesque Stories, won two B. Iden Payne Awards, invited to play at Out Of Bounds Comedy Festival & the Seattle Festival of Improvised Theater. She was one of the recipients of the [[Tom Booker]] Appreciation Awards, as well as Blind Side Award at [[The Institution Theater Awards]] 2014. Also nominated for Favorite Female Performer & her show, Hell & Back Cabaret was nominated for Favorite Variety Show.
 
 ## Troupes
 * [[The Dark Sparkles]]
