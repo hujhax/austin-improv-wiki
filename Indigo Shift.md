@@ -70,3 +70,4 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]
+[[Category/Active|Category:Active]]
