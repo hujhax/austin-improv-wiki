@@ -2,8 +2,13 @@
 This **List of Institution Theater Shows** is designed to be transcluded into any "[[Institution Theater]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
+* *[[The Austin Monologue Jam]]*
+* *[[Highly Suggestible]]*
+* *[[Impromp-Two]]*
 * *[[The Rubber Room]]*
+* *[[Tarantula]]*
 * *[[The Triple Scoop]]*
+
 ### Mainstage Productions
 * *[[Bad Girls in Plaid Skirts]]*
 * *[[Buzz Band]]*
