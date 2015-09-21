@@ -11,6 +11,7 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 
 ### Mainstage Productions
 * *[[Bad Girls in Plaid Skirts]]*
+* *[[Boys of Summer]]*
 * *[[Buzz Band]]*
 * *[[Danger]]*
 * *[[Fuck It's Christmas]]*
