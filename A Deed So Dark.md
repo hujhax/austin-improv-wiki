@@ -6,7 +6,7 @@
 |Musical Director   = [[Ammon Taylor]]
 |Run                = Sep/Oct 2015
 |Cast               = {{Unbulleted list | [[Kacey Samiee]] | [[Erin Molson]] | [[Sarah Doering]] | [[Sarah Marie Curry]] | [[Jordan T. Maxwell]] | [[Kareem Badr]] | [[Brett Tribe]] | [[J. R. Zambrano]] }}
-|Tech               = [[Cindy Page]] (lights) | [[Rachel Posey Austin]] (sound)
+|Tech               = [[Cindy Page]] (lights) | [[Rachel Austin]] (sound)
 }}
 
 ***A Deed So Dark*** will be the September/October 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
