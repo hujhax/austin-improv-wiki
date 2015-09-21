@@ -19,7 +19,7 @@ From the show announcement:<blockquote>We're digging in deep among the roots of 
 
 ## Media
 ### Photos
-* [https://www.facebook.com/media/set/?set=a.1043460369050812.1073742262.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/19/2015 performance.
+* [https://www.facebook.com/media/set/?set=a.1043460369050812.1073742262.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/19/2015 performance.
 
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
