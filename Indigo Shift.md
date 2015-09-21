@@ -51,9 +51,9 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 ### Videos
 * [http://vimeo.com/41260565 Video of 3/29/2012.]
 * [http://vimeo.com/62552448 Video of 12/20/2012 performance.]
-* [https://vimeo.com/93075843 Video of 4/26/2014 at Alaska State Improv Festival.]
-* [https://vimeo.com/98993122 Video of encore performance at Alaska State Improv Festival.]
-* [https://www.youtube.com/watch?v=ew4jTa88Kpc Featurette with show and behind the scenes footage from 12/20/2013 performance.]
+* [http://vimeo.com/93075843 Video of 4/26/2014 at Alaska State Improv Festival.]
+* [http://vimeo.com/98993122 Video of encore performance at Alaska State Improv Festival.]
+* [http://www.youtube.com/watch?v=ew4jTa88Kpc Featurette with show and behind the scenes footage from 12/20/2013 performance.]
 
 ### Photos
 * [http://www.facebook.com/#!/media/set/?set=a.180261545388210.48035.100002130980897&type=1 Photoset] from 10/8/2011 by [[Steve Rogers]].
