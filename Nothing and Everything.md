@@ -55,6 +55,8 @@ It was part of [[The 2015 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/6/14 preview.
 * [http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 11/22/14 show.
 * [http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/20/14 show.
+* [http://www.facebook.com/media/set/?set=a.1024131600983689.1073742232.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/20/15 show at the Long Center.
+* [http://www.facebook.com/media/set/?set=a.1026071640789685.1073742233.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/23/15 show at the Long Center
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
