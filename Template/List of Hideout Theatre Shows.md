@@ -40,6 +40,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[Fandom]]*
 * *[[The Great Mundane]]*
 * *[[The Hideout Holiday Super Special]]*
+* *[[Happily Ever After]]*
 * *[[Hitchcocked!]]*
 * *[[Holy 1960s Batman, Batman!]]*
 * *[[I Love You So Much]]*
@@ -53,6 +54,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[Process]]*
 * *[[Reform School for Wayward Girls]]*
 * *[[Rock]]*
+* *[[Scene of the Crime]]*
 * *[[Spirited]]*
 * *[[Start Trekkin']]*
 * *[[Strange Worlds]]*
@@ -60,6 +62,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[Theatresports]]*
 * *[[Twilight Zoned]]*
 * *[[The Violet Underbelly]]*
+* *[[Wanderlust]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 
 ### Student Mainstage Productions
