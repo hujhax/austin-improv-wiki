@@ -12,6 +12,7 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 
 ### Mainstage Productions
 * *[[Bad Girls in Plaid Skirts]]*
+* *[[Bitterfest]]*
 * *[[Boys of Summer]]*
 * *[[Buzz Band]]*
 * *[[Danger]]*
@@ -23,6 +24,7 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[The Ladies Room]]*
 * *[[Late Night Time Machine]]*
 * *[[Live TV Tuesdays]]*
+* *[[Love Fest]]*
 * *[[Manson -  The Musical]]*
 * *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
 * *[[The Next Chapter]]* (2013)
