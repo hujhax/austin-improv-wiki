@@ -77,6 +77,13 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 * 8/9/14: Joe Parsons
 * 8/16/14: [[Dave Buckman]]
 * 8/23/14: Pick-a-Boy Audience Choice (Mike Carreon)
+### 2015 Run
+* 7/17/15: [[Troy Miller]]
+* 7/18/15: [[Dave Ronn]]
+* 7/24/15: [[Ryan Austin]]
+* 7/25/15: [[David Lampe]]
+* 7/31/15: [[Kevin Miller]]
+* 8/1/15: [[Andrew Buck]]
 
 ## Media
 ### Videos
