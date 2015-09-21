@@ -17,6 +17,10 @@
 ### Publicity Blurb
 From the show announcement:<blockquote>"A futuristic blade-runner/cyber-punk/cyborg/robot-styled MUSCAL.  So... the best thing ever?  Yes."</blockquote>
 
+## Media
+### Photos
+* [https://www.facebook.com/media/set/?set=a.982805205116329.1073742212.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 6/13/2015 performance.
+
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
 
