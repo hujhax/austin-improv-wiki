@@ -35,6 +35,7 @@ The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, eac
 * *[[Camp Madeupponathaspotta]]*
 * *[[Cochise]]*
 * *[[Cops and Lawyers]]*
+* *[[A Deed So Dark]]*
 * *[[Fakespeare]]*
 * *[[Fandom]]*
 * *[[The Great Mundane]]*
