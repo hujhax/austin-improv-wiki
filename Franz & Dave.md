@@ -10,7 +10,7 @@
 **Franz & Dave** is a duo consisting of [[Brad Hawkins]] and [[Christopher 'Ceej' Allen]], playing the roles of [[Wikipedia - Franz Kafka|Franz Kafka]] and [[Wikipedia - David Lynch|David Lynch]].
 
 ## History
-Franz & Dave was conceived in the [[The Hideout Theatre|Hideout's]] green room during a show sometime in early 2011. The duo debuted as part of [[ColdTowne Theater|ColdTowne]]'s [[Shakedown]], hosted by [[Brett Tribe]]. They played to an audience of six that night.
+Franz & Dave was conceived in the [[The Hideout Theatre|Hideout's]] green room during a show sometime in early 2011. The duo debuted as part of [[ColdTowne Theater|ColdTowne]]'s [[Shakedown]] on May 11 of that year, hosted by [[Brett Tribe]]. They played to an audience of six that night.
 
 In addition to their regular two-person format, Franz & Dave have played a number of one-off shows including a [[Free Fringe]] appearance out of their usual costumes, in which the characters of Kafka and Lynch played recent [[The Hideout Theatre|Hideout]] graduates performing their first improv show. On April 17, 2014, again as part of the Free Fringe, Franz & Dave directed a [[Maestro]].
 
