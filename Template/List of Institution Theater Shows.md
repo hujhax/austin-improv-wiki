@@ -6,12 +6,14 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[The Triple Scoop]]*
 ### Mainstage Productions
 * *[[Bad Girls in Plaid Skirts]]*
+* *[[Buzz Band]]*
 * *[[Danger]]*
 * *[[Fuck It's Christmas]]*
 * *[[Fuck It's Hot]]*
 * *[[Hell & Back Cabaret]]* (2013)
 * *[[Hurly Burly]]* 
 * *[[The Joss Whedon Pajama Party]]* 
+* *[[The Ladies Room]]*
 * *[[Live TV Tuesdays]]*
 * *[[Manson -  The Musical]]*
 * *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
@@ -19,11 +21,10 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[Not This American Life]]*
 * *[[Only Three Will Survive]]*
 * *[[Pulp Friction]]*
+* *[[Risen]]*
+* *[[The Source]]*
 * *[[The Suitcase]]* (2013)
 * *[[TIT Talks]]*
 * *[[Trust No One]]*
-* *[[You Think You're So Smart]]*
-* *[[Risen]]*
-* *[[Buzz Band]]*
 * *[[You Can't Stay Here]]*
-* *[[The Source]]*
+* *[[You Think You're So Smart]]*
