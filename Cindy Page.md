@@ -17,7 +17,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 ## Shows
 * *[[The Aftermath]]* *(assistant director)*
 * *[[After School Improv]]* *(tech)*
-* *[[Austin Secrets]]* *(tech)*
+* *[[Austin Secrets]]* *(Seasons 3 and 4) (tech director, tech)*
 * *[[BatShyt Crazy]]* *(performer)*
 * *[[The Black Vault]]* *(tech)*
 * *[[Charles Dickens Unleashed]]* *(tech)*
