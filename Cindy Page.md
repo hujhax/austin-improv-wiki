@@ -21,8 +21,13 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[BatShyt Crazy]]* *(performer)*
 * *[[The Black Vault]]* *(tech)*
 * *[[Charles Dickens Unleashed]]* *(tech)*
+* *[[Christmas at the Cozy Mountain Inn]]* *(tech)*
+* *[[A Deed So Dark]]* *(tech)*
 * *[[Fakespeare]]* *(crew)*
 * *[[Flying Theater Machine]]* *(tech)*
+* *[[Fragile Rock]]* *(musician)*
+* *[[Fuck It's Christmas]]* *(musician)*
+* *[[Fuck It's Hot]]* *(musician)*
 * *[[GrimmNoir]]* *(tech)*
 * *[[The International Improv Experience]]* ''(tech)
 * *[[Hell & Back Cabaret]]* *(tech, performer)*
