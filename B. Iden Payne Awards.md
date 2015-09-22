@@ -80,19 +80,14 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 *** [[The Frank Mills]]
 
 ### 2009-2010 Season
-*Rudy Kloptik Award for Outstanding Work in Improvisational Theatre: [[Confidence Men -  Improvised Mamet]]
-
-Nominees:
-
-[[Austin Secrets]] ([[The Hideout Theatre]])
-
-[[ColdTowne]] ([[ColdTowne Theater]])
-
-[[Confidence Men -  Improvised Mamet]] ([[The Institution Theater]])
-
-[[Dusk -  Improvised Tween Erotica]] ([[GNAP! Theater Productions]])
-
-[[The Frank Mills]] ([[ColdTowne Theater]])
+*Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
+** Winner: [[Confidence Men -  Improvised Mamet]]
+** Nominees:
+*** [[Austin Secrets]] ([[The Hideout Theatre]])
+*** [[ColdTowne]] ([[ColdTowne Theater]])
+*** [[Confidence Men -  Improvised Mamet]] ([[The Institution Theater]])
+*** [[Dusk -  Improvised Tween Erotica]] ([[GNAP! Theater Productions]])
+*** [[The Frank Mills]] ([[ColdTowne Theater]])
 
 ### 2010-2011 Season
 *The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble: [[Confidence Men -  Improvised Mamet]]
