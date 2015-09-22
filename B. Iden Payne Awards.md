@@ -70,19 +70,14 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 [[Dave Buckman]], [[Asaf Ronen]], [[Tami Nelson]], [[Chris Trew]], [[Michael Jastroch]], [[Shana Merlin]], [[Roy Janik]], and [[Justin York]].
 
 ### 2008-2009 Season
-* Rudy Kloptik Award for Outstanding Work in Improvisational Theatre: [[Parallelogramophonograph]]
-
-Nominees:
-
-[[ColdTowne]]
-
-[[Confidence Men -  Improvised Mamet]]
-
-[[Midnight Society]]
-
-[[Parallelogramophonograph]]
-
-[[The Frank Mills]]
+* Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
+** Winner: [[Parallelogramophonograph]]
+** Nominees:
+*** [[ColdTowne]]
+*** [[Confidence Men -  Improvised Mamet]]
+*** [[Midnight Society]]
+*** [[Parallelogramophonograph]]
+*** [[The Frank Mills]]
 
 ### 2009-2010 Season
 *Rudy Kloptik Award for Outstanding Work in Improvisational Theatre: [[Confidence Men -  Improvised Mamet]]
