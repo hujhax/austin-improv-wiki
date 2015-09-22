@@ -274,6 +274,6 @@ Outstanding Set Design Nominee:
 
 *[[Happily Ever After]]*
 
-Outstanding Cast Performance:
+Outstanding Cast Performance Nominee:
 
 *[[Nothing and Everything]]*
