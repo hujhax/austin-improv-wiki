@@ -210,70 +210,40 @@ Outstanding Puppetry Nominee:
 [[A Bedtime Gorey]]
 
 ### 2014-2015 Season
-* Outstanding Production: 
-
-Nominees:
-
-*[[Late Night Time Machine]]*
-
-*[[Nothing and Everything]]*
-
-*[[Risen]]*
-
-*[[Girls Girls Girls|The Secret Lives of Soccer Moms]]*
-
-*[[You Can't Stay Here]]*
+* Outstanding Production 
+** Nominees:
+*** *[[Late Night Time Machine]]*
+*** *[[Nothing and Everything]]*
+*** *[[Risen]]*
+*** *[[Girls Girls Girls|The Secret Lives of Soccer Moms]]*
+*** *[[You Can't Stay Here]]*
 
 
-
-* Outstanding Director: 
-
-Nominees:
-
-[[Jon Bolden]], *[[Nothing and Everything]]*
-
-[[Sarah Marie Curry]], *[[Risen]]*
-
-[[Girls Girls Girls]], *The Secret Lives of Soccer Moms*
-
-[[Brad Hawkins]], *[[You Can't Stay Here]]*
-
-[[Mason Pitluk]], *[[Late Night Time Machine]]*
+* Outstanding Director
+** Nominees:
+*** [[Jon Bolden]], *[[Nothing and Everything]]*
+*** [[Sarah Marie Curry]], *[[Risen]]*
+*** [[Girls Girls Girls]], *The Secret Lives of Soccer Moms*
+*** [[Brad Hawkins]], *[[You Can't Stay Here]]*
+*** [[Mason Pitluk]], *[[Late Night Time Machine]]*
 
 
-
-* Rudy Kloptik Award for Outstanding Improvisational Troupe: 
-
-Nominees:
-
-[[Bad Boys]]
-
-[[Loverboy]]
-
-[[Movie Riot]]
-
-[[Parallelogramophonograph]]
-
-[[Patio Talk]]
-
-[[The Knuckleball Now]]
+* Rudy Kloptik Award for Outstanding Improvisational Troupe 
+** Nominees:
+*** [[Bad Boys]]
+*** [[Loverboy]]
+*** [[Movie Riot]]
+*** [[Parallelogramophonograph]]
+*** [[Patio Talk]]
+*** [[The Knuckleball Now]]
 
 
-
-*General Theatre Awards and nominations: 
-
-Outstanding Puppetry Nominee:
-
-*[[Fragile Rock]]*
-
-Outstanding Original Score Nominee:
-
-*[[Fragile Rock]]*
-
-Outstanding Set Design Nominee:
-
-*[[Happily Ever After]]*
-
-Outstanding Cast Performance Nominee:
-
-*[[Nothing and Everything]]*
+*General Theatre Awards and nominations
+** Outstanding Puppetry Nominee:
+*** *[[Fragile Rock]]*
+** Outstanding Original Score Nominee:
+*** *[[Fragile Rock]]*
+** Outstanding Set Design Nominee:
+*** *[[Happily Ever After]]*
+** Outstanding Cast Performance Nominee:
+*** *[[Nothing and Everything]]*
