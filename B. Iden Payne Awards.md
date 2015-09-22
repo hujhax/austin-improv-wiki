@@ -214,13 +214,13 @@ Outstanding Puppetry Nominee:
 
 Nominees:
 
-*[[Girls Girls Girls|The Secret Lives of Soccer Moms]]*
-
 *[[Late Night Time Machine]]*
 
 *[[Nothing and Everything]]*
 
 *[[Risen]]*
+
+*[[Girls Girls Girls|The Secret Lives of Soccer Moms]]*
 
 *[[You Can't Stay Here]]*
 
