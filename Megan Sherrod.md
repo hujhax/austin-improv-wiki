@@ -14,6 +14,7 @@ Megan Sherrod is a classically trained mezzo soprano and improv performer.  She 
 Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014. She won her first [[Maestro]] on October 4, 2014.
 
 ## Shows
+* *[[Boy, Howdy!]]*
 * *[[Buzz Band]]*
 * *[[The Fancy-Pants Mash-Up]]*
 * *[[Happily Ever After]]*
