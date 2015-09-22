@@ -208,3 +208,72 @@ Nominees:
 Outstanding Puppetry Nominee:
 
 [[A Bedtime Gorey]]
+
+### 2014-2015 Season
+* Outstanding Production: 
+
+Nominees:
+
+*[[Girls Girls Girls|The Secret Lives of Soccer Moms]]*
+
+*[[Late Night Time Machine]]*
+
+*[[Nothing and Everything]]*
+
+*[[Risen]]*
+
+*[[You Can't Stay Here]]*
+
+
+
+* Outstanding Director: 
+
+Nominees:
+
+[[Brad Hawkins]], *[[You Can't Stay Here]]*
+
+[[Sarah Marie Curry]], *[[Risen]]*
+
+[[Jon Bolden]], *[[Nothing and Everything]]*
+
+[[Girls Girls Girls]], *The Secret Lives of Soccer Moms*
+
+[[Mason Pitluk]], *[[Late Night Time Machine]]*
+
+
+
+* Rudy Kloptik Award for Outstanding Improvisational Troupe: 
+
+Nominees:
+
+[[Bad Boys]]
+
+[[Loverboy]]
+
+[[Movie Riot]]
+
+[[Parallelogramophonograph]]
+
+[[Patio Talk]]
+
+[[The Knuckleball Now]]
+
+
+
+*General Theatre Awards and nominations: 
+
+Outstanding Puppetry Nominee:
+
+*[[Fragile Rock]]*
+
+Outstanding Original Score Nominee:
+
+*[[Fragile Rock]]*
+
+Outstanding Set Design Nominee:
+
+*[[Happily Ever After]]*
+
+Outstanding Cast Performance:
+
+*[[Nothing and Everything]]*
