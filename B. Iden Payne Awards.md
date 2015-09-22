@@ -210,7 +210,7 @@ Outstanding Puppetry Nominee:
 [[A Bedtime Gorey]]
 
 ### 2014-2015 Season
-* Outstanding Production 
+* Outstanding Improvised Production 
 ** Nominees:
 *** *[[Late Night Time Machine]]*
 *** *[[Nothing and Everything]]*
@@ -219,7 +219,7 @@ Outstanding Puppetry Nominee:
 *** *[[You Can't Stay Here]]*
 
 
-* Outstanding Director
+* Outstanding Director - Improv
 ** Nominees:
 *** [[Jon Bolden]], *[[Nothing and Everything]]*
 *** [[Sarah Marie Curry]], *[[Risen]]*
