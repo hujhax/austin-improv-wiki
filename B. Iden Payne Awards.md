@@ -230,13 +230,13 @@ Nominees:
 
 Nominees:
 
-[[Brad Hawkins]], *[[You Can't Stay Here]]*
+[[Jon Bolden]], *[[Nothing and Everything]]*
 
 [[Sarah Marie Curry]], *[[Risen]]*
 
-[[Jon Bolden]], *[[Nothing and Everything]]*
-
 [[Girls Girls Girls]], *The Secret Lives of Soccer Moms*
+
+[[Brad Hawkins]], *[[You Can't Stay Here]]*
 
 [[Mason Pitluk]], *[[Late Night Time Machine]]*
 
