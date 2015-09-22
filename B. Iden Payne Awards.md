@@ -121,60 +121,40 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 *** *[[The Suitcase]]* ([[The Institution Theater]])
 
 ### 2013-2014 Season
-* Outstanding Production: *[[Hurly Burly]]*
+* Outstanding Production
+** Winner: *[[Hurly Burly]]*
+** Nominees:
+*** *[[A Bedtime Gorey]]*
+*** *[[Hurly Burly]]*
+*** *[[Kenjutsu]]*
+*** *[[I Love You So Much]]*
+*** *[[Austin Secrets]]*
+*** *[[TIT Talks]]*
 
-Nominees:
-
-[[A Bedtime Gorey]]
-
-[[Hurly Burly]]
-
-[[Kenjutsu]]
-
-[[I Love You So Much]]
-
-[[Austin Secrets]]
-
-[[TIT Talks]]
-
-
-* Outstanding Director: [[Jayme Ramsay]] and [[Marc Majcher]], *[[Hurly Burly]]*
-
-Nominees:
-
-[[Jayme Ramsey]] and [[Marc Majcher]] ([[Hurly Burly]])
-
-[[Valerie Ward]] ([[A Bedtime Gorey]])
-
-[[Kareem Badr]] and [[Shannon McCormick]] ([[Kenjutsu]])
-
-[[Roy Janik]] and [[Jessica Arjet]] ([[I Love You So Much]]) 
-
-[[Roy Janik]] and [[Lisa Jackson]] ([[Austin Secrets]])
+* Outstanding Director
+** Winners: [[Jayme Ramsay]] and [[Marc Majcher]], *[[Hurly Burly]]*
+** Nominees:
+*** [[Jayme Ramsey]] and [[Marc Majcher]] (*[[Hurly Burly]]*)
+*** [[Valerie Ward]] (*[[A Bedtime Gorey]]*)
+*** [[Kareem Badr]] and [[Shannon McCormick]] (*[[Kenjutsu]]*)
+*** [[Roy Janik]] and [[Jessica Arjet]] (*[[I Love You So Much]]*) 
+*** [[Roy Janik]] and [[Lisa Jackson]] (*[[Austin Secrets]]*)
 
 
 
-* Rudy Kloptik Award for Outstanding Improvisational Troupe: [[Girls Girls Girls]]
-
-Nominees:
-
-[[Bad Boys]]
-
-[[Girls Girls Girls]]
-
-[[Parallelogramophonograph]]
-
-[[Movie Riot]]
-
-[[The Knuckleball Now]]
-
+* Rudy Kloptik Award for Outstanding Improvisational Troupe
+** Winner: [[Girls Girls Girls]]
+** Nominees:
+*** [[Bad Boys]]
+*** [[Girls Girls Girls]]
+*** [[Parallelogramophonograph]]
+*** [[Movie Riot]]
+*** [[The Knuckleball Now]]
 
 
 *General Theatre Awards and nominations: 
-
-Outstanding Puppetry Nominee:
-
-[[A Bedtime Gorey]]
+** Outstanding Puppetry Nominee:
+*** [[A Bedtime Gorey]]
 
 ### 2014-2015 Season
 * Outstanding Improvised Production 
