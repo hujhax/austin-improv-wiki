@@ -43,6 +43,9 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 *2014 - Vancouver Theatre Sports League Valentine's Day Massacre - *[[Theatresports]]* 
 *2014 - Improvised Play Festival - *[[The Big Bash]]*, *[[Kenjutsu]]*
 *2014 - The Out Of Bounds Comedy Festival - [[Tastemakers]]
+*2015 - Improvised Play Festival - *[[Austin Secrets]]*
+*2015 - [[46-Hour Improv Marathon]]
+*2015 - The Out Of Bounds Comedy Festival - [[Austin-Austin]], [[Tastemakers]], *[[Thunderdome]]*
 
 ## More Information
 * [http://yesandrew.com/the-sunday-interview-quinn-buckner-2/ Interview] by [[Andrew Buck]].
