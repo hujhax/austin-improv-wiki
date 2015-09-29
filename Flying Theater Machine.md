@@ -40,14 +40,13 @@ The format of the show changes regularly (see below), but always emphasizes audi
 ## Cast
 * [[Jessica Arjet]]       (2007-Present) 
 * [[Thedward Blevins]]    (Sep 2012-Present)  
-* [[Caeriel Crestin]]
+* [[Caeriel Crestin]]     (Mar 2012-Present)
 * [[Mitchell Deane]]
-* [[Lindsay Hejl]]        (Mar 2014-Present)
-* [[Ryan Hill]]             
+* [[Ryan Hill]]             (Jan 2015-Present)
 * [[Megan Venable]]       (Sep 2013-Present)
 * [[Luke Wallens]]
-* [[Nicole Oliver]]       (Jun 2014-Present)
 * [[Aspen Webster]]       (Jun 2014-Present)
+* [[Tyler Bryce]]        (Aug 2015-Present)
 
 ### Touring
 * [[Jessica Arjet]]
@@ -70,6 +69,8 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Kristin Firth]]
 * [[Cody Melcher]]
 * [[Neal Tibrewala]]
+* [[Nicole Oliver]]       (Jun 2014-2015)
+* [[Lindsay Hejl]]        (Mar 2014-2015)
 
 ## Media
 ### Photos
