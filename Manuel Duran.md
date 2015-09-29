@@ -11,4 +11,4 @@
 * *[[What the F@$]]*
 * *[[Wanderlust]]*
 * *[[Buzz Band]]*
-* "[[Lonely Star]]"
+* [[Lonely Star]]
