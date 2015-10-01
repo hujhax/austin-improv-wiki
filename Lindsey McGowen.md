@@ -18,11 +18,13 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 
 ## Shows
 * *[[Austin Secrets]]* (2015 run) (technical director)
-* *[[Control Issues]]* (technical director/sound tech)
+* *[[Boy, Howdy!]]* (technical director/light tech)
+* *[[Control Issues]]* (technical director)
 * *[[Four Chambers]]* (technical director)
 * *[[GrimmNoir]]* (sound tech)
-* *[[History Under the Influence]]* (tech director)
+* *[[History Under the Influence]]* (technical director)
 * *[[Hurly Burly]]* (sound tech/stage manager)
+* *[[Lonely Star]]* (scoring tech)
 * *[[Tech Nightmare]]* (scoring tech)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The International Improv Experience]]* (light tech)
