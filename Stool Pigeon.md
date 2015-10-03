@@ -17,7 +17,7 @@ Every week, the "pigeon" would be a local-celebrity, non-improvisor guest.  The 
 * [http://vimeo.com/52598841 Video] by [[Paul Normandin]] of the 10/16/12 show, featuring [[Paul Normandin]] as the monologist.
 * [http://vimeo.com/74238788 Video] by [[Brad Hawkins]] of the "Richard Garriott" show from [[The 2013 Out of Bounds Comedy Festival]].
 * [http://vimeo.com/105446582 Video] of their performance in [[The 2014 Out of Bounds Comedy Festival]].
-* [http://vimeo.com/138460333 Video] of the 9.6.15 "Kirk Watson"show at [[The 2015 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/138460333 Video] of the 9/6/15 "Kirk Watson"show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/17/12 performance.
