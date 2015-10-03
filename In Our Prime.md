@@ -74,6 +74,8 @@ Here is [[Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our
 * [https://vimeo.com/111587850 Video] by [[Paul Normandin]] of their 8/17/14 show at [[The Hideout Theatre]].
 * [http://vimeo.com/109193870 Video] of their 8/27/14 show in [[The 2014 Out of Bounds Comedy Festival]].
 * [https://vimeo.com/112559537 Video] by [[Paul Normandin]] of their 11/20/14 show at [[WaffleFest 2014]].
+* [http://vimeo.com/125622408 Video] of their performance in the 2015 Improv Festival Oklahoma.
+* [http://vimeo.com/136269875 Video] of their 8/9/15 performance in *[[The Weekender]]*.
 
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
