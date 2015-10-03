@@ -24,6 +24,16 @@ From the show announcement:<blockquote>Improvised musicals inspired by Disney ch
 * [http://www.facebook.com/michael.yew/media_set?set=a.10204627104700298.1073741961.1315383518&type=3 Photoset] by [[Michael Yew]] of the 8/8/2015 performance.
 * [http://www.facebook.com/media/set/?set=a.1021281541268695.1073742231.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/15/2015 performance.
 
+### Video
+* [http://vimeo.com/133297740 Video] of the 7/11/15 show.
+* [http://vimeo.com/133980157 Video] of the 7/18/15 show.
+* [http://vimeo.com/134524228 Video] of the 7/25/15 show.
+* [http://vimeo.com/135667561 Video] of the 8/1/15 show.
+* [http://vimeo.com/135971822 Video] of the 8/8/15 show.
+* [http://vimeo.com/136896956 Video] of the 8/15/15 show.
+* [http://vimeo.com/139927327 Video] of the 8/25/15 show.
+* [http://vimeo.com/139927328 Video] of the 8/29/15 show.
+
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
 
