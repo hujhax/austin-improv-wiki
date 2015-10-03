@@ -86,6 +86,9 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [http://vimeo.com/65951692 2/9/13 Maestro.]
 * [http://vimeo.com/73717598 Video] by [[Brad Hawkins]] of the "All-Star Maestro" at [[The 2013 Out of Bounds Comedy Festival]].
 * [http://vimeo.com/92380406 Video] by [[Peter Rogers]] of the 4/17/14 "[[Franz and Dave]] *Maestro*".
+* [http://vimeo.com/130693553 Video] of the 6/13/15 show.
+* [http://vimeo.com/132017797 Video] of the 6/27/15 show.
+* [http://vimeo.com/134695308 Video] of the 7/25/15 show.
 
 ### Photos
 #### 2002
@@ -198,6 +201,10 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 #### 2014
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201313265936400.1073741880.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2/1/14 show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10203017065250318.1073741917.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/22/14 Maestro in [[WaffleFest 2014]].
+
+#### 2015
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204347096420266.1073741955.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 6/20/15 show in [[The 46-Hour Improv Marathon]].
+* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207893234355168.1425495839&type=3 Photoset] by [[Jay Mahavier]] of the 8/22/15 performance.
 
 ## Notes
 <references />
