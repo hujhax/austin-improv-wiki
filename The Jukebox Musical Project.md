@@ -49,6 +49,16 @@ Set during the Salem Witch Trials and featuring music by Radiohead (July 2015)
 * [[Jill Summar]]
 * [[Kelly Campbell]]
 
+### Renaissance Queen
+Set during the Italian Renaissance and featuring music by Queen (October 2015)
+#### Cast
+* [[Peter Rogers]] - Leonardo
+* [[Bryan Curry]] - Michelangelo
+* [[Nicholaus Weindel]] - Rafael 
+* [[Kim Stacy]] - Chorus/Teacher
+* [[Cené Hale]] - Chorus/Margharita/Father
+* [[Lindsey McGowen]] - Chorus/Mother/Medici
+
 ## Media
 ### Videos
 * [http://vimeo.com/122473300 The 3.14.15 performance of "The Black Death".]
