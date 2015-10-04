@@ -25,6 +25,7 @@ It has performed a weekly show at ColdTowne Theater since November of 2011 and i
 * [http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
 * [http://www.facebook.com/media/set/?set=a.591956450867875.1073741927.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 8/30/13 performance at [[The ColdTowne Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204338867854557.1073741953.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/20/15 show in [[The 46-Hour Improv Marathon]].
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
