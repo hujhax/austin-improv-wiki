@@ -61,8 +61,9 @@ Set during the Italian Renaissance and featuring music by Queen (October 2015)
 
 ## Media
 ### Videos
-* [http://vimeo.com/122473300 The 3.14.15 performance of "The Black Death".]
-* [http://vimeo.com/128108210 The 5.9.15 performance of "In the Air Tonight".]
+* [http://vimeo.com/122473300 Video] of the 3/14/15 performance of "The Black Death".
+* [http://vimeo.com/128108210 Video] of the 5/9/15 performance of "In the Air Tonight".
+* [http://vimeo.com/133717920 Video] of the 7/10/15 performance of "Karma Police".
 
 ## More Information
-* [https://www.facebook.com/JukeboxBway The show's facebook page.]
+* [http://www.facebook.com/JukeboxBway The show's facebook page.]
