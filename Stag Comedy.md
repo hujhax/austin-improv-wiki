@@ -17,6 +17,7 @@ The troupe produced "Stab Comedy", a Halloween-themed sketch show, as a mainstag
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.744463752283810.1073742012.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at the 2014 [[Austin Sketch Fest]].
+* [http://www.facebook.com/media/set/?set=a.965141490216034.1073742201.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes highlights of their 5/21/15 show at [[Austin Sketch Fest]].
 
 ## More Information
 * [http://stagcomedy.com/?page_id=549 The troupe's web page.]
