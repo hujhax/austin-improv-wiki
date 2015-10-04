@@ -61,6 +61,7 @@ This is their bio from their web site:
 * [http://www.viddler.com/v/2a1b2ab3 Video of their 2/16/13 show.] ("Jury Duty")
 * [http://vimeo.com/69454380 Video of their 6/22/13 performance] in [[The 44-Hour Improv Marathon]].
 * [http://vimeo.com/74439292 Video of their 8/31/13 performance] in [[The 2013 Out of Bounds Comedy Festival]].
+* [http://vimeo.com/125266916 Video] of their 4/11/15 show at [[The 2015 Improvised Play Festival]].
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/25/09 show.
@@ -103,6 +104,8 @@ This is their bio from their web site:
 * [https://www.facebook.com/media/set/?set=a.644308972299289.1073741951.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 100th show on 12/6/13.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202535417569427.1073741903.1315383518&type=3 Photoset] by [[Michael Yew]] of their show at [[The 2014 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10203012933787034.1073741915.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
+* [http://www.facebook.com/media/set/?set=a.941955962534587.1073742183.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/11/15 performance in [[The Improvised Play Festival]].
+* [http://www.facebook.com/jay.mahavier/media_set?set=a.10208027980203730.1073741867.1425495839&type=3 Photoset] by [[Jay Mahavier]] of the 9/2/15 performance ("TED Talks") in [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Audio
 * [http://ferstenfeld.com/mp3s/prov/may23-confidancemen-rehearsal-tearoom.mp3 Audio of their 5/23/09 rehearsal.] ("Tea Room")
