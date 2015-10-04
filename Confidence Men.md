@@ -106,6 +106,7 @@ This is their bio from their web site:
 * [http://www.facebook.com/michael.yew/media_set?set=a.10203012933787034.1073741915.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
 * [http://www.facebook.com/media/set/?set=a.941955962534587.1073742183.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/11/15 performance in [[The Improvised Play Festival]].
 * [http://www.facebook.com/jay.mahavier/media_set?set=a.10208027980203730.1073741867.1425495839&type=3 Photoset] by [[Jay Mahavier]] of the 9/2/15 performance ("TED Talks") in [[The 2015 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/media/set/?set=a.1042876175775898.1073742261.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/18/15 performance in "The [[Indigo Shift]] Cabaret".
 
 ### Audio
 * [http://ferstenfeld.com/mp3s/prov/may23-confidancemen-rehearsal-tearoom.mp3 Audio of their 5/23/09 rehearsal.] ("Tea Room")
