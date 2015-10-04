@@ -26,6 +26,8 @@ In June of 2014, Kevin took an impromptu trip to Tampere, Finland, where he had 
 * [http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=1 Photoset] by [[Chad Wellington]] that includes their 5/29/14 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
 * [http://www.facebook.com/media/set/?set=a.891482047581979.1073742147.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 1/25/15 performance in *[[The Weekender]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204338867854557.1073741953.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/20/15 show in [[The 46-Hour Improv Marathon]].
+* [http://www.facebook.com/media/set/?set=a.1031442486919267.1073742238.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Videos
 * [http://vimeo.com/89691491 The original 3/20/14 *Free Fringe* show.] 
@@ -33,6 +35,7 @@ In June of 2014, Kevin took an impromptu trip to Tampere, Finland, where he had 
 * [http://vimeo.com/94626212 The 5/8/14 show.] 
 * [http://vimeo.com/95560857 The 5/15/14 show.]
 * [http://vimeo.com/111584860 Video] by [[Peter Rogers]] of the 11/6/14 show.
+* [http://vimeo.com/134444206 Video] of their 6/11/15 performance in [[The 46-Hour Improv Marathon]].
 
 ## More Information
 * The [http://www.youtube.com/user/DrunkHistory youtube series] and [http://www.cc.com/shows/drunk-history Comedy Central show] that inspired the format.
