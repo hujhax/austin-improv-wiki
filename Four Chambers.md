@@ -61,5 +61,9 @@ This show played on May 30, 2015.
 * [[Jeanette Jones]]
 * [[Mike Kinald]]
 
+## Media
+### Videos
+* [http://vimeo.com/130296223 Video] of the 5/23/15 performance of "Juggernaut" .
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
