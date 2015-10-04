@@ -20,8 +20,9 @@ ImPROPer - Each troupe member brings a random prop to incorporate into scenes. T
 
 ## Media
 ### Videos
-* [http://vimeo.com/channels/soytaco Video #2]
-* [http://vimeo.com/112549075 Video #1]
+* [http://vimeo.com/112549075 Video] of a show.
+* [http://vimeo.com/116787434 Video] of their 1/11/15 graduation show.
+* [http://vimeo.com/119615091 Video] of their 2/12/15 show in *[[The Threefer]]*.
 
 ## More Information
 * [http://www.facebook.com/groups/soytaco/ The troupe's web site.]
