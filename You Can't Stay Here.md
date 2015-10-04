@@ -31,8 +31,13 @@ Following the quiz, the first scene of the show began in Tom's Place. The four c
 
 ## Media
 ### Videos
-* [https://vimeo.com/129382913 Video of the 5/15/15 performance.]
-* [https://vimeo.com/131330299 Video of the 6/19/15 performance.]
+* [http://vimeo.com/129382913 Video] of their 5/15/15 "Elizabeth" performance.
+* [http://vimeo.com/131330299 Video] of their 6/19/15 "DeathStar" performance.
+
+### Photos
+* [http://www.facebook.com/media/set/?set=a.961898103873706.1073742197.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 5/15/15 debut.
+* [http://www.facebook.com/media/set/?set=a.842131695863343.1073741859.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 6/12/15 performance.
+* [http://www.facebook.com/media/set/?set=a.986488161414700.1073742215.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/19/15 closing night.
 
 ## More Information
 * [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The show announcement] on the [[Institution Theater]] facebook page.
