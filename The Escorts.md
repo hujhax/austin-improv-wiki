@@ -2,7 +2,7 @@
 |Name	=	The Escorts
 |Picture =     The_Escorts_2014.jpg
 |Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Lindsey Reeves]] | [[Aaron Saenz]] (2014-Present) | [[Ruby Willmann]] | [[Shannon Dale Stott]] (2015-Present)}}
-|Past Members - {{Unbulleted list | [[Marc Majcher]] (2011-2015) | [[Alex Dobrenko]] (2011-2013)}}
+|Past Members = {{Unbulleted list | [[Marc Majcher]] (2011-2015) | [[Alex Dobrenko]] (2011-2013)}}
 |Years	=		2011-Present
 }}
 
