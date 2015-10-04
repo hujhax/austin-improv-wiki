@@ -1,7 +1,8 @@
 {{Infobox Troupe
 |Name	=	The Escorts
 |Picture =     The_Escorts_2014.jpg
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Marc Majcher]] | [[Lindsey Reeves]] | [[Aaron Saenz]] (2014-Present) | [[Ruby Willmann]] | [[Alex Dobrenko]] (2011-2013)}}
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Lindsey Reeves]] | [[Aaron Saenz]] (2014-Present) | [[Ruby Willmann]]}}
+|Past Members - {{Unbulleted list | [[Marc Majcher]] (2011-2015) | [[Alex Dobrenko]] (2011-2013)}}
 |Years	=		2011-Present
 }}
 
