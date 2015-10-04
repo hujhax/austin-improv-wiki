@@ -182,8 +182,8 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 
 ## Media
 ### Videos
-* [http://vimeo.com/74687764 Video of the 8/29/13 roast of Tim League.]
-* [http://vimeo.com/74439290 Video of the 8/31/13 All Girl Revue.]
+* [http://vimeo.com/82058494 Video] of the [[Midnight Society]] performance.
+* [http://vimeo.com/80117806 Video] of the [[Knuckleball Now]] performance.
 * [http://vimeo.com/74079905 Video] by [[Dave Alley]] of the Shock T's first show.
 * [http://vimeo.com/75142719 Video] by [[Dave Alley]] of the Shock T's second show.
 * [http://vimeo.com/74561501 Video] by [[Dave Alley]] of the Doubtful Guests show.
@@ -197,6 +197,11 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [http://vimeo.com/74381930 Video] by [[Brad Hawkins]] of the "Thunderstood" show.
 * [http://vimeo.com/74571786 Video] by [[Brad Hawkins]] of the "New Money" show.
 * [http://vimeo.com/76269860 Video] of the Hill/Jones show.
+* [http://vimeo.com/74687764 Video of the 8/29/13 roast of Tim League.]
+* [http://vimeo.com/79299057 Video] of the 8/30/13 All Girl Revue performance.
+* [http://vimeo.com/74055491 Video] of the 8/30/13 [[Stag]] performance.
+* [http://vimeo.com/74439290 Video of the 8/31/13 All Girl Revue.]
+* [http://vimeo.com/75094440 Video] of the 9/1/13 [[Waiting for Batman]] performance.
 
 ### Photos
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.608306615857504.1073741849.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the festival's "Out of Funds" fundraiser.
