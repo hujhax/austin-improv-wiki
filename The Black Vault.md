@@ -54,6 +54,7 @@ In 2014, the cast began production on *[http://blackvault.austinimprov.com Tales
 * [https://www.youtube.com/watch?v=k07bu91F9H4#t=2678 Video of the 3/27/14 performance] by [[Warren Henderson]].
 * [http://vimeo.com/114083493 Video] by [[Peter Rogers]] of the 12/7/14 performance of "Arkham Community Radio" in the *[[2x4]]*.
 * [http://vimeo.com/120012508 Video] by [[Peter Rogers]] of the 1/23/15 performance of "Arkham Community Radio" in *[[The Free Fringe]]*.
+* [http://vimeo.com/133006812 Video] of their 6/10/15 performance in [[The 46-Hour Improv Marathon]].
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.418383731558482.101763.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/8/12 performance.
@@ -66,6 +67,7 @@ In 2014, the cast began production on *[http://blackvault.austinimprov.com Tales
 * [http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/ Photoset] by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
 * [http://www.facebook.com/media/set/?set=a.712663832143464.1073741848.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 10/24/14 show with [[Mister Morbid]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10203090924416751.1073741919.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/4/14 performance of "Arkham Community Radio" in *[[The Free Fringe]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204872285069654.1073741966.1315383518&type=3 Photoset] by [[Michael Yew]] of a 9/15 cast visit to H. P. Lovecraft's gravesite in Providence, Rhode Island.
 
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
