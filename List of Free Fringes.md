@@ -1638,10 +1638,10 @@ Naughty List - [[Sam Schak]], [[Ruby Willmann]], and [[Jessica Arjet]].
 (Dark for [[Wikipedia - Christmas|Christmas]].)
 
 ## 2015 Shows
-### January 1, 2014
+### January 1, 2015
 (Dark for New Year's.)
 
-### January 8, 2014 (the 132nd show)
+### January 8, 2015 (the 132nd show)
 #### No Hablo ([[Cagney Ortiz]])
 [[David Ronn]] speaks a lot of Spanish and is good at it.
 Cagney speaks a fair amount of Spanish and is ok enough to partially survive in Mexico.
@@ -1657,7 +1657,7 @@ Were they right? Let's find out.
 #### Arjet Universe
 [[Jessica Arjet]] and [[Ceej Allen]].
 
-### January 15, 2014 (the 133rd show)
+### January 15, 2015 (the 133rd show)
 #### Worst First Date ([[Lance Hunter]])
 A date that goes horribly, horribly wrong. Then wrong some more. Then wronger. It's just the wrongiest.
 
@@ -1675,7 +1675,7 @@ The effect will be like a crazed operetta where there are no rules.
 #### Arjet Universe
 "Better Than You" - [[Jessica Arjet]] and [[Courtney Hopkin]].
 
-### January 22, 2014 (the 134th show)
+### January 22, 2015 (the 134th show)
 #### Apples to Improv ([[Norman Tran]])
 There is a audience volunteer with a bell and handful of Apples to Apples(or similar) cards to the side of the stage.
 
@@ -1691,7 +1691,7 @@ While she struggles, the cast acts out scenes based on the word problem prompts.
 #### Arjet Universe
 [[Jessica Arjet]] and ???.
 
-### January 29, 2014 (the 135th show)
+### January 29, 2015 (the 135th show)
 #### Lynch Mob ([[Ceej Allen]])
 David Lynch (Ceej Allen) invites you to join him as three improvisers ([[Jericho Thorp]], [[Mason Pitluk]] and [[Jeremy Moran]]) rally with him in deconstructing the dark and wild heart of improv. Yes, there will be cherry pie!
 
@@ -1704,7 +1704,7 @@ The pitch from Ryan:
 #### Arjet Universe
 [[Jessica Arjet]] and [[Michael Jastroch]].
 
-### February 5th, 2014 (the 136th show)
+### February 5th, 2015 (the 136th show)
 #### Six Degrees of Habitation ([[Suzanne Link]])
 Short two-person scenes, each with the same Johnstonian welcome-to-my-home setup: a character brings a visitor to their home for the first time. Over and over, with different pairings of people.
 
@@ -1720,7 +1720,7 @@ We're going to break through the clichés and make the scenes about the relation
 #### Arjet Universe
 [[Jessica Arjet]] presents "Pirate Tales!", featuring [[Andreas Fabis]], [[Dana Yanoshak]], [[Ceej Allen]], [[Katie Dahm]], and [[Cassidy Claire Risien]].
 
-### February 12th, 2014 (the 137th show)
+### February 12th, 2015 (the 137th show)
 #### Hug Day ([[Tim Coyle]])
 Every year Paul Normandin, the nicest guy in the universe, organizes a Hug Day downtown. This show will be a tribute and a recreation of that. The idea couldn't be simpler, even if it is a little tricky to grasp. Here's Tim's pitch to Paul:<blockquote>"Say you and others who were giving out hugs play while people are walking on stage from time to time to get or decline hugs.  It could be neat to see the actual conversations that take place between hug times, as well as end with everyone in the audience."</blockquote>The Perfect Free Fringe show.
 
@@ -1740,7 +1740,7 @@ What happens when a home is shared by a [[Reform School for Wayward Girls|reform
 #### Media
 * [http://youtu.be/Q4giLqTx2Rw Video] of the Plank-A-Thon.
 
-### February 19th, 2014 (the 138th show)
+### February 19th, 2015 (the 138th show)
 #### Andrew and Jeremy Hypnotize Each Other! ([[Jeremy Moran]])
 [[Andrew Schwartz]] (Played by Andrew Schwartz) and Jeremy Moran (Played by Jeremy Moran) are two improvisors who are going fully under hypnosis during an improv set. They will take an audience volunteer to do the deed, most likely using a small hypnotic toy such as a spinning top. Once they are in a somnambulist state, the audience volunteer will then have complete control of the show. They will manipulate Andrew and Jeremy to bend to their will, making them do any scene or character they want to.
 
@@ -1748,7 +1748,7 @@ What happens when a home is shared by a [[Reform School for Wayward Girls|reform
 It's the 87th Academy Awards ceremony a few days earlier and a few hours shorter! Improvisers will act out Oscar clips based on made up films from audience suggestions. Dreams will come true while others are crushed. And it's all up to the audience to decide who wins the coveted Oscar.
 
 #### Something Insane By [[Ceej Allen|Ceej]]
-### February 26th, 2014 (the 139th show)
+### February 26th, 2015 (the 139th show)
 #### Norman Gets Angry ([[Thedward Blevins]])
 A bunch of scenes where [[Norman Tran]] gets angry.
 
@@ -1758,7 +1758,7 @@ It's everyone's favorite adorable little guy's birthday! That's right, li'l Jonn
 #### Arjet Universe
 [[Jessica Arjet]], with [[In Our Prime]] and [[Brently Heilbron]].
 
-### March 5th, 2014 (the 140th show): "MUSICAL FRINGE!!"
+### March 5th, 2015 (the 140th show): "MUSICAL FRINGE!!"
 #### Grounded in Harmony ([[Bobby Stover]])
 Have you ever thought how life would be so much more dramatic if you went through it with a theme song? Or at least a backing track? Come see how the power of music brings the improv world to life. You will laugh, cry, and feel some tension. But most importantly, you will LIVE!
 
