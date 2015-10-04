@@ -86,6 +86,7 @@ and many of their students
 * [http://www.facebook.com/media/set/?set=a.756154667781385.1073742023.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 * [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105046990502450.1073741875.7909117&type=3 Photoset] by [[Heidi Rogers]] of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204341364356968.1073741954.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/20/15 show in [[The 46-Hour Improv Marathon]].
 
 ## More Information
 * [http://www.thefrankmills.net/ The troupe's website.]
