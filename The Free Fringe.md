@@ -21,7 +21,7 @@ Many of the experiments put up for the Free Fringe have met with unexpected succ
 ## History
 The Fringe premiered on 1/5/12, shortly after [[Parallelogramophonograph]] travelled to the Edinburgh Fringe Festival, and is patterned after that festival's own Free Fringe.[http://freefringe.org.uk/]
 
-For a list of all formats performed in *The Free Fringe*, see: [[List of Free Fringes]].
+For a list of all formats performed in *The Free Fringe*, see the [[List of Free Fringes]], which also includes all posted media of the show.
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/thefreefringe The show's site.]
