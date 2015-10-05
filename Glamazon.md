@@ -10,6 +10,10 @@
 ## Summary
 Fact: each member of Glamazon is a woman 5'8" or over.  
 
+## Media
+### Photos
+* [http://www.facebook.com/Doccerz/media_set?set=a.10152960025535793.1073741891.666390792&type=3 Photoset] by [[Dave Alley]] of their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+
 ## More Information
 * [http://www.facebook.com/GlamazonImprov The troupe's facebook page.]
 
