@@ -19,6 +19,9 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 The rapping portion helps to create, paint, and explore the themes, story or characters within the world of the Harold. </blockquote>
 
 ## Media
+## Photos =
+* [http://www.facebook.com/jay.mahavier/media_set?set=a.10208028066965899.1073741868.1425495839&type=3 Photoset] by [[Jay Mahavier]] that includes their 9/7/15 performance at *[[The Knockout]]*.
+
 ### Videos
 * [http://vimeo.com/118703724 The troupe's February 2015 debut] at [[The Institution Theater]].
 
