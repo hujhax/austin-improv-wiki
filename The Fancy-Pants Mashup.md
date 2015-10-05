@@ -80,6 +80,10 @@ The show began under the direction of [[Jon Bolden]] before it was passed down t
 * [http://www.facebook.com/michael.yew/media_set?set=a.10203091001138669.1073741920.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/5/14 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10203521225334005.1073741928.1315383518&type=1 Photoset] by [[Michael Yew]] of the 2/6/15 performance.
 * [http://www.facebook.com/michael.yew/media_set?set=a.10203682683050347.1073741929.1315383518&type=1 Photoset] by [[Michael Yew]] of the 3/6/15 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10203682683050347.1073741929.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/6/15 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10203860364052261.1073741932.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/3/15 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204248128066119.1073741948.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/5/15 performance.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204338520685878.1073741951.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/19/15 show in [[The 46-Hour Improv Marathon]].
 
 ## Other Information
 * [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
