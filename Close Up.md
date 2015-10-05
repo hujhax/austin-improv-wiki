@@ -16,6 +16,7 @@ From the show announcement:<blockquote>"A comedic narrative in the style of sing
 
 ## Media
 ### Photos
+* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207774885316516.1073741828.1425495839&type=3 Photoset] by [[Jay Mahavier]] of the 8/8/15 performance.
 * [http://www.facebook.com/tylerbryce/media_set?set=a.10153575945537704.1073741886.505207703&type=3 Photoset] by [[Tyler Bryce]] of the Opening Night performance.
 * [http://www.facebook.com/Doccerz/media_set?set=a.10152915048980793.1073741886.666390792&type=3 Photoset] by [[Dave Alley]] of the 8/15/2015 performance.
 * [http://www.facebook.com/jay.mahavier/media_set?set=a.10207877249435555&type=3 Photoset] by [[Jay Mahavier]] of the 8/22/2015 performance.
