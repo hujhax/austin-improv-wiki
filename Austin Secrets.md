@@ -153,6 +153,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.661103777253444.1073741845.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 9/7/13 premiere.
 * [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104423796967290.1073741861.7909117&type=3 Photoset] by [[Heidi Rogers]] of the 10/25/13 show.
 * [http://www.facebook.com/media/set/?set=a.917842691612581.1073742162.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 3/7/15 show.
+* [http://www.facebook.com/media/set/?set=a.797600740316439.1073741856.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 4/11/15 performance in [[The 2015 Improvised Play Festival]].
 
 ### Other
 * [http://www.hideouttheatre.com/the-secrets-thus-far Slideshows of the secrets from the January 2010 shows.]
