@@ -29,7 +29,7 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
-### Press/Audition Blurbs
+## Press/Audition Blurbs
 ***Who Are We? Long Version**
 "Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. Ryan Austin is the group's debonair lady killer providing grounded scene work and an unstoppable positive energy. Quinn Buckner has been performing since 2009 and brings to the table an eye for support, an abundance of physicality, and a pension for fun. Ryan and Quinn have separately been to festivals from Out of Bounds to Improvaganza in Hawaii and have done numerous mainstages at the Hideout Theatre as well as shows all around Austin. "
 ***Who Are We and What Do We Do? Don't Worry About It**
