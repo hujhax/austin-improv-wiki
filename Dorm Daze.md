@@ -19,3 +19,7 @@ Summary for the second run at The Institution:
 
 <p>If it weren't for the longstanding and antiquated campus bylaws, Institution Dean Thomas Charles Booker would have had their charter dissolved several semester ago. Perhaps this term is the one where it all goes to pot! Who will reign in this wacky intramural contest?</p>
 </blockquote>
+
+## Media
+### Photos
+* [http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 6/27/15 performance, featuring [[Bad Font]] and [[Empty Promises]].
