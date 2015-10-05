@@ -33,6 +33,7 @@ Here is [[Josh Gill]]'s explanation of the name's origin:<blockquote>Galactic st
 * [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/18/11 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 5/10/12 show at [[The Ladies Are Funny Festival]].
 * [http://www.facebook.com/media/set/?set=a.591902264206627.1073741923.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/4/13 show at [[The ColdTowne Marathon]].
+* [http://www.facebook.com/media/set/?set=a.1032345030162346.1073742240.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/2/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [https://www.facebook.com/BattlestarGillacktucka The troupe's facebook page.]
