@@ -36,6 +36,7 @@ From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - B
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.861837887213062.1073742124.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 12/13/14 performance.
 * [http://cwcreations.smugmug.com/Improv-2014/A-Penny-Dreadful/20150110 Photoset] by [[Chad Wellington]] of the 1/10/15 performance.
+* [http://www.facebook.com/jay.mahavier/media_set?set=a.10208132350132913.1073741876.1425495839&type=3 Photoset] by [[Jay Mahavier]] of their 9/24/15 performance in *[[The Threefer]]*.
 
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
