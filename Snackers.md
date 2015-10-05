@@ -43,6 +43,7 @@ After an initial run that performed the Living Room format, the troupe performed
 ** [http://www.facebook.com/hujhax/media_set?set=a.481887097264.251803.588952264&type=3 Another photoset] by [[Peter Rogers]] of the same show.
 * [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/19/10 performance at [[WaffleFest]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/11/11 performance at [[Salvage Vanguard Theater]].
+* [http://www.facebook.com/media/set/?set=a.1035268833203299.1073742249.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/4/15 reunion show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## Promos
 * Promo for [http://vimeo.com/9898672 "The Snackers Club"].
