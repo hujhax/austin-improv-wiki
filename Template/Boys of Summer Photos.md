@@ -6,5 +6,5 @@
 * [http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3 A photoset] by [[Steve Rogers]] of the 8/27/11 show featuring [[Jason Laney]]. ("Mortuary")
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200301863411969.1073741843.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2013 show featuring [[Chuy Zarate]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.614654581889374.1073741852.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 8/16/13 show featuring [[Brently Heilbron]].
-* [http://www.facebook.com/media/set/?set=a.1007687835961399.1073742223.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/24/15 performance, featuring [[Ryan Austin]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204579909600450.1073741959.1315383518&type=3 Photoset] by [[Steve Rogers]] of the 7/31/15 performance, featuring [[Kevin Miller]].
+* [http://www.facebook.com/media/set/?set=a.1007687835961399.1073742223.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/24/15 performance featuring [[Ryan Austin]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204579909600450.1073741959.1315383518&type=3 Photoset] by [[Steve Rogers]] of the 7/31/15 performance featuring [[Kevin Miller]].
