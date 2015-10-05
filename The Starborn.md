@@ -61,6 +61,7 @@ But just before they blast us into particle dust, they want to get to know us a 
 * [http://www.facebook.com/media/set/?set=a.268630569971078.1073741832.244975242336611&type=1 photoset] by [[Warren Henderson]] Of their 02/06/2014 show in *[[The Threefer]]*.
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3  photoset] by [[Warren Henderson]] that includes their 11/15/2013 performance in *the [[2x4]]*.
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.697804313583390.1073741849.100000614831752&type=3  photoset] by [[Warren Henderson]] Of their 10/17/2013 show in *[[The Threefer]]*.
+* [http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3 Photoset] by [[Dave Alley]] that includes their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://starbornimprov.strikingly.com/ The troupe's home page.]
