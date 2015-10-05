@@ -38,6 +38,7 @@ Their goal is to elevate the form and playing field, shedding light on the ever-
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 * [http://www.facebook.com/media/set/?set=a.794119580651560.1073742053.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.844355352294649.1073742112.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
+* [http://www.facebook.com/media/set/?set=a.1033793463350836.1073742245.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/4/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [http://www.availablecupholders.com/achome.html The troupe's web site.]
