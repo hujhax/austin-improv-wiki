@@ -15,6 +15,11 @@
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We do a montage of scene work, but a little bit more surreal.</blockquote>
 
+## Media
+### Photoset
+* [http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
+** [http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3 Another photoset] by [[Jay Mahavier]] of the same show.
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Active|Category:Active]]
