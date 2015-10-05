@@ -22,6 +22,9 @@ Honey Ladies is an all-female troupe that leans towards a grounded and fun exper
 Showing that women aren't only the stereotypes that we're (at times) perceived to be by pop culture. We start with the stereotypes and then peel back the layers as the show progresses.
 </blockquote>
 
+## Media
+### Photos
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
