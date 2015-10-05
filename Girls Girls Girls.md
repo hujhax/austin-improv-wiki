@@ -162,6 +162,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [http://www.facebook.com/media/set/?set=a.759510950779090.1073742029.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10203483337546834.1073741925.1315383518&type=1 Photoset] by [[Michael Yew]] of their 1/30/15 "Jam-a-Rama".
 * [http://www.facebook.com/media/set/?set=a.10203490534406751.1073741927.1315383518&type=3 Photoset] by [[Michael Yew]] of their 1/31/15 "Jam-a-Rama".
+* [http://www.facebook.com/Doccerz/media_set?set=a.10152967546725793.1073741899.666390792&type=3 Photoset] by [[Dave Alley]] of their 9/4/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Publicity
 * Promos for *Jerzey Shorez*:
