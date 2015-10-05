@@ -14,15 +14,10 @@ Here is [[Jon Bolden]]'s explanation of the name's origin:<blockquote>Roy and I 
 
 Squirrel Buddies attended the Alaska Improv Festival in 2013.
 
-## Positivity Workshops
+### Positivity Workshops
 Roy and Jon developed a series of exercises based on positivity and connection. These exercises are taught in a series of workshop called "The Power of Positivity". They have been taught in Austin and Oklahoma City.
 
-## More Information
-* [http://www.squirrelbuddies.com The Squirrel Buddies home page.]
-
 ## Media
-### Press
-* [http://www.examiner.com/article/squirrel-buddies-what-s-right-about-austin-improv Review of 6/27/13 show. Examiner.com]
 ### Videos
 * [http://vimeo.com/40801624 Video of their 4/19/12 show] at the *[[Free Fringe]]*.
 * [http://vimeo.com/62426968 Video of their 7/22/12 show] at *[[The Weekender]]*.
@@ -34,6 +29,10 @@ Roy and Jon developed a series of exercises based on positivity and connection. 
 * [http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/27/12 performance with [[The Frank Mills]] in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.844338555629662.1073742111.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+
+## More Information
+* [http://www.examiner.com/article/squirrel-buddies-what-s-right-about-austin-improv Review of 6/27/13 show. Examiner.com]
+* [http://www.squirrelbuddies.com The Squirrel Buddies home page.]
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
