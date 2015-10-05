@@ -24,6 +24,7 @@ The troupe was founded in conjunction with Merlin Works' move from [[Salvage Van
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
 * [http://www.facebook.com/media/set/?set=a.792646800798838.1073742046.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.902699009793616.1073742153.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 2/8/15 performance at [[ZACH Theater]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Known Wizards]]
