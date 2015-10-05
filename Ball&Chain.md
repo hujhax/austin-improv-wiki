@@ -26,6 +26,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/17/14 performance in *[[2x4]]*.
 * [http://www.facebook.com/chriscurl/media_set?set=a.10152566636717107.1073741842.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
