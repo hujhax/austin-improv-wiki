@@ -32,6 +32,7 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 * [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 12/5/13 *[[Free Fringe]]* show.
 * [http://www.facebook.com/chriscurl/media_set?set=a.10152576209432107.1073741846.549002106&type=3 Photoset] by [[Chris Curl]] of their 8/31/14 performance at [[The 2014 Out of Bounds Comedy Festival]].
 ** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3 Photoset] by [[Heidi Rogers]] of the same show.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 *[http://www.facebook.com/klausandwerner My Best Fiend facebook page]
