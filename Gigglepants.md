@@ -57,6 +57,7 @@ The troupe started performing in the spring semester of 2004.
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes their 6/12/14 performance in *[[The Threefer]]*.
 * [http://www.facebook.com/media/set/?set=a.844355352294649.1073742112.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
