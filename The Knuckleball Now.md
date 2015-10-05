@@ -48,7 +48,7 @@ In 2014 Lee Eddy, after a long absence, re-joined The Knuckleball Now.
 * [http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3 Photoset] by [[Jon Bolden]] which includes their performance at [[WaffleFest 2012]].
 * [http://www.facebook.com/media/set/?set=a.221915231210497.52761.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/12/11 show at *[[The Saturday Night Special]]*.
 * [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/26/12 performance.
-* [Photoset http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3] by [[Heidi Rogers]] that includes their 7/19/13 performance in *[[The Spectacle]]*.
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 7/19/13 performance in *[[The Spectacle]]*.
 * [http://www.facebook.com/media/set/?set=a.530405963694754.1073741855.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 9/1/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/claudio.fox.5/media_set?set=a.629538103734355.1073741857.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[The 2013 Out of Bounds Comedy Festival]].
 * [http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/Knuckleball-Now/ Photoset] by [[Chad Wellington]] of their 10/18/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
@@ -56,6 +56,8 @@ In 2014 Lee Eddy, after a long absence, re-joined The Knuckleball Now.
 * [http://www.facebook.com/chriscurl/media_set?set=a.10152564402547107.1073741840.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.712663975476783.1073741849.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 10/24/14 show with [[Mister Morbid]].
 * [http://www.facebook.com/media/set/?set=a.844338555629662.1073742111.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
+* [http://www.facebook.com/media/set/?set=a.954636894599827.1073742187.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 5/1/15 performance in *[[PGraph Presents]]*.
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204899497069937.1073741967.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/25/15 performance in "The [[Indigo Shift]] Cabaret".
 
 ## More Information
 * [http://theknuckleballnow.net/ The troupe's web site.]
