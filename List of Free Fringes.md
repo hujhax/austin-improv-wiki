@@ -1765,8 +1765,258 @@ Have you ever thought how life would be so much more dramatic if you went throug
 #### [[That Racket!]] ([[Mitch Mills]])
 That Racket! is an Austin-based troupe that combines the three great arts of improv, music, and dance into a playful and hilarious evening of entertainment. Every show, we present stories that have never been told, songs that have never been sung, and dances that have never been danced before. And though they'll never be told, sung, or danced again, they'll stick with you!
 
-#### MC Harold ([[Craig McGreggor]])
+#### [[MC Harold]] ([[Craig McGreggor]])
 A Magical souffle of improvised rap stuffed with delicious stories with just a dash of outlandish characters sauteed to perfection when the beat drops.
 
 #### Curry, Kirschner and Taylor
 [[Aden Kirschner]], [[Sarah Marie Curry]], and [[Ammon Taylor]] are all members of two time [[B. Iden Payne Awards|B.-Iden-Payne-Award]]-winning, musical-performance collective [[Girls Girls Girls]]. As faculty members of [[Merlin Works Institute for Improvisation]], [[The Institution Theater]], and [[The Hideout Theatre]], these three put on an unforgettably theatrical performance weaving together characters scenes and songs that are magical, catchy and adorable!
+
+### March 12th, 2015, 2015
+Dark for SXSW.
+
+### March 19th, 2015, 2015 (the 141st show)
+#### Man of Felt (Caeriel Crestin)
+Dave Ronn's identical twin muppet comes to town. No one can tell the two apart. Hilarity ensues.
+
+WARNING: live puppets.
+
+#### The Black Death ([[Asaf Ronen]], [[The Jukebox Musical Project]])
+The work of Smashing Pumpkins plopped into a fifteen-minute musical set (where else?) in 1348 London during the height of the Black Plague. Romance, travel, and rats underscored, despite all its rage, by the lyrics of Corgan and company.
+
+#### Arjet Universe
+[[Jessica Arjet]] and Ouardane Jouannot.
+
+### March 26th, 2015, 2015 (the 142nd show)
+Unknown
+
+### April 2, 2015 (the 143rd show)
+#### Evil Aspen ([[Ann Nelson]])
+[[Aspen Webster]] is one of the most kind and loving members of the Austin Improv Community. She wears her heart on her sleeve and just wants everyone to be happy.
+
+That's usually great, but sometimes she just wants to be inexplicably, unjustifiably, undoubtedly terrible. Tonight, Aspen gets to explore her alter ego (affectionately known as Willow) and what it means to just be mean.
+
+#### Minimal Requirements ([[Justin Davis]])
+On job listings, there are sections that describe the knowledge, skills, and abilities needed to perform said jobs. Many times, at the bottom of these listings, the most basic physical abilities to perform this job are given, no matter what kind of job it is. Recently, Justin found the following sentence in that area of a job listing:
+
+"While performing the duties of this job, the employee constantly is required to: Grasp, handle, feel, see, sit, listen, and talk. "
+
+That grouping and specific choice of words gave Justin the idea to use each one of those words as inspiration for a scene, showing the power of focusing on one of those simple words as a thematic element and the different interpretations that can happen.
+
+Featuring [[Megan Sherrod]], [[Suzanne Link]], [[Ted Meredith]], and [[Kristin Kissinger]].
+
+#### Strings (Ian Parizot)
+[Halyn Lee Erickson Halyn], [Marc Majcher Marc], and Ian will explore the poetic world of human puppetry on stage.
+
+#### Arjet Universe: "Ten Titles"
+The audience provides 10 titles and they are performed in 30 minutes -- NO CHEATING.  Starring Mark Tindle (from London), [[Jessica Arjet]], [[Aspen Webster]], and [[Andreas Fabis]].  [[Chad Wellington]] and [[Cindy Ward]] will keep them honest with lights, music and a timer.
+
+### April 9, 2015
+Dark for [[The 2015 Improvised Play Festival]].
+
+### April 16, 2015 (the 144th show)
+#### Quinni and Jinni ([[Quinn Buckner]])
+[[Quinn Buckner]] is a local improvisor, but Jinni Lyons is FROM LONDON! They're super pumped to play with each other and she's only here for a short while so come watch as they try out some scene ideas and have a blast doing it.
+
+#### Hideout Action News ([[Sushant Sethi]])
+After taking some audience suggestions for current events/news that have been occupying their thoughts we'll be diving right into an improvised newscast. Hosted by a trusty anchor, expect to see a myriad of characters we may encounter at the news desk and on location at scene. Nothing is out of bounds. Will this be a serious news hour with heartbreaking stories of kittens stuck in oak trees? Or will it be an in your face riffed up bonkers experience? We don't know, but you should come check it out!
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Shannon Dale Stott]].
+
+
+### April 23, 2015 (the 145th show)
+#### Like a Brother ([[Mike Carreon]])
+Through thick and thin, siblings stick together...or do they? Come see Like A Brother, a grounded improv duo, as they explore the complicated yet familiar dynamic of being a sibling.
+
+#### Animal House ([[Theo Daley]])
+In Animal House, we'll create a story in any genre you like, as characters resembling animals. You pick the genre. You pick the animals.
+
+Can you imagine a western where the cowboys seem oddly like buzzards or whales? A romcom where the lovers resemble a rhino and a pelican? Come to Animal House!
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Megan Venable]].
+
+### April 30, 2015 (the 146th show)
+#### First Impressions ([[Jessica von Schramm]])
+We've all heard it: You have seven seconds to make a first impression, and you get only one chance to do it. Lady Jester (Jessica von Schramm's alter ego) will do scenes with audience members in set ups where they meet each other for the first time. Afterward she will reenact the scenes, playing both the audience member and herself. Assuming she made the worst first impression ever, she'll verbalize the audience member's thoughts of her and act out what she thought they saw.
+
+#### Funny Women ([[Ruby Willmann]])
+This is the casual, unofficial, just for fun funny lady's workshop showcase! Our four-week series on being a woman in comedy was just too awesome to end without a performance! Come join us as we explore the stage with confidence sincerity and enthusiasm!
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Quadrupeds]].
+
+### May 7, 2015 (the 147th show)
+#### Take Me Out to the Ballgame ([[Tim Coyle]])
+A group of sports fans journey to the game, at the game, or on the way home from the game - the audience will decide.
+
+#### Washed-up ([[Ali Meier]])
+A rockin' hit band from the 80s reunites 30 years later to go on tour. Relive (or experience) the music, make-up, drugs, girls, drama and last but not least, the HAIR that made the 80s ROCK.
+
+#### Arjet Universe: "The Other Jessica"
+[[Jessica Arjet]] and [[Jessica von Schramm]] have been circling each other in the world of improv for a few years now. They have several mutual friends but have never played together. Both have been referred to as the "other Jessica" , and both are curious as to what this "other Jessica" is all about. Watch as the two Jessica's come together for the first time. Will they wrestle? Will they bond? Will they have more in common than their first names? Whatever they do, it'll be entertaining.
+
+### May 14, 2015 (the 148th show)
+#### Adam and Norman Suck at Dating ([[Norman Tran]])
+Adam and Norman suck at dating. Luckily, our tragedy is your comedy! Come see us navigate this awkward and frustrating part of life.
+
+#### Tim in a Cup ([[Angie Smith]])
+If you've ever considered taking a self-defense class, let Tim in a Cup be your introductory precursor. No, this show has nothing to do with the two girls on Youtube, a video that this author has managed to avoid for YEARS and you should too. Instead, Tim in a Cup will provide you with helpful maneuvers to block yourself from such mental, emotional and physical creeps, in a fun way.
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Andreas Fabis]], doing a post-apocalyptic format.
+
+### May 21, 2015 (the 149th show)
+#### Imaginary People Have Feelings Too ([[Phil Morin]])
+Emojis -- everyone's favorite second language. Watch as improvisers act out scenes inspired by those whimsical icons, proving that imaginary people have feelings too.
+
+#### You Bet Your Life ([[Robert Slack]])
+Groucho Marx ([[Robert Slack]]) brings his classic television quiz show to the Hideout theatre. Groucho will interview audience members, and have them play for the chance to win 200$ (Monopoly money).
+
+#### Free Range Improv ([[Jessica von Schramm]])
+The rules are there ain't no rules. Watch what happens when improvisers are free to explore whatever type of improv they wish - montage, narrative, singing, silent, etc - all during the same show!
+
+### May 28, 2015 (the 150th show)
+#### [[JK]] Debut
+JK is a high energy duo! With the audience's assistance, they will run through 10 scenes, and then revisit any of the scenes the audience want to see again. Like changing the channels on the stage, the audience has a huge say in which funny they want to see again!
+
+#### Sweet Justice ([[Nicole Beckley]])
+Luke and Nicole play two incredibly nice, cheery, chipperâ€¦ homicide detectives. Kevin Miller is their no-nonsense boss who sends them on grisly assignments and has had it up to here with their unrelenting cheeriness.
+
+#### Arjet Universe
+[[Jessica Arjet]] and ???.
+
+### June 4, 2015 (the 151st show)
+#### 10 Scenes in 20 minutes ([[Gene Zhou]])
+Can we do 10 scenes in 20 minutes, each inspired by a suggestion from the audience? Come and find out! Based on the sketch format 30 Plays in 60 Minutes.
+
+#### Kenny loves Community ([[Lahari Samineni]])
+Kenny loves the show 'Community'. So much so he's will to play ALL SEVEN characters from the show.
+
+#### Arjet Universe
+[[Jessica Arjet]] and ???.
+
+### June 11, 2015 (the 152nd show)
+#### Kaci and Xaq Go to Town ([[Kaci Beeler]])
+Xaq Webb is back in Austin to say hi. Xaq and Kaci go way back to high school together. And now they're going to take the stage for a Fringe show. What will that mean? Find out!
+
+#### Hat Game! ([[Tyler Lane]])
+A Keith Johnstone classic! Watch hatted improvisors struggle to either de-hat their scene partner or maintain a grounded scene while doing so.
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Tyler Lane]].
+
+### June 18, 2015 (the 153rd show)
+#### Destination (Katy Schutte)
+Katy and Tony are from London, for real! Destination is an improvised podcast that is a slice-of-life of one person's journey in a car. And this is the live version of that.
+
+#### Trending ([[Andrew Buck]])
+This will be a show inspired by the "trending" news on Facebook. SUPER topical and relevant, y'all.
+
+#### Arjet Universe
+[[Jessica Arjet]] and ???.
+
+### June 25, 2015 (the 154th show)
+#### Fringe Redux
+We're bringing back some of your favorite Fringe Show producers. Three special projects by three infamous producers:
+
+[[Mitchell Deane]]! [[Jason Vines]]! [[Ceej Allen]]!
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Brently Heilbron]].
+
+### July 2, 2015 (the 155th show)
+#### Rejected! ([[Andreas Fabis]])
+A lot of show ideas never see the stage - for good reasons. The Escorts brainstormed format and came up with a list that was kept secret for years. Until now. See formats like "Put the Diaper on Andreas" and "Poop Palace" performed for the first time.
+
+#### Lyric Suggestion Mashup ([[Jason Burnett]])
+Have you ever wondered what scenes might look like if we took bewildering lyrics for suggestions? Join us and get a chance to pick out your favorite mystifying lyrics from a basket. Lyrics for the show will be taken from songs of the 90s.
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Andreas Fabis]].
+
+### July 9, 2015 (the 156th show)
+#### Ask a German ([[Andreas Fabis]])
+Did you ever wonder why Germans say "I'll be right back" when they go to the restroom? What's up with the Christmas Pickle? Why do they wish each other "a good appetite" before a meal? Andreas Fabis assembled a team of top-notch historians to unearth the secrets behind any German custom you care to know about.
+
+#### Your Corpus is Showing ([[Jessica von Schramm]])
+Based on a popular meme, "Your Corpus Is Showing" will lovingly poke fun at the unique experiences one can have only from growing up in Corpus.
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Topping Haggerty]].
+
+### July 16, 2015 (the 157th show)
+#### Hollywouldn't ([[Jon Fortenbury]])
+In Hollywouldn't, "Girl, Interrupted" could be a story about a girl going on a killing spree after being interrupted, and "Star Wars" about a teen's fight for opera stardom. That's because, in this show, an improviser will narrate an actual film he/she has never seen (suggested by the audience) while the other improvisers act it out. It's bound to be nothing like the real films €” and hilarious! 
+
+#### Shelby Going Away Party ([[Cristy Salinas]])
+Lady [[Shelby Graham]] is moving to Los Angeles. Come watch her last [[Soy Taco]] show for FREE!
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Aspen Webster]].
+
+### July 23, 2015 (the 158th show): "Musical Fringe"
+Featuring three musical groups: [[Things We Don't Speak Of]], [[That Racket!]], and [[MC Harold]]!
+
+#### Arjet Universe
+[[Jessica Arjet]] and ???.
+
+### July 30, 2015 (the 159th show)
+Unknown
+
+### August 6, 2015 (the 160th show)
+Unknown
+
+### August 13, 2015 (the 161st show): "Summer Intensive Fringe Show"
+[[Aspen Webster]], [[Tyler Lane]], and [[Jessica Arjet]] will be heading up project using Austin improvisers and students from the Hideout Summer Intensive as cast members. It's gonna be a blast, y'all.
+
+### August 20, 2015 (the 162nd show)
+#### The End of Us ([[Jeremy Moran]])
+An improv troupe is calling it quits and you're invited to their last show! It will be an emotional send-off but there will be a lot of laughs along the way.
+
+#### Teacher Heaven ([[Ruby Willmann]], [[Ryan Austin]], and [[Lacy Shawn]])
+Sometimes when you teach improv you run across students with so much natural talent you're totally in awe and a little bit jealous. Then we find ourselves wishing to share the stage with them! Now we get to! Watch teachers pair up with their students in Teacher Heaven.
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Margaret Rose]].
+
+### August 27, 2015 (the 163rd show)
+#### Fancy Nancy and Plain Jane ([[Kaci Beeler]])
+Two unlikely sisters, Fancy Nancy ([[Halyn Lee Erickson]]) and Plain Jane ([[Kaci Beeler]]), are as opposite as they come. Nancy has a luxurious life as a famous actress, a rich and eccentric starlet of the stage and screen, while Jane enjoys her days making less than minimum wage and as little noise as possible as a Librarian's assistant, counting the seconds until her next herbal tea break. Will Jane ever take on a more exciting life? Will Nancy ever settle down?
+
+Only one way to find out...TONIGHT in Fancy Nancy and Plain Jane.
+
+#### Something involving [[Theo Daley]] ([[Kenny Madison]])
+Kenny Madison is devising some masterful piece of showmanship somehow involving Theo Daley.
+
+#### Arjet Universe: "Improv on a Hot Tin Roof"
+The Arjet Universe will be investigating the world of Tennessee Williams! Drama, regret, bitterness, and accusations will fly as we delve into a steamy southern story. The cast includes: [[Paul Normandin]], [[Aspen Webster]], [[Peter Rogers]], [[Nicole Oliver]], and [[Jessica Arjet]].
+
+### September 3, 2015 (the 164th show)
+Unknown.
+
+### September 10, 2015 (the 165th show)
+Unknown.
+
+### September 17, 2015 (the 166th show)
+#### I Have an Idea for a Fringe ([[Jeremy Moran]])
+Inspired by the meta work of Charlie Kaufman (Adaptation, Synecdoche New York) comes a Fringe-Within-A-Fringe-Within-A-Fringe! Travel down a rabbit hole of improv as you watch the creation of very Fringe that you are watching. Totally meta, man.
+
+#### Something with Bridget ([[Bridget Brewer]])
+Bridget Brewer is back in town, and ready to do something in the Fringe!
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Chris Albano]].
+
+### September 24th, 2015 (the 167th show)
+#### Aspen Reacts ([[Kelly Campbell]])
+Have you ever seen Aspen Webster react to things on (or off) stage? Didn't you love it? Do you want to watch her react to things for 20 minutes? Join us as we explore the spectrum of Aspen's emotional reactions in this Free Fringe set.
+
+#### Spookyprov ([[Tyler Lane]])
+HAUNTED SPOOKY IMPROV
+
+#### Arjet Universe: "The Black Vault Under the Influence"
+[[History Under the Influence]] subjects itself to an unholy union with the macabre works of legendary horror writer H.P. Lovecraft.  Come to the Free Fringe at 10pm, if you dare, for our first-ever mashup show, [[The Black Vault]] Under The Influence. You'll witness an improvised tale of unspeakable terror and dread, as told by your distressed narrator, [[Kevin Miller]], and four or five vodka-cranberries.  The cost to your wallet is free. The cost to your soul is beyond what the narrow human brain can yet conjure.
+
+### October 1, 2015 (the 168th show): "Lady Fringe"
+Sets by [[Jessica Arjet]], [[Lacy Shawn]], and [[Jessica von Schramm]].
