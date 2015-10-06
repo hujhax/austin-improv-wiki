@@ -14,7 +14,9 @@
 * [[Who Wants Attention!]]
 
 ## Shows
+* *[[Home for the Holidays]]*
 * *[[The Source]]*
+* *[[Teenage Wasteland]]* (tech: score)
 * *[[The Fancy-Pants Mash-Up]]*
 * *[[Maestro]]*
 * *[[Maestro Raw]]*
