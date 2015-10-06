@@ -1992,13 +1992,13 @@ Kenny Madison is devising some masterful piece of showmanship somehow involving 
 #### Arjet Universe: "Improv on a Hot Tin Roof"
 The Arjet Universe will be investigating the world of Tennessee Williams! Drama, regret, bitterness, and accusations will fly as we delve into a steamy southern story. The cast includes: [[Paul Normandin]], [[Aspen Webster]], [[Peter Rogers]], [[Nicole Oliver]], and [[Jessica Arjet]].
 
-### September 3, 2015 (the 164th show)
+### September 3, 2015
+Dark for [[The 2015 Out of Bounds Comedy Festival]].
+
+### September 10, 2015 (the 164th show)
 Unknown.
 
-### September 10, 2015 (the 165th show)
-Unknown.
-
-### September 17, 2015 (the 166th show)
+### September 17, 2015 (the 165th show)
 #### I Have an Idea for a Fringe ([[Jeremy Moran]])
 Inspired by the meta work of Charlie Kaufman (Adaptation, Synecdoche New York) comes a Fringe-Within-A-Fringe-Within-A-Fringe! Travel down a rabbit hole of improv as you watch the creation of very Fringe that you are watching. Totally meta, man.
 
@@ -2008,7 +2008,7 @@ Bridget Brewer is back in town, and ready to do something in the Fringe!
 #### Arjet Universe
 [[Jessica Arjet]] and [[Chris Albano]].
 
-### September 24th, 2015 (the 167th show)
+### September 24th, 2015 (the 166th show)
 #### Aspen Reacts ([[Kelly Campbell]])
 Have you ever seen Aspen Webster react to things on (or off) stage? Didn't you love it? Do you want to watch her react to things for 20 minutes? Join us as we explore the spectrum of Aspen's emotional reactions in this Free Fringe set.
 
@@ -2018,5 +2018,5 @@ HAUNTED SPOOKY IMPROV
 #### Arjet Universe: "The Black Vault Under the Influence"
 [[History Under the Influence]] subjects itself to an unholy union with the macabre works of legendary horror writer H.P. Lovecraft.  Come to the Free Fringe at 10pm, if you dare, for our first-ever mashup show, [[The Black Vault]] Under The Influence. You'll witness an improvised tale of unspeakable terror and dread, as told by your distressed narrator, [[Kevin Miller]], and four or five vodka-cranberries.  The cost to your wallet is free. The cost to your soul is beyond what the narrow human brain can yet conjure.
 
-### October 1, 2015 (the 168th show): "Lady Fringe"
+### October 1, 2015 (the 167th show): "Lady Fringe"
 Sets by [[Jessica Arjet]], [[Lacy Shawn]], and [[Jessica von Schramm]].
