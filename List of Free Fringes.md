@@ -1428,7 +1428,7 @@ Everybody in the cast plays a [[Chris Albano]] caricature. This is basically lik
 Five Hideout Theatre students/recent graduates (Tim Coyle, Joy Parks, Robert Slack, Kathleen McFerren and Cagney Ortiz) will challenge improv veteran Ceej Allen by playing a variety of characters that he must then play. After running Ceej through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.
 
 #### Arjet Universe
-This is the show where the headliner was billed simply as "Arjet Universe", rather than listing [[Jessica Arjet]]'s guests by name.
+This is the first show where the headliner was billed simply as "Arjet Universe", rather than listing [[Jessica Arjet]]'s guests by name.
 
 ### August 14, 2014 (the 117th show)
 #### The Hideout Summer Intensive Showcase
