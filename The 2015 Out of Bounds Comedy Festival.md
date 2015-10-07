@@ -6,7 +6,7 @@ Its advertising used basic logos for improv (lightning in a bottle), podcasting 
 
 The festival ran from from Tuesday 9/1/13 to Monday 9/7/13.
 
-This discontinued the festival tradition of having an annual roast.
+This discontinued the festival tradition of having an annual roast, but did include the traditional all-star *[[Maestro]]*.
 
 ## Acts
 ### Local Improv and Sketch Acts
