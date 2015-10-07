@@ -1,4 +1,4 @@
- ![[2015 OoB.jpg|The 2015 Out of Bounds logo.]]
+ ![[2015 OoB.png|The 2015 Out of Bounds logo.]]
 **The 2014 Out of Bounds Comedy Festival** was the fourteenth annual [[Out of Bounds Comedy Festival]].
 
 ## Summary
