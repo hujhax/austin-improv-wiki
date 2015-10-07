@@ -21,6 +21,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * [[Brain Trust]]
 * [[Cascade]]
 * [[Confidence Men]]
+* [[Damn, Gina!]]
 * [[Danger! Warning! Improv!]]
 * [[Decoy]]
 * [[Dervish]]
@@ -75,7 +76,6 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Bartenders
 * Big Grande
 * Daaang Judi Dench
-* Damn, Gina!
 * Dasariski Featuring Stephnie Weir
 * De La Thwazz
 * Destination Live
@@ -112,6 +112,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Thunderstood
 * Triggerhappy (The Annoyance Theater)
 * Urban Yeti Improv
+* The US National Improv Team
 * We're From Here
 * Whiskey Tango
 * Winter Formal
@@ -174,7 +175,6 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * The Right Now
 * Testify
 * Thunderdome
-* The Us National Improv Team
 
 ## Media
 ### Videos
