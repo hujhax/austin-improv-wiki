@@ -1965,7 +1965,14 @@ Featuring three musical groups: [[Things We Don't Speak Of]], [[That Racket!]], 
 Unknown
 
 ### August 6, 2015 (the 160th show)
-Unknown
+#### The Two Gentlemen Of... ([[Asaf Ronen]])
+[[Peter Rogers]] and [[Asaf Ronen]] play two Shakespearean guards who while away the time for twenty minutes.
+
+#### Hollywood Confidential ([[Jeremy Moran]])
+The cast (including [[Jeremy Moran]], [[Linzy Beltran]], [[David Lampe]], [[Mitchell Deane]], [[Heidi Rogers]], [[Casey Marie]], [[Andrew Schwartz]] )writes and acts out tabloid gossip stories from the Golden Age of Hollywood.  
+
+#### Arjet Universe: "Fairies"
+[[Jessica Arjet]], [[Jenna Howard]], [[Tyler Lane]], [[Jennifer Hill]], and [[David Ronn]] portray magical fairies.
 
 ### August 13, 2015 (the 161st show): "Summer Intensive Fringe Show"
 [[Aspen Webster]], [[Tyler Lane]], and [[Jessica Arjet]] will be heading up project using Austin improvisers and students from the Hideout Summer Intensive as cast members. It's gonna be a blast, y'all.
@@ -1996,7 +2003,14 @@ The Arjet Universe will be investigating the world of Tennessee Williams! Drama,
 Dark for [[The 2015 Out of Bounds Comedy Festival]].
 
 ### September 10, 2015 (the 164th show)
-Unknown.
+#### Rapid Fire ([[Kenny Madison]])
+A rapid-fire assortment of fringe ideas from [[Lahari Samineni]].
+
+#### Vulnerability Blocks ([[Norman Tran]])
+Unknown
+
+#### Arjet Universe
+[[Jessica Arjet]] and [[Sunaina Suhag]].
 
 ### September 17, 2015 (the 165th show)
 #### I Have an Idea for a Fringe ([[Jeremy Moran]])
