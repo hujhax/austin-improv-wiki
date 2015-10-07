@@ -1959,7 +1959,12 @@ Lady [[Shelby Graham]] is moving to Los Angeles. Come watch her last [[Soy Taco]
 Featuring three musical groups: [[Things We Don't Speak Of]], [[That Racket!]], and [[MC Harold]]!
 
 #### Arjet Universe
-[[Jessica Arjet]] and ???.
+A description from [[Jessica Arjet]]:
+On my birthday Fringe, [[Tess Hermes]] came to the show and was maybe a tiny bit intoxicated, which is fine. And also enjoyed the show SO much that she couldn't stop trying to participate in it. 
+
+I'm going to get intoxicated, with the help of Tess, [[Mason Pitluk|Mason]], [[Aspen Webster|Aspen]], and [[Kevin Miller]] -- who is [[History Under the Influence|the master of drunk shows]]. After that they will all do a show and I will heckle them.
+
+Revenge is sweet when you own a theater!
 
 ### July 30, 2015 (the 159th show)
 Unknown
