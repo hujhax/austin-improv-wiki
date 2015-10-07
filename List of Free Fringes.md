@@ -2007,7 +2007,7 @@ Dark for [[The 2015 Out of Bounds Comedy Festival]].
 A rapid-fire assortment of fringe ideas from [[Lahari Samineni]].
 
 #### Vulnerability Blocks ([[Norman Tran]])
-Unknown
+A series of two person scenes where there are two stacks of blocks relating to either character are placed on opposite sides of the stage. The higher the blocks are stacked during the scene, the more invested the respective character is in the relationship between the two characters. We played with the imps on stage having control of the blocks, imps off stage having control, and the audience having control.
 
 #### Arjet Universe
 [[Jessica Arjet]] and [[Sunaina Suhag]].
