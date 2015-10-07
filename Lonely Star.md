@@ -4,7 +4,7 @@
 |Theater = [[The Institution Theater]]
 |Director =	[[Jordan T. Maxwell]]
 |Assistant Director = [[Aspen Webster]]
-|Tech = {{Unbulleted list | [[Cindy Ward]] (lights) | [[Lindsey McGowen]] (scoring) | [[Sarah Hutchins]] (sound effects) }}
+|Tech = {{Unbulleted list | [[Cindy Page]] (lights) | [[Lindsey McGowen]] (scoring) | [[Sarah Hutchins]] (sound effects) }}
 |Cast = {{Unbulleted list | [[Jayme Ramsay]] | [[Josh Santo]] | [[Kelly Campbell]] | [[Lena Long]] | [[Manuel Duran]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Rachel Posey Austin]] }}
 |Run	= Nov 2015
 }}
