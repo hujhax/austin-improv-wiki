@@ -20,7 +20,7 @@ The individual musicals run for two performances each, every other month.
 ### The Black Death
 Set during The Black Plague and featuring music by the Smashing Pumpkins (March 2015)
 #### Cast
-* [[Jordan Maxwell]]
+* [[Jordan T. Maxwell]]
 * [[Emily Cawood]]
 * [[Jason Vines]]
 * [[Sarah Marie Curry]]
@@ -31,7 +31,7 @@ Set during The Black Plague and featuring music by the Smashing Pumpkins (March 
 Set during the USA/USSR space race of the 1970s and featuring music by Phil Collins (May 2015)
 #### Cast
 * [[Clint Harris]]
-* [[Jordan Maxwell]]
+* [[Jordan T. Maxwell]]
 * [[John Mendell]]
 * [[Donna Rice]]
 * [[Dave Ronn]]
@@ -40,7 +40,7 @@ Set during the USA/USSR space race of the 1970s and featuring music by Phil Coll
 ### Karma Police
 Set during the Salem Witch Trials and featuring music by Radiohead (July 2015)
 #### Cast
-* [[Jordan Maxwell]]
+* [[Jordan T. Maxwell]]
 * [[Sarah Marie Curry]]
 * [[Emily Cawood]]
 * [[Michael Ferstenfeld]]
