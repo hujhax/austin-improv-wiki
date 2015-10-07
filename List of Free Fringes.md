@@ -1805,7 +1805,7 @@ That grouping and specific choice of words gave Justin the idea to use each one 
 Featuring [[Megan Sherrod]], [[Suzanne Link]], [[Ted Meredith]], and [[Kristin Kissinger]].
 
 #### Strings (Ian Parizot)
-[Halyn Lee Erickson|Halyn], [Marc Majcher|Marc], and Ian will explore the poetic world of human puppetry on stage.
+[[Halyn Lee Erickson|Halyn]], [[Marc Majcher|Marc]], and Ian will explore the poetic world of human puppetry on stage.
 
 #### Arjet Universe: "Ten Titles"
 The audience provides 10 titles and they are performed in 30 minutes -- NO CHEATING.  Starring Mark Tindle (from London), [[Jessica Arjet]], [[Aspen Webster]], and [[Andreas Fabis]].  [[Chad Wellington]] and [[Cindy Ward]] will keep them honest with lights, music and a timer.
