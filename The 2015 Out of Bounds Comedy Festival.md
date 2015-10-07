@@ -121,16 +121,16 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Alex Hooper
 * Ali Safar
 * Amber Bixby
-* Amy Dietze
+* [[Amy Dietze]]
 * Andrew Dismukes
 * April Richardson
 * Austen Silver
 * Brendan K. O'Grady
 * Brendon Walsh
-* Brently Heilbron
+* [[Brently Heilbron]]
 * Bryan Gutmann
-* Catherine Grady
-* Chris Sebilia
+* [[Catherine Grady]]
+* [[Chris Sebilia]]
 * Christian Spicer
 * Dan Wilbur
 * Danny Palumbo
@@ -140,9 +140,9 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Jamie Campbell
 * Joe Hafkey
 * Joel Keith
-* John Buseman
+* [[John Buseman]]
 * Jon Savoy
-* Jonathan Euseppi
+* [[Jonathan Euseppi]]
 * Josh Johnson
 * Jr De Guzman
 * Katie Pengra
@@ -162,7 +162,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Steve Herndon
 * Susan Burke
 * Terance Mcdavid
-* Will Cleveland
+* [[Will Cleveland]]
 * Yusef Roach
 
 ### Other Acts
