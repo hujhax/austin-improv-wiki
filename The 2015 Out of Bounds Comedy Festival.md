@@ -146,10 +146,10 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Josh Johnson
 * Jr De Guzman
 * Katie Pengra
-* Kerri Lendo
+* [[Kerri Lendo]]
 * Linda Stogner
 * Liz Russo
-* Maggie Maye
+* [[Maggie Maye]]
 * Martin Morrow
 * Matt Peters
 * Matt White
