@@ -2,6 +2,7 @@
 |Name	=		In Our Prime
 |Picture	=	In Our Prime Three.jpg
 |Cast	=	{{Unbulleted list|[[Gloria Rabil Bankler]]|[[Ryan Hill]]|[[Paul Normandin]]}}
+|Past Members = [[Jessica Arjet]] (2012-2015)
 |Years	=		2012-Present
 }}
 
