@@ -27,6 +27,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Perisian Gentleman]] at [[The Hideout Theatre]] during [[The 2014 Out of Bounds Comedy Festival]] - Charm, Stage Presence and Audience Seduction
 * [[Sarah Marie Curry]] at [[The Institution Theater]] - Sing Your Feelings 
 * [[Tom Booker]] at [[The Institution Theater]] - Drop In Improv Diagnostics
+* [[Austin Playback Theatre]] at [[Hideout Theatre]] - Introduction to Playback Theatre: Personal Story-Based Improv
 
 ## Coach/Mentors
 * [[Ceej Allen]]
