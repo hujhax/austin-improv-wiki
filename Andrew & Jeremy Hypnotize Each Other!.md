@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Andrew & Jeremy Hypnotize Each Other!
-|Picture	=	Andrew & Jeremy Hypnotize Each Other!.jpg
+|Picture	=	Andrew & Jeremy Hypnotize Each Other!.png
 |Cast	=	{{ Unbulleted list | [[Andrew Schwartz]] | [[Jeremy Moran]] }}
 |Years	=		2015-Present
 }}
