@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Chris Kyle: American Improvisers
-|Picture	=	Chris Kyle: American Improvisers.jpg
+|Picture	=	Chris Kyle American Improvisers.jpg
 |Cast	=	{{ Unbulleted list | [[Christopher Levi]] | [[Kyle Berthusen]] }}
 |Years	=		2015-Present
 }}
