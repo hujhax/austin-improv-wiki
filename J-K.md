@@ -5,6 +5,8 @@
 |Years	=		2011
 }}
 
+:*This page refers to the 2011 Pinter-themed improv duo.  For the 2015-founded high-energy duo, see [[JK]].*
+
 **J/K** was an improv duo that presented improvised plays in the style of [[Wikipedia - Harold Pinter|Harold Pinter]].
 
 ## Media
