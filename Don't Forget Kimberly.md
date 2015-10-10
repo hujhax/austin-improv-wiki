@@ -1,11 +1,11 @@
 {{Infobox Troupe
-|Name	=		Beaujolias Villages
-|Picture	=	Beaujolias Villages.jpg
+|Name	=		Don't Forget Kimberly
+|Picture	=	Don't Forget Kimberly.jpg
 |Cast	=	{{ Unbulleted list | [[Adam Niederpurem]] | [[David Schwartz]] | [[Justin Davidson]] | [[Luke Wallens]] }}
 |Years	=		2015-Present
 }}
 
-**Beaujolias Villages** is an improv troupe.
+**Don't Forget Kimberly** is an improv troupe.
 
 ## Summary
 ### Press Blurb
