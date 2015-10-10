@@ -5,7 +5,7 @@
 |Years	=		2015-Present
 }}
 
-:''This page refers to the 2015-founded high-energy duo.  For the 2011 Pinter-themed improv duo, see [[J-K]].
+:*This page refers to the 2015-founded high-energy duo.  For the 2011 Pinter-themed improv duo, see [[J-K]].*
 
 **JK** is an improv duo.
 
