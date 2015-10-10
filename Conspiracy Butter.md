@@ -17,3 +17,4 @@ The duo played at least one *[[Cagematch]]* in 2006.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
+[[Category/Butter-Themed Troupes|Category:Butter-Themed Troupes]]
