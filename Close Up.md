@@ -8,7 +8,7 @@
 |Tech               = TBA
 }}
 
-***Close Up*** will be the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Close Up*** (originally under the working title "Single Camera Comedy") was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
