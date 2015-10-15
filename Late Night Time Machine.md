@@ -57,7 +57,7 @@ Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes,
 * Jesus of Nazareth ([[Justin Davidson]])
 
 ## Season 2
-Season 2 was directed by Mason Pitluk, written and produced by Tess Hermes and Pitluk, and featured the technical direction of Mark Shoemaker. Ceej Allen and Alex Ayala assisted Hermes and Pitluk with the conception and writing of the season. Along with Hermes and Pitluk, Allen deserves writing credit for episode 1 and Ayala deserves credit for episode 4, arguably two of the finest nights of live comedy in the history of mankind. 
+Season 2 was directed by Mason Pitluk, written and produced by Tess Hermes and Pitluk, and featured the technical direction of Mark Shoemaker. Ceej Allen and Alex Ayala assisted Hermes and Pitluk with the conception and writing of the season. Along with Hermes and Pitluk, Allen earned writing credit for episode 1 and Ayala earned credit for episode 4, arguably two of the finest nights of live comedy in the history of mankind. 
 
 Season 2 primarily focused on:
 * Teddy's growth as an individual, especially in regards to his treatment of Tildy and Bud
