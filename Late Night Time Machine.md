@@ -62,7 +62,7 @@ Season 2 was directed by Mason Pitluk, written and produced by Tess Hermes and P
 Season 2 primarily focused on:
 * Teddy's growth as an individual, especially in regards to his treatment of Tildy and Bud
 * Tildy's growth as an individual as she figured out how to be a powerful female leader in 1968
-* Teddy and Tildy's quest to make "good television," motivated primarily by Teddy's desire to keep his show and place in the public's eye after being cancelled, and Tildy's knowledge of the sad future state of the entertainment industry after spending time executive producing The Ellen Show in 2016.
+* Teddy and Tildy's quest to make "good television," motivated primarily by Teddy's desire to keep his show and place in the public eye after being cancelled at the end of Season 1, and Tildy's knowledge of the sad future state of the entertainment industry after spending time executive producing The Ellen Show in 2016.
 
 
 **April 3rd - Episode 1 - Back From the Future**
