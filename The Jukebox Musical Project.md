@@ -67,7 +67,7 @@ Set during the Italian Renaissance and featuring music by Queen (October 2015)
 * Videos of "Renaissance Queen": [http://vimeo.com/142595649 10/15/15], [http://vimeo.com/142737817 10/16/15], [http://vimeo.com/142850439 10/17/15].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.926816067381910.1073742167.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/14/15 performance of *In the Air Tonight*.
+* [http://www.facebook.com/media/set/?set=a.926816067381910.1073742167.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/14/15 performance of *The Black Death*.
 * [http://www.facebook.com/media/set/?set=a.998780716852111.1073742219.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/10/15 performance of *Karma Police*.
 
 ## More Information
