@@ -47,7 +47,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Building Connections]] classes for homeless youth (2015-Current) 
 
 ## Shows
-* *[[The Cagematch]]*(2015-Current)
+* *[[The Cagematch]]* (2015-Current)
 * *[[Free Fringe]]* (2014-Current)
 * *[[Improv Mixtape]]*
 * *[[Maestro]]* (2015-Current)
