@@ -37,6 +37,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Robert Slack]]
 * [[Ruby Willmann]]
 * [[Ryan Hill]]
+* [[Marc Majcher]]
 
 ## Troupes / Duo
 * [[Character Explosion]] (2014-current)
