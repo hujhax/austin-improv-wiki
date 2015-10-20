@@ -16,7 +16,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* Video: [http://drive.google.com/file/d/0B_o2jDA_ge9RMEotYWRlNlo4bzg/view Part 1], [http://docs.google.com/file/d/0B_o2jDA_ge9RbUVmN1o4cmZid1k/edit?usp=docslist_api Part 2]
+* Video of their 1/15/15 *[[Free Fringe]]* debut: [http://drive.google.com/file/d/0B_o2jDA_ge9RMEotYWRlNlo4bzg/view Part 1], [http://docs.google.com/file/d/0B_o2jDA_ge9RbUVmN1o4cmZid1k/edit?usp=docslist_api Part 2]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
