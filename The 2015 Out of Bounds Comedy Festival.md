@@ -178,6 +178,9 @@ This discontinued the festival tradition of having an annual roast, but did incl
 
 ## Media
 ### Videos
+* [http://vimeo.com/138587312 Video] of the 9/5/15 Dasariski show.
+* [http://vimeo.com/138460333 Video] of the 9/6/15 *[[Stool Pigeon]]* show.
+
 ### Photos
 * Photosets from [[Steve Rogers]] featuring [http://www.facebook.com/media/set/?set=a.1031477603582422.1073742239.221927764537414&type=3 candids from the first few nights], [http://www.facebook.com/media/set/?set=a.1035255256537990.1073742248.221927764537414&type=3 candids from the last few nights],  [http://www.facebook.com/media/set/?set=a.1032682190128630.1073742242.221927764537414&type=3 the 9/3/15 afterparty], and [http://www.facebook.com/media/set/?set=a.1035098006553715.1073742247.221927764537414&type=3 the Saturday afterparty photobooth].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] of 9/1/15, including [[Squirrel Buddies]], Rorschach Pattern 9, [[Honey Ladies]], [[Golden]], [[Cascade]], and [[Ball & Chain]].
