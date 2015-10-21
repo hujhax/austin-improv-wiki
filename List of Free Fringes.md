@@ -1741,7 +1741,7 @@ What happens when a home is shared by a [[Reform School for Wayward Girls|reform
 * [http://youtu.be/Q4giLqTx2Rw Video] of the Plank-A-Thon.
 
 ### February 19th, 2015 (the 138th show)
-#### Andrew and Jeremy Hypnotize Each Other! ([[Jeremy Moran]])
+#### [[Andrew and Jeremy Hypnotize Each Other!]] ([[Jeremy Moran]])
 [[Andrew Schwartz]] (Played by Andrew Schwartz) and Jeremy Moran (Played by Jeremy Moran) are two improvisors who are going fully under hypnosis during an improv set. They will take an audience volunteer to do the deed, most likely using a small hypnotic toy such as a spinning top. Once they are in a somnambulist state, the audience volunteer will then have complete control of the show. They will manipulate Andrew and Jeremy to bend to their will, making them do any scene or character they want to.
 
 #### And the Oscar Goes To... ([[Jessica von Schramm]])
