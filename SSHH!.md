@@ -5,7 +5,7 @@
 |Years	=		2015-Present
 }}
 
-**SSHH!** is an improv duo.
+**SSHH!** (formerly **Fifth Friends**) is an improv duo.
 
 ## Summary
 ### Press Blurb
