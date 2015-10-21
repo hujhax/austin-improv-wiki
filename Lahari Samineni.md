@@ -9,8 +9,11 @@
 **Lahari Samineni** is a new performer who performs primarily with [[The Hideout Theatre]] and [[The Institution Theatre]].  She began taking classes at the Hideout in January 2013, and began performing in November 2013.  
 
 ## Troupes
-* [[Character Explosion]]
+* [[Minority Report]]
 * [[Worst First Date]] (Duo with [[R Lance Hunter]])
+
+Past:<br>
+* [[Character Explosion]] 
 * [[Who Wants Attention!]]
 
 ## Shows
