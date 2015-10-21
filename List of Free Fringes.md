@@ -1880,8 +1880,8 @@ The rules are there ain't no rules. Watch what happens when improvisers are free
 #### [[JK]] Debut
 JK is a high energy duo! With the audience's assistance, they will run through 10 scenes, and then revisit any of the scenes the audience want to see again. Like changing the channels on the stage, the audience has a huge say in which funny they want to see again!
 
-#### Sweet Justice ([[Nicole Beckley]])
-Luke and Nicole play two incredibly nice, cheery, chipperâ€¦ homicide detectives. Kevin Miller is their no-nonsense boss who sends them on grisly assignments and has had it up to here with their unrelenting cheeriness.
+#### [[Sweet Justice]] ([[Nicole Beckley]])
+[[Luke Wallens]] and [[Nicole Beckley]] play two incredibly nice, cheery, chipper homicide detectives. [[Kevin Miller]] is their no-nonsense boss who sends them on grisly assignments and has had it up to here with their unrelenting cheeriness.
 
 #### Arjet Universe
 [[Jessica Arjet]] and ???.
