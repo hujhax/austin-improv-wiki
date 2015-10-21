@@ -6,7 +6,7 @@
 |Years	=		2014-Present
 }}
 
-**Collective Alibi** is an improv troupe.
+**Collective Alibi** was an improv troupe.  They animorphed into [[Kinkade]].
 
 ## Summary
 ### Press Blurb
