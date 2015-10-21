@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Houses in Motion
 |Picture	=	Houses in Motion.jpg
-|Cast	=	{{ Unbulleted list | [[Casey Height]] | [[Cene Hale]] | [[Cody Dearing]] | [[Frank Netcher]] | [[Frank Netscher]] | [[Jessica Marpe]] | [[Joel Keith]] | [[Joel Kieth]] | [[Joesph Daily]] | [[Joseph Dailey]] | [[K.C. Harvey-Taylor]] | [[KC Harvey-Taylor]] | [[Lane Ingram]] }}
+|Cast	=	{{ Unbulleted list | [[Casey Height]] | [[Cene Hale]] | [[Cody Dearing]] | [[Frank Netscher]] | [[Jessica Marpe]] | [[Joel Keith]] |  [[Joseph Dailey]] | [[KC Harvey-Taylor]] | [[Lane Ingram]] }}
 |Years	=		2015-Present
 }}
 
