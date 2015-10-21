@@ -11,7 +11,8 @@
 ## Troupes
 * [[Minority Report]]
 * [[Worst First Date]] (Duo with [[R Lance Hunter]])
-
+* [[Things We Don't Speak Of]]
+<br>
 Past:<br>
 * [[Character Explosion]] 
 * [[Who Wants Attention!]]
