@@ -1326,7 +1326,7 @@ Three awesome improvisers will be playing a different character each minuteÂ fo
 #### It's a Quarter to 3:00 ([[Chelley Pyatt]])
 A slice of life of a jazz singer down on her luck. It's set in the bar she typically sings at. There will be some old jazz standards with some musical improv peppered throughout.
 
-#### Quadrupeds ([[Jessica Arjet]])
+#### [[Quadrupeds]] ([[Jessica Arjet]] *et al*)
 Headliner
 
 ### June 26, 2014 (the 110th show)
