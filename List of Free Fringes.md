@@ -1661,7 +1661,7 @@ Were they right? Let's find out.
 #### Worst First Date ([[Lance Hunter]])
 A date that goes horribly, horribly wrong. Then wrong some more. Then wronger. It's just the wrongiest.
 
-#### Things We Don't Speak Of ([[Jeremy Moran]])
+#### [[Things We Don't Speak Of]] ([[Jeremy Moran]])
 The title of this piece is "Things We Don't Speak Of" because EVERYTHING is sung.
 
 Even asking the audience for suggestions is sung.
