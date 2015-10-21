@@ -1870,7 +1870,7 @@ If you've ever considered taking a self-defense class, let Tim in a Cup be your 
 #### Imaginary People Have Feelings Too ([[Phil Morin]])
 Emojis -- everyone's favorite second language. Watch as improvisers act out scenes inspired by those whimsical icons, proving that imaginary people have feelings too.
 
-#### You Bet Your Life ([[Robert Slack]])
+#### [[You Bet Your Life]] ([[Robert Slack]])
 Groucho Marx ([[Robert Slack]]) brings his classic television quiz show to the Hideout theatre. Groucho will interview audience members, and have them play for the chance to win 200$ (Monopoly money).
 
 #### Free Range Improv ([[Jessica von Schramm]])
