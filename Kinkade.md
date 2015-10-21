@@ -5,7 +5,9 @@
 |Years	=		2015-Present
 }}
 
-**Kinkade** is an improv troupe.
+**Kinkade** is an improv troupe.  Take a minute to go read about the mythology of the phoenix.  Go ahead.  I can wait.  
+
+Alright, now that you have learned about what is a phoenix, know that the imagery of the phoenix can be applied to Kinkade.  for this metaphor, Kinkade is the new phoenix that comes out of the ashes.  The ashes are made of the burnt-up corpses of the members of [[Collective Alibi]].
 
 ## Summary
 ### Press Blurb
