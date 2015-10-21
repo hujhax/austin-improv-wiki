@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Things We Don't Speak Of
 |Picture	=	Things We Don't Speak Of.jpg
-|Cast	=	{{ Unbulleted list | [[Jeremy Moran]] | [[Jessica T. Von Schram]] | [[Lahari Samineni]] | [[Mitchell Deane]] | [[Rachel Denton]] }}
+|Cast	=	{{ Unbulleted list | [[Jeremy Moran]] | [[Jessica T. Von Schram]] | [[Lahari Samineni]] | [[Mitchell Deane]] }}
 |Years	=		2015-Present
 }}
 
