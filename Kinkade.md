@@ -5,7 +5,7 @@
 |Years	=		2015-Present
 }}
 
-**Kinkade** is an improv troupe.  Take a minute to go read about the mythology of the phoenix.  Go ahead.  I can wait.  
+**Kinkade** is an improv troupe.  Take a minute to go read about the mythology of [https://en.wikipedia.org/wiki/Phoenix,_Arizona the phoenix].  Go ahead.  I can wait.  
 
 Alright, now that you have learned about what is a phoenix, know that the imagery of the phoenix can be applied to Kinkade.  For this metaphor, Kinkade is the new phoenix that comes out of the ashes.  The ashes are made of the burnt-up corpses of the members of [[Collective Alibi]].  When [[Collective Alibi]] was over and ended, all of the bodies of the members began to be on fire.  After they had been finished being on fire, they slowly turned into black powder (the aforementioned ash).  Now this is the ash that somehow got pregnant and made a baby bird through gestation.  This baby bird is the same bird that is Kinkade in this metaphor.
 
