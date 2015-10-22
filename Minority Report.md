@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Minority Report
 |Picture	=	Minority Report.jpg
-|Cast	=	{{ Unbulleted list | [[Cristy Salinas]] | [[Jessica von Schramm]] | [[Lahari Samineni]] | [[Linzy Beltran]] | [[Sunaina Suhag]] }}
+|Cast	=	{{ Unbulleted list | [[Cristy Salinas]] | [[Jessica von Schramm]] | [[Lahari Samineni]] | [[Linzy Beltran]] }}
 |Years	=		2015-Present
 }}
 
