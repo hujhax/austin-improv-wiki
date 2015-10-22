@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Kingz
 |Picture	=	Kingz.jpg
-|Cast	=	{{ Unbulleted list | [[Arian Brumby]] | [[Cene Hale]] | [[Emma Holder]] | [[Lisa Jackson]] | [[Meredith Roberts]] | [[Molly Moore]] }}
+|Cast	=	{{ Unbulleted list | [[Arian Brumby]] | [[Cene Hale]] | [[Emma Holder]] | [[Lisa Jackson]] | [[Meredith Roberts]] | [[Molly Moore]] | [[Xaria Coleman]]}}
 |Years	=		2015-Present
 }}
 
