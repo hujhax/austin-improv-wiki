@@ -19,7 +19,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 * [http://www.dropbox.com/s/6nf3t5398he1hs2/Butter-Art%20of%20the%20Woo.mp4?dl=0 Video #1]
 
 ## More Information
-* [http://www.facebook.com/ButterDuo?ref=bookmarks The troupe's web site.]
+* [http://www.facebook.com/ButterDuo?ref=bookmarks The troupe's facebook page.]
 
 
 [[Category/Troupes|Category:Troupes]]
