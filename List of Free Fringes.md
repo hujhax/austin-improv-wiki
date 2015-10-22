@@ -1778,15 +1778,12 @@ Featuring [[Kevin Miller]].
 #### Spacework Dinner ([[Tyler Lane]])
 [[Tyler Lane]] spends 15 minutes making dinner, via silent spacework.
 
-==== Bad Cop / Bad Cop (the *[[Penny Dreadful]]* cast)
-
+#### Bad Cop / Bad Cop (the *[[Penny Dreadful]]* cast)
 #### Arjet Universe
 Featuring [[Jason Vines]].
 
-
 ### March 19th, 2015
 Dark for SXSW.
-
 
 ### March 26th, 2015 (the 142nd show)
 #### Man of Felt (Caeriel Crestin)
@@ -1799,7 +1796,6 @@ The work of Smashing Pumpkins plopped into a fifteen-minute musical set (where e
 
 #### Arjet Universe
 [[Jessica Arjet]] and Ouardane Jouannot.
-
 
 ### April 2, 2015 (the 143rd show)
 #### Evil Aspen ([[Ann Nelson]])
@@ -1834,7 +1830,6 @@ After taking some audience suggestions for current events/news that have been oc
 
 #### Arjet Universe
 [[Jessica Arjet]] and [[Shannon Dale Stott]].
-
 
 ### April 23, 2015 (the 145th show)
 #### Like a Brother ([[Mike Carreon]])
