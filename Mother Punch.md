@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Mother Punch
 |Picture	=	Mother Punch.jpg
-|Cast	=	{{ Unbulleted list | [[Chelsea Beth]] | [[Chelsea Hockaday]] | [[David Chambers]] | [[Donnie Garcia]] | [[Jenn Hamm]] | [[Jon Fortenbury]] | [[Monica Maher]] }}
+|Cast	=	{{ Unbulleted list | [[Chelsea Beth]] | [[David Chambers]] | [[Donnie Garcia]] | [[Jenn Hamm]] | [[Jon Fortenbury]] | [[Monica Maher]] }}
 |Years	=		2015-Present
 }}
 
