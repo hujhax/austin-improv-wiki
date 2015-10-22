@@ -1771,10 +1771,24 @@ A Magical souffle of improvised rap stuffed with delicious stories with just a d
 #### Curry, Kirschner and Taylor
 [[Aden Kirschner]], [[Sarah Marie Curry]], and [[Ammon Taylor]] are all members of two time [[B. Iden Payne Awards|B.-Iden-Payne-Award]]-winning, musical-performance collective [[Girls Girls Girls]]. As faculty members of [[Merlin Works Institute for Improvisation]], [[The Institution Theater]], and [[The Hideout Theatre]], these three put on an unforgettably theatrical performance weaving together characters scenes and songs that are magical, catchy and adorable!
 
-### March 12th, 2015, 2015
+### March 12th, 2015 (the 141st show)
+#### Swedish Exchange Students ([[Kevin Miller]])
+Featuring [[Kevin Miller]].
+
+#### Spacework Dinner ([[Tyler Lane]])
+[[Tyler Lane]] spends 15 minutes making dinner, via silent spacework.
+
+==== Bad Cop / Bad Cop (the *[[Penny Dreadful]]* cast)
+
+#### Arjet Universe
+Featuring [[Jason Vines]].
+
+
+### March 19th, 2015
 Dark for SXSW.
 
-### March 19th, 2015, 2015 (the 141st show)
+
+### March 26th, 2015 (the 142nd show)
 #### Man of Felt (Caeriel Crestin)
 Dave Ronn's identical twin muppet comes to town. No one can tell the two apart. Hilarity ensues.
 
@@ -1786,8 +1800,6 @@ The work of Smashing Pumpkins plopped into a fifteen-minute musical set (where e
 #### Arjet Universe
 [[Jessica Arjet]] and Ouardane Jouannot.
 
-### March 26th, 2015, 2015 (the 142nd show)
-Unknown
 
 ### April 2, 2015 (the 143rd show)
 #### Evil Aspen ([[Ann Nelson]])
