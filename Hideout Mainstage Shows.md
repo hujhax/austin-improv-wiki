@@ -167,7 +167,7 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |-
 |Jun 2015||*[[SongRunner]]*||[[Kacey Samiee]], [[Ammon Taylor]], [[Jordan T. Maxwell]]
 |-
-|Aug 2015||*[[Single Camera Comedy]]*||[[Caeriel Crestin]], [[Jessica Arjet]]
+|Aug 2015||*[[Close Up]]*||[[Caeriel Crestin]], [[Jessica Arjet]]
 |-
 |Oct 2015||*[[Teenage Wasteland]]*||[[Jordan T. Maxwell]]
 |-
