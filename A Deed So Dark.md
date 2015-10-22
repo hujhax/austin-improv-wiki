@@ -10,7 +10,7 @@
 |Tech               = {{Unbulleted list | [[Robert Slack]] (stage manager) | [[Cindy Page]] (lights) | [[Rachel Posey Austin]] (sound)}}
 }}
 
-***A Deed So Dark*** will be the September/October 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
+***A Deed So Dark*** is the September/October 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
