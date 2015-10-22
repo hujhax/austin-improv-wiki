@@ -21,7 +21,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 * [http://vimeo.com/131850763 Video #1]
 
 ## More Information
-* [http://tinyurl.com/qj5l3kw The troupe's web site.]
+* [https://www.facebook.com/JK-jillian-katie-841324792628556/ The troupe's facebook page.]
 
 
 [[Category/Troupes|Category:Troupes]]
