@@ -24,6 +24,8 @@ The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The 
 
 The third performance took place as part of [[The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[The Hideout Theatre]].
 
+The fourth performance was part of the *[[Four Chambers]]* series at [[The Hideout Theatre]] in 2015.
+
 ## Casts
 ### Show #1
 * [[Bob Olmstead]] (Wolf)
