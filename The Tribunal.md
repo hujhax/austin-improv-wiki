@@ -71,6 +71,21 @@ The fourth performance was part of the *[[Four Chambers]]* series at [[The Hideo
 * [[Peter Rogers]]
 * [[Ruby Willmann]]
 
+### Show #4
+* [[Cat Drago]] (Peacock)
+* [[Chris Albano]] (Dog)
+* [[Chris Villafranco]] (Bison)
+* [[David Lampe]] (Cat)
+* [[Ericka Bundy]] (Rat)
+* [[Heidi Penix]] (Wolf)
+* [[Lacy Shawn]] (Elk)
+* [[Leonard Balsera]] (Raven)
+* [[Luke Wallens]] (Horse)
+* [[Mike Kinald]] (Thug)
+* Rachel ??? (Mouse)
+* [[Ryan Austin]] (Stork)
+* [[Terra Chirieleison]] (Hawk)
+
 ## Media
 * [http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3 Photoset of show #1] by [[Roy Moore]].
 * [http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3 Photoset] by [[Michael Yew]] that includes show #3.
