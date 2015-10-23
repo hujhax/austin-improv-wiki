@@ -61,6 +61,7 @@ Nice Astronaut has performed at the following festivals
 
 ## Media
 ### Videos
+* [http://youtu.be/Vih0JjV831I Video] by [[Brian Boyko]] of a 2009 show.
 * [http://vimeo.com/21037196 Video] by [[Lisa Jackson]] of their 3/12/11 "Improvioke" show.
 * [http://vimeo.com/36009826 December 2011 "It's a Tolerable Existence" show.]
 * [http://vimeo.com/50645379 8/11/12 show: "Mattress Cover".]
