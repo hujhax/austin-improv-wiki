@@ -63,7 +63,9 @@ This show played on May 30, 2015.
 
 ## Media
 ### Videos
-* [http://vimeo.com/130296223 Video] of the 5/23/15 performance of "Juggernaut" .
+* [http://youtu.be/VSxDDJRuPgk Video] of the 5/16/15 performance of "Previous Occupants".
+* [http://vimeo.com/130296223 Video] of the 5/23/15 performance of "Juggernaut".
+** [http://youtu.be/suIDfmBkZ80 iPhone video] of the show.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
