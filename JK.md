@@ -18,7 +18,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/131850763 Video #1]
+* [http://vimeo.com/131850763 Video] of their 5/23/15 performance in *[[ImprompTwo]]*.
 
 ## More Information
 * [http://www.facebook.com/JK-jillian-katie-841324792628556/ The troupe's facebook page.]
