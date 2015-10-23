@@ -3,9 +3,11 @@
 |Picture            = Scene of the Crime Poster.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Troy Miller]]
+|Assistant Director = [[Jenna Howard]]
+|Music              = [[James Blair]]
 |Run                = May/Jun 2015
 |Cast               = {{Unbulleted list | [[Ace Manning]] | [[Andrew Buck]] | [[Audrey Rachel Sansom]] | [[Cynthia Cobb Oelkers]] | [[David Schwartz]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Kenny Madison]] | [[Mia Iseman]] | [[Nicole Oliver]] | [[Ruby Willmann]] | [[Sean Hill]] | [[Troy A. Miller]] }}
-|Tech               = [[Neal Tibrewala]]
+|Tech               = {{Unbulleted list | [[Andrew Schwartz]] (lights and sound) | [[Jay Michael]] (stage manager, lights and sound) | [[Neal Tibrewala]] (technical director) | [[Paul Ramone Weiner]] (lights and sound) }}
 }}
 
 ***Scene of the Crime*** will be the May/June 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
