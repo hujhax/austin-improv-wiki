@@ -82,7 +82,7 @@ The fourth performance was part of the *[[Four Chambers]]* series at [[The Hideo
 * [[Leonard Balsera]] (Raven)
 * [[Luke Wallens]] (Horse)
 * [[Mike Kinald]] (Thug)
-* Rachel ??? (Mouse)
+* [[Rachel Posey Austin]] (Mouse)
 * [[Ryan Austin]] (Stork)
 * [[Terra Chirieleison]] (Hawk)
 
