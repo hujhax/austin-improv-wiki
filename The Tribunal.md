@@ -4,8 +4,7 @@
 |Theater=	{{Unbulleted list|[[Salvage Vanguard Theater]]|[[The Hideout Theatre]]}}
 |Director =	[[Marc Majcher]]
 |Cast	=	Various
-|Run	=	Sep 28th 2012
-|Subsequent Runs = April 12th 2013
+|Run	=	2012-2015 (sporadic)
 }}
 
 ***The Tribunal*** is an improv show about the mechanics of oppression.
