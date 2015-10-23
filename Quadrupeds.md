@@ -16,6 +16,10 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 And repeat a third time with yet another choice. We try to make sure the stories have high variety but also "feel right." We are all big fans of Wes Anderson's movies and try to create vivid worlds with memorable characters and a hint of magical realism. </blockquote>
 
+## Media
+### Videos
+* [http://vimeo.com/126649332 Video] of their performance in the 4/30/15 *[[Free Fringe]]*.
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Active|Category:Active]]
