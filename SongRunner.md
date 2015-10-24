@@ -11,9 +11,19 @@
 |Tech               = {{Unbulleted list | [[Greg Blank]] | [[Kyle Grier]] }}
 }}
 
-***SongRunner*** will be the June 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***SongRunner*** was the June 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
+*SongRunner* was a musical set in a dystopian, sci-fi future, in which rebellious, free-spirited 'runners' were pursued by government agents intent on reducing them to emotionless drones.  The show drew on sci-fi works such as *[[Wikipedia - Blade Runner|Blade Runner]]* and *[[Wikipedia - V for Vendetta|V for Vendetta]]*.
+
+The show opened with an introductory video made by [[Kacey Samiee|Kacey]] and [[Jordan T. Maxwell|Jordan]].
+
+The cast would go to the wings, save three cast members -- one to get suggestions, and two government 'regulators'.
+
+First, the cast member would ask the audience for a favorite song lyric or line of poetry, hopefully something that had a profound emotional effect on them.  The cast member would emotionally react to that suggestion, and then the regulators would 'blank' them, reducing them to a blank, emotionless state.  The newly blanked character would drone, "*SongRunner*, when the lights come up," and the show would start from there.
+
+It was a narrative show which spread its focus across a broad ensemble, ten to eleven performers per night.  It ran 75-80 minutes, with a brief intermission.  The 'runners' were dressed in retro-sci-fi "cyber-punk" styles, while the other characters wore neutral, beige ensembles.
+
 ### Publicity Blurb
 From the show announcement:<blockquote>"A futuristic blade-runner/cyber-punk/cyborg/robot-styled MUSCAL.  So... the best thing ever?  Yes."</blockquote>
 
