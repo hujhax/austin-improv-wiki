@@ -8,7 +8,7 @@
 |Tech               = {{Unbulleted list | [[Josh Farmer]] (sound) | [[Nick Amsden]] (lights) }}
 }}
 
-***Close Up*** (original working title: "Single Camera Comedy") was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Close Up*** (original working title: **Single Camera Comedy**) was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 This was a show based on single-camera 'mockumentaries' like *[[Wikipedia - The Office|The Office]]*, *[[Wikipedia - Parks and Recreation|Parks and Recreation]]*, *[[Wikipedia - Modern Family|Modern Family]]*, and  *[[Wikipedia - Best in Show|Best in Show]]*.
