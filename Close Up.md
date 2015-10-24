@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = Close Up
-|Picture            = Single Camera Comedy.jpg
+|Picture            = Close Up.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Caeriel Crestin]] | [[Jessica Arjet]] }}
 |Run                = August 2015
