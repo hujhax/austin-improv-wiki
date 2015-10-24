@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = SongRunner
-|Picture            = Cyber House Rules.jpg
+|Picture            = SongRunner.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Ammon Taylor]] | [[Kacey Samiee]] }}
 |Assistant Director = [[Jordan T. Maxwell]]
