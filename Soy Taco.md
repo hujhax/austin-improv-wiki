@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Soy Taco
 |Picture	=	Soy Taco.jpg
-|Cast	=	{{ Unbulleted list | [[Angie Smith]] | [[Ankit Sharma]] | [[Cristy Salinas]] | [[Monica Maher]] | [[Rachel Creason]] | [[Robert Evans]] | [[Vijay Thakkar]] }}
+|Cast	=	{{ Unbulleted list | [[Angie Smith]] | [[Cristy Salinas]] | [[Monica Maher]] | [[Rachel Creason]] | [[Robert Evans]] | [[Vijay Thakkar]] }}
 |Years	=		2015-Present
 }}
 
