@@ -1,5 +1,6 @@
 {{Infobox Performer
 |Name	=	Cristy Salinas
+|Picture=Austin monologue jam.jpg
 |Theater=	{{Unbulleted list | [[The Hideout Theatre]] }}
 |Years	=	2014-Present
 }}
@@ -18,3 +19,5 @@ Originally from the Rio Grande Valley, Cristy moved to Austin to attend the Univ
 
 ## Shows
 [[Austin Monologue Jam]]
+
+[[Category/Performers|Salinas]]
