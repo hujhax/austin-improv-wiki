@@ -4,9 +4,8 @@ Originally from the Rio Grande Valley, Cristy moved to Austin to attend the Univ
 
 
 ## Troupes
-[[Minority Report]]
+[[Minority Report]]<br>
 [[Soy Taco]]
-
 
 ## Shows
 [[Austin Monologue Jam]]
