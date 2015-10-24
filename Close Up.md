@@ -5,12 +5,20 @@
 |Director           = {{Unbulleted list | [[Caeriel Crestin]] | [[Jessica Arjet]] }}
 |Run                = August 2015
 |Cast               = {{Unbulleted list | [[Angie Smith]] | [[Aspen Webster]] | [[Cagney Ortiz]] | [[Jenna Howard]] | [[Kenny Madison]] | [[Kelly Campbell]] | [[Luis Salinas]] | [[Suzanne Link]] }}
-|Tech               = TBA
+|Tech               = {{Unbulleted list | [[Josh Farmer]] (sound) | [[Nick Amsden]] (lights) }}
 }}
 
-***Close Up*** (originally under the working title "Single Camera Comedy") was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Close Up*** (original working title: "Single Camera Comedy") was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
+This was a show based on single-camera 'mockumentaries' like *[[Wikipedia - The Office|The Office]]*, *[[Wikipedia - Parks and Recreation|Parks and Recreation]]*, *[[Wikipedia - Modern Family|Modern Family]]*, and  *[[Wikipedia - Best in Show|Best in Show]]*.
+
+### Show Structure
+Each show opened with the cast forming a tableau.  Then the directors would ask the audience, "Our crew of documentarians has been following these people around.  What is it that they are passionate about?"  After taking the suggestion, the show's "lead monologist" would begin the performance with a five- to eight-minute monolog.  This would be followed by a series of scenes.  They wouldn't follow any one storyline or character, but place more emphasis (especially in the first half) on exploring characters and relationships.
+
+### Tone and Style
+The show tended towards the whimsical.  (Example: one performance featured [[Jenna Howard]] as Barack Obama and [[Kenny Madison]] as Joe Biden.)  Its pace varied, slowing down with extended monologs, but speeding up for quick pop-outs within scenes.  It had a fairly minimal visual style, with straightforward lighting changes for cueing monologs, and a basic black/white/gray costume palette with accent colors.
+
 ### Publicity Blurb
 From the show announcement:<blockquote>"A comedic narrative in the style of single-camera comedies like *[[Wikipedia - The Office|The Office]]*, *[[Wikipedia - Parks and Recreation|Parks and Recreation]]*, and *[[Wikipedia - Modern Family|Modern Family]]*, as well as borrowing from mockumentaries like *[[Wikipedia - Best in Show|Best in Show]]*."</blockquote>
 
