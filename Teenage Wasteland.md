@@ -19,7 +19,7 @@
 |Tech               = TBA
 }}
 
-***Teenage Wasteland*** was be the October 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Teenage Wasteland*** was the October 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
