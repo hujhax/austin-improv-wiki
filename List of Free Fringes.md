@@ -1952,6 +1952,9 @@ Based on a popular meme, "Your Corpus Is Showing" will lovingly poke fun at the 
 #### Arjet Universe
 [[Jessica Arjet]] and [[Topping Haggerty]].
 
+#### Media
+* [http://www.facebook.com/michael.yew/media_set?set=a.10204458319840782.1073741956.1315383518&type=3 Photoset] by [[Michael Yew]].
+
 ### July 16, 2015 (the 157th show)
 #### Hollywouldn't ([[Jon Fortenbury]])
 In Hollywouldn't, "Girl, Interrupted" could be a story about a girl going on a killing spree after being interrupted, and "Star Wars" about a teen's fight for opera stardom. That's because, in this show, an improviser will narrate an actual film he/she has never seen (suggested by the audience) while the other improvisers act it out. It's bound to be nothing like the real films €” and hilarious! 
