@@ -1996,6 +1996,10 @@ The cast (including [[Jeremy Moran]], [[Linzy Beltran]], [[David Lampe]], [[Mitc
 ### August 13, 2015 (the 161st show): "Summer Intensive Fringe Show"
 [[Aspen Webster]], [[Tyler Lane]], and [[Jessica Arjet]] will be heading up project using Austin improvisers and students from the Hideout Summer Intensive as cast members. It's gonna be a blast, y'all.
 
+#### Media
+##### Photos
+* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207813068551073.1425495839&type=3 Photoset] by [[Jay Mahavier]].
+
 ### August 20, 2015 (the 162nd show)
 #### The End of Us ([[Jeremy Moran]])
 An improv troupe is calling it quits and you're invited to their last show! It will be an emotional send-off but there will be a lot of laughs along the way.
