@@ -1953,6 +1953,7 @@ Based on a popular meme, "Your Corpus Is Showing" will lovingly poke fun at the 
 [[Jessica Arjet]] and [[Topping Haggerty]].
 
 #### Media
+##### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10204458319840782.1073741956.1315383518&type=3 Photoset] by [[Michael Yew]].
 
 ### July 16, 2015 (the 157th show)
