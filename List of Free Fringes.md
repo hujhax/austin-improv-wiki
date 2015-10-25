@@ -1853,6 +1853,10 @@ This is the casual, unofficial, just for fun funny lady's workshop showcase! Our
 #### Arjet Universe
 [[Jessica Arjet]] and [[Quadrupeds]].
 
+#### Media
+##### Videos
+* [http://vimeo.com/126649332 Video] of the 4/30/15 "Quadrupeds" performance.
+
 ### May 7, 2015 (the 147th show)
 #### Take Me Out to the Ballgame ([[Tim Coyle]])
 A group of sports fans journey to the game, at the game, or on the way home from the game - the audience will decide.
