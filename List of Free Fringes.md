@@ -2010,6 +2010,10 @@ Sometimes when you teach improv you run across students with so much natural tal
 #### Arjet Universe
 [[Jessica Arjet]] and [[Margaret Rose]].
 
+#### Media
+##### Photos
+* Photosets by [[Jay Mahavier]]: [http://www.facebook.com/jay.mahavier/media_set?set=a.10207864062305885.1425495839&type=3 "The End of Us"], [http://www.facebook.com/jay.mahavier/media_set?set=a.10207864066385987.1425495839&type=3 "Teacher Heaven"], and [http://www.facebook.com/jay.mahavier/media_set?set=a.10207864068786047.1425495839&type=3 "Arjet Universe"].
+
 ### August 27, 2015 (the 163rd show)
 #### Fancy Nancy and Plain Jane ([[Kaci Beeler]])
 Two unlikely sisters, Fancy Nancy ([[Halyn Lee Erickson]]) and Plain Jane ([[Kaci Beeler]]), are as opposite as they come. Nancy has a luxurious life as a famous actress, a rich and eccentric starlet of the stage and screen, while Jane enjoys her days making less than minimum wage and as little noise as possible as a Librarian's assistant, counting the seconds until her next herbal tea break. Will Jane ever take on a more exciting life? Will Nancy ever settle down?
