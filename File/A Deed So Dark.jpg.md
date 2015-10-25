@@ -1,5 +1,5 @@
 ## Summary
-Poster for *A Deed So Dark*, featuring [[Kareem Badr]].
+Poster for *[[A Deed So Dark]]*, featuring [[Kareem Badr]].
 
 Photos by [[Steve Rogers]].
 
