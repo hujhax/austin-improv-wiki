@@ -1,10 +1,10 @@
 {{Infobox Troupe
 |Name	=		Echo Lake
-|Cast	=	{{ Unbulleted list | [[Cortnie Jones]] | [[Courtney Hopkin]] | [[Valerie Ward]] }}
+|Cast	=	{{ Unbulleted list | [[Cortnie Jones]] | [[Courtney Hopkin]] | [[Valerie Ward]] | [[Lisa Jackson]]}}
 |Years	=		2013-Present
 }}
 
-**Echo Lake** is an improv troupe.
+**Echo Lake** is an improv troupe. [[Lisa Jackson]] joined in 2015. 
 
 ## Summary
 ### Press Blurb
