@@ -70,5 +70,10 @@ Set during the Italian Renaissance and featuring music by Queen (October 2015)
 * [http://www.facebook.com/media/set/?set=a.926816067381910.1073742167.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/14/15 performance of *The Black Death*.
 * [http://www.facebook.com/media/set/?set=a.998780716852111.1073742219.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/10/15 performance of *Karma Police*.
 
+### Other
+* Promos for "Renaissance Queen":
+** [http://vimeo.com/142341649 Video] by [[Peter Rogers]].
+** [http://www.facebook.com/groups/217905648309669/permalink/682285508538345/ Video] by [[Tom Booker]].
+
 ## More Information
 * [http://www.facebook.com/JukeboxBway The show's facebook page.]
