@@ -5,10 +5,10 @@
 |Cast	=	{{Unbulleted list|[[Jessica Arjet]] | [[Andrew Basile]] | [[Ashley Jayne Carlisle]] | [[Cat Drago]] | [[Mitchell Deane]] | [[Andreas Fabis]] | [[Scott Hearne]] | [[Clifton Highfield]] | [[Ryan Hill]] | [[Brandon Martin]] | [[Nathan Sowell]] | [[Sarah Swofford]] | [[Dana Yanoshak]]}}
 |Theater = [[The Institution Theater]]
 |Run	=	Feb 2013
-|Subsequent Runs = Feb 2014
+|Subsequent Runs = {{Unbulleted list | [[Feb 2014]] | [[Feb 2015]] }}
 }}
 
-***Love Fest*** (AKA **Lovefest**) is an improvised longform show based on the theme of love.  It runs concurrently with *[[Bitterfest]]*.
+***Love Fest*** (AKA **Lovefest**) is an annual improvised longform show based on the theme of love.  In 2013 and 2014, it ran concurrently with *[[Bitterfest]]*.
 
 ## Format
 Each show consisted of three separate troupe performances by [[Nugefield]], [[Bedfellows]], and [[The Seven Eight Sevens]] (2013) or Lovecast (2014). The troupe performances were interspersed with brief musical acts and true stories by the cast members about their love lives.
