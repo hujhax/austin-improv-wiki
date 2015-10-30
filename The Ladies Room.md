@@ -20,6 +20,9 @@ A second season of the show is planned for 2016.
 From the initial show announcement: <blockquote>"There is a lot women hide and only reveal when they go to the restroom together. The Ladies Room is an improvised show about seeing all sides of woman the good the bad and the ugly."</blockquote>
 
 ## Media
+### Videos
+* [http://youtu.be/4jREdgtuNdI Video of the 7/17/15 performance.]
+
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10204458400402796.1073741957.1315383518&type=3 Photoset] by [[Michael Yew]] of the 7/11/15 performance.
 * [http://www.facebook.com/media/set/?set=a.848505198559326.1073741860.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 7/17/15 performance.
