@@ -1,6 +1,9 @@
 ## Summary
-Placeholder art for *[[The Ladies Room]]*.
+Poster for *[[The Ladies Room]]*.
 
-Art by: [[Asaf Ronen]].
+Photo by [[Roy Moore]].
+
+Art by [[Asaf Ronen]].
+
 ## Licensing
 {{AIC-Wiki-only license}}
