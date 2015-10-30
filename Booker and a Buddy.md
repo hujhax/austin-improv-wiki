@@ -15,7 +15,7 @@ The show is loosely patterned off of [[Wikipedia - Susan Messing|Susan Messing]]
 
 ## Media
 ### Videos
-* [http://vimeo.com/124087927 Video] of the 3/28/15 performane with [[Peter Rogers]].
+* [http://vimeo.com/124087927 Video] of the 3/28/15 performance with [[Peter Rogers]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]
