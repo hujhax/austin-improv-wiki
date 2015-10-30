@@ -7,7 +7,7 @@ The band formed in 2014, following an indiegogo campaign.
 
 In 2015, they played a showcase at [[Wikipedia - SXSW|SXSW]].
 
-They will have a mainstage run at [[The Institution Theater]] on Fridays and Saturdays at 8pm from 5/29/15 to 6/13/15.
+They had a mainstage run at [[The Institution Theater]] on Fridays and Saturdays at 8pm from 5/29/15 to 6/13/15.
 
 ## Media
 ### Photos
