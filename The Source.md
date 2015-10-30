@@ -7,7 +7,10 @@
 |Run	=	Jul/Aug 2015
 }}
 
-***The Source*** is an upcoming mainstage at [[The Institution Theater]].  It has been announced as a "60's happening/longform improvised show/Blue Man Group-ish Performance/Experimental Theater/Spiritual Cult Induction show"
+***The Source*** was a mainstage at [[The Institution Theater]].  It was described as a "60's happening/longform improvised show/Blue Man Group-ish Performance/Experimental Theater/Spiritual Cult Induction show".
+
+## Summary
+The show ran Fridays at 10pm from 7/24/15 to 8/28/15.
 
 ## Media
 ### Photos
@@ -17,3 +20,4 @@
 * [http://www.facebook.com/events/1388245511501848/ The audition announcement.]
 
 [[Category/Shows|Source]]
+[[Category/The Institution Theater|Category:The Institution Theater]]
