@@ -7,9 +7,11 @@
 |Run	= May 2015
 }}
 
-***Buzz Band*** is an upcoming mainstage show at [[The Institution Theater]].
+***Buzz Band*** was a mainstage show at [[The Institution Theater]].
 
 ## Summary
+The show ran Fridays and Saturdays at 8pm, from 5/8/15 to 5/23/15.
+
 ### Press Blurb
 From the initial show announcement: <blockquote>"Enter the world of musicians on the cusp – of stardom, of reaching the next level, of bottoming out, of personal disaster.  This improvised narrative journey follows characters as they realize how high the stakes are when they strive for fame -- or infamy -- in the music industry."</blockquote>
 
