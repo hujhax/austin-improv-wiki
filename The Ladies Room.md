@@ -5,12 +5,15 @@
 |Director =	{{Unbulleted list | [[Ally Huston]] | [[Asaf Ronen]] }}
 |Cast = {{Unbulleted list | [[Ally Huston]] | [[Aspen Webster]] | [[Brittany Flurry]] | [[Jessica Brooks]] | [[Jessica Salinas]] | [[Jo Chauvin]] | [[Molly Mckee]] | [[Nicole Oliver]] | [[Sam Schak]] }}
 |Run	= Jun-Jul 2015
+|Subsequent Runs = 2016
 }}
 
-***The Ladies Room*** is an upcoming mainstage show at [[The Institution Theater]].
+***The Ladies Room*** was a mainstage show at [[The Institution Theater]].
 
 ## Summary
-The show will run Fridays at 10pm from 6/26/15 to 7/17/15.
+The show ran Fridays at 10pm from 6/26/15 to 7/17/15.
+
+A second season of the show is planned for 2016.
 
 ### Press Blurb
 From the initial show announcement: <blockquote>"There is a lot women hide and only reveal when they go to the restroom together. The Ladies Room is an improvised show about seeing all sides of woman the good the bad and the ugly."</blockquote>
