@@ -5,7 +5,7 @@
 |Director =	[[Tom Booker]]
 |Cast	=	{{Unbulleted list | [[Ash Nunley]] | [[Bryan 'Lubu' Roberts]] | [[Bryan Curry]] | [[Claudio Fox]] | [[Duncan Coe]] | [[Elena Weinberg]] | [[Sam Schak]] | [[Sarah Marie Curry]] | [[Sarah Swofford]] | [[Tom Booker]] | [[Tyler Bryce]] }}
 |Run	=	Jul-Sep 2013
-|Subsequent Runs = {{Unbulleted list | Nov/Dec 2013 | Apr/May 2014 }}
+|Subsequent Runs = {{Unbulleted list | Nov/Dec 2013 | Apr/May 2014 | Aug 2015 | Dec 2015 | 2016 }}
 |Tech	=	{{Unbulleted list | [[Bryan Curry]] | [[Chelley Pyatt]] }}
 }}
 
@@ -78,6 +78,18 @@ A third run of the show happened in April and May of 2014.
 * [[Sam Schak]]
 * [[Sarah Swofford]]
 * [[Tyler Bryce]]
+
+### Fuck It's Hot (2015)
+*Fuck It's Hot* returned in August 2015.
+
+### Fuck It's Christmas (2015)
+*Fuck It's Hot* returned in December 2015.
+
+### Fuck It's Hot (2016)
+*Fuck It's Hot* is scheduled to return in 2016.
+
+### Fuck It's Christmas (2016)
+*Fuck It's Hot* is scheduled to return in 2016.
 
 ## Media
 ### Videos
