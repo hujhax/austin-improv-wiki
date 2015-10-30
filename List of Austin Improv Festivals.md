@@ -9,6 +9,7 @@ This is a list of festivals associated with the Austin improv scene.
 * [[The Moontower Comedy Festival]]
 * [[The Out of Bounds Comedy Festival]]
 * [[WaffleFest]]
+* [[Excused Absence Improv Festival for Youth]]
 
 Former Austin-based festivals that have featured improv:
 * [[See, Hear Speak Fest]]
