@@ -17,7 +17,7 @@ Tarantula is a "formless-form" show, in a similar vein as Todd Stashwick's *Mayf
 #### Dystheatre Art Installation
 Beginning in September of 2015, Michael Ferstenfeld began an art installation project in the adjacent room of the performance as part of his MIND MAP series. 
 
-#### "Artist Series" Poster Commission
+#### Artist Series Poster Commission
  As part of the loose, experiential nature of the show, an artist series of posters has been commissioned from the pool of Austin Improv Community designers, of which there are many members, contributing designs for productions in many and varied ways across the improv marketing scene in Austin. Please see photo archive for in series work.
 
 ### Press Blurb
