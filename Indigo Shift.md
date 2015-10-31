@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Indigo Shift
 |Picture	=	Indigo Shift.jpg
-|Cast	=	{{Unbulleted list|[[Jordan T. Maxwell]]|[[Kacey Samiee]]|[[Jeffrey Amos]]}}
+|Cast	=	{{Unbulleted list|[[Jordan T. Maxwell]]|[[Kacey Samiee]]|[[Jeffrey Amos]|[[Sarah Marie Curry]] (2015-Present)]}}
 |Years	=		2011-present
 }}
 
