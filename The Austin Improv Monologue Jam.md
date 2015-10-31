@@ -1,1 +1,1 @@
-#REDIRECT [[The Monlogue Jam]]
+#REDIRECT [[The Monologue Jam]]
