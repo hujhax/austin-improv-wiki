@@ -16,7 +16,7 @@ In the world of the show, [[Tom Booker]] plays Mister Morbid, a quaint small-tow
 In practical terms, the host presents a short segment or trailer of a 70s horror film, and then an improv troupe uses that segment as the inspiration for an improvised narrative.  Then the host presents a second segment/trailer, and the second visiting troupe improvises off of that.
 
 ## History
-This is the guest schedule for the 2013 run of *Mister Morbid's*:
+### 2013 Guest Schedule
 * 10/4/13: [[Dumbasses]] & [[Indigo Shift]] 
 * 10/5/13: [[Flying Theater Machine]] & [[Zarzamora]]
 * 10/11/13: *[[The Black Vault]]* & [[Midnight Society]] 
@@ -25,6 +25,15 @@ This is the guest schedule for the 2013 run of *Mister Morbid's*:
 * 10/19/13: [[False Matters]] & [[The Professor]]
 * 10/25/13: [[Waterpark]] & [[Girls Girls Girls]] 
 * 10/26/13: [[IScream Sandwich]] & [[My Best Fiend]]
+
+### 2014 Guest Schedule
+Unknown.
+
+### 2015 Guest Schedule
+* 10/9/15: [[Golden]] & [[Cascade]]
+* 10/16/15: [[Flying Theatre Machine]] & [[The Knuckleball Now]]
+* 10/23/15: *[[The Ladies Room]]* & [[Confidence Men]]
+* 10/30/15: [[Indigo Shift]] & [[Midnight Society]]
 
 ## Media
 ### Videos
