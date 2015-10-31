@@ -15,10 +15,10 @@ Tarantula is a "formless-form" show, in a similar vein as Todd Stashwick's *Mayf
 
 ### Art Tie-ins
 #### Dystheatre Art Installation
-Beginning in September of 2015, Michael Ferstenfeld began an art installation project in the adjacent room of the performance as part of his MIND MAP series. 
+Beginning in September of 2015, [[Michael Ferstenfeld]] began an art installation project in the adjacent room of the performance as part of his MIND MAP series. 
 
 #### Artist Series Poster Commission
- As part of the loose, experiential nature of the show, an artist series of posters has been commissioned from the pool of Austin Improv Community designers, of which there are many members, contributing designs for productions in many and varied ways across the improv marketing scene in Austin. Please see photo archive for in series work.
+As part of the loose, experiential nature of the show, an artist series of posters has been commissioned from the pool of [[Austin Improv Community]] designers, of which there are many members, contributing designs for productions in many and varied ways across the improv marketing scene in Austin. Please see photo archive for in series work.
 
 ### Press Blurb
 Tarantula is a combination of improv and live music melding together in the most unique ways.  The improvisers will use the stage and their own bodies like a canvas, a tapestry of emotions and perceptions.  Unlike most improvised shows that tell a story in a narrative fashion, Tarantula will tell a story that is fragmentary and organic.  You will relate to the weird and twisty rhythms of the show because you are HUMAN and it connects with you soul.  Improvisers will move as one, create without structure and follows the beats and tempo that the musicians lay down for them in the moment.
