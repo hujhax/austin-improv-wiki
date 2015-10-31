@@ -27,10 +27,14 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 <p>After all that bugaboo I started taking classes at [[The State School of Acting]] and a few months later and a few productions in between, I was starting to get really down on myself in classes, so I decided to take a just-for-fun "improv" class to see what it was all about and get some new perspective on this new (to me) kind of theatre. I saw that a [[Shana Merlin]] person offered 101 with the promise of fun and fancy free frolics and the rest is brief history!</p> </blockquote>
 
 ## Troupes
+### Current
 * [[Girls Girls Girls]] 
+* [[Indigo Shift]]
+* [[Cascade]]
+
+### Past
 * [[Improv for Evil]]
 * [[Girl Embassy World Team]]
-* [[Cascade]]
 
 ## Shows
 * *[[Dusk]]*
