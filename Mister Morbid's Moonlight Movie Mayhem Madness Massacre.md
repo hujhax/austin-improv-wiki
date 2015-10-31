@@ -4,7 +4,7 @@
 |Picture=	Mister Morbid.jpg
 |Director=	[[Tom Booker]]
 |Cast	=	{{Unbulleted list | [[Thedward Blevins]] | [[Tom Booker]] }}
-|Run	=	Oct 2013
+|Run	=	{{Unbulleted list | Oct 2013 | Oct 2014 | Oct 2015 }}
 }}
 ![[Booker as Morbid.jpg|[[Tom Booker]], in character as Mister Morbid.]]
 ***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** was an improv show.
@@ -15,7 +15,7 @@ In the world of the show, [[Tom Booker]] plays Mister Morbid, a quaint small-tow
 In practical terms, the host presents a short segment or trailer of a 70s horror film, and then an improv troupe uses that segment as the inspiration for an improvised narrative.  Then the host presents a second segment/trailer, and the second visiting troupe improvises off of that.
 
 ## History
-This is the guest schedule for *Mister Morbid's*:
+This is the guest schedule for the 2013 run of *Mister Morbid's*:
 * 10/4/13: [[Dumbasses]] & [[Indigo Shift]] 
 * 10/5/13: [[Flying Theater Machine]] & [[Zarzamora]]
 * 10/11/13: *[[The Black Vault]]* & [[Midnight Society]] 
