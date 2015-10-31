@@ -4,7 +4,8 @@
 |Theater = [[ColdTowne Theater]] & [[Institution Theater]]
 |Producer = [[Scott Hearne]]
 |Cast =	{{Unbulleted list | [[Bad Font]] | [[Empty Promises]] }}
-|Run	=	November 2014, June 2015
+|Run	=	Nov 2014
+|Subsequent Runs = Jun 2015
 }}
 
 ***Dorm Daze*** are two separate runs of shows featuring two Harold troupes, [[Bad Font]] and [[Empty Promises]]. The first run took place at [[ColdTowne Theater]] in November of 2014, the second run at [[The Institution]] in June of 2015. 
