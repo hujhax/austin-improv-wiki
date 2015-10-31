@@ -15,6 +15,8 @@ Each performance has ten monologists: nine pre-selected plus one chosen at rando
 
 The format for the show is based on the Dallas Monologue Jam created by Brad McEntire and produced annually at the Big Sexy Weekend of Improv (a production of the Alternative Comedy Theater).
 
+It runs the first Saturday of every month at 10pm.
+
 ## Media
 ### Videos
 * [http://youtu.be/UV_zVlwjYys Video about the show.]
