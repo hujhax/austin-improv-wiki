@@ -1,7 +1,7 @@
 {{Infobox Show
 |Name = Dorm Daze
 |Picture = Dorm Daze.jpg
-|Theater = [[ColdTowne Theater]] & [[Institution Theater]]
+|Theater = {{Unbulleted list | [[ColdTowne Theater]] (2014) | [[Institution Theater]] (2015) }}
 |Producer = [[Scott Hearne]]
 |Cast =	{{Unbulleted list | [[Bad Font]] | [[Empty Promises]] }}
 |Run	=	Nov 2014
