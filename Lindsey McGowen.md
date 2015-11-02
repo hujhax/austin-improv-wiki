@@ -25,7 +25,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[History Under the Influence]]* (technical director)
 * *[[Hurly Burly]]* (sound tech/stage manager)
 * *[[Lonely Star]]* (scoring tech)
-* "[[Savage Swords]]" (tech)
+* *[[Savage Swords]]* (tech)
 * *[[Tech Nightmare]]* (scoring tech)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The International Improv Experience]]* (light tech)
