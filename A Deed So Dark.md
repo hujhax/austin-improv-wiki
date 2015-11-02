@@ -31,7 +31,7 @@ October 10th - "Ring Ring Ring"
 Clementine (Kacey) killed Josie (Sarah) with a knife to the torso for love. Clive Winston (Kareem) was convicted of the crime. Clive committed suicide in his prison cell using Matthew's (Jordan) belt. Clementine committed suicide out of guilt by throwing herself down the same well she disposed of Josie's body. 
 
 October 16th - "Burn"
- Mary Hall (Sarah Marie) poisoned Ethel Jacobs (Erin) with rat poison from frustration. She was then hunted down by the town mob, wherein it was discovered that Hank Peterson (Jordan) was her brother. He shot Walter Jackson (J.R.) to help her escape.  
+Mary Hall (Sarah Marie) poisoned Ethel Jacobs (Erin) with rat poison from frustration. She was then hunted down by the town mob, wherein it was discovered that Hank Peterson (Jordan) was her brother. He shot Walter Jackson (J.R.) to help her escape.  
 
 October 17th - "Heavy is the Burden"
 Blind Homer Shaw (Kareem) bludgeoned with a bottle and gouged out the eyes of Bailey (J.R.) for dream crushing and otherwise carrying on in little regard to the feelings of a drunk blind man with hereditary rage issues.
@@ -39,7 +39,7 @@ Blind Homer Shaw (Kareem) bludgeoned with a bottle and gouged out the eyes of Ba
 October 23rd - "The Journey is Long"
 Roberta (Erin) was burned alive with kerosene by Lila (Sarah) for sibling rivalry. She was then shot in the head by Ezekiel (Jordan) and probably burned by his wife Ruth (Sarah Marie).
 
-October 24th - " A Brick at a Time"
+October 24th - "A Brick at a Time"
 Pearl (Kacey) was strangled to death by Leonard Harold McCoy (Kareem) for driving a wedge between him and his brother.
 
 ## Media
