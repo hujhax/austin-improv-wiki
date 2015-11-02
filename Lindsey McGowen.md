@@ -29,6 +29,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Savage Swords]]* (tech)
 * *[[Tech Nightmare]]* (scoring tech)
+* *[[Teenage Wasteland]]* (technical director)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The International Improv Experience]]* (light tech)
 * *[[The Jukebox Musical Project]]* 
