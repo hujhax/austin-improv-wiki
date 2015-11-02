@@ -25,7 +25,9 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[History Under the Influence]]* (technical director)
 * *[[Hurly Burly]]* (sound tech/stage manager)
 * *[[Lonely Star]]* (scoring tech)
+* *[[Nothing and Everything]]* (stage manager/props mistress/swing tech)
 * *[[Savage Swords]]* (tech)
+* *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Tech Nightmare]]* (scoring tech)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The International Improv Experience]]* (light tech)
@@ -35,8 +37,6 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 ** *Karma Police* (music director)
 ** *Renaissance Queen* (music director/cast)
 ** *Home Again* (music director)
-* *[[Reform School for Wayward Girls]]* (sound tech)
-* *[[Nothing and Everything]]* (stage manager/props mistress/swing tech)
 
 ## More Information
 * [http://wikipella.org/wiki/Lindsey_McGowen Lindsey's wikipella page.]
