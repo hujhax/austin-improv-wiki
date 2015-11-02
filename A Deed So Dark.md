@@ -31,7 +31,7 @@ From the show announcement:<blockquote>We're digging in deep among the roots of 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.1043460369050812.1073742262.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/19/2015 debut.
 * [http://www.facebook.com/jay.mahavier/media_set?set=a.10208157766688311.1073741878.1425495839&type=3 Photoset] by [[Jay Mahavier]] of the 9/26/15 performance ("Coal Mine").
-* [https://www.facebook.com/media/set/?set=a.1060232720706910.1073742270.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/23/2015 show.
+* [http://www.facebook.com/media/set/?set=a.1060232720706910.1073742270.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/23/2015 show.
 
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
