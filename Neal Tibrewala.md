@@ -2,15 +2,15 @@
 |Name	=	Neal Tibrewala	
 |Picture =	Neal Tibrewala Pic.jpg
 |Theater=	{{Unbulleted list | [[Hideout]] }}
-|Years	=	2007-Present
+|Years	=	2007-2015
 }}
 
-**Neal Tibrewala** is an improv performer and technical improvisor.
+**Neal Tibrewala** was an improv performer and technical improvisor.
 
 ## History
 Neal started out by taking classes at [[The Hideout Theater]] and then [[Merlin Works]] and the [[Institution Theater]]s.  After being in a few student troupes, he performed with the [[Flying Theater Machine]] and [[The Dancy Street D'Orchestra]].  
 
-Throughout his improv career he has specialized in Technical Improv, having done a great many [[List of Austin Improv Shows#Mainstage Productions 3|mainstage]] shows and serving as dedicated tech for several troupes.
+Throughout his improv career he specialized in Technical Improv, having done a great many [[List of Austin Improv Shows#Mainstage Productions 3|mainstage]] shows and serving as dedicated tech for several troupes.  He retired from improv in 2015.
 
 The first improv show he ever saw was *[[After School Improv]]*.
 
@@ -47,4 +47,3 @@ The first improv show he ever saw was *[[After School Improv]]*.
 
 [[Category/Performers|Tibrewala]]
 [[Category/Techs|Tibrewala]]
-[[Category/Active|Category:Active]]
