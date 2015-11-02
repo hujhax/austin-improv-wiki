@@ -29,7 +29,12 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Tech Nightmare]]* (scoring tech)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The International Improv Experience]]* (light tech)
-* *[[The Jukebox Musical Project]]* (music director, cast)
+* *[[The Jukebox Musical Project]]* 
+** *The Black Death* (music director)
+** *In the Air Tonight* (music director)
+** *Karma Police* (music director)
+** *Renaissance Queen* (music director/cast)
+** *Home Again* (music director)
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Nothing and Everything]]* (stage manager/props mistress/swing tech)
 
