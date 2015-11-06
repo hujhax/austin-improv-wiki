@@ -19,7 +19,10 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 * [http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [https://www.facebook.com/snafuimprov The troupe's web site.]
+* [https://www.facebook.com/snafuimprov Facebook]
+* [https://www.twitter.com/snafuimprov Twitter]
+* [https://www.instagram.com/snafuimprov Instagram]
+* [https://www.snafuimprov.com Official Website]
 
 
 [[Category/Troupes|Category:Troupes]]
