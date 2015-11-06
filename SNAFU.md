@@ -1,11 +1,11 @@
 {{Infobox Troupe
-|Name	=		SNAFU
+|Name	=		SNAFU Improv
 |Picture	=	SNAFU.jpg
 |Cast	=	{{ Unbulleted list | Yearly Rotating Cast }}
 |Years	=		2014-Present
 }}
 
-**SNAFU** is a UT long-form improv troupe.
+**SNAFU Improv** is UT Austin's ONLY long-form improv troupe. They perform biweekly shows for free on the UT Austin campus on Fridays at 8 PM. They can also be seen performing at venues throughout the Austin area.
 
 ## Summary
 ### Press Blurb
@@ -48,6 +48,7 @@ As the brainchild of founder [[Tanner Kalina]], SNAFU Improv stormed onto the Un
 * [https://www.twitter.com/snafuimprov Twitter]
 * [https://www.instagram.com/snafuimprov Instagram]
 * [https://www.snafuimprov.com Official Website]
+* [https://calendar.google.com/calendar/embed?src=snafuimprov@gmail.com&ctz=America/New_York&pli=1 Upcoming Performances]
 
 
 [[Category/Troupes|Category:Troupes]]
