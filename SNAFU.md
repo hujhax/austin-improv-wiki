@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		SNAFU
 |Picture	=	SNAFU.jpg
-|Cast	=	{{ Unbulleted list | [[Yearly Rotating Cast]] }}
+|Cast	=	{{ Unbulleted list | Yearly Rotating Cast }}
 |Years	=		2014-Present
 }}
 
