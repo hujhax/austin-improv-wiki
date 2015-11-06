@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		SNAFU
 |Picture	=	SNAFU.jpg
-|Cast	=	{{ Unbulleted list | [[Allison Huston]] | [[Aranza Garza]] | [[Ashar Malik]] | [[Cynthia Onyeka]] | [[Jacob Thompson]] | [[John Mendell]] | [[Patrick Creamer]] | [[Shannon Cloud]] | [[Tanner Kalina]] }}
+|Cast	=	{{ Unbulleted list | [[Yearly Rotating Cast]] }}
 |Years	=		2014-Present
 }}
 
