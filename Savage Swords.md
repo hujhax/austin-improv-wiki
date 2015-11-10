@@ -3,7 +3,8 @@
 |Picture            = Savage Swords.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Marc Majcher]]
-|Run                = Nov/Dec 2015
+|Assistant Director = [[Ryan Hill]]
+|Run                = Jan/Feb 2016
 |Cast               = {{Unbulleted list | [[Ace Manning]] | [[Angie Yaeyama]] | [[Audrey Rachel Sansom]] | [[Jayme Ramsay]] | [[JM Specht]] | [[Jordan T. Maxwell]] | [[J.R. Zambrano]] | [[Manuel Duran]] | [[Peter Rogers]] | [[Rosemarie Frezza]] | [[Roy Danger]] | [[Shannon McCormick]] | [[Suzanne Link]] }}
 |Tech               = {{Unbulleted list | [[Lindsey McGowen]] (technical director/lights) | [[Michael Yew]] (scoring) | [[Cindy Page]] (sound effects)}}
 }}
