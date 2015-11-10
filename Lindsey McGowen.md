@@ -17,9 +17,10 @@ Since moving to Austin in early 2014, she immediately jumped into the local impr
 Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [http://vimeo.com/100491197 Synesthesia] and as a guest musician with [[Indigo Shift]].
 
 ## Shows
-* *[[Austin Secrets]]* (2015 run) (technical director)
+* *[[Austin Secrets]]* (2015-2016 runs) (technical director)
 * *[[Boy, Howdy!]]* (technical director/light tech)
 * *[[Control Issues]]* (technical director)
+* *[[Fiasco]]* (technical director)
 * *[[Four Chambers]]* (technical director)
 * *[[GrimmNoir]]* (sound tech)
 * *[[History Under the Influence]]* (technical director)
