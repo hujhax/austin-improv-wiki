@@ -14,7 +14,7 @@
 ## Shows
 * *[[The Trouble With Terry]]*
 * *[[Dusk]]*
-* *[[Cracked]]*
+* *[[Crack]]*
 
 [[Category/Teachers|Knisely]]
 [[Category/Performers|Knisely]]
