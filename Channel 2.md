@@ -11,10 +11,13 @@ Channel 2 creates a unique movie with each performance, drawing inspiration from
 
 ## Performances
 **Oct. 14, 2015 - ColdTowne Cagematch**
+
 In Channel 2's debut performance, the gang created an "Underdog Mind-Bending Mockumentary." Channel 2 was defeated in the Cagematch by a new troupe of ColdTowne All-Stars dubbed [[Cool Little Night Owls]].
 
 **Oct. 22, 2015 - Hideout Threefer**
+
 Channel 2 appeared in the Oct. 22nd Threefer alongside [[Minority Report]] and [[SSHH]], performing a "Mistaken Identity Vigilante Satire." 
 
 **Nov. 1, 2015 - Hideout Weekender**
+
 Channel 2 headlined the Hideout Weekender performing an "Evil Kid Fairy Tale" in a show scored by [[Tosin Awofeso]].
