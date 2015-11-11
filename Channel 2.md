@@ -3,7 +3,6 @@
 |Cast	=	{{Unbulleted list |  [[Tess Hermes]] | [[Margaret Hunsicker]] |  [[Tyler Lane]] | [[Cagney Ortiz]] | [[Mason Pitluk]] | [[Donna Rice]]}}
 |Years	=		2015-Present
 }}
-
 **Channel 2** is an improv troupe created by [[Tyler Lane]] in the Fall of 2015. 
 
 ## Summary
