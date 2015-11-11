@@ -141,6 +141,18 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |Sep 2015||Oct 2015||*[[A Deed So Dark]]*|| [[Valerie Ward]]
 |-
 |Nov 2015||Dec 2015||*[[Boy, Howdy!]]*||[[Kaci Beeler]]
+|-
+|Jan 2016||Feb 2016||*[[Savage Swords]]*||[[Marc Majcher]]
+|-
+|Mar 2016||Apr 2016||*[[Austin Secrets]]*||[[Roy Janik]]
+|-
+|May 2016||Jun 2016||*[[Fiasco]]*||[[Peter Rogers]]
+|-
+|Jul 2016||Aug 2016||*[[Process]]*||[[Jeremy Sweetlamb]]
+|-
+|Sep 2016||Oct 2016||*[[I'll Take the Physical Challenge]]*|| [[Courtney Hopkin]]
+|-
+|Nov 2016||Dec 2016||*[[Peter Pan and the Great Unknown]]*||[[Kaci Beeler]]
 |}
 
 ## Student Mainstage Shows
