@@ -1,6 +1,5 @@
 {{Infobox Troupe
 |Name	=	Channel 2
-|Picture	=      ![[Example.jpg]]
 |Cast	=	{{Unbulleted list |  [[Tess Hermes]] | [[Margaret Hunsicker]] |  [[Tyler Lane]] | [[Cagney Ortiz]] | [[Mason Pitluk]] | [[Donna Rice]]}}
 |Years	=		2015-Present
 }}
