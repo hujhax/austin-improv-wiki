@@ -1,10 +1,9 @@
 {{Infobox Troupe
 |Name	=	Channel 2
-|Picture=    [https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xtp1/t31.0-8/11698866_1064018103661705_4111001200389023365_o.jpg Most of Channel 2 at the 2015 AIC Halloween party]
+|Picture=    ![[Channel 2 halloween.jpg]]
 |Cast	=	{{Unbulleted list |  [[Tess Hermes]] | [[Margaret Hunsicker]] |  [[Tyler Lane]] | [[Cagney Ortiz]] | [[Mason Pitluk]] | [[Donna Rice]]}}
 |Years	=		2015-Present
 }}
-
 
 **Channel 2** is an improv troupe created by [[Tyler Lane]] in the Fall of 2015. 
 
