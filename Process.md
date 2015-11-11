@@ -6,6 +6,7 @@
 |Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Alex Dobrenko]] | [[Caitlin Sweetlamb]] | [[Courtney Hopkin]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Jeremy Sweetlamb]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Ruby Willmann]] }}
 |Tech	={{Unbulleted list | [[Carl Ziegler]] | [[Michael Yew]] }}
 |Run	=	Mar/Apr 2012
+|Subsequent Runs = Jul/Aug 2016
 }}
 
 ***Process*** was a longform improv show that took the audience through the process of producing a (fictional) play.  It was a mainstage show at [[The Hideout Theatre]].
@@ -23,7 +24,7 @@ Then the show went to intermission.  The Desi Team would have, by this point, pu
 Act three consisted of a section of opening night of the play.  By this point, the actors would be in costume, the set would be decorated appropriately, and appropriate props would be available onstage.  The audience would see the end of the play on its opening-night performance, and that would conclude the show.
 
 ## History
-### Before the Hideout Mainstage Run
+### Before the Hideout Mainstage Runs
 *Process* had its origins in "The Play Format", a longform that the [[Well Hung Jury]] came up with when they were invited (as an "experimental" act) to play a fringe stage at the Chicago Improv Festival in 1999 or 2000.  Instead of blank scripts, they used scripts with "IMPROV IMPROV IMPROV" printed in the layout of a play's script.  Instead of an opening "audition" section, the first act was a table read.  There was no stage-manager character, and the third act didn't include any costuming or props (all props were mimed).
 
 In the mid-2000s, the [[Available Cupholders]] played The Play Format sporadically, sometimes in combined shows with [[Parallelogramophonograph]].
@@ -36,7 +37,7 @@ Shortly afterwards, [[Bill Stern]], having moved to Chicago, presented a run of 
 
 That winter, [[Jeremy Sweetlamb]] produced a holiday-themed run of the show at the Florida Studio Theater, and discovered that hewing to a specific genre let him get very specific props and costumes that would fit their improvised show perfectly.
 
-### The Hideout Mainstage Run
+### First Run (2012)
 When [[Jeremy Sweetlamb]] moved back to Austin, he immediately pitched the show to [[The Hideout Theatre]] under its new name.  It received a mainstage run there in March and April of 2012.  This run introduced new elements, mostly geared towards cranking up the theatricality and "completeness" of the show: a larger selection of props and costumes were kept backstage for the third act; they introduced a "Desi Team", three cast members who would sit backstage, listen to the show, and quickly design and build the elements they'd need for the third act; they created a display of fake headshots, complete with the fake names the performers had come up with during auditions, to display during intermission.
 
 The run included a performance in [[The 2012 Improvised Play Festival]].  The run was so successful, they added an extra 6pm show on closing night.
@@ -50,10 +51,13 @@ Many performances of the Hideout mainstage run had pre-determined genres:
 
 For the remaining shows, they just let the title and table-read dictate the genre.
 
-### Since the Hideout Mainstage Run
+### Between Runs (2012-2015)
 [[Meghan Wolff]] directed a run of *Process* at the HUGE Theater in Minneapolis that ran from May through July of 2012.  Its performances ran for 50 minutes, and did not include the 'audition' section.
 
 *Process* was part of [[The 2012 Out of Bounds Comedy Festival]].  It used a portion of the 2012 mainstage cast, and included [[Bill Stern]] as a guest director.
+
+### Second Run (2016)
+The show is returning in 2016 as a Hideout mainstage show.
 
 ## Media
 ### Videos
