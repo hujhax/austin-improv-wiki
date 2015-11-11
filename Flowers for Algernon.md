@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Flowers for Algernon
-|Cast	=	{{ Unbulleted list | [[Jay Byrd]] | [[Lisa Jackson]] | [[Patrick Knisely]] | [[Patrick Knisley]] }}
+|Cast	=	{{ Unbulleted list | [[Jay Byrd]] | [[Lisa Jackson]] | [[Patrick Knisely]] }}
 |Years	=		2013
 }}
 
