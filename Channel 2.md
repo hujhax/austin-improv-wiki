@@ -1,5 +1,6 @@
 {{Infobox Troupe
 |Name	=	Channel 2
+|Picture	=      ![[Example.jpg]]
 |Cast	=	{{Unbulleted list |  [[Tess Hermes]] | [[Margaret Hunsicker]] |  [[Tyler Lane]] | [[Cagney Ortiz]] | [[Mason Pitluk]] | [[Donna Rice]]}}
 |Years	=		2015-Present
 }}
@@ -21,3 +22,10 @@ Channel 2 appeared in the Oct. 22nd Threefer alongside [[Minority Report]] and [
 **Nov. 1, 2015 - Hideout Weekender**
 
 Channel 2 headlined the Hideout Weekender performing an "Evil Kid Fairy Tale" in a show scored by [[Tosin Awofeso]].
+
+
+
+
+
+
+[[Category/Troupes|Category:Troupes]]
