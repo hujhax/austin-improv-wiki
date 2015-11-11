@@ -9,7 +9,16 @@
 
 ## Troupes
 * [[Opposites]]
+* [[Tiger Beat]]
+* [[Golden Eagle]]
+* [[Damned Avalanche]]
+* [[Northshore Local]]
 * [[Puppet Improv Project]]
+* [[Pretty Jack Jaybird]]
+* [[The Masterpiece]]
+* [[Flowers for Algernon]]
+* [[Narwhal]]
+* [[Yellow Bike Project]]
 
 ## Shows
 * *[[The Trouble With Terry]]*
