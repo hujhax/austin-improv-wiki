@@ -184,6 +184,18 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |Oct 2015||*[[Teenage Wasteland]]*||[[Jordan T. Maxwell]]
 |-
 |Dec 2015||*[[I'll Be Home For Christmas]]*||[[Valerie Ward]]
+|-
+|Feb 2016||*[[1813 Dewberry Lane]]*||[[Caeriel Crestin]]
+|-
+|Apr 2016||*[[Origins]]*|| [[Manuel Duran]], [[Roy Janik]]
+|-
+|Jun 2016||*[[Vampire High School]]*||[[Kaci Beeler]]
+|-
+|Aug 2016||*[[More or Less|Story to the Death]]*||[[Andy Crouch]]
+|-
+|Oct 2016||*[[Adventure PhD]]*||[[Andreas Fabis]], [[Jessica Arjet]]
+|-
+|Dec 2016||*[[The Untitled Avant-Garde Theater Project with a Really Long Title]]*||[[Jon Bolden]]
 |}
 
 ## More Information
