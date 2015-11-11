@@ -82,23 +82,15 @@ A third run of the show happened in April and May of 2014.
 ### Fuck It's Hot (2015)
 *Fuck It's Hot* returned in August 2015.
 
- **The cast included,**
-
-- Tyler Bryce
-
-- Bryan Curry
-
-- Lena Long
-
-- Tess Hermes
-
-- Mason Pitluk
-
-- Bryan 'Lubu' Roberts
-
-- Sam Schak
-
-- Kim Stacy
+#### Cast
+* [[Tyler Bryce]]
+* [[Bryan Curry]]
+* [[Tess Hermes]]
+* [[Lena Long]]
+* [[Mason Pitluk]]
+* [[Bryan 'Lubu' Roberts]]]
+* [[Sam Schak]]
+* [[Kim Stacy]]
 
 The run was directed by Tom Booker and featured musical accompaniment from Cynthia Ward.
 
