@@ -7,7 +7,9 @@
 **Channel 2** is an improv troupe created by [[Tyler Lane]] in the Fall of 2015. 
 
 ## Summary
-Channel 2 creates a unique movie with each performance, drawing inspiration from a randomly generated Netflix micro-genre. 
+Channel 2 creates a unique movie with each performance, drawing inspiration from a randomly generated Netflix micro-genre.
+
+The troupe began rehearsing for a short period before settling on a name, thus leading many individuals throughout Austin to refer to them as [[Tyler Lane and the Giggle Gang]].
 
 ## Performances
 **Oct. 14, 2015 - ColdTowne Cagematch**
