@@ -15,6 +15,11 @@
 * *[[The Trouble With Terry]]*
 * *[[Dusk]]*
 * *[[Crack!]]*
+* *[[Elf Employment]]*
+* *[[Puppet Katamari]]*
+* *[[Off the Reef]]*
+
+
 
 [[Category/Teachers|Knisely]]
 [[Category/Performers|Knisely]]
