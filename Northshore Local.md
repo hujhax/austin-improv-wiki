@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Northshore Local
 |Picture	=	Northshore Local.jpg
-|Cast	=	{{ Unbulleted list | [[Ashley Nugent]] | [[Chris Baldenhofer]] | [[Collin Cannaday]] | [[Cortnie Jones]] | [[Delaney Liming]] | [[Emma Holder]] | [[Jared Stepp]] | [[Mark Carpenter]] | [[Patrick Knisley]] | [[Phil Wilhelm]] | [[Teresa Kubos]] }}
+|Cast	=	{{ Unbulleted list | [[Ashley Nugent]] | [[Chris Baldenhofer]] | [[Collin Cannaday]] | [[Cortnie Jones]] | [[Delaney Liming]] | [[Emma Holder]] | [[Jared Stepp]] | [[Mark Carpenter]] | [[Patrick Knisely]] | [[Phil Wilhelm]] | [[Teresa Kubos]] }}
 |Years	=		2008-2010
 }}
 
