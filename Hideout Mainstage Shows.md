@@ -191,7 +191,7 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |-
 |Jun 2016||*[[Vampire High School]]*||[[Kaci Beeler]]
 |-
-|Aug 2016||*[[More or Less|Story to the Death]]*||[[Andy Crouch]]
+|Aug 2016||*[[Story to the Death]]*||[[Andy Crouch]]
 |-
 |Oct 2016||*[[Adventure PhD]]*||[[Andreas Fabis]], [[Jessica Arjet]]
 |-
