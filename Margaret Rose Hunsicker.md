@@ -7,7 +7,10 @@
 
 **Margaret Rose Hunsicker** is an improv performer who has appeared in productions at [[The Institution Theater]] and the [[Hideout Theatre]].
 
+
 ## History
+Margaret is from Orlando where she did improv at the SAK Comedy Lab.
+
 ## Troupes
 [[Channel 2]]
 
