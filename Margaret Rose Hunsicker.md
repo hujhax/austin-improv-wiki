@@ -9,6 +9,8 @@
 
 ## History
 ## Troupes
+[[Channel 2]]
+
 ## Shows
 * *[[A Penny Dreadful]]*
 * *[[You Can't Stay Here]]*
