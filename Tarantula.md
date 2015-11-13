@@ -15,7 +15,7 @@ Tarantula is a "formless-form" show, in a similar vein as Todd Stashwick's *Mayf
 
 ### Art Tie-ins
 #### Dystheatre Art Installation
-Beginning in September of 2015, [[Michael Ferstenfeld]] began an art installation project in the adjacent room of the performance as part of his MIND MAP series. 
+On September 12 of 2015, [[Michael Ferstenfeld]] and performance scientists [[Paul Wainright]], [[Jeff Britt]], and [[David Moses Fruchter]] of [[Happiness is a Choice]] held the first iteration of Experiment #22: METACARTOGRAPHY, otherwise known as The Mind Map. Subsequent calibrations of the installation experiment are planned as monthly one-night installations before and often after Tarantula.
 
 #### Artist Series Poster Commission
 As part of the loose, experiential nature of the show, an artist series of posters has been commissioned from the pool of [[Austin Improv Community]] designers, of which there are many members, contributing designs for productions in many and varied ways across the improv marketing scene in Austin. Please see photo archive for in series work.
