@@ -18,6 +18,9 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Physics Curse]]
 
 ## Shows
+* [[Lonely Star]]
+* [[A Deed So Dark]] (sound tech)
+* [[The Beach Boys Solve A Mystery]]
 * [[Nothing and Everything]] (assistant director)
 * [[The Dahl House]] (sound tech)
 * *[[The Organ Trail]]* 
