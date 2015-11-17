@@ -21,6 +21,7 @@ For a complete list of her performances, check out her performance calendar [htt
 ## Shows
 * [[Lonely Star]]
 * [[A Deed So Dark]] (sound tech)
+* [[The Tribunal]] (played Mouse)
 * [[The Beach Boys Solve A Mystery]]
 * [[Nothing and Everything]] (assistant director)
 * [[The Dahl House]] (sound tech)
