@@ -14,8 +14,9 @@ By day, Rachel works in public relations at Waggener Edstrom Communications. By 
 For a complete list of her performances, check out her performance calendar [https://rachel-austin.squarespace.com/performance-calendar/].
 
 ## Troupes
-* [[A Really Aggressive Dream]]
+* [[A Really Aggressive Dream]] (former troupe member)
 * [[Physics Curse]]
+* [[Control Issues]]
 
 ## Shows
 * [[Lonely Star]]
