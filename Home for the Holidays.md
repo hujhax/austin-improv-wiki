@@ -1,5 +1,5 @@
 {{Infobox Show
-|Name               = I'll Be Home for Christmas
+|Name               = Home for the Holidays
 |Picture            = I'll Be Home for Christmas.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Valerie Ward]]
@@ -9,7 +9,7 @@
 |Tech               = {{Unbulleted list | [[Bonnie Dilber]] (lights) | [[Carolina Andrade]] (sound)}}
 }}
 
-***I'll Be Home for Christmas*** will be the December 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Home for the Holidays*** (original title: ***I'll Be Home for Christmas***) will be the December 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
