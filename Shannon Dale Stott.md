@@ -2,7 +2,7 @@
 |Name	=	Shannon Dale Stott	
 |Picture =	Shannon Dale Stott Pic.jpg
 |Theater = [[The Hideout Theatre]]
-|Years	=	2015-Present
+|Years	=	2014-Present
 }}
 
 **Shannon Dale Stott** is an improv performer.
