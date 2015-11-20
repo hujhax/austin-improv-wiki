@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Sunaina Suhag	
 |Picture =	Sunaina Suhag Pic.jpg
-|Theater = {{Unbulleted list | [[The Hideout Theatre]] | [[The Institution Theater]] }}
+|Theater = [[The Hideout Theatre]]
 |Years	=	2015-Present
 }}
 
