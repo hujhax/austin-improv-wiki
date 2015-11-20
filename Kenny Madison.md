@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-**Kenny Madison** is an improv performer.
+**Kenny Madison** is an improv performer and director.
 
 ## Bio
 Kenny Madison was born in Tulsa, Oklahoma, raised in Sand Springs, Oklahoma, and went to school in Norman, Oklahoma, which logically places him in Austin, TX. Much to your surprise, he started improv in Oklahoma in 2008, where he was a player, then a coach, then an artistic director, then a friend. Since moving to Austin, Kenny has done regular shows at the Institution, Hideout, and ColdTowne Theaters, ranging from Junior Cast Member to Show Director.
@@ -28,3 +28,4 @@ Kenny wants you to realize that you need to accept how great you are. Improv cha
 * *[[You Can't Stay Here]]* (quizmaster)
 
 [[Category/Performers|Madison]]
+[[Category/Directors|Madison]]
