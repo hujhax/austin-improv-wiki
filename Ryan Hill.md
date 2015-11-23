@@ -41,6 +41,7 @@ He is also a musician and has played for [[I Love You So Much]] with the band [[
 * *[[Not This American Life]]*
 * *[[Risen]]*
 * *[[Trust No One]]* (Assistant Director)
+* *[[Savage Swords]]* (Assistant Director)
 
 ## Festivals
 * The Alaska State Improv Festival 2014 (Juneau, AK)
