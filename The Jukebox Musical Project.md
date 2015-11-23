@@ -2,7 +2,7 @@
 |Name = The Jukebox Musical Project
 |Theater = [[The Institution Theater]]
 |Picture = The Jukebox Musical Project.jpg
-|Director =	{{Unbulleted list | [[Asaf Ronen]] }}
+|Director =	{{Unbulleted list | [[Asaf Ronen]] | [[Sarah Marie Curry]] }}
 |Music Director =	{{Unbulleted list | [[Lindsey McGowen]] }}
 |Cast =	{{Unbulleted list | Various }}
 |Music =	{{Unbulleted list | [[Content Love Knowles]] (piano) | [[Allen Fisher]] (piano) | [[Courtney Hopkin]] (drums) }}
