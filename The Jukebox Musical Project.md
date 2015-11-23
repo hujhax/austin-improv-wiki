@@ -5,7 +5,7 @@
 |Director =	{{Unbulleted list | [[Asaf Ronen]] }}
 |Music Director =	{{Unbulleted list | [[Lindsey McGowen]] }}
 |Cast =	{{Unbulleted list | Various }}
-|Music =	{{Unbulleted list | [[Content Love Knowles]] (piano) | [[Courtney Hopkin]] (drums) }}
+|Music =	{{Unbulleted list | [[Content Love Knowles]] (piano) | [[Allen Fisher]] (piano) | [[Courtney Hopkin]] (drums) }}
 |Run	=	2015-Present
 }}
 
@@ -58,6 +58,16 @@ Set during the Italian Renaissance and featuring music by Queen (October 2015)
 * [[Kim Stacy]] - Chorus/Teacher
 * [[Cené Hale]] - Chorus/Margharita/Father
 * [[Lindsey McGowen]] - Chorus/Mother/Medici
+
+### Home Again: The Story of Passover
+The story of Passover as told through the music of The Cure (November 2015)
+#### Cast
+* [[Nicholaus Weindel]] - Aaron
+* [[Kim Stacy]] - Shana
+* [[Sarah Doering]] - Rachel
+* [[Jillian Summar]] - Deborah
+* [[Luke Wallens]] - Adam
+* [[Robert Slack]] - Mica/Moses
 
 ## Media
 ### Videos
