@@ -28,7 +28,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Lonely Star]]* (scoring tech)
 * *[[Nothing and Everything]]* (stage manager/props mistress/swing tech)
 * *[[Reform School for Wayward Girls]]* (sound tech)
-* *[[Savage Swords]]* (tech)
+* *[[Savage Swords]]* (technical director/light tech)
 * *[[Tech Nightmare]]* (scoring tech)
 * *[[Teenage Wasteland]]* (technical director)
 * *[[Theatresports]]* (2014 run) (swing tech)
