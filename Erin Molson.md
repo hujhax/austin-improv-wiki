@@ -8,8 +8,6 @@
 **Erin Molson** is an improv performer.
 
 ## Troupes
-* [[Girls Girls Girls]]
-
 ## Shows
 * *[[After School Improv]]*
 * *[[ComedySportz]]*
