@@ -26,8 +26,8 @@
 * [http://vimeo.com/145736214 Video of the 11/7/15 show.] "The Red Job"
 * [http://vimeo.com/145750522 Video of the 11/13/15 show.] "The Wild Card Job"
 * [http://vimeo.com/145761368 Video of the 11/14/15 show.] "The Parrish Job"
-* [http://vimeo.com/146510358 Video of the 11/20/15 show.]
-* [http://vimeo.com/146593526 Video of the 11/21/15 show.]
+* [http://vimeo.com/146510358 Video of the 11/20/15 show.] "The Pesky Job"
+* [http://vimeo.com/146593526 Video of the 11/21/15 show.] "The Camaraderie Job"
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=18234 The audition announcement] on [[The Austin Improv Forums]].
