@@ -1,5 +1,5 @@
 {{Infobox Performer
-|Name	=	JJessica von Schramm
+|Name	=	Jessica von Schramm
 |Picture =	Jessica T. Von Schramm Pic.jpg
 |Theater = {{Unbulleted list | [[The Hideout Theatre]] | [[The Institution Theater]] }}
 |Years	=	2012-Present
