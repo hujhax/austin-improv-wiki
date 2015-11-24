@@ -189,7 +189,7 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |-
 |Oct 2015||*[[Teenage Wasteland]]*||[[Jordan T. Maxwell]]
 |-
-|Dec 2015||*[[I'll Be Home For Christmas]]*||[[Valerie Ward]]
+|Dec 2015||*[[Home for the Holidays]]*||[[Valerie Ward]]
 |-
 |Feb 2016||*[[1813 Dewberry Lane]]*||[[Caeriel Crestin]]
 |-
