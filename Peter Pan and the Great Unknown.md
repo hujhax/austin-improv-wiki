@@ -16,7 +16,7 @@ From the show announcement:<blockquote>Never-before-seen improvised adventures o
 </blockquote>
 
 ## More Information
-* [https://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/ The show announcement] on the Hideout's facebook group.
+* [http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/ The show announcement] on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
