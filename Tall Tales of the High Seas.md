@@ -4,7 +4,8 @@
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Andreas Fabis]] | [[Dana Yanoshak]] }}
 |Cast =	{{Unbulleted list | [[Amanda Hinsman]] | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Cagney Ortiz]] | [[Claudio Fox]] | [[Dana Yanoshak]] | [[Ellen Pizarek]] | [[Jessica Arjet]] | [[Mary Henderson]] | [[Megan Moten]] | [[Paul Normandin]] | [[Sushant Sethi]] }}
-|Tech =	TBA
+|Tech =	{{Unbulleted list | [[Mark Shoemaker]] (lights, sound) | [[Zoe Jaye]] (stage manager) }}
+|Music = [[Tosin Awofeso]]
 |Run	=	Feb/Mar 2016
 }}
 
