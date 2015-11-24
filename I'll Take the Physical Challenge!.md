@@ -8,7 +8,7 @@
 |Tech               = TBA
 }}
 
-**''I'll Take the Physical Challenge!**' will be the September/October 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
+***I'll Take the Physical Challenge!*** will be the September/October 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
