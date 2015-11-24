@@ -15,5 +15,6 @@ In December of 2012, she moved to the San Francisco Bay Area, and then married T
 
 ## Shows
 [[Off the Reef]]
+[[Tall Tales of the High Seas]]
 
 [[Category/Performers|Pizarek]]
