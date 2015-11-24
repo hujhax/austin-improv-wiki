@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = Fiasco
-|Picture            = Fiasco.jpg
+|Picture            = Fiasco Placeholder.png
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Peter Rogers]]
 |Run                = May/June 2016
