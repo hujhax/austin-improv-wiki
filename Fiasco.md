@@ -8,7 +8,7 @@
 |Tech               = TBA
 }}
 
-**''Fiasco**' will be the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
+***Fiasco*** will be the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
