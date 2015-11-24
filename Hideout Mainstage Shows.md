@@ -1,7 +1,8 @@
 This is a **list of Hideout mainstage shows in chronological order**.
 
 ## Traditional Mainstage Shows
-Note that in the early years, specific runs of shows were rare.  Apart from *[[Start Trekkin']]*, [[Sean Hill]] presented various Keith Johnstone formats in its Saturday 8pm slot.
+### 1999-2009
+In the early years, specific runs of shows were rare.  Apart from *[[Start Trekkin']]*, [[Sean Hill]] presented various Keith Johnstone formats in its Saturday 8pm slot.
 
 {| class="wikitable"
 |**Start Date**||**End Date**||**Show**||**Directed by**
@@ -59,8 +60,13 @@ Note that in the early years, specific runs of shows were rare.  Apart from *[[S
 |3/1/09||3/31/09||*[[Hyperlinks]]*||[[Asaf Ronen]]
 |-
 |4/1/09||4/30/09||[[Girls Girls Girls]]||[[Girls Girls Girls]]
-|-
-!colspan="6"|At this point, the Hideout went to a regular mainstage schedule, with a new show every two months.
+|}
+
+### 2009-Present
+At this point, the Hideout went to a regular mainstage schedule, with a new show every two months.
+
+{| class="wikitable"
+|**Start Date**||**End Date**||**Show**||**Directed by**
 |-
 |May 2009||Jun 2009||*[[Improvised Shakespeare]]*||[[Andy Crouch]]
 |-
