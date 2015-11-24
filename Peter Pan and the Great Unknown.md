@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = Peter Pan and the Great Unknown
-|Picture            = Peter Pan and the Great Unknown.jpg
+|Picture            = Peter Pan and the Great Unknown Placeholder image.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Kaci Beeler]]
 |Run                = Nov/Dec 2016
