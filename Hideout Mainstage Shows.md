@@ -183,7 +183,7 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |-
 |Apr 2015||*[[Golden]]*|| [[Marc Majcher]]
 |-
-|Jun 2015||*[[SongRunner]]*||[[Kacey Samiee]], [[Ammon Taylor]], [[Jordan T. Maxwell]]
+|Jun 2015||*[[SongRunner]]*||[[Kacey Samiee]], [[Ammon Taylor]]
 |-
 |Aug 2015||*[[Close Up]]*||[[Caeriel Crestin]], [[Jessica Arjet]]
 |-
