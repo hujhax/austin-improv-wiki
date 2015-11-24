@@ -8,7 +8,7 @@
 |Tech               = TBA
 }}
 
-**''Peter Pan and the Great Unknown**' will be the November/December 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
+***Peter Pan and the Great Unknown*** will be the November/December 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
