@@ -156,7 +156,7 @@ At this point, the Hideout went to a regular mainstage schedule, with a new show
 |-
 |Jul 2016||Aug 2016||*[[Process]]*||[[Jeremy Sweetlamb]]
 |-
-|Sep 2016||Oct 2016||*[[I'll Take the Physical Challenge]]*|| [[Courtney Hopkin]]
+|Sep 2016||Oct 2016||*[[I'll Take the Physical Challenge!]]*|| [[Courtney Hopkin]]
 |-
 |Nov 2016||Dec 2016||*[[Peter Pan and the Great Unknown]]*||[[Kaci Beeler]]
 |}
