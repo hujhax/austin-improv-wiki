@@ -13,7 +13,7 @@
 ## Summary
 In the show, a couple of notorious pirate captains try to one-up each other with tall tales of adventure.
 
-It runs Fridays and Saturdays from 2/5/16 to 3/12/16.
+It runs Fridays from 2/5/16 to 3/11/16.
 
 ## More Information
 * [http://www.facebook.com/groups/austinimprov/permalink/1002021666507554/ The cast announcement.]
