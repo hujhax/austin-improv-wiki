@@ -1,21 +1,21 @@
 {{Infobox Performer
-|Name	=	Jessica T. Von Schramm
+|Name	=	JJessica von Schramm
 |Picture =	Jessica T. Von Schramm Pic.jpg
 |Theater = {{Unbulleted list | [[The Hideout Theatre]] | [[The Institution Theater]] }}
 |Years	=	2012-Present
 }}
 
-**Jessica T. Von Schramm** is an improv performer.
+**Jessica von Schramm** is an improv performer.
 
 ## Summary
-Jessica von Schramm started taking improv classes at The Hideout Theatre in March of 2012. Since then she has become a TA at the Hideout and has performed at all five improv theaters in Austin.
+Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in March of 2012. Since then she has become a TA at the Hideout and has performed at all five improv theaters in Austin.
 
 ## Troupes
 * [[Beach Ball Concussion]] (2013)
 * [[Infotainment]] (2013)
 * [[Golden]]
 * [[Minority Report]]
-* [[Things We Don’t Speak Of]]
+* [[Things We Don't Speak Of]]
 
 ## Shows
 * *[[A Penny Dreadful]]*
