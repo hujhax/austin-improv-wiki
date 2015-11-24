@@ -4,8 +4,8 @@
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Andreas Fabis]] | [[Dana Yanoshak]] }}
 |Cast =	{{Unbulleted list | [[Amanda Hinsman]] | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Cagney Ortiz]] | [[Claudio Fox]] | [[Dana Yanoshak]] | [[Ellen Pizarek]] | [[Jessica Arjet]] | [[Mary Henderson]] | [[Megan Moten]] | [[Paul Normandin]] | [[Sushant Sethi]] }}
-|Tech =	
-|Run	=	
+|Tech =	TBA
+|Run	=	Jan 2016
 }}
 
 ***Tall Tales of the High Seas*** is an upcoming pirate-themed mainstage improv show, in which a couple of notorious pirate captains try to one-up each other with tall tales of adventure.
