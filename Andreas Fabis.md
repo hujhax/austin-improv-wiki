@@ -43,6 +43,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Get
 * *[[Showdown]]*
 * *[[Spirited]]*
 * *[[Strange Worlds]]*
+* *[[Tall Tales of the High Seas]]*
 * *[[Trust No One]]*
 * *[[Wanderlust]]*
 * *[[You Can't Stay Here]]*
