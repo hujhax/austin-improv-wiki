@@ -12,7 +12,9 @@
 ***Tall Tales of the High Seas*** is an upcoming pirate-themed mainstage improv show.
 
 ## Summary
-In the show, a couple of notorious pirate captains try to one-up each other with tall tales of adventure.
+Two notorious pirate captains square off in an epic story-telling duel
+over their most famous swashbuckling exploits. Sword fights! Giant
+squids! Shanties! And general oceanic mayhem!
 
 It runs Fridays from 2/5/16 to 3/11/16.
 
