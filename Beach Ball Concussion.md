@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Beach Ball Concussion
 |Picture	=	Beach Ball Concussion.jpg
-|Cast	=	{{ Unbulleted list | [[Anna Giacomo]] | [[Brad Smith]] | [[Brett Weaver]] | [[Jessica VonSchramm]] | [[Noah Wright]] | [[Patrick Yonkin]] | [[Rhett O'Hara]] | [[Vicky Vegh]] }}
+|Cast	=	{{ Unbulleted list | [[Anna Giacomo]] | [[Brad Smith]] | [[Brett Weaver]] | [[Jessica von Schramm]] | [[Noah Wright]] | [[Patrick Yonkin]] | [[Rhett O'Hara]] | [[Vicky Vegh]] }}
 |Years	=		2013
 }}
 
