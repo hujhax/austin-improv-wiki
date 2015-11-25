@@ -4,7 +4,7 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Marc Majcher]]
 |Run                = April 2015
-|Cast               = {{Unbulleted list | [[Brandon Martin]] | [[Heidi Penix]] | [[Jessica von Shramm]] | [[Kathleen McFerrin]] | [[Luke Wallens]] | [[Patrick Creamer]] | [[Rachel Denton]] |[[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
+|Cast               = {{Unbulleted list | [[Brandon Martin]] | [[Heidi Penix]] | [[Jessica von Schramm]] | [[Kathleen McFerrin]] | [[Luke Wallens]] | [[Patrick Creamer]] | [[Rachel Denton]] |[[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
 |Tech               = {{Unbulleted list | [[Danielle Saar]] | [[R. Lance Hunter]] }}
 }}
 
