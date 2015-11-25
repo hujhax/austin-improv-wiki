@@ -1,6 +1,6 @@
 {{Infobox Show
-|Name               = 1813 Dewberry Lane
-|Picture            = 1813 Dewberry Lane Placeholder Image.jpg
+|Name               = 183 Dewberry Lane
+|Picture            = 183 Dewberry Lane Placeholder Image.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Caeriel Crestin]]
 |Assistant Director = [[J.R. Zambrano]]
@@ -9,7 +9,7 @@
 |Tech               = {{Unbulleted list | [[Alex Walker]] | [[Casey Marie]] }}
 }}
 
-**''1813 Dewberry Lane**' will be the Jan/Feb 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***183 Dewberry Lane*** will be the Jan/Feb 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
