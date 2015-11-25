@@ -16,6 +16,8 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 Empty Promises is currently coached by Second City TourCo alumni Eric Rutherford. </blockquote>
 
+also a taco
+
 ## Media
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/27/15 performance in *[[Dorm Daze]]*.
