@@ -20,8 +20,7 @@ also a taco
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/27/15 performance in *[[Dorm Daze]]*.
-
+* [https://www.facebook.com/emptypromisesimprov/photos/gm.1522881531360016/1098864606812796/?type=3&theater Comedy]
 ### Videos
 * [http://www.youtube.com/watch?v=ZrexnZqDqAk Video #1]
 * [http://m.youtube.com/watch?list=WL&v=Q2yyvVRCuxg Video #2]
