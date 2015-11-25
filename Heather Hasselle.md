@@ -2,7 +2,7 @@
 |Name	=	Heather Hasselle	
 |Picture =	Heather Hasselle Pic.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	xxxxx
+|Years	=	2014-Present
 }}
 
 **Heather Hasselle** is an improv performer.
