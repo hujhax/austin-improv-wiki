@@ -25,7 +25,7 @@ Paul is a regular performer at [[Austin No Shame Theater]]. Often telling storie
 Paul was a teaching assistant at [[The Hideout Theatre]] in 2013.
 
 ## Troupes
-* [[Apocalypse]] (2012)
+* [[Apocalypse (troupe)|Apocalypse]] (2012)
 * [[In Our Prime]] (2011 - Present)
 * [[Two Guys From Yonkers]] (2011 - Present)
 * [[We're Here to Date Your Daughter]] (2012 - Present)
