@@ -1,7 +1,7 @@
 This is a **list of Hideout mainstage shows in chronological order**.
 
 ## Traditional Mainstage Shows
-### 1999-2009
+### 1999-2006
 In the early years, specific runs of shows were rare.  Apart from *[[Start Trekkin']]*, [[Sean Hill]] presented various Keith Johnstone formats in its Saturday 8pm slot.
 
 {| class="wikitable"
@@ -20,6 +20,13 @@ In the early years, specific runs of shows were rare.  Apart from *[[Start Trekk
 |9/1/05||11/30/05||*[[Start Trekkin']]*||[[Sean Hill]], [[Troy Miller]]
 |-
 |12/1/05||3/3/06||(Various Johnstone formats)||[[Sean Hill]]
+|}
+
+### 2006-Present
+Starting with *[[The Great Mundane]]* in 2006, the Hideout went to a more regular schedule of one-to-two month show runs, alternating between sketch shows, genre shows, troupe shows, and traditional Johnstone formats.
+
+{| class="wikitable"
+|**Start Date**||**End Date**||**Show**||**Directed by**
 |-
 |3/4/06||4/8/06||*[[The Great Mundane]]*||[[Jay Bernardo]], [[Jon Hunt]]
 |-
@@ -63,7 +70,7 @@ In the early years, specific runs of shows were rare.  Apart from *[[Start Trekk
 |}
 
 ### 2009-Present
-At this point, the Hideout went to a regular mainstage schedule, with a new show every two months.
+In mid-2009, the Hideout went to a regular mainstage schedule, with a new show format every two months.
 
 {| class="wikitable"
 |**Start Date**||**End Date**||**Show**||**Directed by**
