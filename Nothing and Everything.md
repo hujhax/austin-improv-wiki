@@ -5,6 +5,7 @@
 |Director =		[[Jon Bolden]]
 |Assistant Director = {{Unbulleted list | [[Dave Yakubik]] | [[Rachel Posey Austin]] }}
 |Run=							Nov/Dec 2014
+|Subsequent Runs = Aug 2015
 |Tech=		{{Unbulleted list | [[Cortney DeAngelo]] | [[Lindsey McGowen]] | [[Michael Yew]]   }}
 |Cast	=		{{Unbulleted list | [[Andrew Buck]] | [[Cat Drago]] | [[Courtney Hopkin]] | [[Jordan T. Maxwell]] | [[Kaci Danger]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Megan Sherrod]] | [[Peter Rogers]] | [[Troy A. Miller]] | [[Valerie Ward]] }}
 }}
