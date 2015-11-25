@@ -5,7 +5,7 @@
 |Director           = [[Valerie Ward]]
 |Assistant Director = [[Jayme Ramsay]]
 |Run                = Aug 2014
-|Cast               = {{Unbulleted list | [[Andrew Schwartz]] | [[Ann Nelson]] | [[Cagney Ortiz]] | [[Chad Wellington]] | [[Heather Hasselle]] | [[Michael Guy Bowman]] | [[Rosemarie Frezza]] | [[Tess Hermes]] }}
+|Cast               = {{Unbulleted list | [[Andrew Schwartz]] | [[Ann Symmonds]] | [[Cagney Ortiz]] | [[Chad Wellington]] | [[Heather Hasselle]] | [[Michael Guy Bowman]] | [[Rosemarie Frezza]] | [[Tess Hermes]] }}
 |Tech = [[Rachel Posey Austin]] (sound)
 }}
 
