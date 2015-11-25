@@ -191,7 +191,7 @@ Starting in 2014, the Hideout began presenting two mainstage shows every Saturda
 |-
 |Dec 2015||*[[Home for the Holidays]]*||[[Valerie Ward]]
 |-
-|Feb 2016||*[[1813 Dewberry Lane]]*||[[Caeriel Crestin]]
+|Feb 2016||*[[183 Dewberry Lane]]*||[[Caeriel Crestin]]
 |-
 |Apr 2016||*[[Origins]]*|| [[Manuel Duran]], [[Roy Janik]]
 |-
