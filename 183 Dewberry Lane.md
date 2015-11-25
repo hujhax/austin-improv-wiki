@@ -3,13 +3,13 @@
 |Picture            = 183 Dewberry Lane Placeholder Image.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Caeriel Crestin]]
-|Assistant Director = [[J.R. Zambrano]]
-|Run                = Jan/Feb 2016
+|Assistant Director = [[J. R. Zambrano]]
+|Run                = Feb 2016
 |Cast               = {{Unbulleted list | [[Aspen Webster]] | [[Carolina A. Andrade]] | [[Eric Peterson]] | [[Graham Snow]] | [[Greg Mihalik]] | [[Kay Krasin]] | [[Luis Salinas]] | [[Sue Woodka Jordan]] | [[Tamara Warton]] | [[Zachariah Rollins]] }}
 |Tech               = {{Unbulleted list | [[Alex Walker]] | [[Casey Marie]] }}
 }}
 
-***183 Dewberry Lane*** will be the Jan/Feb 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***183 Dewberry Lane*** will be the February 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
