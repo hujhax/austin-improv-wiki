@@ -1,0 +1,1 @@
+Placeholder image for *[[183 Dewberry Lane]]*.
