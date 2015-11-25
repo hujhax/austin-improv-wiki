@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Sushant Sethi
-|Picture =	Sushant Sethi Pic.jpg
+|Picture =	Sushant Sethi.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2014-Present
 }}
