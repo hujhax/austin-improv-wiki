@@ -1,12 +1,12 @@
 {{Infobox Performer
-|Name	=	Ann Nelson
+|Name	=	Ann Symmonds
 |Theater=	[[The Hideout Theatre]]
 |Years	=       2013-Present
 }}
 
 {{stub}}
 
-**Ann Nelson** is an improv performer.
+**Ann Symmonds** is an improv performer.
 
 ## Shows
 [[The Dahl House]]
@@ -15,4 +15,4 @@
 * [[Physics Curse]] 
 
 ## More Information
-[[Category/Performers|Nelson]]
+[[Category/Performers|Symmonds]]
