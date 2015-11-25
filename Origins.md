@@ -3,12 +3,12 @@
 |Picture            = Origins Placeholder Image.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Manuel Duran]] | [[Roy Janik]] }}
-|Run                = Mar/Apr 2016
+|Run                = Apr 2016
 |Cast               = TBA
 |Tech               = TBA
 }}
 
-***Origins*** will be the March/April 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Origins*** will be the April 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
