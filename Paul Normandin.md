@@ -20,7 +20,7 @@ Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin 
 
 He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include a version of the Improviser's Nightmare format, The Great Debate, and Bob Finds 50.
 
-Paul is a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own sketches. Paul tells stories around town and on the RISK! Podcast in 2013 as part of [[Out of Bounds]]. Paul won The Moth StorySlam in Houston in November 2015.   
+Paul is a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own sketches. Paul tells stories around town. He also told a story on the RISK! Podcast in 2013 as part of [[Out of Bounds]]. Paul won The Moth StorySlam in Houston in November 2015.   
 
 Paul was a teaching assistant at [[The Hideout Theatre]] in 2013.
 
