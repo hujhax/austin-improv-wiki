@@ -23,7 +23,7 @@ In the early years, specific runs of shows were rare.  Apart from *[[Start Trekk
 |}
 
 ### 2006-2009
-Starting with *[[The Great Mundane]]* in 2006, the Hideout went to a more regular schedule of one-to-two month show runs, alternating between sketch shows, genre shows, troupe shows, and traditional Johnstone formats.
+Starting with *[[The Great Mundane]]* in 2006, the Hideout went to a more regular schedule of one-to-two month show runs.  These included sketch shows, genre shows, troupe shows, and traditional Johnstone formats.
 
 {| class="wikitable"
 |**Start Date**||**End Date**||**Show**||**Directed by**
