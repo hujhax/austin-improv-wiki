@@ -12,7 +12,7 @@
 Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>SSHH is an improv duo made of two dear friends who love to laugh. When one of them laughs, the other one does. That's the goal in SSHH. If they laugh, you will too!</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Collection of scenes, high energy, hope to make each other break.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>High energy montage!.</blockquote>
 
 ## More Information
 * [http://www.facebook.com/pages/SSHH/701887433257004?fref=ts The troupe's facebook page.]
