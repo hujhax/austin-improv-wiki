@@ -4,7 +4,7 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Marc Majcher]]
 |Run                = April 2015
-|Cast               = {{Unbulleted list | [[Brandon Martin]] | [[Heidi Penix]] | [[Jessica von Schramm]] | [[Kathleen McFerrin]] | [[Luke Wallens]] | [[Patrick Creamer]] | [[Rachel Denton]] |[[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
+|Cast               = {{Unbulleted list | [[Brandon Martin]] | [[Heidi Penix]] | [[Jessica von Schramm]] | [[Luke Wallens]] | [[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
 |Tech               = {{Unbulleted list | [[Danielle Saar]] | [[R. Lance Hunter]] }}
 }}
 
@@ -13,6 +13,11 @@
 ## Summary
 ### Publicity Blurb
 From the show announcement:<blockquote>"A full-length improvised narrative, performed without words.  *Golden* will draw its inspiration from classic silent films, without being slavishly beholden to them.  Mime, clowning, physicality, and emotional sounds will all come into play"</blockquote>
+
+### Former Members
+* [[Kathleen McFerrin]]
+* [[Patrick Creamer]]
+* [[Rachel Denton]] 
 
 ## Media
 ### Videos
