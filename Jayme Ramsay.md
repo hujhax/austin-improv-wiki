@@ -12,6 +12,9 @@ Jayme first started taking improv classes at [[The Hideout Theatre]] in early 20
 
 Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Theater]].
 
+## Troupes
+* [[Monster]]
+
 ## Shows
 * *[[A Bedtime Gorey]]*
 * *[[Austin Secrets]]*
