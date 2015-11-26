@@ -128,7 +128,12 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 ** With *[[Strange Worlds]]*
 * The 2014 Alaska State Improv Festival
 ** With *[[The Black Vault]]* and *[[Strange Worlds]]*
-
+* The 2015 Seattle Festival of Improv Theater
+** With *[[Hurly Burly]]*
+* The 2015 Boston Comedy Arts Festival
+** With *[[Golden]]*
+* The 2015 Providence Improv Festival
+** With *[[The Black Vault]]*
 
 [[Category/Performers|Majcher]]
 [[Category/Directors|Majcher]]
