@@ -1,8 +1,8 @@
 {{Infobox Troupe
 |Name	=	The Escorts
 |Picture =     The_Escorts_2014.jpg
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Lindsey Reeves]] | [[Aaron Saenz]] (2014-Present) | [[Ruby Willmann]] | [[Shannon Dale Stott]] (2015-Present)}}
-|Past Members = {{Unbulleted list | [[Alex Dobrenko]] (2011-2013) | [[Marc Majcher]] (2011-2015)}}
+|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Lindsey Reeves]] | [[Aaron Saenz]] (2014-Present) | [[Shannon Dale Stott]] (2015-Present)}}
+|Past Members = {{Unbulleted list | [[Alex Dobrenko]] (2011-2013) | [[Marc Majcher]] (2011-2015) | [[Ruby Willmann]] (2011-2015)}}
 |Years	=		2011-Present
 }}
 
@@ -15,6 +15,7 @@
 <p>[[Marc Majcher]] is both a performer and teacher at [[The Hideout Theatre]]. [[Andreas Fabis]], a member of the [[Gnap!]] company and director of *[[Magna Veritas]]*, has also performed in game-changing shows such as *[[Live Nude Improv]]*. [[Ruby Willmann]] is director of [[What the F@$]] and a [[Hideout]] improv teacher, and [[Alex Dobrenko]] is a recent participant in the New York Improv Festival. [[Lindsey Reeves]] is played in [[The Professor]] and *[[Live TV Tuesdays -  Firefly|Firefly: The musical]]*."</p></blockquote>
 
 [[Aaron Saenz]] joined in January 2014 after [[Alex Dobrenko]] left for Los Angeles.
+[[Shannon Dale Stott]] joined in 2015 after [[Ruby Willmann]] moved to Los Angeles
 
 ## Media
 ### Videos
