@@ -41,11 +41,13 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[False Matters]]* (2011)
 * *[[The Fancy-Pants Mashup]]*
 * *[[Fandom]]*
+* *[[Four Chambers]]*
 * *[[Flying Theater Machine]]*
-* *[[Golden]]* (Directed)
+* *[[Golden]]* (Directed and performed)
 * *[[Gorilla Theater]]*
 * *[[Guilds of Steel]]*
 * *[[Haunted]]*
+* *[[Happily Ever After]]*
 * *[[Holy 1960s Batman, Batman!]]*
 * *[[Hurly Burly]]* (performer, co-director)
 * *[[I Love You So Much]]*
@@ -72,6 +74,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Reform School for Wayward Girls]]*
 * *[[Rock]]*
 * *[[The Sandbox]]* (Performed, Directed "Bloody Work")
+* *[[Savage Swords]]*
 * *[[Seance]]*
 * *[[Spirited]]* (Performed and co-directed)
 * *[[Start Trekkin']]*
