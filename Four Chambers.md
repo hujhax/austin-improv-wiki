@@ -40,6 +40,13 @@ http://leavingmundania.com/2014/08/17/j-tuomas-harviainen-larp-collection/
 
 ### Previous Occupants
 This show played on May 16, 2015. 
+
+"Previous Occupants is a horror scenario about jealousy, trust and desire in two acts. It takes place in a modern day setting, with two parallel stories set in two different times. At some point in the story the two merge, as the past invades the present.
+
+Four players are divided into two couples – old and young – one for each story. The couples will play their stories in parallel on two mirrored physical stages in a single playing space. The old couple’s story takes place in the past and the young couple’s in the present. Only one timeline is active at a time and focus shifts happen when someone rings a classic desk bell placed between the two scenes. Anyone can ring the bell at any time."
+
+http://scenariofestival.se/archive/scenarios-2013/previous-occupants/
+
 #### Cast
 * Husband: [[JM Specht]]
 * Wife: [[Jayme Ramsay]]
