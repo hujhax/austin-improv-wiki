@@ -16,6 +16,13 @@ The show is a series of four nordic-style LARPs played on stage: The Tribunal, P
 ## Shows
 ### The Tribunal
 This show played on May 9, 2015. 
+
+“A participatory scenario about the mechanics of oppression, inspired by Orwell, Krylov, Büchner, Linna and the classic dilemma exercises.
+
+The premise is simple: two soldiers from your unit – private Magpie and corporal Badger – have been charged with the crime of stealing bread. This is serious. You are all hungry, there is a food shortage. So if found guilty, they will be shot. The problem is that they are innocent – they were with all of you when the crime took place. It’s probably been a major, Pig, who has a tendency to steal and sell stuff from the barracks. Yet no one wants to hear about that – most of the officers here are corrupt or afraid. The scapegoats will be found guilty and executed, unless enough people testify to their innocence. To say so, however, is extremely dangerous, and may land you as the next person in line to get shot. What will you do, and how many others would you need to stand up for honesty along with you, should you choose to defend the innocent?”
+
+http://leavingmundania.com/2014/08/17/j-tuomas-harviainen-larp-collection/
+
 #### Cast
 * [[Chris Albano]]
 * [[Leonard Balsera]]
