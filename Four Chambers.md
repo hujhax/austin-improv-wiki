@@ -54,6 +54,14 @@ http://scenariofestival.se/archive/scenarios-2013/previous-occupants/
 * Girlfriend: [[Aspen Webster]]
 
 ### Juggernaut
+"It is July third, 1950. The Korean War is eight days old. National Security Council Report 68 is sitting on Harry Truman’s desk, a grim outline of the Cold War that is to enfold the world for the next 40 years. Alan Turing’s paper “Computing Machinery and Intelligence” is circulating for review. Cinderella is a box office sensation.
+
+And you have invented a computer that can see the future.
+
+Employing cutting-edge Ward-Takahashi identity derivations outside their quantum-theoretical framework, JUGGERNAUT processes enormous data sets, ostensibly in the service of code-breaking once the technology is proven and refined. The unstable geniuses behind the math have reached some curious conclusions that only experimental evidence can confirm. By the numbers, JUGGERNAUT —given enough resources— should be able to crack ciphers before they are even invented."
+
+http://www.bullypulpitgames.com/games/juggernaut/
+
 This show played on May 23, 2015. 
 #### Cast
 * Dr. Takahashi: [[Angie Alegria Smith]]
