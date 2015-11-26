@@ -17,6 +17,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 <p>The first improv that I saw in Austin (and I don't think I'd seen any in between, aside from zapping through *Whose Line* on the teevee a couple times) was a show that [[Les McGehee]] put together for the Alamo in 2003 or so. I'd been doing roller derby stuff a bunch in the years around then, and Les was emceeing the matches, and got a bunch of us to go to his show. It was mostly short formy stuff, with Les and [[Cynthia Oelkers]] and [[Scott Chester]] and... someone else. Again, funny, but didn't go to see it more than once.</p> </blockquote>
 
 ## Troupes
+* [[Monster]]
 * [[The Asides]]
 * [[The Escorts]]
 * [[The Library]]
