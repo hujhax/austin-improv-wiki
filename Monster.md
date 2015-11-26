@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	Monster
-|Picture =     monster.jpg
+|Picture =     marc-jayme-stripes.jpg
 |Cast	=	{{Unbulleted list | [[Jayme Ramsay]] | [[Marc Majcher]]}}
 |Years	=		2014-Present
 }}
