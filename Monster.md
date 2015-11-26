@@ -5,7 +5,7 @@
 |Years	=		2014-Present
 }}
 
-*Monster* is an improv duo, focusing on working with silence, physicality, and clowning. They have performed at Salvage Vanguard Theater and the Insitution Theater's Impromp-two.
+*Monster* is an improv duo, focusing on working with silence, physicality, and clowning. They have performed at [[Salvage Vanguard Theater]] and the [[Institution Theater]]'s [[Impromp-Two]] show.
 
 The performers are Chum and Crumpet ([[Marc Majcher]] and [[Jayme Ramsay]]).
 
