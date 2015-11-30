@@ -5,11 +5,13 @@
 |Years	=	2014-Present
 }}
 
-**Sushant Sethi** is an improv performer. He is graduate of the program at [[The Hideout Theatre]] where he is a Teaching Assistant. He also takes classes at [[The Institution Theater]] where he is part of the creative team and producing an upcoming show: [[Happy Fun Time]]. 
+**Sushant Sethi** is an improv performer. He is graduate of the program at [[The Hideout Theatre]] where he is a Teaching Assistant. He also takes classes at [[The Institution Theater]] where he is part of the creative team and producing an upcoming show: *[[Happy Fun Time]]*. 
 
 Sethi has studied with renowned instructors from all over such as: Hill/Jones, Rebecca Drysdale, Lyndsay Hailey, Vinny Francois, Asaf Ronen, and many more. 
 
 
+## Troupes
+* [[Character Explosion]]
 
 ## Shows
 * *[[The Aftermath]]*
