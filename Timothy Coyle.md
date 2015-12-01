@@ -38,6 +38,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Ruby Willmann]]
 * [[Ryan Hill]]
 * [[Marc Majcher]]
+* [[Lacy Shawn]]
 
 ## Troupes / Duo
 * [[Character Explosion]] (2014-current)
