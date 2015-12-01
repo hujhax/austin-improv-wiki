@@ -47,13 +47,23 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Building Connections]] classes for homeless youth (2015-Current) 
 
 ## Shows
-* *[[The Cagematch]]* (2015-Current)
-* *[[Free Fringe]]* (2014-Current)
-* *[[Improv Mixtape]]*
+[[Hideout Theatre]]
+* [[Free Fringe]] 2014
+* [[The Threefer]] 2014 - current
+* [[The Weekender]] 2015 - current
+* *[[2x4]]* (2015-Current)
+* *[[Fancy Pants]]* (2015-Current)
 * *[[Maestro]]* (2015-Current)
 * *[[Maestro Raw]]* (2014-Current)
-* *[[Fancy Pants]]* (2015-Current)
-* *[[2x4]]* (2015-Current)
+
+
+[[ColdTowne Theater]]
+* [[The Monday Night Mash]] 2015 - current
+* [[The Cagematch]] 2015 - current
+
+
+[[The Institution Theater]]
+* [[The Improv Mixtape]] 2015 - current
 
 ## Free Fringes
 * *[[All Stars and Me]]* Produced by ([[Tim Coyle]])
