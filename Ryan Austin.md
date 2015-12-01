@@ -10,9 +10,8 @@ Ryan Austin is a well-dressed improviser who works mostly with [[The Hideout The
 ## History
 Ryan began improv classes at [[The Hideout Theatre]] in May 2011. He was completely unaware of long form narrative improv before seeing his first show at the Hideout and fell in love instantly. He graduated with a BFA in screenwriting and that love of story has kept him fully engaged in improv storytelling. He has been a member of both [[Local Genius Society]] and [[Past Lives]]. Currently he performs with [[The Starborn]] and [[Austin-Austin]].
 
-He began directing improv in August of 2012 when [[Ruby Willmann]] handed down the host/director role of [[The Fancy-Pants Mashup]] to him. He has since become a director for [[Maestro]] and co-directed the 2014 *[[Theatresports]]* mainstage run at the Hideout with [[Lacy Shawn]].
+He began directing improv in August of 2012 when [[Ruby Willmann]] handed down the host/director role of [[The Fancy-Pants Mashup]] to him. He has since become a director for [[Maestro]] and co-directed several MainStage shows.
 
-He is known for often dressing up.
 
 ### First Improv Show He Saw
 A post from him about the first improv show he ever saw:<blockquote><p>The first live show I saw was when I was in level one. I went to see [[Pgraph]] (I think maybe [[Improv for Evil]] opened for them?) because [[Roy Janik|Roy]] was my teacher and I thought I'd go and support him. Until that night I had never seen -nor was I aware- that people improvised long-form narratives.</p> 
