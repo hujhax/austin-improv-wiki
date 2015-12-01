@@ -45,7 +45,8 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[You Bet Your Life]] improvised quiz show based off [[Wikipedia - You Bet Your Life|*You Bet Your Life hosted by Groucho Marx*]]. (2015-Current)
 
 ## Instructor
-* [[Building Connections]] classes for homeless youth (2015-Current) 
+* [[Building Connections]] classes for homeless youth (2015-Current)
+* [[Hideout Theatre Wednesday Jam]] open jam for Improvisors (2015-Current)
 
 ## Shows
 [[Hideout Theatre]]
