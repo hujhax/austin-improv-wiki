@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		Space Swank
-|Picture	=	-
+|Picture	=	space_swank.jpg
 |Cast	=	{{Unbulleted list|[[Johnny Anzollitto]]|[[Jessica Soos]]|[[Paul Mahaffey]]|[[Ross Puryear]]|[[Katie Matthews]]|[[Chris Casey]]}}
 |Years	=		2015-Present
 }}
