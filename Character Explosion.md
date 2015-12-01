@@ -9,7 +9,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Hideout Theatre students/recent graduates will challenge one member by playing a variety of characters that he must then play. After running through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Hideout Theatre students graduates will challenge one member by playing a variety of characters that he must then play. After running through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>the plan is that we want to do what it takes to do that thing that is needed to be done so people like us and come see us again</blockquote>
