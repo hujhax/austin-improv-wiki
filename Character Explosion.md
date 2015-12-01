@@ -17,6 +17,20 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 ### Format Orgin
 The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coyle a free fringe was submitted and played out on August 7th 2014 billed as "Ceej Character Explosion" 
 
+### Shows
+[[Hideout Theatre]]
+* [[Free Fringe]] 2014
+* [[The Threefer]] 2014 - current
+* [[The Weekender]] 2015 - current
+
+[[ColdTowne Theater]]
+* [[The Monday Night Mash]] 2015 - current
+* [[The Cagematch]] 2015 - current
+
+[[The Institution Theater]]
+* [[The Improv Mixtape]] 2015 - current
+
+
 
 ### Coaches
 * [[Robert Slack]] is both a member of the troupe and coach, bringing his Improv experience from Los Angeles and Dallas - Ft Worth to the troupe.
