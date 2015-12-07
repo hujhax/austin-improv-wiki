@@ -22,7 +22,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[The Black Vault]]* *(tech)*
 * *[[Charles Dickens Unleashed]]* *(tech)*
 * *[[Christmas at the Cozy Mountain Inn]]* *(tech)*
-* *[[A Deed So Dark]]* *(tech)*
+* *[[A Deed So Dark]]* *(tech director)*
 * *[[Fakespeare]]* *(crew)*
 * *[[Flying Theater Machine]]* *(tech)*
 * *[[Fragile Rock]]* *(musician)*
