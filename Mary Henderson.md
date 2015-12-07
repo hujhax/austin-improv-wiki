@@ -2,7 +2,7 @@
 |Name	=	Mary Henderson	
 |Picture =	Mary.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	2012-present
+|Years	=	2012-Present
 }}
 
 ## History
@@ -11,8 +11,10 @@ Mary took a free improv class at the [[Hideout Theatre]] and was hooked for life
 Mary has participated in numerous improv workshops including [[Sarah Marie Curry]]'s Viewpoints in Improv at the [[The Institution Theater]], [[Jessica Arjet]]'s Wonder Women workshops at the Hideout Theatre, and Jill Bernard's workshops on Solo Improv and Characterization.
 
 ## Troupe
-* Illuminati
+* [[Illuminati]]
 
 ## Shows
 * *[[Buzz Band]]*
 * *[[Tall Tales of the High Seas]]*
+
+[[Category/Performers|Henderson]]
