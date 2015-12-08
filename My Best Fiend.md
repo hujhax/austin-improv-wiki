@@ -24,7 +24,7 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 *"Die gewesene Sardine": [http://vimeo.com/76356598 9/27/13 performance] at [[The 2013 Out of Bounds Comedy Festival]].
 *"Die Mörderbestie" [http://youtu.be/fzWXDO5noGQ Video]
 *"Der grosse Tag draussen" [http://youtu.be/pbCgf2yAKqo Video]
-*"Schnaps-Eis" [https://vimeo.com/148277246]
+*"Schnaps-Eis" [https://vimeo.com/148277246 Video]
 
 ### Photos
 * [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 1/12/13 show.
