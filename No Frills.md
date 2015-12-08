@@ -19,6 +19,7 @@ After rehearsing together at [[The Institution Theater]] in the summer of 2013, 
 
 ### Photos
 * [http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/No-Frills/ Photoset] by [[Chad Wellington]] of their 10/18/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
+* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 10/28/13 show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
