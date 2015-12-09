@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		¡Zarzamora!
 |Picture	=	¡ZARZAMORA!.jpg
-|Cast	=	{{Unbulleted list|[[Brad Hawkins]]|[[Chuy Zarate]]|[[David Lampe]]|[[Kevin Miller]]|[[Topping Haggerty]]}}
+|Cast	=	{{Unbulleted list|[[Brad Hawkins]]|[[Chuy Zarate]]|[[Cole Spainhour]]|[[David Lampe]]|[[Kevin Miller]]|[[Topping Haggerty]]}}
 |Years	=		2010-Present
 }}
 
