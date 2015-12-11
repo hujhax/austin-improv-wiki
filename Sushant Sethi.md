@@ -10,9 +10,6 @@
 Sethi has studied with renowned instructors from all over such as: [[Asaf Ronen]], Hill/Jones, Rebecca Drysdale, Lyndsay Hailey, Vinny Francois, and many more. 
 
 
-## Troupes
-* [[Character Explosion]]
-
 ## Shows
 * *[[The Aftermath]]*
 * *[[Four Chambers]]* ("Juggernaut")
