@@ -17,7 +17,7 @@ In Channel 2's debut performance, the gang created an "Underdog Mind-Bending Moc
 
 **Oct. 22, 2015 - Hideout Threefer**
 
-Channel 2 appeared in the Oct. 22nd Threefer alongside [[Minority Report]] and [[SSHH]], performing a "Mistaken Identity Vigilante Satire." 
+Channel 2 appeared in the Oct. 22nd Threefer alongside [[Minority Report]] and [[SSHH]], performing a "Mistaken Identity Vigilante Satire".
 
 **Nov. 1, 2015 - Hideout Weekender**
 
