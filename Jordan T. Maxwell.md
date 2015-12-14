@@ -36,21 +36,27 @@ A post from him about the first improv show he ever saw:<blockquote><p>Other tha
 ## Shows
 * *[[The Aftermath]]* (director)
 * *[[Austin Secrets]]*
+* *[[Buzz Band]]*
+* *[[A Deed So Dark]]*
 * *[[Fakespeare]]*
 * *[[Fandom]]*
 * *[[I Love You So Much]]*
 * *[[Kenjutsu]]*
 * *[[Live Nude Improv]]*
 * *[[Live TV Tuesdays -  Buffy|Live TV Tuesdays: Buffy the Vampire Slayer]]* (director)
+* *[[Lonely Star]]* (director)
 * *[[Nothing and Everything]]*
 * *[[Pocketful of Posies]]*
 * *[[Process]]*
 * *[[The Professor]]*
 * *[[Rock]]*
+* *[[Savage Swords]]*
 * *[[Showdown]]*
+* *[[SongRunner]]* (assistant director)
 * *[[Spirited]]*
 * *[[Start Trekkin']]*
 * *[[Strange Worlds]]* (director)
+* *[[Teenage Wasteland]]* (director)
 
 ## More Information
 * [http://yesandrew.com/2013/05/26/the-sunday-interview-jordan-t-maxwell/ Interview] by [[Andrew Buck]].
