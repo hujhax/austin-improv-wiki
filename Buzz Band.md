@@ -4,13 +4,16 @@
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Karen Jane DeWitt]] | [[Nicole Beckley]] }}
 |Cast = {{Unbulleted list | [[Andrew Johnston]] | [[Chad Wellington]] | [[David Ronn]] | [[J.R. Zambrano]] | [[Jordan Maxwell]] | [[Luis Salinas]] | [[Manuel Duran]] | [[Mary Henderson]] | [[Megan Sherrod]] | [[Megan Simon]] | [[Sarah Swofford]] }}
+|Tech = [[Cortney DeAngelo]]
 |Run	= May 2015
 }}
 
-***Buzz Band*** was a mainstage show at [[The Institution Theater]].
+***Buzz Band*** was a mainstage show at [[The Institution Theater]] set in the 1990s music scene.
 
 ## Summary
-The show ran Fridays and Saturdays at 8pm, from 5/8/15 to 5/23/15.
+The show ran about 80 minutes (with an intermission), with the entire cast playing every night.  It was narrative, but didn't necessarily follow a single featured protagonist.  The directors opened the show by describing the show's world/era, and took no suggestion.
+
+It ran Fridays and Saturdays at 8pm, from 5/8/15 to 5/23/15.
 
 ### Press Blurb
 From the initial show announcement: <blockquote>"Enter the world of musicians on the cusp – of stardom, of reaching the next level, of bottoming out, of personal disaster.  This improvised narrative journey follows characters as they realize how high the stakes are when they strive for fame -- or infamy -- in the music industry."</blockquote>
