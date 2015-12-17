@@ -1,6 +1,8 @@
 <noinclude>
 This **List of Hideout Theatre Shows** is designed to be transcluded into any "Hideout shows" section on the wiki.
 </noinclude>
+The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
+
 ### Ongoing Shows
 * *[[Flying Theater Machine]]*
 * *[[The Free Fringe]]*
@@ -21,61 +23,3 @@ This **List of Hideout Theatre Shows** is designed to be transcluded into any "H
 ** *[[The Nightmare Video Project]]*
 ** *[[Pick Your Own Path]]*
 ** *[[The TV Set]]*
-
-### Mainstage Productions
-The Hideout's mainstage shows happen at 8pm on Saturdays.  Starting in 2010, each show has had a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.  For more information see the [[List of Hideout Mainstage Shows in Chronological Order]].
-
-* *[[After School Improv]]*
-* *[[The Andersons]]*
-* *[[Austin Secrets]]*
-* *[[A Bedtime Gorey]]*
-* *[[The Black Vault]]*
-* *[[Boys of Summer]]*
-* *[[Charles Dickens Unleashed]]*
-* *[[Camp Madeupponathaspotta]]*
-* *[[Cochise]]*
-* *[[Cops and Lawyers]]*
-* *[[A Deed So Dark]]*
-* *[[Fakespeare]]*
-* *[[Fandom]]*
-* *[[The Great Mundane]]*
-* *[[The Hideout Holiday Super Special]]*
-* *[[Happily Ever After]]*
-* *[[Hitchcocked!]]*
-* *[[Holy 1960s Batman, Batman!]]*
-* *[[I Love You So Much]]*
-* *[[Improvised Shakespeare]]*
-* *[[The International Improv Experience]]*
-* *[[Ka-Baam!!]]*
-* *[[Kenjutsu]]*
-* *[[Live Nude Improv]]*
-* *[[Manhattan Stories]]*
-* *[[Nothing and Everything]]*
-* *[[Process]]*
-* *[[Reform School for Wayward Girls]]*
-* *[[Rock]]*
-* *[[Scene of the Crime]]*
-* *[[Spirited]]*
-* *[[Start Trekkin']]*
-* *[[Strange Worlds]]*
-* *[[The Sci-Fi Comedy Double Feature]]*
-* *[[Theatresports]]*
-* *[[Twilight Zoned]]*
-* *[[The Violet Underbelly]]*
-* *[[Wanderlust]]*
-* *[[Who Is T. Henry Baudecliffe]]*
-
-### Student Mainstage Productions
-Spearheaded by Ruby Willmann in 2014, these month long show runs happen bi-monthly. Both cast and crew are cast purely from the Hideout student body.
-
-**[[What the F@$]]*
-**[[Camp Madeuponnaspotta]]*
-**[[Cochise]]*
-**[[The Dahl House]]*
-**[[The Aftermath]]*
-**[[A Penny Dreadful]]*
-**[[One Small Step]]*
-**[[Golden]]*
-**[[Song Runner]]*
-**[[Close Up]]*
-**[[Teenage Wasteland]]*
