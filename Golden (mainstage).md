@@ -13,9 +13,9 @@
 ## Summary
 The show ran 90 minutes, with a 15-minute intermission, in the Hideout's upstairs theater.
 
-It was a narrative that followed three protagonists, with a cast of 8-10 performers per night.  Each protagonist had their own storyline, and the three storylines sometimes intertwined or overlapped.
+It was a narrative that followed three protagonists, with a cast of 8-10 performers per night.  Each protagonist had their own storyline, but the three storylines sometimes intertwined or overlapped.
 
-The show opened with prompting the audience for a suggestion -- for example, what is this person's dream? (or secret, or occupation) -- silently, via a handheld whiteboard.
+The show opened with prompting the audience for a suggestion -- for example, what is this person's dream? Secret? Occupation?
 
 Tonally it could vary from grounded realism to over-the-top stylization.
 
