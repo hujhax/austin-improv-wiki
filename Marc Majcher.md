@@ -20,7 +20,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * [[Monster]]
 * [[The Asides]]
 * [[The Escorts]]
-* [[Golden]]
+* [[Golden]] (director, performer)
 * [[The Library]]
 * [[Improv for Evil]]
 * [[MmmmK]]
