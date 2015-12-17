@@ -14,7 +14,8 @@
 * [[Gigglepants]] (Former member)
 
 ## Shows
-* [[Camp Madeupponaspotta]]
-* [[Golden]]
-* [[Happily Ever After]]
-* [[The Fancy-Pants Mashup]]
+* *[[Boy, Howdy!]]*
+* *[[Camp Madeupponaspotta]]*
+* *[[Golden (mainstage)|Golden]]*
+* *[[Happily Ever After]]*
+* *[[The Fancy-Pants Mashup]]*
