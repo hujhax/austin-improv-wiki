@@ -11,6 +11,18 @@
 ***Golden*** was the April 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].  It continued on as [[Golden|a troupe of the same name]].
 
 ## Summary
+The show ran 90 minutes, with a 15-minute intermission, in the Hideout's upstairs theater.
+
+It was a narrative that followed three protagonists, with a cast of 8-10 performers per night.  Each protagonist had their own storyline, and the three storylines sometimes intertwined or overlapped.
+
+The show opened with prompting the audience for a suggestion -- for example, what is this person's dream? (or secret, or occupation) -- silently, via a handheld whiteboard.
+
+Tonally it could vary from grounded realism to over-the-top stylization.
+
+The scoring relied heavily on music by [[Wikipedia - Ludovic Bource|Ludovic Bource]], [[Wikipedia - Heinz Kiessling|Heinz Kiessling]], and [[Wikipedia - Werner Tautz|Werner Tautz]].
+
+The performers dressed in 60s-mod-inspired clothing.
+
 ### Publicity Blurb
 From the show announcement:<blockquote>"A full-length improvised narrative, performed without words.  *Golden* will draw its inspiration from classic silent films, without being slavishly beholden to them.  Mime, clowning, physicality, and emotional sounds will all come into play"</blockquote>
 
