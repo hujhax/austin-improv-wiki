@@ -190,7 +190,7 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |-
 |Feb 2015||*[[One Small Step]]*||[[Andreas Fabis]], [[Jessica Arjet]]
 |-
-|Apr 2015||*[[Golden]]*|| [[Marc Majcher]]
+|Apr 2015||*[[Golden (mainstage)|Golden]]*|| [[Marc Majcher]]
 |-
 |Jun 2015||*[[SongRunner]]*||[[Kacey Samiee]], [[Ammon Taylor]]
 |-
