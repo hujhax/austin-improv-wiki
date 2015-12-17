@@ -16,6 +16,7 @@
 
 ## Shows
 * *[[A Deed So Dark]]* (stage manager)
+* *[[Golden (mainstage)|Golden]]*
 * *[[Late Night Time Machine]]* (guest appearance: Groucho Marx)
 
 [[Category/Performers|Slack]]
