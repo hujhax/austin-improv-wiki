@@ -12,7 +12,7 @@
 
 ## Shows
 * *[[Close Up]]*
-* *[[Golden]]*
+* *[[Golden (mainstage)|Golden]]*
 * *[[Savage Swords]]*
 
 [[Category/Performers|Link]]
