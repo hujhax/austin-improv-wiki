@@ -1,9 +1,9 @@
-**WaffleFest 2015** will be the fourteenth annual [[WaffleFest]].
+**WaffleFest 2015** was the fourteenth annual [[WaffleFest]].
 
 ## Summary
-The festival will run from 11/19/15 to 11/21/15.
+The festival ran from 11/19/15 to 11/21/15.
 
-It will include an all-star *[[Maestro]]* and a teen showcase.
+It included an all-star *[[Maestro]]* and a teen showcase.
 
 ## Acts
 * [[The Amazon and the Milksop]]
