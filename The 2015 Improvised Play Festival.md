@@ -13,7 +13,7 @@ It was produced by [[Thedward Blevins]] and [[Ruby Willmann]].
 * [[Danger! Warning! Improv!]]
 * [[The Escorts]]
 * *[[The Fitzgeralds Save the World]]*
-* *[[Golden]]*
+* *[[Golden (mainstage)|Golden]]*
 * The Half-Written Play, a Physical Plant Theater & [[Jon Bolden]] Project
 * *[[Hurly Burly]]*
 * *[[Nothing and Everything]]*
