@@ -20,6 +20,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * [[Monster]]
 * [[The Asides]]
 * [[The Escorts]]
+* [[Golden]]
 * [[The Library]]
 * [[Improv for Evil]]
 * [[MmmmK]]
@@ -44,7 +45,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Fandom]]*
 * *[[Four Chambers]]*
 * *[[Flying Theater Machine]]*
-* *[[Golden]]* (Directed and performed)
+* *[[Golden (mainstage)|Golden]]* (director)
 * *[[Gorilla Theater]]*
 * *[[Guilds of Steel]]*
 * *[[Haunted]]*
