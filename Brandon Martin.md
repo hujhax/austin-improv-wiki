@@ -13,6 +13,7 @@ In 2013, he moved away to Chicago.
 In 2014, he moved back.
 
 ## Troupes
+* [[Golden]]
 * [[Kosher Bacon]]
 * [[The Seven Eight Sevens]]
 
