@@ -7,11 +7,12 @@
 
 **Heidi Penix** is an improv performer who works primarily with [[The Institution Theatre]].
 
-## History
 ## Troupes
+* *[[Golden]]*
+
 ## Shows
 * *[[Risen]]*
 * *[[GrimmNoir]]*
-**[[Golden]]*
+* *[[Golden (mainstage)|Golden]]*
 
 [[Category/Performers|Penix]]
