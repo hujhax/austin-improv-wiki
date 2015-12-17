@@ -37,7 +37,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Jason Vines]]
 * [[Adam Mengesha]]
 * [[Shannon McCormick]]
-* Musician: [[Josh ROnsen]]
+* Musician: [[Josh Ronsen]]
 
 #### November 14th, 2015
 * [[Adam Mengesha]]
