@@ -1,6 +1,6 @@
-This is a **list of Hideout mainstage shows in chronological order**.
-
 ## Traditional Mainstage Shows
+The Hideout's traditional mainstage shows happen at 8pm on Saturdays.  Starting in 2009, each show has had a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.
+
 ### 1999-2006
 In the early years, specific runs of shows were rare.  Apart from *[[Start Trekkin']]*, [[Sean Hill]] presented various Keith Johnstone formats in its Saturday 8pm slot.
 
@@ -70,7 +70,7 @@ Starting with *[[The Great Mundane]]* in 2006, the Hideout went to a more regula
 |}
 
 ### 2009-Present
-In mid-2009, the Hideout went to a regular mainstage schedule, with a new show format every two months.
+In mid-2009, the Hideout went to a regular mainstage schedule, with a new show format every two months.  These schedules have been curated by [[Roy Janik]].
 
 {| class="wikitable"
 |**Start Date**||**End Date**||**Show**||**Directed by**
@@ -170,6 +170,8 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new show f
 
 ## Student Mainstage Shows
 Starting in 2014, the Hideout began presenting two mainstage shows every Saturday: their 'traditional' mainstage shows in the downstairs theater, and student mainstage shows, featuring either current or recent Hideout students, in their upstairs theater.  Each student mainstage runs for a single month.
+
+In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with [[Caeriel Crestin]] taking over the job in 2016.
 
 {| class="wikitable"
 |**Month**||**Show**||**Directed by**
