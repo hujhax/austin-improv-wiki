@@ -7,34 +7,32 @@
 |Run	= 2013-Present
 }}
 
-**Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]].
-
-Second Sundays shows feature a combination of guest troupes, Merlin Works student showcases, and performances by faculty troupe [[The Known Wizards]].
+**Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]]. Second Sundays shows typically feature a Merlin Works student showcase or graduation show, a guest troupe, and a headlining performance by faculty troupe [[The Known Wizards]].
 
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
-|December 2015|| || 
+|November 22, 2015||Student showcase||[[Golden]] 
 |-
-|November 2015|| || 
+|November 8, 2015||Student showcase||[[Houses in Motion]] 
 |-
-|October 2015|| || 
+|October 11, 2015||601 presents "The Big Event"||[[MC Harold]] 
 |-
-|September 2015|| || 
+|September 13, 2015||Student showcase||[[In Our Prime]] 
 |-
-|August 2015|| || 
+|August 9, 2015||Student showcase||[[History Under the Influence]] 
 |-
-|July 2015|| || 
+|July 12, 2015||||N/A 
 |-
-|June 2015|| || 
+|June 14, 2015||Student showcase||[[The Escorts]]
 |-
-|May 2015|| || 
+|May 10, 2015|| ||N/A
 |-
-|April 2015|| || 
+|April 12, 2015||Student showcase||[[Brain Trust]] 
 |-
 |March 8, 2015|| ||N/A
 |-
-|February 8, 2015||Student showcase ||[[Miller & Purselley]] 
+|February 8, 2015||Student showcase||[[Miller & Purselley]] 
 |-
 |January 2015|| || 
 |-
