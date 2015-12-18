@@ -2,7 +2,7 @@
 |Name	=	The Lottery
 |Picture = 	The Lottery.jpg
 |Theater=	[[The Hideout Theatre]]
-|Cast=		Varies
+|Cast=		Various
 |Director =	[[Roy Janik]]	
 |Run	=	Oct 2010-Jan 2012
 }}
