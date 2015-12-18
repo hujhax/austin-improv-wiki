@@ -32,9 +32,9 @@ Second Sundays shows feature a combination of guest troupes, Merlin Works studen
 |-
 |April 2015|| || 
 |-
-|March 2015|| || 
+|March 8, 2015|| ||N/A
 |-
-|February 2015|| || 
+|February 8, 2015||Student showcase ||[[Miller & Purselley]] 
 |-
 |January 2015|| || 
 |-
