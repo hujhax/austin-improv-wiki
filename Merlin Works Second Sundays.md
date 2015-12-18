@@ -11,6 +11,29 @@
 
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
+<!--
+|-
+|November 20, 2016|| || 
+|-
+|November 13, 2016|| || 
+|-
+|October 9, 2016|| || 
+|-
+|September 11, 2016|| || 
+|-
+|August 14, 2016|| || 
+|-
+|July 10, 2016|| || 
+|-
+|June 12, 2016|| || 
+|-
+|May 8, 2016|| || 
+|-
+|April 10, 2016|| || 
+|-
+|March 13, 2016|| || 
+|-
+|February 7, 2016|| ||-->
 |-
 |November 22, 2015||Student showcase||[[Golden]] 
 |-
