@@ -1,6 +1,8 @@
-**Merlin Works Graduation Shows** were limited-run longform shows put on by [[Gnap! Theater Projects]] and [[The Merlin Works School of Improvisation]] from 2008 to 2012.
+**Merlin Works Graduation Shows** were limited-run longform shows put on by [[Gnap! Theater Projects]] and the [[Merlin Works Institute of Improvisation]] from 2008 to 2012.
 
 Each run was the culmination of the school's "601" class which specialized in creating a longform format.
+
+Beginning in 2013, Merlin Works moved to the ZACH Theatre and graduation performances became a part of [[Merlin Works Second Sundays]].
 
 ## List of Shows in Chronological Order
 {| class="wikitable"
