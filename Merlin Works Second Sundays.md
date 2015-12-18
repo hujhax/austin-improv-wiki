@@ -22,19 +22,19 @@
 |-
 |August 9, 2015||Student showcase||[[History Under the Influence]] 
 |-
-|July 12, 2015||||N/A 
+|July 12, 2015||{{Unbulleted list|Improv 301|Singing 301}}||N/A 
 |-
 |June 14, 2015||Student showcase||[[The Escorts]]
 |-
-|May 10, 2015|| ||N/A
+|May 10, 2015||{{Unbulleted list|Improv 301|Singing 301|601 presents "Let's Fake A Movie"}}||N/A
 |-
 |April 12, 2015||Student showcase||[[Brain Trust]] 
 |-
-|March 8, 2015|| ||N/A
+|March 8, 2015||{{Unbulleted list|Improv 301|Singing 301|601 presents "Small Town, Big Secret"}}||N/A
 |-
 |February 8, 2015||Student showcase||[[Miller & Purselley]] 
 |-
-|January 2015|| || 
+|January 11, 2015||Student showcase||{{Unbulleted list|[[The New Kids]]|[[Girls Girls Girls]]}}
 |-
 |December 2014|| || 
 |-
