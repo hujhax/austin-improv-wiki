@@ -26,5 +26,6 @@
 Note that this wiki is specifically for Austin improv.  There are other websites that cover more general topics:
 * For general information about improv, check out [http://wiki.improvresourcecenter.com the improv resource center].
 * For general information about Austin, check out [http://www.austin360.com/ Austin360.com].
+* For general information about the Austin comedy scene, including improv show listings, check out [http://austincomedy.info/ Last Gas Comedy].
 
 {{DISPLAYTITLE:The Austin Improv Wiki}}
