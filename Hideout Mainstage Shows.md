@@ -70,7 +70,7 @@ Starting with *[[The Great Mundane]]* in 2006, the Hideout went to a more regula
 |}
 
 ### 2009-Present
-In mid-2009, the Hideout went to a regular mainstage schedule, with a new show format every two months.  These schedules have been curated by [[Roy Janik]].
+In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv run every two months.  These schedules have been curated by [[Roy Janik]].
 
 {| class="wikitable"
 |**Start Date**||**End Date**||**Show**||**Directed by**
