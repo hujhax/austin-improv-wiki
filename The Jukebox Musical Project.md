@@ -5,7 +5,7 @@
 |Director =	{{Unbulleted list | [[Asaf Ronen]] | [[Sarah Marie Curry]] }}
 |Music Director =	{{Unbulleted list | [[Lindsey McGowen]] }}
 |Cast =	{{Unbulleted list | Various }}
-|Music =	{{Unbulleted list | [[Content Love Knowles]] (piano) | [[Allen Fisher]] (piano) | [[Courtney Hopkin]] (drums) }}
+|Music =	{{Unbulleted list | [[Content Love Knowles]] (piano) | [[Allen Fisher]] (piano/drums) | [[Tosin Awofeso] (piano)|[[Courtney Hopkin]] (drums) }}
 |Run	=	2015-Present
 }}
 
@@ -68,7 +68,6 @@ The story of Passover as told through the music of The Cure (November 2015)
 * [[Jillian Summar]] - Deborah
 * [[Luke Wallens]] - Adam
 * [[Robert Slack]] - Mica/Moses
-
 
 ### Beyonce's Wild West
 The story Annie Oakley and Calamity Jane as told through the music of Beyonce (January 2016)
