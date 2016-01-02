@@ -5,7 +5,7 @@
 |Director =	{{Unbulleted list | [[Asaf Ronen]] | [[Sarah Marie Curry]] }}
 |Music Director =	{{Unbulleted list | [[Lindsey McGowen]] }}
 |Cast =	{{Unbulleted list | Various }}
-|Music =	{{Unbulleted list | [[Content Love Knowles]] (piano) | [[Allen Fisher]] (piano/drums) | [[Tosin Awofeso] (piano)|[[Courtney Hopkin]] (drums) }}
+|Music =	{{Unbulleted list | [[Content Love Knowles]] (piano) | [[Allen Fisher]] (piano/drums) | [[Tosin Awofeso]] (piano) | [[Courtney Hopkin]] (drums) }}
 |Run	=	2015-Present
 }}
 
