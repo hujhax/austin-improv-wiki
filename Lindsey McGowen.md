@@ -39,6 +39,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 ** *Karma Police* (music director)
 ** *Renaissance Queen* (music director/cast)
 ** *Home Again: The Story of Passover* (music director)
+** *Beyonce's Wild West* (music director)
 
 ## More Information
 * [http://wikipella.org/wiki/Lindsey_McGowen Lindsey's wikipella page.]
