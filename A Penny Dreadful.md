@@ -38,6 +38,9 @@ From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - B
 * [http://cwcreations.smugmug.com/Improv-2014/A-Penny-Dreadful/20150110 Photoset] by [[Chad Wellington]] of the 1/10/15 performance.
 * [http://www.facebook.com/jay.mahavier/media_set?set=a.10208136399394142.1073741877.1425495839&type=3 Photoset] by [[Jay Mahavier]] of their 9/24/15 performance in *[[The Threefer]]*.
 
+### Videos
+* Video of their 12/6/15 show: [http://vimeo.com/148085939 part 1], [http://vimeo.com/148123314 part 2].
+
 ## More Information
 * [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17711 The cast announcement] on [[The Austin Improv Forums]].
