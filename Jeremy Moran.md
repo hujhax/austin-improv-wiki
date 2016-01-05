@@ -20,6 +20,6 @@ As an avant-garde vocalist, he performed sound poetry and experimental vocal mus
 * [[A Penny Dreadful]]
 
 ## Shows
-* *[[A Penny Dreadful]]* (stage manager)
+* *[[A Penny Dreadful]]* 
 
 [[Category/Performers|Moran]]
