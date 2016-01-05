@@ -17,8 +17,8 @@ From the show announcement:<blockquote>SAVAGE SWORDS! is a swords and sorcery ad
 </blockquote>
 
 ## More Information
-* [https://www.facebook.com/groups/hideouttheatre/permalink/998359810187123/ The show announcement] on the Hideout's facebook group.
-* [https://www.facebook.com/groups/hideouttheatre/permalink/1003211013035336/ The casting announcement.]
+* [http://www.facebook.com/groups/hideouttheatre/permalink/998359810187123/ The show announcement] on the Hideout's facebook group.
+* [http://www.facebook.com/groups/hideouttheatre/permalink/1003211013035336/ The casting announcement.]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
