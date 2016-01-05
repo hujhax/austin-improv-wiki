@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-**Jeremy Moran** is an improv performer, filmmaker, and avant-garde vocalist.
+**Jeremy Moran** is an improv performer, filmmaker, and avant-garde performance artist.
 
 ## Summary
 Jeremy Moran started taking improv classes at The Hideout in Spring 2014. Since then, he has formed the troupes [[Andrew and Jeremy Hypnotize Each Other!]] and [[Things We Don't Speak Of]], as well as performing in the student mainstage [[A Penny Dreadful]]
