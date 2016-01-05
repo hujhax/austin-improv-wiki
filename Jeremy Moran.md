@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Jeremy Moran	
-|Picture =	
+|Picture =	Jeremy Moran Pic.jpg
 |Theater = {{Unbulleted list | [[The Hideout Theatre]] | [[The Institution Theater]] }}
 |Years	=	2014-Present
 }}
