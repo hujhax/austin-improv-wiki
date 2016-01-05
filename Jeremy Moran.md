@@ -12,7 +12,7 @@ Jeremy Moran started taking improv classes at The Hideout in Spring 2014. Since 
 
 As a filmmaker, he has created numerous animated films. His next project is the animated dark comedy "Squiffle Will Die".
 
-As an avant-garde vocalist, he performed sound poetry and experimental vocal music at [[The Institution Theater]].
+He has also performed sound poetry and experimental vocal music at [[The Institution Theater]].
 
 ## Troupes
 * [[Andrew and Jeremy Hypnotize Each Other!]]
