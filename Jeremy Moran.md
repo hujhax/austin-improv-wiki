@@ -19,9 +19,7 @@ As an avant-garde vocalist, he performed sound poetry and experimental vocal mus
 * [[Things We Don't Speak Of]]
 * [[A Penny Dreadful]]
 
-
 ## Shows
 * *[[A Penny Dreadful]]* (stage manager)
-
 
 [[Category/Performers|Moran]]
