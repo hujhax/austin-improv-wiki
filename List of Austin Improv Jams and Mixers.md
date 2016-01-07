@@ -3,7 +3,7 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 ## Active Jams and Mixers
 * Every Sunday at 5pm, [[ColdTowne Theater]] hosts *[[Teen Improv Night]]* for performers under 18.
 * Every Sunday at 8pm, [[The Institution Theater]] puts on *[[The Rubber Room]]*.
-* Every Tuesday at 10pm, [[ColdTowne Theater]] hosts a long-form jam.
+* Every Sunday at 10pm, [[ColdTowne Theater]] hosts a long-form jam.
 * Every Thursday at 7pm, [[Drew Wesely]] leads [[Drew's Improv Gym]] a coached long form improv jam at House Of Tutors. 
 * The third Sunday of every month, [[Merlin Works]] puts on *[[The Merlin Works Mixer]]* at the ZACH Theater.
 * The warm-up for the monthly [[Merlin Works Second Sundays]] show is an "open warm-up" which any improviser can join.
