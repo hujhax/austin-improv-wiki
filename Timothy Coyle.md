@@ -77,6 +77,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * *[[You Bet Your Life]]* Produced by ([[Robert Slack]])
 * *[[Sinsational]]* Produced by ([[Ellen Pizarek]])
 * *[[An Apply for Teacher]]* Produced by ([[Joy Parks]])
+* *[[WaffleFest Volunteer Appreciation Show - Improv Derby]]* Produced by ([[Tim Coyle]])
 
 ## More Information
 Tim can often be seen in the audience watching [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
