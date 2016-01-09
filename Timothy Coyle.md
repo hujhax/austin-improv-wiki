@@ -56,12 +56,12 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 [[Hideout Theatre]]
 * [[Free Fringe]] 2014 - current
 * [[The Threefer]] 2014 - current
-* *[[Maestro Raw]]* (2014-Current)
+* *[[Maestro Raw]]* 2014-Current
 * [[The Weekender]] 2015 - current
-* *[[2x4]]* (2015-Current)
-* *[[Fancy Pants]]* (2015-Current)
-* *[[Maestro]]* (2015-Current)
-* *[[Hideout Student Battle Royale]]* (performer - 2015 / director - 2016)
+* *[[2x4]]* 2015-Current
+* *[[Fancy Pants]]* 2015-Current
+* *[[Maestro]]* 2015-Current
+* *[[Hideout Student Battle Royale]]* performer - 2015 / director - 2016
 
 
 
