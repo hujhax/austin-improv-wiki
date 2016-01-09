@@ -17,6 +17,12 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Andy Crouch]] Levels 4 - 6
 * [[Stuart m feild]] TA Levels 1-6
 
+
+## Directing
+[[The Hideout Theatre]]
+* [[WaffleFest Volunteer Appreciation Show - Improv Derby]] 2016
+* [[Hideout Student Battle Royale]]
+
 ## Various Workshops With
 * [[Andy Crouch]] at [[The Hideout Theatre]] 
 * [[Caitlin Sweetlamb]] at [[The Institution Theater]] - Musical Short Form Games
