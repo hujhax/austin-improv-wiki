@@ -34,7 +34,6 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Sarah Marie Curry]] at [[The Institution Theater]] - Sing Your Feelings 
 * [[Tom Booker]] at [[The Institution Theater]] - Drop In Improv Diagnostics
 * [[Austin Playback Theatre]] at [[Hideout Theatre]] - Introduction to Playback Theatre: Personal Story-Based Improv
-* [[Marc Majcher]] at Casa de Marc - Physicality and Spacework
 
 ## Coach/Mentors
 * [[Ceej Allen]]
