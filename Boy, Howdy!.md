@@ -3,6 +3,7 @@
 |Picture            = Boy, Howdy!.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Kaci Beeler]]
+|Assistant Director = [[Courtney Hopkin]]
 |Run                = Nov/Dec 2015
 |Cast               = {{Unbulleted list | [[Ace Manning]] | [[Andrew Buck]] | [[Cagney Ortiz]] | [[Cat Drago]] | [[Courtney Hopkin]] | [[David Lampe]] | [[Kaci Danger]] | [[Kareem Badr]] | [[Megan Sherrod]] | [[Nicole Oliver]] | [[Patrick Creamer]] | [[Roy Danger]] | [[Ryan Austin]] }}
 |Tech               = {{Unbulleted list | [[Lindsey McGowen]] (lights) | [[Michael Yew]] (sound) | [[Rob Yoho]] (stage manager/dramaturg)}}
