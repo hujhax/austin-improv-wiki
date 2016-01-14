@@ -132,7 +132,18 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 
 ### Season Five (2016)
 #### Cast
-TBA
+* [[Aaron Saenz]]
+* [[Angie Yaeyama]]
+* [[Courtney Hopkin]]
+* [[Chuy Zarate]]
+* [[Heather Hasselle]]
+* [[Jon Bolden]]
+* [[Kaci Beeler]]
+* [[Kareem Badr]]
+* [[Lisa Michelle Jackson]]
+* [[Luke Wallens]]
+* [[Margaret Rose Hunsicker]]
+* [[Patrick Creamer]]
 
 #### Crew
 TBA
