@@ -130,7 +130,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 #### Crew
 * [[Lindsey McGowen]] (tech director)
 
-### Season Five (2016)
+### Season Six (2016)
 #### Cast
 * [[Aaron Saenz]]
 * [[Angie Yaeyama]]
