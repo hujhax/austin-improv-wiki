@@ -129,6 +129,10 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 
 #### Crew
 * [[Lindsey McGowen]] (tech director)
+* [[Ripley Adams]]
+* [[Mike Reed]]
+* [[Norman Tran]]
+* [[Ian]]
 
 ### Season Six (2016)
 #### Cast
