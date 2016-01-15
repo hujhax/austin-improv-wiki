@@ -21,6 +21,7 @@ A post from [[Roy Janik]] about the first improv show Kacey ever saw:<blockquote
 * [[The Plagiarists]]
 * [[The Library]]
 * [[Duck Duck Boom]]
+* [[Confidence Men]] (Guest Star)
 
 ## Shows
 * *[[After School Improv]]*
