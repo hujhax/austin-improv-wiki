@@ -53,6 +53,7 @@ The following performers joined the troupe in 2000:
 * [[Brett Webster]]
 * [[Bryan Kent]]
 * [[Chelsea Adland]]
+* [[Kacey Samiee]]
 * [[David Lowey]]
 * [[Kari Malek]]
 * [[Korey Simeone]]
