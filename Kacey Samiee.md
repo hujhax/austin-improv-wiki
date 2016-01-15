@@ -33,6 +33,7 @@ A post from [[Roy Janik]] about the first improv show Kacey ever saw:<blockquote
 * *[[Happily Ever After]]*
 * *[[Tarantula]]*
 * *[[Song Runner]]* (director)
+* *[[Lonely Star]]* (Guest Star)
 
 [[Category/Performers|Samiee]]
 [[Category/Directors|Samiee]]
