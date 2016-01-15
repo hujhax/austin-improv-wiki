@@ -25,7 +25,6 @@ A post from [[Roy Janik]] about the first improv show Kacey ever saw:<blockquote
 * [[American Standard]]
 * [[Louder Than Words]]
 * [[Heroes of Comedy]]
-* [[We Could Be Heroes]]
 
 ## Shows
 * *[[After School Improv]]*
