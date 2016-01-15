@@ -48,4 +48,5 @@ A post from [[Roy Janik]] about the first improv show Kacey ever saw:<blockquote
 * *[[More or Less]]*
 
 [[Category/Performers|Samiee]]
+[[Category/Teachers|Samiee]]
 [[Category/Directors|Samiee]]
