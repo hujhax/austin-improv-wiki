@@ -5,10 +5,11 @@
 |Years	=	2000-Present
 }}
 
-**Kacey Samiee** ([[Wikipedia - Help - IPA for English#Key|/ˈsæmiːˌiː/]]) is an improv performer and director. She teaches Improvised Singing at the [[Hideout Theatre]].
+**Kacey Samiee** ([[Wikipedia - Help - IPA for English#Key|/ˈsæmiːˌiː/]]) is a performer, director, coach, teacher, and singer of improv.  
 
 ## History
-A post from [[Roy Janik]] about the first improv show Kacey ever saw:<blockquote>Talking with Kacey last night, she said that the first ever improv show she saw was [[Well Hung Jury|The Free Falling Mouth Actors]] (I think), at Westwood High, which I think was just The Well Hung Jury in disguise, because they couldn't perform at a highschool with their dick joke of a name.</blockquote>
+Kacey started doing improv since 2000 as a member of [[The Hideout]] Theatre's house troupe, [[We Could Be Heroes]]. A few years later she started directing and coaching both short form and narrative shows. In 2001 Kacey became a founding member of [[Girls Girls Girls]] and was a co-creator of the first musical improv troupe in austin. She spent the next decade helping to develop, and refine the technique of musical improv with GIrls Girls Girls until she left in 2010. In 2013 she created the curriculum for three levels of musical improv at the hideout theatre and began to teach. In 2015 she signed on to teach regular improv at the same institution as well.  
+
 
 ## Troupes
 * [[The Awkwards]]
