@@ -38,6 +38,11 @@ A post from [[Roy Janik]] about the first improv show Kacey ever saw:<blockquote
 * *[[Lonely Star]]* (Guest Star)
 * *[[Cops & Lawyers]]*
 * *[[Asafapalooza]]*
+* *[[Theatresports]]* (Director and Player)
+* *[[Micetro]]* (Director and Player)
+* *[[Gorilla Theatre]]*
+* *[[Six Degrees]]*
+* *[[More or Less]]*
 
 [[Category/Performers|Samiee]]
 [[Category/Directors|Samiee]]
