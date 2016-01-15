@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Mike Reed
 |Picture =	Mike Reed Pic.jpg
-|Theater=	[[The Hideout Theatre]]
+|Theater=	[[The Hideout Theatre]], [[The Institution Theater]]
 |Years	=	2013-Present
 }}
 
