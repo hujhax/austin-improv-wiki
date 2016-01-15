@@ -20,6 +20,7 @@ A post from [[Roy Janik]] about the first improv show Kacey ever saw:<blockquote
 * [[Junk]]
 * [[The Plagiarists]]
 * [[The Library]]
+* [[Duck Duck Boom]]
 
 ## Shows
 * *[[After School Improv]]*
