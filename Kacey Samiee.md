@@ -35,6 +35,7 @@ A post from [[Roy Janik]] about the first improv show Kacey ever saw:<blockquote
 * *[[Tarantula]]*
 * *[[Song Runner]]* (director)
 * *[[Lonely Star]]* (Guest Star)
+* *[[Cops & Lawyers]]*
 
 [[Category/Performers|Samiee]]
 [[Category/Directors|Samiee]]
