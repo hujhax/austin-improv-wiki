@@ -39,7 +39,7 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 ## More Information
 * [http://www.austinandaustin.us/ The duo's website.]
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
-* Show Count: 18 (as of 11/20/2015)
+* Show Count: 19 (as of 01/15/2016)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
