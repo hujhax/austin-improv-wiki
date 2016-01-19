@@ -1,7 +1,7 @@
 {{Infobox Performer
 |	=	Quinn Buckner	
 |Picture =	10265436 731735563556629 9022827585682735943 o.jpg
-|Theater=	{{Unbulleted list|[[The Hideout Theatre]] | [[Salvage Vanguard Theater]] | [[ZACH theater]]}}
+|Theater=	{{Unbulleted list|[[The Hideout Theatre]]}}
 |Years	=	2009-Present
 }}
 
@@ -46,6 +46,7 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 *2015 - Improvised Play Festival - *[[Austin Secrets]]*
 *2015 - [[46-Hour Improv Marathon]]
 *2015 - The Out Of Bounds Comedy Festival - [[Austin-Austin]], [[Tastemakers]], *[[Thunderdome]]*
+*2016 - Frontera Fest - [[Austin-Austin]]
 
 ## More Information
 * [http://yesandrew.com/the-sunday-interview-quinn-buckner-2/ Interview] by [[Andrew Buck]].
