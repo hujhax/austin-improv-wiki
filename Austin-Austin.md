@@ -12,7 +12,8 @@
 #### Don't Worry About it
 Basic montage with the stipulation that each scene end with the phrase "Don't Worry About It" as organically as possible. Its the goal that the audience (and maybe even players) become so engaged in the scene that they forget the phrase is coming.
 #### Dungeon Masters
-Montage set in a fantasy world that gets created at the top of the show with a Mad Libs style narration.
+Loose proximity based scenes set in a primarily medieval fantasy world. After an pulling inspiration from 1 of 3 Dungeons and Dragons books (Gear, Monsters and NPCs), an initial scene serves as the base scene in which all the other scenes take places around or during either directly or indirectly. E.g an explosion in one scene may happen in another scene but far away
+
 ### Other Formats
 #### Two Lost Brothers
 More grounded narrative in which Ryan and Quinn play two brothers that become lost in a place decided at the top of the show. Potentially a mono-scene depending on if the brothers are forced to split up. To grab the suggestion they inverse the classic "audience yells out something and the troupe picks something they like" standard for Ryan rambling off locations that they haven't been to yet and the audience picking what they like.
