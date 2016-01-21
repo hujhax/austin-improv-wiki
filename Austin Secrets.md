@@ -132,7 +132,7 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Ripley Adams]]
 * [[Mike Reed]]
 * [[Norman Tran]]
-* [[Ian]]
+* [[Ian Markot]]
 
 ### Season Six (2016)
 #### Cast
