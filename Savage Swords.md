@@ -6,7 +6,7 @@
 |Assistant Director = [[Ryan Hill]]
 |Run                = Jan/Feb 2016
 |Cast               = {{Unbulleted list | [[Ace Manning]] | [[Angie Yaeyama]] | [[Audrey Rachel Sansom]] | [[Jayme Ramsay]] | [[JM Specht]] | [[Jordan T. Maxwell]] | [[J.R. Zambrano]] | [[Manuel Duran]] | [[Peter Rogers]] | [[Rosemarie Frezza]] | [[Roy Danger]] | [[Shannon McCormick]] | [[Suzanne Link]] }}
-|Tech               = {{Unbulleted list | [[Lindsey McGowen]] (technical director/lights) | [[Michael Yew]] (scoring) | [[Cindy Page]] (sound effects, costume director)}}
+|Tech               = {{Unbulleted list | [[Lindsey McGowen]] (technical director/lights) | [[Michael Yew]] (scoring) | [[Cindy Page]] (sound effects, costume director) | [[Jay Mahavier]] (swing tech) | [[Rob Yoho]] (stage manager)}}
 }}
 
 ***Savage Swords*** will be the January/February 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
