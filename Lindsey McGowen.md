@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-**Lindsey McGowen** is a technical improvisor and transplant from Detroit.
+**Lindsey McGowen** is a technical improvisor, Co-Technical Director of [[The Hideout Theatre]], and transplant from Detroit.
 
 ## Summary
 Lindsey has an expensive piece of paper that says she knows stuff about technical theater, studying stage management and lighting design at Case Western Reserve University. She also occasionally ran tech for CWRU's  collegiate improv troupe Improvment. Upon graduating, she decided that theater-as-a-day-job was not as fun as it looked and took a hiatus from theater from 2006-2013. 
