@@ -69,8 +69,8 @@ The story of Passover as told through the music of The Cure (November 2015)
 * [[Luke Wallens]] - Adam
 * [[Robert Slack]] - Mica/Moses
 
-### Beyonce's Wild West
-The story Annie Oakley and Calamity Jane as told through the music of Beyonce (January 2016)
+### Women of the Wild West
+The story of Annie Oakley and Calamity Jane as told through the music of Beyoncé (January 2016).
 #### Cast
 * [[Emily Cawood]] - May Lillie
 * [[Kim Stacy]] - Lillian Smith
