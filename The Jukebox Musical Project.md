@@ -18,7 +18,7 @@ The individual musicals run for two performances each, every other month.
 
 ## Shows
 ### The Black Death
-Set during The Black Plague and featuring music by the Smashing Pumpkins (March 2015)
+Set during The Black Plague and featuring music by [[Wikipedia - The Smashing Pumpkins|the Smashing Pumpkins]] (March 2015)
 #### Cast
 * [[Jordan T. Maxwell]]
 * [[Emily Cawood]]
@@ -28,7 +28,7 @@ Set during The Black Plague and featuring music by the Smashing Pumpkins (March 
 * [[Luke Wallens]]
 
 ### In the Air Tonight
-Set during the USA/USSR space race of the 1970s and featuring music by Phil Collins (May 2015)
+Set during the USA/USSR space race of the 1970s and featuring music by [[Wikipedia - Phil Collins|Phil Collins]] (May 2015)
 #### Cast
 * [[Clint Harris]]
 * [[Jordan T. Maxwell]]
@@ -38,7 +38,7 @@ Set during the USA/USSR space race of the 1970s and featuring music by Phil Coll
 * [[Jill Summar]]
 
 ### Karma Police
-Set during the Salem Witch Trials and featuring music by Radiohead (July 2015)
+Set during the Salem Witch Trials and featuring music by [[Wikipedia - Radiohead|Radiohead]] (July 2015)
 #### Cast
 * [[Jordan T. Maxwell]]
 * [[Sarah Marie Curry]]
@@ -50,7 +50,7 @@ Set during the Salem Witch Trials and featuring music by Radiohead (July 2015)
 * [[Kelly Campbell]]
 
 ### Renaissance Queen
-Set during the Italian Renaissance and featuring music by Queen (October 2015)
+Set during the Italian Renaissance and featuring music by [[Wikipedia - Queen (band)|Queen]] (October 2015)
 #### Cast
 * [[Peter Rogers]] - Leonardo
 * [[Bryan Curry]] - Michelangelo
@@ -60,7 +60,7 @@ Set during the Italian Renaissance and featuring music by Queen (October 2015)
 * [[Lindsey McGowen]] - Chorus/Mother/Medici
 
 ### Home Again: The Story of Passover
-The story of Passover as told through the music of The Cure (November 2015)
+The story of Passover as told through the music of [[Wikipedia - The Cure|The Cure]] (November 2015)
 #### Cast
 * [[Nicholaus Weindel]] - Aaron
 * [[Kim Stacy]] - Shana
@@ -70,7 +70,7 @@ The story of Passover as told through the music of The Cure (November 2015)
 * [[Robert Slack]] - Mica/Moses
 
 ### Women of the Wild West
-The story of Annie Oakley and Calamity Jane as told through the music of Beyoncé (January 2016).
+The story of Annie Oakley and Calamity Jane as told through the music of [[Wikipedia - Beyoncé|Beyoncé]] (January 2016).
 #### Cast
 * [[Emily Cawood]] - May Lillie
 * [[Kim Stacy]] - Lillian Smith
