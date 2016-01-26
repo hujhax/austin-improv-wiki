@@ -3,9 +3,10 @@
 |Picture            = Fiasco Placeholder.png
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Peter Rogers]]
+|Assistant Director = [[Kevin Miller]]
 |Run                = May/June 2016
 |Cast               = TBA
-|Tech               = TBA
+|Tech               = {{Unbulleted list | [[Joy Parks]] (Stage Manager) | [[Lindsey McGowen]] (Tech Director)}}
 }}
 
 ***Fiasco*** will be the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
