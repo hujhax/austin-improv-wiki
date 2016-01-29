@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name = The Source	
-|Picture =	The Source.jpg
+|Picture =	The Source Poster.jpg
 |Theater = [[The Institution Theater]]
 |Director =	{{Unbulleted list | [[Audrey Rachel Sansom]] | [[Tom Booker]] }}
 |Cast =	{{Unbulleted list | [[Celena A Diamond]] | [[Gene Zhou]] | [[Hanna AbuZayed]] | [[Jayme Ramsay]] | [[Joseph Tran]] | [[KC Harvey-Taylor]] | [[Lahari Samineni]] | [[Lena Long]] | [[Marc Majcher]] | [[Sammy Boss]] | [[Scott Hearne]] }}
