@@ -1,1 +1,20 @@
-Hey I’m new here. I'm not certain if "/index.php?title=Southern_Hospitality%27s_Cardboard_Coffin&action=edit" is the right place to post this, but I'm wondering if anyone has tasted Athletic Greens for their green drink? I'm seeing that most either taste overpowering or cause my stomach to revolt.
+{{Infobox Troupe
+|Name	=		Southern Hospitality's Cardboard Coffin
+|Cast	=	{{ Unbulleted list | [[Collin Cannaday]] | [[Frank Willmore]] | [[Gene Joe]] | [[Jenny Carlson]] | [[Kim Gottschalk]] | [[Lizzie Leslie]] | [[Melanie DeMartinis]] | [[Meredith Newell]] | [[Sandra Ybarra]] }}
+|Years	=		2010
+}}
+
+**Southern Hospitality's Cardboard Coffin** was an improv troupe.
+
+## Summary
+### Press Blurb
+Their press blurb, taken from a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Plucky Southerners explore the subtle truths in life. Every action has unintended consequences. Hilarity ensues.</blockquote>
+
+### "What's Your Deal?"
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Each scene takes something that is true about the previous scene and explores what else would be true as a consequence.  Scenes are edited without sweep edits.</blockquote>
+
+## History
+They played one Cagematch on 8/7/10.
+
+[[Category/Troupes|Category:Troupes]]
+[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
