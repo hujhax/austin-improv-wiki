@@ -64,7 +64,6 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * *[[Hideout Student Battle Royale]]* performer - 2015 / director - 2016
 
 
-
 [[ColdTowne Theater]]
 * [[The Monday Night Mash]] 2015 - current
 * [[The Cagematch]] 2015 - current
@@ -72,6 +71,10 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 
 [[The Institution Theater]]
 * [[The Improv Mixtape]] 2015 - current
+
+
+[[The New Movement]]
+* [[KNOCK-OUT]] 2015 - current
 
 ## Free Fringes
 * *[[All Stars and Me]]* Produced by ([[Tim Coyle]])
