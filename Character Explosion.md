@@ -31,6 +31,8 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 * [[The Improv Mixtape]] 2015 - current
 
 
+[[The New Movememt]]
+* [[KNOCK-OUT]] 2015 - current
 
 ### Coaches
 * [[Robert Slack]] is both a member of the troupe and coach, bringing his Improv experience from Los Angeles and Dallas - Ft Worth to the troupe.
