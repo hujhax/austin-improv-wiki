@@ -12,6 +12,8 @@ In December of 2012, she moved to the San Francisco Bay Area, and then married T
 
 ## Troupes
 * [[Kosher Bacon]]
+* [[WIG]]
+* [[Lady Cops]]
 
 ## Shows
 * *[[Off the Reef]]*
