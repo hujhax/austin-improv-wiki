@@ -4,8 +4,8 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Manuel Duran]] | [[Roy Janik]] }}
 |Run                = Apr 2016
-|Cast               = TBA
-|Tech               = TBA
+|Cast               = {{Unbulleted list | [[Ann Symmonds]] | [[Benjamin Blattberg]] | [[Jenn Hamm]] | [[Judy Blackshear]] | [[Kathie Xiao]] | [[Paül Ramone Weiner]] | [[Phil Morin]] | [[R Lance Hunter]] | [[Rachel Posey Austin]] | [[Tosin Awofeso]] }}
+|Tech               = {{Unbulleted list | [[Brianna Minks]] | [[Cindy Page]] (tech director) | [[Monica Wells]] | [[Nick Amsden]] | [[Sandra Ybarra]] (stage manager) }}
 }}
 
 ***Origins*** will be the April 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
