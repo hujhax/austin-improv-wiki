@@ -12,7 +12,10 @@
 ***183 Dewberry Lane*** will be the February 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
-### Publicity Blurb
+A delightful family, much like yours, but perhaps even better, moves into a charming new home. The neighborhood is perfect, and everyone is getting along so well! It’s probably best to ignore the faucet dripping blood, or the curtains that try and choke people who walk by them at midnight or that porcelain clown that keeps trying to throw the baby out the window.
+
+You know…maybe there is something a little strange about that house on 183 Dewberry Lane.
+
 From the show announcement:<blockquote>Don't Blink.  Don't Sleep.  There's Something in the House.  Something otherworldly inhabits 183 Deberry Lane.  For its new residents, that's a draw.  It's all fun and games... until someone loses a life.
 </blockquote>
 
