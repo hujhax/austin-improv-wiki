@@ -12,9 +12,11 @@
 ***Tall Tales of the High Seas*** is an upcoming pirate-themed mainstage improv show.
 
 ## Summary
-Two notorious pirate captains square off in an epic story-telling duel
-over their most famous swashbuckling exploits. 
-Sword fights! Giant squids! Shanties! And general oceanic mayhem!
+Pirates: loveable rogues, intrepid adventurers, notorious criminals. For young and old alike pirate stories evoke the spirit of danger, freedom and flamboyant eccentricities like no other genre. Follow our bigger than life characters into the golden age of swashbuckling where masts will split, cutlasses will shatter… but the truth will just be slightly bent.
+
+Inspired by works like Treasure Island, Baron von Münchausen, Stardust and the Crimson Pirate we will spin totally, absolutely true yarns of bodice-ripping romance, unspeakable danger, sword-fights and exotic locations.
+
+Every week two pirate captains will tell competing made-up stories based on audience suggestions. These tales are brought to life by our cast of improvisers and rated by the audience. The winner gets gold and glory, the loser gets put in the Tickle Sack… or worse.
 
 It runs Fridays from 2/5/16 to 3/11/16.
 
