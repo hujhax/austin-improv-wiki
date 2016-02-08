@@ -30,7 +30,7 @@ It runs Fridays from 2/5/16 to 3/11/16.
 * [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/High-Seas-Fun-Shots/ additional photos] shot by *[[Steve Rogers]]*.
 
 ### Videos
-* [https://www.youtube.com/watch?v=Lk9wECZnRmc 2/5/16 performance] (Astrid the Adventurous vs. Barnacle Bertram at the *[[Institution Theater]]*.
+* [https://www.youtube.com/watch?v=Lk9wECZnRmc 2/5/16 performance] (Astrid the Adventurous vs. Barnacle Bertram) at the *[[Institution Theater]]*.
 
 [[Category/Shows|Category:Shows]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
