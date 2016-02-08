@@ -8,7 +8,7 @@
 |Run	=	2015 - Present
 }}
 
-***Improv Anonymous*** is a show that uses interviews and improv to explore mental issues such as addiction, anxiety, and depression.
+***Improv Anonymous*** is a show that uses interviews and improv to explore mental health issues such as addiction, anxiety, and depression.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]
