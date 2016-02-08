@@ -31,6 +31,10 @@ It runs Fridays from 2/5/16 to 3/11/16.
 
 ### Videos
 * [https://www.youtube.com/watch?v=Lk9wECZnRmc 2/5/16 performance] (Astrid the Adventurous vs. Barnacle Bertram) at the *[[Institution Theater]]*.
+* [https://www.youtube.com/watch?v=uN09ZZhBOnk Astrid the Adventurous promo video] 
+* [https://www.youtube.com/watch?v=wfYKHLRf2zc Barnacle Bertram promo video] 
+* [https://www.youtube.com/watch?v=QrXYN2x6Ktc Countess Crescendo promo video]
+* [https://www.youtube.com/watch?v=FjmMsDkuK88 Sahib Akbar promo video]
 
 [[Category/Shows|Category:Shows]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
