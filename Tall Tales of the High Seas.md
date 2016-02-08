@@ -23,5 +23,14 @@ It runs Fridays from 2/5/16 to 3/11/16.
 ## More Information
 * [http://www.facebook.com/groups/austinimprov/permalink/1002021666507554/ The cast announcement.]
 
+### Photos
+* [https://www.facebook.com/michael.yew/media_set?set=a.10205561492499409.1073741980.1315383518&type=3 5/17/12 performance] shot by *[[Michael Yew]]*.
+* [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/High-Seas/ poster photos] shot by *[[Steve Rogers]]*.
+* [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/High-Seas-Profile-and-other/ portrait photos] shot by *[[Steve Rogers]]*.
+* [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/High-Seas-Fun-Shots/ additional photos] shot by *[[Steve Rogers]]*.
+
+### Videos
+* [https://www.youtube.com/watch?v=Lk9wECZnRmc 2/5/16 performance] (Astrid the Adventurous vs. Barnacle Bertram at the *[[Institution Theater]]*.
+
 [[Category/Shows|Category:Shows]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
