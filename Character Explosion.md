@@ -42,6 +42,8 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 Started as a Free Fringe :
 * *[[Ceej Character Explosion]]* ([[Ceej Allen]])
 
+Debuted February 12, 2015 in the Threefer as a troupe
+
 Original Members of the troupe include [[Cagney Ortiz]], [[Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]], [[Robert Slack]], [[Tim Coyle]] and [[Sushant Sethi]].
 
 The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Ceej Allen]].  
