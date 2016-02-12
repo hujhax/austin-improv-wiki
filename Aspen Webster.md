@@ -16,6 +16,7 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 * *[[The Ladies Room]]* (2015)
 * *[[Four Chambers]]* (2015)
 * *[[Close Up]]* (2015)
+* *[[Lonely Star]]* (2015) (Assistant Director)
 * *[[183 Dewberry Lane]]* (2016)
 
 ## Troupes
