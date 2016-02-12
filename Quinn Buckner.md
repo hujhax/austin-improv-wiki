@@ -1,7 +1,8 @@
 {{Infobox Performer
 |	=	Quinn Buckner	
 |Picture =	10265436 731735563556629 9022827585682735943 o.jpg
-|Theater=	{{Unbulleted list|[[The Hideout Theatre]]}}
+|Theater=	[[The Hideout Theatre]]
+|Teacher = [[The Hideout Theatre]]
 |Years	=	2009-Present
 }}
 
