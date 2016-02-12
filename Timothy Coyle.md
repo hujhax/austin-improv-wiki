@@ -88,15 +88,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * *[[Sinsational]]* Produced by ([[Ellen Pizarek]])
 * *[[An Apply for Teacher]]* Produced by ([[Joy Parks]])
 * *[[WaffleFest Volunteer Appreciation Show - Improv Derby]]* Produced by ([[Tim Coyle]])
-
-## Production
-* 46 Hour Marathon - Donations Captain 2015
-* WaffleFest Co-Producer 2015
-
-
-
-## More Information
-Tim can often be seen in the audience watching [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
+* *[[Bronze]]* Produced by ([[Mitchell Deane]) == Production ==  46 Hour Marathon - Donations Captain 2015  WaffleFest Co-Producer 2015 == More Information == Tim can often be seen in the audience watching [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
 
 Depending on what crowd Tim is in, he has multiple nicknames including:
 * Cubbie - which he earned due to his love of the Chicago Cubs as a member of the TXRD Board Whores
