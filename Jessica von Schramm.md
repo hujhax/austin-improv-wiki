@@ -16,6 +16,7 @@ Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in 
 * [[Golden]]
 * [[Minority Report]]
 * [[Things We Don't Speak Of]]
+* [[AJAR]]
 
 ## Shows
 * *[[A Penny Dreadful]]*
