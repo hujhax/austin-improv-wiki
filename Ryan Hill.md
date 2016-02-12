@@ -40,6 +40,7 @@ He is also a musician and has played for [[I Love You So Much]] with the band [[
 * *[[The Next Chapter]]*
 * *[[Not This American Life]]*
 * *[[Risen]]*
+* *[[Fragile Rock]]* (musician)
 * *[[Trust No One]]* (Assistant Director)
 * *[[Savage Swords]]* (Assistant Director)
 
