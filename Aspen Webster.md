@@ -19,7 +19,6 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 * *[[183 Dewberry Lane]]* (2016)
 
 ## Troupes
-* [[Physics Curse]] (2014)
 * [[History Under the Influence]] (2015)
 
 [[Category/Performers|Webster]]
