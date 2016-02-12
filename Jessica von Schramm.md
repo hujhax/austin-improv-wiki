@@ -23,6 +23,7 @@ Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in 
 * *[[Happily Ever After]]* (stage manager)
 * *[[Home for the Holidays]]*
 * *[[Control Issues]]*
+* *[[2016 Student Appreciation Show]]* (director/producer)
 
 ## Festivals
 * [[The 2015 Improvised Play Festival]]
