@@ -35,6 +35,8 @@ It runs Fridays from 2/5/16 to 3/11/16.
 * [https://www.youtube.com/watch?v=wfYKHLRf2zc Barnacle Bertram promo video] 
 * [https://www.youtube.com/watch?v=QrXYN2x6Ktc Countess Crescendo promo video]
 * [https://www.youtube.com/watch?v=FjmMsDkuK88 Sahib Akbar promo video]
+* [https://www.youtube.com/watch?v=FPg-e0NHPz8 Captain Zatara promo video]
+* [https://www.youtube.com/watch?v=0V7SuO9uCQE Briny Bob Bilgewater promo video]
 
 [[Category/Shows|Category:Shows]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
