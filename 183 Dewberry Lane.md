@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = 183 Dewberry Lane
-|Picture            = 183 Dewberry Lane Placeholder Image.jpg
+|Picture            = 183 Dewberry Lane Poster.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Caeriel Crestin]]
 |Assistant Director = [[J. R. Zambrano]]
