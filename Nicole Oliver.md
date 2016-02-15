@@ -24,6 +24,9 @@ Nicole started doing improv with Massive Improv from Houston from 2005-2007. Wit
 * *[[A Bedtime Gorey]]*
 * *[[Reform School for Wayward Girls]]*
 * *[[Wanderlust]]*
+* *[[Scene of the Crime]]*
+* *[[The Ladies Room]]*
+* *[[Boy, Howdy!]]*
 
 [[Category/Performers|Oliver]]
 [[Category/Active|Category:Active]]
