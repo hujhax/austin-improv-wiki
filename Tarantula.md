@@ -27,6 +27,18 @@ Tarantula is a combination of improv and live music melding together in the most
 The show is produced and/or curated (depending on your loose definition in a formless form thingy whats-it) by [[Sarah Marie Curry]], who originated the idea after a production meeting for [[The Staple Shows]] at The Institution Theater, wherein she was asked to create a long running show to reduce the strain of turning over multiple new productions at once. She was asked what she thought would be marketable, enduring and inspiring. She came up with TARANTULA instead. The name came from thinking of insects (*Mayfly*) and that the cast is often made of eight improvisors, and the work they do endeavors to be beautiful and scary. 
 
 ### Casts
+#### February 13th, 2016
+* [[Sam Schack]]
+* [[Sarah Marie Curry]]
+* [[Megan Mowry]]
+* [[Tom Booker]]
+* [[Jeremy Moran]]
+* [[Michael Ferstenfeld]]
+* [[Luke Wallens]]
+* [[Adam Mengesha]]
+
+* Musician: [[Ben Laussade]]
+
 #### January 9th, 2016
 * [[Amanda Smith]]
 * [[Courtney Hopkin]]
