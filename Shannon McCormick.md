@@ -37,6 +37,7 @@ A post from him about the first improv show he ever saw:<blockquote> <p>I'm sure
 * [[We Could Be Heroes]]
 
 ## Shows
+* *[[Kenjutsu]]* (performer/director)
 * *[[Lola]]* (director)
 
 ## More Information
