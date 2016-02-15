@@ -12,6 +12,7 @@ Mary has participated in numerous improv workshops including [[Sarah Marie Curry
 
 ## Troupe
 * [[Illuminati]]
+*[[Greystone Musical Improv]]
 
 ## Shows
 * *[[Buzz Band]]*
