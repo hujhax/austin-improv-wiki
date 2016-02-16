@@ -26,8 +26,10 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Austin Secrets]]*
 * *[[The Black Vault]]*
 * *[[Charles Dickens Unleashed]]*
+* *[[Control Issues]]* (director)
 * *[[Fakespeare]]*
 * *[[Fandom]]*
+* *[[Fiasco]]* (director)
 * *[[GrimmNoir]]*
 * *[[History Under the Influence]]*
 * *[[Improvised Shakespeare]]*
