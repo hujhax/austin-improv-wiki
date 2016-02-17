@@ -20,6 +20,7 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 
 ## Media
 ### Videos
+* [https://vimeo.com/155697081 Dungeon Masters debut] 02/12/2016
 * [https://vimeo.com/147039373 WaffleFest ] 11/20/2015
 * [https://vimeo.com/129337041 Pgraph presents] 05/29/2015
 * [https://vimeo.com/128801763 05/2015] in the 2x4
@@ -38,7 +39,7 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 ## More Information
 * [http://www.austinandaustin.us/ The duo's website.]
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
-* Show Count: 19 (as of 01/15/2016)
+* Show Count: 21 (as of 02/12/2016)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
