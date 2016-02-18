@@ -1,1 +1,5 @@
-Get  any Desired College Degree, In less then 2 weeks.Call this number now 24 hours a day 7 days a week (413) 208-3069Get these Degrees NOW!!! BA ,  BSc ,  MA ,  MSc ,  MBA ,  PHD , Get evhityerng within 2 weeks.100% verifiable, this is a real dealAct now you owe it to your future.(413) 208-3069 call now 24 hours a day, 7 days a week.
+**Code Blue** was one of the many troupes that performed during Austin's Improv [[History of Austin Improv#The Boom and the Bust|"Boom"]] period of the mid-to-late 1990's. They were frequently featured at [[The Velveeta Room]].
+
+{{stub}}
+
+[[Category/Troupes|Category:Troupes]]
