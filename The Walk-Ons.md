@@ -7,5 +7,4 @@
 **The Walk-Ons** was a [[Gnap!]] house troupe, assembled and coached by [[Jason Vines]]. They played four performances in January of 2011.
 
 
-[[Category/Inactive|Category:Inactive]]
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Walk-Ons]]
