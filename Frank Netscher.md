@@ -7,7 +7,9 @@
 
 **Frank Netscher** is an improv performer.
 
-ச ர யன  ர ச  சந த ரன  மந த ர  ச க க ரன  தளபத சன  ச ப ப ய ச வ வ ய  க த ர      ர க  க த  இல ல  ப தன  இல ல .ய ன  .. ய ர  க ர வ க த ன  இர க க வ ண ட ம ...என ந ன க க ரன ..என  ப ர தல  சர ய . இன ன ர  க ள வ  .. ச ர யன  சந த ரன  தவ ர மற ற க ரகங கள  ஏன  இரண ட க உள ளத ..?  2 ய ன    , 2 தல பத  i  2 க த ர   . ஏன  ..pls remove word vaeificrtion its a bit harder to post comment
+## Summary
+From [http://www.coldtownetheater.com/performer/frank-netscher his bio page on the ColdTowne Theater site]:
+<blockquote>I've been performing and studying improv and sketch since 2009. I'm based out of [[ColdTowne Theater]], but I’ve studied with teachers from iO, Second City, Annoyance, BATS, UCB, ImproMelbourne, The Institution and The Hideout. I've performed in NYC, Melbourne, and on YouTube. I hate summer homework.</blockquote>
 
 ## Troupes
 * [[Array]]
