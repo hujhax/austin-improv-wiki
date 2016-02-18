@@ -121,33 +121,7 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * The Victims (Dallas)
 * Villain: The Musical (Oklahoma City)
 
-### Stand-Up Performers
-* Aalap Patel (NYC)
-* Ahmed Bharoocha (Providence)
-* Albert Im (Austin)
-* Aparna Nancherla (Washington, D. C.)
-* Bernard (Austin)
-* Brian Gaar (Austin)
-* Bryan Gutmann (Austin)
-* Emily Tarver (NYC)
-* Evan Jacobs (NYC)
-* Holly Lorka (Austin)
-* Jake Flores (Austin)
-* Jonathan Pace (Austin)
-* Jono Zalay (Boston)
-* Kabir Singh (San Francisco)
-* Kerri Lendo (Austin)
-* Lashonda Lester (Austin)
-* Lydia O’Neil (Houston)
-* Maggie Maye (Austin)
-* Martha Kelly (Austin)
-* Max Fox (Boston)
-* Ramin Nazer (Austin)
-* Sammy K Obeid (San Francisco)
-* Sarah Heggan (Boston)
-* Sean Wilkinson (Boston)
-* Selena Coppock (NYC)
-* Will Durst (San Francisco)
+Well, if you are -really- interested in what I am tinhking, it would be nice if I could read and react about these things on the front page (or news page) of pear.php.net instead of finding out about this on a blog I just discovered through a 3rd party site. Tell me, where is that link from pear.php.net to this blog anyway? Thanks.
 
 ## Media
 ### Videos
