@@ -8,3 +8,5 @@
 **Fatbuckle** was a short-form improv troupe.
 
 [[Category/Troupes|Category:Troupes]]
+
+{{stub}}
