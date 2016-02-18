@@ -9,5 +9,5 @@
 ## History
 They played one Cagematch on 5/7/11.
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Mexican Free-Tailed Bat]]
 [[Category/Only One Performance|Category:Only One Performance]]
