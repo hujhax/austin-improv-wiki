@@ -17,7 +17,12 @@ A post from her about the first improv show she ever saw:<blockquote><p>My siste
 
 <p>Then, I came back to Austin a few months later. I went to a [[Pgraph]] show with my friend who had free tickets because she was taking an improv class. The show stuck in my mind because I'd never seen an improvised narrative, and I certainly had never seen any dramatic improv. It was their Eris format and [[Roy Janik|Roy]]'s character died or disappeared in space or something. I hate sci-fi, but I loved that show because it wasn't really about sci-fi at all; it was about people and feelings.</p> </blockquote>
 
-SisFollow in brother's fottsoeps?  I'm thinking of a place where spanish is the main language.  I understand it pretty well and could see myself taking a siesta every afternoon.  Need to live in A-town for 6 mos to a year then we'll see where the wind takes me.  Preferably somewhere where I can climb daily!!!
+## Troupes
+* [[Dance Card]]
+* [[The Nesting Dolls]]
+* [[Nice Save]]
+* [[Royston]]
+* [[Sugarbakers]]
 
 ## Shows
 * *[[Austin Secrets]]*
