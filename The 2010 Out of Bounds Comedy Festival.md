@@ -1,1 +1,1 @@
-Still many sites blocked with No data rveeicedUnable to load the webpage because the server sent no data.Here are some suggestions:Reload this webpage later.Error 324 (net::ERR_EMPTY_RESPONSE): The server closed the connection without sending any data.
+Hi Clarence   I am very sorry for this extremely late reply -we were havnig major web problems! You can absolutely improve your condition by strengthening muscles in your leg. If you think of those muscles like shock absorbers, then the stronger they are, the less stress you put on your knee.
