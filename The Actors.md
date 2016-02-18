@@ -9,5 +9,5 @@
 ## History
 They played one Cagematch on 11/14/12.
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Actors]]
 [[Category/Only One Performance|Category:Only One Performance]]
