@@ -1,1 +1,1 @@
-Still many sites blocked with No data reeeivcdUnable to load the webpage because the server sent no data.Here are some suggestions:Reload this webpage later.Error 324 (net::ERR_EMPTY_RESPONSE): The server closed the connection without sending any data.
+Nicole   you are awesome at weinddgs! These totally rock! Great processing, color and you captured so many different emotions and special times at this wedding! Your bride and groom were lucky to have you!
