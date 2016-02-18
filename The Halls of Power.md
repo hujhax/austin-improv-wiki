@@ -17,4 +17,4 @@ The troupe played Cagematches on 12/13/07 and 1/12/08.
 
 The bit of typing at a typewriter and muttering "business business business" originated with [[Tami Nelson]] in one of this troupe's shows.
 
-[[Category/Troupes|Category:Troupes]]
+[[Category/Troupes|Halls of Power]]
