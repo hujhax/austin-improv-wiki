@@ -39,9 +39,4 @@ He's a really nice guy. You should meet him.
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.608955025839847.1073741867.118587218209966&type=3 Photoset] by [[Roy Moore]] of Tom Booker's 50th Birthday Show.
 
-## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2424971 Interview] with Tom on *[[The Theft Forum]]*.
-* [http://yesandrew.com/2014/06/22/the-sunday-interview-tom-booker/ Interview] by [[Andrew Buck]].
-
-[[Category/Performers|Booker]]
-[[Category/Directors|Booker]]
+I love reading these articles because they're short but inreomativf.
