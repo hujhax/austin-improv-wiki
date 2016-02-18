@@ -1,0 +1,1 @@
+Brent is a 2015 transplant to Austin, currently taking classes at [[The Hideout Theatre]] and recently joined the tech crew for Season 6 of [[Austin Secrets]]. He will write a much more flowery bio a bit later, but mostly wanted to get something in quickly so [[User/Hujhax|User:Hujhax]] knew it was him.
