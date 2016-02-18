@@ -1,1 +1,1 @@
-Nicole   you are awesome at weinddgs! These totally rock! Great processing, color and you captured so many different emotions and special times at this wedding! Your bride and groom were lucky to have you!
+Hannah not sure I would want to go swimming on a day like today with all the snow. It would be fieezrng, even indoors. Brrrrrrr . I like watching TV too, my favourite is Big Bang Theory, do you know it? Mr Williams reminds me of Sheldon   Thank you for your post
