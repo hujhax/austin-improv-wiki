@@ -2,12 +2,14 @@
 |Name	=	Erin Molson	
 |Picture =	Erin Molson Pic.jpg
 |Theater=	Various
-|Years	=	2008-2010
+|Years	=	2008-2010, 2015-present
 }}
 
 **Erin Molson** is an improv performer.
 
 ## Troupes
+$10 Bourban
+
 ## Shows
 * *[[After School Improv]]*
 * *[[ComedySportz]]*
