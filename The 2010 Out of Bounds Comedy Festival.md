@@ -1,1 +1,1 @@
-Also, the image that I am using is a PNG. Would that  affect the code ( I have aeadrly tried replacing  jpg  eith  png )?I am using a child theme of twenty eleven by the way
+Still many sites blocked with No data rveeicedUnable to load the webpage because the server sent no data.Here are some suggestions:Reload this webpage later.Error 324 (net::ERR_EMPTY_RESPONSE): The server closed the connection without sending any data.
