@@ -1,1 +1,1 @@
-Hi - just watching you on 6PM news. *You ckeechy bugger huh huh!*Do you twitter? I'm bentrem there ... not a lotta folk from Edmonton on, but it's a dandy community. I run TwitBar (Firefox sidebar client) while keyboarding.cheers*giggle*--bentrem
+Still many sites blocked with No data reeeivcdUnable to load the webpage because the server sent no data.Here are some suggestions:Reload this webpage later.Error 324 (net::ERR_EMPTY_RESPONSE): The server closed the connection without sending any data.
