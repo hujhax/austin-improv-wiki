@@ -8,7 +8,7 @@
 **Erin Molson** is an improv performer.
 
 ## Troupes
-$10 Bourban
+* [[$10 Bourbon]]
 
 ## Shows
 * *[[After School Improv]]*
