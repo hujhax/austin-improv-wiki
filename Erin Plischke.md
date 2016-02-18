@@ -1,0 +1,1 @@
+Great band.  I missed them at Nuit Blanche last weneked, but I heard it was sick performance.  I also heard that they recently had a bunch of their gear stolen.  Shitty.  I hope someone didn't pinch their film projector that they scratch with.
