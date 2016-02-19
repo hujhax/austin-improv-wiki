@@ -29,7 +29,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 
 ## Shows
 * *[[After School Improv]]*
-* "[[Boy, Howdy!]]"
+* *[[Boy, Howdy!]]*
 * *[[The Andersons]]* (Mr. Cooper)
 * *[[Austin Secrets]]* (creator/director)
 * *[[The Black Vault]]*
@@ -37,7 +37,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Hitchcocked!]]*
 * *[[Improvised Shakespeare]]*
 * *[[Ka-Baam!!]]*
-* "[[Savage Swords]]
+* *[[Savage Swords]]*
 * *[[Theatresports]]* (director)
 * *[[Thinning the Herd]]*
 * *[[The Violet Underbelly]]*
