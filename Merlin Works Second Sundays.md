@@ -29,11 +29,11 @@
 |-
 |May 8, 2016|| || 
 |-
-|April 10, 2016|| || 
+|April 10, 2016|| || -->
 |-
-|March 13, 2016|| || 
+|March 6, 2016||{{Unbulleted list|Improv 301|Singing 301}}||N/A
 |-
-|February 7, 2016|| ||-->
+|February 7, 2016||Student showcase||[[Love Me Tinder]]
 |-
 |November 22, 2015||Student showcase||[[Golden]] 
 |-
@@ -59,19 +59,19 @@
 |-
 |January 11, 2015||Student showcase||{{Unbulleted list|[[The New Kids]]|[[Girls Girls Girls]]}}
 |-
-|December 2014|| || 
+|November 23, 2014||Student showcase||[[That Racket!]] 
 |-
-|November 2014|| || 
+|November 9, 2014||Student showcase||[[Get Up]]
 |-
-|October 2014|| || 
+|October 12, 2014||{{Unbulleted list|Improv 301|601 presents "Trapped"}}||N/A
 |-
-|September 2014|| || 
+|September 14, 2014||Student showcase||[[Hurly Burly]] 
 |-
-|August 2014|| || 
+|August 10, 2014||Student showcase||[[Midnight Society]] 
 |-
-|July 2014|| || 
+|July 13, 2014||{{Unbulleted list|Improv 301|601 presents "Average Heroes"|Singing 301}}||N/A
 |-
-|June 2014|| || 
+|June 8, 2014||Student showcase||[[Bad Font]]
 |-
 |May 2014|| || 
 |-
