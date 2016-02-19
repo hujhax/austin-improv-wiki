@@ -1,7 +1,7 @@
 {{Infobox Show
 |Name = Merlin Works Second Sundays
 |Picture =	Merlin Works Second Sundays.jpg
-|Theater = [[ZACH Theater]]
+|Theater = [[ZACH Theatre]]
 |Director =	[[Shana Merlin]]
 |Cast =	[[The Known Wizards]], guests
 |Run	= 2013-Present
@@ -73,39 +73,39 @@
 |-
 |June 8, 2014||Student showcase||[[Bad Font]]
 |-
-|May 2014|| || 
+|May 11, 2014||Improv 301||[[My Best Fiend]] 
 |-
-|April 2014|| || 
+|April 13, 2014||Student showcase||[[Available Cupholders]]
 |-
-|March 2014|| || 
+|March 9, 2014||{{Unbulleted list|Improv 301|Improv 601}}||N/A
 |-
-|February 2014|| || 
+|February 9, 2014||Student showcase||[[Shades of Brown]]
 |-
-|January 2014|| || 
+|January 19, 2014||Student showcase||[[Bad Boys]]
 |-
-|December 2013|| || 
+|November 24, 2013||{{Unbulleted list|Improv 301|Singing 301}}||N/A
 |-
-|November 2013|| || 
+|November 10, 2013||Student showcase||[[The Intentions]] 
 |-
-|October 2013|| || 
+|October 13, 2013||Singing 301||[[Junk]] 
 |-
-|September 2013|| || 
+|September 8, 2013||Student showcase||[[¡Zarzamora!]]
 |-
-|August 2013|| || 
+|August 11, 2013||Student showcase||[[RhinoDino]]
 |-
-|July 2013|| || 
+|July 14, 2013||Improv 301||[[The Frank Mills]]
 |-
-|June 2013|| || 
+|June 9, 2013||Student showcase||[[The Knuckleball Now]]
 |-
-|May 2013|| || 
+|May 12, 2013||Improv 301||[[Miller & Purselley]]
 |-
-|April 2013|| || 
+|April 14, 2013||Student showcase||[[Confidence Men]]
 |-
-|March 2013|| || 
+|March 10, 2013||Improv 301||[[Get Up]]
 |-
-|February 2013|| || 
+|February 10, 2013||Student showcase||[[Parallelogramophonograph]]
 |-
-|January 2013|| || 
+|January 13, 2013||Student showcase||[[Girls Girls Girls]] 
 |}
 
 ## Media
