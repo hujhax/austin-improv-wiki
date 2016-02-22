@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Character Explosion
 |Picture	=	Character Explosion.jpg
-|Cast 	=	{{ Unbulleted list | [[Bonnie Dilber]] | [[Carolyn Gjertsen]] | [[Chris Villafano]] | [[Nichole Bennett]] | [[Robert Slack]] | [[Timothy Coyle]] | [[Zach Leos]] }}
+|Cast 	=	{{ Unbulleted list | [[Kathleen McFerren]] | [[Carolyn Gjertsen]] | [[Chris Villafano]] | [[Nichole Bennett]] | [[Robert Slack]] | [[Timothy Coyle]] | [[Zach Leos]] }}
 |Years	=		2014-Present
 }}
 
