@@ -24,6 +24,6 @@ Ellen is currently a member of two troupes [[Lady Cops]] and [[WIG]] that are re
 
 **Ongoing: **
 * *[[Maestro]]* (2011-present)
-* *[[Fancy Pants Mashup]]* (2011-present)
+* *[[Fancy Pants Mash Up]]* (2011-present)
 [[Category/Performers|Pizarek]]
 [[Category/Active|Pizarek]]
