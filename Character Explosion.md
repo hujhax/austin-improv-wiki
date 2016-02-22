@@ -29,6 +29,7 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 
 [[The Institution Theater]]
 * [[The Improv Mixtape]] 2015 - current
+* [[Tightrope]] 2016 - current
 
 [[The New Movement]]
 * [[KNOCK-OUT]] 2015 - current
