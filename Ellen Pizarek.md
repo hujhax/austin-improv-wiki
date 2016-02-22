@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Ellen Pizarek	
 |Picture =	Ellen.jpg
-|Theater=	[[The Hideout Theatre]], [[The Institution Theater]]
+|Theaters=	[[The Hideout Theatre]], [[The Institution Theater]]
 |Years	=	2010-2012, 2015-present
 }}
 
