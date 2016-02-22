@@ -18,8 +18,12 @@ Ellen is currently a member of two troupes [[Lady Cops]] and [[WIG]] that are re
 * [[Lady Cops]]
 
 ## Shows
+**Limited Run:** 
 * *[[Off the Reef]]* (2012)
 * *[[Tall Tales of the High Seas]]* (2016)
 
+**Ongoing: **
+* *[[Maestro]]* (2011-present)
+* *[[Fancy-Pants Mash-Up]]* (2011-present)
 [[Category/Performers|Pizarek]]
 [[Category/Active|Pizarek]]
