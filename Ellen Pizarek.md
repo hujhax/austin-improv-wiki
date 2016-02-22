@@ -22,3 +22,4 @@ Ellen is currently a member of two troupes [[Lady Cops]] and [[WIG]] that are re
 * *[[Tall Tales of the High Seas]]*
 
 [[Category/Performers|Pizarek]]
+[[Category/Active|Pizarek]]
