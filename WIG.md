@@ -1,7 +1,3 @@
-[[Category/Active|Category:Active]]
-[[Category/Troupes|Category:Troupes]]
-[[Category/All-Female Troupes|Category:All-Female Troupes]]
-
 {{Infobox Troupe
 |Name	=	WIG
 |Picture =     WIG.jpg
@@ -18,3 +14,7 @@ The group is regularly coached by [[Nicole Oliver]], with additional coaching fr
 
 ### Press Blurb
 "We use narrative intertwined with audience suggestions (secrets, real or created.) Our range of careers, experience and imagination sparks both depth and breadth into each character. A combination of both playful and realistic, audiences will delight in the form and the stories we create. Snuggle up with a tasty snack and drink, and get comfy! It’s storytime!"
+
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]
