@@ -19,4 +19,4 @@
 * [http://gybpodcast.libsyn.com/patio-talk-ep23-got-your-back Interview] on *[[Got Your Back]]*.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Actilve|Category:Actilve]]
+[[Category/Active|Category:Active]]
