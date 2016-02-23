@@ -36,6 +36,9 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 ***Who Are We? Long Version**
 "Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. Ryan Austin is the group's debonair lady killer providing grounded scene work and an unstoppable positive energy. Quinn Buckner has been performing since 2009 and brings to the table an eye for support, an abundance of physicality, and a pension for fun. Ryan and Quinn have separately been to festivals from Out of Bounds to Improvaganza in Hawaii and have done numerous mainstages at the Hideout Theatre as well as shows all around Austin. "
 
+*"Description"
+"What happened to the stray arrow loose from the archer? Who got startled because of the explosion across the kingdom? When exactly did the goblins turn evil forever? Taking a suggestion from 1 of 3 D&D books, Austin/Austin fleshes out a fantasy world before your eyes. People, creatures, gods, and demons, even in a huge fantasy world things are a little more connected than you think..."
+
 ## More Information
 * [http://www.austinandaustin.us/ The duo's website.]
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
