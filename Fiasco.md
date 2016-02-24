@@ -4,8 +4,10 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Peter Rogers]]
 |Assistant Director = [[Kevin Miller]]
+|Tech Director      = [[Lindsey McGowen]]
 |Run                = May/June 2016
-|Cast               = TBA
+|Cast               = {{Unbulleted list | [[Aspen Webster]] | [[Brett Tribe]] | [[Chuy Zarate]] | [[Erin Molson]] | [[J. R. Zambrano]] | [[Jeff Britt]] | [[Jess von Schramm]] | [[Katie Dahm]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Monica Martinez Maher]] | [[Nicole Oliver]] }}
+|Crew               = {{Unbulleted list | [[Cindy Ward]] (Scoring Lead/Sound Swing) | [[Jay Mahavier]] (Sound Effects Lead) | [[Joy Parks]] (Stage Manager) | [[Kelly Campbell]] (Scoring Tech) | [[Lindsey McGowen]] (Light & Multimedia Lead) | [[Nichole Bennett]] (Lighting Tech) | [[Thedward Blevins]] (Multimedia Tech)}}
 |Tech               = {{Unbulleted list | [[Joy Parks]] (Stage Manager) | [[Lindsey McGowen]] (Tech Director)}}
 }}
 
