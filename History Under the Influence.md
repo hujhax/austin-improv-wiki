@@ -8,18 +8,28 @@
 |Run = May 2014
 }}
 
-***History Under the Influence*** was an improv show inspired by the YouTube/Comedy Central series *Drunk History*.
+***History Under the Influence*** is an improv format inspired by the YouTube/Comedy Central series *Drunk History*. It features [[Kevin Miller]] as its drunken narrator, and a rotating cast.
 
 ## History
-*History Under the Influence* started out as a *Free Fringe* format. It was proposed by [[Kevin Miller]] and played in the [[The Free Fringe]] on 3/20/14 with a cast of [[Ryan Hill]], [[Jillian Summar]], [[Bridget Brewer]], [[David Lampe]], [[Caeriel Crestin]], [[Mitchell Deane]], [[Peter Rogers]], and [[Kevin Miller]]. The cast was recruited from a post on [[Roy Janik]]'s Facebook wall.
+*History Under the Influence* was first performed in *[[The Free Fringe]]* at [[The Hideout Theatre]] on March 20, 2014 with a cast of [[Ryan Hill]], [[Jillian Summar]], [[Bridget Brewer]], [[David Lampe]], [[Caeriel Crestin]], [[Mitchell Deane]], and [[Peter Rogers]]. After a surprisingly successful show, Kevin submitted the show for a month-long run in *[[The Threefer]]*. *History Under the Influence* played five sold-out shows at the Hideout in May of 2014, featuring much of the original cast and several guests.
 
-After a very successful Free Fringe show, Kevin submitted the show for a month-long run in *[[The Threefer]]* at [[The Hideout Theater]], somewhat tongue-in-cheek, not expecting it to be scheduled. Roy had been looking to shake up the *Threefer* and doubled-down on Kevin's dare. The first show in the Threefer coincided with a final tech and dress rehearsal for *[[Hurly Burly]]*. Four of the original Free Fringe players were also cast in *Hurly Burly*, so the first week was filled with substitute improvisers including [[Ruby Willmann]], etc.
+In June of 2014, Kevin attended the Finland International Improv Festival as an instructor and performed History Under the Influence with a European cast. This marked the format's first festival appearance.
 
-*History Under the Influence* played five sold-out shows at the Hideout in May of 2014. It was regarded by the cast as an effortless format where comedy happened naturally. Audience response was extremely positive.
+*History Under the Influence* has continued appearances in and out of Austin, including festivals in Juneau AK, Providence RI, Tallinn Estonia, Amsterdam NL, and Las Vegas NV.
 
-In June of 2014, Kevin took an impromptu trip to Tampere, Finland, where he had performed in 2013 with [[Zarzamora]]. While there he performed History Under the Influence with a European cast.
+## Cast
+The current cast of *History Under the Influence* is listed below, but is typically different for every show.
 
-[[Melissa Patterson]] joined the cast when [[Bridget Brewer]] moved to Rhode Island.
+* [[Ryan Hill]]
+* [[David Lampe]]
+* [[Caeriel Crestin]]
+* [[Mitchell Deane]]
+* [[Jill Summar]]
+* [[Katie Doran]]
+* [[Aspen Webster]]
+* [[Chris Curl]]
+* [[Thedward Blevins]]
+* [[Lindsey McGowen]] or [[Cynthia Ward]] on tech
 
 ## Media
 ### Photos
