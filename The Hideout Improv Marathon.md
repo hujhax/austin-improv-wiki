@@ -17,6 +17,7 @@ The marathon debuted as [[The 40-Hour Improv Marathon]] in 2009.  The event has 
 * 2013: [[The 44-Hour Improv Marathon]]
 * 2014: [[The 45-Hour Improv Marathon]]
 * 2015: [[The 46-Hour Improv Marathon]]
+* 2016: [[The 47-Hour Improv Marathon]]
 
 #### Marathon Casts
 Repeat performers are in bold. As of 2015, eleven improvisers have completed the marathon more than once; only [[Troy Miller]] has completed it three times.
