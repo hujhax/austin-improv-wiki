@@ -8,7 +8,7 @@
 |Subsequent Runs = {{Unbulleted list|Jan/Feb 2011|Nov/Dec 2012|Sep/Oct 2013<ref>[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule Announcing the 2013 Season and Schedule]</ref>|Mar/Apr 2015|Mar/Apr 2016}}
 }}
 
-*Austin Secrets* is an improvised shortform show inspired by real-life-storytelling projects such as [[Wikipedia - PostSecret|PostSecret]], [[Wikipedia - StoryCorps|StoryCorps]], and [[Wikipedia - The Moth|The Moth]].
+***Austin Secrets*** is an improvised shortform show inspired by real-life-storytelling projects such as [[Wikipedia - PostSecret|PostSecret]], [[Wikipedia - StoryCorps|StoryCorps]], and [[Wikipedia - The Moth|The Moth]].
 
 Due to its sustained artistic and commercial success, *Austin Secrets* has been the mainstage show at [[The Hideout Theatre]] nearly every year since its initial run in 2010.
 
