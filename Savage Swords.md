@@ -9,7 +9,7 @@
 |Tech               = {{Unbulleted list | [[Lindsey McGowen]] (technical director/lights) | [[Michael Yew]] (scoring) | [[Cindy Page]] (sound effects, costume director) | [[Jay Mahavier]] (swing tech) | [[Rob Yoho]] (stage manager)}}
 }}
 
-***Savage Swords*** will be the January/February 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
+***Savage Swords*** is the January/February 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
