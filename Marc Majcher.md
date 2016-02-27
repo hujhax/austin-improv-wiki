@@ -43,6 +43,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[False Matters]]* (2011)
 * *[[The Fancy-Pants Mashup]]*
 * *[[Fandom]]*
+* *[[Fiasco]]*
 * *[[Four Chambers]]*
 * *[[Flying Theater Machine]]*
 * *[[Golden (mainstage)|Golden]]* (director)
@@ -59,6 +60,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[The Library]]*
 * *[[Live Nude Improv]]*
 * *[[Lola]]*
+* *[[Lonely Star]]*
 * "[[Lord Wensleydale's Last High Tea]]" (Dietrich von Geltsack)
 * *[[Louder Than Words]]*
 * *[[Maestro]]* (2000-)
@@ -76,7 +78,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Reform School for Wayward Girls]]*
 * *[[Rock]]*
 * *[[The Sandbox]]* (Performed, Directed "Bloody Work")
-* *[[Savage Swords]]*
+* *[[Savage Swords]]* (director)
 * *[[Seance]]*
 * *[[Spirited]]* (Performed and co-directed)
 * *[[Start Trekkin']]*
@@ -85,6 +87,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Theatresports]]*
 * *[[This American Live]]* (Segment)
 * ''[[The International Improv Experience]]
+* *[[The Source]]*
 * *[[The Tribunal]]* (Performed and directed)
 * *[[The Violet Underbelly]]*
 * *[[Wanderlust]]*
