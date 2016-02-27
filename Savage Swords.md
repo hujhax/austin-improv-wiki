@@ -16,7 +16,7 @@
 From the show announcement:<blockquote>SAVAGE SWORDS! is a swords and sorcery adventure narrative set in Conan the Barbarian's Hyborian age "sometime after the sinking of Atlantis and the dawn of recorded history" as created by pulp writer Robert E. Howard and popularized by Conan comics and films. The show will be lusty, bold and adventurous with the tone shifting between grim and jovial.
 </blockquote>
 
-### Narrators and Protagonists =
+### Narrators and Protagonists
 * 1/9/16: narrated by [[Peter Rogers]], featuring [[Manuel Duran]].
 * 1/16/16: narrated by [[J. R. Zambrano]], featuring [[Audrey Rachel Sansom]].
 * 1/23/16: narrated by [[Audrey Rachel Sansom]], featuring [[Jordan T. Maxwell]].
