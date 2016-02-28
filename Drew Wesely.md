@@ -5,22 +5,23 @@
 |Years	=	2007-Present
 }}
 
-**Drew Wesely**, aka Andrew Wesely, is an improv comedian and sketch actor in Austin, Texas. 
+**Drew Wesely**, aka Andrew Wesely, is an improv comedian, sketch actor, and improv teacher in Austin, Texas. 
 
-Drew Wesely began classes at [[ColdTowne Theater|ColdTowne Conservatory]] in 2007, prior to the breakup of the original ColdTowne members, and received improv training from all of them. He began as a Teacher's Assistant at ColdTowne Conservatory in 2011. He has attended improv workshops/received coaching from: UCB (including instruction from Matt Besser, Ian Walsh, Neil Casey, Brandon Gardner, Shannon O'Neill, Will Storie, Alan Starzinski, and Jonny Svarzbein), The Annoyance (Mark Sutton), iO (Jet Eveleth, Craig Cackowski, Eric Hunicutt, Craig Uhlir, Karen Graci, Dave Hill, Matt Jones) and The New Movement ([[Chris Trew]] and [[Tami Nelson]]). He has been on improv troupes coached by [[Dave Buckman]] (Boom Chicago), [[Tom Booker]] (iO/The Annoyance/The Institution), [[Arthur Simone]], [[Michael Jastroch]], [[Cody Dearing]], [[Roy Janik]], [[Ashley Nugent]], [[Clifton Highfield]], [[Will Cleveland]], [[John Ratliff]], [[Brent Foshee]], [[Lance Gilstrap]], [[Aden Kirschner]], and [[Jericho Thorpe]]. He once performed standup in "The Mothup", delivering an impromptu monologue. 
+Drew Wesely began classes at [[ColdTowne Theater|ColdTowne Conservatory]] in 2007, prior to the breakup of the original ColdTowne members, and received improv training from all of them. He began as a Teacher's Assistant at ColdTowne Conservatory in 2011, and became a teacher at ColdTowne in 2015. He has attended improv workshops/received coaching from: UCB (including instruction from Matt Besser, Ian Walsh, Neil Casey, Brandon Gardner, Shannon O'Neill, Will Storie, Alan Starzinski, and Jonny Svarzbein), The Annoyance (Mark Sutton), iO (Jet Eveleth, Craig Cackowski, Eric Hunicutt, Craig Uhlir, Karen Graci, Dave Hill, Matt Jones) and The New Movement ([[Chris Trew]] and [[Tami Nelson]]). He has been on improv troupes coached by [[Dave Buckman]] (Boom Chicago), [[Tom Booker]] (iO/The Annoyance/The Institution), [[Arthur Simone]], [[Michael Jastroch]], [[Cody Dearing]], [[Roy Janik]], [[Ashley Nugent]], [[Clifton Highfield]], [[Will Cleveland]], [[John Ratliff]], [[Brent Foshee]], [[Lance Gilstrap]], [[Aden Kirschner]], and [[Jericho Thorpe]]. He once performed standup in "The Mothup", delivering an impromptu monologue. 
 
 He performed a minor role in a scene with Ashley Judd in the motion picture **High Crimes** as "Marine", and was a background actor/dancer in the film **Desert Bloom** with Jon Voight.
 
 ## Active Improv & Sketch Troupes & Comedy Festival Shows
 * [[Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB five times, four times in UCBT's DCM, and Chicago Improv Festival)
 * [[Kingston]] - improv troupe (captain) 
-* [[Who Dack]] - improv troupe (captain) 
+* [[Foreign Affairs]] - improv troupe (Cagematch Championship winning team Dec. 2015)
 * [[What's the Story, Steve]] - improv and sketchprov troupe (Performed in OOB)
 * [[ColdTowne TourCo]] - (Performed in DCM and NYC's Magnet Theater, and Charleston Improv Festival)
 * *[[TIT Talks]]* - Performed in [[The Moontower Comedy Festival]] and Fun Fun Fun Fest
 * [[Townsville]] - actor, writer  (Performed in Frontera Fest)
 
 ## Past Improv Troupes
+* [[Who Dack]] - improv troupe (captain)
 * [[Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
 * [[Array]] - JTS Brown format troupe (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
 * [[Delta Force of Venus]] - improv troupe (captain)
