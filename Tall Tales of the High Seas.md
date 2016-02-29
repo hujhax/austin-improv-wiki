@@ -27,6 +27,7 @@ It runs Fridays from 2/5/16 to 3/11/16.
 * [https://www.facebook.com/michael.yew/media_set?set=a.10205561492499409.1073741980.1315383518&type=3 2/5/16 performance] shot by *[[Michael Yew]]*.
 * [https://www.facebook.com/jay.mahavier/media_set?set=a.10209070012253880.1073741911.1425495839&type=3 2/12/16 performance] shot by *[[Jay Mahavier]]*.
 * [https://www.facebook.com/media/set/?set=a.1129208623809319.1073742315.221927764537414&type=3 2/19/16 performance] shot by *[[Steve Rogers]]*.
+* [https://www.facebook.com/jay.mahavier/media_set?set=a.10209175299405993.1073741913.1425495839&type=3&pnref=story 2/26/16 performance] shot by *[[Jay Mahavier]]*.
 * [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/High-Seas/ poster photos] shot by *[[Steve Rogers]]*.
 * [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/High-Seas-Profile-and-other/ portrait photos] shot by *[[Steve Rogers]]*.
 * [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/High-Seas-Fun-Shots/ additional photos] shot by *[[Steve Rogers]]*.
