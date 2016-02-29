@@ -9,6 +9,7 @@
 
 ## Troupes
 * [[Golden]]
+* [[Boomerang]]
 
 ## Shows
 * *[[Close Up]]*
