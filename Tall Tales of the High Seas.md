@@ -9,7 +9,7 @@
 |Run	=	Feb/Mar 2016
 }}
 
-***Tall Tales of the High Seas*** is an upcoming pirate-themed mainstage improv show.
+***Tall Tales of the High Seas*** is a pirate-themed mainstage improv show at the Institution Theater.
 
 ## Summary
 Pirates: loveable rogues, intrepid adventurers, notorious criminals. For young and old alike pirate stories evoke the spirit of danger, freedom and flamboyant eccentricities like no other genre. Follow our bigger than life characters into the golden age of swashbuckling where masts will split, cutlasses will shatter… but the truth will just be slightly bent.
