@@ -12,7 +12,7 @@
 ## History
 Here is [[Jon Bolden]]'s explanation of the name's origin:<blockquote>Roy and I started Squirrel Buddies because we wanted to do really positive improv (at least to start). I don't even remember who said it first, but it sounded so ridiculous and it stuck. Since then people have told us we should consider changing our name if want to be taken more seriously. I say "poo poo" to that. The Beatles is one of the dumbest names of all time.</blockquote>
 
-Squirrel Buddies attended the Alaska Improv Festival in 2013.
+Squirrel Buddies attended the Alaska Improv Festival in 2013, the District Improv Festival (Washington DC) in 2014, and were guest artists at The Contemporary Theater in Wakefield, RI in 2015.
 
 ### Positivity Workshops
 Roy and Jon developed a series of exercises based on positivity and connection. These exercises are taught in a series of workshop called "The Power of Positivity". They have been taught in Austin and Oklahoma City.
