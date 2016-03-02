@@ -32,7 +32,7 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 * [[Tightrope]] 2016 - current
 
 [[The New Movement]]
-* [[KNOCK-OUT]] 2015 - current
+* [[KNOCK-OUT]] 2016 - current
 
 ### Coaches
 * [[Robert Slack]] is both a member of the troupe and coach, bringing his Improv and acting experience to the troupe.
