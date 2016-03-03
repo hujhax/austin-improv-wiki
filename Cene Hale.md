@@ -1,1 +1,1 @@
-Cene Hale is a badass.
+#REDIRECT [[Cené]]
