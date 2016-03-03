@@ -150,7 +150,12 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 * [[Patrick Creamer]]
 
 #### Crew
-TBA
+* [[Lindsey McGowen]] (technical director)
+* [[Brent Chismark]]
+* [[Bonnie Dilber]]
+* [[Casey Marie]]
+* [[Jay Mahavier]]
+* [[Kelly Campbell]]
 
 ## Media
 ### Videos
