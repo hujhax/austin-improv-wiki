@@ -1,1 +1,1 @@
-#redirect [[Gloria Rabil-Bankler]]
+#redirect [[Gloria Rabil Bankler]]
