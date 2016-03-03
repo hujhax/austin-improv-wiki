@@ -1,1 +1,6 @@
-Hi Karla,What a name! The Anti-Karl Rove.I'm a religion and phloosiphy nut, so your references to Catholic doctrine re: women's value in Western Christian theology resonate with me.  I would suggest that Eastern Christian theology has a similar bent. It is a small world and getting smaller. Don't forget the great East–West Schism.Wishing you the best of the  net , a wide audience and much influence. You GO!
+**The Bad Dog Comedy Theater** was one of several Improv theaters hosting shows during Austin's Improv [[History of Austin Improv#The Boom and the Bust|"Boom"]] period of the mid-to-late 1990's. It was founded and owned by Marc Pruter and Jon Wiley (of [[Monks Night Out]] fame,) and Anna Bartkowski.
+
+## Links
+[http://www.austinchronicle.com/arts/2000-08-04/78072/ An Austin Chronicle write-up] that includes some history of the theater.
+
+{{stub}}
