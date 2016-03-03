@@ -1,1 +1,1 @@
-#REDIRECT [[The Jam with Oh, Science!]]
+#REDIRECT [[The Jam]]
