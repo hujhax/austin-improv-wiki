@@ -15,11 +15,11 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * *[[The Weekender]]*
 * *[[The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
 ** *[[2x4]]*
+** *[[Control Issues]]*
 ** *[[Dubbed Indemnity]]*
 ** *[[The Fancy-Pants Mashup]]*
 ** *[[The Lottery]]*
 ** *[[Maestro Raw]]*
 ** *[[The Narrative Improv Jam]]*
 ** *[[The Nightmare Video Project]]*
-** *[[Pick Your Own Path]]*
 ** *[[The TV Set]]*
