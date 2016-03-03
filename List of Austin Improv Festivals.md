@@ -1,6 +1,7 @@
 This is a list of festivals associated with the Austin improv scene.
 
 * [[Austin Sketchfest]]
+* [[Excused Absence Improv Festival for Youth]]
 * [[Hell Yes Fest]]
 * [[The Hideout Improv Marathon]]
 * [[Improv Wins!]]
@@ -9,8 +10,7 @@ This is a list of festivals associated with the Austin improv scene.
 * [[The Moontower Comedy Festival]]
 * [[The Out of Bounds Comedy Festival]]
 * [[WaffleFest]]
-* [[Excused Absence Improv Festival for Youth]]
 
 Former Austin-based festivals that have featured improv:
-* [[See, Hear Speak Fest]]
 * [[Big Stinkin' Improv and Sketch Comedy Festival]]
+* [[See, Hear Speak Fest]]
