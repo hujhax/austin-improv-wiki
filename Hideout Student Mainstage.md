@@ -1,1 +1,1 @@
-#REDIRECT [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows]]
+#REDIRECT [[Hideout Mainstage Shows#Student Mainstage Shows]]
