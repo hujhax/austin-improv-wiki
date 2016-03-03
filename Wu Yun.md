@@ -1,1 +1,1 @@
-#REDIRECT [[The Wu Yun Saga]]
+#REDIRECT [[Want to Know]]
