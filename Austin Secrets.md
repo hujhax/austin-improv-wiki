@@ -10,7 +10,7 @@
 
 ***Austin Secrets*** is an improvised shortform show inspired by real-life-storytelling projects such as [[Wikipedia - PostSecret|PostSecret]], [[Wikipedia - StoryCorps|StoryCorps]], and [[Wikipedia - The Moth|The Moth]].
 
-Due to its sustained artistic and commercial success, *Austin Secrets* has been the mainstage show at [[The Hideout Theatre]] nearly every year since its initial run in 2010.
+Due to its sustained artistic and commercial success, *Austin Secrets* has been a mainstage show at [[The Hideout Theatre]] nearly every year since its initial run in 2010.
 
 ## Structure
 Generally, the show works with "secrets" -- these are real-life secrets from anonymous people, either taken from [[Wikipedia - PostSecret|PostSecret]] or sent to [[The Hideout]] on postcards or via email.  A secret will be shown on the theater's TV screen to the audience and to the players (or, in the case of "Hidden Secrets", to just one player), and then the scene will draw its inspiration from that. Traditionally, the five segments played in the following order; starting with the 2016 run, the order of the Truth Chair and Audio Secrets segments were swapped.
@@ -19,16 +19,16 @@ Generally, the show works with "secrets" -- these are real-life secrets from ano
 After the introductory hosting -- which, among other things, informs the audience about the projects that *Austin Secrets* uses for inspiration -- the show kicks off with "A Thousand Different Directions" where a single secret is shown onscreen, and the players perform a quick montage of a couple dozen scene starts based on that secret.  This helps to start the show energetically, shows the audience that there are lot of different ways to interpret a secret, and demonstrates to the audience by quick examples that the tone of the show can vary widely; from light, surreal silliness to powerful, real-life drama.
 
 ### Act One: Known Secrets
-After this, the show goes into "known secrets", wherein a secret is shown to the audience and to all the players, and then the players perform a scene based on that secret.  
+In this segment, a secret is shown to the audience and to all the players, and then the players perform a scene based on that secret.  
 
 ### Act Two: Truth Chair
 In act two, a chair is placed center stage.  A performer sits in this so-called "Truth Chair", and they answer honestly any question put to them by the audience.  Then, the rest of the cast performs a scene inspired by *that* secret.  Typically, the TV screen will show a bullet list of biographical data about each performer, which the audience can use as a jumping-off point for their questions.
 
 ### Act Three: Audio Secrets
-At this point, a single secret is shown to both audience and players.  Then the lights go down, and two players improvise a fictional, extended interview on the microphones based on that secret.
+Here a single secret is shown to both audience and players.  Then the lights go down, and two players improvise a fictional, extended interview on the microphones based on that secret, in the style of StoryCorps.
 
 ### Act Four: Hidden Secrets
-The show closes with "hidden secrets", wherein a secret is shown to the audience and to *only one* player.  That player keeps the secret to him- or herself, and initiates a scene based on that secret.
+During this final segment, a secret is shown to the audience and to *only one* player.  That player keeps the secret to him- or herself, and initiates a scene based on that secret.
 
 ## Casts
 ### Season One (2010)
@@ -129,17 +129,17 @@ The show closes with "hidden secrets", wherein a secret is shown to the audience
 
 #### Crew
 * [[Lindsey McGowen]] (tech director)
-* [[Ripley Adams]]
+* [[Ian Markot]]
 * [[Mike Reed]]
 * [[Norman Tran]]
-* [[Ian Markot]]
+* [[Ripley Adams]]
 
 ### Season Six (2016)
 #### Cast
 * [[Aaron Saenz]]
 * [[Angie Yaeyama]]
-* [[Courtney Hopkin]]
 * [[Chuy Zarate]]
+* [[Courtney Hopkin]]
 * [[Heather Hasselle]]
 * [[Jon Bolden]]
 * [[Kaci Beeler]]
