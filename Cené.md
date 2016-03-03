@@ -5,7 +5,7 @@
 |Years	=	2013 - present
 }}
 
-**Cené** (Cené Hale) is an improv performer known for performances with [[ColdTowne Theater]] and [[The Institution Theater]].
+**Cené** (Cené Hale) is an actress known for performances with [[ColdTowne Theater]] and [[The Institution Theater]].
 
 
 ## Troupes
