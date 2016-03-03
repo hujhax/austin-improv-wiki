@@ -11,6 +11,15 @@
 ### Press Blurb
 Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Hideout Theatre students / graduates will challenge one member by playing a variety of characters that he/she must then play. After running through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.</blockquote>
 
+### What We Do
+Character Explosion - Culminating absurdism through the variety of characters, Character Explosion delights its audiences. 
+
+While the pivot player is introducing the show and getting the location suggestion, the remaining members of the Character Explosion are mentally creating characters that fit the locale to challenge the pivot player with.  Just what do we mean “challenge” you ask?  Well, once Character Explosion has the location, a non pivot player steps out and does a short monologues to set the tone of the environment through the use of the first character being introduced (characters will be a combination of philosophy, physical, voice). 
+
+Once this has been completed, the pivot player will be challenged to copy the prior character while playing opposite another character in a series of two person scenes.  The challenge is not just to copy the prior character, but to be able to pick up on the characteristics of the newly introduced character that the pivot will then play in the next scene.
+
+During the pivot challenge, these scenes will take place within the locale, for example if given a Mall, the two person scenes can be take place in the food court, a store, mall security office, broom closet, basement, on top of the roof, the parking lot, you get the idea.  Once the pivot has played each of the characters, all of Character Explosion has the open floor to reintroduce any of the characters in a montage, who knows where the scenes will take us.
+
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>the plan is that we want to do what it takes to do that thing that is needed to be done so people like us and come see us again</blockquote>
 
