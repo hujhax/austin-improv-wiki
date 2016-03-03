@@ -19,4 +19,7 @@
 * *Rennaissance Queen* (part of [[The Jukebox Musical Project]])
 * *Women of the Wild West* (part of [[The Jukebox Musical Project]])
 
+
+## Links
+[http://cenehale.com Cené's website]
 [[Category/Performers|Cene]]
