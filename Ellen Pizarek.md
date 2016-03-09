@@ -19,7 +19,7 @@ Ellen is currently a member of two troupes, [[Lady Cops]] and [[WIG]], that are 
 
 ## Shows
 **Limited Run:** 
-* *[[Underwaged]]* (with [[Kosher Bacon]] 2012)
+* *Underwaged* (with [[Kosher Bacon]] 2012)
 * *[[Off the Reef]]* (2012)
 * *[[Tall Tales of the High Seas]]* (2016)
 
@@ -27,5 +27,6 @@ Ellen is currently a member of two troupes, [[Lady Cops]] and [[WIG]], that are 
 * *[[Maestro]]* (2011-present)
 * *[[Fancy Pants Mash Up]]* (2011-present)
 * *[[The Monologue Jam]]* (2016-present)
+
 [[Category/Performers|Pizarek]]
 [[Category/Active|Pizarek]]
