@@ -18,7 +18,17 @@ Inspired by works like Treasure Island, Baron von Münchausen, Stardust and the 
 
 Every week two pirate captains will tell competing made-up stories based on audience suggestions. These tales are brought to life by our cast of improvisers and rated by the audience. The winner gets gold and glory, the loser gets put in the Tickle Sack… or worse.
 
-It runs Fridays from 2/5/16 to 3/11/16.
+It ran Fridays from 2/5/16 to 3/11/16.
+
+Show Schedule:
+2/5 Andreas Fabis & Ellen Pizarek
+2/12 Dana Yanoshak & Sushant Sethi
+2/19 Brad Hawkins & Megan Moten
+2/26 Jessica Arjet & Cagney Ortiz
+3/4 Claudio Fox & Amanda Hinsman/Jessica Arjet
+3/11 Paul Normandin & Mary Henderson
+
+The show was sponsored by Treaty Oak Rum and The Crow Bar.
 
 ## Media
 ### Photos
