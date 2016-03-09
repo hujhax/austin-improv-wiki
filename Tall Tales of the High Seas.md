@@ -52,6 +52,8 @@ It runs Fridays from 2/5/16 to 3/11/16.
 * [http://www.youtube.com/watch?v=YgghZUeFBbQ Henrietta Dempsey promo video]
 * [http://www.youtube.com/watch?v=x_nITGszLhs Convel Tiburon promo video]
 * [http://www.youtube.com/watch?v=9gNof41-D6A Captain Blake promo video]
+* [https://www.youtube.com/watch?v=UeehwECBrWg Francesca the Fierce promo video]
+* [http://www.youtube.com/watch?v=F4lqCthf22I Captain Finch promo video]
 
 [[Category/Shows|Category:Shows]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
