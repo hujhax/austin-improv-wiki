@@ -6,6 +6,7 @@
 |Cast =	{{Unbulleted list | [[Amanda Hinsman]] | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Cagney Ortiz]] | [[Claudio Fox]] | [[Dana Yanoshak]] | [[Ellen Pizarek]] | [[Jessica Arjet]] | [[Mary Henderson]] | [[Megan Moten]] | [[Paul Normandin]] | [[Sushant Sethi]] }}
 |Tech =	{{Unbulleted list | [[Mark Shoemaker]] (lights, sound) | [[Zoe Jaye]] (stage manager) }}
 |Music = [[Tosin Awofeso]]
+|Costume Design = [[Victoria Hawthorne]]
 |Run	=	Feb/Mar 2016
 }}
 
