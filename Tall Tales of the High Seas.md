@@ -39,7 +39,7 @@ It runs Fridays from 2/5/16 to 3/11/16.
 * [http://www.youtube.com/watch?v=gmC1GaQHNds 2/12/16 performance] (Countess Crescendo vs. Sahib Akbar) at the *[[Institution Theater]]*.
 * [http://www.youtube.com/watch?v=lrptdq3a6ME 2/19/16 performance]  (LaCere Zatara vs. Briny Bob Bilgewater) at the *[[Institution Theater]]*.
 * [http://www.youtube.com/watch?v=CkA8wf3hNQM 2/26/16 performance] (Henrietta Dempsey vs. Convel Tiburon) at the *[[Institution Theater]]*.
-* [https://www.youtube.com/watch?v=yymPOsVkbPo 3/4/16 performance] (The Bonnie Sisters vs. Captain Blake) at the *[[Institution Theater]]*.
+* [http://www.youtube.com/watch?v=yymPOsVkbPo 3/4/16 performance] (The Bonnie Sisters vs. Captain Blake) at the *[[Institution Theater]]*.
 
 #### Promotions
 * [http://www.youtube.com/watch?v=uOGg6160ca8 Teaser video]
