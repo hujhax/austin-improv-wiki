@@ -19,7 +19,7 @@ Ellen is currently a member of two troupes, [[Lady Cops]] and [[WIG]], that are 
 
 ## Shows
 **Limited Run:** 
-* *[[Underwaged]]* (with [[Kosher Bacon]] 2011)
+* *[[Underwaged]]* (with [[Kosher Bacon]] 2012)
 * *[[Off the Reef]]* (2012)
 * *[[Tall Tales of the High Seas]]* (2016)
 
