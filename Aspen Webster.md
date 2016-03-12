@@ -18,6 +18,8 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 * *[[Close Up]]* (2015)
 * *[[Lonely Star]]* (2015) (Assistant Director)
 * *[[183 Dewberry Lane]]* (2016)
+* *[[Fiasco]]* (2016)
+* *[Shameless Dames]]* (2016)
 
 ## Troupes
 * [[History Under the Influence]] (2015)
