@@ -64,7 +64,7 @@ The show was sponsored by Treaty Oak Rum and The Crow Bar.
 * [http://www.youtube.com/watch?v=YgghZUeFBbQ Henrietta Dempsey promo video]
 * [http://www.youtube.com/watch?v=x_nITGszLhs Convel Tiburon promo video]
 * [http://www.youtube.com/watch?v=9gNof41-D6A Captain Blake promo video]
-* [https://www.youtube.com/watch?v=UeehwECBrWg Francesca the Fierce promo video]
+* [http://www.youtube.com/watch?v=UeehwECBrWg Francesca the Fierce promo video]
 * [http://www.youtube.com/watch?v=F4lqCthf22I Captain Finch promo video]
 
 [[Category/Shows|Category:Shows]]
