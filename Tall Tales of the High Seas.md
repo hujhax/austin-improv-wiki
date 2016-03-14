@@ -37,6 +37,7 @@ The show was sponsored by Treaty Oak Rum and The Crow Bar.
 * [http://www.facebook.com/jay.mahavier/media_set?set=a.10209070012253880.1073741911.1425495839&type=3 2/12/16 performance] shot by [[Jay Mahavier]].
 * [http://www.facebook.com/media/set/?set=a.1129208623809319.1073742315.221927764537414&type=3 2/19/16 performance] shot by [[Steve Rogers]].
 * [http://www.facebook.com/jay.mahavier/media_set?set=a.10209175299405993.1073741913.1425495839&type=3&pnref=story 2/26/16 performance] shot by [[Jay Mahavier]].
+* [http://www.facebook.com/media/set/?set=a.1140151336048381.1073742322.221927764537414&type=3 3/4/16 performance] shot by [[Steve Rogers]].
 
 #### Promotions
 * [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/High-Seas/ poster photos] shot by [[Steve Rogers]].
