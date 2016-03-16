@@ -20,7 +20,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Austin Secrets]]* (2015-2016 runs) (technical director)
 * *[[Boy, Howdy!]]* (technical director/light tech)
 * *[[Control Issues]]* (technical director)
-* *[[Fiasco]]* (technical director)
+* *[[Fiasco]]* (technical director/light/multimedia swing tech)
 * *[[Four Chambers]]* (technical director)
 * *[[GrimmNoir]]* (sound tech)
 * *[[History Under the Influence]]* (technical director)
