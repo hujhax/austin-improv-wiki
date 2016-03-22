@@ -72,7 +72,10 @@ This show played on May 23, 2015.
 * Brasseau: [[Ryan Hill]]
 
 ### Icebox
+This was a customized format written by [[Marc Majcher]] that told the story of a [[Wikipedia - Generation ship|generation ship]] whose mission went horribly awry.
+
 This show played on May 30, 2015. 
+
 #### Cast
 * [[Ripley Adams]]
 * [[Jessica Arjet]]
