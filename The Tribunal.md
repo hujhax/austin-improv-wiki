@@ -74,7 +74,7 @@ The fourth performance was part of the *[[Four Chambers]]* series at [[The Hideo
 ### Show #4
 * [[Cat Drago]] (Peacock)
 * [[Chris Albano]] (Dog)
-* [[Chris Villafranco]] (Bison)
+* [[Chris Villafano]] (Bison)
 * [[David Lampe]] (Cat)
 * [[Ericka Bundy]] (Rat)
 * [[Heidi Penix]] (Wolf)
