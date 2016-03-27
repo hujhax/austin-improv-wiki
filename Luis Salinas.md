@@ -19,9 +19,9 @@ Luis began his improv journey in the Fall of 2009, with the Improv 101 course at
 * *[[Lovefest]]* (Season 2)
 * *[[Trust No One]]*
 * *[[One Small Step]]*
-* "[[Buzz Band]]"
+* [[Buzz Band]]
 * *[[Close Up]]*
-* "[[183 Dewberry Lane]]"
+* [[183 Dewberry Lane]]
 
 
 
