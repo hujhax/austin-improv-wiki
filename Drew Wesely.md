@@ -49,3 +49,4 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * [http://www.coldtownetheater.com/austincomedy/performers?uid=63 ColdTowne Performers Page]
 
 [[Category/Performers|Wesely]]
+[[Category/Teachers|Wesely]]
