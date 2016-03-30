@@ -56,7 +56,12 @@ From 2010 to 2014, the show was a pick-up format, cast month-to-month from inter
 * Videos by [[Peter Rogers]] of the 12/12/14 show: [http://vimeo.com/114526131 Pulp Adventure], [http://vimeo.com/114527238 Christmas Horror].
 * Videos by [[Peter Rogers]] of the 1/9/15 show: [http://vimeo.com/116407842 John Hughes], [http://vimeo.com/116407841 Jeunet & Caro].
 * Videos by [[Peter Rogers]] of the 2/13/15 show: [http://vimeo.com/119908815 Romantic Comedy], [http://vimeo.com/119916096 Bigfoot Documentary].
-* [http://vimeo.com/140666918 Video] of the 9/25/15 show.
+* [http://vimeo.com/141566741 Video] by [[Peter Rogers]] of the 9/21/15 show in London.
+* Videos by [[Peter Rogers]] of the 9/25/15 show: [http://vimeo.com/140666918 Space Noir], [http://vimeo.com/141350524 Dan Brown].
+* Videos by [[Peter Rogers]] of the 11/27/15 show: [http://vimeo.com/147286782 Occult Buddy-Cop Comedy], [http://vimeo.com/147286781 Dystopian Telenovela].
+* Videos by [[Peter Rogers]] of the 12/14/15 show: [http://vimeo.com/149810481 Elderly Sports Underdog Movie], [http://vimeo.com/149920313 70s Cop Apocalypse].
+* Videos by [[Peter Rogers]] of the 1/8/16 show: [http://vimeo.com/151553769 Star Trek], [http://vimeo.com/151553768 Animal Noir].
+* Videos by [[Peter Rogers]] of the 2/12/16 show: [http://vimeo.com/155876307 Caveman Gangster Story], [http://vimeo.com/155876308 Teen Supernatural Investigators].
 
 ### Photos
 * [http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3 A couple of pre-show photos] by [[Peter Rogers]] of the 10/8/10 show.
