@@ -20,6 +20,7 @@ Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in 
 
 ## Shows
 * *[[A Penny Dreadful]]*
+* *[[Fiasco]]*
 * *[[Golden (mainstage)|Golden]]*
 * *[[Happily Ever After]]* (stage manager)
 * *[[Home for the Holidays]]*
