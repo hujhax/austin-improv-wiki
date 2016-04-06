@@ -134,6 +134,6 @@ The cast includes:
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17464 The season-one casting announcement] on the [[Austin Improv Forums]].
 * [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The season-two show announcement], on the [[Institution Theater]] facebook page.
-* [http://www.facebook.com/LateNightTimeMachine The LNTM Facebook page.
+* [http://www.facebook.com/LateNightTimeMachine The LNTM Facebook page.]
 
 [[Category/Shows|Category:Shows]]
