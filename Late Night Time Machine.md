@@ -12,9 +12,9 @@
 
 ## Summary
 ![[Late Night Time Machine.jpg|Teddy Hancox and Tildy Weatherspoon]]
-Late Night Time Machine with Teddy Hancox is an entirely written and entirely improvised live comedy show created by [[Tess Hermes]], James C. Leary, and [[Mason Pitluk]]. The show features Teddy Hancox ([[James C. Leary]]), a talk-show host from 1968 (aka "the golden era of late-night"). Each show features new guest improvisors who arrive in character as historical figures or celebrities from past, present, and future. [[Sydney Huddleston]] co-stars as Matilda "Tildy" Weatherspoon, the show's intern/PA turned producer, and [[Mike Carreon]] as Teddy's sidekick, Bud Grouper.
+Late Night Time Machine with Teddy Hancox is a live comedy show created by [[Tess Hermes]], James C. Leary, and [[Mason Pitluk]]. A late night show from 1968 hosted by Teddy Hancox ([[James C. Leary]]), LNTM features celebrity guests flown in from all across time. Each live show features new guest improvisors in character as historical figures or celebrities from past, present, and future. [[Sydney Huddleston]] co-stars as Matilda "Tildy" Weatherspoon, the show's intern/PA turned executive producer, and [[Mike Carreon]] as Teddy's sidekick, Bud Grouper.
 
-The show includes on-air interviews, off-air interactions both on-set, in the green room, and behind the scenes, and commercial sketches typical of 1968.
+Shows have featured a mixture of improvised on-air interviews and off-air interactions (both on-set and behind the scenes), as well as stand up performances, the occasional musical performance, and written sketch commercials satirizing the culture of the late 60's.
 
 ## Origins
 Late Night Time Machine with Teddy Hancox was conceived by Tess Hermes, James C. Leary, and Mason Pitluk in the Summer of 2014. The show was pitched to the Institution Theater with [[Clifton Highfield]] signed on to direct, [[Sydney Huddleston]] signed on to play second lead Matilda Weatherspoon, [[Ceej Allen]] signed on as a performer, and [[Mark Shoemaker]] signed on as Technical Director. Hermes and Pitluk would write and produce while Leary would play host Teddy Hancox. The pitch itself was a three minute glimpse into an episode featuring a David Lynch guest interview, an off-air Tildy-Teddy interaction, and a Lucky Strike Cigarettes commercial.
