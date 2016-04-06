@@ -8,7 +8,7 @@
 |Subsequent Runs = Apr-May 2015
 }}
 
-***Late Night Time Machine*** is an improvised historical talk show at [[The Institution Theater]].
+***Late Night Time Machine*** is an improvised historical talk show originating from [[The Institution Theater]].
 
 ## Summary
 ![[Late Night Time Machine.jpg|Teddy Hancox and Tildy Weatherspoon]]
