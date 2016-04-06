@@ -33,6 +33,7 @@ Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes,
 * Socrates ([[Luke Wallens]])
 * Bindi Irwin ([[Ann Flynn Terrell]])
 * Beethoven ([[Ceej Allen]])
+* in world character Executive Executive Producer Barbara "Babs" Johnson ([[Jo Chauvin]]) 
 
 **Episode 3**
 * Sigmund Freud ([[Andrew Schwartz]])
