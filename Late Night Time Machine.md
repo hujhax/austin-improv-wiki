@@ -110,6 +110,17 @@ Season 2 primarily focused on:
 * Eve ([[Heidi Rogers]])
 * special appearance by David Lynch ([[Ceej Allen]])
 
+## Teddy Does ColdTowne
+On April 12, 2016, "Late Night Time Machine: Teddy Does ColdTowne" will debut at [[ColdTowne Theater]].  
+
+The cast includes:
+* [[Kenah Benefield]] as DJ Khaled, flown in from 3030 and recently thawed out of cryogenic freezing
+* [[Aly Dixon]] as Margaret Thatcher
+* [[Lilli Lopez]] as Pancho Villa
+* [[Nathan Sowell]] as Reverend Jim Jones
+* and stand up from [[Will Cleveland]] as Teddy Roosevelt
+
+
 ## Media
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10202688469755636.1073741908.1315383518&type=3 Photoset] by [[Michael Yew]] of a show.
