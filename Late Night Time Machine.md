@@ -57,12 +57,12 @@ Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes,
 * Jesus of Nazareth ([[Justin Davidson]])
 
 ## Season 2
-Season 2 was directed by Mason Pitluk, written and produced by Tess Hermes and Pitluk, and featured the technical direction of Mark Shoemaker. Ceej Allen and Alex Ayala assisted Hermes and Pitluk with the conception and writing of the season. Along with Hermes and Pitluk, Allen earned writing credit for episode 1 and Ayala earned credit for episode 4, arguably two of the finest nights of live comedy in the history of mankind. 
+Season 2 was directed by Mason Pitluk, written and produced by Tess Hermes and Pitluk, and featured the technical direction of Mark Shoemaker. Ceej Allen and Alex Ayala assisted Hermes and Pitluk with the conception and writing of the season. Along with Hermes and Pitluk, Allen earned writing credit for episode 1 and Ayala earned credit for episode 4, arguably two of the "finest nights of live comedy in the history of mankind." 
 
 Season 2 primarily focused on:
 * Teddy's growth as an individual, especially in regards to his treatment of Tildy and Bud
-* Tildy's growth as an individual as she figured out how to be a powerful female leader in 1968
-* Teddy and Tildy's quest to make "good television," motivated primarily by Teddy's desire to keep his show and place in the public eye after being cancelled at the end of Season 1, and Tildy's knowledge of the sad future state of the entertainment industry after spending time executive producing The Ellen Show in 2016.
+* Tildy's struggle to earn respect as female executive in 1968
+* Teddy and Tildy's quest to make "good television," motivated primarily by Teddy's desire to remain famous and avoid cancellation, and Tildy's knowledge of the decline of television after spending time as the executive producer of The Ellen Show in 2016.
 
 
 **April 3rd - Episode 1 - Back From the Future**
@@ -74,11 +74,12 @@ Season 2 primarily focused on:
 * Ellen DeGeneres ([[Mason Pitluk]])
 * special appearance by David Lynch (Ceej Allen)
 
-**April 10th**
+**April 10th - Episode 2 - The Return of Barbara: 2016 Strikes Back**
 * Alexander the Great ([[Kevin Miller]])
 * Genghis Khan ([[Brad Hawkins]])
 * Amy Winehouse ([[Kristen Kurtis]])
 * stand up from Baby Don Rickles ([[John Buseman]])
+* in world character Executive Executive Producer Barbara "Babs" Johnson ([[Jo Chauvin]]) 
 
 **April 17th - Episode 3 - Party Time (or: How I Learned to Stop Worrying and Love Manuel Noriega)**
 * Manuel Noriega ([[Donnie Loa]])
@@ -87,7 +88,7 @@ Season 2 primarily focused on:
 * Joan Jett ([[Jayme Ramsey]])
 * stand up from James Cagney ([[Lashonda Lester]])
 
-**April 24th - Episode 4 -**
+**April 24th - Episode 4 - The Silence of Tyranny, An Allegory (Presented by McDonald's)**
 * Charlie Chaplin ([[Alex Ayala]])
 * Hillary Clintronic 3000 ([[Amy Averett]])
 * Groucho Marx ([[Robert Slack]])
@@ -101,9 +102,9 @@ Season 2 primarily focused on:
 * Benjamin Franklin ([[Marcus Hysmith]])
 * stand up from Teddy Roosevelt ([[Will Cleveland]])
 
-**May 8th - Episode 6 -**
+**May 8th - Episode 6 - Finale**
+* stand up and guest appearance from Salvador Dali ([[Brently Heilbron]])
 * Orson Welles ([[Jordan Maxwell]])
-* Salvador Dali (as a guest and stand up) ([[Brently Heilbron]])
 * Stanley Kubrick ([[Kenny Madison]])
 * Eve ([[Heidi Rogers]])
 * special appearance by David Lynch ([[Ceej Allen]])
