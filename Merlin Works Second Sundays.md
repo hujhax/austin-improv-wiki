@@ -27,7 +27,7 @@
 |-
 |June 12, 2016||Improv 301||Merlin Works student troupe 
 |-
-|May 8, 2016||{{Unbulleted list|Student showcase|Singing 301}}||N/A
+|May 8, 2016||{{Unbulleted list|Student showcase|Singing 301|Improv 601}}||N/A
 |-
 |April 10, 2016||Student showcase||[[Physics Curse]] 
 |-
