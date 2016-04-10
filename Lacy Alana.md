@@ -1,5 +1,5 @@
 {{Infobox Performer
-|Name	=	Lacy Shawn
+|Name	=	Lacy Alana
 |Picture =	 Lacy Shawn Profile.jpg
 |Theater=	[[The Hideout Theatre]]
 	[[Salvage Vanguard Theater]]
