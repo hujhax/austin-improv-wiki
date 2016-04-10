@@ -1,6 +1,4 @@
-{{Pseudonym}}
-
-{{Infobox Performer
+{{Pseudonym}}{{Infobox Performer
 |Name	=	Lacy Alana
 |Picture =	 Lacy Shawn Profile.jpg
 |Theater=	[[The Hideout Theatre]]
