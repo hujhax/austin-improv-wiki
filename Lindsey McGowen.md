@@ -32,6 +32,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Tech Nightmare]]* (scoring tech)
 * *[[Teenage Wasteland]]* (technical director)
 * *[[Theatresports]]* (2014 run) (swing tech)
+* "[[The Big Bash]]" (tech)
 * *[[The International Improv Experience]]* (light tech)
 * *[[The Jukebox Musical Project]]* 
 ** *The Black Death* (music director)
