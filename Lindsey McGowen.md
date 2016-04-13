@@ -34,7 +34,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Teenage Wasteland]]* (technical director)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The Big Bash]]* (swing tech, 2015-present)
-* ''[[The Black Vault]]" (light tech, 2015-present)
+* *[[The Black Vault]]* (light tech, 2015-present)
 * *[[The Amazon and the Milksop|"The Fitzgeralds Save the World"]]* (tech, 2016-present)
 * *[[The International Improv Experience]]* (light tech)
 * *[[The Jukebox Musical Project]]* 
