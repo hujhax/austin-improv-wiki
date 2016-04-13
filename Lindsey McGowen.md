@@ -27,6 +27,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Hurly Burly]]* (sound tech/stage manager)
 * *[[Lonely Star]]* (scoring tech)
 * *[[Nothing and Everything]]* (stage manager/props mistress/swing tech)
+* *[[Process]]* (2016 run) (technical director)
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Savage Swords]]* (technical director/light tech)
 * *[[Tech Nightmare]]* (scoring tech)
