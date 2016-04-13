@@ -33,6 +33,7 @@ Outside of improv, Lindsey is active in the national contemporary a cappella sce
 * *[[Teenage Wasteland]]* (technical director)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The Big Bash]]* (tech)
+* *[[The Amazon and the Milksop|"The Fitzgeralds Save the World"]]* (tech)
 * *[[The International Improv Experience]]* (light tech)
 * *[[The Jukebox Musical Project]]* 
 ** *The Black Death* (music director)
