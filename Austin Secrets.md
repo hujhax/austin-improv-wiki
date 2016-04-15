@@ -153,7 +153,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Lindsey McGowen]] (technical director)
 * [[Brent Chismark]]
 * [[Bonnie Dilber]]
-* [[Casey Marie]]
+* [[Casey Quinlan]]
 * [[Jay Mahavier]]
 * [[Kelly Campbell]]
 
