@@ -5,16 +5,17 @@
 |Years	=	2014-Present
 }}
 
-**Lindsey McGowen** is a technical improvisor, Co-Technical Director of [[The Hideout Theatre]], and transplant from Detroit.
+**Lindsey McGowen** is a technical improvisor, Co-Technical Director of [[The Hideout Theatre]], and transplant from Detroit. She has an expensive piece of paper that says she knows stuff about technical theater.
 
 ## Summary
-Lindsey has an expensive piece of paper that says she knows stuff about technical theater, studying stage management and lighting design at Case Western Reserve University. She also occasionally ran tech for CWRU's  collegiate improv troupe Improvment. Upon graduating, she decided that theater-as-a-day-job was not as fun as it looked and took a hiatus from theater from 2006-2013. 
+Lindsey studied Stage Management and Lighting Design at Case Western Reserve University in Cleveland, OH. She also occasionally ran tech for CWRU's collegiate improv troupe "Improvment." Upon graduating, she decided that theater-as-a-day-job was not as fun as it looked and took a hiatus from theater starting shortly after graduation. In 2013, she started volunteering with a local improv theatre (GO!Comedy in Ferndale, MI) before relocating to Austin in early 2014.
 
 
-Since moving to Austin in early 2014, she immediately jumped into the local improv scene and has been running tech for shows at both [[The Hideout Theatre]] and [[The Institution Theater]]. She specializes in scoring and sound effects, and acts as Lead Audio Engineer on *Tales from the Black Vault*, the podcast version of [[The Black Vault]]. 
+On arriving in Austin, she immediately jumped into technical improv with both feet and has been instrumental to several mainstage shows at both [[The Hideout Theatre]] and [[The Institution Theater]] ever since. She specializes in scoring, sound effects, and lighting design, and acts as Lead Audio Engineer on *Tales from the Black Vault*, the podcast version of [[The Black Vault]].
 
 
 Outside of improv, Lindsey is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [http://vimeo.com/100491197 Synesthesia] and as a guest musician with [[Indigo Shift]].
+
 
 ## Shows
 * *[[Austin Secrets]]* (2015-2016 runs) (technical director)
