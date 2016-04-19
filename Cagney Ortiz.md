@@ -18,7 +18,9 @@
 ## Troupes
 * [[Deep Turtle]]
 * [[Tom Does The Good Work]]
-* [[Character Explosion]]
+* [[Character Explosion]] (Former Member)
+* [[Boomerang]]
+* [[Caspen]]
 * [[Channel 2]]
 
 [[Category/Performers|Ortiz]]
