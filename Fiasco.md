@@ -10,9 +10,22 @@
 |Tech               = {{Unbulleted list | [[Cindy Page]] (Scoring Lead/Sound Swing) | [[Jay Mahavier]] (Sound Effects Lead) | [[Joy Parks]] (Stage Manager) | [[Kelly Campbell]] (Scoring Tech) | [[Lindsey McGowen]] (Light & Multimedia Lead) | [[Nichole Bennett]] (Lighting Tech) | [[Thedward Blevins]] (Multimedia Tech)}}
 }}
 
-***Fiasco*** will be the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
+***Fiasco*** will be the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].  
 
 ## Summary
+The show is an improvised crime caper, adapted from [[Wikipedia - Fiasco (role-playing game)|the Bully Pulpit Games RPG]] and loosely inspired by [[Wikipedia - Coen Brothers|Coen Brothers films]].  It is an ensemble show with elements of farce that focuses on criminal plans going very, very wrong.
+
+### Structure
+The show opens with a short monolog.  After that, act one begins with a set of five scenes, establishing a circular chain of relationships, like in a la Ronde.  Scenes follow until about the forty-minute mark, when "the tilt" is introduced.  The tilt is a pair of of phrases that describe story elements that will tend to cause chaos. (One example: "Something precious is on fire".)  The players draw on the tilts in the (slightly shorter) second half.  The show ends with a second monolog from the same character, touching on the eventual fates of the central characters.
+
+### Tone
+The tagline for *Fiasco* is that it's about "grand ambition and poor impulse control".  Generally, the characters are heightened, with strong desires, and really poor planning.  Ideally, the first half of the show puts a lot of bad ideas in place -- "Look, we'll just put the suitcase with ten thousand dollars in the back of your El Camino, and hand it over to Big Mike on Wednesday -- everything will be *fine*." -- so that when the tilt comes into play, those tenuous plans are put in jeopardy.  (e.g., now the El Camino is on fire.)
+
+The show aims for a sort of gasping laughter -- the avalanche of disaster is hilarious, but its consequences for the characters feel sad or scary or daunting.  There's a strong sense of conveying genuine, relatable emotions *through* the heightened characters, and aiming to make the audience feel like they're on the characters' side instead of leaning back from the story.
+
+### Tech
+The set includes a large display screen, which shows 'hosting videos' (short video segments that convey the information that a live host would normally do) and displays words and phrases that inspire the onstage activity.  (A prompt for the initial monolog; short descriptions of the five relationships; the tilt.)
+
 ### Publicity Blurb
 From the show announcement:<blockquote>A crime caper goes disastrously wrong in this improvised dark comedy, inspired by [[Wikipedia - Coen Brothers|Coen Brothers]] classics like *[[Wikipedia - Fargo (film)|Fargo]]* and *[[Wikipedia - The Big Lebowski|The Big Lebowski]]*.  Based on [[Wikipedia - Fiasco (role-playing game)|the award-winning RPG]].
 </blockquote>
