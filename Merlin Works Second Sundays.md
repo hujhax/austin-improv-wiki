@@ -27,7 +27,7 @@
 |-
 |June 12, 2016|| ||Merlin Works student troupe 
 |-
-|May 8, 2016||{{Unbulleted list|Improv 301|Singing 301|Improv 601}}||N/A
+|May 8, 2016||{{Unbulleted list|Improv 301|Singing 301|601 presents "Angst High"}}||N/A
 |-
 |April 10, 2016||Student showcase||[[Physics Curse]] 
 |-
