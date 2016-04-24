@@ -47,6 +47,8 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 04-09-16	Ice Cream Truck	 - Institution:	Mixed Tape Showcase
 
 ## Videos
+* 06-25-15 [https://vimeo.com/132330223] Threefer Showcase
+* 07-05-25 [https://vimeo.com/132752724] Weekender Showcase
 * 11-19-15 [https://vimeo.com/163760875] Wafflefest 2015
 * 03-25-16 [https://vimeo.com/160823160] That Racket! Showcase
 * 04-09-16 [https://vimeo.com/163685360] Mix Tape Showcase
