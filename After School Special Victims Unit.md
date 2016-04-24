@@ -15,8 +15,7 @@
 The show had a couple of previews in August 2011, and then ran on Fridays and Saturdays in September.
 
 ## Media
-### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150415827517265.412729.588952264&type=3 A photoset] by [[Peter Rogers]] of their 9/30/11 show.
+what is zolpidem  ambien extended release dosage . ambient sleeping pills buy ambien online canada  where can i buy ambien sleeping pills ambien contraindications zolpidem withdrawal symptoms ic zolpidem tartrate . ambien next day delivery ambien shopping brand name of zolpidem <a href=>does ambien cause constipation</a>. what is in ambien zolpidem tartrate tablets ip 10mg teva ambien generic ambien online order .
 
 ## More Information
 * [http://www.coldtownetheater.com/blog/mainstage-sketch-show-has-a-name-september-debut The show's announcement on the ColdTowne Theater blog.]
