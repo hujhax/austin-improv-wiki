@@ -3,13 +3,13 @@
 |Picture=	Process Publicity Image.jpg
 |Theater=	[[The Hideout Theatre]]
 |Director =	[[Jeremy Sweetlamb]]
-|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Alex Dobrenko]] | [[Caitlin Sweetlamb]] | [[Courtney Hopkin]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Jeremy Sweetlamb]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Ruby Willmann]] }}
-|Tech	={{Unbulleted list | [[Carl Ziegler]] | [[Michael Yew]] }}
+|Cast	=	{{Unbulleted list | 2012 Run | [[Ace Manning]] | [[Alex Dobrenko]] | [[Caitlin Sweetlamb]] | [[Courtney Hopkin]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Jeremy Sweetlamb]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Ruby Willmann]] | . | 2016 Run | [[Aaron Saenz]] | [[Ace Manning]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Haley Alea Erickson]] | [[J.R. Zambrano]] | [[Jeremy Sweetlamb]] | [[Kaci Danger]] | [[Katie Dahm]] | [[Margaret Rose]] | [[Michael Joplin]] | [[Rachel Posey Austin]] | [[Rob Yoho]] | [[Rosemarie Frezza]]}}
+|Tech	={{Unbulleted list | 2012 Run | [[Carl Ziegler]] | [[Michael Yew]] | . | 2016 Run | [[Audrey Rachel Sansom]] (Costumes/Set Asst) | [[Bonnie Dilber]] (Lights/Run Crew) | [[Brad Hawkins]] (Lights/Audio/Run Crew) | [[Carolyn Gjertsen]] (Lights/Costume Asst) | [[Cindy Page]] (Costuming Lead) | [[Ellen Pizarek]] (Costumes/Run Crew) | [[Jenn Hamm]] (Run Crew) | [[Jessica von Schramm]] (Stage Manager) | [[Lindsey McGowen]] (Technical Director) | [[Michael Yew]] (Audio Lead) | [[Nichole Bennett]] (Lights/Run Crew) | [[Nicole Oglesby]] (Set Asst) | [[Sandra Ybarra]] (Assistant Stage Manager) | [[Stuart m feild]] (Set Lead) }}
 |Run	=	Mar/Apr 2012
 |Subsequent Runs = Jul/Aug 2016
 }}
 
-***Process*** was a longform improv show that took the audience through the process of producing a (fictional) play.  It was a mainstage show at [[The Hideout Theatre]].
+***Process*** is a longform improv show that takes the audience through the process of producing a (fictional) play.  It is a recurring mainstage show at [[The Hideout Theatre]].
 
 ## Summary
 ![[Process Performance.jpg|A performance of *Process*.]]
@@ -51,6 +51,27 @@ Many performances of the Hideout mainstage run had pre-determined genres:
 
 For the remaining shows, they just let the title and table-read dictate the genre.
 
+### Cast
+* [[Ace Manning]]
+* [[Alex Dobrenko]]
+* [[Caitlin Sweetlamb]]
+* [[Courtney Hopkin]]
+* [[Halyn Lee Erickson]]
+* [[Jason Vines]]
+* [[Jeremy Sweetlamb]]
+* [[John Ratliff]]
+* [[Jon Bolden]]
+* [[Jordan T. Maxwell]]
+* [[Kaci Beeler]]
+* [[Kareem Badr]]
+* [[Marc Majcher]]
+* [[Michael Joplin]]
+* [[Ruby Willmann]]
+
+### Crew
+* [[Carl Ziegler]]
+* [[Michael Yew]]
+
 ### Between Runs (2012-2015)
 [[Meghan Wolff]] directed a run of *Process* at the HUGE Theater in Minneapolis that ran from May through July of 2012.  Its performances ran for 50 minutes, and did not include the 'audition' section.
 
@@ -59,9 +80,40 @@ For the remaining shows, they just let the title and table-read dictate the genr
 ### Second Run (2016)
 The show is returning in 2016 as a Hideout mainstage show.
 
+### Cast
+* [[Aaron Saenz]]
+* [[Ace Manning]]
+* [[Courtney Hopkin]]
+* [[Curtis Luciani]]
+* [[Haley Alea Erickson]]
+* [[J.R. Zambrano]]
+* [[Jeremy Sweetlamb]]
+* [[Kaci Danger]]
+* [[Katie Dahm]]
+* [[Margaret Rose Hunsicker]]
+* [[Michael Joplin]]
+* [[Rachel Posey Austin]]
+* [[Rob Yoho]]
+* [[Rosemarie Frezza]]
+
+### Crew
+* Assistant Stage Manager - [[Sandra Ybarra]]
+* Audio Lead - [[Michael Yew]]
+* Costumes/Run Crew - [[Ellen Pizarek]]
+* Costumes/Set Asst - [[Audrey Rachel Sansom]]
+* Costuming Lead - [[Cindy Page]]
+* Lights/Audio/Run Crew - [[Brad Hawkins]]
+* Lights/Costume Asst - [[Carolyn Gjertsen]]
+* Lights/Run Crew - [[Nichole Bennett]] and [[Bonnie Dilber]]
+* Run Crew - [[Jenn Hamm]]
+* Set Asst - [[Nicole Oglesby]]
+* Set Lead - [[Stuart m feild]]
+* Stage Manager - [[Jessica von Schramm]]
+* Technical Director - [[Lindsey McGowen]]
+
 ## Media
 ### Videos
-* [https://www.youtube.com/watch?v=KgYGpcS5ork Video] of [[The Available Cupholders]]' Play format at the 2010 Sarasota Improv Festival
+* [http://www.youtube.com/watch?v=KgYGpcS5ork Video] of [[The Available Cupholders]]' Play format at the 2010 Sarasota Improv Festival
 * [http://vimeo.com/40488504 Video] of their 4/15/12 performance in [[The 2012 Improvised Play Festival]]
 
 ### Photos
