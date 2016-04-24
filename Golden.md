@@ -47,11 +47,11 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 04-09-16	Ice Cream Truck	 - Institution:	Mixed Tape Showcase
 
 ## Videos
-* 06-25-15 [https://vimeo.com/132330223] Threefer Showcase
-* 07-05-25 [https://vimeo.com/132752724] Weekender Showcase
-* 11-19-15 [https://vimeo.com/163760875] Wafflefest 2015
-* 03-25-16 [https://vimeo.com/160823160] That Racket! Showcase
-* 04-09-16 [https://vimeo.com/163685360] Mix Tape Showcase
+* [http://vimeo.com/132330223 Threefer Showcase, 06-25-15]
+* [http://vimeo.com/132752724 Weekender Showcase, 07-05-25]
+* [http://vimeo.com/163760875 Wafflefest 2015, 11-19-15]
+* [http://vimeo.com/160823160 That Racket! Showcase, 03-25-16]
+* [http://vimeo.com/163685360 Mix Tape Showcase, 04-09-16]
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
