@@ -11,6 +11,13 @@
 ## History
 The troupe was a continuation of [[Golden (mainstage)|the April 2015 Hideout student mainstage production]].
 
+## Format
+Since Golden is a silent narrative show, there is a protagonist in each performance, and that person is pre-determined by the cast. At the beginning of the show, the protagonist takes a white board and asks the audience for a suggestion of an occupation. Once the occupation is selected, it is shared with both cast and audience, and then the show begins.
+
+Fools Gold - Golden begins with a silent scene. The scene immediately following it is the exact same scene but adding dialogue. 
+
+Faceless - Golden uses full neutral mask in a montage format.
+
 ## Media
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
