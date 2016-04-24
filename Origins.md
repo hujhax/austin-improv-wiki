@@ -20,4 +20,4 @@ From the show announcement:<blockquote>Every superhero has an origin; fraught wi
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Productions That Have Included Real-Life Wedding Proposals|Big Bash]]
+[[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]
