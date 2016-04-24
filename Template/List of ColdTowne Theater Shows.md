@@ -2,15 +2,11 @@
 This **List of [[ColdTowne Theater]] Shows** is designed to be transcluded into any "[[ColdTowne]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
-* *[[Big Beautiful Warriors]]*
 * *[[The Cagematch]]*
 * *[[Comedy Bazaar]]*
-* *[[The Hustle Show]]*
 * *[[Movie Riot]]*
-* *[[Nice Astronaut Presents Improvaoke]]*
-* *[[Oh, Science!]]*
+* *[[Nice Astronaut Presents Improv Roulette]]*
 * *[[Play By Play]]*
-* *[[The Speakeasy]]*
 * *[[All Ages Improv Night]]*
 * *[[What's the Story Steve]]*
 
