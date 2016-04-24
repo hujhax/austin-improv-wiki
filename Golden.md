@@ -43,7 +43,10 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 03-25-16	Firefighter	 - Dougherty Arts Center (DAC):	That Racket! Showcase
 * 04-09-16	Ice Cream Truck	 - Institution:	Mixed Tape Showcase
 
-## Media
+## Videos
+* 11-19-15 [https://vimeo.com/163760875] Wafflefest 2015
+* 03-25-16 [https://vimeo.com/160823160] That Racket! Showcase
+* 04-09-16 [https://vimeo.com/163685360] Mix Tape Showcase
 ### Photos
 * [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
