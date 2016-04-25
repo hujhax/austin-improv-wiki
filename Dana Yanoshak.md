@@ -22,7 +22,7 @@
 * *[[Love Fest]]*
 * *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
 * *[[Seance]]*
-* *[[Tall Tales of the High Seas]]*
+* *[[Tall Tales of the High Seas]]* (Co-Director and Cast)
 * *[[You Can't Stay Here]]*
 
 [[Category/Performers|Yanoshak]]
