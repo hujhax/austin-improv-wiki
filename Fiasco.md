@@ -33,6 +33,7 @@ From the show announcement:<blockquote>A crime caper goes disastrously wrong in 
 ## More Information
 * [http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/ The show announcement] on the Hideout's facebook group.
 * [http://www.facebook.com/groups/hideouttheatre/permalink/1045736732116097/ The audition announcement] on the Hideout's facebook group.
+* [http://www.hideouttheatre.com/shows/Fiasco The show's web page] on the Hideout site (more information + ticket sales).
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
