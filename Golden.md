@@ -20,10 +20,10 @@ Faceless - Golden uses full neutral mask in a montage format.
 
 ## Show List
 * 04-04-15	Wacky Hotel	 - Hideout Theatre:	Student Mainstage (SMS)
-* 04-11-15	Gymnast; Secret Architect; Baseball Enthusiast	 - Hideout:	SMS; Improvised Play Festival (IPF)
-* 04-18-15	Business Woman; Infidelity; Super Hero	 - Hideout:	SMS
-* 04-25-15	Pirate; Looking for Love	 - Hideout:	SMS
-* 05-02-15	Psychiatrist	 - Hideout:	SMS
+* 04-11-15	Gymnast; Secret Architect; Baseball Enthusiast	 - Hideout:	(SMS) ; Improvised Play Festival (IPF)
+* 04-18-15	Business Woman; Infidelity; Super Hero	 - Hideout:	(SMS)
+* 04-25-15	Pirate; Looking for Love	 - Hideout:	(SMS)
+* 05-02-15	Psychiatrist	 - Hideout:	(SMS)
 * 06-20-15	Montage	 - Hideout:	46 Hour Marathon
 * 06-25-15	Dentist	 - Hideout:	Threefer Showcase
 * 07-05-15	Barber	 - Hideout:	Weekender Showcase
@@ -41,7 +41,7 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 02-05-16	Fool's Gold	 - Blind Tiger in San Antonio, TX:	Alamo City Improv
 * 02-18-16	Undertaker	 - Hideout:	Threefer
 * 03-25-16	Firefighter	 - Dougherty Arts Center (DAC):	That Racket! Showcase
-* 04-09-16	Ice Cream Truck	 - Institution:	Mixed Tape Showcase
+* 04-09-16	Ice Cream Truck	 - Institution:	Mix Tape Showcase
 
 ## Videos
 * [http://vimeo.com/132330223 Threefer Showcase, 06-25-15]
