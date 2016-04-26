@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Dana Yanoshak
 |Picture =	Dana Yanoshak Pic.jpg
-|Theater =     [[Gnap! Theater Projects]]
+|Theater =     [[Gnap! Theater Projects, Hideout Theater, The Institution Theater]]
 |Years	=	2009-Present
 }}
 
