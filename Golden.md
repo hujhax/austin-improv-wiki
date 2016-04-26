@@ -6,7 +6,7 @@
 |Years	=		2015-Present
 }}
 
-**Golden** is an improv troupe that performs silent narrative improv.  It originated with [[Golden (mainstage)|the mainstage of the same name]].
+**Golden** is an improv troupe that performs silent narratives.  On stage, the cast improvises silent stories and scenes while developing relationships with each other, using only their facial expressions, emotional noises, body language, and spacework. It originated with [[Golden (mainstage)|the mainstage of the same name]].
 
 ## History
 The troupe was a continuation of [[Golden (mainstage)|the April 2015 Hideout student mainstage production]].
