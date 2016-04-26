@@ -12,9 +12,9 @@
 The troupe was a continuation of [[Golden (mainstage)|the April 2015 Hideout student mainstage production]].
 
 ## Format
-Since Golden is a silent narrative show, there is a protagonist in each performance, and that person is pre-determined by the cast. At the beginning of the show, the protagonist takes a white board and asks the audience for a suggestion of an occupation. Once the occupation is selected, it is shared with both cast and audience, and then the show begins.
+Golden is a silent narrative show. A single performer is pre-determined by the cast each show to play the protagonist. At the beginning of the show, the protagonist uses a white board and asks the audience for a suggestion of an occupation. Once selected, the suggestion is shared with both cast and audience before the show begins.
 
-Fools Gold - Golden begins with a silent scene. The scene immediately following it is the exact same scene but adding dialogue. 
+Fool's Gold - Golden performs silent scenes and then replays, reinterprets, and reimagines the scenes using dialogue.
 
 Faceless - Golden uses full neutral mask in a montage format.
 
