@@ -1,8 +1,7 @@
 {{Infobox Troupe
 |Name	=	Too Shy Guys
 |Picture =     2shy2.jpg
-|Cast	=	{{Unbulleted list | [[Chris Casey]] | [[Greg Mihalik]]}}
-|Music	=	{{Unbulleted list | [[David Rosenbaum]]}}
+|Cast	=	{{Unbulleted list | [[Chris Casey]] | [[Greg Mihalik]] | [[David Rosenbaum]] (music)}}
 |Years	=		2016-Present
 }}
 
