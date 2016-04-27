@@ -21,11 +21,11 @@
 |-
 |September 11, 2016|| || 
 |-
-|August 14, 2016||Improv 301|| 
+|August 14, 2016||Improv 301|| -->
 |-
-|July 10, 2016|| || -->
+|July 10, 2016||Student showcase||[[Loverboy]] 
 |-
-|June 12, 2016|| ||Merlin Works student troupe 
+|June 12, 2016||Merlin Works student troupe||[[Damn Gina]] 
 |-
 |May 8, 2016||{{Unbulleted list|Improv 301|Singing 301|601 presents "Angst High"}}||N/A
 |-
