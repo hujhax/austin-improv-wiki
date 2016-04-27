@@ -20,7 +20,7 @@ The marathon debuted as [[The 40-Hour Improv Marathon]] in 2009.  The event has 
 * 2016: [[The 47-Hour Improv Marathon]]
 
 #### Marathon Casts
-Repeat performers are in bold. As of 2016, thirteen improvisers have performed in the marathon more than once; only [[Troy Miller]] and [[Jessica Arjet]] have completed it three times. Four of eight marathons have included a performer from outside of Austin.
+Repeat performers are in bold. As of 2016, thirteen improvisers have performed in the marathon more than once; only [[Troy Miller]] and [[Jessica Arjet]] have completed it three times. Five of eight marathons have included a performer from outside of Austin (one, Mike D'Alonzo, is a former Austin improviser).
 
 {| class="wikitable"
 ! 2009
