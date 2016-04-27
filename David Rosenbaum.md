@@ -5,6 +5,8 @@
 * [[Umami]]
 * [[The Dancy Street D'Orchestra]] (accompanist)
 * [[DA Foundry]] (accompanist and player)
+* [[Human People]] (accompanist and player)
+* [[Too Shy Guys]] (accompanist)
 
 ## Shows
 * *[[Danger! The Improvised Lifetime Movie]]*
