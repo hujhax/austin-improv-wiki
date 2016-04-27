@@ -20,7 +20,7 @@ The marathon debuted as [[The 40-Hour Improv Marathon]] in 2009.  The event has 
 * 2016: [[The 47-Hour Improv Marathon]]
 
 #### Marathon Casts
-Repeat performers are in bold. As of 2015, eleven improvisers have completed the marathon more than once; only [[Troy Miller]] has completed it three times.
+Repeat performers are in bold. As of 2016, thirteen improvisers have performed in the marathon more than once; only [[Troy Miller]] and [[Jessica Arjet]] have completed it three times.
 {| class="wikitable"
 ! 2009
 ! 2010
@@ -29,6 +29,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 ! 2013
 ! 2014
 ! 2015
+! 2016
 |-
 | [[Andy Crouch]]
 | [[Bill Stern]]
@@ -37,6 +38,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 | [[Aaron Saenz]]
 | [[Bridget Brewer]]
 | [[Brett Tribe]]
+| [[Ace Manning]]
 |-
 | [[Caitlin Sweetlamb]]
 | style="font-weight: bold;" | [[Curtis Luciani]]
@@ -45,6 +47,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 | [[Christopher 'Ceej' Allen]]
 | [[Dave Buckman]]
 | [[Cat Drago]]
+| style="font-weight: bold;" | [[Caitlin Sweetlamb]]
 |-
 | [[Curtis Luciani]]
 | [[Jessica Arjet]]
@@ -53,6 +56,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 | style="font-weight: bold;" | [[Jessica Arjet]]
 | Jonathan Monkhouse
 | [[Courtney Hopkin]]
+| [[Chuy Zarate]]
 |-
 | [[Jeremy Sweetlamb]]
 | style="font-weight: bold;" | [[Kaci Beeler]]
@@ -61,6 +65,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 | [[Kayla Lane Freeman]]
 | [[Katie Dahm]]
 | style="font-weight: bold;" | [[Halyn Lee Erickson]]
+| style="font-weight: bold;" | [[Jeremy Sweetlamb]]
 |-
 | [[Kaci Beeler]]
 | [[Marc Majcher]]
@@ -69,6 +74,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 | [[Lindsey Reeves]]
 | [[Michael Ferstenfeld]]
 | style="font-weight: bold;" | [[Michael Joplin]]
+| style="font-weight: bold;" | [[Jessica Arjet]]
 |-
 | [[Kareem Badr]]
 | [[Meghan Wolff]]
@@ -77,6 +83,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 | style="font-weight: bold;" | [[Lisa Jackson]]
 | [[Rachel Madorsky]]
 | [[Mike D'Alonzo]]
+| Katie Hartman
 |-
 | [[Matt Pollock]]
 | [[Roy Janik]]
@@ -85,6 +92,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 | [[Michael Joplin]]
 | [[Ruby Willmann]]
 | [[Quinn Buckner]]
+| [[Rachel Austin]]
 |-
 | [[Troy Miller]]
 | [[Valerie Ward]]
@@ -93,6 +101,7 @@ Repeat performers are in bold. As of 2015, eleven improvisers have completed the
 | style="font-weight: bold;" | [[Peter Rogers]]
 | style="font-weight: bold;" | [[Troy Miller]]
 | [[Sarah Marie Curry]]
+| [[Ryan Hill]]
 |}
 
 ## More Information
