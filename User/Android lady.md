@@ -1,1 +1,1 @@
-#REDIRECT [[User/Sarah Marie|User:Sarah Marie]]
+#REDIRECT [[Sarah Marie Curry]]
