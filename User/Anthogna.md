@@ -1,1 +1,30 @@
-Brent is a 2015 transplant to Austin, currently taking classes at [[The Hideout Theatre]] and recently joined the tech crew for Season 6 of [[Austin Secrets]]. He will write a much more flowery bio a bit later, but mostly wanted to get something in quickly so [[User/Hujhax|User:Hujhax]] knew it was him.
+{{Infobox Performer
+|Name	=	Brent Chismark	
+|Picture =	Brent Chismark Pic.jpg
+|Theater=	{{Unbulleted list | [[The Hideout Theatre]] }}
+|Years	=	2015-Present
+}}
+
+**Brent Chismark** is a stage and technical improvisor and transplant from Metro Detroit, MI. 
+
+
+## Summary
+Brent's earliest improv experience comes from playing basic short-form games in high school acting classes and as part of rehearsals for scripted productions.
+
+After providing some technical consulting to the pilot episode of the *Tales from [[The Black Vault]]* podcast, and making the decision to move to Austin, he joined the *Tales from The Black Vault* team as a production engineer in 2015, working remotely on around half of the first season's episodes.
+
+On arriving in Austin in June of 2015, he started taking classes at [[The Hideout Theatre]], joining [[Andy Crouch]]'s Level 1, continuing with Level 2 with [[Jessica Arjet]] and [[Kareem Badr]] and then through levels 3-6 with his cohort (known as "Zippy Spork") and Kareem.
+
+In December of 2015, Brent participated in his first [[Maestro Raw]], winning the coveted CAD$5.
+
+His first foray into Technical Improvising was with the 2016 run of [[Austin Secrets]] in March/April, where he worked on that show's interstitial scoring. Later, he created the "hosting" video sequences for the May/June 2016 run of [[Fiasco]].
+
+Outside of improv, Brent works remotely for an IT Outsourcing company as "the guy that makes pretty graphs that show how well we're doing our job." He also has a history of "minor fame and infamy" in the contemporary a cappella community.
+
+
+## Shows
+* *[[Austin Secrets]]* (2016 run) (scoring)
+* *[[Fiasco]]* (2016) (hosting videos)
+
+<!-- [[Category/Performers|Chismark]] remove at go-live -->
+<!-- [[Category/Techs|Chismark]] remove at go-live -->
