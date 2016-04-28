@@ -1,5 +1,10 @@
-**Manuel Duran** is an improv performer and writer.
+{{Infobox Performer
+|Name	=	Manuel Duran
+|Theater=	[[The Hideout Theatre]]
+|Years	=	2011-Present
+}}
 
+**Manuel Duran** is an improv performer.
 
 ## Troupes
 * [[Duran & Johnson]]
@@ -17,3 +22,7 @@
 ## Directing
 * *[[Home for the Holidays]]* - Assistant Director
 * *[[Origins]]* - Co-director
+
+[[Category/Performers|Duran]]
+[[Category/Directors|Duran]]
+[[Category/Teachers|Duran]]
