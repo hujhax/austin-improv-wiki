@@ -11,4 +11,9 @@
 * *[[What the F@$]]*
 * *[[Wanderlust]]*
 * *[[Buzz Band]]*
-* [[Lonely Star]]
+* *[[Lonely Star]]*
+* *[[Savage Swords]]*
+
+## Directing
+* *[[Home for the Holidays]]* - Assistant Director
+* *[[Origins]]* - Co-director
