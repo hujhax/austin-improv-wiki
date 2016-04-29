@@ -3,6 +3,7 @@
 ## Core Players
 * [[Jessica Arjet]]
 * [[Rachel Posey Austin]]
+* [[Katie Hartman]]
 * [[Ryan Hill]]
 * [[Ace Manning]]
 * [[Jeremy Sweetlamb]]
