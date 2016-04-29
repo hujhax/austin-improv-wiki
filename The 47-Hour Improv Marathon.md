@@ -5,8 +5,8 @@ TBA
 
 ## Staff
 * [[Roy Janik]] - Artistic Director
-* [[Ryan Hill]] - Co-Producer
 * [[Jessie Pascarelli]] - Co-Producer
+* [[Rob Yoho]] - Co-Producer
 
 ## Schedule
 TBA
