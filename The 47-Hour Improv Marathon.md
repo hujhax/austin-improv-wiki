@@ -1,14 +1,13 @@
 **The 47-Hour Improv Marathon** will be the eighth annual [[Hideout Improv Marathon]].  It will take place from June 17-19, 2016.
 
 ## Core Players
-* Ryan Hill
-* Jeremy Sweetlamb
-* Caitlin Sweetlamb
-* Chuy Zarate
-* Jessica Arjet
-* Rachel Posey Austin
-* Ace
-*
+* [[Jessica Arjet]]
+* [[Rachel Posey Austin]]
+* [[Ryan Hill]]
+* [[Ace Manning]]
+* [[Jeremy Sweetlamb]]
+* [[Caitlin Sweetlamb]]
+* [[Chuy Zarate]]
 
 ## Staff
 * [[Roy Janik]] - Artistic Director
