@@ -4,7 +4,7 @@
 |Years	=	2011-Present
 }}
 
-**Manuel Duran** is an improv performer.
+**Manuel Duran** is an improv performer, director, and teacher.
 
 ## Troupes
 * [[Duran & Johnson]]
