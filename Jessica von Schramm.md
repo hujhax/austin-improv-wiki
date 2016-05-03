@@ -29,9 +29,10 @@ Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in 
 
 ## Festivals
 * [[The 2015 Improvised Play Festival]]
-* 2015 Boston Comedy Arts Festival
+* [[2015 Boston Comedy Arts Festival]]
 * [[The 2015 Out of Bounds Comedy Festival]]
 * [[WaffleFest 2015]]
 * [[FronteraFest 2016]]
+* [[2016 Houston Improv Festival]]
 
 [[Category/Performers|Von Schramm]]
