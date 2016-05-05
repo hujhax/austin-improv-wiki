@@ -26,13 +26,16 @@ A post from her about the first improv show she ever saw:<blockquote>I saw "Star
 * [[Tight Cookie]]
 
 ## Shows
+* *[[The Ladies Room]]*(improv) 2016
+* *[[Will You Be My Tinderella]]*(improv)
+* *[[The Ladies Room]]*(improv)2015
 * *[[GrimmNoir]]*
 * *[[Love Fest]]* (performer, improv, host)
 * *[[Christmas at the Cozy Mountain Inn]]* (improv)
 * *[[Thinning the Herd]]* (producer, season three)
 * *[[Bad Girls in Plaid Skirts]]* (performer, scripted, "Juanita", 1-time fill in)
 * *[[Danger!]]* (performer, improv)
-* *[[Flying Theater Machine]]* (performer, improv 2013- present)
+* *[[Flying Theater Machine]]* (performer, improv 2013- 2015)
 * *[[The Informal Pig Show]]* (host)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Manson -  The Musical]]* (performer, scripted, "Katie")
