@@ -26,9 +26,9 @@ A post from her about the first improv show she ever saw:<blockquote>I saw "Star
 * [[Tight Cookie]]
 
 ## Shows
-* *[[The Ladies Room]]*(improv) 2016
+* *[[The Ladies Room]]* (improv) 2016
 * *[[Will You Be My Tinderella]]*(improv)
-* *[[The Ladies Room]]*(improv)2015
+* *[[The Ladies Room]]* (improv)2015
 * *[[GrimmNoir]]*
 * *[[Love Fest]]* (performer, improv, host)
 * *[[Christmas at the Cozy Mountain Inn]]* (improv)
