@@ -10,6 +10,8 @@
 |Tech               = {{Unbulleted list | [[Cindy Page]] (Scoring Lead/Sound Swing) | [[Jay Mahavier]] (Sound Effects Lead) | [[Joy Parks]] (Stage Manager) | [[Kelly Campbell]] (Scoring Tech) | [[Lindsey McGowen]] (Light & Multimedia Lead) | [[Nichole Bennett]] (Lighting Tech) | [[Thedward Blevins]] (Multimedia Tech)}}
 }}
 
+![[Fiasco Set.jpg|Fiasco set, by [[Kaci Beeler]].]]
+
 ***Fiasco*** will be the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].  
 
 ## Summary
