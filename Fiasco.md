@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = Fiasco
-|Picture            = Fiasco Placeholder.png
+|Picture            = Fiasco Poster.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Peter Rogers]]
 |Assistant Director = [[Kevin Miller]]
