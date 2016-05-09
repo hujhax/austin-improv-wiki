@@ -120,7 +120,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Heather Hasselle]]
 * [[John Ratliff]]
 * [[Jon Bolden]]
-* [[Kaci Danger]]
+* [[Kaci Beeler]]
 * [[Lisa Jackson]]
 * [[Quinn Buckner]]
 * [[Shannon Dale Stott]]
