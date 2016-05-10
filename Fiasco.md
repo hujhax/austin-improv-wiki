@@ -12,7 +12,7 @@
 
 ![[Fiasco Set.jpg|Fiasco set, by [[Kaci Beeler]].]]
 
-***Fiasco*** will be the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].  
+***Fiasco*** is the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].  
 
 ## Summary
 The show is an improvised crime caper, adapted from [[Wikipedia - Fiasco (role-playing game)|the Bully Pulpit Games RPG]] and loosely inspired by [[Wikipedia - Coen Brothers|Coen Brothers films]].  It is an ensemble show with elements of farce that focuses on criminal plans going very, very wrong.
@@ -31,6 +31,14 @@ The set includes a large display screen, which shows 'hosting videos' (short vid
 ### Publicity Blurb
 From the show announcement:<blockquote>A crime caper goes disastrously wrong in this improvised dark comedy, inspired by [[Wikipedia - Coen Brothers|Coen Brothers]] classics like *[[Wikipedia - Fargo (film)|Fargo]]* and *[[Wikipedia - The Big Lebowski|The Big Lebowski]]*.  Based on [[Wikipedia - Fiasco (role-playing game)|the award-winning RPG]].
 </blockquote>
+
+## Media
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.10154176921787265.1073741875.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/4/16 preview show.
+* [http://www.facebook.com/media/set/?set=a.1188746147855566.1073742345.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/7/16 premiere.
+
+### Videos
+* [http://vimeo.com/165776101 Video of the 5/7/16 premiere.]
 
 ## More Information
 * [http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/ The show announcement] on the Hideout's facebook group.
