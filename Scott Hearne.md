@@ -6,7 +6,7 @@
 }}
 [[Category/Performers|Hearne]]
 
-**Scott Hearne** is an improviser and podcaster. He is the creator of [[The Theft Forum]] podcast.
+**Scott Hearne** is an improviser, producer, and podcaster. He is the creator of [[The Theft Forum]] podcast.
 
 
 ## Troupes
