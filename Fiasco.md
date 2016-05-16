@@ -39,6 +39,7 @@ From the show announcement:<blockquote>A crime caper goes disastrously wrong in 
 
 ### Videos
 * [http://vimeo.com/165776101 Video of the 5/7/16 premiere.]
+* [http://vimeo.com/166833003 Video of the 5/14/16 performance.]
 
 ## More Information
 * [http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/ The show announcement] on the Hideout's facebook group.
