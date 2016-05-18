@@ -22,7 +22,7 @@ Luis began his improv journey in the Fall of 2009, with the Improv 101 course at
 * [[Buzz Band]]
 * *[[Close Up]]*
 * *[[183 Dewberry Lane]]*
-
+* *[[The Secret Life of Inanimate Objects]]*
 
 
 
