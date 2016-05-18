@@ -5,7 +5,7 @@
 |Years	=		2016-Present
 }}
 
-**Too Shy Guys** is an improv duo.
+**Too Shy Guys** is a musical improv duo.
 
 ## Summary
 Two Guys doing improv together. Hopefully they occasionally break out in song. While doing improv. Not during normal business hours. That would be weird.
