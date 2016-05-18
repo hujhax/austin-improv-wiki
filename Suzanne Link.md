@@ -15,5 +15,6 @@
 * *[[Close Up]]*
 * *[[Golden (mainstage)|Golden]]*
 * *[[Savage Swords]]*
+* *[[The Secret Life of Inanimate Objects]]*  (Assistant Director)
 
 [[Category/Performers|Link]]
