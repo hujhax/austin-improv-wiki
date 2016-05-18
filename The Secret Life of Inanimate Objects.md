@@ -2,8 +2,8 @@
 |Name               = The Secret Life of Inanimate Objects
 |Picture            = The Secret Life of Inanimate Objects Image.jpg
 |Theater            = [[The Hideout Theatre]]
-|Director           = TBA
-|Assistant Director = TBA
+|Director           ={{Unbulleted list | [[J. R. Zambrano]] | [[Marc Majcher]] }}
+|Assistant Director =  [[Suzanne Link]]
 |Run                = June 2016
 |Cast               = {{Unbulleted list | [[Aaron Rubin]] | [[Bonnie Dilber]] | [[Christina Keller]] | [[Joy Parks]] | [[Kelly Campbell]] | [[Lahari Samineni]] | [[Luis Salinas]] | [[Nichole Bennett]] | [[Tyler Groce]] }}
 |Tech               = TBA
