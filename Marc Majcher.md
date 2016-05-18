@@ -79,6 +79,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Rock]]*
 * *[[The Sandbox]]* (Performed, Directed "Bloody Work")
 * *[[Savage Swords]]* (director)
+* *[[The Secret Life of Inanimate Objects]]*  (Co-director)
 * *[[Seance]]*
 * *[[Spirited]]* (Performed and co-directed)
 * *[[Start Trekkin']]*
