@@ -25,5 +25,6 @@ Past:<br>
 * *[[Maestro]]*
 * *[[Maestro Raw]]*
 * *[[Austin Monologue Jam]]*
+* *[[The Secret Life of Inanimate Objects]]*
 
 [[Category/Performers|Samineni]]
