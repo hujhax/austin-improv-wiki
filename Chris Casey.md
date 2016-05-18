@@ -15,6 +15,9 @@ He was inspired to try improv by his kids who also took classes at [[The Hideout
 * [[Space Swank]]
 
 ## Shows
+* *[[The Weekender]]*
+* *[[Maestro]]*
+* *[[Maestro Raw]]*
 * *[[2x4]]*
 * *[[Musical Night at Indra's]]*
 
