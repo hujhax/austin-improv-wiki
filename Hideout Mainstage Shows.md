@@ -204,7 +204,7 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |-
 |Apr 2016||*[[Origins]]*|| [[Manuel Duran]], [[Roy Janik]]
 |-
-|Jun 2016||*[[Vampire High School]]*||[[Kaci Beeler]]
+|Jun 2016||*[[The Secret Life of Inanimate Objects]]*|| [[J. R. Zambrano]], [[Marc Majcher]]
 |-
 |Aug 2016||*[[Story to the Death]]*||[[Andy Crouch]]
 |-
