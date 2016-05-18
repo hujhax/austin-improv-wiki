@@ -13,5 +13,6 @@
 * *[[Buzz Band]]*
 * *[[Four Chambers]]* ("The Icebox")
 * *[[SongRunner]]*
+* *[[The Secret Life of Inanimate Objects]]*  (Co-director)
 
 [[Category/Performers|Zambrano]]
