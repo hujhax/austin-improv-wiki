@@ -6,7 +6,7 @@
 |Assistant Director =  [[Suzanne Link]]
 |Run                = June 2016
 |Cast               = {{Unbulleted list | [[Aaron Rubin]] | [[Bonnie Dilber]] | [[Christina Keller]] | [[Joy Parks]] | [[Kelly Campbell]] | [[Lahari Samineni]] | [[Luis Salinas]] | [[Nichole Bennett]] | [[Tyler Groce]] }}
-|Tech               = {{Unbulleted list | [[Benjamin Blattberg]] | [[Carolyn Gjertsen]] | [[Nick Amsden]] }}
+|Tech               = {{Unbulleted list | [[Benjamin Blattberg]] | [[Carolyn Gjertsen]] | [[Cortney DeAngelo]] (tech director) | [[Nick Amsden]] }}
 }}
 
 ***The Secret Life of Inanimate Objects*** will be the June 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
