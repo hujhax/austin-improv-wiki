@@ -12,7 +12,7 @@ Mary has participated in numerous improv workshops including Narration in Improv
 
 ## Troupe
 * [[Illuminati]]
-*[[Human People Musical Improv]]
+*[[Human People]]
 
 ## Shows
 * *[[Buzz Band]]*
