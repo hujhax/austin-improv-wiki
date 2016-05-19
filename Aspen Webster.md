@@ -20,6 +20,7 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 * *[[183 Dewberry Lane]]* (2016)
 * *[[Fiasco]]* (2016)
 * *[[Shameless Dames]]* (2016)
+* ''[[Story to the Death]] (2016) (Assistant Director)
 
 ## Troupes
 * [[History Under the Influence]] (2015)
