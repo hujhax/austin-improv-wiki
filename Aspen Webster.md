@@ -24,5 +24,6 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 ## Troupes
 * [[History Under the Influence]] (2015)
 * [[Physics Curse]] (2014-2015)
+* [[An Englishman and a Belle]]
 
 [[Category/Performers|Webster]]
