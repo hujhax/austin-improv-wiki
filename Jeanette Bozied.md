@@ -12,7 +12,7 @@ Jeanette trained at [[The Institution Theater]].
 ## Troupes
 *  [[Je Ju]]
 *  [[Honey Ladies]]
-*  [[No Frills]] (2013-Present)
+*  [[No Frills]] (2013-2015)
 
 ## Shows
 * *[[The Next Chapter]]*
