@@ -2,7 +2,7 @@
 |Name	=	No Frills
 |Picture =     No Frills.jpg
 |Cast	=	{{Unbulleted list | [[Ash Nunley]] | [[Jeanette Jones]] | [[Jessie Pascarelli]] | [[Megan Venable]] }}
-|Years	=		2013-Present
+|Years	=		2013-2015
 }}
 
 **No Frills** is a troupe that focuses on monoscenes about women who like each other.
