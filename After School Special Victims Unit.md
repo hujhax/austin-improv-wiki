@@ -15,7 +15,8 @@
 The show had a couple of previews in August 2011, and then ran on Fridays and Saturdays in September.
 
 ## Media
-zolpidem india  10mg zolpidem . order ambien online no prescription zolpidem tartrate tablets ip 10mg  zolpidem tartrate online ambien cr india ambien from mexico ordering ambien online . zolpidem dosage 15 mg maximum dose of ambien zolpidem india <a href=>zolpidem cr generic</a>. is ambien a benzodiazepine zopidem 10mg of ambien ambien dependency .
+### Photos
+* [http://www.facebook.com/hujhax/media_set?set=a.10150415827517265.412729.588952264&type=3 A photoset] by [[Peter Rogers]] of their 9/30/11 show.
 
 ## More Information
 * [http://www.coldtownetheater.com/blog/mainstage-sketch-show-has-a-name-september-debut The show's announcement on the ColdTowne Theater blog.]
