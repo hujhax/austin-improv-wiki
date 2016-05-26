@@ -1,5 +1,5 @@
 {{Infobox Performer
-|	=	Quinn Buckner	
+|Name=	Quinn Buckner	
 |Picture =	10265436 731735563556629 9022827585682735943 o.jpg
 |Theater=	[[The Hideout Theatre]]
 |Teacher = [[The Hideout Theatre]]
