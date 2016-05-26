@@ -21,6 +21,11 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * *[[Maestro]]*
 * *[[Nothing and Everything]]*
 
+## Festivals
+* 2016 - The Improvised Play Festival: *[[Boy, Howdy!]]*
+* 2015 - *[[46-Hour Improv Marathon]]*: *[[Happily Ever After]]*, *[[Maestro]]*, *[[Buzz Band]]*
+* 2015 - The Improvised Play Festival: *[[Nothing and Everything]]*
+
 ## More Information
 * [http://www.megansherrod.com Megan's web page], which includes more information about her performance activities.
 
