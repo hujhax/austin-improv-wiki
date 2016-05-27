@@ -156,6 +156,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Casey Quinlan]]
 * [[Jay Mahavier]]
 * [[Kelly Campbell]]
+* [[Rob Yoho]]
 
 ## Media
 ### Videos
