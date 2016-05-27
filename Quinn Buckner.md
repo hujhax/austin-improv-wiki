@@ -41,12 +41,16 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 *2012 - The Out Of Bounds Comedy Festival - [[Dukes of Bedside Manor]], [[The Professor]]
 *2012 - Improvaganza (Hawaii) - [[The Professor]]
 *2013 - The Out Of Bounds Comedy Festival - [[Ghetto Sketch Warlock]], [[Known Wizards]], [[The Professor]], [[RhinoDino]]
+*2013 - Sketchfest / Cover Night - [[Tastemakers]]
+*2013 - 24hr Sketchfest - [[Tastemakers]]
 *2014 - Vancouver Theatre Sports League Valentine's Day Massacre - *[[Theatresports]]* 
 *2014 - Improvised Play Festival - *[[The Big Bash]]*, *[[Kenjutsu]]*
 *2014 - The Out Of Bounds Comedy Festival - [[Tastemakers]]
+*2014 - Sketchfest / Cover Night - [[Tastemakers]]
 *2015 - Improvised Play Festival - *[[Austin Secrets]]*
 *2015 - [[46-Hour Improv Marathon]]
 *2015 - The Out Of Bounds Comedy Festival - [[Austin-Austin]], [[Tastemakers]], *[[Thunderdome]]*
+*2015 - Sketchfest / Cover Night - [[Tastemakers]]
 *2016 - Frontera Fest - [[Austin-Austin]]
 *2016 - DuoFest - [[Austin-Austin]]
 *2016 - Improvaganza (Edmonton) - [[Austin-Austin]]
