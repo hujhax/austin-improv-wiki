@@ -4,7 +4,7 @@
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2011-Present
 }}
-**Thedward Blevins** is an improv performer.
+**Thedward Blevins** is an improv performer and tech.
 
 He began studying improv at [[The Hideout Theatre]] and has since taken classes at [[The Merlin Works Institute for Improvisation]] and [[The Institution Theater]]. 
 
