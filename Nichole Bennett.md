@@ -17,3 +17,4 @@
 
 
 [[Category/Performers|Bennett]]
+[[Category/Techs|Bennett]]
