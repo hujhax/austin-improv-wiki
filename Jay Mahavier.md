@@ -8,10 +8,10 @@
 **Jay Mahavier** is an improv performer, photographer and tech.
 
 ## Shows
-* *[[Control Issues]]* (tech, lights)
-* *[[Boy, Howdy!]]* (tech, lights)
-* *[[Savage Swords]]* (tech, lights)
-* *[[Austin Secrets]]* (2016 run) (tech, lights)
+* *[[Control Issues]]* (tech, swing)
+* *[[Boy, Howdy!]]* (tech, sound effects)
+* *[[Savage Swords]]* (tech, swing)
+* *[[Austin Secrets]]* (2016 run) (tech, scoring)
 * *[[Fiasco]]* (tech, sound effects)
 
 [[Category/Performers|Mahavier]]
