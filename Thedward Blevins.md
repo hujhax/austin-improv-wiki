@@ -35,3 +35,4 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 * [http://yesandrew.com/2013/07/12/in-praise-of-thedward-blevins/ "In Praise Of..." post] by [[Ryan Austin]].
 
 [[Category/Performers|Blevins]]
+[[Category/Techs|Blevins]]
