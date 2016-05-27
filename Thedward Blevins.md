@@ -16,6 +16,7 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 * *[[Camp Madeupponthaspotta]]* (2014)
 * *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013 & 2014) (cohost)
 * *[[Lord Wensleydale’s Last High Tea]]* (2013)
+**[[Fiasco]]* (2016) (Multimedia Tech)
 * *[[The Free Fringe]]* (2012-{{CURRENTYEAR}})
 * *[[Flying Theater Machine]]* (2012-{{CURRENTYEAR}})
 * *[[Pick Your Own Path]]* (2012-2014)
