@@ -15,7 +15,7 @@ Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in 
 * [[Infotainment]] (2013)
 * [[Golden]]
 * [[Minority Report]]
-* [[Things We Don't Speak Of]]
+* [[Things We Don't Speak Of]] (2015-2016)
 * [[AJAR]]
 
 ## Shows
