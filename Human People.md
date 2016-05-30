@@ -15,7 +15,7 @@
 People who love doing musical improv together.
 
 ## History
-Greg started a musical practice group during level three music class at [[The Hideout Theatre]]. Out of that, a format and Human People was born.
+Greg started a musical practice group during level three music class at [[The Hideout Theatre]]. Out of that, a format and Human People were born.
 
 ## More Information
 * [https://www.facebook.com/Human-People-1709857375961100 The troupe's facebook page.]
