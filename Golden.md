@@ -29,9 +29,9 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 07-05-15	Barber	 - Hideout:	Weekender Showcase
 * 08-17-15	Astronaut	 - New Movement Theater:	Knockout Competition Show
 * 09-01-15	Magician; Therapist	 - Hideout:	Out of Bounds Comedy Festival (OOB)
-* 09-12-15	Stripper	 - Boston:	Boston Comedy Arts Festival
-* 09-14-15	Firefighter	 - New Movement Theatre:	Knockout (Semi-Finals)
-* 09-20-16	Plumber	 - Hideout:	Weekender
+* 09-12-15	Stripper	  - Boston:	Boston Comedy Arts Festival
+* 09-14-15	Firefighter  - New Movement Theatre:	Knockout (Semi-Finals)
+* 09-20-16	Plumber	  - Hideout:	Weekender
 * 09-23-15	Postal Worker	 - ColdTowne Repertory Theatre:	Cage Match Competition
 * 10-09-15	Silent Retreat	 - Institution Theatre:	Mr. Morbid's Midnight Movie Mayhem Madness Masacre
 * 10-22-15	Faceless - Mask Montage	 - Hideout:	Free Fringe
@@ -42,7 +42,8 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 02-18-16	Undertaker	 - Hideout:	Threefer
 * 03-25-16	Firefighter	 - Dougherty Arts Center (DAC):	That Racket! Showcase
 * 04-09-16	Ice Cream Truck	 - Institution:	Mix Tape Showcase
-* 04-30-15       Inmate	 -Institution: Tightrope
+* 04-30-16       Inmate	 -Institution: Tightrope
+* 05-29-16       Assassin & Dinosaur Hunter  - Hideout: Weekender Showcase
 
 ## Videos
 * [http://vimeo.com/132330223 Threefer Showcase, 06-25-15]
