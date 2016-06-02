@@ -42,6 +42,7 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 02-18-16	Undertaker	 - Hideout:	Threefer
 * 03-25-16	Firefighter	 - Dougherty Arts Center (DAC):	That Racket! Showcase
 * 04-09-16	Ice Cream Truck	 - Institution:	Mix Tape Showcase
+* 04-30-15       Inmate	 -Institution: Tightrope
 
 ## Videos
 * [http://vimeo.com/132330223 Threefer Showcase, 06-25-15]
