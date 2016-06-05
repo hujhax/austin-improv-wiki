@@ -13,6 +13,10 @@ Two Guys doing improv together. Hopefully they occasionally break out in song. W
 ## History
 Greg and Chris met during level three music class at [[The Hideout Theatre]]. Later Chris took an improv workshop from [[Curtis Luciani]] who recommended Chris form a duo in order to work through some of his trust issues. Thus Two Shy Guys was born.
 
+## Shows
+* *[[2x4]]*
+* *[[Musical Night at Indra's]]*
+
 ## More Information
 * [http://www.facebook.com/TooShyGuys The troupe's facebook page.]
 
