@@ -17,6 +17,7 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * *[[Boy, Howdy!]]*
 * *[[Buzz Band]]*
 * *[[The Fancy-Pants Mash-Up]]*
+* *[[The Fool's Well]]*
 * *[[Happily Ever After]]*
 * *[[Maestro]]*
 * *[[Nothing and Everything]]*
