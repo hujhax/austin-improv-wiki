@@ -22,6 +22,7 @@ A post from him about the first improv show he ever saw:<blockquote>The first im
 * [[Girls Girls Girls]]
 * [[Hell's Bells]]
 * [[Indigo Shift]]
+* [[Comedy Spartans]]
 
 ### Out-of-Town Troupes
 Brockman has accompanied a number of visiting acts, and accompanied acts while on tour himself:
