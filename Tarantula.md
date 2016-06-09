@@ -27,6 +27,31 @@ Tarantula is a combination of improv and live music melding together in the most
 The show is produced and/or curated (depending on your loose definition in a formless form thingy whats-it) by [[Sarah Marie Curry]], who originated the idea after a production meeting for [[The Staple Shows]] at The Institution Theater, wherein she was asked to create a long running show to reduce the strain of turning over multiple new productions at once. She was asked what she thought would be marketable, enduring and inspiring. She came up with TARANTULA instead. The name came from thinking of insects (*Mayfly*) and that the cast is often made of eight improvisors, and the work they do endeavors to be beautiful and scary. 
 
 ### Casts
+#### April 30th, 2016
+* [[Kierstin Cecelia]]
+* [[Megan Mowry]]
+* [[Sarah Marie Curry]]
+* [[Heidi Noelle]]
+* [[Wyatt Tall]]
+* [[Kenny Madison]]
+* [[Nicholaus Weindel]]
+* [[AJ Reyes]]
+* Musician: [[Mathilde Legrand]]
+* Light: [[Mark Shoemaker]]
+
+
+#### March 12th, 2016
+* [[Asaf Ronen]]
+* [[Megan Mowry]]
+* [[Kierstin Hettler]]
+* [[Aspen Webster]]
+* [[Adam Mengesha]]
+* [[Michael Ferstendfeld]]
+* [[Luke Wallens]]
+
+* Light: [[Mark Shoemaker]]
+
+
 #### February 13th, 2016
 * [[Sam Schack]]
 * [[Sarah Marie Curry]]
@@ -36,8 +61,8 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Michael Ferstenfeld]]
 * [[Luke Wallens]]
 * [[Adam Mengesha]]
-
 * Musician: [[Ben Laussade]]
+* Light: [[Mark Shoemaker]]
 
 #### January 9th, 2016
 * [[Amanda Smith]]
@@ -50,6 +75,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Adam Mengesha]]
 * [[Shannon McCormick]]
 * Musician: [[Chris Petkus]]
+* Light: [[Mark Shoemaker]]
 
 #### December 12th, 2015
 * [[Kacey Samiee]]
@@ -62,6 +88,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Adam Mengesha]]
 * [[Shannon McCormick]]
 * Musician: [[Josh Ronsen]]
+* Light: [[Mark Shoemaker]]
 
 #### November 14th, 2015
 * [[Adam Mengesha]]
@@ -73,6 +100,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Shannon McCormick]]
 * [[Jeremy Moran]]
 * Musician: [[Peter Stopschinki]]
+* Light: [[Mark Shoemaker]]
 
 #### October 10th, 2015
 * [[Adam Mengesha]]
@@ -83,6 +111,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Sarah Marie Curry]]
 * [[Wyatt Tall]]
 * Musician: [[Brent Baldwin]]
+* Light: [[Mark Shoemaker]]
 
 #### September 12th, 2015
 * [[Adam Mengesha]]
@@ -95,6 +124,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Sarah Marie Curry]]
 * [[Shannon McCormick]]
 * Musician: [[Southpaw Jones]]
+* Light: [[Mark Shoemaker]]
 
 #### August 8th, 2015
 * [[Ashlee Medlin]]
@@ -106,6 +136,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Michael Ferstenfeld]]
 * [[Shannon McCormick]]
 * Musician: [[Lindsay McKenna]]
+* Light: [[Mark Shoemaker]]
 
 #### July 11th, 2015
 * [[Brently Heilbron]]
@@ -118,6 +149,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Sam Schak]]
 * [[Sarah Marie Curry]]
 * Musicians: *[[The Source]]* Band
+* Light: [[Mark Shoemaker]]
 
 #### June 13th, 2015
 * [[Adam Mengesha]]
@@ -129,6 +161,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Sam Freckles Schak]]
 * [[Sarah Marie Curry]]
 * Musician: [[David Ronn]]
+* Light: [[Mark Shoemaker]]
 
 #### May 16th, 2015
 * [[Adam Mengesha]]
@@ -140,6 +173,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Michael Ferstendfeld]]
 * [[Sarah Marie Curry]]
 * Musician: [[Content Knowles]]
+* Light: [[Mark Shoemaker]]
 
 #### April 18th, 2015
 * [[Ashley Nugent]]
@@ -149,6 +183,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Sarah Marie Curry]]
 * [[Tom Booker]]
 * Musician: [[Ammon Taylor]]
+* Light: [[Mark Shoemaker]]
 
 #### March 21st, 2015
 * [[Adam Mengesha]]
@@ -159,6 +194,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Sam Schak]]
 * [[Sarah Marie Curry]]
 * Musician: [[Content Knowles]]
+* Light: [[Mark Shoemaker]]
 
 #### February 21st, 2015
 * [[Ashley Nugent]]
@@ -169,6 +205,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Sam Schak]]
 * [[Sarah Marie Curry]]
 * Musician: [[Brently Heilbron]]
+* Light: [[Mark Shoemaker]]
 
 #### January 24th, 2015
 * [[Arthur Simone]]
@@ -180,6 +217,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Sarah Marie Curry]]
 * [[Tom Booker]]
 * Musicians: [[Ryan Hill]], [[Lindsey McGowen]]
+* Light: [[Mark Shoemaker]]
 
 ## Media
 ### Photos
