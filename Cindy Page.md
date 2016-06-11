@@ -38,6 +38,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[Lonely Star]]* *(tech director, light tech)*
 * *[[One Small Step]]* *(performer)*
 * *[[Only Three Will Survive]]* *(tech)*
+* *[[Origins]]* *(tech director)*
 * *[[Pocketful of Posies]]* *(tech)*
 * *[[Rock]]* *(light tech)*
 * *[[Savage Swords]]* *(costume designer, sound tech)*
