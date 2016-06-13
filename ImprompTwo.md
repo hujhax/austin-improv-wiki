@@ -10,7 +10,7 @@
 ***ImprompTwo*** is a weekly performance slot at [[The Institution Theater]].
 
 ## Summary
-*ImprompTwo* is a "casual duo night", featuring [[Cascade]] with another guest duo each week. The first ten audience members get free wine.
+*ImprompTwo* is a "casual duo night", featuring [[Cascade]] with another guest duo each week.
 
 ## Guests
 * January 11th - [[MANDINKA]]
