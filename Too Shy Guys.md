@@ -18,6 +18,10 @@ Greg and Chris met during level three music class at [[The Hideout Theatre]]. La
 * *[[Musical Night at Indra's]]*
 * *[[Impromp-Two]]*
 
+## Media
+### Videos
+* [https://www.facebook.com/TooShyGuys/videos/1100804609979897/ Impromp-Two] 06/16/2016
+
 ## More Information
 * [http://www.facebook.com/TooShyGuys The troupe's facebook page.]
 
