@@ -3,9 +3,10 @@
 |Picture            = Story to the Death Placeholder Image.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Andy Crouch]]
+|Assistant Director = [[Aspen Webster]]
 |Run                = Aug 2016
-|Cast               = TBA
-|Tech               = TBA
+|Cast               = {{Unbulleted list | [[Ann Symmonds]] [[Emily McDonald]] | [[Graham Snow]] | [[Heidi Rogers]] | [[Jessica Soos]] | [[Kay Krasin]] | [[Marc Jalandoon]] | [[Sushanti Sethi]] | [[Tosin Awofeso]] | [[Trent Symmonds]] }}
+|Tech               = {{Unbulleted list | [[Nichole Bennett]] | [[Heather Coffee]] }}
 }}
 
 ***Story to the Death*** will be the August 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
