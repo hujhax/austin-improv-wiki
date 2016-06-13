@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Mark Tindle	
-|Picture =	Mark Tindle Pic.jpg
+|Picture =	Mark Tindle pic.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2014-Present
 }}
