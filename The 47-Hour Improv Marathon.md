@@ -29,7 +29,7 @@
 * Saturday, 12am (Hour 8): [[Bad Boys]] 
 * Saturday, 1am (Hour 9): *[[Tech Nightmare]]* 
 * Saturday, 2am (Hour 10): "Orphans, Orphans, Orphans"
-** It's a musical! About Orphans! What more do you need, man?
+** "It's a musical! About Orphans! What more do you need, man?"
 * Saturday, 3am (Hour 11): [[Golden]]
 * Saturday, 4am (Hour 12): [[ColdTowne Theater]]
 ** "The Bat: improv in the dark... AKA a cruel trick to play on the Marathoners"
