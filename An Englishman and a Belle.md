@@ -26,3 +26,5 @@ In April 2016, they performed together again, first at [[Cascade]]'s [[ImprompTw
 *[http://www.hideouttheatre.com/improvised-play-festival-spotlight-an-englishman-and-a-belle An Englishman and a Belle profiled for The 2016 Improvised Play Festival.]
 
 [[Category/Troupes|An Englishman and a Belle]]
+[[Category/Active|Category:Active]]
+[[Category/Duos|Category:Duos]]
