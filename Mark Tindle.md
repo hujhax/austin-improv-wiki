@@ -18,7 +18,7 @@ He is the member of a number of teams in London, including Story Kitchen Impro (
 
 Mark has also begun to act an unofficial point of contact for AIC members in the UK. A role that he delights in playing! Over the last couple of years, he's welcomed [[Peter Rogers]], [[Lindsey McGowen]], [[Natalie Grigson]], [[Jessica Arjet]] and [[Brad Hawkins]], all of whom have played at the Duck Duck Goose Improv Jam.
 
-(He's also got a reputation in London as one of the most dapper men in improv, and just about matches up to both [[Kareem Badr]] and [[Tyler Lane]] in Austin. It's worth noting that he now owns so many suits, shirts and ties, that he's recently broken his clothes rack because their combined weight...)
+(He's also got a reputation in London as one of the most dapper men in improv, always wearing a suit when being the Englishman. And he reckons he just about matches up to both [[Kareem Badr]] and [[Tyler Lane]] in Austin. It's worth noting that he now owns so many suits, shirts and ties, that their combined weight recently broke his clothes rack...)
 
 ## Troupes
 * [[An Englishman and a Belle]] (2015-Present)
