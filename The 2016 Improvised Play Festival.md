@@ -21,7 +21,7 @@ It is produced by [[Thedward Blevins]].
 ### Out-of-Town Acts
 * Bunker 13 (Seattle)
 * Instant Theatre (Vancouver)
-* [[An Englishman and a Belle]] (London/Austin)
+* [[An Englishman and a Belle]] - [[Mark Tindle]]/[[Aspen Webster]] (London/Austin)
 * Ten Thousand Million Love Stories (London)
 
 ## More Information
