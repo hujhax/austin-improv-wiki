@@ -22,7 +22,7 @@ Mark has also begun to act an unofficial point of contact for AIC members in the
 
 ## Troupes
 * [[An Englishman and a Belle]] (2015-Present)
-* [[Are You Not Entertained!]] (with Brad Hawkins, 2016)
+* [[Are You Not Entertained!]], with Brad Hawkins (2016)
 
 ## Shows
 * *[[Arjet Universe]]* (in Austin and London)
