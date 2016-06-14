@@ -1816,7 +1816,7 @@ Featuring [[Megan Sherrod]], [[Suzanne Link]], [[Ted Meredith]], and [[Kristin K
 [[Halyn Lee Erickson|Halyn]], [[Marc Majcher|Marc]], and Ian will explore the poetic world of human puppetry on stage.
 
 #### Arjet Universe: "Ten Titles"
-The audience provides 10 titles and they are performed in 30 minutes -- NO CHEATING.  Starring Mark Tindle (from London), [[Jessica Arjet]], [[Aspen Webster]], and [[Andreas Fabis]].  [[Chad Wellington]] and [[Cindy Ward]] will keep them honest with lights, music and a timer.
+The audience provides 10 titles for stories, which are performed in EXACTLY 30 minutes -- NO CHEATING.  Starring [[Mark Tindle]] (from London), [[Jessica Arjet]], [[Aspen Webster]], and [[Andreas Fabis]].  [[Chad Wellington]] and [[Cindy Page]] will keep them honest with lights, music and a timer.
 
 ### April 9, 2015
 Dark for [[The 2015 Improvised Play Festival]].
