@@ -13,6 +13,8 @@
 Formed in 2015, these [[The Hideout Theatre]] alumni are divided by an ocean, but united by a love of improv and performing together. They formed to perform at the 2015 Tampa Improv Festival, after Mark received an invitation to perform from fellow Hideout alumni Nicholas Riggs and Hannah Prince. Aspen was Mark's first choice of fellow performer and he was delighted when she agreed to do a show together. At TIF, they did a David Razowsky-inspired two chairs format show, getting a great reception from a packed house.
 
 In April 2016, they performed together again, first at [[Cascade]]'s [[ImprompTwo]] show at [[The Institution Theater]] (doing the two chairs format again), and then at the Hideout's [[The 2016 Improvised Play Festival]], as part of the duos slot. Inspired by the rich, theatrical and character-led improv that the Hideout teaches, and the music of The Lumineers their show told two vignettes from characters' lives, allowing both performers to play a lead role. Each vignette was inspired by the name of a person significant to an audience member, and an emotion that they associated with them. The result was a delightful show, mixing comedy and powerful emotion and is something that both the Englishman and the Belle are very proud of.
+
+They're also becoming know as one of the more splendidly-dressed improv duos around. Like all the best improv-related decisions, what started as a joke about Mark wearing a waistcoat and Aspen a beautiful dress to the TIF show escalated rather spectacularly...
  
 ## History
 * 11/6/15 - 2015 Tampa Improv Festival
