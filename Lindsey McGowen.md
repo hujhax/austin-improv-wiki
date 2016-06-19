@@ -47,5 +47,6 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 
 ## More Information
 * [http://wikipella.org/wiki/Lindsey_McGowen Lindsey's wikipella page.]
+* Interviews by [[Andrew Buck]]: [http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/]
 
 [[Category/Techs|McGowen]]
