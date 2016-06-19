@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Rob Yoho
-|Picture =	robyohojpg
+|Picture =	robyoho.png
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2015-Present
 }}
