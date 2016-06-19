@@ -28,4 +28,4 @@ Rob is also an actor in improvised theatre, having appeared in productions in Au
 
 
 [[Category/Performers|Yoho]]
-[[Category/Tech|Yoho]]
+[[Category/Techs|Yoho]]
