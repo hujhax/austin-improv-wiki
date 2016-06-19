@@ -21,7 +21,8 @@ Greg and Chris met during level three music class at [[The Hideout Theatre]]. La
 
 ## Media
 ### Videos
-* [https://www.facebook.com/TooShyGuys/videos/1100804609979897/ Impromp-Two] 06/16/2016
+* [https://www.facebook.com/TooShyGuys/videos/1100804609979897/ Impromp-Two] 06/12/2016
+* [https://www.facebook.com/TooShyGuys/videos/1104186449641713/ Alamo City Improv] 06/18/2016
 
 ## More Information
 * [http://www.facebook.com/TooShyGuys The troupe's facebook page.]
