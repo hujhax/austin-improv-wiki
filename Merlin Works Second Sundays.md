@@ -17,7 +17,7 @@
 |-
 |November 13, 2016|| || 
 |-
-|October 9, 2016|| || 
+|October 9, 2016||Singing 301|| 
 |-
 |September 11, 2016|| || 
 |-
