@@ -12,7 +12,9 @@
 #### Don't Worry About it
 Basic montage with the stipulation that each scene end with the phrase "Don't Worry About It" as organically as possible. Its the goal that the audience (and maybe even players) become so engaged in the scene that they forget the phrase is coming.
 #### Dungeon Masters
-Loose proximity based scenes set in a primarily medieval fantasy world. After an pulling inspiration from 1 of 3 Dungeons and Dragons books (Gear, Monsters and NPCs), an initial scene serves as the base scene in which all the other scenes take places around or during either directly or indirectly. E.g an explosion in one scene may happen in another scene but far away
+Loose proximity based scenes set in a primarily medieval fantasy world. After an pulling inspiration from 1 of 3 Dungeons and Dragons books (Gear, Monsters and NPCs), an initial scene serves as the base scene in which all the other scenes take places around or during either directly or indirectly. E.g an explosion in one scene may happen in another scene but far away.
+#### Ships & Shantys
+A nautical narrative opening with an actual maritime chanty before pulling an in character suggestion from the "crew" (audience) on what to tell a sailor tale about. The sailors pitch a several possible stories to tell and the audience votes on which narrative to see. Narration and scene painting weave in and out of the story as needed.
 
 ### Other Formats
 #### Two Lost Brothers
