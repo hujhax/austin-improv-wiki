@@ -36,10 +36,17 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 
 ## Press/Audition Blurbs
 ***Who Are We? Long Version**
-"Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible. Ryan Austin is the group's debonair lady killer providing grounded scene work and an unstoppable positive energy. Quinn Buckner has been performing since 2009 and brings to the table an eye for support, an abundance of physicality, and a pension for fun. Ryan and Quinn have separately been to festivals from Out of Bounds to Improvaganza in Hawaii and have done numerous mainstages at the Hideout Theatre as well as shows all around Austin. "
+Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible.
+Ryan Austin is the group’s incorrigible flirt, providing grounded scene work and an unstoppable positive energy.
+Quinn Buckner rocks the strong silent vibe, bringing to the table an eye for support, an abundance of physicality, and a penchant for fun.
+Ryan and Quinn have separately and together played festivals from Out of Bounds in Austin, TX to Improvaganza in Honolulu and Edmonton as well as Düofest in Philadelphia. They play all around their home town of Austin, Texas and in addition to being in multiple main stage shows, they are also both teachers and faculty at the Hideout Theatre.
+They come together to form scenes ranging from fun fantasy romps to touching real world moments, often allowing the audience a joyful peak behind the curtain between scenes.
 
-*"Description"
+*"Dungeon Masters"
 "What happened to the stray arrow loose from the archer? Who got startled because of the explosion across the kingdom? When exactly did the goblins turn evil forever? Taking a suggestion from 1 of 3 D&D books, Austin/Austin fleshes out a fantasy world before your eyes. People, creatures, gods, and demons, even in a huge fantasy world things are a little more connected than you think..."
+
+*"Ships & Shanties"
+Lo! What dangers lie beyond that dark and stormy sea? Just listen, sailor!  Hear the songs of Sirens and the growl of whale bellies echo. Look! See the lightning splinter against a lone ship and cast the silhouette of tentacles. What fantastic and grim tales lie in the rigging of danger? What cataclysm calls you forth from the crows nest of open water? Find out with Austin/Austin in Ships and Shanties!
 
 ## More Information
 * [http://www.austinandaustin.us/ The duo's website.]
