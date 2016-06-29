@@ -8,12 +8,12 @@
 |Run	=	Sep/Oct 2014
 }}
 
-***Risen*** was a long-form improv show inspired by *[[Wikipedia - World War Z|World War Z]]*.
+***Risen*** was a long-form narrative improv show inspired by *[[Wikipedia - World War Z|World War Z]]* by Max Brooks.
 
 ## Summary
-Each week, an acclaimed Austin actor performed an edited selection from *[[Wikipedia - World War Z|World War Z]]* by Max Brooks, sharing a their first­hand account of the zombie apocalypse. Each monologue was from a different part of the world and a different level of outbreak.
+Each week, an acclaimed Austin actor performed an edited selection from *[[Wikipedia - World War Z|World War Z]]* by Max Brooks, sharing a their first­hand account of the zombie apocalypse. 
 
-The monologists included: 
+The monologists: 
 
 * Kwang Jing-shu: The Doctor - [[Leng Wong]]
 * Jacob Nyathi: The South African - [[Benjamin Scott]]
@@ -25,9 +25,9 @@ The monologists included:
 * Andre Renard: Under Paris - [[Jordan T. Maxwell]]
 * Darnell Hackworth: The Dog Handler - [[Brently Heilbron]] & Ambrosia
 
-The improv cast then did a full length narrative based on the monologue they just heard, taking us anywhere from China to Antarctica, island postwar economy to the Paris underground, through the panic of the outbreak to the front lines of the Z War and back again. Each week brought a new world, a new story, a new tale of survival or decimation.
+The improv cast then did a full length narrative inspired by the monologue. This could be considered a modified Armando format.
 
-[[Jason Vines]] was in charge of makeup effects for the show. [[Bryan Curry]] did scoring and sound effects, and [[Mark Shoemaker]] ran lights.
+[[Jason Vines]] was designed makeup effects for the show including latex zombie masks and blood effects. [[Bryan Curry]] did scoring and sound effects, and [[Mark Shoemaker]] designed and operated the lighting effects.
 
 ## Program Text
 What You Are About to Witness:
@@ -35,6 +35,11 @@ The scripted performance of a first hand account from a survivor of the Zombie A
 
 About the War:
 It goes by many names: “The Crisis,” “The Dark Years,” “The Walking Plague,” as well as newer and more “hip” titles such as “World War Z” or “The Zombie War,” and while many may protest the scientific accuracy of the word zombie, they will be hard pressed to discover a more globally accepted term for the creatures that almost caused our extinction. Zombie remains a devastating word, unrivaled in its power to conjure up so many memories or emotions. It has been only twelve years since VA Day was declared in the continental United States, and barely a decade since the last major world power celebrated its deliverance on “Victory in China Day.” The coming years will provide hindsight, adding greater wisdom to memories seen through the light of a matured, postwar world. But many of those memories may no longer exist, trapped in bodies and spirits too damaged or infirm to see the fruits of their victory harvested. It is no great secret that global life expectancy is a mere shadow of its former pre war figure. There simply are not enough resources to care for all the physical and psychological casualties of our last, great, total war.
+
+## Awards & Nominations
+* [https://ctxlivetheatre.com/reviews/review-risen-by-the-institution-theatre/] Review by Michael Meigs from CTX Live Theatre
+* [http://bidenpayne.wix.com/bidenpayneawards#!2015-Winners-and-Nominees/cu8q/55f9d43a0cf207897d4aedae] Nominated Outstanding Production 2015 B. Iden Payne Awards
+* [http://bidenpayne.wix.com/bidenpayneawards#!2015-Winners-and-Nominees/cu8q/55f9d43a0cf207897d4aedae] Nominated Outstanding Director [[Sarah Marie Curry]] 2015 B. Iden Payne Awards
 
 ## Media
 ### Photos
