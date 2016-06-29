@@ -51,6 +51,7 @@ It goes by many names: “The Crisis,” “The Dark Years,” “The Walking Pl
 
 ### Other
 * [http://youtu.be/o1tJwHaGpxU&feature=youtu.be Trailer for the show.]
+*[https://www.youtube.com/watch?v=ZDEbbtcOh_A] September 6th show featuring Benjamin Scott (first half hour)
 
 ## More Information
 * [http://forum.austinimprov.com/viewtopic.php?f=3&t=17545 The audition announcement] on [[The Austin Improv Forums]].
