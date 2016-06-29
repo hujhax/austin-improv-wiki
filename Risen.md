@@ -15,15 +15,15 @@ Each week, an acclaimed Austin actor performed an edited selection from *[[Wikip
 
 The monologists included: 
 
-1. Kwang Jing-shu: The Doctor - [[Leng Wong]]
-2. Jacob Nyathi: The South African - [[Benjamin Scott]]
-3. Sharon: The Feral Child - [[Sarah Marie Curry]]
-4. Maria Zhuganova: The Russian - [[Adriane Shown]]
-5. T. Sean Collins: The Mercinary - [[James Leary]]
-6. Jesika Hendricks: The All American - [[Courtney Hans]]
-7. David Allen Forbes: The Englishman - [[Kevin Miller]]
-8. 8. Andre Renard: Under Paris - [[Jordan T. Maxwell]]
-9. Darnell Hackworth: The Dog Handler - [[Brently Heilbron]] & Ambrosia
+* Kwang Jing-shu: The Doctor - [[Leng Wong]]
+* Jacob Nyathi: The South African - [[Benjamin Scott]]
+* Sharon: The Feral Child - [[Sarah Marie Curry]]
+* Maria Zhuganova: The Russian - [[Adriane Shown]]
+* T. Sean Collins: The Mercinary - [[James Leary]]
+* Jesika Hendricks: The All American - [[Courtney Hans]]
+* David Allen Forbes: The Englishman - [[Kevin Miller]]
+* Andre Renard: Under Paris - [[Jordan T. Maxwell]]
+* Darnell Hackworth: The Dog Handler - [[Brently Heilbron]] & Ambrosia
 
 The improv cast then did a full length narrative based on the monologue they just heard, taking us anywhere from China to Antarctica, island postwar economy to the Paris underground, through the panic of the outbreak to the front lines of the Z War and back again. Each week brought a new world, a new story, a new tale of survival or decimation.
 
