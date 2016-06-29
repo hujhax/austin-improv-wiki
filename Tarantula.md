@@ -26,6 +26,8 @@ Tarantula is a combination of improv and live music melding together in the most
 ## History
 The show is produced and/or curated (depending on your loose definition in a formless form thingy whats-it) by [[Sarah Marie Curry]], who originated the idea after a production meeting for [[The Staple Shows]] at The Institution Theater, wherein she was asked to create a long running show to reduce the strain of turning over multiple new productions at once. She was asked what she thought would be marketable, enduring and inspiring. She came up with TARANTULA instead. The name came from thinking of insects (*Mayfly*) and that the cast is often made of eight improvisors, and the work they do endeavors to be beautiful and scary. 
 
+In April of 2016, Artistic Director [[Tom Booker]] decided to make TARANTULA a quarterly show, occurring on the 5th Saturday of the month in an effort to reduce production fatigue and create more potent attraction and attendance. 
+
 ### Casts
 #### April 30th, 2016
 * [[Kierstin Cecelia]]
@@ -37,7 +39,7 @@ The show is produced and/or curated (depending on your loose definition in a for
 * [[Nicholaus Weindel]]
 * [[AJ Reyes]]
 * Musician: [[Mathilde Legrand]]
-* Light: [[Mark Shoemaker]]
+* Lord of Light: [[Mark Shoemaker]]
 
 
 #### March 12th, 2016
