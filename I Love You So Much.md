@@ -8,7 +8,7 @@
 |Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Andreas Fabis]] | [[Andrew Buck]] | [[Bridget Brewer]] | [[Jen Kaplan]] | [[Jordan T. Maxwell]] | [[Karen Jane DeWitt]] | [[Katie Dahm]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Ryan Austin]] | [[Ryan Hill]] | [[Sam Schak]] }}
 }}
 
-***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) is the current mainstage show at [[The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
+***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) was a mainstage show at [[The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*. It ran in January and February of 2014.
 
 ## Summary
 Each performance features three interwoven stories, each one centered on a loving relationship.  These relationships may not be traditionally romantic ones -- while it could be the story of two lovers, it could also be the story of a man and his dog.  Each performer plays one character through an entire performance, perhaps featuring as a protagonist in the first story, a supporting character in the second, and a momentary "extra" in the third.  The show emphasizes honest, grounded scenes and vulnerability, similar to the style of British improv duo [http://www.facebook.com/TenThousandMillionLoveStories Ten Thousand Million Love Stories].
