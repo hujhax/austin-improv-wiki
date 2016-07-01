@@ -2,8 +2,8 @@
 |Name	=	Control Issues
 |Picture = 	Control Issues.jpg
 |Theater=	[[The Hideout Theatre]]
-|Cast=		{{Unbulleted list | [[Andreas Fabis]] (2014-Present) | [[Angie Yaeyama]] (2015-Present) | [[Caroline Gorman]] (2015-Present) | [[Dana Yanoshak]] (2014-Present) | [[Heath Allyn]] (2015-Present) | [[Jessica von Schramm]] (2015-Present) | [[Katie Doran]] (2015-Present) | [[Paul Normandin]] (2014-Present) | [[Peter Rogers]] (2014-Present) | [[Phil Morin]] (2015-Present) | [[Rachel Austin]] (2015-Present) | [[Sushant Sethi]] (2015-Present) }}
-|Past Members = {{Unbulleted list | [[Cat Drago]] (2014-2015) | [[Chris Albano]] (2014-2015) | [[Katie Dahm]] (2014-2015) | [[Lindsay Hejl]] (2014-2015) }}
+|Cast=		{{Unbulleted list | [[Andreas Fabis]] (2014-Present) | [[Angie Yaeyama]] (2015-Present) | [[Caroline Gorman]] (2015-Present) | [[Dana Yanoshak]] (2014-Present) | [[Heath Allyn]] (2015-Present) | [[Jessica von Schramm]] (2015-Present) | [[Katie Doran]] (2015-Present) | [[Paul Normandin]] (2014-Present) | [[Peter Rogers]] (2014-Present) | [[Sushant Sethi]] (2015-Present) }}
+|Past Members = {{Unbulleted list | [[Cat Drago]] (2014-2015) | [[Chris Albano]] (2014-2015) | [[Katie Dahm]] (2014-2015) | [[Lindsay Hejl]] (2014-2015) | [[Phil Morin]] (2015-2016) | [[Rachel Austin]] (2015-2016) }}
 |Director =	{{Unbulleted list | [[Roy Janik]] (2010-2014) | [[Andrew Buck]] (2014) | [[Andreas Fabis]] (2014-2015) | [[Peter Rogers]] (2015-Present) }}
 |Run	=	Oct 2010-Present
 }}
