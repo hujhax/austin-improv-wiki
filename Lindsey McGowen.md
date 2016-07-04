@@ -29,6 +29,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Lonely Star]]* (scoring tech)
 * *[[Next Week on Game of Thrones]]* (light tech)
 * *[[Nothing and Everything]]* (stage manager/props mistress/swing tech)
+* *[[Peter Pan and the Great Unknown]]* (technical director)
 * *[[Process]]* (2016 run) (technical director)
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Savage Swords]]* (technical director/light tech)
