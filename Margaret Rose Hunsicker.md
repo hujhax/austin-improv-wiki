@@ -11,6 +11,8 @@
 ## History
 Margaret is from Orlando where she did improv at the SAK Comedy Lab.
 
+She is distantly related to American hero and patriot Francis Scott Key.
+
 ## Troupes
 [[Channel 2]]
 
