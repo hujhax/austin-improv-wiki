@@ -16,6 +16,10 @@ On arriving in Austin, she immediately jumped into technical improv with both fe
 
 Outside of improv, Lindsey is a professional Project Manager and is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [http://vimeo.com/100491197 Synesthesia] and as a guest musician with [[Indigo Shift]].
 
+## Troupes
+* *[[History Under the Influence]]* (technical director)
+* *[[Tech Nightmare]]* (scoring tech)
+
 ## Shows
 * *[[Austin Secrets]]* (2015-2016 runs) (technical director)
 * *[[Boy, Howdy!]]* (technical director/light tech)
@@ -23,7 +27,6 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Fiasco]]* (technical director/light/multimedia swing tech)
 * *[[Four Chambers]]* (technical director)
 * *[[GrimmNoir]]* (sound tech)
-* *[[History Under the Influence]]* (technical director)
 * *[[Hurly Burly]]* (sound tech/stage manager)
 * *[[I'll Take the Physical Challenge!]]* (technical director)
 * *[[Lonely Star]]* (scoring tech)
@@ -33,7 +36,6 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Process]]* (2016 run) (technical director)
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Savage Swords]]* (technical director/light tech)
-* *[[Tech Nightmare]]* (scoring tech)
 * *[[Teenage Wasteland]]* (technical director)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The Big Bash]]* (swing tech, 2015-present)
