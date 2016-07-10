@@ -29,6 +29,9 @@ Greg and Chris met during level three music class at [[The Hideout Theatre]]. La
 ## More Information
 * [http://www.facebook.com/TooShyGuys The troupe's facebook page.]
 
+### Other Musicians Played With
+* [https://alchemypopsongs.wordpress.com/ Bradley Dean Whyte]
+
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
 [[Category/Duos|Category:Duos]]
