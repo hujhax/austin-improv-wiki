@@ -18,7 +18,7 @@ Greg and Chris met during level three music class at [[The Hideout Theatre]]. La
 * *[[Musical Night at Indra's]]*
 * *[[Impromp-Two]]*
 * *[[Alamo City Improv]]*
-* *Duo Night at [[Http - --www.stationtheater.com- Station Theatre]]*
+* *Duo Night at [http://www.stationtheater.com/ Station Theatre]*
 
 ## Media
 ### Videos
