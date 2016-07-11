@@ -94,8 +94,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 ## Production
 * 46 Hour Marathon - Donations Captain 2015
 * WaffleFest Co-Producer 2015
-
-
+* 47 Hour Marathon - Donations Captain 2016
 
 ## More Information
 Tim can often be seen in the audience watching [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
