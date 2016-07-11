@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Character Explosion
 |Picture	=	Character Explosion.jpg
-|Cast 	=	{{ Unbulleted list | [[Carolyn Gjertsen]] | [[Chris Villafano]] | [[Kathleen McFerren]] | [[Nichole Bennett]] | [[Robert Slack]] | [[Timothy Coyle]] | [[Zach Leos]] }}
+|Cast 	=	{{ Unbulleted list | [[Carolyn Gjertsen]] | [[Jenn Hamm]] | [[Kathleen McFerren]] | [[Nichole Bennett]] | [[Nick Amsden]] | [[Timothy Coyle]] | [[Zach Leos]] }}
 |Years	=		2014-Present
 }}
 
@@ -60,7 +60,7 @@ The five students / recent graduates of the Hideout Theatre who played in the fr
 
 ### Alumni
 Alumni
-[[Bonnie Dilber]], [[Chris Villafano]], [[Cagney Ortiz]], [[Joy Parks]], [[Lahari Samineni]], [[Robert Slack]], [[Sushant Sethi]]
+{{ Unbulleted list | [[Bonnie Dilber]] | [[Chris Villafano]] | [[Cagney Ortiz]] | [[Joy Parks]] | [[Lahari Samineni]] | [[Robert Slack]] | [[Sushant Sethi]] }}
 
 ## Media
 ### Videos
