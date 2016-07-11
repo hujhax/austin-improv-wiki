@@ -44,7 +44,7 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 * [[KNOCK-OUT]] 2016 - current
 
 ### Coaches
-* [[Robert Slack]] is both a member of the troupe and coach, bringing his Improv and acting experience to the troupe.
+* [[Robert Slack]] was an original member of the troupe and coach, bringing his Improv and acting experience to the troupe.
 
 * [[Ceej Allen]] was instrumental of the concept used for the format, has been a member of the AIC since 2003 is also adding his own flavor and touch as a coach
 
