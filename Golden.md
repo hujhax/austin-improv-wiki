@@ -44,6 +44,9 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 04-09-16	Ice Cream Truck	 - Institution:	Mix Tape Showcase
 * 04-30-16       Inmate	 -Institution: Tightrope
 * 05-29-16       Assassin & Dinosaur Hunter  - Hideout: Weekender Showcase
+* 06-18-16       Montage	 - Hideout:	47 Hour Marathon
+* 07-03-16       Forest Ranger - Hideout: Weekender Showcase
+* 07-09-16       Food Taster - Big Sexy Weekend of Improv Festival (Dallas)
 
 ## Videos
 * [http://vimeo.com/132330223 Threefer Showcase, 06-25-15]
