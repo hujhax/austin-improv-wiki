@@ -18,15 +18,11 @@ Past:<br>
 * [[Who Wants Attention!]]
 
 ## Shows
-* *[[The Secret Life of Inanimate Objects]]*
-* *[[The Ladies Room]]*
-* *[[Home for the Holidays]]* (aka *[[I'll Be Home For Christmas]]*)
 * *[[The Source]]*
-* *[[Teenage Wasteland]]* (tech: score)
-* *[[The Fancy-Pants Mash-Up]]*
-* *[[Maestro]]*
-* *[[Maestro Raw]]*
-* *[[Austin Monologue Jam]]*
+* *[[Home for the Holidays]]* (aka *[[I'll Be Home For Christmas]]*)
+* *[[The Ladies Room]]*
 * *[[The Secret Life of Inanimate Objects]]*
+* *[[Teenage Wasteland]]* (tech: score)
+
 
 [[Category/Performers|Samineni]]
