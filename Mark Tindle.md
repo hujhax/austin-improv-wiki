@@ -8,7 +8,7 @@
 **Mark Tindle** is a London-based improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
-Mark first saw live improv in 2003, being performed by the Oxford Imps, an Oxford University student team. He began improvising in 2012 as part of the short-lived Teesside Improv. His love of improv really began to flourish in 2013, when he moved to London and began take attend shows and take classes there. In 2014, he became one of the presenters and organisers of Duck Duck Goose Improv, hosting the weekly Jam, and helping to build the night into one of the most successful and well-regarded of its type in London. 
+Mark first saw live improv in 2003, being performed by the Oxford Imps, an Oxford University student team. He began improvising in 2012 as part of the short-lived Teesside Improv. His love of improv really began to flourish in 2013, when he moved to London and began to attend shows and take classes there. In 2014, he became one of the presenters and organisers of Duck Duck Goose Improv, hosting the weekly Jam, and helping to build the night into one of the most successful and well-regarded of its type in London. 
 
 He first came to Austin in summer 2014, inspired by a weekend's teaching by [[Parallelogramophonograph]] and took the Hideout's first-ever Summer Intensive. He immediately fell in love with the with the Hideout, the AIC, all of the other theatres and the people there, and has visited on numerous occasions since then. He is particularly interested in improvised theatre and narrative styles, but takes great pleasure in experiencing all of the different approaches that improv offers. He's a self-declared "Improv Journeyman".
 
