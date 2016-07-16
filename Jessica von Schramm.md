@@ -34,6 +34,6 @@ Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in 
 * [[WaffleFest 2015]]
 * [[FronteraFest 2016]]
 * [[2016 Houston Improv Festival]]
-* [[The Big Sexy8 Improv Fest]]
+* [[The Big Sexy 8 Improv Fest]]
 
 [[Category/Performers|Von Schramm]]
