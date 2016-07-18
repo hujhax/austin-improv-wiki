@@ -10,6 +10,8 @@
 ## Shows
 * *[[The Dahl House]]*
 * *[[Origins]]*
+* *[[Story to the Death]]*
+* *[[I'll Take the Physical Challenge!]]*
 
 ## Troupes
 * [[Physics Curse]] 
