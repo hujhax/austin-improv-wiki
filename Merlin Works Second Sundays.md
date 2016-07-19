@@ -13,11 +13,23 @@
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 <!--
 |-
-|November 20, 2016|| || 
+|June 11, 2017|| || 
+|-
+|May 14, 2017|| || 
+|-
+|April 9, 2017|| || 
+|-
+|March 5, 2017|| || 
+|-
+|February 12, 2017|| || 
+|-
+|January 8, 2017|| || 
+|-
+|December 11, 2016|| || 
 |-
 |November 13, 2016|| || 
 |-
-|October 9, 2016||Singing 301|| -->
+|October 16, 2016||Singing 301|| -->
 |-
 |September 11, 2016|| || 
 |-
