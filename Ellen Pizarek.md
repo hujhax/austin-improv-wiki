@@ -10,8 +10,6 @@ Ellen began taking improv classes at the [[Hideout Theatre]] in November of 2010
 
 In December of 2012, she moved to the San Francisco Bay Area, and then married Tom Pizarek in June 2013. Ellen took levels 1 and 2 in San Francisco at Leela Improv. She also participated in two workshops facilitated by EndGames Improv. In February of 2015, Ellen and Tom moved back to Austin. Ellen has since performed in Maestro and FancyPants in the [[46-Hour Improv Marathon]]. She began Level 2 at the [[Institution Theater]] in August and took [[Jessica Arjet]]'s four week Wonder Women workshop at the Hideout Theatre. She was cast in [[Tall Tales of the High Seas]] which runs in February and March of 2016 at the [[Institution Theater]].
 
-Ellen is currently a member of two troupes, [[Lady Cops]] and [[WIG]], that are rehearsing and will begin performing in 2016.
-
 ## Troupes
 * [[Kosher Bacon]]
 * [[WIG]]
