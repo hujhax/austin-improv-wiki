@@ -15,6 +15,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Get
 ## Troupes
 * [[Apocalypse (troupe)|Apocalypse]]
 * [[Bedfellows]]
+* [[Fabarjet]]
 * [[The Escorts]]
 * [[The Foreign Legion]]
 * [[My Best Fiend]]
