@@ -22,6 +22,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Get
 
 ## Shows
 * *[[A Bedtime Gorey]]*
+* *[[Adventure PhD]]*
 * *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[The Black Vault]]*
 * *[[Crack!]]*
