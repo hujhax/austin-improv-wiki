@@ -5,10 +5,15 @@
 |Director           = {{Unbulleted list | [[Andreas Fabis]] | [[Jessica Arjet]] }}
 |Run                = Oct 2016
 |Cast               = {{Unbulleted list | [[Chelsea Beth]] | [[Chris Curl]] | [[Danielle Saar]] | [[Ellen Pizarek]] | [[Erasmo Romero]] | [[Josh Farmer]] | [[Joy Parks]] | [[Mary Henderson]] | [[Nicholas Marino]] | [[Thedward Blevins]] }}
-|Tech               = {{Unbulleted list | [[Jason Hoppenworth]] (lights) | [[Jay Mahavier]] (technical director) | [[Marc Jalandoon]] (stage manager) | [[Tyleah McGuire]] (sound) }}
+|Tech               = {{Unbulleted list | [[Jason Hoppenworth]]<br>(lights) | [[Jay Mahavier]]<br>(technical director) | [[Marc Jalandoon]]<br>(stage manager) | [[Tyleah McGuire]]<br>(sound) }}
 }}
 
 ***Adventure PhD*** will be the October 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+
+
+![[Group header.png]]
+
+
 
 ## Summary
 ### Publicity Blurb
