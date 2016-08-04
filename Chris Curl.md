@@ -7,7 +7,7 @@
 **Chris Curl** exists.
 
 ## History
-Chris started improvising while living in Austin in 2013, continued training and performing in Minneapolis in 2015-2016 and returned to Austin in May 2016.
+Chris started his improvisational training at Merlin Works while living in Austin in May 2013, continued training and performing at HUGE Theater in Minneapolis in 2015-2016 and returned to Austin in May 2016.
 
 ## Troupes
 ## Shows
