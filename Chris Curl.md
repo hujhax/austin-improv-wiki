@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Chris Curl		
-|Theater=	[[Merlin Works]]
+|Theater=	[[Hideout Theater]]
 |Years	=	2013-Present
 }}
 
