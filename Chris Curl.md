@@ -7,7 +7,7 @@
 **Chris Curl** exists.
 
 ## History
-Chris started improvising while living in Austin in 2013, continued training and performing in Minneapolis and moved back to Austin in 2016.
+Chris started improvising while living in Austin in 2013, continued training and performing in Minneapolis in 2015-2016 and returned to Austin in May 2016.
 
 ## Troupes
 ## Shows
