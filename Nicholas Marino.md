@@ -3,10 +3,8 @@ Born December 11th, 1991
 White Dude
 
 {{Infobox Performer
-|Name	=	Jay Mahavier	
-|Picture =	Jay Mahavier Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2014
+|Name	=	Nicholas Marino	
+|Picture =	.jpg
 }}
 
 
