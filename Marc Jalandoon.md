@@ -33,7 +33,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * Level 4 - Ryan Austin / Kacey Samiee
 * Level 5 - Ryan Austin / Kacey Samiee
 * Level 5 - [[Sarah Marie Curry]] / [[Megan Sherrod]]
-* Level 6 - Ryan Austin / Kacey Samiee
+* Level 6 - Andy Crouch / Kacey Samiee
 * Level 6 - Sarah Marie Curry / Megan Sherrod
 
 ### Merlin Works
