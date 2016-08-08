@@ -8,7 +8,7 @@
 |Run	=	2015-Present
 }}
 
-***Tarantula*** is [[The Institution Theater]]'s monthly 10pm show, playing every 2nd Saturday at 10pm as part of [[The Staple Shows]].
+***Tarantula*** is [[The Institution Theater]]'s quarterly 10pm show, playing every 5th Saturday at 10pm as part of [[The Staple Shows]].
 
 ## Summary
 Tarantula is a "formless-form" show, in a similar vein as Todd Stashwick's *Mayfly*, or Chicago's *JTS Brown* format. An eight-legged cast of improvisors and musical guests arrive on the night of, in preparation to discover the show they are in as they are finishing it. *Tarantula* has been called "dreamlike" "dynamic" and "what was THAT?" (but in a good way).
