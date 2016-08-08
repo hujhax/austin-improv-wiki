@@ -29,6 +29,18 @@ The show is produced and/or curated (depending on your loose definition in a for
 In April of 2016, Artistic Director [[Tom Booker]] decided to make TARANTULA a quarterly show, occurring on the 5th Saturday of the month in an effort to reduce production fatigue and create more potent attraction and attendance. 
 
 ### Casts
+#### July 30th, 2016
+* [[Lisa Friedrich]]
+* [[Megan Mowry]]
+* [[Sarah Marie Curry]]
+* [[Amanda Smith]]
+* [[Jon Bolden]]
+* [[Michael Ferstenfeld]]
+* [[Clifton Highfield]]
+* [[AJ Reyes]]
+* Musician: [[Andrew Schwartz]]
+* Lord of Light: [[Mark Shoemaker]]
+
 #### April 30th, 2016
 * [[Kierstin Cecelia]]
 * [[Megan Mowry]]
