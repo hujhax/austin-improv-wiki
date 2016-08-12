@@ -11,7 +11,7 @@
 Two Guys doing improv together. Hopefully they occasionally break out in song. While doing improv. Not during normal business hours. That would be weird.
 
 ## History
-Greg and Chris met during level three music class at [[The Hideout Theatre]]. Later Chris took an improv workshop from [[Curtis Luciani]] who recommended Chris form a duo in order to work through some of his trust issues. Thus Two Shy Guys was born.
+Greg and Chris met during level two music class at [[The Hideout Theatre]]. Later Chris took an improv workshop from [[Curtis Luciani]] who recommended Chris form a duo in order to work through some of his trust issues. Thus Two Shy Guys was born.
 
 ## Shows
 * *[[2x4]]*
