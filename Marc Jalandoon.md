@@ -27,18 +27,17 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 
 ## Classes
 ### The Hideout Theatre
-* Level 1 - [[Andy Crouch]] / [[Kacey Samiee]]
-* Level 2 - Andy Crouch / Kacey Samiee
-* Level 3 - [[Ryan Austin]] / Kacey Samiee
-* Level 4 - Ryan Austin / Kacey Samiee
-* Level 5 - Ryan Austin / Kacey Samiee
-* Level 5 - [[Sarah Marie Curry]] / [[Megan Sherrod]]
-* Level 6 - Andy Crouch / Kacey Samiee
-* Level 6 - Sarah Marie Curry / Megan Sherrod
+* Level 1 - [[Andy Crouch]]
+* Level 2 - Andy Crouch
+* Level 3 - [[Ryan Austin]]
+* Level 4 - Ryan Austin
+* Level 5 - Ryan Austin
+* Level 5 - [[Sarah Marie Curry]]
+* Level 6 - Andy Crouch
+* Level 6 - Sarah Marie Curry
 
 ### Merlin Works
-* Level 2 - [[Susan Pickover]] / [[Chase Coffield]]
-
+* Level 2 - [[Susan Pickover]]
  
 
 ## Troupes
