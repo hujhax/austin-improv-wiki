@@ -71,7 +71,8 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 
 
 [[The Institution Theater]]
-* [[The Improv Mixtape]] 2015 - current
+* [[The Improv Mixtape]] 2015 
+* [[Tightrope]] 2016 - current
 
 
 [[The New Movement]]
