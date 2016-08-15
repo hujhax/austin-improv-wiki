@@ -29,9 +29,9 @@
 |-
 |November 13, 2016|| || 
 |-
-|October 16, 2016|| || -->
+|October 16, 2016||Student showcase|| -->
 |-
-|September 11, 2016|| ||[[Empty Promises]]
+|September 11, 2016||Student showcase||[[Empty Promises]]
 |-
 |August 14, 2016||Improv 301||[[Opposites]] 
 |-
