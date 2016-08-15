@@ -29,11 +29,11 @@
 |-
 |November 13, 2016|| || 
 |-
-|October 16, 2016||Singing 301|| -->
+|October 16, 2016|| || -->
 |-
-|September 11, 2016|| || 
+|September 11, 2016|| ||[[Empty Promises]]
 |-
-|August 14, 2016||Improv 301|| 
+|August 14, 2016||Improv 301||[[Opposites]] 
 |-
 |July 10, 2016||Student showcase||[[Loverboy]] 
 |-
