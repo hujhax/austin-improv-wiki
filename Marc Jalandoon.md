@@ -8,7 +8,7 @@
 Marc Jalandoon is an active improviser, primarily performing at [[The Hideout Theatre]], who specializes in long form narrative.
 
 ## History
-Marc began taking improvisation classes at [[The Hideout Theatre]] on November 8th, 2015. 
+Marc began taking improvisation classes at [[The Hideout Theatre]] on November 8th, 2015. He is a graduate of The University of Texas at Austin where he majored in Theatre, Liberal Arts Honors, and Plan II Honors in Nude Sculptures. 
 
 A post from him about why he chose to begin improvising:
 
