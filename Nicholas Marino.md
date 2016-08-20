@@ -15,3 +15,5 @@ White Dude
 Hideout Graduate. 
 
 Institution through level 2.
+
+Coldtowne Level 7
