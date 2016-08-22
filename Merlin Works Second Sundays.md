@@ -27,7 +27,7 @@
 |-
 |December 11, 2016|| || 
 |-
-|November 13, 2016|| || 
+|November 13, 2016||{{Unbulleted list|Improv 301|Singing 301}}||N/A 
 |-
 |October 16, 2016||Student showcase|| -->
 |-
