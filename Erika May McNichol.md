@@ -20,8 +20,16 @@ After doing improv in Chicago, Erika May McNichol moved to Austin in June 2005.
 * [[Tight]]
 
 ## Shows
+* *[[Title Fine -  We Got Game]]* (Director/Producer)
+* *[[Tweet Dreams]]* (Director/Producer)
+* *[[Church of Indeterminate Divinity]]* (Ensemble)
+* *[[Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]]* (Director/Producer)
 * *[[Braised in Texas]]* (Director/Producer)
-* *[[Pocketful of Posies]]*
+* *[[McNichol & May -  Breeders]]* (Writer/Performer)
+* *[[Pocketful of Posies]]* (Ensemble)
+* *[[Mortified - Austin]]* (Director/Producer, 2006-2007)
+* *[[The Frank Mills -  Classy-Ass Show]]* (Writer/Performer)
+* *[[McNichol & May -  Great Americans]]* (Writer/Performer)
 * *[[Whirled News Tonight]]* (Director/Producer, 2005-2006)
 
 ## More Information
