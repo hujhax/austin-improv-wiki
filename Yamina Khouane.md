@@ -15,15 +15,11 @@ As a main-stage player for The New Movement theater, Yamina has been a performer
 Yamina trained at the [[Upright Citizens Brigade]] in New York City in 2014 under Dave Siegel, Molly Lloyd, and Don Fanelli and was accepted into their Advanced Improv program.
 
 ## Troupes
-* [[Checkbook]]
+* [[Fuck This Week]]
+* [[Chicken Baby]]
+* [[Brandon]]
+* [[Outside Job]]
 * [[Glorias]]
-* [[Delta Burka]]
-* [[Claws with Fangs]]
-* [[Gigglepants]]
-* [[Vietnomnomnom]]
-* [[Franco Brava]]
-* [[Ripkin]]
-
 
 ## Shows
 * *[[Checkbook Presents]]*
