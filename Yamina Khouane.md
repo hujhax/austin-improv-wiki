@@ -22,13 +22,11 @@ Yamina trained at the [[Upright Citizens Brigade]] in New York City in 2014 unde
 * [[Glorias]]
 
 ## Shows
-* *[[Checkbook Presents]]*
 * ''[[The Megaphone Show]]"
 * *[[Glorias -  A Sketch Show]]*
-* *[[The Darkness]]*
-* "[[The Main Event Tournament]]"
-* "[[The Real Chris Trew Show]]"
-* "[[ONA]]"
+* *[[Fuck This Week]]*
+* "[[The Franchise]]"
+* "[[The Do Over]]"
 
 
 [[Category/Performers|Khouane]]
