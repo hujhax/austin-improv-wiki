@@ -2,7 +2,7 @@
 |Name	=	Yamina Khouane	
 |Picture =	ok.jpg
 |Theater=	The New Movement
-|Years	=	2010-2013
+|Years	=	2010-current
 }}
 
 Yamina is an actor and improv comic based in Austin, TX.
