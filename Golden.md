@@ -46,7 +46,9 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 05-29-16       Assassin & Dinosaur Hunter  - Hideout: Weekender Showcase
 * 06-18-16       Montage	 - Hideout:	47 Hour Marathon
 * 07-03-16       Forest Ranger - Hideout: Weekender Showcase
-* 07-09-16       Food Taster - Big Sexy Weekend of Improv Festival (Dallas)
+* 07-09-16       Taste Taster - Big Sexy Weekend of Improv Festival (Dallas)
+* 08-25-16       Doctor Assassin - Hideout: Arjet Universe
+* 09-03-16       Dog Counselor - New Movement: Out of Bounds Comedy Festival (OOB)
 
 ## Videos
 * [http://vimeo.com/132330223 Threefer Showcase, 06-25-15]
