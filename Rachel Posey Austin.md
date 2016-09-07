@@ -33,5 +33,11 @@ For a complete list of her performances, check out her performance calendar [htt
 * *[[It's Saturday Night!]]*
 * *[[Camp Madeuponthespotta]]*
 
+## Festivals
+* Out of Bounds 2016 (Austin, TX)
+** With [[Physics Curse]]
+* Chicago Improv Festival 2016 (Chicago, IL)
+** With [[Physics Curse]]
+
 [[Category/Performers|Austin]]
 [[Category/Techs|Austin]]
