@@ -40,7 +40,7 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 12-10-15	Fool's Gold	 - Hideout:	Free Fringe
 * 02-05-16	Fool's Gold	 - Blind Tiger in San Antonio, TX:	Alamo City Improv
 * 02-18-16	Undertaker	 - Hideout:	Threefer
-* 03-25-16	Firefighter	 - Dougherty Arts Center (DAC):	That Racket! Showcase
+* 03-25-16	Firefighter (A Resurrection Story)	 - Dougherty Arts Center (DAC):	That Racket! Showcase
 * 04-09-16	Ice Cream Truck	 - Institution:	Mix Tape Showcase
 * 04-30-16       Inmate	 -Institution: Tightrope
 * 05-29-16       Assassin & Dinosaur Hunter  - Hideout: Weekender Showcase
