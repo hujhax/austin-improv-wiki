@@ -19,6 +19,9 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Control Issues]]
 
 ## Shows
+* [[Coven]]
+* [[I'll Take the Physical Challenge]]
+* [[Process]]
 * [[Origins]]
 * [[Lonely Star]]
 * [[A Deed So Dark]] (sound tech)
