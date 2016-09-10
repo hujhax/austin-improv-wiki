@@ -5,7 +5,7 @@
 }}
 
 ## About
-Pius Wong is an improv player focusing musical improv in the Austin scene.  He also is interested in applied improv, particularly for developing design skills in engineers and engineering teams.
+Pius Wong is an improv player in musical improv.  He also is interested in applied improv, particularly for developing design skills in engineers and engineering teams.
 
 ## Troupe
 *[[Human People]]
