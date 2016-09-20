@@ -9,6 +9,8 @@
 }}
 
 ***Adventure PhD*** will be the October 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+[[Danielle Saar]] had to drop out because of career-related reasons.
+
 
 
 ![[Group header.png]]
@@ -17,11 +19,13 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>This show will follow the adventures of a university scholar/treasure hunter through dangerous situations in exotic locations.  Inspired by movies like *[[Wikipedia - Raiders of the Lost Ark|Raiders of the Lost Ark]]*, *[[Wikipedia - King Solomon's Mines (1985 film)|King Solomon's Mines]]*, and *[[Wikipedia - The Mummy (1999 film)|The Mummy]]*, our cast will send the audience around the world and back.
+From the Hideout website:<blockquote>Grab your passport and your trusty revolver, this is no time for caution. Adventure PhD is swinging into action! We'll hunt for the hidden, uncover the obscured and... procure the artifact. Help us discover the mysteries of the world - and save humanity in the process! Our heroes will face traps, betrayal, powerful villains, secret societies, and most dangerous of all: love! 
+Every Saturday at 6pm at the Hideout bold adventures will delight you with their daring escapades. Miss this at your own peril!
 </blockquote>
 
 ## More Information
 * [http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000 The show announcement] on the Hideout's facebook group.
+* [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/Adventure-PhD/ Photoshoot with] [Steve Rogers].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
