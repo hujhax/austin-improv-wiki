@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = Adventure PhD
-|Picture            = Adventure PhD Placeholder Image.jpg
+|Picture            = Adventure phd cast.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = {{Unbulleted list | [[Andreas Fabis]] | [[Jessica Arjet]] }}
 |Run                = Oct 2016
