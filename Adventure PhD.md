@@ -13,7 +13,7 @@
 
 
 
-![[Group header.png]]
+![[Adventure phd poster.jpg]]
 
 
 
