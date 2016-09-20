@@ -9,8 +9,8 @@
 }}
 
 ***Adventure PhD*** will be the October 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
-[[Danielle Saar]] had to drop out because of career-related reasons.
 
+[[Danielle Saar]] had to drop out because of career-related reasons.
 
 
 ![[Adventure phd poster.jpg]]
