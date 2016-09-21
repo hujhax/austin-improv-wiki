@@ -1,8 +1,8 @@
 {{Infobox Troupe
 |Picture = BadFont_Hideout.jpg
 |Name	=		Bad Font
-|Cast	=	{{Unbulleted list|[[Alex Ayala]]|[[Theo Daley]]|[[Scott Hearne]]||[[Megan Mowry]]|[[Jessie Pascarelli]]|[[Megan Venable]]}}
-|Past Members = {{Unbulleted list|[[Justin Davidson]]|[[Karen Jane DeWitt]]|[[Carlos LaRotta]]|[[Christina Parrish]]|[[Ron Morelli]]|[[Kristen Kurtis]]|[[Cene Hale]]|[[Alexander Hilary]]}}
+|Cast	=	{{Unbulleted list|[[Alex Ayala]]|[[Kelly Campbell]]|[[Rachel Denton]]|[[Scott Hearne]]|[[Griffin May]]|[[Johnny Sullivan]]|[[Megan Venable]]}}
+|Past Members = {{Unbulleted list|[[Justin Davidson]]|[[Karen Jane DeWitt]]|[[Carlos LaRotta]]|[[Christina Parrish]]|[[Ron Morelli]]|[[Kristen Kurtis]]|[[Cene Hale]]|[[Alexander Hilary]]||[[Megan Mowry]]|[[Theo Daley]]|[[Jessie Pascarelli]]|}}
 |Years	=		2013 - Present
 }}
 
