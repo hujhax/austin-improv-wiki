@@ -25,9 +25,9 @@
 |-
 |January 8, 2017|| || 
 |-
-|December 11, 2016|| || 
+|December 11, 2016|| || -->
 |-
-|November 13, 2016||Improv 301|| -->
+|November 13, 2016||Improv 301||[[Squirrel Buddies]]
 |-
 |October 16, 2016||Student showcase||[[Minority Report]]
 |-
