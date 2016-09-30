@@ -1,14 +1,14 @@
 {{Infobox Troupe
 |Name	=		Indigo Shift
 |Picture	=	Indigo Shift.jpg
-|Cast	=	{{Unbulleted list|[[Jordan T. Maxwell]]|[[Kacey Samiee]]|[[Jeffrey Amos]]|[[Sarah Marie Curry]] (2015-Present)}}
+|Cast	=	{{Unbulleted list|[[Jordan T. Maxwell]]|[[Kacey Samiee]]|[[Sarah Marie Curry]]|[[Cindy Page]]| (2015-Present)}}
 |Years	=		2011-present
 }}
 
 **Indigo Shift** is a musical improv troupe set in a cabaret at the end of the world.
 
 ## Format
-Indigo Shift follows a troupe of performers (Solomon Strange, Anita Deva, and Colin) as they perform one final show for the last night on Earth.  Suggestions are drawn out through discussion of apocalyptic themes with the audience, which are then spun into a series of scenes, stories, and songs loosely threaded together by the banter between the three characters.  
+Indigo Shift follows a troupe of performers (Solomon Strange, Anita Deva, Baby Doll, and Kitty Draco) as they perform one final show for the last night on Earth.  Suggestions are drawn out through discussion of apocalyptic themes with the audience, which are then spun into a series of scenes, stories, and songs loosely threaded together by the banter between the three characters.  
 
 ## History
 Shortly after [[Jordan T. Maxwell]] announced he was moving back to Austin from Los Angeles, [[Michael Brockman]] approached him about developing a musical format.  Maxwell was inspired at a concert for the Brechtian punk duo [http://en.wikipedia.org/wiki/The_Dresden_Dolls The Dresden Dolls] to create an improvised dystopian cabaret that would take place at the end of the world.
@@ -17,33 +17,37 @@ Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>Sto
 
 Maxwell and Brockman recruited [[Kacey Samiee]] and [[Sarah Marie Curry]] to round out the troupe and they began rehearsing and hashing out the mechanics of the format.  Curry soon had to drop out of the project and the remaining trio debuted on 10/8/11, opening for [[Get Up]] in [[The Saturday Night Special]].
 
-The troupe took a brief hiatus while Maxwell and Brockman fulfilled other professional obligations, but returned in 2012.  Brockman left the group shortly before their show in [[The 2012 Out of Bounds Comedy Festival]], but Maxwell and Samiee's long time friend and collaborator [[Jeffrey Amos]] filled in for the performance and officially joined as the troupe's new third member and musical accompanist.  Because Amos currently resides outside of Texas, Indigo Shift has invited guest improviser/musicians to play, including [[Jeremy Sweetlamb]], [[Cindy Page]], [[Craig Kotfas]], [[Ryan Hill]], [[Lindsey McGowen]], and [[Tosin Awofeso]].
+The troupe took a brief hiatus while Maxwell and Brockman fulfilled other professional obligations, but returned in 2012.  Brockman left the group shortly before their show in [[The 2012 Out of Bounds Comedy Festival]], but Maxwell and Samiee's long time friend and collaborator [[Jeffrey Amos]] filled in for the performance and officially joined as the troupe's new third member and musical accompanist.  Because Amos currently resides outside of Texas, Indigo Shift has invited guest improviser/musicians to play, including [[Jeremy Sweetlamb]], [[Cindy Page]], [[Craig Kotfas]], [[Ryan Hill]], [[Lindsey McGowen]], [[Tosin Awofeso]], and [[Bill Stern]].
 
-In 2015, the troupe performed a four show run at [[The Institution Theater]] billed as the Indigo Shift Cabaret, featuring guest acts such as [[Confidence Men]], [[The Knuckleball Now]], [[The Escorts]], and [[Love Vigilantes]] with special appearances by [[Tom Booker]] as Mr. Morbid, [[Adriane Shown]] as Gentress Helena Black, [[Marc Majcher]] as Jean Paul from [[Hurly Burly]], and [[Brently Heilbron]] as Milo from [[Fragile Rock]], and musical accompaniment from a rotating combination of their past musicians.  
+In 2015, the troupe performed a four show run at [[The Institution Theater]] billed as the Indigo Shift Cabaret, featuring guest acts such as [[Confidence Men]], [[The Knuckleball Now]], [[The Escorts]], and [[Love Vigilantes]] with special appearances by [[Tom Booker]] as Mr. Morbid, [[Adriane Shown]] as Gentress Helena Black, [[Marc Majcher]] as Jean Paul from [[Hurly Burly]], and [[Brently Heilbron]] as Milo from [[Fragile Rock]], and musical accompaniment from a rotating combination of their past musicians.  After guesting in the final night of this run, Curry returned to the troupe.  Page was then brought on as the full time musical accompaniment while Amos went on hiatus from the troupe to focus on graduate school.  
 
 They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvaganza in Honolulu, Hawaii, the Alaska State Improv Festival in Juneau, Alaska, [[The 2014 Out of Bounds Comedy Festival]], and the Seattle Festival of Improvised Theatre.  They are also frequently featured guests at the [[Hell & Back Cabaret]] and [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 
 ## Dramatis Personae
-**Rev. Solomon Strange** (Jordan T. Maxwell)
+**Rev. Solomon Strange** ([[Jordan T. Maxwell]])
 
-**Anita Deva** (Kacey Samiee)
+**Anita Deva** ([[Kacey Samiee]])
 
-**Colin** (Jeffrey Amos)
+**Baby Doll** ([[Sarah Marie Curry]])
+
+**Kitty Draco**  ([[Cindy Page]])
 
 ### Former/Guest Artists
 **Brother Monkirk** ([[Michael Brockman]])
+
+**Colin** ([[Jeffrey Amos]])
 
 **Doc St. Jenkins** ([[Craig Kotfas]])
 
 **Nigel**  ([[Ryan Hill]])
 
-**Kitty Draco**  ([[Cindy Page]])
-
-**Baby Doll** ([[Sarah Marie Curry]])
-
 **Lili** ([[Lindsey McGowen]])
 
 **Tommy Two Hands Tutucci** ([[Tosin Awofeso]])
+
+**Dio** ([[Bill Stern]])
+
+**Lucius Morganfield** ([[Kareem Badr]])
 
 **Nicodemus** ([[Mark Shoemaker]])
 
