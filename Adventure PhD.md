@@ -27,5 +27,8 @@ Every Saturday at 6pm at the Hideout bold adventures will delight you with their
 * [http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000 The show announcement] on the Hideout's facebook group.
 * [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/Adventure-PhD/ Photoshoot with] [Steve Rogers].
 
+## Shows
+* [https://www.facebook.com/groups/1059512164124549/ North Dakota Ned and the Crystal Obelisk] on gigity.tv. (Chris Curl & Ellen Pizarek)
+
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
