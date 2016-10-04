@@ -9,7 +9,7 @@
 **Bad Font** is an independent, Harold oriented, improv team.
 
 ## History
-Bad Font was originally cast by [[Scott Hearne]] throughout 2012 and 2013. The team is primarily coached by [[Dave Buckman]]. Former coaches are [[Clifton Highfield]], [[Chris McKeever]], and [[Bill Stern]]. In 2014, [[Carlos LaRotta]] and [[Kristen Kurtis]] joined the team. In 2015, [[Cene Hale]] and [[Alex Ayala]] were added to the team. In Spring 2016, [[Megan Mowry]] was added. From September 2015 to July 2016, [[Scott Hearne]] was on hiatus. In July 2016, Bad Font added: [[Kelly Campbell]], [[Rachel Denton]], [[Griffin May]], and [[Johnny Sullivan]]. 
+Bad Font was originally cast by [[Scott Hearne]] throughout 2012 and 2013. The team is primarily coached by [[Dave Buckman]]. Former coaches are [[Clifton Highfield]], [[Chris McKeever]], and [[Bill Stern]]. In 2014, [[Carlos LaRotta]] and [[Kristen Kurtis]] joined the team. In 2015, [[Cene Hale]] and [[Alex Ayala]] were added to the team. In Spring 2016, [[Megan Mowry]] was added. From September 2015 to July 2016, [[Scott Hearne]] was on hiatus. In July 2016, Bad Font added: [[Kelly Campbell]], [[Rachel Denton]], [[Michael Joplin]], [[Griffin May]], and [[Johnny Sullivan]]. 
 
 [[Justin Davidson]] originated the name Bad Font. The team chose the name because it is easy to spell and pronounce, it contains multiple meanings, and is mildly amusing. Oh! And no one hated the name.
 
