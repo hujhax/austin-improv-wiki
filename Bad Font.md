@@ -20,7 +20,7 @@ Bad Font was originally cast by [[Scott Hearne]] throughout 2012 and 2013. The t
 ### Photos
 * [http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3 Photoset] by [[Chris Curl]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/27/15 performance in *[[Dorm Daze]]*.
-* [https://www.flickr.com/photos/oob_pics/sets/72157655819993844 Photoset] of their 9/2/15 performance at [[The 2015 Out of Bounds Comedy Festival]].
+* [https://www.flickr.com/photos/oob_pics/sets/72157655819993844 Photoset] by [[Bonica Ayala]] of their 9/2/15 performance at [[The 2015 Out of Bounds Comedy Festival]].
 * [http://www.facebook.com/Doccerz/media_set?set=a.10153645977880793.1073741903.666390792&type=3 Photoset] by [[Dave Alley]] of their 8/30/16 performance at [[2016 Out of Bounds Comedy Festival]].
 
 ## More Information
