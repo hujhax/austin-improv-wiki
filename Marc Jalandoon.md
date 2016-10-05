@@ -45,6 +45,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 
 ## One-off Shows
 ### The Hideout Theatre
+* [[Maestro]] - (10/1/2016)
 * [[Maestro Raw]] - (5/7/2016*, 7/16/2016, 9/10/2016)
 * [[Fancy Pants]] - (7/1/2016, 9/9/2016)
 * [[Hideout Student Battle Royale]] - (5/28/2016)
