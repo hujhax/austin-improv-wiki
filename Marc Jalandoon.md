@@ -54,7 +54,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * [[Improv Fantasy League]] - (8/17/2016)
 
 ## Mainstage / Student Mainstage Shows
-### Hideout Theatre
+### The Hideout Theatre
 * [[Story to the Death]] - (Actor, 8/2016)
 * [[Adventure PhD]] - (Stage Manager, 10/2016)
 
