@@ -3,9 +3,12 @@
 |Picture            = The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Jon Bolden]]
+|Assistant Director = [[Jessica von Schramm]]
+|Tech Director = [[Sarah Hutchins]]
+|Stage Manager = [[Lahari Samineni]]
 |Run                = Dec 2016
-|Cast               = TBA
-|Tech               = TBA
+|Cast               = {{Unbulleted list | [[Ali Meier]] | [[Chris Villafano]] | [[Cristy Salinas]] | [[Elizabeth Bradshaw]] | [[Michelle Dahlenburg]] | [[Neil Dorsey]] | [[Raymond Gutierrez]] | [[Sushant Sethi]] | [[Zac Carr]] | [[Sue Jordan]] }}
+|Tech               = [[Greg Blank]] (scoring, from-the-booth effects)
 }}
 
 ***The Untitled Avant-Garde Theater Project with a Really Long Title*** will be the December 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
