@@ -15,8 +15,8 @@ Sarah began taking classes at the [[Hideout]] in 2013 and singing classes at [[M
 * *[[GrimmNoir]]* (Stage Manager/Production Manager)
 * *[[The Organ Trail]]*
 * *[[The Aftermath]]* (Crew - Scoring)
-* "[[Lonely Star]]" (Crew - Sound Effects)
-* "[[Next Week on Game of Thrones]]" (Crew - Sound Effects)
-* "[[The Untitled Avant-Garde Theater Project with a Really Long Title]]" (Tech Director)
+* *[[Lonely Star]]* (Crew - Sound Effects)
+* *[[Next Week on Game of Thrones]]* (Crew - Sound Effects)
+* *[[The Untitled Avant-Garde Theater Project with a Really Long Title]]* (Tech Director)
 
 [[Category/Performers|Hutchins]]
