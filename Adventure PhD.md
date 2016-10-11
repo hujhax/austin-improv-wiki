@@ -28,7 +28,9 @@ Every Saturday at 6pm at the Hideout bold adventures will delight you with their
 * [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/Adventure-PhD/ Photoshoot with] [Steve Rogers].
 
 ## Shows
-* [https://www.facebook.com/groups/1059512164124549/ North Dakota Ned and the Crystal Obelisk] on gigity.tv. (Chris Curl & Ellen Pizarek)
+* [https://gigity.tv/event/119020 North Dakota Ned and the Crystal Obelisk] on gigity.tv. (Chris Curl & Ellen Pizarek)
+* [https://gigity.tv/event/119021 Texas Tex and the Ivory Tablets] on gigity.tv. (Nicholas Marino & Chelsea Beth)
+* [https://www.facebook.com/SteveRogersPhotography/photos/?tab=album&album_id=1315359981860848] photoset for the second show by Steve Rogers.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
