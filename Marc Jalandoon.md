@@ -51,7 +51,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * [[Hideout Student Battle Royale]] - (5/28/2016)
 
 ### ColdTowne Theater
-* [[Improv Fantasy League]] - (8/17/2016)
+* [[Improv Fantasy League]] - (8/17/2016, 8/24/2016)
 
 ## Mainstage / Student Mainstage Shows
 ### The Hideout Theatre
