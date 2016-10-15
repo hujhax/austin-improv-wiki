@@ -2,6 +2,8 @@
 |Name	=	WIG
 |Picture =     WIG.jpg
 |Cast	=	{{Unbulleted list | [[Wendy Eickstaedt]] | [[Caroline Gorman]] | [[Christina Keller]] | [[Kay Krasin]] | [[Karlie Lemos]] | [[Ellen Pizarek]] | [[Tamara Warton]] | [[Monica Wells]] | [[Amanda Wischkaemper]] }}
+|Former Members	= {{Unbulleted list| [[Kay Krasin]] |  [[Ellen Pizarek]] |  }}
+
 |Years	=		2015-Present
 }}
 
