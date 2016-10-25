@@ -31,6 +31,7 @@ Every Saturday at 6pm at the Hideout bold adventures will delight you with their
 * [https://gigity.tv/event/119020 North Dakota Ned and the Crystal Obelisk] on gigity.tv. (Chris Curl & Ellen Pizarek)
 * [https://gigity.tv/event/119021 Texas Tex and the Ivory Tablets] on gigity.tv. (Nicholas Marino & Chelsea Beth)
 * [https://www.facebook.com/SteveRogersPhotography/photos/?tab=album&album_id=1315359981860848 Texas Tex and the Ivory Tablets photoset] by Steve Rogers.
+* [https://gigity.tv/event/119023 Montana Monica and the Golden Phoenix] on gigity.tv. (Ellen Pizarek & Erasmo Romero)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
