@@ -4,6 +4,7 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Andy Crouch]]
 |Assistant Director = [[Aspen Webster]]
+|Stage Manager      = [[Bob Halgren]]
 |Run                = Aug 2016
 |Cast               = {{Unbulleted list | [[Ann Symmonds]] [[Emily McDonald]] | [[Graham Snow]] | [[Heidi Rogers]] | [[Jessica Soos]] | [[Kay Krasin]] | [[Marc Jalandoon]] | [[Sushanti Sethi]] | [[Tosin Awofeso]] | [[Trent Symmonds]] }}
 |Tech               = {{Unbulleted list | [[Nichole Bennett]] | [[Heather Coffee]] }}
