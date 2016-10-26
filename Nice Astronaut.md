@@ -6,7 +6,7 @@
 |Years	=		2008-Present
 }}
 
-**Nice Astronaut** (originally **HJ Compromise**) is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:13pm at [[ColdTowne Theater]].
+**Nice Astronaut** (originally **HJ Compromise**) is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:30pm at [[ColdTowne Theater]]. The format of their monthly show is "Nice Astronaut Presents Improv Roulette", in which they and an opening team (usually from ColdTowne Conservatory's Level 5-6 classes) spin a wheel of improv formats and perform whichever one the wheel decides. 
 
 ## History
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013) and then [[Cody Dearing]] (2013-).
@@ -77,7 +77,7 @@ Nice Astronaut also hosted the short lived [http://blog.coldtownetheater.com/wp-
 ## See Also
 * [[Townsville]]
 * [[Who Dack]]
-* [[Galactic]]
+* [[Kingston]]
 * [[First United Methodist Church of Plano's Youth Group Improv]]
 
 ## More Information
