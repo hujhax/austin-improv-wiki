@@ -40,7 +40,9 @@ A post from him about the first improv show he ever saw:<blockquote><p>Other tha
 * *[[A Deed So Dark]]*
 * *[[Fakespeare]]*
 * *[[Fandom]]*
+* *[[The Fool's Well]]* (co-director)
 * *[[I Love You So Much]]*
+* *[[Indigo Shift Cabaret]]* (director)
 * *[[Kenjutsu]]*
 * *[[Live Nude Improv]]*
 * *[[Live TV Tuesdays -  Buffy|Live TV Tuesdays: Buffy the Vampire Slayer]]* (director)
@@ -52,7 +54,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>Other tha
 * *[[Rock]]*
 * *[[Savage Swords]]*
 * *[[Showdown]]*
-* *[[SongRunner]]* (assistant director)
+* *[[SongRunner]]* (co-director)
 * *[[Spirited]]*
 * *[[Start Trekkin']]*
 * *[[Strange Worlds]]* (director)
