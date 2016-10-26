@@ -7,7 +7,7 @@
 |Years	=		2015-Present
 }}
 
-**An Englishman and a Belle** is a duo made up of English gentleman, Mark Tindle and 7th Generation Floridian, Austinite and Belle, Aspen Webster. Until anyone can prove otherwise, these close friends claim to be the most geographically-distant improv troupe in the world!
+**An Englishman and a Belle** is a duo made up of English gentleman, Mark Tindle, and 7th Generation Floridian, Austinite and Belle, Aspen Webster. Until anyone can prove otherwise, these close friends claim to be the most geographically-distant improv troupe in the world!
 
 ## Summary
 Formed in 2015, these [[The Hideout Theatre]] alumni are divided by an ocean, but united by a love of improv and performing together. They formed to perform at the 2015 Tampa Improv Festival, after Mark received an invitation to perform from fellow Hideout alumni Nicholas Riggs and Hannah Prince. Aspen was Mark's first choice of fellow performer and he was delighted when she agreed to do a show together. At TIF, they did a David Razowsky-inspired two chairs format show, getting a great reception from a packed house.
