@@ -1,12 +1,12 @@
 {{Infobox Troupe
 |Name	=	Nice Astronaut
 |Picture=	Niceastro-2013-04-10.jpg
-|Cast	=	{{Unbulleted list|[[Chaz Formichella]]|[[Drew Wesely]]|[[Frank Netscher]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Nicole McCracken]]|[[Sanjay Rao]]}}
+|Cast	=	{{Unbulleted list|[[Abby Lincoln]]|[[AJ McKeon]]|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Sanjay Rao]]}}
 
 |Years	=		2008-Present
 }}
 
-**Nice Astronaut** (originally **HJ Compromise**) is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:15pm at [[ColdTowne Theater]].
+**Nice Astronaut** (originally **HJ Compromise**) is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:13pm at [[ColdTowne Theater]].
 
 ## History
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013) and then [[Cody Dearing]] (2013-).
