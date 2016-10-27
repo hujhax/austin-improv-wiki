@@ -53,7 +53,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 ### ColdTowne Theater
 * [[Improv Fantasy League]] - (8/17/2016, 8/24/2016)
 
-## Mainstage / Student Mainstage Shows
+## Extended Run Shows
 ### The Hideout Theatre
 * [[Story to the Death]] - (Actor, 8/2016)
 * [[Adventure PhD]] - (Stage Manager, 10/2016)
