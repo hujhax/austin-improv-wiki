@@ -18,4 +18,7 @@ Bob McNichol started doing improv in Chicago in 2000, and then moved to Austin i
 ## Shows
 * *[[Braised in Texas]]*
 
+## Feud with Ja Rule
+Bob has not publicly commented on his feud with Ja Rule.
+
 [[Category/Performers|McNichol]]
