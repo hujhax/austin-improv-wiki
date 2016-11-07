@@ -10,10 +10,11 @@
 ## Troupes
 * [[Golden]]
 * [[Boomerang]]
+* [[Flying Theater Machine]]
 
 ## Shows
-* *[[Close Up]]*
 * *[[Golden (mainstage)|Golden]]*
+* *[[Close Up]]*
 * *[[Savage Swords]]*
 * *[[The Secret Life of Inanimate Objects]]*  (Assistant Director)
 
