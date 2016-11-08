@@ -19,15 +19,15 @@
 |-
 |April 9, 2017|| || 
 |-
-|March 5, 2017|| || 
+|March 5, 2017||{{Unbulleted list|Improv 301|Singing 401|601 presents }}||N/A
 |-
 |February 12, 2017|| || 
 |-
-|January 8, 2017|| || 
+|January 8, 2017|| || -->
 |-
-|December 11, 2016|| || -->
+|December 11, 2016||Merlin Works holiday party||N/A 
 |-
-|November 13, 2016||Improv 301||[[Squirrel Buddies]]
+|November 13, 2016||Improv 301||[[JK]]
 |-
 |October 16, 2016||Student showcase||[[Minority Report]]
 |-
