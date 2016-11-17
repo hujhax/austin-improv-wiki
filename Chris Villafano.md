@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Chris Villafano	
 |Picture =	Chris Villafano Pic.jpg
-|Theater=	[[The Hideout Theatre]] [[ColdTowne Theater]] [[The New Movement]] [[The Institution Theater]]
+|Theater=	[[The Hideout Theatre]],[[ColdTowne Theater]],[[The New Movement]],[[The Institution Theater]],[[Merlin Works]]
 |Years	=	2012-Present
 }}
 
