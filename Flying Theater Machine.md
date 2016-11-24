@@ -2,7 +2,7 @@
   |Name     = Flying Theater Machine
   |Director = Jessica Arjet
   |Theater  = [[The Hideout Theatre]]
-  |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Luke Wallens]] | [[Kristin Henn]] | [[Madeline Jo Chauvin]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] }}
+  |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Luke Wallens]] | [[Kristin Henn]] | [[Madeline Jo Chauvin]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] | [[Jeanette Jones]] | [[Megan Venable]] | [[Suzanne Link]] | [[Ryan Hill]] | [[Jessica von Schramm]] | [[Aspen Webster]] }}
   |Tech     = {{Unbulleted list | [[Neal Tibrewala]] | [[Cindy Page]] }}
   |Picture  = Flying_Theater_Machine.jpg
   |Run    = Oct 2007-Present
@@ -50,6 +50,9 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Luke Wallens]]
 * [[Aspen Webster]]       (Jun 2014-Present)
 * [[Tyler Bryce]]        (Aug 2015-Present)
+* [[Jessica von Schramm]]       (July 2016-Present)
+* [[Suzanne Link]]      (July 2016-Present)
+* [[Jeanette Jones]]     (July 2016-Present)
 
 ### Touring
 * [[Jessica Arjet]]
