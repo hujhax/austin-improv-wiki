@@ -16,12 +16,19 @@ He is a regular cast member of the Flying Theater Machine.
 * [[Wait OK Now]]
 
 ## Shows
-* *[[History Under the Influence]]*
-* *[[The International Improv Experience]]*
-* *[[The Austin Improv Podcast]]*
-* *[[Fakespeare]]*
-* *[[Flying Theater Machine]]*
-* *[[Hurly Burly]]*
-* *[[Rock]]*
+* *[[History Under the Influence]]* (performer)
+* *[[The International Improv Experience]]*(performer)
+* *[[The Austin Improv Podcast]]*(creator, producer, performer)
+* *[[Fakespeare]]* (performer)
+* *[[Flying Theater Machine]]* (performer)
+* *[[Hurly Burly]]* (performer)
+* *[[Rock]]*(performer)
+* *[[Peter Pan and the Great Unknown]]* (performer)
+* *[[What the F@$]]* (co-director)
+* *[[Close Up]]* (creator, co-director)
+* *[[183 Dewberry Lane]]* (creator, director)
+* *[[Wizard School]]* (creator, director, performer)
+* *[[Three Wishes]]* (creator, director, performer)
+* *[[Spoonful of Sugar]]* (creator, director, performer)
 
 [[Category/Performers|Crestin]]
