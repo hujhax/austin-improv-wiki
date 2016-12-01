@@ -2,6 +2,7 @@
 |Name	=		Things We Don't Speak Of
 |Picture	=	Things We Don't Speak Of.jpg
 |Cast	=	{{ Unbulleted list | [[Jeremy Moran]] | [[Frank Sanchez]] | [[Jenn Hamm]] | [[Mitchell Deane]] }}
+|Past Members =	{{ Unbulleted list | [[Jessica von Schramm]] | [[Lahari Samineni]] | }}
 |Years	=		2015-Present
 }}
 
