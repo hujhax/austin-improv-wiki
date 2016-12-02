@@ -29,6 +29,8 @@ She relocated to Austin in 2008 and got back into the improv scene in 2011.
 * *[[Scene of the Crime]]*
 * *[[The Ladies Room]]*
 * *[[Boy, Howdy!]]*
+* *[[Shameless Dames]]*
+* *[[Fiasco]]*
 
 [[Category/Performers|Oliver]]
 [[Category/Active|Category:Active]]
