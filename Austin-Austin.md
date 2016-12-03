@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	Austin/Austin
-|Picture =     AustinAustinMulti2.jpg
+|Picture =     AustinAustinPromo.jpg
 |Cast	=	{{Unbulleted list | [[Ryan Austin]] | [[Quinn Buckner]] }}
 |Years	=		2014-
 }}
