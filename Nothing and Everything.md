@@ -51,7 +51,7 @@ It was part of [[The 2015 Improvised Play Festival]].
 ** [http://vimeo.com/111990343 Video] by [[Peter Rogers]] of the 11/15/14 show.
 ** [http://vimeo.com/113191194 Video] by [[Peter Rogers]] of the 11/29/14 show.
 ** [http://vimeo.com/114520138 Video] by [[Peter Rogers]] of the 12/13/14 show.
-** [http://vimeo.com/115144124 Video] by [[Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03.)
+** [http://vimeo.com/115144124 Video] by [[Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03. Hideout direct post is here: https://www.facebook.com/groups/hideouttheatre/permalink/853007534722352/)
 * 2015 [[Long Center]] run:
 ** [http://vimeo.com/137272124 Video] of the 8/21/15 performance.
 *** [http://vimeo.com/138711711 Video] of the following audience Q&A.
