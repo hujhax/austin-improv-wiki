@@ -5,7 +5,7 @@
 |Years	=	2015 - Present
 }}
 
-Marc Jalandoon is an active improviser, primarily performing at [[The Hideout Theatre]], who specializes in long form narrative.
+Marc Jalandoon is an active improviser, primarily performing at [[The Hideout Theatre]].
 
 ## History
 Marc began taking improvisation classes at [[The Hideout Theatre]] on November 8th, 2015.  
