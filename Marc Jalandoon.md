@@ -61,6 +61,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 ### The Hideout Theatre
 * [[Story to the Death]] - (Actor, 8/2016)
 * [[Adventure PhD]] - (Stage Manager, 10/2016)
+* [[Nozes Off]] - (Stage Manager, 1/2017)
 
 ## Workshops
 * Trance Mask Workshop (6/2016)
