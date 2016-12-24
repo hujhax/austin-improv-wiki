@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name	=	Alex "Seymour" Addison	
-|Picture =	
+|Picture =	[[Blank]]
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2013-Present
 }}
