@@ -12,7 +12,7 @@ Alex had graduated from Texas State with a BFA in theatre. Specifically, in the 
 
 
 ## Troupes
-* [[Deep Turtle]] (2014- Present)
+* [[Deep Turtle]] (2014-2016)
 * [[Tom Does The Good Work]] Duo, with Cagney Ortiz
 
 [[Category/Performers|Addison]]
