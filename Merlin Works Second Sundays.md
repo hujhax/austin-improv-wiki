@@ -17,13 +17,13 @@
 |-
 |May 14, 2017|| || 
 |-
-|April 9, 2017|| || 
+|April 9, 2017|| || -->
 |-
 |March 5, 2017||{{Unbulleted list|Improv 301|Singing 401|601 presents }}||N/A
 |-
-|February 12, 2017|| || 
+|February 12, 2017||Student showcase||[[Sugar Water Purple]]
 |-
-|January 8, 2017|| || -->
+|January 8, 2017||Student showcase||[[Channel 2]]
 |-
 |December 11, 2016||Merlin Works holiday party||N/A 
 |-
