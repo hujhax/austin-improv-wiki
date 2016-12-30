@@ -38,7 +38,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Savage Swords]]* (technical director/light tech)
 * *[[Start Trekkin']]* (2017 run) (technical director)
 * *[[Teenage Wasteland]]* (technical director)
-* *[[Theatresports]]* (2014 run) (swing tech)
+* *[[Theatresports]]* (2014, 2017 runs) (swing tech, technical director)
 * *[[The Big Bash]]* (swing tech, 2015-present)
 * *[[The Black Vault]]* (light tech, 2015-present)
 * *[[The Amazon and the Milksop|"The Fitzgeralds Save the World"]]* (tech, 2016-present)
