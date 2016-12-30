@@ -1,7 +1,6 @@
 This **list of Austin improv jams and mixers** covers jams and mixers, which differ from shows in that they are participatory: a group of improvisors comes to the event and puts on scenes and games for each other.
 
 ## Active Jams and Mixers
-* Every Sunday at 5pm, [[ColdTowne Theater]] hosts *[[Teen Improv Night]]* for performers under 18.
 * Every Wednesday at 7pm, the [[Hideout Theatre]] hosts a student jam.
 * Every other Sunday at 8pm, [[The Institution Theater]] hosts *[[The Rubber Room]]*.
 * First Tuesday of the month at 10pm, [[ColdTowne Theater]] hosts a student jam.
@@ -18,3 +17,4 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 * From 2010 to 2012, [[The New Movement Theater]] hosted *[[The Shootaround]]*
 * In 2013, every Tuesday night at 6:30pm, [[Harold's House]] happened at RLM on the UT campus.
 * Every Sunday at 7pm in the month of January 2014, [[The New Movement Theater]] hosted an open jam. The jam was preceded by a 6pm workshop.
+* Until 2015, every Sunday at 5pm, [[ColdTowne Theater]] hosted *[[Teen Improv Night]]* for performers under 18.
