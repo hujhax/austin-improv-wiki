@@ -21,6 +21,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Tech Nightmare]]* (scoring tech)
 
 ## Shows
+* *[[All You Need is Love!]]* (technical director)
 * *[[Austin Secrets]]* (2015-2016 runs) (technical director)
 * *[[Boy, Howdy!]]* (technical director/light tech)
 * *[[Control Issues]]* (technical director)
