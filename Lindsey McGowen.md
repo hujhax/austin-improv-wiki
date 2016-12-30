@@ -36,6 +36,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Process]]* (2016 run) (technical director)
 * *[[Reform School for Wayward Girls]]* (sound tech)
 * *[[Savage Swords]]* (technical director/light tech)
+* *[[Start Trekkin']]* (2017 run) (technical director)
 * *[[Teenage Wasteland]]* (technical director)
 * *[[Theatresports]]* (2014 run) (swing tech)
 * *[[The Big Bash]]* (swing tech, 2015-present)
