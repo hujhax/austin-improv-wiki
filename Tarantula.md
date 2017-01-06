@@ -8,7 +8,7 @@
 |Run	=	2015-Present
 }}
 
-***Tarantula*** is [[The Institution Theater]]'s quarterly 10pm show, playing every 5th Saturday at 10pm as part of [[The Staple Shows]].
+***Tarantula*** was [[The Institution Theater]]'s quarterly 10pm show, playing every 5th Saturday at 10pm as part of [[The Staple Shows]].
 
 ## Summary
 Tarantula is a "formless-form" show, in a similar vein as Todd Stashwick's *Mayfly*, or Chicago's *JTS Brown* format. An eight-legged cast of improvisors and musical guests arrive on the night of, in preparation to discover the show they are in as they are finishing it. *Tarantula* has been called "dreamlike" "dynamic" and "what was THAT?" (but in a good way).
@@ -18,7 +18,7 @@ Tarantula is a "formless-form" show, in a similar vein as Todd Stashwick's *Mayf
 On September 12 of 2015, [[Michael Ferstenfeld]] and performance scientists [[Paul Wainright]], [[Jeff Britt]], and [[David Moses Fruchter]] of [[Happiness is a Choice]] held the first iteration of Experiment #22: METACARTOGRAPHY, otherwise known as The Mind Map. Subsequent calibrations of the installation experiment are planned as monthly one-night installations before and often after Tarantula.
 
 #### Artist Series Poster Commission
-As part of the loose, experiential nature of the show, an artist series of posters has been commissioned from the pool of [[Austin Improv Community]] designers, of which there are many members, contributing designs for productions in many and varied ways across the improv marketing scene in Austin. Please see photo archive for in series work.
+As part of the loose, experiential nature of the show, an artist series of posters were commissioned from the pool of [[Austin Improv Community]] designers, of which there are many members, contributing designs for productions in many and varied ways across the improv marketing scene in Austin. Please see photo archive for in series work. Ryan Austin was the only artist to participate but he did it REAL GOOD.
 
 ### Press Blurb
 Tarantula is a combination of improv and live music melding together in the most unique ways.  The improvisers will use the stage and their own bodies like a canvas, a tapestry of emotions and perceptions.  Unlike most improvised shows that tell a story in a narrative fashion, Tarantula will tell a story that is fragmentary and organic.  You will relate to the weird and twisty rhythms of the show because you are HUMAN and it connects with you soul.  Improvisers will move as one, create without structure and follows the beats and tempo that the musicians lay down for them in the moment.
@@ -28,7 +28,20 @@ The show is produced and/or curated (depending on your loose definition in a for
 
 In April of 2016, Artistic Director [[Tom Booker]] decided to make TARANTULA a quarterly show, occurring on the 5th Saturday of the month in an effort to reduce production fatigue and create more potent attraction and attendance. 
 
+In December of 2016 it was decided to cancel TARANTULA. Sarah Marie Curry got all burned out in the producer role and Happiness is a Choice (Michael Ferstenfeld's beautiful improv baby) decided to take over the time slot, as they serve the same wimbly wombly improv master. It makes sense. 
+
 ### Casts
+#### October 29th, 2016
+*[[Alex Walker]]
+*[[Asaf Ronen]]
+*[[Heidi Penix]]
+*[[Jon Bolden]]
+*[[Marc Jalandoon]]
+*[[Shannon McCormick]]
+*[[Shannon Dale Stott]]
+*Musician: [[Josh Ronsen]]
+*Lord of Light: [[Mark Shoemaker]]
+
 #### July 30th, 2016
 * [[Lisa Friedrich]]
 * [[Megan Mowry]]
