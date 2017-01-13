@@ -12,6 +12,8 @@
 She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Favorite Tech Performer]] at the [[The 2013 Institution Theater Awards]].
 
 ## Troupes
+* [[Indigo Shift]]
+* [[Noice Distortion]]
 * [[Tech Nightmare]]
 
 ## Shows
