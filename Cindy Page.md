@@ -24,6 +24,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[Christmas at the Cozy Mountain Inn]]* *(tech)*
 * *[[A Deed So Dark]]* *(tech director, light tech)*
 * *[[Fakespeare]]* *(crew)*
+* *[[Fiasco]]* *(scoring tech/sound swing)*
 * *[[Flying Theater Machine]]* *(tech)*
 * *[[Fragile Rock]]* *(musician)*
 * *[[Fuck It's Christmas]]* *(musician)*
@@ -39,12 +40,15 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[One Small Step]]* *(performer)*
 * *[[Only Three Will Survive]]* *(tech)*
 * *[[Origins]]* *(tech director)*
+* *[[Peter Pan and the Great Unknown]]* *(costuming designer)*
 * *[[Pocketful of Posies]]* *(tech)*
+* *[[Process]]* *(costuming lead)*
 * *[[Rock]]* *(light tech)*
 * *[[Savage Swords]]* *(costume designer, sound tech)*
 * *[[The Sci-Fi Comedy Double Feature]]* *(sound tech)*
 * *[[Seance]]* *(tech)*
 * *[[SongRunner]]* *(tech director)*
+* *[[Story to the Death]]* *(tech director)*
 * *[[Strange Worlds]]* *(tech director, scoring tech)*
 * *[[Thinning the Herd]]* *(light tech, scorekeeper)*
 * *[[The Tribunal]]* *(performer)*
