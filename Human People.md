@@ -18,8 +18,8 @@ People who love doing musical improv together.
 Greg started a musical practice group during level three music class at [[The Hideout Theatre]]. Out of that, a format and Human People were born.
 
 ## More Information
-* [https://www.facebook.com/Human-People-1709857375961100 The troupe's facebook page.]
-* [http://humanpeopleimprov.com/ HumanPeopleImprov.com]
+* The troupe's [https://www.facebook.com/Human-People-1709857375961100 Facebook page.]
+* The troupe website: [http://humanpeopleimprov.com/ HumanPeopleImprov.com]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
