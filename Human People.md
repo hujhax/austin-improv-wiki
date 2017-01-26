@@ -19,6 +19,7 @@ Greg started a musical practice group during level three music class at [[The Hi
 
 ## More Information
 * [https://www.facebook.com/Human-People-1709857375961100 The troupe's facebook page.]
+* [http://humanpeopleimprov.com/ HumanPeopleImprov.com]
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
