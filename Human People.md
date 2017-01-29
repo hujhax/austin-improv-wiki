@@ -15,7 +15,7 @@
 People who love doing musical improv together.
 
 ## History
-Greg started a musical practice group during level three music class at [[The Hideout Theatre]]. Out of that, a format and Human People were born.
+We founded Human People in 2016 from a musical improv jam at Greg's cat-filled apartment, and here we are now, playing in shows across Austin, San Antonio, Houston, and New York City. We like guitar-backed big numbers, crazy characters, and rocking the stage. 
 
 ## More Information
 * The troupe's [https://www.facebook.com/Human-People-1709857375961100 Facebook page.]
