@@ -4,7 +4,7 @@
 |Years	= 2016 - Present
 |Director	=
 |Cast = {{Unbulleted list | [[Greg Mihalik]] | [[David Rosenbaum]] | [[Erik McVicker]] | [[Mary Henderson]] | [[Carolyn Gjersten]] | [[Kris Raab]] | [[Pius Wong]] | [[Sheri Soltes]] | [[Amy McClellan]] | [[Chris Casey]] | [[Kay Krasin]] | [[Sue Woodward]]}}
-|Past Members =	{{Unbulleted list |	[[Bloom Davis]] }}
+|Past Members =	{{Unbulleted list |	[[Bloom Davis]] | [[Judy Blackshear]] }}
 |Tech	=		
 |Crew	=		
 }}
@@ -30,8 +30,8 @@ We founded Human People in 2016 from a musical improv jam at Greg's cat-filled a
 * 6/16/2016 @ Indras Awarehouse
 * 7/15/2016 “Kittens and Broken Hearts” - Dark Matter @ Station Theater (Houston)
 * 7/29/2016 “Supermodels” @ Alamo City Improv
-* 8/4/2016 “The Bat” - Free Fringe @ the Hideout
-* 8/28/2016 "Oxygen" @ Coldtowne
+*  8/4/2016 “The Bat” - Free Fringe @ the Hideout
+*  8/28/2016 "Oxygen" @ Coldtowne
 * 10/15/2016 "Any Excuse" @ NY Musical Improv Festival (Magnet Theater)
 * 11/5/2016 Tightrope @ The Institution
 * 12/14/2016 “Late Bloomer” @ Coldtowne Throwdowne
