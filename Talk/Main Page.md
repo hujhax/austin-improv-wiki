@@ -1,4 +1,0 @@
-Предлагаем полностью рабочее ПО/We offer a ready solution for HSBCAD 2015 ALL MODULES (CRACK - Dongle emulator/Custom license/Patch). Полная поддержка наших решений. Тестирование перед оплатой/Full support for our solutions. Testing before payment. Контакты/Contacts: nodongle24 /@/ gmail.com (remove spaces and /) 
- 
- 
-Sentinel Pro Dongle Emulator, Hasp H3 Dongle Emulator, Guardant Code Time Dongle Emulator, Sparkey Dongle Emulator, Guardant Sign Net Dongle Emulator, Rockey 4nd Dongle Emulator, Biteblock3 Dongle Emulator, Guardant Stealth II Dongle Emulator, Marx Cryptobox Dongle Emulator, Senselock Elite2 Dongle Emulator, Unikey Dongle Emulator, Guardant Fidus Dongle Emulator, Keylock 3 Dongle Emulator, Proteq C500 Dongle Emulator, Actikey Dongle Emulator.
