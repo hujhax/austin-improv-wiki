@@ -8,7 +8,7 @@
 **Aspen Webster** is an improv performer. 
 
 ## History
-Aspen started taking classes at the [[Hideout Theater]] in November of 2013, shortly after moving to Austin, and has been totally hooked on improv ever since. In 2014 she took improv singing classes at [[Merlin Works]]. She is a kids' improv teacher at the Hideout.
+Aspen started taking classes at the [[Hideout Theater]] in November of 2013, shortly after moving to Austin, and has been totally hooked on improv ever since. She is a kids' improv teacher at the Hideout. When she's not happily making things up on stage, she is a Social Work student at UT Austin and a committed nonprofit worker.
 
 ## Shows
 * *[[Flying Theater Machine]]* (2014-2016)
