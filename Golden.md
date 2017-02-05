@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Golden
 |Picture	=	Golden (troupe).jpg
-|Cast	=	{{Unbulleted list | [[Brandon Martin]] | [[Heidi Penix]] | [[Jayme Ramsay]] (2015-Present) | [[Jessica von Schramm]] | [[Luke Wallens]] | [[Marc Majcher]] (2015-Present) | [[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
+|Cast	=	{{Unbulleted list | [[Brandon Martin]] | [[Jayme Ramsay]] (2015-Present) | [[Jessica von Schramm]] | [[Luke Wallens]] | [[Marc Majcher]] (2015-Present) | [[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
 |Director =	[[Marc Majcher]]
 |Years	=		2015-Present
 }}
