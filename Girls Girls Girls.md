@@ -90,8 +90,9 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Cynthia Oelkers]]
 * [[Kimberly Cox]]
 * [[Megan Flynn]]
-* [[Sarah Marie Curry]]
+*[[Sarah Doering]]
 * [[Shana Merlin]]
+
 ### Musicians
 * [[Tosin Awofeso]]
 * [[Joseph Robert Dailey]]
