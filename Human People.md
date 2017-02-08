@@ -36,7 +36,7 @@ We founded Human People in 2016 from a musical improv jam at Greg's cat-filled a
 * 11/5/2016 Tightrope @ The Institution
 * 12/14/2016 “Late Bloomer” @ Coldtowne Throwdowne
 * 12/29/2016 “I Love Bugs” Threefer @ Hideout
-* 1/28/2016 “Spending Too Much Money to Have Fun” @ Austin Musical Improv Love Festival (Institution Theater)
+* 1/28/2017 “Spending Too Much Money to Have Fun” @ Austin Musical Improv Love Festival (Institution Theater)
 
 
 [[Category/Troupes|Category:Troupes]]
