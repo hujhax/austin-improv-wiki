@@ -13,9 +13,11 @@ Kris a.k.a. Kraab a.k.a. Sir Kraab is an improviser in Austin, TX, by way of D.C
 ## Shows
 * *[[The Weekender]]*
 * *[[Fancy Pants]]*
-* *[[Musical Night at Indra's]]*
-* *[[Tightrope]]*
-* *[[Alamo City Improv]]*
-* *Dark Matter @ [[Station Theatre]]*
+* *Musical Night at Indra's*
+* *Tightrope @ [[Institution Theater]]*
+* *Alamo City Improv*
+* *Dark Matter @ Station Theatre*
+* *New York Musical Improv Festival* 
+* *Austin Musical Improv Love Festival* 
 
 [[Category/Performers|Raab]]
