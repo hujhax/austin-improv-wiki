@@ -23,7 +23,7 @@ Erica studied improv at New York's Magnet Theater and the Institution Theater in
 ## Shows
 * *[[Bitterfest]]*
 * [[Damn Gina Presents Night Watch]] (director)
-* [[Highlt Suggestible]] (producer)
+* [[Highly Suggestible]] (producer)
 * [[It Takes Two -  A Night of Almost Famous Comedy Duos]] (producer)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (Andrea Zuckerman)
 * *[[Live TV Tuesdays -  Saved by the Bell]]*
