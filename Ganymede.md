@@ -10,6 +10,8 @@
 ## Format
 ### Current Formats
 #### Mythos
+Mythos is a narrative with heavy underscoring of electronic music. The show starts with the lights down and we scene paint as Walter composes a soundscape to influence the narration and show.
+
 ## Media
 ### Videos
 * [https://drive.google.com/drive/folders/0B-QTaxUOgPfzdkZIQXVFR3d5UGc?usp=sharing Videos Folder] 
