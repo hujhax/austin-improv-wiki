@@ -17,10 +17,10 @@
 ### Photos
 ## Press/Audition Blurbs
 ***Who Are We? Long Version**
-""
+"Ganymede is Kareem Badr, Quinn Buckner, Walter Nichols, and Megan Sherrod. They bring myths to life before your eyes with a combination of cinematic electronic music, detailed narration, and delightful characters. Come see the world begin, end, and everything in between as mysterious creatures and men experience struggles and delights."
 
 *"Mythos"
-""
+"Mythos begins in darkness. Layered ambient music fills the air as Ganymede scene paints and narrates the audience through a scene. From there a story is woven with fun, detailed characters both real and fantastical. Join Ganymede as they travel back to the myths of old and find a new side to the world of gods, beasts, and men."
 
 ## More Information
 * [ The troupe's website.]
