@@ -17,9 +17,10 @@
 ### Photos
 ## Press/Audition Blurbs
 ***Who Are We? Long Version**
+""
 
 *"Mythos"
-"What happened to the stray arrow loose from the archer? Who got startled because of the explosion across the kingdom? When exactly did the goblins turn evil forever? Taking a suggestion from 1 of 3 D&D books, Austin/Austin fleshes out a fantasy world before your eyes. People, creatures, gods, and demons, even in a huge fantasy world things are a little more connected than you think..."
+""
 
 ## More Information
 * [ The troupe's website.]
