@@ -1,0 +1,1 @@
+Temporary photo for the troupe Ganymede
