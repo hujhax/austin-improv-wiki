@@ -38,6 +38,6 @@ Mark has also begun to act an unofficial point of contact for AIC members in the
 ## More Information
 * [https://www.facebook.com/ImprovJourneymanMarkTindle/ Improv Journeyman Mark Tindle on Facebook.]
 * [http://www.theimprovnetwork.org/members/markttindle/ Mark Tindle on The Improv Network.]
-* [http://www.ddgimprov.com/ Duck Duck Goose Improv/]
+* [http://www.ddgimprov.com/ Duck Duck Goose Improv.]
 
 [[Category/Performers|Tindle]]
