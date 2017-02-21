@@ -123,6 +123,7 @@ Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>I g
 * [http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
 ** [http://youtu.be/k07bu91F9H4 Video] by [[Warren Henderson]] of the same show.
 * [http://www.facebook.com/media/set/?set=a.715099225220263.1073741984.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/11/14 show at [[The 2014 Improvised Play Festival]].
+* [https://vimeo.com/93582286 Video] of the 4/25/14 show at the Alaska State Improv Festival.
 
 ### Other
 * [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/strange-worlds-set/strange-worlds-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
