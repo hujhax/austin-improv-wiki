@@ -13,6 +13,20 @@
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 <!--
 |-
+|December 10, 2017|| || 
+|-
+|November 12, 2017|| || 
+|-
+|October 15, 2017|| || 
+|-
+|September 10, 2017|| || 
+|-
+|August 13, 2017|| || 
+|-
+|July 9, 2017|| || 
+|-
+|June 11, 2017|| || 
+|-
 |June 11, 2017|| || 
 |-
 |May 14, 2017|| || 
