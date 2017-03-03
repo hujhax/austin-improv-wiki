@@ -25,11 +25,15 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Austin Secrets]]* (2015-2016 runs) (technical director)
 * *[[Boy, Howdy!]]* (technical director/light tech)
 * *[[Control Issues]]* (technical director)
+* *[[Dance Dreams]]* (technical director)
+* *[[Death By Musical]]* (technical director)
 * *[[Fiasco]]* (technical director/light/multimedia swing tech)
 * *[[Four Chambers]]* (technical director)
 * *[[GrimmNoir]]* (sound tech)
+* *[[How I Saved the World Over Summer Vacation]]* (technical director, scoring tech)
 * *[[Hurly Burly]]* (sound tech/stage manager)
 * *[[I'll Take the Physical Challenge!]]* (technical director)
+* *[[Local on the 8's]]* (technical director)
 * *[[Lonely Star]]* (scoring tech)
 * *[[Next Week on Game of Thrones]]* (light tech)
 * *[[Nothing and Everything]]* (stage manager/props mistress/swing tech)
@@ -51,6 +55,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 ** *Renaissance Queen* (music director/cast)
 ** *Home Again: The Story of Passover* (music director)
 ** *Beyonce's Wild West* (music director)
+* *[[The Kindness of Strangers]]* (technical director)
 
 ## More Information
 * [http://wikipella.org/wiki/Lindsey_McGowen Lindsey's wikipella page.]
