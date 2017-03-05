@@ -2,6 +2,7 @@
 |Name	=	Marc Jalandoon	
 |Picture =	marcjalandoon.jpg
 |Theater=	[[The Hideout Theatre]]
+|Troupes = [[Twine]]
 |Years	=	2015 - Present
 }}
 
@@ -39,9 +40,6 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 ### Merlin Works
 * Level 2 - [[Susan Pickover]]
  
-
-## Troupes
-[[Twine]]
 
 ## One-off Shows
 ### The Hideout Theatre
