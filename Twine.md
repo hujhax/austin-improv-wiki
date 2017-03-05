@@ -1,11 +1,15 @@
 {{Infobox Troupe
 |Name	=	Twine
-|Picture =     ![[Twinehands.jpg]]
+|Picture =     twinehands.jpg
 |Cast	=	{{Unbulleted list | [[Benjamin Blattberg]] | [[Amar Dev]] | [[Marc Jalandoon]] | [[Graham Snow]] | [[Trent Symmonds]] }}
 |Years	=		2016-
 }}
 
 ![[Twinecover2.jpg]]
+
+
+----
+
 Twine is an improvised theater group in Austin, TX, that specializes in telling stories that explores connections between characters through grounded and playful theater-work.
 
 ## Format
