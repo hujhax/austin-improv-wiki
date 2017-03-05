@@ -1,0 +1,2 @@
+## Licensing
+{{Free license}}
