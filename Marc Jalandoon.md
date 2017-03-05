@@ -29,20 +29,20 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 ## Classes
 ### The Hideout Theatre
 #### Student
-* Level 1 - [[Andy Crouch]]
-* Level 2 - Andy Crouch
-* Level 3 - [[Ryan Austin]]
-* Level 4 - Ryan Austin
-* Level 5 - Ryan Austin
-* Level 5 - [[Sarah Marie Curry]]
-* Level 6 - Andy Crouch
-* Level 6 - Sarah Marie Curry
+* Level 1 (11/2015)- [[Andy Crouch]]
+* Level 2 (1/2016) - Andy Crouch
+* Level 3 (3/2016) - [[Ryan Austin]]
+* Level 4 (5/2016) - Ryan Austin
+* Level 5 (7/2016) - Ryan Austin
+* Level 5 (6/2016) - [[Sarah Marie Curry]]
+* Level 6 (9/2016) - Andy Crouch
+* Level 6 (8/2016) - Sarah Marie Curry
 
 #### =Teaching Assistant
 * Levels 1-6 (2016-2017) - [[Courtney Hopkin]]
 
 ### Merlin Works
-* Level 2 - [[Susan Pickover]]
+* Level 2 (11/2016) - [[Susan Pickover]]
  
 
 ## One-off Shows
