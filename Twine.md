@@ -23,18 +23,27 @@ The suggestion is taken from the audience as a single word (ex: "Atlantis"). The
 * Two fishermen brave a storm in the Alaskan sea atop their fishing boat
 * An orphan happens upon a gentleman who teaches him the proper way to be a thief
 
-*On a regular visit to dine with his father, one of the fishermen is caught committing a crime and is imprisoned. The frantic man bonds with the waiter while waiting for his son to dine with him and recants stories of their past. Meanwhile, the orphan gets caught thieving soon after being taught the proper way to steal, and he gets thrown in jail. Over time, the orphan continues to commit crimes and misbehave in jail because it's the safest life and only shelter he's ever known; it is there where he meets with the fisherman and forms a relationship with him as they examine what "a second chance" (essentially, a baptism) means for the two of them.*
+*On a regular visit to dine with his father, one of the fishermen is caught committing a crime and is imprisoned. The frantic man bonds with the waiter while waiting for his son to dine with him and recants stories of their past. Meanwhile, the orphan gets caught thieving soon after being taught the proper way to steal, and he gets thrown in jail. Over time, the orphan continues to commit crimes and misbehave in jail because it's the safest life and only shelter he's ever known and spends his entire life in the jail system; it is there where (the now older) orphan meets with the fisherman and forms a relationship with him as they examine what "a second chance" (essentially, a baptism) means for the two of them, as this is the day both of them are to be released.*
 
 #### Improv Mix-Tape, The Institution Theater - 2/28/2017
 **Diving from the Highest Highs Leads to the Best Endings**
 *Suggestion: "Diving"*
-* A waiter serves his regular dine-in customer - a frantic, neurotic man
-* Two fishermen brave a storm in the Alaskan sea atop their fishing boat
-* An orphan happens upon a gentleman who teaches him the proper way to be a thief
+* A police officer chats with a child who he rescued trying to jump off a bridge for fun
+* Two lovers - a master and his apprentice - pontificate on art and its depths, with the apprentice slowly exhibiting signs of jealousy about the master's other students
+* A man visits his father's grave, where he recounts their unhealthy and emotionally-distant relationship
 
-*On a regular visit to dine with his father, one of the fishermen is caught committing a crime and is imprisoned. The frantic man bonds with the waiter while waiting for his son to dine with him and recants stories of their past. Meanwhile, the orphan gets caught thieving soon after being taught the proper way to steal, and he gets thrown in jail. Over time, the orphan continues to commit crimes and misbehave in jail because it's the safest life and only shelter he's ever known; it is there where he meets with the fisherman and forms a relationship with him as they examine what "a second chance" (essentially, a baptism) means for the two of them.* 
+*The child is talked to by several counselors, with one of the counselors being a friend of the recently-fatherless man and another being the apprentice; all three try to talk about finding the deeper meaning about why the child chooses to live life on the edge as often as he does and the dangers of that. Afterwards, the man chats with his friend about not knowing how to feel about his father's death. While they chat, the man is haunted by his father's thoughts seeping into the forefront of his mind - almost as if their old father/son dynamic was resurfacing during the conversation. In another part of town, the apprentice grew weary of his lover's infatuation with other people that weren't him, so he plots to poison his master under the premise of "if I can't have him to myself, no one can." The fatherless man and the apprentice meet sometime later in the same graveyard, both standing over their respective dead loved ones' graves. * 
 
+#### The Threefer, The Hideout Theatre - 3/2/2017
+**Snuggles are Like Dandelions When You Have Photosynthesis**
+*Suggestion: "Dandelions and Snuggles"*
+* Former robbers and ne'er-do-well partners live in Uruguay, contemplating whether or not to continue on in their now stable life or revert to their old ways 
+* A son asks his father what it means to be a "good" person
+* A scientist creates a self-pollinating dandelion that eventually overwhelms his lab with its unchecked growth
 
+*The father expresses to his son that he's too concerned about being a "good" person, and the father reveals that the son probably feels that way because he's had a brother who left the family to explore what "good" meant before the son was even born, and the son has always stayed in the safe and sheltered ranch all his life. Meanwhile, the scientist's creation continues to spread across cities very subtly, as dandelions are found growing in places they haven't grown before. The son arrives in Uruguay and meets his brother, one of the former robbers, and they discuss that you won't know what's "good" or "bad" if you don't take risks in life to be able to judge them yourself. The scientist comes across the family in Des Moines on his way to South America, where parallels are drawn between the scientist's thirst for knowledge and the son's desire for knowing what "good is" - even to the point where they basically undergo the exact same scene with the father but replacing them with their respective characters. Finally, in Uruguay, the son wishes on a dandelion, not native to Uruguay but because of the experiment is now found there, that he wants to go home to "spread and share" his findings.*
+
+## 
 ## Upcoming Shows
 ### Austin
 * 2/2/2017 - [http://www.hideouttheatre.com/shop/index.php?main_page=shopping_cart&products_id=7469&zenid=b0021980939d07b7aa845e7256ebb3fc The Hideout Theatre], 8pm
@@ -43,8 +52,7 @@ The suggestion is taken from the audience as a single word (ex: "Atlantis"). The
 
 ## More Information
 * [https://www.facebook.com/twineimprov The group's facebook page.]
-* Show Count: 0 (as of 1/10/2017)
+* Show Count: 3 (as of 3/2017)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
-[[Category/Duos|Category:Duos]]
