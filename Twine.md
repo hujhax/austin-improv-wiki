@@ -1,3 +1,5 @@
+![[Twinecover2.jpg]]
+
 {{Infobox Troupe
 |Name	=	Twine
 |Picture =     twinehands.jpg
@@ -5,7 +7,7 @@
 |Years	=		2016-
 }}
 
-![[Twinecover2.jpg]]
+
 
 
 ----
