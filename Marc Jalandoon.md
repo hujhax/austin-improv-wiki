@@ -28,6 +28,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 
 ## Classes
 ### The Hideout Theatre
+#### Student
 * Level 1 - [[Andy Crouch]]
 * Level 2 - Andy Crouch
 * Level 3 - [[Ryan Austin]]
@@ -36,6 +37,9 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * Level 5 - [[Sarah Marie Curry]]
 * Level 6 - Andy Crouch
 * Level 6 - Sarah Marie Curry
+
+#### =Teaching Assistant
+* Levels 1-6 (2016-2017) - [[Courtney Hopkin]]
 
 ### Merlin Works
 * Level 2 - [[Susan Pickover]]
