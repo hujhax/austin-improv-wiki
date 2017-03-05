@@ -43,10 +43,10 @@ The suggestion is taken from the audience as a single word (ex: "Atlantis"). The
 
 *The father expresses to his son that he's too concerned about being a "good" person, and the father reveals that the son probably feels that way because he's had a brother who left the family to explore what "good" meant before the son was even born, and the son has always stayed in the safe and sheltered ranch all his life. Meanwhile, the scientist's creation continues to spread across cities very subtly, as dandelions are found growing in places they haven't grown before. The son arrives in Uruguay and meets his brother, one of the former robbers, and they discuss that you won't know what's "good" or "bad" if you don't take risks in life to be able to judge them yourself. The scientist comes across the family in Des Moines on his way to South America, where parallels are drawn between the scientist's thirst for knowledge and the son's desire for knowing what "good is" - even to the point where they basically undergo the exact same scene with the father but replacing them with their respective characters. Finally, in Uruguay, the son wishes on a dandelion, not native to Uruguay but because of the experiment is now found there, that he wants to go home to "spread and share" his findings.*
 
-## 
+
 ## Upcoming Shows
 ### Austin
-* 2/2/2017 - [http://www.hideouttheatre.com/shop/index.php?main_page=shopping_cart&products_id=7469&zenid=b0021980939d07b7aa845e7256ebb3fc The Hideout Theatre], 8pm
+* TBD
 
 
 
