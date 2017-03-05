@@ -25,6 +25,7 @@ The suggestion is taken from the audience as a single word (ex: "Atlantis"). The
 ## Past Shows
 #### The Threefer, The Hideout Theatre - 2/2/2017
 **Baptism Under the Waters of Life**
+
 *Suggestion: "Baptism"*
 * A waiter serves his regular dine-in customer - a frantic, neurotic man
 * Two fishermen brave a storm in the Alaskan sea atop their fishing boat
@@ -34,6 +35,7 @@ The suggestion is taken from the audience as a single word (ex: "Atlantis"). The
 
 #### Improv Mix-Tape, The Institution Theater - 2/28/2017
 **Diving from the Highest Highs Leads to the Best Endings**
+
 *Suggestion: "Diving"*
 * A police officer chats with a child who he rescued trying to jump off a bridge for fun
 * Two lovers - a master and his apprentice - pontificate on art and its depths, with the apprentice slowly exhibiting signs of jealousy about the master's other students
@@ -43,6 +45,7 @@ The suggestion is taken from the audience as a single word (ex: "Atlantis"). The
 
 #### The Threefer, The Hideout Theatre - 3/2/2017
 **Snuggles are Like Dandelions When You Have Photosynthesis**
+
 *Suggestion: "Dandelions and Snuggles"*
 * Former robbers and ne'er-do-well partners live in Uruguay, contemplating whether or not to continue on in their now stable life or revert to their old ways 
 * A son asks his father what it means to be a "good" person
