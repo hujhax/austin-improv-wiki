@@ -38,8 +38,8 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * Level 6 (9/2016) - Andy Crouch
 * Level 6 (8/2016) - Sarah Marie Curry
 
-#### =Teaching Assistant
-* Levels 1-6 (2016-2017) - [[Courtney Hopkin]]
+#### Teaching Assistant
+* Levels 1-6 (7/2016 - 5/2017) - [[Courtney Hopkin]]
 
 ### Merlin Works
 * Level 2 (11/2016) - [[Susan Pickover]]
