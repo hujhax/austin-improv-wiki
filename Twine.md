@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	Twine
-|Picture =     ![[Twinecover2.png|alt text]]
+|Picture =     ![[Twinecover2.jpg|alt text]]
 |Cast	=	{{Unbulleted list | [[Benjamin Blattberg]] | [[Amar Dev]] | [[Marc Jalandoon]] | [[Graham Snow]] | [[Trent Symmonds]] }}
 |Years	=		2016-
 }}
