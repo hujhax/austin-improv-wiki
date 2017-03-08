@@ -10,13 +10,18 @@ White Dude
 
 Shows: 
 Adventure PhD
+
 Peter Pan and the Great Unknown
+
 Theatresports
 
 
 Education: 
-Hideout Graduate. 
+
+Hideout Graduate.
+ 
 Institution student. 
+
 Coldtowne Advanced Program
 
 Troupe's: 
