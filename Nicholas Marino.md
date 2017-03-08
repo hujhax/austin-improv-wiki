@@ -8,12 +8,16 @@ White Dude
 }}
 
 
+Shows: 
+Adventure PhD
+Peter Pan and the Great Unknown
+Theatresports
 
 
-3 years as part UT's improv troupe "Gigglepants", Vice Captian. 
-
+Education: 
 Hideout Graduate. 
+Institution student. 
+Coldtowne Advanced Program
 
-Institution through level 2.
-
-Coldtowne Level 7
+Troupe's: 
+3 years as part UT's improv troupe "Gigglepants", Vice Captain.
