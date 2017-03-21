@@ -20,7 +20,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 ## Directing
 [[The Hideout Theatre]]
 * [[WaffleFest Volunteer Appreciation Show - Improv Derby]] 2016
-* [[Hideout Student Battle Royale]] 2016
+* [[Hideout Student Battle Royale]] January 2016, May 2016, September 2016, January 2017
 
 ## Various Workshops With
 * [[Andy Crouch]] at [[The Hideout Theatre]] 
