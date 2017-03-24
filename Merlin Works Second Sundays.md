@@ -27,11 +27,11 @@
 |-
 |June 11, 2017|| || 
 |-
-|June 11, 2017|| || 
+|June 11, 2017|| ||-->
 |-
-|May 14, 2017|| || 
+|May 14, 2017||{{Unbulleted list|Improv 301|Singing 501}}|| 
 |-
-|April 9, 2017|| || -->
+|April 9, 2017||Student showcase||[[Migas]]
 |-
 |March 5, 2017||{{Unbulleted list|Improv 301|Singing 401|601 presents }}||N/A
 |-
