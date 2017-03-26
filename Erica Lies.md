@@ -8,9 +8,7 @@
 **Erica Lies** is an improv and sketch performer.
 
 ## History
-Erica studied improv at New York's Magnet Theater and the Institution Theater in Austin and has performed both sketch and improv all over Austin. She co-wrote, directed, created, and starred in the web series "Freelancers" with Ted Meredith, and is also a long-time story producer for Mortified Austin.
-
-
+Erica Lies is a writer, improviser, and teacher in Austin. She’s been writing and performing comedy for over a decade, having studied improv at Magnet Theater, Institution Theater, and ColdTowne Theater. She has an extensive performance background and holds a BFA from West Virginia University and an MA from The University of Texas at Austin, both in theater. As a writer, she is a three-time Second Rounder at the Austin Film Festival with TV pilots she co-wrote with Valerie Nies, and her work has run in McSweeney’s, National Lampoon, Splitsider Humor Section, and the Huffington Post. Erica is also a longtime story producer for Mortified Austin.
 
 ## Troupes
 * [[Miller and Lies]]
