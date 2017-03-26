@@ -11,9 +11,11 @@
 ***Highly Suggestible*** (formerly ***Whiteboard***) is an ongoing montage show at the Institution Theater.
 
 ## Summary
-Before the show, the audience writes show suggestions -- words and phrases -- onto an onstage whiteboard.  The players then use that as inspiration for a montage of scenes, trying to use all of the suggestions by the end of the show.
+Fast, ferocious comedy from a rotating all-star cast. Fill up the Highly Suggestible whiteboard with your suggestions and ideas—words, phrases, doodles—before the show to influence our all star-cast of Highly Suggestible players. They'll rip into your ideas like cheetahs and flip them inside out like a high-flying trapeze act. 
 
-*Highly Suggestible* runs the third Saturday of every month at 10pm, at the Institution Theater.
+Highly collaborative. Highly hilarious. Highly Suggestible.
+
+Highly Suggestible runs the second Saturday of every month at the Institution Theater.
 
 ## More Information
 * [http://www.theinstitutiontheater.com/shows/129/highly-suggestible-improv The show's page on the Institution Theater site.]
