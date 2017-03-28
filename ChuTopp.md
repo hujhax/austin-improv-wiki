@@ -13,6 +13,7 @@ ChuTopp performs at [[The Hideout Theatre]], [[The Institution Theater]], and [[
 
 ## Media
 ### Videos
+* [https://vimeo.com/203716569 Video] by [[Topping Haggerty]] of their 2017 [[FronteraFest]] show.
 * [https://vimeo.com/118970094 Video] by [[Topping Haggerty]] of their 2015 [[FronteraFest]] show.
 * [https://vimeo.com/119300295 Video] by [[Peter Rogers]] of their 1/23/15 performance in the *[[2x4]]*.
 
