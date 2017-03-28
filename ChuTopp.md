@@ -6,7 +6,7 @@
 }}
 
 ## Summary
-**ChuTopp** is the improv power duo of [[Topping Haggerty]] and [[Chuy Zarate]] that began its powerful existence in 2013. They embrace the awkward truth about their very flawed, but focused, characters. ChuTopp's first format, *The End of the World*, had not so worldly, not so knowledgeable, amazingly innocuous characters, saving the world from kitten-apocalypses to the world-wide loss of cell phones. Currently, ChuTopp format is *The Heist*, where all the plans are bad but all the intentions are good.
+**ChuTopp** is the improv power duo of [[Topping Haggerty]] and [[Chuy Zarate]] that began its powerful existence in 2013. They embrace the awkward truth about their very flawed, but focused, characters. ChuTopp's first format, *The End of the World*, had not so worldly, not so knowledgeable, amazingly innocuous characters saving the world from kitten-apocalypses to the world-wide loss of cell phones. Currently, ChuTopp format is *The Heist*, where all the plans are bad but all the intentions are good.
 
 ## History
 ChuTopp performs at [[The Hideout Theatre]], [[The Institution Theater]], and [[ColdTowne Theater]]. ChuTopp was also in Frontera Fest Short Fringe in 2014, 2015, and 2017. In 2016, ChuTopp performed at DuoFest in Philadelphia, and at the Big Sexy Comedy Festival in Dallas.
