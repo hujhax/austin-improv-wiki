@@ -12,7 +12,7 @@ Topping came to Austin from New York City in 2008.
 
 In New York City she directed such improv shows as *The Kihckercast Project*, *Late Night Ritalin*, *What Men Talk About While Women Make Us Wait*, and *Seeking: Sexy Sane and Singl*e. 
 
-She was also a member of many troupes in New York City, that include, but are not limited to: *Cute Kids with Guns*, *Start Trekkin' NYC*, *L'quid P'aper*, *Channel Surfing*, *The Bastards*, *Jenkins*, *Amnesia Wars Etc.*, etc.
+She was also a member of many troupes in New York City, that include, but are not limited to: *Cute Kids with Guns*, *Start Trekkin' NYC*, *L'quid P'aper*, *Channel Surfing*, *The Bastards*, *Jenkins*, *Amnesia Wars Etc.*, etc. Topping's one-person improv show *The Topping Haggerty Experience*, that began as CamelBack in 2002, has been seen from Buenos Aires, to Toronto, to Finland, and many places in between.
 
 Topping is also known for her dark unique sketch comedy. Most recently she has focus her dark comedy skills on her angry, foul mouthed, puppet troupe that has graced the stage with the musicals *BatShyt Crazy: Live Rude Puppets*at The Institution Theater in 2014 and *BatShyt Crazy: Feel the Felt* at Frontera Fest 2015. The angry, stabby, puppets made their performance debut in *Akimbo Bubble Scuttle Ruckus* at Frontera Fest 2011. 
 
