@@ -14,7 +14,7 @@ In New York City she directed such improv shows as *The Kihckercast Project*, *L
 
 She was also a member of many troupes in New York City, that include, but are not limited to: *Cute Kids with Guns*, *Start Trekkin' NYC*, *L'quid P'aper*, *Channel Surfing*, *The Bastards*, *Jenkins*, *Amnesia Wars Etc.*, etc.
 
-Topping is also known for her dark unique sketch comedy. Mostly recently, she has focus her dark comedy skills on her angry, foul mouthed, puppet troupe that has graced the stage with the musicals *BatShyt Crazy: Live Rude Puppets*at The Institution Theater in 2014 and *BatShyt Crazy: Feel the Felt* at Frontera Fest 2015. The angry, stabby, puppets made their performance debut in *Akimbo Bubble Scuttle Ruckus* at Frontera Fest 2011. 
+Topping is also known for her dark unique sketch comedy. Most recently she has focus her dark comedy skills on her angry, foul mouthed, puppet troupe that has graced the stage with the musicals *BatShyt Crazy: Live Rude Puppets*at The Institution Theater in 2014 and *BatShyt Crazy: Feel the Felt* at Frontera Fest 2015. The angry, stabby, puppets made their performance debut in *Akimbo Bubble Scuttle Ruckus* at Frontera Fest 2011. 
 
 Topping was part of the first Second City Conservatory NYC sketch show *We Built This City on Rent Control*. Also, in New York she either wrote sketches or directed for, and often performed in: *Scrap Metal Theatre*, *The Resistance*, *TJ Stomp*, *Skeeger*, and *Short & Funny: The Final Chapter*.
 
