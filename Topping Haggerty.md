@@ -18,7 +18,7 @@ Topping is also known for her dark unique sketch comedy. Most recently she has f
 
 Topping was part of the first Second City Conservatory NYC sketch show *We Built This City on Rent Control*. Also, in New York she either wrote sketches or directed for, and often performed in: *Scrap Metal Theatre*, *The Resistance*, *TJ Stomp*, *Skeeger*, and *Short & Funny: The Final Chapter*.
 
-In 2016, her short film *Day of the Dingus* won an honorable mention for the Austin 48 Hours Film Festival.
+In 2016, her short film *Day of the Dingus* won an honorable mention from the Austin 48 Hours Film Festival.
 
 Topping received her BA in Drama from San Francisco State University, and studied improv with Bay Area Thearesports, The Upright Citizens Brigade, Second City NYC, Armando Diaz, Michael Gellman, Mark Sutton, Joe Bill,  Billy Merritt, and Mick Napier, among others.
 
