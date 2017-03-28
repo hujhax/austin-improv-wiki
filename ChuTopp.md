@@ -9,7 +9,7 @@
 **ChuTopp** is the improv power duo of [[Topping Haggerty]] and [[Chuy Zarate]]. Their characters are usually trying to save the world or take over the world using their amazingly innocuous life skills.
 
 ## History
-ChuTopp performs at [[The Hideout Theatre]], [[The Institution Theater]], and [[ColdTowne Theater]]. ChuTopp was also in Frontera Fest Short Fringe in 2015. 
+ChuTopp performs at [[The Hideout Theatre]], [[The Institution Theater]], and [[ColdTowne Theater]]. ChuTopp was also in Frontera Fest Short Fringe in 2014, 2016, and 2017. In 2016, ChuTopp performed at DuoFest in Philadelphia, and at the Big Sexy Comedy Festival in Dallas.
 
 ## Media
 ### Videos
