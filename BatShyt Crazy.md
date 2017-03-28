@@ -15,7 +15,9 @@ BatShyt Crazy has performed at [[The Institution Theater]], [[The Hideout Theatr
 
 In BatShyt Crazy's most famous sketch, Pedro Poops Joy, [[Susannah Raulino]] guest starred as the sexy angry dismissive, but much loved lead singer, Killer.
 
-BatShyt Crazy had their own run of ridiculous sketch comedy called 'BatShyt Crazy: Live Rude Puppets' at the Institution Theater in August of 2014.
+BatShyt Crazy had their own run of ridiculous, angry, musical sketch comedy with 'BatShyt Crazy: Live Rude Puppets' at the Institution Theater in August of 2014.
+
+In 2015, the took the stage again with the foul mouthed Christmas musical classic *BatShyt Crazy: Feel the Felt* at Frontera Fest Short Fringe.
 
 ## Media
 ### Videos
