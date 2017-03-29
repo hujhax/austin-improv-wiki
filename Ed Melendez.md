@@ -2,7 +2,7 @@
 |Name	= Ed Melendez		
 |Picture = Ed Melendez Pic.jpg
 |Theater=	[[ColdTowne Theater]]
-|Years= 2009-Present
+|Years= 2009-2015
 }}
 
 **Ed Melendez** is an improv performer.
