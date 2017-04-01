@@ -20,6 +20,7 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 * *[[Alamo City Improv]]*
 * *Duo Night at [http://www.stationtheater.com/ Station Theatre]*
 * *[[Free Fringe]]* (with special guest [[Aspen Webster]])
+* *[[Dual Reality]]*
 
 ## Media
 ### Videos
