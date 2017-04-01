@@ -28,6 +28,7 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 * [https://www.facebook.com/TooShyGuys/videos/1104186449641713/ Alamo City Improv] 06/18/2016
 * [https://www.facebook.com/TooShyGuys/videos/1117581541635537/ Duo Night at Station Theatre] 07/09/2016
 * [https://www.facebook.com/TooShyGuys/videos/1136405429753148/ Musical Fringe] 08/04/2016
+* [https://www.facebook.com/TooShyGuys/videos/1359894910737531/ Dual Reality] 03/31/2017
 
 ## More Information
 * [http://www.facebook.com/TooShyGuys The troupe's facebook page.]
