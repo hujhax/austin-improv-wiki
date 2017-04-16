@@ -18,6 +18,7 @@
 ### Photos
 ## Press/Audition Blurbs
 ***Who Are We? Long Version**
+"Megan & Quinn are a real life couple. I mean who better to improvise with than someone who gets all your stuff when you die? Together they bring world's to life through mischief, strong characters, and dynamic world building. You never know what will happen, but it better be good or someone is sleeping on the couch."
 
 *"TBD"
 
