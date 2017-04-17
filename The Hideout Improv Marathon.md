@@ -71,7 +71,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Katie Dahm]]
 | style="font-weight: bold;" | [[Halyn Lee Erickson]]
 | style="font-weight: bold;" | [[Jeremy Sweetlamb]]
-| [[Margaret Hunsicker]]
+| [[Margaret Rose Hunsicker]]
 |-
 | [[Kaci Beeler]]
 | [[Marc Majcher]]
