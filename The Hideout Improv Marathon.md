@@ -31,6 +31,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 ! 2014
 ! 2015
 ! 2016
+! 2017
 |-
 | [[Andy Crouch]]
 | [[Bill Stern]]
@@ -40,6 +41,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Bridget Brewer]]
 | [[Brett Tribe]]
 | [[Ace Manning]]
+| [[Craig Kotfas]]
 |-
 | [[Caitlin Sweetlamb]]
 | style="font-weight: bold;" | [[Curtis Luciani]]
@@ -49,6 +51,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Dave Buckman]]
 | [[Cat Drago]]
 | style="font-weight: bold;" | [[Caitlin Sweetlamb]]
+| [[J.R. Zambrano]]
 |-
 | [[Curtis Luciani]]
 | [[Jessica Arjet]]
@@ -58,6 +61,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | Jonathan Monkhouse
 | [[Courtney Hopkin]]
 | [[Chuy Zarate]]
+| style="font-weight: bold;" | [[Katie Dahm]]
 |-
 | [[Jeremy Sweetlamb]]
 | style="font-weight: bold;" | [[Kaci Beeler]]
@@ -67,6 +71,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Katie Dahm]]
 | style="font-weight: bold;" | [[Halyn Lee Erickson]]
 | style="font-weight: bold;" | [[Jeremy Sweetlamb]]
+| [[Margaret Hunsicker]]
 |-
 | [[Kaci Beeler]]
 | [[Marc Majcher]]
@@ -76,6 +81,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Michael Ferstenfeld]]
 | style="font-weight: bold;" | [[Michael Joplin]]
 | style="font-weight: bold;" | [[Jessica Arjet]]
+| Patti Stiles
 |-
 | [[Kareem Badr]]
 | [[Meghan Wolff]]
@@ -85,6 +91,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Rachel Madorsky]]
 | [[Mike D'Alonzo]]
 | Katie Hartman
+| [[Rob Yoho]]
 |-
 | [[Matt Pollock]]
 | [[Roy Janik]]
@@ -94,6 +101,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Ruby Willmann]]
 | [[Quinn Buckner]]
 | [[Rachel Austin]]
+| [[Ryan Austin]]
 |-
 | [[Troy Miller]]
 | [[Valerie Ward]]
@@ -103,6 +111,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | style="font-weight: bold;" | [[Troy Miller]]
 | [[Sarah Marie Curry]]
 | [[Ryan Hill]]
+| [[Yamina Khouane]]
 |}
 
 ## More Information
