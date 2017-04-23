@@ -23,13 +23,11 @@
 |-
 |August 13, 2017|| || 
 |-
-|July 9, 2017|| || 
-|-
-|June 11, 2017|| || 
+|July 9, 2017||Improv 201|Improv 601|Singing 401|| 
 |-
 |June 11, 2017|| ||-->
 |-
-|May 14, 2017||{{Unbulleted list|Improv 301|Singing 501}}|| 
+|May 14, 2017||{{Unbulleted list|Improv 301|Singing 501}}||N/A 
 |-
 |April 9, 2017||Student showcase||[[Migas]]
 |-
