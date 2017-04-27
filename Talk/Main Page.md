@@ -17,3 +17,7 @@
 ## Who can write my essay cheap?
 Fed up of typing "who can write my essay" in the search bar? Would you like to have a reliable helper always by your side? Essayerudite.com will come as an excellent solution to this problem. 
 We do our best to keep you satisfied with the service we provide.
+
+## Who can write my paper for me?
+Looking for an expert to write my paper for you? ESSAYERUDITE.COM is the right place. Providing superior writing service appears to be our main specialization and passion. Our website is the best destination for every English-speaking student who calls for assistance when handling his or her daily academic tasks. 
+Let us turn your assignments into the highest grades!
