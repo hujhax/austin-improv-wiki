@@ -21,3 +21,7 @@ We do our best to keep you satisfied with the service we provide.
 ## Who can write my paper for me?
 Looking for an expert to write my paper for you? ESSAYERUDITE.COM is the right place. Providing superior writing service appears to be our main specialization and passion. Our website is the best destination for every English-speaking student who calls for assistance when handling his or her daily academic tasks. 
 Let us turn your assignments into the highest grades!
+
+## Best essay writing service
+We value excellent academic writing and strive to provide outstanding essay writing services each and every time you place an order. We write essays, research papers, term papers, course works, reviews, theses and more, so our primary mission is to help you succeed academically. 
+EssayErudite.com - don't waste your time and order our essay writing service today!
