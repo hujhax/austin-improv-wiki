@@ -25,3 +25,13 @@ Let us turn your assignments into the highest grades!
 ## Best essay writing service
 We value excellent academic writing and strive to provide outstanding essay writing services each and every time you place an order. We write essays, research papers, term papers, course works, reviews, theses and more, so our primary mission is to help you succeed academically. 
 EssayErudite.com - don't waste your time and order our essay writing service today!
+
+## New software XRumer 16.0 + XEvil 3.0 can break of captchas more than 8400 types
+ Absolutely NEW update of SEO/SMM software "XRumer 16.0 + XEvil 3.0": 
+captchas recognition of Google, Facebook, Bing, Hotmail, SolveMedia, Yandex, 
+and more than 8400 another types of captchas, 
+with highest precision (80..100%) and highest speed (100 img per second). 
+You can connect XEvil 3.0 with all most popular SEO/SMM software: XRumer, GSA SER, ZennoPoster, Srapebox, Senuke, and more than 100 of other programms. 
+ 
+Interested? There are a lot of demo videos about XEvil in YouTube. 
+See you later ;)
