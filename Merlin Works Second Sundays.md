@@ -25,7 +25,7 @@
 |-
 |July 9, 2017||Improv 201|Improv 601|Singing 401|| 
 |-
-|June 11, 2017|| ||-->
+|June 11, 2017|| ||[[Things We Don't Speak Of]]-->
 |-
 |May 14, 2017||{{Unbulleted list|Improv 301|Singing 501}}||N/A 
 |-
