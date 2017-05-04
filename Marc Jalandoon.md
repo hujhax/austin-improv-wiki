@@ -29,7 +29,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 ## Classes
 ### The Hideout Theatre
 #### Student
-* Level 1 (11/2015)- [[Andy Crouch]]
+* Level 1 (11/2015) - [[Andy Crouch]]
 * Level 2 (1/2016) - Andy Crouch
 * Level 3 (3/2016) - [[Ryan Austin]]
 * Level 4 (5/2016) - Ryan Austin
@@ -44,7 +44,6 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 
 ### Merlin Works
 * Level 2 (11/2016) - [[Susan Pickover]]
-
 
 ## Troupes
 ### Active Troupes
