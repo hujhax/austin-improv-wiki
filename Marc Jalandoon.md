@@ -44,15 +44,20 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 
 ### Merlin Works
 * Level 2 (11/2016) - [[Susan Pickover]]
+
+
+## Troupes
+### Active Troupes
+[[Twine]] - 12/2016
  
 
 ## One-off Shows
 ### The Hideout Theatre
-* [[Maestro]] - (10/1/2016, 11/3/2016, 2/9/2017)
+* [[Maestro]] - (10/1/2016, 11/5/2016, 2/11/2017)
 * [[Maestro Raw]] - (5/7/2016*, 7/16/2016, 9/10/2016)
 * [[Fancy Pants]] - (7/1/2016, 9/9/2016, 10/7/2016)
 * [[Student Appreciation Show]] - (5/28/2016, 9/24/2016)
-* [[Free Fringe]] - (11/10/2016)
+* [[Free Fringe]] - (11/10/2016, 1/19/2017)
 
 ### ColdTowne Theater
 * [[Improv Fantasy League]] - (8/17/2016, 8/24/2016)
@@ -66,7 +71,12 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * [[Adventure PhD]] - (Stage Manager, 10/2016)
 * [[Nozes Off]] - (Stage Manager, 1/2017)
 
+### The Institution Theater
+* [[Immigrants! The Musical!]] - (Actor, 7/2017)
+
 ## Workshops
 * Trance Mask Workshop (6/2016)
+* Interactive Improv (2/2017)
+* Advanced Narrative Workshop (4/2017)
 
 [[Category/Performers|Austin]]
