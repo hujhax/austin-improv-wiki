@@ -40,6 +40,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 
 #### Teaching Assistant
 * Levels 1-6 (7/2016 - 5/2017) - [[Courtney Hopkin]]
+* Level 5 (5/2017) - Sarah Marie Curry
 
 ### Merlin Works
 * Level 2 (11/2016) - [[Susan Pickover]]
