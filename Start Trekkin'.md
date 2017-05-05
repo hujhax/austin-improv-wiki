@@ -138,6 +138,22 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Steve Harwood]]
 * [[Troy Miller]] (co-director)
 
+### Season 8
+* [[Aaron Saenz]]
+* [[Ace Manning]]
+* [[Andy Crouch]] (co-director)
+* [[Angie Epley]]
+* [[Aspen Webster]]
+* [[Ben Sterling]] (co-director)
+* [[Cat Drago]]
+* [[David Lampe]]
+* [[Jordan T. Maxwell]]
+* [[Kacey Samiee]]
+* [[Katie Dahm]] 
+* [[Kenny Madison]]
+* [[Michelle Cook]] 
+* [[Monica Martinez Maher]]
+
 ## Media
 ### Videos
 * [http://vimeo.com/35437814 Video of the 4/23/05 performance (season 2, episode 4).]
