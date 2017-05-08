@@ -5,7 +5,7 @@
 |Years	=	2012-Present
 }}
 
-**Jessica von Schramm** is an improv performer.
+**Jessica von Schramm** is an improv performer and director.
 
 ## Summary
 Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in March of 2012. Since then she has become a TA at the Hideout and has performed at all five improv theaters in Austin.
