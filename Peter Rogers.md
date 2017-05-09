@@ -31,6 +31,8 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Fandom]]*
 * *[[Fiasco]]* (director)
 * *[[GrimmNoir]]*
+* *[[Heavens, Mr. Darcy!]]*
+* *[[How I Saved the World Over Summer Vacation]]*
 * *[[History Under the Influence]]*
 * *[[Improvised Shakespeare]]*
 * *[[The Joss Whedon Pajama Party]]*
@@ -46,6 +48,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[The Professor]]*
 * *[[Reform School for Wayward Girls]]*
 * *[[Rock]]*
+* *[[Savage Swords]]*
 * *[[The Sci-Fi Comedy Double Feature]]*
 * *[[Spirited]]*
 * *[[Start Trekkin']]*
