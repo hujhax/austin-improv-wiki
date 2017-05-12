@@ -22,7 +22,7 @@
 
 ## Storytelling
 * *Texas Storytelling StorySlam Champion* (2017)
-* *The Moth Houston GrandSlam Champion* (2016)
+* *[https://vimeo.com/162884857 The Moth Houston GrandSlam Champion]* (2016)
 * *RISK! Live Austin Performer* (2013 & 2017)
 * *The Moth StorySlam Winner* (2015 & 2016)
 * *Testify Austin Performer and Producer* (2016 - )
