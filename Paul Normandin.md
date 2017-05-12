@@ -23,10 +23,9 @@
 ## Storytelling
 * *[http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf Texas Storytelling StorySlam Champion]* (2017)
 * *[https://vimeo.com/162884857 The Moth Houston GrandSlam Champion]* (2016)
+* *RISK! Live Austin Performer* (2013 & 2017)
 * *[https://vimeo.com/162883820 The Moth Houston StorySlam Winner]* (2015)
 * *[https://vimeo.com/203635641 The Moth Houston StorySlam Winner]* (2016)
-* *RISK! Live Austin Performer* (2013 & 2017)
-* *The Moth StorySlam Winner* (2015 & 2016)
 * *Testify Austin Performer and Producer* (2016 - )
 * *Austin No Shame Theatre Performer - Backup Host* (2011 - 2016)
 * *Story Department Performer*
