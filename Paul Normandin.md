@@ -56,6 +56,9 @@
 ## Festival Producer
 * *[[WaffleFest]]* (2014 - )
 
+## Director
+* ''[http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run "Cochise: Student Mainstage Run"] Assistant Director
+
 ## Improv History
 Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He is a storyteller and has a strong focus on narrative Improv.   
 
