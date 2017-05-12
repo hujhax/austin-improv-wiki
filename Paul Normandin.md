@@ -67,9 +67,9 @@ Paul conceived of and started the grounded, narrative troupe [[In Our Prime]] in
 
 Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[We're Here to Date Your Daughter]] founded in 2012. 
 
-He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, Little House on the Alien Praire, and .
+He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, and Little House on the Alien Praire.
 
-Paul is a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Ryan Hill]] on guitar at [[FronteraFest]]. Paul won 2017 Texas Storytelling Festival StorySlam in March.
+Paul is a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Ryan Hill]] on guitar at [[FronteraFest]]. Paul won [http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf/ "2017 Texas Storytelling Festival StorySlam"] in March.
 
 Paul was a teaching assistant at [[The Hideout Theatre]] in 2013. Paul has been the producer of [[The Hideout Theatre]] annual [[WaffleFest]] since 2014. 
 
