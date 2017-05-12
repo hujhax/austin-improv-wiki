@@ -12,7 +12,7 @@
 * *Texas A&M University, M.A. 1992, Speech Communication*
 * *Hideout Theatre & Merlin Works Graduate* (2010 - 2012)
 * *Improv Classes - Many and Varied* (2010 - )
-* *Storytelling Classes - Kevin Allison ([http://risk-show.com/ "RISK! Podcast" post]), David Crabb (The Moth) & Brooke Pillifant (Down South Word of Mouth)* (2013 - )
+* *Storytelling Classes - Kevin Allison ([http://risk-show.com/ "RISK! Podcast"]), [https://themoth.org/storytellers/david-crabb "David Crabb (The Moth)"] & Brooke Pillifant (Down South Word of Mouth)* (2013 - )
 
 ## Teaching Experience
 * *Guest Lecturer at The University of Texas at Austin - Public Health, Technology, and Ethics* (2017)
