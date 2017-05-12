@@ -52,6 +52,7 @@
 * *[[Hurly Burly]]* (2014-2017)
 * *[[Improv Anonymous]]* (2014 - )
 * *[[Grimm Noir]]* (2015)
+* ''[https://austinplaybacktheatre.wordpress.com/ "Austin Playback Theatre"] (2015 - )
 
 ## Festival Producer
 * *[[WaffleFest]]* (2014 - )
