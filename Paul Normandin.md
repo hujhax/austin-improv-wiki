@@ -75,7 +75,7 @@ Paul was a teaching assistant at [[The Hideout Theatre]] in 2013.
 
 ## More Information
 * [http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/ "In Praise Of..." post] by [[Mia Iseman]].
-* [http://www.dentonrc.com/local-news/local-news/2017/03/12/twisting-tales-32nd-annual-texas-storytelling-festival-comes-end#ssStory3048322/ "Twisting Tales" by Harrison Long.
+* [http://www.dentonrc.com/local-news/local-news/2017/03/12/twisting-tales-32nd-annual-texas-storytelling-festival-comes-end#ssStory3048322/ "Twisting Tales" post] by Harrison Long.
 
 
 [[Category/Performers|Normandin]]
