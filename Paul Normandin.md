@@ -12,7 +12,7 @@
 * *Texas A&M University, M.A. 1992, Speech Communication*
 * *Hideout Theatre & Merlin Works Graduate* (2010 - 2012)
 * *Improv Classes - Many and Varied* (2010 - )
-* *Storytelling Classes - Kevin Allison ([http://risk-show.com/ "RISK! Podcast"]), [https://themoth.org/storytellers/david-crabb "David Crabb (The Moth)"] & Brooke Pillifant (Down South Word of Mouth)* (2013 - )
+* *Storytelling Classes - Kevin Allison ([http://risk-show.com/ "RISK! Podcast"]), [https://themoth.org/storytellers/david-crabb "David Crabb (The Moth)"] & [http://downsouthwordofmouth.org/team/ "Brooke Pillifant (Down South Word of Mouth)"]* (2013 - )
 
 ## Teaching Experience
 * *Guest Lecturer at The University of Texas at Austin - Public Health, Technology, and Ethics* (2017)
@@ -77,7 +77,7 @@ By day Paul is a Senior Advisor for the State of Texas with an emphasis on Proje
 
 ## More Information
 * [http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/ "In Praise Of..." post] by [[Mia Iseman]].
-* [http://www.dentonrc.com/local-news/local-news/2017/03/12/twisting-tales-32nd-annual-texas-storytelling-festival-comes-end#ssStory3048322/ "Twisting Tales" post] by Harrison Long.
+* [http://www.dentonrc.com/local-news/local-news/2017/03/12/twisting-tales-32nd-annual-texas-storytelling-festival-comes-end#ssStory3048322/ "Twisting Tales"] by Harrison Long.
 
 
 [[Category/Performers|Normandin]]
