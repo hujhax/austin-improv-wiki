@@ -12,7 +12,7 @@
 * *Texas A&M University, M.A. 1992, Speech Communication*
 * *Hideout Theatre & Merlin Works Graduate* (2010 - 2012)
 * *Improv Classes - Many and Varied* (2010 - )
-* *Storytelling Classes - Kevin Allison (RISK! Podcast) and David Crabb (The Moth)* (2013 - )
+* *Storytelling Classes - Kevin Allison (RISK! Podcast), David Crabb (The Moth), Brooke Pillifant (Down South Word of Mouth)* (2013 - )
 
 ## Teaching Experience
 * *Guest Lecturer at The University of Texas at Austin - Public Health, Technology, and Ethics* (2017)
@@ -57,7 +57,7 @@
 * *[[WaffleFest]]* (2014 - )
 
 ## Improv History
-Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He is also a storyteller and has a strong focus on narrative improv.   
+Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He is a storyteller and has a strong focus on narrative Improv.   
 
 Paul completed classes at [[The Hideout Theatre]] with his friend and classmate, [[Bob Olmstead]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Two Guys From Yonkers]]" on October 31, 2011.  
 
@@ -69,9 +69,9 @@ Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin 
 
 He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include a version of the Improviser's Nightmare format, The Great Debate, and Bob Finds 50.
 
-Paul is a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017.  
+Paul is a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul is the 2017 Texas Storytelling Festival Champion. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017.  
 
-Paul was a teaching assistant at [[The Hideout Theatre]] in 2013.
+Paul was a teaching assistant at [[The Hideout Theatre]] in 2013. Paul has been the producer of [[The Hideout Theatre]] annual [[WaffleFest]] since 2014. 
 
 ## More Information
 * [http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/ "In Praise Of..." post] by [[Mia Iseman]].
