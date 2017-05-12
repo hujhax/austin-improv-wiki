@@ -21,7 +21,7 @@
 * *Teaching Assistant in Speech Communication at Texas A&M University* (1990 - 1992)
 
 ## Storytelling
-* *Texas Storytelling StorySlam Champion* (2017)
+* *[http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf Texas Storytelling StorySlam Champion]* (2017)
 * *[https://vimeo.com/162884857 The Moth Houston GrandSlam Champion]* (2016)
 * *[https://vimeo.com/162883820 The Moth Houston StorySlam Winner]* (2015)
 * *[https://vimeo.com/203635641 The Moth Houston StorySlam Winner]* (2016)
