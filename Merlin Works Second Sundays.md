@@ -21,11 +21,11 @@
 |-
 |September 10, 2017|| || 
 |-
-|August 13, 2017|| || 
+|August 13, 2017|| || -->
 |-
-|July 9, 2017||Improv 201|Improv 601|Singing 401|| 
+|July 9, 2017||Improv 201 recital|Improv 601|| 
 |-
-|June 11, 2017|| ||[[Things We Don't Speak Of]]-->
+|June 11, 2017||Student showcase||[[Things We Don't Speak Of]]
 |-
 |May 14, 2017||{{Unbulleted list|Improv 301|Singing 501}}||N/A 
 |-
