@@ -1,11 +1,11 @@
 {{Infobox Troupe
-|Name	=	Megan & Quinn
+|Name	=	Megan and Quinn
 |Picture =     MeganQuinn1.jpg
 |Cast	=	{{Unbulleted list | [[Megan Sherrod]] | [[Quinn Buckner]] }}
 |Years	=		2016-
 }}
 
-**Megan & Quinn** is 
+**Megan and Quinn** is 
 
 ## Format
 ### Current Formats
@@ -18,14 +18,14 @@
 ### Photos
 ## Press/Audition Blurbs
 ***Who Are We? Long Version**
-"Megan & Quinn are a real life couple. I mean who better to improvise with than someone who gets all your stuff when you die? Together they bring world's to life through mischief, strong characters, and dynamic world building. You never know what will happen, but it better be good or someone is sleeping on the couch."
+"Megan and Quinn are a real life couple. I mean who better to improvise with than someone who gets all your stuff when you die? Together they bring world's to life through mischief, strong characters, and dynamic world building. You never know what will happen, but it better be good or someone is sleeping on the couch."
 
 *"TBD"
 
 ## More Information
-* [The duo's website.]
+* [www.meganandquinn.com The duo's website.]
 * [https://www.facebook.com/meganandquinn The duo's facebook page.]
-* Show Count: 1 (as of 02/09/2017)
+* Show Count: 3 (as of 05/13/2017)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
