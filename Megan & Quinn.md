@@ -23,7 +23,7 @@
 *"TBD"
 
 ## More Information
-* [www.meganandquinn.com The duo's website.]
+* [https://www.meganandquinn.com The duo's website.]
 * [https://www.facebook.com/meganandquinn The duo's facebook page.]
 * Show Count: 3 (as of 05/13/2017)
 
