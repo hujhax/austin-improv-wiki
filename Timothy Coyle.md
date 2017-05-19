@@ -46,8 +46,8 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Lacy Shawn]]
 
 ## Troupes / Duo
-* [[Character Explosion]] (2014-current)
-* [[You Bet Your Life]] improvised quiz show based off [[Wikipedia - You Bet Your Life|*You Bet Your Life hosted by Groucho Marx*]]. (2015-Current)
+* [[Character Explosion]] (2014-2016)
+* [[You Bet Your Life]] improvised quiz show based off [[Wikipedia - You Bet Your Life|*You Bet Your Life hosted by Groucho Marx*]]. (2015-2016)
 
 ## Instructor
 * [[Building Connections]] classes for homeless youth (2015-Current)
