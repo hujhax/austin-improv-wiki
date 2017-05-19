@@ -51,6 +51,7 @@ These are troupes that still need pages created for them.
 * [[Book Club]]
 * [[Bros]]
 * [[Brownstone]]
+* [[Camp sLaughter]]
 * [[Candy Vampires]]
 * [[Car Chase]]
 * [[Carlos and Chrissy are Twins]]
