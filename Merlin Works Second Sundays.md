@@ -17,11 +17,11 @@
 |-
 |November 12, 2017|| || 
 |-
-|October 15, 2017|| || 
+|October 1, 2017||{{Unbulleted list|Improv 201 recital|Improv 301|Improv 601|Improv Singing 301}}|| 
 |-
-|September 10, 2017|| || 
+|September 10, 2017|| ||
 |-
-|August 13, 2017|| || -->
+|August 13, 2017||Student showcase||SMC singing group -->
 |-
 |July 9, 2017||{{Unbulleted list|Improv 201 recital|Improv 601}}|| 
 |-
