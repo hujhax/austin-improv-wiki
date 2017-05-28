@@ -18,7 +18,7 @@
 ### Photos
 ## Press/Audition Blurbs
 ***Who Are We? Long Version**
-"Megan and Quinn are a real life couple. I mean who better to improvise with than someone who gets all your stuff when you die? Together they bring worlds to life through mischief, strong characters, and dynamic world building. You never know what will happen, but it better be good or someone is sleeping on the couch."
+"Apart they are good, but together they are fantastic. Megan and Quinn bring worlds to life through mischief, strong characters, and dynamic world building. Together they will delight your senses and give you a glimpse into what it's like to date your improv partner. You never know what will happen, but it better be good or someone may be sleeping on the couch!"
 
 *"TBD"
 
