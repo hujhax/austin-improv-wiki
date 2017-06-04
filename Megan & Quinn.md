@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	Megan and Quinn
-|Picture =     MeganQuinn1.jpg
+|Picture =     MeganQuinn2.jpg
 |Cast	=	{{Unbulleted list | [[Megan Sherrod]] | [[Quinn Buckner]] }}
 |Years	=		2016-
 }}
