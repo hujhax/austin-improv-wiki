@@ -23,7 +23,7 @@
 |-
 |August 13, 2017||Student showcase||SMC singing group -->
 |-
-|July 9, 2017||{{Unbulleted list|Improv 201 recital|Improv 601}}|| 
+|July 9, 2017||Improv 201 recital||[[Donut Patrol]]
 |-
 |June 11, 2017||Student showcase||[[Things We Don't Speak Of]]
 |-
