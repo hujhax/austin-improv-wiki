@@ -23,6 +23,7 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 * ''[[Story to the Death]] (2016) (Assistant Director)
 * *[[Fool's Well]]* (2016)
 * ''[[Start Trekkin]] (2017)
+* ''[[How I Saved the World Over Summer Vacation]] (2017)
 
 ## Troupes
 * [[Physics Curse]] 
