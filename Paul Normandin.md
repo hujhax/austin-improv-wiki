@@ -26,6 +26,7 @@
 * *RISK! Live Austin Performer* (2013 & 2017)
 * *[https://vimeo.com/162883820 The Moth Houston StorySlam Winner]* (2015)
 * *[https://vimeo.com/203635641 The Moth Houston StorySlam Winner]* (2016)
+* *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writer's Roulette]* (2017) 
 * *Testify Austin Performer and Producer* (2016 - )
 * *Austin No Shame Theatre Performer - Backup Host* (2011 - 2016)
 * *Story Department Performer*
