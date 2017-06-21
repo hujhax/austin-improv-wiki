@@ -37,7 +37,7 @@
 |-
 |September 10, 2017||Student showcase||
 |-
-|August 13, 2017||Student showcase||SMC singing group -->
+|August 13, 2017||SMC singing group|| -->
 |-
 |July 9, 2017||Improv 201 recital||[[Donut Patrol]]
 |-
