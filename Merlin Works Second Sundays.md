@@ -13,13 +13,29 @@
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 <!--
 |-
-|December 10, 2017|| || 
+|August 12, 2018|| || 
+|-
+|July 8, 2018|| || 
+|-
+|June 10, 2018|| || 
+|-
+|May 13, 2018|| || 
+|-
+|April 8, 2018|| || 
+|-
+|March 4, 2018|| || 
+|-
+|February 11, 2018|| || 
+|-
+|January 7, 2018|| || 
+|-
+|December 3, 2017|| || 
 |-
 |November 12, 2017|| || 
 |-
 |October 1, 2017||{{Unbulleted list|Improv 201 recital|Improv 301|Improv 601|Improv Singing 301}}|| 
 |-
-|September 10, 2017|| ||
+|September 10, 2017||Student showcase||
 |-
 |August 13, 2017||Student showcase||SMC singing group -->
 |-
