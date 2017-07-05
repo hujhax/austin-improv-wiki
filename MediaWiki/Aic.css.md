@@ -25,3 +25,7 @@ margin: 0 auto;
 .infobox-theater {
 width: 300px;
 }
+
+body {
+background: #0D74BF url(images/aic-background.png) no-repeat;
+}
