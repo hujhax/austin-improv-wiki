@@ -30,8 +30,10 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 * *[[The Black Vault]]*
 * *[[The Next Chapter]]*
 * *[[Trust No One]]* (directed)
+* *[[Kenjutsu]]*
 * *[[Grimm Noir]]*
 * *[[You Can't Stay Here]]* (directed)
+* *[[All Hell Breaks Loose]]*
 
 ### Non-Improvised
 * *[[Live TV Tuesdays -  Felicity]]*
