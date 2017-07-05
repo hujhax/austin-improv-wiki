@@ -20,7 +20,7 @@ Upon moving to Austin he signed up for classes pronto.
 ## Shows
 * *[[Cochise]]* (2014)
 * *[[Song Runner]]* (Tech)
-* ''[[The Untitled Avant Garde Theater Project with a Really Long Title']] (Tech)
+* *[[The Untitled Avant-Garde Theater Project with a Really Long Title]]* (Tech)
 * *[[Buddy Cop]]* (Tech)
 
 [[Category/Performers|Blank]]
