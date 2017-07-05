@@ -27,5 +27,5 @@ width: 300px;
 }
 
 body {
-background-image: url(http://www.almanac.com/sites/default/files/birth_month_flowers-primary-1920x1280px_pixabay.jpg);
+background-image: url(images/aic-logo.png);
 }
