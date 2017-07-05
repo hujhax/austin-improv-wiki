@@ -166,6 +166,14 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |Sep 2016||Oct 2016||*[[I'll Take the Physical Challenge!]]*|| [[Courtney Hopkin]]
 |-
 |Nov 2016||Dec 2016||*[[Peter Pan and the Great Unknown]]*||[[Kaci Beeler]]
+|-
+|Jan 2017||Feb 2017||*[[Start Trekkin'#Season 8|Start Trekkin']]*||[[Andy Crouch]], [[Ben Sterling]]
+|-
+|Mar 2017||Apr 2017||*[[Theatresports]]*||[[Ryan Austin]], [[Manuel Duran]]
+|-
+|May 2017||Jun 2017||*[[How I Saved the World Over Summer Vacation]]*||[[Jordan T. Maxwell]]
+|-
+|Jul 2017||Aug 2017||*[[The Kindness of Strangers]]*||[[Rob Yoho]]
 |}
 
 ## Student Mainstage Shows
