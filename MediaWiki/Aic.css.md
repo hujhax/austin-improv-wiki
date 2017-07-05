@@ -26,6 +26,6 @@ margin: 0 auto;
 width: 300px;
 }
 
-p {
-background-color: Red;
+body {
+background-image: url(http://www.almanac.com/sites/default/files/birth_month_flowers-primary-1920x1280px_pixabay.jpg);
 }
