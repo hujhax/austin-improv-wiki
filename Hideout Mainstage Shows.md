@@ -184,6 +184,8 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 {| class="wikitable"
 |**Month**||**Show**||**Directed by**
 |-
+|Apr 2012||*[[After School Improv]]*||[[Jason Vines]]
+|-
 |Feb 2014||*[[What the F@$]]*||[[Ruby Willmann]]
 |-
 |Apr 2014||*[[Camp Madeupponathaspotta]]*|| [[Jon Bolden]]
