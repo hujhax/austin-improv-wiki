@@ -27,5 +27,5 @@ width: 300px;
 }
 
 body {
-background-image: url(images/aic-logo.png);
+background-image: url(images/aic-background.png);
 }
