@@ -5,7 +5,7 @@
 |Years	=	2012-Present
 }}
 
-**Matt Needles** is an improv performer.
+**Matt Needles** is a writer, director and improviser.
 
 ## Troupes
 * [[Empty Promises]]
