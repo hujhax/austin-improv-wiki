@@ -37,7 +37,7 @@ Empty Promises is a ColdTowne harold team and multilevel marketing scheme. Empty
 2017 GhostFest Phoenix
 
 ### "Promotions"
-Empty Promises has had named menu items at Tyson's Tacos and the Grand.
+Empty Promises have named menu items at Tyson's Tacos and the Grand.
 
 ## Media
 ### Photos
