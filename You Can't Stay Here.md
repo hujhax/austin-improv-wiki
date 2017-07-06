@@ -17,7 +17,7 @@ The show ran Fridays at 10pm from May 15 to June 19, 2015. It was an improvised 
 
 The cast of ten rotated through the four main character positions, with a different set of four each performance.
 
-*You Can't Stay Here* was nominated for two [[B. Iden Payne Awards]], for Outstanding Improvised Production and Outstanding Direction - Improv, for 2015.
+*You Can't Stay Here* was nominated for two [[B. Iden Payne Awards]], for *Outstanding Improvised Production* and *Outstanding Direction - Improv*, for 2015.
 
 ### Press Blurb
 From the initial show announcement: <blockquote>"It’s two a.m. in the big, bad city. The bars are closed, but the night is just beginning. Beware: Things are different when it gets this late. In this unscripted play, a group of friends will find out how"</blockquote>
