@@ -5,7 +5,7 @@
 |Years	=		2014-Present
 }}
 
-**Empty Promises** is an improv troupe.
+**Empty Promises** is Austin's longest running gag 
 
 ## Summary
 ### "Austin's Harold Team"
