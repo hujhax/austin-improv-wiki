@@ -1,7 +1,8 @@
 {{Infobox Show
 |Name	=	How I Saved the World Over Summer Vacation	
 |Picture = KidsOnBikes.jpg
-|Director = {{Unbulleted list | [[Jordan T. Maxwell]] }}
+|Director = {{Unbulleted list | [[Jordan T. Maxwell]] | 
+[[J.R. Zambrano]] }}
 |Cast	=	{{Unbulleted list | 
 [[Rachel Austin]] |
 [[Marcone Cangussu]] |
