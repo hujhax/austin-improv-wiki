@@ -18,6 +18,7 @@
 * *[[TGIS]]*
 * *[[The Organ Trail]]*
 * *[[A Brief History of Murder]]*
-
+* *[[A Brief History of Magic]]*
+* *[[Rezurangur]]*
 
 [[Category/Performers|Needles]]
