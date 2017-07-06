@@ -11,12 +11,26 @@
 ### Press Blurb
 Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Empty Promises is a Harold team who honor the pure Chicago style form. Fast, fun, whimsical and smart, Empty Promises promises to deliver delight and laughter to every stage it hits. Together they discover new worlds in a high paced physical powerhouse of a show.</blockquote>
 
-### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Coldtowne Theater's Harold standard bearers, Empty Promises, play fast and loose all over Texas. Headquartered in Austin they play at The Hideout Theater, Station Theater and their home, Coldtowne Theater. They focus on honoring the pure form of a Harold. The group is compromised of all-star players Sanjay Rao, Matthew Stoner, Matt Needles, Eli Eidson, Ian Townsend and K.C. Harvey Taylor. The players have been featured in MainStage shows Boy Band, Organ Trail, Beware of Female Spies, Slam Team Six, and Thicker than Water. The cast have all or individually trained with the likes of Todd Stashwick, Susan Messing, Craig Cakowski, Jet Eveleth, Jason Schotts, Dave Buckman, Greg Hess, Rich Talrico, Brandon Gardner and Jimmy Carrane.
+### "Austin's Harold Team"
+Empty Promises is a ColdTowne harold team and multilevel marketing scheme. Empty Promises hosted "Comedy" Fridays at 11:30 PM at ColdTowne Theater from November 2015-July 2016. 
 
-Empty Promises is currently coached by Second City TourCo alumni Eric Rutherford. </blockquote>
 
-also a taco
+
+### "Festival Appearances"
+2015 New Orleans Arts and Comedy Fest
+2015 Phoenix Improv Festival
+2015 Out of Bounds Comedy Festival
+2015 Houston Trill Comedy Fest
+2016 Dallas Comedy Festival
+2016 Out of Bounds Comedy Festival
+2016 Denver Improv Festival
+2017 Del Close Marathon
+2017 DC Improv Fest
+2017 Out of Bounds Comedy Festival
+2017 GhostFest Phoenix
+
+### "Promotions"
+Empty Promises has had named menu items at Tyson's Tacos and the Grand.
 
 ## Media
 ### Photos
