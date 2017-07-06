@@ -8,9 +8,6 @@
 **Empty Promises** is an improv troupe.
 
 ## Summary
-### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Empty Promises is a Harold team who honor the pure Chicago style form. Fast, fun, whimsical and smart, Empty Promises promises to deliver delight and laughter to every stage it hits. Together they discover new worlds in a high paced physical powerhouse of a show.</blockquote>
-
 ### "Austin's Harold Team"
 Empty Promises is a ColdTowne harold team and multilevel marketing scheme. Empty Promises hosted "Comedy" Fridays at 11:30 PM at ColdTowne Theater from November 2015-July 2016. 
 
