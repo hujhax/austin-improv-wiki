@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Empty Promises
 |Picture	=	Empty Promises.jpg
-|Cast	=	{{ Unbulleted list | [[Alejandro Garcia]] | [[Eli Eidson]] | [[Ian Townsend]] | [[KC Harvey-Taylor]] | [[Mathew Stoner]] | [[Matt Needles]] | [[Sanjay Rao]] | [[Caitlin McNally]] }}
+|Cast	=	{{ Unbulleted list | [[Alejandro Garcia]] | [[Eli Eidson]] | [[Ian Townsend]] | [[KC Harvey-Taylor]] | [[Mathew Stoner]] | [[Matt Needles]] | [[Sanjay Rao]] | [[Caitlin McNally]] | [[Justin Linville]] }}
 |Years	=		2014-Present
 }}
 
