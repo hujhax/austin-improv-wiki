@@ -9,11 +9,11 @@
 
 
 ## Troupes
-* [[Cheap Date]] (2013-Present)
+* [[Cheap Date]] (2013-2015)
 * [[Empty Promises]] (2014-Present)
-* [[Lunch Pail]] (2014-Present)
-* [[Matt & Alejandro's One Man Show]] (2014-Present)
-
+* [[Lunch Pail]] (2014-2015)
+* [[Matt & Alejandro's One Man Show]] (2014-2015)
+Brute Squad
 
 ## *[[Cagematch]]* Teams
 * [[Billy Shakes and All-Star Bards]] (2014)
