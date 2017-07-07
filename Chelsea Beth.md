@@ -1,5 +1,7 @@
+Chelsea Beth is an improv and scripted theater performer.
 
-[<nowiki>Insert
+## Resume
+<pre>
 Chelsea Beth
 Contact - 318-469-3251, chelseabeth2008@yahoo.com, www.chelseabeth.com
 Range: Soprano
@@ -48,3 +50,5 @@ Voice Lessons: Adam Roberts Intensive, Ray Scott Crawford, Janice Aiken, and Tar
 
 Special Skills:
 Irene Ryan Nominee for Next Fall 2013, Centenary APO’s Best Supporting Actress 2012-13, Best Actress in a One Act 2009/10 and Best Actress in a Main Stage in 2011 from BPCC, Member of Alpha Psi Omega and Phi Theta Kappa, Licensed Driver, Percussion (Snare), ukulele, intermediate aerial silks (Four Elements), Dolphin sound</nowiki>
+
+</pre>
