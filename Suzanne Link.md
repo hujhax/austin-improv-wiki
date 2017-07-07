@@ -19,5 +19,6 @@
 * *[[The Secret Life of Inanimate Objects]]*  (Assistant Director)
 **[[Peter Pan and the Great Unknown]]*
 **[[Nozes Off]]*
+**[[Buddy Cop -  Metro City Nights]]* (Assistant Director)
 
 [[Category/Performers|Link]]
