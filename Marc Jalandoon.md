@@ -72,7 +72,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * [[Death By Musical]] - (Actor, 9/2017)
 
 ### The Institution Theater
-* [[Immigrants! The Musical!]] - (Actor, 6/2017)
+* [[Immigrants, The Musical! (Part One)]] - (Actor, 6/2017)
 
 ## Workshops
 * Trance Mask Workshop (6/2016)
