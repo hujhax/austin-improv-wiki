@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name =	Immigrants, The Musical!  (Part One)					
-|Picture =						
+|Picture=Immigrants.jpg						
 |Theater = The Institution Theater
 |Director =	{{Unbulleted list|[[Lahari Samineni]]|[[Asaf Ronen]]}}
 |Music Director = Tosin Awofeso		
