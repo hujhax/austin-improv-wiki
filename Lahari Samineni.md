@@ -18,11 +18,9 @@ Past:<br>
 * [[Who Wants Attention!]]
 
 ## Shows
+* '[[Immigrants, The Musical! (Part One)]]"
 * *[[The Source]]*
 * *[[Home for the Holidays]]* (aka *[[I'll Be Home For Christmas]]*)
 * *[[The Ladies Room]]*
 * *[[The Secret Life of Inanimate Objects]]*
 * *[[Teenage Wasteland]]* (tech: score)
-
-
-[[Category/Performers|Samineni]]
