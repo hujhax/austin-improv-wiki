@@ -33,11 +33,11 @@
 |-
 |November 12, 2017|| || 
 |-
-|October 1, 2017||{{Unbulleted list|Improv 201 recital|Improv 301|Improv 601|Improv Singing 301}}|| 
+|October 1, 2017||{{Unbulleted list|Improv 201 recital|Improv 301|Improv 601|Improv Singing 301}}||-->
 |-
-|September 10, 2017||Student showcase||
+|September 10, 2017||Student showcase||[[Camp sLaughter]]
 |-
-|August 13, 2017||SMC singing group||[[The Matriarchy]] -->
+|August 13, 2017||SMC singing group||[[The Matriarchy]]
 |-
 |July 9, 2017||Improv 201 recital||[[Donut Patrol]]
 |-
