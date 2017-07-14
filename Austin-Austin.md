@@ -54,7 +54,7 @@ Lo! What dangers lie beyond that dark and stormy sea? Just listen, sailor!  Hear
 ## More Information
 * [http://www.austinandaustin.us/ The duo's website.]
 * [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
-* Show Count: 36 (as of 01/05/2017)
+* Show Count: 41 (as of 07/14/2017)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
