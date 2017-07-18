@@ -5,10 +5,13 @@
 |Years	=	2015-Present
 }}
 
-**Lena Long** is an improv performer.
+**Lena Long** is an improv performer. 
 
 ## Shows
+* *[[The Gauntlet]]*
+* *[[Award Winner]]*
 * *[[Fuck, It's Hot!]]*
+* *[[A Fine Affair]]*
 * *[[Lonely Star]]*
 * *[[The Source]]*
 
