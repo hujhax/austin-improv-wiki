@@ -70,6 +70,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * [[Adventure PhD]] - (Stage Manager, 10/2016)
 * [[Nozes Off]] - (Stage Manager, 1/2017)
 * [[Death By Musical]] - (Actor, 9/2017)
+* [[Dance Dreams]] - (Actor, 11/2017)
 
 ### The Institution Theater
 * [[Immigrants, The Musical! (Part One)]] - (Actor, 6/2017)
