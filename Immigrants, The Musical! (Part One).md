@@ -6,7 +6,7 @@
 |Music Director = Tosin Awofeso		
 ||Stage Manager =	Sandra Ybarra					
 |Tech Director = {{Unbulleted list|Mark Shoemaker|Lance Hunter}}     					
-|Cast = {{Unbulleted list|Allison Day|Amar Dev|Dori Alvarado|Frank Sánchez|Heidi Rogers|Kelly Campbell|Kim Tran|[[Marc Jalandoon]]|Mars Wright|Shannon Dale Stott|Sushant Sethi}}
+|Cast = {{Unbulleted list|Allison Day|Amar Dev|Dori Alvarado|Frank Sánchez|Heidi Rogers|[[Kelly Campbell]]|Kim Tran|[[Marc Jalandoon]]|Mars Wright|Shannon Dale Stott|Sushant Sethi}}
 |Run = June - July 2017							
 }}
 
