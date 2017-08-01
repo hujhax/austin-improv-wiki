@@ -20,8 +20,8 @@ Ms. Campbell saw her first improv show in high school, at UCB in New York City. 
 * *[[The Secret Life of Inanimate Objects]]*
 * *[[The Fool's Well]]*
 * "[[Immigrants, The Musical! (Part One)]]"
-* "[[Next Week On... Game of Thrones]]"
-* "[[Missed Connections]]"
+* *[[Next Week On... Game of Thrones]]*'
+* *[[Missed Connections]]*
 
 [[Category/Performers|Campbell]]
 [[Category/Techs|Campbell]]
