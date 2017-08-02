@@ -16,6 +16,12 @@
 * *[[Fiasco]]* (lighting tech)
 * *[[Process]]* (crew)
 * *[[The Secret Life of Inanimate Objects]]*
+* *[[Story to the Death]]* (scoring)
+* *[[2017 Student Battle Royale]]* (director)
+* *[[How I Saved the World Over Summer Vacation]]* (lighting/video tech)
+* *[[Gauntlet]]* 
+* *[[Musical to the Death]]* (sound fx)
+* *[[Soundstage 23]]* (technical director)
 
 
 [[Category/Performers|Bennett]]
