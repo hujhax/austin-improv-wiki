@@ -9,6 +9,8 @@
 
 ## Troupes
 * [[Character Explosion]]
+* Imaginary Friend
+* Yes, Anderson
 
 ## Shows
 * *[[Fiasco]]* (lighting tech)
