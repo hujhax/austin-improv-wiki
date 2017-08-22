@@ -37,7 +37,7 @@
 |-
 |September 10, 2017||Student showcase||[[Camp sLaughter]]
 |-
-|August 13, 2017||SMC singing group||[[The Matriarchy]]
+|August 13, 2017||Well Versed student showcase||[[The Matriarchy]]
 |-
 |July 9, 2017||Improv 201 recital||[[Donut Patrol]]
 |-
