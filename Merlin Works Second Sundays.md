@@ -31,9 +31,9 @@
 |-
 |December 3, 2017|| || 
 |-
-|November 12, 2017|| || 
+|November 12, 2017|| || -->
 |-
-|October 1, 2017||{{Unbulleted list|Improv 201 recital|Improv 301|Improv 601|Improv Singing 301}}||-->
+|October 1, 2017||{{Unbulleted list|Improv 301}}||[[Miller & Lies]]
 |-
 |September 10, 2017||Student showcase||[[Camp sLaughter]]
 |-
