@@ -4,7 +4,7 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 * Every Friday at 7pm, [[Drew Wesely]] leads [[Drew's Improv Gym]], a coached long-form improv jam at Austin Rec Center, 1301 Shoal Creek Blvd. Donations accepted.
 * Every Wednesday at 7pm, the [[Hideout Theatre]] hosts a student jam at the [[Hideout Studios]], 2505 E 6th.
 * Every other Sunday at 6pm, [[The Institution Theater]] hosts *[[The Rubber Room]]*, featuring an open jam and faculty show.
-* The first Tuesday of the month at 8:30pm, [[ColdTowne Theater]] hosts a student/teacher jam.
+* The first Tuesday of the month at 10:00pm, [[ColdTowne Theater]] hosts a student/teacher jam.
 * The various theaters frequently host ladies-only jams; follow [https://www.facebook.com/Austin-Ladies-Improv-Jam-668545106670439/ Austin Ladies Improv Jam] to learn about upcoming events.
 * The fourth Sunday of every other month, [[Merlin Works]] puts on *[[The Merlin Works Mixer]]* at the ZACH Theater.
 * The warm-up for the monthly [[Merlin Works Second Sundays]] show is an "open warm-up" which any improviser can join.
