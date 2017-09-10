@@ -17,8 +17,11 @@ Kenny has worked with with Jill Bernard, Joe Bill, Jimmy Carrane, and a whole me
 Kenny wants you to realize that you need to accept how great you are. Improv changed his life by letting him realize the world is at your control. The way it gets out of your hands is when you believe you are smaller than it. You are the same as the world around you, you might just think you're worse than. In reality, you are a genius. Remember that what you are doing is exactly how it's supposed to be done. The worst that can happen is someone says no. Everything you're doing is correct.
 
 ## Troupes
-* [[Mirage Machine]] (director)
-* [[Past Life Aggression]]
+* [[Mirage Machine]] (member)
+* [[Camp sLaughter]] (coach)
+* [[Kenny-Rogers]] (member)
+* [[Past Life Aggression]] (member)
+* [[Oliver]] (member)
 
 ## Shows
 * *[[Close Up]]*
