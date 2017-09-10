@@ -3,9 +3,10 @@
 |Picture =	Kenny Madison Pic.jpg
 |Theater=	[[The Institution Theater]]
 |Years	=	2014-Present
+
 }}
 
-**Kenny Madison** is an improv performer and director.
+**Kenny Madison** is an improv performer and director. He maintains a regular blog at [http://kennymadisoniscool.com/improv-comedy-austin/ KennyMadisonisCool.com], where he also offers coaching to other improvisers in town.
 
 ## Bio
 Kenny "The Tank" Madison was born in Tulsa, Oklahoma, raised in Sand Springs, Oklahoma, and went to school in Norman, Oklahoma, which logically places him in Austin, TX. Much to your surprise, he started improv in Oklahoma in 2008, where he was a player, then a coach, then an artistic director, then a friend. Since moving to Austin, Kenny has done regular shows at the Institution, Hideout, and ColdTowne Theaters, ranging from Junior Cast Member to Show Director.
@@ -24,11 +25,18 @@ Kenny wants you to realize that you need to accept how great you are. Improv cha
 * [[Oliver!]] (member)
 
 ## Shows
-* *[[Close Up]]*
-* *[[Improv Anonymous]]* (director)
-* *[[Late Night Time Machine]]* (guest appearance: Stanley Kubrick)
-* *[[Scene of the Crime]]*
+* *[[Start Trekkin']]* (player)
+* *[[Fuck It's Christmas!]]* (writer/player)
+* *[[It Came From Your Brain!]]* (producer/director/Monster Crew)
+* *[[Over the Lege]]* (writer/player)
+* *[[Award Winner]]* (director)
+* *[[Close Up]]* (player)
+* *[[Late Night Time Machine]]* (guest appearance: Stanley Kubrick) 
+* *[[Scene of the Crime]]* (junior improviser)
 * *[[You Can't Stay Here]]* (quizmaster)
-
+* *[[My Stepdad is a Genie]]* (quizmaster)
+* *[[Kenny Does Community]]* (starring role)
+* *[[High-deas]]* (player)
+* *[[Improv Anonymous]]* (director)
 [[Category/Performers|Madison]]
 [[Category/Directors|Madison]]
