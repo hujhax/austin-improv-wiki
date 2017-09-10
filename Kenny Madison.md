@@ -21,7 +21,7 @@ Kenny wants you to realize that you need to accept how great you are. Improv cha
 * [[Camp sLaughter]] (coach)
 * [[Kenny-Rogers]] (member)
 * [[Past Life Aggression]] (member)
-* [[Oliver]] (member)
+* [[Oliver!]] (member)
 
 ## Shows
 * *[[Close Up]]*
