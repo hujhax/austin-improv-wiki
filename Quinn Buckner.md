@@ -58,6 +58,8 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 *2016 - Improvaganza (Edmonton) - [[Austin-Austin]]
 *2016 - The Out of Bounds Comedy Festival - [[Austin-Austin]]
 *2017 - Improvised Play Festival - [[Austin-Austin]]
+*2017 - Out of Bounds Comedy Festival - [[Austin-Austin]], All-Star Maestro
+*2017 - Vancouver International Improv Festival - International Ensemble
 
 ## More Information
 * [http://yesandrew.com/the-sunday-interview-quinn-buckner-2/ Interview] by [[Andrew Buck]].
