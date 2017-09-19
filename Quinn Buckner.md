@@ -36,7 +36,10 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * *[[Austin Secrets]]*
 * *[[I'll Take the Physical Challenge]]*
 **[[Peter Pan and the Great Unknown]]*
-**[[Dance Dreams]* ==Festivals== 2010 - The Out Of Bounds Comedy Festival - [[Anticdotes]], *[[Guilds of Steel]]*
+**[[Dance Dreams]]*
+
+## Festivals
+*2010 - The Out Of Bounds Comedy Festival - [[Anticdotes]], *[[Guilds of Steel]]*
 *2011 - Del Close Marathon - [[Dukes of Bedside Manor]]
 *2011 - The Out Of Bounds Comedy Festival - [[Bolik Not ZIB]], [[Dukes of Bedside Manor]], [[Quayle]]
 *2012 - The Out Of Bounds Comedy Festival - [[Dukes of Bedside Manor]], [[The Professor]]
