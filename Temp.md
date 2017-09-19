@@ -26,7 +26,7 @@
 ## More Information
 * [https://www.meganandquinn.com The duo's website.]
 * [https://www.facebook.com/meganandquinn The duo's facebook page.]
-* Show Count: 5 (as of 07/15/2017)
+* Show Count: 11 (as of 09/16/2017)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
