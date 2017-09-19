@@ -14,6 +14,7 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 ## Troupes
 #### Active
 * [[Austin-Austin]]
+* [[Megan and Quinn]]
 #### Inactive/No Longer a Member
 * [[Anticdotes]]
 * [[Bolik Not ZIB]]
