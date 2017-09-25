@@ -4,7 +4,7 @@ This **List of Hideout Theatre Shows** is designed to be transcluded into any "H
 The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
 
 ### Ongoing Shows
-* *[[Flying Theater Machine]]*
+* *[[Hideout Kids]]*
 * *[[The Free Fringe]]*
 * *[[Gorilla Theater]]*
 * *[[Maestro]]*
