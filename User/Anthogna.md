@@ -17,7 +17,7 @@ On arriving in Austin in June of 2015, he started taking classes at [[The Hideou
 
 In December of 2015, Brent participated in his first [[Maestro Raw]], winning the coveted CAD$5.
 
-His first foray into Technical Improvising was with the 2016 run of [[Austin Secrets]] in March/April, where he worked on that show's interstitial scoring. Later, he created the "hosting" video sequences for the May/June 2016 run of [[Fiasco]].
+His first foray into Technical Improvising was with the 2016 run of [[Austin Secrets]] in March/April, where he worked on that show's interstitial scoring. Later, he created the "hosting" video sequences for the May/June 2016 run of [[Fiasco]], and was enlisted to create the opening video animation for [[How I Saved the World Over Summer Vacation]] during its May-June 2017 run. 
 
 Outside of improv, Brent works remotely for an IT Outsourcing company as "the guy that makes pretty graphs that show how well we're doing our job." He also has a history of "minor fame and infamy" in the contemporary a cappella community.
 
@@ -25,6 +25,7 @@ Outside of improv, Brent works remotely for an IT Outsourcing company as "the gu
 ## Shows
 * *[[Austin Secrets]]* (2016 run) (scoring)
 * *[[Fiasco]]* (2016) (hosting videos)
+* *[[How I Saved the World Over Summer Vacation]]* (2017) (opening video animation)
 
 <!-- [[Category/Performers|Chismark]] remove at go-live -->
 <!-- [[Category/Techs|Chismark]] remove at go-live -->
