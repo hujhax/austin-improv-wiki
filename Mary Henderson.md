@@ -20,7 +20,7 @@ She participated in [[Rob Yoho]]'s "Directing Improv" and [[Andy Crouch]]'s "Tea
 ## Shows
 * *[[Buzz Band]]*
 * *[[Tall Tales of the High Seas]]*
-* "[[Adventure PhD]]"
-* "[[Click Click Whir]]"
+*  [[Adventure PhD]]
+*  [[Click Click Whir]]
 
 [[Category/Performers|Henderson]]
