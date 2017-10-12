@@ -171,9 +171,15 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |-
 |Mar 2017||Apr 2017||*[[Theatresports]]*||[[Ryan Austin]], [[Manuel Duran]]
 |-
-|May 2017||Jun 2017||*[[How I Saved the World Over Summer Vacation]]*||[[Jordan T. Maxwell]]
+|May 2017||Jun 2017||*[[How I Saved the World Over Summer Vacation]]*||[[Jordan T. Maxwell]], [[J.R. Zambrano]]
 |-
-|Jul 2017||Aug 2017||*[[The Kindness of Strangers]]*||[[Rob Yoho]]
+|Jul 2017||Aug 2017||*[[The Kindness of Strangers]]*||[[Rob Yoho]], [[Kaci Beeler]]
+|-
+|Sep 2017||Oct 2017||*[[Death By Musical]]*||[[Margaret Rose Hunsicker]], [[Roy Janik]]
+|-
+|Nov 2017||Dec 2017||*[[Dance Dreams]]*||[[Rachel Posey Austin]], [[Valerie Ward]]
+|-
+|Jan 2018||Feb 2018||*[[Orphans!]]*||[[Bridget Brewer]], [[Kaci Beeler]]
 |}
 
 ## Student Mainstage Shows
