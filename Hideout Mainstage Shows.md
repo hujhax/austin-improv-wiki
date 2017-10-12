@@ -227,6 +227,18 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |Oct 2016||*[[Adventure PhD]]*||[[Andreas Fabis]], [[Jessica Arjet]]
 |-
 |Dec 2016||*[[The Untitled Avant-Garde Theater Project with a Really Long Title]]*||[[Jon Bolden]]
+|-
+|Feb 2017||*[[All You Need is Love]]*||
+|-
+|Apr 2017||*[[Rewind]]*||
+|-
+|Jun 2017||*[[Buddy Cop]]*||
+|-
+|Aug 2017||*[[Click Click Whir]]*||
+|-
+|Oct 2017||*[[Soundstage 23]]*||
+|-
+|Dec 2017||*[[Local on the 8s]]*||
 |}
 
 ## More Information
