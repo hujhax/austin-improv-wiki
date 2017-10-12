@@ -11,6 +11,8 @@
 
 She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Favorite Tech Performer]] at the [[The 2013 Institution Theater Awards]].
 
+She was Technical Director for the [[Out of Bounds Comedy Festival]] from 2013-2017.
+
 ## Troupes
 * [[Indigo Shift]]
 * [[Noice Distortion]]
@@ -22,8 +24,11 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[Austin Secrets]]* *(Seasons 3 and 4) (tech director, tech)*
 * *[[BatShyt Crazy]]* *(performer)*
 * *[[The Black Vault]]* *(sound tech)*
+* *[[Buddy Cop]]* *(technical director)*
 * *[[Charles Dickens Unleashed]]* *(light tech)*
 * *[[Christmas at the Cozy Mountain Inn]]* *(tech)*
+* *[[Click Click Whir]]* *(props master)*
+* *[[Death By Musical]]* *(musician)*
 * *[[A Deed So Dark]]* *(tech director, light tech)*
 * *[[Fakespeare]]* *(crew)*
 * *[[Fiasco]]* *(scoring tech/sound swing)*
@@ -34,6 +39,7 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[GrimmNoir]]* *(tech director, tech)*
 * *[[The International Improv Experience]]* ''(tech)
 * *[[Hell & Back Cabaret]]* *(tech, performer)*
+* *[[How I Saved the World Over Summer Vacation]]* *(technical director, creature crew)*
 * *[[Hurly Burly]]* *(light tech)*
 * *[[The Joss Whedon Pajama Party]]* *(tech)*
 * *[[Kenjutsu]]* *(light tech)*
@@ -45,11 +51,13 @@ She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Fa
 * *[[Peter Pan and the Great Unknown]]* *(costuming designer)*
 * *[[Pocketful of Posies]]* *(tech)*
 * *[[Process]]* *(costuming lead)*
+* *[[Rewind]]* *(technical director)*
 * *[[Rock]]* *(light tech)*
 * *[[Savage Swords]]* *(costume designer, sound tech)*
 * *[[The Sci-Fi Comedy Double Feature]]* *(sound tech)*
 * *[[Seance]]* *(tech)*
 * *[[SongRunner]]* *(tech director)*
+* *[[Start Trekkin']]* *(scoring tech, sound tech, costumes)*
 * *[[Story to the Death]]* *(tech director)*
 * *[[Strange Worlds]]* *(tech director, scoring tech)*
 * *[[Thinning the Herd]]* *(light tech, scorekeeper)*
