@@ -71,6 +71,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * [[Nozes Off]] - (Stage Manager, 1/2017)
 * [[Death By Musical]] - (Actor, 9/2017)
 * [[Dance Dreams]] - (Actor, 11/2017)
+* [[Orphans, the Musical]] - (Actor, 1/2018)
 
 ### The Institution Theater
 * [[Immigrants, The Musical! (Part One)]] - (Actor, 6/2017)
