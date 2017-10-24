@@ -31,6 +31,9 @@ It’s summertime, somewhere in 1980s America. It’s a neighborhood like so man
 
 Inspired by suburban coming of age sci fi stories like *E.T.,  IT, Monster Squad, The Goonies*, and even modern homages like *Super 8* and *Stranger Things*, ***How I Saved the World Over Summer Vacation*** takes us all back to an age when it seemed like time went on forever, grown ups were the enemy, and all you needed to rule your neighborhood was a bike, a group of friends, and an imagination…all of which made you the best prepared to perceive any threat (even if those dumb old grown ups wouldn’t believe you), behold wonders (even if you had to hide them away from those dumb old grown ups), and save the world (because those dumb old grown ups sure aren’t gonna do it!).
 
+## Awards
+2017 B. Iden Payne Award for Outstanding Improvised Technical Design ([[Nichole Bennett]], [[Paul Henderson]], [[Biz Gilmore]], [[Jason Hoppenworth]], [[Jay Mahavier]] and [[Lindsey McGowen]])
+
 
 ## Media
 ### Videos
