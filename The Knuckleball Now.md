@@ -21,7 +21,9 @@ Here is [[Mike D'Alonzo]]'s explanation of the name's origin:<blockquote><p>The 
 
 They have appeared in every [[Out of Bounds Comedy Festival]] from 2005 to 2014.
 
-In 2014 Lee Eddy, after a long absence, re-joined The Knuckleball Now. 
+In 2014 Lee Eddy, after a long absence, re-joined The Knuckleball Now.
+
+The Knuckleball Now was honored with the Rudy Kloptic Award for Oustanding Improvisational Troupe at the 2017 B. Iden Payne Awards.
 
 ### Former Members
 * [[David Modigliani]] (founder)
