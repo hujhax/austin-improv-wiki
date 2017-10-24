@@ -29,7 +29,7 @@ Chris moved to Round Rock in 2011, where he would frequently visit Austin. It wa
 ## Shows
 * *[[The Untitled Avant-Garde Theater Project with a Really Long Title]]*
 * *[[Fancy Pants]]*
-* *[Maestro]]*
+* *[[Maestro]]*
 * *[[Maestro Raw]]*
 * *[[The Tribunial]]*
 * *[[Say It Loud]]*
@@ -37,7 +37,6 @@ Chris moved to Round Rock in 2011, where he would frequently visit Austin. It wa
 * *[[School Night]]*
 * *[[The Panel Show]]*
 * *[[Scrubs Live]]*
-
 
 ## Awards
 First recipient of the Merlin Works Diversity award (2015). Sugar, Water, Purple nominated for B. Iden Payne Outstanding Troupe (2016). Sugar, Water, Purple won Best Show Poster with Empty Promises at the ColdTownie (2016). In addition, SWP won Outstanding New Troupe award at The ColdTownies.
