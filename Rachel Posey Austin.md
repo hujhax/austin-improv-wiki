@@ -22,6 +22,10 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Donut Patrol]]
 
 ## Shows
+* [[Dance Dreams]]
+* [[God vs. Devil]]
+* [[How I Saved the World Over Summer Vacation]]
+* [[Damn Gina Presents The Nightwatch]]
 * [[Peter Pan and the Great Unknown]]
 * [[Coven]]
 * [[I'll Take the Physical Challenge]]
