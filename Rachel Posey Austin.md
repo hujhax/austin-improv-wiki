@@ -16,7 +16,10 @@ For a complete list of her performances, check out her performance calendar [htt
 ## Troupes
 * [[A Really Aggressive Dream]] (former troupe member)
 * [[Physics Curse]]
-* [[Control Issues]]
+* [[Control Issues]] (former troupe member)
+* [[Coyly Blunt]]
+* [[Zarzamora]]
+* [[Donut Patrol]]
 
 ## Shows
 * [[Peter Pan and the Great Unknown]]
