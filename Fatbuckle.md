@@ -5,7 +5,7 @@
 |Years	=		1997-2000
 }}
 
-**Fatbuckle** was a short-form improv troupe.
+**Fatbuckle** was a short-form improv troupe comprised of St. Edward's students.
 
 [[Category/Troupes|Category:Troupes]]
 
