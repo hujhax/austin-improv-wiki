@@ -3,8 +3,8 @@
 |Picture	= Hp.jpg
 |Years	= 2016 - Present
 |Director	=
-|Cast = {{Unbulleted list | [[Greg Mihalik]] | [[David Rosenbaum]] | [[Erik McVicker]] | [[Mary Henderson]] | [[Carolyn Gjersten]] | [[Kris Raab]] | [[Pius Wong]] | [[Sheri Soltes]] | [[Amy McClellan]] | [[Chris Casey]] | [[Kay Krasin]] | [[Sue Jordan]]}}
-|Past Members =	{{Unbulleted list |	[[Bloom Davis]] | [[Judy Blackshear]] }}
+|Cast = {{Unbulleted list | [[Greg Mihalik]] | [[Erik McVicker]] | [[Mary Henderson]] | [[Kris Raab]] | [[Pius Wong]] | [[Sheri Soltes]] | [[Amy McClellan]] | [[Chris Casey]] | [[Kay Krasin]] | [[Sue Jordan]]}}
+|Past Members =	{{Unbulleted list |	[[Bloom Davis]] |  [[Carolyn Gjersten]] | [[Judy Blackshear]] | [[David Rosenbaum]] }}
 |Tech	=		
 |Crew	=		
 }}
