@@ -21,6 +21,7 @@
 * *Teaching Assistant in Speech Communication at Texas A&M University* (1990 - 1992)
 
 ## Storytelling
+* *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writers Roulette]* (2017) 
 * *[http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf Texas Storytelling StorySlam Champion]* (2017)
 * *[https://vimeo.com/162884857 The Moth Houston GrandSlam Champion]* (2016)
 * *RISK! Live Austin Performer* (2013 & 2017)
