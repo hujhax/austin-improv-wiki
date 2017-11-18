@@ -1,16 +1,18 @@
 {{Infobox Troupe
 |Name	=		Mirage Machine
 |Picture	=	MMSquare.png
-|Cast	=	{{ Unbulleted list | [[Theo Daley]] | [[David Moses Fruchter]] | [[Manuel Duran]]|  [[Kenny Madison]] | [[Amanda Smith]] }}
-|Former Members	=	{{ Unbulleted list | [[Camille Mitchell]] | [[Chance Garcia]] }}
+|Cast	=	{{ Unbulleted list | [[David Moses Fruchter]] | [[Juese Cutler]] | [[Kenny Madison]] | [[Amanda Smith]] }}
+|Former Members	=	{{ Unbulleted list | [[Manuel Duran]] |  [[Theo Daley]] | [[Camille Mitchell]] | [[Chance Garcia]] }}
 |Years	=		2014-Present
 }}
 
-**Mirage Machine** is an improv troupe that specialized in fast-paced, yet grounded work. Their work borders on the surreal, creating grounded work within completely unreal situations.
+Starting from a dream, **Mirage Machine**e weaves a tapestry of slapstick heartbreak and serious absurdity.  Our format is freedom and our method purely accident.
+
 
 ## Summary
 ### About the MACHINE
-<blockquote>Enter into the dream-like world of the Mirage Machine. Combining traditional improv with surreal imagery and characters, the Machine creates a show based off an audience member's single dream. They combine this story with their unique no-edit based editing, where players simply begin new scenes within other scenes. </blockquote>
+<blockquote>They begin by getting a suggestion from the audience of an image from a dream someone has actually had, and from there do a montage in which formats will mysteriously emerge and dissipate.  Although they don't set out for narrative sometimes one arises; what they're aiming for is more like thematic unity and subliminal throughline.
+</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We do a montage of scene work, but a little bit more surreal.</blockquote>
