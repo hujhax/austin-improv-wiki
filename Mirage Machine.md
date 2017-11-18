@@ -6,7 +6,7 @@
 |Years	=		2014-Present
 }}
 
-Starting from a dream, **Mirage Machine**e weaves a tapestry of slapstick heartbreak and serious absurdity.  Our format is freedom and our method purely accident.
+Starting from a dream, **Mirage Machine** weaves a tapestry of slapstick heartbreak and serious absurdity.  Our format is freedom and our method purely accident.
 
 
 ## Summary
