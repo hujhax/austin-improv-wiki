@@ -230,7 +230,7 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |-
 |Feb 2017||*[[All You Need is Love]]*||[[Jessica von Schramm]], [[Ryan Austin]]
 |-
-|Apr 2017||*[[Rewind]]*||[[Caerial Crestin]]
+|Apr 2017||*[[Rewind]]*||[[Caeriel Crestin]]
 |-
 |Jun 2017||*[[Buddy Cop]]*||[[Manuel Duran]]
 |-
