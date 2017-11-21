@@ -228,17 +228,30 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |-
 |Dec 2016||*[[The Untitled Avant-Garde Theater Project with a Really Long Title]]*||[[Jon Bolden]]
 |-
-|Feb 2017||*[[All You Need is Love]]*||
+|Feb 2017||*[[All You Need is Love]]*||[[Jessica von Schramm]], [[Ryan Austin]]
 |-
-|Apr 2017||*[[Rewind]]*||
+|Apr 2017||*[[Rewind]]*||[[Caerial Crestin]]
 |-
-|Jun 2017||*[[Buddy Cop]]*||
+|Jun 2017||*[[Buddy Cop]]*||[[Manuel Duran]]
 |-
-|Aug 2017||*[[Click Click Whir]]*||
+|Aug 2017||*[[Click Click Whir]]*||[[Valerie Ward]]
 |-
-|Oct 2017||*[[Soundstage 23]]*||
+|Oct 2017||*[[Soundstage 23]]*||[[Aspen Webster]], [[Caeriel Crestin]]
 |-
-|Dec 2017||*[[Local on the 8s]]*||
+|Dec 2017||*[[Local on the 8s]]*||[[J. R. Zambrano]], [[Peter Rogers]]
+|-
+|Feb 2018||*[[Story to the Death]]*||[[Andy Crouch]], [[Jessica Soos]]
+|-
+|Apr 2018||*[[&iexcl;Esc&aacute;ndalo!]]*||[[Jessica von Schramm]], [[Luke Wallens]]
+|-
+|Jun 2018||*[[Things You Love, The Musical]]*||[[Caeriel Crestin]]
+|-
+|Aug 2018||*[[The Well-Made Play]]*||[[Lindsey McGowen]], [[Peter Rogers]]
+|-
+|Oct 2018||*[[Meat Cute]]*||[[Monica Martinez-Maher]], [[Ryan Austin]]
+|-
+|Dec 2018||*[[Holiday Party Disaster]]*||[[Jessica Arjet]], [[Andreas Fabis]]
+
 |}
 
 ## More Information
