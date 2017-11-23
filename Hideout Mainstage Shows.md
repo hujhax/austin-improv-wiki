@@ -180,6 +180,18 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |Nov 2017||Dec 2017||*[[Dance Dreams]]*||[[Rachel Posey Austin]], [[Valerie Ward]]
 |-
 |Jan 2018||Feb 2018||*[[Orphans!]]*||[[Bridget Brewer]], [[Kaci Beeler]]
+|-
+|colspan="2" style="text-align: center;"| Apr 2018||*[[Austin Secrets]]*||[[Roy Janik]]
+|-
+|May 2018||Jun 2018||*[[Sexy Future Space Lady]]*||[[Courtney Hopkin]]
+|-
+|Jul 2018||Aug 2018||*[[A Big Gay Musical]]*||[[Bridget Brewer]]
+|-
+|Sep 2018||Oct 2018||*[[World of the Dead]]*||[[J. R. Zambrano]]
+|-
+|Nov 2018||Dec 2018||*[[Harry Potter and the Blank Stage]]*||[[Caeriel Crestin]]
+|-
+|Jan 2019||Feb 2019||*[[Grand Mis&eacute;ry]]*||[[Mallory Schlossberg]], [[Margaret Hunsicker]]
 |}
 
 ## Student Mainstage Shows
