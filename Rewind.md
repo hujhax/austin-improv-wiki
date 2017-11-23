@@ -1,8 +1,8 @@
 {{Infobox Show
 |Name	=	Rewind	
 |Picture = rewind.jpg
-|Director = {{Unbulleted list | [[Caeriel Crestin]] | 
-[[Monica Martinez Maher]] }}
+|Director = [[Caeriel Crestin]]
+|Assistant Director = [[Monica Martinez Maher]]
 |Cast	=	{{Unbulleted list | 
 [[Angelina Martin]] |
 [[Jerrad Lindenmuth]] |
