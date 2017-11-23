@@ -250,7 +250,7 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |-
 |Oct 2017||*[[Soundstage 23]]*||[[Aspen Webster]], [[Caeriel Crestin]]
 |-
-|Dec 2017||*[[Local on the 8s]]*||[[J. R. Zambrano]], [[Peter Rogers]]
+|Dec 2017||*[[Local on the Eights]]*||[[J. R. Zambrano]], [[Peter Rogers]]
 |-
 |Feb 2018||*[[Story to the Death]]*||[[Andy Crouch]], [[Jessica Soos]]
 |-
