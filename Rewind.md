@@ -3,6 +3,12 @@
 |Picture = rewind.jpg
 |Director = [[Caeriel Crestin]]
 |Assistant Director = [[Monica Martinez Maher]]
+|Tech Director = [[Cindy Ward]]
+|Stage Manager = [[Candace Ohm]]
+|Tech = {{Unbulleted list |
+[[Alonso Salas]] |
+[[Sydney Cabeza]]
+}}
 |Cast	=	{{Unbulleted list | 
 [[Angelina Martin]] |
 [[Jerrad Lindenmuth]] |
