@@ -10,11 +10,12 @@ This template lists standard, useful information about an improv show.
 |Assistant Director =	
 |Music Director = 			
 |Tech Director =	
+|Stage Manager =
 |Producer =					
 |Music =      					
-|Tech =      					
 |Cast =	   					
 |Past Members =							
+|Tech =      					
 |Run =							
 |Subsequent Runs = 		
 }}
@@ -38,15 +39,17 @@ This template lists standard, useful information about an improv show.
 |-
 | *Tech Director* || List any tech director here.
 |-
+| *Stage Manager* || List any stage managers here.
+|-
 | *Music Director* || List any music director here.
 |-
 | *Producer*           || The entity (such as [[Gnap!]]) that produced the show, if that's different from the theater.
 |-
-| *Tech*           || Who teched the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of technical improvisors, if necessary.
-|-
 | *Cast*           || Who was in the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of performers.
 |-
 | *Past Members*           || The past stage, technical, and backstage members of the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
+|-
+| *Tech*           || Who teched the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of technical improvisors, if necessary.
 |-
 | *Music*           || If there was live music for the show, list the musician or musicians here.
 |-
@@ -88,6 +91,12 @@ This template lists standard, useful information about an improv show.
 			<td class="category">{{{Tech Director|Unknown}}}</td>
 		</tr>
 |}}
+{{#if: {{{Stage Manager|}}} |
+		<tr class="">
+			<th scope="row" class="category-header">Stage Manager(s)</th>
+			<td class="category">{{{Stage Manager|Unknown}}}</td>
+		</tr>
+|}}
 {{#if: {{{Music Director|}}} |
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
@@ -98,12 +107,6 @@ This template lists standard, useful information about an improv show.
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category">{{{Producer|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Tech|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Crew</th>
-			<td class="category">{{{Tech|Unknown}}}</td>
 		</tr>
 |}}
 {{#if: {{{Music|}}} |
@@ -120,6 +123,12 @@ This template lists standard, useful information about an improv show.
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category">{{{Past Members|Unknown}}}</td>
+		</tr>
+|}}
+{{#if: {{{Tech|}}} |
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">{{{Tech|Unknown}}}</td>
 		</tr>
 |}}
 		<tr class="">
