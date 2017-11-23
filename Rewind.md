@@ -17,7 +17,7 @@
 |Run	=	April 2017
 }}
 
-***REwind*** was a Hideout student mainstage show inspired by "time-loop" stories such as *Groundhog Day* and "Run Lola Run". 
+***Rewind*** was a Hideout student mainstage show inspired by "time-loop" stories such as *Groundhog Day* and "Run Lola Run". 
 
 ## Promotional Blurb
 <blockquote>How much of our lives is directed by choices whose consequences we could never expect? It asks the question, “What if you could do it all over again?”</blockquote>
