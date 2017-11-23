@@ -35,6 +35,10 @@ All their hard work comes together as the theater turns into their intimate news
 <br />
 Will their hard work pay off with a satisfying newscast, or will everything go haywire on live TV? The only way to find out is to tune in.
 </blockquote>
+
+## Production notes
+*Local on the Eights* is the first Hideout show to include a (simulated) Live TV news broadcast which constitutes the second half of the show. This is made possible through the combined work of Video Tech (or "Switcher") [[Daniel Ellsworth]] and Camerapeople [[Brad Geiger]] and [[Kay Krasin]].
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/localontheeights The show's web page.]
 
