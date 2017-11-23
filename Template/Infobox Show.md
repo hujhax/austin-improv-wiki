@@ -125,7 +125,6 @@ This template lists standard, useful information about an improv show.
 			<td class="category">{{{Past Members|Unknown}}}</td>
 		</tr>
 |}}
-		<tr class="">
 {{#if: {{{Tech|}}} |
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
