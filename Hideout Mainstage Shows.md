@@ -260,7 +260,7 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |-
 |Aug 2018||*[[The Well-Made Play]]*||[[Lindsey McGowen]], [[Peter Rogers]]
 |-
-|Oct 2018||*[[Meat Cute]]*||[[Monica Martinez-Maher]], [[Ryan Austin]]
+|Oct 2018||*[[Meat Cute]]*||[[Monica Martinez Maher]], [[Ryan Austin]]
 |-
 |Dec 2018||*[[Holiday Party Disaster]]*||[[Jessica Arjet]], [[Andreas Fabis]]
 
