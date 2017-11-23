@@ -3,6 +3,8 @@
 |Picture = all_you_need_is_love.jpg
 |Director = {{Unbulleted list | [[Jessica von Schramm]] | 
 [[Ryan Austin]] }}
+|Stage Manager = [[Sandra Ybarra]]
+|Tech Director = [[Lindsey McGowen]]
 |Cast	=	{{Unbulleted list | 
 [[Aaron Rubin]] |
 [[Casey Marie]] |
@@ -15,6 +17,11 @@
 [[Matthew Hernandez]] |
 [[Michael Raymond]] |
 }}
+|Tech = {{unbulleted list |
+[[Frank S&aacute;nchez]] |
+[[Seymour Addison]] |
+[[Eric McVicker]]
+}}
 |Theater = [[The Hideout Theatre]]
 |Run	=	February 2017
 }}
@@ -22,7 +29,7 @@
 ***All You Need Is Love*** was an unapologetic, hopelessly romantic improvised rom-com &aacute; la *Serendipity* and *Sleepless in Seattle*, done as the Hideout Student Mainstage show in February of 2017.
 
 ## Promotional Blurb
-In the world where destiny and fate exist to bring us inevitably to our one and only soulmate, the journey to that special someone will be full of adventure, mishaps, and missed connections full of humor, heart, and a fairy-tale-style happy ending.
+<blockquote>In the world where destiny and fate exist to bring us inevitably to our one and only soulmate, the journey to that special someone will be full of adventure, mishaps, and missed connections full of humor, heart, and a fairy-tale-style happy ending.</blockquote>
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/AllYouNeedisLove The show's web page.]
