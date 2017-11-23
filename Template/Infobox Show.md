@@ -10,6 +10,7 @@ This template lists standard, useful information about an improv show.
 |Assistant Director =	
 |Music Director = 			
 |Tech Director =	
+|Dramaturg =
 |Stage Manager =
 |Producer =					
 |Music =      					
@@ -38,6 +39,8 @@ This template lists standard, useful information about an improv show.
 | *Assistant Director* || List any assistant director here.
 |-
 | *Tech Director* || List any tech director here.
+|-
+| *Dramaturg* || List any dramaturgs here.
 |-
 | *Stage Manager* || List any stage managers here.
 |-
@@ -89,6 +92,12 @@ This template lists standard, useful information about an improv show.
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
 			<td class="category">{{{Tech Director|Unknown}}}</td>
+		</tr>
+|}}
+{{#if: {{{Dramaturg|}}} |
+		<tr class="">
+			<th scope="row" class="category-header">Dramaturg(s)</th>
+			<td class="category">{{{Dramaturg|Unknown}}}</td>
 		</tr>
 |}}
 {{#if: {{{Stage Manager|}}} |
