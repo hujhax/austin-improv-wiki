@@ -19,7 +19,7 @@ It currently is cast and directed by [[Lacy Shawn]].
 17 - 21 improvisors are cast each month and put their names in a hat. The host/director draws out two names at a time and those players do whatever they want. It can be a scene/game or something they make up.
 
 ## History
-The show began under the direction of [[Jon Bolden]] before it was passed down to [[Jordan T. Maxwell]], [[Ruby Willmann]], [[Ryan Austin]] and then [[Lacy Shawn]].
+The show began under the direction of [[Jon Bolden]]. It has since passed to [[Jordan T. Maxwell]], [[Ruby Willmann]], [[Ryan Austin]], [[Lacy Shawn]], [[Tyler Lane]], and [[Ann Symmonds]].
 
 ## Media
 ### Videos
