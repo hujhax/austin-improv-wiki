@@ -36,7 +36,7 @@ On 11/17/11, cast members [[Curtis Luciani]], [[Kaci Beeler]], and [[Peter Roger
 ### 2009 Run
 #### Cast
 * [[Curtis Luciani]]
-* [[Jon Bolden]]
+* [[Olof King]]
 * [[Kaci Beeler]]
 * [[Kareem Badr]]
 * [[Kristin Firth]]
