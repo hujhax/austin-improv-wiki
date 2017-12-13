@@ -14,17 +14,18 @@ Formed in 2015, these [[The Hideout Theatre]] alumni are divided by an ocean, bu
 
 In April 2016, they performed together again, first at [[Cascade]]'s [[ImprompTwo]] show at [[The Institution Theater]] (doing the two chairs format again), and then at the Hideout's [[The 2016 Improvised Play Festival]], as part of the duos slot. Inspired by the rich, theatrical and character-led improv that the Hideout teaches, and the music of The Lumineers their show told two vignettes from characters' lives, allowing both performers to play a lead role. Each vignette was inspired by the name of a person significant to an audience member, and an emotion that they associated with them. The result was a delightful show, mixing comedy and powerful emotion and is something that both the Englishman and the Belle are very proud of.
 
+They performed together once more in Austin in April 2017, first at the Hideout's Dual Reality show, then again at ImprompTwo. They followed this up in June with two sets at the 1st Ocean State Improv Festival in Wakefield Rhode Island, together with other Austin-based teams [[Parallelogramophonograph]] and [[The Matriarchy]]. At all of these shows, they did the format that they performed at The Improvised Play Festival, it continuing to be one that appeals deeply to both of them.
+
 They're also becoming know as one of the more splendidly-dressed improv duos around. Like all the best improv-related decisions, what started as a joke about Mark wearing a waistcoat and Aspen a beautiful dress to the TIF show escalated rather spectacularly...
  
 ## History
 * 11/6/15 - 2015 Tampa Improv Festival
 * 4/4/16 - [[The Institution Theater]] *[[ImprompTwo]]*
-* 4/16/11 - *[[The 2016 Improvised Play Festival]]*
-
-## Media
-* [https://www.youtube.com/channel/UC9smbRqJtPKSDuzltoUpriQ An Englishman and a Belle videos on YouTube.]
-* [https://www.facebook.com/michael.yew/media_set?set=a.10206105452098059.1073742006.1315383518&type=3 Photoset of Day 3 of The 2016 Improvised Play Festival, including An Englishman and a Belle] by [[Michael Yew]] 
+* 4/1/16 - *[[The 2016 Improvised Play Festival]]*
+* 4/21/17 - [[The Hideout Theatre]] *Dual Reality*
+* 4/21/17 - [[The Institution Theater *ImprompTwo*  6-7-17 & 6-10-17 - 2017 Ocean State Improv Festival == Media ==  [https - --www.youtube.com-channel-UC9smbRqJtPKSDuzltoUpriQ An Englishman and a Belle videos on YouTube.]  [https - --www.facebook.com-michael.yew-media setset=a.10206105452098059.1073742006.1315383518&type=3 Photoset of Day 3 of The 2016 Improvised Play Festival, including An Englishman and a Belle] by [[Michael Yew]] 
 * [https://www.facebook.com/cdcasey/media_set?set=a.10107434033808530.1073741852.7939505&type=3 Photoset of ImprompTwo on 4/4/16, including An Englishman and a Belle] by [[Chris Casey]] 
+* 
 
 ## More Information
 *[http://www.hideouttheatre.com/improvised-play-festival-spotlight-an-englishman-and-a-belle An Englishman and a Belle profiled for The 2016 Improvised Play Festival.]
