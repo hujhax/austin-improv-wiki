@@ -31,7 +31,7 @@ ComedySportz ran in a number of theaters over the course of its existence, inclu
 * 1998-1999: [[The Laugh Stop's Lounge]]
 * 1999-2004: [[The ComedySportz Playhouse]]
 * 2008-2012: [[Café Caffeine]]
-* 2017 -2012: [[Pinballz Lakecreek]]
+* 2017 - Present: [[Pinballz Lakecreek]]
 
 ## Cast
 ComedySportz included some 350 members over the course of its existence, including:
