@@ -26,12 +26,11 @@ They're also becoming know as one of the more splendidly-dressed improv duos aro
 * 4/21/17 - [[The Institution Theater]] *ImprompTwo*
 * 6/7/17 & 6/10/17 - 2017 Ocean State Improv Festival
 
-
 ## Media
 * [https://www.youtube.com/channel/UC9smbRqJtPKSDuzltoUpriQ An Englishman and a Belle videos on YouTube.]
 * [https://www.facebook.com/michael.yew/media_set?set=a.10206105452098059.1073742006.1315383518&type=3 Photoset of Day 3 of The 2016 Improvised Play Festival, including An Englishman and a Belle] by [[Michael Yew]] 
 * [https://www.facebook.com/cdcasey/media_set?set=a.10107434033808530.1073741852.7939505&type=3 Photoset of ImprompTwo on 4/4/16, including An Englishman and a Belle] by [[Chris Casey]] 
-* [https://www.facebook.com/media/set/?set=oa.192586781267079&type=3 Photoset from The 2017 Ocean State Improv Festival by Ron Cowie]
+* [https://www.facebook.com/media/set/?set=oa.192586781267079&type=3 Photoset of An Englishman and a Belle from The 2017 Ocean State Improv Festival by The Oyster Farm]
 
 ## More Information
 *[http://www.hideouttheatre.com/improvised-play-festival-spotlight-an-englishman-and-a-belle An Englishman and a Belle profiled for The 2016 Improvised Play Festival.]
