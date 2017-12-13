@@ -1,16 +1,16 @@
 {{Infobox Troupe
 |Name	=		ComedySportz
-|Picture	=	ComedySportz 1999.jpg
+|Picture	=[[Https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84]]
 |Cast	=	Various
-|Director = [[Les McGehee]]
-|Years	=		1986-2012
+|Director = [[Shawn Utterback, Terril Fischer]]
+|Years	=		1986-2012, 2017 - current
 }}
-: *This page refers to the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012.  For the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show, see *[[Theatresports]]*.*
+: *This page refers to the sports-themed short-form improv show that currently runs Saturday nights at Pinballz Lakecreek.  For the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show, see *[[Theatresports]]*.*
 
 **ComedySportz** refers to the Austin franchise of [[Wikipedia - ComedySportz|ComedySportz]]. 
 
 ## Summary
-ComedySportz is a format in which teams of improvisors compete to do the best short-form improv.  A referee oversees the competition, and a scorekeeper assigns points to each team's efforts.  The show emphasizes quick-witted, short-form, family-friendly comedy.  True to its name, the show includes many sports conventions -- the referee dresses in a vertically-striped jersey, the tech booth provides sports-arena-style music, and the players can get penalized for "fouls", including the "brown bag foul" (lewd or offensive humor), and the "groaner foul" (awful puns).
+ComedySportz is a format in which teams of improvisers compete to do the best short-form improv.  A referee oversees the competition, and a scorekeeper assigns points to each team's efforts.  The show emphasizes quick-witted, short-form, family-friendly comedy.  True to its name, the show includes many sports conventions -- the referee dresses in a vertically-striped jersey, the tech booth provides sports-arena-style music, and the players can get penalized for "fouls", including the "brown bag foul" (lewd or offensive humor), and the "groaner foul" (awful puns).
 
 ## History
 The franchise had its first audition on 1/22/86 (Superbowl Sunday).  Over their 28-year run, they put on over five thousand shows -- both in Austin and on tour around the world.
@@ -19,7 +19,7 @@ In 2000, the Austin Audacities defeated the Chicago Jazz in a nail-biting finale
 
 ComedySportz participated in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]]. 
 
-The Austin franchise closed up shop in 2012, but the San Antonio franchise continues to put on shows.
+The Austin franchise closed up shop in 2012, but former players Shawn Utterback and Terrill Fischer acquired the license in 2017. Comedy Sportz now performs weekly at Pinball Lakecreek
 
 ## Theaters
 ComedySportz ran in a number of theaters over the course of its existence, including:
@@ -31,6 +31,7 @@ ComedySportz ran in a number of theaters over the course of its existence, inclu
 * 1998-1999: [[The Laugh Stop's Lounge]]
 * 1999-2004: [[The ComedySportz Playhouse]]
 * 2008-2012: [[Café Caffeine]]
+* 2017 -2012: [[Pinballz Lakecreek]]
 
 ## Cast
 ComedySportz included some 350 members over the course of its existence, including:
@@ -135,6 +136,6 @@ ComedySportz included some 350 members over the course of its existence, includi
 * Old photosets from [[Tyler Bryce]]: [http://www.facebook.com/tylerbryce/media_set?set=a.10151079418297704.498105.505207703&type=3 1], [http://www.facebook.com/tylerbryce/media_set?set=a.10151081452217704.498300.505207703&type=3 2]
 
 ## More Information
-* [http://www.comedysportz.com/austin.html The homepage for ComedySportz Austin.]
+* [http://www.comedysportzaustin.com The homepage for ComedySportz Austin.]
 
 [[Category/Troupes|Category:Troupes]]
