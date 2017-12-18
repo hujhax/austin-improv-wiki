@@ -8,17 +8,39 @@
 |Run = May 2014
 }}
 
-***History Under the Influence*** is an improv format inspired by the YouTube/Comedy Central series *Drunk History*. It features [[Kevin Miller]] as its drunken narrator, and a rotating cast.
+***History Under the Influence*** was an improv format inspired by the YouTube/Comedy Central series *Drunk History*. Almost all shows featured [[Kevin Miller]] as the drunken narrator with a rotating cast.
 
 ## History
 *History Under the Influence* was first performed in *[[The Free Fringe]]* at [[The Hideout Theatre]] on March 20, 2014 with a cast of [[Ryan Hill]], [[Jillian Summar]], [[Bridget Brewer]], [[David Lampe]], [[Caeriel Crestin]], [[Mitchell Deane]], and [[Peter Rogers]]. After a surprisingly successful show, Kevin submitted the show for a month-long run in *[[The Threefer]]*. *History Under the Influence* played five sold-out shows at the Hideout in May of 2014, featuring much of the original cast and several guests.
 
 In June of 2014, Kevin attended the Finland International Improv Festival as an instructor and performed History Under the Influence with a European cast. This marked the format's first festival appearance.
 
-*History Under the Influence* has continued appearances in and out of Austin, including festivals in Juneau AK, Providence RI, Tallinn Estonia, Amsterdam NL, and Las Vegas NV.
+*History Under the Influence* continued to appear in and out of Austin, including festivals in Juneau AK, Providence RI, Tallinn Estonia, Amsterdam NL, and Las Vegas NV.
+
+In October 2017, Kevin announced that the shows at the Mama City Improv Festival (Cape Town SA) and Third Coast Comedy Festival (Nashville TN) would be the format's last. In all, the format was performed 65 times, with Kevin as the narrator all but twice.
+
+## Festivals
+The format appeared at these festivals. In those marked with an asterisk, History Under the Influence was the closing or headlining act of the festival.
+* Finland International Improv Festival
+* Alaska State Improv Festival x2*
+* Houston Improv Festival x2
+* Out of Bounds Comedy Festival x2
+* Tilt International Improv Festival (Tallinn, Estonia)*
+* Providence Improv Festival x2*
+* Tampa Improv Festival
+* IMPRO Amsterdam*
+* Downtown Vegas Improv Festival
+* Mount Olymprov Festival (Athens, Greece)*
+* Baltimore Improv Festival
+* Crossroads Comedy Festival (Indianapolis, IN)
+* San Diego Improv Festival
+* Omaha Improv Festival
+* San Jose Improv Festival
+* San Francisco Improv Festival*
+* Mama City Improv Festival (Cape Town, SA)
 
 ## Cast
-The current cast of *History Under the Influence* is listed below, but is typically different for every show.
+The Austin-based core cast of *History Under the Influence* is listed below, but was typically different for every show.
 
 * [[Ryan Hill]]
 * [[David Lampe]]
