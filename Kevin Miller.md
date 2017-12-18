@@ -4,13 +4,13 @@
 |Theater=	[[Gnap! Theater Projects]], [[Merlin Works Institute for Improvisation]]
 |Years	=	2001-2004,2009-Present
 }}
-**Kevin Miller** is an Austin improviser and instructor at the [[Merlin Works Institute for Improvisation]]. He started improv on October 24, 2001, the morning after seeing his friend [[Andy Crouch]]'s graduation show at the [[Hideout Theatre]]. His first instructor was [[Shana Merlin]]. Kevin graduated from Level 3 at the Hideout on March 26, 2002 and became a member of [[We Could Be Heroes]].
+**Kevin Miller** is an Austin improviser and the dean of the [[Merlin Works Institute for Improvisation]]. He started improv on October 24, 2001, the morning after seeing his friend [[Andy Crouch]]'s graduation show at the [[Hideout Theatre]]. His first instructor was [[Shana Merlin]]. Kevin graduated from Level 3 at the Hideout on March 26, 2002 and became a member of [[We Could Be Heroes]].
 
 Kevin took time off from improv starting in late 2004 to be a guide for Austin Ghost Tours. His time away continued through February 2009, when he participated in the Hideout Theatre 10th Anniversary show. He then played in the July 25, 2009 Maestro, and gradually rejoined the improv community from there. On March 6, 2011, Kevin successfully auditioned for [[False Matters]], his first mainstage show after the long break.
 
-In 2012, Kevin joined [[Merlin Works]] as a TA and then instructor shortly before its move from Salvage Vanguard Theater to ZACH Theatre. He is today an instructor there and member of the faculty troupe [[The Known Wizards]].
+In 2012, Kevin joined [[Merlin Works]] as a TA and then instructor shortly before its move from Salvage Vanguard Theater to ZACH Theatre. In January 2015, he became the dean of the school, running its operations. He continues to teach there and is a member of the faculty troupe [[The Known Wizards]].
 
-After initially suggesting it as a joke, Kevin joined his troupe [[¡Zarzamora!]] at the Finland International Improv Festival in June 2013. It is believed to be the farthest north that an AIC troupe has ever performed. He returned to FIIF as an instructor in June 2014, performing in showcases and with [[History Under the Influence]].
+In June 2013, after initially suggesting it as a joke, Kevin joined his troupe [[¡Zarzamora!]] at the Finland International Improv Festival. It is believed to be the farthest north that an AIC troupe has ever performed. The following year he returned to FIIF by himself. It was his first time teaching at a festival, and also the first of many festival appearances for his format [[History Under the Influence]]. Kevin retired the format in 2017 but continues to travel for improv.
 
 ### The Bear Joke
 In September 2011, Kevin went on a solo backpacking trip to Montana. In the weeks and months preceding the trip, [[Chuy Zarate]]—an avowed indoorsman—expressed his confidence that Kevin would be eaten by a bear while hiking through the wilderness. Upon Kevin's return, Chuy adopted the theory that Kevin **had** been eaten by a bear, and was now actually a bear wearing Kevin Miller's skin as camouflage. The joke became strangely persistent, even among AIC members who had no idea as to its origin.
@@ -26,20 +26,22 @@ Show #3 was [[Andy Crouch|Andy]]'s graduation show, fall 2001. I started Level O
 
 ## Troupes
 * [[Foolish Mortals]] (2003-2004)
+* [[Your Dad's Friends]] (2012-2016)
 * [[The Known Wizards]] (2013-)
-* [[Your Dad's Friends]] (2012-)
 * [[¡Zarzamora!]] (2011-)
-* [[History Under the Influence]] (2014-)
+* [[History Under the Influence]] (2014-2017)
 
 ## Shows
-* *[[Cover to Cover]]*
-* *[[False Matters]]*
-* *[[GrimmNoir]]*
-* *[[Slumber Party Slaughter]]*
 * *[[Start Trekkin']]*
+* *[[Slumber Party Slaughter]]*
+* *[[False Matters]]*
+* *[[Totally Improvised, 90210]]*
+* *[[Cover to Cover]]*
 * *[[Steam]]*
 * *[[Not This American Life]]*
-* *[[Totally Improvised, 90210]]*
+* *[[GrimmNoir]]*
+* *[[Fiasco]]* (assistant director)
+* *[[Over the Lege]]* (assistant director/performer)
 
 ## More Information
 * [http://yesandrew.com/2013/06/24/the-sunday-interview-kevin-miller-2/ Interview] by [[Andrew Buck]].
