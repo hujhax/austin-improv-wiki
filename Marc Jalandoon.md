@@ -56,7 +56,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * [[Maestro Raw]] - (5/7/2016*, 7/16/2016, 9/10/2016)
 * [[Fancy Pants]] - (7/1/2016, 9/9/2016, 10/7/2016)
 * [[Student Appreciation Show]] - (5/28/2016, 9/24/2016)
-* [[Free Fringe]] - (11/10/2016, 1/19/2017)
+* [[Free Fringe]] - (11/10/2016, 1/19/2017, 10/12/2017)
 
 ### ColdTowne Theater
 * [[Improv Fantasy League]] - (8/17/2016, 8/24/2016)
