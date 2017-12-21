@@ -46,9 +46,8 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * Level 2 (11/2016) - [[Susan Pickover]]
 
 ## Troupes
-### Active Troupes
-[[Twine]] - 12/2016
- 
+### Inactive Troupes
+[[Twine]] - 12/2016 - 8/2017
 
 ## One-off Shows
 ### The Hideout Theatre
