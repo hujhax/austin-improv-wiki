@@ -22,6 +22,9 @@
 * *[[Gauntlet]]* 
 * *[[Musical to the Death]]* (sound fx)
 * *[[Soundstage 23]]* (technical director)
+* ''[[Epic]]"
+* *[[Speak No More]]*
+
 
 
 [[Category/Performers|Bennett]]
