@@ -22,7 +22,8 @@
 * *[[Gauntlet]]* 
 * *[[Musical to the Death]]* (sound fx)
 * *[[Soundstage 23]]* (technical director)
-* ''[[Epic]]"
+* *[[Martini Ranch -  Queer and Now]]*
+* ''[[Epic]]
 * *[[Speak No More]]*
 
 
