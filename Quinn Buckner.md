@@ -44,7 +44,9 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 ## Festivals
 *2010 - The Out Of Bounds Comedy Festival - [[Anticdotes]], *[[Guilds of Steel]]*
 *2011 - Del Close Marathon - [[Dukes of Bedside Manor]]
+*2011 - Frontera Fest - [[Dukes of Bedside Manor]]
 *2011 - The Out Of Bounds Comedy Festival - [[Bolik Not ZIB]], [[Dukes of Bedside Manor]], [[Quayle]]
+*2012 - Frontera Fest - [[Bolik Not ZIB]]
 *2012 - The Out Of Bounds Comedy Festival - [[Dukes of Bedside Manor]], [[The Professor]]
 *2012 - Improvaganza (Hawaii) - [[The Professor]]
 *2013 - The Out Of Bounds Comedy Festival - [[Ghetto Sketch Warlock]], [[Known Wizards]], [[The Professor]], [[RhinoDino]]
