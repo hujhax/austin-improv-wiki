@@ -1,5 +1,5 @@
 {{Infobox Show
-  |Name     = Flying Theater Machine
+  |Name     = Hideout Kids
   |Director = Jessica Arjet
   |Theater  = [[The Hideout Theatre]]
   |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Luke Wallens]] | [[Kristin Henn]] | [[Madeline Jo Chauvin]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] | [[Jeanette Jones]] | [[Megan Venable]] | [[Suzanne Link]] | [[Ryan Hill]] | [[Jessica von Schramm]] | [[Aspen Webster]] }}
@@ -7,11 +7,13 @@
   |Picture  = Flying_Theater_Machine.jpg
   |Run    = Oct 2007-Present
 }}
+'''
+*"Flying Theater Machine" was re-branded "Hideout Kids" in 2017.*
 
 **Flying Theater Machine** is the Hideout's weekly improv show for kids.
 
 ## Summary
-Flying Theater Machine happens every Sunday afternoon at 2pm.  Tickets are $5.
+Flying Theater Machine happens every Sunday morning at 11am.  Tickets are $5.
 
 The format of the show changes regularly (see below), but always emphasizes audience involvement and G-rated antics.
 
