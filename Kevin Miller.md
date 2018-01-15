@@ -8,7 +8,7 @@
 
 Kevin took time off from improv starting in late 2004 to be a guide for Austin Ghost Tours. His time away continued through February 2009, when he participated in the Hideout Theatre 10th Anniversary show. He then played in the July 25, 2009 Maestro, and gradually rejoined the improv community from there. On March 6, 2011, Kevin successfully auditioned for [[False Matters]], his first mainstage show after the long break.
 
-In 2012, Kevin joined [[Merlin Works]] as a TA and then instructor shortly before its move from Salvage Vanguard Theater to ZACH Theatre. In January 2015, he became the dean of the school, running its operations. He continues to teach there and is a member of the faculty troupe [[The Known Wizards]].
+In 2012, Kevin joined [[Merlin Works]] as a TA and then instructor shortly before its move from Salvage Vanguard Theater to ZACH Theatre. On January 14, 2013, he taught his first solo class. In January 2015 he became the dean of the school, running its operations. He continues to teach there and is a member of the faculty troupe [[The Known Wizards]].
 
 In June 2013, after initially suggesting it as a joke, Kevin joined his troupe [[¡Zarzamora!]] at the Finland International Improv Festival. It is believed to be the farthest north that an AIC troupe has ever performed. The following year he returned to FIIF by himself. It was his first time teaching at a festival, and also the first of many festival appearances for his format [[History Under the Influence]]. Kevin retired the format in 2017 but continues to travel for improv.
 
