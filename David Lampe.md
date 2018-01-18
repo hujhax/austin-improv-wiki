@@ -30,6 +30,8 @@
 * *[[Thinning the Herd]]*
 * *[[Twilight Zoned]]*
 * *[[The Violet Underbelly]]*
+* ''[[Boy Howdy!]]'
+* ''[[Next Week on Game of Thrones]]'
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2246910 Interview] with Lampe on *[[The Theft Forum]]*.
