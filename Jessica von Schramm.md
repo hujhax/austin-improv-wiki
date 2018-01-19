@@ -17,6 +17,9 @@ Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in 
 * [[Minority Report]]
 * [[Things We Don't Speak Of]] (2015-2016)
 * [[AJAR]]
+* [[Cupcake Compadres]]
+* [[Garage]]
+* [[MANIC PIXIE STIX]]
 
 ## Shows
 * *[[A Penny Dreadful]]*
