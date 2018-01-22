@@ -23,3 +23,4 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 ** *[[The Narrative Improv Jam]]*
 ** *[[The Nightmare Video Project]]*
 ** *[[The TV Set]]*
+** "[[TheatreDome]]"
