@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	TheatreDome
-|Picture = 	
+|Picture = 	![[Example.jpg]]
 |Theater=	[[The Hideout Theatre]]
 |Cast=		Varies
 |Director =	[[Roy Janik]]	
