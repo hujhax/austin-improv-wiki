@@ -25,7 +25,7 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | Camp sLaughter
 | Pan Labyrinth
 |-
-| 1/12/2018
+| 1/19/2018
 | Run the Fools
 | Camp sLaughter
 |}
