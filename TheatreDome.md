@@ -1,33 +1,34 @@
 {{Infobox Show
 |Name	=	TheatreDome
-|Picture = 	![[Theatredome.png]]
+|Picture = 	theatredome.png
 |Theater=	[[The Hideout Theatre]]
 |Cast=		Varies
 |Director =	[[Roy Janik]]	
 |Run	=	Jan 2018 - Present
 }}
 
-***TheatreDome*** is a cagematch style performance slot at [[The Hideout Theatre]].
+***TheatreDome*** is a cagematch-style performance slot at [[The Hideout Theatre]].
 
 ## Summary
 Every performance of *TheatreDome* pits two troupes against each other. 
 
 The winner (decided by audience vote) returns the next week to face a new challenger.  It is part of *[[The Wheel]]*.
 
-## LIST OF WINNERS
+## List of Bouts Featured
+*(Defending champ listed first for all bouts except initial one on January 12, 2018. **Bold text** denotes winner of bout)*
 {| class="wikitable"
 |-
 ! Date
-! Winner
-! Competitor
+! Troupe A
+! Troupe B
 |-
 | 1/12/2018
-| Camp sLaughter
-| Pan Labyrinth
+| **[[Camp sLaughter]]**
+| [[Pan Labyrinth]]
 |-
 | 1/19/2018
-| Run the Fools
 | Camp sLaughter
+| **[[Run the Fools]]**
 |}
 
 ## More Information
