@@ -27,8 +27,12 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | [[Pan Labyrinth]]
 |-
 | 1/19/2018
-| Camp sLaughter
+| [[Camp sLaughter]]
 | **[[Run the Fools]]**
+|-
+| 1/26/2018
+| [[¡Zarzamora!]]
+| **[[Yes Anderson]]**
 |}
 
 ## More Information
