@@ -26,6 +26,7 @@ Erica Lies is a writer, improviser, and teacher in Austin. She’s been writing 
 * [[It Takes Two -  A Night of Almost Famous Comedy Duos]] (producer)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (Andrea Zuckerman)
 * *[[Live TV Tuesdays -  Saved by the Bell]]*
+*  "[[New Year, Same Shit (ColdTowne TourCo)]]"
 * *[[Rapture the Flag]]*
 * *[[The Triple Scoop]]*
 * *[[The Velvet Rut]]*
