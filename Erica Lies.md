@@ -13,6 +13,7 @@ Erica Lies is a writer, improviser, and teacher in Austin. She’s been writing 
 ## Troupes
 * [[Miller and Lies]]
 * [[Snapshot]]
+* [[Menenists]]
 * [[Reverb]]
 * [[IScream Sandwich]]
 * [[There's Waldo]]
