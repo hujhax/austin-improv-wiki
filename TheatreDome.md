@@ -33,6 +33,10 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | 1/26/2018
 | [[¡Zarzamora!]]
 | **[[Yes Anderson]]**
+|-
+|2/2/2018
+|  **[[Run the Fools]]**
+| [[Yes Anderson]]
 |}
 
 ## More Information
