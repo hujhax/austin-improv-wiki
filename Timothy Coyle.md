@@ -34,6 +34,15 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Tom Booker]] at [[The Institution Theater]] - Drop In Improv Diagnostics
 * [[Austin Playback Theatre]] at [[Hideout Theatre]] - Introduction to Playback Theatre: Personal Story-Based Improv
 * [[Jeremy Sweetlamb]] at [[Hideout Theatre]] - Acting Chops, a focus on stage techniques for Improvisers
+* [[Jessica Arjet]] at [[Hideout Theatre]] – Violence and Intimacy
+* [[Andrew Buck]] at [[Hideout Theatre]] – Walking Through Doors
+* [[Sarah Marie Curry]] at [[Hideout Theatre]] – Viewpoints (Tone and Variation)
+* [[Quinn Buckner]] at [[Hideout Theatre]] – Mime and Spacework
+* [[Kareem Badr]] at [[Hideout Theatre]] – Shut the F#@k Up
+* [[Kacey Samiee]] at [[Hideout Theatre]] – Stage Presence
+* [[Andy Crouch]] at [[Hideout Theatre]] – Second Show
+* [[Margaret Hunsicker]] at [[Hideout Theatre]] – Voice and Projection
+* [[Katie Dahm]] at [[Hideout Theatre]] – Movement
 
 ## Coach/Mentors
 * [[Ceej Allen]]
