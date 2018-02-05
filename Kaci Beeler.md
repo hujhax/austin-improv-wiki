@@ -61,7 +61,9 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Austin Secrets]]* (2010-2013)
 * *[[Blood, Sweat, and Cheers]]* (June Davis, writer, producer)
 * [[A Bedtime Gorey]]
+* *[[The Big Bash]]* (company member) 
 * [[Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]] (2006, 2014)
+* *[[Boy, Howdy!]]* (Performed and Directed)
 * *[[The Cagematch]]*
 * *[[Charles Dickens Unleashed]]* (Performed and Directed)
 * *[[The Derby]]*
@@ -71,17 +73,21 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Fandom]]* (Performed and Directed)
 * *[[Flying Theater Machine]]* (Touring Performer)
 * *[[Gorilla Theater]]*
+* *[[Heavens, Mr. Darcy! Improvised Erotic Jane Austen]]*
 * *[[Hitchcocked!]]*
 * *[[Holy 1960s Batman, Batman!]]* (Performed and Directed)
 * *[[Improvised Shakespeare]]*
 * *[[Ka-Baam!!]]*
+* *[[The Kindness of Strangers -  Improvised Tennesee Williams]]* (Performed and Co-Directed)
 * *[[Lord Wensleydale's Last High Tea]]*
 * *[[Manhattan Stories]]*
 * *[[Maestro]]* (2005-)
 * *[[Nothing and Everything]]*
 * *[[The Nightmare Video Project]]* (2010-2012)
+* *[[Peter Pan and the Great Unknown]]* (Performed and Directed)
 * *[[Pick Your Own Path]]*
 * *[[Process]]*
+* *[[Orphans! The Improvised Orphan Musical]]* (Performed and Co-Directed)
 * *[[Reform School for Wayward Girls]]*
 * *[[Start Trekkin']]*
 * *[[Stool Pigeon]]*
