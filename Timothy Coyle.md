@@ -57,6 +57,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Free Fringe]] 2014 - current
 * [[The Threefer]] 2014 - current
 * *[[Maestro Raw]]* 2014-Current
+** Maestro Raw Winner January 27, 2018
 * [[The Weekender]] 2015 - current
 * *[[2x4]]* 2015-Current
 * *[[Fancy Pants]]* 2015-Current
