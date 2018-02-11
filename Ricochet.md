@@ -24,3 +24,4 @@ As yet, the troupe has not uploaded any photos or art to this page.
 As yet the troupe has not listed a public Facebook page
 
 [[Category/Troupes|Ricochet]]
+[[Category/Active|Category:Active]]
