@@ -15,8 +15,6 @@ Ricochet studies and performs short-form improv, with an emphasis on the so-call
 ## History
 * 1/31/18 - Hyde Park Theatre *[[Frontera Fest]]* ("Girl Scout Cookies")
 
-After [[Menelaos Prokos]] went back to his home country of Greece, The Foreign Legion stopped performing.
-
 ## Media
 ### Photos
 As yet, the troupe has not uploaded any photos or art to this page.
