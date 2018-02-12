@@ -37,6 +37,10 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |2/2/2018
 |  **[[Run the Fools]]**
 | [[Yes Anderson]]
+|-
+|2/9/2018
+|  [[Run the Fools]]
+| **[[Eenie Meanie Beanie Babies]]**
 |}
 
 ## More Information
