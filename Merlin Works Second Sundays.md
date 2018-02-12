@@ -11,7 +11,6 @@
 
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
-<!--
 |-
 |August 12, 2018|| || 
 |-
@@ -21,19 +20,19 @@
 |-
 |May 13, 2018|| || 
 |-
-|April 8, 2018|| || 
+|April 8, 2018||Student showcase||[[Get Up]] 
 |-
-|March 4, 2018|| || 
+|March 4, 2018||{{Unbulleted list|Singing 301|Singing 401}}||N/A
 |-
-|February 11, 2018|| || 
+|February 11, 2018||Student showcase||[[Girls Girls Girls]] 
 |-
-|January 7, 2018|| || 
+|January 7, 2018||N/A||{{Unbulleted list|[[Dial 'I' for Improv]]|[[Golden]]}}
 |-
-|December 3, 2017|| || 
+|December 3, 2017||{{Unbulleted list|Singing 201|Singing 301}}||N/A 
 |-
-|November 12, 2017|| || -->
+|November 12, 2017||Student showcase||[[Harlequin]]
 |-
-|October 1, 2017||{{Unbulleted list|Improv 301}}||[[Miller & Lies]]
+|October 1, 2017||Improv 301||[[Miller & Lies]]
 |-
 |September 10, 2017||Student showcase||[[Camp sLaughter]]
 |-
