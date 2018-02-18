@@ -41,6 +41,10 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |2/9/2018
 |  [[Run the Fools]]
 | **[[Eenie Meanie Beanie Babies]]**
+|-
+|2/16/2018
+|  [[Kenny-Rogers]]
+| **[[Eenie Meanie Beanie Babies]]**
 |}
 
 ## More Information
