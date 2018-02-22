@@ -27,12 +27,13 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * *[[Megan & Quinn]]*
 
 ## Festivals
-* 2017 - Improv Festival Oklahoma: *[[Rook]]*
-* 2017 - Out of Bounds Comedy Festival: *[[Rook]]*
-* 2017 - Dallas Comedy Festival: *[[Rook]]*
-* 2016 - The Improvised Play Festival: *[[Boy, Howdy!]]*
-* 2015 - *[[46-Hour Improv Marathon]]*: *[[Happily Ever After]]*, *[[Maestro]]*, *[[Buzz Band]]*
-* 2015 - The Improvised Play Festival: *[[Nothing and Everything]]*
+* 2018 - Big Little Comedy Fest - San Antonio, TX: *[[Rook]]*
+* 2017 - Improv Festival Oklahoma - Oklahoma City, OK: *[[Rook]]*
+* 2017 - Out of Bounds Comedy Festival - Austin, TX: *[[Rook]]*
+* 2017 - Dallas Comedy Festival - Dallas, TX: *[[Rook]]*
+* 2016 - The Improvised Play Festival - Austin, TX: *[[Boy, Howdy!]]*
+* 2015 - *[[46-Hour Improv Marathon]]* - Austin, TX: *[[Happily Ever After]]*, *[[Maestro]]*, *[[Buzz Band]]*
+* 2015 - The Improvised Play Festival - Austin, TX: *[[Nothing and Everything]]*
 
 ## More Information
 * [http://www.megansherrod.com Megan's web page], which includes more information about her performance activities.
