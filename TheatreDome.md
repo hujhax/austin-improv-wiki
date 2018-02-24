@@ -45,6 +45,10 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |2/16/2018
 |  [[Kenny-Rogers]]
 | **[[Eenie Meanie Beanie Babies]]**
+|-
+|2/23/2018
+|  [[Red Handed]]
+| **[[Eenie Meanie Beanie Babies]]**
 |}
 
 ## More Information
