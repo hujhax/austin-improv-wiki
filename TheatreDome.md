@@ -15,7 +15,7 @@ Every performance of *TheatreDome* pits two troupes against each other.
 The winner (decided by audience vote) returns the next week to face a new challenger.  It is part of *[[The Wheel]]*.
 
 ## List of Bouts Featured
-*(Defending champ listed first for all bouts except initial one on January 12, 2018. **Bold text** denotes winner of bout)*
+*(**Bold text** denotes winner of bout)*
 {| class="wikitable"
 |-
 ! Date
@@ -23,8 +23,8 @@ The winner (decided by audience vote) returns the next week to face a new challe
 ! Troupe B
 |-
 | 1/12/2018
-| **[[Camp sLaughter]]**
 | [[Pan Labyrinth]]
+| **[[Camp sLaughter]]**
 |-
 | 1/19/2018
 | [[Camp sLaughter]]
@@ -35,8 +35,8 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | **[[Yes Anderson]]**
 |-
 |2/2/2018
-|  **[[Run the Fools]]**
 | [[Yes Anderson]]
+|  **[[Run the Fools]]**
 |-
 |2/9/2018
 |  [[Run the Fools]]
