@@ -15,6 +15,8 @@ The original Austin theater opened for classes in February 2009 and began runnin
 
 On March 3rd 2012, a second theater space opened in New Orleans, Louisiana.
 
+In the Spring of 2018, Trew and Nelson agreed to pass on their business to the TNM ATX community, leaving them to solely run their New Orleans space as The New Movement. The theater in Austin rebranded itself as Fallout Theater.
+
 ## Shows
 {{List of New Movement Shows}} 
 
