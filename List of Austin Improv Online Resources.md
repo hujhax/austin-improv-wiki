@@ -17,7 +17,7 @@ This **list of Austin improv online resources** includes information about web s
 ** [http://hideout.cc/freefringeform Free Fringe Submission Form]
 * [https://www.facebook.com/groups/217905648309669/ The Institution Theater Students, Alumni, and Staff]
 * [https://www.facebook.com/groups/merlinworks Merlin Works Students and Alumni]
-* [https://www.facebook.com/groups/360333464010851/ TNM Students Section]
+* [https://www.facebook.com/groups/189795678278214/ Fallout Theater Students Section]
 
 ### Other AIC Groups
 * [https://www.facebook.com/groups/329318317231968/ AIC Prop Swap]
