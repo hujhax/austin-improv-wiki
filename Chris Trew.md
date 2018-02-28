@@ -1,5 +1,5 @@
 **Cult Daddy**
 
-likes: power, acclaim, shedding beard hair across the nation, swingin'
+likes: power, acclaim, shedding beard hair across the nation
 
 dislikes: HR, apologizing
