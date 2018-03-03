@@ -49,6 +49,10 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |2/23/2018
 |  [[Red Handed]]
 | **[[Eenie Meanie Beanie Babies]]**
+|-
+|3/2/2018
+|  [[The Library]]
+| **[[Eenie Meanie Beanie Babies]]**
 |}
 
 ## More Information
