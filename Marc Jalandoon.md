@@ -63,7 +63,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 ### The Institution Theater
 * [[Tarantula]] - (10/29/2016)
 
-### The New Movement Theater
+### 616 Lavaca
 * [[Penalty Box]] - (12/8/2017)
 
 ## Extended Run Shows
