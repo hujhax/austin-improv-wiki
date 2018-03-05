@@ -27,7 +27,7 @@ In December of 2012, she moved to the San Francisco Bay Area, and then married T
 **Ongoing: **
 * *[[Maestro]]* (2011-present)
 * *[[Fancy Pants Mash Up]]* (2011-present)
-* *[[The Monologue Jam]]* (2016-present)
+* *[[The Monologue Jam]]* (2016-2017)
 
 [[Category/Performers|Pizarek]]
 [[Category/Active|Pizarek]]
