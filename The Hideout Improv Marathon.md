@@ -18,6 +18,8 @@ The marathon debuted as [[The 40-Hour Improv Marathon]] in 2009.  The event has 
 * 2014: [[The 45-Hour Improv Marathon]]
 * 2015: [[The 46-Hour Improv Marathon]]
 * 2016: [[The 47-Hour Improv Marathon]]
+* [[The 2017 Hideout Improv Marathon]]
+* [[The 2018 Hideout Improv Marathon]]
 
 #### Marathon Casts
 Repeat performers are in bold. As of 2018, 17 improvisers have performed in the marathon more than once; only [[Troy Miller]] and [[Jessica Arjet]] have completed it three times.
