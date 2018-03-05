@@ -20,7 +20,7 @@ The marathon debuted as [[The 40-Hour Improv Marathon]] in 2009.  The event has 
 * 2016: [[The 47-Hour Improv Marathon]]
 
 #### Marathon Casts
-Repeat performers are in bold. As of 2016, thirteen improvisers have performed in the marathon more than once; only [[Troy Miller]] and [[Jessica Arjet]] have completed it three times. Five of eight marathons have included a performer from outside of Austin (one, Mike D'Alonzo, is a former Austin improviser).
+Repeat performers are in bold. As of 2018, 17 improvisers have performed in the marathon more than once; only [[Troy Miller]] and [[Jessica Arjet]] have completed it three times.
 
 {| class="wikitable"
 ! 2009
@@ -43,7 +43,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Brett Tribe]]
 | [[Ace Manning]]
 | [[Craig Kotfas]]
-| style="font-weight: bold;" | [[Alex Walker]]
+| [[Alex Walker]]
 |-
 | [[Caitlin Sweetlamb]]
 | style="font-weight: bold;" | [[Curtis Luciani]]
@@ -54,7 +54,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Cat Drago]]
 | style="font-weight: bold;" | [[Caitlin Sweetlamb]]
 | [[J.R. Zambrano]]
-| [[Chuy Zarate]]
+| style="font-weight: bold;" | [[Chuy Zarate]]
 |-
 | [[Curtis Luciani]]
 | [[Jessica Arjet]]
@@ -65,7 +65,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Courtney Hopkin]]
 | [[Chuy Zarate]]
 | style="font-weight: bold;" | [[Katie Dahm]]
-| [[Courtney Hopkin]]
+| style="font-weight: bold;" | [[Courtney Hopkin]]
 |-
 | [[Jeremy Sweetlamb]]
 | style="font-weight: bold;" | [[Kaci Beeler]]
@@ -76,7 +76,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | style="font-weight: bold;" | [[Halyn Lee Erickson]]
 | style="font-weight: bold;" | [[Jeremy Sweetlamb]]
 | [[Margaret Rose Hunsicker]]
-| [[Eric Heiberg]]
+| style="font-weight: bold;" | [[Eric Heiberg]]
 |-
 | [[Kaci Beeler]]
 | [[Marc Majcher]]
@@ -87,7 +87,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | style="font-weight: bold;" | [[Michael Joplin]]
 | style="font-weight: bold;" | [[Jessica Arjet]]
 | Patti Stiles
-| style="font-weight: bold;" | [[Linzy Beltran]]
+| [[Linzy Beltran]]
 |-
 | [[Kareem Badr]]
 | [[Meghan Wolff]]
@@ -98,7 +98,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Mike D'Alonzo]]
 | Katie Hartman
 | [[Rob Yoho]]
-| style="font-weight: bold;" | [[Patrick Creamer]]
+| [[Patrick Creamer]]
 |-
 | [[Matt Pollock]]
 | [[Roy Janik]]
@@ -109,7 +109,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Quinn Buckner]]
 | [[Rachel Austin]]
 | [[Ryan Austin]]
-| style="font-weight: bold;" | [[Shannon Stott]]
+| [[Shannon Stott]]
 |-
 | [[Troy Miller]]
 | [[Valerie Ward]]
@@ -120,7 +120,7 @@ Repeat performers are in bold. As of 2016, thirteen improvisers have performed i
 | [[Sarah Marie Curry]]
 | [[Ryan Hill]]
 | [[Yamina Khouane]]
-| style="font-weight: bold;" | [[Tyler Groce]]
+| [[Tyler Groce]]
 |}
 
 ## More Information
