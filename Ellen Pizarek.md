@@ -20,6 +20,9 @@ In December of 2012, she moved to the San Francisco Bay Area, and then married T
 * *Underwaged* (with [[Kosher Bacon]] 2012)
 * *[[Off the Reef]]* (2012)
 * *[[Tall Tales of the High Seas]]* (2016)
+* *[[Adventure, PhD]]* (2016)
+* *[[The Gauntlet]]* (2017)
+* *[[God vs. the Devil]]* (2017)
 
 **Ongoing: **
 * *[[Maestro]]* (2011-present)
