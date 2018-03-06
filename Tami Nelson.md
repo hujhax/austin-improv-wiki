@@ -1,5 +1,5 @@
 **Cult Mommy**
 
-likes: Chris Trew, acting sincere
+likes: Chris Trew, sexual assault
 
 dislikes: Austin, TX
