@@ -18,7 +18,7 @@
 |-
 |June 10, 2018|| || 
 |-
-|May 13, 2018|| || 
+|May 13, 2018||{{Unbulleted list|Improv 301|Singing 301}}||N/A 
 |-
 |April 8, 2018||Student showcase||[[Get Up]] 
 |-
