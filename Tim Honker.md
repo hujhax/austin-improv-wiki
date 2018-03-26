@@ -20,7 +20,6 @@ Tim graduated from the University of Texas in 2006 with a B.S. in Aerospace Engi
 * [[Nice Astronaut]] - improviser, head writer, producer, actor (2008 - 2015)
 * *[[Indy Movies]]* - improviser (2013)
 * [[Stool Pigeon]] - improviser, 2009-2011, 2013
-* [[First United Methodist Church of Plano Youth Group Improv]] - improviser & troupe creator, 2012 - 2014
 * [[Dinner Detective]] - actor, founding cast for Austin, 2010 - 2014
 * [[ColdTowne Tour Co]] - improviser (2010)
 * [[Total Panic]] - improviser (2009)
