@@ -15,7 +15,7 @@
 * *Storytelling Classes - [http://risk-show.com/ "Kevin Allison (RISK! Podcast),"] [https://themoth.org/storytellers/david-crabb "David Crabb (The Moth),"] & [http://downsouthwordofmouth.org/team/ "Brooke Pillifant (Down South Word of Mouth)"]* (2013 - )
 
 ## Teaching Experience
-* *Guest Lecturer at The University of Texas at Austin - Public Health, Technology, and Ethics* (2017)
+* *Guest Lecturer at The University of Texas at Austin - Public Health, Technology, and Ethics* (2017 & 2018)
 * *Teaching Assistant Levels 1 - 6 at Hideout Theatre* (2013)
 * *Junior and Senior High School Sunday School at University United Methodist Church* (1997 - 2010)
 * *Teaching Assistant in Speech Communication at Texas A&M University* (1990 - 1992)
@@ -46,7 +46,6 @@
 * *[[The Sword of Merlin Works]]* (2012)
 * *[[The Black Vault]]* (2012-)
 * *[[Austin Secrets]]* (2012)
-* *[[Blood, Sweat, and Cheers]]* (Bob Davis)
 * *[[The Next Chapter]]* (2013)
 * *[[The ReSet Project]]* (2013)
 * *[[Pick Your Own Path]]* (2013-)
@@ -57,10 +56,19 @@
 * *[[Grimm Noir]]* (2015)
 * ''[https://austinplaybacktheatre.wordpress.com/ "Austin Playback Theatre"] (2015 - )
 
+## Scripted Shows
+* *[[Blood, Sweat, and Cheers]]* (Bob Davis 2012)
+* *[[The Spark]]* (Jerry 2015)
+* *[[No One Dies in This Story]]* (Paul 2017)
+* *[[Bargainland]]* (Johnny 2017)
+* *[[The Other Side of the Window]]* (Earl 2018)
+
 ## Festival Producer
 * *[[WaffleFest]]* (2014 - )
 
-## Director
+## Director of Improv Shows
+* ''[[Stories from Around the World]] Co-Director (2018)
+* ''[[Gone Tomorrow]] Co-Director (2017) 
 * ''[http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run "Cochise: Student Mainstage Run"] Assistant Director
 
 ## Improv History
