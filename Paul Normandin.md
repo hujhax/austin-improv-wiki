@@ -67,7 +67,7 @@
 * *[[WaffleFest]]* (2014 - )
 
 ## Director of Improv Shows
-* ''[http://wiki.austinimprov.com/wiki/Hideout_Kids/ "Stories from Around the World"] Co-Director (2018)
+* ''[http://wiki.austinimprov.com/wiki/Hideout_Kids "Stories from Around the World"] Co-Director (2018)
 * ''[[Gone Tomorrow]] Co-Director (2017) 
 * ''[http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run "Cochise: Student Mainstage Run"] Assistant Director
 
