@@ -8,6 +8,8 @@
 **Je Ju** is an improv duo.
 
 ## Summary
+Je Ju (pronounced Jay Jew) explores the depths to which people care and about those—people, things, and ideas—that they care about. Real-life improviser couple, Jeanette Jones and Justin Davis, find delight in every scene by playing multiple characters in revolving and evolving relationships, but they never shy away from entering dark territory, emotionally-charged situations, or heady themes. Je Ju explores the range of dynamics in the different types of relationships a person can have, tying scenes together with a theme discovered throughout the course of the show. 
+
 ### Press Blurb
 Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Love can play out, successfully and unsuccessfully, in many different ways. Whether it's romantic, platonic, familial, or mutual, lost, or imagined, no love story is like any other. Je Ju (pronounced Jay Jew) explores the depths to which people care and about those -- people, things, and ideas -- that they care about. Two people, real-life couple Justin Davis and Jeanette Jones, play multiple characters in revolving and evolving relationships. </blockquote>
 
