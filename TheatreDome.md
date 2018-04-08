@@ -63,7 +63,7 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | **[[Eenie Meanie Beanie Babies]]**
 |-
 |4/6/2018
-|  [[The Millillionares]]
+|  **[[The Millillionares]]**
 | [[Eenie Meanie Beanie Babies]]
 |}
 
