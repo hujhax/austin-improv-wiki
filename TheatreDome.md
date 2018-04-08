@@ -57,6 +57,14 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |3/23/2018
 |  [[The Matriarchy]]
 | **[[Eenie Meanie Beanie Babies]]**
+|-
+|3/30/2018
+|  [[Ad-Hoce]]
+| **[[Eenie Meanie Beanie Babies]]**
+|-
+|4/6/2018
+|  [[The Millillionares]]
+| [[Eenie Meanie Beanie Babies]]
 |}
 
 ## More Information
