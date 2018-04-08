@@ -59,7 +59,7 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | **[[Eenie Meanie Beanie Babies]]**
 |-
 |3/30/2018
-|  [[Ad-Hoce]]
+|  [[Ad-Hoc]]
 | **[[Eenie Meanie Beanie Babies]]**
 |-
 |4/6/2018
