@@ -31,7 +31,7 @@
 |Tech               = {{Unbulleted list | [[Heather Coffee]] | [[Laura Galan Wells]] | [[Nichole Bennett]] | [[Peter Wilde]] | [[Tori Haddox]] }}
 }}
 
-***Story to the Death*** is a recurring [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]]. It first ran in August 2016, and has been scheduled for a second run in February 2018.
+***Story to the Death*** is a recurring [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]]. It first ran in August 2016, and had second run in February 2018.
 
 ## Summary
 ### Publicity Blurb
