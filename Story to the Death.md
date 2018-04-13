@@ -54,6 +54,7 @@ Every single element of Story To The Death is completely improvised based on aud
 * [[Tosin Awofeso]]
 * [[Trent Symmonds]]
 #### Crew
+* [[Bob Halgren]] (Stage Manager)
 * [[Heather Coffee]]
 * [[Nichole Bennett]]
 ### Feb 2018
