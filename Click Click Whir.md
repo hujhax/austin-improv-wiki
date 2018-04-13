@@ -15,6 +15,13 @@
 ## Promotional Blurb
 Powered by newfangled inventions and a percussive soundtrack created by the cast on the spot, Click Click Whir brings a steampunk sensibility to never-before-seen completely improvised stories exploring Victorian London. Time, space, class and culture will collide in tales reminiscent of a quaint Dickens story or a cheeky Austen novel with a sci-fi slant – all made up in the moment. From its streets to its manors, our London is loud and rhythmic, its driving pulse cobbled from objects at hand. Wind your clocks up, load your hydraulic revolver and–for goodness sakes–ladies and gentlemen, do not forget your opera glasses.
 
+## Full Crew List
+* Props and Costumes Master: [[Cindy Page]]
+* Props and Costumes: [[Rachel Collier]]
+* Stage Manager: [[Biz Gilmore]]
+* Lights: [[Max Kaufmann]]
+* Sound Effects: [[Paul Henderson]]
+
 ## More Information
 * [http://www.hideouttheatre.com/shows/clickclickwhir The show's web page.]
 
