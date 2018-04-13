@@ -11,7 +11,7 @@
 |Run	=	April 2018
 }}
 
-***¡Escándalo!*** was a Hideout student mainstage show inspired by telenovelas.
+***¡Escándalo!*** is a Hideout student mainstage show inspired by telenovelas.
 
 ## Promotional Blurb
 Podría la abuelita tener un amante secreto? Por cuanto tiempo podrá Timoteo mantener su trabajo como el CEO de su empresa y su trabajo secreto como espía por las noches? Será capaz Florencia de perdonar a Samuel después de todo lo que sucedió con su hermana?
