@@ -40,11 +40,39 @@
 Every single element of Story To The Death is completely improvised based on audience suggestions. It might start the night with 1) a Western, 2) a Soap Opera, 3) a touching story of redemption, 4) an Action Movie and 5) a Mockumentary. By the end of the night, based on Audience Choices, the show will end up with a story that has compelling characters, hilarious “special effects” and an epic, climactic ending.
 </blockquote>
 
-## Casts and Crew
+## Production Teams
 ### Aug 2016
-Cast: [[Ann Symmonds]], [[Emily McDonald]], [[Graham Snow]], [[Heidi Rogers]], [[Jessica Soos]], [[Kay Krasin]], [[Marc Jalandoon]], [[Sushant Sethi]], [[Tosin Awofeso]], [[Trent Symmonds]]. Crew: [[Nichole Bennett]], [[Heather Coffee]]
+#### Cast
+* [[Ann Symmonds]]
+* [[Emily McDonald]]
+* [[Graham Snow]]
+* [[Heidi Rogers]]
+* [[Jessica Soos]]
+* [[Kay Krasin]]
+* [[Marc Jalandoon]]
+* [[Sushant Sethi]]
+* [[Tosin Awofeso]]
+* [[Trent Symmonds]]
+#### Crew
+* [[Heather Coffee]]
+* [[Nichole Bennett]]
 ### Feb 2018
-Cast: [[Aaron Seriff-Cullick]], [[Alex Bennett]], [[Angelina Martin]], [[Annie Shortt]], [[Ashley Blom]], [[David Ronn]], [[Espi Rivandeneira]], [[Ladislao Loera]], [[Tess Forneris]], [[Trent Thomson]]. Crew: [[Tori Haddox]], [[Laura Galan Wells]], [[Peter Wilde]]
+#### Cast
+* [[Aaron Seriff-Cullick]]
+* [[Alex Bennett]]
+* [[Angelina Martin]]
+* [[Annie Shortt]]
+* [[Ashley Blom]]
+* [[David Ronn]]
+* [[Espi Rivandeneira]]
+* [[Ladislao Loera]]
+* [[Tess Forneris]]
+* [[Trent Thomson]]
+#### Crew
+* [[KC Ryan]] (Stage Manager)
+* [[Laura Galan Wells]]
+* [[Peter Wilde]]
+* [[Tori Haddox]]
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/storytothedeath The show's web page.]
