@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name               = Story to the Death
-|Picture            = Story to the Death Placeholder Image.jpg
+|Picture            = Story to the Death Promo.jpg
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Andy Crouch]]
 |Assistant Director = [[Aspen Webster]]
