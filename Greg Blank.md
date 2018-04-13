@@ -22,7 +22,7 @@ Upon moving to Austin he signed up for classes pronto.
 * *[[Song Runner]]* (2015) (Tech)
 * *[[The Untitled Avant-Garde Theater Project with a Really Long Title]]* (2016) (Tech)
 * *[[Buddy Cop]]* (2017) (Tech)
-* *[[Local on the 8s]]* (2017) (Tech)
-* *[[Orphans]]* (2018) (Tech)
+* *[[Local on the Eights]]* (2017) (Tech)
+* *[[Orphans!]]* (2018) (Tech)
 
 [[Category/Performers|Blank]]
