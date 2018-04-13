@@ -4,7 +4,7 @@
 |Theater            = [[The Hideout Theatre]]
 |Director           = [[Andy Crouch]]
 |Assistant Director = [[Aspen Webster]]
-|Stage Manager      = [[Bob Halgren]]
+|Stage Manager      = {{Unbulleted list | [[Bob Halgren]] (2016) | [[KC Ryan]] (2018) }}
 |Run                = Aug 2016
 |Subsequent Runs = Feb 2018
 
