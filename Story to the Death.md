@@ -47,7 +47,7 @@ Cast: [[Ann Symmonds]], [[Emily McDonald]], [[Graham Snow]], [[Heidi Rogers]], [
 Cast: [[Aaron Seriff-Cullick]], [[Alex Bennett]], [[Angelina Martin]], [[Annie Shortt]], [[Ashley Blom]], [[David Ronn]], [[Espi Rivandeneira]], [[Ladislao Loera]], [[Tess Forneris]], [[Trent Thomson]]. Crew: [[Tori Haddox]], [[Laura Galan Wells]], [[Peter Wilde]]
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/storytothedeath The show's 2016 page] on the Hideout Theatre website.
+* [http://www.hideouttheatre.com/shows/storytothedeath The show's web page.]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
