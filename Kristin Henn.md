@@ -19,6 +19,7 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has st
 * [[Big Beautiful Warlock]]
 * [[Oh, Science!]]
 * [[What's the Story, Steve]] (director/performer)
+* [[Game Night]]
 
 ## Shows
 * *[[Big Beautiful Warriors]]*
