@@ -6,10 +6,10 @@
 |Years	=		2018-Present
 }}
 
-**Fallout Theater** is an Austin theater that provides improv, sketch, and stand-up comedy performances nightly, and focuses on Chicago-style long form improv. 
+**Fallout Theater** is a theater in downtown Austin, TX, that provides improv, sketch, and stand-up comedy performances nightly, and focuses on Chicago-style long form improv. 
 
 ## History
-The theater was founded by the former staff, faculty, and performers of The New Movement (Austin) in February 2018. 
+The theater was founded by the former staff, faculty, and performers of The New Movement (Austin) in February 2018, following the dissolution of that theater amid controversy over misconduct by the owners of The New Movement. 
 
 ## Shows
 {{List of Fallout Theater Shows}}
