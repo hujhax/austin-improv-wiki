@@ -28,6 +28,9 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has st
 * *[[Oh, Science! every Sunday at ColdTowne]]*
 * *[[What's the Story Steve]]*
 * *[[All Ages Improv Night]]*
+* [[Excused Absence Nights]]
+* [[Gardenalia]]
+* [[Rezurangur]]
 
 ## More Information
 * [http://gybpodcast.libsyn.com/kristin-henn-ep-4-got-your-back Interview] on the *[[Got Your Back]]* podcast.
