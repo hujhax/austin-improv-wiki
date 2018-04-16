@@ -2,6 +2,7 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 
 ## Active Jams and Mixers
 * Every Friday at 7pm, [[Drew Wesely]] leads [[Drew's Improv Gym]], a coached long-form improv jam at Austin Rec Center, 1301 Shoal Creek Blvd. Donations accepted.
+* Every Sunday of the month at 5:00pm, Excused Absence Comedy, the youth program at [[ColdTowne Theater]], hosts a jam for kids and teens.
 * Every Wednesday at 7pm, the [[Hideout Theatre]] hosts a student jam at the [[Hideout Studios]], 2505 E 6th.
 * The first Sunday of the month at 6pm, [[The Institution Theater]] hosts *[[The Rubber Room]]*, featuring an open jam and faculty show.
 * The first Tuesday of the month at 10:00pm, [[ColdTowne Theater]] hosts a student/teacher jam.
