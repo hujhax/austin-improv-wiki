@@ -15,6 +15,8 @@ She organizes the weekly Excused Absence Nights formerly known as *[[Teen Improv
 ## History
 Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has studied at iO Chicago, The Annoyance Theater and has taken workshops from every awesome visiting improviser that she could.
 
+Kristin is a senior faculty member of the ColdTowne Conservatory.
+
 ## Troupes
 * [[Big Beautiful Warlock]]
 * [[Oh, Science!]]
