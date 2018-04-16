@@ -19,4 +19,3 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 * From 2010 to 2012, [[The New Movement Theater]] hosted *[[The Shootaround]]*
 * In 2013, every Tuesday night at 6:30pm, [[Harold's House]] happened at RLM on the UT campus.
 * Every Sunday at 7pm in the month of January 2014, [[The New Movement Theater]] hosted an open jam. The jam was preceded by a 6pm workshop.
-* Until 2015, every Sunday at 5pm, [[ColdTowne Theater]] hosted *[[Teen Improv Night]]* for performers under 18.
