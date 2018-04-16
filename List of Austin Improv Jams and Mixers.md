@@ -8,6 +8,7 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 * The various theaters frequently host ladies-only jams; follow [https://www.facebook.com/Austin-Ladies-Improv-Jam-668545106670439/ Austin Ladies Improv Jam] to learn about upcoming events.
 * The fourth Sunday of every other month, [[Merlin Works]] puts on *[[The Merlin Works Mixer]]* at the ZACH Theater.
 * The warm-up for the monthly [[Merlin Works Second Sundays]] show is an "open warm-up" which any improviser can join.
+* Every Sunday at 6pm, the [[Fallout Theater]] hosts *[[Student Union]]*.
 
 ## Inactive Jams and Mixers
 * From 2005 to 2009, [[The Hideout Theatre]] held *[[The Tuesday Night Jam]]*, a weekly free improv jam.
