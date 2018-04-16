@@ -12,6 +12,8 @@ Kristin is an improv performer, teacher and director who oversees and facilitate
 
 Her standing gigs include Excused Absence Nights formerly known as *[[Teen Improv Night]]* at [[ColdTowne Theater]], directing and producing [[ColdTowne Theater]]'s weekly kids improv show, *[[What's the Story Steve]]* and performing with the ColdTowne Tourco.
 
+Kristin is a senior faculty member of the ColdTowne Conservatory.
+
 ## History
 Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has studied at iO Chicago, The Annoyance Theater and has taken workshops from every awesome visiting improviser that she could.
 
