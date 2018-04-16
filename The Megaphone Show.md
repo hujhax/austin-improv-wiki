@@ -4,7 +4,7 @@
 |Theater = [[The New Movement Theater]]
 |Cast = {{Unbulleted list | [[Aaron Walther]] | [[Gsu Paek]] | [[Karen Early]] | [[Megan Simon]] }}
 |Director = Varies
-|Run	= 2009-Present
+|Run	= 2010-Present
 }}
 
 **The Megaphone Show** is a weekly [http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny Armando] that features local celebrities as monologists.
