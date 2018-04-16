@@ -10,14 +10,13 @@
 **The Megaphone Show** is a weekly [http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny Armando] that features local celebrities as monologists.
 
 ## Summary
-This is the flagship show of [[The New Movement]] theater.
-
-It plays every Saturday at 10:30 pm.
+This was the flagship show of [[The New Movement]] theater.
+The show continues to play with a new cast at [[Fallout Theater]] Saturdays at 9:30 pm. 
 
 ## History
 The show's premiere was the very first New Movement production that was open to the public.
 
-Previously, it ran on Wednesdays.
+Previously, it ran on Wednesdays, then every Saturday at 10:30 pm.
 
 ## More Information
 * [http://www.newmovementtheater.com/the-megaphone-show The show's web page.]
