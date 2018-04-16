@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Nice Astronaut
 |Picture=	Niceastro-2013-04-10.jpg
-|Cast	=	{{Unbulleted list|[[Abby Lincoln]]|[[AJ McKeon]]|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Nathan Sowell]]|[[Sanjay Rao]]}}
+|Cast	=	{{Unbulleted list|[[Abby Lincoln]]|[[AJ McKeon]]|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Katie Byrnes]]|[[Nathan Sowell]]|[[Sanjay Rao]]}}
 
 |Years	=		2008-Present
 }}
