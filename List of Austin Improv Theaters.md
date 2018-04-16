@@ -3,7 +3,7 @@ There are four theaters in Austin, Texas that produce improv shows:
 * [[ColdTowne Theater]]
 * [[The Hideout Theatre]]
 * [[The Institution Theater]]
-* [[The New Movement Theater]]
+* [[Fallout Theater]]
 
 The [[Merlin Works Institute for Improvisation]] also teaches classes and produces shows at the [[ZACH theater]].
 
@@ -18,4 +18,6 @@ The [[Merlin Works Institute for Improvisation]] also teaches classes and produc
 
 [[The Lair]] was an improv theater in Round Rock that opened and closed in 2010.
 
-Prior to 2013, [[Gnap! Theater Projects]] produced improv shows at [[Salvage Vanguard Theater]].  The theater still hosts occasional improv shows, but is largely inactive.
+Prior to 2013, [[Gnap! Theater Projects]] produced improv shows at [[Salvage Vanguard Theater]]. 
+
+[[The New Movement Theater]] began at 1819 Rosewood Ave, then moved to 616 Lavaca St. In February 2018, TNM's owners transferred the space to the new Fallout Theater.
