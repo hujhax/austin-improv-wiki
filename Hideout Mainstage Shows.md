@@ -244,7 +244,7 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |-
 |Apr 2017||*[[Rewind]]*||[[Caeriel Crestin]]
 |-
-|Jun 2017||*[[Buddy Cop]]*||[[Manuel Duran]]
+|Jun 2017||*[[Buddy Cop]]*||[[Marc Majcher]]
 |-
 |Aug 2017||*[[Click Click Whir]]*||[[Valerie Ward]]
 |-
