@@ -10,7 +10,7 @@ He began studying improv at [[The Hideout Theatre]] and has since taken classes 
 
 Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]],[[ColdTowne Theater]],[http://www.stationtheater.com/ Station Theater] (Houston, TX), [http://www.diveaustin.com/ Dive Bar] and the [http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum Umlauf Sculpture Garden].
 
-He has been performing regularly since 2011 and is a regular cast member of *[[Flying Theater Machine]]*.
+He has been performing regularly since 2011 and was a regular cast member of *[[Flying Theater Machine]]* from 2011 until 2017 when it was rebranded as *[[Hideout Kids]]* and the troupe was replaced by a rotating cast per production.
 
 ## Shows
 * *[[The Pirates of Hideout Cove]]* (2018)
