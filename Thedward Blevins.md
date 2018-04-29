@@ -28,8 +28,8 @@ He has been performing regularly since 2011 and is a regular cast member of *[[F
 ## Troupes
 * [[Happy Butter]] (2011) (defunct)
 * [[Candy Vampires]] (2014) (former member)
-* [[Northward]] (2014-Present)
-* [[History Under the Influence]] (2014-{{CURRENTYEAR}})
+* [[Northward]] (2014-2016)
+* [[History Under the Influence]] (2014-2017)
 
 ## More Information
 * [http://yesandrew.com/2013/07/12/in-praise-of-thedward-blevins/ "In Praise Of..." post] by [[Ryan Austin]].
