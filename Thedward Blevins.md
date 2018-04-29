@@ -13,6 +13,7 @@ Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]],
 He has been performing regularly since 2011 and is a regular cast member of *[[Flying Theater Machine]]*.
 
 ## Shows
+* *[[The Pirates of Hideout Cove]]* (2018)
 * *[[Adventure PhD]]* (2016)
 * *[[Camp Madeupponthaspotta]]* (2014)
 * *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013–2015) (cohost)
