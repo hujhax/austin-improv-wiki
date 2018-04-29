@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=	Bric-a-Brac
-|Picture =     BricABracPromo.jpg
+|Picture =     BricABracPromo2.jpg
 |Cast	=	{{Unbulleted list | [[Quinn Buckner]] | [[Chelsea Bunn]] | [[Patrick Creamer]] | [[Shannon Stott]] | [[Alex Walker]] }}
 |Years	=		2017-
 }}
