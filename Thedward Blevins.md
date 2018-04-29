@@ -4,7 +4,7 @@
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2011-Present
 }}
-**Thedward Blevins** is an improv performer and tech.
+**Thedward Blevins** improvises on stage and in the tech booth.
 
 He began studying improv at [[The Hideout Theatre]] and has since taken classes at [[The Merlin Works Institute for Improvisation]] and [[The Institution Theater]]. 
 
@@ -14,11 +14,12 @@ He has been performing regularly since 2011 and was a regular cast member of *[[
 
 ## Shows
 * *[[The Pirates of Hideout Cove]]* (2018)
+* *[[Start Treekin']]* (Season 8 — 2017) (Technical Improsiver)
 * *[[Adventure PhD]]* (2016)
 * *[[Camp Madeupponthaspotta]]* (2014)
 * *[[Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013–2015) (cohost)
 * *[[Lord Wensleydale’s Last High Tea]]* (2013)
-* *[[Fiasco]]* (2016) (Multimedia Tech)
+* *[[Fiasco]]* (2016) (Technical Improviser — Multimedia)
 * *[[Flying Theater Machine]]* (2012-2017)
 * *[[Pick Your Own Path]]* (2012-2014)
 * *[[The Tribunal]]* (2012)
