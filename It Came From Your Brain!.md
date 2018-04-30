@@ -13,8 +13,8 @@
 |Cast = {{Unbulleted list | [[Jennifer Dorsey]] | [[Marcone Cangussu]] |  [[David Lampe]] | [[Alicia Earls]] | [[Heidi Rogers]] | [[Ethan Stites]] | [[Heidi Penix]] | [[Ben Howell]] }}
 |Past Members =							
 |Tech = {{Unbulleted list | [[Neil Dorsey]] | [[Juese Cutler]]}}
-|Run = Oct 2017
-|Subsequent Runs = 		
+|Run = Oct 2016
+|Subsequent Runs = Oct 2017		
 }}
 
 {{Template:Stub}}
