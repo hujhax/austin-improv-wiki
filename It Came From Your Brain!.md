@@ -1,20 +1,20 @@
 {{Infobox Show
-|Name =	It Came From Your Brain!					
-|Picture = Itcamefromyourbrain!.jpg					
-|Theater = [[The Institution Theater]]						
+|Name =It Came From Your Brain!
+|Picture = Itcamefromyourbrain!.jpg
+|Theater = [[The Institution Theater]]
 |Director = {{Unbulleted list | [[Kenny Madison]] | [[Nicholaus Weindel]] }}
-|Assistant Director =	
-|Music Director = 			
-|Tech Director =	
+|Assistant Director =
+|Music Director = 
+|Tech Director =
 |Dramaturg =
-|Stage Manager = [[Thedward Blevins]]
+|Stage Manager = 
 |Producer = [[Chelsea Dougherty]]
-|Music =      					
+|Music =      
 |Cast = {{Unbulleted list | [[Jennifer Dorsey]] | [[Marcone Cangussu]] |  [[David Lampe]] | [[Alicia Earls]] | [[Ethan Stites]] | [[Heidi Penix]] | [[Ben Howell]] | [[Heidi Lorenz]] (Host) }}
-|Past Members =							
-|Tech = {{Unbulleted list | [[Neil Dorsey]] | [[Juese Cutler]]}}
+|Past Members =
+|Tech = {{Unbulleted list | [[Neil Dorsey]] | [[Juese Cutler]]  | [[Thedward Blevins]] }}
 |Run = Oct 2016
-|Subsequent Runs = Oct 2017		
+|Subsequent Runs = Oct 2017
 }}
 
 ## Summary
