@@ -6,7 +6,7 @@
 }}
 **Thedward Blevins** is an improv performer and technical improviser.
 
-He has studied improvised theatre at [[The Hideout Theatre]], [[The Merlin Works Institute for Improvisation]], and [[The Institution Theater]].
+He has studied improvised theatre at [[The Hideout Theatre|The Hideout]], [[The Merlin Works Institute for Improvisation|Merlin Works]], and [[The Institution Theater|The Institution]].
 
 Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], [[ColdTowne Theater]],[http://www.stationtheater.com/ Station Theater] (Houston, TX), [http://www.diveaustin.com/ Dive Bar], [[The New Movement Theater]], [[The Blind Tiger Comedy Club]] (San Antonio, TX), [[The Out of Bounds Comedy Festival]], The [http://houstonimprovfestival.com/ Houson Improv Festival], The [http://scottishritetheater.org/ Austin Scottish Rite Theater], and the [http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum Umlauf Sculpture Garden].
 
@@ -24,7 +24,7 @@ He has been teaching assistant for both adult and children's improv classes, and
 
 ## Shows
 * *[[The Pirates of Hideout Cove]]* (2018)
-* *[[Start Treekin']]* (Season 8 — 2017) (Technical Improsiver)
+* *[[Start Trekkin']]* (Season 8 — 2017) (Technical Improsiver)
 * *[[Fiasco]]* (2016) (Technical Improviser — Multimedia)
 * *[[It Came From Your Brain!]]* (2016) (Stage Manager/ Monster Crew)
 * *[[Adventure PhD]]* (2016)
