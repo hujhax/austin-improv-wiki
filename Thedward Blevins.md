@@ -2,7 +2,7 @@
 |Name	=	Thedward Blevins	
 |Picture =	thedward01.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	2011-Present
+|Years	=	2009-{{CURRENTYEAR}}
 }}
 **Thedward Blevins** is an improv performer and technical improviser.
 
@@ -11,7 +11,7 @@ He has studied improvised theatre at [[The Hideout Theatre]], [[The Merlin Works
 Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], [[ColdTowne Theater]],[http://www.stationtheater.com/ Station Theater] (Houston, TX), [http://www.diveaustin.com/ Dive Bar], [[The New Movement Theater]], [[The Blind Tiger Comedy Club]] (San Antonio, TX), [[The Out of Bounds Comedy Festival]], The [http://houstonimprovfestival.com/ Houson Improv Festival], The [http://scottishritetheater.org/ Austin Scottish Rite Theater], and the [http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum Umlauf Sculpture Garden].
 
 He has been performing regularly since 2011 and was a regular cast member of *[[Flying Theater Machine]]* from 2011 until 2017 when it was rebranded as *[[Hideout Kids]]* and the troupe was replaced by a rotating cast per production.
-
+Present
 He has been teaching assistant for both adult and children's improv classes, and regularly leads the [[Wednesday Jams at Hideout Studios]].
 
 ## Shows
