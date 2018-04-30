@@ -9,7 +9,6 @@
 |Crew=
 }}
 
-## Summary
 Inner Picnic writes and performs [https://en.wikipedia.org/wiki/Neo-Futurists Neo-Futurist] inspired short plays.
 
 ### Shows
