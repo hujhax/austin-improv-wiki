@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name =	It Came From Your Brain!					
-|Picture =						
+|Picture = Itcamefromyourbrain!.jpg					
 |Theater = [[The Institution Theater]]						
 |Director = {{Unbulleted list | [[Kenny Madison]] | [[Nicholaus Weindel]] }}
 |Assistant Director =	
