@@ -65,6 +65,18 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |4/6/2018
 |  **[[The Millillionares]]**
 | [[Eenie Meanie Beanie Babies]]
+|-
+|4/13/2018
+|  [[RUN THE FOOLS]]
+| **[[Three on a Match]]**
+|-
+|4/20/2018
+|  **[[Soundstage 23]]**
+| [[Three on a Match]]
+|-
+|4/27/2018
+|  **[[Soundstage 23]]**
+| [[Manic Pixie Stix]]
 |}
 
 ## More Information
