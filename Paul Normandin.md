@@ -19,6 +19,7 @@
 * *Teaching Assistant Levels 1 - 6 at Hideout Theatre* (2013)
 * *Junior and Senior High School Sunday School at University United Methodist Church* (1997 - 2010)
 * *Teaching Assistant in Speech Communication at Texas A&M University* (1990 - 1992)
+* *Storytelling Classes and Workshops* (2017 - Present)
 
 ## Storytelling
 * *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writers Roulette]* (2017) 
