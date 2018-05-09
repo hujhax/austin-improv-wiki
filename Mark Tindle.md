@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-**Mark Tindle** is a London-based improv performer who works primarily with [[The Hideout Theatre]].
+**Mark Tindle** is a UK-based improv performer who has worked primarily with [[The Hideout Theatre]].
 
 ## History
 Mark first saw live improv in 2003, being performed by the Oxford Imps, an Oxford University student team. He began improvising in 2012 as part of the short-lived Teesside Improv. His love of improv really began to flourish in 2013, when he moved to London and began to attend shows and take classes there. In 2014, he became one of the presenters and organisers of Duck Duck Goose Improv, hosting the weekly Jam, and helping to build the night into one of the most successful and well-regarded of its type in London. 
@@ -14,7 +14,9 @@ He first came to Austin in summer 2014, inspired by a weekend's teaching by [[Pa
 
 He and [[Aspen Webster]] are the duo [[An Englishman and a Belle]], which was formed in November 2015 to perform at the Tampa Improv Festival. In April 2016, they performed together again, first at [[Cascade]]'s [[ImprompTwo]] show at [[The Institution Theater]], and then at the Hideout's [[The 2016 Improvised Play Festival]], as part of the duos slot. In 2017, they performed again, in spring in Austin and then in the summer at the Ocean State Improv Festival in Rhode Island (which was organised by fellow Hideout alumnus Christopher Simpson and also featured Parallelogramophonograph and [[The Matriarchy]]). Both Mark and Aspen are drawn to playing the rich, theatrical and character-led improv that the Hideout teaches, and also have a love of playing together. Until proven otherwise, they're going to claim to to be the most geographically-separated regular duo in the world!
 
-In London, Mark is and has been a member of a number of other teams, including Story Kitchen Impro (the city's [[Theatresports]] and [[Maestro]] franchise), DuckDuckTales (a choose-your-own-adventure narrative team inspired by the Hideout's [[Control Issues]] show), X&Y (a monoscene duo with Vic Hogg), Fish & Cushion (a David Razowsky Two Chairs format-inspired duo with Steff Man) and Numskull Island, an improvised podcast. He has also been technical improviser for The Parentheticals and Countdown to DOOM, two London troupes. Mark has also performed in Atlanta, Portland, Berlin and, most-recently, in Wakefield, Rhode Island. He is looking forward to seeing where his improv journeys take him next.
+When based in London, Mark was a member of a number of other teams, including Story Kitchen Impro (the city's [[Theatresports]] and [[Maestro]] franchise), DuckDuckTales (a choose-your-own-adventure narrative team inspired by the Hideout's [[Control Issues]] show), X&Y (a monoscene duo with Vic Hogg), Fish & Cushion (a David Razowsky Two Chairs format-inspired duo with Steff Man) and Numskull Island, an improvised podcast. He has also been technical improviser for The Parentheticals and Countdown to DOOM, two London troupes. Mark has also performed in Atlanta, Portland, Berlin and, most-recently, in Wakefield, Rhode Island. He is looking forward to seeing where his improv journeys take him next.
+
+He recently moved to the North East of England and has begun regularly performing with Open Heart Theatre's troupe The Hang. They specialise in mixing longform narratives with runs of shorter scenes, inspired by the ideas raised in the narrative. Mark is delighted to be involved with a growing improv community in the north of the country!
 
 Mark has also begun to act an unofficial point of contact for AIC members in the UK. A role that he delights in playing! Over the last couple of years, he's welcomed [[Peter Rogers]], [[Lindsey McGowen]], [[Natalie Grigson]], [[Jessica Arjet]] and [[Brad Hawkins]], all of whom have played at the Duck Duck Goose Improv Jam.
 
