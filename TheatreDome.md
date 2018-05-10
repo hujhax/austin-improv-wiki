@@ -77,6 +77,14 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |4/27/2018
 |  **[[Soundstage 23]]**
 | [[Manic Pixie Stix]]
+|-
+|5/4/2018
+|  **[[Soundstage 23]]**
+| [[Frootopia]]
+|-
+|5/11/2018
+|  [[Soundstage 23]]
+| [[Empty Promises]]
 |}
 
 ## More Information
