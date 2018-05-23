@@ -149,6 +149,27 @@ The schedule is as follows:
 * [[Mia Iseman]]
 * [[Quinn Buckner]]
 
+## 2017 Run
+### Cast of Theatresports 2017
+* [[Ryan Austin]]
+* [[Chelsea Bunn]]
+* [[Patrick Creamer]]
+* [[Rachel Elaine Creason]]
+* [[Allison Day]]
+* [[Zac Grantham]]
+* [[Ace Manning]]
+* [[Nicholas Marino]]
+* [[Erin Molson]]
+* [[Hemant Sharma]]
+* [[Shannon Dale Stott]]
+* [[Alex Walker]]
+
+### Crew of Theatresports 2017
+* [[Jenn Hamm]]
+* [[Jason Hoppenworth]]
+* [[R Lance Hunter]]
+* [[Davey Wreden]]
+
 ## Media
 ### Videos
 * Video of the 10/30/10 performance by [[Peter Rogers]]: [http://vimeo.com/16402965 part 1], [http://vimeo.com/16403547 part 2].
