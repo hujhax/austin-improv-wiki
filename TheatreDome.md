@@ -83,8 +83,16 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | [[Frootopia]]
 |-
 |5/11/2018
-|  [[Soundstage 23]]
+|  **[[Soundstage 23]]**
 | [[Empty Promises]]
+|-
+|5/18/2018
+|  **[[Soundstage 23]]**
+| [[Stevie Dicks]]
+|-
+|5/25/2018
+|  [[Soundstage 23]]
+| [[Rough Ian]]
 |}
 
 ## More Information
