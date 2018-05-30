@@ -1,6 +1,6 @@
 {{Infobox Performer
 |Name=	Quinn Buckner	
-|Picture =	Quinn_Headshot.jpg
+|Picture =	Quinn_Headshot2.jpg
 |Theater=	[[The Hideout Theatre]]
 |Teacher = [[The Hideout Theatre]]
 |Years	=	2009-Present
@@ -71,5 +71,8 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 
 ## More Information
 * [http://yesandrew.com/the-sunday-interview-quinn-buckner-2/ Interview] by [[Andrew Buck]].
+
+## Previous Photos
+Picture =	Quinn_Headshot.jpg
 
 [[Category/Performers|Buckner]]
