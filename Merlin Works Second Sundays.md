@@ -12,11 +12,11 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
-|August 12, 2018|| || 
+|August 12, 2018|| ||[[Small Town News]]
 |-
-|July 8, 2018||Improv 301|| 
+|July 8, 2018||Improv 201||[[Garage]]
 |-
-|June 10, 2018|| || 
+|June 10, 2018||Student showcase||[[Soy Taco]] 
 |-
 |May 13, 2018||{{Unbulleted list|Improv 301|Improv 601|Singing 301|Singing 501}}||N/A 
 |-
