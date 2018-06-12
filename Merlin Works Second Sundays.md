@@ -14,7 +14,7 @@
 |-
 |August 12, 2018|| ||[[Small Town News]]
 |-
-|July 8, 2018||Improv 201||[[Garage]]
+|July 8, 2018||Improv 201||[[The Morning After]]
 |-
 |June 10, 2018||Student showcase||[[Soy Taco]] 
 |-
