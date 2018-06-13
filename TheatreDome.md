@@ -91,8 +91,16 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | [[Stevie Dicks]]
 |-
 |5/25/2018
-|  [[Soundstage 23]]
+|  **[[Soundstage 23]]**
 | [[Rough Ian]]
+|-
+|6/2/2018
+|  [[Soundstage 23]]
+| **[[Soy Taco]]**
+|-
+|6/16/2018
+|  [[Dixon]]
+| [[Soy Taco]]
 |}
 
 ## More Information
