@@ -5,7 +5,7 @@
 |Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Adam Pabbason]] | [[Alex Walker]] | [[Courtney Hopkin]] | [[Esperanza Rivadeneira]] | [[Frank Sánchez]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Mallory Schlossberg]] | [[Monica Mahertinez]] | [[Patrick Creamer]] | [[Rachel Posey Austin]] | [[Ryan Austin]] | [[Shannon McCormick]] }}
 |Crew= {{Unbulleted list | [[Annie Shortt]] | [[Biz Gilmore]] | [[Brad Geiger]] | [[Brad Hawkins]] | [[Cindy Page]] | [[Jenn Hamm]] | [[Lindsey McGowen]] | [[Michael Yew]] }}
 |Theater = [[The Hideout Theatre]]
-|Run	=	May-June 2018
+|Run	=	May-Jun 2018
 }}
 
 ***Sexy Future Space Lady*** was a Hideout mainstage show inspired by *[http://en.wikipedia.org/wiki/Barbarella_(film) Barbarella]*.
