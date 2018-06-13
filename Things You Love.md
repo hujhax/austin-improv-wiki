@@ -26,8 +26,8 @@ The cast of *Things You Love* is gathered from some of the most talented musical
 Join us at The Hideout Theatre Saturdays in June for this joyful, exuberant, silly and heartfelt *completely improvised* show that has never happened before and will never happen again! Don’t miss a moment!
 
 ## Full Crew
-* [[Tess Forneris]] (sound)
-* [[Denise Hudson]] (lights)
+* [[Denise Hudson]] (sound)
+* [[Tess Forneris]] (lights)
 
 ## More Information
 * [http://www.hideouttheatre.com/shows/thingsyoulovethemusical The show's web page.]
