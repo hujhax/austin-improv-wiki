@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	A Big Gay Musical	
-|Picture = abiggaymusicalplaceholder.jpg
+|Picture = abiggaymusicalplaceholder.png
 |Director = [[Bridget Brewer]]
 |Cast	=	{{Unbulleted list | [[Aspen Webster]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Casey Marie]] | [[Chelsea Beth]] | [[Frank Sánchez]] | [[Jaukeem Jaydoire Balcom]] | [[Ladislao Loera]] | [[Luke Wallens]] | [[Marissa Macy]] | [[Rachel Posey Austin]] | [[Tosin Awofeso]] | [[Trent Thomson]] | [[Tyler Lane]] }}
 |Crew= {{Unbulleted list | [[Brandi Davis]] | [[Cindy Page]] | [[Elizaveta Dovgish]] | [[Lindsey McGowen]] | [[Paul Ramöne Weiner]] }}
