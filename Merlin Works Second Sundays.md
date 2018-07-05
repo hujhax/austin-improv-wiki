@@ -12,7 +12,7 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
-|August 12, 2018|| ||[[Small Town News]]
+|August 12, 2018||Singing 501||[[Small Town News]]
 |-
 |July 8, 2018||Improv 201||[[The Morning After]]
 |-
