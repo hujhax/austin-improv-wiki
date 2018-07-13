@@ -99,8 +99,17 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | **[[Soy Taco]]**
 |-
 |6/16/2018
-|  [[Dixon]]
+|  **[[Dixon]]**
 | [[Soy Taco]]
+|-
+|6/30/2018
+|  **[[Dixon]]**
+| [[Channel 2]]
+|-
+|7/6/2018
+|  **[[Dixon]]**
+| [[Documentary Later]]
+
 |}
 
 ## More Information
