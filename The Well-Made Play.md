@@ -11,7 +11,7 @@
 |Run	=	August 2018
 }}
 
-***The Well-Made Play*** is a Hideout student mainstage show inspired by the theatrical format of the same name.
+***The Well-Made Play*** is a Hideout student mainstage show inspired by [http://en.wikipedia.org/wiki/Well-made_play the theatrical format of the same name].  It focuses on a small group of relatives or old friends, meeting for the first time in a while, one of whom harbors an awful secret.
 
 
 ## Full Crew
