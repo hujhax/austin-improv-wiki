@@ -187,7 +187,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |-
 |Jul 2018||Aug 2018||*[[A Big Gay Musical]]*||[[Bridget Brewer]]
 |-
-|Sep 2018||Oct 2018||*[[World of the Dead]]*||[[J. R. Zambrano]]
+|Sep 2018||Oct 2018||*[[La Vida de los Muertos]]*||[[J. R. Zambrano]], [[Cat Drago]]
 |-
 |Nov 2018||Dec 2018||*[[Harry Potter and the Blank Stage]]*||[[Caeriel Crestin]]
 |-
