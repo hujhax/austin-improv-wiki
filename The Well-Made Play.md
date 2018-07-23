@@ -1,6 +1,6 @@
 {{Infobox Show
 |Name	=	The Well-Made Play 
-|Picture = wellmadeplay.jpg
+|Picture = wellmadeplay poster.jpg
 |Director = {{Unbulleted list | [[Lindsey McGowen]] | [[Peter Rogers]] }}
 |Technical Director = [[Nichole Bennett]]
 |Cast	=	{{Unbulleted list | [[Alan Buttars]] | [[Amanda Chang]] | [[Bonnie Dilber]] | [[Christian Lewis]] | [[Cristy Salinas Lynch]] | [[Gabriela Vargas]] | [[Jeffrey Chatman]] | [[Shane Gannaway]] }}
