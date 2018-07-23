@@ -12,7 +12,8 @@ Short-form bb
 
 ## Media
 ### Videos
-We gonna get it.
+Here they are.
+[https://www.twitch.tv/videos/221430390 1/18/2018]
 
 ### Photos
 Jus wait.
