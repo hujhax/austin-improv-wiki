@@ -13,8 +13,11 @@ Short-form bb
 ## Media
 ### Videos
 Here they are.
+
 [https://www.twitch.tv/videos/221430390 1/18/2018]
+
 [https://www.twitch.tv/videos/251257011 4/12/2018]
+
 [https://www.twitch.tv/videos/274944679 6/14/2018]
 
 ### Photos
