@@ -21,6 +21,7 @@
 
 ## More Information
 * [https://www.facebook.com/groups/hideouttheatre/permalink/1776074062415690/ The cast/crew announcement.]
+* [http://www.hideouttheatre.com/shows/thewellmadeplay The show page.]
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]
