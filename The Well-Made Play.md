@@ -4,7 +4,7 @@
 |Director = {{Unbulleted list | [[Lindsey McGowen]] | [[Peter Rogers]] }}
 |Technical Director = [[Nichole Bennett]]
 |Cast	=	{{Unbulleted list | [[Alan Buttars]] | [[Amanda Chang]] | [[Bonnie Dilber]] | [[Christian Lewis]] | [[Cristy Salinas Lynch]] | [[Gabriela Vargas]] | [[Jeffrey Chatman]] | [[Shane Gannaway]] }}
-|Crew = {{Unbulleted list | [[Andre K. Buchanan]] | [[Brad Geiger]] | [[Daniel Ellsworth]] }}
+|Tech = {{Unbulleted list | [[Andre K. Buchanan]] | [[Brad Geiger]] | [[Daniel Ellsworth]] }}
 |Stage Manager = [[Marc Majcher]]
 |Dramaturg = [[Christopher Anderson]]
 |Theater = [[The Hideout Theatre]]
