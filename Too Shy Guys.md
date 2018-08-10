@@ -21,7 +21,7 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 * *Duo Night at [http://www.stationtheater.com/ Station Theatre]*
 * *[[Free Fringe]]* (with special guest [[Aspen Webster]])
 * *[[Dual Reality]]*
-* Alternative Comedy Theatre's 10th Annual Big Weekend of Improv
+* *Alternative Comedy Theatre's 10th Annual Big Weekend of Improv*
 
 ## Media
 ### Videos
@@ -32,7 +32,7 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 * [https://www.facebook.com/TooShyGuys/videos/1359894910737531/ Dual Reality] 03/31/2017
 
 ## More Information
-* tooshyguys.com
+* [https://www.tooshyguys.com tooshyguys.com]
 * [http://www.facebook.com/TooShyGuys The troupe's facebook page.]
 
 ### Other Musicians Played With
