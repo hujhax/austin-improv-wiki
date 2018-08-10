@@ -12,6 +12,26 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
+|June 9, 2019||||
+|-
+|May 12, 2019||||
+|-
+|April 14, 2019||||
+|-
+|March 3, 2019||||
+|-
+|February 10, 2019||||
+|-
+|January 13, 2019||||
+|-
+|December 9, 2018||||
+|-
+|November 11, 2018||||
+|-
+|October 14, 2018||{{Unbulleted list|Improv 301|Singing 601}}||
+|-
+|September 9, 2018||||
+|-
 |August 12, 2018||Singing 501||[[Small Town News]]
 |-
 |July 8, 2018||Improv 201||[[The Morning After]]
