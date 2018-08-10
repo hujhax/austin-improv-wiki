@@ -21,6 +21,7 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 * *Duo Night at [http://www.stationtheater.com/ Station Theatre]*
 * *[[Free Fringe]]* (with special guest [[Aspen Webster]])
 * *[[Dual Reality]]*
+* Alternative Comedy Theatre's 10th Annual Big Weekend of Improv
 
 ## Media
 ### Videos
@@ -35,6 +36,8 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 
 ### Other Musicians Played With
 * [https://alchemypopsongs.wordpress.com/ Bradley Dean Whyte]
+* Sam Fuller
+* Michael O'Connor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]
