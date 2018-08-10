@@ -27,6 +27,7 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * *[[Megan & Quinn]]*
 
 ## Festivals
+* 2018 - Dallas Comedy Festival - Dallas, TX: *[[Rook]]*
 * 2018 - Big Little Comedy Fest - San Antonio, TX: *[[Rook]]*
 * 2017 - Improv Festival Oklahoma - Oklahoma City, OK: *[[Rook]]*
 * 2017 - Out of Bounds Comedy Festival - Austin, TX: *[[Rook]]*
