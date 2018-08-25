@@ -9,7 +9,7 @@
 **Gigglepants** is an improv troupe at the University of Texas.
 
 ## Summary
-The troupe performs every two weeks, and has been the starting point for many local improvisors.
+The troupe performs every two Friday, and has been the starting point for many local improvisors.  They rock.
 
 ## History
 Gigglepants was founded in the fall of 2003 by [[Bryan Cruz]], [[Thai Le]], and [[Tom Glinkowski]]. Alums of [[ComedySportz]] High School League in Houston, the troupe is named after their mutual coach Chris "Chim Chim Gigglepants" Craig.
