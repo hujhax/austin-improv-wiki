@@ -6,7 +6,7 @@
 |Years	=		2003-Present
 }}
 
-**Gigglepants** is an improv troupe at the University of Texas.
+**Gigglepants** is a short-form improv troupe at the University of Texas.
 
 ## Summary
 The troupe performs every two Friday, and has been the starting point for many local improvisors.  They rock.
