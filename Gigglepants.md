@@ -16,6 +16,29 @@ Gigglepants was founded in the fall of 2003 by [[Bryan Cruz]], [[Thai Le]], and 
 
 The troupe started performing in the spring semester of 2004.
 
+## Current Cast
+* [[Ricci Valice]]
+* [[Fran Ghizzoni]]
+* [[Kaci Pelias]]
+* [[Erik Martinez]]
+* [[Brandt Taylor]]
+* [[Ellen Lang]]
+* [[Siddharth Desai]]
+* [[Claire Hardwick]]
+* [[Jay O'Bryant]]
+* [[Jill Young]]
+* [[Caroline Beagles]]
+* [[Juan Leyva]]
+* [[Cassidy Kaye]]
+* [[Harrison Xue]]
+* [[Sindhu Raju]]
+* [[Christian Soenen]]
+* [[Rebecca East]]
+* [[Sarah Farris]]
+* [[William Hahn]]
+* [[Patrick Greer]]
+* [[Andrew Stier]]
+
 ## Original Cast
 * [[Brandon Stackhouse]]
 * [[Bryan 'Lubu' Roberts]]
