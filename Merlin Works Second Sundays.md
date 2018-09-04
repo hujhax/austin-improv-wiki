@@ -30,7 +30,7 @@
 |-
 |October 14, 2018||{{Unbulleted list|Improv 301|Singing 601}}||
 |-
-|September 9, 2018||||
+|September 9, 2018||Student showcase||[[Crossroads]]
 |-
 |August 12, 2018||Singing 501||[[Small Town News]]
 |-
