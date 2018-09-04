@@ -28,7 +28,7 @@
 |-
 |November 11, 2018||||
 |-
-|October 14, 2018||{{Unbulleted list|Improv 301|Singing 601}}||
+|October 14, 2018||{{Unbulleted list|Improv 301|Singing 601}}||N/A
 |-
 |September 9, 2018||Student showcase||[[Crossroads]]
 |-
