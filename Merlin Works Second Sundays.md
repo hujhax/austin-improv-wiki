@@ -24,7 +24,7 @@
 |-
 |January 13, 2019||||
 |-
-|December 9, 2018||||
+|December 9, 2018||{{Unbulleted list|Improv 301|Singing 301}}||N/A
 |-
 |November 11, 2018||||
 |-
