@@ -20,6 +20,10 @@ Here they are.
 
 [https://www.twitch.tv/videos/274944679 6/14/2018]
 
+[8/16/2018 Best]
+
+[https://www.twitch.tv/videos/304763361?t=7m30s  8/29/2018 OOB]
+
 ### Photos
 Jus wait.
 
