@@ -12,6 +12,10 @@ Kareem began taking classes at [[The Hideout Theatre]] on 1/8/05.  He performed 
 
 On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That same year, he appeared in [[The 40-Hour Improv Marathon]].
 
+Kareem is perhaps best known for his work in producing 2 Girls 1 Cup, the unofficial nickname of the trailer for Hungry Bitches, a 2007 Brazilian scat-fetish pornographic film produced by MFX Media. The trailer features two women defecating into a cup, taking turns in what appears to be consuming the excrement, and vomiting into each other's mouths. "Lovers Theme" by Hervé Roy plays throughout the video.
+
+The video went viral and became one of the best known shock videos in itself and for the reactions its graphic content elicited from viewers who had not seen it before. Around mid-October 2007, video-sharing sites including YouTube were flooded with videos of the reactions of first-time viewers.
+
 ## Troupes
 * [[Badr & Janik]]
 * [[BadWitt]]
