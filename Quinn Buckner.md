@@ -16,8 +16,10 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * [[Austin-Austin]]
 * [[Megan and Quinn]]
 * [[Bric-a-Brac]]
+* [[Twins]]
 
 #### Inactive/No Longer a Member
+* [[Gigglepants]]
 * [[Anticdotes]]
 * [[Bolik Not ZIB]]
 * [[Quayle]]
