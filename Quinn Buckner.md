@@ -42,32 +42,40 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 **[[Dance Dreams]]*
 
 ## Festivals
-*2010 - The Out Of Bounds Comedy Festival - [[Anticdotes]], *[[Guilds of Steel]]*
+*2010 - [[The Out of Bounds Comedy Festival]] - [[Anticdotes]], *[[Guilds of Steel]]*
+*2010 - [[WaffleFest]] - [[Gigglepants]]
 *2011 - Del Close Marathon - [[Dukes of Bedside Manor]]
 *2011 - Frontera Fest - [[Dukes of Bedside Manor]]
-*2011 - The Out Of Bounds Comedy Festival - [[Bolik Not ZIB]], [[Dukes of Bedside Manor]], [[Quayle]]
+*2011 - [[The Out of Bounds Comedy Festival]] - [[Bolik Not ZIB]], [[Dukes of Bedside Manor]], [[Quayle]]
+*2011 - [[WaffleFest]] - [[Gigglepants]]
 *2012 - Frontera Fest - [[Bolik Not ZIB]]
-*2012 - The Out Of Bounds Comedy Festival - [[Dukes of Bedside Manor]], [[The Professor]]
+*2012 - [[The Out of Bounds Comedy Festival]] - [[Dukes of Bedside Manor]], [[The Professor]]
 *2012 - Improvaganza (Hawaii) - [[The Professor]]
-*2013 - The Out Of Bounds Comedy Festival - [[Ghetto Sketch Warlock]], [[Known Wizards]], [[The Professor]], [[RhinoDino]]
+*2013 - [[The Out of Bounds Comedy Festival]] - [[Ghetto Sketch Warlock]], [[Known Wizards]], [[The Professor]], [[RhinoDino]]
 *2013 - Sketchfest / Cover Night - [[Tastemakers]]
 *2013 - 24hr Sketchfest - [[Tastemakers]]
 *2014 - Vancouver Theatre Sports League Valentine's Day Massacre - *[[Theatresports]]* 
 *2014 - Improvised Play Festival - *[[The Big Bash]]*, *[[Kenjutsu]]*
-*2014 - The Out Of Bounds Comedy Festival - [[Tastemakers]]
+*2014 - [[The Out of Bounds Comedy Festival]] - [[Tastemakers]]
 *2014 - Sketchfest / Cover Night - [[Tastemakers]]
 *2015 - Improvised Play Festival - *[[Austin Secrets]]*
-*2015 - [[46-Hour Improv Marathon]]
-*2015 - The Out Of Bounds Comedy Festival - [[Austin-Austin]], [[Tastemakers]], *[[Thunderdome]]*
+*2015 - [[46-Hour Improv Marathon]] - Ensemble
+*2015 - [[The Out of Bounds Comedy Festival]] - [[Austin-Austin]], [[Tastemakers]], *[[Thunderdome]]*
 *2015 - Sketchfest / Cover Night - [[Tastemakers]]
+*2015 - [[WaffleFest]] - [[Austin-Austin]]
 *2016 - Frontera Fest - [[Austin-Austin]]
 *2016 - Improvised Play Festival - [[Austin-Austin]]
 *2016 - DuoFest - [[Austin-Austin]]
 *2016 - Improvaganza (Edmonton) - [[Austin-Austin]]
-*2016 - The Out of Bounds Comedy Festival - [[Austin-Austin]]
+*2016 - [[The Out of Bounds Comedy Festival]] - [[Austin-Austin]]
+*2016 - Wafflefest  - [[Austin-Austin]]
 *2017 - Improvised Play Festival - [[Austin-Austin]]
-*2017 - Out of Bounds Comedy Festival - [[Austin-Austin]], All-Star Maestro
+*2017 - [[The Out of Bounds Comedy Festival]] - [[Austin-Austin]], All-Star Maestro
 *2017 - Vancouver International Improv Festival - International Ensemble
+*2017 - Wafflefest - [[Austin-Austin]]
+*2018 - Seattle International Improv Festival - Ensemble
+*2018 - [[The Out of Bounds Comedy Festival]] - [[Bric-a-Brac]], [[Austin-Austin]]
+*2018 - Vancouver International Improv Festival - Ensemble
 
 ## More Information
 * [http://yesandrew.com/the-sunday-interview-quinn-buckner-2/ Interview] by [[Andrew Buck]].
