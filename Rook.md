@@ -2,7 +2,7 @@
 |Name	=	Rook
 |Cast	=	{{Unbulleted list|[[Cat Drago]]|[[Megan Sherrod]] |[[Sarah Marie Curry]] }}
 |Crew= [Walter Nichols] (musician)
-|Picture=    Rook.jpg
+|Picture=    Rook.png
 |Years	=		2016-Present
 }}
 
