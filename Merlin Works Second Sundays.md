@@ -24,11 +24,11 @@
 |-
 |January 13, 2019||||
 |-
-|December 9, 2018||{{Unbulleted list|Improv 301|Singing 301}}||N/A
+|December 9, 2018||Singing 301||
 |-
-|November 11, 2018||||
+|November 11, 2018||Singing 601||[[Better Than Dignity]]
 |-
-|October 14, 2018||{{Unbulleted list|Improv 301|Singing 601}}||N/A
+|October 21, 2018||Improv 301}}||[[Kevlar -  We're Bulletproof]]
 |-
 |September 9, 2018||Student showcase||[[Crossroads]]
 |-
