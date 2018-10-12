@@ -66,7 +66,7 @@
 |-
 |April 9, 2017||Student showcase||[[Migas]]
 |-
-|March 5, 2017||{{Unbulleted list|Improv 301|Singing 401|601 presents }}||N/A
+|March 5, 2017||{{Unbulleted list|Improv 301|Singing 401|601 presents "Dial I for Improv"}}||N/A
 |-
 |February 12, 2017||Student showcase||[[Sugar Water Purple]]
 |-
