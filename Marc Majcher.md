@@ -57,6 +57,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Hurly Burly]]* (performer, co-director)
 * *[[I Love You So Much]]*
 * *[[Improvised Shakespeare]]*
+* *[[Intergalactic Nemesis]]* (Scripted - Mysterion/Silcron/etc)
 * *[[Ka-Baam!!]]*
 * *[[The Kindness of Strangers]]*
 * *[[Kenjutsu]]*
