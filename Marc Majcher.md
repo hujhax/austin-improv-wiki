@@ -34,6 +34,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[The Black Vault]]* (Performed and Directed)
 * *[[Blink]]* (Coached)
 * *[[Blue Maestro]]*
+* *[[Buddy Cop]]*
 * *[[The Cagematch]]*
 * *[[Charles Dickens Unleashed]]*
 * *[[Cochise]]* (Performed and Directed)
