@@ -38,6 +38,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Charles Dickens Unleashed]]*
 * *[[Cochise]]* (Performed and Directed)
 * *[[The Derby]]*
+* *[[Death By Musical]]* (Music)
 * *[[Dubbed Indemnity]]* (2010-2012)
 * *[[Ego's Trip]]*
 * *[[False Matters]]* (2011)
@@ -52,6 +53,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Haunted]]*
 * *[[Happily Ever After]]*
 * *[[Holy 1960s Batman, Batman!]]*
+* *[[How I Saved the World Over Summer Vacation*]]
 * *[[Hurly Burly]]* (performer, co-director)
 * *[[I Love You So Much]]*
 * *[[Improvised Shakespeare]]*
