@@ -94,6 +94,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[The Tribunal]]* (Performed and directed)
 * *[[The Violet Underbelly]]*
 * *[[Wanderlust]]*
+* *[[The Well-Made Play]]* (Stage Manager)
 * *[[Whirled News Tonight]]*
 * *[[Who Is T. Henry Baudecliffe]]*
 
