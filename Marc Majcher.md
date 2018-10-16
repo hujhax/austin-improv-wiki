@@ -147,6 +147,15 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 ** With *[[Golden]]*
 * The 2015 Providence Improv Festival
 ** With *[[The Black Vault]]*
+* Dallas Comedy Big Sexy Weekend 2016
+** With *[[Golden]]*
+* Mount Olymprov 2016
+** Teacher/Performer
+* The 2016 Vancouver International Improv Festival
+** With *[[Golden]]*
+* Dallas Comedy Big Sexy Weekend 2017
+** With *[[Golden]]*
+
 
 [[Category/Performers|Majcher]]
 [[Category/Directors|Majcher]]
