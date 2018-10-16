@@ -56,6 +56,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[I Love You So Much]]*
 * *[[Improvised Shakespeare]]*
 * *[[Ka-Baam!!]]*
+* *[[The Kindness of Strangers]]*
 * *[[Kenjutsu]]*
 * *[[The Library]]*
 * *[[Live Nude Improv]]*
@@ -81,6 +82,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Savage Swords]]* (director)
 * *[[The Secret Life of Inanimate Objects]]*  (Co-director)
 * *[[Seance]]*
+* *[[Speak No More]]* (Director/performer)
 * *[[Spirited]]* (Performed and co-directed)
 * *[[Start Trekkin']]*
 * *[[Steam]]* (2012)
