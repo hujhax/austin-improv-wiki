@@ -28,9 +28,9 @@
 * *[[Martini Ranch -  Queer and Now]]*
 * ''[[Epic]]
 * *[[Speak No More]]*
-• "[[Spoonful of Sugar]]"
-• "[[Well Made Play]]" (technical director)
-• "[[Shattered]]" (assistant director/technical design)
+* "[[Spoonful of Sugar]]"
+* "[[Well Made Play]]" (technical director)
+* "[[Shattered]]" (assistant director/technical design)
 
 
 
