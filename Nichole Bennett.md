@@ -5,28 +5,35 @@
 |Years	=	2014-Present
 }}
 
-**Nichole Bennett** is an improv performer and tech.
+**Nichole Bennett** is an improv performer, director, technical designer, and teacher.
 
 ## Troupes
+### Current
+* Yes, Anderson
+### Disbanded
 * [[Character Explosion]]
 * Imaginary Friend
-* Yes, Anderson
 
 ## Shows
-* *[[Fiasco]]* (lighting tech)
-* *[[Process]]* (crew)
+*"[[Maestro]]" (2015-)
+* *[[Fiasco]]* (lighting design)
+* *[[Process]]* (lighting design/run crew)
 * *[[The Secret Life of Inanimate Objects]]*
 * *[[Story to the Death]]* (scoring)
 * *[[2017 Student Battle Royale]]* (director)
-* *[[How I Saved the World Over Summer Vacation]]* (lighting/video tech)
+* *[[How I Saved the World Over Summer Vacation]]* (lighting/media design)
 * *[[Gauntlet]]* 
-* *[[Musical to the Death]]* (sound fx)
+* *[[Death By Musical]]* (sound effects)
 * *[[Soundstage 23]]* (technical director)
 * *[[Martini Ranch -  Queer and Now]]*
 * ''[[Epic]]
 * *[[Speak No More]]*
+• "[[Spoonful of Sugar]]"
+• "[[Well Made Play]]" (technical director)
+• "[[Shattered]]" (assistant director/technical design)
 
 
 
 [[Category/Performers|Bennett]]
 [[Category/Techs|Bennett]]
+[[Category/Directors|Bennett]]
