@@ -38,6 +38,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Get
 * *[[Love Fest]]*
 * *[[Magna Veritas]]*
 * *[[Mischief Managed]]*
+* *[[Mission Kid Possible]]*
 * *[[The Nightmare Video Project]]* (2011-2012)
 * *[[One More Night]]*
 * *[[One Small Step]]*
@@ -46,6 +47,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Get
 * *[[Seance]]*
 * *[[Showdown]]*
 * *[[Spirited]]*
+* *[[Stories from around the World]]*
 * *[[Strange Worlds]]*
 * *[[Tall Tales of the High Seas]]*
 * *[[Trust No One]]*
