@@ -24,7 +24,7 @@
 |-
 |January 13, 2019||||
 |-
-|December 9, 2018||Singing 301||
+|December 9, 2018||Singing 301||N/A
 |-
 |November 11, 2018||Singing 601||[[Better Than Dignity]]
 |-
