@@ -3,7 +3,7 @@
 |Years	= 2018 - Present
 |Director	=
 |Picture = typewriter.jpg
-|Cast = {{Unbulleted list | [[Laura Galan Wells]] | [[Denise Hudson]] | [[Chris Casey]] | [[David Lampe]] | [[Brad Hawkins]] | [[Jerrad Lindenmuth]] | [[Zachariah Rollins]] | [[Cindy Brio]]}}
+|Cast = {{Unbulleted list | [[Laura Galan Wells]] | [[Denise Hudson]] | [[Chris Casey]] | [[David Lampe]] | [[Brad Hawkins]] | [[Jerrad Lindenmuth]] | [[Zachariah Rollins]] | [[Cindy Brio]] [[Celise Cisco]] }}
 
 |Tech	=		
 |Crew	=		
