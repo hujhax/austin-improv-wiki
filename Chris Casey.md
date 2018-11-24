@@ -27,6 +27,5 @@ He was inspired to try improv by his kids who also took classes at [[The Hideout
 * *[[Duo Night at Station Theatre]]*
 * *[[All You Need is Love]]*
 * *[[Dual Reality]]*
-
-[[Category/Performers|Casey]]
+* *[[The Threefer]* [[Category - Performers|Casey]]
 [[Category/Photographers|Casey]]
