@@ -2,6 +2,7 @@
 |Name	= AlphaQuest
 |Years	= 2018 - Present
 |Director	=
+|Picture = typewriter.jpg
 |Cast = {{Unbulleted list | [[Laura Galen Wells]] | [[Denise Hudson]] | [[Chris Casey]] | [[David Lampe]] | [[Brad Hawkins]] | [[Jerrad Lindenmuth]] | [[Zachariah Rollins]] | [[Cindy Brio]]}}
 
 |Tech	=		
