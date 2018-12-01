@@ -19,7 +19,7 @@ In 2000, the Austin Audacities defeated the Chicago Jazz in a nail-biting finale
 
 ComedySportz participated in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]]. 
 
-The Austin franchise closed up shop in 2012, but former players Shawn Utterback and Terrill Fischer acquired the license in 2017. Comedy Sportz now performs weekly at Pinball Lakecreek
+The Austin franchise closed up shop in 2012, but former players Shawn Utterback and Terrill Fischer acquired the license in 2017. Comedy Sportz now performs weekly at Zach North.
 
 ## Theaters
 ComedySportz ran in a number of theaters over the course of its existence, including:
