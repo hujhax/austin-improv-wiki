@@ -5,7 +5,7 @@
 |Years	=	2012-Present
 }}
 
-**Katie Doran** is an improv performer.
+**Katie Doran** is an improv and sketch comedy performer and stand-up comedian.
 
 ## Troupes
 * *[[G.O.O.F.S]]*
@@ -28,10 +28,15 @@
 ** ColdTowne: *[[It's Saturday Night!]]*, *[[America -  Have it Your Way]]*, *[[Martini Ranch -  Hidden Valley]]* 
 
 ## Festivals
+BettyFest (JK & Femmes of Martini Ranch),
 Chicago Women's Funny Fest (JK),
 Out of Bounds Comedy Festival (JK & host at The New Movement),
 Houston Improv Festival (History Under the Influence),
 San Francisco Sketch Fest (Martini Ranch)
+
+## Stand Up
+Laugh Out Proud (The Institution, 2017), 
+QueerTowne (ColdTowne)
 
 ## Classes
 The Hideout Levels 1-6 and B-Flat
