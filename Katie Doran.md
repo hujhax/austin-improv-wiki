@@ -28,9 +28,9 @@
 ** ColdTowne: *[[It's Saturday Night!]]*, *[[America -  Have it Your Way]]*, *[[Martini Ranch -  Hidden Valley]]* 
 
 ## Festivals
-Chicago Women's Funny Fest (JK)
-Out of Bounds Comedy Festival (JK & host at The New Movement)
-Houston Improv Festival (History Under the Influence)
+Chicago Women's Funny Fest (JK),
+Out of Bounds Comedy Festival (JK & host at The New Movement),
+Houston Improv Festival (History Under the Influence),
 San Francisco Sketch Fest (Martini Ranch)
 
 ## Classes
