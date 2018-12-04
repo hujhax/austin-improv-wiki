@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Katie Doran	
 |Picture =	Katie Doran Pic.jpg
-|Theater=	[[The Hideout Theatre]]
+|Theater=	[[ColdTowne]]
 |Years	=	2012-Present
 }}
 
