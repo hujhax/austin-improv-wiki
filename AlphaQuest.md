@@ -16,3 +16,6 @@ Laura invited everyone to do a [[Free Fringe]] with the crazy idea of doing the 
 
 ## More Information
 * The troupe's [https://www.facebook.com/alphaquestimprov/ Facebook page.]
+
+## Videos
+[https://www.twitch.tv/videos/345564722 The Threefer] at [[The Hideout]].
