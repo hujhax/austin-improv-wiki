@@ -1,4 +1,4 @@
-**The 2018 Improv Marathon** will be the tenth annual [[Hideout Improv Marathon]].  It will take place from June 22-24, 2018.
+**The 2018 Improv Marathon** was the tenth annual [[Hideout Improv Marathon]].  It took place from June 22-24, 2018.
 
 ## Core Players
 * [[Alex Walker]]
