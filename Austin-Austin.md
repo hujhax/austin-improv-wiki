@@ -22,17 +22,7 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 
 ## Media
 ### Videos
-* [https://vimeo.com/182470630 The Weekender] 
-* [https://vimeo.com/166231438 Dungeon Masters "Acid Dragon"] 04/29/2016
-* [https://vimeo.com/164670808 Dungeon Masters at the Improvised Play Festival] 04/16/2016
-* [https://vimeo.com/155697081 Dungeon Masters debut] 02/12/2016
-* [https://vimeo.com/147039373 WaffleFest ] 11/20/2015
-* [https://vimeo.com/129337041 Pgraph presents] 05/29/2015
-* [https://vimeo.com/128801763 05/2015] in the 2x4
-* [https://vimeo.com/121520980 02/27/2015] in the 2x4 
-* [http://vimeo.com/111062746 11/02/21014 show] in The Weekender
-* [https://vimeo.com/105811931 09/07/2014 show] in The Weekender
-* [http://vimeo.com/90457615 03/27/14 show] at *[[Free Fringe]]*.
+austinandaustin.us/videos
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
