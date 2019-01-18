@@ -16,13 +16,13 @@
 |-
 |May 12, 2019||||
 |-
-|April 14, 2019||||
+|April 14, 2019||ZACH student showcase||
 |-
-|March 3, 2019||||
+|March 3, 2019||{{Unbulleted list|Improv 301|Singing Improv Masterclass}}||N/A
 |-
-|February 10, 2019||||
+|February 10, 2019||Student showcase||[[Nice Jewish Girls]]
 |-
-|January 13, 2019||||
+|January 13, 2019||Student showcase||The Millies
 |-
 |December 9, 2018||Singing 301||N/A
 |-
