@@ -55,7 +55,7 @@
 * *[[Hurly Burly]]* (2014-2017)
 * *[[Improv Anonymous]]* (2014 - )
 * *[[Grimm Noir]]* (2015)
-* ''[https://austinplaybacktheatre.wordpress.com/ "Austin Playback Theatre"] (2015 - )
+* ''[https://austinplaybacktheatre.wordpress.com/ "Austin Playback Theatre"] (2015 - 2018)
 
 ## Scripted Shows
 * *[[Blood, Sweat, and Cheers]]* (Bob Davis 2012)
