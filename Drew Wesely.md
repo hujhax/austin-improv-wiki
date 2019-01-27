@@ -20,11 +20,9 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 ## Active Improv & Sketch Troupes & Comedy Festival Shows
 * [[Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB five times, four times in UCBT's DCM, and Chicago Improv Festival)
 * [[Lucky Billy]] - improv troupe (Performed in UCBT's DCM)
-* [[Delta Force of Venus]] - improv troupe (captain)
 * [[What's the Story, Steve]] - improv and sketchprov troupe (Performed in OOB)
 * [[ColdTowne TourCo]] - (Performed in DCM and NYC's Magnet Theater, and Charleston Improv Festival)
 * *[[TIT Talks]]* - Performed in [[The Moontower Comedy Festival]] and Fun Fun Fun Fest
-
 
 ## Past Improv Troupes
 * [[Unfurled]] - improv troupe (Performed in TCIF, NCCAF, OOB and twice in NOIF)
