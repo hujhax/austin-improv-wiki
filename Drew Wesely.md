@@ -31,6 +31,7 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * [[Kingston]] - improv troupe (captain) 
 * [[Foreign Affairs]] - improv troupe (Cagematch Championship winning team Dec. 2015)
 * [[Who Dack]] - improv troupe (captain)
+* [[Delta Force of Venus]] - improv troupe (captain)
 * [[Stool Pigeon]] - performer
 * [[UpTowne]] - sketch actor/writer
 * [[Lifeboat]] - Cagematch champion
