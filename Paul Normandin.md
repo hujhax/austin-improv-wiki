@@ -56,6 +56,7 @@
 * *[[Improv Anonymous]]* (2014 - )
 * *[[Grimm Noir]]* (2015)
 * ''[https://austinplaybacktheatre.wordpress.com/ "Austin Playback Theatre"] (2015 - 2018)
+* *[[Shattered]]* (2019) 
 
 ## Scripted Shows
 * *[[Blood, Sweat, and Cheers]]* (Bob Davis 2012)
@@ -63,6 +64,7 @@
 * *[[No One Dies in This Story]]* (Paul 2017)
 * *[[Bargainland]]* (Johnny 2017)
 * *[[The Other Side of the Window]]* (Earl 2018)
+* *[[Pagewood]]* (Brother Ken 2019)
 
 ## Festival Producer
 * *[[WaffleFest]]* (2014 - )
@@ -70,7 +72,7 @@
 ## Director of Improv Shows
 * ''[http://wiki.austinimprov.com/wiki/Hideout_Kids Stories from Around the World] Co-Director (2018)
 * ''[[Gone Tomorrow]] Co-Director (2017) 
-* ''[http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run Cochise: Student Mainstage Run] Assistant Director
+* ''[http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run Cochise: Student Mainstage Run] Assistant Director (2014)
 
 ## Improv History
 Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He is a storyteller and has a strong focus on narrative Improv.   
