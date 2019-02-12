@@ -13,9 +13,9 @@ Mary has participated in numerous improv workshops including Narration in Improv
 She participated in [[Rob Yoho]]'s "Directing Improv" and [[Andy Crouch]]'s "Teaching Improv" classes.
 
 ## Troupe
-* [[Nacho Forte]]
-*[[Human People]]
+* [[Ladies Room]]
 *[[Dog Joggers]]
+*[[Human People]]
 
 ## Shows
 * *[[Buzz Band]]*
