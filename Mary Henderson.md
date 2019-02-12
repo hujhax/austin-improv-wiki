@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Mary Henderson	
 |Picture =	Mary.jpg
-|Theater=	[[The Hideout Theatre]]
+|Theater=	[[The Hideout Theatre]] [[ColdTowne Theater]]
 |Years	=	2012-Present
 }}
 
