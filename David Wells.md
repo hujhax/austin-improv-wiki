@@ -11,7 +11,7 @@
 David has studied primarily with [[Merlin Works]].
 
 ## Troupes
-* 
+* *[[Epic]]* (Core cast member, 2017 - present)
 
 ## Shows
 * *[[Epic]]* (2012)
