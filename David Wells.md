@@ -8,7 +8,7 @@
 **David Wells** is an improv performer.
 
 ## History
-David has studied primarily with [[Merlin Works]] and [[The Institution Theater]].
+David has studied primarily with [[Merlin Works]] (Improv 601 graduate, 2012) and [[The Institution Theater]] (Improv 601 graduate, 2018).
 
 ## Troupes
 * *[[Epic]]* (Core cast member, 2017 - present)
