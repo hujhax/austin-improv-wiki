@@ -16,7 +16,7 @@
 |-
 |May 12, 2019||||
 |-
-|April 14, 2019||ZACH student showcase||
+|April 14, 2019||ZACH student showcase||Double-Time
 |-
 |March 3, 2019||{{Unbulleted list|Improv 301|Singing Improv Masterclass}}||N/A
 |-
