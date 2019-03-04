@@ -14,7 +14,7 @@
 |-
 |June 9, 2019||||
 |-
-|May 12, 2019||||
+|May 12, 2019||{{Unbulleted list|Improv 301|Singing 301}}||N/A
 |-
 |April 14, 2019||ZACH student showcase||Double-Time
 |-
