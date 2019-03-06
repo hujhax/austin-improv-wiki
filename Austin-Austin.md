@@ -50,7 +50,9 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 *[https://vimeo.com/128801763 05/15/2015]
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+*[https://www.flickr.com/photos/8820084@N02/sets/72157664821480622/ Dungeon Masters At The Hideout]
+*[http://www.austinandaustin.us/2-27-15-2x4-hideout-theatre/ 2x4 At The Hideout] 
+*[http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## Press/Audition Blurbs
 ***Who Are We? Long Version**
