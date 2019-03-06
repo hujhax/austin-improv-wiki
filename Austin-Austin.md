@@ -34,20 +34,20 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 
 ## Media
 ### Videos
-[https://www.twitch.tv/videos/307243433?t=157m15s 9/7/2018]
-8/29/2018
-8/3/2018
-7/13/2018
-6/28/2018
-4/19/2018
-1/14/2018
-3/5/2017
-4/29/2016
-04/16/2016
-Dungeon Masters Debut 02/12/2016
-Wafflefest 2015
-05/29/2015
-05/15/2015
+*[https://www.twitch.tv/videos/307243433?t=157m15s 9/7/2018]
+*[https://www.twitch.tv/videos/306470904 8/29/2018]
+*[https://www.twitch.tv/videos/298337316 8/3/2018]
+*[https://www.twitch.tv/videos/289265776?t=48m25s 7/13/2018]
+*[https://www.twitch.tv/videos/283241674 6/28/2018]
+*[https://www.twitch.tv/videos/253311805 4/19/2018]
+*[https://www.twitch.tv/videos/219086534 1/14/2018]
+*[https://vimeo.com/211390877 3/5/2017]
+*[https://vimeo.com/166231438 4/29/2016]
+*[https://vimeo.com/164670808 04/16/2016]
+*[https://vimeo.com/155697081 Dungeon Masters Debut 02/12/2016]
+*[https://vimeo.com/147039373 Wafflefest 2015]
+*[https://vimeo.com/129337041 05/29/2015]
+*[https://vimeo.com/128801763 05/15/2015]
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
