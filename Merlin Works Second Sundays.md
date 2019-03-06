@@ -12,6 +12,10 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
+|July 14, 2019||||
+|-
+|August 11, 2019||||
+|-
 |June 9, 2019||||
 |-
 |May 12, 2019||{{Unbulleted list|Improv 301|Singing 301}}||N/A
