@@ -20,9 +20,34 @@ A nautical narrative opening with an actual maritime chanty before pulling an in
 #### Two Lost Brothers
 More grounded narrative in which Ryan and Quinn play two brothers that become lost in a place decided at the top of the show. Potentially a mono-scene depending on if the brothers are forced to split up. To grab the suggestion they inverse the classic "audience yells out something and the troupe picks something they like" standard for Ryan rambling off locations that they haven't been to yet and the audience picking what they like.
 
+## Festivals
+2015 – The Out of Bounds Comedy Festival
+2015 – Fronterra Fest
+2016 – Improvised Play Festival
+2016 – DÜOFEST
+2016 – Improvaganza (Edmonton)
+2016 – The Out of Bounds Comedy Festival
+2017 – Improvised Play Festival
+2017 – The Out of Bounds Comedy Festival
+2018 - The Out of Bounds Comedy Festival
+2019 - Improvised Play Festival
+
 ## Media
 ### Videos
-austinandaustin.us/videos
+[https://www.twitch.tv/videos/307243433?t=157m15s 9/7/2018]
+8/29/2018
+8/3/2018
+7/13/2018
+6/28/2018
+4/19/2018
+1/14/2018
+3/5/2017
+4/29/2016
+04/16/2016
+Dungeon Masters Debut 02/12/2016
+Wafflefest 2015
+05/29/2015
+05/15/2015
 
 ### Photos
 * [http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
