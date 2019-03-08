@@ -273,7 +273,18 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |Oct 2018||*[[Meat Cute]]*||[[Monica Martinez Maher]], [[Ryan Austin]]
 |-
 |Dec 2018||*[[Holiday Party Disaster]]*||[[Jessica Arjet]], [[Andreas Fabis]]
-
+|-
+|Feb 2019||*[[Small Town Girl]]*||[[Monica Mahertinez]], [[Rachel Creason]]
+|-
+|Apr 2019||*[[Silly Love Songs]]*||[[Aspen Webster]], [[Casey Marie]]
+|-
+|Jun 2019||*[[Dystopian Teen Future]]*||[[Frank Sánchez]], [[Jess von Schramm]]
+|-
+|Aug 2019||*[[The Big '80s Dance Musical]]*||[[Mallory Schlossberg]]
+|-
+|Oct 2019||*[[Real Supernatural]]*||[[Caeriel Crestin]]
+|-
+|Dec 2019||*[[Murder Most Cozy]]*||[[Valerie Ward]]
 |}
 
 ## More Information
