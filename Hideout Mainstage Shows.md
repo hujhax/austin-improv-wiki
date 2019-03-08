@@ -83,7 +83,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |-
 |Nov 2009||Dec 2009||*[[Charles Dickens Unleashed]]*||[[Jessica Arjet]], [[Kaci Beeler]]
 |-
-|Jan 2010||Feb 2010||*[[Austin Secrets]]*||[[Roy Janik]]
+|colspan="2" style="text-align: center;"| Apr 2019||*[[Austin Secrets]]*||[[Roy Janik]]
 |-
 |Mar 2010||Apr 2010||*[[Hitchcocked!]]*||[[Sean Hill]], [[Troy Miller]]
 |-
@@ -193,7 +193,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |-
 |Jan 2019||Feb 2019||*[[Grand Mis&eacute;ry]]*||[[Mallory Schlossberg]], [[Margaret Hunsicker]]
 |-
-|Apr 2019||*[[Austin Secrets]]*||[[Roy Janik]]
+|colspan="2" style="text-align: center;"| Apr 2019||*[[Austin Secrets]]*||[[Roy Janik]]
 |-
 |May 2019||Jun 2019||*[[Harriet and Adanna Save Capitol High]]*||[[Kaci Beeler]], [[Margaret Hunsicker]]
 |-
