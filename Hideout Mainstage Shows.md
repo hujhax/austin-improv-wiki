@@ -192,6 +192,16 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |Nov 2018||Dec 2018||*[[Harry Potter and the Blank Stage]]*||[[Caeriel Crestin]]
 |-
 |Jan 2019||Feb 2019||*[[Grand Mis&eacute;ry]]*||[[Mallory Schlossberg]], [[Margaret Hunsicker]]
+|-
+|Apr 2019||*[[Austin Secrets]]*||[[Roy Janik]]
+|-
+|May 2019||Jun 2019||*[[Harriet and Adanna Save Capitol High]]*||[[Kaci Beeler]], [[Margaret Hunsicker]]
+|-
+|Jul 2019||Aug 2019||*[[The Instant Movie Project]]*||[[J. R. Zambrano]], [[Roy Janik]]
+|-
+|Sep 2019||Oct 2019||*[[Circus of the Damned]]*||[[Aaron Saenz]], [[Jessica Arjet]]
+|-
+|Nov 2019||Dec 2019||*[[The Hallmark Holiday Musical]]*||[[Rachel Creason]], [[Monica Mahertinez]]
 |}
 
 ## Student Mainstage Shows
