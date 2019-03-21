@@ -1,10 +1,10 @@
 {{Infobox Performer
-|Name	=	Jeanette Jones
+|Name	=	Jeanette Bozied
 |Picture =	Jeanette Jones Pic.jpg
 |Years	=	2011-Present
 }}
 
-**Jeanette Jones** is an improv performer.
+**Jeanette Bozied** (formerly Jeanette Jones) is an improv performer.
 
 ## History
 Jeanette trained at [[The Institution Theater]].
