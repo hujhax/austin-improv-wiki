@@ -1,8 +1,8 @@
 {{Infobox Troupe
 |Name	=	The Library
 |Picture =     The Library.jpg
-|Cast	=	{{Unbulleted list | | [[Justin Davis]] | [[Jeanette Jones]] | [[Kacey Samiee]] | [[Marc Majcher]] | [[Nicole Beckley]] }}
-|Director = [[Justin Davis]]
+|Cast	=	{{Unbulleted list | | [[Justin Bozied]] | [[Jeanette Bozied]] | [[Kacey Samiee]] | [[Marc Majcher]] | [[Nicole Beckley]] }}
+|Director = [[Justin Bozied]]
 |Years	=		2012-Present
 }}
 
