@@ -1,9 +1,9 @@
 {{Infobox Troupe
 |Name	=		The Professor
 |Picture	=	The Professor.jpg
-|Cast	=	{{Unbulleted list | [[Andrew Pish]] | [[Bridget Brewer]] | [[Clay Towery]] | [[Colin Bates]] | [[Emily Breedlove]] | [[Jeff Britt]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Karen Jane DeWitt]] | [[Katie Thornton]] | [[Kayla Lane Freeman]] | [[Lacy Shawn]] | [[Lindsey Reeves]] | [[Michael Ferstenfeld]] | [[Mike Nystul]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Ryan Austin]] | [[Steve Harwood]] }}
+|Cast	=	{{Unbulleted list | [[Andrew Pish]] | [[Bridget Brewer]] | [[Clay Towery]] | [[Colin Bates]] | [[Emily Breedlove]] | [[Jeff Britt]] | [[Jordan T. Maxwell]] | [[Justin Bozied]] | [[Karen Jane DeWitt]] | [[Katie Thornton]] | [[Kayla Lane Freeman]] | [[Lacy Shawn]] | [[Lindsey Reeves]] | [[Michael Ferstenfeld]] | [[Mike Nystul]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Ryan Austin]] | [[Steve Harwood]] }}
 |Tech = [[Michael Yew]]
-|Director = {{Unbulleted list | [[Justin Davis]] (2011-2012) | [[Michael Ferstenfeld]] (2013-Present) }}
+|Director = {{Unbulleted list | [[Justin Bozied]] (2011-2012) | [[Michael Ferstenfeld]] (2013-Present) }}
 |Years	=		2011-Present
 }}
 
@@ -17,11 +17,11 @@ In the first two seasons, no scenes ever occurred in TARDIS.  Onstage, the exit 
 Typically, one actor plays the Professor for a contiguous run of shows, with different actors playing (pre-determined) "companion" characters (or, in rare cases, pairs of companions) from week to week.
 
 ## History
-Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community.[http://forum.austinimprov.com/viewtopic.php?f=4&t=11329]  In June 2011, [[Justin Davis]] posted a facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[The Threefer]], and played an 8pm show at the Hideout two days later.
+Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community.[http://forum.austinimprov.com/viewtopic.php?f=4&t=11329]  In June 2011, [[Justin Bozied]] posted a Facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[The Threefer]], and played an 8pm show at the Hideout two days later.
 
 Its first full run was a six-week set of Friday shows at [[The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Salvage Vanguard Theater]] (produced by [[Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[The TV Set]]* in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738]
 
-At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 2013, [[Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613].  For their third run in late 2013, Ferstenfeld incorporated scene-painting, the interior of the T.A.R.D.I.S., voice modulation, and homemade robots, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.
+At the end of 2012, [[Justin Bozied]] stepped down as director.  At the start of 2013, [[Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613].  For their third run in late 2013, Ferstenfeld incorporated scene-painting, the interior of the T.A.R.D.I.S., voice modulation, and homemade robots, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.
 
 ## Casts
 ### "Season Zero"
@@ -29,7 +29,7 @@ At the end of 2012, [[Justin Davis]] stepped down as director.  At the start of 
 The first two test shows in June 2011 featured [[Jordan T. Maxwell]] as the First Professor.
 
 * [[Jordan T. Maxwell]]
-* [[Justin Davis]]
+* [[Justin Bozied]]
 * [[Karen Jane DeWitt]]
 * [[Katie Thornton]]
 * [[Mike Nystul]]
@@ -130,7 +130,7 @@ The run featured tech by [[Michael Yew]].
 * [http://forum.austinimprov.com/viewtopic.php?p=110925 Cast announcement for season one.]
 * [http://forum.austinimprov.com/viewtopic.php?t=12879 Cast announcement for season two.]
 * [http://forum.austinimprov.com/viewtopic.php?t=13189 Show announcement for season two.]
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041810 2012 Interview] with director [[Justin Davis]] and cast members [[Ryan Austin]], [[Emily Breedlove]], [[Colin Thomas Bates]], and [[Peter Rogers]]. on *[[The Theft Forum]]*.
+* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041810 2012 Interview] with director [[Justin Bozied]] and cast members [[Ryan Austin]], [[Emily Breedlove]], [[Colin Thomas Bates]], and [[Peter Rogers]]. on *[[The Theft Forum]]*.
 * [http://www.tor.com/blogs/2012/04/time-and-relative-dimensions-in-improv-the-professor A 2012 Tor.com blog story about season two.]
 * [http://www.facebook.com/events/1424792731066029/ Facebook event for the third season.]
 
