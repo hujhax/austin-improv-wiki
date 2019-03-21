@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Je Ju
 |Picture	=	Je Ju.jpg
-|Cast	=	{{ Unbulleted list | [[Jeanette Jones]] | [[Justin Davis]] }}
+|Cast	=	{{ Unbulleted list | [[Jeanette Jones]] | [[Justin Bozied]] }}
 |Years	=		2014-Present
 }}
 
