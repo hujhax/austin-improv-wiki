@@ -9,9 +9,9 @@
 
 ## Troupes
 * [[Je Ju]]
-* [[Century]]
 * [[The Library]]
 * [[The Professor]] (creator, director, 2011-2012)
+* [[Century]]
 * [[The Starter Kit]]
 * [[The Asides]]
 * [[Mr. Rather]]
