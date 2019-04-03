@@ -16,7 +16,7 @@
 |-
 |July 14, 2019||||
 |-
-|June 9, 2019||||
+|June 9, 2019||||Double-Time
 |-
 |May 12, 2019||{{Unbulleted list|Improv 301|Singing 301}}||N/A
 |-
