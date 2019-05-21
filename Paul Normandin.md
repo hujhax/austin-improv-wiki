@@ -81,17 +81,17 @@ Paul completed classes at [[The Hideout Theatre]] with his friend and classmate,
 
 Other classmates included [[Brad Hawkins]], [[Chad Wellington]], [[Katherine Greco]], and [[Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
 
-Paul conceived of and started the grounded, narrative troupe [[In Our Prime]] in 2011 with [[Gloria Rabil-Bankler]], [[Ryan Hill]], and [[Jessica Arjet]].
+Paul conceived of and started a dramedy focused troupe [[In Our Prime]] in 2011 with [[Gloria Rabil-Bankler]], [[Ryan Hill]], and [[Jessica Arjet]].
 
 Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[We're Here to Date Your Daughter]] founded in 2012. 
 
-He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, and Little House on the Alien Praire.
+He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, and Little House on the Alien Prairie.
 
-Paul is a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Ryan Hill]] on guitar at [[FronteraFest]]. Paul won the [http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf "2017 Texas Storytelling Festival StorySlam"] in March.
+Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Ryan Hill]] on guitar at [[FronteraFest]]. Paul won the [http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf "2017 Texas Storytelling Festival StorySlam"] in March.
 
-Paul was a teaching assistant at [[The Hideout Theatre]] in 2013. Paul has been the producer of [[The Hideout Theatre]] annual [[WaffleFest]] since 2014. 
+Paul was a teaching assistant at [[The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[The Hideout Theatre]]'s annual [[WaffleFest]] from 2014 to 2018. 
 
-By day Paul is a Senior Advisor for the State of Texas with an emphasis on Projects and Planning. Paul is a Project Management Institute certified Project Management Professional. 
+Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul teaches Improv and Storytelling classes and workshops. In his spare time, he lives to play [http://https://austinultimate.org/ "Ultimate"], run [https://en.wikipedia.org/wiki/Firefly_Role-Playing_Game "Firefly Role Playing Game"] Campaigns, and write.
 
 ## More Information
 * [http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/ "In Praise Of..." post] by [[Mia Iseman]].
