@@ -67,7 +67,7 @@
 * *[[Pagewood]]* (Brother Ken 2019)
 
 ## Festival Producer
-* *[[WaffleFest]]* (2014 - )
+* *[[WaffleFest]]* (2014 - 2018)
 
 ## Director of Improv Shows
 * ''[http://wiki.austinimprov.com/wiki/Hideout_Kids Stories from Around the World] Co-Director (2018)
