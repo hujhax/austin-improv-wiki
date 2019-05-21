@@ -31,11 +31,14 @@
 * *[https://vimeo.com/203635641 The Moth Houston StorySlam Winner]* (2016)
 * *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writer's Roulette]* (2017) 
 * *Testify Austin Performer and Producer* (2016 - )
-* *Austin No Shame Theatre Performer - Backup Host* (2011 - 2016)
+* *Austin No Shame Theatre Performer - Occasional Host* (2011 - 2016)
 * *Story Department Performer*
 * *Backyard Story Night Performer*
 * *Hyde Park Story Telling Performer*
 * *Beyond Our Backyard Storytelling Performer*
+* *The Living Room Performer*
+* *The Listening Room Performer*
+* *[https://www.facebook.com/DWTSAustinStorytellingSalon/ Drinking with the Saints Performer and Producer]* (2018 -)
 
 ## Improv Troupes
 * [[Apocalypse (troupe)|Apocalypse]] (2012)
