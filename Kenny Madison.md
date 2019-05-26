@@ -11,7 +11,7 @@
 ## Bio
 Kenny "The Tank" Madison was born in Tulsa, Oklahoma, raised in Sand Springs, Oklahoma, and went to school in Norman, Oklahoma, which logically places him in Austin, TX. Much to your surprise, he started improv in Oklahoma in 2008, where he was a player, then a coach, then an artistic director, then a friend. Since moving to Austin, Kenny has done regular shows at the Institution, Hideout, and ColdTowne Theaters, ranging from Junior Cast Member to Show Director. 
 
-Kenny started performing at a very young age. Growing up on a steady diet of coleslaw and television he utilized a lot of influences and created a unique, fast-paced voice for himself. A lot of this stems from watching classic sitcoms in grade school like Roseanne, the Simpsons, and anything on the Fox News Netwok, then becoming a snob in high school, watching The Office, Parks and Recreation, and basically the Thursday night line-up on NBC. In college, he put that voice into practice through improv and short film work.
+Kenny started performing at a very young age. Growing up on a steady diet of coleslaw and television he utilized a lot of influences and created a unique, fast-paced voice for himself. A lot of this stems from watching classic sitcoms in grade school like Roseanne, the Simpsons, then becoming a snob in high school, watching The Office, Parks and Recreation, and basically the Thursday night line-up on NBC. In college, he put that voice into practice through improv and short film work.
 
 Kenny has worked with with Jill Bernard, Joe Bill, Jimmy Carrane, and a whole mess of other people. Already, this seems too name droppy, but he wants you to realize how important he is. It's not just for show, people really like him. 
 
