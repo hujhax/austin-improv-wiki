@@ -1,1 +1,1 @@
-Sam Malcolm is considered by many to be the finest improviser in all of Austin. One time he improvised his way into a presidential motorcade while doing spacework driving in his chair. He and Obama did a Harold on July 4th, 2012.
+Sam Malcolm is a member of Movie Riot.
