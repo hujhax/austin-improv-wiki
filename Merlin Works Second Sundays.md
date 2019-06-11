@@ -12,7 +12,7 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
-|August 11, 2019||||
+|August 11, 2019||N/A||{{Unbulleted list|Double-Time|Helmet Thieves}}
 |-
 |July 14, 2019||{{Unbulleted list|Singing 301|Singing 401}}||N/A
 |-
