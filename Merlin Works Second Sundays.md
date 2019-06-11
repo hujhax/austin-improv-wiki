@@ -14,7 +14,7 @@
 |-
 |August 11, 2019||||
 |-
-|July 14, 2019||||
+|July 14, 2019||{{Unbulleted list|Singing 301|Singing 401}}||N/A
 |-
 |June 9, 2019||N/A||{{Unbulleted list|Double-Time|Hometown}}
 |-
