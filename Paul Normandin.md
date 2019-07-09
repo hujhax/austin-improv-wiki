@@ -29,7 +29,8 @@
 * *RISK! Live Austin Performer* (2013 & 2017)
 * *[https://vimeo.com/162883820 The Moth Houston StorySlam Winner]* (2015)
 * *[https://vimeo.com/203635641 The Moth Houston StorySlam Winner]* (2016)
-* *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writer's Roulette]* (2017) 
+* *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writer's Roulette]* (2017)
+* *[https://www.youtube.com/watch?v=yooafBC8B9k Austin Writer's Roulette]* (2019) Fiction 
 * *Testify Austin Performer and Producer* (2016 - )
 * *Austin No Shame Theatre Performer - Occasional Host* (2011 - 2016)
 * *Story Department Performer*
@@ -38,7 +39,7 @@
 * *Beyond Our Backyard Storytelling Performer*
 * *The Living Room Performer*
 * *The Listening Room Performer*
-* *[https://www.facebook.com/DWTSAustinStorytellingSalon/ Drinking with the Saints Performer and Producer]* (2018 -)
+* *[https://www.facebook.com/DWTSAustinStorytellingSalon/ Drinking with the Saints Performer, Host, and Producer]* (2018 -)
 
 ## Improv Troupes
 * [[Apocalypse (troupe)|Apocalypse]] (2012)
