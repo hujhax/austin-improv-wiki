@@ -12,6 +12,30 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
+|August 9, 2020||||
+|-
+|July 12, 2020||||
+|-
+|June 14, 2020||||
+|-
+|May 10, 2020||||
+|-
+|April 12, 2020||||
+|-
+|March 8, 2020||||
+|-
+|February 9, 2020||||
+|-
+|January 12, 2020||||
+|-
+|December 8, 2019||||
+|-
+|November 10, 2019||||
+|-
+|October 20, 2019||{{Unbulleted list|Improv 301|Singing 401|Singing 501}}||N/A
+|-
+|September 8, 2019||N/A||
+|-
 |August 11, 2019||N/A||{{Unbulleted list|Double-Time|Helmet Thieves}}
 |-
 |July 14, 2019||{{Unbulleted list|Singing 301|Singing 401}}||N/A
