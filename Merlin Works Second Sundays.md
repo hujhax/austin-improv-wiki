@@ -30,7 +30,7 @@
 |-
 |December 8, 2019||||
 |-
-|November 10, 2019||Double-Time||Rook
+|November 10, 2019||N/A||{{Unbulleted list|Double-Time|Rook}}
 |-
 |October 20, 2019||{{Unbulleted list|Improv 301|Singing 401|Singing 501}}||N/A
 |-
