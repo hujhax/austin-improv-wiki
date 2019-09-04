@@ -20,9 +20,9 @@
 |-
 |May 10, 2020||||
 |-
-|April 12, 2020||||ZACH elementary troupe
+|April 12, 2020||||
 |-
-|March 8, 2020||||ZACH high-school troupe
+|March 8, 2020||N/A||{{Unbulleted list|ZACH elementary troupe|ZACH high-school troupe}}
 |-
 |February 9, 2020||||
 |-
