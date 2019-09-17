@@ -35,6 +35,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 ! 2016
 ! 2017
 ! 2018
+! 2019
 |-
 | [[Andy Crouch]]
 | [[Bill Stern]]
@@ -123,6 +124,15 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | [[Ryan Hill]]
 | [[Yamina Khouane]]
 | [[Tyler Groce]]
+|-
+| style="font-weight: bold;" | [[Lisa Jackson]]
+| style="font-weight: bold;" | [[Jordan T. Maxwell]]
+| [[Caeriel Crestin]]
+| [[Monica Martinez Maher]]
+| [[Megan Sherrod]]
+| [[Frank Sánchez]]
+| [[Jessica von Schramm]]
+| Michael Yichao
 |}
 
 ## More Information
