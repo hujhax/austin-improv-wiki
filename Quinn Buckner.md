@@ -73,14 +73,16 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 *2016 - DuoFest - [[Austin-Austin]]
 *2016 - Improvaganza (Edmonton) - [[Austin-Austin]]
 *2016 - [[The Out of Bounds Comedy Festival]] - [[Austin-Austin]]
-*2016 - Wafflefest  - [[Austin-Austin]]
+*2016 - [[WaffleFest]]  - [[Austin-Austin]]
 *2017 - [[Improvised Play Festival]] - [[Austin-Austin]]
 *2017 - [[The Out of Bounds Comedy Festival]] - [[Austin-Austin]], All-Star Maestro
 *2017 - Vancouver International Improv Festival - International Ensemble
-*2017 - Wafflefest - [[Austin-Austin]]
+*2017 - [[WaffleFest]] - [[Austin-Austin]]
+*2018 - [[Improvised Play Festival]] - [[Twins]]
 *2018 - Seattle International Improv Festival - Ensemble
 *2018 - [[The Out of Bounds Comedy Festival]] - [[Bric-a-Brac]], [[Austin-Austin]]
 *2018 - Vancouver International Improv Festival - Ensemble
+*2018 - [[WaffleFest]] - [[Twins]]
 *2019 - [[Improvised Play Festival]] - [[Twins]]
 *2019 - [[I Love Love]] - Ensemble
 *2019 - [[The Out of Bounds Comedy Festival]] - [[Bric-a-Brac]], [[Twins]], [[Super Black]]
