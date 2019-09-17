@@ -5,7 +5,7 @@
 |Years	=	2014-Present
 }}
 
-**Megan Sherrod** is an improv performer and opera singer.
+**Megan Sherrod** is an improv performer, teacher, and opera singer.
 
 ## Summary
 Megan Sherrod is a classically trained mezzo soprano and improv performer.  She holds a Bachelor of Music in Voice Performance from [[Wikipedia - Oklahoma City University|Oklahoma City University]] and Master of Music in Voice Performance from the [[Wikipedia - University of North Texas|University of North Texas]].  She has extensive performance experience in opera, operetta, and musical theatre.
