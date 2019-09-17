@@ -47,6 +47,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | [[Ace Manning]]
 | [[Craig Kotfas]]
 | [[Alex Walker]]
+| Michael Yichao
 |-
 | [[Caitlin Sweetlamb]]
 | style="font-weight: bold;" | [[Curtis Luciani]]
@@ -58,6 +59,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | style="font-weight: bold;" | [[Caitlin Sweetlamb]]
 | [[J.R. Zambrano]]
 | style="font-weight: bold;" | [[Chuy Zarate]]
+| style="font-weight: bold;" | [[Lisa Jackson]]
 |-
 | [[Curtis Luciani]]
 | [[Jessica Arjet]]
@@ -69,6 +71,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | [[Chuy Zarate]]
 | style="font-weight: bold;" | [[Katie Dahm]]
 | style="font-weight: bold;" | [[Courtney Hopkin]]
+| style="font-weight: bold;" | [[Jordan T. Maxwell]]
 |-
 | [[Jeremy Sweetlamb]]
 | style="font-weight: bold;" | [[Kaci Beeler]]
@@ -80,6 +83,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | style="font-weight: bold;" | [[Jeremy Sweetlamb]]
 | [[Margaret Rose Hunsicker]]
 | style="font-weight: bold;" | [[Eric Heiberg]]
+| [[Caeriel Crestin]]
 |-
 | [[Kaci Beeler]]
 | [[Marc Majcher]]
@@ -91,6 +95,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | style="font-weight: bold;" | [[Jessica Arjet]]
 | Patti Stiles
 | [[Linzy Beltran]]
+| [[Monica Martinez Maher]]
 |-
 | [[Kareem Badr]]
 | [[Meghan Wolff]]
@@ -102,6 +107,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | Katie Hartman
 | [[Rob Yoho]]
 | [[Patrick Creamer]]
+| [[Frank Sánchez]]
 |-
 | [[Matt Pollock]]
 | [[Roy Janik]]
@@ -113,6 +119,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | [[Rachel Austin]]
 | [[Ryan Austin]]
 | [[Shannon Stott]]
+| [[Megan Sherrod]]
 |-
 | [[Troy Miller]]
 | [[Valerie Ward]]
@@ -124,15 +131,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | [[Ryan Hill]]
 | [[Yamina Khouane]]
 | [[Tyler Groce]]
-|-
-| style="font-weight: bold;" | [[Lisa Jackson]]
-| style="font-weight: bold;" | [[Jordan T. Maxwell]]
-| [[Caeriel Crestin]]
-| [[Monica Martinez Maher]]
-| [[Megan Sherrod]]
-| [[Frank Sánchez]]
 | [[Jessica von Schramm]]
-| Michael Yichao
 |}
 
 ## More Information
