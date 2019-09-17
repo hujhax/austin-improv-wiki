@@ -41,7 +41,11 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * *[[Austin Secrets]]*
 * *[[I'll Take the Physical Challenge]]*
 * *[[Peter Pan and the Great Unknown]]*
+* *[[The Gauntlet]]*
+* *[[Improv Fantasy League]]* 
 * *[[Dance Dreams]]*
+* *[[Home for the Holidays]]*
+* *[[Missed Connections]]*
 * *[[Super Black]]*
 * *[[Angola]]*
 * *[[The Hallmark Holiday Musical]]*
