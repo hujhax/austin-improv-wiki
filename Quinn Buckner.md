@@ -42,6 +42,9 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * *[[I'll Take the Physical Challenge]]*
 **[[Peter Pan and the Great Unknown]]*
 **[[Dance Dreams]]*
+*"[[Super Black]]"
+*"[[Angola]]"
+*"[[The Hallmark Holiday Musical]]"
 
 ## Festivals
 *2010 - [[The Out of Bounds Comedy Festival]] - [[Anticdotes]], *[[Guilds of Steel]]*
