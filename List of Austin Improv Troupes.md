@@ -90,7 +90,6 @@ These are troupes that still need pages created for them.
 * [[H.U.G.S]]
 * [[Handbomb]]
 * [[Hank and Tony]]
-* [[Har-D-Har Improv]]
 * [[Hot Glue]]
 * [[Hugaday]]
 * [[Hyde Park Homeschoolers]]
