@@ -1,7 +1,6 @@
 {{Infobox Troupe
 |Name	=	Har-D-Har Improv
 |Cast	=	Semester to Yearly Rotating Cast
-|Picture   =      Har-D-Har Logo
 
 |Years	=		2016-Present
 }}
