@@ -59,7 +59,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[Documentary Later -  The Doc Web]]*
 * *[[Old Love (an improvised comedy)]]*
 * *[[One Hour Til Air]]*
-* *[[#StarringYallWeAsian]]*
+* *[[StarringYallWeAsian]]*
 * *[[The Rose -  Trouble in Paradise]]*
 * *[[Way Down in the Hole]]*
 * *[[Angola (a comedy)]]*
