@@ -12,7 +12,7 @@ This **List of [[ColdTowne Theater]] Shows** is designed to be transcluded into 
 
 ### Mainstage Productions
 In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.
-#### Sketch Revues
+#### Sketch Shows
 * *[[After School Special Victims Unit]]*
 * *[[Cereal for Adults]]*
 * *[[Eye for an iPhone]]*
