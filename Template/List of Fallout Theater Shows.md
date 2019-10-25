@@ -23,7 +23,12 @@ This **List of [[Fallout Theater]] Shows** is designed to be transcluded into an
 
 ### Mainstage Productions
 In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.
-
+* *[[Hail to the Queen]]*
+* *[[Super Black]]*
+* *[[Funny Ladies of Wrestling (FLOW)]]*
+* *[[Terminator -  The Musical]]*
+* *[[Psychosphere]]*
+* *[[Clone Squad]]*
 
 ### Inactive Teams/Past Shows
 #### Themed Troupe Shows
