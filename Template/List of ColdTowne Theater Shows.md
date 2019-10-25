@@ -17,6 +17,16 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[Cereal for Adults]]*
 * *[[Eye for an iPhone]]*
 * *[[Shanty Town Lake]]*
+* *[[This is (Not) the Gayest Show You'll Ever See]]*
+* *[[Martini Ranch Presents -  Queer & Now]]*
+* *[[Sidequest]]*
+* *[[Matini Ranch -  Hidden Valley]]*
+* *[[Pendulum Presents -  The Ascendant]]*
+* *[[The Roast of St. Nick]]*
+* *[[Pendulum Presents -  Class War]]*
+* *[[Prayer Circle Presents -  Holy Shit]]*
+* *[[Evening with Chlane]]*
+* *[[Liz Behan -  One Woman at Dusk]]*
 
 #### Improv Shows
 * *[[Beware of Female Spies]]*
