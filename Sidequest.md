@@ -8,7 +8,7 @@
 |Run	=	TBD
 }}
 
-***Sidequest*** was a mainstage improv show about XXX. 
+***Sidequest*** was a mainstage sketch show about XXX. 
 
 ## Summary
 XXX
