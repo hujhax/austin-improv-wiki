@@ -197,7 +197,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |-
 |May 2019||Jun 2019||*[[Harriet and Adanna Save Capitol High]]*||[[Kaci Beeler]], [[Margaret Hunsicker]]
 |-
-|Jul 2019||Aug 2019||*[[The Instant Movie Project]]*||[[J. R. Zambrano]], [[Roy Janik]]
+|Jul 2019||Aug 2019||*[[Make It So]]*||[[Cat Drago]], [[Ace Manning]]
 |-
 |Sep 2019||Oct 2019||*[[Circus of the Damned]]*||[[Aaron Saenz]], [[Jessica Arjet]]
 |-
