@@ -20,7 +20,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[This is (Not) the Gayest Show You'll Ever See]]*
 * *[[Martini Ranch Presents -  Queer & Now]]*
 * *[[Sidequest]]*
-* *[[Ma4tini Ranch -  Hidden Valley]]*
+* *[[Martini Ranch -  Hidden Valley]]*
 * *[[Pendulum Presents -  The Ascendant]]*
 * *[[The Roast of St. Nick]]*
 * *[[Pendulum Presents -  Class War]]*
