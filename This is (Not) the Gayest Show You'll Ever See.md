@@ -8,7 +8,7 @@
 |Run	=	TBD
 }}
 
-***This is (Not) the Gayest Show You'll Ever See*** was a mainstage improv show about XXX. 
+***This is (Not) the Gayest Show You'll Ever See*** was a mainstage sketch show about XXX. 
 
 ## Summary
 XXX
