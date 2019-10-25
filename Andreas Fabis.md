@@ -25,6 +25,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Get
 * *[[Adventure PhD]]*
 * *[[Apocalypse! (show)|Apocalypse!]]*
 * *[[The Black Vault]]*
+* *[[Circus of the Damned]]*
 * *[[Crack!]]*
 * *[[The Derby]]*
 * *[[Dusk]]*
