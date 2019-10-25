@@ -280,9 +280,9 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |-
 |Jun 2019||*[[Dystopian Teen Future]]*||[[Frank Sánchez]], [[Jess von Schramm]]
 |-
-|Aug 2019||*[[The Big '80s Dance Musical]]*||[[Mallory Schlossberg]]
+|Aug 2019||*[[That! Big! 80s! Musical!]]*||[[Mallory Schlossberg]]
 |-
-|Oct 2019||*[[Real Supernatural]]*||[[Caeriel Crestin]]
+|Oct 2019||*[[What They Do in the Darkness]]*||[[Caeriel Crestin]]
 |-
 |Dec 2019||*[[Murder Most Cozy]]*||[[Valerie Ward]]
 |}
