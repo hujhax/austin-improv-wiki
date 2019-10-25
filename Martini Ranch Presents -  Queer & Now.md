@@ -8,7 +8,7 @@
 |Run	=	TBD
 }}
 
-***Martini Ranch Presents: Queer & Now*** was a mainstage improv show about XXX. 
+***Martini Ranch Presents: Queer & Now*** was a mainstage sketch show about XXX. 
 
 ## Summary
 XXX
