@@ -28,7 +28,7 @@
 |-
 |January 12, 2020||||
 |-
-|December 8, 2019||||
+|December 8, 2019||Singing 601||Echo Formal Gecko
 |-
 |November 10, 2019||N/A||{{Unbulleted list|Double-Time|Rook}}
 |-
