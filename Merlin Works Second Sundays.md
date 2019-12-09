@@ -26,7 +26,7 @@
 |-
 |February 9, 2020||||
 |-
-|January 12, 2020||||
+|January 12, 2020||N/A||{{Unbulleted list|Double-Time|Coach Rookard Teaches Improv}}
 |-
 |December 8, 2019||Singing 601||Echo Formal Gecko
 |-
