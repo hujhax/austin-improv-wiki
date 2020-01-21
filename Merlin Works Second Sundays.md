@@ -22,9 +22,9 @@
 |-
 |April 12, 2020||||
 |-
-|March 8, 2020||N/A||{{Unbulleted list|ZACH elementary troupe|ZACH high-school troupe}}
+|March 8, 2020||N/A||{{Unbulleted list|Get Up|ZACH elementary troupe|ZACH high-school troupe}}
 |-
-|February 9, 2020||||
+|February 9, 2020||N/A||{{Unbulleted list|Double-Time|S'Nailed It}}
 |-
 |January 12, 2020||N/A||{{Unbulleted list|Double-Time|Coach Rookard Teaches Improv}}
 |-
