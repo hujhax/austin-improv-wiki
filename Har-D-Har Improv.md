@@ -23,7 +23,6 @@ Har-D-Har's first show was in May of 2017, with the Fall of 2017 starting their 
 *[[Jared Henneberger]]
 *[[Adrianna Ellis]]
 *[[Grant Miller]]
-*[[Tabitha Kaiser]]
 *[[Austin Veach]]
 *[[Christopher Battey]]
 *[[Kat Abraham]]
@@ -35,9 +34,12 @@ Har-D-Har's first show was in May of 2017, with the Fall of 2017 starting their 
 *[[Morgan Hill]]
 *[[Rachel Elfezouaty]]
 *[[Christopher Lee]]
-*[[Micah Baker]]
 *[[Kaylyn Pederson]]
 *[[Corwin Rios]]
+*[[Aulona Begaj]]
+*[[Nathan Jackson]]
+*[[Jacob Rodriguez]]
+*[[Allen Wu]]
 
 ## Original Cast
 *[[Dan Voinis]]
