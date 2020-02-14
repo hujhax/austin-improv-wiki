@@ -20,9 +20,9 @@
 |-
 |May 10, 2020||||
 |-
-|April 12, 2020||||
+|April 12, 2020||||Get Up
 |-
-|March 8, 2020||N/A||{{Unbulleted list|Get Up|ZACH elementary troupe|ZACH high-school troupe}}
+|March 8, 2020||{{Unbulleted list|Improv 301|Improv 401}}||N/A
 |-
 |February 9, 2020||N/A||{{Unbulleted list|Double-Time|S'Nailed It}}
 |-
