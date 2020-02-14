@@ -20,7 +20,7 @@
 |-
 |May 10, 2020||||
 |-
-|April 12, 2020||||Get Up
+|April 12, 2020||N/A||{{Unbulleted list|Get Up|Edge Control}}
 |-
 |March 8, 2020||{{Unbulleted list|Improv 301|Improv 401}}||N/A
 |-
