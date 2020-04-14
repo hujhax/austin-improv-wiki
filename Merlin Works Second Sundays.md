@@ -18,9 +18,9 @@
 |-
 |June 14, 2020||||
 |-
-|May 10, 2020||Improv 501||
+|May 10, 2020||N/A||Get Up
 |-
-|April 12, 2020||N/A||{{Unbulleted list|Get Up|Edge Control}}
+|April 12, 2020||N/A||Edge Control
 |-
 |March 8, 2020||{{Unbulleted list|Improv 301|Improv 401}}||N/A
 |-
