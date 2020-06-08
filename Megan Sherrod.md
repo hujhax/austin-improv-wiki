@@ -29,7 +29,6 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 
 ## Troupes
 * *[[Rook]]*
-* *[[Megan & Quinn]]*
 
 ## Festivals
 * 2019 - Dramatic Improv Festival - Chicago, IL: *[[Rook]]*
