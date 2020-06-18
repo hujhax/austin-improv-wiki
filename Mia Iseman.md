@@ -5,7 +5,7 @@
   |Years   = 2011-Present
 }}
 
-**Mia Iseman** likes to play pretend with others.
+**Mia Iseman** left Austin, and improvises in Seattle now.
 
 ## Troupes
 * [[MANDINKA]]
