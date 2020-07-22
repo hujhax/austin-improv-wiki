@@ -12,9 +12,17 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
-|August 9, 2020||||
+|December 13, 2020||||
 |-
-|July 12, 2020||||
+|November 8, 2020||||
+|-
+|October 11, 2020||||
+|-
+|September 13, 2020||||
+|-
+|August 9, 2020||||Manacle
+|-
+|July 12, 2020||||Rawdog: We Go For It
 |-
 |June 14, 2020||||
 |-
