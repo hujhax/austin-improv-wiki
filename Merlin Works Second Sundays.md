@@ -18,9 +18,9 @@
 |-
 |October 11, 2020||||
 |-
-|September 13, 2020||||
+|September 13, 2020||N/A||
 |-
-|August 9, 2020||||Manacle
+|August 9, 2020||N/A||Manacle
 |-
 |July 12, 2020||N/A||Rawdog: We Go For It
 |-
