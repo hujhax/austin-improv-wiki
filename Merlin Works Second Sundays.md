@@ -22,9 +22,9 @@
 |-
 |August 9, 2020||||Manacle
 |-
-|July 12, 2020||||Rawdog: We Go For It
+|July 12, 2020||N/A||Rawdog: We Go For It
 |-
-|June 14, 2020||||
+|June 14, 2020||N/A||
 |-
 |May 10, 2020||N/A||Get Up
 |-
