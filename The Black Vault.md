@@ -8,7 +8,7 @@
 | [[Michael Yew]] (scoring)
 | [[Neal Tibrewala]] (lights)}}
 |Theater = [[The Hideout Theatre]]
-|Run	=	Sep/Oct 2012
+|Run	=	Sep/Oct 2012, Sep/Oct 2019
 }}
 
 ***The Black Vault*** was an improvised longform show performed in the style of the novels and stories of [[Wikipedia - H. P. Lovecraft|H.P. Lovecraft]].
