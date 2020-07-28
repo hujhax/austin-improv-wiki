@@ -35,6 +35,9 @@ After its mainstage run, there were a number of one-off shows:
 ### *Tales from the Black Vault*
 In 2014, the cast began production on *[http://blackvault.austinimprov.com Tales from the Black Vault]*, a podcast version of the show.  Plans were made for an eight-episode audiodrama anthology of improvised stories in the style of H. P. Lovecraft.  They recorded [http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival a demo episode] at the director's home, and then launched [http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama a kickstarter campaign] to raise funding to produce a whole season.  The kickstarter raised enough money to produce *two* seasons, with the first season premiering in mid-March of 2015.
 
+### The Black Vault 2019
+The Black Vault returned in 2019 at the Institution Theater with a new run of six shows, using the same basic format, with an entirely new cast.
+
 ## Media
 ### Videos
 * Sample video of [[Marc Majcher]]'s [http://vimeo.com/49958497 introduction to the show].
