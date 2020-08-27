@@ -1,3 +1,4 @@
+{{delete | Would prefer to not show up in Google anymore }}
 {{Infobox Performer
 |Name	=	Tim Honker
 |Picture =      Tim Honker headshot.jpg
