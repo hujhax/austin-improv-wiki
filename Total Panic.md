@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=	Total Panic
 |Picture	=	Total Panic.jpg
-|Cast  =        {{Unbulleted list | [[Aaron Parker Fasel]] | [[Brandt Pileggi]] | [[Brian Engravalle]] | [[Brian Howard]] | [[Bryan Cruz]] | [[Jenny Calrson]] | [[Liz Brammer]] | [[Patrick Daniel]] | [[Shyla Ray]] | [[Tim Honker]] }}
+|Cast  =        {{Unbulleted list | [[Aaron Parker Fasel]] | [[Brandt Pileggi]] | [[Brian Engravalle]] | [[Brian Howard]] | [[Bryan Cruz]] | [[Jenny Calrson]] | [[Liz Brammer]] | [[Patrick Daniel]] | [[Shyla Ray]]  }}
 |Years	=	2009-2011
 }}
 
@@ -23,7 +23,7 @@ Auditions for the 6th ColdTowne Student Troupe were held in early January 2009 a
 * [[Liz Brammer]]
 * [[Patrick Daniel]]
 * [[Shyla Ray]]
-* [[Tim Honker]]
+
 
 "Troupe Six" had 2 rehearsals with their coach Tami Nelson before the [[ColdTowne-New Movement Split]] occurred on 2/4/2009.  Troupe Six continued to rehearse with Tami Nelson at The New Movement Theater while it was under construction, until they collectively decided to dissolve the troupe several weeks later.  Some members left their classes at ColdTowne Theater in favor of classes at The New Movement.
 
