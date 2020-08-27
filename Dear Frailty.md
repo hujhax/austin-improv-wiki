@@ -2,18 +2,18 @@
 |Name	=	Dear Frailty
 |Picture =	Dear Frailty.jpg
 |Theater =	[[ColdTowne Theater]]
-|Director =	[[Tim Honker]]
+|Director =	Tim
 |Cast	=	[[Arthur Simone]]
-|Tech =         {{Unbulleted list | [[Josh Gill]] | [[Tim Honker]] | }}
+|Tech =         {{Unbulleted list | [[Josh Gill]]  | }}
 |Run	=	2009
 }}
 ***Dear Frailty*** is a one-man show created by and starring [[Arthur Simone]].  Simone went on to win [http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=808768 Best Actor/Actress 2009] in the Austin Chronicle shortly after Dear Frailty's run ended.
 
 ## History
-Arthur Simone conceived Dear Frailty in the summer of 2009 and based it on new character monologues and some from a previous one man show of his in New Orleans.  Arthur hired Tim Honker as Director, and used Honker and [[Josh Gill]] as tech.
+Arthur Simone conceived Dear Frailty in the summer of 2009 and based it on new character monologues and some from a previous one man show of his in New Orleans.  Arthur hired Tim  as Director, and used  [[Josh Gill]] as tech.
 
 ## Development
-Simone had concepts of several new characters he wanted to use in the show and used Honker to interview those characters for up to 45 minutes at a time.  Honker took notes during the extended character interviews, then gave the notes to Simone who wrote the script for the show.
+Simone had concepts of several new characters he wanted to use in the show and used Tim to interview those characters for up to 45 minutes at a time.  Tim took notes during the extended character interviews, then gave the notes to Simone who wrote the script for the show.
 
 ## Performances
 * ColdTowne Theater run July-August 2009
