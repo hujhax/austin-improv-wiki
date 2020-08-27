@@ -2,7 +2,7 @@
 |Name	=	UpTowne
 |Picture = Uptowne cast and crew 2009.JPG
 |Years	=		2007-2010
-|Cast = {{Unbulleted list | [[Brent Foshee]] | [[Chris Baldenhofer]] | [[Collin Cannaday]] | [[Drew Wesely]] | [[Emily Breedlove]] | [[Emma Holder]] | [[Jared Stepp]] | [[Justin York]] | [[Kate Bojanek]] | [[Katie Sicking]] | [[Leah Moss]] | [[Liz Brammer]] | [[Patrick Knisely]] | [[Tim Honker]] | }}
+|Cast = {{Unbulleted list | [[Brent Foshee]] | [[Chris Baldenhofer]] | [[Collin Cannaday]] | [[Drew Wesely]] | [[Emily Breedlove]] | [[Emma Holder]] | [[Jared Stepp]] | [[Justin York]] | [[Kate Bojanek]] | [[Katie Sicking]] | [[Leah Moss]] | [[Liz Brammer]] | [[Patrick Knisely]]  }}
 }}
 
 **UpTowne** was a [[ColdTowne Theater]] sketch comedy troupe.
