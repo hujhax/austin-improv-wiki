@@ -30,7 +30,6 @@ Those who have performed with the troupe include:
 * [[Katie Sicking]]
 * [[Will Storie]]
 * [[Ryan Thomas]]
-* [[Tim Honker]]
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]
