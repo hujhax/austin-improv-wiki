@@ -3,7 +3,7 @@
 |Picture =	Indy Movies.jpg
 |Theater = [[ColdTowne Theater]]
 |Director =	[[Cody Dearing]]
-|Cast =	{{Unbulleted list | [[Calan lambert]] | [[Chrissy Shackelford]] | [[Daniel Erving]] | [[Drew Wesely]] | [[Eli Eidson]] | [[Jake Millward]] | [[Katie Moore]] | [[Kyle Sweeney]] | [[Lance Gilstrap]] | [[Maitland Lederer]] | [[Naomi Perryman]] | [[Nathan Sowell]] | [[Seth Johnson]] | [[Steve Moore]] | [[Tim Honker]] | [[Will Casto]] }}
+|Cast =	{{Unbulleted list | [[Calan lambert]] | [[Chrissy Shackelford]] | [[Daniel Erving]] | [[Drew Wesely]] | [[Eli Eidson]] | [[Jake Millward]] | [[Katie Moore]] | [[Kyle Sweeney]] | [[Lance Gilstrap]] | [[Maitland Lederer]] | [[Naomi Perryman]] | [[Nathan Sowell]] | [[Seth Johnson]] | [[Steve Moore]] | [[Will Casto]] }}
 |Run	=	Aug/Sep 2013
 }}
 
