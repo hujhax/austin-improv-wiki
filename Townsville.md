@@ -3,13 +3,13 @@
 |Picture=	Townsville-duoposter1.jpg
 |Theater =      [[ColdTowne Theater]]
 |Type   =       Sketch Comedy
-|Director	=	{{Unbulleted list|[[Tim Honker]]|[[Nicole McCracken]]}}
+|Director	=	{{Unbulleted list| Tim |[[Nicole McCracken]]}}
 |Cast =		Varies
 |Run 	=		Dec 2011
 |Subsequent Runs= {{Unbulleted list|Feb 2012|Mar 2012}}
 }}
 
-**Townsville** is a [http://wiki.improvresourcecenter.com/index.php?title=Close_Quarters Close Quarters] sketch comedy show created by [[Tim Honker]] and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles and crew as needed for each script.
+**Townsville** is a [http://wiki.improvresourcecenter.com/index.php?title=Close_Quarters Close Quarters] sketch comedy show created by Tim and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles and crew as needed for each script.
 
 ## Format
 Townsville is a scripted version of the improv format Close Quarters.  Each Townsville script takes place in a single location (typically a building or business) over a short period of time (typically under an hour) in the fictional Austin suburb of Townsville, Texas.  Each script is titled after the location where the show takes place.
@@ -33,7 +33,7 @@ The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole pa
 
 #### MacDaddy's Cast & Crew
 * Nicole McCracken - writer/co-director/producer, lead actress
-* Tim Honker - writer/co-director/producer/actor
+* Tim - writer/co-director/producer/actor
 * [[Clifton Highfield]] - Director/Tech
 * [[Sam Van Metre]] - Assistant Director/Tech
 * [[Annette Cantu]] - Assistant Director/Tech
