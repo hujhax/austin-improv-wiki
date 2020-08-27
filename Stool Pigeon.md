@@ -3,7 +3,7 @@
 |Picture =	Stool Pigeon.jpg
 |Theater = [[ColdTowne Theater]]
 |Director =	Various
-|Cast =	{{Unbulleted list | [[Ashley Nugent]] | [[Bryan Roberts]] | [[Chrissy Shackelford]] | [[Christopher Orf]] | [[Cortnie Jones]] | [[Drew Wesely]] | [[Erika May McNichol]] | [[Josh Krilov]] | [[Kaci Beeler]] | [[Katie Sicking]] | [[Kayla Lane Freeman]] | [[Lance Gilstrap]] | [[Lisa Jackson]] | [[Lisa Jackson]] | [[Michael Jastroch]] | [[Nick Ramirez]] | [[Tim Honker]] }}
+|Cast =	{{Unbulleted list | [[Ashley Nugent]] | [[Bryan Roberts]] | [[Chrissy Shackelford]] | [[Christopher Orf]] | [[Cortnie Jones]] | [[Drew Wesely]] | [[Erika May McNichol]] | [[Josh Krilov]] | [[Kaci Beeler]] | [[Katie Sicking]] | [[Kayla Lane Freeman]] | [[Lance Gilstrap]] | [[Lisa Jackson]] | [[Lisa Jackson]] | [[Michael Jastroch]] | [[Nick Ramirez]] |}}
 |Run	=	2007-2013
 }}
 
