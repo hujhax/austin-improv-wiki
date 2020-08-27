@@ -1,6 +1,6 @@
 {{Infobox Troupe
 |Name	=		The Varsity
-|Cast	=	{{ Unbulleted list | [[Brent Foshe]] | [[Brett Tribe]] | [[Cody Dearing]] | [[Drew Wesley]] | [[Emma Holder]] | [[Jared Stepp]] | [[Joshua Gill]] | [[Julia Kirchen]] | [[Kate Bojanek]] | [[Kyle Sweeney]] | [[Lisa Jackson]] | [[Michael Williams]] | [[Tim Honker]] }}
+|Cast	=	{{ Unbulleted list | [[Brent Foshe]] | [[Brett Tribe]] | [[Cody Dearing]] | [[Drew Wesley]] | [[Emma Holder]] | [[Jared Stepp]] | [[Joshua Gill]] | [[Julia Kirchen]] | [[Kate Bojanek]] | [[Kyle Sweeney]] | [[Lisa Jackson]] | [[Michael Williams]]  }}
 |Years	=		2011
 }}
 
