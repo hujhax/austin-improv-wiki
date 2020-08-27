@@ -11,7 +11,7 @@
 ## History
 Nice Astronaut was the first permanent, self-formed troupe from [[ColdTowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008, under the name *HJ Compromise*.  They were originally coached by [[Tom Booker]] (2008-2009) and were later coached by [[Dave Buckman]] (2009-2011, 2013) and then [[Cody Dearing]] (2013-).
 
-In 2011, [[Nicole McCracken]] and [[Tim Honker]] formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
+In 2011, [[Nicole McCracken]] and Tim formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
 
 ## Teaching
 Nice Astronaut taught improv and sketch workshops in Austin, Phoenix, and Houston in 2013-2014.
