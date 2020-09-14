@@ -11,7 +11,7 @@
 Megan Sherrod is a classically trained mezzo soprano and improv performer.  She holds a Bachelor of Music in Voice Performance from [[Wikipedia - Oklahoma City University|Oklahoma City University]] and Master of Music in Voice Performance from the [[Wikipedia - University of North Texas|University of North Texas]].  She has extensive performance experience in opera, operetta, and musical theatre.
 
 ## History
-Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014. She won her first [[Maestro]] on October 4, 2014. She has been a teacher for the Hideout Theatre since 2017. In 2019, she was one of the core eight cast that completed [[The 2018 Hideout Improv Marathon]].
+Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014. She won her first [[Maestro]] on October 4, 2014. She has been a teacher for the Hideout Theatre since 2017. In 2019, she was one of the core eight cast that completed [[Hideout Improv Marathon]].
 
 ## Shows
 * *[[Make It So]]*
