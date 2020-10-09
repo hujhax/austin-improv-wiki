@@ -12,13 +12,13 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
-|December 13, 2020||||
+|December 13, 2020||||Coach Rookard Teaches Improv
 |-
 |November 8, 2020||||
 |-
-|October 11, 2020||||
+|October 11, 2020||N/A||Minority Report
 |-
-|September 13, 2020||N/A||
+|September 13, 2020||N/A||The Knuckleball Now
 |-
 |August 9, 2020||N/A||Manacle
 |-
