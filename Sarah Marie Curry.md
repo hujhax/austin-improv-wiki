@@ -14,7 +14,7 @@ Sarah Marie also provides individual troupe coaching and improvised singing less
 
 http://www.sarahmariecurry.com/services.html for more information
 
-## History
+## Origin
 Sarah Marie moved to Austin Texas in November of 2007 with the intention of expanding her abilities as an actress, and to pursue her passion for theatre in any way possible. She met  [[Peter Rogers]], [[Andy Crouch]] and [[Les McGehee]] while working backstage as a costume mistress for Austin Shakespeare's 2008 production of *Much Ado About Nothing*. It was during this time that she first heard of the concept of improv, and was given [[Les McGehee]]'s book *Plays Well With Others*. After taking acting classes with [[The State Theater]], Sarah Marie saw an ad for [[Merlin Works]] and signed up for [[Shana Merlin]]'s 101 class. ([[Shannon McCormick]] was Shana's TA at the time.) She has since had the honor of playing in numerous improv theaters in Austin and hopes to continue her journey for years to come.
 
 A post from her about the first improv show she ever saw:<blockquote><p>With regards to *Whose Line Is It, Anyway?*, which I saw as a child, I would say the first time I became aware of improvisation as an actual, doable, watchable art form was *[[FronteraFest]]* 2008. I had just moved to Austin and just started my job as the Box Office Manager for FronteraFest. I worked the Short Fringe Box at Hyde Park on most evenings, and when I was done settling, I would duck around back and watch what shows I could.</p> 
