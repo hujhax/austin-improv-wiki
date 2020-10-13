@@ -8,11 +8,26 @@
 **Sarah Marie Curry** is an improv performer, director, and teacher. She is the General Manager of [[The Institution Theatre]] and is responsible for the scheduling, production management, front of house and staffing management of the space.
 
 ## Teaching
-Sarah Marie currently teaches the improv 601 curriculum at [[The Institution Theater]]. This eight week class focuses on dynmaic, free (formless) form and self regulating work. Workshops in her repertoire include "Viewpoints in Improv" (the lessons of Anne Bogart), "Inspiring Scenes through Stage Picture" (pulling stagecraft into awareness and inspiration on stage) and "Once More With Feeling" (emotionally charged improvised singing).
+Sarah Marie is one of the few teachers in the Austin area to have taught full curriculums at four of the five dedicated improv schools in Austin Texas from the years of 2007-2020. She specialized in acting and advanced work. She primarily (and stubbornly) teaches her own curriculum, writing and tailoring to the needs of each individual class and the structural goals of the school as a whole. Influences include those she's studied: Anne Bogart, Twyla Tharp, David Brunetti, David Mamet, John Truby, and those she's studied with: Mick Napier, Craig Cackowski, Asaf Ronen, Jeff Wirth, Deanna Fleysher, Jill Bernard, Carol Hickey and Harry Maestrogeorge.
 
-Sarah Marie also provides individual troupe coaching and improvised singing lessons.
+Created Curriculums
+Merlin Works School of Improvisation - Musical Improv Masterclass, Musical Improv 201, 401, 501, 601
+Hideout Theatre - Improv 401
+The Institution Theatre - Improv 201, 501, 601
 
-http://www.sarahmariecurry.com/services.html for more information
+Schools Taught
+Merlin Works School of Improvisation
+The Hideout Theatre
+The Institution Theatre
+The Fallout Theater
+
+Workshops by Sarah-Marie Curry
+Viewpoints for Improvisors
+Acting in Improvisation
+Improvisation in Acting
+Vulnerability in Acting and Improv
+Stage Picture and Staging Technique in Improvisational Theatre
+Advanced Musical Improv
 
 ## Origin
 Sarah Marie moved to Austin Texas in November of 2007 with the intention of expanding her abilities as an actress, and to pursue her passion for theatre in any way possible. She met  [[Peter Rogers]], [[Andy Crouch]] and [[Les McGehee]] while working backstage as a costume mistress for Austin Shakespeare's 2008 production of *Much Ado About Nothing*. It was during this time that she first heard of the concept of improv, and was given [[Les McGehee]]'s book *Plays Well With Others*. After taking acting classes with [[The State Theater]], Sarah Marie saw an ad for [[Merlin Works]] and signed up for [[Shana Merlin]]'s 101 class. ([[Shannon McCormick]] was Shana's TA at the time.) She has since had the honor of playing in numerous improv theaters in Austin and hopes to continue her journey for years to come.
