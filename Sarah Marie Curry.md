@@ -38,20 +38,23 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 * [[Girls Girls Girls]]
 
 ## Shows
-* *[[Dusk]]*
-* *[[Fuck It's Christmas]]*
-* *[[Guilds of Steel]]*
-* *[[Hitchcocked!]]*
-* *[[Ka-Baam!!]]*
-* *[[Live TV Tuesdays -  Buffy]]*
-* *[[More Than Words]]*
-* *[[Key Party]]* (director, performer)
-* *[[Racket]]* (director, performer)
-* *[[The Z Monologues]]* (director, performer)
-* *[[Spirited]]*
-* *[[Risen]]* (director)
-* *[[Tarantula]]* (director)
-* *[[Impromp-Two]]*
+* *[[Dusk]]* - Gnap Theatre
+* *[[Fuck It's Christmas]]* - The Institution Theatre
+* *[[Guilds of Steel]]* - Gnap Theatre
+* *[[Hitchcocked!]]* - The Hideout Theatre
+* *[[Ka-Baam!!]]* - The Hideout Theatre
+* *[[Live TV Tuesdays -  Buffy]]* - The Institution Theatre
+* *[[More Than Words]]* - The Hideout Theatre
+* *[[Key Party]]* (director, performer) - The Institution Theatre
+* *[[Racket]]* (director, performer) - The Institution Theatre
+* *[[The Z Monologues]]* (director, performer) - The Institution Theatre
+* *[[Spirited]]* - The Hideout Theatre
+* *[[Risen]]* (director) - The Institution Theatre
+* *[[Tarantula]]* (director) - The Institution Theatre
+* *[[Impromp-Two]]* - The Institution Theatre
+* *[[JTS Brown]]*- Coldtowne Theater
+* *[[Sweet Lightning]]* - The Fallout Theater
+* *[[Maestro]]* - The Hideout Theatre
 
 ## More Information
 * [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2207805 Interview] with Sarah Marie on *[[The Theft Forum]]*.
