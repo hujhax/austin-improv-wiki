@@ -5,7 +5,7 @@
 |Years	=	2008-Present
 }}
 
-**Sarah Marie Curry** is an award winning improvisational performer, actor, singer, director, and teacher. For more information, go to www.sarahmariecurry.com
+**Sarah Marie Curry** is an award winning improvisational performer, actor, singer, director, and teacher. Sarah Marie Curry has been an actor and working artist for over a decade.  Regional acting credits include: The Last Five Years (Jaime), Fun Home (Alison), Reefer Madness (Mary Lane) Ordinary Days (Deb), Company (Jenny) Into the Woods (Cinderella) to name a few. On stage she has been called “hilarious” “fierce” “truly exceptional” and is a local Austin, Texas award winner for Outstanding Lead Actress in multiple productions over the years. She is currently teaching advanced improvisation and acting curriculums and trainings across the nation. For show updates and more go to www.sarahmariecurry.com 
 
 ## Teaching
 Sarah Marie is one of the few teachers in the Austin area to have taught full curriculums at four of the five dedicated improv schools in Austin Texas from the years of 2007-2020. She specialized in acting and advanced work. She primarily (and stubbornly) teaches her own curriculum, writing and tailoring to the needs of each individual class and the structural goals of the school as a whole. Influences include those she's studied: Anne Bogart, Twyla Tharp, David Brunetti, David Mamet, John Truby, and those she's studied with: Mick Napier, Craig Cackowski, Asaf Ronen, Jeff Wirth, Deanna Fleysher, Jill Bernard, Carol Hickey and Harry Maestrogeorge.
@@ -63,7 +63,7 @@ Advanced Musical Improv
 * *[[Maestro]]* - The Hideout Theatre
 
 ## Management
-Sarah Marie was the General Manager of [[The Institution Theatre]] from 2012-2016
+Sarah Marie was the General Manager of [[The Institution Theatre]] from 2012-2016. Primary contributions include systems creation and management, calendar, development of the intern program, staff management and initializing the policies and procedures of safe conduct. She had an amicable retirement to pursue acting full time. 
 
 
 ## Origin
