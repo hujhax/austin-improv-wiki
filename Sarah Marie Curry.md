@@ -30,7 +30,6 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 ### Current
 * [[Indigo Shift]]
 * [[Cascade]]
-*[[Rook]]
 
 ### Past
 * [[Improv for Evil]]
