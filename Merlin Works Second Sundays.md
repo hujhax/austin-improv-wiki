@@ -12,9 +12,9 @@
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
 |-
-|December 13, 2020||||Coach Rookard Teaches Improv
+|December 13, 2020||N/A||Coach Rookard Teaches Improv
 |-
-|November 8, 2020||||
+|November 8, 2020||N/A||Hideout Kids
 |-
 |October 11, 2020||N/A||Minority Report
 |-
