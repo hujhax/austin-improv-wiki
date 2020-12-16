@@ -23,6 +23,7 @@
 * *Storytelling Classes and Workshops* (2017 - Present)
 
 ## Storytelling
+* *[http://www.tenx9.com/podcast/176-connections/2020/12/13 Ten by 9 Ireland Podcast]* (2020) 
 * *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writers Roulette]* (2017) 
 * *[http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf Texas Storytelling StorySlam Champion]* (2017)
 * *[https://vimeo.com/162884857 The Moth Houston GrandSlam Champion]* (2016)
