@@ -25,7 +25,7 @@ The technical improvisors for the show are [[Cindy Page]], [[Chad Wellington]], 
 Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>I got turned on to the pulps after reading the first issue of Planetary, the last line (and pseudo-motto) of which is "Strange world. Let's keep it that way." When I was trying to think of something that sounded like the title of an old pulp anthology, those first two words were just right. </blockquote>
 
 ## Characters
-* **The Beacon** ([[Marc Majcher]]) is a stage magician and debunker named Rick White, cursed by gypsies to attract supernatural forces at all times.
+* **The Beacon** ([[Marc Majcher]]) is a stage magician and debunker named Rick White, cursed to attract supernatural forces at all times.
 * **Jack Ryder of Neptune** ([[Ryan Austin]]) is an American sailor who, while returning home from the war, is sucked into a wormhole that deposits him on the fantastical planet of Neptune (known to its natives as Shano).
 * **Simon Doyle** ([[Peter Rogers]]) AKA "Codename: Sleuth" is a brilliant British agent who was thrown out of SIS because of his ceaseless pursuit of a shadowy international cabal known only as "The Spiderweb".  He now lives in the United States, tracking the group's agents and zeroing in on its sinister purpose.
 * **Dr. Lily Wilde** ([[Pseudonyms|Madeline M.]]), jungle professor, is an anthropologist raised in the jungles of the Amazon.  With her ready fists and her keen scientific insights, she fights all of the enemies of the natural world and its denizens.
