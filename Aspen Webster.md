@@ -26,6 +26,12 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 * ''[[How I Saved the World Over Summer Vacation]] (2017)
 * *[[Soundstage 23]]* (2017) (Co-Director)
 * *[[Big Gay Musical]]* (2018)
+* *[[Mischief Managed]]* (2018)
+* *[[Silly Love Songs]]* (2019) (Co-Director)
+* *[[The Black Vault]]* (2019)
+* *[[Escape the Zoom]]* (2020)
+* *[[#Found]]* (2020)
+* *[[In a Galaxy a Farce Farce Away]]* (2021)
 
 ## Troupes
 * [[Physics Curse]] 
