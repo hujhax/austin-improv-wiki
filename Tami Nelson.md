@@ -1,5 +1,5 @@
-**Cult Mommy**
+**Cult Mommy indeed**
 
-likes: Chris Trew, sexual assault
+likes: i am not logged in and my IP address is recorded in this page's history, voila!
 
-dislikes: Austin, TX
+dislikes: when i am logged in and my IP address is not recorded in this page's history, voila!
