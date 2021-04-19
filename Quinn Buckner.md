@@ -17,9 +17,10 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 * [[Twins]]
 
 #### Inactive/No Longer a Member
-* [[Gigglepants]]
 * [[Anticdotes]]
+* [[Austin-Austin]]
 * [[Bolik Not ZIB]]
+* [[Gigglepants]]
 * [[Quayle]]
 * [[RhinoDino]]
 * [[Tastemakers]]
