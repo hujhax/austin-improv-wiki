@@ -74,10 +74,13 @@ The troupe started performing in the spring semester of 2004.
 *[[Yamina Khouane]]
 
 ## N00B clue
-[[You've worked so hard to get here,]]
-[[Not broken, only bent]]
-[[The Zoom link you are looking for]]
-[[Is on the Noob Show FB event]]
+You've worked so hard to get here,
+
+not broken, only bent.
+
+The Zoom link you are looking for
+
+is on the Noob Show FB event
 
 ## Media
 ### Videos
