@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Andrew Stier	
 |Picture =	
-|Theater=	{{Unbulleted list | [[The Institution Theater]] | [[Hideout Theater]] }}
+|Theater=	{{Unbulleted list | [[Hideout Theater]]}}
 |Years	=	2010-2021
 }}
 
