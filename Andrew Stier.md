@@ -16,7 +16,7 @@ Andrew Stier is an Austin improv performer and director. He moved to Austin in 2
 * [[Seltzer]]
 
 ## Shows
-* *[[Austin Secrets 2019]]*
+* *[[Austin Secrets]]* (2019)
 * *[[Super Team]]* (Director)
 * *[[Maestro]]* (Director)
 * *[[Silly Love Songs]]*
