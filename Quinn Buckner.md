@@ -90,9 +90,6 @@ In 2008 while attending UT Quinn saw some [[Gigglepants]] shows on campus and fe
 *2019 - [[I Love Love]] - Ensemble
 *2019 - [[The Out of Bounds Comedy Festival]] - [[Bric-a-Brac]], [[Twins]], [[Super Black]]
 
-## More Information
-* [http://yesandrew.com/the-sunday-interview-quinn-buckner-2/ Interview] by [[Andrew Buck]].
-
 ## Previous Photos
 Picture =	Quinn_Headshot.jpg
 
