@@ -11,7 +11,7 @@ The game originated in a facebook discussion on January 9th, 2012 about setting 
 As with most interactive fiction games, the player interacts with the game engine via text -- the player reads prose descriptions of places, items, and events, and types text commands such as "CLIMB THE STAIRS", "PICK UP THE TICKET", or "TALK TO [[Kareem Badr|KAREEM]]".  The game is based around a fairly simple storyline: the beloved [[The Skull on a Stick|Skull on a Stick]] has gone missing at the Hideout, and it's up to you to find it.
 
 ## More Information
-* [http://www.facebook.com/roydanger/posts/10101478959545090 The facebook discussion that prompted the game.]
+* [http://www.facebook.com/royjanik/posts/10101478959545090 The facebook discussion that prompted the game.]
 * [http://forum.austinimprov.com/viewtopic.php?f=7&t=12893&p=115852 The thread devoted to solving the game] on [[The Austin Improv Forums]].
 * [http://hujhax.austinimprov.com/files/misc/HideoutGame/play.html The game itself], playable in your browser.
 * [[The Hideout Text Adventure-Source Code|The source code for the game.]]
