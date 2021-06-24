@@ -52,6 +52,8 @@ This is the first group of people who were cast from the 1998 audition:
 The following performers joined the troupe in 2000:
 * [[Brett Webster]]
 * [[Bryan Kent]]
+* [[Brian Yanish]]
+* [[Carie Esquenazi]]
 * [[Chelsea Adland]]
 * [[Kacey Samiee]]
 * [[David Lowey]]
@@ -70,7 +72,6 @@ The following performers joined the troupe in 2001:
 * [[Ben Sterling]]
 * [[Bob Apthorpe]]
 * [[Brian Yannish]]
-* [[Carrie Esquenazi]]
 * [[Chris R. B. Fay]]
 * [[Jay Michael]]
 * [[Jimmy Maas]]
