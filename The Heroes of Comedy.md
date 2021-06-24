@@ -51,8 +51,8 @@ This is the first group of people who were cast from the 1998 audition:
 #### Additions during 2000
 The following performers joined the troupe in 2000:
 * [[Brett Webster]]
-* [[Bryan Kent]]
 * [[Brian Yanish]]
+* [[Bryan Kent]]
 * [[Carie Esquenazi]]
 * [[Chelsea Adland]]
 * [[Kacey Samiee]]
