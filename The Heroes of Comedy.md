@@ -71,7 +71,6 @@ The following performers joined the troupe in 2001:
 * [[Ben Reddell]]
 * [[Ben Sterling]]
 * [[Bob Apthorpe]]
-* [[Brian Yannish]]
 * [[Chris R. B. Fay]]
 * [[Jay Michael]]
 * [[Jimmy Maas]]
