@@ -6,7 +6,7 @@
 |Years	=	2015 - Present
 }}
 
-hii dad Marc Jalandoon is an active improviser, primarily performing at [[The Hideout Theatre]].
+Marc Jalandoon is an active improviser, primarily performing at [[The Hideout Theatre]].
 
 ## History
 Marc began taking improvisation classes at [[The Hideout Theatre]] on November 8th, 2015.  
