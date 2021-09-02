@@ -99,7 +99,7 @@ Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stori
 
 Paul was a teaching assistant at [[The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[The Hideout Theatre]]'s annual [[WaffleFest]] from 2014 to 2018. 
 
-Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul teaches Improv and Storytelling classes and workshops. In his spare time, he lives to play [http://https://austinultimate.org/ "Ultimate"], run [https://en.wikipedia.org/wiki/Firefly_Role-Playing_Game "Firefly Role Playing Game"] Campaigns, and write.
+Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul teaches Improv and Storytelling classes and workshops. In his spare time, he lives to play [http://https://austinultimate.org/ "Ultimate"], run Dungeons and Dragons weekly and [https://en.wikipedia.org/wiki/Firefly_Role-Playing_Game "Firefly Role Playing Game"] Campaigns, and write.
 
 ## More Information
 * [http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/ "In Praise Of..." post] by [[Mia Iseman]].
