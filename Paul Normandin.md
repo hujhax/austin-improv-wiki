@@ -46,8 +46,9 @@
 ## Improv Troupes
 * [[Apocalypse (troupe)|Apocalypse]] (2012)
 * [[In Our Prime]] (2011 - Present)
-* [[Two Guys From Yonkers]] (2011 - Present)
-* [[We're Here to Date Your Daughter]] (2012 - Present)
+* [[Two Guys From Yonkers]] (2011 - 2013)
+* [[We're Here to Date Your Daughter]] (2012 - 2016)
+* [[The Known Wizards]] (2020 - Present)
 
 ## Improv Shows
 * *[[EPIC!]]* (Season 1 & 2 - 2011)
