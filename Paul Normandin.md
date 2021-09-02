@@ -5,7 +5,7 @@
 |Years	=	2010-Present
 }}
 
-**Paul Normandin** is an Storyteller and Improv performer who works primarily with [[The Hideout Theatre]] and [[The Institution Theater]].
+**Paul Normandin** is an Storyteller and Improv performer who works primarily with [[Merlin Works Institute for Improvisation]] and [[The Hideout Theatre]].
 
 ## Education
 * *Texas A&M University, B.A. 1989, Speech Communication*
@@ -83,7 +83,7 @@
 * ''[http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run Cochise: Student Mainstage Run] Assistant Director (2014)
 
 ## Improv History
-Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He is a storyteller and has a strong focus on narrative Improv.   
+Paul decided to take improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He completed the classes at [[The Hideout Theatre]] and [[Merlin Works Institute for Improvisation]] he is the dean . Paul is a teacher and Performer with a focus on narrative Improvisation and true, personal Storytelling.   
 
 Paul completed classes at [[The Hideout Theatre]] with his friend and classmate, [[Bob Olmstead]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Two Guys From Yonkers]]" on October 31, 2011.  
 
