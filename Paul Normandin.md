@@ -33,7 +33,7 @@
 * *[https://vimeo.com/203635641 The Moth Houston StorySlam Winner]* (2016)
 * *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writer's Roulette]* (2017)
 * *[https://www.youtube.com/watch?v=yooafBC8B9k Austin Writer's Roulette]* (2019) Fiction 
-* *Testify Austin Performer and Producer* (2016 - )
+* *Testify Austin Performer and Producer* (2016 - 2021)
 * *Austin No Shame Theatre Performer - Occasional Host* (2011 - 2016)
 * *Story Department Performer*
 * *Backyard Story Night Performer*
