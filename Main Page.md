@@ -22,6 +22,8 @@
 * [[List of Austin Improv Online Resources]]
 * [[List of Austin Improv Rehearsal Spaces]]
 
+
+
 ## External Resources
 Note that this wiki is specifically for Austin improv.  There are other websites that cover more general topics:
 * For general information about improv, check out [http://wiki.improvresourcecenter.com the improv resource center].
