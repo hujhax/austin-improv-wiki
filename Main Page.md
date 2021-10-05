@@ -29,5 +29,3 @@ Note that this wiki is specifically for Austin improv.  There are other websites
 * For general information about the Austin comedy scene, including improv show listings, check out [http://austincomedy.info/ Last Gas Comedy].
 
 {{DISPLAYTITLE:The Austin Improv Wiki}}
-
-Another anonymous edit! and another fgdfg
