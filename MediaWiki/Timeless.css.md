@@ -18,8 +18,3 @@
    position: relative;
    bottom: 0.5em;
 }
-
-#p-logo-text a {
-font-family: 'Courier';
-font-size: 2em;
-}
