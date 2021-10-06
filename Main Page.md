@@ -1,6 +1,8 @@
+{{banner|direction=right|title=**Welcome to MediaWiki.org**|section=|image=AIC 2012 Potluck Group Photo.jpg}}
+
 ![[AIC 2012 Potluck Group Photo.jpg|Austin Improv Potluck]].]]
 
-![[Hulk.jpg]]
+
 
 **The Austin Improv Wiki** is a wiki devoted to the Austin Improv community.  It's here to accumulate information associated with the Austin improv scene.
 
