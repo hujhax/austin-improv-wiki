@@ -1,4 +1,4 @@
-{{banner|direction=right|title=**Welcome to MediaWiki.org**|section=|image=AIC 2012 Potluck Group Photo.jpg}}
+{{banner|direction=right|title=**The AIC**|section=|image=AIC 2012 Potluck Group Photo.jpg}}
 
 ![[AIC 2012 Potluck Group Photo.jpg|Austin Improv Potluck]].]]
 
