@@ -1,5 +1,3 @@
-{{banner|direction=right|title=**The AIC**|section=|image=AIC 2012 Potluck Group Photo.jpg}}
-
 ![[AIC 2012 Potluck Group Photo.jpg|Austin Improv Potluck]].]]
 
 
