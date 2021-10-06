@@ -19,6 +19,6 @@
    bottom: 0.5em;
 }
 
-#p-logo-text {
+#p-logo-text a {
 font-family: 'Courier';
 }
