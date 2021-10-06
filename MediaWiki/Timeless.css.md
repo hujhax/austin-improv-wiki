@@ -2,8 +2,8 @@
 /* Top bar font modernization */
 #mw-header *,
 #mw-site-navigation *,
-#mw-related-navigation *  { font-family: 'Segoe UI','Segoe UI Emoji','Segoe UI Symbol','Lato','Liberation Sans','Noto Sans','Helvetica Neue','Helvetica',sans-serif;
-background-color: #ff0000;
+#mw-related-navigation *  { font-family: 'Courier','Segoe UI','Segoe UI Emoji','Segoe UI Symbol','Lato','Liberation Sans','Noto Sans','Helvetica Neue','Helvetica',sans-serif;
+
 }
 
 /* Avoid cutting off letters with descenders: g,j,p,q,y */
