@@ -2,7 +2,7 @@
 /* Top bar font modernization */
 #mw-header *,
 #mw-site-navigation *,
-#mw-related-navigation *  { font-family: 'Courier','Segoe UI','Segoe UI Emoji','Segoe UI Symbol','Lato','Liberation Sans','Noto Sans','Helvetica Neue','Helvetica',sans-serif;
+#mw-related-navigation *  { font-family: 'Segoe UI','Segoe UI Emoji','Segoe UI Symbol','Lato','Liberation Sans','Noto Sans','Helvetica Neue','Helvetica',sans-serif;
 
 }
 
@@ -17,4 +17,8 @@
 #personal h2::after {
    position: relative;
    bottom: 0.5em;
+}
+
+#p-logo-text {
+font-family: 'Courier';
 }
