@@ -44,7 +44,7 @@ He has been teaching assistant for both adult and children's improv classes, and
 * [[History Under the Influence]] (2014-2017)
 
 ## More Information
-* [http://yesandrew.com/2013/07/12/in-praise-of-thedward-blevins/ "In Praise Of..." post] by [[Ryan Austin]].
+* [https://web.archive.org/web/20160617202953/http://yesandrew.com/in-praise-of-thedward-blevins/ "In Praise Of..." post] by [[Ryan Austin]].
 
 [[Category/Performers|Blevins]]
 [[Category/Techs|Blevins]]
