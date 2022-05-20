@@ -52,5 +52,12 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * *[[Victrola]]* (The Bat format) (Performed in Frontera Fest)
 
 ## External Links
-* [[Https - --www.instagram.com-drewimprovgym-hl=en Drew's Gym Instagram]  [https - --www.instagram.com-switchblade.improv- Switchblade Instagram]  [https - --www.facebook.com-NiceAstronaut Nice Astronaut Facebook Page]  [https - --www.facebook.com-pages-Whats-the-Story-Steve-339233816110601 What's the Story, Steve Facebook Page]  [http - --www.coldtownetheater.com-austincomedy-performersuid=63 ColdTowne Performers Page]  [https - --www.imdb.com-name-nm1153035-ref =nv sr 1 Andrew Wesely IMDB Page] [[Category - Performers|Wesely]]
+* [https://www.instagram.com/drewimprovgym/?hl=en Drew's Gym Instagram] 
+* [https://www.instagram.com/switchblade.improv/ Switchblade Instagram]
+* [https://www.facebook.com/NiceAstronaut Nice Astronaut Facebook Page]
+* [https://www.facebook.com/pages/Whats-the-Story-Steve/339233816110601 What's the Story, Steve? Facebook Page]
+* [http://www.coldtownetheater.com/austincomedy/performers?uid=63 ColdTowne Performers Page]
+* [https://www.imdb.com/name/nm1153035/?ref_=nv_sr_1 Andrew Wesely IMDB Page]
+
+[[Category/Performers|Wesely]]
 [[Category/Teachers|Wesely]]
