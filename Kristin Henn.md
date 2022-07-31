@@ -5,10 +5,10 @@
 |Years	=	2009 -Present
 }}
 
-**Kristin Henn** is an improv performer, director, producer and teacher.  She directs Move Your Tale, the youth program at [[ColdTowne Theater]]. She performs every Sunday night at [[ColdTowne Theater]] with [[Oh, Science!]] and Saturday mornings with [[What's the Story Steve]].
+**Kristin Henn** is an improv performer, director, producer and teacher.  She directs Excused Absence Comedy, the youth program at [[ColdTowne Theater]] and Move your Tale, an organization that takes Improv to schools and community organizations. She performs every Sunday night at [[ColdTowne Theater]] with [[Oh, Science!]] and Saturday mornings with [[What's the Story Steve]].
 
 ## Summary
-Kristin is an improv performer, teacher and director who oversees and facilitates the youth program at [[ColdTowne Theater]] via her performing arts organization, Excused Absence Comedy, formerly Move Your Tale. 
+Kristin is an improv performer, teacher and director who oversees and facilitates the youth program at [[ColdTowne Theater]] via her performing arts organization, [[Excused Absence Comedy]], formerly Move Your Tale. 
 
 Her standing gigs include Excused Absence Nights formerly known as *[[Teen Improv Night]]* at [[ColdTowne Theater]], directing and producing [[ColdTowne Theater]]'s weekly kids improv show, *[[What's the Story Steve]]* and performing with the ColdTowne Tourco.
 
