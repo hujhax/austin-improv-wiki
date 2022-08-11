@@ -1,1 +1,34 @@
-![[{{{image}}}]]
+<templatestyles src="Banner/styles.css"/><div class="banner-image nomobile">
+<div class="banner-box banner-box-{{{direction}}}">
+<div class="name">{{{title}}}</div>
+<div class="type">{{{section}}}</div>
+</div>![[{{{image}}}]]</div><noinclude>
+{{Uses TemplateStyles|Template:Banner/styles.css}}
+<templatedata>
+{
+	"params": {
+		"direction": {},
+		"title": {
+			"type": "string",
+			"required": true
+		},
+		"section": {},
+		"image": {
+			"description": "Image name, without the File: prefix",
+			"example": "Example.png",
+			"required": true,
+			"type": "wiki-file-name"
+		},
+		"section-id": {}
+	},
+	"description": "Template for full-width images with inset text.",
+	"paramOrder": [
+		"image",
+		"title",
+		"section",
+		"direction",
+		"section-id"
+	]
+}
+</templatedata>
+</noinclude>
