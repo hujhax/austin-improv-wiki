@@ -15,7 +15,7 @@
 .banner-box {
 	position: absolute;
 	z-index: 2;
-	margin-top: 2.5em;
+	bottom: 5%;
 	color: white;
 	min-width: 20em;
 	text-shadow: black 0.3em 0.3em 1em, black -0.1em -0.1em 1em;
