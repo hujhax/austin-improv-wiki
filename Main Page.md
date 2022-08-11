@@ -1,6 +1,6 @@
-![[AIC 2012 Potluck Group Photo.jpg|Austin Improv Potluck]].]]
+{{DISPLAYTITLE:<span style="font-size:0; position:absolute">{{FULLPAGENAME}}</span>}}
 
-
+{{banner|direction=right|title=**The Austin Improv Community**|section=|image=AIC 2012 Potluck Group Photo.jpg}}
 
 **The Austin Improv Wiki** is a wiki devoted to the Austin Improv community.  It's here to accumulate information associated with the Austin improv scene.
 
@@ -23,8 +23,6 @@
 * [[History of Austin Improv]]
 * [[List of Austin Improv Online Resources]]
 * [[List of Austin Improv Rehearsal Spaces]]
-
-
 
 ## External Resources
 Note that this wiki is specifically for Austin improv.  There are other websites that cover more general topics:
