@@ -265,7 +265,7 @@ This show comes to you from the mind of the man who brought us the gender bendin
 
 #### *Once Upon A Time* ([[Firth & Arjet]])
 ### Aug  2, 2012
-#### *Deeply Superficial* ([[Bob Olmstead]])
+#### *Deeply Superficial* ([[Bobby Ford]])
 Your friend is well-meaning and looking out for you, so she gives your email address to a friend of hers she thinks might be a good match for you. But the email you get from this potential partner in love not only includes a list of requirements you must meet, but ends with the sentence: "And in the name of full disclosure, I'm a deeply superficial person." What do you do in this situation? The only thing you can do. Blow her off and create an improv show based on the email. starring (so far): [[Jordan T. Maxwell]], [[Kristin Firth]], [[Cassidy Santaguida]], [[Cortney DeAngelo]] 
 
 #### *Drowning in Mitchell Deane* ([[Brad Hawkins]])
@@ -576,7 +576,7 @@ A chance encounter with a perfect stranger can sometimes take you to places you 
 Headliners
 
 ### Feb 21, 2013
-#### *[[Bob Olmstead|Bob]]'s 50th* ([[Bob Olmstead]])
+#### *[[Bobby Ford|Bob]]'s 50th* ([[Bobby Ford]])
 One life, so many people that change it, move it, make it better and sometimes make it much worse worse. All heroes do not wear Tights and Capes. This tale will be of the unsung heroes of plain pants and simple blouses that change our lives every day. This show is tribute to the everyday person that performs a heroic act in our life. Follow our single, adult male encountering 50 as he encounters people that have affected his life. 
 
 #### *Blind Date* ([[Sandra Ybarra]])
