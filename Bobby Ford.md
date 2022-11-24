@@ -1,11 +1,11 @@
 {{Infobox Performer
-|Name	=	Bob Olmstead	
+|Name	=	Bobby Ford	
 |Picture =	Bob Olmstead Reset Pic.jpg
 |Theater=	[[The Hideout Theatre]]
 |Years	=	2010-Present
 }}
 
-**Bob Olmstead** is an Improv performer who works primarily with [[The Hideout Theatre]] and [[The Institution Theater]].
+**Bobby Ford** is an Improv performer who works primarily with [[The Hideout Theatre]] and [[The Institution Theater]].
 
 ## History
 Bob decided to take an improv class after his second short film had finished touring festivals to get a better feel for the organic aspects of the acting world. Much to Bob's surprise, he fell in love with improv as well as the fellowship that he found within the AIC. He completed classes at [[The Hideout Theatre]] with [[Paul Normandin]], [[Brad Hawkins]], [[Chad Wellington]], [[Katherine Greco]], and [[Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011. Bob then continued his improv studies at [[The Institution]], completing their course work, levels 3 through The Improv Clubhouse. As well, Bob has completed month long intensives with John Ratliff (organic work), Kaci Beeler (intimacy),  Asaf Ronen (physicality) and four weekend intensives  (Parallelogramophonograph, Three For All and two weekends with David Razowsky). 
@@ -28,5 +28,5 @@ In late 2013 Bob began working on the idea of bringing dramatic absurdist theate
 * *[[The ReSet Project]]*
 * *[[Breaking Beckett]]* (Producer/Director)
 
-[[Category/Performers|Olmstead]]
-[[Category/Directors|Olmstead]]
+[[Category/Performers|Ford]]
+[[Category/Directors|Ford]]
