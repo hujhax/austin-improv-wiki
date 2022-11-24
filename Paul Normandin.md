@@ -85,7 +85,7 @@
 ## Improv History
 Paul decided to take Improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He completed the classes at [[The Hideout Theatre]] and [[Merlin Works Institute for Improvisation]]. And is now the dean of the [[Merlin Works Institute for Improvisation]]. Paul is a teacher and performer with a focus on narrative Improvisation and true, personal Storytelling.   
 
-Paul completed classes at [[The Hideout Theatre]] with his friend and classmate, [[Bob Olmstead]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Two Guys From Yonkers]]" on October 31, 2011.  
+Paul completed classes at [[The Hideout Theatre]] with his friend and classmate, [[Bobby Ford]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Two Guys From Yonkers]]" on October 31, 2011.  
 
 Other classmates included [[Brad Hawkins]], [[Chad Wellington]], [[Katherine Greco]], and [[Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
 
