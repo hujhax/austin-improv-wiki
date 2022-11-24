@@ -27,7 +27,7 @@ The fourth performance was part of the *[[Four Chambers]]* series at [[The Hideo
 
 ## Casts
 ### Show #1
-* [[Bob Olmstead]] (Wolf)
+* [[Bobby Ford]] (Wolf)
 * [[Britney Salyer]] (thug)
 * [[Cat Drago]] (Cat)
 * [[Emily Breedlove]] (Dog)
