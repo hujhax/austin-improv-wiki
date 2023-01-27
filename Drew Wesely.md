@@ -9,24 +9,25 @@
 
 Drew Wesely graduated from the University of California at Berkeley. He began classes at [[ColdTowne Theater|ColdTowne Conservatory]] in 2007, prior to the breakup of the original ColdTowne members, and received improv training from all of them. He began as a Teacher's Assistant at ColdTowne Conservatory in 2011, and became a teacher at ColdTowne in 2015. He often teaches multiple classes each session and assists in teaching the Intro to Improv 101 class. In 2016 Drew Wesely graduated from the ColdTowne Conservatory Advanced Improv program, culminating with him producing the show "Dinner & A Drew-vie", which became a recurring show at ColdTowne. 
 
-From 2016 to 2017, Drew took classes at [[The New Movement Theater]] (Austin), and graduated in early 2018 as the first graduating class of Fallout Theater (TNM Austin transformed into Fallout in February 2018). In May 2018, he was hired as an improv teacher at the new [[Fallout Theater]] and has been on the faculty since. He currently runs Fallout's bimonthly Intro to Improv Level 0 class. Since 2017 he has worked as a Front of House Manager on staff at Fallout Theater, including during SXSW and [[Austin Sketch Fest]]. As of 2022 Drew Wesely is one of the few improv instructors who have taught at both ColdTowne Conservatory and Fallout simultaneously.  
+From 2016 to 2017, Drew took classes at [[The New Movement Theater]] (Austin), and graduated in early 2018 as the first graduating class of Fallout Theater (TNM Austin transformed into Fallout in February 2018). In May 2018, he was hired as an improv teacher at the new [[Fallout Theater]] and has been on the faculty since. He currently teaches Fallout's weekly Intro to Improv Level 0 class every Thursday at 6pm. Since 2017 he has worked as a Front of House Manager on staff at Fallout Theater, including during SXSW and [[Austin Sketch Fest]]. As of 2022 Drew Wesely is one of the few improv instructors who have taught at both ColdTowne Conservatory and Fallout simultaneously.  
 
 He has attended improv workshops/received coaching from: UCB (including instruction from Matt Besser, Ian Walsh, Neil Casey, Brandon Gardner, Shannon O'Neill, Will Storie, Alan Starzinski, and Jonny Svarzbein), The Annoyance (Mark Sutton), iO (Liz Allen, Jet Eveleth, Craig Cackowski, Eric Hunicutt, Craig Uhlir, Karen Graci, Dave Hill, Matt Jones) and The New Movement ([[Chris Trew]], [[Tami Nelson]], and Anthony Ellison). He has been on improv troupes coached by [[Dave Buckman]] (Boom Chicago), [[Tom Booker]] (iO/The Annoyance/The Institution), [[Arthur Simone]], [[Michael Jastroch]], [[Cody Dearing]], [[Roy Janik]], [[Ashley Nugent]], [[Clifton Highfield]], [[Will Cleveland]], [[John Ratliff]], [[Brent Foshee]], [[Lance Gilstrap]], [[Aden Kirschner]], and [[Jericho Thorpe]]. He once performed standup in "The Mothup", delivering an impromptu monologue. 
 
-Drew Wesely created and operates [[Drew's Improv Gym]], a weekly coached improv jam, which is a hybrid of an open improv jam and a drop-in improv class. In 2016 a team called "Wreck Center", which took its name from the team members meeting at Drew's Gym at Austin Rec Center, was coached by Drew Wesely to victory in the ColdTowne Cagematch. Currently Drew's Gym is every Friday at 2008 Justin Lane, immediately followed by the ColdTowne Jam which Drew Wesely also manages. 
+Drew Wesely created and operates [[Drew's Improv Gym]], a weekly coached improv jam, which is a hybrid of an open improv jam and a drop-in improv class. In 2016 a team called "Wreck Center", which took its name from the team members meeting at Drew's Gym at Austin Rec Center, was coached by Drew Wesely to victory in the ColdTowne Cagematch. Currently Drew's Gym Jam happens at 7pm every Friday at 2008 Justin Lane, immediately followed by the ColdTowne Jam which Drew Wesely also manages. 
 
 He performed a minor role in a scene with Ashley Judd in the motion picture **High Crimes** as "Marine", and was a background actor/dancer in the film **Desert Bloom** with Jon Voight.
 
 ## Active Improv & Sketch Troupes & Comedy Festival Shows
 * [[Switchblade]] - Current main improv team (team captain) (Performed a run of shows in the last month that ColdTowne Theater was open on Airport Blvd.) Performs the Pretty Flower (aka Spokane) format. 
-* [[Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB five times, four times in UCBT's DCM, and Chicago Improv Festival)
-* [[ColdTowne TourCo]] - (Performed in DCM and NYC's Magnet Theater, and Charleston Improv Festival)
+* [[Yard Sale]] - Harold-type improv team (House team at the new ColdTowne Theater (1700 E. 2nd St.)
+* [[ColdTowne TourCo]] - (Performed in the UCBT Del Close Marathon and NYC's Magnet Theater, and Charleston Improv Festival)
 
 
 ## Past Improv Troupes
+* [[Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB five times, four times in UCBT's DCM, and Chicago Improv Festival)
 * [[What's the Story, Steve]] - improv and sketchprov troupe (Performed in OOB)
 * [[Lucky Billy]] - Fallout Theater improv troupe (Performed in UCBT's DCM)
-* *[[TIT Talks]]* - Performed in [[The Moontower Comedy Festival]] and Fun Fun Fun Fest
+* *[[TIT Talks]]* - An improvised solo monologue performed in [[The Moontower Comedy Festival]] and Fun Fun Fun Fest
 * [[Unfurled]] - improv troupe (Performed in TCIF, NCCAF, OOB and twice in NOIF)
 * [[Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
 * [[Array]] - JTS Brown format troupe (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
