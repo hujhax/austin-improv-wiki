@@ -41,6 +41,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Live TV Tuesdays -  Buffy]]* (Wesley)
 * *[[Live TV Tuesdays -  Firefly]]* (Simon)
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Nick)
+* *[[Local on the Eights]]* (co-director)
 * *[[Lonely Star]]*
 * *[[Nothing and Everything]]*
 * *[[Myth Debunkers]]* (narrator)
@@ -56,6 +57,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Strange Worlds]]*
 * *[[Totally Improvised, 90210]]* (ensemble, assistant director)
 * *[[The Violet Underbelly]]*
+* *[[The Well-Made Play]]* (co-director)
 * *[[You Think You're So Smart]]*
 
 ## Media
