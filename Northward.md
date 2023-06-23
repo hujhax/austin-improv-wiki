@@ -1,7 +1,7 @@
 {{Infobox Troupe
 |Name	=		Northward
 |Cast	=	{{Unbulleted list|[[Norman Tran]]|[[Thedward Blevins]]}}
-|Years	=		2014-Present
+|Years	=		2014-2016
 }}
 
 **Northward** is an improv duo that focuses on big, distinct characters and strong relationships.
