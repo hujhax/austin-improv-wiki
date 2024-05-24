@@ -54,6 +54,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * 12/10/11 Maestro: [http://vimeo.com/33847258 part 1], [http://vimeo.com/33862670 part 2].
 * [http://vimeo.com/33971411 12/17/11 Maestro.]
 * [http://vimeo.com/34829065 1/7/12 Maestro.]
+* The 1/8/12 "Maestro Directors' Workshop": [https://vimeo.com/35035538 part 1], [https://vimeo.com/34998803 part 2], [https://vimeo.com/34998651 part 3], [https://vimeo.com/34992980 part 4] 
 * [http://vimeo.com/36954891 2/11/12 Maestro.]
 * [http://vimeo.com/39794849 3/24/12 Maestro.]
 * [http://vimeo.com/39994722 4/7/12 Maestro.]
