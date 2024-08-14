@@ -1,4 +1,3 @@
-![[Performance picture 2.jpg]]
 ![[Performance Photo.jpg]]
 {{Infobox Performer
 |Name	=	Monica Martinez Alquetz	
@@ -11,6 +10,8 @@
 
 Monica loves teaching improv because of how it reshapes people’s thinking when it comes to failure, risk-taking, and what truly makes people laugh. She believes that everyone has the capacity for comedy and the ability to succeed on stage, and this core belief is apparent in her teaching style. Her goal is to help others have fun, and she has a lot of fun doing it!
 
+![[Performance picture 2.jpg]]
+
 ## Troupes
 * [[Mother Punch]]
 * [[Soy Taco]]
@@ -22,6 +23,7 @@ Monica loves teaching improv because of how it reshapes people’s thinking when
 * *[[Coven]]*
 * *[[Start Trekkin']]*
 * *[[Sexy Future Space Lady]]*
+* *[[I'll Take the Physical Challenge]]*
 * *[[Silk Pajamas]]*
 * *[[The Black Vault]]*
 * *[[Small Town Girl]]*
