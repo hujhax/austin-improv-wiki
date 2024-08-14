@@ -1,7 +1,7 @@
 ![[Performance picture 2.jpg]]
 {{Infobox Performer
 |Picture =	Monica_Alquetz.jpeg
-|Name	=	Monica Martinez Alquetz	
+|Name	=	Monica Alquetz	
 |Theater=	[[The Hideout Theatre]], [[Merlin Works]]
 |Years	=	2014
 }}
