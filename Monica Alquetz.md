@@ -1,7 +1,7 @@
-![[Performance Photo.jpg]]
+![[Performance picture 2.jpg]]
 {{Infobox Performer
+|Picture =	Monica_Alquetz.jpeg
 |Name	=	Monica Martinez Alquetz	
-|Picture =	Monica Martinez Maher Pic.jpg
 |Theater=	[[The Hideout Theatre]], [[Merlin Works]]
 |Years	=	2014
 }}
@@ -10,13 +10,15 @@
 
 Monica loves teaching improv because of how it reshapes people’s thinking when it comes to failure, risk-taking, and what truly makes people laugh. She believes that everyone has the capacity for comedy and the ability to succeed on stage, and this core belief is apparent in her teaching style. Her goal is to help others have fun, and she has a lot of fun doing it!
 
-![[Performance picture 2.jpg]]
+![[Performance Photo.jpg]]
 
 ## Troupes
 * [[Mother Punch]]
 * [[Soy Taco]]
 * [[Gal Pals]]
 * [[The Association]]
+
+![[Performance Pic 3.jpg]]
 
 ## Shows
 * *[[Fiasco]]*
