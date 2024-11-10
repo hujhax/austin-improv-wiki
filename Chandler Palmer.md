@@ -1,6 +1,7 @@
 {{Infobox Performer
 |Name	=	Chandler Palmer
 |Theater=	[[The Hideout Theatre]]
+| Photo = Chandler_Palmer.jpg
 |Years	=	2023-Present
 }}
 
