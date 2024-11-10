@@ -23,10 +23,16 @@ and *[[The Fancy-Pants Mashup]]*.
 He has been teaching assistant for both adult and children's improv classes, and regularly leads the [[Wednesday Jams at Hideout Studios]].
 
 ## Shows
-* 
+* *[[Wild Friends]]* (2024)
+* *[[Doctor When]]* (2024) (Technical Improviser — Sound Effects)
+* *[[Spooky Halloween Journey]]* (2024)
+* *[[Excellent Adventure]]* (2024)
+* *[[Those Meddling Kids]]* (2024)
 * *[[Wonky Wishes]]* (2023)
+* *[[Outrageous Holiday Tales]]* (2019)
+* *[[Once Upon A Wha!!]]* (2019)
 * *[[The Pirates of Hideout Cove]]* (2018)
-* *[[Start Trekkin']]* (Season 8 — 2017) (Technical Improsiver)
+* *[[Start Trekkin']]* (Season 8 — 2017) (Technical Improviser)
 * *[[Fiasco]]* (2016) (Technical Improviser — Multimedia)
 * *[[It Came From Your Brain!]]* (2016) (Stage Manager/ Monster Crew)
 * *[[Adventure PhD]]* (2016)
