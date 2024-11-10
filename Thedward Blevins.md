@@ -33,7 +33,6 @@ He has been teaching assistant for both adult and children's improv classes, and
 * *[[Outrageous Holiday Tales]]* (2019)
 * *[[Once Upon A Wha!!]]* (2019)
 * *[[The Pirates of Hideout Cove]]* (2018)
-* ''[[Inner Picnic]]':
 * *[[Start Trekkin']]* (Season 8 — 2017) (Technical Improviser)
 * *[[The Fourth Wall is Behind You]]* (2017) (Sketch show with [[Inner Picnic]] at the Frontera Fest Short Fringe)
 * *[[Fiasco]]* (2016) (Technical Improviser — Multimedia)
