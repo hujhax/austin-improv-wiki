@@ -26,6 +26,7 @@ He has been teaching assistant for both adult and children's improv classes, and
 * *[[Wild Friends]]* (2024)
 * *[[Doctor When]]* (2024) (Technical Improviser — Sound Effects)
 * *[[Spooky Halloween Journey]]* (2024)
+* *[[Weird Frontier]]* (2024) (Stage Manager)
 * *[[Excellent Adventure]]* (2024)
 * *[[Those Meddling Kids]]* (2024)
 * *[[Wonky Wishes]]* (2023)
