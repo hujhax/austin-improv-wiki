@@ -23,6 +23,8 @@ and *[[The Fancy-Pants Mashup]]*.
 He has been teaching assistant for both adult and children's improv classes, and regularly leads the [[Wednesday Jams at Hideout Studios]].
 
 ## Shows
+* 
+* *[[Wonky Wishes]]* (2023)
 * *[[The Pirates of Hideout Cove]]* (2018)
 * *[[Start Trekkin']]* (Season 8 — 2017) (Technical Improsiver)
 * *[[Fiasco]]* (2016) (Technical Improviser — Multimedia)
