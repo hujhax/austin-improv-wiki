@@ -2,7 +2,7 @@
 |Name	=	Thedward Blevins	
 |Picture =	thedward01.jpg
 |Theater=	[[The Hideout Theatre]]
-|Years	=	2011-{{CURRENTYEAR}}
+|Years	=	2010-{{CURRENTYEAR}}
 }}
 **Thedward Blevins** is an improv performer and technical improviser.
 
