@@ -20,7 +20,7 @@
 * *Teaching Assistant Musical Improv Level 301 - Merlin Works* (2019)
 * *Junior and Senior High School Sunday School at University United Methodist Church* (1997 - 2010)
 * *Teaching Assistant in Speech Communication at Texas A&M University* (1990 - 1992)
-* *Storytelling Classes and Workshops* (2017 - Present)
+* *Improv and Storytelling Classes and Workshops* (2017 - Present)
 * *Dean of the Merlin Works Institute for Improvisation* (2021 - 2024)
 
 ## Storytelling
