@@ -1,7 +1,7 @@
 {{Infobox Performer
 |Name	=	Paul Normandin	
 |Picture =	Paul Normandin Pic.jpg
-|Theater=	[[The Hideout Theatre]]
+|Theater=	[[Merlin Works Institute for Improvisation]]
 |Years	=	2010-Present
 }}
 
@@ -45,10 +45,11 @@
 
 ## Improv Troupes
 * [[Apocalypse (troupe)|Apocalypse]] (2012)
-* [[In Our Prime]] (2011 - Present)
+* [[In Our Prime]] (2011 - 2025)
 * [[Two Guys From Yonkers]] (2011 - 2013)
 * [[We're Here to Date Your Daughter]] (2012 - 2016)
 * [[The Known Wizards]] (2020 - Present)
+* [[We're Moving]] (2025 - Present)
 
 ## Improv Shows
 * *[[EPIC!]]* (Season 1 & 2 - 2011)
@@ -73,6 +74,8 @@
 * *[[Bargainland]]* (Johnny 2017)
 * *[[The Other Side of the Window]]* (Earl 2018)
 * *[[Pagewood]]* (Brother Ken 2019)
+* *[[The Road Trip]]* (Playwright 2023)
+* *[[Out Out Damn I'm Out]]* (Director/Co-writer 2024)
 
 ## Festival Producer
 * *[[WaffleFest]]* (2014 - 2018)
@@ -99,7 +102,7 @@ Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stori
 
 Paul was a teaching assistant at [[The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[The Hideout Theatre]]'s annual [[WaffleFest]] from 2014 to 2018. 
 
-Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul teaches Improv and Storytelling classes and workshops. In his spare time, he lives to play [http://https://austinultimate.org/ "Ultimate"], run Dungeons and Dragons weekly and [https://en.wikipedia.org/wiki/Firefly_Role-Playing_Game "Firefly Role Playing Game"] Campaigns, and write.
+Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul took on the Role of Dean of [[Merlin Works Institute for Improvisation]] in 2021 and left the role in 2024. Paul continues to teach to include Improv and Storytelling classes and workshops. In his spare time, he lives to play [http://https://austinultimate.org/ "Ultimate"], run weekly [https://en.wikipedia.org/wiki/Tabletop_role-playing_game "Tabletop Role-Playing Game"] Campaigns, and write speculative fiction.
 
 ## More Information
 * [http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/ "In Praise Of..." post] by [[Mia Iseman]].
