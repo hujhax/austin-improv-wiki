@@ -1,4 +1,4 @@
-![[The Saturday Night Special Publicity.gif]]
+<div style="text-align: center;"><img src="The Saturday Night Special Publicity.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[The Saturday Night Special]]*.

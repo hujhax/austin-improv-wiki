@@ -1,4 +1,4 @@
-![[Control Issues.jpg]]
+<div style="text-align: center;"><img src="Control Issues.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Control Issues]]*.

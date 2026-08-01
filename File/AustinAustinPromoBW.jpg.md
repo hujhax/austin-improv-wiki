@@ -1,4 +1,4 @@
-![[AustinAustinPromoBW.jpg]]
+<div style="text-align: center;"><img src="AustinAustinPromoBW.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Austin-Austin]] Promo shot in black and white.

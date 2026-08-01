@@ -1,4 +1,4 @@
-![[Merlin Works Second Sundays.jpg]]
+<div style="text-align: center;"><img src="Merlin Works Second Sundays.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Known Wizards]] in the 2/8/15 performance of [[Merlin Works Second Sundays]].

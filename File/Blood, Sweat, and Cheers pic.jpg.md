@@ -1,4 +1,4 @@
-![[Blood, Sweat, and Cheers pic.jpg]]
+<div style="text-align: center;"><img src="Blood, Sweat, and Cheers pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The five cheer leads of *[[Blood, Sweat, and Cheers]]*.

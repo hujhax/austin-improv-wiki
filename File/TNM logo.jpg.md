@@ -1,4 +1,4 @@
-![[TNM logo.jpg]]
+<div style="text-align: center;"><img src="TNM logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for the New Movement theater.

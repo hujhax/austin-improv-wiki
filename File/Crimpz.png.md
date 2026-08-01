@@ -1,4 +1,4 @@
-![[Crimpz.png]]
+<div style="text-align: center;"><img src="Crimpz.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Crimpz]].

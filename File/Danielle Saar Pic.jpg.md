@@ -1,4 +1,4 @@
-![[Danielle Saar Pic.jpg]]
+<div style="text-align: center;"><img src="Danielle Saar Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Danielle Saar]] performing in *[[Maestro]]*.

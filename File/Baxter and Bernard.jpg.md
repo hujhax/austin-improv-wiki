@@ -1,4 +1,4 @@
-![[Baxter and Bernard.jpg]]
+<div style="text-align: center;"><img src="Baxter and Bernard.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Tom Booker]] (right) and [[Asaf Ronen]] performing as [[Baxter and Bernard]] at [[The 2012 Out of Bounds Comedy Festival]].

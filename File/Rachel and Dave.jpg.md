@@ -1,4 +1,4 @@
-![[Rachel and Dave.jpg]]
+<div style="text-align: center;"><img src="Rachel and Dave.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Rachel and Dave]] perform at [[The Hideout Theatre]], 12/9/10.

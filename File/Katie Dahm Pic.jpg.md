@@ -1,4 +1,4 @@
-![[Katie Dahm Pic.jpg]]
+<div style="text-align: center;"><img src="Katie Dahm Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Katie Dahm]] performing with [[Quayle]] on 2/5/11.

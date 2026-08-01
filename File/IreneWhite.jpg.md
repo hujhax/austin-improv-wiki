@@ -1,4 +1,4 @@
-![[IreneWhite.jpg]]
+<div style="text-align: center;"><img src="IreneWhite.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Irene White]], performing at [[The Hideout Theatre]].

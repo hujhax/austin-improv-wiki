@@ -1,4 +1,4 @@
-![[Mutual of Omaha's Wild Kingdom.jpg]]
+<div style="text-align: center;"><img src="Mutual of Omaha's Wild Kingdom.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for [[Mutual of Omaha's Wild Kingdom]].

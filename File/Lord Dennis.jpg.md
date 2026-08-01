@@ -1,4 +1,4 @@
-![[Lord Dennis.jpg]]
+<div style="text-align: center;"><img src="Lord Dennis.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Lord Dennis]].

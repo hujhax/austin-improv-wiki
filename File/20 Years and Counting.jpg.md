@@ -1,4 +1,4 @@
-![[20 Years and Counting.jpg]]
+<div style="text-align: center;"><img src="20 Years and Counting.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A wedding photo of [[Cathy Zarate|Cathy]] and [[Chuy Zarate]], who perform as [[20 Years and Counting]].

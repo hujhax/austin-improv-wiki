@@ -1,4 +1,4 @@
-![[The Theft Forum Pic.jpg]]
+<div style="text-align: center;"><img src="The Theft Forum Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The Theft Forum Logo

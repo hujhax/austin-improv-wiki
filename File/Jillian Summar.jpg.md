@@ -1,4 +1,4 @@
-![[Jillian Summar.jpg]]
+<div style="text-align: center;"><img src="Jillian Summar.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jillian Summar]] in the 4/5/14 performance of *[[Camp Madeupponathaspotta]]*.

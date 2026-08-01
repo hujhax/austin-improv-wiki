@@ -1,4 +1,4 @@
-![[Chrissy Shackelford Pic.jpg]]
+<div style="text-align: center;"><img src="Chrissy Shackelford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Casual photo of [[Chrissy Shackelford]].

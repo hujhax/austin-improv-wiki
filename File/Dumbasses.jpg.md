@@ -1,4 +1,4 @@
-![[Dumbasses.jpg]]
+<div style="text-align: center;"><img src="Dumbasses.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Luis Salinas]] and [[Marcus Hysmith]], in character as [[Dumbasses]], present an award at the first annual [[Institution Theater Awards]] show.

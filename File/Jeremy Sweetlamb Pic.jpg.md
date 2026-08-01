@@ -1,4 +1,4 @@
-![[Jeremy Sweetlamb Pic.jpg]]
+<div style="text-align: center;"><img src="Jeremy Sweetlamb Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jeremy Sweetlamb]] in the 3/3/12 ("Hole to Nowhere") performance of *[[Process]]*.

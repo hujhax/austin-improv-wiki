@@ -1,4 +1,4 @@
-![[Jericho Thorp Pic.jpg]]
+<div style="text-align: center;"><img src="Jericho Thorp Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jericho Thorp]], performing with [[Midnight Society]] in [[WaffleFest 2003]].

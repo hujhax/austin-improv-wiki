@@ -1,4 +1,4 @@
-![[WaffleFest 2004 Poster.jpg]]
+<div style="text-align: center;"><img src="WaffleFest 2004 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[WaffleFest 2004]].

@@ -1,4 +1,4 @@
-![[Live TV Tuesdays- 90210.jpg]]
+<div style="text-align: center;"><img src="Live TV Tuesdays- 90210.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The big dance at the end of the 5/3/11 performance of [[Live TV Tuesdays -  Beverly Hills, 90210]].

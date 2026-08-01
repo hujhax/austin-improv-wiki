@@ -1,4 +1,4 @@
-![[Character Explosion.jpg]]
+<div style="text-align: center;"><img src="Character Explosion.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Character Explosion]].

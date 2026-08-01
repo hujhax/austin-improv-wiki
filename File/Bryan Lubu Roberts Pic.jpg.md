@@ -1,4 +1,4 @@
-![[Bryan Lubu Roberts Pic.jpg]]
+<div style="text-align: center;"><img src="Bryan Lubu Roberts Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Bryan 'Lubu' Roberts]], playing with [[Ghetto Sketch Warlock]] in the [[Austin Sketchfest]] on 5/25/12.

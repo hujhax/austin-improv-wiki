@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays- Saved by the Bell.jpg"><img src="File/Live%20TV%20Tuesdays-%20Saved%20by%20the%20Bell.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Live TV Tuesdays- Saved by the Bell.jpg.md"><img src="File/Live%20TV%20Tuesdays-%20Saved%20by%20the%20Bell.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

@@ -1,4 +1,4 @@
-![[Love Fest.jpg]]
+<div style="text-align: center;"><img src="Love Fest.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Icon for [[Love Fest]].

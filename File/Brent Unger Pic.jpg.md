@@ -1,4 +1,4 @@
-![[Brent Unger Pic.jpg]]
+<div style="text-align: center;"><img src="Brent Unger Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Brent Unger]], preparing for the 2012 [[Same Year's Eve]] show.

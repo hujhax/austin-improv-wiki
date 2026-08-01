@@ -1,4 +1,4 @@
-![[Coldtowne.jpg]]
+<div style="text-align: center;"><img src="Coldtowne.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Coldtowne logo by Bryan Keplesky.  Image taken from http://www.designworklife.com/2013/02/26/bryan-keplesky-coldtowne-theater-identity/.

@@ -1,4 +1,4 @@
-![[Townsville-duoposter1.jpg]]
+<div style="text-align: center;"><img src="Townsville-duoposter1.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Original Poster for the first two [[Townsville]] shows at [[ColdTowne]].

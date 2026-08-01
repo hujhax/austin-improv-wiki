@@ -1,4 +1,4 @@
-![[Owen Egerton Pic.jpg]]
+<div style="text-align: center;"><img src="Owen Egerton Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Owen Egerton]]'s headshot from his imdb page.

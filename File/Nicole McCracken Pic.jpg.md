@@ -1,4 +1,4 @@
-![[Nicole McCracken Pic.jpg]]
+<div style="text-align: center;"><img src="Nicole McCracken Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Nicole McCracken]], in the 8/30/13 performance of *[[Braised in Texas]]*.

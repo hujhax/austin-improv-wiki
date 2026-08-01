@@ -1,4 +1,4 @@
-![[Live TV Tuesdays - Party of Five.jpg]]
+<div style="text-align: center;"><img src="Live TV Tuesdays - Party of Five.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The 8/30/11 performance of *[[Live TV Tuesdays -  Party of Five]]*.

@@ -1,4 +1,4 @@
-![[Wooden Nickel.jpg]]
+<div style="text-align: center;"><img src="Wooden Nickel.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Cast photo of [[Wooden Nickel]].

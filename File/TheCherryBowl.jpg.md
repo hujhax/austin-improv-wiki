@@ -1,4 +1,4 @@
-![[TheCherryBowl.jpg]]
+<div style="text-align: center;"><img src="TheCherryBowl.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[The Cherry Bowl]].

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays - Scrubs.jpg"><img src="File/Live%20TV%20Tuesdays%20-%20Scrubs.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Live TV Tuesdays - Scrubs.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Scrubs.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 
@@ -298,7 +298,7 @@ It played exclusively at [[The Institution Theater]].
 * [Photoset of the 8/10/12 performance](http://www.facebook.com/media/set/?set=a.376141825787836.83399.118587218209966&type=3) by [[Roy Moore]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.10102310892215350.3454321.7944448&type=3)  by [[Madeline Chauvin]].
 * [Publicity photos](http://www.facebook.com/media/set/?set=a.10102326737516240.3457235.7914830&type=3) posted by [[Adam Mengesha]].
-* [[File/ScrubsProgram.jpeg|The show's program.]]
+* [[File/ScrubsProgram.jpeg.md|The show's program.]]
 
 ## More Information
 * [The show's facebook page.](http://www.facebook.com/events/435835689802184/)

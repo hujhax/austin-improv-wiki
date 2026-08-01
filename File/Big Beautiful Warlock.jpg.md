@@ -1,4 +1,4 @@
-![[Big Beautiful Warlock.jpg]]
+<div style="text-align: center;"><img src="Big Beautiful Warlock.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Big Beautiful Warlock]] performs at [[The 2012 Out of Bounds Comedy Festival]].

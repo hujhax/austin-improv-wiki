@@ -1,4 +1,4 @@
-![[Stone Airplane.jpg]]
+<div style="text-align: center;"><img src="Stone Airplane.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Stone Airplane]].

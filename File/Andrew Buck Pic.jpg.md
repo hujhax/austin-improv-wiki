@@ -1,4 +1,4 @@
-![[Andrew Buck Pic.jpg]]
+<div style="text-align: center;"><img src="Andrew Buck Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Andrew Buck]] performing in [[This American Live]].

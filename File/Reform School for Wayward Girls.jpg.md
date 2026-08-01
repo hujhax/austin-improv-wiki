@@ -1,4 +1,4 @@
-![[Reform School for Wayward Girls.jpg]]
+<div style="text-align: center;"><img src="Reform School for Wayward Girls.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Reform School for Wayward Girls]]*.

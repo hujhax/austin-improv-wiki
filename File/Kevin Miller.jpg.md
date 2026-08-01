@@ -1,4 +1,4 @@
-![[Kevin Miller.jpg]]
+<div style="text-align: center;"><img src="Kevin Miller.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Taken by [[Steve Rogers]] from [this photoset](http://www.steve-rogers-photography.com/ImprovPerformances/Steam-Rose-Colored-Goggles-and/6-Steam-Rose-Colored-Goggles/)

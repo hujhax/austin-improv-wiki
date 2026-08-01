@@ -1,4 +1,4 @@
-![[¡ZARZAMORA!.jpg]]
+<div style="text-align: center;"><img src="¡ZARZAMORA!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo of [[¡Zarzamora!]], from [the troupe's facebook page](http://www.facebook.com/pages/Zarzamora/126236170779574).

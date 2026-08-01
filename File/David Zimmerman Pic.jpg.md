@@ -1,4 +1,4 @@
-![[David Zimmerman Pic.jpg]]
+<div style="text-align: center;"><img src="David Zimmerman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[David Zimmerman]] on the red carpet at [[The 2013 Institution Theater Awards]].

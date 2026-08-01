@@ -1,4 +1,4 @@
-![[Movie Riot.jpg]]
+<div style="text-align: center;"><img src="Movie Riot.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Movie Riot]]* by [[Carlos LaRotta]].

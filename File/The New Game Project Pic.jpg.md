@@ -1,4 +1,4 @@
-![[The New Game Project Pic.jpg]]
+<div style="text-align: center;"><img src="The New Game Project Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Lauren Buck]]'s game suggestion gets chosen in the premiere of *[[The New Game Project]]*, from the 1/5/12 *[[Free Fringe]]*.

@@ -1,4 +1,4 @@
-![[Cagematch2x4.jpg]]
+<div style="text-align: center;"><img src="Cagematch2x4.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The 2x4 with the names of winners of *[[The Cagematch]]*, mounted on the wall at [[ColdTowne Theater]].

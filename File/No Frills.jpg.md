@@ -1,4 +1,4 @@
-![[No Frills.jpg]]
+<div style="text-align: center;"><img src="No Frills.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[No Frills]] unofficially debuting at a special outdoor edition of *[[The Rubber Room]]* on 7/7/13.

@@ -1,4 +1,4 @@
-![[Andrew Pish Pic.jpg]]
+<div style="text-align: center;"><img src="Andrew Pish Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Andrew Pish]] performs in a student showcase at [[The Institution Theater]] on 12/2/11.

@@ -1,4 +1,4 @@
-![[Precious.jpg]]
+<div style="text-align: center;"><img src="Precious.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Precious]].

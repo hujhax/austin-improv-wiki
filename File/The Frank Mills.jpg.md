@@ -1,4 +1,4 @@
-![[The Frank Mills.jpg]]
+<div style="text-align: center;"><img src="The Frank Mills.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Frank Mills]] performing at [[The 2012 Out of Bounds Comedy Festival]].

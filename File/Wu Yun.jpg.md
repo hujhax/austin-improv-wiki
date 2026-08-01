@@ -1,4 +1,4 @@
-![[Wu Yun.jpg]]
+<div style="text-align: center;"><img src="Wu Yun.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A photo used to represent [[Wu Yun]] in an online meme.

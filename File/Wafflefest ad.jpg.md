@@ -1,4 +1,4 @@
-![[Wafflefest ad.jpg]]
+<div style="text-align: center;"><img src="Wafflefest ad.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A promotional image for the 2012 [[WaffleFest]].

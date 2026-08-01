@@ -1,4 +1,4 @@
-![[Concrete.jpg]]
+<div style="text-align: center;"><img src="Concrete.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Concrete]] celebrating their 1/16/13 [[Cagematch]] championship.

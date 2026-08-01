@@ -1,4 +1,4 @@
-![[Live TV Tuesdays - Angel.jpg]]
+<div style="text-align: center;"><img src="Live TV Tuesdays - Angel.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Lorne ([[Joel Reese]]) cares for a critically-injured (and puppet-ized) Angel ([[Heath Allyn]]), in the [[Live TV Tuesdays]] production of [[Live TV Tuesdays -  Angel|*Angel*]].

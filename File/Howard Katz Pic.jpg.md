@@ -1,4 +1,4 @@
-![[Howard Katz Pic.jpg]]
+<div style="text-align: center;"><img src="Howard Katz Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Howard Katz]], in the 1/21/12 performance of *[[Steam]]*.

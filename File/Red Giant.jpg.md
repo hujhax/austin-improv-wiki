@@ -1,4 +1,4 @@
-![[Red Giant.jpg]]
+<div style="text-align: center;"><img src="Red Giant.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Red Giant]].

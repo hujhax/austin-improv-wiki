@@ -1,4 +1,4 @@
-![[Brain Trust.jpg]]
+<div style="text-align: center;"><img src="Brain Trust.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A performance by [[Brain Trust]].

@@ -1,4 +1,4 @@
-![[I'll Be Home for Christmas.jpg]]
+<div style="text-align: center;"><img src="I'll Be Home for Christmas.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Stub image for *[[I'll Be Home For Christmas]]*, snipped from [The 2015 Hideout Student Mainstage Season announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater).

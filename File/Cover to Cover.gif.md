@@ -1,4 +1,4 @@
-![[Cover to Cover.gif]]
+<div style="text-align: center;"><img src="Cover to Cover.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Cover to Cover]]*, featuring director [[Audrey Rachel Sansom]].

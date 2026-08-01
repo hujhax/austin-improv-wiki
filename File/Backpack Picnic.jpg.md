@@ -1,4 +1,4 @@
-![[Backpack Picnic.jpg]]
+<div style="text-align: center;"><img src="Backpack Picnic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Mitch Baker]] and [[David Bewley]], performing in [[Backpack Picnic]]'s reunion show at [[The 2013 Out of Bounds Comedy Festival]].

@@ -1,4 +1,4 @@
-![[Ka-Baam!! Cover Art.jpg]]
+<div style="text-align: center;"><img src="Ka-Baam!! Cover Art.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The cover art from the 9/25/09 performance of *[[Ka-Baam!!]]*, featuring Improv Dwarf ([[Eric Heiberg]]), Epicurean King ([[Michael Thomas]]), and the Swirling Vortex of Emotional Need ([[Aden Kirschner]]), who face off against Almost Tree ([[Kacey Samiee]]).

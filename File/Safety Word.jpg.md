@@ -1,4 +1,4 @@
-![[Safety Word.jpg]]
+<div style="text-align: center;"><img src="Safety Word.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Safety Word]].

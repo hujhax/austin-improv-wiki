@@ -1,4 +1,4 @@
-![[Pgraph goodman.jpg]]
+<div style="text-align: center;"><img src="Pgraph goodman.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promo photo for [[Parallelogramophonograph]] from their [[Reverend Goodman]] show.

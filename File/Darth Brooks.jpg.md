@@ -1,4 +1,4 @@
-![[Darth Brooks.jpg]]
+<div style="text-align: center;"><img src="Darth Brooks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Darth Brooks]].

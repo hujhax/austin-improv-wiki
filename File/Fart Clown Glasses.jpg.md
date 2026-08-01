@@ -1,4 +1,4 @@
-![[Fart Clown Glasses.jpg]]
+<div style="text-align: center;"><img src="Fart Clown Glasses.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Casual photo of [[Fart Clown Glasses]] by [[Erika May McNichol]].

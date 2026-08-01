@@ -1,4 +1,4 @@
-![[Marc Majcher Pic.jpg]]
+<div style="text-align: center;"><img src="Marc Majcher Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Marc Majcher]], in the 1/20/13 performance of *[[Steam]]*.

@@ -1,4 +1,4 @@
-![[Apocalypse (troupe).jpg]]
+<div style="text-align: center;"><img src="Apocalypse (troupe).jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for the troupe [[Apocalypse (troupe)|Apocalypse]].

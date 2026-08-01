@@ -1,4 +1,4 @@
-![[The Monday Night Mash.jpg]]
+<div style="text-align: center;"><img src="The Monday Night Mash.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[The Monday Night Mash]]*.

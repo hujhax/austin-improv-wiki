@@ -1,4 +1,4 @@
-![[Frogtown Hollow Jubilee Jugband.jpg]]
+<div style="text-align: center;"><img src="Frogtown Hollow Jubilee Jugband.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Frogtown Hollow Jubilee Jugband]] celebrates a *[[Cagematch]]* victory.

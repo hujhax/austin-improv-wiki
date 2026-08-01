@@ -1,4 +1,4 @@
-![[Fiasco Placeholder.png]]
+<div style="text-align: center;"><img src="Fiasco Placeholder.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder icon for *[[Fiasco]]*.

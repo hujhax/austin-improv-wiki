@@ -1,4 +1,4 @@
-![[Space swank.jpg]]
+<div style="text-align: center;"><img src="Space swank.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Space Swank]] hanging out together before their first troupe show in *[[The Weekender]]*.

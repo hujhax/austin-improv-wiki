@@ -1,4 +1,4 @@
-![[Bob Olmstead Reset Pic.jpg]]
+<div style="text-align: center;"><img src="Bob Olmstead Reset Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Bob Olmstead]], performing in *[[The ReSet Project]]*.

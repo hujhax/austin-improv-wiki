@@ -1,4 +1,4 @@
-![[Michael Thomas Pic.jpg]]
+<div style="text-align: center;"><img src="Michael Thomas Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Michael Thomas]], in the 5/15/12 performance of *[[Live TV Tuesdays -  Firefly]]*.

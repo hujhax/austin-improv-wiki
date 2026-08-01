@@ -1,4 +1,4 @@
-![[Your Dad's Friends.jpg]]
+<div style="text-align: center;"><img src="Your Dad's Friends.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 YDF logo, taken from [the group's facebook page](http://www.facebook.com/pages/Your-Dads-Friends/247344088770).

@@ -1,4 +1,4 @@
-![[Quadrupeds.jpg]]
+<div style="text-align: center;"><img src="Quadrupeds.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Quadrupeds]] performing in the *[[Free Fringe]]* on 4/30/15.

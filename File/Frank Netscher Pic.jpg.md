@@ -1,4 +1,4 @@
-![[Frank Netscher Pic.jpg]]
+<div style="text-align: center;"><img src="Frank Netscher Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Frank Netscher]] performing with [[Big Beautiful Warlock]] in a May 2013 performance of *[[Big Beautiful Warriors]]*.

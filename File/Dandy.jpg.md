@@ -1,4 +1,4 @@
-![[Dandy.jpg]]
+<div style="text-align: center;"><img src="Dandy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of the only performance by [[Dandy]].

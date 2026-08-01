@@ -1,4 +1,4 @@
-![[Dave Matthews Troupe.jpg]]
+<div style="text-align: center;"><img src="Dave Matthews Troupe.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Dave Matthews Troupe]] performing in the 3/5/12 *[[Monday Night Mash]]*.

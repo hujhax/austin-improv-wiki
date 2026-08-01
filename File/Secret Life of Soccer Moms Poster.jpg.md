@@ -1,4 +1,4 @@
-![[Secret Life of Soccer Moms Poster.jpg]]
+<div style="text-align: center;"><img src="Secret Life of Soccer Moms Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for the [[Girls Girls Girls]] run of "The Secret Lives of Soccer Moms".

@@ -1,4 +1,4 @@
-![[TrekInVegas.jpg]]
+<div style="text-align: center;"><img src="TrekInVegas.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The season-two cast of *[[Start Trekkin']]* poses for a photo at the Las Vegas *Star Trek* convention.

@@ -1,4 +1,4 @@
-![[Pick Your Own Path.jpg]]
+<div style="text-align: center;"><img src="Pick Your Own Path.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Pick Your Own Path]]*; art by [[Kaci Beeler]].

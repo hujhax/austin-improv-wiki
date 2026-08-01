@@ -1,4 +1,4 @@
-![[Adam Mengesha Headshot.jpg]]
+<div style="text-align: center;"><img src="Adam Mengesha Headshot.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Headshot of [[Adam Mengesha]].

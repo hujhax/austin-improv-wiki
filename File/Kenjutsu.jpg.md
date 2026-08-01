@@ -1,4 +1,4 @@
-![[Kenjutsu.jpg]]
+<div style="text-align: center;"><img src="Kenjutsu.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Kenjutsu]]* by [[Kaci Beeler]].

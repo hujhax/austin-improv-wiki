@@ -1,4 +1,4 @@
-![[Quinn Headshot.jpg]]
+<div style="text-align: center;"><img src="Quinn Headshot.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Headshot style photo of Quinn Buckner as apart of a Steve Rogers' photo project 

@@ -1,4 +1,4 @@
-![[Hideout Exterior.jpg]]
+<div style="text-align: center;"><img src="Hideout Exterior.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A view of [[The Hideout Theatre]] from Congress Avenue.

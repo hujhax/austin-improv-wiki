@@ -1,4 +1,4 @@
-![[DancyStreet.jpg]]
+<div style="text-align: center;"><img src="DancyStreet.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of the improv troupe [[The Dancy Street D'Orchestra]].

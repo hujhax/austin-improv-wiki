@@ -1,4 +1,4 @@
-![[The Rubber Room.jpg]]
+<div style="text-align: center;"><img src="The Rubber Room.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for [[The Rubber Room]] by [[Asaf Ronen]].

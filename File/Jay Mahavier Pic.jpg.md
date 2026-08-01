@@ -1,4 +1,4 @@
-![[Jay Mahavier Pic.jpg]]
+<div style="text-align: center;"><img src="Jay Mahavier Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Jay Mahavier]] for *[[Fiasco]]*.

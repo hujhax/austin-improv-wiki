@@ -1,4 +1,4 @@
-![[Alexander Hilary Pic.jpg]]
+<div style="text-align: center;"><img src="Alexander Hilary Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 [[Alexander Hilary]] arrives on the red carpet for [[The 2013 Institution Theater Awards]].
 

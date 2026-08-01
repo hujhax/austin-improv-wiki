@@ -1,4 +1,4 @@
-![[The Source.jpg]]
+<div style="text-align: center;"><img src="The Source.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Audition-announcement image for *[[The Source]]*.

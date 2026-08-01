@@ -1,4 +1,4 @@
-![[Aaron Walther Pic.jpg]]
+<div style="text-align: center;"><img src="Aaron Walther Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Aaron Walther]], in the curtain call of the 1/28/12 performance of *[[Steam]]*.

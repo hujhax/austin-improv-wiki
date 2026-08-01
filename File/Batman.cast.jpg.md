@@ -1,4 +1,4 @@
-![[Batman.cast.jpg]]
+<div style="text-align: center;"><img src="Batman.cast.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The cast of *[[Holy 1960s Batman, Batman!]]*

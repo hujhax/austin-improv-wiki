@@ -1,4 +1,4 @@
-![[Pulp Friction poster.jpg]]
+<div style="text-align: center;"><img src="Pulp Friction poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Pulp Friction]]*.

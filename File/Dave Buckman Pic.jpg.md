@@ -1,4 +1,4 @@
-![[Dave Buckman Pic.jpg]]
+<div style="text-align: center;"><img src="Dave Buckman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Dave Buckman]], performing with [[You're Not My Real Dad]] at [[The 2010 Out of Bounds Comedy Festival]].

@@ -1,4 +1,4 @@
-![[Senshi Sokyo.jpg]]
+<div style="text-align: center;"><img src="Senshi Sokyo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Senshi Sokyo]].

@@ -1,4 +1,4 @@
-![[Michael Brockman Pic.jpg]]
+<div style="text-align: center;"><img src="Michael Brockman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 [[Michael Brockman]], manning a guitar, a mixer, and a piano during the 5/26/12 performance of *[[Rock]]*.  (His drum machine and second keyboard are out-of-frame.)
 

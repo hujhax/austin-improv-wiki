@@ -1,4 +1,4 @@
-![[Dance dreams.jpg]]
+<div style="text-align: center;"><img src="Dance dreams.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promo image for *[[Dance Dreams]]*.

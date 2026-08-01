@@ -1,4 +1,4 @@
-![[Rapture the Flag.jpg]]
+<div style="text-align: center;"><img src="Rapture the Flag.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Rapture the Flag]]*.

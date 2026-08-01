@@ -1,4 +1,4 @@
-![[Rock poster.jpg]]
+<div style="text-align: center;"><img src="Rock poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for the Hideout mainstage show *Rock: The Improvised Rock Opera*.

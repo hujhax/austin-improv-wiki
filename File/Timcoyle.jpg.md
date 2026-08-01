@@ -1,4 +1,4 @@
-![[Timcoyle.jpg]]
+<div style="text-align: center;"><img src="Timcoyle.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Headshot of Timothy Coyle.

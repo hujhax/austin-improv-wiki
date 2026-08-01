@@ -1,4 +1,4 @@
-![[Flying Theater Machine.jpg]]
+<div style="text-align: center;"><img src="Flying Theater Machine.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photobooth picture of the [[Flying Theater Machine]].

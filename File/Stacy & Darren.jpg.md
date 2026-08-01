@@ -1,4 +1,4 @@
-![[Stacy & Darren.jpg]]
+<div style="text-align: center;"><img src="Stacy & Darren.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Stacy & Darren]], in their 12/2/10 performance in *[[The Threefer]]*.

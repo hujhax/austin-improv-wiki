@@ -1,4 +1,4 @@
-![[Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg]]
+<div style="text-align: center;"><img src="Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Dr. Horrible and Captain Hammer face off in *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]*.

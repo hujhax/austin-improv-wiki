@@ -1,4 +1,4 @@
-![[TITie2013.jpg]]
+<div style="text-align: center;"><img src="TITie2013.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[There's Waldo]] presents an award at [[The 2013 Institution Theater Awards]].

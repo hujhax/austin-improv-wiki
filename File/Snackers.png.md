@@ -1,4 +1,4 @@
-![[Snackers.png]]
+<div style="text-align: center;"><img src="Snackers.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for [[Snackers]] by [[Jon Bolden]].

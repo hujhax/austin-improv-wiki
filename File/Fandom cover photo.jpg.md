@@ -1,4 +1,4 @@
-![[Fandom cover photo.jpg]]
+<div style="text-align: center;"><img src="Fandom cover photo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Facebook cover photo for *Fandom*, by [[Kaci Beeler]].

@@ -1,4 +1,4 @@
-![[Cody Melcher pic.jpg]]
+<div style="text-align: center;"><img src="Cody Melcher pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Cody Melcher]], appearing with [[The $3 Bills]] in [[The 2011 Out of Bounds Comedy Festival]].

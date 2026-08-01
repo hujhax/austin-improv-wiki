@@ -1,4 +1,4 @@
-![[Slam Team Cartoon.png]]
+<div style="text-align: center;"><img src="Slam Team Cartoon.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Slam Team Six]]*.

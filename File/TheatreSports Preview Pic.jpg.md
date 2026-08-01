@@ -1,4 +1,4 @@
-![[TheatreSports Preview Pic.jpg]]
+<div style="text-align: center;"><img src="TheatreSports Preview Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Preview image for *[[TheatreSports (mainstage run)|TheatreSports]]*.

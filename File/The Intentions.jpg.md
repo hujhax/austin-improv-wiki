@@ -1,4 +1,4 @@
-![[The Intentions.jpg]]
+<div style="text-align: center;"><img src="The Intentions.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Intentions]] take a bow after playing the 5/15/11 [[Weekender]] at [[The Hideout Theatre]].

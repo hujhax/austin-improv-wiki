@@ -1,4 +1,4 @@
-![[David Schwartz Pic.jpg]]
+<div style="text-align: center;"><img src="David Schwartz Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[David Schwartz]] for *[[Reform School for Wayward Girls]]*.

@@ -1,4 +1,4 @@
-![[The Super Troopers.jpg]]
+<div style="text-align: center;"><img src="The Super Troopers.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Super Troupers]], in their 7/22/12 student show at [[ColdTowne Theater]].

@@ -1,4 +1,4 @@
-![[Amy Averett Pic.jpg]]
+<div style="text-align: center;"><img src="Amy Averett Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Amy Averett]], performing with [[Girls Girls Girls]] on 5/5/12.

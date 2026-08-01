@@ -1,4 +1,4 @@
-![[Carissa McAtee Pic.jpg]]
+<div style="text-align: center;"><img src="Carissa McAtee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Carissa McAtee]], in the aftermath of the 2011 [[The Bloody Balloon Battle|Bloody Balloon Battle]].

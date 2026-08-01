@@ -1,4 +1,4 @@
-![[Theo Daley Pic.jpg]]
+<div style="text-align: center;"><img src="Theo Daley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Theo Daley]], in the 1/10/15 performance of *[[A Penny Dreadful]]*.

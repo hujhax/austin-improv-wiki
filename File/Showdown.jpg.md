@@ -1,4 +1,4 @@
-![[Showdown.jpg]]
+<div style="text-align: center;"><img src="Showdown.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Showdown]]*.

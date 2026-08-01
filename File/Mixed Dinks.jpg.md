@@ -1,4 +1,4 @@
-![[Mixed Dinks.jpg]]
+<div style="text-align: center;"><img src="Mixed Dinks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for [[Mixed Dinks]].

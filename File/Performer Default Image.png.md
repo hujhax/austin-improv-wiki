@@ -1,4 +1,4 @@
-![[Performer Default Image.png]]
+<div style="text-align: center;"><img src="Performer Default Image.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The default image for a performer.

@@ -1,4 +1,4 @@
-![[Ryanonstage.jpg]]
+<div style="text-align: center;"><img src="Ryanonstage.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ryan Hill]] performing at [[The Hideout Theatre]] in 2012.

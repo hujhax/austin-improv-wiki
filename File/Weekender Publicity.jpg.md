@@ -1,4 +1,4 @@
-![[Weekender Publicity.jpg]]
+<div style="text-align: center;"><img src="Weekender Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[The Weekender]]*.

@@ -1,4 +1,4 @@
-![[AlexAddison.jpeg]]
+<div style="text-align: center;"><img src="AlexAddison.jpeg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo curtesy of Michael Yew.

@@ -1,4 +1,4 @@
-![[Todd Hart Pic.jpg]]
+<div style="text-align: center;"><img src="Todd Hart Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Todd Hart]], in the 4/6/13 performance of *[[The Depression Chronicles]]*.

@@ -1,4 +1,4 @@
-![[Ammon Taylor Pic.jpg]]
+<div style="text-align: center;"><img src="Ammon Taylor Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ammon Taylor]], warming up for [[Same Year's Eve]] 12/30/12.

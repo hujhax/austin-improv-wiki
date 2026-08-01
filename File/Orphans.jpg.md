@@ -1,4 +1,4 @@
-![[Orphans.jpg]]
+<div style="text-align: center;"><img src="Orphans.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Online promo image for *[[Orphans!]]*.

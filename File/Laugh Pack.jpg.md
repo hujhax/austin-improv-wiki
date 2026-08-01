@@ -1,4 +1,4 @@
-![[Laugh Pack.jpg]]
+<div style="text-align: center;"><img src="Laugh Pack.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Still from episode 10 of "Three Guys Watching TV", by [[Laugh Pack]].

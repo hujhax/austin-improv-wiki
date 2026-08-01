@@ -1,4 +1,4 @@
-![[Ruby Willmann.jpg]]
+<div style="text-align: center;"><img src="Ruby Willmann.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ruby Willmann]] performing with [[The Escorts]] on 8/24/12.

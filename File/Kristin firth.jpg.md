@@ -1,4 +1,4 @@
-![[Kristin firth.jpg]]
+<div style="text-align: center;"><img src="Kristin firth.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Kristin Firth]] performing in [[Firth & Arjet]] at [[The Hideout Theatre]], in their final performance at *[[The Free Fringe]]* on 8/9/12.

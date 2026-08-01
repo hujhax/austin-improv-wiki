@@ -1,4 +1,4 @@
-![[Off the Reef.png]]
+<div style="text-align: center;"><img src="Off the Reef.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity banner art for *[[Off the Reef]]*.

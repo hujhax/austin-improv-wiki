@@ -1,4 +1,4 @@
-![[Slam Team Six.jpg]]
+<div style="text-align: center;"><img src="Slam Team Six.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The 4/5/14 performance of *[[Slam Team Six]]*.

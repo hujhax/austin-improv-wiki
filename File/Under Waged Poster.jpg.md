@@ -1,4 +1,4 @@
-![[Under Waged Poster.jpg]]
+<div style="text-align: center;"><img src="Under Waged Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for the [[Kosher Bacon]] show *Under Waged*.

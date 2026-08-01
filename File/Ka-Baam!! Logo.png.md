@@ -1,4 +1,4 @@
-![[Ka-Baam!! Logo.png]]
+<div style="text-align: center;"><img src="Ka-Baam!! Logo.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 *[[Ka-Baam!!]]* logo.

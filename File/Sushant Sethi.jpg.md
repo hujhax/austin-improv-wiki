@@ -1,4 +1,4 @@
-![[Sushant Sethi.jpg]]
+<div style="text-align: center;"><img src="Sushant Sethi.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Sushant Sethi]] in the *[[Aftermath]]* section of the 10/18/14 "[[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|Student Mainstage]] Sampler" show.

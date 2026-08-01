@@ -1,4 +1,4 @@
-![[Haunted Poster.jpg]]
+<div style="text-align: center;"><img src="Haunted Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Haunted]]*.

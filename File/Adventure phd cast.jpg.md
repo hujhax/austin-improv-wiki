@@ -1,3 +1,3 @@
-![[Adventure phd cast.jpg]]
+<div style="text-align: center;"><img src="Adventure phd cast.jpg" style="max-width: 100%; height: auto;" /></div>
 
 Cast of Adventure PhD (photo by Steve Rogers)

@@ -1,4 +1,4 @@
-![[Jay Michael Pic.jpg]]
+<div style="text-align: center;"><img src="Jay Michael Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jay Michael]], in the 1/14/12 performance of *[[Twilight Zoned]]*.

@@ -1,4 +1,4 @@
-![[2006 Out of Bounds Schedule.jpg]]
+<div style="text-align: center;"><img src="2006 Out of Bounds Schedule.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The schedule/postcard for [[The 2006 Out of Bounds Comedy Festival]].

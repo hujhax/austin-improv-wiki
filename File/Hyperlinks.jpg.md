@@ -1,4 +1,4 @@
-![[Hyperlinks.jpg]]
+<div style="text-align: center;"><img src="Hyperlinks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 From a 3/3/11 performance of *[[Hyperlinks]]* produced by [[The Institution Theater]].

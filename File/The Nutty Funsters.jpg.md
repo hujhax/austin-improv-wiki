@@ -1,4 +1,4 @@
-![[The Nutty Funsters.jpg]]
+<div style="text-align: center;"><img src="The Nutty Funsters.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Parallelogramophonograph]] in character as [[Parallelogramophonograph#The Nutty Funsters|"The Nutty Funsters"]], opening for *[[After School Improv]]* at [[ColdTowne Theater]] on 12/28/06.

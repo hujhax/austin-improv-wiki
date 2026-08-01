@@ -1,4 +1,4 @@
-![[Spider House Logo.jpg]]
+<div style="text-align: center;"><img src="Spider House Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Outdoor banner for [[The Spider House]].

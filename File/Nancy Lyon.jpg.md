@@ -1,4 +1,4 @@
-![[Nancy Lyon.jpg]]
+<div style="text-align: center;"><img src="Nancy Lyon.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Nancy Lyon]] at The Institution Theater in character for the BatShyt Crazy sketch 'Pedro Poops Joy'.

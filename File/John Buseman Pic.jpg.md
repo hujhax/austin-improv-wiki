@@ -1,4 +1,4 @@
-![[John Buseman Pic.jpg]]
+<div style="text-align: center;"><img src="John Buseman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[John Buseman]], performing with [[Blink]] in *[[The Saturday Night Special]]* on 4/17/10.

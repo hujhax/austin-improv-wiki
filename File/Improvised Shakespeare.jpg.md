@@ -1,4 +1,4 @@
-![[Improvised Shakespeare.jpg]]
+<div style="text-align: center;"><img src="Improvised Shakespeare.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The closing jig from the 5/16/09 performance of *[[Improvised Shakespeare]]*.

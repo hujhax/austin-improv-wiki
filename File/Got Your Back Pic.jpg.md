@@ -1,4 +1,4 @@
-![[Got Your Back Pic.jpg]]
+<div style="text-align: center;"><img src="Got Your Back Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for the *[[Got Your Back]]* podcast.

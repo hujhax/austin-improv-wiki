@@ -1,4 +1,4 @@
-![[Hp.jpg]]
+<div style="text-align: center;"><img src="Hp.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Human People

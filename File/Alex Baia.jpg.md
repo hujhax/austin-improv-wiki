@@ -1,4 +1,4 @@
-![[Alex Baia.jpg]]
+<div style="text-align: center;"><img src="Alex Baia.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Picture of [[Alex Baia]] from the April 11, 2013 performance of [[Theatresports]] at [[The Hideout Theatre]].

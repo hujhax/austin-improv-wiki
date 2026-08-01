@@ -1,4 +1,4 @@
-![[Discomfort Trumpet.jpg]]
+<div style="text-align: center;"><img src="Discomfort Trumpet.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Discomfort Trumpet]], in their 8/31/10 performance at *[[The Cagematch]]*.

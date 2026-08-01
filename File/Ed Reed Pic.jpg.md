@@ -1,4 +1,4 @@
-![[Ed Reed Pic.jpg]]
+<div style="text-align: center;"><img src="Ed Reed Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ed Reed]], performing with [[Bad Boys]] at [[ColdTowne Theater]] on 8/16/13.

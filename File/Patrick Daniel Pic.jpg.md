@@ -1,4 +1,4 @@
-![[Patrick Daniel Pic.jpg]]
+<div style="text-align: center;"><img src="Patrick Daniel Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Patrick Daniel]], performing in day 2 of [[Asafapalooza]] in 2010.

@@ -1,4 +1,4 @@
-![[The Nesting Dolls.jpg]]
+<div style="text-align: center;"><img src="The Nesting Dolls.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image of [[The Nesting Dolls]].

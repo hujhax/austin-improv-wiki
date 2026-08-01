@@ -1,4 +1,4 @@
-![[Ed32 Poster.jpg]]
+<div style="text-align: center;"><img src="Ed32 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[Ed 32]].

@@ -1,4 +1,4 @@
-![[Ed Melendez Pic.jpg]]
+<div style="text-align: center;"><img src="Ed Melendez Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ed Melendez]], performing with [[Oh, Science!]] at [[The 2012 Out of Bounds Comedy Festival]] on 8/28/12.

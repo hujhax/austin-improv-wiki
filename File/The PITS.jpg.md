@@ -1,4 +1,4 @@
-![[The PITS.jpg]]
+<div style="text-align: center;"><img src="The PITS.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[The PITS]], provided by [[Kaci Beeler]].

@@ -1,4 +1,4 @@
-![[The Mating Game.jpg]]
+<div style="text-align: center;"><img src="The Mating Game.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[The Mating Game]]*.

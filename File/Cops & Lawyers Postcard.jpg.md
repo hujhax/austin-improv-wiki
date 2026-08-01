@@ -1,4 +1,4 @@
-![[Cops & Lawyers Postcard.jpg]]
+<div style="text-align: center;"><img src="Cops & Lawyers Postcard.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Postcard for *[[Cops & Lawyers]]*.

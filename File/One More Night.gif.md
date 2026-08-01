@@ -1,4 +1,4 @@
-![[One More Night.gif]]
+<div style="text-align: center;"><img src="One More Night.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for *[[One More Night]]*.

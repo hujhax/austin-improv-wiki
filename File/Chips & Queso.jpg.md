@@ -1,4 +1,4 @@
-![[Chips & Queso.jpg]]
+<div style="text-align: center;"><img src="Chips & Queso.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Chips & Queso]].

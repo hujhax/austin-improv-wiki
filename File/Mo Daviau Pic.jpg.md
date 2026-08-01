@@ -1,4 +1,4 @@
-![[Mo Daviau Pic.jpg]]
+<div style="text-align: center;"><img src="Mo Daviau Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Mo Daviau]], reading her work at the 5/17/12 performance of *[[Bedpost Confessions]]*.

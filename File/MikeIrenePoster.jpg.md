@@ -1,4 +1,4 @@
-![[MikeIrenePoster.jpg]]
+<div style="text-align: center;"><img src="MikeIrenePoster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[Mike and Irene]].

@@ -1,4 +1,4 @@
-![[Dave Alley Pic.jpg]]
+<div style="text-align: center;"><img src="Dave Alley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Dave Alley]] performs in the 4/21/12 [[Maestro]].

@@ -1,4 +1,4 @@
-![[Sweet Justice.jpg]]
+<div style="text-align: center;"><img src="Sweet Justice.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Backstage photo of [[Sweet Justice]].

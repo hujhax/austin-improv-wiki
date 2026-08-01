@@ -1,4 +1,4 @@
-![[Overstreet & Johnson.jpg]]
+<div style="text-align: center;"><img src="Overstreet & Johnson.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Overstreet & Johnson]].

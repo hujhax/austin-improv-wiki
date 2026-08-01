@@ -1,4 +1,4 @@
-![[Shamrock.jpg]]
+<div style="text-align: center;"><img src="Shamrock.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Shamrock]].

@@ -1,4 +1,4 @@
-![[Rush.jpg]]
+<div style="text-align: center;"><img src="Rush.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Graduation photo of [[Rush]].

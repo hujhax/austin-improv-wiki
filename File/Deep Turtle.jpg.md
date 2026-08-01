@@ -1,4 +1,4 @@
-![[Deep Turtle.jpg]]
+<div style="text-align: center;"><img src="Deep Turtle.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Performance photo from the 1/8/15 debut of [[Deep Turtle]] at *[[The Threefer]]*.

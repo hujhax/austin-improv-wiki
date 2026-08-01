@@ -1,4 +1,4 @@
-![[Camp Madeupponaspotta.png]]
+<div style="text-align: center;"><img src="Camp Madeupponaspotta.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Camp Madeupponathaspotta]]*.

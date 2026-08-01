@@ -1,4 +1,4 @@
-![[Braised in Texas.jpg]]
+<div style="text-align: center;"><img src="Braised in Texas.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Braised in Texas]]*.

@@ -1,4 +1,4 @@
-![[Kyle Traughber Pic.jpg]]
+<div style="text-align: center;"><img src="Kyle Traughber Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 ## Summary

@@ -1,4 +1,4 @@
-![[Spectacle Publicity.jpg]]
+<div style="text-align: center;"><img src="Spectacle Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[The Spectacle]], featuring [[Parallelogramophonograph]].

@@ -1,4 +1,4 @@
-![[Merlin Works Mixer.jpg]]
+<div style="text-align: center;"><img src="Merlin Works Mixer.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Amber Shae]], [[Quinn Buckner]], and [[Michael Thomas]] perform a scene in their ad hoc troupe at a [[Merlin Works Mixer]] on 7/31/11 at the [[Salvage Vanguard Theater]].

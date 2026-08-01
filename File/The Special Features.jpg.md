@@ -1,4 +1,4 @@
-![[The Special Features.jpg]]
+<div style="text-align: center;"><img src="The Special Features.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo by [[Topping Haggerty]]

@@ -1,4 +1,4 @@
-![[Indigo Shift.jpg]]
+<div style="text-align: center;"><img src="Indigo Shift.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Indigo Shift]].

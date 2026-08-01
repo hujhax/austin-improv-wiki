@@ -1,4 +1,4 @@
-![[Fragile Rock.jpg]]
+<div style="text-align: center;"><img src="Fragile Rock.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo of [[Fragile Rock]].

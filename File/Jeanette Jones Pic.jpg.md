@@ -1,4 +1,4 @@
-![[Jeanette Jones Pic.jpg]]
+<div style="text-align: center;"><img src="Jeanette Jones Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jeanette Jones]] performing in *[[Bad Girls in Plaid Skirts]]* on 3/29/13.

@@ -1,4 +1,4 @@
-![[Liz Brammer Pic.jpg]]
+<div style="text-align: center;"><img src="Liz Brammer Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Liz Brammer]], in the 2/3/12 performance of *[[Steam]]*.

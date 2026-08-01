@@ -1,4 +1,4 @@
-![[We Invented Dinosaurs.jpg]]
+<div style="text-align: center;"><img src="We Invented Dinosaurs.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[We Invented Dinosaurs]].

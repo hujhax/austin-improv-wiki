@@ -1,4 +1,4 @@
-![[The Source Poster.jpg]]
+<div style="text-align: center;"><img src="The Source Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[The Source]]*.

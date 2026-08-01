@@ -1,4 +1,4 @@
-![[Cap City Comedy Club.png]]
+<div style="text-align: center;"><img src="Cap City Comedy Club.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo of [[Cap City Comedy Club]].

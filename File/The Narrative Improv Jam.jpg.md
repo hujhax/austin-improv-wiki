@@ -1,4 +1,4 @@
-![[The Narrative Improv Jam.jpg]]
+<div style="text-align: center;"><img src="The Narrative Improv Jam.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[The Narrative Improv Jam]]*.

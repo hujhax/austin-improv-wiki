@@ -1,4 +1,4 @@
-![[Ls cropped.jpg]]
+<div style="text-align: center;"><img src="Ls cropped.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Luis Salinas]].

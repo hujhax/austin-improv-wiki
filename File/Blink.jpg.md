@@ -1,4 +1,4 @@
-![[Blink.jpg]]
+<div style="text-align: center;"><img src="Blink.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Blink]], 2010.

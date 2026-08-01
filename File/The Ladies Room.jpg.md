@@ -1,4 +1,4 @@
-![[The Ladies Room.jpg]]
+<div style="text-align: center;"><img src="The Ladies Room.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[The Ladies Room]]*.

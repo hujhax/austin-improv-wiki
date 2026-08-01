@@ -1,4 +1,4 @@
-![[Hank and Marlena.jpg]]
+<div style="text-align: center;"><img src="Hank and Marlena.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Tyler Reece Booker]] and [[Taylor Overstreet]] as [[Hank and Marlena]].

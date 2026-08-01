@@ -1,4 +1,4 @@
-![[Show Default Image.jpg]]
+<div style="text-align: center;"><img src="Show Default Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The default image for a show or theater.

@@ -1,4 +1,4 @@
-![[Lane and Jane.jpg]]
+<div style="text-align: center;"><img src="Lane and Jane.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Lane & Jane]], performing in the 5/17/13 *[[2x4]]*.

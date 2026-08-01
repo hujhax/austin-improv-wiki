@@ -1,4 +1,4 @@
-![[Nice Astronaut.jpg]]
+<div style="text-align: center;"><img src="Nice Astronaut.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Nice Astronaut]] performing in the 12/27/12 [[Threefer]] at [[The Hideout Theatre]].

@@ -1,4 +1,4 @@
-![[Mustache.jpg]]
+<div style="text-align: center;"><img src="Mustache.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Mustache]], featuring [[Frank Netscher]].

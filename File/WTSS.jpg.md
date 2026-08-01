@@ -1,4 +1,4 @@
-![[WTSS.jpg]]
+<div style="text-align: center;"><img src="WTSS.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A [[What's the Story, Steve]] performance from April 2012.

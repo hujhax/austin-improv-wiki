@@ -1,4 +1,4 @@
-![[Junk.jpg]]
+<div style="text-align: center;"><img src="Junk.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Junk]], performing in [[The 2012 Out of Bounds Comedy Festival]].

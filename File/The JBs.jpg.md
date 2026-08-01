@@ -1,4 +1,4 @@
-![[The JBs.jpg]]
+<div style="text-align: center;"><img src="The JBs.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for a performance by [[The JBs]] at *[[The Monday Night Mash]]*.

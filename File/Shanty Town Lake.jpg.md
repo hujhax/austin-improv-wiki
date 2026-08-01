@@ -1,4 +1,4 @@
-![[Shanty Town Lake.jpg]]
+<div style="text-align: center;"><img src="Shanty Town Lake.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shanty Town Lake]]*.

@@ -1,4 +1,4 @@
-![[Rewind.jpg]]
+<div style="text-align: center;"><img src="Rewind.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional Banner Graphic for Rewind

@@ -1,4 +1,4 @@
-![[Eric Heiberg Pic.jpg]]
+<div style="text-align: center;"><img src="Eric Heiberg Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Eric Heiberg]], in the 1/19/13 (*Batman*) performance of *[[Fandom]]*.

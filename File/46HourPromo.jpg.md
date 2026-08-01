@@ -1,4 +1,4 @@
-![[46HourPromo.jpg]]
+<div style="text-align: center;"><img src="46HourPromo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for [[The 46-Hour Improv Marathon]].

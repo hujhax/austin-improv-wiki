@@ -1,4 +1,4 @@
-![[Lady Couch.jpg]]
+<div style="text-align: center;"><img src="Lady Couch.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Lady Couch]] performing at *[[The Saturday Night Special]]* on 4/9/11.

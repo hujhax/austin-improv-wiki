@@ -1,4 +1,4 @@
-![[Paul Normandin Pic.jpg]]
+<div style="text-align: center;"><img src="Paul Normandin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Paul Normandin]], performing in *[[The Black Vault]]*.  Photo by [[Roy Moore]].

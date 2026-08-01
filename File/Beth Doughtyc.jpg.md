@@ -1,4 +1,4 @@
-![[Beth Doughtyc.jpg]]
+<div style="text-align: center;"><img src="Beth Doughtyc.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo by [[Topping Haggerty]]

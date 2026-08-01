@@ -1,4 +1,4 @@
-![[Blank.jpg]]
+<div style="text-align: center;"><img src="Blank.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Greg Blank]], in the 3/1/13 performance of *[[The Fancy-Pants Mash-Up]]*.

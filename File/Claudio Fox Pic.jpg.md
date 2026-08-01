@@ -1,4 +1,4 @@
-![[Claudio Fox Pic.jpg]]
+<div style="text-align: center;"><img src="Claudio Fox Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Claudio Fox]], performing in the 12/20/12 *[[Free Fringe]]*.

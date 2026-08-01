@@ -1,4 +1,4 @@
-![[The Lab.jpg]]
+<div style="text-align: center;"><img src="The Lab.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[The Lab]]*.

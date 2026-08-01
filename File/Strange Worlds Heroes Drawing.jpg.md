@@ -1,4 +1,4 @@
-![[Strange Worlds Heroes Drawing.jpg]]
+<div style="text-align: center;"><img src="Strange Worlds Heroes Drawing.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A drawing of the cast of heroes from *[[Strange Worlds]]*.

@@ -1,4 +1,4 @@
-![[BricABracPromo2.jpg]]
+<div style="text-align: center;"><img src="BricABracPromo2.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Bric-a-Brac pre show promo

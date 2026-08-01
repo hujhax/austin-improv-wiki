@@ -1,4 +1,4 @@
-![[Braised Cast.jpg]]
+<div style="text-align: center;"><img src="Braised Cast.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The cast of the 8/30/13 performance of *[[Braised in Texas]]*, at [[The 2013 Out of Bounds Comedy Festival]].

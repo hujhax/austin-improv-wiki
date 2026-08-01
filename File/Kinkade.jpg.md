@@ -1,4 +1,4 @@
-![[Kinkade.jpg]]
+<div style="text-align: center;"><img src="Kinkade.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Casual photo of [[Kinkade]].

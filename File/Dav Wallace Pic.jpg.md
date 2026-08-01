@@ -1,4 +1,4 @@
-![[Dav Wallace Pic.jpg]]
+<div style="text-align: center;"><img src="Dav Wallace Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Dav Wallace]], performing with [[Improv for Evil]] in their "Office Party" format on 12/18/09.

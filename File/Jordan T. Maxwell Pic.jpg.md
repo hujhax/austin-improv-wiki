@@ -1,4 +1,4 @@
-![[Jordan T. Maxwell Pic.jpg]]
+<div style="text-align: center;"><img src="Jordan T. Maxwell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promo photo for *[[Strange Worlds]]*.

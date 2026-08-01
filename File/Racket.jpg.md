@@ -1,4 +1,4 @@
-![[Racket.jpg]]
+<div style="text-align: center;"><img src="Racket.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Racket]]*.

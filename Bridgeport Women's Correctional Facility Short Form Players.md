@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Bridgeport Women's Correctional Facility Short Form Players.jpg"><img src="File/Bridgeport%20Women's%20Correctional%20Facility%20Short%20Form%20Players.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Bridgeport Women's Correctional Facility Short Form Players.jpg.md"><img src="File/Bridgeport%20Women's%20Correctional%20Facility%20Short%20Form%20Players.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

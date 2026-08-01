@@ -1,4 +1,4 @@
-![[Reframed.jpg]]
+<div style="text-align: center;"><img src="Reframed.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Reframed]]*.

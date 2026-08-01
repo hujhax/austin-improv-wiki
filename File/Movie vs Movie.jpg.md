@@ -1,4 +1,4 @@
-![[Movie vs Movie.jpg]]
+<div style="text-align: center;"><img src="Movie vs Movie.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Movie vs Movie]]* by [[Carlos LaRotta]].

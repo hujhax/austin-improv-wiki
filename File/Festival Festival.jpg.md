@@ -1,4 +1,4 @@
-![[Festival Festival.jpg]]
+<div style="text-align: center;"><img src="Festival Festival.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Festival Festival]]*.

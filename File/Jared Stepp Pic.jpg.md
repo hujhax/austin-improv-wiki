@@ -1,4 +1,4 @@
-![[Jared Stepp Pic.jpg]]
+<div style="text-align: center;"><img src="Jared Stepp Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jared Stepp]], performing with [[Achatina Achatina!]] in the 3/10/11 performance of *[[The Threefer]]*.

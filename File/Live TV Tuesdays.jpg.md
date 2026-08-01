@@ -1,4 +1,4 @@
-![[Live TV Tuesdays.jpg]]
+<div style="text-align: center;"><img src="Live TV Tuesdays.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Live TV Tuesdays]]*, featuring their productions of *[[Live TV Tuesdays -  Beverly Hills, 90210|Beverly Hills, 90210]]*, *[[Live TV Tuesdays -  Dawson's Creek|Dawson's Creek]]*, and *[[Live TV Tuesdays -  My So-Called Life|My So-Called Life]]*.

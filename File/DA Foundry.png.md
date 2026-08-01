@@ -1,4 +1,4 @@
-![[DA Foundry.png]]
+<div style="text-align: center;"><img src="DA Foundry.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[DA Foundry]].

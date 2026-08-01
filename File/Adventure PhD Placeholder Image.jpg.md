@@ -1,4 +1,4 @@
-![[Adventure PhD Placeholder Image.jpg]]
+<div style="text-align: center;"><img src="Adventure PhD Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder image for *[[Adventure PhD]]*.

@@ -1,4 +1,4 @@
-![[BeauMoMa.jpg]]
+<div style="text-align: center;"><img src="BeauMoMa.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[BeauMoMa]] performing at [[The Institution Theater]].

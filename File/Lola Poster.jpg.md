@@ -1,4 +1,4 @@
-![[Lola Poster.jpg]]
+<div style="text-align: center;"><img src="Lola Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Lola]]*.

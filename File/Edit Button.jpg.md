@@ -1,4 +1,4 @@
-![[Edit Button.jpg]]
+<div style="text-align: center;"><img src="Edit Button.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Screencap by [[Peter Rogers]] indicating where the edit button is.

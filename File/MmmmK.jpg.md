@@ -1,4 +1,4 @@
-![[MmmmK.jpg]]
+<div style="text-align: center;"><img src="MmmmK.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[MmmmK]], playing in Honolulu's 2011 Improvaganza festival.

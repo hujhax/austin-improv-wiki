@@ -1,4 +1,4 @@
-![[The Jam with Oh, Science!.jpg]]
+<div style="text-align: center;"><img src="The Jam with Oh, Science!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for [[The Jam with Oh, Science!]].

@@ -1,4 +1,4 @@
-![[Madi Goff Pic.jpg]]
+<div style="text-align: center;"><img src="Madi Goff Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Madi Goff]], in the 1/22/10 performance of *[[One More Night]]*.

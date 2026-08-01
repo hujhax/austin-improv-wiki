@@ -1,4 +1,4 @@
-![[The Masterpiece.png]]
+<div style="text-align: center;"><img src="The Masterpiece.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Masterpiece]], performing in *[[The Threefer]]* on 4/26/12.

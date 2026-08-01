@@ -1,4 +1,4 @@
-![[Mark Shoemaker.jpg]]
+<div style="text-align: center;"><img src="Mark Shoemaker.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Mark performing in Thinning the Herd at the Institution Theater.

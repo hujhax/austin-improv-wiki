@@ -1,4 +1,4 @@
-![[Ka-Baam!! Audience Winner.jpg]]
+<div style="text-align: center;"><img src="Ka-Baam!! Audience Winner.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 After the 5/17/08 performance of *[[Ka-Baam!!]]*, the audience winner poses with (from left) guest artist Thomas Reidy, [[Michael Thomas]] as Inflatable Man, [[Audrey Rachel Sansom]] as Jane the Unremarkable, and [[Roy Janik]] as The Exciting Elemental.

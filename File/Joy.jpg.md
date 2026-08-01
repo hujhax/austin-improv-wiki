@@ -1,4 +1,4 @@
-![[Joy.jpg]]
+<div style="text-align: center;"><img src="Joy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Joy]].

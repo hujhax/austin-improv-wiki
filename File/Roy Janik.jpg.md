@@ -1,4 +1,4 @@
-![[Roy Janik.jpg]]
+<div style="text-align: center;"><img src="Roy Janik.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Roy Janik]], performing in [[Austin Secrets]] at [[WaffleFest]] 2012.

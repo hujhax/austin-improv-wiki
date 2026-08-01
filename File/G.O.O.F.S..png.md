@@ -1,4 +1,4 @@
-![[G.O.O.F.S..png]]
+<div style="text-align: center;"><img src="G.O.O.F.S..png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Still from a video of the 1/2/14 performance by [[G.O.O.F.S]]

@@ -1,4 +1,4 @@
-![[Scene of the Crime.jpg]]
+<div style="text-align: center;"><img src="Scene of the Crime.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Stub image for *[[Scene of the Crime]]*, snipped from [The 2015 Hideout Mainstage Season announcement](https://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1).

@@ -1,4 +1,4 @@
-![[The $3 Bills.jpg]]
+<div style="text-align: center;"><img src="The $3 Bills.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[The $3 Bills]] for [[The 2010 Out of Bounds Comedy Festival]].

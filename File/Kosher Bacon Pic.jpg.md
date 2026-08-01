@@ -1,4 +1,4 @@
-![[Kosher Bacon Pic.jpg]]
+<div style="text-align: center;"><img src="Kosher Bacon Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Kosher Bacon]] points at the audience after their 9/8/12 performance of *Under Waged* at *[[The Saturday Night Special]]*.

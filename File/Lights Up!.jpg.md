@@ -1,4 +1,4 @@
-![[Lights Up!.jpg]]
+<div style="text-align: center;"><img src="Lights Up!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Lights Up!]]*

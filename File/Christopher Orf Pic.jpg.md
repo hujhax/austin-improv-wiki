@@ -1,4 +1,4 @@
-![[Christopher Orf Pic.jpg]]
+<div style="text-align: center;"><img src="Christopher Orf Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Christopher Orf]], in the 7-29-06 performance of *[[Cops & Lawyers]]*.

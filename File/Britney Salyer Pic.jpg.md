@@ -1,4 +1,4 @@
-![[Britney Salyer Pic.jpg]]
+<div style="text-align: center;"><img src="Britney Salyer Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Britney Salyer]] performing in *[[The Sandbox]]* on 1/28/11.

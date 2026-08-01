@@ -1,4 +1,4 @@
-![[The Honeypot.jpg]]
+<div style="text-align: center;"><img src="The Honeypot.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Honeypot]] performing in the 3/5/12 *[[Monday Night Mash]]*.

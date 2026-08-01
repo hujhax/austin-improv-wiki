@@ -1,4 +1,4 @@
-![[Improv Anonymous.jpg]]
+<div style="text-align: center;"><img src="Improv Anonymous.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for an *[[Improv Anonymous]]* performance in Oklahoma City.

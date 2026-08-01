@@ -1,4 +1,4 @@
-![[Kathy Rose Center pic.jpg]]
+<div style="text-align: center;"><img src="Kathy Rose Center pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Kathy Rose Center]] performing in "[[Only Three Will Survive]]" on February 20, 2012.

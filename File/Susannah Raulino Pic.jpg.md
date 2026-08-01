@@ -1,4 +1,4 @@
-![[Susannah Raulino Pic.jpg]]
+<div style="text-align: center;"><img src="Susannah Raulino Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Susannah Raulino]], performing in *[[Heist!]]* in the 2/19/11 [[Gnap!]] Homecoming Showcase.

@@ -1,4 +1,4 @@
-![[$10 Bourbon.jpg]]
+<div style="text-align: center;"><img src="$10 Bourbon.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The final performance from [[$10 Bourbon]], at [[The 2008 Out of Bounds Comedy Festival]].

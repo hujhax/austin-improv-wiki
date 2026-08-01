@@ -1,4 +1,4 @@
-![[Bob McNichol Pic.jpg]]
+<div style="text-align: center;"><img src="Bob McNichol Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Bob McNichol]], performing with [[The Frank Mills]] in [[The 2010 Out of Bounds Comedy Festival]].

@@ -1,4 +1,4 @@
-![[Raney Nights.png]]
+<div style="text-align: center;"><img src="Raney Nights.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Raney Nights]]*.

@@ -1,4 +1,4 @@
-![[Katie Doran Pic.jpg]]
+<div style="text-align: center;"><img src="Katie Doran Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Katie Doran]] (right) posing with [[JK]] at [[The 2015 Out of Bounds Comedy Festival]]'s photobooth.

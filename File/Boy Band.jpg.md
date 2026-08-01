@@ -1,4 +1,4 @@
-![[Boy Band.jpg]]
+<div style="text-align: center;"><img src="Boy Band.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Boy Band]]*.

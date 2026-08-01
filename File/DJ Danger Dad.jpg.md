@@ -1,4 +1,4 @@
-![[DJ Danger Dad.jpg]]
+<div style="text-align: center;"><img src="DJ Danger Dad.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[DJ Danger Dad]].

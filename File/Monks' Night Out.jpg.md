@@ -1,4 +1,4 @@
-![[Monks' Night Out.jpg]]
+<div style="text-align: center;"><img src="Monks' Night Out.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Monks' Night Out]], playing [[The Velveeta Room]] in 1999.

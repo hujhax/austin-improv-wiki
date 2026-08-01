@@ -1,4 +1,4 @@
-![[Brick vs. Mongoose.jpg]]
+<div style="text-align: center;"><img src="Brick vs. Mongoose.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Brick vs. Mongoose]].

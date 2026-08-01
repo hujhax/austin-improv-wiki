@@ -1,4 +1,4 @@
-![[Kingston.jpg]]
+<div style="text-align: center;"><img src="Kingston.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Kingston]].

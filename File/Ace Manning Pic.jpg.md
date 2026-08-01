@@ -1,4 +1,4 @@
-![[Ace Manning Pic.jpg]]
+<div style="text-align: center;"><img src="Ace Manning Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ace Manning]], in the 3/3/12 performance of *[[Process]]*.

@@ -1,4 +1,4 @@
-![[Mike D'Alonzo Pic.jpg]]
+<div style="text-align: center;"><img src="Mike D'Alonzo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Mike D'Alonzo]], performing with Covered and Smothered in [[The 2010 Out of Bounds Comedy Festival]].

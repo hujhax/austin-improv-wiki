@@ -1,4 +1,4 @@
-![[Meal of Sides.jpg]]
+<div style="text-align: center;"><img src="Meal of Sides.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Meal of Sides]].

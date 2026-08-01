@@ -1,4 +1,4 @@
-![[Heather Hasselle Pic.jpg]]
+<div style="text-align: center;"><img src="Heather Hasselle Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Heather Hasselle]] in the 3/7/15 performance of *[[Austin Secrets]]*.

@@ -1,4 +1,4 @@
-![[Jessie Pascarelli Pic.jpg]]
+<div style="text-align: center;"><img src="Jessie Pascarelli Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jessie Pascarelli]], volunteering at the 2012 [[WaffleFest]].

@@ -1,4 +1,4 @@
-![[Brandon Martin Pic.jpg]]
+<div style="text-align: center;"><img src="Brandon Martin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Brandon Martin]], in a publicity photo for *[[Under Waged]]*.

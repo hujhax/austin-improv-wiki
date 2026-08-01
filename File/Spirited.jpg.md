@@ -1,4 +1,4 @@
-![[Spirited.jpg]]
+<div style="text-align: center;"><img src="Spirited.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for [[Spirited]], depicting "Alices" [[Halyn Lee Erickson]] and [[Sarah Marie Curry]].

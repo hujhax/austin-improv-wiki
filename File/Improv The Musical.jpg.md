@@ -1,4 +1,4 @@
-![[Improv The Musical.jpg]]
+<div style="text-align: center;"><img src="Improv The Musical.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder image for *[[Improv -  The Musical]]*.

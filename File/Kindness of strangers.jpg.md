@@ -1,4 +1,4 @@
-![[Kindness of strangers.jpg]]
+<div style="text-align: center;"><img src="Kindness of strangers.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 promotional poster for Kindness of Strangers

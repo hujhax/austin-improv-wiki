@@ -1,4 +1,4 @@
-![[Super Sweet.jpg]]
+<div style="text-align: center;"><img src="Super Sweet.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Backstage photo of [[Super Sweet]].

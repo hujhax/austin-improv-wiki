@@ -1,4 +1,4 @@
-![[The Lindas.jpg]]
+<div style="text-align: center;"><img src="The Lindas.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Lindas]], performing in [[The 2011 Ladies Are Funny Festival]].

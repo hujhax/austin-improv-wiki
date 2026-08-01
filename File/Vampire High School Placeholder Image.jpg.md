@@ -1,4 +1,4 @@
-![[Vampire High School Placeholder Image.jpg]]
+<div style="text-align: center;"><img src="Vampire High School Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder image for *[[Vampire High School]]*.

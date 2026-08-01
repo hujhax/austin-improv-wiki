@@ -1,4 +1,4 @@
-![[Rise shine.jpg]]
+<div style="text-align: center;"><img src="Rise shine.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Rise & Shine]].

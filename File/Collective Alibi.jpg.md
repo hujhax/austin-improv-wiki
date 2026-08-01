@@ -1,4 +1,4 @@
-![[Collective Alibi.jpg]]
+<div style="text-align: center;"><img src="Collective Alibi.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Collective Alibi]].

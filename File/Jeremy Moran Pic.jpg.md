@@ -1,4 +1,4 @@
-![[Jeremy Moran Pic.jpg]]
+<div style="text-align: center;"><img src="Jeremy Moran Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jeremy Moran]] in the 12/13/14 performance of *[[A Penny Dreadful]]*.

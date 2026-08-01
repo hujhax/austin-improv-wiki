@@ -1,4 +1,4 @@
-![[Live TV Tuesdays- Saved by the Bell.jpg]]
+<div style="text-align: center;"><img src="Live TV Tuesdays- Saved by the Bell.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Live TV Tuesdays -  Saved by the Bell]].

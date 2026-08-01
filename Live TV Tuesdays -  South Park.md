@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays - South Park.jpg"><img src="File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Live TV Tuesdays - South Park.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 
@@ -101,7 +101,7 @@ It ran for its first month at [[The Highball]], and then moved to [[The Institut
 
 ![[SouthParkCeaseAndDesist.jpg|South Park Live]]''.]]
 
-On 6/28/12, Viacom sent [[File/SouthParkCeaseAndDesist.jpg|a cease-and-desist letter]], demanding an end to the show for reasons of copyright violation.
+On 6/28/12, Viacom sent [[File/SouthParkCeaseAndDesist.jpg.md|a cease-and-desist letter]], demanding an end to the show for reasons of copyright violation.
 
 ## Cast
 * Stan -- [[Michael Pedicano]]

@@ -1,4 +1,4 @@
-![[Heidi Rogers Pic.jpg]]
+<div style="text-align: center;"><img src="Heidi Rogers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Heidi Rogers]] performing in *[[Strange Worlds]]*.

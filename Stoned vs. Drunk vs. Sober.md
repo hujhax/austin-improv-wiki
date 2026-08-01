@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Stoned vs. Drunk vs. Sober.jpg"><img src="File/Stoned%20vs.%20Drunk%20vs.%20Sober.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Stoned vs. Drunk vs. Sober.jpg.md"><img src="File/Stoned%20vs.%20Drunk%20vs.%20Sober.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

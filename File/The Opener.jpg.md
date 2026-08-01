@@ -1,4 +1,4 @@
-![[The Opener.jpg]]
+<div style="text-align: center;"><img src="The Opener.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[The Opener]]*.

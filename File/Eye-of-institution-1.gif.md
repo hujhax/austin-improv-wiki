@@ -1,4 +1,4 @@
-![[Eye-of-institution-1.gif]]
+<div style="text-align: center;"><img src="Eye-of-institution-1.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The [[Trust No One]] version of [[The Institution Theater|the Institution Theater's]] logo, merging the familiar [[Wikipedia - View-Master|View-Master]] with the [[Wikipedia - Eye of Providence|Eye of Providence]].

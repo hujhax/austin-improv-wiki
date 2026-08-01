@@ -1,4 +1,4 @@
-![[There's Waldo.jpg]]
+<div style="text-align: center;"><img src="There's Waldo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[There's Waldo]] arrives in style at [[The 2013 Institution Theater Awards]].

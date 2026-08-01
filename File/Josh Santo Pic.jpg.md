@@ -1,4 +1,4 @@
-![[Josh Santo Pic.jpg]]
+<div style="text-align: center;"><img src="Josh Santo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Josh Santo]], in the 10/11/14 performance of *[[The Aftermath]]*.

@@ -1,4 +1,4 @@
-![[Spirit Desire.jpg]]
+<div style="text-align: center;"><img src="Spirit Desire.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Spirit Desire]].

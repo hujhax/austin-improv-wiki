@@ -1,4 +1,4 @@
-![[Confidence Men.jpg]]
+<div style="text-align: center;"><img src="Confidence Men.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 From left: [[Michael Ferstenfeld]], [[Ceej Allen]], [[Tom Booker]], and [[Troy Miller]] 

@@ -1,4 +1,4 @@
-![[Northshore Local.jpg]]
+<div style="text-align: center;"><img src="Northshore Local.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Northshore Local]] for their performance at the 2009 Del Close Marathon.

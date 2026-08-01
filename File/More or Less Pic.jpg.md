@@ -1,4 +1,4 @@
-![[More or Less Pic.jpg]]
+<div style="text-align: center;"><img src="More or Less Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Lauren Buck]] plays a deceased character, as [[David Lampe]] carries her and [[Sean Hill]] and [[Chelsea Gilman]] look on, in the 1/26/02 performance of *[[More or Less]]* at [[The Hideout Theatre]].

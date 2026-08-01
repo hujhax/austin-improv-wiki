@@ -1,4 +1,4 @@
-![[Tom Booker Pic.jpg]]
+<div style="text-align: center;"><img src="Tom Booker Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 [[Tom Booker]] acccepts the "Favorite Director of an Improvised Show" award for *[[Pulp Friction]]* at [[The 2013 Institution Theater Awards]].
 

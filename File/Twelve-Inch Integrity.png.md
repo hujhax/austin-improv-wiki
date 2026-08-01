@@ -1,4 +1,4 @@
-![[Twelve-Inch Integrity.png]]
+<div style="text-align: center;"><img src="Twelve-Inch Integrity.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for [[Twelve-Inch Integrity]].

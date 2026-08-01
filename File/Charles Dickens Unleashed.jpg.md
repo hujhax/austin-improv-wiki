@@ -1,4 +1,4 @@
-![[Charles Dickens Unleashed.jpg]]
+<div style="text-align: center;"><img src="Charles Dickens Unleashed.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for *[[Charles Dickens Unleashed]]*.

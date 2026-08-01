@@ -1,4 +1,4 @@
-![[RachelCreason.jpg]]
+<div style="text-align: center;"><img src="RachelCreason.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Rachel Creason in "SongRunner."

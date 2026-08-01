@@ -1,4 +1,4 @@
-![[Dana Yanoshak Pic.jpg]]
+<div style="text-align: center;"><img src="Dana Yanoshak Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Dana Yanoshak]] taken during the [[Apocalypse]] photo shoot.

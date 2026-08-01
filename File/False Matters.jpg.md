@@ -1,4 +1,4 @@
-![[False Matters.jpg]]
+<div style="text-align: center;"><img src="False Matters.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promo image for [[False Matters]] designed by [[Courtney Hopkin]].

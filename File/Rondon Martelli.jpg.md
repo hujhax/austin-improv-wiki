@@ -1,4 +1,4 @@
-![[Rondon Martelli.jpg]]
+<div style="text-align: center;"><img src="Rondon Martelli.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Performance photo of [[Rondon Martelli]] from 2015.

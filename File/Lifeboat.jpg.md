@@ -1,4 +1,4 @@
-![[Lifeboat.jpg]]
+<div style="text-align: center;"><img src="Lifeboat.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Wikipedia - The Storm on the Sea of Galilee|"The Storm on the Sea of Galilee"]], the painting used as the logo for [[Lifeboat]].

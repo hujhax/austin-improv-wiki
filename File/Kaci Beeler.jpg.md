@@ -1,4 +1,4 @@
-![[Kaci Beeler.jpg]]
+<div style="text-align: center;"><img src="Kaci Beeler.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo taken by Todd V. Wolfson for the Austin Chronicle Best Of Awards 2012. 

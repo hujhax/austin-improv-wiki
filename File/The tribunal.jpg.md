@@ -1,4 +1,4 @@
-![[The tribunal.jpg]]
+<div style="text-align: center;"><img src="The tribunal.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jordan T. Maxwell]] comforts [[Cat Drago]] in the premiere of *[[The Tribunal]]* on 9/28/12.            

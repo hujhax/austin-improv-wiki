@@ -1,4 +1,4 @@
-![[Epic.jpg]]
+<div style="text-align: center;"><img src="Epic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Performance by [[Epic]].

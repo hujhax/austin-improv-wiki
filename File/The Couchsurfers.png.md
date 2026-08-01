@@ -1,4 +1,4 @@
-![[The Couchsurfers.png]]
+<div style="text-align: center;"><img src="The Couchsurfers.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[The Couchsurfers]].

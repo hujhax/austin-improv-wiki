@@ -1,4 +1,4 @@
-![[Ratliff and Jackson.jpg]]
+<div style="text-align: center;"><img src="Ratliff and Jackson.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ratliff and Jackson]], headlining *[[The Threefer]]* on 9/20/12.

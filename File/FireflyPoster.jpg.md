@@ -1,4 +1,4 @@
-![[FireflyPoster.jpg]]
+<div style="text-align: center;"><img src="FireflyPoster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The publicity poster for *[[Live TV Tuesdays -  Firefly]]*, featuring [[Lindsey Reeves]] (Inara), [[Michael Thomas]] (Mal), and [[Sabrina Jones]] (Saffron).

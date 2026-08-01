@@ -1,4 +1,4 @@
-![[Erika May McNichol Pic.jpg]]
+<div style="text-align: center;"><img src="Erika May McNichol Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Erika May McNichol]], in a publicity shot for [[Sarah 7]].

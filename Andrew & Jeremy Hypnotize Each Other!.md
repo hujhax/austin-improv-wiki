@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Andrew & Jeremy Hypnotize Each Other!.png"><img src="File/Andrew%20&%20Jeremy%20Hypnotize%20Each%20Other!.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Andrew & Jeremy Hypnotize Each Other!.png.md"><img src="File/Andrew%20&%20Jeremy%20Hypnotize%20Each%20Other!.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

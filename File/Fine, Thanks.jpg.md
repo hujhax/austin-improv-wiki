@@ -1,4 +1,4 @@
-![[Fine, Thanks.jpg]]
+<div style="text-align: center;"><img src="Fine, Thanks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image of [[Fine, Thanks]].

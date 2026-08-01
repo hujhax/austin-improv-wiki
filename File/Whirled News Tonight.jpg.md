@@ -1,4 +1,4 @@
-![[Whirled News Tonight.jpg]]
+<div style="text-align: center;"><img src="Whirled News Tonight.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Framed poster for *[[Whirled News Tonight]]*.

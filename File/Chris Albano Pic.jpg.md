@@ -1,4 +1,4 @@
-![[Chris Albano Pic.jpg]]
+<div style="text-align: center;"><img src="Chris Albano Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Chris Albano]] in a 5/12/13 student show at [[The Institution Theater]].

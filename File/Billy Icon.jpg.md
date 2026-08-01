@@ -1,4 +1,4 @@
-![[Billy Icon.jpg]]
+<div style="text-align: center;"><img src="Billy Icon.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Billy Icon]] for [[The 2011 Out of Bounds Comedy Festival]].

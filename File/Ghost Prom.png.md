@@ -1,4 +1,4 @@
-![[Ghost Prom.png]]
+<div style="text-align: center;"><img src="Ghost Prom.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Screencap from the video of [[Ghost Prom]]'s 2/12/11 performance.

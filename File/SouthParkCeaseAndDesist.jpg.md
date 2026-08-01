@@ -1,4 +1,4 @@
-![[SouthParkCeaseAndDesist.jpg]]
+<div style="text-align: center;"><img src="SouthParkCeaseAndDesist.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Viacom's cease-and-desist letter demanding an end to *[[Live TV Tuesdays -  South Park|South Park Live]]*.

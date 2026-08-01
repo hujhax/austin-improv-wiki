@@ -1,4 +1,4 @@
-![[Monica Martinez Maher Pic.jpg]]
+<div style="text-align: center;"><img src="Monica Martinez Maher Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Monica Martinez Maher]], in the 5/21/16 performance of *[[Fiasco]]*.

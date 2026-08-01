@@ -1,4 +1,4 @@
-![[Taylor Overstreet Pic.jpg]]
+<div style="text-align: center;"><img src="Taylor Overstreet Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Self-portrait by [[Taylor Overstreet]].

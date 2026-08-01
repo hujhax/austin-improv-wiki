@@ -1,4 +1,4 @@
-![[Quayle.jpg]]
+<div style="text-align: center;"><img src="Quayle.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Quayle]] performing at [[Salvage Vanguard Theater]].

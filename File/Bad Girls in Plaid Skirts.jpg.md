@@ -1,4 +1,4 @@
-![[Bad Girls in Plaid Skirts.jpg]]
+<div style="text-align: center;"><img src="Bad Girls in Plaid Skirts.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity banner for *[[Bad Girls in Plaid Skirts]]*.

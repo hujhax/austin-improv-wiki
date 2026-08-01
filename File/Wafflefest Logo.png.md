@@ -1,4 +1,4 @@
-![[Wafflefest Logo.png]]
+<div style="text-align: center;"><img src="Wafflefest Logo.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The [[WaffleFest]] logo; a variation on [[The Hideout Theatre]]'s logo.

@@ -1,4 +1,4 @@
-![[The Dark Bloodlords.jpg]]
+<div style="text-align: center;"><img src="The Dark Bloodlords.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Dark Bloodlords]] take a bow after their 9/29/06 performance of *[[Pick Your Own Path]]*.

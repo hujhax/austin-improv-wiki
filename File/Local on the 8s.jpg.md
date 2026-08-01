@@ -1,4 +1,4 @@
-![[Local on the 8s.jpg]]
+<div style="text-align: center;"><img src="Local on the 8s.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional Poster for Local on the Eights

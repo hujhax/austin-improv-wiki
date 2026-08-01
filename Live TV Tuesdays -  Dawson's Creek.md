@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays - Dawson's Creek.jpg"><img src="File/Live%20TV%20Tuesdays%20-%20Dawson's%20Creek.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Live TV Tuesdays - Dawson's Creek.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Dawson's%20Creek.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 
@@ -120,7 +120,7 @@ It played exclusively at [[The Highball]].
 
 ## Media
 * [A photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes photos of the 5/24/11 performance.
-* [[File/DawsonsProgram.jpg|The show's program.]]
+* [[File/DawsonsProgram.jpg.md|The show's program.]]
 
 ## More Information
 * [One of the facebook-event pages for the show.](https://www.facebook.com/events/152475268155249/)

@@ -1,4 +1,4 @@
-![[The Big Bash.jpg]]
+<div style="text-align: center;"><img src="The Big Bash.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[The Big Bash]]*.

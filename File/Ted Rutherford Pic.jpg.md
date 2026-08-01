@@ -1,4 +1,4 @@
-![[Ted Rutherford Pic.jpg]]
+<div style="text-align: center;"><img src="Ted Rutherford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ted Rutherford]], performing a giant game of "New Choice" with [[Junk]] in [[The 2010 Out of Bounds Comedy Festival]], on 9/2/10.

@@ -1,4 +1,4 @@
-![[Sarah 7.jpg]]
+<div style="text-align: center;"><img src="Sarah 7.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of the 2011 lineup of [[Sarah 7]].

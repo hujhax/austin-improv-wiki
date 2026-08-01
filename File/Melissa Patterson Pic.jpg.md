@@ -1,4 +1,4 @@
-![[Melissa Patterson Pic.jpg]]
+<div style="text-align: center;"><img src="Melissa Patterson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Melissa Patterson]], in the 2/8/14 performance of *[[What the F@$]]*.

@@ -1,4 +1,4 @@
-![[Precious Dads.jpg]]
+<div style="text-align: center;"><img src="Precious Dads.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for the troupe [[Precious Dads]].

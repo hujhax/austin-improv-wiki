@@ -1,4 +1,4 @@
-![[Kazillionaire.jpg]]
+<div style="text-align: center;"><img src="Kazillionaire.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Performance by [[Kazillionaire]].

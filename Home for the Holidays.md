@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/I'll Be Home for Christmas.jpg"><img src="File/I'll%20Be%20Home%20for%20Christmas.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/I'll Be Home for Christmas.jpg.md"><img src="File/I'll%20Be%20Home%20for%20Christmas.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

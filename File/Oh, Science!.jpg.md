@@ -1,4 +1,4 @@
-![[Oh, Science!.jpg]]
+<div style="text-align: center;"><img src="Oh, Science!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional art for [[Oh, Science!]].

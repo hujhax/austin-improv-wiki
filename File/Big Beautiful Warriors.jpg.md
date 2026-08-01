@@ -1,4 +1,4 @@
-![[Big Beautiful Warriors.jpg]]
+<div style="text-align: center;"><img src="Big Beautiful Warriors.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Big Beautiful Warriors]].

@@ -1,4 +1,4 @@
-![[Southpaw Jones Does What He Wants.jpg]]
+<div style="text-align: center;"><img src="Southpaw Jones Does What He Wants.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Banner art for *[[Southpaw Jones Does What He Wants]]*.

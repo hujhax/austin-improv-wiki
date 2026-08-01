@@ -1,4 +1,4 @@
-![[Fuck It's Christmas.jpg]]
+<div style="text-align: center;"><img src="Fuck It's Christmas.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Fuck It's Christmas]]*.

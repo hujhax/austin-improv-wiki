@@ -1,4 +1,4 @@
-![[Nancy Lyon 1.jpg]]
+<div style="text-align: center;"><img src="Nancy Lyon 1.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo by [[Topping Haggerty]]

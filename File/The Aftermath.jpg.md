@@ -1,4 +1,4 @@
-![[The Aftermath.jpg]]
+<div style="text-align: center;"><img src="The Aftermath.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[The Aftermath]]*.

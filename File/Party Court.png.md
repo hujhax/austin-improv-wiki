@@ -1,4 +1,4 @@
-![[Party Court.png]]
+<div style="text-align: center;"><img src="Party Court.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 From the 3/11/11 performance by [[Party Court]].

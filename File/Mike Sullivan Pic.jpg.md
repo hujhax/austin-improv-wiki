@@ -1,4 +1,4 @@
-![[Mike Sullivan Pic.jpg]]
+<div style="text-align: center;"><img src="Mike Sullivan Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Mike Sullivan]], performing in [[Gnap! Theater Projects]]' third annual [[Gnap! Homecoming Party]] on 2/18/11.

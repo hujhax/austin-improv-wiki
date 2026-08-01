@@ -1,4 +1,4 @@
-![[Soundstage23.jpg]]
+<div style="text-align: center;"><img src="Soundstage23.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Soundstage 23]]*, featuring the cast.

@@ -1,4 +1,4 @@
-![[The Cagematch.jpg]]
+<div style="text-align: center;"><img src="The Cagematch.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[The Cagematch]]*.

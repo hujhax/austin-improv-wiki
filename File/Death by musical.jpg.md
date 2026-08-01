@@ -1,4 +1,4 @@
-![[Death by musical.jpg]]
+<div style="text-align: center;"><img src="Death by musical.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional poster for Death By Musical

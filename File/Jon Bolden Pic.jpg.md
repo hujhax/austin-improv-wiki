@@ -1,4 +1,4 @@
-![[Jon Bolden Pic.jpg]]
+<div style="text-align: center;"><img src="Jon Bolden Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Jon Bolden, introducing *[[Manhattan Stories]]*.  Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3).

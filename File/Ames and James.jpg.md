@@ -1,4 +1,4 @@
-![[Ames and James.jpg]]
+<div style="text-align: center;"><img src="Ames and James.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image of [[Ames and James]].

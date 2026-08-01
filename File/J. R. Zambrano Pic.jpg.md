@@ -1,4 +1,4 @@
-![[J. R. Zambrano Pic.jpg]]
+<div style="text-align: center;"><img src="J. R. Zambrano Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[J. R. Zambrano]] for *[[A Deed So Dark]]*.

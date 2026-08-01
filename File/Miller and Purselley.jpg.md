@@ -1,4 +1,4 @@
-![[Miller and Purselley.jpg]]
+<div style="text-align: center;"><img src="Miller and Purselley.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Miller and Purselley]], performing at the [[Merlin Works]] [[Second Sunday]] show at [[ZACH Theater]] on 5/12/13.

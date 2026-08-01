@@ -1,4 +1,4 @@
-![[Sara Farr Pic.jpg]]
+<div style="text-align: center;"><img src="Sara Farr Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Sara Farr]], performing in *[[Crack]]* on 8/20/10.

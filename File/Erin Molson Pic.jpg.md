@@ -1,4 +1,4 @@
-![[Erin Molson Pic.jpg]]
+<div style="text-align: center;"><img src="Erin Molson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Erin Molson]], guesting with [[Improv for Evil]] in *[[The Threefer]]* on 4/16/09.

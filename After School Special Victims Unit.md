@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/After School Special Victims Unit.jpg"><img src="File/After%20School%20Special%20Victims%20Unit.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/After School Special Victims Unit.jpg.md"><img src="File/After%20School%20Special%20Victims%20Unit.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

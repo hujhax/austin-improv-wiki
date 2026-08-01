@@ -1,4 +1,4 @@
-![[Kimberly Cox Pic.jpg]]
+<div style="text-align: center;"><img src="Kimberly Cox Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Kimberly Cox]], performing with [[The Intentions]] in *[[The Weekender]]* on 5/15/11.

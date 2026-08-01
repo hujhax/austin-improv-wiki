@@ -1,4 +1,4 @@
-![[Puppet Fever.jpg]]
+<div style="text-align: center;"><img src="Puppet Fever.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Puppet Fever]]*.

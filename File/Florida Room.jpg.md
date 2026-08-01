@@ -1,4 +1,4 @@
-![[Florida Room.jpg]]
+<div style="text-align: center;"><img src="Florida Room.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Florida Room]], in costume.

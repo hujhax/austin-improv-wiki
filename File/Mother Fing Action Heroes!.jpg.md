@@ -1,4 +1,4 @@
-![[Mother Fing Action Heroes!.jpg]]
+<div style="text-align: center;"><img src="Mother Fing Action Heroes!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Mother Fing Action Heroes!]].

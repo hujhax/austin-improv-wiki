@@ -1,4 +1,4 @@
-![[Topping Haggerty Pic3.jpg]]
+<div style="text-align: center;"><img src="Topping Haggerty Pic3.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Topping Haggerty Xmas selfie

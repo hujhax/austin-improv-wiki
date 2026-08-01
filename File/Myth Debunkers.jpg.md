@@ -1,4 +1,4 @@
-![[Myth Debunkers.jpg]]
+<div style="text-align: center;"><img src="Myth Debunkers.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Screen capture from the 6/14/12 video of *[[Myth Debunkers]]*, featuring [[Jeremy Sweetlamb]], [[Jason Vines]], and [[Eric Heiberg]].

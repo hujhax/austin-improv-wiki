@@ -1,4 +1,4 @@
-![[The Asides.jpg]]
+<div style="text-align: center;"><img src="The Asides.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[The Asides]].

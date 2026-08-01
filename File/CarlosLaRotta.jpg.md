@@ -1,4 +1,4 @@
-![[CarlosLaRotta.jpg]]
+<div style="text-align: center;"><img src="CarlosLaRotta.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Carlos LaRotta]] performing with [[Whalehouse]] in June 2013.

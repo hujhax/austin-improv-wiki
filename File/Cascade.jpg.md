@@ -1,4 +1,4 @@
-![[Cascade.jpg]]
+<div style="text-align: center;"><img src="Cascade.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for Cascade by [[Ryan Austin]]

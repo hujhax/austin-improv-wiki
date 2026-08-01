@@ -1,4 +1,4 @@
-![[Strange Worlds Image.jpg]]
+<div style="text-align: center;"><img src="Strange Worlds Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[Strange Worlds]].

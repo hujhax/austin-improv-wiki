@@ -1,4 +1,4 @@
-![[Les McGehee Pic.jpg]]
+<div style="text-align: center;"><img src="Les McGehee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Les McGehee]], from the 8/13/10 performance of *[[Crack!]]*

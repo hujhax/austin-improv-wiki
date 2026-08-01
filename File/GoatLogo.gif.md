@@ -1,4 +1,4 @@
-![[GoatLogo.gif]]
+<div style="text-align: center;"><img src="GoatLogo.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Goat]]'s logo, designed by [[Brad Hawkins]] from a sketch by [[Indigo Rael]].

@@ -1,4 +1,4 @@
-![[The Joss Whedon Pajama Party.jpg]]
+<div style="text-align: center;"><img src="The Joss Whedon Pajama Party.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[The Joss Whedon Pajama Party]]*, featuring [[Chelley Pyatt]].

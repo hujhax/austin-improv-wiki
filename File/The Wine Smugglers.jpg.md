@@ -1,4 +1,4 @@
-![[The Wine Smugglers.jpg]]
+<div style="text-align: center;"><img src="The Wine Smugglers.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Topping Haggerty]] [[Susannah Raulino]] [[Nancy Lyon]]

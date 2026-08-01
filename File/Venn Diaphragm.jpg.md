@@ -1,4 +1,4 @@
-![[Venn Diaphragm.jpg]]
+<div style="text-align: center;"><img src="Venn Diaphragm.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Venn Diaphragm]].

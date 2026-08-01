@@ -1,4 +1,4 @@
-![[Austin Playback Theatre.jpg]]
+<div style="text-align: center;"><img src="Austin Playback Theatre.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Austin Playback Theatre]].

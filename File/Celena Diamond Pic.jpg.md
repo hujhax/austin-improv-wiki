@@ -1,4 +1,4 @@
-![[Celena Diamond Pic.jpg]]
+<div style="text-align: center;"><img src="Celena Diamond Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Celena Diamond]] performing in [[ALL CAPS]] at [[The Institution Theater]] during *[[The Triple Scoop]]*.

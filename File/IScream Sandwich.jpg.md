@@ -1,4 +1,4 @@
-![[IScream Sandwich.jpg]]
+<div style="text-align: center;"><img src="IScream Sandwich.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[IScream Sandwich]] performing at *[[The Triple Scoop]]* on 3/2/13.

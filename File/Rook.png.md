@@ -1,4 +1,4 @@
-![[Rook.png]]
+<div style="text-align: center;"><img src="Rook.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for [[Rook]].

@@ -1,4 +1,4 @@
-![[Booker and a Buddy.jpg]]
+<div style="text-align: center;"><img src="Booker and a Buddy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for *[[Booker and a Buddy]]*.

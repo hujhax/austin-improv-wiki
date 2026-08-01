@@ -1,4 +1,4 @@
-![[Toby Keith and the French Guy.gif]]
+<div style="text-align: center;"><img src="Toby Keith and the French Guy.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for [[Toby Keith and the French Guy]].

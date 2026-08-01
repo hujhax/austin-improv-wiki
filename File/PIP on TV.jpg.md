@@ -1,4 +1,4 @@
-![[PIP on TV.jpg]]
+<div style="text-align: center;"><img src="PIP on TV.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[PIP on TV]]*.

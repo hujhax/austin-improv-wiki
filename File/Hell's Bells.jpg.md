@@ -1,4 +1,4 @@
-![[Hell's Bells.jpg]]
+<div style="text-align: center;"><img src="Hell's Bells.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Hell's Bells]], in their 9/19/11 performance in *[[The Monday Night Mash]]*.

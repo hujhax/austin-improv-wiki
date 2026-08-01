@@ -1,4 +1,4 @@
-![[Foreign legion.jpg]]
+<div style="text-align: center;"><img src="Foreign legion.jpg" style="max-width: 100%; height: auto;" /></div>
 
 [[The Foreign Legion]] - poster design by [[Deano Jones]]
 

@@ -1,4 +1,4 @@
-![[The Second Professor.jpg]]
+<div style="text-align: center;"><img src="The Second Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Michael Ferstenfeld]] plays the Second Professor in the 10/21/11 performance of [[The Professor]].

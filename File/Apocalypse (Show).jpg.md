@@ -1,4 +1,4 @@
-![[Apocalypse (Show).jpg]]
+<div style="text-align: center;"><img src="Apocalypse (Show).jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Apocalypse! (show)|Apocalypse!]]*, featuring [[Madi Goff]].

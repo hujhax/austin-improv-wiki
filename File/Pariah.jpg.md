@@ -1,4 +1,4 @@
-![[Pariah.jpg]]
+<div style="text-align: center;"><img src="Pariah.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Pariah]].

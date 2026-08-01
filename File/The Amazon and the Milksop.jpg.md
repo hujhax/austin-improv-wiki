@@ -1,4 +1,4 @@
-![[The Amazon and the Milksop.jpg]]
+<div style="text-align: center;"><img src="The Amazon and the Milksop.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Kaci Beeler]] and [[Curtis Luciani]] performing as [[The Amazon and the Milksop]].

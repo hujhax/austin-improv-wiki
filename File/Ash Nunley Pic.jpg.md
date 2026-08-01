@@ -1,4 +1,4 @@
-![[Ash Nunley Pic.jpg]]
+<div style="text-align: center;"><img src="Ash Nunley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Ash Nunley]], in the 5/31/14 performance of *[[Fuck It's Hot]]: Sex and Queso*.

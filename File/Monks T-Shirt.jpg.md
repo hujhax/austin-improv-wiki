@@ -1,4 +1,4 @@
-![[Monks T-Shirt.jpg]]
+<div style="text-align: center;"><img src="Monks T-Shirt.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A [[Monks' Night Out]] t-shirt.

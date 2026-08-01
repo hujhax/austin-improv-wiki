@@ -1,4 +1,4 @@
-![[I Love You So Much.jpg]]
+<div style="text-align: center;"><img src="I Love You So Much.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[I Love You So Much]]*.

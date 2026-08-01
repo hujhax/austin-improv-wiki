@@ -1,4 +1,4 @@
-![[Chuy Zarate.jpg]]
+<div style="text-align: center;"><img src="Chuy Zarate.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Chuy Zarate]] performing in the season one finale of *[[Thinning the Herd]]*.

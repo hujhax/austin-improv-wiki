@@ -1,4 +1,4 @@
-![[Kareem Badr Pic.jpg]]
+<div style="text-align: center;"><img src="Kareem Badr Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Kareem Badr]], performing in The Return of [[The Five Families]] at [[The Institution Theater]] on 1/4/13.

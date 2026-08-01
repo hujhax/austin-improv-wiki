@@ -1,4 +1,4 @@
-![[Bryan Cruz Pic.jpg]]
+<div style="text-align: center;"><img src="Bryan Cruz Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo of [[Bryan Cruz]] for *[[Totally Improvised, 90210]]*.

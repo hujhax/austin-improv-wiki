@@ -1,4 +1,4 @@
-![[Manson - The Musical.jpg]]
+<div style="text-align: center;"><img src="Manson - The Musical.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for *[[Manson -  The Musical]]*.

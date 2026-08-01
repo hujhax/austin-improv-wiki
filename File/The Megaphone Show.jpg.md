@@ -1,4 +1,4 @@
-![[The Megaphone Show.jpg]]
+<div style="text-align: center;"><img src="The Megaphone Show.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[The Megaphone Show]]*.

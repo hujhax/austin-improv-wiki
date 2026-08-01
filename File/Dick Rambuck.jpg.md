@@ -1,4 +1,4 @@
-![[Dick Rambuck.jpg]]
+<div style="text-align: center;"><img src="Dick Rambuck.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Dick Rambuck]].

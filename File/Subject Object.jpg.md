@@ -1,4 +1,4 @@
-![[Subject Object.jpg]]
+<div style="text-align: center;"><img src="Subject Object.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Subject -  Object]].

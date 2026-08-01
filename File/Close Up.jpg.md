@@ -1,4 +1,4 @@
-![[Close Up.jpg]]
+<div style="text-align: center;"><img src="Close Up.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Close Up]]*.

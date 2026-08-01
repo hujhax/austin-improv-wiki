@@ -1,4 +1,4 @@
-![[Cody Dearing Pic.jpg]]
+<div style="text-align: center;"><img src="Cody Dearing Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Cody Dearing]] performing with [[Scout]] on 9/19/2011.

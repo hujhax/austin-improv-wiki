@@ -1,4 +1,4 @@
-![[Meghan Wolff Pic.jpg]]
+<div style="text-align: center;"><img src="Meghan Wolff Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Meghan Wolff]], in the 4/17/10 performance of *[[Apocalypse! (show)|Apocalypse!]]*

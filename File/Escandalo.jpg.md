@@ -1,4 +1,4 @@
-![[Escandalo.jpg]]
+<div style="text-align: center;"><img src="Escandalo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promo image for [[¡Escándalo!]], featuring the cast.

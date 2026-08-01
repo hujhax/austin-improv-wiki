@@ -1,4 +1,4 @@
-![[Mitchell Deane Pic.jpg]]
+<div style="text-align: center;"><img src="Mitchell Deane Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Mitchell Deane]] talks to a snake during the 12/20/12 [[Free Fringe]] at [[The Hideout Theatre]].

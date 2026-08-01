@@ -1,4 +1,4 @@
-![[The Escorts.jpg]]
+<div style="text-align: center;"><img src="The Escorts.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 (from left) [[Marc Majcher]], [[Lindsey Reeves]], [[Andreas Fabis]], and [[Alex Dobrenko]], performing as [[The Escorts]] in the 2013 [[Improvised Play Festival]].

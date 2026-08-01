@@ -1,4 +1,4 @@
-![[Your Terrific Neighbors.jpg]]
+<div style="text-align: center;"><img src="Your Terrific Neighbors.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image of [[Your Terrific Neighbors]].

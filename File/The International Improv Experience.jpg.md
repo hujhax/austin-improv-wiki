@@ -1,4 +1,4 @@
-![[The International Improv Experience.jpg]]
+<div style="text-align: center;"><img src="The International Improv Experience.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[The International Improv Experience]]*.

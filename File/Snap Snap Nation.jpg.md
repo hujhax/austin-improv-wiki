@@ -1,4 +1,4 @@
-![[Snap Snap Nation.jpg]]
+<div style="text-align: center;"><img src="Snap Snap Nation.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Snap Snap Nation]].

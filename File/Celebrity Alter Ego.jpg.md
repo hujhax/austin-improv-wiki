@@ -1,4 +1,4 @@
-![[Celebrity Alter Ego.jpg]]
+<div style="text-align: center;"><img src="Celebrity Alter Ego.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Screencap of a [[Celebrity Alter Ego]] performance from 9/21/12.

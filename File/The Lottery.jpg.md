@@ -1,4 +1,4 @@
-![[The Lottery.jpg]]
+<div style="text-align: center;"><img src="The Lottery.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[The Lottery]]*.

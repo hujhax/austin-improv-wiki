@@ -1,4 +1,4 @@
-![[Rosemarie Frezza Pic.jpg]]
+<div style="text-align: center;"><img src="Rosemarie Frezza Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Headshot of [[Rosemarie Frezza]].

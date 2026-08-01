@@ -1,4 +1,4 @@
-![[Happiness is a Choice.jpg]]
+<div style="text-align: center;"><img src="Happiness is a Choice.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Happiness is a Choice]], performing at [[ColdTowne Theater]] on 3/15/10.

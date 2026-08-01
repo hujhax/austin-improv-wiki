@@ -1,4 +1,4 @@
-![[Quinn Buckner AustinAustin.jpg]]
+<div style="text-align: center;"><img src="Quinn Buckner AustinAustin.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promo picture of [[Quinn Buckner]] for [[Austin-Austin]]

@@ -1,4 +1,4 @@
-![[Live TV Tuesdays - Dawson's Creek.jpg]]
+<div style="text-align: center;"><img src="Live TV Tuesdays - Dawson's Creek.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The 5/24/2011 performance of *[[Live TV Tuesdays -  Dawson's Creek]]*.

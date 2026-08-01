@@ -1,4 +1,4 @@
-![[Default Maestro Image.jpg]]
+<div style="text-align: center;"><img src="Default Maestro Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Default image for Maestro.

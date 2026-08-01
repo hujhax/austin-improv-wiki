@@ -1,4 +1,4 @@
-![[Buzz Band Placeholder.jpg]]
+<div style="text-align: center;"><img src="Buzz Band Placeholder.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder promotional image for *[[Buzz Band]]*.

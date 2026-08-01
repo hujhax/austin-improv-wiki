@@ -1,4 +1,4 @@
-![[Vinyl Destination.jpg]]
+<div style="text-align: center;"><img src="Vinyl Destination.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 *[[Vinyl Destination]]*, in their 9/3/07 show in [[The 2007 Out of Bounds Comedy Festival]].

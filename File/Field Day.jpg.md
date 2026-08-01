@@ -1,4 +1,4 @@
-![[Field Day.jpg]]
+<div style="text-align: center;"><img src="Field Day.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Field Day]], performing on 11/20/14 in [[WaffleFest 2014]].

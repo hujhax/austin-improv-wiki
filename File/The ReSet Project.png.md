@@ -1,4 +1,4 @@
-![[The ReSet Project.png]]
+<div style="text-align: center;"><img src="The ReSet Project.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[The ReSet Project]]*.

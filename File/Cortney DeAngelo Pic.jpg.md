@@ -1,4 +1,4 @@
-![[Cortney DeAngelo Pic.jpg]]
+<div style="text-align: center;"><img src="Cortney DeAngelo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Cortney DeAngelo]], in the 10/28/11 performance of *[[EPIC!]]*.

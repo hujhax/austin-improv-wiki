@@ -1,4 +1,4 @@
-![[The Double Barrel.png]]
+<div style="text-align: center;"><img src="The Double Barrel.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[The Double Barrel]]*.

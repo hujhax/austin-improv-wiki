@@ -1,4 +1,4 @@
-![[BridgetBrewer.png]]
+<div style="text-align: center;"><img src="BridgetBrewer.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Bridget Brewer]], performing in *[[The Fancy-Pants Mashup]]* on 3/1/13.

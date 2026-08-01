@@ -1,4 +1,4 @@
-![[Mia Iseman.jpg]]
+<div style="text-align: center;"><img src="Mia Iseman.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Mia Iseman]] performing in *[[Maestro]]* at [[The Hideout Theatre]].

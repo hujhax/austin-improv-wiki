@@ -1,4 +1,4 @@
-![[Leng Wong Pic.jpg]]
+<div style="text-align: center;"><img src="Leng Wong Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Leng Wong]], performing in [[Steam – Fifth Night|episode 5]] of *[[Steam]]* on 1/20/12.

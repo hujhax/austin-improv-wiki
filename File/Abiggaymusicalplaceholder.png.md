@@ -1,4 +1,4 @@
-![[Abiggaymusicalplaceholder.png]]
+<div style="text-align: center;"><img src="Abiggaymusicalplaceholder.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 (placeholder graphic for *[[A Big Gay Musical]]*

@@ -1,4 +1,4 @@
-![[Sunaina Suhag Pic.jpg]]
+<div style="text-align: center;"><img src="Sunaina Suhag Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Sunaina Suhag]] at the [[Steve Rogers]] photobooth from the 11/13/15 [[Parallelogramophonograph]] 10th-anniversary show.

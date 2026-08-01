@@ -1,4 +1,4 @@
-![[Tosin Awofeso Pic.jpg]]
+<div style="text-align: center;"><img src="Tosin Awofeso Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Tosin Awofeso]] accompanies the 5/24/14 performance of *[[Theatresports]]*.

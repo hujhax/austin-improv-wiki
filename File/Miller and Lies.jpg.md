@@ -1,4 +1,4 @@
-![[Miller and Lies.jpg]]
+<div style="text-align: center;"><img src="Miller and Lies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Miller and Lies]] performing at [[The Institution Theater]].

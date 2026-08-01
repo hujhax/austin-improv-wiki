@@ -1,4 +1,4 @@
-![[Tomato Pie.jpg]]
+<div style="text-align: center;"><img src="Tomato Pie.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Tomato Pie]], in their 11/7/11 performance at [[ColdTowne Theater]].

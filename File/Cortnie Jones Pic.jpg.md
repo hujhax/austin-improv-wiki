@@ -1,4 +1,4 @@
-![[Cortnie Jones Pic.jpg]]
+<div style="text-align: center;"><img src="Cortnie Jones Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Cortnie Jones]] for [[Sarah 7]].

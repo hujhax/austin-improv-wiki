@@ -1,4 +1,4 @@
-![[Halyn Lee Erickson.png]]
+<div style="text-align: center;"><img src="Halyn Lee Erickson.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Halyn Lee Erickson]] performing in [[Fandom|Fandom: Classic Nintendo]] on February 2, 2013 at [[The Hideout Theatre]].

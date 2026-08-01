@@ -1,4 +1,4 @@
-![[Jon Clinkenbeard Pic.jpg]]
+<div style="text-align: center;"><img src="Jon Clinkenbeard Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Jon Clinkenbeard]] for *[[The Violet Underbelly]]*.

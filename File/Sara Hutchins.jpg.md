@@ -1,4 +1,4 @@
-![[Sara Hutchins.jpg]]
+<div style="text-align: center;"><img src="Sara Hutchins.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Sara Hutchins at the Hideout Theater's 45 Hour Improv Marathon.

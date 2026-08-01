@@ -1,4 +1,4 @@
-![[Highball Logo.jpg]]
+<div style="text-align: center;"><img src="Highball Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for [[The Highball]].

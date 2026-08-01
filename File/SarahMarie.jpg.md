@@ -1,4 +1,4 @@
-![[SarahMarie.jpg]]
+<div style="text-align: center;"><img src="SarahMarie.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Sarah Marie Curry]] performing with [[Girls Girls Girls]] at the [[Merlin Works]] Grand Opening on 1/13/13.

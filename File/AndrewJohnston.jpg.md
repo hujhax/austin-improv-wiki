@@ -1,4 +1,4 @@
-![[AndrewJohnston.jpg]]
+<div style="text-align: center;"><img src="AndrewJohnston.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Taken at home, Canon Powershot with CHDK hack, time lapse settings.  

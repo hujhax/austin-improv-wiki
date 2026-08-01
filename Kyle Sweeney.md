@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Http - --www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg"><img src="File/Http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Http - --www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg.md"><img src="File/Http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

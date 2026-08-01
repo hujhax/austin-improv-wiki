@@ -1,4 +1,4 @@
-![[Teen Energy.jpg]]
+<div style="text-align: center;"><img src="Teen Energy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Casual photo of [[Teen Energy]].

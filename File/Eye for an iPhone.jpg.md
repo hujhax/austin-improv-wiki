@@ -1,4 +1,4 @@
-![[Eye for an iPhone.jpg]]
+<div style="text-align: center;"><img src="Eye for an iPhone.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Eye for an iPhone]]*.

@@ -1,4 +1,4 @@
-![[Live Nude Improv Performance.jpg]]
+<div style="text-align: center;"><img src="Live Nude Improv Performance.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The "cast" warms up for "rehearsal" in the 8/6/11 performance of *[[Live Nude Improv]]*.

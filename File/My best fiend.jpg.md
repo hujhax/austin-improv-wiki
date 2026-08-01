@@ -1,4 +1,4 @@
-![[My best fiend.jpg]]
+<div style="text-align: center;"><img src="My best fiend.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Andreas Fabis & Chris Allen - photo by Andreas Fabis 2012

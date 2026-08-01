@@ -1,4 +1,4 @@
-![[The Team.jpg]]
+<div style="text-align: center;"><img src="The Team.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[The Team]].

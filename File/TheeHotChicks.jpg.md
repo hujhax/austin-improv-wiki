@@ -1,4 +1,4 @@
-![[TheeHotChicks.jpg]]
+<div style="text-align: center;"><img src="TheeHotChicks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo by [[Jon Bolden]].

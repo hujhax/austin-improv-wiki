@@ -1,4 +1,4 @@
-![[Jessica T. Von Schramm Pic.jpg]]
+<div style="text-align: center;"><img src="Jessica T. Von Schramm Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jessica T. Von Schramm]], in the 4/11/15 performance of *[[Golden (mainstage)|Golden]]*.

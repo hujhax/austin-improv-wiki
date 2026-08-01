@@ -1,4 +1,4 @@
-![[Tyler Bryce Pic.jpg]]
+<div style="text-align: center;"><img src="Tyler Bryce Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Tyler Bryce]], in the season-one finale of *[[Thinning the Herd]]*, on 1/3/13.

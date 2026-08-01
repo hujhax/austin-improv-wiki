@@ -1,4 +1,4 @@
-![[Boy, Howdy!.jpg]]
+<div style="text-align: center;"><img src="Boy, Howdy!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Boy, Howdy!]]*.

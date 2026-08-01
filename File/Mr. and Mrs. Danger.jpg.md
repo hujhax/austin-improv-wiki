@@ -1,4 +1,4 @@
-![[Mr. and Mrs. Danger.jpg]]
+<div style="text-align: center;"><img src="Mr. and Mrs. Danger.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Mr. and Mrs. Danger]] (as "Perfect Season").

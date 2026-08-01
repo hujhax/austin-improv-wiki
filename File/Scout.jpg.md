@@ -1,4 +1,4 @@
-![[Scout.jpg]]
+<div style="text-align: center;"><img src="Scout.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Scout]], in their 8/29/12 performance at [[The 2012 Out of Bounds Comedy Festival]].

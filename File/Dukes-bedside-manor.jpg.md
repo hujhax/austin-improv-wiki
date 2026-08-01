@@ -1,4 +1,4 @@
-![[Dukes-bedside-manor.jpg]]
+<div style="text-align: center;"><img src="Dukes-bedside-manor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo by [[Jon Bolden]]

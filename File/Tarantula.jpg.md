@@ -1,4 +1,4 @@
-![[Tarantula.jpg]]
+<div style="text-align: center;"><img src="Tarantula.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Banner art for *[[Tarantula]]*.

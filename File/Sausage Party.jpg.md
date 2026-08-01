@@ -1,4 +1,4 @@
-![[Sausage Party.jpg]]
+<div style="text-align: center;"><img src="Sausage Party.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for [[Sausage Party]] by [[Liz Butler]].

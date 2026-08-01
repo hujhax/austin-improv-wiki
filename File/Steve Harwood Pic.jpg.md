@@ -1,4 +1,4 @@
-![[Steve Harwood Pic.jpg]]
+<div style="text-align: center;"><img src="Steve Harwood Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Steve Harwood]], in the 7/27/13 performance of *[[Start Trekkin']]*.

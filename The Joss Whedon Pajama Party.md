@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Joss Whedon Pajama Party.jpg"><img src="File/The%20Joss%20Whedon%20Pajama%20Party.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/The Joss Whedon Pajama Party.jpg.md"><img src="File/The%20Joss%20Whedon%20Pajama%20Party.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

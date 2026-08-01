@@ -1,4 +1,4 @@
-![[Known wizards.jpg]]
+<div style="text-align: center;"><img src="Known wizards.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Known Wizards]] poster.  Photo by [[Steve Rogers]].

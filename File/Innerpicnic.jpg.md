@@ -1,4 +1,4 @@
-![[Innerpicnic.jpg]]
+<div style="text-align: center;"><img src="Innerpicnic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Inner Picnic Profile Pic

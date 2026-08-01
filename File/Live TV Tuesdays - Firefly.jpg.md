@@ -1,4 +1,4 @@
-![[Live TV Tuesdays - Firefly.jpg]]
+<div style="text-align: center;"><img src="Live TV Tuesdays - Firefly.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The cast of *[[Live TV Tuesdays -  Firefly]]* takes a bow.

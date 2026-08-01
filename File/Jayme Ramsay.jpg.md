@@ -1,4 +1,4 @@
-![[Jayme Ramsay.jpg]]
+<div style="text-align: center;"><img src="Jayme Ramsay.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Picture of improv performer [[Jayme Ramsay]], performing in *[[Austin Secrets]]* on 2012-12-15.

@@ -1,4 +1,4 @@
-![[Danger! Warning! Improv!.jpg]]
+<div style="text-align: center;"><img src="Danger! Warning! Improv!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Andy Crouch]] (left) and [[Troy Miller]] as [[Danger! Warning! Improv!]], performing their "Elementary, Dear Holmes" format in [[The 2012 Out of Bounds Comedy Festival]].

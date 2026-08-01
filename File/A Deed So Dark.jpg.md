@@ -1,4 +1,4 @@
-![[A Deed So Dark.jpg]]
+<div style="text-align: center;"><img src="A Deed So Dark.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[A Deed So Dark]]*, featuring [[Kareem Badr]].

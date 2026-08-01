@@ -1,4 +1,4 @@
-![[Really Big Thumbs Up.jpg]]
+<div style="text-align: center;"><img src="Really Big Thumbs Up.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Really Big Thumbs Up]].

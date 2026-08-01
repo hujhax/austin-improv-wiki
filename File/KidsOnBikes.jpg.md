@@ -1,4 +1,4 @@
-![[KidsOnBikes.jpg]]
+<div style="text-align: center;"><img src="KidsOnBikes.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster by [[Kaci Beeler]] for [[How I Saved the World Over Summer Vacation]].

@@ -1,4 +1,4 @@
-![[Robert Slack Pic.jpg]]
+<div style="text-align: center;"><img src="Robert Slack Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Robert Slack]], in the 9/20/15 performance by [[Golden]].

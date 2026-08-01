@@ -1,4 +1,4 @@
-![[David Young Pic.jpg]]
+<div style="text-align: center;"><img src="David Young Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[David Young]], performing in *[[Live TV Tuesdays -  Firefly]]*.

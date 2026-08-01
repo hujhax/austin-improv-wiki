@@ -1,4 +1,4 @@
-![[SnackersLogo.gif]]
+<div style="text-align: center;"><img src="SnackersLogo.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The [[Snackers]] logo.

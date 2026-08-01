@@ -1,4 +1,4 @@
-![[Tim Honker headshot.jpg]]
+<div style="text-align: center;"><img src="Tim Honker headshot.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Headshot of [[Tim Honker]], photo taken by [[Jon Bolden]].

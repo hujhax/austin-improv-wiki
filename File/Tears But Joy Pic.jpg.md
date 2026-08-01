@@ -1,4 +1,4 @@
-![[Tears But Joy Pic.jpg]]
+<div style="text-align: center;"><img src="Tears But Joy Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Tears But Joy]].

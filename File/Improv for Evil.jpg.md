@@ -1,4 +1,4 @@
-![[Improv for Evil.jpg]]
+<div style="text-align: center;"><img src="Improv for Evil.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Improv for Evil]].

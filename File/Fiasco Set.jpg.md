@@ -1,4 +1,4 @@
-![[Fiasco Set.jpg]]
+<div style="text-align: center;"><img src="Fiasco Set.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The set for *[[Fiasco]]*.

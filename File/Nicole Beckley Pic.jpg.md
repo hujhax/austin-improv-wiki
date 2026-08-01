@@ -1,4 +1,4 @@
-![[Nicole Beckley Pic.jpg]]
+<div style="text-align: center;"><img src="Nicole Beckley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Nicole Beckley]] for *[[The Suitcase]]*.

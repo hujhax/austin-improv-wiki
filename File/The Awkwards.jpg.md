@@ -1,4 +1,4 @@
-![[The Awkwards.jpg]]
+<div style="text-align: center;"><img src="The Awkwards.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[The Awkwards]], posing just before their 5/9/13 premiere.

@@ -1,4 +1,4 @@
-![[Breaking Beckett Poster Ryan.png]]
+<div style="text-align: center;"><img src="Breaking Beckett Poster Ryan.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional poster for *[[Breaking Beckett]]*.

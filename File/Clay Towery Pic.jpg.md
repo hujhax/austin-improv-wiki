@@ -1,4 +1,4 @@
-![[Clay Towery Pic.jpg]]
+<div style="text-align: center;"><img src="Clay Towery Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo of [[Clay Towery]] for *[[Showdown]]*.

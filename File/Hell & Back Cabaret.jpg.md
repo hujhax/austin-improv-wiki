@@ -1,4 +1,4 @@
-![[Hell & Back Cabaret.jpg]]
+<div style="text-align: center;"><img src="Hell & Back Cabaret.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Hell & Back Cabaret]]*.

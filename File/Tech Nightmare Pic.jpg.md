@@ -1,4 +1,4 @@
-![[Tech Nightmare Pic.jpg]]
+<div style="text-align: center;"><img src="Tech Nightmare Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Tech Nightmare]] crew: [[Cortney DeAngelo]], [[Cindy Page]], and [[Lindsey McGowen]] in the "Best of the [[Free Fringe]]" edition of the [[Tech Nightmare]] on 10/16/14.

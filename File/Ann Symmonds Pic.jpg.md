@@ -1,4 +1,4 @@
-![[Ann Symmonds Pic.jpg]]
+<div style="text-align: center;"><img src="Ann Symmonds Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Ann Symmonds]].

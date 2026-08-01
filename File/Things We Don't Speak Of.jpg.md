@@ -1,4 +1,4 @@
-![[Things We Don't Speak Of.jpg]]
+<div style="text-align: center;"><img src="Things We Don't Speak Of.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Things We Don't Speak Of]] in their 1/15/15 debut at *[[The Free Fringe]]*.

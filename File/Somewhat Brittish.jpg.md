@@ -1,4 +1,4 @@
-![[Somewhat Brittish.jpg]]
+<div style="text-align: center;"><img src="Somewhat Brittish.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Somewhat Brittish]].

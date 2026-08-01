@@ -1,4 +1,4 @@
-![[Valerie Ward.jpg]]
+<div style="text-align: center;"><img src="Valerie Ward.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Valerie Ward]], performing in the premiere of *[[The Tribunal]]* on 9/28/12.

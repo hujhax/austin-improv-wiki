@@ -1,4 +1,4 @@
-![[MikeIrene.jpg]]
+<div style="text-align: center;"><img src="MikeIrene.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Mike and Irene]], performing at [[The Hideout Theatre]].

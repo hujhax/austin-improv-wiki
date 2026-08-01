@@ -1,4 +1,4 @@
-![[Comedy Bazaar.jpg]]
+<div style="text-align: center;"><img src="Comedy Bazaar.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity banner for *[[Comedy Bazaar]]*.

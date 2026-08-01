@@ -1,4 +1,4 @@
-![[Jason Oliver Pic.jpg]]
+<div style="text-align: center;"><img src="Jason Oliver Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Casual photo of [[Jason Oliver]].

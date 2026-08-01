@@ -1,4 +1,4 @@
-![[Skutch.jpg]]
+<div style="text-align: center;"><img src="Skutch.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Skutch]].

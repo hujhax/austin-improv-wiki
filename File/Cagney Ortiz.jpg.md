@@ -1,4 +1,4 @@
-![[Cagney Ortiz.jpg]]
+<div style="text-align: center;"><img src="Cagney Ortiz.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Picture taken by Warren Henderson

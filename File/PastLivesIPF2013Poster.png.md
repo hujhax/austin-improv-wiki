@@ -1,4 +1,4 @@
-![[PastLivesIPF2013Poster.png]]
+<div style="text-align: center;"><img src="PastLivesIPF2013Poster.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity graphic for *[[Past Lives]]*.

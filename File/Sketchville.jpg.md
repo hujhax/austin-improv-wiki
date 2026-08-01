@@ -1,4 +1,4 @@
-![[Sketchville.jpg]]
+<div style="text-align: center;"><img src="Sketchville.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Opening title card for *[[Sketchville]]*.

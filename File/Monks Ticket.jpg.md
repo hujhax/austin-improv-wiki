@@ -1,4 +1,4 @@
-![[Monks Ticket.jpg]]
+<div style="text-align: center;"><img src="Monks Ticket.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A ticket to a 5/14/96 [[Monks' Night Out]] show.

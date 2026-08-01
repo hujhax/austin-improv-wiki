@@ -1,4 +1,4 @@
-![[Jeff Britt Pic.jpg]]
+<div style="text-align: center;"><img src="Jeff Britt Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Jeff Britt]] performing in *[[Confidence Men]]*.

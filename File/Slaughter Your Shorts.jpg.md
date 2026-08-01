@@ -1,4 +1,4 @@
-![[Slaughter Your Shorts.jpg]]
+<div style="text-align: center;"><img src="Slaughter Your Shorts.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Slaughter Your Shorts]]*.

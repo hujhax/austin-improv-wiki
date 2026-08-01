@@ -1,4 +1,4 @@
-![[The Jukebox Musical Project.jpg]]
+<div style="text-align: center;"><img src="The Jukebox Musical Project.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for "In the Air Tonight", a performance from [[The Jukebox Musical Project]].

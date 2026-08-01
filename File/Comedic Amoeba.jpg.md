@@ -1,4 +1,4 @@
-![[Comedic Amoeba.jpg]]
+<div style="text-align: center;"><img src="Comedic Amoeba.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Comedic Amoeba]], provided by [[Kaci Beeler]].

@@ -1,4 +1,4 @@
-![[Waterpark Performance.jpg]]
+<div style="text-align: center;"><img src="Waterpark Performance.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Performance by [[Waterpark]].

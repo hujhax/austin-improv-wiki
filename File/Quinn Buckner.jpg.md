@@ -1,4 +1,4 @@
-![[Quinn Buckner.jpg]]
+<div style="text-align: center;"><img src="Quinn Buckner.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Quinn Buckner]] telling a fond memory of *Firefly* for [[Fandom]].

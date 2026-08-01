@@ -1,4 +1,4 @@
-![[RnRPurgatoryCast.jpg]]
+<div style="text-align: center;"><img src="RnRPurgatoryCast.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 John Reed as Johnny Cash in “Rock N Roll Purgatory” with (left to right) Luke Wallens, Ann K. Flynn, Heidi Rogers, Justin Davidson, Donna Rice, Adam Niederpruem, Callie Sharon. 

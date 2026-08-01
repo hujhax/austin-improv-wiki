@@ -1,4 +1,4 @@
-![[Opposites.jpg]]
+<div style="text-align: center;"><img src="Opposites.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Opposites]] logo.
