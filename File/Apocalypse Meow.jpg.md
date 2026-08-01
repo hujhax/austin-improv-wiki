@@ -1,3 +1,5 @@
+![[Apocalypse Meow.jpg]]
+
 ## Summary
 Logo for [[Apocalypse Meow]].
 

@@ -1,3 +1,5 @@
+![[The Wine Smugglers.jpg]]
+
 ## Summary
 [[Topping Haggerty]] [[Susannah Raulino]] [[Nancy Lyon]]
 

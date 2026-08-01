@@ -1,3 +1,5 @@
+![[Strategery.jpg]]
+
 ## Summary
 The 3/31/11 performance by [[Strategery]] at *[[The Threefer]]*.
 

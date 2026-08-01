@@ -1,3 +1,5 @@
+![[The Hilarions.jpg]]
+
 ## Summary
 Publicity photo of [[The Hilarions]] from 1984.
 

@@ -1,3 +1,5 @@
+![[Madeline Jo Chauvin Pic.jpg]]
+
 ## Summary
 [[Madeline Jo Chauvin]], playing in *[[The Rubber Room]]* on 5/19/13.
 

@@ -1,3 +1,5 @@
+![[Improv for Evil.jpg]]
+
 ## Summary
 Publicity photo for [[Improv for Evil]].
 

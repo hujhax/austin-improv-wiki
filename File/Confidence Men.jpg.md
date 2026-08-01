@@ -1,3 +1,5 @@
+![[Confidence Men.jpg]]
+
 ## Summary
 From left: [[Michael Ferstenfeld]], [[Ceej Allen]], [[Tom Booker]], and [[Troy Miller]] 
 

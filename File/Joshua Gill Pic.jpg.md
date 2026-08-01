@@ -1,3 +1,5 @@
+![[Joshua Gill Pic.jpg]]
+
 ## Summary
 [[Joshua Gill]]
 

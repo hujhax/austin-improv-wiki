@@ -1,3 +1,5 @@
+![[Wu Yun.jpg]]
+
 ## Summary
 A photo used to represent [[Wu Yun]] in an online meme.
 ## Licensing

@@ -1,3 +1,5 @@
+![[Conspiracy Butter.jpg]]
+
 ## Summary
 [[Conspiracy Butter]] in their 5/26/06 performance at [[The Hideout Theatre]].
 

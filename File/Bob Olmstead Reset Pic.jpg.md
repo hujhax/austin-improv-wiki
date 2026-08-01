@@ -1,3 +1,5 @@
+![[Bob Olmstead Reset Pic.jpg]]
+
 ## Summary
 [[Bob Olmstead]], performing in *[[The ReSet Project]]*.
 

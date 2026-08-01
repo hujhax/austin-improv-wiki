@@ -1,3 +1,5 @@
+![[Dick Rambuck.jpg]]
+
 ## Summary
 Publicity photo of [[Dick Rambuck]].
 

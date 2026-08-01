@@ -1,3 +1,5 @@
+![[Default Maestro Image.jpg]]
+
 ## Summary
 Default image for Maestro.
 

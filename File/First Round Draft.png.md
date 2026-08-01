@@ -1,3 +1,5 @@
+![[First Round Draft.png]]
+
 ## Summary
 [[First Round Draft]] logo, taken from [the troupe web site](http://firstrounddraft.austinimprov.com/).
 

@@ -1,3 +1,5 @@
+![[Ghetto Sketch Warlock.jpg]]
+
 ## Summary
 Publicity image for [[Ghetto Sketch Warlock]].
 

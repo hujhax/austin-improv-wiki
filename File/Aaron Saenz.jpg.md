@@ -1,3 +1,5 @@
+![[Aaron Saenz.jpg]]
+
 ## Summary
 Picture of [[Aaron Saenz]].
 

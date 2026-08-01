@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Cover to Cover.gif]]
+				<a class="internal-link" href="File/Cover to Cover.gif"><img src="File/Cover%20to%20Cover.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

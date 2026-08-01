@@ -1,3 +1,5 @@
+![[WaffleFest 2003 Poster.jpg]]
+
 ## Summary
 Poster for [[WaffleFest 2003]].
 

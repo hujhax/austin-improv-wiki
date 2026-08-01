@@ -1,3 +1,5 @@
+![[The Sword of Merlin Works.jpg]]
+
 ## Summary
 Publicity image for *[[The Sword of Merlin Works]]*.
 

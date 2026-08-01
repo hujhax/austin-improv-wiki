@@ -1,3 +1,5 @@
+![[The Suitcase.jpg]]
+
 ## Summary
 Facebook cover-photo art for [[The Suitcase]].
 

@@ -1,3 +1,5 @@
+![[Meal of Sides.jpg]]
+
 ## Summary
 Publicity photo of [[Meal of Sides]].
 

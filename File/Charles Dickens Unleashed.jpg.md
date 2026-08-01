@@ -1,3 +1,5 @@
+![[Charles Dickens Unleashed.jpg]]
+
 ## Summary
 Promotional image for *[[Charles Dickens Unleashed]]*.
 

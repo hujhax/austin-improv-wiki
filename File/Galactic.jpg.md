@@ -1,3 +1,5 @@
+![[Galactic.jpg]]
+
 ## Summary
 Publicity photo for [[Galactic]].
 

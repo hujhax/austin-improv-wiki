@@ -1,3 +1,5 @@
+![[Lonely Star Poster.jpg]]
+
 ## Summary
 Poster for *[[Lonely Star]]*.
 

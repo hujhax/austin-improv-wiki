@@ -1,3 +1,5 @@
+![[LAFF 2012 Logo.jpg]]
+
 ## Summary
 The logo for [[The 2012 Ladies Are Funny Festival]].
 

@@ -1,3 +1,5 @@
+![[Peter Pan and the Great Unknown Placeholder image.jpg]]
+
 ## Summary
 Placeholder image for *[[Peter Pan and the Great Unknown]]*.
 ## Licensing

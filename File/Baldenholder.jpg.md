@@ -1,3 +1,5 @@
+![[Baldenholder.jpg]]
+
 ## Summary
 Publicity photo of [[Baldenholder]].
 

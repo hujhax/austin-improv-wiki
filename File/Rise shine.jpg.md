@@ -1,3 +1,5 @@
+![[Rise shine.jpg]]
+
 ## Summary
 Publicity photo of [[Rise & Shine]].
 

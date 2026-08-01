@@ -1,3 +1,5 @@
+![[Mike Kinald Pic.jpg]]
+
 ## Summary
 [[Mike Kinald]], performing in the premiere of *[[The Tribunal]]* on 9/28/12.
 

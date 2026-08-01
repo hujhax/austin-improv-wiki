@@ -1,3 +1,5 @@
+![[Valerie Ward.jpg]]
+
 ## Summary
 [[Valerie Ward]], performing in the premiere of *[[The Tribunal]]* on 9/28/12.
 

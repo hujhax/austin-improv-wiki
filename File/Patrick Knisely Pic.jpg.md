@@ -1,3 +1,5 @@
+![[Patrick Knisely Pic.jpg]]
+
 ## Summary
 [[Patrick Knisely]], in the 10/2/11 performance of "Puppet Katamari" by the [[Puppet Improv Project]].
 

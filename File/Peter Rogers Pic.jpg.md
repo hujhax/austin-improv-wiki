@@ -1,3 +1,5 @@
+![[Peter Rogers Pic.jpg]]
+
 ## Summary
 [[Peter Rogers]] acting as 'script supervisor' for a performance of [[Live Nude Improv]].
 

@@ -1,3 +1,5 @@
+![[Girltrap.png]]
+
 ## Summary
 Still from a video of a [[Girltrap]] performance.
 

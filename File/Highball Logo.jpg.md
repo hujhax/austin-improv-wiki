@@ -1,3 +1,5 @@
+![[Highball Logo.jpg]]
+
 ## Summary
 Logo for [[The Highball]].
 ## Licensing

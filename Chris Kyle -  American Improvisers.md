@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Chris Kyle American Improvisers.jpg]]
+				<a class="internal-link" href="File/Chris Kyle American Improvisers.jpg"><img src="File/Chris%20Kyle%20American%20Improvisers.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

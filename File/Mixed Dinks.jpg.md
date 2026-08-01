@@ -1,3 +1,5 @@
+![[Mixed Dinks.jpg]]
+
 ## Summary
 Publicity art for [[Mixed Dinks]].
 

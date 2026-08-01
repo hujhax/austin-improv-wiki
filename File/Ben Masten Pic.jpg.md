@@ -1,3 +1,5 @@
+![[Ben Masten Pic.jpg]]
+
 ## Summary
 [[Ben Masten]] performing in *[[Maestro]]* during [[The 43-Hour Improv Marathon]] in 2012.
 

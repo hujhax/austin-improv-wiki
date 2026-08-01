@@ -1,3 +1,5 @@
+![[The Saturday Night Special Publicity.gif]]
+
 ## Summary
 Publicity image for *[[The Saturday Night Special]]*.
 

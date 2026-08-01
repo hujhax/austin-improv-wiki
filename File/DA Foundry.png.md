@@ -1,3 +1,5 @@
+![[DA Foundry.png]]
+
 ## Summary
 Publicity photo of [[DA Foundry]].
 

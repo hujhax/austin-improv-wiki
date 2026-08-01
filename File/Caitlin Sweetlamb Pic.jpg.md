@@ -1,3 +1,5 @@
+![[Caitlin Sweetlamb Pic.jpg]]
+
 ## Summary
 [[Caitlin Sweetlamb]], appearing in the 12/7/12 performance of [[This American Live]] ("Life of Privilege").
 

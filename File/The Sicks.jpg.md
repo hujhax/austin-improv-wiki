@@ -1,3 +1,5 @@
+![[The Sicks.jpg]]
+
 ## Summary
 Logo for [[The Sicks]].
 

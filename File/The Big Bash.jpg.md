@@ -1,3 +1,5 @@
+![[The Big Bash.jpg]]
+
 ## Summary
 Publicity image for *[[The Big Bash]]*.
 

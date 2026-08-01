@@ -1,3 +1,5 @@
+![[The Source Poster.jpg]]
+
 ## Summary
 Poster for *[[The Source]]*.
 

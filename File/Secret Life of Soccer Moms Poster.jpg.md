@@ -1,3 +1,5 @@
+![[Secret Life of Soccer Moms Poster.jpg]]
+
 ## Summary
 Poster for the [[Girls Girls Girls]] run of "The Secret Lives of Soccer Moms".
 

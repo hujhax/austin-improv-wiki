@@ -1,3 +1,5 @@
+![[Seth Johnson Pic.jpg]]
+
 ## Summary
 Photo of [[Seth Johnson]].
 

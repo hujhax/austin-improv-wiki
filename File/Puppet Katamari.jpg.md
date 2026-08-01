@@ -1,3 +1,5 @@
+![[Puppet Katamari.jpg]]
+
 ## Summary
 Publicity poster for *[[Puppet Katamari]]*.
 

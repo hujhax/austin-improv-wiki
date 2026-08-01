@@ -1,3 +1,5 @@
+![[Macdaddy-Redux-11x17 smaller.png]]
+
 ## Summary
 Poster for [[Townsville]]'s "MacDaddy's" show.
 

@@ -1,3 +1,5 @@
+![[Wafflefest ad.jpg]]
+
 ## Summary
 A promotional image for the 2012 [[WaffleFest]].
 

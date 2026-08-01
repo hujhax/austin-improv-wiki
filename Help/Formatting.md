@@ -147,7 +147,7 @@ To do that, you just include an "infobox" template at the top of the page.  For 
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[John Doe Pic.jpg]]
+				<a class="internal-link" href="File/John Doe Pic.jpg"><img src="File/John%20Doe%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

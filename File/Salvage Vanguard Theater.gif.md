@@ -1,3 +1,5 @@
+![[Salvage Vanguard Theater.gif]]
+
 ## Summary
 Logo for [[Salvage Vanguard Theater]].
 

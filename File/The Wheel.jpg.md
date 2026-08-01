@@ -1,3 +1,5 @@
+![[The Wheel.jpg]]
+
 ## Summary
 Publicity image for *[[The Wheel]]*.
 

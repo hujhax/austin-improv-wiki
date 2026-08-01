@@ -1,3 +1,5 @@
+![[Buzz Band.jpg]]
+
 ## Summary
 Publicity image for *[[Buzz Band]]*, featuring [[Megan Simon]].
 

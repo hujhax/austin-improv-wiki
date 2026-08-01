@@ -1,3 +1,5 @@
+![[SSHH!.jpg]]
+
 ## Summary
 Publicity photo of [[SSHH]].
 ## Licensing

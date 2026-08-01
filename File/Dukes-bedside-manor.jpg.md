@@ -1,3 +1,5 @@
+![[Dukes-bedside-manor.jpg]]
+
 ## Summary
 Photo by [[Jon Bolden]]
 

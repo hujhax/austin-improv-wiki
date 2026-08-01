@@ -1,3 +1,5 @@
+![[WHJ Final Show Flyer.jpg]]
+
 ## Summary
 Flyer from the final, October 2003 show from [[Well Hung Jury]].
 

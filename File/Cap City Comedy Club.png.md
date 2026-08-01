@@ -1,3 +1,5 @@
+![[Cap City Comedy Club.png]]
+
 ## Summary
 Logo of [[Cap City Comedy Club]].
 ## Licensing

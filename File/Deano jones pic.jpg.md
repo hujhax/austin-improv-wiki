@@ -1,3 +1,5 @@
+![[Deano jones pic.jpg]]
+
 ## Summary
 [[Deano Jones]], performing in *[[The Violet Underbelly]]* on 3/26/11.
 

@@ -1,3 +1,5 @@
+![[Chrissy Shackelford Pic.jpg]]
+
 ## Summary
 Casual photo of [[Chrissy Shackelford]].
 

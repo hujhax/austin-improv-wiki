@@ -1,3 +1,5 @@
+![[Clay Towery Pic.jpg]]
+
 ## Summary
 Promotional photo of [[Clay Towery]] for *[[Showdown]]*.
 

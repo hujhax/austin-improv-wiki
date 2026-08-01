@@ -1,3 +1,5 @@
+![[Kayla Lane Freeman Pic.jpg]]
+
 ## Summary
 [[Kayla Lane Freeman]], in the 7/27/12 performance of *[[Pocketful of Posies]]*.
 

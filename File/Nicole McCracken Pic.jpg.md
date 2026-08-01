@@ -1,3 +1,5 @@
+![[Nicole McCracken Pic.jpg]]
+
 ## Summary
 [[Nicole McCracken]], in the 8/30/13 performance of *[[Braised in Texas]]*.
 

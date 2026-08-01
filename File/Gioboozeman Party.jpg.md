@@ -1,3 +1,5 @@
+![[Gioboozeman Party.jpg]]
+
 ## Summary
 2011 publicity image for [[Gioboozeman Party]].
 

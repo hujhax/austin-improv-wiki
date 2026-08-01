@@ -1,3 +1,5 @@
+![[Lena Long Pic.jpg]]
+
 ## Summary
 [[Lena Long]], in the 8/7/15 performance of *[[The Source]]*.
 

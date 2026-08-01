@@ -1,3 +1,5 @@
+![[TheatreSports Preview Pic.jpg]]
+
 ## Summary
 Preview image for *[[TheatreSports (mainstage run)|TheatreSports]]*.
 

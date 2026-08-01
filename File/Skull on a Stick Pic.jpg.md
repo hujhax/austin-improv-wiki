@@ -1,3 +1,5 @@
+![[Skull on a Stick Pic.jpg]]
+
 ## Summary
 [[Jordan T. Maxwell]] wielding [[The Skull on a Stick]] in *[[Maestro]]* on 5/29/10.
 

@@ -1,3 +1,5 @@
+![[In Our Prime Three.jpg]]
+
 ## Summary
 Photo from troupe shoot by Steve Rogers.
 ## Licensing

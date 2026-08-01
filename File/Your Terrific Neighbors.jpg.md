@@ -1,3 +1,5 @@
+![[Your Terrific Neighbors.jpg]]
+
 ## Summary
 Publicity image of [[Your Terrific Neighbors]].
 

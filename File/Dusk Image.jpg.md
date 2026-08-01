@@ -1,3 +1,5 @@
+![[Dusk Image.jpg]]
+
 ## Summary
 Promotional image for *[[Dusk]]*.
 

@@ -1,3 +1,5 @@
+![[Patrick Daniel Pic.jpg]]
+
 ## Summary
 [[Patrick Daniel]], performing in day 2 of [[Asafapalooza]] in 2010.
 

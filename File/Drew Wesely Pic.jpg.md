@@ -1,3 +1,5 @@
+![[Drew Wesely Pic.jpg]]
+
 ## Summary
 [[Drew Wesely]] who likes cats.
 

@@ -1,3 +1,5 @@
+![[Six Degrees Pic.jpg]]
+
 ## Summary
 The players take the stage for the 2/28/02 performance of *[[Six Degrees]]*.
 

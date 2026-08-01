@@ -1,3 +1,5 @@
+![[Tim Honker headshot.jpg]]
+
 ## Summary
 Headshot of [[Tim Honker]], photo taken by [[Jon Bolden]].
 

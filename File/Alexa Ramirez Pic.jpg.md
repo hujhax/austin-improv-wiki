@@ -1,3 +1,5 @@
+![[Alexa Ramirez Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Alexa Ramirez]] for *[[Live TV Tuesdays -  Firefly]]*, from [this photoset](http://www.facebook.com/media/set/?set=a.10150841593631047.465053.519656046&type=3).
 

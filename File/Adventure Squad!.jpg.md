@@ -1,3 +1,5 @@
+![[Adventure Squad!.jpg]]
+
 ## Summary
 [[Kaci Beeler]] and [[Valerie Ward]] performing as [[Adventure Squad!]] in [[The 2011 Ladies Are Funny Festival]].
 

@@ -1,3 +1,5 @@
+![[Opposites.jpg]]
+
 ## Summary
 [[Opposites]] logo.
 

@@ -1,3 +1,5 @@
+![[Big Beautiful Warriors.jpg]]
+
 ## Summary
 Publicity image for [[Big Beautiful Warriors]].
 

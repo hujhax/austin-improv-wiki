@@ -1,3 +1,5 @@
+![[Dudith.jpg]]
+
 ## Summary
 Publicity photo of [[Dudith]].
 

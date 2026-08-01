@@ -1,3 +1,5 @@
+![[The 45-Hour Cover Photo.jpg]]
+
 ## Summary
 Promotional image for [[The 45-Hour Improv Marathon]].
 

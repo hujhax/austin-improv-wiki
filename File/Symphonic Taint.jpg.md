@@ -1,3 +1,5 @@
+![[Symphonic Taint.jpg]]
+
 ## Summary
 Publicity image for [[Symphonic Taint]].
 

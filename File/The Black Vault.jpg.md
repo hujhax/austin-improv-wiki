@@ -1,3 +1,5 @@
+![[The Black Vault.jpg]]
+
 ## Summary
 Publicity image for *[[The Black Vault]]*.
 

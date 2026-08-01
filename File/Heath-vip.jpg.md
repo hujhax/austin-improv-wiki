@@ -1,3 +1,5 @@
+![[Heath-vip.jpg]]
+
 ## Summary
 [[Heath Allyn]] at the first annual [[Institution Theater Awards]].
 

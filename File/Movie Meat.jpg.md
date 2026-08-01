@@ -1,3 +1,5 @@
+![[Movie Meat.jpg]]
+
 ## Summary
 Publicity image for [[Movie Meat]].
 

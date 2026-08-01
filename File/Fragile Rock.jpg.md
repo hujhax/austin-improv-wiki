@@ -1,3 +1,5 @@
+![[Fragile Rock.jpg]]
+
 ## Summary
 Promotional photo of [[Fragile Rock]].
 

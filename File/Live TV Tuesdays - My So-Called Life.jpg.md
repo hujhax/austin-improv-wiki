@@ -1,3 +1,5 @@
+![[Live TV Tuesdays - My So-Called Life.jpg]]
+
 ## Summary
 [[Ruby Willmann]] and [[Christine Giordano]], in the 7/12/11 performance of *[[Live TV Tuesdays -  My So-Called Life]]*.
 

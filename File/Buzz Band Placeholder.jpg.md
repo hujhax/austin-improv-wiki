@@ -1,3 +1,5 @@
+![[Buzz Band Placeholder.jpg]]
+
 ## Summary
 Placeholder promotional image for *[[Buzz Band]]*.
 

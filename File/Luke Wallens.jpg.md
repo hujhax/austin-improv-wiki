@@ -1,3 +1,5 @@
+![[Luke Wallens.jpg]]
+
 ## Summary
 Picture of improv performer [[Luke Wallens]], performing in *[[Only Three Will Survive]]* on 2012-08-03.
 

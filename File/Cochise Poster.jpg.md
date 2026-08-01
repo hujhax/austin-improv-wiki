@@ -1,3 +1,5 @@
+![[Cochise Poster.jpg]]
+
 ## Summary
 Publicity image for *[[Cochise]]*, featuring members of [[Improv for Evil]].
 

@@ -1,3 +1,5 @@
+![[Happy Butter.jpg]]
+
 ## Summary
 Photo from [[The Hideout Theatre]]'s first Level 6 Graduation Show.
 

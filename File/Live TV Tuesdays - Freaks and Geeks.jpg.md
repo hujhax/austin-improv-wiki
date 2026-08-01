@@ -1,3 +1,5 @@
+![[Live TV Tuesdays - Freaks and Geeks.jpg]]
+
 ## Summary
 The "Jesus Is Just Alright" song from "Beers and Weirs" becomes a gigantic musical number in the [[Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays presentation of *Freaks and Geeks*]].
 

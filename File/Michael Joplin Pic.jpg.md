@@ -1,3 +1,5 @@
+![[Michael Joplin Pic.jpg]]
+
 ## Summary
 [[Michael Joplin]], performing with the [[Available Cupholders]] at the 2013 [[Improvised Play Festival]].
 

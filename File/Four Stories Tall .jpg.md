@@ -1,3 +1,5 @@
+![[Four Stories Tall .jpg]]
+
 ## Summary
 Publicity photo for [[Four Stories Tall]].
 

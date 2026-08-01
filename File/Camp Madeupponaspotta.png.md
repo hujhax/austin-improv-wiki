@@ -1,3 +1,5 @@
+![[Camp Madeupponaspotta.png]]
+
 ## Summary
 Poster for *[[Camp Madeupponathaspotta]]*.
 

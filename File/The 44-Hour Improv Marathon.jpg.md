@@ -1,3 +1,5 @@
+![[The 44-Hour Improv Marathon.jpg]]
+
 ## Summary
 Publicity image for [[The 44-Hour Improv Marathon]].
 

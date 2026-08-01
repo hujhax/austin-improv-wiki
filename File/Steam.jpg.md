@@ -1,3 +1,5 @@
+![[Steam.jpg]]
+
 ## Summary
 Promotional art for *[[Steam]]*.
 

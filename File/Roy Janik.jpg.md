@@ -1,3 +1,5 @@
+![[Roy Janik.jpg]]
+
 ## Summary
 [[Roy Janik]], performing in [[Austin Secrets]] at [[WaffleFest]] 2012.
 

@@ -1,3 +1,5 @@
+![[Fiasco Placeholder.png]]
+
 ## Summary
 Placeholder icon for *[[Fiasco]]*.
 

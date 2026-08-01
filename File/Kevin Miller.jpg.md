@@ -1,3 +1,5 @@
+![[Kevin Miller.jpg]]
+
 ## Summary
 Taken by [[Steve Rogers]] from [this photoset](http://www.steve-rogers-photography.com/ImprovPerformances/Steam-Rose-Colored-Goggles-and/6-Steam-Rose-Colored-Goggles/)
 ## Licensing

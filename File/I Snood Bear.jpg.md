@@ -1,3 +1,5 @@
+![[I Snood Bear.jpg]]
+
 ## Summary
 [[I Snood Bear]], performing in the 2007 *[[Cagematch]]*.
 

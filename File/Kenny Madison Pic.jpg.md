@@ -1,3 +1,5 @@
+![[Kenny Madison Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Kenny Madison]] from *[[Close Up]]*.
 

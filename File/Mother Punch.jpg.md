@@ -1,3 +1,5 @@
+![[Mother Punch.jpg]]
+
 ## Summary
 Publicity image for [[Mother Punch]].
 ## Licensing

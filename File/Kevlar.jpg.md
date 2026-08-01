@@ -1,3 +1,5 @@
+![[Kevlar.jpg]]
+
 ## Summary
 Publicity photo of [[Kevlar]].
 

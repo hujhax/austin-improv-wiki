@@ -1,3 +1,5 @@
+![[Pariah.jpg]]
+
 ## Summary
 Publicity photo for [[Pariah]].
 

@@ -1,3 +1,5 @@
+![[Puppet Fever.jpg]]
+
 ## Summary
 Publicity poster for *[[Puppet Fever]]*.
 

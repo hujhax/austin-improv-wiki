@@ -1,3 +1,5 @@
+![[Spectacle Publicity.jpg]]
+
 ## Summary
 Publicity image for [[The Spectacle]], featuring [[Parallelogramophonograph]].
 

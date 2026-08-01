@@ -1,3 +1,5 @@
+![[Haunted Poster.jpg]]
+
 ## Summary
 Publicity poster for *[[Haunted]]*.
 

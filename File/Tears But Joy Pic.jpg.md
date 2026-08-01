@@ -1,3 +1,5 @@
+![[Tears But Joy Pic.jpg]]
+
 ## Summary
 Publicity image for [[Tears But Joy]].
 

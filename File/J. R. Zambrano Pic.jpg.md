@@ -1,3 +1,5 @@
+![[J. R. Zambrano Pic.jpg]]
+
 ## Summary
 Publicity photo of [[J. R. Zambrano]] for *[[A Deed So Dark]]*.
 

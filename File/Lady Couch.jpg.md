@@ -1,3 +1,5 @@
+![[Lady Couch.jpg]]
+
 ## Summary
 [[Lady Couch]] performing at *[[The Saturday Night Special]]* on 4/9/11.
 

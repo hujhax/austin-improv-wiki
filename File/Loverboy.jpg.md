@@ -1,3 +1,5 @@
+![[Loverboy.jpg]]
+
 ## Summary
 Publicity photo of [[Loverboy]].
 ## Licensing

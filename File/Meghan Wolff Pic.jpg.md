@@ -1,3 +1,5 @@
+![[Meghan Wolff Pic.jpg]]
+
 ## Summary
 [[Meghan Wolff]], in the 4/17/10 performance of *[[Apocalypse! (show)|Apocalypse!]]*
 

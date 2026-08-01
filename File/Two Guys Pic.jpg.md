@@ -1,3 +1,5 @@
+![[Two Guys Pic.jpg]]
+
 ## Summary
 Publicity shot for [[Two Guys From Yonkers]].
 

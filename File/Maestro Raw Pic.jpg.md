@@ -1,3 +1,5 @@
+![[Maestro Raw Pic.jpg]]
+
 ## Summary
 Promotional image for *[[Maestro Raw]]*.
 

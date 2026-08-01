@@ -1,3 +1,5 @@
+![[Troy Miller Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Troy Miller]] for *[[Manhattan Stories]]*.
 

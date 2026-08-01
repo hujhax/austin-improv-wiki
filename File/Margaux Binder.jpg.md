@@ -1,3 +1,5 @@
+![[Margaux Binder.jpg]]
+
 ## Summary
 [[Margaux Binder]] performing in [[The Fancy-Pants Mashup]] at [[The Hideout Theatre]] on January 6th 2012.
 

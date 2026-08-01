@@ -1,3 +1,5 @@
+![[AsafRonen.jpg]]
+
 ## Summary
 Photo of [[Asaf Ronen]] (who owns its copyright).
 

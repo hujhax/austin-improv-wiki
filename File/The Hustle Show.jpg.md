@@ -1,3 +1,5 @@
+![[The Hustle Show.jpg]]
+
 ## Summary
 Banner art for *[[The Hustle Show]]*.
 

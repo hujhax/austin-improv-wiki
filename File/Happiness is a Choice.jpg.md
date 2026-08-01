@@ -1,3 +1,5 @@
+![[Happiness is a Choice.jpg]]
+
 ## Summary
 [[Happiness is a Choice]], performing at [[ColdTowne Theater]] on 3/15/10.
 

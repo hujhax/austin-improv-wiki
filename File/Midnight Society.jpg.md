@@ -1,3 +1,5 @@
+![[Midnight Society.jpg]]
+
 ## Summary
 [[Midnight Society]] performs at [[ColdTowne Theater]].
 

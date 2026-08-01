@@ -1,3 +1,5 @@
+![[IreneWhite.jpg]]
+
 ## Summary
 [[Irene White]], performing at [[The Hideout Theatre]].
 

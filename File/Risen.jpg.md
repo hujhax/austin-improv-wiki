@@ -1,3 +1,5 @@
+![[Risen.jpg]]
+
 ## Summary
 Poster for *[[Risen]]*.
 

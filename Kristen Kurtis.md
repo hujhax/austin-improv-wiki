@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[KristenKurtis.jpg]]
+				<a class="internal-link" href="File/KristenKurtis.jpg"><img src="File/KristenKurtis.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -1,3 +1,5 @@
+![[Todd Hart Pic.jpg]]
+
 ## Summary
 [[Todd Hart]], in the 4/6/13 performance of *[[The Depression Chronicles]]*.
 

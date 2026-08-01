@@ -1,3 +1,5 @@
+![[Ctrl-Alt-Delight.jpg]]
+
 ## Summary
 (From left) [[Jonathan Euseppi]], [[Hugo Vargas-Zesati]], [[Gary Richardson]], and [[Mike Sullivan]], performing as [[Ctrl-Alt-Delight]] in [[The 2012 Out of Bounds Comedy Festival]].
 

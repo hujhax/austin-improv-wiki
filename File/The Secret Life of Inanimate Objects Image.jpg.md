@@ -1,3 +1,5 @@
+![[The Secret Life of Inanimate Objects Image.jpg]]
+
 ## Summary
 Poster for *[[The Secret Life of Inanimate Objects]]*.
 

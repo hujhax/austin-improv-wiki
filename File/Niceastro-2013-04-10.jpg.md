@@ -1,3 +1,5 @@
+![[Niceastro-2013-04-10.jpg]]
+
 ## Summary
 [[Nice Astronaut]] photo from DCM 2013.
 

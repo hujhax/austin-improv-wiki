@@ -1,3 +1,5 @@
+![[Ammon Taylor Pic.jpg]]
+
 ## Summary
 [[Ammon Taylor]], warming up for [[Same Year's Eve]] 12/30/12.
 

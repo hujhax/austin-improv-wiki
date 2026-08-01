@@ -1,3 +1,5 @@
+![[Sean Hill Pic.jpg]]
+
 ## Summary
 [[Sean Hill]], in the 3/27/10 performance of *[[Hitchcocked]]*.
 

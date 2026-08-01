@@ -1,3 +1,5 @@
+![[Cody Dearing Pic.jpg]]
+
 ## Summary
 [[Cody Dearing]] performing with [[Scout]] on 9/19/2011.
 

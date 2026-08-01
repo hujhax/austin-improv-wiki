@@ -1,3 +1,5 @@
+![[ColorWheel.png]]
+
 ## Summary
 Publicity photo of [[ColorWheel]].
 

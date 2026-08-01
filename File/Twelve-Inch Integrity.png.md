@@ -1,3 +1,5 @@
+![[Twelve-Inch Integrity.png]]
+
 ## Summary
 Logo for [[Twelve-Inch Integrity]].
 

@@ -1,3 +1,5 @@
+![[Southpaw Jones Does What He Wants.jpg]]
+
 ## Summary
 Banner art for *[[Southpaw Jones Does What He Wants]]*.
 

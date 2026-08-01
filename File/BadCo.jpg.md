@@ -1,3 +1,5 @@
+![[BadCo.jpg]]
+
 ## Summary
 Publicity image for [[Bad Company]] depicting [[Luis Salinas]].
 

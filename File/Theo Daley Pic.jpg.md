@@ -1,3 +1,5 @@
+![[Theo Daley Pic.jpg]]
+
 ## Summary
 [[Theo Daley]], in the 1/10/15 performance of *[[A Penny Dreadful]]*.
 

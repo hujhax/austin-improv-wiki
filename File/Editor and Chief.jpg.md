@@ -1,3 +1,5 @@
+![[Editor and Chief.jpg]]
+
 ## Summary
 A performance of [[Editor and Chief]].
 

@@ -1,3 +1,5 @@
+![[Mark Carpenter Pic.jpg]]
+
 ## Summary
 [[Mark Carpenter]], in a publicity photo for *[[Apocalypse! (show)|Apocalypse!]]*
 

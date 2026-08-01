@@ -1,3 +1,5 @@
+![[Jeff & David.jpg]]
+
 ## Summary
 Publicity image for [[Jeff & David]].
 

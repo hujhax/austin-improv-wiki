@@ -1,3 +1,5 @@
+![[Fiasco Set.jpg]]
+
 ## Summary
 The set for *[[Fiasco]]*.
 

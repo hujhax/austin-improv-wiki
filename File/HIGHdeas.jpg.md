@@ -1,3 +1,5 @@
+![[HIGHdeas.jpg]]
+
 ## Summary
 Publicity image for [[HIGHdeas]].
 

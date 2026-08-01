@@ -1,3 +1,5 @@
+![[Boy Toy.jpg]]
+
 ## Summary
 Logo for [[Boy Toy]].
 

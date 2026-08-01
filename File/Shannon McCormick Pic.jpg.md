@@ -1,3 +1,5 @@
+![[Shannon McCormick Pic.jpg]]
+
 ## Summary
 [[Shannon McCormick]], performing with [[Get Up]] at the 2012 [[WaffleFest]].
 

@@ -1,3 +1,5 @@
+![[Fandom cover photo.jpg]]
+
 ## Summary
 Facebook cover photo for *Fandom*, by [[Kaci Beeler]].
 

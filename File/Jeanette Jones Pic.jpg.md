@@ -1,3 +1,5 @@
+![[Jeanette Jones Pic.jpg]]
+
 ## Summary
 [[Jeanette Jones]] performing in *[[Bad Girls in Plaid Skirts]]* on 3/29/13.
 

@@ -1,3 +1,5 @@
+![[Joy.jpg]]
+
 ## Summary
 Publicity image for [[Joy]].
 

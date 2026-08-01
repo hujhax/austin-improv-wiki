@@ -1,3 +1,5 @@
+![[Austin Playback Theatre.jpg]]
+
 ## Summary
 Publicity photo of [[Austin Playback Theatre]].
 ## Licensing

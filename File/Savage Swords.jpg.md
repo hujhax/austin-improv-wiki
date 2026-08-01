@@ -1,3 +1,5 @@
+![[Savage Swords.jpg]]
+
 ## Summary
 Publicity poster for *[[Savage Swords]]*, featuring [[J. R. Zambrano]], [[Peter Rogers]], and [[Suzanne Link]].
 

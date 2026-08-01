@@ -1,3 +1,5 @@
+![[Indy Movies.jpg]]
+
 ## Summary
 Publicity poster for *[[Indy Movies]]*.
 

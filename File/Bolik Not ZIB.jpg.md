@@ -1,3 +1,5 @@
+![[Bolik Not ZIB.jpg]]
+
 ## Summary
 Publicity photo of [[Bolik Not ZIB]].
 

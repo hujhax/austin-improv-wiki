@@ -1,3 +1,5 @@
+![[The Narrative Improv Jam.jpg]]
+
 ## Summary
 Publicity art for *[[The Narrative Improv Jam]]*.
 

@@ -1,3 +1,5 @@
+![[Tosin Awofeso Pic.jpg]]
+
 ## Summary
 [[Tosin Awofeso]] accompanies the 5/24/14 performance of *[[Theatresports]]*.
 

@@ -1,3 +1,5 @@
+![[Katie Dahm Pic.jpg]]
+
 ## Summary
 [[Katie Dahm]] performing with [[Quayle]] on 2/5/11.
 

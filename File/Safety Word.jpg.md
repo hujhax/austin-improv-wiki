@@ -1,3 +1,5 @@
+![[Safety Word.jpg]]
+
 ## Summary
 Publicity photo of [[Safety Word]].
 

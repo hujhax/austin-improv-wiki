@@ -1,3 +1,5 @@
+![[The Megaphone Show.jpg]]
+
 ## Summary
 Publicity image for *[[The Megaphone Show]]*.
 

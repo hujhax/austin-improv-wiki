@@ -1,3 +1,5 @@
+![[Subject Object.jpg]]
+
 ## Summary
 Publicity image for [[Subject -  Object]].
 

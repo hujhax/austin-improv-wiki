@@ -1,3 +1,5 @@
+![[Comedy Bazaar.jpg]]
+
 ## Summary
 Publicity banner for *[[Comedy Bazaar]]*.
 

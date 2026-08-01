@@ -1,3 +1,5 @@
+![[Jason Oliver Pic.jpg]]
+
 ## Summary
 Casual photo of [[Jason Oliver]].
 

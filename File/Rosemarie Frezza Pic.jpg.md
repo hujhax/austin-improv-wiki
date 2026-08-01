@@ -1,3 +1,5 @@
+![[Rosemarie Frezza Pic.jpg]]
+
 ## Summary
 Headshot of [[Rosemarie Frezza]].
 

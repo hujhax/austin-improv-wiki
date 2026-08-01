@@ -1,3 +1,5 @@
+![[Look Cookie.jpg]]
+
 ## Summary
 Publicity image for [[Look Cookie]].
 

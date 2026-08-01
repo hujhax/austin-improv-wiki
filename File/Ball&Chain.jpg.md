@@ -1,3 +1,5 @@
+![[Ball&Chain.jpg]]
+
 ## Summary
 Publicity photo of [[Ball&Chain]].
 

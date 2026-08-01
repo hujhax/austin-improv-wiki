@@ -1,3 +1,5 @@
+![[Flying Theater Machine.jpg]]
+
 ## Summary
 Photobooth picture of the [[Flying Theater Machine]].
 

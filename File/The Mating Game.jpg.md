@@ -1,3 +1,5 @@
+![[The Mating Game.jpg]]
+
 ## Summary
 Publicity poster for *[[The Mating Game]]*.
 

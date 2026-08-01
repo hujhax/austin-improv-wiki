@@ -1,3 +1,5 @@
+![[Lunch Pail.jpg]]
+
 ## Summary
 Publicity image for [[Lunch Pail]].
 

@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[One More Night.gif]]
+				<a class="internal-link" href="File/One More Night.gif"><img src="File/One%20More%20Night.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

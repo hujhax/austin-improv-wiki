@@ -1,3 +1,5 @@
+![[The JBs.jpg]]
+
 ## Summary
 Promotional image for a performance by [[The JBs]] at *[[The Monday Night Mash]]*.
 

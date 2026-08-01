@@ -1,3 +1,5 @@
+![[The Third Professor.jpg]]
+
 ## Summary
 [[Andrew Pish]] plays the Third Professor in the 11/4/11 performance of [[The Professor]].
 

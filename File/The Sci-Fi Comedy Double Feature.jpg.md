@@ -1,3 +1,5 @@
+![[The Sci-Fi Comedy Double Feature.jpg]]
+
 ## Summary
 Publicity image for *[[The Sci-Fi Comedy Double Feature]]*, taken from the show's web page.
 

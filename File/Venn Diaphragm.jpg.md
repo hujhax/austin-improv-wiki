@@ -1,3 +1,5 @@
+![[Venn Diaphragm.jpg]]
+
 ## Summary
 Publicity photo of [[Venn Diaphragm]].
 

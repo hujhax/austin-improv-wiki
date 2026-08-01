@@ -1,3 +1,5 @@
+![[Performer Default Image.png]]
+
 ## Summary
 The default image for a performer.
 

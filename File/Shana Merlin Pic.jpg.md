@@ -1,3 +1,5 @@
+![[Shana Merlin Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Shana Merlin]] for [[Girls Girls Girls]].
 

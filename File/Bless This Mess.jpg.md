@@ -1,3 +1,5 @@
+![[Bless This Mess.jpg]]
+
 ## Summary
 Logo for [[Bless This Mess]] by [[Liz Butler]].
 ## Licensing

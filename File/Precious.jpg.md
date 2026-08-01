@@ -1,3 +1,5 @@
+![[Precious.jpg]]
+
 ## Summary
 Publicity image for [[Precious]].
 

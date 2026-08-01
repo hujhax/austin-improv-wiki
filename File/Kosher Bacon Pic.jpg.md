@@ -1,3 +1,5 @@
+![[Kosher Bacon Pic.jpg]]
+
 ## Summary
 [[Kosher Bacon]] points at the audience after their 9/8/12 performance of *Under Waged* at *[[The Saturday Night Special]]*.
 

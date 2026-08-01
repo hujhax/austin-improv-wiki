@@ -1,3 +1,5 @@
+![[MagnaVeritas.jpg]]
+
 ## Summary
 Promotional photo for [[Magna Veritas]], photography by [[Steve Rogers]].
 

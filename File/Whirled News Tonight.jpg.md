@@ -1,3 +1,5 @@
+![[Whirled News Tonight.jpg]]
+
 ## Summary
 Framed poster for *[[Whirled News Tonight]]*.
 

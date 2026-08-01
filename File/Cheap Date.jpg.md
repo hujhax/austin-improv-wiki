@@ -1,3 +1,5 @@
+![[Cheap Date.jpg]]
+
 ## Summary
 Publicity photo for [[Cheap Date]].
 

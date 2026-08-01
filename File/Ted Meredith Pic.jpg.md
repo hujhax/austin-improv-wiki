@@ -1,3 +1,5 @@
+![[Ted Meredith Pic.jpg]]
+
 ## Summary
 [[Ted Meredith]], in the 5/19/13 performance in *[[Thinning the Herd]]*.
 

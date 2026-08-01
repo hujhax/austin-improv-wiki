@@ -1,3 +1,5 @@
+![[Kinkade.jpg]]
+
 ## Summary
 Casual photo of [[Kinkade]].
 ## Licensing

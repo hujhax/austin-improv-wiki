@@ -1,3 +1,5 @@
+![[SongRunner.jpg]]
+
 ## Summary
 Poster for *[[SongRunner]]*.
 

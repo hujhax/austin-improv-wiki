@@ -1,3 +1,5 @@
+![[SnackersLogo.gif]]
+
 ## Summary
 The [[Snackers]] logo.
 

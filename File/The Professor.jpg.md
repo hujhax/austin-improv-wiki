@@ -1,3 +1,5 @@
+![[The Professor.jpg]]
+
 ## Summary
 Publicity poster for the 2012 run of [[The Professor]].
 

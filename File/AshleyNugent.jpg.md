@@ -1,3 +1,5 @@
+![[AshleyNugent.jpg]]
+
 ## Summary
 Head shot of [[Ashley Nugent]].
 

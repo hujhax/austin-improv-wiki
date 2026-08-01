@@ -1,3 +1,5 @@
+![[The Cubbies.jpg]]
+
 ## Summary
 Photo of [[The Cubbies]].
 

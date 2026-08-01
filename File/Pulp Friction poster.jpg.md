@@ -1,3 +1,5 @@
+![[Pulp Friction poster.jpg]]
+
 ## Summary
 Poster for *[[Pulp Friction]]*.
 

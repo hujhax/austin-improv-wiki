@@ -1,3 +1,5 @@
+![[Nancy Lyon 1.jpg]]
+
 ## Summary
 Photo by [[Topping Haggerty]]
 ## Licensing

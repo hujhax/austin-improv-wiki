@@ -1,3 +1,5 @@
+![[The Library.jpg]]
+
 ## Summary
 [[Kacey Samiee]] and [[Justin Davis]] performing with [[The Library]] on 5/16/13.
 

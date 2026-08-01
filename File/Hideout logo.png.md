@@ -1,3 +1,5 @@
+![[Hideout logo.png]]
+
 ## Summary
 Logo of [[The Hideout Theatre]].  (History of the logo [here](http://www.hideouttheatre.com/the-making-of-the-hideout-logo).)
 

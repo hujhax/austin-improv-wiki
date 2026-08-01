@@ -1,3 +1,5 @@
+![[Movie vs Movie.jpg]]
+
 ## Summary
 Publicity art for *[[Movie vs Movie]]* by [[Carlos LaRotta]].
 

@@ -1,3 +1,5 @@
+![[Meat cute poster.jpg]]
+
 ## Summary
 Poster for *[[Meat Cute]]*.
 

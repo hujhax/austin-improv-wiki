@@ -1,3 +1,5 @@
+![[Lisa Jackson.jpg]]
+
 ## Summary
 [[Lisa Jackson]] performing with [[Galactic]] at [[The 2012 Out of Bounds Comedy Festival]].
 

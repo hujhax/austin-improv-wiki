@@ -1,3 +1,5 @@
+![[CarlosLaRotta.jpg]]
+
 ## Summary
 [[Carlos LaRotta]] performing with [[Whalehouse]] in June 2013.
 

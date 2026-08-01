@@ -1,3 +1,5 @@
+![[Quinn Buckner.jpg]]
+
 ## Summary
 [[Quinn Buckner]] telling a fond memory of *Firefly* for [[Fandom]].
 

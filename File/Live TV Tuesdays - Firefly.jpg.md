@@ -1,3 +1,5 @@
+![[Live TV Tuesdays - Firefly.jpg]]
+
 ## Summary
 The cast of *[[Live TV Tuesdays -  Firefly]]* takes a bow.
 

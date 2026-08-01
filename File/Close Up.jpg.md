@@ -1,3 +1,5 @@
+![[Close Up.jpg]]
+
 ## Summary
 Poster for *[[Close Up]]*.
 

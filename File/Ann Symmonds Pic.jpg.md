@@ -1,3 +1,5 @@
+![[Ann Symmonds Pic.jpg]]
+
 ## Summary
 Photo of [[Ann Symmonds]].
 

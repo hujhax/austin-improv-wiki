@@ -1,3 +1,5 @@
+![[Amy Averett Pic.jpg]]
+
 ## Summary
 [[Amy Averett]], performing with [[Girls Girls Girls]] on 5/5/12.
 

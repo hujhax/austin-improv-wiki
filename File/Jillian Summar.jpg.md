@@ -1,3 +1,5 @@
+![[Jillian Summar.jpg]]
+
 ## Summary
 [[Jillian Summar]] in the 4/5/14 performance of *[[Camp Madeupponathaspotta]]*.
 

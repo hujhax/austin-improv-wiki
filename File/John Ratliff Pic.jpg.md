@@ -1,3 +1,5 @@
+![[John Ratliff Pic.jpg]]
+
 ## Summary
 [[John Ratliff]], performing with [[You're Not My Real Dad]] at [[The 2010 Out of Bounds Comedy Festival]] on 9/1/10.
 

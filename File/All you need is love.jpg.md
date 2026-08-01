@@ -1,3 +1,5 @@
+![[All you need is love.jpg]]
+
 ## Summary
 promotional banner image for All You Need Is Love
 ## Licensing

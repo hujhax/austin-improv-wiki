@@ -1,3 +1,5 @@
+![[Joy Parks Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Joy Parks]] for *[[Fiasco]]*.
 

@@ -1,3 +1,5 @@
+![[Fakespeare Preview Image.jpg]]
+
 ## Summary
 Preview image for *[[Fakespeare]]*, featuring director [[Andy Crouch]].
 

@@ -1,3 +1,5 @@
+![[The Asides.jpg]]
+
 ## Summary
 Publicity photo of [[The Asides]].
 

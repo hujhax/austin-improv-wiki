@@ -1,3 +1,5 @@
+![[After School Special Victims Unit.jpg]]
+
 ## Summary
 Publicity poster for *[[After School Special Victims Unit]]*.
 

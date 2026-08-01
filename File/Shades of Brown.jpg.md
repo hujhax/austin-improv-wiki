@@ -1,3 +1,5 @@
+![[Shades of Brown.jpg]]
+
 ## Summary
 Publicity photo of [[Shades of Brown]].
 

@@ -1,3 +1,5 @@
+![[Mo Daviau Pic.jpg]]
+
 ## Summary
 [[Mo Daviau]], reading her work at the 5/17/12 performance of *[[Bedpost Confessions]]*.
 

@@ -1,3 +1,5 @@
+![[Arthur Simone Pic.jpg]]
+
 ## Summary
 Headshot of [[Arthur Simone]].
 

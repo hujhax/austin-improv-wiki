@@ -1,3 +1,5 @@
+![[Nichole Bennett Pic.jpg]]
+
 ## Summary
 [[Nichole Bennett]] performing in *[[Maestro]]* on 12/26/15.
 

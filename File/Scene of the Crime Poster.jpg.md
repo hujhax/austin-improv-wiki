@@ -1,3 +1,5 @@
+![[Scene of the Crime Poster.jpg]]
+
 ## Summary
 Poster for *[[Scene of the Crime]]*.
 

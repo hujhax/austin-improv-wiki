@@ -1,3 +1,5 @@
+![[Darth Brooks.jpg]]
+
 ## Summary
 Photo of [[Darth Brooks]].
 

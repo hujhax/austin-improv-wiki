@@ -1,3 +1,5 @@
+![[Process Publicity Image.jpg]]
+
 ## Summary
 Publicity image for *[[Process]]*, featuring [[Jeremy Sweetlamb]] (snarling).
 

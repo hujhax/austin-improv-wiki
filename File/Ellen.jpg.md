@@ -1,3 +1,5 @@
+![[Ellen.jpg]]
+
 ## Summary
 [[Ellen Pizarek]] performing in the Saturday Night Special with troupe [[Kosher Bacon]] in 2012.
 

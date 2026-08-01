@@ -1,3 +1,5 @@
+![[Trash.jpg]]
+
 ## Summary
 Publicity banner art for *[[Trash]]*.
 

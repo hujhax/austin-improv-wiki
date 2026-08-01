@@ -1,3 +1,5 @@
+![[Highly Suggestible.jpg]]
+
 ## Summary
 Banner image for *[[Highly Suggestible]]*.
 

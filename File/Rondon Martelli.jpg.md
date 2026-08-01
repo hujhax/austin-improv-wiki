@@ -1,3 +1,5 @@
+![[Rondon Martelli.jpg]]
+
 ## Summary
 Performance photo of [[Rondon Martelli]] from 2015.
 

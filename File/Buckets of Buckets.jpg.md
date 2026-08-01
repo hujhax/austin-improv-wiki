@@ -1,3 +1,5 @@
+![[Buckets of Buckets.jpg]]
+
 ## Summary
 Publicity photo of [[Buckets of Buckets]].
 

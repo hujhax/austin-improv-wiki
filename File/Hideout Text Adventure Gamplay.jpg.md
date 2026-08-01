@@ -1,3 +1,5 @@
+![[Hideout Text Adventure Gamplay.jpg]]
+
 ## Summary
 Sample gameplay from [[The Hideout Text Adventure]].
 

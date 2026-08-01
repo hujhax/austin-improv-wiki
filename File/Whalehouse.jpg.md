@@ -1,3 +1,5 @@
+![[Whalehouse.jpg]]
+
 ## Summary
 Publicity image for [[Whalehouse]].
 

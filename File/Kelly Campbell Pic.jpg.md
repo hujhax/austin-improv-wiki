@@ -1,3 +1,5 @@
+![[Kelly Campbell Pic.jpg]]
+
 ## Summary
 [[Kelly Campbell]], in the 8/29/15 performance of *[[Close Up]]*.
 

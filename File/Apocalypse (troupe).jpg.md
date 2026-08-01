@@ -1,3 +1,5 @@
+![[Apocalypse (troupe).jpg]]
+
 ## Summary
 Publicity photo for the troupe [[Apocalypse (troupe)|Apocalypse]].
 

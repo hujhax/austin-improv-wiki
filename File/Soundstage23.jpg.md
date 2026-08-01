@@ -1,3 +1,5 @@
+![[Soundstage23.jpg]]
+
 ## Summary
 Poster for *[[Soundstage 23]]*, featuring the cast.
 

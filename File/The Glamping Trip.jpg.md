@@ -1,3 +1,5 @@
+![[The Glamping Trip.jpg]]
+
 ## Summary
 Publicity poster for [[The Glamping Trip]].
 

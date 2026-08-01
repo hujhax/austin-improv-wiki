@@ -1,3 +1,5 @@
+![[Simply D-Vine.jpg]]
+
 ## Summary
 [[Simply D-Vine]], performing in [[The 2011 Out of Bounds Comedy Festival]].
 

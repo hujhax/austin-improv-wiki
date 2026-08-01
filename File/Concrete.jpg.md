@@ -1,3 +1,5 @@
+![[Concrete.jpg]]
+
 ## Summary
 [[Concrete]] celebrating their 1/16/13 [[Cagematch]] championship.
 

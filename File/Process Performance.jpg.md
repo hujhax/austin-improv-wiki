@@ -1,3 +1,5 @@
+![[Process Performance.jpg]]
+
 ## Summary
 The king dies in the third act of the 4/15/12 performance of *[[Process]]*, which featured a (fictional) Shakespearean play titled *My Heart Doth Bleed Gold*.
 

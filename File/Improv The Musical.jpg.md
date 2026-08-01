@@ -1,3 +1,5 @@
+![[Improv The Musical.jpg]]
+
 ## Summary
 Placeholder image for *[[Improv -  The Musical]]*.
 

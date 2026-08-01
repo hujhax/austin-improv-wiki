@@ -1,3 +1,5 @@
+![[Red Envelope.jpg]]
+
 ## Summary
 Publicity poster for *[[Red Envelope]]*.
 

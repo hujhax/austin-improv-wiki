@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Salvage Vanguard Theater.gif]]
+				<a class="internal-link" href="File/Salvage Vanguard Theater.gif"><img src="File/Salvage%20Vanguard%20Theater.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

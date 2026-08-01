@@ -1,3 +1,5 @@
+![[Story to the Death Placeholder Image.jpg]]
+
 ## Summary
 Placeholder image for *[[Story to the Death]]*.
 ## Licensing

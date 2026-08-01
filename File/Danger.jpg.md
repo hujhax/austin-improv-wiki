@@ -1,3 +1,5 @@
+![[Danger.jpg]]
+
 ## Summary
 Publicity photo for *[[Danger]]*.
 

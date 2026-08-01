@@ -1,3 +1,5 @@
+![[Shawn Utterback Pic.png]]
+
 ## Summary
 Publicity photo of [[Shawn Utterback]] for *[[Elf Employment]]*.
 

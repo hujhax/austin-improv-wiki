@@ -1,3 +1,5 @@
+![[Collective Alibi.jpg]]
+
 ## Summary
 Publicity photo of [[Collective Alibi]].
 

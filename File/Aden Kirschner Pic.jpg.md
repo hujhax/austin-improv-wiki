@@ -1,3 +1,5 @@
+![[Aden Kirschner Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Aden Kirschner]] for *[[Rock]]*.
 

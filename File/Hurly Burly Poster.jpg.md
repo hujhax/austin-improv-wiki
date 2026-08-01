@@ -1,3 +1,5 @@
+![[Hurly Burly Poster.jpg]]
+
 ## Summary
 Poster for *[[Hurly Burly]]*.
 

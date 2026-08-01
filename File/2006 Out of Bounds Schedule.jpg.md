@@ -1,3 +1,5 @@
+![[2006 Out of Bounds Schedule.jpg]]
+
 ## Summary
 The schedule/postcard for [[The 2006 Out of Bounds Comedy Festival]].
 ## Licensing

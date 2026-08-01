@@ -1,3 +1,5 @@
+![[The Team.jpg]]
+
 ## Summary
 Publicity photo of [[The Team]].
 

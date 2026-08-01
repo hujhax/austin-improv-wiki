@@ -1,3 +1,5 @@
+![[Niceasstronautchamp1.jpg]]
+
 ## Summary
 Photo of [[Nice Astronaut]].
 

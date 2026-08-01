@@ -1,3 +1,5 @@
+![[Rarebit.jpg]]
+
 ## Summary
 Publicity image for [[Rarebit]].
 

@@ -1,3 +1,5 @@
+![[Doin Maintenance.jpg]]
+
 ## Summary
 Publicity photo for [[Doin Maintenance]].
 

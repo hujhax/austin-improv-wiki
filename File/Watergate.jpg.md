@@ -1,3 +1,5 @@
+![[Watergate.jpg]]
+
 ## Summary
 Publicity image for [[Watergate]].
 

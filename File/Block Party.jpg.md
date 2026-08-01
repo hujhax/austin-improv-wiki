@@ -1,3 +1,5 @@
+![[Block Party.jpg]]
+
 ## Summary
 Publicity image for *[[Block Party]]*.
 

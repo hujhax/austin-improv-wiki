@@ -1,3 +1,5 @@
+![[Pick Your Own Path.jpg]]
+
 ## Summary
 Publicity art for *[[Pick Your Own Path]]*; art by [[Kaci Beeler]].
 

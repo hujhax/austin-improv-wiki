@@ -1,3 +1,5 @@
+![[Gigglepants Logo.jpg]]
+
 ## Summary
 2012-2013 Logo for the University of Texas troupe [[Gigglepants]].
 

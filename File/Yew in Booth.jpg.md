@@ -1,3 +1,5 @@
+![[Yew in Booth.jpg]]
+
 ## Summary
 [[Michael Yew]], in the tech booth for the 12/21/12 performance of *[[Charles Dickens Unleashed]]*.
 

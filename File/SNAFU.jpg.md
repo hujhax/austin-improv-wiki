@@ -1,3 +1,5 @@
+![[SNAFU.jpg]]
+
 ## Summary
 Publicity image for [[SNAFU]].
 

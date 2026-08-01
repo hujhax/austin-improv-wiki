@@ -1,3 +1,5 @@
+![[Jay Byrd Pic.jpg]]
+
 ## Summary
 [[Jay Byrd]], guesting in the 8/2/13 premiere of *[[The ReSet Project]]*.
 

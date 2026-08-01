@@ -1,3 +1,5 @@
+![[Stag Comedy.jpg]]
+
 ## Summary
 Publicity photo of [[Stag Comedy]].
 

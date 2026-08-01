@@ -1,3 +1,5 @@
+![[Second Hand.jpg]]
+
 ## Summary
 [[Second Hand]], performing in *[[The Threefer]]* on 12/2/10.
 

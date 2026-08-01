@@ -1,3 +1,5 @@
+![[Happily Ever After.jpg]]
+
 ## Summary
 Poster for *[[Happily Ever After]]*.
 

@@ -1,3 +1,5 @@
+![[Known wizards.jpg]]
+
 ## Summary
 [[Known Wizards]] poster.  Photo by [[Steve Rogers]].
 

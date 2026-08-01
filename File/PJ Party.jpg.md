@@ -1,3 +1,5 @@
+![[PJ Party.jpg]]
+
 ## Summary
 Publicity photo of [[PJ Party]].
 

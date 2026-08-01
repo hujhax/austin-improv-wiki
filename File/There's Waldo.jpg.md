@@ -1,3 +1,5 @@
+![[There's Waldo.jpg]]
+
 ## Summary
 [[There's Waldo]] arrives in style at [[The 2013 Institution Theater Awards]].
 

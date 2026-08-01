@@ -1,3 +1,5 @@
+![[SciFiSaturdays-Duo-v2.jpg]]
+
 ## Summary
 Poster for [[Sci-Fi Saturdays]] at [[ColdTowne Theater]].
 

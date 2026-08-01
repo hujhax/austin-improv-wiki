@@ -1,3 +1,5 @@
+![[Danielle Saar Pic.jpg]]
+
 ## Summary
 [[Danielle Saar]] performing in *[[Maestro]]*.
 ## Licensing

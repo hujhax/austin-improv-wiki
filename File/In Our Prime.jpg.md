@@ -1,3 +1,5 @@
+![[In Our Prime.jpg]]
+
 ## Summary
 [[In Our Prime]] poster designed by [[Ryan Hill]]. Photo by [[Dave Alley]].
 

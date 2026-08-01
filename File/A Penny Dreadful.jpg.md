@@ -1,3 +1,5 @@
+![[A Penny Dreadful.jpg]]
+
 ## Summary
 Promotional image for *[[A Penny Dreadful]]*.
 

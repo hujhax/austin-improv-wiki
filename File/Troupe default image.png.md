@@ -1,3 +1,5 @@
+![[Troupe default image.png]]
+
 ## Summary
 Default image for a troupe for the [[Template/Infobox Troupe|"Infobox Troupe" template]].
 

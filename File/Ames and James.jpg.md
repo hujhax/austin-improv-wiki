@@ -1,3 +1,5 @@
+![[Ames and James.jpg]]
+
 ## Summary
 Publicity image of [[Ames and James]].
 

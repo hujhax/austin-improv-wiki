@@ -1,3 +1,5 @@
+![[Brandon Martin Pic.jpg]]
+
 ## Summary
 [[Brandon Martin]], in a publicity photo for *[[Under Waged]]*.
 

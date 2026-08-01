@@ -1,3 +1,5 @@
+![[46HourPromo.jpg]]
+
 ## Summary
 Promotional image for [[The 46-Hour Improv Marathon]].
 

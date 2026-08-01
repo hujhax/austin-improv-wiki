@@ -1,3 +1,5 @@
+![[Live From ColdTowne It’s Saturday Night!.jpg]]
+
 ## Summary
 Publicity image for *[[Live From ColdTowne It's Saturday Night!]]*.
 

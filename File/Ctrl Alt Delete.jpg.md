@@ -1,3 +1,5 @@
+![[Ctrl Alt Delete.jpg]]
+
 ## Summary
 Publicity image for [[Ctrl Alt Delete]].
 

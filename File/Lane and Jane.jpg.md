@@ -1,3 +1,5 @@
+![[Lane and Jane.jpg]]
+
 ## Summary
 [[Lane & Jane]], performing in the 5/17/13 *[[2x4]]*.
 

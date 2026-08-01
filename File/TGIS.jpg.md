@@ -1,3 +1,5 @@
+![[TGIS.jpg]]
+
 ## Summary
 Publicity art for the finale of *[[TGIS]]*.
 

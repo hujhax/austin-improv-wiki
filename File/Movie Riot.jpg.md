@@ -1,3 +1,5 @@
+![[Movie Riot.jpg]]
+
 ## Summary
 Publicity art for *[[Movie Riot]]* by [[Carlos LaRotta]].
 

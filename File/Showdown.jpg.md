@@ -1,3 +1,5 @@
+![[Showdown.jpg]]
+
 ## Summary
 Publicity art for *[[Showdown]]*.
 

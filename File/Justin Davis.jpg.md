@@ -1,3 +1,5 @@
+![[Justin Davis.jpg]]
+
 ## Summary
 [[Justin Davis]], in the 5/31/13 performance of *[[The Next Chapter]]*.
 

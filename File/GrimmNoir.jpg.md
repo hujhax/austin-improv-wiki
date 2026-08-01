@@ -1,3 +1,5 @@
+![[GrimmNoir.jpg]]
+
 ## Summary
 [[GrimmNoir]] performing in [[The 2012 Improvised Play Festival]].
 

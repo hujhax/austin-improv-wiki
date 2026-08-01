@@ -1,3 +1,5 @@
+![[Jeremy Moran Pic.jpg]]
+
 ## Summary
 [[Jeremy Moran]] in the 12/13/14 performance of *[[A Penny Dreadful]]*.
 

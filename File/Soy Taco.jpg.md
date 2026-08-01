@@ -1,3 +1,5 @@
+![[Soy Taco.jpg]]
+
 ## Summary
 Casual photo of [[Soy Taco]].
 

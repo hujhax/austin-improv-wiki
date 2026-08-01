@@ -1,3 +1,5 @@
+![[Teen Improv Night.jpg]]
+
 ## Summary
 Publicity photo for [[ColdTowne Theater]]'s *[[All Ages Improv Night]]*.
 

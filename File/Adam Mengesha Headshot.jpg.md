@@ -1,3 +1,5 @@
+![[Adam Mengesha Headshot.jpg]]
+
 ## Summary
 Headshot of [[Adam Mengesha]].
 ## Licensing

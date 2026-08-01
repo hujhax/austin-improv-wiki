@@ -1,3 +1,5 @@
+![[Jessica T. Von Schramm Pic.jpg]]
+
 ## Summary
 [[Jessica T. Von Schramm]], in the 4/11/15 performance of *[[Golden (mainstage)|Golden]]*.
 

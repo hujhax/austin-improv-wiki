@@ -1,3 +1,5 @@
+![[Squirrel Buddies.jpg]]
+
 ## Summary
 Taken from [the Squirrel Buddies facebook page](http://www.facebook.com/squirrelbuddies/photos_stream).
 

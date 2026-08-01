@@ -1,3 +1,5 @@
+![[Mitch Mills.jpg]]
+
 ## Summary
 From a [[That Racket!]] photoshoot. 
 ## Licensing

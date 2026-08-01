@@ -1,3 +1,5 @@
+![[BalloonBattle.jpg]]
+
 ## Summary
 Combatants in the 2012 [[Bloody Balloon Battle]].
 

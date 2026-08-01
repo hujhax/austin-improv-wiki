@@ -1,3 +1,5 @@
+![[Boy Band.jpg]]
+
 ## Summary
 Publicity poster for *[[Boy Band]]*.
 

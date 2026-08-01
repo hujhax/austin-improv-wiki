@@ -1,3 +1,5 @@
+![[Emma Holder Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Emma Holder]] for *[[Cover to Cover]]*.
 

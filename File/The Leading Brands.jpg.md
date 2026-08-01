@@ -1,3 +1,5 @@
+![[The Leading Brands.jpg]]
+
 ## Summary
 Publicity image of [[The Leading Brands]].
 

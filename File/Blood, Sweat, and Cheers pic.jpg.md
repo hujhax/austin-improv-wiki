@@ -1,3 +1,5 @@
+![[Blood, Sweat, and Cheers pic.jpg]]
+
 ## Summary
 The five cheer leads of *[[Blood, Sweat, and Cheers]]*.
 

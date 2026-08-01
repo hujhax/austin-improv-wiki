@@ -1,3 +1,5 @@
+![[Clifton Highfield Pic.jpg]]
+
 ## Summary
 [[Clifton Highfield]], in the 10/26/12 performance of *[[Pulp Friction]]*.
 

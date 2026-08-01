@@ -1,3 +1,5 @@
+![[Mustache.jpg]]
+
 ## Summary
 Publicity image for [[Mustache]], featuring [[Frank Netscher]].
 

@@ -1,3 +1,5 @@
+![[PIPLogo.jpg]]
+
 ## Summary
 The logo for [[Puppet Improv Project]].
 

@@ -1,3 +1,5 @@
+![[WaffleFest 2014 Publicity Art.jpg]]
+
 ## Summary
 Publicity art for [[WaffleFest 2014]]
 ## Licensing

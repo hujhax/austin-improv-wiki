@@ -1,3 +1,5 @@
+![[Super Sweet.jpg]]
+
 ## Summary
 Backstage photo of [[Super Sweet]].
 ## Licensing

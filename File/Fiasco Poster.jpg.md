@@ -1,3 +1,5 @@
+![[Fiasco Poster.jpg]]
+
 ## Summary
 Poster for *[[Fiasco]]*, featuring (from left to right) [[Katie Dahm]], [[Marc Majcher]], and [[Brett Tribe]].
 

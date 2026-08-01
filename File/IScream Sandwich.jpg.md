@@ -1,3 +1,5 @@
+![[IScream Sandwich.jpg]]
+
 ## Summary
 [[IScream Sandwich]] performing at *[[The Triple Scoop]]* on 3/2/13.
 

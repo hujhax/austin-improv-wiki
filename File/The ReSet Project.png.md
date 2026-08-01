@@ -1,3 +1,5 @@
+![[The ReSet Project.png]]
+
 ## Summary
 Publicity poster for *[[The ReSet Project]]*.
 

@@ -1,3 +1,5 @@
+![[The Theft Forum Pic.jpg]]
+
 ## Summary
 The Theft Forum Logo
 ## Licensing

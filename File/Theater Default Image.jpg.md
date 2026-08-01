@@ -1,3 +1,5 @@
+![[Theater Default Image.jpg]]
+
 ## Summary
 The default image for an improv theater.  Free clip art.
 

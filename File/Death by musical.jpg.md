@@ -1,3 +1,5 @@
+![[Death by musical.jpg]]
+
 ## Summary
 Promotional poster for Death By Musical
 ## Licensing

@@ -1,3 +1,5 @@
+![[Rapture the Flag.jpg]]
+
 ## Summary
 Publicity poster for *[[Rapture the Flag]]*.
 

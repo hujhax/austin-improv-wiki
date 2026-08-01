@@ -1,3 +1,5 @@
+![[Fighting Spirit.jpg]]
+
 ## Summary
 Poster for *[[Fighting Spirit]]*.
 

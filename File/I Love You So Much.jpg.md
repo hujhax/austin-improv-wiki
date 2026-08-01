@@ -1,3 +1,5 @@
+![[I Love You So Much.jpg]]
+
 ## Summary
 Publicity poster for *[[I Love You So Much]]*.
 

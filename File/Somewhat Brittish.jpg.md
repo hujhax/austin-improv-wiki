@@ -1,3 +1,5 @@
+![[Somewhat Brittish.jpg]]
+
 ## Summary
 Publicity image for [[Somewhat Brittish]].
 

@@ -1,3 +1,5 @@
+![[I'll Take the Physical Challenge! placeholder image.jpg]]
+
 ## Summary
 Placeholder image for *[[I'll Take the Physical Challenge!]]*
 ## Licensing

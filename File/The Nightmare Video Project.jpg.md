@@ -1,3 +1,5 @@
+![[The Nightmare Video Project.jpg]]
+
 ## Summary
 [[Marc Majcher]], in character as "The Gatekeeper", in *[[The Nightmare Video Project]]*.
 

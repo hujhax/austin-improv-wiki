@@ -1,3 +1,5 @@
+![[Kyle Traughber Pic.jpg]]
+
 ## Summary
 ## Summary
 [[Kyle Traughber]], performing in [[Gnap! Theater Projects]]' third annual [[Gnap! Homecoming Party]] on 2/18/11.

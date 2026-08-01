@@ -1,3 +1,5 @@
+![[My best fiend.jpg]]
+
 ## Summary
 Andreas Fabis & Chris Allen - photo by Andreas Fabis 2012
 

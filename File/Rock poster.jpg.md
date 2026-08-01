@@ -1,3 +1,5 @@
+![[Rock poster.jpg]]
+
 ## Summary
 Poster for the Hideout mainstage show *Rock: The Improvised Rock Opera*.
 

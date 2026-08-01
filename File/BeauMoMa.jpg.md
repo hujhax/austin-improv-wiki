@@ -1,3 +1,5 @@
+![[BeauMoMa.jpg]]
+
 ## Summary
 [[BeauMoMa]] performing at [[The Institution Theater]].
 

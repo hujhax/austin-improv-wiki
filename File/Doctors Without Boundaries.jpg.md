@@ -1,3 +1,5 @@
+![[Doctors Without Boundaries.jpg]]
+
 ## Summary
 Publicity image for *[[Doctors Without Boundaries]]*.
 

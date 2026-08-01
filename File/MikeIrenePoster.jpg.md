@@ -1,3 +1,5 @@
+![[MikeIrenePoster.jpg]]
+
 ## Summary
 Poster for [[Mike and Irene]].
 

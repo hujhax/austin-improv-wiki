@@ -1,3 +1,5 @@
+![[Blue Maestro Picture.jpg]]
+
 ## Summary
 [[Jason Vines]] performs in the 2/6/2009 [[Blue Maestro]].
 

@@ -1,3 +1,5 @@
+![[Chris Baldenhofer Pic.jpg]]
+
 ## Summary
 [[Chris Baldenhofer]], in the 9/30/11 performance of *[[After School Special Victims Unit]]*.
 

@@ -1,3 +1,5 @@
+![[Marc Majcher Pic.jpg]]
+
 ## Summary
 [[Marc Majcher]], in the 1/20/13 performance of *[[Steam]]*.
 

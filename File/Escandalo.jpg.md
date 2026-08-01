@@ -1,3 +1,5 @@
+![[Escandalo.jpg]]
+
 ## Summary
 Promo image for [[¡Escándalo!]], featuring the cast.
 

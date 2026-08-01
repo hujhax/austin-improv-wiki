@@ -1,3 +1,5 @@
+![[Alex Dobrenko Pic.jpg]]
+
 ## Summary
 [[Alex Dobrenko]], performing in the "auditions" section of the 3/3/12 performance of *[[Process]]*.
 

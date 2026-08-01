@@ -1,3 +1,5 @@
+![[Mutual of Omaha's Wild Kingdom.jpg]]
+
 ## Summary
 Publicity art for [[Mutual of Omaha's Wild Kingdom]].
 

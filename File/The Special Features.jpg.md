@@ -1,3 +1,5 @@
+![[The Special Features.jpg]]
+
 ## Summary
 Photo by [[Topping Haggerty]]
 ## Licensing

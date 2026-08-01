@@ -1,3 +1,5 @@
+![[Jordan T. Maxwell Pic.jpg]]
+
 ## Summary
 Promo photo for *[[Strange Worlds]]*.
 

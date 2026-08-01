@@ -1,3 +1,5 @@
+![[Bad Girls in Plaid Skirts.jpg]]
+
 ## Summary
 Publicity banner for *[[Bad Girls in Plaid Skirts]]*.
 

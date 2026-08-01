@@ -1,3 +1,5 @@
+![[Things You Love.jpg]]
+
 ## Summary
 Banner image for *[[Things You Love]]*.
 

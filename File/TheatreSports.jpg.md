@@ -1,3 +1,5 @@
+![[TheatreSports.jpg]]
+
 ## Summary
 publicity image for [[TheatreSports (mainstage run)|TheatreSports]].
 

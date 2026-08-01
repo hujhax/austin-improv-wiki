@@ -1,3 +1,5 @@
+![[Houses in Motion.jpg]]
+
 ## Summary
 Photo of [[Houses in Motion]].
 

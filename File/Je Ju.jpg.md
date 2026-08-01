@@ -1,3 +1,5 @@
+![[Je Ju.jpg]]
+
 ## Summary
 Publicity image for [[Je Ju]].
 

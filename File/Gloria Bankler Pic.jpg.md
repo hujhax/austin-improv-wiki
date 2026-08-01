@@ -1,3 +1,5 @@
+![[Gloria Bankler Pic.jpg]]
+
 ## Summary
 [[Gloria Bankler]] performing.
 

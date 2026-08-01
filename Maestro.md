@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Default Maestro Image.jpg]]
+				<a class="internal-link" href="File/Default Maestro Image.jpg"><img src="File/Default%20Maestro%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

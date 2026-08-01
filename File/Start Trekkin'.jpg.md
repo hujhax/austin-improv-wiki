@@ -1,3 +1,5 @@
+![[Start Trekkin'.jpg]]
+
 ## Summary
 [[Nicole Beckley]] carries the classic "*Enterprise*-on-a-stick" during the opening sequence of the 1/8/11 performance of *[[Start Trekkin']]*.
 

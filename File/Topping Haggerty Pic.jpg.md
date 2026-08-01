@@ -1,3 +1,5 @@
+![[Topping Haggerty Pic.jpg]]
+
 ## Summary
 [[Topping Haggerty]], during warm-ups for [[Same Year's Eve]] on 12/30/12.
 

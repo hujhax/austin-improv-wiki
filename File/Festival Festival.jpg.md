@@ -1,3 +1,5 @@
+![[Festival Festival.jpg]]
+
 ## Summary
 Publicity art for *[[Festival Festival]]*.
 

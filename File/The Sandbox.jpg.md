@@ -1,3 +1,5 @@
+![[The Sandbox.jpg]]
+
 ## Summary
 Publicity image for *[[The Sandbox]]*.
 

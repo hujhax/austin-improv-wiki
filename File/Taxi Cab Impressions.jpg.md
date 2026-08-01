@@ -1,3 +1,5 @@
+![[Taxi Cab Impressions.jpg]]
+
 ## Summary
 Publicity image for [[Taxi Cab Impressions]].
 

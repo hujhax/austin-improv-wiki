@@ -1,3 +1,5 @@
+![[Fart Clown Glasses.jpg]]
+
 ## Summary
 Casual photo of [[Fart Clown Glasses]] by [[Erika May McNichol]].
 ## Licensing

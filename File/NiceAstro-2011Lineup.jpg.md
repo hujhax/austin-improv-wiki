@@ -1,3 +1,5 @@
+![[NiceAstro-2011Lineup.jpg]]
+
 ## Summary
 Publicity photo of [[Nice Astronaut]]'s 2011 lineup.
 

@@ -1,3 +1,5 @@
+![[Hitchcocked! Performance.jpg]]
+
 ## Summary
 [[Sean Hill]] and [[Christopher 'Ceej' Allen]], in the 3/27/10 performance of *[[Hitchcocked!]]*
 

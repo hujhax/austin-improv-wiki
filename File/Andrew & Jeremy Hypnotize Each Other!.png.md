@@ -1,3 +1,5 @@
+![[Andrew & Jeremy Hypnotize Each Other!.png]]
+
 ## Summary
 Photo of [[Andrew & Jeremy Hypnotize Each Other!]]
 

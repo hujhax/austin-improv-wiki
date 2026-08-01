@@ -1,3 +1,5 @@
+![[The Double Barrel.png]]
+
 ## Summary
 Publicity image for *[[The Double Barrel]]*.
 

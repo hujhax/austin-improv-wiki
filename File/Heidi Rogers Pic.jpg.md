@@ -1,3 +1,5 @@
+![[Heidi Rogers Pic.jpg]]
+
 ## Summary
 [[Heidi Rogers]] performing in *[[Strange Worlds]]*.
 

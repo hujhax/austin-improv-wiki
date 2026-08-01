@@ -1,3 +1,5 @@
+![[Rucker Park.jpg]]
+
 ## Summary
 Publicity image for *[[Rucker Park]]*.
 

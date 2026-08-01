@@ -1,3 +1,5 @@
+![[Lola Poster.jpg]]
+
 ## Summary
 Publicity poster for *[[Lola]]*.
 

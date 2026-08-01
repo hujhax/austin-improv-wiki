@@ -1,3 +1,5 @@
+![[AIC 2012 Potluck Group Photo.jpg]]
+
 ## Summary
 The group photo from the 2012 [[The Austin Improv Potluck|Austin Improv Potluck]].
 

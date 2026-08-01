@@ -1,3 +1,5 @@
+![[Gene Zhou Pic.jpg]]
+
 ## Summary
 [[Gene Zhou]], performing with [[Diplomatic Impunity]] at *[[The Monday Night Mash]]* on 8/8/11.
 

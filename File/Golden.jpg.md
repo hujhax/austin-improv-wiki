@@ -1,3 +1,5 @@
+![[Golden.jpg]]
+
 ## Summary
 Poster for *[[Golden]]*, featuring [[Tyler Lane]] in a homage to *[[Wikipedia - Safety Last|Safety Last]]*.
 

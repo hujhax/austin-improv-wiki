@@ -9,7 +9,7 @@ White Dude
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[jpg]]
+				<a class="internal-link" href="File/jpg"><img src="File/jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

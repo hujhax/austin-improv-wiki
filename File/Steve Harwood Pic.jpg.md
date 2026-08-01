@@ -1,3 +1,5 @@
+![[Steve Harwood Pic.jpg]]
+
 ## Summary
 [[Steve Harwood]], in the 7/27/13 performance of *[[Start Trekkin']]*.
 

@@ -1,3 +1,5 @@
+![[Cover to Cover Blackboard.jpg]]
+
 ## Summary
 The blackboard, showing the show title and the chapter assignments, for the 11/4/11 performance of *[[Cover to Cover]]* ("The Broken Locket").
 

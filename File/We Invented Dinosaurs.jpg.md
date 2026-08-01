@@ -1,3 +1,5 @@
+![[We Invented Dinosaurs.jpg]]
+
 ## Summary
 Publicity photo of [[We Invented Dinosaurs]].
 

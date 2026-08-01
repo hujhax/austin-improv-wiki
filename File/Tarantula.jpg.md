@@ -1,3 +1,5 @@
+![[Tarantula.jpg]]
+
 ## Summary
 Banner art for *[[Tarantula]]*.
 

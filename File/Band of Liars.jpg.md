@@ -1,3 +1,5 @@
+![[Band of Liars.jpg]]
+
 ## Summary
 Publicity image for [[Band of Liars]].
 

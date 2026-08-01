@@ -1,3 +1,5 @@
+![[JF pic.jpg]]
+
 ## Summary
 [[Jason Finkelman]], performing in *[[Rock]]* on 6/9/12.
 

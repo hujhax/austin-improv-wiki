@@ -1,0 +1,2 @@
+![[Gnome noir.jpg]]
+

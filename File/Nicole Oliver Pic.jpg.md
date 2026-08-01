@@ -1,3 +1,5 @@
+![[Nicole Oliver Pic.jpg]]
+
 ## Summary
 Photo of [[Nicole Oliver]].
 

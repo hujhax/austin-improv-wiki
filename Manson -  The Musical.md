@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Manson - The Musical.jpg]]
+				<a class="internal-link" href="File/Manson - The Musical.jpg"><img src="File/Manson%20-%20The%20Musical.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

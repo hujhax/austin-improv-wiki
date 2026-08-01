@@ -1,3 +1,5 @@
+![[Beth Doughtyc.jpg]]
+
 ## Summary
 Photo by [[Topping Haggerty]]
 ## Licensing

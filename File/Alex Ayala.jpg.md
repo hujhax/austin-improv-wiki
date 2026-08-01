@@ -1,3 +1,5 @@
+![[Alex Ayala.jpg]]
+
 ## Summary
 Alex Ayala performing in Trust No One at the Institution Theater.
 ## Licensing

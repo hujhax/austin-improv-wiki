@@ -1,3 +1,5 @@
+![[Honey Ladies.jpg]]
+
 ## Summary
 Casual photo of [[Honey Ladies]] at [[The Hideout Theatre]].
 

@@ -1,3 +1,5 @@
+![[Rachel Posey Austin.jpg]]
+
 ## Summary
 [[Rachel Posey Austin]], performing with *[[Camp Madeupponaspotta]]* in *[[Theatresports]]* on 5/31/14.
 

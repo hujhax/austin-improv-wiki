@@ -1,3 +1,5 @@
+![[Chad Wellington Pic.jpg]]
+
 ## Summary
 [[Chad Wellington]], performing in the 12/7/12 *[[The Fancy-Pants Mashup|Fancy-Pants Mashup]]*.
 

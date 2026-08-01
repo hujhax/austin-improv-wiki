@@ -1,3 +1,5 @@
+![[Toby Keith and the French Guy.gif]]
+
 ## Summary
 Logo for [[Toby Keith and the French Guy]].
 

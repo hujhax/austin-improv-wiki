@@ -1,3 +1,5 @@
+![[Spider House Logo.jpg]]
+
 ## Summary
 Outdoor banner for [[The Spider House]].
 ## Licensing

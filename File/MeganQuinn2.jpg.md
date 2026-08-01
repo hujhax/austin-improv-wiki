@@ -1,3 +1,5 @@
+![[MeganQuinn2.jpg]]
+
 ## Summary
 Megan and Quinn Website Landing Page Image
 ## Licensing

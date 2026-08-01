@@ -1,3 +1,5 @@
+![[Improvised Play Festival Logo.jpg]]
+
 ## Summary
 Logo for the 2012 [[Improvised Play Festival]].
 

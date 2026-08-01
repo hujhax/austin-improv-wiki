@@ -1,3 +1,5 @@
+![[Lord Dennis.jpg]]
+
 ## Summary
 Publicity photo of [[Lord Dennis]].
 

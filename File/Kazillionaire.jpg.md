@@ -1,3 +1,5 @@
+![[Kazillionaire.jpg]]
+
 ## Summary
 Performance by [[Kazillionaire]].
 ## Licensing

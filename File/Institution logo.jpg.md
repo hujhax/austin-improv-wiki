@@ -1,3 +1,5 @@
+![[Institution logo.jpg]]
+
 ## Summary
 Logo of the Institution Theater.  (Creator unknown.)
 ## Licensing

@@ -1,3 +1,5 @@
+![[Decoy.jpg]]
+
 ## Summary
 Video still of [[Decoy]], from their first performance.
 

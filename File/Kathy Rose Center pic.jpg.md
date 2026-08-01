@@ -1,3 +1,5 @@
+![[Kathy Rose Center pic.jpg]]
+
 ## Summary
 [[Kathy Rose Center]] performing in "[[Only Three Will Survive]]" on February 20, 2012.
 

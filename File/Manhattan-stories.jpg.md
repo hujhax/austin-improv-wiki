@@ -1,3 +1,5 @@
+![[Manhattan-stories.jpg]]
+
 ## Summary
 Promotional photo collage for [[Manhattan Stories]].
 

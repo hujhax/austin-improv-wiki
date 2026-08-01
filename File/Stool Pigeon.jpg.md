@@ -1,3 +1,5 @@
+![[Stool Pigeon.jpg]]
+
 ## Summary
 Publicity image for *[[Stool Pigeon]]*.
 

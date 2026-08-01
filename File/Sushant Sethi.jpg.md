@@ -1,3 +1,5 @@
+![[Sushant Sethi.jpg]]
+
 ## Summary
 [[Sushant Sethi]] in the *[[Aftermath]]* section of the 10/18/14 "[[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|Student Mainstage]] Sampler" show.
 

@@ -1,3 +1,5 @@
+![[Wink Planet.jpg]]
+
 ## Summary
 Group photo of [[Wink Planet]].
 

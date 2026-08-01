@@ -1,3 +1,5 @@
+![[Then Say I Love You.jpg]]
+
 ## Summary
 Publicity image for [[Then Say I Love You]].
 

@@ -1,3 +1,5 @@
+![[Fat. Gay. Jewish.jpg]]
+
 ## Summary
 Logo for [[Fat. Gay. Jewish]]
 

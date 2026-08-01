@@ -1,3 +1,5 @@
+![[Melissa Patterson Pic.jpg]]
+
 ## Summary
 [[Melissa Patterson]], in the 2/8/14 performance of *[[What the F@$]]*.
 

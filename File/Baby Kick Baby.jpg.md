@@ -1,3 +1,5 @@
+![[Baby Kick Baby.jpg]]
+
 ## Summary
 [[Baby Kick Baby]] performing in the 4/16/09 *[[Threefer]]*.
 

@@ -1,3 +1,5 @@
+![[The Starter Kit logo.jpeg]]
+
 ## Summary
 Logo for [[The Starter Kit]]. 
 

@@ -1,3 +1,5 @@
+![[Townsville-macdaddys.jpg]]
+
 ## Summary
 Incomplete photo of the March 2012 run of [[Townsville]]'s MacDaddy's show.
 

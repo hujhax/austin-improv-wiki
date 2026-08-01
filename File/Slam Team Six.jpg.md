@@ -1,3 +1,5 @@
+![[Slam Team Six.jpg]]
+
 ## Summary
 The 4/5/14 performance of *[[Slam Team Six]]*.
 

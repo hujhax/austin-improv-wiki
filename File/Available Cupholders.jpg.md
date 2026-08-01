@@ -1,3 +1,5 @@
+![[Available Cupholders.jpg]]
+
 ## Summary
 [[Available Cupholders]] publicity photo for their 2012 [[Threefer]] run at [[The Hideout Theatre]].
 

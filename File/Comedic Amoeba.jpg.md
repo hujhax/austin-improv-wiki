@@ -1,3 +1,5 @@
+![[Comedic Amoeba.jpg]]
+
 ## Summary
 Photo of [[Comedic Amoeba]], provided by [[Kaci Beeler]].
 

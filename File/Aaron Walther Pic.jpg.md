@@ -1,3 +1,5 @@
+![[Aaron Walther Pic.jpg]]
+
 ## Summary
 [[Aaron Walther]], in the curtain call of the 1/28/12 performance of *[[Steam]]*.
 

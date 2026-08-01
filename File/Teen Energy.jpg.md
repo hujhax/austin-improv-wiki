@@ -1,3 +1,5 @@
+![[Teen Energy.jpg]]
+
 ## Summary
 Casual photo of [[Teen Energy]].
 

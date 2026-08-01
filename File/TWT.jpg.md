@@ -1,3 +1,5 @@
+![[TWT.jpg]]
+
 ## Summary
 Publicity image for [[The Trouble With Terry]].
 

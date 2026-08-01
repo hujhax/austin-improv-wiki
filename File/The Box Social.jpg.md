@@ -1,3 +1,5 @@
+![[The Box Social.jpg]]
+
 ## Summary
 Publicity image for [[The Box Social]].
 

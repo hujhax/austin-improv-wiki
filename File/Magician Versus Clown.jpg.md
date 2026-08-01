@@ -1,3 +1,5 @@
+![[Magician Versus Clown.jpg]]
+
 ## Summary
 [[Magician vs. Clown]] playing at [[The 2012 Out of Bounds Comedy Festival]].
 

@@ -1,3 +1,5 @@
+![[Cindy Page Pic.jpg]]
+
 ## Summary
 [[Cindy Page]], in the booth for *[[The Black Vault]]* on 9/8/12.
 

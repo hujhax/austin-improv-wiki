@@ -1,3 +1,5 @@
+![[Dave Matthews Troupe.jpg]]
+
 ## Summary
 [[Dave Matthews Troupe]] performing in the 3/5/12 *[[Monday Night Mash]]*.
 

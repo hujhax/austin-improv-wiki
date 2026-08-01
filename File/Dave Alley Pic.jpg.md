@@ -1,3 +1,5 @@
+![[Dave Alley Pic.jpg]]
+
 ## Summary
 [[Dave Alley]] performs in the 4/21/12 [[Maestro]].
 

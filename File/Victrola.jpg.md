@@ -1,3 +1,5 @@
+![[Victrola.jpg]]
+
 ## Summary
 Publicity art for *[[Victrola]]*.
 

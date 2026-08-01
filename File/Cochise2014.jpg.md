@@ -1,3 +1,5 @@
+![[Cochise2014.jpg]]
+
 ## Summary
 Publicity image for the student-mainstage run of *[[Cochise]]*.
 

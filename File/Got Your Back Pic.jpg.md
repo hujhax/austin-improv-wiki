@@ -1,3 +1,5 @@
+![[Got Your Back Pic.jpg]]
+
 ## Summary
 Logo for the *[[Got Your Back]]* podcast.
 

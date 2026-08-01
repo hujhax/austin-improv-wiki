@@ -1,3 +1,5 @@
+![[Golden Age.jpg]]
+
 ## Summary
 Logo for [[Golden Age]].
 

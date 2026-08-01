@@ -1,3 +1,5 @@
+![[The NASA Musical Outreach Program.jpg]]
+
 ## Summary
 [[Patrick Daniel]] and [[Ryan Thomas]], performing in character as [[The NASA Musical Outreach Program]], at a 2011 Nerd Nite.
 

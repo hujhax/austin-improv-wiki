@@ -1,3 +1,5 @@
+![[Jay Michael Pic.jpg]]
+
 ## Summary
 [[Jay Michael]], in the 1/14/12 performance of *[[Twilight Zoned]]*.
 

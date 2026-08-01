@@ -1,3 +1,5 @@
+![[Ka-Baam!! Logo.png]]
+
 ## Summary
 *[[Ka-Baam!!]]* logo.
 

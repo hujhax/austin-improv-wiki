@@ -1,3 +1,5 @@
+![[TITie2013.jpg]]
+
 ## Summary
 [[There's Waldo]] presents an award at [[The 2013 Institution Theater Awards]].
 

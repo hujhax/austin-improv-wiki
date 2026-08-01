@@ -1,3 +1,5 @@
+![[The Randy Meisner.jpg]]
+
 ## Summary
 [[The Randy Meisner]], just after their 7/15/12 performance at [[ColdTowne Theater]].
 

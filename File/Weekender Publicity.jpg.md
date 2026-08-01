@@ -1,3 +1,5 @@
+![[Weekender Publicity.jpg]]
+
 ## Summary
 Publicity art for *[[The Weekender]]*.
 

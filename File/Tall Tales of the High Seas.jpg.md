@@ -1,3 +1,5 @@
+![[Tall Tales of the High Seas.jpg]]
+
 ## Summary
 Cast photo of *[[Tall Tales of the High Seas]]*.
 

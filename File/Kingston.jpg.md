@@ -1,3 +1,5 @@
+![[Kingston.jpg]]
+
 ## Summary
 Publicity image for [[Kingston]].
 

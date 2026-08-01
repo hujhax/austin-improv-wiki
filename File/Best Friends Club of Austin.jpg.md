@@ -1,3 +1,5 @@
+![[Best Friends Club of Austin.jpg]]
+
 ## Summary
 Publicity image for [[Best Friends Club of Austin]].
 

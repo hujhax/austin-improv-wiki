@@ -1,3 +1,5 @@
+![[The TV Set.jpg]]
+
 ## Summary
 Publicity image for [[The TV Set]].
 

@@ -1,3 +1,5 @@
+![[Snap Snap Nation.jpg]]
+
 ## Summary
 Publicity photo of [[Snap Snap Nation]].
 

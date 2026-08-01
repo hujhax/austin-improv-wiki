@@ -1,3 +1,5 @@
+![[Booker and a Buddy.jpg]]
+
 ## Summary
 Publicity photo for *[[Booker and a Buddy]]*.
 

@@ -1,3 +1,5 @@
+![[Topping Haggerty Pic3.jpg]]
+
 ## Summary
 Topping Haggerty Xmas selfie
 ## Licensing

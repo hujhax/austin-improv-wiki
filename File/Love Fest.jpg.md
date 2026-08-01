@@ -1,3 +1,5 @@
+![[Love Fest.jpg]]
+
 ## Summary
 Icon for [[Love Fest]].
 

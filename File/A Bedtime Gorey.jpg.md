@@ -1,3 +1,5 @@
+![[A Bedtime Gorey.jpg]]
+
 ## Summary
 Publicity poster for *[[A Bedtime Gorey]]*, featuring [[Kaci Beeler]].
 

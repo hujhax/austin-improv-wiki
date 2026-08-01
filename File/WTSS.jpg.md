@@ -1,3 +1,5 @@
+![[WTSS.jpg]]
+
 ## Summary
 A [[What's the Story, Steve]] performance from April 2012.
 

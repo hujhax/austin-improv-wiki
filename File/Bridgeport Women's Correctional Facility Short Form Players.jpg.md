@@ -1,3 +1,5 @@
+![[Bridgeport Women's Correctional Facility Short Form Players.jpg]]
+
 ## Summary
 Publicity photo for the 2014 shows by the [[Bridgeport Women's Correctional Facility Short Form Players]].
 

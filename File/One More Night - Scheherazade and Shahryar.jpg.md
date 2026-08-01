@@ -1,3 +1,5 @@
+![[One More Night - Scheherazade and Shahryar.jpg]]
+
 ## Summary
 [[Emily Breedlove]] and [[Marc Majcher]] portray Scheherazade and Shahryar, respectively, in the 1/30/10 performance of *[[One More Night]]*.
 

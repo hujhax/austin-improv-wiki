@@ -1,3 +1,5 @@
+![[Ryan Austin Pic.jpg]]
+
 ## Summary
 Head shot of [[Ryan Austin]].
 

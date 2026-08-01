@@ -1,3 +1,5 @@
+![[Cover to Cover.gif]]
+
 ## Summary
 Publicity art for *[[Cover to Cover]]*, featuring director [[Audrey Rachel Sansom]].
 

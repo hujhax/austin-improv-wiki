@@ -1,3 +1,5 @@
+![[Narwhal.jpg]]
+
 ## Summary
 Publicity image for [[Narwhal]].
 

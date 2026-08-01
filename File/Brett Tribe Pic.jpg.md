@@ -1,3 +1,5 @@
+![[Brett Tribe Pic.jpg]]
+
 ## Summary
 [[Brett Tribe]], in the 9/7/12 performance of *[[Pulp Friction]]*.
 

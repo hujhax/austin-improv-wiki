@@ -1,3 +1,5 @@
+![[Miller and Lies.jpg]]
+
 ## Summary
 [[Miller and Lies]] performing at [[The Institution Theater]].
 

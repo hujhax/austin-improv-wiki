@@ -1,3 +1,5 @@
+![[Cat Drago Pic.jpg]]
+
 ## Summary
 [[Cat Drago]], performing in the 9/8/12 premiere of *[[The Tribunal]]*.
 

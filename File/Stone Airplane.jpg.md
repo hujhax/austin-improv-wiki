@@ -1,3 +1,5 @@
+![[Stone Airplane.jpg]]
+
 ## Summary
 Publicity photo of [[Stone Airplane]].
 

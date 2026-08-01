@@ -1,3 +1,5 @@
+![[Precious Dads.jpg]]
+
 ## Summary
 Logo for the troupe [[Precious Dads]].
 

@@ -1,3 +1,5 @@
+![[Beware of Female Spies.jpg]]
+
 ## Summary
 Publicity poster for *[[Beware of Female Spies]]*.
 

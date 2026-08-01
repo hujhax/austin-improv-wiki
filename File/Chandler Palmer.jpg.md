@@ -1,3 +1,5 @@
+![[Chandler Palmer.jpg]]
+
 ## Summary
 Photo of Chandler Palmer
 ## Licensing

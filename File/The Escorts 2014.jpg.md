@@ -1,3 +1,5 @@
+![[The Escorts 2014.jpg]]
+
 ## Summary
 Publicity photo of the 2014 incarnation of [[The Escorts]].
 

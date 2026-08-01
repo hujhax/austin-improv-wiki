@@ -1,3 +1,5 @@
+![[TheCherryBowl.jpg]]
+
 ## Summary
 Poster for [[The Cherry Bowl]].
 

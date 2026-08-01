@@ -1,3 +1,5 @@
+![[Craig Kotfas Pic.jpg]]
+
 ## Summary
 [[Craig Kotfas]], getting spattered with fake blood at the second annual [[Bloody Balloon Battle]].
 

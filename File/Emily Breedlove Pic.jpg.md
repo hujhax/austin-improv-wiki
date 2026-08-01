@@ -1,3 +1,5 @@
+![[Emily Breedlove Pic.jpg]]
+
 ## Summary
 [[Emily Breedlove]], performing in the [[Steam – Sixth Night|sixth night]] of *[[Steam]]*, on 1/21/12.
 

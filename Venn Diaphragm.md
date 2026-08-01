@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Venn Diaphragm.jpg]]
+				<a class="internal-link" href="File/Venn Diaphragm.jpg"><img src="File/Venn%20Diaphragm.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

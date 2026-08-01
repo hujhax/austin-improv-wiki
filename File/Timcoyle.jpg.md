@@ -1,3 +1,5 @@
+![[Timcoyle.jpg]]
+
 ## Summary
 Headshot of Timothy Coyle.
 ## Licensing

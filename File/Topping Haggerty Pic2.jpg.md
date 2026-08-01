@@ -1,1 +1,3 @@
+![[Topping Haggerty Pic2.jpg]]
+
 Photo by Erik Young

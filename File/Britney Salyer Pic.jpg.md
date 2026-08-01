@@ -1,3 +1,5 @@
+![[Britney Salyer Pic.jpg]]
+
 ## Summary
 [[Britney Salyer]] performing in *[[The Sandbox]]* on 1/28/11.
 

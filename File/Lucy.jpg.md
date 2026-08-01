@@ -1,3 +1,5 @@
+![[Lucy.jpg]]
+
 ## Summary
 Publicity image for [[Lucy]].
 

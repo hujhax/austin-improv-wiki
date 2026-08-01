@@ -1,3 +1,5 @@
+![[The Blah Blah Train.jpg]]
+
 ## Summary
 Casual photo of [[The Blah Blah Train]].
 

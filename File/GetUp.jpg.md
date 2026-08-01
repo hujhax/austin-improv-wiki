@@ -1,3 +1,5 @@
+![[GetUp.jpg]]
+
 ## Summary
 Photographer unknown. Taken from [[Get Up]]'s website.
 ## Licensing

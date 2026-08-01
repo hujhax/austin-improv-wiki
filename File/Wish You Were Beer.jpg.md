@@ -1,3 +1,5 @@
+![[Wish You Were Beer.jpg]]
+
 ## Summary
 Publicity photo for [[Wish You Were Beer]].
 

@@ -1,3 +1,5 @@
+![[City High.jpg]]
+
 ## Summary
 Logo for [[City High]].
 

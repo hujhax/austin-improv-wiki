@@ -1,3 +1,5 @@
+![[Hyperlinks.jpg]]
+
 ## Summary
 From a 3/3/11 performance of *[[Hyperlinks]]* produced by [[The Institution Theater]].
 

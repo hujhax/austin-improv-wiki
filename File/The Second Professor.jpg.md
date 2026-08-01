@@ -1,3 +1,5 @@
+![[The Second Professor.jpg]]
+
 ## Summary
 [[Michael Ferstenfeld]] plays the Second Professor in the 10/21/11 performance of [[The Professor]].
 

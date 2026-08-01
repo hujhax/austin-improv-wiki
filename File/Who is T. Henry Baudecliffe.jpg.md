@@ -1,3 +1,5 @@
+![[Who is T. Henry Baudecliffe.jpg]]
+
 ## Summary
 Publicity image for [[Who Is T. Henry Baudecliffe]]
 

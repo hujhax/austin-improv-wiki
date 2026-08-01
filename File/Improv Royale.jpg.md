@@ -1,3 +1,5 @@
+![[Improv Royale.jpg]]
+
 ## Summary
 [[Improv Royale]] in their 9/1/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 

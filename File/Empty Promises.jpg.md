@@ -1,3 +1,5 @@
+![[Empty Promises.jpg]]
+
 ## Summary
 Publicity photo of [[Empty Promises]].
 ## Licensing

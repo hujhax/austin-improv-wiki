@@ -1,3 +1,5 @@
+![[Beans Beans (the musical troupe).jpg]]
+
 ## Summary
 Publicity image for [[Beans Beans (the musical troupe)]]
 ## Licensing

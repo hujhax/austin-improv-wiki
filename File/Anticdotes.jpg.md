@@ -1,3 +1,5 @@
+![[Anticdotes.jpg]]
+
 ## Summary
 Publicity image for [[Anticdotes]].
 

@@ -1,3 +1,5 @@
+![[Epic.jpg]]
+
 ## Summary
 Performance by [[Epic]].
 

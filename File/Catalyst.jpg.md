@@ -1,3 +1,5 @@
+![[Catalyst.jpg]]
+
 ## Summary
 Publicity photo of [[Catalyst]].
 

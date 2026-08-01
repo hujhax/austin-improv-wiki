@@ -1,3 +1,5 @@
+![[Rush.jpg]]
+
 ## Summary
 Graduation photo of [[Rush]].
 ## Licensing

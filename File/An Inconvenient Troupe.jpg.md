@@ -1,3 +1,5 @@
+![[An Inconvenient Troupe.jpg]]
+
 ## Summary
 Still from a *[[Cagematch]]* performance by [[An Inconvenient Troupe]].
 ## Licensing

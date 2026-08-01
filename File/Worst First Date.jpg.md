@@ -1,3 +1,5 @@
+![[Worst First Date.jpg]]
+
 ## Summary
 Publicity art for [[Worst First Date]].
 ## Licensing

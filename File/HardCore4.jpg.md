@@ -1,3 +1,5 @@
+![[HardCore4.jpg]]
+
 ## Summary
 The "Hardcore Four" -- (from top-left, clockwise) [[Amy Dietze]], [[Ashley Lowe]], [[Cat Drago]], and [[Ryan Criswell]] -- four improvisors who stayed for the entirety of [[The 43-Hour Improv Marathon]].
 

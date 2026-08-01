@@ -1,3 +1,5 @@
+![[The Fifth Professor.jpg]]
+
 ## Summary
 [[Karen Jane DeWitt]] (left) as the Fifth Professor, from a publicity shoot for [[The Professor]].
 

@@ -1,3 +1,5 @@
+![[Mike Sullivan Pic.jpg]]
+
 ## Summary
 [[Mike Sullivan]], performing in [[Gnap! Theater Projects]]' third annual [[Gnap! Homecoming Party]] on 2/18/11.
 

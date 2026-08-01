@@ -1,3 +1,5 @@
+![[Diplomatic Impunity.jpg]]
+
 ## Summary
 [[Diplomatic Impunity]], playing [[ColdTowne Theater]] on 4/9/11.
 

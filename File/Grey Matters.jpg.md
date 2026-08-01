@@ -1,3 +1,5 @@
+![[Grey Matters.jpg]]
+
 ## Summary
 [[Grey Matters]] performing at [[Hyde Park Theater]] on 5.22.11.
 

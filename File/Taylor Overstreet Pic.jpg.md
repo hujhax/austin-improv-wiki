@@ -1,3 +1,5 @@
+![[Taylor Overstreet Pic.jpg]]
+
 ## Summary
 Self-portrait by [[Taylor Overstreet]].
 ## Licensing

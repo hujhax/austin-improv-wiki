@@ -1,3 +1,5 @@
+![[Cagney Ortiz.jpg]]
+
 ## Summary
 Picture taken by Warren Henderson
 

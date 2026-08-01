@@ -1,3 +1,5 @@
+![[B-Team.jpg]]
+
 ## Summary
 [[B-Team]], performing in *[[The Triple Scoop]]* on 10/5/13.
 

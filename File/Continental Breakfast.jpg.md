@@ -1,3 +1,5 @@
+![[Continental Breakfast.jpg]]
+
 ## Summary
 Publicity photo for [[Continental Breakfast]], 2009.
 

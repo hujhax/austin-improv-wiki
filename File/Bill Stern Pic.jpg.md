@@ -1,3 +1,5 @@
+![[Bill Stern Pic.jpg]]
+
 ## Summary
 [[Bill Stern]], performing in hour 30 ("1001 Monologues for Teens") of [[The 41-Hour Improv Marathon]].
 

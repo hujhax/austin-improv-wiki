@@ -1,3 +1,5 @@
+![[Dubbed Indemnity.jpg]]
+
 ## Summary
 Promotional image for *[[Dubbed Indemnity]]*.
 

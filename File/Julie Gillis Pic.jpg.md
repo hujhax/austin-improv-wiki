@@ -1,3 +1,5 @@
+![[Julie Gillis Pic.jpg]]
+
 ## Summary
 [[Julie Gillis]], performing in *[[Bedpost Confessions]]* on 2/21/13.
 

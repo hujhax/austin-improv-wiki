@@ -1,3 +1,5 @@
+![[Au Pair.jpg]]
+
 ## Summary
 Publicity photo of [[Au Pair]].
 

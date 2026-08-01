@@ -1,3 +1,5 @@
+![[Heist.jpg]]
+
 ## Summary
 Poster for [[Heist]].
 

@@ -1,3 +1,5 @@
+![[Senshi Sokyo.jpg]]
+
 ## Summary
 Publicity photo of [[Senshi Sokyo]].
 

@@ -1,3 +1,5 @@
+![[Kindness of strangers.jpg]]
+
 ## Summary
 promotional poster for Kindness of Strangers
 ## Licensing

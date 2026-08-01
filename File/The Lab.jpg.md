@@ -1,3 +1,5 @@
+![[The Lab.jpg]]
+
 ## Summary
 Publicity image for *[[The Lab]]*.
 

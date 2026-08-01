@@ -1,3 +1,5 @@
+![[Chelsea Gilman Pic.jpg]]
+
 ## Summary
 [[Chelsea Gilman]], in the 1/23/10 performance of *[[One More Night]]*.
 

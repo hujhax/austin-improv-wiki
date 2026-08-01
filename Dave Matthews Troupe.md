@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Dave Matthews Troupe.jpg]]
+				<a class="internal-link" href="File/Dave Matthews Troupe.jpg"><img src="File/Dave%20Matthews%20Troupe.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

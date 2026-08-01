@@ -1,3 +1,5 @@
+![[TylerAward.jpg]]
+
 ## Summary
 [[Tyler Reece Booker]] accepts a [[Institution Theater Awards|TITie]] at [[The 2013 Institution Theater Awards]].
 

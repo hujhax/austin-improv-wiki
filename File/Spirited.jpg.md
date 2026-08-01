@@ -1,3 +1,5 @@
+![[Spirited.jpg]]
+
 ## Summary
 Publicity art for [[Spirited]], depicting "Alices" [[Halyn Lee Erickson]] and [[Sarah Marie Curry]].
 

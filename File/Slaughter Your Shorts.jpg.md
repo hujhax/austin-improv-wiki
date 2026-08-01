@@ -1,3 +1,5 @@
+![[Slaughter Your Shorts.jpg]]
+
 ## Summary
 Publicity poster for *[[Slaughter Your Shorts]]*.
 

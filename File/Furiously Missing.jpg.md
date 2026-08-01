@@ -1,3 +1,5 @@
+![[Furiously Missing.jpg]]
+
 ## Summary
 Publicity photo of [[Furiously Missing]].
 

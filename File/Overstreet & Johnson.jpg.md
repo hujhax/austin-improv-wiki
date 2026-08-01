@@ -1,3 +1,5 @@
+![[Overstreet & Johnson.jpg]]
+
 ## Summary
 Publicity photo of [[Overstreet & Johnson]].
 

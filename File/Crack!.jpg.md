@@ -1,3 +1,5 @@
+![[Crack!.jpg]]
+
 ## Summary
 Publicity image for [[Crack!]]
 

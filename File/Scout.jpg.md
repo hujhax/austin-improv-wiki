@@ -1,3 +1,5 @@
+![[Scout.jpg]]
+
 ## Summary
 [[Scout]], in their 8/29/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 

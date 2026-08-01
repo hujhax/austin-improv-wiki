@@ -1,3 +1,5 @@
+![[Chris Kyle American Improvisers.jpg]]
+
 ## Summary
 Publicity photo of [[Chris Kyle -  American Improvisers]].
 

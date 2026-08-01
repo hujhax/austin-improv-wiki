@@ -1,3 +1,5 @@
+![[TheDerby.jpg]]
+
 ## Summary
 Logo for [[The Derby]].
 

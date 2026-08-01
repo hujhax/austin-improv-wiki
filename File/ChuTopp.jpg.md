@@ -1,3 +1,5 @@
+![[ChuTopp.jpg]]
+
 ## Summary
 [[Topping Haggerty]] [[Chuy Zarate]] at the Hideout Theatre.
 

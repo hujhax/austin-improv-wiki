@@ -1,3 +1,5 @@
+![[ZA.jpg]]
+
 ## Summary
 Publicity image for [[ZA]].
 

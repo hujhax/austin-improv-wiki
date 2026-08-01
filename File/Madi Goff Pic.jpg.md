@@ -1,3 +1,5 @@
+![[Madi Goff Pic.jpg]]
+
 ## Summary
 [[Madi Goff]], in the 1/22/10 performance of *[[One More Night]]*.
 

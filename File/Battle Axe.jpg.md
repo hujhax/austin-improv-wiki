@@ -1,3 +1,5 @@
+![[Battle Axe.jpg]]
+
 ## Summary
 [[Mo Daviau]] and [[Aden Kirschner]] perform as [[Battle Axe]] in [[The 2011 Ladies Are Funny Festival]].
 

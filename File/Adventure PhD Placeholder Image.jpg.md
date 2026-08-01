@@ -1,3 +1,5 @@
+![[Adventure PhD Placeholder Image.jpg]]
+
 ## Summary
 Placeholder image for *[[Adventure PhD]]*.
 ## Licensing

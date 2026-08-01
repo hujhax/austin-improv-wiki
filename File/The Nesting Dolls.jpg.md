@@ -1,3 +1,5 @@
+![[The Nesting Dolls.jpg]]
+
 ## Summary
 Publicity image of [[The Nesting Dolls]].
 

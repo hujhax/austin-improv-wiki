@@ -1,3 +1,5 @@
+![[Jeremy Sweetlamb Pic.jpg]]
+
 ## Summary
 [[Jeremy Sweetlamb]] in the 3/3/12 ("Hole to Nowhere") performance of *[[Process]]*.
 

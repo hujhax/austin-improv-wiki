@@ -1,3 +1,5 @@
+![[What the F@$.jpg]]
+
 ## Summary
 Publicity image for *[[What the F@$]]*.
 

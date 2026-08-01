@@ -1,3 +1,5 @@
+![[Midnight Special and Gong Show.jpg]]
+
 ## Summary
 Publicity image for the *[[Midnight Special and Gong Show]]*.
 

@@ -1,3 +1,5 @@
+![[Lance Gilstrap Pic.jpg]]
+
 ## Summary
 [[Lance Gilstrap]], in the 5/24/12 performance by [[Hot Property]] at the [[Austin Sketch Fest]].
 

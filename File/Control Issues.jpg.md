@@ -1,3 +1,5 @@
+![[Control Issues.jpg]]
+
 ## Summary
 Publicity image for *[[Control Issues]]*.
 

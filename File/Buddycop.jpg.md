@@ -1,3 +1,5 @@
+![[Buddycop.jpg]]
+
 ## Summary
 Promo image for *[[Buddy Cop]]*.
 

@@ -1,3 +1,5 @@
+![[Brent Unger Pic.jpg]]
+
 ## Summary
 [[Brent Unger]], preparing for the 2012 [[Same Year's Eve]] show.
 

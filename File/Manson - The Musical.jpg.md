@@ -1,3 +1,5 @@
+![[Manson - The Musical.jpg]]
+
 ## Summary
 Logo for *[[Manson -  The Musical]]*.
 

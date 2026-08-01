@@ -1,3 +1,5 @@
+![[Megan Sherrod Pic.jpg]]
+
 ## Summary
 [[Megan Sherrod]], performing in the 7/13/14 [[Second Sunday]] [[Merlin Works]] graduation show at [[ZACH Theatre]].
 

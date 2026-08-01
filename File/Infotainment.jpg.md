@@ -1,3 +1,5 @@
+![[Infotainment.jpg]]
+
 ## Summary
 Publicity image for [[Infotainment]].
 

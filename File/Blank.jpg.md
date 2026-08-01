@@ -1,3 +1,5 @@
+![[Blank.jpg]]
+
 ## Summary
 [[Greg Blank]], in the 3/1/13 performance of *[[The Fancy-Pants Mash-Up]]*.
 

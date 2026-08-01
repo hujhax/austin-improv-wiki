@@ -1,3 +1,5 @@
+![[Fatbuckle.jpg]]
+
 ## Summary
 Publicity image for [[Fatbuckle]].
 

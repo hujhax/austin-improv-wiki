@@ -1,3 +1,5 @@
+![[Oh, Science!.jpg]]
+
 ## Summary
 Promotional art for [[Oh, Science!]].
 

@@ -1,3 +1,5 @@
+![[Josh Santo Pic.jpg]]
+
 ## Summary
 [[Josh Santo]], in the 10/11/14 performance of *[[The Aftermath]]*.
 

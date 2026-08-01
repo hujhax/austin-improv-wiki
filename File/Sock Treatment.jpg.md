@@ -1,3 +1,5 @@
+![[Sock Treatment.jpg]]
+
 ## Summary
 Poster for *[[Sock Treatment]]*.
 

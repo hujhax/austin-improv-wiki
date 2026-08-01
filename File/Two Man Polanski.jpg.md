@@ -1,3 +1,5 @@
+![[Two Man Polanski.jpg]]
+
 ## Summary
 [[Ceej Allen]] and [[Jeff Britt]] perform in one of the improvised films from the 6/20/11 premiere of [[Two Man Polanski]] at *[[The Monday Night Mash]]*.
 

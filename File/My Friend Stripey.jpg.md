@@ -1,3 +1,5 @@
+![[My Friend Stripey.jpg]]
+
 ## Summary
 [[My Friend Stripey]], performing in *[[The Threefer]]* on 1/13/11.
 

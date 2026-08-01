@@ -1,3 +1,5 @@
+![[Darrell Barber Pic.jpg]]
+
 ## Summary
 [[Darrell Barber]], performing with [[ComedySportz]], year unknown, photo by: unknown.
 

@@ -1,3 +1,5 @@
+![[The Masterpiece.png]]
+
 ## Summary
 [[The Masterpiece]], performing in *[[The Threefer]]* on 4/26/12.
 

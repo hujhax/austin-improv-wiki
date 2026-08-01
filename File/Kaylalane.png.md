@@ -1,3 +1,5 @@
+![[Kaylalane.png]]
+
 ## Summary
 [[Kayla Lane Freeman]], performing in *[[The Fancy-Pants Mashup]]* on 4/6/12.
 

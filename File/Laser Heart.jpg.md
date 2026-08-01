@@ -1,3 +1,5 @@
+![[Laser Heart.jpg]]
+
 ## Summary
 Publicity photo of [[Laser Heart]].
 

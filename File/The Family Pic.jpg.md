@@ -1,3 +1,5 @@
+![[The Family Pic.jpg]]
+
 ## Summary
 Publicity photo for *[[The Family]]*, taken from [the show's facebook-event page](http://www.facebook.com/events/496285910062/).
 

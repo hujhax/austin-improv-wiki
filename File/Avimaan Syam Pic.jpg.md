@@ -1,3 +1,5 @@
+![[Avimaan Syam Pic.jpg]]
+
 ## Summary
 [[Avimaan Syam]], in the 1/23/10 performance of *[[One More Night]]*.
 

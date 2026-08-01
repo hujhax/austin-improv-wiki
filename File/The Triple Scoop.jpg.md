@@ -1,3 +1,5 @@
+![[The Triple Scoop.jpg]]
+
 ## Summary
 Publicity image for *[[The Triple Scoop]]*, featuring [[IScream Sandwich]].
 

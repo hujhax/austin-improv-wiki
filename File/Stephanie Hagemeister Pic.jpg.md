@@ -1,3 +1,5 @@
+![[Stephanie Hagemeister Pic.jpg]]
+
 ## Summary
 [[Stephanie Hagemeister]], in the 11/22/11 performance of *[[Live TV Tuesdays -  Buffy]]*.
 

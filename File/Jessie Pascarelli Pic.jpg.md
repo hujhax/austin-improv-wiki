@@ -1,3 +1,5 @@
+![[Jessie Pascarelli Pic.jpg]]
+
 ## Summary
 [[Jessie Pascarelli]], volunteering at the 2012 [[WaffleFest]].
 

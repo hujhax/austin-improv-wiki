@@ -1,3 +1,5 @@
+![[The Super Troopers.jpg]]
+
 ## Summary
 [[The Super Troupers]], in their 7/22/12 student show at [[ColdTowne Theater]].
 

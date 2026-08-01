@@ -1,3 +1,5 @@
+![[Crimpz.png]]
+
 ## Summary
 Publicity photo for [[Crimpz]].
 ## Licensing

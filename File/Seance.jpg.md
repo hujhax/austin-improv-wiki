@@ -1,3 +1,5 @@
+![[Seance.jpg]]
+
 ## Summary
 Show poster for *[[Seance]]*, featuring the cast.
 

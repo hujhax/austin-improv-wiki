@@ -1,3 +1,5 @@
+![[Tiny Luddite.jpg]]
+
 ## Summary
 Publicity image for [[Tiny Luddite]].
 

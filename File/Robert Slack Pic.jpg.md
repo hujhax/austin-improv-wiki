@@ -1,3 +1,5 @@
+![[Robert Slack Pic.jpg]]
+
 ## Summary
 [[Robert Slack]], in the 9/20/15 performance by [[Golden]].
 

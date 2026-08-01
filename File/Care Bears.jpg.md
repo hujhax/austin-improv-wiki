@@ -1,3 +1,5 @@
+![[Care Bears.jpg]]
+
 ## Summary
 [[John Ratliff]], [[Josh Gill]], and [[Roy Janik]] in their costumes for the first *[[Care Bear Stare]]* show.
 

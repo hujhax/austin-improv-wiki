@@ -1,3 +1,5 @@
+![[Indigo Shift.jpg]]
+
 ## Summary
 Publicity photo for [[Indigo Shift]].
 

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The NASA Musical Outreach Program.jpg]]
+				<a class="internal-link" href="File/The NASA Musical Outreach Program.jpg"><img src="File/The%20NASA%20Musical%20Outreach%20Program.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

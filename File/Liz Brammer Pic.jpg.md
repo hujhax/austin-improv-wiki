@@ -1,3 +1,5 @@
+![[Liz Brammer Pic.jpg]]
+
 ## Summary
 [[Liz Brammer]], in the 2/3/12 performance of *[[Steam]]*.
 

@@ -1,3 +1,5 @@
+![[710 Split.jpg]]
+
 ## Summary
 Publicity photo of [[710 Split]].
 

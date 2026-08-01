@@ -1,3 +1,5 @@
+![[Chelley Pyatt Pic.jpg]]
+
 ## Summary
 [[Chelley Pyatt]] arrives at the first annual [[Institution Theater Awards]] show.
 

@@ -1,3 +1,5 @@
+![[Vampire High School Placeholder Image.jpg]]
+
 ## Summary
 Placeholder image for *[[Vampire High School]]*.
 ## Licensing

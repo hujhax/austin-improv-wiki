@@ -1,3 +1,5 @@
+![[Lord Wensleydale Performance.jpg]]
+
 ## Summary
 A mishap with a cake at *[[Lord Wensleydale's Last High Tea]]*.
 

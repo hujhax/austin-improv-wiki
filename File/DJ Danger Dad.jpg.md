@@ -1,3 +1,5 @@
+![[DJ Danger Dad.jpg]]
+
 ## Summary
 Publicity image for [[DJ Danger Dad]].
 

@@ -1,3 +1,5 @@
+![[The Couchsurfers.png]]
+
 ## Summary
 Publicity image for [[The Couchsurfers]].
 

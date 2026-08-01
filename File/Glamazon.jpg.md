@@ -1,3 +1,5 @@
+![[Glamazon.jpg]]
+
 ## Summary
 Publicity image for [[Glamazon]].
 

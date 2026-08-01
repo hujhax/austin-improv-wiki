@@ -1,3 +1,5 @@
+![[Waiting for Batman.jpg]]
+
 ## Summary
 Commissioner Gordon ([[Curtis Luciani]]) assaults a gift chair while Chief O'Hara ([[Eric Heiberg]]) looks on, in the 9/1/13 8pm performance of "[[Waiting for Batman]]" at [[The 2013 Out of Bounds Comedy Festival]].
 

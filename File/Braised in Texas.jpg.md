@@ -1,3 +1,5 @@
+![[Braised in Texas.jpg]]
+
 ## Summary
 Publicity image for *[[Braised in Texas]]*.
 

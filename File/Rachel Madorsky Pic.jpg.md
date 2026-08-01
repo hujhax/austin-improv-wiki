@@ -1,3 +1,5 @@
+![[Rachel Madorsky Pic.jpg]]
+
 ## Summary
 [[Rachel Madorsky]] performing with [[Rachel and Dave]] in their 8/31/11 performance at [[The 2011 Out of Bounds Comedy Festival]].
 

@@ -1,3 +1,5 @@
+![[Sara Farr Pic.jpg]]
+
 ## Summary
 [[Sara Farr]], performing in *[[Crack]]* on 8/20/10.
 

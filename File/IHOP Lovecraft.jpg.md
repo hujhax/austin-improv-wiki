@@ -1,3 +1,5 @@
+![[IHOP Lovecraft.jpg]]
+
 ## Summary
 The debut performance of [[IHOP Lovecraft]] at the 4/11/11 *[[Monday Night Mash]]*.
 

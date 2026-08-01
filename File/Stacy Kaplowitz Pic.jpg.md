@@ -1,3 +1,5 @@
+![[Stacy Kaplowitz Pic.jpg]]
+
 ## Summary
 [[Stacy Kaplowitz]], playing Madge Miller in the 8/29/10 performance of *[[The Andersons]]*.
 

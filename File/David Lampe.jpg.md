@@ -1,3 +1,5 @@
+![[David Lampe.jpg]]
+
 ## Summary
 Publicity photo of [[David Lampe]] for *[[The Violet Underbelly]]*.
 

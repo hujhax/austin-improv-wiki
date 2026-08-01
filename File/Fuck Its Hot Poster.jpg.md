@@ -1,3 +1,5 @@
+![[Fuck Its Hot Poster.jpg]]
+
 ## Summary
 Publicity image for *[[Fuck It's Hot]]*.
 

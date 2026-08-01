@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Uptowne cast and crew 2009.JPG]]
+				<a class="internal-link" href="File/Uptowne cast and crew 2009.JPG"><img src="File/Uptowne%20cast%20and%20crew%202009.JPG" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

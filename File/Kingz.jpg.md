@@ -1,3 +1,5 @@
+![[Kingz.jpg]]
+
 ## Summary
 Publicity photo of [[Kingz]].
 ## Licensing

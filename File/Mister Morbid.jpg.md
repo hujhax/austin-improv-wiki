@@ -1,3 +1,5 @@
+![[Mister Morbid.jpg]]
+
 ## Summary
 Publicity image for [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]], featuring [[Tom Booker]] as Mister Morbid.
 

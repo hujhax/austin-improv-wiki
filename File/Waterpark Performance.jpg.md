@@ -1,3 +1,5 @@
+![[Waterpark Performance.jpg]]
+
 ## Summary
 Performance by [[Waterpark]].
 

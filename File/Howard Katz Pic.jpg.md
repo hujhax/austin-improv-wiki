@@ -1,3 +1,5 @@
+![[Howard Katz Pic.jpg]]
+
 ## Summary
 [[Howard Katz]], in the 1/21/12 performance of *[[Steam]]*.
 

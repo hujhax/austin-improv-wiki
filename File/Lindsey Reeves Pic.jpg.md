@@ -1,3 +1,5 @@
+![[Lindsey Reeves Pic.jpg]]
+
 ## Summary
 [[Lindsey Reeves]], performing with [[The Escorts]] on 8/24/12.
 

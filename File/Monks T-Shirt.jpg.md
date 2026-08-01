@@ -1,3 +1,5 @@
+![[Monks T-Shirt.jpg]]
+
 ## Summary
 A [[Monks' Night Out]] t-shirt.
 

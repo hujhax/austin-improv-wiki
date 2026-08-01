@@ -1,3 +1,5 @@
+![[Kurosawa.jpg]]
+
 ## Summary
 Rudimentary preview image for *[[Kurosawa]]*, taken from [the Hideout's 2014 season preview](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule).
 

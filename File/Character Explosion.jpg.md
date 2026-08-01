@@ -1,3 +1,5 @@
+![[Character Explosion.jpg]]
+
 ## Summary
 Photo of [[Character Explosion]].
 ## Licensing

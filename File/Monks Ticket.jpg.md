@@ -1,3 +1,5 @@
+![[Monks Ticket.jpg]]
+
 ## Summary
 A ticket to a 5/14/96 [[Monks' Night Out]] show.
 

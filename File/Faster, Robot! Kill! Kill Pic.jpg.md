@@ -1,3 +1,5 @@
+![[Faster, Robot! Kill! Kill Pic.jpg]]
+
 ## Summary
 Publicity image for [[Faster, Robot! Kill! Kill!]].
 

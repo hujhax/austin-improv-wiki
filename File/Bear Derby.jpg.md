@@ -1,3 +1,5 @@
+![[Bear Derby.jpg]]
+
 ## Summary
 Publicity poster for [[Bear Derby]].
 

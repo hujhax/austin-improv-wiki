@@ -1,3 +1,5 @@
+![[Curtis Luciani Pic.jpg]]
+
 ## Summary
 [[Curtis Luciani]], performing with [[The Amazon and the Milksop]] at [[The 2013 Improvised Play Festival]] on 4/13/13.
 

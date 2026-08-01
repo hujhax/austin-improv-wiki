@@ -1,3 +1,5 @@
+![[Sausage Party.jpg]]
+
 ## Summary
 Logo for [[Sausage Party]] by [[Liz Butler]].
 ## Licensing

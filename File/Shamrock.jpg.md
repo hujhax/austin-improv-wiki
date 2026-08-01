@@ -1,3 +1,5 @@
+![[Shamrock.jpg]]
+
 ## Summary
 Photo of [[Shamrock]].
 

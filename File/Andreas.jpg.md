@@ -1,3 +1,5 @@
+![[Andreas.jpg]]
+
 ## Summary
 Photo by [[Steve Rogers]].
 

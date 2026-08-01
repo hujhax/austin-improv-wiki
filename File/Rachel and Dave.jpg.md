@@ -1,3 +1,5 @@
+![[Rachel and Dave.jpg]]
+
 ## Summary
 [[Rachel and Dave]] perform at [[The Hideout Theatre]], 12/9/10.
 

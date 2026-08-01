@@ -1,3 +1,5 @@
+![[Colin Thomas Bates Pic.jpg]]
+
 ## Summary
 [[Colin Thomas Bates]], performing with [[Stone Airplane]] on 7/7/12.
 

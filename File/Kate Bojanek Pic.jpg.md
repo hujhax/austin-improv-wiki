@@ -1,3 +1,5 @@
+![[Kate Bojanek Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Kate Bojanek]] for *[[Elf Employment]]*.
 

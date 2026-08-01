@@ -1,3 +1,5 @@
+![[BOSS.jpg]]
+
 ## Summary
 Publicity photo of [[BOSS]].
 

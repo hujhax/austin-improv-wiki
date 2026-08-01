@@ -1,3 +1,5 @@
+![[The Jam with Oh, Science!.jpg]]
+
 ## Summary
 Promotional image for [[The Jam with Oh, Science!]].
 

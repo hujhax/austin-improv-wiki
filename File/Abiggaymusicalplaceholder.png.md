@@ -1,3 +1,5 @@
+![[Abiggaymusicalplaceholder.png]]
+
 ## Summary
 (placeholder graphic for *[[A Big Gay Musical]]*
 ## Licensing

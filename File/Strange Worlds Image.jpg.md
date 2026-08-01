@@ -1,3 +1,5 @@
+![[Strange Worlds Image.jpg]]
+
 ## Summary
 Poster for [[Strange Worlds]].
 

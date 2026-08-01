@@ -1,3 +1,5 @@
+![[The Opener.jpg]]
+
 ## Summary
 Publicity art for *[[The Opener]]*.
 

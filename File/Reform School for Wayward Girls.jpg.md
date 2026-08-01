@@ -1,3 +1,5 @@
+![[Reform School for Wayward Girls.jpg]]
+
 ## Summary
 Poster for *[[Reform School for Wayward Girls]]*.
 

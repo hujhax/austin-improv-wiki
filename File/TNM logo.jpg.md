@@ -1,3 +1,5 @@
+![[TNM logo.jpg]]
+
 ## Summary
 Logo for the New Movement theater.
 ## Licensing

@@ -1,0 +1,2 @@
+![[Mirage Machine.jpg]]
+

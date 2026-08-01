@@ -1,3 +1,5 @@
+![[Phil.jpg]]
+
 ## Summary
 Publicity photo of [[Phil]].
 

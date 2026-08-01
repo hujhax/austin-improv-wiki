@@ -1,3 +1,5 @@
+![[Wellmadeplay poster.jpg]]
+
 ## Summary
 Poster for *[[The Well-Made Play]]*, featuring [[Christian Lewis]], [[Gabriela Vargas]], [[Cristy Salinas]], and [[Jeffrey Chatman]].
 

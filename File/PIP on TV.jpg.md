@@ -1,3 +1,5 @@
+![[PIP on TV.jpg]]
+
 ## Summary
 Publicity poster for *[[PIP on TV]]*.
 

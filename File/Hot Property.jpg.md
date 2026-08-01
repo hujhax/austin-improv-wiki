@@ -1,3 +1,5 @@
+![[Hot Property.jpg]]
+
 ## Summary
 Publicity photo of [[Hot Property]].
 

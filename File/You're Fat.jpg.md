@@ -1,3 +1,5 @@
+![[You're Fat.jpg]]
+
 ## Summary
 Publicity image for [[You're Fat]].
 

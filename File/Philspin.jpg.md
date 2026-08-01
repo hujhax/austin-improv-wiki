@@ -1,3 +1,5 @@
+![[Philspin.jpg]]
+
 ## Summary
 Photo of [[Philip Aulie]] taken by [[Kaci Beeler]].
 

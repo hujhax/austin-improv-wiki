@@ -1,3 +1,5 @@
+![[Only Three Will Survive.jpg]]
+
 ## Summary
 Publicity image for *[[Only Three Will Survive]]*, featuring [[Heidi Rogers]], [[Lacy Shawn]], and [[Wyatt Tall]].
 

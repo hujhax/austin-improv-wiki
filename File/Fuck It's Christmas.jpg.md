@@ -1,3 +1,5 @@
+![[Fuck It's Christmas.jpg]]
+
 ## Summary
 Publicity image for *[[Fuck It's Christmas]]*.
 

@@ -1,3 +1,5 @@
+![[Eric Heiberg Pic.jpg]]
+
 ## Summary
 [[Eric Heiberg]], in the 1/19/13 (*Batman*) performance of *[[Fandom]]*.
 

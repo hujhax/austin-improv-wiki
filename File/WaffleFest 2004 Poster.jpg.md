@@ -1,3 +1,5 @@
+![[WaffleFest 2004 Poster.jpg]]
+
 ## Summary
 Poster for [[WaffleFest 2004]].
 

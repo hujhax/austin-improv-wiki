@@ -1,3 +1,5 @@
+![[Humanz.png]]
+
 ## Summary
 Publicity image for [[Humanz]].
 

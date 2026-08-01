@@ -1,3 +1,5 @@
+![[3, 2, 1, Kill!.jpg]]
+
 ## Summary
 Publicity poster for [[3, 2, 1, Kill!]]
 

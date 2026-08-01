@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live From ColdTowne It’s Saturday Night!.jpg]]
+				<a class="internal-link" href="File/Live From ColdTowne It’s Saturday Night!.jpg"><img src="File/Live%20From%20ColdTowne%20It’s%20Saturday%20Night!.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

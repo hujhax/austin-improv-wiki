@@ -1,3 +1,5 @@
+![[Murphy.jpg]]
+
 ## Summary
 Publicity photo of [[Murphy]].
 

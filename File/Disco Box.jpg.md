@@ -1,3 +1,5 @@
+![[Disco Box.jpg]]
+
 ## Summary
 [[Disco Box]], during their 5/10/12 performance at *[[The Threefer]]*.
 

@@ -1,3 +1,5 @@
+![[A Really Aggressive Dream.jpg]]
+
 ## Summary
 Publicity photo for [[A Really Aggressive Dream]].
 

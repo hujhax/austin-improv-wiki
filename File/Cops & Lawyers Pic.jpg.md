@@ -1,3 +1,5 @@
+![[Cops & Lawyers Pic.jpg]]
+
 ## Summary
 [[Christina Bain]] delivers closing arguments in the 8/12/06 performance of *[[Cops & Lawyers]]*.
 

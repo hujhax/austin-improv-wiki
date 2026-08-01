@@ -1,3 +1,5 @@
+![[Stacy & Darren.jpg]]
+
 ## Summary
 [[Stacy & Darren]], in their 12/2/10 performance in *[[The Threefer]]*.
 

@@ -1,3 +1,5 @@
+![[Umami.jpg]]
+
 ## Summary
 Publicity photo of [[Umami]].
 

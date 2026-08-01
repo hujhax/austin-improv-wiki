@@ -1,3 +1,5 @@
+![[Mike Nystul Pic.jpg]]
+
 ## Summary
 [[Mike Nystul]], performing with [[Happy Butter]] in [[The 42-Hour Improv Marathon]].
 

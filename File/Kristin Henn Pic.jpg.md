@@ -1,3 +1,5 @@
+![[Kristin Henn Pic.jpg]]
+
 ## Summary
 [[Kristin Henn]], performing with [[Oh, Science!]] at [[The 2012 Out of Bounds Comedy Festival]] on 8/28/12.
 

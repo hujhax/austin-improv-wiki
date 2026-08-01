@@ -1,3 +1,5 @@
+![[Florida Room.jpg]]
+
 ## Summary
 Publicity photo of [[Florida Room]], in costume.
 

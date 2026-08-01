@@ -1,3 +1,5 @@
+![[Origins Placeholder Image.jpg]]
+
 ## Summary
 Placeholder image for *[[Origins]]*.
 ## Licensing

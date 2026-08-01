@@ -1,3 +1,5 @@
+![[You Can't Stay Here.jpg]]
+
 ## Summary
 Placeholder art for *[[You Can't Stay Here]]*.
 

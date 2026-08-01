@@ -1,3 +1,5 @@
+![[Hell's Bells.jpg]]
+
 ## Summary
 [[Hell's Bells]], in their 9/19/11 performance in *[[The Monday Night Mash]]*.
 

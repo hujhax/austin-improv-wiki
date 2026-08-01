@@ -1,3 +1,5 @@
+![[Heidi Caldwell Pic.jpg]]
+
 ## Summary
 [[Heidi Caldwell]] accepts one of several awards at [[The 2013 Institution Theater Awards]].
 

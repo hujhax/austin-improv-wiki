@@ -1,3 +1,5 @@
+![[Local Genius Society.jpg]]
+
 ## Summary
 [[Local Genius Society]] performing at the 2012 [[WaffleFest]].
 

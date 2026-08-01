@@ -1,3 +1,5 @@
+![[You Think You're So Smart Poster.jpg]]
+
 ## Summary
 Publicity poster for *[[You Think You're So Smart]]*.
 

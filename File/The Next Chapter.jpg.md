@@ -1,3 +1,5 @@
+![[The Next Chapter.jpg]]
+
 ## Summary
 Publicity image for *[[The Next Chapter]]*.
 

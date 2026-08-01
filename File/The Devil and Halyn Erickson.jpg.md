@@ -1,3 +1,5 @@
+![[The Devil and Halyn Erickson.jpg]]
+
 ## Summary
 Publicity image for *[[The Devil and Halyn Erickson]]*.
 

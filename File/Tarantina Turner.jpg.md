@@ -1,3 +1,5 @@
+![[Tarantina Turner.jpg]]
+
 ## Summary
 Publicity image for [[Tarantina Turner]].
 

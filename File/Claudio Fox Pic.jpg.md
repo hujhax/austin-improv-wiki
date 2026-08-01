@@ -1,3 +1,5 @@
+![[Claudio Fox Pic.jpg]]
+
 ## Summary
 [[Claudio Fox]], performing in the 12/20/12 *[[Free Fringe]]*.
 

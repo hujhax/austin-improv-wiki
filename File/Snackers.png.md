@@ -1,3 +1,5 @@
+![[Snackers.png]]
+
 ## Summary
 Publicity art for [[Snackers]] by [[Jon Bolden]].
 ## Licensing

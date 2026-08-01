@@ -1,3 +1,5 @@
+![[Bob Olmstead Pic.jpg]]
+
 ## Summary
 [[Bob Olmstead]], performing in *[[The Free Fringe]]*.  Photo by [[Claudio Fox]].
 

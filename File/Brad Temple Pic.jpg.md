@@ -1,3 +1,5 @@
+![[Brad Temple Pic.jpg]]
+
 ## Summary
 "Trading card" picture of [[Brad Temple]] for [[Journey to the Big Water]].
 

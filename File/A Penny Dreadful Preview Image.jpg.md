@@ -1,3 +1,5 @@
+![[A Penny Dreadful Preview Image.jpg]]
+
 ## Summary
 Placeholder publicity image for *[[A Penny Dreadful]]*.
 ## Licensing

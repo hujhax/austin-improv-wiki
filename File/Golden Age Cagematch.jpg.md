@@ -1,3 +1,5 @@
+![[Golden Age Cagematch.jpg]]
+
 ## Summary
 [[Golden Age]] celebrates their 10/24/12 *[[Cagematch]]* championship.
 

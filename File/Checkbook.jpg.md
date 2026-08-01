@@ -1,3 +1,5 @@
+![[Checkbook.jpg]]
+
 ## Summary
 Publicity photo for [[Checkbook]].
 

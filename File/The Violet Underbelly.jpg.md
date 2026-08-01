@@ -1,3 +1,5 @@
+![[The Violet Underbelly.jpg]]
+
 ## Summary
 Publicity image of [[Audrey Rachel Sansom]] and [[Deano Jones]] for *[[The Violet Underbelly]]*.
 

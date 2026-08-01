@@ -1,3 +1,5 @@
+![[Live TV Tuesdays - John Hughes Summer School.jpg]]
+
 ## Summary
 The 7/19/11 performance of *[[Live TV Tuesdays -  John Hughes Summer School]]*.
 

@@ -1,3 +1,5 @@
+![[Bryan Curry.jpg]]
+
 ## Summary
 Bryan singing at Emo's.
 ## Licensing

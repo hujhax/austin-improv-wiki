@@ -1,3 +1,5 @@
+![[Rewind.jpg]]
+
 ## Summary
 Promotional Banner Graphic for Rewind
 ## Licensing

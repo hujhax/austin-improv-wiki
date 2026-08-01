@@ -1,3 +1,5 @@
+![[Drinkies Galore 3.jpg]]
+
 ## Summary
 Photo of [[Drinkies Galore]] by [[Topping Haggerty]].
 

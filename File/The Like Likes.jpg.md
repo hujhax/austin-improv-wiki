@@ -1,3 +1,5 @@
+![[The Like Likes.jpg]]
+
 ## Summary
 Group photo of [[The Like Likes]].
 

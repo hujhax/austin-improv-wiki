@@ -1,3 +1,5 @@
+![[Achatina Achatina.jpg]]
+
 ## Summary
 [[Achatina Achatina]] celebrating their victory in the 2009 [[Cagematch]].
 

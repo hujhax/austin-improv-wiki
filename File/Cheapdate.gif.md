@@ -1,3 +1,5 @@
+![[Cheapdate.gif]]
+
 ## Summary
 Cheap Date livin Cheap
 ## Licensing

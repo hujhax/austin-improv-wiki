@@ -1,3 +1,5 @@
+![[Journey to the Big Water.jpg]]
+
 ## Summary
 Publicity poster for [[Journey to the Big Water]].
 

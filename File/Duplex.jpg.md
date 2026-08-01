@@ -1,3 +1,5 @@
+![[Duplex.jpg]]
+
 ## Summary
 Members of [[Duplex]], in their 5/29/14 performance in *[[The Threefer]]*.
 

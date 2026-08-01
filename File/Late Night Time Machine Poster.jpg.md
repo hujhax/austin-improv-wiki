@@ -1,3 +1,5 @@
+![[Late Night Time Machine Poster.jpg]]
+
 ## Summary
 Poster for 'season 2' of *[[Late Night Time Machine]]*.
 

@@ -1,3 +1,5 @@
+![[Antique Limax.jpg]]
+
 ## Summary
 Publicity image for [[Antique Limax]].
 

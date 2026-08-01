@@ -1,3 +1,5 @@
+![[Ls cropped.jpg]]
+
 ## Summary
 Photo of [[Luis Salinas]].
 

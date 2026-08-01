@@ -1,3 +1,5 @@
+![[The Awkwards.jpg]]
+
 ## Summary
 [[The Awkwards]], posing just before their 5/9/13 premiere.
 

@@ -1,3 +1,5 @@
+![[Swordfight.jpg]]
+
 ## Summary
 Performance by [[Swordfight]].
 

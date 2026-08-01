@@ -1,3 +1,5 @@
+![[Kakkerlakken.png]]
+
 ## Summary
 [[Kakkerlakken]], performing in *[[The Weekender]]* on 3/6/11.
 

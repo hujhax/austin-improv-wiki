@@ -1,3 +1,5 @@
+![[Taylor Flanagan Pic.jpg]]
+
 ## Summary
 [[Taylor Flanagan]], performing with *[[Fakespeare]]* in [[The 45-Hour Improv Marathon]].
 

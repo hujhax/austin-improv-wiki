@@ -1,3 +1,5 @@
+![[Austin Comedy Hour.jpg]]
+
 ## Summary
 Publicity image for *[[Austin Comedy Hour]]*.
 

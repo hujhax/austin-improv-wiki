@@ -1,3 +1,5 @@
+![[Andy Crouch.jpg]]
+
 ## Summary
 [[Andy Crouch]] performing as Sherlock Holmes in [[Danger! Warning! Improv!]] show.
 

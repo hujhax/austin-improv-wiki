@@ -1,3 +1,5 @@
+![[Improvised Robocop.jpg]]
+
 ## Summary
 Publicity image for [[Improvised Robocop]].
 

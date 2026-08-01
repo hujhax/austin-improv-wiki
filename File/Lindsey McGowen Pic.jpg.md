@@ -1,3 +1,5 @@
+![[Lindsey McGowen Pic.jpg]]
+
 ## Summary
 A quick selfie of [[Lindsey McGowen]].
 ## Licensing

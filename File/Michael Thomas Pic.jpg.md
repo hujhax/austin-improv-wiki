@@ -1,3 +1,5 @@
+![[Michael Thomas Pic.jpg]]
+
 ## Summary
 [[Michael Thomas]], in the 5/15/12 performance of *[[Live TV Tuesdays -  Firefly]]*.
 

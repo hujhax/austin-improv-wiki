@@ -1,3 +1,5 @@
+![[Lacy Shawn Profile.jpg]]
+
 ## Summary
 [[Lacy Shawn]] standing on a rainy street in San Francisco. 
 

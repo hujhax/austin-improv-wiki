@@ -1,3 +1,5 @@
+![[TIT Talks.jpg]]
+
 ## Summary
 Publicity image for *[[TIT Talks]]*.
 

@@ -1,3 +1,5 @@
+![[Student Union.jpg]]
+
 ## Summary
 Publicity image for *[[Student Union]]*.
 

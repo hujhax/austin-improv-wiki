@@ -1,3 +1,5 @@
+![[Delightfuls.jpg]]
+
 ## Summary
 Photo by Steve Rogers
 

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Double Barrel.png]]
+				<a class="internal-link" href="File/The Double Barrel.png"><img src="File/The%20Double%20Barrel.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

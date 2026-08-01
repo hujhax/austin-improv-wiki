@@ -1,3 +1,5 @@
+![[Golden (troupe).jpg]]
+
 ## Summary
 [[Golden]] silently asks for a suggestion in *[[The Knockout]]* semifinals on 9/14/15.
 

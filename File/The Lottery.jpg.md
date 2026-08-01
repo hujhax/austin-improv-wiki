@@ -1,3 +1,5 @@
+![[The Lottery.jpg]]
+
 ## Summary
 Publicity art for *[[The Lottery]]*.
 

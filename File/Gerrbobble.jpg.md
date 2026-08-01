@@ -1,3 +1,5 @@
+![[Gerrbobble.jpg]]
+
 ## Summary
 Publicity image for [[Gerrbobble]].
 

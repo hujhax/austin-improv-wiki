@@ -1,3 +1,5 @@
+![[Pals!.jpg]]
+
 ## Summary
 Publicity art for [[Pals!]].
 

@@ -1,3 +1,5 @@
+![[Pass the Mic.jpg]]
+
 ## Summary
 Publicity art for *[[Pass the Mic]]*.
 

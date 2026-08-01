@@ -1,3 +1,5 @@
+![[The Aftermath.jpg]]
+
 ## Summary
 Publicity poster for *[[The Aftermath]]*.
 

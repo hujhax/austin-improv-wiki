@@ -1,3 +1,5 @@
+![[Under Waged Poster.jpg]]
+
 ## Summary
 Poster for the [[Kosher Bacon]] show *Under Waged*.
 

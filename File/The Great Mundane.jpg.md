@@ -1,3 +1,5 @@
+![[The Great Mundane.jpg]]
+
 ## Summary
 [[Kacey Samiee]] and [[Jeffrey Amos]] playing in *[[The Great Mundane]]* in March 2006.
 

@@ -1,3 +1,5 @@
+![[Butter.jpg]]
+
 ## Summary
 Publicity photo of [[Butter]].
 ## Licensing

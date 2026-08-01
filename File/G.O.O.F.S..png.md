@@ -1,3 +1,5 @@
+![[G.O.O.F.S..png]]
+
 ## Summary
 Still from a video of the 1/2/14 performance by [[G.O.O.F.S]]
 

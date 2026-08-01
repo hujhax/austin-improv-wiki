@@ -1,3 +1,5 @@
+![[Mother Fing Action Heroes!.jpg]]
+
 ## Summary
 Publicity image for [[Mother Fing Action Heroes!]].
 

@@ -1,3 +1,5 @@
+![[Brad Hawkins.jpg]]
+
 ## Summary
 [[Brad Hawkins]], in the 10.27.12 performance of *[[The Black Vault]]*.
 

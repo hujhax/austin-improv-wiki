@@ -1,3 +1,5 @@
+![[The Honeypot.jpg]]
+
 ## Summary
 [[The Honeypot]] performing in the 3/5/12 *[[Monday Night Mash]]*.
 

@@ -1,3 +1,5 @@
+![[Nathan Sowell Pic.jpg]]
+
 ## Summary
 Photo of [[Nathan Sowell]].
 

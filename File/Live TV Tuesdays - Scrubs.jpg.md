@@ -1,3 +1,5 @@
+![[Live TV Tuesdays - Scrubs.jpg]]
+
 ## Summary
 Program image for *[[Live TV Tuesdays -  Scrubs]]*.
 

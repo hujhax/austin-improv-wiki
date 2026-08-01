@@ -1,3 +1,5 @@
+![[The Control Group.jpg]]
+
 ## Summary
 Publicity image of [[The Control Group]].
 

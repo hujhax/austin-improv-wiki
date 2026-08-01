@@ -1,3 +1,5 @@
+![[Ed32 Poster.jpg]]
+
 ## Summary
 Poster for [[Ed 32]].
 

@@ -1,3 +1,5 @@
+![[ScrubsProgram.jpeg]]
+
 ## Summary
 The program for *[[Live TV Tuesdays -  Scrubs]]*.
 

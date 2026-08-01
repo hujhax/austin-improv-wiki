@@ -1,3 +1,5 @@
+![[Les McGehee Pic.jpg]]
+
 ## Summary
 [[Les McGehee]], from the 8/13/10 performance of *[[Crack!]]*
 

@@ -1,3 +1,5 @@
+![[Secret Garden.jpg]]
+
 ## Summary
 [[Secret Garden]], performing in the 6/21/12 *[[Threefer]]*.
 

@@ -1,3 +1,5 @@
+![[Three on a Match.jpg]]
+
 ## Summary
 Publicity photo of [[Three on a Match]].
 

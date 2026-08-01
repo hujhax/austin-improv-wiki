@@ -1,3 +1,5 @@
+![[Karen Jane DeWitt Pic.jpg]]
+
 ## Summary
 [[Karen Jane DeWitt]], performing with [[Local Genius Society]] at the 2012 [[WaffleFest]] on 11/8/12.
 

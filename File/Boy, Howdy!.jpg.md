@@ -1,3 +1,5 @@
+![[Boy, Howdy!.jpg]]
+
 ## Summary
 Poster for *[[Boy, Howdy!]]*.
 

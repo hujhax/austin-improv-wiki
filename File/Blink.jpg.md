@@ -1,3 +1,5 @@
+![[Blink.jpg]]
+
 ## Summary
 Publicity photo for [[Blink]], 2010.
 

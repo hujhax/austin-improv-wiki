@@ -1,3 +1,5 @@
+![[Red Giant.jpg]]
+
 ## Summary
 Publicity image for [[Red Giant]].
 

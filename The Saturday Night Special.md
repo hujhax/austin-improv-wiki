@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Saturday Night Special Publicity.gif]]
+				<a class="internal-link" href="File/The Saturday Night Special Publicity.gif"><img src="File/The%20Saturday%20Night%20Special%20Publicity.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 

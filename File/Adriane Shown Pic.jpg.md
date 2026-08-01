@@ -1,3 +1,5 @@
+![[Adriane Shown Pic.jpg]]
+
 ## Summary
 [[Adriane Shown]], in the 9/27/13 performance of the *[[Hell & Back Cabaret]]*.
 

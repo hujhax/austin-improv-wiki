@@ -1,3 +1,5 @@
+![[Firth&Arjet Logo.png]]
+
 ## Summary
 The [[Firth & Arjet]] logo.
 

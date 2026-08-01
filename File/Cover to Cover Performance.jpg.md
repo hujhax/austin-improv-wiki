@@ -1,3 +1,5 @@
+![[Cover to Cover Performance.jpg]]
+
 ## Summary
 [[Julie Gillis]] teaches class in the 11/4/11 performance of *[[Cover to Cover]]* ("The Broken Locket").
 

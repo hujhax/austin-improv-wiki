@@ -1,3 +1,5 @@
+![[Instant of Hazard.jpg]]
+
 ## Summary
 [[Instant of Hazard]] performing at [[The Hideout Theatre]] on 10/4/12.
 

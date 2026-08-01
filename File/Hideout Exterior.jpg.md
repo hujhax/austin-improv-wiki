@@ -1,3 +1,5 @@
+![[Hideout Exterior.jpg]]
+
 ## Summary
 A view of [[The Hideout Theatre]] from Congress Avenue.
 

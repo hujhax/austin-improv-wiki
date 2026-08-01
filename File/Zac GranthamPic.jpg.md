@@ -1,3 +1,5 @@
+![[Zac GranthamPic.jpg]]
+
 ## Summary
 [[Zac Grantham]], in a publicity photo for *[[The Violet Underbelly]]*.
 

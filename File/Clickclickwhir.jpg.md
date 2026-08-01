@@ -1,3 +1,5 @@
+![[Clickclickwhir.jpg]]
+
 ## Summary
 Promo image for *[[Click Click Whir]]* featuring [[Way Spurr-Chen]] and [[Marissa Macy]].
 

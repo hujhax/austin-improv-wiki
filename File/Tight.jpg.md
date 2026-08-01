@@ -1,3 +1,5 @@
+![[Tight.jpg]]
+
 ## Summary
 Publicity image of [[Tight]].
 

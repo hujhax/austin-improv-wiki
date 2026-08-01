@@ -1,3 +1,5 @@
+![[Laugh Pack.jpg]]
+
 ## Summary
 Still from episode 10 of "Three Guys Watching TV", by [[Laugh Pack]].
 

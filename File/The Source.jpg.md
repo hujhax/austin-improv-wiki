@@ -1,3 +1,5 @@
+![[The Source.jpg]]
+
 ## Summary
 Audition-announcement image for *[[The Source]]*.
 ## Licensing

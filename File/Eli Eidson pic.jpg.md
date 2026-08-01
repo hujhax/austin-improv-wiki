@@ -1,3 +1,5 @@
+![[Eli Eidson pic.jpg]]
+
 ## Summary
 [[Eli Eidson]] from the 2015 photobooth for [[Waterbed]].
 

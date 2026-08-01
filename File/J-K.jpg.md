@@ -1,3 +1,5 @@
+![[J-K.jpg]]
+
 ## Summary
 Publicity photo of [[J-K]].
 

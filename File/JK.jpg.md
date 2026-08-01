@@ -1,3 +1,5 @@
+![[JK.jpg]]
+
 ## Summary
 Publicity image of [[JK]].
 

@@ -1,3 +1,5 @@
+![[Wyatt Tall Pic.jpg]]
+
 ## Summary
 [[Wyatt Tall]], performing in *[[Only Three Will Survive]]* on 8/17/12.
 

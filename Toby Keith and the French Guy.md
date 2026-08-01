@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Toby Keith and the French Guy.gif]]
+				<a class="internal-link" href="File/Toby Keith and the French Guy.gif"><img src="File/Toby%20Keith%20and%20the%20French%20Guy.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

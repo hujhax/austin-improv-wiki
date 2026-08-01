@@ -1,3 +1,5 @@
+![[Jen Kaplan Pic.jpg]]
+
 ## Summary
 Photo Credit: Jon Bolden
 ## Licensing

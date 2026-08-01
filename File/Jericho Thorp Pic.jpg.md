@@ -1,3 +1,5 @@
+![[Jericho Thorp Pic.jpg]]
+
 ## Summary
 [[Jericho Thorp]], performing with [[Midnight Society]] in [[WaffleFest 2003]].
 

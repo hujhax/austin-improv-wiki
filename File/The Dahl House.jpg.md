@@ -1,3 +1,5 @@
+![[The Dahl House.jpg]]
+
 ## Summary
 Publicity image for *[[The Dahl House]]*.
 

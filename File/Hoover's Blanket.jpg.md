@@ -1,3 +1,5 @@
+![[Hoover's Blanket.jpg]]
+
 ## Summary
 Publicity image for [[Hoover's Blanket]], for their "Rivals" show run.
 

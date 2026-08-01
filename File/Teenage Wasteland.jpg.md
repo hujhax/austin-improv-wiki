@@ -1,3 +1,5 @@
+![[Teenage Wasteland.jpg]]
+
 ## Summary
 Poster for *[[Teenage Wasteland]]*.
 

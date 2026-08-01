@@ -1,3 +1,5 @@
+![[Fakespeare Poster.jpg]]
+
 ## Summary
 Poster for *[[Fakespeare]]*.
 

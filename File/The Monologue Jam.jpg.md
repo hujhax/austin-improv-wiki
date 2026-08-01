@@ -1,3 +1,5 @@
+![[The Monologue Jam.jpg]]
+
 ## Summary
 Banner image for *[[The Monologue Jam]]*.
 

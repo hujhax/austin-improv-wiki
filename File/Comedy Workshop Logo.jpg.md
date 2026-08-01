@@ -1,3 +1,5 @@
+![[Comedy Workshop Logo.jpg]]
+
 ## Summary
 Logo for [[The Comedy Workshop]].
 

@@ -1,3 +1,5 @@
+![[Spirit Desire.jpg]]
+
 ## Summary
 Publicity photo of [[Spirit Desire]].
 

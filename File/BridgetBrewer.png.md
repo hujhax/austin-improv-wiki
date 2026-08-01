@@ -1,3 +1,5 @@
+![[BridgetBrewer.png]]
+
 ## Summary
 [[Bridget Brewer]], performing in *[[The Fancy-Pants Mashup]]* on 3/1/13.
 

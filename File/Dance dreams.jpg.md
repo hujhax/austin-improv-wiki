@@ -1,3 +1,5 @@
+![[Dance dreams.jpg]]
+
 ## Summary
 Promo image for *[[Dance Dreams]]*.
 

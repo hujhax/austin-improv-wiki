@@ -1,3 +1,5 @@
+![[Live Nude Improv Performance.jpg]]
+
 ## Summary
 The "cast" warms up for "rehearsal" in the 8/6/11 performance of *[[Live Nude Improv]]*.
 

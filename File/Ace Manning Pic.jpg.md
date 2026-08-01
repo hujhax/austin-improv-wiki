@@ -1,3 +1,5 @@
+![[Ace Manning Pic.jpg]]
+
 ## Summary
 [[Ace Manning]], in the 3/3/12 performance of *[[Process]]*.
 

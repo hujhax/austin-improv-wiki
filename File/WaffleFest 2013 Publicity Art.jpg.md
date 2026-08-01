@@ -1,3 +1,5 @@
+![[WaffleFest 2013 Publicity Art.jpg]]
+
 ## Summary
 Publicity art for [[WaffleFest 2013]].
 

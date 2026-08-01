@@ -1,3 +1,5 @@
+![[The Rubber Room.jpg]]
+
 ## Summary
 Publicity art for [[The Rubber Room]] by [[Asaf Ronen]].
 ## Licensing

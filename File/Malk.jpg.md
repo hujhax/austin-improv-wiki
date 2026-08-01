@@ -1,3 +1,5 @@
+![[Malk.jpg]]
+
 ## Summary
 Publicity image for [[Malk]].
 

@@ -1,3 +1,5 @@
+![[Rook.png]]
+
 ## Summary
 Promotional image for [[Rook]].
 ## Licensing

@@ -1,3 +1,5 @@
+![[Tender Nightmare.jpg]]
+
 ## Summary
 Logo for [[Tender Nightmare]].
 

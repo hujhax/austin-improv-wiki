@@ -1,3 +1,5 @@
+![[Local on the 8s.jpg]]
+
 ## Summary
 Promotional Poster for Local on the Eights
 ## Licensing

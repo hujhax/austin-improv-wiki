@@ -1,3 +1,5 @@
+![[Elf Employment.jpg]]
+
 ## Summary
 Publicity image for the 2011 run of *[[Elf Employment]]*.
 

@@ -1,3 +1,5 @@
+![[Lord Wensleydale's Last High Tea.jpg]]
+
 ## Summary
 The cast of *[[Lord Wensleydale's Last High Tea]]*.
 

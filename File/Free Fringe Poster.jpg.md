@@ -1,3 +1,5 @@
+![[Free Fringe Poster.jpg]]
+
 ## Summary
 Publicity image for [[The Free Fringe]].
 

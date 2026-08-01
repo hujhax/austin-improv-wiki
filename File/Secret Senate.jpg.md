@@ -1,3 +1,5 @@
+![[Secret Senate.jpg]]
+
 ## Summary
 Publicity image for [[Secret Senate]].
 

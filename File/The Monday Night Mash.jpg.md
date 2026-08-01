@@ -1,3 +1,5 @@
+![[The Monday Night Mash.jpg]]
+
 ## Summary
 Publicity art for *[[The Monday Night Mash]]*.
 

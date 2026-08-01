@@ -1,3 +1,5 @@
+![[Revlis.jpg]]
+
 ## Summary
 Publicity photo for [[Revlis]].
 

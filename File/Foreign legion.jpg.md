@@ -1,3 +1,5 @@
+![[Foreign legion.jpg]]
+
 [[The Foreign Legion]] - poster design by [[Deano Jones]]
 
 ## Licensing

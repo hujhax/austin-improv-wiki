@@ -1,3 +1,5 @@
+![[Really Big Thumbs Up.jpg]]
+
 ## Summary
 Publicity image for [[Really Big Thumbs Up]].
 ## Licensing

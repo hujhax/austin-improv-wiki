@@ -1,3 +1,5 @@
+![[Pasta with a Chat.png]]
+
 ## Summary
 [[Pasta with a Chat]], performing at the 2011 [[ColdTowne]] Lock-In.
 

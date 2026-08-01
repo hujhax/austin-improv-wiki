@@ -1,3 +1,5 @@
+![[Waterpark Publicity.jpg]]
+
 ## Summary
 Publicity photo of [[Waterpark]].
 ## Licensing

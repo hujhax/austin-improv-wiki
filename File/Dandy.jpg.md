@@ -1,3 +1,5 @@
+![[Dandy.jpg]]
+
 ## Summary
 Photo of the only performance by [[Dandy]].
 

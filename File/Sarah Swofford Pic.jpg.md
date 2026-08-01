@@ -1,3 +1,5 @@
+![[Sarah Swofford Pic.jpg]]
+
 ## Summary
 [[Sarah Swofford]], on the red carpet at [[The 2013 Institution Theater Awards]].
 

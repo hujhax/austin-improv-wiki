@@ -1,3 +1,5 @@
+![[One More Night.gif]]
+
 ## Summary
 Promotional image for *[[One More Night]]*.
 

@@ -1,3 +1,5 @@
+![[Discomfort Trumpet.jpg]]
+
 ## Summary
 [[Discomfort Trumpet]], in their 8/31/10 performance at *[[The Cagematch]]*.
 

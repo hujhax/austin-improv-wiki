@@ -1,3 +1,5 @@
+![[Kaleidoscope.jpg]]
+
 ## Summary
 Publicity poster for *[[Kaleidoscope]]*.
 

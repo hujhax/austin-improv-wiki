@@ -1,3 +1,5 @@
+![[Sarah 7.jpg]]
+
 ## Summary
 Publicity photo of the 2011 lineup of [[Sarah 7]].
 

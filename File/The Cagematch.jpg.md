@@ -1,3 +1,5 @@
+![[The Cagematch.jpg]]
+
 ## Summary
 Publicity image for *[[The Cagematch]]*.
 

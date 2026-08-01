@@ -1,3 +1,5 @@
+![[The Better Half.jpg]]
+
 ## Summary
 [[The Better Half]] arrives on the red carpet at [[The 2013 Institution Theater Awards]].
 

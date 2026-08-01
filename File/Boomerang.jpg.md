@@ -1,3 +1,5 @@
+![[Boomerang.jpg]]
+
 ## Summary
 [[Boomerang]], at the 11/13/15 photobooth for [[Parallelogramophonograph]]'s 10th-anniversary bash.
 

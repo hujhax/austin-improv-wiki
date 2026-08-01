@@ -1,3 +1,5 @@
+![[Booker as Morbid.jpg]]
+
 ## Summary
 [[Tom Booker]], in character as Mister Morbid, during the 10/5/13 performance of [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 

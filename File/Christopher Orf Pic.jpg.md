@@ -1,3 +1,5 @@
+![[Christopher Orf Pic.jpg]]
+
 ## Summary
 [[Christopher Orf]], in the 7-29-06 performance of *[[Cops & Lawyers]]*.
 

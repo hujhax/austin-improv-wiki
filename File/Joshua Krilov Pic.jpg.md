@@ -1,3 +1,5 @@
+![[Joshua Krilov Pic.jpg]]
+
 ## Summary
 [[Joshua Krilov]], hosting *[[The Night Show]]* on 7/28/11.
 

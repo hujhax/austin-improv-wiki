@@ -1,3 +1,5 @@
+![[Fae.jpg]]
+
 ## Summary
 Preliminary poster art for *[[Fae]]*.
 

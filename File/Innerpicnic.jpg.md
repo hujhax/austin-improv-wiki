@@ -1,3 +1,5 @@
+![[Innerpicnic.jpg]]
+
 ## Summary
 Inner Picnic Profile Pic
 ## Licensing

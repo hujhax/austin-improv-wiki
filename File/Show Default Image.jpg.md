@@ -1,3 +1,5 @@
+![[Show Default Image.jpg]]
+
 ## Summary
 The default image for a show or theater.
 

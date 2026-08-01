@@ -1,3 +1,5 @@
+![[Slam Team Cartoon.png]]
+
 ## Summary
 Publicity art for *[[Slam Team Six]]*.
 

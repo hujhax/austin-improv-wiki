@@ -1,3 +1,5 @@
+![[Mark Shoemaker.jpg]]
+
 ## Summary
 Mark performing in Thinning the Herd at the Institution Theater.
 ## Licensing

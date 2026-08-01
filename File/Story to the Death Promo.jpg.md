@@ -1,3 +1,5 @@
+![[Story to the Death Promo.jpg]]
+
 ## Summary
 Promo banner image for the February 2018 run of *[[Story to the Death]]*.
 

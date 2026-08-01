@@ -1,3 +1,5 @@
+![[Wooden Nickel.jpg]]
+
 ## Summary
 Cast photo of [[Wooden Nickel]].
 

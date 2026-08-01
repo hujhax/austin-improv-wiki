@@ -1,3 +1,5 @@
+![[Austin's Next Top Improviser.jpg]]
+
 ## Summary
 Publicity poster for *[[Austin's Next Top Improviser]]*.
 

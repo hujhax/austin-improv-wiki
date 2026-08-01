@@ -1,3 +1,5 @@
+![[Sketchville.jpg]]
+
 ## Summary
 Opening title card for *[[Sketchville]]*.
 

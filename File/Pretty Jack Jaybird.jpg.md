@@ -1,3 +1,5 @@
+![[Pretty Jack Jaybird.jpg]]
+
 ## Summary
 Publicity photo of [[Pretty Jack Jaybird]].
 

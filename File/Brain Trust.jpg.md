@@ -1,3 +1,5 @@
+![[Brain Trust.jpg]]
+
 ## Summary
 A performance by [[Brain Trust]].
 

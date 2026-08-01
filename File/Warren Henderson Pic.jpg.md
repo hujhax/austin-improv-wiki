@@ -1,3 +1,5 @@
+![[Warren Henderson Pic.jpg]]
+
 ## Summary
 [[Warren Henderson]], performing in a student graduation show at [[The Hideout Theatre]] on 2/10/13.
 

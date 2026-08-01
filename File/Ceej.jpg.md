@@ -1,3 +1,5 @@
+![[Ceej.jpg]]
+
 ## Summary
 Photo of [[Christopher 'Ceej' Allen]] in the 5/26/12 performance of [[Maestro]].
 

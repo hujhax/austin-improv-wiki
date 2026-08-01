@@ -1,3 +1,5 @@
+![[Church Potluck.jpg]]
+
 ## Summary
 Publicity photo of [[Church Potluck]].
 

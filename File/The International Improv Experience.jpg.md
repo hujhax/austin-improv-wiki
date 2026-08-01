@@ -1,3 +1,5 @@
+![[The International Improv Experience.jpg]]
+
 ## Summary
 Poster for *[[The International Improv Experience]]*.
 

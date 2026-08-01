@@ -1,3 +1,5 @@
+![[Lights Up!.jpg]]
+
 ## Summary
 Publicity image for *[[Lights Up!]]*
 

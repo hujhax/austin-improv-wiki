@@ -1,3 +1,5 @@
+![[DancyStreet.jpg]]
+
 ## Summary
 Publicity photo of the improv troupe [[The Dancy Street D'Orchestra]].
 

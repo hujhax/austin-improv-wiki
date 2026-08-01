@@ -1,3 +1,5 @@
+![[Megan Venable Pic.jpg]]
+
 ## Summary
 [[Megan Venable]] performing in *[[The Next Chapter]]* on 6/21/13.
 

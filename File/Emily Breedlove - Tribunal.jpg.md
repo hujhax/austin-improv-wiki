@@ -1,3 +1,5 @@
+![[Emily Breedlove - Tribunal.jpg]]
+
 ## Summary
 [[Emily Breedlove]], performing in *[[The Tribunal]]* on 9/8/12.
 

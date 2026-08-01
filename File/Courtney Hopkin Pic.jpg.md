@@ -1,3 +1,5 @@
+![[Courtney Hopkin Pic.jpg]]
+
 ## Summary
 [[Courtney Hopkin]] performing with [[Your Terrific Neighbors]] in their 7/13/12 performance.
 

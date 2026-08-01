@@ -1,3 +1,5 @@
+![[TheeHotChicks.jpg]]
+
 ## Summary
 Promotional photo by [[Jon Bolden]].
 ## Licensing

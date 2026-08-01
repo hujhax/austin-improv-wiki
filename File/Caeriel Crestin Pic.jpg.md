@@ -1,3 +1,5 @@
+![[Caeriel Crestin Pic.jpg]]
+
 ## Summary
 [[Caeriel Crestin]], in the 5/26/12 performance of [[Rock]].
 

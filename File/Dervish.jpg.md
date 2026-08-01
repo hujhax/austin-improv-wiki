@@ -1,3 +1,5 @@
+![[Dervish.jpg]]
+
 ## Summary
 Publicity photo of [[Dervish]].
 

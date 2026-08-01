@@ -1,3 +1,5 @@
+![[Improvised Shakespeare.jpg]]
+
 ## Summary
 The closing jig from the 5/16/09 performance of *[[Improvised Shakespeare]]*.
 

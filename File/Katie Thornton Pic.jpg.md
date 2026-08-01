@@ -1,3 +1,5 @@
+![[Katie Thornton Pic.jpg]]
+
 ## Summary
 [[Katie Thornton]], performing in *[[Totally Improvised, 90210]]* on 8/12/11.
 

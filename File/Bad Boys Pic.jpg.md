@@ -1,3 +1,5 @@
+![[Bad Boys Pic.jpg]]
+
 ## Summary
 Publicity poster for [[Bad Boys]].
 

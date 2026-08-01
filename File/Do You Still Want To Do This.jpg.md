@@ -1,3 +1,5 @@
+![[Do You Still Want To Do This.jpg]]
+
 ## Summary
 Publicity photo for [[Do You Still Want To Do This]].
 

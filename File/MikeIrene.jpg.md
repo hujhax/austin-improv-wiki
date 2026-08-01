@@ -1,3 +1,5 @@
+![[MikeIrene.jpg]]
+
 ## Summary
 [[Mike and Irene]], performing at [[The Hideout Theatre]].
 

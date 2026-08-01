@@ -1,3 +1,5 @@
+![[Kenjutsu.jpg]]
+
 ## Summary
 Poster for *[[Kenjutsu]]* by [[Kaci Beeler]].
 ## Licensing

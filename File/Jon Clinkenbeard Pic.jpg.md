@@ -1,3 +1,5 @@
+![[Jon Clinkenbeard Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Jon Clinkenbeard]] for *[[The Violet Underbelly]]*.
 

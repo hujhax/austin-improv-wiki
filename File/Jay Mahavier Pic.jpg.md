@@ -1,3 +1,5 @@
+![[Jay Mahavier Pic.jpg]]
+
 ## Summary
 Publicity photo of [[Jay Mahavier]] for *[[Fiasco]]*.
 

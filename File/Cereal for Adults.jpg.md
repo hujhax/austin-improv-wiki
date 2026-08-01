@@ -1,3 +1,5 @@
+![[Cereal for Adults.jpg]]
+
 ## Summary
 Publicity poster for *[[Cereal for Adults]]*.
 

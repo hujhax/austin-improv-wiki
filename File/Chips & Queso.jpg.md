@@ -1,3 +1,5 @@
+![[Chips & Queso.jpg]]
+
 ## Summary
 Publicity photo of [[Chips & Queso]].
 

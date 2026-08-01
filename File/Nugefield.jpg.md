@@ -1,3 +1,5 @@
+![[Nugefield.jpg]]
+
 ## Summary
 [[Nugefield]] performing in [[Love Fest]] at [[The Institution Theater]] on 2/8/13.
 

@@ -1,3 +1,5 @@
+![[Strange Worlds Heroes Drawing.jpg]]
+
 ## Summary
 A drawing of the cast of heroes from *[[Strange Worlds]]*.
 

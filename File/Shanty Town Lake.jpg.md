@@ -1,3 +1,5 @@
+![[Shanty Town Lake.jpg]]
+
 ## Summary
 Publicity poster for *[[Shanty Town Lake]]*.
 

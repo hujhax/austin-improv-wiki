@@ -1,3 +1,5 @@
+![[Firth & Arjet Pic.jpg]]
+
 ## Summary
 [[Firth & Arjet]] perform their "Always a Bridesmaid" format in their final appearance at *[[The Free Fringe]]* on 8/9/12.
 

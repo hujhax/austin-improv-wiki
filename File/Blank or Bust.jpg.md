@@ -1,3 +1,5 @@
+![[Blank or Bust.jpg]]
+
 ## Summary
 Publicity image for [[' ' or Bust!]]
 

@@ -1,3 +1,5 @@
+![[Heather Hasselle Pic.jpg]]
+
 ## Summary
 [[Heather Hasselle]] in the 3/7/15 performance of *[[Austin Secrets]]*.
 

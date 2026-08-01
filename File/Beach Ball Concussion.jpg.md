@@ -1,3 +1,5 @@
+![[Beach Ball Concussion.jpg]]
+
 ## Summary
 Publicity photo for [[Beach Ball Concussion]].
 

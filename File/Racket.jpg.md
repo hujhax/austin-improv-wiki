@@ -1,3 +1,5 @@
+![[Racket.jpg]]
+
 ## Summary
 Publicity image for *[[Racket]]*.
 

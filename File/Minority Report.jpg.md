@@ -1,3 +1,5 @@
+![[Minority Report.jpg]]
+
 ## Summary
 Publicity image of [[Minority Report]].
 ## Licensing

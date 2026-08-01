@@ -1,3 +1,5 @@
+![[Suzanne Link Pic.jpg]]
+
 ## Summary
 [[Suzanne Link]], in the 5/2/15 performance of *[[Golden (mainstage)|Golden]]*.
 

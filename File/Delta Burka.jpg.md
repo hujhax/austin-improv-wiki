@@ -1,3 +1,5 @@
+![[Delta Burka.jpg]]
+
 ## Summary
 Publicity photo of [[Delta Burka]].
 

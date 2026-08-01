@@ -1,3 +1,5 @@
+![[Skutch.jpg]]
+
 ## Summary
 Publicity photo of [[Skutch]].
 ## Licensing

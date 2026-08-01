@@ -1,3 +1,5 @@
+![[You Me & Greg.jpg]]
+
 ## Summary
 Publicity photo of [[You, Me, and Greg]].
 

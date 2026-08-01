@@ -1,3 +1,5 @@
+![[Brick vs. Mongoose.jpg]]
+
 ## Summary
 Photo of [[Brick vs. Mongoose]].
 

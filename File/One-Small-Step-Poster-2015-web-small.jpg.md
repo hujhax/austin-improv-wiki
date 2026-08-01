@@ -1,3 +1,5 @@
+![[One-Small-Step-Poster-2015-web-small.jpg]]
+
 ## Summary
 One Small Step poster (Design by Kaci Beeler, photo by Steve Rogers)
 ## Licensing

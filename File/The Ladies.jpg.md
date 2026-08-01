@@ -1,3 +1,5 @@
+![[The Ladies.jpg]]
+
 ## Summary
 Publicity image for [[The Ladies]].
 

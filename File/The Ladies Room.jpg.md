@@ -1,3 +1,5 @@
+![[The Ladies Room.jpg]]
+
 ## Summary
 Poster for *[[The Ladies Room]]*.
 

@@ -1,3 +1,5 @@
+![[Edit Button.jpg]]
+
 ## Summary
 Screencap by [[Peter Rogers]] indicating where the edit button is.
 ## Licensing

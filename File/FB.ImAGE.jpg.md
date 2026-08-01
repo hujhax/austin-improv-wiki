@@ -1,3 +1,5 @@
+![[FB.ImAGE.jpg]]
+
 ## Summary
 [[RhinoDino]] logo designed by [[Lacy Shawn]].
 

@@ -1,3 +1,5 @@
+![[Reframed.jpg]]
+
 ## Summary
 Publicity image for *[[Reframed]]*.
 

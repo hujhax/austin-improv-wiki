@@ -1,3 +1,5 @@
+![[That Racket!.jpg]]
+
 ## Summary
 Publicity photo of [[That Racket!]]
 

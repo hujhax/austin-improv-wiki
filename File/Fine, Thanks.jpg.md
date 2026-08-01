@@ -1,3 +1,5 @@
+![[Fine, Thanks.jpg]]
+
 ## Summary
 Publicity image of [[Fine, Thanks]].
 

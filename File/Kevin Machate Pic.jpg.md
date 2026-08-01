@@ -1,3 +1,5 @@
+![[Kevin Machate Pic.jpg]]
+
 ## Summary
 [[Kevin Machate]], appearing as Dr. Cox in *[[Live TV Tuesdays -  Scrubs]]*.
 
