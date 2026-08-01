@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Elevator Action.jpg">Elevator Action.jpg</a>
+				![[Elevator Action.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -91,14 +91,14 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/23461580 Video] by [[Lance Gilstrap]] of an April 2011 show at [[The Hideout Theatre]].
-* [http://vimeo.com/29301143 Video] by [[Liz Brammer]] of their September (or October?) 2011 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/23461580) by [[Lance Gilstrap]] of an April 2011 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/29301143) by [[Liz Brammer]] of their September (or October?) 2011 show at [[The Hideout Theatre]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/pages/Elevator-Action/118653538185457 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Elevator-Action/118653538185457)
 
 
 [[Category/Troupes|Category:Troupes]]

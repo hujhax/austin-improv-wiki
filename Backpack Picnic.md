@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Backpack Picnic.jpg">Backpack Picnic.jpg</a>
+				![[Backpack Picnic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,23 +84,23 @@ After going dormant in 2008, the troupe performed several reunion shows for [[Th
 
 ## Media
 ### Videos
-* [http://blip.tv/out-of-bounds-comedy-festival/backpack-picnic-sat-10pm-svt-apples-stage-1238295 Video] of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/backpack-picnic-sat-10pm-svt-apples-stage-1238295) of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 #### Sketches
-* [http://youtu.be/G2mBcsGM95Y "Suppression Bakery"]
-* [http://youtu.be/_HqLrH2gzsk "Suppression Sequel"]
-* [http://youtu.be/Kq7xUjzWIL4 "Gay Adoption"]
-* [http://youtu.be/lbT73X2weB0 "Hypothetical Stuff"]
-* [http://youtu.be/f-LsjFM2DHg "Meet the Rickies"]
-* [http://youtu.be/UBljCcJ4LvE "Lamborghini Poster"]
+* ["Suppression Bakery"](http://youtu.be/G2mBcsGM95Y)
+* ["Suppression Sequel"](http://youtu.be/_HqLrH2gzsk)
+* ["Gay Adoption"](http://youtu.be/Kq7xUjzWIL4)
+* ["Hypothetical Stuff"](http://youtu.be/lbT73X2weB0)
+* ["Meet the Rickies"](http://youtu.be/f-LsjFM2DHg)
+* ["Lamborghini Poster"](http://youtu.be/UBljCcJ4LvE)
 
 ### Photos
-* [http://www.flickr.com/photos/oob_pics/sets/72157606947626225 Photoset] that includes their performance in [[The 2008 Out of Bounds Comedy Festival]].
-* [http://www.flickr.com/photos/hujhax/sets/72157635322943322 Photoset] by [[Peter Rogers]] of their 8/30/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157606947626225) that includes their performance in [[The 2008 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/hujhax/sets/72157635322943322) by [[Peter Rogers]] of their 8/30/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://en.wikipedia.org/wiki/Backpack_Picnic The duo's wikipedia page.]
-* [http://www.austinchronicle.com/screens/2008-05-02/618741/ An article about the troupe] in *[[Wikipedia - The Austin Chronicle|The Austin Chronicle]]*.
+* [The duo's wikipedia page.](http://en.wikipedia.org/wiki/Backpack_Picnic)
+* [An article about the troupe](http://www.austinchronicle.com/screens/2008-05-02/618741/) in *[[Wikipedia - The Austin Chronicle|The Austin Chronicle]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

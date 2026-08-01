@@ -1,7 +1,7 @@
 ## Summary
 The final performance from [[$10 Bourbon]], at [[The 2008 Out of Bounds Comedy Festival]].
 
-Photo by: unknown, from this [http://www.flickr.com/photos/oob_pics/sets/72157606947457587 photoset]. 
+Photo by: unknown, from this [photoset](http://www.flickr.com/photos/oob_pics/sets/72157606947457587). 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

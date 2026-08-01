@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Liz Brammer Pic.jpg">Liz Brammer Pic.jpg</a>
+				![[Liz Brammer Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -47,6 +47,6 @@ In 2012, Liz moved to Seattle.
 * *[[ColdTowne Mainstage]]*
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041256 Interview] with Liz on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041256) with Liz on *[[The Theft Forum]]*.
 
 [[Category/Performers|Brammer]]

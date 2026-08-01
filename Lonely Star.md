@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Lonely Star Poster.jpg">Lonely Star Poster.jpg</a>
+				![[Lonely Star Poster.jpg]]
 			</td>
 		</tr>
 
@@ -167,14 +167,14 @@
 
 ## Media
 ### Videos
-* [http://vimeo.com/145743965 Video of the 11/6/15 show.] "The Coin Job"
-* [http://vimeo.com/145736214 Video of the 11/7/15 show.] "The Red Job"
-* [http://vimeo.com/145750522 Video of the 11/13/15 show.] "The Wild Card Job"
-* [http://vimeo.com/145761368 Video of the 11/14/15 show.] "The Parrish Job"
-* [http://vimeo.com/146510358 Video of the 11/20/15 show.] "The Pesky Job"
-* [http://vimeo.com/146593526 Video of the 11/21/15 show.] "The Camaraderie Job"
+* [Video of the 11/6/15 show.](http://vimeo.com/145743965) "The Coin Job"
+* [Video of the 11/7/15 show.](http://vimeo.com/145736214) "The Red Job"
+* [Video of the 11/13/15 show.](http://vimeo.com/145750522) "The Wild Card Job"
+* [Video of the 11/14/15 show.](http://vimeo.com/145761368) "The Parrish Job"
+* [Video of the 11/20/15 show.](http://vimeo.com/146510358) "The Pesky Job"
+* [Video of the 11/21/15 show.](http://vimeo.com/146593526) "The Camaraderie Job"
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=18234 The audition announcement] on [[The Austin Improv Forums]].
+* [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=18234) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

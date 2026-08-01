@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Drew Wesely Pic.jpg">Drew Wesely Pic.jpg</a>
+				![[Drew Wesely Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -68,12 +68,12 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * *[[Victrola]]* (The Bat format) (Performed in Frontera Fest)
 
 ## External Links
-* [https://www.instagram.com/drewimprovgym/?hl=en Drew's Gym Instagram] 
-* [https://www.instagram.com/switchblade.improv/ Switchblade Instagram]
-* [https://www.facebook.com/NiceAstronaut Nice Astronaut Facebook Page]
-* [https://www.facebook.com/pages/Whats-the-Story-Steve/339233816110601 What's the Story, Steve? Facebook Page]
-* [http://www.coldtownetheater.com/austincomedy/performers?uid=63 ColdTowne Performers Page]
-* [https://www.imdb.com/name/nm1153035/?ref_=nv_sr_1 Andrew Wesely IMDB Page]
+* [Drew's Gym Instagram](https://www.instagram.com/drewimprovgym/?hl=en) 
+* [Switchblade Instagram](https://www.instagram.com/switchblade.improv/)
+* [Nice Astronaut Facebook Page](https://www.facebook.com/NiceAstronaut)
+* [What's the Story, Steve? Facebook Page](https://www.facebook.com/pages/Whats-the-Story-Steve/339233816110601)
+* [ColdTowne Performers Page](http://www.coldtownetheater.com/austincomedy/performers?uid=63)
+* [Andrew Wesely IMDB Page](https://www.imdb.com/name/nm1153035/?ref_=nv_sr_1)
 
 [[Category/Performers|Wesely]]
 [[Category/Teachers|Wesely]]

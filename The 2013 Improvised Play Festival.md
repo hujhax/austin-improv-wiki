@@ -27,4 +27,4 @@ It ran from 4/11/13 to 4/13/13.
 * Ten Thousand Million Love Stories (UK)
 
 ## More Information
-* [http://www.improvisedplayfestival.com/about/schedule/ The festival schedule.]
+* [The festival schedule.](http://www.improvisedplayfestival.com/about/schedule/)

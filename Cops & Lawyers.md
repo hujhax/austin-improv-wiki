@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Cops & Lawyers Pic.jpg">Cops & Lawyers Pic.jpg</a>
+				![[Cops & Lawyers Pic.jpg]]
 			</td>
 		</tr>
 
@@ -153,9 +153,9 @@ Like its source material, a *Cops & Lawyers* performance followed one crime, and
 The show ran from 7/29/06 to 9/30/06.
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.10151697338427265.1073741827.588952264&type=3 Photoset of the 7/29/06 performance] by [[Marc Majcher]].
-* [http://vimeo.com/66367260 A one-minute video excerpt from the 7/29/06 performance], shot by [[Marc Majcher]].
-* [http://www.facebook.com/media/set/?set=a.10151697344967265.1073741828.588952264&type=3 Photoset of the 8/12/06 performance] by [[Marc Majcher]].
+* [Photoset of the 7/29/06 performance](http://www.facebook.com/media/set/?set=a.10151697338427265.1073741827.588952264&type=3) by [[Marc Majcher]].
+* [A one-minute video excerpt from the 7/29/06 performance](http://vimeo.com/66367260), shot by [[Marc Majcher]].
+* [Photoset of the 8/12/06 performance](http://www.facebook.com/media/set/?set=a.10151697344967265.1073741828.588952264&type=3) by [[Marc Majcher]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

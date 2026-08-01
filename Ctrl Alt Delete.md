@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Ctrl Alt Delete.jpg">Ctrl Alt Delete.jpg</a>
+				![[Ctrl Alt Delete.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -79,7 +79,7 @@
 
 ## Media
 ### Videos
-* [http://vimeo.com/91532401 Video] by [[Kyle Sweeney]] of their 3/27/14 show.
+* [Video](http://vimeo.com/91532401) by [[Kyle Sweeney]] of their 3/27/14 show.
 
 
 [[Category/Active|Category:Active]]

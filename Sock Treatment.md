@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Sock Treatment.jpg">Sock Treatment.jpg</a>
+				![[Sock Treatment.jpg]]
 			</td>
 		</tr>
 
@@ -103,4 +103,4 @@
 This was a forty-minute show with games, scenes, and audience participation.  It had a cast comprising the female cast members from *[[Crack!]]*, plus special guest [[Shana Merlin]].  The show was filmed with the hopes of getting into [[LAFF]].
 
 ## More Information
-* [http://puppetimprovproject.org/sock-treatment.html The show's web page.]
+* [The show's web page.](http://puppetimprovproject.org/sock-treatment.html)

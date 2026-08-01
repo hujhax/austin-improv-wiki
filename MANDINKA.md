@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Mandinka.jpg">Mandinka.jpg</a>
+				![[Mandinka.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,16 +85,16 @@ Here is [[Andrew Buck]]'s explanation of the name's origin:<blockquote>Mandinka 
 
 ## Media
 ### Videos
-* [http://vimeo.com/55258511 Their 12/7/12 show] at *[[The Threefer]]*.
-* [http://vimeo.com/66537082 Their 5/17/13 show] in *[[2x4]]*.
+* [Their 12/7/12 show](http://vimeo.com/55258511) at *[[The Threefer]]*.
+* [Their 5/17/13 show](http://vimeo.com/66537082) in *[[2x4]]*.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200768887327275.1073741863.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/1/13 performance in *[[PGraph Presents]]*.
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152566583992107.1073741841.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203172527696782.1073741921.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/18/14 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200768887327275.1073741863.1315383518&type=3) by [[Michael Yew]] that includes their 11/1/13 performance in *[[PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152566583992107.1073741841.549002106&type=3) by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203172527696782.1073741921.1315383518&type=3) by [[Michael Yew]] that includes their 12/18/14 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/mandinkaimprov The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/mandinkaimprov)
 
 [[Category/Duos|Category:Duos]]
 [[Category/Active|Category:Active]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Blood, Sweat, and Cheers pic.jpg">Blood, Sweat, and Cheers pic.jpg</a>
+				![[Blood, Sweat, and Cheers pic.jpg]]
 			</td>
 		</tr>
 
@@ -133,25 +133,25 @@ Several cast members played as an exhibition team in *[[Theatresports]]* on 5/25
 
 ## Media
 ### Videos
-* [http://vimeo.com/67621275 Video of 6/2/13 show.]
-* [http://vimeo.com/68640834 Video of 6/6/13 show.]
+* [Video of 6/2/13 show.](http://vimeo.com/67621275)
+* [Video of 6/6/13 show.](http://vimeo.com/68640834)
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.579015915453241.1073741841.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their 5/31/13 performance.
-* [http://www.facebook.com/media/set/?set=a.546330938763760.1073741876.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/2/13 performance.
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the 6/6/13 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.4862013230937.1073741838.1315383518&type=3 Photoset] by [[Michael Yew]] of their 6/8/13 performance.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.579015915453241.1073741841.100000345135257&type=3) by [[Claudio Fox]] of their 5/31/13 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.546330938763760.1073741876.221927764537414&type=3) by [[Steve Rogers]] of their 6/2/13 performance.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Heidi Rogers]] that includes the 6/6/13 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4862013230937.1073741838.1315383518&type=3) by [[Michael Yew]] of their 6/8/13 performance.
 
 ### Publicity
-* [http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3 Promo photo shoot] by [[Jon Bolden]].
+* [Promo photo shoot](http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3) by [[Jon Bolden]].
 
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/bsc-cheer-number/bsc-cheer-number.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/bsc-cheer-number/bsc-cheer-number.jpg?disposition=download) of [[Kaci Beeler]]'s set design.
 
 ## More Information
-* [http://www.austincheershow.com/Austin_Cheer_Show/Welcome.html The show's web site.]
-* [http://www.kickstarter.com/projects/kacibeeler/it-takes-blood-sweat-and-cheers-to-make-theater The show's kickstarter.]
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=15140 "Save the date" post] on [[The AIC Forums]].
-* [http://austincheershow.blogspot.com/ The show's blog.]
-* [http://kut.org/2013/05/204801/ An interview about the play] with [[Kaci Beeler]] and [[Halyn Erickson]] on KUT's *Arts Eclectic*.
-* [http://www.mystatesman.com/news/entertainment/like-a-local-kaci-beeler-cheers-for-some-laughs/nX5Bx/ An interview] with [[Kaci Beeler]] in *The Austin-American Statesman*.
+* [The show's web site.](http://www.austincheershow.com/Austin_Cheer_Show/Welcome.html)
+* [The show's kickstarter.](http://www.kickstarter.com/projects/kacibeeler/it-takes-blood-sweat-and-cheers-to-make-theater)
+* ["Save the date" post](http://forum.austinimprov.com/viewtopic.php?f=2&t=15140) on [[The AIC Forums]].
+* [The show's blog.](http://austincheershow.blogspot.com/)
+* [An interview about the play](http://kut.org/2013/05/204801/) with [[Kaci Beeler]] and [[Halyn Erickson]] on KUT's *Arts Eclectic*.
+* [An interview](http://www.mystatesman.com/news/entertainment/like-a-local-kaci-beeler-cheers-for-some-laughs/nX5Bx/) with [[Kaci Beeler]] in *The Austin-American Statesman*.

@@ -1,5 +1,5 @@
 ## Summary
-Publicity image for [[Foolish Mortals]], taken from [http://foolishmortals.austinimprov.com/ the troupe's web site].
+Publicity image for [[Foolish Mortals]], taken from [the troupe's web site](http://foolishmortals.austinimprov.com/).
 
 Photo by: unknown.
 ## Licensing

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Kevin Miller.jpg">Kevin Miller.jpg</a>
+				![[Kevin Miller.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -59,7 +59,7 @@ Show #3 was [[Andy Crouch|Andy]]'s graduation show, fall 2001. I started Level O
 * *[[Over the Lege]]* (assistant director/performer)
 
 ## More Information
-* [http://yesandrew.com/2013/06/24/the-sunday-interview-kevin-miller-2/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/2013/06/24/the-sunday-interview-kevin-miller-2/) by [[Andrew Buck]].
 
 [[Category/Performers|Miller]]
 [[Category/Teachers|Miller]]

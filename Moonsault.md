@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Moonsault.jpg">Moonsault.jpg</a>
+				![[Moonsault.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,6 +89,6 @@ Feats and accomplishments:
 None of this is a joke. Stop editing this page or Moonsault gon' getcha.
 
 ## More Information
-* [http://twitter.com/moonsaultcomedy The troupe's twitter feed.]
+* [The troupe's twitter feed.](http://twitter.com/moonsaultcomedy)
 
 [[Category/Troupes|Category:Troupes]]

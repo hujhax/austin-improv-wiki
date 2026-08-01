@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Ruby Willmann.jpg">Ruby Willmann.jpg</a>
+				![[Ruby Willmann.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -57,7 +57,7 @@ Ruby Willmann started taking improv classes after seeing a [[Parallelogramophono
 * *[[What the F@$]]* *(director)*
 
 ## More Information
-* [http://yesandrew.com/sunday-interview-ruby-willmann/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/sunday-interview-ruby-willmann/) by [[Andrew Buck]].
 
 [[Category/Performers|Willmann]]
 [[Category/Teachers|Willmann]]

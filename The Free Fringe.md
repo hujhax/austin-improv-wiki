@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Free Fringe Poster.jpg">Free Fringe Poster.jpg</a>
+				![[Free Fringe Poster.jpg]]
 			</td>
 		</tr>
 
@@ -54,14 +54,14 @@ The show is hosted by [[Jessica Arjet]].   [[Firth & Arjet]] was the *Free Fring
 Many of the experiments put up for the Free Fringe have met with unexpected success and become recurring shows.
 
 ## History
-The Fringe premiered on 1/5/12, shortly after [[Parallelogramophonograph]] travelled to the Edinburgh Fringe Festival, and is patterned after that festival's own Free Fringe.[http://freefringe.org.uk/]
+The Fringe premiered on 1/5/12, shortly after [[Parallelogramophonograph]] travelled to the Edinburgh Fringe Festival, and is patterned after that festival's own Free Fringe.[http://freefringe.org.uk/](http://freefringe.org.uk/)
 
 For a list of all formats performed in *The Free Fringe*, see the [[List of Free Fringes]], which also includes all posted media of the show.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/thefreefringe The show's site.]
-* [http://forum.austinimprov.com/viewtopic.php?t=12821 The initial call for submissions.]
-* [http://docs.google.com/spreadsheet/viewform?formkey=dEhZLV9GVEpjSlhZN0Z0VjZlNklTU3c6MQ The Free Fringe Idea Submission Form.]
+* [The show's site.](http://www.hideouttheatre.com/shows/thefreefringe)
+* [The initial call for submissions.](http://forum.austinimprov.com/viewtopic.php?t=12821)
+* [The Free Fringe Idea Submission Form.](http://docs.google.com/spreadsheet/viewform?formkey=dEhZLV9GVEpjSlhZN0Z0VjZlNklTU3c6MQ)
 
 [[Category/Shows|Free Fringe]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Antique Limax.jpg">Antique Limax.jpg</a>
+				![[Antique Limax.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 9/16/10 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3) by [[Roy Moore]] that includes their 9/16/10 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.antiquelimax.com The troupe's web site.]
+* [The troupe's web site.](http://www.antiquelimax.com)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

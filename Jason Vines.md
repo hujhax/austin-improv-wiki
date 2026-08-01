@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Jason Vines Pic.jpg">Jason Vines Pic.jpg</a>
+				![[Jason Vines Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -56,7 +56,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I used to
 
 ## Media
 ### Videos
-* The [http://vimeo.com/78187121 "Human Clay" show he directed] on 6/23/13 for [[The 44-Hour Improv Marathon]].
-* [http://youtu.be/3MG9MHm3jAo His audition video] for the makeup-artist-competition show *[[Wikipedia - Face Off (TV series)|Face Off]]*.
+* The ["Human Clay" show he directed](http://vimeo.com/78187121) on 6/23/13 for [[The 44-Hour Improv Marathon]].
+* [His audition video](http://youtu.be/3MG9MHm3jAo) for the makeup-artist-competition show *[[Wikipedia - Face Off (TV series)|Face Off]]*.
 
 [[Category/Performers|Vines]]

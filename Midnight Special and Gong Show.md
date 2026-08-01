@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Midnight Special and Gong Show.jpg">Midnight Special and Gong Show.jpg</a>
+				![[Midnight Special and Gong Show.jpg]]
 			</td>
 		</tr>
 
@@ -48,6 +48,6 @@
 Performers of all types come to do five minutes of material.  If judges consider the act to be particularly bad, that act is cut short.
 
 ## More Information
-* [http://www.coldtownetheater.com/events/midnight-special-gong-show The show's web page.]
+* [The show's web page.](http://www.coldtownetheater.com/events/midnight-special-gong-show)
 
 [[Category/Shows|Category:Shows]]

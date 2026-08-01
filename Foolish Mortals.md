@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Foolish Mortals.jpg">Foolish Mortals.jpg</a>
+				![[Foolish Mortals.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,6 +86,6 @@ The troupe formed with a large number of improvisors, but quickly reduced down t
 * [[Ed Piston]] (2003-2006)
 
 ## More Information
-* [http://foolishmortals.austinimprov.com/ The troupe's web site.]
+* [The troupe's web site.](http://foolishmortals.austinimprov.com/)
 
 [[Category/Troupes|Category:Troupes]]

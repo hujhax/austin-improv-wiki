@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Movie Riot.jpg">Movie Riot.jpg</a>
+				![[Movie Riot.jpg]]
 			</td>
 		</tr>
 
@@ -102,23 +102,23 @@ You can see this band of brothers every week in their acclaimed improv showcase 
 
 ## Media
 ### Videos
-* [http://vimeo.com/105045815 Video] by [[Kyle Sweeney]] of their "Shark Island" show at [[The 2014 Out of Bounds Comedy Festival]] (uploaded )
+* [Video](http://vimeo.com/105045815) by [[Kyle Sweeney]] of their "Shark Island" show at [[The 2014 Out of Bounds Comedy Festival]] (uploaded )
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
-* [http://www.facebook.com/media/set/?set=a.1033833950013454.1073742246.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/4/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1033833950013454.1073742246.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/4/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Publicity
-* [http://vimeo.com/67691335 Promo #1.]
-* [http://vimeo.com/67691955 Promo #2.]
-* [http://vimeo.com/67692334 Promo #3.]
-* [http://vimeo.com/67702525 Promo #4.]
-* [http://vimeo.com/67703388 Promo #5.]
-* [http://vimeo.com/67930299 Promo #6.]
-* [http://vimeo.com/67994283 Promo #7.]
+* [Promo #1.](http://vimeo.com/67691335)
+* [Promo #2.](http://vimeo.com/67691955)
+* [Promo #3.](http://vimeo.com/67692334)
+* [Promo #4.](http://vimeo.com/67702525)
+* [Promo #5.](http://vimeo.com/67703388)
+* [Promo #6.](http://vimeo.com/67930299)
+* [Promo #7.](http://vimeo.com/67994283)
 
 ## More Information
-* [http://www.coldtownetheater.com/blog/movie-movie-returns The show's web page.]
+* [The show's web page.](http://www.coldtownetheater.com/blog/movie-movie-returns)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

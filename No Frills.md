@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="No Frills.jpg">No Frills.jpg</a>
+				![[No Frills.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,15 +80,15 @@
 After rehearsing together at [[The Institution Theater]] in the summer of 2013, they had a soft debut at the Institution's *[[Rubber Room]]* on 7/7/13, and then had their official debut at [[ColdTowne Theater]] on 9/2/13 (taking the suggestion "Laundromat"). They have since performed at [[The Hideout Theatre]] in *[[The Threefer]]* and at [[The Institution Theater]] in *[[The Triple Scoop]]*.
 
 ## More Information
-* [http://www.facebook.com/NoFrillsAustin?ref=br_rs The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/NoFrillsAustin?ref=br_rs)
 
 ## Media
 ### Videos
-* [http://vimeo.com/78203344 Video] by [[Brad Hawkins]] of their 8/28/13 performance at [[ColdTowne Theater]] ("Subway").
+* [Video](http://vimeo.com/78203344) by [[Brad Hawkins]] of their 8/28/13 performance at [[ColdTowne Theater]] ("Subway").
 
 ### Photos
-* [http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/No-Frills/ Photoset] by [[Chad Wellington]] of their 10/18/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 10/28/13 show.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/No-Frills/) by [[Chad Wellington]] of their 10/18/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Heidi Rogers]] that includes their 10/28/13 show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

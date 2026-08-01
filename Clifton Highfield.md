@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Clifton Highfield Pic.jpg">Clifton Highfield Pic.jpg</a>
+				![[Clifton Highfield Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -37,7 +37,7 @@ Clifton Highfield has over 15 years of improv experience. His Austin improv expe
 * *[[The Suitcase]]*
 
 ## More Information
-* [http://archive.org/details/ScottHearneTheTheftForum-CliftonHighfield-Episode3 Interview] with Clifton on *[[The Theft Forum]]*.
+* [Interview](http://archive.org/details/ScottHearneTheTheftForum-CliftonHighfield-Episode3) with Clifton on *[[The Theft Forum]]*.
 
 [[Category/Teachers|Highfield]]
 [[Category/Performers|Highfield]]

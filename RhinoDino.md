@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="FB.ImAGE.jpg">FB.ImAGE.jpg</a>
+				![[FB.ImAGE.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -142,8 +142,8 @@ Trinoceros: This is a deconstruction of the naive game 3 Things and has gone thr
 
 ## Media
 ### Videos
-* [http://vimeo.com/49566134 Video] by [[Dave Alley]] of their 9/15/12 show.
-* [http://vimeo.com/59737833 Video] by [[Paul Normandin]] of their 2/3/13 performance in *[[The Weekender]]*.
+* [Video](http://vimeo.com/49566134) by [[Dave Alley]] of their 9/15/12 show.
+* [Video](http://vimeo.com/59737833) by [[Paul Normandin]] of their 2/3/13 performance in *[[The Weekender]]*.
 
 ### Press
 ***Who Are We?**
@@ -154,7 +154,7 @@ Rhinodino delights in dissecting games to find out what makes them tick and then
 Rhinodino is the joining of 4 friends who love shortform and exploring games in an innovative way. Courtney Hopkin, Kyle Traughber, Lacy Shawn, and Quinn Buckner combine to form a robot dinosaur capable of blowing your socks off. Physicality, theatricality, sentimentality, practicality all these words end in -ality and represent just a portion of the skills Rhinodino possess when performing their monthly show. Together for over almost 3 years they delight in dissecting games to find out what makes them tick and then exploding them out in unique styles for the audience to experience. Head of a rhino body of a dino its Rhinodino!
 
 ## More Information
-* [http://www.facebook.com/rhinodinorhinodino Their facebook page.]
+* [Their facebook page.](http://www.facebook.com/rhinodinorhinodino)
 * Shows always posted on Do512.com (Search Rhinodino)
 
 [[Category/Active|Category:Active]]

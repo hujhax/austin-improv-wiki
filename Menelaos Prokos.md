@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Performer Default Image.png">Performer Default Image.png</a>
+				![[Performer Default Image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -27,7 +27,7 @@
 * [[The Foreign Legion]]
 
 ## More Information
-* [http://improvibe.gr/?lang=en ImproVibe]
+* [ImproVibe](http://improvibe.gr/?lang=en)
 
 [[Category/Performers|Prokos]]
 [[Category/Photographers|Prokos]]

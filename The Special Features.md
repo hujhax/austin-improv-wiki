@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Special Features 1.jpg">The Special Features 1.jpg</a>
+				![[The Special Features 1.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@
 The Special Features have played at [[The Hideout Theatre]] and [[ColdTowne Theater]].
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 4/3/14 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[The Threefer]]*.
 
 [[Category/Troupes|Special Features]]
 [[Category/Active|Special Features]]

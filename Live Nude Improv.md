@@ -7,7 +7,7 @@ __NOINDEX__
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live Nude Improv Performance.jpg">Live Nude Improv Performance.jpg</a>
+				![[Live Nude Improv Performance.jpg]]
 			</td>
 		</tr>
 
@@ -157,22 +157,22 @@ After the end of its run, *Live Nude Improv* discussed doing subsequent runs, bu
 Videography was expressly forbidden at *Live Nude Improv*, so there are no extant videos of the show.
 
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.139842526096779.38179.100002130980897&type=3 A SFW photoset] by [[Steve Rogers]] of the 7/9/11 show.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.143207455760286.39010.100002130980897&type=3 A SFW photoset] by [[Steve Rogers]] of the 7/16/11 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1892337190892.93012.1315383518&type=3 A SFW photoset] by [[Michael Yew]] of the 7/30/11 show.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.152074441540254.40967.100002130980897&type=3 A SFW photoset] by [[Steve Rogers]] of the 8/6/11 show.
-* [http://www.facebook.com/Jonbolden/media_set?set=a.557996094953.2045843.76200304&type=3 A SFW photoset] by [[Jon Bolden]] of the 8/20/11 show.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.162739760473722.43226.100002130980897&type=3 A SFW photoset] by [[Steve Rogers]] of the 8/27/11 show.
-* [http://www.facebook.com/media/set/?set=a.525820724148115.1073741858.221927764537414&type=3 A SFW photoset] by [[Steve Rogers]] of their 4/13/13 performance at [[The 2013 Improvised Play Festival]].
+* [A SFW photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.139842526096779.38179.100002130980897&type=3) by [[Steve Rogers]] of the 7/9/11 show.
+* [A SFW photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.143207455760286.39010.100002130980897&type=3) by [[Steve Rogers]] of the 7/16/11 show.
+* [A SFW photoset](http://www.facebook.com/michael.yew/media_set?set=a.1892337190892.93012.1315383518&type=3) by [[Michael Yew]] of the 7/30/11 show.
+* [A SFW photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.152074441540254.40967.100002130980897&type=3) by [[Steve Rogers]] of the 8/6/11 show.
+* [A SFW photoset](http://www.facebook.com/Jonbolden/media_set?set=a.557996094953.2045843.76200304&type=3) by [[Jon Bolden]] of the 8/20/11 show.
+* [A SFW photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.162739760473722.43226.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show.
+* [A SFW photoset](http://www.facebook.com/media/set/?set=a.525820724148115.1073741858.221927764537414&type=3) by [[Steve Rogers]] of their 4/13/13 performance at [[The 2013 Improvised Play Festival]].
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/livenudeimprov The show's web site.]
-* [http://www.hideouttheatre.com/thoughts-on-live-nude-improv "Thoughts on Live Nude Improv"]: a blog post interviewing the cast on why they chose to participate in *Live Nude Improv*.
-* [http://www.hideouttheatre.com/nuderangersassemble "Nude Rangers: Assemble!"]: a blog post from [[Jordan T. Maxwell]] about the cast.
-* [http://www.austinchronicle.com/blogs/arts/2011-08-11/live-nude-improv/ An article from *The Austin Chronicle* about the show.]
-* [http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1261035 The "Best of Austin" award for the show.]
-* [http://theflintpodcast.com/2012/02/20/ep-17-live-nude-improv-with-andy-crouch/ An interview with Andy Crouch about the show.]
-* [http://yesandrew.com/2013/04/14/live-nude-improv/ A blog post about seeing the *Live Nude Improv* performance] at [[The Improvised Play Festival]] from [[Andrew Buck]].
+* [The show's web site.](http://www.hideouttheatre.com/shows/livenudeimprov)
+* ["Thoughts on Live Nude Improv"](http://www.hideouttheatre.com/thoughts-on-live-nude-improv): a blog post interviewing the cast on why they chose to participate in *Live Nude Improv*.
+* ["Nude Rangers: Assemble!"](http://www.hideouttheatre.com/nuderangersassemble): a blog post from [[Jordan T. Maxwell]] about the cast.
+* [An article from *The Austin Chronicle* about the show.](http://www.austinchronicle.com/blogs/arts/2011-08-11/live-nude-improv/)
+* [The "Best of Austin" award for the show.](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1261035)
+* [An interview with Andy Crouch about the show.](http://theflintpodcast.com/2012/02/20/ep-17-live-nude-improv-with-andy-crouch/)
+* [A blog post about seeing the *Live Nude Improv* performance](http://yesandrew.com/2013/04/14/live-nude-improv/) at [[The Improvised Play Festival]] from [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

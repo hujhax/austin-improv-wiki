@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Jon Clinkenbeard Pic.jpg">Jon Clinkenbeard Pic.jpg</a>
+				![[Jon Clinkenbeard Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -39,6 +39,6 @@ Jon moved to Austin in 2007, and then moved to New York City in 2011.
 * *[[The Violet Underbelly]]*
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=12&t=5758 Jon's self-introduction thread] on [[The Austin Improv Forums]].
+* [Jon's self-introduction thread](http://forum.austinimprov.com/viewtopic.php?f=12&t=5758) on [[The Austin Improv Forums]].
 
 [[Category/Performers|Clinkenbeard]]

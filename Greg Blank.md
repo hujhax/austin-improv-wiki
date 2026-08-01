@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Blank.jpg">Blank.jpg</a>
+				![[Blank.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -15,9 +15,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
   --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
-  --><li style="">[http://washingtonimprovtheater.com Washington Improv Theater]</li><!--
-  --><li style="">[http://www.dcimprov.com/comedy-school/learn-improv.html DCImprov]</li><!--
-  --><li style="">[http://comedyindc.com DC ComedySportz]</li><!--
+  --><li style="">[Washington Improv Theater](http://washingtonimprovtheater.com)</li><!--
+  --><li style="">[DCImprov](http://www.dcimprov.com/comedy-school/learn-improv.html)</li><!--
+  --><li style="">[DC ComedySportz](http://comedyindc.com)</li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Three on a Match.jpg">Three on a Match.jpg</a>
+				![[Three on a Match.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,16 +86,16 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 
 ## Media
 ### Videos
-* [https://vimeo.com/119567768 Video] by [[Kyle Sweeney]] of their 2/4/15 show.
-* [https://vimeo.com/119881726 Video] by [[Kyle Sweeney]] of their 2/13/15 show.
-* [https://vimeo.com/120640690 Video] by [[Kyle Sweeney]] of their 2/20/15 show.
+* [Video](https://vimeo.com/119567768) by [[Kyle Sweeney]] of their 2/4/15 show.
+* [Video](https://vimeo.com/119881726) by [[Kyle Sweeney]] of their 2/13/15 show.
+* [Video](https://vimeo.com/120640690) by [[Kyle Sweeney]] of their 2/20/15 show.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/5/14 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/media/set/?set=a.851529264910591.1073742119.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/22/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/14 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.851529264910591.1073742119.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/14 performance in [[WaffleFest 2014]].
 
 ## More Information
-* [http://www.facebook.com/threeonamatchcomedy The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/threeonamatchcomedy)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

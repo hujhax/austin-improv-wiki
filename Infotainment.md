@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Infotainment.jpg">Infotainment.jpg</a>
+				![[Infotainment.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 The format premiered as a [[List of Free Fringes#Infotainment .28Brad Smith.29|*Free Fringe* on 5/30/13]].
 
 ## More Information
-* [https://www.facebook.com/austininfotainment The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/austininfotainment)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

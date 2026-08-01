@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Coldtowne.jpg">Coldtowne.jpg</a>
+				![[Coldtowne.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -28,7 +28,7 @@
 **ColdTowne Theater** is an Austin improv theater that focuses on Chicago-style improv.
 
 ## History
-The theater was founded by the improv troupe [[ColdTowne (troupe)|ColdTowne]] after they were displaced from New Orleans by [http://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina].
+The theater was founded by the improv troupe [[ColdTowne (troupe)|ColdTowne]] after they were displaced from New Orleans by [Hurricane Katrina](http://en.wikipedia.org/wiki/Hurricane_Katrina).
 
 ## Shows
 ### Ongoing Shows
@@ -111,7 +111,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 
 ## Media
 ### Videos
-* [http://vimeo.com/31405764 Their 2010-2011 "Best Moment Award" video], by [[Kyle Sweeney]].
+* [Their 2010-2011 "Best Moment Award" video](http://vimeo.com/31405764), by [[Kyle Sweeney]].
 
 ## Media
-* [http://yesandrew.com/2014/03/24/austin-improv-theaters-as-modern-american-humorists-day-1-coldtowne/ Post about the theater] by [[Andrew Buck]].
+* [Post about the theater](http://yesandrew.com/2014/03/24/austin-improv-theaters-as-modern-american-humorists-day-1-coldtowne/) by [[Andrew Buck]].

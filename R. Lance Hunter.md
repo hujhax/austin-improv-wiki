@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Performer Default Image.png">Performer Default Image.png</a>
+				![[Performer Default Image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -34,4 +34,4 @@ Lance began taking classes at [[The Hideout Theatre]] on 3/9/13.
 * *[[Golden (mainstage)|Golden]]* (Technical Improviser)
 
 ## More Information
-* [https://www.facebook.com/lancehunterart Lance Hunter] promotional page on Facebook.
+* [Lance Hunter](https://www.facebook.com/lancehunterart) promotional page on Facebook.

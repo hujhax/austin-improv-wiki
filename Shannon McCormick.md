@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Shannon McCormick Pic.jpg">Shannon McCormick Pic.jpg</a>
+				![[Shannon McCormick Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -56,7 +56,7 @@ A post from him about the first improv show he ever saw:<blockquote> <p>I'm sure
 * *[[Lola]]* (director)
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2494652 Interview] with Shannon on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2494652) with Shannon on *[[The Theft Forum]]*.
 
 [[Category/Performers|McCormick]]
 [[Category/Directors|McCormick]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Chris Kyle American Improvisers.jpg">Chris Kyle American Improvisers.jpg</a>
+				![[Chris Kyle American Improvisers.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/124011026 Video #1]
+* [Video #1](http://vimeo.com/124011026)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

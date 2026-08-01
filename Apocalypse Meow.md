@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Apocalypse Meow.jpg">Apocalypse Meow.jpg</a>
+				![[Apocalypse Meow.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,7 +81,7 @@
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Still mostly doing montage, though if we are going to start experimenting with new formats. </blockquote>
 
 ## More Information
-* [http://www.facebook.com/pages/Apocalypse-Meow/184172271700?ref=ts The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/Apocalypse-Meow/184172271700?ref=ts)
 
 
 [[Category/Troupes|Category:Troupes]]

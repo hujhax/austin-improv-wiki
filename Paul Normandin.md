@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Paul Normandin Pic.jpg">Paul Normandin Pic.jpg</a>
+				![[Paul Normandin Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -27,7 +27,7 @@
 * *Texas A&M University, M.A. 1992, Speech Communication*
 * *Hideout Theatre & Merlin Works Graduate* (2010 - 2012)
 * *Improv Classes - Many and Varied* (2010 - )
-* *Storytelling Classes - [http://risk-show.com/ "Kevin Allison (RISK! Podcast),"] [https://themoth.org/storytellers/david-crabb "David Crabb (The Moth),"] & [http://downsouthwordofmouth.org/team/ "Brooke Pillifant (Down South Word of Mouth)"]* (2013 - )
+* *Storytelling Classes - ["Kevin Allison (RISK! Podcast),"](http://risk-show.com/) ["David Crabb (The Moth),"](https://themoth.org/storytellers/david-crabb) & ["Brooke Pillifant (Down South Word of Mouth)"](http://downsouthwordofmouth.org/team/)* (2013 - )
 
 ## Teaching Experience
 * *Guest Lecturer at The University of Texas at Austin - Public Health, Technology, and Ethics* (2017 - 2024)
@@ -39,15 +39,15 @@
 * *Dean of the Merlin Works Institute for Improvisation* (2021 - 2024)
 
 ## Storytelling
-* *[http://www.tenx9.com/podcast/176-connections/2020/12/13 Ten by 9 Ireland Podcast]* (2020) 
-* *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writers Roulette]* (2017) 
-* *[http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf Texas Storytelling StorySlam Champion]* (2017)
-* *[https://vimeo.com/162884857 The Moth Houston GrandSlam Champion]* (2016)
+* *[Ten by 9 Ireland Podcast](http://www.tenx9.com/podcast/176-connections/2020/12/13)* (2020) 
+* *[Austin Writers Roulette](https://www.youtube.com/watch?v=WSziw0meidE)* (2017) 
+* *[Texas Storytelling StorySlam Champion](http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf)* (2017)
+* *[The Moth Houston GrandSlam Champion](https://vimeo.com/162884857)* (2016)
 * *RISK! Live Austin Performer* (2013 & 2017)
-* *[https://vimeo.com/162883820 The Moth Houston StorySlam Winner]* (2015)
-* *[https://vimeo.com/203635641 The Moth Houston StorySlam Winner]* (2016)
-* *[https://www.youtube.com/watch?v=WSziw0meidE Austin Writer's Roulette]* (2017)
-* *[https://www.youtube.com/watch?v=yooafBC8B9k Austin Writer's Roulette]* (2019) Fiction 
+* *[The Moth Houston StorySlam Winner](https://vimeo.com/162883820)* (2015)
+* *[The Moth Houston StorySlam Winner](https://vimeo.com/203635641)* (2016)
+* *[Austin Writer's Roulette](https://www.youtube.com/watch?v=WSziw0meidE)* (2017)
+* *[Austin Writer's Roulette](https://www.youtube.com/watch?v=yooafBC8B9k)* (2019) Fiction 
 * *Testify Austin Performer and Producer* (2016 - 2021)
 * *Austin No Shame Theatre Performer - Occasional Host* (2011 - 2016)
 * *Story Department Performer*
@@ -56,8 +56,8 @@
 * *Beyond Our Backyard Storytelling Performer*
 * *The Living Room Performer*
 * *The Listening Room Performer*
-* *[https://www.facebook.com/DWTSAustinStorytellingSalon/ Drinking with the Saints Performer, Host, and Producer]* (2018 - 2023)
-* *[https://www.nchmuseum.org/stories-on-the-lawn Stories on the Lawn Performer, Host, and Producer]* (2021 - 2023)
+* *[Drinking with the Saints Performer, Host, and Producer](https://www.facebook.com/DWTSAustinStorytellingSalon/)* (2018 - 2023)
+* *[Stories on the Lawn Performer, Host, and Producer](https://www.nchmuseum.org/stories-on-the-lawn)* (2021 - 2023)
 
 ## Improv Troupes
 * [[Apocalypse (troupe)|Apocalypse]] (2012)
@@ -80,7 +80,7 @@
 * *[[Hurly Burly]]* (2014-2017)
 * *[[Improv Anonymous]]* (2014 - )
 * *[[Grimm Noir]]* (2015)
-* ''[https://austinplaybacktheatre.wordpress.com/ "Austin Playback Theatre"] (2015 - 2018)
+* ''["Austin Playback Theatre"](https://austinplaybacktheatre.wordpress.com/) (2015 - 2018)
 * *[[Shattered]]* (2019) 
 
 ## Scripted Shows
@@ -97,9 +97,9 @@
 * *[[WaffleFest]]* (2014 - 2018)
 
 ## Director of Improv Shows
-* ''[http://wiki.austinimprov.com/wiki/Hideout_Kids Stories from Around the World] Co-Director (2018)
+* ''[Stories from Around the World](http://wiki.austinimprov.com/wiki/Hideout_Kids) Co-Director (2018)
 * ''[[Gone Tomorrow]] Co-Director (2017) 
-* ''[http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run Cochise: Student Mainstage Run] Assistant Director (2014)
+* ''[Cochise: Student Mainstage Run](http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run) Assistant Director (2014)
 
 ## Improv History
 Paul decided to take Improv classes after seeing a [[Firth & Arjet]] show at [[The Hideout Theatre]]. He completed the classes at [[The Hideout Theatre]] and [[Merlin Works Institute for Improvisation]]. And is now the dean of the [[Merlin Works Institute for Improvisation]]. Paul is a teacher and performer with a focus on narrative Improvisation and true, personal Storytelling.   
@@ -114,15 +114,15 @@ Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin 
 
 He has also produced one off shows for [[The Free Fringe]] at [[The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, and Little House on the Alien Prairie.
 
-Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Ryan Hill]] on guitar at [[FronteraFest]]. Paul won the [http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf "2017 Texas Storytelling Festival StorySlam"] in March.
+Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Ryan Hill]] on guitar at [[FronteraFest]]. Paul won the ["2017 Texas Storytelling Festival StorySlam"](http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf) in March.
 
 Paul was a teaching assistant at [[The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[The Hideout Theatre]]'s annual [[WaffleFest]] from 2014 to 2018. 
 
-Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul took on the Role of Dean of [[Merlin Works Institute for Improvisation]] in 2021 and left the role in 2024. Paul continues to teach to include Improv and Storytelling classes and workshops. In his spare time, he lives to play [http://https://austinultimate.org/ "Ultimate"], run weekly [https://en.wikipedia.org/wiki/Tabletop_role-playing_game "Tabletop Role-Playing Game"] Campaigns, and write speculative fiction.
+Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul took on the Role of Dean of [[Merlin Works Institute for Improvisation]] in 2021 and left the role in 2024. Paul continues to teach to include Improv and Storytelling classes and workshops. In his spare time, he lives to play ["Ultimate"](http://https://austinultimate.org/), run weekly ["Tabletop Role-Playing Game"](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) Campaigns, and write speculative fiction.
 
 ## More Information
-* [http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/ "In Praise Of..." post] by [[Mia Iseman]].
-* [http://www.dentonrc.com/local-news/local-news/2017/03/12/twisting-tales-32nd-annual-texas-storytelling-festival-comes-end#ssStory3048322/ "Twisting Tales"] by Harrison Long.
+* ["In Praise Of..." post](http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/) by [[Mia Iseman]].
+* ["Twisting Tales"](http://www.dentonrc.com/local-news/local-news/2017/03/12/twisting-tales-32nd-annual-texas-storytelling-festival-comes-end#ssStory3048322/) by Harrison Long.
 
 
 [[Category/Performers|Normandin]]

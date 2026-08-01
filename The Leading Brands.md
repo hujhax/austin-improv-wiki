@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Leading Brands.jpg">The Leading Brands.jpg</a>
+				![[The Leading Brands.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -77,7 +77,7 @@
 **The Leading Brands** was an improv troupe.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=10660&p=92765 Announcement of their 2010 reunion show] on [[The Austin Improv Forums]].
+* [Announcement of their 2010 reunion show](http://forum.austinimprov.com/viewtopic.php?t=10660&p=92765) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Leading Brands]]
 [[Category/Auto-Generated Troupe Pages|Leading Brands]]

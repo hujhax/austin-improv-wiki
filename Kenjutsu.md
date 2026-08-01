@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kenjutsu.jpg">Kenjutsu.jpg</a>
+				![[Kenjutsu.jpg]]
 			</td>
 		</tr>
 
@@ -215,21 +215,21 @@ It was featured on the April 18th, 2014 episode of the Yo, Is This Racist? podca
 
 ## Media
 ### Video
-* [http://youtu.be/CaNsGXHDKJ0 Video] by [[Warren Henderson]] of the 3/29/14 show.
+* [Video](http://youtu.be/CaNsGXHDKJ0) by [[Warren Henderson]] of the 3/29/14 show.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10151933330994786.1315383518&type=3 Photoset] by [[Michael Yew]] of rehearsals.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.811773275519826.1073741870.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
-* [http://www.facebook.com/media/set/?set=a.704541889609330.1073741973.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/22/14 show.
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152265500112107.1073741829.549002106&type=3 Photoset] by [[Chris Curl]] of the 4/12/14 show.
-** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104425662753240.1073741862.7909117&type=3 Photoset] by [[Heidi Rogers]] of the same show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10151933330994786.1315383518&type=3) by [[Michael Yew]] of rehearsals.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811773275519826.1073741870.100000614831752&type=3) by [[Warren Henderson]] of a show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.704541889609330.1073741973.221927764537414&type=3) by [[Steve Rogers]] of the 3/22/14 show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152265500112107.1073741829.549002106&type=3) by [[Chris Curl]] of the 4/12/14 show.
+** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104425662753240.1073741862.7909117&type=3) by [[Heidi Rogers]] of the same show.
 
 ## More Information
-* [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Initial show announcement] on the Hideout's web site.
-* [http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa Hideout blog post about the show] by [[Kareem Badr]].
-* [http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/ Interview with the directors] by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
-* [http://www.earwolf.com/episode/improvised-samurai-stories] Discussion of the show on the Yo, Is This Racist? podcast 04/18/14
-* [http://earwolf.com/episode/left-wing-racism] Further discussion of the show on the Yo, Is This Racist? podcast 02/05/15
+* [Initial show announcement](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule) on the Hideout's web site.
+* [Hideout blog post about the show](http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa) by [[Kareem Badr]].
+* [Interview with the directors](http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/) by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
+* [http://www.earwolf.com/episode/improvised-samurai-stories](http://www.earwolf.com/episode/improvised-samurai-stories) Discussion of the show on the Yo, Is This Racist? podcast 04/18/14
+* [http://earwolf.com/episode/left-wing-racism](http://earwolf.com/episode/left-wing-racism) Further discussion of the show on the Yo, Is This Racist? podcast 02/05/15
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Sexyfuturespacelady.jpg">Sexyfuturespacelady.jpg</a>
+				![[Sexyfuturespacelady.jpg]]
 			</td>
 		</tr>
 
@@ -144,7 +144,7 @@
 	</table>
 </div>
 
-***Sexy Future Space Lady*** was a Hideout mainstage show inspired by *[http://en.wikipedia.org/wiki/Barbarella_(film) Barbarella]*.
+***Sexy Future Space Lady*** was a Hideout mainstage show inspired by *[Barbarella](http://en.wikipedia.org/wiki/Barbarella_(film))*.
 
 ## Crew List
 * Lights - [[Biz Gilmore]]
@@ -157,7 +157,7 @@
 * Technical Director - [[Lindsey McGowen]]
  
 ## More Information
-* [https://docs.google.com/forms/d/e/1FAIpQLSeVMkyFyizfEjqyhVqIuY8xU_SQqE9tb7OuK4oLIUetWHAhZA/viewform The cast/crew application.]
+* [The cast/crew application.](https://docs.google.com/forms/d/e/1FAIpQLSeVMkyFyizfEjqyhVqIuY8xU_SQqE9tb7OuK4oLIUetWHAhZA/viewform)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

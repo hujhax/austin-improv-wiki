@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Nightmare Video Project.jpg">The Nightmare Video Project.jpg</a>
+				![[The Nightmare Video Project.jpg]]
 			</td>
 		</tr>
 
@@ -62,23 +62,23 @@ Unfortunately, the video production schedule required for *The Nightmare Video P
 
 ## Media
 ### Videos
-* 5/20/11: [http://vimeo.com/24094909 Video.]
-* 6/7/11: [http://vimeo.com/25373377 Video.]
-* 7/29/11: [http://vimeo.com/27131686 Video.]
-* 9/23/11: [http://vimeo.com/29569007 Video.]
-* 10/21/11: [http://vimeo.com/30999738 Video.]
+* 5/20/11: [Video.](http://vimeo.com/24094909)
+* 6/7/11: [Video.](http://vimeo.com/25373377)
+* 7/29/11: [Video.](http://vimeo.com/27131686)
+* 9/23/11: [Video.](http://vimeo.com/29569007)
+* 10/21/11: [Video.](http://vimeo.com/30999738)
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 6/4/10 performance at [[The 41-Hour Improv Marathon]].
-* [http://www.facebook.com/hujhax/media_set?set=a.10150343191312265.394416.588952264&type=3 Photoset] by [[Peter Rogers]] of the 7/29/11 performance.
-* [http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3 Photoset] by [[Steve Rogers]] of its 6/4/11 performance in [[The 42-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/4/10 performance at [[The 41-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150343191312265.394416.588952264&type=3) by [[Peter Rogers]] of the 7/29/11 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3) by [[Steve Rogers]] of its 6/4/11 performance in [[The 42-Hour Improv Marathon]].
 
 ### Publicity
-* [http://youtu.be/_CoDebTOMu4 Promo Video.]
+* [Promo Video.](http://youtu.be/_CoDebTOMu4)
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/nightmarevideoproject The show's web page.]
-* [http://www.hideouttheatre.com/in-praise-of-marc-majcher A Hideout blogpost about the show, commemorating its closing night.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/nightmarevideoproject)
+* [A Hideout blogpost about the show, commemorating its closing night.](http://www.hideouttheatre.com/in-praise-of-marc-majcher)
 
 [[Category/Shows|Nightmare Video Project]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

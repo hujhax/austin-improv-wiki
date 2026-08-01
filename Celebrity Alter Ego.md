@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Celebrity Alter Ego.jpg">Celebrity Alter Ego.jpg</a>
+				![[Celebrity Alter Ego.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,7 +89,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/50046561 Video of the 9/21/12 performance] at [[Salvage Vanguard Theater]].
+* [Video of the 9/21/12 performance](http://vimeo.com/50046561) at [[Salvage Vanguard Theater]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

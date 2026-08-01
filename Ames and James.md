@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Ames and James.jpg">Ames and James.jpg</a>
+				![[Ames and James.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,10 +89,10 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/23/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/23/11 performance at [[The Hideout Theatre]].
 
 ## More Information
-* [http://www.facebook.com/pages/Ames-and-James/136531642051 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/Ames-and-James/136531642051)
 
 
 [[Category/Troupes|Category:Troupes]]

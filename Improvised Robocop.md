@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Improvised Robocop.jpg">Improvised Robocop.jpg</a>
+				![[Improvised Robocop.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,14 +85,14 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [http://youtu.be/29TzLuMxPus?hd=1 Video] by [[Bryan Boyko]] of their show at the 1/22/11 ColdTowne Lock-In.
+* [Video](http://youtu.be/29TzLuMxPus?hd=1) by [[Bryan Boyko]] of their show at the 1/22/11 ColdTowne Lock-In.
 
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 4/11/11 performance in *[[The Monday Night Mash]]*.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1732285038831.2082674.1589679282&type=3 Photoset]  by [[Roy Moore]] that includes their 6/20/11 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3) by [[Roy Moore]] that includes their 4/11/11 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1732285038831.2082674.1589679282&type=3)  by [[Roy Moore]] that includes their 6/20/11 performance in *[[The Monday Night Mash]]*.
 
 ## More Information
-* [http://www.facebook.com/pages/Improvised-Robocop/128822457177227 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Improvised-Robocop/128822457177227)
 
 
 [[Category/Troupes|Category:Troupes]]

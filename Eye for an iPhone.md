@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Eye for an iPhone.jpg">Eye for an iPhone.jpg</a>
+				![[Eye for an iPhone.jpg]]
 			</td>
 		</tr>
 
@@ -99,5 +99,5 @@
 The show ran on Fridays at 8pm from 10/8/09 to 12/18/09.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=9716&p=85879 Show announcement]
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=9716&p=85879)
 [[Category/Shows|Category:Shows]]

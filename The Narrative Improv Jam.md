@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Narrative Improv Jam.jpg">The Narrative Improv Jam.jpg</a>
+				![[The Narrative Improv Jam.jpg]]
 			</td>
 		</tr>
 
@@ -58,10 +58,10 @@ Due to poor attendance, the show was quickly replaced with *[[The TV Set]]* in J
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150623993402265.445112.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/20/12 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150623993402265.445112.588952264&type=3) by [[Peter Rogers]] of the 1/20/12 show.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/TheNarrativeImprovJam The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/TheNarrativeImprovJam)
 
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]
 [[Category/Shows|Narrative Improv Jam]]

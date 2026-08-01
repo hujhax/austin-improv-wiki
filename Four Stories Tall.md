@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Four Stories Tall .jpg">Four Stories Tall .jpg</a>
+				![[Four Stories Tall .jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,10 +90,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.304156159653070.68767.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 3/1/12 show at [[ColdTowne Theater]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.304156159653070.68767.118587218209966&type=3) by [[Roy Moore]] that includes their 3/1/12 show at [[ColdTowne Theater]].
 
 ## More Information
-* [http://www.facebook.com/pages/Four-Stories-Tall/288843287855043 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Four-Stories-Tall/288843287855043)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

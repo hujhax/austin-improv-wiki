@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Mother Fing Action Heroes!.jpg">Mother Fing Action Heroes!.jpg</a>
+				![[Mother Fing Action Heroes!.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -94,10 +94,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/20/12 performance in *[[The TV Set]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3) by [[Claudio Fox]] that includes their 7/20/12 performance in *[[The TV Set]]*.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=13457 Notice for the 5/26/12 auditions] on [[The Austin Improv Forums]].
+* [Notice for the 5/26/12 auditions](http://forum.austinimprov.com/viewtopic.php?t=13457) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

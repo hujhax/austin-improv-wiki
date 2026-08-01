@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Firth & Arjet Pic.jpg">Firth & Arjet Pic.jpg</a>
+				![[Firth & Arjet Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -107,41 +107,41 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 2/5/10 *[[Double Barrel]]* show.
-* [http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 11/5/10 show in *[[The Spectacle]]*.
-* [http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 1/23/11 show at [[The Hideout Theatre]].
-* [http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 3/25/11 and 4/22/11 shows.
-* A [http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3 photoset] by [[Roy Moore]] that includes their 5/8/11 show at [[The Ladies Are Funny Festival]].
-* [http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1 A photoset] by [[Steve Rogers]] that includes their 9/2/11 show at [[The 2011 Out of Bounds Comedy Festival]].
-* A [http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3 photoset] by [[Peter Rogers]] of their 1/5/12 "Bridesmaids" performance in the premiere of *[[The Free Fringe]]*.
-* [http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1 A photoset] by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[The Free Fringe]]*.
-* [http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1 A photoset] by [[Sam Schak]] that includes their 2/2/12 *[[Free Fringe]]* show.
-* [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 3/8/12 *[[Free Fringe]]* show.
-** [http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3 Another photoset] by [[Michael Yew]] of that same show.
-* [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/12 performance in *[[The Free Fringe]]*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1) by [[Michael Yew]] that includes their 2/5/10 *[[Double Barrel]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1) by [[Michael Yew]] that includes their 11/5/10 show in *[[The Spectacle]]*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1) by [[Michael Yew]] that includes their 1/23/11 show at [[The Hideout Theatre]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=1) by [[Michael Yew]] that includes their 3/25/11 and 4/22/11 shows.
+* A [photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their 5/8/11 show at [[The Ladies Are Funny Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1) by [[Steve Rogers]] that includes their 9/2/11 show at [[The 2011 Out of Bounds Comedy Festival]].
+* A [photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Peter Rogers]] of their 1/5/12 "Bridesmaids" performance in the premiere of *[[The Free Fringe]]*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1) by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[The Free Fringe]]*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1) by [[Sam Schak]] that includes their 2/2/12 *[[Free Fringe]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/8/12 *[[Free Fringe]]* show.
+** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3) by [[Michael Yew]] of that same show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/12 performance in *[[The Free Fringe]]*.
 * Their final *[[Free Fringe]]* performance on 8/9/12.
-** [http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1 A photoset] by [[Michael Yew]].
-** [http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1 A photoset] by [[Steve Rogers]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
+** [A photoset](http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1) by [[Michael Yew]].
+** [A photoset](http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1) by [[Steve Rogers]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 
 ### Videos
-* [http://youtu.be/wFvyMaIUtms Video of their 12/26/08 show.]
-* [http://vimeo.com/31389357 Video of their 9/30/11 show.]
-* [http://vimeo.com/30646467 Video of their 10/14/11 show.]
-* [http://vimeo.com/30997701 Video of their 10/21/11 show.]
-* [http://vimeo.com/32053229 Video of their 11/11/11 show.]
-* [http://vimeo.com/33455567 Video of their 12/9/11 show.]
-* [http://vimeo.com/39019302 Video of their 3/8/12 "Tomboys" show.]
-* [http://vimeo.com/39305541 Video of their 3/22/12 "Tomboys" show.]
-* [http://vimeo.com/39465848 Video] by [[Brad Hawkins]] of their 3/29/12 "Tomboys" performance in *[[The Free Fringe]]*.
-* [http://vimeo.com/40801623 Video of their 4/19/12 "Tomboys" show.]
-* [http://vimeo.com/42431879 Video of their 5/17/12 "Tomboys" show.]
+* [Video of their 12/26/08 show.](http://youtu.be/wFvyMaIUtms)
+* [Video of their 9/30/11 show.](http://vimeo.com/31389357)
+* [Video of their 10/14/11 show.](http://vimeo.com/30646467)
+* [Video of their 10/21/11 show.](http://vimeo.com/30997701)
+* [Video of their 11/11/11 show.](http://vimeo.com/32053229)
+* [Video of their 12/9/11 show.](http://vimeo.com/33455567)
+* [Video of their 3/8/12 "Tomboys" show.](http://vimeo.com/39019302)
+* [Video of their 3/22/12 "Tomboys" show.](http://vimeo.com/39305541)
+* [Video](http://vimeo.com/39465848) by [[Brad Hawkins]] of their 3/29/12 "Tomboys" performance in *[[The Free Fringe]]*.
+* [Video of their 4/19/12 "Tomboys" show.](http://vimeo.com/40801623)
+* [Video of their 5/17/12 "Tomboys" show.](http://vimeo.com/42431879)
 
 ## More Information
-* [http://firthandarjet.austinimprov.com/ The troupe's web site] on [[The Austin Improv Website]].
-* [http://www.firthandarjet.com/ The troupe's independent web site.]
-* [http://www.facebook.com/FirthAndArjet The troupe's facebook page.]
+* [The troupe's web site](http://firthandarjet.austinimprov.com/) on [[The Austin Improv Website]].
+* [The troupe's independent web site.](http://www.firthandarjet.com/)
+* [The troupe's facebook page.](http://www.facebook.com/FirthAndArjet)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

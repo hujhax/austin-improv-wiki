@@ -22,7 +22,7 @@ It ran from 6/30/11 to 7/2/11.
 
 ## Media
 ### Videos
-* [http://vimeo.com/26123107 Video] of the Code Duello show.
+* [Video](http://vimeo.com/26123107) of the Code Duello show.
 
 ## More Information
-* [http://www.improvisedplayfestival.com/about/2011schedule/ The festival schedule.]
+* [The festival schedule.](http://www.improvisedplayfestival.com/about/2011schedule/)

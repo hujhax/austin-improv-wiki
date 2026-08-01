@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Galactic.jpg">Galactic.jpg</a>
+				![[Galactic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,27 +85,27 @@ Here is [[Josh Gill]]'s explanation of the name's origin:<blockquote>Galactic st
 
 ## Media
 ### Video
-* [http://vimeo.com/21037196 Video] by [[Lisa Jackson]] of an early show (uploaded 6/29/11).
-* [http://vimeo.com/30877867 Video] by [[Lisa Jackson]] of their 8/18/11 show.
-* [http://vimeo.com/36059863 Video] by [[Lisa Jackson]] of their 2/1/12 show.
-* [http://vimeo.com/36934467 Video] by [[Lisa Jackson]] of their 2/15/12 show ("Unicorn Rainbow Happy Fun Love Time II").
-* [http://vimeo.com/38341296 Video] by [[Lisa Jackson]] of their 2/29/12 show ("Sci-Fi Nerd Date happy Fun Love Time").
-* [http://vimeo.com/groups/83993/videos/21004511 Video of their 3/13/11 show.]
-* [http://vimeo.com/30877867 Video of their 8/18/11 show.]
-* [http://vimeo.com/40101264 Video] by [[Lisa Jackson]] of their 4/9/12 show ("Old Chevy").
-* [http://vimeo.com/41568053 Video] by [[Lisa Jackson]] of their 5/2/12 show ("Helium").
-* [http://vimeo.com/46401835 Video] by [[Lisa Jackson]] of their 7/19/12 show ("Eggroll").
-* [http://vimeo.com/46401949 Video] by [[Lisa Jackson]] of their 7/23/12 show ("Taffy").
-* [http://vimeo.com/55065312 Video] by [[Lisa Jackson]] of their 11/18/12 show ("Raccoons").
+* [Video](http://vimeo.com/21037196) by [[Lisa Jackson]] of an early show (uploaded 6/29/11).
+* [Video](http://vimeo.com/30877867) by [[Lisa Jackson]] of their 8/18/11 show.
+* [Video](http://vimeo.com/36059863) by [[Lisa Jackson]] of their 2/1/12 show.
+* [Video](http://vimeo.com/36934467) by [[Lisa Jackson]] of their 2/15/12 show ("Unicorn Rainbow Happy Fun Love Time II").
+* [Video](http://vimeo.com/38341296) by [[Lisa Jackson]] of their 2/29/12 show ("Sci-Fi Nerd Date happy Fun Love Time").
+* [Video of their 3/13/11 show.](http://vimeo.com/groups/83993/videos/21004511)
+* [Video of their 8/18/11 show.](http://vimeo.com/30877867)
+* [Video](http://vimeo.com/40101264) by [[Lisa Jackson]] of their 4/9/12 show ("Old Chevy").
+* [Video](http://vimeo.com/41568053) by [[Lisa Jackson]] of their 5/2/12 show ("Helium").
+* [Video](http://vimeo.com/46401835) by [[Lisa Jackson]] of their 7/19/12 show ("Eggroll").
+* [Video](http://vimeo.com/46401949) by [[Lisa Jackson]] of their 7/23/12 show ("Taffy").
+* [Video](http://vimeo.com/55065312) by [[Lisa Jackson]] of their 11/18/12 show ("Raccoons").
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/18/11 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 5/10/12 show at [[The Ladies Are Funny Festival]].
-* [http://www.facebook.com/media/set/?set=a.591902264206627.1073741923.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/4/13 show at [[The ColdTowne Marathon]].
-* [http://www.facebook.com/media/set/?set=a.1032345030162346.1073742240.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/2/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/18/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3) by [[Roy Moore]] that includes their 5/10/12 show at [[The Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.591902264206627.1073741923.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/13 show at [[The ColdTowne Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1032345030162346.1073742240.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/2/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [https://www.facebook.com/BattlestarGillacktucka The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/BattlestarGillacktucka)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

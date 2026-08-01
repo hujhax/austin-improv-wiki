@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The tribunal.jpg">The tribunal.jpg</a>
+				![[The tribunal.jpg]]
 			</td>
 		</tr>
 
@@ -173,8 +173,8 @@ The fourth performance was part of the *[[Four Chambers]]* series at [[The Hideo
 * [[Terra Chirieleison]] (Hawk)
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3 Photoset of show #1] by [[Roy Moore]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3 Photoset] by [[Michael Yew]] that includes show #3.
+* [Photoset of show #1](http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3) by [[Roy Moore]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3) by [[Michael Yew]] that includes show #3.
 
 ## More Information
-* [http://www.larpwriter.org/2010/11/and-winner-is.html An announcement of the original LARP winning the 2010 "Larpwriter Challenge".]
+* [An announcement of the original LARP winning the 2010 "Larpwriter Challenge".](http://www.larpwriter.org/2010/11/and-winner-is.html)

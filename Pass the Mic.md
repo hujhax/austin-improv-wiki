@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Pass the Mic.jpg">Pass the Mic.jpg</a>
+				![[Pass the Mic.jpg]]
 			</td>
 		</tr>
 
@@ -48,7 +48,7 @@
 The show consists of sets of prepared stand-up material, followed by improviesed stand-up.
 
 ## More Information
-* [http://www.newmovementtheater.com/details/?cid=all&mc_id=13123 The show's web page.]
+* [The show's web page.](http://www.newmovementtheater.com/details/?cid=all&mc_id=13123)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

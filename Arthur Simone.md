@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Arthur Simone Pic.jpg">Arthur Simone Pic.jpg</a>
+				![[Arthur Simone Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@
 **Arthur Simone** is an improv performer, teacher, and director.
 
 ## Summary
-From [http://www.coldtownetheater.com/performer/arthur-simone his bio page on the ColdTowne Theater site]:
+From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/arthur-simone):
 <blockquote><p>Arthur Simone is an actor, artist and co-founder of Austin's ColdTowne Theater. He graduated in Theatre from Oberlin College and studied improvisation at Chicago's Improv Olympic. Notable live performances have included [[Buddy Daddy|improv with a dog]], Carla Goodman's Failure: a Big StupidMess, Rubber Repertory's Jubilee and his one-man show *[[Dear Frailty]]*, which earned him an award as Best Actor in Austin.</p>
 
 <p>As a film and television actor, he's appeared in everything from *Big Momma's House 2* to *Parkland*. Arthur has been a sometime fixture on the annual East Austin Studio Tour and has been a finalist for the Hunting Art Prize.</p></blockquote>
@@ -47,9 +47,9 @@ From [http://www.coldtownetheater.com/performer/arthur-simone his bio page on th
 * *[[Boys of Summer]]* (2006 run)
 
 ## More Information
-* [http://www.coldtownetheater.com/performer/arthur-simone Arthur's bio page on the ColdTowne Theater site.]
-* [http://gybpodcast.libsyn.com/aurthur-simone-ep-5-got-your Interview] on the *[[Got Your Back]]* podcast.
-* [http://yesandrew.com/the-sunday-interview-arthur-simone/ Interview] by [[Andrew Buck]].
+* [Arthur's bio page on the ColdTowne Theater site.](http://www.coldtownetheater.com/performer/arthur-simone)
+* [Interview](http://gybpodcast.libsyn.com/aurthur-simone-ep-5-got-your) on the *[[Got Your Back]]* podcast.
+* [Interview](http://yesandrew.com/the-sunday-interview-arthur-simone/) by [[Andrew Buck]].
 
 [[Category/Performers|Simone]]
 [[Category/Teachers|Simone]]

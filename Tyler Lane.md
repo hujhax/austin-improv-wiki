@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Tyler Lane.jpg">Tyler Lane.jpg</a>
+				![[Tyler Lane.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@
 	</table>
 </div>
 
-**Tyler Lane** is an improv performer. He is completely obsessed with the book [http://en.wikipedia.org/wiki/Impro:_Improvisation_and_the_Theatre Impro]. 
+**Tyler Lane** is an improv performer. He is completely obsessed with the book [Impro](http://en.wikipedia.org/wiki/Impro:_Improvisation_and_the_Theatre). 
 
 ## History
 Tyler moved to Austin in the summer of 2013. He stumbled upon *[[Maestro]]* while exploring downtown and has been hooked ever since. 

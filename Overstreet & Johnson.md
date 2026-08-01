@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Overstreet & Johnson.jpg">Overstreet & Johnson.jpg</a>
+				![[Overstreet & Johnson.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -77,7 +77,7 @@
 **Overstreet & Johnson** was an improv duo.
 
 ## More Information
-* [http://www.facebook.com/OverstreetJohnsonImprov The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/OverstreetJohnsonImprov)
 
 
 [[Category/Troupes|Category:Troupes]]

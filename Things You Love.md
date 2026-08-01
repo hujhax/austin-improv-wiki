@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Things You Love.jpg">Things You Love.jpg</a>
+				![[Things You Love.jpg]]
 			</td>
 		</tr>
 
@@ -126,7 +126,7 @@ Join us at The Hideout Theatre Saturdays in June for this joyful, exuberant, sil
 * [[Tess Forneris]] (lights)
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/thingsyoulovethemusical The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/thingsyoulovethemusical)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

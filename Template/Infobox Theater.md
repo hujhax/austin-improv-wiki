@@ -10,7 +10,7 @@ This template lists standard, useful information about an improv theater.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href=""></a>
+				![[]]
 			</td>
 		</tr>
 		<tr class="">
@@ -51,7 +51,7 @@ This template lists standard, useful information about an improv theater.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Theater Default Image.jpg">Theater Default Image.jpg</a>
+				![[Theater Default Image.jpg]]
 			</td>
 		</tr>
 		<tr class="">

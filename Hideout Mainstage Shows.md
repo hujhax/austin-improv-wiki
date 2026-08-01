@@ -288,4 +288,4 @@ In 2014 and 2015, the student mainstages were curated by [[Ruby Willmann]], with
 |}
 
 ## More Information
-* [http://www.hideouttheatre.com/new-for-2014-student-mainstage-productions Announcement of the student-mainstage program] from the Hideout blog.
+* [Announcement of the student-mainstage program](http://www.hideouttheatre.com/new-for-2014-student-mainstage-productions) from the Hideout blog.

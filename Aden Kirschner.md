@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Aden Kirschner Pic.jpg">Aden Kirschner Pic.jpg</a>
+				![[Aden Kirschner Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -64,8 +64,8 @@ In 2014, she moved away to Oregon, but visits Austin regularly and is still invo
 * *[[Theatresports]]*
 
 ## More Information
-* [http://yesandrew.com/2013/08/30/in-praise-of-aden-kirschner-by-eric-heiberg/ "In Praise Of..." post] by [[Eric Heiberg]].
-* [http://yesandrew.com/2014/06/01/the-sunday-interview-aden-kirschner/ "The Sunday Interview..." post] by [[Andrew Buck]]
+* ["In Praise Of..." post](http://yesandrew.com/2013/08/30/in-praise-of-aden-kirschner-by-eric-heiberg/) by [[Eric Heiberg]].
+* ["The Sunday Interview..." post](http://yesandrew.com/2014/06/01/the-sunday-interview-aden-kirschner/) by [[Andrew Buck]]
 
 [[Category/Performers|Kirschner]]
 [[Category/Teachers|Kirschner]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="A Really Aggressive Dream.jpg">A Really Aggressive Dream.jpg</a>
+				![[A Really Aggressive Dream.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/21/14 show at *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/21/14 show at *[[The Threefer]]*.
 
 [[Category/Troupes|Really Aggressive Dream]]
 [[Category/Auto-Generated Troupe Pages|Really Aggressive Dream]]

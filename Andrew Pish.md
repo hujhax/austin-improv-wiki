@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Andrew Pish Pic.jpg">Andrew Pish Pic.jpg</a>
+				![[Andrew Pish Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,6 +87,6 @@ In January 2012, Andrew Pish moved to Los Angeles.  While there, he's studied wi
 * *[[Spirited]]*
 
 ## More Information
-* [http://www.hideouttheatre.com/student-stories-pish An 8/12/10 "Student Stories" post from Andrew.]
+* [An 8/12/10 "Student Stories" post from Andrew.](http://www.hideouttheatre.com/student-stories-pish)
 
 [[Category/Performers|Pish]]

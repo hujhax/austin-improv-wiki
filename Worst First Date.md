@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Worst First Date.jpg">Worst First Date.jpg</a>
+				![[Worst First Date.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207864073426163.1425495839&type=3 Photoset] by [[Jay Mahavier]] of their 8/20/15 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864073426163.1425495839&type=3) by [[Jay Mahavier]] of their 8/20/15 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/worstfirstdate The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/worstfirstdate)
 
 
 [[Category/Troupes|Category:Troupes]]

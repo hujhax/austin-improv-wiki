@@ -1,5 +1,5 @@
 ## Summary
-Publicity photo for *[[The Family]]*, taken from [http://www.facebook.com/events/496285910062/ the show's facebook-event page].
+Publicity photo for *[[The Family]]*, taken from [the show's facebook-event page](http://www.facebook.com/events/496285910062/).
 
 Photo by: unknown.
 ## Licensing

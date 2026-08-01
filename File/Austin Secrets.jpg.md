@@ -1,5 +1,5 @@
 ## Summary
-Promotional art for the third run of [[Austin Secrets]], taken from [http://www.hideouttheatre.com/shows/austinsecrets the show site].
+Promotional art for the third run of [[Austin Secrets]], taken from [the show site](http://www.hideouttheatre.com/shows/austinsecrets).
 
 Art by [[Kaci Beeler]]
 ## Licensing

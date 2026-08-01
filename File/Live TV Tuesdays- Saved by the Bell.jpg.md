@@ -3,7 +3,7 @@ Publicity photo for [[Live TV Tuesdays -  Saved by the Bell]].
 
 Photo by: unknown.
 
-Taken from [http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3 this photoset].
+Taken from [this photoset](http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

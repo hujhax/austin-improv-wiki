@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Girl Embassy World Team.jpg">Girl Embassy World Team.jpg</a>
+				![[Girl Embassy World Team.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -92,21 +92,21 @@ GEWT is comprised of some of Austin's top improvisational performers from all ov
 
 ## Media
 ### Videos
-* [http://vimeo.com/9954835 Video] of their 2/28/10 performance in *[[The Weekender]]*.
-* [http://vimeo.com/21056385 Video] of their 2/25/11 performance in *[[The Spectacle]]*.
+* [Video](http://vimeo.com/9954835) of their 2/28/10 performance in *[[The Weekender]]*.
+* [Video](http://vimeo.com/21056385) of their 2/25/11 performance in *[[The Spectacle]]*.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/28/10 performance at *[[The Weekender]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/19/10 performance at [[WaffleFest]].
-* [http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3 Photoset] by [[Roy Moore]] of their 5/6/11 performance at [[The 2011 Ladies Are Funny Festival]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes the same show.
-* [http://www.facebook.com/happywaffle/media_set?set=a.10150814632160324.728311.503270323&type=3 Photoset] by [[Kevin Miller]] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 2/28/10 performance at *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/19/10 performance at [[WaffleFest]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3) by [[Roy Moore]] of their 5/6/11 performance at [[The 2011 Ladies Are Funny Festival]].
+** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes the same show.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150814632160324.728311.503270323&type=3) by [[Kevin Miller]] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
 
 ### Publicity
-* [http://youtu.be/nkzofyWOVVI A teaser] for their performance at [[WaffleFest 2010]] (11/11/10).
-* [http://youtu.be/H7SCeiZ4mMQ Their first-anniversary show video] (2/22/11).
+* [A teaser](http://youtu.be/nkzofyWOVVI) for their performance at [[WaffleFest 2010]] (11/11/10).
+* [Their first-anniversary show video](http://youtu.be/H7SCeiZ4mMQ) (2/22/11).
 
 ## More Information
-* [http://www.facebook.com/girlembassyworldteam The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/girlembassyworldteam)
 
 [[Category/Troupes|Category:Troupes]]

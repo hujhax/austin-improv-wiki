@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Jastroch.jpg">Jastroch.jpg</a>
+				![[Jastroch.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -39,8 +39,8 @@ Michael Jastroch writes and performs with [[ColdTowne]], winning several awards 
 * *[[Victrola]]* (director)
 
 ## More Information
-* [http://yesandrew.com/2013/05/05/the-sunday-interview-michael-jastroch/ Interview] by [[Andrew Buck]].
-* [http://gybpodcast.libsyn.com/got-your-back-ep-1-michael-jastroch Interview] on the *[[Got Your Back]]* podcast.
+* [Interview](http://yesandrew.com/2013/05/05/the-sunday-interview-michael-jastroch/) by [[Andrew Buck]].
+* [Interview](http://gybpodcast.libsyn.com/got-your-back-ep-1-michael-jastroch) on the *[[Got Your Back]]* podcast.
 
 [[Category/Teachers|Jastroch]]
 [[Category/Performers|Jastroch]]

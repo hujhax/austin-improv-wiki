@@ -20,4 +20,4 @@ It included an all-star *[[Maestro]]*.
 * [[You, Me and Greg]]
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=81&p=285 Announcement about the festival] on [[The Austin Improv Forums]].
+* [Announcement about the festival](http://forum.austinimprov.com/viewtopic.php?t=81&p=285) on [[The Austin Improv Forums]].

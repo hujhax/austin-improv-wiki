@@ -1,7 +1,7 @@
 ## Summary
 [[Total Panic]] performing at [[ColdTowne Theater]].
 
-Photo by: unknown, from [http://www.flickr.com/photos/coldtowne/sets/72157619852025521 this photoset].
+Photo by: unknown, from [this photoset](http://www.flickr.com/photos/coldtowne/sets/72157619852025521).
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

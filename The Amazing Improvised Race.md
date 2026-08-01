@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Amazing Improvised Race.jpg">The Amazing Improvised Race.jpg</a>
+				![[The Amazing Improvised Race.jpg]]
 			</td>
 		</tr>
 
@@ -158,12 +158,12 @@ The show ran as part of *[[The Saturday Night Special]]* in December 2011, start
 
 ## Media
 ### Videos
-* [http://vimeo.com/33139325 Video of the 12/3/11 premiere.]
-* [http://vimeo.com/33531543 Video of the 12/10/11 show.]
+* [Video of the 12/3/11 premiere.](http://vimeo.com/33139325)
+* [Video of the 12/10/11 show.](http://vimeo.com/33531543)
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.257307940999396.65359.221927764537414&type=3 Photoset] by [[Steve Rogers]] of a show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.257307940999396.65359.221927764537414&type=3) by [[Steve Rogers]] of a show.
 
 ## Publicity
-* [http://www.facebook.com/hujhax/media_set?set=a.10152313262782265.1073741843.588952264&type=1 Publicity photos for the show.]
+* [Publicity photos for the show.](http://www.facebook.com/hujhax/media_set?set=a.10152313262782265.1073741843.588952264&type=1)
 
 [[Category/Shows|Category:Shows]]

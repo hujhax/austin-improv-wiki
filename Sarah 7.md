@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Sarah 7.jpg">Sarah 7.jpg</a>
+				![[Sarah 7.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -93,17 +93,17 @@ Sarah 7 headlined *[[The Threefer]]* in October 2012.
 
 ## Media
 ### Videos
-* [http://vimeo.com/35555795 Video] by [[Liz Brammer]] of their 1/22/12 show at [[The Hideout Theatre]].
-* [http://vimeo.com/14846874 Video] by [[Liz Brammer]] of their August 2011 show at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/35555795) by [[Liz Brammer]] of their 1/22/12 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/14846874) by [[Liz Brammer]] of their August 2011 show at [[ColdTowne Theater]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.394469047415.170839.332822362415&type=1 A photoset] of their appearance at the 2010 [[Ladies Are Funny Festival]].
-* [http://www.facebook.com/media/set/?set=a.435022037139.215390.545242139&type=1 A photoset] by [[Edison Carter]] of their appearance at [[The 2010 Out of Bounds Comedy Festival]] on 9/4/10.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/12/12 performance at [[The 2012 Ladies Are Funny Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.394469047415.170839.332822362415&type=1) of their appearance at the 2010 [[Ladies Are Funny Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.435022037139.215390.545242139&type=1) by [[Edison Carter]] of their appearance at [[The 2010 Out of Bounds Comedy Festival]] on 9/4/10.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3) by [[Claudio Fox]] that includes their 5/12/12 performance at [[The 2012 Ladies Are Funny Festival]].
 
 ## More Information
-* [http://www.facebook.com/pages/Sarah-7/332822362415 The troupe's facebook page.]
-* [http://forum.austinimprov.com/viewtopic.php?t=11152 Forum announcement] of their *[[Threefer]]* headlining gig.
+* [The troupe's facebook page.](http://www.facebook.com/pages/Sarah-7/332822362415)
+* [Forum announcement](http://forum.austinimprov.com/viewtopic.php?t=11152) of their *[[Threefer]]* headlining gig.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

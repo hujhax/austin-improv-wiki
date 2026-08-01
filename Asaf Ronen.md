@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="AsafRonen.jpg">AsafRonen.jpg</a>
+				![[AsafRonen.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -64,4 +64,4 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[The Suitcase]]* (director)
 
 ## More Information
-* Interview with Asaf Ronen on *[[The Theft Forum]]*: [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2215619 part 1 (Asaf's history with improv)], [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2225837 part 2 (Asaf's thoughts about improv)].
+* Interview with Asaf Ronen on *[[The Theft Forum]]*: [part 1 (Asaf's history with improv)](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2215619), [part 2 (Asaf's thoughts about improv)](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2225837).

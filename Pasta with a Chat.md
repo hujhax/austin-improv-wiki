@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Pasta with a Chat.png">Pasta with a Chat.png</a>
+				![[Pasta with a Chat.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=r_vtBmvIFqE Their performance at the 2011 ColdTowne Lock-In.]
+* [Their performance at the 2011 ColdTowne Lock-In.](http://www.youtube.com/watch?v=r_vtBmvIFqE)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Cubbies.jpg">The Cubbies.jpg</a>
+				![[The Cubbies.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,7 +83,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ## Media
 ## More Information
-* [https://www.facebook.com/CubbiesImprov The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/CubbiesImprov)
 
 [[Category/Troupes|Cubbies]]
 [[Category/Active|Category:Active]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="MMSquare.png">MMSquare.png</a>
+				![[MMSquare.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,11 +87,11 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Photoset
-* [http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
-** [http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3 Another photoset] by [[Jay Mahavier]] of the same show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
+** [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Jay Mahavier]] of the same show.
 
 ## More Information
-* [http://www.miragemachineimprov.com/ The troupe's web site.]
+* [The troupe's web site.](http://www.miragemachineimprov.com/)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

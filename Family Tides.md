@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Family Tides.jpg">Family Tides.jpg</a>
+				![[Family Tides.jpg]]
 			</td>
 		</tr>
 
@@ -97,11 +97,11 @@
 
 ## Media
 ## Publicity
-* [http://youtu.be/K1MkENQmW1A Promo video.]
+* [Promo video.](http://youtu.be/K1MkENQmW1A)
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=12092 Audition announcement] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=12337 Show announcement] on [[The Austin Improv Forums]].
-* [http://www.coldtownetheater.com/events/family-tides-improv The show's web page.]
+* [Audition announcement](http://forum.austinimprov.com/viewtopic.php?t=12092) on [[The Austin Improv Forums]].
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=12337) on [[The Austin Improv Forums]].
+* [The show's web page.](http://www.coldtownetheater.com/events/family-tides-improv)
 
 [[Category/Shows|Category:Shows]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="CarlosLaRotta.jpg">CarlosLaRotta.jpg</a>
+				![[CarlosLaRotta.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -23,7 +23,7 @@
 **Carlos LaRotta** is an improv performer and sketch writer/performer.
 
 ## Summary
-From [http://www.coldtownetheater.com/performer/carlos-larotta his bio page on the ColdTowne Theater site]:
+From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/carlos-larotta):
 <blockquote><p>Carlos LaRotta used to be a filmmaker who liked to perform improv and sketch, but currently he identifies himself as an improv/sketch performer who likes to make films.</p>
 
 <p>As ColdTowne’s (arguably) hottest "Chubby Hispanic Guy", Carlos can be seen every Friday at 7pm with [[Movie Riot]], as well as frequently performing with such house troupes as [[Precious Dads]], [[Skutch]], [[Whalehouse]], and [[Carlos and Chrissy are Twins]].</p>
@@ -46,9 +46,9 @@ From [http://www.coldtownetheater.com/performer/carlos-larotta his bio page on t
 * *[[TGIS]]*
 
 ## More Information
-* [http://www.coldtownetheater.com/performer/carlos-larotta Carlos's bio page on the ColdTowne Theater site.]
-* [http://gybpodcast.libsyn.com/carlos-larotta-ep-22-got-your-back Interview] on *[[Got Your Back]]*.
-* [http://yesandrew.com/the-sunday-interview-carlos-larotta/ Interview] by [[Andrew Buck]].
+* [Carlos's bio page on the ColdTowne Theater site.](http://www.coldtownetheater.com/performer/carlos-larotta)
+* [Interview](http://gybpodcast.libsyn.com/carlos-larotta-ep-22-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://yesandrew.com/the-sunday-interview-carlos-larotta/) by [[Andrew Buck]].
 
 [[Category/Performers|LaRotta]]
 [[Category/Active|LaRotta]]

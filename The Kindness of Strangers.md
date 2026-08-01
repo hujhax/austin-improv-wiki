@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kindness of strangers.jpg">Kindness of strangers.jpg</a>
+				![[Kindness of strangers.jpg]]
 			</td>
 		</tr>
 
@@ -152,7 +152,7 @@ Mid-20th century America: the second World War is over, and people of every clas
 The Kindness of Strangers is a journey through the lurid, steamy world of the American South in the style of one of America’s greatest playwrights: Tennessee Williams. Troubled men, spellbinding women, and a touch of magic come together to create stories that are hilarious and heartbreaking all at once.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/thekindnessofstrangers The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/thekindnessofstrangers)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

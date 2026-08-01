@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays - South Park.jpg">Live TV Tuesdays - South Park.jpg</a>
+				![[Live TV Tuesdays - South Park.jpg]]
 			</td>
 		</tr>
 

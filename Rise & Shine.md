@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Rise shine.jpg">Rise shine.jpg</a>
+				![[Rise shine.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,12 +90,12 @@ The first performance was a [[Cagematch]] show and happened on Saturday, March 7
 
 ## Media
 ### Videos
-* [http://youtu.be/KtI5gT7QCIk Teaser video] by [[Jon Bolden]].
+* [Teaser video](http://youtu.be/KtI5gT7QCIk) by [[Jon Bolden]].
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.114135967264.110677.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/15/09 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] of their 5/16/10 performance in *[[The Weekender]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/27/10 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/23/10 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.114135967264.110677.588952264&type=3) by [[Peter Rogers]] of their 5/15/09 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] of their 5/16/10 performance in *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 8/27/10 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 9/23/10 performance in *[[The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]

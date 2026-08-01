@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="BadFont Hideout.jpg">BadFont Hideout.jpg</a>
+				![[BadFont Hideout.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -142,13 +142,13 @@ Bad Font was originally cast by [[Scott Hearne]] throughout 2012 and 2013. The t
 
 ## Media
 ### Photos
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3 Photoset] by [[Chris Curl]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/27/15 performance in *[[Dorm Daze]]*.
-* [https://www.flickr.com/photos/oob_pics/sets/72157655819993844 Photoset] by [[Bonica Ayala]] of their 9/2/15 performance at [[The 2015 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/Doccerz/media_set?set=a.10153645977880793.1073741903.666390792&type=3 Photoset] by [[Dave Alley]] of their 8/30/16 performance at [[2016 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3) by [[Chris Curl]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3) by [[Steve Rogers]] of their 6/27/15 performance in *[[Dorm Daze]]*.
+* [Photoset](https://www.flickr.com/photos/oob_pics/sets/72157655819993844) by [[Bonica Ayala]] of their 9/2/15 performance at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10153645977880793.1073741903.666390792&type=3) by [[Dave Alley]] of their 8/30/16 performance at [[2016 Out of Bounds Comedy Festival]].
 
 ## More Information
-*[http://www.facebook.com/pages/Bad-Font/1413245738890485 Bad Font's facebook page]
+*[Bad Font's facebook page](http://www.facebook.com/pages/Bad-Font/1413245738890485)
 
 [[Category/Troupes|Bad Font]]
 [[Category/Active|Bad Font]]

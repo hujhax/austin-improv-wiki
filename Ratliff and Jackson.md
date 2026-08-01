@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Ratliff and Jackson.jpg">Ratliff and Jackson.jpg</a>
+				![[Ratliff and Jackson.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -91,18 +91,18 @@ Ratliff and Jackson headlined *[[The Threefer]]* in September 2012.
 
 ## Media
 ### Videos
-* [http://vimeo.com/39441547 Video] by [[Lisa Jackson]] of their 3/28/12 show ("Cowboy Boots").
-* [http://vimeo.com/50171903 Video] by [[Lisa Jackson]] of their 9/20/12 show ("Glasses and Underwear").
-* [http://vimeo.com/66528017 Video of their 5/17/13 performance] in the *[[2x4]]*.
-* [http://vimeo.com/74439291 Video of their 8/27/13 performance], part of [[The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/39441547) by [[Lisa Jackson]] of their 3/28/12 show ("Cowboy Boots").
+* [Video](http://vimeo.com/50171903) by [[Lisa Jackson]] of their 9/20/12 show ("Glasses and Underwear").
+* [Video of their 5/17/13 performance](http://vimeo.com/66528017) in the *[[2x4]]*.
+* [Video of their 8/27/13 performance](http://vimeo.com/74439291), part of [[The 2013 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.10151045919445267.430310.550920266&type=1 A photoset] by [[Adriane Shown]] that includes their performance at [[The 2012 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.10151044387950793.420989.666390792&type=1 A photoset] by [[Dave Alley]] that includes their performance at the 9/20/12 *[[The Threefer|Threefer]]*.
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152577366742107.1073741848.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.10151045919445267.430310.550920266&type=1) by [[Adriane Shown]] that includes their performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.10151044387950793.420989.666390792&type=1) by [[Dave Alley]] that includes their performance at the 9/20/12 *[[The Threefer|Threefer]]*.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577366742107.1073741848.549002106&type=3) by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/RatliffandJackson The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/RatliffandJackson)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Michael Joplin Pic.jpg">Michael Joplin Pic.jpg</a>
+				![[Michael Joplin Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -41,8 +41,8 @@
 * *[[Pulp Friction]]*
 
 ## More Information
-* [http://yesandrew.com/2014/07/13/the-sunday-interview-michael-joplin/ Interview] by [[Andrew Buck]].
-* [http://yesandrew.com/the-sunday-interview-michael-joplin/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/07/13/the-sunday-interview-michael-joplin/) by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-michael-joplin/) by [[Andrew Buck]].
 
 [[Category/Teachers|Joplin]]
 [[Category/Performers|Joplin]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Red Giant.jpg">Red Giant.jpg</a>
+				![[Red Giant.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>The super group known as Red Giant focuses on heightening and exploring three base scenes and worlds which are then augmented with additional beats/pop outs to help further dissect their own ideas, notions and creations. A large physical presence helps infuse the shows with big energy and a genuine sense of improv play.</blockquote>
 
 ## More Information
-* [http://redgiantimprov.wordpress.com The troupe's web site.]
+* [The troupe's web site.](http://redgiantimprov.wordpress.com)
 
 
 [[Category/Troupes|Category:Troupes]]

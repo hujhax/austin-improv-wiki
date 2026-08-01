@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Manson - The Musical.jpg">Manson - The Musical.jpg</a>
+				![[Manson - The Musical.jpg]]
 			</td>
 		</tr>
 
@@ -184,12 +184,12 @@ The 2012 revival ran on Fridays and Saturdays in May.
 
 ## Media
 ### Videos
-* [http://vimeo.com/60918056 Video] of one of the May 2012 performances.
+* [Video](http://vimeo.com/60918056) of one of the May 2012 performances.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.332521423483210.74158.118587218209966&type=3 Photoset] by [[Roy Moore]] of a performance from early May 2012 .
+* [Photoset](http://www.facebook.com/media/set/?set=a.332521423483210.74158.118587218209966&type=3) by [[Roy Moore]] of a performance from early May 2012 .
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=13211 Audition announcement] on [[The Austin Improv Forums]].
+* [Audition announcement](http://forum.austinimprov.com/viewtopic.php?t=13211) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

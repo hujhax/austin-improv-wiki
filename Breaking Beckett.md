@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Breaking Beckett Poster Ryan.png">Breaking Beckett Poster Ryan.png</a>
+				![[Breaking Beckett Poster Ryan.png]]
 			</td>
 		</tr>
 
@@ -136,23 +136,23 @@ Bob also consulted with [[Kareem Badr]] and [[Kaci Danger]] about show structure
 
 ## Media
 ### Videos
-* [http://vimeo.com/85125217 Video] of the 1/24/14 preview performance.
-* [http://vimeo.com/89248397 Video] of their second show.
-* [http://vimeo.com/90428432 Video] of their second show.
-* [http://vimeo.com/91778245 Video] of their show in [[The 2014 Improvised Play Festival]].
+* [Video](http://vimeo.com/85125217) of the 1/24/14 preview performance.
+* [Video](http://vimeo.com/89248397) of their second show.
+* [Video](http://vimeo.com/90428432) of their second show.
+* [Video](http://vimeo.com/91778245) of their show in [[The 2014 Improvised Play Festival]].
 
 ### Photos
-* [http://controlimages.zenfolio.com/breaking_beckett_reginald_39 Photoset] by [[Roy Moore]] (Control Images) of the 1/24/14 preview performance.
-** [http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=1 The same set, on facebook.]
-** [https://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104172328452210.1073741850.7909117&type=3 Photoset] by [[Heidi Rogers]] of the same show.
-* [http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 1/25/14 show.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes the 3/14/14 show.
-* [http://www.facebook.com/media/set/?set=a.707481239315395.1073741978.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/28/14 show.
-** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] of the same show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
+* [Photoset](http://controlimages.zenfolio.com/breaking_beckett_reginald_39) by [[Roy Moore]] (Control Images) of the 1/24/14 preview performance.
+** [The same set, on facebook.](http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=1)
+** [Photoset](https://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104172328452210.1073741850.7909117&type=3) by [[Heidi Rogers]] of the same show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=3) by [[Roy Moore]] of the 1/25/14 show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Warren Henderson]] that includes the 3/14/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.707481239315395.1073741978.221927764537414&type=3) by [[Steve Rogers]] of the 3/28/14 show.
+** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Heidi Rogers]] of the same show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3) by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
 
 ## More Information
-* [http://www.facebook.com/BreakingBeckett The show's Facebook page].
-* [http://www.austinchronicle.com/daily/arts/2014-07-18/improv-tragedy-absurdity-wtf-institution-theatre/ Article about the show] by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
+* [The show's Facebook page](http://www.facebook.com/BreakingBeckett).
+* [Article about the show](http://www.austinchronicle.com/daily/arts/2014-07-18/improv-tragedy-absurdity-wtf-institution-theatre/) by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
 
 [[Category/The Institution Theater|Category:The Institution Theater]]

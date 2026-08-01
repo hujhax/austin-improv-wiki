@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Hurly Burly Poster.jpg">Hurly Burly Poster.jpg</a>
+				![[Hurly Burly Poster.jpg]]
 			</td>
 		</tr>
 
@@ -223,13 +223,13 @@ It then ran Fridays in February and March of 2015, and was part of [[The 2015 Im
 
 ## Media
 ### Videos
-* [http://youtu.be/VWx0ht1g-9Y An improvised song from one of the shows.]
+* [An improvised song from one of the shows.](http://youtu.be/VWx0ht1g-9Y)
 
 ### Photos
-* [http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3 Photoset] by [[Peter Rogers]] of their show in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3) by [[Peter Rogers]] of their show in [[The 45-Hour Improv Marathon]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=17121 Audition notice] in [[The Austin Improv Forums]].
-* [http://yesandrew.com/2014/06/14/6305/ Review] by [[Andrew Buck]].
+* [Audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=17121) in [[The Austin Improv Forums]].
+* [Review](http://yesandrew.com/2014/06/14/6305/) by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]

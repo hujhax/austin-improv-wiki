@@ -139,10 +139,10 @@ Winners are listed in **bold text**.
 
 ## Media
 ### Videos
-* [http://thetitievids.tumblr.com/ The 2013 nominated videos.]
+* [The 2013 nominated videos.](http://thetitievids.tumblr.com/)
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.480786615318193.115392.221927764537414&type=1 Photoset of the event] by [[Steve Rogers]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.4170764470150.142613.1315383518&type=3 Photoset of the event] by [[Michael Yew]].
+* [Photoset of the event](http://www.facebook.com/media/set/?set=a.480786615318193.115392.221927764537414&type=1) by [[Steve Rogers]].
+* [Photoset of the event](http://www.facebook.com/michael.yew/media_set?set=a.4170764470150.142613.1315383518&type=3) by [[Michael Yew]].
 
 ## More Information
-* [http://www.facebook.com/events/274500962675435/?ref=3 Facebook event for the awards ceremony.]
+* [Facebook event for the awards ceremony.](http://www.facebook.com/events/274500962675435/?ref=3)

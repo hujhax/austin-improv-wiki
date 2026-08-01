@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="A Bunch of Liars.jpg">A Bunch of Liars.jpg</a>
+				![[A Bunch of Liars.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ We love performing elaborate lies in front of large crowds, and making people la
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We basically do a Musical Armando.  Scenes interspersed with music.</blockquote>
 
 ## More Information
-* [http://www.facebook.com/pages/A-Bunch-Of-Liars/10150104673395494 Their web site.]
+* [Their web site.](http://www.facebook.com/pages/A-Bunch-Of-Liars/10150104673395494)
 
 [[Category/Troupes|Bunch of Liars]]
 [[Category/Auto-Generated Troupe Pages|Bunch of Liars]]

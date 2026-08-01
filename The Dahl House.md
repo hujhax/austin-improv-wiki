@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Dahl House.jpg">The Dahl House.jpg</a>
+				![[The Dahl House.jpg]]
 			</td>
 		</tr>
 
@@ -123,19 +123,19 @@ The opening and post-intermission dances had setpiece songs; the rest of the sho
 ### Publicity Blurbs
 From the show announcement:<blockquote>"Improvised stories inspired by Roald Dahl. British children’s fantasy with a distinctly fizz-wizzing flair."</blockquote>
 
-Long version from the [http://www.hideouttheatre.com/shows/TheDahlHouse show page]:<blockquote>This August, the Hideout brings you brand-new improvised plays inspired by childhood favorite Roald Dahl. The Dahl House takes the audience on an adventure through a world of brave children, horrid grown-ups, playful allies, and a marvelous array of animals, creatures, and thingamajigs.
+Long version from the [show page](http://www.hideouttheatre.com/shows/TheDahlHouse):<blockquote>This August, the Hideout brings you brand-new improvised plays inspired by childhood favorite Roald Dahl. The Dahl House takes the audience on an adventure through a world of brave children, horrid grown-ups, playful allies, and a marvelous array of animals, creatures, and thingamajigs.
 
 The world can be a scary and flamboozled place for the good-at-heart, but Roald Dahl has a wonderful way of showing us that goodness can prevail in the end, or at least stand up for itself.</blockquote>
 
 ## Media
 ### Photos
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.880565448640608.1073741880.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
-* [http://www.facebook.com/media/set/?set=a.10152690164257265.1073741854.588952264&type=3 Photoset] by [[Peter Rogers]] of the 8/16/14 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203901007388319.1073741933.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/11/15 performance at [[The 2015 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.880565448640608.1073741880.100000614831752&type=3) by [[Warren Henderson]] of a show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152690164257265.1073741854.588952264&type=3) by [[Peter Rogers]] of the 8/16/14 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203901007388319.1073741933.1315383518&type=3) by [[Michael Yew]] of the 4/11/15 performance at [[The 2015 Improvised Play Festival]].
 
 ## More Information
-* [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
-* [http://en.wikipedia.org/wiki/Roald_Dahl Wikipedia's entry on Roald Dahl]
+* [The show announcement](http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014) on the Hideout's web site.
+* [Wikipedia's entry on Roald Dahl](http://en.wikipedia.org/wiki/Roald_Dahl)
 
 [[Category/Shows|Dahl House]]
 [[Category/The Hideout Theatre|Dahl House]]

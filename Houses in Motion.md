@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Houses in Motion.jpg">Houses in Motion.jpg</a>
+				![[Houses in Motion.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2015 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We start with the invocation. We take our time with it, draw the audience in with exploration, pacing, focus, and intensity. Then WHAMMO. We go high energy, big choices, commitment, total support, lots of reacting to the last thing, occasional mind blowing organic edits and a loose interpretation of the slacker form make for a unique improv experience.</blockquote>
 
 ## More Information
-* [http://www.facebook.com/walkingaline The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/walkingaline)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

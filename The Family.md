@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Family Pic.jpg">The Family Pic.jpg</a>
+				![[The Family Pic.jpg]]
 			</td>
 		</tr>
 
@@ -107,9 +107,9 @@
 * Giovanni Valenti -- [[Hugo Vargas-Zesati]]
 
 ## Media
-* [http://youtu.be/wwsSt9mL3aI A music video for "You Don't Have To Know My Name (To Be My Lover)"], ostensibly created by Giovanni Valenti, one of the show's characters.
-* [http://www.facebook.com/media/set/?set=a.353389970616.152707.607595616&type=1 Photoset] by [[Andreas Fabis]] of the 2/26/10 performance.
+* [A music video for "You Don't Have To Know My Name (To Be My Lover)"](http://youtu.be/wwsSt9mL3aI), ostensibly created by Giovanni Valenti, one of the show's characters.
+* [Photoset](http://www.facebook.com/media/set/?set=a.353389970616.152707.607595616&type=1) by [[Andreas Fabis]] of the 2/26/10 performance.
 
 ## More Information
-* [http://gnaptheater.org/the-family/ The show's website.]
-* [http://www.facebook.com/events/496285910062/ The show's facebook event.]
+* [The show's website.](http://gnaptheater.org/the-family/)
+* [The show's facebook event.](http://www.facebook.com/events/496285910062/)

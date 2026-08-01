@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Au Pair.jpg">Au Pair.jpg</a>
+				![[Au Pair.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,11 +85,11 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=3b3WlN42QGQ&spfreload=10 Video #1]
-* [http://www.youtube.com/watch?v=DmFK0xFuuxE Video #2]
+* [Video #1](http://www.youtube.com/watch?v=3b3WlN42QGQ&spfreload=10)
+* [Video #2](http://www.youtube.com/watch?v=DmFK0xFuuxE)
 
 ## More Information
-* [http://www.facebook.com/aupaircomedy The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/aupaircomedy)
 
 
 [[Category/Troupes|Category:Troupes]]

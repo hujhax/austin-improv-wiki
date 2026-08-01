@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="$10 Bourbon.jpg">$10 Bourbon.jpg</a>
+				![[$10 Bourbon.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,7 +83,7 @@ Their final show was on 8/27/08, at [[The 2008 Out of Bounds Comedy Festival]].
 
 ## Media
 ### Photos
-* [http://www.flickr.com/photos/oob_pics/sets/72157606947457587 Photoset] that includes their final show.
+* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157606947457587) that includes their final show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

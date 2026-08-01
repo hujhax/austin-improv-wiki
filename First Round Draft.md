@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="First Round Draft.png">First Round Draft.png</a>
+				![[First Round Draft.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,13 +87,13 @@ One of their formats was "Fast Forward", a montage show with no scene lasting lo
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.19100722264.15332.588952264&type=1 Photoset of their 8/11/2002 "Fast Forward" performance.]
+* [Photoset of their 8/11/2002 "Fast Forward" performance.](http://www.facebook.com/media/set/?set=a.19100722264.15332.588952264&type=1)
 
 ### Videos
-* [http://vimeo.com/17168162 Video of their sketch show] from [[The 2003 Out of Bounds Comedy Festival]].
+* [Video of their sketch show](http://vimeo.com/17168162) from [[The 2003 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://firstrounddraft.austinimprov.com/ First Round Draft homepage.]
+* [First Round Draft homepage.](http://firstrounddraft.austinimprov.com/)
 
 
 [[Category/Troupes|Category:Troupes]]

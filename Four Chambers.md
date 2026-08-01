@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The tribunal.jpg">The tribunal.jpg</a>
+				![[The tribunal.jpg]]
 			</td>
 		</tr>
 
@@ -129,9 +129,9 @@ This show played on May 30, 2015.
 
 ## Media
 ### Videos
-* [http://youtu.be/VSxDDJRuPgk Video] of the 5/16/15 performance of "Previous Occupants".
-* [http://vimeo.com/130296223 Video] of the 5/23/15 performance of "Juggernaut".
-** [http://youtu.be/suIDfmBkZ80 iPhone video] of the show.
+* [Video](http://youtu.be/VSxDDJRuPgk) of the 5/16/15 performance of "Previous Occupants".
+* [Video](http://vimeo.com/130296223) of the 5/23/15 performance of "Juggernaut".
+** [iPhone video](http://youtu.be/suIDfmBkZ80) of the show.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

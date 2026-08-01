@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="[[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84">[[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84</a>|frameless|border|150px|]]
+				![<a class="internal-link" href="[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84](https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84)">[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84](https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84)</a>]
 			</td>
 		</tr>
 		<tr class="">
@@ -156,9 +156,9 @@ ComedySportz included some 350 members over the course of its existence, includi
 
 ## Media
 ### Photos
-* Old photosets from [[Tyler Bryce]]: [http://www.facebook.com/tylerbryce/media_set?set=a.10151079418297704.498105.505207703&type=3 1], [http://www.facebook.com/tylerbryce/media_set?set=a.10151081452217704.498300.505207703&type=3 2]
+* Old photosets from [[Tyler Bryce]]: [1](http://www.facebook.com/tylerbryce/media_set?set=a.10151079418297704.498105.505207703&type=3), [2](http://www.facebook.com/tylerbryce/media_set?set=a.10151081452217704.498300.505207703&type=3)
 
 ## More Information
-* [http://www.comedysportzaustin.com The homepage for ComedySportz Austin.]
+* [The homepage for ComedySportz Austin.](http://www.comedysportzaustin.com)
 
 [[Category/Troupes|Category:Troupes]]

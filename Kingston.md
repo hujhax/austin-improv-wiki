@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kingston.jpg">Kingston.jpg</a>
+				![[Kingston.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,10 +87,10 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/98304072 Video] by [[Kyle Sweeney]] of their 6/13/14 show.
+* [Video](http://vimeo.com/98304072) by [[Kyle Sweeney]] of their 6/13/14 show.
 
 ## More Information
-* [https://www.facebook.com/KingstonImprov The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/KingstonImprov)
 
 
 [[Category/Troupes|Category:Troupes]]

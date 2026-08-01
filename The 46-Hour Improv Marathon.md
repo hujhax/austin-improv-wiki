@@ -87,20 +87,20 @@
 
 ## Media
 ### Videos
-* [http://vimeo.com/133006812 Video] of hour 10 ([[The Black Vault]]).
-* [http://vimeo.com/134444206 Video] of hour 21 ([[History Under the Influence]]).
-* [http://vimeo.com/134919862 Video] of hour 23 ("The Eye of the Storm").
-* [http://vimeo.com/134810540 Video] of hour 29 (*[[Scene of the Crime]]*).
-* [http://vimeo.com/134526479 Video] of hour 46, part 1 ("The Final Countdown").
-* [http://vimeo.com/134587604 Video] of hour 46, part 2 ("Final Words").
+* [Video](http://vimeo.com/133006812) of hour 10 ([[The Black Vault]]).
+* [Video](http://vimeo.com/134444206) of hour 21 ([[History Under the Influence]]).
+* [Video](http://vimeo.com/134919862) of hour 23 ("The Eye of the Storm").
+* [Video](http://vimeo.com/134810540) of hour 29 (*[[Scene of the Crime]]*).
+* [Video](http://vimeo.com/134526479) of hour 46, part 1 ("The Final Countdown").
+* [Video](http://vimeo.com/134587604) of hour 46, part 2 ("Final Words").
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204337420658378.1073741950.1315383518&type=3 Photoset] by [[Michael Yew]] of hours 2 and 3.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204338520685878.1073741951.1315383518&type=3 Photoset] by [[Michael Yew]] of hour 4.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204338668289568.1073741952.1315383518&type=3 Photoset] by [[Michael Yew]] of hours 5 and 6.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204338867854557.1073741953.1315383518&type=3 Photoset] by [[Michael Yew]] of hours 21 and 22.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204341364356968.1073741954.1315383518&type=3 Photoset] by [[Michael Yew]] of hours 28 and 29.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204347096420266.1073741955.1315383518&type=3 Photoset] by [[Michael Yew]] of hours 30 and 43.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204337420658378.1073741950.1315383518&type=3) by [[Michael Yew]] of hours 2 and 3.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204338520685878.1073741951.1315383518&type=3) by [[Michael Yew]] of hour 4.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204338668289568.1073741952.1315383518&type=3) by [[Michael Yew]] of hours 5 and 6.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204338867854557.1073741953.1315383518&type=3) by [[Michael Yew]] of hours 21 and 22.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204341364356968.1073741954.1315383518&type=3) by [[Michael Yew]] of hours 28 and 29.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204347096420266.1073741955.1315383518&type=3) by [[Michael Yew]] of hours 30 and 43.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/improvmarathon The marathon's web page.]
+* [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)

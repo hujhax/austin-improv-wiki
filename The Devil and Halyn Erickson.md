@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Devil and Halyn Erickson.jpg">The Devil and Halyn Erickson.jpg</a>
+				![[The Devil and Halyn Erickson.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -37,11 +37,11 @@ The show headlined *[[The Threefer]]* in June 2014.
 
 ## Media
 ### Videos
-* [http://youtu.be/N4fpWQQVdwM Video] by [[Warren Henderson]] that includes her 6/12/14 performance in *[[The Threefer]]*.
+* [Video](http://youtu.be/N4fpWQQVdwM) by [[Warren Henderson]] that includes her 6/12/14 performance in *[[The Threefer]]*.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3 Photoset] by [[Michael Yew]] that includes her 6/5/14 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes her 6/12/14 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes her 6/5/14 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3) by [[Warren Henderson]] that includes her 6/12/14 performance in *[[The Threefer]]*.
 
 [[Category/Shows|Devil and Halyn Erickson]]
 [[Category/Auto-Generated Troupe Pages|Devil and Halyn Erickson]]

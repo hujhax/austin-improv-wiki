@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Jon Bolden Pic.jpg">Jon Bolden Pic.jpg</a>
+				![[Jon Bolden Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -60,8 +60,8 @@ Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He
 * *[[TheatreSports (mainstage run)|Theatresports]]*
 
 ## More Information
-* [http://yesandrew.com/2014/06/08/the-sunday-interview-jon-bolden-2/ Interview] by [[Andrew Buck]].
-* [http://gybpodcast.libsyn.com/john-bolden-ep18-got-your-back Interview] on *[[Got Your Back]]*.
+* [Interview](http://yesandrew.com/2014/06/08/the-sunday-interview-jon-bolden-2/) by [[Andrew Buck]].
+* [Interview](http://gybpodcast.libsyn.com/john-bolden-ep18-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Bolden]]
 [[Category/Teachers|Bolden]]

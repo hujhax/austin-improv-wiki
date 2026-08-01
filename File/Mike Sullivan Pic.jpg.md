@@ -1,7 +1,7 @@
 ## Summary
 [[Mike Sullivan]], performing in [[Gnap! Theater Projects]]' third annual [[Gnap! Homecoming Party]] on 2/18/11.
 
-Photo by [[Steve Rogers]], from [http://www.facebook.com/media/set/?set=a.117507041663661.24217.100002130980897&type=3 this photoset].
+Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.117507041663661.24217.100002130980897&type=3).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Gerrbobble.jpg">Gerrbobble.jpg</a>
+				![[Gerrbobble.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 The troupe played in the 2009 "Theater of Cruelty" *[[Cagematch]]*.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=10172 Thread listing the troupe] in the *[[Cagematch]]* roster on [[The Austin Improv Forums]].
+* [Thread listing the troupe](http://forum.austinimprov.com/viewtopic.php?t=10172) in the *[[Cagematch]]* roster on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

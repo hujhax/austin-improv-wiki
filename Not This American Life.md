@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Not This American Life.jpg">Not This American Life.jpg</a>
+				![[Not This American Life.jpg]]
 			</td>
 		</tr>
 
@@ -252,31 +252,31 @@ The show was originally called *This American Live*, but in 2013, it received a 
 
 ## Media
 ### Videos
-* [http://www.viddler.com/v/a565f130 Video] of the 5/18/12 premiere ("A Map of the World").
-* [http://www.viddler.com/v/82b8359b Video] of the 5/19/12 show ("Co-Existence").
-* [http://www.viddler.com/v/a6fd2140 Video] of the 5/25/12 show ("Physics as a Metaphor").
-* [http://www.viddler.com/v/f878f53c Video] of the 5/26/12 show ("Cinematic Reality").
-* [http://www.viddler.com/v/3a208da7 Video] of the 6/1/12 show ("What a Coincidence").
+* [Video](http://www.viddler.com/v/a565f130) of the 5/18/12 premiere ("A Map of the World").
+* [Video](http://www.viddler.com/v/82b8359b) of the 5/19/12 show ("Co-Existence").
+* [Video](http://www.viddler.com/v/a6fd2140) of the 5/25/12 show ("Physics as a Metaphor").
+* [Video](http://www.viddler.com/v/f878f53c) of the 5/26/12 show ("Cinematic Reality").
+* [Video](http://www.viddler.com/v/3a208da7) of the 6/1/12 show ("What a Coincidence").
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.420821037939397.94879.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 5/25/12 show ("Cinematic Reality").
-** [http://www.facebook.com/michael.yew/media_set?set=a.3169864168268.121677.1315383518&type=3 Photoset] by [[Michael Yew]] of the same show.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.426194707402030.95771.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 6/2/12 show ("Haunted").
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.429397763748391.96354.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 6/9/12 show ("Beginnings and Endings").
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.487594341262066.110357.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 11/2/12 show ("Body Image & Body Commerce").
-* [http://www.facebook.com/michael.yew/media_set?set=a.3891714614078.138307.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/30/12 show ("The Line in the Sand").
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.501547396533427.113006.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 12/7/12 show ("Life of Privilege").
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.507971672557666.114181.100000345135257&type= Photoset] by [[Claudio Fox]] of the 12/21/12 show ("Insufficient Data").
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.654955964525902.1073741867.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 11/8/13 show ("Art Is Theft").
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.420821037939397.94879.100000345135257&type=3) by [[Claudio Fox]] of the 5/25/12 show ("Cinematic Reality").
+** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3169864168268.121677.1315383518&type=3) by [[Michael Yew]] of the same show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.426194707402030.95771.100000345135257&type=3) by [[Claudio Fox]] of the 6/2/12 show ("Haunted").
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.429397763748391.96354.100000345135257&type=3) by [[Claudio Fox]] of the 6/9/12 show ("Beginnings and Endings").
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.487594341262066.110357.100000345135257&type=3) by [[Claudio Fox]] of the 11/2/12 show ("Body Image & Body Commerce").
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3891714614078.138307.1315383518&type=3) by [[Michael Yew]] of the 11/30/12 show ("The Line in the Sand").
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.501547396533427.113006.100000345135257&type=3) by [[Claudio Fox]] of the 12/7/12 show ("Life of Privilege").
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.507971672557666.114181.100000345135257&type=) by [[Claudio Fox]] of the 12/21/12 show ("Insufficient Data").
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.654955964525902.1073741867.100000345135257&type=3) by [[Claudio Fox]] of the 11/8/13 show ("Art Is Theft").
 
 ### Other
-* [http://vimeo.com/76290597 Audio] from the "House of the Future" sketch from the 11/9/12 show ("TechnEcology")
+* [Audio](http://vimeo.com/76290597) from the "House of the Future" sketch from the 11/9/12 show ("TechnEcology")
 
 ## More Information
 * Posts to [[The Austin Improv Forums]]:
-** [http://forum.austinimprov.com/viewtopic.php?t=13511&p=121095 Announcement of the June 2012 show topics.]
-** [http://forum.austinimprov.com/viewtopic.php?t=14498 Announcement of the 12/28/12 show.]
-** [http://forum.austinimprov.com/viewtopic.php?f=3&t=15372 A call for stories for the 2013 run.]
-** [http://forum.austinimprov.com/viewtopic.php?f=2&t=16660 Show announcement of the 2013 run.]
+** [Announcement of the June 2012 show topics.](http://forum.austinimprov.com/viewtopic.php?t=13511&p=121095)
+** [Announcement of the 12/28/12 show.](http://forum.austinimprov.com/viewtopic.php?t=14498)
+** [A call for stories for the 2013 run.](http://forum.austinimprov.com/viewtopic.php?f=3&t=15372)
+** [Show announcement of the 2013 run.](http://forum.austinimprov.com/viewtopic.php?f=2&t=16660)
 
 [[Category/Shows|Category:Shows]]

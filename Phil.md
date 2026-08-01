@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Phil.jpg">Phil.jpg</a>
+				![[Phil.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,18 +81,18 @@ Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[The H
 
 ## Media
 ### Videos
-* [http://youtu.be/L_AZ0MjwIvY Video] of their 3/16/12 show at [[The Hideout Theatre]].
-* [http://youtu.be/nbcbhItVb9E Video] of their 3/21/12 show at [[ColdTowne Theater]].
-* [http://youtu.be/_8fe2zrq5HM Video] of their 6/15/12 show at [[The Hideout Theatre]].
+* [Video](http://youtu.be/L_AZ0MjwIvY) of their 3/16/12 show at [[The Hideout Theatre]].
+* [Video](http://youtu.be/nbcbhItVb9E) of their 3/21/12 show at [[ColdTowne Theater]].
+* [Video](http://youtu.be/_8fe2zrq5HM) of their 6/15/12 show at [[The Hideout Theatre]].
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes one of their shows. 
-* [http://www.facebook.com/hujhax/media_set?set=a.10150198541347265.346700.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 3/31/11 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/14/11 performance in *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) by [[Claudio Fox]] that includes one of their shows. 
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198541347265.346700.588952264&type=3) by [[Peter Rogers]] that includes their 3/31/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3) by [[Roy Moore]] that includes their 8/14/11 performance in *[[The Weekender]]*.
 
 ## More Information
-* [http://www.facebook.com/philimprov The troupe's facebook page.]
-* [http://improvphil.wordpress.com The troupe's blog.]
+* [The troupe's facebook page.](http://www.facebook.com/philimprov)
+* [The troupe's blog.](http://improvphil.wordpress.com)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

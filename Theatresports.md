@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="TheatreSports.jpg">TheatreSports.jpg</a>
+				![[TheatreSports.jpg]]
 			</td>
 		</tr>
 
@@ -368,46 +368,46 @@ The schedule is as follows:
 
 ## Media
 ### Videos
-* Video of the 10/30/10 performance by [[Peter Rogers]]: [http://vimeo.com/16402965 part 1], [http://vimeo.com/16403547 part 2].
-* [http://vimeo.com/66174442 Video of the 5/4/13 performance] by [[Ryan Austin]].
-** [http://vimeo.com/67173123 A second video] of the same show.
-* [http://vimeo.com/67173124 Video of the 5/11/13 performance] by [[Ryan Austin]].
-* [http://vimeo.com/67725617 Video of the 5/18/13 performance] by [[Ryan Austin]].
-* [http://vimeo.com/69837645 Video of the 5/25/13 performance] by [[Ryan Austin]].
-* [http://vimeo.com/69837644 Video of the 6/1/13 performance] by [[Ryan Austin]].
-* [http://vimeo.com/70243827 Video of the 6/8/13 performance] by [[Ryan Austin]].
-* [http://vimeo.com/108864355 Video] of the 6/14/13 show.
-* [http://vimeo.com/101990260 Video of a 2014 show].
-* [http://vimeo.com/95740478 Video] of the 5/10/14 show.
-* [http://vimeo.com/97182583 Video] of the 5/24/14 show.
-* [http://vimeo.com/97182584 Video] of the 5/31/14 show.
+* Video of the 10/30/10 performance by [[Peter Rogers]]: [part 1](http://vimeo.com/16402965), [part 2](http://vimeo.com/16403547).
+* [Video of the 5/4/13 performance](http://vimeo.com/66174442) by [[Ryan Austin]].
+** [A second video](http://vimeo.com/67173123) of the same show.
+* [Video of the 5/11/13 performance](http://vimeo.com/67173124) by [[Ryan Austin]].
+* [Video of the 5/18/13 performance](http://vimeo.com/67725617) by [[Ryan Austin]].
+* [Video of the 5/25/13 performance](http://vimeo.com/69837645) by [[Ryan Austin]].
+* [Video of the 6/1/13 performance](http://vimeo.com/69837644) by [[Ryan Austin]].
+* [Video of the 6/8/13 performance](http://vimeo.com/70243827) by [[Ryan Austin]].
+* [Video](http://vimeo.com/108864355) of the 6/14/13 show.
+* [Video of a 2014 show](http://vimeo.com/101990260).
+* [Video](http://vimeo.com/95740478) of the 5/10/14 show.
+* [Video](http://vimeo.com/97182583) of the 5/24/14 show.
+* [Video](http://vimeo.com/97182584) of the 5/31/14 show.
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/25/10 performance.
-* [http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1 Photoset] by [[Roy Moore]] of the 9/18/2010 match between Team Cathedral of Junk and Team H8 Cupcake.
-** [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the same show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 10/1/2010 match between Team Katz's Deli and Team Taco Deli.
-* [http://www.facebook.com/media/set/?set=a.1379182571490.2052519.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/2/10 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/30/10 final match.
-** [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the same match.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/3/11 show in [[The 42-Hour Improv Marathon]].
-* [http://www.facebook.com/hujhax/media_set?set=a.19102197264.15341.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/14/12 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.19102282264.15342.588952264&type=3 Photoset] by [[Peter Rogers]] of the 12/21/12 performance.
-* [http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 5/4/13 premiere.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes the 5/25/13 show.
-** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the same show.
-* [http://cwcreations.smugmug.com/Improv-2013/Hideout/2013-06-15-Theatresports/ Photoset] by [[Chad Wellington]] of the 6/15/13 show.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.603982086298947.1073741834.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 6/28/13 finale.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.831365263560627.1073741872.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a 2014 show.
-* [http://www.facebook.com/media/set/?set=a.731734633556722.1073741997.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/10/14 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201938403444447.1073741889.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/24/14 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3) by [[Peter Rogers]] of the 9/25/10 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1) by [[Roy Moore]] of the 9/18/2010 match between Team Cathedral of Junk and Team H8 Cupcake.
+** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the same show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the 10/1/2010 match between Team Katz's Deli and Team Taco Deli.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1379182571490.2052519.1589679282&type=3) by [[Roy Moore]] of the 10/2/10 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3) by [[Peter Rogers]] of the 10/30/10 final match.
+** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the same match.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/3/11 show in [[The 42-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19102197264.15341.588952264&type=3) by [[Peter Rogers]] of the 12/14/12 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19102282264.15342.588952264&type=3) by [[Peter Rogers]] of the 12/21/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3) by [[Warren Henderson]] of the 5/4/13 premiere.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3) by [[Warren Henderson]] that includes the 5/25/13 show.
+** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Hideout/2013-06-15-Theatresports/) by [[Chad Wellington]] of the 6/15/13 show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.603982086298947.1073741834.100000614831752&type=3) by [[Warren Henderson]] of the 6/28/13 finale.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.831365263560627.1073741872.100000614831752&type=3) by [[Warren Henderson]] of a 2014 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.731734633556722.1073741997.221927764537414&type=3) by [[Steve Rogers]] of the 5/10/14 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201938403444447.1073741889.1315383518&type=3) by [[Michael Yew]] of the 5/24/14 show.
 
 
 ### Other
-* Photos of [[Kaci Beeler]]'s set design for the 2013 run: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatresports-set/theatresports-set.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatersports-orphans/theatersports-orphans.jpg?disposition=download 2].
+* Photos of [[Kaci Beeler]]'s set design for the 2013 run: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatresports-set/theatresports-set.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatersports-orphans/theatersports-orphans.jpg?disposition=download).
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/TheatresportsTournament The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/TheatresportsTournament)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

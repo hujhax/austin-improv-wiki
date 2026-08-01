@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Austin Playback Theatre.jpg">Austin Playback Theatre.jpg</a>
+				![[Austin Playback Theatre.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We elicit stories from the audience an enact them on the spot(with music.)</blockquote>
 
 ## More Information
-* [http://www.facebook.com/home.php#!/pages/Austin-Playback-Theatre/169469516402787 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/home.php#!/pages/Austin-Playback-Theatre/169469516402787)
 
 
 [[Category/Troupes|Category:Troupes]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Boy Toy.jpg">Boy Toy.jpg</a>
+				![[Boy Toy.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,7 +81,7 @@
 Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>Harold. Fast and furious for now. Working on a Chicago-style "Suggestion as Show" Harold but still getting comfortable with ... everything. </blockquote>
 
 ## More Information
-* [http://www.boytoyimprov.com The troupe's web site (defunct).]
+* [The troupe's web site (defunct).](http://www.boytoyimprov.com)
 
 
 [[Category/Troupes|Category:Troupes]]

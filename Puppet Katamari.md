@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Puppet Katamari.jpg">Puppet Katamari.jpg</a>
+				![[Puppet Katamari.jpg]]
 			</td>
 		</tr>
 
@@ -104,15 +104,15 @@ The show included pre-filmed shorts, improv games, and a narrative set in an und
 
 ## Media
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.173388176075547.46005.100002130980897&type=3 Photoset] by [[Steve Rogers]] of an unknown performance.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.173668319380866.46089.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 9/23/11 performance.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.178583978889300.47624.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the 10/2/11 performance.
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.173388176075547.46005.100002130980897&type=3) by [[Steve Rogers]] of an unknown performance.
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.173668319380866.46089.100002130980897&type=3) by [[Steve Rogers]] of the 9/23/11 performance.
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.178583978889300.47624.100002130980897&type=3) by [[Steve Rogers]] of the 10/2/11 performance.
 
 ### Publicity
-* [http://www.youtube.com/watch?v=_ALXwc9__kk Trailer for the show.]
+* [Trailer for the show.](http://www.youtube.com/watch?v=_ALXwc9__kk)
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=111588 Show announcements] on [[The Austin Improv Forums]].
-** [http://forum.austinimprov.com/viewtopic.php?p=110950 Thread featuring the trailer.]
-** [http://forum.austinimprov.com/viewtopic.php?p=109188 Casting call] and [http://forum.austinimprov.com/viewtopic.php?t=12131 tech call] for the show.
-* [http://puppetimprovproject.org/puppet-katamari.html The show's web page.]
+* [Show announcements](http://forum.austinimprov.com/viewtopic.php?p=111588) on [[The Austin Improv Forums]].
+** [Thread featuring the trailer.](http://forum.austinimprov.com/viewtopic.php?p=110950)
+** [Casting call](http://forum.austinimprov.com/viewtopic.php?p=109188) and [tech call](http://forum.austinimprov.com/viewtopic.php?t=12131) for the show.
+* [The show's web page.](http://puppetimprovproject.org/puppet-katamari.html)

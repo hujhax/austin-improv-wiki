@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Umami.jpg">Umami.jpg</a>
+				![[Umami.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 The troupe debuted at [[ColdTowne Theater]] with three shows in June 2011.
 
 ## More Information
-* [http://sites.google.com/site/umamiimprov/ The troupe's web site.]
+* [The troupe's web site.](http://sites.google.com/site/umamiimprov/)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

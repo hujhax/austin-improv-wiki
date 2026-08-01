@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Kristin Henn Pic.jpg">Kristin Henn Pic.jpg</a>
+				![[Kristin Henn Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -50,7 +50,7 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has st
 * [[Rezurangur]]
 
 ## More Information
-* [http://gybpodcast.libsyn.com/kristin-henn-ep-4-got-your-back Interview] on the *[[Got Your Back]]* podcast.
+* [Interview](http://gybpodcast.libsyn.com/kristin-henn-ep-4-got-your-back) on the *[[Got Your Back]]* podcast.
 
 [[Category/Performers|Henn]]
 [[Category/Directors|Henn]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Somewhat Brittish.jpg">Somewhat Brittish.jpg</a>
+				![[Somewhat Brittish.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 The duo disbanded in August 2011, when the two members moved to Chicago and New Orleans.
 
 ## More Information
-* [http://www.facebook.com/somewhat.brittish The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/somewhat.brittish)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

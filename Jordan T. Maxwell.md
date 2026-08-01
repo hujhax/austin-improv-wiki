@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Jordan T. Maxwell Pic.jpg">Jordan T. Maxwell Pic.jpg</a>
+				![[Jordan T. Maxwell Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -29,7 +29,7 @@ After graduating from UT, Jordan made his first film appearances in the award wi
 
 In October 2010, Jordan gave up on Los Angeles and moved back to Austin where he quickly began performing again in shows like *[[Pick Your Own Path]]*, *[[Austin Secrets]]*, *[[Showdown]]*, *[[Live Nude Improv]]*, *[[Spirited]]*, and *[[The 42-Hour Improv Marathon]]*.  He also directed *[[Live TV Tuesdays -  Buffy the Vampire Slayer]]*, hosted the *[[Fancy Pants Mash Up]]*, performed briefly with [[¡Zarzamora!]], and started his improvised dystopian cabaret [[Indigo Shift]] with [[Kacey Samiee]] and [[Michael Brockman]] (replaced by [[Jeffrey Amos]] following Brockman's departure to Chicago).  
 
-In October of 2011, Jordan took a brief hiatus from Austin to film the Hulu original series *[http://en.wikipedia.org/wiki/Battleground_(TV_series) Battleground]*, written and directed by his former Ultimate Improv coach J.D. Walsh, in Madison, Wisconsin.  In 2012, he returned to Austin improv in *[[Process]]*, *[[Rock]]*, and *[[Pocketful of Posies]]*.  In 2013, he was cast in *[[Fandom]]* and directed *[[Strange Worlds]]*, an improvised pulp hero anthology he first envisioned during his time in Los Angeles.  He then directed *Macbeth* and played Dogberry in *Much Ado About Nothing* leading up to the run of *[[Fakespeare]]* at [[The Hideout Theatre]], and debuted his new troupe [[The Awkwards]] with [[Kacey Samiee]] and [[Aaron Saenz]]. 
+In October of 2011, Jordan took a brief hiatus from Austin to film the Hulu original series *[Battleground](http://en.wikipedia.org/wiki/Battleground_(TV_series))*, written and directed by his former Ultimate Improv coach J.D. Walsh, in Madison, Wisconsin.  In 2012, he returned to Austin improv in *[[Process]]*, *[[Rock]]*, and *[[Pocketful of Posies]]*.  In 2013, he was cast in *[[Fandom]]* and directed *[[Strange Worlds]]*, an improvised pulp hero anthology he first envisioned during his time in Los Angeles.  He then directed *Macbeth* and played Dogberry in *Much Ado About Nothing* leading up to the run of *[[Fakespeare]]* at [[The Hideout Theatre]], and debuted his new troupe [[The Awkwards]] with [[Kacey Samiee]] and [[Aaron Saenz]]. 
 
 After returning to *[[The Professor]]* during Doctor Who's 50th anniversary, and in the midst of touring to New York, Hawaii, and Alaska with [[Indigo Shift]] and [[Strange Worlds]], he performed in *[[I Love You So Much]]*, *[[Kenjutsu]]*, and *[[Nothing and Everything]]*.  He also directed the Hideout Student Mainstage Show, *[[The Aftermath]]*.   
 
@@ -76,7 +76,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>Other tha
 * *[[Teenage Wasteland]]* (director)
 
 ## More Information
-* [http://yesandrew.com/2013/05/26/the-sunday-interview-jordan-t-maxwell/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/2013/05/26/the-sunday-interview-jordan-t-maxwell/) by [[Andrew Buck]].
 
 [[Category/Performers|Maxwell]]
 [[Category/Directors|Maxwell]]

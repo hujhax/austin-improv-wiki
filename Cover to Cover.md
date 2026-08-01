@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Cover to Cover.gif">Cover to Cover.gif</a>
+				![[Cover to Cover.gif]]
 			</td>
 		</tr>
 
@@ -165,18 +165,18 @@ The teacher would assign chapters to the students for a book report.  Then, each
 After its mainstage run with Gnap!, *Cover to Cover* had a special benefit show on 12/5/11 for the Austin Children's Shelter.
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.10150336363103311.351864.16782108310&type=1 Publicity photos] by [[Steve Rogers]], with art by [[Courtney Hopkin]].
-** [http://www.facebook.com/media/set/?set=a.229147383815452.60321.221927764537414&type=3 Variant publicity photos.]
-* [http://www.facebook.com/media/set/?set=a.227557240641133.59929.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 10/21/11 performance ("The Unknown Portrait").
-* [http://www.facebook.com/media/set/?set=a.186346044779760.49438.100002130980897&type=1 Photoset] by [[Steve Rogers]] of their 10/22/11 performance ("The Secret of Viking Cove").
-** [http://www.facebook.com/michael.yew/media_set?set=a.2082665028969.99652.1315383518&type=3 Another photoset] by [[Michael Yew]].
-* [http://www.facebook.com/media/set/?set=a.246832785380245.63918.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 11/4/11 performance ("The Broken Locket").
-* [http://www.facebook.com/media/set/?set=a.238045849592272.62449.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 11/12/11 performance ("The Mystery at the Masquerade").
-* [http://www.facebook.com/media/set/?set=a.410810295649159.99386.221927764537414&type=1 Photoset] by [[Steve Rogers]] of their 11/19/11 performance.
+* [Publicity photos](http://www.facebook.com/media/set/?set=a.10150336363103311.351864.16782108310&type=1) by [[Steve Rogers]], with art by [[Courtney Hopkin]].
+** [Variant publicity photos.](http://www.facebook.com/media/set/?set=a.229147383815452.60321.221927764537414&type=3)
+* [Photoset](http://www.facebook.com/media/set/?set=a.227557240641133.59929.221927764537414&type=3) by [[Steve Rogers]] of their 10/21/11 performance ("The Unknown Portrait").
+* [Photoset](http://www.facebook.com/media/set/?set=a.186346044779760.49438.100002130980897&type=1) by [[Steve Rogers]] of their 10/22/11 performance ("The Secret of Viking Cove").
+** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2082665028969.99652.1315383518&type=3) by [[Michael Yew]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.246832785380245.63918.221927764537414&type=3) by [[Steve Rogers]] of their 11/4/11 performance ("The Broken Locket").
+* [Photoset](http://www.facebook.com/media/set/?set=a.238045849592272.62449.221927764537414&type=3) by [[Steve Rogers]] of their 11/12/11 performance ("The Mystery at the Masquerade").
+* [Photoset](http://www.facebook.com/media/set/?set=a.410810295649159.99386.221927764537414&type=1) by [[Steve Rogers]] of their 11/19/11 performance.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=111197 The casting announcement] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=112700 The show announcement] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=113728 The benefit-show announcement] on [[The Austin Improv Forums]].
+* [The casting announcement](http://forum.austinimprov.com/viewtopic.php?p=111197) on [[The Austin Improv Forums]].
+* [The show announcement](http://forum.austinimprov.com/viewtopic.php?p=112700) on [[The Austin Improv Forums]].
+* [The benefit-show announcement](http://forum.austinimprov.com/viewtopic.php?p=113728) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Cover]]

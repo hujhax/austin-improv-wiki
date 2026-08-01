@@ -6,7 +6,7 @@
 * [[Emma Holder]]
 * [[Eric Heiberg]]
 * [[Halyn Lee Erickson]]
-* [http://jillbernard3.blogspot.com/ Jill Bernard] (guest from Minneapolis)
+* [Jill Bernard](http://jillbernard3.blogspot.com/) (guest from Minneapolis)
 * [[John Ratliff]]
 * [[Jon Bolden]]
 * [[Marc Majcher]]
@@ -23,7 +23,7 @@
 * Saturday 1am: [[The New Game Project]]
 * Saturday 2am: Jill Bernard's Drum Machine
 * Saturday 3am: [[Spirit Desire]]
-* Saturday 4am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]
+* Saturday 4am: "[The Bat](http://improvencyclopedia.org/games/The_Bat.html)" with [[ColdTowne (troupe)|ColdTowne]]
 * Saturday 5am: [[Cat Drago|Cat]] & [[Ryan Hill|Ryan]]
 * Saturday 6am: The "Truth Chair" act from *[[Austin Secrets]]* 
 * Saturday 7am: Student Show
@@ -57,31 +57,31 @@
 
 ## Media
 ### Videos
-* [http://vimeo.com/43331034 Hour 4: Girls Girls Girls]
-* Hour 27: *[[Pick Your Own Path]]*: [http://vimeo.com/43374371 show #1], [http://vimeo.com/43417838 show #2].
-* [http://vimeo.com/43361530 Hours 30 & 31: *Maestro*]
+* [Hour 4: Girls Girls Girls](http://vimeo.com/43331034)
+* Hour 27: *[[Pick Your Own Path]]*: [show #1](http://vimeo.com/43374371), [show #2](http://vimeo.com/43417838).
+* [Hours 30 & 31: *Maestro*](http://vimeo.com/43361530)
 
 ### Photos
-* [http://www.facebook.com/Jonbolden/media_set?set=a.597112071223.2051376.76200304&type=3 A photoset] by [[Jon Bolden]] of the pre-Marathon meeting at the Dog & Duck.
-* [http://www.facebook.com/media/set/?set=a.3952167173802.162192.1568827741&type=3 Photoset] from [[Anna Lattka]].
-* [http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/ Photoset] from [[The Hideout Theatre]].
-* [http://www.facebook.com/media/set/?set=a.373501069380082.89433.221927764537414&type=3 Photoset of hours 1-4] from [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.3204199026618.122311.1315383518&type=3 Photoset of hours 5-9] from [[Michael Yew]].
-* [http://www.facebook.com/hujhax/media_set?set=a.10151037606607265.487220.588952264&type=3 Photoset of hour 10] (Drum Machine) from [[Peter Rogers]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.426281400726694.95785.100000345135257&type=3 Photoset of hours 14-18] by [[Claudio Fox]].
-* [http://www.flickr.com/photos/hideouttheatre/sets/72157630038239970/ Photoset of hours 17-20, 28] from [[Michael Yew]].
-* [http://www.facebook.com/media/set/?set=a.375108375886018.89657.221927764537414&type=3 Photoset of hours 27-29] from [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3 Photoset of hours 30-31] from [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.10151037625202265.487222.588952264&type=3 Photoset of hour 40] (the second student show) from [[Peter Rogers]].
-* [http://www.facebook.com/media/set/?set=a.427332093954958.95954.100000345135257&type=3 Photoset of hours 37-43] from [[Claudio Fox]].
-* [http://www.facebook.com/media/set/?set=a.374667585930097.89589.221927764537414&type=3 Photoset of hours 41-43] from [[Steve Rogers]].
+* [A photoset](http://www.facebook.com/Jonbolden/media_set?set=a.597112071223.2051376.76200304&type=3) by [[Jon Bolden]] of the pre-Marathon meeting at the Dog & Duck.
+* [Photoset](http://www.facebook.com/media/set/?set=a.3952167173802.162192.1568827741&type=3) from [[Anna Lattka]].
+* [Photoset](http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/) from [[The Hideout Theatre]].
+* [Photoset of hours 1-4](http://www.facebook.com/media/set/?set=a.373501069380082.89433.221927764537414&type=3) from [[Steve Rogers]].
+* [Photoset of hours 5-9](http://www.facebook.com/media/set/?set=a.3204199026618.122311.1315383518&type=3) from [[Michael Yew]].
+* [Photoset of hour 10](http://www.facebook.com/hujhax/media_set?set=a.10151037606607265.487220.588952264&type=3) (Drum Machine) from [[Peter Rogers]].
+* [Photoset of hours 14-18](http://www.facebook.com/claudio.fox.5/media_set?set=a.426281400726694.95785.100000345135257&type=3) by [[Claudio Fox]].
+* [Photoset of hours 17-20, 28](http://www.flickr.com/photos/hideouttheatre/sets/72157630038239970/) from [[Michael Yew]].
+* [Photoset of hours 27-29](http://www.facebook.com/media/set/?set=a.375108375886018.89657.221927764537414&type=3) from [[Steve Rogers]].
+* [Photoset of hours 30-31](http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3) from [[Steve Rogers]].
+* [Photoset of hour 40](http://www.facebook.com/media/set/?set=a.10151037625202265.487222.588952264&type=3) (the second student show) from [[Peter Rogers]].
+* [Photoset of hours 37-43](http://www.facebook.com/media/set/?set=a.427332093954958.95954.100000345135257&type=3) from [[Claudio Fox]].
+* [Photoset of hours 41-43](http://www.facebook.com/media/set/?set=a.374667585930097.89589.221927764537414&type=3) from [[Steve Rogers]].
 
 ### Other
-* [http://www.hideouttheatre.com/avengers-marathon-cards *Avengers*-themed trading cards for the event] by [[Deano Jones]].
+* [*Avengers*-themed trading cards for the event](http://www.hideouttheatre.com/avengers-marathon-cards) by [[Deano Jones]].
 
 ## More Information
-* The schedule announcement, [http://forum.austinimprov.com/viewtopic.php?p=120814 on the forums] and [http://www.hideouttheatre.com/announcing-the-43-hour-improv-marathon-schedule on the Hideout web site].
-* [http://www.austinchronicle.com/arts/2012-06-01/the-43-hour-improv-marathon/ A story about the marathon] in *The Austin Chronicle*.
-* [http://blog.jonbolden.com/2012/43-hour-improv-marathon/ A blog post prior to the marathon] from [[Jon Bolden]].
-** [http://www.hideouttheatre.com/a-voice-of-concern A post from Jon] about the possible damage the marathon might potentially do to his voice.
-* [http://www.hideouttheatre.com/the-first-hardcore-four A blog post about the Hardcore Four], audience members [[Ashley Lowe]], [[Amy Dietze]], [[Ryan Criswell]], and [[Cat Drago]] who stayed for the entire 43 hours.
+* The schedule announcement, [on the forums](http://forum.austinimprov.com/viewtopic.php?p=120814) and [on the Hideout web site](http://www.hideouttheatre.com/announcing-the-43-hour-improv-marathon-schedule).
+* [A story about the marathon](http://www.austinchronicle.com/arts/2012-06-01/the-43-hour-improv-marathon/) in *The Austin Chronicle*.
+* [A blog post prior to the marathon](http://blog.jonbolden.com/2012/43-hour-improv-marathon/) from [[Jon Bolden]].
+** [A post from Jon](http://www.hideouttheatre.com/a-voice-of-concern) about the possible damage the marathon might potentially do to his voice.
+* [A blog post about the Hardcore Four](http://www.hideouttheatre.com/the-first-hardcore-four), audience members [[Ashley Lowe]], [[Amy Dietze]], [[Ryan Criswell]], and [[Cat Drago]] who stayed for the entire 43 hours.

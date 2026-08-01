@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Bryan Cruz Pic.jpg">Bryan Cruz Pic.jpg</a>
+				![[Bryan Cruz Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -91,6 +91,6 @@ Bryan Cruz is a notable performer known in the Austin Improv Community before mo
 * *[[Totally Improvised, 90210]]* (Dylan McKay)
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.3388496233933.126439.1315383518&type=3 Photoset from the Bryan's farewell show] by [[Michael Yew]].
+* [Photoset from the Bryan's farewell show](http://www.facebook.com/media/set/?set=a.3388496233933.126439.1315383518&type=3) by [[Michael Yew]].
 
 [[Category/Performers|Cruz]]

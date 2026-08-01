@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Showdown.jpg">Showdown.jpg</a>
+				![[Showdown.jpg]]
 			</td>
 		</tr>
 
@@ -186,23 +186,23 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 ## Media
 ### Photos
 * First episode:
-** [http://www.facebook.com/media/set/?set=a.113015822112783.21301.100002130980897 Photoset] from [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.113015822112783.21301.100002130980897) from [[Steve Rogers]].
 * Second episode:
-** [http://www.facebook.com/media/set/?set=a.113249208756111.21493.100002130980897 Photoset] from [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.113249208756111.21493.100002130980897) from [[Steve Rogers]].
 * Third episode:
-** [http://www.facebook.com/media/set/?set=a.114568441957521.22414.100002130980897 Photoset] from [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.114568441957521.22414.100002130980897) from [[Steve Rogers]].
 * Fourth episode:
-** [http://www.facebook.com/media/set/?set=a.114797541934611.22578.100002130980897 Photoset] from [[Steve Rogers]].
-** [http://www.facebook.com/roy.moore/media_set?set=a.1597606991964.2071396.1589679282&type=3 Photoset] from [[Roy Moore]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.114797541934611.22578.100002130980897) from [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1597606991964.2071396.1589679282&type=3) from [[Roy Moore]].
 * Fifth episode:
-** [http://www.facebook.com/media/set/?set=a.116085848472447.23349.100002130980897 Photoset] from [[Steve Rogers]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.1630811212906.77602.1315383518&type=3 Photoset] from [[Michael Yew]]. 
+** [Photoset](http://www.facebook.com/media/set/?set=a.116085848472447.23349.100002130980897) from [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1630811212906.77602.1315383518&type=3) from [[Michael Yew]]. 
 * Sixth episode:
-** [http://www.facebook.com/media/set/?set=a.116459398435092.23584.100002130980897 Photoset] from [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.116459398435092.23584.100002130980897) from [[Steve Rogers]].
 
 (This was the first improv show where [[Steve Rogers]] did primary photography.)
 
 ### Publicity
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.116016391812726.23306.100002130980897&type=3 Character portraits] by [[Steve Rogers]].
+* [Character portraits](http://www.facebook.com/SteveRogers1212/media_set?set=a.116016391812726.23306.100002130980897&type=3) by [[Steve Rogers]].
 
 [[Category/Shows|Showdown]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Who is T. Henry Baudecliffe.jpg">Who is T. Henry Baudecliffe.jpg</a>
+				![[Who is T. Henry Baudecliffe.jpg]]
 			</td>
 		</tr>
 
@@ -217,37 +217,37 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 
 ## Media
 ### Videos
-* [http://vimeo.com/13863061 Video of the 7/31/10 performance] by [[Kristin Firth]].
+* [Video of the 7/31/10 performance](http://vimeo.com/13863061) by [[Kristin Firth]].
 
 ### Photos
-* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350315681440.3020024.7944448&type=3 Photoset] by [[Jo Chauvin]] of an August 2010 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/28/10 performance.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350315681440.3020024.7944448&type=3) by [[Jo Chauvin]] of an August 2010 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 8/28/10 performance.
 
 ### Publicity
-* [http://youtu.be/wmasllYo73g "Baudecliffe's Art"] by [[Kaci Beeler]].
+* ["Baudecliffe's Art"](http://youtu.be/wmasllYo73g) by [[Kaci Beeler]].
 * Interviews with local artists about Mr. Baudecliffe:
-** [http://youtu.be/V2iAATDydHE Interview] with [[Jon Bolden]].
-** [http://youtu.be/FEXpjBGvnnc Interview with Derrick Jones.]
-** [http://vimeo.com/12947240 Interview with Brent Black.]
-** [http://youtu.be/BcIS_xvWBLE Interview] with [[Patrick Daniel]].
-** [http://vimeo.com/12947661 Interview with Elle Griffith.]
-** [http://vimeo.com/12930561 Interview with Ben Hill.]
-** [http://youtu.be/vVx5ahTbt9U Interview with Dano Johnson.]
-** [http://youtu.be/Y-IlVZjYZ6Y Interview with Tracy Lands.]
+** [Interview](http://youtu.be/V2iAATDydHE) with [[Jon Bolden]].
+** [Interview with Derrick Jones.](http://youtu.be/FEXpjBGvnnc)
+** [Interview with Brent Black.](http://vimeo.com/12947240)
+** [Interview](http://youtu.be/BcIS_xvWBLE) with [[Patrick Daniel]].
+** [Interview with Elle Griffith.](http://vimeo.com/12947661)
+** [Interview with Ben Hill.](http://vimeo.com/12930561)
+** [Interview with Dano Johnson.](http://youtu.be/vVx5ahTbt9U)
+** [Interview with Tracy Lands.](http://youtu.be/Y-IlVZjYZ6Y)
 ### Other
-* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_1/photo%204_1.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205/photo%205.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baude1/baude1.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_1/photo%203_1.jpg?disposition=download 4].
-** Artwork from [[Kaci Beeler]] that helped inspire the design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo12/baudecliffe_photo12.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo11/baudecliffe_photo11.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202/photo%202.jpg?disposition=download 3].
+* Photos of [[Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_1/photo%204_1.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205/photo%205.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baude1/baude1.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_1/photo%203_1.jpg?disposition=download).
+** Artwork from [[Kaci Beeler]] that helped inspire the design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo12/baudecliffe_photo12.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo11/baudecliffe_photo11.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202/photo%202.jpg?disposition=download).
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/whoist-henrybaudecliffe The show's web page.]
-* [http://forum.austinimprov.com/viewtopic.php?p=94850 The initial "teasing" announcements about the show] on [[The AIC Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=92600 The audition announcement for the show] on [[The AIC Forums]].
-** [http://www.hideouttheatre.com/auditions-for-the-julyaugust-hideout-mainstage-show The same, on the Hideout blog.]
-* [http://forum.austinimprov.com/viewtopic.php?p=95062 The premiere announcement for the show] on [[The AIC Forums]].
-* [http://www.hideouttheatre.com/coming-in-july-and-august Promotional post] from the Hideout's blog.
-* [http://www.hideouttheatre.com/who-is-t-henry-baudecliffe A blogpost] from [[Curtis Luciani]] summarizing what the show is about.
-* [http://www.hideouttheatre.com/baudecliffereviews Reviews of the show.]
-* [http://www.hideouttheatre.com/baudecliffe-takes-on-the-holidays An announcement of their 2010 holiday show].
+* [The show's web page.](http://www.hideouttheatre.com/shows/whoist-henrybaudecliffe)
+* [The initial "teasing" announcements about the show](http://forum.austinimprov.com/viewtopic.php?p=94850) on [[The AIC Forums]].
+* [The audition announcement for the show](http://forum.austinimprov.com/viewtopic.php?p=92600) on [[The AIC Forums]].
+** [The same, on the Hideout blog.](http://www.hideouttheatre.com/auditions-for-the-julyaugust-hideout-mainstage-show)
+* [The premiere announcement for the show](http://forum.austinimprov.com/viewtopic.php?p=95062) on [[The AIC Forums]].
+* [Promotional post](http://www.hideouttheatre.com/coming-in-july-and-august) from the Hideout's blog.
+* [A blogpost](http://www.hideouttheatre.com/who-is-t-henry-baudecliffe) from [[Curtis Luciani]] summarizing what the show is about.
+* [Reviews of the show.](http://www.hideouttheatre.com/baudecliffereviews)
+* [An announcement of their 2010 holiday show](http://www.hideouttheatre.com/baudecliffe-takes-on-the-holidays).
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Got Your Back Pic.jpg">Got Your Back Pic.jpg</a>
+				![[Got Your Back Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -104,10 +104,10 @@ In each show, hosts [[Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a loca
 After the standard questions segment there is typically a "commercial break" that features a comedic audio sketch by a local sketch group (often Midnight Society). Each show ends with some music by a "lesser known" (often local) artist to build on the theme of local support and DYI artist empowerment.
 
 ## More Information
-* [http://www.coldtownetheater.com/blog/presenting-got-your-back-podcast The show announcement] on the [[ColdTowne Theater]] website.
-* [http://gybpodcast.libsyn.com/rss The podcast's RSS feed.]
-* [http://www.facebook.com/GYBPodcast The podcast's facebook page.]
-* [http://gybpodcast.libsyn.com/webpage The podcast's LibSyn page.]
-* [http://itunes.apple.com/us/podcast/got-your-back/id813599155 The podcast's iTunes page.]
+* [The show announcement](http://www.coldtownetheater.com/blog/presenting-got-your-back-podcast) on the [[ColdTowne Theater]] website.
+* [The podcast's RSS feed.](http://gybpodcast.libsyn.com/rss)
+* [The podcast's facebook page.](http://www.facebook.com/GYBPodcast)
+* [The podcast's LibSyn page.](http://gybpodcast.libsyn.com/webpage)
+* [The podcast's iTunes page.](http://itunes.apple.com/us/podcast/got-your-back/id813599155)
 
 [[Category/Podcasts|Category:Podcasts]]

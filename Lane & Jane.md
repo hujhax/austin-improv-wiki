@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Lane and Jane.jpg">Lane and Jane.jpg</a>
+				![[Lane and Jane.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/66537083 Video] of their 5/17/13 show in the *[[2x4]]*.
+* [Video](http://vimeo.com/66537083) of their 5/17/13 show in the *[[2x4]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

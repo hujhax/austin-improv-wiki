@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,7 +83,7 @@ The ad-hoc troupe was thrown together the night of their only show.
 They played one match against [[You, Me, and Greg]] on 2/24/06.  They lost.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=461 Team troupe list] on [[The Austin Improv Forums]].
+* [Team troupe list](http://forum.austinimprov.com/viewtopic.php?t=461) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Only One Performance|Category:Only One Performance]]

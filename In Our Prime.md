@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="In Our Prime Three.jpg">In Our Prime Three.jpg</a>
+				![[In Our Prime Three.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -112,59 +112,59 @@ Here is [[Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our
 
 ## Media
 ### Videos
-* [http://vimeo.com/38076871 The troupe's debut show.]
-* [http://vimeo.com/39884307 Their 4/5/12 second show] (and their first with [[Jessica Arjet]]).
-* [http://vimeo.com/41817882 The troupe's third show.]
-* [http://vimeo.com/45049371 Their 7/1/12 show.]
-* [http://vimeo.com/46721795 Their 2012 fundraiser for their trip to Hawaii's Improvaganza festival.]
-* [http://vimeo.com/47800315 The troupe's seventh show.]
-* [http://vimeo.com/47916623 8/19/12: the troupe's eighth show.]
-* [http://vimeo.com/49933970 Their 9/20/12 show] at *[[The Free Fringe]]*.
-* [http://vimeo.com/51042429 Video] by [[Paul Normandin]] of their 10/4/12 performance in *[[The Threefer]]*.
-* [http://vimeo.com/52598839 Video] by [[Paul Normandin]] of their 10/11/12 performance in *[[The Threefer]]* ("Drugs & Kids").
-* [http://vimeo.com/52051384 Video] by [[Paul Normandin]] of their 10/18/12 performance in *[[The Threefer]]* ("Car Accident"/"Brady Bunch").
-** [http://vimeo.com/63321919 A second copy of the video.]
-* [http://vimeo.com/52466512 Video] by [[Paul Normandin]] of their 10/25/12 performance in *[[The Threefer]]* ("Runaway Dad").
-* [http://vimeo.com/53309165 Video] by [[Paul Normandin]] of their 11/10/12 performance at [[WaffleFest 2012]] ("The Affair").
-* [http://vimeo.com/54726986 Video] by [[Paul Normandin]] of their 12/1/12 performance at [[The Institution Theater]].
-* [http://vimeo.com/59231320 Video] by [[Paul Normandin]] of their 2/3/13 performance in *[[The Weekender]]*.
-* [http://vimeo.com/60349214 Video] by [[Paul Normandin]] of their 2/21/13 performance in *[[The Free Fringe]]* ("Worst Show").
-* [http://vimeo.com/65469964 Their 4/11/13 show] at [[The 2013 Improvised Play Festival]].
-* [http://vimeo.com/64388123 Video] by [[Paul Normandin]] of their 4/18/13 performance in *[[The Free Fringe]]*.
-* [http://vimeo.com/65119505 Video] by [[Paul Normandin]] of their 4/29/13 performance at [[ColdTowne Theater]].
-* [http://vimeo.com/66219259 Video] by [[Paul Normandin]] of their 5/12/13 performance in *[[The Weekender]]*.
-* [http://vimeo.com/68677057 Video] by [[Paul Normandin]] of their 6/17/13 performance at [[ColdTowne Theater]].
-* [http://vimeo.com/74497522 Their 6/22/13 show] at [[The 44-Hour Improv Marathon]].
-* [http://vimeo.com/72630352 Video] by [[Paul Normandin]] of their 8/15/13 performance in *[[The Threefer]]*.
-* [http://vimeo.com/72633647 Video] by [[Paul Normandin]] of their 8/15/13 performance in *[[The Free Fringe]]*.
-* [http://vimeo.com/73463186 Video] by [[Paul Normandin]] of their 8/28/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
-* [http://vimeo.com/76981801 Video] by [[Paul Normandin]] of their 9/20/13 performance at [[Salvage Vanguard Theater]].
-* [http://vimeo.com/75935997 Video] by [[Paul Normandin]] of their 9/27/13 performance in Washington, DC's "District Improv Festival".
-* [http://vimeo.com/76978922 Video] by [[Paul Normandin]] of their 10/9/13 performance at [[ColdTowne Theater]].
-* [http://vimeo.com/77411147 Video] by [[Paul Normandin]] of their 10/17/13 performance in *[[The Free Fringe]]*.
-* [http://vimeo.com/80867898 Video] by [[Paul Normandin]] of their 11/21/13 performance in [[WaffleFest 2013]].
-* [http://vimeo.com/80870736 Video] by [[Paul Normandin]] of their 11/25/13 performance at [[ColdTowne Theater]].
-* [http://vimeo.com/91778243 Video] of their show in [[The 2014 Improvised Play Festival]].
-* [http://vimeo.com/102503662 Video] by [[Paul Normandin]] of their 8/2/14 show in the 2014 Improv Festival Oklahoma.
-* [http://vimeo.com/105414855 Video] by [[Paul Normandin]] of their 8/8/14 show at [[The Hideout Theatre]].
-* [https://vimeo.com/111587850 Video] by [[Paul Normandin]] of their 8/17/14 show at [[The Hideout Theatre]].
-* [http://vimeo.com/109193870 Video] of their 8/27/14 show in [[The 2014 Out of Bounds Comedy Festival]].
-* [https://vimeo.com/112559537 Video] by [[Paul Normandin]] of their 11/20/14 show at [[WaffleFest 2014]].
-* [http://vimeo.com/125622408 Video] of their performance in the 2015 Improv Festival Oklahoma.
-* [http://vimeo.com/136269875 Video] of their 8/9/15 performance in *[[The Weekender]]*.
+* [The troupe's debut show.](http://vimeo.com/38076871)
+* [Their 4/5/12 second show](http://vimeo.com/39884307) (and their first with [[Jessica Arjet]]).
+* [The troupe's third show.](http://vimeo.com/41817882)
+* [Their 7/1/12 show.](http://vimeo.com/45049371)
+* [Their 2012 fundraiser for their trip to Hawaii's Improvaganza festival.](http://vimeo.com/46721795)
+* [The troupe's seventh show.](http://vimeo.com/47800315)
+* [8/19/12: the troupe's eighth show.](http://vimeo.com/47916623)
+* [Their 9/20/12 show](http://vimeo.com/49933970) at *[[The Free Fringe]]*.
+* [Video](http://vimeo.com/51042429) by [[Paul Normandin]] of their 10/4/12 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/52598839) by [[Paul Normandin]] of their 10/11/12 performance in *[[The Threefer]]* ("Drugs & Kids").
+* [Video](http://vimeo.com/52051384) by [[Paul Normandin]] of their 10/18/12 performance in *[[The Threefer]]* ("Car Accident"/"Brady Bunch").
+** [A second copy of the video.](http://vimeo.com/63321919)
+* [Video](http://vimeo.com/52466512) by [[Paul Normandin]] of their 10/25/12 performance in *[[The Threefer]]* ("Runaway Dad").
+* [Video](http://vimeo.com/53309165) by [[Paul Normandin]] of their 11/10/12 performance at [[WaffleFest 2012]] ("The Affair").
+* [Video](http://vimeo.com/54726986) by [[Paul Normandin]] of their 12/1/12 performance at [[The Institution Theater]].
+* [Video](http://vimeo.com/59231320) by [[Paul Normandin]] of their 2/3/13 performance in *[[The Weekender]]*.
+* [Video](http://vimeo.com/60349214) by [[Paul Normandin]] of their 2/21/13 performance in *[[The Free Fringe]]* ("Worst Show").
+* [Their 4/11/13 show](http://vimeo.com/65469964) at [[The 2013 Improvised Play Festival]].
+* [Video](http://vimeo.com/64388123) by [[Paul Normandin]] of their 4/18/13 performance in *[[The Free Fringe]]*.
+* [Video](http://vimeo.com/65119505) by [[Paul Normandin]] of their 4/29/13 performance at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/66219259) by [[Paul Normandin]] of their 5/12/13 performance in *[[The Weekender]]*.
+* [Video](http://vimeo.com/68677057) by [[Paul Normandin]] of their 6/17/13 performance at [[ColdTowne Theater]].
+* [Their 6/22/13 show](http://vimeo.com/74497522) at [[The 44-Hour Improv Marathon]].
+* [Video](http://vimeo.com/72630352) by [[Paul Normandin]] of their 8/15/13 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/72633647) by [[Paul Normandin]] of their 8/15/13 performance in *[[The Free Fringe]]*.
+* [Video](http://vimeo.com/73463186) by [[Paul Normandin]] of their 8/28/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/76981801) by [[Paul Normandin]] of their 9/20/13 performance at [[Salvage Vanguard Theater]].
+* [Video](http://vimeo.com/75935997) by [[Paul Normandin]] of their 9/27/13 performance in Washington, DC's "District Improv Festival".
+* [Video](http://vimeo.com/76978922) by [[Paul Normandin]] of their 10/9/13 performance at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/77411147) by [[Paul Normandin]] of their 10/17/13 performance in *[[The Free Fringe]]*.
+* [Video](http://vimeo.com/80867898) by [[Paul Normandin]] of their 11/21/13 performance in [[WaffleFest 2013]].
+* [Video](http://vimeo.com/80870736) by [[Paul Normandin]] of their 11/25/13 performance at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/91778243) of their show in [[The 2014 Improvised Play Festival]].
+* [Video](http://vimeo.com/102503662) by [[Paul Normandin]] of their 8/2/14 show in the 2014 Improv Festival Oklahoma.
+* [Video](http://vimeo.com/105414855) by [[Paul Normandin]] of their 8/8/14 show at [[The Hideout Theatre]].
+* [Video](https://vimeo.com/111587850) by [[Paul Normandin]] of their 8/17/14 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/109193870) of their 8/27/14 show in [[The 2014 Out of Bounds Comedy Festival]].
+* [Video](https://vimeo.com/112559537) by [[Paul Normandin]] of their 11/20/14 show at [[WaffleFest 2014]].
+* [Video](http://vimeo.com/125622408) of their performance in the 2015 Improv Festival Oklahoma.
+* [Video](http://vimeo.com/136269875) of their 8/9/15 performance in *[[The Weekender]]*.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200173474242320.1073741840.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 7/18/13 performance in *[[The Free Fringe]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
-* [http://www.facebook.com/media/set/?set=a.793161820747336.1073742048.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.844338555629662.1073742111.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200173474242320.1073741840.1315383518&type=3) by [[Michael Yew]] which includes their 7/18/13 performance in *[[The Free Fringe]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3) by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.793161820747336.1073742048.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.844338555629662.1073742111.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
 
 ## More Information
-* [http://www.facebook.com/InOurPrime In Our Prime facebook page]
-* [http://www.inourprimeimprov.com/ In Our Prime website]
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2089910 Interview] with the troupe on *[[The Theft Forum]]*.
+* [In Our Prime facebook page](http://www.facebook.com/InOurPrime)
+* [In Our Prime website](http://www.inourprimeimprov.com/)
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2089910) with the troupe on *[[The Theft Forum]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

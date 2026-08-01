@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Lacy Shawn Profile.jpg">Lacy Shawn Profile.jpg</a>
+				![[Lacy Shawn Profile.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -67,7 +67,7 @@ Lacy directed the Fourth Run of *[[TheatreSports (mainstage run)|TheatreSports]]
 * Unscripted New York
 
 ## More Information
-* [http://yesandrew.com/the-sunday-interview-lacy-shawn/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-lacy-shawn/) by [[Andrew Buck]].
 
 [[Category/Performers|Alana]]
 [[Category/Directors|Alana]]

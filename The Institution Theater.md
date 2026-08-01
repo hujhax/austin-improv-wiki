@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Institution logo.jpg">Institution logo.jpg</a>
+				![[Institution logo.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -75,4 +75,4 @@ In 2014, the Institution expanded into a second space, just across the parking l
 * *[[You Think You're So Smart]]*
 
 ## More Information
-* [http://yesandrew.com/2014/03/26/austin-improv-theaters-as-modern-american-humorists-day-3-the-institution/ Post about the theater] by [[Andrew Buck]].
+* [Post about the theater](http://yesandrew.com/2014/03/26/austin-improv-theaters-as-modern-american-humorists-day-3-the-institution/) by [[Andrew Buck]].

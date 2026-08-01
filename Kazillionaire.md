@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kazillionaire.jpg">Kazillionaire.jpg</a>
+				![[Kazillionaire.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,9 +80,9 @@
 [[Jeremy Lamb]] described their summer 2006 run as "a combined sketch-dance-improv-puppet-nudist-video show with an overarching play-type storyline running through it".
 
 ## More Information
-* [http://myspace.com/kazillionaireprov The duo's myspace page.]
-* [http://forum.austinimprov.com/viewtopic.php?t=1298 Announcement of the summer 2006 run] on [[The Austin Improv Forums]].
-* [http://www.austinchronicle.com/arts/2006-07-28/390497/ Review of their summer 2006 show] from *[[Wikipedia - The Austin Chronicle|The Austin Chronicle]]*.
+* [The duo's myspace page.](http://myspace.com/kazillionaireprov)
+* [Announcement of the summer 2006 run](http://forum.austinimprov.com/viewtopic.php?t=1298) on [[The Austin Improv Forums]].
+* [Review of their summer 2006 show](http://www.austinchronicle.com/arts/2006-07-28/390497/) from *[[Wikipedia - The Austin Chronicle|The Austin Chronicle]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

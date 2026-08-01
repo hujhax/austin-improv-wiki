@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="TheDerby.jpg">TheDerby.jpg</a>
+				![[TheDerby.jpg]]
 			</td>
 		</tr>
 
@@ -54,6 +54,6 @@ RhinoDino has continued to perform together following the discontinuation of the
 
 ## Media
 ### Photos
-* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 9/9/11 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3) by [[Jo Chauvin]] of the 9/9/11 show.
 
 [[Category/Shows|Derby]]

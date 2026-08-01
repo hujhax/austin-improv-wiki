@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Two Man Polanski Vid.jpg">Two Man Polanski Vid.jpg</a>
+				![[Two Man Polanski Vid.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ The troupe had their first show at *[[The Monday Night Mash]]* on 6/20/11.  It w
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1732285038831.2082674.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 6/20/11 debut at *[[The Monday Night Mash]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/25/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1732285038831.2082674.1589679282&type=3) by [[Roy Moore]] that includes their 6/20/11 debut at *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/25/11 performance in *[[The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]

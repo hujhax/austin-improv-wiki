@@ -12,9 +12,9 @@ In shows like Maestro that feature improv games, we've got a ton of favorites th
 Headliners
 
 #### Media
-* [http://www.facebook.com/hujhax/media_set?set=a.10150589661327265.439822.588952264&type=3 Photoset] by [[Peter Rogers]] of the "Drag" show.
-** [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their encore performance on 11/8/12 in [[WaffleFest 2012]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3 Photoset] by [[Michael Yew]] that includes all sets.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589661327265.439822.588952264&type=3) by [[Peter Rogers]] of the "Drag" show.
+** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their encore performance on 11/8/12 in [[WaffleFest 2012]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3) by [[Michael Yew]] that includes all sets.
 
 ### Jan 12, 2012
 #### *Shortform Mashup* ([[Neal Tibrewala]])
@@ -38,8 +38,8 @@ Join the Hideout for the first ever Ladies' Night at the Free Fringe. Funny, tal
 
 #### *Always a Bridesmaid* ([[Firth & Arjet]])
 #### Media
-* Photosets by [[Peter Rogers]]: [http://www.facebook.com/hujhax/media_set?set=a.10151298131837265.522114.588952264&type=3 group 1], [http://www.facebook.com/hujhax/media_set?set=a.10151298133852265.522115.588952264&type=3 group 2], [http://www.facebook.com/hujhax/media_set?set=a.10151298134177265.522116.588952264&type=3 group 3 ("Princesses")].
-* [http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3 Photoset] by [[Michael Yew]] that includes all sets.
+* Photosets by [[Peter Rogers]]: [group 1](http://www.facebook.com/hujhax/media_set?set=a.10151298131837265.522114.588952264&type=3), [group 2](http://www.facebook.com/hujhax/media_set?set=a.10151298133852265.522115.588952264&type=3), [group 3 ("Princesses")](http://www.facebook.com/hujhax/media_set?set=a.10151298134177265.522116.588952264&type=3).
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3) by [[Michael Yew]] that includes all sets.
 
 ### Feb  2, 2012
 #### *[[GrimmNoire]]*
@@ -52,7 +52,7 @@ We have a large container of cooked tamales on stage. + We do improv scenes. = A
 This was the premiere of their "Tomboys" format -- [[Firth&Arjet]] had planned to perform "Always a Bridesmaid", but had just bought their "Tomboys" costumes on the way to the theater, and decided they didn't want to risk staining their bridesmaid dresses with the aftermath of the "Tamales!" show.
 
 #### Media
-* [http://www.facebook.com/sam.schak/media_set?set=a.1922534340016.2064245.1141801116&type=1 Photoset] of the "Tamales!" and "Tomboys" sections by [[Sam Schak]].
+* [Photoset](http://www.facebook.com/sam.schak/media_set?set=a.1922534340016.2064245.1141801116&type=1) of the "Tamales!" and "Tomboys" sections by [[Sam Schak]].
 
 ### Feb  9, 2012
 #### *The Bestiary* ([[Thedward Blevins]])
@@ -100,7 +100,7 @@ Also performing a set will be an wildly talented assortment of ladies, doing a f
 
 #### *Tomboys* ([[Firth & Arjet]])
 #### Media
-* [http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3 Photoset] by [[Michael Yew]] that includes all sets.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3) by [[Michael Yew]] that includes all sets.
 
 ### Mar 15, 2012
 Dark for SXSW
@@ -114,7 +114,7 @@ Sometimes the simplest ideas are the best. * 8 improvisers get in a circle on st
 
 #### *Always a Bridesmaid* ([[Firth & Arjet]])
 #### Media
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.376383745716460.87195.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.376383745716460.87195.100000345135257&type=3) by [[Claudio Fox]] of the show.
 
 ### Mar 29, 2012
 #### *Well Endowed* ([[Mike Nystul|Alex Gray]])
@@ -125,7 +125,7 @@ A perfect complement to Process, our current mainstage. Theater Talk gives us an
 
 #### *Tomboys* ([[Firth & Arjet]])
 #### Media
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.381039505250884.88199.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.381039505250884.88199.100000345135257&type=3) by [[Claudio Fox]] of the show.
 
 ### Apr  4, 2012
 #### *I Saw You!* ([[Nicole Oliver]])
@@ -152,8 +152,8 @@ There's a game in Maestro called Half-Life, where we do a scene in a minute, the
 
 #### *Tomboys* ([[Firth & Arjet]])
 #### Media
-* [http://vimeo.com/41139122 Video] by [[Peter Rogers]] of *[[Epic Telescope]]*
-* [http://vimeo.com/41133909 Video] by [[Peter Rogers]] of "Campfire Songs"
+* [Video](http://vimeo.com/41139122) by [[Peter Rogers]] of *[[Epic Telescope]]*
+* [Video](http://vimeo.com/41133909) by [[Peter Rogers]] of "Campfire Songs"
 
 ### May  3, 2012
 #### *[[Blue Maestro]]*
@@ -166,8 +166,8 @@ The annual O'Henry Pun Off is coming on May 19th. Improvisers traditionally clea
 
 #### *Tomboys* ([[Firth & Arjet]])
 #### Media
-* [http://vimeo.com/42415201 Video] by [[Peter Rogers]] of [[Local Genius Society]]'s "Full Moon Rises".
-* [http://vimeo.com/42392317 Video] by [[Peter Rogers]] of "The Pun Show".
+* [Video](http://vimeo.com/42415201) by [[Peter Rogers]] of [[Local Genius Society]]'s "Full Moon Rises".
+* [Video](http://vimeo.com/42392317) by [[Peter Rogers]] of "The Pun Show".
 
 ### May 17, 2012
 #### *[[My Best Fiend]]*
@@ -178,7 +178,7 @@ The annual O'Henry Pun Off is coming on May 19th. Improvisers traditionally clea
 
 #### *Tomboys* ([[Firth & Arjet]])
 #### Media
-* [http://vimeo.com/42390536 Video] by [[Peter Rogers]] of "Evil Peter Rogers".
+* [Video](http://vimeo.com/42390536) by [[Peter Rogers]] of "Evil Peter Rogers".
 
 ### May 24, 2012
 (Note: this Fringe show was not performed, owing to insufficient audience.)
@@ -217,7 +217,7 @@ Take the three girls from The Better Half that play boys (Regina, Ashley, and Ma
 
 #### *Once Upon A Time* ([[Firth & Arjet]])
 #### Media
-* [http://vimeo.com/44089819 Video] by [[Peter Rogers]] of *[[Myth Debunkers]]*.
+* [Video](http://vimeo.com/44089819) by [[Peter Rogers]] of *[[Myth Debunkers]]*.
 
 ### Jun 21, 2012
 #### *Stand-upProv* ([[Jeremy Sweetlamb]])
@@ -228,7 +228,7 @@ Look, let's be honest. A lot of musicians, writers, actors, and filmmakers have 
 
 #### *Once Upon A Time* ([[Firth & Arjet]])
 #### Media
-* [http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3 Photoset] by [[Michael Yew]] that includes all sets.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3) by [[Michael Yew]] that includes all sets.
 
 ### Jun 28, 2012
 #### *[[After School Improv]]* Reunion
@@ -275,8 +275,8 @@ Your friend is well-meaning and looking out for you, so she gives your email add
 This week Firth & Arjet will be presented with a mystery format by [[Christopher 'Ceej' Allen]]. They will have no idea what the format is until they step on stage. 
 
 #### Media
-* [http://vimeo.com/46969372 Video] by [[Brad Hawkins]] of "Deeply Superficial".
-* [http://vimeo.com/46884428 Video] by [[Brad Hawkins]] of "Drowning in Mitchell Deane".
+* [Video](http://vimeo.com/46969372) by [[Brad Hawkins]] of "Deeply Superficial".
+* [Video](http://vimeo.com/46884428) by [[Brad Hawkins]] of "Drowning in Mitchell Deane".
 
 ### Aug  9, 2012
 #### *[[Firth & Arjet]]* Free Fringe Finale ([[Firth & Arjet]])
@@ -302,8 +302,8 @@ Brand new, never before seen improv games will be invented on the spot based on 
 Headliners
 
 #### Media
-* [http://vimeo.com/47753571 Video] by [[Peter Rogers]] of "Object Stories".
-* [http://vimeo.com/44089819 Video] by [[Peter Rogers]] of "The New Game People".
+* [Video](http://vimeo.com/47753571) by [[Peter Rogers]] of "Object Stories".
+* [Video](http://vimeo.com/44089819) by [[Peter Rogers]] of "The New Game People".
 
 ### Aug 23, 2012
 #### *Dear Diary* ([[Jen Kaplan]])
@@ -316,7 +316,7 @@ This summer five Austin improvisors traveled to Chicago for the iO Theatre's Sum
 Headliners
 
 #### Media
-* [http://vimeo.com/48176252 Video] by [[Peter Rogers]] of "The iO Five".
+* [Video](http://vimeo.com/48176252) by [[Peter Rogers]] of "The iO Five".
 
 ### Sep  6, 2012
 #### *Storybook Rhymz* ([[Chris Sebilia]])
@@ -333,7 +333,7 @@ Animal Farm - Swift like a Cheetah, clever like a Fox, we all have a bit of an a
 Once upon a time there was a wonderful person named [[Ruby Willmann]]. And everyday Ruby loved/taught/performed Improv all over Austin and beyond. Until one day Ruby announced she was leaving for Peru in September. And all her friends flocked to the Hideout to perform with her in one more show before she left town. What show you ask? Why Ruby's Free Fringe Fancy Pants Extravaganza!!!! When & Where is the show? At the Thursday Free Fringe at the Hideout Theatre on September 13th. This will be a *[[Fancy Pants]]* themed show with Ruby in Every Scene. Each performer will get one scene with her to say goodbye. 
 
 #### Media
-* [http://www.facebook.com/michael.yew/media_set?set=a.3582900613921.131839.1315383518&type=3 Photoset] by [[Michael Yew]] of the show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3582900613921.131839.1315383518&type=3) by [[Michael Yew]] of the show.
 
 ### Sep 20, 2012
 #### *Stretch Dumbstrong* ([[Jason Vines]])
@@ -346,8 +346,8 @@ Did you know there were 428 crew members of the original Starship Enterprise und
 Headliners
 
 #### Media
-* [http://vimeo.com/49898325 Video] by [[Peter Rogers]] of "Lower Decks".
-* [http://vimeo.com/49933970 Video] by [[Peter Rogers]] of [[In Our Prime]].
+* [Video](http://vimeo.com/49898325) by [[Peter Rogers]] of "Lower Decks".
+* [Video](http://vimeo.com/49933970) by [[Peter Rogers]] of [[In Our Prime]].
 
 ### Sep 27, 2012
 #### *Gamers of a Certain Age* ([[Mike Nystul|Alex Gray]])
@@ -384,8 +384,8 @@ Let's face it, sometimes it's hard to tell the difference between the politician
 Headliners
 
 #### Media
-* [http://vimeo.com/51753725 Video] by [[Peter Rogers]] of "You, Only Better".
-* [http://vimeo.com/52585150 Video] by [[Paul Normandin]] of "The Great Debate".
+* [Video](http://vimeo.com/51753725) by [[Peter Rogers]] of "You, Only Better".
+* [Video](http://vimeo.com/52585150) by [[Paul Normandin]] of "The Great Debate".
 
 ### Oct 25, 2012
 #### *[[Tech Nightmare]]* ([[Cindy Page]])
@@ -408,14 +408,14 @@ It's a [[Peter Rogers]] double-header, as [[Jessica Arjet]] and Peter combine fo
 A series of 3 vignettes, all about intimacy and relationships. With [[Andreas Fabis]], [[Dana Yanoshak]], and [[Jessica Arjet]]. 
 
 #### Media
-* [http://vimeo.com/53909146 Video] by [[Peter Rogers]] of "Date Night".
-* [http://vimeo.com/53916934 Video] by [[Peter Rogers]] of "Ralph Rogers".
+* [Video](http://vimeo.com/53909146) by [[Peter Rogers]] of "Date Night".
+* [Video](http://vimeo.com/53916934) by [[Peter Rogers]] of "Ralph Rogers".
 
 ### Nov 8, 2012
 Nothing is known about this apart from that it was the Wafflefest *[Free Fringe]*.
 
 #### Media
-* [http://www.facebook.com/media/set/?set=a.443268612403327.108146.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.443268612403327.108146.221927764537414&type=3) by [[Steve Rogers]] of the show.
 
 ### Nov 15, 2012
 #### *NaNoWriMo*
@@ -425,7 +425,7 @@ NaNoWriMo Special National Novel Writing Month is a fun, seat-of-your-pants appr
 Headliners
 
 #### Media
-* [http://vimeo.com/53729744 Video] by [[Paul Normandin]] of "NaNoWriMo".
+* [Video](http://vimeo.com/53729744) by [[Paul Normandin]] of "NaNoWriMo".
 
 ### Nov 29, 2012
 #### *Plaid Boys* ([[Kayla Lane Freeman]])
@@ -445,9 +445,9 @@ In what will hopefully become a Hideout tradition, we're mashing up the two most
 Parent and child is one of the closest relationships in the human experience. But could you imagine doing improv with your parent...or your child? Thursday night 4 brave improvisors will take the stage with their improviser children. Can it work? Can awesome improv withstand the parent/child bond? Let's find out. Starring: [[Kristin Henn]] and Charlotte; [[Jessica Arjet]] and Catherine Arjet; [[Ryan Hill]] and [[Dean Palm]]; [[Anna Lattka]] and Tamara 
 
 #### Media
-* [http://vimeo.com/55421296 Video] by [[Peter Rogers]] of "Lovecraft Secrets".
-* [http://vimeo.com/56314414 Video] by [[Peter Rogers]] of "Parents & Kids".
-* [http://www.hideouttheatre.com/blog/page/19 Slideshow of secrets from "Lovecraft Secrets".]
+* [Video](http://vimeo.com/55421296) by [[Peter Rogers]] of "Lovecraft Secrets".
+* [Video](http://vimeo.com/56314414) by [[Peter Rogers]] of "Parents & Kids".
+* [Slideshow of secrets from "Lovecraft Secrets".](http://www.hideouttheatre.com/blog/page/19)
 
 ### Dec 13, 2012
 #### *The Twelve Scenes of Christmas* ([[Jon Bolden]])
@@ -460,8 +460,8 @@ The ever popular Tech Nightmare returns. Ordinarily the people on stage call the
 Jessica invites her friend [[Alexander Hilary]] to join her for an intense 2 person improv show. 
 
 #### Media
-* [http://vimeo.com/56332997 Video] by [[Peter Rogers]] of "The Twelve Scenes of Christmas".
-* [http://vimeo.com/56314413 Video] by [[Peter Rogers]] of Jessica & Alex.
+* [Video](http://vimeo.com/56332997) by [[Peter Rogers]] of "The Twelve Scenes of Christmas".
+* [Video](http://vimeo.com/56314413) by [[Peter Rogers]] of Jessica & Alex.
 
 ### Dec 20, 2012
 #### *The Show with the Snake* ([[Roy Danger]])
@@ -474,7 +474,7 @@ Downton Abbey jumps to the year 2121. Stately English manor drama meets the dist
 Headliners
 
 #### Media
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.509951649026335.114518.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.509951649026335.114518.100000345135257&type=3) by [[Claudio Fox]] of the show.
 
 ### Dec 27, 2012
 #### *Preacher Roommate Detective Squad* ([[Mitchell Deane]])
@@ -496,7 +496,7 @@ New Years resolutions are notoriously difficult to actually carry out and most p
 
 #### *Once Upon a Time* ([[Firth & Arjet]])
 #### Media
-* [http://vimeo.com/56892238 Video] by [[Paul Normandin]] of "Austin Free Hug Day Adventure".
+* [Video](http://vimeo.com/56892238) by [[Paul Normandin]] of "Austin Free Hug Day Adventure".
 
 ### Jan 10, 2013
 #### *Mystery Project* ([[Jason Vines]])
@@ -561,9 +561,9 @@ Hey Starchild. Let's be David Bowie humanoid space aliens. We will leave our hom
 Headliners
 
 #### Media
-* [http://vimeo.com/59046473 Video] by [[Peter Rogers]] of "Vin Diagram".
-* [http://vimeo.com/58798063 Video] by [[Peter Rogers]] of [[The Starborn]].
-* [http://vimeo.com/58766451 Video] by [[Peter Rogers]] of "Parent-Teacher Conference".
+* [Video](http://vimeo.com/59046473) by [[Peter Rogers]] of "Vin Diagram".
+* [Video](http://vimeo.com/58798063) by [[Peter Rogers]] of [[The Starborn]].
+* [Video](http://vimeo.com/58766451) by [[Peter Rogers]] of "Parent-Teacher Conference".
 
 ### Feb  7, 2013
 #### *[[Taxi Cab Impressions]]* ([[Brent Unger]])
@@ -586,8 +586,8 @@ One life, so many people that change it, move it, make it better and sometimes m
 Headliners
 
 #### Media
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.539545182733648.118669.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the show.
-* [http://vimeo.com/60351132 Video] by [[Paul Normandin]] of "Bob's 50th".
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.539545182733648.118669.100000345135257&type=3) by [[Claudio Fox]] of the show.
+* [Video](http://vimeo.com/60351132) by [[Paul Normandin]] of "Bob's 50th".
 
 ### Feb 28, 2013
 #### *Teach a Man to Fischer*
@@ -603,15 +603,15 @@ One improviser has memorized lines from a scene that the other improviser has no
 Headliners
 
 #### Media
-* [http://vimeo.com/61034418 Video] by [[Peter Rogers]] of "Teach a Man to Fischer".
-* [http://vimeo.com/60813845 Video] by [[Peter Rogers]] of "Waiting for Batman".
+* [Video](http://vimeo.com/61034418) by [[Peter Rogers]] of "Teach a Man to Fischer".
+* [Video](http://vimeo.com/60813845) by [[Peter Rogers]] of "Waiting for Batman".
 
 ### Mar  7, 2013
 #### *[[Fandom]]* Redux
 Fandom, The Hideout's mainstage show from January and February to tackle fictional worlds that didn't make it into the initial run. What will they take on now that they've already done *Harry Potter*, *Hunger Games*, *Star Wars*, *Lord of the Rings*, and so on? They don't know! But one of them will definitely be *Ghostbusters*. And one of them will definitely be an audience choice. This show sold out its run at 12 dollars a ticket. This time it's free, so get your ticket online ahead of time. 
 
 #### Media
-* [http://vimeo.com/61370613 Video] by [[Peter Rogers]] of the show.
+* [Video](http://vimeo.com/61370613) by [[Peter Rogers]] of the show.
 
 ### Mar 14, 2013
 Dark for SXSW
@@ -637,7 +637,7 @@ Awful people with terrible ideas that, when executed, lead to utter chaos. It's 
 Headliners
 
 #### Media
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.555825334438966.1073741827.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.555825334438966.1073741827.100000345135257&type=3) by [[Claudio Fox]] of the show.
 
 ### Apr 4, 2013
 #### *Kat Improvises* ([[Scott Hearne]])
@@ -670,7 +670,7 @@ Whatever imaginary show Peter and Marc wind up introducing at the end of their 2
 Headliners
 
 #### Media
-* [http://vimeo.com/64900821 Video] by [[Peter Rogers]] of "Twenty Minutes of Hosting".
+* [Video](http://vimeo.com/64900821) by [[Peter Rogers]] of "Twenty Minutes of Hosting".
 
 ### May  2, 2013
 #### *Deane Martin* ([[Brandon Martin]])
@@ -716,7 +716,7 @@ A live honest to goodness recording of guided improvisation and interviews for u
 Headliners
 
 #### Media
-* [http://vimeo.com/66965290 Video] by [[Paul Normandin]] of "Pick Your Own Black Vault".
+* [Video](http://vimeo.com/66965290) by [[Paul Normandin]] of "Pick Your Own Black Vault".
 
 ### May 30, 2013
 #### *Infotainment* ([[Brad Smith]])
@@ -800,9 +800,9 @@ Starring: [[Kareem Badr]], [[Valerie Ward]], [[Claudio Fox]], [[Jon Bolden]], [[
 Headliners
 
 #### Media
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200173474242320.1073741840.1315383518&type=3  Photoset] by [[Michael Yew]] of the show.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.615026598518839.1073741853.100000345135257&type=3 Photoset] by [[Claudio Fox]] of "Ceej and Arthur Hate the Paparazzi".
-** [http://cwcreations.smugmug.com/Improv-2013/Hideout/2013-07-18-Paparazzi/ Another photoset] by [[Chad Wellington]] of the same show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200173474242320.1073741840.1315383518&type=3) by [[Michael Yew]] of the show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.615026598518839.1073741853.100000345135257&type=3) by [[Claudio Fox]] of "Ceej and Arthur Hate the Paparazzi".
+** [Another photoset](http://cwcreations.smugmug.com/Improv-2013/Hideout/2013-07-18-Paparazzi/) by [[Chad Wellington]] of the same show.
 
 ### July 25, 2013
 #### Exquisite Corpse
@@ -858,7 +858,7 @@ All the drama of the courtroom, on stage.
 Headliners
 
 #### Media
-* [http://vimeo.com/72629234 Video] by [[Paul Normandin]] of "The Wedding Toast".
+* [Video](http://vimeo.com/72629234) by [[Paul Normandin]] of "The Wedding Toast".
 
 ### August 22, 2013
 #### Diesel Dreams and a Cup of Joe: Improvised Tom Waits ([[Ceej Allen]])
@@ -873,8 +873,8 @@ And now it's live, improvised on stage!
 Headliners
 
 #### Media
-* [http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/2013-08-22-Tom-Waits-Fringe/ Photoset] by [[Chad Wellington]] of "Diesel Dreams and a Cup of Joe: Improvised Tom Waits"
-** [http://vimeo.com/73637706 Video] by [[Brad Hawkins]] of the same show.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/2013-08-22-Tom-Waits-Fringe/) by [[Chad Wellington]] of "Diesel Dreams and a Cup of Joe: Improvised Tom Waits"
+** [Video](http://vimeo.com/73637706) by [[Brad Hawkins]] of the same show.
 
 ### September 5, 2013
 #### Shatner! ([[Cortney DeAngelo]])
@@ -909,9 +909,9 @@ Cast: [[The Escorts]] and [[Ryan Austin]].
 Headliners
 
 #### Media
-* [http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/20130912/Difficult-Loves/ Photoset] by [[Chad Wellington]] of "Difficult Loves"
-* [http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/20130912/Jessica-Brently/ Photoset] by [[Chad Wellington]] of Jessica & Brently
-* [http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/20130912/The-Escorts/ Photoset] by [[Chad Wellington]] of [[The Escorts]]
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/20130912/Difficult-Loves/) by [[Chad Wellington]] of "Difficult Loves"
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/20130912/Jessica-Brently/) by [[Chad Wellington]] of Jessica & Brently
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/20130912/The-Escorts/) by [[Chad Wellington]] of [[The Escorts]]
 
 ### September 19, 2013
 #### Chu By Four ([[Chuy Zarate]])
@@ -1040,7 +1040,7 @@ Like all things, these love notes will now be used to inspire improv. Come see t
 Headliners
 
 #### Media
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] of the show.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Heidi Rogers]] of the show.
 
 ### December 12, 2013
 #### Holiday Commercial Break ([[Courtney Hopkin]])
@@ -1063,7 +1063,7 @@ The cast of this past year's [[44 Hour Improv Marathon]] have reunited and are g
 Headliners, presenting "Santa is REAL!"
 
 #### Media
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes "Romans Ridin' Dirty".
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Heidi Rogers]] that includes "Romans Ridin' Dirty".
 
 ### December 26, 2013
 #### Tales from the Sleigh ([[Mike Nystul]])
@@ -1161,8 +1161,8 @@ Kevin Miller gets really drunk and relates tales of true history. And we see som
 Headliners
 
 #### Media
-* [http://vimeo.com/89691491 Video] by [[Peter Rogers]] of "History Under the Influence".
-* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10104347079764180.1073741836.7944448&type=3 Photoset] by [[Jo Chauvin]] of "Pig Pics".
+* [Video](http://vimeo.com/89691491) by [[Peter Rogers]] of "History Under the Influence".
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10104347079764180.1073741836.7944448&type=3) by [[Jo Chauvin]] of "Pig Pics".
 
 ### February 27, 2014 (the 98th show)
 #### [[Out of Bounds]] Submission Video Party
@@ -1214,8 +1214,8 @@ Starring the following players:
 * [[Ruby Willmann]]
 
 #### Media
-* [http://youtu.be/YyIWHBdDI9s Promo] for the show.
-* [http://vimeo.com/92380406 Video] by [[Peter Rogers]] of the "Franz & Dave *[[Maestro]]*".
+* [Promo](http://youtu.be/YyIWHBdDI9s) for the show.
+* [Video](http://vimeo.com/92380406) by [[Peter Rogers]] of the "Franz & Dave *[[Maestro]]*".
 
 ### April 24, 2014 (the 101st show)
 #### Pet Peeves ([[Justin Davis]])
@@ -1245,7 +1245,7 @@ The sons and daughters of fairytale characters attending high school together. I
 Headliners
 
 #### Media
-* [http://cwcreations.smugmug.com/Improv-2014/Free-Fringe/20140508/Happily-Ever-After-High Photoset] by [[Chad Wellington]] of "Happily Ever After High"
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Free-Fringe/20140508/Happily-Ever-After-High) by [[Chad Wellington]] of "Happily Ever After High"
 
 ### May 15, 2014 (the 104th show)
 #### True Story ([[Sunaina Suhag]])
@@ -1370,11 +1370,11 @@ I'll ask the audience for some sense memory suggestions, and then perform a loop
 Headliners
 
 #### Media
-* Photosets by [[Peter Rogers]]: [http://www.facebook.com/hujhax/media_set?set=a.10152609197312265.1073741850.588952264&type=3 "Synesthesia"], [http://www.facebook.com/hujhax/media_set?set=a.10152609200917265.1073741851.588952264&type=3 "Celebrity Improv 101"], [http://www.facebook.com/hujhax/media_set?set=a.10152609216697265.1073741852.588952264&type=3 Jessica & Sam]
+* Photosets by [[Peter Rogers]]: ["Synesthesia"](http://www.facebook.com/hujhax/media_set?set=a.10152609197312265.1073741850.588952264&type=3), ["Celebrity Improv 101"](http://www.facebook.com/hujhax/media_set?set=a.10152609200917265.1073741851.588952264&type=3), [Jessica & Sam](http://www.facebook.com/hujhax/media_set?set=a.10152609216697265.1073741852.588952264&type=3)
 * Videos by [[Peter Rogers]]:
-** [http://vimeo.com/100491197 Video] of "Synesthesia".
-** [http://vimeo.com/100593128 Video] of "Celebrity Improv 101".
-** [http://vimeo.com/100619377 Video] "Jessica & Sam".
+** [Video](http://vimeo.com/100491197) of "Synesthesia".
+** [Video](http://vimeo.com/100593128) of "Celebrity Improv 101".
+** [Video](http://vimeo.com/100619377) "Jessica & Sam".
 
 ### July 17, 2014 (the 113th show)
 #### Speed Dating with [[Brett Tribe]] ([[Cortney DeAngelo]])
@@ -1453,8 +1453,8 @@ Also, Halyn designed this poster. It is my favorite thing ever. The end.
 See you Thursday!"
 
 #### Media
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.885140401516446.1073741881.100000614831752&type=3 Photoset] by [[Warren Henderson]].
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104973346355910.1073741868.7909117&type=3 Photoset] by [[Heidi Rogers]].
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.885140401516446.1073741881.100000614831752&type=3) by [[Warren Henderson]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104973346355910.1073741868.7909117&type=3) by [[Heidi Rogers]].
 
 ### September 4, 2014 (the 119th show)
 #### Super City Council ([[Peter Rogers]])
@@ -1541,7 +1541,7 @@ This format originally appeared on [[List of Free Fringes#All Ladies Be Trekkin.
 This was the beloved, recurring Free Fringe format ([[List of Free Fringes#The Triumphant Return of the Tech Nightmare .28Cortney DeAngelo .26 Cindy Page.29|7/19/12]], [[List of Free Fringes#Tech Nightmare .28Cindy Page.29|9/27/12]], [[List of Free Fringes#Tech Nightmare .28Cindy Page.29 2|10/25/12]], and [[List of Free Fringes#Merry Xmas Tech Nightmare .28Cortney DeAngelo.29|12/13/12]]) that features AIC techs inflicting sound- and light-cue madness on the performers onstage.
 
 #### Media
-* [http://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3) by [[Steve Rogers]].
 
 ### October 23, 2014 (the 126th show): "DeaneFest"
 #### DeaneFest! ([[Mitchell Deane]])
@@ -1611,7 +1611,7 @@ Night Vale isn't the only town with strange things going on. Black Vault</em> di
 [[Jessica Arjet]] and [[Kristin Henn]]
 
 #### Media
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203090924416751.1073741919.1315383518&type=3 Photoset] by [[Michael Yew]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203090924416751.1073741919.1315383518&type=3) by [[Michael Yew]].
 
 ### December 11, 2014 (the 130th show)
 #### Sounds like a Troupe ([[Luke Wallens]])
@@ -1725,9 +1725,9 @@ We're going to break through the clichés and make the scenes about the relation
 Every year Paul Normandin, the nicest guy in the universe, organizes a Hug Day downtown. This show will be a tribute and a recreation of that. The idea couldn't be simpler, even if it is a little tricky to grasp. Here's Tim's pitch to Paul:<blockquote>"Say you and others who were giving out hugs play while people are walking on stage from time to time to get or decline hugs.  It could be neat to see the actual conversations that take place between hug times, as well as end with everyone in the audience."</blockquote>The Perfect Free Fringe show.
 
 #### PLANK-A-THON! ([[Joy Parks]])
-Want to support the Hideout's Special Needs program? Sweet! So do we! It's awesome! To learn more about the program, check out [http://www.hideouttheatre.com/improv-for-kids/special-needs-improv www.specialneedsimprov.com].
+Want to support the Hideout's Special Needs program? Sweet! So do we! It's awesome! To learn more about the program, check out [www.specialneedsimprov.com](http://www.hideouttheatre.com/improv-for-kids/special-needs-improv).
 
-YOU can help this program continue to grow by participating in the Plank-A-Thon! The concept: Each member of the cast will plank during the show, for as long as s/he can, and the planks will be individually timed. (One improviser, Joy, promises to go for 5 minutes!)How is this a fundraiser? We're hoping you will pledge per minute planked by the whole cast, or place a donation if Joy completes her 5 minute plank or, donate just because you wanna donate! Check out [http://goo.gl/forms/MZIvaATqd3 this google doc] for full show details and more donation info!
+YOU can help this program continue to grow by participating in the Plank-A-Thon! The concept: Each member of the cast will plank during the show, for as long as s/he can, and the planks will be individually timed. (One improviser, Joy, promises to go for 5 minutes!)How is this a fundraiser? We're hoping you will pledge per minute planked by the whole cast, or place a donation if Joy completes her 5 minute plank or, donate just because you wanna donate! Check out [this google doc](http://goo.gl/forms/MZIvaATqd3) for full show details and more donation info!
 
 #### Mainstage Co-Op ([[Lacy Shawn]])
 In an alternative universe, characters from various Hideout mainstages all live in the same home as roommates.
@@ -1738,7 +1738,7 @@ What happens when a home is shared by a [[Reform School for Wayward Girls|reform
 [[Jessica Arjet]] presents Love Stories, featuring the cast of *[[I Love You So Much]]*.
 
 #### Media
-* [http://youtu.be/Q4giLqTx2Rw Video] of the Plank-A-Thon.
+* [Video](http://youtu.be/Q4giLqTx2Rw) of the Plank-A-Thon.
 
 ### February 19th, 2015 (the 138th show)
 #### [[Andrew and Jeremy Hypnotize Each Other!]] ([[Jeremy Moran]])
@@ -1855,7 +1855,7 @@ This is the casual, unofficial, just for fun funny lady's workshop showcase! Our
 
 #### Media
 ##### Videos
-* [http://vimeo.com/126649332 Video] of the 4/30/15 "Quadrupeds" performance.
+* [Video](http://vimeo.com/126649332) of the 4/30/15 "Quadrupeds" performance.
 
 ### May 7, 2015 (the 147th show)
 #### Take Me Out to the Ballgame ([[Tim Coyle]])
@@ -1958,7 +1958,7 @@ Based on a popular meme, "Your Corpus Is Showing" will lovingly poke fun at the 
 
 #### Media
 ##### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204458319840782.1073741956.1315383518&type=3 Photoset] by [[Michael Yew]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204458319840782.1073741956.1315383518&type=3) by [[Michael Yew]].
 
 ### July 16, 2015 (the 157th show)
 #### Hollywouldn't ([[Jon Fortenbury]])
@@ -1996,17 +1996,17 @@ The cast (including [[Jeremy Moran]], [[Linzy Beltran]], [[David Lampe]], [[Mitc
 
 #### Media
 ##### Videos
-* [http://vimeo.com/135948331 Video] of the "Two Gentlemen Of" performance.
+* [Video](http://vimeo.com/135948331) of the "Two Gentlemen Of" performance.
 
 ##### Photos
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207783538172832.1073741829.1425495839&type=3 Photoset] by [[Jay Mahavier]].
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207783538172832.1073741829.1425495839&type=3) by [[Jay Mahavier]].
 
 ### August 13, 2015 (the 161st show): "Summer Intensive Fringe Show"
 [[Aspen Webster]], [[Tyler Lane]], and [[Jessica Arjet]] will be heading up project using Austin improvisers and students from the Hideout Summer Intensive as cast members. It's gonna be a blast, y'all.
 
 #### Media
 ##### Photos
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207813068551073.1425495839&type=3 Photoset] by [[Jay Mahavier]].
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207813068551073.1425495839&type=3) by [[Jay Mahavier]].
 
 ### August 20, 2015 (the 162nd show)
 #### The End of Us ([[Jeremy Moran]])
@@ -2020,7 +2020,7 @@ Sometimes when you teach improv you run across students with so much natural tal
 
 #### Media
 ##### Photos
-* Photosets by [[Jay Mahavier]]: [http://www.facebook.com/jay.mahavier/media_set?set=a.10207864062305885.1425495839&type=3 "The End of Us"], [http://www.facebook.com/jay.mahavier/media_set?set=a.10207864066385987.1425495839&type=3 "Teacher Heaven"], and [http://www.facebook.com/jay.mahavier/media_set?set=a.10207864068786047.1425495839&type=3 "Arjet Universe"].
+* Photosets by [[Jay Mahavier]]: ["The End of Us"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864062305885.1425495839&type=3), ["Teacher Heaven"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864066385987.1425495839&type=3), and ["Arjet Universe"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864068786047.1425495839&type=3).
 
 ### August 27, 2015 (the 163rd show)
 #### Fancy Nancy and Plain Jane ([[Kaci Beeler]])
@@ -2036,10 +2036,10 @@ The Arjet Universe will be investigating the world of Tennessee Williams! Drama,
 
 #### Media
 ##### Videos
-* [http://vimeo.com/137628030 Video] of the "Improvisors on a Hot Tin Roof" performance.
+* [Video](http://vimeo.com/137628030) of the "Improvisors on a Hot Tin Roof" performance.
 
 ##### Photos
-* Photosets by [[Jay Mahavier]]: [http://www.facebook.com/jay.mahavier/media_set?set=a.10207921746347950.1425495839&type=3 "Theo-Thon"], [http://www.facebook.com/jay.mahavier/media_set?set=a.10207921803509379.1073741865.1425495839&type=3 "Fancy Nancy and Plain Jane"], and [http://www.facebook.com/jay.mahavier/media_set?set=a.10207921801029317.1425495839&type=3 "Improv on a Hot Tin Roof"].
+* Photosets by [[Jay Mahavier]]: ["Theo-Thon"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207921746347950.1425495839&type=3), ["Fancy Nancy and Plain Jane"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207921803509379.1073741865.1425495839&type=3), and ["Improv on a Hot Tin Roof"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207921801029317.1425495839&type=3).
 
 ### September 3, 2015
 Dark for [[The 2015 Out of Bounds Comedy Festival]].

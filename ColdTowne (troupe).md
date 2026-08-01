@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Coldtowne.jpg">Coldtowne.jpg</a>
+				![[Coldtowne.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ ColdTowne is currently composed of only 2 of the 9 original members: [[Michael J
 
 ## Media
 ### Videos
-* [http://blip.tv/out-of-bounds-comedy-festival/coldtowne-sat-10pm-svt-oranges-stage-1255935 Video] of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/coldtowne-sat-10pm-svt-oranges-stage-1255935) of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

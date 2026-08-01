@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Emma Holder Pic.jpg">Emma Holder Pic.jpg</a>
+				![[Emma Holder Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -41,7 +41,7 @@ Emma Holder was a core cast member in [[The 43-Hour Improv Marathon]]. She perfo
 * *[[Braised in Texas]]*
 
 ## More Information
-* [http://yesandrew.com/2014/07/20/the-sunday-interview-emma-holder/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/07/20/the-sunday-interview-emma-holder/) by [[Andrew Buck]].
 
 [[Category/Performers|Holder]]
 [[Category/Directors|Holder]]

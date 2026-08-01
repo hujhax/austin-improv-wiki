@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Raney Nights.png">Raney Nights.png</a>
+				![[Raney Nights.png]]
 			</td>
 		</tr>
 
@@ -45,7 +45,7 @@
 ***Raney Nights*** is a monthly [[ColdTowne]] talk show hosted by [[Scott Raney]].
 
 ## More Information
-* [http://www.coldtownetheater.com/events/raney-nights-show-3 The web page for the seventh installment of the show.]
+* [The web page for the seventh installment of the show.](http://www.coldtownetheater.com/events/raney-nights-show-3)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

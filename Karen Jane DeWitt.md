@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Karen Jane DeWitt Pic.jpg">Karen Jane DeWitt Pic.jpg</a>
+				![[Karen Jane DeWitt Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -50,6 +50,6 @@ In 2012, she attended the iO Summer Intensive in Chicago.
 * *[[Live TV Tuesdays -  Party of Five]]* (Claudia)
 
 ## More Information
-* [http://www.scissortailsavoriesandsweets.com/ The web site for Scissortail Savories and Sweets], Karen Jane's bakery.
+* [The web site for Scissortail Savories and Sweets](http://www.scissortailsavoriesandsweets.com/), Karen Jane's bakery.
 
 [[Category/Performers|DeWitt]]

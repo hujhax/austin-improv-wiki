@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="GanymedeTmp.jpg">GanymedeTmp.jpg</a>
+				![[GanymedeTmp.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,7 +83,7 @@ Mythos is a narrative with heavy underscoring of electronic music. The show star
 
 ## Media
 ### Videos
-* [https://drive.google.com/drive/folders/0B-QTaxUOgPfzdkZIQXVFR3d5UGc?usp=sharing Videos Folder] 
+* [Videos Folder](https://drive.google.com/drive/folders/0B-QTaxUOgPfzdkZIQXVFR3d5UGc?usp=sharing) 
 
 ### Photos
 ## Press/Audition Blurbs
@@ -95,7 +95,7 @@ Mythos is a narrative with heavy underscoring of electronic music. The show star
 
 ## More Information
 * [ The troupe's website.]
-* [https://www.facebook.com/ganymedeimprov/ The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/ganymedeimprov/)
 * Show Count: 2 (as of 02/09/2017)
 
 [[Category/Troupes|Category:Troupes]]

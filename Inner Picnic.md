@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Innerpicnic.jpg">Innerpicnic.jpg</a>
+				![[Innerpicnic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -79,7 +79,7 @@
 	</table>
 </div>
 
-Inner Picnic writes and performs [https://en.wikipedia.org/wiki/Neo-Futurists Neo-Futurist] inspired short plays.
+Inner Picnic writes and performs [Neo-Futurist](https://en.wikipedia.org/wiki/Neo-Futurists) inspired short plays.
 
 ### Shows
 * *[[The Fourth Wall is Behind You]]* — FronteraFest Short Fringe (2017)

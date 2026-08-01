@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Tomato Pie.jpg">Tomato Pie.jpg</a>
+				![[Tomato Pie.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,7 +89,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/31812790 Video] by [[Kyle Sweeney]] of their 11/7/11 show.
+* [Video](http://vimeo.com/31812790) by [[Kyle Sweeney]] of their 11/7/11 show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

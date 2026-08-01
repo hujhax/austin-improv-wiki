@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="¡ZARZAMORA!.jpg">¡ZARZAMORA!.jpg</a>
+				![[¡ZARZAMORA!.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -105,24 +105,24 @@ The following upcoming festival appearances are scheduled:
 
 ## Media
 ### Videos
-* [http://vimeo.com/21367828 Video of a 2011 performance.]
-* [http://vimeo.com/44295246 Video] by [[Brad Hawkins]] of their "Q-Tip" show (uploaded 4/2/12).
-* [http://vimeo.com/44295246 Video] by [[Brad Hawkins]] of their 6/14/12 show ("The Panini Press").
-* [http://vimeo.com/44444798 Video] by [[Brad Hawkins]] of their "E-ZPass" show (uploaded 6/21/12).
-** [http://vimeo.com/44320993 Lower-res version of the video.]
-* [http://vimeo.com/116581981 Video] by [[Brad Hawkins]] of their show at Trill Fest in Houston, Texas (the festival ran from 5/22/14 to 5/24/14).
+* [Video of a 2011 performance.](http://vimeo.com/21367828)
+* [Video](http://vimeo.com/44295246) by [[Brad Hawkins]] of their "Q-Tip" show (uploaded 4/2/12).
+* [Video](http://vimeo.com/44295246) by [[Brad Hawkins]] of their 6/14/12 show ("The Panini Press").
+* [Video](http://vimeo.com/44444798) by [[Brad Hawkins]] of their "E-ZPass" show (uploaded 6/21/12).
+** [Lower-res version of the video.](http://vimeo.com/44320993)
+* [Video](http://vimeo.com/116581981) by [[Brad Hawkins]] of their show at Trill Fest in Houston, Texas (the festival ran from 5/22/14 to 5/24/14).
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1 Photoset] by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 4/1/12 performance in *[[The Weekender]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200549618405689.1073741857.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 9/24/13 performance in *[[The Weekender]]*.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 10/5/13 performance with *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202528881326025.1073741900.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/26/14 show at [[The 2014 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.851529264910591.1073742119.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/22/14 performance in [[WaffleFest 2014]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1) by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3) by [[Claudio Fox]] that includes their 4/1/12 performance in *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200549618405689.1073741857.1315383518&type=3) by [[Michael Yew]] which includes their 9/24/13 performance in *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3) by [[Claudio Fox]] that includes their 10/5/13 performance with *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528881326025.1073741900.1315383518&type=3) by [[Michael Yew]] that includes their 8/26/14 show at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.851529264910591.1073742119.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/pages/Zarzamora/126236170779574 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Zarzamora/126236170779574)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Zarzamora]]

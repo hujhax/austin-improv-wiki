@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Escandalo.jpg">Escandalo.jpg</a>
+				![[Escandalo.jpg]]
 			</td>
 		</tr>
 
@@ -135,7 +135,7 @@ Join us at The Hideout to explore themes of nail-biting intrigue, star-crossed l
 Also, [[Lahari Dunn]] served as a production consultant.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/escandalo The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/escandalo)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

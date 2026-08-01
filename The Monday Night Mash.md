@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Monday Night Mash.jpg">The Monday Night Mash.jpg</a>
+				![[The Monday Night Mash.jpg]]
 			</td>
 		</tr>
 
@@ -150,8 +150,8 @@
 [[Snackers]] founded the *Monday Night Mash* in 2008.  Troupe member [[Albert Im]] arranged it as a free, weekly triple bill at [[Kick Butt Coffee]].  In 2009, they lost their slot at the café.  The last *Monday Night Mash* played at the café on 2/23/09.  [[ColdTowne Theater]] brought the show over at their theater, to provide a slot for non-ColdTowne troupes.  The first *Monday Night Mash* at ColdTowne was on 5/11/09.
 
 ## More Information
-* [http://www.facebook.com/mondaynightmash The show's facebook page.]
-* [http://forum.austinimprov.com/viewtopic.php?p=74539 Announcement] of the last *Monday Night Mash* at [[Kick Butt Coffee]] on 2/23/09 on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=78697 Announcement] of the first *Monday Night Mash* at [[ColdTowne Theater]] on 5/11/09 on [[The Austin Improv Forums]].
+* [The show's facebook page.](http://www.facebook.com/mondaynightmash)
+* [Announcement](http://forum.austinimprov.com/viewtopic.php?p=74539) of the last *Monday Night Mash* at [[Kick Butt Coffee]] on 2/23/09 on [[The Austin Improv Forums]].
+* [Announcement](http://forum.austinimprov.com/viewtopic.php?p=78697) of the first *Monday Night Mash* at [[ColdTowne Theater]] on 5/11/09 on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

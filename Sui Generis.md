@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,6 +80,6 @@
 They played one [[Cagematch]] against [[You, Me, and Greg]] on 2/17/06, which they lost.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=2649&start=0#p20442 Cast list] on [[The Austin Improv Forums]].
+* [Cast list](http://forum.austinimprov.com/viewtopic.php?t=2649&start=0#p20442) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]

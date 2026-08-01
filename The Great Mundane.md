@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Great Mundane.jpg">The Great Mundane.jpg</a>
+				![[The Great Mundane.jpg]]
 			</td>
 		</tr>
 
@@ -165,7 +165,7 @@ Each week included a guest star.  These are the guests who appeared on the show:
 Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>Jay's initial idea was just an exercise in world building, and he wanted to call it the Mundane. I thought that might not be very marketable and threw an adjective in front of it, give it a bit of circus flair. Worked out okay.  :)</blockquote>
 
 ## Media
-* [http://xhibition.majcher.com/images/2006_03_19_improv/ A photoset] from [[Marc Majcher]] that includes at least one performance of *The Great Mundane*.
+* [A photoset](http://xhibition.majcher.com/images/2006_03_19_improv/) from [[Marc Majcher]] that includes at least one performance of *The Great Mundane*.
 
 [[Category/Shows|Great Mundane]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

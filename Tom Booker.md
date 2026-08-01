@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Tom Booker Pic.jpg">Tom Booker Pic.jpg</a>
+				![[Tom Booker Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -52,11 +52,11 @@ He's a really nice guy. You should meet him.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.608955025839847.1073741867.118587218209966&type=3 Photoset] by [[Roy Moore]] of Tom Booker's 50th Birthday Show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.608955025839847.1073741867.118587218209966&type=3) by [[Roy Moore]] of Tom Booker's 50th Birthday Show.
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2424971 Interview] with Tom on *[[The Theft Forum]]*.
-* [http://yesandrew.com/2014/06/22/the-sunday-interview-tom-booker/ Interview] by [[Andrew Buck]].
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2424971) with Tom on *[[The Theft Forum]]*.
+* [Interview](http://yesandrew.com/2014/06/22/the-sunday-interview-tom-booker/) by [[Andrew Buck]].
 
 [[Category/Performers|Booker]]
 [[Category/Directors|Booker]]

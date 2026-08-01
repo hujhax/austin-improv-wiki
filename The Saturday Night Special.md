@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Saturday Night Special Publicity.gif">The Saturday Night Special Publicity.gif</a>
+				![[The Saturday Night Special Publicity.gif]]
 			</td>
 		</tr>
 
@@ -64,8 +64,8 @@ The Saturday Night Special's final performance was on 12/22/12.
 
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=54901 The announcement] on [[The Austin Improv Forums]] of the show's debut.
-* [http://forum.austinimprov.com/viewtopic.php?p=90812 The announcement] on [[The Austin Improv Forums]] that *[[Heist!]]* was opening *The Saturday Night Special* in March 2010.
+* [The announcement](http://forum.austinimprov.com/viewtopic.php?p=54901) on [[The Austin Improv Forums]] of the show's debut.
+* [The announcement](http://forum.austinimprov.com/viewtopic.php?p=90812) on [[The Austin Improv Forums]] that *[[Heist!]]* was opening *The Saturday Night Special* in March 2010.
 
 [[Category/Shows|Saturday Night Special]]
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]

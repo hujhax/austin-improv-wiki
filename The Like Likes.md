@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Like Likes.jpg">The Like Likes.jpg</a>
+				![[The Like Likes.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -92,12 +92,12 @@ Song lyrics kicks off fan interplay of words and movements (for example, "take t
 
 ## Media
 ### Videos
-* [http://youtu.be/Lwb13vV8fpEVideo] of an October 2014 show.
-* [http://youtu.be/qb2iBVZGmPg Video] of a December 2014 show.
-* [http://youtu.be/_HKAQBC4tIw Video] of a January 2015 show.
+* [http://youtu.be/Lwb13vV8fpEVideo](http://youtu.be/Lwb13vV8fpEVideo) of an October 2014 show.
+* [Video](http://youtu.be/qb2iBVZGmPg) of a December 2014 show.
+* [Video](http://youtu.be/_HKAQBC4tIw) of a January 2015 show.
 
 ## More Information
-* [http://www.facebook.com/TheLikeLikesImprov The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/TheLikeLikesImprov)
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Active|Category:Active]]

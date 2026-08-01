@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Black Vault.jpg ‎">The Black Vault.jpg ‎</a>
+				![[The Black Vault.jpg ‎]]
 			</td>
 		</tr>
 
@@ -171,70 +171,70 @@ After its mainstage run, there were a number of one-off shows:
 * 3/27/14: a double-bill with [[Strange Worlds]] as a fundraiser for both show's trip to the Alaska State Improv Festival.
 
 ### *Tales from the Black Vault*
-In 2014, the cast began production on *[http://blackvault.austinimprov.com Tales from the Black Vault]*, a podcast version of the show.  Plans were made for an eight-episode audiodrama anthology of improvised stories in the style of H. P. Lovecraft.  They recorded [http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival a demo episode] at the director's home, and then launched [http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama a kickstarter campaign] to raise funding to produce a whole season.  The kickstarter raised enough money to produce *two* seasons, with the first season premiering in mid-March of 2015.
+In 2014, the cast began production on *[Tales from the Black Vault](http://blackvault.austinimprov.com)*, a podcast version of the show.  Plans were made for an eight-episode audiodrama anthology of improvised stories in the style of H. P. Lovecraft.  They recorded [a demo episode](http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival) at the director's home, and then launched [a kickstarter campaign](http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama) to raise funding to produce a whole season.  The kickstarter raised enough money to produce *two* seasons, with the first season premiering in mid-March of 2015.
 
 ### The Black Vault 2019
 The Black Vault returned in 2019 at the Institution Theater with a new run of six shows, using the same basic format, with an entirely new cast.
 
 ## Media
 ### Videos
-* Sample video of [[Marc Majcher]]'s [http://vimeo.com/49958497 introduction to the show].
-* [http://vimeo.com/49647825 Video of the 9/15/12 performance.]
-* [http://vimeo.com/50914775 Video of the 9/22/12 performance.]
-* [http://vimeo.com/89084358 Video of the last third of the 10/6/12 performance.]
-* [http://vimeo.com/52598840 Video] by [[Paul Normandin]] of the 10/13/12 show.
-* [http://vimeo.com/52585149 Video] by [[Paul Normandin]] of the 10/20/12 show.
-* [http://vimeo.com/52665609 Video] by [[Paul Normandin]] of the 10/27/12 show.
-* [http://vimeo.com/52659608 Video] by [[Paul Normandin]] of the 10/31/12 show.
-* [http://vimeo.com/55421296 Video of the one-off "Lovecraft Secrets" show] (a mash-up with *[[Austin Secrets]]* at *[[The Free Fringe]]*), from 12/6/12.
-* [http://vimeo.com/64275476 Video] by [[Paul Normandin]] of their 4/13/13 performance in [[The 2013 Improvised Play Festival]].
-* [http://vimeo.com/67752198 Video of the 5/5/13 performance], which was part of "Nerdprov" at [[The Institution Theater]].
-* [http://vimeo.com/66965290 Video] by [[Paul Normandin]] of the 5/23/13 "Pick Your Own Black Vault" show in *[[The Free Fringe]]*.
-* [http://vimeo.com/69325354 Video] by [[Paul Normandin]] of their 6/23/13 performance in [[The 44-Hour Improv Marathon]].
-* [http://vimeo.com/76849825 Audio of the 10/11/13 performance], part of *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
-* [https://www.youtube.com/watch?v=k07bu91F9H4#t=2678 Video of the 3/27/14 performance] by [[Warren Henderson]].
-* [http://vimeo.com/114083493 Video] by [[Peter Rogers]] of the 12/7/14 performance of "Arkham Community Radio" in the *[[2x4]]*.
-* [http://vimeo.com/120012508 Video] by [[Peter Rogers]] of the 1/23/15 performance of "Arkham Community Radio" in *[[The Free Fringe]]*.
-* [http://vimeo.com/133006812 Video] of their 6/10/15 performance in [[The 46-Hour Improv Marathon]].
+* Sample video of [[Marc Majcher]]'s [introduction to the show](http://vimeo.com/49958497).
+* [Video of the 9/15/12 performance.](http://vimeo.com/49647825)
+* [Video of the 9/22/12 performance.](http://vimeo.com/50914775)
+* [Video of the last third of the 10/6/12 performance.](http://vimeo.com/89084358)
+* [Video](http://vimeo.com/52598840) by [[Paul Normandin]] of the 10/13/12 show.
+* [Video](http://vimeo.com/52585149) by [[Paul Normandin]] of the 10/20/12 show.
+* [Video](http://vimeo.com/52665609) by [[Paul Normandin]] of the 10/27/12 show.
+* [Video](http://vimeo.com/52659608) by [[Paul Normandin]] of the 10/31/12 show.
+* [Video of the one-off "Lovecraft Secrets" show](http://vimeo.com/55421296) (a mash-up with *[[Austin Secrets]]* at *[[The Free Fringe]]*), from 12/6/12.
+* [Video](http://vimeo.com/64275476) by [[Paul Normandin]] of their 4/13/13 performance in [[The 2013 Improvised Play Festival]].
+* [Video of the 5/5/13 performance](http://vimeo.com/67752198), which was part of "Nerdprov" at [[The Institution Theater]].
+* [Video](http://vimeo.com/66965290) by [[Paul Normandin]] of the 5/23/13 "Pick Your Own Black Vault" show in *[[The Free Fringe]]*.
+* [Video](http://vimeo.com/69325354) by [[Paul Normandin]] of their 6/23/13 performance in [[The 44-Hour Improv Marathon]].
+* [Audio of the 10/11/13 performance](http://vimeo.com/76849825), part of *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
+* [Video of the 3/27/14 performance](https://www.youtube.com/watch?v=k07bu91F9H4#t=2678) by [[Warren Henderson]].
+* [Video](http://vimeo.com/114083493) by [[Peter Rogers]] of the 12/7/14 performance of "Arkham Community Radio" in the *[[2x4]]*.
+* [Video](http://vimeo.com/120012508) by [[Peter Rogers]] of the 1/23/15 performance of "Arkham Community Radio" in *[[The Free Fringe]]*.
+* [Video](http://vimeo.com/133006812) of their 6/10/15 performance in [[The 46-Hour Improv Marathon]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.418383731558482.101763.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/8/12 performance.
-* [http://www.facebook.com/media/set/?set=a.387896174612401.86555.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 9/15/12 performance.
-* [http://www.facebook.com/media/set/?set=a.396822437053108.88995.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/6/12 performance.
-* [http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/27/12 performance.
-* [http://www.facebook.com/media/set/?set=a.406375719431113.91155.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/31/12 performance.
-* [http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/ Photoset] by [[Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
-* [http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 10/11/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
-* [http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/ Photoset] by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
-* [http://www.facebook.com/media/set/?set=a.712663832143464.1073741848.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 10/24/14 show with [[Mister Morbid]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203090924416751.1073741919.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/4/14 performance of "Arkham Community Radio" in *[[The Free Fringe]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204872285069654.1073741966.1315383518&type=3 Photoset] by [[Michael Yew]] of a 9/15 cast visit to H. P. Lovecraft's gravesite in Providence, Rhode Island.
+* [Photoset](http://www.facebook.com/media/set/?set=a.418383731558482.101763.221927764537414&type=3) by [[Steve Rogers]] of the 9/8/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.387896174612401.86555.118587218209966&type=3) by [[Roy Moore]] of the 9/15/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.396822437053108.88995.118587218209966&type=3) by [[Roy Moore]] of the 10/6/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3) by [[Roy Moore]] of the 10/27/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.406375719431113.91155.118587218209966&type=3) by [[Roy Moore]] of the 10/31/12 performance.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3) by [[Roy Moore]] that includes their 10/11/13 performance in [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3) by [[Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/) by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.712663832143464.1073741848.473177099425473&type=3) by [[Chad Wellington]] of their 10/24/14 show with [[Mister Morbid]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203090924416751.1073741919.1315383518&type=3) by [[Michael Yew]] of the 12/4/14 performance of "Arkham Community Radio" in *[[The Free Fringe]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204872285069654.1073741966.1315383518&type=3) by [[Michael Yew]] of a 9/15 cast visit to H. P. Lovecraft's gravesite in Providence, Rhode Island.
 
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download) of [[Kaci Beeler]]'s set design.
 * *Tales from the Black Vault* media:
-** [http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival The podcast's demo episode.]
-** [http://vimeo.com/110104860 Promo video] for *[[The Free Fringe]]*.
-** [http://vimeo.com/110448368 Promo video] for [http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama the kickstarter campaign].
+** [The podcast's demo episode.](http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival)
+** [Promo video](http://vimeo.com/110104860) for *[[The Free Fringe]]*.
+** [Promo video](http://vimeo.com/110448368) for [the kickstarter campaign](http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama).
 ** Short cast interviews:
-*** [http://vimeo.com/112034604 Interview] with [[Paul Normandin]].
-*** [http://vimeo.com/112034692 Interview] with [[Jayme Ramsay]].
-*** [http://vimeo.com/112257992 Interview] with [[Justin Davis]].
-*** [http://vimeo.com/112363296 Interview] with [[Andreas Fabis]].
-*** [http://vimeo.com/112363297 Interview] with [[Marc Majcher]].
+*** [Interview](http://vimeo.com/112034604) with [[Paul Normandin]].
+*** [Interview](http://vimeo.com/112034692) with [[Jayme Ramsay]].
+*** [Interview](http://vimeo.com/112257992) with [[Justin Davis]].
+*** [Interview](http://vimeo.com/112363296) with [[Andreas Fabis]].
+*** [Interview](http://vimeo.com/112363297) with [[Marc Majcher]].
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/theblackvault The show's web page.]
-* [http://www.hideouttheatre.com/the-creeping-laughter A blog post] by [[Roy Janik]] about the rehearsal process.
+* [The show's web page.](http://www.hideouttheatre.com/shows/theblackvault)
+* [A blog post](http://www.hideouttheatre.com/the-creeping-laughter) by [[Roy Janik]] about the rehearsal process.
 * "The Shadow Out of Austin", an abortive collaborative story by the cast from September 2012:
-** [http://www.hideouttheatre.com/the-shadow-out-of-austin Chapter 1], by [[Roy Janik]].
-** [http://www.hideouttheatre.com/the-shadow-out-of-austin-chapter-2 Chapter 2], by [[Jay Michael]].
-* [http://traffic.libsyn.com/thetheftforum/The_Black_Vault_-_Main_Stage_Focus.mp3 Interview] with director [[Marc Majcher]] and cast members [[Jessica Arjet]], [[Ryan Hill]], and [[Paul Normandin]] on *[[The Theft Forum]]*.
-* [http://blackvault.net/ Website for *Tales from the Black Vault*].
+** [Chapter 1](http://www.hideouttheatre.com/the-shadow-out-of-austin), by [[Roy Janik]].
+** [Chapter 2](http://www.hideouttheatre.com/the-shadow-out-of-austin-chapter-2), by [[Jay Michael]].
+* [Interview](http://traffic.libsyn.com/thetheftforum/The_Black_Vault_-_Main_Stage_Focus.mp3) with director [[Marc Majcher]] and cast members [[Jessica Arjet]], [[Ryan Hill]], and [[Paul Normandin]] on *[[The Theft Forum]]*.
+* [Website for *Tales from the Black Vault*](http://blackvault.net/).
 
 ### Press
-* [http://www.austinchronicle.com/blogs/chronolog/2012-10-11/can-i-get-a-suggestion-for-something-that-goes-fhtagn/ Review of the show in *The Austin Chronicle*.]
+* [Review of the show in *The Austin Chronicle*.](http://www.austinchronicle.com/blogs/chronolog/2012-10-11/can-i-get-a-suggestion-for-something-that-goes-fhtagn/)
 
 [[Category/Shows|Black Vault]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

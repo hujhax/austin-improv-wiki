@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays - Felicity.jpg">Live TV Tuesdays - Felicity.jpg</a>
+				![[Live TV Tuesdays - Felicity.jpg]]
 			</td>
 		</tr>
 
@@ -204,7 +204,7 @@
 		
 	</table>
 </div>
-***Live TV Tuesdays: Felicity*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Felicity (TV series)|*Felicity*]] episode [http://www.imdb.com/title/tt0578679/ "Gimme an O!"].
+***Live TV Tuesdays: Felicity*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Felicity (TV series)|*Felicity*]] episode ["Gimme an O!"](http://www.imdb.com/title/tt0578679/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *Felicity".
@@ -221,7 +221,7 @@ It played exclusively at [[The Highball]].
 * Ensemble -- [[Adriane Shown]]
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.10150353885654090.375652.273514734089&type=3 A photoset] of one of the performances.
+* [A photoset](http://www.facebook.com/media/set/?set=a.10150353885654090.375652.273514734089&type=3) of one of the performances.
 
 ## More Information
-* [http://www.facebook.com/events/233297730049818/ The facebook-event page for the premiere.]
+* [The facebook-event page for the premiere.](http://www.facebook.com/events/233297730049818/)

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Death by musical.jpg">Death by musical.jpg</a>
+				![[Death by musical.jpg]]
 			</td>
 		</tr>
 
@@ -150,7 +150,7 @@
 Every week a brand new horror comedy musical will be improvised before your very eyes, complete with singing, screams, dancing, AND (fake) blood.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/deathbymusical The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/deathbymusical)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

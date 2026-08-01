@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Orphans.jpg">Orphans.jpg</a>
+				![[Orphans.jpg]]
 			</td>
 		</tr>
 
@@ -156,7 +156,7 @@
 * Graphic & Scenic Design – [[Kaci Beeler]]
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/orphans The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/orphans)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="TwinsPromo.jpg">TwinsPromo.jpg</a>
+				![[TwinsPromo.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ TBD - What is this format
 *"It's Ok To Laugh"
 
 ## More Information
-* [https://www.facebook.com/twinsimprov The duo's facebook page.]
+* [The duo's facebook page.](https://www.facebook.com/twinsimprov)
 * Show Count: 5 (as of 09/14/2018)
 
 [[Category/Troupes|Category:Troupes]]

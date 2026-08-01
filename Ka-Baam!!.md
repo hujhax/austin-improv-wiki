@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Ka-Baam!! Logo.png">Ka-Baam!! Logo.png</a>
+				![[Ka-Baam!! Logo.png]]
 			</td>
 		</tr>
 
@@ -222,27 +222,27 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=NWNM1jVvQGA Video of show intro].
-* [http://blip.tv/out-of-bounds-comedy-festival/ka-baam-mon-8pm-svt-apples-stage-1255191 Video]  of their 9/1/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video of show intro](http://www.youtube.com/watch?v=NWNM1jVvQGA).
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/ka-baam-mon-8pm-svt-apples-stage-1255191)  of their 9/1/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.flickr.com/photos/austinimprov/sets/72157605333037069/ A photoset that includes both runs.]
-* [http://www.flickr.com/photos/majcher/tags/kabaam/ Photos of the 2009 run] from [[Marc Majcher]].
-* [http://www.facebook.com/MadelineChauvin/media_set?set=a.969842825120.2743782.7944448&type=3 Photoset] by [[Jo Chauvin]] of the 9/12/09 show.
-* [http://twitpic.com/mqx6f Cover-art from the 10/23/09 show, featuring "The Twitler".]
+* [A photoset that includes both runs.](http://www.flickr.com/photos/austinimprov/sets/72157605333037069/)
+* [Photos of the 2009 run](http://www.flickr.com/photos/majcher/tags/kabaam/) from [[Marc Majcher]].
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969842825120.2743782.7944448&type=3) by [[Jo Chauvin]] of the 9/12/09 show.
+* [Cover-art from the 10/23/09 show, featuring "The Twitler".](http://twitpic.com/mqx6f)
 
 ### Other
-* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2459454053_0a1baac74c/2459454053_0a1baac74c.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2534889035_76644d6259/2534889035_76644d6259.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2461681911_601d6d39d1/2461681911_601d6d39d1.jpg?disposition=download 3].
+* Photos of [[Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2459454053_0a1baac74c/2459454053_0a1baac74c.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2534889035_76644d6259/2534889035_76644d6259.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2461681911_601d6d39d1/2461681911_601d6d39d1.jpg?disposition=download).
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=6771 Announcement of the opening of the first run] on [[The AIC Forums]].
-* [http://keepjustinwriting.com/2009/05/11/7/ Press release for the 2008 run] by [[Justin Davis]].
-* [http://www.austinchronicle.com/arts/2008-05-02/618700/ A story about the show in *The Austin Chronicle*] by [[Wayne Allen Brenner]]
-* [http://www.austinchronicle.com/arts/2009-01-02/721384/ The top ten arts events of 2008 (which included *Ka-Baam!!*)], by [[Wayne Allen Brenner]] for *The Austin Chronicle*
-* [http://forum.austinimprov.com/viewtopic.php?t=6953 An announcement of the 5/31/08 show] on [[The AIC Forums]].
-* [http://www.comicbookresources.com/?page=article&id=16806 Article on comicbookresources.com from 6/16/08.]
-* [http://goodcomics.comicbookresources.com/2008/06/26/superhero-improv-is-good/ Article on comicbookresources.com from 6/26/08.]
-* [http://forum.austinimprov.com/viewtopic.php?t=9700 Announcement of the opening of the second run] on [[The AIC Forums]].
+* [Announcement of the opening of the first run](http://forum.austinimprov.com/viewtopic.php?t=6771) on [[The AIC Forums]].
+* [Press release for the 2008 run](http://keepjustinwriting.com/2009/05/11/7/) by [[Justin Davis]].
+* [A story about the show in *The Austin Chronicle*](http://www.austinchronicle.com/arts/2008-05-02/618700/) by [[Wayne Allen Brenner]]
+* [The top ten arts events of 2008 (which included *Ka-Baam!!*)](http://www.austinchronicle.com/arts/2009-01-02/721384/), by [[Wayne Allen Brenner]] for *The Austin Chronicle*
+* [An announcement of the 5/31/08 show](http://forum.austinimprov.com/viewtopic.php?t=6953) on [[The AIC Forums]].
+* [Article on comicbookresources.com from 6/16/08.](http://www.comicbookresources.com/?page=article&id=16806)
+* [Article on comicbookresources.com from 6/26/08.](http://goodcomics.comicbookresources.com/2008/06/26/superhero-improv-is-good/)
+* [Announcement of the opening of the second run](http://forum.austinimprov.com/viewtopic.php?t=9700) on [[The AIC Forums]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Dance dreams.jpg">Dance dreams.jpg</a>
+				![[Dance dreams.jpg]]
 			</td>
 		</tr>
 
@@ -147,7 +147,7 @@
 ***Dance Dreams*** was a Hideout mainstage show set backstage at a ballet company.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/dancedreams The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/dancedreams)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

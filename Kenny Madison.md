@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Kenny Madison Pic.jpg">Kenny Madison Pic.jpg</a>
+				![[Kenny Madison Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@
 	</table>
 </div>
 
-**Kenny Madison** is an improv performer and director. He maintains a regular blog at [http://kennymadisoniscool.com/improv-comedy-austin/ KennyMadisonisCool.com], where he also offers coaching to other improvisers in town.
+**Kenny Madison** is an improv performer and director. He maintains a regular blog at [KennyMadisonisCool.com](http://kennymadisoniscool.com/improv-comedy-austin/), where he also offers coaching to other improvisers in town.
 
 ## Bio
 Kenny "The Tank" Madison was born in Tulsa, Oklahoma, raised in Sand Springs, Oklahoma, and went to school in Norman, Oklahoma, which logically places him in Austin, TX. Much to your surprise, he started improv in Oklahoma in 2008, where he was a player, then a coach, then an artistic director, then a friend. Since moving to Austin, Kenny has done regular shows at the Institution, Hideout, and ColdTowne Theaters, ranging from Junior Cast Member to Show Director. 

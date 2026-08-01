@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Spirit Desire.jpg">Spirit Desire.jpg</a>
+				![[Spirit Desire.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,11 +85,11 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/16/12 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.446455175375983.99833.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/14/12 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 2/16/12 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.446455175375983.99833.100000345135257&type=3) by [[Claudio Fox]] that includes their 7/14/12 performance at [[Salvage Vanguard Theater]].
 
 ## More Information
-* [http://www.facebook.com/spiritdesirecomedy The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/spiritdesirecomedy)
 
 
 [[Category/Troupes|Category:Troupes]]

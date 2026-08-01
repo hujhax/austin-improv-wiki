@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Katie Dahm Pic.jpg">Katie Dahm Pic.jpg</a>
+				![[Katie Dahm Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -46,6 +46,6 @@ Katie got her first taste of improv in high school when a lovely Austin improvis
 * *[[Showdown]]* (tech)
 
 ## More Information
-* [http://yesandrew.com/the-sunday-interview-katie-dahm/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-katie-dahm/) by [[Andrew Buck]].
 
 [[Category/Performers|Dahm]]

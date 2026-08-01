@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="J-K.jpg">J-K.jpg</a>
+				![[J-K.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,8 +80,8 @@
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.213931031950717.60617.176837108993443&type=3 Publicity photos.]
-* [http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.1384780142283.49789.1315383518&type=3 A photoset] by [[Michael Yew]] that includes their 10/2/11 performance at [[The Hyde Park Theater]].
+* [Publicity photos.](http://www.facebook.com/media/set/?set=a.213931031950717.60617.176837108993443&type=3)
+* [A photoset](http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/2/11 performance at [[The Hyde Park Theater]].
 
 ## More Information
 [[Category/Troupes|Category:Troupes]]

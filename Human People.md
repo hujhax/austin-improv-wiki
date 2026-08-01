@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Hp.jpg">Hp.jpg</a>
+				![[Hp.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -139,8 +139,8 @@ People who love doing musical improv together.
 We founded Human People in 2016 from a musical improv jam at Greg's cat-filled apartment, and here we are now, playing in shows across Austin, San Antonio, Houston, and New York City. We like guitar-backed big numbers, crazy characters, and rocking the stage. 
 
 ## More Information
-* The troupe's [https://www.facebook.com/Human-People-1709857375961100 Facebook page.]
-* The troupe website: [http://humanpeopleimprov.com/ HumanPeopleImprov.com]
+* The troupe's [Facebook page.](https://www.facebook.com/Human-People-1709857375961100)
+* The troupe website: [HumanPeopleImprov.com](http://humanpeopleimprov.com/)
 
 ## Show List
 * 3/23/2016 “Taco-eating grackles” @ The New Movement

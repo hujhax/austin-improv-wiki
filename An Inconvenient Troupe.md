@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="An Inconvenient Troupe.jpg">An Inconvenient Troupe.jpg</a>
+				![[An Inconvenient Troupe.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -78,7 +78,7 @@
 
 ## Media
 ### Videos
-* [http://youtu.be/BaH-wpaKN8g Video of a performance] at *[[The Cagematch]]*.
+* [Video of a performance](http://youtu.be/BaH-wpaKN8g) at *[[The Cagematch]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

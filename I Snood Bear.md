@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="I Snood Bear.jpg">I Snood Bear.jpg</a>
+				![[I Snood Bear.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ The troupe premiered in the 2007 *[[Cagematch]]*, under the name "A Bride Soon".
 
 ## Media
 ### Photos
-* [http://www.isnoodbear.com/pages/photos_troupe.htm Their website photo gallery.]
+* [Their website photo gallery.](http://www.isnoodbear.com/pages/photos_troupe.htm)
 
 ## More Information
-* [http://www.isnoodbear.com/ The duo's web page.]
+* [The duo's web page.](http://www.isnoodbear.com/)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

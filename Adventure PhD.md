@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Adventure phd cast.jpg">Adventure phd cast.jpg</a>
+				![[Adventure phd cast.jpg]]
 			</td>
 		</tr>
 
@@ -216,14 +216,14 @@ Every Saturday at 6pm at the Hideout bold adventures will delight you with their
 </blockquote>
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000 The show announcement] on the Hideout's facebook group.
-* [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/Adventure-PhD/ Photoshoot with] [Steve Rogers].
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.
+* [Photoshoot with](http://www.steve-rogers-photography.com/Headshots/Cast-Photos/Adventure-PhD/) [Steve Rogers].
 
 ## Shows
-* [https://gigity.tv/event/119020 North Dakota Ned and the Crystal Obelisk] on gigity.tv. (Chris Curl & Ellen Pizarek)
-* [https://gigity.tv/event/119021 Texas Tex and the Ivory Tablets] on gigity.tv. (Nicholas Marino & Chelsea Beth)
-* [https://www.facebook.com/SteveRogersPhotography/photos/?tab=album&album_id=1315359981860848 Texas Tex and the Ivory Tablets photoset] by Steve Rogers.
-* [https://gigity.tv/event/119023 Montana Monica and the Golden Phoenix] on gigity.tv. (Ellen Pizarek & Erasmo Romero)
+* [North Dakota Ned and the Crystal Obelisk](https://gigity.tv/event/119020) on gigity.tv. (Chris Curl & Ellen Pizarek)
+* [Texas Tex and the Ivory Tablets](https://gigity.tv/event/119021) on gigity.tv. (Nicholas Marino & Chelsea Beth)
+* [Texas Tex and the Ivory Tablets photoset](https://www.facebook.com/SteveRogersPhotography/photos/?tab=album&album_id=1315359981860848) by Steve Rogers.
+* [Montana Monica and the Golden Phoenix](https://gigity.tv/event/119023) on gigity.tv. (Ellen Pizarek & Erasmo Romero)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

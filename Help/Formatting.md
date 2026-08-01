@@ -1,7 +1,7 @@
 ## Basic Wiki Formatting
 Here's a quick list of some of the most useful ways to format text in a wiki page.
 
-[http://www.mediawiki.org/wiki/Help:Formatting This site] lists a more complete list of features.
+[This site](http://www.mediawiki.org/wiki/Help:Formatting) lists a more complete list of features.
 
 {| class="wikitable"
 ! Description
@@ -111,7 +111,7 @@ ends the list.
 ## Links
 Here's a quick list of how to make some simple links.
 
-[http://www.mediawiki.org/wiki/Help:Links This site] lists a more complete list of features.
+[This site](http://www.mediawiki.org/wiki/Help:Links) lists a more complete list of features.
 
 
 {| border="1" class="wikitable"
@@ -132,8 +132,8 @@ Here's a quick list of how to make some simple links.
 |http://mediawiki.org
 |-
 |External link with different label
-|<tt><nowiki>[http://mediawiki.org MediaWiki]</nowiki></tt>
-|[http://mediawiki.org MediaWiki]
+|<tt><nowiki>[MediaWiki](http://mediawiki.org)</nowiki></tt>
+|[MediaWiki](http://mediawiki.org)
 |}
 
 ## Infoboxes
@@ -147,7 +147,7 @@ To do that, you just include an "infobox" template at the top of the page.  For 
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="John Doe Pic.jpg">John Doe Pic.jpg</a>
+				![[John Doe Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">

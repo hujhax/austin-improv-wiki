@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Thedward01.jpg">Thedward01.jpg</a>
+				![[Thedward01.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -23,7 +23,7 @@
 
 He has studied improvised theatre at [[The Hideout Theatre|The Hideout]], [[The Merlin Works Institute for Improvisation|Merlin Works]], and [[The Institution Theater|The Institution]].
 
-Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], [[ColdTowne Theater]],[http://www.stationtheater.com/ Station Theater] (Houston, TX), [http://www.diveaustin.com/ Dive Bar], [[The New Movement Theater]], [[The Blind Tiger Comedy Club]] (San Antonio, TX), [[The Out of Bounds Comedy Festival]], The [http://houstonimprovfestival.com/ Houson Improv Festival], The [http://scottishritetheater.org/ Austin Scottish Rite Theater], and the [http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum Umlauf Sculpture Garden].
+Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], [[ColdTowne Theater]],[Station Theater](http://www.stationtheater.com/) (Houston, TX), [Dive Bar](http://www.diveaustin.com/), [[The New Movement Theater]], [[The Blind Tiger Comedy Club]] (San Antonio, TX), [[The Out of Bounds Comedy Festival]], The [Houson Improv Festival](http://houstonimprovfestival.com/), The [Austin Scottish Rite Theater](http://scottishritetheater.org/), and the [Umlauf Sculpture Garden](http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum).
 
 Performing regularly since 2010, he was a regular cast member of *[[Flying Theater Machine]]* from 2012 until 2017 when it was rebranded as *[[Hideout Kids]]* and transitioned to a rotating cast per production.
 
@@ -69,7 +69,7 @@ He has been teaching assistant for both adult and children's improv classes, and
 * [[History Under the Influence]] (2014-2017)
 
 ## More Information
-* [https://web.archive.org/web/20160617202953/http://yesandrew.com/in-praise-of-thedward-blevins/ "In Praise Of..." post] by [[Ryan Austin]].
+* ["In Praise Of..." post](https://web.archive.org/web/20160617202953/http://yesandrew.com/in-praise-of-thedward-blevins/) by [[Ryan Austin]].
 
 [[Category/Performers|Blevins]]
 [[Category/Techs|Blevins]]

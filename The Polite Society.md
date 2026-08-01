@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="PoliteSociety.jpg">PoliteSociety.jpg</a>
+				![[PoliteSociety.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -77,7 +77,7 @@
 **The Polite Society** presents in a variety of formats when it feels like that's the right thing to do.
  
 ## More Information
-* [http://www.facebook.com/politesocietypresents The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/politesocietypresents)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Polite Society]]

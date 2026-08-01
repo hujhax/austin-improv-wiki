@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Control Issues.jpg">Control Issues.jpg</a>
+				![[Control Issues.jpg]]
 			</td>
 		</tr>
 
@@ -212,7 +212,7 @@ In late 2014, the format was modified somewhat, allowing the narrator to take ot
 ## History
 This show originated as a [[The Cagematch|Cagematch]] show from [[The Dark Bloodlords]].  They played three shows in 2006.  A year later, several Hideout players performed a Harry-Potter-themed *Choose Your Own Adventure* show for an event associated with the latest *Harry Potter* book release.  In October 2010, it began a run at [[The Hideout Theatre]] as part of *[[The Wheel]]*.
 
-The show began its run with the name *Choose Your Own Adventure*, but on November 4th, 2010, [[The Hideout Theatre]] received a cease-and-desist letter from [http://en.wikipedia.org/wiki/Chooseco Chooseco], the publisher of the *Choose Your Own Adventure* line of books.
+The show began its run with the name *Choose Your Own Adventure*, but on November 4th, 2010, [[The Hideout Theatre]] received a cease-and-desist letter from [Chooseco](http://en.wikipedia.org/wiki/Chooseco), the publisher of the *Choose Your Own Adventure* line of books.
 
 At the start of its run, a single *Pick Your Own Path* adventure was paired with *[[The Lottery]]* and a montage jam from experienced Hideout players.  In January 2012, *[[The Wheel]]* was revamped, *[[The Lottery]]* was retired, and *Pick Your Own Path* expanded to a double bill, with two *Pick Your Own Path* adventures and no additional acts.
 
@@ -220,48 +220,48 @@ From 2010 to 2014, the show was a pick-up format, cast month-to-month from inter
 
 ## Media
 ### Videos
-* [http://vimeo.com/45774212 The original Pick Your Own Path show], presented by [[The Dark Bloodlords]] on 9/29/06.
-* 11/12/10: [http://vimeo.com/16899095 Video.]
-* 12/10/10: [http://vimeo.com/17777461 Video.]
-* 4/8/11: [http://vimeo.com/22245450 Video.]
-* 5/13/11: [http://vimeo.com/23816562 Video.]
-* 7/22/11: [http://vimeo.com/27098548 Video.]
-* 9/16/11: [http://vimeo.com/29263855 Video.]
-* 10/14/11: [http://vimeo.com/30644569 Video.]
-* 11/11/11: [http://vimeo.com/32054956 Video.]
-* 12/9/11: [http://vimeo.com/33461487 Video.]
-* 1/13/12: Videos of [http://vimeo.com/35070066 show #1] and [http://vimeo.com/35064068 show #2]
-* 2/10/12: Videos of [http://vimeo.com/36857558 show #1] and [http://vimeo.com/36871158 show #2].
-* 5/11/12: [http://vimeo.com/42285493 Video.]
-* 6/2/12: Videos of [http://vimeo.com/43374371 show #1] and [http://vimeo.com/43417838 show #2] (from [[The 42-Hour Improv Marathon]])
-* 10/12/12: [http://vimeo.com/51661325 show #1] and [http://vimeo.com/51668007 show #2].
-* 12/14/12: [http://vimeo.com/55996276 Video.]
-* 1/11/13: [http://vimeo.com/57495369 Video.]
-* 3/8/13: Videos of [http://vimeo.com/61403063 show #1] and [http://vimeo.com/61405412 show #2].
-* 5/10/13: Videos of [http://vimeo.com/65993964 show #1] and [http://vimeo.com/65981712 show #2].
-* 5/23/13: [http://vimeo.com/66965290 Video of "Pick Your Own Black Vault"] (a mash-up with *[[The Black Vault]]* at *[[The Free Fringe]]*).
-* [http://vimeo.com/70460663 6/22/13: Video,] from [[The 44-Hour Improv Marathon]].
-* 5/9/14: [http://youtu.be/GAQarSR6qIM Video.]
-* [http://vimeo.com/100615630 Video] by [[Peter Rogers]] of the 7/11/14 first show ("The Lunar Bicycle").
-* [http://vimeo.com/100610406 Video] by [[Peter Rogers]] of the 7/11/14 second show ("The Love and Horror of Bora Bora").
-* Videos by [[Peter Rogers]] of the 11/14/14 show: [http://vimeo.com/111917170 Japanese Folktale], [http://vimeo.com/111918440 Wizard Telenovela].
-* Videos by [[Peter Rogers]] of the 12/12/14 show: [http://vimeo.com/114526131 Pulp Adventure], [http://vimeo.com/114527238 Christmas Horror].
-* Videos by [[Peter Rogers]] of the 1/9/15 show: [http://vimeo.com/116407842 John Hughes], [http://vimeo.com/116407841 Jeunet & Caro].
-* Videos by [[Peter Rogers]] of the 2/13/15 show: [http://vimeo.com/119908815 Romantic Comedy], [http://vimeo.com/119916096 Bigfoot Documentary].
-* [http://vimeo.com/141566741 Video] by [[Peter Rogers]] of the 9/21/15 show in London.
-* Videos by [[Peter Rogers]] of the 9/25/15 show: [http://vimeo.com/140666918 Space Noir], [http://vimeo.com/141350524 Dan Brown].
-* Videos by [[Peter Rogers]] of the 11/27/15 show: [http://vimeo.com/147286782 Occult Buddy-Cop Comedy], [http://vimeo.com/147286781 Dystopian Telenovela].
-* Videos by [[Peter Rogers]] of the 12/14/15 show: [http://vimeo.com/149810481 Elderly Sports Underdog Movie], [http://vimeo.com/149920313 70s Cop Apocalypse].
-* Videos by [[Peter Rogers]] of the 1/8/16 show: [http://vimeo.com/151553769 Star Trek], [http://vimeo.com/151553768 Animal Noir].
-* Videos by [[Peter Rogers]] of the 2/12/16 show: [http://vimeo.com/155876307 Caveman Gangster Story], [http://vimeo.com/155876308 Teen Supernatural Investigators].
+* [The original Pick Your Own Path show](http://vimeo.com/45774212), presented by [[The Dark Bloodlords]] on 9/29/06.
+* 11/12/10: [Video.](http://vimeo.com/16899095)
+* 12/10/10: [Video.](http://vimeo.com/17777461)
+* 4/8/11: [Video.](http://vimeo.com/22245450)
+* 5/13/11: [Video.](http://vimeo.com/23816562)
+* 7/22/11: [Video.](http://vimeo.com/27098548)
+* 9/16/11: [Video.](http://vimeo.com/29263855)
+* 10/14/11: [Video.](http://vimeo.com/30644569)
+* 11/11/11: [Video.](http://vimeo.com/32054956)
+* 12/9/11: [Video.](http://vimeo.com/33461487)
+* 1/13/12: Videos of [show #1](http://vimeo.com/35070066) and [show #2](http://vimeo.com/35064068)
+* 2/10/12: Videos of [show #1](http://vimeo.com/36857558) and [show #2](http://vimeo.com/36871158).
+* 5/11/12: [Video.](http://vimeo.com/42285493)
+* 6/2/12: Videos of [show #1](http://vimeo.com/43374371) and [show #2](http://vimeo.com/43417838) (from [[The 42-Hour Improv Marathon]])
+* 10/12/12: [show #1](http://vimeo.com/51661325) and [show #2](http://vimeo.com/51668007).
+* 12/14/12: [Video.](http://vimeo.com/55996276)
+* 1/11/13: [Video.](http://vimeo.com/57495369)
+* 3/8/13: Videos of [show #1](http://vimeo.com/61403063) and [show #2](http://vimeo.com/61405412).
+* 5/10/13: Videos of [show #1](http://vimeo.com/65993964) and [show #2](http://vimeo.com/65981712).
+* 5/23/13: [Video of "Pick Your Own Black Vault"](http://vimeo.com/66965290) (a mash-up with *[[The Black Vault]]* at *[[The Free Fringe]]*).
+* [6/22/13: Video,](http://vimeo.com/70460663) from [[The 44-Hour Improv Marathon]].
+* 5/9/14: [Video.](http://youtu.be/GAQarSR6qIM)
+* [Video](http://vimeo.com/100615630) by [[Peter Rogers]] of the 7/11/14 first show ("The Lunar Bicycle").
+* [Video](http://vimeo.com/100610406) by [[Peter Rogers]] of the 7/11/14 second show ("The Love and Horror of Bora Bora").
+* Videos by [[Peter Rogers]] of the 11/14/14 show: [Japanese Folktale](http://vimeo.com/111917170), [Wizard Telenovela](http://vimeo.com/111918440).
+* Videos by [[Peter Rogers]] of the 12/12/14 show: [Pulp Adventure](http://vimeo.com/114526131), [Christmas Horror](http://vimeo.com/114527238).
+* Videos by [[Peter Rogers]] of the 1/9/15 show: [John Hughes](http://vimeo.com/116407842), [Jeunet & Caro](http://vimeo.com/116407841).
+* Videos by [[Peter Rogers]] of the 2/13/15 show: [Romantic Comedy](http://vimeo.com/119908815), [Bigfoot Documentary](http://vimeo.com/119916096).
+* [Video](http://vimeo.com/141566741) by [[Peter Rogers]] of the 9/21/15 show in London.
+* Videos by [[Peter Rogers]] of the 9/25/15 show: [Space Noir](http://vimeo.com/140666918), [Dan Brown](http://vimeo.com/141350524).
+* Videos by [[Peter Rogers]] of the 11/27/15 show: [Occult Buddy-Cop Comedy](http://vimeo.com/147286782), [Dystopian Telenovela](http://vimeo.com/147286781).
+* Videos by [[Peter Rogers]] of the 12/14/15 show: [Elderly Sports Underdog Movie](http://vimeo.com/149810481), [70s Cop Apocalypse](http://vimeo.com/149920313).
+* Videos by [[Peter Rogers]] of the 1/8/16 show: [Star Trek](http://vimeo.com/151553769), [Animal Noir](http://vimeo.com/151553768).
+* Videos by [[Peter Rogers]] of the 2/12/16 show: [Caveman Gangster Story](http://vimeo.com/155876307), [Teen Supernatural Investigators](http://vimeo.com/155876308).
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3 A couple of pre-show photos] by [[Peter Rogers]] of the 10/8/10 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 12/14/12 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
+* [A couple of pre-show photos](http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3) by [[Peter Rogers]] of the 10/8/10 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3) by [[Michael Yew]] that includes the 12/14/12 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/pickyourownpath The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/pickyourownpath)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

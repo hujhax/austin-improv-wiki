@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Buddycop.jpg">Buddycop.jpg</a>
+				![[Buddycop.jpg]]
 			</td>
 		</tr>
 
@@ -109,7 +109,7 @@
 What happens when two cops with conflicting personalities are forced to work together? Hate at first sight. But if they can overcome their differences and learn to work together, they might just crack the case and save the city they have sworn to protect. In the spirit of 48 Hrs. and Lethal Weapon, Buddy Cop: Metro City Nights follows an unlikely detective duo as they fight crime…80s-style!
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/buddycop The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/buddycop)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

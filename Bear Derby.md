@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Bear Derby.jpg">Bear Derby.jpg</a>
+				![[Bear Derby.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=XNSFtmsAOFw&feature=youtu.be Video #1]
+* [Video #1](http://www.youtube.com/watch?v=XNSFtmsAOFw&feature=youtu.be)
 
 ## More Information
-* [https://www.facebook.com/BearDerby The troupe's web site.]
+* [The troupe's web site.](https://www.facebook.com/BearDerby)
 
 
 [[Category/Troupes|Category:Troupes]]

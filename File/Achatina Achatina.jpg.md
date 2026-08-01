@@ -1,7 +1,7 @@
 ## Summary
 [[Achatina Achatina]] celebrating their victory in the 2009 [[Cagematch]].
 
-Photo by: unknown, from [http://www.facebook.com/media/set/?set=a.214762594820.133325.198227579820&type=3 this photoset].
+Photo by: unknown, from [this photoset](http://www.facebook.com/media/set/?set=a.214762594820.133325.198227579820&type=3).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

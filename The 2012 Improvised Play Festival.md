@@ -23,13 +23,13 @@ It ran from 4/12/12 to 4/14/12.
 
 ## Media
 ### Videos
-* [http://vimeo.com/40403570 Video] of the Improv Playhouse show.
-* [http://vimeo.com/40844684 Video] of the Improv Playhouse "Naked Screen" show.
-* [http://vimeo.com/40450820 Video] of the Bunker 13 show.
-* [http://vimeo.com/63935389 Video] of the Ten Thousand Million Love Stories Thursday show.
-* [http://vimeo.com/65469965 Video] of the second Ten Thousand Million Love Stories show.
+* [Video](http://vimeo.com/40403570) of the Improv Playhouse show.
+* [Video](http://vimeo.com/40844684) of the Improv Playhouse "Naked Screen" show.
+* [Video](http://vimeo.com/40450820) of the Bunker 13 show.
+* [Video](http://vimeo.com/63935389) of the Ten Thousand Million Love Stories Thursday show.
+* [Video](http://vimeo.com/65469965) of the second Ten Thousand Million Love Stories show.
 
 ## More Information
-* [http://www.hideouttheatre.com/2012ipfsubmissions The preliminary announcement on the Hideout blog.]
-* [http://www.hideouttheatre.com/announcing-the-2nd-annual-ipf The official announcement on the Hideout blog.]
-* [http://www.improvisedplayfestival.com/about/2012schedule/ The festival schedule.]
+* [The preliminary announcement on the Hideout blog.](http://www.hideouttheatre.com/2012ipfsubmissions)
+* [The official announcement on the Hideout blog.](http://www.hideouttheatre.com/announcing-the-2nd-annual-ipf)
+* [The festival schedule.](http://www.improvisedplayfestival.com/about/2012schedule/)

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Camp Madeupponaspotta.png">Camp Madeupponaspotta.png</a>
+				![[Camp Madeupponaspotta.png]]
 			</td>
 		</tr>
 
@@ -110,15 +110,15 @@ The first half of the show ran 25 minutes, and was followed by an intermission. 
 ## History
 The show returned for the Saturday 7pm hour of [[The 45-Hour Improv Marathon]], and for a *[[Free Fringe]]* show called "Bankruptcy Camp".
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=17099#p135663 The audition notice] on [[The Austin Improv Forums]].
-* [https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta Archived version of the official page]
+* [The audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=17099#p135663) on [[The Austin Improv Forums]].
+* [Archived version of the official page](https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta)
 
 ## Media
 ### Videos
-* [http://youtu.be/EGos-DJaX7g Video] by [[Warren Henderson]] of the 4/26/14 show.
+* [Video](http://youtu.be/EGos-DJaX7g) by [[Warren Henderson]] of the 4/26/14 show.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.711676885562497.1073741981.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/5/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.711676885562497.1073741981.221927764537414&type=3) by [[Steve Rogers]] of the 4/5/14 show.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

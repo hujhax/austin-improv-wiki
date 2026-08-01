@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Sci-Fi Comedy Double Feature.jpg">The Sci-Fi Comedy Double Feature.jpg</a>
+				![[The Sci-Fi Comedy Double Feature.jpg]]
 			</td>
 		</tr>
 
@@ -263,15 +263,15 @@ The show opened with *[[Twilight Zoned]]*.  That act would use about five improv
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/5/12 dress rehearsal.
-* [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 Photoset] by [[Peter Rogers]] of the 1/8/12 performance.
-* [http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/14/12 performance.
-* [http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2/25/12 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Peter Rogers]] of the 1/5/12 dress rehearsal.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Peter Rogers]] of the 1/8/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3) by [[Steve Rogers]] of the 1/14/12 performance.
+* [Photoset](http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3) by [[Michael Yew]] of the 2/25/12 performance.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/thesci-fidoublefeature The show's web page.]
-* [http://forum.austinimprov.com/viewtopic.php?t=12569 The casting announcement for the show.]
-* [http://www.hideouttheatre.com/sci-fi-comedy-double-feature-podcast A podcast interview with the cast.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/thesci-fidoublefeature)
+* [The casting announcement for the show.](http://forum.austinimprov.com/viewtopic.php?t=12569)
+* [A podcast interview with the cast.](http://www.hideouttheatre.com/sci-fi-comedy-double-feature-podcast)
 
 [[Category/Shows|Sci-Fi Comedy Double Feature]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="BOSS.jpg">BOSS.jpg</a>
+				![[BOSS.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152575112492107.1073741844.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152575112492107.1073741844.549002106&type=3) by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

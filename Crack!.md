@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Crack!.jpg">Crack!.jpg</a>
+				![[Crack!.jpg]]
 			</td>
 		</tr>
 
@@ -227,19 +227,19 @@ The show is created by mixing highly volatile puppet characters with a band of u
 
 ## Media
 ### Videos
-* Video by [[Sara Farr]] of the 8/6/10 show, in four parts: [http://vimeo.com/16455732 1], [http://vimeo.com/16456196 2], [http://vimeo.com/16456760 3], [http://vimeo.com/16456886 4].
+* Video by [[Sara Farr]] of the 8/6/10 show, in four parts: [1](http://vimeo.com/16455732), [2](http://vimeo.com/16456196), [3](http://vimeo.com/16456760), [4](http://vimeo.com/16456886).
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 11/28/09 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/14/10 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/21/10 performance.
-* [http://www.facebook.com/media/set/?set=a.1325506949633.2039669.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/6/10 show.
-* [http://www.facebook.com/media/set/?set=a.1328148975682.2039874.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/7/10 show.
-* [http://www.facebook.com/media/set/?set=a.1330395951855.2040063.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/13/10 show.
-* [http://www.facebook.com/media/set/?set=a.1333129940203.2040265.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/14/10 show.
-* [http://www.facebook.com/media/set/?set=a.1336635907850.2040545.1589679282&type=3 Photoset] by [[Roy Moore]] of the 8/20/10 show.
-* [http://www.facebook.com/media/set/?set=a.1339599941949.2040804.1589679282&type=1 Photoset] by [[Roy Moore]] of the 8/21/10 show.
-* [http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 11/28/09 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 8/14/10 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 8/21/10 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1325506949633.2039669.1589679282&type=3) by [[Roy Moore]] of the 8/6/10 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1328148975682.2039874.1589679282&type=3) by [[Roy Moore]] of the 8/7/10 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1330395951855.2040063.1589679282&type=1) by [[Roy Moore]] of the 8/13/10 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1333129940203.2040265.1589679282&type=1) by [[Roy Moore]] of the 8/14/10 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1336635907850.2040545.1589679282&type=3) by [[Roy Moore]] of the 8/20/10 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1339599941949.2040804.1589679282&type=1) by [[Roy Moore]] of the 8/21/10 show.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3) by [[Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://puppetimprovproject.org/crack.html The show's website.]
+* [The show's website.](http://puppetimprovproject.org/crack.html)

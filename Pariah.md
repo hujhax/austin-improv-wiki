@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Pariah.jpg">Pariah.jpg</a>
+				![[Pariah.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,10 +83,10 @@ They played in the 7/2/14 *Cagematch*.
 
 ## Media
 ### Videos
-* [http://vimeo.com/120012509 Video] by [[Peter Rogers]] of their 1/23/15 performance in the *[[2x4]]*.
+* [Video](http://vimeo.com/120012509) by [[Peter Rogers]] of their 1/23/15 performance in the *[[2x4]]*.
 
 ## More Information
-* [http://www.facebook.com/pariahatx/photos/a.398582686951172.1073741825.398581913617916/398582693617838/?type=1&theater The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/pariahatx/photos/a.398582686951172.1073741825.398581913617916/398582693617838/?type=1&theater)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

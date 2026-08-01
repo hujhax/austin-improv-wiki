@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Achatina Achatina.jpg">Achatina Achatina.jpg</a>
+				![[Achatina Achatina.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,12 +89,12 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We're using our new form right now, The Slacker, which is based on the movie of the same name. It's a fun exploration of Austin, TX, and the wacky people that make it awesome.</blockquote>
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.214762594820.133325.198227579820&type=3 Photoset] that includes their 12/21/09 performance in *[[The Cagematch]]*.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 5/31/10 performance in *[[The Monday Night Mash]]*.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 3/10/11 show at *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.214762594820.133325.198227579820&type=3) that includes their 12/21/09 performance in *[[The Cagematch]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3) by [[Roy Moore]] that includes their 5/31/10 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3) by [[Roy Moore]] that includes their 3/10/11 show at *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/pages/Achatina-Achatina/198227579820 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/Achatina-Achatina/198227579820)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

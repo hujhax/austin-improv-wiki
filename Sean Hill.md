@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Sean Hill Pic.jpg">Sean Hill Pic.jpg</a>
+				![[Sean Hill Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -38,7 +38,7 @@ A post from him about the first improv show he ever saw:<blockquote>First improv
 * *[[Twilight Zoned]]* (director)
 
 ## More Information
-* [http://yesandrew.com/the-sunday-interview-sean-hill/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-sean-hill/) by [[Andrew Buck]].
 
 [[Category/Performers|Hill]]
 [[Category/Teachers|Hill]]

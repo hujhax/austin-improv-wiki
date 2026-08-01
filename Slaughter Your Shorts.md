@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Slaughter Your Shorts.jpg">Slaughter Your Shorts.jpg</a>
+				![[Slaughter Your Shorts.jpg]]
 			</td>
 		</tr>
 
@@ -109,14 +109,14 @@ It ran Saturdays in October 2011 at 8:30pm.  There was one encore performance on
 
 ## Media
 ### Publicity
-* [http://youtu.be/0-bKaA0P0p4 Video promo.]
+* [Video promo.](http://youtu.be/0-bKaA0P0p4)
 
 ### Other
-* [http://youtu.be/R-KUesI86Zg Video] of [[Cody Dearing]] testing a 'blood launch' stage device.
+* [Video](http://youtu.be/R-KUesI86Zg) of [[Cody Dearing]] testing a 'blood launch' stage device.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=12209&p=110070 Audition announcement] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=12422 Announcement of the finale] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=12721&p=114671 Announcement of the encore performance] on [[The Austin Improv Forums]].
+* [Audition announcement](http://forum.austinimprov.com/viewtopic.php?t=12209&p=110070) on [[The Austin Improv Forums]].
+* [Announcement of the finale](http://forum.austinimprov.com/viewtopic.php?f=2&t=12422) on [[The Austin Improv Forums]].
+* [Announcement of the encore performance](http://forum.austinimprov.com/viewtopic.php?t=12721&p=114671) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

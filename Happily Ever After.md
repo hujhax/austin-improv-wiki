@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Happily Ever After.jpg">Happily Ever After.jpg</a>
+				![[Happily Ever After.jpg]]
 			</td>
 		</tr>
 
@@ -163,24 +163,24 @@ From the show announcement:<blockquote>Improvised musicals inspired by Disney ch
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.999529213443928.1073742220.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/11/2015 Opening Night performance.
-* [http://www.facebook.com/Doccerz/media_set?set=a.10152875594400793.1073741885.666390792&type=3 Photoset] by [[Dave Alley]] of the 7/25/2015 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204592804282809.1073741960.1315383518&type=3 Photoset] by [[Michael Yew]] of the 8/1/2015 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204627104700298.1073741961.1315383518&type=3 Photoset] by [[Michael Yew]] of the 8/8/2015 performance.
-* [http://www.facebook.com/media/set/?set=a.1021281541268695.1073742231.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/15/2015 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.999529213443928.1073742220.221927764537414&type=3) by [[Steve Rogers]] of the 7/11/2015 Opening Night performance.
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152875594400793.1073741885.666390792&type=3) by [[Dave Alley]] of the 7/25/2015 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204592804282809.1073741960.1315383518&type=3) by [[Michael Yew]] of the 8/1/2015 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204627104700298.1073741961.1315383518&type=3) by [[Michael Yew]] of the 8/8/2015 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1021281541268695.1073742231.221927764537414&type=3) by [[Steve Rogers]] of the 8/15/2015 performance.
 
 ### Video
-* [http://vimeo.com/133297740 Video] of the 7/11/15 show.
-* [http://vimeo.com/133980157 Video] of the 7/18/15 show.
-* [http://vimeo.com/134524228 Video] of the 7/25/15 show.
-* [http://vimeo.com/135667561 Video] of the 8/1/15 show.
-* [http://vimeo.com/135971822 Video] of the 8/8/15 show.
-* [http://vimeo.com/136896956 Video] of the 8/15/15 show.
-* [http://vimeo.com/139927327 Video] of the 8/25/15 show.
-* [http://vimeo.com/139927328 Video] of the 8/29/15 show.
+* [Video](http://vimeo.com/133297740) of the 7/11/15 show.
+* [Video](http://vimeo.com/133980157) of the 7/18/15 show.
+* [Video](http://vimeo.com/134524228) of the 7/25/15 show.
+* [Video](http://vimeo.com/135667561) of the 8/1/15 show.
+* [Video](http://vimeo.com/135971822) of the 8/8/15 show.
+* [Video](http://vimeo.com/136896956) of the 8/15/15 show.
+* [Video](http://vimeo.com/139927327) of the 8/25/15 show.
+* [Video](http://vimeo.com/139927328) of the 8/29/15 show.
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1) on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

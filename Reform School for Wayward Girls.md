@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Reform School for Wayward Girls.jpg">Reform School for Wayward Girls.jpg</a>
+				![[Reform School for Wayward Girls.jpg]]
 			</td>
 		</tr>
 
@@ -152,7 +152,7 @@
 ***Reform School for Wayward Girls*** was a mainstage show at [[The Hideout Theatre]] set in a 1970s all-girl reform school.
 
 ## Summary
-The show took place in 1976 in St. Agatha's Reform School for Wayward Girls, a reform school in the fictional town of East Libertyville, Ohio.  The show was based on old exploitation films such as *[http://www.imdb.com/title/tt0171344/?ref_=fn_al_tt_1 Girl Gang]*, *[[Wikipedia - Reform School Girl|Reform School Girl]]*, and *[http://www.imdb.com/title/tt0109903/?ref_=fn_al_tt_1 Girls in Prison]*.
+The show took place in 1976 in St. Agatha's Reform School for Wayward Girls, a reform school in the fictional town of East Libertyville, Ohio.  The show was based on old exploitation films such as *[Girl Gang](http://www.imdb.com/title/tt0171344/?ref_=fn_al_tt_1)*, *[[Wikipedia - Reform School Girl|Reform School Girl]]*, and *[Girls in Prison](http://www.imdb.com/title/tt0109903/?ref_=fn_al_tt_1)*.
 
 ### Show Structure
 Each performance opened with a hosted introduction from "Mitch Dawson", the superintendent of the East Libertyville Independent School District.  The host welcomed the audience and got an audience volunteer to assign a set of six reform-school-girl archetypes (such as "the cheerleader" or "the daddy's girl") to six of that night's female cast members.  (Each archetype came with a basic description and a set of accessories.)  Then the show proper started with a choreographed dance number to [[Wikipedia - Cherry Bomb (song)|the Runaways' "Cherry Bomb"]].  The dance included the whole cast: the six students, one student-aged boy, and two adults (one male, one female).
@@ -165,26 +165,26 @@ This began act two, which was an improvised narrative.  The cast improvised the 
 
 ## Media
 ### Videos
-* [http://vimeo.com/105467462 Video] by [[Peter Rogers]] of the 9/6/14 show.
-* [http://vimeo.com/106088321 Video] by [[Peter Rogers]] of the 9/13/14 show.
-* [http://vimeo.com/106714467 Video] by [[Peter Rogers]] of the 9/20/14 show.
-* [http://vimeo.com/107374343 Video] by [[Peter Rogers]] of the 9/27/14 show.
-* [http://vimeo.com/108695163 Video] by [[Peter Rogers]] of the 10/11/14 show.
-* [http://vimeo.com/109359186 Video] by [[Peter Rogers]] of the 10/18/14 show.
-* [http://vimeo.com/110970909 Video] by [[Peter Rogers]] of the 11/1/14 show.
+* [Video](http://vimeo.com/105467462) by [[Peter Rogers]] of the 9/6/14 show.
+* [Video](http://vimeo.com/106088321) by [[Peter Rogers]] of the 9/13/14 show.
+* [Video](http://vimeo.com/106714467) by [[Peter Rogers]] of the 9/20/14 show.
+* [Video](http://vimeo.com/107374343) by [[Peter Rogers]] of the 9/27/14 show.
+* [Video](http://vimeo.com/108695163) by [[Peter Rogers]] of the 10/11/14 show.
+* [Video](http://vimeo.com/109359186) by [[Peter Rogers]] of the 10/18/14 show.
+* [Video](http://vimeo.com/110970909) by [[Peter Rogers]] of the 11/1/14 show.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.799180693478782.1073742076.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/6/14 show.
-* [http://www.facebook.com/media/set/?set=a.10152761474162265.1073741857.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/13/14 show.
-* [http://www.facebook.com/media/set/?set=a.10152791349842265.1073741858.588952264&type=3 Photoset] by [[Peter Rogers]] of the 9/27/14 show.
-* [http://www.facebook.com/media/set/?set=a.10152831513107265.1073741859.588952264&type=3 Photoset] by [[Peter Rogers]] of the 10/11/14 show.
-* [http://www.facebook.com/media/set/?set=a.826869260709925.1073742093.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/18/14 show.
-* [http://www.facebook.com/media/set/?set=a.10152880557637265.1073741863.588952264&type=3 Photoset] by [[Peter Rogers]] of the 11/1/14 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.799180693478782.1073742076.221927764537414&type=3) by [[Steve Rogers]] of the 9/6/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152761474162265.1073741857.588952264&type=3) by [[Peter Rogers]] of the 9/13/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152791349842265.1073741858.588952264&type=3) by [[Peter Rogers]] of the 9/27/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152831513107265.1073741859.588952264&type=3) by [[Peter Rogers]] of the 10/11/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.826869260709925.1073742093.221927764537414&type=3) by [[Steve Rogers]] of the 10/18/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152880557637265.1073741863.588952264&type=3) by [[Peter Rogers]] of the 11/1/14 performance.
 
 ## More Information
-* [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
-* [http://www.hideouttheatre.com/shows/ReformSchoolforWaywardGirls The show's web page.]
-* [http://www.hideouttheatre.com/only-three-more-chances-to-see-reform-school-for-wayward-girls Post about the show] from the Hideout's blog.
+* [Show announcement in the Hideout's 2014 season preview.](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule)
+* [The show's web page.](http://www.hideouttheatre.com/shows/ReformSchoolforWaywardGirls)
+* [Post about the show](http://www.hideouttheatre.com/only-three-more-chances-to-see-reform-school-for-wayward-girls) from the Hideout's blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

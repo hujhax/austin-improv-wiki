@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Elf Employment.jpg">Elf Employment.jpg</a>
+				![[Elf Employment.jpg]]
 			</td>
 		</tr>
 
@@ -179,7 +179,7 @@ In 2011, the show ran Fridays and Saturdays at 8pm at [[Salvage Vanguard Theater
 #### Guest Santas
 * 12/2: [[Deano Jones]]
 * 12/3: [[Tom Booker]]
-* 12/9: [http://aavpmusic.com/ Akina Adderley]
+* 12/9: [Akina Adderley](http://aavpmusic.com/)
 * 12/10: [[Buzz Moran]]
 * 12/16: [[Les McGehee]]
 * 12/17: [[John Ratliff]]
@@ -205,14 +205,14 @@ In 2013, the show runs Fridays and Saturdays at 6pm at [[The Institution Theater
 
 ## Media
 ### Videos
-* [http://vimeo.com/82483244 Video] by [[Peter Rogers]] of the 12/21/13 show (guest Santa: [[Peter Rogers]]).
+* [Video](http://vimeo.com/82483244) by [[Peter Rogers]] of the 12/21/13 show (guest Santa: [[Peter Rogers]]).
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.2274884274330.103538.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/9/11 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2274884274330.103538.1315383518&type=3) by [[Michael Yew]] of the 12/9/11 performance.
 
 ## More Information
-* [http://puppetimprovproject.org/elf-employment.html The web page for the 2011 run.]
-* [http://puppetimprovproject.org/ee-2013.html The web page for the 2013 run.]
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=12501 Announcement of the 2011 run] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=16776 Announcement of the 2013 run] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=16500 Call for understudies for the 2013 run] on [[The Austin Improv Forums]].
+* [The web page for the 2011 run.](http://puppetimprovproject.org/elf-employment.html)
+* [The web page for the 2013 run.](http://puppetimprovproject.org/ee-2013.html)
+* [Announcement of the 2011 run](http://forum.austinimprov.com/viewtopic.php?f=2&t=12501) on [[The Austin Improv Forums]].
+* [Announcement of the 2013 run](http://forum.austinimprov.com/viewtopic.php?f=2&t=16776) on [[The Austin Improv Forums]].
+* [Call for understudies for the 2013 run](http://forum.austinimprov.com/viewtopic.php?f=3&t=16500) on [[The Austin Improv Forums]].

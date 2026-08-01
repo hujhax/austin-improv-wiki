@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Faster, Robot! Kill! Kill Pic.jpg">Faster, Robot! Kill! Kill Pic.jpg</a>
+				![[Faster, Robot! Kill! Kill Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Heck yeah! DOES compute. I would love to play with you. You're the bees knees.</
 <p>I came up with the name as I was typing. From the film 'Faster, Pussycat! Kill! Kill!'</p></blockquote>
 
 ## More Information
-* [https://www.facebook.com/fasterrobotkillkill The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/fasterrobotkillkill)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

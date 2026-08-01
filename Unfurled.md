@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Unfurled Pic.jpg">Unfurled Pic.jpg</a>
+				![[Unfurled Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,6 +80,6 @@
 The troupe was named after [[Brent Furl]], who was cast in the troupe but immediately moved away.
 
 ## More Information
-* [http://www.facebook.com/unfurled The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/unfurled)
 
 [[Category/Troupes|Category:Troupes]]

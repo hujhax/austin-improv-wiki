@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Victrola.jpg">Victrola.jpg</a>
+				![[Victrola.jpg]]
 			</td>
 		</tr>
 
@@ -104,7 +104,7 @@ The show's tagline was "Fully Improvised Comedic Penny Dreadfuls & Thrilling Tal
 It also played on 9/1/11 in [[The 2011 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11214&p=98266 Show announcement] on [[The Austin Improv Forums]].
-* [http://www.facebook.com/events/103521219715802/ The show's facebook event.]
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=11214&p=98266) on [[The Austin Improv Forums]].
+* [The show's facebook event.](http://www.facebook.com/events/103521219715802/)
 
 [[Category/Shows|Category:Shows]]

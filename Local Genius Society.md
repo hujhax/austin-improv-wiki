@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Lgs grouphug.jpg">Lgs grouphug.jpg</a>
+				![[Lgs grouphug.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -91,7 +91,7 @@ Local Genius Society has presented a number of different improv formats, includi
 ### Groundhog Day
 ### Evil Genius
 ### Beach Cops
-Beach Cops was a series of narratives done in the style of *[[Wikipedia - Baywatch|Baywatch]]*. It came about as a one one-off joke in a show where Andrew and Zac played Beach Cops patrolling and protecting a beach. Tickled by the idea, LGS developed the format by drawing not only from Baywatch but also from *[[Wikipedia - Pacific Blue|Pacific Blue]]*. Beach Cops debuted at the [[The 2012 Improvised Play Festival]] ([http://vimeo.com/40328506 Video]) and was met with surprising success.
+Beach Cops was a series of narratives done in the style of *[[Wikipedia - Baywatch|Baywatch]]*. It came about as a one one-off joke in a show where Andrew and Zac played Beach Cops patrolling and protecting a beach. Tickled by the idea, LGS developed the format by drawing not only from Baywatch but also from *[[Wikipedia - Pacific Blue|Pacific Blue]]*. Beach Cops debuted at the [[The 2012 Improvised Play Festival]] ([Video](http://vimeo.com/40328506)) and was met with surprising success.
 
 It was performed several more times, including once at [[ColdTowne Theater]] with [[Kaci Danger]] as a guest Beach Cop. The final show was performed in Honolulu's Improvaganza festival in 2012. Beach Cops has since been retired.
 
@@ -112,53 +112,52 @@ Here is [[Zac Grantham]]'s explanation of the name's origin:<blockquote>We put a
 
 ## Media
 ### Videos
-* [http://youtu.be/0hOEB6ctECQ Video of their performance] from 5/28/11.
-* [http://vimeo.com/44633920 Video of their performance] from the 2011 [[WaffleFest]].
-* [http://vimeo.com/40328506 Video of their performance] at [[The 2012 Improvised Play Festival]].
-* [http://vimeo.com/44634493 Video] of their "Full Moon Rises" show at *[[The Free Fringe]]* from 5/10/12.
-* [http://vimeo.com/53183870 Video of their performance] from the 2012 [[WaffleFest]].
-* [http://vimeo.com/58861610 Video of their performance] from their 2/1/13 performance headlining *[[The Spectacle]]*.
-* [http://vimeo.com/59947353 Video of their performance] on 2/17/13 at [[ColdTowne Theater]].
-* [http://vimeo.com/63959453 Video of their performance] at [[The 2013 Improvised Play Festival]].
-* [http://vimeo.com/55503754 Video of another performance] (date unknown) at *[[The Spectacle]]*.
-* [http://vimeo.com/67256516 Video] of their 5/17/13 performance in *[[The Spectacle]]*.
-* [http://vimeo.com/76922366 Video] of their 9/19/13 performance in *[[The Threefer]]*.
-* [http://vimeo.com/75631300 Video] of their 9/26/13 performance in *[[The Threefer]]*.
+* [Video of their performance](http://youtu.be/0hOEB6ctECQ) from 5/28/11.
+* [Video of their performance](http://vimeo.com/44633920) from the 2011 [[WaffleFest]].
+* [Video of their performance](http://vimeo.com/40328506) at [[The 2012 Improvised Play Festival]].
+* [Video](http://vimeo.com/44634493) of their "Full Moon Rises" show at *[[The Free Fringe]]* from 5/10/12.
+* [Video of their performance](http://vimeo.com/53183870) from the 2012 [[WaffleFest]].
+* [Video of their performance](http://vimeo.com/58861610) from their 2/1/13 performance headlining *[[The Spectacle]]*.
+* [Video of their performance](http://vimeo.com/59947353) on 2/17/13 at [[ColdTowne Theater]].
+* [Video of their performance](http://vimeo.com/63959453) at [[The 2013 Improvised Play Festival]].
+* [Video of another performance](http://vimeo.com/55503754) (date unknown) at *[[The Spectacle]]*.
+* [Video](http://vimeo.com/67256516) of their 5/17/13 performance in *[[The Spectacle]]*.
+* [Video](http://vimeo.com/76922366) of their 9/19/13 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/75631300) of their 9/26/13 performance in *[[The Threefer]]*.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/6/11 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/12/11 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/media/set/?set=a.248623315201192.64136.221927764537414&type=3 Their 12/1/11 show] at *[[The Threefer]]* (photoset by [[Steve Rogers]]).
-* [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/6/12 performance at [[The Hideout Theatre]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.369516133069888.85770.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their 3/11/12 show.
-* [http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/12 performance in [[The 2012 Improvised Play Festival]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same show.
-* [http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3
-Photoset] that includes their 12/8/12 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 2/1/13 performance in *[[The Spectacle]]*.
-* [http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
-* [http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/21/14 show at *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/6/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/12/11 performance in *[[The Threefer]]*.
+* [Their 12/1/11 show](http://www.facebook.com/media/set/?set=a.248623315201192.64136.221927764537414&type=3) at *[[The Threefer]]* (photoset by [[Steve Rogers]]).
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 1/6/12 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.369516133069888.85770.100000345135257&type=3) by [[Claudio Fox]] of their 3/11/12 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their 8/28/12 performance in [[The 2012 Improvised Play Festival]].
+** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] of the same show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) that includes their 12/8/12 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3) by [[Michael Yew]] which includes their 2/1/13 performance in *[[The Spectacle]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/21/14 show at *[[The Threefer]]*.
 
 ### Publicity
 * As part of their fundraiser for their trip to Improvaganza in 2012, the troupe recorded a series of mock PSAs from the "Beach Cops"
-** [http://vimeo.com/45762135 "Trash and Dumping"]
-** [http://vimeo.com/45762134 "Lady Cops"]
-** [http://vimeo.com/45762133 "Dangers of the Tide"]
-** [http://vimeo.com/45762132 "Proper Eyewear"]
-** [http://vimeo.com/45761775 "The Sun"]
-** [http://vimeo.com/45761774 "Respect the Ocean"]
+** ["Trash and Dumping"](http://vimeo.com/45762135)
+** ["Lady Cops"](http://vimeo.com/45762134)
+** ["Dangers of the Tide"](http://vimeo.com/45762133)
+** ["Proper Eyewear"](http://vimeo.com/45762132)
+** ["The Sun"](http://vimeo.com/45761775)
+** ["Respect the Ocean"](http://vimeo.com/45761774)
 
 ## More Information
-* [http://www.facebook.com/localgeniussociety The troupe's facebook page.]
-* [http://localgeniussociety.wordpress.com/ The troupe's home page.]
+* [The troupe's facebook page.](http://www.facebook.com/localgeniussociety)
+* [The troupe's home page.](http://localgeniussociety.wordpress.com/)
 * Posts about their Feb/Mar 2012 "Underground Improv" run at The Dive Bar.
-** [http://www.hideouttheatre.com/local-genius-society-interview-on-their-show-at-the-dive-bar A 2/12/12 interview with the cast.]
-** [http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar A 3/8/12 post] by [[Kayla Lane Freeman]] 
+** [A 2/12/12 interview with the cast.](http://www.hideouttheatre.com/local-genius-society-interview-on-their-show-at-the-dive-bar)
+** [A 3/8/12 post](http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar) by [[Kayla Lane Freeman]] 
 * "Ask Local Genius Society": interviews with cast members from December 2011:
-** [http://www.hideouttheatre.com/meet_andrew_pish Interview] with [[Andrew Pish]].
-** [http://www.hideouttheatre.com/lgs-kayla  Interview] with [[Kayla Lane Freeman]].
-** [http://www.hideouttheatre.com/lgs-karen-jane-dewitt Interview] with [[Karen Jane DeWitt]].
+** [Interview](http://www.hideouttheatre.com/meet_andrew_pish) with [[Andrew Pish]].
+** [Interview](http://www.hideouttheatre.com/lgs-kayla) with [[Kayla Lane Freeman]].
+** [Interview](http://www.hideouttheatre.com/lgs-karen-jane-dewitt) with [[Karen Jane DeWitt]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Rarebit.jpg">Rarebit.jpg</a>
+				![[Rarebit.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>"Grounded" scenework, WHATEVER THAT MEANS. Typically three or four longer scenes but sometimes things start moving faster. </blockquote>
 
 ## More Information
-* [http://www.facebook.com/RarebitImprov The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/RarebitImprov)
 
 
 [[Category/Troupes|Category:Troupes]]

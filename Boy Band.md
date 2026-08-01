@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Boy Band.jpg">Boy Band.jpg</a>
+				![[Boy Band.jpg]]
 			</td>
 		</tr>
 
@@ -160,10 +160,10 @@ The show will ran Saturdays in February 2014 at 8:30pm.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3) by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=16820 The audition notice] on [[The Austin Improv Forums]].
-* [http://www.coldtownetheater.com/blog/boy-band-takes-stage-saturdays-february The show announcement] on the [[ColdTowne Theater]] blog.
+* [The audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=16820) on [[The Austin Improv Forums]].
+* [The show announcement](http://www.coldtownetheater.com/blog/boy-band-takes-stage-saturdays-february) on the [[ColdTowne Theater]] blog.
 
 [[Category/Shows|Category:Shows]]

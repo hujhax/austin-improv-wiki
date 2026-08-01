@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Teen Improv Night.jpg">Teen Improv Night.jpg</a>
+				![[Teen Improv Night.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -31,7 +31,7 @@ Every Sunday at 5pm, [[ColdTowne Theater]]'s youth program hosts a troupe compri
 The goal of *All Ages Improv Night* is to provide young improvisers with the opportunity to see both their peers and accomplished adult performers improvise full length shows. The jam, which follows, invites both audience members and performers to join experienced improvisers onstage for Austin's most unpredictable jam!
 
 ## More Information
-* [http://www.facebook.com/MYTatCT The show's facebook page.]
+* [The show's facebook page.](http://www.facebook.com/MYTatCT)
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
 [[Category/Shows|Category:Shows]]

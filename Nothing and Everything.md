@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Nothing and Everything.jpg">Nothing and Everything.jpg</a>
+				![[Nothing and Everything.jpg]]
 			</td>
 		</tr>
 
@@ -246,34 +246,34 @@ It was part of [[The 2015 Improvised Play Festival]].
 ## Media
 ### Videos
 * 2014 [[Hideout Theatre]] Run:
-** [http://vimeo.com/111300281 Video] by [[Peter Rogers]] of the 11/6/14 preview (incomplete).
-** [http://vimeo.com/111329177 Video] by [[Peter Rogers]] of the 11/8/14 show.
-** [http://vimeo.com/111990343 Video] by [[Peter Rogers]] of the 11/15/14 show.
-** [http://vimeo.com/113191194 Video] by [[Peter Rogers]] of the 11/29/14 show.
-** [http://vimeo.com/114520138 Video] by [[Peter Rogers]] of the 12/13/14 show.
-** [http://vimeo.com/115144124 Video] by [[Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03. Hideout direct post is here: https://www.facebook.com/groups/hideouttheatre/permalink/853007534722352/)
+** [Video](http://vimeo.com/111300281) by [[Peter Rogers]] of the 11/6/14 preview (incomplete).
+** [Video](http://vimeo.com/111329177) by [[Peter Rogers]] of the 11/8/14 show.
+** [Video](http://vimeo.com/111990343) by [[Peter Rogers]] of the 11/15/14 show.
+** [Video](http://vimeo.com/113191194) by [[Peter Rogers]] of the 11/29/14 show.
+** [Video](http://vimeo.com/114520138) by [[Peter Rogers]] of the 12/13/14 show.
+** [Video](http://vimeo.com/115144124) by [[Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03. Hideout direct post is here: https://www.facebook.com/groups/hideouttheatre/permalink/853007534722352/)
 * 2015 [[Long Center]] run:
-** [http://vimeo.com/137272124 Video] of the 8/21/15 performance.
-*** [http://vimeo.com/138711711 Video] of the following audience Q&A.
-** [http://vimeo.com/138222384 Video] of the 8/22/15 performance.
-** [http://vimeo.com/141679892 Video] of the 8/23/15 performance.
+** [Video](http://vimeo.com/137272124) of the 8/21/15 performance.
+*** [Video](http://vimeo.com/138711711) of the following audience Q&A.
+** [Video](http://vimeo.com/138222384) of the 8/22/15 performance.
+** [Video](http://vimeo.com/141679892) of the 8/23/15 performance.
 
 ### Photos
 * 2014 [[Hideout Theatre]] Run:
-** [http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/6/14 preview.
-** [http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 11/22/14 show.
-** [http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/20/14 show.
+** [Photoset](http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3) by [[Steve Rogers]] of the 11/6/14 preview.
+** [Photoset](http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3) by [[Chad Wellington]] of the 11/22/14 show.
+** [Photoset](http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3) by [[Michael Yew]] of the 12/20/14 show.
 * 2015 [[Long Center]] run:
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204706711010406.1073741962.1315383518&type=3 Photos] by [[Michael Yew]] from the run.
-** [http://www.facebook.com/media/set/?set=a.1024131600983689.1073742232.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/20/15 show.
-** [http://www.facebook.com/media/set/?set=a.1026071640789685.1073742233.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/23/15 show.
+* [Photos](http://www.facebook.com/michael.yew/media_set?set=a.10204706711010406.1073741962.1315383518&type=3) by [[Michael Yew]] from the run.
+** [Photoset](http://www.facebook.com/media/set/?set=a.1024131600983689.1073742232.221927764537414&type=3) by [[Steve Rogers]] of the 8/20/15 show.
+** [Photoset](http://www.facebook.com/media/set/?set=a.1026071640789685.1073742233.221927764537414&type=3) by [[Steve Rogers]] of the 8/23/15 show.
 
 ## More Information
-* [http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule Show announcement in the Hideout's 2014 season preview.]
-* [http://www.hideouttheatre.com/shows/NothingAndEverything The show's web page.]
-* Thoughts on the show from [[Andrew Buck]]: [http://yesandrew.com/threethoughtsonchekhov/ 1], [http://yesandrew.com/3-things-about-improvising-chekhov/ 2], [http://yesandrew.com/the-yall-boner/ 3].
-* [http://yesandrew.com/the-sunday-interview-anton-chekhov/ A faux interview] with Chekhov by [[Andrew Buck]].
-* [http://www.hideouttheatre.com/audiences-are-raving-about-nothing-and-everything Admiring quotes about the show] from the Hideout's blog.
+* [Show announcement in the Hideout's 2014 season preview.](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule)
+* [The show's web page.](http://www.hideouttheatre.com/shows/NothingAndEverything)
+* Thoughts on the show from [[Andrew Buck]]: [1](http://yesandrew.com/threethoughtsonchekhov/), [2](http://yesandrew.com/3-things-about-improvising-chekhov/), [3](http://yesandrew.com/the-yall-boner/).
+* [A faux interview](http://yesandrew.com/the-sunday-interview-anton-chekhov/) with Chekhov by [[Andrew Buck]].
+* [Admiring quotes about the show](http://www.hideouttheatre.com/audiences-are-raving-about-nothing-and-everything) from the Hideout's blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Thinning the Herd.jpg">Thinning the Herd.jpg</a>
+				![[Thinning the Herd.jpg]]
 			</td>
 		</tr>
 
@@ -223,32 +223,32 @@ Season one ran from 10/6/13 to January 2014.
 
 ## Media
 ### Videos
-* [http://vimeo.com/80101072 Video] by [[Paul Normandin]] of the 10/20/13 show.
-* [http://vimeo.com/84097461 Video] by [[Jo Chauvin]] of the cast's 1/5/14 dance party.
+* [Video](http://vimeo.com/80101072) by [[Paul Normandin]] of the 10/20/13 show.
+* [Video](http://vimeo.com/84097461) by [[Jo Chauvin]] of the cast's 1/5/14 dance party.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.426596174070571.104123.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/1/12 season-one premiere.
-* [http://www.facebook.com/media/set/?set=a.433061613424027.105735.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/14/12 show.
-* [http://www.facebook.com/media/set/?set=a.440223546041167.107399.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/28/12 show.
-* [http://www.facebook.com/media/set/?set=a.506799772716877.1073741829.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 12/2/12 show.
-* [http://www.facebook.com/media/set/?set=a.480098265387028.115279.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/3/13 season-one finale.
-* [http://www.facebook.com/media/set/?set=a.491657897564398.116377.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/10/13 season-two premiere.
-* [http://www.facebook.com/media/set/?set=a.500035703393284.117284.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/24/13 show.
-* [http://www.facebook.com/media/set/?set=a.517511388312382.1073741845.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/10/13 show.
-* [http://www.facebook.com/media/set/?set=a.538294176234103.1073741869.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/24/13 show.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.558598700828296.1073741833.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 4/7/13 show.
-* [http://www.facebook.com/media/set/?set=a.538299602900227.1073741870.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/21/13 show.
-** [http://cwcreations.smugmug.com/Improv-2013/Institution/2013-04-21-Thinning-the-Herd/ Photoset]  by [[Chad Wellington]] of the same show.
-* [http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/19/13 show.
-* [http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/19/13 show.
-* [http://www.facebook.com/media/set/?set=a.608715279191992.1073741941.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/6/13 season-three premiere.
-* [http://www.facebook.com/media/set/?set=a.629515183778668.1073741943.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/3/13 performance.
-* [http://www.facebook.com/media/set/?set=a.633862086677311.1073741944.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/17/13 performance.
-* [http://www.facebook.com/media/set/?set=a.668757583187761.1073741954.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/12/14 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.426596174070571.104123.221927764537414&type=3) by [[Steve Rogers]] of the 10/1/12 season-one premiere.
+* [Photoset](http://www.facebook.com/media/set/?set=a.433061613424027.105735.221927764537414&type=3) by [[Steve Rogers]] of the 10/14/12 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.440223546041167.107399.221927764537414&type=3) by [[Steve Rogers]] of the 10/28/12 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.506799772716877.1073741829.221927764537414&type=3) by [[Steve Rogers]] of the 12/2/12 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.480098265387028.115279.221927764537414&type=3) by [[Steve Rogers]] of the 1/3/13 season-one finale.
+* [Photoset](http://www.facebook.com/media/set/?set=a.491657897564398.116377.221927764537414&type=3) by [[Steve Rogers]] of the 2/10/13 season-two premiere.
+* [Photoset](http://www.facebook.com/media/set/?set=a.500035703393284.117284.221927764537414&type=3) by [[Steve Rogers]] of the 2/24/13 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.517511388312382.1073741845.221927764537414&type=3) by [[Steve Rogers]] of the 3/10/13 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.538294176234103.1073741869.221927764537414&type=3) by [[Steve Rogers]] of the 3/24/13 show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.558598700828296.1073741833.100000345135257&type=3) by [[Claudio Fox]] of the 4/7/13 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.538299602900227.1073741870.221927764537414&type=3) by [[Steve Rogers]] of the 4/21/13 show.
+** [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-04-21-Thinning-the-Herd/)  by [[Chad Wellington]] of the same show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3) by [[Steve Rogers]] of the 5/19/13 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3) by [[Steve Rogers]] of the 5/19/13 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.608715279191992.1073741941.221927764537414&type=3) by [[Steve Rogers]] of the 10/6/13 season-three premiere.
+* [Photoset](http://www.facebook.com/media/set/?set=a.629515183778668.1073741943.221927764537414&type=3) by [[Steve Rogers]] of the 11/3/13 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.633862086677311.1073741944.221927764537414&type=3) by [[Steve Rogers]] of the 11/17/13 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.668757583187761.1073741954.221927764537414&type=3) by [[Steve Rogers]] of the 1/12/14 performance.
 
 ## More Information
-* [http://www.facebook.com/thintheherd The show's facebook page.]
-* [http://www.austinchronicle.com/daily/arts/2013-01-04/always-on-a-sunday-the-comedians-of-thinning-the-herd/ An article about the show] by [[Wayne Alan Brenner]] for *The Austin Chronicle*.
+* [The show's facebook page.](http://www.facebook.com/thintheherd)
+* [An article about the show](http://www.austinchronicle.com/daily/arts/2013-01-04/always-on-a-sunday-the-comedians-of-thinning-the-herd/) by [[Wayne Alan Brenner]] for *The Austin Chronicle*.
 
 [[Category/Shows|Category:Shows]]
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]

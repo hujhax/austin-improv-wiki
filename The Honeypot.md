@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Honeypot.jpg">The Honeypot.jpg</a>
+				![[The Honeypot.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,15 +85,15 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/38384138 Video] of their 3/10/12 performance at [[The Institution Theater]].
-* [http://vimeo.com/39652567 Video] of their 4/1/12 performance at [[ColdTowne Theater]].
-* [http://vimeo.com/46257999 Video] of their 7/18/12 performance at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/38384138) of their 3/10/12 performance at [[The Institution Theater]].
+* [Video](http://vimeo.com/39652567) of their 4/1/12 performance at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/46257999) of their 7/18/12 performance at [[ColdTowne Theater]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 3/5/12 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3) by [[Roy Moore]] that includes their 3/5/12 performance in *[[The Monday Night Mash]]*.
 
 ## More Information
-* [http://www.facebook.com/pages/The-Honeypot/296185193774779 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/The-Honeypot/296185193774779)
 
 [[Category/Troupes|Honeypot]]
 [[Category/Auto-Generated Troupe Pages|Honeypot]]

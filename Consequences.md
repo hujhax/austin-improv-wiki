@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We ask the audience for a suggestion of a non-geographic location. We then do a lengthy scene that establishes the world in which our specific location exists, and then exponentially expand that world. </blockquote>
 
 ## More Information
-* [http://www.facebook.com/consequencesimprov The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/consequencesimprov)
 
 
 [[Category/Troupes|Category:Troupes]]

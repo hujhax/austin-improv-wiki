@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Hoover's Blanket.jpg">Hoover's Blanket.jpg</a>
+				![[Hoover's Blanket.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -78,10 +78,10 @@
 
 ## Media
 ### Videos
-* [http://www.youtube.com/user/hooversblanket The troupe's youtube channel.]
+* [The troupe's youtube channel.](http://www.youtube.com/user/hooversblanket)
 
 ### Photos
-* [http://www.flickr.com/photos/austinimprov/sets/72157600413086405/ Publicity photoset of the troupe.]
+* [Publicity photoset of the troupe.](http://www.flickr.com/photos/austinimprov/sets/72157600413086405/)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

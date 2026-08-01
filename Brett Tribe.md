@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Brett Tribe Pic.jpg">Brett Tribe Pic.jpg</a>
+				![[Brett Tribe Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -47,6 +47,6 @@ A post from him about the first improv show he ever saw:<blockquote><p>Aside fro
 * National Academy of Sports Medicine Certified Personal Trainer 2013
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2178013 Interview] with Brett on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2178013) with Brett on *[[The Theft Forum]]*.
 
 [[Category/Performers|Tribe]]

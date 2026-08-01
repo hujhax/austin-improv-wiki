@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Andersons.jpg ‎">The Andersons.jpg ‎</a>
+				![[The Andersons.jpg ‎]]
 			</td>
 		</tr>
 
@@ -116,27 +116,27 @@ About half the cast of *The Andersons* played the same, pre-established characte
 
 ## Media
 ### Photos
-* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100182260325720.2848170.7944448&type=3 Audition photos] by [[Jo Chauvin]].
-* [http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=3 A photoset including the 5/1/10 show] by [[Michael Yew]]
-* [http://www.facebook.com/media/set/?set=a.441737982264.214512.588952264&type=3 A photoset of the 5/15/10 show] by [[Peter Rogers]], and [http://www.facebook.com/hujhax/media_set?set=a.447241452264.218625.588952264&type=3 a selfie of his costume].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 6/5/10 performance at [[The 41-Hour Improv Marathon]].
-* [http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes the same performance.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Another photoset] by [[Michael Yew]] of the same performance.
-* [http://www.facebook.com/media/set/?set=a.1344776671364.2041272.1589679282&type=3 A photoset of the 8/29/10 show]  by [[Roy Moore]]
-* [http://www.facebook.com/media/set/?set=a.1633431608865.84097.1628915954&type=3 A photoset of the 12/18/10 show] by [[Deano Jones]].
+* [Audition photos](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100182260325720.2848170.7944448&type=3) by [[Jo Chauvin]].
+* [A photoset including the 5/1/10 show](http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]]
+* [A photoset of the 5/15/10 show](http://www.facebook.com/media/set/?set=a.441737982264.214512.588952264&type=3) by [[Peter Rogers]], and [a selfie of his costume](http://www.facebook.com/hujhax/media_set?set=a.447241452264.218625.588952264&type=3).
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/5/10 performance at [[The 41-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3) by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
+** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3) by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
+** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] of the same performance.
+* [A photoset of the 8/29/10 show](http://www.facebook.com/media/set/?set=a.1344776671364.2041272.1589679282&type=3)  by [[Roy Moore]]
+* [A photoset of the 12/18/10 show](http://www.facebook.com/media/set/?set=a.1633431608865.84097.1628915954&type=3) by [[Deano Jones]].
 
 ### Publicity
-* [http://youtu.be/3GjaTWZi6Kg A video promo for the show.]
+* [A video promo for the show.](http://youtu.be/3GjaTWZi6Kg)
 
 ### Other
-* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203/photo%203.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo/photo.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204/photo%204.jpg?disposition=download 3].
+* Photos of [[Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203/photo%203.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo/photo.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204/photo%204.jpg?disposition=download).
 
 ## More Information
-* [http://hideouttheater.com/shows/theandersons The show's web page.]
-* [http://www.hideouttheatre.com/andersons_auditions The audition announcement.]
-* [http://www.hideouttheatre.com/christmas-with-the-andersons Announcement of their Christmas show.]
+* [The show's web page.](http://hideouttheater.com/shows/theandersons)
+* [The audition announcement.](http://www.hideouttheatre.com/andersons_auditions)
+* [Announcement of their Christmas show.](http://www.hideouttheatre.com/christmas-with-the-andersons)
 
 [[Category/Shows|Andersons]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

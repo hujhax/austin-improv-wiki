@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Story to the Death Promo.jpg">Story to the Death Promo.jpg</a>
+				![[Story to the Death Promo.jpg]]
 			</td>
 		</tr>
 
@@ -260,7 +260,7 @@ Every single element of Story To The Death is completely improvised based on aud
 * [[Tori Haddox]]
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/storytothedeath The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/storytothedeath)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

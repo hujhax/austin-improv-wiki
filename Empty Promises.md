@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Empty Promises.jpg">Empty Promises.jpg</a>
+				![[Empty Promises.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -110,4 +110,4 @@ Empty Promises have named menu items at Tyson's Tacos and the Grand.
 
 ## Media
 ### Photos
-* [https://www.facebook.com/emptypromisesimprov/photos/gm.1522881531360016/1098864606812796/?type=3&theater Comedy]
+* [Comedy](https://www.facebook.com/emptypromisesimprov/photos/gm.1522881531360016/1098864606812796/?type=3&theater)

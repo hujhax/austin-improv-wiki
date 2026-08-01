@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Red Envelope.jpg">Red Envelope.jpg</a>
+				![[Red Envelope.jpg]]
 			</td>
 		</tr>
 
@@ -101,7 +101,7 @@ In the show, audience votes have some influence on what's performed onstage.
 It plays the first Thursday of every month at 10pm.
 
 ## More Information
-* [http://www.coldtownetheater.com/events/red-envelope-improv-8 The show's web page.]
+* [The show's web page.](http://www.coldtownetheater.com/events/red-envelope-improv-8)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Church Potluck.jpg">Church Potluck.jpg</a>
+				![[Church Potluck.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,15 +90,15 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150105122887265.300623.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 11/15/10 performance in *[[The Monday Night Mash]]*.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1591801526831.2070976.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 3/13/11 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150105122887265.300623.588952264&type=3) by [[Peter Rogers]] that includes their 11/15/10 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1591801526831.2070976.1589679282&type=3) by [[Roy Moore]] that includes their 3/13/11 performance at [[The Institution Theater]].
 
 ### Videos
-* [http://vimeo.com/16896306/ Video] by [[Peter Rogers]] that includes their 11/15/10 performance in *[[The Monday Night Mash]]*.
-* [http://www.youtube.com/watch?v=9_zCsmS2zaw Video] by [[Jesse Spots]] of their 3/13/11 show.
+* [Video](http://vimeo.com/16896306/) by [[Peter Rogers]] that includes their 11/15/10 performance in *[[The Monday Night Mash]]*.
+* [Video](http://www.youtube.com/watch?v=9_zCsmS2zaw) by [[Jesse Spots]] of their 3/13/11 show.
 
 ## More Information
-* [http://www.facebook.com/pages/Church-Potluck/172795052770763 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/Church-Potluck/172795052770763)
 
 
 [[Category/Troupes|Category:Troupes]]

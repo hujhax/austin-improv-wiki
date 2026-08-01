@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="You Can't Stay Here Poster.jpg">You Can't Stay Here Poster.jpg</a>
+				![[You Can't Stay Here Poster.jpg]]
 			</td>
 		</tr>
 
@@ -180,17 +180,17 @@ Following the quiz, the first scene of the show began in Tom's Place. The four c
 
 ## Media
 ### Videos
-* [http://vimeo.com/129382913 Video] of their 5/15/15 "Elizabeth" performance.
-* [http://vimeo.com/131330299 Video] of their 6/19/15 "DeathStar" performance.
+* [Video](http://vimeo.com/129382913) of their 5/15/15 "Elizabeth" performance.
+* [Video](http://vimeo.com/131330299) of their 6/19/15 "DeathStar" performance.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.961898103873706.1073742197.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 5/15/15 debut.
-* [http://www.facebook.com/media/set/?set=a.842131695863343.1073741859.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 6/12/15 performance.
-* [http://www.facebook.com/media/set/?set=a.986488161414700.1073742215.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 6/19/15 closing night.
+* [Photoset](http://www.facebook.com/media/set/?set=a.961898103873706.1073742197.221927764537414&type=3) by [[Steve Rogers]] of their 5/15/15 debut.
+* [Photoset](http://www.facebook.com/media/set/?set=a.842131695863343.1073741859.473177099425473&type=3) by [[Chad Wellington]] of the 6/12/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.986488161414700.1073742215.221927764537414&type=3) by [[Steve Rogers]] of their 6/19/15 closing night.
 
 ## More Information
-* [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The show announcement] on the [[Institution Theater]] facebook page.
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=17910 The audition announcement] on [[The Austin Improv Forums]].
+* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Institution Theater]] facebook page.
+* [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17910) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]

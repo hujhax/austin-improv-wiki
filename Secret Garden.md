@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Secret Garden.jpg">Secret Garden.jpg</a>
+				![[Secret Garden.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10101751552506610.3370965.7909117&type=3 Rehearsal, casual, and performance photos] by [[Heidi Rogers]].
+* [Rehearsal, casual, and performance photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10101751552506610.3370965.7909117&type=3) by [[Heidi Rogers]].
 
 ### Videos
-* [http://vimeo.com/44573854 Video] of their 6/21/12 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/44573854) of their 6/21/12 performance in *[[The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

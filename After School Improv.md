@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="After School Improv Pic.jpg">After School Improv Pic.jpg</a>
+				![[After School Improv Pic.jpg]]
 			</td>
 		</tr>
 
@@ -190,27 +190,27 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 
 ## Media
 ### Videos
-* [http://vimeo.com/910471 Video] of a [[Parallelogramophonograph]] *After School Improv* show from November 2006.
-* [http://vimeo.com/93883895 Video of their 3/31/12 performance.]
-* [http://vimeo.com/93968180 Video of their 4/7/12 performance.]
-* [http://vimeo.com/40844686 Video of their 4/13/12 performance] in [[The 2012 Improvised Play Festival]].
+* [Video](http://vimeo.com/910471) of a [[Parallelogramophonograph]] *After School Improv* show from November 2006.
+* [Video of their 3/31/12 performance.](http://vimeo.com/93883895)
+* [Video of their 4/7/12 performance.](http://vimeo.com/93968180)
+* [Video of their 4/13/12 performance](http://vimeo.com/40844686) in [[The 2012 Improvised Play Festival]].
 
 ### Photos
 #### 2009 Run
-* [http://www.facebook.com/hujhax/media_set?set=a.129977122264.120567.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/27/09 performance in [[The 40-Hour Improv Marathon]].
-* [http://www.facebook.com/photo.php?fbid=833757516170&set=a.833757316570.2628321.7930939&type=3&theater Cast photo.]
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129977122264.120567.588952264&type=3) by [[Peter Rogers]] of their 6/27/09 performance in [[The 40-Hour Improv Marathon]].
+* [Cast photo.](http://www.facebook.com/photo.php?fbid=833757516170&set=a.833757316570.2628321.7930939&type=3&theater)
 #### 2012 Run
-* [http://www.facebook.com/media/set/?set=a.325071134223076.79811.221927764537414&type=3 Photoset of the 3/24/12 show] by [[Steve Rogers]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset of the 3/24/12 show](http://www.facebook.com/media/set/?set=a.325071134223076.79811.221927764537414&type=3) by [[Steve Rogers]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 ### Publicity
 #### 2012 Run
-* [http://www.facebook.com/media/set/?set=a.10150527381254142.380624.628264141&type=3 Publicity photos.]
-* [http://www.facebook.com/photo.php?fbid=642713580249&set=t.507050184&type=3 Publicity poster.]
+* [Publicity photos.](http://www.facebook.com/media/set/?set=a.10150527381254142.380624.628264141&type=3)
+* [Publicity poster.](http://www.facebook.com/photo.php?fbid=642713580249&set=t.507050184&type=3)
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=114683 The 2012 casting announcement for the 2012 run] on [[The Austin Improv Forums]].
-** [http://www.hideouttheatre.com/after-school-improv-auditions The same, on the Hideout blog.]
-* [http://www.hideouttheatre.com/behind-the-scenes-after-school-improv A 3/9/12 post] by [[Cat Drago]] about the show.
+* [The 2012 casting announcement for the 2012 run](http://forum.austinimprov.com/viewtopic.php?p=114683) on [[The Austin Improv Forums]].
+** [The same, on the Hideout blog.](http://www.hideouttheatre.com/after-school-improv-auditions)
+* [A 3/9/12 post](http://www.hideouttheatre.com/behind-the-scenes-after-school-improv) by [[Cat Drago]] about the show.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

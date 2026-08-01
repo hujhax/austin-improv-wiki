@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="SNAFU.jpg">SNAFU.jpg</a>
+				![[SNAFU.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -110,14 +110,14 @@ As the brainchild of founder [[Tanner Kalina]], SNAFU Improv stormed onto the Un
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [https://www.facebook.com/snafuimprov Facebook]
-* [https://www.twitter.com/snafuimprov Twitter]
-* [https://www.instagram.com/snafuimprov Instagram]
-* [https://www.snafuimprov.com Official Website]
-* [https://calendar.google.com/calendar/embed?src=snafuimprov@gmail.com&ctz=America/New_York&pli=1 Upcoming Performances]
+* [Facebook](https://www.facebook.com/snafuimprov)
+* [Twitter](https://www.twitter.com/snafuimprov)
+* [Instagram](https://www.instagram.com/snafuimprov)
+* [Official Website](https://www.snafuimprov.com)
+* [Upcoming Performances](https://calendar.google.com/calendar/embed?src=snafuimprov@gmail.com&ctz=America/New_York&pli=1)
 
 
 [[Category/Troupes|Category:Troupes]]

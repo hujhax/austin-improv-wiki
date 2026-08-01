@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="PatrickCreamer.jpg">PatrickCreamer.jpg</a>
+				![[PatrickCreamer.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@
 	</table>
 </div>
 
-**Patrick Creamer** is an improvisor. He also has a podcast with [[Quinn Buckner]] called *[http://nowyouknowalittlebitmoreaboutus.libsyn.com/ Now You Know A Little Bit More About Us]*
+**Patrick Creamer** is an improvisor. He also has a podcast with [[Quinn Buckner]] called *[Now You Know A Little Bit More About Us](http://nowyouknowalittlebitmoreaboutus.libsyn.com/)*
 
 ## Troupes
 * [[G.O.O.F.S]]

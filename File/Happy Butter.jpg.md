@@ -3,7 +3,7 @@ Photo from [[The Hideout Theatre]]'s first Level 6 Graduation Show.
 
 This performance included the members of [[Happy Butter]].
 
-Photo by [[Steve Rogers]], from [http://www.facebook.com/media/set/?set=a.124411107639921.31672.100002130980897&type=3 this photoset] of the 5/15/11 [[Weekender]].
+Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.124411107639921.31672.100002130980897&type=3) of the 5/15/11 [[Weekender]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

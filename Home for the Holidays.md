@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="I'll Be Home for Christmas.jpg">I'll Be Home for Christmas.jpg</a>
+				![[I'll Be Home for Christmas.jpg]]
 			</td>
 		</tr>
 
@@ -161,8 +161,8 @@
 From the show announcement:<blockquote>"In *I'll Be Home for Christmas*, the holidays are happening whether you make it home or not.  This is the classic story of someone trying to make it home for the holidays, and all the wacky misadventures and interesting characters they meet along the way."</blockquote>
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
-* [https://www.facebook.com/groups/hideouttheatre/permalink/987699487919822/ The casting announcement] on the Hideout's facebook group
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
+* [The casting announcement](https://www.facebook.com/groups/hideouttheatre/permalink/987699487919822/) on the Hideout's facebook group
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

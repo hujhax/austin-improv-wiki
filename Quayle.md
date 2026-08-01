@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Quayle.jpg">Quayle.jpg</a>
+				![[Quayle.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,9 +85,9 @@ The current rehearsed format is a loose attempt at a Harold, taking liberties wh
 #### Adventure Time
 ## Media
 ### Videos
-* [http://vimeo.com/17953560 Video of their 12/11/10 show] at *[[The Saturday Night Special]]*.
+* [Video of their 12/11/10 show](http://vimeo.com/17953560) at *[[The Saturday Night Special]]*.
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.10150151634862265.328768.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/5/11 performance in *[[The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10150151634862265.328768.588952264&type=3) by [[Peter Rogers]] of their 2/5/11 performance in *[[The Saturday Night Special]]*.
 
 ### Press/Audition Blurbs
 ***What Do We Do?**
@@ -98,7 +98,7 @@ The current rehearsed format is a loose attempt at a Harold, taking liberties wh
 "Quayle is the joining of Kyle Traughber, Katie Dahm, and Quinn Buckner with the main mission of supporting each other while getting a little goofy in the mean time. Currently Quayle does a loose interpretation of a Harold with the emphasis on fun for your maximum enjoyment. Check them out if you want to see Katie be cute as a button, Kyle goofier than Goofy himself and Quinn get tickled till he cries. There might be some improv too..."
 
 ## More Information
-* [https://www.facebook.com/quayleimprov The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/quayleimprov)
 * Show Count since 2014: 0
 
 [[Category/Troupes|Category:Troupes]]

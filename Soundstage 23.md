@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Soundstage23.jpg">Soundstage23.jpg</a>
+				![[Soundstage23.jpg]]
 			</td>
 		</tr>
 
@@ -156,7 +156,7 @@ Inspired by La La Land, Hail, Caesar!, Noises Off, and Singing in the Rain, Soun
 Between the dramas of life on set, actors sing and dance their hearts out on camera, embracing the excitement of the Golden Age of Hollywood – all completely improvised on-the-spot by the Hideout’s up-and-coming talent!
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/soundstage23 The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/soundstage23)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

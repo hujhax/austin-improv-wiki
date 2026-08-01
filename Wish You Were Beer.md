@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Wish You Were Beer.jpg">Wish You Were Beer.jpg</a>
+				![[Wish You Were Beer.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We do a narrative inspired by personal stories of the troupe members that are inspired by a one word suggestion from the audience.</blockquote>
 
 ## More Information
-* [http://www.facebook.com/WYWBaustin The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/WYWBaustin)
 
 
 [[Category/Troupes|Category:Troupes]]

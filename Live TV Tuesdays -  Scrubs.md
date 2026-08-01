@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays - Scrubs.jpg">Live TV Tuesdays - Scrubs.jpg</a>
+				![[Live TV Tuesdays - Scrubs.jpg]]
 			</td>
 		</tr>
 
@@ -255,7 +255,7 @@
 		
 	</table>
 </div>
-***Live TV Tuesdays: Scrubs*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Scrubs (TV series)|*Scrubs*]] episodes [http://scrubs.wikia.com/wiki/My_Overkill "My Overkill"] and [http://scrubs.wikia.com/wiki/My_Musical "My Musical"].
+***Live TV Tuesdays: Scrubs*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Scrubs (TV series)|*Scrubs*]] episodes ["My Overkill"](http://scrubs.wikia.com/wiki/My_Overkill) and ["My Musical"](http://scrubs.wikia.com/wiki/My_Musical).
 
 It was referred to as "*Scrubs: Live*".
 
@@ -295,10 +295,10 @@ It played exclusively at [[The Institution Theater]].
 * "Screw You" written by Garfunkel and Oates
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.376141825787836.83399.118587218209966&type=3 Photoset of the 8/10/12 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.10102310892215350.3454321.7944448&type=3 Photoset]  by [[Madeline Chauvin]].
-* [http://www.facebook.com/media/set/?set=a.10102326737516240.3457235.7914830&type=3 Publicity photos] posted by [[Adam Mengesha]].
+* [Photoset of the 8/10/12 performance](http://www.facebook.com/media/set/?set=a.376141825787836.83399.118587218209966&type=3) by [[Roy Moore]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.10102310892215350.3454321.7944448&type=3)  by [[Madeline Chauvin]].
+* [Publicity photos](http://www.facebook.com/media/set/?set=a.10102326737516240.3457235.7914830&type=3) posted by [[Adam Mengesha]].
 * [[File/ScrubsProgram.jpeg|The show's program.]]
 
 ## More Information
-* [http://www.facebook.com/events/435835689802184/ The show's facebook page.]
+* [The show's facebook page.](http://www.facebook.com/events/435835689802184/)

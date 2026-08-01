@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Brick vs. Mongoose.jpg">Brick vs. Mongoose.jpg</a>
+				![[Brick vs. Mongoose.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We do a version of the Harold that ends up as a short, 30-40 min play without a suggestion from the audience.</blockquote>
 
 ## More Information
-* [https://www.facebook.com/BRICKVSMONGOOSE The troupe's web site.]
+* [The troupe's web site.](https://www.facebook.com/BRICKVSMONGOOSE)
 
 
 [[Category/Troupes|Category:Troupes]]

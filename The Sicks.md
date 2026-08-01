@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Sicks.jpg">The Sicks.jpg</a>
+				![[The Sicks.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -233,9 +233,9 @@ In lieu of a traditional curtain call, every show ended with the troupe inviting
 
 ## Media
 ### Videos
-* Video of their final 5/19/06 performance: [http://youtu.be/ADrKeDhpUv4 1], [http://youtu.be/kxOmRre8IU8 2], [http://youtu.be/8uWDdbyPSRs 3].
+* Video of their final 5/19/06 performance: [1](http://youtu.be/ADrKeDhpUv4), [2](http://youtu.be/kxOmRre8IU8), [3](http://youtu.be/8uWDdbyPSRs).
 #### Sketches
-* [http://youtu.be/Q332qVMBCNo "Confederate Womanizer".]
-* [http://youtu.be/PnAWCFXqN-o "Pomp and Impudence".]
+* ["Confederate Womanizer".](http://youtu.be/Q332qVMBCNo)
+* ["Pomp and Impudence".](http://youtu.be/PnAWCFXqN-o)
 
 [[Category/Troupes|Sicks]]

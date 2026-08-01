@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Hell's Bells.jpg">Hell's Bells.jpg</a>
+				![[Hell's Bells.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150403688032265.410059.588952264&type=3 Photoset] by [[Peter Rogers]] of their 9/19/11 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403688032265.410059.588952264&type=3) by [[Peter Rogers]] of their 9/19/11 performance in *[[The Monday Night Mash]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

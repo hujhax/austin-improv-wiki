@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kingz.jpg">Kingz.jpg</a>
+				![[Kingz.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://youtu.be/3Ef7GoOzsIw Video] of their 6/3/15 show at [[ColdTowne Theater]].
+* [Video](http://youtu.be/3Ef7GoOzsIw) of their 6/3/15 show at [[ColdTowne Theater]].
 
 ## More Information
-* [http://www.facebook.com/pages/Kingz/838619749519864 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Kingz/838619749519864)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="710 Split.jpg">710 Split.jpg</a>
+				![[710 Split.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,18 +87,18 @@ Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>Jef
 
 ## Media
 ### Videos
-* [http://vimeo.com/6786358 Video] of their performance at [[The 2009 Out of Bounds Comedy Festival]].
-* [http://vimeo.com/16379647 Video] of their performance at [[The 2010 Out of Bounds Comedy Festival]].
-* [http://vimeo.com/38814731 Video] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
-* [http://vimeo.com/52415920 Video] of their performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/6786358) of their performance at [[The 2009 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/16379647) of their performance at [[The 2010 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/38814731) of their performance at [[The 2011 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/52415920) of their performance at [[The 2012 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] that includes their performance in [[The 2012 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/pages/710-Split/249945580157 The duo's facebook page.]
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2474844 Interview] with the troupe on *[[The Theft Forum]]*.
+* [The duo's facebook page.](http://www.facebook.com/pages/710-Split/249945580157)
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2474844) with the troupe on *[[The Theft Forum]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

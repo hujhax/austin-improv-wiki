@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Meghan Wolff Pic.jpg">Meghan Wolff Pic.jpg</a>
+				![[Meghan Wolff Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -40,6 +40,6 @@ Meghan was a core cast member in [[The 41-Hour Improv Marathon]].
 * *[[One More Night]]*
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=81189 Meghan's self-introduction thread] on [[The AIC Forums]].
+* [Meghan's self-introduction thread](http://forum.austinimprov.com/viewtopic.php?p=81189) on [[The AIC Forums]].
 
 [[Category/Performers|Wolff]]

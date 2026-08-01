@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Total Panic.jpg">Total Panic.jpg</a>
+				![[Total Panic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -78,7 +78,7 @@
 
 ## Media
 ### Photos
-* [https://www.flickr.com/photos/coldtowne/sets/72157619852025521 Photoset] of their 6/14/09 premiere.
+* [Photoset](https://www.flickr.com/photos/coldtowne/sets/72157619852025521) of their 6/14/09 premiere.
 
 ## History
 Auditions for the 6th ColdTowne Student Troupe were held in early January 2009 after the debut in December 2008 of the previous ColdTowne Student Troupe [[Northshore Local]].  The cast was announced on 1/12/2009 with [[ColdTowne Faculty]] member [[Tami Nelson]] as the coach.  The following ColdTowne students were cast in "Troupe Six":

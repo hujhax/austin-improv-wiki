@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Spectacle Publicity.jpg">Spectacle Publicity.jpg</a>
+				![[Spectacle Publicity.jpg]]
 			</td>
 		</tr>
 
@@ -55,11 +55,11 @@ The acts are scheduled by [[Roy Janik]], who puts out a call for applications ev
 Its early performances included a five-minute interstitial act between the first and second acts, and included an artist in attendance, whose job it was to watch the show and create some piece of art inspired by it, that would then be posted on the Hideout's blog.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/TheSpectacle The show's site.]
-* [http://forum.austinimprov.com/viewtopic.php?t=10520 The first call for submissions for *The Spectacle*], from [[Roy Janik]].
-* [http://www.hideouttheatre.com/mo-daviaus-story-for-the-spectacle The art created for the 4/2/10 premiere] (by [[Mo Daviau]]).
-* [http://www.hideouttheatre.com/the-pony-wife-inspired-by-the-49-spectacle The story created for the 4/9/10 show] (by [[Jo Chauvin]]).
-* [http://www.hideouttheatre.com/big-poppa-es-poem-inspired-by-the-423-spectacle The poem created for the 4/23/10 show].
+* [The show's site.](http://www.hideouttheatre.com/shows/TheSpectacle)
+* [The first call for submissions for *The Spectacle*](http://forum.austinimprov.com/viewtopic.php?t=10520), from [[Roy Janik]].
+* [The art created for the 4/2/10 premiere](http://www.hideouttheatre.com/mo-daviaus-story-for-the-spectacle) (by [[Mo Daviau]]).
+* [The story created for the 4/9/10 show](http://www.hideouttheatre.com/the-pony-wife-inspired-by-the-49-spectacle) (by [[Jo Chauvin]]).
+* [The poem created for the 4/23/10 show](http://www.hideouttheatre.com/big-poppa-es-poem-inspired-by-the-423-spectacle).
 
 [[Category/Shows|Spectacle]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

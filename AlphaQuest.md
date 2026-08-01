@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Typewriter.jpg">Typewriter.jpg</a>
+				![[Typewriter.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,7 +80,7 @@
 Laura invited everyone to do a [[Free Fringe]] with the crazy idea of doing the Alphabet Game on top of a narrative. Everyone had so much fun that we just kept doing shows. 
 
 ## More Information
-* The troupe's [https://www.facebook.com/alphaquestimprov/ Facebook page.]
+* The troupe's [Facebook page.](https://www.facebook.com/alphaquestimprov/)
 
 ## Videos
-[https://www.twitch.tv/videos/345564722 The Threefer] at [[The Hideout]].
+[The Threefer](https://www.twitch.tv/videos/345564722) at [[The Hideout]].

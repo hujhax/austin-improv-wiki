@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Sunny Sweeney Pic.jpg">Sunny Sweeney Pic.jpg</a>
+				![[Sunny Sweeney Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -34,5 +34,5 @@ In 2013, she signed a new record deal with Thirty Tigers Records, and is current
 She is married to a police officer and currently lives in Austin.
 
 ## More Information
-* [http://www.sunnysweeney.com Her website.]
-* [http://twitter.com/GettinSweenered Her twitter feed.]
+* [Her website.](http://www.sunnysweeney.com)
+* [Her twitter feed.](http://twitter.com/GettinSweenered)

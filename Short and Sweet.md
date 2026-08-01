@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,7 +83,7 @@ The duo performed scenes and songs, aiming for a vulnerable, theatrical, emotion
 They played and won at least one of two "king of the hill" cagematches in early 2006, and did a reunion show on 7/12/12 at *[[The Birthday Clusterfunk]]*, for Caitlin's birthday.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=19461#p21664 Duo description] on [[The Austin Improv Forums]].
+* [Duo description](http://forum.austinimprov.com/viewtopic.php?p=19461#p21664) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

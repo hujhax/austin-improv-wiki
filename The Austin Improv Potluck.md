@@ -30,14 +30,14 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 
 ## Media
 ### Photos
-* [http://www.flickr.com/photos/austinimprov/sets/72157637709625706/ Brainstorming notes about the local improv scene] from the 2005 potluck.
-* [http://www.facebook.com/hujhax/media_set?set=a.10152063720712265.1073741841.588952264&type=1 A photoset of the annual group photos from 2006 to the present.]
-* [http://www.flickr.com/photos/austinimprov/sets/72157603231421564/ A photoset of the 2007 potluck]. 
-* [http://www.facebook.com/Jonbolden/media_set?set=a.511218956713.2022096.76200304&type=3 A photoset] by [[Jon Bolden]] of the 2008 potluck.
-* [http://www.facebook.com/happywaffle/media_set?set=a.10150324901280324.562392.503270323&type=3 Photoset] by [[Kevin Miller]] of the 2010 potluck.
-* [http://www.facebook.com/media/set/?set=a.223961494339204.53042.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 2011 potluck.
-* [http://www.steve-rogers-photography.com/Events/AIC2011/20191237_kpnsVB#!i=2223901020&k=HBbLV3r The 2011 and 2012 group photos], as shot by [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.637078753022311.1073741947.221927764537414&type=3 Photoset] by [[Steve Rogers]] from the photobooth at the 2013 potluck.
+* [Brainstorming notes about the local improv scene](http://www.flickr.com/photos/austinimprov/sets/72157637709625706/) from the 2005 potluck.
+* [A photoset of the annual group photos from 2006 to the present.](http://www.facebook.com/hujhax/media_set?set=a.10152063720712265.1073741841.588952264&type=1)
+* [A photoset of the 2007 potluck](http://www.flickr.com/photos/austinimprov/sets/72157603231421564/). 
+* [A photoset](http://www.facebook.com/Jonbolden/media_set?set=a.511218956713.2022096.76200304&type=3) by [[Jon Bolden]] of the 2008 potluck.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150324901280324.562392.503270323&type=3) by [[Kevin Miller]] of the 2010 potluck.
+* [Photoset](http://www.facebook.com/media/set/?set=a.223961494339204.53042.118587218209966&type=3) by [[Roy Moore]] of the 2011 potluck.
+* [The 2011 and 2012 group photos](http://www.steve-rogers-photography.com/Events/AIC2011/20191237_kpnsVB#!i=2223901020&k=HBbLV3r), as shot by [[Steve Rogers]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.637078753022311.1073741947.221927764537414&type=3) by [[Steve Rogers]] from the photobooth at the 2013 potluck.
 
 ## More Information
-* Interviews conducted by *[[Got Your Back]]* at the 2014 potluck: [http://gybpodcast.libsyn.com/ep-25-the-aic-potluck-sessions-part-1of-3 1], [http://gybpodcast.libsyn.com/ep-26-the-aic-potluck-sessions-part-2-of-3 2], [http://gybpodcast.libsyn.com/the-aic-potluck-sessions-part-2-of-3 3].
+* Interviews conducted by *[[Got Your Back]]* at the 2014 potluck: [1](http://gybpodcast.libsyn.com/ep-25-the-aic-potluck-sessions-part-1of-3), [2](http://gybpodcast.libsyn.com/ep-26-the-aic-potluck-sessions-part-2-of-3), [3](http://gybpodcast.libsyn.com/the-aic-potluck-sessions-part-2-of-3).

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Dumbasses.jpg">Dumbasses.jpg</a>
+				![[Dumbasses.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,15 +84,15 @@ Dumbasses formed in [[The Institution Theater]]'s master class during one of ins
 
 ## Media
 ### Videos
-* [http://vimeo.com/user5750859/dumbasses120121  Submarine (Institution Theater 1/21/12)]
-* [http://vimeo.com/60529090  Courthouse (Institution Theater 2/23/13)]
+* [Submarine (Institution Theater 1/21/12)](http://vimeo.com/user5750859/dumbasses120121)
+* [Courthouse (Institution Theater 2/23/13)](http://vimeo.com/60529090)
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/21/12 performance at [[The Institution Theater]].
-* [http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB Photoset] by [[Chad Wellington]] that includes their performance in the 6/9/13 *[[Triple Scoop]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/21/12 performance at [[The Institution Theater]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Chad Wellington]] that includes their performance in the 6/9/13 *[[Triple Scoop]]*.
 
 ## More Information
-*[http://www.facebook.com/pages/Dumbasses/311185398904052 The Dumbasses facebook page]
+*[The Dumbasses facebook page](http://www.facebook.com/pages/Dumbasses/311185398904052)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

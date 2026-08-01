@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Jeff & David.jpg">Jeff & David.jpg</a>
+				![[Jeff & David.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/88659440 Video #1]
+* [Video #1](http://vimeo.com/88659440)
 
 ## More Information
-* [http://www.facebook.com/JeffDavidImprov The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/JeffDavidImprov)
 
 
 [[Category/Troupes|Category:Troupes]]

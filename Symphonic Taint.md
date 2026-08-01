@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Symphonic Taint.jpg">Symphonic Taint.jpg</a>
+				![[Symphonic Taint.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -104,7 +104,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 <p>That's it in a nutshell. Pull quote that!</p></blockquote>
 
 ## More Information
-* [http://www.facebook.com/SymphonicTaint The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/SymphonicTaint)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

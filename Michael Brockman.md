@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Michael Brockman Pic.jpg">Michael Brockman Pic.jpg</a>
+				![[Michael Brockman Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -141,13 +141,13 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * Twin Cities Improv Festival (Minneapolis)
 
 ## More Information
-* [http://www.perfectlyreasonabledreams.com Michael Brockman's blog.]
+* [Michael Brockman's blog.](http://www.perfectlyreasonabledreams.com)
 * A series of posts from Mr. Brockman about how to perform improvised accompaniment:
-** [http://www.perfectlyreasonabledreams.com/?p=885 Pt. 1 - Some Background] 
-** [http://www.perfectlyreasonabledreams.com/?p=903 Pt. 2 - Cues for You the Musician] 
-** [http://www.perfectlyreasonabledreams.com/?p=1855 Pt. 2 - Revisited]
-** [http://www.perfectlyreasonabledreams.com/?p=991 Pt. 3 - Cuing the Actors] 
-** [http://www.perfectlyreasonabledreams.com/?p=1018 Pt. 4 Underscoring (and Iconic Music)] 
+** [Pt. 1 - Some Background](http://www.perfectlyreasonabledreams.com/?p=885) 
+** [Pt. 2 - Cues for You the Musician](http://www.perfectlyreasonabledreams.com/?p=903) 
+** [Pt. 2 - Revisited](http://www.perfectlyreasonabledreams.com/?p=1855)
+** [Pt. 3 - Cuing the Actors](http://www.perfectlyreasonabledreams.com/?p=991) 
+** [Pt. 4 Underscoring (and Iconic Music)](http://www.perfectlyreasonabledreams.com/?p=1018) 
 
 [[Category/Performers|Brockman]]
 [[Category/Teachers|Brockman]]

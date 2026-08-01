@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="After School Special Victims Unit.jpg">After School Special Victims Unit.jpg</a>
+				![[After School Special Victims Unit.jpg]]
 			</td>
 		</tr>
 
@@ -112,6 +112,6 @@ The show had a couple of previews in August 2011, and then ran on Fridays and Sa
 <a href=></a>. .  .
 
 ## More Information
-* [http://www.coldtownetheater.com/blog/mainstage-sketch-show-has-a-name-september-debut The show's announcement on the ColdTowne Theater blog.]
+* [The show's announcement on the ColdTowne Theater blog.](http://www.coldtownetheater.com/blog/mainstage-sketch-show-has-a-name-september-debut)
 
 [[Category/Shows|Category:Shows]]

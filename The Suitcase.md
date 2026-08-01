@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Suitcase.jpg">The Suitcase.jpg</a>
+				![[The Suitcase.jpg]]
 			</td>
 		</tr>
 
@@ -163,12 +163,12 @@ The show opened with a set of monologues, and then the story split up, with inde
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.497467976988553.1073741838.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 6/4/13 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.497467976988553.1073741838.118587218209966&type=3) by [[Roy Moore]] of their 6/4/13 show.
 
 ### Publicity
-* [http://www.facebook.com/media/set/?set=a.10151560732329090.1073741825.273514734089&type=1 Press photos for the show.]
+* [Press photos for the show.](http://www.facebook.com/media/set/?set=a.10151560732329090.1073741825.273514734089&type=1)
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2314430 Interview] with director [[Asaf Ronen]], assistant director [[Jason Vines]], and cast members [[Nicole Beckley]] and [[Jeanette Jones]] on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2314430) with director [[Asaf Ronen]], assistant director [[Jason Vines]], and cast members [[Nicole Beckley]] and [[Jeanette Jones]] on *[[The Theft Forum]]*.
 
 [[Category/Shows|Suitcase]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Mark Tindle pic.jpg">Mark Tindle pic.jpg</a>
+				![[Mark Tindle pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -46,12 +46,12 @@ Mark has also begun to act an unofficial point of contact for AIC members in the
 * *[[History Under the Influence]]* (at Tampa Improv Festival 2015)
 
 ## Media
-* [https://www.youtube.com/channel/UC9smbRqJtPKSDuzltoUpriQ An Englishman and a Belle videos on YouTube.]
-* [https://www.facebook.com/michael.yew/media_set?set=a.10206105452098059.1073742006.1315383518&type=3 Photoset of Day 3 of The 2016 Improvised Play Festival, including An Englishman and a Belle] by [[Michael Yew]] 
-* [https://soundcloud.com/improvlondon/04-mark-tindle-improv-london-podcast Mark is interviewed on the Improv London podcast.]
+* [An Englishman and a Belle videos on YouTube.](https://www.youtube.com/channel/UC9smbRqJtPKSDuzltoUpriQ)
+* [Photoset of Day 3 of The 2016 Improvised Play Festival, including An Englishman and a Belle](https://www.facebook.com/michael.yew/media_set?set=a.10206105452098059.1073742006.1315383518&type=3) by [[Michael Yew]] 
+* [Mark is interviewed on the Improv London podcast.](https://soundcloud.com/improvlondon/04-mark-tindle-improv-london-podcast)
 
 ## More Information
-* [http://www.theimprovnetwork.org/members/markttindle/ Mark Tindle on The Improv Network.]
-* [http://www.ddgimprov.com/ Duck Duck Goose Improv.]
+* [Mark Tindle on The Improv Network.](http://www.theimprovnetwork.org/members/markttindle/)
+* [Duck Duck Goose Improv.](http://www.ddgimprov.com/)
 
 [[Category/Performers|Tindle]]

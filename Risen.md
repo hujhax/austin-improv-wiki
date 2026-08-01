@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Risen.jpg">Risen.jpg</a>
+				![[Risen.jpg]]
 			</td>
 		</tr>
 
@@ -178,23 +178,23 @@ About the War:
 It goes by many names: “The Crisis,” “The Dark Years,” “The Walking Plague,” as well as newer and more “hip” titles such as “World War Z” or “The Zombie War,” and while many may protest the scientific accuracy of the word zombie, they will be hard pressed to discover a more globally accepted term for the creatures that almost caused our extinction. Zombie remains a devastating word, unrivaled in its power to conjure up so many memories or emotions. It has been only twelve years since VA Day was declared in the continental United States, and barely a decade since the last major world power celebrated its deliverance on “Victory in China Day.” The coming years will provide hindsight, adding greater wisdom to memories seen through the light of a matured, postwar world. But many of those memories may no longer exist, trapped in bodies and spirits too damaged or infirm to see the fruits of their victory harvested. It is no great secret that global life expectancy is a mere shadow of its former pre war figure. There simply are not enough resources to care for all the physical and psychological casualties of our last, great, total war.
 
 ## Awards & Nominations
-* [https://ctxlivetheatre.com/reviews/review-risen-by-the-institution-theatre/] Review by Michael Meigs from CTX Live Theatre
-* [http://bidenpayne.wix.com/bidenpayneawards#!2015-Winners-and-Nominees/cu8q/55f9d43a0cf207897d4aedae] Nominated Outstanding Production 2015 B. Iden Payne Awards
-* [http://bidenpayne.wix.com/bidenpayneawards#!2015-Winners-and-Nominees/cu8q/55f9d43a0cf207897d4aedae] Nominated Outstanding Director [[Sarah Marie Curry]] 2015 B. Iden Payne Awards
+* [https://ctxlivetheatre.com/reviews/review-risen-by-the-institution-theatre/](https://ctxlivetheatre.com/reviews/review-risen-by-the-institution-theatre/) Review by Michael Meigs from CTX Live Theatre
+* [http://bidenpayne.wix.com/bidenpayneawards#!2015-Winners-and-Nominees/cu8q/55f9d43a0cf207897d4aedae](http://bidenpayne.wix.com/bidenpayneawards#!2015-Winners-and-Nominees/cu8q/55f9d43a0cf207897d4aedae) Nominated Outstanding Production 2015 B. Iden Payne Awards
+* [http://bidenpayne.wix.com/bidenpayneawards#!2015-Winners-and-Nominees/cu8q/55f9d43a0cf207897d4aedae](http://bidenpayne.wix.com/bidenpayneawards#!2015-Winners-and-Nominees/cu8q/55f9d43a0cf207897d4aedae) Nominated Outstanding Director [[Sarah Marie Curry]] 2015 B. Iden Payne Awards
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.803000993096752.1073742078.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/13/14 performance.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.900852893278530.1073741885.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 9/20/14 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202691490231146.1073741909.1315383518&type=3 Photoset] by [[Michael Yew]] of the 9/27/14 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/5/14 performance.
-* [http://www.facebook.com/media/set/?set=a.820573344672850.1073742086.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/11/14 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.803000993096752.1073742078.221927764537414&type=3) by [[Steve Rogers]] of the 9/13/14 performance.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.900852893278530.1073741885.100000614831752&type=3) by [[Warren Henderson]] of the 9/20/14 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202691490231146.1073741909.1315383518&type=3) by [[Michael Yew]] of the 9/27/14 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3) by [[Michael Yew]] of the 10/5/14 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.820573344672850.1073742086.221927764537414&type=3) by [[Steve Rogers]] of the 10/11/14 performance.
 
 ### Other
-* [http://youtu.be/o1tJwHaGpxU&feature=youtu.be Trailer for the show.]
-*[https://www.youtube.com/watch?v=ZDEbbtcOh_A] September 6th show featuring Benjamin Scott (first half hour)
+* [Trailer for the show.](http://youtu.be/o1tJwHaGpxU&feature=youtu.be)
+*[https://www.youtube.com/watch?v=ZDEbbtcOh_A](https://www.youtube.com/watch?v=ZDEbbtcOh_A) September 6th show featuring Benjamin Scott (first half hour)
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=17545 The audition announcement] on [[The Austin Improv Forums]].
+* [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17545) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

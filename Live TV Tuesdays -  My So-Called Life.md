@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays - My So-Called Life.jpg">Live TV Tuesdays - My So-Called Life.jpg</a>
+				![[Live TV Tuesdays - My So-Called Life.jpg]]
 			</td>
 		</tr>
 
@@ -92,7 +92,7 @@
 		
 	</table>
 </div>
-***Live TV Tuesdays: My So-Called Life*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - My So-Called Life|*My So-Called Life*]] episode [http://www.imdb.com/title/tt0654958/ "Pressure"].
+***Live TV Tuesdays: My So-Called Life*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - My So-Called Life|*My So-Called Life*]] episode ["Pressure"](http://www.imdb.com/title/tt0654958/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *My So-Called Life".
@@ -111,10 +111,10 @@ It played exclusively at [[The Highball]].
 * Ensemble -- [[Ann Wilson]], [[Rafael Virguez]]
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.10150272583409090.354543.273514734089&type=3 Photoset of the 6/21/11 performance.]
-* [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 7/12/11 performance.
-** [http://www.facebook.com/roy.moore/media_set?set=a.1834242947715.2086854.1589679282&type=3 Photoset] by [[Roy Moore]] of that performance.
+* [Photoset of the 6/21/11 performance.](http://www.facebook.com/media/set/?set=a.10150272583409090.354543.273514734089&type=3)
+* [Photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes the 7/12/11 performance.
+** [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1834242947715.2086854.1589679282&type=3) by [[Roy Moore]] of that performance.
 
 ## More Information
-* [http://www.facebook.com/events/222767514422626/ Facebook event for one of the performances.]
-* The original TV episode, on youtube in five parts: [http://youtu.be/QieSD2QBnFA 1], [http://youtu.be/-p6h6UQ8HPY 2], [http://youtu.be/b4bQPYzLHPY 3], [http://youtu.be/8hpc7H6qfJA 4], [http://youtu.be/JzHXDhsTOFw 5].
+* [Facebook event for one of the performances.](http://www.facebook.com/events/222767514422626/)
+* The original TV episode, on youtube in five parts: [1](http://youtu.be/QieSD2QBnFA), [2](http://youtu.be/-p6h6UQ8HPY), [3](http://youtu.be/b4bQPYzLHPY), [4](http://youtu.be/8hpc7H6qfJA), [5](http://youtu.be/JzHXDhsTOFw).

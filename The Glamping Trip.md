@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Glamping Trip.jpg">The Glamping Trip.jpg</a>
+				![[The Glamping Trip.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,23 +81,23 @@ Here is [[John Ratliff]]'s explanation of the name's origin:<blockquote>The orig
 
 ## Media
 ### Videos
-* [http://vimeo.com/31863927 Video] by [[Kyle Sweeney]] of their 8/18/11 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/31863927) by [[Kyle Sweeney]] of their 8/18/11 performance in *[[The Threefer]]*.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/19/10 performance in *[[The Threefer]]*.
-** [http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3 Photoset] by [[Roy Moore]] that includes the same show.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1341213702292.2040957.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 8/26/10 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/18/11 performance in *[[The Threefer]]*.
-** [http://www.facebook.com/SteveRogers1212/media_set?set=a.159798017434563.42528.100002130980897&type=3 Another photoset] by [[Steve Rogers]] that includes the same performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/25/11 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 11/15/09 performance at [[Hyde Park Theater]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/28/12 performance at [[The Institution Theater]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/7/13 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 8/19/10 performance in *[[The Threefer]]*.
+** [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3) by [[Roy Moore]] that includes the same show.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1341213702292.2040957.1589679282&type=3) by [[Roy Moore]] that includes their 8/26/10 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/18/11 performance in *[[The Threefer]]*.
+** [Another photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.159798017434563.42528.100002130980897&type=3) by [[Steve Rogers]] that includes the same performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/25/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Peter Rogers]] that includes their 11/15/09 performance at [[Hyde Park Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/28/12 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3) by [[Michael Yew]] that includes their 2/7/13 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/glampingtrip The troupe's facebook page.]
-* [http://www.theglampingtrip.com/ The troupe's web site.]
+* [The troupe's facebook page.](http://www.facebook.com/glampingtrip)
+* [The troupe's web site.](http://www.theglampingtrip.com/)
 
 [[Category/Troupes|Glamping Trip]]
 [[Category/Duos|Glamping Trip]]

@@ -1,5 +1,5 @@
 ## Summary
-Taken from [http://www.facebook.com/squirrelbuddies/photos_stream the Squirrel Buddies facebook page].
+Taken from [the Squirrel Buddies facebook page](http://www.facebook.com/squirrelbuddies/photos_stream).
 
 Source unknown.
 ## Licensing

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Erin Molson Pic.jpg">Erin Molson Pic.jpg</a>
+				![[Erin Molson Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -33,6 +33,6 @@
 * *[[A Deed So Dark]]*
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=97131 The announcement of Erin's last show] with [[Girls Girls Girls]], on [[The Austin Improv Forums]].
+* [The announcement of Erin's last show](http://forum.austinimprov.com/viewtopic.php?p=97131) with [[Girls Girls Girls]], on [[The Austin Improv Forums]].
 
 [[Category/Performers|Molson]]

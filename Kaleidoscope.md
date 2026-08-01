@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kaleidoscope.jpg">Kaleidoscope.jpg</a>
+				![[Kaleidoscope.jpg]]
 			</td>
 		</tr>
 
@@ -109,10 +109,10 @@ The show ran on Thursdays at 8:30pm at [[ColdTowne Theater]] in May 2014.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.735825619814290.1073741998.221927764537414&type=1 Photoset] by [[Steve Rogers]] that includes their 5/15/14 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.735825619814290.1073741998.221927764537414&type=1) by [[Steve Rogers]] that includes their 5/15/14 performance.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=17373 Show announcement] on [[The Austin Improv Forums]].
-* [http://www.facebook.com/events/1413268428945808/ The show's facebook-event page.]
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?f=2&t=17373) on [[The Austin Improv Forums]].
+* [The show's facebook-event page.](http://www.facebook.com/events/1413268428945808/)
 
 [[Category/Shows|Category:Shows]]

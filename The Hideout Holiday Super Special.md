@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Hideout Holiday Super Special Pic.jpg">The Hideout Holiday Super Special Pic.jpg</a>
+				![[The Hideout Holiday Super Special Pic.jpg]]
 			</td>
 		</tr>
 
@@ -59,10 +59,10 @@
 
 ## Media
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/snowflakesset/snowflakesset.jpg?disposition=download Photo] of [[Kaci Beeler]]'s holiday set design for the run.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/snowflakesset/snowflakesset.jpg?disposition=download) of [[Kaci Beeler]]'s holiday set design for the run.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/thehideoutholidaysuperspecial The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/thehideoutholidaysuperspecial)
 
 [[Category/Shows|Hideout Holiday Super Special]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

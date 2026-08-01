@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Big Bash.jpg">The Big Bash.jpg</a>
+				![[The Big Bash.jpg]]
 			</td>
 		</tr>
 
@@ -158,10 +158,10 @@ Every show has exactly four performers, one host, one musician, and one technica
 
 ## Media
 ### Videos
-* [http://youtu.be/nLUzSGqYLZw Video] by [[Warren Henderson]] of the 5/30/14 show.
+* [Video](http://youtu.be/nLUzSGqYLZw) by [[Warren Henderson]] of the 5/30/14 show.
 
 ## More Information
-* [http://www.austinchronicle.com/arts/2013-12-27/the-big-bash/ Article about the show] by [[Robert Faires]] for *The Austin Chronicle*. (12/27/13)
+* [Article about the show](http://www.austinchronicle.com/arts/2013-12-27/the-big-bash/) by [[Robert Faires]] for *The Austin Chronicle*. (12/27/13)
 
 [[Category/Shows|Big Bash]]
 [[Category/Active|Big Bash]]

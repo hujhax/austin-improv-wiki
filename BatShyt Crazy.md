@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Special Features.jpg">The Special Features.jpg</a>
+				![[The Special Features.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,13 +90,13 @@ In 2015, they took the stage again to perform the foul mouthed Christmas musical
 
 ## Media
 ### Videos
-* [http://vimeo.com/104261690 Video] by [[Topping Haggerty]] of their 8/1/14 show.
-* [https://vimeo.com/107663376 Video] by [[Topping Haggerty]] of their 8/22/14 show.
-* [https://vimeo.com/118369303 Video] by [[Topping Haggerty]] of their 2015 [[FronteraFest]] show.
+* [Video](http://vimeo.com/104261690) by [[Topping Haggerty]] of their 8/1/14 show.
+* [Video](https://vimeo.com/107663376) by [[Topping Haggerty]] of their 8/22/14 show.
+* [Video](https://vimeo.com/118369303) by [[Topping Haggerty]] of their 2015 [[FronteraFest]] show.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.10152671362812265.1073741853.588952264&type=3 Photoset] of their 8/1/14 show by [[Peter Rogers]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202412126407225.1073741897.1315383518&type=3 Photoset] of their 8/8/14 show by [[Michael Yew]].
-* [http://www.facebook.com/media/set/?set=a.790537527676432.1073742044.221927764537414&type=3 Photoset] of their 8/22/14 show by [[Steve Rogers]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152671362812265.1073741853.588952264&type=3) of their 8/1/14 show by [[Peter Rogers]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202412126407225.1073741897.1315383518&type=3) of their 8/8/14 show by [[Michael Yew]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.790537527676432.1073742044.221927764537414&type=3) of their 8/22/14 show by [[Steve Rogers]].
 
 [[Category/Troupes|BatShyt Crazy]]

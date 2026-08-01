@@ -25,4 +25,4 @@ It is produced by [[Thedward Blevins]].
 * Ten Thousand Million Love Stories (London)
 
 ## More Information
-* [http://www.improvisedplayfestival.com/ The festival website.]
+* [The festival website.](http://www.improvisedplayfestival.com/)

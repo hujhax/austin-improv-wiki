@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Rewind.jpg">Rewind.jpg</a>
+				![[Rewind.jpg]]
 			</td>
 		</tr>
 
@@ -170,7 +170,7 @@
 <blockquote>How much of our lives is directed by choices whose consequences we could never expect? It asks the question, “What if you could do it all over again?”</blockquote>
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/rewind The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/rewind)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Fart Clown Glasses.jpg">Fart Clown Glasses.jpg</a>
+				![[Fart Clown Glasses.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -82,6 +82,6 @@ The troupe played in at least two *[[Cagematch|Cagematches]]* in 2006.
 [[Jill Morris]] came up with the troupe's name.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=477 Discussion of the origin of the troupe name] on [[The Austin Improv Forums]].
+* [Discussion of the origin of the troupe name](http://forum.austinimprov.com/viewtopic.php?t=477) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]

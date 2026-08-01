@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Weekender Publicity.jpg">Weekender Publicity.jpg</a>
+				![[Weekender Publicity.jpg]]
 			</td>
 		</tr>
 
@@ -54,11 +54,11 @@ The headliner acts are scheduled by [[Roy Janik]], who puts out a call for appli
 
 ## Media
 ### Videos
-* [http://vimeo.com/channels/austinimprov/43860472 6/10/12 show.]
+* [6/10/12 show.](http://vimeo.com/channels/austinimprov/43860472)
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/TheWeekender The show's site.]
-* [http://forum.austinimprov.com/viewtopic.php?t=10520 the first call for submissions for *The Weekender*], from [[Roy Janik]].
+* [The show's site.](http://www.hideouttheatre.com/shows/TheWeekender)
+* [the first call for submissions for *The Weekender*](http://forum.austinimprov.com/viewtopic.php?t=10520), from [[Roy Janik]].
 
 [[Category/Shows|Weekender]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

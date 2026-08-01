@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Anticdotes.jpg">Anticdotes.jpg</a>
+				![[Anticdotes.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 Within the context of those scenes, anything goes (i.e. we range from 10 second scenes, to multiple scenes from the same storyline).</blockquote>
 
 ## More Information
-* [http://www.facebook.com/anticdotes The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/anticdotes)
 
 
 [[Category/Troupes|Category:Troupes]]

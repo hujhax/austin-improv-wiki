@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Tech Nightmare Pic.jpg">Tech Nightmare Pic.jpg</a>
+				![[Tech Nightmare Pic.jpg]]
 			</td>
 		</tr>
 
@@ -117,8 +117,8 @@ It was brought back many times as part of *[[The Free Fringe]]*, with performanc
 
 ## Media
 * 12/13/12 performance:
-** [http://vimeo.com/56314411 Video] by [[Peter Rogers]]
-** [http://www.facebook.com/media/set/?set=a.10101796070781630.3377695.7909117&type=1 A photoset] by [[Heidi Rogers]] that includes the performance.
+** [Video](http://vimeo.com/56314411) by [[Peter Rogers]]
+** [A photoset](http://www.facebook.com/media/set/?set=a.10101796070781630.3377695.7909117&type=1) by [[Heidi Rogers]] that includes the performance.
 
 [[Category/Active|Category:Active]]
 [[Category/Shows|Category:Shows]]

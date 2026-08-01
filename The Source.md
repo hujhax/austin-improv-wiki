@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Source Poster.jpg">The Source Poster.jpg</a>
+				![[The Source Poster.jpg]]
 			</td>
 		</tr>
 
@@ -218,10 +218,10 @@ The show drew inspiration from [[Wikipedia - The Source Family|the Source Family
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.1007334442663405.1073742222.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/24/2015 Opening Night performance.
-* [http://www.facebook.com/media/set/?set=a.1018279164902266.1073742229.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/7/2015 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1007334442663405.1073742222.221927764537414&type=3) by [[Steve Rogers]] of the 7/24/2015 Opening Night performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1018279164902266.1073742229.221927764537414&type=3) by [[Steve Rogers]] of the 8/7/2015 performance.
 ## More Information
-* [http://www.facebook.com/events/1388245511501848/ The audition announcement.]
+* [The audition announcement.](http://www.facebook.com/events/1388245511501848/)
 
 [[Category/Shows|Source]]
 [[Category/The Institution Theater|Category:The Institution Theater]]

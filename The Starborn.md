@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="TheStarborn.jpg">TheStarborn.jpg</a>
+				![[TheStarborn.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -151,21 +151,21 @@ In 2014, The Starborn was selected to perform two shows in the Out Of Bounds Com
 
 ## Media
 ### Videos
-* [http://vimeo.com/120012510 Video] by [[Peter Rogers]] of their 1/23/15 performance in the *[[2x4]]*.
-*[https://vimeo.com/106635786 Video of their WaffleFest show] from 11/21/2014
-*[https://vimeo.com/106635786 Video of their OOB show at The State] from 9/01/2014
-*[https://vimeo.com/108298992 Video of their OOB show at The Hideout Theatre] from 8/27/2014
-* [https://vimeo.com/99104898 Video of their TheatreSports bout vs The Fitzgeralds] from 05/31/2014.
-* [https://vimeo.com/97889203 Video of their 8th performance] from 05/09/2014.
-** [http://vimeo.com/97880422 Another video] of the same show.
-* [https://vimeo.com/88495374 Video of their 7th performance] from 02/27/2014.
-* [https://vimeo.com/87466815 Video of their 6th performance] from 02/20/2014.
-* [http://vimeo.com/86862036 Video of their 5th performance] from 02/13/2014.
-* [http://vimeo.com/86311594 Video of their 4th performance] from 02/06/2014.
-* [http://vimeo.com/79608023 Video of their 3rd performance] from 11/15/2013.
-* [http://vimeo.com/77375209 Video of their 2nd performance] from 10/17/2013.
-* [http://vimeo.com/58856305 Video of their 1st performance] from the 1/31/13 [[Free Fringe]].
-** [http://vimeo.com/58798063 Another video] by [[Peter Rogers]] of the same show.
+* [Video](http://vimeo.com/120012510) by [[Peter Rogers]] of their 1/23/15 performance in the *[[2x4]]*.
+*[Video of their WaffleFest show](https://vimeo.com/106635786) from 11/21/2014
+*[Video of their OOB show at The State](https://vimeo.com/106635786) from 9/01/2014
+*[Video of their OOB show at The Hideout Theatre](https://vimeo.com/108298992) from 8/27/2014
+* [Video of their TheatreSports bout vs The Fitzgeralds](https://vimeo.com/99104898) from 05/31/2014.
+* [Video of their 8th performance](https://vimeo.com/97889203) from 05/09/2014.
+** [Another video](http://vimeo.com/97880422) of the same show.
+* [Video of their 7th performance](https://vimeo.com/88495374) from 02/27/2014.
+* [Video of their 6th performance](https://vimeo.com/87466815) from 02/20/2014.
+* [Video of their 5th performance](http://vimeo.com/86862036) from 02/13/2014.
+* [Video of their 4th performance](http://vimeo.com/86311594) from 02/06/2014.
+* [Video of their 3rd performance](http://vimeo.com/79608023) from 11/15/2013.
+* [Video of their 2nd performance](http://vimeo.com/77375209) from 10/17/2013.
+* [Video of their 1st performance](http://vimeo.com/58856305) from the 1/31/13 [[Free Fringe]].
+** [Another video](http://vimeo.com/58798063) by [[Peter Rogers]] of the same show.
 
 ### Press Blurb
 The Starborn is an improvised, interactive alien invasion. The playful and devious alien twins (played by Mia Iseman and Ryan Austin) land on Earth to toy with the humans in the audience before they destroy them for good.
@@ -174,23 +174,23 @@ But just before they blast us into particle dust, they want to get to know us a 
 
 
 ### Interviews
-* [http://www.hideouttheatre.com/the-starborn-descend Interview] for their February run of shows in [[The Threefer]]
+* [Interview](http://www.hideouttheatre.com/the-starborn-descend) for their February run of shows in [[The Threefer]]
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203012933787034.1073741915.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
-* [http://www.facebook.com/media/set/?set=a.796561237074061.1073742064.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202516036124903.1073741899.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/27/14 show at [[The 2014 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/Doccerz/media_set?set=a.10152058138020793.1073741869.666390792&type=1 photoset] by [[Warren Henderson]] Of their 05/31/2014 matchup in *[[Theatresports]]* vs The Fitzgeralds.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.789847014379119.1073741865.100000614831752&type=1 photoset] by [[Warren Henderson]] Of their 02/27/2014 show in *[[The Threefer]]*.
-* [http://www.facebook.com/media/set/?set=a.268630569971078.1073741832.244975242336611&type=1 photoset] by [[Warren Henderson]] Of their 02/06/2014 show in *[[The Threefer]]*.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3  photoset] by [[Warren Henderson]] that includes their 11/15/2013 performance in *the [[2x4]]*.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.697804313583390.1073741849.100000614831752&type=3  photoset] by [[Warren Henderson]] Of their 10/17/2013 show in *[[The Threefer]]*.
-* [http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3 Photoset] by [[Dave Alley]] that includes their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203012933787034.1073741915.1315383518&type=3) by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.796561237074061.1073742064.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202516036124903.1073741899.1315383518&type=3) by [[Michael Yew]] that includes their 8/27/14 show at [[The 2014 Out of Bounds Comedy Festival]].
+* [photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152058138020793.1073741869.666390792&type=1) by [[Warren Henderson]] Of their 05/31/2014 matchup in *[[Theatresports]]* vs The Fitzgeralds.
+* [photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.789847014379119.1073741865.100000614831752&type=1) by [[Warren Henderson]] Of their 02/27/2014 show in *[[The Threefer]]*.
+* [photoset](http://www.facebook.com/media/set/?set=a.268630569971078.1073741832.244975242336611&type=1) by [[Warren Henderson]] Of their 02/06/2014 show in *[[The Threefer]]*.
+* [photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3) by [[Warren Henderson]] that includes their 11/15/2013 performance in *the [[2x4]]*.
+* [photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.697804313583390.1073741849.100000614831752&type=3) by [[Warren Henderson]] Of their 10/17/2013 show in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3) by [[Dave Alley]] that includes their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://starbornimprov.strikingly.com/ The troupe's home page.]
-* [http://facebook.com/thestarbornimprov The troupe's Facebook page.]
-* [http://www.hideouttheatre.com/the-starborn-descend A 2/4/14 interview with the cast] on the Hideout blog.
+* [The troupe's home page.](http://starbornimprov.strikingly.com/)
+* [The troupe's Facebook page.](http://facebook.com/thestarbornimprov)
+* [A 2/4/14 interview with the cast](http://www.hideouttheatre.com/the-starborn-descend) on the Hideout blog.
 * Show Count: 16 (as of 11/21/2014)
  
 [[Category/Troupes|Starborn]]

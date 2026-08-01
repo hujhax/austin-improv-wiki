@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Racket.jpg">Racket.jpg</a>
+				![[Racket.jpg]]
 			</td>
 		</tr>
 
@@ -107,11 +107,11 @@ The cast also performed as a troupe for a number of one-off shows in 2012.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.2835332685190.115208.1315383518&type=3 Photoset] by [[Michael Yew]] of their 3/23/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2835332685190.115208.1315383518&type=3) by [[Michael Yew]] of their 3/23/12 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=12812 The audition announcement] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=13116 The show announcement] on [[The Austin Improv Forums]].
+* [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=12812) on [[The Austin Improv Forums]].
+* [The show announcement](http://forum.austinimprov.com/viewtopic.php?t=13116) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

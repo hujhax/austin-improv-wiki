@@ -1,7 +1,7 @@
 ## Summary
 [[Eli Eidson]] from the 2015 photobooth for [[Waterbed]].
 
-Photo by Erin Holsonback, from [http://www.facebook.com/media/set/?set=a.499712160189117.1073741837.405160252977642&type=3 this photoset].
+Photo by Erin Holsonback, from [this photoset](http://www.facebook.com/media/set/?set=a.499712160189117.1073741837.405160252977642&type=3).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

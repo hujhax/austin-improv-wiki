@@ -8,5 +8,5 @@ The fourth annual Excused Absence Improv Festival will be held August 11-12, 201
 
 <!-- site doesn't appear ready, so commenting out for now
 ## Links
-[http://excusedabsencecomedyfest.com Festival Website] 
+[Festival Website](http://excusedabsencecomedyfest.com) 
 -->

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Super Troopers.jpg">The Super Troopers.jpg</a>
+				![[The Super Troopers.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ They played in the *[[Cagematch]]* on 12/12/12 and 1/9/13.
 
 ## Media
 ### Videos
-* [http://vimeo.com/46207042  Video] of their 7/22/12 student show.
+* [Video](http://vimeo.com/46207042) of their 7/22/12 student show.
 
 
 [[Category/Troupes|Super Troupers]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="John Ratliff Pic.jpg">John Ratliff Pic.jpg</a>
+				![[John Ratliff Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -44,8 +44,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Process]]*
 
 ## More Information
-* [http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back An episode] of *[[Got Your Back]]* that includes his lecture "Who Arted?".
-* [http://gybpodcast.libsyn.com/john-ratliff-ep-28-got-your-back Interview] on *[[Got Your Back]]*.
+* [An episode](http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back) of *[[Got Your Back]]* that includes his lecture "Who Arted?".
+* [Interview](http://gybpodcast.libsyn.com/john-ratliff-ep-28-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Ratliff]]
 [[Category/Teachers|Ratliff]]

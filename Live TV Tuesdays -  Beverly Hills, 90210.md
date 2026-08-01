@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays- 90210.jpg">Live TV Tuesdays- 90210.jpg</a>
+				![[Live TV Tuesdays- 90210.jpg]]
 			</td>
 		</tr>
 
@@ -150,7 +150,7 @@
 </div>
 :*This page refers to the [[Live TV Tuesdays]] presentation of "Spring Dance".  For the [[Gnap! Theater Projects]] improv show based on *90210*, see *[[Totally Improvised, 90210]]''.
 
-***Live TV Tuesdays: 90210*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Beverly Hills, 90210|*Beverly Hills, 90210*]] episode [http://90210.wikia.com/wiki/Spring_Dance "Spring Dance"].
+***Live TV Tuesdays: 90210*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Beverly Hills, 90210|*Beverly Hills, 90210*]] episode ["Spring Dance"](http://90210.wikia.com/wiki/Spring_Dance).
 
 It was presented by [[The Institution Theater]] at [[The Highball]].
 
@@ -172,5 +172,5 @@ It was presented by [[The Institution Theater]] at [[The Highball]].
 * Director -- [[Tom Booker]]
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.10150189247619090.330829.273514734089&type=3 Photoset of the 4/5/11 production.]
-* [http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=3 Photoset of the 5/3/11 performance] by [[Michael Yew]].
+* [Photoset of the 4/5/11 production.](http://www.facebook.com/media/set/?set=a.10150189247619090.330829.273514734089&type=3)
+* [Photoset of the 5/3/11 performance](http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]].

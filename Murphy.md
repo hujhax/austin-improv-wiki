@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Murphy.jpg">Murphy.jpg</a>
+				![[Murphy.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,14 +90,14 @@ The troupe played [[The Out of Bounds Comedy Festival]] in 2008, 2009, and 2010.
 
 ## Media
 ### Videos
-* [http://blip.tv/out-of-bounds-comedy-festival/murphy-wed-8pm-svt-oranges-stage-1266242 Video] of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
-* [http://vimeo.com/48428583 Video] by [[Kyle Sweeney]] of their "Darts" show (uploaded 8/29/12).
-* [http://vimeo.com/49200777 Video] by [[Kyle Sweeney]] of their "Rhubarb Pie" show (uploaded 9/10/12).
-* [http://vimeo.com/51454119 Video] by [[Kyle Sweeney]] of their "Banana" show (uploaded 10/15/12).
-* [http://vimeo.com/63618693 Video] by [[Kyle Sweeney]] of their 4/8/13 "Fork" show.
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/murphy-wed-8pm-svt-oranges-stage-1266242) of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/48428583) by [[Kyle Sweeney]] of their "Darts" show (uploaded 8/29/12).
+* [Video](http://vimeo.com/49200777) by [[Kyle Sweeney]] of their "Rhubarb Pie" show (uploaded 9/10/12).
+* [Video](http://vimeo.com/51454119) by [[Kyle Sweeney]] of their "Banana" show (uploaded 10/15/12).
+* [Video](http://vimeo.com/63618693) by [[Kyle Sweeney]] of their 4/8/13 "Fork" show.
 
 ## More Information
-* [http://www.facebook.com/pages/Murphy-Improv-Comedy/372292768064 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Murphy-Improv-Comedy/372292768064)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

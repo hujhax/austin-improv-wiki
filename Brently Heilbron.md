@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Brently Heilbron Pic.jpg">Brently Heilbron Pic.jpg</a>
+				![[Brently Heilbron Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -38,8 +38,8 @@ He guested with [[Girls Girls Girls]] during their *[[Boys of Summer]]* run in 2
 * *[[Fuck It's Christmas]]* (writer/musician)
 
 ## More Information
-* [http://en.wikipedia.org/wiki/Brently_Heilbron Brently's wikipedia page.]
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2650441 Interview] on *[[The Theft Forum]]*.
+* [Brently's wikipedia page.](http://en.wikipedia.org/wiki/Brently_Heilbron)
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2650441) on *[[The Theft Forum]]*.
 
 [[Category/Performers|Heilbron]]
 [[Category/Directors|Heilbron]]

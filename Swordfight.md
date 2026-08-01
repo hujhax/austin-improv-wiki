@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Swordfight.jpg">Swordfight.jpg</a>
+				![[Swordfight.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,23 +85,23 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 ### Videos
-* [http://www.facebook.com/photo.php?v=1400509574452 Video from their 3/15/10 performance.]
-* [http://vimeo.com/10819404 Video of a show.]
-* [http://www.vimeo.com/11069136 Video of another show.]
-* [http://www.facebook.com/photo.php?v=1389265493357 Footage from the Austin variety show.]
-* [http://www.facebook.com/photo.php?v=1388998006670 Footage from the Austin variety show.]
-* [http://www.facebook.com/photo.php?v=1388920284727 Footage from the Austin variety show.]
+* [Video from their 3/15/10 performance.](http://www.facebook.com/photo.php?v=1400509574452)
+* [Video of a show.](http://vimeo.com/10819404)
+* [Video of another show.](http://www.vimeo.com/11069136)
+* [Footage from the Austin variety show.](http://www.facebook.com/photo.php?v=1389265493357)
+* [Footage from the Austin variety show.](http://www.facebook.com/photo.php?v=1388998006670)
+* [Footage from the Austin variety show.](http://www.facebook.com/photo.php?v=1388920284727)
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.360450719602.192831.360441029602&type=1 Photoset] of their performance in "4x4" (uploaded 3/3/10).
-* [http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183505325730.2849425.7944448&type=3 Photoset] by [[Jo Chauvin]] of their 3/15/10 show.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 5/31/10 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.360450719602.192831.360441029602&type=1) of their performance in "4x4" (uploaded 3/3/10).
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183505325730.2849425.7944448&type=3) by [[Jo Chauvin]] of their 3/15/10 show.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3) by [[Roy Moore]] that includes their 5/31/10 performance in *[[The Monday Night Mash]]*.
 
 ### Publicity
-* [http://www.facebook.com/media/set/?set=a.360804534602.192868.360441029602&type=1 Publicity photoset.]
+* [Publicity photoset.](http://www.facebook.com/media/set/?set=a.360804534602.192868.360441029602&type=1)
 
 ## More Information
-* [http://www.facebook.com/pages/Swordfight/360441029602?v=wall The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/Swordfight/360441029602?v=wall)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

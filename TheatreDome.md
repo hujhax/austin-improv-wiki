@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Theatredome.png">Theatredome.png</a>
+				![[Theatredome.png]]
 			</td>
 		</tr>
 
@@ -148,7 +148,7 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |}
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/theatredome The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/theatredome)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

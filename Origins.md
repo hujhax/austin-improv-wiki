@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Origins Placeholder Image.jpg">Origins Placeholder Image.jpg</a>
+				![[Origins Placeholder Image.jpg]]
 			</td>
 		</tr>
 
@@ -208,7 +208,7 @@ From the show announcement:<blockquote>Every superhero has an origin; fraught wi
 </blockquote>
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000 The show announcement] on the Hideout's facebook group.
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

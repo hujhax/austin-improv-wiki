@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Sketchville.jpg">Sketchville.jpg</a>
+				![[Sketchville.jpg]]
 			</td>
 		</tr>
 
@@ -254,25 +254,25 @@ The series was written and shot in 2006-2008, completing primary filming on four
 ### Videos
 This is a list of all the completed episodes of *Sketchville*.
 
-(Note that [http://vimeo.com/92593114 this page] has all the episodes concatenated into one half-hour video, and [http://vimeo.com/couchmode/album/2913238/sort:alphabetical/97883502 this album] will play each of the videos individually.)
+(Note that [this page](http://vimeo.com/92593114) has all the episodes concatenated into one half-hour video, and [this album](http://vimeo.com/couchmode/album/2913238/sort:alphabetical/97883502) will play each of the videos individually.)
 
-* [http://vimeo.com/97883502 1 - 3:38pm: Ted Prepares to Bungee Jump]
-* [http://vimeo.com/97885140 2 - 2:35pm: Tiffany Shows a House]
-* [http://vimeo.com/97883503 3 - 10:20pm: Josh is in Jail]
-* [http://vimeo.com/97883504 4 - 1:39pm: Mike Shows Mr. Bradford Around UT]
-* [http://vimeo.com/97883505 5 - 4:02pm: Trouble at the Phone Company]
-* [http://vimeo.com/97883506 6 - 3:39pm: Tiffany Shows a House, Again]
-* [http://vimeo.com/97885141 7 - 11:31am: Ted Meets His Daughter for Lunch]
-* [http://vimeo.com/97885142 8 - 7:26pm: Owen Arrives at the Happy Meadows Nuclear Power Facility]
-* [http://vimeo.com/97885143 9 - 11:44am: Josh Tries Out for a TV Show]
+* [1 - 3:38pm: Ted Prepares to Bungee Jump](http://vimeo.com/97883502)
+* [2 - 2:35pm: Tiffany Shows a House](http://vimeo.com/97885140)
+* [3 - 10:20pm: Josh is in Jail](http://vimeo.com/97883503)
+* [4 - 1:39pm: Mike Shows Mr. Bradford Around UT](http://vimeo.com/97883504)
+* [5 - 4:02pm: Trouble at the Phone Company](http://vimeo.com/97883505)
+* [6 - 3:39pm: Tiffany Shows a House, Again](http://vimeo.com/97883506)
+* [7 - 11:31am: Ted Meets His Daughter for Lunch](http://vimeo.com/97885141)
+* [8 - 7:26pm: Owen Arrives at the Happy Meadows Nuclear Power Facility](http://vimeo.com/97885142)
+* [9 - 11:44am: Josh Tries Out for a TV Show](http://vimeo.com/97885143)
 * (Episode 10 was never filmed.)
-* [http://vimeo.com/97885145 11 - 4:10pm: Ruthven & Inana Shop for CDs]
-* [http://vimeo.com/97887615 12 - 1:01pm: Claude Proposes]
-* [http://vimeo.com/97887618 13 - 9:28pm: Josh Gets Interrogated]
-* [http://vimeo.com/97887616 14 - 9:04am: Tiffany Talks With Her Boss]
-* [http://vimeo.com/97887617 15 - 12:45pm: Ted Rides an Elevator]
+* [11 - 4:10pm: Ruthven & Inana Shop for CDs](http://vimeo.com/97885145)
+* [12 - 1:01pm: Claude Proposes](http://vimeo.com/97887615)
+* [13 - 9:28pm: Josh Gets Interrogated](http://vimeo.com/97887618)
+* [14 - 9:04am: Tiffany Talks With Her Boss](http://vimeo.com/97887616)
+* [15 - 12:45pm: Ted Rides an Elevator](http://vimeo.com/97887617)
 
 ## More Information
-* [http://hujhax.livejournal.com/261159.html The 2006 livejournal post detailing the original idea for the webseries.]
+* [The 2006 livejournal post detailing the original idea for the webseries.](http://hujhax.livejournal.com/261159.html)
 
 [[Category/Shows|Category:Shows]]

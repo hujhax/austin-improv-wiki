@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Things We Don't Speak Of.jpg">Things We Don't Speak Of.jpg</a>
+				![[Things We Don't Speak Of.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -141,7 +141,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* Video of their 1/15/15 *[[Free Fringe]]* debut: [http://drive.google.com/file/d/0B_o2jDA_ge9RMEotYWRlNlo4bzg/view Part 1], [http://docs.google.com/file/d/0B_o2jDA_ge9RbUVmN1o4cmZid1k/edit?usp=docslist_api Part 2]
+* Video of their 1/15/15 *[[Free Fringe]]* debut: [Part 1](http://drive.google.com/file/d/0B_o2jDA_ge9RMEotYWRlNlo4bzg/view), [Part 2](http://docs.google.com/file/d/0B_o2jDA_ge9RbUVmN1o4cmZid1k/edit?usp=docslist_api)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

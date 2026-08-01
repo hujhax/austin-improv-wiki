@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg">Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg</a>
+				![[Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,7 +89,7 @@ The duo played at least one *[[Cagematch]]* in 2006, against [[Chris Trew and Ar
 They also played the second [[See.Hear.Speak]] at [[ColdTowne Theater]] in 2007.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=1985 Announcement of one of their *CageMatch* shows] on [[The Austin Improv Forums]].
+* [Announcement of one of their *CageMatch* shows](http://forum.austinimprov.com/viewtopic.php?t=1985) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

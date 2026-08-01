@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Jukebox Musical Project.jpg">The Jukebox Musical Project.jpg</a>
+				![[The Jukebox Musical Project.jpg]]
 			</td>
 		</tr>
 
@@ -329,19 +329,19 @@ The story of Annie Oakley and Calamity Jane as told through the music of [[Wikip
 
 ## Media
 ### Videos
-* [http://vimeo.com/122473300 Video] of the 3/14/15 performance of "The Black Death".
-* [http://vimeo.com/128108210 Video] of the 5/9/15 performance of "In the Air Tonight".
-* [http://vimeo.com/133717920 Video] of the 7/10/15 performance of "Karma Police".
-* Videos of "Renaissance Queen": [http://vimeo.com/142595649 10/15/15], [http://vimeo.com/142737817 10/16/15], [http://vimeo.com/142850439 10/17/15].
+* [Video](http://vimeo.com/122473300) of the 3/14/15 performance of "The Black Death".
+* [Video](http://vimeo.com/128108210) of the 5/9/15 performance of "In the Air Tonight".
+* [Video](http://vimeo.com/133717920) of the 7/10/15 performance of "Karma Police".
+* Videos of "Renaissance Queen": [10/15/15](http://vimeo.com/142595649), [10/16/15](http://vimeo.com/142737817), [10/17/15](http://vimeo.com/142850439).
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.926816067381910.1073742167.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 3/14/15 performance of *The Black Death*.
-* [http://www.facebook.com/media/set/?set=a.998780716852111.1073742219.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/10/15 performance of *Karma Police*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.926816067381910.1073742167.221927764537414&type=3) by [[Steve Rogers]] of the 3/14/15 performance of *The Black Death*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.998780716852111.1073742219.221927764537414&type=3) by [[Steve Rogers]] of the 7/10/15 performance of *Karma Police*.
 
 ### Other
 * Promos for "Renaissance Queen":
-** [http://vimeo.com/142341649 Video] by [[Peter Rogers]].
-** [http://www.facebook.com/groups/217905648309669/permalink/682285508538345/ Video] by [[Tom Booker]].
+** [Video](http://vimeo.com/142341649) by [[Peter Rogers]].
+** [Video](http://www.facebook.com/groups/217905648309669/permalink/682285508538345/) by [[Tom Booker]].
 
 ## More Information
-* [http://www.facebook.com/JukeboxBway The show's facebook page.]
+* [The show's facebook page.](http://www.facebook.com/JukeboxBway)

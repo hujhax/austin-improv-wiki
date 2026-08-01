@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="City High.jpg">City High.jpg</a>
+				![[City High.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,10 +84,10 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We do Chicago-style Harold.</blockquote>
 
 ## Media
-* [http://vimeo.com/17253122 Video of their debut show in September 2010.]
+* [Video of their debut show in September 2010.](http://vimeo.com/17253122)
 
 ## More Information
-* [http://www.facebook.com/pages/City-High/114736351913423 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/City-High/114736351913423)
 
 
 [[Category/Troupes|Category:Troupes]]

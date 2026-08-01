@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Wheel.jpg">The Wheel.jpg</a>
+				![[The Wheel.jpg]]
 			</td>
 		</tr>
 
@@ -84,7 +84,7 @@ In May 2013, *[[The TV Set]]* was retired and replaced with *[[2x4]]*, a perform
 * Week 4: *[[Maestro Raw]]*
 
 ## More Information
-* [http://www.hideouttheatre.com/announcing-the-2012-season-and-schedule The announcement of the early-2012 schedule.]
+* [The announcement of the early-2012 schedule.](http://www.hideouttheatre.com/announcing-the-2012-season-and-schedule)
 
 [[Category/Shows|Wheel]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

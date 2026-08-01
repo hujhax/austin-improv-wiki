@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,7 +81,7 @@ They won the summer 2012 Cagematch on 6/29/12.
 
 ## Media
 ### Videos
-* [http://vimeo.com/44662712 Video] by [[Daniel Goldstein]] of their 6/22/12 semifinal *[[Cagematch]]* show.
+* [Video](http://vimeo.com/44662712) by [[Daniel Goldstein]] of their 6/22/12 semifinal *[[Cagematch]]* show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Only One Performance|Category:Only One Performance]]

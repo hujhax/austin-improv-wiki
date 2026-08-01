@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Tender Nightmare.jpg">Tender Nightmare.jpg</a>
+				![[Tender Nightmare.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 <p>No sweeps or tag edits.</p></blockquote>
 
 ## More Information
-* [http://www.facebook.com/tendernightmare The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/tendernightmare)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

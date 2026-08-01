@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Rush.jpg">Rush.jpg</a>
+				![[Rush.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/68171828 Video] by [[Kyle Sweeney]] of the [[Rush]] set from *[[Movie vs. Movie]]* ("Bangalore", uploaded 6/11/13).
+* [Video](http://vimeo.com/68171828) by [[Kyle Sweeney]] of the [[Rush]] set from *[[Movie vs. Movie]]* ("Bangalore", uploaded 6/11/13).
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 The duo premiered on 8/9/07.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=4454&p=36997 Announcement of the premiere] on [[The Austin Improv Forums]].
+* [Announcement of the premiere](http://forum.austinimprov.com/viewtopic.php?t=4454&p=36997) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

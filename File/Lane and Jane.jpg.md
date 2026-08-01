@@ -1,7 +1,7 @@
 ## Summary
 [[Lane & Jane]], performing in the 5/17/13 *[[2x4]]*.
 
-Still from [http://vimeo.com/66537083 this video].
+Still from [this video](http://vimeo.com/66537083).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

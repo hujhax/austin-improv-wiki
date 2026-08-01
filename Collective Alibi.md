@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Collective Alibi.jpg">Collective Alibi.jpg</a>
+				![[Collective Alibi.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,10 +90,10 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Photo
-* [http://www.facebook.com/media/set/?set=a.735825619814290.1073741998.221927764537414&type=1 Photoset]  by [[Steve Rogers]] that includes their 5/15/14 performance at [[ColdTowne Theater]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.735825619814290.1073741998.221927764537414&type=1)  by [[Steve Rogers]] that includes their 5/15/14 performance at [[ColdTowne Theater]].
 
 ## More Information
-* [http://www.facebook.com/pages/Collective-Alibi/275987922554064 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/Collective-Alibi/275987922554064)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

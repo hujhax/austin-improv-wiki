@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Improvised Shakespeare.jpg">Improvised Shakespeare.jpg</a>
+				![[Improvised Shakespeare.jpg]]
 			</td>
 		</tr>
 
@@ -138,22 +138,22 @@ The 6/13/09 show featured an all-female cast.
 
 ## Media
 ### Videos
-* [http://blip.tv/out-of-bounds-comedy-festival/improvised-shakespeare-mon-8pm-svt-apples-stage-1235251 Video]  of their 9/1/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/improvised-shakespeare-mon-8pm-svt-apples-stage-1235251)  of their 9/1/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.114136552264.110678.588952264&type=3 Photoset] by [[Peter Rogers]] of their 5/16/09 performance.
-* [http://www.facebook.com/media/set/?set=a.124348512264.117182.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/13/09 performance.
-* [http://www.facebook.com/media/set/?set=a.127238547264.118948.588952264&type=1 Photoset] by [[Peter Rogers]] of their 6/20/09 performance.
-* [http://www.facebook.com/media/set/?set=a.129979382264.120568.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/27/09 performance in [[The 40-Hour Improv Marathon]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/5/11 show in [[The 42-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.114136552264.110678.588952264&type=3) by [[Peter Rogers]] of their 5/16/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.124348512264.117182.588952264&type=3) by [[Peter Rogers]] of their 6/13/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.127238547264.118948.588952264&type=1) by [[Peter Rogers]] of their 6/20/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.129979382264.120568.588952264&type=3) by [[Peter Rogers]] of their 6/27/09 performance in [[The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/11 show in [[The 42-Hour Improv Marathon]].
 
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2468047649_d0a190055c/2468047649_d0a190055c.jpg?disposition=download Set photo] by [[Kaci Beeler]] from the 2008 run.
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/DSCF2681/DSCF2681.jpg?disposition=download Set photo] by [[Kaci Beeler]] from the 2009 run.
+* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2468047649_d0a190055c/2468047649_d0a190055c.jpg?disposition=download) by [[Kaci Beeler]] from the 2008 run.
+* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/DSCF2681/DSCF2681.jpg?disposition=download) by [[Kaci Beeler]] from the 2009 run.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=4930 The announcement of the first run] on [[The AIC Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=8826 The announcement of the second run] on [[The AIC Forums]].
+* [The announcement of the first run](http://forum.austinimprov.com/viewtopic.php?f=3&t=4930) on [[The AIC Forums]].
+* [The announcement of the second run](http://forum.austinimprov.com/viewtopic.php?t=8826) on [[The AIC Forums]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

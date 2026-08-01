@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Lindas.jpg">The Lindas.jpg</a>
+				![[The Lindas.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -78,7 +78,7 @@
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their performance at [[The 2011 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their performance at [[The 2011 Ladies Are Funny Festival]].
 
 [[Category/Troupes|Lindas]]
 [[Category/All-Female Troupes|Lindas]]

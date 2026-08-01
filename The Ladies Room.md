@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Ladies Room.jpg">The Ladies Room.jpg</a>
+				![[The Ladies Room.jpg]]
 			</td>
 		</tr>
 
@@ -133,13 +133,13 @@ A second season of the show is planned for 2016.
 
 ## Media
 ### Videos
-* [http://youtu.be/4jREdgtuNdI Video of the 7/17/15 performance.]
+* [Video of the 7/17/15 performance.](http://youtu.be/4jREdgtuNdI)
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204458400402796.1073741957.1315383518&type=3 Photoset] by [[Michael Yew]] of the 7/11/15 performance.
-* [http://www.facebook.com/media/set/?set=a.848505198559326.1073741860.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 7/17/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204458400402796.1073741957.1315383518&type=3) by [[Michael Yew]] of the 7/11/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.848505198559326.1073741860.473177099425473&type=3) by [[Chad Wellington]] of the 7/17/15 performance.
 
 ## More Information
-* [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The show announcement] on the [[Institution Theater]] facebook page.
+* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Institution Theater]] facebook page.
 
 [[Category/Shows|Ladies Room]]

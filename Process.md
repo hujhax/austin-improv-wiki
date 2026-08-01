@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Process Publicity Image.jpg">Process Publicity Image.jpg</a>
+				![[Process Publicity Image.jpg]]
 			</td>
 		</tr>
 
@@ -258,27 +258,27 @@ The show is returning in 2016 as a Hideout mainstage show.
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=KgYGpcS5ork Video] of [[The Available Cupholders]]' Play format at the 2010 Sarasota Improv Festival
-* [http://vimeo.com/40488504 Video] of their 4/15/12 performance in [[The 2012 Improvised Play Festival]]
+* [Video](http://www.youtube.com/watch?v=KgYGpcS5ork) of [[The Available Cupholders]]' Play format at the 2010 Sarasota Improv Festival
+* [Video](http://vimeo.com/40488504) of their 4/15/12 performance in [[The 2012 Improvised Play Festival]]
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.310853215644868.76512.221927764537414&type=3 Photoset of the 3/3/12 show] ("Hole to Nowhere") by [[Steve Rogers]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.377731208915047.87462.100000345135257&type=3 Photoset of the 3/24/12 show] by [[Claudio Fox]].
-* [http://www.facebook.com/media/set/?set=a.329076013822588.80828.221927764537414&type=3 Photoset of the 3/31/12 show] ("Middle School") by [[Steve Rogers]].
-* [http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3 Photoset of the 4/15/12 show] ("My Heart Doth Bleed Gold") by [[Roy Moore]].
-* [http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1 Photoset] by [[Anna Lattka]] of the 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset of the 3/3/12 show](http://www.facebook.com/media/set/?set=a.310853215644868.76512.221927764537414&type=3) ("Hole to Nowhere") by [[Steve Rogers]].
+* [Photoset of the 3/24/12 show](http://www.facebook.com/claudio.fox.5/media_set?set=a.377731208915047.87462.100000345135257&type=3) by [[Claudio Fox]].
+* [Photoset of the 3/31/12 show](http://www.facebook.com/media/set/?set=a.329076013822588.80828.221927764537414&type=3) ("Middle School") by [[Steve Rogers]].
+* [Photoset of the 4/15/12 show](http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3) ("My Heart Doth Bleed Gold") by [[Roy Moore]].
+* [Photoset](http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1) by [[Anna Lattka]] of the 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
 ** Note that this photoset is locked to Anna's friends.
 
 ### Other
-* Photos of [[Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set/process-set.jpg?disposition=download ], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set-actors/process-set-actors.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/kaci-kareem-sword-fight/kaci-kareem-sword-fight.jpg?disposition=download 3].
+* Photos of [[Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set/process-set.jpg?disposition=download ], [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set-actors/process-set-actors.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/kaci-kareem-sword-fight/kaci-kareem-sword-fight.jpg?disposition=download).
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/process The show's web page.]
-* [http://forum.austinimprov.com/viewtopic.php?p=114894 The audition notice] for the mainstage run on [[The AIC Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=115286 The cast announcement] on [[The AIC Forums]].
-* [http://austin.culturemap.com/news/music_film/03-29-12-07-42-more-than-just-meta-process-is-pure-play/ An article about the show] by Amy Genry for *Culture Map Austin*.
-* [http://forum.austinimprov.com/viewtopic.php?p=119767 The announcement the added 6pm show on closing night] on [[The AIC Forums]].
-* [http://www.hideouttheatre.com/blog/page/28 2/26/12 post about the show] by [[Caitlin Sweetlamb]].
+* [The show's web page.](http://www.hideouttheatre.com/shows/process)
+* [The audition notice](http://forum.austinimprov.com/viewtopic.php?p=114894) for the mainstage run on [[The AIC Forums]].
+* [The cast announcement](http://forum.austinimprov.com/viewtopic.php?p=115286) on [[The AIC Forums]].
+* [An article about the show](http://austin.culturemap.com/news/music_film/03-29-12-07-42-more-than-just-meta-process-is-pure-play/) by Amy Genry for *Culture Map Austin*.
+* [The announcement the added 6pm show on closing night](http://forum.austinimprov.com/viewtopic.php?p=119767) on [[The AIC Forums]].
+* [2/26/12 post about the show](http://www.hideouttheatre.com/blog/page/28) by [[Caitlin Sweetlamb]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

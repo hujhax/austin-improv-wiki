@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Ceej.jpg">Ceej.jpg</a>
+				![[Ceej.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -51,7 +51,7 @@ I could tell she was nervous, but I loved that she played the scene anyway.</p>
 * *[[Trust No One]]*
 
 ## More Information
-* [http://archive.org/details/ScottHearneTheTheftForum-CeejAllen-Ep2/ Interview] with Ceej on *[[The Theft Forum]]*.
-* [http://yesandrew.com/the-sunday-interview-ceej-allen/ Interview] by [[Andrew Buck]].
+* [Interview](http://archive.org/details/ScottHearneTheTheftForum-CeejAllen-Ep2/) with Ceej on *[[The Theft Forum]]*.
+* [Interview](http://yesandrew.com/the-sunday-interview-ceej-allen/) by [[Andrew Buck]].
 
 [[Category/Performers|Allen]]

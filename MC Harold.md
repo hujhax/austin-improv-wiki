@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="MC Harold.jpg">MC Harold.jpg</a>
+				![[MC Harold.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,10 +89,10 @@ The rapping portion helps to create, paint, and explore the themes, story or cha
 
 ## Media
 ## Photos =
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10208028066965899.1073741868.1425495839&type=3 Photoset] by [[Jay Mahavier]] that includes their 9/7/15 performance at *[[The Knockout]]*.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208028066965899.1073741868.1425495839&type=3) by [[Jay Mahavier]] that includes their 9/7/15 performance at *[[The Knockout]]*.
 
 ### Videos
-* [http://vimeo.com/118703724 The troupe's February 2015 debut] at [[The Institution Theater]].
+* [The troupe's February 2015 debut](http://vimeo.com/118703724) at [[The Institution Theater]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Dusk Image.jpg">Dusk Image.jpg</a>
+				![[Dusk Image.jpg]]
 			</td>
 		</tr>
 
@@ -224,32 +224,32 @@ The marketing tagline for season 2 was "Forever is for serious."
 
 ## Media
 ### Videos
-* Video of opening night (10/23/09): [http://vimeo.com/16185444 part 1], [http://vimeo.com/16533754 part 2].
-* [http://vimeo.com/9117551 Video] of the opening of the 11/13/09 show.
-* [http://vimeo.com/10691457 Video] of their 4/1/10 show (a warm-up for their Chicago festival appearance).
-* Video of their 9/23/10 show: [http://vimeo.com/29566603 part 1], [http://vimeo.com/30286429 part 2].
-* Video of their 9/24/10 show: [http://vimeo.com/30947551 part 1], [http://vimeo.com/31256790 part 2].
+* Video of opening night (10/23/09): [part 1](http://vimeo.com/16185444), [part 2](http://vimeo.com/16533754).
+* [Video](http://vimeo.com/9117551) of the opening of the 11/13/09 show.
+* [Video](http://vimeo.com/10691457) of their 4/1/10 show (a warm-up for their Chicago festival appearance).
+* Video of their 9/23/10 show: [part 1](http://vimeo.com/29566603), [part 2](http://vimeo.com/30286429).
+* Video of their 9/24/10 show: [part 1](http://vimeo.com/30947551), [part 2](http://vimeo.com/31256790).
 
 ### Photos
-* [http://www.facebook.com/happywaffle/media_set?set=a.10150295116320324.548314.503270323&type=3 Photoset] by [[Kevin Miller]] of the 10/23/09 premiere.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 11/7/09 show.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3 Photoset] by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
-** [http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3 Another photoset of the show] by [[Peter Rogers]]
-* [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/5/10 performance at [[The 41-Hour Improv Marathon]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 10/22/10 performance at [[Salvage Vanguard Theater]].
-* [http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3 Photoset] by [[Peter Rogers]] of their 10/23/10 show at [[Salvage Vanguard Theater]].
-* [http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3 Photoset] by [[Roy Moore]] of their 10/29/10 show at [[Salvage Vanguard Theater]].
-* [http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3 Photoset] by [[Peter Rogers]] of their 11/13/10 show at [[Salvage Vanguard Theater]].
-* [http://www.facebook.com/roy.moore/media_set?set=a.1435556900813.2056609.1589679282&type=3 Photoset] by [[Roy Moore]] of their 11/19/10 show at [[Salvage Vanguard Theater]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/20/10 performance.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150295116320324.548314.503270323&type=3) by [[Kevin Miller]] of the 10/23/09 premiere.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 11/7/09 show.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
+** [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3) by [[Peter Rogers]]
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/10 performance at [[The 41-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/22/10 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3) by [[Peter Rogers]] of their 10/23/10 show at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3) by [[Roy Moore]] of their 10/29/10 show at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3) by [[Peter Rogers]] of their 11/13/10 show at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1435556900813.2056609.1589679282&type=3) by [[Roy Moore]] of their 11/19/10 show at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/20/10 performance.
 
 ### Publicity
-* "Bella Picks a Team" promo: [http://youtu.be/FtYlYgi1VFk part 1], [http://youtu.be/vMB-7BVfcJM part 2], [http://youtu.be/WtXFzyyBuRg part 3], [http://youtu.be/V5BQAFlib_g part 4].
-* [http://vimeo.com/16279072 Video interview] with [[Katie Thornton]] about the show.
-* [http://vimeo.com/16178759 Video interview] with [[Shana Merlin]] about the show.
+* "Bella Picks a Team" promo: [part 1](http://youtu.be/FtYlYgi1VFk), [part 2](http://youtu.be/vMB-7BVfcJM), [part 3](http://youtu.be/WtXFzyyBuRg), [part 4](http://youtu.be/V5BQAFlib_g).
+* [Video interview](http://vimeo.com/16279072) with [[Katie Thornton]] about the show.
+* [Video interview](http://vimeo.com/16178759) with [[Shana Merlin]] about the show.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=9800 The announcement of season 1] on [[The AIC Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=92285 The announcement of the Chicago fundraiser shows] on [[The AIC Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=94536 The announcement of the New York City fundraiser shows] on [[The AIC Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=11210 The announcement of season 2] on [[The AIC Forums]].
+* [The announcement of season 1](http://forum.austinimprov.com/viewtopic.php?f=2&t=9800) on [[The AIC Forums]].
+* [The announcement of the Chicago fundraiser shows](http://forum.austinimprov.com/viewtopic.php?p=92285) on [[The AIC Forums]].
+* [The announcement of the New York City fundraiser shows](http://forum.austinimprov.com/viewtopic.php?p=94536) on [[The AIC Forums]].
+* [The announcement of season 2](http://forum.austinimprov.com/viewtopic.php?f=2&t=11210) on [[The AIC Forums]].

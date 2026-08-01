@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Close Up.jpg">Close Up.jpg</a>
+				![[Close Up.jpg]]
 			</td>
 		</tr>
 
@@ -216,14 +216,14 @@ From the show announcement:<blockquote>"A comedic narrative in the style of sing
 
 ## Media
 ### Photos
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207774885316516.1073741828.1425495839&type=3 Photoset] by [[Jay Mahavier]] of the 8/8/15 performance.
-* [http://www.facebook.com/tylerbryce/media_set?set=a.10153575945537704.1073741886.505207703&type=3 Photoset] by [[Tyler Bryce]] of the Opening Night performance.
-* [http://www.facebook.com/Doccerz/media_set?set=a.10152915048980793.1073741886.666390792&type=3 Photoset] by [[Dave Alley]] of the 8/15/2015 performance.
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207877249435555&type=3 Photoset] by [[Jay Mahavier]] of the 8/22/2015 performance.
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207934534947657.1073741866.1425495839&type=3 Photoset] by [[Jay Mahavier]] of the 8/29/2015 performance.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207774885316516.1073741828.1425495839&type=3) by [[Jay Mahavier]] of the 8/8/15 performance.
+* [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.10153575945537704.1073741886.505207703&type=3) by [[Tyler Bryce]] of the Opening Night performance.
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152915048980793.1073741886.666390792&type=3) by [[Dave Alley]] of the 8/15/2015 performance.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207877249435555&type=3) by [[Jay Mahavier]] of the 8/22/2015 performance.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207934534947657.1073741866.1425495839&type=3) by [[Jay Mahavier]] of the 8/29/2015 performance.
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

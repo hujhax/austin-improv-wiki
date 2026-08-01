@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Billy Icon.jpg">Billy Icon.jpg</a>
+				![[Billy Icon.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -82,7 +82,7 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 
 ## Media
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3) by [[Steve Rogers]] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

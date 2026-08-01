@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Look Cookie.jpg">Look Cookie.jpg</a>
+				![[Look Cookie.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -82,12 +82,12 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 ## Media
 ### Videos
-* [http://youtu.be/lTqFxtviEZc Video] by [[Cody Dearing]] of their first show in April 2007.
-* [http://blip.tv/out-of-bounds-comedy-festival/look-cookie-wed-10pm-apples-stage-1236752 Video] of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://youtu.be/lTqFxtviEZc) by [[Cody Dearing]] of their first show in April 2007.
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/look-cookie-wed-10pm-apples-stage-1236752) of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.myspace.com/lookcookiecrew The troupe's myspace page.]
-* [http://www.facebook.com/pages/Look-Cookie/102392521538 The troupe's facebook page.]
+* [The troupe's myspace page.](http://www.myspace.com/lookcookiecrew)
+* [The troupe's facebook page.](http://www.facebook.com/pages/Look-Cookie/102392521538)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

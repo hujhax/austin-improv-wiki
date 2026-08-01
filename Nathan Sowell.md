@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="123 1006661697184 7424 n.jpg">123 1006661697184 7424 n.jpg</a>
+				![[123 1006661697184 7424 n.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -38,7 +38,7 @@
 * *[[Love Fest]]*
 
 ## More Information
-* [http://yesandrew.com/2014/07/06/the-sunday-interview-nathan-sowell/ Interview] by [[Andrew Buck]].
-* [http://gybpodcast.libsyn.com/nathan-sowell-ep-36-got-your-back Interview] on *[[Got Your Back]]*.
+* [Interview](http://yesandrew.com/2014/07/06/the-sunday-interview-nathan-sowell/) by [[Andrew Buck]].
+* [Interview](http://gybpodcast.libsyn.com/nathan-sowell-ep-36-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Sowell]]

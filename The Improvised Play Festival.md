@@ -11,5 +11,5 @@
 * [[The 2016 Improvised Play Festival]]
 
 ## More Info
-* [http://www.flickr.com/photos/hideouttheatre/sets/72157629690749871/comments/ Publicity art for the 2012 Improvised Play Festival.]
-* [http://www.improvisedplayfestival.com/ Homepage for The Improvised Play Festival]
+* [Publicity art for the 2012 Improvised Play Festival.](http://www.flickr.com/photos/hideouttheatre/sets/72157629690749871/comments/)
+* [Homepage for The Improvised Play Festival](http://www.improvisedplayfestival.com/)

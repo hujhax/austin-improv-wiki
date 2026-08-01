@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Waterpark Publicity.jpg">Waterpark Publicity.jpg</a>
+				![[Waterpark Publicity.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -79,14 +79,14 @@
 
 ## Media
 ### Videos
-* [http://vimeo.com/74482653 Video] of their 6/22/13 performance in [[The 44-Hour Improv Marathon]].
+* [Video](http://vimeo.com/74482653) of their 6/22/13 performance in [[The 44-Hour Improv Marathon]].
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 10/25/13 performance with [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [http://www.facebook.com/media/set/?set=a.708255982584249.1073741847.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 10/17/14 show with [[Mister Morbid]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Claudio Fox]] that includes their 10/25/13 performance with [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.708255982584249.1073741847.473177099425473&type=3) by [[Chad Wellington]] of their 10/17/14 show with [[Mister Morbid]].
 
 ## More Information
-* [http://www.facebook.com/pages/Water-Park/350085621711326 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Water-Park/350085621711326)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Fallout Theater graphic.jpg">Fallout Theater graphic.jpg</a>
+				![[Fallout Theater graphic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -66,4 +66,4 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 ## Media
 ### Videos
 ## Media
-* [http://splitsider.com/2018/01/sexual-misconduct-allegations-have-put-the-future-of-new-orleans-and-austins-new-movement-theaters-in-doubt/ Article about the controversy which led to the shutdown of The New Movement Austin and formation of Fallout Theater] in Splitsider.
+* [Article about the controversy which led to the shutdown of The New Movement Austin and formation of Fallout Theater](http://splitsider.com/2018/01/sexual-misconduct-allegations-have-put-the-future-of-new-orleans-and-austins-new-movement-theaters-in-doubt/) in Splitsider.

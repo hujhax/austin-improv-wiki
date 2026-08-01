@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Boy, Howdy!.jpg">Boy, Howdy!.jpg</a>
+				![[Boy, Howdy!.jpg]]
 			</td>
 		</tr>
 
@@ -162,8 +162,8 @@ From the show announcement:<blockquote>Inspired by the nostalgic era of 1950s & 
 </blockquote>
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
-* [http://www.facebook.com/groups/hideouttheatre/permalink/975419935814444/ The casting announcement.]
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1) on the Hideout's facebook group.
+* [The casting announcement.](http://www.facebook.com/groups/hideouttheatre/permalink/975419935814444/)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

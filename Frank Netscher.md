@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Frank Netscher Pic.jpg">Frank Netscher Pic.jpg</a>
+				![[Frank Netscher Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -23,7 +23,7 @@
 **Frank Netscher** is an improv performer.
 
 ## Summary
-From [http://www.coldtownetheater.com/performer/frank-netscher his bio page on the ColdTowne Theater site]:
+From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/frank-netscher):
 <blockquote>I've been performing and studying improv and sketch since 2009. I'm based out of [[ColdTowne Theater]], but I’ve studied with teachers from iO, Second City, Annoyance, BATS, UCB, ImproMelbourne, The Institution and The Hideout. I've performed in NYC, Melbourne, and on YouTube. I hate summer homework.</blockquote>
 
 ## Troupes
@@ -43,8 +43,8 @@ From [http://www.coldtownetheater.com/performer/frank-netscher his bio page on t
 * *[[Townsville]]*
 
 ## More Information
-* [http://www.coldtownetheater.com/performer/frank-netscher Frank's bio page on the ColdTowne Theater site.]
-* [http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short An interview] from *[[Got Your Back]]* on the topic of "Audition Advice for Improvisors".
+* [Frank's bio page on the ColdTowne Theater site.](http://www.coldtownetheater.com/performer/frank-netscher)
+* [An interview](http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short) from *[[Got Your Back]]* on the topic of "Audition Advice for Improvisors".
 
 [[Category/Performers|Netscher]]
 [[Category/Active|Netscher]]

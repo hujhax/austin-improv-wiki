@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="AndrewJohnston.jpg">AndrewJohnston.jpg</a>
+				![[AndrewJohnston.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -35,6 +35,6 @@ Andrew has played once in [[Maestro]] and once in [[Fancy Pants]].  He performed
 Andrew served as a Teacher's Assistant at the Institution through most of 2016.
 
 ## More Information
-[https://youtu.be/zg-BLmcWfxY Magic Performance at Anything Live] (YouTube)
+[Magic Performance at Anything Live](https://youtu.be/zg-BLmcWfxY) (YouTube)
 
 [[Category/Performers|Johnston]]

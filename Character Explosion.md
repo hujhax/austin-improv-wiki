@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Character Explosion.jpg">Character Explosion.jpg</a>
+				![[Character Explosion.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -184,12 +184,12 @@ Alumni
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=Q4giLqTx2Rw Video of the troupe's "plank-a-thon"] from the 2/12/15 *[[Free Fringe]]*.
-* [http://www.youtube.com/watch?v=6ltXQG2Ye-A Video of the troupe's "Improv Mixtape"] from the 4/13/15 *[[The Institution Theater]]*.
-* [https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw Character Explosion's YouTube channel]
+* [Video of the troupe's "plank-a-thon"](http://www.youtube.com/watch?v=Q4giLqTx2Rw) from the 2/12/15 *[[Free Fringe]]*.
+* [Video of the troupe's "Improv Mixtape"](http://www.youtube.com/watch?v=6ltXQG2Ye-A) from the 4/13/15 *[[The Institution Theater]]*.
+* [Character Explosion's YouTube channel](https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw)
 
 ## More Information
-* [http://www.facebook.com/CharacterExplosion The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/CharacterExplosion)
 
 
 [[Category/Troupes|Category:Troupes]]

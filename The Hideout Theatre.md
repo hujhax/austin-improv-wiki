@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Hideout logo.png">Hideout logo.png</a>
+				![[Hideout logo.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -27,7 +27,7 @@
 
 ![[Hideout Exterior.jpg|The view from Congress of the Hideout Theatre.]]
 
-**The Hideout Theatre** is an improv theater in downtown Austin that draws its primary inspiration from the work of [http://en.wikipedia.org/wiki/Keith_Johnstone Keith Johnstone].
+**The Hideout Theatre** is an improv theater in downtown Austin that draws its primary inspiration from the work of [Keith Johnstone](http://en.wikipedia.org/wiki/Keith_Johnstone).
 
 ## History
 ### 1998-1999: Austin Theatresports
@@ -40,7 +40,7 @@ In the first years of the theater's operation, [[Sean Hill]] led building/renova
 In the mid-2000s, [[Sean Hill]] took a more hands-off approach to the theater, and the [[Austin Improv Collective]] along with Manager [[Andy Crouch]] started to produce shows there, creating programs like *[[The Threefer]]* and *[[The Double Barrel]]*.
 
 ### 2009-Present: New Management
-By mid-2009, [[Sean Hill]]'s lease on the property came to an end, and he chose not to renew.  Eager to see [[The Hideout Theater]] continue, [[Jessica Arjet]], [[Kareem Badr]] and [[Roy Janik]] acquired the property.<ref name="auschron1">[http://www.austinchronicle.com/arts/2009-05-22/784213/ The Hideout: Under new – but very familiar – management (Austin Chronicle, 22 May 2009)]</ref>  They immediately scheduled regular two-month mainstage runs for Saturday nights.  Over time, they steadily expanded the education program, and the weekly show schedule.
+By mid-2009, [[Sean Hill]]'s lease on the property came to an end, and he chose not to renew.  Eager to see [[The Hideout Theater]] continue, [[Jessica Arjet]], [[Kareem Badr]] and [[Roy Janik]] acquired the property.<ref name="auschron1">[The Hideout: Under new – but very familiar – management (Austin Chronicle, 22 May 2009)](http://www.austinchronicle.com/arts/2009-05-22/784213/)</ref>  They immediately scheduled regular two-month mainstage runs for Saturday nights.  Over time, they steadily expanded the education program, and the weekly show schedule.
 
 On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House business and operations. In January of 2013, the Saturday mainstage shows, as well as *[[Maestro]]*, were moved to the building's larger, downstairs theater. In April, the Coffee House hours were extended, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows. A second, smaller, Hideout Coffee bar location opened inside an office building at 504 Lavaca in June of 2014. Unlike the expanded hours of The Hideout Coffee House, the Coffee Bar is only open Monday-Friday from 7am until 3pm.
 
@@ -71,16 +71,16 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 
 ## Media
 ### Videos
-* [http://www.viddler.com/v/92d2eec8 A "tribute video"] by [[Troy Miller]] from 2009.
-* [http://vimeo.com/81069788 Theater promo] from 2013.
+* [A "tribute video"](http://www.viddler.com/v/92d2eec8) by [[Troy Miller]] from 2009.
+* [Theater promo](http://vimeo.com/81069788) from 2013.
 
 ## More Information
-* [http://www.hideouttheatre.com/blog The Hideout's blog.]
-* [http://www.hideouttheatre.com/the-making-of-the-hideout-logo The history of the Hideout's logo.]
+* [The Hideout's blog.](http://www.hideouttheatre.com/blog)
+* [The history of the Hideout's logo.](http://www.hideouttheatre.com/the-making-of-the-hideout-logo)
 * [[The Hideout Text Adventure|A text adventure written about the Hideout.]]
-* [http://yesandrew.com/2014/03/25/austin-improv-theaters-as-modern-american-humorists-day-2-the-hideout/ Post about the theater] by [[Andrew Buck]].
-* [http://yesandrew.com/in-praise-of-the-hideout-theatre/ "In Praise Of"] post by [[Andrew Buck]].
-* [http://www.hideouttheatre.com/happy-unification-day A blogpost about the 11/1/12 "unification day"], when the upstairs theater, the downstairs theater, and the coffeehouse were united under the Hideout management.
+* [Post about the theater](http://yesandrew.com/2014/03/25/austin-improv-theaters-as-modern-american-humorists-day-2-the-hideout/) by [[Andrew Buck]].
+* ["In Praise Of"](http://yesandrew.com/in-praise-of-the-hideout-theatre/) post by [[Andrew Buck]].
+* [A blogpost about the 11/1/12 "unification day"](http://www.hideouttheatre.com/happy-unification-day), when the upstairs theater, the downstairs theater, and the coffeehouse were united under the Hideout management.
 
 ## Notes
 <references/>

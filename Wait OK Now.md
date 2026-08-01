@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Wait OK Now.jpg">Wait OK Now.jpg</a>
+				![[Wait OK Now.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,9 +85,9 @@ They are currently on indefinite hiatus.
 
 ## Media
 ### Videos
-* [http://vimeo.com/49554643 Video] by [[Dave Alley]] of their 9/15/12 show.
+* [Video](http://vimeo.com/49554643) by [[Dave Alley]] of their 9/15/12 show.
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.423932184294949.95441.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/31/12 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.423932184294949.95441.100000345135257&type=3) by [[Claudio Fox]] that includes their 5/31/12 performance at [[Salvage Vanguard Theater]].
 
 [[Category/Troupes|Category:Troupes]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The New Game Project Pic.jpg">The New Game Project Pic.jpg</a>
+				![[The New Game Project Pic.jpg]]
 			</td>
 		</tr>
 
@@ -62,12 +62,12 @@ It was part of [[The 44-Hour Improv Marathon]]
 
 ## Media
 ### Videos
-* [http://vimeo.com/47767437 Their 8/16/12 performance] in *[[The Free Fringe]]*.
+* [Their 8/16/12 performance](http://vimeo.com/47767437) in *[[The Free Fringe]]*.
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3 Photoset] by [[Peter Rogers]] of their 1/5/12 performance at *[[The Free Fringe]]*.
-** [http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3 Another photoset] by [[Michael Yew]] that includes the same show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Peter Rogers]] of their 1/5/12 performance at *[[The Free Fringe]]*.
+** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3) by [[Michael Yew]] that includes the same show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
 
 [[Category/Active|Category:Active]]
 [[Category/Shows|Category:Shows]]

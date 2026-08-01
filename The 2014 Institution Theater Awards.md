@@ -128,12 +128,12 @@ Tom Booker gave out four appreciation awards in the ceremony, to the following p
 
 ## Media
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.712689492085882.1073741882.100000345135257&type=3 Photoset] by [[Claudio Fox]].
-* [http://www.facebook.com/media/set/?set=a.685260251537494.1073741962.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.712689492085882.1073741882.100000345135257&type=3) by [[Claudio Fox]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.685260251537494.1073741962.221927764537414&type=3) by [[Steve Rogers]].
 
 ### Videos
-* [http://www.youtube.com/watch?v=1khtgKzALQI Announcement of the 2014 nominees.]
+* [Announcement of the 2014 nominees.](http://www.youtube.com/watch?v=1khtgKzALQI)
 
 ## More Information
-* [http://kwiksurveys.com/app/rendersurvey.asp?sid=vea2jzup0xcfbqt297803&refer=tinyurl%2Ecom The voting page.]
-* [http://www.facebook.com/events/1385637194990406/ The ceremony's facebook event.]
+* [The voting page.](http://kwiksurveys.com/app/rendersurvey.asp?sid=vea2jzup0xcfbqt297803&refer=tinyurl%2Ecom)
+* [The ceremony's facebook event.](http://www.facebook.com/events/1385637194990406/)

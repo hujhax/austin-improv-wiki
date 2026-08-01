@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Clickclickwhir.jpg">Clickclickwhir.jpg</a>
+				![[Clickclickwhir.jpg]]
 			</td>
 		</tr>
 
@@ -116,7 +116,7 @@ Powered by newfangled inventions and a percussive soundtrack created by the cast
 * Sound Effects: [[Paul Henderson]]
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/clickclickwhir The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/clickclickwhir)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

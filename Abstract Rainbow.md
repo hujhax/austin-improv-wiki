@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Abstract Rainbow.jpg">Abstract Rainbow.jpg</a>
+				![[Abstract Rainbow.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We're a comedy variety act that performs improv and sketch using song, dance and puppetry. <br>We have an opening song and dance number, then we alternate between improvised scenes, scripted sketches with puppets, improvised songs and dances and scripted songs and dances.</blockquote>
 
 ## More Information
-* [http://www.abstractrainbow.com The troupe's web site.]
+* [The troupe's web site.](http://www.abstractrainbow.com)
 
 
 [[Category/Troupes|Category:Troupes]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Reframed.jpg">Reframed.jpg</a>
+				![[Reframed.jpg]]
 			</td>
 		</tr>
 
@@ -115,11 +115,11 @@ The show runs for three days in January -- 1/4/14, 1/10/14, and 1/11/14 -- at 8p
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.590197414382275.1073741865.118587218209966&type=1 Photoset] by [[Roy Moore]] of the 1/4/14 premiere.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.699919460029552.1073741878.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 1/10/14 and 1/11/14 performances.
-* [http://www.facebook.com/media/set/?set=a.675866805810172.1073741956.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/2/14 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.590197414382275.1073741865.118587218209966&type=1) by [[Roy Moore]] of the 1/4/14 premiere.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.699919460029552.1073741878.100000345135257&type=3) by [[Claudio Fox]] of the 1/10/14 and 1/11/14 performances.
+* [Photoset](http://www.facebook.com/media/set/?set=a.675866805810172.1073741956.221927764537414&type=3) by [[Steve Rogers]] of the 2/2/14 performance.
 
 ## More Information
-* [http://www.austinchronicle.com/arts/2014-01-10/reframed/ Review of the show] by Stacy Alexander Evans in *[[The Austin Chronicle]]*.
+* [Review of the show](http://www.austinchronicle.com/arts/2014-01-10/reframed/) by Stacy Alexander Evans in *[[The Austin Chronicle]]*.
 
 [[Category/Shows|Category:Shows]]

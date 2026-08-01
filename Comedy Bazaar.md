@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Comedy Bazaar.jpg">Comedy Bazaar.jpg</a>
+				![[Comedy Bazaar.jpg]]
 			</td>
 		</tr>
 
@@ -50,9 +50,9 @@ The show premiered on Fridays at midnight at [[ColdTowne Theater]] in March of 2
 
 
 ### Publicity
-* [http://youtu.be/y6dXQnrDCm8 "Sexy Halloween" promo.]
+* ["Sexy Halloween" promo.](http://youtu.be/y6dXQnrDCm8)
 
 ## More Information
-* [http://www.youtube.com/user/ComedyBazaarAustin?feature=watch The show's youtube channel.]
+* [The show's youtube channel.](http://www.youtube.com/user/ComedyBazaarAustin?feature=watch)
 
 [[Category/Shows|Category:Shows]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Deep Turtle.jpg">Deep Turtle.jpg</a>
+				![[Deep Turtle.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,11 +85,11 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 1/8/15 debut in *[[The Threefer]]*.
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10207864075466214.1425495839&type=3 Photoset] by [[Jay Mahavier]] of their 8/20/15 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/8/15 debut in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864075466214.1425495839&type=3) by [[Jay Mahavier]] of their 8/20/15 performance in *[[The Threefer]]*.
 
 ## More Information
-* [https://www.facebook.com/deepturtleimprov The troupe's web site.]
+* [The troupe's web site.](https://www.facebook.com/deepturtleimprov)
 
 
 [[Category/Troupes|Category:Troupes]]

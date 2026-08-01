@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="What the F@$.jpg">What the F@$.jpg</a>
+				![[What the F@$.jpg]]
 			</td>
 		</tr>
 
@@ -109,21 +109,21 @@ The cast would then integrate that into the show's second half, when chaos would
 
 ## Media
 ### Videos
-* [http://youtu.be/ga6FUaqWaRA Video] by [[Warren Henderson]] of the 2/1/14 show.
-* [http://youtu.be/O_fRR1yx4qA Video] by [[Warren Henderson]] of the 2/8/14 show.
-* [http://vimeo.com/90447837 Video] by [[Melissa Patterson]] of one of their shows.
-* [http://vimeo.com/91716580 Video] of their 4/10/14 performance in [[The 2014 Improvised Play Festival]].
+* [Video](http://youtu.be/ga6FUaqWaRA) by [[Warren Henderson]] of the 2/1/14 show.
+* [Video](http://youtu.be/O_fRR1yx4qA) by [[Warren Henderson]] of the 2/8/14 show.
+* [Video](http://vimeo.com/90447837) by [[Melissa Patterson]] of one of their shows.
+* [Video](http://vimeo.com/91716580) of their 4/10/14 performance in [[The 2014 Improvised Play Festival]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.679991005397752.1073741961.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/8/14 show.
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104277388036960.1073741853.7909117&type=3 Photoset] by [[Heidi Rogers]] of the 3/1/14 show.
-* [http://www.facebook.com/media/set/?set=a.714029118660607.1073741983.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/10/14 performance in [[The 2014 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.679991005397752.1073741961.221927764537414&type=3) by [[Steve Rogers]] of the 2/8/14 show.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104277388036960.1073741853.7909117&type=3) by [[Heidi Rogers]] of the 3/1/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.714029118660607.1073741983.221927764537414&type=3) by [[Steve Rogers]] of their 4/10/14 performance in [[The 2014 Improvised Play Festival]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewforum.php?f=3 The audition notice] on [[The Austin Improv Forums]], and [http://docs.google.com/spreadsheet/viewform?formkey=dHpzNTQ4clBGV2JCUDZjWW9Idmp1VkE6MA#gid=1 the audition form].
-* [http://www.hideouttheatre.com/fun-at-first-sight Blog post about the rehearsal process] by cast member [[Judith Schomp]].
-* [http://www.hideouttheatre.com/i-heart-wtf Blog post about the premiere] by cast member [[Chris Albano]].
-* [http://www.hideouttheatre.com/carefree-and-fearless Blog post about the show] by cast member [[Lindsay Hejl]].
+* [The audition notice](http://forum.austinimprov.com/viewforum.php?f=3) on [[The Austin Improv Forums]], and [the audition form](http://docs.google.com/spreadsheet/viewform?formkey=dHpzNTQ4clBGV2JCUDZjWW9Idmp1VkE6MA#gid=1).
+* [Blog post about the rehearsal process](http://www.hideouttheatre.com/fun-at-first-sight) by cast member [[Judith Schomp]].
+* [Blog post about the premiere](http://www.hideouttheatre.com/i-heart-wtf) by cast member [[Chris Albano]].
+* [Blog post about the show](http://www.hideouttheatre.com/carefree-and-fearless) by cast member [[Lindsay Hejl]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Jessica Arjet Pic.jpg">Jessica Arjet Pic.jpg</a>
+				![[Jessica Arjet Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -50,8 +50,8 @@ She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour 
 * "[[I Love You So Much]]" (Director)
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2628012 Interview] with Jessica on *[[The Theft Forum]]*.
-* [http://yesandrew.com/sunday-interview-jessica-arjet/ Interview] by [[Andrew Buck]].
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2628012) with Jessica on *[[The Theft Forum]]*.
+* [Interview](http://yesandrew.com/sunday-interview-jessica-arjet/) by [[Andrew Buck]].
 
 [[Category/Performers|Arjet]]
 [[Category/Teachers|Arjet]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Blank or Bust.jpg">Blank or Bust.jpg</a>
+				![[Blank or Bust.jpg]]
 			</td>
 		</tr>
 
@@ -108,6 +108,6 @@ It was one of the [[Merlin Works Graduation Shows]].
 The show ran as part of *[[The Saturday Night Special]]* in October 2010, starting on 10/9/10 and continuing through to 10/30/10.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11189&p=98103 Show announcement] on [[The Austin Improv Forums]].
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=11189&p=98103) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

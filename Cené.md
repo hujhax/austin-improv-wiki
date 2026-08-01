@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Cene pic.jpg">Cene pic.jpg</a>
+				![[Cene pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -36,5 +36,5 @@
 
 
 ## Links
-[http://cenehale.com Cené's website]
+[Cené's website](http://cenehale.com)
 [[Category/Performers|Cene]]

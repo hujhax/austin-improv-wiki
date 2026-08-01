@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Couchsurfers.png">The Couchsurfers.png</a>
+				![[The Couchsurfers.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -105,7 +105,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 </blockquote>
 
 ## More Information
-* [http://www.facebook.com/thecouchsurfersimprov The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/thecouchsurfersimprov)
 
 
 [[Category/Troupes|Couchsurfers]]

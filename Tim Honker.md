@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Tim Honker headshot.jpg">Tim Honker headshot.jpg</a>
+				![[Tim Honker headshot.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -51,8 +51,8 @@ Tim moved to Boston and now performs at Union Theater in Somerville, Massachuset
 * Charleston Comedy Festival ([[ColdTowne Tour Co]] 2010)
 
 ## External Links
-* [https://www.facebook.com/NiceAstronaut Nice Astronaut Facebook Page]
-* [https://www.facebook.com/TownsvilleComedy Townsville Facebook Page]
-* [https://www.austinchronicle.com/arts/2009-08-07/819345/ Dear Frailty review]
+* [Nice Astronaut Facebook Page](https://www.facebook.com/NiceAstronaut)
+* [Townsville Facebook Page](https://www.facebook.com/TownsvilleComedy)
+* [Dear Frailty review](https://www.austinchronicle.com/arts/2009-08-07/819345/)
 
 [[Category/Performers|Honker]]

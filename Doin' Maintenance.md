@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Doin Maintenance.jpg">Doin Maintenance.jpg</a>
+				![[Doin Maintenance.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We do montages and usually tell some stories as well</blockquote>
 
 ## More Information
-* [http://www.facebook.com/doinmaintenance The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/doinmaintenance)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

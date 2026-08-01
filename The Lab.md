@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Lab.jpg">The Lab.jpg</a>
+				![[The Lab.jpg]]
 			</td>
 		</tr>
 
@@ -48,7 +48,7 @@
 The show is free to attend, and runs 9:30pm-10:30pm the third Wednesday of every month.
 
 ## More Information
-* [http://www.newmovementtheater.com/details/?mc_id=13626 The show's web page.]
+* [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13626)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

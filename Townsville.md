@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Townsville-duoposter1.jpg">Townsville-duoposter1.jpg</a>
+				![[Townsville-duoposter1.jpg]]
 			</td>
 		</tr>
 
@@ -149,7 +149,7 @@
 	</table>
 </div>
 
-**Townsville** is a [http://wiki.improvresourcecenter.com/index.php?title=Close_Quarters Close Quarters] sketch comedy show created by Tim and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles and crew as needed for each script.
+**Townsville** is a [Close Quarters](http://wiki.improvresourcecenter.com/index.php?title=Close_Quarters) sketch comedy show created by Tim and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles and crew as needed for each script.
 
 ## Format
 Townsville is a scripted version of the improv format Close Quarters.  Each Townsville script takes place in a single location (typically a building or business) over a short period of time (typically under an hour) in the fictional Austin suburb of Townsville, Texas.  Each script is titled after the location where the show takes place.

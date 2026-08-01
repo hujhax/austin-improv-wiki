@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Courtney Hopkin Pic.jpg">Courtney Hopkin Pic.jpg</a>
+				![[Courtney Hopkin Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -55,7 +55,7 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 * *[[Bridgeport Women's Correctional Facility Short Form Players]]*
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=8595&p=74403 Courtney's self-introduction] on the AIC Forums.
-* [http://www.hideouttheatre.com/public-secrets-and-relations Her announcement of her new job doing Hideout public relations] on the Hideout's blog.
+* [Courtney's self-introduction](http://forum.austinimprov.com/viewtopic.php?t=8595&p=74403) on the AIC Forums.
+* [Her announcement of her new job doing Hideout public relations](http://www.hideouttheatre.com/public-secrets-and-relations) on the Hideout's blog.
 
 [[Category/Performers|Hopkin]]

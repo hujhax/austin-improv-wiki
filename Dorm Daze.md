@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Dorm Daze.jpg">Dorm Daze.jpg</a>
+				![[Dorm Daze.jpg]]
 			</td>
 		</tr>
 
@@ -169,4 +169,4 @@ Summary for the second run at The Institution:
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 6/27/15 performance, featuring [[Bad Font]] and [[Empty Promises]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3) by [[Steve Rogers]] of the 6/27/15 performance, featuring [[Bad Font]] and [[Empty Promises]].

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Bryan Lubu Roberts Pic.jpg">Bryan Lubu Roberts Pic.jpg</a>
+				![[Bryan Lubu Roberts Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -63,7 +63,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I was in 
 * *[[TGIS]]* ("Boy Greets World")
 
 ## More Information
-* [http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back An episode] of *[[Got Your Back]]* that includes his lecture "You Suck Forever: Thoughts on Improv Nihilism".
+* [An episode](http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back) of *[[Got Your Back]]* that includes his lecture "You Suck Forever: Thoughts on Improv Nihilism".
 
 [[Category/Performers|Roberts]]
 [[Category/Directors|Roberts]]

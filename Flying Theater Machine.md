@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Flying Theater Machine.jpg">Flying Theater Machine.jpg</a>
+				![[Flying Theater Machine.jpg]]
 			</td>
 		</tr>
 
@@ -223,17 +223,17 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3 Photoset] by [[Peter Rogers]] of their 6/5/10 performance at [[The 40-Hour Improv Marathon]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 10/5/13 performance with [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [http://www.facebook.com/media/set/?set=a.708255795917601.1073741846.473177099425473&type=3 Photoset] by [[Chad Wellington]] of their 10/17/14 show with [[Mister Morbid]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Peter Rogers]] of their 6/5/10 performance at [[The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3) by [[Claudio Fox]] that includes their 10/5/13 performance with [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.708255795917601.1073741846.473177099425473&type=3) by [[Chad Wellington]] of their 10/17/14 show with [[Mister Morbid]].
 
 ## More Information
-* [http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine The show's web site.]
-* [http://forum.austinimprov.com/viewtopic.php?f=13&t=4936 A thread for naming the show] from [[The Austin Improv Forums]].
-* [http://www.hideouttheatre.com/wonderland-is-looking-wonderful A 9/2/09 post about rehearsing their "Wonderland" format.]
-* [http://www.hideouttheatre.com/summer-camp A post about the show's first summer camp.]
-* [http://www.hideouttheatre.com/wow-theater-makes-a-difference A post about the show] by [[Jessica Arjet]].
-** [http://www.hideouttheatre.com/why-the-theater-machine-flies A 12/13/10 video interview with Jessica about the show.]
+* [The show's web site.](http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine)
+* [A thread for naming the show](http://forum.austinimprov.com/viewtopic.php?f=13&t=4936) from [[The Austin Improv Forums]].
+* [A 9/2/09 post about rehearsing their "Wonderland" format.](http://www.hideouttheatre.com/wonderland-is-looking-wonderful)
+* [A post about the show's first summer camp.](http://www.hideouttheatre.com/summer-camp)
+* [A post about the show](http://www.hideouttheatre.com/wow-theater-makes-a-difference) by [[Jessica Arjet]].
+** [A 12/13/10 video interview with Jessica about the show.](http://www.hideouttheatre.com/why-the-theater-machine-flies)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

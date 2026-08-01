@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Curtis Luciani Pic.jpg">Curtis Luciani Pic.jpg</a>
+				![[Curtis Luciani Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -46,7 +46,7 @@ Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41
 * *[[Who Is T. Henry Baudecliffe]]* (co-director)
 
 ## Media
-* [http://youtu.be/buYJ8CoEZPQ A video] of Curtis roasting [[Tom Booker]] at [[The 2011 Out of Bounds Comedy Festival]].
+* [A video](http://youtu.be/buYJ8CoEZPQ) of Curtis roasting [[Tom Booker]] at [[The 2011 Out of Bounds Comedy Festival]].
 
 [[Category/Performers|Luciani]]
 [[Category/Directors|Luciani]]

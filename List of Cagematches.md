@@ -71,8 +71,8 @@ This was the very first Cagematch tournament.
 * 6/22/07: **[[The Starter Kit]]** vs. [[A Bride Soon]]
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=6&t=3594&p=28896&hilit=seufert#p28896 Request for a second team for the 5/4/07 show.]
-* [http://youtu.be/sFxqW1-4gtA Video promo for the tournament.]
+* [Request for a second team for the 5/4/07 show.](http://forum.austinimprov.com/viewtopic.php?f=6&t=3594&p=28896&hilit=seufert#p28896)
+* [Video promo for the tournament.](http://youtu.be/sFxqW1-4gtA)
 
 ## Jun-Jul 2007
 There are no records of a tournament for June/July 2007, but timing indicates that there must have been one.
@@ -92,9 +92,9 @@ There are no records of a tournament for June/July 2007, but timing indicates th
 There are no more known matches for this tournament.
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=42647 Registration announcement] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=44492 Bracket discussion] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=51162 Semifinal announcement] on [[The Austin Improv Forums]].
+* [Registration announcement](http://forum.austinimprov.com/viewtopic.php?p=42647) on [[The Austin Improv Forums]].
+* [Bracket discussion](http://forum.austinimprov.com/viewtopic.php?p=44492) on [[The Austin Improv Forums]].
+* [Semifinal announcement](http://forum.austinimprov.com/viewtopic.php?p=51162) on [[The Austin Improv Forums]].
 
 ## 2/28/08-5/22/08 ("Legacy of Shame")
 ### Ad Hoc Troupes
@@ -119,8 +119,8 @@ There are no more known matches for this tournament.
 * 5/22/08: **[[Dick Rambuck]]** vs. [[Jocks and Nerds]]
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=6271&p=54335 Bracket discussion] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=6914 Championship announcement] on [[The Austin Improv Forums]].
+* [Bracket discussion](http://forum.austinimprov.com/viewtopic.php?t=6271&p=54335) on [[The Austin Improv Forums]].
+* [Championship announcement](http://forum.austinimprov.com/viewtopic.php?t=6914) on [[The Austin Improv Forums]].
 
 ## Late-2008 Tournaments
 * 8/14/08: [[Werewolf Birthday]] vs. [[Antique Limax]] vs. [[Race Card]] (semifinal)
@@ -145,7 +145,7 @@ The six-month gap in the record suggests that three complete tournaments took pl
 * 2/27/09: **[[Your Dad's Friends]]** vs. [[Uncle Dan]]
 
 ### More Information
-* [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Theater%20of%20Cruelty Online bracket info.]
+* [Online bracket info.](http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Theater%20of%20Cruelty)
 
 ## 3/14/09-4/25/09 ("Plagues of the Beast")
 ### Matches
@@ -164,7 +164,7 @@ Nothing is known about the other two quarterfinals.
 * 4/25/09: **[[Twelve Inch Integrity]]** vs. ???
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=8880 Bracket listings] on [[The Austin Improv Forums]].
+* [Bracket listings](http://forum.austinimprov.com/viewtopic.php?t=8880) on [[The Austin Improv Forums]].
 
 ## 5/2/09-6/27/09 ("Slash of the Talons!")
 ### Ad Hoc Troupes
@@ -187,8 +187,8 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 * 5/30/09: Blokes with Jokes vs. [[No Chaser]]
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=9032 Bracket listings] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=9297 Championship announcement] on [[The Austin Improv Forums]].
+* [Bracket listings](http://forum.austinimprov.com/viewtopic.php?t=9032) on [[The Austin Improv Forums]].
+* [Championship announcement](http://forum.austinimprov.com/viewtopic.php?t=9297) on [[The Austin Improv Forums]].
 
 ## 7/11/09-8/29/09 ("Feud of Fury")
 ### Ad Hoc Troupes
@@ -235,7 +235,7 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 ** "That's My Retarded Brother" ([[Patrick Knisely]] and [[David Meyers]]) were schedule to play against ZombieProv, but Mr. Meyers got sick that day.
 
 ### More Information
-* [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=War%20Forms%20of%20Dangerous%20Curves Online bracket info.]
+* [Online bracket info.](http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=War%20Forms%20of%20Dangerous%20Curves)
 
 ## 11/7/09-12/19/09 ("Rise of the Curmudgeoned")
 ### Matches
@@ -253,11 +253,11 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 * 12/19/09: [[Pretty Jack Jaybird]] vs. **[[Achatina Achatina]]**
 
 ### More Information
-* [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Rise%20of%20the%20Curmudgeoned Online bracket info.]
+* [Online bracket info.](http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Rise%20of%20the%20Curmudgeoned)
 
 ## 1/8/10-2/26/10
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11386 Registration announcement] on [[The Austin Improv Forums]].
+* [Registration announcement](http://forum.austinimprov.com/viewtopic.php?t=11386) on [[The Austin Improv Forums]].
 
 
 ## 3/6/10-4/23/10 ("Frank Herbert's Dune")
@@ -279,7 +279,7 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 * 3/20/10: [[Achatina Achatina]] vs. [[Death Comet 300]]
 
 ### More Information
-* [http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Frank%20Herbert%27s%20Dune Online bracket info.]
+* [Online bracket info.](http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=Frank%20Herbert%27s%20Dune)
 
 ## 5/8/10-6/26/10 ("Tournament of Champions")
 This tournament featured the champions of previous tournaments.
@@ -299,7 +299,7 @@ This tournament featured the champions of previous tournaments.
 * 6/26/10: **[[You're in Big Trouble, Mister!]]** vs. [[Achatina Achatina]]
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=92980 Thread about the tournament] on [[The Austin Improv Forums]].
+* [Thread about the tournament](http://forum.austinimprov.com/viewtopic.php?p=92980) on [[The Austin Improv Forums]].
 
 ## 7/3/10-9/11/10
 ### Matches
@@ -322,7 +322,7 @@ This tournament featured the champions of previous tournaments.
 * 7/31/10: [[Blink]] vs. [[Discomfort Trumpet]]
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=10817 Registration announcment] on [[The Austin Improv Forums]].
+* [Registration announcment](http://forum.austinimprov.com/viewtopic.php?f=2&t=10817) on [[The Austin Improv Forums]].
 
 ## 9/18/10-Jan 2011 ("King of the Hill" Cagematches)
 Through this section of its history, the show reverted to their "King of the Hill" format, where the winner from one week's show came back for the next.
@@ -332,7 +332,7 @@ Through this section of its history, the show reverted to their "King of the Hil
 * 9/25/10: [[Jorak and Jorak Do Movie]] vs. [[Dragons]]
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=97418 Format-change announcement] on [[The Austin Improv Forums]].
+* [Format-change announcement](http://forum.austinimprov.com/viewtopic.php?p=97418) on [[The Austin Improv Forums]].
 
 ## Jan 2011-3/5/11
 Nothing is known of this tournament besides that "Stabby Jake" were the winners.
@@ -353,14 +353,14 @@ Nothing is known of this tournament besides that "Stabby Jake" were the winners.
 * 6/25/11: [[Who Dack]] vs. **[[The British Knights]]**
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11869 Thread about the tournament] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=12012 Championship announcement] on [[The Austin Improv Forums]].
+* [Thread about the tournament](http://forum.austinimprov.com/viewtopic.php?t=11869) on [[The Austin Improv Forums]].
+* [Championship announcement](http://forum.austinimprov.com/viewtopic.php?t=12012) on [[The Austin Improv Forums]].
 
 ## 7/2/11-8/27/11
 All that's known of this tournament is the set of show dates.
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=12012 Registration announcement] on [[The Austin Improv Forums]].
+* [Registration announcement](http://forum.austinimprov.com/viewtopic.php?t=12012) on [[The Austin Improv Forums]].
 
 ## 9/9/11-10/28/11 ("Pretty Pretty Ponies of Death")
 ### Matches
@@ -374,8 +374,8 @@ All that's known of this tournament is the set of show dates.
 Nothing is known of this tournament besides that [[The Box Social]] were the champions.
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=12329 Registration announcement] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=12377 Thread about the tournament] on [[The Austin Improv Forums]].
+* [Registration announcement](http://forum.austinimprov.com/viewtopic.php?t=12329) on [[The Austin Improv Forums]].
+* [Thread about the tournament](http://forum.austinimprov.com/viewtopic.php?t=12377) on [[The Austin Improv Forums]].
 
 ## Nov 2011-1/6/12
 All that's known of this tournament is that it was won by "Beertown Beers" on 1/6/12.
@@ -403,7 +403,7 @@ In this tournament, each quarterfinal pitted *three* troupes against one another
 * 6/29/12: **[[Dry Weave]]** vs. ???
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=13428 Tournament announcment] on [[The Austin Improv Forums]].
+* [Tournament announcment](http://forum.austinimprov.com/viewtopic.php?t=13428) on [[The Austin Improv Forums]].
 
 ## Jul/Aug 2012
 There are no records of a Cagematch in this period, but it seems logical that there was a tournament during this two-month gap.
@@ -434,8 +434,8 @@ There are no records of a Cagematch in this period, but it seems logical that th
 * 9/5/12: Sococonuts vs. Reality (tie)
 
 ### More Information
-* [http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/324774377618345/?type=1&relevant_count=1 Bracket graphic] from the Cagematch facebook group.
-* [http://forum.austinimprov.com/viewtopic.php?t=13990&p=124676 Tournament announcement] on [[The Austin Improv Forums]].
+* [Bracket graphic](http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/324774377618345/?type=1&relevant_count=1) from the Cagematch facebook group.
+* [Tournament announcement](http://forum.austinimprov.com/viewtopic.php?t=13990&p=124676) on [[The Austin Improv Forums]].
 
 ## 10/31/12-12/19/12 ("Death & Taxes")
 ### Matches
@@ -456,15 +456,15 @@ There are no records of a Cagematch in this period, but it seems logical that th
 * 11/28/12: [[Texas Jim Crago]] vs. [[Toby Keith and the French Guy]]
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=14221 Bracket discussion] on [[The Austin Improv Forums]].
-** Note that this information was inconsistent with contemporaneous records from [http://www.facebook.com/ColdTowneCageMatch the facebook group], which are more likely to be accurate.
+* [Bracket discussion](http://forum.austinimprov.com/viewtopic.php?f=2&t=14221) on [[The Austin Improv Forums]].
+** Note that this information was inconsistent with contemporaneous records from [the facebook group](http://www.facebook.com/ColdTowneCageMatch), which are more likely to be accurate.
 
 ## 1/2/13 (One-Off Exhibition Match)
 ### Exhibition
 * 1/2/13: [[Lucy]] vs. [[Bangs]] vs. [[Tall, Dark & Handsome]]
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=14437 Request for troupes for the 1/2/13 match] on [[The Austin Improv Forums]].
+* [Request for troupes for the 1/2/13 match](http://forum.austinimprov.com/viewtopic.php?t=14437) on [[The Austin Improv Forums]].
 
 ## 1/23/13-3/13/13 ("Pourin' Like an Avalanche Comin' Down the Mountain")
 ### Matches
@@ -486,8 +486,8 @@ There are no records of a Cagematch in this period, but it seems logical that th
 ** These were the two halves of [[ColdTowne]]'s upcoming *[[Sci-Fi Saturdays]]* show.
 
 ### More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=14612 Bracket discussion] on [[The Austin Improv Forums]].
-* [http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/378472728915176/?type=1&relevant_count=1 Bracket image] from the facebook group.
+* [Bracket discussion](http://forum.austinimprov.com/viewtopic.php?f=2&t=14612) on [[The Austin Improv Forums]].
+* [Bracket image](http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/378472728915176/?type=1&relevant_count=1) from the facebook group.
 
 ## 3/20/13-5/1/13 ("March Madness")
 This tournament featured not two but *three* competing troupes in each quarterfinal.  All the troupes in this tournament were duos.
@@ -514,7 +514,7 @@ All that's known about the semifinals is that they happened on 4/17/13 and 4/24/
 * 4/29/13: **[[Gioboozeman Party]]** vs. Monday Monday
 
 ### More Information
-* [http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/407840175978431/?type=1&permPage=1 Bracket image] from the facebook group.
+* [Bracket image](http://www.facebook.com/ColdTowneCageMatch/photos/a.428226877273094.1073741825.320334281395688/407840175978431/?type=1&permPage=1) from the facebook group.
 
 ## 5/8/13-7/3/13
 ### Ad Hoc Troupes
@@ -542,7 +542,7 @@ All that's known of the championship is that [[Duran & Johnson]] (then known as 
 * 6/26/13: [[Pep!]] vs. Private Piles
 
 ### More Information
-* [https://www.facebook.com/ColdTowneCageMatch/photos/a.324774374285012.72006.320334281395688/428400217255760/?type=1&relevant_count=1 Bracket image] from the facebook group.
+* [Bracket image](https://www.facebook.com/ColdTowneCageMatch/photos/a.324774374285012.72006.320334281395688/428400217255760/?type=1&relevant_count=1) from the facebook group.
 
 ## 7/10/13-8/28/13 ("Bit-tle Royale")
 ### Ad Hoc Troupes
@@ -629,8 +629,8 @@ The championship rounds were advertised under the name "Highway to Del".
 None of the winners are known.
 
 ### More Information
-* [https://www.facebook.com/events/503488303092623/?ref=22 Facebook event for the tournament.]
-* [https://www.facebook.com/events/188729211325008/ Facebook event for the championship.]
+* [Facebook event for the tournament.](https://www.facebook.com/events/503488303092623/?ref=22)
+* [Facebook event for the championship.](https://www.facebook.com/events/188729211325008/)
 
 ## 4/30/14-6/25/14 ("Let's Get Sweaty")
 ### Ad Hoc Troupes
@@ -657,7 +657,7 @@ None of the winners are known.
 ** This consisted of four 15-minute shows, with the winner promised a spot in the next *Cagematch*.
 
 ### More Information
-* [https://docs.google.com/spreadsheets/d/1yWoqVZJKSk8Uur9W2BBFNy5lG6frE1zlJSkd5455vIs/edit#gid=0 Online bracketing info].
+* [Online bracketing info](https://docs.google.com/spreadsheets/d/1yWoqVZJKSk8Uur9W2BBFNy5lG6frE1zlJSkd5455vIs/edit#gid=0).
 
 
 ## 7/2/14-8/20/14 ("Who Wants Some Stakes?")
@@ -673,4 +673,4 @@ None of the winners are known.
 ** This consisted of four 15-minute shows, with the winner promised a spot in the next *Cagematch*.
 
 ### More Information
-* [https://docs.google.com/spreadsheets/d/1yWoqVZJKSk8Uur9W2BBFNy5lG6frE1zlJSkd5455vIs/edit#gid=0 Online bracketing info].
+* [Online bracketing info](https://docs.google.com/spreadsheets/d/1yWoqVZJKSk8Uur9W2BBFNy5lG6frE1zlJSkd5455vIs/edit#gid=0).

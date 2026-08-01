@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Beans Beans (the musical troupe).jpg">Beans Beans (the musical troupe).jpg</a>
+				![[Beans Beans (the musical troupe).jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>We create musical commentary based on improv scenes inspired by audience suggestions. We are a capella, so our music is all vocal. </blockquote>
 
 ## More Information
-* [https://www.facebook.com/BeansBeansTheMusicalTroupe The troupe's web site.]
+* [The troupe's web site.](https://www.facebook.com/BeansBeansTheMusicalTroupe)
 
 
 [[Category/Troupes|Category:Troupes]]

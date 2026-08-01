@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="PhysicsCurseMooseBooth2014.jpg">PhysicsCurseMooseBooth2014.jpg</a>
+				![[PhysicsCurseMooseBooth2014.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,8 +80,8 @@
 Based out of Austin, Texas, Physics Curse explores the intricacies of relationships with a fast-paced sometimes absurd improv format that starts with a simple compliment between troupe members. Focused on positivity, meaningful character connections and high energy, Physics Curse has amazing chemistry and is not afraid to experiment.
 
 ## More Information
-* [https://www.facebook.com/physicscurse?fref=ts Physics Curse Facebook Page]
-* [https://physicscurse.squarespace.com/ Physics Curse website]
+* [Physics Curse Facebook Page](https://www.facebook.com/physicscurse?fref=ts)
+* [Physics Curse website](https://physicscurse.squarespace.com/)
 
 
 [[Category/Troupes|Physics Curse]]

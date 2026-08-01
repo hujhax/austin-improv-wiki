@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="183 Dewberry Lane Poster.jpg">183 Dewberry Lane Poster.jpg</a>
+				![[183 Dewberry Lane Poster.jpg]]
 			</td>
 		</tr>
 
@@ -165,7 +165,7 @@ From the show announcement:<blockquote>Don't Blink.  Don't Sleep.  There's Somet
 </blockquote>
 
 ## More Information
-* [https://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000 The show announcement] on the Hideout's facebook group.
+* [The show announcement](https://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Delta Burka.jpg">Delta Burka.jpg</a>
+				![[Delta Burka.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/10/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 2/10/11 performance at [[The Hideout Theatre]].
 
 ## More Information
-* [http://www.facebook.com/#!/pages/Delta-Burka/135068919871876 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/#!/pages/Delta-Burka/135068919871876)
 
 
 [[Category/Troupes|Category:Troupes]]

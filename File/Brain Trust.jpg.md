@@ -3,7 +3,7 @@ A performance by [[Brain Trust]].
 
 Photo by: unknown.
 
-Taken from [http://www.facebook.com/braintrustimprov the troupe's facebook page].
+Taken from [the troupe's facebook page](http://www.facebook.com/braintrustimprov).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

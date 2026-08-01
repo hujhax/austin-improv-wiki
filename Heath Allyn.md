@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Heath-vip.jpg">Heath-vip.jpg</a>
+				![[Heath-vip.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -38,10 +38,10 @@ It is posited (but as of yet, scientifically unproven) that Heath is cool as hel
 * *[[This American Live]]*
 
 ## External Links
-* [http://www.heathallyn.com Heath's website]
-* [http://www.facebook.com/heathmusic Heath's public Facebook page]
-* [http://www.twitter.com/heathallyn Heath's twitter]
-* [http://www.imdb.me/heathallyn Heath's IMDB page]
-* [http://www.youtube.com/nos402 Heath's YouTube channel]
+* [Heath's website](http://www.heathallyn.com)
+* [Heath's public Facebook page](http://www.facebook.com/heathmusic)
+* [Heath's twitter](http://www.twitter.com/heathallyn)
+* [Heath's IMDB page](http://www.imdb.me/heathallyn)
+* [Heath's YouTube channel](http://www.youtube.com/nos402)
 
 [[Category/Performers|Allyn]]

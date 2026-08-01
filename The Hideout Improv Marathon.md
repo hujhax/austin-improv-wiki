@@ -136,4 +136,4 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 |}
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/improvmarathon The marathon's web page.]
+* [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)

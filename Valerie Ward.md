@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Valerie Ward.jpg">Valerie Ward.jpg</a>
+				![[Valerie Ward.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -63,9 +63,9 @@ Past:
 * [[Dudith]]
 
 ## More Information
-* [http://yesandrew.com/2014/06/29/the-sunday-interview-valerie-ward/ Interview] by [[Andrew Buck]].
-* [http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short An interview] from *[[Got Your Back]]* on the topic of "Audition Advice for Improvisors".
-* In addition to her improv activities, Valerie is co-owner of [http://www.sweetritual.com/ Sweet Ritual Vegan Ice Cream Parlor].
+* [Interview](http://yesandrew.com/2014/06/29/the-sunday-interview-valerie-ward/) by [[Andrew Buck]].
+* [An interview](http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short) from *[[Got Your Back]]* on the topic of "Audition Advice for Improvisors".
+* In addition to her improv activities, Valerie is co-owner of [Sweet Ritual Vegan Ice Cream Parlor](http://www.sweetritual.com/).
 
 [[Category/Performers|Ward]]
 [[Category/Teachers|Ward]]

@@ -1,7 +1,7 @@
 ## Summary
 [[MmmmK]], playing in Honolulu's 2011 Improvaganza festival.
 
-Photo by: unknown, from [http://www.facebook.com/media/set/?set=a.325258794217486.73391.151475938262440&type=3 this photoset].
+Photo by: unknown, from [this photoset](http://www.facebook.com/media/set/?set=a.325258794217486.73391.151475938262440&type=3).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

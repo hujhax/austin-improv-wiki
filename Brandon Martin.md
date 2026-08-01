@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Brandon Martin Pic.jpg">Brandon Martin Pic.jpg</a>
+				![[Brandon Martin Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -143,6 +143,6 @@ In 2014, he moved back.
 * *[[Golden (mainstage)|Golden]]*
 
 ## More Information
-* [http://yesandrew.com/the-sunday-interview-brandon-martin/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-brandon-martin/) by [[Andrew Buck]].
 
 [[Category/Performers|Martin]]

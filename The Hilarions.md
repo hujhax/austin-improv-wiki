@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Hilarions.jpg">The Hilarions.jpg</a>
+				![[The Hilarions.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -82,6 +82,6 @@ The Hilarions were the house troupe at [[The Comedy Workshop]].  They performed 
 The troupe disbanded when the club folded.  Chris Bonno and Angela Davis went on to found [[The Laff Staff]] at [[The Laff Stop]].
 
 ## More Information
-* [http://www.austinchronicle.com/arts/2001-01-26/80278/ A history of the Comedy Workshop] by [[Angela Davis]], writing for *The Austin Chronicle*.
+* [A history of the Comedy Workshop](http://www.austinchronicle.com/arts/2001-01-26/80278/) by [[Angela Davis]], writing for *The Austin Chronicle*.
 
 [[Category/Troupes|Hilarions]]

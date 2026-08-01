@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Quadrupeds.jpg">Quadrupeds.jpg</a>
+				![[Quadrupeds.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ And repeat a third time with yet another choice. We try to make sure the stories
 
 ## Media
 ### Videos
-* [http://vimeo.com/126649332 Video] of their performance in the 4/30/15 *[[Free Fringe]]*.
+* [Video](http://vimeo.com/126649332) of their performance in the 4/30/15 *[[Free Fringe]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

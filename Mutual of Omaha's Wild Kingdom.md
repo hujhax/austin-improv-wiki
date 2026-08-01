@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Mutual of Omaha's Wild Kingdom.jpg">Mutual of Omaha's Wild Kingdom.jpg</a>
+				![[Mutual of Omaha's Wild Kingdom.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ In this regard, although we have a set list, more or less, of the sketches we in
 Also, the project is dedicated purely to the pursuit of comedy, and nothing more.</blockquote>
 
 ## More Information
-* [http://www.facebook.com/pages/Mutual-of-Omahas-Wild-Kingdom/105176886229502 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Mutual-of-Omahas-Wild-Kingdom/105176886229502)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

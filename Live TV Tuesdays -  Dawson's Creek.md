@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays - Dawson's Creek.jpg">Live TV Tuesdays - Dawson's Creek.jpg</a>
+				![[Live TV Tuesdays - Dawson's Creek.jpg]]
 			</td>
 		</tr>
 
@@ -97,7 +97,7 @@
 		
 	</table>
 </div>
-***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Dawson's Creek|*Dawson's Creek*]] episode [http://www.imdb.com/title/tt0555187/ "The Longest Day"].
+***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Dawson's Creek|*Dawson's Creek*]] episode ["The Longest Day"](http://www.imdb.com/title/tt0555187/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *Dawson's Creek".
@@ -119,8 +119,8 @@ It played exclusively at [[The Highball]].
 * Stage Manager -- [[Britney Salyer]]
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3 A photoset] by [[Michael Yew]] that includes photos of the 5/24/11 performance.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes photos of the 5/24/11 performance.
 * [[File/DawsonsProgram.jpg|The show's program.]]
 
 ## More Information
-* [https://www.facebook.com/events/152475268155249/ One of the facebook-event pages for the show.]
+* [One of the facebook-event pages for the show.](https://www.facebook.com/events/152475268155249/)

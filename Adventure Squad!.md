@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Adventure Squad!.jpg">Adventure Squad!.jpg</a>
+				![[Adventure Squad!.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,15 +88,15 @@ We did this for our first show, and it was awesome, but later we took out the me
 
 ## Media
 ### Videos
-* [http://youtu.be/na9XqTDPMZw&feature=youtu.be Video of their intro dance] at [[The 2009 Ladies Are Funny Festival]].
-* [http://vimeo.com/channels/austinimprov/41966976 Video] of their 5/10/12 performance at [[The 2012 Ladies Are Funny Festival]].
+* [Video of their intro dance](http://youtu.be/na9XqTDPMZw&feature=youtu.be) at [[The 2009 Ladies Are Funny Festival]].
+* [Video](http://vimeo.com/channels/austinimprov/41966976) of their 5/10/12 performance at [[The 2012 Ladies Are Funny Festival]].
 
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.121897767891255.30354.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their performance at [[The 2011 Ladies Are Funny Festival]].
-* [http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 5/10/12 performance at [[The 2012 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.121897767891255.30354.100002130980897&type=3) by [[Steve Rogers]] that includes their performance at [[The 2011 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3) by [[Roy Moore]] that includes their 5/10/12 performance at [[The 2012 Ladies Are Funny Festival]].
 
 ### Publicity
-* [http://forum.austinimprov.com/viewtopic.php?t=9054 Photos] on [[The Austin Improv Forums]] previewing their appearance at [[The 2009 Ladies Are Funny Festival]].
+* [Photos](http://forum.austinimprov.com/viewtopic.php?t=9054) on [[The Austin Improv Forums]] previewing their appearance at [[The 2009 Ladies Are Funny Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

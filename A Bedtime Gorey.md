@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="A Bedtime Gorey.jpg">A Bedtime Gorey.jpg</a>
+				![[A Bedtime Gorey.jpg]]
 			</td>
 		</tr>
 
@@ -103,7 +103,7 @@ The players then began a monoscene set among heightened, upper-class society typ
 After intermission, the show would restart with a choreographed dance, followed by another shadow scene, a return to the parlor monoscene, and a final shadow story.  The whole performance typically ran about ninety minutes.
 
 ### Tech
-The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from [[Wikipedia - Danny Elfman|Danny Elfman]], [[Wikipedia - Thomas Newman|Thomas Newman]], and [[Wikipedia - Rachel Portman|Rachel Portman]].  The choreographed dance featured a mix of songs chosen by [[Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [http://youtu.be/rAmGsM4Dids Gorey's opening sequence for PBS's *Mystery!*]
+The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from [[Wikipedia - Danny Elfman|Danny Elfman]], [[Wikipedia - Thomas Newman|Thomas Newman]], and [[Wikipedia - Rachel Portman|Rachel Portman]].  The choreographed dance featured a mix of songs chosen by [[Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [Gorey's opening sequence for PBS's *Mystery!*](http://youtu.be/rAmGsM4Dids)
 
 Sound effects were limited to environmental sound effects, with rare effects for actions like gunshots or breaking glass.
 
@@ -115,21 +115,21 @@ A dozen of Austin’s finest improvisers embody that ethos as *A Bedtime Gorey* 
 
 ## Media
 ### Videos
-* Video by [[Warren Henderson]] of a show: [http://youtu.be/JVXKyvqu0cw 1], [http://youtu.be/GNye_JJxLco 2], [http://youtu.be/NorltUxGLzQ 3].
-* [http://youtu.be/WCZauHWmE0s Video] by [[Warren Henderson]] of the 12/28/13 show.
+* Video by [[Warren Henderson]] of a show: [1](http://youtu.be/JVXKyvqu0cw), [2](http://youtu.be/GNye_JJxLco), [3](http://youtu.be/NorltUxGLzQ).
+* [Video](http://youtu.be/WCZauHWmE0s) by [[Warren Henderson]] of the 12/28/13 show.
 
 ### Photos
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.718828708147617.1073741856.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a show.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.711879688842519.1073741853.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the 11/2/13 premiere.
-* [http://cwcreations.smugmug.com/Improv-2013/A-Bedtime-Gorey/20131130/ Photoset] by [[Chad Wellington]] of the 11/30/13 show.
-* [http://www.facebook.com/media/set/?set=a.644621752268011.1073741952.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 12/7/13 performance.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.718828708147617.1073741856.100000614831752&type=3) by [[Warren Henderson]] of a show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.711879688842519.1073741853.100000614831752&type=3) by [[Warren Henderson]] of the 11/2/13 premiere.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/A-Bedtime-Gorey/20131130/) by [[Chad Wellington]] of the 11/30/13 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.644621752268011.1073741952.221927764537414&type=3) by [[Steve Rogers]] of the 12/7/13 performance.
 
 ### Publicity
-* [http://youtu.be/ii545XAl5FU A trailer for the show.]
+* [A trailer for the show.](http://youtu.be/ii545XAl5FU)
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=15503 The audition notice for the show] on [[The Austin Improv Forums]].
-* [http://www.austinchronicle.com/arts/2013-12-06/a-bedtime-gorey/ An article about the show] by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
+* [The audition notice for the show](http://forum.austinimprov.com/viewtopic.php?f=3&t=15503) on [[The Austin Improv Forums]].
+* [An article about the show](http://www.austinchronicle.com/arts/2013-12-06/a-bedtime-gorey/) by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
 
 [[Category/Shows|Bedtime Gorey]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

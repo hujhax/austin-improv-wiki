@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="B-Team.jpg">B-Team.jpg</a>
+				![[B-Team.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -91,7 +91,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.649123725109126.1073741866.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 10/5/13 performance in *[[The Triple Scoop]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.649123725109126.1073741866.100000345135257&type=3) by [[Claudio Fox]] that includes their 10/5/13 performance in *[[The Triple Scoop]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

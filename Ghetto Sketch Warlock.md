@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Ghetto Sketch Warlock.jpg">Ghetto Sketch Warlock.jpg</a>
+				![[Ghetto Sketch Warlock.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -27,13 +27,13 @@
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?feature=player_embedded&v=YYuHqf--FH4 "Eye for an iPhone" rap.]
+* ["Eye for an iPhone" rap.](http://www.youtube.com/watch?feature=player_embedded&v=YYuHqf--FH4)
 
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.126377100776655.32672.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their performance in the 2011 [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.126377100776655.32672.100002130980897&type=3) by [[Steve Rogers]] that includes their performance in the 2011 [[Austin Sketch Fest]].
 
 ## More Information
-* [http://ghettosketchwarlock.com/ The Ghetto Sketch Warlock web site.]
+* [The Ghetto Sketch Warlock web site.](http://ghettosketchwarlock.com/)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Toby Keith and the French Guy.gif">Toby Keith and the French Guy.gif</a>
+				![[Toby Keith and the French Guy.gif]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Two person sitcom format that features the adventures of Toby Keith and a French guy.</blockquote>
 
 ## More Information
-* [http://www.facebook.com/tktfg The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/tktfg)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

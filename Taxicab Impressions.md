@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Taxi Cab Impressions.jpg">Taxi Cab Impressions.jpg</a>
+				![[Taxi Cab Impressions.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,10 +87,10 @@ Current cast members are [[Ryan Hill]], [[Heidi Rogers]], [[Paul Normandin]], [[
 
 ## Media
 ### Videos
-* [http://vimeo.com/71331761 Video] by [[Paul Normandin]] of the 7/27/13 performance at [[The Institution Theater]].
+* [Video](http://vimeo.com/71331761) by [[Paul Normandin]] of the 7/27/13 performance at [[The Institution Theater]].
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.608175565870609.1073741848.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 6/27/13 performance in *[[The Triple Scoop]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.608175565870609.1073741848.100000345135257&type=3) by [[Claudio Fox]] that includes their 6/27/13 performance in *[[The Triple Scoop]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

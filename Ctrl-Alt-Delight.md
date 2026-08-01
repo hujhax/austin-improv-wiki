@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Ctrl-Alt-Delight.jpg">Ctrl-Alt-Delight.jpg</a>
+				![[Ctrl-Alt-Delight.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ## Media
 ## More Information
-* [http://www.facebook.com/CtrlAltDelight The troupe's facebook page.]
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062957 Interview] with the troupe on *[[The Theft Forum]]*.
+* [The troupe's facebook page.](http://www.facebook.com/CtrlAltDelight)
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062957) with the troupe on *[[The Theft Forum]]*.
 
 [[Category/Troupes|Category:Troupes]]

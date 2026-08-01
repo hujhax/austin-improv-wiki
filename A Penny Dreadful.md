@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="A Penny Dreadful.jpg">A Penny Dreadful.jpg</a>
+				![[A Penny Dreadful.jpg]]
 			</td>
 		</tr>
 
@@ -179,18 +179,18 @@ From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - B
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.861837887213062.1073742124.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 12/13/14 performance.
-* [http://cwcreations.smugmug.com/Improv-2014/A-Penny-Dreadful/20150110 Photoset] by [[Chad Wellington]] of the 1/10/15 performance.
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10208136399394142.1073741877.1425495839&type=3 Photoset] by [[Jay Mahavier]] of their 9/24/15 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.861837887213062.1073742124.221927764537414&type=3) by [[Steve Rogers]] of the 12/13/14 performance.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/A-Penny-Dreadful/20150110) by [[Chad Wellington]] of the 1/10/15 performance.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208136399394142.1073741877.1425495839&type=3) by [[Jay Mahavier]] of their 9/24/15 performance in *[[The Threefer]]*.
 
 ### Videos
-* Video of their 12/6/15 show: [http://vimeo.com/148085939 part 1], [http://vimeo.com/148123314 part 2].
+* Video of their 12/6/15 show: [part 1](http://vimeo.com/148085939), [part 2](http://vimeo.com/148123314).
 
 ## More Information
-* [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=17711 The cast announcement] on [[The Austin Improv Forums]].
-* [http://www.hideouttheatre.com/a-penny Hideout blogpost] by [[Troy Miller]] detailing his inspirations for the production.
-* [http://www.keyetv.com/lifestyle/features/austin-lifestyle/stories/hideout-theater-722.shtml Hideout blogpost] advertising the final performance.
+* [The show announcement](http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014) on the Hideout's web site.
+* [The cast announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17711) on [[The Austin Improv Forums]].
+* [Hideout blogpost](http://www.hideouttheatre.com/a-penny) by [[Troy Miller]] detailing his inspirations for the production.
+* [Hideout blogpost](http://www.keyetv.com/lifestyle/features/austin-lifestyle/stories/hideout-theater-722.shtml) advertising the final performance.
 
 [[Category/Shows|Penny Dreadful]]
 [[Category/The Hideout Theatre|Penny Dreadful]]

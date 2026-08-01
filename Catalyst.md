@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Catalyst.jpg">Catalyst.jpg</a>
+				![[Catalyst.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,13 +87,13 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/50891411 Video] of their 10/4/12 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/50891411) of their 10/4/12 performance in *[[The Threefer]]*.
 
 ### Publicity
-* [http://www.facebook.com/media/set/?set=a.359625984123827.86102.335173679902391&type=1 Publicity photos.]
+* [Publicity photos.](http://www.facebook.com/media/set/?set=a.359625984123827.86102.335173679902391&type=1)
 
 ## More Information
-* [http://www.facebook.com/catalystimprov The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/catalystimprov)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

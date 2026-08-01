@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Meal of Sides.jpg">Meal of Sides.jpg</a>
+				![[Meal of Sides.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,11 +87,11 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/84525512 Video of their 1/8/14 show.]
-* [http://vimeo.com/89979277 Video of their 3/19/14 show.]
+* [Video of their 1/8/14 show.](http://vimeo.com/84525512)
+* [Video of their 3/19/14 show.](http://vimeo.com/89979277)
 
 ## More Information
-* [http://www.facebook.com/mealofsides The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/mealofsides)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

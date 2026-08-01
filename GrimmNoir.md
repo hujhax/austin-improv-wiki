@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="GrimmNoir.jpg">GrimmNoir.jpg</a>
+				![[GrimmNoir.jpg]]
 			</td>
 		</tr>
 
@@ -219,22 +219,22 @@ It is returning as a mainstage show at [[The Institution Theater]], running on F
 
 ## Media
 ### Videos
-* [http://vimeo.com/40916902 Video] of their performance in [[The 2012 Improvised Play Festival]].
-* [http://vimeo.com/120262675 Video] by [[Peter Rogers]] of the 2/20/15 show.
-* [http://vimeo.com/120315233 Video] by [[Peter Rogers]] of the 2/21/15 show.
-* [http://vimeo.com/120996265 Video] by [[Peter Rogers]] of the 2/27/15 show.
-* [http://vimeo.com/120987927 Video] by [[Peter Rogers]] of the 2/28/15 show.
-* [http://vimeo.com/121647280 Video] by [[Peter Rogers]] of the 3/6/15 show.
-* [http://vimeo.com/121647279 Video] by [[Peter Rogers]] of the 3/7/15 show.
+* [Video](http://vimeo.com/40916902) of their performance in [[The 2012 Improvised Play Festival]].
+* [Video](http://vimeo.com/120262675) by [[Peter Rogers]] of the 2/20/15 show.
+* [Video](http://vimeo.com/120315233) by [[Peter Rogers]] of the 2/21/15 show.
+* [Video](http://vimeo.com/120996265) by [[Peter Rogers]] of the 2/27/15 show.
+* [Video](http://vimeo.com/120987927) by [[Peter Rogers]] of the 2/28/15 show.
+* [Video](http://vimeo.com/121647280) by [[Peter Rogers]] of the 3/6/15 show.
+* [Video](http://vimeo.com/121647279) by [[Peter Rogers]] of the 3/7/15 show.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their performance in [[The 2012 Improvised Play Festival]].
-* [http://www.facebook.com/media/set/?set=a.778937692174912.1073741914.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 2/20/15 performance.
-* [http://www.facebook.com/media/set/?set=a.911276708935846.1073742157.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/27/15 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203713831509039.1073741931.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/7/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their performance in [[The 2012 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.778937692174912.1073741914.118587218209966&type=3) by [[Roy Moore]] of the 2/20/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.911276708935846.1073742157.221927764537414&type=3) by [[Steve Rogers]] of the 2/27/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203713831509039.1073741931.1315383518&type=3) by [[Michael Yew]] of the 3/7/15 performance.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=17760 The 2014 casting notice] on [[The Austin Improv Forums]].
+* [The 2014 casting notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=17760) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]

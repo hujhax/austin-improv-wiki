@@ -3,7 +3,7 @@
 
 Photo by: unknown.
 
-From [http://www.facebook.com/media/set/?set=a.10150353885654090.375652.273514734089&type=3 this photoset].
+From [this photoset](http://www.facebook.com/media/set/?set=a.10150353885654090.375652.273514734089&type=3).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

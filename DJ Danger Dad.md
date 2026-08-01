@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="DJ Danger Dad.jpg">DJ Danger Dad.jpg</a>
+				![[DJ Danger Dad.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/20273603 "The Fishy Economy".]
+* ["The Fishy Economy".](http://vimeo.com/20273603)
 
 ## More Information
-* [http://www.facebook.com/pages/DJ-Danger-Dad/121437131248667 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/DJ-Danger-Dad/121437131248667)
 
 
 [[Category/Troupes|Category:Troupes]]

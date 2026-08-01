@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="BadCo.jpg">BadCo.jpg</a>
+				![[BadCo.jpg]]
 			</td>
 		</tr>
 
@@ -155,6 +155,6 @@ It was a [[Merlin Works Graduation Show]] that opened the *[[Saturday Night Spec
 
 
 ## Media
-* [http://vimeo.com/34696186 Museum]
+* [Museum](http://vimeo.com/34696186)
 
 [[Category/Shows|Category:Shows]]

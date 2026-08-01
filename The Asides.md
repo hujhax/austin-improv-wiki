@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Asides.jpg">The Asides.jpg</a>
+				![[The Asides.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -93,13 +93,13 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/14188286 Video] of their 8/16/10 performance at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/14188286) of their 8/16/10 performance at [[The Hideout Theatre]].
 
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.163136237100741.43305.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their 8/30/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.163136237100741.43305.100002130980897&type=3) by [[Steve Rogers]] that includes their 8/30/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/TheAsides The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/TheAsides)
 
 [[Category/Troupes|Asides]]
 [[Category/Auto-Generated Troupe Pages|Asides]]

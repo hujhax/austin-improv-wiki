@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Dick Rambuck.jpg">Dick Rambuck.jpg</a>
+				![[Dick Rambuck.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ The duo played [[The Out of Bounds Comedy Festival]] in 2009 and 2010.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3) by [[Steve Rogers]] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

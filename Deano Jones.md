@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Deano jones pic.jpg">Deano jones pic.jpg</a>
+				![[Deano jones pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -29,7 +29,7 @@ He has appeared in [[Michael Joplin]]'s *[[The Family]]*, Hideout mainstage show
 
 As a graphic designer, Deano has created over 200 posters for improv shows in the AIC.
 
-His novel, *[http://www.riseofthecaferacer.com Rise of the Cafe Racer]*, was featured in *[[The Next Chapter]]*.
+His novel, *[Rise of the Cafe Racer](http://www.riseofthecaferacer.com)*, was featured in *[[The Next Chapter]]*.
 
 ## Shows
 * *[[The Andersons]]*
@@ -43,4 +43,4 @@ His novel, *[http://www.riseofthecaferacer.com Rise of the Cafe Racer]*, was fea
 * [[Simply D-Vine]]
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/id/2816451 Interview] on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/id/2816451) on *[[The Theft Forum]]*.

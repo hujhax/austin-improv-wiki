@@ -3,7 +3,7 @@
 
 Photo by: unknown.
 
-Taken from the [[Mike and Irene]] [http://www.facebook.com/mikeandireneimprov facebook page].
+Taken from the [[Mike and Irene]] [facebook page](http://www.facebook.com/mikeandireneimprov).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

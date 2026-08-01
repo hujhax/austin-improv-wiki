@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Kaylalane.png">Kaylalane.png</a>
+				![[Kaylalane.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -49,8 +49,8 @@ A post from her about the first improv show she ever saw:<blockquote><p>My siste
 * *[[The Suitcase]]*
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=21&t=11684 Her self-introduction thread] on [[The AIC Forum]].
-* [http://yesandrew.com/2013/07/05/in-praise-of-kayla-lane-freeman/ "In Praise Of..." post] by [[Karen Jane DeWitt]].
-* [http://www.hideouttheatre.com/marathon-musings-before-leaving-austin A post bidding farewell to Austin] from the Hideout blog.
+* [Her self-introduction thread](http://forum.austinimprov.com/viewtopic.php?f=21&t=11684) on [[The AIC Forum]].
+* ["In Praise Of..." post](http://yesandrew.com/2013/07/05/in-praise-of-kayla-lane-freeman/) by [[Karen Jane DeWitt]].
+* [A post bidding farewell to Austin](http://www.hideouttheatre.com/marathon-musings-before-leaving-austin) from the Hideout blog.
 
 [[Category/Performers|Freeman]]

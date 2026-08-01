@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Humanz.png">Humanz.png</a>
+				![[Humanz.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -94,10 +94,10 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/17/14 performance in *[[2x4]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3) by [[Michael Yew]] that includes their 1/17/14 performance in *[[2x4]]*.
 
 ## More Information
-* [https://www.facebook.com/pages/Humanz/647787488593916?ref=hl The duo's facebook page.]
+* [The duo's facebook page.](https://www.facebook.com/pages/Humanz/647787488593916?ref=hl)
 
 
 [[Category/Troupes|Category:Troupes]]

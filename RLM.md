@@ -11,7 +11,7 @@ This tradition began when former Austin improvisor [[Andrea Young]] was a member
 Members of those troupes began to rehearse with their other troupes, until RLM became a somewhat reliable rehearsal space for many Austin improv troupes.
 
 ## More Information
-* [http://www.utexas.edu/maps/main/buildings/rlm.html The building's web page.]
-* [http://www.facebook.com/RLMimprov RLM], a Chicago sketch and improv troupe which is made of former Austin improvisors [[Jonathon Euseppi]], [[Mike Sullivan]], and [[Gary Pascal]], is named after this iconic piece of Austin improv history.
+* [The building's web page.](http://www.utexas.edu/maps/main/buildings/rlm.html)
+* [RLM](http://www.facebook.com/RLMimprov), a Chicago sketch and improv troupe which is made of former Austin improvisors [[Jonathon Euseppi]], [[Mike Sullivan]], and [[Gary Pascal]], is named after this iconic piece of Austin improv history.
 
 [[Category/Rehearsal Spaces|Category:Rehearsal Spaces]]

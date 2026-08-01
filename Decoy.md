@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Decoy.jpg">Decoy.jpg</a>
+				![[Decoy.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -82,7 +82,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/123014132 Video #1]
+* [Video #1](http://vimeo.com/123014132)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Fakespeare Poster.jpg">Fakespeare Poster.jpg</a>
+				![[Fakespeare Poster.jpg]]
 			</td>
 		</tr>
 
@@ -275,27 +275,27 @@
 
 ## Media
 ### Photos
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.593035304060292.1073741831.100000614831752&type=3 Photoset of *Macbeth* (date unknown)] by [[Warren Henderson]].
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.608194305877725.1073741836.100000614831752&type=3 Photoset of *Much Ado About Nothing* (date unknown)] by [[Warren Henderson]].
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the 7/19/13 finale of *Macbeth*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.4944587095232.1073741839.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 6/21/13 performance in [[The 44-Hour Improv Marathon]].
-* [http://www.facebook.com/tylerbryce/media_set?set=a.10151814054412704.1073741838.505207703&type=3 Photoset of the 7/21/13 show] by [[Tyler Bryce]].
-** [http://www.facebook.com/warren.henderson.946/media_set?set=a.619012461462576.1073741837.100000614831752&type=3 Photoset] by [[Warren Henderson]] of the same show.
-* [http://www.facebook.com/media/set/?set=a.530459920356025.1073741856.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.756193911110794.1073742024.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset of *Macbeth* (date unknown)](http://www.facebook.com/warren.henderson.946/media_set?set=a.593035304060292.1073741831.100000614831752&type=3) by [[Warren Henderson]].
+* [Photoset of *Much Ado About Nothing* (date unknown)](http://www.facebook.com/warren.henderson.946/media_set?set=a.608194305877725.1073741836.100000614831752&type=3) by [[Warren Henderson]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Heidi Rogers]] that includes the 7/19/13 finale of *Macbeth*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4944587095232.1073741839.1315383518&type=3) by [[Michael Yew]] which includes the 6/21/13 performance in [[The 44-Hour Improv Marathon]].
+* [Photoset of the 7/21/13 show](http://www.facebook.com/tylerbryce/media_set?set=a.10151814054412704.1073741838.505207703&type=3) by [[Tyler Bryce]].
+** [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.619012461462576.1073741837.100000614831752&type=3) by [[Warren Henderson]] of the same show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.530459920356025.1073741856.118587218209966&type=3) by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.756193911110794.1073742024.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 
 ### Videos
-* [http://vimeo.com/72798057 Video of the closing night (7/19/13) of *Macbeth*.]
-* [http://vimeo.com/73240411 Video of the closing night (7/20/13) of *Much Ado About Nothing*.]
-* Videos of the 8/17/13 show: [http://vimeo.com/72755432 short-form half]; [http://vimeo.com/72755433 narrative half].
+* [Video of the closing night (7/19/13) of *Macbeth*.](http://vimeo.com/72798057)
+* [Video of the closing night (7/20/13) of *Much Ado About Nothing*.](http://vimeo.com/73240411)
+* Videos of the 8/17/13 show: [short-form half](http://vimeo.com/72755432); [narrative half](http://vimeo.com/72755433).
 
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/shakespeare-set/shakespeare-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/shakespeare-set/shakespeare-set.jpg?disposition=download) of [[Kaci Beeler]]'s set design.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=14898 The audition- and casting-announcement thread.]
-* [http://www.facebook.com/hideouttheatre/posts/10151433012633510 The facebook casting announcement for the show.]
-* [http://www.hideouttheatre.com/inside-fakespeare A post about the show] by director [[Andy Crouch]] from the Hideout blog.
+* [The audition- and casting-announcement thread.](http://forum.austinimprov.com/viewtopic.php?f=3&t=14898)
+* [The facebook casting announcement for the show.](http://www.facebook.com/hideouttheatre/posts/10151433012633510)
+* [A post about the show](http://www.hideouttheatre.com/inside-fakespeare) by director [[Andy Crouch]] from the Hideout blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Beach Ball Concussion.jpg">Beach Ball Concussion.jpg</a>
+				![[Beach Ball Concussion.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ We chest-butt each other when we get mad, but we have yet to figure out if a che
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We start with a suggestion from the audience that inspires a 1-3min story spine that will, in turn, inspire the rest of the show. We often do narrative, but we can do montage if that makes for a more rounded night of improv. </blockquote>
 
 ## More Information
-* [http://www.facebook.com/BeachBallConcussion The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/BeachBallConcussion)
 
 
 [[Category/Troupes|Category:Troupes]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Lola Poster.jpg">Lola Poster.jpg</a>
+				![[Lola Poster.jpg]]
 			</td>
 		</tr>
 
@@ -164,12 +164,12 @@ The show improvised the same narrative three times, with three radically differe
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3 Photoset] by [[Peter Rogers]] of the 6/27/09 performance during [[The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Peter Rogers]] of the 6/27/09 performance during [[The 40-Hour Improv Marathon]].
 
 ### Publicity
-* [http://youtu.be/xyBEnvbJx_Y Trailer for the show.]
+* [Trailer for the show.](http://youtu.be/xyBEnvbJx_Y)
 
 ## More Information
-* [http://www.facebook.com/events/58633645986/ Facebook event for the premiere.]
+* [Facebook event for the premiere.](http://www.facebook.com/events/58633645986/)
 
 [[Category/Shows|Category:Shows]]

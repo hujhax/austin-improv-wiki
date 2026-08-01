@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Vinyl Destination.jpg">Vinyl Destination.jpg</a>
+				![[Vinyl Destination.jpg]]
 			</td>
 		</tr>
 
@@ -109,9 +109,9 @@ The show was subsequently brought back for [[The 2007 Out of Bounds Comedy Festi
 
 ## Media
 ### Photos
-* [http://www.flickr.com/photos/oob_pics/sets/72157601896325337 Photoset] of their performance at [[The 2007 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157601896325337) of their performance at [[The 2007 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=3378&p=27714 Announcement of the show run] on [[The Austin Improv Forums]].
+* [Announcement of the show run](http://forum.austinimprov.com/viewtopic.php?t=3378&p=27714) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

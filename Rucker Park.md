@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Rucker Park.jpg">Rucker Park.jpg</a>
+				![[Rucker Park.jpg]]
 			</td>
 		</tr>
 
@@ -50,7 +50,7 @@
 ***Rucker Park*** is a monthly improv show featuring students and alumni of [[The New Movement]] theater.
 
 ## More Information
-* [http://www.newmovementtheater.com/details/?mc_id=13624 The show's web page.]
+* [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13624)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

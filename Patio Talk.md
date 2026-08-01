@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -134,14 +134,14 @@
 
 ## Media
 ### Photos
-* [http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3 Photoset] by [[Dave Alley]] that includes their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3) by [[Dave Alley]] that includes their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Videos
-* [http://vimeo.com/117435963 Video] by [[Kyle Sweeney]] of their 1/16/15 show.
+* [Video](http://vimeo.com/117435963) by [[Kyle Sweeney]] of their 1/16/15 show.
 
 ## More Information
-* [http://www.facebook.com/patiotalk The troupe's Facebook page.]
-* [http://gybpodcast.libsyn.com/patio-talk-ep23-got-your-back Interview] on *[[Got Your Back]]*.
+* [The troupe's Facebook page.](http://www.facebook.com/patiotalk)
+* [Interview](http://gybpodcast.libsyn.com/patio-talk-ep23-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

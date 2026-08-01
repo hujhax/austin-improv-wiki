@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="You Me & Greg.jpg">You Me & Greg.jpg</a>
+				![[You Me & Greg.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -77,7 +77,7 @@
 **You Me & Greg** was an improv troupe.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11232&p=98434 Announcement of their 2010 reunion show] on [[The Austin Improv Forums]].
+* [Announcement of their 2010 reunion show](http://forum.austinimprov.com/viewtopic.php?t=11232&p=98434) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Andy Crouch.jpg">Andy Crouch.jpg</a>
+				![[Andy Crouch.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -43,6 +43,6 @@ A post from him about the first improv show he ever saw:<blockquote><p>I think m
 * *[[The Big Bash]]* (director)
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2389786 Interview] with Andy on *[[The Theft Forum]]*.
-* [http://www.hideouttheatre.com/improv-classes-will-change-your-life An 8/30/13 blogpost recommending improv classes] from the Hideout blog.
-* [http://yesandrew.com/sunday-interview-andy-crouch-2/ Interview] by [[Andrew Buck]].
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2389786) with Andy on *[[The Theft Forum]]*.
+* [An 8/30/13 blogpost recommending improv classes](http://www.hideouttheatre.com/improv-classes-will-change-your-life) from the Hideout blog.
+* [Interview](http://yesandrew.com/sunday-interview-andy-crouch-2/) by [[Andrew Buck]].

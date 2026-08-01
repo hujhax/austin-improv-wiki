@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Dance Battle.jpg">Dance Battle.jpg</a>
+				![[Dance Battle.jpg]]
 			</td>
 		</tr>
 
@@ -46,7 +46,7 @@
 It is part of *[[The Wheel]]*.
 
 ## Summary
-Fancy Pants is a show that happens on the first Friday of every month at [[The Hideout Theatre]]. It was "lovingly borrowed (i.e., egregiously stolen)" from [http://en.wikipedia.org/wiki/Projectproject PROJECTproject] in Toronto, Canada.
+Fancy Pants is a show that happens on the first Friday of every month at [[The Hideout Theatre]]. It was "lovingly borrowed (i.e., egregiously stolen)" from [PROJECTproject](http://en.wikipedia.org/wiki/Projectproject) in Toronto, Canada.
 
 It currently is cast and directed by [[Jeffrey Chatman]] and [[Megan Venable]].
 
@@ -58,71 +58,71 @@ The show began under the direction of [[Jon Bolden]]. It has since passed to [[J
 
 ## Media
 ### Videos
-* [http://vimeo.com/23484902 Video of 5/6/11 performance.]
-* [http://vimeo.com/31770847 Video of 11/4/11 performance.]
-* [http://vimeo.com/33377293 Video of 12/2/11 performance.]
-** Videos by [[Luis Salinas]] of the same show: [http://vimeo.com/34625770 1], [http://vimeo.com/34625875 2], [http://vimeo.com/34627912 3], [http://vimeo.com/34628194 4].
-* [http://vimeo.com/55383414 Video of 12/7/12 performance.]
-* [http://vimeo.com/41711039 Video] by [[Dave Alley]] of the 5/4/12 show.
-* [http://vimeo.com/47377300 Video of 7/6/12 performance.]
-* [http://vimeo.com/61489752 Video of 3/1/13 performance.]
-* [http://vimeo.com/65959353 Video of 5/3/13 performance.]
-* [http://vimeo.com/115926305 Video] by [[Peter Rogers]] of the 1/3/15 show.
+* [Video of 5/6/11 performance.](http://vimeo.com/23484902)
+* [Video of 11/4/11 performance.](http://vimeo.com/31770847)
+* [Video of 12/2/11 performance.](http://vimeo.com/33377293)
+** Videos by [[Luis Salinas]] of the same show: [1](http://vimeo.com/34625770), [2](http://vimeo.com/34625875), [3](http://vimeo.com/34627912), [4](http://vimeo.com/34628194).
+* [Video of 12/7/12 performance.](http://vimeo.com/55383414)
+* [Video](http://vimeo.com/41711039) by [[Dave Alley]] of the 5/4/12 show.
+* [Video of 7/6/12 performance.](http://vimeo.com/47377300)
+* [Video of 3/1/13 performance.](http://vimeo.com/61489752)
+* [Video of 5/3/13 performance.](http://vimeo.com/65959353)
+* [Video](http://vimeo.com/115926305) by [[Peter Rogers]] of the 1/3/15 show.
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.455820182264.226206.588952264&type=3 A photoset] by [[Peter Rogers]] of the 6/25/10 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150096018652265.296306.588952264&type=3 A photoset] by [[Peter Rogers]] of the 10/29/10 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150116451902265.306393.588952264&type=3 A photoset] by [[Peter Rogers]] of the 12/3/10 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150170941132265.337552.588952264&type=3 A photoset] by [[Peter Rogers]] of the 3/4/11 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150257321562265.368949.588952264&type=3 A photoset] by [[Peter Rogers]] of the 5/6/11 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 6/18/10 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 9/10/10 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150331885122265.390794.588952264&type=3 A photoset] by [[Peter Rogers]] of the 7/15/11 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2031102379935.98059.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/7/11 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2112633858171.100660.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 11/4/11 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2112633858171.100660.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 12/2/11 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2404044943266.106645.1315383518&type=3 Photoset] by [[Michael Yew]] of the 1/6/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2569504519652.109802.1315383518&type=3 Photoset] by [[Michael Yew]] of the 2/3/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2727534230296.112720.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/2/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2899917379767.116680.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/6/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3062135595121.119568.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/4/12 performance.
-** [http://www.facebook.com/claudio.fox.5/media_set?set=a.407354619286039.92726.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the same show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3341472898379.125369.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/6/12 performance.
-* [http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/3/12 performance.
-** [http://www.facebook.com/claudio.fox.5/media_set?set=a.476618529026314.107891.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same show.
-* [http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/7/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3582900613921.131839.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/13/12 performance with [[Ruby Willmann]] at *[[The Free Fringe]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3781324494394.136231.1315383518&type=3 A photoset] by [[Michael Yew]] of the 11/2/12 performance.
-* [http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3 A photoset] by [[Michael Yew]] of the 12/7/12 performance.
-* [http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3 A photoset] by [[Michael Yew]] of the 1/4/13 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.4241718923967.142831.1315383518&type=3 A photoset] by [[Michael Yew]] of the 2/1/13 performance.
-* [http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3 A photoset] by [[Michael Yew]] of the 3/1/13 performance.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.568004749887691.1073741836.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 5/3/13 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.4854500043112.1073741837.1315383518&type=3 A photoset] by [[Michael Yew]] of the 6/7/13 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.4944587095232.1073741839.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 6/21/13 performance in [[The 44-Hour Improv Marathon]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200260764744528.1073741842.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/2/13 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3 Photoset] by [[Michael Yew]] which includes the 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200445657486731.1073741852.1315383518&type=3 A photoset] by [[Michael Yew]] of the 9/6/13 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200613154194044.1073741860.1315383518&type=3 A photoset] by [[Michael Yew]] of the 10/4/13 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200768087147271.1073741862.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/1/13 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201166235620734.1073741874.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/6/14 show.
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.780445991985888.1073741863.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes the 2/7/14 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201567845860739.1073741882.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/7/14 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202129347137920.1073741892.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/20/14 show, which was part of [[The 45-Hour Improv Marathon]].
-* [http://www.facebook.com/media/set/?set=a.810734165656768.1073742081.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/26/14 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202578293681303.1073741907.1315383518&type=3 Photoset] by [[Michael Yew]] of the 10/3/14 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202944075865629.1073741913.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/7/14 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203091001138669.1073741920.1315383518&type=3 Photoset] by [[Michael Yew]] of the 12/5/14 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203521225334005.1073741928.1315383518&type=1 Photoset] by [[Michael Yew]] of the 2/6/15 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203682683050347.1073741929.1315383518&type=1 Photoset] by [[Michael Yew]] of the 3/6/15 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203682683050347.1073741929.1315383518&type=3 Photoset] by [[Michael Yew]] of the 3/6/15 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203860364052261.1073741932.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/3/15 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204248128066119.1073741948.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/5/15 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204338520685878.1073741951.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/19/15 show in [[The 46-Hour Improv Marathon]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204822132295866.1073741965.1315383518&type=3 Photoset] by [[Michael Yew]] of the 9/4/15 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.455820182264.226206.588952264&type=3) by [[Peter Rogers]] of the 6/25/10 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150096018652265.296306.588952264&type=3) by [[Peter Rogers]] of the 10/29/10 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150116451902265.306393.588952264&type=3) by [[Peter Rogers]] of the 12/3/10 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150170941132265.337552.588952264&type=3) by [[Peter Rogers]] of the 3/4/11 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150257321562265.368949.588952264&type=3) by [[Peter Rogers]] of the 5/6/11 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the 6/18/10 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes the 9/10/10 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150331885122265.390794.588952264&type=3) by [[Peter Rogers]] of the 7/15/11 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2031102379935.98059.1315383518&type=3) by [[Michael Yew]] of the 10/7/11 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2112633858171.100660.1315383518&type=3) by [[Michael Yew]] that includes the 11/4/11 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2112633858171.100660.1315383518&type=3) by [[Michael Yew]] that includes the 12/2/11 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2404044943266.106645.1315383518&type=3) by [[Michael Yew]] of the 1/6/12 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2569504519652.109802.1315383518&type=3) by [[Michael Yew]] of the 2/3/12 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2727534230296.112720.1315383518&type=3) by [[Michael Yew]] of the 3/2/12 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2899917379767.116680.1315383518&type=3) by [[Michael Yew]] of the 4/6/12 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3062135595121.119568.1315383518&type=3) by [[Michael Yew]] of the 5/4/12 performance.
+** [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.407354619286039.92726.100000345135257&type=3) by [[Claudio Fox]] of the same show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3341472898379.125369.1315383518&type=3) by [[Michael Yew]] of the 6/6/12 performance.
+* [A photoset](http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3) by [[Michael Yew]] of the 8/3/12 performance.
+** [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.476618529026314.107891.100000345135257&type=3) by [[Claudio Fox]] of the same show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3) by [[Michael Yew]] of the 9/7/12 performance.
+* [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.3582900613921.131839.1315383518&type=3) by [[Michael Yew]] of the 9/13/12 performance with [[Ruby Willmann]] at *[[The Free Fringe]]*.
+* [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.3781324494394.136231.1315383518&type=3) by [[Michael Yew]] of the 11/2/12 performance.
+* [A photoset](http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=3) by [[Michael Yew]] of the 12/7/12 performance.
+* [A photoset](http://www.facebook.com/media/set/?set=a.4046519364100.141048.1315383518&type=3) by [[Michael Yew]] of the 1/4/13 performance.
+* [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.4241718923967.142831.1315383518&type=3) by [[Michael Yew]] of the 2/1/13 performance.
+* [A photoset](http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3) by [[Michael Yew]] of the 3/1/13 performance.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.568004749887691.1073741836.100000345135257&type=3) by [[Claudio Fox]] of the 5/3/13 performance.
+* [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.4854500043112.1073741837.1315383518&type=3) by [[Michael Yew]] of the 6/7/13 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4944587095232.1073741839.1315383518&type=3) by [[Michael Yew]] which includes the 6/21/13 performance in [[The 44-Hour Improv Marathon]].
+* [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200260764744528.1073741842.1315383518&type=3) by [[Michael Yew]] of the 8/2/13 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3) by [[Michael Yew]] which includes the 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200445657486731.1073741852.1315383518&type=3) by [[Michael Yew]] of the 9/6/13 performance.
+* [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200613154194044.1073741860.1315383518&type=3) by [[Michael Yew]] of the 10/4/13 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200768087147271.1073741862.1315383518&type=3) by [[Michael Yew]] of the 11/1/13 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201166235620734.1073741874.1315383518&type=3) by [[Michael Yew]] of the 12/6/14 show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.780445991985888.1073741863.100000614831752&type=3) by [[Warren Henderson]] that includes the 2/7/14 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201567845860739.1073741882.1315383518&type=3) by [[Michael Yew]] of the 3/7/14 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202129347137920.1073741892.1315383518&type=3) by [[Michael Yew]] of the 6/20/14 show, which was part of [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.810734165656768.1073742081.221927764537414&type=3) by [[Steve Rogers]] of the 9/26/14 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202578293681303.1073741907.1315383518&type=3) by [[Michael Yew]] of the 10/3/14 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202944075865629.1073741913.1315383518&type=3) by [[Michael Yew]] of the 11/7/14 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203091001138669.1073741920.1315383518&type=3) by [[Michael Yew]] of the 12/5/14 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203521225334005.1073741928.1315383518&type=1) by [[Michael Yew]] of the 2/6/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203682683050347.1073741929.1315383518&type=1) by [[Michael Yew]] of the 3/6/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203682683050347.1073741929.1315383518&type=3) by [[Michael Yew]] of the 3/6/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203860364052261.1073741932.1315383518&type=3) by [[Michael Yew]] of the 4/3/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204248128066119.1073741948.1315383518&type=3) by [[Michael Yew]] of the 6/5/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204338520685878.1073741951.1315383518&type=3) by [[Michael Yew]] of the 6/19/15 show in [[The 46-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204822132295866.1073741965.1315383518&type=3) by [[Michael Yew]] of the 9/4/15 performance.
 
 ## Other Information
-* [http://www.hideouttheatre.com/shows/thefancy-pantsmashup The show's home page.]
+* [The show's home page.](http://www.hideouttheatre.com/shows/thefancy-pantsmashup)
 
 [[Category/Shows|Fancy-Pants Mashup]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

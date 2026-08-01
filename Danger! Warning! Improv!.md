@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Danger! Warning! Improv!.jpg">Danger! Warning! Improv!.jpg</a>
+				![[Danger! Warning! Improv!.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,33 +86,33 @@ So far, their formats have been "Secret Agent Men" ([[Wikipedia - James Bond|Jam
 
 ## Media
 ### Videos
-* [http://www.viddler.com/v/79993bb7 Video of their 5/19/11 "Two to Beam Up" show.] ("Liberation of the Super String")
-* [http://www.viddler.com/v/32775c00 Video of their 6/30/11 "Two to Beam Up" show.] ("Pythagoras' Shame")
-* [http://www.viddler.com/v/334acba6 of their 10/6/11 "Secret Agent Men" show.] ("Never Die Nightly")
-* [http://www.viddler.com/v/3af50108 Video of their 10/26/11 "Secret Agent Men" show.] ("Dead Man's Switch")
-* [http://www.viddler.com/v/7984788c Video of their 5/10/12 "Elementary, Dear Holmes!" show.]
-* [http://www.viddler.com/v/30e782e6 Video of their 5/17/12 "Elementary, Dear Holmes!" show.]
-** [http://www.viddler.com/v/6121a73e A two-camera video of the same show.]
-* [http://www.viddler.com/v/a19b1fd3 Video of their 9/2/12 "Secret Agent Men" show.] 
-* [http://www.viddler.com/v/17509728 Video of their 9/2/12 "Elementary, Dear Holmes!" show.] 
-* [http://vimeo.com/125179184 Video] of their 4/11/15 show at [[The 2015 Improvised Play Festival]].
+* [Video of their 5/19/11 "Two to Beam Up" show.](http://www.viddler.com/v/79993bb7) ("Liberation of the Super String")
+* [Video of their 6/30/11 "Two to Beam Up" show.](http://www.viddler.com/v/32775c00) ("Pythagoras' Shame")
+* [of their 10/6/11 "Secret Agent Men" show.](http://www.viddler.com/v/334acba6) ("Never Die Nightly")
+* [Video of their 10/26/11 "Secret Agent Men" show.](http://www.viddler.com/v/3af50108) ("Dead Man's Switch")
+* [Video of their 5/10/12 "Elementary, Dear Holmes!" show.](http://www.viddler.com/v/7984788c)
+* [Video of their 5/17/12 "Elementary, Dear Holmes!" show.](http://www.viddler.com/v/30e782e6)
+** [A two-camera video of the same show.](http://www.viddler.com/v/6121a73e)
+* [Video of their 9/2/12 "Secret Agent Men" show.](http://www.viddler.com/v/a19b1fd3) 
+* [Video of their 9/2/12 "Elementary, Dear Holmes!" show.](http://www.viddler.com/v/17509728) 
+* [Video](http://vimeo.com/125179184) of their 4/11/15 show at [[The 2015 Improvised Play Festival]].
 
 ### Pictures
-* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/12/11 and 5/19/11 "Two to Beam Up" performances in *[[The Threefer]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3 Photoset] by [[Michael Yew]] of the 11/18/11 "Secret Agent Men" performance at [[WaffleFest]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/10/12 "Elementary, Dear Holmes" performance in *[[The Threefer]]*.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.415574365130731.94045.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/17/12 "Elementary, Dear Holmes" performance in *[[The Threefer]]*.
-* [http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 5/31/12 "Elementary, Dear Holmes" show at *[[The Threefer]]*.
-* [http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/2/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.493085927379574.111406.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 11/16/12 performance in *[[The TV Set]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/14/12 "Elementary, Dear Holmes" performance.
-* [http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 8/28/13 "Two to Beam Up" show at [[The 2013 Out of Bounds Comedy Festival]].
-** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes the same show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203909266354788.1073741938.1315383518&type=3 Photoset] by [[Michael Yew]] of the "Elementary, Dear Holmes!" performance at [[The 2015 Improvised Play Festival]].
-* [http://www.facebook.com/media/set/?set=a.1033162413413941.1073742243.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/3/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/12/11 and 5/19/11 "Two to Beam Up" performances in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3) by [[Michael Yew]] of the 11/18/11 "Secret Agent Men" performance at [[WaffleFest]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3) by [[Michael Yew]] that includes their 5/10/12 "Elementary, Dear Holmes" performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.415574365130731.94045.100000345135257&type=3) by [[Claudio Fox]] that includes their 5/17/12 "Elementary, Dear Holmes" performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/31/12 "Elementary, Dear Holmes" show at *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/2/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.493085927379574.111406.100000345135257&type=3) by [[Claudio Fox]] that includes their 11/16/12 performance in *[[The TV Set]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3) by [[Michael Yew]] that includes their 12/14/12 "Elementary, Dear Holmes" performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3) by [[Roy Moore]] that includes their 8/28/13 "Two to Beam Up" show at [[The 2013 Out of Bounds Comedy Festival]].
+** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203909266354788.1073741938.1315383518&type=3) by [[Michael Yew]] of the "Elementary, Dear Holmes!" performance at [[The 2015 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1033162413413941.1073742243.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/3/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/pages/Danger-Warning-Improv/346798645384312 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Danger-Warning-Improv/346798645384312)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

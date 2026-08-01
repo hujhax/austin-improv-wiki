@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="3, 2, 1, Kill!.jpg">3, 2, 1, Kill!.jpg</a>
+				![[3, 2, 1, Kill!.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,11 +86,11 @@ It had a run of shows at the Alamo Drafthouse in April 2008.
 
 ## Media
 ### Photos
-* [http://nekomouser.livejournal.com/pics/catalog/2447 Behind-the-scenes photoset] by [[Wesley Bain]] of one of their first two shows.
+* [Behind-the-scenes photoset](http://nekomouser.livejournal.com/pics/catalog/2447) by [[Wesley Bain]] of one of their first two shows.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=8180 Announcement of the troupe's debut] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?p=58453 Announcement of the 2008 run] on [[The Austin Improv Forums]].
+* [Announcement of the troupe's debut](http://forum.austinimprov.com/viewtopic.php?p=8180) on [[The Austin Improv Forums]].
+* [Announcement of the 2008 run](http://forum.austinimprov.com/viewtopic.php?p=58453) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Improvised Video|Category:Improvised Video]]

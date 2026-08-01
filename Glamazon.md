@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Glamazon.jpg">Glamazon.jpg</a>
+				![[Glamazon.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,10 +81,10 @@ Fact: each member of Glamazon is a woman 5'8" or over.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/Doccerz/media_set?set=a.10152960025535793.1073741891.666390792&type=3 Photoset] by [[Dave Alley]] of their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152960025535793.1073741891.666390792&type=3) by [[Dave Alley]] of their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/GlamazonImprov The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/GlamazonImprov)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

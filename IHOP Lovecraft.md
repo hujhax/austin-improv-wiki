@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="IHOP Lovecraft.jpg">IHOP Lovecraft.jpg</a>
+				![[IHOP Lovecraft.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 4/11/11 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3) by [[Roy Moore]] that includes their 4/11/11 performance in *[[The Monday Night Mash]]*.
  
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

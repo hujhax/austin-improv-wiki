@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Lunch Pail.jpg">Lunch Pail.jpg</a>
+				![[Lunch Pail.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,10 +81,10 @@ Formed by [[ColdTowne]] graduates [[Matt Needles]], [[Alejandro Garcia]], and [[
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=wu57dBc_u6c Video of their 2/24/14 show.]
+* [Video of their 2/24/14 show.](http://www.youtube.com/watch?v=wu57dBc_u6c)
 
 ## More Information
-* [http://www.facebook.com/lunchpailcomedy The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/lunchpailcomedy)
 
 
 [[Category/Troupes|Category:Troupes]]

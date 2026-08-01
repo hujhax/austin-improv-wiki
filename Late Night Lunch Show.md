@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ The troupe went on to make a YouTube webseries that ran for several seasons.
 
 ## Media
 ### Videos
-* [http://www.youtube.com/user/latenightlunch The troupe's YouTube channel.]
+* [The troupe's YouTube channel.](http://www.youtube.com/user/latenightlunch)
 
 
 [[Category/Troupes|Category:Troupes]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Shana Merlin Pic.jpg">Shana Merlin Pic.jpg</a>
+				![[Shana Merlin Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -41,7 +41,7 @@ A post from her about the first improv show she ever saw:<blockquote>Dad's Garag
 * *[[Totally Improvised, 90210]]*
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062973 Interview] with Shana on *[[The Theft Forum]]*.
-* [http://yesandrew.com/2013/07/07/the-sunday-interview-shana-merlin/ Interview] by [[Andrew Buck]].
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062973) with Shana on *[[The Theft Forum]]*.
+* [Interview](http://yesandrew.com/2013/07/07/the-sunday-interview-shana-merlin/) by [[Andrew Buck]].
 
 [[Category/Performers|Merlin]]

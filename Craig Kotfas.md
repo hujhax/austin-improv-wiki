@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Craig Kotfas Pic.jpg">Craig Kotfas Pic.jpg</a>
+				![[Craig Kotfas Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -43,6 +43,6 @@ He has been a guest musician for [[Indigo Shift]] and a guest boy for *[[Boys of
 * *[[Rock N Roll Purgatory]]*
 
 ## More Information
-* [http://kotfas.com/ Craig's web site.]
+* [Craig's web site.](http://kotfas.com/)
 
 [[Category/Performers|Kotfas]]

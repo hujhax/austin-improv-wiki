@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Tiny Luddite.jpg">Tiny Luddite.jpg</a>
+				![[Tiny Luddite.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We call it two-man speedfunk. Speedfunk is a format we invented with [[Bob McNicol]], where the two actors are able to just move with the groove. Just go ahead and change things up, whenever they want. It's like we could be doing one scene at one time, and then a second later, we're doing a different scene. </blockquote>
 
 ## More Information
-* [http://www.facebook.com/tinyluddite The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/tinyluddite)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

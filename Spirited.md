@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Spirited.jpg">Spirited.jpg</a>
+				![[Spirited.jpg]]
 			</td>
 		</tr>
 
@@ -131,32 +131,32 @@ After about an hour of these explorations, there would be a transition back to t
 
 ## Media
 ### Videos
-* [http://vimeo.com/30096332 Video clip from opening night.]
-* [http://vimeo.com/40844685 Video of their performance] in [[The 2012 Improvised Play Festival]].
+* [Video clip from opening night.](http://vimeo.com/30096332)
+* [Video of their performance](http://vimeo.com/40844685) in [[The 2012 Improvised Play Festival]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.193922120676475.45895.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 9/10/11 premiere.
-** [http://www.facebook.com/media/set/?set=a.168144419933256.44334.100002130980897&type=3 Photoset] by [[Steve Rogers]] of the same show.
-** [http://www.facebook.com/media/set/?set=a.205305389538148.48992.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/8/11 6pm performance.
-* [http://www.facebook.com/media/set/?set=a.181097728637925.48242.100002130980897&type=1 Photoset] by [[Steve Rogers]] of the same show.
-* [http://www.facebook.com/media/set/?set=a.205745719494115.49091.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/8/11 8pm performance.
-* [http://www.facebook.com/media/set/?set=a.208078812594139.49557.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/15/11 6pm performance.
-** [http://www.facebook.com/michael.yew/media_set?set=a.2050770631629.98662.1315383518&type=3 Photoset] by [[Michael Yew]] of the same show.
-* [http://www.facebook.com/media/set/?set=a.208760575859296.49669.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/15/11 8pm performance.
-* [http://www.facebook.com/media/set/?set=a.211216708947016.50291.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/22/11 6pm performance.
-* [http://www.facebook.com/media/set/?set=a.212038482198172.50513.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/22/11 8pm performance.
-* [http://www.facebook.com/media/set/?set=a.214136538655033.51070.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/29/11 8pm performance.
-* [http://www.facebook.com/media/set/?set=a.311258025609550.70437.118587218209966&type=1 Photoset] by [[Roy Moore]] of their performance in [[The 2012 Improvised Play Festival]].
-* [http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/1/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204347096420266.1073741955.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/15 show in [[The 46-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.193922120676475.45895.118587218209966&type=3) by [[Roy Moore]] of the 9/10/11 premiere.
+** [Photoset](http://www.facebook.com/media/set/?set=a.168144419933256.44334.100002130980897&type=3) by [[Steve Rogers]] of the same show.
+** [Photoset](http://www.facebook.com/media/set/?set=a.205305389538148.48992.118587218209966&type=3) by [[Roy Moore]] of the 10/8/11 6pm performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.181097728637925.48242.100002130980897&type=1) by [[Steve Rogers]] of the same show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.205745719494115.49091.118587218209966&type=3) by [[Roy Moore]] of the 10/8/11 8pm performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.208078812594139.49557.118587218209966&type=3) by [[Roy Moore]] of the 10/15/11 6pm performance.
+** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2050770631629.98662.1315383518&type=3) by [[Michael Yew]] of the same show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.208760575859296.49669.118587218209966&type=3) by [[Roy Moore]] of the 10/15/11 8pm performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.211216708947016.50291.118587218209966&type=3) by [[Roy Moore]] of the 10/22/11 6pm performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.212038482198172.50513.118587218209966&type=3) by [[Roy Moore]] of the 10/22/11 8pm performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.214136538655033.51070.118587218209966&type=3) by [[Roy Moore]] of the 10/29/11 8pm performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.311258025609550.70437.118587218209966&type=1) by [[Roy Moore]] of their performance in [[The 2012 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3) by [[Steve Rogers]] of their 9/1/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204347096420266.1073741955.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/15 show in [[The 46-Hour Improv Marathon]].
 
 ### Other
-* Photos of [[Kaci Beeler]]'s set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_3/photo%201_3.jpg?disposition=download 1], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_4/photo%202_4.jpg?disposition=download 2], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/spirited_set/spirited_set.jpg?disposition=download 3], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205_1/photo%205_1.jpg?disposition=download 4], [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_3/photo%204_3.jpg?disposition=download 5].
+* Photos of [[Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_3/photo%201_3.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_4/photo%202_4.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/spirited_set/spirited_set.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205_1/photo%205_1.jpg?disposition=download), [5](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_3/photo%204_3.jpg?disposition=download).
 
 ## More Information
-* [http://www.hideouttheatre.com/spirus A post about playing in the show] by [[Kayla Lane Freeman]].
-* [http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/ Review of the show] by [[Wayne Allen Brenner]] in *The Austin Chronicle* (9/14/11).
-* [http://www.hideouttheatre.com/statesman-review-for-spirited Review of the show] from *The Austin-American Statesman*.
+* [A post about playing in the show](http://www.hideouttheatre.com/spirus) by [[Kayla Lane Freeman]].
+* [Review of the show](http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/) by [[Wayne Allen Brenner]] in *The Austin Chronicle* (9/14/11).
+* [Review of the show](http://www.hideouttheatre.com/statesman-review-for-spirited) from *The Austin-American Statesman*.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

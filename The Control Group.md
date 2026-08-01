@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Control Group.jpg">The Control Group.jpg</a>
+				![[The Control Group.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -93,10 +93,10 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/14/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/14/11 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/pages/The-Control-Group/140017466035714 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/The-Control-Group/140017466035714)
 
 
 [[Category/Troupes|Control Group]]

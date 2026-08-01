@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Joss Whedon Pajama Party.jpg">The Joss Whedon Pajama Party.jpg</a>
+				![[The Joss Whedon Pajama Party.jpg]]
 			</td>
 		</tr>
 
@@ -277,7 +277,7 @@ All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was 
 ** [[Bridget Brewer]]
 ** [[Eric Heiberg]]
 ** [[James Leary]] (guest)
-*** N.B.: [http://buffy.wikia.com/wiki/James_Charles_Leary Mr. Leary] played [http://buffy.wikia.com/wiki/Clement Clem] on *Buffy*.
+*** N.B.: [Mr. Leary](http://buffy.wikia.com/wiki/James_Charles_Leary) played [Clem](http://buffy.wikia.com/wiki/Clement) on *Buffy*.
 ** [[Jordan T. Maxwell]]
 ** [[Marc Majcher]]
 ** [[Meghan Wolff]] (guest)
@@ -286,22 +286,22 @@ All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was 
 
 ## Media
 ### Videos of Sketches
-* [http://vimeo.com/44147623 "The Big Red Button"]: civic engineers at the complex in *Cabin in the Woods* discuss getting rid of the big red button that releases all the monsters.
-* [http://vimeo.com/45108059 "Burton does *Buffy*"]: filmmaker [[Wikipedia - Tim Burton|Tim Burton]]'s take on a scene from [[Wikipedia - Blood Ties (Buffy the Vampire Slayer)|"Blood Ties"]].
-* [http://vimeo.com/44147529 "Cancellation Support Group"]: Whedon consoles Dan Harmon after the showrunner is fired from *Community*.  Chuck Lorre sends a gift basket.
-* [http://vimeo.com/45173703 "Joss Whedon's Dream Project"]: the trailer for the 'dream project' Joss Whedon gets to do after the success of *The Avengers*.
-* [http://vimeo.com/45110204 "Mamet does *Buffy*"]: [[Peter Rogers]] and [[Confidence Men]] present the playwright's take on a scene from [[Wikipedia - Blood Ties (Buffy the Vampire Slayer)|"Blood Ties"]].
-* [http://youtu.be/UQqW3UFqWbc "Reaverdance"]: exactly what it says on the tin.
-* "Wash Has Too Much Time On His Hands": left to his own devices with a Weyland-Yutani recording device and his dinosaur toys, Wash makes some little home movies: [http://vimeo.com/45295722 1], [http://vimeo.com/45295972 2], [http://vimeo.com/45295836 3].
-* [http://vimeo.com/44627632 "Whedon-Bay Band"]: Wesleyan college roommates Joss Whedon and Michael Bay have a rehearsal for their fledgling garage band.
-* [http://youtu.be/NEu3fVctjfo Video sketch: "Woody Allen Screen Test as Jayne Cobb".]
+* ["The Big Red Button"](http://vimeo.com/44147623): civic engineers at the complex in *Cabin in the Woods* discuss getting rid of the big red button that releases all the monsters.
+* ["Burton does *Buffy*"](http://vimeo.com/45108059): filmmaker [[Wikipedia - Tim Burton|Tim Burton]]'s take on a scene from [[Wikipedia - Blood Ties (Buffy the Vampire Slayer)|"Blood Ties"]].
+* ["Cancellation Support Group"](http://vimeo.com/44147529): Whedon consoles Dan Harmon after the showrunner is fired from *Community*.  Chuck Lorre sends a gift basket.
+* ["Joss Whedon's Dream Project"](http://vimeo.com/45173703): the trailer for the 'dream project' Joss Whedon gets to do after the success of *The Avengers*.
+* ["Mamet does *Buffy*"](http://vimeo.com/45110204): [[Peter Rogers]] and [[Confidence Men]] present the playwright's take on a scene from [[Wikipedia - Blood Ties (Buffy the Vampire Slayer)|"Blood Ties"]].
+* ["Reaverdance"](http://youtu.be/UQqW3UFqWbc): exactly what it says on the tin.
+* "Wash Has Too Much Time On His Hands": left to his own devices with a Weyland-Yutani recording device and his dinosaur toys, Wash makes some little home movies: [1](http://vimeo.com/45295722), [2](http://vimeo.com/45295972), [3](http://vimeo.com/45295836).
+* ["Whedon-Bay Band"](http://vimeo.com/44627632): Wesleyan college roommates Joss Whedon and Michael Bay have a rehearsal for their fledgling garage band.
+* [Video sketch: "Woody Allen Screen Test as Jayne Cobb".](http://youtu.be/NEu3fVctjfo)
 
 ### Videos of Full Shows
-* [http://vimeo.com/44162958 Video of the 6/15/12 performance.]
-* [http://vimeo.com/44638683 Video of the 6/22/12 performance.]
-* [http://vimeo.com/45023515 Video of the 6/29/12 performance.]
-* [http://vimeo.com/65174297 Video of the 1/25/13 performance.]
+* [Video of the 6/15/12 performance.](http://vimeo.com/44162958)
+* [Video of the 6/22/12 performance.](http://vimeo.com/44638683)
+* [Video of the 6/29/12 performance.](http://vimeo.com/45023515)
+* [Video of the 1/25/13 performance.](http://vimeo.com/65174297)
 
 ## More Information
-* [http://www.facebook.com/events/280906805365647/permalink/280907145365613/ The facebook event for the 1/25/13 performance.]
-* [[Chelley Pyatt]] [http://www.reddit.com/r/whedon/comments/174rdi/im_putting_together_trivia_for_a_whedon_based/ canvasses the Whedon subreddit for quiz questions].
+* [The facebook event for the 1/25/13 performance.](http://www.facebook.com/events/280906805365647/permalink/280907145365613/)
+* [[Chelley Pyatt]] [canvasses the Whedon subreddit for quiz questions](http://www.reddit.com/r/whedon/comments/174rdi/im_putting_together_trivia_for_a_whedon_based/).

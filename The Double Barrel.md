@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Double Barrel.png">The Double Barrel.png</a>
+				![[The Double Barrel.png]]
 			</td>
 		</tr>
 
@@ -59,7 +59,7 @@ Later, the show was taken over by [[The Hideout]], which had always hosted the e
 Finally, in April of 2010, the show was replaced by *[[The Spectacle]]*.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/thedoublebarrel The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/thedoublebarrel)
 
 [[Category/Shows|Double Barrel]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

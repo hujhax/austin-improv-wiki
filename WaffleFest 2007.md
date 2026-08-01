@@ -23,4 +23,4 @@ It included an all-star *[[Maestro]]*.
 * [[The Starter Kit]]
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=13&t=5380 Call for volunteers] on [[The Austin Improv Forums]].
+* [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?f=13&t=5380) on [[The Austin Improv Forums]].

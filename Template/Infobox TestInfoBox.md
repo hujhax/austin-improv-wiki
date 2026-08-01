@@ -9,7 +9,7 @@ This template lists standard, useful information about an improv performer.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" >
-				!<a class="internal-link" href=""></a>
+				![[]]
 			</td>
 		</tr>
 		<tr class="">
@@ -47,7 +47,7 @@ This template lists standard, useful information about an improv performer.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" >
-				!<a class="internal-link" href="Performer Default Image.png">Performer Default Image.png</a>
+				![[Performer Default Image.png]]
 			</td>
 		</tr>
 		<tr class="">

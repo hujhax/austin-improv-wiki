@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Venn Diaphragm.jpg">Venn Diaphragm.jpg</a>
+				![[Venn Diaphragm.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -93,13 +93,13 @@ The troupe performed in [[The Out of Bounds Comedy Festival]] in 2009 and 2010.
 
 ## Media
 ### Videos
-* Video by [[Brian Boyko]] of their 4/30/10 show at [[The Hideout Theatre]]: [http://youtu.be/XVFQUC7Qe_Y 1], [http://youtu.be/tS2ofy-SlT4 2], [http://youtu.be/wARd4i-7jNc 3].
+* Video by [[Brian Boyko]] of their 4/30/10 show at [[The Hideout Theatre]]: [1](http://youtu.be/XVFQUC7Qe_Y), [2](http://youtu.be/tS2ofy-SlT4), [3](http://youtu.be/wARd4i-7jNc).
 
 ### Photos
-* [http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/pages/Venn-Diaphragm/126820557511 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Venn-Diaphragm/126820557511)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Dandy.jpg">Dandy.jpg</a>
+				![[Dandy.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -97,11 +97,11 @@ Their last rehearsal was two weeks before Clay's death and consisted of watching
 
 ## Media
 ### Videos
-* [http://vimeo.com/84908395 Video of their 1/7/14 debut show.]
+* [Video of their 1/7/14 debut show.](http://vimeo.com/84908395)
 
 ## More Information
-* The duo's [https://www.facebook.com/dandyimprov Facebook page].
-* [http://unboundpage.tumblr.com/post/72846778410/ok-so-i-said-i-was-taking-january-off-from-improv A blogpost] by [[Cindy Page]] about their show.
+* The duo's [Facebook page](https://www.facebook.com/dandyimprov).
+* [A blogpost](http://unboundpage.tumblr.com/post/72846778410/ok-so-i-said-i-was-taking-january-off-from-improv) by [[Cindy Page]] about their show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

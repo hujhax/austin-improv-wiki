@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Wellmadeplay poster.jpg">Wellmadeplay poster.jpg</a>
+				![[Wellmadeplay poster.jpg]]
 			</td>
 		</tr>
 
@@ -210,7 +210,7 @@
 	</table>
 </div>
 
-***The Well-Made Play*** is a Hideout student mainstage show inspired by [http://en.wikipedia.org/wiki/Well-made_play the theatrical format of the same name].  It focuses on a small group of relatives or old friends, meeting for the first time in a while, one of whom harbors an awful secret.
+***The Well-Made Play*** is a Hideout student mainstage show inspired by [the theatrical format of the same name](http://en.wikipedia.org/wiki/Well-made_play).  It focuses on a small group of relatives or old friends, meeting for the first time in a while, one of whom harbors an awful secret.
 
 
 ## Full Crew
@@ -219,8 +219,8 @@
 * [[Daniel Ellsworth]] - Lights
 
 ## More Information
-* [https://www.facebook.com/groups/hideouttheatre/permalink/1776074062415690/ The cast/crew announcement.]
-* [http://www.hideouttheatre.com/shows/thewellmadeplay The show page.]
+* [The cast/crew announcement.](https://www.facebook.com/groups/hideouttheatre/permalink/1776074062415690/)
+* [The show page.](http://www.hideouttheatre.com/shows/thewellmadeplay)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Furiously Missing.jpg">Furiously Missing.jpg</a>
+				![[Furiously Missing.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,17 +88,17 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ## Media
 ### Videos
-* [http://vimeo.com/25885607 Video of their show] at the 2011 [[Improvised Play Festival]].
-* [http://vimeo.com/40781767 Video of their April 19th, 2011 show.]
-* [http://vimeo.com/33157277 Video of their show] at [[WaffleFest]] 2011.
-* [http://vimeo.com/40901518 Video of their show] at the 2012 [[Improvised Play Festival]].
-* [http://youtu.be/fd7C-Uld8vc#t=681 Video] by [[Warren Henderson]] of their 9/23/12 performance in *[[The Weekender]]*.
+* [Video of their show](http://vimeo.com/25885607) at the 2011 [[Improvised Play Festival]].
+* [Video of their April 19th, 2011 show.](http://vimeo.com/40781767)
+* [Video of their show](http://vimeo.com/33157277) at [[WaffleFest]] 2011.
+* [Video of their show](http://vimeo.com/40901518) at the 2012 [[Improvised Play Festival]].
+* [Video](http://youtu.be/fd7C-Uld8vc#t=681) by [[Warren Henderson]] of their 9/23/12 performance in *[[The Weekender]]*.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/furiouslymissing The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/furiouslymissing)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

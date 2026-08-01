@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Mother Punch.jpg">Mother Punch.jpg</a>
+				![[Mother Punch.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2015 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We all started playing together in level 3 at the hideout. Our format, Hollywouldn't was created after interesting interpretations of both Rocky IV and St. Elmo's fire during class breaks. We had so much fun playing with this in the free fringe we wanted to bring it back!</blockquote>
 
 ## More Information
-* [http://www.facebook.com/motherpunch512 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/motherpunch512)
 
 
 [[Category/Troupes|Category:Troupes]]

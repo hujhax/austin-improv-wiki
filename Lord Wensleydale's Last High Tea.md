@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Lord Wensleydale's Last High Tea.jpg">Lord Wensleydale's Last High Tea.jpg</a>
+				![[Lord Wensleydale's Last High Tea.jpg]]
 			</td>
 		</tr>
 
@@ -130,9 +130,9 @@ Several events punctuated the high tea.  Shortly after the first course, the von
 The event was nominated for an Austin Critics Table Award in 2013, under the category of "Theatrical Event."
 
 ## More Information
-* [http://www.austinchronicle.com/food/2013-04-19/the-art-of-dining/ An *Austin Chronicle* preview of the event.]
-* [http://www.fuseboxfestival.com/2013-festival/lord-wensleydales-last-high-tea The Fusebox page about the event.]
-* [http://www.fuseboxfestival.com/blog/digestible-feats-does-it-again-with-lord-wensleydales-last-high-tea A review of the event.]
-* [http://www.austinchronicle.com/arts/2013-05-24/austin-critics-table-awards-2013/ The list of 2013 Austin Critics Table Award Nominations.]
+* [An *Austin Chronicle* preview of the event.](http://www.austinchronicle.com/food/2013-04-19/the-art-of-dining/)
+* [The Fusebox page about the event.](http://www.fuseboxfestival.com/2013-festival/lord-wensleydales-last-high-tea)
+* [A review of the event.](http://www.fuseboxfestival.com/blog/digestible-feats-does-it-again-with-lord-wensleydales-last-high-tea)
+* [The list of 2013 Austin Critics Table Award Nominations.](http://www.austinchronicle.com/arts/2013-05-24/austin-critics-table-awards-2013/)
 
 [[Category/Only One Performance|Category:Only One Performance]]

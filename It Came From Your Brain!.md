@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Itcamefromyourbrain!.jpg">Itcamefromyourbrain!.jpg</a>
+				![[Itcamefromyourbrain!.jpg]]
 			</td>
 		</tr>
 
@@ -224,5 +224,5 @@ IT CAME FROM YOUR BRAIN! is an improvised sci-fi horror show that harkens back t
 #### The Austin Chronicle
 <blockquote>
 *This improvised retro sci-fi monster movie may pique your curiosity enough that you’ll want to visit the “drive-in” more than once* <br/>
-— T. Lynn Mikeska **[https://www.austinchronicle.com/arts/2016-10-28/it-came-from-your-brain/ The Institution Theater's It Came From Your Brain]**
+— T. Lynn Mikeska **[The Institution Theater's It Came From Your Brain](https://www.austinchronicle.com/arts/2016-10-28/it-came-from-your-brain/)**
 </blockquote>

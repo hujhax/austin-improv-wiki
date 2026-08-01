@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Band Name.jpg">Band Name.jpg</a>
+				![[Band Name.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 First, the tech will choose a song for us to jam to for about 30 seconds and we mime the instruments while morphing into our characters. The tech has full license to choose any song he or she wants. They could even choose it before we take the stage. It can be random, or a reaction to the band name the audience gave us. It doesn't matter to us because we will also be influenced by it in our character choices. </blockquote>
 
 ## More Information
-* [http://www.facebook.com/pages/Band-Name/341152122664954 The troupe's web site (inactive).]
+* [The troupe's web site (inactive).](http://www.facebook.com/pages/Band-Name/341152122664954)
 
 
 [[Category/Troupes|Category:Troupes]]

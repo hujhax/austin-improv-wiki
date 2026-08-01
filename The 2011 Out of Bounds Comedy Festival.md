@@ -179,4 +179,4 @@ The roast featured [[Tom Booker]].
 * *Looking for Lenny* 
 
 ## More Information
-* [http://www.outofboundscomedy.com/2011/ The 2011 Out of Bounds web site.]
+* [The 2011 Out of Bounds web site.](http://www.outofboundscomedy.com/2011/)

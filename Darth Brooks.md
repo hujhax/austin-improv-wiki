@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Darth Brooks.jpg">Darth Brooks.jpg</a>
+				![[Darth Brooks.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=6DNqhd9qUcg&feature=youtu.be Video #1]
+* [Video #1](http://www.youtube.com/watch?v=6DNqhd9qUcg&feature=youtu.be)
 
 ## More Information
-* [http://www.facebook.com/DarthBrooksATX The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/DarthBrooksATX)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

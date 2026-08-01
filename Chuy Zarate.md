@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Chuy Zarate.jpg">Chuy Zarate.jpg</a>
+				![[Chuy Zarate.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -39,5 +39,5 @@ As a teenager in San Antonio, Zarate was coached in improv by [[David Lampe]].
 * *[[Thinning the Herd]]*
 
 ## More Information
-* [http://archive.org/details/ScottHearneTheTheftForum-ChuyZarate-Episode4 Interview] with Chuy on *[[The Theft Forum]]*.
-* [http://yesandrew.com/the-sunday-interview-chuy-zarate/ Interview] by [[Andrew Buck]].
+* [Interview](http://archive.org/details/ScottHearneTheTheftForum-ChuyZarate-Episode4) with Chuy on *[[The Theft Forum]]*.
+* [Interview](http://yesandrew.com/the-sunday-interview-chuy-zarate/) by [[Andrew Buck]].

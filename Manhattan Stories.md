@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Manhattan-stories.jpg">Manhattan-stories.jpg</a>
+				![[Manhattan-stories.jpg]]
 			</td>
 		</tr>
 
@@ -157,29 +157,29 @@ It originally ran in July/August of 2012 but was extended through September.
 
 ## Media
 ### Videos
-* [http://vimeo.com/47516274 Video of the 6/28/12 performance.]
-* [http://vimeo.com/45806847 Video of the 7/14/12 performance.]
-* [http://vimeo.com/47516274 Video of the 7/28/12 performance.]
-* [http://vimeo.com/47680093 Video of the 8/4/12 performance.]
+* [Video of the 6/28/12 performance.](http://vimeo.com/47516274)
+* [Video of the 7/14/12 performance.](http://vimeo.com/45806847)
+* [Video of the 7/28/12 performance.](http://vimeo.com/47516274)
+* [Video of the 8/4/12 performance.](http://vimeo.com/47680093)
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.443869988967835.99163.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 7/7/12 performance.
-* [http://www.facebook.com/media/set/?set=a.397800070283515.94798.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 7/14/12 performance.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.443869988967835.99163.100000345135257&type=3) by [[Claudio Fox]] of the 7/7/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.397800070283515.94798.221927764537414&type=3) by [[Steve Rogers]] of the 7/14/12 performance.
 
 ### Publicity
-* [http://vimeo.com/45020927 Show trailer.]
-* [http://vimeo.com/47916987 Show trailer] for [[The Out of Bounds Comedy Festival]].
+* [Show trailer.](http://vimeo.com/45020927)
+* [Show trailer](http://vimeo.com/47916987) for [[The Out of Bounds Comedy Festival]].
 
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/manhattan-stories-set/manhattan-stories-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
-* [http://vimeo.com/47244617 Video demo] of "Sex & Death", a game created by [[Marc Majcher]] as a show tie-in.
-* [http://vimeo.com/48532990 Pre-show clips.]
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/manhattan-stories-set/manhattan-stories-set.jpg?disposition=download) of [[Kaci Beeler]]'s set design.
+* [Video demo](http://vimeo.com/47244617) of "Sex & Death", a game created by [[Marc Majcher]] as a show tie-in.
+* [Pre-show clips.](http://vimeo.com/48532990)
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2048029 Interview] with directors [[Valerie Ward]] and [[Jon Bolden]] and cast members [[Nicole Beckley]] and [[Marc Majcher]] on *[[The Theft Forum]]*.
-* [http://yesandrew.com/2013/09/13/in-praise-of-manhattan-stories-woody-allen-and-restraint/ "In Praise Of..." post about the show] by [[Andrew Buck]].
-** [http://www.hideouttheatre.com/an-insiders-look-at-manhattan-stories-improvised-woody-allen A Hideout blogpost about the show] by [[Andrew Buck]].
-* [http://www.hideouttheatre.com/manhattan-stories-the-game Post about "Sex & Death"], a show-associated game by [[Marc Majcher]].
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2048029) with directors [[Valerie Ward]] and [[Jon Bolden]] and cast members [[Nicole Beckley]] and [[Marc Majcher]] on *[[The Theft Forum]]*.
+* ["In Praise Of..." post about the show](http://yesandrew.com/2013/09/13/in-praise-of-manhattan-stories-woody-allen-and-restraint/) by [[Andrew Buck]].
+** [A Hideout blogpost about the show](http://www.hideouttheatre.com/an-insiders-look-at-manhattan-stories-improvised-woody-allen) by [[Andrew Buck]].
+* [Post about "Sex & Death"](http://www.hideouttheatre.com/manhattan-stories-the-game), a show-associated game by [[Marc Majcher]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

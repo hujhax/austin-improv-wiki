@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Nathan Livni.jpg">Nathan Livni.jpg</a>
+				![[Nathan Livni.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@
 	</table>
 </div>
 
-**Nathan Livni** is an improv performer and artist. Since 2011 he's posted drawings he's made of improvisors on his [http://www.facebook.com/nathanlivni Facebook page] and [http://www.nathanlivni.com website].
+**Nathan Livni** is an improv performer and artist. Since 2011 he's posted drawings he's made of improvisors on his [Facebook page](http://www.facebook.com/nathanlivni) and [website](http://www.nathanlivni.com).
 
 
 ## Troupes

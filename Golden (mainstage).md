@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Golden.jpg">Golden.jpg</a>
+				![[Golden.jpg]]
 			</td>
 		</tr>
 
@@ -169,16 +169,16 @@ From the show announcement:<blockquote>"A full-length improvised narrative, perf
 
 ## Media
 ### Videos
-* [http://vimeo.com/126062642 Video] of their 4/11/15 show at [[The 2015 Improvised Play Festival]].
+* [Video](http://vimeo.com/126062642) of their 4/11/15 show at [[The 2015 Improvised Play Festival]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.941350029261847.1073742182.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 4/11/15 performance in [[The Improvised Play Festival]].
-* [http://www.facebook.com/media/set/?set=a.802662349810278.1073741858.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 4/18/15 performance.
-* [http://www.facebook.com/media/set/?set=a.954997724563744.1073742189.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 5/2/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.941350029261847.1073742182.221927764537414&type=3) by [[Steve Rogers]] of their 4/11/15 performance in [[The Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.802662349810278.1073741858.473177099425473&type=3) by [[Chad Wellington]] of the 4/18/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.954997724563744.1073742189.221927764537414&type=3) by [[Steve Rogers]] of their 5/2/15 performance.
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
-* [http://www.hideouttheatre.com/inspiration-is-golden-2 A blog post] by [[Marc Majcher]] that lists the show's influences.
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
+* [A blog post](http://www.hideouttheatre.com/inspiration-is-golden-2) by [[Marc Majcher]] that lists the show's influences.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

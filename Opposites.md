@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Opposites.jpg">Opposites.jpg</a>
+				![[Opposites.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,11 +83,11 @@ Currently, the duo performs every Wednesday at 8:00 pm at [[The New Movement The
 
 ## Media
 ### Photos
-* [http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3 Photoset] by [[Jon Bolden]] which includes their performance at [[WaffleFest 2012]].
+* [Photoset](http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3) by [[Jon Bolden]] which includes their performance at [[WaffleFest 2012]].
 
 ## More Information
-*[http://www.facebook.com/OppositesComedy?ref=ts&fref=ts Opposites facebook page]
-*[http://www.oppositescomedy.com Opposites website]
+*[Opposites facebook page](http://www.facebook.com/OppositesComedy?ref=ts&fref=ts)
+*[Opposites website](http://www.oppositescomedy.com)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

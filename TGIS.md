@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="TGIS.jpg">TGIS.jpg</a>
+				![[TGIS.jpg]]
 			</td>
 		</tr>
 
@@ -187,11 +187,11 @@ The show included special guests every week, as follows:
 ## Media
 <references/>
 ### Other
-* [http://www.youtube.com/watch?feature=player_embedded&v=I5KiIDC3DkU Opening credits for "Boy Greets World".]
-* [http://www.youtube.com/watch?feature=player_embedded&v=yKYpk8ZjQBw Opening credits for "Buddies".]
-* [http://www.youtube.com/watch?feature=player_embedded&v=TszW1t2aQNo TGIS hosting video.]
+* [Opening credits for "Boy Greets World".](http://www.youtube.com/watch?feature=player_embedded&v=I5KiIDC3DkU)
+* [Opening credits for "Buddies".](http://www.youtube.com/watch?feature=player_embedded&v=yKYpk8ZjQBw)
+* [TGIS hosting video.](http://www.youtube.com/watch?feature=player_embedded&v=TszW1t2aQNo)
 
 ## More Information
-* [http://www.coldtownetheater.com/blog/tgis-90s-sitcoms-saturdays-march The show's web page.]
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=14718 Show announcement] on [[The Austin Improv Forums]].
+* [The show's web page.](http://www.coldtownetheater.com/blog/tgis-90s-sitcoms-saturdays-march)
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?f=2&t=14718) on [[The Austin Improv Forums]].
 [[Category/Shows|Category:Shows]]

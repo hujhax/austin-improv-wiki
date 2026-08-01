@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Madeline and Shannon and their guest artist each right a challenge/limitation/surprise for each of the other two players at the top of the show. The audience choses which surprise is in play for that player for the duration of the show. Improv plus another art discipline ensue. The final surprise is the guest artist reveals who the next guest artist for the Surprise Party will be.</blockquote>
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11099 The announcement of the duo's debut] on [[The Austin Improv Forums]].
+* [The announcement of the duo's debut](http://forum.austinimprov.com/viewtopic.php?t=11099) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Surprise Party]]
 [[Category/Auto-Generated Troupe Pages|Surprise Party]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Executive Mandate.jpg">Executive Mandate.jpg</a>
+				![[Executive Mandate.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,7 +88,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 The troupe played in *[[The Cagematch]]* in 2009.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=9931 Thread] on [[The Austin Improv Forums]] listing the *[[Cagematch]]* schedule that includes the troupe.
+* [Thread](http://forum.austinimprov.com/viewtopic.php?f=2&t=9931) on [[The Austin Improv Forums]] listing the *[[Cagematch]]* schedule that includes the troupe.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

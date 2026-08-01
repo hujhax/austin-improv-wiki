@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Frank Mills.jpg">The Frank Mills.jpg</a>
+				![[The Frank Mills.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -143,24 +143,24 @@ and many of their students
 
 ## Media
 ### Videos
-* [http://youtu.be/MGPbzObquSM Video] by [[Brian Boyko]] of their 4/7/12 show.
+* [Video](http://youtu.be/MGPbzObquSM) by [[Brian Boyko]] of their 4/7/12 show.
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3 Photoset] by [[Peter Rogers]] that includes their 11/15/09 performance.
-* [http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 11/19/11 performance at [[WaffleFest]].
-* [http://www.facebook.com/media/set/?set=a.383629978367191.91509.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 6/16/12 "Goodbye Justin and Teresa" show at [[ColdTowne Theater]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 12/27/12 performance with [[Squirrel Buddies]] in *[[The Threefer]]*.
-* [http://www.facebook.com/media/set/?set=a.470860206310834.113818.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 1/5/13 performance at [[ColdTowne Theater]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
-* [http://www.facebook.com/media/set/?set=a.756154667781385.1073742023.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105046990502450.1073741875.7909117&type=3 Photoset] by [[Heidi Rogers]] of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204341364356968.1073741954.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/20/15 show in [[The 46-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Peter Rogers]] that includes their 11/15/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3) by [[Roy Moore]] that includes their 11/19/11 performance at [[WaffleFest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.383629978367191.91509.221927764537414&type=3) by [[Steve Rogers]] that includes their 6/16/12 "Goodbye Justin and Teresa" show at [[ColdTowne Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3) by [[Michael Yew]] which includes their 12/27/12 performance with [[Squirrel Buddies]] in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.470860206310834.113818.221927764537414&type=3) by [[Steve Rogers]] of their 1/5/13 performance at [[ColdTowne Theater]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.756154667781385.1073742023.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105046990502450.1073741875.7909117&type=3) by [[Heidi Rogers]] of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204341364356968.1073741954.1315383518&type=3) by [[Michael Yew]] that includes their 6/20/15 show in [[The 46-Hour Improv Marathon]].
 
 ## More Information
-* [http://www.thefrankmills.net/ The troupe's website.]
-* [http://www.facebook.com/pages/The-Frank-Mills/215601841791447 The troupe's facebook page.]
-* [http://thefrankmills.wordpress.com/ The troupe's blog from their writing process of their sketch show Winning Dirty.]
+* [The troupe's website.](http://www.thefrankmills.net/)
+* [The troupe's facebook page.](http://www.facebook.com/pages/The-Frank-Mills/215601841791447)
+* [The troupe's blog from their writing process of their sketch show Winning Dirty.](http://thefrankmills.wordpress.com/)
 
 [[Category/Troupes|Frank Mills]]
 [[Category/Active|Category:Active]]

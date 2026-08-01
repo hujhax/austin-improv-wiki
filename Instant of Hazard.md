@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Instant of Hazard.jpg">Instant of Hazard.jpg</a>
+				![[Instant of Hazard.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -97,7 +97,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/50905999 Video] by [[Dave Alley]] of their 10/4/12 performance.
+* [Video](http://vimeo.com/50905999) by [[Dave Alley]] of their 10/4/12 performance.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

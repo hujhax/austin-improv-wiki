@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Duran & Johsnon.jpg">Duran & Johsnon.jpg</a>
+				![[Duran & Johsnon.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 In October 2013, the duo had a Thursday-night headlining run at [[ColdTowne Theater]] with the government-themed "Special Sessions On..."
 
 ## More Information
-* [http://www.facebook.com/#!/HeatherHasTwoOprahs?fref=ts The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/#!/HeatherHasTwoOprahs?fref=ts)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

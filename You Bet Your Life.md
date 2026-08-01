@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="You Bet Your Life.jpg">You Bet Your Life.jpg</a>
+				![[You Bet Your Life.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -74,7 +74,7 @@
 	</table>
 </div>
 
-**You Bet Your Life** is an improv duo that performs a format based on [http://en.wikipedia.org/wiki/You_Bet_Your_Life the Groucho Marx game show of the same name].
+**You Bet Your Life** is an improv duo that performs a format based on [the Groucho Marx game show of the same name](http://en.wikipedia.org/wiki/You_Bet_Your_Life).
 
 ## Summary
 ### Press Blurb

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Monks' Night Out.jpg">Monks' Night Out.jpg</a>
+				![[Monks' Night Out.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -104,8 +104,8 @@ The troupe had several musical directors: first [[Ben Prince]], then [[Tim Girar
 ## Media
 ![[Monks T-Shirt.jpg|A Monks' Night Out t-shirt.]]
 ### Photos
-* [http://m.austin360.com/gallery/clark-howard/employment-military/austins-comedy-scene-042212/g4L4/ A gallery that includes photos of the troupe.]
+* [A gallery that includes photos of the troupe.](http://m.austin360.com/gallery/clark-howard/employment-military/austins-comedy-scene-042212/g4L4/)
 
 ## More Information
-* [http://www.austinchronicle.com/news/1997-03-14/527558/ A mention in the 3/14/97 *Austin Chronicle*.]
+* [A mention in the 3/14/97 *Austin Chronicle*.](http://www.austinchronicle.com/news/1997-03-14/527558/)
 [[Category/Troupes|Category:Troupes]]

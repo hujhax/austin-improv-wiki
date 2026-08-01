@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Peter Rogers Pic.jpg">Peter Rogers Pic.jpg</a>
+				![[Peter Rogers Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -28,7 +28,7 @@ Prior to 2000, Peter's only experience with improv had been a number of improv g
 Peter was a core cast member in [[The 42-Hour Improv Marathon]] and [[The 44-Hour Improv Marathon]].
 
 ## Photography
-Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly, and setting up [http://vimeo.com/channels/austinimprov The Austin Improv Vimeo Channel].
+Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly, and setting up [The Austin Improv Vimeo Channel](http://vimeo.com/channels/austinimprov).
 
 ## Troupes
 * [[First Round Draft]] (2001-2002)
@@ -76,29 +76,29 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[You Think You're So Smart]]*
 
 ## Media
-* [http://www.flickr.com/photos/hujhax/collections/72157613519092868/ Peter's improv photos on flickr.]
-* [http://vimeo.com/hujhax/videos Peter's videos on vimeo.]
+* [Peter's improv photos on flickr.](http://www.flickr.com/photos/hujhax/collections/72157613519092868/)
+* [Peter's videos on vimeo.](http://vimeo.com/hujhax/videos)
 
 ## Writing
 ### Sketches
 * Videos
-** Sketches Peter wrote for *[[The Joss Whedon Pajama Party]]*: [http://vimeo.com/44147623 "The Big Red Button"]; [http://vimeo.com/44147529 "Cancellation Support Group"]; [http://vimeo.com/45173703 "Joss Whedon's Dream Project"], "Wash Has Too Much Time on His Hands", Parts [http://vimeo.com/45295722 1], [http://vimeo.com/45295972 2], & [http://vimeo.com/45295836 3].
-** Sketches Peter wrote for an opening set for [[Your Terrific Neighbors]]: [http://vimeo.com/44639689 "*Hurt Locker* OMG YAY"]; [http://vimeo.com/44640172 "Harlequin Network-Computing Theater"]; [http://vimeo.com/44640577 "Waylon Jennings Interrupts"].
-** [http://vimeo.com/51553569 "The *Arrested Development* Documentary Crew"]
-** [http://vimeo.com/35782149 "Learning Something New About History"]
-* [http://hujhax.livejournal.com/tag/sketchwar Sketches for "Sketchwar", a weekly sketch-writing contest.]
+** Sketches Peter wrote for *[[The Joss Whedon Pajama Party]]*: ["The Big Red Button"](http://vimeo.com/44147623); ["Cancellation Support Group"](http://vimeo.com/44147529); ["Joss Whedon's Dream Project"](http://vimeo.com/45173703), "Wash Has Too Much Time on His Hands", Parts [1](http://vimeo.com/45295722), [2](http://vimeo.com/45295972), & [3](http://vimeo.com/45295836).
+** Sketches Peter wrote for an opening set for [[Your Terrific Neighbors]]: ["*Hurt Locker* OMG YAY"](http://vimeo.com/44639689); ["Harlequin Network-Computing Theater"](http://vimeo.com/44640172); ["Waylon Jennings Interrupts"](http://vimeo.com/44640577).
+** ["The *Arrested Development* Documentary Crew"](http://vimeo.com/51553569)
+** ["Learning Something New About History"](http://vimeo.com/35782149)
+* [Sketches for "Sketchwar", a weekly sketch-writing contest.](http://hujhax.livejournal.com/tag/sketchwar)
 * Peter also co-wrote *[[Sketchville]]*, a comedy webseries.
 
 ### Other Writing
-* [http://hujhax.livejournal.com/tag/spanish "Spanish for Everyday Situations".]
-* [http://youtu.be/ZxMJmf7UMqc&list=PL673F70376C8DE6B8 "Bellydancing Ninjas" (radio serial).]
+* ["Spanish for Everyday Situations".](http://hujhax.livejournal.com/tag/spanish)
+* ["Bellydancing Ninjas" (radio serial).](http://youtu.be/ZxMJmf7UMqc&list=PL673F70376C8DE6B8)
 
 ## More Information
-* [http://hujhax.livejournal.com/872048.html Peter's explanation of the best way to video-record improv shows with your iPhone.]
-* [http://tinyurl.com/petersimprovshows A Google calendar of Peter's improv performances.]
-* A song about Peter Rogers composed and recorded by [[Michael Joplin]]: [http://soundcloud.com/hujhax/peter-rogers-just-dont-give-a-fuck "Peter Rogers Just Don't Give A Fuck"]
+* [Peter's explanation of the best way to video-record improv shows with your iPhone.](http://hujhax.livejournal.com/872048.html)
+* [A Google calendar of Peter's improv performances.](http://tinyurl.com/petersimprovshows)
+* A song about Peter Rogers composed and recorded by [[Michael Joplin]]: ["Peter Rogers Just Don't Give A Fuck"](http://soundcloud.com/hujhax/peter-rogers-just-dont-give-a-fuck)
 * [[The Hideout Text Adventure|A game Peter wrote about The Hideout Theatre.]]
-* [http://yesandrew.com/the-sunday-interview-peter-rogers/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-peter-rogers/) by [[Andrew Buck]].
 
 [[Category/Performers|Rogers]]
 [[Category/Directors|Rogers]]

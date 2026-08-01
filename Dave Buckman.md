@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Dave Buckman Pic.jpg">Dave Buckman Pic.jpg</a>
+				![[Dave Buckman Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -79,8 +79,8 @@ PREVIOUS
 * *[[Thinning the Herd]]*
 
 ## More Information
-* [http://yesandrew.com/2013/07/28/the-sunday-interview-dave-buckman/ Interview] by [[Andrew Buck]].
-* [http://gybpodcast.libsyn.com/dave-buckman-ep-34-got-your-back Interview] on *[[Got Your Back]]*.
+* [Interview](http://yesandrew.com/2013/07/28/the-sunday-interview-dave-buckman/) by [[Andrew Buck]].
+* [Interview](http://gybpodcast.libsyn.com/dave-buckman-ep-34-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Buckman]]
 [[Category/Directors|Buckman]]

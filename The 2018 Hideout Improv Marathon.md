@@ -71,4 +71,4 @@
 ** "The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep."
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/improvmarathon The marathon's web page.]
+* [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)

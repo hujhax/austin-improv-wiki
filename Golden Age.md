@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Golden Age.jpg">Golden Age.jpg</a>
+				![[Golden Age.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -94,6 +94,6 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 The troupe won one of ColdTowne's *[[Cagematch]]* tournaments in late 2012.
 
 ## More Information
-* [http://www.facebook.com/goldenageimprov The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/goldenageimprov)
 
 [[Category/Troupes|Category:Troupes]]

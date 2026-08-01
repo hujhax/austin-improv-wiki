@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Baxter and Bernard.jpg">Baxter and Bernard.jpg</a>
+				![[Baxter and Bernard.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -93,14 +93,14 @@ Asaf Ronen, Tom Booker and Jeff Britt have about one thousand years of combined 
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3 Photoset]  by [[Roy Moore]] that includes their 9/16/10 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/23/10 performance at [[The Hideout Theatre]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/23/11 performance at [[The Hideout Theatre]].
-* [http://www.facebook.com/photo.php?fbid=1848366940806&set=a.1848365940781.2087576.1589679282&type=3&theater Photoset] by [[Roy Moore]] that includes their 8/10/11 performance at [[The Institution Theater]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.498891300132370.112495.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their 2012 Christmas special.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3)  by [[Roy Moore]] that includes their 9/16/10 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 12/23/10 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/23/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/photo.php?fbid=1848366940806&set=a.1848365940781.2087576.1589679282&type=3&theater) by [[Roy Moore]] that includes their 8/10/11 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.498891300132370.112495.100000345135257&type=3) by [[Claudio Fox]] of their 2012 Christmas special.
 
 ## More Information
-* [http://vimeo.com/22766356 Video of a 2012 performance.]
+* [Video of a 2012 performance.](http://vimeo.com/22766356)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

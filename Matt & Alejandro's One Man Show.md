@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Matt & Alejandro's One Man Show.jpg">Matt & Alejandro's One Man Show.jpg</a>
+				![[Matt & Alejandro's One Man Show.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,10 +87,10 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=MM-g1Y_4CcM Video #1]
+* [Video #1](http://www.youtube.com/watch?v=MM-g1Y_4CcM)
 
 ## More Information
-* [http://www.facebook.com/ouronemanshow The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/ouronemanshow)
 
 
 [[Category/Troupes|Category:Troupes]]

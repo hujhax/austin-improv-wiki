@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Jorak and Jorak Do Movie.jpg">Jorak and Jorak Do Movie.jpg</a>
+				![[Jorak and Jorak Do Movie.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,19 +83,19 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 
 ## Media
 ### Videos
-* [http://youtu.be/lL-NoJRHjpI Video of their 3/1/11 show.]
-* [http://www.youtube.com/watch?v=AHJLwxTZsQ8 Video of their 7/1/11 show.]
-* [http://www.youtube.com/watch?v=WECA_nrDXpc Video of their 8/31/11 show.]
-* [http://vimeo.com/106569749 Video] of their 8/31/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
+* [Video of their 3/1/11 show.](http://youtu.be/lL-NoJRHjpI)
+* [Video of their 7/1/11 show.](http://www.youtube.com/watch?v=AHJLwxTZsQ8)
+* [Video of their 8/31/11 show.](http://www.youtube.com/watch?v=WECA_nrDXpc)
+* [Video](http://vimeo.com/106569749) of their 8/31/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.jorakandjorak.com/pictures.html Pictures of Jorak and Jorak in action.]
-* [http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 8/31/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.797594956970689.1073742069.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Pictures of Jorak and Jorak in action.](http://www.jorakandjorak.com/pictures.html)
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/31/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.797594956970689.1073742069.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.jorakandjorak.com The troupe's web site.]
-* [http://www.facebook.com/jorakandjorak/ The troupe's facebook page.]
+* [The troupe's web site.](http://www.jorakandjorak.com)
+* [The troupe's facebook page.](http://www.facebook.com/jorakandjorak/)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

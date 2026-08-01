@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Off the Reef.png">Off the Reef.png</a>
+				![[Off the Reef.png]]
 			</td>
 		</tr>
 
@@ -119,9 +119,9 @@ The show's run included the following dates: 11/2/12, 11/3/12, 11/9/12, and 11/1
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.441626655900856.107770.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 11/3/12 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3845057167671.137443.1315383518&type=3 Photoset] by [[Michael Yew]] of one of the shows.
+* [Photoset](http://www.facebook.com/media/set/?set=a.441626655900856.107770.221927764537414&type=3) by [[Steve Rogers]] of the 11/3/12 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3845057167671.137443.1315383518&type=3) by [[Michael Yew]] of one of the shows.
 
 ## More Information
-* [http://puppetimprovproject.org/off-the-reef.html The show's web page.]
-* [http://forum.austinimprov.com/viewtopic.php?t=14206 Show announcement] on [[The Austin Improv Forums]].
+* [The show's web page.](http://puppetimprovproject.org/off-the-reef.html)
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=14206) on [[The Austin Improv Forums]].

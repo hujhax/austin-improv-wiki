@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Second Hand.jpg">Second Hand.jpg</a>
+				![[Second Hand.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -92,7 +92,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [https://www.facebook.com/michael.yew/media_set?set=a.1451649133966.61937.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 12/1/10 performance.
+* [Photoset](https://www.facebook.com/michael.yew/media_set?set=a.1451649133966.61937.1315383518&type=3) by [[Michael Yew]] that includes their 12/1/10 performance.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

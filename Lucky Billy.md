@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Lucky Billy.jpeg">Lucky Billy.jpeg</a>
+				![[Lucky Billy.jpeg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,7 +88,7 @@ Lucky Billy has performed at the following festivals
 
 ## Media
 ### Videos
-* [https://www.youtube.com/watch?v=kmgvdlXqTJE&feature=youtu.be Video] of their first show at ColdTowne.  
+* [Video](https://www.youtube.com/watch?v=kmgvdlXqTJE&feature=youtu.be) of their first show at ColdTowne.  
 
 ### Photos
 ## See Also

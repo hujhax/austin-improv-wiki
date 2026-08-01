@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="AustinAustinPromo.jpg">AustinAustinPromo.jpg</a>
+				![[AustinAustinPromo.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -103,25 +103,25 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 
 ## Media
 ### Videos
-*[https://www.twitch.tv/videos/307243433?t=157m15s 9/7/2018]
-*[https://www.twitch.tv/videos/306470904 8/29/2018]
-*[https://www.twitch.tv/videos/298337316 8/3/2018]
-*[https://www.twitch.tv/videos/289265776?t=48m25s 7/13/2018]
-*[https://www.twitch.tv/videos/283241674 6/28/2018]
-*[https://www.twitch.tv/videos/253311805 4/19/2018]
-*[https://www.twitch.tv/videos/219086534 1/14/2018]
-*[https://vimeo.com/211390877 3/5/2017]
-*[https://vimeo.com/166231438 4/29/2016]
-*[https://vimeo.com/164670808 04/16/2016]
-*[https://vimeo.com/155697081 Dungeon Masters Debut 02/12/2016]
-*[https://vimeo.com/147039373 Wafflefest 2015]
-*[https://vimeo.com/129337041 05/29/2015]
-*[https://vimeo.com/128801763 05/15/2015]
+*[9/7/2018](https://www.twitch.tv/videos/307243433?t=157m15s)
+*[8/29/2018](https://www.twitch.tv/videos/306470904)
+*[8/3/2018](https://www.twitch.tv/videos/298337316)
+*[7/13/2018](https://www.twitch.tv/videos/289265776?t=48m25s)
+*[6/28/2018](https://www.twitch.tv/videos/283241674)
+*[4/19/2018](https://www.twitch.tv/videos/253311805)
+*[1/14/2018](https://www.twitch.tv/videos/219086534)
+*[3/5/2017](https://vimeo.com/211390877)
+*[4/29/2016](https://vimeo.com/166231438)
+*[04/16/2016](https://vimeo.com/164670808)
+*[Dungeon Masters Debut 02/12/2016](https://vimeo.com/155697081)
+*[Wafflefest 2015](https://vimeo.com/147039373)
+*[05/29/2015](https://vimeo.com/129337041)
+*[05/15/2015](https://vimeo.com/128801763)
 
 ### Photos
-*[https://www.flickr.com/photos/8820084@N02/sets/72157664821480622/ Dungeon Masters At The Hideout]
-*[http://www.austinandaustin.us/2-27-15-2x4-hideout-theatre/ 2x4 At The Hideout] 
-*[http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+*[Dungeon Masters At The Hideout](https://www.flickr.com/photos/8820084@N02/sets/72157664821480622/)
+*[2x4 At The Hideout](http://www.austinandaustin.us/2-27-15-2x4-hideout-theatre/) 
+*[Photoset](http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## Press/Audition Blurbs
 ***Who Are We? Long Version**
@@ -138,8 +138,8 @@ They come together to form scenes ranging from fun fantasy romps to touching rea
 Lo! What dangers lie beyond that dark and stormy sea? Just listen, sailor!  Hear the songs of Sirens and the growl of whale bellies echo. Look! See the lightning splinter against a lone ship and cast the silhouette of tentacles. What fantastic and grim tales lie in the rigging of danger? What cataclysm calls you forth from the crows nest of open water? Find out with Austin/Austin in Ships and Shanties!
 
 ## More Information
-* [http://www.austinandaustin.us/ The duo's website.]
-* [https://www.facebook.com/austinandaustinimprov The duo's facebook page.]
+* [The duo's website.](http://www.austinandaustin.us/)
+* [The duo's facebook page.](https://www.facebook.com/austinandaustinimprov)
 * Show Count: 43 (as of 09/15/2017)
 
 [[Category/Troupes|Category:Troupes]]

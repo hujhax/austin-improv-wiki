@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Laser Heart.jpg">Laser Heart.jpg</a>
+				![[Laser Heart.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,8 +88,8 @@ The troupe played in the 2011 [[Hell Yes Fest]].
 
 ## Media
 ### Videos
-* [http://vimeo.com/31356852 "Millionaire Matchmaker season 666"]
-* [http://youtu.be/-7fnq-51naE "Zombie Survivor"]
+* ["Millionaire Matchmaker season 666"](http://vimeo.com/31356852)
+* ["Zombie Survivor"](http://youtu.be/-7fnq-51naE)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Cochise Poster.jpg">Cochise Poster.jpg</a>
+				![[Cochise Poster.jpg]]
 			</td>
 		</tr>
 
@@ -248,25 +248,25 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 ## Media
 ![[Cochise Performance.jpg|A performance of *Cochise*.]]
 ### Photos
-* [http://www.flickr.com/photos/8820084@N02/sets/72157620623735851 Photoset] by [[Michael Yew]] of their appearance in [[The 40-Hour Improv Marathon]].
-* [http://www.facebook.com/media/set/?set=a.746912335372285.1073742015.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 6/7/14 show.
-* [http://www.facebook.com/media/set/?set=a.759506387446213.1073742028.221927764537414&type=3 Photoset]  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620623735851) by [[Michael Yew]] of their appearance in [[The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.746912335372285.1073742015.221927764537414&type=3) by [[Steve Rogers]] of the 6/7/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.759506387446213.1073742028.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 
 ### Videos
-* [http://www.youtube.com/watch?v=gHYDvzQKeoM Video of the premiere performance of *Cochise*] at [[The 2008 Out of Bounds Comedy Festival]].
-** [http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040 Another video] of the same show.
-* [http://youtu.be/04yQnI0n7rg Video of the first performance of the first run: "Bad Santa".]
-* [http://www.youtube.com/watch?v=b6IpnJBVM34 Video of the second performance of the first run: "Something Smells at the Docks".]
-* [http://www.youtube.com/watch?v=VH9K1iQfmt4 Video of the third performance of the first run.]
-* [http://www.youtube.com/watch?v=a6wWUtuHQ-U Video of the fourth performance of the first run.]
-* [http://youtu.be/tR3RSQkm1yM Video of the 1/31/09 performance: "Tag You're It".]
+* [Video of the premiere performance of *Cochise*](http://www.youtube.com/watch?v=gHYDvzQKeoM) at [[The 2008 Out of Bounds Comedy Festival]].
+** [Another video](http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040) of the same show.
+* [Video of the first performance of the first run: "Bad Santa".](http://youtu.be/04yQnI0n7rg)
+* [Video of the second performance of the first run: "Something Smells at the Docks".](http://www.youtube.com/watch?v=b6IpnJBVM34)
+* [Video of the third performance of the first run.](http://www.youtube.com/watch?v=VH9K1iQfmt4)
+* [Video of the fourth performance of the first run.](http://www.youtube.com/watch?v=a6wWUtuHQ-U)
+* [Video of the 1/31/09 performance: "Tag You're It".](http://youtu.be/tR3RSQkm1yM)
 
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/3066392555_88d13bf6de_o/3066392555_88d13bf6de_o.jpg?disposition=download Photo] of [[Kaci Beeler]]'s 2008 set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/3066392555_88d13bf6de_o/3066392555_88d13bf6de_o.jpg?disposition=download) of [[Kaci Beeler]]'s 2008 set design.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=72523 The announcement of the dates] for [[Frontera Fest]] on [[The Austin Improv Forums]].
-* [http://www.austinchronicle.com/arts/2008-11-28/707074/ Article in *The Austin Chronicle* about the show.]
+* [The announcement of the dates](http://forum.austinimprov.com/viewtopic.php?p=72523) for [[Frontera Fest]] on [[The Austin Improv Forums]].
+* [Article in *The Austin Chronicle* about the show.](http://www.austinchronicle.com/arts/2008-11-28/707074/)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

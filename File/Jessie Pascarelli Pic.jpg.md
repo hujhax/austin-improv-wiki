@@ -1,7 +1,7 @@
 ## Summary
 [[Jessie Pascarelli]], volunteering at the 2012 [[WaffleFest]].
 
-Photo by [[Heidi Rogers]], from [http://www.facebook.com/media/set/?set=a.10102522219773230.3490342.7909117&type=3 this photoset].
+Photo by [[Heidi Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.10102522219773230.3490342.7909117&type=3).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

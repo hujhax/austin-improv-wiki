@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays - John Hughes Summer School.jpg">Live TV Tuesdays - John Hughes Summer School.jpg</a>
+				![[Live TV Tuesdays - John Hughes Summer School.jpg]]
 			</td>
 		</tr>
 
@@ -101,7 +101,7 @@ It ran exclusively at [[The Highball]].
 
 ## Crew
 ## Media
-* [http://www.facebook.com/media/set/?set=a.1860642198537.91518.1315383518&type=3 A photoset] by [[Michael Yew]] that includes the 7/19/11 performance of "John Hughes Summer School".
+* [A photoset](http://www.facebook.com/media/set/?set=a.1860642198537.91518.1315383518&type=3) by [[Michael Yew]] that includes the 7/19/11 performance of "John Hughes Summer School".
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=109894 Forum announcement of the show.]
+* [Forum announcement of the show.](http://forum.austinimprov.com/viewtopic.php?p=109894)

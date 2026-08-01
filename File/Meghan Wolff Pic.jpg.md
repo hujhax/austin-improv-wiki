@@ -1,7 +1,7 @@
 ## Summary
 [[Meghan Wolff]], in the 4/17/10 performance of *[[Apocalypse! (show)|Apocalypse!]]*
 
-Photo by [[Roy Moore]], from [http://www.facebook.com/media/set/?set=a.1234168306224.2029453.1589679282&type=3 this photoset].
+Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.1234168306224.2029453.1589679282&type=3).
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

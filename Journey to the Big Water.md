@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Journey to the Big Water.jpg">Journey to the Big Water.jpg</a>
+				![[Journey to the Big Water.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -102,22 +102,22 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/13/11 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.376374809050687.87193.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their performance in the 3/22/12 *[[Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/13/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3) by [[Steve Rogers]] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.376374809050687.87193.100000345135257&type=3) by [[Claudio Fox]] of their performance in the 3/22/12 *[[Threefer]]*.
 
 ### Videos
-* Video of their second show (11/18/10): [http://youtu.be/DwBEble15w4 1], [http://youtu.be/oxLOyQIYJfw 2].
-* Video of their fourth show (1/6/11): [http://youtu.be/9KKwdWcMfbE 1], [http://youtu.be/wVP66OwrLoo 2], [http://youtu.be/EDoQiAkKuW8 3].
-* Video of their fifth show (1/13/11): [http://youtu.be/zEj-wUe4rrc 1], [http://youtu.be/K6_qQXivXoQ 2]
-* [http://www.youtube.com/watch?v=HyHgSUg6EqU Video of their sixth show (1/19/11).]
-** [http://youtu.be/HyHgSUg6EqU Another partial video of the same show.]
+* Video of their second show (11/18/10): [1](http://youtu.be/DwBEble15w4), [2](http://youtu.be/oxLOyQIYJfw).
+* Video of their fourth show (1/6/11): [1](http://youtu.be/9KKwdWcMfbE), [2](http://youtu.be/wVP66OwrLoo), [3](http://youtu.be/EDoQiAkKuW8).
+* Video of their fifth show (1/13/11): [1](http://youtu.be/zEj-wUe4rrc), [2](http://youtu.be/K6_qQXivXoQ)
+* [Video of their sixth show (1/19/11).](http://www.youtube.com/watch?v=HyHgSUg6EqU)
+** [Another partial video of the same show.](http://youtu.be/HyHgSUg6EqU)
 
 ### Publicity
-* [http://youtu.be/Tre4FYcYVBI Troupe promo.]
+* [Troupe promo.](http://youtu.be/Tre4FYcYVBI)
 
 ## More Information
-* [http://www.facebook.com/#!/bigwaterimprov The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/#!/bigwaterimprov)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

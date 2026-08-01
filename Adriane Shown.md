@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Adriane Shown Pic.jpg">Adriane Shown Pic.jpg</a>
+				![[Adriane Shown Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -70,6 +70,6 @@ Hurly Burly : Improvised Burlesque Stories, won two B. Iden Payne Awards, invite
 * "Cat Fight" (Short)
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2323283 Interview with Adriane Shown] on *[[The Theft Forum]]*.
+* [Interview with Adriane Shown](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2323283) on *[[The Theft Forum]]*.
 
 [[Category/Performers|Shown]]

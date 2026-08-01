@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Superwhore.jpg">Superwhore.jpg</a>
+				![[Superwhore.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 We ask for a suggestion of a Porn Movie that has never been shot before. We do a group game opening that emulates a scene from that movie (No sex.) followed by a montage of scenes inspired by the opening that happen behind the scenes. </blockquote>
 
 ## More Information
-* [http://www.facebook.com/pages/Superwhore/1481144185488636 The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/pages/Superwhore/1481144185488636)
 
 
 [[Category/Troupes|Category:Troupes]]

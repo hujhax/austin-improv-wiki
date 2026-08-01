@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Wink Planet.jpg">Wink Planet.jpg</a>
+				![[Wink Planet.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,12 +83,12 @@ Every Saturday in November 2014, Wink Planet teamed up with sketch group Off the
 
 ## Media
 ### Photos
-* [http://www.facebook.com/events/1379225369008806/declines/?comment_id=1434064150162779&notif_t=group_comment Photoset] by [[Claudio Fox]] that includes their 1/31/14 show.
-* [http://www.facebook.com/media/set/?set=a.963746777022172.1073742199.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes highlights of their 5/19/15 show at [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/events/1379225369008806/declines/?comment_id=1434064150162779&notif_t=group_comment) by [[Claudio Fox]] that includes their 1/31/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.963746777022172.1073742199.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/19/15 show at [[Austin Sketch Fest]].
 
 ## More Information
-* [https://www.facebook.com/winkplanet Wink Planet's Facebook]
-* [https://vimeo.com/winkplanet Wink Planet's Vimeo]
-* [https://soundcloud.com/winkplanet/tracks Wink Planet's SoundCloud]
+* [Wink Planet's Facebook](https://www.facebook.com/winkplanet)
+* [Wink Planet's Vimeo](https://vimeo.com/winkplanet)
+* [Wink Planet's SoundCloud](https://soundcloud.com/winkplanet/tracks)
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

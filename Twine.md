@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Twinehands.jpg">Twinehands.jpg</a>
+				![[Twinehands.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -130,7 +130,7 @@ The suggestion is taken from the audience as a single word (ex: "Atlantis"). The
 
 
 ## More Information
-* [https://www.facebook.com/twineimprov The group's facebook page.]
+* [The group's facebook page.](https://www.facebook.com/twineimprov)
 * Show Count: 3 (as of 3/2017)
 
 [[Category/Troupes|Category:Troupes]]

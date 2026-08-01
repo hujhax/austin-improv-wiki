@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Jukebox.jpg">Jukebox.jpg</a>
+				![[Jukebox.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,13 +89,13 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.277470658966597.64699.276876835692646&type=1 Misc. performance photos, posted 12/5/11.]
-* [http://www.facebook.com/media/set/?set=a.285266924853637.65953.276876835692646&type=1 Casual photos from 12/18/11.]
-* [http://www.facebook.com/media/set/?set=a.299566323423697.69324.276876835692646&type=1 Photoset] of their 1/12/2012 "first official performance".
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.367692606585574.85292.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 3/8/12 performance in *[[The Threefer]]*.
+* [Misc. performance photos, posted 12/5/11.](http://www.facebook.com/media/set/?set=a.277470658966597.64699.276876835692646&type=1)
+* [Casual photos from 12/18/11.](http://www.facebook.com/media/set/?set=a.285266924853637.65953.276876835692646&type=1)
+* [Photoset](http://www.facebook.com/media/set/?set=a.299566323423697.69324.276876835692646&type=1) of their 1/12/2012 "first official performance".
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.367692606585574.85292.100000345135257&type=3) by [[Claudio Fox]] that includes their 3/8/12 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/Jukebox.improv The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/Jukebox.improv)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

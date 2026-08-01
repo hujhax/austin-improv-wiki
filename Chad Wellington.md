@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Chad Wellington Pic.jpg">Chad Wellington Pic.jpg</a>
+				![[Chad Wellington Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -103,7 +103,7 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 * *[[Pocketful of Posies]]* (light tech)
 
 ## More Information
-* [http://cwcreations.smugmug.com/ Chad's photography website.]
+* [Chad's photography website.](http://cwcreations.smugmug.com/)
 
 [[Category/Performers|Wellington]]
 [[Category/Techs|Wellington]]

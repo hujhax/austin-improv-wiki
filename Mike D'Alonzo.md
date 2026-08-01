@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Mike D'Alonzo Pic.jpg">Mike D'Alonzo Pic.jpg</a>
+				![[Mike D'Alonzo Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -33,6 +33,6 @@ In 2006, he moved away to Los Angeles.
 * [[The Knuckleball Now]]
 
 ## More Information
-* [http://yesandrew.com/2013/06/16/the-sunday-interview-mike-dalonzo/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/2013/06/16/the-sunday-interview-mike-dalonzo/) by [[Andrew Buck]].
 
 [[Category/Performers|D'Alonzo]]

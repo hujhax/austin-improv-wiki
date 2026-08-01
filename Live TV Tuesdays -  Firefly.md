@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="FireflyPoster.jpg">FireflyPoster.jpg</a>
+				![[FireflyPoster.jpg]]
 			</td>
 		</tr>
 
@@ -301,15 +301,15 @@ Also, [[Kacey Samiee]] subbed in for [[Lindsey Reeves]] in one performance.
 
 ## Media
 ### Videos
-* [http://vimeo.com/50896456 Video of the final performance.]
+* [Video of the final performance.](http://vimeo.com/50896456)
 
 ### Photos
-* [http://www.facebook.com/happywaffle/media_set?set=a.10151849939875324.858746.503270323&type=3 Photoset] by [[Kevin Miller]] of a performance.
-* [http://www.facebook.com/media/set/?set=a.362600717136784.87551.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/15/12 performance.
-* [http://www.facebook.com/media/set/?set=a.348540731881279.76730.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 6/5/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3304329209810.124642.1315383518&type=3 Photoset] by [[Michael Yew]] of the 6/29/12 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10151849939875324.858746.503270323&type=3) by [[Kevin Miller]] of a performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.362600717136784.87551.221927764537414&type=3) by [[Steve Rogers]] of the 5/15/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.348540731881279.76730.118587218209966&type=3) by [[Roy Moore]] of the 6/5/12 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3304329209810.124642.1315383518&type=3) by [[Michael Yew]] of the 6/29/12 performance at [[The Institution Theater]].
 
 ## More Information
-* [http://www.reddit.com/r/firefly/comments/t1s45/walked_by_this_near_ut_campus_in_austin_today/c6m87m7 Reddit post about the production.]
-* [http://whedonesque.com/comments/28667 Response to news of the production on Whedonesque.]
-* [http://www.crushable.com/2012/04/30/entertainment/firefly-our-mrs-reynolds-musical-christina-hendricks-242/ Crushable article about the production.]
+* [Reddit post about the production.](http://www.reddit.com/r/firefly/comments/t1s45/walked_by_this_near_ut_campus_in_austin_today/c6m87m7)
+* [Response to news of the production on Whedonesque.](http://whedonesque.com/comments/28667)
+* [Crushable article about the production.](http://www.crushable.com/2012/04/30/entertainment/firefly-our-mrs-reynolds-musical-christina-hendricks-242/)

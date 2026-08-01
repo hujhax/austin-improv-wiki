@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="PastLivesIPF2013Poster.png">PastLivesIPF2013Poster.png</a>
+				![[PastLivesIPF2013Poster.png]]
 			</td>
 		</tr>
 
@@ -106,15 +106,15 @@ They played their last show at [[The 2014 Improvised Play Festival]] at [[The Hi
 
 ## Media
 ### Videos
-* [http://vimeo.com/63959273 Video of their 4/11/13 debut performance] in [[The 2013 Improvised Play Festival]].
-* [http://vimeo.com/67467225 Video of their 5/24/13 performance] in *[[The Spectacle]]*.
-* [http://vimeo.com/91778244 Video] of their show in [[The 2014 Improvised Play Festival]].
-* [http://vimeo.com/75798036 Video of their 6/22/13 show] in [[The 44-Hour Improv Marathon]].
+* [Video of their 4/11/13 debut performance](http://vimeo.com/63959273) in [[The 2013 Improvised Play Festival]].
+* [Video of their 5/24/13 performance](http://vimeo.com/67467225) in *[[The Spectacle]]*.
+* [Video](http://vimeo.com/91778244) of their show in [[The 2014 Improvised Play Festival]].
+* [Video of their 6/22/13 show](http://vimeo.com/75798036) in [[The 44-Hour Improv Marathon]].
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3) by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
 
 ## More Information
-* [http://yesandrew.com/2014/04/11/the-death-of-a-show/ Post about the show] by [[Andrew Buck]].
+* [Post about the show](http://yesandrew.com/2014/04/11/the-death-of-a-show/) by [[Andrew Buck]].
 
 [[Category/Troupes|Category:Troupes]]

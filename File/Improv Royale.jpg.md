@@ -1,7 +1,7 @@
 ## Summary
 [[Improv Royale]] in their 9/1/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 
-Photo by: unknown, from [http://www.flickr.com/photos/oob_pics/sets/72157627612725716 this photoset].
+Photo by: unknown, from [this photoset](http://www.flickr.com/photos/oob_pics/sets/72157627612725716).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

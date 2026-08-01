@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Austin's Next Top Improviser.jpg">Austin's Next Top Improviser.jpg</a>
+				![[Austin's Next Top Improviser.jpg]]
 			</td>
 		</tr>
 
@@ -131,7 +131,7 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
 ** Coached by [[Shana Merlin]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=7973 A call for show taglines] on [[The Austin Improv Forums]].
-* [http://www.facebook.com/events/221743358427/ Facebook event] for the 12/11/09 show.
+* [A call for show taglines](http://forum.austinimprov.com/viewtopic.php?t=7973) on [[The Austin Improv Forums]].
+* [Facebook event](http://www.facebook.com/events/221743358427/) for the 12/11/09 show.
 
 [[Category/Shows|Category:Shows]]

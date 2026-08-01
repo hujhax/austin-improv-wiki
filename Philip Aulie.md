@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Philspin.jpg">Philspin.jpg</a>
+				![[Philspin.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -27,11 +27,11 @@ Phil was a creator and founding member of [[The PITS]], [[Comedic Amoeba]], [[Pa
 
 ## Media
 ### Videos =
-* [http://vimeo.com/36377569 Tribute video.]
+* [Tribute video.](http://vimeo.com/36377569)
 
 ## More Information
-* [http://www.myspace.com/superhouserock Myspace page for Superhouse]
-* [http://forum.austinimprov.com/viewtopic.php?t=12933 Announcement of his passing] on [[The Austin Improv Forums]].
-* [http://www.legacy.com/obituaries/statesman/obituary.aspx?n=philip-david-aulie&pid=155772915 Philip Aulie's online obituary.]
+* [Myspace page for Superhouse](http://www.myspace.com/superhouserock)
+* [Announcement of his passing](http://forum.austinimprov.com/viewtopic.php?t=12933) on [[The Austin Improv Forums]].
+* [Philip Aulie's online obituary.](http://www.legacy.com/obituaries/statesman/obituary.aspx?n=philip-david-aulie&pid=155772915)
 
 [[Category/Performers|Aulie]]

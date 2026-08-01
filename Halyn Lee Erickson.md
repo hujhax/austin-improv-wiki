@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Halyn Lee Erickson.png">Halyn Lee Erickson.png</a>
+				![[Halyn Lee Erickson.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -56,8 +56,8 @@ In 2015 she moved to Paris.
 * *[[The Tribunal]]*
 
 ## More Information
-* [http://misshalyn.tumblr.com/post/684528455/on-improv-and-what-it-has-been-to-me-from A 6/10/10 tumblr post titled "on improv and what it has been to me from childhood-present".]
-* [http://yesandrew.com/halyn-erickson/ Interview] by [[Andrew Buck]].
+* [A 6/10/10 tumblr post titled "on improv and what it has been to me from childhood-present".](http://misshalyn.tumblr.com/post/684528455/on-improv-and-what-it-has-been-to-me-from)
+* [Interview](http://yesandrew.com/halyn-erickson/) by [[Andrew Buck]].
 
 [[Category/Performers|Erickson]]
 [[Category/Active|Category:Active]]

@@ -9,7 +9,7 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 * [[Karen Jane DeWitt]]
 * [[Lisa Jackson]]
 * [[Peter Rogers]]
-* [http://theimprobox.com/tim-redmond/ Tim Redmond] (guest from Australia)
+* [Tim Redmond](http://theimprobox.com/tim-redmond/) (guest from Australia)
 * [[Troy Miller]]
 
 ## Schedule
@@ -42,7 +42,7 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 * Saturday 9pm: [[Improv for Evil]]
 * Saturday 10pm: *[[Maestro]]*
 * Sunday 12am: [[McNichol and May]]
-* Sunday 1am: "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]
+* Sunday 1am: "[The Bat](http://improvencyclopedia.org/games/The_Bat.html)" with [[ColdTowne (troupe)|ColdTowne]]
 * Sunday 2am: [[The Puppet Improv Project]]
 * Sunday 3am: *[[Live Nude Improv]]* preview
 * Sunday 4am: [[Secret Senate]]
@@ -56,45 +56,45 @@ Two attendees at the event, [[Ryan Hill]] and [[Cat Drago]], decided to start do
 
 ## Media
 ### Videos
-* [http://vimeo.com/24983412 Video of hour 5] with [[Parallelogramophonograph]]
-* [http://vimeo.com/25015231 Video of hour 8] with [[Sarah 7]]
-* [http://vimeo.com/25332777 Video of hour 9] with [[Three Hot Chicks]]
-* [http://vimeo.com/24973753 Video of hour 10] with [[The Intentions]]
+* [Video of hour 5](http://vimeo.com/24983412) with [[Parallelogramophonograph]]
+* [Video of hour 8](http://vimeo.com/25015231) with [[Sarah 7]]
+* [Video of hour 9](http://vimeo.com/25332777) with [[Three Hot Chicks]]
+* [Video of hour 10](http://vimeo.com/24973753) with [[The Intentions]]
 * Videos of hour 21 with [[Confidence Men]]:
-** Scene #1, [[Jason Vines]] and [[Troy Miller]], [http://vimeo.com/24965887 "Women at the Bar"] 
-** Scene #2, [[Asaf Ronen]] and [[Mike Ferstenfeld]], [http://vimeo.com/24967781 "Tchaikovsky"] 
-** Scene #3,  [[Jordan T. Maxwell]] and [[Peter Rogers]], [http://vimeo.com/24967846 "Turtles"] 
-** Scene #4, [[Karen Jane DeWitt]] and [[Lisa Jackson]], [http://vimeo.com/24967941 "God"] 
-** Scene #5, [[Andy Crouch]] and [[Christopher Allen]], [http://vimeo.com/24968081 "Wigs"] 
-** Scene #6, [http://theimprobox.com/tim-redmond/ Tim Redmond] and [[Troy Miller]], [http://vimeo.com/24968289 "Waiting"] 
-** Scene #7, [[Jeff Britt]] and [[Lisa Jackson]], [http://vimeo.com/24968387 "Intermission"] 
-** Scene #8, [[Jason Vines]] and [[Mike Ferstenfeld]], [http://vimeo.com/24969210 "Dreams"] 
-** Scene #9, [[Andy Crouch]] and [[Asaf Ronen]], [http://vimeo.com/24968732 "Seventh Billing"] 
-** Scene #10, [[Jordan T. Maxwell]] and [[Karen Jane DeWitt]], [http://vimeo.com/24968810 "Double Trouble"] 
-** Scene #11, [[Christopher Allen]] and [[Peter Rogers]], [http://vimeo.com/24968915 "High-Wire Act"] 
-** Scene #12, [[Jeff Britt]] and [[Jason Vines]], [http://vimeo.com/24968983 "Integrity"] 
-** Scene #13, [[Asaf Ronen]] and [[Lisa Jackson]], [http://vimeo.com/24969077 "Hank Charlie"] 
-** Scene #14, [[Mike Ferstenfeld]], [[Troy Miller]], & [http://theimprobox.com/tim-redmond/ Tim Redmond], [http://vimeo.com/24969097 "Tourists"] 
-* [http://vimeo.com/25373290 Video of hour 41] with [[Improvised Shakespeare]]
-* [http://vimeo.com/24979661 Video of hour 42]
+** Scene #1, [[Jason Vines]] and [[Troy Miller]], ["Women at the Bar"](http://vimeo.com/24965887) 
+** Scene #2, [[Asaf Ronen]] and [[Mike Ferstenfeld]], ["Tchaikovsky"](http://vimeo.com/24967781) 
+** Scene #3,  [[Jordan T. Maxwell]] and [[Peter Rogers]], ["Turtles"](http://vimeo.com/24967846) 
+** Scene #4, [[Karen Jane DeWitt]] and [[Lisa Jackson]], ["God"](http://vimeo.com/24967941) 
+** Scene #5, [[Andy Crouch]] and [[Christopher Allen]], ["Wigs"](http://vimeo.com/24968081) 
+** Scene #6, [Tim Redmond](http://theimprobox.com/tim-redmond/) and [[Troy Miller]], ["Waiting"](http://vimeo.com/24968289) 
+** Scene #7, [[Jeff Britt]] and [[Lisa Jackson]], ["Intermission"](http://vimeo.com/24968387) 
+** Scene #8, [[Jason Vines]] and [[Mike Ferstenfeld]], ["Dreams"](http://vimeo.com/24969210) 
+** Scene #9, [[Andy Crouch]] and [[Asaf Ronen]], ["Seventh Billing"](http://vimeo.com/24968732) 
+** Scene #10, [[Jordan T. Maxwell]] and [[Karen Jane DeWitt]], ["Double Trouble"](http://vimeo.com/24968810) 
+** Scene #11, [[Christopher Allen]] and [[Peter Rogers]], ["High-Wire Act"](http://vimeo.com/24968915) 
+** Scene #12, [[Jeff Britt]] and [[Jason Vines]], ["Integrity"](http://vimeo.com/24968983) 
+** Scene #13, [[Asaf Ronen]] and [[Lisa Jackson]], ["Hank Charlie"](http://vimeo.com/24969077) 
+** Scene #14, [[Mike Ferstenfeld]], [[Troy Miller]], & [Tim Redmond](http://theimprobox.com/tim-redmond/), ["Tourists"](http://vimeo.com/24969097) 
+* [Video of hour 41](http://vimeo.com/25373290) with [[Improvised Shakespeare]]
+* [Video of hour 42](http://vimeo.com/24979661)
 
 ### Photos
-* Photosets of [http://www.facebook.com/media/set/?set=a.2021040415803.120215.1537720942&type=3 hours 0 and 1], as well as [http://www.facebook.com/media/set/?set=a.2021301582332.120233.1537720942&type=3 hours 2 and 3] from [[Lorraine DeNardis]].
-* [http://www.facebook.com/media/set/?set=a.863884206963.2357098.209898&type=3 Photoset of hours 20, 21, and 22] from [[Nicole Beckley]].
-* [http://www.facebook.com/media/set/?set=a.562180183845502.1073741892.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 23 with [[Happy Butter]].
-* [http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 24 with [[The Knuckleball Now]].
-* [http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 25 with *[[Start Trekkin']]*.
-* [http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 26 with *[[The Nightmare Video Project]]*.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1714827082393.2081748.1589679282&type=3 A photoset] by [[Roy Moore]] of hour 33 with the *[[Puppet Improv Project]]*.
+* Photosets of [hours 0 and 1](http://www.facebook.com/media/set/?set=a.2021040415803.120215.1537720942&type=3), as well as [hours 2 and 3](http://www.facebook.com/media/set/?set=a.2021301582332.120233.1537720942&type=3) from [[Lorraine DeNardis]].
+* [Photoset of hours 20, 21, and 22](http://www.facebook.com/media/set/?set=a.863884206963.2357098.209898&type=3) from [[Nicole Beckley]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.562180183845502.1073741892.221927764537414&type=3) by [[Steve Rogers]] of hour 23 with [[Happy Butter]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3) by [[Steve Rogers]] of hour 24 with [[The Knuckleball Now]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3) by [[Steve Rogers]] of hour 25 with *[[Start Trekkin']]*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3) by [[Steve Rogers]] of hour 26 with *[[The Nightmare Video Project]]*.
+* [A photoset](http://www.facebook.com/roy.moore/media_set?set=a.1714827082393.2081748.1589679282&type=3) by [[Roy Moore]] of hour 33 with the *[[Puppet Improv Project]]*.
 * Overall photosets:
-** [http://www.facebook.com/media/set/?set=a.1724964966691.86123.1315383518&type=3 Photoset] from [[Michael Yew]].
-** [http://www.facebook.com/media/set/?set=a.10100679445652283.3052072.2230063&type=3 Photoset]  from [[Shruti Saran]].
-** [http://www.facebook.com/media/set/?set=a.227294783964236.77228.167352376625144&type=3 Photoset] from [[Menelaos Prokos]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.1724964966691.86123.1315383518&type=3) from [[Michael Yew]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.10100679445652283.3052072.2230063&type=3)  from [[Shruti Saran]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.227294783964236.77228.167352376625144&type=3) from [[Menelaos Prokos]].
 
 ## More Information
-* The schedule announcement, [http://forum.austinimprov.com/viewtopic.php?t=11947&p=107065 on the forums] and [http://www.hideouttheatre.com/42-hour-improv-marathon-schedule on the Hideout web site].
-* [http://www.hideouttheatre.com/raisingmoneyforkids A post about how the marathon raised money for kids' classes] by [[Jessica Arjet]].
-* [http://www.austinchronicle.com/calendar/comedy/42-hour-improv-marathon-1196265/ A story about the marathon] in *The Austin Chronicle*.
-* [http://hujhax.livejournal.com/760057.html A recap of the event] from core player [[Peter Rogers]].
-* [http://www.hideouttheatre.com/the-game-changer-part-one A 5/30/12 interview] with [[Ryan Hill]] about discovering and watching the event.
-* [http://www.hideouttheatre.com/the-game-changer-part-two A 6/1/12 interview] with [[Cat Drago]] about discovering and watching the event.
+* The schedule announcement, [on the forums](http://forum.austinimprov.com/viewtopic.php?t=11947&p=107065) and [on the Hideout web site](http://www.hideouttheatre.com/42-hour-improv-marathon-schedule).
+* [A post about how the marathon raised money for kids' classes](http://www.hideouttheatre.com/raisingmoneyforkids) by [[Jessica Arjet]].
+* [A story about the marathon](http://www.austinchronicle.com/calendar/comedy/42-hour-improv-marathon-1196265/) in *The Austin Chronicle*.
+* [A recap of the event](http://hujhax.livejournal.com/760057.html) from core player [[Peter Rogers]].
+* [A 5/30/12 interview](http://www.hideouttheatre.com/the-game-changer-part-one) with [[Ryan Hill]] about discovering and watching the event.
+* [A 6/1/12 interview](http://www.hideouttheatre.com/the-game-changer-part-two) with [[Cat Drago]] about discovering and watching the event.

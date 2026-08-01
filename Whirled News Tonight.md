@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Whirled News Tonight.jpg">Whirled News Tonight.jpg</a>
+				![[Whirled News Tonight.jpg]]
 			</td>
 		</tr>
 
@@ -99,6 +99,6 @@
 The show premiered on 4/1/06.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=650&p=3742 The show announcement] on [[The Austin Improv Forums]].
+* [The show announcement](http://forum.austinimprov.com/viewtopic.php?t=650&p=3742) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

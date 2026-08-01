@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Sword of Merlin Works.jpg">The Sword of Merlin Works.jpg</a>
+				![[The Sword of Merlin Works.jpg]]
 			</td>
 		</tr>
 
@@ -158,11 +158,11 @@ The show ran for three performances: Saturday 10pm shows on 5/19/12, 6/2/12, and
 
 ## Media
 ### Videos
-* [http://vimeo.com/42502670 Video] by [[Paul Normandin]] of the 5/19/12 debut.
-* [http://vimeo.com/43367764 Video] by [[Paul Normandin]] of their second show, on 6/2/12.
-* [http://vimeo.com/44360750 Video] by [[Paul Normandin]] of their final show, on 6/9/12.
+* [Video](http://vimeo.com/42502670) by [[Paul Normandin]] of the 5/19/12 debut.
+* [Video](http://vimeo.com/43367764) by [[Paul Normandin]] of their second show, on 6/2/12.
+* [Video](http://vimeo.com/44360750) by [[Paul Normandin]] of their final show, on 6/9/12.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=13461&p=120703 Show announcement] on [[The Austin Improv Forums]].
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=13461&p=120703) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

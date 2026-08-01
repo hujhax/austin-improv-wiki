@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Strategery.jpg">Strategery.jpg</a>
+				![[Strategery.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/34043354 Video] by [[Kyle Sweeney]] of their 11/28/11 performance in *[[The Monday Night Mash]]*.
+* [Video](http://vimeo.com/34043354) by [[Kyle Sweeney]] of their 11/28/11 performance in *[[The Monday Night Mash]]*.
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150198549087265.346702.588952264&type=3 Photoset] by [[Peter Rogers]] of their 3/31/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198549087265.346702.588952264&type=3) by [[Peter Rogers]] of their 3/31/11 performance in *[[The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Fine, Thanks.jpg">Fine, Thanks.jpg</a>
+				![[Fine, Thanks.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -82,11 +82,11 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/24/11 performance at [[The Hideout Theatre]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 7/21/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/24/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3) by [[Michael Yew]] that includes their 7/21/11 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/pages/Fine-Thanks-Improv-Comedy/119625574769715 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Fine-Thanks-Improv-Comedy/119625574769715)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

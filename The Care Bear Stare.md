@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Care Bears.jpg">Care Bears.jpg</a>
+				![[Care Bears.jpg]]
 			</td>
 		</tr>
 
@@ -162,10 +162,10 @@ The show was brought back for the [[The 45-Hour Improv Marathon]]. [[Kareem Badr
 
 ## Media
 ### Videos
-* The [http://vimeo.com/70503492 show] in the 44 Hour Marathon.
+* The [show](http://vimeo.com/70503492) in the 44 Hour Marathon.
 
 ## More Information
-* The [http://en.wikipedia.org/wiki/Care_Bears characters] that inspired the format.
+* The [characters](http://en.wikipedia.org/wiki/Care_Bears) that inspired the format.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

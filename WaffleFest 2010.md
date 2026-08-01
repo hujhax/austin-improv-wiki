@@ -35,4 +35,4 @@ It included an all-star *[[Maestro]]*.
 * [[Your Terrific Neighbors]]
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11204 Call for volunteers] on [[The Austin Improv Forums]].
+* [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?t=11204) on [[The Austin Improv Forums]].

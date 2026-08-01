@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Festival Festival.jpg">Festival Festival.jpg</a>
+				![[Festival Festival.jpg]]
 			</td>
 		</tr>
 
@@ -57,6 +57,6 @@
 * 12/28/13: ColdTowne Music Festival.  "Step aside ACL, ColdTowne Theater is hosting its own music festival. The all-star line up will include several local musical heroes: the ColdTowne Rap Tigers, Hot and Dangerous (Ke$ha Cover band), Misfolks (a folk/Misfits band), and more!  You’ll get the whole music festival experience. This includes wearing a wristband and receiving fake money which you can use to buy $9 beers (that are actually free)."
 
 ## More Information
-* [http://www.coldtownetheater.com/blog/celebrate-december-festival-festival-month-original-festivals The 2013 run's web page.]
+* [The 2013 run's web page.](http://www.coldtownetheater.com/blog/celebrate-december-festival-festival-month-original-festivals)
 
 [[Category/Shows|Category:Shows]]

@@ -1,5 +1,5 @@
 ## Summary
-Publicity photo of [[Sabrina Jones]] for *[[Live TV Tuesdays -  Firefly]]*, from [http://www.facebook.com/media/set/?set=a.10150841593631047.465053.519656046&type=3 this photoset].
+Publicity photo of [[Sabrina Jones]] for *[[Live TV Tuesdays -  Firefly]]*, from [this photoset](http://www.facebook.com/media/set/?set=a.10150841593631047.465053.519656046&type=3).
 
 Photo by [[Roy Moore]].
 

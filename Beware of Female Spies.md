@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Beware of Female Spies.jpg">Beware of Female Spies.jpg</a>
+				![[Beware of Female Spies.jpg]]
 			</td>
 		</tr>
 
@@ -156,14 +156,14 @@ The show took place in "America's top spy agency", Special Patriotic Operations 
 
 ## Media
 ### Videos
-* [http://vimeo.com/108306676 Video] of their 8/27/14 show in [[The 2014 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/108306676) of their 8/27/14 show in [[The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.793169357413249.1073742050.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.793169357413249.1073742050.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.coldtownetheater.com/events/beware-of-female-spies-improv The show's web page.]
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=16662 The audition announcement] in [[The Austin Improv Forums]].
-* [http://thetheftforum.libsyn.com/episode-41-beware-of-female-spies An interview with the cast] on *[[The Theft Forum]]*.
+* [The show's web page.](http://www.coldtownetheater.com/events/beware-of-female-spies-improv)
+* [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=16662) in [[The Austin Improv Forums]].
+* [An interview with the cast](http://thetheftforum.libsyn.com/episode-41-beware-of-female-spies) on *[[The Theft Forum]]*.
 
 [[Category/Shows|Category:Shows]]

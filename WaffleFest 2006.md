@@ -21,4 +21,4 @@ The festival expanded from two days to three days, running from 11/16/06 to 11/1
 * [[You Me & Greg]]
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=5&t=2004 Call for volunteers] on [[The Austin Improv Forums]].
+* [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?f=5&t=2004) on [[The Austin Improv Forums]].

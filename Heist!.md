@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Heist.jpg">Heist.jpg</a>
+				![[Heist.jpg]]
 			</td>
 		</tr>
 
@@ -160,7 +160,7 @@ A crack team of improvisers pull off a the crime of a lifetime. Expect elaborate
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1537815417212.2066940.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 2/19/11 performance at the 2011 [[Gnap! Homecoming Party]].
-** [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the same show.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1537815417212.2066940.1589679282&type=3) by [[Roy Moore]] that includes their 2/19/11 performance at the 2011 [[Gnap! Homecoming Party]].
+** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes the same show.
 
 [[Category/Shows|Heist]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -97,6 +97,6 @@ Channel 2 headlined the Hideout Weekender performing an "Evil Kid Fairy Tale" in
 
 
 
-[https://m.youtube.com/watch?v=jfks53yvObs]
+[https://m.youtube.com/watch?v=jfks53yvObs](https://m.youtube.com/watch?v=jfks53yvObs)
 
 [[Category/Troupes|Category:Troupes]]

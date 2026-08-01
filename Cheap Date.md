@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Cheap Date.jpg">Cheap Date.jpg</a>
+				![[Cheap Date.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,11 +84,11 @@ They were voted "Outstanding New Troupe" at [[ColdTowne Theater]] in 2013.
 
 ## Media
 ### Videos
-* [http://vimeo.com/60843799 Video] by [[Kyle Sweeney]] of one of their shows (uploaded 3/1/12).
-* [http://vimeo.com/channels/austinimprov/77204222 Video of their 6/22/13 show] in [[The 44-Hour Improv Marathon]].
+* [Video](http://vimeo.com/60843799) by [[Kyle Sweeney]] of one of their shows (uploaded 3/1/12).
+* [Video of their 6/22/13 show](http://vimeo.com/channels/austinimprov/77204222) in [[The 44-Hour Improv Marathon]].
 
 ## More Information
-* [http://www.facebook.com/cheapdateatx The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/cheapdateatx)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

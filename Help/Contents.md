@@ -14,7 +14,7 @@ Nearly every page has an 'Edit' button towards the top-right corner, next to the
 
 
 **How do I make a new page?**<br/>
-[http://screencast.com/t/rJvTnPGn8 Here is a quick video demonstration] of how to do it.  Basically, the easy way to do it is to take an existing page for a troupe, a show, or a performer -- like [[The Foreign Legion|this troupe page]], [[Totally Improvised, 90210|this show page]], or [[Peter Rogers|this performer page]] -- as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
+[Here is a quick video demonstration](http://screencast.com/t/rJvTnPGn8) of how to do it.  Basically, the easy way to do it is to take an existing page for a troupe, a show, or a performer -- like [[The Foreign Legion|this troupe page]], [[Totally Improvised, 90210|this show page]], or [[Peter Rogers|this performer page]] -- as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
 
 
 **I haven't used a wiki before! How do I make my page look pretty?**<br/>
@@ -38,20 +38,20 @@ If your troupe begins with an article such as "the" or "a", you will want to tel
 
 
 **How do I upload a picture?**<br/>
-[http://screencast.com/t/OhasuYtz Here is a quick video that explains how to do it.]
+[Here is a quick video that explains how to do it.](http://screencast.com/t/OhasuYtz)
 
 [[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Jon Bolden]], [[Michael Yew]], [[Steve Rogers]], [[Roy Moore]], [[Menelaos Prokos]], [[Dave Alley]], and [[Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
 * Credit them in the picture's description.
 * Link back to the original photoset if you can.
 * In the "licensing" dropdown, select "The copyright holder gave me permission to use this work only in AIC Wiki articles."
 
-For an example of following these three rules, look at [http://wiki.austinimprov.com/wiki/File:Peter_Rogers_Pic.jpg this photo].
+For an example of following these three rules, look at [this photo](http://wiki.austinimprov.com/wiki/File:Peter_Rogers_Pic.jpg).
 
 (Also, [[Courtney Hopkin]], [[Asaf Ronen]] and [[Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
 
 
 **I want both "Hideout Theatre" and "The Hideout Theatre" to link to the same information -- does this mean I need to make two copies of the Hideout page?**<br/>
-Fortunately, no.  You would handle this with something called [http://www.mediawiki.org/wiki/Help:Redirects "redirects"].  In this case, we've created a page for [[The Hideout Theatre]].  Then we created a page called [[Hideout Theatre]] that only contains the following text: 
+Fortunately, no.  You would handle this with something called ["redirects"](http://www.mediawiki.org/wiki/Help:Redirects).  In this case, we've created a page for [[The Hideout Theatre]].  Then we created a page called [[Hideout Theatre]] that only contains the following text: 
  <nowiki>#REDIRECT [[-nowiki[[The Hideout Theatre]]<nowiki>]]</nowiki>
 That means that all the [[Hideout Theatre]] page does is "redirect" to [[The Hideout Theatre]].
 

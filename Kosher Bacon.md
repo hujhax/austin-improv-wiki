@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kosher Bacon Pic.jpg">Kosher Bacon Pic.jpg</a>
+				![[Kosher Bacon Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,11 +88,11 @@ Kosher Bacon was cast from one of the [[Merlin Works Mixers]] in April 2012.  Th
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.3397060008022.126636.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 6/21/12 performance in *[[The Saturday Night Special]]*.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.449245291763638.100574.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/21/12 performance in *[[The Saturday Night Special]]*.
-* [http://www.facebook.com/media/set/?set=a.418401441556711.101768.221927764537414&type=3 A photoset of their 9/8/12 show] at *[[The Saturday Night Special]]* by [[Steve Rogers]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3397060008022.126636.1315383518&type=3) by [[Michael Yew]] which includes their 6/21/12 performance in *[[The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.449245291763638.100574.100000345135257&type=3) by [[Claudio Fox]] that includes their 7/21/12 performance in *[[The Saturday Night Special]]*.
+* [A photoset of their 9/8/12 show](http://www.facebook.com/media/set/?set=a.418401441556711.101768.221927764537414&type=3) at *[[The Saturday Night Special]]* by [[Steve Rogers]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=13339 The troupe casting announcement.]
+* [The troupe casting announcement.](http://forum.austinimprov.com/viewtopic.php?t=13339)
 
 [[Category/Troupes|Category:Troupes]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Do You Still Want To Do This.jpg">Do You Still Want To Do This.jpg</a>
+				![[Do You Still Want To Do This.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,15 +83,15 @@ When Alex moved away to Los Angeles in 2014, the duo went on hiatus.
 
 ## Media
 ### Videos
-* [http://vimeo.com/56966436 Video of their 12/7/12 show] at *[[The Threefer]]*.
+* [Video of their 12/7/12 show](http://vimeo.com/56966436) at *[[The Threefer]]*.
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3 Photoset] by [[Michael Yew]] that includes a performance in *[[PGraph Presents]]*.
-* [http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152577413992107.1073741849.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3) by [[Michael Yew]] that includes a performance in *[[PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577413992107.1073741849.549002106&type=3) by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
-*[http://www.facebook.com/doyoustillwanttodothis The duo's facebook page.]
+*[The duo's facebook page.](http://www.facebook.com/doyoustillwanttodothis)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

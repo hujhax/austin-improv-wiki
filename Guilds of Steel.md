@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Guilds of Steel Pic.jpg">Guilds of Steel Pic.jpg</a>
+				![[Guilds of Steel Pic.jpg]]
 			</td>
 		</tr>
 
@@ -195,16 +195,16 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 
 ## Media
 ### Videos
-* Video by [[Brian Boyko]] of the 5/23/09 show: [http://youtu.be/ASVoyW31QjE 1], [http://youtu.be/UJG2GTDPVXA 2], [http://youtu.be/nDy6k6F_vbc 3], [http://youtu.be/HNKP0yiDfVg 4], [http://youtu.be/gk-9JyczlTA 5].
+* Video by [[Brian Boyko]] of the 5/23/09 show: [1](http://youtu.be/ASVoyW31QjE), [2](http://youtu.be/UJG2GTDPVXA), [3](http://youtu.be/nDy6k6F_vbc), [4](http://youtu.be/HNKP0yiDfVg), [5](http://youtu.be/gk-9JyczlTA).
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.1305295204352.2036938.1589679282&type=3 Photoset of the 7/16/10 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1307549820716.2037275.1589679282&type=3 Photoset of the 7/17/10 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1311506519631.2037619.1589679282&type=3 Photoset of the 7/23/10 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1312211897265.2037682.1589679282&type=3 Photoset of the 7/24/10 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1318253328297.2039065.1589679282&type=3 Photoset of the 7/30/10 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1322083704054.2039353.1589679282&type=3 Photoset of the 7/31/10 performance] by [[Roy Moore]].
-* [http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3 Photoset] by [[Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset of the 7/16/10 performance](http://www.facebook.com/media/set/?set=a.1305295204352.2036938.1589679282&type=3) by [[Roy Moore]].
+* [Photoset of the 7/17/10 performance](http://www.facebook.com/media/set/?set=a.1307549820716.2037275.1589679282&type=3) by [[Roy Moore]].
+* [Photoset of the 7/23/10 performance](http://www.facebook.com/media/set/?set=a.1311506519631.2037619.1589679282&type=3) by [[Roy Moore]].
+* [Photoset of the 7/24/10 performance](http://www.facebook.com/media/set/?set=a.1312211897265.2037682.1589679282&type=3) by [[Roy Moore]].
+* [Photoset of the 7/30/10 performance](http://www.facebook.com/media/set/?set=a.1318253328297.2039065.1589679282&type=3) by [[Roy Moore]].
+* [Photoset of the 7/31/10 performance](http://www.facebook.com/media/set/?set=a.1322083704054.2039353.1589679282&type=3) by [[Roy Moore]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3) by [[Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 
 ### Publicity
-* [http://www.facebook.com/media/set/?set=a.405946063310.181500.16782108310&type=3 Promotional photos for the 2010 run.]
+* [Promotional photos for the 2010 run.](http://www.facebook.com/media/set/?set=a.405946063310.181500.16782108310&type=3)

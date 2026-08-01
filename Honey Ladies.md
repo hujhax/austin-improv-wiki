@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Honey Ladies.jpg">Honey Ladies.jpg</a>
+				![[Honey Ladies.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -93,7 +93,7 @@ Showing that women aren't only the stereotypes that we're (at times) perceived t
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

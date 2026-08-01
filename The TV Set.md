@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The TV Set.jpg">The TV Set.jpg</a>
+				![[The TV Set.jpg]]
 			</td>
 		</tr>
 
@@ -54,12 +54,12 @@ In May 2013, perhaps due to running out of TV-themed shows and troupes who hadn'
 
 ## Media
 ### Videos
-* [http://vimeo.com/51898584 10/29/12: the short-form, "Channel Surfing" edition of the show.]
+* [10/29/12: the short-form, "Channel Surfing" edition of the show.](http://vimeo.com/51898584)
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.4125388415777.142093.1315383518&type=3 Photoset] by [[Michael Yew]] of the 1/17/13 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4125388415777.142093.1315383518&type=3) by [[Michael Yew]] of the 1/17/13 show.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/thetvset The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/thetvset)
 
 [[Category/Shows|TV Set]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

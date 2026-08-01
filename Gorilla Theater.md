@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Gorilla Theater Pic.jpg">Gorilla Theater Pic.jpg</a>
+				![[Gorilla Theater Pic.jpg]]
 			</td>
 		</tr>
 
@@ -62,8 +62,8 @@ There is also a player in a gorilla costume.  The gorilla does not direct, but i
 The show was put on sporadically during the early years of the Hideout, and then ran as a mainstage show from October 2006 to December 2006.
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.19101007264.15333.588952264&type=3 Photoset of the 5/24/2002 show] by [[Peter Rogers]].
-* [http://www.facebook.com/media/set/?set=a.79685787264.92719.588952264&type=3 Photoset of a one-off show on 2/26/2009] by [[Peter Rogers]].
+* [Photoset of the 5/24/2002 show](http://www.facebook.com/media/set/?set=a.19101007264.15333.588952264&type=3) by [[Peter Rogers]].
+* [Photoset of a one-off show on 2/26/2009](http://www.facebook.com/media/set/?set=a.79685787264.92719.588952264&type=3) by [[Peter Rogers]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

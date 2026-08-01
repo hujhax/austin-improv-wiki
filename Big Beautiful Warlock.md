@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Big Beautiful Warlock.jpg">Big Beautiful Warlock.jpg</a>
+				![[Big Beautiful Warlock.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,17 +81,17 @@ In addition to these shows, they host a monthly improvised game show called [[Bi
 
 ## Media
 ### Videos
-* [http://vimeo.com/40801629 Video of their 4/19/12 show] at the *[[Free Fringe]]*.
-* [http://vimeo.com/77117598 Video of their 6/23/13 show] in [[The 44-Hour Improv Marathon]].
+* [Video of their 4/19/12 show](http://vimeo.com/40801629) at the *[[Free Fringe]]*.
+* [Video of their 6/23/13 show](http://vimeo.com/77117598) in [[The 44-Hour Improv Marathon]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 11/9/12 performance at [[WaffleFest]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 2/7/13 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202516036124903.1073741899.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/27/14 show at [[The 2014 Out of Bounds Comedy Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/9/12 performance at [[WaffleFest]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3) by [[Michael Yew]] which includes their 2/7/13 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202516036124903.1073741899.1315383518&type=3) by [[Michael Yew]] that includes their 8/27/14 show at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/pages/Big-Beautiful-Warlock/154058364667941 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Big-Beautiful-Warlock/154058364667941)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

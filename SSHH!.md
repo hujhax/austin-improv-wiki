@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="SSHH!.jpg">SSHH!.jpg</a>
+				![[SSHH!.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Their press blurb, taken from a 2015 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>High energy montage!.</blockquote>
 
 ## More Information
-* [http://www.facebook.com/pages/SSHH/701887433257004?fref=ts The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/SSHH/701887433257004?fref=ts)
 
 
 [[Category/Troupes|Category:Troupes]]

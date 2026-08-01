@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Well Hung Jury.jpg">Well Hung Jury.jpg</a>
+				![[Well Hung Jury.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -145,10 +145,10 @@ Their first shot at a scripted work was Tom Stoppard's *Fifteen Minute Hamlet*. 
 Secondarily, they penned and directed a new play, *For the Love of You, Mother Dear*,  which attempted to set a world record for the shortest play ever to be performed.  (Its running time was 1.28 seconds.)  Unfortunately, *The Guinness Book of World Records* refuses to recognize the record.
 
 ## Media
-* [http://youtu.be/NLhCMNArKzA A video of one of their "Inter-Presidential Wrestling" shows.]
-* [http://www.flickr.com/photos/noahvoelker/sets/72157617960415800/with/3519108591/ A photoset] of the reunion show from [[Noah Voelker]].
+* [A video of one of their "Inter-Presidential Wrestling" shows.](http://youtu.be/NLhCMNArKzA)
+* [A photoset](http://www.flickr.com/photos/noahvoelker/sets/72157617960415800/with/3519108591/) of the reunion show from [[Noah Voelker]].
 
 ## More Information
-* [http://web.archive.org/web/20020802152723/http://www.wellhungjury.com/theformats.html A list of the Jury's formats.]
+* [A list of the Jury's formats.](http://web.archive.org/web/20020802152723/http://www.wellhungjury.com/theformats.html)
 
 [[Category/Troupes|Category:Troupes]]

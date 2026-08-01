@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Perfect Teeth .jpg">Perfect Teeth .jpg</a>
+				![[Perfect Teeth .jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=B9xTYU2NXcM&feature=youtu.be Video of their 12/7/14 debut show.]
+* [Video of their 12/7/14 debut show.](http://www.youtube.com/watch?v=B9xTYU2NXcM&feature=youtu.be)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

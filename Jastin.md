@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Jastin.jpg">Jastin.jpg</a>
+				![[Jastin.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,7 +89,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/17/14 performance in *[[2x4]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3) by [[Michael Yew]] that includes their 1/17/14 performance in *[[2x4]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

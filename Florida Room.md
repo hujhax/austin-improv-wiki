@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Florida Room.jpg">Florida Room.jpg</a>
+				![[Florida Room.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,12 +85,12 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes one of their shows. 
-* [http://www.facebook.com/hujhax/media_set?set=a.437930102264.211724.588952264&type=3 Photoset] by [[Peter Rogers]] of their performance in the 5/6/10 *[[Threefer]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 8/27/10 performance.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) by [[Claudio Fox]] that includes one of their shows. 
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.437930102264.211724.588952264&type=3) by [[Peter Rogers]] of their performance in the 5/6/10 *[[Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 8/27/10 performance.
 
 ## More Information
-* [http://www.facebook.com/pages/Florida-Room-Improvised-Golden-Girls/112412095444201 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Florida-Room-Improvised-Golden-Girls/112412095444201)
 
 
 [[Category/Troupes|Category:Troupes]]

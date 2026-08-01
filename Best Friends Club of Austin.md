@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Best Friends Club of Austin.jpg">Best Friends Club of Austin.jpg</a>
+				![[Best Friends Club of Austin.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 Here is [[Brett Tribe]]'s explanation of the name's origin:<blockquote>'Best Friends Club of Austin' started as 'Best Friends Club'. The name probably came to me while I was in the car or something. I walked up to Joshua Phillips one afternoon outside of Coldtowne and said "I want to be in a 2 person troupe with you and call it 'Best Friends Club'." Later I added 'of Austin' because it seems funny to me that there's a worldwide network of best friend clubs which would only have 2 people in them for each city.</blockquote>
 
 ## More Information
-* [https://www.facebook.com/pages/Best-Friends-Club-of-Austin/215125325175962 The duo's web site.]
+* [The duo's web site.](https://www.facebook.com/pages/Best-Friends-Club-of-Austin/215125325175962)
 
 
 [[Category/Troupes|Category:Troupes]]

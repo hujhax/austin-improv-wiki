@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Mating Game.jpg">The Mating Game.jpg</a>
+				![[The Mating Game.jpg]]
 			</td>
 		</tr>
 
@@ -48,6 +48,6 @@
 The show ran Thursday nights at 8:30pm at [[ColdTowne Theater]] in February 2013.
 
 ## More Information
-* [http://www.coldtownetheater.com/events/the-mating-game-4 The show's web page.]
+* [The show's web page.](http://www.coldtownetheater.com/events/the-mating-game-4)
 
 [[Category/Shows|Mating]]

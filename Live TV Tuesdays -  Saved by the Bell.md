@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays- Saved by the Bell.jpg">Live TV Tuesdays- Saved by the Bell.jpg</a>
+				![[Live TV Tuesdays- Saved by the Bell.jpg]]
 			</td>
 		</tr>
 
@@ -97,7 +97,7 @@
 		
 	</table>
 </div>
-***Live TV Tuesdays: Saved by the Bell*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Saved by the Bell|*Saved by the Bell*]] epiodes [http://www.imdb.com/title/tt0794963 "Jessie's Song"] and [http://www.imdb.com/title/tt0695237 "The Zack Tapes"].
+***Live TV Tuesdays: Saved by the Bell*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Saved by the Bell|*Saved by the Bell*]] epiodes ["Jessie's Song"](http://www.imdb.com/title/tt0794963) and ["The Zack Tapes"](http://www.imdb.com/title/tt0695237).
 
 ## Summary
 This was the first production in what became the "Teen Angst Tuesdays" and subsequently the "Live TV Tuesdays" series.  At the time, this show was known only as "Staged by the Bell".
@@ -124,14 +124,14 @@ All of these performances were at The United States Art Authority at [[The Spide
 ## Media
 ### Videos
 * Scenes from "Jessie's Song": 
-** [http://www.facebook.com/photo.php?v=151344256261 Zack refuses to believe that Jessie has a problem.]
-** [http://www.facebook.com/photo.php?v=151272236261 Zack finds Jessie passed out on her bed.]
+** [Zack refuses to believe that Jessie has a problem.](http://www.facebook.com/photo.php?v=151344256261)
+** [Zack finds Jessie passed out on her bed.](http://www.facebook.com/photo.php?v=151272236261)
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3 Publicity photos.]
-* [http://www.facebook.com/MadelineChauvin/media_set?set=a.952975911550.2727692.7944448&type=3 Performance and casual photos] by [[Jo Chauvin]].
+* [Publicity photos.](http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3)
+* [Performance and casual photos](http://www.facebook.com/MadelineChauvin/media_set?set=a.952975911550.2727692.7944448&type=3) by [[Jo Chauvin]].
 
 ## Other Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=9512 Forum announcement of the August run.]
-* [http://forum.austinimprov.com/viewtopic.php?t=9826 Forum announcement of the October/November run.]
-* [http://forum.austinimprov.com/viewtopic.php?t=9903 Forum announcement of the double-bill show.]
+* [Forum announcement of the August run.](http://forum.austinimprov.com/viewtopic.php?f=2&t=9512)
+* [Forum announcement of the October/November run.](http://forum.austinimprov.com/viewtopic.php?t=9826)
+* [Forum announcement of the double-bill show.](http://forum.austinimprov.com/viewtopic.php?t=9903)

@@ -5,4 +5,4 @@ Merlin Works was based at [[Salvage Vanguard Theater]] and closely affiliated wi
 Merlin Works offers six levels of classes, with graduation shows following levels 3 and 6. It also features a faculty troupe, [[The Known Wizards]]. Merlin Works has a monthly show, called [[Merlin Works Second Sundays]], which features a combination of student showcases, guest troupes, and performances by The Known Wizards.
 
 ## More Information
-* [http://yesandrew.com/2014/03/27/austin-improv-theaters-as-modern-american-humorists-day-4-merlin-works/ Post about the theater] by [[Andrew Buck]].
+* [Post about the theater](http://yesandrew.com/2014/03/27/austin-improv-theaters-as-modern-american-humorists-day-4-merlin-works/) by [[Andrew Buck]].

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="PIP on TV.jpg">PIP on TV.jpg</a>
+				![[PIP on TV.jpg]]
 			</td>
 		</tr>
 
@@ -107,10 +107,10 @@ This show headlined *[[The Threefer]]* in March 2011.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 3/10/11 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 3/24/11 show.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150198554097265.346705.588952264&type=3 Photoset] by [[Peter Rogers]] of their 3/31/11 show.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3) by [[Roy Moore]] that includes their 3/10/11 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198554097265.346705.588952264&type=3) by [[Peter Rogers]] of their 3/31/11 show.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11652 The show announcement] on [[The Austin Improv Forums]].
-* [http://puppetimprovproject.org/pip-on-tv.html The show's web page.]
+* [The show announcement](http://forum.austinimprov.com/viewtopic.php?t=11652) on [[The Austin Improv Forums]].
+* [The show's web page.](http://puppetimprovproject.org/pip-on-tv.html)

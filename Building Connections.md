@@ -49,4 +49,4 @@ In June 2014, a handful of students from the Building Connections program took p
 In the Summer of 2015 she traveled to Indiana to share instruction on the teaching of improv to at-risk youth and youth on the Autism Spectrum.
 
 ## More Information
-* [http://www.specialneedsimprov.com The Hideout Theater's page on the Building Connections program]
+* [The Hideout Theater's page on the Building Connections program](http://www.specialneedsimprov.com)

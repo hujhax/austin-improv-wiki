@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Checkbook.jpg">Checkbook.jpg</a>
+				![[Checkbook.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/44573854 Video] by [[Dave Alley]] that includes their 6/21/12 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/44573854) by [[Dave Alley]] that includes their 6/21/12 performance in *[[The Threefer]]*.
 
 ## More Information
-* [https://www.facebook.com/checkbookimprov The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/checkbookimprov)
 
 
 [[Category/Troupes|Category:Troupes]]

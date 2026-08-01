@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Blue Maestro Picture.jpg">Blue Maestro Picture.jpg</a>
+				![[Blue Maestro Picture.jpg]]
 			</td>
 		</tr>
 
@@ -47,4 +47,4 @@
 Blue Maestro is just like [[Maestro]], except all of the setups are offensive.  For example, "Good, Bad, Worst Advice" might become instead "Good, Bad, Racist Advice".  "Sit, Stand, Kneel" might instead be "Sit, Stand, Have An Abortion".  The show is only sporadically staged, never strongly advertised, and never filmed.  The directors typically create a very game-heavy show, and sometimes eshcew eliminations entirely.
 
 ## Media
-* [http://www.flickr.com/photos/robotparade/sets/72157613439524361/ A photoset of the 2/6/2009 performance of Blue Maestro.]
+* [A photoset of the 2/6/2009 performance of Blue Maestro.](http://www.flickr.com/photos/robotparade/sets/72157613439524361/)

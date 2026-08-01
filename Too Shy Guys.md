@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="2shy2.jpg">2shy2.jpg</a>
+				![[2shy2.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 * *[[Musical Night at Indra's]]*
 * *[[Impromp-Two]]*
 * *[[Alamo City Improv]]*
-* *Duo Night at [http://www.stationtheater.com/ Station Theatre]*
+* *Duo Night at [Station Theatre](http://www.stationtheater.com/)*
 * *[[Free Fringe]]* (with special guest [[Aspen Webster]])
 * *[[Dual Reality]]*
 * *Alternative Comedy Theatre's 10th Annual Big Weekend of Improv*
@@ -95,20 +95,20 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 
 ## Media
 ### Videos
-* [https://www.facebook.com/TooShyGuys/videos/1100804609979897/ Impromp-Two] 06/12/2016
-* [https://www.facebook.com/TooShyGuys/videos/1104186449641713/ Alamo City Improv] 06/18/2016
-* [https://www.facebook.com/TooShyGuys/videos/1117581541635537/ Duo Night at Station Theatre] 07/09/2016
-* [https://www.facebook.com/TooShyGuys/videos/1136405429753148/ Musical Fringe] 08/04/2016
-* [https://www.facebook.com/TooShyGuys/videos/1359894910737531/ Dual Reality] 03/31/2017
-* [https://www.facebook.com/TooShyGuys/videos/1603668943026792/ Be Nice To Each Other] 12/10/2017
-* [https://www.facebook.com/TooShyGuys/videos/320284335436046/ Threefer at The Hideout] 09/14/2018
+* [Impromp-Two](https://www.facebook.com/TooShyGuys/videos/1100804609979897/) 06/12/2016
+* [Alamo City Improv](https://www.facebook.com/TooShyGuys/videos/1104186449641713/) 06/18/2016
+* [Duo Night at Station Theatre](https://www.facebook.com/TooShyGuys/videos/1117581541635537/) 07/09/2016
+* [Musical Fringe](https://www.facebook.com/TooShyGuys/videos/1136405429753148/) 08/04/2016
+* [Dual Reality](https://www.facebook.com/TooShyGuys/videos/1359894910737531/) 03/31/2017
+* [Be Nice To Each Other](https://www.facebook.com/TooShyGuys/videos/1603668943026792/) 12/10/2017
+* [Threefer at The Hideout](https://www.facebook.com/TooShyGuys/videos/320284335436046/) 09/14/2018
 
 ## More Information
-* [https://www.tooshyguys.com tooshyguys.com]
-* [http://www.facebook.com/TooShyGuys The troupe's facebook page.]
+* [tooshyguys.com](https://www.tooshyguys.com)
+* [The troupe's facebook page.](http://www.facebook.com/TooShyGuys)
 
 ### Other Musicians Played With
-* [https://alchemypopsongs.wordpress.com/ Bradley Dean Whyte]
+* [Bradley Dean Whyte](https://alchemypopsongs.wordpress.com/)
 * Sam Fuller
 * Michael O'Connor
 

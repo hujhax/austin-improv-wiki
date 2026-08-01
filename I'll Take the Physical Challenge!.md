@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="I'll Take the Physical Challenge! placeholder image.jpg">I'll Take the Physical Challenge! placeholder image.jpg</a>
+				![[I'll Take the Physical Challenge! placeholder image.jpg]]
 			</td>
 		</tr>
 
@@ -55,7 +55,7 @@ From the show announcement:<blockquote>Improvisors' physical and mental limits a
 </blockquote>
 
 ## More Information
-* [http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/ The show announcement] on the Hideout's facebook group.
+* [The show announcement](http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/) on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

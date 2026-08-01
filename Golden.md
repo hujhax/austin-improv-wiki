@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Golden (troupe).jpg">Golden (troupe).jpg</a>
+				![[Golden (troupe).jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -124,16 +124,16 @@ Faceless - Golden uses full neutral mask in a montage format.
 * 09-03-16       Dog Counselor - New Movement: Out of Bounds Comedy Festival (OOB)
 
 ## Videos
-* [http://vimeo.com/132330223 Threefer Showcase, 06-25-15]
-* [http://vimeo.com/132752724 Weekender Showcase, 07-05-25]
-* [http://vimeo.com/163760875 Wafflefest 2015, 11-19-15]
-* [http://vimeo.com/160823160 That Racket! Showcase, 03-25-16]
-* [http://vimeo.com/163685360 Mix Tape Showcase, 04-09-16]
+* [Threefer Showcase, 06-25-15](http://vimeo.com/132330223)
+* [Weekender Showcase, 07-05-25](http://vimeo.com/132752724)
+* [Wafflefest 2015, 11-19-15](http://vimeo.com/163760875)
+* [That Racket! Showcase, 03-25-16](http://vimeo.com/160823160)
+* [Mix Tape Showcase, 04-09-16](http://vimeo.com/163685360)
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
-** [http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3 Another photoset] by [[Jay Mahavier]] of the same show.
-* [http://www.facebook.com/jay.mahavier/media_set?set=a.10208132350132913.1073741876.1425495839&type=3 Photoset] by [[Jay Mahavier]] of their 9/20/15 performance in *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
+** [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Jay Mahavier]] of the same show.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208132350132913.1073741876.1425495839&type=3) by [[Jay Mahavier]] of their 9/20/15 performance in *[[The Weekender]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

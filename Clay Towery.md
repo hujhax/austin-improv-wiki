@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Clay Towery Pic.jpg">Clay Towery Pic.jpg</a>
+				![[Clay Towery Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -47,16 +47,16 @@ He passed away unexpectedly the morning of February 13, 2014.
 
 ## Media
 ### Video
-* [http://youtu.be/rfzc-XRZEvc Video] by [[Warren Henderson]] of Clay's memorial service.
+* [Video](http://youtu.be/rfzc-XRZEvc) by [[Warren Henderson]] of Clay's memorial service.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3 Photoset] by [[Steve Rogers]] of Clay's 7/21/12 *[[Boys of Summer]]* performance with [[Girls Girls Girls]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3) by [[Steve Rogers]] of Clay's 7/21/12 *[[Boys of Summer]]* performance with [[Girls Girls Girls]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=100274 Clay's self-introduction thread] on [[The AIC Forums]].
+* [Clay's self-introduction thread](http://forum.austinimprov.com/viewtopic.php?p=100274) on [[The AIC Forums]].
 * Obituaries:
-** [http://www.austinchronicle.com/daily/arts/2014-02-14/clay-towery-r-i-p/ Austin Chronicle]
-** [http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Timothy-Towery&lc=4887&pid=169739786&mid=5859402 Dignity Memorial]
+** [Austin Chronicle](http://www.austinchronicle.com/daily/arts/2014-02-14/clay-towery-r-i-p/)
+** [Dignity Memorial](http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=Timothy-Towery&lc=4887&pid=169739786&mid=5859402)
 
 [[Category/Performers|Towery]]
 [[Category/Directors|Towery]]

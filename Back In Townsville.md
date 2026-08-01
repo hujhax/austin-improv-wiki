@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Show Default Image.jpg">Show Default Image.jpg</a>
+				![[Show Default Image.jpg]]
 			</td>
 		</tr>
 
@@ -117,9 +117,9 @@ Members of Nice Astronaut began writing and improvising in rehearsal in October 
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.729336763796509.1073741995.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/24/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.729336763796509.1073741995.221927764537414&type=3) by [[Steve Rogers]] of the 4/24/14 show.
 
 ## More Information
-* [http://yesandrew.com/2014/04/04/ive-still-never-seen-a-sketch-show/ Article about the show] by [[Andrew Buck]].
+* [Article about the show](http://yesandrew.com/2014/04/04/ive-still-never-seen-a-sketch-show/) by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]

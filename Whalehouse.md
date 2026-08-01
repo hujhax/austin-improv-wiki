@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Whalehouse.jpg">Whalehouse.jpg</a>
+				![[Whalehouse.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 <p>After each show we write down and discuss our favorite scenes of the night. We turn those into live sketches to be performed the next month. From there, we take our best live sketches and turn them into video sketches for online consumption. </p></blockquote>
 
 ## More Information
-* [https://www.facebook.com/whalehousecomedy The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/whalehousecomedy)
 
 
 [[Category/Troupes|Category:Troupes]]

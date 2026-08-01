@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Turn of the Century Paris.jpg">Turn of the Century Paris.jpg</a>
+				![[Turn of the Century Paris.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,20 +85,20 @@ The troupe hosted *[[The Speakeasy]]* from 2010 to 2013.
 
 ## Media
 ### Videos
-* [http://youtu.be/tGZPLEC7dWg "Rolling Roland"]
-* [http://youtu.be/YHGymU1CtPY Intro for their May run of shows.]
-* [http://youtu.be/Jxfonq7JhF0 "The Meat Principle"]
-* [http://youtu.be/yNm-Li8DnmA "Antoine & Emilio Live 5/20/10"]
-* [http://youtu.be/UqNjMYj6Jtw "Turd Police"]
-* [http://youtu.be/n6E9VLfj438 "Wife Swamp"]
-* [[Joshua Krilov]] interviews [[Ed Reed]] and [[Danny Catlow]] of Turn of the Century Paris: [https://vimeo.com/24273155 part 1], [http://vimeo.com/24273162 part 2].
+* ["Rolling Roland"](http://youtu.be/tGZPLEC7dWg)
+* [Intro for their May run of shows.](http://youtu.be/YHGymU1CtPY)
+* ["The Meat Principle"](http://youtu.be/Jxfonq7JhF0)
+* ["Antoine & Emilio Live 5/20/10"](http://youtu.be/yNm-Li8DnmA)
+* ["Turd Police"](http://youtu.be/UqNjMYj6Jtw)
+* ["Wife Swamp"](http://youtu.be/n6E9VLfj438)
+* [[Joshua Krilov]] interviews [[Ed Reed]] and [[Danny Catlow]] of Turn of the Century Paris: [part 1](https://vimeo.com/24273155), [part 2](http://vimeo.com/24273162).
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 2/6/11 performance at [[The Hideout Theatre]].
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.126377100776655.32672.100002130980897&type=3 Photoset] by [[Steve Rogers]] that includes their performance in the 2011 [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 2/6/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.126377100776655.32672.100002130980897&type=3) by [[Steve Rogers]] that includes their performance in the 2011 [[Austin Sketch Fest]].
 
 ## More Information
-* [http://www.facebook.com/TCPsketch The troupe's facebook page.]
-* [http://www.youtube.com/user/TurnOfCenturyParis The troupe's youtube channel.]
+* [The troupe's facebook page.](http://www.facebook.com/TCPsketch)
+* [The troupe's youtube channel.](http://www.youtube.com/user/TurnOfCenturyParis)
 
 [[Category/Troupes|Category:Troupes]]

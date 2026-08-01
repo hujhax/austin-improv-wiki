@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="KidsOnBikes.jpg">KidsOnBikes.jpg</a>
+				![[KidsOnBikes.jpg]]
 			</td>
 		</tr>
 
@@ -160,7 +160,7 @@ Inspired by suburban coming of age sci fi stories like *E.T.,  IT, Monster Squad
 ### Photos
 ### Other
 ## More Information
-* [http://www.hideouttheatre.com/shows/howisavedtheworldoversummervacation The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/howisavedtheworldoversummervacation)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

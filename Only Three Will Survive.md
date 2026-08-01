@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Only Three Will Survive.jpg">Only Three Will Survive.jpg</a>
+				![[Only Three Will Survive.jpg]]
 			</td>
 		</tr>
 
@@ -116,9 +116,9 @@ This continued a few times through the evening.  Sometimes more than one charact
 
 ## Media
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.454068561281311.101791.100000345135257&type=3 Photoset] by [[Claudio Fox]] of the 8/3/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3483597451404.129149.1315383518&type=3 A photoset] by [[Michael Yew]] of the 8/17/12 performance.
-** [http://www.facebook.com/claudio.fox.5/media_set?set=a.459028210785346.103266.100000345135257&type=3 Another photoset] by [[Claudio Fox]] of the same performance.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.454068561281311.101791.100000345135257&type=3) by [[Claudio Fox]] of the 8/3/12 performance.
+* [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.3483597451404.129149.1315383518&type=3) by [[Michael Yew]] of the 8/17/12 performance.
+** [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.459028210785346.103266.100000345135257&type=3) by [[Claudio Fox]] of the same performance.
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10151019281434090&set=a.10151019273174090.456363.273514734089&type=3&theater The show's facebook page.]
+* [The show's facebook page.](http://www.facebook.com/photo.php?fbid=10151019281434090&set=a.10151019273174090.456363.273514734089&type=3&theater)

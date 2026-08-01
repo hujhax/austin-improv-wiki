@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Twilight Zoned.jpg">Twilight Zoned.jpg</a>
+				![[Twilight Zoned.jpg]]
 			</td>
 		</tr>
 
@@ -160,24 +160,24 @@ The cast worked at slowing down the plot.  They would focus less on making thing
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=bGA3DgcWUY4 Video of the 1/14/12 show.]
-* [http://www.youtube.com/watch?v=YvI3AohpORI Video of the 1/21/12 show.]
-* [http://www.youtube.com/watch?v=6bLpdc6tAR4 Video of the 1/28/12 show.]
-* [http://www.youtube.com/watch?v=mKW7anbtNCM Video of the 2/3/12 show.]
-* [http://www.youtube.com/watch?v=B1iWIxlpR_E Video of the 2/10/12 show.]
-* [http://vimeo.com/47840197 Video of the 8/7/12 performance], which was a one-off performance for *[[The TV Set]]*.
-* [http://vimeo.com/74718403 Video of their 8/27/13 performance,] part of [[The 2013 Out of Bounds Comedy Festival]].
+* [Video of the 1/14/12 show.](http://www.youtube.com/watch?v=bGA3DgcWUY4)
+* [Video of the 1/21/12 show.](http://www.youtube.com/watch?v=YvI3AohpORI)
+* [Video of the 1/28/12 show.](http://www.youtube.com/watch?v=6bLpdc6tAR4)
+* [Video of the 2/3/12 show.](http://www.youtube.com/watch?v=mKW7anbtNCM)
+* [Video of the 2/10/12 show.](http://www.youtube.com/watch?v=B1iWIxlpR_E)
+* [Video of the 8/7/12 performance](http://vimeo.com/47840197), which was a one-off performance for *[[The TV Set]]*.
+* [Video of their 8/27/13 performance,](http://vimeo.com/74718403) part of [[The 2013 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/5/12 dress rehearsal.
-* [http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/8/12 performance.
-* [http://www.facebook.com/media/set/?set=a.275898742473649.69807.221927764537414&type=3 A photoset] by [[Steve Rogers]] of the 1/14/12 performance.
-* [http://www.facebook.com/hujhax/media_set?set=a.10150619001127265.444441.588952264&type=3 A photoset] by [[Peter Rogers]] of the 1/18/12 dress rehearsal.
-* [http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3 Photoset] by [[Michael Yew]] that includes the 2/25/12 performance.
-* [http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Peter Rogers]] of the 1/5/12 dress rehearsal.
+* [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Peter Rogers]] of the 1/8/12 performance.
+* [A photoset](http://www.facebook.com/media/set/?set=a.275898742473649.69807.221927764537414&type=3) by [[Steve Rogers]] of the 1/14/12 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150619001127265.444441.588952264&type=3) by [[Peter Rogers]] of the 1/18/12 dress rehearsal.
+* [Photoset](http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3) by [[Michael Yew]] that includes the 2/25/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/pages/Twilight-Zoned-Improv-Comedy/273908725985889 The show's facebook page.]
+* [The show's facebook page.](http://www.facebook.com/pages/Twilight-Zoned-Improv-Comedy/273908725985889)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

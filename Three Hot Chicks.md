@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="TheeHotChicks.jpg">TheeHotChicks.jpg</a>
+				![[TheeHotChicks.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,16 +86,16 @@ Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
 
 ## Media
 ### Videos
-* [http://vimeo.com/19634320 Three Hot Chicks' debut show] on Vimeo, courtesy of [[Peter Rogers]]
-* [http://vimeo.com/25332777 Three Hot Chicks' appearance] in [[The 42-Hour Improv Marathon]]
-* [http://vimeo.com/26109575 Video] by [[Brad Hawkins]] of their 7/6/11 show at [[ColdTowne Theater]].
+* [Three Hot Chicks' debut show](http://vimeo.com/19634320) on Vimeo, courtesy of [[Peter Rogers]]
+* [Three Hot Chicks' appearance](http://vimeo.com/25332777) in [[The 42-Hour Improv Marathon]]
+* [Video](http://vimeo.com/26109575) by [[Brad Hawkins]] of their 7/6/11 show at [[ColdTowne Theater]].
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150150642222265.328170.588952264&type=3 Photoset] by [[Peter Rogers]] of their 2/3/11 performance in *[[The Threefer]]*.
-* [http://www.flickr.com/photos/menelaosprokos/sets/72157626290918877 Photoset] by [[Menelaos Prokos]] of their 3/27/11 performance in *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150150642222265.328170.588952264&type=3) by [[Peter Rogers]] of their 2/3/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.flickr.com/photos/menelaosprokos/sets/72157626290918877) by [[Menelaos Prokos]] of their 3/27/11 performance in *[[The Weekender]]*.
 
 ## More Information
-* [http://threehotchicksimprov.com The Three Hot Chicks website] (moribund)
+* [The Three Hot Chicks website](http://threehotchicksimprov.com) (moribund)
 
 
 [[Category/Troupes|Category:Troupes]]

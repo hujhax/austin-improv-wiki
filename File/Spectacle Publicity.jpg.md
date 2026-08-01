@@ -1,7 +1,7 @@
 ## Summary
 Publicity image for [[The Spectacle]], featuring [[Parallelogramophonograph]].
 
-Photo by [http://www.bpmaloney.com/ Brendan Maloney].
+Photo by [Brendan Maloney](http://www.bpmaloney.com/).
 
 Art by [[Kaci Beeler]].
 

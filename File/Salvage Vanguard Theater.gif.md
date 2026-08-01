@@ -1,7 +1,7 @@
 ## Summary
 Logo for [[Salvage Vanguard Theater]].
 
-Artist unknown; image taken from [http://www.lexleifheit.com/category/articles/podcast-alert/ this site].
+Artist unknown; image taken from [this site](http://www.lexleifheit.com/category/articles/podcast-alert/).
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

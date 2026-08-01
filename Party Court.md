@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Party Court.png">Party Court.png</a>
+				![[Party Court.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [http://www.youtube.com/watch?v=jh0QIbJfo5U Video of their 3/11/11 show.]
+* [Video of their 3/11/11 show.](http://www.youtube.com/watch?v=jh0QIbJfo5U)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

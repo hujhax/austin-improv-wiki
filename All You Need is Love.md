@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="All you need is love.jpg">All you need is love.jpg</a>
+				![[All you need is love.jpg]]
 			</td>
 		</tr>
 
@@ -216,7 +216,7 @@
 <blockquote>In the world where destiny and fate exist to bring us inevitably to our one and only soulmate, the journey to that special someone will be full of adventure, mishaps, and missed connections full of humor, heart, and a fairy-tale-style happy ending.</blockquote>
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/AllYouNeedisLove The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/AllYouNeedisLove)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

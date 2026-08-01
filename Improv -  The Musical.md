@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Improv The Musical.jpg">Improv The Musical.jpg</a>
+				![[Improv The Musical.jpg]]
 			</td>
 		</tr>
 
@@ -109,6 +109,6 @@ It will run Fridays and Saturdays at 8pm from 3/27/15 to 4/11/15.
 <blockquote>"Everything you love about the world of improv, scripted and set to music.  Any suggestions?"</blockquote>
 
 ## More Information
-* [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The show announcement], on the [[Institution Theater]] facebook page.
+* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090), on the [[Institution Theater]] facebook page.
 
 [[Category/Shows|Category:Shows]]

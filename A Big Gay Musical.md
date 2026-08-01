@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Abiggaymusicalplaceholder.png">Abiggaymusicalplaceholder.png</a>
+				![[Abiggaymusicalplaceholder.png]]
 			</td>
 		</tr>
 
@@ -107,7 +107,7 @@
 * Stage Manager - [[Mia Cisco]]
  
 ## More Information
-* [http://www.hideouttheatre.com/shows/biggaymusical The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/biggaymusical)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

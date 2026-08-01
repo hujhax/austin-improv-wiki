@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Trash.jpg">Trash.jpg</a>
+				![[Trash.jpg]]
 			</td>
 		</tr>
 
@@ -118,8 +118,8 @@ The show ran for two days, 7/5/13 and 7/6/13.  It was written by [[Joel Reese]].
 
 ## Media
 ### Videos
-* Video by [[Sara Farr]] of a performance: [http://vimeo.com/87630421 1], [http://vimeo.com/86962957 2], [http://vimeo.com/86360196 3].
+* Video by [[Sara Farr]] of a performance: [1](http://vimeo.com/87630421), [2](http://vimeo.com/86962957), [3](http://vimeo.com/86360196).
 
 ## More Information
-* [http://puppetimprovproject.org/trash.html The show's web page.]
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=15334 Show announcement] on [[The Austin Improv Forums]].
+* [The show's web page.](http://puppetimprovproject.org/trash.html)
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?f=2&t=15334) on [[The Austin Improv Forums]].

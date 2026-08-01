@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Cody Dearing Pic.jpg">Cody Dearing Pic.jpg</a>
+				![[Cody Dearing Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I saw Fou
 * *[[Got Your Back]]*
 
 ## More Information
-* [http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/) by [[Andrew Buck]].
 
 [[Category/Performers|Dearing]]
 [[Category/Directors|Dearing]]

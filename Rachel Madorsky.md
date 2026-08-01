@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Rachel Madorsky Pic.jpg">Rachel Madorsky Pic.jpg</a>
+				![[Rachel Madorsky Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -38,8 +38,8 @@ Rachel is a core cast member in [[The 45-Hour Improv Marathon]].
 * *[[You're Fat]]*
 
 ## More Information
-* [http://rachelanddave.com/rachelanddave.com/Rachel.html Her bio page]  on the [[Rachel and Dave]] website.
-* [http://gybpodcast.libsyn.com/rachel-madorsky-ep-31-got-your-back Interview] on *[[Got Your Back]]*.
+* [Her bio page](http://rachelanddave.com/rachelanddave.com/Rachel.html)  on the [[Rachel and Dave]] website.
+* [Interview](http://gybpodcast.libsyn.com/rachel-madorsky-ep-31-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Madorsky]]
 [[Category/Teachers|Madorsky]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Girltrap.png">Girltrap.png</a>
+				![[Girltrap.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,7 +81,7 @@
 Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>Simply....we rule.</blockquote>
 
 ## More Information
-* [http://girltrap.wordpress.com/ The troupe's web site.]
+* [The troupe's web site.](http://girltrap.wordpress.com/)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

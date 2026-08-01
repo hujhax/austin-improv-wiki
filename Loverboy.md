@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Loverboy.jpg">Loverboy.jpg</a>
+				![[Loverboy.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,12 +85,12 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/loverboycomedy The troupe's vimeo channel].
-* [http://vimeo.com/121427056 Video] of their 2/27/15 performance.
-* [http://vimeo.com/123654299 Video] of their 3/7/15 performance.
+* [The troupe's vimeo channel](http://vimeo.com/loverboycomedy).
+* [Video](http://vimeo.com/121427056) of their 2/27/15 performance.
+* [Video](http://vimeo.com/123654299) of their 3/7/15 performance.
 
 ## More Information
-* [http://www.facebook.com/loverboycomedy The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/loverboycomedy)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -6,7 +6,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Rachel Posey Austin.jpg">Rachel Posey Austin.jpg</a>
+				![[Rachel Posey Austin.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -24,9 +24,9 @@
 **Rachel Posey Austin** is an improv performer and sound tech improviser. 
 
 ## History
-By day, Rachel works in public relations at Bhava Communications [http://www.bhavacom.com/]. By night, she scribbles out the stories in her head and studies the art of improv. Rachel first began improvising in the spring of 2013 but has always had a love of performance art and participated in theater from a young age. She studied at The Hideout completing Levels 1-6 and Level B Flat and performs regularly either through Maestro, her troupe Physics Curse, Fancy Pants or mainstages.
+By day, Rachel works in public relations at Bhava Communications [http://www.bhavacom.com/](http://www.bhavacom.com/). By night, she scribbles out the stories in her head and studies the art of improv. Rachel first began improvising in the spring of 2013 but has always had a love of performance art and participated in theater from a young age. She studied at The Hideout completing Levels 1-6 and Level B Flat and performs regularly either through Maestro, her troupe Physics Curse, Fancy Pants or mainstages.
 
-For a complete list of her performances, check out her performance calendar [https://rachel-austin.squarespace.com/performance-calendar/].
+For a complete list of her performances, check out her performance calendar [https://rachel-austin.squarespace.com/performance-calendar/](https://rachel-austin.squarespace.com/performance-calendar/).
 
 ## Troupes
 * [[A Really Aggressive Dream]] (former troupe member)

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Precious.jpg">Precious.jpg</a>
+				![[Precious.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/46593469 Video of their 6/30/12 show.]
+* [Video of their 6/30/12 show.](http://vimeo.com/46593469)
 
 ## More Information
-* [http://www.facebook.com/preciousimprov The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/preciousimprov)
 
 
 [[Category/Troupes|Category:Troupes]]

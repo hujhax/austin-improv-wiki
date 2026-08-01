@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Andrew Buck Pic.jpg">Andrew Buck Pic.jpg</a>
+				![[Andrew Buck Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -27,7 +27,7 @@ Andrew began his improv career as a student at [[Merlin Works]] in July 2011. He
 
 Before discovering improv, Andrew was a regular performer at the weekly Austin Poetry Slam (1997-2009). He was a member of two of the three Austin Poetry Slam teams to reach the Finals of the National Poetry Slam (taking third place both times). Andrew also hosted the weekly Austin Slam for four years and was featured on the HBO program "Def Poetry Jam" in 2004. While in college at The University of Texas, he was a member of the UT Forensics Team, where he reached the final round of the National Speech Tournament five times, including helping UT win the National Championship in 2001. 
 
-Andrew also maintains an improv-related blog at [http://www.yesandrew.com YesAndrew.com]
+Andrew also maintains an improv-related blog at [YesAndrew.com](http://www.yesandrew.com)
 
 ## Shows
 * *[[Manhattan Stories]]*

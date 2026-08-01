@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Heroes of Comedy.jpg">The Heroes of Comedy.jpg</a>
+				![[The Heroes of Comedy.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -166,9 +166,9 @@ The following performers joined the troupe in 2002:
 
 ## Media
 ### Videos
-* The 3/26/99 performance of *[[Maestro]]*: [http://vimeo.com/45370945 part 1], [http://vimeo.com/45370946 part 2].
+* The 3/26/99 performance of *[[Maestro]]*: [part 1](http://vimeo.com/45370945), [part 2](http://vimeo.com/45370946).
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10152298824352265.1073741842.588952264&type=3&uploaded=6 A photoset of scans] by [[Craig Kotfas]] from the earliest days of the troupe.
+* [A photoset of scans](http://www.facebook.com/hujhax/media_set?set=a.10152298824352265.1073741842.588952264&type=3&uploaded=6) by [[Craig Kotfas]] from the earliest days of the troupe.
 
 [[Category/Troupes|Heroes of Comedy]]

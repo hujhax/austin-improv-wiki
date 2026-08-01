@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Lord Dennis.jpg">Lord Dennis.jpg</a>
+				![[Lord Dennis.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/41395560 Video of their 4/30/12 show.]
+* [Video of their 4/30/12 show.](http://vimeo.com/41395560)
 
 ## More Information
-* [http://www.facebook.com/lorddennisimprov The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/lorddennisimprov)
 
 
 [[Category/Troupes|Category:Troupes]]

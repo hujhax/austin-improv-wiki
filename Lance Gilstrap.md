@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Lance Gilstrap Pic.jpg">Lance Gilstrap Pic.jpg</a>
+				![[Lance Gilstrap Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -38,7 +38,7 @@ Mr. Oklahoma
 * *[[Victrola]]*
 
 ## More Information
-* [http://yesandrew.com/2014/05/11/the-sunday-interview-lance-gilstrap/ Interview] by [[Andrew Buck]].
-* [http://gybpodcast.libsyn.com/lance-gilstrap-ep-3-got-your-back Interview] on the *[[Got Your Back]]* podcast.
+* [Interview](http://yesandrew.com/2014/05/11/the-sunday-interview-lance-gilstrap/) by [[Andrew Buck]].
+* [Interview](http://gybpodcast.libsyn.com/lance-gilstrap-ep-3-got-your-back) on the *[[Got Your Back]]* podcast.
 
 [[Category/Performers|Gilstrap]]

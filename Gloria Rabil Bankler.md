@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Gloria Bankler Pic.jpg">Gloria Bankler Pic.jpg</a>
+				![[Gloria Bankler Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -30,7 +30,7 @@ She has also produced segments based on the concept of fear, called *What Are Yo
 Gloria studied theater in college at the University of North Carolina at Greensboro. 
 In the summer of 2010 her sister-in-law, Faye Bankler Casell, talked her into taking classes at the Hideout Theatre after watching Gloria’s son, Quinn Rabil Bankler, perform in a student showcase.  
 Gloria started classes at the Hideout shortly after in a level one class with [[Valerie Ward]]. She took classes through level four with [[Andy Crouch]], the Hideout Education Director. 
-Gloria has performed at The Oklahoma Improv Festival, The Improvised Play Festival, Wafflefest, Out of Bounds and Improvaganza Hawaii with [[In Our Prime]].  She has also performed at The [http://nycimprovfest.com/ NYC Improv Festival], [[The Improvised Play Festival]], [[WaffleFest]] and [[Out of Bounds]] with [[Furiously Missing]].
+Gloria has performed at The Oklahoma Improv Festival, The Improvised Play Festival, Wafflefest, Out of Bounds and Improvaganza Hawaii with [[In Our Prime]].  She has also performed at The [NYC Improv Festival](http://nycimprovfest.com/), [[The Improvised Play Festival]], [[WaffleFest]] and [[Out of Bounds]] with [[Furiously Missing]].
 
 Gloria is also a wife, mother of two (boys), scripted actor, writer, director and filmmaker.
 
@@ -40,7 +40,7 @@ Gloria is also a wife, mother of two (boys), scripted actor, writer, director an
 
 ## Shows
 ## Film
-* [http://www.youtube.com/watch?v=AzZo9HBz9VA Awake]
+* [Awake](http://www.youtube.com/watch?v=AzZo9HBz9VA)
 * [[The Vacation]]
 
 [[Category/Performers|Bankler]]

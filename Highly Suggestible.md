@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Highly Suggestible.jpg">Highly Suggestible.jpg</a>
+				![[Highly Suggestible.jpg]]
 			</td>
 		</tr>
 
@@ -57,7 +57,7 @@ Highly collaborative. Highly hilarious. Highly Suggestible.
 Highly Suggestible runs the second Saturday of every month at the Institution Theater.
 
 ## More Information
-* [http://www.theinstitutiontheater.com/shows/129/highly-suggestible-improv The show's page on the Institution Theater site.]
+* [The show's page on the Institution Theater site.](http://www.theinstitutiontheater.com/shows/129/highly-suggestible-improv)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]

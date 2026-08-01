@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Booker and a Buddy.jpg">Booker and a Buddy.jpg</a>
+				![[Booker and a Buddy.jpg]]
 			</td>
 		</tr>
 
@@ -54,7 +54,7 @@ The show is loosely patterned off of [[Wikipedia - Susan Messing|Susan Messing]]
 
 ## Media
 ### Videos
-* [http://vimeo.com/124087927 Video] of the 3/28/15 performance with [[Peter Rogers]].
+* [Video](http://vimeo.com/124087927) of the 3/28/15 performance with [[Peter Rogers]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]

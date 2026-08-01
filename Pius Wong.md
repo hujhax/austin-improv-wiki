@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Performer Default Image.png">Performer Default Image.png</a>
+				![[Performer Default Image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -27,6 +27,6 @@ Pius Wong is an improv player in musical improv.  He also is interested in appli
 *[[Human People]]
 
 ## Webpage
-Website: [http://www.piuswong.com http://www.piuswong.com]
+Website: [http://www.piuswong.com](http://www.piuswong.com)
 
 [[Category/Performers|Category:Performers]]

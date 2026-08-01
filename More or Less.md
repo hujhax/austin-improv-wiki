@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="More or Less Pic.jpg">More or Less Pic.jpg</a>
+				![[More or Less Pic.jpg]]
 			</td>
 		</tr>
 
@@ -50,7 +50,7 @@ In *More or Less*, players take turns setting up scenes.  After each scene, the 
 The show was put on sporadically during the early years of the Hideout, but hasn't been such much since 2003.
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.19102012264.15339.588952264&type=3 Photoset of the 1/26/2002 show] by [[Peter Rogers]].
+* [Photoset of the 1/26/2002 show](http://www.facebook.com/media/set/?set=a.19102012264.15339.588952264&type=3) by [[Peter Rogers]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

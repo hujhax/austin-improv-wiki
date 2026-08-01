@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Two Guys Pic.jpg">Two Guys Pic.jpg</a>
+				![[Two Guys Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -95,25 +95,25 @@ Here is [[Bobby Ford]]'s explanation of the name's origin:<blockquote>Paul Norma
 
 ## Media
 ### Videos
-* [http://vimeo.com/36173294 Video] by [[Paul Normandin]] of their debut show.
-* [http://vimeo.com/40744913 Video] by [[Paul Normandin]] of their 4/19/12 show.
-* [http://vimeo.com/42251366 Video] by [[Paul Normandin]] of their 5/4/12 performance in *[[The Cagematch]]*.
-* [http://vimeo.com/43881347 Video] by [[Paul Normandin]] of their 6/10/12 performance in *[[The Weekender]]*.
-** [http://vimeo.com/43860472 Video] by [[Dave Alley]] that includes the same show.
-* [http://vimeo.com/51661337 Video] by [[Paul Normandin]] of their 10/17/12 performance in *[[The Weekender]]*.
-* [http://vimeo.com/55690464 Video] by [[Paul Normandin]] of their 12/9/12 performance in *[[The Weekender]]*.
-* [http://vimeo.com/57209037 Video] by [[Paul Normandin]] of their 12/23/12 performance at [[ColdTowne Theater]].
-* [http://vimeo.com/57533245 Video] by [[Paul Normandin]] of their January 2013 performance in [[FronteraFest]].
-* [http://vimeo.com/60376143 Video] by [[Paul Normandin]] of their 2/15/13 performance in *[[PGraph Presents]]*.
-* [http://vimeo.com/61076534 Video] by [[Paul Normandin]] of their 3/3/13 performance in *[[The Weekender]]*.
-* [http://vimeo.com/64470434 Video] by [[Paul Normandin]] of their 4/6/13 performance at [[The Institution Theater]].
-* [http://vimeo.com/71314848 Video] by [[Paul Normandin]] of their 7/28/13 performance at [[The Institution Theater]].
-* [https://vimeo.com/111587850 Video] by [[Paul Normandin]] of their 10/17/14 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/36173294) by [[Paul Normandin]] of their debut show.
+* [Video](http://vimeo.com/40744913) by [[Paul Normandin]] of their 4/19/12 show.
+* [Video](http://vimeo.com/42251366) by [[Paul Normandin]] of their 5/4/12 performance in *[[The Cagematch]]*.
+* [Video](http://vimeo.com/43881347) by [[Paul Normandin]] of their 6/10/12 performance in *[[The Weekender]]*.
+** [Video](http://vimeo.com/43860472) by [[Dave Alley]] that includes the same show.
+* [Video](http://vimeo.com/51661337) by [[Paul Normandin]] of their 10/17/12 performance in *[[The Weekender]]*.
+* [Video](http://vimeo.com/55690464) by [[Paul Normandin]] of their 12/9/12 performance in *[[The Weekender]]*.
+* [Video](http://vimeo.com/57209037) by [[Paul Normandin]] of their 12/23/12 performance at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/57533245) by [[Paul Normandin]] of their January 2013 performance in [[FronteraFest]].
+* [Video](http://vimeo.com/60376143) by [[Paul Normandin]] of their 2/15/13 performance in *[[PGraph Presents]]*.
+* [Video](http://vimeo.com/61076534) by [[Paul Normandin]] of their 3/3/13 performance in *[[The Weekender]]*.
+* [Video](http://vimeo.com/64470434) by [[Paul Normandin]] of their 4/6/13 performance at [[The Institution Theater]].
+* [Video](http://vimeo.com/71314848) by [[Paul Normandin]] of their 7/28/13 performance at [[The Institution Theater]].
+* [Video](https://vimeo.com/111587850) by [[Paul Normandin]] of their 10/17/14 show at [[The Hideout Theatre]].
 
 ## More Information
-* [https://www.facebook.com/TwoGuysFromYonkers Two Guys From Yonkers Facebook Page]
-* [http://vimeo.com/36173294 Two Guys From Yonkers debut show]
-* [http://vimeo.com/normandin Paul Normandin's Vimeo channel]
+* [Two Guys From Yonkers Facebook Page](https://www.facebook.com/TwoGuysFromYonkers)
+* [Two Guys From Yonkers debut show](http://vimeo.com/36173294)
+* [Paul Normandin's Vimeo channel](http://vimeo.com/normandin)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

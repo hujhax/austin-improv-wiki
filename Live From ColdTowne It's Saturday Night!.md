@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live From ColdTowne It’s Saturday Night!.jpg">Live From ColdTowne It’s Saturday Night!.jpg</a>
+				![[Live From ColdTowne It’s Saturday Night!.jpg]]
 			</td>
 		</tr>
 
@@ -45,7 +45,7 @@
 ***Live From ColdTowne It’s Saturday Night!*** was a mainstage show at [[ColdTowne Theater]].  It featured weekly sketches and improvised behind-the-scenes cast meetings, in a tribute to *[[Wikipedia - Saturday Night Live|Saturday Night Live]]*.
 
 ## More Information
-* [http://www.coldtownetheater.com/blog/announcing-2014-coldtowne-mainstage-season The blogpost announcing ColdTowne's 2014 mainstage season, including this show.]
-* [http://thetheftforum.libsyn.com/episode-62-its-saturday-night Interview] by [[Scott Hearne]] with [[Frank Netscher]] and [[Cene Hale]] for *[[The Theft Forum]]*.
+* [The blogpost announcing ColdTowne's 2014 mainstage season, including this show.](http://www.coldtownetheater.com/blog/announcing-2014-coldtowne-mainstage-season)
+* [Interview](http://thetheftforum.libsyn.com/episode-62-its-saturday-night) by [[Scott Hearne]] with [[Frank Netscher]] and [[Cene Hale]] for *[[The Theft Forum]]*.
 
 [[Category/Shows|Category:Shows]]

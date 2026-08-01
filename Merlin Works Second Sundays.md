@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Merlin Works Second Sundays.jpg">Merlin Works Second Sundays.jpg</a>
+				![[Merlin Works Second Sundays.jpg]]
 			</td>
 		</tr>
 
@@ -1617,4 +1617,4 @@
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.902699009793616.1073742153.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/8/15 showcase.
+* [Photoset](http://www.facebook.com/media/set/?set=a.902699009793616.1073742153.221927764537414&type=3) by [[Steve Rogers]] of the 2/8/15 showcase.

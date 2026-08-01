@@ -5,7 +5,7 @@ Photo by: unknown.
 
 Art by: unknown.
 
-Taken from [http://www.facebook.com/MYTatCT the show's facebook page].
+Taken from [the show's facebook page](http://www.facebook.com/MYTatCT).
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

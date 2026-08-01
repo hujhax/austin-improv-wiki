@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Slam Team Six.jpg">Slam Team Six.jpg</a>
+				![[Slam Team Six.jpg]]
 			</td>
 		</tr>
 
@@ -108,9 +108,9 @@
 The show returned for performances including an exhibition match in the 2014 [[Theatresports]] run as well as [[The 2014 Out of Bounds Comedy Festival]].
 
 ## Media
-* [http://www.facebook.com/media/set/?set=a.711697908893728.1073741982.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/5/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.711697908893728.1073741982.221927764537414&type=3) by [[Steve Rogers]] of the 4/5/14 show.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=17162&p=135889 Audition announcement] on [[The Austin Improv Forums]].
+* [Audition announcement](http://forum.austinimprov.com/viewtopic.php?t=17162&p=135889) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

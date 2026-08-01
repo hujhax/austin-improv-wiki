@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Wanderlust.jpg">Wanderlust.jpg</a>
+				![[Wanderlust.jpg]]
 			</td>
 		</tr>
 
@@ -159,7 +159,7 @@
 ## Summary
 For each performance, the central protagonists were dressed in red, while the remaining eight ensemble members were in blue.  The central performers asked the audience for a location people might travel to, and conducted a brief interview with an audience member, looking for grounded inspiration for the show.
 
-After that, the show opened with a split-stage montage, depicting each of the central characters in their day-to-day life, set to [http://en.wikipedia.org/wiki/Chicago_(Sufjan_Stevens_song) "Chicago" by Sufjan Stevens].  The montage ended with the two characters meeting and beginning their journey.
+After that, the show opened with a split-stage montage, depicting each of the central characters in their day-to-day life, set to ["Chicago" by Sufjan Stevens](http://en.wikipedia.org/wiki/Chicago_(Sufjan_Stevens_song)).  The montage ended with the two characters meeting and beginning their journey.
 
 The show consisted of a series of scenes along that trip, interspersed with improvised interviews with couples (depicted by the cast) about their relationships, à la *[[Wikipedia - When Harry Met Sally|When Harry Met Sally]]*.  The non-protagonist players portrayed all the other characters in the show (including the "interview subjects"), and also performed 'sceneography', using their bodies, motion, and built-in swaths of onstage fabric to suggest settings and props, often reflecting the mood of the scene while they did so.
 
@@ -187,32 +187,32 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 
 ## Media
 ### Videos
-* [http://vimeo.com/115893524 Video] by [[Peter Rogers]] of the 1/3/15 premiere.
-** [http://eilanora.livejournal.com/11890.html The corresponding playlist] used by substitute tech [[Lindsey McGowen]].
-* [http://vimeo.com/117755059 Video] of the 1/24/15 show.
-* [http://vimeo.com/118672454 Video] of the 1/31/15 show.
-* [http://vimeo.com/119088109 Video] of the 2/7/15 show.
-* [http://vimeo.com/119759341 Video] of the 2/14/15 show.
+* [Video](http://vimeo.com/115893524) by [[Peter Rogers]] of the 1/3/15 premiere.
+** [The corresponding playlist](http://eilanora.livejournal.com/11890.html) used by substitute tech [[Lindsey McGowen]].
+* [Video](http://vimeo.com/117755059) of the 1/24/15 show.
+* [Video](http://vimeo.com/118672454) of the 1/31/15 show.
+* [Video](http://vimeo.com/119088109) of the 2/7/15 show.
+* [Video](http://vimeo.com/119759341) of the 2/14/15 show.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.873676119362572.1073742135.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/3/15 premiere.
-* [http://www.facebook.com/media/set/?set=a.880605918669592.1073742140.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/10/15 performance.
-* [http://www.facebook.com/media/set/?set=a.886081091455408.1073742142.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 1/17/15 performance.
-* [http://www.facebook.com/media/set/?set=a.10203488369032618.1073741926.1315383518&type=3 Photoset] by [[Michael Yew]] of the 1/31/15 performance.
-* [http://www.facebook.com/media/set/?set=a.899151200148397.1073742149.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/7/15 performance.
-* [http://www.facebook.com/media/set/?set=a.907959222600928.1073742155.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/21/15 performance.
-* [http://www.facebook.com/media/set/?set=a.912193992177451.1073742158.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/28/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.873676119362572.1073742135.221927764537414&type=3) by [[Steve Rogers]] of the 1/3/15 premiere.
+* [Photoset](http://www.facebook.com/media/set/?set=a.880605918669592.1073742140.221927764537414&type=3) by [[Steve Rogers]] of the 1/10/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.886081091455408.1073742142.221927764537414&type=3) by [[Steve Rogers]] of the 1/17/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10203488369032618.1073741926.1315383518&type=3) by [[Michael Yew]] of the 1/31/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.899151200148397.1073742149.221927764537414&type=3) by [[Steve Rogers]] of the 2/7/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.907959222600928.1073742155.221927764537414&type=3) by [[Steve Rogers]] of the 2/21/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.912193992177451.1073742158.221927764537414&type=3) by [[Steve Rogers]] of the 2/28/15 performance.
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1 The show announcement] on the Hideout's facebook group.
-* [http://www.facebook.com/groups/hideouttheatre/permalink/824995157523590/ The audition announcement.]
-* [http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing Interview] by [[Scott Hearne]] with [[Ruby Willmann]], [[Aaron Saenz]] and [[Manuel Duran]] for *[[The Theft Forum]]*.
-* [http://yesandrew.com/wanderlust-and-the-audacity-of-vision/ Post about the show] by [[Andrew Buck]].
-* [http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3 Radio interview] with [[Aaron Saenz]], [[Jordan T. Maxwell]], [[Cat Drago]], and [[Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
-* [http://www.hideouttheatre.com/the-journey-to-wanderlustHideout blogpost] by [[Ruby Willmann]] about the production.
-* [http://www.hideouttheatre.com/reflectionsonwanderlust Hideout blogpost] by [[Ceej Allen]] about the production.
-* [http://www.hideouttheatre.com/ryan_austin_onwanderlust Hideout blogpost] by [[Ryan Austin]] about the production.
-* [http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback Hideout blogpost] by [[Nicole Oliver]] about the production.
-* [http://www.hideouttheatre.com/cat-drago-bedtime-storytelling Hideout blogpost] by [[Cat Drago]] about the production.
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1) on the Hideout's facebook group.
+* [The audition announcement.](http://www.facebook.com/groups/hideouttheatre/permalink/824995157523590/)
+* [Interview](http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing) by [[Scott Hearne]] with [[Ruby Willmann]], [[Aaron Saenz]] and [[Manuel Duran]] for *[[The Theft Forum]]*.
+* [Post about the show](http://yesandrew.com/wanderlust-and-the-audacity-of-vision/) by [[Andrew Buck]].
+* [Radio interview](http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3) with [[Aaron Saenz]], [[Jordan T. Maxwell]], [[Cat Drago]], and [[Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
+* [blogpost](http://www.hideouttheatre.com/the-journey-to-wanderlustHideout) by [[Ruby Willmann]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/reflectionsonwanderlust) by [[Ceej Allen]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/ryan_austin_onwanderlust) by [[Ryan Austin]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback) by [[Nicole Oliver]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/cat-drago-bedtime-storytelling) by [[Cat Drago]] about the production.
 
 [[Category/Shows|Category:Shows]]

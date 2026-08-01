@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Rapture the Flag.jpg">Rapture the Flag.jpg</a>
+				![[Rapture the Flag.jpg]]
 			</td>
 		</tr>
 
@@ -110,6 +110,6 @@ The show included sketch, improv, song, and dance. It ran on Fridays at 8:30 dur
 
 
 ## More Information
-* [http://austinist.com/2010/11/11/rapture_the_flag.php An interview with cast members] by *The Austinist*.
+* [An interview with cast members](http://austinist.com/2010/11/11/rapture_the_flag.php) by *The Austinist*.
 
 [[Category/Shows|Category:Shows]]

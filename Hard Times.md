@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,7 +80,7 @@
 The troupe played a Cagematch on 12/13/07.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=5709&p=49494 Show announcement] on [[The Austin Improv Forums]].
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=5709&p=49494) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Only One Performance|Category:Only One Performance]]

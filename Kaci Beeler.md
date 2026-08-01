@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Kaci Beeler.jpg">Kaci Beeler.jpg</a>
+				![[Kaci Beeler.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -20,12 +20,12 @@
 	</table>
 </div>
 
-**Kaci Beeler** (AKA **Kaci Danger**) is an improv performer, director, scenic painter, teacher, and the Director of Design for [[The Hideout Theatre]]. Kaci is a represented actor with TAG Talent Agency[http://www.tagtalent.com/Main.php?Region=Tx&Branch=Main&Entry=Talent&TCode=KB05] who represent actors in film, television, commercial, voice-over, and print media. 
+**Kaci Beeler** (AKA **Kaci Danger**) is an improv performer, director, scenic painter, teacher, and the Director of Design for [[The Hideout Theatre]]. Kaci is a represented actor with TAG Talent Agency[http://www.tagtalent.com/Main.php?Region=Tx&Branch=Main&Entry=Talent&TCode=KB05](http://www.tagtalent.com/Main.php?Region=Tx&Branch=Main&Entry=Talent&TCode=KB05) who represent actors in film, television, commercial, voice-over, and print media. 
 
 ## History
-Kaci Beeler began learning and studying improv in 2002 at Westwood High School[http://en.wikipedia.org/wiki/Westwood_High_School_(Austin,_Texas)] in North Austin, Texas, which is a Fine Arts Academy[http://www.roundrockisd.org/index.aspx?page=3530] within the Round Rock Independent School District. In addition to taking a Comedy/Improv course she auditioned and was cast in [[The PITS]] (Premier Improvisational Theater Society) in 2003, an all-student improv troupe led by organizer [[Philip Aulie]]. The PITS went on to become [[Comedic Amoeba]] and performed three shows at [[The Hideout Theatre]] in 2004 and 2005. Comedic Amoeba was coached by [[Jeremy Sweetlamb]] before dissembling in July of 2005.
+Kaci Beeler began learning and studying improv in 2002 at Westwood High School[http://en.wikipedia.org/wiki/Westwood_High_School_(Austin,_Texas)](http://en.wikipedia.org/wiki/Westwood_High_School_(Austin,_Texas)) in North Austin, Texas, which is a Fine Arts Academy[http://www.roundrockisd.org/index.aspx?page=3530](http://www.roundrockisd.org/index.aspx?page=3530) within the Round Rock Independent School District. In addition to taking a Comedy/Improv course she auditioned and was cast in [[The PITS]] (Premier Improvisational Theater Society) in 2003, an all-student improv troupe led by organizer [[Philip Aulie]]. The PITS went on to become [[Comedic Amoeba]] and performed three shows at [[The Hideout Theatre]] in 2004 and 2005. Comedic Amoeba was coached by [[Jeremy Sweetlamb]] before dissembling in July of 2005.
 
-Kaci began performing in *[[Maestro]]* at [[The Hideout Theatre]] in June of 2005 and met fellow improvisers [[Roy Janik]], [[Kareem Badr]], [[Valerie Ward]], [[Andy Crouch]], [[Michael Ferstenfeld]], among many others through the [[Tuesday Night Jam]]. Kaci moved to Fullerton, CA[http://en.wikipedia.org/wiki/Fullerton,_California] in August of 2005 to get a Bachelor of Fine Arts Degree with an emphasis in Acting at California State University at Fullerton[http://en.wikipedia.org/wiki/Cal_State_Fullerton]. 
+Kaci began performing in *[[Maestro]]* at [[The Hideout Theatre]] in June of 2005 and met fellow improvisers [[Roy Janik]], [[Kareem Badr]], [[Valerie Ward]], [[Andy Crouch]], [[Michael Ferstenfeld]], among many others through the [[Tuesday Night Jam]]. Kaci moved to Fullerton, CA[http://en.wikipedia.org/wiki/Fullerton,_California](http://en.wikipedia.org/wiki/Fullerton,_California) in August of 2005 to get a Bachelor of Fine Arts Degree with an emphasis in Acting at California State University at Fullerton[http://en.wikipedia.org/wiki/Cal_State_Fullerton](http://en.wikipedia.org/wiki/Cal_State_Fullerton). 
 
 In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal State Fullerton at the end of the Fall Semester. She was asked to join the Austin improv troupe [[Parallelogramophonograph]] upon her return and had her first performance with them on December 23rd, 2005, 42 days after the troupe's debut at [[WaffleFest]] in November.
 
@@ -49,13 +49,13 @@ A post from her about the first improv show she ever saw:<blockquote><p>The firs
 I never thought, "I can do this." I figured they were just really funny and talented guys, I never thought at the time that what they were doing was a learned art.</p> </blockquote>
 
 ## Awards
-* Austin Chronicle Best Of Austin Awards 2016, Readers Poll: Best Actor/Actress[https://www.austinchronicle.com/best-of-austin/year:2016/poll:readers/category:arts-and-entertainment/kaci-beeler-best-actor-actress/]
-* Houston Fringe Fest: F Scott and Zelda Fitzgerald Save The World - Best Original Comedy 2014[http://houstonfringefestival.org/shows14/]
-* Austin Chronicle Best Of Austin Awards 2012, Readers Poll: Best Actor/Actress[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1368787]
-* Austin Chronicle Best Of Austin Awards 2012, Critics Pick: Most Continuously Innovative Improv Troupe[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1260410] (Parallelogramophonograph)
-* FronteraFest Best Of Fest 2011: Fitzgeralds For Hire[http://forum.austinimprov.com/viewtopic.php?p=100509]
-* B. Iden Payne Award 2009: Outstanding Work in Improvisational Theater[http://www.bidenpayneawards.com/about/past-awards/2008-2009/] (Parallelogramophonograph)
-* FronteraFest Best Of Fest 2008: Parallelogramophonograph's Improvised French Farce[http://zinereem.livejournal.com/544531.html]
+* Austin Chronicle Best Of Austin Awards 2016, Readers Poll: Best Actor/Actress[https://www.austinchronicle.com/best-of-austin/year:2016/poll:readers/category:arts-and-entertainment/kaci-beeler-best-actor-actress/](https://www.austinchronicle.com/best-of-austin/year:2016/poll:readers/category:arts-and-entertainment/kaci-beeler-best-actor-actress/)
+* Houston Fringe Fest: F Scott and Zelda Fitzgerald Save The World - Best Original Comedy 2014[http://houstonfringefestival.org/shows14/](http://houstonfringefestival.org/shows14/)
+* Austin Chronicle Best Of Austin Awards 2012, Readers Poll: Best Actor/Actress[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1368787](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1368787)
+* Austin Chronicle Best Of Austin Awards 2012, Critics Pick: Most Continuously Innovative Improv Troupe[http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1260410](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1260410) (Parallelogramophonograph)
+* FronteraFest Best Of Fest 2011: Fitzgeralds For Hire[http://forum.austinimprov.com/viewtopic.php?p=100509](http://forum.austinimprov.com/viewtopic.php?p=100509)
+* B. Iden Payne Award 2009: Outstanding Work in Improvisational Theater[http://www.bidenpayneawards.com/about/past-awards/2008-2009/](http://www.bidenpayneawards.com/about/past-awards/2008-2009/) (Parallelogramophonograph)
+* FronteraFest Best Of Fest 2008: Parallelogramophonograph's Improvised French Farce[http://zinereem.livejournal.com/544531.html](http://zinereem.livejournal.com/544531.html)
 
 ## Troupes
 * [[Adventure Squad!]]
@@ -113,15 +113,15 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Who Is T. Henry Baudecliffe]]* (Performed and Directed)
 
 ## Media
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design.html#grid A photo album of Kaci Beeler's set designs.]
+* [A photo album of Kaci Beeler's set designs.](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design.html#grid)
 
 ## More Information
-* Interviews by [[Andrew Buck]]: [http://yesandrew.com/the-sunday-interview-kaci-beeler/ 1], [http://yesandrew.com/sunday-interview-kaci-beeler/ 2].
-* [http://www.hideouttheatre.com/improv-audition-techniques-and-tips A post of audition tips] from the Hideout blog.
+* Interviews by [[Andrew Buck]]: [1](http://yesandrew.com/the-sunday-interview-kaci-beeler/), [2](http://yesandrew.com/sunday-interview-kaci-beeler/).
+* [A post of audition tips](http://www.hideouttheatre.com/improv-audition-techniques-and-tips) from the Hideout blog.
 * Posts by Kaci about her design work for the Hideout:
-** [http://www.hideouttheatre.com/design-director-tells-all-about-design-stuff An 11/13/09 post about design work.]
-** [http://www.hideouttheatre.com/journey-through-the-2010-set-designs A post recapping her 2010 mainstage set designs.]
-** [http://www.hideouttheatre.com/layer-upon-layer-of-paint-the-hideout-theatre-set-designs A 2011 post abou set-design work.]
+** [An 11/13/09 post about design work.](http://www.hideouttheatre.com/design-director-tells-all-about-design-stuff)
+** [A post recapping her 2010 mainstage set designs.](http://www.hideouttheatre.com/journey-through-the-2010-set-designs)
+** [A 2011 post abou set-design work.](http://www.hideouttheatre.com/layer-upon-layer-of-paint-the-hideout-theatre-set-designs)
 
 [[Category/Performers|Beeler]]
 [[Category/Directors|Beeler]]

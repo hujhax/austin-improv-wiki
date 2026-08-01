@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Cortney DeAngelo Pic.jpg">Cortney DeAngelo Pic.jpg</a>
+				![[Cortney DeAngelo Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -39,8 +39,8 @@ A post from her about the first improv show she ever saw:<blockquote>I was actua
 * *[[The Tribunal]]* (4/12/13 show)
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=113455 Courtney's self-introduction thread] on [[The Austin Improv Forums]].
-* [http://yesandrew.com/2013/08/23/in-praise-of-improv-technicians-by-courtney-deangelo/ "In Praise Of..." post] she wrote about technical improvisors.
+* [Courtney's self-introduction thread](http://forum.austinimprov.com/viewtopic.php?p=113455) on [[The Austin Improv Forums]].
+* ["In Praise Of..." post](http://yesandrew.com/2013/08/23/in-praise-of-improv-technicians-by-courtney-deangelo/) she wrote about technical improvisors.
 
 [[Category/Performers|DeAngelo]]
 [[Category/Techs|DeAngelo]]

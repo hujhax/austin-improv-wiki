@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Peter Pan and the Great Unknown Placeholder image.jpg">Peter Pan and the Great Unknown Placeholder image.jpg</a>
+				![[Peter Pan and the Great Unknown Placeholder image.jpg]]
 			</td>
 		</tr>
 
@@ -55,7 +55,7 @@ From the show announcement:<blockquote>Never-before-seen improvised adventures o
 </blockquote>
 
 ## More Information
-* [http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/ The show announcement] on the Hideout's facebook group.
+* [The show announcement](http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/) on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

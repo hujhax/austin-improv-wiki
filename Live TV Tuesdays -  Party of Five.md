@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Live TV Tuesdays - Party of Five.jpg">Live TV Tuesdays - Party of Five.jpg</a>
+				![[Live TV Tuesdays - Party of Five.jpg]]
 			</td>
 		</tr>
 
@@ -92,7 +92,7 @@
 		
 	</table>
 </div>
-***Live TV Tuesdays: Party of Five*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode [http://www.imdb.com/title/tt0670372/ "The Wedding"].
+***Live TV Tuesdays: Party of Five*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode ["The Wedding"](http://www.imdb.com/title/tt0670372/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *Party of Five".
@@ -112,9 +112,9 @@ It played exclusively at [[The Highball]].
 * Will -- [[Cody Melcher]]/[[Tyler Reece Booker]]
 
 ## Media
-* [http://youtu.be/M-9woBN_azM The dance scene from the 8/23/11 performance.]
-* [http://www.facebook.com/media/set/?set=a.10150309044674090.366087.273514734089&type=3 Photoset of the 8/30/11 performance].
+* [The dance scene from the 8/23/11 performance.](http://youtu.be/M-9woBN_azM)
+* [Photoset of the 8/30/11 performance](http://www.facebook.com/media/set/?set=a.10150309044674090.366087.273514734089&type=3).
 
 ## More Information
-* [http://www.facebook.com/events/246541985367201/ Facebook event for opening night.]
-* [http://www.facebook.com/events/230071250371938/ Facebook event for the 8/23/11 performance.]
+* [Facebook event for opening night.](http://www.facebook.com/events/246541985367201/)
+* [Facebook event for the 8/23/11 performance.](http://www.facebook.com/events/230071250371938/)

@@ -28,5 +28,5 @@ On 12/24/14, Kevin completed editing work and released "Want to Know" as an e-bo
 * **Doc Jenkins**: Solitary doctor to whom Audie brings his wounded brother, Jesse, for treatment.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=6&t=13360 The original Wu Yun thread.]
-* [http://austinimprov.com/wanttoknow/ An e-book edition of the story], edited by [[Kevin Miller]].
+* [The original Wu Yun thread.](http://forum.austinimprov.com/viewtopic.php?f=6&t=13360)
+* [An e-book edition of the story](http://austinimprov.com/wanttoknow/), edited by [[Kevin Miller]].

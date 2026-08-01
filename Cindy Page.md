@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Cindy Page Pic.jpg">Cindy Page Pic.jpg</a>
+				![[Cindy Page Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,7 +80,7 @@ She was Technical Director for the [[Out of Bounds Comedy Festival]] from 2013-2
 * *[[Trust No One]]* *(light tech)*
 
 ## More Information
-* [http://www.hideouttheatre.com/view-from-the-booth A hideout blogpost] by Ms. Page about improv tech.
+* [A hideout blogpost](http://www.hideouttheatre.com/view-from-the-booth) by Ms. Page about improv tech.
 
 [[Category/Performers|Page]]
 [[Category/Techs|Page]]

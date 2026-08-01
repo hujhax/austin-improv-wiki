@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Dubbed Indemnity.jpg">Dubbed Indemnity.jpg</a>
+				![[Dubbed Indemnity.jpg]]
 			</td>
 		</tr>
 
@@ -58,18 +58,18 @@ Since then, *Dubbed Indemnity* has shown up for occasional one-off performances 
 
 ## Media
 ### Videos
-* 10/22/10: [http://vimeo.com/16618448 Video.]
-* 1/28/11: [http://vimeo.com/19541045 Video.]
-* 3/25/11: [http://vimeo.com/21607975 Video.]
-* 4/23/11: [http://vimeo.com/22841998 Video.]
-* 5/27/11: [http://vimeo.com/24452011 Video.]
-* 6/22/13: [http://vimeo.com/73282840 Video.] (Part of [[The 44-Hour Improv Marathon]].)
+* 10/22/10: [Video.](http://vimeo.com/16618448)
+* 1/28/11: [Video.](http://vimeo.com/19541045)
+* 3/25/11: [Video.](http://vimeo.com/21607975)
+* 4/23/11: [Video.](http://vimeo.com/22841998)
+* 5/27/11: [Video.](http://vimeo.com/24452011)
+* 6/22/13: [Video.](http://vimeo.com/73282840) (Part of [[The 44-Hour Improv Marathon]].)
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes its 6/4/10 performance at [[The 41-Hour Improv Marathon]].
-* [http://www.facebook.com/hujhax/media_set?set=a.462070062264.231094.588952264&type=3 A photoset] by [[Peter Rogers]] of the 7/9/10 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/4/10 performance at [[The 41-Hour Improv Marathon]].
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.462070062264.231094.588952264&type=3) by [[Peter Rogers]] of the 7/9/10 show.
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/dubbedindemnity The show's web page.]
+* [The show's web page.](http://www.hideouttheatre.com/shows/dubbedindemnity)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

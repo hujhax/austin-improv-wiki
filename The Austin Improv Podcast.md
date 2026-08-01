@@ -8,7 +8,7 @@ Most, but not all, of the episodes are a Living Room Bat: cast members tell true
 The podcast is hosted and produced by [[Scott Hearne]] and [[Caeriel Crestin]]. 
 
 ## More Information
-* [http://www.facebook.com/austinimprov The podcast's facebook page.]
-* [http://directory.libsyn.com/shows/view/id/austinimprov The podcast's episode list.]
+* [The podcast's facebook page.](http://www.facebook.com/austinimprov)
+* [The podcast's episode list.](http://directory.libsyn.com/shows/view/id/austinimprov)
 
 [[Category/Podcasts|Category:Podcasts]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Laugh Pack.jpg">Laugh Pack.jpg</a>
+				![[Laugh Pack.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -78,13 +78,13 @@
 
 ## Media
 ### Videos
-* [http://www.facebook.com/photo.php?v=595627381174 "Three Guys Watching TV": Episode 8.]
-* [http://www.facebook.com/photo.php?v=597617717524 "Three Guys Watching TV": Episode 9.]
-* [http://www.facebook.com/photo.php?v=597624568794 "Three Guys Watching TV": Episode 10.]
-* [http://www.facebook.com/photo.php?v=600462940674 "Three Guys Watching TV": Episode 11.]
+* ["Three Guys Watching TV": Episode 8.](http://www.facebook.com/photo.php?v=595627381174)
+* ["Three Guys Watching TV": Episode 9.](http://www.facebook.com/photo.php?v=597617717524)
+* ["Three Guys Watching TV": Episode 10.](http://www.facebook.com/photo.php?v=597624568794)
+* ["Three Guys Watching TV": Episode 11.](http://www.facebook.com/photo.php?v=600462940674)
 
 ## More Information
-* [http://www.facebook.com/home.php?#/group.php?gid=56180559060&ref=ts The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/home.php?#/group.php?gid=56180559060&ref=ts)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

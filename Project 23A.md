@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Show Default Image.jpg">Show Default Image.jpg</a>
+				![[Show Default Image.jpg]]
 			</td>
 		</tr>
 
@@ -108,4 +108,4 @@
 
 ## Media
 ### Videos
-* [http://youtu.be/kAX1us6jmvU Episode 1: "What Project?"]
+* [Episode 1: "What Project?"](http://youtu.be/kAX1us6jmvU)

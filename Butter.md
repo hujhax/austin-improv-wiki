@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Butter.jpg">Butter.jpg</a>
+				![[Butter.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://www.dropbox.com/s/6nf3t5398he1hs2/Butter-Art%20of%20the%20Woo.mp4?dl=0 Video #1]
+* [Video #1](http://www.dropbox.com/s/6nf3t5398he1hs2/Butter-Art%20of%20the%20Woo.mp4?dl=0)
 
 ## More Information
-* [http://www.facebook.com/ButterDuo?ref=bookmarks The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/ButterDuo?ref=bookmarks)
 
 
 [[Category/Troupes|Category:Troupes]]

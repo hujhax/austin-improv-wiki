@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Mustache.jpg">Mustache.jpg</a>
+				![[Mustache.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -93,13 +93,13 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/18781674 Video of their 11/7/10 show.]
-* [http://vimeo.com/19912376 Video of their 1/13/11 show.]
-* [http://vimeo.com/19827335 Video of their 1/24/11 show.]
-* [http://vimeo.com/23991678 Video of their 5/18/11 show.]
+* [Video of their 11/7/10 show.](http://vimeo.com/18781674)
+* [Video of their 1/13/11 show.](http://vimeo.com/19912376)
+* [Video of their 1/24/11 show.](http://vimeo.com/19827335)
+* [Video of their 5/18/11 show.](http://vimeo.com/23991678)
 
 ## More Information
-* [http://www.facebook.com/pages/Mustache/169381313078021 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Mustache/169381313078021)
 
 
 [[Category/Troupes|Category:Troupes]]

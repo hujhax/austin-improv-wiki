@@ -16,10 +16,10 @@ The festival also included several acts from *[[The Free Fringe]]*.
 * [[Bad Boys]]
 * [[Big Beautiful Warlock]]
 * [[Confidence Men]]
-* [http://wiki.austinimprov.com/wiki/List_of_Free_Fringes#Drag_.28Jason_Vines.29 "Drag"]
+* ["Drag"](http://wiki.austinimprov.com/wiki/List_of_Free_Fringes#Drag_.28Jason_Vines.29)
 * [[Elevator Action]]
 * [[The Escorts]]
-* [http://wiki.austinimprov.com/wiki/List_of_Free_Fringes#The_Floor_is_Lava.21_.28Jason_Vines.29 "The Floor is Lava!"]
+* ["The Floor is Lava!"](http://wiki.austinimprov.com/wiki/List_of_Free_Fringes#The_Floor_is_Lava.21_.28Jason_Vines.29)
 * [[Get Up]]
 * [[Girls Girls Girls]]
 * [[Improv for Evil]]
@@ -37,8 +37,8 @@ The festival also included several acts from *[[The Free Fringe]]*.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3 Photoset] by [[Jon Bolden]] of the festival.
+* [Photoset](http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3) by [[Jon Bolden]] of the festival.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=14272 Post about Ladies' Night] on [[The Austin Improv Forums]].
-** [http://www.hideouttheatre.com/announcing-tonights-super-secret-wafflefest-show Hideout blogpost] about the same.
+* [Post about Ladies' Night](http://forum.austinimprov.com/viewtopic.php?f=2&t=14272) on [[The Austin Improv Forums]].
+** [Hideout blogpost](http://www.hideouttheatre.com/announcing-tonights-super-secret-wafflefest-show) about the same.

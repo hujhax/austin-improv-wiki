@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Monologue Jam.jpg">The Monologue Jam.jpg</a>
+				![[The Monologue Jam.jpg]]
 			</td>
 		</tr>
 
@@ -109,17 +109,17 @@ It runs the first Saturday of every month at 10pm.
 
 ## Media
 ### Videos
-* [http://youtu.be/UV_zVlwjYys Video about the show.]
+* [Video about the show.](http://youtu.be/UV_zVlwjYys)
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.899528566777327.1073742150.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 2/7/15 performance.
-* [http://www.facebook.com/media/set/?set=a.918317908231726.1073742163.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 3/7/15 performance.
-* [http://www.facebook.com/media/set/?set=a.939351569461693.1073742177.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/4/15 performance.
-* [http://www.facebook.com/media/set/?set=a.955146961215487.1073742190.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/2/15 performance.
-* [http://www.facebook.com/media/set/?set=a.1018224544907728.1073742228.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 8/1/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.899528566777327.1073742150.221927764537414&type=3) by [[Steve Rogers]] of the 2/7/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.918317908231726.1073742163.221927764537414&type=1) by [[Steve Rogers]] of the 3/7/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.939351569461693.1073742177.221927764537414&type=3) by [[Steve Rogers]] of the 4/4/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.955146961215487.1073742190.221927764537414&type=3) by [[Steve Rogers]] of the 5/2/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1018224544907728.1073742228.221927764537414&type=3) by [[Steve Rogers]] of the 8/1/15 performance.
 
 ## More Information
-* [http://www.facebook.com/monologuejam The show's facebook page], which is also the means of signing up for the show.
+* [The show's facebook page](http://www.facebook.com/monologuejam), which is also the means of signing up for the show.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]

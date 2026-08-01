@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Waiting for Batman.jpg">Waiting for Batman.jpg</a>
+				![[Waiting for Batman.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,21 +85,21 @@ They performed the format as part of *[[The Free Fringe]]* on 2/28/13.  They the
 
 ## Media
 ### Videos
-* [http://vimeo.com/60813845 Video of the 2/28/13 performance.]
-* Video of their shows at [[The 2013 Out of Bounds Comedy Festival]]: [http://vimeo.com/74581061 show #1], [http://vimeo.com/74581060 show #2].
-* [http://vimeo.com/75094440 Video] by [[Dave Alley]] of their 9/1/13 show at [[The 2013 Out of Bounds Comedy Festival]].
-* [http://vimeo.com/124909203 Video] of their 4/11/15 show at [[The 2015 Improvised Play Festival]].
+* [Video of the 2/28/13 performance.](http://vimeo.com/60813845)
+* Video of their shows at [[The 2013 Out of Bounds Comedy Festival]]: [show #1](http://vimeo.com/74581061), [show #2](http://vimeo.com/74581060).
+* [Video](http://vimeo.com/75094440) by [[Dave Alley]] of their 9/1/13 show at [[The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/124909203) of their 4/11/15 show at [[The 2015 Improvised Play Festival]].
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200432765964451.1073741850.1315383518&type=3 Photoset] by [[Michael Yew]] of their 9/1/13 performances.
-* [http://www.facebook.com/media/set/?set=a.593709347359252.1073741934.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their 9/1/13 performances.
-* [http://www.facebook.com/media/set/?set=a.530802303655120.1073741859.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 9/1/13 8pm performance.
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their performances in [[The 2013 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152567251557107.1073741843.549002106&type=3 Photoset] by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10203909224273736.1073741937.1315383518&type=3 Photoset] by [[Michael Yew]] of their performance at [[The 2015 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200432765964451.1073741850.1315383518&type=3) by [[Michael Yew]] of their 9/1/13 performances.
+* [Photoset](http://www.facebook.com/media/set/?set=a.593709347359252.1073741934.221927764537414&type=3) by [[Steve Rogers]] of their 9/1/13 performances.
+* [Photoset](http://www.facebook.com/media/set/?set=a.530802303655120.1073741859.118587218209966&type=3) by [[Roy Moore]] of their 9/1/13 8pm performance.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Heidi Rogers]] that includes their performances in [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152567251557107.1073741843.549002106&type=3) by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203909224273736.1073741937.1315383518&type=3) by [[Michael Yew]] of their performance at [[The 2015 Improvised Play Festival]].
 
 ### Publicity
-* [http://vimeo.com/60731807 A trailer based on the 2/28/13 video.]
+* [A trailer based on the 2/28/13 video.](http://vimeo.com/60731807)
 
 [[Category/Duos|Category:Duos]]
 [[Category/Troupes|Category:Troupes]]

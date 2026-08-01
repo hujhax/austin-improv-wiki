@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Gnome noir.jpg">Gnome noir.jpg</a>
+				![[Gnome noir.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,14 +81,14 @@ The current format is "Gnome Noir", a detective story based in the world of cute
 
 ## Media
 ### Videos
-* [https://youtu.be/V_KJbaCCI3E Video of their 11/16/2018 show at Wafflefest.]
+* [Video of their 11/16/2018 show at Wafflefest.](https://youtu.be/V_KJbaCCI3E)
 
 
 ### Photos
-* [https://www.facebook.com/media/set/?set=oa.2027570003932760&type=3 Photoset] by [[Jeida Jes Mitchell]] of their 11/16/2018 show.
+* [Photoset](https://www.facebook.com/media/set/?set=oa.2027570003932760&type=3) by [[Jeida Jes Mitchell]] of their 11/16/2018 show.
 
 ## More Information
-* [https://www.facebook.com/Fabarjet-429797357434967/ Fabarjet's Facebook page.]
+* [Fabarjet's Facebook page.](https://www.facebook.com/Fabarjet-429797357434967/)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

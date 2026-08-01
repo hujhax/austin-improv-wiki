@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Cagematch.jpg">The Cagematch.jpg</a>
+				![[The Cagematch.jpg]]
 			</td>
 		</tr>
 
@@ -203,8 +203,8 @@ At this point in 2010, the Cagematch reverted to a "King of the Hill" format wit
 * [[Three on a Match]] (10/23/2013)
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=57&hilit=cagematch The original announcement of the show] on [[The Austin Improv Forums]].
-* [http://www.facebook.com/ColdTowneCageMatch The show's facebook page.]
+* [The original announcement of the show](http://forum.austinimprov.com/viewtopic.php?f=2&t=57&hilit=cagematch) on [[The Austin Improv Forums]].
+* [The show's facebook page.](http://www.facebook.com/ColdTowneCageMatch)
 * [[List of Cagematches]].
 
 [[Category/Shows|Category:Shows]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Stag Comedy.jpg">Stag Comedy.jpg</a>
+				![[Stag Comedy.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,16 +81,16 @@ The troupe produced "Stab Comedy", a Halloween-themed sketch show, as a mainstag
 
 ## Media
 ### Videos
-* [http://stagcomedy.com/?page_id=549 The troupe's "Videos" page includes an extensive selection of troupe videos.]
-* [http://vimeo.com/74055491 Video] by [[Dave Alley]] of their 8/30/13 show at [[The 2013 Out of Bounds Comedy Festival]].
+* [The troupe's "Videos" page includes an extensive selection of troupe videos.](http://stagcomedy.com/?page_id=549)
+* [Video](http://vimeo.com/74055491) by [[Dave Alley]] of their 8/30/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.744463752283810.1073742012.221927764537414&type=3 Photoset] by [[Steve Rogers]] of their performance at the 2014 [[Austin Sketch Fest]].
-* [http://www.facebook.com/media/set/?set=a.965141490216034.1073742201.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes highlights of their 5/21/15 show at [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.744463752283810.1073742012.221927764537414&type=3) by [[Steve Rogers]] of their performance at the 2014 [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.965141490216034.1073742201.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/21/15 show at [[Austin Sketch Fest]].
 
 ## More Information
-* [http://stagcomedy.com/?page_id=549 The troupe's web page.]
-* [http://www.facebook.com/stagcomedy The troupe's facebook page.]
+* [The troupe's web page.](http://stagcomedy.com/?page_id=549)
+* [The troupe's facebook page.](http://www.facebook.com/stagcomedy)
 
 
 [[Category/Troupes|Category:Troupes]]

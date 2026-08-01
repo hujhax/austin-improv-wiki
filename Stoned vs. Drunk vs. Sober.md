@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Stoned vs. Drunk vs. Sober.jpg">Stoned vs. Drunk vs. Sober.jpg</a>
+				![[Stoned vs. Drunk vs. Sober.jpg]]
 			</td>
 		</tr>
 
@@ -48,7 +48,7 @@
 The show features comedians in three states of mind (stoned, drunk, sober) performing comedy challenges.
 
 ## More Information
-* [http://www.newmovementtheater.com/details/?mc_id=13449 The show's web page.]
+* [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13449)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

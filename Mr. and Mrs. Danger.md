@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Mr. and Mrs. Danger.jpg">Mr. and Mrs. Danger.jpg</a>
+				![[Mr. and Mrs. Danger.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -77,7 +77,7 @@
 **Mr. and Mrs. Danger** (formerly **Perfect Season**) is an improv duo.
 
 ## More Information
-* [http://perfectseason.austinimprov.com/ The duo's web site.]
+* [The duo's web site.](http://perfectseason.austinimprov.com/)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

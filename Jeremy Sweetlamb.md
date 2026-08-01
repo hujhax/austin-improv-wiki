@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Jeremy Sweetlamb Pic.jpg">Jeremy Sweetlamb Pic.jpg</a>
+				![[Jeremy Sweetlamb Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -49,6 +49,6 @@ I met them after the show. [[Tyler Bryce]], now of Obviously Unrehearsed at OU a
 * [[The 40-Hour Improv Marathon]]
 
 ## More Information
-* [http://gybpodcast.libsyn.com/jeremy-sweetlamb-ep17-got-your-back Interview] on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/jeremy-sweetlamb-ep17-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Sweetlamb]]

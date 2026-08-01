@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Snap Snap Nation.jpg">Snap Snap Nation.jpg</a>
+				![[Snap Snap Nation.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,10 +89,10 @@ We just recorded four of our songs and are planning music videos for them.</bloc
 
 ## Media
 ### Videos
-* [http://www.funnyordie.com/videos/12613397cb/snap-snap-nation-strip-club-song Video #1 Strip Club Song on Funny or Die]
+* [Video #1 Strip Club Song on Funny or Die](http://www.funnyordie.com/videos/12613397cb/snap-snap-nation-strip-club-song)
 
 ## More Information
-* [http://www.facebook.com/snapsnapnation The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/snapsnapnation)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

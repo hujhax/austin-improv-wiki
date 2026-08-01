@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Field Day.jpg">Field Day.jpg</a>
+				![[Field Day.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,8 +86,8 @@ Over its year of activity, Field Day performed at a variety of comedy festivals,
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.844355352294649.1073742112.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
-* [http://www.facebook.com/media/set/?set=a.891482047581979.1073742147.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 1/25/15 performance in *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.844355352294649.1073742112.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.891482047581979.1073742147.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/25/15 performance in *[[The Weekender]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

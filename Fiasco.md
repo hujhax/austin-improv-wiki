@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Fiasco Poster.jpg">Fiasco Poster.jpg</a>
+				![[Fiasco Poster.jpg]]
 			</td>
 		</tr>
 
@@ -183,20 +183,20 @@ From the show announcement:<blockquote>A crime caper goes disastrously wrong in 
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10154176921787265.1073741875.588952264&type=3 Photoset] by [[Peter Rogers]] of the 5/4/16 preview show.
-* [http://www.facebook.com/media/set/?set=a.1188746147855566.1073742345.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/7/16 premiere.
-* [http://www.facebook.com/monkeyangst/media_set?set=a.10154219046236202.1073741845.579776201&type=3 Photoset] by [[Brad Hawkins]] of the 5/21/16 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10154176921787265.1073741875.588952264&type=3) by [[Peter Rogers]] of the 5/4/16 preview show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.1188746147855566.1073742345.221927764537414&type=3) by [[Steve Rogers]] of the 5/7/16 premiere.
+* [Photoset](http://www.facebook.com/monkeyangst/media_set?set=a.10154219046236202.1073741845.579776201&type=3) by [[Brad Hawkins]] of the 5/21/16 performance.
 
 ### Videos
-* [http://vimeo.com/165776101 Video of the 5/7/16 premiere.]
-* [http://vimeo.com/166833003 Video of the 5/14/16 performance.]
-* [http://vimeo.com/fiasco-may21 Video of the 5/21/16 performance.]
+* [Video of the 5/7/16 premiere.](http://vimeo.com/165776101)
+* [Video of the 5/14/16 performance.](http://vimeo.com/166833003)
+* [Video of the 5/21/16 performance.](http://vimeo.com/fiasco-may21)
 
 ## More Information
-* [http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/ The show announcement] on the Hideout's facebook group.
-* [http://www.facebook.com/groups/hideouttheatre/permalink/1045736732116097/ The audition announcement] on the Hideout's facebook group.
-* [http://www.hideouttheatre.com/shows/Fiasco The show's web page] on the Hideout site (more information + ticket sales).
-* [http://docs.google.com/forms/d/1BpODBcCZ2yJ-Ewpyfw1IARtWvgsOf1ToOf8EXT6PTeI/viewform An online form] for making monolog-prompt and relationship suggestions.
+* [The show announcement](http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/) on the Hideout's facebook group.
+* [The audition announcement](http://www.facebook.com/groups/hideouttheatre/permalink/1045736732116097/) on the Hideout's facebook group.
+* [The show's web page](http://www.hideouttheatre.com/shows/Fiasco) on the Hideout site (more information + ticket sales).
+* [An online form](http://docs.google.com/forms/d/1BpODBcCZ2yJ-Ewpyfw1IARtWvgsOf1ToOf8EXT6PTeI/viewform) for making monolog-prompt and relationship suggestions.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

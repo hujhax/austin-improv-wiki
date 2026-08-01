@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Safety Word.jpg">Safety Word.jpg</a>
+				![[Safety Word.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,10 +87,10 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/83413430 Video] by [[Melissa Patterson]] of their 1/2/14 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/83413430) by [[Melissa Patterson]] of their 1/2/14 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/pages/Safety-Word/165685890219962  The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Safety-Word/165685890219962)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="No Chaser.jpg">No Chaser.jpg</a>
+				![[No Chaser.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -138,6 +138,6 @@ They headlined *[[The Threefer]]* in February 2009.
 * 10/15/09: *[[The Threefer]]*, with [[The Glamping Trip]] and [[The Starter Kit]].
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=8580 Announcement] of the troupe's 2/13/09 "Valentine's Spectacular" on [[The Austin Improv Forums]].
+* [Announcement](http://forum.austinimprov.com/viewtopic.php?t=8580) of the troupe's 2/13/09 "Valentine's Spectacular" on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]

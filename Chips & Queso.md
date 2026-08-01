@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Chips & Queso.jpg">Chips & Queso.jpg</a>
+				![[Chips & Queso.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,7 +88,7 @@ Matt and I have been performing improv in various troupes for almost 5 years as 
 We usually do monoscenes, but also enjoy doing popouts at times and switching into different characters.</blockquote>
 
 ## More Information
-* [http://www.facebook.com/chipsandquesoimprov The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/chipsandquesoimprov)
 
 
 [[Category/Troupes|Category:Troupes]]

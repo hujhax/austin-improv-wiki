@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Crimpz.png">Crimpz.png</a>
+				![[Crimpz.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,7 +88,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 Then at some point we get a whimsical/mythical element from the audience and continue the narrative.</blockquote>
 
 ## More Information
-* [https://www.facebook.com/MLcrimpz The duo's web site.]
+* [The duo's web site.](https://www.facebook.com/MLcrimpz)
 
 
 [[Category/Troupes|Category:Troupes]]

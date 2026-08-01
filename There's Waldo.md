@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="There's Waldo.jpg">There's Waldo.jpg</a>
+				![[There's Waldo.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,27 +90,27 @@ The troupe played their last show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## Media
 ### Videos
-* Sketch videos: [http://youtu.be/bRX6cPWD2n8 "Joke Swan"], [http://youtu.be/8qai3yklJ5w "Club Elevator"], [http://youtu.be/dKpnFyyw_no "Rick Perry - War on Christmas"], [http://youtu.be/1jwani4l1JI "We're Just Like You"], [http://youtu.be/xhH9h29gW9I "5 Hour Meth"], , [http://youtu.be/-hFb1fOh1g8 "Remember the Gap?"], [http://youtu.be/RFPKHK9rnzU "BOM."]
-** From the "Treats'n'Eats" series: [http://youtu.be/XpvT3DM3kZY "Holiday Treats'n'Eats"], [http://youtu.be/x0fgBy0hcwk "Valentine's Day Edition"]
-** From the "Urrca Tellor Shuh" series: [http://youtu.be/jdys2GEx0CU "Uscar Pics"], [http://youtu.be/UZ-oO-ojXq0 "SXSW"]
+* Sketch videos: ["Joke Swan"](http://youtu.be/bRX6cPWD2n8), ["Club Elevator"](http://youtu.be/8qai3yklJ5w), ["Rick Perry - War on Christmas"](http://youtu.be/dKpnFyyw_no), ["We're Just Like You"](http://youtu.be/1jwani4l1JI), ["5 Hour Meth"](http://youtu.be/xhH9h29gW9I), , ["Remember the Gap?"](http://youtu.be/-hFb1fOh1g8), ["BOM."](http://youtu.be/RFPKHK9rnzU)
+** From the "Treats'n'Eats" series: ["Holiday Treats'n'Eats"](http://youtu.be/XpvT3DM3kZY), ["Valentine's Day Edition"](http://youtu.be/x0fgBy0hcwk)
+** From the "Urrca Tellor Shuh" series: ["Uscar Pics"](http://youtu.be/jdys2GEx0CU), ["SXSW"](http://youtu.be/UZ-oO-ojXq0)
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3 Photoset] by [[Michael Yew]] that includes thir 10/21/11 "Jerkholes" performance.
-* [http://www.facebook.com/media/set/?set=a.217348495000504.51936.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 11/4/11 "Jerkholes" performance at [[The Institution Theater]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.2996259548261.118592.1315383518&type=3 Photoset] by [[Michael Yew]] of a 4/12 show at [[The Institution Theater]].
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 5/12/12 performance at [[The 2012 Ladies Are Funny Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/24/12 performance.
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102379642080070.3466612.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 9/22/12 performance in *[[The Informal Pig Show]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3972198386122.139663.1315383518&type=3 Photoset] by [[Michael Yew]] of their 12/15/12 "Human Santapede" show.
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.507735242581309.114139.100000345135257&type=3 Photoset] by [[Claudio Fox]] of their 12/20/12 "Human Santapede" show at [[The Institution Theater]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.4125445057193.142095.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 1/18/13 performance in "The Ladies Monthly Museum" at [[The Hideout Theatre]].
-* [http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 2/3/13 performance at *[[BitterFest]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their final 8/30/13 show at [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3) by [[Michael Yew]] that includes thir 10/21/11 "Jerkholes" performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.217348495000504.51936.118587218209966&type=3) by [[Roy Moore]] of their 11/4/11 "Jerkholes" performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2996259548261.118592.1315383518&type=3) by [[Michael Yew]] of a 4/12 show at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3) by [[Claudio Fox]] that includes their 5/12/12 performance at [[The 2012 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3) by [[Michael Yew]] that includes their 6/24/12 performance.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102379642080070.3466612.7909117&type=3) by [[Heidi Rogers]] that includes their 9/22/12 performance in *[[The Informal Pig Show]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3972198386122.139663.1315383518&type=3) by [[Michael Yew]] of their 12/15/12 "Human Santapede" show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.507735242581309.114139.100000345135257&type=3) by [[Claudio Fox]] of their 12/20/12 "Human Santapede" show at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4125445057193.142095.1315383518&type=3) by [[Michael Yew]] which includes their 1/18/13 performance in "The Ladies Monthly Museum" at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=3) by [[Roy Moore]] that includes their 2/3/13 performance at *[[BitterFest]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3) by [[Michael Yew]] which includes their final 8/30/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [http://www.facebook.com/TheresWaldoComedy The troupe's facebook page.]
-* [http://twitter.com/theres_waldo The troupe's twitter feed.]
-* [http://www.funnyordie.com/thereswaldo The troupe's Funny or Die channel.]
-* [http://www.youtube.com/user/TheresWaldoComedy1 The troupe's youtube channel.]
+* [The troupe's facebook page.](http://www.facebook.com/TheresWaldoComedy)
+* [The troupe's twitter feed.](http://twitter.com/theres_waldo)
+* [The troupe's Funny or Die channel.](http://www.funnyordie.com/thereswaldo)
+* [The troupe's youtube channel.](http://www.youtube.com/user/TheresWaldoComedy1)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]

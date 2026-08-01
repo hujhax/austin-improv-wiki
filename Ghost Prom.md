@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Ghost Prom.png">Ghost Prom.png</a>
+				![[Ghost Prom.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -84,10 +84,10 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We host themed proms and our sets often revolve around the them of our event. We have an evolving format that utilizes tap-outs, split scenes with an eye on connections either thru place or time. </blockquote>
 
 ## Media
-* [http://youtu.be/sfEVsAFAeH4 Video of their 2/12/11 show.]
+* [Video of their 2/12/11 show.](http://youtu.be/sfEVsAFAeH4)
 
 ## More Information
-* [http://twitter.com/ghostpromcomedy The troupe's twitter account.]
+* [The troupe's twitter account.](http://twitter.com/ghostpromcomedy)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

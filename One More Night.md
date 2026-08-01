@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="One More Night.gif">One More Night.gif</a>
+				![[One More Night.gif]]
 			</td>
 		</tr>
 
@@ -113,32 +113,32 @@ The show was produced by [[Gnap! Theater Projects]] at [[Salvage Vanguard Theate
 ## Soundtrack
 The following are links to songs that were frequently used in the *One More Night* score.
 
-* [http://www.youtube.com/watch?v=UEWFc4avub0&list=PL26F7C39412F3E020 "Isa Lei"], by Vishwa Mohan Bhatt and Ry Cooder, from [http://www.allmusic.com/album/a-meeting-by-the-river-mw0000099129 *A Meeting By the River*]
-* [http://youtu.be/YOIdB-GPa24 "Alegria"], by Cirque de Soleil, from [http://www.allmusic.com/album/cirque-du-soleil-alegría-mw0000118575 the album of the same name].
-* [http://youtu.be/eAA3KF-VBac "Starálfur"], by Sigur Rós, from [http://www.allmusic.com/album/%C3gætis-byrjun-mw0000623855 *Ágætis Byrjun*].
-* [http://youtu.be/-_2gW3zwMMQ "Chaiyya Chaiyya"], by Dil Se.
+* ["Isa Lei"](http://www.youtube.com/watch?v=UEWFc4avub0&list=PL26F7C39412F3E020), by Vishwa Mohan Bhatt and Ry Cooder, from [*A Meeting By the River*](http://www.allmusic.com/album/a-meeting-by-the-river-mw0000099129)
+* ["Alegria"](http://youtu.be/YOIdB-GPa24), by Cirque de Soleil, from [the album of the same name](http://www.allmusic.com/album/cirque-du-soleil-alegría-mw0000118575).
+* ["Starálfur"](http://youtu.be/eAA3KF-VBac), by Sigur Rós, from [*Ágætis Byrjun*](http://www.allmusic.com/album/%C3gætis-byrjun-mw0000623855).
+* ["Chaiyya Chaiyya"](http://youtu.be/-_2gW3zwMMQ), by Dil Se.
 ** Performances frequently closed with the cast dancing out into the lobby to this song.
 
 ## Recaps
-* [http://hujhax.livejournal.com/603764.html Recap of the opening-night show. (1/22)]
-* [http://hujhax.livejournal.com/605866.html Recap of the 1/30 show.]
+* [Recap of the opening-night show. (1/22)](http://hujhax.livejournal.com/603764.html)
+* [Recap of the 1/30 show.](http://hujhax.livejournal.com/605866.html)
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282 Photoset] by [[Roy Moore]] of the 1/22/10 show.
-** [http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju Another photoset] by [[Jon Bolden]].
-* [http://www.facebook.com/media/set/?set=a.1168134175412.2022541.1589679282&type=3 Photoset] by [[Roy Moore]] of the 1/23/10 performance.
-** [http://www.facebook.com/hujhax/media_set?set=a.312700062264.181592.588952264&type=3 Another photoset] of the same show by [[Peter Rogers]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/24/10 show.
-* [http://www.facebook.com/media/set/?set=a.1173102059606.2023044.1589679282&type=3 Photoset of the 1/30 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1177677093979.2023536.1589679282&type=3 Photoset of the 2/5 performance] by [[Roy Moore]].
-* [http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3 Photoset of the 2/12 performance] by [[Roy Moore]].
-* 2/13 performance: [http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3 photoset] by [[Roy Moore]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282) by [[Roy Moore]] of the 1/22/10 show.
+** [Another photoset](http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju) by [[Jon Bolden]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1168134175412.2022541.1589679282&type=3) by [[Roy Moore]] of the 1/23/10 performance.
+** [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.312700062264.181592.588952264&type=3) of the same show by [[Peter Rogers]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 1/24/10 show.
+* [Photoset of the 1/30 performance](http://www.facebook.com/media/set/?set=a.1173102059606.2023044.1589679282&type=3) by [[Roy Moore]].
+* [Photoset of the 2/5 performance](http://www.facebook.com/media/set/?set=a.1177677093979.2023536.1589679282&type=3) by [[Roy Moore]].
+* [Photoset of the 2/12 performance](http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3) by [[Roy Moore]].
+* 2/13 performance: [photoset](http://www.facebook.com/media/set/?set=a.1184752070849.2024204.1589679282&type=3) by [[Roy Moore]].
 
 ### Videos
-* 2/13 performance: [http://vimeo.com/10709773 1], [http://vimeo.com/10885057 2], [http://vimeo.com/10996943 3], [http://vimeo.com/10997395 4].
+* 2/13 performance: [1](http://vimeo.com/10709773), [2](http://vimeo.com/10885057), [3](http://vimeo.com/10996943), [4](http://vimeo.com/10997395).
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=89742 The announcement of the premiere] on [[The AIC Forums]].
+* [The announcement of the premiere](http://forum.austinimprov.com/viewtopic.php?p=89742) on [[The AIC Forums]].
 
 [[Category/Shows|One]]

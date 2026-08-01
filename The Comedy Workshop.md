@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Comedy Workshop Logo.jpg">Comedy Workshop Logo.jpg</a>
+				![[Comedy Workshop Logo.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -27,4 +27,4 @@ Club owner Paul Menzel drove to Austin on Fridays and conducted free, informal i
 The club closed down in May 1986.
 
 ## More Information
-* [http://www.austinchronicle.com/arts/2001-01-26/80278/ A history of the club] by [[Angela Davis]], writing for *The Austin Chronicle*.
+* [A history of the club](http://www.austinchronicle.com/arts/2001-01-26/80278/) by [[Angela Davis]], writing for *The Austin Chronicle*.

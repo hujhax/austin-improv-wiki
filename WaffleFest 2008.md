@@ -24,4 +24,4 @@ The ran from 11/20/08 to 11/22/08.
 * Curtis Needs a Ride
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=71875 Some lines from night #1] on [[The Austin Improv Forums]].
+* [Some lines from night #1](http://forum.austinimprov.com/viewtopic.php?p=71875) on [[The Austin Improv Forums]].

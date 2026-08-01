@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kakkerlakken.png">Kakkerlakken.png</a>
+				![[Kakkerlakken.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -91,15 +91,15 @@ We are excited to get another theater run.</blockquote>
 
 ## Media
 ### Videos
-* [http://youtu.be/lsRGBACkrq0 Video of show #1 (3/6/11)] at *[[The Weekender]]*.
-* [http://youtu.be/KNanAuF_j7w Video of show #2 (3/13/11)] at *[[The Weekender]]*.
-* [http://youtu.be/qeovJwMKdt4 Video of show #3 (3/20/11)] at *[[The Weekender]]*.
-* [http://youtu.be/rvLhHCbkvhA Video of show #4 (3/27/11)] at *[[The Weekender]]*.
-* [http://youtu.be/fzvai-TtTP8 Video of show #5 (6/26/11)] at *[[The Weekender]]*.
-* [http://youtu.be/yGLob96Nx80 Video of show #6 (7/10/11)] at *[[The Weekender]]*.
+* [Video of show #1 (3/6/11)](http://youtu.be/lsRGBACkrq0) at *[[The Weekender]]*.
+* [Video of show #2 (3/13/11)](http://youtu.be/KNanAuF_j7w) at *[[The Weekender]]*.
+* [Video of show #3 (3/20/11)](http://youtu.be/qeovJwMKdt4) at *[[The Weekender]]*.
+* [Video of show #4 (3/27/11)](http://youtu.be/rvLhHCbkvhA) at *[[The Weekender]]*.
+* [Video of show #5 (6/26/11)](http://youtu.be/fzvai-TtTP8) at *[[The Weekender]]*.
+* [Video of show #6 (7/10/11)](http://youtu.be/yGLob96Nx80) at *[[The Weekender]]*.
 
 ## More Information
-* [https://www.facebook.com/home.php?sk=group_185063981507521&ap=1 The troupe's facebook group.]
+* [The troupe's facebook group.](https://www.facebook.com/home.php?sk=group_185063981507521&ap=1)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

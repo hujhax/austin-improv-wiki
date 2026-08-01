@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Drew's Improv Gym.jpg">Drew's Improv Gym.jpg</a>
+				![[Drew's Improv Gym.jpg]]
 			</td>
 		</tr>
 
@@ -102,7 +102,7 @@ The jam is open to any improv students or experienced improvisers who want to do
 ## Media
 ### Photos
 ## More Information
-* [https://www.facebook.com/groups/1644412369119896/ The page to join the Facebook group.]
+* [The page to join the Facebook group.](https://www.facebook.com/groups/1644412369119896/)
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
 

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Soy Taco.jpg">Soy Taco.jpg</a>
+				![[Soy Taco.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,12 +86,12 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/112549075 Video] of a show.
-* [http://vimeo.com/116787434 Video] of their 1/11/15 graduation show.
-* [http://vimeo.com/119615091 Video] of their 2/12/15 show in *[[The Threefer]]*.
+* [Video](http://vimeo.com/112549075) of a show.
+* [Video](http://vimeo.com/116787434) of their 1/11/15 graduation show.
+* [Video](http://vimeo.com/119615091) of their 2/12/15 show in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/groups/soytaco/ The troupe's web site.]
+* [The troupe's web site.](http://www.facebook.com/groups/soytaco/)
 
 
 [[Category/Troupes|Category:Troupes]]

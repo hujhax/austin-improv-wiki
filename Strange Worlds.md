@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Strange Worlds Image.jpg">Strange Worlds Image.jpg</a>
+				![[Strange Worlds Image.jpg]]
 			</td>
 		</tr>
 
@@ -196,81 +196,81 @@ Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>I g
 ## Media
 ### Main Run
 * Episode 1 (3/2/13):
-** [http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.504091772987677.1073741827.221927764537414&type=3) by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/64240670 Maxine Maker and the Scintillating Confabulator!]
-*** [http://vimeo.com/64283087 Strange Times: The Body.]
-*** [http://vimeo.com/64216657 The Grey Bishop in "The Ruby and the Tiger".]
+*** [Maxine Maker and the Scintillating Confabulator!](http://vimeo.com/64240670)
+*** [Strange Times: The Body.](http://vimeo.com/64283087)
+*** [The Grey Bishop in "The Ruby and the Tiger".](http://vimeo.com/64216657)
 * Episode 2 (3/9/13):
-** [http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.515181085212079.1073741839.221927764537414&type=3) by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/64279539 The Beacon and the Dancing Skeleton.]
-**** [http://vimeo.com/62740963 (Unedited version of the show.)]
-*** [http://vimeo.com/64307521 Strange Times: The Pendant.]
-*** [http://vimeo.com/64279538 Bellwether Blue Versus the Shadow Asps.]
+*** [The Beacon and the Dancing Skeleton.](http://vimeo.com/64279539)
+**** [(Unedited version of the show.)](http://vimeo.com/62740963)
+*** [Strange Times: The Pendant.](http://vimeo.com/64307521)
+*** [Bellwether Blue Versus the Shadow Asps.](http://vimeo.com/64279538)
 * Episode 3 (3/23/13):
-** [http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.516857461711108.1073741843.221927764537414&type=3) by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/64577633 Jack Ryder and the Temples of Neptune.]
-*** [http://vimeo.com/65341953 Strange Times: The Trident.]
-*** [http://vimeo.com/64498551 The Peregrine and the Web of Youth.]
+*** [Jack Ryder and the Temples of Neptune.](http://vimeo.com/64577633)
+*** [Strange Times: The Trident.](http://vimeo.com/65341953)
+*** [The Peregrine and the Web of Youth.](http://vimeo.com/64498551)
 * Episode 4 (3/30/13):
-** [http://www.smugmug.com/gallery/28941754_bJ4Bsx#!i=2460013495&k=KfRHW5c Photoset] by [[Jon Bolden]].
+** [Photoset](http://www.smugmug.com/gallery/28941754_bJ4Bsx#!i=2460013495&k=KfRHW5c) by [[Jon Bolden]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/64577634 Lily Wilde Versus the Ravenous Cats.]
-*** [http://vimeo.com/66177022 Strange Times: The Tattoo.]
-*** [http://vimeo.com/64478922 Codename: Sleuth and the Case of the Assassin's Sting.]
+*** [Lily Wilde Versus the Ravenous Cats.](http://vimeo.com/64577634)
+*** [Strange Times: The Tattoo.](http://vimeo.com/66177022)
+*** [Codename: Sleuth and the Case of the Assassin's Sting.](http://vimeo.com/64478922)
 * Episode 5 (4/6/13):
-** [http://www.facebook.com/media/set/?set=a.558248124196687.1073741832.100000345135257&type=3 Photoset] by [[Claudio Fox]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.558248124196687.1073741832.100000345135257&type=3) by [[Claudio Fox]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/65959433 The Beacon and the Enchanted Mirror.]
-*** [http://vimeo.com/66134872 Strange Times: The Tunnels.]
-*** [http://vimeo.com/65423075 The Peregrine and the Tempest Equation.]
+*** [The Beacon and the Enchanted Mirror.](http://vimeo.com/65959433)
+*** [Strange Times: The Tunnels.](http://vimeo.com/66134872)
+*** [The Peregrine and the Tempest Equation.](http://vimeo.com/65423075)
 * Episode 6 (4/13/13):
-** [http://www.facebook.com/media/set/?set=a.524634750933379.1073741856.221927764537414&type=1 Photoset] by [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.524634750933379.1073741856.221927764537414&type=1) by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/66225436 Codename: Sleuth and the Case of the Fractured Wing.]
-*** [http://vimeo.com/66271683 Strange Times: The President.]
-*** [http://vimeo.com/66259424 Maxine Maker and the Sumptuous Nanoreciprocator!]
+*** [Codename: Sleuth and the Case of the Fractured Wing.](http://vimeo.com/66225436)
+*** [Strange Times: The President.](http://vimeo.com/66271683)
+*** [Maxine Maker and the Sumptuous Nanoreciprocator!](http://vimeo.com/66259424)
 * Episode 7 (4/20/13):
-** [http://www.facebook.com/media/set/?set=a.528599867203534.1073741860.221927764537414&type=3 Photoset] by [[Steve Rogers]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.528599867203534.1073741860.221927764537414&type=3) by [[Steve Rogers]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/66226023 Lily Wilde and the Orchid of Death.]
-*** [http://vimeo.com/66177068 Strange Times: The Supplies.]
-*** [http://vimeo.com/66271684 The Grey Bishop in "The Queen's Gambit".]
+*** [Lily Wilde and the Orchid of Death.](http://vimeo.com/66226023)
+*** [Strange Times: The Supplies.](http://vimeo.com/66177068)
+*** [The Grey Bishop in "The Queen's Gambit".](http://vimeo.com/66271684)
 * Episode 8 (4/27/13):
-** [http://www.facebook.com/media/set/?set=a.10151361640900793.1073741841.666390792&type=3 Photoset] by [[Dave Alley]].
+** [Photoset](http://www.facebook.com/media/set/?set=a.10151361640900793.1073741841.666390792&type=3) by [[Dave Alley]].
 ** Videos by [[Ryan Austin]] (with editing by [[Peter Rogers]]):
-*** [http://vimeo.com/66294097 Worlds Collide, Chapter 1: The Twilight of Neptune.]
-*** [http://vimeo.com/66134873 Strange Times: The Invasion.]
-*** [http://vimeo.com/66306441 Worlds Collide, Chapter 2: The Tomb of Heartbreak.]
-* [http://www.facebook.com/media/set/?set=a.4671818636191.1073741831.1315383518&type=3 Photoset] of the cast party by [[Michael Yew]].
-* [http://www.facebook.com/media/set/?set=a.10151697102622265.1073741825.588952264&type=1 A photoset of video title cards] by [[Peter Rogers]] (from photos by [[Jon Bolden]]).
+*** [Worlds Collide, Chapter 1: The Twilight of Neptune.](http://vimeo.com/66294097)
+*** [Strange Times: The Invasion.](http://vimeo.com/66134873)
+*** [Worlds Collide, Chapter 2: The Tomb of Heartbreak.](http://vimeo.com/66306441)
+* [Photoset](http://www.facebook.com/media/set/?set=a.4671818636191.1073741831.1315383518&type=3) of the cast party by [[Michael Yew]].
+* [A photoset of video title cards](http://www.facebook.com/media/set/?set=a.10151697102622265.1073741825.588952264&type=1) by [[Peter Rogers]] (from photos by [[Jon Bolden]]).
 
 ### Post-Run
 * "Shaken Not Stirred" Party (5/1/13):
-** [http://vimeo.com/66324632 Video of Codename: Sleuth and the Case of the Diamonds in the Rough.]
+** [Video of Codename: Sleuth and the Case of the Diamonds in the Rough.](http://vimeo.com/66324632)
 * "NerdProv" (5/3/13):
-** [http://vimeo.com/67667122 Video of the Grey Bishop in "The Sicilian Defense".]
+** [Video of the Grey Bishop in "The Sicilian Defense".](http://vimeo.com/67667122)
 * The New York Unscripted Festival (5/31/13 and 6/2/13):
-** [http://vimeo.com/67689241 Video of The Beacon and the Soul of the Wizard.]
-** [http://vimeo.com/67697488 Video of Codename: Sleuth and the Case of the Laughing Cascade.]
-** [http://vimeo.com/67702032 Video of Bellwether Blue versus the Vermin Young.]
-** [http://vimeo.com/67706793 Video of the Grey Bishop in "The Exchange Variation".]
-** [http://www.facebook.com/michael.yew/media_set?set=a.4838455402006.1073741836.1315383518&type=3 Casual photos] by [[Michael Yew]].
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3 Photoset] by [[Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
-** [http://youtu.be/k07bu91F9H4 Video] by [[Warren Henderson]] of the same show.
-* [http://www.facebook.com/media/set/?set=a.715099225220263.1073741984.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/11/14 show at [[The 2014 Improvised Play Festival]].
+** [Video of The Beacon and the Soul of the Wizard.](http://vimeo.com/67689241)
+** [Video of Codename: Sleuth and the Case of the Laughing Cascade.](http://vimeo.com/67697488)
+** [Video of Bellwether Blue versus the Vermin Young.](http://vimeo.com/67702032)
+** [Video of the Grey Bishop in "The Exchange Variation".](http://vimeo.com/67706793)
+** [Casual photos](http://www.facebook.com/michael.yew/media_set?set=a.4838455402006.1073741836.1315383518&type=3) by [[Michael Yew]].
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3) by [[Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
+** [Video](http://youtu.be/k07bu91F9H4) by [[Warren Henderson]] of the same show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.715099225220263.1073741984.221927764537414&type=3) by [[Steve Rogers]] of the 4/11/14 show at [[The 2014 Improvised Play Festival]].
 * The Alaska State Improv Festival (4/25/14)
-**[https://vimeo.com/93582286 Video of The Beacon and the Gravity of a Prism]
+**[Video of The Beacon and the Gravity of a Prism](https://vimeo.com/93582286)
 
 ### Other
-* [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/strange-worlds-set/strange-worlds-set.jpg?disposition=download Photo] of [[Kaci Beeler]]'s set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/strange-worlds-set/strange-worlds-set.jpg?disposition=download) of [[Kaci Beeler]]'s set design.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=4&t=4898&p=41024 The 2007 'format manifesto' for an improvised pulp show] by [[Jordan T. Maxwell]].
-* [http://www.hideouttheatre.com/ryan-austin-vs-the-perils-of-pulp "Ryan Austin Vs. The Perils of Pulp"]: a post from [[Ryan Austin]] about the rehearsal process.
-* [http://yesandrew.com/2013/04/29/monday-morning-news/ Review of the closing-night show] by [[Andrew Buck]].
+* [The 2007 'format manifesto' for an improvised pulp show](http://forum.austinimprov.com/viewtopic.php?f=4&t=4898&p=41024) by [[Jordan T. Maxwell]].
+* ["Ryan Austin Vs. The Perils of Pulp"](http://www.hideouttheatre.com/ryan-austin-vs-the-perils-of-pulp): a post from [[Ryan Austin]] about the rehearsal process.
+* [Review of the closing-night show](http://yesandrew.com/2013/04/29/monday-morning-news/) by [[Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

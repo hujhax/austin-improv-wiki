@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Subject Object.jpg">Subject Object.jpg</a>
+				![[Subject Object.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 The duo premiered at the [[ColdTowne Theater]] *[[Shakedown]]* on 7/8/11.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=12091 Announcement] of the duo's premiere on [[The Austin Improv Forums]].
+* [Announcement](http://forum.austinimprov.com/viewtopic.php?t=12091) of the duo's premiere on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

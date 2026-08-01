@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Kevlar.jpg">Kevlar.jpg</a>
+				![[Kevlar.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,14 +85,14 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/90777157 Video] by [[Kevin Miller]] of their 3/30/14 "Kevlar: We're Shot!" performance at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/90777157) by [[Kevin Miller]] of their 3/30/14 "Kevlar: We're Shot!" performance at [[ColdTowne Theater]].
 
 ### Photos
-* [http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3 Photoset] by [[Warren Henderson]] that includes their 11/15/13 performance in the *[[2x4]]*.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3) by [[Warren Henderson]] that includes their 11/15/13 performance in the *[[2x4]]*.
 
 
 ## More Information
-* [http://www.facebook.com/kevlarimprov The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/kevlarimprov)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

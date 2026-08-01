@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Lindsey McGowen Pic.jpg">Lindsey McGowen Pic.jpg</a>
+				![[Lindsey McGowen Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -80,7 +80,7 @@ Lindsey studied Stage Management and Lighting Design at Case Western Reserve Uni
 On arriving in Austin, she immediately jumped into technical improv with both feet and has been instrumental to several mainstage shows at both [[The Hideout Theatre]] and [[The Institution Theater]] ever since. She also acts as Lead Audio Engineer on *Tales from the Black Vault*, the podcast version of [[The Black Vault]], and as Music Director for [[The Jukebox Musical Project]].
 
 
-Outside of improv, Lindsey is a professional Project Manager and is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [http://vimeo.com/100491197 Synesthesia] and as a guest musician with [[Indigo Shift]].
+Outside of improv, Lindsey is a professional Project Manager and is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [Synesthesia](http://vimeo.com/100491197) and as a guest musician with [[Indigo Shift]].
 
 ## Troupes
 * *[[History Under the Influence]]* (technical director)
@@ -124,7 +124,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[The Kindness of Strangers]]* (technical director, light/sound tech)
 
 ## More Information
-* [http://wikipella.org/wiki/Lindsey_McGowen Lindsey's wikipella page.]
-* Interviews by [[Andrew Buck]]: [http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/]
+* [Lindsey's wikipella page.](http://wikipella.org/wiki/Lindsey_McGowen)
+* Interviews by [[Andrew Buck]]: [http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/](http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/)
 
 [[Category/Techs|McGowen]]

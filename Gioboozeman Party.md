@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Gioboozeman Party.jpg">Gioboozeman Party.jpg</a>
+				![[Gioboozeman Party.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -81,7 +81,7 @@ They won the March-Madness-themed duo *[[Cagematch]]* in the spring of 2013.
 
 ## Media
 ### Videos
-* [http://vimeo.com/21379436 Teaser for the duo.]
+* [Teaser for the duo.](http://vimeo.com/21379436)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

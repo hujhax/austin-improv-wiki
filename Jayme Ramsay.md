@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Jayme Ramsay.jpg">Jayme Ramsay.jpg</a>
+				![[Jayme Ramsay.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -47,6 +47,6 @@ Since then, she's also studied at [[ColdTowne Theater]] and [[The Institution Th
 * *[[The Tribunal]]*
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?t=11956 Jayme's introduction thread] on [[The AIC Forums]].
+* [Jayme's introduction thread](http://forum.austinimprov.com/viewtopic.php?t=11956) on [[The AIC Forums]].
 
 [[Category/Performers|Ramsay]]

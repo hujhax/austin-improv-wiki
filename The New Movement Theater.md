@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="TNM logo.jpg">TNM logo.jpg</a>
+				![[TNM logo.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -53,8 +53,8 @@ In the Spring of 2018, Trew and Nelson transferred ownership of the Austin theat
 
 ## Media
 ### Videos
-* [http://vimeo.com/35453849 The TNM TourCo playing in Oklahoma City in October 2011.]
+* [The TNM TourCo playing in Oklahoma City in October 2011.](http://vimeo.com/35453849)
 
 ## More Information
-* [http://yesandrew.com/2014/03/28/austin-improv-theaters-as-modern-american-humorists-day-5-the-new-movement/ Post about the theater] by [[Andrew Buck]].
-* [https://austinot.com/the-new-movement-shows/ Article about TNM ATX] by Kelli McDonald.
+* [Post about the theater](http://yesandrew.com/2014/03/28/austin-improv-theaters-as-modern-american-humorists-day-5-the-new-movement/) by [[Andrew Buck]].
+* [Article about TNM ATX](https://austinot.com/the-new-movement-shows/) by Kelli McDonald.

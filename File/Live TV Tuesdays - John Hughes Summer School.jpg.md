@@ -1,7 +1,7 @@
 ## Summary
 The 7/19/11 performance of *[[Live TV Tuesdays -  John Hughes Summer School]]*.
 
-Photo by [[Michael Yew]], from [http://www.facebook.com/media/set/?set=a.1860642198537.91518.1315383518&type=3 this photoset].
+Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/media/set/?set=a.1860642198537.91518.1315383518&type=3).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

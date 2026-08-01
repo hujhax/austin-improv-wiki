@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Megan Sherrod Pic.jpg">Megan Sherrod Pic.jpg</a>
+				![[Megan Sherrod Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -60,7 +60,7 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * 2015 - The Improvised Play Festival - Austin, TX: *[[Nothing and Everything]]*
 
 ## More Information
-* [http://www.megansherrod.com Megan's web page], which includes more information about her performance activities.
+* [Megan's web page](http://www.megansherrod.com), which includes more information about her performance activities.
 
 [[Category/Performers|Sherrod]]
 [[Category/Active|Category:Active]]

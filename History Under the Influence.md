@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="History Under the Influence Pic.jpg">History Under the Influence Pic.jpg</a>
+				![[History Under the Influence Pic.jpg]]
 			</td>
 		</tr>
 
@@ -145,22 +145,22 @@ The Austin-based core cast of *History Under the Influence* is listed below, but
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=1 Photoset] by [[Chad Wellington]] that includes their 5/29/14 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
-* [http://www.facebook.com/media/set/?set=a.891482047581979.1073742147.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 1/25/15 performance in *[[The Weekender]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204338867854557.1073741953.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 6/20/15 show in [[The 46-Hour Improv Marathon]].
-* [http://www.facebook.com/media/set/?set=a.1031442486919267.1073742238.221927764537414&type=3 Photoset] by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=1) by [[Chad Wellington]] that includes their 5/29/14 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.891482047581979.1073742147.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/25/15 performance in *[[The Weekender]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204338867854557.1073741953.1315383518&type=3) by [[Michael Yew]] that includes their 6/20/15 show in [[The 46-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1031442486919267.1073742238.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Videos
-* [http://vimeo.com/89691491 The original 3/20/14 *Free Fringe* show.] 
-* [http://vimeo.com/93695385 Video] by [[Peter Rogers]] of the 5/1/14 show.
-* [http://vimeo.com/94626212 The 5/8/14 show.] 
-* [http://vimeo.com/95560857 The 5/15/14 show.]
-* [http://vimeo.com/111584860 Video] by [[Peter Rogers]] of the 11/6/14 show.
-* [http://vimeo.com/134444206 Video] of their 6/11/15 performance in [[The 46-Hour Improv Marathon]].
+* [The original 3/20/14 *Free Fringe* show.](http://vimeo.com/89691491) 
+* [Video](http://vimeo.com/93695385) by [[Peter Rogers]] of the 5/1/14 show.
+* [The 5/8/14 show.](http://vimeo.com/94626212) 
+* [The 5/15/14 show.](http://vimeo.com/95560857)
+* [Video](http://vimeo.com/111584860) by [[Peter Rogers]] of the 11/6/14 show.
+* [Video](http://vimeo.com/134444206) of their 6/11/15 performance in [[The 46-Hour Improv Marathon]].
 
 ## More Information
-* The [http://www.youtube.com/user/DrunkHistory youtube series] and [http://www.cc.com/shows/drunk-history Comedy Central show] that inspired the format.
+* The [youtube series](http://www.youtube.com/user/DrunkHistory) and [Comedy Central show](http://www.cc.com/shows/drunk-history) that inspired the format.
 
 [[Category/Shows|Category:Shows]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

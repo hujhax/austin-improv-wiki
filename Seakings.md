@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 The troupe premiered at [[ColdTowne Theater]] on 6/17/10.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=10800 The troupe's announcement] of their 6/17/10 debut on [[The Austin Improv Forums]].
+* [The troupe's announcement](http://forum.austinimprov.com/viewtopic.php?f=2&t=10800) of their 6/17/10 debut on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

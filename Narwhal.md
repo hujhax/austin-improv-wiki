@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Narwhal.jpg">Narwhal.jpg</a>
+				![[Narwhal.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -89,13 +89,13 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/21101180 Performance video.]
+* [Performance video.](http://vimeo.com/21101180)
 
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/19/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[The Threefer]]*.
 
 ## More Information
-* [https://www.facebook.com/NarwhalImprov The troupe's facebook page.]
+* [The troupe's facebook page.](https://www.facebook.com/NarwhalImprov)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

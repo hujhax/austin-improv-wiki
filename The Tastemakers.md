@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Tastemakers.jpg">The Tastemakers.jpg</a>
+				![[The Tastemakers.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,10 +83,10 @@ Their press blurb for [[The 2014 Out of Bounds Comedy Festival]]:<blockquote><p>
 
 ## Media
 ### Videos
-* [http://vimeo.com/128444005 Video] of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/128444005) of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.701276873227144.1073741879.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 1/31/14 show at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.701276873227144.1073741879.100000345135257&type=3) by [[Claudio Fox]] that includes their 1/31/14 show at [[The Institution Theater]].
 
 [[Category/Troupes|Tastemakers]]
 [[Category/Active|Tastemakers]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Secret Senate.jpg">Secret Senate.jpg</a>
+				![[Secret Senate.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -90,14 +90,14 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/17767225 Video of their 12/9/10 show]  at *[[The Threefer]]*.
+* [Video of their 12/9/10 show](http://vimeo.com/17767225)  at *[[The Threefer]]*.
 
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.10150120821962265.308816.588952264&type=3 Photoset] by [[Peter Rogers]] of their 12/9/10 performance in *[[The Threefer]]*.
-* [http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/12/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120821962265.308816.588952264&type=3) by [[Peter Rogers]] of their 12/9/10 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/12/11 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/pages/Secret-Senate-Improv/114779638558764 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Secret-Senate-Improv/114779638558764)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

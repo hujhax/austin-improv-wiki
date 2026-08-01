@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,7 +88,7 @@ From founder [[Tami Nelson]]: <blockquote>The concept here is that the majority 
 They played one match against [[You, Me, and Greg]] on 3/31/06.  They lost.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=3526 Team announcement] on [[The Austin Improv Forums]].
+* [Team announcement](http://forum.austinimprov.com/viewtopic.php?p=3526) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Only One Performance|Category:Only One Performance]]

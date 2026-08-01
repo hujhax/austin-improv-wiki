@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Masterpiece.png">The Masterpiece.png</a>
+				![[The Masterpiece.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,8 +87,8 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/41329920 Video of their 4/26/12 show.]
-* [http://youtu.be/Wc8uIYKI-2E Video] of their 9/8/12 show at [[The Institution Theater]].
+* [Video of their 4/26/12 show.](http://vimeo.com/41329920)
+* [Video](http://youtu.be/Wc8uIYKI-2E) of their 9/8/12 show at [[The Institution Theater]].
 
 [[Category/Troupes|Masterpiece]]
 [[Category/Duos|Masterpiece]]

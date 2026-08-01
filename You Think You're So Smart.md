@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="You Think You're So Smart Poster.jpg">You Think You're So Smart Poster.jpg</a>
+				![[You Think You're So Smart Poster.jpg]]
 			</td>
 		</tr>
 
@@ -103,7 +103,7 @@
 ## Format
 In every performance, the panelists discuss facts and trivia in that week's category, provided by the show's host, [[Justin Davis]].
 
-Recurring features include the "Ranter's Corner", where a guest speaker delivers a rant related to the night's topic, "Spin the Wiki", where Justin uses [http://en.wikipedia.org/wiki/Special:Random Wikipedia's "Random article" link] to supply a random topic, and "Would You Rather", where the panel discusses a choice between two alternatives which both have pros and cons.
+Recurring features include the "Ranter's Corner", where a guest speaker delivers a rant related to the night's topic, "Spin the Wiki", where Justin uses [Wikipedia's "Random article" link](http://en.wikipedia.org/wiki/Special:Random) to supply a random topic, and "Would You Rather", where the panel discusses a choice between two alternatives which both have pros and cons.
 
 ## History
 ### Initial Run
@@ -137,7 +137,7 @@ The show was revived for shows on 7/25/14 and 8/22/14 at [[The Hideout Theatre]]
 
 ## Media
 ### Videos
-* [http://vimeo.com/75653611/ The 9/27/13 show: "Not-So-Great Expectations".]
+* [The 9/27/13 show: "Not-So-Great Expectations".](http://vimeo.com/75653611/)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Institution Theater|Category:The Institution Theater]]

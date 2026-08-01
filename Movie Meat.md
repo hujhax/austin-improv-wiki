@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Movie Meat.jpg">Movie Meat.jpg</a>
+				![[Movie Meat.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -88,12 +88,12 @@ Eventually, the duo formed the nucleus for the *[[Movie Riot]]* cast.
 
 ## Media
 ### Videos
-* [http://vimeo.com/59685315 Video] by [[Kyle Sweeney]] of their debut show, "Glasses for Grandma" (uploaded 2/14/13).
-* [http://vimeo.com/60194421 Video] by [[Kyle Sweeney]] of their 2/20/13 quarterfinal in *[[The Cagematch]]*, "Hark: The Revenge".
-* [http://vimeo.com/60843797 Video] by  [[Kyle Sweeney]] of their 2/27/13 semifinal in *[[The Cagematch]]*, "The Brown Spot".
+* [Video](http://vimeo.com/59685315) by [[Kyle Sweeney]] of their debut show, "Glasses for Grandma" (uploaded 2/14/13).
+* [Video](http://vimeo.com/60194421) by [[Kyle Sweeney]] of their 2/20/13 quarterfinal in *[[The Cagematch]]*, "Hark: The Revenge".
+* [Video](http://vimeo.com/60843797) by  [[Kyle Sweeney]] of their 2/27/13 semifinal in *[[The Cagematch]]*, "The Brown Spot".
 
 ## More Information
-* [http://www.facebook.com/moviemeat The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/moviemeat)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

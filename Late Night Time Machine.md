@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Late Night Time Machine Poster.jpg">Late Night Time Machine Poster.jpg</a>
+				![[Late Night Time Machine Poster.jpg]]
 			</td>
 		</tr>
 
@@ -264,17 +264,17 @@ The cast includes:
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.10202688469755636.1073741908.1315383518&type=3 Photoset] by [[Michael Yew]] of a show.
-* [http://www.facebook.com/media/set/?set=a.798823103514541.1073742075.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 9/5/14 show.
-* [http://www.facebook.com/media/set/?set=a.935942726469244.1073742175.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 4/3/15 performance.
-* [http://www.facebook.com/media/set/?set=a.801760193233827.1073741857.473177099425473&type=3 Photoset] by [[Chad Wellington]] of the 4/17/15 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204019233383895.1073741943.1315383518&type=3 Photoset] by [[Michael Yew]] of the 4/24/15 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204055076359947.1073741945.1315383518&type=3 Photoset] by [[Michael Yew]] of the 5/1/15 performance.
-* [http://www.facebook.com/media/set/?set=a.962670963796420.1073742198.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 5/8/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202688469755636.1073741908.1315383518&type=3) by [[Michael Yew]] of a show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.798823103514541.1073742075.221927764537414&type=3) by [[Steve Rogers]] of the 9/5/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.935942726469244.1073742175.221927764537414&type=3) by [[Steve Rogers]] of the 4/3/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.801760193233827.1073741857.473177099425473&type=3) by [[Chad Wellington]] of the 4/17/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204019233383895.1073741943.1315383518&type=3) by [[Michael Yew]] of the 4/24/15 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204055076359947.1073741945.1315383518&type=3) by [[Michael Yew]] of the 5/1/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.962670963796420.1073742198.221927764537414&type=3) by [[Steve Rogers]] of the 5/8/15 performance.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?f=3&t=17464 The season-one casting announcement] on the [[Austin Improv Forums]].
-* [http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090 The season-two show announcement], on the [[Institution Theater]] facebook page.
-* [http://www.facebook.com/LateNightTimeMachine The LNTM Facebook page.]
+* [The season-one casting announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17464) on the [[Austin Improv Forums]].
+* [The season-two show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090), on the [[Institution Theater]] facebook page.
+* [The LNTM Facebook page.](http://www.facebook.com/LateNightTimeMachine)
 
 [[Category/Shows|Category:Shows]]

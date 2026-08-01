@@ -44,7 +44,7 @@
 * Sunday 12am: [[Puppet Improv Project]]
 * Sunday 1am: [[Your Terrific Neighbors]] present "Parlour Games"
 * Sunday 2am: [[Look Cookie]] presents "Sleepover"
-* Sunday 3am: [http://improvencyclopedia.org/games/The_Bat.html "The Bat"] with [[ColdTowne (troupe)|ColdTowne]]
+* Sunday 3am: ["The Bat"](http://improvencyclopedia.org/games/The_Bat.html) with [[ColdTowne (troupe)|ColdTowne]]
 * Sunday 4am: [[Midnight Society]] presents "Late Night Talk Show"
 * Sunday 5am: [[The Starter Kit]]
 ** They presented "Professor Dobson's Time Travel Adventure", which was in some ways a progenitor of [[The Professor]].
@@ -54,14 +54,14 @@
 
 ## Media
 ### Photos
-* [http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3 Photoset] by [[Michael Yew]] that includes Electric Bill , Confidence Men, The Nightmare Improv Project, Girls, Girls, Girls, Dubbed Indemnity, Your Dad's Friends, Improv For Evil, Dusk, Austin Secrets, The Andersons, 1001 Monologues for Teens, Maestro, and the Puppet Improv Project.
-* [http://www.facebook.com/hujhax/media_set?set=a.449232092264.220344.588952264&type=3 Photoset] by [[Peter Rogers]] of hour 5 ("Electric Bill").
-* [http://www.facebook.com/hujhax/media_set?set=a.449237302264.220350.588952264&type=3 Photoset] by [[Peter Rogers]] of hour 23 ([[Flying Theater Machine]]).
-* [http://www.facebook.com/hujhax/media_set?set=a.449240577264.220352.588952264&type=3 Photoset] by [[Peter Rogers]] of hour 24 (Student Show).
-* [http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3 Photoset] by [[Peter Rogers]] of hour 25 ([[Improv for Evil]]).
-* [http://www.facebook.com/hujhax/media_set?set=a.449255672264.220367.588952264&type=3 Photoset] by [[Peter Rogers]] of hour 41 ("The Final Countdown").
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes Electric Bill , Confidence Men, The Nightmare Improv Project, Girls, Girls, Girls, Dubbed Indemnity, Your Dad's Friends, Improv For Evil, Dusk, Austin Secrets, The Andersons, 1001 Monologues for Teens, Maestro, and the Puppet Improv Project.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449232092264.220344.588952264&type=3) by [[Peter Rogers]] of hour 5 ("Electric Bill").
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449237302264.220350.588952264&type=3) by [[Peter Rogers]] of hour 23 ([[Flying Theater Machine]]).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449240577264.220352.588952264&type=3) by [[Peter Rogers]] of hour 24 (Student Show).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Peter Rogers]] of hour 25 ([[Improv for Evil]]).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449255672264.220367.588952264&type=3) by [[Peter Rogers]] of hour 41 ("The Final Countdown").
 
 ## More Information
-* [http://www.hideouttheatre.com/the-complete-2010-41-hour-marathon-schedule The marathon schedule announcement.]
-** [http://www.hideouttheatre.com/the-marathon-madness-is-about-to-begin A promotional post about the marathon.]
-* [[Kevin Miller]] posts [http://happywaffle.wordpress.com/2010/06/06/hour-41-of-the-41-hour-improv-marathon/ a story about hour 41 of the marathon].
+* [The marathon schedule announcement.](http://www.hideouttheatre.com/the-complete-2010-41-hour-marathon-schedule)
+** [A promotional post about the marathon.](http://www.hideouttheatre.com/the-marathon-madness-is-about-to-begin)
+* [[Kevin Miller]] posts [a story about hour 41 of the marathon](http://happywaffle.wordpress.com/2010/06/06/hour-41-of-the-41-hour-improv-marathon/).

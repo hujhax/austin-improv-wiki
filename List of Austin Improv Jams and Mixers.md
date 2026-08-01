@@ -10,7 +10,7 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 ### Monthly
 * The first Sunday of the month at 6pm, [[The Institution Theater]] hosts *[[The Rubber Room]]*, featuring an open jam and faculty show.
 * The first Tuesday of the month at 8:30pm, [[ColdTowne Theater]] hosts a student/teacher jam. A mixer (often with complimentary beers) precedes it at 8pm. 
-* The third Sunday of the month, there is an [https://www.facebook.com/Austin-Ladies-Improv-Jam-668545106670439/ Austin Ladies Improv Jam], typically 6pm at [[The Institution Theater]].
+* The third Sunday of the month, there is an [Austin Ladies Improv Jam](https://www.facebook.com/Austin-Ladies-Improv-Jam-668545106670439/), typically 6pm at [[The Institution Theater]].
 
 ## Inactive Jams and Mixers
 * From 2005 to 2009, [[The Hideout Theatre]] held *[[The Tuesday Night Jam]]*, a weekly free improv jam.

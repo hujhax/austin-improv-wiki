@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Aftermath.jpg">The Aftermath.jpg</a>
+				![[The Aftermath.jpg]]
 			</td>
 		</tr>
 
@@ -174,14 +174,14 @@ From the show's web page:<blockquote><p>The world has ended. Something came and 
 
 ## Media
 ### Videos
-* [http://vimeo.com/111300281 Video] by [[Peter Rogers]] of the 11/1/14 show.
+* [Video](http://vimeo.com/111300281) by [[Peter Rogers]] of the 11/1/14 show.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.821236394606545.1073742087.221927764537414&type=3 Photoset] by [[Steve Rogers]] of the 10/11/14 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.821236394606545.1073742087.221927764537414&type=3) by [[Steve Rogers]] of the 10/11/14 performance.
 
 ## More Information
-* [http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014 The show announcement] on the Hideout's web site.
-* [http://www.hideouttheatre.com/shows/theaftermath The show's web page.]
+* [The show announcement](http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014) on the Hideout's web site.
+* [The show's web page.](http://www.hideouttheatre.com/shows/theaftermath)
 
 [[Category/Shows|Aftermath]]
 [[Category/The Hideout Theatre|Aftermath]]

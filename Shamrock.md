@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Shamrock.jpg">Shamrock.jpg</a>
+				![[Shamrock.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -83,7 +83,7 @@ Shamrock is a game focused comedic montage that opens with a three minute patter
 Scott and Ryan were the only two members of [[The Seven Eight Sevens]] for the entirety of its life. When that project ended, they decided to start a duo.
 
 ## More Information
-* The duo's [https://www.facebook.com/shamrockimprov Facebook page].
+* The duo's [Facebook page](https://www.facebook.com/shamrockimprov).
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

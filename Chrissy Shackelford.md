@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Chrissy Shackelford Pic.jpg">Chrissy Shackelford Pic.jpg</a>
+				![[Chrissy Shackelford Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -38,6 +38,6 @@ Before coming to improv, Chrissy Shackelford attended the University of Texas at
 * *[[Indy Movies]]*
 
 ## More Information
-* [http://gybpodcast.libsyn.com/chrissy-shackelford-ep-19-got-your-back Interview] on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/chrissy-shackelford-ep-19-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Shackelford]]

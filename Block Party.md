@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Block Party.jpg">Block Party.jpg</a>
+				![[Block Party.jpg]]
 			</td>
 		</tr>
 
@@ -47,7 +47,7 @@
 The show runs from 9:30pm to 11:30pm on Thursday nights.
 
 ## More Information
-* [http://www.newmovementtheater.com/details/?mc_id=10367 The show's web page.]
+* [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=10367)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

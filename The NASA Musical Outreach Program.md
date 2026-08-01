@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The NASA Musical Outreach Program.jpg">The NASA Musical Outreach Program.jpg</a>
+				![[The NASA Musical Outreach Program.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/21631970 Video of their 2011 performance at Nerd Nite.]
+* [Video of their 2011 performance at Nerd Nite.](http://vimeo.com/21631970)
 
 [[Category/Troupes|NASA Musical Outreach Program]]
 [[Category/Auto-Generated Troupe Pages|NASA Musical Outreach Program]]

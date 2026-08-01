@@ -8,8 +8,8 @@ He has shot over 380 troupes and improv shows since then in all of the improv th
 Many troupes and festival use Steve's photos with his permission for their web sites and other related activities. Please feel free to contact him for more information.
 
 ## More Information
-* [http://www.steve-rogers-photography.com/ The Steve Rogers Photography web site.]
-* [http://www.steve-rogers-photography.com/ImprovPerformances Steve's photos of improv performances.]
-* [http://www.steve-rogers-photography.com/ImprovPerformances Steve's photos of Festival shows such as the 4* hour Marathon, Out of Bounds, Austin Sketch Fest, LAFF, WaffleFest and the Improvised Play Festival]
-* [https://www.facebook.com/SteveRogersPhotography/photos_stream?tab=photos_albums Steve's photo albums of improv performances with tagged performers and comments]
+* [The Steve Rogers Photography web site.](http://www.steve-rogers-photography.com/)
+* [Steve's photos of improv performances.](http://www.steve-rogers-photography.com/ImprovPerformances)
+* [Steve's photos of Festival shows such as the 4* hour Marathon, Out of Bounds, Austin Sketch Fest, LAFF, WaffleFest and the Improvised Play Festival](http://www.steve-rogers-photography.com/ImprovPerformances)
+* [Steve's photo albums of improv performances with tagged performers and comments](https://www.facebook.com/SteveRogersPhotography/photos_stream?tab=photos_albums)
 [[Category/Photographers|Rogers]]

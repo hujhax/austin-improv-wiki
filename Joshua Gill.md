@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Joshua Gill Pic.jpg">Joshua Gill Pic.jpg</a>
+				![[Joshua Gill Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -36,6 +36,6 @@ In late 2008, Josh moved in with [[Arthur Simone]], co-founder of [[ColdTowne Th
 * *[[Manson -  The Musical]]*  (Tex Watson)
 
 ## More Information
-* [http://yesandrew.com/2013/08/11/the-sunday-interview-josh-gill/ Interview] by [[Andrew Buck]].
+* [Interview](http://yesandrew.com/2013/08/11/the-sunday-interview-josh-gill/) by [[Andrew Buck]].
 
 [[Category/Performers|Gill]]

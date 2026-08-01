@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Scout.jpg">Scout.jpg</a>
+				![[Scout.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,20 +85,20 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/35515689 Video] by [[Kyle Sweeney]] of their performance in the second *[[Thursday Night Social Club]]* (uploaded 1/23/12).
-* [http://vimeo.com/35520324 Video] by [[Kyle Sweeney]] of their performance in the third *[[Thursday Night Social Club]]* (uploaded 1/23/12).
-* [http://vimeo.com/36701542 Video] by [[Kyle Sweeney]] of their performance in the fourth *[[Thursday Night Social Club]]* (uploaded 2/13/12).
-* [http://vimeo.com/37190908 Video] by [[Kyle Sweeney]] of their performance in the sixth *[[Thursday Night Social Club]]* (uploaded 2/21/12).
-* [http://vimeo.com/37084282 Video] by [[Kyle Sweeney]] of their performance in the seventh *[[Thursday Night Social Club]]* (uploaded 2/19/12).
-* [http://vimeo.com/37385871 Video] by [[Kyle Sweeney]] of their performance in the eighth *[[Thursday Night Social Club]]* (uploaded 2/24/12).
-* [http://vimeo.com/49200779 Video] by [[Kyle Sweeney]] of their 9/8/12 show.
+* [Video](http://vimeo.com/35515689) by [[Kyle Sweeney]] of their performance in the second *[[Thursday Night Social Club]]* (uploaded 1/23/12).
+* [Video](http://vimeo.com/35520324) by [[Kyle Sweeney]] of their performance in the third *[[Thursday Night Social Club]]* (uploaded 1/23/12).
+* [Video](http://vimeo.com/36701542) by [[Kyle Sweeney]] of their performance in the fourth *[[Thursday Night Social Club]]* (uploaded 2/13/12).
+* [Video](http://vimeo.com/37190908) by [[Kyle Sweeney]] of their performance in the sixth *[[Thursday Night Social Club]]* (uploaded 2/21/12).
+* [Video](http://vimeo.com/37084282) by [[Kyle Sweeney]] of their performance in the seventh *[[Thursday Night Social Club]]* (uploaded 2/19/12).
+* [Video](http://vimeo.com/37385871) by [[Kyle Sweeney]] of their performance in the eighth *[[Thursday Night Social Club]]* (uploaded 2/24/12).
+* [Video](http://vimeo.com/49200779) by [[Kyle Sweeney]] of their 9/8/12 show.
 
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3 Photoset] by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3 Photoset] by [[Peter Rogers]] that includes their 9/19/11 performance in *[[The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Peter Rogers]] that includes their 9/19/11 performance in *[[The Monday Night Mash]]*.
 
 ## More Information
-* [http://www.facebook.com/#!/ScoutImprov The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/#!/ScoutImprov)
 
 
 [[Category/Troupes|Category:Troupes]]

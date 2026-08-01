@@ -1,5 +1,5 @@
 ## Summary
-[[First Round Draft]] logo, taken from [http://firstrounddraft.austinimprov.com/ the troupe web site].
+[[First Round Draft]] logo, taken from [the troupe web site](http://firstrounddraft.austinimprov.com/).
 
 Logo designed by [[Bob Apthorpe]].
 

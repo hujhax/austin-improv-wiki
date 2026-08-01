@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Disco Box.jpg">Disco Box.jpg</a>
+				![[Disco Box.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -77,10 +77,10 @@
 **Disco Box** is an improv troupe that frequently plays at [[The New Movement]].
 
 ## Media
-* [http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 5/10/12 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3) by [[Michael Yew]] that includes their 5/10/12 performance in *[[The Threefer]]*.
 
 ## More Information
-* [http://www.facebook.com/pages/Disco-Box/200949976641619 The troupe's facebook page.]
+* [The troupe's facebook page.](http://www.facebook.com/pages/Disco-Box/200949976641619)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

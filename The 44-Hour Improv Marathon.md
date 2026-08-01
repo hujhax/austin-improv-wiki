@@ -45,7 +45,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Saturday 1am (hour 9): [[In Our Prime]]: grounded, dramatic improv, in this case based around an extended family attending a wedding.
 * Saturday 2am (hour 10): *[[Past Lives]]*: following a soul through thematically-linked vignettes across history.
 * Saturday 3am (hour 11): [[Cheap Date]]
-* Saturday 4am (hour 12): "[http://improvencyclopedia.org/games/The_Bat.html The Bat]" with [[ColdTowne (troupe)|ColdTowne]]: an improv show in the dark.
+* Saturday 4am (hour 12): "[The Bat](http://improvencyclopedia.org/games/The_Bat.html)" with [[ColdTowne (troupe)|ColdTowne]]: an improv show in the dark.
 * Saturday 5am (hour 13): *[[Epic Telescope]]* (AKA "Half-Life in reverse"): a story presented first in one minute, then three minutes, then five, then fifteen, then thirty.
 * Saturday 6am (hour 14): Performance with veterans of [[The Hideout Improv Marathon]]
 ** This featured guests [[Andy Crouch]], [[Emma Holder]], [[Halyn Lee Erickson]], [[Jason Vines]], [[John Ratliff]], [[Jon Bolden]], [[Kaci Beeler]], [[Karen Jane DeWitt]], [[Roy Janik]], and [[Valerie Ward]].
@@ -60,7 +60,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 ** This was a narrative based around "Disney Place", a knockoff version of [[Wikipedia - Disney World|Disney World]].
 * Saturday 11am (hour 19): *[[Charles Dickens Unleashed]]*: improv in the style of one of [[Wikipedia - Charles Dickens|Charles Dickens]]' early novels.
 ** This was the story of William Barachnal, a young aristocrat who was banished from his family home and, after a checkered youth, became a respected blacksmith in Derbyshire.
-* Saturday 12pm (hour 20): [[Arkay]] presents [http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html JTS Brown].
+* Saturday 12pm (hour 20): [[Arkay]] presents [JTS Brown](http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html).
 * Saturday 1pm (hour 21): [[What's the Story, Steve]]: kid-friendly improv, featuring a dog.
 ** This featured guests [[Amy Carpenter]], [[Arian Brumby]], [[Clint Harris]], [[Drew Wesely]], [[Frank Netscher]], [[Kristin Henn]], and [[Luke Wallens]].
 ** In this story, Steve was a duke in a fantasy setting who was not invited to the kingdom's most eagerly-awaited birthday party.
@@ -98,7 +98,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 ** This was a long-form narrative set in New Orleans.
 ** This show featured student guests [[Ammu Ganesan]], [[David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Lindsay Hejl]], and [[Patrick Creamer]].
 * Sunday 8am (hour 40): *[[Care Bear Stare]]* -- The Care Bears came to bring badly animated joy to your lives.
-** In this show, [http://en.wikipedia.org/wiki/Care_Bears Care Bears] based around not-exactly-G-rated emotions solved problems for the core-cast members in a longform narrative.
+** In this show, [Care Bears](http://en.wikipedia.org/wiki/Care_Bears) based around not-exactly-G-rated emotions solved problems for the core-cast members in a longform narrative.
 ** The Care Bears:
 *** [[Roy Janik]] -- Desperately Cheerful Bear
 *** [[Josh Gill]] -- Stoner Bear
@@ -118,82 +118,82 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 Also, in between shows, [[Cat Drago]] performed, for the livestream, short interviews with people involved in the production.
 
 ## Jay Funky
-British improvisor Jay Funky was originally scheduled to play in the 44-Hour Marathon.  Due to [http://www.scifiimprov.co.uk/1/post/2013/06/p2-needs-a-p2.html visa troubles], neither Funky nor his improv partner Chris Mead were able to come to the United States.
+British improvisor Jay Funky was originally scheduled to play in the 44-Hour Marathon.  Due to [visa troubles](http://www.scifiimprov.co.uk/1/post/2013/06/p2-needs-a-p2.html), neither Funky nor his improv partner Chris Mead were able to come to the United States.
 
 [[Michael Joplin]] stepped in as Jonathan's replacement in the core cast.
 
-The Saturday 2am slot was originally scheduled for [http://www.scifiimprov.co.uk/ Project2], the science-fiction troupe that both Funky and Chris Mead are a part of.
+The Saturday 2am slot was originally scheduled for [Project2](http://www.scifiimprov.co.uk/), the science-fiction troupe that both Funky and Chris Mead are a part of.
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.554452047951649.1073741879.221927764537414&type=3 Selected marathon photos] by [[Steve Rogers]].
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103272537904680.1073741831.7909117&type=3 Marathon photos] by [[Heidi Rogers]].
-* [http://www.facebook.com/media/set/?set=a.587814621240037.1073741843.100000345135257&type=3 A photoset] by [[Claudio Fox]] of hours 1 and 2.
-* [http://www.facebook.com/media/set/?set=a.557128874350633.1073741886.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 3.
-* [http://www.facebook.com/media/set/?set=a.4944587095232.1073741839.1315383518&type=1 A photoset] by [[Michael Yew]] of hours 4-5, 38, and 42.
-* [http://www.facebook.com/media/set/?set=a.557178957678958.1073741887.221927764537414&type=1 A photoset] by [[Steve Rogers]] of hour 6.
-* [http://www.facebook.com/media/set/?set=a.558100470920140.1073741888.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 7.
-* [http://www.facebook.com/media/set/?set=a.588085074546325.1073741844.100000345135257&type=3 A photoset] by [[Claudio Fox]] of hours 13-17 and 23-24.
-* [http://www.facebook.com/kellylynnjames/media_set?set=a.10151548373211630.1073741830.708236629&type=1 A photoset] by Kelly Lynn James of hour 20.
-* [http://www.facebook.com/kellylynnjames/media_set?set=a.10151548348941630.1073741828.708236629&type=1 A photoset] by Kelly Lynn James of hour 21.
-* [http://www.facebook.com/kellylynnjames/media_set?set=a.10151548363736630.1073741829.708236629&type=1 A photoset] by Kelly Lynn James of hour 22.
-* [http://www.facebook.com/media/set/?set=a.10151445124280793.1073741853.666390792&type=1 A photoset] by [[Dave Alley]] of hours 25-29 and 43-44.
-* [http://www.facebook.com/media/set/?set=a.555620097834844.1073741882.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hours 30 and 31.
-** [http://www.facebook.com/media/set/?set=a.555618604501660.1073741881.221927764537414&type=3 A separate photoset] of the same hours which is all solo shots of [[Cat Drago]].
-** [http://www.facebook.com/media/set/?set=a.555615611168626.1073741880.221927764537414&type=3 A separate photoset] of the same hours which is devoted solely to the show's opening samurai battle.
-* [http://www.facebook.com/media/set/?set=a.556512987745555.1073741885.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 32.
-* [http://www.facebook.com/media/set/?set=a.556099991120188.1073741884.221927764537414&type=3 A photoset] by [[Steve Rogers]] of hour 33.
+* [Selected marathon photos](http://www.facebook.com/media/set/?set=a.554452047951649.1073741879.221927764537414&type=3) by [[Steve Rogers]].
+* [Marathon photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103272537904680.1073741831.7909117&type=3) by [[Heidi Rogers]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.587814621240037.1073741843.100000345135257&type=3) by [[Claudio Fox]] of hours 1 and 2.
+* [A photoset](http://www.facebook.com/media/set/?set=a.557128874350633.1073741886.221927764537414&type=3) by [[Steve Rogers]] of hour 3.
+* [A photoset](http://www.facebook.com/media/set/?set=a.4944587095232.1073741839.1315383518&type=1) by [[Michael Yew]] of hours 4-5, 38, and 42.
+* [A photoset](http://www.facebook.com/media/set/?set=a.557178957678958.1073741887.221927764537414&type=1) by [[Steve Rogers]] of hour 6.
+* [A photoset](http://www.facebook.com/media/set/?set=a.558100470920140.1073741888.221927764537414&type=3) by [[Steve Rogers]] of hour 7.
+* [A photoset](http://www.facebook.com/media/set/?set=a.588085074546325.1073741844.100000345135257&type=3) by [[Claudio Fox]] of hours 13-17 and 23-24.
+* [A photoset](http://www.facebook.com/kellylynnjames/media_set?set=a.10151548373211630.1073741830.708236629&type=1) by Kelly Lynn James of hour 20.
+* [A photoset](http://www.facebook.com/kellylynnjames/media_set?set=a.10151548348941630.1073741828.708236629&type=1) by Kelly Lynn James of hour 21.
+* [A photoset](http://www.facebook.com/kellylynnjames/media_set?set=a.10151548363736630.1073741829.708236629&type=1) by Kelly Lynn James of hour 22.
+* [A photoset](http://www.facebook.com/media/set/?set=a.10151445124280793.1073741853.666390792&type=1) by [[Dave Alley]] of hours 25-29 and 43-44.
+* [A photoset](http://www.facebook.com/media/set/?set=a.555620097834844.1073741882.221927764537414&type=3) by [[Steve Rogers]] of hours 30 and 31.
+** [A separate photoset](http://www.facebook.com/media/set/?set=a.555618604501660.1073741881.221927764537414&type=3) of the same hours which is all solo shots of [[Cat Drago]].
+** [A separate photoset](http://www.facebook.com/media/set/?set=a.555615611168626.1073741880.221927764537414&type=3) of the same hours which is devoted solely to the show's opening samurai battle.
+* [A photoset](http://www.facebook.com/media/set/?set=a.556512987745555.1073741885.221927764537414&type=3) by [[Steve Rogers]] of hour 32.
+* [A photoset](http://www.facebook.com/media/set/?set=a.556099991120188.1073741884.221927764537414&type=3) by [[Steve Rogers]] of hour 33.
 
 ### Videos
-* [http://vimeo.com/78386973 Hour 1: Teen Improv]
-** To get the password for this video, see [http://www.facebook.com/hujhax/posts/10152048144632265 this post] or contact [[Peter Rogers]].
-* [http://vimeo.com/77387486 Hour 2: "Flowy Donut"]
-* [http://vimeo.com/76770049 Hour 3: *Start Trekkin*']
-* [http://vimeo.com/69060732 Hour 6: Parallelogramophonograph presents "The Tab"]
-* [http://vimeo.com/69014376 Hour 7: Franz & Dave present "Pine Falls"]
-* [http://vimeo.com/69401082 Hour 8: The New Game Project]
-* [http://vimeo.com/74497522 Hour 9: In Our Prime]
-* [http://vimeo.com/75798036 Hour 10: Past Lives]
-* [http://vimeo.com/77204222 Hour 11: Cheap Date]
-* [http://vimeo.com/76581987 Hour 12: The Bat]
-* [http://vimeo.com/77276938 Hour 13: Epic Telescope]
-* [http://vimeo.com/75513299 Hour 14: The Veterans' Show]
-* [http://vimeo.com/78231733 Hour 15: Student Show #1]
-* [http://vimeo.com/74482653 Hour 16: Waterpark]
-* [http://vimeo.com/73282840 Hour 17: *Dubbed Indemnity*]
-* [http://vimeo.com/75469789 Hour 18: Local Genius Society]
-* [http://vimeo.com/69028237 Hour 19: *Charles Dickens Unleashed*]
-* [http://vimeo.com/76498906 Hour 20: Array]
-* [http://vimeo.com/76170079 Hour 21: What's the Story, Steve?]
-* [http://vimeo.com/76938927 Hour 22: "The Eye of the Storm"]
-* [http://vimeo.com/69001828 Hour 23: Girls Girls Girls]
+* [Hour 1: Teen Improv](http://vimeo.com/78386973)
+** To get the password for this video, see [this post](http://www.facebook.com/hujhax/posts/10152048144632265) or contact [[Peter Rogers]].
+* [Hour 2: "Flowy Donut"](http://vimeo.com/77387486)
+* [Hour 3: *Start Trekkin*'](http://vimeo.com/76770049)
+* [Hour 6: Parallelogramophonograph presents "The Tab"](http://vimeo.com/69060732)
+* [Hour 7: Franz & Dave present "Pine Falls"](http://vimeo.com/69014376)
+* [Hour 8: The New Game Project](http://vimeo.com/69401082)
+* [Hour 9: In Our Prime](http://vimeo.com/74497522)
+* [Hour 10: Past Lives](http://vimeo.com/75798036)
+* [Hour 11: Cheap Date](http://vimeo.com/77204222)
+* [Hour 12: The Bat](http://vimeo.com/76581987)
+* [Hour 13: Epic Telescope](http://vimeo.com/77276938)
+* [Hour 14: The Veterans' Show](http://vimeo.com/75513299)
+* [Hour 15: Student Show #1](http://vimeo.com/78231733)
+* [Hour 16: Waterpark](http://vimeo.com/74482653)
+* [Hour 17: *Dubbed Indemnity*](http://vimeo.com/73282840)
+* [Hour 18: Local Genius Society](http://vimeo.com/75469789)
+* [Hour 19: *Charles Dickens Unleashed*](http://vimeo.com/69028237)
+* [Hour 20: Array](http://vimeo.com/76498906)
+* [Hour 21: What's the Story, Steve?](http://vimeo.com/76170079)
+* [Hour 22: "The Eye of the Storm"](http://vimeo.com/76938927)
+* [Hour 23: Girls Girls Girls](http://vimeo.com/69001828)
 ** Unfortunately, we were only able to get the first 15 minutes or so of this show.
-* [http://vimeo.com/70460663 Hour 24: *Pick Your Own Path*]
-* [http://vimeo.com/69104964 Hour 25: ESL with The Amazon and the Milksop]
-* [http://vimeo.com/76454272 Hour 27: The Knuckleball Now]
-* [http://vimeo.com/69454380 Hour 29: Confidence Men]
+* [Hour 24: *Pick Your Own Path*](http://vimeo.com/70460663)
+* [Hour 25: ESL with The Amazon and the Milksop](http://vimeo.com/69104964)
+* [Hour 27: The Knuckleball Now](http://vimeo.com/76454272)
+* [Hour 29: Confidence Men](http://vimeo.com/69454380)
 * Hour 32: The Black Vault
-** [http://vimeo.com/69325354 Video by Victoria Hawthorne]
-** [http://vimeo.com/70318263 Video by Victoria Hawthorne and Peter Rogers]
-* [http://vimeo.com/73323916 Hour 33: Puppet Improv Project]
-* [http://vimeo.com/69221817 Hour 34: *Tech Nightmare*]
-* [http://vimeo.com/77117598 Hour 35: Big Beautiful Warlock]
-* [http://vimeo.com/77031919 Hour 36: *Pulp Friction*]
-* [http://vimeo.com/78187121 Hour 37: "Human Clay"]
-** [http://vimeo.com/78401240 An interview] that [[Cat Drago]] did with [[Kayla Lane Freeman]] after hour 37.
-* [http://vimeo.com/70615208 Hour 38: "The Queen Is Not Amused"]
-* [http://vimeo.com/70503492 Hour 40: "Care Bear Stare"]
-* [http://vimeo.com/69145400 Hour 41: The Movie Format with the Institution Theater]
-* [http://vimeo.com/69196616 Hour 42: *Fakespeare*]
-* [http://vimeo.com/75559278 Hour 43: Bad Boys]
-* [http://vimeo.com/70541270 Hour 44a: "The Final Countdown"]
-* [http://vimeo.com/69068028 Hour 44b: The Marathon-closing Q&A]
+** [Video by Victoria Hawthorne](http://vimeo.com/69325354)
+** [Video by Victoria Hawthorne and Peter Rogers](http://vimeo.com/70318263)
+* [Hour 33: Puppet Improv Project](http://vimeo.com/73323916)
+* [Hour 34: *Tech Nightmare*](http://vimeo.com/69221817)
+* [Hour 35: Big Beautiful Warlock](http://vimeo.com/77117598)
+* [Hour 36: *Pulp Friction*](http://vimeo.com/77031919)
+* [Hour 37: "Human Clay"](http://vimeo.com/78187121)
+** [An interview](http://vimeo.com/78401240) that [[Cat Drago]] did with [[Kayla Lane Freeman]] after hour 37.
+* [Hour 38: "The Queen Is Not Amused"](http://vimeo.com/70615208)
+* [Hour 40: "Care Bear Stare"](http://vimeo.com/70503492)
+* [Hour 41: The Movie Format with the Institution Theater](http://vimeo.com/69145400)
+* [Hour 42: *Fakespeare*](http://vimeo.com/69196616)
+* [Hour 43: Bad Boys](http://vimeo.com/75559278)
+* [Hour 44a: "The Final Countdown"](http://vimeo.com/70541270)
+* [Hour 44b: The Marathon-closing Q&A](http://vimeo.com/69068028)
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/improvmarathon The show's web page.]
-* [http://www.facebook.com/hideouttheatre/posts/10151469906483510 Cast announcement] from [[The Hideout Theatre]].
-* [http://docs.google.com/forms/d/1l0bLg0JDek9x8sEsCrTuKoim2xf8rFuF2gF5ToNHsDw/viewform The form for show suggestions.]
-* [http://www.hideouttheatre.com/improv-for-kids/donate The show's sponsorship page.]
-* [http://forum.austinimprov.com/viewtopic.php?f=2&t=15375&p=131708#p131708 The call for marathon volunteers] on [[The Austin Improv Forums]].
-** [http://goo.gl/uCnNK The volunteer schedule.]
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2362424 Interview] with core cast members [[Christopher 'Ceej' Allen]], [[Kayla Lane Freeman]], and [[Peter Rogers]] on *[[The Theft Forum]]*.
+* [The show's web page.](http://www.hideouttheatre.com/shows/improvmarathon)
+* [Cast announcement](http://www.facebook.com/hideouttheatre/posts/10151469906483510) from [[The Hideout Theatre]].
+* [The form for show suggestions.](http://docs.google.com/forms/d/1l0bLg0JDek9x8sEsCrTuKoim2xf8rFuF2gF5ToNHsDw/viewform)
+* [The show's sponsorship page.](http://www.hideouttheatre.com/improv-for-kids/donate)
+* [The call for marathon volunteers](http://forum.austinimprov.com/viewtopic.php?f=2&t=15375&p=131708#p131708) on [[The Austin Improv Forums]].
+** [The volunteer schedule.](http://goo.gl/uCnNK)
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2362424) with core cast members [[Christopher 'Ceej' Allen]], [[Kayla Lane Freeman]], and [[Peter Rogers]] on *[[The Theft Forum]]*.

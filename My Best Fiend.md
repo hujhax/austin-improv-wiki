@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="My best fiend.jpg">My best fiend.jpg</a>
+				![[My best fiend.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -86,28 +86,28 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 
 ## Media
 ### Videos
-* [http://vimeo.com/42396160 5/17/12 performance] in *[[The Free Fringe]]*.
-*"Wunderfisch" [http://www.youtube.com/watch?v=vUtpOyVSfRM Video]
-*"Der Stille Winterwald" [http://www.youtube.com/watch?v=uPkwf693jaE Video]
-*"Der Wolf in den Bergen" [http://vimeo.com/42396160 Video]
-*"Die gewesene Sardine": [http://vimeo.com/76356598 9/27/13 performance] at [[The 2013 Out of Bounds Comedy Festival]].
-*"Die Mörderbestie" [http://youtu.be/fzWXDO5noGQ Video]
-*"Der grosse Tag draussen" [http://youtu.be/pbCgf2yAKqo Video]
-*"Schnaps-Eis" [http://vimeo.com/148277246 Video]
-*"Verhau den Hund" at the Alaska State Improv Festival 2015 [https://vimeo.com/148962201]
-*"Der Schokoladen-Hase" at the Alaska State Improv Festival 2015 [https://vimeo.com/152378117]
+* [5/17/12 performance](http://vimeo.com/42396160) in *[[The Free Fringe]]*.
+*"Wunderfisch" [Video](http://www.youtube.com/watch?v=vUtpOyVSfRM)
+*"Der Stille Winterwald" [Video](http://www.youtube.com/watch?v=uPkwf693jaE)
+*"Der Wolf in den Bergen" [Video](http://vimeo.com/42396160)
+*"Die gewesene Sardine": [9/27/13 performance](http://vimeo.com/76356598) at [[The 2013 Out of Bounds Comedy Festival]].
+*"Die Mörderbestie" [Video](http://youtu.be/fzWXDO5noGQ)
+*"Der grosse Tag draussen" [Video](http://youtu.be/pbCgf2yAKqo)
+*"Schnaps-Eis" [Video](http://vimeo.com/148277246)
+*"Verhau den Hund" at the Alaska State Improv Festival 2015 [https://vimeo.com/148962201](https://vimeo.com/148962201)
+*"Der Schokoladen-Hase" at the Alaska State Improv Festival 2015 [https://vimeo.com/152378117](https://vimeo.com/152378117)
 
 ### Photos
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 1/12/13 show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 9/27/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3 Photoset] by [[Michael Yew]] which includes their 10/26/13 performance in *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
-* [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3 Photoset] by [[Heidi Rogers]] that includes their 12/5/13 *[[Free Fringe]]* show.
-* [http://www.facebook.com/chriscurl/media_set?set=a.10152576209432107.1073741846.549002106&type=3 Photoset] by [[Chris Curl]] of their 8/31/14 performance at [[The 2014 Out of Bounds Comedy Festival]].
-** [http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3 Photoset] by [[Heidi Rogers]] of the same show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3 Photoset] by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Heidi Rogers]] that includes their 1/12/13 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3) by [[Michael Yew]] that includes their 9/27/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3) by [[Michael Yew]] which includes their 10/26/13 performance in *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Heidi Rogers]] that includes their 12/5/13 *[[Free Fringe]]* show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152576209432107.1073741846.549002106&type=3) by [[Chris Curl]] of their 8/31/14 performance at [[The 2014 Out of Bounds Comedy Festival]].
+** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Heidi Rogers]] of the same show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-*[http://www.facebook.com/klausandwerner My Best Fiend facebook page]
+*[My Best Fiend facebook page](http://www.facebook.com/klausandwerner)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

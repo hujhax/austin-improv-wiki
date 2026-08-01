@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Apocalypse (Show).jpg">Apocalypse (Show).jpg</a>
+				![[Apocalypse (Show).jpg]]
 			</td>
 		</tr>
 
@@ -148,17 +148,17 @@ In addition, [[Sarah Marie Curry]] and [[Courtney Hopkin]] appeared as guest cas
 
 ## Media
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1214800102031.2027201.1589679282&type=3 Photoset]  by [[Roy Moore]] of the 3/26/10 performance. ("Gray Goo")
-* [http://www.facebook.com/hypersuit/media_set?set=a.390777798656.156386.675498656&type=3 Photoset]  by [[Courtney Hopkin]] of the 3/26/10 and 3/27/10 performances.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1220926575189.2027811.1589679282&type=3 Photoset]  by [[Roy Moore]] of the 4/3/10 performance. ("Giant Comet")
-* [http://www.facebook.com/andreas.fabis/media_set?set=a.395509120616.163768.607595616&type=3 Photoset]  by [[Andreas Fabis]] of the 4/10/10 performance.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1232321100045.2028901.1589679282&type=3 Photoset]  by [[Roy Moore]] of the 4/16/10 performance. ("Killer Plants")
-* [http://www.flickr.com/photos/9022071@N03/sets/72157623902695136/ Photoset]  by [[Brandon Salinas]] of the 4/17/10 performance. ("Invisible Zombies")
-* [http://www.facebook.com/roy.moore/media_set?set=a.1234168306224.2029453.1589679282&type=3 Photoset]  by [[Roy Moore]] of the 4/17/10 performance.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1214800102031.2027201.1589679282&type=3)  by [[Roy Moore]] of the 3/26/10 performance. ("Gray Goo")
+* [Photoset](http://www.facebook.com/hypersuit/media_set?set=a.390777798656.156386.675498656&type=3)  by [[Courtney Hopkin]] of the 3/26/10 and 3/27/10 performances.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1220926575189.2027811.1589679282&type=3)  by [[Roy Moore]] of the 4/3/10 performance. ("Giant Comet")
+* [Photoset](http://www.facebook.com/andreas.fabis/media_set?set=a.395509120616.163768.607595616&type=3)  by [[Andreas Fabis]] of the 4/10/10 performance.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1232321100045.2028901.1589679282&type=3)  by [[Roy Moore]] of the 4/16/10 performance. ("Killer Plants")
+* [Photoset](http://www.flickr.com/photos/9022071@N03/sets/72157623902695136/)  by [[Brandon Salinas]] of the 4/17/10 performance. ("Invisible Zombies")
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1234168306224.2029453.1589679282&type=3)  by [[Roy Moore]] of the 4/17/10 performance.
 
 ### Publicity
-* [http://vimeo.com/10397429 Trailer for the show.]
-* [http://picasaweb.google.com/106700457719436610200/ApocalypseFilmShoot Photos from the trailer shoot.]
+* [Trailer for the show.](http://vimeo.com/10397429)
+* [Photos from the trailer shoot.](http://picasaweb.google.com/106700457719436610200/ApocalypseFilmShoot)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Salvage Vanguard Theater|Category:Salvage Vanguard Theater]]

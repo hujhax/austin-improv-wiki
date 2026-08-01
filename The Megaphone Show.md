@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Megaphone Show.jpg">The Megaphone Show.jpg</a>
+				![[The Megaphone Show.jpg]]
 			</td>
 		</tr>
 
@@ -93,7 +93,7 @@
 	</table>
 </div>
 
-**The Megaphone Show** is a weekly [http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny Armando] that features local celebrities as monologists.
+**The Megaphone Show** is a weekly [Armando](http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny) that features local celebrities as monologists.
 
 ## Summary
 This was the flagship show of [[The New Movement]] theater.
@@ -105,7 +105,7 @@ The show's premiere was the very first New Movement production that was open to 
 Previously, it ran on Wednesdays, then every Saturday at 10:30 pm.
 
 ## More Information
-* [http://www.newmovementtheater.com/the-megaphone-show The show's web page.]
+* [The show's web page.](http://www.newmovementtheater.com/the-megaphone-show)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

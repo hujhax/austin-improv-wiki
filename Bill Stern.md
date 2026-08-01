@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="Bill Stern Pic.jpg">Bill Stern Pic.jpg</a>
+				![[Bill Stern Pic.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -40,6 +40,6 @@ I became a member of Well Hung Jury by April of that year.</p>  </blockquote>
 * [[Well Hung Jury]]
 
 ## More Information
-* [http://gybpodcast.libsyn.com/bill-stern-ep-37-got-your-back Interview] on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/bill-stern-ep-37-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Stern]]

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Baby Kick Baby.jpg">Baby Kick Baby.jpg</a>
+				![[Baby Kick Baby.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -94,7 +94,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 ## Media
 ### Photos
-* [http://www.facebook.com/hujhax/media_set?set=a.104471242264.104199.588952264&type=3 Photoset] by [[Peter Rogers]] of their 4/16/09 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104471242264.104199.588952264&type=3) by [[Peter Rogers]] of their 4/16/09 performance in *[[The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

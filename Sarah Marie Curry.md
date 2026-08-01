@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="ShowcaseTIT.png">ShowcaseTIT.png</a>
+				![[ShowcaseTIT.png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -95,7 +95,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>With reg
 
 
 ## More Information
-* [http://www.sarahmariecurry.com] *[[Sarah Marie Curry]]*.
+* [http://www.sarahmariecurry.com](http://www.sarahmariecurry.com) *[[Sarah Marie Curry]]*.
 
 [[Category/Performers|Curry]]
 [[Category/Teachers|Curry]]

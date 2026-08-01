@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Grey Matters.jpg">Grey Matters.jpg</a>
+				![[Grey Matters.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -78,11 +78,11 @@
 
 ## Media
 ### Videos
-* [http://vimeo.com/43371871 Video] by [[Jo Chauvin]] of their 5/14/12 show at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/43371871) by [[Jo Chauvin]] of their 5/14/12 show at [[ColdTowne Theater]].
 
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1684724329843.2079936.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 5/22/11 show at [[Hyde Park Theater]].
-* [http://www.facebook.com/roy.moore/media_set?set=a.1828023072222.2086501.1589679282&type=3 Photoset] by [[Roy Moore]] that includes their 7/30/11 show at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1684724329843.2079936.1589679282&type=3) by [[Roy Moore]] that includes their 5/22/11 show at [[Hyde Park Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1828023072222.2086501.1589679282&type=3) by [[Roy Moore]] that includes their 7/30/11 show at [[The Institution Theater]].
 
 
 [[Category/Troupes|Category:Troupes]]

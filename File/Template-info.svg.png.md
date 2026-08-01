@@ -1,1 +1,1 @@
-Used for template documentation; taken from [http://www.mediawiki.org/wiki/File:Template-info.svg here].
+Used for template documentation; taken from [here](http://www.mediawiki.org/wiki/File:Template-info.svg).

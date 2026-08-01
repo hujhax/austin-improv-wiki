@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				!<a class="internal-link" href="David Lampe.jpg">David Lampe.jpg</a>
+				![[David Lampe.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -49,4 +49,4 @@
 * ''[[Next Week on Game of Thrones]]'
 
 ## More Information
-* [http://directory.libsyn.com/episode/index/show/thetheftforum/id/2246910 Interview] with Lampe on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2246910) with Lampe on *[[The Theft Forum]]*.

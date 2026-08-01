@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Teenage Wasteland.jpg">Teenage Wasteland.jpg</a>
+				![[Teenage Wasteland.jpg]]
 			</td>
 		</tr>
 
@@ -160,7 +160,7 @@ Performers dressed each night as various high-school stereotypes.  Lighting was 
 From the show announcement:<blockquote>"Inspired by teen comedies like *Can't Hardly Wait* and *Dazed and Confused*, *Teenage Wasteland* follows one group of students through the events of the 'Big Party' where secrets are revealed, roles are reversed, revenge schemes are hatched, and loves are confessed."</blockquote>
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

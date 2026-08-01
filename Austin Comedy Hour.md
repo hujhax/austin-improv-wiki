@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Austin Comedy Hour.jpg">Austin Comedy Hour.jpg</a>
+				![[Austin Comedy Hour.jpg]]
 			</td>
 		</tr>
 
@@ -53,7 +53,7 @@
 The show runs from 9:00pm-10:30pm, the third Sunday of every month, at [[The Spider House]] ballroom.
 
 ## More Information
-* [http://www.newmovementtheater.com/details/?mc_id=13001 The show's web page.]
+* [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13001)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="MmmmK.jpg">MmmmK.jpg</a>
+				![[MmmmK.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -82,10 +82,10 @@
 Their "P.S." format showed two characters living unique lives, yet were bonded to each other by communicating via the written word. The show explored the outside relationships of those characters as well as their connection to each other.
 
 ## Media
-* Performance at the 2011 Improvaganza Festival: [http://www.facebook.com/media/set/?set=a.325258794217486.73391.151475938262440&type=3 photos], [http://vimeo.com/31338477 video].
+* Performance at the 2011 Improvaganza Festival: [photos](http://www.facebook.com/media/set/?set=a.325258794217486.73391.151475938262440&type=3), [video](http://vimeo.com/31338477).
 
 ## More Information
-* [http://www.facebook.com/mmmmkimprov The duo's facebook page.]
+* [The duo's facebook page.](http://www.facebook.com/mmmmkimprov)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

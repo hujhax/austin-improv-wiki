@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Better Half.jpg">The Better Half.jpg</a>
+				![[The Better Half.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -91,16 +91,16 @@ The Better Half perfected the spank circle, and Regina can never remember what C
 
 ## Media
 ### Videos
-* [http://vimeo.com/40801627 Video of their 4/19/12 show] at the *[[Free Fringe]]*.
-* [http://vimeo.com/41238572 Video] by [[Jo Chauvin]] of their "Boating" show at [[ColdTowne Theater]].
-* [http://vimeo.com/78600483 Video] of their 11/2/13 "Bar Mitzvah Funeral" show (uploaded 4/29/12). 
-* [http://vimeo.com/89816499 Video] of their "Berlin Wall Prom" show (uploaded 3/22/14). 
-* [http://vimeo.com/124743555 Video] of their 2014 "Comic Book Hospital" show.
+* [Video of their 4/19/12 show](http://vimeo.com/40801627) at the *[[Free Fringe]]*.
+* [Video](http://vimeo.com/41238572) by [[Jo Chauvin]] of their "Boating" show at [[ColdTowne Theater]].
+* [Video](http://vimeo.com/78600483) of their 11/2/13 "Bar Mitzvah Funeral" show (uploaded 4/29/12). 
+* [Video](http://vimeo.com/89816499) of their "Berlin Wall Prom" show (uploaded 3/22/14). 
+* [Video](http://vimeo.com/124743555) of their 2014 "Comic Book Hospital" show.
 
 ### Photoset
-* [http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 1/26/12 performance.
-* [http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3 A photoset] by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
-* [http://www.facebook.com/michael.yew/media_set?set=a.10200805008470281.1073741865.1315383518&type=3 Photoset] by [[Michael Yew]] that includes their 11/8/13 performance in *[[The Triple Scoop]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 1/26/12 performance.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200805008470281.1073741865.1315383518&type=3) by [[Michael Yew]] that includes their 11/8/13 performance in *[[The Triple Scoop]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Better Half]]

@@ -35,4 +35,4 @@ It included an all-star *[[Maestro]]*.
 
 ## Media
 ### Other
-* [http://vimeo.com/43003327 Video of the box-office line.]
+* [Video of the box-office line.](http://vimeo.com/43003327)

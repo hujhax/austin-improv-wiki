@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="G.O.O.F.S..png">G.O.O.F.S..png</a>
+				![[G.O.O.F.S..png]]
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [http://vimeo.com/83437984 Video] by [[Melissa Patterson]] of their 1/2/14 performance in *[[The Threefer]]*.
+* [Video](http://vimeo.com/83437984) by [[Melissa Patterson]] of their 1/2/14 performance in *[[The Threefer]]*.
 
 ### Photos
-* [http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/GOOFS/ Photoset] by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/GOOFS/) by [[Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

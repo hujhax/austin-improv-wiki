@@ -25,7 +25,7 @@
 * Friday, 9pm (Hour 5): [[The Knuckleball Now]]
 * Friday, 10pm (Hour 6): [[Parallelogramophonograph]]
 * Friday, 11pm (Hour 7): [[Franz & Dave]] present "Pine Falls"
-** This is their improv take on *[http://en.wikipedia.org/wiki/Twin_Peaks Twin Peaks]*
+** This is their improv take on *[Twin Peaks](http://en.wikipedia.org/wiki/Twin_Peaks)*
 * Saturday, 12am (Hour 8): [[Bad Boys]] 
 * Saturday, 1am (Hour 9): *[[Tech Nightmare]]* 
 * Saturday, 2am (Hour 10): "Orphans, Orphans, Orphans"
@@ -77,4 +77,4 @@
 ** "The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep."
 
 ## More Information
-* [http://www.hideouttheatre.com/shows/improvmarathon The marathon's web page.]
+* [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)

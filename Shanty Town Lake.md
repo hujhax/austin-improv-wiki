@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Shanty Town Lake.jpg">Shanty Town Lake.jpg</a>
+				![[Shanty Town Lake.jpg]]
 			</td>
 		</tr>
 
@@ -104,8 +104,8 @@
 The show ran Fridays at 8pm from 4/2/10 to 7/31/10.
 
 ## More Information
-* [http://forum.austinimprov.com/viewtopic.php?p=91913 Show announcement]
-* [http://austinist.com/2010/04/02/preview_shanty_town_lake_at_coldtow.php Description of the show in *The Austinist*.]
-* [http://www.facebook.com/events/106394436050454/ Facebook event for the run.]
+* [Show announcement](http://forum.austinimprov.com/viewtopic.php?p=91913)
+* [Description of the show in *The Austinist*.](http://austinist.com/2010/04/02/preview_shanty_town_lake_at_coldtow.php)
+* [Facebook event for the run.](http://www.facebook.com/events/106394436050454/)
 
 [[Category/Shows|Category:Shows]]

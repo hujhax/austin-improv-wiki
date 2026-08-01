@@ -1,7 +1,7 @@
 ## Summary
 Publicity photo of [[The Hilarions]] from 1984.
 
-Photo taken from [http://www.austinchronicle.com/arts/2001-01-26/80278/ this article].
+Photo taken from [this article](http://www.austinchronicle.com/arts/2001-01-26/80278/).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

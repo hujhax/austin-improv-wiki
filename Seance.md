@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="Seance.jpg">Seance.jpg</a>
+				![[Seance.jpg]]
 			</td>
 		</tr>
 
@@ -129,18 +129,18 @@ The main run was from 10/26/12 to 11/17/12, on Fridays and Saturdays.
 
 ## Media
 ### Videos
-* [http://vimeo.com/53759220 Video] by [[Paul Normandin]] of the 11/16/12 show.
+* [Video](http://vimeo.com/53759220) by [[Paul Normandin]] of the 11/16/12 show.
 
 ### Photos
-* [http://www.facebook.com/roy.moore/media_set?set=a.1407870328666.2054722.1589679282&type=3 Photoset] by [[Roy Moore]] of the 10/29/10 show.
-* [http://www.facebook.com/roy.moore/media_set?set=a.1462195166753.2059154.1589679282&type=3 Photoset] by [[Roy Moore]] of the 12/17/10 show.
-* [http://www.facebook.com/media/set/?set=a.215468491855171.51455.118587218209966&type=3 Photoset] by [[Roy Moore]] of the 10/30/11 show.
-* [http://www.facebook.com/media/set/?set=a.252339914834695.58497.118587218209966&type=3 Photoset] by [[Roy Moore]] that includes their 1/7/12 performance in *[[The Saturday Night Special]]*.
-* [http://www.facebook.com/media/set/?set=a.402660706469281.90392.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 10/26/12 performance.
-* [http://www.facebook.com/media/set/?set=a.409877385747613.91910.118587218209966&type=3 Photoset] by [[Roy Moore]] of their 11/9/12 performance.
-* [http://www.facebook.com/michael.yew/media_set?set=a.3845319054218.137446.1315383518&type=3 Photoset] by [[Michael Yew]] of their 11/16/12 performance.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1407870328666.2054722.1589679282&type=3) by [[Roy Moore]] of the 10/29/10 show.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1462195166753.2059154.1589679282&type=3) by [[Roy Moore]] of the 12/17/10 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.215468491855171.51455.118587218209966&type=3) by [[Roy Moore]] of the 10/30/11 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.252339914834695.58497.118587218209966&type=3) by [[Roy Moore]] that includes their 1/7/12 performance in *[[The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.402660706469281.90392.118587218209966&type=3) by [[Roy Moore]] of their 10/26/12 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.409877385747613.91910.118587218209966&type=3) by [[Roy Moore]] of their 11/9/12 performance.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3845319054218.137446.1315383518&type=3) by [[Michael Yew]] of their 11/16/12 performance.
 
 ## More Information
-* [http://gnaptheater.org/seance/ The show's web page.]
-* [http://forum.austinimprov.com/viewtopic.php?t=12430&p=111712 The initial show announcement] on [[The Austin Improv Forums]].
-* [http://forum.austinimprov.com/viewtopic.php?t=13571 The audition announcement] on [[The Austin Improv Forums]].
+* [The show's web page.](http://gnaptheater.org/seance/)
+* [The initial show announcement](http://forum.austinimprov.com/viewtopic.php?t=12430&p=111712) on [[The Austin Improv Forums]].
+* [The audition announcement](http://forum.austinimprov.com/viewtopic.php?t=13571) on [[The Austin Improv Forums]].

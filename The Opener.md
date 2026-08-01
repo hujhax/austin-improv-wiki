@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="The Opener.jpg">The Opener.jpg</a>
+				![[The Opener.jpg]]
 			</td>
 		</tr>
 
@@ -104,7 +104,7 @@
 The show runs on Sundays from 8:00pm to 10:00pm.
 
 ## More Information
-* [http://www.newmovementtheater.com/details/?cid=all&mc_id=13635 The show's web page.]
+* [The show's web page.](http://www.newmovementtheater.com/details/?cid=all&mc_id=13635)
 
 [[Category/Shows|Category:Shows]]
 [[Category/Active|Category:Active]]

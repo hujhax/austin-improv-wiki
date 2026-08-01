@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="SongRunner.jpg">SongRunner.jpg</a>
+				![[SongRunner.jpg]]
 			</td>
 		</tr>
 
@@ -233,10 +233,10 @@ From the show announcement:<blockquote>"A futuristic blade-runner/cyber-punk/cyb
 
 ## Media
 ### Photos
-* [http://www.facebook.com/media/set/?set=a.982805205116329.1073742212.221927764537414&type=1 Photoset] by [[Steve Rogers]] of the 6/13/2015 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.982805205116329.1073742212.221927764537414&type=1) by [[Steve Rogers]] of the 6/13/2015 performance.
 
 ## More Information
-* [http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater The show announcement] on the Hideout's facebook group.
+* [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

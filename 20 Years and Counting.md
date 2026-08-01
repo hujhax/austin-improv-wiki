@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="20 Years and Counting.jpg">20 Years and Counting.jpg</a>
+				![[20 Years and Counting.jpg]]
 			</td>
 		</tr>
 		<tr class="">

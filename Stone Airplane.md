@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				!<a class="internal-link" href="457986 10151011200081351 2110136360 o.jpg">457986 10151011200081351 2110136360 o.jpg</a>
+				![[457986 10151011200081351 2110136360 o.jpg]]
 			</td>
 		</tr>
 		<tr class="">
@@ -141,6 +141,6 @@ Stone Airplane completed a run of shows at [[Salvage Vanguard Theater]] in the s
 
 ## Media
 ### Photos
-* [http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3 Photoset] by [[Claudio Fox]] that includes their 7/7/12 performance in *[[The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3) by [[Claudio Fox]] that includes their 7/7/12 performance in *[[The Saturday Night Special]]*.
 
 [[Category/Troupes|Category:Troupes]]
