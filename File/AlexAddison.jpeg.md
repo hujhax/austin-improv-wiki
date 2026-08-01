@@ -2,4 +2,4 @@
 Photo curtesy of Michael Yew.
 Taken wihle perfoming in Fancy Pants at The Hideout.
 ## Licensing
-{{Free license}}
+The owner of this image has granted free use of this file with no restrictions.

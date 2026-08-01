@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Bitches Be Crazy
-|Picture	=	Bitches Be Crazy.jpg
-|Cast	=	{{ Unbulleted list | [[Carissa McAtee]] | [[Heidi Caldwell]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bitches Be Crazy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Bitches Be Crazy.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Carissa McAtee]]</li><!--
+  --><li style="">[[Heidi Caldwell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Bitches Be Crazy** is an improv-duo offshoot of [[IScream Sandwich]].
 

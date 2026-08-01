@@ -1,11 +1,97 @@
-{{Infobox Show
-|Picture = PastLivesIPF2013Poster.png
-|Name	=	Past Lives	
-|Theater=	[[The Hideout Theatre]]
-|Director =	[[Andrew Buck]]
-|Cast	=	{{Unbulleted list|[[Aaron Saenz]]|[[Andrew Buck]]|[[Mia Iseman]]|[[Ryan Austin]]}}
-|Run	=	Apr 2013-Apr 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Past Lives</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[PastLivesIPF2013Poster.png]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Andrew Buck]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Apr 2013-Apr 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Past Lives*** is an improvised play.
 

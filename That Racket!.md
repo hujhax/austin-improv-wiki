@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		That Racket!
-|Picture	=	That Racket!.jpg
-|Cast	=	{{Unbulleted list | [[Amy Lowrey]] | [[Ella Gale]] | [[Kevin Smith]] | [[Linzy Beltran]] | [[Mitch Mills]] | [[Stephanie Chiarello]] | [[Mike O'Connor]] | [[David Ronn]] }}
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">That Racket!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[That Racket!.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Lowrey]]</li><!--
+  --><li style="">[[Ella Gale]]</li><!--
+  --><li style="">[[Kevin Smith]]</li><!--
+  --><li style="">[[Linzy Beltran]]</li><!--
+  --><li style="">[[Mitch Mills]]</li><!--
+  --><li style="">[[Stephanie Chiarello]]</li><!--
+  --><li style="">[[Mike O'Connor]]</li><!--
+  --><li style="">[[David Ronn]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 :*This page refers to the 2014 musical-improv troupe.  For the 2012 improv show inspired by *Stomp'', see [[Racket]].
 **That Racket!** is a musical improv troupe.
 

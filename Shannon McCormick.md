@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Shannon McCormick	
-|Picture =	Shannon McCormick Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2000-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Shannon McCormick</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Shannon McCormick Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2000-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Shannon McCormick** is an improv performer, director, and teacher.  He runs [[Gnap! Theater Projects]], which produced improv shows from 2008 to 2012.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Darrell Barber	
-|Picture =	Darrell Barber Pic.jpg
-|Theater=	[[ComedySportz]]
-|Years	=	1989-1994
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Darrell Barber</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Darrell Barber Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ComedySportz]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1989-1994</td>
+		</tr>
+
+	</table>
+</div>
 
 
 **Darrell Barber** was an improv performer.

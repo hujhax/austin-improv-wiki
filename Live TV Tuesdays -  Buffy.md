@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: Buffy	
-|Picture=	Live TV Tuesdays- Buffy.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Jordan T. Maxwell]]
-|Assistant Director= {{Unbulleted list | [[Ruby Willmann]] | [[Sarah Marie Curry]] }}
-|Cast	=	{{Unbulleted list | [[Amanda Garfield]] | [[Andrew Pish]] | [[Brett Tribe]] | [[Bryan Cruz]] | [[David Lampe]] | [[Derek Diaz]] | [[Guy Vizard]] | [[Jayme Ramsay]] | [[Jennifer Blair]] | [[Jessica Arjet]] | [[Kristin Firth]] | [[Peter Rogers]] | [[Ryan Hill]] | [[Sarah Marie Curry]] | [[Stephanie Hagemeister]] }}
-|Tech	=	{{Unbulleted list | Carlos San Miguel | [[Chelley Pyatt]] | James Downing | [[Kacey Samiee]] | [[Leann Fryer]] | [[Lisa Marie Kull]] }}
-|Run	=	Oct/Nov 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: Buffy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays- Buffy.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jordan T. Maxwell]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amanda Garfield]]</li><!--
+  --><li style="">[[Andrew Pish]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Bryan Cruz]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Derek Diaz]]</li><!--
+  --><li style="">[[Guy Vizard]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="" >[[Jennifer Blair]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Stephanie Hagemeister]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Carlos San Miguel</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">James Downing</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Leann Fryer]]</li><!--
+  --><li style="">[[Lisa Marie Kull]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct/Nov 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: Buffy*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Buffy the Vampire Slayer|*Buffy the Vampire Slayer*]] episode [[Wikipedia - The Prom (Buffy the Vampire Slayer)|"The Prom"]].
 
 ## History

@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name = Buzz Band
-|Picture =	Buzz Band.jpg
-|Theater = [[The Institution Theater]]
-|Director =	{{Unbulleted list | [[Karen Jane DeWitt]] | [[Nicole Beckley]] }}
-|Cast = {{Unbulleted list | [[Andrew Johnston]] | [[Chad Wellington]] | [[David Ronn]] | [[J.R. Zambrano]] | [[Jordan Maxwell]] | [[Luis Salinas]] | [[Manuel Duran]] | [[Mary Henderson]] | [[Megan Sherrod]] | [[Megan Simon]] | [[Sarah Swofford]] }}
-|Tech = [[Cortney DeAngelo]]
-|Run	= May 2015
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Buzz Band</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Buzz Band.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Nicole Beckley]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrew Johnston]]</li><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[David Ronn]]</li><!--
+  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><li style="">[[Jordan Maxwell]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style="">[[Manuel Duran]]</li><!--
+  --><li style="">[[Mary Henderson]]</li><!--
+  --><li style="" >[[Megan Sherrod]]</li><!--
+  --><li style="">[[Megan Simon]]</li><!--
+  --><li style="">[[Sarah Swofford]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Cortney DeAngelo]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Buzz Band*** was a mainstage show at [[The Institution Theater]] set in the 1990s music scene.
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Available Cupholders
-|Picture =     Available Cupholders.jpg
-|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Bill Stern]] | [[Jeremy Sweetlamb]] | [[Kaci Beeler]] | [[Michael Joplin]] }}
-|Years	=		2004-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Available Cupholders</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Available Cupholders.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2004-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Bill Stern]]</li><!--
+  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Available Cupholders** is an improv troupe.
 

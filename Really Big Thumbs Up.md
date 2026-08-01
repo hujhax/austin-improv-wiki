@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Really Big Thumbs Up
-|Picture	=	Really Big Thumbs Up.jpg
-|Cast	=	{{ Unbulleted list | [[Amy Carpenter]] | [[Cortnie Jones]] | [[Kristen Kurtis]] | [[Matt Needles]] | [[Nicole McCracken]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Really Big Thumbs Up</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Really Big Thumbs Up.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Carpenter]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Kristen Kurtis]]</li><!--
+  --><li style="">[[Matt Needles]]</li><!--
+  --><li style="">[[Nicole McCracken]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Really Big Thumbs Up** is an improv troupe.
 

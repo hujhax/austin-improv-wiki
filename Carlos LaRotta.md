@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Carlos LaRotta	
-|Picture =	CarlosLaRotta.jpg
-|Theater=	[[ColdTowne Theater]] 
-|Years	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Carlos LaRotta</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[CarlosLaRotta.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Carlos LaRotta** is an improv performer and sketch writer/performer.
 

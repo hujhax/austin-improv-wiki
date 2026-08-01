@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Empty Promises
-|Picture	=	Empty Promises.jpg
-|Cast	=	{{ Unbulleted list | [[Alejandro Garcia]] | [[Eli Eidson]] | [[Ian Townsend]] | [[KC Harvey-Taylor]] | [[Mathew Stoner]] | [[Matt Needles]] | [[Sanjay Rao]] | [[Caitlin McNally]] | [[Justin Linville]] }}
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Empty Promises</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Empty Promises.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alejandro Garcia]]</li><!--
+  --><li style="">[[Eli Eidson]]</li><!--
+  --><li style="">[[Ian Townsend]]</li><!--
+  --><li style="">[[KC Harvey-Taylor]]</li><!--
+  --><li style="">[[Mathew Stoner]]</li><!--
+  --><li style="">[[Matt Needles]]</li><!--
+  --><li style="">[[Sanjay Rao]]</li><!--
+  --><li style="">[[Caitlin McNally]]</li><!--
+  --><li style="" >[[Justin Linville]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Empty Promises** is Austin's longest running gag 
 

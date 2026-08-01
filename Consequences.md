@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Consequences
-|Cast	=	{{ Unbulleted list | [[A.J. Holler]] | [[Addison Billingsley]] | [[Ann Potter]] | [[Ashley Franks]] | [[Ed Reed]] | [[Lacy Cox]] | [[Lizzi Leslie]] | [[Stephanie Hardie]] }}
-|Years	=		2011-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Consequences</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[A.J. Holler]]</li><!--
+  --><li style="">[[Addison Billingsley]]</li><!--
+  --><li style="">[[Ann Potter]]</li><!--
+  --><li style="">[[Ashley Franks]]</li><!--
+  --><li style="">[[Ed Reed]]</li><!--
+  --><li style="">[[Lacy Cox]]</li><!--
+  --><li style="">[[Lizzi Leslie]]</li><!--
+  --><li style="">[[Stephanie Hardie]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Consequences** was a [[ColdTowne Student Troupe]].
 

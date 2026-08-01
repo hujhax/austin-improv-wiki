@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name = Plugged
-|Picture =	Plugged.jpg
-|Theater = [[The New Movement]]
-|Director =	[[Rob Gagnon]]
-|Cast =	Varies
-|Run	=	2013-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Plugged</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Plugged.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The New Movement]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Rob Gagnon]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2013-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Plugged*** is a weekly themed stand-up showcase.
 

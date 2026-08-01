@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Big Beautiful Warlock
-|Picture =      Big Beautiful Warlock.jpg
-|Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Ashley Nugent]] | [[Chris Baldenhofer]] | [[Delaney Hernandez]] | [[Emma Holder]] | [[Frank Netscher]] | [[Kristin Henn]]}}
-|Years	=	2011-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Big Beautiful Warlock</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Big Beautiful Warlock.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Carpenter]]</li><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Chris Baldenhofer]]</li><!--
+  --><li style="">[[Delaney Hernandez]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Frank Netscher]]</li><!--
+  --><li style="">[[Kristin Henn]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Big Beautiful Warlock** is a troupe which performs a modified La Ronde.
 

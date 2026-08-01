@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name = Beware of Female Spies	
-|Picture =	Beware of Female Spies.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Emma Holder]]
-|Producer = {{Unbulleted list | [[Katie Thornton]] | [[Seth Johnson]] }}
-|Cast =	{{Unbulleted list | [[Aaron Walther]] | [[Alejandro Garcia]] | [[Ashley Nugent]] | [[Brett Tribe]] | [[Chrissy Shackleford]] | [[Liz Dykes]] | [[Nicole McCracken]] | [[Sanjay Rao]] | [[Seth Johnson]] | [[Taylor Overstreet]] }}
-|Run	=	Jan 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Beware of Female Spies</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Beware of Female Spies.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Emma Holder]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="">[[Seth Johnson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Walther]]</li><!--
+  --><li style="">[[Alejandro Garcia]]</li><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Chrissy Shackleford]]</li><!--
+  --><li style="">[[Liz Dykes]]</li><!--
+  --><li style="">[[Nicole McCracken]]</li><!--
+  --><li style="">[[Sanjay Rao]]</li><!--
+  --><li style="" >[[Seth Johnson]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Beware of Female Spies*** was a mainstage improv show about a spy agency. 
 

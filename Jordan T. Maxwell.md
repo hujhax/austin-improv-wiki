@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jordan T. Maxwell
-|Picture =	Jordan T. Maxwell Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	1998-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jordan T. Maxwell</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jordan T. Maxwell Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1998-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jordan T. Maxwell** is an actor and director of both improvised and scripted works, as well as a writer, a massage therapist, and an ordained minister.  
 

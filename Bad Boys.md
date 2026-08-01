@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=	Bad Boys
-|Picture=    Bad Boys Pic.jpg
-|Cast	=	{{Unbulleted list |  [[Brett Tribe]] | [[Byron Brown]] |  [[Ed Reed]] | [[Jon Bolden]] | [[Sam Malcom]]}}
-|Previous Members	=	{{Unbulleted list | [[Adam Trabka]] | [[Danny Catlow]]]}}
-|Years	=		2010-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bad Boys</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Bad Boys Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Byron Brown]]</li><!--
+  --><li style="">[[Ed Reed]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Sam Malcom]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 
 **Bad Boys** is an improv troupe.

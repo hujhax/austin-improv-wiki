@@ -1,12 +1,88 @@
-{{Infobox Troupe
-|Name	=		The Heroes of Comedy
-|Picture	=	The Heroes of Comedy.jpg
-|Cast	=	{{Unbulleted list | [[Amy McCurdy]] | [[Andy Crouch]] | [[Ben Reddell]] | [[Ben Sterling]] | [[Bob Apthorpe]] | [[Brett Webster]] | [[Brian Yannish]] | [[Bryan Kent]] | [[Carrie Esquenazi]] | [[Chelsea Adland]] | [[Chris R. B. Fay]] | [[Craig Kotfas]] | [[David Lampe]] | [[David Lowey]] | [[Edi Patterson]] | [[Eric Perry]] | [[Jay Michael]] | [[Jeremy Sweetlamb]] | [[Jimmy Maas]] | [[Jon Benner]] | [[Kacey Samiee]] | [[Kari Malek]] | [[Katy Shea]] | [[Kevin Miller]] | [[Korey Simeone]] | [[Lameece Issaq]] | [[Laura Smith]] | [[Lauren Buck]] | [[Louis Wells]] | [[Maggie Bell]] | [[Mariella Krouse]] | [[Matt Reilly]] | [[Mike DAlonzo]] | [[Peter Rogers]] | [[Ragan Fox]] | [[Sean Hill]] | [[Shana Merlin]] | [[Shannon McCormick]] | [[Shelly Miller Bosse]] | [[Stewart McGregor]] | [[Ted Rutherford]] | [[Tim Bauer]] | [[Timothy Ackerman]] | [[Todd Womack]] | [[Yasmine Kittles]] }}
-|Tech = [[Lisa Brown]]
-|Music = [[Chris Alonzo]]
-|Director =	[[Sean Hill]]
-|Years	=		1999-2004
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Heroes of Comedy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Heroes of Comedy.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">1999-2004</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Sean Hill]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy McCurdy]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Ben Reddell]]</li><!--
+  --><li style="">[[Ben Sterling]]</li><!--
+  --><li style="">[[Bob Apthorpe]]</li><!--
+  --><li style="">[[Brett Webster]]</li><!--
+  --><li style="">[[Brian Yannish]]</li><!--
+  --><li style="">[[Bryan Kent]]</li><!--
+  --><li style="" >[[Carrie Esquenazi]]</li><!--
+  --><li style="">[[Chelsea Adland]]</li><!--
+  --><li style="">[[Chris R. B. Fay]]</li><!--
+  --><li style="">[[Craig Kotfas]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[David Lowey]]</li><!--
+  --><li style="">[[Edi Patterson]]</li><!--
+  --><li style="">[[Eric Perry]]</li><!--
+  --><li style="">[[Jay Michael]]</li><!--
+  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><li style="">[[Jimmy Maas]]</li><!--
+  --><li style="">[[Jon Benner]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Kari Malek]]</li><!--
+  --><li style="">[[Katy Shea]]</li><!--
+  --><li style="">[[Kevin Miller]]</li><!--
+  --><li style="">[[Korey Simeone]]</li><!--
+  --><li style="">[[Lameece Issaq]]</li><!--
+  --><li style="">[[Laura Smith]]</li><!--
+  --><li style="">[[Lauren Buck]]</li><!--
+  --><li style="">[[Louis Wells]]</li><!--
+  --><li style="">[[Maggie Bell]]</li><!--
+  --><li style="">[[Mariella Krouse]]</li><!--
+  --><li style="">[[Matt Reilly]]</li><!--
+  --><li style="">[[Mike DAlonzo]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Ragan Fox]]</li><!--
+  --><li style="">[[Sean Hill]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style="">[[Shannon McCormick]]</li><!--
+  --><li style="">[[Shelly Miller Bosse]]</li><!--
+  --><li style="">[[Stewart McGregor]]</li><!--
+  --><li style="">[[Ted Rutherford]]</li><!--
+  --><li style="">[[Tim Bauer]]</li><!--
+  --><li style="">[[Timothy Ackerman]]</li><!--
+  --><li style="">[[Todd Womack]]</li><!--
+  --><li style="">[[Yasmine Kittles]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th class="category-header" scope="row">Tech</th>
+			<td class="category">[[Lisa Brown]]</td>
+		</tr>
+
+
+	</table>
+</div>
 
 **The Heroes of Comedy** (formerly **Austin Theatresports** and **We Could Be Heroes**) was the house improv troupe of [[The Hideout Theatre]] during its first years of operation.
 

@@ -2,4 +2,4 @@
 The default image for an improv theater.  Free clip art.
 
 ## Licensing
-{{Free-Clip-Art License}}
+This file is free clip art, and may be redistributed freely.

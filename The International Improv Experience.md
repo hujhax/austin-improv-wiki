@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=		The International Improv Experience				
-|Picture	=	The International Improv Experience.jpg				
-|Theater =		[[The Hideout Theatre]]
-|Director =		[[Roy Janik]]
-|Run=							Jul/Aug 2014
-|Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Caeriel Crestin]] | [[Ceej Allen]] | [[Karen Jane DeWitt]] | [[Katie Dahm]] | [[Lacy Shawn]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Ryan Austin]] | [[Shannon Dale Stott]] | [[Zac Grantham]] }}
-|Tech = {{Unbulleted list | [[Lindsey McGowen]] | [[Michael Yew]] | [[Cindy Page]]}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The International Improv Experience</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The International Improv Experience.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Lacy Shawn]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="" >[[Ruby Willmann]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style="">[[Shannon Dale Stott]]</li><!--
+  --><li style="">[[Zac Grantham]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Lindsey McGowen]]</li><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul/Aug 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The International Improv Experience*** was a mainstage show at [[The Hideout Theatre]].  It drew inspiration from friends of the Hideout around the world.
 

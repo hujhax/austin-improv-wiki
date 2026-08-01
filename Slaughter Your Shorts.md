@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name = Slaughter Your Shorts	
-|Picture = Slaughter Your Shorts.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Cody Dearing]]
-|Assistant Director =	[[Sam Malcolm]]
-|Cast =	{{Unbulleted list | [[Adam Trabka]] | [[Alex Baia]] | [[Ashley Nugent]] | [[Chaz Formichella]] | [[Cortnie Jones]] | [[Courtney Sevener]] | [[Ed Reed]] | [[Jared Stepp]] | [[Jessica Hamilton]] }}
-|Run	=	Oct 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Slaughter Your Shorts</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Slaughter Your Shorts.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Cody Dearing]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Sam Malcolm]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Trabka]]</li><!--
+  --><li style="">[[Alex Baia]]</li><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Chaz Formichella]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Courtney Sevener]]</li><!--
+  --><li style="">[[Ed Reed]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="" >[[Jessica Hamilton]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Slaughter Your Shorts*** was an improvised mainstage show at [[ColdTowne Theater]].
 

@@ -1,9 +1,75 @@
-{{Infobox Performer
-|Name	=	Tyler Bryce	
-|Picture =	Tyler Bryce Pic.jpg
-|Theater=	{{Unbulleted list | [[ComedySportz]] | [[The Institution Theater]] }}
-|Years	=	1991-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Tyler Bryce</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Tyler Bryce Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[ComedySportz]]</li><!--
+  --><li style="">[[The Institution Theater]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1991-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Tyler Bryce** is an improv performer and director.
 

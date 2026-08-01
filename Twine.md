@@ -1,11 +1,80 @@
 ![[Twinecover2.jpg]]
 
-{{Infobox Troupe
-|Name	=	Twine
-|Picture =     twinehands.jpg
-|Cast	=	{{Unbulleted list | [[Benjamin Blattberg]] | [[Amar Dev]] | [[Marc Jalandoon]] | [[Graham Snow]] | [[Trent Symmonds]] }}
-|Years	=		2016-
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Twine</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Twinehands.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2016-</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Benjamin Blattberg]]</li><!--
+  --><li style="">[[Amar Dev]]</li><!--
+  --><li style="">[[Marc Jalandoon]]</li><!--
+  --><li style="">[[Graham Snow]]</li><!--
+  --><li style="">[[Trent Symmonds]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 
 

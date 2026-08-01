@@ -1,11 +1,46 @@
-{{Infobox Show
-  |Name     = ImprompTwo
-  |Director = Various
-  |Theater  = [[The Institution Theater]]
-  |Cast     = Various
-  |Picture  = ImprompTwo.jpg
-  |Run    = 2015
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">ImprompTwo</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[ImprompTwo.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***ImprompTwo*** is a weekly performance slot at [[The Institution Theater]].
 

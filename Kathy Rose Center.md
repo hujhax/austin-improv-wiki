@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Kathy Rose Center	
-|Picture =	Kathy Rose Center pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2007-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Kathy Rose Center</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Kathy Rose Center pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Kathy Rose Center** is an improv performer and professional actor, represented by Agence Talent. Her online bio and resume are available at http://kathyrosecenter.nowcasting.com and http://www.imdb.com/name/nm2180001/
 

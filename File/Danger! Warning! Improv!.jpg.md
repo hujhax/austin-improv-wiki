@@ -4,4 +4,6 @@
 Photo by [[Jon Bolden]], from [http://www.flickr.com/photos/oob_pics/sets/72157631584084605/with/8007212700/ this photoset].
 
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

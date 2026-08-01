@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	The Triple Scoop
-|Picture =	The Triple Scoop.jpg
-|Theater =	[[The Institution Theater]]
-|Director =	[[IScream Sandwich]]
-|Cast	=	Various
-|Run	=	2012-2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Triple Scoop</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Triple Scoop.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[IScream Sandwich]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2012-2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 **The Triple Scoop** was a three-act improv night headlined by [[IScream Sandwich]].
 
 It ran Saturday nights at 10pm at [[The Institution Theater]].

@@ -1,9 +1,83 @@
-{{Infobox Troupe
-|Name	=		Bookish and Unmarried
-|Cast	=	{{ Unbulleted list | [[Jesse Overright]] | [[Patrick Daniel]] | [[Ryan Thomas]] | [[Taylor Overstreet]] }}
-|Years	=		2013
-|Director	=		[[Tom Booker]]
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bookish and Unmarried</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jesse Overright]]</li><!--
+  --><li style="">[[Patrick Daniel]]</li><!--
+  --><li style="">[[Ryan Thomas]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Bookish and Unmarried** was an improv troupe.
 

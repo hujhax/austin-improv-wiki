@@ -1,15 +1,153 @@
-{{Infobox Show
-|Name	=	The Black Vault	
-|Picture =	The_Black_Vault.jpg ‎
-|Director =	[[Marc Majcher]]	
-|Cast	=	{{Unbulleted list|[[Andreas Fabis]] | [[Brad Hawkins]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Jay Michael]] | [[Jayme Ramsay]] | [[Jessica Arjet]] |  [[Justin Davis]] | [[Marc Majcher]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Roy Janik]] | [[Ryan Hill]]}}
-|Tech	=	{{Unbulleted list
-| [[Cindy Page]] (sound)
-| [[Michael Yew]] (scoring)
-| [[Neal Tibrewala]] (lights)}}
-|Theater = [[The Hideout Theatre]]
-|Run	=	Sep/Oct 2012, Sep/Oct 2019
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Black Vault</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Black Vault.jpg ‎]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Clay Towery]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Jay Michael]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Justin Davis]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cindy Page]] (sound)</li><!--
+  --><li style="">[[Michael Yew]] (scoring)</li><!--
+  --><li style="">[[Neal Tibrewala]] (lights)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep/Oct 2012, Sep/Oct 2019</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Black Vault*** was an improvised longform show performed in the style of the novels and stories of [[Wikipedia - H. P. Lovecraft|H.P. Lovecraft]].
 

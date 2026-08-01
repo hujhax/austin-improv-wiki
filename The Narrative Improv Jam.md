@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	The Narrative Improv Jam
-|Picture = 	The Narrative Improv Jam.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast=		Varied
-|Director =	[[Roy Janik]]	
-|Run	=	Feb-Jun 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Narrative Improv Jam</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Narrative Improv Jam.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varied</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb-Jun 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Narrative Improv Jam*** was a monthly Friday-night show at [[The Hideout]] where the cast collaborated with the audience to perform a narrative longform.
 

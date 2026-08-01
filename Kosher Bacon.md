@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Kosher Bacon
-|Picture	=	Kosher Bacon Pic.jpg
-|Cast	=	{{Unbulleted list | [[Amber Shae]] | [[Ashley Carlisle]] | [[Brandon Martin]] | [[Cat Drago]] | [[Ellen Pittsford]] | [[Jessie Pascarelli]] | [[Mitchell Deane]] | [[Travis Devitt]] }}
-|Director =	[[Kevin Miller]]
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Kosher Bacon</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Kosher Bacon Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Kevin Miller]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amber Shae]]</li><!--
+  --><li style="">[[Ashley Carlisle]]</li><!--
+  --><li style="">[[Brandon Martin]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Ellen Pittsford]]</li><!--
+  --><li style="">[[Jessie Pascarelli]]</li><!--
+  --><li style="">[[Mitchell Deane]]</li><!--
+  --><li style="">[[Travis Devitt]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 ![[Under Waged Poster.jpg|The poster for *Under Waged*.]]
 

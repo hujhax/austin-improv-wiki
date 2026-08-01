@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Rob Yoho
-|Picture =	robyoho.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2015-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Rob Yoho</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Robyoho.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 Rob Yoho is an improv performer, tech, and director and is the Operations Manager at the [[Hideout Theatre]]. 
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Lahari Samineni
-|Picture    = 13483369 10206502157095436 2326651694853821892 o.jpg	
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2013-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Lahari Samineni</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[13483369 10206502157095436 2326651694853821892 o.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 
 **Lahari Samineni** is a new performer who performs primarily with [[The Hideout Theatre]] and [[The Institution Theatre]].  She began taking classes at the Hideout in January 2013, and began performing in November 2013.  

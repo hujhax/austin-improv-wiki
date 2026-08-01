@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Shawn Utterback	
-|Picture =	Shawn Utterback Pic.png
-|Theater=	[[The Institution Theater]]
-|Years	=	2009-2012, 2013-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Shawn Utterback</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Shawn Utterback Pic.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-2012, 2013-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Shawn Utterback** is an improv performer and producer.
 

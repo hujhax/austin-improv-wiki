@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=	Waterpark
-|Picture =     Waterpark Publicity.jpg
-|Cast	=	{{Unbulleted list | [[Adam Niederpruem]] | [[Amy Pacheco Jordan]] | [[Justin Davidson]] | [[Justin Strackany]] | [[Megan Poncho Simon]] }}
-|Years	=		2012-Present
-|Theater = [[The New Movement Theater]]
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Waterpark</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Waterpark Publicity.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Niederpruem]]</li><!--
+  --><li style="">[[Amy Pacheco Jordan]]</li><!--
+  --><li style="">[[Justin Davidson]]</li><!--
+  --><li style="">[[Justin Strackany]]</li><!--
+  --><li style="">[[Megan Poncho Simon]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 ![[Waterpark Performance.jpg|A Waterpark performance.]]
 
 **Waterpark** is a musical improv troupe that is based out of [[The New Movement Theater]].

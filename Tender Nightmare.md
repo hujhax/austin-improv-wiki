@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Tender Nightmare
-|Picture	=	Tender Nightmare.jpg
-|Cast	=	{{ Unbulleted list | [[Ashley Nugent]] | [[Chris Baldenhofer]] | [[Brian Engravalle]] | [[Emma Holder]] | [[Joshua Philips]] | [[Kate Bojanek]] | [[Lacy Cox]] | [[Patricia Tate]] | [[Scott Moss]] }}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Tender Nightmare</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Tender Nightmare.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Chris Baldenhofer]]</li><!--
+  --><li style="">[[Brian Engravalle]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Joshua Philips]]</li><!--
+  --><li style="">[[Kate Bojanek]]</li><!--
+  --><li style="">[[Lacy Cox]]</li><!--
+  --><li style="">[[Patricia Tate]]</li><!--
+  --><li style="" >[[Scott Moss]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Tender Nightmare** was an improv troupe.
 

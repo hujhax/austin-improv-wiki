@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Austin Playback Theatre
-|Picture	=	Austin Playback Theatre.jpg
-|Cast	=	{{ Unbulleted list | [[Bess Green]] | [[Dustin Parks]] | [[Joy Kearney]] | [[Katrina Parks]] | [[Paige Dearman]] }}
-|Years	=		2009-2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Austin Playback Theatre</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Austin Playback Theatre.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bess Green]]</li><!--
+  --><li style="">[[Dustin Parks]]</li><!--
+  --><li style="">[[Joy Kearney]]</li><!--
+  --><li style="">[[Katrina Parks]]</li><!--
+  --><li style="">[[Paige Dearman]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Austin Playback Theatre** was a performance-art troupe.
 

@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name = Tall Tales of the High Seas	
-|Picture =	Tall Tales of the High Seas.jpg
-|Theater = [[The Institution Theater]]
-|Director =	{{Unbulleted list | [[Andreas Fabis]] | [[Dana Yanoshak]] }}
-|Cast =	{{Unbulleted list | [[Amanda Hinsman]] | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Cagney Ortiz]] | [[Claudio Fox]] | [[Dana Yanoshak]] | [[Ellen Pizarek]] | [[Jessica Arjet]] | [[Mary Henderson]] | [[Megan Moten]] | [[Paul Normandin]] | [[Sushant Sethi]] }}
-|Tech =	{{Unbulleted list | [[Mark Shoemaker]] (lights, sound) | [[Zoe Jaye]] (stage manager) | [[Victoria Hawthorne]] (costumes) }}
-|Music = [[Tosin Awofeso]]
-|Run	=	Feb/Mar 2016
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Tall Tales of the High Seas</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Tall Tales of the High Seas.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Tosin Awofeso]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amanda Hinsman]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Cagney Ortiz]]</li><!--
+  --><li style="">[[Claudio Fox]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style="">[[Ellen Pizarek]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="" >[[Mary Henderson]]</li><!--
+  --><li style="">[[Megan Moten]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Sushant Sethi]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Mark Shoemaker]] (lights, sound)</li><!--
+  --><li style="">[[Zoe Jaye]] (stage manager)</li><!--
+  --><li style="">[[Victoria Hawthorne]] (costumes)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb/Mar 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Tall Tales of the High Seas*** is a pirate-themed mainstage improv show at [[The Institution Theater]].
 

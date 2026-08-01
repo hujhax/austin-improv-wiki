@@ -1,15 +1,219 @@
-{{Infobox Show
-|Name               = SongRunner
-|Picture            = SongRunner.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = {{Unbulleted list | [[Ammon Taylor]] | [[Kacey Samiee]] }}
-|Assistant Director = [[Jordan T. Maxwell]]
-|Tech Director      = [[Cindy Page]]
-|Music              = [[Content Love Knowles]]
-|Run                = Jun 2015
-|Cast               = {{Unbulleted list | [[Creighton Moench]] | [[Emma Czarnecki]] | [[Haley Alea Erickson]] | [[J. R. Zambrano]] | [[John Mendell]] | [[Joy Parks]] | [[Lindsay Hejl]] | [[Rachel Creason]] | [[Steve Jaffe]] }}
-|Tech               = {{Unbulleted list | [[Greg Blank]] | [[Kyle Grier]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">SongRunner</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[SongRunner.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ammon Taylor]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Jordan T. Maxwell]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Cindy Page]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Content Love Knowles]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Creighton Moench]]</li><!--
+  --><li style="">[[Emma Czarnecki]]</li><!--
+  --><li style="">[[Haley Alea Erickson]]</li><!--
+  --><li style="">[[J. R. Zambrano]]</li><!--
+  --><li style="">[[John Mendell]]</li><!--
+  --><li style="">[[Joy Parks]]</li><!--
+  --><li style="">[[Lindsay Hejl]]</li><!--
+  --><li style="">[[Rachel Creason]]</li><!--
+  --><li style="" >[[Steve Jaffe]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Greg Blank]]</li><!--
+  --><li style="">[[Kyle Grier]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jun 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***SongRunner*** was the June 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

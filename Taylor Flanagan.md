@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Taylor Flanagan	
-|Picture =	Taylor Flanagan Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2013-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Taylor Flanagan</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Taylor Flanagan Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Taylor Flanagan** is an actress and  improv performer.
 

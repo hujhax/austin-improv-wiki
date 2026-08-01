@@ -1,30 +1,214 @@
-{{Infobox Show
-|Name	=	All You Need Is Love	
-|Picture = all_you_need_is_love.jpg
-|Director = {{Unbulleted list | [[Jessica von Schramm]] | 
-[[Ryan Austin]] }}
-|Stage Manager = [[Sandra Ybarra]]
-|Tech Director = [[Lindsey McGowen]]
-|Cast	=	{{Unbulleted list | 
-[[Aaron Rubin]] |
-[[Casey Marie]] |
-[[Chris Casey]] |
-[[Cody Herring]] |
-[[Emily McDonald]] |
-[[Esperanza Rivadeneira]] |
-[[Kendall Raymond]] |
-[[Kristy Okada]] |
-[[Matthew Hernandez]] |
-[[Michael Raymond]] |
-}}
-|Tech = {{unbulleted list |
-[[Frank S&aacute;nchez]] |
-[[Seymour Addison]] |
-[[Eric McVicker]]
-}}
-|Theater = [[The Hideout Theatre]]
-|Run	=	February 2017
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">All You Need Is Love</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[All you need is love.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Lindsey McGowen]]</td>
+		</tr>
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Stage Manager(s)</th>
+			<td class="category">[[Sandra Ybarra]]</td>
+		</tr>
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Rubin]]</li><!--
+  --><li style="">[[Casey Marie]]</li><!--
+  --><li style="">[[Chris Casey]]</li><!--
+  --><li style="">[[Cody Herring]]</li><!--
+  --><li style="">[[Emily McDonald]]</li><!--
+  --><li style="">[[Esperanza Rivadeneira]]</li><!--
+  --><li style="">[[Kendall Raymond]]</li><!--
+  --><li style="">[[Kristy Okada]]</li><!--
+  --><li style="" >[[Matthew Hernandez]]</li><!--
+  --><li style="">[[Michael Raymond]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Frank S&aacute;nchez]]</li><!--
+  --><li style="">[[Seymour Addison]]</li><!--
+  --><li style="">[[Eric McVicker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">February 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***All You Need Is Love*** was an unapologetic, hopelessly romantic improvised rom-com &aacute; la *Serendipity* and *Sleepless in Seattle*, done as the Hideout Student Mainstage show in February of 2017.
 

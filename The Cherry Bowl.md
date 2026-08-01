@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	The Cherry Bowl	
-|Picture=	TheCherryBowl.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Director =	[[Ben Schave]]	
-|Cast	=	{{Unbulleted list | [[Aaron Walther]] | [[Adriane Shown]] | [[Austin Alexander]] | [[Ben Schave]] | [[Bob Galligan]] | [[Brad Hawkins]] | [[Dave Alley]] | [[Emily Breedlove]] | [[Frank Nappi]] | [[Jayme Ramsay]] | [[Jessica Arjet]] | [[Joel Osborne]] | [[Joey Hood]] | [[Jon Cook]] | [[Kelly Hasandr]] | [[Kerri Lendo]] | [[Kristin Firth]] | [[Meghan Morongova]] | [[Michael Jastroch]] | [[Nate Dunaway]] | [[Niki Jacobsen-Torres]] | [[Zac Carr]] }}
-|Run	=	Feb/Mar 2012
-|Subsequent Runs = Nov 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Cherry Bowl</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[TheCherryBowl.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Ben Schave]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Walther]]</li><!--
+  --><li style="">[[Adriane Shown]]</li><!--
+  --><li style="">[[Austin Alexander]]</li><!--
+  --><li style="">[[Ben Schave]]</li><!--
+  --><li style="">[[Bob Galligan]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Dave Alley]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="" >[[Frank Nappi]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Joel Osborne]]</li><!--
+  --><li style="">[[Joey Hood]]</li><!--
+  --><li style="">[[Jon Cook]]</li><!--
+  --><li style="">[[Kelly Hasandr]]</li><!--
+  --><li style="">[[Kerri Lendo]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Meghan Morongova]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="">[[Nate Dunaway]]</li><!--
+  --><li style="">[[Niki Jacobsen-Torres]]</li><!--
+  --><li style="">[[Zac Carr]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Feb/Mar 2012</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Nov 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 ![[Cherry Bowl - Performance.jpg|From the 2/25/12 performance of *The Cherry Bowl*.]]
 
 ***The Cherry Bowl*** was a show produced by [[Gnap! Theater Projects]] in 2012 and 2013. While not an improvised show, improv was used to create bits of clowning to construct a dialogue-free, *commedia dell'arte*-inspired adaptation of Anton Chekhov's *[http://en.wikipedia.org/wiki/The_Cherry_Orchard The Cherry Orchard]*. Gnap! member [[Ben Schave]] directed the production.

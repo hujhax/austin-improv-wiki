@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=	Channel 2
-|Cast	=	{{Unbulleted list |  [[Tess Hermes]] | [[Margaret Rose Hunsicker]] |  [[Tyler Lane]] | [[Cagney Ortiz]] | [[Mason Pitluk]] | [[Donna Rice]]}}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Channel 2</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Tess Hermes]]</li><!--
+  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
+  --><li style="">[[Tyler Lane]]</li><!--
+  --><li style="">[[Cagney Ortiz]]</li><!--
+  --><li style="">[[Mason Pitluk]]</li><!--
+  --><li style="">[[Donna Rice]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 **Channel 2** is an improv troupe created by [[Tyler Lane]] in the Fall of 2015. 
 
 ## Summary

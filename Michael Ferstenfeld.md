@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Michael Ferstenfeld	
-|Picture =	Not_Ira_Glass.jpeg
-|Theater=	[[Dystheatre]]
-|Years	=	2001-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Michael Ferstenfeld</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Not Ira Glass.jpeg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[Dystheatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2001-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Michael Ferstenfeld** is an actor, improviser, musician, director, teacher, producer, and pseudo-scientist.
 

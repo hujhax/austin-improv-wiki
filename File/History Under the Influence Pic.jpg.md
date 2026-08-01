@@ -6,4 +6,4 @@ Photo by [[Jon Bolden]].
 Art by [[Asaf Ronen]].
 
 ## Licensing
-{{Free license}}
+The owner of this image has granted free use of this file with no restrictions.

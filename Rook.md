@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Rook
-|Cast	=	{{Unbulleted list|[[Cat Drago]]|[[Megan Sherrod]] |[[Natalie Wright]] Former:|[[Walter Nichols]]|[[Sarah Marie Curry]] }}
-|Picture=    Rook.png
-|Years	=		2016-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Rook</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Rook.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2016-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Megan Sherrod]]</li><!--
+  --><li style="">[[Natalie Wright]] Former:</li><!--
+  --><li style="">[[Walter Nichols]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Rook** is a dramatic modern musical improv troupe.
 

@@ -1,10 +1,134 @@
-{{Infobox Troupe
-|Name	=		The Bare Minimum
-|Picture	=	The Bare Minimum.jpg
-|Cast	=	{{ Unbulleted list | [[Bo Briggs]] | [[Braxton Manley]] | [[Christian Haddad]] | [[Cortney Hall]] | [[Curtis Faulkner]] | [[Drake Touvre]] | [[Harrison Hammonds]] | [[Ian Balles]] | [[Jonah Foster]] | [[Kaysie Bekkala]] | [[Kaysie Bekkela]] | [[Martin Pandola]] | [[Mishi Gonzalez]] | [[TJ Stewart]] }}
-|Director = {{Unbulleted list | [[Harrison Hammonds]] | [[Jeremy Sweetlamb]] }}
-|Years	=		2013-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Bare Minimum</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Bare Minimum.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Harrison Hammonds]]</li><!--
+  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bo Briggs]]</li><!--
+  --><li style="">[[Braxton Manley]]</li><!--
+  --><li style="">[[Christian Haddad]]</li><!--
+  --><li style="">[[Cortney Hall]]</li><!--
+  --><li style="">[[Curtis Faulkner]]</li><!--
+  --><li style="">[[Drake Touvre]]</li><!--
+  --><li style="">[[Harrison Hammonds]]</li><!--
+  --><li style="">[[Ian Balles]]</li><!--
+  --><li style="" >[[Jonah Foster]]</li><!--
+  --><li style="">[[Kaysie Bekkala]]</li><!--
+  --><li style="">[[Kaysie Bekkela]]</li><!--
+  --><li style="">[[Martin Pandola]]</li><!--
+  --><li style="">[[Mishi Gonzalez]]</li><!--
+  --><li style="">[[TJ Stewart]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Bare Minimum** is a high-school comedy troupe.
 

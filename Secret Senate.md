@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Secret Senate
-|Picture	=	Secret Senate.jpg
-|Director = [[Brent Foshee]]
-|Cast	=	{{ Unbulleted list | [[Brett Tribe]] | [[Chaz Formichella]] | [[Danny Catlow]] | [[Frank Netscher]] | [[Jessica Hamilton]] | [[Kate Bojanek]] | [[Patricia Tate]] | [[Rick Heineman]] | [[Steve Donovan]] | [[Vickie Sokol Evans]] }}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Secret Senate</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Secret Senate.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Brent Foshee]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Chaz Formichella]]</li><!--
+  --><li style="">[[Danny Catlow]]</li><!--
+  --><li style="">[[Frank Netscher]]</li><!--
+  --><li style="">[[Jessica Hamilton]]</li><!--
+  --><li style="">[[Kate Bojanek]]</li><!--
+  --><li style="">[[Patricia Tate]]</li><!--
+  --><li style="">[[Rick Heineman]]</li><!--
+  --><li style="" >[[Steve Donovan]]</li><!--
+  --><li style="">[[Vickie Sokol Evans]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Secret Senate** was an [[ColdTowne Student Troupe]].
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Aden Kirschner	
-|Picture =	Aden Kirschner Pic.jpg
-|Theater =      Various
-|Years	=	2005-2014
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Aden Kirschner</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Aden Kirschner Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-2014</td>
+		</tr>
+
+	</table>
+</div>
 
 **Aden Kirschner** is an award winning performer, skilled improv teacher, facilitator and trainer, and operated as the Corporate Training and Events Coordinator for [[The Merlin Works Institute for Improvisation]]. Her performance and corporate training clients included Austin Waldorf High School, Hewlett Packard, Safe Place and Dell. As a teacher, Aden sought to create a fun, safe environment where people can explore and grow new practical skills to help them on stage, in business and in their private life.
 

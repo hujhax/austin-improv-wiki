@@ -1,8 +1,24 @@
-{{Infobox Performer
-|Name	=	Kayla Lane Freeman	
-|Picture =	kaylalane.png
-|Years	=	2011-2013
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Kayla Lane Freeman</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Kaylalane.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">None</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2011-2013</td>
+		</tr>
+
+	</table>
+</div>
 
 **Kayla Lane Freeman** is an improv performer.
 

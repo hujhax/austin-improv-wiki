@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Clay Towery	
-|Picture =	Clay Towery Pic.jpg
-|Theater=	Various
-|Years	=	2010-2014
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Clay Towery</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Clay Towery Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-2014</td>
+		</tr>
+
+	</table>
+</div>
 
 **Clay Towery** was an improv performer and director.
 

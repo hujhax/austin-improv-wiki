@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jay Mahavier	
-|Picture =	Jay Mahavier Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2014
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jay Mahavier</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jay Mahavier Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2014</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jay Mahavier** is an improv performer, photographer and tech.
 

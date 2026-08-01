@@ -1,11 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Foreign Legion
-|Picture	=	Foreign legion.jpg
-|Cast	=	{{Unbulleted list|[[Leng Wong]]|[[Menelaos Prokos]]|[[Andreas Fabis]]|[[Abbas Amirabadi]]|[[Alex Dobrenko]]|[[Gene Zhou]]}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Foreign Legion</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Foreign legion.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="">[[Menelaos Prokos]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Abbas Amirabadi]]</li><!--
+  --><li style="">[[Alex Dobrenko]]</li><!--
+  --><li style="">[[Gene Zhou]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
 
 
-|Years	=		2011-2012
-}}
+
+	</table>
+</div>
 
 **The Foreign Legion** was an improv troupe composed entirely of foreign-born improvisers.
 

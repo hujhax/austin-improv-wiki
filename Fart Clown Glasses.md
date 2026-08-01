@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Fart Clown Glasses
-|Picture	=	Fart Clown Glasses.jpg
-|Cast	=	{{Unbulleted list | [[Andrea Young]] | [[Chris Trew]] | [[Jill Morris]] | [[Michael Jastroch]] }}
-|Years	=		2006
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Fart Clown Glasses</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Fart Clown Glasses.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2006</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrea Young]]</li><!--
+  --><li style="">[[Chris Trew]]</li><!--
+  --><li style="">[[Jill Morris]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Fart Clown Glasses** was an improv troupe.
 

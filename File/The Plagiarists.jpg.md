@@ -3,4 +3,6 @@
 
 Photo by [[Peter Rogers]], from [http://www.facebook.com/hujhax/photos?collection_token=588952264%3A2305272732%3A69&set=a.447239482264.218623.588952264&type=3 this photoset].
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=	The Library
-|Picture =     The Library.jpg
-|Cast	=	{{Unbulleted list | | [[Justin Bozied]] | [[Jeanette Bozied]] | [[Kacey Samiee]] | [[Marc Majcher]] | [[Nicole Beckley]] }}
-|Director = [[Justin Bozied]]
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Library</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Library.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Justin Bozied]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Justin Bozied]]</li><!--
+  --><li style="">[[Jeanette Bozied]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Nicole Beckley]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 : *This page refers to the narrative troupe in which each player improvises in a particular genre.  For the narrative troupe in which each player improvised in the style of a particular playwright, see [[The Plagiarists]].*
 

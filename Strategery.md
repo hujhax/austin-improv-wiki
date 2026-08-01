@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Strategery
-|Picture	=	Strategery.jpg
-|Cast	=	{{ Unbulleted list | [[Amy Carpenter]] | [[Ashley Nugent]] | [[Brent Foshee]] | [[Dan Grimm]] | [[Lisa Jackson]] }}
-|Years	=		2011-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Strategery</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Strategery.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Carpenter]]</li><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Brent Foshee]]</li><!--
+  --><li style="">[[Dan Grimm]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Strategery** was an improv troupe.
 

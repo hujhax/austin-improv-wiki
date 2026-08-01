@@ -1,10 +1,29 @@
-{{Infobox Theater
-|Name	=		Fallout Theater
-|Picture =		Fallout Theater graphic.jpg
-|Address	=	616 Lavaca St., Austin TX, 78701 
-|Homepage	=	https://www.falloutcomedy.com/
-|Years	=		2018-Present
-}}
+<div>
+	<table class="infobox infobox-theater">
+		<tr>
+			<th colspan="2" class="infobox-header">Fallout Theater</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Fallout Theater graphic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Address</th>
+			<td class="category">616 Lavaca St., Austin TX, 78701</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Homepage</th>
+			<td class="category">https://www.falloutcomedy.com/</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Years of Operation</th>
+			<td class="category">2018-Present</td>
+		</tr>
+	</table>
+</div>
 
 **Fallout Theater** is a theater in downtown Austin, TX, that provides improv, sketch, and stand-up comedy performances nightly, and focuses on Chicago-style long form improv. 
 
@@ -12,8 +31,38 @@
 The theater was founded by the former staff, faculty, and performers of The New Movement (Austin) in February 2018, following the dissolution of that theater amid controversy over misconduct by the owners of The New Movement. 
 
 ## Shows
-{{List of Fallout Theater Shows}}
+### Improv Shows
+* *[[Fuck This Week]]*
+* *[[Basement Brawl]]*
+* *[[The Megaphone Show]]*
 
+### Sketch Shows
+* *[[The Neighborhood]]*
+
+### Stand-Up and Variety Shows
+* *[[Playpen]]*
+* *[[Sandbox with Rob Gagnon]]*
+* *[[Voice Over-Rated]]*
+* *[[Fuck Marry Kill]]*
+
+
+#### Improv Teams
+* *[[Garage]]*
+* *[[Good Fight]]*
+* *[[Lucky Billy]]*
+
+### Mainstage Productions
+In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.
+* *[[Hail to the Queen]]*
+* *[[Super Black]]*
+* *[[Funny Ladies of Wrestling (FLOW)]]*
+* *[[Terminator -  The Musical]]*
+* *[[Psychosphere]]*
+* *[[Clone Squad]]*
+
+### Inactive Teams/Past Shows
+#### Themed Troupe Shows
+#### Other
 ## Media
 ### Videos
 ## Media

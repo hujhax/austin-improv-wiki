@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Nichole Bennett	
-|Picture =	Nichole Bennett Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2014-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Nichole Bennett</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Nichole Bennett Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Nichole Bennett** is an improv performer, director, technical designer, and teacher.
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	BeauMoMa
-|Picture =     BeauMoMa.jpg
-|Cast	=	{{Unbulleted list | [[Bridget Brewer]] | [[Maitland Lederer]] | [[Melissa Patterson]] }}
-|Years	=	2013-2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">BeauMoMa</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[BeauMoMa.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Maitland Lederer]]</li><!--
+  --><li style="">[[Melissa Patterson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 ## Summary
 **BeauMoMa** was an improv troupe that just wants to have fun.

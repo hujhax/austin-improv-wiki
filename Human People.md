@@ -1,13 +1,134 @@
-{{Infobox Troupe
-|Name	= Human People
-|Picture	= Hp.jpg
-|Years	= 2016 - Present
-|Director	=
-|Cast = {{Unbulleted list | [[Greg Mihalik]] | [[Erik McVicker]] | [[Mary Henderson]] | [[Kris Raab]] | [[Pius Wong]] | [[Sheri Soltes]] | [[Amy McClellan]] | [[Chris Casey]] | [[Kay Krasin]] | [[Sue Jordan]]}}
-|Past Members =	{{Unbulleted list |	[[Bloom Davis]] |  [[Carolyn Gjersten]] | [[Judy Blackshear]] | [[David Rosenbaum]] }}
-|Tech	=		
-|Crew	=		
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Human People</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Hp.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2016 - Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Greg Mihalik]]</li><!--
+  --><li style="">[[Erik McVicker]]</li><!--
+  --><li style="">[[Mary Henderson]]</li><!--
+  --><li style="">[[Kris Raab]]</li><!--
+  --><li style="">[[Pius Wong]]</li><!--
+  --><li style="">[[Sheri Soltes]]</li><!--
+  --><li style="">[[Amy McClellan]]</li><!--
+  --><li style="">[[Chris Casey]]</li><!--
+  --><li style="" >[[Kay Krasin]]</li><!--
+  --><li style="">[[Sue Jordan]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Past Members</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bloom Davis]]</li><!--
+  --><li style="">[[Carolyn Gjersten]]</li><!--
+  --><li style="">[[Judy Blackshear]]</li><!--
+  --><li style="">[[David Rosenbaum]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Human People** is a musical improv troupe.
 

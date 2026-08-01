@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=	Array
-|Picture =     Arkay.jpg
-|Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Amy Averett]] | [[Andrew Buck]] | [[Arthur Simone]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jason Finkelman]] | [[John Brewster]] | [[Matt Needles]] | [[Michael Jastroch]] | [[Naomi Perryman]] | [[Sarah Marie Curry]] | [[Taylor Overstreet]] }}
-|Years	=		2013-Present
-|Theater = [[ColdTowne Theater]]
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Array</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Arkay.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Baia]]</li><!--
+  --><li style="">[[Amy Averett]]</li><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Arthur Simone]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Frank Netscher]]</li><!--
+  --><li style="">[[Jason Finkelman]]</li><!--
+  --><li style="">[[John Brewster]]</li><!--
+  --><li style="" >[[Matt Needles]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="">[[Naomi Perryman]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Array** (formerly **Arkay**) is an improv troupe.
 

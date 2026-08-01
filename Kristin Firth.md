@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Kristin Firth
-|Picture =	Kristin firth.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years= 2003-2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Kristin Firth</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Kristin firth.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2003-2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **Kristin Firth** is a Canadian improv performer who lived in and performed regularly in Austin before moving to Philadelphia, Pennsylvania.
 

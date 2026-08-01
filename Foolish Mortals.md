@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Foolish Mortals
-|Picture	=	Foolish Mortals.jpg
-|Cast	=	{{Unbulleted list | [[Andrea Young]] | [[Andy Perreira]] | [[Christopher 'Ceej' Allen]] | [[Jill Morris]] | [[Ted Rutherford]] | [[Troy Miller]] }}
-|Years	=		2003-2007
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Foolish Mortals</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Foolish Mortals.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2003-2007</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrea Young]]</li><!--
+  --><li style="">[[Andy Perreira]]</li><!--
+  --><li style="">[[Christopher 'Ceej' Allen]]</li><!--
+  --><li style="">[[Jill Morris]]</li><!--
+  --><li style="">[[Ted Rutherford]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Foolish Mortals** was an improv troupe.
 

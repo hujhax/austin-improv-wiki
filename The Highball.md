@@ -1,10 +1,80 @@
-{{Infobox Theater
-|Name	=		The Highball
-|Picture =		Highball Logo.jpg
-|Address	=	1142 S Lamar Blvd
-|Homepage	=	http://www.thehighball.com
-|Years	=		{{Unbulleted list | 2009-2012 | 2015-Present }}
-}}
+<div>
+	<table class="infobox infobox-theater">
+		<tr>
+			<th colspan="2" class="infobox-header">The Highball</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Highball Logo.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Address</th>
+			<td class="category">1142 S Lamar Blvd</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Homepage</th>
+			<td class="category">http://www.thehighball.com</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Years of Operation</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">2009-2012</li><!--
+  --><li style="">2015-Present</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+	</table>
+</div>
 
 **The Highball** is a restaurant/entertainment facility that serves as an adjunct to the Alamo Drafthouse's South Lamar location.
 

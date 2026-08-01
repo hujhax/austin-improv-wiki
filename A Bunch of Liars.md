@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		A Bunch of Liars
-|Picture	=	A Bunch of Liars.jpg
-|Cast	=	{{Unbulleted list | [[Chris Kelley]] | [[Daniel Rigney]] | [[Kelli Bland]] | [[Michael Ferstenfeld]] | [[Paul Wainright]] | [[Todd Mein]] }}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">A Bunch of Liars</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[A Bunch of Liars.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chris Kelley]]</li><!--
+  --><li style="">[[Daniel Rigney]]</li><!--
+  --><li style="">[[Kelli Bland]]</li><!--
+  --><li style="">[[Michael Ferstenfeld]]</li><!--
+  --><li style="">[[Paul Wainright]]</li><!--
+  --><li style="">[[Todd Mein]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **A Bunch of Liars** was an improv troupe.
 

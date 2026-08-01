@@ -1,15 +1,109 @@
 __NOINDEX__
 
-{{Infobox Show
-|Name	=	Live Nude Improv 	
-|Picture=	Live Nude Improv Performance.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director =	[[Andy Crouch]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Andy Crouch]] | [[Brett Tribe]] | [[Dana Yanoshak]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Marc Majcher]] | [[Peter Rogers]] | [[Pseudonyms|Ruby]] }}
-|Music	=	[[Bradley Dean Whyte]]
-|Tech   =	[[Cindy Page]]
-|Run	=	Jul/Aug 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live Nude Improv</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live Nude Improv Performance.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Andy Crouch]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Bradley Dean Whyte]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style="">[[Pseudonyms|Ruby]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Cindy Page]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul/Aug 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Live Nude Improv*** (also referred to as the ***Live Summer Show***) was a mainstage show at [[The Hideout Theatre]]. 
 

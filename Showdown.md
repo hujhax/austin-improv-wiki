@@ -1,13 +1,153 @@
-{{Infobox Show
-|Name	=	Showdown
-|Picture=	Showdown.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=	{{Unbulleted list | [[Gnap! Theater Projects]] | [[Shannon McCormick]] }}
-|Director =	[[Avimaan Syam]]	
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Clay Towery]] | [[Jason Vines]] | [[Jericho Thorp]] | [[Jesse Bertron]] | [[Jordan T. Maxwell]] | [[Julie Gillis]] | [[Katie Van Winkle]] | [[Liz Brammer]] | [[Shana Merlin]] }}
-|Crew = {{Unbulleted list | [[Jerry Fugit]] | [[Katie Dahm]] }}
-|Run	=	Mar/Apr 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Showdown</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Showdown.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Avimaan Syam]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Gnap! Theater Projects]]</li><!--
+  --><li style="">[[Shannon McCormick]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Clay Towery]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jericho Thorp]]</li><!--
+  --><li style="">[[Jesse Bertron]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Julie Gillis]]</li><!--
+  --><li style="">[[Katie Van Winkle]]</li><!--
+  --><li style="" >[[Liz Brammer]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar/Apr 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Showdown*** was a serialized narrative longform western that ran as a mainstage show at [[Salvage Vanguard Theater]].
 

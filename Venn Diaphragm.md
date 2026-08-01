@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Venn Diaphragm
-|Picture	=	Venn Diaphragm.jpg
-|Cast	=	{{Unbulleted list | [[Erica Lies]] | [[Nat Miller]] | [[Nitra Gutierrez]] | [[Pierce Purselley]] }}
-|Years	=		2007-2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Venn Diaphragm</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Venn Diaphragm.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Erica Lies]]</li><!--
+  --><li style="">[[Nat Miller]]</li><!--
+  --><li style="">[[Nitra Gutierrez]]</li><!--
+  --><li style="">[[Pierce Purselley]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Venn Diaphragm** was an improv troupe.
 

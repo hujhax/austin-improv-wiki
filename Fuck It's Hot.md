@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name	=	Fuck It's Hot	
-|Picture=	Fuck Its Hot Poster.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Ash Nunley]] | [[Bryan 'Lubu' Roberts]] | [[Bryan Curry]] | [[Claudio Fox]] | [[Duncan Coe]] | [[Elena Weinberg]] | [[Sam Schak]] | [[Sarah Marie Curry]] | [[Sarah Swofford]] | [[Tom Booker]] | [[Tyler Bryce]] }}
-|Run	=	Jul-Sep 2013
-|Subsequent Runs = {{Unbulleted list | Nov/Dec 2013 | Apr/May 2014 | Aug 2015 | Dec 2015 | 2016 }}
-|Tech	=	{{Unbulleted list | [[Bryan Curry]] | [[Chelley Pyatt]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Fuck It's Hot</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Fuck Its Hot Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ash Nunley]]</li><!--
+  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
+  --><li style="">[[Bryan Curry]]</li><!--
+  --><li style="">[[Claudio Fox]]</li><!--
+  --><li style="">[[Duncan Coe]]</li><!--
+  --><li style="">[[Elena Weinberg]]</li><!--
+  --><li style="">[[Sam Schak]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="" >[[Sarah Swofford]]</li><!--
+  --><li style="">[[Tom Booker]]</li><!--
+  --><li style="">[[Tyler Bryce]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan Curry]]</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Jul-Sep 2013</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Nov/Dec 2013</li><!--
+  --><li style="">Apr/May 2014</li><!--
+  --><li style="">Aug 2015</li><!--
+  --><li style="">Dec 2015</li><!--
+  --><li style="">2016</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Fuck It's Hot*** was a series of Austin-themed sketch-comedy runs that ran as a mainstage show on Saturday nights at [[The Institution Theater]].
 

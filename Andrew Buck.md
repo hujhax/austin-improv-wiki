@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Andrew Buck
-|Picture =	Andrew Buck Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Andrew Buck</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Andrew Buck Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Andrew Buck** is an improviser living and performing in Austin, Texas.
 

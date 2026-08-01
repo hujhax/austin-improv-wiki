@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		A Really Aggressive Dream
-|Picture	=	A Really Aggressive Dream.jpg
-|Cast	=	{{ Unbulleted list | [[Barrett Phelan]] | [[Erika Bundy]] | [[Jaci Kramer]] | [[Matt Davis]] | [[Rachel Austin]] | [[Richard Gentry]] }}
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">A Really Aggressive Dream</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[A Really Aggressive Dream.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Barrett Phelan]]</li><!--
+  --><li style="">[[Erika Bundy]]</li><!--
+  --><li style="">[[Jaci Kramer]]</li><!--
+  --><li style="">[[Matt Davis]]</li><!--
+  --><li style="">[[Rachel Austin]]</li><!--
+  --><li style="">[[Richard Gentry]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **A Really Aggressive Dream** (often shortened to **ARAD**) is an improv troupe.
 

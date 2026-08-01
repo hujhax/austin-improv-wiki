@@ -1,14 +1,107 @@
-{{Infobox Show
-|Name	=	Click Click Whir	
-|Picture = clickclickwhir.jpg
-|Director = [[Valerie Ward]]
-|Assistant Director = [[Luke Wallens]]
-|Tech Director = [[Jay Mahavier]]
-|Cast	=	{{Unbulleted list | [[Cindy Brio]] | [[Frank Sánchez]] | [[Kendall Raymond]] | [[Marissa Macy]] | [[Mary Henderson]] | [[Shane Gannaway]] | [[Trent Thomson]] | [[Way Spurr-Chen]] }}
-|Crew= {{Unbulleted list | [[Biz Gilmore]] | [[Cindy Page]] | [[Max Kaufmann]] | [[Paul Henderson]] | [[Rachel Collier]] }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	August 2017
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Click Click Whir</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Clickclickwhir.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Valerie Ward]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Luke Wallens]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Jay Mahavier]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cindy Brio]]</li><!--
+  --><li style="">[[Frank Sánchez]]</li><!--
+  --><li style="">[[Kendall Raymond]]</li><!--
+  --><li style="">[[Marissa Macy]]</li><!--
+  --><li style="">[[Mary Henderson]]</li><!--
+  --><li style="">[[Shane Gannaway]]</li><!--
+  --><li style="">[[Trent Thomson]]</li><!--
+  --><li style="">[[Way Spurr-Chen]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">August 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Click Click Whir*** (full title: ***Click Click Whir: A Rhythmic Steampunk Adventure***) was a Hideout student mainstage show.  It was a steampunk adventure set in Victorian London which featured a percussive soundtrack improvised by the cast.
 

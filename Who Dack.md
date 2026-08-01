@@ -1,10 +1,27 @@
-{{Infobox Troupe
-|Name	=		Who Dack?
-|Cast	=	Variable
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Who Dack?</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category">Variable</td>
+		</tr>
 
 
-|Years	=		2011-Present
-}}
+
+	</table>
+</div>
 **Who Dack?** is an improv troupe composed of members from several theaters and improv traditions, that performs mainly at [[ColdTowne Theater]].
 
 ## History

@@ -1,14 +1,112 @@
-{{Infobox Show
-|Name	=		Spirited				
-|Picture	=	Spirited.jpg				
-|Theater =		[[The Hideout Theatre]]
-|Director =		[[Asaf Ronen]]
-|Assistant Director =	[[Marc Majcher]]
-|Music= [[David Zimmerman]]
-|Run=							Sep/Oct 2011
-|Cast	=		{{Unbulleted list | [[Andreas Fabis]] | [[Andrew Pish]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Halyn Lee Erickson]] | [[Menelaos Prokos]] | [[Jason Vines]] | [[Jessica Arjet]] | [[John Buseman]] | [[Jordan T. Maxwell]] | [[Justin Davis]] | [[Kayla Lane Freeman]] | [[Leng Wong]] | [[Liz Brammer]] | [[Peter Rogers]] | [[Sarah Marie Curry]] | [[Taylor Overstreet]]}}
-|Tech	=	[[Neal Tibrewala]]
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Spirited</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Spirited.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[David Zimmerman]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Andrew Pish]]</li><!--
+  --><li style="">[[Clay Towery]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Menelaos Prokos]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="" >[[John Buseman]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Justin Davis]]</li><!--
+  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="">[[Liz Brammer]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Neal Tibrewala]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep/Oct 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Spirited*** was a mainstage show at [[The Hideout Theatre]], inspired by the dream-logic works from artists like [[Wikipedia - Lewis Carroll|Lewis Carroll]], [[Wikipedia - Hayao Miyazaki|Hayao Miyazaki]], and [[Wikipedia - Maurice Sendak|Maurice Sendak]].
 

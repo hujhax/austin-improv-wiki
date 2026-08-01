@@ -1,14 +1,209 @@
-{{Infobox Show
-|Name	=	Cochise
-|Picture=	Cochise Poster.jpg
-|Theater=	[[The Hideout Theatre]]	
-|Director =	{{Unbulleted list | [[Bob Apthorpe]] ([[Improv for Evil]] runs)| [[Marc Majcher]] (all runs)}}
-|Assistant Director = [[Paul Normandin]] (student mainstage run)
-|Crew = [[Devon Ragsdale]] (student mainstage run)
-|Cast	=	{{Unbulleted list | [[Barrett Phelan]] | [[Bob Apthorpe]] | [[Emma Czarnecki]] | [[Eric Heiberg]] | [[Ericka Bundy]] | [[Greg Blank]] | [[Haley Alea Erickson]] | [[Jason Vines]] | [[Joshua Santo]] | [[Manuel Duran]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Matthew Davis]] }}
-|Run	=	Nov/Dec 2008
-|Subsequent Runs = {{Unbulleted list | Jan 2009 | Jun/Jul 2014 }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Cochise</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Cochise Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bob Apthorpe]] ([[Improv for Evil]] runs)</li><!--
+  --><li style="">[[Marc Majcher]] (all runs)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Paul Normandin]] (student mainstage run)</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Barrett Phelan]]</li><!--
+  --><li style="">[[Bob Apthorpe]]</li><!--
+  --><li style="">[[Emma Czarnecki]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Ericka Bundy]]</li><!--
+  --><li style="">[[Greg Blank]]</li><!--
+  --><li style="">[[Haley Alea Erickson]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="" >[[Joshua Santo]]</li><!--
+  --><li style="">[[Manuel Duran]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Matt Pollock]]</li><!--
+  --><li style="">[[Matthew Davis]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Nov/Dec 2008</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Jan 2009</li><!--
+  --><li style="">Jun/Jul 2014</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Cochise*** was a mainstage show at [[The Hideout Theatre]] based on late-70s cop shows.  It was originally produced and performed by [[Improv for Evil]].
 

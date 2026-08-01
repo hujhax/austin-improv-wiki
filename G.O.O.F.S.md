@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		G.O.O.F.S.
-|Picture	=	G.O.O.F.S..png
-|Cast	=	{{ Unbulleted list | [[Katie Doran]] | [[Lindsay Hejl]] | [[Michael Bowman]] | [[Mitchell Shotts]] | [[Patrick Creamer]] | [[Tim Stiefler]] }}
-|Years	=		2013-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">G.O.O.F.S.</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[G.O.O.F.S..png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Katie Doran]]</li><!--
+  --><li style="">[[Lindsay Hejl]]</li><!--
+  --><li style="">[[Michael Bowman]]</li><!--
+  --><li style="">[[Mitchell Shotts]]</li><!--
+  --><li style="">[[Patrick Creamer]]</li><!--
+  --><li style="">[[Tim Stiefler]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **G.O.O.F.S.** is an improv troupe. The troupe name is an acronym for  for "Ghosts Of Our Former Selves". 
 

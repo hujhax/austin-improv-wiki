@@ -1,9 +1,27 @@
-{{Infobox Troupe
-|Name	=		The Devil and Halyn Erickson
-|Picture	=	The Devil and Halyn Erickson.jpg
-|Cast	=	[[Halyn Lee Erickson]]
-|Years	=		Jun 2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Devil and Halyn Erickson</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Devil and Halyn Erickson.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">Jun 2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category">[[Halyn Lee Erickson]]</td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Devil and Halyn Erickson** was a solo show that headlined *[[The Threefer]]* in June 2014.
 

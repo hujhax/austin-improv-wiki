@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Grounded in Harmony
-|Picture	=	Grounded in Harmony.jpg
-|Cast	=	{{ Unbulleted list | [[Bobby Stover]] | [[Claudio Fox]] | [[Frances Nguyen]] | [[Ian Townsend]] | [[Javier Ungo]] | [[Joseph Dailey]] | [[Justin Soileau]] | [[Lance Nealy]] | [[Sanjay Rao]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Grounded in Harmony</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Grounded in Harmony.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bobby Stover]]</li><!--
+  --><li style="">[[Claudio Fox]]</li><!--
+  --><li style="">[[Frances Nguyen]]</li><!--
+  --><li style="">[[Ian Townsend]]</li><!--
+  --><li style="">[[Javier Ungo]]</li><!--
+  --><li style="">[[Joseph Dailey]]</li><!--
+  --><li style="">[[Justin Soileau]]</li><!--
+  --><li style="">[[Lance Nealy]]</li><!--
+  --><li style="" >[[Sanjay Rao]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Grounded in Harmony** is an improv troupe.
 

@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name = The Megaphone Show	
-|Picture =	The Megaphone Show.jpg
-|Theater = [[The New Movement Theater]]
-|Cast = {{Unbulleted list | [[Aaron Walther]] | [[Gsu Paek]] | [[Karen Early]] | [[Megan Simon]] }}
-|Director = Varies
-|Run	= 2010-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Megaphone Show</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Megaphone Show.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The New Movement Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Walther]]</li><!--
+  --><li style="">[[Gsu Paek]]</li><!--
+  --><li style="">[[Karen Early]]</li><!--
+  --><li style="">[[Megan Simon]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2010-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 **The Megaphone Show** is a weekly [http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny Armando] that features local celebrities as monologists.
 

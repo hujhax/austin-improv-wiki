@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Luke Wallens	
-|Picture = Luke_Wallens.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years=2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Luke Wallens</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Luke Wallens.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+	</table>
+</div>
  
 **Luke Wallens** is an improv performer who has studied improv at the Hideout Theatre (May 2011-February 2012), Coldtowne Theater (August 2012-March 2014) and improvised singing at Merlin Works, Improvised Singing (April-June 2012, January-July 2013). He has also taken workshops with Parallelogrammaphonograph with their Narrative Intensive and Deanna Fleyscher with her 'Naked Comedy' workshop.
 

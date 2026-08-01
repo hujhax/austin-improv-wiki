@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		You're in Big Trouble, Mister!
-|Cast	=	{{Unbulleted list | [['Mike S.']] | [[Delanie Liming]] | [[Lance Gilstrap]] | [[Nick Ramirez]] }}
-|Years	=		2009-2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">You're in Big Trouble, Mister!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[['Mike S.']]</li><!--
+  --><li style="">[[Delanie Liming]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Nick Ramirez]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **You're in Big Trouble, Mister!** was a *[[Cagematch]]* team.
 

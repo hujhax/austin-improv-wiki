@@ -1,14 +1,104 @@
 
 
-{{Infobox Show
-|Name	=	One More Night	
-|Picture=	One More Night.gif
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=	[[Gnap! Theater Projects]]
-|Director =	[[Audrey Rachel Sansom]]	
-|Cast	=	{{Unbulleted list|[[Andreas Fabis]] | [[Audrey Rachel Sansom]] | [[Avimaan Vivek Syam]] | [[Chelsea Gilman]] | [[Curtis Luciani]] | [[Emily Breedlove]] | [[Julie Gillis]] | [[Kyle Traughber]] | [[Madi Goff]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Mike Sullivan]] | [[Peter Rogers]]}}
-|Run	=	Jan/Feb 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">One More Night</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[One More Night.gif]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Audrey Rachel Sansom]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Avimaan Vivek Syam]]</li><!--
+  --><li style="">[[Chelsea Gilman]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Julie Gillis]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="" >[[Madi Goff]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Meghan Wolff]]</li><!--
+  --><li style="">[[Mike Sullivan]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan/Feb 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ![[One More Night - Scheherazade and Shahryar.jpg|Scheherazade and Shahryar provided a framing device for each evening's tales.]]
 

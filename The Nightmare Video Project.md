@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	The Nightmare Video Project
-|Picture = 	The Nightmare Video Project.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast=		Varied
-|Director =	[[Marc Majcher]]	
-|Run	=	Sep 2010-Dec 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Nightmare Video Project</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Nightmare Video Project.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varied</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep 2010-Dec 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Nightmare Video Project*** was a shortform show at [[The Hideout Theater]] that was directed by pre-recorded footage.
 

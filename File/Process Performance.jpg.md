@@ -4,4 +4,6 @@ The king dies in the third act of the 4/15/12 performance of *[[Process]]*, whic
 Photo by [[Roy Moore]], from [http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3 this photoset].
 
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

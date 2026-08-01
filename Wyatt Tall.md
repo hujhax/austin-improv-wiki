@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Wyatt Tall	
-|Picture =	Wyatt Tall Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Wyatt Tall</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Wyatt Tall Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Wyatt Tall** is an improv performer.
 

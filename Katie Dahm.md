@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Katie Dahm	
-|Picture =	Katie Dahm Pic.jpg
-|Theater=	The Hideout Theatre
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Katie Dahm</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Katie Dahm Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">The Hideout Theatre</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Katie Dahm** is an improvisor and native Austinite.  She brings a background in theatre and dance to the stage and has been performing improv since 2007.
 

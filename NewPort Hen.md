@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		NewPort Hen
-|Cast	=	{{Unbulleted list | [[Alex Baia]] | [[Ed Melendez]] | [[Josh Gill]] | [[Kristen Henn]] | [[Mike Faerber]] | [[Nathan Livni]] | [[Tej Ludher]] }}
-|Years	=		2009
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">NewPort Hen</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Baia]]</li><!--
+  --><li style="">[[Ed Melendez]]</li><!--
+  --><li style="">[[Josh Gill]]</li><!--
+  --><li style="">[[Kristen Henn]]</li><!--
+  --><li style="">[[Mike Faerber]]</li><!--
+  --><li style="">[[Nathan Livni]]</li><!--
+  --><li style="">[[Tej Ludher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **NewPort Hen** was a one-off *[[Cagematch]]* team.
 

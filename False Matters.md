@@ -1,15 +1,163 @@
-{{Infobox Show
-|Name	=	False Matters	
-|Picture=	False Matters.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=      [[Gnap! Theater Projects]]
-|Director =	[[Shannon McCormick]]
-|Cast	=	{{Unbulleted list | [[Courtney Hopkin]] | [[Craig Kotfas]] | [[Jon Bolden]] | [[Kareem Badr]] | [[Kevin Miller]] | [[Kristin Firth]] | [[Kyle Traughber]] | [[Liz Brammer]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Shannon McCormick]] }}
-|Tech	=	[[Sam Schak]]
-|Run	=	May-June 2011
-|Subsequent Runs = {{Unbulleted list | Aug 2012 | Oct-Nov 2013 }}
-|Tagline = Stories Improvised in the Style of Philip K. Dick
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">False Matters</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[False Matters.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Shannon McCormick]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Craig Kotfas]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Kevin Miller]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Liz Brammer]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Shannon McCormick]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Sam Schak]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">May-June 2011</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Aug 2012</li><!--
+  --><li style="">Oct-Nov 2013</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***False Matters*** was a longform mainstage improv production with [[Gnap! Theater Projects]] based on the work of [http://en.wikipedia.org/wiki/Philip_K._Dick Philip K. Dick]."
 

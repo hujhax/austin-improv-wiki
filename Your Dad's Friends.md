@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Your Dad's Friends
-|Picture	=	Your Dad's Friends.jpg
-|Cast	=	{{Unbulleted list|[[Brently Heilbron]]|[[Chuy Zarate]]|[[David Lampe]]|[[Kevin Miller]]|[[Summer Wilson Brow]]}}
-|Years	=		2010-2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Your Dad's Friends</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Your Dad's Friends.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brently Heilbron]]</li><!--
+  --><li style="">[[Chuy Zarate]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Kevin Miller]]</li><!--
+  --><li style="">[[Summer Wilson Brow]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Your Dad's Friends** was an improv troupe that consists mainly of improvisors who were around for the early days of the Austin-improv scene.
 

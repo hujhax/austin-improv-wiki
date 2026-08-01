@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Sean Hill	
-|Picture =	Sean Hill Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	1995-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Sean Hill</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Sean Hill Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1995-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Sean Hill** is an improv performer, director, and teacher.  He is the founder of [[The Hideout Theatre]], and ran the theater until 2009.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Heidi Rogers	
-|Picture =	Heidi Rogers Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Heidi Rogers</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Heidi Rogers Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Heidi Rogers** is an improv performer.
 

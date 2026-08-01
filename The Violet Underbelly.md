@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=		The Violet Underbelly				
-|Picture	=	The Violet Underbelly.jpg				
-|Theater =		[[The Hideout Theatre]]
-|Director =		[[Kareem Badr]]
-|Run=							Mar/Apr 2011
-|Tech= {{Unbulleted list | [[David Zimmerman]] | [[Michael Yew]] }}
-|Cast	=		{{Unbulleted list | [[Audrey Rachel Sansom]] | [[David Lampe]] | [[Deano Jones]] | [[Jay Michael]] | [[Jessica Arjet]] | [[Jon Clinkenbeard]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kristin Firth]] | [[Marc Majcher]] | [[Mo Daviau]] | [[Peter Rogers]] | [[Roy Janik]] | [[Troy Miller]] | [[Zac Grantham]]}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Violet Underbelly</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Violet Underbelly.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Kareem Badr]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Deano Jones]]</li><!--
+  --><li style="">[[Jay Michael]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Jon Clinkenbeard]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="" >[[Kristin Firth]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Mo Daviau]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><li style="">[[Zac Grantham]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[David Zimmerman]]</li><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar/Apr 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Violet Underbelly*** was a mainstage show at [[The Hideout Theatre]] which presented narrative longform inspired by [[Wikipedia - Film noir|film noir]].
 

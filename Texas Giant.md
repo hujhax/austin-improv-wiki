@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Texas Giant
-|Cast	=	{{ Unbulleted list | [[Arthur Simone]] | [[Bob McNichol]] | [[Cody Dearing]] | [[Dave Buckman]] | [[Erika May]] | [[Jason Vines]] | [[Justin York]] | [[Michael Jastroch]] | [[John Ratliff]] }}
-|Years	=		2009
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Texas Giant</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Arthur Simone]]</li><!--
+  --><li style="">[[Bob McNichol]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Dave Buckman]]</li><!--
+  --><li style="">[[Erika May]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Justin York]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="" >[[John Ratliff]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Texas Giant** was an improv troupe.
 

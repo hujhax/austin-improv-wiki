@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=	Love Fest	
-|Picture =	Love_Fest.jpg ‎
-|Director =	[[Clifton Highfield]]	
-|Cast	=	{{Unbulleted list|[[Jessica Arjet]] | [[Andrew Basile]] | [[Ashley Jayne Carlisle]] | [[Cat Drago]] | [[Mitchell Deane]] | [[Andreas Fabis]] | [[Scott Hearne]] | [[Clifton Highfield]] | [[Ryan Hill]] | [[Brandon Martin]] | [[Nathan Sowell]] | [[Sarah Swofford]] | [[Dana Yanoshak]]}}
-|Theater = [[The Institution Theater]]
-|Run	=	Feb 2013
-|Subsequent Runs = {{Unbulleted list | [[Feb 2014]] | [[Feb 2015]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Love Fest</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Love Fest.jpg ‎]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Clifton Highfield]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Andrew Basile]]</li><!--
+  --><li style="">[[Ashley Jayne Carlisle]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Mitchell Deane]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Scott Hearne]]</li><!--
+  --><li style="">[[Clifton Highfield]]</li><!--
+  --><li style="" >[[Ryan Hill]]</li><!--
+  --><li style="">[[Brandon Martin]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style="">[[Sarah Swofford]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Feb 2013</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Feb 2014]]</li><!--
+  --><li style="">[[Feb 2015]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Love Fest*** (AKA **Lovefest**) is an annual improvised longform show based on the theme of love.  In 2013 and 2014, it ran concurrently with *[[Bitterfest]]*.
 

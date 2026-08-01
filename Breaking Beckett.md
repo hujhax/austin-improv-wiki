@@ -1,14 +1,107 @@
-{{Infobox Show
-|Name	=	Breaking Beckett	
-|Picture=	Breaking Beckett Poster Ryan.png
-|Theater=	[[The Institution Theater]]
-|Director = [[Bobby Ford]]
-|Cast	= {{Unbulleted list | [[Ryan Hill]] | [[Marc Majcher]] | [[Jayme Ramsey]]}}
-|Tech  = [[Mark Shoemaker]]
-|Music = [[Content Love Knowles]]
-|Preview = January 2014
-|Run	=	Mar 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Breaking Beckett</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Breaking Beckett Poster Ryan.png]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Bobby Ford]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Content Love Knowles]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Jayme Ramsey]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Mark Shoemaker]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Breaking Becket*** is a longform narrative show inspired by the works of [[Wikipedia - Samuel Beckett|Samuel Beckett]].
 

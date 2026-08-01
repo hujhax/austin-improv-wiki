@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name	=	Charles Dickens Unleashed	
-|Picture=	Charles Dickens Unleashed.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director = {{Unbulleted list | [[Jessica Arjet]] | [[Kaci Beeler]] }}
-|Cast	=	Varied
-|Tech  = Varied
-|Run	=	Nov/Dec 2009
-|Subsequent Runs= Nov/Dec 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Charles Dickens Unleashed</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Charles Dickens Unleashed.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varied</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">Varied</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Nov/Dec 2009</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Nov/Dec 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Charles Dickens Unleashed*** was a longform narrative show inspired by the works of [[Wikipedia - Charles Dickens|Charles Dickens]].
 

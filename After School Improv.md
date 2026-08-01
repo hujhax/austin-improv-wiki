@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name	=	After School Improv
-|Picture = After School Improv Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast = Various
-|Director ={{Unbulleted list | [[Kaci Beeler]] (2009) | [[Jason Vines]] (2012)}}
-|Tech	=	{{Unbulleted list | [[Kathy Rose Center]] (2009) | [[Cindy Page]] (2012) | [[Cortney DeAngelo]] (2012) | [[Dorah Masibo]] (2012)}}
-|Run = Jan/Feb 2009
-|Subsequent Runs = Mar 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">After School Improv</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[After School Improv Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kaci Beeler]] (2009)</li><!--
+  --><li style="">[[Jason Vines]] (2012)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kathy Rose Center]] (2009)</li><!--
+  --><li style="">[[Cindy Page]] (2012)</li><!--
+  --><li style="">[[Cortney DeAngelo]] (2012)</li><!--
+  --><li style="">[[Dorah Masibo]] (2012)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Jan/Feb 2009</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Mar 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 **After School Improv** was an improv show produced by [[The Hideout Theatre]] inspired by after school specials.
 

@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name = Live From ColdTowne It’s Saturday Night!	
-|Picture =	Live From ColdTowne It’s Saturday Night!.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Frank Netscher]]
-|Cast =	TBA
-|Run	=	Sep 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live From ColdTowne It’s Saturday Night!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live From ColdTowne It’s Saturday Night!.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Frank Netscher]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">TBA</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Live From ColdTowne It’s Saturday Night!*** was a mainstage show at [[ColdTowne Theater]].  It featured weekly sketches and improvised behind-the-scenes cast meetings, in a tribute to *[[Wikipedia - Saturday Night Live|Saturday Night Live]]*.
 

@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name = Midnight Special and Gong Show
-|Picture =	Midnight Special and Gong Show.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Midnight Society]]
-|Cast =	Various
-|Run	=	2008-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Midnight Special and Gong Show</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Midnight Special and Gong Show.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Midnight Society]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2008-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Midnight Special and Gong Show*** is a free monthly [[Wikipedia - The Gong Show|gong show]], presented by [[Midnight Society]] at [[ColdTowne Theater]] .
 

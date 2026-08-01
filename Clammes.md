@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Clammes
-|Cast	=	{{Unbulleted list | [[Chris Baldenhofer]] | [[Emma Holder]] | [[Josh Krilov]] | [[Michael James Williams]] | [[Stephanie Rousso]] }}
-|Years	=		2009
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Clammes</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chris Baldenhofer]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Josh Krilov]]</li><!--
+  --><li style="">[[Michael James Williams]]</li><!--
+  --><li style="">[[Stephanie Rousso]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Clammes** was a one-off *[[Cagematch]]* team.
 

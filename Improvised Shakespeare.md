@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Improvised Shakespeare	
-|Picture=	Improvised Shakespeare.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director =	[[Andy Crouch]]
-|Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Asaf Ronen]] | [[Audrey Rachel Sansom]] | [[Curtis Luciani]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Pseudonyms|Madeline M.]] | [[Marc Majcher]] | [[Meghan Wolff]] | [[Peter Rogers]] | [[Roy Janik]] | [[Shana Merlin]] | [[Troy Miller]] | [[Valerie Ward]] }}
-|Run	=	Jan-Mar 2008
-|Subsequent Runs = May/Jun 2009
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Improvised Shakespeare</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Improvised Shakespeare.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Andy Crouch]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Meghan Wolff]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Jan-Mar 2008</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">May/Jun 2009</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 :*This page refers to the 2008 and 2009 mainstage runs of improvised plays in the style of William Shakespeare.  For the 2013 mainstage run which had a more free-form format, and included scripted runs of *Much Ado About Nothing* and *Macbeth*, see *[[Fakespeare]]''.
 ***Improvised Shakespeare*** was a mainstage show at [[The Hideout Theatre]] of improvised plays in the style of [[Wikipedia - William Shakespeare|William Shakespeare]].

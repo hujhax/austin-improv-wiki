@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Royston
-|Cast	=	{{ Unbulleted list | [[Adam Trabka]] | [[Brady James]] | [[Jenna Carey]] | [[Jessica Hamilton]] | [[Kayla Lane Freeman]] | [[Lance Gilstrap]] }}
-|Years	=		2012-2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Royston</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Trabka]]</li><!--
+  --><li style="">[[Brady James]]</li><!--
+  --><li style="">[[Jenna Carey]]</li><!--
+  --><li style="">[[Jessica Hamilton]]</li><!--
+  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Royston** (originally **Connie West**) was an improv troupe.
 

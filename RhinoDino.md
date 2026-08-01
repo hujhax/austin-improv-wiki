@@ -1,10 +1,134 @@
-{{Infobox Troupe
-|Name =		RhinoDino
-|Picture =  FB.ImAGE.jpg
-|Cast =	{{Unbulleted list|[[Courtney Hopkin]]|[[Kyle Traughber]]|[[Lacy Shawn]]|[[Patrick Creamer]]|[[Quinn Buckner]]}}
-|Past Members = {{Unbulleted list|[[Colin Bates]]}}
-|Years = 2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">RhinoDino</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[FB.ImAGE.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Lacy Shawn]]</li><!--
+  --><li style="">[[Patrick Creamer]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Past Members</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Colin Bates]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 **RhinoDino** is an improv troupe that focuses on short-form improv and modifying existing games to make them more interesting.
 
 ## History

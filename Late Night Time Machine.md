@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name = Late Night Time Machine
-|Picture =	Late Night Time Machine Poster.jpg
-|Theater = [[The Institution Theater]]
-|Director =	{{Unbulleted list | [[Clifton Highfield]] (season 1) | [[Mason Pitluk]] (season 2) }}
-|Cast =	{{Unbulleted list | [[James C. Leary]] | [[Sydney Huddleston]] | [[Mike Carreon]] | [[Ceej Allen]] | [[Alex Ayala]] | various guests }}
-|Run	= Sep 2014
-|Subsequent Runs = Apr-May 2015
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Late Night Time Machine</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Late Night Time Machine Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Clifton Highfield]] (season 1)</li><!--
+  --><li style="">[[Mason Pitluk]] (season 2)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[James C. Leary]]</li><!--
+  --><li style="">[[Sydney Huddleston]]</li><!--
+  --><li style="">[[Mike Carreon]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Alex Ayala]]</li><!--
+  --><li style="">various guests</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Sep 2014</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Apr-May 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Late Night Time Machine*** is an improvised historical talk show originating from [[The Institution Theater]].
 

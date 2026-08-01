@@ -1,14 +1,104 @@
-{{Infobox Show
-|Name = "_____" or Bust!
-|Picture =	Blank or Bust.jpg
-|Theater = [[Salvage Vanguard Theater]]
-|Producer = [[Gnap! Theater Projects]]
-|Director =	[[Shana Merlin]]
-|Cast =	{{Unbulleted list | [[Bob Khosravi]] | [[Britney Salyer]] | [[Jerry Akellian]] | [[Neal Tibrewala]] | [[Quinn Buckner]] | [[Reid Jacobson]] | [[Robin Anderson]] | [[Valerie Nies]] }}
-|Run	=	Oct 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">"_____" or Bust!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Blank or Bust.jpg]]
+			</td>
+		</tr>
 
-{{DISPLAYTITLE:"_____" or Bust!}}
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Shana Merlin]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bob Khosravi]]</li><!--
+  --><li style="">[[Britney Salyer]]</li><!--
+  --><li style="">[[Jerry Akellian]]</li><!--
+  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style="">[[Reid Jacobson]]</li><!--
+  --><li style="">[[Robin Anderson]]</li><!--
+  --><li style="">[[Valerie Nies]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
+
+
 
 ***"_____" or Bust!*** was a longform improv show loosely inspired by [[Wikipedia - National Lampoon's Vacation (film series)|National Lampoon's *Vacation* film series]].
 

@@ -4,4 +4,6 @@
 Photo by [[Steve Rogers]], from [https://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3 this photoset].
 
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

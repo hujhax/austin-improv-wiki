@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Michael Thomas
-|Picture =	Michael Thomas Pic.jpg
-|Theater=	Various
-|Years	=	2008-2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Michael Thomas</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Michael Thomas Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **Michael Thomas** is an improv performer and videographer.
 

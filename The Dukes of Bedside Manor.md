@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Dukes of Bedside Manor
-|Picture = Dukes-bedside-manor.jpg
-|Cast	=	{{Unbulleted list|[[Jon Bolden]]|[[Quinn Buckner]]|[[Mike Sullivan]]|[[Kyle Traughber]]|[[Hugo Vargas-Zesati]]}}
-|Years	=		2010-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Dukes of Bedside Manor</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Dukes-bedside-manor.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style="">[[Mike Sullivan]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Hugo Vargas-Zesati]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Dukes of Bedside Manor** was an improv troupe.
 

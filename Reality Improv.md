@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name = Reality Improv
-|Picture= Reality Improv.jpg
-|Theater = [[The Hideout Theatre]]
-|Director =	[[Jay Michael]]
-|Cast =	{{Unbulleted list | [[Andrea Young]] | [[Andy Pereira]] | [[Ceej Allen]] | [[Jill Morris]] | [[Rene Pinnell]] }}
-|Run	=	2004
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Reality Improv</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Reality Improv.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jay Michael]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrea Young]]</li><!--
+  --><li style="">[[Andy Pereira]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Jill Morris]]</li><!--
+  --><li style="">[[Rene Pinnell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2004</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Reality Improv*** was an hourlong montage show at [[The Hideout Theatre]].
 

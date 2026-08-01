@@ -1,9 +1,27 @@
-{{Infobox Troupe
-|Name	=		Ghetto Sketch Warlock
-|Picture	=	Ghetto Sketch Warlock.jpg
-|Cast	=	[[Bryan 'Lubu' Roberts]]
-|Years	=		2008-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Ghetto Sketch Warlock</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Ghetto Sketch Warlock.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2008-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category">[[Bryan 'Lubu' Roberts]]</td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Ghetto Sketch Warlock** is an alter ego of [[Bryan 'Lubu' Roberts]] that he uses for sketch, music, and improv projects.
 

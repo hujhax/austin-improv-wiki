@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name = The Sandbox	
-|Picture =	The Sandbox.jpg
-|Theater = [[Salvage Vanguard Theater]]
-|Producer = [[Gnap! Theater Projects]]
-|Director =	[[Kyle Traughber]]
-|Tech = {{Unbulleted list | [[Brandon Salinas]] | [[David Zimmerman]] }}
-|Cast =	{{Unbulleted list | [[Audrey Rachel Sansom]] | [[Britney Salyer]] | [[Eric Heiberg]] | [[Jason Vines]] | [[Kerri Lendo]] | [[Kyle Traughber]] | [[Marc Majcher]] | [[Topping Haggerty]]}}
-|Run	=	Jan/Feb 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Sandbox</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Sandbox.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Kyle Traughber]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Britney Salyer]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Kerri Lendo]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brandon Salinas]]</li><!--
+  --><li style="">[[David Zimmerman]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan/Feb 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Sandbox*** was a mainstage improv show in which every week, a new cast member directed the show with a new format.
 

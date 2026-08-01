@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name	=	Process	
-|Picture=	Process Publicity Image.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director =	[[Jeremy Sweetlamb]]
-|Cast	=	{{Unbulleted list | 2012 Run | [[Ace Manning]] | [[Alex Dobrenko]] | [[Caitlin Sweetlamb]] | [[Courtney Hopkin]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Jeremy Sweetlamb]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Ruby Willmann]] | . | 2016 Run | [[Aaron Saenz]] | [[Ace Manning]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Haley Alea Erickson]] | [[J.R. Zambrano]] | [[Jeremy Sweetlamb]] | [[Kaci Danger]] | [[Katie Dahm]] | [[Margaret Rose Hunsicker]] | [[Michael Joplin]] | [[Rachel Posey Austin]] | [[Rob Yoho]] | [[Rosemarie Frezza]]}}
-|Tech	={{Unbulleted list | 2012 Run | [[Carl Ziegler]] | [[Michael Yew]] | . | 2016 Run | [[Audrey Rachel Sansom]] (Costumes/Set Asst) | [[Bonnie Dilber]] (Lights/Run Crew) | [[Brad Hawkins]] (Lights/Audio/Run Crew) | [[Carolyn Gjertsen]] (Lights/Costume Asst) | [[Cindy Page]] (Costuming Lead) | [[Ellen Pizarek]] (Costumes/Run Crew) | [[Jenn Hamm]] (Run Crew) | [[Jessica von Schramm]] (Stage Manager) | [[Lindsey McGowen]] (Technical Director) | [[Michael Yew]] (Audio Lead) | [[Nichole Bennett]] (Lights/Run Crew) | [[Nicole Oglesby]] (Set Asst) | [[Sandra Ybarra]] (Assistant Stage Manager) | [[Stuart m feild]] (Set Lead) }}
-|Run	=	Mar/Apr 2012
-|Subsequent Runs = Jul/Aug 2016
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Process</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Process Publicity Image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jeremy Sweetlamb]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">2012 Run</li><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Alex Dobrenko]]</li><!--
+  --><li style="">[[Caitlin Sweetlamb]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><li style="" >[[John Ratliff]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">.</li><!--
+  --><li style="">2016 Run</li><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Haley Alea Erickson]]</li><!--
+  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><li style="">[[Kaci Danger]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Rachel Posey Austin]]</li><!--
+  --><li style="">[[Rob Yoho]]</li><!--
+  --><li style="">[[Rosemarie Frezza]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">2012 Run</li><!--
+  --><li style="">[[Carl Ziegler]]</li><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><li style="">.</li><!--
+  --><li style="">2016 Run</li><!--
+  --><li style="">[[Audrey Rachel Sansom]] (Costumes/Set Asst)</li><!--
+  --><li style="">[[Bonnie Dilber]] (Lights/Run Crew)</li><!--
+  --><li style="">[[Brad Hawkins]] (Lights/Audio/Run Crew)</li><!--
+  --><li style="" >[[Carolyn Gjertsen]] (Lights/Costume Asst)</li><!--
+  --><li style="">[[Cindy Page]] (Costuming Lead)</li><!--
+  --><li style="">[[Ellen Pizarek]] (Costumes/Run Crew)</li><!--
+  --><li style="">[[Jenn Hamm]] (Run Crew)</li><!--
+  --><li style="">[[Jessica von Schramm]] (Stage Manager)</li><!--
+  --><li style="">[[Lindsey McGowen]] (Technical Director)</li><!--
+  --><li style="">[[Michael Yew]] (Audio Lead)</li><!--
+  --><li style="">[[Nichole Bennett]] (Lights/Run Crew)</li><!--
+  --><li style="">[[Nicole Oglesby]] (Set Asst)</li><!--
+  --><li style="">[[Sandra Ybarra]] (Assistant Stage Manager)</li><!--
+  --><li style="">[[Stuart m feild]] (Set Lead)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Mar/Apr 2012</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Jul/Aug 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Process*** is a longform improv show that takes the audience through the process of producing a (fictional) play.  It is a recurring mainstage show at [[The Hideout Theatre]].
 

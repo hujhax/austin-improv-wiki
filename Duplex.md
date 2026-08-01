@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=		Duplex
-|Picture	=	Duplex.jpg
-|Cast	=	{{ Unbulleted list | [[Austen Silver]] | [[Catherine Grady]] | [[Evan Eggers]] | [[Norman Tran]] }}
-|Years	=		2014-2015
-|Website =      http://dupleximprov.com
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Duplex</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Duplex.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-2015</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Austen Silver]]</li><!--
+  --><li style="">[[Catherine Grady]]</li><!--
+  --><li style="">[[Evan Eggers]]</li><!--
+  --><li style="">[[Norman Tran]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Duplex** is an improv troupe made up of recent graduates of [[The Hideout Theatre]].
 

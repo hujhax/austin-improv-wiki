@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Hyperlinks
-|Picture=	Hyperlinks.jpg
-|Theater=	[[The Hideout Theatre]]	
-|Director =	[[Asaf Ronen]]
-|Cast	=	{{Unbulleted list | [[Bryan 'Lubu' Roberts]] | [[Christopher 'Ceej' Allen]] | [[Curtis Luciani]] | [[Eric Heiberg]] | [[Jon Clinkenbeard]] | [[Kaci Beeler]] | [[Kristin Firth]] | [[Roy Janik]] }}
-|Run	=	Mar 2009
-|Subsequent Runs =	Jan 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Hyperlinks</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Hyperlinks.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
+  --><li style="">[[Christopher 'Ceej' Allen]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Jon Clinkenbeard]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Mar 2009</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Jan 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Hyperlinks*** was a mainstage show at [[The Hideout Theatre]] in which the audience called edits and new scenes.
 

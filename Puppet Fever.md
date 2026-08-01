@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name	=	Puppet Fever	
-|Picture=	Puppet Fever.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=	[[Puppet Improv Project]]
-|Director =	[[Topping Haggerty]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Gene Joe]] | [[Kimberly Cox]] | [[Peter Rogers]] | [[Sara Farr]] | [[Topping Haggerty]] }}
-|Music= [[Michael Brockman]]
-|Run	=	Jun 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Puppet Fever</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Puppet Fever.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Topping Haggerty]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Puppet Improv Project]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Michael Brockman]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Clay Towery]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Gene Joe]]</li><!--
+  --><li style="">[[Kimberly Cox]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jun 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Puppet Fever*** was an improvised puppet musical.
 
 ## History

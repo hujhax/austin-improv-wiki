@@ -1,11 +1,46 @@
-{{Infobox Show
-  |Name     = The Free Fringe
-  |Director = Various
-  |Theater  = [[The Hideout Theatre]]
-  |Cast     = Various
-  |Picture  = Free Fringe Poster.jpg
-  |Run    = 2012-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Free Fringe</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Free Fringe Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2012-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Free Fringe*** is a performance slot at [[The Hideout Theatre]].
 

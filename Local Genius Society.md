@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Local Genius Society
-|Picture =     Lgs_grouphug.jpg
-|Cast	=	{{Unbulleted list | [[Karen Jane DeWitt]] | [[Nicole Beckley]] | [[Ryan Austin]] | [[Zac Grantham]] }}
-|Years	=		2010-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Local Genius Society</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Lgs grouphug.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style="">[[Zac Grantham]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 ![[LGSpatch.jpg|Local Genius Society custom club jacket crest. Designed by [[Ryan Austin]]. Each object on the crest represents a member of the cast at the time of design.]]
 

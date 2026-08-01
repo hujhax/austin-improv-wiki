@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name	=		Drew's Improv Gym
-|Picture	=       Drew's Improv Gym.jpg
-|Theater =	{{Unbulleted list| [[Independent]] | [[ColdTowne Conservatory]]}}
-|Director =		[[Drew Wesely]]
-|Cast	=		Various
-|Run	=		March 2015-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Drew's Improv Gym</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Drew's Improv Gym.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Independent]]</li><!--
+  --><li style="">[[ColdTowne Conservatory]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Drew Wesely]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">March 2015-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Drew's Improv Gym*** is a weekly improv jam at 7:00 pm Fridays, at ColdTowne Conservatory, 6929 Airport Blvd.  
 
 ## Summary

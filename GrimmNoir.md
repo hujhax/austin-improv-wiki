@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name	=		GrimmNoir
-|Picture	=	GrimmNoir.jpg
-|Director = [[Mike Kinald]]
-|Assistant Director = [[David Lampe]]
-|Cast	=	{{ Unbulleted list | **Original Shows:** | [[David Lampe]] | [[Eric Heiberg]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Justin Davis]] | [[Kareem Badr]] | [[Mike Kinald]] | [[Ruby Willmann]] | [[Topping Haggerty]] |  |  **Mainstage Run:** | [[Alex Ayala]] | [[Brad Hawkins]] | [[Chad Wellington]] | [[Chuy Zarate]] | [[Claudio Fox]] | [[David Lampe]] | [[Emily Breedlove]] | [[Heidi Penix]] | [[Heidi Rogers]] | [[Kevin Miller]] | [[Leng Wong]] | [[Luke Wallens]] | [[Madeline Jo Chauvin]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Ryan Hill]] | [[Topping Haggerty]] | [[Tyler Lane]] }}
-| Tech = {{Unbulleted list | [[Cindy Page]] | [[Lindsey McGowen]] | [[Sarah Hutchins]] }}
-|Run	=	{{Unbulleted list | 2012 | Feb/Mar 2015 }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">GrimmNoir</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[GrimmNoir.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Mike Kinald]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[David Lampe]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">**Original Shows:**</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Justin Davis]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Mike Kinald]]</li><!--
+  --><li style="" >[[Ruby Willmann]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style="">**Mainstage Run:**</li><!--
+  --><li style="">[[Alex Ayala]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[Chuy Zarate]]</li><!--
+  --><li style="">[[Claudio Fox]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Heidi Penix]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="">[[Kevin Miller]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style="">[[Madeline Jo Chauvin]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style="">[[Tyler Lane]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><li style="">[[Lindsey McGowen]]</li><!--
+  --><li style="">[[Sarah Hutchins]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">2012</li><!--
+  --><li style="">Feb/Mar 2015</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***GrimmNoir*** (also styled *Grimm Noir*) is an [[Institution Theater]] mainstage show that combines [[Wikipedia - film noir|film noir]] with *[[Wikipedia - Grimm's Fairy Tales|Grimm's Fairy Tales]]*.
 

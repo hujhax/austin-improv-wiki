@@ -1,10 +1,92 @@
-{{Infobox Show
-|Name	=	Lord Wensleydale's<br>Last High Tea	
-|Picture = Lord Wensleydale's Last High Tea.jpg				
-|Director =	[[Parallelogramophonograph]]				
-|Cast	= {{Unbulleted list | [[Alex Baia]] | [[Andreas Fabis]] | [[Bridget Brewer]] | [[Emma Holder]] | [[Halyn Lee Erickson]] | [[Irene White]] | [[Jayme Ramsay]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Pseudonyms|Madeline M.]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Peter Rogers]] | [[Thedward Blevins]] | [[Valerie Ward]] }}
-|Run	= Saturday April 27 2013				
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Lord Wensleydale's<br>Last High Tea</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Lord Wensleydale's Last High Tea.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Parallelogramophonograph]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Baia]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Irene White]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="" >[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Saturday April 27 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Lord Wensleydale's Last High Tea*** was an improvised, interactive farce performed as part of Digestible Feats in the 2013 Fusebox Festival.
 

@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	History Under the Influence
-|Picture = History Under the Influence Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast = {{Unbulleted list | [[Caeriel Crestin]] | [[David Lampe]] | [[Jillian Summar]] | [[Kevin Miller]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Ryan Hill]] | [[Thedward Blevins]] | [[Melissa Patterson]]  }}
-|Director = [[Kevin Miller]]
-|Tech	=	[[Lindsey McGowen]]
-|Run = May 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">History Under the Influence</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[History Under the Influence Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Kevin Miller]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Jillian Summar]]</li><!--
+  --><li style="">[[Kevin Miller]]</li><!--
+  --><li style="">[[Mitchell Deane]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style="" >[[Melissa Patterson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Lindsey McGowen]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***History Under the Influence*** was an improv format inspired by the YouTube/Comedy Central series *Drunk History*. Almost all shows featured [[Kevin Miller]] as the drunken narrator with a rotating cast.
 

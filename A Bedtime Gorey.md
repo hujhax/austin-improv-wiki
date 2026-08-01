@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name	=		A Bedtime Gorey				
-|Picture	=	A Bedtime Gorey.jpg				
-|Theater =		[[The Hideout Theatre]]
-|Director =		[[Valerie Ward]]
-|Run=							Nov/Dec 2013
-|Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Alex Baia]] | [[Andreas Fabis]] | [[Cat Drago]] | [[Jason Vines]] | [[Jayme Ramsey]] | [[Kaci Beeler]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Nicole Oliver]] | [[Ruby Willmann]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">A Bedtime Gorey</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[A Bedtime Gorey.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Valerie Ward]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Alex Baia]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jayme Ramsey]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="" >[[Mia Iseman]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Nov/Dec 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***A Bedtime Gorey*** was a mainstage show at [[The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
 

@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=	Goat
-|Cast	=	{{Unbulleted list|[[Brad Hawkins]]|[[Heidi Caldwell]] |[[Alexander Hilary]] |[[Sam Schak]] }}
-|Picture=    GoatLogo.gif
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Goat</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[GoatLogo.gif]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-2013</td>
+		</tr>
 
-|Years	=		2012-2013
-}}
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Heidi Caldwell]]</li><!--
+  --><li style="">[[Alexander Hilary]]</li><!--
+  --><li style="">[[Sam Schak]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Goat** was a troupe specializing in improvised tragedy.
 

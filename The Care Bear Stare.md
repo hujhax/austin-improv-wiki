@@ -1,13 +1,153 @@
-{{Infobox Show
-|Name	=	The Care Bear Stare
-|Picture = Care Bears.jpg
-|Director = {{Unbulleted list | [[Roy Janik]] | [[Ryan Hill]] }}
-|Run = Jun 2013
-|Subsequent Runs = Jun 2014
-|Theater=	[[The Hideout Theatre]]
-|Cast = {{Unbulleted list | [[Roy Janik]] | [[John Ratliff]] | [[Josh Gill]] | [[Kareem Badr]] | [[Cat Drago]] | [[Lisa Jackson]]}}
-|Directors = {{Unbulleted list | [[Ryan Hill]] [[Roy Janik]]}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Care Bear Stare</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Care Bears.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[John Ratliff]]</li><!--
+  --><li style="">[[Josh Gill]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Jun 2013</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Jun 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Care Bear Stare*** was an improv format inspired by the Care Bears cartoons and the planning for the [[44 Hour Improv Marathon]].
 

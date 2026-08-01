@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Only 90% Effective
-|Picture	=	Only 90% Effective.jpg
-|Cast	=	{{Unbulleted list | [[Aaron Krebs]] | [[Amy Blackard]] | [[Andy Fisher]] | [[Brently Heilbron]] | [[Eric Biffle]] | [[Jessy Schwartz]] | [[Jon Wiley]] | [[Leon Mandel]] | [[Neil Shah]] | [[Victoria Osbourne]] }}
-|Years	=		1995-2000
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Only 90% Effective</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Only 90% Effective.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">1995-2000</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Krebs]]</li><!--
+  --><li style="">[[Amy Blackard]]</li><!--
+  --><li style="">[[Andy Fisher]]</li><!--
+  --><li style="">[[Brently Heilbron]]</li><!--
+  --><li style="">[[Eric Biffle]]</li><!--
+  --><li style="">[[Jessy Schwartz]]</li><!--
+  --><li style="">[[Jon Wiley]]</li><!--
+  --><li style="">[[Leon Mandel]]</li><!--
+  --><li style="" >[[Neil Shah]]</li><!--
+  --><li style="">[[Victoria Osbourne]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Only 90% Effective** (AKA **ONPE**) was an improv and sketch troupe.
 

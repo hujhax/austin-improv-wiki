@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Bad Example
-|Picture	=	Bad Example.jpg
-|Cast	=	{{Unbulleted list | [[Ariel Greenspoon]] | [[Cody Cartagena]] | [[Jeff Whitaker]] | [[Micheal Foulk]] | [[Olivia Doud]] | [[Roxy Castillo]] }}
-|Years	=		2013-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bad Example</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Bad Example.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ariel Greenspoon]]</li><!--
+  --><li style="">[[Cody Cartagena]]</li><!--
+  --><li style="">[[Jeff Whitaker]]</li><!--
+  --><li style="">[[Micheal Foulk]]</li><!--
+  --><li style="">[[Olivia Doud]]</li><!--
+  --><li style="">[[Roxy Castillo]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Bad Example** is a sketch troupe that performs monthly at [[The New Movement]].
 

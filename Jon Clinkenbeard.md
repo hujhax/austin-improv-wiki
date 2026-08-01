@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jon Clinkenbeard	
-|Picture =	Jon Clinkenbeard Pic.jpg
-|Theater=	Various
-|Years	=	2007-2011
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jon Clinkenbeard</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jon Clinkenbeard Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-2011</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jon Clinkenbeard** is an improv performer.
 

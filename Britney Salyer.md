@@ -1,9 +1,75 @@
-{{Infobox Performer
-|Name	=	Britney Salyer	
-|Picture =	Britney Salyer Pic.jpg
-|Theater=	{{Unbulleted list | [[The Institution Theater]] | [[Salvage Vanguard Theater]] }}
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Britney Salyer</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Britney Salyer Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[The Institution Theater]]</li><!--
+  --><li style="">[[Salvage Vanguard Theater]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Britney Salyer** is an improv performer.
 

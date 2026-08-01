@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Craig Kotfas	
-|Picture =	Craig Kotfas Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	1998-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Craig Kotfas</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Craig Kotfas Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1998-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Craig Kotfas** is an improv performer.
 

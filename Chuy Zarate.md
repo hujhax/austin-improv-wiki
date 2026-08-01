@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Chuy Zarate
-|Picture =      Chuy Zarate.jpg
-|Theater=	Various
-|Years	=	1982-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Chuy Zarate</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Chuy Zarate.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1982-Present</td>
+		</tr>
+
+	</table>
+</div>
 [[Category/Performers|Zarate]]
 [[Category/Teachers|Zarate]]
 

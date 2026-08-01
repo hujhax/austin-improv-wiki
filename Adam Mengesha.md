@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Adam Mengesha
-|Picture =	Adam Mengesha Headshot.jpg
-|Theater=	Various
-|Years	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Adam Mengesha</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Adam Mengesha Headshot.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Adam Mengesha** is an improv performer who works primarily with [[The Institution Theater]].
 

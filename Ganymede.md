@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Ganymede
-|Picture =     GanymedeTmp.jpg
-|Cast	=	{{Unbulleted list | [[Kareem Badr]] | [[Quinn Buckner]] | [[Walter Nichols]] | [[Megan Sherrod]]}}
-|Years	=		2016-
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Ganymede</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[GanymedeTmp.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2016-</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style="">[[Walter Nichols]]</li><!--
+  --><li style="">[[Megan Sherrod]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Ganymede** 
 

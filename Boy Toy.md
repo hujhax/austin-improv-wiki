@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Boy Toy
-|Picture	=	Boy Toy.jpg
-|Cast	=	{{ Unbulleted list | [[Alison Alvarez]] | [[Arthur Simone]] | [[Brent Foshee]] | [[Clay Crenshaw]] | [[Cortnie Jones]] | [[David Hess]] | [[Jared Stepp]] | [[Josh Krilov]] | [[Katie Sicking]] | [[Liz Brammer]] }}
-|Years	=		2009-2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Boy Toy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Boy Toy.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alison Alvarez]]</li><!--
+  --><li style="">[[Arthur Simone]]</li><!--
+  --><li style="">[[Brent Foshee]]</li><!--
+  --><li style="">[[Clay Crenshaw]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[David Hess]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Josh Krilov]]</li><!--
+  --><li style="" >[[Katie Sicking]]</li><!--
+  --><li style="">[[Liz Brammer]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Boy Toy** was an improv troupe.
 

@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Four Stories Tall 
-|Picture	=	Four Stories Tall .jpg
-|Cast	=	{{ Unbulleted list | [[Alec Bainter]] | [[John Manzer]] | [[Monk Landry]] | [[Ryan Farley]] | [[Thomas Scruggs]] }}
-|Director = [[Jeremy Sweetlamb]]
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Four Stories Tall</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Four Stories Tall .jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Jeremy Sweetlamb]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alec Bainter]]</li><!--
+  --><li style="">[[John Manzer]]</li><!--
+  --><li style="">[[Monk Landry]]</li><!--
+  --><li style="">[[Ryan Farley]]</li><!--
+  --><li style="">[[Thomas Scruggs]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Four Stories Tall ** is a teen-improv troupe.
 

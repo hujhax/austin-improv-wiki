@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name	=	The Suitcase	
-|Picture=	The Suitcase.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Asaf Ronen]]
-|Assistant Director = [[Jason Vines]]
-|Cast	=	{{Unbulleted list|[[Alexander Hilary]] | [[Andrew Robinson]] | [[Clifton Highfield]] | [[David Lampe]] | [[Jason Vines]] | [[Jeanette Jones]] | [[Jen Kaplan]] | [[Kayla Lane Freeman]] | [[Nicole Beckley]] | [[Samantha schak]] | [[Wyatt Tall]]}}
-|Tech	=	{{Unbulleted list | [[Adriane Shown]] | [[Cortney DeAngelo]]}}
-|Run	=	May/Jun 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Suitcase</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Suitcase.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Jason Vines]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alexander Hilary]]</li><!--
+  --><li style="">[[Andrew Robinson]]</li><!--
+  --><li style="">[[Clifton Highfield]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jeanette Jones]]</li><!--
+  --><li style="">[[Jen Kaplan]]</li><!--
+  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style="" >[[Nicole Beckley]]</li><!--
+  --><li style="">[[Samantha schak]]</li><!--
+  --><li style="">[[Wyatt Tall]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adriane Shown]]</li><!--
+  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 *The Suitcase* was a mainstage show at [[The Institution Theater]].
 

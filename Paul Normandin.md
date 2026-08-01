@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Paul Normandin	
-|Picture =	Paul Normandin Pic.jpg
-|Theater=	[[Merlin Works Institute for Improvisation]]
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Paul Normandin</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Paul Normandin Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[Merlin Works Institute for Improvisation]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Paul Normandin** is an Storyteller and Improv performer who works primarily with [[Merlin Works Institute for Improvisation]] and [[The Hideout Theatre]].
 

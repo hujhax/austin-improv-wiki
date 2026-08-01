@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Pack of Cigarettes & Some Milk
-|Cast	=	{{Unbulleted list | [[Adam Trabka]] | [[Amy Wright]] | [[Emily McDonald]] | [[Ian Townsend]] | [[Jake Millward]] | [[Jared Robertson]] | [[Javier Ungo]] | [[Julia Salas]] | [[Kasey Borger]] | [[Steve Moore]] }}
-|Years	=		2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Pack of Cigarettes & Some Milk</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Trabka]]</li><!--
+  --><li style="">[[Amy Wright]]</li><!--
+  --><li style="">[[Emily McDonald]]</li><!--
+  --><li style="">[[Ian Townsend]]</li><!--
+  --><li style="">[[Jake Millward]]</li><!--
+  --><li style="">[[Jared Robertson]]</li><!--
+  --><li style="">[[Javier Ungo]]</li><!--
+  --><li style="">[[Julia Salas]]</li><!--
+  --><li style="" >[[Kasey Borger]]</li><!--
+  --><li style="">[[Steve Moore]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Pack of Cigarettes & Some Milk** was a one-off *[[Cagematch]]* team.
 

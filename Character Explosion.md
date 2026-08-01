@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Character Explosion
-|Picture	=	Character Explosion.jpg
-|Cast 	=	{{ Unbulleted list | [[Carolyn Gjertsen]] | [[Jenn Hamm]] | [[Kathleen McFerren]] | [[Nichole Bennett]] | [[Nick Amsden]] | [[Timothy Coyle]] | [[Zach Leos]] }}
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Character Explosion</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Character Explosion.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Carolyn Gjertsen]]</li><!--
+  --><li style="">[[Jenn Hamm]]</li><!--
+  --><li style="">[[Kathleen McFerren]]</li><!--
+  --><li style="">[[Nichole Bennett]]</li><!--
+  --><li style="">[[Nick Amsden]]</li><!--
+  --><li style="">[[Timothy Coyle]]</li><!--
+  --><li style="">[[Zach Leos]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Character Explosion** is an improv troupe.
 
@@ -60,7 +129,58 @@ The five students / recent graduates of the Hideout Theatre who played in the fr
 
 ### Alumni
 Alumni
-{{ Unbulleted list | [[Bonnie Dilber]] | [[Chris Villafano]] | [[Cagney Ortiz]] | [[Joy Parks]] | [[Lahari Samineni]] | [[Robert Slack]] | [[Sushant Sethi]] }}
+<div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bonnie Dilber]]</li><!--
+  --><li style="">[[Chris Villafano]]</li><!--
+  --><li style="">[[Cagney Ortiz]]</li><!--
+  --><li style="">[[Joy Parks]]</li><!--
+  --><li style="">[[Lahari Samineni]]</li><!--
+  --><li style="">[[Robert Slack]]</li><!--
+  --><li style="">[[Sushant Sethi]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div>
 
 ## Media
 ### Videos

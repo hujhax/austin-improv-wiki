@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Lazer Wolf
-|Picture	=	LazerWolf.jpg
-|Cast	=	{{Unbulleted list|[[Eileen Alter]]|[[Rob Chenoweth]]|[[Elaine Chung]]|[[Leyla Cohlmia]]|[[Rachel Creason]]|[[Ryan Hill]]|[[Lisa Hurst]]|[[Dimitri Khosrowpour]]|[[Tania Quintanilla]]}}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Lazer Wolf</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[LazerWolf.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Eileen Alter]]</li><!--
+  --><li style="">[[Rob Chenoweth]]</li><!--
+  --><li style="">[[Elaine Chung]]</li><!--
+  --><li style="">[[Leyla Cohlmia]]</li><!--
+  --><li style="">[[Rachel Creason]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Lisa Hurst]]</li><!--
+  --><li style="">[[Dimitri Khosrowpour]]</li><!--
+  --><li style="" >[[Tania Quintanilla]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Lazer Wolf** is an musical improv troupe that grew out of a [[Merlin Works]] improvised singing class.
 

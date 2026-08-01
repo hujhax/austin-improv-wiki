@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name	=	The Joss Whedon<br/>Pajama Party 	
-|Picture=	The Joss Whedon Pajama Party.jpg
-|Theater=	[[The Institution Theater]]
-|Director = {{Unbulleted list | [[Asaf Ronen]] | [[Chelley Pyatt]] | [[Jordan T. Maxwell]] }}
-|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Alex Kingston]] | [[Alexa Ramirez]] | [[Asaf Ronen]] | [[Chad Wellington]] | [[Chelley Pyatt]] | [[Cindy Page]] | [[Courtney DeAngelo]] | [[David Higgins]] | [[David Zimmerman]] | [[Heath Allyn]] | [[Heidi Rogers]] | [[Jason Vines]] | [[Jeremy Logan]] | [[Jordan T. Maxwell]] | [[Kristin Firth]] | [[Laura Komkov]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Sarah Swofford]] | [[Stephen Robinson]] | [[Tyler Bryce]] }}
-|Tech= {{Unbulleted list | [[Chelley Pyatt]] | [[Cindy Page]] }}
-|Run	=	Jun 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Joss Whedon<br/>Pajama Party</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Joss Whedon Pajama Party.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Mengesha]]</li><!--
+  --><li style="">[[Alex Kingston]]</li><!--
+  --><li style="">[[Alexa Ramirez]]</li><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><li style="">[[Courtney DeAngelo]]</li><!--
+  --><li style="" >[[David Higgins]]</li><!--
+  --><li style="">[[David Zimmerman]]</li><!--
+  --><li style="">[[Heath Allyn]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jeremy Logan]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Laura Komkov]]</li><!--
+  --><li style="">[[Mitchell Deane]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Sarah Swofford]]</li><!--
+  --><li style="">[[Stephen Robinson]]</li><!--
+  --><li style="">[[Tyler Bryce]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jun 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***The Joss Whedon Pajama Party*** was a sketch and improv revue themed around the works of Joss Whedon.
 
 ## Summary

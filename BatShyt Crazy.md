@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	BatShyt Crazy
-|Picture =      The Special Features.jpg
-|Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Nancy Lyon]] | [[Beth Doughty]] | [[Megan Thornton]] | [[Sandra Ybarra]] | [[Devon Ragsdale]] | [[Mike Carrion]] | [[Adam Worries]] | [[Taylor Howe]] |  [[Kevin Machate]] | [[Cindy Page]] | [[Gene Zhou]]}}
-|Years	=	2011-2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">BatShyt Crazy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Special Features.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style="">[[Nancy Lyon]]</li><!--
+  --><li style="">[[Beth Doughty]]</li><!--
+  --><li style="">[[Megan Thornton]]</li><!--
+  --><li style="">[[Sandra Ybarra]]</li><!--
+  --><li style="">[[Devon Ragsdale]]</li><!--
+  --><li style="">[[Mike Carrion]]</li><!--
+  --><li style="">[[Adam Worries]]</li><!--
+  --><li style="" >[[Taylor Howe]]</li><!--
+  --><li style="">[[Kevin Machate]]</li><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><li style="">[[Gene Zhou]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 BatShyt Crazy was a puppet sketch-comedy show.
 

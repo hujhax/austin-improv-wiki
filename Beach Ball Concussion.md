@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Beach Ball Concussion
-|Picture	=	Beach Ball Concussion.jpg
-|Cast	=	{{ Unbulleted list | [[Anna Giacomo]] | [[Brad Smith]] | [[Brett Weaver]] | [[Jessica von Schramm]] | [[Noah Wright]] | [[Patrick Yonkin]] | [[Rhett O'Hara]] | [[Vicky Vegh]] }}
-|Years	=		2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Beach Ball Concussion</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Beach Ball Concussion.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Anna Giacomo]]</li><!--
+  --><li style="">[[Brad Smith]]</li><!--
+  --><li style="">[[Brett Weaver]]</li><!--
+  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><li style="">[[Noah Wright]]</li><!--
+  --><li style="">[[Patrick Yonkin]]</li><!--
+  --><li style="">[[Rhett O'Hara]]</li><!--
+  --><li style="">[[Vicky Vegh]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Beach Ball Concussion** was an improv troupe.
 

@@ -2,10 +2,27 @@ Born December 11th, 1991
 6'0"
 White Dude
 
-{{Infobox Performer
-|Name	=	Nicholas Marino	
-|Picture =	.jpg
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Nicholas Marino</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">None</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">Unknown</td>
+		</tr>
+
+	</table>
+</div>
 
 
 Shows: 

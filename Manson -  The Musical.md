@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name = Manson: The Musical	
-|Picture =	Manson - The Musical.jpg
-|Theater = [[The Institution Theater]]
-|Director =	[[Tom Booker]]
-|Cast =	{{Unbulleted list | [[Ashley Lowe]] | [[Beth Shea]] | [[David Lampe]] | [[Heath Allyn]] | [[Heidi Caldwell]] | [[Joel Ausanka Reese]] | [[Josh Gill]] | [[Kevin Machate]] | [[Laura Komkov]] | [[Madeline Chauvin]] | [[Robin Anderson]] | [[Roxy Castillo]] | [[Steve Glazer]] | [[Tom Booker]] }}
-|Tech = {{Unbulleted list | [[Carissa McAtee]] | [[Doug Ewart]] | [[Joel Ausanka Reese]] | [[Tom Booker]] }}
-|Run	=	May 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Manson: The Musical</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Manson - The Musical.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Lowe]]</li><!--
+  --><li style="">[[Beth Shea]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Heath Allyn]]</li><!--
+  --><li style="">[[Heidi Caldwell]]</li><!--
+  --><li style="">[[Joel Ausanka Reese]]</li><!--
+  --><li style="">[[Josh Gill]]</li><!--
+  --><li style="">[[Kevin Machate]]</li><!--
+  --><li style="" >[[Laura Komkov]]</li><!--
+  --><li style="">[[Madeline Chauvin]]</li><!--
+  --><li style="">[[Robin Anderson]]</li><!--
+  --><li style="">[[Roxy Castillo]]</li><!--
+  --><li style="">[[Steve Glazer]]</li><!--
+  --><li style="">[[Tom Booker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Carissa McAtee]]</li><!--
+  --><li style="">[[Doug Ewart]]</li><!--
+  --><li style="">[[Joel Ausanka Reese]]</li><!--
+  --><li style="">[[Tom Booker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Manson: The Musical*** was a scripted musical about 60s cult leader [[Wikipedia - Charles Manson|Charles Manson]].
 

@@ -1,11 +1,148 @@
-{{Infobox Show
-|Name = The Hustle Show	
-|Picture =	The Hustle Show.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	{{Unbulleted list | [[David Jara]] (co-host) | [[Mac Blake]] (co-host)}}
-|Cast = {{Unbulleted list | [[Courtney Sevener]] | [[Curtis Luciani]] | [[Jeff Whitaker]] | [[Sam Malcolm]] | [[Scott Raney]] | [[Tre Fuentes]] | [[Ximena Estrada]] }}
-|Run	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Hustle Show</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Hustle Show.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[David Jara]] (co-host)</li><!--
+  --><li style="">[[Mac Blake]] (co-host)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Courtney Sevener]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Jeff Whitaker]]</li><!--
+  --><li style="">[[Sam Malcolm]]</li><!--
+  --><li style="">[[Scott Raney]]</li><!--
+  --><li style="">[[Tre Fuentes]]</li><!--
+  --><li style="">[[Ximena Estrada]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2012-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Hustle Show*** is a variety show. 
 

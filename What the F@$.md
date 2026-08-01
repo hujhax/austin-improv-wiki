@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=		What the F@*$
-|Picture = What the F@*$.jpg			
-|Theater =		[[The Hideout Theatre]]
-|Director =		[[Ruby Willmann]]
-|Assistant Director =		[[Caeriel Crestin]]
-|Run=							Feb 2014
-|Cast	=		{{Unbulleted list | [[Adrienne Brown]] | [[Chris Albano]] | [[David Schwartz]] | [[Emma Czarnecki]] | [[Judith Schomp]] | [[Lindsay Hejl]] | [[Manuel Duran]] | [[Melissa Patterson]] | [[Michael Guy Bowman]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">What the F@*$</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[What the F@$.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Ruby Willmann]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Caeriel Crestin]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adrienne Brown]]</li><!--
+  --><li style="">[[Chris Albano]]</li><!--
+  --><li style="">[[David Schwartz]]</li><!--
+  --><li style="">[[Emma Czarnecki]]</li><!--
+  --><li style="">[[Judith Schomp]]</li><!--
+  --><li style="">[[Lindsay Hejl]]</li><!--
+  --><li style="">[[Manuel Duran]]</li><!--
+  --><li style="">[[Melissa Patterson]]</li><!--
+  --><li style="" >[[Michael Guy Bowman]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***What the F@*$*** (the symbols can vary) was the first student mainstage production at [[The Hideout Theatre]].
 

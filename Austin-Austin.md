@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Austin/Austin
-|Picture =     AustinAustinPromo.jpg
-|Cast	=	{{Unbulleted list | [[Ryan Austin]] | [[Quinn Buckner]] }}
-|Years	=		2014-
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Austin/Austin</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[AustinAustinPromo.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Austin/Austin** (said Austin and Austin) is a duo of friends Ryan Austin and Quinn Buckner with the conscious goal of creating a long term troupe capable of doing regular shows and attending festivals. The duo was conceptualized in early 2014 (earliest email they can find is from 1/16/14) when after many months of throwing around the name "Austin and Austin" they had their first rehearsal and confirmed wanting to start a duo. The name Austin/Austin comes from Quinn Buckner's first name (Austin) and Ryan Austin's last name. 
 

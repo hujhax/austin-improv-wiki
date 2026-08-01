@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Ammie Nicole Leonards	
-|Picture =	Ammie Nicole Leonards Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Ammie Nicole Leonards</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Ammie Nicole Leonards Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **Ammie Nicole Leonards** is an actress.  She played Zoe in *[[Live TV Tuesdays -  Firefly]]*.
 

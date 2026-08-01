@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Heidi Caldwell	
-|Picture =	Heidi Caldwell Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2009-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Heidi Caldwell</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Heidi Caldwell Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Heidi Caldwell** is an improv performer.
 

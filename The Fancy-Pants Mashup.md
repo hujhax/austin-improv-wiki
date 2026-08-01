@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	The Fancy-Pants Mashup
-|Picture = 	Dance_Battle.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast=		Varies
-|Director =	[[Lacy Shawn]]	
-|Run	=	Oct 2010-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Fancy-Pants Mashup</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Dance Battle.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Lacy Shawn]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2010-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***The Fancy-Pants Mashup*** is a shortform show featuring two-person scenes.
 
 It is part of *[[The Wheel]]*.

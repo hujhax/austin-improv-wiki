@@ -1,12 +1,83 @@
-{{Infobox Troupe
-|Name	=	Apocalypse (troupe)
-|Picture=	Apocalypse (troupe).jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=	[[Gnap! Theater Projects]]
-|Director =	[[Andreas Fabis]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Brent Unger]] | [[Chad Wellington]] | [[Dana Yanoshak]] | [[Heidi Rogers]] | [[Paul Normandin]] | [[Robin Anderson]] | [[Ryan Hill]] }}<b></b>
-|Years = 2010-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Apocalypse (troupe)</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Apocalypse (troupe).jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Andreas Fabis]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Brent Unger]]</li><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Robin Anderson]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div><b></b></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 :*This page refers to the troupe that performed a La Ronde set in a post-apocalyptic world.  For the similarly-themed [[Gnap! Theater Projects]] mainstage show, see [[Apocalypse! (show)]].*
 

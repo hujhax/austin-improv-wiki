@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name = Family Tides	
-|Picture =	Family Tides.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	Unknown
-|Cast =	{{Unbulleted list | [[Ashley Franks]] | [[Brad Hawkins]] | [[Brad Temple]] | [[Cody Dearing]] | [[Kate Bojanek]] | [[Lisa Jackson]] | [[Mac Blake]] }}
-|Run	=	Sep 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Family Tides</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Family Tides.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Unknown</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Franks]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Brad Temple]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Kate Bojanek]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Mac Blake]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Family Tides*** was an improv show that drew inspiration from family stories supplied by the audience.
 

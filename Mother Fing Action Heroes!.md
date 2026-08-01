@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Mother F***ing Action Heroes!
-|Picture	=	Mother F***ing Action Heroes!.jpg
-|Cast	=	{{ Unbulleted list | [[Aaron Roxby]] | [[Cassidy Santaguida]] | [[Chris Sebilia]] | [[Jared Stepp]] | [[Jason Oliver]] | [[Maitland Lederer]] | [[Steve Jaffe]] | [[Zac Grantham]] }}
-|Director = [[Jason Oliver]]
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Mother F***ing Action Heroes!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Mother Fing Action Heroes!.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Jason Oliver]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Roxby]]</li><!--
+  --><li style="">[[Cassidy Santaguida]]</li><!--
+  --><li style="">[[Chris Sebilia]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Jason Oliver]]</li><!--
+  --><li style="">[[Maitland Lederer]]</li><!--
+  --><li style="">[[Steve Jaffe]]</li><!--
+  --><li style="">[[Zac Grantham]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Mother F***ing Action Heroes!** was an improv troupe.
 

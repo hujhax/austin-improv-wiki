@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		3, 2, 1, Kill!
-|Picture	=	3, 2, 1, Kill!.jpg
-|Cast	=	{{Unbulleted list | [[Andy Crouch]] | [[Arthur Simone]] | [[Bob McNichol]] | [[Ceej Allen]] | [[Chris Trew]] | [[Dave Buckman]] | [[Erika May McNichol]] | [[Jill Morris]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Pseudonyms|Madeline M.]] | [[Michael Jastroch]] | [[Rachel Madorsky]] | [[Roy Janik]] | [[Tami Nelson]] | [[Valerie Ward]] | [[Wesley Bain]] }}
-|Years	=		2006-2008
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">3, 2, 1, Kill!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[3, 2, 1, Kill!.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2006-2008</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Arthur Simone]]</li><!--
+  --><li style="">[[Bob McNichol]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Chris Trew]]</li><!--
+  --><li style="">[[Dave Buckman]]</li><!--
+  --><li style="">[[Erika May McNichol]]</li><!--
+  --><li style="">[[Jill Morris]]</li><!--
+  --><li style="" >[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="">[[Rachel Madorsky]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Tami Nelson]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style="">[[Wesley Bain]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **3, 2, 1, Kill!** was an improv troupe that showed improvised movies.
 

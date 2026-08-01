@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Chris Villafano	
-|Picture =	Chris Villafano Pic.jpg
-|Theater=	[[The Hideout Theatre]],[[ColdTowne Theater]],[[The New Movement]],[[The Institution Theater]],[[Merlin Works]]
-|Years	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Chris Villafano</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Chris Villafano Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]],[[ColdTowne Theater]],[[The New Movement]],[[The Institution Theater]],[[Merlin Works]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 Chris Villafano is an improv performer in Austin, Tx. He's one of the few improvisers that is actively pursuing the MITCH (Merlin Works, Institution,The New Movement, ColdTowne, and Hideout).
 

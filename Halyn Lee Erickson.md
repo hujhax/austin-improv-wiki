@@ -1,9 +1,24 @@
-{{Infobox Performer
-| Name	  = Halyn Lee Erickson
-| Picture = Halyn_Lee_Erickson.png
-| Theater = [[The Hideout Theatre]]
-| Years   = 2009-2015
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Halyn Lee Erickson</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Halyn Lee Erickson.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-2015</td>
+		</tr>
+
+	</table>
+</div>
  
 **Halyn Lee Erickson** is an improv performer.
 

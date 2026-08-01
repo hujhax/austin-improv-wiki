@@ -1,14 +1,107 @@
-{{Infobox Show
-|Name = Back in Townsville	
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Chris McKeever]]
-|Producer =     [[Chaz Formichella]] | Tim | [[Nicole McCracken]]
-|Assistant Director =  [[Scott Hearne]]
-|Head Writer = Tim
-|Writers = [[Chaz Formichella]] | Tim | [[Nicole McCracken]] | [[Nathan Sowell]] | [[Drew Wesely]] | [[Calan lambert]]
-|Cast =	{{Unbulleted list | [[Nicole McCracken]] | [[Nathan Sowell]] | [[Drew Wesely]] | [[Chaz Formichella]] | [[Joseph Dailey]] | [[Katie Thorton]] | [[Brett Tribe]] | [[Arian Brumby]] | [[Katie Thorton]] | [[Jillian Besemer]] }}
-|Run	=	April/May 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Back in Townsville</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Show Default Image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Chris McKeever]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Scott Hearne]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Chaz Formichella]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Nicole McCracken]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Chaz Formichella]]</li><!--
+  --><li style="">[[Joseph Dailey]]</li><!--
+  --><li style="">[[Katie Thorton]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Arian Brumby]]</li><!--
+  --><li style="" >[[Katie Thorton]]</li><!--
+  --><li style="">[[Jillian Besemer]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">April/May 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Back In Townsville*** (full name: ***Back In Townsville: Townsville Community Center***) was a scripted comedic play written by members of Nice Astronaut, written as a follow-up to *[[Townsville#MacDaddy.27s Bar .26 Grill|Townsville: MacDaddy's Bar & Grill]]*.
 

@@ -3,4 +3,6 @@
 
 Photo by [[Sarah Swofford]] from [http://www.flickr.com/photos/oob_pics/8024433868/sizes/k/in/photostream/ flickr].
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	You Think You're So Smart
-|Picture = You Think You're So Smart Poster.jpg
-|Director =	[[Justin Davis]]	
-|Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[John Ratliff]] | [[Justin Davis]] | [[Mia Iseman]] | [[Peter Rogers]] | [[Valerie Ward]] }}
-|Theater = [[The Institution Theater]]
-|Run	=	Sep 2013
-|Subsequent Runs = Jul/Aug 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">You Think You're So Smart</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[You Think You're So Smart Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Justin Davis]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[John Ratliff]]</li><!--
+  --><li style="">[[Justin Davis]]</li><!--
+  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Sep 2013</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Jul/Aug 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***You Think You're So Smart*** is an improvised panel show in the style of British programs like *[[Wikipedia - QI|QI]]*, *[[Wikipedia - Never Mind the Buzzcocks|Never Mind the Buzzcocks]]*, and *[[Wikipedia - Would I Lie to You (TV series)|Would I Lie to You?]]*
 

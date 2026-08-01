@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Box Social
-|Picture	=	The Box Social.jpg
-|Cast	=	{{ Unbulleted list | [[Annette Cantu]] | [[David Jara]] | [[Lance Gilstrap]] | [[Mac Blake]] | [[Michael Pedicano]] | [[Ximena Estrada]] }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Box Social</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Box Social.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Annette Cantu]]</li><!--
+  --><li style="">[[David Jara]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Mac Blake]]</li><!--
+  --><li style="">[[Michael Pedicano]]</li><!--
+  --><li style="">[[Ximena Estrada]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Box Social** was an improvised reality dating show.
 

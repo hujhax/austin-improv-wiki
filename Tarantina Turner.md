@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Tarantina Turner
-|Picture =		Tarantina Turner.jpg
-|Cast	=	{{Unbulleted list | [[Brent Foshee]] | [[Brian Engravalle]] | [[Cortnie Jones]] | [[Josh Gill]] | [[Sandra Markarian]] | [[Teresa Kubos]] }}
-|Years	=		2009
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Tarantina Turner</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Tarantina Turner.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brent Foshee]]</li><!--
+  --><li style="">[[Brian Engravalle]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Josh Gill]]</li><!--
+  --><li style="">[[Sandra Markarian]]</li><!--
+  --><li style="">[[Teresa Kubos]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Tarantina Turner** was a one-off *[[Cagematch]]* team that performed a Close Quarters format.
 

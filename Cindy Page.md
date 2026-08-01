@@ -1,11 +1,26 @@
-{{Pseudonym}}
+*This article employs a [[Pseudonyms|Pseudonym]].  Please do not replace that pseudonym with a real name without that person's permission.*
 
-{{Infobox Performer
-|Name	=	Cindy Page
-|Picture = Cindy Page Pic.jpg	
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Cindy Page</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Cindy Page Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Cindy Page** is a technical improviser, improv performer, musician, and Co-Technical Director of [[The Hideout Theatre]].
 

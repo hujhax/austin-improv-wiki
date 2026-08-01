@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Ka-Baam!!
-|Picture=	Ka-Baam!! Logo.png
-|Theater=	[[The Hideout Theatre]]	
-|Director =	[[Asaf Ronen]]
-|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Audrey Rachel Sansom]] | [[Eric Heiberg]] | [[Erik Adams]] | [[Jason Vines]] | [[Jon Clinkenbeard]] | [[Justin Davis]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Michael Thomas]] | [[Patrick Daniel]] | [[Roy Janik]] | [[Sarah Marie Curry]] | [[Troy Miller]] }}
-|Run	=	May/Jun 2008
-|Subsequent Runs =	Sep/Oct 2009
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Ka-Baam!!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Ka-Baam!! Logo.png]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aden Kirschner]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Erik Adams]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jon Clinkenbeard]]</li><!--
+  --><li style="">[[Justin Davis]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="" >[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Michael Thomas]]</li><!--
+  --><li style="">[[Patrick Daniel]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">May/Jun 2008</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Sep/Oct 2009</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Ka-Baam!!*** (often written in all-caps: ***KA-BAAM!!***) was a mainstage show at [[The Hideout Theatre]].
 

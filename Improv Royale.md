@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Improv Royale
-|Picture	=	Improv Royale.jpg
-|Cast	=	{{ Unbulleted list | [[Brent Foshee]] | [[Brett Tribe]] | [[Bryan Roberts]] | [[Dave Buckman]] | [[Jericho Thorpe]] | [[Lance Gilstrap]] | [[Nick Ramirez]] | [[Todd Schaenbacher]] }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Improv Royale</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Improv Royale.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brent Foshee]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Bryan Roberts]]</li><!--
+  --><li style="">[[Dave Buckman]]</li><!--
+  --><li style="">[[Jericho Thorpe]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Nick Ramirez]]</li><!--
+  --><li style="">[[Todd Schaenbacher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 :*This page refers to the 2011 improv troupe based around pro-wrestler persona-prov.  For the 2014 [[ColdTowne]] mainstage run based on pro-wrestling-based Saturday morning cartoons, see *[[Slam Team Six]]''.
 **Improv Royale** was an improv troupe with pro-wrestling-style persona-prov.
 

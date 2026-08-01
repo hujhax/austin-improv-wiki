@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	The Wheel
-|Picture = 	The Wheel.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast=		Varies
-|Director =	Varies
-|Run	=	Sep 2010-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Wheel</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Wheel.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep 2010-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***The Wheel*** is the rotating set of Friday 8pm shows at [[The Hideout Theatre]].
 
 ## History

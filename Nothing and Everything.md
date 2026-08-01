@@ -1,14 +1,214 @@
-{{Infobox Show
-|Name	=		Nothing and Everything				
-|Picture	=	Nothing and Everything.jpg				
-|Theater =		[[The Hideout Theatre]]
-|Director =		[[Jon Bolden]]
-|Assistant Director = {{Unbulleted list | [[Dave Yakubik]] | [[Rachel Posey Austin]] }}
-|Run=							Nov/Dec 2014
-|Subsequent Runs = Aug 2015
-|Tech=		{{Unbulleted list | [[Cortney DeAngelo]] | [[Lindsey McGowen]] | [[Michael Yew]]   }}
-|Cast	=		{{Unbulleted list | [[Andrew Buck]] | [[Cat Drago]] | [[Courtney Hopkin]] | [[Jordan T. Maxwell]] | [[Kaci Danger]] | [[Kareem Badr]] | [[Marc Majcher]] | [[Megan Sherrod]] | [[Peter Rogers]] | [[Troy A. Miller]] | [[Valerie Ward]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Nothing and Everything</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Nothing and Everything.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jon Bolden]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Dave Yakubik]]</li><!--
+  --><li style="">[[Rachel Posey Austin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kaci Danger]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Megan Sherrod]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style="">[[Troy A. Miller]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><li style="">[[Lindsey McGowen]]</li><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Nov/Dec 2014</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Aug 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Nothing and Everything*** was a narrative improv show inspired by the works of [[Wikipedia - Anton Chekhov|Anton Chekhov]].  It was a mainstage show at [[The Hideout Theatre]].
 

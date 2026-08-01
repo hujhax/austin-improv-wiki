@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Gravy
-|Picture	=	GravyReunion.jpg
-|Cast	=	{{ Unbulleted list | [[Ace Manning]] | [[Craig Kotfas]] | [[Jeremy Sweetlamb]] | [[Michael Joplin]] | [[Mike D'Alonzo]] | [[Shannon McCormick]] }}
-|Years	=		2002-2004.
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Gravy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[GravyReunion.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2002-2004.</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Craig Kotfas]]</li><!--
+  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Mike D'Alonzo]]</li><!--
+  --><li style="">[[Shannon McCormick]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Gravy** was an improv troupe.
 

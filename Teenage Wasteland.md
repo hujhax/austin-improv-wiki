@@ -1,13 +1,153 @@
-{{Infobox Show
-|Name               = Teenage Wasteland
-|Picture            = Teenage Wasteland.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Jordan T. Maxwell]]
-|Run                = October 2015
-|Cast               = 
-{{Unbulleted list | [[Hanna AbuZayed]] | [[Johnny Anzollitto]] | [[Jason Burnett]] | [[Rachel Denton]] | [[Kyle Grier]] | [[Margaret Rose Hunsicker]] | [[Chase Pritchett]] | [[Danielle Saar]] | [[Jessica Soos]] }}
-|Tech               = {{Unbulleted list | [[Jackie Skinner]] (sound effects) | [[Joe Anetnucci]] (lights) | [[Lahari Samineni]] (scoring) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Teenage Wasteland</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Teenage Wasteland.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jordan T. Maxwell]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Hanna AbuZayed]]</li><!--
+  --><li style="">[[Johnny Anzollitto]]</li><!--
+  --><li style="">[[Jason Burnett]]</li><!--
+  --><li style="">[[Rachel Denton]]</li><!--
+  --><li style="">[[Kyle Grier]]</li><!--
+  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
+  --><li style="">[[Chase Pritchett]]</li><!--
+  --><li style="">[[Danielle Saar]]</li><!--
+  --><li style="" >[[Jessica Soos]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jackie Skinner]] (sound effects)</li><!--
+  --><li style="">[[Joe Anetnucci]] (lights)</li><!--
+  --><li style="">[[Lahari Samineni]] (scoring)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">October 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Teenage Wasteland*** was the October 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].  It depicted an end-of-high-school party à la *[[Wikipedia - Can't Hardly Wait|Can't Hardly Wait]]*.
 

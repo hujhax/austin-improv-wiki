@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Karen Jane DeWitt	
-|Picture =	Karen Jane DeWitt Pic.jpg
-|Theater=	The Hideout Theatre
-|Years	=	2009-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Karen Jane DeWitt</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Karen Jane DeWitt Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">The Hideout Theatre</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Karen Jane DeWitt** is an improv performer.
 

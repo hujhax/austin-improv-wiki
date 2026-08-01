@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name               = One Small Step
-|Picture            = One-Small-Step-Poster-2015-web-small.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = {{Unbulleted list | [[Andreas Fabis]] | [[Jessica Arjet]] }}
-|Run                = Feb 2015
-|Cast               = {{Unbulleted list | [[Amanda Hinsman]] | [[Aspen Webster]] | [[Cagney Ortiz]] | [[Chris Canada]] | [[Cindy Page]] | [[Courtney Ray Goodson]] | [[David Ronn]] | [[Luis Salinas]] }}
-|Tech               = {{Unbulleted list | [[Donnie Garcia]] (sound) | [[Ripley Adams]] (lights) }}
-|Tech Director = [[Michael Yew]]
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">One Small Step</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[One-Small-Step-Poster-2015-web-small.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Michael Yew]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amanda Hinsman]]</li><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style="">[[Cagney Ortiz]]</li><!--
+  --><li style="">[[Chris Canada]]</li><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><li style="">[[Courtney Ray Goodson]]</li><!--
+  --><li style="">[[David Ronn]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Donnie Garcia]] (sound)</li><!--
+  --><li style="">[[Ripley Adams]] (lights)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***One Small Step*** was the February 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]]. The run was extended with an extra show on March 7th. 
 

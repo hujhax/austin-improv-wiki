@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jason Finkelman
-|Picture =	JF pic.jpg
-|Theater =      Various
-|Years =        2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jason Finkelman</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[JF pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 __NOINDEX__
 **Jason Finkelman** is an Austin improvisor.
 

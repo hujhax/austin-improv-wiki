@@ -1,10 +1,134 @@
-{{Infobox Troupe
-|Name	=	The Escorts
-|Picture =     The_Escorts_2014.jpg
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Lindsey Reeves]] | [[Aaron Saenz]] (2014-Present) | [[Shannon Dale Stott]] (2015-Present)}}
-|Past Members = {{Unbulleted list | [[Alex Dobrenko]] (2011-2013) | [[Marc Majcher]] (2011-2015) | [[Ruby Willmann]] (2011-2015)}}
-|Years	=		2011-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Escorts</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Escorts 2014.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Lindsey Reeves]]</li><!--
+  --><li style="">[[Aaron Saenz]] (2014-Present)</li><!--
+  --><li style="">[[Shannon Dale Stott]] (2015-Present)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Past Members</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Dobrenko]] (2011-2013)</li><!--
+  --><li style="">[[Marc Majcher]] (2011-2015)</li><!--
+  --><li style="">[[Ruby Willmann]] (2011-2015)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Escorts** are an improv troupe that perform monoscenes and "strange attractor" as their formats.
 

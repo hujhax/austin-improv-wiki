@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Sparklepants
-|Cast	=	{{Unbulleted list | [[Andy O'Meara]] | [[Billy Smith]] | [[Brad Knox]] | [[Bradford Hardie]] | [[Jennifer Karydas]] | [[Liz Butler]] | [[Stephanie Hagemeister]] | [[Stephanie Redding Hardie]] }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Sparklepants</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy O'Meara]]</li><!--
+  --><li style="">[[Billy Smith]]</li><!--
+  --><li style="">[[Brad Knox]]</li><!--
+  --><li style="">[[Bradford Hardie]]</li><!--
+  --><li style="">[[Jennifer Karydas]]</li><!--
+  --><li style="">[[Liz Butler]]</li><!--
+  --><li style="">[[Stephanie Hagemeister]]</li><!--
+  --><li style="">[[Stephanie Redding Hardie]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Sparklepants** was a one-off *[[Cagematch]]* team.
 

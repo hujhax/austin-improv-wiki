@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Sugarbakers
-|Picture	=	Sugarbakers.jpg
-|Cast	=	{{Unbulleted list | [[Karen Jane DeWitt]] | [[Katie Thornton]] | [[Kayla Lane Freeman]] | [[Lindsey Reeves]] }}
-|Years	=		2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Sugarbakers</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Sugarbakers.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style="">[[Lindsey Reeves]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Sugarbakers** was an improv troupe.
 

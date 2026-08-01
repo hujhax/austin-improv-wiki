@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Snackers
-|Picture =     Snackers.png
-|Cast	=	{{Unbulleted list | [[Albert Im]] (2007-2008) | [[Courtney Hopkin]] | [[Eric Heiberg]] | [[James Roberts]] | [[Katie Thornton]] | [[Mark Carpenter]] }}
-|Years	=		2007-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Snackers</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Snackers.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Albert Im]] (2007-2008)</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[James Roberts]]</li><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="">[[Mark Carpenter]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Snackers** was an improv troupe. 
 

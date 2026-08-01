@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Guestful Doubts
-|Cast	=	{{ Unbulleted list | [[Barrett Phelan]] | [[Ceej Allen]] | [[Content Love Knowles]] | [[Dana Yanoshak]] | [[Heidi Rogers]] }}
-|Years	=		2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Guestful Doubts</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Barrett Phelan]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Content Love Knowles]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Guestful Doubts** was an improv troupe.
 

@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		The Laff Staff
-|Picture	=	The Laff Staff.jpg
-|Cast	=	{{Unbulleted list | [[Andy Weisberg]] | [[Angela Davis]] | [[Chris Bonno]] | [[De Lewellen]] | [[Ed Toutant]] | [[Joe Coleman]] (pianist) | [[Mike Emody]] | [[Robert Faires]] }}
-|Director =	[[Rodney Rincon]]
-|Years	=		1987-1993
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Laff Staff</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Laff Staff.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">1987-1993</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Rodney Rincon]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Weisberg]]</li><!--
+  --><li style="">[[Angela Davis]]</li><!--
+  --><li style="">[[Chris Bonno]]</li><!--
+  --><li style="">[[De Lewellen]]</li><!--
+  --><li style="">[[Ed Toutant]]</li><!--
+  --><li style="">[[Joe Coleman]] (pianist)</li><!--
+  --><li style="">[[Mike Emody]]</li><!--
+  --><li style="">[[Robert Faires]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Laff Staff** was an improv troupe that had a run at [[Cap City Comedy Club]] in the late 80s and early 90s.
 

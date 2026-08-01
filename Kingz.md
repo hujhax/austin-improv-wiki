@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Kingz
-|Picture	=	Kingz.jpg
-|Cast	=	{{ Unbulleted list | [[Arian Brumby]] | [[Cene Hale]] | [[Emma Holder]] | [[Lisa Jackson]] | [[Meredith Roberts]] | [[Molly Moore]] | [[Xaria Coleman]]}}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Kingz</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Kingz.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Arian Brumby]]</li><!--
+  --><li style="">[[Cene Hale]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Meredith Roberts]]</li><!--
+  --><li style="">[[Molly Moore]]</li><!--
+  --><li style="">[[Xaria Coleman]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Kingz** is an improv troupe of women in drag.
 

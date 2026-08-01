@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name	=	Only Three Will Survive	
-|Picture=	Only Three Will Survive.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Asaf Ronen]]
-|Assistant Director = [[Allison Asher]]
-|Cast	=	{{Unbulleted list|[[Tyler Booker]] | [[Kathy Rose Center]] | [[Megan Moten]] | [[Taylor Overstreet]] | [[Heidi Rogers]] | [[David Rosenbaum]] | [[Lacy Shawn]] | [[Luke Wallens]] | [[Wyatt Tall]] | [[Ruby Willmann]]}}
-|Tech	=	[[Cindy Page]]
-|Run	=	Jul/Aug 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Only Three Will Survive</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Only Three Will Survive.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Allison Asher]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Tyler Booker]]</li><!--
+  --><li style="">[[Kathy Rose Center]]</li><!--
+  --><li style="">[[Megan Moten]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="">[[David Rosenbaum]]</li><!--
+  --><li style="">[[Lacy Shawn]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style="" >[[Wyatt Tall]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Cindy Page]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul/Aug 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Only Three Will Survive*** (often written with a trailing ellipsis: ***Only Three Will Survive...***) was a mainstage show at [[The Institution Theater]].
 

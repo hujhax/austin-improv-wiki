@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Delta Burka
-|Picture	=	Delta Burka.jpg
-|Cast	=	{{ Unbulleted list | [[Britt Wright]] | [[Danu Uribe]] | [[Michael Domangue]] | [[Mike Breese]] | [[Vanessa Gonzalez]] | [[Yamina Khouane]] }}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Delta Burka</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Delta Burka.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Britt Wright]]</li><!--
+  --><li style="">[[Danu Uribe]]</li><!--
+  --><li style="">[[Michael Domangue]]</li><!--
+  --><li style="">[[Mike Breese]]</li><!--
+  --><li style="">[[Vanessa Gonzalez]]</li><!--
+  --><li style="">[[Yamina Khouane]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Delta Burka** was an improv troupe.
 

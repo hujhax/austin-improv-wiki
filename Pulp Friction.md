@@ -1,15 +1,153 @@
-{{Infobox Show
-|Name	=	Pulp Friction	
-|Picture=	Pulp Friction poster.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Brett Tribe]] | [[Chris Allen]] | [[Clifton Highfield]] | [[Eric Heiberg]] | [[Heidi Rogers]] | [[Joe Ricks]] | [[Laura Komkov]] | [[Mia Iseman]] | [[Michael Joplin]] | [[Taylor Overstreet]] }}
-|Run	=	Sep/Oct 2012
-|Tech	=	{{Unbulleted list
-| [[Carl Ziegler]]
-| [[Chelley Pyatt]]
-| [[Wyatt Tall]]}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Pulp Friction</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Pulp Friction poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Chris Allen]]</li><!--
+  --><li style="">[[Clifton Highfield]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="">[[Joe Ricks]]</li><!--
+  --><li style="">[[Laura Komkov]]</li><!--
+  --><li style="" >[[Mia Iseman]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Carl Ziegler]]</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[Wyatt Tall]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep/Oct 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Pulp Friction*** was an improvised longform narrative show inspired by the works of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]].
 

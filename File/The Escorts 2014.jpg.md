@@ -6,4 +6,4 @@ From left to right: [[Andreas Fabis]], [[Marc Majcher]], [[Lindsey Reeves]], [[R
 Photo by: unknown.
 
 ## Licensing
-{{Free license}}
+The owner of this image has granted free use of this file with no restrictions.

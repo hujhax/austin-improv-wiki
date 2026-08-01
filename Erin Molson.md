@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Erin Molson	
-|Picture =	Erin Molson Pic.jpg
-|Theater=	Various
-|Years	=	2008-2010, 2015-present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Erin Molson</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Erin Molson Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-2010, 2015-present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Erin Molson** is an improv performer.
 

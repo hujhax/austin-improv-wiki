@@ -1,12 +1,148 @@
-{{Infobox Show
-|Name	=	Sexy Future Space Lady	
-|Picture = sexyfuturespacelady.jpg
-|Director = {{Unbulleted list | [[Courtney Hopkin]] }}
-|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Adam Pabbason]] | [[Alex Walker]] | [[Courtney Hopkin]] | [[Esperanza Rivadeneira]] | [[Frank Sánchez]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Mallory Schlossberg]] | [[Monica Mahertinez]] | [[Patrick Creamer]] | [[Rachel Posey Austin]] | [[Ryan Austin]] | [[Shannon McCormick]] }}
-|Crew= {{Unbulleted list | [[Annie Shortt]] | [[Biz Gilmore]] | [[Brad Geiger]] | [[Brad Hawkins]] | [[Cindy Page]] | [[Jenn Hamm]] | [[Lindsey McGowen]] | [[Michael Yew]] }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	May-Jun 2018
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Sexy Future Space Lady</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Sexyfuturespacelady.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Adam Pabbason]]</li><!--
+  --><li style="">[[Alex Walker]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Esperanza Rivadeneira]]</li><!--
+  --><li style="">[[Frank Sánchez]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="" >[[Katie Dahm]]</li><!--
+  --><li style="">[[Mallory Schlossberg]]</li><!--
+  --><li style="">[[Monica Mahertinez]]</li><!--
+  --><li style="">[[Patrick Creamer]]</li><!--
+  --><li style="">[[Rachel Posey Austin]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style="">[[Shannon McCormick]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May-Jun 2018</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Sexy Future Space Lady*** was a Hideout mainstage show inspired by *[http://en.wikipedia.org/wiki/Barbarella_(film) Barbarella]*.
 

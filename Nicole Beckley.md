@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Nicole Beckley	
-|Picture =	Nicole Beckley Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Nicole Beckley</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Nicole Beckley Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Nicole Beckley** is an improviser and sketch writer/performer.
 

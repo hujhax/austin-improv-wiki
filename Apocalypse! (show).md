@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name	=	Apocalypse! (show)
-|Picture=	Apocalypse (Show).jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=	[[Gnap! Theater Projects]]
-|Director =	[[Brandon Salinas]]
-|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Andreas Fabis]] | [[Audrey Rachel Sansom]] | [[Avimaan Syam]] | [[James Roberts]] | [[Jason Vines]] | [[Julie Gillis]] | [[Justin Davis]] | [[Katie Thornton]] | [[Madi Goff]] | [[Mark Carpenter]] | [[Meghan Wolff]] | [[Michael Thomas]] | [[Topping Haggerty]] }}
-|Tech	=	[[Audrey Rachel Sansom]]
-|Run	=	Mar/Apr 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Apocalypse! (show)</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Apocalypse (Show).jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Brandon Salinas]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aden Kirschner]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Avimaan Syam]]</li><!--
+  --><li style="">[[James Roberts]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Julie Gillis]]</li><!--
+  --><li style="">[[Justin Davis]]</li><!--
+  --><li style="" >[[Katie Thornton]]</li><!--
+  --><li style="">[[Madi Goff]]</li><!--
+  --><li style="">[[Mark Carpenter]]</li><!--
+  --><li style="">[[Meghan Wolff]]</li><!--
+  --><li style="">[[Michael Thomas]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Audrey Rachel Sansom]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar/Apr 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 :''This page refers to the [[Gnap! Theater Projects]] mainstage show based on post-apocalyptic fiction.  For the similarly-themed troupe that performed a La Ronde set in a post-apocalyptic world, see [[Apocalypse (troupe)]].
 ***Apocalypse!* (show)** refers to ***Apocalypse!*** (often written all-lower-case: ***apocalypse!***), an improvised longform mainstage show based on post-acopalyptic stories such as *[[Wikipedia - The Road Warrior|The Road Warrior]]* and *[[Wikipedia - The Walking Dead|The Walking Dead]]*.

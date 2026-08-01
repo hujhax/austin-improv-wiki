@@ -1,8 +1,24 @@
-{{Infobox Performer
-|Name	=	Chris McKeever	
-|Picture =	ChrisMcKeever.jpg
-|Years	=	2013-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Chris McKeever</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[ChrisMcKeever.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">None</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Chris McKeever** is an improviser, sketch writer, instructor, and director.
 

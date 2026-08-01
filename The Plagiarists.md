@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=	The Plagiarists
-|Picture =     The Plagiarists.jpg
-|Cast	=	{{Unbulleted list | [[Asaf Ronen]] | [[Jon Clinkenbeard]] | [[Kacey Samiee]] | [[Kristin Firth]] | [[Marc Majcher]] }}
-|Director = Asaf Ronen
-|Years	=		2009-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Plagiarists</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Plagiarists.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">Asaf Ronen</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style="">[[Jon Clinkenbeard]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 : *This page refers to the narrative troupe in which each player improvised in the style of a particular playwright.  For the narrative troupe in which each player improvises in a particular genre, see [[The Library]].*
 
 **The Plagiarists** were a narrative improv troupe in which each participant adopted the style of a different playwright.

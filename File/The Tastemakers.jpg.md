@@ -4,4 +4,6 @@
 Photo by [[Claudio Fox]], from [http://www.facebook.com/claudio.fox.5/media_set?set=a.701276873227144.1073741879.100000345135257&type=3 this photoset].
 
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

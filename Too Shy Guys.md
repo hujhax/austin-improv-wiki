@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Too Shy Guys
-|Picture =     2shy2.jpg
-|Cast	=	{{Unbulleted list | [[Chris Casey]] | [[Greg Mihalik]] | [[David Rosenbaum]] (music)}}
-|Years	=		2016-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Too Shy Guys</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[2shy2.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2016-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chris Casey]]</li><!--
+  --><li style="">[[Greg Mihalik]]</li><!--
+  --><li style="">[[David Rosenbaum]] (music)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Too Shy Guys** is a musical improv duo.
 

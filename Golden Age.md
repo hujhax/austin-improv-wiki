@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Golden Age
-|Picture =     Golden Age.jpg
-|Cast	=	{{Unbulleted list | [[Pseudonyms|Alessandra T.]] | [[Andrew Basile]] | [[Cody Greenlee]] | [[Dave Michaels]] | [[Jake Milward]] | [[Joseph Dailey]] | [[Matt Needles]] | [[Nathan Sowell]] | [[Will Casto]] }}
-|Years	=		2012-2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Golden Age</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Golden Age.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Pseudonyms|Alessandra T.]]</li><!--
+  --><li style="">[[Andrew Basile]]</li><!--
+  --><li style="">[[Cody Greenlee]]</li><!--
+  --><li style="">[[Dave Michaels]]</li><!--
+  --><li style="">[[Jake Milward]]</li><!--
+  --><li style="">[[Joseph Dailey]]</li><!--
+  --><li style="">[[Matt Needles]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style="" >[[Will Casto]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Golden Age** is an improv troupe.
 

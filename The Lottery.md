@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	The Lottery
-|Picture = 	The Lottery.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast=		Various
-|Director =	[[Roy Janik]]	
-|Run	=	Oct 2010-Jan 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Lottery</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Lottery.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2010-Jan 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 **The Lottery** was a show at [[The Hideout Theatre]] where four audience winners got to do a montage show with an experienced Hideout cast.
 

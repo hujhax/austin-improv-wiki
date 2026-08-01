@@ -1,15 +1,214 @@
-{{Infobox Show
-|Name	=	The Well-Made Play 
-|Picture = wellmadeplay poster.jpg
-|Director = {{Unbulleted list | [[Lindsey McGowen]] | [[Peter Rogers]] }}
-|Technical Director = [[Nichole Bennett]]
-|Cast	=	{{Unbulleted list | [[Alan Buttars]] | [[Amanda Chang]] | [[Bonnie Dilber]] | [[Christian Lewis]] | [[Cristy Salinas Lynch]] | [[Gabriela Vargas]] | [[Jeffrey Chatman]] | [[Shane Gannaway]] }}
-|Tech = {{Unbulleted list | [[Andre K. Buchanan]] | [[Brad Geiger]] | [[Daniel Ellsworth]] }}
-|Stage Manager = [[Marc Majcher]]
-|Dramaturg = [[Christopher Anderson]]
-|Theater = [[The Hideout Theatre]]
-|Run	=	August 2018
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Well-Made Play</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Wellmadeplay poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Lindsey McGowen]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Dramaturg(s)</th>
+			<td class="category">[[Christopher Anderson]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Stage Manager(s)</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alan Buttars]]</li><!--
+  --><li style="">[[Amanda Chang]]</li><!--
+  --><li style="">[[Bonnie Dilber]]</li><!--
+  --><li style="">[[Christian Lewis]]</li><!--
+  --><li style="">[[Cristy Salinas Lynch]]</li><!--
+  --><li style="">[[Gabriela Vargas]]</li><!--
+  --><li style="">[[Jeffrey Chatman]]</li><!--
+  --><li style="">[[Shane Gannaway]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andre K. Buchanan]]</li><!--
+  --><li style="">[[Brad Geiger]]</li><!--
+  --><li style="">[[Daniel Ellsworth]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">August 2018</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Well-Made Play*** is a Hideout student mainstage show inspired by [http://en.wikipedia.org/wiki/Well-made_play the theatrical format of the same name].  It focuses on a small group of relatives or old friends, meeting for the first time in a while, one of whom harbors an awful secret.
 

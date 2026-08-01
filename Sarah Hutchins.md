@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Sarah Hutchins	
-|Picture =	Sara Hutchins.jpg
-|Theater=	[[The Hideout Theater]]
-|Years	=	2014-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Sarah Hutchins</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Sara Hutchins.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Sarah Hutchins** is an improv performer who works primarily with [[The Hideout Theatre]].
 

@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=		I Love You So Much				
-|Picture	=	I Love You So Much.jpg				
-|Theater =		[[The Hideout Theatre]]
-|Director =		[[Jessica Arjet]], [[Roy Janik]]
-|Run=							Jan/Feb 2014
-|Tech =	{{Unbulleted list | [[Dean Palm]] | [[Luke Wallens]] }}
-|Cast	=		{{Unbulleted list | [[Aaron Saenz]] | [[Andreas Fabis]] | [[Andrew Buck]] | [[Bridget Brewer]] | [[Jen Kaplan]] | [[Jordan T. Maxwell]] | [[Karen Jane DeWitt]] | [[Katie Dahm]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Ryan Austin]] | [[Ryan Hill]] | [[Sam Schak]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">I Love You So Much</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[I Love You So Much.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jessica Arjet]], [[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Jen Kaplan]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Sam Schak]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Dean Palm]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan/Feb 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) was a mainstage show at [[The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
 

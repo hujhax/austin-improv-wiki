@@ -1,10 +1,29 @@
-{{Infobox Theater
-|Name	=		The Spider House
-|Picture =		Spider House Logo.jpg
-|Address	=	2908 Fruth Street
-|Homepage	=	http://spiderhousecafe.com/
-|Years	=		2009
-}}
+<div>
+	<table class="infobox infobox-theater">
+		<tr>
+			<th colspan="2" class="infobox-header">The Spider House</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Spider House Logo.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Address</th>
+			<td class="category">2908 Fruth Street</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Homepage</th>
+			<td class="category">http://spiderhousecafe.com/</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Years of Operation</th>
+			<td class="category">2009</td>
+		</tr>
+	</table>
+</div>
 
 **The Spider House** is an coffeehouse that has occasionally hosted improv productions.
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Scout
-|Picture	=	Scout.jpg
-|Cast	=	{{ Unbulleted list | [[Ann Potter]] | [[Ashley Franks]] | [[Cody Dearing]] | [[Danny Catlow]] | [[Jericho Thorp]] | [[John Brewster]] | [[Joshua Philips]] | [[Sam Malcolm]] | [[Sam Malcom]] }}
-|Years	=		2011-2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Scout</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Scout.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ann Potter]]</li><!--
+  --><li style="">[[Ashley Franks]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Danny Catlow]]</li><!--
+  --><li style="">[[Jericho Thorp]]</li><!--
+  --><li style="">[[John Brewster]]</li><!--
+  --><li style="">[[Joshua Philips]]</li><!--
+  --><li style="">[[Sam Malcolm]]</li><!--
+  --><li style="" >[[Sam Malcom]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Scout** was an improv troupe.
 

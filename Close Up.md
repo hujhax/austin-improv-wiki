@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name               = Close Up
-|Picture            = Close Up.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = {{Unbulleted list | [[Caeriel Crestin]] | [[Jessica Arjet]] }}
-|Run                = August 2015
-|Cast               = {{Unbulleted list | [[Angie Smith]] | [[Aspen Webster]] | [[Cagney Ortiz]] | [[Jenna Howard]] | [[Kenny Madison]] | [[Kelly Campbell]] | [[Luis Salinas]] | [[Suzanne Link]] }}
-|Tech               = {{Unbulleted list | [[Josh Farmer]] (sound) | [[Nick Amsden]] (lights) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Close Up</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Close Up.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Angie Smith]]</li><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style="">[[Cagney Ortiz]]</li><!--
+  --><li style="">[[Jenna Howard]]</li><!--
+  --><li style="">[[Kenny Madison]]</li><!--
+  --><li style="">[[Kelly Campbell]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style="">[[Suzanne Link]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Josh Farmer]] (sound)</li><!--
+  --><li style="">[[Nick Amsden]] (lights)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">August 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Close Up*** (original working title: **Single Camera Comedy**) was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

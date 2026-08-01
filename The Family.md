@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	The Family	
-|Picture=	The Family Pic.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer= [[Gnap! Theater Projects]]
-|Director =	[[Michael Joplin]]
-|Cast	=	{{Unbulleted list | [[Aron Taylor]] | [[Deano Jones]] | [[Elizabeth Bigger]] | [[Erin Molson]] | [[Gary Richardson]] | [[Hugo Vargas-Zesati]] | [[Jonathan Euseppi]] | [[Pseudonyms|Madeline M.]] | [[Ron Weisberg]] }}
-|Run	=	Feb/Mar 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Family</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Family Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Michael Joplin]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aron Taylor]]</li><!--
+  --><li style="">[[Deano Jones]]</li><!--
+  --><li style="">[[Elizabeth Bigger]]</li><!--
+  --><li style="">[[Erin Molson]]</li><!--
+  --><li style="">[[Gary Richardson]]</li><!--
+  --><li style="">[[Hugo Vargas-Zesati]]</li><!--
+  --><li style="">[[Jonathan Euseppi]]</li><!--
+  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
+  --><li style="" >[[Ron Weisberg]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb/Mar 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Family*** was an ensemble-devised mob drama produced by [[Gnap! Theater Projects]] and performed at [[Salvage Vanguard Theater]] in 2010.
 

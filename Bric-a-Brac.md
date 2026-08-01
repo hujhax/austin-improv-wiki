@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Bric-a-Brac
-|Picture =     BricABracPromo2.jpg
-|Cast	=	{{Unbulleted list | [[Quinn Buckner]] | [[Chelsea Bunn]] | [[Patrick Creamer]] | [[Shannon Stott]] | [[Alex Walker]] }}
-|Years	=		2017-
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bric-a-Brac</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[BricABracPromo2.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2017-</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style="">[[Chelsea Bunn]]</li><!--
+  --><li style="">[[Patrick Creamer]]</li><!--
+  --><li style="">[[Shannon Stott]]</li><!--
+  --><li style="">[[Alex Walker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Bric-a-Brac** formed from the heart of a party god.
 

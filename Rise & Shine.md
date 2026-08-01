@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=		Rise & Shine
-|Cast	=	{{Unbulleted list|[[Jon Bolden]]|[[Curtis Luciani]]|[[Valerie Ward]]}}
-|Picture= Rise_shine.jpg
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Rise & Shine</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Rise shine.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2010</td>
+		</tr>
 
-|Years	=		2009-2010
-}}
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 *Rise & Shine* was an improvised morning talk show parody of *[[Wikipedia - Regis and Kelly#2001.E2.80.9311 -  Live.21 with Regis and Kelly|Regis & Kelly]]* and regional/local morning talk shows.  Each episode took place in real time as if it were being recorded (a monoscene).
 

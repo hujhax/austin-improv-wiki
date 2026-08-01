@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name = Improv Anonymous	
-|Picture =	Improv Anonymous.jpg
-|Theater = [[The Institution Theater]]
-|Director =	[[Kenny Madison]]
-|Cast =	[[Paul Normandin]] (host) and guests
-|Tech = Varies
-|Run	=	2015 - Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Improv Anonymous</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Improv Anonymous.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Kenny Madison]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">[[Paul Normandin]] (host) and guests</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">Varies</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2015 - Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Improv Anonymous*** is a show that uses interviews and improv to explore mental health issues such as addiction, anxiety, and depression.
 

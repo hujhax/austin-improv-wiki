@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Cheap Date
-|Picture =     Cheap Date.jpg
-|Cast	=	{{Unbulleted list | [[Alejandro Garcia]] | [[Andrew Basile]] | [[Chrissy Shackelford]] | [[Jessica Marpe]] | [[Matt Needles]] | [[Naomi Perryman]] | [[Nathan Sowell]] | [[Will Casto]] }}
-|Years	=		2013-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Cheap Date</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Cheap Date.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alejandro Garcia]]</li><!--
+  --><li style="">[[Andrew Basile]]</li><!--
+  --><li style="">[[Chrissy Shackelford]]</li><!--
+  --><li style="">[[Jessica Marpe]]</li><!--
+  --><li style="">[[Matt Needles]]</li><!--
+  --><li style="">[[Naomi Perryman]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style="">[[Will Casto]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Cheap Date** is an improv troupe.
 

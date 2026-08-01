@@ -2,12 +2,26 @@
 ## Usage
 This template lists standard, useful information about an improv performer.
 <pre>
-{{Infobox TestInfoBox
-|Name	=		
-|Picture=	
-|Theater=			
-|Years	=	
-}}
+<div>
+	<table class="infobox">
+		<tr>
+			<th colspan="2" ></th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" >
+				![[]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row">Primary Theater</th>
+			<td class="category"></td>
+		</tr>
+		<tr class="">
+			<th scope="row" s>Years Active</th>
+			<td class="category"></td>
+		</tr>
+	</table>
+</div>
 </pre>
 
 
@@ -29,20 +43,20 @@ This template lists standard, useful information about an improv performer.
 <div>
 	<table class="infobox">
 		<tr>
-			<th colspan="2" >{{{Name|Performer Name}}}</th>
+			<th colspan="2" >Performer Name</th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" >
-				![[{{{Picture]]
+				![[Performer Default Image.png]]
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row">Primary Theater</th>
-			<td class="category">{{{Theater|None}}}</td>
+			<td class="category">None</td>
 		</tr>
 		<tr class="">
 			<th scope="row" s>Years Active</th>
-			<td class="category">{{{Years|Unknown}}}</td>
+			<td class="category">Unknown</td>
 		</tr>
 	</table>
 </div>

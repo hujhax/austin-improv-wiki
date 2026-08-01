@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Ellen Pizarek	
-|Picture =	Ellen.jpg
-|Theater=	[[The Hideout Theatre]] & [[The Institution Theater]]
-|Years	=	2010-2012, 2015-present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Ellen Pizarek</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Ellen.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]] & [[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-2012, 2015-present</td>
+		</tr>
+
+	</table>
+</div>
 
 ## History
 Ellen began taking improv classes at the [[Hideout Theatre]] in November of 2010 as a way to make new friends in the new city of Austin. She continued through level six at the Hideout, and also participated in Levels 1 and 2 at [[Merlin Works]]. She performed in [[Maestro]], [[Fancy Pants]], and a few [[Free Fringe]] performances. In April of 2012, she was cast by [[Kevin Miller]] in the troupe [[Kosher Bacon]] at a MerlinWorks mixer. The troupe went on to perform a run of shows at the [[Salvage Vanguard Theater]] with their format "Underwaged". Later in 2012, Ellen participated as an adjunct performer and puppet tech for the black light puppet show "[[Off the Reef]]" produced by [[Sara Farr]] and directed by [[Dave Buckman]]. 

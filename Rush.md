@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Rush
-|Picture	=	Rush.jpg
-|Cast	=	{{ Unbulleted list | [[Ashley Seibels]] | [[Emily McDonald]] | [[Jon Bolden]] | [[Juliet Prather]] | [[Kim Dilling]] | [[Luke Wallens]] | [[Matt Stoner]] | [[Matt Vaughn]] | [[Ricky Oliphant]] | [[Steve Moore]] | [[Tevis Paxton]] }}
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Rush</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Rush.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Seibels]]</li><!--
+  --><li style="">[[Emily McDonald]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Juliet Prather]]</li><!--
+  --><li style="">[[Kim Dilling]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style="">[[Matt Stoner]]</li><!--
+  --><li style="">[[Matt Vaughn]]</li><!--
+  --><li style="" >[[Ricky Oliphant]]</li><!--
+  --><li style="">[[Steve Moore]]</li><!--
+  --><li style="">[[Tevis Paxton]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Rush** (often written all-caps: **RUSH**) is a [[ColdTowne Student Troupe]].
 

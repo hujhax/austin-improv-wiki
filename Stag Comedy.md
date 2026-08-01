@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Stag Comedy
-|Picture	=	Stag Comedy.jpg
-|Cast	=	{{Unbulleted list | [[Andrew Rosas]] | [[Dave Youmans]] | [[David Jara]] | [[Joe Parsons]] | [[Lance Gilstrap]] | [[Mac Blake]] | [[Ximena Estrada]] }}
-|Years	=		2007-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Stag Comedy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Stag Comedy.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrew Rosas]]</li><!--
+  --><li style="">[[Dave Youmans]]</li><!--
+  --><li style="">[[David Jara]]</li><!--
+  --><li style="">[[Joe Parsons]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Mac Blake]]</li><!--
+  --><li style="">[[Ximena Estrada]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Stag Comedy** is a sketch troupe based out of [[ColdTowne Theater]].
 

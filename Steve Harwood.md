@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Steve Harwood	
-|Picture =	Steve Harwood Pic.jpg
-|Theater=	Various
-|Years	=	2012-2014
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Steve Harwood</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Steve Harwood Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-2014</td>
+		</tr>
+
+	</table>
+</div>
 
 **Steve Harwood** is an improv performer.
 

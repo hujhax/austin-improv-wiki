@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Look Cookie
-|Picture	=	Look Cookie.jpg
-|Cast	=	{{ Unbulleted list | [[Bryan Roberts]] | [[Cody Dearing]] | [[Eric Seufert]] | [[Jerry Bilbo]] | [[Kerri Lendo]] | [[Leah Moss]] | [[Michael Williams]] }}
-|Years	=		2007-2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Look Cookie</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Look Cookie.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan Roberts]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Eric Seufert]]</li><!--
+  --><li style="">[[Jerry Bilbo]]</li><!--
+  --><li style="">[[Kerri Lendo]]</li><!--
+  --><li style="">[[Leah Moss]]</li><!--
+  --><li style="">[[Michael Williams]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Look Cookie** was an improv troupe.
 

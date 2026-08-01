@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Rachel Madorsky	
-|Picture =	Rachel Madorsky Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2005-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Rachel Madorsky</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Rachel Madorsky Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Rachel Madorsky** is an improv teacher and performer.
 

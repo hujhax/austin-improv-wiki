@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Clifton Highfield	
-|Picture =	Clifton Highfield Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2004-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Clifton Highfield</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Clifton Highfield Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2004-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Clifton Highfield** is an improv performer, instructor, and director who works primarily with [[The Institution Theater]].
 

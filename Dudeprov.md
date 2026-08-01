@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Dudeprov
-|Cast	=	{{Unbulleted list | [[Andy O'Meara]] | [[Ben McVey]] | [[Ed Reed]] | [[John Chakales]] | [[Joshua Philips]] | [[Sam Malcolm]] }}
-|Years	=		2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Dudeprov</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy O'Meara]]</li><!--
+  --><li style="">[[Ben McVey]]</li><!--
+  --><li style="">[[Ed Reed]]</li><!--
+  --><li style="">[[John Chakales]]</li><!--
+  --><li style="">[[Joshua Philips]]</li><!--
+  --><li style="">[[Sam Malcolm]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Dudeprov** was a one-off *[[Cagematch]]* team.
 

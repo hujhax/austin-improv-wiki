@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Confidence Men
-|Picture =     Confidence Men.jpg
-|Cast	=	{{Unbulleted list | [[Asaf Ronen]] | [[Ceej Allen]] | [[Jeff Britt]] | [[Michael Ferstenfeld]] | [[Tom Booker]] | [[Troy Miller]]}}
-|Years	=		2009-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Confidence Men</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Confidence Men.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Jeff Britt]]</li><!--
+  --><li style="">[[Michael Ferstenfeld]]</li><!--
+  --><li style="">[[Tom Booker]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Confidence Men** is an improv troupe that improvises in the style of [[Wikipedia - David Mamet|David Mamet]].
 

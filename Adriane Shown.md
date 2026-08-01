@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Adriane Shown	
-|Picture =	Adriane Shown Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Adriane Shown</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Adriane Shown Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Adriane Shown** is an improv performer, singer, musician, and technical improvisor.
 

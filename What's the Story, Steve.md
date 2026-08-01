@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	What's the Story, Steve?
-|Picture =      WTSS.jpg
-|Cast	=	{{Unbulleted list | [[Amy Carpenter]] | [[Arian Brumby]] | [[Caitlin Baumgartner]] | [[Chris Baldenhofer]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Kristin Henn]] | [[Luke Wallens]]}}
-|Years	=		2011-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">What's the Story, Steve?</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[WTSS.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Carpenter]]</li><!--
+  --><li style="">[[Arian Brumby]]</li><!--
+  --><li style="">[[Caitlin Baumgartner]]</li><!--
+  --><li style="">[[Chris Baldenhofer]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Frank Netscher]]</li><!--
+  --><li style="">[[Kristin Henn]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 **What's the Story Steve?** is a troupe that specializes in children's theater and features a poodle.
 
 ## Summary

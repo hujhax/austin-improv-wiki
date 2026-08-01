@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays:<br/>John Hughes Summer School
-|Picture=	Live TV Tuesdays - John Hughes Summer School.jpg
-|Theater=	[[The Institution Theater]]
-|Director = [[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Cody Melcher]] | [[Indigo Rael]] | [[John Buseman]] | [[Nat Miller]] | [[Nicole McCracken]] | [[Wayne Alan Brenner]] }}
-|Run	=	Jul/Aug 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays:<br/>John Hughes Summer School</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - John Hughes Summer School.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cody Melcher]]</li><!--
+  --><li style="">[[Indigo Rael]]</li><!--
+  --><li style="">[[John Buseman]]</li><!--
+  --><li style="">[[Nat Miller]]</li><!--
+  --><li style="">[[Nicole McCracken]]</li><!--
+  --><li style="">[[Wayne Alan Brenner]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul/Aug 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: John Hughes Summer School*** refers to the *[[Live TV Tuesdays]]* presentation of "John Hughes Summer School", a staged reading of various scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.
 
 ## Summary

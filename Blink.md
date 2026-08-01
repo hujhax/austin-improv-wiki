@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Blink
-|Picture	=	Blink.jpg
-|Cast	=	{{Unbulleted list|[[Emily Breedlove]] | [[John Buseman]] | [[Jon Bolden]] | [[Kyle Traughber]] | [[Lauren Buck]] | [[Meghan Wolff]] | [[Mike Sullivan]] | [[Patrick Daniel]] | [[Peter Rogers]]}}
-|Director =	[[Marc Majcher]]
-|Years	=		2009
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Blink</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Blink.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[John Buseman]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Lauren Buck]]</li><!--
+  --><li style="">[[Meghan Wolff]]</li><!--
+  --><li style="">[[Mike Sullivan]]</li><!--
+  --><li style="">[[Patrick Daniel]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Blink** was an improv troupe that performed organic montage.
 

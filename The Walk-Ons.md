@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=	The Walk-Ons
-|Cast	=	{{Unbulleted list | [[Brad Hawkins]] | [[Jesse Overright]] | [[Katie Dahm]] | [[Laura Khalil]] | [[Leng Wong]] | [[Mike Sullivan]] | [[Scott Crocker]] | [[Thomas Kelleher]] }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Walk-Ons</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Jesse Overright]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Laura Khalil]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="">[[Mike Sullivan]]</li><!--
+  --><li style="">[[Scott Crocker]]</li><!--
+  --><li style="">[[Thomas Kelleher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Walk-Ons** was a [[Gnap!]] house troupe, assembled and coached by [[Jason Vines]]. They played four performances in January of 2011.
 

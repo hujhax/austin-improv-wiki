@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name = Doctors Without Boundaries	
-|Picture =	Doctors Without Boundaries.jpg
-|Theater = [[Salvage Vanguard Theater]]
-|Producer = [[Gnap! Theater Projects]]
-|Director =	[[Shana Merlin]]
-|Cast =	{{Unbulleted list | [[Bryan Cruz]] | [[Clay Towery]] | [[Cyrus Lum]] | [[Evan T Atherton]] | [[Janice Kay Bech]] | [[Stephanie Towery]] }}
-|Run	=	May 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Doctors Without Boundaries</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Doctors Without Boundaries.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Shana Merlin]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan Cruz]]</li><!--
+  --><li style="">[[Clay Towery]]</li><!--
+  --><li style="">[[Cyrus Lum]]</li><!--
+  --><li style="">[[Evan T Atherton]]</li><!--
+  --><li style="">[[Janice Kay Bech]]</li><!--
+  --><li style="">[[Stephanie Towery]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Doctors Without Boundaries*** was an improvised longform inspired by the medical soap opera *[[Wikipedia - Grey's Anatomy|Grey's Anatomy]]*
 

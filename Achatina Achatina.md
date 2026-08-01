@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Achatina Achatina
-|Picture	=	Achatina Achatina.jpg
-|Director = [[Ashley Nugent]]
-|Cast	=	{{ Unbulleted list | [[Brett Tribe]] | [[Brian Howard]] | [[Chaz Formichella]] | [[Drew Wesely]] | [[Ed Reed IV]] | [[Grant Specht]] | [[Jared Stepp]] | [[Kate Bojanek]] | [[Liz Butler]] | [[Matt Derman]] | [[Steve Donovan]] }}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Achatina Achatina</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Achatina Achatina.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Ashley Nugent]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Brian Howard]]</li><!--
+  --><li style="">[[Chaz Formichella]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Ed Reed IV]]</li><!--
+  --><li style="">[[Grant Specht]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Kate Bojanek]]</li><!--
+  --><li style="" >[[Liz Butler]]</li><!--
+  --><li style="">[[Matt Derman]]</li><!--
+  --><li style="">[[Steve Donovan]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Achatina Achatina** (often written with an exclamation point: **Achatina Achatina!**) was an improv troupe associated with [[ColdTowne Theater]].
 

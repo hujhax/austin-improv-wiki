@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Grey Matters
-|Picture	=	Grey Matters.jpg
-|Cast	=	{{Unbulleted list | [[Kathy Rose Center]] | [[Madeline Jo Chauvin]] | [[Todd Hart]] }}
-|Years	=		2011-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Grey Matters</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Grey Matters.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kathy Rose Center]]</li><!--
+  --><li style="">[[Madeline Jo Chauvin]]</li><!--
+  --><li style="">[[Todd Hart]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Grey Matters** was an improv troupe based at [[The Institution Theater]] from 2011 to 2012, created by [[Asaf Ronen]] to showcase the dark comedic chemistry of [[Kathy Rose Center]], [[Madeline Jo Chauvin]], and [[Todd Hart]].
 

@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name               = Camp Madeupponaspotta
-|Picture            = Camp Madeupponaspotta.png
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Jon Bolden]]
-|Assistant Director = [[Nicole Oliver]]
-|Run                = Apr 2014
-|Cast               = {{Unbulleted list | [[Catherine Grady]] | [[David Ronn]] | [[Heather McConochie]] | [[Jillian Summar]] | [[Katie Doran]] | [[Mitch Mills]] | [[Norman Tran]] | [[Patrick Creamer]] | [[Rachel Posey Austin]] | [[Thedward Blevins]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Camp Madeupponaspotta</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Camp Madeupponaspotta.png]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jon Bolden]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Nicole Oliver]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Catherine Grady]]</li><!--
+  --><li style="">[[David Ronn]]</li><!--
+  --><li style="">[[Heather McConochie]]</li><!--
+  --><li style="">[[Jillian Summar]]</li><!--
+  --><li style="">[[Katie Doran]]</li><!--
+  --><li style="">[[Mitch Mills]]</li><!--
+  --><li style="">[[Norman Tran]]</li><!--
+  --><li style="">[[Patrick Creamer]]</li><!--
+  --><li style="" >[[Rachel Posey Austin]]</li><!--
+  --><li style="">[[Thedward Blevins]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Apr 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Camp Madeupponaspotta*** was the April 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

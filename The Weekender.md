@@ -1,11 +1,46 @@
-{{Infobox Show
-  |Name     = The Weekender
-  |Director = Various
-  |Theater  = [[The Hideout Theatre]]
-  |Cast     = Various
-  |Picture  = Weekender Publicity.jpg
-  |Run    = 2010-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Weekender</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Weekender Publicity.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2010-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Weekender*** (formerly ***The Sunday Showcase***) is a performance slot at [[The Hideout Theatre]] that provides stage time for Hideout students.
 

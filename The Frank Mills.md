@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Frank Mills
-|Picture  =  The Frank Mills.jpg
-|Cast	=	{{Unbulleted list | [[Bob McNichol]] | [[Dave Buckman]] | [[Erika May McNichol]] | [[Michael Jastroch]] | [[Rachel Madorsky]]}}
-|Years	=		2005-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Frank Mills</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Frank Mills.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bob McNichol]]</li><!--
+  --><li style="">[[Dave Buckman]]</li><!--
+  --><li style="">[[Erika May McNichol]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="">[[Rachel Madorsky]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Frank Mills** is an improv troupe of working actors who perform grounded, character-driven longform.
 

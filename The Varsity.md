@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Varsity
-|Cast	=	{{ Unbulleted list | [[Brent Foshe]] | [[Brett Tribe]] | [[Cody Dearing]] | [[Drew Wesley]] | [[Emma Holder]] | [[Jared Stepp]] | [[Joshua Gill]] | [[Julia Kirchen]] | [[Kate Bojanek]] | [[Kyle Sweeney]] | [[Lisa Jackson]] | [[Michael Williams]]  }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Varsity</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brent Foshe]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Drew Wesley]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Joshua Gill]]</li><!--
+  --><li style="">[[Julia Kirchen]]</li><!--
+  --><li style="" >[[Kate Bojanek]]</li><!--
+  --><li style="">[[Kyle Sweeney]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Michael Williams]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Varsity** was an improv troupe.
 

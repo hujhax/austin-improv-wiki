@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Safety Word
-|Picture	=	Safety Word.jpg
-|Cast	=	{{ Unbulleted list | [[Amy O'Connor]] | [[Arby Gonzales]] | [[Chris Sebilia]] | [[Emma Czarnecki]] | [[Zack Phillips]] }}
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Safety Word</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Safety Word.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy O'Connor]]</li><!--
+  --><li style="">[[Arby Gonzales]]</li><!--
+  --><li style="">[[Chris Sebilia]]</li><!--
+  --><li style="">[[Emma Czarnecki]]</li><!--
+  --><li style="">[[Zack Phillips]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Safety Word** is an improv troupe.
 

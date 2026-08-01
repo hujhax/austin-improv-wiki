@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=	WIG
-|Picture =     WIG.jpg
-|Cast	=	{{Unbulleted list | [[Wendy Eickstaedt]] | [[Caroline Gorman]] | [[Christina Keller]] | [[Karlie Lemos]] | [[Tamara Warton]] | [[Monica Wells]] | [[Amanda Wischkaemper]] }}
-|Former Members	= {{Unbulleted list| [[Kay Krasin]] |  [[Ellen Pizarek]] | [[Tamara Warton]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">WIG</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[WIG.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Wendy Eickstaedt]]</li><!--
+  --><li style="">[[Caroline Gorman]]</li><!--
+  --><li style="">[[Christina Keller]]</li><!--
+  --><li style="">[[Karlie Lemos]]</li><!--
+  --><li style="">[[Tamara Warton]]</li><!--
+  --><li style="">[[Monica Wells]]</li><!--
+  --><li style="">[[Amanda Wischkaemper]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **WIG** (also stylized W.I.G. or #WIG) is a group of female improvisers performing in Austin. The group was fully formed near the end of 2015, and had its first performance in the [[Threefer]] on February 18, 2016 with [[Kinkade]] and [[Golden]]. WIG's members are all current or former students of [[The Hideout Theatre]].
 

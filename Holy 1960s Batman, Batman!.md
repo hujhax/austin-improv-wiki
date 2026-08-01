@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=	Holy 1960s Batman, Batman!	
-|Picture=	Batman.cast.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director =	[[Kaci Beeler]]
-|Cast	=	{{Unbulleted list | [[Curtis Luciani]] | [[Eric Heiberg]] | [[Jared Stepp]] | [[Jason Vines]] | [[Jay Byrd]] | [[Keegan Hines]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Roy Janik]] | [[Taylor Overstreet]] | [[Teresa Troxel]] }}
-| Tech = {{Unbulleted list | [[Britney Salyer]] | [[Carl Ziegler]] | [[John Brewster]] | [[Michael Yew]] | [[Zac Grantham]] }}
-|Run	=	May/Jun 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Holy 1960s Batman, Batman!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Batman.cast.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Kaci Beeler]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jay Byrd]]</li><!--
+  --><li style="">[[Keegan Hines]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="" >[[Roy Janik]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><li style="">[[Teresa Troxel]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Britney Salyer]]</li><!--
+  --><li style="">[[Carl Ziegler]]</li><!--
+  --><li style="">[[John Brewster]]</li><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><li style="">[[Zac Grantham]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Holy 1960's Batman, Batman!*** was an improvised longform narrative show inspired by [[Wikipedia - Batman (TV series)|the 1960's *Batman* TV series]].
 

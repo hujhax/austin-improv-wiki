@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name = The Source	
-|Picture =	The Source Poster.jpg
-|Theater = [[The Institution Theater]]
-|Director =	{{Unbulleted list | [[Audrey Rachel Sansom]] | [[Tom Booker]] }}
-|Cast =	{{Unbulleted list | [[Celena A Diamond]] | [[Gene Zhou]] | [[Hanna AbuZayed]] | [[Jayme Ramsay]] | [[Joseph Tran]] | [[KC Harvey-Taylor]] | [[Lahari Samineni]] | [[Lena Long]] | [[Marc Majcher]] | [[Sammy Boss]] | [[Scott Hearne]] }}
-|Tech = [[Ripley Adams]]
-|Music = {{Unbulleted list | [[Hanna AbuZayed]] (saxophone) | [[Jayme Ramsay]] (drums) | [[KC Harvey-Taylor]] (bass) | [[Marc Majcher]] ([[Wikipedia - theremin|theremin]]) | [[Scott Hearne]] (guitar)}}
-|Run	=	Jul/Aug 2015
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Source</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Source Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Tom Booker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Hanna AbuZayed]] (saxophone)</li><!--
+  --><li style="">[[Jayme Ramsay]] (drums)</li><!--
+  --><li style="">[[KC Harvey-Taylor]] (bass)</li><!--
+  --><li style="">[[Marc Majcher]] ([[Wikipedia - theremin|theremin]])</li><!--
+  --><li style="">[[Scott Hearne]] (guitar)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Celena A Diamond]]</li><!--
+  --><li style="">[[Gene Zhou]]</li><!--
+  --><li style="">[[Hanna AbuZayed]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[Joseph Tran]]</li><!--
+  --><li style="">[[KC Harvey-Taylor]]</li><!--
+  --><li style="">[[Lahari Samineni]]</li><!--
+  --><li style="">[[Lena Long]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Sammy Boss]]</li><!--
+  --><li style="">[[Scott Hearne]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Ripley Adams]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul/Aug 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Source*** was a mainstage show at [[The Institution Theater]].  It combined improv games, monologs, and music into an audience-interactive experience inspired by 1960s cult indoctrinations.
 

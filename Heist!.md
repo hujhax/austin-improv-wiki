@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=	Heist!
-|Picture=	Heist.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=	[[Gnap! Theater Projects]]
-|Director =	{{Unbulleted list | [[Michael Joplin]] | [[Shana Merlin]]}}
-|Cast	=	{{Unbulleted list | [[Amy Averett]] | [[Andreas Fabis]] | [[Avimaan Syam]] | [[Howard L Katz]] | [[Hugo Vargas-Zesati]] | [[Jon Bolden]] | [[Kyle Traughber]] | [[Madi Goff]] | [[Michael Joplin]] | [[Sara Farr]] | [[Susannah Raulino]]}}
-|Run	=	Mar 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Heist!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Heist.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Averett]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Avimaan Syam]]</li><!--
+  --><li style="">[[Howard L Katz]]</li><!--
+  --><li style="">[[Hugo Vargas-Zesati]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Madi Goff]]</li><!--
+  --><li style="" >[[Michael Joplin]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Susannah Raulino]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Heist!*** was an improv show based around heist capers.
 
 ## Summary

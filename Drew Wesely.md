@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Drew Wesely
-|Picture =	Drew Wesely Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2007-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Drew Wesely</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Drew Wesely Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Drew Wesely**, aka Andrew Wesely, is an improv comedian, sketch actor, and improv teacher in Austin, Texas. 
 

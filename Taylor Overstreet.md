@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Taylor Overstreet	
-|Picture =	Taylor Overstreet Pic.jpg
-|Theater=	[[The Institution Theater]] 
-|Years	=	2010-2014
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Taylor Overstreet</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Taylor Overstreet Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-2014</td>
+		</tr>
+
+	</table>
+</div>
 
 **Taylor Overstreet** is an improv performer.
 

@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		The People's Army
-|Cast	=	{{ Unbulleted list | [[Alex Baia]] | [[Liz Dykes]] | [[Mike Faerber]] | [[Nathan Livni]] | [[Nicole McCracken]] | [[Rick Heineman]] | [[Tej Ludher]] }}
-|Years	=		2009
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The People's Army</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Baia]]</li><!--
+  --><li style="">[[Liz Dykes]]</li><!--
+  --><li style="">[[Mike Faerber]]</li><!--
+  --><li style="">[[Nathan Livni]]</li><!--
+  --><li style="">[[Nicole McCracken]]</li><!--
+  --><li style="">[[Rick Heineman]]</li><!--
+  --><li style="">[[Tej Ludher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The People's Army** was an improv troupe.
 

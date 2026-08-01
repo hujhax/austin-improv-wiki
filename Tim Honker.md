@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Tim Honker
-|Picture =      Tim Honker headshot.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2008-2015
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Tim Honker</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Tim Honker headshot.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-2015</td>
+		</tr>
+
+	</table>
+</div>
 
 **Tim Honker** was a sketch writer/producer/actor/instructor in Austin, Texas and performed comedy in Austin and around the country from 2008-2015. 
 

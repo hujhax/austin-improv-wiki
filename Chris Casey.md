@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name =	Chris Casey	
-|Picture =	chriscasey.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2014-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Chris Casey</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Chriscasey.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 Chris is a dad from Austin, TX. He sometimes improvises at [[The Hideout Theatre]] and sometimes acts at The Curtain Theatre with [http://thebaronsmen.org/ The Baron's Men]. Currently he is a member of the improv troupes [[Space Swank]], [[Human People]], and most often [[Too Shy Guys]].
 

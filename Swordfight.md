@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Swordfight
-|Picture	=	Swordfight.jpg
-|Cast	=	{{ Unbulleted list | [[Indigo Rael]] | [[Mark Bond]] | [[Rachel Slager]] | [[Ryan Thomas]] | [[Scott Smith]] | [[Sonny Castillo]] }}
-|Years	=		2009-2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Swordfight</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Swordfight.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Indigo Rael]]</li><!--
+  --><li style="">[[Mark Bond]]</li><!--
+  --><li style="">[[Rachel Slager]]</li><!--
+  --><li style="">[[Ryan Thomas]]</li><!--
+  --><li style="">[[Scott Smith]]</li><!--
+  --><li style="">[[Sonny Castillo]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Swordfight** was an improv troupe.
 

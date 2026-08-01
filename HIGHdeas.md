@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		HIGHdeas
-|Picture	=	HIGHdeas.jpg
-|Cast	=	{{ Unbulleted list | [[Chaz Formicella]] | [[Clifton Highfield]] | [[Cody Dearing]] | [[Matt Needles]] | [[Nathan Sowell]] }}
-|Years	=		2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">HIGHdeas</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[HIGHdeas.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chaz Formicella]]</li><!--
+  --><li style="">[[Clifton Highfield]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Matt Needles]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **HIGHdeas** was an improv troupe.
 

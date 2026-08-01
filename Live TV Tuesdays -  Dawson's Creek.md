@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: Dawson's Creek	
-|Picture=	Live TV Tuesdays - Dawson's Creek.jpg
-|Theater=	[[The Institution Theater]]
-|Director = [[Ted Meredith]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Bill Price]] | [[Carla Goodman]] | [[Cody Melcher]] | [[Jiovani Galo]] | [[Jon Clinkenbeard]] | [[Kacy Todd]] | [[Kelli Bland]] }}
-|Tech	=	[[Britney Salyer]]
-|Run	=	May/Jun 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: Dawson's Creek</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - Dawson's Creek.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Ted Meredith]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Bill Price]]</li><!--
+  --><li style="">[[Carla Goodman]]</li><!--
+  --><li style="">[[Cody Melcher]]</li><!--
+  --><li style="">[[Jiovani Galo]]</li><!--
+  --><li style="">[[Jon Clinkenbeard]]</li><!--
+  --><li style="">[[Kacy Todd]]</li><!--
+  --><li style="">[[Kelli Bland]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Britney Salyer]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Dawson's Creek|*Dawson's Creek*]] episode [http://www.imdb.com/title/tt0555187/ "The Longest Day"].
 
 ## Summary

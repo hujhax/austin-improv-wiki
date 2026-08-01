@@ -1,14 +1,163 @@
-{{Infobox Show
-|Name               = Fiasco
-|Picture            = Fiasco Poster.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Peter Rogers]]
-|Assistant Director = [[Kevin Miller]]
-|Tech Director      = [[Lindsey McGowen]]
-|Run                = May/June 2016
-|Cast               = {{Unbulleted list | [[Aspen Webster]] | [[Brett Tribe]] | [[Chuy Zarate]] | [[Erin Molson]] | [[J. R. Zambrano]] | [[Jeff Britt]] | [[Jessica von Schramm]] | [[Katie Dahm]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Monica Martinez Maher]] | [[Nicole Oliver]] }}
-|Tech               = {{Unbulleted list | [[Cindy Page]] (Scoring Lead/Sound Swing) | [[Jay Mahavier]] (Sound Effects Lead) | [[Joy Parks]] (Stage Manager) | [[Kelly Campbell]] (Scoring Tech) | [[Lindsey McGowen]] (Light & Multimedia Lead) | [[Nichole Bennett]] (Lighting Tech) | [[Thedward Blevins]] (Multimedia Tech)}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Fiasco</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Fiasco Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Peter Rogers]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Kevin Miller]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Lindsey McGowen]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Chuy Zarate]]</li><!--
+  --><li style="">[[Erin Molson]]</li><!--
+  --><li style="">[[J. R. Zambrano]]</li><!--
+  --><li style="">[[Jeff Britt]]</li><!--
+  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Monica Martinez Maher]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cindy Page]] (Scoring Lead/Sound Swing)</li><!--
+  --><li style="">[[Jay Mahavier]] (Sound Effects Lead)</li><!--
+  --><li style="">[[Joy Parks]] (Stage Manager)</li><!--
+  --><li style="">[[Kelly Campbell]] (Scoring Tech)</li><!--
+  --><li style="">[[Lindsey McGowen]] (Light & Multimedia Lead)</li><!--
+  --><li style="">[[Nichole Bennett]] (Lighting Tech)</li><!--
+  --><li style="">[[Thedward Blevins]] (Multimedia Tech)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/June 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ![[Fiasco Set.jpg|Fiasco set, by [[Kaci Beeler]].]]
 

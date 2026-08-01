@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Bryan "Lubu" Roberts	
-|Picture =	Bryan Lubu Roberts Pic.jpg
-|Theater=	Various
-|Years	=	2004-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Bryan "Lubu" Roberts</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Bryan Lubu Roberts Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2004-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Bryan "Lubu" Roberts** is an improv/sketch performer and director.
 

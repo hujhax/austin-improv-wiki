@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Soy Taco
-|Picture	=	Soy Taco.jpg
-|Cast	=	{{ Unbulleted list | [[Angie Smith]] | [[Cristy Salinas]] | [[Monica Maher]] | [[Rachel Creason]] | [[Robert Evans]] | [[Vijay Thakkar]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Soy Taco</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Soy Taco.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Angie Smith]]</li><!--
+  --><li style="">[[Cristy Salinas]]</li><!--
+  --><li style="">[[Monica Maher]]</li><!--
+  --><li style="">[[Rachel Creason]]</li><!--
+  --><li style="">[[Robert Evans]]</li><!--
+  --><li style="">[[Vijay Thakkar]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Soy Taco** is an improv troupe.
 

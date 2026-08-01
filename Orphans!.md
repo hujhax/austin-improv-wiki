@@ -1,14 +1,148 @@
-{{Infobox Show
-|Name	=	Orphans!	
-|Picture = orphans.jpg
-|Director = {{Unbulleted list | [[Bridget Brewer]] | 
-[[Kaci Beeler]] }}
-|Musical Director = {{Unbulleted list | [[Ammon Taylor]] | [[Tosin Awofeso]] }}
-|Cast	=	{{Unbulleted list | [[Bridget Brewer]] | [[Cat Drago]] | [[Courtney Hopkin]] | [[Erin Molson]] | [[Frank Sánchez]] | [[J.R. Zambrano]] | [[Jordan T. Maxwell]] | [[Kaci Beeler]] | [[Katie Dahm]] | [[Mallory Schlossberg]] | [[Marc Jalandoon]] | [[Margaret Rose Hunsicker]] | [[Rachel Elaine Creason]] | [[Rob Yoho]] | [[Shannon Dale Stott]] | [[Tyler Groce]] }}
-|Crew= {{Unbulleted list | [[Andre K. Buchanan]] | [[Carolyn Gjertsen]] | [[Cindy Page]] | [[Danielle DaVerona]] | [[Greg Blank]] | [[Jay Mahavier]] | [[Joey Neugart]] | [[Michael Yew]] | [[Shay Millheiser]] }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	January-February 2018
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Orphans!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Orphans.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Erin Molson]]</li><!--
+  --><li style="">[[Frank Sánchez]]</li><!--
+  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="" >[[Katie Dahm]]</li><!--
+  --><li style="">[[Mallory Schlossberg]]</li><!--
+  --><li style="">[[Marc Jalandoon]]</li><!--
+  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
+  --><li style="">[[Rachel Elaine Creason]]</li><!--
+  --><li style="">[[Rob Yoho]]</li><!--
+  --><li style="">[[Shannon Dale Stott]]</li><!--
+  --><li style="">[[Tyler Groce]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">January-February 2018</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Orphans!*** was a Hideout mainstage improvised musicals about plucky orphans at the turn of the twentieth century.  It was inspired by works like *Annie*, *Oliver!*, and *Newsies*.
 

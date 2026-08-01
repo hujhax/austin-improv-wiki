@@ -1,9 +1,75 @@
-{{Infobox Performer
-|Name	=	Jessie Pascarelli	
-|Picture =	Jessie Pascarelli Pic.jpg
-|Theater=	{{Unbulleted list | [[The Hideout Theatre]] | [[The Institution Theater]] }}
-|Years	=	2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jessie Pascarelli</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jessie Pascarelli Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[The Hideout Theatre]]</li><!--
+  --><li style="">[[The Institution Theater]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jessie Pascarelli** is an improv performer.
 

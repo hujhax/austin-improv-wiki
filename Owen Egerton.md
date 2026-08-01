@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Owen Egerton	
-|Picture =	Owen Egerton Pic.jpg
-|Theater=	[[ComedySportz]]
-|Years	=	1995-2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Owen Egerton</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Owen Egerton Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ComedySportz]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1995-2012</td>
+		</tr>
+
+	</table>
+</div>
 **Owen Egerton** is an improv performer.
 
 ## Summary

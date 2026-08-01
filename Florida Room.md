@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Florida Room
-|Picture	=	Florida Room.jpg
-|Cast	=	{{ Unbulleted list | [[Ashley Nugent]] | [[Emma Holder]] | [[Katie Thornton]] | [[Leah Moss]] }}
-|Years	=		2009-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Florida Room</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Florida Room.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="">[[Leah Moss]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Florida Room** (full name: **Florida Room: Improvised Golden Girls**) was an improv troupe that did shows inspired by the 1980s sitcom *[[Wikipedia - The Golden Girls|The Golden Girls]]*.
 

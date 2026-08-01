@@ -1,8 +1,8 @@
-<templatestyles src="Banner/styles.css"/><div class="banner-image nomobile">
-<div class="banner-box banner-box-{{{direction}}}">
-<div class="name">{{{title}}}</div>
-<div class="type">{{{section}}}</div>
-</div>![[{{{image}}}]]</div><noinclude>
+<div class="banner-image nomobile">
+<div class="banner-box banner-box-">
+<div class="name"></div>
+<div class="type"></div>
+</div>![[]]</div><noinclude>
 {{Uses TemplateStyles|Template:Banner/styles.css}}
 <templatedata>
 {

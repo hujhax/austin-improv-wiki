@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name               = Happily Ever After
-|Picture            = Happily Ever After.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = {{Unbulleted list | [[Roy Janik]] | [[Ryan Austin]] }}
-|Music Director = [[Ammon Taylor]] 
-|Run                = Jul/Aug 2015
-|Cast               = {{Unbulleted list | [[Cat Drago]] | [[David Schwartz]] | [[Erin Molson]] | [[Halyn Lee Erickson]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Marc Majcher]] | [[Megan Sherrod]] | [[Patrick Creamer]] | [[Ruby Willmann]] | [[Sunaina Suhag]] }}
-|Tech               = [[Jessica T. Von Schramm]] (stage manager)
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Happily Ever After</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Happily Ever After.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music Director(s)</th>
+			<td class="category">[[Ammon Taylor]]</td>
+		</tr>
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[David Schwartz]]</li><!--
+  --><li style="">[[Erin Molson]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Megan Sherrod]]</li><!--
+  --><li style="" >[[Patrick Creamer]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Sunaina Suhag]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Jessica T. Von Schramm]] (stage manager)</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul/Aug 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Happily Ever After*** will be the July/August 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 

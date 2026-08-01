@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Southern Hospitality's Cardboard Coffin
-|Cast	=	{{ Unbulleted list | [[Collin Cannaday]] | [[Frank Willmore]] | [[Gene Joe]] | [[Jenny Carlson]] | [[Kim Gottschalk]] | [[Lizzie Leslie]] | [[Melanie DeMartinis]] | [[Meredith Newell]] | [[Sandra Ybarra]] }}
-|Years	=		2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Southern Hospitality's Cardboard Coffin</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Collin Cannaday]]</li><!--
+  --><li style="">[[Frank Willmore]]</li><!--
+  --><li style="">[[Gene Joe]]</li><!--
+  --><li style="">[[Jenny Carlson]]</li><!--
+  --><li style="">[[Kim Gottschalk]]</li><!--
+  --><li style="">[[Lizzie Leslie]]</li><!--
+  --><li style="">[[Melanie DeMartinis]]</li><!--
+  --><li style="">[[Meredith Newell]]</li><!--
+  --><li style="" >[[Sandra Ybarra]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Southern Hospitality's Cardboard Coffin** was an improv troupe.
 

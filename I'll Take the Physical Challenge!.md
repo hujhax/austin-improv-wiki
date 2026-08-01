@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name               = I'll Take the Physical Challenge!
-|Picture            = I'll Take the Physical Challenge! placeholder image.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Courtney Hopkin]]
-|Run                = Sep/Oct 2016
-|Cast               = TBA
-|Tech               = TBA
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">I'll Take the Physical Challenge!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[I'll Take the Physical Challenge! placeholder image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Courtney Hopkin]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">TBA</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">TBA</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep/Oct 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***I'll Take the Physical Challenge!*** will be the September/October 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 

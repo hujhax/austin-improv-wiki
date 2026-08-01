@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name               = The Aftermath
-|Picture            = The Aftermath.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Jordan T. Maxwell]]
-|Assistant Director = [[Cindy Page]]
-|Run                = Oct 2014
-|Cast               = {{Unbulleted list | [[Barrett Phelan]] | [[Cassidy Santaguida]] |  [[Haley Alea Erickson]] | [[Josh Santo]] | [[JR Zambrano]] | [[Lori Hobbie]] | [[Sunaina Suhag]] | [[Sushant Sethi]] }}
-|Tech               = {{Unbulleted list | [[Allison Huston]] (lights) | [[Robert Heil]] (sound effects) | [[Sarah Hutchins]] (scoring) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Aftermath</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Aftermath.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jordan T. Maxwell]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Cindy Page]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Barrett Phelan]]</li><!--
+  --><li style="">[[Cassidy Santaguida]]</li><!--
+  --><li style="">[[Haley Alea Erickson]]</li><!--
+  --><li style="">[[Josh Santo]]</li><!--
+  --><li style="">[[JR Zambrano]]</li><!--
+  --><li style="">[[Lori Hobbie]]</li><!--
+  --><li style="">[[Sunaina Suhag]]</li><!--
+  --><li style="">[[Sushant Sethi]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Allison Huston]] (lights)</li><!--
+  --><li style="">[[Robert Heil]] (sound effects)</li><!--
+  --><li style="">[[Sarah Hutchins]] (scoring)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Aftermath*** was a [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Jukebox
-|Picture	=	Jukebox.jpg
-|Cast	=	{{ Unbulleted list | [[Allison Asher]] | [[Amy O'Connor]] | [[Arby Gonzales]] | [[Chris Sebilia]] | [[Jen Bernard]] | [[Paul Normandin]] | [[Todd Geldon]] | [[Zack Phillips]] }}
-|Years	=		2011-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Jukebox</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Jukebox.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Allison Asher]]</li><!--
+  --><li style="">[[Amy O'Connor]]</li><!--
+  --><li style="">[[Arby Gonzales]]</li><!--
+  --><li style="">[[Chris Sebilia]]</li><!--
+  --><li style="">[[Jen Bernard]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Todd Geldon]]</li><!--
+  --><li style="">[[Zack Phillips]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Jukebox** was an improv troupe.
 

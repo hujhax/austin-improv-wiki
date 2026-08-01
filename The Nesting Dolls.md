@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Nesting Dolls
-|Picture	=	The Nesting Dolls.jpg
-|Cast	=	{{ Unbulleted list | [[Ann Potter]] | [[Ashley Nugent]] | [[Cortnie Jones]] | [[Courtney Hopkin]] | [[Elizabeth Brammer]] | [[Jessica Hamilton]] | [[Kate Bojanek]] | [[Kayla Lane Freeman]] | [[Valerie Ward]] }}
-|Years	=		2011-2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Nesting Dolls</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Nesting Dolls.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ann Potter]]</li><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Elizabeth Brammer]]</li><!--
+  --><li style="">[[Jessica Hamilton]]</li><!--
+  --><li style="">[[Kate Bojanek]]</li><!--
+  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style="" >[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Nesting Dolls** was an improv troupe.
 

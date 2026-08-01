@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Magna Veritas	
-|Picture=	MagnaVeritas.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=	[[Gnap! Theater Projects]]
-|Director =	[[Andreas Fabis]]	
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Emily Breedlove]] | [[Justin Davis]] | [[Katherine Greco]] | [[Kristin Firth]] | [[Leng Wong]] | [[Marc Majcher]] | [[Ruby Willmann]] | [[Sophia Hoang]] | [[Todd Hart]] }}
-|Run	=	Sep-Dec 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Magna Veritas</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[MagnaVeritas.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Andreas Fabis]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Justin Davis]]</li><!--
+  --><li style="">[[Katherine Greco]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="" >[[Ruby Willmann]]</li><!--
+  --><li style="">[[Sophia Hoang]]</li><!--
+  --><li style="">[[Todd Hart]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep-Dec 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 **Magna Veritas** was an improv show.
 

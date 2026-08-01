@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	You're Not My Real Dad
-|Picture =     YNMRD.jpg
-|Cast	=	{{Unbulleted list | [[Tom Booker]] | [[Dave Buckman]] | [[John Ratliff]] | [[Asaf Ronen]]}}
-|Years	=		2007-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">You're Not My Real Dad</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[YNMRD.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Tom Booker]]</li><!--
+  --><li style="">[[Dave Buckman]]</li><!--
+  --><li style="">[[John Ratliff]]</li><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **You're Not My Real Dad** is an improv troupe developed out of a joke troupe name on the AIC Forums.
 

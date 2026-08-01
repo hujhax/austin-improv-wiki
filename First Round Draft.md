@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		First Round Draft
-|Picture	=	First Round Draft.png
-|Cast	=	{{Unbulleted list|[[Amy McCurdy]] | [[Bob Apthorpe]] | [[Chris R. B. Fay]] | [[Ed Piston]] | [[Griffin Mauser]] | [[Katy Shea]] | [[Kacey Samiee]] | [[Peter Rogers]] | [[Shelly Miller Bosse]] | [[Suzie Mihalak]]}}
-|Years	=		2001-2002
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">First Round Draft</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[First Round Draft.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2001-2002</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy McCurdy]]</li><!--
+  --><li style="">[[Bob Apthorpe]]</li><!--
+  --><li style="">[[Chris R. B. Fay]]</li><!--
+  --><li style="">[[Ed Piston]]</li><!--
+  --><li style="">[[Griffin Mauser]]</li><!--
+  --><li style="">[[Katy Shea]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="" >[[Shelly Miller Bosse]]</li><!--
+  --><li style="">[[Suzie Mihalak]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **First Round Draft** was a short-form improv troupe based out of [[The Hideout Theatre]].
 

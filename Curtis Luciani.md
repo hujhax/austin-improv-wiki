@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Curtis Luciani	
-|Picture =	Curtis Luciani Pic.jpg
-|Theater=	The Hideout Theatre
-|Years	=	2001-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Curtis Luciani</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Curtis Luciani Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">The Hideout Theatre</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2001-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Curtis Luciani** ([[Wikipedia - Help - IPA for English#Key|/ˈluːtʃiːˌɑːniː/]]) is an improv performer and director.
 

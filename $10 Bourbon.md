@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		$10 Bourbon
-|Picture	=	$10 Bourbon.jpg
-|Cast	=	{{Unbulleted list | [[Alex Nixon]] | [[Andy Pereira]] | [[Erin Molson]] | [[Erin Plischke]] | [[Terrill Fischer]] }}
-|Years	=		2007-2008
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">$10 Bourbon</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[$10 Bourbon.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-2008</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Nixon]]</li><!--
+  --><li style="">[[Andy Pereira]]</li><!--
+  --><li style="">[[Erin Molson]]</li><!--
+  --><li style="">[[Erin Plischke]]</li><!--
+  --><li style="">[[Terrill Fischer]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **$10 Bourbon** was an improv troupe.
 

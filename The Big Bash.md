@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name = The Big Bash	
-|Picture =	The Big Bash.jpg
-|Theater = [[The Hideout Theatre]]
-|Director =	{{Unbulleted list | [[Andy Crouch]] | [[Roy Janik]] }}
-|Cast =	{{Unbulleted list | [[Aaron Saenz]] | [[Andy Crouch]] | [[Bridget Brewer]] | [[Caitlin Sweetlamb]] | [[Chuy Zarate]] | [[Jon Bolden]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Quinn Buckner]] | [[Roy Janik]] | [[Ruby Willmann]] | [[Troy Miller]] }}
-|Tech =	 Various
-|Run	=	Dec 2013-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Big Bash</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Big Bash.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Caitlin Sweetlamb]]</li><!--
+  --><li style="">[[Chuy Zarate]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="" >[[Quinn Buckner]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">Various</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Dec 2013-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Big Bash*** is a Friday-night show at the Hideout Theatre designed for general audiences. 
 

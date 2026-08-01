@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: South Park	
-|Picture=	Live TV Tuesdays - South Park.jpg
-|Theater=	[[The Institution Theater]]
-|Director = [[Brett Tribe]]
-|Cast	=	{{Unbulleted list | [[Amber Shae]] | [[Carissa McAtee]] | [[Christine Gwillam]] | [[Clinton Harris]] | [[Danine Lareu]] | [[Erik Chase]] | [[Guy Vizard]] | [[Jacob Bertrand]] | [[Jeremy Logan]] | [[Joel Ausanka Reese]] | [[Michael Pedicano]] | [[Mike Nystul]] | [[Nicole McCracken]] }}
-|Run	=	Jun/Jul 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: South Park</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - South Park.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Brett Tribe]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amber Shae]]</li><!--
+  --><li style="">[[Carissa McAtee]]</li><!--
+  --><li style="">[[Christine Gwillam]]</li><!--
+  --><li style="">[[Clinton Harris]]</li><!--
+  --><li style="">[[Danine Lareu]]</li><!--
+  --><li style="">[[Erik Chase]]</li><!--
+  --><li style="">[[Guy Vizard]]</li><!--
+  --><li style="">[[Jacob Bertrand]]</li><!--
+  --><li style="" >[[Jeremy Logan]]</li><!--
+  --><li style="">[[Joel Ausanka Reese]]</li><!--
+  --><li style="">[[Michael Pedicano]]</li><!--
+  --><li style="">[[Mike Nystul]]</li><!--
+  --><li style="">[[Nicole McCracken]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jun/Jul 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: South Park*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - South Park|*South Park*]] episodes [[Wikipedia - Something You Can Do with Your Finger|"Something You Can Do with Your Finger"]] and [[Wikipedia - Professor Chaos|"Professor Chaos"]].
 
 ## Summary

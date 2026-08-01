@@ -1,10 +1,32 @@
-{{Infobox Troupe
-|Name	=	The Theft Forum
-|Picture=	The Theft Forum Pic.jpg
-|Director =	[[Scott Hearne]]	
-|Years=	2012-Present
-|Cast= Various
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Theft Forum</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Theft Forum Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Scott Hearne]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+	</table>
+</div>
 **The Theft Forum** is a podcast about Austin improv.
 ## History
 [[Scott Hearne]], Austin improviser, started *The Theft Forum* in 2012. The name is taken from the assumption that all comedians "borrow" from each other's work.

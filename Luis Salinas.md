@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Luis Salinas	
-|Picture = ls_cropped.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Luis Salinas</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Ls cropped.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Luis Salinas** is an improv performer who is associated primarily with [[The Institution Theater]].
 

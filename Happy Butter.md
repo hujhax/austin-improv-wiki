@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=	Happy Butter
-|Picture =      Happy Butter.jpg
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Happy Butter</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Happy Butter.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
 
-|Cast	=	{{Unbulleted list | [[Amy O'Connor]] | [[David Nayer]] | [[Halyn Lee Erickson]] | [[Karen Jane DeWitt]] | [[Menelaos Prokos]] | [[Mike Nystul]] | [[Nicole Beckley]] | [[Thedward Blevins]] | [[Zac Grantham]] }}
-|Years	=		2011
-}}
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy O'Connor]]</li><!--
+  --><li style="">[[David Nayer]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Menelaos Prokos]]</li><!--
+  --><li style="">[[Mike Nystul]]</li><!--
+  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style="" >[[Zac Grantham]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 **Happy Butter** was a troupe focusing on narrative improv.
 
 It was made up of graduates of [[The Hideout Theatre]]'s first Level 6 class.

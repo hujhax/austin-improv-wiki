@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name               = Golden
-|Picture            = Golden.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Marc Majcher]]
-|Run                = April 2015
-|Cast               = {{Unbulleted list | [[Brandon Martin]] | [[Heidi Penix]] | [[Jessica von Schramm]] | [[Kathleen McFerrin]] | [[Luke Wallens]] | [[Patrick Creamer]] | [[Rachel Denton]] | [[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
-|Tech               = {{Unbulleted list | [[Danielle Saar]] | [[R. Lance Hunter]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Golden</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Golden.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brandon Martin]]</li><!--
+  --><li style="">[[Heidi Penix]]</li><!--
+  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><li style="">[[Kathleen McFerrin]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style="">[[Patrick Creamer]]</li><!--
+  --><li style="">[[Rachel Denton]]</li><!--
+  --><li style="">[[Robert Slack]]</li><!--
+  --><li style="" >[[Suzanne Link]]</li><!--
+  --><li style="">[[Tyler Lane]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Danielle Saar]]</li><!--
+  --><li style="">[[R. Lance Hunter]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">April 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Golden*** was the April 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].  It continued on as [[Golden|a troupe of the same name]].
 

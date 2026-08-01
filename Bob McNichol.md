@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Bob McNichol	
-|Picture =	Bob McNichol Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2005-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Bob McNichol</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Bob McNichol Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Bob McNichol** is an improv performer.
 

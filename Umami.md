@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Umami
-|Picture	=	Umami.jpg
-|Cast	=	{{ Unbulleted list | [[Dave Rosenbaum]] | [[Matt Craighead]] | [[Nancy Lyon]] | [[Regina Soto]] | [[Susannah Raulino]] }}
-|Years	=		2011-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Umami</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Umami.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Dave Rosenbaum]]</li><!--
+  --><li style="">[[Matt Craighead]]</li><!--
+  --><li style="">[[Nancy Lyon]]</li><!--
+  --><li style="">[[Regina Soto]]</li><!--
+  --><li style="">[[Susannah Raulino]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Umami** was an improv troupe.
 

@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: 90210	
-|Picture=	Live TV Tuesdays- 90210.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Ashley Lowe]] | [[Bryan Cruz]] | [[Cassiday Proctor]] | [[Erica Lies]] | [[Jason Vines]] | [[John Buseman]] | [[Martina Ohlhauser]] | [[Michael Thomas]] | [[Sara Osburn]] | [[Tyler Pratt]] }}
-|Tech	=	{{Unbulleted list | [[Madeline Jo Chauvin]] | [[Todd Hart]] }}
-|Run	=	Mar/Apr 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: 90210</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays- 90210.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Lowe]]</li><!--
+  --><li style="">[[Bryan Cruz]]</li><!--
+  --><li style="">[[Cassiday Proctor]]</li><!--
+  --><li style="">[[Erica Lies]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[John Buseman]]</li><!--
+  --><li style="">[[Martina Ohlhauser]]</li><!--
+  --><li style="">[[Michael Thomas]]</li><!--
+  --><li style="" >[[Sara Osburn]]</li><!--
+  --><li style="">[[Tyler Pratt]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Madeline Jo Chauvin]]</li><!--
+  --><li style="">[[Todd Hart]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar/Apr 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 :*This page refers to the [[Live TV Tuesdays]] presentation of "Spring Dance".  For the [[Gnap! Theater Projects]] improv show based on *90210*, see *[[Totally Improvised, 90210]]''.
 
 ***Live TV Tuesdays: 90210*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Beverly Hills, 90210|*Beverly Hills, 90210*]] episode [http://90210.wikia.com/wiki/Spring_Dance "Spring Dance"].

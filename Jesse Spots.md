@@ -1,8 +1,24 @@
-{{Infobox Performer
-|Name	=	Jesse Spots	
-|Theater=	[[The New Movement Theater]]
-|Years	=	2009-2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jesse Spots</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Performer Default Image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The New Movement Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jesse Spots** is an improv performer and festival producer with [[The New Movement Theater]].
 

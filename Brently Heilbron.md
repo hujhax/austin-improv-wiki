@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Brently Heilbron	
-|Picture =	Brently Heilbron Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	1995-2000, 2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Brently Heilbron</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Brently Heilbron Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1995-2000, 2011-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Brently Heilbron** is an improv performer, director, teacher, and musician.
 

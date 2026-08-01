@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=	Cover to Cover
-|Picture=	Cover to Cover.gif
-|Theater=	[[Salvage Vanguard Theater]]
-|Director =	{{Unbulleted list | [[Audrey Rachel Sansom]] | [[Julie Gillis]] }}
-|Producer =     [[Gnap! Theater Projects]]	
-|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Amy McKenna]] | [[Ashlee Medlin]] | [[Ashley Lowe]] | [[Audrey Rachel Sansom]] | [[Emma Holder]] | [[Eric Heiberg]] | [[Julie Gillis]] | [[Kevin Miller]] | [[Nick Jimenez]] | [[Nicole Beckley]] | [[Odin Amador]] }}
-|Run	=	Oct/Nov 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Cover to Cover</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Cover to Cover.gif]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Julie Gillis]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Dobrenko]]</li><!--
+  --><li style="">[[Amy McKenna]]</li><!--
+  --><li style="">[[Ashlee Medlin]]</li><!--
+  --><li style="">[[Ashley Lowe]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Julie Gillis]]</li><!--
+  --><li style="" >[[Kevin Miller]]</li><!--
+  --><li style="">[[Nick Jimenez]]</li><!--
+  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style="">[[Odin Amador]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct/Nov 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ![[Cover to Cover Performance.jpg|A performance of *Cover to Cover*.]]
 ![[Cover to Cover Blackboard.jpg|The *Cover to Cover* blackboard, showing the book title and the chapter assignments.]]
 

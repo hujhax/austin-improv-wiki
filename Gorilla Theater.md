@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name	=	Gorilla Theater
-|Picture =	Gorilla Theater Pic.jpg
-|Theater =	[[The Hideout Theatre]]
-|Director =	Various	
-|Cast	=	Various
-|Initial Run	=	1999-2003
-|Subsequent Runs = Oct-Dec 2006
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Gorilla Theater</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Gorilla Theater Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Unknown</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Oct-Dec 2006</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Gorilla Theater*** was a Johnstonian format put on by [[The Hideout Theatre]].
 
 ## Summary

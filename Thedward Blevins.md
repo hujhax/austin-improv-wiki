@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Thedward Blevins	
-|Picture =	thedward01.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2010-{{CURRENTYEAR}}
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Thedward Blevins</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Thedward01.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-{{CURRENTYEAR}}</td>
+		</tr>
+
+	</table>
+</div>
 **Thedward Blevins** is an improv performer and technical improviser.
 
 He has studied improvised theatre at [[The Hideout Theatre|The Hideout]], [[The Merlin Works Institute for Improvisation|Merlin Works]], and [[The Institution Theater|The Institution]].

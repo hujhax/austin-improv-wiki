@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name = Stool Pigeon	
-|Picture =	Stool Pigeon.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	Various
-|Cast =	{{Unbulleted list | [[Ashley Nugent]] | [[Bryan Roberts]] | [[Chrissy Shackelford]] | [[Christopher Orf]] | [[Cortnie Jones]] | [[Drew Wesely]] | [[Erika May McNichol]] | [[Josh Krilov]] | [[Kaci Beeler]] | [[Katie Sicking]] | [[Kayla Lane Freeman]] | [[Lance Gilstrap]] | [[Lisa Jackson]] | [[Lisa Jackson]] | [[Michael Jastroch]] | [[Nick Ramirez]] |}}
-|Run	=	2007-2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Stool Pigeon</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Stool Pigeon.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Bryan Roberts]]</li><!--
+  --><li style="">[[Chrissy Shackelford]]</li><!--
+  --><li style="">[[Christopher Orf]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Erika May McNichol]]</li><!--
+  --><li style="">[[Josh Krilov]]</li><!--
+  --><li style="" >[[Kaci Beeler]]</li><!--
+  --><li style="">[[Katie Sicking]]</li><!--
+  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="">[[Nick Ramirez]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2007-2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Stool Pigeon*** was a weekly [http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny Armando] at [[ColdTowne Theater]].
 

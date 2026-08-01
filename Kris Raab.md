@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name =	Kris Raab
-|Picture =	
-|Theater=	[[Merlin Works]], [[The Hideout Theatre]], [[ColdTowne Theater]]
-|Years	=	2013-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Kris Raab</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[Merlin Works]], [[The Hideout Theatre]], [[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 Kris a.k.a. Kraab a.k.a. Sir Kraab is an improviser in Austin, TX, by way of D.C. and a few other places. She improvises with [http://humanpeopleimprov.com Human People]].
 

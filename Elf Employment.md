@@ -1,14 +1,163 @@
-{{Infobox Show
-|Name	=	Elf Employment	
-|Picture=	Elf Employment.jpg
-|Theater=	{{Unbulleted list | [[Salvage Vanguard Theater]] (2011) | [[The Institution Theater]] (2013) }}
-|Producer=	[[Puppet Improv Project]]
-|Director =	[[Sara Farr]]
-|Cast	=	{{Unbulleted list | [[Amy McKenna]] | [[Bryan Curry]] | [[Camille Latour]] | [[Chadwick Smith]] | [[Howard Katz]] | [[Jennifer Bateman]] | [[Jesse Overright]] | [[Kate Bojanek]] | [[Patrick Knisley]] | [[Sara Farr]] | [[Shawn Utterback]] | [[Topping Haggerty]] }}
-|Music = [[Ammon Taylor]]
-|Run	=	Dec 2011
-|Subsequent Runs = Dec 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Elf Employment</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Elf Employment.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Salvage Vanguard Theater]] (2011)</li><!--
+  --><li style="">[[The Institution Theater]] (2013)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Sara Farr]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Puppet Improv Project]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Ammon Taylor]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy McKenna]]</li><!--
+  --><li style="">[[Bryan Curry]]</li><!--
+  --><li style="">[[Camille Latour]]</li><!--
+  --><li style="">[[Chadwick Smith]]</li><!--
+  --><li style="">[[Howard Katz]]</li><!--
+  --><li style="">[[Jennifer Bateman]]</li><!--
+  --><li style="">[[Jesse Overright]]</li><!--
+  --><li style="">[[Kate Bojanek]]</li><!--
+  --><li style="" >[[Patrick Knisley]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Shawn Utterback]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Dec 2011</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Dec 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Elf Employment*** is a Christmas-themed improvised puppet musical.
 
 ## Summary

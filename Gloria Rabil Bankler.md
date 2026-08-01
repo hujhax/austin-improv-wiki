@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Gloria Rabil Bankler
-|Picture =	Gloria Bankler Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Gloria Rabil Bankler</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Gloria Bankler Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Gloria Rabil Bankler** is an improv performer who works primarily with [[The Hideout Theatre]].
 

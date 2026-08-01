@@ -1,13 +1,56 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays	
-|Picture=	Live TV Tuesdays.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	Various
-|Cast	=	Various
-|Tech	=	Various
-|Run	=	Aug 2009
-|Subsequent Runs= 2009-2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">Various</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Aug 2009</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">2009-2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 
 ***Live TV Tuesdays*** (formerly known as ***Teen Angst Tuesdays***) were a series of theatrical presentations put on by [[The Institution Theater]] where casts of mostly improvisors presented staged versions of beloved TV episodes.

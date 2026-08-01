@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		You Me & Greg
-|Picture	=	You Me & Greg.jpg
-|Cast	=	{{Unbulleted list | [[Doug Pena]] | [[Greg Spencer]] | [[Phil Aulie]] }}
-|Years	=		2005-2008
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">You Me & Greg</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[You Me & Greg.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2005-2008</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Doug Pena]]</li><!--
+  --><li style="">[[Greg Spencer]]</li><!--
+  --><li style="">[[Phil Aulie]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **You Me & Greg** was an improv troupe.
 

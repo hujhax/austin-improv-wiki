@@ -3,13 +3,27 @@
 ## Usage
 This template lists standard, useful information about an improv theater.
 <pre>
-{{Infobox Theater
-|Name	=		
-|Picture	=	
-|Address	=	
-|Homepage	=	
-|Years	=		
-}}
+<div>
+	<table class="infobox infobox-theater">
+		<tr>
+			<th colspan="2" class="infobox-header"></th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Address</th>
+			<td class="category"></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Years of Operation</th>
+			<td class="category"></td>
+		</tr>
+	</table>
+</div>
 </pre>
 
 
@@ -33,26 +47,21 @@ This template lists standard, useful information about an improv theater.
 <div>
 	<table class="infobox infobox-theater">
 		<tr>
-			<th colspan="2" class="infobox-header">{{{Name|Theater Name}}}</th>
+			<th colspan="2" class="infobox-header">Theater Name</th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[{{{Picture]]
+				![[Theater Default Image.jpg]]
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Address</th>
-			<td class="category">{{{Address|Theater Address}}}</td>
+			<td class="category">Theater Address</td>
 		</tr>
-{{#if: {{{Homepage|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Homepage</th>
-			<td class="category">{{{Homepage}}}</td>
-		</tr>
-|}}
+
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
-			<td class="category">{{{Years|Years of Operation}}}</td>
+			<td class="category">Years of Operation</td>
 		</tr>
 	</table>
 </div>

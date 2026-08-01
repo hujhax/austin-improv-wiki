@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Cup
-|Cast	=	{{ Unbulleted list | [[Brad Knox]] | [[Calan lambert]] | [[Carlos LaRotta]] | [[Elizabeth Osterwich]] | [[J. M. Specht]] | [[Janelle Revord]] | [[Jeff Whitaker]] | [[Katherine Johnson]] | [[Kevin Williamson]] | [[Tre Fuentes]] }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Cup</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brad Knox]]</li><!--
+  --><li style="">[[Calan lambert]]</li><!--
+  --><li style="">[[Carlos LaRotta]]</li><!--
+  --><li style="">[[Elizabeth Osterwich]]</li><!--
+  --><li style="">[[J. M. Specht]]</li><!--
+  --><li style="">[[Janelle Revord]]</li><!--
+  --><li style="">[[Jeff Whitaker]]</li><!--
+  --><li style="">[[Katherine Johnson]]</li><!--
+  --><li style="" >[[Kevin Williamson]]</li><!--
+  --><li style="">[[Tre Fuentes]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Cup** was a [[ColdTowne Student Troupe]].
 

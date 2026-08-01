@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name = Highly Suggestible	
-|Picture =	Highly Suggestible.jpg
-|Theater = [[The Institution Theater]]
-|Director =	[[Asaf Ronen]]
-|Cast =	Varies
-|Tech = Varies
-|Run	=	2015-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Highly Suggestible</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Highly Suggestible.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">Varies</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2015-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Highly Suggestible*** (formerly ***Whiteboard***) is an ongoing montage show at the Institution Theater.
 

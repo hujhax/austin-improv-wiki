@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name               = A Penny Dreadful
-|Picture            = A Penny Dreadful.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Troy Miller]]
-|Assistant Director           = [[David Schwartz]]
-|Run                = Dec 2014
-|Cast               = {{Unbulleted list | [[Ali Meier]] | [[Andrew Schwartz]] | [[Charlie Hoehn]] | [[Jeremy Moran]] | [[Jessica von Schramm]] | [[Linzy Beltran]] | [[Margaret Rose Hunsicker]] | [[Rosemarie Frezza]] | [[Seth Johnson]] | [[Theo Daley]] }}
-|Tech = {{Unbulleted list | [[Tyler Lane]] (lighting) | [[Paul Weiner]] (sound) | [[Mike Reed]] (music) }} 
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">A Penny Dreadful</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[A Penny Dreadful.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Troy Miller]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[David Schwartz]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ali Meier]]</li><!--
+  --><li style="">[[Andrew Schwartz]]</li><!--
+  --><li style="">[[Charlie Hoehn]]</li><!--
+  --><li style="">[[Jeremy Moran]]</li><!--
+  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><li style="">[[Linzy Beltran]]</li><!--
+  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
+  --><li style="">[[Rosemarie Frezza]]</li><!--
+  --><li style="" >[[Seth Johnson]]</li><!--
+  --><li style="">[[Theo Daley]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Tyler Lane]] (lighting)</li><!--
+  --><li style="">[[Paul Weiner]] (sound)</li><!--
+  --><li style="">[[Mike Reed]] (music)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Dec 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***A Penny Dreadful*** was the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].  It drew inspiration from the [[Wikipedia - Gothic fiction|Gothic horror]] genre.
 

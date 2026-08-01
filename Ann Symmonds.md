@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Ann Symmonds
-|Picture =	Ann Symmonds Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=       2013-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Ann Symmonds</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Ann Symmonds Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Ann Symmonds** (formerly **Ann Nelson**) is an improv performer. She's studied at the Hideout and Institution Theatres and tries to perform as often as she can with her troupes, Physics Curse and Boomerang, or in weekly shows like Maestro. To support her improv habit she's a fundraiser for the Food Bank. 
 

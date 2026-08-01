@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Donna Rice
-|Picture =	Donna RicePic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2013-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Donna Rice</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Donna RicePic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Donna Rice** is an actor, improviser, writer and director.
 

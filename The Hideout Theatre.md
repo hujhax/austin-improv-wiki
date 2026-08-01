@@ -1,10 +1,29 @@
-{{Infobox Theater
-|Name	=		The Hideout Theatre
-|Picture	=	Hideout_logo.png
-|Address	=	617 Congress Avenue
-|Homepage	=	http://www.hideouttheatre.com
-|Years	=		1998-Present
-}}
+<div>
+	<table class="infobox infobox-theater">
+		<tr>
+			<th colspan="2" class="infobox-header">The Hideout Theatre</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Hideout logo.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Address</th>
+			<td class="category">617 Congress Avenue</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Homepage</th>
+			<td class="category">http://www.hideouttheatre.com</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Years of Operation</th>
+			<td class="category">1998-Present</td>
+		</tr>
+	</table>
+</div>
 
 ![[Hideout Exterior.jpg|The view from Congress of the Hideout Theatre.]]
 
@@ -26,7 +45,29 @@ By mid-2009, [[Sean Hill]]'s lease on the property came to an end, and he chose 
 On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House business and operations. In January of 2013, the Saturday mainstage shows, as well as *[[Maestro]]*, were moved to the building's larger, downstairs theater. In April, the Coffee House hours were extended, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows. A second, smaller, Hideout Coffee bar location opened inside an office building at 504 Lavaca in June of 2014. Unlike the expanded hours of The Hideout Coffee House, the Coffee Bar is only open Monday-Friday from 7am until 3pm.
 
 ## Shows
-{{List of Hideout Theatre Shows}}
+The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
+
+### Ongoing Shows
+* *[[Hideout Kids]]*
+* *[[The Free Fringe]]*
+* *[[Gorilla Theater]]*
+* *[[Maestro]]*
+* *[[More or Less]]*
+* *[[Six Degrees]]*
+* *[[The Spectacle]]*
+* *[[The Threefer]]*
+* *[[The Weekender]]*
+* *[[The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
+** *[[2x4]]*
+** *[[Control Issues]]*
+** *[[Dubbed Indemnity]]*
+** *[[The Fancy-Pants Mashup]]*
+** *[[The Lottery]]*
+** *[[Maestro Raw]]*
+** *[[The Narrative Improv Jam]]*
+** *[[The Nightmare Video Project]]*
+** *[[The TV Set]]*
+** "[[TheatreDome]]"
 
 ## Media
 ### Videos

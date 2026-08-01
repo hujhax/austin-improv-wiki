@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Madi Goff	
-|Picture =	Madi Goff Pic.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Years	=	2008-2011
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Madi Goff</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Madi Goff Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-2011</td>
+		</tr>
+
+	</table>
+</div>
 
 **Madi Goff** is an actress and improv performer.
 

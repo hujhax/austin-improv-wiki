@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	Dubbed Indemnity
-|Picture = 	Dubbed Indemnity.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast=		Varied
-|Director =	[[Roy Janik]]	
-|Run	=	Sep 2010-Sep 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Dubbed Indemnity</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Dubbed Indemnity.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varied</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep 2010-Sep 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Dubbed Indemnity*** was a shortform show at [[The Hideout Theater]] where improvisors dubbed a new soundtrack onto silenced film and television clips.
 

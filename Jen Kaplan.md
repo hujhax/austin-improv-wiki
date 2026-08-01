@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jen Kaplan
-|Picture =	Jen Kaplan Pic.jpg
-|Theater=	Various
-|Years	=	2007-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jen Kaplan</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jen Kaplan Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jen Kaplan** is an improv performer who has worked with a variety of theaters.
 

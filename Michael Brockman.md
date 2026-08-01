@@ -1,10 +1,80 @@
-{{Infobox Performer
-|Name	=	Michael Brockman	
-|Picture =	Michael Brockman Pic.jpg
-|Theater=	Various
-|Instruments = {{Unbulleted list | [[Guitar]] | [[Piano]] }}
-|Years	=	2005-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Michael Brockman</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Michael Brockman Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Instrument(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Guitar]]</li><!--
+  --><li style="">[[Piano]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+	</table>
+</div>
 
 **Michael Brockman** is an improv musician and improv-singing teacher.
 

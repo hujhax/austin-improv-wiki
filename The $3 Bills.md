@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		The $3 Bills
-|Picture	=	The $3 Bills.jpg
-|Cast	=	{{ Unbulleted list | [[Belinda Carroll]] | [[Cody Melcher]] | [[Marci Spivey]] |[[Kim Wilson]] }}
-|Years	=		2009-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The $3 Bills</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The $3 Bills.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Belinda Carroll]]</li><!--
+  --><li style="">[[Cody Melcher]]</li><!--
+  --><li style="">[[Marci Spivey]]</li><!--
+  --><li style="">[[Kim Wilson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The $3 Bills** was a [[Wikipedia - GLBTQ|GLBTQ]]-themed improv troupe.
 

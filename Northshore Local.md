@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Northshore Local
-|Picture	=	Northshore Local.jpg
-|Cast	=	{{ Unbulleted list | [[Ashley Nugent]] | [[Chris Baldenhofer]] | [[Collin Cannaday]] | [[Cortnie Jones]] | [[Delaney Liming]] | [[Emma Holder]] | [[Jared Stepp]] | [[Mark Carpenter]] | [[Patrick Knisely]] | [[Phil Wilhelm]] | [[Teresa Kubos]] }}
-|Years	=		2008-2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Northshore Local</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Northshore Local.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2008-2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style="">[[Chris Baldenhofer]]</li><!--
+  --><li style="">[[Collin Cannaday]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Delaney Liming]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Mark Carpenter]]</li><!--
+  --><li style="" >[[Patrick Knisely]]</li><!--
+  --><li style="">[[Phil Wilhelm]]</li><!--
+  --><li style="">[[Teresa Kubos]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Northshore Local** was an improv troupe.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Andrew Johnston
-|Picture =	AndrewJohnston.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Andrew Johnston</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[AndrewJohnston.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+	</table>
+</div>
 Andrew Johnston is an improv performer and sometimes magician. 
 
 Andrew began studying at [[The Institution Theater]] in early 2012 in order to overcome stage fright.  Although he continues an interest in magic, he has taken a hard turn toward improvised theater at the Institution.

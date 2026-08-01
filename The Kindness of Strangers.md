@@ -1,27 +1,148 @@
-{{Infobox Show
-|Name	=	The Kindness of Strangers	
-|Picture = kindness_of_strangers.jpg
-|Director = {{Unbulleted list | [[Rob Yoho]] | 
-[[Kaci Beeler]] }}
-|Cast	=	{{Unbulleted list | 
-[[Kaci Beeler]] |
-[[Marcone Cangussu]] |
-[[Katie Dahm]] |
-[[Cat Drago]] |
-[[Courtney Hopkin]] |
-[[Margaret Hunsicker]] |
-[[Tatiana Jitkoff]] |
-[[Marc Majcher]] |
-[[Adrian Prado]] |
-[[Peter Rogers]] |
-[[Aaron Saenz]] |
-[[Luis Salinas]] |
-[[Alex Walker]] |
-[[J.R. Zambrano]]
- }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	July-August 2017
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Kindness of Strangers</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Kindness of strangers.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Rob Yoho]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Marcone Cangussu]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Margaret Hunsicker]]</li><!--
+  --><li style="">[[Tatiana Jitkoff]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="" >[[Adrian Prado]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style="">[[Alex Walker]]</li><!--
+  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">July-August 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Kindness of Strangers*** was a Hideout mainstage show inspired by the work of playwright Tennessee Williams. 
 

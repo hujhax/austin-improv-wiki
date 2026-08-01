@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name = Wanderlust	
-|Picture = Wanderlust.jpg
-|Theater = [[The Hideout Theatre]]
-|Director =	[[Ruby Willmann]]
-|Assistant Director =	[[Aaron Saenz]]
-|Cast =	{{Unbulleted list | [[Andreas Fabis]] | [[Cat Drago]] | [[Ceej Allen]] | [[Chris Albano]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Manuel Duran]] | [[Marc Majcher]] | [[Melissa Patterson]] | [[Nicole Oliver]] | [[Ryan Austin]] }}
-|Tech = {{Unbulleted list | [[Ian Marcotte]] (stage manager) | [[Michael Yew]] (sound) | [[Chad Wellington]] (lights) }}
-|Run	=	Jan/Feb 2015
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Wanderlust</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Wanderlust.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Ruby Willmann]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Aaron Saenz]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Chris Albano]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Manuel Duran]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Melissa Patterson]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ian Marcotte]] (stage manager)</li><!--
+  --><li style="">[[Michael Yew]] (sound)</li><!--
+  --><li style="">[[Chad Wellington]] (lights)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan/Feb 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Wanderlust*** was a mainstage at [[The Hideout Theatre]].  It depicted two people going on a journey.
 

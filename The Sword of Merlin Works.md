@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name = The Sword of Merlin Works	
-|Picture =	The Sword of Merlin Works.jpg
-|Theater = [[Salvage Vanguard Theater]]
-|Producer = [[Gnap! Theater Projects]]
-|Director =	{{Unbulleted list | [[Michael Joplin]] | [[Quinn Buckner]] }}
-|Cast =	{{Unbulleted list | [[David Wells]] | [[Jennifer Dorsey]] | [[Lacy Shawn]] | [[Paul Normandin]] | [[Stacey Hopp]] | [[Thedward Blevins]] | [[Todd Geldon]] | [[Zachary Palmer]] }}
-|Run	=	May/Jun 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Sword of Merlin Works</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Sword of Merlin Works.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[David Wells]]</li><!--
+  --><li style="">[[Jennifer Dorsey]]</li><!--
+  --><li style="">[[Lacy Shawn]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Stacey Hopp]]</li><!--
+  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style="">[[Todd Geldon]]</li><!--
+  --><li style="">[[Zachary Palmer]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Sword of Merlin Works*** was an improvised narrative based on [[Wikipedia - King Arthur|Arthurian]] fantasy.
 

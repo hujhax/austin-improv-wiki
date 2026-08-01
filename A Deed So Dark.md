@@ -1,14 +1,214 @@
-{{Infobox Show
-|Name               = A Deed So Dark
-|Picture            = A Deed So Dark.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Valerie Ward]]
-|Music Director   = [[Ammon Taylor]]
-|Run                = Sep/Oct 2015
-|Cast               = {{Unbulleted list | [[Kacey Samiee]] | [[Erin Molson]] | [[Sarah Doering]] | [[Sarah Marie Curry]] | [[Jordan T. Maxwell]] | [[Kareem Badr]] | [[Brett Tribe]] | [[J. R. Zambrano]] }}
-|Music              = {{Unbulleted list | [[Lindsey Verrill]] | [[Tosin Awofeso]]}}
-|Tech               = {{Unbulleted list | [[Robert Slack]] (stage manager) | [[Cindy Page]] (lights) | [[Rachel Posey Austin]] (sound)}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">A Deed So Dark</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[A Deed So Dark.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Valerie Ward]]</td>
+		</tr>
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music Director(s)</th>
+			<td class="category">[[Ammon Taylor]]</td>
+		</tr>
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Lindsey Verrill]]</li><!--
+  --><li style="">[[Tosin Awofeso]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Erin Molson]]</li><!--
+  --><li style="">[[Sarah Doering]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[J. R. Zambrano]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Robert Slack]] (stage manager)</li><!--
+  --><li style="">[[Cindy Page]] (lights)</li><!--
+  --><li style="">[[Rachel Posey Austin]] (sound)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep/Oct 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***A Deed So Dark*** was the September/October 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 

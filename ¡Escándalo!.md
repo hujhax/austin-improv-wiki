@@ -1,15 +1,107 @@
-{{Infobox Show
-|Name	=	¡Escándalo!	
-|Picture = escandalo.jpg
-|Director = [[Jessica von Schramm]]
-|Assistant Director = [[Luke Wallens]]
-|Technical Director = [[Jay Mahavier]]
-|Cast	=	{{Unbulleted list | [[Aaron Rubin]] | [[Alonso Salas]] | [[Andy Gonzalez-Bendiksen]] | [[Cindy Brio]] | [[Claudio Fox]] | [[Cristy Salinas]] | [[Esperanza Rivadeneira]] | [[Gabriela Vargas]] | [[Karlie Lemos]] | [[Laura Galán Wells]] }}
-|Crew = {{Unbulleted list | [[Francisco Peña]] | [[Jennifer Dorsey]] | [[Sandra Ybarra]] }}
-|Stage Manager = [[Angelina Martin]]
-|Theater = [[The Hideout Theatre]]
-|Run	=	April 2018
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">¡Escándalo!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Escandalo.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jessica von Schramm]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Luke Wallens]]</td>
+		</tr>
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Stage Manager(s)</th>
+			<td class="category">[[Angelina Martin]]</td>
+		</tr>
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Rubin]]</li><!--
+  --><li style="">[[Alonso Salas]]</li><!--
+  --><li style="">[[Andy Gonzalez-Bendiksen]]</li><!--
+  --><li style="">[[Cindy Brio]]</li><!--
+  --><li style="">[[Claudio Fox]]</li><!--
+  --><li style="">[[Cristy Salinas]]</li><!--
+  --><li style="">[[Esperanza Rivadeneira]]</li><!--
+  --><li style="">[[Gabriela Vargas]]</li><!--
+  --><li style="" >[[Karlie Lemos]]</li><!--
+  --><li style="">[[Laura Galán Wells]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">April 2018</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***¡Escándalo!*** is a Hideout student mainstage show inspired by telenovelas.
 

@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Second Show
-|Cast	=	{{ Unbulleted list | [[Audrey Alberthal]] | [[Charlie Hoehn]] | [[Heather Hasselle]] | [[John McConnel]] | [[Lauren Chavarria]] | [[Shamik Basu]] | [[Sunaina Suhag]] | [[Tania Quintanilla]] }}
-|Years	=		2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Second Show</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Audrey Alberthal]]</li><!--
+  --><li style="">[[Charlie Hoehn]]</li><!--
+  --><li style="">[[Heather Hasselle]]</li><!--
+  --><li style="">[[John McConnel]]</li><!--
+  --><li style="">[[Lauren Chavarria]]</li><!--
+  --><li style="">[[Shamik Basu]]</li><!--
+  --><li style="">[[Sunaina Suhag]]</li><!--
+  --><li style="">[[Tania Quintanilla]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Second Show** was an improv troupe.  They specialized in the so-called "second show" -- the improvisors messing with each other beneath the surface of the scene.
 

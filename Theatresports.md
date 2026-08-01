@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name	=	Theatresports	
-|Picture = TheatreSports.jpg
-|Director = {{Unbulleted list | [[Dav Wallace]] and [[Sean Hill]] (2007) | [[Andy Crouch]] and [[Kareem Badr]] (2010) | [[Roy Janik]] (2013) | [[Lacy Shawn]] and [[Ryan Austin]] (2014) }}
-|Assistant Director = [[Ryan Austin]] (2013)
-|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Aden Kirschner]] | [[Amira Wizig]] | [[Andrew Buck]] | [[Andrew Robinson]] | [[Andy Crouch]] | [[Asaf Ronen]] | [[Brad Temple]] | [[Bridget Brewer]] | [[Ceej Allen]] | [[David Lampe]] | [[Emily Breedlove]] | [[Eric Heiberg]] | [[Halyn Lee Erickson]] | [[Jason Vines]] | [[Jay Michael]] | [[Jessica Arjet]] | [[Joe Fraser]] | [[Jon Bolden]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Katie Dahm]] | [[Keegan Hines]] | [[Kristin Firth]] | [[Kyle Traughber]] | [[Lacy Shawn]] | [[Lauren Buck]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mia Iseman]] | [[Monique Daviau]] | [[Nicole Oliver]] | [[Patrick Daniel]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Roy Janik]] | [[Sarah Marie Curry]] | [[Sean Hill]] | [[Shana Merlin]] | [[Shannon McCormick]] | [[Stacy Kaplowitz]] | [[Ted Rutherford]] | [[Teresa Troxel]] | [[Troy Miller]] }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	Apr-Jun 2007
-|Subsequent Runs = {{Unbulleted list | Sep/Oct 2010 | May/Jun 2013 | May/Jun 2014 }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Theatresports</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[TheatreSports.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Dav Wallace]] and [[Sean Hill]] (2007)</li><!--
+  --><li style="">[[Andy Crouch]] and [[Kareem Badr]] (2010)</li><!--
+  --><li style="">[[Roy Janik]] (2013)</li><!--
+  --><li style="">[[Lacy Shawn]] and [[Ryan Austin]] (2014)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Ryan Austin]] (2013)</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Aden Kirschner]]</li><!--
+  --><li style="">[[Amira Wizig]]</li><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Andrew Robinson]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style="">[[Brad Temple]]</li><!--
+  --><li style="" >[[Bridget Brewer]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jay Michael]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Joe Fraser]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Keegan Hines]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Lacy Shawn]]</li><!--
+  --><li style="">[[Lauren Buck]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Matt Pollock]]</li><!--
+  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style="">[[Monique Daviau]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style="">[[Patrick Daniel]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Sean Hill]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style="">[[Shannon McCormick]]</li><!--
+  --><li style="">[[Stacy Kaplowitz]]</li><!--
+  --><li style="">[[Ted Rutherford]]</li><!--
+  --><li style="">[[Teresa Troxel]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Apr-Jun 2007</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Sep/Oct 2010</li><!--
+  --><li style="">May/Jun 2013</li><!--
+  --><li style="">May/Jun 2014</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 : *This page refers to the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show.  For the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012, see [[ComedySportz]].*
 
 ***Theatresports*** is an improv-contest format from [[Wikipedia - Keith Johnstone|Keith Johnstone]] that has run repeatedly as a mainstage show at [[The Hideout Theatre]].

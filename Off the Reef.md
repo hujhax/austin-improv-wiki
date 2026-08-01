@@ -1,14 +1,112 @@
-{{Infobox Show
-|Name	=	Off the Reef	
-|Picture=	Off the Reef.png
-|Theater=	[[The Dougherty Arts Center]]
-|Producer=	[[Puppet Improv Project]]
-|Director =	[[Dave Buckman]]
-|Cast	=	{{Unbulleted list | [[Alyse Deller]] | [[Amy Smith]] | [[Chadwick Smith]] | [[Ellen Pittsford]] | [[Eric Heiberg]] | [[Howard Katz]] | [[Jenna Howard]] | [[Jesse Overright]] | [[Jessica Salinas]] | [[Nancy Lyon]] | [[Patrick Knisely]] | [[Sara Farr]] | [[Shana Merlin]] | [[Topping Haggerty]] }}
-|Tech = [[Kat Greco]]
-|Music = [[David Meyers]]
-|Run	=	Nov 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Off the Reef</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Off the Reef.png]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Dougherty Arts Center]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Dave Buckman]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Puppet Improv Project]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[David Meyers]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alyse Deller]]</li><!--
+  --><li style="">[[Amy Smith]]</li><!--
+  --><li style="">[[Chadwick Smith]]</li><!--
+  --><li style="">[[Ellen Pittsford]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Howard Katz]]</li><!--
+  --><li style="">[[Jenna Howard]]</li><!--
+  --><li style="">[[Jesse Overright]]</li><!--
+  --><li style="" >[[Jessica Salinas]]</li><!--
+  --><li style="">[[Nancy Lyon]]</li><!--
+  --><li style="">[[Patrick Knisely]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Kat Greco]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Nov 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Off the Reef*** was an improvised puppet show.
 
 ## Summary

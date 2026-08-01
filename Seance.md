@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Seance
-|Picture =	Seance.jpg
-|Theater =	[[Salvage Vanguard Theater]]
-|Producer = [[Gnap! Theater Projects]]
-|Director =	[[Clay Towery]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Bridget Brewer]] | [[Cassidy Claire Riesen]] | [[Clay Towery]] | [[Emily Breedlove]] | [[J. M. Specht]] | [[Jesse Overright]] | [[Kristin Firth]] | [[Marc Majcher]] | [[Sara Farr]] | [[Todd Hart]] }}
-|Run	=	Oct/Nov 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Seance</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Seance.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Clay Towery]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Cassidy Claire Riesen]]</li><!--
+  --><li style="">[[Clay Towery]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[J. M. Specht]]</li><!--
+  --><li style="">[[Jesse Overright]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Todd Hart]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct/Nov 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 :*This page refers to the Salvage Vanguard mainstage run based around 19th-century communications with dead spirits.  For the Salvage Vanguard graduation show run based on classic ghost stories, see *[[Haunted]]''.
 ***Seance*** (full title: ***Seance! A Meeting of the Secret Society of the Blackbower Mediums*** was a mainstage show of improvised Victorian ghost stories.
 

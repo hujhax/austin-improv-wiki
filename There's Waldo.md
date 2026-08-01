@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	There's Waldo
-|Picture =     There's Waldo.jpg
-|Cast	=	{{Unbulleted list | [[Amy Dietze]] | [[Christine Giordano]] | [[Erica Lies]] | [[John Buseman]] | [[Sara Osburn]] | [[Taylor Overstreet]] | [[Tyler Reece Booker]] }}
-|Years	=		2011-2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">There's Waldo</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[There's Waldo.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Dietze]]</li><!--
+  --><li style="">[[Christine Giordano]]</li><!--
+  --><li style="">[[Erica Lies]]</li><!--
+  --><li style="">[[John Buseman]]</li><!--
+  --><li style="">[[Sara Osburn]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><li style="">[[Tyler Reece Booker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **There's Waldo** was a sketch troupe.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jayme Ramsay	
-|Picture = Jayme_Ramsay.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years= 2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jayme Ramsay</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jayme Ramsay.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+	</table>
+</div>
  
 **Jayme Ramsay** is an improv performer and director.
 

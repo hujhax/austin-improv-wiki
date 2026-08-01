@@ -1,12 +1,26 @@
-{{Pseudonym}}{{Infobox Performer
-|Name	=	Lacy Alana
-|Picture =	 Lacy Shawn Profile.jpg
-|Theater=	[[The Hideout Theatre]]
+*This article employs a [[Pseudonyms|Pseudonym]].  Please do not replace that pseudonym with a real name without that person's permission.*<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Lacy Alana</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Lacy Shawn Profile.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]
 	[[Salvage Vanguard Theater]]
-	[[ZACH Theater]]
-        
-|Years	=	2010-Present
-}}
+	[[ZACH Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 
 

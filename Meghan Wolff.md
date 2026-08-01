@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Meghan Wolff
-|Picture =	Meghan Wolff Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2004-2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Meghan Wolff</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Meghan Wolff Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2004-2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **Meghan Wolff** is an improv performer who worked primarily with [[The Hideout Theatre]], and now lives in Minneapolis.
 

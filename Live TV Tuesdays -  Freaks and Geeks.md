@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays:<br/>Freaks and Geeks	
-|Picture=	Live TV Tuesdays - Freaks and Geeks.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Ted Meredith]]
-|Cast	=	{{Unbulleted list | [[Briana Mckeague]] | [[Carrie Pinkstaff]] | [[Dave Buckman]] | [[Guy Vizard]] | [[Katie Richter]] | [[Katie Thornton]] | [[Kyle Traughber]] | [[Laura Komkov]] | [[Lindsey Reeves]] | [[Michael Jastroch]] | [[Mitchell Deane]] | [[Peter Rogers]] | [[Sam Schak]] | [[Wyatt Tall]] }}
-|Tech	=	[[David Zimmerman]]
-|Run	=	Mar/Apr 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays:<br/>Freaks and Geeks</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - Freaks and Geeks.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Ted Meredith]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Briana Mckeague]]</li><!--
+  --><li style="">[[Carrie Pinkstaff]]</li><!--
+  --><li style="">[[Dave Buckman]]</li><!--
+  --><li style="">[[Guy Vizard]]</li><!--
+  --><li style="">[[Katie Richter]]</li><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Laura Komkov]]</li><!--
+  --><li style="" >[[Lindsey Reeves]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="">[[Mitchell Deane]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Sam Schak]]</li><!--
+  --><li style="">[[Wyatt Tall]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[David Zimmerman]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar/Apr 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: Freaks and Geeks*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Freaks and Geeks|*Freaks and Geeks*]] episode [[Wikipedia - List of Freaks and Geeks episodes|"Beers and Weirs"]]
 
 ## History

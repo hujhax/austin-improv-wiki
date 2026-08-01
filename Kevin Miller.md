@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Kevin Miller	
-|Picture =	Kevin Miller.jpg
-|Theater=	[[Gnap! Theater Projects]], [[Merlin Works Institute for Improvisation]]
-|Years	=	2001-2004,2009-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Kevin Miller</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Kevin Miller.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[Gnap! Theater Projects]], [[Merlin Works Institute for Improvisation]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2001-2004,2009-Present</td>
+		</tr>
+
+	</table>
+</div>
 **Kevin Miller** is an Austin improviser and the dean of the [[Merlin Works Institute for Improvisation]]. He started improv on October 24, 2001, the morning after seeing his friend [[Andy Crouch]]'s graduation show at the [[Hideout Theatre]]. His first instructor was [[Shana Merlin]]. Kevin graduated from Level 3 at the Hideout on March 26, 2002 and became a member of [[We Could Be Heroes]].
 
 Kevin took time off from improv starting in late 2004 to be a guide for Austin Ghost Tours. His time away continued through February 2009, when he participated in the Hideout Theatre 10th Anniversary show. He then played in the July 25, 2009 Maestro, and gradually rejoined the improv community from there. On March 6, 2011, Kevin successfully auditioned for [[False Matters]], his first mainstage show after the long break.

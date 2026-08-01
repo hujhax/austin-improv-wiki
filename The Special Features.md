@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=	The Special Features
-|Picture =      The Special Features 1.jpg
-|Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Matthew Arisheh Falkenberg]] | [[Ali Meier]] | [[Robert Slack]] | [[Carl Ziegler]] | [[Barrett Phelan]] | [[Ripley Adams]] }}
-|Director = [[Matthew Arisheh Falkenberg]]
-|Years	=	2013-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Special Features</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Special Features 1.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Matthew Arisheh Falkenberg]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style="">[[Matthew Arisheh Falkenberg]]</li><!--
+  --><li style="">[[Ali Meier]]</li><!--
+  --><li style="">[[Robert Slack]]</li><!--
+  --><li style="">[[Carl Ziegler]]</li><!--
+  --><li style="">[[Barrett Phelan]]</li><!--
+  --><li style="">[[Ripley Adams]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 ## Summary
 **The Special Features** is an improv troupe, started by [[Matthew Arisheh Falkenberg]], to perform fully unscripted never before seen improvised movies.

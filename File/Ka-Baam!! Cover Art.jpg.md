@@ -6,4 +6,6 @@ Photo by: unknown, from [http://www.flickr.com/photos/austinimprov/sets/72157605
 Drawing by Andrew Augustine.
 
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

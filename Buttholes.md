@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Buttholes
-|Picture = Mandinka.jpg
-|Cast	=	{{Unbulleted list|[[Mia Iseman]]|[[John Carroll]]|[[Hannah Monson]]|[[Elena Martinez]]}}
-|Years	=		2018-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Buttholes</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Mandinka.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2018-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style="">[[John Carroll]]</li><!--
+  --><li style="">[[Hannah Monson]]</li><!--
+  --><li style="">[[Elena Martinez]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 **Buttholes** (often written in all caps: **BUTTHOLES**) is a group consisting of [[Mia Iseman]], [[Elena Martinez]], [[Hannah Monson]], and [[John Carroll]].
 
 ## Summary

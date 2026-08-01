@@ -1,9 +1,83 @@
-{{Infobox Troupe
-|Name	=		I Am a Coat Rack, I Am a Lamp
-|Cast	=	{{Unbulleted list | [[Brian Boyko]] | [[Jay Bernardo]] | [[Nadine Latief]] | [[Tami Nelson]] | [[Valerie Ward]] }}
-|Director =	[[Tami Nelson]]
-|Years	=		2006
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">I Am a Coat Rack, I Am a Lamp</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2006</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Tami Nelson]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brian Boyko]]</li><!--
+  --><li style="">[[Jay Bernardo]]</li><!--
+  --><li style="">[[Nadine Latief]]</li><!--
+  --><li style="">[[Tami Nelson]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **I Am a Coat Rack, I Am a Lamp** was an one-off Cagematch team.
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Bless This Mess
-|Picture =		Bless This Mess.jpg
-|Cast	=	{{Unbulleted list | [[Alida Villatoro]] | [[Chaz Formichella]] | [[Jen Kaplan]] | [[Jon Simmons]] | [[Liz Butler]] | [[Matt Derman]] | [[Matt Luke]] | [[Patricia Tate]] | [[Sam VanMetre]] | [[Steve Donovan]] | [[Brett Tribe]] }}
-|Years	=		2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bless This Mess</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Bless This Mess.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alida Villatoro]]</li><!--
+  --><li style="">[[Chaz Formichella]]</li><!--
+  --><li style="">[[Jen Kaplan]]</li><!--
+  --><li style="">[[Jon Simmons]]</li><!--
+  --><li style="">[[Liz Butler]]</li><!--
+  --><li style="">[[Matt Derman]]</li><!--
+  --><li style="">[[Matt Luke]]</li><!--
+  --><li style="">[[Patricia Tate]]</li><!--
+  --><li style="" >[[Sam VanMetre]]</li><!--
+  --><li style="">[[Steve Donovan]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Bless This Mess** was a ColdTowne conservatory class troupe.
 

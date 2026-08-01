@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=		Reform School for Wayward Girls				
-|Picture	=	Reform School for Wayward Girls.jpg				
-|Theater =		[[The Hideout Theatre]]
-|Director =		[[Kaci Beeler]]
-|Run=							Sep/Oct 2014
-|Cast	=		{{Unbulleted list | [[Adrienne Brown]] | [[Ash Nunley]] | [[Courtney Hopkin]] | [[David Schwartz]] | [[Halyn Erickson]] | [[Kaci Beeler]] | [[Kyle Traughber]] | [[Lacy Shawn]] | [[Marc Majcher]] | [[Melissa Patterson]] | [[Nicole Oliver]] | [[Peter Rogers]] | [[Ruby Willmann]] | [[Valerie Ward]] }}
-|Tech = {{Unbulleted list | [[Chris Albano]] (lights) | [[Lindsey McGowen]] (sound) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Reform School for Wayward Girls</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Reform School for Wayward Girls.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Kaci Beeler]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adrienne Brown]]</li><!--
+  --><li style="">[[Ash Nunley]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[David Schwartz]]</li><!--
+  --><li style="">[[Halyn Erickson]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Lacy Shawn]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Melissa Patterson]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chris Albano]] (lights)</li><!--
+  --><li style="">[[Lindsey McGowen]] (sound)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep/Oct 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Reform School for Wayward Girls*** was a mainstage show at [[The Hideout Theatre]] set in a 1970s all-girl reform school.
 

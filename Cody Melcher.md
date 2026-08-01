@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	= Cody Melcher
-|Picture = 	Cody Melcher pic.jpg
-|Theater=	none
-|Years	=	2009 - 2011
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Cody Melcher</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Cody Melcher pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">none</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009 - 2011</td>
+		</tr>
+
+	</table>
+</div>
 
 **Cody Melcher** started in improv and sketch in Austin with The University of Texas' [[Gigglepants]]. He moved to Chicago in 2011 to primarily focus on stand-up.
 

@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Somethin' Good
-|Cast	=	{{ Unbulleted list | [[Andy Balinsky]] | [[Courtney Sevener]] | [[Elizabeth Osterwisch]] | [[Gil Cardenas]] | [[Mary Ann Forester]] | [[Mike Reikofski]] | [[Paul Christian]] | [[Tre Fuentes]] }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Somethin' Good</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Balinsky]]</li><!--
+  --><li style="">[[Courtney Sevener]]</li><!--
+  --><li style="">[[Elizabeth Osterwisch]]</li><!--
+  --><li style="">[[Gil Cardenas]]</li><!--
+  --><li style="">[[Mary Ann Forester]]</li><!--
+  --><li style="">[[Mike Reikofski]]</li><!--
+  --><li style="">[[Paul Christian]]</li><!--
+  --><li style="">[[Tre Fuentes]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Somethin' Good** was an improv troupe.
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Improvised Robocop
-|Picture	=	Improvised Robocop.jpg
-|Cast	=	{{ Unbulleted list | [[Andrew Wesley]] | [[Andy Petruzzo]] | [[Collin Cannaday]] | [[Delaney Liming]] | [[Gene Zhou]] | [[Jared Stepp]] | [[Jenny Carlson]] | [[Jericho Thorpe]] | [[Kyle Sweeney]] | [[Lisa Jackson]] | [[Stephanie Redding]] }}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Improvised Robocop</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Improvised Robocop.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrew Wesley]]</li><!--
+  --><li style="">[[Andy Petruzzo]]</li><!--
+  --><li style="">[[Collin Cannaday]]</li><!--
+  --><li style="">[[Delaney Liming]]</li><!--
+  --><li style="">[[Gene Zhou]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Jenny Carlson]]</li><!--
+  --><li style="">[[Jericho Thorpe]]</li><!--
+  --><li style="" >[[Kyle Sweeney]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Stephanie Redding]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Improvised Robocop** was an improv troupe.
 

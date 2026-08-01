@@ -1,10 +1,27 @@
-{{Infobox Troupe
-|Name	=	Gigglepants
-|Cast	=	Semester to Yearly Rotating Cast
-|Picture=    Gigglepants Logo.jpg
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Gigglepants</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Gigglepants Logo.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2003-Present</td>
+		</tr>
 
-|Years	=		2003-Present
-}}
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category">Semester to Yearly Rotating Cast</td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Gigglepants** is a short-form improv troupe at the University of Texas.
 

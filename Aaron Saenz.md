@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Aaron Saenz	
-|Picture = Aaron Saenz.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2000-2003, 2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Aaron Saenz</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Aaron Saenz.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2000-2003, 2012-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Aaron Saenz** is a classically-trained improviser.
 

@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name = TIT Talks	
-|Picture =	TIT Talks.jpg
-|Theater = [[The Institution Theater]]
-|Director =	{{Unbulleted list | [[Adam Niederpruem]] | [[Justin Davidson]] }}
-|Cast =	Various
-|Run	=	Feb/Mar 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">TIT Talks</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[TIT Talks.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Niederpruem]]</li><!--
+  --><li style="">[[Justin Davidson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb/Mar 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***TIT Talks*** is an improv show inspired by [[Wikipedia - TED (conference)|TED Talks]]. It was named TIT Talks because its initial run of shows was at [[The Institution Theater]]. Later it had two runs of shows at [[The New Movement Theater]], during which it was renamed TNM Talks. 
 

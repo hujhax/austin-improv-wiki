@@ -1,30 +1,270 @@
-{{Infobox Show
-|Name	=	Local on the 8s	
-|Picture = local_on_the_8s.jpg
-|Director = {{Unbulleted list | [[J. R. Zambrano]] | 
-[[Peter Rogers]] }}
-|Tech Director = [[Lindsey McGowen]]
-|Dramaturg = {{unbulleted list | [[Danielle Saar]] | [[Jessica von Schramm]]}}
-|Stage Manager = [[Chris Anderson]]
-|Tech = {{unbulleted list | [[Caroline Dinges]] |
-[[Greg Blank]] |
-[[Daniel Ellsworth]] |
-[[Brad Geiger]] |
-[[Kay Krasin]]
-}}
-|Cast	=	{{Unbulleted list | 
-[[Amanda Chang]] |
-[[Benjamin Blattberg]] |
-[[Caroline Gorman]] |
-[[Jeffrey Chatman]] |
-[[Jennifer Banister]] |
-[[Marissa Macy]] |
-[[Scott Rose]] |
-[[Sushant Sethi]]
-}}
-|Theater = [[The Hideout Theatre]]
-|Run	=	December 2017
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Local on the 8s</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Local on the 8s.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[J. R. Zambrano]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Lindsey McGowen]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Dramaturg(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Danielle Saar]]</li><!--
+  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Stage Manager(s)</th>
+			<td class="category">[[Chris Anderson]]</td>
+		</tr>
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amanda Chang]]</li><!--
+  --><li style="">[[Benjamin Blattberg]]</li><!--
+  --><li style="">[[Caroline Gorman]]</li><!--
+  --><li style="">[[Jeffrey Chatman]]</li><!--
+  --><li style="">[[Jennifer Banister]]</li><!--
+  --><li style="">[[Marissa Macy]]</li><!--
+  --><li style="">[[Scott Rose]]</li><!--
+  --><li style="">[[Sushant Sethi]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Caroline Dinges]]</li><!--
+  --><li style="">[[Greg Blank]]</li><!--
+  --><li style="">[[Daniel Ellsworth]]</li><!--
+  --><li style="">[[Brad Geiger]]</li><!--
+  --><li style="">[[Kay Krasin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">December 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Local on the Eights*** is a Hideout Student mainstage show that follows a small-town news team as the track down the day's toughest stories. 
 

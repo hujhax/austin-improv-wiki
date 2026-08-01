@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name = Indy Movies	
-|Picture =	Indy Movies.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Cody Dearing]]
-|Cast =	{{Unbulleted list | [[Calan lambert]] | [[Chrissy Shackelford]] | [[Daniel Erving]] | [[Drew Wesely]] | [[Eli Eidson]] | [[Jake Millward]] | [[Katie Moore]] | [[Kyle Sweeney]] | [[Lance Gilstrap]] | [[Maitland Lederer]] | [[Naomi Perryman]] | [[Nathan Sowell]] | [[Seth Johnson]] | [[Steve Moore]] | [[Will Casto]] }}
-|Run	=	Aug/Sep 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Indy Movies</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Indy Movies.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Cody Dearing]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Calan lambert]]</li><!--
+  --><li style="">[[Chrissy Shackelford]]</li><!--
+  --><li style="">[[Daniel Erving]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Eli Eidson]]</li><!--
+  --><li style="">[[Jake Millward]]</li><!--
+  --><li style="">[[Katie Moore]]</li><!--
+  --><li style="">[[Kyle Sweeney]]</li><!--
+  --><li style="" >[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Maitland Lederer]]</li><!--
+  --><li style="">[[Naomi Perryman]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style="">[[Seth Johnson]]</li><!--
+  --><li style="">[[Steve Moore]]</li><!--
+  --><li style="">[[Will Casto]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Aug/Sep 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Indy Movies*** (full title: ***Indy Movies: The Filmmaking Misadventures Of Wade Wood***) was a mainstage show about a 1940's film director and his efforts to shoot a pulp serial.
 

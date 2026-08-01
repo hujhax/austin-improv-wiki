@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name               = Savage Swords
-|Picture            = Savage Swords.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Marc Majcher]]
-|Assistant Director = [[Ryan Hill]]
-|Run                = Jan/Feb 2016
-|Cast               = {{Unbulleted list | [[Ace Manning]] | [[Angie Yaeyama]] | [[Audrey Rachel Sansom]] | [[Jayme Ramsay]] | [[JM Specht]] | [[Jordan T. Maxwell]] | [[J.R. Zambrano]] | [[Manuel Duran]] | [[Peter Rogers]] | [[Rosemarie Frezza]] | [[Roy Danger]] | [[Shannon McCormick]] | [[Suzanne Link]] }}
-|Tech               = {{Unbulleted list | [[Lindsey McGowen]] (technical director/lights) | [[Michael Yew]] (scoring) | [[Cindy Page]] (sound effects, costume director) | [[Jay Mahavier]] (swing tech) | [[Rob Yoho]] (stage manager)}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Savage Swords</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Savage Swords.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Ryan Hill]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Angie Yaeyama]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[JM Specht]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><li style="">[[Manuel Duran]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style="">[[Rosemarie Frezza]]</li><!--
+  --><li style="">[[Roy Danger]]</li><!--
+  --><li style="">[[Shannon McCormick]]</li><!--
+  --><li style="">[[Suzanne Link]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Lindsey McGowen]] (technical director/lights)</li><!--
+  --><li style="">[[Michael Yew]] (scoring)</li><!--
+  --><li style="">[[Cindy Page]] (sound effects, costume director)</li><!--
+  --><li style="">[[Jay Mahavier]] (swing tech)</li><!--
+  --><li style="">[[Rob Yoho]] (stage manager)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan/Feb 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Savage Swords*** is the January/February 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 

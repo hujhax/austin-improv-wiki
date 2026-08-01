@@ -140,11 +140,26 @@ Here's a quick list of how to make some simple links.
 You may be wondering how to make those little colorful "information boxes" depicted on (for example) the troupe, theater, and performer pages.
 
 To do that, you just include an "infobox" template at the top of the page.  For a performer, that text might look like this:
- <nowiki>{{Infobox Performer
- |Name	=	John Doe	
- |Picture =	John Doe Pic.jpg
- |Theater=	[[The Hideout Theatre]]
- |Years	=	2008-Present
- }}</nowiki>
+ <nowiki><div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">John Doe</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[John Doe Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-Present</td>
+		</tr>
+
+	</table>
+</div></nowiki>
 
 For more information about infoboxes, check the documentation on infoboxes for [[Template/Infobox Troupe|troupes]], [[Template/Infobox Performer|performers]], [[Template/Infobox Show|shows]], and [[Template/Infobox Theater|theaters]].

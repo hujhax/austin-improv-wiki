@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Tech Nightmare
-|Picture = 	Tech Nightmare Pic.jpg
-|Theater=	Various
-|Cast=		Varies
-|Director =	{{Unbulleted list | [[Cindy Page]] | [[Cortney DeAngelo]] [[Lindsey McGowen]]}}
-|Run	=	6/3/12
-|Subsequent Runs= 7/19/12, 9/27/12, 10/25/12, 12/13/12, 10/16/14
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Tech Nightmare</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Tech Nightmare Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">Various</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><li style="">[[Cortney DeAngelo]] [[Lindsey McGowen]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">6/3/12</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">7/19/12, 9/27/12, 10/25/12, 12/13/12, 10/16/14</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Tech Nightmare*** is an improv show in which the technical improvisors control the show with bold and often arbitrary sound and light choices.
 

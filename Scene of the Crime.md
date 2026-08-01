@@ -1,14 +1,163 @@
-{{Infobox Show
-|Name               = Scene of the Crime
-|Picture            = Scene of the Crime Poster.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Troy Miller]]
-|Assistant Director = [[Jenna Howard]]
-|Music              = [[James Blair]]
-|Run                = May/Jun 2015
-|Cast               = {{Unbulleted list | [[Ace Manning]] | [[Andrew Buck]] | [[Audrey Rachel Sansom]] | [[Cynthia Cobb Oelkers]] | [[David Schwartz]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Kenny Madison]] | [[Mia Iseman]] | [[Nicole Oliver]] | [[Ruby Willmann]] | [[Sean Hill]] | [[Troy A. Miller]] }}
-|Tech               = {{Unbulleted list | [[Andrew Schwartz]] (lights and sound) | [[Jay Michael]] (stage manager, lights and sound) | [[Neal Tibrewala]] (technical director) | [[Paul Ramone Weiner]] (lights and sound) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Scene of the Crime</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Scene of the Crime Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Troy Miller]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Jenna Howard]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[James Blair]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Cynthia Cobb Oelkers]]</li><!--
+  --><li style="">[[David Schwartz]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Kenny Madison]]</li><!--
+  --><li style="" >[[Mia Iseman]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Sean Hill]]</li><!--
+  --><li style="">[[Troy A. Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrew Schwartz]] (lights and sound)</li><!--
+  --><li style="">[[Jay Michael]] (stage manager, lights and sound)</li><!--
+  --><li style="">[[Neal Tibrewala]] (technical director)</li><!--
+  --><li style="">[[Paul Ramone Weiner]] (lights and sound)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Scene of the Crime*** was the May/June 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].  It was based on the works of [[Wikipedia - Agatha Christie|Agatha Christie]] and other authors from the  [[Wikipedia - Golden Age of Detective Fiction|Golden Age of detective fiction]].
 

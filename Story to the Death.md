@@ -1,35 +1,219 @@
-{{Infobox Show
-|Name               = Story to the Death
-|Picture            = Story to the Death Promo.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Andy Crouch]]
-|Assistant Director = [[Aspen Webster]]
-|Stage Manager      = {{Unbulleted list | [[Bob Halgren]] (2016) | [[KC Ryan]] (2018) }}
-|Run                = Aug 2016
-|Subsequent Runs = Feb 2018
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Story to the Death</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Story to the Death Promo.jpg]]
+			</td>
+		</tr>
 
-|Cast               = {{Unbulleted list | [[Aaron Seriff-Cullick]] | 
-[[Alex Bennett]] | 
-[[Angelina Martin]] | 
-[[Ann Symmonds]] | 
-[[Annie Shortt]] | 
-[[Ashley Blom]] | 
-[[David Ronn]] | 
-[[Emily McDonald]] | 
-[[Espi Rivandeneira]] | 
-[[Graham Snow]] | 
-[[Heidi Rogers]] | 
-[[Jessica Soos]] | 
-[[Kay Krasin]] | 
-[[Ladislao Loera]] | 
-[[Marc Jalandoon]] | 
-[[Sushant Sethi]]  | 
-[[Tess Forneris]] | 
-[[Tosin Awofeso]] | 
-[[Trent Symmonds]] |
-[[Trent Thomson]] }}
-|Tech               = {{Unbulleted list | [[Heather Coffee]] | [[Laura Galan Wells]] | [[Nichole Bennett]] | [[Peter Wilde]] | [[Tori Haddox]] }}
-}}
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Andy Crouch]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Aspen Webster]]</td>
+		</tr>
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Stage Manager(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bob Halgren]] (2016)</li><!--
+  --><li style="">[[KC Ryan]] (2018)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Seriff-Cullick]]</li><!--
+  --><li style="">[[Alex Bennett]]</li><!--
+  --><li style="">[[Angelina Martin]]</li><!--
+  --><li style="">[[Ann Symmonds]]</li><!--
+  --><li style="">[[Annie Shortt]]</li><!--
+  --><li style="">[[Ashley Blom]]</li><!--
+  --><li style="">[[David Ronn]]</li><!--
+  --><li style="">[[Emily McDonald]]</li><!--
+  --><li style="" >[[Espi Rivandeneira]]</li><!--
+  --><li style="">[[Graham Snow]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="">[[Jessica Soos]]</li><!--
+  --><li style="">[[Kay Krasin]]</li><!--
+  --><li style="">[[Ladislao Loera]]</li><!--
+  --><li style="">[[Marc Jalandoon]]</li><!--
+  --><li style="">[[Sushant Sethi]]</li><!--
+  --><li style="">[[Tess Forneris]]</li><!--
+  --><li style="">[[Tosin Awofeso]]</li><!--
+  --><li style="">[[Trent Symmonds]]</li><!--
+  --><li style="">[[Trent Thomson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Heather Coffee]]</li><!--
+  --><li style="">[[Laura Galan Wells]]</li><!--
+  --><li style="">[[Nichole Bennett]]</li><!--
+  --><li style="">[[Peter Wilde]]</li><!--
+  --><li style="">[[Tori Haddox]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Aug 2016</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Feb 2018</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Story to the Death*** is a recurring [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]]. It first ran in August 2016, and had second run in February 2018.
 

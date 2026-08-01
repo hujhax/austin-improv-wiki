@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Alex Dobrenko	
-|Picture =	Alex Dobrenko Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2010-2014
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Alex Dobrenko</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Alex Dobrenko Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-2014</td>
+		</tr>
+
+	</table>
+</div>
 
 **Alex Dobrenko** is an improv performer.
 

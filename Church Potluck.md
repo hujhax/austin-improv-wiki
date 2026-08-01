@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Church Potluck
-|Picture	=	Church Potluck.jpg
-|Cast	=	{{ Unbulleted list | [[Christine Giordano]] | [[John Buseman]] | [[Madeline Jo Chauvin]] | [[Ryan Thomas]] | [[Ted Meredith]] }}
-|Years	=		2010-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Church Potluck</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Church Potluck.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Christine Giordano]]</li><!--
+  --><li style="">[[John Buseman]]</li><!--
+  --><li style="">[[Madeline Jo Chauvin]]</li><!--
+  --><li style="">[[Ryan Thomas]]</li><!--
+  --><li style="">[[Ted Meredith]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Church Potluck** was an improv troupe.
 

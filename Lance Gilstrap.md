@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Lance Gilstrap	
-|Picture =	Lance Gilstrap Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2007-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Lance Gilstrap</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Lance Gilstrap Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Lance Gilstrap** is an improv performer.
 

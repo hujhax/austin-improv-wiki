@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Sock Treatment	
-|Picture=	Sock Treatment.jpg
-|Theater=	[[Café Caffeine]]
-|Producer=	[[Puppet Improv Project]]
-|Director =	[[Sara Farr]]
-|Cast	=	{{Unbulleted list | [[Pseudonyms|Madeline M.]] | [[Madi Goff]] | [[Sara Farr]] | [[Shana Merlin]] | [[Valerie Ward]] }}
-|Run	=	Dec 2009
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Sock Treatment</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Sock Treatment.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Café Caffeine]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Sara Farr]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Puppet Improv Project]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
+  --><li style="">[[Madi Goff]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Dec 2009</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Sock Treatment*** was an improvised all-female puppet show.
 
 ## Summary

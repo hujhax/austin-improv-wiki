@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Journey to the Big Water
-|Picture	=	Journey to the Big Water.jpg
-|Director = [[Dave Buckman]]
-|Cast	=	{{ Unbulleted list | [[Adam Trabka]] | [[Ann Armstrong]] | [[Brad Temple]] | [[Jacob Ellenberg]] | [[Joel Usher]] | [[Matt Derman]] | [[Matthew Derman]] | [[Meredith Newell]] | [[Sam Malcolm]] | [[Sam Van Metre]] | [[Stephanie Hagemeister]] }}
-|Years	=		2011-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Journey to the Big Water</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Journey to the Big Water.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Dave Buckman]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Trabka]]</li><!--
+  --><li style="">[[Ann Armstrong]]</li><!--
+  --><li style="">[[Brad Temple]]</li><!--
+  --><li style="">[[Jacob Ellenberg]]</li><!--
+  --><li style="">[[Joel Usher]]</li><!--
+  --><li style="">[[Matt Derman]]</li><!--
+  --><li style="">[[Matthew Derman]]</li><!--
+  --><li style="">[[Meredith Newell]]</li><!--
+  --><li style="" >[[Sam Malcolm]]</li><!--
+  --><li style="">[[Sam Van Metre]]</li><!--
+  --><li style="">[[Stephanie Hagemeister]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Journey to the Big Water** was a [[ColdTowne Student Troupe]].
 

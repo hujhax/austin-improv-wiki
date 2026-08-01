@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name = Slam Team Six	
-|Picture= Slam Team Six.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Lance Gilstrap]]
-|Producer =	[[Cody Dearing]]
-|Cast =	{{Unbulleted list | [[Alex Baia]] | [[Andrew Basile]] | [[Benjamin Bazan]] | [[Cody Dearing]] | [[Heidi Rogers]] | [[Jericho Thorp]] | [[Joseph Dailey]] | [[Lance Gilstrap]] | [[Meredith Mae Roberts]] | [[Mia Iseman]] | [[Michael Williams]] | [[Sanjay Rao]] | [[Will Casto]] }}
-|Run	=	Apr 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Slam Team Six</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Slam Team Six.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Lance Gilstrap]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Cody Dearing]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Baia]]</li><!--
+  --><li style="">[[Andrew Basile]]</li><!--
+  --><li style="">[[Benjamin Bazan]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="">[[Jericho Thorp]]</li><!--
+  --><li style="">[[Joseph Dailey]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style="" >[[Meredith Mae Roberts]]</li><!--
+  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style="">[[Michael Williams]]</li><!--
+  --><li style="">[[Sanjay Rao]]</li><!--
+  --><li style="">[[Will Casto]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Apr 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 ![[Slam Team Cartoon.png|Publicity art for the show.]]
 ***Slam Team Six*** was a mainstage improv show at [[ColdTowne Theater]] about a team of professional wrestlers who fight crime in their off-hours.
 

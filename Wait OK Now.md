@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Wait OK Now
-|Picture =      Wait OK Now.jpg
-|Cast	=	{{Unbulleted list | [[Caeriel Crestin]] | [[Tai Hovanky]] | [[Nick Jimenez]] | [[Jen Kaplan]] | [[Sam Schak]] | [[Lacy Shawn]] | [[Luke Wallens]] }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Wait OK Now</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Wait OK Now.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[Tai Hovanky]]</li><!--
+  --><li style="">[[Nick Jimenez]]</li><!--
+  --><li style="">[[Jen Kaplan]]</li><!--
+  --><li style="">[[Sam Schak]]</li><!--
+  --><li style="">[[Lacy Shawn]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Wait OK Now** is an improv troupe.
 

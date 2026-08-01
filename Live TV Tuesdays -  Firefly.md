@@ -1,14 +1,265 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: Firefly	
-|Picture=	FireflyPoster.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Asaf Ronen]]
-|Assistant Director= {{Unbulleted list | [[Allison Asher]] | [[Michael Thomas]] }}
-|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Alexa Ramirez]] | [[Ammie Nicole Leonards]] | [[David Young]] | [[Heath Allyn]] | [[Jason Vines]] | [[Lindsey Reeves]] | [[Michael Thomas]] | [[Peter Rogers]] | [[Sabrina Jones]] | [[Sarah Swofford]] | [[Stephen Robinson]] }}
-|Tech	=	{{Unbulleted list | [[Chad Wellington]] | [[Chelley Pyatt]] | [[Cindy Page]] }}
-|Music = {{Unbulleted list | [[Heath Allyn]] | [[Jeremy Logan]] | [[Thelma Faglie]] }}
-|Run	=	May/Jun 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: Firefly</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[FireflyPoster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Allison Asher]]</li><!--
+  --><li style="">[[Michael Thomas]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Heath Allyn]]</li><!--
+  --><li style="">[[Jeremy Logan]]</li><!--
+  --><li style="">[[Thelma Faglie]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Mengesha]]</li><!--
+  --><li style="">[[Alexa Ramirez]]</li><!--
+  --><li style="">[[Ammie Nicole Leonards]]</li><!--
+  --><li style="">[[David Young]]</li><!--
+  --><li style="">[[Heath Allyn]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Lindsey Reeves]]</li><!--
+  --><li style="">[[Michael Thomas]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style="">[[Sabrina Jones]]</li><!--
+  --><li style="">[[Sarah Swofford]]</li><!--
+  --><li style="">[[Stephen Robinson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ![[Live TV Tuesdays - Firefly.jpg|The cast of *Firefly* takes a bow.]]
 

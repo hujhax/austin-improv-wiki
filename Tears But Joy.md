@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Tears But Joy
-|Picture	=	Tears But Joy Pic.jpg
-|Cast	=	{{Unbulleted list | [[Annette Cantu]] | [[Courtney Sevener]] | [[Mac Blake]] | [[Scott Raney]] }}
-|Years	=		2011-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Tears But Joy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Tears But Joy Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Annette Cantu]]</li><!--
+  --><li style="">[[Courtney Sevener]]</li><!--
+  --><li style="">[[Mac Blake]]</li><!--
+  --><li style="">[[Scott Raney]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Tears But Joy** is a [[ColdTowne Student Troupes|ColdTowne student troupe]].
 

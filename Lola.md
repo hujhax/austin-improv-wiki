@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name = Lola	
-|Picture =	Lola Poster.jpg
-|Theater = [[Salvage Vanguard Theater]]
-|Producer = [[Gnap! Theater Projects]]
-|Director =	[[Shannon McCormick]]
-|Cast =	{{Unbulleted list | [[Ace Manning]] | [[Audrey Rachel Sansom]] | [[Craig Kotfas]] | [[Eric Heiberg]] | [[Jason Vines]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Shana Merlin]] | [[Shannon McCormick]] | [[Topping Haggerty]] }}
-|Tech =	{{Unbulleted list | [[Brandon Salinas]] | [[Jen Kaplan]] | [[Jon Bolden]] | [[Kerri Lendo]] | [[Kristin Firth]] | [[Sara Farr]] (sound design) | [[Susannah Raulino]] }}
-|Run	=	Feb/Mar 2009
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Lola</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Lola Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Shannon McCormick]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Craig Kotfas]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style="" >[[Shannon McCormick]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brandon Salinas]]</li><!--
+  --><li style="">[[Jen Kaplan]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Kerri Lendo]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Sara Farr]] (sound design)</li><!--
+  --><li style="">[[Susannah Raulino]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb/Mar 2009</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Lola*** was a mainstage improv show at [[Salvage Vanguard Theater]].  It was loosely inspired by *[[Wikipedia - Run Lola Run|Run Lola Run]]*.
 

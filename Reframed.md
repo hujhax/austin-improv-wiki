@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name	=	Reframed	
-|Picture =	Reframed.jpg
-|Theater =	[[Salvage Vanguard Theater]]
-|Producer = [[Lucky Chaos Theater]]
-|Director =	[[Ceej Allen]]
-|Cast	=	{{Unbulleted list | [[Bryan 'Lubu' Roberts]] | [[Ceej Allen]] | [[Craig Kotfas]] | [[Luke Wallens]] | [[Meredith Mae Roberts]] | [[Naomi Perryman]] | [[Scott Hearne]] }}
-|Music = [[Content Love Knowles]]
-|Run	=	Jan 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Reframed</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Reframed.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Ceej Allen]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Lucky Chaos Theater]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Content Love Knowles]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Craig Kotfas]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style="">[[Meredith Mae Roberts]]</li><!--
+  --><li style="">[[Naomi Perryman]]</li><!--
+  --><li style="">[[Scott Hearne]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Reframed*** is an improv show inspired by improv-show photographs.
 

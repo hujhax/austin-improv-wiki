@@ -1,9 +1,24 @@
-{{Infobox Theater
-|Name	=		The Comedy Workshop
-|Picture =		Comedy Workshop Logo.jpg
-|Address	=	302 W. 15th St.
-|Years	=		1982?-1986
-}}
+<div>
+	<table class="infobox infobox-theater">
+		<tr>
+			<th colspan="2" class="infobox-header">The Comedy Workshop</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Comedy Workshop Logo.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Address</th>
+			<td class="category">302 W. 15th St.</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Years of Operation</th>
+			<td class="category">1982?-1986</td>
+		</tr>
+	</table>
+</div>
 
 **The Comedy Workshop** was a stand-up comedy venue.  It was also the first regular improv venue in Austin.
 

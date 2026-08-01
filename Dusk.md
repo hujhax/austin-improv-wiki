@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Dusk	
-|Picture=	Dusk Image.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Director =	[[Shana Merlin]]
-|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Andreas Fabis]] | [[Audrey Rachel Sansom]] | [[Avimaan Syam]] | [[Bryan Cruz]] | [[Chelsea Gilman]] | [[Colin Thomas Bates]] | [[Courtney Hopkin]] | [[Dana Yanoshak]] | [[Hugo Zesati]] | [[Julie Gillis]] | [[Katie Thornton]] | [[Kyle Traughber]] | [[Lauren Buck]] | [[Lauren Zinn]] | [[Lindsey Reeves]] | [[Liz Brammer]] | [[Madi Goff]] | [[Michael Joplin]] | [[Michael Thomas]] | [[Patrick Knisely]] | [[Sarah Marie Curry]] | [[Shana Merlin]] }}
-|Run	=	Oct/Nov 2009
-|Subsequent Runs = Oct/Nov 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Dusk</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Dusk Image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Shana Merlin]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Avimaan Syam]]</li><!--
+  --><li style="">[[Bryan Cruz]]</li><!--
+  --><li style="">[[Chelsea Gilman]]</li><!--
+  --><li style="">[[Colin Thomas Bates]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="" >[[Dana Yanoshak]]</li><!--
+  --><li style="">[[Hugo Zesati]]</li><!--
+  --><li style="">[[Julie Gillis]]</li><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Lauren Buck]]</li><!--
+  --><li style="">[[Lauren Zinn]]</li><!--
+  --><li style="">[[Lindsey Reeves]]</li><!--
+  --><li style="">[[Liz Brammer]]</li><!--
+  --><li style="">[[Madi Goff]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Michael Thomas]]</li><!--
+  --><li style="">[[Patrick Knisely]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Shana Merlin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Oct/Nov 2009</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Oct/Nov 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 
 ***Dusk*** (full name: ***Dusk: Improvised Tween Erotica***) was a longform narrative improv show produced by [[Gnap! Theater Projects]].

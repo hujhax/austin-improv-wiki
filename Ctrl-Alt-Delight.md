@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Ctrl-Alt-Delight
-|Picture =     Ctrl-Alt-Delight.jpg
-|Cast	=	{{Unbulleted list | [[Gary Richardson]] | [[Hugo Vargas-Zesati]] | [[Jonathan Euseppi]] | [[Mike Sullivan]] | }}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Ctrl-Alt-Delight</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Ctrl-Alt-Delight.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Gary Richardson]]</li><!--
+  --><li style="">[[Hugo Vargas-Zesati]]</li><!--
+  --><li style="">[[Jonathan Euseppi]]</li><!--
+  --><li style="">[[Mike Sullivan]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 :''This page refers to the defunct all-male troupe consisting of ex-members of [[Continental Breakfast]].  For the current, all-female [[ColdTowne]] troupe, see [[Ctrl Alt Delete]].
 **Ctrl-Alt-Delight** was an improv troupe consisting of ex-members of [[Continental Breakfast]].

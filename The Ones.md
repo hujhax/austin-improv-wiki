@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Ones
-|Cast	=	{{ Unbulleted list | [[Adrienne Brown]] | [[Chris Albano]] | [[David Schwartz]] | [[Emma Czarnecki]] | [[Judith Schomp]] | [[Lindsay Hejl]] | [[Melissa Patterson]] | [[Michael Bowman]] }}
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Ones</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adrienne Brown]]</li><!--
+  --><li style="">[[Chris Albano]]</li><!--
+  --><li style="">[[David Schwartz]]</li><!--
+  --><li style="">[[Emma Czarnecki]]</li><!--
+  --><li style="">[[Judith Schomp]]</li><!--
+  --><li style="">[[Lindsay Hejl]]</li><!--
+  --><li style="">[[Melissa Patterson]]</li><!--
+  --><li style="">[[Michael Bowman]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Ones** is an improv troupe.
 

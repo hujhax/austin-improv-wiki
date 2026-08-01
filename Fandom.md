@@ -1,15 +1,204 @@
-{{Infobox Show
-|Name	=	Fandom	
-|Picture=	Fandom_cover_photo.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director =	{{Unbulleted list|[[Andy Crouch]] | [[Kaci Beeler]]}}
-|Cast	=	{{Unbulleted list| [[Aaron Saenz]] | [[Andrew Buck]] | [[Andy Crouch]] | [[Bridget Brewer]] | [[Courtney Hopkin]] | [[Eric Heiberg]] | [[Halyn Lee Erickson]] | [[Jordan T. Maxwell]] | [[Kaci Danger]] | [[Marc Majcher]] | [[Mia Iseman]] | [[Peter Rogers]] | [[Quinn Buckner]]}} 
-|Run	=	Jan/Feb 2013
-|Tech	=	{{Unbulleted list
-| [[Michael Yew]]
-| [[Cortney DeAngelo]]
-| [[Neal Tibrewala]]}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Fandom</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Fandom cover photo.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="" >[[Kaci Danger]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan/Feb 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Fandom*** was a mainstage show at [[The Hideout Theatre]].
 

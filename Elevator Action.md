@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Elevator Action
-|Picture	=	Elevator Action.jpg
-|Cast	=	{{ Unbulleted list | [[Cortnie Jones]] | [[David Hess]] | [[John Ratliff]] | [[Joshua Krilov]] | [[Lance Gilstrap]] | [[Liz Brammer]] | [[Max Lipschitz]] | [[Michael Jastroch]] | [[Sandra Markarian]] }}
-|Years	=		2010-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Elevator Action</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Elevator Action.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[David Hess]]</li><!--
+  --><li style="">[[John Ratliff]]</li><!--
+  --><li style="">[[Joshua Krilov]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Liz Brammer]]</li><!--
+  --><li style="">[[Max Lipschitz]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="" >[[Sandra Markarian]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Elevator Action** is a [[ColdTowne]] improv troupe whose format centers around people trapped in an elevator.
 

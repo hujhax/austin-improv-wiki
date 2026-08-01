@@ -1,10 +1,29 @@
-{{Infobox Theater
-|Name	=		Cap City Comedy Club
-|Picture =		Cap City Comedy Club.png
-|Address	=	8120 Research Blvd
-|Homepage	=	http://www.capcitycomedy.com/
-|Years	=		1980-Present
-}}
+<div>
+	<table class="infobox infobox-theater">
+		<tr>
+			<th colspan="2" class="infobox-header">Cap City Comedy Club</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Cap City Comedy Club.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Address</th>
+			<td class="category">8120 Research Blvd</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Homepage</th>
+			<td class="category">http://www.capcitycomedy.com/</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Years of Operation</th>
+			<td class="category">1980-Present</td>
+		</tr>
+	</table>
+</div>
 
 **Cap City Comedy Club** (formerly **The Laff Stop**) is a professional stand-up comedy club in Austin, Texas and home to the Funniest Person in Austin competition. It also played a part in the early history of improv comedy in Austin.
 

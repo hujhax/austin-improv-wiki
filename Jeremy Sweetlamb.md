@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jeremy Sweetlamb	
-|Picture =	Jeremy Sweetlamb Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	1999-2003, 2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jeremy Sweetlamb</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jeremy Sweetlamb Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1999-2003, 2011-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jeremy Sweetlamb** (né **Jeremy Lamb**) is an improv performer, director, and teacher.
 

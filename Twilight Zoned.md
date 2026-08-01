@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=	Twilight Zoned	
-|Picture=	Twilight Zoned.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director = {{Unbulleted list | [[Sean Hill]] | [[Troy Miller]] }}
-|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Andy Crouch]] | [[Chris Allen]] | [[Courtney Hopkin]] | [[David Lampe]] | [[Jay Michael]] | [[Lauren Buck]] | [[Nicole Beckley]] | [[Peter Rogers]] | [[Ruby Willmann]] | [[Sean Hill]] | [[Steve Harwood]] | [[Troy Miller]] }}
-|Tech	=	Unknown
-|Run	=	Jan/Feb 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Twilight Zoned</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Twilight Zoned.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Sean Hill]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Dobrenko]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Chris Allen]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Jay Michael]]</li><!--
+  --><li style="">[[Lauren Buck]]</li><!--
+  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Sean Hill]]</li><!--
+  --><li style="">[[Steve Harwood]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">Unknown</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan/Feb 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Twilight Zoned*** was an improvised longform narrative show inspired by [[Wikipedia - The Twilight Zone (1959 TV series)|*The Twilight Zone*]].
 

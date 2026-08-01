@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Beth Doughty	
-|Picture =	Beth Doughtyc.jpg
-|Theater=	Various
-|Years	=	20012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Beth Doughty</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Beth Doughtyc.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">20012-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Beth Doughty** is an improviser, writer, and sketch performer.
 

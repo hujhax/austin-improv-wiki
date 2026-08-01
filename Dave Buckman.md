@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Dave Buckman	
-|Picture =	Dave Buckman Pic.jpg
-|Theater=	Various
-|Years	=	2005-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Dave Buckman</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Dave Buckman Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Dave Buckman** is an improv performer, director, and teacher.
 

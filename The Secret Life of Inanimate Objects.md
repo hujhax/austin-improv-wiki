@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name               = The Secret Life of Inanimate Objects
-|Picture            = The Secret Life of Inanimate Objects Image.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           ={{Unbulleted list | [[J. R. Zambrano]] | [[Marc Majcher]] }}
-|Assistant Director =  [[Suzanne Link]]
-|Run                = June 2016
-|Cast               = {{Unbulleted list | [[Aaron Rubin]] | [[Bonnie Dilber]] | [[Christina Keller]] | [[Joy Parks]] | [[Kelly Campbell]] | [[Lahari Samineni]] | [[Luis Salinas]] | [[Nichole Bennett]] | [[Tyler Groce]] }}
-|Tech               = {{Unbulleted list | [[Benjamin Blattberg]] | [[Carolyn Gjertsen]] | [[Cortney DeAngelo]] (tech director) | [[Nick Amsden]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Secret Life of Inanimate Objects</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Secret Life of Inanimate Objects Image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[J. R. Zambrano]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Suzanne Link]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Rubin]]</li><!--
+  --><li style="">[[Bonnie Dilber]]</li><!--
+  --><li style="">[[Christina Keller]]</li><!--
+  --><li style="">[[Joy Parks]]</li><!--
+  --><li style="">[[Kelly Campbell]]</li><!--
+  --><li style="">[[Lahari Samineni]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style="">[[Nichole Bennett]]</li><!--
+  --><li style="" >[[Tyler Groce]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Benjamin Blattberg]]</li><!--
+  --><li style="">[[Carolyn Gjertsen]]</li><!--
+  --><li style="">[[Cortney DeAngelo]] (tech director)</li><!--
+  --><li style="">[[Nick Amsden]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">June 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Secret Life of Inanimate Objects*** will be the June 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

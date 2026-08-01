@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Beans Beans (the musical troupe)
-|Picture	=	Beans Beans (the musical troupe).jpg
-|Cast	=	{{ Unbulleted list | [[Clifton Highfield]] | [[Elizabeth Osterwisch]] | [[Jay Byrd]] | [[Joel Usher]] | [[Kevin Williamson]] | [[Meredith Newell]] }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Beans Beans (the musical troupe)</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Beans Beans (the musical troupe).jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Clifton Highfield]]</li><!--
+  --><li style="">[[Elizabeth Osterwisch]]</li><!--
+  --><li style="">[[Jay Byrd]]</li><!--
+  --><li style="">[[Joel Usher]]</li><!--
+  --><li style="">[[Kevin Williamson]]</li><!--
+  --><li style="">[[Meredith Newell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Beans Beans (the musical troupe)** was a musical improv troupe.
 

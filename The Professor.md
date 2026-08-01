@@ -1,11 +1,139 @@
-{{Infobox Troupe
-|Name	=		The Professor
-|Picture	=	The Professor.jpg
-|Cast	=	{{Unbulleted list | [[Andrew Pish]] | [[Bridget Brewer]] | [[Clay Towery]] | [[Colin Bates]] | [[Emily Breedlove]] | [[Jeff Britt]] | [[Jordan T. Maxwell]] | [[Justin Bozied]] | [[Karen Jane DeWitt]] | [[Katie Thornton]] | [[Kayla Lane Freeman]] | [[Lacy Shawn]] | [[Lindsey Reeves]] | [[Michael Ferstenfeld]] | [[Mike Nystul]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Ryan Austin]] | [[Steve Harwood]] }}
-|Tech = [[Michael Yew]]
-|Director = {{Unbulleted list | [[Justin Bozied]] (2011-2012) | [[Michael Ferstenfeld]] (2013-Present) }}
-|Years	=		2011-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Professor</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Professor.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Justin Bozied]] (2011-2012)</li><!--
+  --><li style="">[[Michael Ferstenfeld]] (2013-Present)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrew Pish]]</li><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Clay Towery]]</li><!--
+  --><li style="">[[Colin Bates]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Jeff Britt]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Justin Bozied]]</li><!--
+  --><li style="" >[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style="">[[Lacy Shawn]]</li><!--
+  --><li style="">[[Lindsey Reeves]]</li><!--
+  --><li style="">[[Michael Ferstenfeld]]</li><!--
+  --><li style="">[[Mike Nystul]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style="">[[Steve Harwood]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th class="category-header" scope="row">Tech</th>
+			<td class="category">[[Michael Yew]]</td>
+		</tr>
+
+
+	</table>
+</div>
 
 **The Professor** (full name: ***The Professor: Improv Inspired by *Doctor Who**) is a narrative improv troupe that presents improv in the style of the British science-fiction franchise *[[Wikipedia - Doctor Who|Doctor Who]]*.
 

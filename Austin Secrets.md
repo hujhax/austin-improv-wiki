@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=	Austin Secrets	
-|Picture=	Austin Secrets.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director =	[[Roy Janik]]
-|Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[Alex Dobrenko]] | [[Andy Crouch]] | [[Angelina Martin]] | [[Angie Yaeyama]] | [[Bridget Brewer]] | [[Chuy Zarate]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Halyn Lee Erickson]] | [[Heather Hasselle]] | [[Jayme Ramsay]] | [[Jeanette Jones]] | [[John Ratliff]] | [[Jon Bolden]] | [[Jordan T. Maxwell]] | [[J. R. Zambrano]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] | [[Kristin Firth]] | [[Lisa Jackson]] | [[Luke Wallens]] | [[Marc Majcher]] | [[Margaret Rose Hunsicker]] | [[Meghan Wolff]] | [[Michael Joplin]] | [[Mike Sullivan]] | [[Nicole Oliver]] | [[Patrick Creamer]] | [[Paul Normandin]] | [[Peter Rogers]] | [[Quinn Buckner]] | [[Regina Soto]] | [[Roy Janik]] | [[Shannon Dale Stott]] | [[Stacy Kaplowitz]] | [[Theo Daley]] | [[Tyler Groce]] | [[Valerie Ward]] }}
-|Run	=	Jan/Feb 2010
-|Subsequent Runs = {{Unbulleted list|Jan/Feb 2011|Nov/Dec 2012|Sep/Oct 2013<ref>[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule Announcing the 2013 Season and Schedule]</ref>|Mar/Apr 2015|Mar/Apr 2016}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Austin Secrets</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Austin Secrets.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Alex Dobrenko]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Angelina Martin]]</li><!--
+  --><li style="">[[Angie Yaeyama]]</li><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Chuy Zarate]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="" >[[Curtis Luciani]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Heather Hasselle]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[Jeanette Jones]]</li><!--
+  --><li style="">[[John Ratliff]]</li><!--
+  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[J. R. Zambrano]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
+  --><li style="">[[Meghan Wolff]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Mike Sullivan]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style="">[[Patrick Creamer]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style="">[[Regina Soto]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Shannon Dale Stott]]</li><!--
+  --><li style="">[[Stacy Kaplowitz]]</li><!--
+  --><li style="">[[Theo Daley]]</li><!--
+  --><li style="">[[Tyler Groce]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Jan/Feb 2010</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Jan/Feb 2011</li><!--
+  --><li style="">Nov/Dec 2012</li><!--
+  --><li style="">Sep/Oct 2013<ref>[http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule Announcing the 2013 Season and Schedule]</ref></li><!--
+  --><li style="">Mar/Apr 2015</li><!--
+  --><li style="">Mar/Apr 2016</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Austin Secrets*** is an improvised shortform show inspired by real-life-storytelling projects such as [[Wikipedia - PostSecret|PostSecret]], [[Wikipedia - StoryCorps|StoryCorps]], and [[Wikipedia - The Moth|The Moth]].
 

@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Darkness
-|Cast	=	{{ Unbulleted list |  [[Chris Nicholas]] | [[Content Knowles]] | [[Ed Collins]] | [[Justin Strackany]] | [[Ron Morelli]] | [[Stuart Feild]] }}
-|Years	=		2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Darkness</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chris Nicholas]]</li><!--
+  --><li style="">[[Content Knowles]]</li><!--
+  --><li style="">[[Ed Collins]]</li><!--
+  --><li style="">[[Justin Strackany]]</li><!--
+  --><li style="">[[Ron Morelli]]</li><!--
+  --><li style="">[[Stuart Feild]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Darkness** was an improv troupe that performed the Bat.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Justin Bozied	
-|Picture =	Justin Davis.jpg
-|Theater=	None
-|Years	=	2007-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Justin Bozied</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Justin Davis.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">None</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Justin Bozied** (formerly Justin Davis) is an improv performer, director, and teacher. He first took classes at [[The Hideout Theatre]] from 2006 to 2007. Justin was a founding member of [[The Starter Kit]], an improv troupe that lasted four and a half years before splitting up mainly due to multiple members moving away from Austin. A decided shift in his performing style happened around this time, and he pursued more opportunities behind the scenes as a director, producer, creator, and instructor.  
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		An Inconvenient Troupe
-|Picture	=		An Inconvenient Troupe.jpg
-|Cast	=	{{Unbulleted list | [[Marc Majcher]] | [[Nadine Latief]] }}
-|Years	=		2006-2007
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">An Inconvenient Troupe</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[An Inconvenient Troupe.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2006-2007</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Nadine Latief]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **An Inconvenient Troupe** was an improv duo that did longform sci-fi narrative.
 

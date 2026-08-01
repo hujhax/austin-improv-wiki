@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Improv for Evil
-|Picture =     Improv for Evil.jpg
-|Cast	=	{{Unbulleted list | [[Bob Apthorpe]] | [[Eric Heiberg]] | [[Jason Vines]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mo Daviau]] | [[Sarah Marie Curry]] | }}
-|Years	=		2006-2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Improv for Evil</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Improv for Evil.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2006-2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bob Apthorpe]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Matt Pollock]]</li><!--
+  --><li style="">[[Mike Kinald]]</li><!--
+  --><li style="">[[Mo Daviau]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Improv for Evil** was an improv troupe that focused on experimental and unprepared formats.
 

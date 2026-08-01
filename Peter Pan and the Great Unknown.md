@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name               = Peter Pan and the Great Unknown
-|Picture            = Peter Pan and the Great Unknown Placeholder image.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Kaci Beeler]]
-|Run                = Nov/Dec 2016
-|Cast               = TBA
-|Tech               = TBA
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Peter Pan and the Great Unknown</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Peter Pan and the Great Unknown Placeholder image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Kaci Beeler]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">TBA</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">TBA</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Nov/Dec 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Peter Pan and the Great Unknown*** will be the November/December 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 

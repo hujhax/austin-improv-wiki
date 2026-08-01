@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name               = Home for the Holidays
-|Picture            = I'll Be Home for Christmas.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Valerie Ward]]
-|Assistant Director = [[Manuel Duran]]
-|Run                = Dec 2015
-|Cast               = {{Unbulleted list | [[Aaron Rubin]] | [[Adam Mengesha]] | [[Alex Walker]] | [[Carolyn Gjertsen]] | [[Donnie Garcia]] | [[Jessica T. Von Schramm]] | [[Lahari Samineni]] | [[Patricia Harpst]] | [[Rob Yoho]] | [[Trent Symmonds]] }}
-|Tech               = {{Unbulleted list | [[Bonnie Dilber]] (lights) | [[Carolina Andrade]] (sound)}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Home for the Holidays</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[I'll Be Home for Christmas.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Valerie Ward]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Manuel Duran]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Rubin]]</li><!--
+  --><li style="">[[Adam Mengesha]]</li><!--
+  --><li style="">[[Alex Walker]]</li><!--
+  --><li style="">[[Carolyn Gjertsen]]</li><!--
+  --><li style="">[[Donnie Garcia]]</li><!--
+  --><li style="">[[Jessica T. Von Schramm]]</li><!--
+  --><li style="">[[Lahari Samineni]]</li><!--
+  --><li style="">[[Patricia Harpst]]</li><!--
+  --><li style="" >[[Rob Yoho]]</li><!--
+  --><li style="">[[Trent Symmonds]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bonnie Dilber]] (lights)</li><!--
+  --><li style="">[[Carolina Andrade]] (sound)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Dec 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Home for the Holidays*** (original title: ***I'll Be Home for Christmas***) will be the December 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

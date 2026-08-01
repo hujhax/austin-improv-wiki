@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=		Mirage Machine
-|Picture	=	MMSquare.png
-|Cast	=	{{ Unbulleted list | [[David Moses Fruchter]] | [[Juese Cutler]] | [[Kenny Madison]] | [[Amanda Smith]] }}
-|Former Members	=	{{ Unbulleted list | [[Manuel Duran]] |  [[Theo Daley]] | [[Camille Mitchell]] | [[Chance Garcia]] }}
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Mirage Machine</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[MMSquare.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[David Moses Fruchter]]</li><!--
+  --><li style="">[[Juese Cutler]]</li><!--
+  --><li style="">[[Kenny Madison]]</li><!--
+  --><li style="">[[Amanda Smith]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 Starting from a dream, **Mirage Machine** weaves a tapestry of slapstick heartbreak and serious absurdity.  Our format is freedom and our method purely accident.
 

@@ -1,12 +1,153 @@
-{{Infobox Show
-  |Name     = Hideout Kids
-  |Director = Jessica Arjet
-  |Theater  = [[The Hideout Theatre]]
-  |Cast     = {{Unbulleted list | [[Amira Pollock]] | [[Asaf Ronen]] | [[Bridget Brewer]] | [[Caeriel Crestin]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Kristin Faner]] | [[Kristin Firth]] | [[Luke Wallens]] | [[Kristin Henn]] | [[Madeline Jo Chauvin]] | [[Marc Majcher]] | [[Matt Pollock]] | [[Mike Kinald]] | [[Mike Nystul]] | [[Mitchell Deane]] | [[Ruby Willmann]] | [[Thedward Blevins]] | [[Jeanette Jones]] | [[Megan Venable]] | [[Suzanne Link]] | [[Ryan Hill]] | [[Jessica von Schramm]] | [[Aspen Webster]] }}
-  |Tech     = {{Unbulleted list | [[Neal Tibrewala]] | [[Cindy Page]] }}
-  |Picture  = Flying_Theater_Machine.jpg
-  |Run    = Oct 2007-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Hideout Kids</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Flying Theater Machine.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Jessica Arjet</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amira Pollock]]</li><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style="">[[Bridget Brewer]]</li><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kristin Faner]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="" >[[Luke Wallens]]</li><!--
+  --><li style="">[[Kristin Henn]]</li><!--
+  --><li style="">[[Madeline Jo Chauvin]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Matt Pollock]]</li><!--
+  --><li style="">[[Mike Kinald]]</li><!--
+  --><li style="">[[Mike Nystul]]</li><!--
+  --><li style="">[[Mitchell Deane]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style="">[[Jeanette Jones]]</li><!--
+  --><li style="">[[Megan Venable]]</li><!--
+  --><li style="">[[Suzanne Link]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2007-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 '''
 *"Flying Theater Machine" was re-branded "Hideout Kids" in 2017.*
 

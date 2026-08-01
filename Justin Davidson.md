@@ -1,8 +1,24 @@
-{{Infobox Performer
-|Name	=	Justin Davidson
-|Picture =      JustinDavidson.jpg	
-|Years	=	?-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Justin Davidson</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[JustinDavidson.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">None</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">?-Present</td>
+		</tr>
+
+	</table>
+</div>
 [[Category/Performers|Davidson]]
 
 **Justin Davidson** is an improviser and musician. He is a founding member of [[Bad Font]].

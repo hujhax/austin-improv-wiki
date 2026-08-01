@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	The Jam
-|Picture=	The Jam with Oh, Science!.jpg
-|Theater=	[[ColdTowne Theater]]
-|Director=	[[Oh, Science!]]
-|Cast	=	Various
-|Run	=	Feb 2010-May 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Jam</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Jam with Oh, Science!.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Oh, Science!]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb 2010-May 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***The Jam*** was an improv show/mixer at [[ColdTowne Theater]].
 
 ## Summary

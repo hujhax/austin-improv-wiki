@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Les McGehee	
-|Picture =	Les McGehee Pic.jpg
-|Theater=	Various
-|Years	=	1986-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Les McGehee</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Les McGehee Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1986-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Les McGehee** is an improv comedian, producer and director.
 

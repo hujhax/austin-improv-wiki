@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Erika May McNichol	
-|Picture =	Erika May McNichol Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2005-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Erika May McNichol</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Erika May McNichol Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Erika May McNichol** is an improv performer and director.
 

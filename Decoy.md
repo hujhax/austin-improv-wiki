@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Decoy
-|Picture	=	Decoy.jpg
-|Cast	=	{{Unbulleted list | [[Ben Bazan]] | [[Chelsea Bunn]] | [[Courtney Hopkin]] | [[Dustin Finkelstein]] | [[Emma Holder]] | [[Jericho Thorp]] | [[Mia Iseman]] | [[Naomi Perryman]] | [[Robert Moncrieff]] | [[Steve Moore]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Decoy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Decoy.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ben Bazan]]</li><!--
+  --><li style="">[[Chelsea Bunn]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Dustin Finkelstein]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Jericho Thorp]]</li><!--
+  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style="">[[Naomi Perryman]]</li><!--
+  --><li style="" >[[Robert Moncrieff]]</li><!--
+  --><li style="">[[Steve Moore]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Decoy** is an improv troupe.
 

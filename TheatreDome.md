@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	TheatreDome
-|Picture = 	theatredome.png
-|Theater=	[[The Hideout Theatre]]
-|Cast=		Varies
-|Director =	[[Roy Janik]]	
-|Run	=	Jan 2018 - Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">TheatreDome</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Theatredome.png]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan 2018 - Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***TheatreDome*** is a cagematch-style performance slot at [[The Hideout Theatre]].
 

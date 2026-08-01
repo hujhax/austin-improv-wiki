@@ -3,4 +3,6 @@ The "Hardcore Four" -- (from top-left, clockwise) [[Amy Dietze]], [[Ashley Lowe]
 
 Photo by [[Claudio Fox]], from [http://www.facebook.com/media/set/?set=a.426281400726694.95785.100000345135257&type=3 this photoset].
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Mike Kinald	
-|Picture =	Mike Kinald Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2006-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Mike Kinald</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Mike Kinald Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2006-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Mike Kinald** is an improv performer.
 

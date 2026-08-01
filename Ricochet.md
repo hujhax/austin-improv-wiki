@@ -1,11 +1,58 @@
 {{Infobox Troupe
 |Name	=		Ricochet
 |Picture	=	
-|Cast	=	{{Unbulleted list|[[Kris Pina]]|[[Kelly Stockwell]]|[[Tara Chill]]|[[Heather Thiel]]|[[Thomas Cook]]|[[Shely Arrieta]]|[[Joseph Kulhavy]]))
-
-
-|Years	=		2017-Present
-}}
+|Cast	=	<div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kris Pina]]</li><!--
+  --><li style="">[[Kelly Stockwell]]</li><!--
+  --><li style="">[[Tara Chill]]</li><!--
+  --><li style="">[[Heather Thiel]]</li><!--
+  --><li style="">[[Thomas Cook]]</li><!--
+  --><li style="">[[Shely Arrieta]]</li><!--
+  --><li style="">[[Joseph Kulhavy]]))</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div>
 
 **Ricochet** is an improv troupe founded by Kris Pina, and composed of performers mostly new to formal improv performance.
 

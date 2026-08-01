@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	= Alejandro Garcia
-|Picture = 	Alejandro Garcia pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2012 - present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Alejandro Garcia</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Alejandro Garcia pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012 - present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Alejandro Garcia** is an improv performer who works primarily at [[ColdTowne Theater]].
 

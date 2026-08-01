@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: My So-Called Life 	
-|Picture=	Live TV Tuesdays - My So-Called Life.jpg
-|Theater=	[[The Institution Theater]]
-|Director = [[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Ann Wilson]] | [[Brittany Salyer]] | [[Christian Rashsalve Huey]] | [[Christine Giordano]] | [[Kyle Traughber]] | [[Rafael Virguez]] | [[Ruby Willmann]] | [[Stephanie Hagemeister]] | [[Ted Meredith]] }}
-|Run	=	Jun/Jul 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: My So-Called Life</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - My So-Called Life.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ann Wilson]]</li><!--
+  --><li style="">[[Brittany Salyer]]</li><!--
+  --><li style="">[[Christian Rashsalve Huey]]</li><!--
+  --><li style="">[[Christine Giordano]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Rafael Virguez]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Stephanie Hagemeister]]</li><!--
+  --><li style="" >[[Ted Meredith]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jun/Jul 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: My So-Called Life*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - My So-Called Life|*My So-Called Life*]] episode [http://www.imdb.com/title/tt0654958/ "Pressure"].
 
 ## Summary

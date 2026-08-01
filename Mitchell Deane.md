@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Mitchell Deane	
-|Picture =	Mitchell Deane Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2009-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Mitchell Deane</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Mitchell Deane Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-Present</td>
+		</tr>
+
+	</table>
+</div>
 **Mitchell Deane** is an improv performer.
 
 ## History

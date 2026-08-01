@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Kingston
-|Picture	=	Kingston.jpg
-|Cast	=	{{ Unbulleted list | [[Chris McKeever]] | [[Cortnie Jones]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jillian Besemer]] | [[Lane Ingram]] | [[Sanjay Rao]] }}
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Kingston</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Kingston.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chris McKeever]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Frank Netscher]]</li><!--
+  --><li style="">[[Jillian Besemer]]</li><!--
+  --><li style="">[[Lane Ingram]]</li><!--
+  --><li style="">[[Sanjay Rao]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Kingston** is an improv troupe.
 

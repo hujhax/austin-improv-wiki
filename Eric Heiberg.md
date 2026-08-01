@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Eric Heiberg	
-|Picture =	Eric Heiberg Pic.jpg
-|Theater=	Various
-|Years	=	2005-2013
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Eric Heiberg</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Eric Heiberg Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-2013</td>
+		</tr>
+
+	</table>
+</div>
 
 **Eric Heiberg** is an improv performer.
 

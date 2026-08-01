@@ -1,6 +1,10 @@
-{{DISPLAYTITLE:<span style="font-size:0; position:absolute">{{FULLPAGENAME}}</span>}}
 
-{{banner|direction=right|title=**The Austin Improv Community**|section=|image=AIC 2012 Potluck Group Photo.jpg}}
+
+<div class="banner-image nomobile">
+<div class="banner-box banner-box-right">
+<div class="name">**The Austin Improv Community**</div>
+<div class="type"></div>
+</div>![[AIC 2012 Potluck Group Photo.jpg]]</div>
 
 **The Austin Improv Wiki** is a wiki devoted to the Austin Improv community.  It's here to accumulate information associated with the Austin improv scene.
 
@@ -30,4 +34,3 @@ Note that this wiki is specifically for Austin improv.  There are other websites
 * For general information about Austin, check out [http://www.austin360.com/ Austin360.com].
 * For general information about the Austin comedy scene, including improv show listings, check out [http://austincomedy.info/ Last Gas Comedy].
 
-{{DISPLAYTITLE:The Austin Improv Wiki}}

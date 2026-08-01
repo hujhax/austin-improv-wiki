@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name	=	Thinning the Herd
-|Picture =	Thinning the Herd.jpg
-|Theater =	[[The Institution Theater]]
-|Director =	[[Tyler Bryce]]
-|Cast	=	{{Unbulleted list | [[Amy Averett]] | [[Angela Maldonado]] | [[Britain Spellings]] | [[Caitlin Baumgartner]] | [[Ceej Allen]] | [[Celena Diamond]] | [[Chelley Pyatt]] | [[Chuy Zarate]] | [[Cortney DeAngelo]] | [[Dave Buckman]] | [[David Lampe]] | [[Heidi Caldwell]] | [[Jaime Gonzales]] | [[Jeff Britt]] | [[Jen Dorsey]] | [[Jeremy Sweetlamb]] | [[Jesse Pangelinan]] | [[Jim Doggett]] | [[Les McGehee]] | [[Mark Shoemaker]] | [[Monica Ybarra-Torres]] | [[Paul Normandin]] | [[Roy Janik]] | [[Sandra Ybarra]] | [[Tom Booker]] | [[Tyler Bryce]] }}
-|Run	=	Oct 2012-Jan 2013
-|Subsequent Runs= {{Unbulleted list | Feb-Jun 2013 | Oct 2013-Jan 2014 }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Thinning the Herd</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Thinning the Herd.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tyler Bryce]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Averett]]</li><!--
+  --><li style="">[[Angela Maldonado]]</li><!--
+  --><li style="">[[Britain Spellings]]</li><!--
+  --><li style="">[[Caitlin Baumgartner]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Celena Diamond]]</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[Chuy Zarate]]</li><!--
+  --><li style="" >[[Cortney DeAngelo]]</li><!--
+  --><li style="">[[Dave Buckman]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Heidi Caldwell]]</li><!--
+  --><li style="">[[Jaime Gonzales]]</li><!--
+  --><li style="">[[Jeff Britt]]</li><!--
+  --><li style="">[[Jen Dorsey]]</li><!--
+  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><li style="">[[Jesse Pangelinan]]</li><!--
+  --><li style="">[[Jim Doggett]]</li><!--
+  --><li style="">[[Les McGehee]]</li><!--
+  --><li style="">[[Mark Shoemaker]]</li><!--
+  --><li style="">[[Monica Ybarra-Torres]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Sandra Ybarra]]</li><!--
+  --><li style="">[[Tom Booker]]</li><!--
+  --><li style="">[[Tyler Bryce]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Oct 2012-Jan 2013</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Feb-Jun 2013</li><!--
+  --><li style="">Oct 2013-Jan 2014</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Thinning the Herd*** is an improv show based around a (real-life) team-based weight-loss competition.
 
 ## Summary

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Dav Wallace	
-|Picture =	Dav Wallace Pic.jpg
-|Theater=	[[ComedySportz]]
-|Years	=	1998-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Dav Wallace</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Dav Wallace Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ComedySportz]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1998-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Dav Wallace** is an improv performer.
 

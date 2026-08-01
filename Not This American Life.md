@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name	=	Not This American Life	
-|Picture=	Not This American Life.jpg
-|Theater=	[[The Institution Theater]]
-|Director = {{Unbulleted list | [[Michael Ferstenfeld]] | [[Asaf Ronen]] }}
-|Cast	=	{{Unbulleted list | [[Andy Buck]] | [[Annabel Guevara]] | [[Brandon Martin]] | [[Colin Bates]] | [[Dan Kerrigan]] | [[Emma Holder]] | [[Gene Zhou]] | [[Heidi Caldwell]] | [[Heidi Rogers]] | [[Jeff Britt]] | [[Kevin Miller]] | [[Lisa Jackson]] | [[Luis Salinas]] | [[Mars Wright]] | [[Nicole Beckley]] | [[Ruby Willmann]] | [[Ryan Hill]] | [[Sam Schak]] | [[Teresa York]] }}
-|Run	=	May/Jun 2012
-|Subsequent Runs = {{Unbulleted list | Nov/Dec 2012 | Nov 2013 }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Not This American Life</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Not This American Life.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Michael Ferstenfeld]]</li><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Buck]]</li><!--
+  --><li style="">[[Annabel Guevara]]</li><!--
+  --><li style="">[[Brandon Martin]]</li><!--
+  --><li style="">[[Colin Bates]]</li><!--
+  --><li style="">[[Dan Kerrigan]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Gene Zhou]]</li><!--
+  --><li style="">[[Heidi Caldwell]]</li><!--
+  --><li style="" >[[Heidi Rogers]]</li><!--
+  --><li style="">[[Jeff Britt]]</li><!--
+  --><li style="">[[Kevin Miller]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style="">[[Mars Wright]]</li><!--
+  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Sam Schak]]</li><!--
+  --><li style="">[[Teresa York]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">May/Jun 2012</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Nov/Dec 2012</li><!--
+  --><li style="">Nov 2013</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Not This American Life*** (original title: ***This American Live***) was a variety show that explores a topic via scripted and improvised material.  It was inspired by the NPR program *[[Wikipedia - This American Life|This American Life]]*.
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		My Best Fiend
-|Picture	=	My best fiend.jpg
-|Cast	=	{{Unbulleted list|[[Chris Allen]]|[[Andreas Fabis]]}}
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">My Best Fiend</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[My best fiend.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chris Allen]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **My Best Fiend** is an improv duo that creates fake behind the scenes documentaries in the style of [[Wikipedia - Werner Herzog|Werner Herzog]]'s *[[Wikipedia - My Best Fiend|My Best Fiend]]*.
 

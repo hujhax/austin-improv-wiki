@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	= Ed Melendez		
-|Picture = Ed Melendez Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years= 2009-2015
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Ed Melendez</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Ed Melendez Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-2015</td>
+		</tr>
+
+	</table>
+</div>
 
 **Ed Melendez** is an improv performer.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Aaron Walther	
-|Picture =	Aaron Walther Pic.jpg
-|Theater=	[[The New Movement Theater]]
-|Years	=	2009-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Aaron Walther</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Aaron Walther Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The New Movement Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Aaron Walther** is an improv performer.
 

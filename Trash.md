@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name	=	Trash	
-|Picture=	Trash.jpg
-|Theater=	[[The Dougherty Arts Center]]
-|Producer=	[[Puppet Improv Project]]
-|Director =	[[Sara Farr]]
-|Cast	=	{{Unbulleted list | [[Chad Wellington]] | [[Elizabeth Buchanan]] | [[Jennifer Bateman]] | [[Joel Reese]] }}
-|Music = [[Ammon Taylor]]
-|Run	=	July 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Trash</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Trash.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Dougherty Arts Center]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Sara Farr]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Puppet Improv Project]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Ammon Taylor]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[Elizabeth Buchanan]]</li><!--
+  --><li style="">[[Jennifer Bateman]]</li><!--
+  --><li style="">[[Joel Reese]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">July 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Trash*** was a scripted puppet musical for kids.
 
 ## Summary

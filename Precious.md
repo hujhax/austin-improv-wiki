@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Precious
-|Picture	=	Precious.jpg
-|Cast	=	{{ Unbulleted list | [[Addison Billingsley]] | [[Jeff Whitaker]] | [[Max Lipschitz]] | [[Tre Fuentes]] | [[Will Elliott]] }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Precious</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Precious.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Addison Billingsley]]</li><!--
+  --><li style="">[[Jeff Whitaker]]</li><!--
+  --><li style="">[[Max Lipschitz]]</li><!--
+  --><li style="">[[Tre Fuentes]]</li><!--
+  --><li style="">[[Will Elliott]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Precious** was an improv troupe associated with [[ColdTowne Theater]].
 

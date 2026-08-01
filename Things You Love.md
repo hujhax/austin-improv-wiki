@@ -1,16 +1,112 @@
-{{Infobox Show
-|Name	=	Things You Love
-|Picture = Things You Love.jpg
-|Director = [[Caeriel Crestin]]
-|Assistant Director = [[Rachel Creason]]
-|Technical Director = [[Cindy Ward]]
-|Music Director = [[Ryan Fechter]]
-|Cast	=	{{Unbulleted list | [[Aaron Seriff-Culick]] | [[Cara Arlauskas]] | [[Casey Quinlan]] | [[Dhruv Sehgal]] | [[Hannah Milam]] | [[Jason Castro]] | [[Michael Haywood]] | [[Shay Millheiser]] | [[Tana Rogers]] }}
-|Crew = {{Unbulleted list | [[Denise Hudson]] | [[Tess Forneris]] }}
-|Stage Manager = [[Mia Cisco]]
-|Theater = [[The Hideout Theatre]]
-|Run	=	June 2018
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Things You Love</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Things You Love.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Caeriel Crestin]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Rachel Creason]]</td>
+		</tr>
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Stage Manager(s)</th>
+			<td class="category">[[Mia Cisco]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music Director(s)</th>
+			<td class="category">[[Ryan Fechter]]</td>
+		</tr>
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Seriff-Culick]]</li><!--
+  --><li style="">[[Cara Arlauskas]]</li><!--
+  --><li style="">[[Casey Quinlan]]</li><!--
+  --><li style="">[[Dhruv Sehgal]]</li><!--
+  --><li style="">[[Hannah Milam]]</li><!--
+  --><li style="">[[Jason Castro]]</li><!--
+  --><li style="">[[Michael Haywood]]</li><!--
+  --><li style="">[[Shay Millheiser]]</li><!--
+  --><li style="" >[[Tana Rogers]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">June 2018</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Things You Love*** (full title: *Things You Love, The Musical*) is a Hideout student mainstage musical told from the perspective of beloved household objects.
 

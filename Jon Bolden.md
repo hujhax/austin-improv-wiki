@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jon Bolden	
-|Picture =	Jon Bolden Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2007-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jon Bolden</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jon Bolden Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 Jon Bolden is an improv performer, instructor, director, and photographer who works primarily at [[The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
 

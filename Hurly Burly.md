@@ -1,14 +1,214 @@
-{{Infobox Show
-|Name = Hurly Burly	
-|Theater = [[The Institution Theater]]
-|Picture = Hurly Burly Poster.jpg
-|Director =	{{Unbulleted list | [[Jayme Ramsay]] | [[Marc Majcher]] }}
-|Cast =	{{Unbulleted list | [[Adriane Shown]] | [[Pseudonyms|Brooke Beltane]] | [[Caeriel Crestin]] | [[Pseudonyms|Eureka Smoke]] | [[Pseudonyms|Foxy Cakes]] | [[Jen Kaplan]] | [[Jessie Pascarelli]] | [[Pseudonyms|Lulu La Mer]] | [[Marc Majcher]] | [[Paul Normandin]] | [[Pseudonyms|Rosie Dear]] | [[Ryan Hill]] | [[Pseudonyms|Wilhelmina Wyldehart]] }}
-|Music              = [[Tosin Awofeso]]
-|Tech = {{Unbulleted list | [[Cindy Page]] | [[Lindsey McGowen]] }}
-|Run	=	May/Jun 2014
-|Subsequent Runs =	Feb/Mar 2015
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Hurly Burly</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Hurly Burly Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Tosin Awofeso]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adriane Shown]]</li><!--
+  --><li style="">[[Pseudonyms|Brooke Beltane]]</li><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[Pseudonyms|Eureka Smoke]]</li><!--
+  --><li style="">[[Pseudonyms|Foxy Cakes]]</li><!--
+  --><li style="">[[Jen Kaplan]]</li><!--
+  --><li style="">[[Jessie Pascarelli]]</li><!--
+  --><li style="">[[Pseudonyms|Lulu La Mer]]</li><!--
+  --><li style="" >[[Marc Majcher]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Pseudonyms|Rosie Dear]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Pseudonyms|Wilhelmina Wyldehart]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><li style="">[[Lindsey McGowen]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">May/Jun 2014</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Feb/Mar 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Hurly Burly*** was an improvised burlesque narrative mainstage show at [[The Institution Theater]].
 

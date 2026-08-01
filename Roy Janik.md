@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Roy Janik	
-|Picture = Roy Janik.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2005-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Roy Janik</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Roy Janik.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Roy Janik** ([[Wikipedia - Help - IPA for English#Key|/ˈjɑːnɪk/]]; AKA **Roy Danger**) is an improv performer, teacher, and director.
 

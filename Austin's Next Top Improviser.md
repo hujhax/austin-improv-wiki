@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name = Austin's Next Top Improviser	
-|Picture =	Austin's Next Top Improviser.jpg
-|Theater = [[Salvage Vanguard Theater]]
-|Producer = [[Gnap! Theater Projects]]
-|Director =	[[Shana Merlin]]
-|Cast =	Various
-|Run	=	Oct 2008-Dec 2009
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Austin's Next Top Improviser</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Austin's Next Top Improviser.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Shana Merlin]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2008-Dec 2009</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Austin's Next Top Improviser*** was a short-form competitive improv show inspired by reality-TV competitions.
 

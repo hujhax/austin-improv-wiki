@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Diplomatic Impunity
-|Picture	=	Diplomatic Impunity.jpg
-|Director = [[Leng Wong]]
-|Cast	=	{{ Unbulleted list | [[Amber Shae]] | [[Dana Yanoshak]] | [[Dee Ann Asbury]] | [[Gene Joe]] | [[Reid O'Conor]] | [[Leng Wong]] }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Diplomatic Impunity</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Diplomatic Impunity.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Leng Wong]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amber Shae]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style="">[[Dee Ann Asbury]]</li><!--
+  --><li style="">[[Gene Joe]]</li><!--
+  --><li style="">[[Reid O'Conor]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Diplomatic Impunity** was an improv troupe.
 

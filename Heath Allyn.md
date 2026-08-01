@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Heath Allyn	
-|Picture =	heath-vip.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Heath Allyn</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Heath-vip.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Heath Allyn** is an actor and musician who thus far has worked primarily with [[The Institution Theater]]
 

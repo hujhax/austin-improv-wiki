@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Audrey Rachel Sansom	
-|Picture =	Audrey Rachel Sansom Pic.jpg
-|Theater=	Various
-|Years	=	2000-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Audrey Rachel Sansom</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Audrey Rachel Sansom Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2000-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Audrey Rachel Sansom** is an improv performer and director.
 

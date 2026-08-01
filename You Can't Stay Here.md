@@ -1,14 +1,163 @@
-{{Infobox Show
-|Name = You Can't Stay Here
-|Picture =	You Can't Stay Here Poster.jpg
-|Theater = [[The Institution Theater]]
-|Director =	[[Brad Hawkins]]
-|Assistant Director = [[Andreas Fabis]]
-|Music = [[Tosin Awofeso]]
-|Tech = {{Unbulleted list | [[Cortney DeAngelo]] }}
-|Cast = {{Unbulleted list | [[Alex Ayala]] | [[Andreas Fabis]] | [[Cagney Ortiz]] | [[Ceej Allen]] | [[Clint Harris]] | [[Dana Yanoshak]] | [[Donnie Garcia]] | [[Jessy Schwartz]] | [[Letty Tomlinson]] | [[Margaret Rose Hunsicker]] }}
-|Run	= May-Jun 2015
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">You Can't Stay Here</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[You Can't Stay Here Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Brad Hawkins]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Andreas Fabis]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Tosin Awofeso]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Ayala]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Cagney Ortiz]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Clint Harris]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style="">[[Donnie Garcia]]</li><!--
+  --><li style="">[[Jessy Schwartz]]</li><!--
+  --><li style="" >[[Letty Tomlinson]]</li><!--
+  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May-Jun 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***You Can't Stay Here*** was a mainstage show at [[The Institution Theater]].
 

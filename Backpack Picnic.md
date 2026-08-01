@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Backpack Picnic
-|Picture	=	Backpack Picnic.jpg
-|Cast	=	{{Unbulleted list | [[David Bewley]] | [[Jeremy Lamb]] | [[Mitch Baker]] | [[René Pinnell]] | [[Shannon McCormick]] }}
-|Years	=		2007-2008
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Backpack Picnic</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Backpack Picnic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-2008</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[David Bewley]]</li><!--
+  --><li style="">[[Jeremy Lamb]]</li><!--
+  --><li style="">[[Mitch Baker]]</li><!--
+  --><li style="">[[René Pinnell]]</li><!--
+  --><li style="">[[Shannon McCormick]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Backpack Picnic** was a surreal sketch troupe.
 

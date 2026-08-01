@@ -1,15 +1,107 @@
-{{Infobox Show
-|Name	=	Buddy Cop
-|Picture = buddycop.jpg
-|Director = [[Marc Majcher]]
-|Assistant Director = [[Suzanne Link]]
-|Musical Director = [[Ryan Fechter]]
-|Cast	=	{{Unbulleted list | [[Aaron Rubin]] | [[Adam Pabbason]] | [[Andrew Ancy]] | [[Beth Koenig]] | [[Chelsea Beth]] | [[Dave Ronn]] | [[Esperanza Rivadeneira]] | [[Johnny Anzollitto]] | [[Katie Mathews]] | [[Sue Jordan]] }}
-|Tech Director = [[Cindy Page]]
-|Crew= {{Unbulleted list | [[Cindy Forrest]] | [[Francisco Peña]] | [[Greg Blank]] | [[Mitch Mills]] }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	June 2017
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Buddy Cop</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Buddycop.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Suzanne Link]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Cindy Page]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Rubin]]</li><!--
+  --><li style="">[[Adam Pabbason]]</li><!--
+  --><li style="">[[Andrew Ancy]]</li><!--
+  --><li style="">[[Beth Koenig]]</li><!--
+  --><li style="">[[Chelsea Beth]]</li><!--
+  --><li style="">[[Dave Ronn]]</li><!--
+  --><li style="">[[Esperanza Rivadeneira]]</li><!--
+  --><li style="">[[Johnny Anzollitto]]</li><!--
+  --><li style="" >[[Katie Mathews]]</li><!--
+  --><li style="">[[Sue Jordan]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">June 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Buddy Cop*** (full title: ***Buddy Cop: Metro City Nights***) was a Hideout student mainstage show inspired by 80s cop TV shows.
 

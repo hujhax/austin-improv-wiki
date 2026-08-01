@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Miserable Skillet
-|Picture	=	Miserable Skillet.jpg
-|Cast	=	{{ Unbulleted list | [[Cortnie Jones]] | [[Jessica Marpe]] | [[Maria Pond]] | [[Molly Moore]] | [[Naomi Perryman]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Miserable Skillet</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Miserable Skillet.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Jessica Marpe]]</li><!--
+  --><li style="">[[Maria Pond]]</li><!--
+  --><li style="">[[Molly Moore]]</li><!--
+  --><li style="">[[Naomi Perryman]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Miserable Skillet** is an improv troupe.
 

@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Racket	
-|Picture=	Racket.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Sarah Marie Curry]]
-|Cast	=	{{Unbulleted list | [[Brandon Roesler]] | [[Chad Wellington]] | [[Chelley Pyatt]] | [[Christine Giordano]] | [[Indigo Rael]] | [[Jennifer Micallef]] | [[Jono Gray]] | [[Justin Strackany]] | [[Lisa Jackson]] | [[Marc Majcher]] | [[Michael Brockman]] | [[Sarah Marie Curry]] }}
-|Run	=	March 2012
-|Subsequent Runs = Sep 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Racket</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Racket.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Sarah Marie Curry]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brandon Roesler]]</li><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[Christine Giordano]]</li><!--
+  --><li style="">[[Indigo Rael]]</li><!--
+  --><li style="">[[Jennifer Micallef]]</li><!--
+  --><li style="">[[Jono Gray]]</li><!--
+  --><li style="">[[Justin Strackany]]</li><!--
+  --><li style="" >[[Lisa Jackson]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Michael Brockman]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">March 2012</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Sep 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 :*This page refers to the 2012 improv show inspired by *Stomp''.  For the 2014 musical-improv troupe, see [[That Racket!]].
 ***Racket*** (full title: ***RACKET: Rhythm-Based Improv***) was an improv show that alternated scenework with rhythmic improvisation using found objects.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	David Young	
-|Picture =	David Young Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">David Young</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[David Young Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **David Young** is an actor.  He played Corbin in *[[Live TV Tuesdays -  Firefly]]*.
 

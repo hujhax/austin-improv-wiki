@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Physics Curse
-|Picture = PhysicsCurseMooseBooth2014.jpg
-|Cast	=	{{Unbulleted list | [[Rosemarie Frezza]]  | [[Ann Symmonds]]| [[Aspen Webster]]| [[Rachel Posey Austin]]}}
-|Years	=		July 2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Physics Curse</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[PhysicsCurseMooseBooth2014.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">July 2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Rosemarie Frezza]]</li><!--
+  --><li style="">[[Ann Symmonds]]</li><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style="">[[Rachel Posey Austin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Physics Curse** is an improv troupe consisting of [[Rosemarie Frezza]], [[Ann Symmonds]], [[Aspen Webster]], and [[Rachel Posey Austin]].
 

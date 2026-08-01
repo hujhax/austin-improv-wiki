@@ -1,10 +1,24 @@
-{{Infobox Performer
-|Name	=	Kenny Madison	
-|Picture =	Kenny Madison Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2014-Present
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Kenny Madison</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Kenny Madison Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
 
-}}
+	</table>
+</div>
 
 **Kenny Madison** is an improv performer and director. He maintains a regular blog at [http://kennymadisoniscool.com/improv-comedy-austin/ KennyMadisonisCool.com], where he also offers coaching to other improvisers in town.
 

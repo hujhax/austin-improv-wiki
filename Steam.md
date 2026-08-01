@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Steam
-|Picture=	Steam.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Director =	[[Audrey Rachel Sansom]]
-|Producer =     [[Gnap! Theater Projects]]	
-|Cast	=	{{Unbulleted list | [[Aaron Walther]] | [[Audrey Rachel Sansom]] | [[Brady James]] | [[Elizabeth Brammer]] | [[Emily Breedlove]] | [[Gricelda Silva]] | [[Howard Katz]] | [[Jayme Ramsay]] | [[Jeff Mills]] | [[Joel Osborne]] | [[Julie Gillis]] | [[Kevin Miller]] | [[Leng Wong]] | [[Marc Majcher]] }}
-|Run	=	Jan/Feb 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Steam</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Steam.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Audrey Rachel Sansom]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Walther]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Brady James]]</li><!--
+  --><li style="">[[Elizabeth Brammer]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Gricelda Silva]]</li><!--
+  --><li style="">[[Howard Katz]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="" >[[Jeff Mills]]</li><!--
+  --><li style="">[[Joel Osborne]]</li><!--
+  --><li style="">[[Julie Gillis]]</li><!--
+  --><li style="">[[Kevin Miller]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jan/Feb 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Steam*** (full title: ***Steam, Rose-Colored Goggles, and the Flight of the Victoriana***) was a serialized narrative longform show that had set characters from week to week and took place in a steampunk-inspired universe.  Several cast members in *Steam* specialized in sceneography, scene-painting, and the use of abstract props to fill out the world of the Victoriana.
 

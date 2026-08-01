@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name = Boy Band	
-|Picture =	Boy Band.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Courtney Sevener]]
-|Cast =	{{Unbulleted list | [[Brett Tribe]] | [[Calan lambert]] | [[Cortnie Jones]] | [[JenRaye Adams]] | [[Logan Williams]] | [[Matthew Stoner]] | [[Sanjay Rao]] }}
-|Music = {{Unbulleted list | [[Ammon Taylor]] | [[Andrew Basile]] | [[Meredith Mae Roberts]] }}
-|Run	=	Feb 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Boy Band</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Boy Band.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Courtney Sevener]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ammon Taylor]]</li><!--
+  --><li style="">[[Andrew Basile]]</li><!--
+  --><li style="">[[Meredith Mae Roberts]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Calan lambert]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[JenRaye Adams]]</li><!--
+  --><li style="">[[Logan Williams]]</li><!--
+  --><li style="">[[Matthew Stoner]]</li><!--
+  --><li style="">[[Sanjay Rao]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Boy Band*** was a mainstage improv show at [[ColdTowne Theater]].  It chronicled the career of "M*Pulse", a fictionalized boy band from the early 2000's, à la *[[Wikipedia - Behind the Music|Behind the Music]]*.
 

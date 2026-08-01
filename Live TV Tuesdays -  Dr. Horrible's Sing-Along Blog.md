@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays:<br/>Dr. Horrible's<br/>Sing-Along Blog	
-|Picture=	Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg
-|Theater=	[[The Institution Theater]]
-|Director = [[Heidi Caldwell]]
-|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Allison Asher]] | [[Brett Tribe]] | [[Carissa McAtee]] | [[Chelley Pyatt]] | [[David Zimmerman]]  | [[Heidi Caldwell]] | [[James Pound]] | [[Jeremy Logan]] | [[Justin LaVergne]] | [[Kevin Williamson]] | [[Taylor Overstreet]] }}
-|Run	=	Feb/Mar 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays:<br/>Dr. Horrible's<br/>Sing-Along Blog</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Heidi Caldwell]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aden Kirschner]]</li><!--
+  --><li style="">[[Allison Asher]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Carissa McAtee]]</li><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[David Zimmerman]]</li><!--
+  --><li style="">[[Heidi Caldwell]]</li><!--
+  --><li style="">[[James Pound]]</li><!--
+  --><li style="" >[[Jeremy Logan]]</li><!--
+  --><li style="">[[Justin LaVergne]]</li><!--
+  --><li style="">[[Kevin Williamson]]</li><!--
+  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb/Mar 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: Dr. Horrible's Sing-Along Blog*** refers to the *[[Live TV Tuesdays]]* presentation of [[Wikipedia - Dr. Horrible's Sing-Along Blog|*Dr. Horrible's Sing-Along Blog*]].
 
 ## Summary

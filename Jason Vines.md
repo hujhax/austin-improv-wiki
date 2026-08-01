@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jason Vines
-|Picture =	Jason Vines Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2003-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jason Vines</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jason Vines Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2003-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jason Vines** is a versatile and bold Austin improviser.
 

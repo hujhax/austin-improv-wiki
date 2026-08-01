@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		In Our Prime
-|Picture	=	In Our Prime Three.jpg
-|Cast	=	{{Unbulleted list|[[Gloria Rabil Bankler]]|[[Ryan Hill]]|[[Paul Normandin]]}}
-|Past Members = [[Jessica Arjet]] (2012-2015)
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">In Our Prime</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[In Our Prime Three.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Gloria Rabil Bankler]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Past Members</th>
+			<td class="category">[[Jessica Arjet]] (2012-2015)</td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **In Our Prime** is an improv troupe that focuses on grounded, dramatic longforms.
 

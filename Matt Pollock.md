@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Matt Pollock
-|Picture =	Matt Pollock Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2002-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Matt Pollock</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Matt Pollock Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2002-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Matt Pollock** is an improv performer. 
 

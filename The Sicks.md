@@ -1,11 +1,190 @@
-{{Infobox Troupe
-|Name	=		The Sicks
-|Picture	=	The Sicks.jpg
-|Cast	=	{{Unbulleted list | [[Ben Sterling]] | [[Jeffrey Amos]] | [[Jonathan Hunt]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Kate Caldwell]]  | [[Lauren Hunt]] | [[Sarah Smiley]] }}
-|Crew = {{Unbulleted list | [[James Downing]] | [[Meggan Amos]] (stage manager) | [[Taylor Browne]] }}
-|Director =	{{Unbulleted list | [[Bob Apthorpe]] | [[Mike D'Alonzo]] }}
-|Years	=		2005-2006
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Sicks</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Sicks.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2005-2006</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bob Apthorpe]]</li><!--
+  --><li style="">[[Mike D'Alonzo]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ben Sterling]]</li><!--
+  --><li style="">[[Jeffrey Amos]]</li><!--
+  --><li style="">[[Jonathan Hunt]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Kate Caldwell]]</li><!--
+  --><li style="">[[Lauren Hunt]]</li><!--
+  --><li style="">[[Sarah Smiley]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+		<tr class="">
+			<th class="category-header" scope="row">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[James Downing]]</li><!--
+  --><li style="">[[Meggan Amos]] (stage manager)</li><!--
+  --><li style="">[[Taylor Browne]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+	</table>
+</div>
 
 **The Sicks** was a sketch troupe, formed of friends from the University of Texas at Austin's Theatre and English departments who wanted to both write and perform their own material, with a focus on more warped and subversive humor and sketches that were often structured more like narrative scenes than traditional sketches.  Their name came about after many long and contentious debates on the subject when a friend pointed out them at a concert, "Well...there are SIX of you, right?"
 

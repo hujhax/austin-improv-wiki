@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Brad Hawkins	
-|Picture =	Brad Hawkins.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Brad Hawkins</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Brad Hawkins.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Brad Hawkins** is an improv performer who works primarily with [[The Hideout Theatre]] and [[The Institution Theater]].
 

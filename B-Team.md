@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		B-Team
-|Picture	=		B-Team.jpg
-|Cast	=	{{ Unbulleted list | [[Chase Rowan]] | [[Craig McGreggor]] | [[LeAnn Levering-Plant]] | [[Melissa Siele]] | [[Molly Harris]] | [[Pius Wong]] }}
-|Years	=		2013-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">B-Team</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[B-Team.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chase Rowan]]</li><!--
+  --><li style="">[[Craig McGreggor]]</li><!--
+  --><li style="">[[LeAnn Levering-Plant]]</li><!--
+  --><li style="">[[Melissa Siele]]</li><!--
+  --><li style="">[[Molly Harris]]</li><!--
+  --><li style="">[[Pius Wong]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **B-Team** is an improv troupe.
 

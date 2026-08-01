@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Houses in Motion
-|Picture	=	Houses in Motion.jpg
-|Cast	=	{{ Unbulleted list | [[Casey Height]] | [[Cene Hale]] | [[Cody Dearing]] | [[Frank Netscher]] | [[Jessica Marpe]] | [[Joel Keith]] |  [[Joseph Dailey]] | [[KC Harvey-Taylor]] | [[Lane Ingram]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Houses in Motion</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Houses in Motion.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Casey Height]]</li><!--
+  --><li style="">[[Cene Hale]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Frank Netscher]]</li><!--
+  --><li style="">[[Jessica Marpe]]</li><!--
+  --><li style="">[[Joel Keith]]</li><!--
+  --><li style="">[[Joseph Dailey]]</li><!--
+  --><li style="">[[KC Harvey-Taylor]]</li><!--
+  --><li style="" >[[Lane Ingram]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Houses in Motion** is an improv troupe.
 

@@ -1,14 +1,112 @@
-{{Infobox Show
-|Name = The Ladies Room
-|Picture =	The Ladies Room.jpg
-|Theater = [[The Institution Theater]]
-|Director =	[[Asaf Ronen]]
-|Assistant Director = [[Ally Huston]]
-|Cast = {{Unbulleted list | [[Ally Huston]] | [[Aspen Webster]] | [[Brittany Flurry]] | [[Jessica Brooks]] | [[Jessica Salinas]] | [[Jo Chauvin]] | [[Molly Mckee]] | [[Nicole Oliver]] | [[Sam Schak]] }}
-|Tech = [[Asaf Ronen]]
-|Run	= Jun-Jul 2015
-|Subsequent Runs = 2016
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Ladies Room</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Ladies Room.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Ally Huston]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ally Huston]]</li><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style="">[[Brittany Flurry]]</li><!--
+  --><li style="">[[Jessica Brooks]]</li><!--
+  --><li style="">[[Jessica Salinas]]</li><!--
+  --><li style="">[[Jo Chauvin]]</li><!--
+  --><li style="">[[Molly Mckee]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style="" >[[Sam Schak]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Jun-Jul 2015</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Ladies Room*** was a mainstage show at [[The Institution Theater]].
 

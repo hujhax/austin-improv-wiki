@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: Angel	
-|Picture=	Live TV Tuesdays - Angel.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Chelley Pyatt]]
-|Assistant Director= [[Sara Farr]]
-|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Angela Maldonado]] | [[Carissa McAtee]] | [[Chad Wellington]] | [[Heath Allyn]] | [[Heidi Caldwell]] | [[Joel Reese]] | [[Kevin Machate]] | [[Peter Rogers]] | [[Robin Anderson]] | [[Sara Farr]] | [[Vicki Bui]] }}
-|Tech	=	[[BK McKee]]
-|Run	=	Apr/May 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: Angel</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - Angel.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Chelley Pyatt]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Sara Farr]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Mengesha]]</li><!--
+  --><li style="">[[Angela Maldonado]]</li><!--
+  --><li style="">[[Carissa McAtee]]</li><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[Heath Allyn]]</li><!--
+  --><li style="">[[Heidi Caldwell]]</li><!--
+  --><li style="">[[Joel Reese]]</li><!--
+  --><li style="">[[Kevin Machate]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style="">[[Robin Anderson]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Vicki Bui]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[BK McKee]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Apr/May 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: Angel*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Angel (TV series)|*Angel*]] episode [[Wikipedia - Smile Time|"Smile Time"]].
 
 ## History

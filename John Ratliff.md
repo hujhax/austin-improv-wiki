@@ -1,8 +1,24 @@
-{{Infobox Performer
-|Name	 = John Ratliff
-|Picture = John Ratliff Pic.jpg
-|Theater = [[ColdTowne Theater]]
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">John Ratliff</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[John Ratliff Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">Unknown</td>
+		</tr>
+
+	</table>
+</div>
 
 
 **John Ratliff** is a performer and teacher of improv.

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Red Giant
-|Picture	=	Red Giant.jpg
-|Cast	=	{{ Unbulleted list | [[Andy Petruzzo]] | [[Chris Baldenhofer]] | [[David Hess]] | [[Josh Krilov]] | [[Julia Kirchen]] | [[Kyle Sweeney]] | [[Stephanie Russo]] | [[Teresa Kubos]] }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Red Giant</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Red Giant.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Petruzzo]]</li><!--
+  --><li style="">[[Chris Baldenhofer]]</li><!--
+  --><li style="">[[David Hess]]</li><!--
+  --><li style="">[[Josh Krilov]]</li><!--
+  --><li style="">[[Julia Kirchen]]</li><!--
+  --><li style="">[[Kyle Sweeney]]</li><!--
+  --><li style="">[[Stephanie Russo]]</li><!--
+  --><li style="">[[Teresa Kubos]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Red Giant** was an improv troupe associated with [[ColdTowne Theater]].
 

@@ -1,10 +1,46 @@
-{{Infobox Show
-|Name = Late Night Down	
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Lance Gilstrap]]
-|Cast =	TBA
-|Run	=	Jul 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Late Night Down</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Show Default Image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Lance Gilstrap]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">TBA</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Late Night Down*** was a mainstage show at [[ColdTowne Theater]], based around a late-night talk show which is attacked by a rotating variety of supernatural threats.
 

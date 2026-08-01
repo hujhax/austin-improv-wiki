@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name = Movie Riot	
-|Picture =	Movie Riot.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	Various
-|Cast =	{{Unbulleted list | [[Mac Blake]] | [[Carlos LaRotta]] | [[Joshua Krilov]] | [[Kirk Johnson]] | [[Kyle Sweeney]] | [[Lance Gilstrap]] }}
-|Run	=	2013-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Movie Riot</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Movie Riot.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Mac Blake]]</li><!--
+  --><li style="">[[Carlos LaRotta]]</li><!--
+  --><li style="">[[Joshua Krilov]]</li><!--
+  --><li style="">[[Kirk Johnson]]</li><!--
+  --><li style="">[[Kyle Sweeney]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2013-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 **Movie Riot** (formerly **Movie Versus Movie**) is a improv team that specializes in the [movie format]] at [[ColdTowne Theater]].
 

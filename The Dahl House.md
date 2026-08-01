@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name               = The Dahl House
-|Picture            = The Dahl House.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Valerie Ward]]
-|Assistant Director = [[Jayme Ramsay]]
-|Run                = Aug 2014
-|Cast               = {{Unbulleted list | [[Andrew Schwartz]] | [[Ann Symmonds]] | [[Cagney Ortiz]] | [[Chad Wellington]] | [[Heather Hasselle]] | [[Michael Guy Bowman]] | [[Rosemarie Frezza]] | [[Tess Hermes]] }}
-|Tech = [[Rachel Posey Austin]] (sound)
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Dahl House</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Dahl House.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Valerie Ward]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Jayme Ramsay]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrew Schwartz]]</li><!--
+  --><li style="">[[Ann Symmonds]]</li><!--
+  --><li style="">[[Cagney Ortiz]]</li><!--
+  --><li style="">[[Chad Wellington]]</li><!--
+  --><li style="">[[Heather Hasselle]]</li><!--
+  --><li style="">[[Michael Guy Bowman]]</li><!--
+  --><li style="">[[Rosemarie Frezza]]</li><!--
+  --><li style="">[[Tess Hermes]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Rachel Posey Austin]] (sound)</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Aug 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Dahl House*** was the August 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

@@ -3,4 +3,8 @@ Publicity photo of the 2011 lineup of [[Sarah 7]].
 
 Photo by: unknown, from [http://www.facebook.com/pages/Sarah-7/332822362415?id=332822362415&sk=photos_stream this photoset].
 ## Licensing
-{{No license}}
+This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
+
+If you know who the copyright holder for this file is, please help by contacting that person and securing their permission.
+
+Otherwise, this file may be deleted or replaced.

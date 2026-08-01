@@ -2,24 +2,44 @@
 ## Usage
 This template lists standard, useful information about an improv show.
 <pre>
-{{Infobox Show
-|Name =						
-|Picture =						
-|Theater =						
-|Director =					
-|Assistant Director =	
-|Music Director = 			
-|Tech Director =	
-|Dramaturg =
-|Stage Manager =
-|Producer =					
-|Music =      					
-|Cast =	   					
-|Past Members =							
-|Tech =      					
-|Run =							
-|Subsequent Runs = 		
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header"></th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category"></td>
+		</tr>
+
+		
+	</table>
+</div>
 </pre>
 
 
@@ -65,95 +85,38 @@ This template lists standard, useful information about an improv show.
 <div>
 	<table class="infobox infobox-show">
 		<tr>
-			<th colspan="2" class="infobox-header">{{{Name|Show Name}}}</th>
+			<th colspan="2" class="infobox-header">Show Name</th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[{{{Picture]]
+				![[Show Default Image.jpg]]
 			</td>
 		</tr>
-{{#if: {{{Theater|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Theater</th>
-			<td class="category">{{{Theater|Unknown}}}</td>
-		</tr>
-|}}
+
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">{{{Director|Unknown}}}</td>
+			<td class="category">Unknown</td>
 		</tr>
-{{#if: {{{Assistant Director|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">{{{Assistant Director|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Tech Director|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">{{{Tech Director|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Dramaturg|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Dramaturg(s)</th>
-			<td class="category">{{{Dramaturg|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Stage Manager|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category">{{{Stage Manager|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Music Director|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Music Director(s)</th>
-			<td class="category">{{{Music Director|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Producer|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">{{{Producer|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Music|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Music By</th>
-			<td class="category">{{{Music|Unknown}}}</td>
-		</tr>
-|}}
+
+
+
+
+
+
+
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category">{{{Cast|Unknown}}}</td>
+			<td class="category">Unknown</td>
 		</tr>
-{{#if: {{{Past Members|}}} |
+
+
 		<tr class="">
-			<th class="category-header" scope="row">Past Members</th>
-			<td class="category">{{{Past Members|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Tech|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Crew</th>
-			<td class="category">{{{Tech|Unknown}}}</td>
-		</tr>
-|}}
-		<tr class="">
-{{#if: {{{Subsequent Runs|}}} |
-			<th scope="row" class="category-header">Initial Run</th>
-|
+
 			<th scope="row" class="category-header">Run</th>
-}}
-			<td class="category">{{{Run|Unknown}}}</td>
+
+			<td class="category">Unknown</td>
 		</tr>
-{{#if: {{{Subsequent Runs|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Subsequent Run(s)</th>
-			<td class="category">{{{Subsequent Runs|Unknown}}}</td>
-		</tr>
-|}}
+
 		
 	</table>
 </div>

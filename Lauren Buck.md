@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Lauren Buck	
-|Picture =	Lauren Buck Pic.jpg
-|Theater=	Various
-|Years	=	1998-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Lauren Buck</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Lauren Buck Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1998-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Lauren Buck** (née **Lauren Zinn**) is an improv performer, director, and teacher.
 

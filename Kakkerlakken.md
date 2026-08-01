@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Kakkerlakken
-|Picture	=	Kakkerlakken.png
-|Cast	=	{{ Unbulleted list | [[Bradley Harrington]] | [[Bryan Wells]] | [[David Nayer]] | [[Elly Van Laar]] | [[Jason Heffron]] | [[Keegan Hines]] | [[Menelaos Prokos]] | [[Mike Nystul]] | Tim | [[Todd Geldon]] | [[Troy Miller]] | [[Tyler Pratt]] }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Kakkerlakken</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Kakkerlakken.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bradley Harrington]]</li><!--
+  --><li style="">[[Bryan Wells]]</li><!--
+  --><li style="">[[David Nayer]]</li><!--
+  --><li style="">[[Elly Van Laar]]</li><!--
+  --><li style="">[[Jason Heffron]]</li><!--
+  --><li style="">[[Keegan Hines]]</li><!--
+  --><li style="">[[Menelaos Prokos]]</li><!--
+  --><li style="">[[Mike Nystul]]</li><!--
+  --><li style="" >Tim</li><!--
+  --><li style="">[[Todd Geldon]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><li style="">[[Tyler Pratt]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Kakkerlakken** was an improv troupe.
 

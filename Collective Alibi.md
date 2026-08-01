@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Collective Alibi
-|Picture	=	Collective Alibi.jpg
-|Cast	=	{{ Unbulleted list | [[Amy Wright]] | [[Emily McDonald]] | [[Ian Townsend]] | [[Jake Millward]] | [[Jared Robertson]] | [[Javier Ungo]] | [[Julia Salas]] | [[Kasey Borger]] | [[Steve Moore]] }}
-|Director = [[Adam Trabka]]
-|Years	=		2014-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Collective Alibi</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Collective Alibi.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Adam Trabka]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Wright]]</li><!--
+  --><li style="">[[Emily McDonald]]</li><!--
+  --><li style="">[[Ian Townsend]]</li><!--
+  --><li style="">[[Jake Millward]]</li><!--
+  --><li style="">[[Jared Robertson]]</li><!--
+  --><li style="">[[Javier Ungo]]</li><!--
+  --><li style="">[[Julia Salas]]</li><!--
+  --><li style="">[[Kasey Borger]]</li><!--
+  --><li style="" >[[Steve Moore]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Collective Alibi** was an improv troupe.  They animorphed into [[Kinkade]].
 

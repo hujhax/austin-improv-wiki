@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Mike Sullivan	
-|Picture =	Mike Sullivan Pic.jpg
-|Theater=	Various
-|Years	=	2009-2011
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Mike Sullivan</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Mike Sullivan Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-2011</td>
+		</tr>
+
+	</table>
+</div>
 
 **Mike Sullivan** is an improv performer.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Lindsay Hejl
-|Picture =	Lindsay Hejl.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	?-2015
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Lindsay Hejl</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Lindsay Hejl.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">?-2015</td>
+		</tr>
+
+	</table>
+</div>
 
 **Lindsay Hejl** is an improv performer. She moved away to Chicago in 2015. 
 

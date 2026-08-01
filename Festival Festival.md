@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name = Festival Festival	
-|Picture =	Festival Festival.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	Various
-|Cast =	Various
-|Run	=	Dec 2013
-|Subsequent Runs = Dec 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Festival Festival</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Festival Festival.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Dec 2013</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Dec 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Festival Festival*** is a holiday comedy show at [[ColdTowne Theater]] with a different theme every week.
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Bear Derby
-|Picture	=	Bear Derby.jpg
-|Cast	=	{{ Unbulleted list | [[Pseudonyms|Alessandra T.]] | [[Ashley Siebels]] | [[Austin Davison]] | [[Ben Bazan]] | [[Dustin Finkelnstein]] | [[Dustin Finkelstein]] | [[Juliet Prather]] | [[Matthew Stoner]] | [[Sanjay Rao]] | [[Sarah Coker]] | [[XJ Coleman]]}}
-|Years	=		2013-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bear Derby</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Bear Derby.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Pseudonyms|Alessandra T.]]</li><!--
+  --><li style="">[[Ashley Siebels]]</li><!--
+  --><li style="">[[Austin Davison]]</li><!--
+  --><li style="">[[Ben Bazan]]</li><!--
+  --><li style="">[[Dustin Finkelnstein]]</li><!--
+  --><li style="">[[Dustin Finkelstein]]</li><!--
+  --><li style="">[[Juliet Prather]]</li><!--
+  --><li style="">[[Matthew Stoner]]</li><!--
+  --><li style="" >[[Sanjay Rao]]</li><!--
+  --><li style="">[[Sarah Coker]]</li><!--
+  --><li style="">[[XJ Coleman]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Bear Derby** is a [[ColdTowne Student Troupe]].
 

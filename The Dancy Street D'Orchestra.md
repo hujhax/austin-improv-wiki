@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Dancy Street D'Orchestra
-|Picture	=	DancyStreet.jpg
-|Cast	=	{{Unbulleted list|[[Amy Averett]]|[[Chelsea Gilman]] |[[David Rosenbaum]] |[[Howard Katz]] |[[Kristin Firth]] |[[Madi Goff]] | [[Mo Daviau]] |[[Neal Tibrewala]] |[[Peter Rogers]] |[[Susannah Raulino]] |[[Topping Haggerty]]}}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Dancy Street D'Orchestra</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[DancyStreet.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Averett]]</li><!--
+  --><li style="">[[Chelsea Gilman]]</li><!--
+  --><li style="">[[David Rosenbaum]]</li><!--
+  --><li style="">[[Howard Katz]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Madi Goff]]</li><!--
+  --><li style="">[[Mo Daviau]]</li><!--
+  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style="">[[Susannah Raulino]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Dancy Street D'Orchestra** was a narrative musical improv troupe that formed from students of [[Shana Merlin|Shana Merlin's]] first improvised-singing classes.
 

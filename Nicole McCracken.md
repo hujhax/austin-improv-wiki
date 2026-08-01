@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Nicole McCracken	
-|Picture =	Nicole McCracken Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2009-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Nicole McCracken</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Nicole McCracken Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Nicole McCracken** is an improv performer.
 

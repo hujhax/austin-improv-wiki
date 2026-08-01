@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Dark Bloodlords
-|Picture=		The Dark Bloodlords.jpg
-|Cast	=	{{Unbulleted list | [[Amy McKenna]] | [[Andy Crouch]] | [[Andy Pereira]] | [[Chris Allen]] | [[Jason Vines]] | [[Kaci Beeler]] | [[Michael Jastroch]] | [[Mike Kinald]] | [[Roy Janik]] }}
-|Years	=		2005-2007
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Dark Bloodlords</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Dark Bloodlords.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2005-2007</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy McKenna]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Andy Pereira]]</li><!--
+  --><li style="">[[Chris Allen]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style="">[[Mike Kinald]]</li><!--
+  --><li style="" >[[Roy Janik]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Dark Bloodlords** was an improv troupe.
 

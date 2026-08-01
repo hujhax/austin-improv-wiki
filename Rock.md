@@ -1,15 +1,209 @@
-{{Infobox Show
-|Name	=	Rock	
-|Picture=	Rock_poster.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director =	{{Unbulleted list|[[Kacey Samiee]] | [[Michael Brockman]]}}
-|Cast	=	{{Unbulleted list|[[Aden Kirschner]] | [[Amber Franklin]] | [[Amy Averett]] | [[Andy Crouch]] | [[Caeriel Crestin]] | [[Halyn Lee Erickson]] | [[Jason Finkelman]] | [[Jason Vines]] | [[Jordan T. Maxwell]] | [[Kacey Samiee]] | [[Kimberly Cox]] | [[Lindsey Reeves]] | [[Marc Majcher]] | [[Peter Rogers]]}}
-|Tech	=	{{Unbulleted list
-| [[Cindy Page]]
-| [[Cortney DeAngelo]]}}
-|Music	=	[[Michael Brockman]]
-|Run	=	May/Jun 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Rock</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Rock poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Michael Brockman]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Michael Brockman]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aden Kirschner]]</li><!--
+  --><li style="">[[Amber Franklin]]</li><!--
+  --><li style="">[[Amy Averett]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Jason Finkelman]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="" >[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Kimberly Cox]]</li><!--
+  --><li style="">[[Lindsey Reeves]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Rock*** (full title: ***Rock: The Improvised Rock Opera***) was an improvised longform narrative show inspired by rock operas.  All dialog was sung, and punctuated by rock'n'roll musical numbers.  Musician [[Michael Brockman]] improvised accompaniment using two keyboards, a drum machine, and an electric guitar.
 

@@ -1,10 +1,32 @@
-{{Infobox Troupe
-|Name	=		ComedySportz
-|Picture	=[[Https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84]]
-|Cast	=	Various
-|Director = [[Shawn Utterback, Terril Fischer]]
-|Years	=		1986-2012, 2017 - current
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">ComedySportz</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[[[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84]]|frameless|border|150px|]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">1986-2012, 2017 - current</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Shawn Utterback, Terril Fischer]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+	</table>
+</div>
 : *This page refers to the sports-themed short-form improv show that currently runs Saturday nights at Pinballz Lakecreek.  For the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show, see *[[Theatresports]]*.*
 
 **ComedySportz** refers to the Austin franchise of [[Wikipedia - ComedySportz|ComedySportz]]. 

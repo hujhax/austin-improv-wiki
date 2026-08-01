@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Super Sweet
-|Picture	=	Super Sweet.jpg
-|Cast	=	{{ Unbulleted list | [[Craig Mcgreggor]] | [[Lori Hobbie]] | [[R. Lance Hunter]] | [[Rosemarie Frezza]] | [[Shannon Dale Stott]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Super Sweet</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Super Sweet.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Craig Mcgreggor]]</li><!--
+  --><li style="">[[Lori Hobbie]]</li><!--
+  --><li style="">[[R. Lance Hunter]]</li><!--
+  --><li style="">[[Rosemarie Frezza]]</li><!--
+  --><li style="">[[Shannon Dale Stott]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Super Sweet** is an improv troupe.
 

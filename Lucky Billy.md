@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=	Lucky Billy
-|Picture=	Lucky Billy.jpeg
-|Cast	=	{{Unbulleted list|[[Drew Wesely]]|[[Ali Shepher]]|[[Brandi Gist]]|[[Dani Hendricks]]|[[Gil Cardenas]]|[[Juan Castañeda]]|[[Justin Han]]|[[Robyn Reynolds]]}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Lucky Billy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Lucky Billy.jpeg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2018-Present</td>
+		</tr>
 
-|Years	=		2018-Present
-}}
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Ali Shepher]]</li><!--
+  --><li style="">[[Brandi Gist]]</li><!--
+  --><li style="">[[Dani Hendricks]]</li><!--
+  --><li style="">[[Gil Cardenas]]</li><!--
+  --><li style="">[[Juan Castañeda]]</li><!--
+  --><li style="">[[Justin Han]]</li><!--
+  --><li style="">[[Robyn Reynolds]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Lucky Billy** is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms.  
 

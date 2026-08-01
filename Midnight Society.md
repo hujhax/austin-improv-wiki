@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Midnight Society
-|Picture =     Midnight Society.jpg
-|Cast	=	{{Unbulleted list | [[Addison Billingsley]] | [[Jericho Thorp]] | [[Joel Keith]] | [[Lance Gilstrap]] | [[Michael Williams]] | [[Joseph Dailey]]}}
-|Years	=		2007-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Midnight Society</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Midnight Society.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Addison Billingsley]]</li><!--
+  --><li style="">[[Jericho Thorp]]</li><!--
+  --><li style="">[[Joel Keith]]</li><!--
+  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Michael Williams]]</li><!--
+  --><li style="">[[Joseph Dailey]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Midnight Society** is an improv and sketch troupe.
 

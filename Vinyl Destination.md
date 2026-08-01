@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name = Vinyl Destination	
-|Picture =	Vinyl Destination.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Asaf Ronen]]
-|Assistant Director =	[[John Ratliff]]
-|Cast =	{{Unbulleted list | [[Bill Stern]] | [[Christina de Roos]] | [[Cody Dearing]] | [[Jason Vines]] | [[John Ratliff]] | [[Karolyn McKenzie]] | [[Kristin Firth]] | [[Valerie Ward]] }}
-|Run	=	Apr 2007
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Vinyl Destination</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Vinyl Destination.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[John Ratliff]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bill Stern]]</li><!--
+  --><li style="">[[Christina de Roos]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[John Ratliff]]</li><!--
+  --><li style="">[[Karolyn McKenzie]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Apr 2007</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Vinyl Destination*** was an improv show set in a record store.
 

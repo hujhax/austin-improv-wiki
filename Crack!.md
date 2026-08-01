@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name	=	Crack!	
-|Picture=	Crack!.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer=	{{Unbulleted list | [[Gnap! Theater Projects]] | [[The Puppet Improv Project]]}}
-|Director =	[[Sara Farr]]
-|Cast	=	{{Unbulleted list | [[Bryan Cruz]] | [[Clay Towery]] | [[Emily Breedlove]] | [[Howard Katz]] | [[Jesse Overright]] | [[Lisa Jackson]] | [[Patrick Daniel]] | [[Patrick Knisely]] | [[Peter Rogers]] | [[Sara Farr]] | [[Topping Haggerty]] | [[Valerie Ward]]}}
-|Music =        {{Unbulleted list | [[David Rosenbaum]] | [[Jason Laney]] | [[Pat Buchta]]}}
-|Run	=	Aug 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Crack!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Crack!.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Sara Farr]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Gnap! Theater Projects]]</li><!--
+  --><li style="">[[The Puppet Improv Project]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[David Rosenbaum]]</li><!--
+  --><li style="">[[Jason Laney]]</li><!--
+  --><li style="">[[Pat Buchta]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan Cruz]]</li><!--
+  --><li style="">[[Clay Towery]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Howard Katz]]</li><!--
+  --><li style="">[[Jesse Overright]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Patrick Daniel]]</li><!--
+  --><li style="">[[Patrick Knisely]]</li><!--
+  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Aug 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Crack!*** (full name: ***Crack! The Improvised Puppet Musical***) was an improvised puppet musical.
 
 ## Summary

@@ -3,4 +3,4 @@
 ## Links
 [http://www.austinchronicle.com/arts/2000-08-04/78072/ An Austin Chronicle write-up] that includes some history of the theater.
 
-{{stub}}
+*This article is a stub. You can help the Austin Improv Wiki by editing it.*

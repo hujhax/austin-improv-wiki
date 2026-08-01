@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name	=		Fakespeare				
-|Picture	=	Fakespeare Poster.jpg				
-|Theater =		[[The Hideout Theatre]]
-|Director =		{{Unbulleted list | [[Andy Crouch]] | [[Jordan T. Maxwell]] }}
-|Run=							Jul/Aug 2013
-|Cast	=		{{Unbulleted list | [[Aden Kirschner]] | [[Andy Crouch]] | [[Austin Terrell]] | [[Brett Tribe]] | [[Caeriel Crestin]] | [[Caitlin Sweetlamb]] | [[Jeremy Sweetlamb]] | [[Jessica Arjet]] | [[Jordan T. Maxwell]] | [[Katie Dahm]] | [[Katie Van Winkle]] | [[Mike Ferstenfeld]] | [[Peter Rogers]] | [[Taylor Flanagan]] | [[Troy Miller]] | }}
-|Tech = {{Unbulleted list | [[Catherine Arjet]] | [[Cindy Page]] | [[Cortney DeAngelo]] | [[Michael Yew]] | [[Warren Henderson]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Fakespeare</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Fakespeare Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aden Kirschner]]</li><!--
+  --><li style="">[[Andy Crouch]]</li><!--
+  --><li style="">[[Austin Terrell]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[Caitlin Sweetlamb]]</li><!--
+  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="" >[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Katie Van Winkle]]</li><!--
+  --><li style="">[[Mike Ferstenfeld]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Taylor Flanagan]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Catherine Arjet]]</li><!--
+  --><li style="">[[Cindy Page]]</li><!--
+  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><li style="">[[Warren Henderson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul/Aug 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Fakespeare*** was a mainstage show at [[The Hideout Theatre]].  It was a slight variation on previous runs of *[[Improvised Shakespeare]]*.
 

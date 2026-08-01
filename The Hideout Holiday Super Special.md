@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name	=	The Hideout Holiday Super Special	
-|Picture=	The Hideout Holiday Super Special Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director = Various
-|Cast	=	Various
-|Tech	=	Various
-|Run	=	Nov/Dec 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Hideout Holiday Super Special</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Hideout Holiday Super Special Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">Various</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Nov/Dec 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Hideout Holiday Super Special*** was an anthology of Christmas-themed performances of previous mainstage shows at [[The Hideout Theatre]].
 

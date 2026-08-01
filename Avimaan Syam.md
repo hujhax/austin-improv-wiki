@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Avimaan Syam	
-|Picture =	Avimaan Syam Pic.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Years	=	2009-2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Avimaan Syam</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Avimaan Syam Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **Avimaan Syam** was an improv performer and director.
 

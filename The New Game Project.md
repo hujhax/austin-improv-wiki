@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	The New Game Project
-|Picture = 	The New Game Project Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast=		Varies
-|Director =	[[Roy Janik]]	
-|Run	=	1/5/12
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The New Game Project</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The New Game Project Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Varies</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">1/5/12</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***The New Game Project*** (AKA ***The New Game People***) is a shortform show that generates shortform formats based on audience suggestions.
 
 

@@ -1,14 +1,214 @@
-{{Infobox Show
-|Name =	Immigrants, The Musical!  (Part One)					
-|Picture=Immigrants.jpg						
-|Theater = The Institution Theater
-|Director =	{{Unbulleted list|[[Lahari Samineni]]|[[Asaf Ronen]]}}
-|Music Director = Tosin Awofeso		
-||Stage Manager =	Sandra Ybarra					
-|Tech Director = {{Unbulleted list|Mark Shoemaker|Lance Hunter}}     					
-|Cast = {{Unbulleted list|Allison Day|Amar Dev|Dori Alvarado|Frank Sánchez|Heidi Rogers|[[Kelly Campbell]]|Kim Tran|[[Marc Jalandoon]]|Mars Wright|Shannon Dale Stott|Sushant Sethi}}
-|Run = June - July 2017							
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Immigrants, The Musical!  (Part One)</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Immigrants.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">The Institution Theater</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Lahari Samineni]]</li><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Mark Shoemaker</li><!--
+  --><li style="">Lance Hunter</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Stage Manager(s)</th>
+			<td class="category">Sandra Ybarra</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music Director(s)</th>
+			<td class="category">Tosin Awofeso</td>
+		</tr>
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Allison Day</li><!--
+  --><li style="">Amar Dev</li><!--
+  --><li style="">Dori Alvarado</li><!--
+  --><li style="">Frank Sánchez</li><!--
+  --><li style="">Heidi Rogers</li><!--
+  --><li style="">[[Kelly Campbell]]</li><!--
+  --><li style="">Kim Tran</li><!--
+  --><li style="">[[Marc Jalandoon]]</li><!--
+  --><li style="" >Mars Wright</li><!--
+  --><li style="">Shannon Dale Stott</li><!--
+  --><li style="">Sushant Sethi</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">June - July 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Immigrants, The Musical! (Part One)*** was a mainstage show at [[The Institution Theater]]  which explored the stories of immigrants into the United States through the cast.
 

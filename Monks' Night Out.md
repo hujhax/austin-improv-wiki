@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Monks' Night Out
-|Picture	=	Monks' Night Out.jpg
-|Cast	=	{{Unbulleted list | [[Andy Cobb]] | [[Becca Sadler]] | [[Ben Prince]] | [[Brently Heilbron]] | [[Christie Ingram]] | [[David Lampe]] | [[Eric Perry]] | [[G Cole Spainhour]] | [[Gabriel Folse]] | [[Greg Dorchak]] | [[Holly Simpson]] | [[Jon Wiley]] | [[Joseph Anthony Fotinos]] | [[Katey Mushlin]] | [[Laura Estep]] | [[Marc Pruter]] | [[Matt Bearden]] | [[Mervyn Burnett]] | [[Michael Joplin]] | [[Pamela Ribon]] | [[Paul Finley]] | [[Regina Reale]] | [[Sarah Pattison Cavazos]] | [[Scott Perry]] | [[Tim Bauer]] | [[Tim Girardot]] | [[Tyler Bryce]]}}
-|Director =	[[Marc Pruter]]
-|Years	=		1994-2001
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Monks' Night Out</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Monks' Night Out.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">1994-2001</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Marc Pruter]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andy Cobb]]</li><!--
+  --><li style="">[[Becca Sadler]]</li><!--
+  --><li style="">[[Ben Prince]]</li><!--
+  --><li style="">[[Brently Heilbron]]</li><!--
+  --><li style="">[[Christie Ingram]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Eric Perry]]</li><!--
+  --><li style="">[[G Cole Spainhour]]</li><!--
+  --><li style="" >[[Gabriel Folse]]</li><!--
+  --><li style="">[[Greg Dorchak]]</li><!--
+  --><li style="">[[Holly Simpson]]</li><!--
+  --><li style="">[[Jon Wiley]]</li><!--
+  --><li style="">[[Joseph Anthony Fotinos]]</li><!--
+  --><li style="">[[Katey Mushlin]]</li><!--
+  --><li style="">[[Laura Estep]]</li><!--
+  --><li style="">[[Marc Pruter]]</li><!--
+  --><li style="">[[Matt Bearden]]</li><!--
+  --><li style="">[[Mervyn Burnett]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Pamela Ribon]]</li><!--
+  --><li style="">[[Paul Finley]]</li><!--
+  --><li style="">[[Regina Reale]]</li><!--
+  --><li style="">[[Sarah Pattison Cavazos]]</li><!--
+  --><li style="">[[Scott Perry]]</li><!--
+  --><li style="">[[Tim Bauer]]</li><!--
+  --><li style="">[[Tim Girardot]]</li><!--
+  --><li style="">[[Tyler Bryce]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Monks' Night Out** (often misspelled **Monk's Night Out**) was one of the best-known troupes in Austin in the 1990s.  It focused on short-form games, as well as sketch and musical comedy.
 

@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	More or Less
-|Picture =	More or Less Pic.jpg
-|Theater =	[[The Hideout Theatre]]
-|Director =	Various	
-|Cast	=	Various
-|Run	=	1999-2003
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">More or Less</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[More or Less Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">1999-2003</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***More or Less*** was a Johnstone format put on by [[The Hideout Theatre]].
 
 ## Summary

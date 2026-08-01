@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Myth Debunkers	
-|Picture=	Myth Debunkers.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director =	[[Eric Heiberg]]
-|Cast	=	{{Unbulleted list | [[Courtney Hopkin]] | [[Eric Heiberg]] | [[Gene Joe]] | [[Jason Vines]] | [[Jeremy Lamb]] | [[Ryan Austin]] }}
-|Run	=	6/14/12
-|Subsequent Runs = 3/22/13
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Myth Debunkers</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Myth Debunkers.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Eric Heiberg]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style="">[[Gene Joe]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="">[[Jeremy Lamb]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">6/14/12</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">3/22/13</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Myth Debunkers*** was an improvised version of *[[Wikipedia - MythBusters|MythBusters]]*.
 

@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: Saved by the Bell	
-|Picture=	Live TV Tuesdays- Saved by the Bell.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Tom Booker]]
-|Cast	=	{{Unbulleted list | [[Bryan Cruz]] | [[Bryan Roberts]] | [[Ellana Kelter]] | [[Espie Randolph]] | [[Lauren Forman]] | [[Patrick Daniel]] | [[Terrill Fischer]] }}
-|Run	=	Aug 2009
-|Subsequent Runs = Oct/Nov 2009
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: Saved by the Bell</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays- Saved by the Bell.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan Cruz]]</li><!--
+  --><li style="">[[Bryan Roberts]]</li><!--
+  --><li style="">[[Ellana Kelter]]</li><!--
+  --><li style="">[[Espie Randolph]]</li><!--
+  --><li style="">[[Lauren Forman]]</li><!--
+  --><li style="">[[Patrick Daniel]]</li><!--
+  --><li style="">[[Terrill Fischer]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Aug 2009</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Oct/Nov 2009</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: Saved by the Bell*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Saved by the Bell|*Saved by the Bell*]] epiodes [http://www.imdb.com/title/tt0794963 "Jessie's Song"] and [http://www.imdb.com/title/tt0695237 "The Zack Tapes"].
 
 ## Summary

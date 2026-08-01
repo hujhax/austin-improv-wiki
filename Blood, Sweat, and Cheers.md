@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Blood, Sweat, and Cheers	
-|Picture=	Blood, Sweat, and Cheers pic.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Director =	[[Roy Janik]]
-|Producer = [[Kaci Beeler]]
-|Cast	=	{{Unbulleted list | [[Alex Dobrenko]] | [[Amy Gentry]] | [[Courtney Hopkin]] | [[Curtis Luciani]] | [[Halyn Lee Erickson]] | [[Jessica Arjet]] | [[Kaci Beeler]] | [[Karen Jane DeWitt]] | [[Kayla Lane Freeman]] | [[Paul Normandin]] }}
-|Run	=	May/Jun 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Blood, Sweat, and Cheers</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Blood, Sweat, and Cheers pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Roy Janik]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Kaci Beeler]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Dobrenko]]</li><!--
+  --><li style="">[[Amy Gentry]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Halyn Lee Erickson]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="" >[[Kayla Lane Freeman]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Blood, Sweat, and Cheers*** is a devised play about competitive cheerleading.
 

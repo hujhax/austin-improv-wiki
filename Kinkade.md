@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Kinkade
-|Picture	=	Kinkade.jpg
-|Cast	=	{{ Unbulleted list | [[Ian Townsend]] | [[Jake Millward]] | [[Jared Robertson]] | [[Javier Ungo]] | [[Steven H. Moore]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Kinkade</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Kinkade.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ian Townsend]]</li><!--
+  --><li style="">[[Jake Millward]]</li><!--
+  --><li style="">[[Jared Robertson]]</li><!--
+  --><li style="">[[Javier Ungo]]</li><!--
+  --><li style="">[[Steven H. Moore]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Kinkade** is an improv troupe.  Take a minute to go read about the mythology of [https://en.wikipedia.org/wiki/Phoenix,_Arizona the phoenix].  Go ahead.  I can wait.  
 

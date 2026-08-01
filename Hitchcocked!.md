@@ -1,13 +1,209 @@
-{{Infobox Show
-|Name	=	Hitchcocked!	
-|Picture=	Hitchcocked! Poster.jpg
-|Theater=	[[The Hideout Theatre]]	
-|Director =	[[Troy Miller]]
-|Cast	=	{{Unbulleted list | [[Asaf Ronen]] | [[Audrey Rachel Sansom]] | [[Chris Allen]] | [[Curtis Luciani]] | [[David Lampe]] | [[Jay Michael]] | [[Kaci Beeler]] | [[Lisa Jackson]] | [[Roy Janik]] | [[Sarah Marie Curry]] | [[Sean Hill]] | [[Stacy Kaplowitz]] | [[Troy Miller]] }}
-| Music = {{Unbulleted list | [[Michael Brockman]] | [[Sara Farr]] }}
-|Tech	=	{{Unbulleted list | [[Anandhi Mani]] | [[Brianne Wilson]] | [[David Zimmerman]] | [[Josh Becker]] | [[Michael Yew]] | [[Neal Tibrewala]] | [[Todd Hart]] }}
-|Run	=	Mar/Apr 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Hitchcocked!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Hitchcocked! Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Troy Miller]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Michael Brockman]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Chris Allen]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Jay Michael]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="" >[[Roy Janik]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Sean Hill]]</li><!--
+  --><li style="">[[Stacy Kaplowitz]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Anandhi Mani]]</li><!--
+  --><li style="">[[Brianne Wilson]]</li><!--
+  --><li style="">[[David Zimmerman]]</li><!--
+  --><li style="">[[Josh Becker]]</li><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style="">[[Todd Hart]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar/Apr 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 ![[Hitchcocked! Performance.jpg|A performance of *Hitchcocked!*.]]
 
 ***Hitchcocked!*** was a mainstage show at [[The Hideout Theatre]] inspired by the works of [[Wikipedia - Alfred Hitchcock|Alfred Hitchcock]].

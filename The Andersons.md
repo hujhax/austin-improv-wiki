@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name	=	The Andersons	
-|Picture =	The Andersons.jpg ‎
-|Director =	[[Patrick Daniel]]	
-|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Curtis Luciani]] | [[Dav Wallace]] | [[Deana Ricks]] | [[Deano Jones]] | [[Indigo Rael]] | [[Jared Stepp]] | [[Jason Vines]] | [[Jon Bolden]] | [[Justin York]] | [[Kacey Samiee]] | [[Kaci Beeler]] | [[Kareem Badr]] | [[Katie Thornton]] | [[Roy Janik]] | [[Stacy Kaplowitz]] | [[Valerie Ward]] }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	May/Jun 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Andersons</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Andersons.jpg ‎]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Patrick Daniel]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aden Kirschner]]</li><!--
+  --><li style="">[[Curtis Luciani]]</li><!--
+  --><li style="">[[Dav Wallace]]</li><!--
+  --><li style="">[[Deana Ricks]]</li><!--
+  --><li style="">[[Deano Jones]]</li><!--
+  --><li style="">[[Indigo Rael]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="" >[[Jon Bolden]]</li><!--
+  --><li style="">[[Justin York]]</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><li style="">[[Stacy Kaplowitz]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Andersons*** was an improvised longform show based on wholesome 1950s television sitcoms.
 

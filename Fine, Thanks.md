@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Fine, Thanks
-|Picture	=	Fine, Thanks.jpg
-|Cast	=	{{ Unbulleted list | [[Alex Gray]] | [[Amy O'Connor]] | [[Bradley Harrington]] | [[Jessica Arjet]] | [[Keegan Hines]] | [[Kristin Firth]] | [[Menelaos Prokos]] }}
-|Years	=		2007-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Fine, Thanks</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Fine, Thanks.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2007-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Gray]]</li><!--
+  --><li style="">[[Amy O'Connor]]</li><!--
+  --><li style="">[[Bradley Harrington]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style="">[[Keegan Hines]]</li><!--
+  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style="">[[Menelaos Prokos]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Fine, Thanks** was an improv troupe.
 

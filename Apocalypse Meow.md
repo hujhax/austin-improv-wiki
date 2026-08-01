@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Apocalypse Meow
-|Picture	=	Apocalypse Meow.jpg
-|Cast	=	{{ Unbulleted list | [[Chelley Pyatt]] | [[David Rosenbaum]] | [[Kim Roche]] | [[Neal Trebewla]] | [[Sandra Ybarra]] | [[Todd Hart]] | [[Zach Leos]] }}
-|Years	=		2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Apocalypse Meow</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Apocalypse Meow.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style="">[[David Rosenbaum]]</li><!--
+  --><li style="">[[Kim Roche]]</li><!--
+  --><li style="">[[Neal Trebewla]]</li><!--
+  --><li style="">[[Sandra Ybarra]]</li><!--
+  --><li style="">[[Todd Hart]]</li><!--
+  --><li style="">[[Zach Leos]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Apocalypse Meow** was an improv troupe.
 

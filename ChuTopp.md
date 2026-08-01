@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	ChuTopp
-|Picture =      ChuTopp.jpg
-|Cast	=	{{Unbulleted list | [[Topping Haggerty]] | [[Chuy Zarate]]}}
-|Years	=	2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">ChuTopp</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[ChuTopp.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style="">[[Chuy Zarate]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 ## Summary
 **ChuTopp** is the improv power duo of [[Topping Haggerty]] and [[Chuy Zarate]] that began its powerful existence in 2012. They embrace the awkward truth about their very flawed, but focused, characters. ChuTopp's first format, *The End of the World*, had not so worldly, not so knowledgeable, amazingly innocuous characters saving the world from kitten-apocalypses, to the world-wide loss of cell phones, to a plague of ants. Currently, ChuTopp's format is *The Heist*, where all the plans are bad but all the intentions are good.

@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name               = 183 Dewberry Lane
-|Picture            = 183 Dewberry Lane Poster.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Caeriel Crestin]]
-|Assistant Director = [[J. R. Zambrano]]
-|Run                = Feb 2016
-|Cast               = {{Unbulleted list | [[Aspen Webster]] | [[Carolina A. Andrade]] | [[Eric Peterson]] | [[Graham Snow]] | [[Greg Mihalik]] | [[Kay Krasin]] | [[Luis Salinas]] | [[Sue Woodka Jordan]] | [[Tamara Warton]] | [[Zachariah Rollins]] }}
-|Tech               = {{Unbulleted list | [[Alex Walker]] | [[Casey Marie]] }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">183 Dewberry Lane</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[183 Dewberry Lane Poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Caeriel Crestin]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[J. R. Zambrano]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style="">[[Carolina A. Andrade]]</li><!--
+  --><li style="">[[Eric Peterson]]</li><!--
+  --><li style="">[[Graham Snow]]</li><!--
+  --><li style="">[[Greg Mihalik]]</li><!--
+  --><li style="">[[Kay Krasin]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style="">[[Sue Woodka Jordan]]</li><!--
+  --><li style="" >[[Tamara Warton]]</li><!--
+  --><li style="">[[Zachariah Rollins]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Walker]]</li><!--
+  --><li style="">[[Casey Marie]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Feb 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***183 Dewberry Lane*** will be the February 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

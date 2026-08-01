@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Band of Liars
-|Picture	=	Band of Liars.jpg
-|Cast	=	{{ Unbulleted list | [[Daniel Rigney]] | [[Jackie Myers]] | [[Michael Ferstenfeld]] | [[Paul Wainwright]] | [[Petra Kelsey]] | [[Todd Mein]] | [[Jason Laney]] }}
-|Years	=		2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Band of Liars</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Band of Liars.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Daniel Rigney]]</li><!--
+  --><li style="">[[Jackie Myers]]</li><!--
+  --><li style="">[[Michael Ferstenfeld]]</li><!--
+  --><li style="">[[Paul Wainwright]]</li><!--
+  --><li style="">[[Petra Kelsey]]</li><!--
+  --><li style="">[[Todd Mein]]</li><!--
+  --><li style="">[[Jason Laney]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Band of Liars** was a musical improv troupe.
 

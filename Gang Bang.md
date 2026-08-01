@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Gang Bang
-|Cast	=	{{ Unbulleted list | [[Brian Engravalle]] | [[Cody Dearing]] | [[Jared Stepp]] | [[Jericho Thorp]] | [[Josh Gill]] | [[Joshua Gill]] | [[Lisa Jackson]] | [[Nick Ramirez]] | [[Sandra Markarian]] | [[Todd Schanbacher]] }}
-|Years	=		2010-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Gang Bang</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brian Engravalle]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Jared Stepp]]</li><!--
+  --><li style="">[[Jericho Thorp]]</li><!--
+  --><li style="">[[Josh Gill]]</li><!--
+  --><li style="">[[Joshua Gill]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Nick Ramirez]]</li><!--
+  --><li style="" >[[Sandra Markarian]]</li><!--
+  --><li style="">[[Todd Schanbacher]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Gang Bang** was a "fast-paced, drunken-frenzy improv troupe."
 

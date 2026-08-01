@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Bridgeport Women's Correctional Facility Short Form Players
-|Picture	=	Bridgeport Women's Correctional Facility Short Form Players.jpg
-|Cast	=	{{Unbulleted list | [[Chrissy Shackleford]] | [[Cortnie Jones]] | [[Courtney Hopkin]] | [[Erika May McNichol]] | [[Jen Cargill]] | [[Jill Morris]] | [[Kaci Beeler]] | [[Katie Thornton]] | [[Lisa Jackson]] | [[Pseudonyms|Madeline M.]] | [[Rachel Madorsky]] | [[Tami Nelson]] }}
-|Director = [[Erika May McNichol]]
-|Years	=		2006-2007, 2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bridgeport Women's Correctional Facility Short Form Players</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Bridgeport Women's Correctional Facility Short Form Players.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2006-2007, 2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Erika May McNichol]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chrissy Shackleford]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Erika May McNichol]]</li><!--
+  --><li style="">[[Jen Cargill]]</li><!--
+  --><li style="">[[Jill Morris]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Katie Thornton]]</li><!--
+  --><li style="" >[[Lisa Jackson]]</li><!--
+  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
+  --><li style="">[[Rachel Madorsky]]</li><!--
+  --><li style="">[[Tami Nelson]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Bridgeport Women's Correctional Facility Short Form Players** is an improv troupe that performs persona-prov as a set of female prisoners.
 

@@ -1,21 +1,214 @@
-{{Infobox Show
-|Name =It Came From Your Brain!
-|Picture = Itcamefromyourbrain!.jpg
-|Theater = [[The Institution Theater]]
-|Director = {{Unbulleted list | [[Kenny Madison]] | [[Nicholaus Weindel]] }}
-|Assistant Director =
-|Music Director = 
-|Tech Director =
-|Dramaturg =
-|Stage Manager = 
-|Producer = [[Chelsea Dougherty]]
-|Music =      
-|Cast = {{Unbulleted list | [[Jennifer Dorsey]] | [[Marcone Cangussu]] |  [[David Lampe]] | [[Alicia Earls]] | [[Ethan Stites]] | [[Heidi Penix]] | [[Ben Howell]] | [[Heidi Lorenz]] (Host) }}
-|Past Members =
-|Tech = {{Unbulleted list | [[Neil Dorsey]] | [[Juese Cutler]]  | [[Thedward Blevins]] }}
-|Run = Oct 2016
-|Subsequent Runs = Oct 2017
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">It Came From Your Brain!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Itcamefromyourbrain!.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Kenny Madison]]</li><!--
+  --><li style="">[[Nicholaus Weindel]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Chelsea Dougherty]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jennifer Dorsey]]</li><!--
+  --><li style="">[[Marcone Cangussu]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Alicia Earls]]</li><!--
+  --><li style="">[[Ethan Stites]]</li><!--
+  --><li style="">[[Heidi Penix]]</li><!--
+  --><li style="">[[Ben Howell]]</li><!--
+  --><li style="">[[Heidi Lorenz]] (Host)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Neil Dorsey]]</li><!--
+  --><li style="">[[Juese Cutler]]</li><!--
+  --><li style="">[[Thedward Blevins]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">Oct 2016</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Oct 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ## Summary
 ### Promotional Text

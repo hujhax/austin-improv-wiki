@@ -2,13 +2,27 @@
 ## Usage
 This template lists standard, useful information about an improv performer.
 <pre>
-{{Infobox Performer
-|Name	=		
-|Picture=	
-|Theater=			
-|Years	=	
-|Instruments = 
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header"></th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category"></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category"></td>
+		</tr>
+
+	</table>
+</div>
 </pre>
 
 
@@ -31,26 +45,21 @@ This template lists standard, useful information about an improv performer.
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
-			<th colspan="2" class="infobox-header">{{{Name|Performer Name}}}</th>
+			<th colspan="2" class="infobox-header">Performer Name</th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[{{{Picture]]
+				![[Performer Default Image.png]]
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">{{{Theater|None}}}</td>
+			<td class="category">None</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
-			<td class="category">{{{Years|Unknown}}}</td>
+			<td class="category">Unknown</td>
 		</tr>
-{{#if: {{{Instruments|}}} |
-		<tr class="">
-			<th scope="row" class="category-header">Instrument(s)</th>
-			<td class="category">{{{Instruments|Unknown}}}</td>
-		</tr>
-|}}
+
 	</table>
 </div>

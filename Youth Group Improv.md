@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Youth Group Improv
-|Cast	=	{{ Unbulleted list | [[Pseudonyms|Alessandra T.]] | [[Becca Westerkom]] | [[Caitlin Bumgartner]] | [[Cody Dearing]] | [[Drew Wesely]] | [[Frank Netscher]] | [[Jeremy Logan]] | [[John Brewster]] | [[Kayla Freeman]] | [[Milo Smith]] | [[Nathan Sowell]]  }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Youth Group Improv</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Pseudonyms|Alessandra T.]]</li><!--
+  --><li style="">[[Becca Westerkom]]</li><!--
+  --><li style="">[[Caitlin Bumgartner]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Frank Netscher]]</li><!--
+  --><li style="">[[Jeremy Logan]]</li><!--
+  --><li style="">[[John Brewster]]</li><!--
+  --><li style="" >[[Kayla Freeman]]</li><!--
+  --><li style="">[[Milo Smith]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Youth Group Improv** was an improv troupe that did persona-prov as a pastor and youth group.
 

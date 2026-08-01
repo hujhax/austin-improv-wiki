@@ -1,11 +1,148 @@
-{{Infobox Show
-|Name	=	The Cagematch	
-|Picture=	The Cagematch.jpg
-|Theater=	{{Unbulleted list | [[The Hideout Theatre]] (2005-2007) | [[ColdTowne Theater]] (2007-Present) }}
-|Director =	{{Unbulleted list | [[Chris Trew]] (2007-2008) | [[Michael Williams]] (2008-2012) | [[Adam Trabka]] (2012-2014) | [[Nathan Sowell]] (2014-Present) }}
-|Cast	=	Various
-|Run	=	2005-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Cagematch</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Cagematch.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[The Hideout Theatre]] (2005-2007)</li><!--
+  --><li style="">[[ColdTowne Theater]] (2007-Present)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chris Trew]] (2007-2008)</li><!--
+  --><li style="">[[Michael Williams]] (2008-2012)</li><!--
+  --><li style="">[[Adam Trabka]] (2012-2014)</li><!--
+  --><li style="">[[Nathan Sowell]] (2014-Present)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2005-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Cagematch*** (AKA ***Cage Match***, ***Cagematch***) is a competitive performance slot at [[ColdTowne Theater]] in which two to three improv troupes perform and the audience votes on their favorite.  It runs at 10pm on Wednesday nights.
 

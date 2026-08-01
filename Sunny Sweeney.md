@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Sunny Sweeney	
-|Picture =	Sunny Sweeney Pic.jpg
-|Theater=	[[ComedySportz]]
-|Years	=	1997-1998
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Sunny Sweeney</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Sunny Sweeney Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ComedySportz]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1997-1998</td>
+		</tr>
+
+	</table>
+</div>
 
 **Sunny Sweeney** was an improv performer.
 

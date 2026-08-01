@@ -4,4 +4,6 @@ Promotional photo of [[¡Zarzamora!]], from [http://www.facebook.com/pages/Zarza
 Photo by [[Steve Rogers]], with further processing (adding [[Chuy Zarate]] in Photoshop) by [[Kevin Miller]].
 
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

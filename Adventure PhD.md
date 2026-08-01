@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name               = Adventure PhD
-|Picture            = Adventure phd cast.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = {{Unbulleted list | [[Andreas Fabis]] | [[Jessica Arjet]] }}
-|Run                = Oct 2016
-|Cast               = {{Unbulleted list | [[Chelsea Beth]] | [[Chris Curl]] | [[Danielle Saar]] | [[Ellen Pizarek]] | [[Erasmo Romero]] | [[Josh Farmer]] | [[Joy Parks]] | [[Mary Henderson]] | [[Nicholas Marino]] | [[Thedward Blevins]] }}
-|Tech               = {{Unbulleted list | [[Jason Hoppenworth]]<br>(lights) | [[Jay Mahavier]]<br>(technical director) | [[Marc Jalandoon]]<br>(stage manager) | [[Tyleah McGuire]]<br>(sound) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Adventure PhD</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Adventure phd cast.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Jessica Arjet]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Chelsea Beth]]</li><!--
+  --><li style="">[[Chris Curl]]</li><!--
+  --><li style="">[[Danielle Saar]]</li><!--
+  --><li style="">[[Ellen Pizarek]]</li><!--
+  --><li style="">[[Erasmo Romero]]</li><!--
+  --><li style="">[[Josh Farmer]]</li><!--
+  --><li style="">[[Joy Parks]]</li><!--
+  --><li style="">[[Mary Henderson]]</li><!--
+  --><li style="" >[[Nicholas Marino]]</li><!--
+  --><li style="">[[Thedward Blevins]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jason Hoppenworth]]<br>(lights)</li><!--
+  --><li style="">[[Jay Mahavier]]<br>(technical director)</li><!--
+  --><li style="">[[Marc Jalandoon]]<br>(stage manager)</li><!--
+  --><li style="">[[Tyleah McGuire]]<br>(sound)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Adventure PhD*** will be the October 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

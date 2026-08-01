@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Patrick Daniel	
-|Picture =	Patrick Daniel Pic.jpg
-|Theater=	Various
-|Years	=	1999-2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Patrick Daniel</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Patrick Daniel Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">1999-2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **Patrick Daniel** is an improv performer.
 

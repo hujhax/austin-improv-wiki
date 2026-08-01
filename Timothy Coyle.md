@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Timothy Coyle
-|Picture =	timcoyle.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2014-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Timothy Coyle</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Timcoyle.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 Timothy (Tim) Coyle is an improv performer and member of the troupe [[Character Explosion]] the duo [[You Bet Your Life]] and an instructor for [[Building Connections]].
 

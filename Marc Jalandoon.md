@@ -1,10 +1,24 @@
-{{Infobox Performer
-|Name	=	Marc Jalandoon	
-|Picture =	marcjalandoon.jpg
-|Theater=	[[The Hideout Theatre]]
-|Troupes = [[Twine]]
-|Years	=	2015 - Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Marc Jalandoon</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Marcjalandoon.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2015 - Present</td>
+		</tr>
+
+	</table>
+</div>
 
 Marc Jalandoon is an active improviser, primarily performing at [[The Hideout Theatre]].
 

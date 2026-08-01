@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Sarah Marie Curry	
-|Picture =	ShowcaseTIT.png
-|Theater=       [[Chaotic-neutral]]
-|Years	=	2008-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Sarah Marie Curry</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[ShowcaseTIT.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[Chaotic-neutral]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Sarah Marie Curry** is an award winning improvisational performer, actor, singer, director, and teacher. Sarah Marie Curry has been an actor and working artist for over a decade.  Regional acting credits include: The Last Five Years (Jaime), Fun Home (Alison), Reefer Madness (Mary Lane) Ordinary Days (Deb), Company (Jenny) Into the Woods (Cinderella) to name a few. On stage she has been called “hilarious” “fierce” “truly exceptional” and is a local Austin, Texas award winner for Outstanding Lead Actress in multiple productions over the years. She is currently teaching advanced improvisation and acting curriculums and trainings across the nation. For show updates and more go to www.sarahmariecurry.com 
 

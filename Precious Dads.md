@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Precious Dads
-|Picture	=	Precious Dads.jpg
-|Cast	=	{{Unbulleted list | [[Addison Billingsley]] | [[Byron Brown]] | [[Carlos LaRotta]] | [[Jeff Whitaker]] | [[Kirk Johnson]] | [[Max Lipchitz]] | [[Tre Fuentes]] | [[Will Elliott]] | [[Ximena Estrada]] }}
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Precious Dads</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Precious Dads.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Addison Billingsley]]</li><!--
+  --><li style="">[[Byron Brown]]</li><!--
+  --><li style="">[[Carlos LaRotta]]</li><!--
+  --><li style="">[[Jeff Whitaker]]</li><!--
+  --><li style="">[[Kirk Johnson]]</li><!--
+  --><li style="">[[Max Lipchitz]]</li><!--
+  --><li style="">[[Tre Fuentes]]</li><!--
+  --><li style="">[[Will Elliott]]</li><!--
+  --><li style="" >[[Ximena Estrada]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Precious Dads** is an improv troupe based at [[ColdTowne Theater]] that has done several Armando mainstage runs.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Chrissy Shackelford	
-|Picture =	Chrissy Shackelford Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2012-2014
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Chrissy Shackelford</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Chrissy Shackelford Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-2014</td>
+		</tr>
+
+	</table>
+</div>
 
 **Chrissy Shackelford** is an improviser, actress, and audience member who works primarily with [[ColdTowne Theater]].
 

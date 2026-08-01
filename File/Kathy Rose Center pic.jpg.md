@@ -3,4 +3,6 @@
 
 Photo by [[Dave Alley]] from [https://www.facebook.com/Doccerz/media_set?set=a.10150938695745793.406023.666390792&type=3]
 ## Licensing
-{{AIC-Wiki-only license}}
+The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
+
+The owner has **not** offered permission to use the file elsewhere.

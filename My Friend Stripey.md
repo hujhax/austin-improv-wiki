@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=		My Friend Stripey
-|Picture	=		My Friend Stripey.jpg
-|Directory = [[Patrick Daniel]]
-|Cast	=	{{ Unbulleted list | [[David Rosenbaum]] | [[Kim Roche]] | [[Matt Craighead]] | [[Nancy Lyon]] | [[Neal Tibrewala]] | [[Susannah Raulino]] }}
-|Years	=		2009-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">My Friend Stripey</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[My Friend Stripey.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[David Rosenbaum]]</li><!--
+  --><li style="">[[Kim Roche]]</li><!--
+  --><li style="">[[Matt Craighead]]</li><!--
+  --><li style="">[[Nancy Lyon]]</li><!--
+  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style="">[[Susannah Raulino]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **My Friend Stripey** was an improv troupe associated with [[The Hideout Theatre]].
 

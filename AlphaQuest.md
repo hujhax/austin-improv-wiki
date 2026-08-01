@@ -1,13 +1,78 @@
-{{Infobox Troupe
-|Name	= AlphaQuest
-|Years	= 2018 - Present
-|Director	=
-|Picture = typewriter.jpg
-|Cast = {{Unbulleted list | [[Laura Galan Wells]] | [[Denise Hudson]] | [[Chris Casey]] | [[David Lampe]] | [[Brad Hawkins]] | [[Jerrad Lindenmuth]] | [[Zachariah Rollins]] | [[Cindy Brio]] | [[Mia Cisco]] }}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">AlphaQuest</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Typewriter.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2018 - Present</td>
+		</tr>
 
-|Tech	=		
-|Crew	=		
-}}
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Laura Galan Wells]]</li><!--
+  --><li style="">[[Denise Hudson]]</li><!--
+  --><li style="">[[Chris Casey]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Jerrad Lindenmuth]]</li><!--
+  --><li style="">[[Zachariah Rollins]]</li><!--
+  --><li style="">[[Cindy Brio]]</li><!--
+  --><li style="" >[[Mia Cisco]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **AlphaQuest** is a troupe that performs narratives while playing the Alphabet Game.
 

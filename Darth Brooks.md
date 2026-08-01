@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Darth Brooks
-|Picture	=	Darth Brooks.jpg
-|Cast	=	{{ Unbulleted list | [[Ashley Blom]] | [[Christian Payne]] | [[Dalton Allen]] | [[James Fernandez]] | [[Josephh Stahlman]] | [[Ronnita Miller]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Darth Brooks</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Darth Brooks.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Blom]]</li><!--
+  --><li style="">[[Christian Payne]]</li><!--
+  --><li style="">[[Dalton Allen]]</li><!--
+  --><li style="">[[James Fernandez]]</li><!--
+  --><li style="">[[Josephh Stahlman]]</li><!--
+  --><li style="">[[Ronnita Miller]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Darth Brooks** is an improv troupe.
 

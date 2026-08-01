@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=	Shades of Brown
-|Picture =     Shades of Brown.jpg
-|Cast	=	{{Unbulleted list | [[Adan Gutierrez]] | [[Claudio Fox]] | [[Erica Sanchez]] | [[Gene Zhou]] | [[Jiovani Galo]] | [[Luis Zertuche]] | [[Mateo Giles]] | [[Monica Ybarra-Torres]] | [[Sandra Ybarra]] }}
-|Director = [[Chuy Zarate]]
-|Years	=		2010-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Shades of Brown</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Shades of Brown.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Chuy Zarate]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adan Gutierrez]]</li><!--
+  --><li style="">[[Claudio Fox]]</li><!--
+  --><li style="">[[Erica Sanchez]]</li><!--
+  --><li style="">[[Gene Zhou]]</li><!--
+  --><li style="">[[Jiovani Galo]]</li><!--
+  --><li style="">[[Luis Zertuche]]</li><!--
+  --><li style="">[[Mateo Giles]]</li><!--
+  --><li style="">[[Monica Ybarra-Torres]]</li><!--
+  --><li style="" >[[Sandra Ybarra]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Shades of Brown** is an improv troupe with an emphasis on expressing a Latino point of view.
 

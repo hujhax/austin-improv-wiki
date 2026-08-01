@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	Maestro
-|Picture =	Default_Maestro_Image.jpg
-|Theater =	[[The Hideout Theatre]]
-|Director =	Various	
-|Cast	=	Various
-|Run	=	1999-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Maestro</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Default Maestro Image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">1999-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 **Maestro** (originally spelled **Micetro**) is a competitive short-form improv format. It has played at the [[Hideout Theatre]] on Saturday nights at 10 pm continuously since 2000. It's the longest-running improv show in Austin.
 
 ## History

@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Mundane
-|Cast	=	{{Unbulleted list | [[Cristy Rivera]] | [[Daniel Howard]] | [[Dave Michaels]] | [[Jessica Tate]] | [[Joseph Robert Dailey]] | [[Xaria J'stone Coleman]] | [[Zachary Braver]] }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Mundane</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cristy Rivera]]</li><!--
+  --><li style="">[[Daniel Howard]]</li><!--
+  --><li style="">[[Dave Michaels]]</li><!--
+  --><li style="">[[Jessica Tate]]</li><!--
+  --><li style="">[[Joseph Robert Dailey]]</li><!--
+  --><li style="">[[Xaria J'stone Coleman]]</li><!--
+  --><li style="">[[Zachary Braver]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Mundane** was a one-off *[[Cagematch]]* team.
 

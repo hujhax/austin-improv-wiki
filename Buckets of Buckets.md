@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Buckets of Buckets
-|Picture	=	Buckets of Buckets.jpg
-|Cast	=	{{ Unbulleted list | [[Briana McKeague]] | [[Jay Byrd]] | [[Jennifer Dorsey]] | [[Michael Nathan]] | [[Rachel Myhill]] | [[Stephanie Ard]] | [[Zachary Palmer]] }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Buckets of Buckets</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Buckets of Buckets.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Briana McKeague]]</li><!--
+  --><li style="">[[Jay Byrd]]</li><!--
+  --><li style="">[[Jennifer Dorsey]]</li><!--
+  --><li style="">[[Michael Nathan]]</li><!--
+  --><li style="">[[Rachel Myhill]]</li><!--
+  --><li style="">[[Stephanie Ard]]</li><!--
+  --><li style="">[[Zachary Palmer]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Buckets of Buckets** was a [[Gnap! Theater Projects]] house improv troupe.
 

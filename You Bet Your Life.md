@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		You Bet Your Life
-|Picture	=	You Bet Your Life.jpg
-|Cast	=	{{ Unbulleted list | [[Robert Slack]] | [[Tim Coyle]] }}
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">You Bet Your Life</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[You Bet Your Life.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Robert Slack]]</li><!--
+  --><li style="">[[Tim Coyle]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **You Bet Your Life** is an improv duo that performs a format based on [http://en.wikipedia.org/wiki/You_Bet_Your_Life the Groucho Marx game show of the same name].
 

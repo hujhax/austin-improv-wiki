@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name               = Four Chambers
-|Picture            = The tribunal.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Marc Majcher]]
-|Run                = May 2015
-|Cast               = Various
-|Tech Director      = [[Lindsey McGowen]]
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Four Chambers</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The tribunal.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Lindsey McGowen]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Four Chambers*** is the the inaugural second stage production of the 2015 Stargazer Series at [[The Hideout Theatre]]. 
 

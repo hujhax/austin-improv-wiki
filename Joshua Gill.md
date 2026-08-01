@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Joshua Gill	
-|Picture =	Joshua Gill Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2009-present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Joshua Gill</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Joshua Gill Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2009-present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Joshua Gill** is an improv performer who works primarily with [[ColdTowne Theater]].
 

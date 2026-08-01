@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Superwhore
-|Picture	=	Superwhore.jpg
-|Cast	=	{{ Unbulleted list | [[Amber Quick]] | [[Brently Heilbron]] | [[Bryan 'Lubu' Roberts]] | [[Meredith Roberts]] | [[Sam Schak]] | [[Will Cleveland]] }}
-|Years	=		2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Superwhore</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Superwhore.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amber Quick]]</li><!--
+  --><li style="">[[Brently Heilbron]]</li><!--
+  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
+  --><li style="">[[Meredith Roberts]]</li><!--
+  --><li style="">[[Sam Schak]]</li><!--
+  --><li style="">[[Will Cleveland]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Superwhore** was an improv troupe.
 

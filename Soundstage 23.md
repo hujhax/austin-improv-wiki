@@ -1,14 +1,148 @@
-{{Infobox Show
-|Name	=	Soundstage 23	
-|Picture = Soundstage23.jpg
-|Director = {{Unbulleted list | [[Aspen Webster]] | [[Caeriel Crestin]] }}
-|Musical Director = [[Tosin Awofeso]]
-|Technical Director = [[Nichole Bennett]]
-|Cast	=	{{Unbulleted list | [[Alan Buttars]] | [[Alonso Salas]] | [[Biz Gilmore]] | [[Casey Quinlan]] | [[Jason Castro]] | [[Joel Barton]] | [[Michelle Dahlenburg]] | [[Shay Millheiser]] }}
-|Crew= {{Unbulleted list | [[Andre Buchanan]] | [[Caroline Dinges]] | [[Tatiana Jitkoff]] }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	October 2017
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Soundstage 23</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Soundstage23.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alan Buttars]]</li><!--
+  --><li style="">[[Alonso Salas]]</li><!--
+  --><li style="">[[Biz Gilmore]]</li><!--
+  --><li style="">[[Casey Quinlan]]</li><!--
+  --><li style="">[[Jason Castro]]</li><!--
+  --><li style="">[[Joel Barton]]</li><!--
+  --><li style="">[[Michelle Dahlenburg]]</li><!--
+  --><li style="">[[Shay Millheiser]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">October 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Soundstage 23*** was a Hideout student mainstage show.  It was a musical set behind the scenes at a film studio during the Golden Age of Hollywood.  It was inspired by *La La Land*, *Hail, Caesar!*, *Noises Off*, and *Singin' in the Rain*.
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Ruby Willmann
-|Picture =	Ruby Willmann.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Ruby Willmann</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Ruby Willmann.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 **Ruby Willmann** is an Austin improviser.
 
 ## History

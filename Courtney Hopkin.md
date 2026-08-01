@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Courtney Hopkin	
-|Picture =	Courtney Hopkin Pic.jpg
-|Theater=	Various
-|Years	=	2008-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Courtney Hopkin</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Courtney Hopkin Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Courtney Hopkin** (AKA **Courtney Salinas**) is an improv performer.  She handles public relations for [[The Hideout Theatre]].
 

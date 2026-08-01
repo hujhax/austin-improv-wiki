@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Spirit Desire
-|Picture	=	Spirit Desire.jpg
-|Cast	=	{{ Unbulleted list | [[Brady James]] | [[James Patrick Robinson]] | [[Micheal Foulk]] | [[Milo Harness-Smith]] | [[Rob Gagnon]] }}
-|Years	=		2010-2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Spirit Desire</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Spirit Desire.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brady James]]</li><!--
+  --><li style="">[[James Patrick Robinson]]</li><!--
+  --><li style="">[[Micheal Foulk]]</li><!--
+  --><li style="">[[Milo Harness-Smith]]</li><!--
+  --><li style="">[[Rob Gagnon]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Spirit Desire** was an improv troupe associated with [[The New Movement Theater]].
 

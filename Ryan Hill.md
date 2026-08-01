@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Ryan Hill	
-|Picture =	ryanonstage.jpg
-|Theater=	[[The Hideout Theatre]], [[The Institution Theater]]
-|Years	=	2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Ryan Hill</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Ryanonstage.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]], [[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Ryan Hill** is an improv performer and founding member of the grounded troupe [[In Our Prime]].
 

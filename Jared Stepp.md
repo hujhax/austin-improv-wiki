@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jared Stepp	
-|Picture =	Jared Stepp Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2008-2012
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jared Stepp</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jared Stepp Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-2012</td>
+		</tr>
+
+	</table>
+</div>
 
 **Jared Stepp** was an improv performer.
 

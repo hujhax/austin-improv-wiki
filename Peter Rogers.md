@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Peter Rogers	
-|Picture =	Peter Rogers Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2000-2004, 2007-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Peter Rogers</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Peter Rogers Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2000-2004, 2007-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Peter Rogers** is an improv performer and director who works primarily with [[The Hideout Theatre]].
 

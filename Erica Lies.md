@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Erica Lies
-|Picture =	Erica Lies Pic.jpg
-|Theater=	[[The Institution Theater]]
-|Years	=	2007-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Erica Lies</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Erica Lies Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+
+	</table>
+</div>
 [[Category/Performers|Lies]]
 **Erica Lies** is an improv and sketch performer.
 

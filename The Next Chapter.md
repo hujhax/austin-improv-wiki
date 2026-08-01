@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name	=	The Next Chapter
-|Picture=	NextChapter-poster.jpg
-|Theater=	[[The Institution Theater]]
-|Director =	[[Justin Bozied]]
-|Assistant Director = [[Jessie Pascarelli]]
-|Tech = [[Jeanette Jones]]
-|Cast	=	{{Unbulleted list | [[Justin Bozied]] | [[Jessie Pascarelli]] | [[Brad Hawkins]] | [[Ryan Hill]] | [[Ben Masten]] | [[Paul Normandin]] | [[Jessie Pitluk]] | [[Heidi Rogers]] | [[Megan Venable]] | [[Luke Wallens]]}}
-|Run	=	May/Jun 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Next Chapter</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[NextChapter-poster.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Justin Bozied]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Jessie Pascarelli]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Justin Bozied]]</li><!--
+  --><li style="">[[Jessie Pascarelli]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Ben Masten]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Jessie Pitluk]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="" >[[Megan Venable]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">[[Jeanette Jones]]</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May/Jun 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Next Chapter*** was a mainstage show at [[The Institution Theater]] that performed improvised continuations of the works of a published author.
 

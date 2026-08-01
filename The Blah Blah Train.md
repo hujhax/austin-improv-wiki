@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Blah Blah Train
-|Picture	=	The Blah Blah Train.jpg
-|Cast	=	{{Unbulleted list | [[Briton Kolber]] | [[Jaime Gonzales]] | [[John Porter]] | [[Laura Walberg]] | [[Mariella Krause]] | [[Owen Egerton]] | [[Tim Bauer]] | [[Tyler Bryce]] }}
-|Years	=		1997
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Blah Blah Train</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Blah Blah Train.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">1997</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Briton Kolber]]</li><!--
+  --><li style="">[[Jaime Gonzales]]</li><!--
+  --><li style="">[[John Porter]]</li><!--
+  --><li style="">[[Laura Walberg]]</li><!--
+  --><li style="">[[Mariella Krause]]</li><!--
+  --><li style="">[[Owen Egerton]]</li><!--
+  --><li style="">[[Tim Bauer]]</li><!--
+  --><li style="">[[Tyler Bryce]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **The Blah Blah Train** was an improv troupe.
 

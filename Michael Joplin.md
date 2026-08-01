@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Michael Joplin	
-|Picture =	Michael Joplin Pic.jpg
-|Theater=	[[Merlin Works]]
-|Years	=	2000-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Michael Joplin</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Michael Joplin Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[Merlin Works]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2000-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Michael Joplin** is an improv performer, teacher, and director.
 

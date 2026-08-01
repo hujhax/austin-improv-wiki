@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		We're Here to Date Your Daughter
-|Picture	=	WHTDYD.jpg
-|Cast	=	{{Unbulleted list | [[Gene Zhou]] | [[Jennifer Dorsey]] | [[Katherine Greco]] | [[Paul Normandin]] | [[Regina Soto]] | [[Sandra Ybarra]] | [[Todd Geldon]] }}
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">We're Here to Date Your Daughter</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[WHTDYD.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Gene Zhou]]</li><!--
+  --><li style="">[[Jennifer Dorsey]]</li><!--
+  --><li style="">[[Katherine Greco]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Regina Soto]]</li><!--
+  --><li style="">[[Sandra Ybarra]]</li><!--
+  --><li style="">[[Todd Geldon]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **We're Here to Date Your Daughter** (often referred to by its acronym, **WHTDYD**) is an ensemble improv troupe focusing on relationships.
 

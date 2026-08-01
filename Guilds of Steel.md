@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name	=	Guilds of Steel	
-|Picture =    Guilds of Steel Pic.jpg
-|Theater=	[[Salvage Vanguard Theater]]
-|Producer= [[Gnap! Theater Projects]]
-|Director =	{{Unbulleted list | [[Bryan Roberts]] | [[Michael Joplin]] | }}
-|Cast	=	{{Unbulleted list | [[Ace Manning]] | [[Audrey Rachel Sansom]] | [[Bryan Cruz]] | [[Bryan Roberts]] | [[Chelsea Gilman]] | [[Clay Towrey]] | [[Emily Breedlove]] | [[Jason Vines]] | [[Jon Clinkenbeard]] | [[Kyle Traughber]] | [[Leah Moss]] | [[Liz Bigger]] | [[Madi Goff]] | [[Marc Majcher]] | [[Michael Joplin]] | [[Mike Kinald]] | [[Quinn Buckner]] | [[Sarah Marie Curry]] | [[Topping Haggerty]] | [[Zach Palmer]] }}
-|Run	=	May/June 2009
-|Subsequent Runs = Jul 2010
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Guilds of Steel</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Guilds of Steel Pic.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan Roberts]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Bryan Cruz]]</li><!--
+  --><li style="">[[Bryan Roberts]]</li><!--
+  --><li style="">[[Chelsea Gilman]]</li><!--
+  --><li style="">[[Clay Towrey]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><li style="" >[[Jon Clinkenbeard]]</li><!--
+  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style="">[[Leah Moss]]</li><!--
+  --><li style="">[[Liz Bigger]]</li><!--
+  --><li style="">[[Madi Goff]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Mike Kinald]]</li><!--
+  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style="">[[Zach Palmer]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Initial Run</th>
+
+			<td class="category">May/June 2009</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Subsequent Run(s)</th>
+			<td class="category">Jul 2010</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 **Guilds of Steel** was a narrative longform show based on [[Wikipedia - Massively multiplayer online role-playing game|MMORPG]]s such as *[[Wikipedia - World of Warcraft|World of Warcraft]]*.
 

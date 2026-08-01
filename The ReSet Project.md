@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name = The ReSet Project	
-|Picture =	The ReSet Project.png
-|Theater = [[Salvage Vanguard Theater]]
-|Producer = [[Lucky Chaos Theatre Projects]]
-|Director =	[[Asaf Ronen]]
-|Cast =	{{Unbulleted list | [[Bobby Ford]] | [[Circe Sturm]] | [[Jessica Salinas]] | [[Kathy Rose Center]] | [[Leng Wong]] | [[Luis Salinas]] | [[Mike Kinald]] | [[Paul Normandin]] }}
-|Run	=	Aug/Sep 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The ReSet Project</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The ReSet Project.png]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[Salvage Vanguard Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Asaf Ronen]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Lucky Chaos Theatre Projects]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bobby Ford]]</li><!--
+  --><li style="">[[Circe Sturm]]</li><!--
+  --><li style="">[[Jessica Salinas]]</li><!--
+  --><li style="">[[Kathy Rose Center]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style="">[[Mike Kinald]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Aug/Sep 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The ReSet Project*** was an improv show based on exploring alternate paths that lives of older performers could have taken.
 

@@ -1,28 +1,148 @@
-{{Infobox Show
-|Name	=	How I Saved the World Over Summer Vacation	
-|Picture = KidsOnBikes.jpg
-|Director = {{Unbulleted list | [[Jordan T. Maxwell]] | 
-[[J.R. Zambrano]] }}
-|Cast	=	{{Unbulleted list | 
-[[Rachel Austin]] |
-[[Marcone Cangussu]] |
-[[Caeriel Crestin]] |
-[[Neil Dorsey]] |
-[[Cat Drago]] |
-[[Angie Epley]] |
-[[Haley Alea Erickson]] |
-[[Tyler Groce]] |
-[[Courtney Hopkin]] |
-[[Marc Majcher]] |
-[[Peter Rogers]] |
-[[Luis Salinas]] |
-[[Jessica Soos]] |
-[[Alex Walker]] |
-[[Aspen Webster]] | [[J.R. Zambrano]]
- }}
-|Theater = [[The Hideout Theatre]]
-|Run	=	May-Jun 2017
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">How I Saved the World Over Summer Vacation</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[KidsOnBikes.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Rachel Austin]]</li><!--
+  --><li style="">[[Marcone Cangussu]]</li><!--
+  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style="">[[Neil Dorsey]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Angie Epley]]</li><!--
+  --><li style="">[[Haley Alea Erickson]]</li><!--
+  --><li style="">[[Tyler Groce]]</li><!--
+  --><li style="" >[[Courtney Hopkin]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style="">[[Jessica Soos]]</li><!--
+  --><li style="">[[Alex Walker]]</li><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">May-Jun 2017</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***How I Saved the World Over Summer Vacation*** (often referred to by the nickname ***Kids on Bikes***) was a Hideout mainstage show that drew inspiration from kid-oriented ensemble action/sci-fi/horror movies set in the 1980s. 
 

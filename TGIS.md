@@ -1,11 +1,148 @@
-{{Infobox Show
-|Name = TGIS	
-|Picture =	TGIS.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	{{Unbulleted list | [[Cody Dearing]] ("Buddies") | [[Courtney Sevener]] ("Boy Greets World") }}
-|Cast =	{{Unbulleted list | [[Andrew Basile]] | [[Bryan 'Lubu' Roberts]] | [[Carlos LaRotta]] | [[Cody Dearing]] | [[Emma Holder]] | [[Gary Richardson]] | [[Jeff Whitaker]] | [[Jenna Marie Carey]] | [[Lance Gilstrap]] | [[Matt Needles]] | [[Meredith Mae Roberts]] | [[Naomi Perryman]] | [[Nathan Sowell]] }}
-|Run	=	Mar/Apr 2013
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">TGIS</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[TGIS.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cody Dearing]] ("Buddies")</li><!--
+  --><li style="">[[Courtney Sevener]] ("Boy Greets World")</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andrew Basile]]</li><!--
+  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
+  --><li style="">[[Carlos LaRotta]]</li><!--
+  --><li style="">[[Cody Dearing]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Gary Richardson]]</li><!--
+  --><li style="">[[Jeff Whitaker]]</li><!--
+  --><li style="">[[Jenna Marie Carey]]</li><!--
+  --><li style="" >[[Lance Gilstrap]]</li><!--
+  --><li style="">[[Matt Needles]]</li><!--
+  --><li style="">[[Meredith Mae Roberts]]</li><!--
+  --><li style="">[[Naomi Perryman]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar/Apr 2013</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***TGIS*** was a mainstage show at [[ColdTowne Theater]].  It was an improv double-bill inspired by 1990s TV sitcoms.
 

@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name = Sketchville	
-|Picture =	Sketchville.jpg
-|Theater = (Webseries)
-|Director = Amy Leland
-|Cast =	{{Unbulleted list | Andy Fleming | [[Bob Apthorpe]] | Brit Reese | Chibbi Orduna | Erick Anderson | Jake Pool | Jason Yackov | [[Jeff Britt]] | Jeremy Dozier | [[JM Specht]] | John Daws | [[Kacey Samiee]] | Karin L. Kross | Kirk Landson | Lani Steffens | Miguel Jimenez | Mike Dunlop | [[Peter Rogers]] | Philip Emanuel }}
-|Tech =	 {{Unbulleted list | Adrian Rodriguez | Amy Leland | Andrew Lee | Brandy Retzolk | Chris Chang | Ellie Fenton | Greg Armstrong | Jonathan Van Matre | Karin L. Kross | Kyle Osburn | Martin Pederson | Micah Sampson | Nancy Smith | Nick Fang | [[Peter Rogers]] }}
-|Run	=	{{Unbulleted list | 2007-2008 (shot) | 2014 (completed) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Sketchville</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Sketchville.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">(Webseries)</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Amy Leland</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Andy Fleming</li><!--
+  --><li style="">[[Bob Apthorpe]]</li><!--
+  --><li style="">Brit Reese</li><!--
+  --><li style="">Chibbi Orduna</li><!--
+  --><li style="">Erick Anderson</li><!--
+  --><li style="">Jake Pool</li><!--
+  --><li style="">Jason Yackov</li><!--
+  --><li style="">[[Jeff Britt]]</li><!--
+  --><li style="" >Jeremy Dozier</li><!--
+  --><li style="">[[JM Specht]]</li><!--
+  --><li style="">John Daws</li><!--
+  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style="">Karin L. Kross</li><!--
+  --><li style="">Kirk Landson</li><!--
+  --><li style="">Lani Steffens</li><!--
+  --><li style="">Miguel Jimenez</li><!--
+  --><li style="">Mike Dunlop</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">Philip Emanuel</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">Adrian Rodriguez</li><!--
+  --><li style="">Amy Leland</li><!--
+  --><li style="">Andrew Lee</li><!--
+  --><li style="">Brandy Retzolk</li><!--
+  --><li style="">Chris Chang</li><!--
+  --><li style="">Ellie Fenton</li><!--
+  --><li style="">Greg Armstrong</li><!--
+  --><li style="">Jonathan Van Matre</li><!--
+  --><li style="" >Karin L. Kross</li><!--
+  --><li style="">Kyle Osburn</li><!--
+  --><li style="">Martin Pederson</li><!--
+  --><li style="">Micah Sampson</li><!--
+  --><li style="">Nancy Smith</li><!--
+  --><li style="">Nick Fang</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">2007-2008 (shot)</li><!--
+  --><li style="">2014 (completed)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Sketchville*** was a webseries.
 

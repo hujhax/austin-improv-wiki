@@ -1,10 +1,78 @@
-{{Infobox Troupe
-|Name	=	Nice Astronaut
-|Picture=	Niceastro-2013-04-10.jpg
-|Cast	=	{{Unbulleted list|[[Abby Lincoln]]|[[AJ McKeon]]|[[Chaz Formichella]]|[[Drew Wesely]]|[[Joseph Dailey]]|[[Katie Byrnes]]|[[Nathan Sowell]]|[[Sanjay Rao]]}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Nice Astronaut</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Niceastro-2013-04-10.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2008-Present</td>
+		</tr>
 
-|Years	=		2008-Present
-}}
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Abby Lincoln]]</li><!--
+  --><li style="">[[AJ McKeon]]</li><!--
+  --><li style="">[[Chaz Formichella]]</li><!--
+  --><li style="">[[Drew Wesely]]</li><!--
+  --><li style="">[[Joseph Dailey]]</li><!--
+  --><li style="">[[Katie Byrnes]]</li><!--
+  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style="">[[Sanjay Rao]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Nice Astronaut** is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:30pm at [[ColdTowne Theater]]. The format of their monthly show is "Nice Astronaut Presents Improv Roulette", in which they and an opening team (usually from ColdTowne Conservatory's Level 5-6 classes) spin a wheel of improv formats and perform whichever one the wheel decides. 
 

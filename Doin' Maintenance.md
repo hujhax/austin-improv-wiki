@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Doin Maintenance
-|Picture	=	Doin Maintenance.jpg
-|Cast	=	{{ Unbulleted list | [[Amy Wright]] | [[Chris Albano]] | [[David Ronn]] | [[Jillian Summar]] | [[Stuart Feild]] }}
-|Years	=		2013-2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Doin Maintenance</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Doin Maintenance.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Wright]]</li><!--
+  --><li style="">[[Chris Albano]]</li><!--
+  --><li style="">[[David Ronn]]</li><!--
+  --><li style="">[[Jillian Summar]]</li><!--
+  --><li style="">[[Stuart Feild]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Doin Maintenance** was an improv troupe.
 

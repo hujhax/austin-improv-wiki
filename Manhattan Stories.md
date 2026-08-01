@@ -1,16 +1,153 @@
-{{Infobox Show
-|Name	=	Manhattan Stories
-|Picture =	Manhattan-stories.jpg
-|Director =	[[Jon Bolden]] & [[Valerie Ward]]	
-|Cast	=	{{Unbulleted list|[[Nicole Beckley]]|[[Kaci Beeler]]|[[Andrew Buck]]|[[Alex Dobrenko]]|[[Emma Holder]]|[[Lisa Jackson]]|[[Marc Majcher]]|[[Troy Miller]]|[[Caitlin Sweetlamb]]|[[Valerie Ward]]
-}}
-|Theater = [[The Hideout Theatre]]
-|Run	=	Jul-Sep 2012 
-|Tech	=	{{Unbulleted list
-| [[Cortney DeAngelo]]
-| [[Michael Yew]]
-| [[Neal Tibrewala]]}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Manhattan Stories</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Manhattan-stories.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jon Bolden]] & [[Valerie Ward]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Alex Dobrenko]]</li><!--
+  --><li style="">[[Emma Holder]]</li><!--
+  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Troy Miller]]</li><!--
+  --><li style="" >[[Caitlin Sweetlamb]]</li><!--
+  --><li style="">[[Valerie Ward]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><li style="">[[Michael Yew]]</li><!--
+  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jul-Sep 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Manhattan Stories*** was an improvised longform show in style of the films of [[Wikipedia - Woody Allen|Woody Allen]].
 

@@ -1,10 +1,83 @@
-{{Infobox Troupe
-|Name	=		Golden
-|Picture	=	Golden (troupe).jpg
-|Cast	=	{{Unbulleted list | [[Brandon Martin]] | [[Jayme Ramsay]] (2015-Present) | [[Jessica von Schramm]] | [[Luke Wallens]] | [[Marc Majcher]] (2015-Present) | [[Robert Slack]] | [[Suzanne Link]] | [[Tyler Lane]] }}
-|Director =	[[Marc Majcher]]
-|Years	=		2015-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Golden</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Golden (troupe).jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Marc Majcher]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brandon Martin]]</li><!--
+  --><li style="">[[Jayme Ramsay]] (2015-Present)</li><!--
+  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style="">[[Marc Majcher]] (2015-Present)</li><!--
+  --><li style="">[[Robert Slack]]</li><!--
+  --><li style="">[[Suzanne Link]]</li><!--
+  --><li style="">[[Tyler Lane]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Golden** is an improv troupe that performs silent narratives.  On stage, the cast improvises silent stories and scenes while developing relationships with each other, using only their facial expressions, emotional noises, body language, and spacework. It originated with [[Golden (mainstage)|the mainstage of the same name]].
 

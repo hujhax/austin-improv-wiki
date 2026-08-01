@@ -1,13 +1,107 @@
-{{Infobox Show
-|Name = After School Special Victims Unit	
-|Picture =	After School Special Victims Unit.jpg
-|Theater = [[ColdTowne Theater]]
-|Director =	[[Michael Jastroch]]
-|Assistant Director =	[[Lizzie Leslie]]
-|Music = [[Jason Laney]]
-|Cast =	{{Unbulleted list | [[Adam Trabka]] | [[Brett Tribe]] | [[Bryan 'Lubu' Roberts]] | [[Chris Baldenhofer]] | [[Cortnie Jones]] | [[Meredith Mae Roberts]] }}
-|Run	=	Sep 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">After School Special Victims Unit</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[After School Special Victims Unit.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Michael Jastroch]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Lizzie Leslie]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Music By</th>
+			<td class="category">[[Jason Laney]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Trabka]]</li><!--
+  --><li style="">[[Brett Tribe]]</li><!--
+  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
+  --><li style="">[[Chris Baldenhofer]]</li><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Meredith Mae Roberts]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***After School Special Victims Unit*** was a sketch revue at [[ColdTowne Theater]].
 

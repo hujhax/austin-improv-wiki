@@ -1,12 +1,51 @@
-{{Infobox Show
-|Name = Booker and a Buddy	
-|Picture =	Booker and a Buddy.jpg
-|Theater = [[The Institution Theater]]
-|Director =	[[Tom Booker]]
-|Cast =	[[Tom Booker]] and one guest
-|Tech =	Varies
-|Run	=	2015-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Booker and a Buddy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Booker and a Buddy.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Tom Booker]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">[[Tom Booker]] and one guest</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category">Varies</td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2015-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Booker and a Buddy*** is a recurring show at [[The Institution Theater]] featuring [[Tom Booker]] and one of his friends.
 

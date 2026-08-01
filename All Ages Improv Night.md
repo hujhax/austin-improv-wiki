@@ -1,9 +1,27 @@
-{{Infobox Troupe
-|Name	=	All Ages Improv Night
-|Picture =      Teen Improv Night.jpg
-|Cast	=	Various
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">All Ages Improv Night</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Teen Improv Night.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 ***All Ages Improv Night*** (formerly ***Teen Improv Night***) is a monthly show/mixer at [[ColdTowne Theater]].
 

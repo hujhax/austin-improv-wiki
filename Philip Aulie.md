@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Phil Aulie	
-|Picture =	Philspin.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2003-2007
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Phil Aulie</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Philspin.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2003-2007</td>
+		</tr>
+
+	</table>
+</div>
 
 **Philip "Phil" Aulie** (1986-2012) was an improv performer, musician, and slam poet.
 

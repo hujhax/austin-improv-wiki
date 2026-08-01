@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Wink Planet
-|Picture	=	Wink Planet.jpg
-|Cast	=	{{Unbulleted list | [[Ashley Siebels]] | [[Jared Robertson]] | [[Matt Vaught]] | [[Sanjay Rao]] | [[Taylor Stewart]] | [[Steve Moore]]}}
-|Years	=		2013-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Wink Planet</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Wink Planet.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ashley Siebels]]</li><!--
+  --><li style="">[[Jared Robertson]]</li><!--
+  --><li style="">[[Matt Vaught]]</li><!--
+  --><li style="">[[Sanjay Rao]]</li><!--
+  --><li style="">[[Taylor Stewart]]</li><!--
+  --><li style="">[[Steve Moore]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Wink Planet** is a sketch troupe based out of [[ColdTowne Theater]].
 

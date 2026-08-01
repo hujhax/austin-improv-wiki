@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Hoover's Blanket
-|Picture	=	Hoover's Blanket.jpg
-|Cast	=	{{Unbulleted list | [[Aden Kirschner]] | [[Alex Nixon]] | [[Andy Pereira]] | [[Bryan 'Lubu' Roberts]] | [[Ceej Allen]] | [[Erin Molson]] | [[Jason Vines]] }}
-|Years	=		2006-2007
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Hoover's Blanket</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Hoover's Blanket.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2006-2007</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aden Kirschner]]</li><!--
+  --><li style="">[[Alex Nixon]]</li><!--
+  --><li style="">[[Andy Pereira]]</li><!--
+  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
+  --><li style="">[[Ceej Allen]]</li><!--
+  --><li style="">[[Erin Molson]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Hoover's Blanket** was a sketch troupe.
 

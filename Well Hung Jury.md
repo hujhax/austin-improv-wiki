@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	Well Hung Jury
-|Picture =     Well Hung Jury.jpg
-|Cast	=	{{Unbulleted list | [[Aaron Saenz]] | [[Ace Manning]] | [[Amy McCurdy]] | [[Andrei Haq]] | [[Audrey Rachel Sansom]] | [[Ben Sterling]] | [[Bill Stern]] | [[James Aldredge]] | [[Jeffrey Amos]] | [[Jeremy Lamb]] | [[Jonathan Benner]] | [[Jordan T. Maxwell]] }}
-|Years	=		1998-2003
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Well Hung Jury</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Well Hung Jury.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">1998-2003</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Saenz]]</li><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Amy McCurdy]]</li><!--
+  --><li style="">[[Andrei Haq]]</li><!--
+  --><li style="">[[Audrey Rachel Sansom]]</li><!--
+  --><li style="">[[Ben Sterling]]</li><!--
+  --><li style="">[[Bill Stern]]</li><!--
+  --><li style="">[[James Aldredge]]</li><!--
+  --><li style="" >[[Jeffrey Amos]]</li><!--
+  --><li style="">[[Jeremy Lamb]]</li><!--
+  --><li style="">[[Jonathan Benner]]</li><!--
+  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Well Hung Jury** was an improv troupe.
 

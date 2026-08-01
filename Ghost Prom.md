@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Ghost Prom
-|Picture	=	Ghost Prom.png
-|Cast	=	{{ Unbulleted list | [[Amy Pacheco]] | [[Chad Smith]] | [[Dan Rumney]] | [[Dave Ward]] | [[James Patrick Robinson]] | [[Jennifer Monsees]] | [[Milo Smith]] }}
-|Years	=		2010-2011
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Ghost Prom</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Ghost Prom.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010-2011</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy Pacheco]]</li><!--
+  --><li style="">[[Chad Smith]]</li><!--
+  --><li style="">[[Dan Rumney]]</li><!--
+  --><li style="">[[Dave Ward]]</li><!--
+  --><li style="">[[James Patrick Robinson]]</li><!--
+  --><li style="">[[Jennifer Monsees]]</li><!--
+  --><li style="">[[Milo Smith]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Ghost Prom** was the first house troupe at [[The New Movement]].
 

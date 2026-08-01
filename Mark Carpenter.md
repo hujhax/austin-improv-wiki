@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Mark Carpenter	
-|Picture =	Mark Carpenter Pic.jpg
-|Theater=	[[The New Movement]]
-|Years	=	2005-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Mark Carpenter</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Mark Carpenter Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The New Movement]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Mark Carpenter** is an improv performer and instructor who works primarily with [[The New Movement Theater]].
 

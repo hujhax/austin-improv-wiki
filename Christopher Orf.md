@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Christopher Orf	
-|Picture =	Christopher Orf Pic.jpg
-|Theater=	Various
-|Years	=	2006-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Christopher Orf</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Christopher Orf Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2006-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Christopher Orf** (more commonly known simply as **Orf**) is an improv and sketch comedy performer currently based in Austin, Texas.
 

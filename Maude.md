@@ -1,9 +1,83 @@
-{{Infobox Troupe
-|Name	=		Maude
-|Cast	=	{{Unbulleted list | [[Cortnie Jones]] | [[Delanie Liming]] | [[Jenny Carlson]] | [[Katie Sicking]] | [[Liz Brammer]] | [[Stephanie Russo]] | [[Teresa Kubos]] }}
-|Director = [[Liz Brammer]]
-|Years	=		2009
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Maude</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">[[Liz Brammer]]</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cortnie Jones]]</li><!--
+  --><li style="">[[Delanie Liming]]</li><!--
+  --><li style="">[[Jenny Carlson]]</li><!--
+  --><li style="">[[Katie Sicking]]</li><!--
+  --><li style="">[[Liz Brammer]]</li><!--
+  --><li style="">[[Stephanie Russo]]</li><!--
+  --><li style="">[[Teresa Kubos]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Maude** was a one-off *[[Cagematch]]* team.
 

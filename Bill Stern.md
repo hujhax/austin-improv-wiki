@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Bill Stern
-|Picture =	Bill Stern Pic.jpg
-|Theater=	Various
-|Years	=	2000-2004
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Bill Stern</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Bill Stern Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2000-2004</td>
+		</tr>
+
+	</table>
+</div>
 
 **Bill Stern** is an improv performer.
 

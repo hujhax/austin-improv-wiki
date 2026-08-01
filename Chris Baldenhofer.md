@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Chris Baldenhofer	
-|Picture =	Chris Baldenhofer Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2008-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Chris Baldenhofer</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Chris Baldenhofer Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2008-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Chris Baldenhofer** is an improv performer.
 

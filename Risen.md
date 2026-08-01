@@ -1,12 +1,153 @@
-{{Infobox Show
-|Name = Risen				
-|Picture	=	Risen.jpg
-|Theater = [[The Institution Theater]]
-|Director =	[[Sarah Marie Curry]]
-|Cast =	{{Unbulleted list | [[Adam Mengesha]] | [[Cat Drago]] | [[Clifton Highfield]] | [[Heidi Penix]] | [[Kareem Badr]] | [[Katie Dahm]] | [[Kierstin Hettler]] | [[Leng Wong]] | [[Ryan Hill]] | [[Trey Stoker]] }}
-|Tech = {{Unbulleted list | [[Bryan Curry]] | [[Mark Shoemaker]] | [[Jason Vines]]}}
-|Run	=	Sep/Oct 2014
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Risen</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Risen.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Sarah Marie Curry]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Mengesha]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Clifton Highfield]]</li><!--
+  --><li style="">[[Heidi Penix]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="">[[Katie Dahm]]</li><!--
+  --><li style="">[[Kierstin Hettler]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="" >[[Ryan Hill]]</li><!--
+  --><li style="">[[Trey Stoker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Bryan Curry]]</li><!--
+  --><li style="">[[Mark Shoemaker]]</li><!--
+  --><li style="">[[Jason Vines]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Sep/Oct 2014</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Risen*** was a long-form narrative improv show inspired by *[[Wikipedia - World War Z|World War Z]]* by Max Brooks.
 

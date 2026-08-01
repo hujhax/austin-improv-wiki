@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Lucy
-|Picture	=	Lucy.jpg
-|Cast	=	{{ Unbulleted list | [[Adam Artho]] | [[Atticus Rowe]] | [[Henry Linser]] | [[Jen Sembera]] | [[Sheila Ray]] | [[Stephanie Huerta]] }}
-|Years	=		2011-2014
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Lucy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Lucy.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2011-2014</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Artho]]</li><!--
+  --><li style="">[[Atticus Rowe]]</li><!--
+  --><li style="">[[Henry Linser]]</li><!--
+  --><li style="">[[Jen Sembera]]</li><!--
+  --><li style="">[[Sheila Ray]]</li><!--
+  --><li style="">[[Stephanie Huerta]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Lucy** (often written in all-caps: **LUCY**) was a [[New Movement]] improv troupe.
 

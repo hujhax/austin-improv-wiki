@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		City High
-|Picture	=	City High.jpg
-|Cast	=	{{ Unbulleted list | [[Aaron Walther]] | [[Dan Mateer]] | [[Kevin Jacobson]] | [[Michael Prohaska]] | [[Samantha Pitchel]] | [[Sarah Greene]] }}
-|Years	=		2010
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">City High</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[City High.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Aaron Walther]]</li><!--
+  --><li style="">[[Dan Mateer]]</li><!--
+  --><li style="">[[Kevin Jacobson]]</li><!--
+  --><li style="">[[Michael Prohaska]]</li><!--
+  --><li style="">[[Samantha Pitchel]]</li><!--
+  --><li style="">[[Sarah Greene]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **City High** was the first house Harold troupe at [[The New Movement]].
 

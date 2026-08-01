@@ -1,11 +1,78 @@
-{{Infobox Troupe
-|Name	=		The Seven Eight Sevens
-|Picture	=	Seven Eight Sevens.jpg
-|Cast	=	{{Unbulleted list|[[Cat Drago]]|[[Mitchell Deane]]|[[Ryan Hill]]|[[Sarah Swofford]]|[[Scott Hearne]]}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">The Seven Eight Sevens</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Seven Eight Sevens.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Mitchell Deane]]</li><!--
+  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style="">[[Sarah Swofford]]</li><!--
+  --><li style="">[[Scott Hearne]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
 
 
-|Years	=		2012-2013
-}}
+
+	</table>
+</div>
 
 **The Seven Eight Sevens** were an improv troupe.
 

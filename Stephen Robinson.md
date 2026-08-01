@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Stephen Robinson	
-|Picture =	Stephen Robinson Pic.jpg
-|Theater=	Various
-|Years	=	2001-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Stephen Robinson</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Stephen Robinson Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2001-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Stephen Robinson** is an improv performer.
 

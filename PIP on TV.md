@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	PIP on TV	
-|Picture=	PIP on TV.jpg
-|Theater=	[[The Hideout Theatre]]
-|Producer=	[[Puppet Improv Project]]
-|Director =	[[Sara Farr]]
-|Cast	=	{{Unbulleted list | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Emily Breedlove]] | [[Gene Joe]] | [[Jayme Ramsay]] | [[Jessica Salinas]] | [[Josh Gill]] | [[Kimberly Cox]] | [[Lisa Jackson]] | [[Menelaos Prokos]] | [[Sara Farr]] | [[Topping Haggerty]] }}
-|Run	=	Mar 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">PIP on TV</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[PIP on TV.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Sara Farr]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Puppet Improv Project]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Emily Breedlove]]</li><!--
+  --><li style="">[[Gene Joe]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[Jessica Salinas]]</li><!--
+  --><li style="">[[Josh Gill]]</li><!--
+  --><li style="">[[Kimberly Cox]]</li><!--
+  --><li style="" >[[Lisa Jackson]]</li><!--
+  --><li style="">[[Menelaos Prokos]]</li><!--
+  --><li style="">[[Sara Farr]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Mar 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***PIP on TV*** was an improvised puppet show.
 
 ## Summary

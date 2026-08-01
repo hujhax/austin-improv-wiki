@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Leng Wong	
-|Picture =	Leng Wong Pic.jpg
-|Theater=	Various, Lucky Chaos
-|Years	=	2011-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Leng Wong</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Leng Wong Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various, Lucky Chaos</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2011-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Leng Wong** is an improv performer and producer.
 

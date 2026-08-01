@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name	=	Control Issues
-|Picture = 	Control Issues.jpg
-|Theater=	[[The Hideout Theatre]]
-|Cast=		{{Unbulleted list | [[Andreas Fabis]] (2014-Present) | [[Angie Yaeyama]] (2015-Present) | [[Caroline Gorman]] (2015-Present) | [[Dana Yanoshak]] (2014-Present) | [[Heath Allyn]] (2015-Present) | [[Jessica von Schramm]] (2015-Present) | [[Katie Doran]] (2015-Present) | [[Paul Normandin]] (2014-Present) | [[Peter Rogers]] (2014-Present) | [[Sushant Sethi]] (2015-Present) }}
-|Past Members = {{Unbulleted list | [[Cat Drago]] (2014-2015) | [[Chris Albano]] (2014-2015) | [[Katie Dahm]] (2014-2015) | [[Lindsay Hejl]] (2014-2015) | [[Phil Morin]] (2015-2016) | [[Rachel Austin]] (2015-2016) }}
-|Director =	{{Unbulleted list | [[Roy Janik]] (2010-2014) | [[Andrew Buck]] (2014) | [[Andreas Fabis]] (2014-2015) | [[Peter Rogers]] (2015-Present) }}
-|Run	=	Oct 2010-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Control Issues</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Control Issues.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Roy Janik]] (2010-2014)</li><!--
+  --><li style="">[[Andrew Buck]] (2014)</li><!--
+  --><li style="">[[Andreas Fabis]] (2014-2015)</li><!--
+  --><li style="">[[Peter Rogers]] (2015-Present)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]] (2014-Present)</li><!--
+  --><li style="">[[Angie Yaeyama]] (2015-Present)</li><!--
+  --><li style="">[[Caroline Gorman]] (2015-Present)</li><!--
+  --><li style="">[[Dana Yanoshak]] (2014-Present)</li><!--
+  --><li style="">[[Heath Allyn]] (2015-Present)</li><!--
+  --><li style="">[[Jessica von Schramm]] (2015-Present)</li><!--
+  --><li style="">[[Katie Doran]] (2015-Present)</li><!--
+  --><li style="">[[Paul Normandin]] (2014-Present)</li><!--
+  --><li style="" >[[Peter Rogers]] (2014-Present)</li><!--
+  --><li style="">[[Sushant Sethi]] (2015-Present)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Past Members</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Cat Drago]] (2014-2015)</li><!--
+  --><li style="">[[Chris Albano]] (2014-2015)</li><!--
+  --><li style="">[[Katie Dahm]] (2014-2015)</li><!--
+  --><li style="">[[Lindsay Hejl]] (2014-2015)</li><!--
+  --><li style="">[[Phil Morin]] (2015-2016)</li><!--
+  --><li style="">[[Rachel Austin]] (2015-2016)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Oct 2010-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Control Issues*** (previous titles: ***Pick Your Own Path***, ***Choose Your Own Adventure***) is [[The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
 

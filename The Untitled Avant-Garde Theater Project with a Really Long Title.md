@@ -1,14 +1,163 @@
-{{Infobox Show
-|Name               = The Untitled Avant-Garde Theater Project with a Really Long Title
-|Picture            = The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Jon Bolden]]
-|Assistant Director = [[Jessica von Schramm]]
-|Tech Director = [[Sarah Hutchins]]
-|Run                = Dec 2016
-|Cast               = {{Unbulleted list | [[Ali Meier]] | [[Chris Villafano]] | [[Cristy Salinas]] | [[Elizabeth Bradshaw]] | [[Michelle Dahlenburg]] | [[Neil Dorsey]] | [[Raymond Gutierrez]] | [[Sushant Sethi]] | [[Zac Carr]] | [[Sue Jordan]] }}
-|Tech               = {{Unbulleted list | [[Greg Blank]] (scoring, from-the-booth effects) | [[Lahari Samineni]] (stage manager) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">The Untitled Avant-Garde Theater Project with a Really Long Title</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Jon Bolden]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Jessica von Schramm]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Tech Director(s)</th>
+			<td class="category">[[Sarah Hutchins]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ali Meier]]</li><!--
+  --><li style="">[[Chris Villafano]]</li><!--
+  --><li style="">[[Cristy Salinas]]</li><!--
+  --><li style="">[[Elizabeth Bradshaw]]</li><!--
+  --><li style="">[[Michelle Dahlenburg]]</li><!--
+  --><li style="">[[Neil Dorsey]]</li><!--
+  --><li style="">[[Raymond Gutierrez]]</li><!--
+  --><li style="">[[Sushant Sethi]]</li><!--
+  --><li style="" >[[Zac Carr]]</li><!--
+  --><li style="">[[Sue Jordan]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Greg Blank]] (scoring, from-the-booth effects)</li><!--
+  --><li style="">[[Lahari Samineni]] (stage manager)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Dec 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***The Untitled Avant-Garde Theater Project with a Really Long Title*** will be the December 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

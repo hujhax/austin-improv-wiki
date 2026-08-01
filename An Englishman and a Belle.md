@@ -1,11 +1,78 @@
-{{Infobox Troupe
-|Name	=		An Englishman and a Belle
-|Picture	=	Englishman and Belle.jpg
-|Cast	=	{{Unbulleted list|[[Mark Tindle]]|[[Aspen Webster]]}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">An Englishman and a Belle</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Englishman and Belle.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Mark Tindle]]</li><!--
+  --><li style="">[[Aspen Webster]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
 
 
-|Years	=		2015-Present
-}}
+
+	</table>
+</div>
 
 **An Englishman and a Belle** is a duo made up of English gentleman, Mark Tindle, and 7th Generation Floridian, Austinite and Belle, Aspen Webster. Until anyone can prove otherwise, these close friends claim to be the most geographically-distant improv troupe in the world!
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Jillian Summar	
-|Picture =	Jillian Summar.jpg
-|Theater=	[[The Hideout Theatre]], [[The Institution Theater]] [[Merlin Works]]
-|Years	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jillian Summar</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jillian Summar.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]], [[The Institution Theater]] [[Merlin Works]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 Jillian Summar is an improv performer, singing improv teacher, and vocal performer.
 

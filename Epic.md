@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Epic
-|Picture	=	Epic.jpg
-|Cast	=	{{ Unbulleted list | [[Alex Gray]] | [[Alexander Hilary]] | [[Andreas Fabis]] | [[Brad Hawkins]] | [[Brent Unger]] | [[Cortney DeAngelo]] | [[Dana Yanoshak]] | [[David C. Wells]] | [[David Lampe]] | [[Edwin Wise]] | [[Heidi Rogers]] | [[Jason Oliver]] | [[Marc Majcher]] | [[Jayme Ramsay]] | [[Paul Normandin]] | [[Sarah Swofford]] | [[Scott Hearne]] | [[Sophia Hoang]] }}
-|Years	=		2012-Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Epic</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Epic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Gray]]</li><!--
+  --><li style="">[[Alexander Hilary]]</li><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Brad Hawkins]]</li><!--
+  --><li style="">[[Brent Unger]]</li><!--
+  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style="">[[David C. Wells]]</li><!--
+  --><li style="" >[[David Lampe]]</li><!--
+  --><li style="">[[Edwin Wise]]</li><!--
+  --><li style="">[[Heidi Rogers]]</li><!--
+  --><li style="">[[Jason Oliver]]</li><!--
+  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style="">[[Jayme Ramsay]]</li><!--
+  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style="">[[Sarah Swofford]]</li><!--
+  --><li style="">[[Scott Hearne]]</li><!--
+  --><li style="">[[Sophia Hoang]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Epic** is an improv troupe loosely based on [[Wikipedia - Dungeons & Dragons|Dungeons & Dragons]].
 

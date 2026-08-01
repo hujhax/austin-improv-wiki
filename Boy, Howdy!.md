@@ -1,13 +1,158 @@
-{{Infobox Show
-|Name               = Boy, Howdy!
-|Picture            = Boy, Howdy!.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = [[Kaci Beeler]]
-|Assistant Director = [[Courtney Hopkin]]
-|Run                = Nov/Dec 2015
-|Cast               = {{Unbulleted list | [[Ace Manning]] | [[Andrew Buck]] | [[Cagney Ortiz]] | [[Cat Drago]] | [[Courtney Hopkin]] | [[David Lampe]] | [[Kaci Danger]] | [[Kareem Badr]] | [[Megan Sherrod]] | [[Nicole Oliver]] | [[Patrick Creamer]] | [[Roy Danger]] | [[Ryan Austin]] }}
-|Tech               = {{Unbulleted list | [[Lindsey McGowen]] (lights) | [[Michael Yew]] (sound) | [[Rob Yoho]] (stage manager/dramaturg)}}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Boy, Howdy!</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Boy, Howdy!.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Kaci Beeler]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Assistant Director(s)</th>
+			<td class="category">[[Courtney Hopkin]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ace Manning]]</li><!--
+  --><li style="">[[Andrew Buck]]</li><!--
+  --><li style="">[[Cagney Ortiz]]</li><!--
+  --><li style="">[[Cat Drago]]</li><!--
+  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style="">[[David Lampe]]</li><!--
+  --><li style="">[[Kaci Danger]]</li><!--
+  --><li style="">[[Kareem Badr]]</li><!--
+  --><li style="" >[[Megan Sherrod]]</li><!--
+  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style="">[[Patrick Creamer]]</li><!--
+  --><li style="">[[Roy Danger]]</li><!--
+  --><li style="">[[Ryan Austin]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Lindsey McGowen]] (lights)</li><!--
+  --><li style="">[[Michael Yew]] (sound)</li><!--
+  --><li style="">[[Rob Yoho]] (stage manager/dramaturg)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Nov/Dec 2015</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Boy, Howdy!*** will be the November/December 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].
 

@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Michael Jastroch	
-|Picture=	Jastroch.jpg
-|Theater=	[[ColdTowne Theater]]		
-|Years	=	2006-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Michael Jastroch</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Jastroch.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2006-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Michael Jastroch** ([[Wikipedia - Help - IPA for English#Key|/ˈdʒæstroʊ/]]) is an improv performer, director, and teacher.  He is one of the founders of [[ColdTowne Theater]].
 

@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=		Celebrity Alter Ego
-|Picture	=	Celebrity Alter Ego.jpg
-|Cast	=	{{ Unbulleted list | [[Andreas Fabis]] | [[Chris Allen]] | [[Kevin Miller]] | [[Lindsey Reeves]] | [[Peter Rogers]] | [[Robin Anderson]] | [[Topping Haggerty]] }}
-|Years	=		2012
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Celebrity Alter Ego</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Celebrity Alter Ego.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Andreas Fabis]]</li><!--
+  --><li style="">[[Chris Allen]]</li><!--
+  --><li style="">[[Kevin Miller]]</li><!--
+  --><li style="">[[Lindsey Reeves]]</li><!--
+  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style="">[[Robin Anderson]]</li><!--
+  --><li style="">[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Celebrity Alter Ego** was an improv troupe that started as a [[List of Free Fringes#Celebrity Alter-Ego .28Andreas Fabis.29|fringe format]].
 

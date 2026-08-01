@@ -1,12 +1,102 @@
-{{Infobox Show
-|Name	=	Puppet Katamari	
-|Picture=	Puppet Katamari.jpg
-|Theater=	[[The Dougherty Arts Center]]
-|Producer=	[[Puppet Improv Project]]
-|Director =	[[Sara Farr]]
-|Cast	=	{{Unbulleted list | [[Amy McSmith]] | [[Chadwick Smith]] | [[Gene Zhou]] | [[Howard Katz]] | [[Jay Byrd]] | [[John Brewster]] | [[Leng Wong]] | [[Patrick Knisely]] | [[Topping Haggerty]] }}
-|Run	=	Jun 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Puppet Katamari</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Puppet Katamari.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Dougherty Arts Center]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Sara Farr]]</td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Puppet Improv Project]]</td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amy McSmith]]</li><!--
+  --><li style="">[[Chadwick Smith]]</li><!--
+  --><li style="">[[Gene Zhou]]</li><!--
+  --><li style="">[[Howard Katz]]</li><!--
+  --><li style="">[[Jay Byrd]]</li><!--
+  --><li style="">[[John Brewster]]</li><!--
+  --><li style="">[[Leng Wong]]</li><!--
+  --><li style="">[[Patrick Knisely]]</li><!--
+  --><li style="" >[[Topping Haggerty]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Jun 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Puppet Katamari*** was an improvised puppet show.
 
 ## Summary

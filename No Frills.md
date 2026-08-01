@@ -1,9 +1,78 @@
-{{Infobox Troupe
-|Name	=	No Frills
-|Picture =     No Frills.jpg
-|Cast	=	{{Unbulleted list | [[Ash Nunley]] | [[Jeanette Jones]] | [[Jessie Pascarelli]] | [[Megan Venable]] }}
-|Years	=		2013-2015
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">No Frills</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[No Frills.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013-2015</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ash Nunley]]</li><!--
+  --><li style="">[[Jeanette Jones]]</li><!--
+  --><li style="">[[Jessie Pascarelli]]</li><!--
+  --><li style="">[[Megan Venable]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **No Frills** is a troupe that focuses on monoscenes about women who like each other.
 

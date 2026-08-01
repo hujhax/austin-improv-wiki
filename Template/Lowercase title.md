@@ -1,1 +1,1 @@
-<span>{{DISPLAYTITLE:{{#if:{{NAMESPACE}}|{{NAMESPACE}}:|}}{{lcfirst:{{PAGENAME}}}}}}</span>
+<span></span>

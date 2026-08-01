@@ -1,11 +1,46 @@
-{{Infobox Show
-|Name	=	Blue Maestro
-|Picture =	Blue Maestro Picture.jpg
-|Theater =	[[The Hideout Theatre]]
-|Director =	Various	
-|Cast	=	Various
-|Run	=	2000-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Blue Maestro</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Blue Maestro Picture.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">2000-Present</td>
+		</tr>
+
+		
+	</table>
+</div>
 **Blue Maestro** is the non-family-friendly version of [[Maestro]].
 
 ## Summary

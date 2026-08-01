@@ -2,16 +2,30 @@
 ## Usage
 This template lists standard, useful information about an improv troupe.
 <pre>
-{{Infobox Troupe
-|Name	=		
-|Picture	=
-|Years	=		
-|Director	=		
-|Cast	        =
-|Past Members =		
-|Tech	=		
-|Crew	=		
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2"></th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category"></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"></td>
+		</tr>
+
+
+
+	</table>
+</div>
 </pre>
 
 ## Attributes
@@ -40,44 +54,24 @@ This template lists standard, useful information about an improv troupe.
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
-			<th class="infobox-header" colspan="2">{{{Name|Troupe Name}}}</th>
+			<th class="infobox-header" colspan="2">Troupe Name</th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[{{{Picture]]
+				![[Troupe default image.png]]
 			</td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Years Active</th>
-			<td class="category">{{{Years|Unknown}}}</td>
+			<td class="category">Unknown</td>
 		</tr>
-{{#if: {{{Director|}}} |
-		<tr class="">
-			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">{{{Director|Unknown}}}</td>
-		</tr>
-|}}
+
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
-			<td class="category">{{{Cast|Unknown}}}</td>
+			<td class="category">Unknown</td>
 		</tr>
-{{#if: {{{Past Members|}}} |
-		<tr class="">
-			<th class="category-header" scope="row">Past Members</th>
-			<td class="category">{{{Past Members|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Tech|}}} |
-		<tr class="">
-			<th class="category-header" scope="row">Tech</th>
-			<td class="category">{{{Tech|Unknown}}}</td>
-		</tr>
-|}}
-{{#if: {{{Crew|}}} |
-		<tr class="">
-			<th class="category-header" scope="row">Crew</th>
-			<td class="category">{{{Crew|Unknown}}}</td>
-		</tr>
-|}}
+
+
+
 	</table>
 </div>

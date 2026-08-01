@@ -1,9 +1,24 @@
-{{Infobox Performer
-| Name	  = Valerie Ward	
-| Picture = Valerie Ward.jpg
-| Theater = [[The Hideout Theatre]]
-| Years = 2001-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Valerie Ward</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Valerie Ward.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2001-Present</td>
+		</tr>
+
+	</table>
+</div>
  
 **Valerie Ward** is an improv performer, teacher, coach, and director.
 

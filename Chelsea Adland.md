@@ -1,10 +1,29 @@
-{{Infobox Performer
-|Name	=	Chelsea Adland
-|Picture =	Chelsea Gilman Pic.jpg
-|Theater=	Various
-|Years	=	2000-Present
-|Instruments =  Drums
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Chelsea Adland</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Chelsea Gilman Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2000-Present</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Instrument(s)</th>
+			<td class="category">Drums</td>
+		</tr>
+
+	</table>
+</div>
 
 **Chelsea Adland** (née **Gilman**) is an improv performer.
 

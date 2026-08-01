@@ -1,10 +1,134 @@
-{{Infobox Troupe
-|Picture = BadFont_Hideout.jpg
-|Name	=		Bad Font
-|Cast	=	{{Unbulleted list|[[Alex Ayala]]|[[Kelly Campbell]]|[[Rachel Denton]]|[[Karen Jane DeWitt]]||[[Scott Hearne]]|[[Michael Joplin]]|[[Griffin May]]|[[Johnny Sullivan]]|[[Megan Venable]]}}
-|Past Members = {{Unbulleted list|[[Justin Davidson]]|[[Carlos LaRotta]]|[[Christina Parrish]]|[[Ron Morelli]]|[[Kristen Kurtis]]|[[Cene Hale]]|[[Alexander Hilary]]||[[Megan Mowry]]|[[Theo Daley]]|[[Jessie Pascarelli]]|}}
-|Years	=		2013 - Present
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Bad Font</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[BadFont Hideout.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013 - Present</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alex Ayala]]</li><!--
+  --><li style="">[[Kelly Campbell]]</li><!--
+  --><li style="">[[Rachel Denton]]</li><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Scott Hearne]]</li><!--
+  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style="">[[Griffin May]]</li><!--
+  --><li style="">[[Johnny Sullivan]]</li><!--
+  --><li style="" >[[Megan Venable]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Past Members</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Justin Davidson]]</li><!--
+  --><li style="">[[Carlos LaRotta]]</li><!--
+  --><li style="">[[Christina Parrish]]</li><!--
+  --><li style="">[[Ron Morelli]]</li><!--
+  --><li style="">[[Kristen Kurtis]]</li><!--
+  --><li style="">[[Cene Hale]]</li><!--
+  --><li style="">[[Alexander Hilary]]</li><!--
+  --><li style="">[[Megan Mowry]]</li><!--
+  --><li style="" >[[Theo Daley]]</li><!--
+  --><li style="">[[Jessie Pascarelli]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Bad Font** is an independent, Harold oriented, improv team.
 

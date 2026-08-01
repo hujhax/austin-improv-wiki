@@ -1,12 +1,204 @@
-{{Infobox Show
-|Name               = Origins
-|Picture            = Origins Placeholder Image.jpg
-|Theater            = [[The Hideout Theatre]]
-|Director           = {{Unbulleted list | [[Manuel Duran]] | [[Roy Janik]] }}
-|Run                = Apr 2016
-|Cast               = {{Unbulleted list | [[Ann Symmonds]] | [[Benjamin Blattberg]] | [[Jenn Hamm]] | [[Judy Blackshear]] | [[Kathie Xiao]] | [[Paül Ramone Weiner]] | [[Phil Morin]] | [[R Lance Hunter]] | [[Rachel Posey Austin]] | [[Tosin Awofeso]] }}
-|Tech               = {{Unbulleted list | [[Brianna Minks]] | [[Cindy Page]] (tech director) | [[Monica Wells]] | [[Nick Amsden]] | [[Sandra Ybarra]] (stage manager) }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Origins</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Origins Placeholder Image.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Manuel Duran]]</li><!--
+  --><li style="">[[Roy Janik]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Ann Symmonds]]</li><!--
+  --><li style="">[[Benjamin Blattberg]]</li><!--
+  --><li style="">[[Jenn Hamm]]</li><!--
+  --><li style="">[[Judy Blackshear]]</li><!--
+  --><li style="">[[Kathie Xiao]]</li><!--
+  --><li style="">[[Paül Ramone Weiner]]</li><!--
+  --><li style="">[[Phil Morin]]</li><!--
+  --><li style="">[[R Lance Hunter]]</li><!--
+  --><li style="" >[[Rachel Posey Austin]]</li><!--
+  --><li style="">[[Tosin Awofeso]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Brianna Minks]]</li><!--
+  --><li style="">[[Cindy Page]] (tech director)</li><!--
+  --><li style="">[[Monica Wells]]</li><!--
+  --><li style="">[[Nick Amsden]]</li><!--
+  --><li style="">[[Sandra Ybarra]] (stage manager)</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Apr 2016</td>
+		</tr>
+
+		
+	</table>
+</div>
 
 ***Origins*** will be the April 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
 

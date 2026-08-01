@@ -1,13 +1,260 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: Scrubs	
-|Picture=	Live TV Tuesdays - Scrubs.jpg
-|Theater=	[[The Institution Theater]]
-|Director = {{Unbulleted list | [[Madeline Jo Chauvin]] | [[Kevin Machate]] }}
-|Producer= {{Unbulleted list | [[Diana Caldwell]] | [[Jesse Prebix]] | [[Tom Booker]] }}
-|Cast	=	{{Unbulleted list | [[Adam Mengesha]] | [[Adriane Shown]] | [[Andy Hush]] | [[Ben Howell]] | [[Benjamin Scott]] | [[Carrie H. Stephens]] | [[Chris Villafano]] | [[David Rosenbaum]] | [[Howard Katz]] | [[Madeline Jo Chauvin]] | [[Kevin Machate]] | [[Laura Komkov]] | [[Richard Dodwell]] | [[Tatiana Artis]] }}
-|Tech	=	{{Unbulleted list | [[BK McKee]] | [[Neal Tibrewala]] | [[Todd Hart]] }}
-|Run	=	Aug 2012
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: Scrubs</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - Scrubs.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Madeline Jo Chauvin]]</li><!--
+  --><li style="">[[Kevin Machate]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Diana Caldwell]]</li><!--
+  --><li style="">[[Jesse Prebix]]</li><!--
+  --><li style="">[[Tom Booker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Adam Mengesha]]</li><!--
+  --><li style="">[[Adriane Shown]]</li><!--
+  --><li style="">[[Andy Hush]]</li><!--
+  --><li style="">[[Ben Howell]]</li><!--
+  --><li style="">[[Benjamin Scott]]</li><!--
+  --><li style="">[[Carrie H. Stephens]]</li><!--
+  --><li style="">[[Chris Villafano]]</li><!--
+  --><li style="">[[David Rosenbaum]]</li><!--
+  --><li style="" >[[Howard Katz]]</li><!--
+  --><li style="">[[Madeline Jo Chauvin]]</li><!--
+  --><li style="">[[Kevin Machate]]</li><!--
+  --><li style="">[[Laura Komkov]]</li><!--
+  --><li style="">[[Richard Dodwell]]</li><!--
+  --><li style="">[[Tatiana Artis]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Crew</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[BK McKee]]</li><!--
+  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style="">[[Todd Hart]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Aug 2012</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: Scrubs*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Scrubs (TV series)|*Scrubs*]] episodes [http://scrubs.wikia.com/wiki/My_Overkill "My Overkill"] and [http://scrubs.wikia.com/wiki/My_Musical "My Musical"].
 
 It was referred to as "*Scrubs: Live*".

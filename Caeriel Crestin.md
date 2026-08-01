@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Caeriel Crestin	
-|Picture =	Caeriel Crestin Pic.jpg
-|Theater=	[[The Hideout Theatre]]
-|Years	=	2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Caeriel Crestin</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Caeriel Crestin Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[The Hideout Theatre]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2010-Present</td>
+		</tr>
+
+	</table>
+</div>
  
 **Caeriel Crestin** is an improviser who is a graduate of, and works for, [[The Hideout Theatre]]. He is the Hideout Registrar, Intern Coordinator, House Manager, and Instructor.
 

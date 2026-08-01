@@ -1,10 +1,29 @@
-{{Infobox Performer
-|Name	=	Tosin Awofeso	
-|Picture =	Tosin Awofeso Pic.jpg
-|Instruments = Piano
-|Theater=	Various
-|Years	=	2014-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Tosin Awofeso</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Tosin Awofeso Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2014-Present</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Instrument(s)</th>
+			<td class="category">Piano</td>
+		</tr>
+
+	</table>
+</div>
 
 **Tosin Awofeso** is an improv musician.
 

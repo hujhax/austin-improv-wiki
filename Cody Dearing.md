@@ -1,9 +1,24 @@
-{{Infobox Performer
-|Name	=	Cody Dearing	
-|Picture =	Cody Dearing Pic.jpg
-|Theater=	[[ColdTowne Theater]]
-|Years	=	2006-2007, 2010-Present
-}}
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Cody Dearing</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				![[Cody Dearing Pic.jpg]]
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">[[ColdTowne Theater]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2006-2007, 2010-Present</td>
+		</tr>
+
+	</table>
+</div>
 
 **Cody Dearing** is an improv performer, teacher, and director.
 

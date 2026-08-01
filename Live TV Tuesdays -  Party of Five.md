@@ -1,11 +1,97 @@
-{{Infobox Show
-|Name	=	Live TV Tuesdays: Party of Five 	
-|Picture=	Live TV Tuesdays - Party of Five.jpg
-|Theater=	[[The Institution Theater]]
-|Director = [[Heidi Caldwell]]
-|Cast	=	{{Unbulleted list | [[Alexander Hilary]] | [[Blaine Paradise]] | [[Carissa McAtee]] | [[Christian Huey]] | [[Cody Melcher]] | [[Fred Winkler]] | [[Karen Jane DeWitt]] | [[Roanna Flowers]] | [[Taylor Overstreet]] | [[Tyler Reece Booker]] }}
-|Run	=	Aug 2011
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Live TV Tuesdays: Party of Five</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Live TV Tuesdays - Party of Five.jpg]]
+			</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category">[[The Institution Theater]]</td>
+		</tr>
+
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category">[[Heidi Caldwell]]</td>
+		</tr>
+
+
+
+
+
+
+
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Alexander Hilary]]</li><!--
+  --><li style="">[[Blaine Paradise]]</li><!--
+  --><li style="">[[Carissa McAtee]]</li><!--
+  --><li style="">[[Christian Huey]]</li><!--
+  --><li style="">[[Cody Melcher]]</li><!--
+  --><li style="">[[Fred Winkler]]</li><!--
+  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style="">[[Roanna Flowers]]</li><!--
+  --><li style="" >[[Taylor Overstreet]]</li><!--
+  --><li style="">[[Tyler Reece Booker]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+		<tr class="">
+
+			<th scope="row" class="category-header">Run</th>
+
+			<td class="category">Aug 2011</td>
+		</tr>
+
+		
+	</table>
+</div>
 ***Live TV Tuesdays: Party of Five*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode [http://www.imdb.com/title/tt0670372/ "The Wedding"].
 
 ## Summary

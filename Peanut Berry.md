@@ -1,8 +1,78 @@
-{{Infobox Troupe
-|Name	=		Peanut Berry
-|Cast	=	{{ Unbulleted list | [[Amanda Hinsman]] | [[Blake Reinhart]] | [[Greg Blank]] | [[Jennifer Brinlee]] | [[Lindsay Hejl]] | [[Tim Stiefler]] }}
-|Years	=		2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Peanut Berry</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				![[Troupe default image.png]]
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2013</td>
+		</tr>
+
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style="">[[Amanda Hinsman]]</li><!--
+  --><li style="">[[Blake Reinhart]]</li><!--
+  --><li style="">[[Greg Blank]]</li><!--
+  --><li style="">[[Jennifer Brinlee]]</li><!--
+  --><li style="">[[Lindsay Hejl]]</li><!--
+  --><li style="">[[Tim Stiefler]]</li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+
+
+
+	</table>
+</div>
 
 **Peanut Berry** was an improv troupe.
 
