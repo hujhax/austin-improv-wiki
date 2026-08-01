@@ -71,21 +71,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">Feb/Mar 2012</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category">Nov 2013</td>
 		</tr>
-
-		
 	</table>
 </div>
 ![[Cherry Bowl - Performance.jpg|From the 2/25/12 performance of *The Cherry Bowl*.]]

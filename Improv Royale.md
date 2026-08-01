@@ -67,9 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
 	</table>
 </div>
 :*This page refers to the 2011 improv troupe based around pro-wrestler persona-prov.  For the 2014 [[ColdTowne]] mainstage run based on pro-wrestling-based Saturday morning cartoons, see *[[Slam Team Six]]''.

@@ -67,7 +67,6 @@
 			<th scope="row" class="category-header">Years Active</th>
 			<td class="category">2009-Present</td>
 		</tr>
-
 	</table>
 </div>
 ![[Emily Breedlove - Tribunal.jpg|Emily Breedlove in *[[The Tribunal]]*.]]

@@ -67,18 +67,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category">[[Ryan Austin]] (2013)</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -134,15 +126,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">Apr-Jun 2007</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -198,8 +185,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-		
 	</table>
 </div>
 : *This page refers to the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show.  For the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012, see [[ComedySportz]].*

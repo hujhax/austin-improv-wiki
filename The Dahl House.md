@@ -75,21 +75,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">[[Rachel Posey Austin]] (sound)</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Aug 2014</td>
 		</tr>
-
-		
 	</table>
 </div>
 

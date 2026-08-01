@@ -67,8 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -124,22 +122,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
 			<td class="category">Sandra Ybarra</td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
 			<td class="category">Tosin Awofeso</td>
 		</tr>
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -195,16 +185,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">June - July 2017</td>
 		</tr>
-
-		
 	</table>
 </div>
 

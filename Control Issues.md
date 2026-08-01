@@ -67,13 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -129,7 +122,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -185,16 +177,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Oct 2010-Present</td>
 		</tr>
-
-		
 	</table>
 </div>
 

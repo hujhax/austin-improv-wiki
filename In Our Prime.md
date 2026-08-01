@@ -67,14 +67,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category">[[Jessica Arjet]] (2012-2015)</td>
 		</tr>
-
-
-
 	</table>
 </div>
 

@@ -75,16 +75,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Dec 2009</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Sock Treatment*** was an improvised all-female puppet show.

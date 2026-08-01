@@ -67,32 +67,18 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Varies</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">6/3/12</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category">7/19/12, 9/27/12, 10/25/12, 12/13/12, 10/16/14</td>
 		</tr>
-
-		
 	</table>
 </div>
 

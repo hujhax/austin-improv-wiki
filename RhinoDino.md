@@ -67,7 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -123,9 +122,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
 	</table>
 </div>
 **RhinoDino** is an improv troupe that focuses on short-form improv and modifying existing games to make them more interesting.

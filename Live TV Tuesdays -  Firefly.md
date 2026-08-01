@@ -71,13 +71,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -133,7 +126,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -189,8 +181,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -246,15 +236,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">May/Jun 2012</td>
 		</tr>
-
-		
 	</table>
 </div>
 

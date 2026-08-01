@@ -79,16 +79,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Oct-Dec 2010</td>
 		</tr>
-
-		
 	</table>
 </div>
 

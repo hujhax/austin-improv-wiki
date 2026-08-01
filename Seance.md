@@ -75,16 +75,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Oct/Nov 2012</td>
 		</tr>
-
-		
 	</table>
 </div>
 :*This page refers to the Salvage Vanguard mainstage run based around 19th-century communications with dead spirits.  For the Salvage Vanguard graduation show run based on classic ghost stories, see *[[Haunted]]''.

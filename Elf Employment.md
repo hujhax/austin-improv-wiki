@@ -63,28 +63,18 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">[[Sara Farr]]</td>
 		</tr>
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category">[[Puppet Improv Project]]</td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category">[[Ammon Taylor]]</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -140,21 +130,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">Dec 2011</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category">Dec 2013</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Elf Employment*** is a Christmas-themed improvised puppet musical.

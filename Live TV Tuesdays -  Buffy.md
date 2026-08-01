@@ -71,13 +71,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -133,8 +126,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -190,15 +181,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Oct/Nov 2011</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Live TV Tuesdays: Buffy*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Buffy the Vampire Slayer|*Buffy the Vampire Slayer*]] episode [[Wikipedia - The Prom (Buffy the Vampire Slayer)|"The Prom"]].

@@ -71,16 +71,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">May 2014</td>
 		</tr>
-
-		
 	</table>
 </div>
 

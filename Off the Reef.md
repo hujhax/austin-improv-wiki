@@ -79,21 +79,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">[[Kat Greco]]</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Nov 2012</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Off the Reef*** was an improvised puppet show.

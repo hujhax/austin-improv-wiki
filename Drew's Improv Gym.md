@@ -63,32 +63,18 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">[[Drew Wesely]]</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">March 2015-Present</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Drew's Improv Gym*** is a weekly improv jam at 7:00 pm Fridays, at ColdTowne Conservatory, 6929 Airport Blvd.  

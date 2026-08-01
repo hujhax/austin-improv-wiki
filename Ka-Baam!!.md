@@ -71,21 +71,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">May/Jun 2008</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category">Sep/Oct 2009</td>
 		</tr>
-
-		
 	</table>
 </div>
 

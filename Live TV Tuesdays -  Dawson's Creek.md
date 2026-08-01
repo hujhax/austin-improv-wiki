@@ -71,21 +71,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">[[Britney Salyer]]</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">May/Jun 2011</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Dawson's Creek|*Dawson's Creek*]] episode ["The Longest Day"](http://www.imdb.com/title/tt0555187/).

@@ -75,8 +75,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -132,15 +130,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Jan/Feb 2011</td>
 		</tr>
-
-		
 	</table>
 </div>
 

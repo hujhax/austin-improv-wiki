@@ -71,16 +71,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">May 2013-Present</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Improvised Comedy with Oh, Science!*** is a double-header improv show featuring [[Oh, Science!]] at 8:30PM every Sunday at [[ColdTowne Theater]].

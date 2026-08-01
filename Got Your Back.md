@@ -67,14 +67,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
 	</table>
 </div>
 

@@ -67,27 +67,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Varies</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">4/26/12</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Epic Telescope*** is a longform show.

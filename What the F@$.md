@@ -75,16 +75,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Feb 2014</td>
 		</tr>
-
-		
 	</table>
 </div>
 

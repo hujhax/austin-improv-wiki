@@ -71,16 +71,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Jul/Aug 2011</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Live TV Tuesdays: John Hughes Summer School*** refers to the *[[Live TV Tuesdays]]* presentation of "John Hughes Summer School", a staged reading of various scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.

@@ -71,16 +71,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Feb/Mar 2012</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Live TV Tuesdays: Dr. Horrible's Sing-Along Blog*** refers to the *[[Live TV Tuesdays]]* presentation of [[Wikipedia - Dr. Horrible's Sing-Along Blog|*Dr. Horrible's Sing-Along Blog*]].

@@ -75,21 +75,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">[[Mark Shoemaker]]</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Mar 2014</td>
 		</tr>
-
-		
 	</table>
 </div>
 

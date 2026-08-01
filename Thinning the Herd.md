@@ -71,15 +71,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">Oct 2012-Jan 2013</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -135,8 +130,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Thinning the Herd*** is an improv show based around a (real-life) team-based weight-loss competition.

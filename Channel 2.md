@@ -67,9 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
 	</table>
 </div>
 **Channel 2** is an improv troupe created by [[Tyler Lane]] in the Fall of 2015. 

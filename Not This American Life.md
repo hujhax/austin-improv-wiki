@@ -67,13 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -129,15 +122,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">May/Jun 2012</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -193,8 +181,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-		
 	</table>
 </div>
 

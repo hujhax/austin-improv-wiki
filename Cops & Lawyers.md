@@ -67,13 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -129,16 +122,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Jul-Sep 2006</td>
 		</tr>
-
-		
 	</table>
 </div>
 ![[Cops & Lawyers Postcard.jpg|Postcard for *Cops & Lawyers*]]

@@ -67,18 +67,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
 			<td class="category">[[Ammon Taylor]]</td>
 		</tr>
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -134,21 +126,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">[[Jessica T. Von Schramm]] (stage manager)</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Jul/Aug 2015</td>
 		</tr>
-
-		
 	</table>
 </div>
 

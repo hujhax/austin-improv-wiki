@@ -67,14 +67,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th class="category-header" scope="row">Tech</th>
 			<td class="category">[[Cindy Page]]</td>
 		</tr>
-
-
 	</table>
 </div>
 

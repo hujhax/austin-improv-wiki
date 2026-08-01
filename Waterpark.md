@@ -67,9 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
 	</table>
 </div>
 ![[Waterpark Performance.jpg|A Waterpark performance.]]

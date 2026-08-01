@@ -71,14 +71,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th class="category-header" scope="row">Tech</th>
 			<td class="category">[[Lisa Brown]]</td>
 		</tr>
-
-
 	</table>
 </div>
 

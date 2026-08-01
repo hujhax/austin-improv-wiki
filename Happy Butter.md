@@ -67,9 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
-
 	</table>
 </div>
 **Happy Butter** was a troupe focusing on narrative improv.

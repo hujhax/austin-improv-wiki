@@ -75,16 +75,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Mar 2011</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***PIP on TV*** was an improvised puppet show.

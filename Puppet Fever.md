@@ -79,16 +79,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Jun 2011</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Puppet Fever*** was an improvised puppet musical.

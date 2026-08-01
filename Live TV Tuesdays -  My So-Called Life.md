@@ -71,16 +71,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Jun/Jul 2011</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Live TV Tuesdays: My So-Called Life*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - My So-Called Life|*My So-Called Life*]] episode ["Pressure"](http://www.imdb.com/title/tt0654958/).

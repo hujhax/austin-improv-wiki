@@ -71,21 +71,14 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">[[David Zimmerman]]</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Mar/Apr 2012</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Live TV Tuesdays: Freaks and Geeks*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Freaks and Geeks|*Freaks and Geeks*]] episode [[Wikipedia - List of Freaks and Geeks episodes|"Beers and Weirs"]]

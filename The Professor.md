@@ -67,7 +67,6 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
@@ -123,14 +122,10 @@
   --><!--
 --></ul></div></td>
 		</tr>
-
-
 		<tr class="">
 			<th class="category-header" scope="row">Tech</th>
 			<td class="category">[[Michael Yew]]</td>
 		</tr>
-
-
 	</table>
 </div>
 
