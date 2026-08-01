@@ -114,12 +114,12 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[The Amazon and the Milksop|"The Fitzgeralds Save the World"]]* (tech, 2016-present)
 * *[[The International Improv Experience]]* (light tech)
 * *[[The Jukebox Musical Project]]* 
-** *The Black Death* (music director)
-** *In the Air Tonight* (music director)
-** *Karma Police* (music director)
-** *Renaissance Queen* (music director/cast)
-** *Home Again: The Story of Passover* (music director)
-** *Beyonce's Wild West* (music director)
+	* *The Black Death* (music director)
+	* *In the Air Tonight* (music director)
+	* *Karma Police* (music director)
+	* *Renaissance Queen* (music director/cast)
+	* *Home Again: The Story of Passover* (music director)
+	* *Beyonce's Wild West* (music director)
 * *[[The Kindness of Strangers]]* (technical director, light/sound tech)
 
 ## More Information

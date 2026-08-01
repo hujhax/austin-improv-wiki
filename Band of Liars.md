@@ -93,7 +93,7 @@ Funny songs, sad songs, happy songs, pretty songs, creepy songs, motivational so
 * [Video #2](http://www.viddler.com/explore/exquisitezombie/videos/10/)
 
 ### Photos
-** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[The Threefer]]*.
+	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[The Threefer]]*.
 
 ### Other
 * [Sample Audio](http://www.ferstenfeld.com/mp3s/prov/garageshow-bazzle.mp3)

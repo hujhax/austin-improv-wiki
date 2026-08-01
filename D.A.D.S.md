@@ -1,1 +1,1 @@
-# REDIRECT [[Precious Dads#D.A.D.S]]
+1. REDIRECT [[Precious Dads#D.A.D.S]]

@@ -1,1 +1,1 @@
-# REDIRECT [[The Hideout Improv Marathon]]
+1. REDIRECT [[The Hideout Improv Marathon]]

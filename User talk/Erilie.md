@@ -1,1 +1,1 @@
-# REDIRECT [[Talk/Erica Lies|Talk:Erica Lies]]
+1. REDIRECT [[Talk/Erica Lies|Talk:Erica Lies]]

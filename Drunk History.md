@@ -1,1 +1,1 @@
-# REDIRECT [[History Under the Influence]]
+1. REDIRECT [[History Under the Influence]]

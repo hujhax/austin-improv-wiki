@@ -1,1 +1,1 @@
-# REDIRECT [[Cereal for Adults]]
+1. REDIRECT [[Cereal for Adults]]

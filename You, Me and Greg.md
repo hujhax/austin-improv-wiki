@@ -1,1 +1,1 @@
-# REDIRECT [[You, Me, and Greg]]
+1. REDIRECT [[You, Me, and Greg]]

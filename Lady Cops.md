@@ -1,1 +1,1 @@
-# REDIRECT [[The Matriarchy]]
+1. REDIRECT [[The Matriarchy]]

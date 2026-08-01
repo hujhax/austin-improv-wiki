@@ -10,13 +10,13 @@ The Balloon Battle started in 2011, when [[Jason Vines]] found himself with a la
 
 ## Media
 * [A photoset](http://www.facebook.com/media/set/?set=a.237426606320863.62326.221927764537414&type=3) by [[Steve Rogers]] of the 2011 Battle.
-** [Another photoset](http://www.facebook.com/media/set/?set=a.219408021461218.52329.118587218209966&type=3) by [[Roy Moore]] of the event.
+	* [Another photoset](http://www.facebook.com/media/set/?set=a.219408021461218.52329.118587218209966&type=3) by [[Roy Moore]] of the event.
 * [A photoset](http://www.facebook.com/media/set/?set=a.441066759290179.107646.221927764537414&type=3) by [[Steve Rogers]] of 'before' and 'after' photos from the 2012 Battle.
 * [A photoset](http://www.facebook.com/media/set/?set=a.441083802621808.107651.221927764537414&type=3) by [[Steve Rogers]] from the 2012 Battle itself.
-** [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.488635691157931.110571.100000345135257&type=3) by [[Claudio Fox]] of the same event.
-** [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102504661255640.3488129.7909117&type=3) by [[Heidi Rogers]] of the same event.
+	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.488635691157931.110571.100000345135257&type=3) by [[Claudio Fox]] of the same event.
+	* [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102504661255640.3488129.7909117&type=3) by [[Heidi Rogers]] of the same event.
 * [A video of the 2012 event](http://youtu.be/gJfJXwz-LuE) from Ivan Walker.
-** [A "highlight reel" of the same event](http://youtu.be/LZq45cBfsJw) from [[Jason Vines]]
+	* [A "highlight reel" of the same event](http://youtu.be/LZq45cBfsJw) from [[Jason Vines]]
 * [Interview footage](http://youtu.be/3MG9MHm3jAo#t=237) wherein [[Jason Vines]] discusses the event.
 
 ## More Information

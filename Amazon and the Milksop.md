@@ -1,1 +1,1 @@
-# redirect [[The Amazon and the Milksop]]
+1. redirect [[The Amazon and the Milksop]]

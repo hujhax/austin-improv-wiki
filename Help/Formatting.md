@@ -62,48 +62,48 @@ Here's a quick list of some of the most useful ways to format text in a wiki pag
 <pre>
 * Start each line
 * with an [[Wikipedia - asterisk|asterisk]] (*).
-** More asterisks gives deeper
-*** and deeper levels.
+	* More asterisks gives deeper
+		* and deeper levels.
 * Line breaks<br />don't break levels.
-*** But jumping levels creates empty space.
+		* But jumping levels creates empty space.
 Any other start ends the list.
 </pre>
 |
 * Start each line
 * with an [[Wikipedia - asterisk|asterisk]] (*).
-** More asterisks gives deeper
-*** and deeper levels.
+	* More asterisks gives deeper
+		* and deeper levels.
 * Line breaks<br />don't break levels.
-*** But jumping levels creates empty space.
+		* But jumping levels creates empty space.
 Any other start ends the list.
 |-
 | Numbered list
 |
 <pre>
-# Start each line
-# with a [[Wikipedia - Number sign|number sign]] (#).
-## More number signs gives deeper
-### and deeper
-### levels.
-# Line breaks<br />don't break levels.
-### But jumping levels creates empty space.
-# Blank lines
+1. Start each line
+1. with a [[Wikipedia - Number sign|number sign]] (#).
+	1. More number signs gives deeper
+		1. and deeper
+		1. levels.
+1. Line breaks<br />don't break levels.
+		1. But jumping levels creates empty space.
+1. Blank lines
 
-# end the list and start another.
+1. end the list and start another.
 Any other start also
 ends the list.
 </pre>
 |
-# Start each line
-# with a [[Wikipedia - Number sign|number sign]] (#).
-## More number signs gives deeper
-### and deeper
-### levels.
-# Line breaks<br />don't break levels.
-### But jumping levels creates empty space.
-# Blank lines
+1. Start each line
+1. with a [[Wikipedia - Number sign|number sign]] (#).
+	1. More number signs gives deeper
+		1. and deeper
+		1. levels.
+1. Line breaks<br />don't break levels.
+		1. But jumping levels creates empty space.
+1. Blank lines
 
-# end the list and start another.
+1. end the list and start another.
 Any other start also
 ends the list.
 |}

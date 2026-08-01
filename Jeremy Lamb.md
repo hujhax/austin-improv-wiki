@@ -1,1 +1,1 @@
-# REDIRECT [[Jeremy Sweetlamb]]
+1. REDIRECT [[Jeremy Sweetlamb]]

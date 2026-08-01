@@ -47,7 +47,7 @@
 * Sunday 3am: ["The Bat"](http://improvencyclopedia.org/games/The_Bat.html) with [[ColdTowne (troupe)|ColdTowne]]
 * Sunday 4am: [[Midnight Society]] presents "Late Night Talk Show"
 * Sunday 5am: [[The Starter Kit]]
-** They presented "Professor Dobson's Time Travel Adventure", which was in some ways a progenitor of [[The Professor]].
+	* They presented "Professor Dobson's Time Travel Adventure", which was in some ways a progenitor of [[The Professor]].
 * Sunday 6am: [[Holy 1960s Batman, Batman!|"Holy Sleep Deprivation, Batman!"]], an improvised episode of the 60s *Batman* tv show
 * Sunday 7am: [[The Frank Mills]]
 * Sunday 8am: "The Final Countdown", free-form improv with the core improvisors
@@ -63,5 +63,5 @@
 
 ## More Information
 * [The marathon schedule announcement.](http://www.hideouttheatre.com/the-complete-2010-41-hour-marathon-schedule)
-** [A promotional post about the marathon.](http://www.hideouttheatre.com/the-marathon-madness-is-about-to-begin)
+	* [A promotional post about the marathon.](http://www.hideouttheatre.com/the-marathon-madness-is-about-to-begin)
 * [[Kevin Miller]] posts [a story about hour 41 of the marathon](http://happywaffle.wordpress.com/2010/06/06/hour-41-of-the-41-hour-improv-marathon/).

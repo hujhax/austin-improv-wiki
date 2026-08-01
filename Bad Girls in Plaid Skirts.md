@@ -1,1 +1,1 @@
-# REDIRECT [[Bad Girls in Plaid Skirts]]
+1. REDIRECT [[Bad Girls in Plaid Skirts]]

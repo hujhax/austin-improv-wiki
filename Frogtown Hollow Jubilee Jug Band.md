@@ -1,1 +1,1 @@
-# REDIRECT [[Frogtown Hollow Jubilee Jugband]]
+1. REDIRECT [[Frogtown Hollow Jubilee Jugband]]

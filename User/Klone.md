@@ -1,1 +1,1 @@
-# REDIRECT [[Scott Hearne]]
+1. REDIRECT [[Scott Hearne]]

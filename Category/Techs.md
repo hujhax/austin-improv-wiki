@@ -1,4 +1,4 @@
-# REDIRECT [[List of Austin Improv Techs]]
+1. REDIRECT [[List of Austin Improv Techs]]
 
 ## Pages in category "Techs"
 

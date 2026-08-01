@@ -1,1 +1,1 @@
-# REDIRECT [[Jordan T. Maxwell]]
+1. REDIRECT [[Jordan T. Maxwell]]

@@ -1,1 +1,1 @@
-# REDIRECT [[I Snood Bear]]
+1. REDIRECT [[I Snood Bear]]

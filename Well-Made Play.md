@@ -1,1 +1,1 @@
-# REDIRECT [[The Well-Made Play]]
+1. REDIRECT [[The Well-Made Play]]

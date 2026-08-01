@@ -1,4 +1,4 @@
-# REDIRECT [[List of Austin Improv Jams and Mixers]]
+1. REDIRECT [[List of Austin Improv Jams and Mixers]]
 
 ## Pages in category "Jams and Mixers"
 

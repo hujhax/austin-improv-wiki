@@ -1,4 +1,4 @@
-# REDIRECT [[List of Austin Improv Photographers]]
+1. REDIRECT [[List of Austin Improv Photographers]]
 
 ## Pages in category "Photographers"
 

@@ -1,1 +1,1 @@
-# redirect [[Gnap! Theater Projects]]
+1. redirect [[Gnap! Theater Projects]]

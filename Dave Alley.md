@@ -87,7 +87,7 @@ Dave is an avid photographer of improv. He also takes troupe photos.
 * *[[The Cherry Bowl]]*
 
 ## Media
-*  
+* 
 
 [[Category/Performers|Alley]]
 [[Category/Photographers|Alley]]

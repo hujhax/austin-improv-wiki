@@ -156,12 +156,12 @@
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4606882972840.1073741830.1315383518&type=3) by [[Michael Yew]] which includes their 4/12/13 performance in [[The 2013 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Heidi Rogers]] that includes their performance in [[The 2013 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200446168619509.1073741854.1315383518&type=3) by [[Michael Yew]] that includes their 9/7/13 performance in *[[PGraph Presents]]*.
-** [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
+	* [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/20130912/The-Escorts/) by [[Chad Wellington]] of their 9/12/13 "Drunk Ryan" show at *[[The Free Fringe]]*.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104426067058010.1073741863.7909117&type=3) by [[Heidi Rogers]] that includes their 4/11/14 performance in [[The 2014 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10152579626017265.1073741848.588952264&type=3) by [[Peter Rogers]] of their 6/27/14 performance in *[[PGraph Presents]]*
-** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202172654140568.1073741894.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
+	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202172654140568.1073741894.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.851529264910591.1073742119.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/14 performance in [[WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.942060142524169.1073742184.221927764537414&type=3) by [[Steve Rogers]] of their 4/11/15 performance in [[The Improvised Play Festival]].
 

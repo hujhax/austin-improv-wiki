@@ -1,1 +1,1 @@
-# REDIRECT [[ColorWheel]]
+1. REDIRECT [[ColorWheel]]

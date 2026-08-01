@@ -1,1 +1,1 @@
-# REDIRECT [[The Care Bear Stare]]
+1. REDIRECT [[The Care Bear Stare]]

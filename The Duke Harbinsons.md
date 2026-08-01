@@ -1,1 +1,1 @@
-# REDIRECT [[The Duke Harbisons]]
+1. REDIRECT [[The Duke Harbisons]]

@@ -95,7 +95,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.164587043622327.43580.100002130980897&type=3) by [[Steve Rogers]] that includes their 9/2/11 performance at [[The 2011 Out of Bounds Comedy Festival]].
-** [Flickr photoset](http://www.flickr.com/photos/oob_pics/sets/72157627612725716) of the same show.
+	* [Flickr photoset](http://www.flickr.com/photos/oob_pics/sets/72157627612725716) of the same show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

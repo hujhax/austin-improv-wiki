@@ -1,1 +1,1 @@
-# REDIRECT [[The Laff Staff]]
+1. REDIRECT [[The Laff Staff]]

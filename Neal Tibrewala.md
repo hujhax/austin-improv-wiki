@@ -98,8 +98,8 @@ The first improv show he ever saw was *[[After School Improv]]*.
 * [[The Derby]] (tech & performer)
 * [[Fandom]] (tech)
 * [[The Free Fringe]]
-** *[[List of Free Fringes#Shortform Mashup .28Neal Tibrewala.29|The Shortform Mashup]]* (director)
-** *[[List of Free Fringes#Object Stories .28Neal Tibrewala.29|Object Stories]]* (director)
+	* *[[List of Free Fringes#Shortform Mashup .28Neal Tibrewala.29|The Shortform Mashup]]* (director)
+	* *[[List of Free Fringes#Object Stories .28Neal Tibrewala.29|Object Stories]]* (director)
 * [[Hitchcocked!]] (tech)
 * [[Ka-Baam!!]] (tech)
 * [[Maestro]] (performer & tech)

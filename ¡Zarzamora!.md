@@ -105,7 +105,7 @@ The following upcoming festival appearances are scheduled:
 * [Video](http://vimeo.com/44295246) by [[Brad Hawkins]] of their "Q-Tip" show (uploaded 4/2/12).
 * [Video](http://vimeo.com/44295246) by [[Brad Hawkins]] of their 6/14/12 show ("The Panini Press").
 * [Video](http://vimeo.com/44444798) by [[Brad Hawkins]] of their "E-ZPass" show (uploaded 6/21/12).
-** [Lower-res version of the video.](http://vimeo.com/44320993)
+	* [Lower-res version of the video.](http://vimeo.com/44320993)
 * [Video](http://vimeo.com/116581981) by [[Brad Hawkins]] of their show at Trill Fest in Houston, Texas (the festival ran from 5/22/14 to 5/24/14).
 
 ### Photos

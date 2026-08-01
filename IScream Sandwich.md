@@ -89,7 +89,7 @@ They perform a Harold.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.555449511143215.1073741826.100000345135257&type=3) by [[Claudio Fox]] that includes their 3/30/13 performance in *[[The Triple Scoop]]*.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Chad Wellington]] that includes their performance in the 6/9/13 *[[Triple Scoop]]*.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.608175565870609.1073741848.100000345135257&type=3) by [[Claudio Fox]] that includes their 6/29/13 performance in *[[The Triple Scoop]]*.
-** [Another photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-29-Triple-Scoop/) by [[Chad Wellington]] that includes the same show.
+	* [Another photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-29-Triple-Scoop/) by [[Chad Wellington]] that includes the same show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.630965533591612.1073741859.100000345135257&type=3) by [[Claudio Fox]] that includes their 9/7/13 performance in *[[The Triple Scoop]]*.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.649123725109126.1073741866.100000345135257&type=3) by [[Claudio Fox]] that includes their 10/5/13 performance in *[[The Triple Scoop]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3) by [[Michael Yew]] which includes their 10/26/13 performance in *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.

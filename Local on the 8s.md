@@ -1,1 +1,1 @@
-# REDIRECT [[Local on the Eights]]
+1. REDIRECT [[Local on the Eights]]

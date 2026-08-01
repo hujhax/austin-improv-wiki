@@ -1,1 +1,1 @@
-# REDIRECT [[R. Lance Hunter]]
+1. REDIRECT [[R. Lance Hunter]]

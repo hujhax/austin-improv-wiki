@@ -1,1 +1,1 @@
-# REDIRECT [[The Bloody Balloon Battle]]
+1. REDIRECT [[The Bloody Balloon Battle]]

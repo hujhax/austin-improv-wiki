@@ -1,1 +1,1 @@
-# REDIRECT [[The Black Vault#Tales from the Black Vault]]
+1. REDIRECT [[The Black Vault#Tales from the Black Vault]]

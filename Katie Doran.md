@@ -38,8 +38,8 @@
 * Rain
 
 ## Mainstage Shows
-** The Hideout: *[[Camp Madeupponaspotta]]*
-** ColdTowne: *[[It's Saturday Night!]]*, *[[America -  Have it Your Way]]*, *[[Martini Ranch -  Hidden Valley]]* 
+	* The Hideout: *[[Camp Madeupponaspotta]]*
+	* ColdTowne: *[[It's Saturday Night!]]*, *[[America -  Have it Your Way]]*, *[[Martini Ranch -  Hidden Valley]]* 
 
 ## Festivals
 BettyFest (JK & Femmes of Martini Ranch),

@@ -1,1 +1,1 @@
-# REDIRECT [[Dusk]]
+1. REDIRECT [[Dusk]]

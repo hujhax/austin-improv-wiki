@@ -1,1 +1,1 @@
-# REDIRECT [[Monks' Night Out]]
+1. REDIRECT [[Monks' Night Out]]

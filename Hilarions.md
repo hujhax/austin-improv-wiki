@@ -1,1 +1,1 @@
-# REDIRECT [[The Hilarions]]
+1. REDIRECT [[The Hilarions]]

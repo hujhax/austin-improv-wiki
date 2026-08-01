@@ -1,1 +1,1 @@
-# REDIRECT [[The New Movement Theater]]
+1. REDIRECT [[The New Movement Theater]]

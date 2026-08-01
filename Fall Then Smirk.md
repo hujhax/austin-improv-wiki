@@ -79,7 +79,7 @@ The troupe was set up to be an analog to [[The Frank Mills]] ("Fall Then Smirk" 
 * [[Brett Tribe]] as [[Dave Buckman]]
 * [[Kate Bojanek]] as [[Rachel Madorsky]]
 * [[Sam Malcolm]] as [[Bob McNichol]]
-** (Sam was unable to make it to the show.)
+	* (Sam was unable to make it to the show.)
 
 ## History
 They played one Cagematch on 5/21/11.

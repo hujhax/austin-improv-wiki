@@ -1,1 +1,1 @@
-# REDIRECT [[Confidence Men]]
+1. REDIRECT [[Confidence Men]]

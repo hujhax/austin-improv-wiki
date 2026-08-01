@@ -204,70 +204,70 @@ All June 2012 shows were hosted by [[Jordan T. Maxwell]].  The 1/25/13 show was 
 
 ### 6/15/12 Performance
 * Improv players:
-** [[Courtney DeAngelo]]
-** [[Heidi Rogers]]
-** [[Jason Vines]]
-** [[Kristin Firth]]
-** [[Peter Rogers]]
-** [[Sarah Swofford]]
+	* [[Courtney DeAngelo]]
+	* [[Heidi Rogers]]
+	* [[Jason Vines]]
+	* [[Kristin Firth]]
+	* [[Peter Rogers]]
+	* [[Sarah Swofford]]
 * Sketch players:
-** [[Alex Kingston]]
-** [[Heath Allyn]]
-** [[Mitchell Deane]]
+	* [[Alex Kingston]]
+	* [[Heath Allyn]]
+	* [[Mitchell Deane]]
 
 ### 6/22/12 Performance
 * Improv players:
-** [[Chad Wellington]]
-** [[Chelley Pyatt]]
-** [[Courtney DeAngelo]]
-** [[David Higgins]]
-** [[Kristin Firth]]
+	* [[Chad Wellington]]
+	* [[Chelley Pyatt]]
+	* [[Courtney DeAngelo]]
+	* [[David Higgins]]
+	* [[Kristin Firth]]
 * Sketch players:
-** [[Alex Kingston]]
-** [[Mitchell Deane]]
-** [[Heath Allyn]]
+	* [[Alex Kingston]]
+	* [[Mitchell Deane]]
+	* [[Heath Allyn]]
 
 ### 6/29/12 Performance
 * Improv players:
-** [[Courtney DeAngelo]]
-** [[David Higgins]]
-** [[Jeremy Logan]]
-** [[Kristin Firth]]
-** [[Tyler Bryce]]
+	* [[Courtney DeAngelo]]
+	* [[David Higgins]]
+	* [[Jeremy Logan]]
+	* [[Kristin Firth]]
+	* [[Tyler Bryce]]
 * Sketch players:
-** [[Adam Mengesha]]
-** [[Alexa Ramirez]]
-** [[Asaf Ronen]]
-** [[Chelley Pyatt]]
-** [[Cindy Page]]
-** [[David Zimmerman]]
-** [[Heath Allyn]]
-** [[Jeremy Logan]]
-** [[Kristin Firth]]
-** [[Peter Rogers]]
-** [[Sarah Swofford]]
+	* [[Adam Mengesha]]
+	* [[Alexa Ramirez]]
+	* [[Asaf Ronen]]
+	* [[Chelley Pyatt]]
+	* [[Cindy Page]]
+	* [[David Zimmerman]]
+	* [[Heath Allyn]]
+	* [[Jeremy Logan]]
+	* [[Kristin Firth]]
+	* [[Peter Rogers]]
+	* [[Sarah Swofford]]
 
 ### 1/25/13 Performance
 * *[[Live TV Tuesdays -  Firefly|Firefly]]* players:
-** [[Adam Mengesha]]
-** [[Alexa Ramirez]]
-** [[Ammie Nicole Leonards]]
-** [[Heath Allyn]]
-** [[Jason Vines]]
-** [[Lindsey Reeves]]
-** [[Peter Rogers]]
-** [[Sarah Swofford]]
+	* [[Adam Mengesha]]
+	* [[Alexa Ramirez]]
+	* [[Ammie Nicole Leonards]]
+	* [[Heath Allyn]]
+	* [[Jason Vines]]
+	* [[Lindsey Reeves]]
+	* [[Peter Rogers]]
+	* [[Sarah Swofford]]
 * *[[Fandom]]* players:
-** [[Aaron Saenz]]
-** [[Bridget Brewer]]
-** [[Eric Heiberg]]
-** [[James Leary]] (guest)
-*** N.B.: [Mr. Leary](http://buffy.wikia.com/wiki/James_Charles_Leary) played [Clem](http://buffy.wikia.com/wiki/Clement) on *Buffy*.
-** [[Jordan T. Maxwell]]
-** [[Marc Majcher]]
-** [[Meghan Wolff]] (guest)
-** [[Peter Rogers]]
-** [[Sarah Marie Curry]] (guest)
+	* [[Aaron Saenz]]
+	* [[Bridget Brewer]]
+	* [[Eric Heiberg]]
+	* [[James Leary]] (guest)
+		* N.B.: [Mr. Leary](http://buffy.wikia.com/wiki/James_Charles_Leary) played [Clem](http://buffy.wikia.com/wiki/Clement) on *Buffy*.
+	* [[Jordan T. Maxwell]]
+	* [[Marc Majcher]]
+	* [[Meghan Wolff]] (guest)
+	* [[Peter Rogers]]
+	* [[Sarah Marie Curry]] (guest)
 
 ## Media
 ### Videos of Sketches

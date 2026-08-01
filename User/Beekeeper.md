@@ -1,1 +1,1 @@
-# REDIRECT [[Topping Haggerty]]
+1. REDIRECT [[Topping Haggerty]]

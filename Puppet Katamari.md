@@ -98,6 +98,6 @@ The show included pre-filmed shorts, improv games, and a narrative set in an und
 
 ## More Information
 * [Show announcements](http://forum.austinimprov.com/viewtopic.php?p=111588) on [[The Austin Improv Forums]].
-** [Thread featuring the trailer.](http://forum.austinimprov.com/viewtopic.php?p=110950)
-** [Casting call](http://forum.austinimprov.com/viewtopic.php?p=109188) and [tech call](http://forum.austinimprov.com/viewtopic.php?t=12131) for the show.
+	* [Thread featuring the trailer.](http://forum.austinimprov.com/viewtopic.php?p=110950)
+	* [Casting call](http://forum.austinimprov.com/viewtopic.php?p=109188) and [tech call](http://forum.austinimprov.com/viewtopic.php?t=12131) for the show.
 * [The show's web page.](http://puppetimprovproject.org/puppet-katamari.html)

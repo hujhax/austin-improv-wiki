@@ -1,1 +1,1 @@
-# REDIRECT [[Band of Liars]]
+1. REDIRECT [[Band of Liars]]

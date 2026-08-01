@@ -1,1 +1,1 @@
-# REDIRECT [[Golden Age]]
+1. REDIRECT [[Golden Age]]

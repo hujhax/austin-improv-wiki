@@ -1,1 +1,1 @@
-# REDIRECT [[Merlin Works Graduation Shows]]
+1. REDIRECT [[Merlin Works Graduation Shows]]

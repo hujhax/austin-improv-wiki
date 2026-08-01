@@ -1,1 +1,1 @@
-# REDIRECT [[The Jam]]
+1. REDIRECT [[The Jam]]

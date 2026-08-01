@@ -1,1 +1,1 @@
-# REDIRECT [[Salvage Vanguard Theater]]
+1. REDIRECT [[Salvage Vanguard Theater]]

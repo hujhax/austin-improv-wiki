@@ -61,50 +61,50 @@ He is also a musician and has played for [[I Love You So Much]] with the band [[
 
 ## Festivals
 * The Alaska State Improv Festival 2014 (Juneau, AK)
-** With [[The Black Vault]]
-** With [[Indigo Shift]]
+	* With [[The Black Vault]]
+	* With [[Indigo Shift]]
 
 * [[The 2012 Out of Bounds Comedy Festival]]
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * [[The 2013 Out of Bounds Comedy Festival]]
-** With [[In Our Prime]]
-** With [[The Seven Eight Sevens]]
+	* With [[In Our Prime]]
+	* With [[The Seven Eight Sevens]]
 
 * Dallas Comedy Festival 2013 (Dallas)
-** With [[The Seven Eight Sevens]]
+	* With [[The Seven Eight Sevens]]
 
 * District Improv Festival 2013 (Washington, DC)
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * Improvaganza 2012 (Honolulu, HI)
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * Improv Festival Oklahoma 2012 (Norman, OK)
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * Improv Festival Oklahoma 2013 (Norman, OK)
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * Improv Festival Oklahoma 2014 (Norman, OK)
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * [[The 2013 Improvised Play Festival]]
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * [[The 2014 Improvised Play Festival]]
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * The 2014 Unscripted Festival (New York, New York)
 
 * [[WaffleFest]] 2012
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * [[WaffleFest]] 2013
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 * [[WaffleFest]] 2014
-** With [[In Our Prime]]
+	* With [[In Our Prime]]
 
 ## More Information
 * [An 8/29/11 post from Ryan about zen and improv.](http://www.hideouttheatre.com/zen-and-improv-fingers-pointing-at-the-moon) 

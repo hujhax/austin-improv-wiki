@@ -1,1 +1,1 @@
-# REDIRECT [[Parallelogramophonograph#Reverend Goodman.E2.80.99s Cure-All Elixir Traveling Revue]]
+1. REDIRECT [[Parallelogramophonograph#Reverend Goodman.E2.80.99s Cure-All Elixir Traveling Revue]]

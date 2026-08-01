@@ -1,1 +1,1 @@
-# REDIRECT [[G.O.O.F.S]]
+1. REDIRECT [[G.O.O.F.S]]

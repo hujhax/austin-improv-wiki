@@ -152,7 +152,7 @@ In 2014, The Starborn was selected to perform two shows in the Out Of Bounds Com
 * [Video of their OOB show at The Hideout Theatre](https://vimeo.com/108298992) from 8/27/2014
 * [Video of their TheatreSports bout vs The Fitzgeralds](https://vimeo.com/99104898) from 05/31/2014.
 * [Video of their 8th performance](https://vimeo.com/97889203) from 05/09/2014.
-** [Another video](http://vimeo.com/97880422) of the same show.
+	* [Another video](http://vimeo.com/97880422) of the same show.
 * [Video of their 7th performance](https://vimeo.com/88495374) from 02/27/2014.
 * [Video of their 6th performance](https://vimeo.com/87466815) from 02/20/2014.
 * [Video of their 5th performance](http://vimeo.com/86862036) from 02/13/2014.
@@ -160,7 +160,7 @@ In 2014, The Starborn was selected to perform two shows in the Out Of Bounds Com
 * [Video of their 3rd performance](http://vimeo.com/79608023) from 11/15/2013.
 * [Video of their 2nd performance](http://vimeo.com/77375209) from 10/17/2013.
 * [Video of their 1st performance](http://vimeo.com/58856305) from the 1/31/13 [[Free Fringe]].
-** [Another video](http://vimeo.com/58798063) by [[Peter Rogers]] of the same show.
+	* [Another video](http://vimeo.com/58798063) by [[Peter Rogers]] of the same show.
 
 ### Press Blurb
 The Starborn is an improvised, interactive alien invasion. The playful and devious alien twins (played by Mia Iseman and Ryan Austin) land on Earth to toy with the humans in the audience before they destroy them for good.

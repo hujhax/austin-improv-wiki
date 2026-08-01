@@ -1,1 +1,1 @@
-# REDIRECT [[The Monday Night Mash]]
+1. REDIRECT [[The Monday Night Mash]]

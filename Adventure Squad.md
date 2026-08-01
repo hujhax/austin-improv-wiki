@@ -1,1 +1,1 @@
-# REDIRECT [[Adventure Squad!]]
+1. REDIRECT [[Adventure Squad!]]

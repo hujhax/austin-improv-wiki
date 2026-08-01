@@ -250,7 +250,7 @@ The show is returning in 2016 as a Hideout mainstage show.
 * [Photoset of the 3/31/12 show](http://www.facebook.com/media/set/?set=a.329076013822588.80828.221927764537414&type=3) ("Middle School") by [[Steve Rogers]].
 * [Photoset of the 4/15/12 show](http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3) ("My Heart Doth Bleed Gold") by [[Roy Moore]].
 * [Photoset](http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1) by [[Anna Lattka]] of the 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
-** Note that this photoset is locked to Anna's friends.
+	* Note that this photoset is locked to Anna's friends.
 
 ### Other
 * Photos of [[Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set/process-set.jpg?disposition=download ], [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set-actors/process-set-actors.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/kaci-kareem-sword-fight/kaci-kareem-sword-fight.jpg?disposition=download).

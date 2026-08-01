@@ -1,1 +1,1 @@
-# REDIRECT [[The Devil and Halyn Erickson]]
+1. REDIRECT [[The Devil and Halyn Erickson]]

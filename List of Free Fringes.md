@@ -13,7 +13,7 @@ Headliners
 
 #### Media
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589661327265.439822.588952264&type=3) by [[Peter Rogers]] of the "Drag" show.
-** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their encore performance on 11/8/12 in [[WaffleFest 2012]].
+	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their encore performance on 11/8/12 in [[WaffleFest 2012]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3) by [[Michael Yew]] that includes all sets.
 
 ### Jan 12, 2012
@@ -802,7 +802,7 @@ Headliners
 #### Media
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200173474242320.1073741840.1315383518&type=3) by [[Michael Yew]] of the show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.615026598518839.1073741853.100000345135257&type=3) by [[Claudio Fox]] of "Ceej and Arthur Hate the Paparazzi".
-** [Another photoset](http://cwcreations.smugmug.com/Improv-2013/Hideout/2013-07-18-Paparazzi/) by [[Chad Wellington]] of the same show.
+	* [Another photoset](http://cwcreations.smugmug.com/Improv-2013/Hideout/2013-07-18-Paparazzi/) by [[Chad Wellington]] of the same show.
 
 ### July 25, 2013
 #### Exquisite Corpse
@@ -874,7 +874,7 @@ Headliners
 
 #### Media
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Free-Fringe/2013-08-22-Tom-Waits-Fringe/) by [[Chad Wellington]] of "Diesel Dreams and a Cup of Joe: Improvised Tom Waits"
-** [Video](http://vimeo.com/73637706) by [[Brad Hawkins]] of the same show.
+	* [Video](http://vimeo.com/73637706) by [[Brad Hawkins]] of the same show.
 
 ### September 5, 2013
 #### Shatner! ([[Cortney DeAngelo]])
@@ -1372,9 +1372,9 @@ Headliners
 #### Media
 * Photosets by [[Peter Rogers]]: ["Synesthesia"](http://www.facebook.com/hujhax/media_set?set=a.10152609197312265.1073741850.588952264&type=3), ["Celebrity Improv 101"](http://www.facebook.com/hujhax/media_set?set=a.10152609200917265.1073741851.588952264&type=3), [Jessica & Sam](http://www.facebook.com/hujhax/media_set?set=a.10152609216697265.1073741852.588952264&type=3)
 * Videos by [[Peter Rogers]]:
-** [Video](http://vimeo.com/100491197) of "Synesthesia".
-** [Video](http://vimeo.com/100593128) of "Celebrity Improv 101".
-** [Video](http://vimeo.com/100619377) "Jessica & Sam".
+	* [Video](http://vimeo.com/100491197) of "Synesthesia".
+	* [Video](http://vimeo.com/100593128) of "Celebrity Improv 101".
+	* [Video](http://vimeo.com/100619377) "Jessica & Sam".
 
 ### July 17, 2014 (the 113th show)
 #### Speed Dating with [[Brett Tribe]] ([[Cortney DeAngelo]])

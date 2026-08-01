@@ -94,30 +94,30 @@ Recurring features include the "Ranter's Corner", where a guest speaker delivers
 The show initially ran Fridays at 8pm at [[The Institution Theater]] during September 2013:
 
 * 9/6/13: "Spacing Out" (the cosmos)
-** Cast: [[Valerie Ward]], [[Mia Iseman]], [[John Ratliff]]
-** Guests: [[Mary Jo Pehl]], [[Kareem Badr]]
-** Guest Ranter: [[Andrew Buck]]
+	* Cast: [[Valerie Ward]], [[Mia Iseman]], [[John Ratliff]]
+	* Guests: [[Mary Jo Pehl]], [[Kareem Badr]]
+	* Guest Ranter: [[Andrew Buck]]
 
 * 9/13/13: "The Devil's Tongue" (the English language)
-** Cast: [[Aaron Saenz]], [[Valerie Ward]], [[John Ratliff]], [[Peter Rogers]]
-** Guest: [[Robert Faires]]
-** Guest Ranter: [[Maggie Maye]]
+	* Cast: [[Aaron Saenz]], [[Valerie Ward]], [[John Ratliff]], [[Peter Rogers]]
+	* Guest: [[Robert Faires]]
+	* Guest Ranter: [[Maggie Maye]]
 
 * 9/20/13: "Political Relations" (odd political connections and scenarios)
-** Cast: [[Aaron Saenz]], [[Mia Iseman]], [[John Ratliff]]
-** Guests: [[Suzy Spencer]], [[Tom Booker]]
-** Guest Ranter: [[Asaf Ronen]]
+	* Cast: [[Aaron Saenz]], [[Mia Iseman]], [[John Ratliff]]
+	* Guests: [[Suzy Spencer]], [[Tom Booker]]
+	* Guest Ranter: [[Asaf Ronen]]
 
 * 9/27/13: "Not-So-Great Expectations" (one-hit wonders, failed ideas, and surprising/accidental successes)
-** Cast: [[Aaron Saenz]], [[Mia Iseman]], [[John Ratliff]], [[Peter Rogers]]
-** Guests: [[Robert Faires]]
-** Guest Ranter: [[Brett Tribe]]
+	* Cast: [[Aaron Saenz]], [[Mia Iseman]], [[John Ratliff]], [[Peter Rogers]]
+	* Guests: [[Robert Faires]]
+	* Guest Ranter: [[Brett Tribe]]
 
 ### Subsequent Run
 The show was revived for shows on 7/25/14 and 8/22/14 at [[The Hideout Theatre]] as a temporary part of *[[The Wheel]]*.
 
 * 7/25/14: "You Think You're So In Love" (courtship in different societies, animal mating rituals, and romantic and sexual art)
-** Cast: [[Aaron Saenz]], [[Ben Masten]], [[Mary Jo Pehl]], [[Peter Rogers]]
+	* Cast: [[Aaron Saenz]], [[Ben Masten]], [[Mary Jo Pehl]], [[Peter Rogers]]
 
 ## Media
 ### Videos

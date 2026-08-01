@@ -1,1 +1,1 @@
-# REDIRECT [[The Starter Kit]]
+1. REDIRECT [[The Starter Kit]]

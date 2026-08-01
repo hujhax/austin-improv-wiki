@@ -1,1 +1,1 @@
-# REDIRECT [[Merlin Works Second Sundays]]
+1. REDIRECT [[Merlin Works Second Sundays]]

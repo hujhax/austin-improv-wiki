@@ -1,1 +1,1 @@
-# REDIRECT [[Template/List of Hideout Theatre Shows|Template:List of Hideout Theatre Shows]]
+1. REDIRECT [[Template/List of Hideout Theatre Shows|Template:List of Hideout Theatre Shows]]

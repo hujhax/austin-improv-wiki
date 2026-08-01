@@ -100,13 +100,13 @@ A post from her about the first improv show she ever saw:<blockquote><p>A stand-
 * [[Live TV Tuesdays -  Angel]] (assistant director)
 * *[[Lola]]* (tech, sound design)
 * [[Puppet Improv Project]] productions:
-** *[[Crack]]*
-** *[[Elf Employment]]*
-** *[[Off the Reef]]*
-** *[[Puppet Fever]]*
-** *[[Puppet Katamari]]*
-** *[[Trash]]*
-** *[[Wild West Puppets]]*
+	* *[[Crack]]*
+	* *[[Elf Employment]]*
+	* *[[Off the Reef]]*
+	* *[[Puppet Fever]]*
+	* *[[Puppet Katamari]]*
+	* *[[Trash]]*
+	* *[[Wild West Puppets]]*
 * *[[Seance]]*
 [[Category/Performers|Farr]]
 [[Category/Techs|Farr]]

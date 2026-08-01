@@ -1,1 +1,1 @@
-# REDIRECT [[Big Beautiful Warriors]]
+1. REDIRECT [[Big Beautiful Warriors]]

@@ -1,1 +1,1 @@
-# REDIRECT [[ColdTowne Student Troupes]]
+1. REDIRECT [[ColdTowne Student Troupes]]

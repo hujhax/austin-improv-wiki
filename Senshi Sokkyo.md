@@ -77,7 +77,7 @@
 * [Photoset](http://www.facebook.com/media/set/?set=a.232198840176973.61076.221927764537414&type=3) by [[Steve Rogers]] of their 10/28/11 show at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.276446039085586.69935.221927764537414&type=3) by [[Steve Rogers]] of their 1/14/12 show at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150665277457265.450840.588952264&type=3) by [[Peter Rogers]] of their 2/4/12 show at *[[The Saturday Night Special]]*.
-** [Photoset](http://www.facebook.com/media/set/?set=a.877397692323748.1073742137.221927764537414&type=3) by [[Steve Rogers]] of the same show.
+	* [Photoset](http://www.facebook.com/media/set/?set=a.877397692323748.1073742137.221927764537414&type=3) by [[Steve Rogers]] of the same show.
 
 ### Publicity
 * [Publicity photos](http://www.facebook.com/media/set/?set=a.230068303723360.60516.221927764537414&type=3) by [[Steve Rogers]].

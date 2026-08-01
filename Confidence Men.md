@@ -87,11 +87,11 @@ This is their bio from their web site:
 * [Video of their 6/4/09 show.](http://www.viddler.com/explore/troyamiller/videos/9/) ("Loading Dock")
 * [Video of their 6/9/09 show.](http://vimeo.com/5614691) ("Airport Bar")
 * [Video of their 7/16/09 show.](http://www.viddler.com/explore/troyamiller/videos/3/) ("Greenhouse")
-** [Part 2 of the video.](http://www.viddler.com/v/9d4a33e7)
+	* [Part 2 of the video.](http://www.viddler.com/v/9d4a33e7)
 * [Video of their 7/17/09 show.](http://www.viddler.com/explore/troyamiller/videos/5/) ("Conservatory")
 * [Video of their 7/31/09 show.](http://www.viddler.com/explore/troyamiller/videos/10/) ("Diner")
 * [Video of their 9/3/09 show.](http://www.viddler.com/explore/troyamiller/videos/6/) ("Aquarium")
-** [Part 2 of the video.](http://www.viddler.com/v/2590a790)
+	* [Part 2 of the video.](http://www.viddler.com/v/2590a790)
 * [Video of their 11/20/09 show.](http://www.viddler.com/explore/troyamiller/videos/14/) ("Monastery")
 * [Video of their 1/28/2010 show.](http://www.viddler.com/v/aa8c6d9d) ("Deck of a Cruise Ship")
 * [Video of their 2/18/2010 show.](http://www.viddler.com/explore/troyamiller/videos/64/) ("Submarine")
@@ -101,7 +101,7 @@ This is their bio from their web site:
 * [Video of their 4/1/2010 show.](http://www.viddler.com/explore/troyamiller/videos/49/) ("Train Station")
 * [Video of their 4/8/2010 show.](http://www.viddler.com/explore/troyamiller/videos/59/) ("Movie Set")
 * [Video of their 6/3/2010 show.](http://www.viddler.com/explore/troyamiller/videos/71/) ("Bar Mitzvah")
-** [Video of 'lottery scenes' from that same show.](http://www.viddler.com/v/2a3e01c8)
+	* [Video of 'lottery scenes' from that same show.](http://www.viddler.com/v/2a3e01c8)
 * [Video of their 6/24/2010 show.](http://www.viddler.com/v/aa8c6d9d) ("Area 51")
 * [Video of their 7/23/2010 show.](http://www.viddler.com/explore/troyamiller/videos/74/) ("Men's Empowerment Workshop")
 * [Video of their 7/24/2010 show.](http://www.viddler.com/explore/exquisitezombie/videos/2/) ("Niagara Falls")
@@ -120,7 +120,7 @@ This is their bio from their web site:
 * [Video of their 3/9/12 show.](http://www.viddler.com/v/b2981ce2) ("The Daily Planet")
 * Videos of their 3/31/12 "Mamet Goes to the Movies" performance: ["The Cake Variations"](http://vimeo.com/39723699); [*Star Wars*](http://vimeo.com/39687688)
 * [Video of their performance](http://vimeo.com/40901517) in [[The 2012 Improvised Play Festival]] by [[Kristin Firth]]. ("The Great Pyramid")
-** [Another video of the same show](http://www.viddler.com/v/2a1b2ab3) by [[Michael Ferstenfeld]].
+	* [Another video of the same show](http://www.viddler.com/v/2a1b2ab3) by [[Michael Ferstenfeld]].
 * [Video of their 9/28/12 show.](http://www.viddler.com/v/73560641) ("Rivendell")
 * [Video of their 9/29/12 show.](http://www.viddler.com/v/8310310b) ("Sesame Street")
 * [Video of their 2/16/13 show.](http://www.viddler.com/v/2a1b2ab3) ("Jury Duty")
@@ -138,14 +138,14 @@ This is their bio from their web site:
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] of their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 7/23/10 performance at *[[The Spectacle]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3) by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
-** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
+	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3) by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
-** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] of the same performance.
+	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] of the same performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 9/24/10 performance in *[[The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/2/10 performance at the [[Hyde Park Theater]].
 * [Photoset](https://www.facebook.com/MadelineChauvin/media_set?set=a.10100748440466180.3190128.7944448&type=3) by [[Jo Chauvin]] of their 4/29/11 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1719096989138.2081992.1589679282&type=3) by [[Roy Moore]] of their 6/14/11 "Two Year Anniversary" show.
-** [Photoset](https://www.facebook.com/MadelineChauvin/media_set?set=a.10100845194265790.3215678.7944448&type=3) by [[Jo Chauvin]] of the same show.
+	* [Photoset](https://www.facebook.com/MadelineChauvin/media_set?set=a.10100845194265790.3215678.7944448&type=3) by [[Jo Chauvin]] of the same show.
 * [[Photoset](http - --www.facebook.com-michael.yew-media setset=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[The 2011 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.190613261007361.45295.118587218209966&type=3) by [[Roy Moore]] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3) by [[Roy Moore]] that includes their 11/19/11 performance at [[WaffleFest]].
@@ -154,7 +154,7 @@ This is their bio from their web site:
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2848574976239.115505.1315383518&type=3) by [[Michael Yew]] of their 3/19/12 "Mamet Goes to the Movies" show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.303370379731648.68604.118587218209966&type=3) by [[Roy Moore]] of their 3/31/12 "Mamet Goes to the Movies" show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3) by [[Claudio Fox]] that includes their 4/1/12 performance in *[[The Weekender]]*.
-** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
+	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] of their 11/10/12 performance [[WaffleFest]].
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.340729629323893.83550.221927764537414&type=3) by [[Steve Rogers]] of their 4/14/12 show at [[The 2012 Improvised Play Festival]].
@@ -165,7 +165,7 @@ This is their bio from their web site:
 * [Photoset](http://www.facebook.com/media/set/?set=a.525065577556963.1073741857.221927764537414&type=3) by [[Steve Rogers]] of their 4/13/13 at [[The 2013 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4771818696130.1073741835.1315383518&type=3) by [[Michael Yew]] of their 5/18/13 show with special guest Joe Bill.
 * [Photoset](http://www.facebook.com/media/set/?set=a.530515880350429.1073741857.118587218209966&type=3) by [[Roy Moore]] of the 8/31/13 show at [[The 2013 Out of Bounds Comedy Festival]].
-** [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157635455662967/) by [[Ryan Criswell]] of the same show.
+	* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157635455662967/) by [[Ryan Criswell]] of the same show.
 * [Photoset](https://www.facebook.com/media/set/?set=a.644308972299289.1073741951.221927764537414&type=3) by [[Steve Rogers]] of their 100th show on 12/6/13.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202535417569427.1073741903.1315383518&type=3) by [[Michael Yew]] of their show at [[The 2014 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203012933787034.1073741915.1315383518&type=3) by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].

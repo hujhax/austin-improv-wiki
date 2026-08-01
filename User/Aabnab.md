@@ -1,1 +1,1 @@
-# REDIRECT [[Tyler Bryce]]
+1. REDIRECT [[Tyler Bryce]]

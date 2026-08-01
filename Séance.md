@@ -1,1 +1,1 @@
-# REDIRECT [[Seance]]
+1. REDIRECT [[Seance]]

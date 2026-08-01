@@ -1,1 +1,1 @@
-# REDIRECT [[Colin Thomas Bates]]
+1. REDIRECT [[Colin Thomas Bates]]

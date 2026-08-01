@@ -110,7 +110,7 @@ Junk performed its 100th show on 12/22/12.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.113369138744118.21579.100002130980897&type=3) by [[Steve Rogers]] of their 3/26/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/3/11 show in [[The 42-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.212738282128192.50688.118587218209966&type=3) by [[Roy Moore]] of their 10/22/11 performance in *[[The Saturday Night Special]]*.
-** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes the 10/22/11 performance.
+	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes the 10/22/11 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/10/12 performance at [[WaffleFest]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.465998583463663.112885.221927764537414&type=3) by [[Steve Rogers]] of their 100th show, on 12/22/12.

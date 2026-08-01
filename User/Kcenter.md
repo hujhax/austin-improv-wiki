@@ -1,1 +1,1 @@
-# REDIRECT [[Kathy Rose Center]]
+1. REDIRECT [[Kathy Rose Center]]

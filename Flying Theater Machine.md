@@ -218,7 +218,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [A 9/2/09 post about rehearsing their "Wonderland" format.](http://www.hideouttheatre.com/wonderland-is-looking-wonderful)
 * [A post about the show's first summer camp.](http://www.hideouttheatre.com/summer-camp)
 * [A post about the show](http://www.hideouttheatre.com/wow-theater-makes-a-difference) by [[Jessica Arjet]].
-** [A 12/13/10 video interview with Jessica about the show.](http://www.hideouttheatre.com/why-the-theater-machine-flies)
+	* [A 12/13/10 video interview with Jessica about the show.](http://www.hideouttheatre.com/why-the-theater-machine-flies)
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -198,22 +198,22 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 ### Other
 * [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download) of [[Kaci Beeler]]'s set design.
 * *Tales from the Black Vault* media:
-** [The podcast's demo episode.](http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival)
-** [Promo video](http://vimeo.com/110104860) for *[[The Free Fringe]]*.
-** [Promo video](http://vimeo.com/110448368) for [the kickstarter campaign](http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama).
-** Short cast interviews:
-*** [Interview](http://vimeo.com/112034604) with [[Paul Normandin]].
-*** [Interview](http://vimeo.com/112034692) with [[Jayme Ramsay]].
-*** [Interview](http://vimeo.com/112257992) with [[Justin Davis]].
-*** [Interview](http://vimeo.com/112363296) with [[Andreas Fabis]].
-*** [Interview](http://vimeo.com/112363297) with [[Marc Majcher]].
+	* [The podcast's demo episode.](http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival)
+	* [Promo video](http://vimeo.com/110104860) for *[[The Free Fringe]]*.
+	* [Promo video](http://vimeo.com/110448368) for [the kickstarter campaign](http://kickstarter.com/projects/majcher/tales-from-the-black-vault-a-lovecraft-radio-drama).
+	* Short cast interviews:
+		* [Interview](http://vimeo.com/112034604) with [[Paul Normandin]].
+		* [Interview](http://vimeo.com/112034692) with [[Jayme Ramsay]].
+		* [Interview](http://vimeo.com/112257992) with [[Justin Davis]].
+		* [Interview](http://vimeo.com/112363296) with [[Andreas Fabis]].
+		* [Interview](http://vimeo.com/112363297) with [[Marc Majcher]].
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/theblackvault)
 * [A blog post](http://www.hideouttheatre.com/the-creeping-laughter) by [[Roy Janik]] about the rehearsal process.
 * "The Shadow Out of Austin", an abortive collaborative story by the cast from September 2012:
-** [Chapter 1](http://www.hideouttheatre.com/the-shadow-out-of-austin), by [[Roy Janik]].
-** [Chapter 2](http://www.hideouttheatre.com/the-shadow-out-of-austin-chapter-2), by [[Jay Michael]].
+	* [Chapter 1](http://www.hideouttheatre.com/the-shadow-out-of-austin), by [[Roy Janik]].
+	* [Chapter 2](http://www.hideouttheatre.com/the-shadow-out-of-austin-chapter-2), by [[Jay Michael]].
 * [Interview](http://traffic.libsyn.com/thetheftforum/The_Black_Vault_-_Main_Stage_Focus.mp3) with director [[Marc Majcher]] and cast members [[Jessica Arjet]], [[Ryan Hill]], and [[Paul Normandin]] on *[[The Theft Forum]]*.
 * [Website for *Tales from the Black Vault*](http://blackvault.net/).
 

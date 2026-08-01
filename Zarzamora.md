@@ -1,1 +1,1 @@
-# redirect [[¡Zarzamora!]]
+1. redirect [[¡Zarzamora!]]

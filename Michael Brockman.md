@@ -141,11 +141,11 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 ## More Information
 * [Michael Brockman's blog.](http://www.perfectlyreasonabledreams.com)
 * A series of posts from Mr. Brockman about how to perform improvised accompaniment:
-** [Pt. 1 - Some Background](http://www.perfectlyreasonabledreams.com/?p=885) 
-** [Pt. 2 - Cues for You the Musician](http://www.perfectlyreasonabledreams.com/?p=903) 
-** [Pt. 2 - Revisited](http://www.perfectlyreasonabledreams.com/?p=1855)
-** [Pt. 3 - Cuing the Actors](http://www.perfectlyreasonabledreams.com/?p=991) 
-** [Pt. 4 Underscoring (and Iconic Music)](http://www.perfectlyreasonabledreams.com/?p=1018) 
+	* [Pt. 1 - Some Background](http://www.perfectlyreasonabledreams.com/?p=885) 
+	* [Pt. 2 - Cues for You the Musician](http://www.perfectlyreasonabledreams.com/?p=903) 
+	* [Pt. 2 - Revisited](http://www.perfectlyreasonabledreams.com/?p=1855)
+	* [Pt. 3 - Cuing the Actors](http://www.perfectlyreasonabledreams.com/?p=991) 
+	* [Pt. 4 Underscoring (and Iconic Music)](http://www.perfectlyreasonabledreams.com/?p=1018) 
 
 [[Category/Performers|Brockman]]
 [[Category/Teachers|Brockman]]

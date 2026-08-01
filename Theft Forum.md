@@ -1,1 +1,1 @@
-# REDIRECT [[The Theft Forum]]
+1. REDIRECT [[The Theft Forum]]

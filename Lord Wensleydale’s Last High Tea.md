@@ -1,1 +1,1 @@
-# REDIRECT [[Lord Wensleydale's Last High Tea]]
+1. REDIRECT [[Lord Wensleydale's Last High Tea]]

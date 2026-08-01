@@ -1,1 +1,1 @@
-# REDIRECT [[Greg Blank]]
+1. REDIRECT [[Greg Blank]]

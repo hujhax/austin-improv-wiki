@@ -128,7 +128,7 @@ Here is [[Zac Grantham]]'s explanation of the name's origin:<blockquote>We put a
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 1/6/12 performance at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.369516133069888.85770.100000345135257&type=3) by [[Claudio Fox]] of their 3/11/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their 8/28/12 performance in [[The 2012 Improvised Play Festival]].
-** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] of the same show.
+	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/8/12 performance at [[WaffleFest]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) that includes their 12/8/12 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3) by [[Michael Yew]] which includes their 2/1/13 performance in *[[The Spectacle]]*.
@@ -137,23 +137,23 @@ Here is [[Zac Grantham]]'s explanation of the name's origin:<blockquote>We put a
 
 ### Publicity
 * As part of their fundraiser for their trip to Improvaganza in 2012, the troupe recorded a series of mock PSAs from the "Beach Cops"
-** ["Trash and Dumping"](http://vimeo.com/45762135)
-** ["Lady Cops"](http://vimeo.com/45762134)
-** ["Dangers of the Tide"](http://vimeo.com/45762133)
-** ["Proper Eyewear"](http://vimeo.com/45762132)
-** ["The Sun"](http://vimeo.com/45761775)
-** ["Respect the Ocean"](http://vimeo.com/45761774)
+	* ["Trash and Dumping"](http://vimeo.com/45762135)
+	* ["Lady Cops"](http://vimeo.com/45762134)
+	* ["Dangers of the Tide"](http://vimeo.com/45762133)
+	* ["Proper Eyewear"](http://vimeo.com/45762132)
+	* ["The Sun"](http://vimeo.com/45761775)
+	* ["Respect the Ocean"](http://vimeo.com/45761774)
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/localgeniussociety)
 * [The troupe's home page.](http://localgeniussociety.wordpress.com/)
 * Posts about their Feb/Mar 2012 "Underground Improv" run at The Dive Bar.
-** [A 2/12/12 interview with the cast.](http://www.hideouttheatre.com/local-genius-society-interview-on-their-show-at-the-dive-bar)
-** [A 3/8/12 post](http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar) by [[Kayla Lane Freeman]] 
+	* [A 2/12/12 interview with the cast.](http://www.hideouttheatre.com/local-genius-society-interview-on-their-show-at-the-dive-bar)
+	* [A 3/8/12 post](http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar) by [[Kayla Lane Freeman]] 
 * "Ask Local Genius Society": interviews with cast members from December 2011:
-** [Interview](http://www.hideouttheatre.com/meet_andrew_pish) with [[Andrew Pish]].
-** [Interview](http://www.hideouttheatre.com/lgs-kayla) with [[Kayla Lane Freeman]].
-** [Interview](http://www.hideouttheatre.com/lgs-karen-jane-dewitt) with [[Karen Jane DeWitt]].
+	* [Interview](http://www.hideouttheatre.com/meet_andrew_pish) with [[Andrew Pish]].
+	* [Interview](http://www.hideouttheatre.com/lgs-kayla) with [[Kayla Lane Freeman]].
+	* [Interview](http://www.hideouttheatre.com/lgs-karen-jane-dewitt) with [[Karen Jane DeWitt]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

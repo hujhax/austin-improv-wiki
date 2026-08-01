@@ -1,1 +1,1 @@
-# REDIRECT [[Austin Comedy Hour]]
+1. REDIRECT [[Austin Comedy Hour]]

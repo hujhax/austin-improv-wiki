@@ -1,1 +1,1 @@
-# REDIRECT [[The Hideout Text Adventure-Source Code]]
+1. REDIRECT [[The Hideout Text Adventure-Source Code]]

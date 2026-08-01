@@ -1,1 +1,1 @@
-# REDIRECT [[Talk/Todd Hart|Talk:Todd Hart]]
+1. REDIRECT [[Talk/Todd Hart|Talk:Todd Hart]]

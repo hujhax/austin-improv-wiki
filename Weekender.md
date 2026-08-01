@@ -1,1 +1,1 @@
-# REDIRECT [[The Weekender]]
+1. REDIRECT [[The Weekender]]

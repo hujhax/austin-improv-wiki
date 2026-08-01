@@ -1,1 +1,1 @@
-# REDIRECT [[Brett Tribe]]
+1. REDIRECT [[Brett Tribe]]

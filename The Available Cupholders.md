@@ -1,1 +1,1 @@
-# REDIRECT [[Available Cupholders]]
+1. REDIRECT [[Available Cupholders]]

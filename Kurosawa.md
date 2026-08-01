@@ -1,1 +1,1 @@
-# REDIRECT [[Kenjutsu]]
+1. REDIRECT [[Kenjutsu]]

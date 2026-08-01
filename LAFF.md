@@ -1,1 +1,1 @@
-# REDIRECT [[The Ladies Are Funny Festival]]
+1. REDIRECT [[The Ladies Are Funny Festival]]

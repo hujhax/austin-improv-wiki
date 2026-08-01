@@ -159,7 +159,7 @@ The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 
 
 ### Photos
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.125071687573863.32003.100002130980897&type=3) by [[Steve Rogers]] of their 5/20/11 performance.
-** [Processed photos](http://www.facebook.com/SteveRogers1212/media_set?set=a.125209254226773.32100.100002130980897&type=3) from that same show.
+	* [Processed photos](http://www.facebook.com/SteveRogers1212/media_set?set=a.125209254226773.32100.100002130980897&type=3) from that same show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150274554572265.373081.588952264&type=3) by [[Peter Rogers]] of their 5/21/11 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1720672979394.85878.1315383518&type=3) by [[Michael Yew]] that includes their 5/27/11 performance at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282310382265.375437.588952264&type=3) by [[Peter Rogers]] of their 5/28/11 performance.

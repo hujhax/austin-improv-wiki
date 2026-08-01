@@ -1,1 +1,1 @@
-# REDIRECT [[Parallelogramophonograph#The Nutty Funsters]]
+1. REDIRECT [[Parallelogramophonograph#The Nutty Funsters]]

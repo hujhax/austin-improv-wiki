@@ -1,1 +1,1 @@
-# REDIRECT [[GrimmNoir]]
+1. REDIRECT [[GrimmNoir]]

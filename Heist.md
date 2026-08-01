@@ -1,1 +1,1 @@
-# REDIRECT [[Heist!]]
+1. REDIRECT [[Heist!]]

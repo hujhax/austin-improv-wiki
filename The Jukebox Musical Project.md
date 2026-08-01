@@ -323,8 +323,8 @@ The story of Annie Oakley and Calamity Jane as told through the music of [[Wikip
 
 ### Other
 * Promos for "Renaissance Queen":
-** [Video](http://vimeo.com/142341649) by [[Peter Rogers]].
-** [Video](http://www.facebook.com/groups/217905648309669/permalink/682285508538345/) by [[Tom Booker]].
+	* [Video](http://vimeo.com/142341649) by [[Peter Rogers]].
+	* [Video](http://www.facebook.com/groups/217905648309669/permalink/682285508538345/) by [[Tom Booker]].
 
 ## More Information
 * [The show's facebook page.](http://www.facebook.com/JukeboxBway)

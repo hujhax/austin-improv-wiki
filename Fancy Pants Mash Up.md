@@ -1,1 +1,1 @@
-# REDIRECT [[The Fancy-Pants Mashup]]
+1. REDIRECT [[The Fancy-Pants Mashup]]

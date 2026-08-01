@@ -1,1 +1,1 @@
-# REDIRECT [[The Trouble With Terry]]
+1. REDIRECT [[The Trouble With Terry]]

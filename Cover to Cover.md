@@ -151,10 +151,10 @@ After its mainstage run with Gnap!, *Cover to Cover* had a special benefit show 
 
 ## Media
 * [Publicity photos](http://www.facebook.com/media/set/?set=a.10150336363103311.351864.16782108310&type=1) by [[Steve Rogers]], with art by [[Courtney Hopkin]].
-** [Variant publicity photos.](http://www.facebook.com/media/set/?set=a.229147383815452.60321.221927764537414&type=3)
+	* [Variant publicity photos.](http://www.facebook.com/media/set/?set=a.229147383815452.60321.221927764537414&type=3)
 * [Photoset](http://www.facebook.com/media/set/?set=a.227557240641133.59929.221927764537414&type=3) by [[Steve Rogers]] of their 10/21/11 performance ("The Unknown Portrait").
 * [Photoset](http://www.facebook.com/media/set/?set=a.186346044779760.49438.100002130980897&type=1) by [[Steve Rogers]] of their 10/22/11 performance ("The Secret of Viking Cove").
-** [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2082665028969.99652.1315383518&type=3) by [[Michael Yew]].
+	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2082665028969.99652.1315383518&type=3) by [[Michael Yew]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.246832785380245.63918.221927764537414&type=3) by [[Steve Rogers]] of their 11/4/11 performance ("The Broken Locket").
 * [Photoset](http://www.facebook.com/media/set/?set=a.238045849592272.62449.221927764537414&type=3) by [[Steve Rogers]] of their 11/12/11 performance ("The Mystery at the Masquerade").
 * [Photoset](http://www.facebook.com/media/set/?set=a.410810295649159.99386.221927764537414&type=1) by [[Steve Rogers]] of their 11/19/11 performance.

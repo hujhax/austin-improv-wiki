@@ -1,1 +1,1 @@
-# REDIRECT [[7-10 Split]]
+1. REDIRECT [[7-10 Split]]

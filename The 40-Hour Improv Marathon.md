@@ -56,10 +56,10 @@
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129970797264.120563.588952264&type=3) by [[Peter Rogers]] of [[Northshore Local]] (Saturday 3am).
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129973482264.120564.588952264&type=3) by [[Peter Rogers]] of the Life Game (Saturday 5pm).
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620827646114/comments/) by [[Michael Yew]] of *[[Lola]]* (Saturday 6pm).
-** [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Peter Rogers]] of the same show.
+	* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Peter Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129977122264.120567.588952264&type=3) by [[Peter Rogers]] of *[[After School Improv]]* (Saturday 7pm).
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620822671488/) by [[Michael Yew]] of [[Improvised Shakespeare]] (Saturday 8pm).
-** [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129979382264.120568.588952264&type=3) by [[Peter Rogers]] of the same show. 
+	* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129979382264.120568.588952264&type=3) by [[Peter Rogers]] of the same show. 
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620748382275/) by [[Michael Yew]] of "Holy Sleep Deprivation, Batman!" (Saturday 9pm).
 * [Photoset](http://www.flickr.com/photos/pgraph/sets/72157620581563801/) from [[Parallelogramophonograph]] (Sunday 4am).
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129983882264.120571.588952264&type=3) by [[Peter Rogers]] of [[Junk]] (Sunday 6am).

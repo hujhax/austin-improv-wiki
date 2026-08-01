@@ -272,7 +272,7 @@ In December of 2016 it was decided to cancel TARANTULA. Sarah Marie Curry got al
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.10153128910947265.1073741865.588952264&type=3) by [[Peter Rogers]] of the January 2015 performance.
-** [Photoset](http://www.facebook.com/media/set/?set=a.764372576972589.1073741851.473177099425473&type=3) by [[Chad Wellington]] of the same show.
+	* [Photoset](http://www.facebook.com/media/set/?set=a.764372576972589.1073741851.473177099425473&type=3) by [[Chad Wellington]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.908052572591593.1073742156.221927764537414&type=3) by [[Steve Rogers]] of the February 2015 performance.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105999442206600.7909117&type=3) by [[Heidi Rogers]] of the March 2015 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203959461209628.1073741942.1315383518&type=3) by [[Michael Yew]] of the April 2015 performance.

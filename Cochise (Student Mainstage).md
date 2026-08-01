@@ -1,1 +1,1 @@
-# REDIRECT [[Cochise#Student Mainstage Run]]
+1. REDIRECT [[Cochise#Student Mainstage Run]]

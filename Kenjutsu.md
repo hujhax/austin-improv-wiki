@@ -206,7 +206,7 @@ It was featured on the April 18th, 2014 episode of the Yo, Is This Racist? podca
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811773275519826.1073741870.100000614831752&type=3) by [[Warren Henderson]] of a show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.704541889609330.1073741973.221927764537414&type=3) by [[Steve Rogers]] of the 3/22/14 show.
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152265500112107.1073741829.549002106&type=3) by [[Chris Curl]] of the 4/12/14 show.
-** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104425662753240.1073741862.7909117&type=3) by [[Heidi Rogers]] of the same show.
+	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104425662753240.1073741862.7909117&type=3) by [[Heidi Rogers]] of the same show.
 
 ## More Information
 * [Initial show announcement](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule) on the Hideout's web site.

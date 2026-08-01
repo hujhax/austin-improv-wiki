@@ -109,8 +109,8 @@ All of these performances were at The United States Art Authority at [[The Spide
 ## Media
 ### Videos
 * Scenes from "Jessie's Song": 
-** [Zack refuses to believe that Jessie has a problem.](http://www.facebook.com/photo.php?v=151344256261)
-** [Zack finds Jessie passed out on her bed.](http://www.facebook.com/photo.php?v=151272236261)
+	* [Zack refuses to believe that Jessie has a problem.](http://www.facebook.com/photo.php?v=151344256261)
+	* [Zack finds Jessie passed out on her bed.](http://www.facebook.com/photo.php?v=151272236261)
 
 ### Photos
 * [Publicity photos.](http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3)

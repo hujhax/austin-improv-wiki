@@ -1,1 +1,1 @@
-# REDIRECT [[The Threefer]]
+1. REDIRECT [[The Threefer]]

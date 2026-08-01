@@ -1,1 +1,1 @@
-# REDIRECT [[The Joss Whedon Pajama Party]]
+1. REDIRECT [[The Joss Whedon Pajama Party]]

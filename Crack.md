@@ -1,1 +1,1 @@
-# REDIRECT [[Crack!]]
+1. REDIRECT [[Crack!]]

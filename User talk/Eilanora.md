@@ -1,1 +1,1 @@
-# REDIRECT [[Talk/Lindsey McGowen|Talk:Lindsey McGowen]]
+1. REDIRECT [[Talk/Lindsey McGowen|Talk:Lindsey McGowen]]

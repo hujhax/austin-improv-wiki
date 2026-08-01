@@ -1,1 +1,1 @@
-# REDIRECT [[Andrew & Jeremy Hypnotize Each Other!]]
+1. REDIRECT [[Andrew & Jeremy Hypnotize Each Other!]]

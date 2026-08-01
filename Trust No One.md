@@ -165,7 +165,7 @@ In materials promoting this show, the Institution Theater's [[Wikipedia - View-M
 * [Photoset](http://www.facebook.com/media/set/?set=a.631796130222403.1073741875.118587218209966&type=3) by [[Roy Moore]] of the 4/14/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.730270493703136.1073741996.221927764537414&type=3) by [[Steve Rogers]] of the 5/9/14 show.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Warren Henderson]] that includes the 5/30/14 finale.
-** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104756360422460.1073741867.7909117&type=3) by [[Heidi Rogers]] of the same show.
+	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104756360422460.1073741867.7909117&type=3) by [[Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.792648634131988.1073742047.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]]
 
 ### Publicity

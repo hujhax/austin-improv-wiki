@@ -1,1 +1,1 @@
-# redirect [[Same Year's Eve]]
+1. redirect [[Same Year's Eve]]

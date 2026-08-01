@@ -1,1 +1,1 @@
-# REDIRECT [[Galactic]]
+1. REDIRECT [[Galactic]]

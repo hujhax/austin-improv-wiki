@@ -1,1 +1,1 @@
-# REDIRECT [[List of Austin Improv Troupes#Inactive]]
+1. REDIRECT [[List of Austin Improv Troupes#Inactive]]

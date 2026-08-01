@@ -1,1 +1,1 @@
-# REDIRECT [[The Tuesday Night Jam]]
+1. REDIRECT [[The Tuesday Night Jam]]

@@ -1,1 +1,1 @@
-# REDIRECT [[Megan and Quinn]]
+1. REDIRECT [[Megan and Quinn]]

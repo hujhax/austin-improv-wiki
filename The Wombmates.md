@@ -1,1 +1,1 @@
-# REDIRECT [[Wombmates]]
+1. REDIRECT [[Wombmates]]

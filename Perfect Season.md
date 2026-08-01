@@ -1,1 +1,1 @@
-# REDIRECT [[Mr. and Mrs. Danger]]
+1. REDIRECT [[Mr. and Mrs. Danger]]

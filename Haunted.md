@@ -143,7 +143,7 @@
 * 10/11/08
 * 10/25/08
 * 10/31/08
-** This show (and this show only) was part of *[[The Double Barrel]]* at [[The Hideout Theatre]].
+	* This show (and this show only) was part of *[[The Double Barrel]]* at [[The Hideout Theatre]].
 * 12/20/08
 
 [[Category/Shows|Category:Shows]]

@@ -1,1 +1,1 @@
-# REDIRECT [[Hitchcocked!]]
+1. REDIRECT [[Hitchcocked!]]

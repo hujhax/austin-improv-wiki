@@ -1,1 +1,1 @@
-# REDIRECT [[Camp Madeupponaspotta]]
+1. REDIRECT [[Camp Madeupponaspotta]]

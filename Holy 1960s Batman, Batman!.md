@@ -171,9 +171,9 @@ On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective ro
 * [Pictures from their live appearance on KEYE.](http://www.facebook.com/media/set/?set=a.1879506000571.105920.1628915954&type=3)
 * [Photoset](http://www.facebook.com/media/set/?set=a.123789247702107.31360.100002130980897&type=3) by [[Steve Rogers]] of the 5/14/11 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1909076659819.107287.1628915954&type=3) posted by [[Deano Jones]] of the 5/21/11 performance ("The Baguette").
-** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes a 5/21/11 cast photo.
+	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes a 5/21/11 cast photo.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes the 5/28/11 performance, featuring guest villain [[Tom Booker]] (as "The Toupee").
-** [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100853951601020.3219630.7944448&type=3) by [[Jo Chauvin]] of the same show.
+	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100853951601020.3219630.7944448&type=3) by [[Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/11/11 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/2/11 performance in [[The 2011 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3) posted by [[Deano Jones]] of their Black Box Festival performance in Atlanta
@@ -187,15 +187,15 @@ On 2/28/13, [[Eric Heiberg]] and [[Curtis Luciani]] reprised their respective ro
 ## More Information
 * [An interview](http://www.hideouttheatre.com/the-girl-who-plays-the-boy-wonder) with [[Kaci Beeler]] about playing Robin.
 * Interviews with 'guest villains' from May/June 2011:
-** [An interview](http://www.hideouttheatre.com/guest-villain-shannon-mccormick) with [[Shannon McCormick]].
-** [An interview](http://www.hideouttheatre.com/guest-villain-mike-kinald) with [[Mike Kinald]].
-** [An interview](http://www.hideouttheatre.com/guest-villain-asaf-ronen) with [[Asaf Ronen]].
-** [An interview](http://www.hideouttheatre.com/guest-villain-tom-booker) with [[Tom Booker]].
-** [An interview](http://www.hideouttheatre.com/guest-villain-shana-merlin) with [[Shana Merlin]].
-** [An interview](http://www.hideouttheatre.com/guest-villain-lauren-zinn) with [[Lauren Buck]].
-** [An interview](http://www.hideouttheatre.com/guest-villain-justin-davis) with [[Justin Davis]].
-** [An interview](http://www.hideouttheatre.com/guest-villain-kareem-badr) with [[Kareem Badr]].
-** [An interview](http://www.hideouttheatre.com/guest-villain-jason-vines) with [[Jason Vines]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-shannon-mccormick) with [[Shannon McCormick]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-mike-kinald) with [[Mike Kinald]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-asaf-ronen) with [[Asaf Ronen]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-tom-booker) with [[Tom Booker]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-shana-merlin) with [[Shana Merlin]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-lauren-zinn) with [[Lauren Buck]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-justin-davis) with [[Justin Davis]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-kareem-badr) with [[Kareem Badr]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-jason-vines) with [[Jason Vines]].
  
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

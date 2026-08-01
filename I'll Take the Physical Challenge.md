@@ -1,1 +1,1 @@
-# REDIRECT [[I'll Take the Physical Challenge!]]
+1. REDIRECT [[I'll Take the Physical Challenge!]]

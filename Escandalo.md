@@ -1,1 +1,1 @@
-# REDIRECT [[¡Escándalo!]]
+1. REDIRECT [[¡Escándalo!]]

@@ -1,1 +1,1 @@
-# REDIRECT [[Ball&Chain]]
+1. REDIRECT [[Ball&Chain]]

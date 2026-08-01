@@ -1,1 +1,1 @@
-# REDIRECT [[The 2012 Out of Bounds Comedy Festival]]
+1. REDIRECT [[The 2012 Out of Bounds Comedy Festival]]

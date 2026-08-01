@@ -1,1 +1,1 @@
-# REDIRECT [[The Polite Society]]
+1. REDIRECT [[The Polite Society]]

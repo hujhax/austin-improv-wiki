@@ -1,1 +1,1 @@
-# REDIRECT [[Epic]]
+1. REDIRECT [[Epic]]

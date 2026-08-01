@@ -1,1 +1,1 @@
-# REDIRECT [[Apocalypse! (show)]]
+1. REDIRECT [[Apocalypse! (show)]]

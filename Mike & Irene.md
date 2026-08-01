@@ -1,1 +1,1 @@
-# REDIRECT [[Mike and Irene]]
+1. REDIRECT [[Mike and Irene]]

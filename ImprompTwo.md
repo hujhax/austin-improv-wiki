@@ -40,10 +40,10 @@
 ## Media
 ### Videos
 * Videos of the 5/23/15 show:
-** [Video](http://vimeo.com/131850763) of [[JK]].
-** [Video](http://vimeo.com/131851909) of interstitial music from [[The Laylas]].
-** [Video](http://vimeo.com/131853278) of [[Sarah Marie Curry]] and [[Clifton Highfield]], sitting in for [[Cascade]].
+	* [Video](http://vimeo.com/131850763) of [[JK]].
+	* [Video](http://vimeo.com/131851909) of interstitial music from [[The Laylas]].
+	* [Video](http://vimeo.com/131853278) of [[Sarah Marie Curry]] and [[Clifton Highfield]], sitting in for [[Cascade]].
 * Videos of the 8/30/15 show:
-** [Video](http://vimeo.com/137809092) of [[Lindsey McGowen]] and [[Peter Rogers]] singing "Dance Me to the End of Love".
-** [Video](http://vimeo.com/137908715) of [[Lindsey McGowen]] and [[Tosin Awofeso]] singing "Manhattan".
-** [Video](http://vimeo.com/137908715) of [[Lindsey McGowen]] leading an a cappella improv game.
+	* [Video](http://vimeo.com/137809092) of [[Lindsey McGowen]] and [[Peter Rogers]] singing "Dance Me to the End of Love".
+	* [Video](http://vimeo.com/137908715) of [[Lindsey McGowen]] and [[Tosin Awofeso]] singing "Manhattan".
+	* [Video](http://vimeo.com/137908715) of [[Lindsey McGowen]] leading an a cappella improv game.

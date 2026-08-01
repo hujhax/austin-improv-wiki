@@ -2,7 +2,7 @@ The AIC Wiki follows the [[Wikipedia - Wikipedia - Manual of Style|Wikipedia Man
 
 ## Names and Titles
 * Each article should begin with the name of the page in **bold text**.
-** Example: "**Goat** is an improv troupe in Austin."
+	* Example: "**Goat** is an improv troupe in Austin."
 * Italicize show names. A show is something that plays many times.
 * Place individual, one-off show names in quotes.
 * Keep troupe names in a normal font, linked to the troupe page.
@@ -30,13 +30,13 @@ This would put the page (presumably for someone named Smith) into the Performers
 * If you wish to refer to a page using a non-canonical name, you can add it to the link as:
  <nowiki>[[The Out of Bounds Comedy Festival|OOB]]</nowiki>
 * When creating a page, try and keep in mind what non-canonical names might be used to search for that page. For examples, the troupe [[The Seven Eight Sevens]] might be referred to as:
-** The Seven Eight Sevens
-** Seven Eight Sevens
-** The 787s
-** 787s
-** 787's (although man would I hate to see an apostrophe abused like that)
-** The 787's
-** The 7-8-7s
-** etc.
+	* The Seven Eight Sevens
+	* Seven Eight Sevens
+	* The 787s
+	* 787s
+	* 787's (although man would I hate to see an apostrophe abused like that)
+	* The 787's
+	* The 7-8-7s
+	* etc.
 When creating your page, please create Redirect pages for each variant you can think of. In the abovementioned example, you could create a page called [[The 787s]] and its content would simply be:
  <nowiki>#redirect [[The Seven Eight Sevens]]</nowiki>

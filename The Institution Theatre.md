@@ -1,1 +1,1 @@
-# REDIRECT [[The Institution Theater]]
+1. REDIRECT [[The Institution Theater]]

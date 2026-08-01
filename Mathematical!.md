@@ -1,1 +1,1 @@
-# REDIRECT [[Mathematical]]
+1. REDIRECT [[Mathematical]]

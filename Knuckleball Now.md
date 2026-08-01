@@ -1,1 +1,1 @@
-# REDIRECT [[The Knuckleball Now]]
+1. REDIRECT [[The Knuckleball Now]]

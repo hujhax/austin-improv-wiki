@@ -187,7 +187,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [Video](http://vimeo.com/74079905) by [[Dave Alley]] of the Shock T's first show.
 * [Video](http://vimeo.com/75142719) by [[Dave Alley]] of the Shock T's second show.
 * [Video](http://vimeo.com/74561501) by [[Dave Alley]] of the Doubtful Guests show.
-** [Video](http://vimeo.com/76282619) of another Doubtful Guests show.
+	* [Video](http://vimeo.com/76282619) of another Doubtful Guests show.
 * [Video](http://vimeo.com/75369228) by [[Dave Alley]] of the Razowsky & Bernard show.
 * [Video](http://vimeo.com/75744067) by [[Dave Alley]] of the first Baby Wants Candy show.
 * [Video](http://vimeo.com/79299058) by [[Dave Alley]] of the second Baby Wants Candy show.

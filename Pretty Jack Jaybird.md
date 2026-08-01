@@ -1,1 +1,1 @@
-# REDIRECT [[Pretty Jack Jaybird]]
+1. REDIRECT [[Pretty Jack Jaybird]]

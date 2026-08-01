@@ -1,1 +1,1 @@
-# REDIRECT [[Gorilla Theater]]
+1. REDIRECT [[Gorilla Theater]]

@@ -98,8 +98,8 @@ The show included stage-blood effects and fight choreography.
 
 ### Other
 * Rehearsals: 
-** ["Beats only" rehearsal.](http://vimeo.com/71272460)
-** [Dress rehearsal.](http://vimeo.com/71273583)
+	* ["Beats only" rehearsal.](http://vimeo.com/71272460)
+	* [Dress rehearsal.](http://vimeo.com/71273583)
 * [Show promo.](http://vimeo.com/71849739)
 
 ## More Information

@@ -1,1 +1,1 @@
-# REDIRECT [[The Black Vault]]
+1. REDIRECT [[The Black Vault]]

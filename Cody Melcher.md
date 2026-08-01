@@ -37,6 +37,6 @@ He performed in [[The 2013 Out of Bounds Comedy Festival]] as a Stand-up act.
 * *[[Austin's Next Top Improviser]]* (2009)
 * *[[Flying Theater Machine]]*
 * [[Live TV Tuesdays]] shows with [[The Institution Theater]] at [[The Highball]]:
-** [[Live TV Tuesdays -  Dawson's Creek]] (2011)
-** [[Live TV Tuesdays -  John Hughes Summer School]] (2011)
-** [[Live TV Tuesdays -  Party of Five]] (2011)
+	* [[Live TV Tuesdays -  Dawson's Creek]] (2011)
+	* [[Live TV Tuesdays -  John Hughes Summer School]] (2011)
+	* [[Live TV Tuesdays -  Party of Five]] (2011)

@@ -23,7 +23,7 @@
 * The Sheriff goes for a shave and is served by the rattled barber.
 * Zeke Preston appears to the Sheriff in a vision and tells him to forgive himself for killing his best friend. He urges him to stop going down the path of violence before he kills someone innocent.
 * Hank tries to continue his flirtations with Celia. She tells him that she is pregnant by George and and shows the door to a confused and sad Hank.
-*  Fancy convinces Angelica to come east with her to join the suffragettes. She offers to take Clarinda, but she declines and decides to stay in Showdown.
+* Fancy convinces Angelica to come east with her to join the suffragettes. She offers to take Clarinda, but she declines and decides to stay in Showdown.
 * A man arrives in town with his cattle drive and delivers one of his ranch hands who got struck dead by lightning to the funeral parlor. His arrival is seen as a first sign of better times ahead and Miss Jessie takes him to the saloon while Fabian is left to tend to the corpse.
 * Clarinda offers Sheriff Solomon her services to ease his troubled mind. He offers to take her for a walk and show her his land instead.
 * The citizens of Showdown congregate at the Jones’ restaurant and following George’s example toast to better times ahead.

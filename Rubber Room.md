@@ -1,1 +1,1 @@
-# REDIRECT [[The Rubber Room]]
+1. REDIRECT [[The Rubber Room]]

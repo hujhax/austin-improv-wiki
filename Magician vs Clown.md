@@ -1,1 +1,1 @@
-# REDIRECT [[Magician vs. Clown]]
+1. REDIRECT [[Magician vs. Clown]]

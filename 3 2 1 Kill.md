@@ -1,1 +1,1 @@
-# REDIRECT [[3, 2, 1, Kill!]]
+1. REDIRECT [[3, 2, 1, Kill!]]

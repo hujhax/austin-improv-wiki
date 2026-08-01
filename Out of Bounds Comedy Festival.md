@@ -1,1 +1,1 @@
-# REDIRECT [[The Out of Bounds Comedy Festival]]
+1. REDIRECT [[The Out of Bounds Comedy Festival]]

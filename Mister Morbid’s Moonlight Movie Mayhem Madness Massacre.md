@@ -1,1 +1,1 @@
-# REDIRECT [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]
+1. REDIRECT [[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]

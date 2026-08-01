@@ -1,1 +1,1 @@
-# REDIRECT [[The Secret Life of Inanimate Objects]]
+1. REDIRECT [[The Secret Life of Inanimate Objects]]

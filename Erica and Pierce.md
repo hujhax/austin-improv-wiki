@@ -1,1 +1,1 @@
-# REDIRECT [[Lies Pierce]]
+1. REDIRECT [[Lies Pierce]]

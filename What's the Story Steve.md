@@ -1,1 +1,1 @@
-# REDIRECT [[What's the Story, Steve]]
+1. REDIRECT [[What's the Story, Steve]]

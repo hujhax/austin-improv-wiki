@@ -1,1 +1,1 @@
-# REDIRECT [[Waterpark]]
+1. REDIRECT [[Waterpark]]

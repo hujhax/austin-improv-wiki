@@ -1,1 +1,1 @@
-# REDIRECT [[Live TV Tuesdays -  Buffy]]
+1. REDIRECT [[Live TV Tuesdays -  Buffy]]

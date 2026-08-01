@@ -244,10 +244,10 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150423141857265.414132.588952264&type=3) by [[Peter Rogers]] of the 10/9/11 tech rehearsal.
 * [Photoset](http://www.facebook.com/media/set/?set=a.181560375258327.48331.100002130980897&type=1) by [[Steve Rogers]] of the 10/10/11 preview.
 * [Photoset](http://www.facebook.com/media/set/?set=a.216275195107834.51655.118587218209966&type=1) by [[Roy Moore]] of the 11/1/11 performance.
-** [Photoset](http://www.facebook.com/media/set/?set=a.10150351355658325.353816.608098324&type=1) by Marsha G. Mitchell of the same show.
+	* [Photoset](http://www.facebook.com/media/set/?set=a.10150351355658325.353816.608098324&type=1) by Marsha G. Mitchell of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] of the 11/8/11 performance at [[The Highball]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.246276032102587.63825.221927764537414&type=1) by [[Steve Rogers]] of the 11/22/11 performance.
-** [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150492012902265.426071.588952264&type=3) by [[Madeline Jo Chauvin]] of the same show.
+	* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150492012902265.426071.588952264&type=3) by [[Madeline Jo Chauvin]] of the same show.
 
 #### Other
 * [Photoset](http://www.facebook.com/media/set/?set=a.10150288659198621.344556.511938620&type=1) from [[Jordan T. Maxwell]] of rehearsal, publicity, and costume-test shots.

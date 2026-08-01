@@ -100,7 +100,7 @@
 * [[Michael Jastroch]] as Yepikhodov
 * [[Joel Osborne]] as Firs
 * [[Ben Schave]] as Pishchik
-** Mr. Schave stepped in for [[Brady James]], who had to bow out of the production just before opening night.
+	* Mr. Schave stepped in for [[Brady James]], who had to bow out of the production just before opening night.
 
 ### 2013 Run
 * [[Austin Alexander]] as Trofimov

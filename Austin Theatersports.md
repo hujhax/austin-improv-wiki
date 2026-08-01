@@ -1,1 +1,1 @@
-# REDIRECT [[The Heroes of Comedy]]
+1. REDIRECT [[The Heroes of Comedy]]

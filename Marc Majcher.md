@@ -118,57 +118,57 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 
 ## Festivals
 * The 2007 Frontera Fest Short Fringe
-** with [[Improv for Evil]]
+	* with [[Improv for Evil]]
 * [[The 2007 Out of Bounds Comedy Festival]]
-** With [[Improv for Evil]]
+	* With [[Improv for Evil]]
 * [[WaffleFest]]
-** With [[Improv for Evil]]
+	* With [[Improv for Evil]]
 * The 2008 Frontera Fest Short Fringe
-** with [[Improv for Evil]]
+	* with [[Improv for Evil]]
 * [[The 2008 Out of Bounds Comedy Festival]]
-** With [[Improv for Evil]] and *[[Ka-Baam!!]]*
+	* With [[Improv for Evil]] and *[[Ka-Baam!!]]*
 * The 2009 Frontera Fest Long Fringe
-** With *[[Cochise]]*
+	* With *[[Cochise]]*
 * [[The 2009 Out of Bounds Comedy Festival]]
-** With [[Improv for Evil]]
+	* With [[Improv for Evil]]
 * [[The 41-Hour Improv Marathon]]
 * [[The 2010 Out of Bounds Comedy Festival]]
-** With *[[Austin Secrets]]* and [[Improv for Evil]]
+	* With *[[Austin Secrets]]* and [[Improv for Evil]]
 * [[The 2011 Improvised Play Festival]]
-** With *[[False Matters]]*, *[[Holy 1960s Batman, Batman!]]*, [[The Plagiarists]], and *[[The Violet Underbelly]]*
+	* With *[[False Matters]]*, *[[Holy 1960s Batman, Batman!]]*, [[The Plagiarists]], and *[[The Violet Underbelly]]*
 * [[The 2011 Out of Bounds Comedy Festival]]
-** With [[The Asides]] and [[Improv for Evil]]
+	* With [[The Asides]] and [[Improv for Evil]]
 * Improvaganza Improv Festival 2011 (Honolulu)
-** With [[MmmmK]]
+	* With [[MmmmK]]
 * [[The 2012 Improvised Play Festival]]
-** With *[[After School Improv]]*, [[The Escorts]], *[[Process]]*, *[[Spirited]]*, and *[[Steam]]*
+	* With *[[After School Improv]]*, [[The Escorts]], *[[Process]]*, *[[Spirited]]*, and *[[Steam]]*
 * [[The 43-Hour Improv Marathon]]
 * The Del Close Marathon 2012 (New York)
-** With [[The Escorts]]
+	* With [[The Escorts]]
 * [[The 2012 Out of Bounds Comedy Festival]]
-** With [[The Escorts]], *[[False Matters]]*, [[Improv for Evil]], *[[Manhattan Stories]]*, *[[Process]]*, and *[[Spirited]]*
+	* With [[The Escorts]], *[[False Matters]]*, [[Improv for Evil]], *[[Manhattan Stories]]*, *[[Process]]*, and *[[Spirited]]*
 * The 2012 Frontera Fest Short Fringe
-** in *Linear Perspectives* by [[Kayla Lane Freeman]]
+	* in *Linear Perspectives* by [[Kayla Lane Freeman]]
 * [[The 2013 Improvised Play Festival]]
-** With *[[The Black Vault]]*, [[The Escorts]], *[[False Matters]]*, *[[Live Nude Improv]]*, *[[Strange Worlds]]*, and *[[The Tribunal]]*
+	* With *[[The Black Vault]]*, [[The Escorts]], *[[False Matters]]*, *[[Live Nude Improv]]*, *[[Strange Worlds]]*, and *[[The Tribunal]]*
 * The 2013 Unscripted New York Festival
-** With *[[Strange Worlds]]*
+	* With *[[Strange Worlds]]*
 * The 2014 Alaska State Improv Festival
-** With *[[The Black Vault]]* and *[[Strange Worlds]]*
+	* With *[[The Black Vault]]* and *[[Strange Worlds]]*
 * The 2015 Seattle Festival of Improv Theater
-** With *[[Hurly Burly]]*
+	* With *[[Hurly Burly]]*
 * The 2015 Boston Comedy Arts Festival
-** With *[[Golden]]*
+	* With *[[Golden]]*
 * The 2015 Providence Improv Festival
-** With *[[The Black Vault]]*
+	* With *[[The Black Vault]]*
 * Dallas Comedy Big Sexy Weekend 2016
-** With *[[Golden]]*
+	* With *[[Golden]]*
 * Mount Olymprov 2016
-** Teacher/Performer
+	* Teacher/Performer
 * The 2016 Vancouver International Improv Festival
-** With *[[Golden]]*
+	* With *[[Golden]]*
 * Dallas Comedy Big Sexy Weekend 2017
-** With *[[Golden]]*
+	* With *[[Golden]]*
 
 
 [[Category/Performers|Majcher]]

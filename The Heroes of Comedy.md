@@ -114,7 +114,7 @@ This is the first group of people who were cast from the 1998 audition:
 * [[Tim Bauer]]
 * [[Timothy Ackerman]]
 * [[Todd Womack]]
-** After the initial cast party, Todd Womack got a job driving the Oscar Meyer [[Wikipedia - Wienermobile|Wienermobile]], and disappeared from Austin improv.
+	* After the initial cast party, Todd Womack got a job driving the Oscar Meyer [[Wikipedia - Wienermobile|Wienermobile]], and disappeared from Austin improv.
 
 [[Lisa Brown]] was their tech improvisor at this point.
 

@@ -205,7 +205,7 @@ The run featured tech by [[Michael Yew]].
 ### Videos
 * [Video](http://www.viddler.com/v/904c9778) by [[Michael Ferstenfeld]] of their 10/7/11 performance (1x01: "Caddywhompus").
 * [Video](http://www.viddler.com/v/cc8889b1) by [[Michael Ferstenfeld]] of their 10/14/11 performance (1x02: "The Charm of Rune").
-** [Video of the regeneration scene](http://www.viddler.com/v/d82d5bf6) by [[Michael Ferstenfeld]].
+	* [Video of the regeneration scene](http://www.viddler.com/v/d82d5bf6) by [[Michael Ferstenfeld]].
 * [Video](http://www.viddler.com/v/44c548e3) by [[Michael Ferstenfeld]] of their 10/21/11 performance (1x03: "The Price of Periwinkles").
 * [Video](http://www.viddler.com/v/66a1d12f) by [[Michael Ferstenfeld]] of the 10/28/11 performance (1x04: "Are We Off-World Yet?").
 * [Video](http://www.viddler.com/v/6eeff981) by [[Michael Ferstenfeld]] of the 11/4/11 performance (1x05: "The Shapes We Draw").
@@ -226,18 +226,18 @@ The run featured tech by [[Michael Yew]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/23/11 performance in *[[The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3) by [[Roy Moore]] of their 10/14/11 performance (1x02: "The Charm of Rune").
 * [Photoset](http://www.facebook.com/media/set/?set=a.211122242289796.50272.118587218209966&type=3) by [[Roy Moore]] of their 10/21/11 performance (1x03: "The Price of Periwinkles").
-** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3) by [[Michael Yew]] that includes the performance.
+	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3) by [[Michael Yew]] that includes the performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.216700898398597.51775.118587218209966&type=3) by [[Roy Moore]] of the 11/4/11 performance (1x05: "The Shapes We Draw").
 * [Photoset](http://www.facebook.com/media/set/?set=a.220876431314377.52600.118587218209966&type=3) by [[Roy Moore]] of the 11/11/11 performance (1x06: "Dinner for One").
 * [Photoset](http://www.facebook.com/media/set/?set=a.229603903774963.53941.118587218209966&type=3) by [[Roy Moore]] of the 11/18/11 performance (1x07: "The Animal Within").
 * [Photoset](http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3) by [[Roy Moore]] of the 3/30/12 performance ("My Way").
-** [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3) by [[Michael Yew]] of the same show.
+	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3) by [[Claudio Fox]] that includes their 7/20/12 performance in *[[The TV Set]]*.
 * [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3) by [[Peter Rogers]] from the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [Photoset](http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1) by [[Michael Yew]] of the 1/18/13 performance at [[The TV Set]].
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3) by [[Roy Moore]] that includes the 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]].
-** [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
+	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200918291262280.1073741869.1315383518&type=3) by [[Michael Yew]] from backstage at the 11/23/13 show, which included a Austin-made T.A.R.D.I.S.
 
 ### Publicity

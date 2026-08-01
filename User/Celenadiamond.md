@@ -1,1 +1,1 @@
-# REDIRECT [[Celena Diamond]]
+1. REDIRECT [[Celena Diamond]]

@@ -118,7 +118,7 @@ Here is [[Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our
 * [Video](http://vimeo.com/51042429) by [[Paul Normandin]] of their 10/4/12 performance in *[[The Threefer]]*.
 * [Video](http://vimeo.com/52598839) by [[Paul Normandin]] of their 10/11/12 performance in *[[The Threefer]]* ("Drugs & Kids").
 * [Video](http://vimeo.com/52051384) by [[Paul Normandin]] of their 10/18/12 performance in *[[The Threefer]]* ("Car Accident"/"Brady Bunch").
-** [A second copy of the video.](http://vimeo.com/63321919)
+	* [A second copy of the video.](http://vimeo.com/63321919)
 * [Video](http://vimeo.com/52466512) by [[Paul Normandin]] of their 10/25/12 performance in *[[The Threefer]]* ("Runaway Dad").
 * [Video](http://vimeo.com/53309165) by [[Paul Normandin]] of their 11/10/12 performance at [[WaffleFest 2012]] ("The Affair").
 * [Video](http://vimeo.com/54726986) by [[Paul Normandin]] of their 12/1/12 performance at [[The Institution Theater]].

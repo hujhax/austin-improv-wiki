@@ -58,17 +58,17 @@ For a complete list of her performances, check out her performance calendar [htt
 
 ## Festivals
 * Out of Bounds 2017 (Austin, TX)
-** With [[Physics Curse]]
+	* With [[Physics Curse]]
 * Alaska Improv Festival 2017 (Juneau, Alaska)
-** With [[Physics Curse]]
+	* With [[Physics Curse]]
 * Improvised Play Festival(Austin, TX)
-** With [[Physics Curse]]
+	* With [[Physics Curse]]
 * Waffle Fest (Austin, TX)
-** With [[Physics Curse]]
+	* With [[Physics Curse]]
 * Out of Bounds 2016 (Austin, TX)
-** With [[Physics Curse]]
+	* With [[Physics Curse]]
 * Chicago Improv Festival 2016 (Chicago, IL)
-** With [[Physics Curse]]
+	* With [[Physics Curse]]
 
 [[Category/Performers|Austin]]
 [[Category/Techs|Austin]]

@@ -1,1 +1,1 @@
-# REDIRECT [[Awww, Shit!]]
+1. REDIRECT [[Awww, Shit!]]

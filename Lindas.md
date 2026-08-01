@@ -1,1 +1,1 @@
-# REDIRECT [[The Lindas]]
+1. REDIRECT [[The Lindas]]

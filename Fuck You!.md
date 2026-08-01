@@ -1,1 +1,1 @@
-# REDIRECT [[Editor and Chief]]
+1. REDIRECT [[Editor and Chief]]

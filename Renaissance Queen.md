@@ -1,1 +1,1 @@
-# REDIRECT [[The Jukebox Musical Project#Renaissance Queen]]
+1. REDIRECT [[The Jukebox Musical Project#Renaissance Queen]]

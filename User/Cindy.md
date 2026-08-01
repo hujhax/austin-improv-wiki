@@ -1,1 +1,1 @@
-# REDIRECT [[Cindy Page]]
+1. REDIRECT [[Cindy Page]]

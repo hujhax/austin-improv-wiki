@@ -95,7 +95,7 @@ Here is [[Bobby Ford]]'s explanation of the name's origin:<blockquote>Paul Norma
 * [Video](http://vimeo.com/40744913) by [[Paul Normandin]] of their 4/19/12 show.
 * [Video](http://vimeo.com/42251366) by [[Paul Normandin]] of their 5/4/12 performance in *[[The Cagematch]]*.
 * [Video](http://vimeo.com/43881347) by [[Paul Normandin]] of their 6/10/12 performance in *[[The Weekender]]*.
-** [Video](http://vimeo.com/43860472) by [[Dave Alley]] that includes the same show.
+	* [Video](http://vimeo.com/43860472) by [[Dave Alley]] that includes the same show.
 * [Video](http://vimeo.com/51661337) by [[Paul Normandin]] of their 10/17/12 performance in *[[The Weekender]]*.
 * [Video](http://vimeo.com/55690464) by [[Paul Normandin]] of their 12/9/12 performance in *[[The Weekender]]*.
 * [Video](http://vimeo.com/57209037) by [[Paul Normandin]] of their 12/23/12 performance at [[ColdTowne Theater]].

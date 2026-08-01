@@ -237,7 +237,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 
 ### Videos
 * [Video of the premiere performance of *Cochise*](http://www.youtube.com/watch?v=gHYDvzQKeoM) at [[The 2008 Out of Bounds Comedy Festival]].
-** [Another video](http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040) of the same show.
+	* [Another video](http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040) of the same show.
 * [Video of the first performance of the first run: "Bad Santa".](http://youtu.be/04yQnI0n7rg)
 * [Video of the second performance of the first run: "Something Smells at the Docks".](http://www.youtube.com/watch?v=b6IpnJBVM34)
 * [Video of the third performance of the first run.](http://www.youtube.com/watch?v=VH9K1iQfmt4)

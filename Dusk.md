@@ -218,7 +218,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150295116320324.548314.503270323&type=3) by [[Kevin Miller]] of the 10/23/09 premiere.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 11/7/09 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
-** [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3) by [[Peter Rogers]]
+	* [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3) by [[Peter Rogers]]
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/10 performance at [[The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/22/10 performance at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3) by [[Peter Rogers]] of their 10/23/10 show at [[Salvage Vanguard Theater]].

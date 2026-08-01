@@ -1,1 +1,1 @@
-# REDIRECT [[The Known Wizards]]
+1. REDIRECT [[The Known Wizards]]

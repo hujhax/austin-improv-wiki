@@ -1,1 +1,1 @@
-# REDIRECT [[Things We Don't Speak Of]]
+1. REDIRECT [[Things We Don't Speak Of]]
