@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Blink.jpg]]
+				!<a class="internal-link" href="Blink.jpg">Blink.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,21 +15,21 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Marc Majcher]]</td>
+			<td class="category"><a class="internal-link" href="Marc Majcher">Marc Majcher</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[John Buseman]]</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
-  --><li style="">[[Lauren Buck]]</li><!--
-  --><li style="">[[Meghan Wolff]]</li><!--
-  --><li style="">[[Mike Sullivan]]</li><!--
-  --><li style="">[[Patrick Daniel]]</li><!--
-  --><li style="" >[[Peter Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--

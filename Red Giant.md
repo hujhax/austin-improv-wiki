@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Red Giant.jpg]]
+				!<a class="internal-link" href="Red Giant.jpg">Red Giant.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Petruzzo]]</li><!--
-  --><li style="">[[Chris Baldenhofer]]</li><!--
-  --><li style="">[[David Hess]]</li><!--
-  --><li style="">[[Josh Krilov]]</li><!--
-  --><li style="">[[Julia Kirchen]]</li><!--
-  --><li style="">[[Kyle Sweeney]]</li><!--
-  --><li style="">[[Stephanie Russo]]</li><!--
-  --><li style="">[[Teresa Kubos]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Petruzzo">Andy Petruzzo</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Julia Kirchen">Julia Kirchen</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
   --><!--
   --><!--
   --><!--

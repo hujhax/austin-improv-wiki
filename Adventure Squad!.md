@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Adventure Squad!.jpg]]
+				!<a class="internal-link" href="Adventure Squad!.jpg">Adventure Squad!.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

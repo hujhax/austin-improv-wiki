@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Monologue Jam.jpg]]
+				!<a class="internal-link" href="The Monologue Jam.jpg">The Monologue Jam.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jen Dorsey]]</li><!--
-  --><li style="">[[Tyler Bryce]]</li><!--
+  --><li style=""><a class="internal-link" href="Jen Dorsey">Jen Dorsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--

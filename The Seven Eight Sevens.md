@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Seven Eight Sevens.jpg]]
+				!<a class="internal-link" href="Seven Eight Sevens.jpg">Seven Eight Sevens.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Mitchell Deane]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Sarah Swofford]]</li><!--
-  --><li style="">[[Scott Hearne]]</li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Hearne">Scott Hearne</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Spirit Desire.jpg]]
+				!<a class="internal-link" href="Spirit Desire.jpg">Spirit Desire.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brady James]]</li><!--
-  --><li style="">[[James Patrick Robinson]]</li><!--
-  --><li style="">[[Micheal Foulk]]</li><!--
-  --><li style="">[[Milo Harness-Smith]]</li><!--
-  --><li style="">[[Rob Gagnon]]</li><!--
+  --><li style=""><a class="internal-link" href="Brady James">Brady James</a></li><!--
+  --><li style=""><a class="internal-link" href="James Patrick Robinson">James Patrick Robinson</a></li><!--
+  --><li style=""><a class="internal-link" href="Micheal Foulk">Micheal Foulk</a></li><!--
+  --><li style=""><a class="internal-link" href="Milo Harness-Smith">Milo Harness-Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Rob Gagnon">Rob Gagnon</a></li><!--
   --><!--
   --><!--
   --><!--

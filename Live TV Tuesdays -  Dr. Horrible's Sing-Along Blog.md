@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg">Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Heidi Caldwell]]</td>
+			<td class="category"><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></td>
 		</tr>
 
 
@@ -28,18 +28,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Allison Asher]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Carissa McAtee]]</li><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
-  --><li style="">[[David Zimmerman]]</li><!--
-  --><li style="">[[Heidi Caldwell]]</li><!--
-  --><li style="">[[James Pound]]</li><!--
-  --><li style="" >[[Jeremy Logan]]</li><!--
-  --><li style="">[[Justin LaVergne]]</li><!--
-  --><li style="">[[Kevin Williamson]]</li><!--
-  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Allison Asher">Allison Asher</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="David Zimmerman">David Zimmerman</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="James Pound">James Pound</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jeremy Logan">Jeremy Logan</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin LaVergne">Justin LaVergne</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Williamson">Kevin Williamson</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--

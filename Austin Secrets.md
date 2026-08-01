@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Austin Secrets.jpg]]
+				!<a class="internal-link" href="Austin Secrets.jpg">Austin Secrets.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Roy Janik]]</td>
+			<td class="category"><a class="internal-link" href="Roy Janik">Roy Janik</a></td>
 		</tr>
 
 
@@ -28,47 +28,47 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Saenz]]</li><!--
-  --><li style="">[[Alex Dobrenko]]</li><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Angelina Martin]]</li><!--
-  --><li style="">[[Angie Yaeyama]]</li><!--
-  --><li style="">[[Bridget Brewer]]</li><!--
-  --><li style="">[[Chuy Zarate]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="" >[[Curtis Luciani]]</li><!--
-  --><li style="">[[Halyn Lee Erickson]]</li><!--
-  --><li style="">[[Heather Hasselle]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[Jeanette Jones]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[J. R. Zambrano]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Kayla Lane Freeman]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
-  --><li style="">[[Meghan Wolff]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Mike Sullivan]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
-  --><li style="">[[Patrick Creamer]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Regina Soto]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Shannon Dale Stott]]</li><!--
-  --><li style="">[[Stacy Kaplowitz]]</li><!--
-  --><li style="">[[Theo Daley]]</li><!--
-  --><li style="">[[Tyler Groce]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Angelina Martin">Angelina Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Angie Yaeyama">Angie Yaeyama</a></li><!--
+  --><li style=""><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Heather Hasselle">Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon Dale Stott">Shannon Dale Stott</a></li><!--
+  --><li style=""><a class="internal-link" href="Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Theo Daley">Theo Daley</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

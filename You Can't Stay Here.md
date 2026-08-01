@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[You Can't Stay Here Poster.jpg]]
+				!<a class="internal-link" href="You Can't Stay Here Poster.jpg">You Can't Stay Here Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Brad Hawkins]]</td>
+			<td class="category"><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Andreas Fabis]]</td>
+			<td class="category"><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></td>
 		</tr>
 
 
@@ -32,22 +32,22 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Tosin Awofeso]]</td>
+			<td class="category"><a class="internal-link" href="Tosin Awofeso">Tosin Awofeso</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Ayala]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Clint Harris]]</li><!--
-  --><li style="">[[Dana Yanoshak]]</li><!--
-  --><li style="">[[Donnie Garcia]]</li><!--
-  --><li style="">[[Jessy Schwartz]]</li><!--
-  --><li style="" >[[Letty Tomlinson]]</li><!--
-  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessy Schwartz">Jessy Schwartz</a></li><!--
+  --><li style="" ><a class="internal-link" href="Letty Tomlinson">Letty Tomlinson</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -95,7 +95,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--

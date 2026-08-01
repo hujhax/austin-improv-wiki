@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Carlos LaRotta]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Jack Leahy]]</li><!--
-  --><li style="">[[Lacy Cox]]</li><!--
+  --><li style=""><a class="internal-link" href="Carlos LaRotta">Carlos LaRotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jack Leahy">Jack Leahy</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
   --><!--
   --><!--
   --><!--

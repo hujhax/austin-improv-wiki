@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[An Inconvenient Troupe.jpg]]
+				!<a class="internal-link" href="An Inconvenient Troupe.jpg">An Inconvenient Troupe.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Nadine Latief]]</li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Nadine Latief">Nadine Latief</a></li><!--
   --><!--
   --><!--
   --><!--

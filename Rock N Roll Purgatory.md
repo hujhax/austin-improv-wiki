@@ -5,19 +5,19 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[RnRPurgatoryCast.jpg]]
+				!<a class="internal-link" href="RnRPurgatoryCast.jpg">RnRPurgatoryCast.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,19 +79,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Justin Davidson]]</li><!--
-  --><li style="">[[Ann Flynn]]</li><!--
-  --><li style="">[[Allison Huston]]</li><!--
-  --><li style="">[[Craig Kotfas]]</li><!--
-  --><li style="">[[Kristen Kurtis]]</li><!--
-  --><li style="">[[Tyler Lane]]</li><!--
-  --><li style="">[[Adam Niederpruem]]</li><!--
-  --><li style="">[[Mason Pitluk]]</li><!--
-  --><li style="" >[[John Reed]]</li><!--
-  --><li style="">[[Donna Rice]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="">[[Callie Sharon]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style=""><a class="internal-link" href="Justin Davidson">Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Ann Flynn">Ann Flynn</a></li><!--
+  --><li style=""><a class="internal-link" href="Allison Huston">Allison Huston</a></li><!--
+  --><li style=""><a class="internal-link" href="Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristen Kurtis">Kristen Kurtis</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Lane">Tyler Lane</a></li><!--
+  --><li style=""><a class="internal-link" href="Adam Niederpruem">Adam Niederpruem</a></li><!--
+  --><li style=""><a class="internal-link" href="Mason Pitluk">Mason Pitluk</a></li><!--
+  --><li style="" ><a class="internal-link" href="John Reed">John Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Donna Rice">Donna Rice</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Callie Sharon">Callie Sharon</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,7 +136,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Courtney DeAngelo]]</li><!--
+  --><li style=""><a class="internal-link" href="Courtney DeAngelo">Courtney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--

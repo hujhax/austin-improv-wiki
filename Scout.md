@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Scout.jpg]]
+				!<a class="internal-link" href="Scout.jpg">Scout.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ann Potter]]</li><!--
-  --><li style="">[[Ashley Franks]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Danny Catlow]]</li><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[John Brewster]]</li><!--
-  --><li style="">[[Joshua Philips]]</li><!--
-  --><li style="">[[Sam Malcolm]]</li><!--
-  --><li style="" >[[Sam Malcom]]</li><!--
+  --><li style=""><a class="internal-link" href="Ann Potter">Ann Potter</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Franks">Ashley Franks</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sam Malcom">Sam Malcom</a></li><!--
   --><!--
   --><!--
   --><!--

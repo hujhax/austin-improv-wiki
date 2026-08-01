@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Revlis.jpg]]
+				!<a class="internal-link" href="Revlis.jpg">Revlis.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,7 +16,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kristin Firth]]</li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
   --><!--
   --><!--
   --><!--

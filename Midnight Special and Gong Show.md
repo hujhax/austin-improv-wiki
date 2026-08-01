@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Midnight Special and Gong Show.jpg]]
+				!<a class="internal-link" href="Midnight Special and Gong Show.jpg">Midnight Special and Gong Show.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Midnight Society]]</td>
+			<td class="category"><a class="internal-link" href="Midnight Society">Midnight Society</a></td>
 		</tr>
 
 

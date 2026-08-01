@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Jay Mahavier Pic.jpg]]
+				!<a class="internal-link" href="Jay Mahavier Pic.jpg">Jay Mahavier Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

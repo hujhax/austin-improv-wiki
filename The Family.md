@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Family Pic.jpg]]
+				!<a class="internal-link" href="The Family Pic.jpg">The Family Pic.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Michael Joplin]]</td>
+			<td class="category"><a class="internal-link" href="Michael Joplin">Michael Joplin</a></td>
 		</tr>
 
 
@@ -26,22 +26,22 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aron Taylor]]</li><!--
-  --><li style="">[[Deano Jones]]</li><!--
-  --><li style="">[[Elizabeth Bigger]]</li><!--
-  --><li style="">[[Erin Molson]]</li><!--
-  --><li style="">[[Gary Richardson]]</li><!--
-  --><li style="">[[Hugo Vargas-Zesati]]</li><!--
-  --><li style="">[[Jonathan Euseppi]]</li><!--
-  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
-  --><li style="" >[[Ron Weisberg]]</li><!--
+  --><li style=""><a class="internal-link" href="Aron Taylor">Aron Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Bigger">Elizabeth Bigger</a></li><!--
+  --><li style=""><a class="internal-link" href="Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
+  --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
+  --><li style=""><a class="internal-link" href="Jonathan Euseppi">Jonathan Euseppi</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
+  --><li style="" ><a class="internal-link" href="Ron Weisberg">Ron Weisberg</a></li><!--
   --><!--
   --><!--
   --><!--

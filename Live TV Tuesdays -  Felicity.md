@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - Felicity.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - Felicity.jpg">Live TV Tuesdays - Felicity.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Carla Goodman]]</td>
+			<td class="category"><a class="internal-link" href="Carla Goodman">Carla Goodman</a></td>
 		</tr>
 
 
@@ -27,8 +27,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[The Institution Theater]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
+  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,13 +84,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adriane Shown]]</li><!--
-  --><li style="">[[Bill Price]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Indigo Rael]]</li><!--
-  --><li style="">[[Kacy Todd]]</li><!--
-  --><li style="">[[Nathalie Holmes]]</li><!--
-  --><li style="">[[Rafael Virguez]]</li><!--
+  --><li style=""><a class="internal-link" href="Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Bill Price">Bill Price</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacy Todd">Kacy Todd</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathalie Holmes">Nathalie Holmes</a></li><!--
+  --><li style=""><a class="internal-link" href="Rafael Virguez">Rafael Virguez</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -141,9 +141,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Carla Goodman]]</li><!--
-  --><li style="">[[Todd Hart]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
+  --><li style=""><a class="internal-link" href="Carla Goodman">Carla Goodman</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--

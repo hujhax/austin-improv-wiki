@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kazillionaire.jpg]]
+				!<a class="internal-link" href="Kazillionaire.jpg">Kazillionaire.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jeremy Lamb]]</li><!--
-  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Sarah 7.jpg]]
+				!<a class="internal-link" href="Sarah 7.jpg">Sarah 7.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Elizabeth Brammer]]</li><!--
-  --><li style="">[[Erika May McNichol]]</li><!--
-  --><li style="">[[Katie Sicking]]</li><!--
-  --><li style="">[[Stephanie Russo]]</li><!--
-  --><li style="">[[Teresa York]]</li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa York">Teresa York</a></li><!--
   --><!--
   --><!--
   --><!--

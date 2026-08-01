@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Waiting for Batman.jpg]]
+				!<a class="internal-link" href="Waiting for Batman.jpg">Waiting for Batman.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Curtis Luciani]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
+  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
   --><!--
   --><!--
   --><!--

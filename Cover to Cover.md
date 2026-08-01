@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Cover to Cover.gif]]
+				!<a class="internal-link" href="Cover to Cover.gif">Cover to Cover.gif</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Julie Gillis]]</li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Julie Gillis">Julie Gillis</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,18 +84,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Dobrenko]]</li><!--
-  --><li style="">[[Amy McKenna]]</li><!--
-  --><li style="">[[Ashlee Medlin]]</li><!--
-  --><li style="">[[Ashley Lowe]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Julie Gillis]]</li><!--
-  --><li style="" >[[Kevin Miller]]</li><!--
-  --><li style="">[[Nick Jimenez]]</li><!--
-  --><li style="">[[Nicole Beckley]]</li><!--
-  --><li style="">[[Odin Amador]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Julie Gillis">Julie Gillis</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Nick Jimenez">Nick Jimenez</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Odin Amador">Odin Amador</a></li><!--
   --><!--
   --><!--
   --><!--

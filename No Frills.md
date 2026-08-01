@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[No Frills.jpg]]
+				!<a class="internal-link" href="No Frills.jpg">No Frills.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ash Nunley]]</li><!--
-  --><li style="">[[Jeanette Jones]]</li><!--
-  --><li style="">[[Jessie Pascarelli]]</li><!--
-  --><li style="">[[Megan Venable]]</li><!--
+  --><li style=""><a class="internal-link" href="Ash Nunley">Ash Nunley</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Venable">Megan Venable</a></li><!--
   --><!--
   --><!--
   --><!--

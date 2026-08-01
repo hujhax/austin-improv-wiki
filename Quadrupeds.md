@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Quadrupeds.jpg]]
+				!<a class="internal-link" href="Quadrupeds.jpg">Quadrupeds.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[David Ronn]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--

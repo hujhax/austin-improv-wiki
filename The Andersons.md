@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Andersons.jpg ‎]]
+				!<a class="internal-link" href="The Andersons.jpg ‎">The Andersons.jpg ‎</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Patrick Daniel]]</td>
+			<td class="category"><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></td>
 		</tr>
 
 
@@ -28,23 +28,23 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Curtis Luciani]]</li><!--
-  --><li style="">[[Dav Wallace]]</li><!--
-  --><li style="">[[Deana Ricks]]</li><!--
-  --><li style="">[[Deano Jones]]</li><!--
-  --><li style="">[[Indigo Rael]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="" >[[Jon Bolden]]</li><!--
-  --><li style="">[[Justin York]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Katie Thornton]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Stacy Kaplowitz]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Dav Wallace">Dav Wallace</a></li><!--
+  --><li style=""><a class="internal-link" href="Deana Ricks">Deana Ricks</a></li><!--
+  --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

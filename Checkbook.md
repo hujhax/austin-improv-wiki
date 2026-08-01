@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Checkbook.jpg]]
+				!<a class="internal-link" href="Checkbook.jpg">Checkbook.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ariel Greenspoon]]</li><!--
-  --><li style="">[[Ellen Kubecka]]</li><!--
-  --><li style="">[[Jenna Marie Carey]]</li><!--
-  --><li style="">[[Megan Simon]]</li><!--
-  --><li style="">[[Reagan Ward]]</li><!--
-  --><li style="">[[Yamina Khouane]]</li><!--
+  --><li style=""><a class="internal-link" href="Ariel Greenspoon">Ariel Greenspoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Ellen Kubecka">Ellen Kubecka</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenna Marie Carey">Jenna Marie Carey</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Simon">Megan Simon</a></li><!--
+  --><li style=""><a class="internal-link" href="Reagan Ward">Reagan Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Yamina Khouane">Yamina Khouane</a></li><!--
   --><!--
   --><!--
   --><!--

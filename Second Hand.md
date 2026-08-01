@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Second Hand.jpg]]
+				!<a class="internal-link" href="Second Hand.jpg">Second Hand.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Avimaan Syam]]</li><!--
-  --><li style="">[[Jesse Bertron]]</li><!--
-  --><li style="">[[Paul Wainright]]</li><!--
+  --><li style=""><a class="internal-link" href="Avimaan Syam">Avimaan Syam</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Bertron">Jesse Bertron</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Wainright">Paul Wainright</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Jeff & David.jpg]]
+				!<a class="internal-link" href="Jeff & David.jpg">Jeff & David.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Howe]]</li><!--
-  --><li style="">[[Jeff Whitaker]]</li><!--
+  --><li style=""><a class="internal-link" href="David Howe">David Howe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
   --><!--
   --><!--
   --><!--

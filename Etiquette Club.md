@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Dobrenko]]</li><!--
-  --><li style="">[[Kayla Lane Freeman]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
   --><!--
   --><!--
   --><!--

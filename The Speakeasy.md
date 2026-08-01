@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Speakeasy.jpg]]
+				!<a class="internal-link" href="The Speakeasy.jpg">The Speakeasy.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Turn of the Century Paris]]</td>
+			<td class="category"><a class="internal-link" href="Turn of the Century Paris">Turn of the Century Paris</a></td>
 		</tr>
 
 

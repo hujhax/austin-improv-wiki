@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Beach Ball Concussion.jpg]]
+				!<a class="internal-link" href="Beach Ball Concussion.jpg">Beach Ball Concussion.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Anna Giacomo]]</li><!--
-  --><li style="">[[Brad Smith]]</li><!--
-  --><li style="">[[Brett Weaver]]</li><!--
-  --><li style="">[[Jessica von Schramm]]</li><!--
-  --><li style="">[[Noah Wright]]</li><!--
-  --><li style="">[[Patrick Yonkin]]</li><!--
-  --><li style="">[[Rhett O'Hara]]</li><!--
-  --><li style="">[[Vicky Vegh]]</li><!--
+  --><li style=""><a class="internal-link" href="Anna Giacomo">Anna Giacomo</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Smith">Brad Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Weaver">Brett Weaver</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Noah Wright">Noah Wright</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Yonkin">Patrick Yonkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Rhett O'Hara">Rhett O'Hara</a></li><!--
+  --><li style=""><a class="internal-link" href="Vicky Vegh">Vicky Vegh</a></li><!--
   --><!--
   --><!--
   --><!--

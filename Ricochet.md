@@ -2,13 +2,13 @@
 |Name	=		Ricochet
 |Picture	=	
 |Cast	=	<div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kris Pina]]</li><!--
-  --><li style="">[[Kelly Stockwell]]</li><!--
-  --><li style="">[[Tara Chill]]</li><!--
-  --><li style="">[[Heather Thiel]]</li><!--
-  --><li style="">[[Thomas Cook]]</li><!--
-  --><li style="">[[Shely Arrieta]]</li><!--
-  --><li style="">[[Joseph Kulhavy]]))</li><!--
+  --><li style=""><a class="internal-link" href="Kris Pina">Kris Pina</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelly Stockwell">Kelly Stockwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Tara Chill">Tara Chill</a></li><!--
+  --><li style=""><a class="internal-link" href="Heather Thiel">Heather Thiel</a></li><!--
+  --><li style=""><a class="internal-link" href="Thomas Cook">Thomas Cook</a></li><!--
+  --><li style=""><a class="internal-link" href="Shely Arrieta">Shely Arrieta</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Kulhavy">Joseph Kulhavy</a>))</li><!--
   --><!--
   --><!--
   --><!--

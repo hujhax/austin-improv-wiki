@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Meal of Sides.jpg]]
+				!<a class="internal-link" href="Meal of Sides.jpg">Meal of Sides.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Allen Rogers]]</li><!--
-  --><li style="">[[Elizabeth Nowrouz]]</li><!--
-  --><li style="">[[G-Su Paek]]</li><!--
-  --><li style="">[[Karen Early]]</li><!--
+  --><li style=""><a class="internal-link" href="Allen Rogers">Allen Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Nowrouz">Elizabeth Nowrouz</a></li><!--
+  --><li style=""><a class="internal-link" href="G-Su Paek">G-Su Paek</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Early">Karen Early</a></li><!--
   --><!--
   --><!--
   --><!--

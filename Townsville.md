@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Townsville-duoposter1.jpg]]
+				!<a class="internal-link" href="Townsville-duoposter1.jpg">Townsville-duoposter1.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Tim</li><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--

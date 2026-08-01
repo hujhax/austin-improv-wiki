@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Merlin Works Second Sundays.jpg]]
+				!<a class="internal-link" href="Merlin Works Second Sundays.jpg">Merlin Works Second Sundays.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ZACH Theatre]]</td>
+			<td class="category"><a class="internal-link" href="ZACH Theatre">ZACH Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Shana Merlin]]</td>
+			<td class="category"><a class="internal-link" href="Shana Merlin">Shana Merlin</a></td>
 		</tr>
 
 
@@ -27,7 +27,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category">[[The Known Wizards]], guests</td>
+			<td class="category"><a class="internal-link" href="The Known Wizards">The Known Wizards</a>, guests</td>
 		</tr>
 
 
@@ -781,8 +781,8 @@
 |February 11, 2018||Student showcase||[[Girls Girls Girls]] 
 |-
 |January 7, 2018||N/A||<div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dial 'I' for Improv]]</li><!--
-  --><li style="">[[Golden]]</li><!--
+  --><li style=""><a class="internal-link" href="Dial 'I' for Improv">Dial 'I' for Improv</a></li><!--
+  --><li style=""><a class="internal-link" href="Golden">Golden</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -1310,8 +1310,8 @@
 |February 8, 2015||Student showcase||[[Miller & Purselley]] 
 |-
 |January 11, 2015||Student showcase||<div class="plainlist"><ul style=""><!--
-  --><li style="">[[The New Kids]]</li><!--
-  --><li style="">[[Girls Girls Girls]]</li><!--
+  --><li style=""><a class="internal-link" href="The New Kids">The New Kids</a></li><!--
+  --><li style=""><a class="internal-link" href="Girls Girls Girls">Girls Girls Girls</a></li><!--
   --><!--
   --><!--
   --><!--

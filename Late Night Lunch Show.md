@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Eric A. Garcia]]</li><!--
-  --><li style="">[[Will Oakley]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric A. Garcia">Eric A. Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Will Oakley">Will Oakley</a></li><!--
   --><!--
   --><!--
   --><!--

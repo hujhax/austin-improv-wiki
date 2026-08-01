@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Rarebit.jpg]]
+				!<a class="internal-link" href="Rarebit.jpg">Rarebit.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Carpenter]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
   --><!--
   --><!--
   --><!--

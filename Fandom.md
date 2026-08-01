@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Fandom cover photo.jpg]]
+				!<a class="internal-link" href="Fandom cover photo.jpg">Fandom cover photo.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,19 +79,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Saenz]]</li><!--
-  --><li style="">[[Andrew Buck]]</li><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Bridget Brewer]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Halyn Lee Erickson]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="" >[[Kaci Danger]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Mia Iseman]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,9 +136,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Michael Yew]]</li><!--
-  --><li style="">[[Cortney DeAngelo]]</li><!--
-  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a></li><!--
   --><!--
   --><!--
   --><!--

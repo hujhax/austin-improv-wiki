@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ann Potter]]</li><!--
-  --><li style="">[[Brent Foshee]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
+  --><li style=""><a class="internal-link" href="Ann Potter">Ann Potter</a></li><!--
+  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
   --><!--
   --><!--
   --><!--

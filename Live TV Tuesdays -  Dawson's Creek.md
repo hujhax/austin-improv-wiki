@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - Dawson's Creek.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - Dawson's Creek.jpg">Live TV Tuesdays - Dawson's Creek.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Ted Meredith]]</td>
+			<td class="category"><a class="internal-link" href="Ted Meredith">Ted Meredith</a></td>
 		</tr>
 
 
@@ -28,14 +28,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Bill Price]]</li><!--
-  --><li style="">[[Carla Goodman]]</li><!--
-  --><li style="">[[Cody Melcher]]</li><!--
-  --><li style="">[[Jiovani Galo]]</li><!--
-  --><li style="">[[Jon Clinkenbeard]]</li><!--
-  --><li style="">[[Kacy Todd]]</li><!--
-  --><li style="">[[Kelli Bland]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Bill Price">Bill Price</a></li><!--
+  --><li style=""><a class="internal-link" href="Carla Goodman">Carla Goodman</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jiovani Galo">Jiovani Galo</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacy Todd">Kacy Todd</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelli Bland">Kelli Bland</a></li><!--
   --><!--
   --><!--
   --><!--

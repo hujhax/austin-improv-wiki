@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Duran & Johsnon.jpg]]
+				!<a class="internal-link" href="Duran & Johsnon.jpg">Duran & Johsnon.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Manuel Duran]]</li><!--
-  --><li style="">[[Seth Johnson]]</li><!--
+  --><li style=""><a class="internal-link" href="Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Seth Johnson">Seth Johnson</a></li><!--
   --><!--
   --><!--
   --><!--

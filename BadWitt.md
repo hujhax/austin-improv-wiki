@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[BadWitt.jpg]]
+				!<a class="internal-link" href="BadWitt.jpg">BadWitt.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
   --><!--
   --><!--
   --><!--

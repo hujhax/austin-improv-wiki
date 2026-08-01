@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Rush.jpg]]
+				!<a class="internal-link" href="Rush.jpg">Rush.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,17 +16,17 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Seibels]]</li><!--
-  --><li style="">[[Emily McDonald]]</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
-  --><li style="">[[Juliet Prather]]</li><!--
-  --><li style="">[[Kim Dilling]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="">[[Matt Stoner]]</li><!--
-  --><li style="">[[Matt Vaughn]]</li><!--
-  --><li style="" >[[Ricky Oliphant]]</li><!--
-  --><li style="">[[Steve Moore]]</li><!--
-  --><li style="">[[Tevis Paxton]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Seibels">Ashley Seibels</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
+  --><li style=""><a class="internal-link" href="Kim Dilling">Kim Dilling</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Stoner">Matt Stoner</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Vaughn">Matt Vaughn</a></li><!--
+  --><li style="" ><a class="internal-link" href="Ricky Oliphant">Ricky Oliphant</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
+  --><li style=""><a class="internal-link" href="Tevis Paxton">Tevis Paxton</a></li><!--
   --><!--
   --><!--
   --><!--

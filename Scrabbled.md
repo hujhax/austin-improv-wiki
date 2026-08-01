@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="">[[Jessie Pascarelli]]</li><!--
-  --><li style="">[[Justin Davis]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="">[[Megan Venable]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Venable">Megan Venable</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--

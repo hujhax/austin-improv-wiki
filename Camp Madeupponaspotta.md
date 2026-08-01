@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Camp Madeupponaspotta.png]]
+				!<a class="internal-link" href="Camp Madeupponaspotta.png">Camp Madeupponaspotta.png</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jon Bolden]]</td>
+			<td class="category"><a class="internal-link" href="Jon Bolden">Jon Bolden</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Nicole Oliver]]</td>
+			<td class="category"><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></td>
 		</tr>
 
 
@@ -33,16 +33,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Catherine Grady]]</li><!--
-  --><li style="">[[David Ronn]]</li><!--
-  --><li style="">[[Heather McConochie]]</li><!--
-  --><li style="">[[Jillian Summar]]</li><!--
-  --><li style="">[[Katie Doran]]</li><!--
-  --><li style="">[[Mitch Mills]]</li><!--
-  --><li style="">[[Norman Tran]]</li><!--
-  --><li style="">[[Patrick Creamer]]</li><!--
-  --><li style="" >[[Rachel Posey Austin]]</li><!--
-  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style=""><a class="internal-link" href="Catherine Grady">Catherine Grady</a></li><!--
+  --><li style=""><a class="internal-link" href="David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Heather McConochie">Heather McConochie</a></li><!--
+  --><li style=""><a class="internal-link" href="Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Doran">Katie Doran</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitch Mills">Mitch Mills</a></li><!--
+  --><li style=""><a class="internal-link" href="Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style="" ><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

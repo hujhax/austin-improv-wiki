@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[MC Harold.jpg]]
+				!<a class="internal-link" href="MC Harold.jpg">MC Harold.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Craig McGreggor]]</li><!--
-  --><li style="">[[Doug Pendergras Jr]]</li><!--
-  --><li style="">[[Hanna AbuZayed]]</li><!--
-  --><li style="">[[Jake Morrow]]</li><!--
-  --><li style="">[[Linzy Beltran]]</li><!--
-  --><li style="">[[Maria Morrow]]</li><!--
-  --><li style="">[[Mike Ponder]]</li><!--
-  --><li style="">[[Ruzica Oldja]]</li><!--
-  --><li style="" >[[Tosin Awofeso]] (music)</li><!--
+  --><li style=""><a class="internal-link" href="Craig McGreggor">Craig McGreggor</a></li><!--
+  --><li style=""><a class="internal-link" href="Doug Pendergras Jr">Doug Pendergras Jr</a></li><!--
+  --><li style=""><a class="internal-link" href="Hanna AbuZayed">Hanna AbuZayed</a></li><!--
+  --><li style=""><a class="internal-link" href="Jake Morrow">Jake Morrow</a></li><!--
+  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
+  --><li style=""><a class="internal-link" href="Maria Morrow">Maria Morrow</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Ponder">Mike Ponder</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruzica Oldja">Ruzica Oldja</a></li><!--
+  --><li style="" ><a class="internal-link" href="Tosin Awofeso">Tosin Awofeso</a> (music)</li><!--
   --><!--
   --><!--
   --><!--

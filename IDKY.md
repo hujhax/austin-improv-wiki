@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Erik Rogers]]</li><!--
-  --><li style="">[[K.C. Harvey Taylor]]</li><!--
-  --><li style="">[[Katie Moore]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style=""><a class="internal-link" href="Erik Rogers">Erik Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="K.C. Harvey Taylor">K.C. Harvey Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

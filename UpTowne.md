@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Uptowne cast and crew 2009.JPG]]
+				!<a class="internal-link" href="Uptowne cast and crew 2009.JPG">Uptowne cast and crew 2009.JPG</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,19 +16,19 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brent Foshee]]</li><!--
-  --><li style="">[[Chris Baldenhofer]]</li><!--
-  --><li style="">[[Collin Cannaday]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Justin York]]</li><!--
-  --><li style="" >[[Kate Bojanek]]</li><!--
-  --><li style="">[[Katie Sicking]]</li><!--
-  --><li style="">[[Leah Moss]]</li><!--
-  --><li style="">[[Liz Brammer]]</li><!--
-  --><li style="">[[Patrick Knisely]]</li><!--
+  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Collin Cannaday">Collin Cannaday</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
   --><!--
   --><!--
   --><!--

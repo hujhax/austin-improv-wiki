@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Close Up.jpg]]
+				!<a class="internal-link" href="Close Up.jpg">Close Up.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,14 +79,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Angie Smith]]</li><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Jenna Howard]]</li><!--
-  --><li style="">[[Kenny Madison]]</li><!--
-  --><li style="">[[Kelly Campbell]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Suzanne Link]]</li><!--
+  --><li style=""><a class="internal-link" href="Angie Smith">Angie Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenna Howard">Jenna Howard</a></li><!--
+  --><li style=""><a class="internal-link" href="Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Suzanne Link">Suzanne Link</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,8 +136,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Josh Farmer]] (sound)</li><!--
-  --><li style="">[[Nick Amsden]] (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Josh Farmer">Josh Farmer</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a> (lights)</li><!--
   --><!--
   --><!--
   --><!--

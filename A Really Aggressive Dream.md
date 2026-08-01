@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[A Really Aggressive Dream.jpg]]
+				!<a class="internal-link" href="A Really Aggressive Dream.jpg">A Really Aggressive Dream.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Barrett Phelan]]</li><!--
-  --><li style="">[[Erika Bundy]]</li><!--
-  --><li style="">[[Jaci Kramer]]</li><!--
-  --><li style="">[[Matt Davis]]</li><!--
-  --><li style="">[[Rachel Austin]]</li><!--
-  --><li style="">[[Richard Gentry]]</li><!--
+  --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
+  --><li style=""><a class="internal-link" href="Erika Bundy">Erika Bundy</a></li><!--
+  --><li style=""><a class="internal-link" href="Jaci Kramer">Jaci Kramer</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Davis">Matt Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Austin">Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Richard Gentry">Richard Gentry</a></li><!--
   --><!--
   --><!--
   --><!--

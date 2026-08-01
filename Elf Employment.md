@@ -5,15 +5,15 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Elf Employment.jpg]]
+				!<a class="internal-link" href="Elf Employment.jpg">Elf Employment.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Salvage Vanguard Theater]] (2011)</li><!--
-  --><li style="">[[The Institution Theater]] (2013)</li><!--
+  --><li style=""><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a> (2011)</li><!--
+  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a> (2013)</li><!--
   --><!--
   --><!--
   --><!--
@@ -89,18 +89,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy McKenna]]</li><!--
-  --><li style="">[[Bryan Curry]]</li><!--
-  --><li style="">[[Camille Latour]]</li><!--
-  --><li style="">[[Chadwick Smith]]</li><!--
-  --><li style="">[[Howard Katz]]</li><!--
-  --><li style="">[[Jennifer Bateman]]</li><!--
-  --><li style="">[[Jesse Overright]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
-  --><li style="" >[[Patrick Knisley]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
-  --><li style="">[[Shawn Utterback]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Camille Latour">Camille Latour</a></li><!--
+  --><li style=""><a class="internal-link" href="Chadwick Smith">Chadwick Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Bateman">Jennifer Bateman</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style="" ><a class="internal-link" href="Patrick Knisley">Patrick Knisley</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Shawn Utterback">Shawn Utterback</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,21 +5,21 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Start Trekkin'.jpg]]
+				!<a class="internal-link" href="Start Trekkin'.jpg">Start Trekkin'.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Sean Hill]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
-  --><li style="">[[Jay Michael]]</li><!--
+  --><li style=""><a class="internal-link" href="Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Michael">Jay Michael</a></li><!--
   --><!--
   --><!--
   --><!--

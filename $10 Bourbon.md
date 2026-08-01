@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[$10 Bourbon.jpg]]
+				!<a class="internal-link" href="$10 Bourbon.jpg">$10 Bourbon.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Nixon]]</li><!--
-  --><li style="">[[Andy Pereira]]</li><!--
-  --><li style="">[[Erin Molson]]</li><!--
-  --><li style="">[[Erin Plischke]]</li><!--
-  --><li style="">[[Terrill Fischer]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Nixon">Alex Nixon</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
+  --><li style=""><a class="internal-link" href="Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Erin Plischke">Erin Plischke</a></li><!--
+  --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
   --><!--
   --><!--
   --><!--

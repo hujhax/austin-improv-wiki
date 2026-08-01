@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kingston.jpg]]
+				!<a class="internal-link" href="Kingston.jpg">Kingston.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris McKeever]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Jillian Besemer]]</li><!--
-  --><li style="">[[Lane Ingram]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
+  --><li style=""><a class="internal-link" href="Chris McKeever">Chris McKeever</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jillian Besemer">Jillian Besemer</a></li><!--
+  --><li style=""><a class="internal-link" href="Lane Ingram">Lane Ingram</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

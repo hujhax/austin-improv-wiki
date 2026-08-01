@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Rook.png]]
+				!<a class="internal-link" href="Rook.png">Rook.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Megan Sherrod]]</li><!--
-  --><li style="">[[Natalie Wright]] Former:</li><!--
-  --><li style="">[[Walter Nichols]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Sherrod">Megan Sherrod</a></li><!--
+  --><li style=""><a class="internal-link" href="Natalie Wright">Natalie Wright</a> Former:</li><!--
+  --><li style=""><a class="internal-link" href="Walter Nichols">Walter Nichols</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--

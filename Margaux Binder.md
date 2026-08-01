@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Margaux Binder.jpg]]
+				!<a class="internal-link" href="Margaux Binder.jpg">Margaux Binder.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[The New Movement]]</td>
+			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

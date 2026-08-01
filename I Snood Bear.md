@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[I Snood Bear.jpg]]
+				!<a class="internal-link" href="I Snood Bear.jpg">I Snood Bear.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Christina Bain]]</li><!--
-  --><li style="">[[Wesley Bain]]</li><!--
+  --><li style=""><a class="internal-link" href="Christina Bain">Christina Bain</a></li><!--
+  --><li style=""><a class="internal-link" href="Wesley Bain">Wesley Bain</a></li><!--
   --><!--
   --><!--
   --><!--

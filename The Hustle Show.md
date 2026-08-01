@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Hustle Show.jpg]]
+				!<a class="internal-link" href="The Hustle Show.jpg">The Hustle Show.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Jara]] (co-host)</li><!--
-  --><li style="">[[Mac Blake]] (co-host)</li><!--
+  --><li style=""><a class="internal-link" href="David Jara">David Jara</a> (co-host)</li><!--
+  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a> (co-host)</li><!--
   --><!--
   --><!--
   --><!--
@@ -79,13 +79,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Courtney Sevener]]</li><!--
-  --><li style="">[[Curtis Luciani]]</li><!--
-  --><li style="">[[Jeff Whitaker]]</li><!--
-  --><li style="">[[Sam Malcolm]]</li><!--
-  --><li style="">[[Scott Raney]]</li><!--
-  --><li style="">[[Tre Fuentes]]</li><!--
-  --><li style="">[[Ximena Estrada]]</li><!--
+  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
+  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Raney">Scott Raney</a></li><!--
+  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
+  --><li style=""><a class="internal-link" href="Ximena Estrada">Ximena Estrada</a></li><!--
   --><!--
   --><!--
   --><!--

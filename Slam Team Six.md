@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Slam Team Six.jpg]]
+				!<a class="internal-link" href="Slam Team Six.jpg">Slam Team Six.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Lance Gilstrap]]</td>
+			<td class="category"><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></td>
 		</tr>
 
 
@@ -26,26 +26,26 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Cody Dearing]]</td>
+			<td class="category"><a class="internal-link" href="Cody Dearing">Cody Dearing</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Baia]]</li><!--
-  --><li style="">[[Andrew Basile]]</li><!--
-  --><li style="">[[Benjamin Bazan]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="" >[[Meredith Mae Roberts]]</li><!--
-  --><li style="">[[Mia Iseman]]</li><!--
-  --><li style="">[[Michael Williams]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
-  --><li style="">[[Will Casto]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Benjamin Bazan">Benjamin Bazan</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style="" ><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
   --><!--
   --><!--
   --><!--

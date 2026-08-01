@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Sullivan]]</li><!--
-  --><li style="">[[Andrew Basile]]</li><!--
-  --><li style="">[[Arian Brumby]]</li><!--
-  --><li style="">[[Carlos LaRotta]]</li><!--
-  --><li style="">[[Katherine Johnson]]</li><!--
-  --><li style="">[[Sam Bremen]]</li><!--
-  --><li style="">[[Tre Fuentes]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Sullivan">Adam Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
+  --><li style=""><a class="internal-link" href="Carlos LaRotta">Carlos LaRotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Katherine Johnson">Katherine Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Bremen">Sam Bremen</a></li><!--
+  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Do You Still Want To Do This.jpg]]
+				!<a class="internal-link" href="Do You Still Want To Do This.jpg">Do You Still Want To Do This.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Dobrenko]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><!--
   --><!--
   --><!--

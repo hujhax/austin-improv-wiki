@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Known wizards.jpg]]
+				!<a class="internal-link" href="Known wizards.jpg">Known wizards.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lauren Buck]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="">[[Kevin Miller]]</li><!--
-  --><li style="">[[Ted Rutherford]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="" >[[Jillian Summar]]</li><!--
-  --><li style="">[[Chuy Zarate]]</li><!--
+  --><li style=""><a class="internal-link" href="Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Chuy Zarate">Chuy Zarate</a></li><!--
   --><!--
   --><!--
   --><!--

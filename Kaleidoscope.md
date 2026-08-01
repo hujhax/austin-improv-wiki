@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kaleidoscope.jpg]]
+				!<a class="internal-link" href="Kaleidoscope.jpg">Kaleidoscope.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Adam Trabka]]</td>
+			<td class="category"><a class="internal-link" href="Adam Trabka">Adam Trabka</a></td>
 		</tr>
 
 
@@ -28,12 +28,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Courtney Sevener]]</li><!--
-  --><li style="">[[Jeff Whitaker]]</li><!--
-  --><li style="">[[Juliet Prather]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
+  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
+  --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Sword of Merlin Works.jpg]]
+				!<a class="internal-link" href="The Sword of Merlin Works.jpg">The Sword of Merlin Works.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,14 +84,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Wells]]</li><!--
-  --><li style="">[[Jennifer Dorsey]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Stacey Hopp]]</li><!--
-  --><li style="">[[Thedward Blevins]]</li><!--
-  --><li style="">[[Todd Geldon]]</li><!--
-  --><li style="">[[Zachary Palmer]]</li><!--
+  --><li style=""><a class="internal-link" href="David Wells">David Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Dorsey">Jennifer Dorsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Stacey Hopp">Stacey Hopp</a></li><!--
+  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
+  --><li style=""><a class="internal-link" href="Zachary Palmer">Zachary Palmer</a></li><!--
   --><!--
   --><!--
   --><!--

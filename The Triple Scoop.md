@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Triple Scoop.jpg]]
+				!<a class="internal-link" href="The Triple Scoop.jpg">The Triple Scoop.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[IScream Sandwich]]</td>
+			<td class="category"><a class="internal-link" href="IScream Sandwich">IScream Sandwich</a></td>
 		</tr>
 
 

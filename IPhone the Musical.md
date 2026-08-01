@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Wesley]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[Frank Willmore]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[Phil Wilhelm]]</li><!--
-  --><li style="">[[Scott Moss]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Wesley">Andrew Wesley</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Willmore">Frank Willmore</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Phil Wilhelm">Phil Wilhelm</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
   --><!--
   --><!--
   --><!--

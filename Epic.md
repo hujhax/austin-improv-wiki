@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Epic.jpg]]
+				!<a class="internal-link" href="Epic.jpg">Epic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,24 +16,24 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Gray]]</li><!--
-  --><li style="">[[Alexander Hilary]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Brent Unger]]</li><!--
-  --><li style="">[[Cortney DeAngelo]]</li><!--
-  --><li style="">[[Dana Yanoshak]]</li><!--
-  --><li style="">[[David C. Wells]]</li><!--
-  --><li style="" >[[David Lampe]]</li><!--
-  --><li style="">[[Edwin Wise]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="">[[Jason Oliver]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Sarah Swofford]]</li><!--
-  --><li style="">[[Scott Hearne]]</li><!--
-  --><li style="">[[Sophia Hoang]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Gray">Alex Gray</a></li><!--
+  --><li style=""><a class="internal-link" href="Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Brent Unger">Brent Unger</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="David C. Wells">David C. Wells</a></li><!--
+  --><li style="" ><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Edwin Wise">Edwin Wise</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Oliver">Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Hearne">Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Sophia Hoang">Sophia Hoang</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Danny Catlow]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Jessica Hamilton]]</li><!--
-  --><li style="">[[Katie Sicking]]</li><!--
-  --><li style="">[[Lacy Cox]]</li><!--
-  --><li style="">[[Particia Tate]]</li><!--
-  --><li style="">[[Sam Van Metre]]</li><!--
+  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
+  --><li style=""><a class="internal-link" href="Particia Tate">Particia Tate</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
   --><!--
   --><!--
   --><!--

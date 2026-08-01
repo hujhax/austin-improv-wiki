@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Danger! Warning! Improv!.jpg]]
+				!<a class="internal-link" href="Danger! Warning! Improv!.jpg">Danger! Warning! Improv!.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

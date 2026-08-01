@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Tomato Pie.jpg]]
+				!<a class="internal-link" href="Tomato Pie.jpg">Tomato Pie.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Franks]]</li><!--
-  --><li style="">[[Joshua Philips]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Franks">Ashley Franks</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
   --><!--
   --><!--
   --><!--

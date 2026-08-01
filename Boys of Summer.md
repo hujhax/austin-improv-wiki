@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Boys of Summer 2012 Poster.jpg]]
+				!<a class="internal-link" href="Boys of Summer 2012 Poster.jpg">Boys of Summer 2012 Poster.jpg</a>
 			</td>
 		</tr>
 
@@ -16,7 +16,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Girls Girls Girls]]</td>
+			<td class="category"><a class="internal-link" href="Girls Girls Girls">Girls Girls Girls</a></td>
 		</tr>
 
 
@@ -27,7 +27,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category">[[Girls Girls Girls]]</td>
+			<td class="category"><a class="internal-link" href="Girls Girls Girls">Girls Girls Girls</a></td>
 		</tr>
 
 

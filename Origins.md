@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Origins Placeholder Image.jpg]]
+				!<a class="internal-link" href="Origins Placeholder Image.jpg">Origins Placeholder Image.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Manuel Duran]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
+  --><li style=""><a class="internal-link" href="Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,16 +79,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ann Symmonds]]</li><!--
-  --><li style="">[[Benjamin Blattberg]]</li><!--
-  --><li style="">[[Jenn Hamm]]</li><!--
-  --><li style="">[[Judy Blackshear]]</li><!--
-  --><li style="">[[Kathie Xiao]]</li><!--
-  --><li style="">[[Paül Ramone Weiner]]</li><!--
-  --><li style="">[[Phil Morin]]</li><!--
-  --><li style="">[[R Lance Hunter]]</li><!--
-  --><li style="" >[[Rachel Posey Austin]]</li><!--
-  --><li style="">[[Tosin Awofeso]]</li><!--
+  --><li style=""><a class="internal-link" href="Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
+  --><li style=""><a class="internal-link" href="Judy Blackshear">Judy Blackshear</a></li><!--
+  --><li style=""><a class="internal-link" href="Kathie Xiao">Kathie Xiao</a></li><!--
+  --><li style=""><a class="internal-link" href="Paül Ramone Weiner">Paül Ramone Weiner</a></li><!--
+  --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a></li><!--
+  --><li style=""><a class="internal-link" href="R Lance Hunter">R Lance Hunter</a></li><!--
+  --><li style="" ><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Tosin Awofeso">Tosin Awofeso</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,11 +136,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brianna Minks]]</li><!--
-  --><li style="">[[Cindy Page]] (tech director)</li><!--
-  --><li style="">[[Monica Wells]]</li><!--
-  --><li style="">[[Nick Amsden]]</li><!--
-  --><li style="">[[Sandra Ybarra]] (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Brianna Minks">Brianna Minks</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a> (tech director)</li><!--
+  --><li style=""><a class="internal-link" href="Monica Wells">Monica Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a></li><!--
+  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a> (stage manager)</li><!--
   --><!--
   --><!--
   --><!--

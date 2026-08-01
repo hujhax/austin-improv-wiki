@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Umami.jpg]]
+				!<a class="internal-link" href="Umami.jpg">Umami.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dave Rosenbaum]]</li><!--
-  --><li style="">[[Matt Craighead]]</li><!--
-  --><li style="">[[Nancy Lyon]]</li><!--
-  --><li style="">[[Regina Soto]]</li><!--
-  --><li style="">[[Susannah Raulino]]</li><!--
+  --><li style=""><a class="internal-link" href="Dave Rosenbaum">Dave Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Craighead">Matt Craighead</a></li><!--
+  --><li style=""><a class="internal-link" href="Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style=""><a class="internal-link" href="Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

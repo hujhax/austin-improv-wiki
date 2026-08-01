@@ -5,29 +5,29 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Buddycop.jpg]]
+				!<a class="internal-link" href="Buddycop.jpg">Buddycop.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Marc Majcher]]</td>
+			<td class="category"><a class="internal-link" href="Marc Majcher">Marc Majcher</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Suzanne Link]]</td>
+			<td class="category"><a class="internal-link" href="Suzanne Link">Suzanne Link</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Cindy Page]]</td>
+			<td class="category"><a class="internal-link" href="Cindy Page">Cindy Page</a></td>
 		</tr>
 
 
@@ -38,16 +38,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Rubin]]</li><!--
-  --><li style="">[[Adam Pabbason]]</li><!--
-  --><li style="">[[Andrew Ancy]]</li><!--
-  --><li style="">[[Beth Koenig]]</li><!--
-  --><li style="">[[Chelsea Beth]]</li><!--
-  --><li style="">[[Dave Ronn]]</li><!--
-  --><li style="">[[Esperanza Rivadeneira]]</li><!--
-  --><li style="">[[Johnny Anzollitto]]</li><!--
-  --><li style="" >[[Katie Mathews]]</li><!--
-  --><li style="">[[Sue Jordan]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
+  --><li style=""><a class="internal-link" href="Adam Pabbason">Adam Pabbason</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Ancy">Andrew Ancy</a></li><!--
+  --><li style=""><a class="internal-link" href="Beth Koenig">Beth Koenig</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Ronn">Dave Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Esperanza Rivadeneira">Esperanza Rivadeneira</a></li><!--
+  --><li style=""><a class="internal-link" href="Johnny Anzollitto">Johnny Anzollitto</a></li><!--
+  --><li style="" ><a class="internal-link" href="Katie Mathews">Katie Mathews</a></li><!--
+  --><li style=""><a class="internal-link" href="Sue Jordan">Sue Jordan</a></li><!--
   --><!--
   --><!--
   --><!--

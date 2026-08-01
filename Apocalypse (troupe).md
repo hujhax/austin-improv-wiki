@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Apocalypse (troupe).jpg]]
+				!<a class="internal-link" href="Apocalypse (troupe).jpg">Apocalypse (troupe).jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,20 +15,20 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Andreas Fabis]]</td>
+			<td class="category"><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Brent Unger]]</li><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[Dana Yanoshak]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Robin Anderson]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Brent Unger">Brent Unger</a></li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Dahl House.jpg]]
+				!<a class="internal-link" href="The Dahl House.jpg">The Dahl House.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Valerie Ward]]</td>
+			<td class="category"><a class="internal-link" href="Valerie Ward">Valerie Ward</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Jayme Ramsay]]</td>
+			<td class="category"><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></td>
 		</tr>
 
 
@@ -33,14 +33,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Schwartz]]</li><!--
-  --><li style="">[[Ann Symmonds]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[Heather Hasselle]]</li><!--
-  --><li style="">[[Michael Guy Bowman]]</li><!--
-  --><li style="">[[Rosemarie Frezza]]</li><!--
-  --><li style="">[[Tess Hermes]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Heather Hasselle">Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Guy Bowman">Michael Guy Bowman</a></li><!--
+  --><li style=""><a class="internal-link" href="Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Precious Dads.jpg]]
+				!<a class="internal-link" href="Precious Dads.jpg">Precious Dads.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Addison Billingsley]]</li><!--
-  --><li style="">[[Byron Brown]]</li><!--
-  --><li style="">[[Carlos LaRotta]]</li><!--
-  --><li style="">[[Jeff Whitaker]]</li><!--
-  --><li style="">[[Kirk Johnson]]</li><!--
-  --><li style="">[[Max Lipchitz]]</li><!--
-  --><li style="">[[Tre Fuentes]]</li><!--
-  --><li style="">[[Will Elliott]]</li><!--
-  --><li style="" >[[Ximena Estrada]]</li><!--
+  --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
+  --><li style=""><a class="internal-link" href="Byron Brown">Byron Brown</a></li><!--
+  --><li style=""><a class="internal-link" href="Carlos LaRotta">Carlos LaRotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
+  --><li style=""><a class="internal-link" href="Kirk Johnson">Kirk Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Max Lipchitz">Max Lipchitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
+  --><li style=""><a class="internal-link" href="Will Elliott">Will Elliott</a></li><!--
+  --><li style="" ><a class="internal-link" href="Ximena Estrada">Ximena Estrada</a></li><!--
   --><!--
   --><!--
   --><!--

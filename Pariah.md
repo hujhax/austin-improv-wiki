@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Pariah.jpg]]
+				!<a class="internal-link" href="Pariah.jpg">Pariah.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Courtney Sevener]]</li><!--
-  --><li style="">[[Tre Fuentes]]</li><!--
+  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
+  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
   --><!--
   --><!--
   --><!--

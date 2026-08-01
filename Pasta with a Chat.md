@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Pasta with a Chat.png]]
+				!<a class="internal-link" href="Pasta with a Chat.png">Pasta with a Chat.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
   --><!--
   --><!--
   --><!--

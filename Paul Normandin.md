@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Paul Normandin Pic.jpg]]
+				!<a class="internal-link" href="Paul Normandin Pic.jpg">Paul Normandin Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[Merlin Works Institute for Improvisation]]</td>
+			<td class="category"><a class="internal-link" href="Merlin Works Institute for Improvisation">Merlin Works Institute for Improvisation</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

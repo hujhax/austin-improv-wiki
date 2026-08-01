@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Sweet Justice.jpg]]
+				!<a class="internal-link" href="Sweet Justice.jpg">Sweet Justice.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kevin Miller]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style=""><a class="internal-link" href="Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
   --><!--
   --><!--
   --><!--

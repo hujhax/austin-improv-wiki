@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Ka-Baam!! Logo.png]]
+				!<a class="internal-link" href="Ka-Baam!! Logo.png">Ka-Baam!! Logo.png</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 
 
@@ -28,22 +28,22 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Erik Adams]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Jon Clinkenbeard]]</li><!--
-  --><li style="">[[Justin Davis]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="" >[[Kaci Beeler]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Michael Thomas]]</li><!--
-  --><li style="">[[Patrick Daniel]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

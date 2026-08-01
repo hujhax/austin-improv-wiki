@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Empty Promises.jpg]]
+				!<a class="internal-link" href="Empty Promises.jpg">Empty Promises.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alejandro Garcia]]</li><!--
-  --><li style="">[[Eli Eidson]]</li><!--
-  --><li style="">[[Ian Townsend]]</li><!--
-  --><li style="">[[KC Harvey-Taylor]]</li><!--
-  --><li style="">[[Mathew Stoner]]</li><!--
-  --><li style="">[[Matt Needles]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
-  --><li style="">[[Caitlin McNally]]</li><!--
-  --><li style="" >[[Justin Linville]]</li><!--
+  --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Eli Eidson">Eli Eidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Mathew Stoner">Mathew Stoner</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Caitlin McNally">Caitlin McNally</a></li><!--
+  --><li style="" ><a class="internal-link" href="Justin Linville">Justin Linville</a></li><!--
   --><!--
   --><!--
   --><!--

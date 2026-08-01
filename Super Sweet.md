@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Super Sweet.jpg]]
+				!<a class="internal-link" href="Super Sweet.jpg">Super Sweet.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Craig Mcgreggor]]</li><!--
-  --><li style="">[[Lori Hobbie]]</li><!--
-  --><li style="">[[R. Lance Hunter]]</li><!--
-  --><li style="">[[Rosemarie Frezza]]</li><!--
-  --><li style="">[[Shannon Dale Stott]]</li><!--
+  --><li style=""><a class="internal-link" href="Craig Mcgreggor">Craig Mcgreggor</a></li><!--
+  --><li style=""><a class="internal-link" href="Lori Hobbie">Lori Hobbie</a></li><!--
+  --><li style=""><a class="internal-link" href="R. Lance Hunter">R. Lance Hunter</a></li><!--
+  --><li style=""><a class="internal-link" href="Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon Dale Stott">Shannon Dale Stott</a></li><!--
   --><!--
   --><!--
   --><!--

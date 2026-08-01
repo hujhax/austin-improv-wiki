@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Unfurled Pic.jpg]]
+				!<a class="internal-link" href="Unfurled Pic.jpg">Unfurled Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Beth Lebwohl]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[Hanna Woodruff]]</li><!--
-  --><li style="">[[Jason Cohen]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
-  --><li style="">[[Julia Kirchen]]</li><!--
-  --><li style="">[[Katie Sicking]]</li><!--
-  --><li style="" >[[Scott Moss]]</li><!--
+  --><li style=""><a class="internal-link" href="Beth Lebwohl">Beth Lebwohl</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Hanna Woodruff">Hanna Woodruff</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Cohen">Jason Cohen</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Julia Kirchen">Julia Kirchen</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style="" ><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
   --><!--
   --><!--
   --><!--

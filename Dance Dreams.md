@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Dance dreams.jpg]]
+				!<a class="internal-link" href="Dance dreams.jpg">Dance dreams.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Rachel Posey Austin]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,18 +79,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Erin Molson]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Kelly Hasandras]]</li><!--
-  --><li style="">[[Linzy Beltran]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Marc Jalandoon]]</li><!--
-  --><li style="">[[Margaret Hunsicker]]</li><!--
-  --><li style="">[[Nicholas Marino]]</li><!--
-  --><li style="" >[[Quinn Buckner]]</li><!--
-  --><li style="">[[Rachel Austin]]</li><!--
-  --><li style="">[[Rosemarie Frezza]]</li><!--
-  --><li style="">[[Way Spurr-Chen]]</li><!--
+  --><li style=""><a class="internal-link" href="Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelly Hasandras">Kelly Hasandras</a></li><!--
+  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Jalandoon">Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicholas Marino">Nicholas Marino</a></li><!--
+  --><li style="" ><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Austin">Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Way Spurr-Chen">Way Spurr-Chen</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Achatina Achatina.jpg]]
+				!<a class="internal-link" href="Achatina Achatina.jpg">Achatina Achatina.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,23 +15,23 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Ashley Nugent]]</td>
+			<td class="category"><a class="internal-link" href="Ashley Nugent">Ashley Nugent</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Brian Howard]]</li><!--
-  --><li style="">[[Chaz Formichella]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Ed Reed IV]]</li><!--
-  --><li style="">[[Grant Specht]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
-  --><li style="" >[[Liz Butler]]</li><!--
-  --><li style="">[[Matt Derman]]</li><!--
-  --><li style="">[[Steve Donovan]]</li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian Howard">Brian Howard</a></li><!--
+  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed IV">Ed Reed IV</a></li><!--
+  --><li style=""><a class="internal-link" href="Grant Specht">Grant Specht</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style="" ><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
   --><!--
   --><!--
   --><!--

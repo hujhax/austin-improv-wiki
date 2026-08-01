@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Scene of the Crime Poster.jpg]]
+				!<a class="internal-link" href="Scene of the Crime Poster.jpg">Scene of the Crime Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Troy Miller]]</td>
+			<td class="category"><a class="internal-link" href="Troy Miller">Troy Miller</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Jenna Howard]]</td>
+			<td class="category"><a class="internal-link" href="Jenna Howard">Jenna Howard</a></td>
 		</tr>
 
 
@@ -32,25 +32,25 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[James Blair]]</td>
+			<td class="category"><a class="internal-link" href="James Blair">James Blair</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Andrew Buck]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Cynthia Cobb Oelkers]]</li><!--
-  --><li style="">[[David Schwartz]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Kenny Madison]]</li><!--
-  --><li style="" >[[Mia Iseman]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Sean Hill]]</li><!--
-  --><li style="">[[Troy A. Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Cynthia Cobb Oelkers">Cynthia Cobb Oelkers</a></li><!--
+  --><li style=""><a class="internal-link" href="David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Kenny Madison">Kenny Madison</a></li><!--
+  --><li style="" ><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy A. Miller">Troy A. Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -95,10 +95,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Schwartz]] (lights and sound)</li><!--
-  --><li style="">[[Jay Michael]] (stage manager, lights and sound)</li><!--
-  --><li style="">[[Neal Tibrewala]] (technical director)</li><!--
-  --><li style="">[[Paul Ramone Weiner]] (lights and sound)</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a> (lights and sound)</li><!--
+  --><li style=""><a class="internal-link" href="Jay Michael">Jay Michael</a> (stage manager, lights and sound)</li><!--
+  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a> (technical director)</li><!--
+  --><li style=""><a class="internal-link" href="Paul Ramone Weiner">Paul Ramone Weiner</a> (lights and sound)</li><!--
   --><!--
   --><!--
   --><!--

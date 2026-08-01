@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dimitri Khosropour]]</li><!--
-  --><li style="">[[Kenny Madison]]</li><!--
-  --><li style="">[[Amanda Smith]]</li><!--
-  --><li style="">[[Robert Slack]]</li><!--
-  --><li style="">[[Norman Tran]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Alexander Addison]]</li><!--
-  --><li style="">[[Frank Willmore]]</li><!--
-  --><li style="" >[[Gene Zhou]]</li><!--
+  --><li style=""><a class="internal-link" href="Dimitri Khosropour">Dimitri Khosropour</a></li><!--
+  --><li style=""><a class="internal-link" href="Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Amanda Smith">Amanda Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Alexander Addison">Alexander Addison</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Willmore">Frank Willmore</a></li><!--
+  --><li style="" ><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
   --><!--
   --><!--
   --><!--

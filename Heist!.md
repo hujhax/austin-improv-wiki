@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Heist.jpg]]
+				!<a class="internal-link" href="Heist.jpg">Heist.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,17 +84,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Averett]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Avimaan Syam]]</li><!--
-  --><li style="">[[Howard L Katz]]</li><!--
-  --><li style="">[[Hugo Vargas-Zesati]]</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
-  --><li style="">[[Madi Goff]]</li><!--
-  --><li style="" >[[Michael Joplin]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
-  --><li style="">[[Susannah Raulino]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Avimaan Syam">Avimaan Syam</a></li><!--
+  --><li style=""><a class="internal-link" href="Howard L Katz">Howard L Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Madi Goff">Madi Goff</a></li><!--
+  --><li style="" ><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

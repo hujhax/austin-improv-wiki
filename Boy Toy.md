@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Boy Toy.jpg]]
+				!<a class="internal-link" href="Boy Toy.jpg">Boy Toy.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alison Alvarez]]</li><!--
-  --><li style="">[[Arthur Simone]]</li><!--
-  --><li style="">[[Brent Foshee]]</li><!--
-  --><li style="">[[Clay Crenshaw]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[David Hess]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Josh Krilov]]</li><!--
-  --><li style="" >[[Katie Sicking]]</li><!--
-  --><li style="">[[Liz Brammer]]</li><!--
+  --><li style=""><a class="internal-link" href="Alison Alvarez">Alison Alvarez</a></li><!--
+  --><li style=""><a class="internal-link" href="Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style=""><a class="internal-link" href="Clay Crenshaw">Clay Crenshaw</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style="" ><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Ctrl Alt Delete.jpg]]
+				!<a class="internal-link" href="Ctrl Alt Delete.jpg">Ctrl Alt Delete.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chrissy Shackelford]]</li><!--
-  --><li style="">[[Jessica Marpe]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
+  --><li style=""><a class="internal-link" href="Chrissy Shackelford">Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
   --><!--
   --><!--
   --><!--

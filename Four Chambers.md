@@ -5,24 +5,24 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The tribunal.jpg]]
+				!<a class="internal-link" href="The tribunal.jpg">The tribunal.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Marc Majcher]]</td>
+			<td class="category"><a class="internal-link" href="Marc Majcher">Marc Majcher</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Lindsey McGowen]]</td>
+			<td class="category"><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
 
 

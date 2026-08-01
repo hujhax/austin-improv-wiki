@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Watergate.jpg]]
+				!<a class="internal-link" href="Watergate.jpg">Watergate.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Arian Brumby]]</li><!--
-  --><li style="">[[Carlos LaRotta]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Tre Fuentes]]</li><!--
+  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
+  --><li style=""><a class="internal-link" href="Carlos LaRotta">Carlos LaRotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
   --><!--
   --><!--
   --><!--

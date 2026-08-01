@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Margaret Rose.jpg]]
+				!<a class="internal-link" href="Margaret Rose.jpg">Margaret Rose.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[The Institution Theater]], [[Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a>, <a class="internal-link" href="Hideout Theatre">Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

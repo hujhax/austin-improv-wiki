@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Fuck Its Hot Poster.jpg]]
+				!<a class="internal-link" href="Fuck Its Hot Poster.jpg">Fuck Its Hot Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Tom Booker]]</td>
+			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
 		</tr>
 
 
@@ -28,17 +28,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ash Nunley]]</li><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Bryan Curry]]</li><!--
-  --><li style="">[[Claudio Fox]]</li><!--
-  --><li style="">[[Duncan Coe]]</li><!--
-  --><li style="">[[Elena Weinberg]]</li><!--
-  --><li style="">[[Sam Schak]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
-  --><li style="" >[[Sarah Swofford]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
-  --><li style="">[[Tyler Bryce]]</li><!--
+  --><li style=""><a class="internal-link" href="Ash Nunley">Ash Nunley</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Duncan Coe">Duncan Coe</a></li><!--
+  --><li style=""><a class="internal-link" href="Elena Weinberg">Elena Weinberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,8 +85,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan Curry]]</li><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><!--
   --><!--
   --><!--

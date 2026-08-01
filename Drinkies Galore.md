@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Drinkies Galore 3.jpg]]
+				!<a class="internal-link" href="Drinkies Galore 3.jpg">Drinkies Galore 3.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dario Konjicija]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style=""><a class="internal-link" href="Dario Konjicija">Dario Konjicija</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

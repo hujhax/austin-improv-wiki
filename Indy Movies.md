@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Indy Movies.jpg]]
+				!<a class="internal-link" href="Indy Movies.jpg">Indy Movies.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Cody Dearing]]</td>
+			<td class="category"><a class="internal-link" href="Cody Dearing">Cody Dearing</a></td>
 		</tr>
 
 
@@ -28,21 +28,21 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Calan lambert]]</li><!--
-  --><li style="">[[Chrissy Shackelford]]</li><!--
-  --><li style="">[[Daniel Erving]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Eli Eidson]]</li><!--
-  --><li style="">[[Jake Millward]]</li><!--
-  --><li style="">[[Katie Moore]]</li><!--
-  --><li style="">[[Kyle Sweeney]]</li><!--
-  --><li style="" >[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Maitland Lederer]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
-  --><li style="">[[Seth Johnson]]</li><!--
-  --><li style="">[[Steve Moore]]</li><!--
-  --><li style="">[[Will Casto]]</li><!--
+  --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="Chrissy Shackelford">Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Daniel Erving">Daniel Erving</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Eli Eidson">Eli Eidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style="" ><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
+  --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
   --><!--
   --><!--
   --><!--

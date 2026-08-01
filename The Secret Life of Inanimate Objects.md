@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Secret Life of Inanimate Objects Image.jpg]]
+				!<a class="internal-link" href="The Secret Life of Inanimate Objects Image.jpg">The Secret Life of Inanimate Objects Image.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[J. R. Zambrano]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style=""><a class="internal-link" href="J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,15 +84,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Rubin]]</li><!--
-  --><li style="">[[Bonnie Dilber]]</li><!--
-  --><li style="">[[Christina Keller]]</li><!--
-  --><li style="">[[Joy Parks]]</li><!--
-  --><li style="">[[Kelly Campbell]]</li><!--
-  --><li style="">[[Lahari Samineni]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Nichole Bennett]]</li><!--
-  --><li style="" >[[Tyler Groce]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
+  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a></li><!--
+  --><li style=""><a class="internal-link" href="Christina Keller">Christina Keller</a></li><!--
+  --><li style=""><a class="internal-link" href="Joy Parks">Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Nichole Bennett">Nichole Bennett</a></li><!--
+  --><li style="" ><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -141,10 +141,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Benjamin Blattberg]]</li><!--
-  --><li style="">[[Carolyn Gjertsen]]</li><!--
-  --><li style="">[[Cortney DeAngelo]] (tech director)</li><!--
-  --><li style="">[[Nick Amsden]]</li><!--
+  --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a> (tech director)</li><!--
+  --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Rapture the Flag.jpg]]
+				!<a class="internal-link" href="Rapture the Flag.jpg">Rapture the Flag.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Michael Jastroch]]</td>
+			<td class="category"><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Steve Donovan]]</td>
+			<td class="category"><a class="internal-link" href="Steve Donovan">Steve Donovan</a></td>
 		</tr>
 
 
@@ -32,18 +32,18 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Jason Laney]]</td>
+			<td class="category"><a class="internal-link" href="Jason Laney">Jason Laney</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Chris Baldenhofer]]</li><!--
-  --><li style="">[[Elizabeth Brammer]]</li><!--
-  --><li style="">[[Erica Lies]]</li><!--
-  --><li style="">[[Justin York]]</li><!--
-  --><li style="">[[Teresa Kubos York]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa Kubos York">Teresa Kubos York</a></li><!--
   --><!--
   --><!--
   --><!--

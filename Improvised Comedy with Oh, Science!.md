@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Oh, Science!.jpg]]
+				!<a class="internal-link" href="Oh, Science!.jpg">Oh, Science!.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Oh, Science!]]</td>
+			<td class="category"><a class="internal-link" href="Oh, Science!">Oh, Science!</a></td>
 		</tr>
 
 
@@ -28,7 +28,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Oh, Science!]]</li><!--
+  --><li style=""><a class="internal-link" href="Oh, Science!">Oh, Science!</a></li><!--
   --><li style="">Guest acts</li><!--
   --><!--
   --><!--

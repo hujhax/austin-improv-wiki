@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Amy McCurdy]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Itcamefromyourbrain!.jpg]]
+				!<a class="internal-link" href="Itcamefromyourbrain!.jpg">Itcamefromyourbrain!.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kenny Madison]]</li><!--
-  --><li style="">[[Nicholaus Weindel]]</li><!--
+  --><li style=""><a class="internal-link" href="Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicholaus Weindel">Nicholaus Weindel</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,14 +84,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jennifer Dorsey]]</li><!--
-  --><li style="">[[Marcone Cangussu]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Alicia Earls]]</li><!--
-  --><li style="">[[Ethan Stites]]</li><!--
-  --><li style="">[[Heidi Penix]]</li><!--
-  --><li style="">[[Ben Howell]]</li><!--
-  --><li style="">[[Heidi Lorenz]] (Host)</li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Dorsey">Jennifer Dorsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Marcone Cangussu">Marcone Cangussu</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Alicia Earls">Alicia Earls</a></li><!--
+  --><li style=""><a class="internal-link" href="Ethan Stites">Ethan Stites</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Penix">Heidi Penix</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Howell">Ben Howell</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Lorenz">Heidi Lorenz</a> (Host)</li><!--
   --><!--
   --><!--
   --><!--
@@ -141,9 +141,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Neil Dorsey]]</li><!--
-  --><li style="">[[Juese Cutler]]</li><!--
-  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Juese Cutler">Juese Cutler</a></li><!--
+  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

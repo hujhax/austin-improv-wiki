@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Aftermath.jpg]]
+				!<a class="internal-link" href="The Aftermath.jpg">The Aftermath.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jordan T. Maxwell]]</td>
+			<td class="category"><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Cindy Page]]</td>
+			<td class="category"><a class="internal-link" href="Cindy Page">Cindy Page</a></td>
 		</tr>
 
 
@@ -33,14 +33,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Barrett Phelan]]</li><!--
-  --><li style="">[[Cassidy Santaguida]]</li><!--
-  --><li style="">[[Haley Alea Erickson]]</li><!--
-  --><li style="">[[Josh Santo]]</li><!--
-  --><li style="">[[JR Zambrano]]</li><!--
-  --><li style="">[[Lori Hobbie]]</li><!--
-  --><li style="">[[Sunaina Suhag]]</li><!--
-  --><li style="">[[Sushant Sethi]]</li><!--
+  --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
+  --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
+  --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Santo">Josh Santo</a></li><!--
+  --><li style=""><a class="internal-link" href="JR Zambrano">JR Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Lori Hobbie">Lori Hobbie</a></li><!--
+  --><li style=""><a class="internal-link" href="Sunaina Suhag">Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,9 +90,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Allison Huston]] (lights)</li><!--
-  --><li style="">[[Robert Heil]] (sound effects)</li><!--
-  --><li style="">[[Sarah Hutchins]] (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Allison Huston">Allison Huston</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Robert Heil">Robert Heil</a> (sound effects)</li><!--
+  --><li style=""><a class="internal-link" href="Sarah Hutchins">Sarah Hutchins</a> (scoring)</li><!--
   --><!--
   --><!--
   --><!--

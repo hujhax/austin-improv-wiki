@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[A Bunch of Liars.jpg]]
+				!<a class="internal-link" href="A Bunch of Liars.jpg">A Bunch of Liars.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Kelley]]</li><!--
-  --><li style="">[[Daniel Rigney]]</li><!--
-  --><li style="">[[Kelli Bland]]</li><!--
-  --><li style="">[[Michael Ferstenfeld]]</li><!--
-  --><li style="">[[Paul Wainright]]</li><!--
-  --><li style="">[[Todd Mein]]</li><!--
+  --><li style=""><a class="internal-link" href="Chris Kelley">Chris Kelley</a></li><!--
+  --><li style=""><a class="internal-link" href="Daniel Rigney">Daniel Rigney</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelli Bland">Kelli Bland</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Wainright">Paul Wainright</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Mein">Todd Mein</a></li><!--
   --><!--
   --><!--
   --><!--

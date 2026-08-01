@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Honeypot.jpg]]
+				!<a class="internal-link" href="The Honeypot.jpg">The Honeypot.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Joshua Philips]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--

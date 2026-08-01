@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[PhysicsCurseMooseBooth2014.jpg]]
+				!<a class="internal-link" href="PhysicsCurseMooseBooth2014.jpg">PhysicsCurseMooseBooth2014.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Rosemarie Frezza]]</li><!--
-  --><li style="">[[Ann Symmonds]]</li><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Rachel Posey Austin]]</li><!--
+  --><li style=""><a class="internal-link" href="Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
   --><!--

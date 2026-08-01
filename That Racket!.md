@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[That Racket!.jpg]]
+				!<a class="internal-link" href="That Racket!.jpg">That Racket!.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Lowrey]]</li><!--
-  --><li style="">[[Ella Gale]]</li><!--
-  --><li style="">[[Kevin Smith]]</li><!--
-  --><li style="">[[Linzy Beltran]]</li><!--
-  --><li style="">[[Mitch Mills]]</li><!--
-  --><li style="">[[Stephanie Chiarello]]</li><!--
-  --><li style="">[[Mike O'Connor]]</li><!--
-  --><li style="">[[David Ronn]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Lowrey">Amy Lowrey</a></li><!--
+  --><li style=""><a class="internal-link" href="Ella Gale">Ella Gale</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Smith">Kevin Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitch Mills">Mitch Mills</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Chiarello">Stephanie Chiarello</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike O'Connor">Mike O'Connor</a></li><!--
+  --><li style=""><a class="internal-link" href="David Ronn">David Ronn</a></li><!--
   --><!--
   --><!--
   --><!--

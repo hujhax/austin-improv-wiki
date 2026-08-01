@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - Freaks and Geeks.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - Freaks and Geeks.jpg">Live TV Tuesdays - Freaks and Geeks.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Ted Meredith]]</td>
+			<td class="category"><a class="internal-link" href="Ted Meredith">Ted Meredith</a></td>
 		</tr>
 
 
@@ -28,20 +28,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Briana Mckeague]]</li><!--
-  --><li style="">[[Carrie Pinkstaff]]</li><!--
-  --><li style="">[[Dave Buckman]]</li><!--
-  --><li style="">[[Guy Vizard]]</li><!--
-  --><li style="">[[Katie Richter]]</li><!--
-  --><li style="">[[Katie Thornton]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
-  --><li style="">[[Laura Komkov]]</li><!--
-  --><li style="" >[[Lindsey Reeves]]</li><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
-  --><li style="">[[Mitchell Deane]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Sam Schak]]</li><!--
-  --><li style="">[[Wyatt Tall]]</li><!--
+  --><li style=""><a class="internal-link" href="Briana Mckeague">Briana Mckeague</a></li><!--
+  --><li style=""><a class="internal-link" href="Carrie Pinkstaff">Carrie Pinkstaff</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Guy Vizard">Guy Vizard</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Richter">Katie Richter</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
+  --><li style="" ><a class="internal-link" href="Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--

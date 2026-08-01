@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[GetUp.jpg]]
+				!<a class="internal-link" href="GetUp.jpg">GetUp.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
   --><!--
   --><!--
   --><!--

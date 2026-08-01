@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Only 90% Effective.jpg]]
+				!<a class="internal-link" href="Only 90% Effective.jpg">Only 90% Effective.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Krebs]]</li><!--
-  --><li style="">[[Amy Blackard]]</li><!--
-  --><li style="">[[Andy Fisher]]</li><!--
-  --><li style="">[[Brently Heilbron]]</li><!--
-  --><li style="">[[Eric Biffle]]</li><!--
-  --><li style="">[[Jessy Schwartz]]</li><!--
-  --><li style="">[[Jon Wiley]]</li><!--
-  --><li style="">[[Leon Mandel]]</li><!--
-  --><li style="" >[[Neil Shah]]</li><!--
-  --><li style="">[[Victoria Osbourne]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Krebs">Aaron Krebs</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Blackard">Amy Blackard</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Fisher">Andy Fisher</a></li><!--
+  --><li style=""><a class="internal-link" href="Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Biffle">Eric Biffle</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessy Schwartz">Jessy Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Wiley">Jon Wiley</a></li><!--
+  --><li style=""><a class="internal-link" href="Leon Mandel">Leon Mandel</a></li><!--
+  --><li style="" ><a class="internal-link" href="Neil Shah">Neil Shah</a></li><!--
+  --><li style=""><a class="internal-link" href="Victoria Osbourne">Victoria Osbourne</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Lola Poster.jpg]]
+				!<a class="internal-link" href="Lola Poster.jpg">Lola Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Shannon McCormick]]</td>
+			<td class="category"><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></td>
 		</tr>
 
 
@@ -26,23 +26,23 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Craig Kotfas]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="" >[[Shannon McCormick]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,13 +90,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brandon Salinas]]</li><!--
-  --><li style="">[[Jen Kaplan]]</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
-  --><li style="">[[Kerri Lendo]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Sara Farr]] (sound design)</li><!--
-  --><li style="">[[Susannah Raulino]]</li><!--
+  --><li style=""><a class="internal-link" href="Brandon Salinas">Brandon Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Kerri Lendo">Kerri Lendo</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a> (sound design)</li><!--
+  --><li style=""><a class="internal-link" href="Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

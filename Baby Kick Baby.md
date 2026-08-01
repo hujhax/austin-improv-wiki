@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Baby Kick Baby.jpg]]
+				!<a class="internal-link" href="Baby Kick Baby.jpg">Baby Kick Baby.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jason Oliver]]</li><!--
-  --><li style="">[[Michael Bird]]</li><!--
+  --><li style=""><a class="internal-link" href="Jason Oliver">Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Bird">Michael Bird</a></li><!--
   --><!--
   --><!--
   --><!--

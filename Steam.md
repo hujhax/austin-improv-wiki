@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Steam.jpg]]
+				!<a class="internal-link" href="Steam.jpg">Steam.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Audrey Rachel Sansom]]</td>
+			<td class="category"><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></td>
 		</tr>
 
 
@@ -26,27 +26,27 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Walther]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Brady James]]</li><!--
-  --><li style="">[[Elizabeth Brammer]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[Gricelda Silva]]</li><!--
-  --><li style="">[[Howard Katz]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="" >[[Jeff Mills]]</li><!--
-  --><li style="">[[Joel Osborne]]</li><!--
-  --><li style="">[[Julie Gillis]]</li><!--
-  --><li style="">[[Kevin Miller]]</li><!--
-  --><li style="">[[Leng Wong]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Brady James">Brady James</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Gricelda Silva">Gricelda Silva</a></li><!--
+  --><li style=""><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jeff Mills">Jeff Mills</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Osborne">Joel Osborne</a></li><!--
+  --><li style=""><a class="internal-link" href="Julie Gillis">Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--

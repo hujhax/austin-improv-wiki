@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[First Round Draft.png]]
+				!<a class="internal-link" href="First Round Draft.png">First Round Draft.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy McCurdy]]</li><!--
-  --><li style="">[[Bob Apthorpe]]</li><!--
-  --><li style="">[[Chris R. B. Fay]]</li><!--
-  --><li style="">[[Ed Piston]]</li><!--
-  --><li style="">[[Griffin Mauser]]</li><!--
-  --><li style="">[[Katy Shea]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="" >[[Shelly Miller Bosse]]</li><!--
-  --><li style="">[[Suzie Mihalak]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
+  --><li style=""><a class="internal-link" href="Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris R. B. Fay">Chris R. B. Fay</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Piston">Ed Piston</a></li><!--
+  --><li style=""><a class="internal-link" href="Griffin Mauser">Griffin Mauser</a></li><!--
+  --><li style=""><a class="internal-link" href="Katy Shea">Katy Shea</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style="" ><a class="internal-link" href="Shelly Miller Bosse">Shelly Miller Bosse</a></li><!--
+  --><li style=""><a class="internal-link" href="Suzie Mihalak">Suzie Mihalak</a></li><!--
   --><!--
   --><!--
   --><!--

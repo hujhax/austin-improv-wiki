@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Meat cute poster.jpg]]
+				!<a class="internal-link" href="Meat cute poster.jpg">Meat cute poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Monica Mahertinez]]</li><!--
-  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style=""><a class="internal-link" href="Monica Mahertinez">Monica Mahertinez</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--

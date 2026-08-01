@@ -5,13 +5,13 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Megaphone Show.jpg]]
+				!<a class="internal-link" href="The Megaphone Show.jpg">The Megaphone Show.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The New Movement Theater]]</td>
+			<td class="category"><a class="internal-link" href="The New Movement Theater">The New Movement Theater</a></td>
 		</tr>
 
 		<tr class="">
@@ -28,10 +28,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Walther]]</li><!--
-  --><li style="">[[Gsu Paek]]</li><!--
-  --><li style="">[[Karen Early]]</li><!--
-  --><li style="">[[Megan Simon]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Gsu Paek">Gsu Paek</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Early">Karen Early</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Simon">Megan Simon</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,36 +5,36 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Rewind.jpg]]
+				!<a class="internal-link" href="Rewind.jpg">Rewind.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Caeriel Crestin]]</td>
+			<td class="category"><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Monica Martinez Maher]]</td>
+			<td class="category"><a class="internal-link" href="Monica Martinez Maher">Monica Martinez Maher</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Cindy Ward]]</td>
+			<td class="category"><a class="internal-link" href="Cindy Ward">Cindy Ward</a></td>
 		</tr>
 
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category">[[Candace Ohm]]</td>
+			<td class="category"><a class="internal-link" href="Candace Ohm">Candace Ohm</a></td>
 		</tr>
 
 
@@ -43,14 +43,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Angelina Martin]]</li><!--
-  --><li style="">[[Jerrad Lindenmuth]]</li><!--
-  --><li style="">[[Jessica Soos]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Michelle Dahlenberg]]</li><!--
-  --><li style="">[[Scott Rose]]</li><!--
-  --><li style="">[[Shane Gannaway]]</li><!--
-  --><li style="">[[Tania Quintanilla]]</li><!--
+  --><li style=""><a class="internal-link" href="Angelina Martin">Angelina Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Jerrad Lindenmuth">Jerrad Lindenmuth</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Michelle Dahlenberg">Michelle Dahlenberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Rose">Scott Rose</a></li><!--
+  --><li style=""><a class="internal-link" href="Shane Gannaway">Shane Gannaway</a></li><!--
+  --><li style=""><a class="internal-link" href="Tania Quintanilla">Tania Quintanilla</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -100,8 +100,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alonso Salas]]</li><!--
-  --><li style="">[[Sydney Cabeza]]</li><!--
+  --><li style=""><a class="internal-link" href="Alonso Salas">Alonso Salas</a></li><!--
+  --><li style=""><a class="internal-link" href="Sydney Cabeza">Sydney Cabeza</a></li><!--
   --><!--
   --><!--
   --><!--

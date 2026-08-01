@@ -5,13 +5,13 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Movie Riot.jpg]]
+				!<a class="internal-link" href="Movie Riot.jpg">Movie Riot.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
@@ -28,12 +28,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Mac Blake]]</li><!--
-  --><li style="">[[Carlos LaRotta]]</li><!--
-  --><li style="">[[Joshua Krilov]]</li><!--
-  --><li style="">[[Kirk Johnson]]</li><!--
-  --><li style="">[[Kyle Sweeney]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
+  --><li style=""><a class="internal-link" href="Carlos LaRotta">Carlos LaRotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Kirk Johnson">Kirk Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
   --><!--
   --><!--

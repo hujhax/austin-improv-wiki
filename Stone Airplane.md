@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[457986 10151011200081351 2110136360 o.jpg]]
+				!<a class="internal-link" href="457986 10151011200081351 2110136360 o.jpg">457986 10151011200081351 2110136360 o.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,13 +72,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[April Sanchez]]</li><!--
-  --><li style="">[[Bryson Rushing]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[Colin Bates]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="">[[Linzy Beltran]]</li><!--
+  --><li style=""><a class="internal-link" href="April Sanchez">April Sanchez</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryson Rushing">Bryson Rushing</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
   --><!--
   --><!--
   --><!--

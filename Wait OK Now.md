@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Wait OK Now.jpg]]
+				!<a class="internal-link" href="Wait OK Now.jpg">Wait OK Now.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Tai Hovanky]]</li><!--
-  --><li style="">[[Nick Jimenez]]</li><!--
-  --><li style="">[[Jen Kaplan]]</li><!--
-  --><li style="">[[Sam Schak]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Tai Hovanky">Tai Hovanky</a></li><!--
+  --><li style=""><a class="internal-link" href="Nick Jimenez">Nick Jimenez</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--

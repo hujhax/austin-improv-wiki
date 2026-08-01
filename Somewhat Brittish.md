@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Somewhat Brittish.jpg]]
+				!<a class="internal-link" href="Somewhat Brittish.jpg">Somewhat Brittish.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Britt Wright]]</li><!--
-  --><li style="">[[Dan Rumney]]</li><!--
+  --><li style=""><a class="internal-link" href="Britt Wright">Britt Wright</a></li><!--
+  --><li style=""><a class="internal-link" href="Dan Rumney">Dan Rumney</a></li><!--
   --><!--
   --><!--
   --><!--

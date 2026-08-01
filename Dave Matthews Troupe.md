@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Dave Matthews Troupe.jpg]]
+				!<a class="internal-link" href="Dave Matthews Troupe.jpg">Dave Matthews Troupe.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brad Temple]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Sam Malcolm]]</li><!--
+  --><li style=""><a class="internal-link" href="Brad Temple">Brad Temple</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
   --><!--
   --><!--
   --><!--

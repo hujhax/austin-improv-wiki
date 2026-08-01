@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Care Bears.jpg]]
+				!<a class="internal-link" href="Care Bears.jpg">Care Bears.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,12 +79,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--

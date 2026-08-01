@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Twinehands.jpg]]
+				!<a class="internal-link" href="Twinehands.jpg">Twinehands.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,11 +18,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Benjamin Blattberg]]</li><!--
-  --><li style="">[[Amar Dev]]</li><!--
-  --><li style="">[[Marc Jalandoon]]</li><!--
-  --><li style="">[[Graham Snow]]</li><!--
-  --><li style="">[[Trent Symmonds]]</li><!--
+  --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Amar Dev">Amar Dev</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Jalandoon">Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
+  --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
   --><!--
   --><!--
   --><!--

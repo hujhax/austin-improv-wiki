@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kakkerlakken.png]]
+				!<a class="internal-link" href="Kakkerlakken.png">Kakkerlakken.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,18 +16,18 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bradley Harrington]]</li><!--
-  --><li style="">[[Bryan Wells]]</li><!--
-  --><li style="">[[David Nayer]]</li><!--
-  --><li style="">[[Elly Van Laar]]</li><!--
-  --><li style="">[[Jason Heffron]]</li><!--
-  --><li style="">[[Keegan Hines]]</li><!--
-  --><li style="">[[Menelaos Prokos]]</li><!--
-  --><li style="">[[Mike Nystul]]</li><!--
+  --><li style=""><a class="internal-link" href="Bradley Harrington">Bradley Harrington</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Wells">Bryan Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="David Nayer">David Nayer</a></li><!--
+  --><li style=""><a class="internal-link" href="Elly Van Laar">Elly Van Laar</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Heffron">Jason Heffron</a></li><!--
+  --><li style=""><a class="internal-link" href="Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Nystul">Mike Nystul</a></li><!--
   --><li style="" >Tim</li><!--
-  --><li style="">[[Todd Geldon]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
-  --><li style="">[[Tyler Pratt]]</li><!--
+  --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Pratt">Tyler Pratt</a></li><!--
   --><!--
   --><!--
   --><!--

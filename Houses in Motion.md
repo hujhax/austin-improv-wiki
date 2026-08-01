@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Houses in Motion.jpg]]
+				!<a class="internal-link" href="Houses in Motion.jpg">Houses in Motion.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Casey Height]]</li><!--
-  --><li style="">[[Cene Hale]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Jessica Marpe]]</li><!--
-  --><li style="">[[Joel Keith]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
-  --><li style="">[[KC Harvey-Taylor]]</li><!--
-  --><li style="" >[[Lane Ingram]]</li><!--
+  --><li style=""><a class="internal-link" href="Casey Height">Casey Height</a></li><!--
+  --><li style=""><a class="internal-link" href="Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Keith">Joel Keith</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
+  --><li style="" ><a class="internal-link" href="Lane Ingram">Lane Ingram</a></li><!--
   --><!--
   --><!--
   --><!--

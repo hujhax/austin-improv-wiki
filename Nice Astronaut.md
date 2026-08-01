@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Niceastro-2013-04-10.jpg]]
+				!<a class="internal-link" href="Niceastro-2013-04-10.jpg">Niceastro-2013-04-10.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Abby Lincoln]]</li><!--
-  --><li style="">[[AJ McKeon]]</li><!--
-  --><li style="">[[Chaz Formichella]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
-  --><li style="">[[Katie Byrnes]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
+  --><li style=""><a class="internal-link" href="Abby Lincoln">Abby Lincoln</a></li><!--
+  --><li style=""><a class="internal-link" href="AJ McKeon">AJ McKeon</a></li><!--
+  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Byrnes">Katie Byrnes</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

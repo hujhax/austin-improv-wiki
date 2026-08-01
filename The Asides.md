@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Asides.jpg]]
+				!<a class="internal-link" href="The Asides.jpg">The Asides.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dario Konjicija]]</li><!--
-  --><li style="">[[Erica Lies]]</li><!--
-  --><li style="">[[Jon Clinkenbeard]]</li><!--
-  --><li style="">[[Justin Davis]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
+  --><li style=""><a class="internal-link" href="Dario Konjicija">Dario Konjicija</a></li><!--
+  --><li style=""><a class="internal-link" href="Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--

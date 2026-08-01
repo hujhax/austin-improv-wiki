@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Narwhal.jpg]]
+				!<a class="internal-link" href="Narwhal.jpg">Narwhal.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Christie Grace]]</li><!--
-  --><li style="">[[Dan Grimm]]</li><!--
-  --><li style="">[[Patrick Knisely]]</li><!--
-  --><li style="">[[Sarah Price]]</li><!--
+  --><li style=""><a class="internal-link" href="Christie Grace">Christie Grace</a></li><!--
+  --><li style=""><a class="internal-link" href="Dan Grimm">Dan Grimm</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Price">Sarah Price</a></li><!--
   --><!--
   --><!--
   --><!--

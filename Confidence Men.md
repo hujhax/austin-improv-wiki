@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Confidence Men.jpg]]
+				!<a class="internal-link" href="Confidence Men.jpg">Confidence Men.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Asaf Ronen]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Michael Ferstenfeld]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

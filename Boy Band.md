@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Boy Band.jpg]]
+				!<a class="internal-link" href="Boy Band.jpg">Boy Band.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Courtney Sevener]]</td>
+			<td class="category"><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></td>
 		</tr>
 
 
@@ -28,9 +28,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ammon Taylor]]</li><!--
-  --><li style="">[[Andrew Basile]]</li><!--
-  --><li style="">[[Meredith Mae Roberts]]</li><!--
+  --><li style=""><a class="internal-link" href="Ammon Taylor">Ammon Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,13 +84,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Calan lambert]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[JenRaye Adams]]</li><!--
-  --><li style="">[[Logan Williams]]</li><!--
-  --><li style="">[[Matthew Stoner]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="JenRaye Adams">JenRaye Adams</a></li><!--
+  --><li style=""><a class="internal-link" href="Logan Williams">Logan Williams</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Stoner">Matthew Stoner</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[I Love You So Much.jpg]]
+				!<a class="internal-link" href="I Love You So Much.jpg">I Love You So Much.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jessica Arjet]], [[Roy Janik]]</td>
+			<td class="category"><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a>, <a class="internal-link" href="Roy Janik">Roy Janik</a></td>
 		</tr>
 
 
@@ -28,19 +28,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Saenz]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Andrew Buck]]</li><!--
-  --><li style="">[[Bridget Brewer]]</li><!--
-  --><li style="">[[Jen Kaplan]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="" >[[Marc Majcher]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Ryan Austin]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Sam Schak]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Schak">Sam Schak</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,8 +85,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dean Palm]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style=""><a class="internal-link" href="Dean Palm">Dean Palm</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--

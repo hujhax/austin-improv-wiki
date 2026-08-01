@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Suitcase.jpg]]
+				!<a class="internal-link" href="The Suitcase.jpg">The Suitcase.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Jason Vines]]</td>
+			<td class="category"><a class="internal-link" href="Jason Vines">Jason Vines</a></td>
 		</tr>
 
 
@@ -33,17 +33,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alexander Hilary]]</li><!--
-  --><li style="">[[Andrew Robinson]]</li><!--
-  --><li style="">[[Clifton Highfield]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Jeanette Jones]]</li><!--
-  --><li style="">[[Jen Kaplan]]</li><!--
-  --><li style="">[[Kayla Lane Freeman]]</li><!--
-  --><li style="" >[[Nicole Beckley]]</li><!--
-  --><li style="">[[Samantha schak]]</li><!--
-  --><li style="">[[Wyatt Tall]]</li><!--
+  --><li style=""><a class="internal-link" href="Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Robinson">Andrew Robinson</a></li><!--
+  --><li style=""><a class="internal-link" href="Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style="" ><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Samantha schak">Samantha schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,8 +90,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adriane Shown]]</li><!--
-  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><li style=""><a class="internal-link" href="Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--

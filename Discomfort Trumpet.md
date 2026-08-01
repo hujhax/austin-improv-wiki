@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Discomfort Trumpet.jpg]]
+				!<a class="internal-link" href="Discomfort Trumpet.jpg">Discomfort Trumpet.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Nugent]]</li><!--
-  --><li style="">[[Matthew Derman]]</li><!--
-  --><li style="">[[Patricia Tate]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Derman">Matthew Derman</a></li><!--
+  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Journey to the Big Water.jpg]]
+				!<a class="internal-link" href="Journey to the Big Water.jpg">Journey to the Big Water.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,23 +15,23 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Dave Buckman]]</td>
+			<td class="category"><a class="internal-link" href="Dave Buckman">Dave Buckman</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Trabka]]</li><!--
-  --><li style="">[[Ann Armstrong]]</li><!--
-  --><li style="">[[Brad Temple]]</li><!--
-  --><li style="">[[Jacob Ellenberg]]</li><!--
-  --><li style="">[[Joel Usher]]</li><!--
-  --><li style="">[[Matt Derman]]</li><!--
-  --><li style="">[[Matthew Derman]]</li><!--
-  --><li style="">[[Meredith Newell]]</li><!--
-  --><li style="" >[[Sam Malcolm]]</li><!--
-  --><li style="">[[Sam Van Metre]]</li><!--
-  --><li style="">[[Stephanie Hagemeister]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
+  --><li style=""><a class="internal-link" href="Ann Armstrong">Ann Armstrong</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Temple">Brad Temple</a></li><!--
+  --><li style=""><a class="internal-link" href="Jacob Ellenberg">Jacob Ellenberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Usher">Joel Usher</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Derman">Matthew Derman</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Newell">Meredith Newell</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><!--
   --><!--
   --><!--

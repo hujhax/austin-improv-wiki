@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Slaughter Your Shorts.jpg]]
+				!<a class="internal-link" href="Slaughter Your Shorts.jpg">Slaughter Your Shorts.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Cody Dearing]]</td>
+			<td class="category"><a class="internal-link" href="Cody Dearing">Cody Dearing</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Sam Malcolm]]</td>
+			<td class="category"><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></td>
 		</tr>
 
 
@@ -33,15 +33,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Trabka]]</li><!--
-  --><li style="">[[Alex Baia]]</li><!--
-  --><li style="">[[Ashley Nugent]]</li><!--
-  --><li style="">[[Chaz Formichella]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Courtney Sevener]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="" >[[Jessica Hamilton]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
   --><!--
   --><!--
   --><!--

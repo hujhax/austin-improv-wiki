@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Leading Brands.jpg]]
+				!<a class="internal-link" href="The Leading Brands.jpg">The Leading Brands.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy McKenna]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Frank Willmore]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[James Roberts]]</li><!--
-  --><li style="">[[Mike McGill]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Willmore">Frank Willmore</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike McGill">Mike McGill</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Trash.jpg]]
+				!<a class="internal-link" href="Trash.jpg">Trash.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Dougherty Arts Center]]</td>
+			<td class="category"><a class="internal-link" href="The Dougherty Arts Center">The Dougherty Arts Center</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Sara Farr]]</td>
+			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
 		</tr>
 
 
@@ -26,22 +26,22 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Puppet Improv Project]]</td>
+			<td class="category"><a class="internal-link" href="Puppet Improv Project">Puppet Improv Project</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Ammon Taylor]]</td>
+			<td class="category"><a class="internal-link" href="Ammon Taylor">Ammon Taylor</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[Elizabeth Buchanan]]</li><!--
-  --><li style="">[[Jennifer Bateman]]</li><!--
-  --><li style="">[[Joel Reese]]</li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Buchanan">Elizabeth Buchanan</a></li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Bateman">Jennifer Bateman</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Reese">Joel Reese</a></li><!--
   --><!--
   --><!--
   --><!--

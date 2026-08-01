@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Improvised Shakespeare.jpg]]
+				!<a class="internal-link" href="Improvised Shakespeare.jpg">Improvised Shakespeare.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Andy Crouch]]</td>
+			<td class="category"><a class="internal-link" href="Andy Crouch">Andy Crouch</a></td>
 		</tr>
 
 
@@ -28,21 +28,21 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Asaf Ronen]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Curtis Luciani]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
-  --><li style="" >[[Marc Majcher]]</li><!--
-  --><li style="">[[Meghan Wolff]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Space swank.jpg]]
+				!<a class="internal-link" href="Space swank.jpg">Space swank.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Johnny Anzollitto]]</li><!--
-  --><li style="">[[Jessica Soos]]</li><!--
-  --><li style="">[[Paul Mahaffey]]</li><!--
-  --><li style="">[[Ross Puryear]]</li><!--
-  --><li style="">[[Katie Mathews]]</li><!--
-  --><li style="">[[Chris Casey]]</li><!--
+  --><li style=""><a class="internal-link" href="Johnny Anzollitto">Johnny Anzollitto</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Mahaffey">Paul Mahaffey</a></li><!--
+  --><li style=""><a class="internal-link" href="Ross Puryear">Ross Puryear</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Mathews">Katie Mathews</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Casey">Chris Casey</a></li><!--
   --><!--
   --><!--
   --><!--

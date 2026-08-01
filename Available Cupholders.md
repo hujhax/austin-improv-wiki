@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Available Cupholders.jpg]]
+				!<a class="internal-link" href="Available Cupholders.jpg">Available Cupholders.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Bill Stern]]</li><!--
-  --><li style="">[[Jeremy Sweetlamb]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Bill Stern">Bill Stern</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
   --><!--
   --><!--
   --><!--

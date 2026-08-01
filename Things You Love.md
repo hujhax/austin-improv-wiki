@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Things You Love.jpg]]
+				!<a class="internal-link" href="Things You Love.jpg">Things You Love.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Caeriel Crestin]]</td>
+			<td class="category"><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Rachel Creason]]</td>
+			<td class="category"><a class="internal-link" href="Rachel Creason">Rachel Creason</a></td>
 		</tr>
 
 
@@ -29,13 +29,13 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category">[[Mia Cisco]]</td>
+			<td class="category"><a class="internal-link" href="Mia Cisco">Mia Cisco</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
-			<td class="category">[[Ryan Fechter]]</td>
+			<td class="category"><a class="internal-link" href="Ryan Fechter">Ryan Fechter</a></td>
 		</tr>
 
 
@@ -43,15 +43,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Seriff-Culick]]</li><!--
-  --><li style="">[[Cara Arlauskas]]</li><!--
-  --><li style="">[[Casey Quinlan]]</li><!--
-  --><li style="">[[Dhruv Sehgal]]</li><!--
-  --><li style="">[[Hannah Milam]]</li><!--
-  --><li style="">[[Jason Castro]]</li><!--
-  --><li style="">[[Michael Haywood]]</li><!--
-  --><li style="">[[Shay Millheiser]]</li><!--
-  --><li style="" >[[Tana Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Seriff-Culick">Aaron Seriff-Culick</a></li><!--
+  --><li style=""><a class="internal-link" href="Cara Arlauskas">Cara Arlauskas</a></li><!--
+  --><li style=""><a class="internal-link" href="Casey Quinlan">Casey Quinlan</a></li><!--
+  --><li style=""><a class="internal-link" href="Dhruv Sehgal">Dhruv Sehgal</a></li><!--
+  --><li style=""><a class="internal-link" href="Hannah Milam">Hannah Milam</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Castro">Jason Castro</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Haywood">Michael Haywood</a></li><!--
+  --><li style=""><a class="internal-link" href="Shay Millheiser">Shay Millheiser</a></li><!--
+  --><li style="" ><a class="internal-link" href="Tana Rogers">Tana Rogers</a></li><!--
   --><!--
   --><!--
   --><!--

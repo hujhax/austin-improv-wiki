@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Rock poster.jpg]]
+				!<a class="internal-link" href="Rock poster.jpg">Rock poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Michael Brockman]]</li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Brockman">Michael Brockman</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,20 +84,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Amber Franklin]]</li><!--
-  --><li style="">[[Amy Averett]]</li><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Halyn Lee Erickson]]</li><!--
-  --><li style="">[[Jason Finkelman]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="" >[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Kimberly Cox]]</li><!--
-  --><li style="">[[Lindsey Reeves]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Amber Franklin">Amber Franklin</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Finkelman">Jason Finkelman</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Kimberly Cox">Kimberly Cox</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -141,8 +141,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Cortney DeAngelo]]</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--

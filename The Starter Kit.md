@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Starter Kit logo.jpeg]]
+				!<a class="internal-link" href="The Starter Kit logo.jpeg">The Starter Kit logo.jpeg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Erik Adams]]</li><!--
-  --><li style="">[[Justin Davis]]</li><!--
-  --><li style="">[[Zach Palmer]]</li><!--
-  --><li style="">[[Brad Temple]]</li><!--
+  --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Zach Palmer">Zach Palmer</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Temple">Brad Temple</a></li><!--
   --><!--
   --><!--
   --><!--

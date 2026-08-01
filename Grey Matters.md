@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Grey Matters.jpg]]
+				!<a class="internal-link" href="Grey Matters.jpg">Grey Matters.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kathy Rose Center]]</li><!--
-  --><li style="">[[Madeline Jo Chauvin]]</li><!--
-  --><li style="">[[Todd Hart]]</li><!--
+  --><li style=""><a class="internal-link" href="Kathy Rose Center">Kathy Rose Center</a></li><!--
+  --><li style=""><a class="internal-link" href="Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

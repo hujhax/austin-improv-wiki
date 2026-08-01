@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Diplomatic Impunity.jpg]]
+				!<a class="internal-link" href="Diplomatic Impunity.jpg">Diplomatic Impunity.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,18 +15,18 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Leng Wong]]</td>
+			<td class="category"><a class="internal-link" href="Leng Wong">Leng Wong</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amber Shae]]</li><!--
-  --><li style="">[[Dana Yanoshak]]</li><!--
-  --><li style="">[[Dee Ann Asbury]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[Reid O'Conor]]</li><!--
-  --><li style="">[[Leng Wong]]</li><!--
+  --><li style=""><a class="internal-link" href="Amber Shae">Amber Shae</a></li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Dee Ann Asbury">Dee Ann Asbury</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Reid O'Conor">Reid O'Conor</a></li><!--
+  --><li style=""><a class="internal-link" href="Leng Wong">Leng Wong</a></li><!--
   --><!--
   --><!--
   --><!--

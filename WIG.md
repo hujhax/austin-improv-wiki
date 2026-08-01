@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[WIG.jpg]]
+				!<a class="internal-link" href="WIG.jpg">WIG.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Wendy Eickstaedt]]</li><!--
-  --><li style="">[[Caroline Gorman]]</li><!--
-  --><li style="">[[Christina Keller]]</li><!--
-  --><li style="">[[Karlie Lemos]]</li><!--
-  --><li style="">[[Tamara Warton]]</li><!--
-  --><li style="">[[Monica Wells]]</li><!--
-  --><li style="">[[Amanda Wischkaemper]]</li><!--
+  --><li style=""><a class="internal-link" href="Wendy Eickstaedt">Wendy Eickstaedt</a></li><!--
+  --><li style=""><a class="internal-link" href="Caroline Gorman">Caroline Gorman</a></li><!--
+  --><li style=""><a class="internal-link" href="Christina Keller">Christina Keller</a></li><!--
+  --><li style=""><a class="internal-link" href="Karlie Lemos">Karlie Lemos</a></li><!--
+  --><li style=""><a class="internal-link" href="Tamara Warton">Tamara Warton</a></li><!--
+  --><li style=""><a class="internal-link" href="Monica Wells">Monica Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Amanda Wischkaemper">Amanda Wischkaemper</a></li><!--
   --><!--
   --><!--
   --><!--

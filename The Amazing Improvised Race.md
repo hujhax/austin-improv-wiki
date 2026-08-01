@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Amazing Improvised Race.jpg]]
+				!<a class="internal-link" href="The Amazing Improvised Race.jpg">The Amazing Improvised Race.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,13 +84,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Abra Chusid]]</li><!--
-  --><li style="">[[Ashlee Medlin]]</li><!--
-  --><li style="">[[Brian Wittenbrook]]</li><!--
-  --><li style="">[[David Wells]]</li><!--
-  --><li style="">[[Jesse Overright]]</li><!--
-  --><li style="">[[Karina Dominguez]]</li><!--
-  --><li style="">[[Todd Hart]]</li><!--
+  --><li style=""><a class="internal-link" href="Abra Chusid">Abra Chusid</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian Wittenbrook">Brian Wittenbrook</a></li><!--
+  --><li style=""><a class="internal-link" href="David Wells">David Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style=""><a class="internal-link" href="Karina Dominguez">Karina Dominguez</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

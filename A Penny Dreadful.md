@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[A Penny Dreadful.jpg]]
+				!<a class="internal-link" href="A Penny Dreadful.jpg">A Penny Dreadful.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Troy Miller]]</td>
+			<td class="category"><a class="internal-link" href="Troy Miller">Troy Miller</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[David Schwartz]]</td>
+			<td class="category"><a class="internal-link" href="David Schwartz">David Schwartz</a></td>
 		</tr>
 
 
@@ -33,16 +33,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ali Meier]]</li><!--
-  --><li style="">[[Andrew Schwartz]]</li><!--
-  --><li style="">[[Charlie Hoehn]]</li><!--
-  --><li style="">[[Jeremy Moran]]</li><!--
-  --><li style="">[[Jessica von Schramm]]</li><!--
-  --><li style="">[[Linzy Beltran]]</li><!--
-  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
-  --><li style="">[[Rosemarie Frezza]]</li><!--
-  --><li style="" >[[Seth Johnson]]</li><!--
-  --><li style="">[[Theo Daley]]</li><!--
+  --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Charlie Hoehn">Charlie Hoehn</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Moran">Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style="" ><a class="internal-link" href="Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Theo Daley">Theo Daley</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,9 +90,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Tyler Lane]] (lighting)</li><!--
-  --><li style="">[[Paul Weiner]] (sound)</li><!--
-  --><li style="">[[Mike Reed]] (music)</li><!--
+  --><li style=""><a class="internal-link" href="Tyler Lane">Tyler Lane</a> (lighting)</li><!--
+  --><li style=""><a class="internal-link" href="Paul Weiner">Paul Weiner</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Mike Reed">Mike Reed</a> (music)</li><!--
   --><!--
   --><!--
   --><!--

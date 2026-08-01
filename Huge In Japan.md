@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[Christine Crocker]]</li><!--
-  --><li style="">[[Laura Galos]]</li><!--
-  --><li style="">[[Matt Nelson]]</li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Christine Crocker">Christine Crocker</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Galos">Laura Galos</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Nelson">Matt Nelson</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Ctrl-Alt-Delight.jpg]]
+				!<a class="internal-link" href="Ctrl-Alt-Delight.jpg">Ctrl-Alt-Delight.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Gary Richardson]]</li><!--
-  --><li style="">[[Hugo Vargas-Zesati]]</li><!--
-  --><li style="">[[Jonathan Euseppi]]</li><!--
-  --><li style="">[[Mike Sullivan]]</li><!--
+  --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
+  --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
+  --><li style=""><a class="internal-link" href="Jonathan Euseppi">Jonathan Euseppi</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Sullivan">Mike Sullivan</a></li><!--
   --><!--
   --><!--
   --><!--

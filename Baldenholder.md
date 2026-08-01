@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Baldenholder.jpg]]
+				!<a class="internal-link" href="Baldenholder.jpg">Baldenholder.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Baldenhofer]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
+  --><li style=""><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
   --><!--
   --><!--
   --><!--

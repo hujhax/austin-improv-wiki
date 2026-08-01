@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Pseudonyms|Alessandra T.]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">([[Clint Harris]])</li><!--
-  --><li style="">[[Will Casto]]</li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style="">(<a class="internal-link" href="Clint Harris">Clint Harris</a>)</li><!--
+  --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
   --><!--
   --><!--
   --><!--

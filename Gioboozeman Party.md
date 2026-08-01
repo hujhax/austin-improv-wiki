@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Gioboozeman Party.jpg]]
+				!<a class="internal-link" href="Gioboozeman Party.jpg">Gioboozeman Party.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Christine Giordiano]]</li><!--
-  --><li style="">[[John Buseman]]</li><!--
+  --><li style=""><a class="internal-link" href="Christine Giordiano">Christine Giordiano</a></li><!--
+  --><li style=""><a class="internal-link" href="John Buseman">John Buseman</a></li><!--
   --><!--
   --><!--
   --><!--

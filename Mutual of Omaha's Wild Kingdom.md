@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Mutual of Omaha's Wild Kingdom.jpg]]
+				!<a class="internal-link" href="Mutual of Omaha's Wild Kingdom.jpg">Mutual of Omaha's Wild Kingdom.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Paul Wainright]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Wainright">Paul Wainright</a></li><!--
   --><!--
   --><!--
   --><!--

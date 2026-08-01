@@ -5,29 +5,29 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Fiasco Poster.jpg]]
+				!<a class="internal-link" href="Fiasco Poster.jpg">Fiasco Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Peter Rogers]]</td>
+			<td class="category"><a class="internal-link" href="Peter Rogers">Peter Rogers</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Kevin Miller]]</td>
+			<td class="category"><a class="internal-link" href="Kevin Miller">Kevin Miller</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Lindsey McGowen]]</td>
+			<td class="category"><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
 
 
@@ -38,18 +38,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Chuy Zarate]]</li><!--
-  --><li style="">[[Erin Molson]]</li><!--
-  --><li style="">[[J. R. Zambrano]]</li><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Jessica von Schramm]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="" >[[Marc Majcher]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Monica Martinez Maher]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Monica Martinez Maher">Monica Martinez Maher</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -95,13 +95,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Page]] (Scoring Lead/Sound Swing)</li><!--
-  --><li style="">[[Jay Mahavier]] (Sound Effects Lead)</li><!--
-  --><li style="">[[Joy Parks]] (Stage Manager)</li><!--
-  --><li style="">[[Kelly Campbell]] (Scoring Tech)</li><!--
-  --><li style="">[[Lindsey McGowen]] (Light & Multimedia Lead)</li><!--
-  --><li style="">[[Nichole Bennett]] (Lighting Tech)</li><!--
-  --><li style="">[[Thedward Blevins]] (Multimedia Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a> (Scoring Lead/Sound Swing)</li><!--
+  --><li style=""><a class="internal-link" href="Jay Mahavier">Jay Mahavier</a> (Sound Effects Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Joy Parks">Joy Parks</a> (Stage Manager)</li><!--
+  --><li style=""><a class="internal-link" href="Kelly Campbell">Kelly Campbell</a> (Scoring Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (Light & Multimedia Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Nichole Bennett">Nichole Bennett</a> (Lighting Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a> (Multimedia Tech)</li><!--
   --><!--
   --><!--
   --><!--

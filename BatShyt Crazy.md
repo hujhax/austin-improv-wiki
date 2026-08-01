@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Special Features.jpg]]
+				!<a class="internal-link" href="The Special Features.jpg">The Special Features.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,18 +16,18 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
-  --><li style="">[[Nancy Lyon]]</li><!--
-  --><li style="">[[Beth Doughty]]</li><!--
-  --><li style="">[[Megan Thornton]]</li><!--
-  --><li style="">[[Sandra Ybarra]]</li><!--
-  --><li style="">[[Devon Ragsdale]]</li><!--
-  --><li style="">[[Mike Carrion]]</li><!--
-  --><li style="">[[Adam Worries]]</li><!--
-  --><li style="" >[[Taylor Howe]]</li><!--
-  --><li style="">[[Kevin Machate]]</li><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Gene Zhou]]</li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Beth Doughty">Beth Doughty</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Thornton">Megan Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
+  --><li style=""><a class="internal-link" href="Devon Ragsdale">Devon Ragsdale</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Carrion">Mike Carrion</a></li><!--
+  --><li style=""><a class="internal-link" href="Adam Worries">Adam Worries</a></li><!--
+  --><li style="" ><a class="internal-link" href="Taylor Howe">Taylor Howe</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
   --><!--
   --><!--
   --><!--

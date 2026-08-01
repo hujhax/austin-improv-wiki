@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Reframed.jpg]]
+				!<a class="internal-link" href="Reframed.jpg">Reframed.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Ceej Allen]]</td>
+			<td class="category"><a class="internal-link" href="Ceej Allen">Ceej Allen</a></td>
 		</tr>
 
 
@@ -26,25 +26,25 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Lucky Chaos Theater]]</td>
+			<td class="category"><a class="internal-link" href="Lucky Chaos Theater">Lucky Chaos Theater</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Content Love Knowles]]</td>
+			<td class="category"><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Craig Kotfas]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="">[[Meredith Mae Roberts]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
-  --><li style="">[[Scott Hearne]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Hearne">Scott Hearne</a></li><!--
   --><!--
   --><!--
   --><!--

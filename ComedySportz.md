@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[[[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84]]|frameless|border|150px|]]
+				!<a class="internal-link" href="[[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84">[[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84</a>|frameless|border|150px|]]
 			</td>
 		</tr>
 		<tr class="">
@@ -15,7 +15,7 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Shawn Utterback, Terril Fischer]]</td>
+			<td class="category"><a class="internal-link" href="Shawn Utterback, Terril Fischer">Shawn Utterback, Terril Fischer</a></td>
 		</tr>
 
 		<tr class="">

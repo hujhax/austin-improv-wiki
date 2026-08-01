@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Knuckleball Now.jpg]]
+				!<a class="internal-link" href="The Knuckleball Now.jpg">The Knuckleball Now.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Craig Kotfas]]</li><!--
-  --><li style="">[[Deano Jones]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Lee Eddy]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Lee Eddy">Lee Eddy</a></li><!--
   --><!--
   --><!--
   --><!--

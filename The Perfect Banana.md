@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[]]
+				!<a class="internal-link" href=""></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{bulleted list | 
-*[[Phil Wilhelm]]
-*[[Gene Zhou]]
-*[[Zach Palmer]]
-*[[Michael Williams]]
-*[[Michael Ferstenfeld]]
-*[[Frank Willmore]]
+*<a class="internal-link" href="Phil Wilhelm">Phil Wilhelm</a>
+*<a class="internal-link" href="Gene Zhou">Gene Zhou</a>
+*<a class="internal-link" href="Zach Palmer">Zach Palmer</a>
+*<a class="internal-link" href="Michael Williams">Michael Williams</a>
+*<a class="internal-link" href="Michael Ferstenfeld">Michael Ferstenfeld</a>
+*<a class="internal-link" href="Frank Willmore">Frank Willmore</a>
 ] }}</td>
 		</tr>
 

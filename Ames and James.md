@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Ames and James.jpg]]
+				!<a class="internal-link" href="Ames and James.jpg">Ames and James.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy McKenna]]</li><!--
-  --><li style="">[[James Roberts]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
+  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
   --><!--
   --><!--
   --><!--

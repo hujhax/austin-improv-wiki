@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kenjutsu.jpg]]
+				!<a class="internal-link" href="Kenjutsu.jpg">Kenjutsu.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,18 +79,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Justin Davis]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="" >[[Marc Majcher]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,8 +136,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Page]] (lights)</li><!--
-  --><li style="">[[Michael Yew]] (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (sound)</li><!--
   --><!--
   --><!--
   --><!--

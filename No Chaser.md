@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[No Chaser.jpg]]
+				!<a class="internal-link" href="No Chaser.jpg">No Chaser.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[David Harper]]</li><!--
-  --><li style="">[[Maggie Maye]]</li><!--
-  --><li style="">[[Michael Thomas]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="David Harper">David Harper</a></li><!--
+  --><li style=""><a class="internal-link" href="Maggie Maye">Maggie Maye</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
   --><!--
   --><!--
   --><!--

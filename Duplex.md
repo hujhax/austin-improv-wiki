@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Duplex.jpg]]
+				!<a class="internal-link" href="Duplex.jpg">Duplex.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Austen Silver]]</li><!--
-  --><li style="">[[Catherine Grady]]</li><!--
-  --><li style="">[[Evan Eggers]]</li><!--
-  --><li style="">[[Norman Tran]]</li><!--
+  --><li style=""><a class="internal-link" href="Austen Silver">Austen Silver</a></li><!--
+  --><li style=""><a class="internal-link" href="Catherine Grady">Catherine Grady</a></li><!--
+  --><li style=""><a class="internal-link" href="Evan Eggers">Evan Eggers</a></li><!--
+  --><li style=""><a class="internal-link" href="Norman Tran">Norman Tran</a></li><!--
   --><!--
   --><!--
   --><!--

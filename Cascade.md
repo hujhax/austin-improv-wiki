@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Cascade.jpg]]
+				!<a class="internal-link" href="Cascade.jpg">Cascade.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
   --><!--
   --><!--
   --><!--

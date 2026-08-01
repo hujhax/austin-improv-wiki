@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Apocalypse (Show).jpg]]
+				!<a class="internal-link" href="Apocalypse (Show).jpg">Apocalypse (Show).jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Brandon Salinas]]</td>
+			<td class="category"><a class="internal-link" href="Brandon Salinas">Brandon Salinas</a></td>
 		</tr>
 
 
@@ -26,27 +26,27 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Avimaan Syam]]</li><!--
-  --><li style="">[[James Roberts]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Julie Gillis]]</li><!--
-  --><li style="">[[Justin Davis]]</li><!--
-  --><li style="" >[[Katie Thornton]]</li><!--
-  --><li style="">[[Madi Goff]]</li><!--
-  --><li style="">[[Mark Carpenter]]</li><!--
-  --><li style="">[[Meghan Wolff]]</li><!--
-  --><li style="">[[Michael Thomas]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Avimaan Syam">Avimaan Syam</a></li><!--
+  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Julie Gillis">Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style="" ><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Madi Goff">Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Mark Carpenter">Mark Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

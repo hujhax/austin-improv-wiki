@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - John Hughes Summer School.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - John Hughes Summer School.jpg">Live TV Tuesdays - John Hughes Summer School.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Tom Booker]]</td>
+			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
 		</tr>
 
 
@@ -28,12 +28,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cody Melcher]]</li><!--
-  --><li style="">[[Indigo Rael]]</li><!--
-  --><li style="">[[John Buseman]]</li><!--
-  --><li style="">[[Nat Miller]]</li><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
-  --><li style="">[[Wayne Alan Brenner]]</li><!--
+  --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
+  --><li style=""><a class="internal-link" href="John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Wayne Alan Brenner">Wayne Alan Brenner</a></li><!--
   --><!--
   --><!--
   --><!--

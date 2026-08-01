@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[PIP on TV.jpg]]
+				!<a class="internal-link" href="PIP on TV.jpg">PIP on TV.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Sara Farr]]</td>
+			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
 		</tr>
 
 
@@ -26,25 +26,25 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Puppet Improv Project]]</td>
+			<td class="category"><a class="internal-link" href="Puppet Improv Project">Puppet Improv Project</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[Jessica Salinas]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Kimberly Cox]]</li><!--
-  --><li style="" >[[Lisa Jackson]]</li><!--
-  --><li style="">[[Menelaos Prokos]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Kimberly Cox">Kimberly Cox</a></li><!--
+  --><li style="" ><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

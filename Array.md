@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Arkay.jpg]]
+				!<a class="internal-link" href="Arkay.jpg">Arkay.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,19 +16,19 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Baia]]</li><!--
-  --><li style="">[[Amy Averett]]</li><!--
-  --><li style="">[[Andrew Buck]]</li><!--
-  --><li style="">[[Arthur Simone]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Jason Finkelman]]</li><!--
-  --><li style="">[[John Brewster]]</li><!--
-  --><li style="" >[[Matt Needles]]</li><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
-  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Finkelman">Jason Finkelman</a></li><!--
+  --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
+  --><li style="" ><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--

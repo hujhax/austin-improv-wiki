@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Raney Nights.png]]
+				!<a class="internal-link" href="Raney Nights.png">Raney Nights.png</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Scott Raney]] (host)</td>
+			<td class="category"><a class="internal-link" href="Scott Raney">Scott Raney</a> (host)</td>
 		</tr>
 
 

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[In Our Prime Three.jpg]]
+				!<a class="internal-link" href="In Our Prime Three.jpg">In Our Prime Three.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Gloria Rabil Bankler]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style=""><a class="internal-link" href="Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
   --><!--
   --><!--
   --><!--

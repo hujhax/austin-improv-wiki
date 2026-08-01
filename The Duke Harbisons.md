@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Katie Sicking]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Nick Ramirez]]</li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
   --><!--
   --><!--

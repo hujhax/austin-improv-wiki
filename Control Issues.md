@@ -5,22 +5,22 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Control Issues.jpg]]
+				!<a class="internal-link" href="Control Issues.jpg">Control Issues.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Roy Janik]] (2010-2014)</li><!--
-  --><li style="">[[Andrew Buck]] (2014)</li><!--
-  --><li style="">[[Andreas Fabis]] (2014-2015)</li><!--
-  --><li style="">[[Peter Rogers]] (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a> (2010-2014)</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a> (2014)</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a> (2014-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a> (2015-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -79,16 +79,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]] (2014-Present)</li><!--
-  --><li style="">[[Angie Yaeyama]] (2015-Present)</li><!--
-  --><li style="">[[Caroline Gorman]] (2015-Present)</li><!--
-  --><li style="">[[Dana Yanoshak]] (2014-Present)</li><!--
-  --><li style="">[[Heath Allyn]] (2015-Present)</li><!--
-  --><li style="">[[Jessica von Schramm]] (2015-Present)</li><!--
-  --><li style="">[[Katie Doran]] (2015-Present)</li><!--
-  --><li style="">[[Paul Normandin]] (2014-Present)</li><!--
-  --><li style="" >[[Peter Rogers]] (2014-Present)</li><!--
-  --><li style="">[[Sushant Sethi]] (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a> (2014-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Angie Yaeyama">Angie Yaeyama</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Caroline Gorman">Caroline Gorman</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a> (2014-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Heath Allyn">Heath Allyn</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Katie Doran">Katie Doran</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a> (2014-Present)</li><!--
+  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a> (2014-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a> (2015-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -135,12 +135,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cat Drago]] (2014-2015)</li><!--
-  --><li style="">[[Chris Albano]] (2014-2015)</li><!--
-  --><li style="">[[Katie Dahm]] (2014-2015)</li><!--
-  --><li style="">[[Lindsay Hejl]] (2014-2015)</li><!--
-  --><li style="">[[Phil Morin]] (2015-2016)</li><!--
-  --><li style="">[[Rachel Austin]] (2015-2016)</li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a> (2014-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Chris Albano">Chris Albano</a> (2014-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a> (2014-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a> (2014-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a> (2015-2016)</li><!--
+  --><li style=""><a class="internal-link" href="Rachel Austin">Rachel Austin</a> (2015-2016)</li><!--
   --><!--
   --><!--
   --><!--

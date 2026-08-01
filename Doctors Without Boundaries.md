@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Doctors Without Boundaries.jpg]]
+				!<a class="internal-link" href="Doctors Without Boundaries.jpg">Doctors Without Boundaries.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Shana Merlin]]</td>
+			<td class="category"><a class="internal-link" href="Shana Merlin">Shana Merlin</a></td>
 		</tr>
 
 
@@ -26,19 +26,19 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[Clay Towery]]</li><!--
-  --><li style="">[[Cyrus Lum]]</li><!--
-  --><li style="">[[Evan T Atherton]]</li><!--
-  --><li style="">[[Janice Kay Bech]]</li><!--
-  --><li style="">[[Stephanie Towery]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Cyrus Lum">Cyrus Lum</a></li><!--
+  --><li style=""><a class="internal-link" href="Evan T Atherton">Evan T Atherton</a></li><!--
+  --><li style=""><a class="internal-link" href="Janice Kay Bech">Janice Kay Bech</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Towery">Stephanie Towery</a></li><!--
   --><!--
   --><!--
   --><!--

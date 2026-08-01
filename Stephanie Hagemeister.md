@@ -5,14 +5,14 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Stephanie Hagemeister Pic.jpg]]
+				!<a class="internal-link" href="Stephanie Hagemeister Pic.jpg">Stephanie Hagemeister Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[ColdTowne Theater]]</li><!--
-  --><li style="">[[The Institution Theater]]</li><!--
+  --><li style=""><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
   --><!--

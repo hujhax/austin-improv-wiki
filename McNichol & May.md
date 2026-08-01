@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[McNichol & May Pic.jpg]]
+				!<a class="internal-link" href="McNichol & May Pic.jpg">McNichol & May Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob McNichol]]</li><!--
-  --><li style="">[[Erika May McNichol]]</li><!--
+  --><li style=""><a class="internal-link" href="Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Erika May McNichol">Erika May McNichol</a></li><!--
   --><!--
   --><!--
   --><!--

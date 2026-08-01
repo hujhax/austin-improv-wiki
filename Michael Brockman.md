@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Michael Brockman Pic.jpg]]
+				!<a class="internal-link" href="Michael Brockman Pic.jpg">Michael Brockman Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,8 +20,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Instrument(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Guitar]]</li><!--
-  --><li style="">[[Piano]]</li><!--
+  --><li style=""><a class="internal-link" href="Guitar">Guitar</a></li><!--
+  --><li style=""><a class="internal-link" href="Piano">Piano</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - Party of Five.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - Party of Five.jpg">Live TV Tuesdays - Party of Five.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Heidi Caldwell]]</td>
+			<td class="category"><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></td>
 		</tr>
 
 
@@ -28,16 +28,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alexander Hilary]]</li><!--
-  --><li style="">[[Blaine Paradise]]</li><!--
-  --><li style="">[[Carissa McAtee]]</li><!--
-  --><li style="">[[Christian Huey]]</li><!--
-  --><li style="">[[Cody Melcher]]</li><!--
-  --><li style="">[[Fred Winkler]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Roanna Flowers]]</li><!--
-  --><li style="" >[[Taylor Overstreet]]</li><!--
-  --><li style="">[[Tyler Reece Booker]]</li><!--
+  --><li style=""><a class="internal-link" href="Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Blaine Paradise">Blaine Paradise</a></li><!--
+  --><li style=""><a class="internal-link" href="Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Christian Huey">Christian Huey</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Fred Winkler">Fred Winkler</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Roanna Flowers">Roanna Flowers</a></li><!--
+  --><li style="" ><a class="internal-link" href="Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Reece Booker">Tyler Reece Booker</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Opposites.jpg]]
+				!<a class="internal-link" href="Opposites.jpg">Opposites.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Mark Carpenter]]</li><!--
-  --><li style="">[[Patrick Knisely]]</li><!--
+  --><li style=""><a class="internal-link" href="Mark Carpenter">Mark Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
   --><!--
   --><!--
   --><!--

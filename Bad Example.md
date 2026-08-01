@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Bad Example.jpg]]
+				!<a class="internal-link" href="Bad Example.jpg">Bad Example.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ariel Greenspoon]]</li><!--
-  --><li style="">[[Cody Cartagena]]</li><!--
-  --><li style="">[[Jeff Whitaker]]</li><!--
-  --><li style="">[[Micheal Foulk]]</li><!--
-  --><li style="">[[Olivia Doud]]</li><!--
-  --><li style="">[[Roxy Castillo]]</li><!--
+  --><li style=""><a class="internal-link" href="Ariel Greenspoon">Ariel Greenspoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Cartagena">Cody Cartagena</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
+  --><li style=""><a class="internal-link" href="Micheal Foulk">Micheal Foulk</a></li><!--
+  --><li style=""><a class="internal-link" href="Olivia Doud">Olivia Doud</a></li><!--
+  --><li style=""><a class="internal-link" href="Roxy Castillo">Roxy Castillo</a></li><!--
   --><!--
   --><!--
   --><!--

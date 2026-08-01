@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Show Default Image.jpg]]
+				!<a class="internal-link" href="Show Default Image.jpg">Show Default Image.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Cody Dearing]]</td>
+			<td class="category"><a class="internal-link" href="Cody Dearing">Cody Dearing</a></td>
 		</tr>
 
 
@@ -28,25 +28,25 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Rachel Posey Austin]]</li><!--
-  --><li style="">[[Benjamin Bazan]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Chaz Formichella]]</li><!--
-  --><li style="">[[Alejandro Garcia]]</li><!--
-  --><li style="">[[KC HT]]</li><!--
-  --><li style="">[[Ally Huston]]</li><!--
-  --><li style="">[[Sarah Hutchins]]</li><!--
-  --><li style="" >[[Patrick Kail]]</li><!--
-  --><li style="">[[Jessica Marpe]]</li><!--
-  --><li style="">[[Chris McKeever]]</li><!--
-  --><li style="">[[Lance Nealy]]</li><!--
-  --><li style="">[[Matt Needles]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
-  --><li style="">[[Richard Smith]]</li><!--
-  --><li style="">[[Bobby Stover]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Logan Williams]]</li><!--
+  --><li style=""><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Benjamin Bazan">Benjamin Bazan</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="KC HT">KC HT</a></li><!--
+  --><li style=""><a class="internal-link" href="Ally Huston">Ally Huston</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Hutchins">Sarah Hutchins</a></li><!--
+  --><li style="" ><a class="internal-link" href="Patrick Kail">Patrick Kail</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris McKeever">Chris McKeever</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Nealy">Lance Nealy</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Richard Smith">Richard Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Bobby Stover">Bobby Stover</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Logan Williams">Logan Williams</a></li><!--
   --><!--
   --><!--
   --><!--

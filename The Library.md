@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Library.jpg]]
+				!<a class="internal-link" href="The Library.jpg">The Library.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,17 +15,17 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Justin Bozied]]</td>
+			<td class="category"><a class="internal-link" href="Justin Bozied">Justin Bozied</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Justin Bozied]]</li><!--
-  --><li style="">[[Jeanette Bozied]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style=""><a class="internal-link" href="Justin Bozied">Justin Bozied</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeanette Bozied">Jeanette Bozied</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
   --><!--
   --><!--
   --><!--

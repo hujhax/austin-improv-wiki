@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Murphy.jpg]]
+				!<a class="internal-link" href="Murphy.jpg">Murphy.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brent Foshee]]</li><!--
-  --><li style="">[[James Sweeney]]</li><!--
-  --><li style="">[[Joshua Krilov]]</li><!--
-  --><li style="">[[Kyle Sweeney]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Stephanie Russo]]</li><!--
+  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style=""><a class="internal-link" href="James Sweeney">James Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
   --><!--
   --><!--
   --><!--

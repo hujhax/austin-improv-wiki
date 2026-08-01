@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Masterpiece.png]]
+				!<a class="internal-link" href="The Masterpiece.png">The Masterpiece.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jay Byrd]]</li><!--
-  --><li style="">[[Patrick Knisely]]</li><!--
+  --><li style=""><a class="internal-link" href="Jay Byrd">Jay Byrd</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
   --><!--
   --><!--
   --><!--

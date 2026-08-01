@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Decoy.jpg]]
+				!<a class="internal-link" href="Decoy.jpg">Decoy.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ben Bazan]]</li><!--
-  --><li style="">[[Chelsea Bunn]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Dustin Finkelstein]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[Mia Iseman]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
-  --><li style="" >[[Robert Moncrieff]]</li><!--
-  --><li style="">[[Steve Moore]]</li><!--
+  --><li style=""><a class="internal-link" href="Ben Bazan">Ben Bazan</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Bunn">Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Dustin Finkelstein">Dustin Finkelstein</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style="" ><a class="internal-link" href="Robert Moncrieff">Robert Moncrieff</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
   --><!--
   --><!--
   --><!--

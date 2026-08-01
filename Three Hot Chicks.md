@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[TheeHotChicks.jpg]]
+				!<a class="internal-link" href="TheeHotChicks.jpg">TheeHotChicks.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Joel Ausanka Reese]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Kacy Todd]]</li><!--
-  --><li style="">[[Ruby Leigh Young]]</li><!--
+  --><li style=""><a class="internal-link" href="Joel Ausanka Reese">Joel Ausanka Reese</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacy Todd">Kacy Todd</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Leigh Young">Ruby Leigh Young</a></li><!--
   --><!--
   --><!--
   --><!--

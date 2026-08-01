@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[After School Improv Pic.jpg]]
+				!<a class="internal-link" href="After School Improv Pic.jpg">After School Improv Pic.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kaci Beeler]] (2009)</li><!--
-  --><li style="">[[Jason Vines]] (2012)</li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a> (2009)</li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a> (2012)</li><!--
   --><!--
   --><!--
   --><!--
@@ -85,10 +85,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kathy Rose Center]] (2009)</li><!--
-  --><li style="">[[Cindy Page]] (2012)</li><!--
-  --><li style="">[[Cortney DeAngelo]] (2012)</li><!--
-  --><li style="">[[Dorah Masibo]] (2012)</li><!--
+  --><li style=""><a class="internal-link" href="Kathy Rose Center">Kathy Rose Center</a> (2009)</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a> (2012)</li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a> (2012)</li><!--
+  --><li style=""><a class="internal-link" href="Dorah Masibo">Dorah Masibo</a> (2012)</li><!--
   --><!--
   --><!--
   --><!--

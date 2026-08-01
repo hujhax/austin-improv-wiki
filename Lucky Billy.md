@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Lucky Billy.jpeg]]
+				!<a class="internal-link" href="Lucky Billy.jpeg">Lucky Billy.jpeg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Ali Shepher]]</li><!--
-  --><li style="">[[Brandi Gist]]</li><!--
-  --><li style="">[[Dani Hendricks]]</li><!--
-  --><li style="">[[Gil Cardenas]]</li><!--
-  --><li style="">[[Juan Castañeda]]</li><!--
-  --><li style="">[[Justin Han]]</li><!--
-  --><li style="">[[Robyn Reynolds]]</li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Ali Shepher">Ali Shepher</a></li><!--
+  --><li style=""><a class="internal-link" href="Brandi Gist">Brandi Gist</a></li><!--
+  --><li style=""><a class="internal-link" href="Dani Hendricks">Dani Hendricks</a></li><!--
+  --><li style=""><a class="internal-link" href="Gil Cardenas">Gil Cardenas</a></li><!--
+  --><li style=""><a class="internal-link" href="Juan Castañeda">Juan Castañeda</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Han">Justin Han</a></li><!--
+  --><li style=""><a class="internal-link" href="Robyn Reynolds">Robyn Reynolds</a></li><!--
   --><!--
   --><!--
   --><!--

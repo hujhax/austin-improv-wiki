@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Boy, Howdy!.jpg]]
+				!<a class="internal-link" href="Boy, Howdy!.jpg">Boy, Howdy!.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Kaci Beeler]]</td>
+			<td class="category"><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Courtney Hopkin]]</td>
+			<td class="category"><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></td>
 		</tr>
 
 
@@ -33,19 +33,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Andrew Buck]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Kaci Danger]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="" >[[Megan Sherrod]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
-  --><li style="">[[Patrick Creamer]]</li><!--
-  --><li style="">[[Roy Danger]]</li><!--
-  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style="" ><a class="internal-link" href="Megan Sherrod">Megan Sherrod</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Danger">Roy Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,9 +90,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lindsey McGowen]] (lights)</li><!--
-  --><li style="">[[Michael Yew]] (sound)</li><!--
-  --><li style="">[[Rob Yoho]] (stage manager/dramaturg)</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Rob Yoho">Rob Yoho</a> (stage manager/dramaturg)</li><!--
   --><!--
   --><!--
   --><!--

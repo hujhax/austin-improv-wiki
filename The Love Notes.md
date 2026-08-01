@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Love Notes.jpg]]
+				!<a class="internal-link" href="The Love Notes.jpg">The Love Notes.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Avimaan Syam]]</li><!--
-  --><li style="">[[Chelsea Adland]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Meghan Wolff]]</li><!--
-  --><li style="">[[Paul Wainwright]]</li><!--
+  --><li style=""><a class="internal-link" href="Avimaan Syam">Avimaan Syam</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Adland">Chelsea Adland</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Wainwright">Paul Wainwright</a></li><!--
   --><!--
   --><!--
   --><!--

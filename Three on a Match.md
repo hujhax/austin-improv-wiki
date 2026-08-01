@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Three on a Match.jpg]]
+				!<a class="internal-link" href="Three on a Match.jpg">Three on a Match.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Katie Thornton]]</li><!--
-  --><li style="">[[Mia Iseman]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--

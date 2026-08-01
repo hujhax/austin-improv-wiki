@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Control Group.jpg]]
+				!<a class="internal-link" href="The Control Group.jpg">The Control Group.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Berry]]</li><!--
-  --><li style="">[[Mandy Spivey]]</li><!--
-  --><li style="">[[Margaux Binder]]</li><!--
-  --><li style="">[[Micheal Foulk]]</li><!--
-  --><li style="">[[Tom Niland]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Berry">Alex Berry</a></li><!--
+  --><li style=""><a class="internal-link" href="Mandy Spivey">Mandy Spivey</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaux Binder">Margaux Binder</a></li><!--
+  --><li style=""><a class="internal-link" href="Micheal Foulk">Micheal Foulk</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Niland">Tom Niland</a></li><!--
   --><!--
   --><!--
   --><!--

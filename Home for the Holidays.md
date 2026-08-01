@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[I'll Be Home for Christmas.jpg]]
+				!<a class="internal-link" href="I'll Be Home for Christmas.jpg">I'll Be Home for Christmas.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Valerie Ward]]</td>
+			<td class="category"><a class="internal-link" href="Valerie Ward">Valerie Ward</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Manuel Duran]]</td>
+			<td class="category"><a class="internal-link" href="Manuel Duran">Manuel Duran</a></td>
 		</tr>
 
 
@@ -33,16 +33,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Rubin]]</li><!--
-  --><li style="">[[Adam Mengesha]]</li><!--
-  --><li style="">[[Alex Walker]]</li><!--
-  --><li style="">[[Carolyn Gjertsen]]</li><!--
-  --><li style="">[[Donnie Garcia]]</li><!--
-  --><li style="">[[Jessica T. Von Schramm]]</li><!--
-  --><li style="">[[Lahari Samineni]]</li><!--
-  --><li style="">[[Patricia Harpst]]</li><!--
-  --><li style="" >[[Rob Yoho]]</li><!--
-  --><li style="">[[Trent Symmonds]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
+  --><li style=""><a class="internal-link" href="Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
+  --><li style=""><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
+  --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica T. Von Schramm">Jessica T. Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Patricia Harpst">Patricia Harpst</a></li><!--
+  --><li style="" ><a class="internal-link" href="Rob Yoho">Rob Yoho</a></li><!--
+  --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,8 +90,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bonnie Dilber]] (lights)</li><!--
-  --><li style="">[[Carolina Andrade]] (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Carolina Andrade">Carolina Andrade</a> (sound)</li><!--
   --><!--
   --><!--
   --><!--

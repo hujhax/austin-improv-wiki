@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Crimpz.png]]
+				!<a class="internal-link" href="Crimpz.png">Crimpz.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lindsay Hejl]]</li><!--
-  --><li style="">[[Melissa Patterson]]</li><!--
+  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Melissa Patterson">Melissa Patterson</a></li><!--
   --><!--
   --><!--
   --><!--

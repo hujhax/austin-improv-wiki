@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kosher Bacon Pic.jpg]]
+				!<a class="internal-link" href="Kosher Bacon Pic.jpg">Kosher Bacon Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,20 +15,20 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Kevin Miller]]</td>
+			<td class="category"><a class="internal-link" href="Kevin Miller">Kevin Miller</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amber Shae]]</li><!--
-  --><li style="">[[Ashley Carlisle]]</li><!--
-  --><li style="">[[Brandon Martin]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Ellen Pittsford]]</li><!--
-  --><li style="">[[Jessie Pascarelli]]</li><!--
-  --><li style="">[[Mitchell Deane]]</li><!--
-  --><li style="">[[Travis Devitt]]</li><!--
+  --><li style=""><a class="internal-link" href="Amber Shae">Amber Shae</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Carlisle">Ashley Carlisle</a></li><!--
+  --><li style=""><a class="internal-link" href="Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Ellen Pittsford">Ellen Pittsford</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Travis Devitt">Travis Devitt</a></li><!--
   --><!--
   --><!--
   --><!--

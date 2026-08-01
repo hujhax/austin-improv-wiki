@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Bare Minimum.jpg]]
+				!<a class="internal-link" href="The Bare Minimum.jpg">The Bare Minimum.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Harrison Hammonds]]</li><!--
-  --><li style="">[[Jeremy Sweetlamb]]</li><!--
+  --><li style=""><a class="internal-link" href="Harrison Hammonds">Harrison Hammonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,20 +72,20 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bo Briggs]]</li><!--
-  --><li style="">[[Braxton Manley]]</li><!--
-  --><li style="">[[Christian Haddad]]</li><!--
-  --><li style="">[[Cortney Hall]]</li><!--
-  --><li style="">[[Curtis Faulkner]]</li><!--
-  --><li style="">[[Drake Touvre]]</li><!--
-  --><li style="">[[Harrison Hammonds]]</li><!--
-  --><li style="">[[Ian Balles]]</li><!--
-  --><li style="" >[[Jonah Foster]]</li><!--
-  --><li style="">[[Kaysie Bekkala]]</li><!--
-  --><li style="">[[Kaysie Bekkela]]</li><!--
-  --><li style="">[[Martin Pandola]]</li><!--
-  --><li style="">[[Mishi Gonzalez]]</li><!--
-  --><li style="">[[TJ Stewart]]</li><!--
+  --><li style=""><a class="internal-link" href="Bo Briggs">Bo Briggs</a></li><!--
+  --><li style=""><a class="internal-link" href="Braxton Manley">Braxton Manley</a></li><!--
+  --><li style=""><a class="internal-link" href="Christian Haddad">Christian Haddad</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortney Hall">Cortney Hall</a></li><!--
+  --><li style=""><a class="internal-link" href="Curtis Faulkner">Curtis Faulkner</a></li><!--
+  --><li style=""><a class="internal-link" href="Drake Touvre">Drake Touvre</a></li><!--
+  --><li style=""><a class="internal-link" href="Harrison Hammonds">Harrison Hammonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Ian Balles">Ian Balles</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jonah Foster">Jonah Foster</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaysie Bekkala">Kaysie Bekkala</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaysie Bekkela">Kaysie Bekkela</a></li><!--
+  --><li style=""><a class="internal-link" href="Martin Pandola">Martin Pandola</a></li><!--
+  --><li style=""><a class="internal-link" href="Mishi Gonzalez">Mishi Gonzalez</a></li><!--
+  --><li style=""><a class="internal-link" href="TJ Stewart">TJ Stewart</a></li><!--
   --><!--
   --><!--
   --><!--

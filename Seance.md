@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Seance.jpg]]
+				!<a class="internal-link" href="Seance.jpg">Seance.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Clay Towery]]</td>
+			<td class="category"><a class="internal-link" href="Clay Towery">Clay Towery</a></td>
 		</tr>
 
 
@@ -26,24 +26,24 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Bridget Brewer]]</li><!--
-  --><li style="">[[Cassidy Claire Riesen]]</li><!--
-  --><li style="">[[Clay Towery]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[J. M. Specht]]</li><!--
-  --><li style="">[[Jesse Overright]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="" >[[Marc Majcher]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
-  --><li style="">[[Todd Hart]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Cassidy Claire Riesen">Cassidy Claire Riesen</a></li><!--
+  --><li style=""><a class="internal-link" href="Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="J. M. Specht">J. M. Specht</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[History Under the Influence Pic.jpg]]
+				!<a class="internal-link" href="History Under the Influence Pic.jpg">History Under the Influence Pic.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Kevin Miller]]</td>
+			<td class="category"><a class="internal-link" href="Kevin Miller">Kevin Miller</a></td>
 		</tr>
 
 
@@ -28,15 +28,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Jillian Summar]]</li><!--
-  --><li style="">[[Kevin Miller]]</li><!--
-  --><li style="">[[Mitchell Deane]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Thedward Blevins]]</li><!--
-  --><li style="" >[[Melissa Patterson]]</li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style="" ><a class="internal-link" href="Melissa Patterson">Melissa Patterson</a></li><!--
   --><!--
   --><!--
   --><!--

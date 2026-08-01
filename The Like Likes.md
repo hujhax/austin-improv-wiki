@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Like Likes.jpg]]
+				!<a class="internal-link" href="The Like Likes.jpg">The Like Likes.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,19 +15,19 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Dave Buckman]]</td>
+			<td class="category"><a class="internal-link" href="Dave Buckman">Dave Buckman</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Wright]]</li><!--
-  --><li style="">[[Jared Robertson]]</li><!--
-  --><li style="">[[Jessica Medina]]</li><!--
-  --><li style="">[[K.C. Harvey-Taylor]]</li><!--
-  --><li style="">[[Katie Towne]]</li><!--
-  --><li style="">[[Monica Wells]]</li><!--
-  --><li style="">[[Robert Moncrieff]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Medina">Jessica Medina</a></li><!--
+  --><li style=""><a class="internal-link" href="K.C. Harvey-Taylor">K.C. Harvey-Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Towne">Katie Towne</a></li><!--
+  --><li style=""><a class="internal-link" href="Monica Wells">Monica Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Robert Moncrieff">Robert Moncrieff</a></li><!--
   --><!--
   --><!--
   --><!--

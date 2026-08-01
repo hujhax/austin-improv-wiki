@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Tess Hermes]]</li><!--
-  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
-  --><li style="">[[Tyler Lane]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Mason Pitluk]]</li><!--
-  --><li style="">[[Donna Rice]]</li><!--
+  --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Lane">Tyler Lane</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Mason Pitluk">Mason Pitluk</a></li><!--
+  --><li style=""><a class="internal-link" href="Donna Rice">Donna Rice</a></li><!--
   --><!--
   --><!--
   --><!--

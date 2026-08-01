@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Really Big Thumbs Up.jpg]]
+				!<a class="internal-link" href="Really Big Thumbs Up.jpg">Really Big Thumbs Up.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Carpenter]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Kristen Kurtis]]</li><!--
-  --><li style="">[[Matt Needles]]</li><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristen Kurtis">Kristen Kurtis</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Arian Brumby]]</li><!--
-  --><li style="">[[Calan lambert]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
-  --><li style="">[[Kristin Henn]]</li><!--
-  --><li style="">[[Sarah Coker]]</li><!--
+  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
+  --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Henn">Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Coker">Sarah Coker</a></li><!--
   --><!--
   --><!--
   --><!--

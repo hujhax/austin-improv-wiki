@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Sci-Fi Comedy Double Feature.jpg]]
+				!<a class="internal-link" href="The Sci-Fi Comedy Double Feature.jpg">The Sci-Fi Comedy Double Feature.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Sean Hill]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,8 +79,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bradley Dean Whyte]]</li><!--
-  --><li style="">[[David Zimmerman]]</li><!--
+  --><li style=""><a class="internal-link" href="Bradley Dean Whyte">Bradley Dean Whyte</a></li><!--
+  --><li style=""><a class="internal-link" href="David Zimmerman">David Zimmerman</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -135,19 +135,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Dobrenko]]</li><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Chris Allen]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Jay Michael]]</li><!--
-  --><li style="">[[Lauren Buck]]</li><!--
-  --><li style="">[[Nicole Beckley]]</li><!--
-  --><li style="" >[[Peter Rogers]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Sean Hill]]</li><!--
-  --><li style="">[[Steve Harwood]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Harwood">Steve Harwood</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -192,11 +192,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Gene Zhou]]</li><!--
-  --><li style="">[[Kim Dilling]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Kim Dilling">Kim Dilling</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a></li><!--
   --><!--
   --><!--
   --><!--

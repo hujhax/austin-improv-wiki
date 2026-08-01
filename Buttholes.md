@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Mandinka.jpg]]
+				!<a class="internal-link" href="Mandinka.jpg">Mandinka.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Mia Iseman]]</li><!--
-  --><li style="">[[John Carroll]]</li><!--
-  --><li style="">[[Hannah Monson]]</li><!--
-  --><li style="">[[Elena Martinez]]</li><!--
+  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="John Carroll">John Carroll</a></li><!--
+  --><li style=""><a class="internal-link" href="Hannah Monson">Hannah Monson</a></li><!--
+  --><li style=""><a class="internal-link" href="Elena Martinez">Elena Martinez</a></li><!--
   --><!--
   --><!--
   --><!--

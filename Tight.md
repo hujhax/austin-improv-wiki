@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Tight.jpg]]
+				!<a class="internal-link" href="Tight.jpg">Tight.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob McNichol]]</li><!--
-  --><li style="">[[Dave Buckman]]</li><!--
-  --><li style="">[[Erika McNichol]]</li><!--
-  --><li style="">[[Erin Plischke]]</li><!--
-  --><li style="">[[Jen Cargill]]</li><!--
-  --><li style="">[[Mac Antigua]]</li><!--
-  --><li style="">[[Rachel Madorsky]]</li><!--
+  --><li style=""><a class="internal-link" href="Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Erika McNichol">Erika McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Erin Plischke">Erin Plischke</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Cargill">Jen Cargill</a></li><!--
+  --><li style=""><a class="internal-link" href="Mac Antigua">Mac Antigua</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--
   --><!--

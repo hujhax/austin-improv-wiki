@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live From ColdTowne It’s Saturday Night!.jpg]]
+				!<a class="internal-link" href="Live From ColdTowne It’s Saturday Night!.jpg">Live From ColdTowne It’s Saturday Night!.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Frank Netscher]]</td>
+			<td class="category"><a class="internal-link" href="Frank Netscher">Frank Netscher</a></td>
 		</tr>
 
 

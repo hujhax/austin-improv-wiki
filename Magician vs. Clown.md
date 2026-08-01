@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Magician Versus Clown.jpg]]
+				!<a class="internal-link" href="Magician Versus Clown.jpg">Magician Versus Clown.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[Nathan Livni]]</li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Livni">Nathan Livni</a></li><!--
   --><!--
   --><!--
   --><!--

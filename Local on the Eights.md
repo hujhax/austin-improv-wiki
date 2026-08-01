@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Local on the 8s.jpg]]
+				!<a class="internal-link" href="Local on the 8s.jpg">Local on the 8s.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[J. R. Zambrano]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -80,8 +80,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Dramaturg(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Danielle Saar]]</li><!--
-  --><li style="">[[Jessica von Schramm]]</li><!--
+  --><li style=""><a class="internal-link" href="Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -145,14 +145,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amanda Chang]]</li><!--
-  --><li style="">[[Benjamin Blattberg]]</li><!--
-  --><li style="">[[Caroline Gorman]]</li><!--
-  --><li style="">[[Jeffrey Chatman]]</li><!--
-  --><li style="">[[Jennifer Banister]]</li><!--
-  --><li style="">[[Marissa Macy]]</li><!--
-  --><li style="">[[Scott Rose]]</li><!--
-  --><li style="">[[Sushant Sethi]]</li><!--
+  --><li style=""><a class="internal-link" href="Amanda Chang">Amanda Chang</a></li><!--
+  --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Caroline Gorman">Caroline Gorman</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeffrey Chatman">Jeffrey Chatman</a></li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Banister">Jennifer Banister</a></li><!--
+  --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Rose">Scott Rose</a></li><!--
+  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -202,11 +202,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Caroline Dinges]]</li><!--
-  --><li style="">[[Greg Blank]]</li><!--
-  --><li style="">[[Daniel Ellsworth]]</li><!--
-  --><li style="">[[Brad Geiger]]</li><!--
-  --><li style="">[[Kay Krasin]]</li><!--
+  --><li style=""><a class="internal-link" href="Caroline Dinges">Caroline Dinges</a></li><!--
+  --><li style=""><a class="internal-link" href="Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Daniel Ellsworth">Daniel Ellsworth</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Geiger">Brad Geiger</a></li><!--
+  --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Executive Mandate.jpg]]
+				!<a class="internal-link" href="Executive Mandate.jpg">Executive Mandate.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Grissom]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Grissom">Andrew Grissom</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
   --><!--
   --><!--
   --><!--

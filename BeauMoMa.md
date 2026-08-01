@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[BeauMoMa.jpg]]
+				!<a class="internal-link" href="BeauMoMa.jpg">BeauMoMa.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bridget Brewer]]</li><!--
-  --><li style="">[[Maitland Lederer]]</li><!--
-  --><li style="">[[Melissa Patterson]]</li><!--
+  --><li style=""><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
+  --><li style=""><a class="internal-link" href="Melissa Patterson">Melissa Patterson</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,13 +5,13 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Whirled News Tonight.jpg]]
+				!<a class="internal-link" href="Whirled News Tonight.jpg">Whirled News Tonight.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
@@ -28,16 +28,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Trew]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="">[[Cynthia Oelkers]]</li><!--
-  --><li style="">[[Nat Miller]]</li><!--
-  --><li style="">[[Dave Buckman]]</li><!--
-  --><li style="">[[Rachel Madorsky]]</li><!--
-  --><li style="">[[Scott Chester]]</li><!--
-  --><li style="">[[Jennifer Cargill]]</li><!--
-  --><li style="" >[[Erika McNichol]]</li><!--
-  --><li style="">[[Bob McNichol]]</li><!--
+  --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Cynthia Oelkers">Cynthia Oelkers</a></li><!--
+  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Chester">Scott Chester</a></li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Cargill">Jennifer Cargill</a></li><!--
+  --><li style="" ><a class="internal-link" href="Erika McNichol">Erika McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Bob McNichol">Bob McNichol</a></li><!--
   --><!--
   --><!--
   --><!--

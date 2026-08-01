@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Super Troopers.jpg]]
+				!<a class="internal-link" href="The Super Troopers.jpg">The Super Troopers.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Danny Goldstein]]</li><!--
-  --><li style="">[[JM Specht]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
-  --><li style="">[[Stephanie Asmus]]</li><!--
-  --><li style="">[[Tyler Wasden]]</li><!--
+  --><li style=""><a class="internal-link" href="Danny Goldstein">Danny Goldstein</a></li><!--
+  --><li style=""><a class="internal-link" href="JM Specht">JM Specht</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Asmus">Stephanie Asmus</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Wasden">Tyler Wasden</a></li><!--
   --><!--
   --><!--
   --><!--

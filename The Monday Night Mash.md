@@ -5,15 +5,15 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Monday Night Mash.jpg]]
+				!<a class="internal-link" href="The Monday Night Mash.jpg">The Monday Night Mash.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kick Butt Coffee]] (2008-2009)</li><!--
-  --><li style="">[[ColdTowne Theater]] (2009-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Kick Butt Coffee">Kick Butt Coffee</a> (2008-2009)</li><!--
+  --><li style=""><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a> (2009-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -68,8 +68,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Snackers]] (2008-2009)</li><!--
-  --><li style="">[[ColdTowne Theater]] (2009-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Snackers">Snackers</a> (2008-2009)</li><!--
+  --><li style=""><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a> (2009-Present)</li><!--
   --><!--
   --><!--
   --><!--

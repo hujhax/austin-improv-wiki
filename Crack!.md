@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Crack!.jpg]]
+				!<a class="internal-link" href="Crack!.jpg">Crack!.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Sara Farr]]</td>
+			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
 		</tr>
 
 
@@ -27,8 +27,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Gnap! Theater Projects]]</li><!--
-  --><li style="">[[The Puppet Improv Project]]</li><!--
+  --><li style=""><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></li><!--
+  --><li style=""><a class="internal-link" href="The Puppet Improv Project">The Puppet Improv Project</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,9 +84,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
-  --><li style="">[[Jason Laney]]</li><!--
-  --><li style="">[[Pat Buchta]]</li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Laney">Jason Laney</a></li><!--
+  --><li style=""><a class="internal-link" href="Pat Buchta">Pat Buchta</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -140,18 +140,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[Clay Towery]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[Howard Katz]]</li><!--
-  --><li style="">[[Jesse Overright]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Patrick Daniel]]</li><!--
-  --><li style="">[[Patrick Knisely]]</li><!--
-  --><li style="" >[[Peter Rogers]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

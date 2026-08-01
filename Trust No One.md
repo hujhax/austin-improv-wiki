@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Tno-poster-small.jpg]]
+				!<a class="internal-link" href="Tno-poster-small.jpg">Tno-poster-small.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Brad Hawkins]]</td>
+			<td class="category"><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Ryan Hill]]</td>
+			<td class="category"><a class="internal-link" href="Ryan Hill">Ryan Hill</a></td>
 		</tr>
 
 
@@ -33,18 +33,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alexandria Ayala]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Andy Hush]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
-  --><li style="">[[Clint Harris]]</li><!--
-  --><li style="">[[Jay Michael]]</li><!--
-  --><li style="">[[Jen Kaplan]]</li><!--
-  --><li style="" >[[Luis Salinas]]</li><!--
-  --><li style="">[[Maitland Lederer]]</li><!--
-  --><li style="">[[Nicole Beckley]]</li><!--
-  --><li style="">[[Tess Hermes]]</li><!--
+  --><li style=""><a class="internal-link" href="Alexandria Ayala">Alexandria Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Hush">Andy Hush</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style="" ><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,8 +90,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Michael Yew]]</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
   --><!--
   --><!--
   --><!--

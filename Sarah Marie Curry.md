@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[ShowcaseTIT.png]]
+				!<a class="internal-link" href="ShowcaseTIT.png">ShowcaseTIT.png</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[Chaotic-neutral]]</td>
+			<td class="category"><a class="internal-link" href="Chaotic-neutral">Chaotic-neutral</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Katie Doran Pic.jpg]]
+				!<a class="internal-link" href="Katie Doran Pic.jpg">Katie Doran Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[ColdTowne]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne">ColdTowne</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

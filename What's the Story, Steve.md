@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[WTSS.jpg]]
+				!<a class="internal-link" href="WTSS.jpg">WTSS.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Carpenter]]</li><!--
-  --><li style="">[[Arian Brumby]]</li><!--
-  --><li style="">[[Caitlin Baumgartner]]</li><!--
-  --><li style="">[[Chris Baldenhofer]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Kristin Henn]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
+  --><li style=""><a class="internal-link" href="Caitlin Baumgartner">Caitlin Baumgartner</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Henn">Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--

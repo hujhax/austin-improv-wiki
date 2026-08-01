@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Lunch Pail.jpg]]
+				!<a class="internal-link" href="Lunch Pail.jpg">Lunch Pail.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alejandro Garcia]]</li><!--
-  --><li style="">[[Andrew Basile]]</li><!--
-  --><li style="">[[Matt Needles]]</li><!--
+  --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
   --><!--
   --><!--
   --><!--

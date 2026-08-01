@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Shades of Brown.jpg]]
+				!<a class="internal-link" href="Shades of Brown.jpg">Shades of Brown.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,21 +15,21 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Chuy Zarate]]</td>
+			<td class="category"><a class="internal-link" href="Chuy Zarate">Chuy Zarate</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adan Gutierrez]]</li><!--
-  --><li style="">[[Claudio Fox]]</li><!--
-  --><li style="">[[Erica Sanchez]]</li><!--
-  --><li style="">[[Gene Zhou]]</li><!--
-  --><li style="">[[Jiovani Galo]]</li><!--
-  --><li style="">[[Luis Zertuche]]</li><!--
-  --><li style="">[[Mateo Giles]]</li><!--
-  --><li style="">[[Monica Ybarra-Torres]]</li><!--
-  --><li style="" >[[Sandra Ybarra]]</li><!--
+  --><li style=""><a class="internal-link" href="Adan Gutierrez">Adan Gutierrez</a></li><!--
+  --><li style=""><a class="internal-link" href="Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Erica Sanchez">Erica Sanchez</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Jiovani Galo">Jiovani Galo</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Zertuche">Luis Zertuche</a></li><!--
+  --><li style=""><a class="internal-link" href="Mateo Giles">Mateo Giles</a></li><!--
+  --><li style=""><a class="internal-link" href="Monica Ybarra-Torres">Monica Ybarra-Torres</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Blood, Sweat, and Cheers pic.jpg]]
+				!<a class="internal-link" href="Blood, Sweat, and Cheers pic.jpg">Blood, Sweat, and Cheers pic.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Roy Janik]]</td>
+			<td class="category"><a class="internal-link" href="Roy Janik">Roy Janik</a></td>
 		</tr>
 
 
@@ -26,23 +26,23 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Kaci Beeler]]</td>
+			<td class="category"><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Dobrenko]]</li><!--
-  --><li style="">[[Amy Gentry]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Curtis Luciani]]</li><!--
-  --><li style="">[[Halyn Lee Erickson]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="" >[[Kayla Lane Freeman]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Gentry">Amy Gentry</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
   --><!--
   --><!--
   --><!--

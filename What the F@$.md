@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[What the F@$.jpg]]
+				!<a class="internal-link" href="What the F@$.jpg">What the F@$.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Ruby Willmann]]</td>
+			<td class="category"><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Caeriel Crestin]]</td>
+			<td class="category"><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 
 
@@ -33,15 +33,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adrienne Brown]]</li><!--
-  --><li style="">[[Chris Albano]]</li><!--
-  --><li style="">[[David Schwartz]]</li><!--
-  --><li style="">[[Emma Czarnecki]]</li><!--
-  --><li style="">[[Judith Schomp]]</li><!--
-  --><li style="">[[Lindsay Hejl]]</li><!--
-  --><li style="">[[Manuel Duran]]</li><!--
-  --><li style="">[[Melissa Patterson]]</li><!--
-  --><li style="" >[[Michael Guy Bowman]]</li><!--
+  --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
+  --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Michael Guy Bowman">Michael Guy Bowman</a></li><!--
   --><!--
   --><!--
   --><!--

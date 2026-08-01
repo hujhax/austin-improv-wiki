@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays- 90210.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays- 90210.jpg">Live TV Tuesdays- 90210.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Tom Booker]]</td>
+			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
 		</tr>
 
 
@@ -28,16 +28,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Lowe]]</li><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[Cassiday Proctor]]</li><!--
-  --><li style="">[[Erica Lies]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[John Buseman]]</li><!--
-  --><li style="">[[Martina Ohlhauser]]</li><!--
-  --><li style="">[[Michael Thomas]]</li><!--
-  --><li style="" >[[Sara Osburn]]</li><!--
-  --><li style="">[[Tyler Pratt]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Cassiday Proctor">Cassiday Proctor</a></li><!--
+  --><li style=""><a class="internal-link" href="Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Martina Ohlhauser">Martina Ohlhauser</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sara Osburn">Sara Osburn</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Pratt">Tyler Pratt</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,8 +85,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Madeline Jo Chauvin]]</li><!--
-  --><li style="">[[Todd Hart]]</li><!--
+  --><li style=""><a class="internal-link" href="Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

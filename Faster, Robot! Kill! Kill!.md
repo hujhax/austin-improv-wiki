@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Faster, Robot! Kill! Kill Pic.jpg]]
+				!<a class="internal-link" href="Faster, Robot! Kill! Kill Pic.jpg">Faster, Robot! Kill! Kill Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--

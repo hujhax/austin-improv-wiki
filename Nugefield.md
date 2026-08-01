@@ -1,11 +1,11 @@
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
-			<th class="infobox-header" colspan="2">[[Nugefield]]</th>
+			<th class="infobox-header" colspan="2"><a class="internal-link" href="Nugefield">Nugefield</a></th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Nugefield.jpg]]
+				!<a class="internal-link" href="Nugefield.jpg">Nugefield.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Clifton Highfield]]</li><!--
-  --><li style="">[[Ashley Nugent]]</li><!--
+  --><li style=""><a class="internal-link" href="Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Nugent">Ashley Nugent</a></li><!--
   --><!--
   --><!--
   --><!--

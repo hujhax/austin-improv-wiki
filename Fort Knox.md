@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,18 +15,18 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Pseudonyms|Madeline M.]]</td>
+			<td class="category"><a class="internal-link" href="Pseudonyms">Madeline M.</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Albert Im]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Erik Adams]]</li><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
+  --><li style=""><a class="internal-link" href="Albert Im">Albert Im</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
   --><!--
   --><!--
   --><!--

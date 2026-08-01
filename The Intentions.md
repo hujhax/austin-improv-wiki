@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Intentions.jpg]]
+				!<a class="internal-link" href="The Intentions.jpg">The Intentions.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob Khosravi]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Chelsea Gilman]]</li><!--
-  --><li style="">[[Deano Jones]]</li><!--
-  --><li style="">[[Jason Finkelman]]</li><!--
-  --><li style="">[[Kimberly Cox]]</li><!--
+  --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Finkelman">Jason Finkelman</a></li><!--
+  --><li style=""><a class="internal-link" href="Kimberly Cox">Kimberly Cox</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Trabka]]</li><!--
-  --><li style="">[[Amy Wright]]</li><!--
-  --><li style="">[[Emily McDonald]]</li><!--
-  --><li style="">[[Ian Townsend]]</li><!--
-  --><li style="">[[Jake Millward]]</li><!--
-  --><li style="">[[Jared Robertson]]</li><!--
-  --><li style="">[[Javier Ungo]]</li><!--
-  --><li style="">[[Julia Salas]]</li><!--
-  --><li style="" >[[Kasey Borger]]</li><!--
-  --><li style="">[[Steve Moore]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
+  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
+  --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--
+  --><li style=""><a class="internal-link" href="Julia Salas">Julia Salas</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kasey Borger">Kasey Borger</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Hell's Bells.jpg]]
+				!<a class="internal-link" href="Hell's Bells.jpg">Hell's Bells.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ann Wilson]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
+  --><li style=""><a class="internal-link" href="Ann Wilson">Ann Wilson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
   --><!--
   --><!--
   --><!--

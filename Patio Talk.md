@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kasey Borger]]</li><!--
-  --><li style="">[[Juliet Prather]]</li><!--
-  --><li style="">[[Amy Wright]]</li><!--
+  --><li style=""><a class="internal-link" href="Kasey Borger">Kasey Borger</a></li><!--
+  --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,7 +72,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chrissy Shackelford]]</li><!--
+  --><li style=""><a class="internal-link" href="Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><!--
   --><!--
   --><!--

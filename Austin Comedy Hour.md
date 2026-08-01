@@ -5,13 +5,13 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Austin Comedy Hour.jpg]]
+				!<a class="internal-link" href="Austin Comedy Hour.jpg">Austin Comedy Hour.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Spider House]]</td>
+			<td class="category"><a class="internal-link" href="The Spider House">The Spider House</a></td>
 		</tr>
 
 		<tr class="">
@@ -26,7 +26,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[The New Movement]]</td>
+			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
 		</tr>
 
 

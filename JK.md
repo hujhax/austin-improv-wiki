@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[JK.jpg]]
+				!<a class="internal-link" href="JK.jpg">JK.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jillian Summar]]</li><!--
-  --><li style="">[[Katie Doran]]</li><!--
+  --><li style=""><a class="internal-link" href="Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Doran">Katie Doran</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - My So-Called Life.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - My So-Called Life.jpg">Live TV Tuesdays - My So-Called Life.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Tom Booker]]</td>
+			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
 		</tr>
 
 
@@ -28,15 +28,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ann Wilson]]</li><!--
-  --><li style="">[[Brittany Salyer]]</li><!--
-  --><li style="">[[Christian Rashsalve Huey]]</li><!--
-  --><li style="">[[Christine Giordano]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
-  --><li style="">[[Rafael Virguez]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Stephanie Hagemeister]]</li><!--
-  --><li style="" >[[Ted Meredith]]</li><!--
+  --><li style=""><a class="internal-link" href="Ann Wilson">Ann Wilson</a></li><!--
+  --><li style=""><a class="internal-link" href="Brittany Salyer">Brittany Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Christian Rashsalve Huey">Christian Rashsalve Huey</a></li><!--
+  --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Rafael Virguez">Rafael Virguez</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
+  --><li style="" ><a class="internal-link" href="Ted Meredith">Ted Meredith</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Improvised Robocop.jpg]]
+				!<a class="internal-link" href="Improvised Robocop.jpg">Improvised Robocop.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,17 +16,17 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Wesley]]</li><!--
-  --><li style="">[[Andy Petruzzo]]</li><!--
-  --><li style="">[[Collin Cannaday]]</li><!--
-  --><li style="">[[Delaney Liming]]</li><!--
-  --><li style="">[[Gene Zhou]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Jenny Carlson]]</li><!--
-  --><li style="">[[Jericho Thorpe]]</li><!--
-  --><li style="" >[[Kyle Sweeney]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Stephanie Redding]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Wesley">Andrew Wesley</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Petruzzo">Andy Petruzzo</a></li><!--
+  --><li style=""><a class="internal-link" href="Collin Cannaday">Collin Cannaday</a></li><!--
+  --><li style=""><a class="internal-link" href="Delaney Liming">Delaney Liming</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorpe">Jericho Thorpe</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Redding">Stephanie Redding</a></li><!--
   --><!--
   --><!--
   --><!--

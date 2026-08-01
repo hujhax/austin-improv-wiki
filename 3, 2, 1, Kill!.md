@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[3, 2, 1, Kill!.jpg]]
+				!<a class="internal-link" href="3, 2, 1, Kill!.jpg">3, 2, 1, Kill!.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,23 +16,23 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Arthur Simone]]</li><!--
-  --><li style="">[[Bob McNichol]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Chris Trew]]</li><!--
-  --><li style="">[[Dave Buckman]]</li><!--
-  --><li style="">[[Erika May McNichol]]</li><!--
-  --><li style="">[[Jill Morris]]</li><!--
-  --><li style="" >[[Kaci Beeler]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
-  --><li style="">[[Rachel Madorsky]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Tami Nelson]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
-  --><li style="">[[Wesley Bain]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Tami Nelson">Tami Nelson</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Wesley Bain">Wesley Bain</a></li><!--
   --><!--
   --><!--
   --><!--

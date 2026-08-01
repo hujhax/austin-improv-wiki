@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Owen Egerton Pic.jpg]]
+				!<a class="internal-link" href="Owen Egerton Pic.jpg">Owen Egerton Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[ComedySportz]]</td>
+			<td class="category"><a class="internal-link" href="ComedySportz">ComedySportz</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

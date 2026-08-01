@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[B-Team.jpg]]
+				!<a class="internal-link" href="B-Team.jpg">B-Team.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chase Rowan]]</li><!--
-  --><li style="">[[Craig McGreggor]]</li><!--
-  --><li style="">[[LeAnn Levering-Plant]]</li><!--
-  --><li style="">[[Melissa Siele]]</li><!--
-  --><li style="">[[Molly Harris]]</li><!--
-  --><li style="">[[Pius Wong]]</li><!--
+  --><li style=""><a class="internal-link" href="Chase Rowan">Chase Rowan</a></li><!--
+  --><li style=""><a class="internal-link" href="Craig McGreggor">Craig McGreggor</a></li><!--
+  --><li style=""><a class="internal-link" href="LeAnn Levering-Plant">LeAnn Levering-Plant</a></li><!--
+  --><li style=""><a class="internal-link" href="Melissa Siele">Melissa Siele</a></li><!--
+  --><li style=""><a class="internal-link" href="Molly Harris">Molly Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Pius Wong">Pius Wong</a></li><!--
   --><!--
   --><!--
   --><!--

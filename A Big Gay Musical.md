@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Abiggaymusicalplaceholder.png]]
+				!<a class="internal-link" href="Abiggaymusicalplaceholder.png">Abiggaymusicalplaceholder.png</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Bridget Brewer]]</td>
+			<td class="category"><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></td>
 		</tr>
 
 
@@ -24,7 +24,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category">[[Mia Cisco]]</td>
+			<td class="category"><a class="internal-link" href="Mia Cisco">Mia Cisco</a></td>
 		</tr>
 
 
@@ -33,20 +33,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Bridget Brewer]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Casey Marie]]</li><!--
-  --><li style="">[[Chelsea Beth]]</li><!--
-  --><li style="">[[Frank Sánchez]]</li><!--
-  --><li style="">[[Jaukeem Jaydoire Balcom]]</li><!--
-  --><li style="">[[Ladislao Loera]]</li><!--
-  --><li style="" >[[Luke Wallens]]</li><!--
-  --><li style="">[[Marissa Macy]]</li><!--
-  --><li style="">[[Rachel Posey Austin]]</li><!--
-  --><li style="">[[Tosin Awofeso]]</li><!--
-  --><li style="">[[Trent Thomson]]</li><!--
-  --><li style="">[[Tyler Lane]]</li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Casey Marie">Casey Marie</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a></li><!--
+  --><li style=""><a class="internal-link" href="Jaukeem Jaydoire Balcom">Jaukeem Jaydoire Balcom</a></li><!--
+  --><li style=""><a class="internal-link" href="Ladislao Loera">Ladislao Loera</a></li><!--
+  --><li style="" ><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Tosin Awofeso">Tosin Awofeso</a></li><!--
+  --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
   --><!--

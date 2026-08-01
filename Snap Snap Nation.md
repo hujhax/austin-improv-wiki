@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Snap Snap Nation.jpg]]
+				!<a class="internal-link" href="Snap Snap Nation.jpg">Snap Snap Nation.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Benden]] (guitarist)</li><!--
-  --><li style="">[[Susannah Raulino]]</li><!--
-  --><li style="">[[Vanessa Shields]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Benden">Adam Benden</a> (guitarist)</li><!--
+  --><li style=""><a class="internal-link" href="Susannah Raulino">Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Vanessa Shields">Vanessa Shields</a></li><!--
   --><!--
   --><!--
   --><!--

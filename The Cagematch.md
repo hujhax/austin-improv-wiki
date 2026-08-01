@@ -5,15 +5,15 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Cagematch.jpg]]
+				!<a class="internal-link" href="The Cagematch.jpg">The Cagematch.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[The Hideout Theatre]] (2005-2007)</li><!--
-  --><li style="">[[ColdTowne Theater]] (2007-Present)</li><!--
+  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a> (2005-2007)</li><!--
+  --><li style=""><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a> (2007-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -68,10 +68,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Trew]] (2007-2008)</li><!--
-  --><li style="">[[Michael Williams]] (2008-2012)</li><!--
-  --><li style="">[[Adam Trabka]] (2012-2014)</li><!--
-  --><li style="">[[Nathan Sowell]] (2014-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a> (2007-2008)</li><!--
+  --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a> (2008-2012)</li><!--
+  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a> (2012-2014)</li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a> (2014-Present)</li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Wright]]</li><!--
-  --><li style="">[[Jared Robertson]]</li><!--
-  --><li style="">[[Jessica Medina]]</li><!--
-  --><li style="">[[K.C. Harvey-Taylor]]</li><!--
-  --><li style="">[[Katie Towne]]</li><!--
-  --><li style="">[[Kayla Newman]]</li><!--
-  --><li style="">[[Kenah Benefield]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Medina">Jessica Medina</a></li><!--
+  --><li style=""><a class="internal-link" href="K.C. Harvey-Taylor">K.C. Harvey-Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Towne">Katie Towne</a></li><!--
+  --><li style=""><a class="internal-link" href="Kayla Newman">Kayla Newman</a></li><!--
+  --><li style=""><a class="internal-link" href="Kenah Benefield">Kenah Benefield</a></li><!--
   --><!--
   --><!--
   --><!--

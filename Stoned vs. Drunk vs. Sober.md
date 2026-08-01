@@ -5,13 +5,13 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Stoned vs. Drunk vs. Sober.jpg]]
+				!<a class="internal-link" href="Stoned vs. Drunk vs. Sober.jpg">Stoned vs. Drunk vs. Sober.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The New Movement]]</td>
+			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
 		</tr>
 
 		<tr class="">

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Frank Mills.jpg]]
+				!<a class="internal-link" href="The Frank Mills.jpg">The Frank Mills.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob McNichol]]</li><!--
-  --><li style="">[[Dave Buckman]]</li><!--
-  --><li style="">[[Erika May McNichol]]</li><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
-  --><li style="">[[Rachel Madorsky]]</li><!--
+  --><li style=""><a class="internal-link" href="Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--
   --><!--

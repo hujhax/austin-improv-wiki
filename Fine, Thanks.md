@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Fine, Thanks.jpg]]
+				!<a class="internal-link" href="Fine, Thanks.jpg">Fine, Thanks.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Gray]]</li><!--
-  --><li style="">[[Amy O'Connor]]</li><!--
-  --><li style="">[[Bradley Harrington]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="">[[Keegan Hines]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Menelaos Prokos]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Gray">Alex Gray</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
+  --><li style=""><a class="internal-link" href="Bradley Harrington">Bradley Harrington</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Menelaos Prokos">Menelaos Prokos</a></li><!--
   --><!--
   --><!--
   --><!--

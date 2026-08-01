@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[MmmmK.jpg]]
+				!<a class="internal-link" href="MmmmK.jpg">MmmmK.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,8 +18,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--

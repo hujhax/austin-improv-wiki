@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Four Stories Tall .jpg]]
+				!<a class="internal-link" href="Four Stories Tall .jpg">Four Stories Tall .jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,17 +15,17 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Jeremy Sweetlamb]]</td>
+			<td class="category"><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alec Bainter]]</li><!--
-  --><li style="">[[John Manzer]]</li><!--
-  --><li style="">[[Monk Landry]]</li><!--
-  --><li style="">[[Ryan Farley]]</li><!--
-  --><li style="">[[Thomas Scruggs]]</li><!--
+  --><li style=""><a class="internal-link" href="Alec Bainter">Alec Bainter</a></li><!--
+  --><li style=""><a class="internal-link" href="John Manzer">John Manzer</a></li><!--
+  --><li style=""><a class="internal-link" href="Monk Landry">Monk Landry</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Farley">Ryan Farley</a></li><!--
+  --><li style=""><a class="internal-link" href="Thomas Scruggs">Thomas Scruggs</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -7,14 +7,14 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Blank.jpg]]
+				!<a class="internal-link" href="Blank.jpg">Blank.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[The Hideout Theatre]]</li><!--
-  --><li style="">[[The Institution Theater]]</li><!--
+  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
   --><li style="">[http://washingtonimprovtheater.com Washington Improv Theater]</li><!--
   --><li style="">[http://www.dcimprov.com/comedy-school/learn-improv.html DCImprov]</li><!--
   --><li style="">[http://comedyindc.com DC ComedySportz]</li><!--

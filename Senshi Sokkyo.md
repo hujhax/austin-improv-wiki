@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Senshi Sokyo.jpg]]
+				!<a class="internal-link" href="Senshi Sokyo.jpg">Senshi Sokyo.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Colin Thomas Bates]]</li><!--
-  --><li style="">[[Dana Yanoshak]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
-  --><li style="">[[Leng Wong]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style=""><a class="internal-link" href="Colin Thomas Bates">Colin Thomas Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--

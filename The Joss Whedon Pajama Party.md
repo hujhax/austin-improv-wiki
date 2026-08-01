@@ -5,21 +5,21 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Joss Whedon Pajama Party.jpg]]
+				!<a class="internal-link" href="The Joss Whedon Pajama Party.jpg">The Joss Whedon Pajama Party.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Asaf Ronen]]</li><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,28 +79,28 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Mengesha]]</li><!--
-  --><li style="">[[Alex Kingston]]</li><!--
-  --><li style="">[[Alexa Ramirez]]</li><!--
-  --><li style="">[[Asaf Ronen]]</li><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Courtney DeAngelo]]</li><!--
-  --><li style="" >[[David Higgins]]</li><!--
-  --><li style="">[[David Zimmerman]]</li><!--
-  --><li style="">[[Heath Allyn]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Jeremy Logan]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Laura Komkov]]</li><!--
-  --><li style="">[[Mitchell Deane]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Sarah Swofford]]</li><!--
-  --><li style="">[[Stephen Robinson]]</li><!--
-  --><li style="">[[Tyler Bryce]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Kingston">Alex Kingston</a></li><!--
+  --><li style=""><a class="internal-link" href="Alexa Ramirez">Alexa Ramirez</a></li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney DeAngelo">Courtney DeAngelo</a></li><!--
+  --><li style="" ><a class="internal-link" href="David Higgins">David Higgins</a></li><!--
+  --><li style=""><a class="internal-link" href="David Zimmerman">David Zimmerman</a></li><!--
+  --><li style=""><a class="internal-link" href="Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Logan">Jeremy Logan</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephen Robinson">Stephen Robinson</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,8 +136,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
-  --><li style="">[[Cindy Page]]</li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
   --><!--
   --><!--
   --><!--

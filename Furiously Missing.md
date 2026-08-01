@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Furiously Missing.jpg]]
+				!<a class="internal-link" href="Furiously Missing.jpg">Furiously Missing.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy O'Connor]]</li><!--
-  --><li style="">[[Cassidy Santaguida]]</li><!--
-  --><li style="">[[Chris Sutphen]]</li><!--
-  --><li style="">[[Gloria Rabil Bankler]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
+  --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Sutphen">Chris Sutphen</a></li><!--
+  --><li style=""><a class="internal-link" href="Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Audrey Alberthal]]</li><!--
-  --><li style="">[[Charlie Hoehn]]</li><!--
-  --><li style="">[[Heather Hasselle]]</li><!--
-  --><li style="">[[John McConnel]]</li><!--
-  --><li style="">[[Lauren Chavarria]]</li><!--
-  --><li style="">[[Shamik Basu]]</li><!--
-  --><li style="">[[Sunaina Suhag]]</li><!--
-  --><li style="">[[Tania Quintanilla]]</li><!--
+  --><li style=""><a class="internal-link" href="Audrey Alberthal">Audrey Alberthal</a></li><!--
+  --><li style=""><a class="internal-link" href="Charlie Hoehn">Charlie Hoehn</a></li><!--
+  --><li style=""><a class="internal-link" href="Heather Hasselle">Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="John McConnel">John McConnel</a></li><!--
+  --><li style=""><a class="internal-link" href="Lauren Chavarria">Lauren Chavarria</a></li><!--
+  --><li style=""><a class="internal-link" href="Shamik Basu">Shamik Basu</a></li><!--
+  --><li style=""><a class="internal-link" href="Sunaina Suhag">Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Tania Quintanilla">Tania Quintanilla</a></li><!--
   --><!--
   --><!--
   --><!--

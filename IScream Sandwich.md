@@ -7,7 +7,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[IScream Sandwich.jpg]]
+				!<a class="internal-link" href="IScream Sandwich.jpg">IScream Sandwich.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,13 +18,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Robinson]]</li><!--
-  --><li style="">[[Carissa McAtee]]</li><!--
-  --><li style="">[[Erica Lies]]</li><!--
-  --><li style="">[[Heidi Caldwell]]</li><!--
-  --><li style="">[[Marv Pratt]]</li><!--
-  --><li style="">[[Regina Soto]]</li><!--
-  --><li style="">[[Wyatt Tall]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Robinson">Andrew Robinson</a></li><!--
+  --><li style=""><a class="internal-link" href="Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Marv Pratt">Marv Pratt</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style=""><a class="internal-link" href="Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--

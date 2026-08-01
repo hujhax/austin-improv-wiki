@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Myth Debunkers.jpg]]
+				!<a class="internal-link" href="Myth Debunkers.jpg">Myth Debunkers.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Eric Heiberg]]</td>
+			<td class="category"><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></td>
 		</tr>
 
 
@@ -28,12 +28,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Jeremy Lamb]]</li><!--
-  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Heroes of Comedy.jpg]]
+				!<a class="internal-link" href="The Heroes of Comedy.jpg">The Heroes of Comedy.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,57 +15,57 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Sean Hill]]</td>
+			<td class="category"><a class="internal-link" href="Sean Hill">Sean Hill</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy McCurdy]]</li><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Ben Reddell]]</li><!--
-  --><li style="">[[Ben Sterling]]</li><!--
-  --><li style="">[[Bob Apthorpe]]</li><!--
-  --><li style="">[[Brett Webster]]</li><!--
-  --><li style="">[[Brian Yannish]]</li><!--
-  --><li style="">[[Bryan Kent]]</li><!--
-  --><li style="" >[[Carrie Esquenazi]]</li><!--
-  --><li style="">[[Chelsea Adland]]</li><!--
-  --><li style="">[[Chris R. B. Fay]]</li><!--
-  --><li style="">[[Craig Kotfas]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[David Lowey]]</li><!--
-  --><li style="">[[Edi Patterson]]</li><!--
-  --><li style="">[[Eric Perry]]</li><!--
-  --><li style="">[[Jay Michael]]</li><!--
-  --><li style="">[[Jeremy Sweetlamb]]</li><!--
-  --><li style="">[[Jimmy Maas]]</li><!--
-  --><li style="">[[Jon Benner]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Kari Malek]]</li><!--
-  --><li style="">[[Katy Shea]]</li><!--
-  --><li style="">[[Kevin Miller]]</li><!--
-  --><li style="">[[Korey Simeone]]</li><!--
-  --><li style="">[[Lameece Issaq]]</li><!--
-  --><li style="">[[Laura Smith]]</li><!--
-  --><li style="">[[Lauren Buck]]</li><!--
-  --><li style="">[[Louis Wells]]</li><!--
-  --><li style="">[[Maggie Bell]]</li><!--
-  --><li style="">[[Mariella Krouse]]</li><!--
-  --><li style="">[[Matt Reilly]]</li><!--
-  --><li style="">[[Mike DAlonzo]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Ragan Fox]]</li><!--
-  --><li style="">[[Sean Hill]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
-  --><li style="">[[Shelly Miller Bosse]]</li><!--
-  --><li style="">[[Stewart McGregor]]</li><!--
-  --><li style="">[[Ted Rutherford]]</li><!--
-  --><li style="">[[Tim Bauer]]</li><!--
-  --><li style="">[[Timothy Ackerman]]</li><!--
-  --><li style="">[[Todd Womack]]</li><!--
-  --><li style="">[[Yasmine Kittles]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Reddell">Ben Reddell</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Sterling">Ben Sterling</a></li><!--
+  --><li style=""><a class="internal-link" href="Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Webster">Brett Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian Yannish">Brian Yannish</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Kent">Bryan Kent</a></li><!--
+  --><li style="" ><a class="internal-link" href="Carrie Esquenazi">Carrie Esquenazi</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Adland">Chelsea Adland</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris R. B. Fay">Chris R. B. Fay</a></li><!--
+  --><li style=""><a class="internal-link" href="Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lowey">David Lowey</a></li><!--
+  --><li style=""><a class="internal-link" href="Edi Patterson">Edi Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Perry">Eric Perry</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Jimmy Maas">Jimmy Maas</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Benner">Jon Benner</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Kari Malek">Kari Malek</a></li><!--
+  --><li style=""><a class="internal-link" href="Katy Shea">Katy Shea</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Korey Simeone">Korey Simeone</a></li><!--
+  --><li style=""><a class="internal-link" href="Lameece Issaq">Lameece Issaq</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Smith">Laura Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Louis Wells">Louis Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Maggie Bell">Maggie Bell</a></li><!--
+  --><li style=""><a class="internal-link" href="Mariella Krouse">Mariella Krouse</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Reilly">Matt Reilly</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike DAlonzo">Mike DAlonzo</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Ragan Fox">Ragan Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Shelly Miller Bosse">Shelly Miller Bosse</a></li><!--
+  --><li style=""><a class="internal-link" href="Stewart McGregor">Stewart McGregor</a></li><!--
+  --><li style=""><a class="internal-link" href="Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Tim Bauer">Tim Bauer</a></li><!--
+  --><li style=""><a class="internal-link" href="Timothy Ackerman">Timothy Ackerman</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Womack">Todd Womack</a></li><!--
+  --><li style=""><a class="internal-link" href="Yasmine Kittles">Yasmine Kittles</a></li><!--
   --><!--
   --><!--
   --><!--

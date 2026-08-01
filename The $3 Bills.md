@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The $3 Bills.jpg]]
+				!<a class="internal-link" href="The $3 Bills.jpg">The $3 Bills.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Belinda Carroll]]</li><!--
-  --><li style="">[[Cody Melcher]]</li><!--
-  --><li style="">[[Marci Spivey]]</li><!--
-  --><li style="">[[Kim Wilson]]</li><!--
+  --><li style=""><a class="internal-link" href="Belinda Carroll">Belinda Carroll</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Marci Spivey">Marci Spivey</a></li><!--
+  --><li style=""><a class="internal-link" href="Kim Wilson">Kim Wilson</a></li><!--
   --><!--
   --><!--
   --><!--

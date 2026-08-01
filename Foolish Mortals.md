@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Foolish Mortals.jpg]]
+				!<a class="internal-link" href="Foolish Mortals.jpg">Foolish Mortals.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrea Young]]</li><!--
-  --><li style="">[[Andy Perreira]]</li><!--
-  --><li style="">[[Christopher 'Ceej' Allen]]</li><!--
-  --><li style="">[[Jill Morris]]</li><!--
-  --><li style="">[[Ted Rutherford]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Perreira">Andy Perreira</a></li><!--
+  --><li style=""><a class="internal-link" href="Christopher 'Ceej' Allen">Christopher 'Ceej' Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
+  --><li style=""><a class="internal-link" href="Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

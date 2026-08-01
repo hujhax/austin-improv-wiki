@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Jesse Overright]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Laura Khalil]]</li><!--
-  --><li style="">[[Leng Wong]]</li><!--
-  --><li style="">[[Mike Sullivan]]</li><!--
-  --><li style="">[[Scott Crocker]]</li><!--
-  --><li style="">[[Thomas Kelleher]]</li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Khalil">Laura Khalil</a></li><!--
+  --><li style=""><a class="internal-link" href="Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Crocker">Scott Crocker</a></li><!--
+  --><li style=""><a class="internal-link" href="Thomas Kelleher">Thomas Kelleher</a></li><!--
   --><!--
   --><!--
   --><!--

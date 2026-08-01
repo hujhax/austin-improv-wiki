@@ -5,13 +5,13 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Big Beautiful Warriors.jpg]]
+				!<a class="internal-link" href="Big Beautiful Warriors.jpg">Big Beautiful Warriors.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
@@ -27,7 +27,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category">[[Big Beautiful Warlock]]</td>
+			<td class="category"><a class="internal-link" href="Big Beautiful Warlock">Big Beautiful Warlock</a></td>
 		</tr>
 
 

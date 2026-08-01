@@ -5,25 +5,25 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[FireflyPoster.jpg]]
+				!<a class="internal-link" href="FireflyPoster.jpg">FireflyPoster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Allison Asher]]</li><!--
-  --><li style="">[[Michael Thomas]]</li><!--
+  --><li style=""><a class="internal-link" href="Allison Asher">Allison Asher</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,9 +84,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Heath Allyn]]</li><!--
-  --><li style="">[[Jeremy Logan]]</li><!--
-  --><li style="">[[Thelma Faglie]]</li><!--
+  --><li style=""><a class="internal-link" href="Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Logan">Jeremy Logan</a></li><!--
+  --><li style=""><a class="internal-link" href="Thelma Faglie">Thelma Faglie</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -140,18 +140,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Mengesha]]</li><!--
-  --><li style="">[[Alexa Ramirez]]</li><!--
-  --><li style="">[[Ammie Nicole Leonards]]</li><!--
-  --><li style="">[[David Young]]</li><!--
-  --><li style="">[[Heath Allyn]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Lindsey Reeves]]</li><!--
-  --><li style="">[[Michael Thomas]]</li><!--
-  --><li style="" >[[Peter Rogers]]</li><!--
-  --><li style="">[[Sabrina Jones]]</li><!--
-  --><li style="">[[Sarah Swofford]]</li><!--
-  --><li style="">[[Stephen Robinson]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Alexa Ramirez">Alexa Ramirez</a></li><!--
+  --><li style=""><a class="internal-link" href="Ammie Nicole Leonards">Ammie Nicole Leonards</a></li><!--
+  --><li style=""><a class="internal-link" href="David Young">David Young</a></li><!--
+  --><li style=""><a class="internal-link" href="Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
+  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Sabrina Jones">Sabrina Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephen Robinson">Stephen Robinson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -197,9 +197,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
-  --><li style="">[[Cindy Page]]</li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
   --><!--
   --><!--
   --><!--

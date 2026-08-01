@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Party Court.png]]
+				!<a class="internal-link" href="Party Court.png">Party Court.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Walther]]</li><!--
-  --><li style="">[[Henry Linser]]</li><!--
-  --><li style="">[[John Gross]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Henry Linser">Henry Linser</a></li><!--
+  --><li style=""><a class="internal-link" href="John Gross">John Gross</a></li><!--
   --><!--
   --><!--
   --><!--

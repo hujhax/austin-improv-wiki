@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Chris Kyle American Improvisers.jpg]]
+				!<a class="internal-link" href="Chris Kyle American Improvisers.jpg">Chris Kyle American Improvisers.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Christopher Levi]]</li><!--
-  --><li style="">[[Kyle Berthusen]]</li><!--
+  --><li style=""><a class="internal-link" href="Christopher Levi">Christopher Levi</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Berthusen">Kyle Berthusen</a></li><!--
   --><!--
   --><!--
   --><!--

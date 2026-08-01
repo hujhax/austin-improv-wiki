@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Darth Brooks.jpg]]
+				!<a class="internal-link" href="Darth Brooks.jpg">Darth Brooks.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Blom]]</li><!--
-  --><li style="">[[Christian Payne]]</li><!--
-  --><li style="">[[Dalton Allen]]</li><!--
-  --><li style="">[[James Fernandez]]</li><!--
-  --><li style="">[[Josephh Stahlman]]</li><!--
-  --><li style="">[[Ronnita Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Blom">Ashley Blom</a></li><!--
+  --><li style=""><a class="internal-link" href="Christian Payne">Christian Payne</a></li><!--
+  --><li style=""><a class="internal-link" href="Dalton Allen">Dalton Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="James Fernandez">James Fernandez</a></li><!--
+  --><li style=""><a class="internal-link" href="Josephh Stahlman">Josephh Stahlman</a></li><!--
+  --><li style=""><a class="internal-link" href="Ronnita Miller">Ronnita Miller</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[710 Split.jpg]]
+				!<a class="internal-link" href="710 Split.jpg">710 Split.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jeffrey Amos]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeffrey Amos">Jeffrey Amos</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--

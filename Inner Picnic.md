@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Innerpicnic.jpg]]
+				!<a class="internal-link" href="Innerpicnic.jpg">Innerpicnic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,16 +15,16 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Norman Tran]]</td>
+			<td class="category"><a class="internal-link" href="Norman Tran">Norman Tran</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Norman Tran]]</li><!--
-  --><li style="">[[Brian Bonnet]]</li><!--
-  --><li style="">[[Catherine Grady]]</li><!--
-  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style=""><a class="internal-link" href="Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian Bonnet">Brian Bonnet</a></li><!--
+  --><li style=""><a class="internal-link" href="Catherine Grady">Catherine Grady</a></li><!--
+  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Moonsault.jpg]]
+				!<a class="internal-link" href="Moonsault.jpg">Moonsault.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cody Cartagena]]</li><!--
-  --><li style="">[[Olivia Doud]]</li><!--
-  --><li style="">[[Stephanie Pace]]</li><!--
-  --><li style="">[[Terance McDavid]]</li><!--
+  --><li style=""><a class="internal-link" href="Cody Cartagena">Cody Cartagena</a></li><!--
+  --><li style=""><a class="internal-link" href="Olivia Doud">Olivia Doud</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Pace">Stephanie Pace</a></li><!--
+  --><li style=""><a class="internal-link" href="Terance McDavid">Terance McDavid</a></li><!--
   --><!--
   --><!--
   --><!--

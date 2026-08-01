@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Risen.jpg]]
+				!<a class="internal-link" href="Risen.jpg">Risen.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Sarah Marie Curry]]</td>
+			<td class="category"><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></td>
 		</tr>
 
 
@@ -28,16 +28,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Mengesha]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Clifton Highfield]]</li><!--
-  --><li style="">[[Heidi Penix]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Kierstin Hettler]]</li><!--
-  --><li style="">[[Leng Wong]]</li><!--
-  --><li style="" >[[Ryan Hill]]</li><!--
-  --><li style="">[[Trey Stoker]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Penix">Heidi Penix</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Kierstin Hettler">Kierstin Hettler</a></li><!--
+  --><li style=""><a class="internal-link" href="Leng Wong">Leng Wong</a></li><!--
+  --><li style="" ><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Trey Stoker">Trey Stoker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,9 +85,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan Curry]]</li><!--
-  --><li style="">[[Mark Shoemaker]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Mark Shoemaker">Mark Shoemaker</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
   --><!--
   --><!--
   --><!--

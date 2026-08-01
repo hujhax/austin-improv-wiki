@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Escorts 2014.jpg]]
+				!<a class="internal-link" href="The Escorts 2014.jpg">The Escorts 2014.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Lindsey Reeves]]</li><!--
-  --><li style="">[[Aaron Saenz]] (2014-Present)</li><!--
-  --><li style="">[[Shannon Dale Stott]] (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a> (2014-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Shannon Dale Stott">Shannon Dale Stott</a> (2015-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -72,9 +72,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Dobrenko]] (2011-2013)</li><!--
-  --><li style="">[[Marc Majcher]] (2011-2015)</li><!--
-  --><li style="">[[Ruby Willmann]] (2011-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a> (2011-2013)</li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a> (2011-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a> (2011-2015)</li><!--
   --><!--
   --><!--
   --><!--

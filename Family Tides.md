@@ -5,13 +5,13 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Family Tides.jpg]]
+				!<a class="internal-link" href="Family Tides.jpg">Family Tides.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
@@ -28,13 +28,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Franks]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Brad Temple]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Mac Blake]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Franks">Ashley Franks</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Temple">Brad Temple</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
   --><!--
   --><!--
   --><!--

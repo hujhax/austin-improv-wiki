@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Church Potluck.jpg]]
+				!<a class="internal-link" href="Church Potluck.jpg">Church Potluck.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Christine Giordano]]</li><!--
-  --><li style="">[[John Buseman]]</li><!--
-  --><li style="">[[Madeline Jo Chauvin]]</li><!--
-  --><li style="">[[Ryan Thomas]]</li><!--
-  --><li style="">[[Ted Meredith]]</li><!--
+  --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
+  --><li style=""><a class="internal-link" href="John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Thomas">Ryan Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Ted Meredith">Ted Meredith</a></li><!--
   --><!--
   --><!--
   --><!--

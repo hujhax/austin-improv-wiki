@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Adventure phd cast.jpg]]
+				!<a class="internal-link" href="Adventure phd cast.jpg">Adventure phd cast.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,16 +79,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chelsea Beth]]</li><!--
-  --><li style="">[[Chris Curl]]</li><!--
-  --><li style="">[[Danielle Saar]]</li><!--
-  --><li style="">[[Ellen Pizarek]]</li><!--
-  --><li style="">[[Erasmo Romero]]</li><!--
-  --><li style="">[[Josh Farmer]]</li><!--
-  --><li style="">[[Joy Parks]]</li><!--
-  --><li style="">[[Mary Henderson]]</li><!--
-  --><li style="" >[[Nicholas Marino]]</li><!--
-  --><li style="">[[Thedward Blevins]]</li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Curl">Chris Curl</a></li><!--
+  --><li style=""><a class="internal-link" href="Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Ellen Pizarek">Ellen Pizarek</a></li><!--
+  --><li style=""><a class="internal-link" href="Erasmo Romero">Erasmo Romero</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Farmer">Josh Farmer</a></li><!--
+  --><li style=""><a class="internal-link" href="Joy Parks">Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Mary Henderson">Mary Henderson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Nicholas Marino">Nicholas Marino</a></li><!--
+  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,10 +136,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jason Hoppenworth]]<br>(lights)</li><!--
-  --><li style="">[[Jay Mahavier]]<br>(technical director)</li><!--
-  --><li style="">[[Marc Jalandoon]]<br>(stage manager)</li><!--
-  --><li style="">[[Tyleah McGuire]]<br>(sound)</li><!--
+  --><li style=""><a class="internal-link" href="Jason Hoppenworth">Jason Hoppenworth</a><br>(lights)</li><!--
+  --><li style=""><a class="internal-link" href="Jay Mahavier">Jay Mahavier</a><br>(technical director)</li><!--
+  --><li style=""><a class="internal-link" href="Marc Jalandoon">Marc Jalandoon</a><br>(stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Tyleah McGuire">Tyleah McGuire</a><br>(sound)</li><!--
   --><!--
   --><!--
   --><!--

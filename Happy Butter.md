@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Happy Butter.jpg]]
+				!<a class="internal-link" href="Happy Butter.jpg">Happy Butter.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy O'Connor]]</li><!--
-  --><li style="">[[David Nayer]]</li><!--
-  --><li style="">[[Halyn Lee Erickson]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Menelaos Prokos]]</li><!--
-  --><li style="">[[Mike Nystul]]</li><!--
-  --><li style="">[[Nicole Beckley]]</li><!--
-  --><li style="">[[Thedward Blevins]]</li><!--
-  --><li style="" >[[Zac Grantham]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
+  --><li style=""><a class="internal-link" href="David Nayer">David Nayer</a></li><!--
+  --><li style=""><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Nystul">Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style="" ><a class="internal-link" href="Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Thinning the Herd.jpg]]
+				!<a class="internal-link" href="Thinning the Herd.jpg">Thinning the Herd.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Tyler Bryce]]</td>
+			<td class="category"><a class="internal-link" href="Tyler Bryce">Tyler Bryce</a></td>
 		</tr>
 
 
@@ -28,32 +28,32 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Averett]]</li><!--
-  --><li style="">[[Angela Maldonado]]</li><!--
-  --><li style="">[[Britain Spellings]]</li><!--
-  --><li style="">[[Caitlin Baumgartner]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Celena Diamond]]</li><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
-  --><li style="">[[Chuy Zarate]]</li><!--
-  --><li style="" >[[Cortney DeAngelo]]</li><!--
-  --><li style="">[[Dave Buckman]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Heidi Caldwell]]</li><!--
-  --><li style="">[[Jaime Gonzales]]</li><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Jen Dorsey]]</li><!--
-  --><li style="">[[Jeremy Sweetlamb]]</li><!--
-  --><li style="">[[Jesse Pangelinan]]</li><!--
-  --><li style="">[[Jim Doggett]]</li><!--
-  --><li style="">[[Les McGehee]]</li><!--
-  --><li style="">[[Mark Shoemaker]]</li><!--
-  --><li style="">[[Monica Ybarra-Torres]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Sandra Ybarra]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
-  --><li style="">[[Tyler Bryce]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Angela Maldonado">Angela Maldonado</a></li><!--
+  --><li style=""><a class="internal-link" href="Britain Spellings">Britain Spellings</a></li><!--
+  --><li style=""><a class="internal-link" href="Caitlin Baumgartner">Caitlin Baumgartner</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Celena Diamond">Celena Diamond</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style="" ><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Jaime Gonzales">Jaime Gonzales</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Dorsey">Jen Dorsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Pangelinan">Jesse Pangelinan</a></li><!--
+  --><li style=""><a class="internal-link" href="Jim Doggett">Jim Doggett</a></li><!--
+  --><li style=""><a class="internal-link" href="Les McGehee">Les McGehee</a></li><!--
+  --><li style=""><a class="internal-link" href="Mark Shoemaker">Mark Shoemaker</a></li><!--
+  --><li style=""><a class="internal-link" href="Monica Ybarra-Torres">Monica Ybarra-Torres</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--

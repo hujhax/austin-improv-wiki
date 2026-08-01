@@ -5,29 +5,29 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg]]
+				!<a class="internal-link" href="The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg">The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jon Bolden]]</td>
+			<td class="category"><a class="internal-link" href="Jon Bolden">Jon Bolden</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Jessica von Schramm]]</td>
+			<td class="category"><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Sarah Hutchins]]</td>
+			<td class="category"><a class="internal-link" href="Sarah Hutchins">Sarah Hutchins</a></td>
 		</tr>
 
 
@@ -38,16 +38,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ali Meier]]</li><!--
-  --><li style="">[[Chris Villafano]]</li><!--
-  --><li style="">[[Cristy Salinas]]</li><!--
-  --><li style="">[[Elizabeth Bradshaw]]</li><!--
-  --><li style="">[[Michelle Dahlenburg]]</li><!--
-  --><li style="">[[Neil Dorsey]]</li><!--
-  --><li style="">[[Raymond Gutierrez]]</li><!--
-  --><li style="">[[Sushant Sethi]]</li><!--
-  --><li style="" >[[Zac Carr]]</li><!--
-  --><li style="">[[Sue Jordan]]</li><!--
+  --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Villafano">Chris Villafano</a></li><!--
+  --><li style=""><a class="internal-link" href="Cristy Salinas">Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Bradshaw">Elizabeth Bradshaw</a></li><!--
+  --><li style=""><a class="internal-link" href="Michelle Dahlenburg">Michelle Dahlenburg</a></li><!--
+  --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Raymond Gutierrez">Raymond Gutierrez</a></li><!--
+  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style="" ><a class="internal-link" href="Zac Carr">Zac Carr</a></li><!--
+  --><li style=""><a class="internal-link" href="Sue Jordan">Sue Jordan</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -95,8 +95,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Greg Blank]] (scoring, from-the-booth effects)</li><!--
-  --><li style="">[[Lahari Samineni]] (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Greg Blank">Greg Blank</a> (scoring, from-the-booth effects)</li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a> (stage manager)</li><!--
   --><!--
   --><!--
   --><!--

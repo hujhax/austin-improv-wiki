@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Band Name.jpg]]
+				!<a class="internal-link" href="Band Name.jpg">Band Name.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Caerial Crestin]]</li><!--
-  --><li style="">[[Joe Ricks]]</li><!--
-  --><li style="">[[Marcus Hysmith]]</li><!--
-  --><li style="">[[Todd Hart]]</li><!--
+  --><li style=""><a class="internal-link" href="Caerial Crestin">Caerial Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Joe Ricks">Joe Ricks</a></li><!--
+  --><li style=""><a class="internal-link" href="Marcus Hysmith">Marcus Hysmith</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

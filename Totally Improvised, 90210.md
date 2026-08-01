@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[90210.jpg]]
+				!<a class="internal-link" href="90210.jpg">90210.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Lauren Buck]]</td>
+			<td class="category"><a class="internal-link" href="Lauren Buck">Lauren Buck</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Peter Rogers]]</td>
+			<td class="category"><a class="internal-link" href="Peter Rogers">Peter Rogers</a></td>
 		</tr>
 
 
@@ -31,31 +31,31 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Vinh Ngo]]</td>
+			<td class="category"><a class="internal-link" href="Vinh Ngo">Vinh Ngo</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Averett]]</li><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[Colin Thomas Bates]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Jesse Overright]]</li><!--
-  --><li style="">[[Katie Thornton]]</li><!--
-  --><li style="">[[Kevin Miller]]</li><!--
-  --><li style="">[[Kimberly Cox]]</li><!--
-  --><li style="" >[[Lauren Buck]]</li><!--
-  --><li style="">[[Mark Carpenter]]</li><!--
-  --><li style="">[[Michael Thomas]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Colin Thomas Bates">Colin Thomas Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Kimberly Cox">Kimberly Cox</a></li><!--
+  --><li style="" ><a class="internal-link" href="Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Mark Carpenter">Mark Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -100,8 +100,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Anne Wolfe Andersen]]</li><!--
-  --><li style="">[[Jen Kaplan]]</li><!--
+  --><li style=""><a class="internal-link" href="Anne Wolfe Andersen">Anne Wolfe Andersen</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Kaplan">Jen Kaplan</a></li><!--
   --><!--
   --><!--
   --><!--

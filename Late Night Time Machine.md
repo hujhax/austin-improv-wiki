@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Late Night Time Machine Poster.jpg]]
+				!<a class="internal-link" href="Late Night Time Machine Poster.jpg">Late Night Time Machine Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Clifton Highfield]] (season 1)</li><!--
-  --><li style="">[[Mason Pitluk]] (season 2)</li><!--
+  --><li style=""><a class="internal-link" href="Clifton Highfield">Clifton Highfield</a> (season 1)</li><!--
+  --><li style=""><a class="internal-link" href="Mason Pitluk">Mason Pitluk</a> (season 2)</li><!--
   --><!--
   --><!--
   --><!--
@@ -79,11 +79,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[James C. Leary]]</li><!--
-  --><li style="">[[Sydney Huddleston]]</li><!--
-  --><li style="">[[Mike Carreon]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Alex Ayala]]</li><!--
+  --><li style=""><a class="internal-link" href="James C. Leary">James C. Leary</a></li><!--
+  --><li style=""><a class="internal-link" href="Sydney Huddleston">Sydney Huddleston</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Carreon">Mike Carreon</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Ayala">Alex Ayala</a></li><!--
   --><li style="">various guests</li><!--
   --><!--
   --><!--

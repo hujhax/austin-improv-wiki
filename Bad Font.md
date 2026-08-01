@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[BadFont Hideout.jpg]]
+				!<a class="internal-link" href="BadFont Hideout.jpg">BadFont Hideout.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Ayala]]</li><!--
-  --><li style="">[[Kelly Campbell]]</li><!--
-  --><li style="">[[Rachel Denton]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Scott Hearne]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Griffin May]]</li><!--
-  --><li style="">[[Johnny Sullivan]]</li><!--
-  --><li style="" >[[Megan Venable]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Denton">Rachel Denton</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Hearne">Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Griffin May">Griffin May</a></li><!--
+  --><li style=""><a class="internal-link" href="Johnny Sullivan">Johnny Sullivan</a></li><!--
+  --><li style="" ><a class="internal-link" href="Megan Venable">Megan Venable</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,16 +72,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Justin Davidson]]</li><!--
-  --><li style="">[[Carlos LaRotta]]</li><!--
-  --><li style="">[[Christina Parrish]]</li><!--
-  --><li style="">[[Ron Morelli]]</li><!--
-  --><li style="">[[Kristen Kurtis]]</li><!--
-  --><li style="">[[Cene Hale]]</li><!--
-  --><li style="">[[Alexander Hilary]]</li><!--
-  --><li style="">[[Megan Mowry]]</li><!--
-  --><li style="" >[[Theo Daley]]</li><!--
-  --><li style="">[[Jessie Pascarelli]]</li><!--
+  --><li style=""><a class="internal-link" href="Justin Davidson">Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Carlos LaRotta">Carlos LaRotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Christina Parrish">Christina Parrish</a></li><!--
+  --><li style=""><a class="internal-link" href="Ron Morelli">Ron Morelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristen Kurtis">Kristen Kurtis</a></li><!--
+  --><li style=""><a class="internal-link" href="Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Mowry">Megan Mowry</a></li><!--
+  --><li style="" ><a class="internal-link" href="Theo Daley">Theo Daley</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessie Pascarelli">Jessie Pascarelli</a></li><!--
   --><!--
   --><!--
   --><!--

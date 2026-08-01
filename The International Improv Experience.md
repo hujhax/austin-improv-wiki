@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The International Improv Experience.jpg]]
+				!<a class="internal-link" href="The International Improv Experience.jpg">The International Improv Experience.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Roy Janik]]</td>
+			<td class="category"><a class="internal-link" href="Roy Janik">Roy Janik</a></td>
 		</tr>
 
 
@@ -28,18 +28,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Saenz]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="" >[[Ruby Willmann]]</li><!--
-  --><li style="">[[Ryan Austin]]</li><!--
-  --><li style="">[[Shannon Dale Stott]]</li><!--
-  --><li style="">[[Zac Grantham]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon Dale Stott">Shannon Dale Stott</a></li><!--
+  --><li style=""><a class="internal-link" href="Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,9 +85,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lindsey McGowen]]</li><!--
-  --><li style="">[[Michael Yew]]</li><!--
-  --><li style="">[[Cindy Page]]</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
   --><!--
   --><!--
   --><!--

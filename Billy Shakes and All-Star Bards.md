@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alejandro Garcia]]</li><!--
-  --><li style="">[[Eli Edison]]</li><!--
-  --><li style="">[[Amy Wright]]</li><!--
-  --><li style="">[[Kasey Borger]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Ian Townsend]]</li><!--
-  --><li style="">[[KC Harvey-Taylor]]</li><!--
-  --><li style="">[[Matt Needles]]</li><!--
+  --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Eli Edison">Eli Edison</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
+  --><li style=""><a class="internal-link" href="Kasey Borger">Kasey Borger</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Lord Dennis.jpg]]
+				!<a class="internal-link" href="Lord Dennis.jpg">Lord Dennis.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Lacy Cox]]</li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
   --><!--
   --><!--
   --><!--

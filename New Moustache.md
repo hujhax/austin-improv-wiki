@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adan Gutierrez]]</li><!--
-  --><li style="">[[Christine Giordano]]</li><!--
-  --><li style="">[[Drew Burton]]</li><!--
-  --><li style="">[[Sara Osburn]]</li><!--
+  --><li style=""><a class="internal-link" href="Adan Gutierrez">Adan Gutierrez</a></li><!--
+  --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Burton">Drew Burton</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Osburn">Sara Osburn</a></li><!--
   --><!--
   --><!--
   --><!--

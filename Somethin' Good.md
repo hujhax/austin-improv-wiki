@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Balinsky]]</li><!--
-  --><li style="">[[Courtney Sevener]]</li><!--
-  --><li style="">[[Elizabeth Osterwisch]]</li><!--
-  --><li style="">[[Gil Cardenas]]</li><!--
-  --><li style="">[[Mary Ann Forester]]</li><!--
-  --><li style="">[[Mike Reikofski]]</li><!--
-  --><li style="">[[Paul Christian]]</li><!--
-  --><li style="">[[Tre Fuentes]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Balinsky">Andy Balinsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Osterwisch">Elizabeth Osterwisch</a></li><!--
+  --><li style=""><a class="internal-link" href="Gil Cardenas">Gil Cardenas</a></li><!--
+  --><li style=""><a class="internal-link" href="Mary Ann Forester">Mary Ann Forester</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Reikofski">Mike Reikofski</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Christian">Paul Christian</a></li><!--
+  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
   --><!--
   --><!--
   --><!--

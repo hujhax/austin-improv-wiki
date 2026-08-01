@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[A Deed So Dark.jpg]]
+				!<a class="internal-link" href="A Deed So Dark.jpg">A Deed So Dark.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Valerie Ward]]</td>
+			<td class="category"><a class="internal-link" href="Valerie Ward">Valerie Ward</a></td>
 		</tr>
 
 
@@ -25,7 +25,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
-			<td class="category">[[Ammon Taylor]]</td>
+			<td class="category"><a class="internal-link" href="Ammon Taylor">Ammon Taylor</a></td>
 		</tr>
 
 
@@ -33,8 +33,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lindsey Verrill]]</li><!--
-  --><li style="">[[Tosin Awofeso]]</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey Verrill">Lindsey Verrill</a></li><!--
+  --><li style=""><a class="internal-link" href="Tosin Awofeso">Tosin Awofeso</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -89,14 +89,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Erin Molson]]</li><!--
-  --><li style="">[[Sarah Doering]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[J. R. Zambrano]]</li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Doering">Sarah Doering</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="J. R. Zambrano">J. R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -146,9 +146,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Robert Slack]] (stage manager)</li><!--
-  --><li style="">[[Cindy Page]] (lights)</li><!--
-  --><li style="">[[Rachel Posey Austin]] (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Robert Slack">Robert Slack</a> (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a> (sound)</li><!--
   --><!--
   --><!--
   --><!--

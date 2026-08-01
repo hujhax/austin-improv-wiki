@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Cops & Lawyers Pic.jpg]]
+				!<a class="internal-link" href="Cops & Lawyers Pic.jpg">Cops & Lawyers Pic.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,17 +79,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Christina Bain]]</li><!--
-  --><li style="">[[Christopher Orf]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Jay Michael]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="" >[[Sean Cooper]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
-  --><li style="">[[Wesley Bain]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Christina Bain">Christina Bain</a></li><!--
+  --><li style=""><a class="internal-link" href="Christopher Orf">Christopher Orf</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sean Cooper">Sean Cooper</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Wesley Bain">Wesley Bain</a></li><!--
   --><!--
   --><!--
   --><!--

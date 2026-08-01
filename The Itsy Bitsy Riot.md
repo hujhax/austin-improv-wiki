@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Matthew Derman]]</li><!--
-  --><li style="">[[Patricia Tate]]</li><!--
-  --><li style="">[[Sam Malcolm]]</li><!--
-  --><li style="">[[Sam Van Metre]]</li><!--
+  --><li style=""><a class="internal-link" href="Matthew Derman">Matthew Derman</a></li><!--
+  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
   --><!--
   --><!--
   --><!--

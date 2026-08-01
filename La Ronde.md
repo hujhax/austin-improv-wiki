@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Baia]]</li><!--
-  --><li style="">[[Chris Baldenhofer]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Josh Krilov]]</li><!--
-  --><li style="">[[Justin York]]</li><!--
-  --><li style="">[[Leah Moss]]</li><!--
-  --><li style="">[[Mike Faerber]]</li><!--
-  --><li style="" >[[Nathan Livni]]</li><!--
-  --><li style="">[[Tej Ludher]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Faerber">Mike Faerber</a></li><!--
+  --><li style="" ><a class="internal-link" href="Nathan Livni">Nathan Livni</a></li><!--
+  --><li style=""><a class="internal-link" href="Tej Ludher">Tej Ludher</a></li><!--
   --><!--
   --><!--
   --><!--

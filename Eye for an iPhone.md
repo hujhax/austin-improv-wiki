@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Eye for an iPhone.jpg]]
+				!<a class="internal-link" href="Eye for an iPhone.jpg">Eye for an iPhone.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Dave Buckman]]</td>
+			<td class="category"><a class="internal-link" href="Dave Buckman">Dave Buckman</a></td>
 		</tr>
 
 
@@ -28,12 +28,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alison Alvarez]]</li><!--
-  --><li style="">[[Andy Petruzzo]]</li><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Joshua Krilov]]</li><!--
-  --><li style="">[[Justin York]]</li><!--
-  --><li style="">[[Liz Brammer]]</li><!--
+  --><li style=""><a class="internal-link" href="Alison Alvarez">Alison Alvarez</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Petruzzo">Andy Petruzzo</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
   --><!--
   --><!--
   --><!--

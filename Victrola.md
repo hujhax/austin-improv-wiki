@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Victrola.jpg]]
+				!<a class="internal-link" href="Victrola.jpg">Victrola.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Michael Jastroch]]</td>
+			<td class="category"><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></td>
 		</tr>
 
 
@@ -28,16 +28,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Curtis Luciani]]</li><!--
-  --><li style="">[[David Hess]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[Josh Krilov]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="" >[[Melanie DeMartinis]]</li><!--
-  --><li style="">[[Nick Ramirez]]</li><!--
+  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style="" ><a class="internal-link" href="Melanie DeMartinis">Melanie DeMartinis</a></li><!--
+  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
   --><!--
   --><!--

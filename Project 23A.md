@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Show Default Image.jpg]]
+				!<a class="internal-link" href="Show Default Image.jpg">Show Default Image.jpg</a>
 			</td>
 		</tr>
 
@@ -23,11 +23,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Heath Allyn]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Josephine McAdam]]</li><!--
-  --><li style="">[[Kevin Machate]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Josephine McAdam">Josephine McAdam</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--

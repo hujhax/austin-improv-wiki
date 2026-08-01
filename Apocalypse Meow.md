@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Apocalypse Meow.jpg]]
+				!<a class="internal-link" href="Apocalypse Meow.jpg">Apocalypse Meow.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
-  --><li style="">[[Kim Roche]]</li><!--
-  --><li style="">[[Neal Trebewla]]</li><!--
-  --><li style="">[[Sandra Ybarra]]</li><!--
-  --><li style="">[[Todd Hart]]</li><!--
-  --><li style="">[[Zach Leos]]</li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Kim Roche">Kim Roche</a></li><!--
+  --><li style=""><a class="internal-link" href="Neal Trebewla">Neal Trebewla</a></li><!--
+  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Zach Leos">Zach Leos</a></li><!--
   --><!--
   --><!--
   --><!--

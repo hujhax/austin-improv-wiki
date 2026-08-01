@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Secret Senate.jpg]]
+				!<a class="internal-link" href="Secret Senate.jpg">Secret Senate.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,22 +15,22 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Brent Foshee]]</td>
+			<td class="category"><a class="internal-link" href="Brent Foshee">Brent Foshee</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Chaz Formichella]]</li><!--
-  --><li style="">[[Danny Catlow]]</li><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Jessica Hamilton]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
-  --><li style="">[[Patricia Tate]]</li><!--
-  --><li style="">[[Rick Heineman]]</li><!--
-  --><li style="" >[[Steve Donovan]]</li><!--
-  --><li style="">[[Vickie Sokol Evans]]</li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
+  --><li style=""><a class="internal-link" href="Rick Heineman">Rick Heineman</a></li><!--
+  --><li style="" ><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
+  --><li style=""><a class="internal-link" href="Vickie Sokol Evans">Vickie Sokol Evans</a></li><!--
   --><!--
   --><!--
   --><!--

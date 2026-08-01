@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Conner Strickland]]</li><!--
-  --><li style="">[[Kitton Clark]]</li><!--
-  --><li style="">[[Matthew Owens]]</li><!--
+  --><li style=""><a class="internal-link" href="Conner Strickland">Conner Strickland</a></li><!--
+  --><li style=""><a class="internal-link" href="Kitton Clark">Kitton Clark</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Owens">Matthew Owens</a></li><!--
   --><!--
   --><!--
   --><!--

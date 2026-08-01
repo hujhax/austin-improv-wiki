@@ -5,14 +5,14 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Britney Salyer Pic.jpg]]
+				!<a class="internal-link" href="Britney Salyer Pic.jpg">Britney Salyer Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[The Institution Theater]]</li><!--
-  --><li style="">[[Salvage Vanguard Theater]]</li><!--
+  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
   --><!--
   --><!--
   --><!--

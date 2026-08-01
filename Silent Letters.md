@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Benjamin Bazan]]</li><!--
-  --><li style="">[[Chrissy Shackelford]]</li><!--
-  --><li style="">[[Jake Millward]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style=""><a class="internal-link" href="Benjamin Bazan">Benjamin Bazan</a></li><!--
+  --><li style=""><a class="internal-link" href="Chrissy Shackelford">Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Tarantina Turner.jpg]]
+				!<a class="internal-link" href="Tarantina Turner.jpg">Tarantina Turner.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brent Foshee]]</li><!--
-  --><li style="">[[Brian Engravalle]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Sandra Markarian]]</li><!--
-  --><li style="">[[Teresa Kubos]]</li><!--
+  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Sandra Markarian">Sandra Markarian</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
   --><!--
   --><!--
   --><!--

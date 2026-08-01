@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Fd-promo.jpg]]
+				!<a class="internal-link" href="Fd-promo.jpg">Fd-promo.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Christopher 'Ceej' Allen]]</li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Christopher 'Ceej' Allen">Christopher 'Ceej' Allen</a></li><!--
   --><!--
   --><!--
   --><!--

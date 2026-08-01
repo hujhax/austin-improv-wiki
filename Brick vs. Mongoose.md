@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Brick vs. Mongoose.jpg]]
+				!<a class="internal-link" href="Brick vs. Mongoose.jpg">Brick vs. Mongoose.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron McDavis]]</li><!--
-  --><li style="">[[Alexander Julian Verner]]</li><!--
-  --><li style="">[[Ian Downing-Beaver]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron McDavis">Aaron McDavis</a></li><!--
+  --><li style=""><a class="internal-link" href="Alexander Julian Verner">Alexander Julian Verner</a></li><!--
+  --><li style=""><a class="internal-link" href="Ian Downing-Beaver">Ian Downing-Beaver</a></li><!--
   --><!--
   --><!--
   --><!--

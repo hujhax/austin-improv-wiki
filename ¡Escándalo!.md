@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Escandalo.jpg]]
+				!<a class="internal-link" href="Escandalo.jpg">Escandalo.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jessica von Schramm]]</td>
+			<td class="category"><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Luke Wallens]]</td>
+			<td class="category"><a class="internal-link" href="Luke Wallens">Luke Wallens</a></td>
 		</tr>
 
 
@@ -29,7 +29,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category">[[Angelina Martin]]</td>
+			<td class="category"><a class="internal-link" href="Angelina Martin">Angelina Martin</a></td>
 		</tr>
 
 
@@ -38,16 +38,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Rubin]]</li><!--
-  --><li style="">[[Alonso Salas]]</li><!--
-  --><li style="">[[Andy Gonzalez-Bendiksen]]</li><!--
-  --><li style="">[[Cindy Brio]]</li><!--
-  --><li style="">[[Claudio Fox]]</li><!--
-  --><li style="">[[Cristy Salinas]]</li><!--
-  --><li style="">[[Esperanza Rivadeneira]]</li><!--
-  --><li style="">[[Gabriela Vargas]]</li><!--
-  --><li style="" >[[Karlie Lemos]]</li><!--
-  --><li style="">[[Laura Galán Wells]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
+  --><li style=""><a class="internal-link" href="Alonso Salas">Alonso Salas</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Gonzalez-Bendiksen">Andy Gonzalez-Bendiksen</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Brio">Cindy Brio</a></li><!--
+  --><li style=""><a class="internal-link" href="Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Cristy Salinas">Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Esperanza Rivadeneira">Esperanza Rivadeneira</a></li><!--
+  --><li style=""><a class="internal-link" href="Gabriela Vargas">Gabriela Vargas</a></li><!--
+  --><li style="" ><a class="internal-link" href="Karlie Lemos">Karlie Lemos</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Galán Wells">Laura Galán Wells</a></li><!--
   --><!--
   --><!--
   --><!--

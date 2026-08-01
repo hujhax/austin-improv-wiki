@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Nicholas]]</li><!--
-  --><li style="">[[Content Knowles]]</li><!--
-  --><li style="">[[Ed Collins]]</li><!--
-  --><li style="">[[Justin Strackany]]</li><!--
-  --><li style="">[[Ron Morelli]]</li><!--
-  --><li style="">[[Stuart Feild]]</li><!--
+  --><li style=""><a class="internal-link" href="Chris Nicholas">Chris Nicholas</a></li><!--
+  --><li style=""><a class="internal-link" href="Content Knowles">Content Knowles</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Collins">Ed Collins</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Strackany">Justin Strackany</a></li><!--
+  --><li style=""><a class="internal-link" href="Ron Morelli">Ron Morelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Stuart Feild">Stuart Feild</a></li><!--
   --><!--
   --><!--
   --><!--

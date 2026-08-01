@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Kevin Miller.jpg]]
+				!<a class="internal-link" href="Kevin Miller.jpg">Kevin Miller.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[Gnap! Theater Projects]], [[Merlin Works Institute for Improvisation]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a>, <a class="internal-link" href="Merlin Works Institute for Improvisation">Merlin Works Institute for Improvisation</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

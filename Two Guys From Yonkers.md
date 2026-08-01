@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Two Guys Pic.jpg]]
+				!<a class="internal-link" href="Two Guys Pic.jpg">Two Guys Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Bobby Ford]]</li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Bobby Ford">Bobby Ford</a></li><!--
   --><!--
   --><!--
   --><!--

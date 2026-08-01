@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Process Publicity Image.jpg]]
+				!<a class="internal-link" href="Process Publicity Image.jpg">Process Publicity Image.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jeremy Sweetlamb]]</td>
+			<td class="category"><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></td>
 		</tr>
 
 
@@ -29,37 +29,37 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">2012 Run</li><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Alex Dobrenko]]</li><!--
-  --><li style="">[[Caitlin Sweetlamb]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Halyn Lee Erickson]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Jeremy Sweetlamb]]</li><!--
-  --><li style="" >[[John Ratliff]]</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style="" ><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
   --><li style="">.</li><!--
   --><li style="">2016 Run</li><!--
-  --><li style="">[[Aaron Saenz]]</li><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Curtis Luciani]]</li><!--
-  --><li style="">[[Haley Alea Erickson]]</li><!--
-  --><li style="">[[J.R. Zambrano]]</li><!--
-  --><li style="">[[Jeremy Sweetlamb]]</li><!--
-  --><li style="">[[Kaci Danger]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Rachel Posey Austin]]</li><!--
-  --><li style="">[[Rob Yoho]]</li><!--
-  --><li style="">[[Rosemarie Frezza]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Rob Yoho">Rob Yoho</a></li><!--
+  --><li style=""><a class="internal-link" href="Rosemarie Frezza">Rosemarie Frezza</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -86,24 +86,24 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">2012 Run</li><!--
-  --><li style="">[[Carl Ziegler]]</li><!--
-  --><li style="">[[Michael Yew]]</li><!--
+  --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
   --><li style="">.</li><!--
   --><li style="">2016 Run</li><!--
-  --><li style="">[[Audrey Rachel Sansom]] (Costumes/Set Asst)</li><!--
-  --><li style="">[[Bonnie Dilber]] (Lights/Run Crew)</li><!--
-  --><li style="">[[Brad Hawkins]] (Lights/Audio/Run Crew)</li><!--
-  --><li style="" >[[Carolyn Gjertsen]] (Lights/Costume Asst)</li><!--
-  --><li style="">[[Cindy Page]] (Costuming Lead)</li><!--
-  --><li style="">[[Ellen Pizarek]] (Costumes/Run Crew)</li><!--
-  --><li style="">[[Jenn Hamm]] (Run Crew)</li><!--
-  --><li style="">[[Jessica von Schramm]] (Stage Manager)</li><!--
-  --><li style="">[[Lindsey McGowen]] (Technical Director)</li><!--
-  --><li style="">[[Michael Yew]] (Audio Lead)</li><!--
-  --><li style="">[[Nichole Bennett]] (Lights/Run Crew)</li><!--
-  --><li style="">[[Nicole Oglesby]] (Set Asst)</li><!--
-  --><li style="">[[Sandra Ybarra]] (Assistant Stage Manager)</li><!--
-  --><li style="">[[Stuart m feild]] (Set Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a> (Costumes/Set Asst)</li><!--
+  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a> (Lights/Run Crew)</li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a> (Lights/Audio/Run Crew)</li><!--
+  --><li style="" ><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a> (Lights/Costume Asst)</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a> (Costuming Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Ellen Pizarek">Ellen Pizarek</a> (Costumes/Run Crew)</li><!--
+  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a> (Run Crew)</li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a> (Stage Manager)</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (Technical Director)</li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (Audio Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Nichole Bennett">Nichole Bennett</a> (Lights/Run Crew)</li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oglesby">Nicole Oglesby</a> (Set Asst)</li><!--
+  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a> (Assistant Stage Manager)</li><!--
+  --><li style=""><a class="internal-link" href="Stuart m feild">Stuart m feild</a> (Set Lead)</li><!--
   --><!--
   --><!--
   --><!--

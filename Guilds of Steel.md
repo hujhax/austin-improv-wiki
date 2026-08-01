@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Guilds of Steel Pic.jpg]]
+				!<a class="internal-link" href="Guilds of Steel Pic.jpg">Guilds of Steel Pic.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan Roberts]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,26 +84,26 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[Bryan Roberts]]</li><!--
-  --><li style="">[[Chelsea Gilman]]</li><!--
-  --><li style="">[[Clay Towrey]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="" >[[Jon Clinkenbeard]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
-  --><li style="">[[Leah Moss]]</li><!--
-  --><li style="">[[Liz Bigger]]</li><!--
-  --><li style="">[[Madi Goff]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Mike Kinald]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
-  --><li style="">[[Zach Palmer]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Clay Towrey">Clay Towrey</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Bigger">Liz Bigger</a></li><!--
+  --><li style=""><a class="internal-link" href="Madi Goff">Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Kinald">Mike Kinald</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Zach Palmer">Zach Palmer</a></li><!--
   --><!--
   --><!--
   --><!--

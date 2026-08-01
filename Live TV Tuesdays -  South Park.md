@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - South Park.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - South Park.jpg">Live TV Tuesdays - South Park.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Brett Tribe]]</td>
+			<td class="category"><a class="internal-link" href="Brett Tribe">Brett Tribe</a></td>
 		</tr>
 
 
@@ -28,19 +28,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amber Shae]]</li><!--
-  --><li style="">[[Carissa McAtee]]</li><!--
-  --><li style="">[[Christine Gwillam]]</li><!--
-  --><li style="">[[Clinton Harris]]</li><!--
-  --><li style="">[[Danine Lareu]]</li><!--
-  --><li style="">[[Erik Chase]]</li><!--
-  --><li style="">[[Guy Vizard]]</li><!--
-  --><li style="">[[Jacob Bertrand]]</li><!--
-  --><li style="" >[[Jeremy Logan]]</li><!--
-  --><li style="">[[Joel Ausanka Reese]]</li><!--
-  --><li style="">[[Michael Pedicano]]</li><!--
-  --><li style="">[[Mike Nystul]]</li><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
+  --><li style=""><a class="internal-link" href="Amber Shae">Amber Shae</a></li><!--
+  --><li style=""><a class="internal-link" href="Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Christine Gwillam">Christine Gwillam</a></li><!--
+  --><li style=""><a class="internal-link" href="Clinton Harris">Clinton Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Danine Lareu">Danine Lareu</a></li><!--
+  --><li style=""><a class="internal-link" href="Erik Chase">Erik Chase</a></li><!--
+  --><li style=""><a class="internal-link" href="Guy Vizard">Guy Vizard</a></li><!--
+  --><li style=""><a class="internal-link" href="Jacob Bertrand">Jacob Bertrand</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jeremy Logan">Jeremy Logan</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Ausanka Reese">Joel Ausanka Reese</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Pedicano">Michael Pedicano</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Nystul">Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--

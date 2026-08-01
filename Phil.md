@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Phil.jpg]]
+				!<a class="internal-link" href="Phil.jpg">Phil.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jason Heffron]]</li><!--
-  --><li style="">[[Keegan Hines]]</li><!--
-  --><li style="">[[Tim Lewis]]</li><!--
-  --><li style="">[[Tyler Pratt]]</li><!--
+  --><li style=""><a class="internal-link" href="Jason Heffron">Jason Heffron</a></li><!--
+  --><li style=""><a class="internal-link" href="Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Tim Lewis">Tim Lewis</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Pratt">Tyler Pratt</a></li><!--
   --><!--
   --><!--
   --><!--

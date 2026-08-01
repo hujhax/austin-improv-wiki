@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[MMSquare.png]]
+				!<a class="internal-link" href="MMSquare.png">MMSquare.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Moses Fruchter]]</li><!--
-  --><li style="">[[Juese Cutler]]</li><!--
-  --><li style="">[[Kenny Madison]]</li><!--
-  --><li style="">[[Amanda Smith]]</li><!--
+  --><li style=""><a class="internal-link" href="David Moses Fruchter">David Moses Fruchter</a></li><!--
+  --><li style=""><a class="internal-link" href="Juese Cutler">Juese Cutler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Amanda Smith">Amanda Smith</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Foreign legion.jpg]]
+				!<a class="internal-link" href="Foreign legion.jpg">Foreign legion.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Leng Wong]]</li><!--
-  --><li style="">[[Menelaos Prokos]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Abbas Amirabadi]]</li><!--
-  --><li style="">[[Alex Dobrenko]]</li><!--
-  --><li style="">[[Gene Zhou]]</li><!--
+  --><li style=""><a class="internal-link" href="Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Abbas Amirabadi">Abbas Amirabadi</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
   --><!--
   --><!--
   --><!--

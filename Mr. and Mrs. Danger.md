@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Mr. and Mrs. Danger.jpg]]
+				!<a class="internal-link" href="Mr. and Mrs. Danger.jpg">Mr. and Mrs. Danger.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--

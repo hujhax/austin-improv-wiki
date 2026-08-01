@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Addison Billingsley]]</li><!--
-  --><li style="">[[Danny Catlow]]</li><!--
-  --><li style="">[[Jack Jeahy]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Max Lipchitz]]</li><!--
+  --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
+  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style=""><a class="internal-link" href="Jack Jeahy">Jack Jeahy</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Max Lipchitz">Max Lipchitz</a></li><!--
   --><!--
   --><!--
   --><!--

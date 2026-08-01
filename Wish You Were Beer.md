@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Wish You Were Beer.jpg]]
+				!<a class="internal-link" href="Wish You Were Beer.jpg">Wish You Were Beer.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Matt Giles]]</li><!--
-  --><li style="">[[Regina Soto]]</li><!--
-  --><li style="">[[Steve Glazer]]</li><!--
+  --><li style=""><a class="internal-link" href="Matt Giles">Matt Giles</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Glazer">Steve Glazer</a></li><!--
   --><!--
   --><!--
   --><!--

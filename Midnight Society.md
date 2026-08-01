@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Midnight Society.jpg]]
+				!<a class="internal-link" href="Midnight Society.jpg">Midnight Society.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Addison Billingsley]]</li><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[Joel Keith]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Michael Williams]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
+  --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Keith">Joel Keith</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
   --><!--
   --><!--
   --><!--

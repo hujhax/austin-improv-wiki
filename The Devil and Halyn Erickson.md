@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Devil and Halyn Erickson.jpg]]
+				!<a class="internal-link" href="The Devil and Halyn Erickson.jpg">The Devil and Halyn Erickson.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,7 +15,7 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
-			<td class="category">[[Halyn Lee Erickson]]</td>
+			<td class="category"><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></td>
 		</tr>
 
 

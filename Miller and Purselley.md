@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Miller and Purselley.jpg]]
+				!<a class="internal-link" href="Miller and Purselley.jpg">Miller and Purselley.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Nat Miller]]</li><!--
-  --><li style="">[[Pierce Purselley]]</li><!--
+  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Pierce Purselley">Pierce Purselley</a></li><!--
   --><!--
   --><!--
   --><!--

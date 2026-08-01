@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Danger.jpg]]
+				!<a class="internal-link" href="Danger.jpg">Danger.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Amy Dietze]]</td>
+			<td class="category"><a class="internal-link" href="Amy Dietze">Amy Dietze</a></td>
 		</tr>
 
 
@@ -28,18 +28,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Carpenter]]</li><!--
-  --><li style="">[[Ashley Lowe]]</li><!--
-  --><li style="">[[Carla Goodman]]</li><!--
-  --><li style="">[[Clifton Highfield]]</li><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Lindsey Reeves]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="" >[[Madeline Chauvin]]</li><!--
-  --><li style="">[[Michael Pedicano]]</li><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
-  --><li style="">[[Regina Soto]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
+  --><li style=""><a class="internal-link" href="Carla Goodman">Carla Goodman</a></li><!--
+  --><li style=""><a class="internal-link" href="Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style="" ><a class="internal-link" href="Madeline Chauvin">Madeline Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Pedicano">Michael Pedicano</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Reform School for Wayward Girls.jpg]]
+				!<a class="internal-link" href="Reform School for Wayward Girls.jpg">Reform School for Wayward Girls.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Kaci Beeler]]</td>
+			<td class="category"><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 
 
@@ -28,20 +28,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adrienne Brown]]</li><!--
-  --><li style="">[[Ash Nunley]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[David Schwartz]]</li><!--
-  --><li style="">[[Halyn Erickson]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="" >[[Marc Majcher]]</li><!--
-  --><li style="">[[Melissa Patterson]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
+  --><li style=""><a class="internal-link" href="Ash Nunley">Ash Nunley</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Halyn Erickson">Halyn Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,8 +85,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Albano]] (lights)</li><!--
-  --><li style="">[[Lindsey McGowen]] (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Chris Albano">Chris Albano</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (sound)</li><!--
   --><!--
   --><!--
   --><!--

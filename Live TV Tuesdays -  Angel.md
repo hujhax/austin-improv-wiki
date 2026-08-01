@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - Angel.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - Angel.jpg">Live TV Tuesdays - Angel.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Chelley Pyatt]]</td>
+			<td class="category"><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Sara Farr]]</td>
+			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
 		</tr>
 
 
@@ -33,18 +33,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Mengesha]]</li><!--
-  --><li style="">[[Angela Maldonado]]</li><!--
-  --><li style="">[[Carissa McAtee]]</li><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[Heath Allyn]]</li><!--
-  --><li style="">[[Heidi Caldwell]]</li><!--
-  --><li style="">[[Joel Reese]]</li><!--
-  --><li style="">[[Kevin Machate]]</li><!--
-  --><li style="" >[[Peter Rogers]]</li><!--
-  --><li style="">[[Robin Anderson]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
-  --><li style="">[[Vicki Bui]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Angela Maldonado">Angela Maldonado</a></li><!--
+  --><li style=""><a class="internal-link" href="Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Reese">Joel Reese</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Vicki Bui">Vicki Bui</a></li><!--
   --><!--
   --><!--
   --><!--

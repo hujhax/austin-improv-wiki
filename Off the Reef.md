@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Off the Reef.png]]
+				!<a class="internal-link" href="Off the Reef.png">Off the Reef.png</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Dougherty Arts Center]]</td>
+			<td class="category"><a class="internal-link" href="The Dougherty Arts Center">The Dougherty Arts Center</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Dave Buckman]]</td>
+			<td class="category"><a class="internal-link" href="Dave Buckman">Dave Buckman</a></td>
 		</tr>
 
 
@@ -26,32 +26,32 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Puppet Improv Project]]</td>
+			<td class="category"><a class="internal-link" href="Puppet Improv Project">Puppet Improv Project</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[David Meyers]]</td>
+			<td class="category"><a class="internal-link" href="David Meyers">David Meyers</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alyse Deller]]</li><!--
-  --><li style="">[[Amy Smith]]</li><!--
-  --><li style="">[[Chadwick Smith]]</li><!--
-  --><li style="">[[Ellen Pittsford]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Howard Katz]]</li><!--
-  --><li style="">[[Jenna Howard]]</li><!--
-  --><li style="">[[Jesse Overright]]</li><!--
-  --><li style="" >[[Jessica Salinas]]</li><!--
-  --><li style="">[[Nancy Lyon]]</li><!--
-  --><li style="">[[Patrick Knisely]]</li><!--
-  --><li style="">[[Sara Farr]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style=""><a class="internal-link" href="Alyse Deller">Alyse Deller</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Smith">Amy Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Chadwick Smith">Chadwick Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Ellen Pittsford">Ellen Pittsford</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenna Howard">Jenna Howard</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Baldenhofer]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Josh Krilov]]</li><!--
-  --><li style="">[[Michael James Williams]]</li><!--
-  --><li style="">[[Stephanie Rousso]]</li><!--
+  --><li style=""><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael James Williams">Michael James Williams</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Rousso">Stephanie Rousso</a></li><!--
   --><!--
   --><!--
   --><!--

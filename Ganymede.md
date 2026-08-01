@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[GanymedeTmp.jpg]]
+				!<a class="internal-link" href="GanymedeTmp.jpg">GanymedeTmp.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Walter Nichols]]</li><!--
-  --><li style="">[[Megan Sherrod]]</li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Walter Nichols">Walter Nichols</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Sherrod">Megan Sherrod</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Twelve-Inch Integrity.png]]
+				!<a class="internal-link" href="Twelve-Inch Integrity.png">Twelve-Inch Integrity.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,18 +15,18 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Lisa Jackson]]</td>
+			<td class="category"><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Parker-Fasel]]</li><!--
-  --><li style="">[[Aden Pennington]]</li><!--
-  --><li style="">[[Alex Biasci]]</li><!--
-  --><li style="">[[Ana Ward]]</li><!--
-  --><li style="">[[Elizabeth Brammer]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Parker-Fasel">Aaron Parker-Fasel</a></li><!--
+  --><li style=""><a class="internal-link" href="Aden Pennington">Aden Pennington</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Biasci">Alex Biasci</a></li><!--
+  --><li style=""><a class="internal-link" href="Ana Ward">Ana Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
   --><!--
   --><!--
   --><!--

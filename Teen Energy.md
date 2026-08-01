@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Teen Energy.jpg]]
+				!<a class="internal-link" href="Teen Energy.jpg">Teen Energy.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Heather Hasselle]]</li><!--
-  --><li style="">[[Jenn Buch]]</li><!--
-  --><li style="">[[Rosemarie Frezza]]</li><!--
-  --><li style="">[[Sunaina Suhag]]</li><!--
+  --><li style=""><a class="internal-link" href="Heather Hasselle">Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenn Buch">Jenn Buch</a></li><!--
+  --><li style=""><a class="internal-link" href="Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Sunaina Suhag">Sunaina Suhag</a></li><!--
   --><!--
   --><!--
   --><!--

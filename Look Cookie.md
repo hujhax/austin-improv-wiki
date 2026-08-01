@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Look Cookie.jpg]]
+				!<a class="internal-link" href="Look Cookie.jpg">Look Cookie.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan Roberts]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Eric Seufert]]</li><!--
-  --><li style="">[[Jerry Bilbo]]</li><!--
-  --><li style="">[[Kerri Lendo]]</li><!--
-  --><li style="">[[Leah Moss]]</li><!--
-  --><li style="">[[Michael Williams]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Seufert">Eric Seufert</a></li><!--
+  --><li style=""><a class="internal-link" href="Jerry Bilbo">Jerry Bilbo</a></li><!--
+  --><li style=""><a class="internal-link" href="Kerri Lendo">Kerri Lendo</a></li><!--
+  --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a></li><!--
   --><!--
   --><!--
   --><!--

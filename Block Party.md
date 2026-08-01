@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Block Party.jpg]]
+				!<a class="internal-link" href="Block Party.jpg">Block Party.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The New Movement]]</td>
+			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Rob Gagnon]] (host)</td>
+			<td class="category"><a class="internal-link" href="Rob Gagnon">Rob Gagnon</a> (host)</td>
 		</tr>
 
 

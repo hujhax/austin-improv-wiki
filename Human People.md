@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Hp.jpg]]
+				!<a class="internal-link" href="Hp.jpg">Hp.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Greg Mihalik]]</li><!--
-  --><li style="">[[Erik McVicker]]</li><!--
-  --><li style="">[[Mary Henderson]]</li><!--
-  --><li style="">[[Kris Raab]]</li><!--
-  --><li style="">[[Pius Wong]]</li><!--
-  --><li style="">[[Sheri Soltes]]</li><!--
-  --><li style="">[[Amy McClellan]]</li><!--
-  --><li style="">[[Chris Casey]]</li><!--
-  --><li style="" >[[Kay Krasin]]</li><!--
-  --><li style="">[[Sue Jordan]]</li><!--
+  --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
+  --><li style=""><a class="internal-link" href="Erik McVicker">Erik McVicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Mary Henderson">Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Kris Raab">Kris Raab</a></li><!--
+  --><li style=""><a class="internal-link" href="Pius Wong">Pius Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Sheri Soltes">Sheri Soltes</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy McClellan">Amy McClellan</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Casey">Chris Casey</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
+  --><li style=""><a class="internal-link" href="Sue Jordan">Sue Jordan</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,10 +72,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bloom Davis]]</li><!--
-  --><li style="">[[Carolyn Gjersten]]</li><!--
-  --><li style="">[[Judy Blackshear]]</li><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
+  --><li style=""><a class="internal-link" href="Bloom Davis">Bloom Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Carolyn Gjersten">Carolyn Gjersten</a></li><!--
+  --><li style=""><a class="internal-link" href="Judy Blackshear">Judy Blackshear</a></li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Nesting Dolls.jpg]]
+				!<a class="internal-link" href="The Nesting Dolls.jpg">The Nesting Dolls.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ann Potter]]</li><!--
-  --><li style="">[[Ashley Nugent]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Elizabeth Brammer]]</li><!--
-  --><li style="">[[Jessica Hamilton]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
-  --><li style="">[[Kayla Lane Freeman]]</li><!--
-  --><li style="" >[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Ann Potter">Ann Potter</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style="" ><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

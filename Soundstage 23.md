@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Soundstage23.jpg]]
+				!<a class="internal-link" href="Soundstage23.jpg">Soundstage23.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,14 +79,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alan Buttars]]</li><!--
-  --><li style="">[[Alonso Salas]]</li><!--
-  --><li style="">[[Biz Gilmore]]</li><!--
-  --><li style="">[[Casey Quinlan]]</li><!--
-  --><li style="">[[Jason Castro]]</li><!--
-  --><li style="">[[Joel Barton]]</li><!--
-  --><li style="">[[Michelle Dahlenburg]]</li><!--
-  --><li style="">[[Shay Millheiser]]</li><!--
+  --><li style=""><a class="internal-link" href="Alan Buttars">Alan Buttars</a></li><!--
+  --><li style=""><a class="internal-link" href="Alonso Salas">Alonso Salas</a></li><!--
+  --><li style=""><a class="internal-link" href="Biz Gilmore">Biz Gilmore</a></li><!--
+  --><li style=""><a class="internal-link" href="Casey Quinlan">Casey Quinlan</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Castro">Jason Castro</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Barton">Joel Barton</a></li><!--
+  --><li style=""><a class="internal-link" href="Michelle Dahlenburg">Michelle Dahlenburg</a></li><!--
+  --><li style=""><a class="internal-link" href="Shay Millheiser">Shay Millheiser</a></li><!--
   --><!--
   --><!--
   --><!--

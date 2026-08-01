@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Honey Ladies.jpg]]
+				!<a class="internal-link" href="Honey Ladies.jpg">Honey Ladies.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jeanette Jones]]</li><!--
-  --><li style="">[[Jen Kaplan]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
-  --><li style="">[[Sam Schak]]</li><!--
-  --><li style="">[[Sarah Swofford]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Swofford">Sarah Swofford</a></li><!--
   --><!--
   --><!--
   --><!--

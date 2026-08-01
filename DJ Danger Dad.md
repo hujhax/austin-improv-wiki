@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[DJ Danger Dad.jpg]]
+				!<a class="internal-link" href="DJ Danger Dad.jpg">DJ Danger Dad.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Walther]]</li><!--
-  --><li style="">[[Dan Mateer]]</li><!--
-  --><li style="">[[Kevin Jacobson]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Dan Mateer">Dan Mateer</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Jacobson">Kevin Jacobson</a></li><!--
   --><!--
   --><!--
   --><!--

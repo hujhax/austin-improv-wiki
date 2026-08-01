@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[AJ Holler]]</li><!--
-  --><li style="">[[Pseudonyms|Alessandra T.]]</li><!--
-  --><li style="">[[Caitlin Baumgartner]]</li><!--
-  --><li style="">[[Wes Gandy]]</li><!--
+  --><li style=""><a class="internal-link" href="AJ Holler">AJ Holler</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
+  --><li style=""><a class="internal-link" href="Caitlin Baumgartner">Caitlin Baumgartner</a></li><!--
+  --><li style=""><a class="internal-link" href="Wes Gandy">Wes Gandy</a></li><!--
   --><!--
   --><!--
   --><!--

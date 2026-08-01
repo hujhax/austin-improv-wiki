@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kopp & Buddy -  Buddy Cops.jpg]]
+				!<a class="internal-link" href="Kopp & Buddy -  Buddy Cops.jpg">Kopp & Buddy -  Buddy Cops.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Buck]]</li><!--
-  --><li style="">[[Eli Edison]]</li><!--
-  --><li style="">[[Matthew Stoner]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Eli Edison">Eli Edison</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Stoner">Matthew Stoner</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

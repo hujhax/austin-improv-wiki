@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Ladies Room.jpg]]
+				!<a class="internal-link" href="The Ladies Room.jpg">The Ladies Room.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Ally Huston]]</td>
+			<td class="category"><a class="internal-link" href="Ally Huston">Ally Huston</a></td>
 		</tr>
 
 
@@ -33,15 +33,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ally Huston]]</li><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Brittany Flurry]]</li><!--
-  --><li style="">[[Jessica Brooks]]</li><!--
-  --><li style="">[[Jessica Salinas]]</li><!--
-  --><li style="">[[Jo Chauvin]]</li><!--
-  --><li style="">[[Molly Mckee]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
-  --><li style="" >[[Sam Schak]]</li><!--
+  --><li style=""><a class="internal-link" href="Ally Huston">Ally Huston</a></li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Brittany Flurry">Brittany Flurry</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Brooks">Jessica Brooks</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Jo Chauvin">Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Molly Mckee">Molly Mckee</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sam Schak">Sam Schak</a></li><!--
   --><!--
   --><!--
   --><!--

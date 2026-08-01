@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adrienne Brown]]</li><!--
-  --><li style="">[[Chris Albano]]</li><!--
-  --><li style="">[[David Schwartz]]</li><!--
-  --><li style="">[[Emma Czarnecki]]</li><!--
-  --><li style="">[[Judith Schomp]]</li><!--
-  --><li style="">[[Lindsay Hejl]]</li><!--
-  --><li style="">[[Melissa Patterson]]</li><!--
-  --><li style="">[[Michael Bowman]]</li><!--
+  --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
+  --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
   --><!--
   --><!--
   --><!--

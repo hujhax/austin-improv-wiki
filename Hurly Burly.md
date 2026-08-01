@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Hurly Burly Poster.jpg]]
+				!<a class="internal-link" href="Hurly Burly Poster.jpg">Hurly Burly Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,19 +84,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adriane Shown]]</li><!--
-  --><li style="">[[Pseudonyms|Brooke Beltane]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Pseudonyms|Eureka Smoke]]</li><!--
-  --><li style="">[[Pseudonyms|Foxy Cakes]]</li><!--
-  --><li style="">[[Jen Kaplan]]</li><!--
-  --><li style="">[[Jessie Pascarelli]]</li><!--
-  --><li style="">[[Pseudonyms|Lulu La Mer]]</li><!--
-  --><li style="" >[[Marc Majcher]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Pseudonyms|Rosie Dear]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Pseudonyms|Wilhelmina Wyldehart]]</li><!--
+  --><li style=""><a class="internal-link" href="Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Brooke Beltane</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Eureka Smoke</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Foxy Cakes</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Lulu La Mer</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Rosie Dear</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Wilhelmina Wyldehart</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -141,8 +141,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Lindsey McGowen]]</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><!--
   --><!--
   --><!--

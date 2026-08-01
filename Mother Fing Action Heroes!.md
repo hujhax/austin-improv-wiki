@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Mother Fing Action Heroes!.jpg]]
+				!<a class="internal-link" href="Mother Fing Action Heroes!.jpg">Mother Fing Action Heroes!.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,20 +15,20 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Jason Oliver]]</td>
+			<td class="category"><a class="internal-link" href="Jason Oliver">Jason Oliver</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Roxby]]</li><!--
-  --><li style="">[[Cassidy Santaguida]]</li><!--
-  --><li style="">[[Chris Sebilia]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Jason Oliver]]</li><!--
-  --><li style="">[[Maitland Lederer]]</li><!--
-  --><li style="">[[Steve Jaffe]]</li><!--
-  --><li style="">[[Zac Grantham]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Roxby">Aaron Roxby</a></li><!--
+  --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Sebilia">Chris Sebilia</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Oliver">Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Jaffe">Steve Jaffe</a></li><!--
+  --><li style=""><a class="internal-link" href="Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--

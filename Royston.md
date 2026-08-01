@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Trabka]]</li><!--
-  --><li style="">[[Brady James]]</li><!--
-  --><li style="">[[Jenna Carey]]</li><!--
-  --><li style="">[[Jessica Hamilton]]</li><!--
-  --><li style="">[[Kayla Lane Freeman]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
+  --><li style=""><a class="internal-link" href="Brady James">Brady James</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenna Carey">Jenna Carey</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
+  --><li style=""><a class="internal-link" href="Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
   --><!--
   --><!--

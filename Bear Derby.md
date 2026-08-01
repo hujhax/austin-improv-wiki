@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Bear Derby.jpg]]
+				!<a class="internal-link" href="Bear Derby.jpg">Bear Derby.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,17 +16,17 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Pseudonyms|Alessandra T.]]</li><!--
-  --><li style="">[[Ashley Siebels]]</li><!--
-  --><li style="">[[Austin Davison]]</li><!--
-  --><li style="">[[Ben Bazan]]</li><!--
-  --><li style="">[[Dustin Finkelnstein]]</li><!--
-  --><li style="">[[Dustin Finkelstein]]</li><!--
-  --><li style="">[[Juliet Prather]]</li><!--
-  --><li style="">[[Matthew Stoner]]</li><!--
-  --><li style="" >[[Sanjay Rao]]</li><!--
-  --><li style="">[[Sarah Coker]]</li><!--
-  --><li style="">[[XJ Coleman]]</li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Siebels">Ashley Siebels</a></li><!--
+  --><li style=""><a class="internal-link" href="Austin Davison">Austin Davison</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Bazan">Ben Bazan</a></li><!--
+  --><li style=""><a class="internal-link" href="Dustin Finkelnstein">Dustin Finkelnstein</a></li><!--
+  --><li style=""><a class="internal-link" href="Dustin Finkelstein">Dustin Finkelstein</a></li><!--
+  --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Stoner">Matthew Stoner</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Coker">Sarah Coker</a></li><!--
+  --><li style=""><a class="internal-link" href="XJ Coleman">XJ Coleman</a></li><!--
   --><!--
   --><!--
   --><!--

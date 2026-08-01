@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Tarantula.jpg]]
+				!<a class="internal-link" href="Tarantula.jpg">Tarantula.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Sarah Marie Curry]]</td>
+			<td class="category"><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></td>
 		</tr>
 
 

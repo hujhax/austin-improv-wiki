@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ben Masten]]</li><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[Joel Osborne]]</li><!--
+  --><li style=""><a class="internal-link" href="Ben Masten">Ben Masten</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Osborne">Joel Osborne</a></li><!--
   --><!--
   --><!--
   --><!--

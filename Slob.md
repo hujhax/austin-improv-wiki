@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dave Michaels]]</li><!--
-  --><li style="">[[Kate Trammell]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
-  --><li style="">[[Sarah Coker]]</li><!--
+  --><li style=""><a class="internal-link" href="Dave Michaels">Dave Michaels</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Trammell">Kate Trammell</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Coker">Sarah Coker</a></li><!--
   --><!--
   --><!--
   --><!--

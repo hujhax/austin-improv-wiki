@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrea Young]]</li><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Arthur Simone]]</li><!--
-  --><li style="">[[Chris Trew]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Jill Morris]]</li><!--
-  --><li style="">[[Justin York]]</li><!--
-  --><li style="">[[Rachel Madorsky]]</li><!--
-  --><li style="" >[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style="" ><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

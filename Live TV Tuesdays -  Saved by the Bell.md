@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays- Saved by the Bell.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays- Saved by the Bell.jpg">Live TV Tuesdays- Saved by the Bell.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Tom Booker]]</td>
+			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
 		</tr>
 
 
@@ -28,13 +28,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[Bryan Roberts]]</li><!--
-  --><li style="">[[Ellana Kelter]]</li><!--
-  --><li style="">[[Espie Randolph]]</li><!--
-  --><li style="">[[Lauren Forman]]</li><!--
-  --><li style="">[[Patrick Daniel]]</li><!--
-  --><li style="">[[Terrill Fischer]]</li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Ellana Kelter">Ellana Kelter</a></li><!--
+  --><li style=""><a class="internal-link" href="Espie Randolph">Espie Randolph</a></li><!--
+  --><li style=""><a class="internal-link" href="Lauren Forman">Lauren Forman</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[MikeIrenePoster.jpg]]
+				!<a class="internal-link" href="MikeIrenePoster.jpg">MikeIrenePoster.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
-  --><li style="">[[Irene White]]</li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Irene White">Irene White</a></li><!--
   --><!--
   --><!--
   --><!--

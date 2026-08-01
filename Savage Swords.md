@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Savage Swords.jpg]]
+				!<a class="internal-link" href="Savage Swords.jpg">Savage Swords.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Marc Majcher]]</td>
+			<td class="category"><a class="internal-link" href="Marc Majcher">Marc Majcher</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Ryan Hill]]</td>
+			<td class="category"><a class="internal-link" href="Ryan Hill">Ryan Hill</a></td>
 		</tr>
 
 
@@ -33,19 +33,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Angie Yaeyama]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[JM Specht]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[J.R. Zambrano]]</li><!--
-  --><li style="">[[Manuel Duran]]</li><!--
-  --><li style="" >[[Peter Rogers]]</li><!--
-  --><li style="">[[Rosemarie Frezza]]</li><!--
-  --><li style="">[[Roy Danger]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
-  --><li style="">[[Suzanne Link]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Angie Yaeyama">Angie Yaeyama</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="JM Specht">JM Specht</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Manuel Duran">Manuel Duran</a></li><!--
+  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Danger">Roy Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Suzanne Link">Suzanne Link</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,11 +90,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lindsey McGowen]] (technical director/lights)</li><!--
-  --><li style="">[[Michael Yew]] (scoring)</li><!--
-  --><li style="">[[Cindy Page]] (sound effects, costume director)</li><!--
-  --><li style="">[[Jay Mahavier]] (swing tech)</li><!--
-  --><li style="">[[Rob Yoho]] (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (technical director/lights)</li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a> (sound effects, costume director)</li><!--
+  --><li style=""><a class="internal-link" href="Jay Mahavier">Jay Mahavier</a> (swing tech)</li><!--
+  --><li style=""><a class="internal-link" href="Rob Yoho">Rob Yoho</a> (stage manager)</li><!--
   --><!--
   --><!--
   --><!--

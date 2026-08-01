@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[BadCo.jpg]]
+				!<a class="internal-link" href="BadCo.jpg">BadCo.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="">[[Ted Rutherford]]</li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Ted Rutherford">Ted Rutherford</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,13 +84,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashlee Medlin]]</li><!--
-  --><li style="">[[Bob Khosravi]]</li><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
-  --><li style="">[[Enecito Acedillo]]</li><!--
-  --><li style="">[[Jessica Salinas]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Scott Crocker]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Enecito Acedillo">Enecito Acedillo</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Crocker">Scott Crocker</a></li><!--
   --><!--
   --><!--
   --><!--

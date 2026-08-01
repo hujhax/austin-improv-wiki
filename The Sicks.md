@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Sicks.jpg]]
+				!<a class="internal-link" href="The Sicks.jpg">The Sicks.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob Apthorpe]]</li><!--
-  --><li style="">[[Mike D'Alonzo]]</li><!--
+  --><li style=""><a class="internal-link" href="Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike D'Alonzo">Mike D'Alonzo</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,14 +72,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ben Sterling]]</li><!--
-  --><li style="">[[Jeffrey Amos]]</li><!--
-  --><li style="">[[Jonathan Hunt]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Kate Caldwell]]</li><!--
-  --><li style="">[[Lauren Hunt]]</li><!--
-  --><li style="">[[Sarah Smiley]]</li><!--
+  --><li style=""><a class="internal-link" href="Ben Sterling">Ben Sterling</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeffrey Amos">Jeffrey Amos</a></li><!--
+  --><li style=""><a class="internal-link" href="Jonathan Hunt">Jonathan Hunt</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Caldwell">Kate Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Lauren Hunt">Lauren Hunt</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Smiley">Sarah Smiley</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -130,9 +130,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[James Downing]]</li><!--
-  --><li style="">[[Meggan Amos]] (stage manager)</li><!--
-  --><li style="">[[Taylor Browne]]</li><!--
+  --><li style=""><a class="internal-link" href="James Downing">James Downing</a></li><!--
+  --><li style=""><a class="internal-link" href="Meggan Amos">Meggan Amos</a> (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Taylor Browne">Taylor Browne</a></li><!--
   --><!--
   --><!--
   --><!--

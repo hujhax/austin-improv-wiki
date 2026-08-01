@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Basile]]</li><!--
-  --><li style="">[[Andrew Buck]]</li><!--
-  --><li style="">[[Christina Parrish]]</li><!--
-  --><li style="">[[Mia Iseman]]</li><!--
-  --><li style="">[[Will Cleveland]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Christina Parrish">Christina Parrish</a></li><!--
+  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Will Cleveland">Will Cleveland</a></li><!--
   --><!--
   --><!--
   --><!--

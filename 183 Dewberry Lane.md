@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[183 Dewberry Lane Poster.jpg]]
+				!<a class="internal-link" href="183 Dewberry Lane Poster.jpg">183 Dewberry Lane Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Caeriel Crestin]]</td>
+			<td class="category"><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[J. R. Zambrano]]</td>
+			<td class="category"><a class="internal-link" href="J. R. Zambrano">J. R. Zambrano</a></td>
 		</tr>
 
 
@@ -33,16 +33,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Carolina A. Andrade]]</li><!--
-  --><li style="">[[Eric Peterson]]</li><!--
-  --><li style="">[[Graham Snow]]</li><!--
-  --><li style="">[[Greg Mihalik]]</li><!--
-  --><li style="">[[Kay Krasin]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Sue Woodka Jordan]]</li><!--
-  --><li style="" >[[Tamara Warton]]</li><!--
-  --><li style="">[[Zachariah Rollins]]</li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Carolina A. Andrade">Carolina A. Andrade</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Peterson">Eric Peterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
+  --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
+  --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Sue Woodka Jordan">Sue Woodka Jordan</a></li><!--
+  --><li style="" ><a class="internal-link" href="Tamara Warton">Tamara Warton</a></li><!--
+  --><li style=""><a class="internal-link" href="Zachariah Rollins">Zachariah Rollins</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,8 +90,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Walker]]</li><!--
-  --><li style="">[[Casey Marie]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
+  --><li style=""><a class="internal-link" href="Casey Marie">Casey Marie</a></li><!--
   --><!--
   --><!--
   --><!--

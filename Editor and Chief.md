@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Editor and Chief.jpg]]
+				!<a class="internal-link" href="Editor and Chief.jpg">Editor and Chief.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Audrey Sansom]]</li><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
+  --><li style=""><a class="internal-link" href="Audrey Sansom">Audrey Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
   --><!--
   --><!--
   --><!--

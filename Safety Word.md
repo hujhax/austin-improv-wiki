@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Safety Word.jpg]]
+				!<a class="internal-link" href="Safety Word.jpg">Safety Word.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy O'Connor]]</li><!--
-  --><li style="">[[Arby Gonzales]]</li><!--
-  --><li style="">[[Chris Sebilia]]</li><!--
-  --><li style="">[[Emma Czarnecki]]</li><!--
-  --><li style="">[[Zack Phillips]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
+  --><li style=""><a class="internal-link" href="Arby Gonzales">Arby Gonzales</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Sebilia">Chris Sebilia</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
+  --><li style=""><a class="internal-link" href="Zack Phillips">Zack Phillips</a></li><!--
   --><!--
   --><!--
   --><!--

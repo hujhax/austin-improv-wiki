@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Austin Playback Theatre.jpg]]
+				!<a class="internal-link" href="Austin Playback Theatre.jpg">Austin Playback Theatre.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bess Green]]</li><!--
-  --><li style="">[[Dustin Parks]]</li><!--
-  --><li style="">[[Joy Kearney]]</li><!--
-  --><li style="">[[Katrina Parks]]</li><!--
-  --><li style="">[[Paige Dearman]]</li><!--
+  --><li style=""><a class="internal-link" href="Bess Green">Bess Green</a></li><!--
+  --><li style=""><a class="internal-link" href="Dustin Parks">Dustin Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Joy Kearney">Joy Kearney</a></li><!--
+  --><li style=""><a class="internal-link" href="Katrina Parks">Katrina Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Paige Dearman">Paige Dearman</a></li><!--
   --><!--
   --><!--
   --><!--

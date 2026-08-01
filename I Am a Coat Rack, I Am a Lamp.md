@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,17 +15,17 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Tami Nelson]]</td>
+			<td class="category"><a class="internal-link" href="Tami Nelson">Tami Nelson</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brian Boyko]]</li><!--
-  --><li style="">[[Jay Bernardo]]</li><!--
-  --><li style="">[[Nadine Latief]]</li><!--
-  --><li style="">[[Tami Nelson]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Brian Boyko">Brian Boyko</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a></li><!--
+  --><li style=""><a class="internal-link" href="Nadine Latief">Nadine Latief</a></li><!--
+  --><li style=""><a class="internal-link" href="Tami Nelson">Tami Nelson</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

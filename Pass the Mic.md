@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Pass the Mic.jpg]]
+				!<a class="internal-link" href="Pass the Mic.jpg">Pass the Mic.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The New Movement]]</td>
+			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Joe Faina]] (host)</td>
+			<td class="category"><a class="internal-link" href="Joe Faina">Joe Faina</a> (host)</td>
 		</tr>
 
 

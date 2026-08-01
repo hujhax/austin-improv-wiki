@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Beans Beans (the musical troupe).jpg]]
+				!<a class="internal-link" href="Beans Beans (the musical troupe).jpg">Beans Beans (the musical troupe).jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Clifton Highfield]]</li><!--
-  --><li style="">[[Elizabeth Osterwisch]]</li><!--
-  --><li style="">[[Jay Byrd]]</li><!--
-  --><li style="">[[Joel Usher]]</li><!--
-  --><li style="">[[Kevin Williamson]]</li><!--
-  --><li style="">[[Meredith Newell]]</li><!--
+  --><li style=""><a class="internal-link" href="Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Elizabeth Osterwisch">Elizabeth Osterwisch</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Byrd">Jay Byrd</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Usher">Joel Usher</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Williamson">Kevin Williamson</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Newell">Meredith Newell</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Show Default Image.jpg]]
+				!<a class="internal-link" href="Show Default Image.jpg">Show Default Image.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Chris McKeever]]</td>
+			<td class="category"><a class="internal-link" href="Chris McKeever">Chris McKeever</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Scott Hearne]]</td>
+			<td class="category"><a class="internal-link" href="Scott Hearne">Scott Hearne</a></td>
 		</tr>
 
 
@@ -31,23 +31,23 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Chaz Formichella]]</td>
+			<td class="category"><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Chaz Formichella]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
-  --><li style="">[[Katie Thorton]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Arian Brumby]]</li><!--
-  --><li style="" >[[Katie Thorton]]</li><!--
-  --><li style="">[[Jillian Besemer]]</li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Thorton">Katie Thorton</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
+  --><li style="" ><a class="internal-link" href="Katie Thorton">Katie Thorton</a></li><!--
+  --><li style=""><a class="internal-link" href="Jillian Besemer">Jillian Besemer</a></li><!--
   --><!--
   --><!--
   --><!--

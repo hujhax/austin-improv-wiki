@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kinkade.jpg]]
+				!<a class="internal-link" href="Kinkade.jpg">Kinkade.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ian Townsend]]</li><!--
-  --><li style="">[[Jake Millward]]</li><!--
-  --><li style="">[[Jared Robertson]]</li><!--
-  --><li style="">[[Javier Ungo]]</li><!--
-  --><li style="">[[Steven H. Moore]]</li><!--
+  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
+  --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--
+  --><li style=""><a class="internal-link" href="Steven H. Moore">Steven H. Moore</a></li><!--
   --><!--
   --><!--
   --><!--

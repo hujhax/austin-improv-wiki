@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Tech Nightmare Pic.jpg]]
+				!<a class="internal-link" href="Tech Nightmare Pic.jpg">Tech Nightmare Pic.jpg</a>
 			</td>
 		</tr>
 
@@ -17,8 +17,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Cortney DeAngelo]] [[Lindsey McGowen]]</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a> <a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><!--
   --><!--
   --><!--

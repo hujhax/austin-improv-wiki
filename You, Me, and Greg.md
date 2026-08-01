@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[You Me & Greg.jpg]]
+				!<a class="internal-link" href="You Me & Greg.jpg">You Me & Greg.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Doug Pena]]</li><!--
-  --><li style="">[[Greg Spencer]]</li><!--
-  --><li style="">[[Phil Aulie]]</li><!--
+  --><li style=""><a class="internal-link" href="Doug Pena">Doug Pena</a></li><!--
+  --><li style=""><a class="internal-link" href="Greg Spencer">Greg Spencer</a></li><!--
+  --><li style=""><a class="internal-link" href="Phil Aulie">Phil Aulie</a></li><!--
   --><!--
   --><!--
   --><!--

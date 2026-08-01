@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Couchsurfers.png]]
+				!<a class="internal-link" href="The Couchsurfers.png">The Couchsurfers.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,14 +15,14 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Callie Sharon]]</li><!--
-  --><li style="">[[Jake Sharon]]</li><!--
+  --><li style=""><a class="internal-link" href="Callie Sharon">Callie Sharon</a></li><!--
+  --><li style=""><a class="internal-link" href="Jake Sharon">Jake Sharon</a></li><!--
   --><!--
   --><!--
   --><!--

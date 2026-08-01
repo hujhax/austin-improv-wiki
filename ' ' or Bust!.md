@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Blank or Bust.jpg]]
+				!<a class="internal-link" href="Blank or Bust.jpg">Blank or Bust.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Shana Merlin]]</td>
+			<td class="category"><a class="internal-link" href="Shana Merlin">Shana Merlin</a></td>
 		</tr>
 
 
@@ -26,21 +26,21 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob Khosravi]]</li><!--
-  --><li style="">[[Britney Salyer]]</li><!--
-  --><li style="">[[Jerry Akellian]]</li><!--
-  --><li style="">[[Neal Tibrewala]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Reid Jacobson]]</li><!--
-  --><li style="">[[Robin Anderson]]</li><!--
-  --><li style="">[[Valerie Nies]]</li><!--
+  --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
+  --><li style=""><a class="internal-link" href="Britney Salyer">Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Jerry Akellian">Jerry Akellian</a></li><!--
+  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Reid Jacobson">Reid Jacobson</a></li><!--
+  --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Nies">Valerie Nies</a></li><!--
   --><!--
   --><!--
   --><!--

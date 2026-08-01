@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Showdown.jpg]]
+				!<a class="internal-link" href="Showdown.jpg">Showdown.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Avimaan Syam]]</td>
+			<td class="category"><a class="internal-link" href="Avimaan Syam">Avimaan Syam</a></td>
 		</tr>
 
 
@@ -27,8 +27,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Gnap! Theater Projects]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
+  --><li style=""><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,16 +84,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Clay Towery]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[Jesse Bertron]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Julie Gillis]]</li><!--
-  --><li style="">[[Katie Van Winkle]]</li><!--
-  --><li style="" >[[Liz Brammer]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Bertron">Jesse Bertron</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Julie Gillis">Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Van Winkle">Katie Van Winkle</a></li><!--
+  --><li style="" ><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--

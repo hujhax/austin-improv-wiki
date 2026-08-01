@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[City High.jpg]]
+				!<a class="internal-link" href="City High.jpg">City High.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Walther]]</li><!--
-  --><li style="">[[Dan Mateer]]</li><!--
-  --><li style="">[[Kevin Jacobson]]</li><!--
-  --><li style="">[[Michael Prohaska]]</li><!--
-  --><li style="">[[Samantha Pitchel]]</li><!--
-  --><li style="">[[Sarah Greene]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Dan Mateer">Dan Mateer</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Jacobson">Kevin Jacobson</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Prohaska">Michael Prohaska</a></li><!--
+  --><li style=""><a class="internal-link" href="Samantha Pitchel">Samantha Pitchel</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Greene">Sarah Greene</a></li><!--
   --><!--
   --><!--
   --><!--

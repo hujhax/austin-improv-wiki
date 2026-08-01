@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Subject Object.jpg]]
+				!<a class="internal-link" href="Subject Object.jpg">Subject Object.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Baia]]</li><!--
-  --><li style="">[[Ed Melendez]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Melendez">Ed Melendez</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Batman.cast.jpg]]
+				!<a class="internal-link" href="Batman.cast.jpg">Batman.cast.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Kaci Beeler]]</td>
+			<td class="category"><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 
 
@@ -28,17 +28,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Curtis Luciani]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Jay Byrd]]</li><!--
-  --><li style="">[[Keegan Hines]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="" >[[Roy Janik]]</li><!--
-  --><li style="">[[Taylor Overstreet]]</li><!--
-  --><li style="">[[Teresa Troxel]]</li><!--
+  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Byrd">Jay Byrd</a></li><!--
+  --><li style=""><a class="internal-link" href="Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa Troxel">Teresa Troxel</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,11 +85,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Britney Salyer]]</li><!--
-  --><li style="">[[Carl Ziegler]]</li><!--
-  --><li style="">[[John Brewster]]</li><!--
-  --><li style="">[[Michael Yew]]</li><!--
-  --><li style="">[[Zac Grantham]]</li><!--
+  --><li style=""><a class="internal-link" href="Britney Salyer">Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
+  --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
+  --><li style=""><a class="internal-link" href="Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--

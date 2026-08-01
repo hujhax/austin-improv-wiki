@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Vinyl Destination.jpg]]
+				!<a class="internal-link" href="Vinyl Destination.jpg">Vinyl Destination.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[John Ratliff]]</td>
+			<td class="category"><a class="internal-link" href="John Ratliff">John Ratliff</a></td>
 		</tr>
 
 
@@ -33,14 +33,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bill Stern]]</li><!--
-  --><li style="">[[Christina de Roos]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
-  --><li style="">[[Karolyn McKenzie]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Valerie Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Bill Stern">Bill Stern</a></li><!--
+  --><li style=""><a class="internal-link" href="Christina de Roos">Christina de Roos</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Karolyn McKenzie">Karolyn McKenzie</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

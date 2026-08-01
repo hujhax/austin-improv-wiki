@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Things We Don't Speak Of.jpg]]
+				!<a class="internal-link" href="Things We Don't Speak Of.jpg">Things We Don't Speak Of.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jeremy Moran]]</li><!--
-  --><li style="">[[Frank Sanchez]]</li><!--
-  --><li style="">[[Jenn Hamm]]</li><!--
-  --><li style="">[[Mitchell Deane]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Moran">Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Sanchez">Frank Sanchez</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitchell Deane">Mitchell Deane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,8 +72,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jessica von Schramm]]</li><!--
-  --><li style="">[[Lahari Samineni]]</li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
   --><!--
   --><!--
   --><!--

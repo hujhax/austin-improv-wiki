@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Monks' Night Out.jpg]]
+				!<a class="internal-link" href="Monks' Night Out.jpg">Monks' Night Out.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,39 +15,39 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Marc Pruter]]</td>
+			<td class="category"><a class="internal-link" href="Marc Pruter">Marc Pruter</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Cobb]]</li><!--
-  --><li style="">[[Becca Sadler]]</li><!--
-  --><li style="">[[Ben Prince]]</li><!--
-  --><li style="">[[Brently Heilbron]]</li><!--
-  --><li style="">[[Christie Ingram]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Eric Perry]]</li><!--
-  --><li style="">[[G Cole Spainhour]]</li><!--
-  --><li style="" >[[Gabriel Folse]]</li><!--
-  --><li style="">[[Greg Dorchak]]</li><!--
-  --><li style="">[[Holly Simpson]]</li><!--
-  --><li style="">[[Jon Wiley]]</li><!--
-  --><li style="">[[Joseph Anthony Fotinos]]</li><!--
-  --><li style="">[[Katey Mushlin]]</li><!--
-  --><li style="">[[Laura Estep]]</li><!--
-  --><li style="">[[Marc Pruter]]</li><!--
-  --><li style="">[[Matt Bearden]]</li><!--
-  --><li style="">[[Mervyn Burnett]]</li><!--
-  --><li style="">[[Michael Joplin]]</li><!--
-  --><li style="">[[Pamela Ribon]]</li><!--
-  --><li style="">[[Paul Finley]]</li><!--
-  --><li style="">[[Regina Reale]]</li><!--
-  --><li style="">[[Sarah Pattison Cavazos]]</li><!--
-  --><li style="">[[Scott Perry]]</li><!--
-  --><li style="">[[Tim Bauer]]</li><!--
-  --><li style="">[[Tim Girardot]]</li><!--
-  --><li style="">[[Tyler Bryce]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Cobb">Andy Cobb</a></li><!--
+  --><li style=""><a class="internal-link" href="Becca Sadler">Becca Sadler</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Prince">Ben Prince</a></li><!--
+  --><li style=""><a class="internal-link" href="Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Christie Ingram">Christie Ingram</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Perry">Eric Perry</a></li><!--
+  --><li style=""><a class="internal-link" href="G Cole Spainhour">G Cole Spainhour</a></li><!--
+  --><li style="" ><a class="internal-link" href="Gabriel Folse">Gabriel Folse</a></li><!--
+  --><li style=""><a class="internal-link" href="Greg Dorchak">Greg Dorchak</a></li><!--
+  --><li style=""><a class="internal-link" href="Holly Simpson">Holly Simpson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Wiley">Jon Wiley</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Anthony Fotinos">Joseph Anthony Fotinos</a></li><!--
+  --><li style=""><a class="internal-link" href="Katey Mushlin">Katey Mushlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Estep">Laura Estep</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Pruter">Marc Pruter</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Bearden">Matt Bearden</a></li><!--
+  --><li style=""><a class="internal-link" href="Mervyn Burnett">Mervyn Burnett</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Pamela Ribon">Pamela Ribon</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Finley">Paul Finley</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Reale">Regina Reale</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Pattison Cavazos">Sarah Pattison Cavazos</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Perry">Scott Perry</a></li><!--
+  --><li style=""><a class="internal-link" href="Tim Bauer">Tim Bauer</a></li><!--
+  --><li style=""><a class="internal-link" href="Tim Girardot">Tim Girardot</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--

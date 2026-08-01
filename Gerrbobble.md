@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Gerrbobble.jpg]]
+				!<a class="internal-link" href="Gerrbobble.jpg">Gerrbobble.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Nugent]]</li><!--
-  --><li style="">[[Brian Engrevalle]]</li><!--
-  --><li style="">[[Chaz Formichella]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Matt Derman]]</li><!--
-  --><li style="">[[Steve Donovan]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian Engrevalle">Brian Engrevalle</a></li><!--
+  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Ladies.jpg]]
+				!<a class="internal-link" href="The Ladies.jpg">The Ladies.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Courney Sevener]]</li><!--
-  --><li style="">[[JenRaye Adams]]</li><!--
-  --><li style="">[[Lacy Cox]]</li><!--
-  --><li style="">[[Meredith Mae Roberts]]</li><!--
+  --><li style=""><a class="internal-link" href="Courney Sevener">Courney Sevener</a></li><!--
+  --><li style=""><a class="internal-link" href="JenRaye Adams">JenRaye Adams</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Oh, Science!.jpg]]
+				!<a class="internal-link" href="Oh, Science!.jpg">Oh, Science!.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Baia]]</li><!--
-  --><li style="">[[Ed Melendez]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Kristin Henn]]</li><!--
-  --><li style="">[[Nathan Livni]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Melendez">Ed Melendez</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Henn">Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Livni">Nathan Livni</a></li><!--
   --><!--
   --><!--
   --><!--

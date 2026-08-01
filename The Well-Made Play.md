@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Wellmadeplay poster.jpg]]
+				!<a class="internal-link" href="Wellmadeplay poster.jpg">Wellmadeplay poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lindsey McGowen]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -89,14 +89,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alan Buttars]]</li><!--
-  --><li style="">[[Amanda Chang]]</li><!--
-  --><li style="">[[Bonnie Dilber]]</li><!--
-  --><li style="">[[Christian Lewis]]</li><!--
-  --><li style="">[[Cristy Salinas Lynch]]</li><!--
-  --><li style="">[[Gabriela Vargas]]</li><!--
-  --><li style="">[[Jeffrey Chatman]]</li><!--
-  --><li style="">[[Shane Gannaway]]</li><!--
+  --><li style=""><a class="internal-link" href="Alan Buttars">Alan Buttars</a></li><!--
+  --><li style=""><a class="internal-link" href="Amanda Chang">Amanda Chang</a></li><!--
+  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a></li><!--
+  --><li style=""><a class="internal-link" href="Christian Lewis">Christian Lewis</a></li><!--
+  --><li style=""><a class="internal-link" href="Cristy Salinas Lynch">Cristy Salinas Lynch</a></li><!--
+  --><li style=""><a class="internal-link" href="Gabriela Vargas">Gabriela Vargas</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeffrey Chatman">Jeffrey Chatman</a></li><!--
+  --><li style=""><a class="internal-link" href="Shane Gannaway">Shane Gannaway</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -146,9 +146,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andre K. Buchanan]]</li><!--
-  --><li style="">[[Brad Geiger]]</li><!--
-  --><li style="">[[Daniel Ellsworth]]</li><!--
+  --><li style=""><a class="internal-link" href="Andre K. Buchanan">Andre K. Buchanan</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Geiger">Brad Geiger</a></li><!--
+  --><li style=""><a class="internal-link" href="Daniel Ellsworth">Daniel Ellsworth</a></li><!--
   --><!--
   --><!--
   --><!--

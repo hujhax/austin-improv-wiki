@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[There's Waldo.jpg]]
+				!<a class="internal-link" href="There's Waldo.jpg">There's Waldo.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Dietze]]</li><!--
-  --><li style="">[[Christine Giordano]]</li><!--
-  --><li style="">[[Erica Lies]]</li><!--
-  --><li style="">[[John Buseman]]</li><!--
-  --><li style="">[[Sara Osburn]]</li><!--
-  --><li style="">[[Taylor Overstreet]]</li><!--
-  --><li style="">[[Tyler Reece Booker]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Dietze">Amy Dietze</a></li><!--
+  --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
+  --><li style=""><a class="internal-link" href="Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Sara Osburn">Sara Osburn</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Reece Booker">Tyler Reece Booker</a></li><!--
   --><!--
   --><!--
   --><!--

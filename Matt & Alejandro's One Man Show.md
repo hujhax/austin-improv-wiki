@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Matt & Alejandro's One Man Show.jpg]]
+				!<a class="internal-link" href="Matt & Alejandro's One Man Show.jpg">Matt & Alejandro's One Man Show.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alejandro Garcia]]</li><!--
-  --><li style="">[[Matt Needles]]</li><!--
+  --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
   --><!--
   --><!--
   --><!--

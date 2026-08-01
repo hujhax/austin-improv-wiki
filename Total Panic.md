@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Total Panic.jpg]]
+				!<a class="internal-link" href="Total Panic.jpg">Total Panic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Parker Fasel]]</li><!--
-  --><li style="">[[Brandt Pileggi]]</li><!--
-  --><li style="">[[Brian Engravalle]]</li><!--
-  --><li style="">[[Brian Howard]]</li><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[Jenny Calrson]]</li><!--
-  --><li style="">[[Liz Brammer]]</li><!--
-  --><li style="">[[Patrick Daniel]]</li><!--
-  --><li style="" >[[Shyla Ray]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Parker Fasel">Aaron Parker Fasel</a></li><!--
+  --><li style=""><a class="internal-link" href="Brandt Pileggi">Brandt Pileggi</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian Howard">Brian Howard</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenny Calrson">Jenny Calrson</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style="" ><a class="internal-link" href="Shyla Ray">Shyla Ray</a></li><!--
   --><!--
   --><!--
   --><!--

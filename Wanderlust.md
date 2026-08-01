@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Wanderlust.jpg]]
+				!<a class="internal-link" href="Wanderlust.jpg">Wanderlust.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Ruby Willmann]]</td>
+			<td class="category"><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Aaron Saenz]]</td>
+			<td class="category"><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a></td>
 		</tr>
 
 
@@ -33,18 +33,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[Chris Albano]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Manuel Duran]]</li><!--
-  --><li style="" >[[Marc Majcher]]</li><!--
-  --><li style="">[[Melissa Patterson]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
-  --><li style="">[[Ryan Austin]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Manuel Duran">Manuel Duran</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,9 +90,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ian Marcotte]] (stage manager)</li><!--
-  --><li style="">[[Michael Yew]] (sound)</li><!--
-  --><li style="">[[Chad Wellington]] (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Ian Marcotte">Ian Marcotte</a> (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a> (lights)</li><!--
   --><!--
   --><!--
   --><!--

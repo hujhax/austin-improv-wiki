@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Fart Clown Glasses.jpg]]
+				!<a class="internal-link" href="Fart Clown Glasses.jpg">Fart Clown Glasses.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrea Young]]</li><!--
-  --><li style="">[[Chris Trew]]</li><!--
-  --><li style="">[[Jill Morris]]</li><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
   --><!--
   --><!--
   --><!--

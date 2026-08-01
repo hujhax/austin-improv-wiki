@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Bad Boys Pic.jpg]]
+				!<a class="internal-link" href="Bad Boys Pic.jpg">Bad Boys Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Byron Brown]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
-  --><li style="">[[Sam Malcom]]</li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Byron Brown">Byron Brown</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Malcom">Sam Malcom</a></li><!--
   --><!--
   --><!--
   --><!--

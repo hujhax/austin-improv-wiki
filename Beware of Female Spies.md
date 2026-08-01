@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Beware of Female Spies.jpg]]
+				!<a class="internal-link" href="Beware of Female Spies.jpg">Beware of Female Spies.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Emma Holder]]</td>
+			<td class="category"><a class="internal-link" href="Emma Holder">Emma Holder</a></td>
 		</tr>
 
 
@@ -27,8 +27,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Katie Thornton]]</li><!--
-  --><li style="">[[Seth Johnson]]</li><!--
+  --><li style=""><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Seth Johnson">Seth Johnson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,16 +84,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Walther]]</li><!--
-  --><li style="">[[Alejandro Garcia]]</li><!--
-  --><li style="">[[Ashley Nugent]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Chrissy Shackleford]]</li><!--
-  --><li style="">[[Liz Dykes]]</li><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
-  --><li style="" >[[Seth Johnson]]</li><!--
-  --><li style="">[[Taylor Overstreet]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Chrissy Shackleford">Chrissy Shackleford</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Dykes">Liz Dykes</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style="" ><a class="internal-link" href="Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--

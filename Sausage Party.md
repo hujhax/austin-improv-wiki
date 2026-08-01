@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Sausage Party.jpg]]
+				!<a class="internal-link" href="Sausage Party.jpg">Sausage Party.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,20 +16,20 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Nugent]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
-  --><li style="">[[Katie Sicking]]</li><!--
-  --><li style="">[[Kristin Henn]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Liz Brammer]]</li><!--
-  --><li style="">[[Liz Butler]]</li><!--
-  --><li style="" >[[Liz Dykes]]</li><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
-  --><li style="">[[Patricia Tate]]</li><!--
-  --><li style="">[[Sandra Markarian]]</li><!--
-  --><li style="">[[Stephanie Russo]]</li><!--
-  --><li style="">[[Teresa Kubos]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Henn">Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
+  --><li style="" ><a class="internal-link" href="Liz Dykes">Liz Dykes</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
+  --><li style=""><a class="internal-link" href="Sandra Markarian">Sandra Markarian</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Story to the Death Promo.jpg]]
+				!<a class="internal-link" href="Story to the Death Promo.jpg">Story to the Death Promo.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Andy Crouch]]</td>
+			<td class="category"><a class="internal-link" href="Andy Crouch">Andy Crouch</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Aspen Webster]]</td>
+			<td class="category"><a class="internal-link" href="Aspen Webster">Aspen Webster</a></td>
 		</tr>
 
 
@@ -30,8 +30,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob Halgren]] (2016)</li><!--
-  --><li style="">[[KC Ryan]] (2018)</li><!--
+  --><li style=""><a class="internal-link" href="Bob Halgren">Bob Halgren</a> (2016)</li><!--
+  --><li style=""><a class="internal-link" href="KC Ryan">KC Ryan</a> (2018)</li><!--
   --><!--
   --><!--
   --><!--
@@ -89,26 +89,26 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Seriff-Cullick]]</li><!--
-  --><li style="">[[Alex Bennett]]</li><!--
-  --><li style="">[[Angelina Martin]]</li><!--
-  --><li style="">[[Ann Symmonds]]</li><!--
-  --><li style="">[[Annie Shortt]]</li><!--
-  --><li style="">[[Ashley Blom]]</li><!--
-  --><li style="">[[David Ronn]]</li><!--
-  --><li style="">[[Emily McDonald]]</li><!--
-  --><li style="" >[[Espi Rivandeneira]]</li><!--
-  --><li style="">[[Graham Snow]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="">[[Jessica Soos]]</li><!--
-  --><li style="">[[Kay Krasin]]</li><!--
-  --><li style="">[[Ladislao Loera]]</li><!--
-  --><li style="">[[Marc Jalandoon]]</li><!--
-  --><li style="">[[Sushant Sethi]]</li><!--
-  --><li style="">[[Tess Forneris]]</li><!--
-  --><li style="">[[Tosin Awofeso]]</li><!--
-  --><li style="">[[Trent Symmonds]]</li><!--
-  --><li style="">[[Trent Thomson]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Seriff-Cullick">Aaron Seriff-Cullick</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Bennett">Alex Bennett</a></li><!--
+  --><li style=""><a class="internal-link" href="Angelina Martin">Angelina Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Annie Shortt">Annie Shortt</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Blom">Ashley Blom</a></li><!--
+  --><li style=""><a class="internal-link" href="David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
+  --><li style="" ><a class="internal-link" href="Espi Rivandeneira">Espi Rivandeneira</a></li><!--
+  --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
+  --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
+  --><li style=""><a class="internal-link" href="Ladislao Loera">Ladislao Loera</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Jalandoon">Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Tess Forneris">Tess Forneris</a></li><!--
+  --><li style=""><a class="internal-link" href="Tosin Awofeso">Tosin Awofeso</a></li><!--
+  --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -146,11 +146,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Heather Coffee]]</li><!--
-  --><li style="">[[Laura Galan Wells]]</li><!--
-  --><li style="">[[Nichole Bennett]]</li><!--
-  --><li style="">[[Peter Wilde]]</li><!--
-  --><li style="">[[Tori Haddox]]</li><!--
+  --><li style=""><a class="internal-link" href="Heather Coffee">Heather Coffee</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Galan Wells">Laura Galan Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Nichole Bennett">Nichole Bennett</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Wilde">Peter Wilde</a></li><!--
+  --><li style=""><a class="internal-link" href="Tori Haddox">Tori Haddox</a></li><!--
   --><!--
   --><!--
   --><!--

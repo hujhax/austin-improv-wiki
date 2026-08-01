@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ed Melendez]]</li><!--
-  --><li style="">[[Ethan Love]]</li><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Kate Bojanek]]</li><!--
-  --><li style="">[[Kristen Henn]]</li><!--
-  --><li style="">[[Shea Scott]]</li><!--
-  --><li style="">[[Wes Gandy]]</li><!--
+  --><li style=""><a class="internal-link" href="Ed Melendez">Ed Melendez</a></li><!--
+  --><li style=""><a class="internal-link" href="Ethan Love">Ethan Love</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristen Henn">Kristen Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Shea Scott">Shea Scott</a></li><!--
+  --><li style=""><a class="internal-link" href="Wes Gandy">Wes Gandy</a></li><!--
   --><!--
   --><!--
   --><!--

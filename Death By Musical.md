@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Death by musical.jpg]]
+				!<a class="internal-link" href="Death by musical.jpg">Death by musical.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Margaret Hunsicker]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
+  --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,20 +79,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bridget Brewer]]</li><!--
-  --><li style="">[[Chelsea Beth]]</li><!--
-  --><li style="">[[J.R. Zambrano]]</li><!--
-  --><li style="">[[Jordan T Maxwell]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Lahari Samineni]]</li><!--
-  --><li style="">[[Mallory Schlossburg]]</li><!--
-  --><li style="">[[Marc Jalandoon]]</li><!--
-  --><li style="" >[[Marcone Cangassu]]</li><!--
-  --><li style="">[[Margaret Hunsicker]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Ryan Austin]]</li><!--
-  --><li style="">[[Sarah Doering]]</li><!--
-  --><li style="">[[Tyler Groce]]</li><!--
+  --><li style=""><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T Maxwell">Jordan T Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Mallory Schlossburg">Mallory Schlossburg</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Jalandoon">Marc Jalandoon</a></li><!--
+  --><li style="" ><a class="internal-link" href="Marcone Cangassu">Marcone Cangassu</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Doering">Sarah Doering</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
   --><!--
   --><!--
   --><!--

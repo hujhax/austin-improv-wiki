@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,17 +16,17 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Pseudonyms|Alessandra T.]]</li><!--
-  --><li style="">[[Becca Westerkom]]</li><!--
-  --><li style="">[[Caitlin Bumgartner]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Frank Netscher]]</li><!--
-  --><li style="">[[Jeremy Logan]]</li><!--
-  --><li style="">[[John Brewster]]</li><!--
-  --><li style="" >[[Kayla Freeman]]</li><!--
-  --><li style="">[[Milo Smith]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
+  --><li style=""><a class="internal-link" href="Becca Westerkom">Becca Westerkom</a></li><!--
+  --><li style=""><a class="internal-link" href="Caitlin Bumgartner">Caitlin Bumgartner</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Logan">Jeremy Logan</a></li><!--
+  --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kayla Freeman">Kayla Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Milo Smith">Milo Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

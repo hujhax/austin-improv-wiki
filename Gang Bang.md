@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,16 +16,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brian Engravalle]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Jericho Thorp]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Joshua Gill]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Nick Ramirez]]</li><!--
-  --><li style="" >[[Sandra Markarian]]</li><!--
-  --><li style="">[[Todd Schanbacher]]</li><!--
+  --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Gill">Joshua Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sandra Markarian">Sandra Markarian</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Schanbacher">Todd Schanbacher</a></li><!--
   --><!--
   --><!--
   --><!--

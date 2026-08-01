@@ -5,14 +5,14 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Lacy Shawn Profile.jpg]]
+				!<a class="internal-link" href="Lacy Shawn Profile.jpg">Lacy Shawn Profile.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[The Hideout Theatre]]
-	[[Salvage Vanguard Theater]]
-	[[ZACH Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a>
+	<a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a>
+	<a class="internal-link" href="ZACH Theater">ZACH Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

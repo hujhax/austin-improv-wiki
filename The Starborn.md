@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[TheStarborn.jpg]]
+				!<a class="internal-link" href="TheStarborn.jpg">TheStarborn.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ryan Austin]]</li><!--
-  --><li style="">[[Mia Iseman]]</li><!--
+  --><li style=""><a class="internal-link" href="Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Neal Tibrewala]]</li><!--
+  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a></li><!--
   --><!--
   --><!--
   --><!--

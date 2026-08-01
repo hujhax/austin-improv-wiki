@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Teenage Wasteland.jpg]]
+				!<a class="internal-link" href="Teenage Wasteland.jpg">Teenage Wasteland.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jordan T. Maxwell]]</td>
+			<td class="category"><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 
 
@@ -28,15 +28,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Hanna AbuZayed]]</li><!--
-  --><li style="">[[Johnny Anzollitto]]</li><!--
-  --><li style="">[[Jason Burnett]]</li><!--
-  --><li style="">[[Rachel Denton]]</li><!--
-  --><li style="">[[Kyle Grier]]</li><!--
-  --><li style="">[[Margaret Rose Hunsicker]]</li><!--
-  --><li style="">[[Chase Pritchett]]</li><!--
-  --><li style="">[[Danielle Saar]]</li><!--
-  --><li style="" >[[Jessica Soos]]</li><!--
+  --><li style=""><a class="internal-link" href="Hanna AbuZayed">Hanna AbuZayed</a></li><!--
+  --><li style=""><a class="internal-link" href="Johnny Anzollitto">Johnny Anzollitto</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Burnett">Jason Burnett</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Denton">Rachel Denton</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Grier">Kyle Grier</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Chase Pritchett">Chase Pritchett</a></li><!--
+  --><li style=""><a class="internal-link" href="Danielle Saar">Danielle Saar</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,9 +85,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jackie Skinner]] (sound effects)</li><!--
-  --><li style="">[[Joe Anetnucci]] (lights)</li><!--
-  --><li style="">[[Lahari Samineni]] (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Jackie Skinner">Jackie Skinner</a> (sound effects)</li><!--
+  --><li style=""><a class="internal-link" href="Joe Anetnucci">Joe Anetnucci</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a> (scoring)</li><!--
   --><!--
   --><!--
   --><!--

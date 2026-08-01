@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Booker and a Buddy.jpg]]
+				!<a class="internal-link" href="Booker and a Buddy.jpg">Booker and a Buddy.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Tom Booker]]</td>
+			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
 		</tr>
 
 
@@ -27,7 +27,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category">[[Tom Booker]] and one guest</td>
+			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a> and one guest</td>
 		</tr>
 
 

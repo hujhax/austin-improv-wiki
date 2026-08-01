@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Improv Royale.jpg]]
+				!<a class="internal-link" href="Improv Royale.jpg">Improv Royale.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brent Foshee]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Bryan Roberts]]</li><!--
-  --><li style="">[[Dave Buckman]]</li><!--
-  --><li style="">[[Jericho Thorpe]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Nick Ramirez]]</li><!--
-  --><li style="">[[Todd Schaenbacher]]</li><!--
+  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Jericho Thorpe">Jericho Thorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Schaenbacher">Todd Schaenbacher</a></li><!--
   --><!--
   --><!--
   --><!--

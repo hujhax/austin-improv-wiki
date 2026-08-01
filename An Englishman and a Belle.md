@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Englishman and Belle.jpg]]
+				!<a class="internal-link" href="Englishman and Belle.jpg">Englishman and Belle.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Mark Tindle]]</li><!--
-  --><li style="">[[Aspen Webster]]</li><!--
+  --><li style=""><a class="internal-link" href="Mark Tindle">Mark Tindle</a></li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Collin Cannaday]]</li><!--
-  --><li style="">[[Frank Willmore]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[Jenny Carlson]]</li><!--
-  --><li style="">[[Kim Gottschalk]]</li><!--
-  --><li style="">[[Lizzie Leslie]]</li><!--
-  --><li style="">[[Melanie DeMartinis]]</li><!--
-  --><li style="">[[Meredith Newell]]</li><!--
-  --><li style="" >[[Sandra Ybarra]]</li><!--
+  --><li style=""><a class="internal-link" href="Collin Cannaday">Collin Cannaday</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Willmore">Frank Willmore</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
+  --><li style=""><a class="internal-link" href="Kim Gottschalk">Kim Gottschalk</a></li><!--
+  --><li style=""><a class="internal-link" href="Lizzie Leslie">Lizzie Leslie</a></li><!--
+  --><li style=""><a class="internal-link" href="Melanie DeMartinis">Melanie DeMartinis</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Newell">Meredith Newell</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
   --><!--
   --><!--
   --><!--

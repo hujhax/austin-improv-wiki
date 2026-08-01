@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Fakespeare Poster.jpg]]
+				!<a class="internal-link" href="Fakespeare Poster.jpg">Fakespeare Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,21 +79,21 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Austin Terrell]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Caitlin Sweetlamb]]</li><!--
-  --><li style="">[[Jeremy Sweetlamb]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="" >[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Katie Van Winkle]]</li><!--
-  --><li style="">[[Mike Ferstenfeld]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Taylor Flanagan]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Austin Terrell">Austin Terrell</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Van Winkle">Katie Van Winkle</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Ferstenfeld">Mike Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Flanagan">Taylor Flanagan</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,11 +136,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Catherine Arjet]]</li><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Cortney DeAngelo]]</li><!--
-  --><li style="">[[Michael Yew]]</li><!--
-  --><li style="">[[Warren Henderson]]</li><!--
+  --><li style=""><a class="internal-link" href="Catherine Arjet">Catherine Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
+  --><li style=""><a class="internal-link" href="Warren Henderson">Warren Henderson</a></li><!--
   --><!--
   --><!--
   --><!--

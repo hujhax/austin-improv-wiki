@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Tall Tales of the High Seas.jpg]]
+				!<a class="internal-link" href="Tall Tales of the High Seas.jpg">Tall Tales of the High Seas.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,18 +84,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amanda Hinsman]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Claudio Fox]]</li><!--
-  --><li style="">[[Dana Yanoshak]]</li><!--
-  --><li style="">[[Ellen Pizarek]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="" >[[Mary Henderson]]</li><!--
-  --><li style="">[[Megan Moten]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Sushant Sethi]]</li><!--
+  --><li style=""><a class="internal-link" href="Amanda Hinsman">Amanda Hinsman</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Ellen Pizarek">Ellen Pizarek</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Mary Henderson">Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Moten">Megan Moten</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -141,9 +141,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Mark Shoemaker]] (lights, sound)</li><!--
-  --><li style="">[[Zoe Jaye]] (stage manager)</li><!--
-  --><li style="">[[Victoria Hawthorne]] (costumes)</li><!--
+  --><li style=""><a class="internal-link" href="Mark Shoemaker">Mark Shoemaker</a> (lights, sound)</li><!--
+  --><li style=""><a class="internal-link" href="Zoe Jaye">Zoe Jaye</a> (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Victoria Hawthorne">Victoria Hawthorne</a> (costumes)</li><!--
   --><!--
   --><!--
   --><!--

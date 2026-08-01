@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[TheCherryBowl.jpg]]
+				!<a class="internal-link" href="TheCherryBowl.jpg">TheCherryBowl.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Ben Schave]]</td>
+			<td class="category"><a class="internal-link" href="Ben Schave">Ben Schave</a></td>
 		</tr>
 
 
@@ -28,28 +28,28 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Walther]]</li><!--
-  --><li style="">[[Adriane Shown]]</li><!--
-  --><li style="">[[Austin Alexander]]</li><!--
-  --><li style="">[[Ben Schave]]</li><!--
-  --><li style="">[[Bob Galligan]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Dave Alley]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="" >[[Frank Nappi]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="">[[Joel Osborne]]</li><!--
-  --><li style="">[[Joey Hood]]</li><!--
-  --><li style="">[[Jon Cook]]</li><!--
-  --><li style="">[[Kelly Hasandr]]</li><!--
-  --><li style="">[[Kerri Lendo]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Meghan Morongova]]</li><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
-  --><li style="">[[Nate Dunaway]]</li><!--
-  --><li style="">[[Niki Jacobsen-Torres]]</li><!--
-  --><li style="">[[Zac Carr]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Austin Alexander">Austin Alexander</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Schave">Ben Schave</a></li><!--
+  --><li style=""><a class="internal-link" href="Bob Galligan">Bob Galligan</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Alley">Dave Alley</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style="" ><a class="internal-link" href="Frank Nappi">Frank Nappi</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Osborne">Joel Osborne</a></li><!--
+  --><li style=""><a class="internal-link" href="Joey Hood">Joey Hood</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Cook">Jon Cook</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelly Hasandr">Kelly Hasandr</a></li><!--
+  --><li style=""><a class="internal-link" href="Kerri Lendo">Kerri Lendo</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Meghan Morongova">Meghan Morongova</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Nate Dunaway">Nate Dunaway</a></li><!--
+  --><li style=""><a class="internal-link" href="Niki Jacobsen-Torres">Niki Jacobsen-Torres</a></li><!--
+  --><li style=""><a class="internal-link" href="Zac Carr">Zac Carr</a></li><!--
   --><!--
   --><!--
   --><!--

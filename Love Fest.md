@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Love Fest.jpg ‎]]
+				!<a class="internal-link" href="Love Fest.jpg ‎">Love Fest.jpg ‎</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Clifton Highfield]]</td>
+			<td class="category"><a class="internal-link" href="Clifton Highfield">Clifton Highfield</a></td>
 		</tr>
 
 
@@ -28,19 +28,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="">[[Andrew Basile]]</li><!--
-  --><li style="">[[Ashley Jayne Carlisle]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Mitchell Deane]]</li><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Scott Hearne]]</li><!--
-  --><li style="">[[Clifton Highfield]]</li><!--
-  --><li style="" >[[Ryan Hill]]</li><!--
-  --><li style="">[[Brandon Martin]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
-  --><li style="">[[Sarah Swofford]]</li><!--
-  --><li style="">[[Dana Yanoshak]]</li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Ashley Jayne Carlisle">Ashley Jayne Carlisle</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Hearne">Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style="" ><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -92,8 +92,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Feb 2014]]</li><!--
-  --><li style="">[[Feb 2015]]</li><!--
+  --><li style=""><a class="internal-link" href="Feb 2014">Feb 2014</a></li><!--
+  --><li style=""><a class="internal-link" href="Feb 2015">Feb 2015</a></li><!--
   --><!--
   --><!--
   --><!--

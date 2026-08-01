@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amanda Hinsman]]</li><!--
-  --><li style="">[[Blake Reinhart]]</li><!--
-  --><li style="">[[Greg Blank]]</li><!--
-  --><li style="">[[Jennifer Brinlee]]</li><!--
-  --><li style="">[[Lindsay Hejl]]</li><!--
-  --><li style="">[[Tim Stiefler]]</li><!--
+  --><li style=""><a class="internal-link" href="Amanda Hinsman">Amanda Hinsman</a></li><!--
+  --><li style=""><a class="internal-link" href="Blake Reinhart">Blake Reinhart</a></li><!--
+  --><li style=""><a class="internal-link" href="Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Brinlee">Jennifer Brinlee</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Tim Stiefler">Tim Stiefler</a></li><!--
   --><!--
   --><!--
   --><!--

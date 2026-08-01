@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Jukebox.jpg]]
+				!<a class="internal-link" href="Jukebox.jpg">Jukebox.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Allison Asher]]</li><!--
-  --><li style="">[[Amy O'Connor]]</li><!--
-  --><li style="">[[Arby Gonzales]]</li><!--
-  --><li style="">[[Chris Sebilia]]</li><!--
-  --><li style="">[[Jen Bernard]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Todd Geldon]]</li><!--
-  --><li style="">[[Zack Phillips]]</li><!--
+  --><li style=""><a class="internal-link" href="Allison Asher">Allison Asher</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
+  --><li style=""><a class="internal-link" href="Arby Gonzales">Arby Gonzales</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Sebilia">Chris Sebilia</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Bernard">Jen Bernard</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
+  --><li style=""><a class="internal-link" href="Zack Phillips">Zack Phillips</a></li><!--
   --><!--
   --><!--
   --><!--

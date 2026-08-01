@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Disco Box.jpg]]
+				!<a class="internal-link" href="Disco Box.jpg">Disco Box.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Walther]]</li><!--
-  --><li style="">[[Ariel Greenspoon]]</li><!--
-  --><li style="">[[Christina Parrish]]</li><!--
-  --><li style="">[[G-su Paek]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Ariel Greenspoon">Ariel Greenspoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Christina Parrish">Christina Parrish</a></li><!--
+  --><li style=""><a class="internal-link" href="G-su Paek">G-su Paek</a></li><!--
   --><!--
   --><!--
   --><!--

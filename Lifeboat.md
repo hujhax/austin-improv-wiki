@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Lifeboat.jpg]]
+				!<a class="internal-link" href="Lifeboat.jpg">Lifeboat.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Arthur Simone]]</li><!--
-  --><li style="">[[Beth Lebwohl]]</li><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Delaney Liming]]</li><!--
-  --><li style="">[[Drew Wesely]]</li><!--
-  --><li style="">[[Gene Joe]]</li><!--
-  --><li style="">[[Jenny Carlson]]</li><!--
+  --><li style=""><a class="internal-link" href="Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Beth Lebwohl">Beth Lebwohl</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Delaney Liming">Delaney Liming</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
   --><!--
   --><!--
   --><!--

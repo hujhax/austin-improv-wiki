@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Not This American Life.jpg]]
+				!<a class="internal-link" href="Not This American Life.jpg">Not This American Life.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Michael Ferstenfeld]]</li><!--
-  --><li style="">[[Asaf Ronen]]</li><!--
+  --><li style=""><a class="internal-link" href="Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,25 +79,25 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Buck]]</li><!--
-  --><li style="">[[Annabel Guevara]]</li><!--
-  --><li style="">[[Brandon Martin]]</li><!--
-  --><li style="">[[Colin Bates]]</li><!--
-  --><li style="">[[Dan Kerrigan]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Gene Zhou]]</li><!--
-  --><li style="">[[Heidi Caldwell]]</li><!--
-  --><li style="" >[[Heidi Rogers]]</li><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Kevin Miller]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Mars Wright]]</li><!--
-  --><li style="">[[Nicole Beckley]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Sam Schak]]</li><!--
-  --><li style="">[[Teresa York]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Buck">Andy Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Annabel Guevara">Annabel Guevara</a></li><!--
+  --><li style=""><a class="internal-link" href="Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Dan Kerrigan">Dan Kerrigan</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style="" ><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Mars Wright">Mars Wright</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa York">Teresa York</a></li><!--
   --><!--
   --><!--
   --><!--

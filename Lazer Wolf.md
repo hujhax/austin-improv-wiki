@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[LazerWolf.jpg]]
+				!<a class="internal-link" href="LazerWolf.jpg">LazerWolf.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Eileen Alter]]</li><!--
-  --><li style="">[[Rob Chenoweth]]</li><!--
-  --><li style="">[[Elaine Chung]]</li><!--
-  --><li style="">[[Leyla Cohlmia]]</li><!--
-  --><li style="">[[Rachel Creason]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Lisa Hurst]]</li><!--
-  --><li style="">[[Dimitri Khosrowpour]]</li><!--
-  --><li style="" >[[Tania Quintanilla]]</li><!--
+  --><li style=""><a class="internal-link" href="Eileen Alter">Eileen Alter</a></li><!--
+  --><li style=""><a class="internal-link" href="Rob Chenoweth">Rob Chenoweth</a></li><!--
+  --><li style=""><a class="internal-link" href="Elaine Chung">Elaine Chung</a></li><!--
+  --><li style=""><a class="internal-link" href="Leyla Cohlmia">Leyla Cohlmia</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Creason">Rachel Creason</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Hurst">Lisa Hurst</a></li><!--
+  --><li style=""><a class="internal-link" href="Dimitri Khosrowpour">Dimitri Khosrowpour</a></li><!--
+  --><li style="" ><a class="internal-link" href="Tania Quintanilla">Tania Quintanilla</a></li><!--
   --><!--
   --><!--
   --><!--

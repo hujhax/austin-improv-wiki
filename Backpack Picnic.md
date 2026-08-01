@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Backpack Picnic.jpg]]
+				!<a class="internal-link" href="Backpack Picnic.jpg">Backpack Picnic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Bewley]]</li><!--
-  --><li style="">[[Jeremy Lamb]]</li><!--
-  --><li style="">[[Mitch Baker]]</li><!--
-  --><li style="">[[René Pinnell]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
+  --><li style=""><a class="internal-link" href="David Bewley">David Bewley</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitch Baker">Mitch Baker</a></li><!--
+  --><li style=""><a class="internal-link" href="René Pinnell">René Pinnell</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--

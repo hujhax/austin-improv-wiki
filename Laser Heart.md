@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Laser Heart.jpg]]
+				!<a class="internal-link" href="Laser Heart.jpg">Laser Heart.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Allen Rogers]]</li><!--
-  --><li style="">[[Andy Sams]]</li><!--
-  --><li style="">[[Ellen Kubecka]]</li><!--
-  --><li style="">[[Reagan Ward]]</li><!--
+  --><li style=""><a class="internal-link" href="Allen Rogers">Allen Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Sams">Andy Sams</a></li><!--
+  --><li style=""><a class="internal-link" href="Ellen Kubecka">Ellen Kubecka</a></li><!--
+  --><li style=""><a class="internal-link" href="Reagan Ward">Reagan Ward</a></li><!--
   --><!--
   --><!--
   --><!--

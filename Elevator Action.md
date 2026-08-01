@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Elevator Action.jpg]]
+				!<a class="internal-link" href="Elevator Action.jpg">Elevator Action.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[David Hess]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
-  --><li style="">[[Joshua Krilov]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Liz Brammer]]</li><!--
-  --><li style="">[[Max Lipschitz]]</li><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
-  --><li style="" >[[Sandra Markarian]]</li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Max Lipschitz">Max Lipschitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sandra Markarian">Sandra Markarian</a></li><!--
   --><!--
   --><!--
   --><!--

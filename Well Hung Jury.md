@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Well Hung Jury.jpg]]
+				!<a class="internal-link" href="Well Hung Jury.jpg">Well Hung Jury.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,18 +16,18 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Aaron Saenz]]</li><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Amy McCurdy]]</li><!--
-  --><li style="">[[Andrei Haq]]</li><!--
-  --><li style="">[[Audrey Rachel Sansom]]</li><!--
-  --><li style="">[[Ben Sterling]]</li><!--
-  --><li style="">[[Bill Stern]]</li><!--
-  --><li style="">[[James Aldredge]]</li><!--
-  --><li style="" >[[Jeffrey Amos]]</li><!--
-  --><li style="">[[Jeremy Lamb]]</li><!--
-  --><li style="">[[Jonathan Benner]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style=""><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrei Haq">Andrei Haq</a></li><!--
+  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Sterling">Ben Sterling</a></li><!--
+  --><li style=""><a class="internal-link" href="Bill Stern">Bill Stern</a></li><!--
+  --><li style=""><a class="internal-link" href="James Aldredge">James Aldredge</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jeffrey Amos">Jeffrey Amos</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Jonathan Benner">Jonathan Benner</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--

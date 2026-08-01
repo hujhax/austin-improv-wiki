@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Sketchville.jpg]]
+				!<a class="internal-link" href="Sketchville.jpg">Sketchville.jpg</a>
 			</td>
 		</tr>
 
@@ -29,23 +29,23 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andy Fleming</li><!--
-  --><li style="">[[Bob Apthorpe]]</li><!--
+  --><li style=""><a class="internal-link" href="Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style="">Brit Reese</li><!--
   --><li style="">Chibbi Orduna</li><!--
   --><li style="">Erick Anderson</li><!--
   --><li style="">Jake Pool</li><!--
   --><li style="">Jason Yackov</li><!--
-  --><li style="">[[Jeff Britt]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
   --><li style="" >Jeremy Dozier</li><!--
-  --><li style="">[[JM Specht]]</li><!--
+  --><li style=""><a class="internal-link" href="JM Specht">JM Specht</a></li><!--
   --><li style="">John Daws</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style="">Karin L. Kross</li><!--
   --><li style="">Kirk Landson</li><!--
   --><li style="">Lani Steffens</li><!--
   --><li style="">Miguel Jimenez</li><!--
   --><li style="">Mike Dunlop</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
   --><li style="">Philip Emanuel</li><!--
   --><!--
   --><!--
@@ -99,7 +99,7 @@
   --><li style="">Micah Sampson</li><!--
   --><li style="">Nancy Smith</li><!--
   --><li style="">Nick Fang</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--

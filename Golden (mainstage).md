@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Golden.jpg]]
+				!<a class="internal-link" href="Golden.jpg">Golden.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Marc Majcher]]</td>
+			<td class="category"><a class="internal-link" href="Marc Majcher">Marc Majcher</a></td>
 		</tr>
 
 
@@ -28,16 +28,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brandon Martin]]</li><!--
-  --><li style="">[[Heidi Penix]]</li><!--
-  --><li style="">[[Jessica von Schramm]]</li><!--
-  --><li style="">[[Kathleen McFerrin]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="">[[Patrick Creamer]]</li><!--
-  --><li style="">[[Rachel Denton]]</li><!--
-  --><li style="">[[Robert Slack]]</li><!--
-  --><li style="" >[[Suzanne Link]]</li><!--
-  --><li style="">[[Tyler Lane]]</li><!--
+  --><li style=""><a class="internal-link" href="Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Penix">Heidi Penix</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Kathleen McFerrin">Kathleen McFerrin</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Denton">Rachel Denton</a></li><!--
+  --><li style=""><a class="internal-link" href="Robert Slack">Robert Slack</a></li><!--
+  --><li style="" ><a class="internal-link" href="Suzanne Link">Suzanne Link</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,8 +85,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Danielle Saar]]</li><!--
-  --><li style="">[[R. Lance Hunter]]</li><!--
+  --><li style=""><a class="internal-link" href="Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="R. Lance Hunter">R. Lance Hunter</a></li><!--
   --><!--
   --><!--
   --><!--

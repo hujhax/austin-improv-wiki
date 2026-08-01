@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Stag Comedy.jpg]]
+				!<a class="internal-link" href="Stag Comedy.jpg">Stag Comedy.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Rosas]]</li><!--
-  --><li style="">[[Dave Youmans]]</li><!--
-  --><li style="">[[David Jara]]</li><!--
-  --><li style="">[[Joe Parsons]]</li><!--
-  --><li style="">[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Mac Blake]]</li><!--
-  --><li style="">[[Ximena Estrada]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Rosas">Andrew Rosas</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Youmans">Dave Youmans</a></li><!--
+  --><li style=""><a class="internal-link" href="David Jara">David Jara</a></li><!--
+  --><li style=""><a class="internal-link" href="Joe Parsons">Joe Parsons</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
+  --><li style=""><a class="internal-link" href="Ximena Estrada">Ximena Estrada</a></li><!--
   --><!--
   --><!--
   --><!--

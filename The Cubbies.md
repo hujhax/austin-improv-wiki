@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Cubbies.jpg]]
+				!<a class="internal-link" href="The Cubbies.jpg">The Cubbies.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Christie Grace]]</li><!--
-  --><li style="">[[Dan Grimm]]</li><!--
-  --><li style="">[[Javier Smith]]</li><!--
-  --><li style="">[[Sarah Price]]</li><!--
-  --><li style="">[[Thomas Niland]]</li><!--
+  --><li style=""><a class="internal-link" href="Christie Grace">Christie Grace</a></li><!--
+  --><li style=""><a class="internal-link" href="Dan Grimm">Dan Grimm</a></li><!--
+  --><li style=""><a class="internal-link" href="Javier Smith">Javier Smith</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Price">Sarah Price</a></li><!--
+  --><li style=""><a class="internal-link" href="Thomas Niland">Thomas Niland</a></li><!--
   --><!--
   --><!--
   --><!--

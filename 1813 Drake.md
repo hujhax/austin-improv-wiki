@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Jay Bernardo]] (2006-2007)</li><!--
-  --><li style="">[[Asaf Ronen]] (2007-2008)</li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a> (2006-2007)</li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a> (2007-2008)</li><!--
   --><!--
   --><!--
   --><!--

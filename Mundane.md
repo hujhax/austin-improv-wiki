@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cristy Rivera]]</li><!--
-  --><li style="">[[Daniel Howard]]</li><!--
-  --><li style="">[[Dave Michaels]]</li><!--
-  --><li style="">[[Jessica Tate]]</li><!--
-  --><li style="">[[Joseph Robert Dailey]]</li><!--
-  --><li style="">[[Xaria J'stone Coleman]]</li><!--
-  --><li style="">[[Zachary Braver]]</li><!--
+  --><li style=""><a class="internal-link" href="Cristy Rivera">Cristy Rivera</a></li><!--
+  --><li style=""><a class="internal-link" href="Daniel Howard">Daniel Howard</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Michaels">Dave Michaels</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Tate">Jessica Tate</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Robert Dailey">Joseph Robert Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="Xaria J'stone Coleman">Xaria J'stone Coleman</a></li><!--
+  --><li style=""><a class="internal-link" href="Zachary Braver">Zachary Braver</a></li><!--
   --><!--
   --><!--
   --><!--

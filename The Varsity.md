@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,18 +16,18 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brent Foshe]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Drew Wesley]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Jared Stepp]]</li><!--
-  --><li style="">[[Joshua Gill]]</li><!--
-  --><li style="">[[Julia Kirchen]]</li><!--
-  --><li style="" >[[Kate Bojanek]]</li><!--
-  --><li style="">[[Kyle Sweeney]]</li><!--
-  --><li style="">[[Lisa Jackson]]</li><!--
-  --><li style="">[[Michael Williams]]</li><!--
+  --><li style=""><a class="internal-link" href="Brent Foshe">Brent Foshe</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Drew Wesley">Drew Wesley</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Gill">Joshua Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Julia Kirchen">Julia Kirchen</a></li><!--
+  --><li style="" ><a class="internal-link" href="Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a></li><!--
   --><!--
   --><!--
   --><!--

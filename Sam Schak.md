@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Sam Schak.jpg]]
+				!<a class="internal-link" href="Sam Schak.jpg">Sam Schak.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[The Institution Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theatre">The Institution Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

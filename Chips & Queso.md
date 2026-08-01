@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Chips & Queso.jpg]]
+				!<a class="internal-link" href="Chips & Queso.jpg">Chips & Queso.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Matthew Giles]]</li><!--
-  --><li style="">[[Regina Soto]]</li><!--
+  --><li style=""><a class="internal-link" href="Matthew Giles">Matthew Giles</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
   --><!--
   --><!--
   --><!--

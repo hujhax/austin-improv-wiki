@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Gene Zhou]]</li><!--
-  --><li style="">[[Katherine Greco]]</li><!--
-  --><li style="">[[Monica Torres]]</li><!--
-  --><li style="">[[Nancy Lyon]]</li><!--
-  --><li style="">[[Regina Soto]]</li><!--
-  --><li style="">[[Sandra Ybarra]]</li><!--
-  --><li style="">[[Todd Geldon]]</li><!--
+  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Katherine Greco">Katherine Greco</a></li><!--
+  --><li style=""><a class="internal-link" href="Monica Torres">Monica Torres</a></li><!--
+  --><li style=""><a class="internal-link" href="Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
   --><!--
   --><!--
   --><!--

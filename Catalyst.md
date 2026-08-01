@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Catalyst.jpg]]
+				!<a class="internal-link" href="Catalyst.jpg">Catalyst.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Jayne Carlisle]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Jayne Carlisle">Ashley Jayne Carlisle</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
   --><!--
   --><!--
   --><!--

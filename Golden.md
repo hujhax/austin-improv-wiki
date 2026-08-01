@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Golden (troupe).jpg]]
+				!<a class="internal-link" href="Golden (troupe).jpg">Golden (troupe).jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,20 +15,20 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Marc Majcher]]</td>
+			<td class="category"><a class="internal-link" href="Marc Majcher">Marc Majcher</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brandon Martin]]</li><!--
-  --><li style="">[[Jayme Ramsay]] (2015-Present)</li><!--
-  --><li style="">[[Jessica von Schramm]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="">[[Marc Majcher]] (2015-Present)</li><!--
-  --><li style="">[[Robert Slack]]</li><!--
-  --><li style="">[[Suzanne Link]]</li><!--
-  --><li style="">[[Tyler Lane]]</li><!--
+  --><li style=""><a class="internal-link" href="Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Suzanne Link">Suzanne Link</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
   --><!--

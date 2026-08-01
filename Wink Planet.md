@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Wink Planet.jpg]]
+				!<a class="internal-link" href="Wink Planet.jpg">Wink Planet.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Siebels]]</li><!--
-  --><li style="">[[Jared Robertson]]</li><!--
-  --><li style="">[[Matt Vaught]]</li><!--
-  --><li style="">[[Sanjay Rao]]</li><!--
-  --><li style="">[[Taylor Stewart]]</li><!--
-  --><li style="">[[Steve Moore]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Siebels">Ashley Siebels</a></li><!--
+  --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Vaught">Matt Vaught</a></li><!--
+  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Stewart">Taylor Stewart</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
   --><!--
   --><!--
   --><!--

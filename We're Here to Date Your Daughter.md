@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[WHTDYD.jpg]]
+				!<a class="internal-link" href="WHTDYD.jpg">WHTDYD.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Gene Zhou]]</li><!--
-  --><li style="">[[Jennifer Dorsey]]</li><!--
-  --><li style="">[[Katherine Greco]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Regina Soto]]</li><!--
-  --><li style="">[[Sandra Ybarra]]</li><!--
-  --><li style="">[[Todd Geldon]]</li><!--
+  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Dorsey">Jennifer Dorsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Katherine Greco">Katherine Greco</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
   --><!--
   --><!--
   --><!--

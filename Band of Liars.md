@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Band of Liars.jpg]]
+				!<a class="internal-link" href="Band of Liars.jpg">Band of Liars.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Daniel Rigney]]</li><!--
-  --><li style="">[[Jackie Myers]]</li><!--
-  --><li style="">[[Michael Ferstenfeld]]</li><!--
-  --><li style="">[[Paul Wainwright]]</li><!--
-  --><li style="">[[Petra Kelsey]]</li><!--
-  --><li style="">[[Todd Mein]]</li><!--
-  --><li style="">[[Jason Laney]]</li><!--
+  --><li style=""><a class="internal-link" href="Daniel Rigney">Daniel Rigney</a></li><!--
+  --><li style=""><a class="internal-link" href="Jackie Myers">Jackie Myers</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Wainwright">Paul Wainwright</a></li><!--
+  --><li style=""><a class="internal-link" href="Petra Kelsey">Petra Kelsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Mein">Todd Mein</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Laney">Jason Laney</a></li><!--
   --><!--
   --><!--
   --><!--

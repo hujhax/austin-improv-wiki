@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[TGIS.jpg]]
+				!<a class="internal-link" href="TGIS.jpg">TGIS.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cody Dearing]] ("Buddies")</li><!--
-  --><li style="">[[Courtney Sevener]] ("Boy Greets World")</li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a> ("Buddies")</li><!--
+  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a> ("Boy Greets World")</li><!--
   --><!--
   --><!--
   --><!--
@@ -79,19 +79,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Basile]]</li><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Carlos LaRotta]]</li><!--
-  --><li style="">[[Cody Dearing]]</li><!--
-  --><li style="">[[Emma Holder]]</li><!--
-  --><li style="">[[Gary Richardson]]</li><!--
-  --><li style="">[[Jeff Whitaker]]</li><!--
-  --><li style="">[[Jenna Marie Carey]]</li><!--
-  --><li style="" >[[Lance Gilstrap]]</li><!--
-  --><li style="">[[Matt Needles]]</li><!--
-  --><li style="">[[Meredith Mae Roberts]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Carlos LaRotta">Carlos LaRotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenna Marie Carey">Jenna Marie Carey</a></li><!--
+  --><li style="" ><a class="internal-link" href="Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

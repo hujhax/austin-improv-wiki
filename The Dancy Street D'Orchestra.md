@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[DancyStreet.jpg]]
+				!<a class="internal-link" href="DancyStreet.jpg">DancyStreet.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,17 +16,17 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Averett]]</li><!--
-  --><li style="">[[Chelsea Gilman]]</li><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
-  --><li style="">[[Howard Katz]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Madi Goff]]</li><!--
-  --><li style="">[[Mo Daviau]]</li><!--
-  --><li style="">[[Neal Tibrewala]]</li><!--
-  --><li style="" >[[Peter Rogers]]</li><!--
-  --><li style="">[[Susannah Raulino]]</li><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Madi Goff">Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Mo Daviau">Mo Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Susannah Raulino">Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

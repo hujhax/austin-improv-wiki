@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Je Ju.jpg]]
+				!<a class="internal-link" href="Je Ju.jpg">Je Ju.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jeanette Jones]]</li><!--
-  --><li style="">[[Justin Bozied]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Bozied">Justin Bozied</a></li><!--
   --><!--
   --><!--
   --><!--

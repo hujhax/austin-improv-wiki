@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Conspiracy Butter.jpg]]
+				!<a class="internal-link" href="Conspiracy Butter.jpg">Conspiracy Butter.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Brian Boyko]]</li><!--
-  --><li style="">[[Chris Trew]]</li><!--
+  --><li style=""><a class="internal-link" href="Brian Boyko">Brian Boyko</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
   --><!--
   --><!--
   --><!--

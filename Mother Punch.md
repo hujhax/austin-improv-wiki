@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Mother Punch.jpg]]
+				!<a class="internal-link" href="Mother Punch.jpg">Mother Punch.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chelsea Beth]]</li><!--
-  --><li style="">[[David Chambers]]</li><!--
-  --><li style="">[[Donnie Garcia]]</li><!--
-  --><li style="">[[Jenn Hamm]]</li><!--
-  --><li style="">[[Jon Fortenbury]]</li><!--
-  --><li style="">[[Monica Maher]]</li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="David Chambers">David Chambers</a></li><!--
+  --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Fortenbury">Jon Fortenbury</a></li><!--
+  --><li style=""><a class="internal-link" href="Monica Maher">Monica Maher</a></li><!--
   --><!--
   --><!--
   --><!--

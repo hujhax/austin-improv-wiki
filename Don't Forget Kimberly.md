@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Don't Forget Kimberly.jpg]]
+				!<a class="internal-link" href="Don't Forget Kimberly.jpg">Don't Forget Kimberly.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Niederpurem]]</li><!--
-  --><li style="">[[David Schwartz]]</li><!--
-  --><li style="">[[Justin Davidson]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Niederpurem">Adam Niederpurem</a></li><!--
+  --><li style=""><a class="internal-link" href="David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Davidson">Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--

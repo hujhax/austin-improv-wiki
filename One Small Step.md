@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[One-Small-Step-Poster-2015-web-small.jpg]]
+				!<a class="internal-link" href="One-Small-Step-Poster-2015-web-small.jpg">One-Small-Step-Poster-2015-web-small.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andreas Fabis]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
+  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,14 +84,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amanda Hinsman]]</li><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Chris Canada]]</li><!--
-  --><li style="">[[Cindy Page]]</li><!--
-  --><li style="">[[Courtney Ray Goodson]]</li><!--
-  --><li style="">[[David Ronn]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style=""><a class="internal-link" href="Amanda Hinsman">Amanda Hinsman</a></li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Canada">Chris Canada</a></li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Ray Goodson">Courtney Ray Goodson</a></li><!--
+  --><li style=""><a class="internal-link" href="David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -141,8 +141,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Donnie Garcia]] (sound)</li><!--
-  --><li style="">[[Ripley Adams]] (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Ripley Adams">Ripley Adams</a> (lights)</li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Waterpark Publicity.jpg]]
+				!<a class="internal-link" href="Waterpark Publicity.jpg">Waterpark Publicity.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Niederpruem]]</li><!--
-  --><li style="">[[Amy Pacheco Jordan]]</li><!--
-  --><li style="">[[Justin Davidson]]</li><!--
-  --><li style="">[[Justin Strackany]]</li><!--
-  --><li style="">[[Megan Poncho Simon]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Niederpruem">Adam Niederpruem</a></li><!--
+  --><li style=""><a class="internal-link" href="Amy Pacheco Jordan">Amy Pacheco Jordan</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Davidson">Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Strackany">Justin Strackany</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Poncho Simon">Megan Poncho Simon</a></li><!--
   --><!--
   --><!--
   --><!--

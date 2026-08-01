@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Doin Maintenance.jpg]]
+				!<a class="internal-link" href="Doin Maintenance.jpg">Doin Maintenance.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amy Wright]]</li><!--
-  --><li style="">[[Chris Albano]]</li><!--
-  --><li style="">[[David Ronn]]</li><!--
-  --><li style="">[[Jillian Summar]]</li><!--
-  --><li style="">[[Stuart Feild]]</li><!--
+  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Stuart Feild">Stuart Feild</a></li><!--
   --><!--
   --><!--
   --><!--

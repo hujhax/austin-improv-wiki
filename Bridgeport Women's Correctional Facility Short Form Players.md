@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Bridgeport Women's Correctional Facility Short Form Players.jpg]]
+				!<a class="internal-link" href="Bridgeport Women's Correctional Facility Short Form Players.jpg">Bridgeport Women's Correctional Facility Short Form Players.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,24 +15,24 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Erika May McNichol]]</td>
+			<td class="category"><a class="internal-link" href="Erika May McNichol">Erika May McNichol</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chrissy Shackleford]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Erika May McNichol]]</li><!--
-  --><li style="">[[Jen Cargill]]</li><!--
-  --><li style="">[[Jill Morris]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Katie Thornton]]</li><!--
-  --><li style="" >[[Lisa Jackson]]</li><!--
-  --><li style="">[[Pseudonyms|Madeline M.]]</li><!--
-  --><li style="">[[Rachel Madorsky]]</li><!--
-  --><li style="">[[Tami Nelson]]</li><!--
+  --><li style=""><a class="internal-link" href="Chrissy Shackleford">Chrissy Shackleford</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Cargill">Jen Cargill</a></li><!--
+  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
+  --><li style="" ><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Tami Nelson">Tami Nelson</a></li><!--
   --><!--
   --><!--
   --><!--

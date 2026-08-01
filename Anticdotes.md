@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Anticdotes.jpg]]
+				!<a class="internal-link" href="Anticdotes.jpg">Anticdotes.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Britney Salyer]]</li><!--
-  --><li style="">[[Evan T. Atherton]]</li><!--
-  --><li style="">[[Gary Richardson]]</li><!--
-  --><li style="">[[Linsdey Reeves]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
+  --><li style=""><a class="internal-link" href="Britney Salyer">Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Evan T. Atherton">Evan T. Atherton</a></li><!--
+  --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
+  --><li style=""><a class="internal-link" href="Linsdey Reeves">Linsdey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--

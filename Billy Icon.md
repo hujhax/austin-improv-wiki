@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Billy Icon.jpg]]
+				!<a class="internal-link" href="Billy Icon.jpg">Billy Icon.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Joshua Krilov]]</li><!--
-  --><li style="">[[Stephanie Russo]]</li><!--
+  --><li style=""><a class="internal-link" href="Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
   --><!--
   --><!--
   --><!--

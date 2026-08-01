@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Opener.jpg]]
+				!<a class="internal-link" href="The Opener.jpg">The Opener.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Hotel Vegas]]</td>
+			<td class="category"><a class="internal-link" href="Hotel Vegas">Hotel Vegas</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dean Kirkpatrick]] (co-host)</li><!--
-  --><li style="">[[Eric Nagurney]] (co-host)</li><!--
+  --><li style=""><a class="internal-link" href="Dean Kirkpatrick">Dean Kirkpatrick</a> (co-host)</li><!--
+  --><li style=""><a class="internal-link" href="Eric Nagurney">Eric Nagurney</a> (co-host)</li><!--
   --><!--
   --><!--
   --><!--

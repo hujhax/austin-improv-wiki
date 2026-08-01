@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Happiness is a Choice.jpg]]
+				!<a class="internal-link" href="Happiness is a Choice.jpg">Happiness is a Choice.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Jon Clinkenbeard]]</li><!--
-  --><li style="">[[Michael Ferstenfeld]]</li><!--
-  --><li style="">[[Paul Wainright]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Wainright">Paul Wainright</a></li><!--
   --><!--
   --><!--
   --><!--

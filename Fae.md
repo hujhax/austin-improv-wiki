@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Fae.jpg]]
+				!<a class="internal-link" href="Fae.jpg">Fae.jpg</a>
 			</td>
 		</tr>
 
@@ -16,7 +16,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Sara Farr]]</td>
+			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
 		</tr>
 
 
@@ -26,7 +26,7 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Puppet Improv Project]]</td>
+			<td class="category"><a class="internal-link" href="Puppet Improv Project">Puppet Improv Project</a></td>
 		</tr>
 
 

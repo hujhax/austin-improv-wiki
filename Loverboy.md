@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Loverboy.jpg]]
+				!<a class="internal-link" href="Loverboy.jpg">Loverboy.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cene Hale]]</li><!--
-  --><li style="">[[Chelsea Bunn]]</li><!--
-  --><li style="">[[Kim Lowery]]</li><!--
-  --><li style="">[[Maria Pond]]</li><!--
-  --><li style="">[[Stephanie Thoreson]]</li><!--
-  --><li style="">[[Taylor Stewart]]</li><!--
+  --><li style=""><a class="internal-link" href="Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Bunn">Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Kim Lowery">Kim Lowery</a></li><!--
+  --><li style=""><a class="internal-link" href="Maria Pond">Maria Pond</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Thoreson">Stephanie Thoreson</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Stewart">Taylor Stewart</a></li><!--
   --><!--
   --><!--
   --><!--

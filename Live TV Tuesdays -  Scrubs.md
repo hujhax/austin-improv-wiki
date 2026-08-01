@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays - Scrubs.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays - Scrubs.jpg">Live TV Tuesdays - Scrubs.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Madeline Jo Chauvin]]</li><!--
-  --><li style="">[[Kevin Machate]]</li><!--
+  --><li style=""><a class="internal-link" href="Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,9 +78,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Diana Caldwell]]</li><!--
-  --><li style="">[[Jesse Prebix]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
+  --><li style=""><a class="internal-link" href="Diana Caldwell">Diana Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Jesse Prebix">Jesse Prebix</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -135,20 +135,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Mengesha]]</li><!--
-  --><li style="">[[Adriane Shown]]</li><!--
-  --><li style="">[[Andy Hush]]</li><!--
-  --><li style="">[[Ben Howell]]</li><!--
-  --><li style="">[[Benjamin Scott]]</li><!--
-  --><li style="">[[Carrie H. Stephens]]</li><!--
-  --><li style="">[[Chris Villafano]]</li><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
-  --><li style="" >[[Howard Katz]]</li><!--
-  --><li style="">[[Madeline Jo Chauvin]]</li><!--
-  --><li style="">[[Kevin Machate]]</li><!--
-  --><li style="">[[Laura Komkov]]</li><!--
-  --><li style="">[[Richard Dodwell]]</li><!--
-  --><li style="">[[Tatiana Artis]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Hush">Andy Hush</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Howell">Ben Howell</a></li><!--
+  --><li style=""><a class="internal-link" href="Benjamin Scott">Benjamin Scott</a></li><!--
+  --><li style=""><a class="internal-link" href="Carrie H. Stephens">Carrie H. Stephens</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Villafano">Chris Villafano</a></li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style="" ><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
+  --><li style=""><a class="internal-link" href="Richard Dodwell">Richard Dodwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Tatiana Artis">Tatiana Artis</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -192,9 +192,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[BK McKee]]</li><!--
-  --><li style="">[[Neal Tibrewala]]</li><!--
-  --><li style="">[[Todd Hart]]</li><!--
+  --><li style=""><a class="internal-link" href="BK McKee">BK McKee</a></li><!--
+  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

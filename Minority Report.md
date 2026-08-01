@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Minority Report.jpg]]
+				!<a class="internal-link" href="Minority Report.jpg">Minority Report.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cristy Salinas]]</li><!--
-  --><li style="">[[Jessica von Schramm]]</li><!--
-  --><li style="">[[Lahari Samineni]]</li><!--
-  --><li style="">[[Linzy Beltran]]</li><!--
+  --><li style=""><a class="internal-link" href="Cristy Salinas">Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica von Schramm">Jessica von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
   --><!--
   --><!--
   --><!--

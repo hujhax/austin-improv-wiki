@@ -5,25 +5,25 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Live TV Tuesdays- Buffy.jpg]]
+				!<a class="internal-link" href="Live TV Tuesdays- Buffy.jpg">Live TV Tuesdays- Buffy.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jordan T. Maxwell]]</td>
+			<td class="category"><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,21 +84,21 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amanda Garfield]]</li><!--
-  --><li style="">[[Andrew Pish]]</li><!--
-  --><li style="">[[Brett Tribe]]</li><!--
-  --><li style="">[[Bryan Cruz]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Derek Diaz]]</li><!--
-  --><li style="">[[Guy Vizard]]</li><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="" >[[Jennifer Blair]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
-  --><li style="">[[Stephanie Hagemeister]]</li><!--
+  --><li style=""><a class="internal-link" href="Amanda Garfield">Amanda Garfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Pish">Andrew Pish</a></li><!--
+  --><li style=""><a class="internal-link" href="Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Derek Diaz">Derek Diaz</a></li><!--
+  --><li style=""><a class="internal-link" href="Guy Vizard">Guy Vizard</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style="" ><a class="internal-link" href="Jennifer Blair">Jennifer Blair</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -142,11 +142,11 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Carlos San Miguel</li><!--
-  --><li style="">[[Chelley Pyatt]]</li><!--
+  --><li style=""><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><li style="">James Downing</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Leann Fryer]]</li><!--
-  --><li style="">[[Lisa Marie Kull]]</li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Leann Fryer">Leann Fryer</a></li><!--
+  --><li style=""><a class="internal-link" href="Lisa Marie Kull">Lisa Marie Kull</a></li><!--
   --><!--
   --><!--
   --><!--

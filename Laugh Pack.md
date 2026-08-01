@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Laugh Pack.jpg]]
+				!<a class="internal-link" href="Laugh Pack.jpg">Laugh Pack.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bobby DiPasquale]]</li><!--
-  --><li style="">[[Daniel Sawtelle]]</li><!--
-  --><li style="">[[Dario Konjicija]]</li><!--
+  --><li style=""><a class="internal-link" href="Bobby DiPasquale">Bobby DiPasquale</a></li><!--
+  --><li style=""><a class="internal-link" href="Daniel Sawtelle">Daniel Sawtelle</a></li><!--
+  --><li style=""><a class="internal-link" href="Dario Konjicija">Dario Konjicija</a></li><!--
   --><!--
   --><!--
   --><!--

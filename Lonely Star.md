@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Lonely Star Poster.jpg]]
+				!<a class="internal-link" href="Lonely Star Poster.jpg">Lonely Star Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jordan T. Maxwell]]</td>
+			<td class="category"><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Aspen Webster]]</td>
+			<td class="category"><a class="internal-link" href="Aspen Webster">Aspen Webster</a></td>
 		</tr>
 
 
@@ -33,14 +33,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jayme Ramsay]]</li><!--
-  --><li style="">[[Josh Santo]]</li><!--
-  --><li style="">[[Kelly Campbell]]</li><!--
-  --><li style="">[[Lena Long]]</li><!--
-  --><li style="">[[Manuel Duran]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Rachel Posey Austin]]</li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Santo">Josh Santo</a></li><!--
+  --><li style=""><a class="internal-link" href="Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Lena Long">Lena Long</a></li><!--
+  --><li style=""><a class="internal-link" href="Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,10 +90,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Page]] (lights)</li><!--
-  --><li style="">[[Emily Cawood]] (costume design)</li><!--
-  --><li style="">[[Lindsey McGowen]] (scoring)</li><!--
-  --><li style="">[[Sarah Hutchins]] (sound effects)</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Page">Cindy Page</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Emily Cawood">Emily Cawood</a> (costume design)</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Sarah Hutchins">Sarah Hutchins</a> (sound effects)</li><!--
   --><!--
   --><!--
   --><!--

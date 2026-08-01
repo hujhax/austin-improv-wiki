@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Snackers.png]]
+				!<a class="internal-link" href="Snackers.png">Snackers.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Albert Im]] (2007-2008)</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[James Roberts]]</li><!--
-  --><li style="">[[Katie Thornton]]</li><!--
-  --><li style="">[[Mark Carpenter]]</li><!--
+  --><li style=""><a class="internal-link" href="Albert Im">Albert Im</a> (2007-2008)</li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Mark Carpenter">Mark Carpenter</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Buzz Band.jpg]]
+				!<a class="internal-link" href="Buzz Band.jpg">Buzz Band.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Karen Jane DeWitt]]</li><!--
-  --><li style="">[[Nicole Beckley]]</li><!--
+  --><li style=""><a class="internal-link" href="Karen Jane DeWitt">Karen Jane DeWitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Beckley">Nicole Beckley</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,17 +79,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Johnston]]</li><!--
-  --><li style="">[[Chad Wellington]]</li><!--
-  --><li style="">[[David Ronn]]</li><!--
-  --><li style="">[[J.R. Zambrano]]</li><!--
-  --><li style="">[[Jordan Maxwell]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Manuel Duran]]</li><!--
-  --><li style="">[[Mary Henderson]]</li><!--
-  --><li style="" >[[Megan Sherrod]]</li><!--
-  --><li style="">[[Megan Simon]]</li><!--
-  --><li style="">[[Sarah Swofford]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Johnston">Andrew Johnston</a></li><!--
+  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan Maxwell">Jordan Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Mary Henderson">Mary Henderson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Megan Sherrod">Megan Sherrod</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Simon">Megan Simon</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Swofford">Sarah Swofford</a></li><!--
   --><!--
   --><!--
   --><!--

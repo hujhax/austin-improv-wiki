@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Theft Forum Pic.jpg]]
+				!<a class="internal-link" href="The Theft Forum Pic.jpg">The Theft Forum Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,7 +15,7 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Scott Hearne]]</td>
+			<td class="category"><a class="internal-link" href="Scott Hearne">Scott Hearne</a></td>
 		</tr>
 
 		<tr class="">

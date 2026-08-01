@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Dance Battle.jpg]]
+				!<a class="internal-link" href="Dance Battle.jpg">Dance Battle.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Lacy Shawn]]</td>
+			<td class="category"><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></td>
 		</tr>
 
 

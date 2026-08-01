@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Chris Villafano Pic.jpg]]
+				!<a class="internal-link" href="Chris Villafano Pic.jpg">Chris Villafano Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[The Hideout Theatre]],[[ColdTowne Theater]],[[The New Movement]],[[The Institution Theater]],[[Merlin Works]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a>,<a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a>,<a class="internal-link" href="The New Movement">The New Movement</a>,<a class="internal-link" href="The Institution Theater">The Institution Theater</a>,<a class="internal-link" href="Merlin Works">Merlin Works</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Benjamen Babcock]]</li><!--
-  --><li style="">[[Brian O'Neill]]</li><!--
-  --><li style="">[[Kim Lowery]]</li><!--
-  --><li style="">[[Lance Nealy]]</li><!--
-  --><li style="">[[Stewart Chow]]</li><!--
+  --><li style=""><a class="internal-link" href="Benjamen Babcock">Benjamen Babcock</a></li><!--
+  --><li style=""><a class="internal-link" href="Brian O'Neill">Brian O'Neill</a></li><!--
+  --><li style=""><a class="internal-link" href="Kim Lowery">Kim Lowery</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Nealy">Lance Nealy</a></li><!--
+  --><li style=""><a class="internal-link" href="Stewart Chow">Stewart Chow</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Field Day.jpg]]
+				!<a class="internal-link" href="Field Day.jpg">Field Day.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,17 +15,17 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Ruby Willmann]]</td>
+			<td class="category"><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Albano]]</li><!--
-  --><li style="">[[David Schwartz]]</li><!--
-  --><li style="">[[Judith Schomp]]</li><!--
-  --><li style="">[[Lindsay Hejl]]</li><!--
-  --><li style="">[[Michael Bowman]]</li><!--
+  --><li style=""><a class="internal-link" href="Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
   --><!--
   --><!--
   --><!--

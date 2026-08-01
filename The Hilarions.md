@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Hilarions.jpg]]
+				!<a class="internal-link" href="The Hilarions.jpg">The Hilarions.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,17 +16,17 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Angela Davis]]</li><!--
-  --><li style="">[[Bill Fagan]]</li><!--
-  --><li style="">[[Chris Bonno]]</li><!--
-  --><li style="">[[De Lewellen]]</li><!--
-  --><li style="">[[Linda Wetherby]]</li><!--
-  --><li style="">[[Margaret Wiley]]</li><!--
-  --><li style="">[[Michael Caldwell]]</li><!--
-  --><li style="">[[Rachel Winfree]]</li><!--
-  --><li style="" >[[Robert Faires]]</li><!--
-  --><li style="">[[Rodney Rincon]]</li><!--
-  --><li style="">[[Shannon Sedwick]]</li><!--
+  --><li style=""><a class="internal-link" href="Angela Davis">Angela Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Bill Fagan">Bill Fagan</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Bonno">Chris Bonno</a></li><!--
+  --><li style=""><a class="internal-link" href="De Lewellen">De Lewellen</a></li><!--
+  --><li style=""><a class="internal-link" href="Linda Wetherby">Linda Wetherby</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Wiley">Margaret Wiley</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Caldwell">Michael Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Winfree">Rachel Winfree</a></li><!--
+  --><li style="" ><a class="internal-link" href="Robert Faires">Robert Faires</a></li><!--
+  --><li style=""><a class="internal-link" href="Rodney Rincon">Rodney Rincon</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon Sedwick">Shannon Sedwick</a></li><!--
   --><!--
   --><!--
   --><!--

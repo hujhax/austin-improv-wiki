@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Worst First Date.jpg]]
+				!<a class="internal-link" href="Worst First Date.jpg">Worst First Date.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lahari Samineni]]</li><!--
-  --><li style="">[[Lance Hunter]]</li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Hunter">Lance Hunter</a></li><!--
   --><!--
   --><!--
   --><!--

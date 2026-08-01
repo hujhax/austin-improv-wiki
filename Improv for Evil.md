@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Improv for Evil.jpg]]
+				!<a class="internal-link" href="Improv for Evil.jpg">Improv for Evil.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,14 +16,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob Apthorpe]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Matt Pollock]]</li><!--
-  --><li style="">[[Mike Kinald]]</li><!--
-  --><li style="">[[Mo Daviau]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style=""><a class="internal-link" href="Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Pollock">Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Kinald">Mike Kinald</a></li><!--
+  --><li style=""><a class="internal-link" href="Mo Daviau">Mo Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Andrew & Jeremy Hypnotize Each Other!.png]]
+				!<a class="internal-link" href="Andrew & Jeremy Hypnotize Each Other!.png">Andrew & Jeremy Hypnotize Each Other!.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andrew Schwartz]]</li><!--
-  --><li style="">[[Jeremy Moran]]</li><!--
+  --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeremy Moran">Jeremy Moran</a></li><!--
   --><!--
   --><!--
   --><!--

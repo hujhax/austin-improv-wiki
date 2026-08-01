@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy O'Meara]]</li><!--
-  --><li style="">[[Ben McVey]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[John Chakales]]</li><!--
-  --><li style="">[[Joshua Philips]]</li><!--
-  --><li style="">[[Sam Malcolm]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy O'Meara">Andy O'Meara</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben McVey">Ben McVey</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="John Chakales">John Chakales</a></li><!--
+  --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
   --><!--
   --><!--
   --><!--

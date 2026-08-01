@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Superwhore.jpg]]
+				!<a class="internal-link" href="Superwhore.jpg">Superwhore.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Amber Quick]]</li><!--
-  --><li style="">[[Brently Heilbron]]</li><!--
-  --><li style="">[[Bryan 'Lubu' Roberts]]</li><!--
-  --><li style="">[[Meredith Roberts]]</li><!--
-  --><li style="">[[Sam Schak]]</li><!--
-  --><li style="">[[Will Cleveland]]</li><!--
+  --><li style=""><a class="internal-link" href="Amber Quick">Amber Quick</a></li><!--
+  --><li style=""><a class="internal-link" href="Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Roberts">Meredith Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Will Cleveland">Will Cleveland</a></li><!--
   --><!--
   --><!--
   --><!--

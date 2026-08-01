@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The NASA Musical Outreach Program.jpg]]
+				!<a class="internal-link" href="The NASA Musical Outreach Program.jpg">The NASA Musical Outreach Program.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Patrick Daniel]]</li><!--
-  --><li style="">[[Ryan Thomas]]</li><!--
+  --><li style=""><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Thomas">Ryan Thomas</a></li><!--
   --><!--
   --><!--
   --><!--

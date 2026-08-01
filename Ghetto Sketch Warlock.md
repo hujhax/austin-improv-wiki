@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Ghetto Sketch Warlock.jpg]]
+				!<a class="internal-link" href="Ghetto Sketch Warlock.jpg">Ghetto Sketch Warlock.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,7 +15,7 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
-			<td class="category">[[Bryan 'Lubu' Roberts]]</td>
+			<td class="category"><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></td>
 		</tr>
 
 

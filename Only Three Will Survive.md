@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Only Three Will Survive.jpg]]
+				!<a class="internal-link" href="Only Three Will Survive.jpg">Only Three Will Survive.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Allison Asher]]</td>
+			<td class="category"><a class="internal-link" href="Allison Asher">Allison Asher</a></td>
 		</tr>
 
 
@@ -33,16 +33,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Tyler Booker]]</li><!--
-  --><li style="">[[Kathy Rose Center]]</li><!--
-  --><li style="">[[Megan Moten]]</li><!--
-  --><li style="">[[Taylor Overstreet]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
-  --><li style="" >[[Wyatt Tall]]</li><!--
-  --><li style="">[[Ruby Willmann]]</li><!--
+  --><li style=""><a class="internal-link" href="Tyler Booker">Tyler Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Kathy Rose Center">Kathy Rose Center</a></li><!--
+  --><li style=""><a class="internal-link" href="Megan Moten">Megan Moten</a></li><!--
+  --><li style=""><a class="internal-link" href="Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
+  --><li style="" ><a class="internal-link" href="Wyatt Tall">Wyatt Tall</a></li><!--
+  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Addison Billingsly]]</li><!--
-  --><li style="">[[AJ Holler]]</li><!--
-  --><li style="">[[Clint Harris]]</li><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Matthew Wells]]</li><!--
+  --><li style=""><a class="internal-link" href="Addison Billingsly">Addison Billingsly</a></li><!--
+  --><li style=""><a class="internal-link" href="AJ Holler">AJ Holler</a></li><!--
+  --><li style=""><a class="internal-link" href="Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Wells">Matthew Wells</a></li><!--
   --><!--
   --><!--
   --><!--

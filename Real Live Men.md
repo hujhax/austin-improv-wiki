@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Real Live Men.jpg]]
+				!<a class="internal-link" href="Real Live Men.jpg">Real Live Men.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Michael Jastroch]]</li><!--
-  --><li style="">[[Sam Malcolm]]</li><!--
-  --><li style="">[[Will Cleveland]]</li><!--
+  --><li style=""><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Will Cleveland">Will Cleveland</a></li><!--
   --><!--
   --><!--
   --><!--

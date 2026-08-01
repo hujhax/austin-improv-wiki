@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ericka Bundy]]</li><!--
-  --><li style="">[[Jennifer Moore]]</li><!--
-  --><li style="">[[Lahari Samineni]]</li><!--
-  --><li style="">[[Matt Davis]]</li><!--
-  --><li style="">[[Mike Rubinov]]</li><!--
-  --><li style="">[[Sarah DiCaprio]]</li><!--
+  --><li style=""><a class="internal-link" href="Ericka Bundy">Ericka Bundy</a></li><!--
+  --><li style=""><a class="internal-link" href="Jennifer Moore">Jennifer Moore</a></li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Davis">Matt Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Rubinov">Mike Rubinov</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah DiCaprio">Sarah DiCaprio</a></li><!--
   --><!--
   --><!--
   --><!--

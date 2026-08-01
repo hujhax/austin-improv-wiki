@@ -5,29 +5,29 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Clickclickwhir.jpg]]
+				!<a class="internal-link" href="Clickclickwhir.jpg">Clickclickwhir.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Valerie Ward]]</td>
+			<td class="category"><a class="internal-link" href="Valerie Ward">Valerie Ward</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Luke Wallens]]</td>
+			<td class="category"><a class="internal-link" href="Luke Wallens">Luke Wallens</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Jay Mahavier]]</td>
+			<td class="category"><a class="internal-link" href="Jay Mahavier">Jay Mahavier</a></td>
 		</tr>
 
 
@@ -38,14 +38,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cindy Brio]]</li><!--
-  --><li style="">[[Frank Sánchez]]</li><!--
-  --><li style="">[[Kendall Raymond]]</li><!--
-  --><li style="">[[Marissa Macy]]</li><!--
-  --><li style="">[[Mary Henderson]]</li><!--
-  --><li style="">[[Shane Gannaway]]</li><!--
-  --><li style="">[[Trent Thomson]]</li><!--
-  --><li style="">[[Way Spurr-Chen]]</li><!--
+  --><li style=""><a class="internal-link" href="Cindy Brio">Cindy Brio</a></li><!--
+  --><li style=""><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a></li><!--
+  --><li style=""><a class="internal-link" href="Kendall Raymond">Kendall Raymond</a></li><!--
+  --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
+  --><li style=""><a class="internal-link" href="Mary Henderson">Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Shane Gannaway">Shane Gannaway</a></li><!--
+  --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
+  --><li style=""><a class="internal-link" href="Way Spurr-Chen">Way Spurr-Chen</a></li><!--
   --><!--
   --><!--
   --><!--

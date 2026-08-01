@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Laff Staff.jpg]]
+				!<a class="internal-link" href="The Laff Staff.jpg">The Laff Staff.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,20 +15,20 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Rodney Rincon]]</td>
+			<td class="category"><a class="internal-link" href="Rodney Rincon">Rodney Rincon</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Andy Weisberg]]</li><!--
-  --><li style="">[[Angela Davis]]</li><!--
-  --><li style="">[[Chris Bonno]]</li><!--
-  --><li style="">[[De Lewellen]]</li><!--
-  --><li style="">[[Ed Toutant]]</li><!--
-  --><li style="">[[Joe Coleman]] (pianist)</li><!--
-  --><li style="">[[Mike Emody]]</li><!--
-  --><li style="">[[Robert Faires]]</li><!--
+  --><li style=""><a class="internal-link" href="Andy Weisberg">Andy Weisberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Angela Davis">Angela Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Bonno">Chris Bonno</a></li><!--
+  --><li style=""><a class="internal-link" href="De Lewellen">De Lewellen</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Toutant">Ed Toutant</a></li><!--
+  --><li style=""><a class="internal-link" href="Joe Coleman">Joe Coleman</a> (pianist)</li><!--
+  --><li style=""><a class="internal-link" href="Mike Emody">Mike Emody</a></li><!--
+  --><li style=""><a class="internal-link" href="Robert Faires">Robert Faires</a></li><!--
   --><!--
   --><!--
   --><!--

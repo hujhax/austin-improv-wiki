@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Miller and Lies.jpg]]
+				!<a class="internal-link" href="Miller and Lies.jpg">Miller and Lies.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Erica Lies]]</li><!--
-  --><li style="">[[Nat Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
   --><!--
   --><!--
   --><!--

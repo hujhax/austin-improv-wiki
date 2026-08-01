@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Adam Trabka]]</li><!--
-  --><li style="">[[Chaz Formichella]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Joel Usher]]</li><!--
-  --><li style="">[[Matt Derman]]</li><!--
-  --><li style="">[[Sam Van Metre]]</li><!--
+  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
+  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Usher">Joel Usher</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
   --><!--
   --><!--
   --><!--

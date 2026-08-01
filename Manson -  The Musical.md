@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Manson - The Musical.jpg]]
+				!<a class="internal-link" href="Manson - The Musical.jpg">Manson - The Musical.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Tom Booker]]</td>
+			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
 		</tr>
 
 
@@ -28,20 +28,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ashley Lowe]]</li><!--
-  --><li style="">[[Beth Shea]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Heath Allyn]]</li><!--
-  --><li style="">[[Heidi Caldwell]]</li><!--
-  --><li style="">[[Joel Ausanka Reese]]</li><!--
-  --><li style="">[[Josh Gill]]</li><!--
-  --><li style="">[[Kevin Machate]]</li><!--
-  --><li style="" >[[Laura Komkov]]</li><!--
-  --><li style="">[[Madeline Chauvin]]</li><!--
-  --><li style="">[[Robin Anderson]]</li><!--
-  --><li style="">[[Roxy Castillo]]</li><!--
-  --><li style="">[[Steve Glazer]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
+  --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
+  --><li style=""><a class="internal-link" href="Beth Shea">Beth Shea</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Ausanka Reese">Joel Ausanka Reese</a></li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style="" ><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
+  --><li style=""><a class="internal-link" href="Madeline Chauvin">Madeline Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Roxy Castillo">Roxy Castillo</a></li><!--
+  --><li style=""><a class="internal-link" href="Steve Glazer">Steve Glazer</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,10 +85,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Carissa McAtee]]</li><!--
-  --><li style="">[[Doug Ewart]]</li><!--
-  --><li style="">[[Joel Ausanka Reese]]</li><!--
-  --><li style="">[[Tom Booker]]</li><!--
+  --><li style=""><a class="internal-link" href="Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Doug Ewart">Doug Ewart</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Ausanka Reese">Joel Ausanka Reese</a></li><!--
+  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--

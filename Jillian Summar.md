@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Jillian Summar.jpg]]
+				!<a class="internal-link" href="Jillian Summar.jpg">Jillian Summar.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[The Hideout Theatre]], [[The Institution Theater]] [[Merlin Works]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a>, <a class="internal-link" href="The Institution Theater">The Institution Theater</a> <a class="internal-link" href="Merlin Works">Merlin Works</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

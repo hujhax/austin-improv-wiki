@@ -5,25 +5,25 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Great Mundane.jpg]]
+				!<a class="internal-link" href="The Great Mundane.jpg">The Great Mundane.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Jay Bernardo]]</td>
+			<td class="category"><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jon Hunt]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
+  --><li style=""><a class="internal-link" href="Jon Hunt">Jon Hunt</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,11 +84,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Christina Bain]]</li><!--
-  --><li style="">[[Jay Bernardo]]</li><!--
-  --><li style="">[[Jeffrey Amos]]</li><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style=""><a class="internal-link" href="Christina Bain">Christina Bain</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a></li><!--
+  --><li style=""><a class="internal-link" href="Jeffrey Amos">Jeffrey Amos</a></li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
   --><!--
   --><!--
   --><!--

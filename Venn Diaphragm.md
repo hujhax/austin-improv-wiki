@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Venn Diaphragm.jpg]]
+				!<a class="internal-link" href="Venn Diaphragm.jpg">Venn Diaphragm.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Erica Lies]]</li><!--
-  --><li style="">[[Nat Miller]]</li><!--
-  --><li style="">[[Nitra Gutierrez]]</li><!--
-  --><li style="">[[Pierce Purselley]]</li><!--
+  --><li style=""><a class="internal-link" href="Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Nitra Gutierrez">Nitra Gutierrez</a></li><!--
+  --><li style=""><a class="internal-link" href="Pierce Purselley">Pierce Purselley</a></li><!--
   --><!--
   --><!--
   --><!--

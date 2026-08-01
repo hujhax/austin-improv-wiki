@@ -5,12 +5,12 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![[Aaron Walther Pic.jpg]]
+				!<a class="internal-link" href="Aaron Walther Pic.jpg">Aaron Walther Pic.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category">[[The New Movement Theater]]</td>
+			<td class="category"><a class="internal-link" href="The New Movement Theater">The New Movement Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

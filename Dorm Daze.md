@@ -5,15 +5,15 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Dorm Daze.jpg]]
+				!<a class="internal-link" href="Dorm Daze.jpg">Dorm Daze.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[ColdTowne Theater]] (2014)</li><!--
-  --><li style="">[[Institution Theater]] (2015)</li><!--
+  --><li style=""><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a> (2014)</li><!--
+  --><li style=""><a class="internal-link" href="Institution Theater">Institution Theater</a> (2015)</li><!--
   --><!--
   --><!--
   --><!--
@@ -84,8 +84,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bad Font]]</li><!--
-  --><li style="">[[Empty Promises]]</li><!--
+  --><li style=""><a class="internal-link" href="Bad Font">Bad Font</a></li><!--
+  --><li style=""><a class="internal-link" href="Empty Promises">Empty Promises</a></li><!--
   --><!--
   --><!--
   --><!--

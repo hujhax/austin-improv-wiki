@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,19 +15,19 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Liz Brammer]]</td>
+			<td class="category"><a class="internal-link" href="Liz Brammer">Liz Brammer</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Delanie Liming]]</li><!--
-  --><li style="">[[Jenny Carlson]]</li><!--
-  --><li style="">[[Katie Sicking]]</li><!--
-  --><li style="">[[Liz Brammer]]</li><!--
-  --><li style="">[[Stephanie Russo]]</li><!--
-  --><li style="">[[Teresa Kubos]]</li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Delanie Liming">Delanie Liming</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
   --><!--
   --><!--
   --><!--

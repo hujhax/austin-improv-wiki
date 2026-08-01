@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Dumbasses.jpg]]
+				!<a class="internal-link" href="Dumbasses.jpg">Dumbasses.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Marcus Hysmith]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
+  --><li style=""><a class="internal-link" href="Marcus Hysmith">Marcus Hysmith</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
   --><!--
   --><!--
   --><!--

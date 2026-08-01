@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Addison Billingsley]]</li><!--
-  --><li style="">[[Danny Catlow]]</li><!--
-  --><li style="">[[Ed Reed]]</li><!--
-  --><li style="">[[Eric Rutherford]]</li><!--
-  --><li style="">[[Jack Leahy]]</li><!--
-  --><li style="">[[Max Lipschitz]]</li><!--
-  --><li style="">[[Sam Malcom]]</li><!--
+  --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
+  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style=""><a class="internal-link" href="Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Rutherford">Eric Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Jack Leahy">Jack Leahy</a></li><!--
+  --><li style=""><a class="internal-link" href="Max Lipschitz">Max Lipschitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Sam Malcom">Sam Malcom</a></li><!--
   --><!--
   --><!--
   --><!--

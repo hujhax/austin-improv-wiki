@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[My Friend Stripey.jpg]]
+				!<a class="internal-link" href="My Friend Stripey.jpg">My Friend Stripey.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Rosenbaum]]</li><!--
-  --><li style="">[[Kim Roche]]</li><!--
-  --><li style="">[[Matt Craighead]]</li><!--
-  --><li style="">[[Nancy Lyon]]</li><!--
-  --><li style="">[[Neal Tibrewala]]</li><!--
-  --><li style="">[[Susannah Raulino]]</li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Kim Roche">Kim Roche</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Craighead">Matt Craighead</a></li><!--
+  --><li style=""><a class="internal-link" href="Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

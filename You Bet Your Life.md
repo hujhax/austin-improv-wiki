@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[You Bet Your Life.jpg]]
+				!<a class="internal-link" href="You Bet Your Life.jpg">You Bet Your Life.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Robert Slack]]</li><!--
-  --><li style="">[[Tim Coyle]]</li><!--
+  --><li style=""><a class="internal-link" href="Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Tim Coyle">Tim Coyle</a></li><!--
   --><!--
   --><!--
   --><!--

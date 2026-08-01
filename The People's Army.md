@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Troupe default image.png]]
+				!<a class="internal-link" href="Troupe default image.png">Troupe default image.png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Alex Baia]]</li><!--
-  --><li style="">[[Liz Dykes]]</li><!--
-  --><li style="">[[Mike Faerber]]</li><!--
-  --><li style="">[[Nathan Livni]]</li><!--
-  --><li style="">[[Nicole McCracken]]</li><!--
-  --><li style="">[[Rick Heineman]]</li><!--
-  --><li style="">[[Tej Ludher]]</li><!--
+  --><li style=""><a class="internal-link" href="Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Liz Dykes">Liz Dykes</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Faerber">Mike Faerber</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Livni">Nathan Livni</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Rick Heineman">Rick Heineman</a></li><!--
+  --><li style=""><a class="internal-link" href="Tej Ludher">Tej Ludher</a></li><!--
   --><!--
   --><!--
   --><!--

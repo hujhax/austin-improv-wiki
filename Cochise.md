@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Cochise Poster.jpg]]
+				!<a class="internal-link" href="Cochise Poster.jpg">Cochise Poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bob Apthorpe]] ([[Improv for Evil]] runs)</li><!--
-  --><li style="">[[Marc Majcher]] (all runs)</li><!--
+  --><li style=""><a class="internal-link" href="Bob Apthorpe">Bob Apthorpe</a> (<a class="internal-link" href="Improv for Evil">Improv for Evil</a> runs)</li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a> (all runs)</li><!--
   --><!--
   --><!--
   --><!--
@@ -84,19 +84,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Barrett Phelan]]</li><!--
-  --><li style="">[[Bob Apthorpe]]</li><!--
-  --><li style="">[[Emma Czarnecki]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Ericka Bundy]]</li><!--
-  --><li style="">[[Greg Blank]]</li><!--
-  --><li style="">[[Haley Alea Erickson]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="" >[[Joshua Santo]]</li><!--
-  --><li style="">[[Manuel Duran]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Matt Pollock]]</li><!--
-  --><li style="">[[Matthew Davis]]</li><!--
+  --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
+  --><li style=""><a class="internal-link" href="Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Ericka Bundy">Ericka Bundy</a></li><!--
+  --><li style=""><a class="internal-link" href="Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style="" ><a class="internal-link" href="Joshua Santo">Joshua Santo</a></li><!--
+  --><li style=""><a class="internal-link" href="Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Pollock">Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Davis">Matthew Davis</a></li><!--
   --><!--
   --><!--
   --><!--

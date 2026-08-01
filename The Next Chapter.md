@@ -5,23 +5,23 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[NextChapter-poster.jpg]]
+				!<a class="internal-link" href="NextChapter-poster.jpg">NextChapter-poster.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Justin Bozied]]</td>
+			<td class="category"><a class="internal-link" href="Justin Bozied">Justin Bozied</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Jessie Pascarelli]]</td>
+			<td class="category"><a class="internal-link" href="Jessie Pascarelli">Jessie Pascarelli</a></td>
 		</tr>
 
 
@@ -33,16 +33,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Justin Bozied]]</li><!--
-  --><li style="">[[Jessie Pascarelli]]</li><!--
-  --><li style="">[[Brad Hawkins]]</li><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Ben Masten]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
-  --><li style="">[[Jessie Pitluk]]</li><!--
-  --><li style="">[[Heidi Rogers]]</li><!--
-  --><li style="" >[[Megan Venable]]</li><!--
-  --><li style="">[[Luke Wallens]]</li><!--
+  --><li style=""><a class="internal-link" href="Justin Bozied">Justin Bozied</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Ben Masten">Ben Masten</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessie Pitluk">Jessie Pitluk</a></li><!--
+  --><li style=""><a class="internal-link" href="Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style="" ><a class="internal-link" href="Megan Venable">Megan Venable</a></li><!--
+  --><li style=""><a class="internal-link" href="Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--

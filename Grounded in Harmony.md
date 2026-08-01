@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Grounded in Harmony.jpg]]
+				!<a class="internal-link" href="Grounded in Harmony.jpg">Grounded in Harmony.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bobby Stover]]</li><!--
-  --><li style="">[[Claudio Fox]]</li><!--
-  --><li style="">[[Frances Nguyen]]</li><!--
-  --><li style="">[[Ian Townsend]]</li><!--
-  --><li style="">[[Javier Ungo]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
-  --><li style="">[[Justin Soileau]]</li><!--
-  --><li style="">[[Lance Nealy]]</li><!--
-  --><li style="" >[[Sanjay Rao]]</li><!--
+  --><li style=""><a class="internal-link" href="Bobby Stover">Bobby Stover</a></li><!--
+  --><li style=""><a class="internal-link" href="Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Frances Nguyen">Frances Nguyen</a></li><!--
+  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin Soileau">Justin Soileau</a></li><!--
+  --><li style=""><a class="internal-link" href="Lance Nealy">Lance Nealy</a></li><!--
+  --><li style="" ><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

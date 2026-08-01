@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Miserable Skillet.jpg]]
+				!<a class="internal-link" href="Miserable Skillet.jpg">Miserable Skillet.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Cortnie Jones]]</li><!--
-  --><li style="">[[Jessica Marpe]]</li><!--
-  --><li style="">[[Maria Pond]]</li><!--
-  --><li style="">[[Molly Moore]]</li><!--
-  --><li style="">[[Naomi Perryman]]</li><!--
+  --><li style=""><a class="internal-link" href="Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Maria Pond">Maria Pond</a></li><!--
+  --><li style=""><a class="internal-link" href="Molly Moore">Molly Moore</a></li><!--
+  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[KidsOnBikes.jpg]]
+				!<a class="internal-link" href="KidsOnBikes.jpg">KidsOnBikes.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jordan T. Maxwell]]</li><!--
-  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><li style=""><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,22 +79,22 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Rachel Austin]]</li><!--
-  --><li style="">[[Marcone Cangussu]]</li><!--
-  --><li style="">[[Caeriel Crestin]]</li><!--
-  --><li style="">[[Neil Dorsey]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Angie Epley]]</li><!--
-  --><li style="">[[Haley Alea Erickson]]</li><!--
-  --><li style="">[[Tyler Groce]]</li><!--
-  --><li style="" >[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Jessica Soos]]</li><!--
-  --><li style="">[[Alex Walker]]</li><!--
-  --><li style="">[[Aspen Webster]]</li><!--
-  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><li style=""><a class="internal-link" href="Rachel Austin">Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Marcone Cangussu">Marcone Cangussu</a></li><!--
+  --><li style=""><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Angie Epley">Angie Epley</a></li><!--
+  --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
+  --><li style="" ><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
+  --><li style=""><a class="internal-link" href="Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--

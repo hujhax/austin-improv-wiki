@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Golden Age.jpg]]
+				!<a class="internal-link" href="Golden Age.jpg">Golden Age.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,15 +16,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Pseudonyms|Alessandra T.]]</li><!--
-  --><li style="">[[Andrew Basile]]</li><!--
-  --><li style="">[[Cody Greenlee]]</li><!--
-  --><li style="">[[Dave Michaels]]</li><!--
-  --><li style="">[[Jake Milward]]</li><!--
-  --><li style="">[[Joseph Dailey]]</li><!--
-  --><li style="">[[Matt Needles]]</li><!--
-  --><li style="">[[Nathan Sowell]]</li><!--
-  --><li style="" >[[Will Casto]]</li><!--
+  --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Cody Greenlee">Cody Greenlee</a></li><!--
+  --><li style=""><a class="internal-link" href="Dave Michaels">Dave Michaels</a></li><!--
+  --><li style=""><a class="internal-link" href="Jake Milward">Jake Milward</a></li><!--
+  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style="" ><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
   --><!--
   --><!--
   --><!--

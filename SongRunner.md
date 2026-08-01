@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[SongRunner.jpg]]
+				!<a class="internal-link" href="SongRunner.jpg">SongRunner.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ammon Taylor]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
+  --><li style=""><a class="internal-link" href="Ammon Taylor">Ammon Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -94,15 +94,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Creighton Moench]]</li><!--
-  --><li style="">[[Emma Czarnecki]]</li><!--
-  --><li style="">[[Haley Alea Erickson]]</li><!--
-  --><li style="">[[J. R. Zambrano]]</li><!--
-  --><li style="">[[John Mendell]]</li><!--
-  --><li style="">[[Joy Parks]]</li><!--
-  --><li style="">[[Lindsay Hejl]]</li><!--
-  --><li style="">[[Rachel Creason]]</li><!--
-  --><li style="" >[[Steve Jaffe]]</li><!--
+  --><li style=""><a class="internal-link" href="Creighton Moench">Creighton Moench</a></li><!--
+  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
+  --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="John Mendell">John Mendell</a></li><!--
+  --><li style=""><a class="internal-link" href="Joy Parks">Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Rachel Creason">Rachel Creason</a></li><!--
+  --><li style="" ><a class="internal-link" href="Steve Jaffe">Steve Jaffe</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -151,8 +151,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Greg Blank]]</li><!--
-  --><li style="">[[Kyle Grier]]</li><!--
+  --><li style=""><a class="internal-link" href="Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Grier">Kyle Grier</a></li><!--
   --><!--
   --><!--
   --><!--

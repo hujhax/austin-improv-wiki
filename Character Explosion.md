@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Character Explosion.jpg]]
+				!<a class="internal-link" href="Character Explosion.jpg">Character Explosion.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Carolyn Gjertsen]]</li><!--
-  --><li style="">[[Jenn Hamm]]</li><!--
-  --><li style="">[[Kathleen McFerren]]</li><!--
-  --><li style="">[[Nichole Bennett]]</li><!--
-  --><li style="">[[Nick Amsden]]</li><!--
-  --><li style="">[[Timothy Coyle]]</li><!--
-  --><li style="">[[Zach Leos]]</li><!--
+  --><li style=""><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
+  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
+  --><li style=""><a class="internal-link" href="Kathleen McFerren">Kathleen McFerren</a></li><!--
+  --><li style=""><a class="internal-link" href="Nichole Bennett">Nichole Bennett</a></li><!--
+  --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a></li><!--
+  --><li style=""><a class="internal-link" href="Timothy Coyle">Timothy Coyle</a></li><!--
+  --><li style=""><a class="internal-link" href="Zach Leos">Zach Leos</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -130,13 +130,13 @@ The five students / recent graduates of the Hideout Theatre who played in the fr
 ### Alumni
 Alumni
 <div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bonnie Dilber]]</li><!--
-  --><li style="">[[Chris Villafano]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Joy Parks]]</li><!--
-  --><li style="">[[Lahari Samineni]]</li><!--
-  --><li style="">[[Robert Slack]]</li><!--
-  --><li style="">[[Sushant Sethi]]</li><!--
+  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a></li><!--
+  --><li style=""><a class="internal-link" href="Chris Villafano">Chris Villafano</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Joy Parks">Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--

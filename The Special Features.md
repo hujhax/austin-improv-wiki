@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Special Features 1.jpg]]
+				!<a class="internal-link" href="The Special Features 1.jpg">The Special Features 1.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -15,19 +15,19 @@
 
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category">[[Matthew Arisheh Falkenberg]]</td>
+			<td class="category"><a class="internal-link" href="Matthew Arisheh Falkenberg">Matthew Arisheh Falkenberg</a></td>
 		</tr>
 
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Topping Haggerty]]</li><!--
-  --><li style="">[[Matthew Arisheh Falkenberg]]</li><!--
-  --><li style="">[[Ali Meier]]</li><!--
-  --><li style="">[[Robert Slack]]</li><!--
-  --><li style="">[[Carl Ziegler]]</li><!--
-  --><li style="">[[Barrett Phelan]]</li><!--
-  --><li style="">[[Ripley Adams]]</li><!--
+  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Arisheh Falkenberg">Matthew Arisheh Falkenberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
+  --><li style=""><a class="internal-link" href="Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
+  --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
+  --><li style=""><a class="internal-link" href="Ripley Adams">Ripley Adams</a></li><!--
   --><!--
   --><!--
   --><!--

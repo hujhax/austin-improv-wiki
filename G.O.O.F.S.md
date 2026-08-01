@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[G.O.O.F.S..png]]
+				!<a class="internal-link" href="G.O.O.F.S..png">G.O.O.F.S..png</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,12 +16,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Katie Doran]]</li><!--
-  --><li style="">[[Lindsay Hejl]]</li><!--
-  --><li style="">[[Michael Bowman]]</li><!--
-  --><li style="">[[Mitchell Shotts]]</li><!--
-  --><li style="">[[Patrick Creamer]]</li><!--
-  --><li style="">[[Tim Stiefler]]</li><!--
+  --><li style=""><a class="internal-link" href="Katie Doran">Katie Doran</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
+  --><li style=""><a class="internal-link" href="Mitchell Shotts">Mitchell Shotts</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Tim Stiefler">Tim Stiefler</a></li><!--
   --><!--
   --><!--
   --><!--

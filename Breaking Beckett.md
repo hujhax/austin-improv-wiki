@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Breaking Beckett Poster Ryan.png]]
+				!<a class="internal-link" href="Breaking Beckett Poster Ryan.png">Breaking Beckett Poster Ryan.png</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Bobby Ford]]</td>
+			<td class="category"><a class="internal-link" href="Bobby Ford">Bobby Ford</a></td>
 		</tr>
 
 
@@ -27,15 +27,15 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Content Love Knowles]]</td>
+			<td class="category"><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ryan Hill]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Jayme Ramsey]]</li><!--
+  --><li style=""><a class="internal-link" href="Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Jayme Ramsey">Jayme Ramsey</a></li><!--
   --><!--
   --><!--
   --><!--

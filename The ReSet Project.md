@@ -5,18 +5,18 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The ReSet Project.png]]
+				!<a class="internal-link" href="The ReSet Project.png">The ReSet Project.png</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[Salvage Vanguard Theater]]</td>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 
 
@@ -26,21 +26,21 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Lucky Chaos Theatre Projects]]</td>
+			<td class="category"><a class="internal-link" href="Lucky Chaos Theatre Projects">Lucky Chaos Theatre Projects</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Bobby Ford]]</li><!--
-  --><li style="">[[Circe Sturm]]</li><!--
-  --><li style="">[[Jessica Salinas]]</li><!--
-  --><li style="">[[Kathy Rose Center]]</li><!--
-  --><li style="">[[Leng Wong]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Mike Kinald]]</li><!--
-  --><li style="">[[Paul Normandin]]</li><!--
+  --><li style=""><a class="internal-link" href="Bobby Ford">Bobby Ford</a></li><!--
+  --><li style=""><a class="internal-link" href="Circe Sturm">Circe Sturm</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Kathy Rose Center">Kathy Rose Center</a></li><!--
+  --><li style=""><a class="internal-link" href="Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Mike Kinald">Mike Kinald</a></li><!--
+  --><li style=""><a class="internal-link" href="Paul Normandin">Paul Normandin</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ So, for example, this:
   --><li style="">a</li><!--
   --><li style="">b</li><!--
   --><li style="">c</li><!--
-  --><li style="">[[Main Page]]</li><!--
+  --><li style=""><a class="internal-link" href="Main Page">Main Page</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -65,7 +65,7 @@ becomes this:
   --><li style="">a</li><!--
   --><li style="">b</li><!--
   --><li style="">c</li><!--
-  --><li style="">[[Main Page]]</li><!--
+  --><li style=""><a class="internal-link" href="Main Page">Main Page</a></li><!--
   --><!--
   --><!--
   --><!--

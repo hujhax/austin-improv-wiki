@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[BricABracPromo2.jpg]]
+				!<a class="internal-link" href="BricABracPromo2.jpg">BricABracPromo2.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,11 +16,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Chelsea Bunn]]</li><!--
-  --><li style="">[[Patrick Creamer]]</li><!--
-  --><li style="">[[Shannon Stott]]</li><!--
-  --><li style="">[[Alex Walker]]</li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Chelsea Bunn">Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon Stott">Shannon Stott</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
   --><!--
   --><!--
   --><!--

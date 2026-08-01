@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Toby Keith and the French Guy.gif]]
+				!<a class="internal-link" href="Toby Keith and the French Guy.gif">Toby Keith and the French Guy.gif</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Baldenhofer]]</li><!--
-  --><li style="">[[Scott Moss]]</li><!--
+  --><li style=""><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
   --><!--
   --><!--
   --><!--

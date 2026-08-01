@@ -5,13 +5,13 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Dear Frailty.jpg]]
+				!<a class="internal-link" href="Dear Frailty.jpg">Dear Frailty.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[ColdTowne Theater]]</td>
+			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
 
 		<tr class="">
@@ -27,14 +27,14 @@
 
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category">[[Arthur Simone]]</td>
+			<td class="category"><a class="internal-link" href="Arthur Simone">Arthur Simone</a></td>
 		</tr>
 
 
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Josh Gill]]</li><!--
+  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
   --><!--
   --><!--
   --><!--

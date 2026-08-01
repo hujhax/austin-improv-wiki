@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[2shy2.jpg]]
+				!<a class="internal-link" href="2shy2.jpg">2shy2.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,9 +16,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Chris Casey]]</li><!--
-  --><li style="">[[Greg Mihalik]]</li><!--
-  --><li style="">[[David Rosenbaum]] (music)</li><!--
+  --><li style=""><a class="internal-link" href="Chris Casey">Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
+  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a> (music)</li><!--
   --><!--
   --><!--
   --><!--

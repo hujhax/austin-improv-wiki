@@ -5,22 +5,22 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[TheatreSports.jpg]]
+				!<a class="internal-link" href="TheatreSports.jpg">TheatreSports.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Dav Wallace]] and [[Sean Hill]] (2007)</li><!--
-  --><li style="">[[Andy Crouch]] and [[Kareem Badr]] (2010)</li><!--
-  --><li style="">[[Roy Janik]] (2013)</li><!--
-  --><li style="">[[Lacy Shawn]] and [[Ryan Austin]] (2014)</li><!--
+  --><li style=""><a class="internal-link" href="Dav Wallace">Dav Wallace</a> and <a class="internal-link" href="Sean Hill">Sean Hill</a> (2007)</li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a> and <a class="internal-link" href="Kareem Badr">Kareem Badr</a> (2010)</li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a> (2013)</li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a> and <a class="internal-link" href="Ryan Austin">Ryan Austin</a> (2014)</li><!--
   --><!--
   --><!--
   --><!--
@@ -84,51 +84,51 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ace Manning]]</li><!--
-  --><li style="">[[Aden Kirschner]]</li><!--
-  --><li style="">[[Amira Wizig]]</li><!--
-  --><li style="">[[Andrew Buck]]</li><!--
-  --><li style="">[[Andrew Robinson]]</li><!--
-  --><li style="">[[Andy Crouch]]</li><!--
-  --><li style="">[[Asaf Ronen]]</li><!--
-  --><li style="">[[Brad Temple]]</li><!--
-  --><li style="" >[[Bridget Brewer]]</li><!--
-  --><li style="">[[Ceej Allen]]</li><!--
-  --><li style="">[[David Lampe]]</li><!--
-  --><li style="">[[Emily Breedlove]]</li><!--
-  --><li style="">[[Eric Heiberg]]</li><!--
-  --><li style="">[[Halyn Lee Erickson]]</li><!--
-  --><li style="">[[Jason Vines]]</li><!--
-  --><li style="">[[Jay Michael]]</li><!--
-  --><li style="">[[Jessica Arjet]]</li><!--
-  --><li style="">[[Joe Fraser]]</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
-  --><li style="">[[Kacey Samiee]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Kareem Badr]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Keegan Hines]]</li><!--
-  --><li style="">[[Kristin Firth]]</li><!--
-  --><li style="">[[Kyle Traughber]]</li><!--
-  --><li style="">[[Lacy Shawn]]</li><!--
-  --><li style="">[[Lauren Buck]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="">[[Matt Pollock]]</li><!--
-  --><li style="">[[Mia Iseman]]</li><!--
-  --><li style="">[[Monique Daviau]]</li><!--
-  --><li style="">[[Nicole Oliver]]</li><!--
-  --><li style="">[[Patrick Daniel]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Quinn Buckner]]</li><!--
-  --><li style="">[[Roy Janik]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
-  --><li style="">[[Sean Hill]]</li><!--
-  --><li style="">[[Shana Merlin]]</li><!--
-  --><li style="">[[Shannon McCormick]]</li><!--
-  --><li style="">[[Stacy Kaplowitz]]</li><!--
-  --><li style="">[[Ted Rutherford]]</li><!--
-  --><li style="">[[Teresa Troxel]]</li><!--
-  --><li style="">[[Troy Miller]]</li><!--
+  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Amira Wizig">Amira Wizig</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Andrew Robinson">Andrew Robinson</a></li><!--
+  --><li style=""><a class="internal-link" href="Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Brad Temple">Brad Temple</a></li><!--
+  --><li style="" ><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Joe Fraser">Joe Fraser</a></li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Matt Pollock">Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Monique Daviau">Monique Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Teresa Troxel">Teresa Troxel</a></li><!--
+  --><li style=""><a class="internal-link" href="Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

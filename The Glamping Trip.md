@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Glamping Trip.jpg]]
+				!<a class="internal-link" href="The Glamping Trip.jpg">The Glamping Trip.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,8 +16,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[David Lee Hess]]</li><!--
-  --><li style="">[[John Ratliff]]</li><!--
+  --><li style=""><a class="internal-link" href="David Lee Hess">David Lee Hess</a></li><!--
+  --><li style=""><a class="internal-link" href="John Ratliff">John Ratliff</a></li><!--
   --><!--
   --><!--
   --><!--

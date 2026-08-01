@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Kindness of strangers.jpg]]
+				!<a class="internal-link" href="Kindness of strangers.jpg">Kindness of strangers.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Hideout Theatre]]</td>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Rob Yoho]]</li><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
+  --><li style=""><a class="internal-link" href="Rob Yoho">Rob Yoho</a></li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,20 +79,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Kaci Beeler]]</li><!--
-  --><li style="">[[Marcone Cangussu]]</li><!--
-  --><li style="">[[Katie Dahm]]</li><!--
-  --><li style="">[[Cat Drago]]</li><!--
-  --><li style="">[[Courtney Hopkin]]</li><!--
-  --><li style="">[[Margaret Hunsicker]]</li><!--
-  --><li style="">[[Tatiana Jitkoff]]</li><!--
-  --><li style="">[[Marc Majcher]]</li><!--
-  --><li style="" >[[Adrian Prado]]</li><!--
-  --><li style="">[[Peter Rogers]]</li><!--
-  --><li style="">[[Aaron Saenz]]</li><!--
-  --><li style="">[[Luis Salinas]]</li><!--
-  --><li style="">[[Alex Walker]]</li><!--
-  --><li style="">[[J.R. Zambrano]]</li><!--
+  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Marcone Cangussu">Marcone Cangussu</a></li><!--
+  --><li style=""><a class="internal-link" href="Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Tatiana Jitkoff">Tatiana Jitkoff</a></li><!--
+  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Adrian Prado">Adrian Prado</a></li><!--
+  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
+  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--

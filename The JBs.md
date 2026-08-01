@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The JBs.jpg]]
+				!<a class="internal-link" href="The JBs.jpg">The JBs.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,10 +16,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Jeff Britt]]</li><!--
-  --><li style="">[[Jen Blair]]</li><!--
+  --><li style=""><a class="internal-link" href="Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Jen Blair">Jen Blair</a></li><!--
   --><li style="">Jill Bernard</li><!--
-  --><li style="">[[Jon Bolden]]</li><!--
+  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
   --><!--
   --><!--
   --><!--

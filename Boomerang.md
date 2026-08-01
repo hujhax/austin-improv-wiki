@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[Boomerang.jpg]]
+				!<a class="internal-link" href="Boomerang.jpg">Boomerang.jpg</a>
 			</td>
 		</tr>
 		<tr class="">
@@ -16,13 +16,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Ann Symmonds]]</li><!--
-  --><li style="">[[Beth Condra]]</li><!--
-  --><li style="">[[Cagney Ortiz]]</li><!--
-  --><li style="">[[Danielle Saar]]</li><!--
-  --><li style="">[[Lindsey Marguerite]]</li><!--
-  --><li style="">[[Phil Morin]]</li><!--
-  --><li style="">[[Suzanne Link]]</li><!--
+  --><li style=""><a class="internal-link" href="Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Beth Condra">Beth Condra</a></li><!--
+  --><li style=""><a class="internal-link" href="Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Lindsey Marguerite">Lindsey Marguerite</a></li><!--
+  --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a></li><!--
+  --><li style=""><a class="internal-link" href="Suzanne Link">Suzanne Link</a></li><!--
   --><!--
   --><!--
   --><!--

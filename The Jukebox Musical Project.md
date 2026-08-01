@@ -5,20 +5,20 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[The Jukebox Musical Project.jpg]]
+				!<a class="internal-link" href="The Jukebox Musical Project.jpg">The Jukebox Musical Project.jpg</a>
 			</td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category">[[The Institution Theater]]</td>
+			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
 
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Asaf Ronen]]</li><!--
-  --><li style="">[[Sarah Marie Curry]]</li><!--
+  --><li style=""><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Lindsey McGowen]]</li><!--
+  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -135,10 +135,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">[[Content Love Knowles]] (piano)</li><!--
-  --><li style="">[[Allen Fisher]] (piano/drums)</li><!--
-  --><li style="">[[Tosin Awofeso]] (piano)</li><!--
-  --><li style="">[[Courtney Hopkin]] (drums)</li><!--
+  --><li style=""><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a> (piano)</li><!--
+  --><li style=""><a class="internal-link" href="Allen Fisher">Allen Fisher</a> (piano/drums)</li><!--
+  --><li style=""><a class="internal-link" href="Tosin Awofeso">Tosin Awofeso</a> (piano)</li><!--
+  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a> (drums)</li><!--
   --><!--
   --><!--
   --><!--
