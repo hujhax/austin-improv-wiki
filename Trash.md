@@ -85,6 +85,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Trash*** was a scripted puppet musical for kids.
 
 ## Summary

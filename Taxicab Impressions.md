@@ -73,6 +73,7 @@
 		</tr>
 	</table>
 </div>
+
 **Taxi Cab Impressions** is a predominantly short-form Armando-style troupe with a rotating cast pool.
 
 ## Summary

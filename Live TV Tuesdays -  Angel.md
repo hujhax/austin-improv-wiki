@@ -85,6 +85,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Live TV Tuesdays: Angel*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Angel (TV series)|*Angel*]] episode [[Wikipedia - Smile Time|"Smile Time"]].
 
 ## History

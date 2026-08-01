@@ -18,6 +18,7 @@
 		</tr>
 	</table>
 </div>
+
 **Arthur Simone** is an improv performer, teacher, and director.
 
 ## Summary

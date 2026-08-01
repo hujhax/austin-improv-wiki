@@ -73,6 +73,7 @@
 		</tr>
 	</table>
 </div>
+
 : *This page refers to the narrative troupe in which each player improvised in the style of a particular playwright.  For the narrative troupe in which each player improvises in a particular genre, see [[The Library]].*
 
 **The Plagiarists** were a narrative improv troupe in which each participant adopted the style of a different playwright.

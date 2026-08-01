@@ -187,6 +187,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Live TV Tuesdays: Felicity*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Felicity (TV series)|*Felicity*]] episode ["Gimme an O!"](http://www.imdb.com/title/tt0578679/).
 
 ## Summary

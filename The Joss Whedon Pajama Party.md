@@ -183,6 +183,7 @@
 		</tr>
 	</table>
 </div>
+
 ***The Joss Whedon Pajama Party*** was a sketch and improv revue themed around the works of Joss Whedon.
 
 ## Summary

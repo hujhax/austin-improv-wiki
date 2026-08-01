@@ -77,6 +77,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Live TV Tuesdays: Dr. Horrible's Sing-Along Blog*** refers to the *[[Live TV Tuesdays]]* presentation of [[Wikipedia - Dr. Horrible's Sing-Along Blog|*Dr. Horrible's Sing-Along Blog*]].
 
 ## Summary

@@ -18,6 +18,7 @@
 		</tr>
 	</table>
 </div>
+
 [[Category/Performers|Davidson]]
 
 **Justin Davidson** is an improviser and musician. He is a founding member of [[Bad Font]].

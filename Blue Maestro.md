@@ -26,6 +26,7 @@
 		</tr>
 	</table>
 </div>
+
 **Blue Maestro** is the non-family-friendly version of [[Maestro]].
 
 ## Summary

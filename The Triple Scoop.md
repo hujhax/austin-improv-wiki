@@ -26,6 +26,7 @@
 		</tr>
 	</table>
 </div>
+
 **The Triple Scoop** was a three-act improv night headlined by [[IScream Sandwich]].
 
 It ran Saturday nights at 10pm at [[The Institution Theater]].

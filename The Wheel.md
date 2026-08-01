@@ -26,6 +26,7 @@
 		</tr>
 	</table>
 </div>
+
 ***The Wheel*** is the rotating set of Friday 8pm shows at [[The Hideout Theatre]].
 
 ## History

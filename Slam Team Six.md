@@ -81,6 +81,7 @@
 		</tr>
 	</table>
 </div>
+
 ![[Slam Team Cartoon.png|Publicity art for the show.]]
 ***Slam Team Six*** was a mainstage improv show at [[ColdTowne Theater]] about a team of professional wrestlers who fight crime in their off-hours.
 

@@ -140,6 +140,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Elf Employment*** is a Christmas-themed improvised puppet musical.
 
 ## Summary

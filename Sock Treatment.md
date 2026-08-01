@@ -81,6 +81,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Sock Treatment*** was an improvised all-female puppet show.
 
 ## Summary

@@ -85,6 +85,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Puppet Fever*** was an improvised puppet musical.
 
 ## History

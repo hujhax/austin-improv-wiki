@@ -26,6 +26,7 @@
 		</tr>
 	</table>
 </div>
+
 ***The Fancy-Pants Mashup*** is a shortform show featuring two-person scenes.
 
 It is part of *[[The Wheel]]*.

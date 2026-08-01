@@ -132,6 +132,7 @@
 		</tr>
 	</table>
 </div>
+
 '''
 *"Flying Theater Machine" was re-branded "Hideout Kids" in 2017.*
 

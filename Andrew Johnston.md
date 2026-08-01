@@ -18,6 +18,7 @@
 		</tr>
 	</table>
 </div>
+
 Andrew Johnston is an improv performer and sometimes magician. 
 
 Andrew began studying at [[The Institution Theater]] in early 2012 in order to overcome stage fright.  Although he continues an interest in magic, he has taken a hard turn toward improvised theater at the Institution.

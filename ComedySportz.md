@@ -22,6 +22,7 @@
 		</tr>
 	</table>
 </div>
+
 : *This page refers to the sports-themed short-form improv show that currently runs Saturday nights at Pinballz Lakecreek.  For the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show, see *[[Theatresports]]*.*
 
 **ComedySportz** refers to the Austin franchise of [[Wikipedia - ComedySportz|ComedySportz]]. 

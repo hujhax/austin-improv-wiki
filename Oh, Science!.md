@@ -69,6 +69,7 @@
 		</tr>
 	</table>
 </div>
+
 **Oh, Science!** is an improv troupe.
 
 ## Summary

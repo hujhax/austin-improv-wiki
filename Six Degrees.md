@@ -81,6 +81,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Six Degrees*** was a mainstage show put on by [[The Hideout Theatre]].
 
 ## Summary

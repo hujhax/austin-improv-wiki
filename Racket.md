@@ -81,6 +81,7 @@
 		</tr>
 	</table>
 </div>
+
 :*This page refers to the 2012 improv show inspired by *Stomp''.  For the 2014 musical-improv troupe, see [[That Racket!]].
 ***Racket*** (full title: ***RACKET: Rhythm-Based Improv***) was an improv show that alternated scenework with rhythmic improvisation using found objects.
 

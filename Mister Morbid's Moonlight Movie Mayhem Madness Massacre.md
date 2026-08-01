@@ -132,6 +132,7 @@
 		</tr>
 	</table>
 </div>
+
 ![[Booker as Morbid.jpg|[[Tom Booker]], in character as Mister Morbid.]]
 ***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** was an improv show.
 

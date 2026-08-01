@@ -69,6 +69,7 @@
 		</tr>
 	</table>
 </div>
+
 ## History
 The troupe was part of ColdTowne's sixth graduating class (as was [[Wicked City]]).
 

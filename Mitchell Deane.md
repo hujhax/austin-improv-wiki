@@ -18,6 +18,7 @@
 		</tr>
 	</table>
 </div>
+
 **Mitchell Deane** is an improv performer.
 
 ## History

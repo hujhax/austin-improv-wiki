@@ -18,6 +18,7 @@
 		</tr>
 	</table>
 </div>
+
 [[Category/Performers|Parrish]]
 
 **Christina Parrish** is an improviser, stand up comic, actor, and sketch writer/performer. She is a founding member of [[Bad Font]] and [[Disco Box]].

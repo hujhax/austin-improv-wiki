@@ -77,6 +77,7 @@
 		</tr>
 	</table>
 </div>
+
 ***The Rubber Room*** is the weekly improv jam at [[The Institution Theater]].
 
 ## Summary

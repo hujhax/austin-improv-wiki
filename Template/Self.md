@@ -2,6 +2,7 @@
 | <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">***I, the copyright holder of this work,** hereby publish it under the following license:*</div>
 <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">''<!--
 //--></div> <!--
+
 //--> <!--
 //--> <!--
 //--> <!--

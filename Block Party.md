@@ -26,6 +26,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Block Party*** is a theatrical forum where anyone can sign up to perform five minutes of anything. 
 
 ## Summary

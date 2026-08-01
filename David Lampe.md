@@ -18,6 +18,7 @@
 		</tr>
 	</table>
 </div>
+
 [[Category/Performers|Lampe]]
 
 **David Lampe** is an Austin improviser.

@@ -102,6 +102,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |February 9, 2020||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -155,6 +156,7 @@
   --><!--
   --><!--
 --></ul></div>
+
 |-
 |January 12, 2020||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -208,6 +210,7 @@
   --><!--
   --><!--
 --></ul></div>
+
 |-
 |December 8, 2019||Singing 601||Echo Formal Gecko
 |-
@@ -263,6 +266,7 @@
   --><!--
   --><!--
 --></ul></div>
+
 |-
 |October 20, 2019||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -316,6 +320,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |September 8, 2019||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -369,6 +374,7 @@
   --><!--
   --><!--
 --></ul></div>
+
 |-
 |August 11, 2019||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -422,6 +428,7 @@
   --><!--
   --><!--
 --></ul></div>
+
 |-
 |July 14, 2019||<div class="plainlist"><ul style=""><!--
   --><li style="">Singing 301</li><!--
@@ -475,6 +482,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |June 9, 2019||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -528,6 +536,7 @@
   --><!--
   --><!--
 --></ul></div>
+
 |-
 |May 12, 2019||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -581,6 +590,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |April 14, 2019||ZACH student showcase||Double-Time
 |-
@@ -636,6 +646,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |February 10, 2019||Student showcase||[[Nice Jewish Girls]]
 |-
@@ -707,6 +718,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A 
+
 |-
 |April 8, 2018||Student showcase||[[Get Up]] 
 |-
@@ -762,6 +774,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |February 11, 2018||Student showcase||[[Girls Girls Girls]] 
 |-
@@ -817,6 +830,7 @@
   --><!--
   --><!--
 --></ul></div>
+
 |-
 |December 3, 2017||<div class="plainlist"><ul style=""><!--
   --><li style="">Singing 201</li><!--
@@ -870,6 +884,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A 
+
 |-
 |November 12, 2017||Student showcase||[[Harlequin]]
 |-
@@ -935,6 +950,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A 
+
 |-
 |April 9, 2017||Student showcase||[[Migas]]
 |-
@@ -990,6 +1006,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |February 12, 2017||Student showcase||[[Sugar Water Purple]]
 |-
@@ -1061,6 +1078,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |April 10, 2016||Student showcase||[[Physics Curse]] 
 |-
@@ -1116,6 +1134,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |February 7, 2016||Student showcase||[[Love Me Tinder]]
 |-
@@ -1181,6 +1200,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A 
+
 |-
 |June 14, 2015||Student showcase||[[The Escorts]]
 |-
@@ -1236,6 +1256,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |April 12, 2015||Student showcase||[[Brain Trust]] 
 |-
@@ -1291,6 +1312,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |February 8, 2015||Student showcase||[[Miller & Purselley]] 
 |-
@@ -1346,6 +1368,7 @@
   --><!--
   --><!--
 --></ul></div>
+
 |-
 |November 23, 2014||Student showcase||[[That Racket!]] 
 |-
@@ -1403,6 +1426,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |September 14, 2014||Student showcase||[[Hurly Burly]] 
 |-
@@ -1460,6 +1484,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |June 8, 2014||Student showcase||[[Bad Font]]
 |-
@@ -1519,6 +1544,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |February 9, 2014||Student showcase||[[Shades of Brown]]
 |-
@@ -1576,6 +1602,7 @@
   --><!--
   --><!--
 --></ul></div>||N/A
+
 |-
 |November 10, 2013||Student showcase||[[The Intentions]] 
 |-

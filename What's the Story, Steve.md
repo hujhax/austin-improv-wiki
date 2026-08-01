@@ -69,6 +69,7 @@
 		</tr>
 	</table>
 </div>
+
 **What's the Story Steve?** is a troupe that specializes in children's theater and features a poodle.
 
 ## Summary

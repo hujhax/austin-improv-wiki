@@ -69,6 +69,7 @@
 		</tr>
 	</table>
 </div>
+
 **Waiting for Batman** was an improv duo consisting of [[Curtis Luciani]] and [[Eric Heiberg]].
 
 ## Summary

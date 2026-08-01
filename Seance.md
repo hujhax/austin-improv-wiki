@@ -81,6 +81,7 @@
 		</tr>
 	</table>
 </div>
+
 :*This page refers to the Salvage Vanguard mainstage run based around 19th-century communications with dead spirits.  For the Salvage Vanguard graduation show run based on classic ghost stories, see *[[Haunted]]''.
 ***Seance*** (full title: ***Seance! A Meeting of the Secret Society of the Blackbower Mediums*** was a mainstage show of improvised Victorian ghost stories.
 

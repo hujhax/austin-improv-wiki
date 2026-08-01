@@ -69,6 +69,7 @@
 		</tr>
 	</table>
 </div>
+
 **Mandinka** (often written in all caps: **MANDINKA**) is a duo consisting of [[Mia Iseman]] and [[Andrew Buck]].
 
 ## Summary

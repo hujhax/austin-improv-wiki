@@ -18,6 +18,7 @@
 		</tr>
 	</table>
 </div>
+
 [[Category/Performers|Zarate]]
 [[Category/Teachers|Zarate]]
 

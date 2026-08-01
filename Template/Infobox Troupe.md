@@ -22,6 +22,7 @@ This template lists standard, useful information about an improv troupe.
 		</tr>
 	</table>
 </div>
+
 </pre>
 
 ## Attributes

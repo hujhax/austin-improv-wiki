@@ -81,6 +81,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Puppet Katamari*** was an improvised puppet show.
 
 ## Summary

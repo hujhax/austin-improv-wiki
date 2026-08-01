@@ -30,6 +30,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Gorilla Theater*** was a Johnstonian format put on by [[The Hideout Theatre]].
 
 ## Summary

@@ -81,6 +81,7 @@
 		</tr>
 	</table>
 </div>
+
 ***Live TV Tuesdays: Freaks and Geeks*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Freaks and Geeks|*Freaks and Geeks*]] episode [[Wikipedia - List of Freaks and Geeks episodes|"Beers and Weirs"]]
 
 ## History
