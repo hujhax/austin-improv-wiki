@@ -1,1 +1,25 @@
 This category is for projects that started out as one-offs in [[The Hideout Theatre]]'s *[[Free Fringe]]*.
+
+## Pages in category "Started as a Fringe Show"
+
+* [[Animal Farm]]
+* [[Celebrity Alter Ego]]
+* [[Character Explosion]]
+* [[GrimmNoir]]
+* [[History Under the Influence]]
+* [[Honey Ladies]]
+* [[Infotainment]]
+* [[JK]]
+* [[The Library]]
+* [[Mother Fing Action Heroes!]]
+* [[Mother Punch]]
+* [[Myth Debunkers]]
+* [[The New Game Project]]
+* [[Quadrupeds]]
+* [[Scrabbled]]
+* [[The Starborn]]
+* [[Sweet Justice]]
+* [[Tall Tales of the High Seas]]
+* [[Things We Don't Speak Of]]
+* [[Waiting for Batman]]
+* [[You Bet Your Life]]

@@ -1,1 +1,23 @@
 #REDIRECT [[List of Austin Improv Techs]]
+
+## Pages in category "Techs"
+
+* [[Chris Albano]]
+* [[Rachel Posey Austin]]
+* [[Nichole Bennett]]
+* [[Thedward Blevins]]
+* [[Kelly Campbell]]
+* [[Brent Chismark]]
+* [[Cortney DeAngelo]]
+* [[Sara Farr]]
+* [[Stuart Feild]]
+* [[Claudio Fox]]
+* [[Warren Henderson]]
+* [[Jay Mahavier]]
+* [[Lindsey McGowen]]
+* [[Cindy Page]]
+* [[Mike Reed]]
+* [[Neal Tibrewala]]
+* [[Chad Wellington]]
+* [[Rob Yoho]]
+* [[David Zimmerman]]

@@ -1,0 +1,15 @@
+## Pages in category "The Institution Theater"
+
+* [[Booker and a Buddy]]
+* [[Boys of Summer]]
+* [[Breaking Beckett]]
+* [[GrimmNoir]]
+* [[Highly Suggestible]]
+* [[Improv Anonymous]]
+* [[Southpaw Jones Does What He Wants]]
+* [[Tarantula]]
+* [[The Monologue Jam]]
+* [[The Source]]
+* [[The Triple Scoop]]
+* [[You Can't Stay Here]]
+* [[You Think You're So Smart]]
