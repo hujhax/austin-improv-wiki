@@ -105,10 +105,10 @@ After [[Menelaos Prokos]] went back to his home country of Greece, The Foreign L
 * [Photoset](http://www.facebook.com/media/set/?set=a.287205778009612.72155.221927764537414&type=3) by [[Steve Rogers]] of their 1/28/12 show in *[[The Saturday Night Special]]*.
 
 ## More Information
-*[The Foreign Legion facebook page](https://www.facebook.com/pages/The-Foreign-Legion/204366602931754)
-*[Interview in the Asian Austin](http://www.asianaustin.com/news/show/185)
-*[KUT - Around Town: The Foreign Legion](http://kut.org/2011/08/around-town-the-foreign-legion/)
-*[KUT Video feature of The Foreign Legion](http://www.youtube.com/watch?feature=player_embedded&v=eVpYWvVfPkI)
-*[Photo sets at Steve Rogers Photography](http://www.steve-rogers-photography.com/ImprovPerformances/Foreign-Legion)
+* [The Foreign Legion facebook page](https://www.facebook.com/pages/The-Foreign-Legion/204366602931754)
+* [Interview in the Asian Austin](http://www.asianaustin.com/news/show/185)
+* [KUT - Around Town: The Foreign Legion](http://kut.org/2011/08/around-town-the-foreign-legion/)
+* [KUT Video feature of The Foreign Legion](http://www.youtube.com/watch?feature=player_embedded&v=eVpYWvVfPkI)
+* [Photo sets at Steve Rogers Photography](http://www.steve-rogers-photography.com/ImprovPerformances/Foreign-Legion)
 
 [[Category/Troupes|Foreign Legion]]

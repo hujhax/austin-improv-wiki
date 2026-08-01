@@ -246,7 +246,7 @@ Here is [[Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>I g
 ** [Video](http://youtu.be/k07bu91F9H4) by [[Warren Henderson]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.715099225220263.1073741984.221927764537414&type=3) by [[Steve Rogers]] of the 4/11/14 show at [[The 2014 Improvised Play Festival]].
 * The Alaska State Improv Festival (4/25/14)
-**[Video of The Beacon and the Gravity of a Prism](https://vimeo.com/93582286)
+** [Video of The Beacon and the Gravity of a Prism](https://vimeo.com/93582286)
 
 ### Other
 * [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/strange-worlds-set/strange-worlds-set.jpg?disposition=download) of [[Kaci Beeler]]'s set design.

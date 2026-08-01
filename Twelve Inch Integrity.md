@@ -1,1 +1,1 @@
-#REDIRECT [[Twelve-Inch Integrity]]
+# REDIRECT [[Twelve-Inch Integrity]]

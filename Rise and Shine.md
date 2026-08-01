@@ -1,1 +1,1 @@
-#REDIRECT [[Rise & Shine]]
+# REDIRECT [[Rise & Shine]]

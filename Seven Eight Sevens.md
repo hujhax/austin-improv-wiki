@@ -1,1 +1,1 @@
-#redirect [[The Seven Eight Sevens]]
+# redirect [[The Seven Eight Sevens]]

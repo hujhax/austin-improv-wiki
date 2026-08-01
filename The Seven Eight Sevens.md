@@ -95,7 +95,7 @@ The Seven Eight Sevens decided to bring the troupe to a close in the Summer of 2
 * [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.10151904164517704.1073741841.505207703&type=3) by [[Tyler Bryce]] of their final show at [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
-*[The Seven Eight Sevens facebook page](https://www.facebook.com/theseveneightsevens)
+* [The Seven Eight Sevens facebook page](https://www.facebook.com/theseveneightsevens)
 
 [[Category/Troupes|Seven Eight Sevens]]
 [[Category/Played Their Last Show at Out of Bounds|Seven Eight Sevens]]

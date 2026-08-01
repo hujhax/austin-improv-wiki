@@ -1,3 +1,3 @@
-#REDIRECT [[Crack!]]
+# REDIRECT [[Crack!]]
 
 [[Category/Shows|Crack]]

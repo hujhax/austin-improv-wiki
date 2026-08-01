@@ -80,4 +80,4 @@ The troupe originated the Choose-Your-Own-Adventure-based format that would beco
 
 ## Media
 ### Videos
-*[Video of the 9/26/2006 performance.](https://vimeo.com/45774212)
+* [Video of the 9/26/2006 performance.](https://vimeo.com/45774212)

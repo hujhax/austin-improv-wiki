@@ -25,7 +25,7 @@ Jillian Summar is an improv performer, singing improv teacher, and vocal perform
 In ancient Egypt the sorceress Jillatep first heard the stirrings of improv inspiration...
 
 ## Troupes
-*[[JK]]
+* [[JK]]
 * [[Doin' Maintenance]] (defunct)
 * [[The Known Wizards]]
 * [[Your Dad's Friends]]

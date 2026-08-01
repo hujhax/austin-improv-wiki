@@ -1,1 +1,1 @@
-#REDIRECT [[Cené]]
+# REDIRECT [[Cené]]

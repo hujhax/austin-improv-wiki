@@ -93,17 +93,17 @@ They were coached for a period of several months in 2012 by [[Jeremy Sweetlamb|J
 Here is [[Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our Prime came from a place holder name when we started (pre-Jessica) - Tripod - Everyone hated it. Later we used Late Bloomers - a reference to the idea that we were all coming late to the Improv scene relatively speaking. Satisfied that Late Bloomers was a false start, we changed it to, "It'll Come to Us." Turns out it did and not much longer. We all liked the play on words and it still had the air of late bloomingness. I am not sure who said "In Our Prime" first, but we all agreed on the spot.</blockquote>
 
 ### 2012 Shows
-*03/01/2012 - Debut @ [[The Hideout]] ("Printing Presses")
-*04/05/2012 - [[The Hideout]] ("Disobedient Daughter") w/ [[Jessica Arjet]]
-*07/20/2012 - Improv Festival Oklahoma ("Survivalist Family")
-*09/01/2012 - [[Out of Bounds]] ("Dating an Environmentalist")
-*09/29/2012 - Hawaii Improvaganza Festival ("Art")
-*10/04/2012 - [[Threefer]] Run ("Gay Boy")
-*10/11/2012 - [[Threefer]] Run ("Drugs and Kids")
-*10/18/2012 - [[Threefer]] Run ("The Car Accident & The Brady Bunch")
-*10/18/2012 - [[Free Fringe]] Curve Ball Format Debut ("Hell")
-*10/25/2012 - [[Threefer]] Run ("Run-Away Dad")
-*11/10/2012 - [[WaffleFest]] ("The Affair")
+* 03/01/2012 - Debut @ [[The Hideout]] ("Printing Presses")
+* 04/05/2012 - [[The Hideout]] ("Disobedient Daughter") w/ [[Jessica Arjet]]
+* 07/20/2012 - Improv Festival Oklahoma ("Survivalist Family")
+* 09/01/2012 - [[Out of Bounds]] ("Dating an Environmentalist")
+* 09/29/2012 - Hawaii Improvaganza Festival ("Art")
+* 10/04/2012 - [[Threefer]] Run ("Gay Boy")
+* 10/11/2012 - [[Threefer]] Run ("Drugs and Kids")
+* 10/18/2012 - [[Threefer]] Run ("The Car Accident & The Brady Bunch")
+* 10/18/2012 - [[Free Fringe]] Curve Ball Format Debut ("Hell")
+* 10/25/2012 - [[Threefer]] Run ("Run-Away Dad")
+* 11/10/2012 - [[WaffleFest]] ("The Affair")
 
 ## Media
 ### Videos

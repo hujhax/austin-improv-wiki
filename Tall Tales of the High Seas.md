@@ -200,12 +200,12 @@ Every week two pirate captains will tell competing made-up stories based on audi
 It ran Fridays from 2/5/16 to 3/11/16.
 
 Show Schedule:
-*2/5 Andreas Fabis & Ellen Pizarek
-*2/12 Dana Yanoshak & Sushant Sethi
-*2/19 Brad Hawkins & Megan Moten
-*2/26 Jessica Arjet & Cagney Ortiz
-*3/4 Claudio Fox & Amanda Hinsman/Jessica Arjet
-*3/11 Paul Normandin & Mary Henderson
+* 2/5 Andreas Fabis & Ellen Pizarek
+* 2/12 Dana Yanoshak & Sushant Sethi
+* 2/19 Brad Hawkins & Megan Moten
+* 2/26 Jessica Arjet & Cagney Ortiz
+* 3/4 Claudio Fox & Amanda Hinsman/Jessica Arjet
+* 3/11 Paul Normandin & Mary Henderson
 
 The show was sponsored by Treaty Oak Rum and The Crow Bar.
 

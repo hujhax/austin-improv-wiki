@@ -86,11 +86,11 @@ The current rehearsed format is a loose attempt at a Harold, taking liberties wh
 * [Photoset](http://www.facebook.com/media/set/?set=a.10150151634862265.328768.588952264&type=3) by [[Peter Rogers]] of their 2/5/11 performance in *[[The Saturday Night Special]]*.
 
 ### Press/Audition Blurbs
-***What Do We Do?**
+* **What Do We Do?**
 "Quayle will be doing a loose interpretation of a Harold with the emphasis on having fun in each moment and less on the given structure."
-***Who are we? Long Version**
+* **Who are we? Long Version**
 "Quayle is the joining of Kyle Traughber, Katie Dahm, and Quinn Buckner with the main mission of supporting each other while getting a little goofy in the mean time. Originally a duo between Kyle and Quinn, Quayle saw the addition of Katie and with it the trifecta was complete. You can catch Quayle rock climbing, lounging around listening to Savage Garden or having tickle fights."
-***Who are we and What Do We Do?**
+* **Who are we and What Do We Do?**
 "Quayle is the joining of Kyle Traughber, Katie Dahm, and Quinn Buckner with the main mission of supporting each other while getting a little goofy in the mean time. Currently Quayle does a loose interpretation of a Harold with the emphasis on fun for your maximum enjoyment. Check them out if you want to see Katie be cute as a button, Kyle goofier than Goofy himself and Quinn get tickled till he cries. There might be some improv too..."
 
 ## More Information

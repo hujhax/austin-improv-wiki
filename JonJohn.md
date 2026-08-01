@@ -1,1 +1,1 @@
-#REDIRECT [[Déclassé]]
+# REDIRECT [[Déclassé]]

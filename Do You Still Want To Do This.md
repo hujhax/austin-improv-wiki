@@ -87,7 +87,7 @@ When Alex moved away to Los Angeles in 2014, the duo went on hiatus.
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577413992107.1073741849.549002106&type=3) by [[Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
-*[The duo's facebook page.](http://www.facebook.com/doyoustillwanttodothis)
+* [The duo's facebook page.](http://www.facebook.com/doyoustillwanttodothis)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

@@ -1,1 +1,1 @@
-#REDIRECT [[' ' or Bust!]]
+# REDIRECT [[' ' or Bust!]]

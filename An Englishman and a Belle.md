@@ -96,7 +96,7 @@ They're also becoming know as one of the more splendidly-dressed improv duos aro
 * [Photoset of An Englishman and a Belle from The 2017 Ocean State Improv Festival by The Oyster Farm](https://www.facebook.com/media/set/?set=oa.192586781267079&type=3)
 
 ## More Information
-*[An Englishman and a Belle profiled for The 2016 Improvised Play Festival.](http://www.hideouttheatre.com/improvised-play-festival-spotlight-an-englishman-and-a-belle)
+* [An Englishman and a Belle profiled for The 2016 Improvised Play Festival.](http://www.hideouttheatre.com/improvised-play-festival-spotlight-an-englishman-and-a-belle)
 
 [[Category/Troupes|An Englishman and a Belle]]
 [[Category/Active|Category:Active]]

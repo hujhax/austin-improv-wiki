@@ -37,7 +37,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 <p>They did a Sci Fi story that involved death chambers and a planet of rednecks. (I could probably reenact the whole thing, it was so vivid) I was convinced that they had at least worked out ahead of time who would be the protagonist. Roy assured me it was all spontaneous and though I walked in that night with only a mild interest in improv, I came out knowing that I wanted to do what they were doing.</p> </blockquote>
 
 ## Troupes
-*[[Austin-Austin]]
+* [[Austin-Austin]]
 * [[The Starborn]]
 * [[Local Genius Society]] (2012 - 2014)
 * *[[Past Lives]]* (2013 - 2014)

@@ -1,1 +1,1 @@
-#REDIRECT [[Bolik Not ZIB]]
+# REDIRECT [[Bolik Not ZIB]]

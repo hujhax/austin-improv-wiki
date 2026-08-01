@@ -29,7 +29,7 @@
 * Imaginary Friend
 
 ## Shows
-*"[[Maestro]]" (2015-)
+* "[[Maestro]]" (2015-)
 * *[[Fiasco]]* (lighting design)
 * *[[Process]]* (lighting design/run crew)
 * *[[The Secret Life of Inanimate Objects]]*

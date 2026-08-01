@@ -1,1 +1,1 @@
-#REDIRECT [[The Professor]]
+# REDIRECT [[The Professor]]

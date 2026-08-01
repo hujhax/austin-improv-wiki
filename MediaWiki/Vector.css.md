@@ -58,7 +58,7 @@ th.category-header {
         width: 300px;
 }
 
-#mw-panel a {
+# mw-panel a {
 text-shadow: none;
     }
 

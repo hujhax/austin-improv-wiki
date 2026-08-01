@@ -1,1 +1,1 @@
-#REDIRECT [[Theatresports]]
+# REDIRECT [[Theatresports]]

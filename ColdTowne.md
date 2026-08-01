@@ -1,1 +1,1 @@
-#REDIRECT [[ColdTowne Theater]]
+# REDIRECT [[ColdTowne Theater]]

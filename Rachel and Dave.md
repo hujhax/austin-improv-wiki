@@ -95,7 +95,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204248534876289.1073741949.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/15 show.
 
 ## More Information
-*[Rachel and Dave's web site.](http://rachelanddave.com/)
+* [Rachel and Dave's web site.](http://rachelanddave.com/)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

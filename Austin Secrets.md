@@ -208,10 +208,10 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Valerie Ward]]
 
 #### Crew
-*[[Cindy Page]] (tech director)
-*[[Katherine Grecco]]
-*[[Luke Wallens]]
-*[[Warren Henderson]]
+* [[Cindy Page]] (tech director)
+* [[Katherine Grecco]]
+* [[Luke Wallens]]
+* [[Warren Henderson]]
 
 ### Season Four (2013)
 #### Cast

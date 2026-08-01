@@ -1,1 +1,1 @@
-#REDIRECT [[Bad Boys]]
+# REDIRECT [[Bad Boys]]

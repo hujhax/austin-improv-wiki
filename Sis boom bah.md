@@ -1,1 +1,1 @@
-#REDIRECT [[Sis BOOM Bah!]]
+# REDIRECT [[Sis BOOM Bah!]]

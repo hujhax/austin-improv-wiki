@@ -1,1 +1,1 @@
-#REDIRECT [[Instant Classic]]
+# REDIRECT [[Instant Classic]]

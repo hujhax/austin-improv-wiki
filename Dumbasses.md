@@ -88,7 +88,7 @@ Dumbasses formed in [[The Institution Theater]]'s master class during one of ins
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Chad Wellington]] that includes their performance in the 6/9/13 *[[Triple Scoop]]*.
 
 ## More Information
-*[The Dumbasses facebook page](http://www.facebook.com/pages/Dumbasses/311185398904052)
+* [The Dumbasses facebook page](http://www.facebook.com/pages/Dumbasses/311185398904052)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

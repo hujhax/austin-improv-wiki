@@ -1,1 +1,1 @@
-#REDIRECT [[Skull on Stick]]
+# REDIRECT [[Skull on Stick]]

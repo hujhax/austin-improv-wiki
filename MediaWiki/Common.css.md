@@ -4,7 +4,7 @@
 list-style:none;
 }
 
-#mw-panel a {
+# mw-panel a {
 text-shadow: 0px 1px 0px rgb(54, 87, 172);
     }
 

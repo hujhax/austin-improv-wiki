@@ -88,24 +88,24 @@ Like *[[Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" tel
 
 
 ## Cast
-*[[Audrey Rachel Sansom]] as "The Wild Heart," Wilhemina Wyldeheart 
-*[[Julie Gillis]] as "The Duchess," Lady Electra Spencer
-*[[Emily Breedlove]] as "The Amazon," Yvette Cloud
-*[[Elizabeth Brammer]] as "The Ingenue," Adelaide McKenna
-*[[Gricelda Silva]] as "The Pixie," Leto
-*[[Aaron Walther]] as "The Rogue," Captain Hamwich Leon
-*[[Brady James]] as "The Young Adventurer," Benjamin Cumberbatch
-*[[Marc Majcher]] as "The Veteran," Colonel Solomon Fitzgerald
-*[[Jeff Mills]] as "The Reluctant Hero," Barnaby Jones
-*[[Kevin Miller]] as "The Engineer," Joshua Mew
+* [[Audrey Rachel Sansom]] as "The Wild Heart," Wilhemina Wyldeheart 
+* [[Julie Gillis]] as "The Duchess," Lady Electra Spencer
+* [[Emily Breedlove]] as "The Amazon," Yvette Cloud
+* [[Elizabeth Brammer]] as "The Ingenue," Adelaide McKenna
+* [[Gricelda Silva]] as "The Pixie," Leto
+* [[Aaron Walther]] as "The Rogue," Captain Hamwich Leon
+* [[Brady James]] as "The Young Adventurer," Benjamin Cumberbatch
+* [[Marc Majcher]] as "The Veteran," Colonel Solomon Fitzgerald
+* [[Jeff Mills]] as "The Reluctant Hero," Barnaby Jones
+* [[Kevin Miller]] as "The Engineer," Joshua Mew
 
 ### "The Machine" (supporting cast)
-*[[Ashlee Medlin]] as Bolt
-*[[Howard Katz]] as Gear Shift
-*[[Joel Osborne]] as Leather Strap
-*[[Jayme Ramsay]] as Crank
-*[[Leng Wong]] as Alloysia
-*[[Ashley Lowe]] as Lily Sabine
+* [[Ashlee Medlin]] as Bolt
+* [[Howard Katz]] as Gear Shift
+* [[Joel Osborne]] as Leather Strap
+* [[Jayme Ramsay]] as Crank
+* [[Leng Wong]] as Alloysia
+* [[Ashley Lowe]] as Lily Sabine
 
 ## Episode Summaries
 * [[Steam – First Night]]

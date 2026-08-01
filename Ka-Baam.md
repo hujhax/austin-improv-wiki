@@ -1,1 +1,1 @@
-#REDIRECT [[Ka-Baam!!]]
+# REDIRECT [[Ka-Baam!!]]

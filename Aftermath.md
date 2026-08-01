@@ -1,1 +1,1 @@
-#REDIRECT [[The Aftermath]]
+# REDIRECT [[The Aftermath]]

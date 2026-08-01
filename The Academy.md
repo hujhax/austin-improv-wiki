@@ -1,1 +1,1 @@
-#REDIRECT [[Movie Riot]]
+# REDIRECT [[Movie Riot]]

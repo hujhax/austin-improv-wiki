@@ -99,38 +99,38 @@ More grounded narrative in which Ryan and Quinn play two brothers that become lo
 
 ## Media
 ### Videos
-*[9/7/2018](https://www.twitch.tv/videos/307243433?t=157m15s)
-*[8/29/2018](https://www.twitch.tv/videos/306470904)
-*[8/3/2018](https://www.twitch.tv/videos/298337316)
-*[7/13/2018](https://www.twitch.tv/videos/289265776?t=48m25s)
-*[6/28/2018](https://www.twitch.tv/videos/283241674)
-*[4/19/2018](https://www.twitch.tv/videos/253311805)
-*[1/14/2018](https://www.twitch.tv/videos/219086534)
-*[3/5/2017](https://vimeo.com/211390877)
-*[4/29/2016](https://vimeo.com/166231438)
-*[04/16/2016](https://vimeo.com/164670808)
-*[Dungeon Masters Debut 02/12/2016](https://vimeo.com/155697081)
-*[Wafflefest 2015](https://vimeo.com/147039373)
-*[05/29/2015](https://vimeo.com/129337041)
-*[05/15/2015](https://vimeo.com/128801763)
+* [9/7/2018](https://www.twitch.tv/videos/307243433?t=157m15s)
+* [8/29/2018](https://www.twitch.tv/videos/306470904)
+* [8/3/2018](https://www.twitch.tv/videos/298337316)
+* [7/13/2018](https://www.twitch.tv/videos/289265776?t=48m25s)
+* [6/28/2018](https://www.twitch.tv/videos/283241674)
+* [4/19/2018](https://www.twitch.tv/videos/253311805)
+* [1/14/2018](https://www.twitch.tv/videos/219086534)
+* [3/5/2017](https://vimeo.com/211390877)
+* [4/29/2016](https://vimeo.com/166231438)
+* [04/16/2016](https://vimeo.com/164670808)
+* [Dungeon Masters Debut 02/12/2016](https://vimeo.com/155697081)
+* [Wafflefest 2015](https://vimeo.com/147039373)
+* [05/29/2015](https://vimeo.com/129337041)
+* [05/15/2015](https://vimeo.com/128801763)
 
 ### Photos
-*[Dungeon Masters At The Hideout](https://www.flickr.com/photos/8820084@N02/sets/72157664821480622/)
-*[2x4 At The Hideout](http://www.austinandaustin.us/2-27-15-2x4-hideout-theatre/) 
-*[Photoset](http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+* [Dungeon Masters At The Hideout](https://www.flickr.com/photos/8820084@N02/sets/72157664821480622/)
+* [2x4 At The Hideout](http://www.austinandaustin.us/2-27-15-2x4-hideout-theatre/) 
+* [Photoset](http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## Press/Audition Blurbs
-***Who Are We? Long Version**
+* **Who Are We? Long Version**
 Austin/Austin is the joining of two friends whose goal is to try everything and become the best they can be while having as much fun as possible.
 Ryan Austin is the group’s incorrigible flirt, providing grounded scene work and an unstoppable positive energy.
 Quinn Buckner rocks the strong silent vibe, bringing to the table an eye for support, an abundance of physicality, and a penchant for fun.
 Ryan and Quinn have separately and together played festivals from Out of Bounds in Austin, TX to Improvaganza in Honolulu and Edmonton as well as Düofest in Philadelphia. They play all around their home town of Austin, Texas and in addition to being in multiple main stage shows, they are also both teachers and faculty at the Hideout Theatre.
 They come together to form scenes ranging from fun fantasy romps to touching real world moments, often allowing the audience a joyful peak behind the curtain between scenes.
 
-*"Dungeon Masters"
+* "Dungeon Masters"
 "What happened to the stray arrow loose from the archer? Who got startled because of the explosion across the kingdom? When exactly did the goblins turn evil forever? Taking a suggestion from 1 of 3 D&D books, Austin/Austin fleshes out a fantasy world before your eyes. People, creatures, gods, and demons, even in a huge fantasy world things are a little more connected than you think..."
 
-*"Ships & Shanties"
+* "Ships & Shanties"
 Lo! What dangers lie beyond that dark and stormy sea? Just listen, sailor!  Hear the songs of Sirens and the growl of whale bellies echo. Look! See the lightning splinter against a lone ship and cast the silhouette of tentacles. What fantastic and grim tales lie in the rigging of danger? What cataclysm calls you forth from the crows nest of open water? Find out with Austin/Austin in Ships and Shanties!
 
 ## More Information

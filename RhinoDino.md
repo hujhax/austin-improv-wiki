@@ -142,11 +142,11 @@ Trinoceros: This is a deconstruction of the naive game 3 Things and has gone thr
 * [Video](http://vimeo.com/59737833) by [[Paul Normandin]] of their 2/3/13 performance in *[[The Weekender]]*.
 
 ### Press
-***Who Are We?**
+* **Who Are We?**
 Rhinodino is the joining of 4 friends who love shortform and exploring games in an innovative way. Physicality, theatricality, sentimentality, practicality all these words end in -ality and represent just a portion of the skills Rhinodino possess when performing their monthly show. Together for over almost 3 years Courtney Hopkin, Kyle Traughber, Lacy Shawn and Quinn Buckner love coming together to watch anime, lounge in living rooms and eat tacos. Head of a rhino body of a dino its Rhinodino! 
-***What Do We Do?**
+* **What Do We Do?**
 Rhinodino delights in dissecting games to find out what makes them tick and then exploding them out in unique styles for the audience to experience. For a shorter timeslot Rhinodino performs a shortform set full of standard, non traditional and experimented games. In their long set they tackle shortform games followed by a challenge round of scene setups from each other and then ending with a naive game that is full of fun.
-***Who Are We And What Do We Do?**
+* **Who Are We And What Do We Do?**
 Rhinodino is the joining of 4 friends who love shortform and exploring games in an innovative way. Courtney Hopkin, Kyle Traughber, Lacy Shawn, and Quinn Buckner combine to form a robot dinosaur capable of blowing your socks off. Physicality, theatricality, sentimentality, practicality all these words end in -ality and represent just a portion of the skills Rhinodino possess when performing their monthly show. Together for over almost 3 years they delight in dissecting games to find out what makes them tick and then exploding them out in unique styles for the audience to experience. Head of a rhino body of a dino its Rhinodino!
 
 ## More Information

@@ -55,15 +55,15 @@ In December of 2016 it was decided to cancel TARANTULA. Sarah Marie Curry got al
 
 ### Casts
 #### October 29th, 2016
-*[[Alex Walker]]
-*[[Asaf Ronen]]
-*[[Heidi Penix]]
-*[[Jon Bolden]]
-*[[Marc Jalandoon]]
-*[[Shannon McCormick]]
-*[[Shannon Dale Stott]]
-*Musician: [[Josh Ronsen]]
-*Lord of Light: [[Mark Shoemaker]]
+* [[Alex Walker]]
+* [[Asaf Ronen]]
+* [[Heidi Penix]]
+* [[Jon Bolden]]
+* [[Marc Jalandoon]]
+* [[Shannon McCormick]]
+* [[Shannon Dale Stott]]
+* Musician: [[Josh Ronsen]]
+* Lord of Light: [[Mark Shoemaker]]
 
 #### July 30th, 2016
 * [[Lisa Friedrich]]

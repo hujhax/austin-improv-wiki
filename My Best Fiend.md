@@ -83,15 +83,15 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 ## Media
 ### Videos
 * [5/17/12 performance](http://vimeo.com/42396160) in *[[The Free Fringe]]*.
-*"Wunderfisch" [Video](http://www.youtube.com/watch?v=vUtpOyVSfRM)
-*"Der Stille Winterwald" [Video](http://www.youtube.com/watch?v=uPkwf693jaE)
-*"Der Wolf in den Bergen" [Video](http://vimeo.com/42396160)
-*"Die gewesene Sardine": [9/27/13 performance](http://vimeo.com/76356598) at [[The 2013 Out of Bounds Comedy Festival]].
-*"Die Mörderbestie" [Video](http://youtu.be/fzWXDO5noGQ)
-*"Der grosse Tag draussen" [Video](http://youtu.be/pbCgf2yAKqo)
-*"Schnaps-Eis" [Video](http://vimeo.com/148277246)
-*"Verhau den Hund" at the Alaska State Improv Festival 2015 [https://vimeo.com/148962201](https://vimeo.com/148962201)
-*"Der Schokoladen-Hase" at the Alaska State Improv Festival 2015 [https://vimeo.com/152378117](https://vimeo.com/152378117)
+* "Wunderfisch" [Video](http://www.youtube.com/watch?v=vUtpOyVSfRM)
+* "Der Stille Winterwald" [Video](http://www.youtube.com/watch?v=uPkwf693jaE)
+* "Der Wolf in den Bergen" [Video](http://vimeo.com/42396160)
+* "Die gewesene Sardine": [9/27/13 performance](http://vimeo.com/76356598) at [[The 2013 Out of Bounds Comedy Festival]].
+* "Die Mörderbestie" [Video](http://youtu.be/fzWXDO5noGQ)
+* "Der grosse Tag draussen" [Video](http://youtu.be/pbCgf2yAKqo)
+* "Schnaps-Eis" [Video](http://vimeo.com/148277246)
+* "Verhau den Hund" at the Alaska State Improv Festival 2015 [https://vimeo.com/148962201](https://vimeo.com/148962201)
+* "Der Schokoladen-Hase" at the Alaska State Improv Festival 2015 [https://vimeo.com/152378117](https://vimeo.com/152378117)
 
 ### Photos
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Heidi Rogers]] that includes their 1/12/13 show.
@@ -103,7 +103,7 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
-*[My Best Fiend facebook page](http://www.facebook.com/klausandwerner)
+* [My Best Fiend facebook page](http://www.facebook.com/klausandwerner)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

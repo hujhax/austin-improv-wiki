@@ -78,8 +78,8 @@ Cristy Salinas is an improviser and comedy writer in Austin, Texas. She started 
 Originally from the Rio Grande Valley, Cristy moved to Austin to attend the University of Texas and graduated with a degree in Radio-Television-Film.
 
 ## Troupes
-*[[Minority Report]]<br>
-*[[Soy Taco]]
+* [[Minority Report]]<br>
+* [[Soy Taco]]
 
 ## Shows
 [[Austin Monologue Jam]]

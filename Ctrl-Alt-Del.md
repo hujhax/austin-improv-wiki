@@ -1,1 +1,1 @@
-#REDIRECT [[Ctrl Alt Delete]]
+# REDIRECT [[Ctrl Alt Delete]]

@@ -143,7 +143,7 @@ Bad Font was originally cast by [[Scott Hearne]] throughout 2012 and 2013. The t
 * [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10153645977880793.1073741903.666390792&type=3) by [[Dave Alley]] of their 8/30/16 performance at [[2016 Out of Bounds Comedy Festival]].
 
 ## More Information
-*[Bad Font's facebook page](http://www.facebook.com/pages/Bad-Font/1413245738890485)
+* [Bad Font's facebook page](http://www.facebook.com/pages/Bad-Font/1413245738890485)
 
 [[Category/Troupes|Bad Font]]
 [[Category/Active|Bad Font]]

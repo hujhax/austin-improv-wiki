@@ -1,1 +1,1 @@
-#REDIRECT [[Senshi Sokkyo]]
+# REDIRECT [[Senshi Sokkyo]]

@@ -1,1 +1,1 @@
-#REDIRECT [[Flying Theater Machine]]
+# REDIRECT [[Flying Theater Machine]]

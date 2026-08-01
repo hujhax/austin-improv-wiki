@@ -81,9 +81,9 @@ TBD - What is this format
 * [www.twinsimprov.com | Website ]
 
 ## Press/Audition Blurbs
-***Who Are We? Long Version**
+* **Who Are We? Long Version**
 
-*"It's Ok To Laugh"
+* "It's Ok To Laugh"
 
 ## More Information
 * [The duo's facebook page.](https://www.facebook.com/twinsimprov)

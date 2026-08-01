@@ -90,7 +90,7 @@ The troupe decided to call it quits in mid 2014.
 * [Video](http://vimeo.com/85944853) by [[Brad Hawkins]] of their 2/2/14 performance in *[[The Weekender]]* ("Bullshit").
 
 ## More Information
-*[Century's facebook page](http://www.facebook.com/pages/centuryimprov)
+* [Century's facebook page](http://www.facebook.com/pages/centuryimprov)
 
 [[Category/Troupes|Century]]
 [[Category/Inactive|Century]]

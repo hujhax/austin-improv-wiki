@@ -1,1 +1,1 @@
-#REDIRECT [[Hideout Mainstage Shows]]
+# REDIRECT [[Hideout Mainstage Shows]]

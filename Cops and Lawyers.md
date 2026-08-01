@@ -1,3 +1,3 @@
-#REDIRECT [[Cops & Lawyers]]
+# REDIRECT [[Cops & Lawyers]]
 
 [[Category/Shows|Cops]]

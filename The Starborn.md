@@ -147,9 +147,9 @@ In 2014, The Starborn was selected to perform two shows in the Out Of Bounds Com
 ## Media
 ### Videos
 * [Video](http://vimeo.com/120012510) by [[Peter Rogers]] of their 1/23/15 performance in the *[[2x4]]*.
-*[Video of their WaffleFest show](https://vimeo.com/106635786) from 11/21/2014
-*[Video of their OOB show at The State](https://vimeo.com/106635786) from 9/01/2014
-*[Video of their OOB show at The Hideout Theatre](https://vimeo.com/108298992) from 8/27/2014
+* [Video of their WaffleFest show](https://vimeo.com/106635786) from 11/21/2014
+* [Video of their OOB show at The State](https://vimeo.com/106635786) from 9/01/2014
+* [Video of their OOB show at The Hideout Theatre](https://vimeo.com/108298992) from 8/27/2014
 * [Video of their TheatreSports bout vs The Fitzgeralds](https://vimeo.com/99104898) from 05/31/2014.
 * [Video of their 8th performance](https://vimeo.com/97889203) from 05/09/2014.
 ** [Another video](http://vimeo.com/97880422) of the same show.

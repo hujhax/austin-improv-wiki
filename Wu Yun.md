@@ -1,1 +1,1 @@
-#REDIRECT [[Want to Know]]
+# REDIRECT [[Want to Know]]

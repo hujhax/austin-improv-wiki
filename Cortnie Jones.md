@@ -24,7 +24,7 @@
 ## Troupes
 * [[Kingston]]
 * [[Echo Lake]]
-*[[Three on a Match]]
+* [[Three on a Match]]
 
 ## Previous Troupes
 * [[Elevator Action]]

@@ -1,1 +1,1 @@
-#REDIRECT [[The Spectacle]]
+# REDIRECT [[The Spectacle]]

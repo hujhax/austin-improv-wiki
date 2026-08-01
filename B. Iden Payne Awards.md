@@ -84,7 +84,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 
 
 ### 2009-2010 Season
-*Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
+* Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
 ** Winner: [[Confidence Men -  Improvised Mamet]]
 ** Nominees:
 *** [[Austin Secrets]] ([[The Hideout Theatre]])
@@ -95,7 +95,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 
 
 ### 2010-2011 Season
-*The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
+* The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
 ** Winner: [[Confidence Men -  Improvised Mamet]]
 ** Nominees:
 *** [[Austin Secrets]] ([[The Hideout Theatre]])
@@ -160,7 +160,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 *** [[The Knuckleball Now]]
 
 
-*General Theatre Awards and nominations: 
+* General Theatre Awards and nominations: 
 ** Outstanding Puppetry Nominee:
 *** [[A Bedtime Gorey]]
 
@@ -197,7 +197,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 *** [[The Knuckleball Now]]
 
 
-*General Theatre Awards and nominations
+* General Theatre Awards and nominations
 ** Outstanding Puppetry Nominee:
 *** *[[Fragile Rock]]*
 ** Outstanding Original Score Nominee:

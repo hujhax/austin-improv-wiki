@@ -90,7 +90,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3) by [[Michael Yew]] that includes their 5/10/12 performance in *[[The Threefer]]*.
 
 ## More Information
-*[The Intentions' facebook page](http://www.facebook.com/theintentionsimprov/info)
+* [The Intentions' facebook page](http://www.facebook.com/theintentionsimprov/info)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Intentions]]

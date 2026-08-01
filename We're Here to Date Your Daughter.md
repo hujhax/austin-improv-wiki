@@ -77,10 +77,10 @@ The troupe has members who have taken classes from [[The Hideout Theatre]], [[Co
 The troupe was briefly named "I'm Here to Date Your Daughter" until the name "We're Here to Date Your Daughter" was decided on.  WHTDYD performed their debut show as part of *[[The Triple Scoop]]* at the [[The Institution Theater]] on 12/8/12.  The original planned debut was [[ColdTowne Theater]] on 1/20/13.  
 
 ## History
-*12/08/2012 - Debut @ [[The Institution Theater]] 
-*01/20/2013 - [[ColdTowne Theater]] 
-*02/10/2013 - [[The Hideout Theatre]]
-*03/30/2013 - [[The Institution Theater]]
+* 12/08/2012 - Debut @ [[The Institution Theater]] 
+* 01/20/2013 - [[ColdTowne Theater]] 
+* 02/10/2013 - [[The Hideout Theatre]]
+* 03/30/2013 - [[The Institution Theater]]
 
 ## Media
 ### Videos
@@ -94,7 +94,7 @@ The troupe was briefly named "I'm Here to Date Your Daughter" until the name "We
 * [Photoset](http://www.facebook.com/media/set/?set=a.704040979659421.1073741972.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/16/14 show at [[ColdTowne Theater]].
 
 ## More Information
-*[We're Here to Date Your Daughter Facebook page](http://www.facebook.com/TalkinToStrangers)
+* [We're Here to Date Your Daughter Facebook page](http://www.facebook.com/TalkinToStrangers)
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

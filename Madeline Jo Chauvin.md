@@ -61,7 +61,7 @@ A post from her about the first improv show she ever saw:<blockquote>I saw "Star
 * *[[Live TV Tuesdays -  Scrubs]]* (co-producer, co-director / Gooch)
 
 ## Awards
-*[[The 2014 Institution Theater Awards]]: winner, The Audience Member Award.
+* [[The 2014 Institution Theater Awards]]: winner, The Audience Member Award.
 
 * [[The 2013 Institution Theater Awards]]: nominated for Favorite Female Performer, The Audience Award, Favorite Director (for *[[Live TV Tuesdays -  Scrubs]]*) Favorite Show (as Producer) (for *[[Live TV Tuesdays -  Scrubs]]*), and Favorite Video ( for "Dr. Horrible's Sing-Along Blog")- Winner
 [[Category/Performers|Chauvin]]
