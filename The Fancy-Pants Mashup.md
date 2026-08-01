@@ -8,37 +8,22 @@
 				<a class="internal-link" href="File/Dance Battle.jpg.md"><img src="File/Dance%20Battle.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Varies</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Oct 2010-Present</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***The Fancy-Pants Mashup*** is a shortform show featuring two-person scenes.

@@ -12,12 +12,10 @@
 			<th scope="row" class="category-header">Address</th>
 			<td class="category">8120 Research Blvd</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Homepage</th>
 			<td class="category">http://www.capcitycomedy.com/</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category">1980-Present</td>

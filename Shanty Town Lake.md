@@ -8,28 +8,18 @@
 				<a class="internal-link" href="File/Shanty Town Lake.jpg.md"><img src="File/Shanty%20Town%20Lake.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Dave Buckman">Dave Buckman</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><a class="internal-link" href="Chris Baldenhofer">Chris Baldenhofer</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

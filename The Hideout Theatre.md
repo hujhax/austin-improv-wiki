@@ -12,12 +12,10 @@
 			<th scope="row" class="category-header">Address</th>
 			<td class="category">617 Congress Avenue</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Homepage</th>
 			<td class="category">http://www.hideouttheatre.com</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category">1998-Present</td>

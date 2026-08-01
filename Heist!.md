@@ -8,12 +8,10 @@
 				<a class="internal-link" href="File/Heist.jpg.md"><img src="File/Heist.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

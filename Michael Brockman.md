@@ -16,7 +16,6 @@
 			<th scope="row" class="category-header">Years Active</th>
 			<td class="category">2005-Present</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Instrument(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

@@ -8,38 +8,26 @@
 				<a class="internal-link" href="File/90210.jpg.md"><img src="File/90210.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Lauren Buck">Lauren Buck</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><a class="internal-link" href="Peter Rogers">Peter Rogers</a></td>
 		</tr>
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><a class="internal-link" href="Vinh Ngo">Vinh Ngo</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

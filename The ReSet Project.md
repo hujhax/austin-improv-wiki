@@ -8,28 +8,18 @@
 				<a class="internal-link" href="File/The ReSet Project.png.md"><img src="File/The%20ReSet%20Project.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><a class="internal-link" href="Lucky Chaos Theatre Projects">Lucky Chaos Theatre Projects</a></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

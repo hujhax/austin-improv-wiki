@@ -12,14 +12,10 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">2012-Present</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
 	</table>
 </div>
 

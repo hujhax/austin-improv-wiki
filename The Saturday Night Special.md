@@ -8,42 +8,26 @@
 				<a class="internal-link" href="File/The Saturday Night Special Publicity.gif.md"><img src="File/The%20Saturday%20Night%20Special%20Publicity.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">2008-2012</td>
 		</tr>
-
-		
 	</table>
 </div>
 

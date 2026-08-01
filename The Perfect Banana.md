@@ -12,7 +12,6 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">2008</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{bulleted list | 
@@ -24,9 +23,6 @@
 *<a class="internal-link" href="Frank Willmore">Frank Willmore</a>
 ] }}</td>
 		</tr>
-
-
-
 	</table>
 </div>
 

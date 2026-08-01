@@ -8,18 +8,10 @@
 				<a class="internal-link" href="File/Show Default Image.jpg.md"><img src="File/Show%20Default%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">Jesse Scoble</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

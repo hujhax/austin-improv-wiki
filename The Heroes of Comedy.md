@@ -12,12 +12,10 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">1999-2004</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><a class="internal-link" href="Sean Hill">Sean Hill</a></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

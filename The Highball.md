@@ -12,12 +12,10 @@
 			<th scope="row" class="category-header">Address</th>
 			<td class="category">1142 S Lamar Blvd</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Homepage</th>
 			<td class="category">http://www.thehighball.com</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

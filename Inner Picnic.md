@@ -12,12 +12,10 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">2016-????</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><a class="internal-link" href="Norman Tran">Norman Tran</a></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

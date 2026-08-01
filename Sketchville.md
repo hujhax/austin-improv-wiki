@@ -8,23 +8,14 @@
 				<a class="internal-link" href="File/Sketchville.jpg.md"><img src="File/Sketchville.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category">(Webseries)</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">Amy Leland</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

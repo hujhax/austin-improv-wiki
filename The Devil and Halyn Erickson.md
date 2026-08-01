@@ -12,14 +12,10 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">Jun 2014</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></td>
 		</tr>
-
-
-
 	</table>
 </div>
 

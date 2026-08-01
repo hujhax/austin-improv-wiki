@@ -12,19 +12,14 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">1986-2012, 2017 - current</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><a class="internal-link" href="Shawn Utterback, Terril Fischer">Shawn Utterback, Terril Fischer</a></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
 	</table>
 </div>
 : *This page refers to the sports-themed short-form improv show that currently runs Saturday nights at Pinballz Lakecreek.  For the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show, see *[[Theatresports]]*.*

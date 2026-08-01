@@ -8,28 +8,18 @@
 				<a class="internal-link" href="File/Puppet Katamari.jpg.md"><img src="File/Puppet%20Katamari.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Dougherty Arts Center">The Dougherty Arts Center</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
 		</tr>
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><a class="internal-link" href="Puppet Improv Project">Puppet Improv Project</a></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

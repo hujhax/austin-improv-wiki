@@ -12,7 +12,6 @@
 			<th scope="row" class="category-header">Address</th>
 			<td class="category">302 W. 15th St.</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category">1982?-1986</td>

@@ -8,33 +8,22 @@
 				<a class="internal-link" href="File/Reframed.jpg.md"><img src="File/Reframed.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Ceej Allen">Ceej Allen</a></td>
 		</tr>
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><a class="internal-link" href="Lucky Chaos Theater">Lucky Chaos Theater</a></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

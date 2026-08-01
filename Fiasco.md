@@ -8,33 +8,22 @@
 				<a class="internal-link" href="File/Fiasco Poster.jpg.md"><img src="File/Fiasco%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Peter Rogers">Peter Rogers</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><a class="internal-link" href="Kevin Miller">Kevin Miller</a></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
 			<td class="category"><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

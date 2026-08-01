@@ -8,33 +8,22 @@
 				<a class="internal-link" href="File/You Can't Stay Here Poster.jpg.md"><img src="File/You%20Can't%20Stay%20Here%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Brad Hawkins">Brad Hawkins</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><a class="internal-link" href="Tosin Awofeso">Tosin Awofeso</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

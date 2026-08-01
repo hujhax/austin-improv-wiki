@@ -8,36 +8,22 @@
 				<a class="internal-link" href="File/Hell & Back Cabaret.jpg.md"><img src="File/Hell%20&%20Back%20Cabaret.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Adriane Shown">Adriane Shown</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">Jun 2013</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

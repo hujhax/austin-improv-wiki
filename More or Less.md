@@ -8,37 +8,22 @@
 				<a class="internal-link" href="File/More or Less Pic.jpg.md"><img src="File/More%20or%20Less%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">1999-2003</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***More or Less*** was a Johnstone format put on by [[The Hideout Theatre]].

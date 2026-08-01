@@ -8,25 +8,18 @@
 				<a class="internal-link" href="File/Story to the Death Promo.jpg.md"><img src="File/Story%20to%20the%20Death%20Promo.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Andy Crouch">Andy Crouch</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><a class="internal-link" href="Aspen Webster">Aspen Webster</a></td>
 		</tr>
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

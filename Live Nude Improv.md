@@ -10,28 +10,18 @@ __NOINDEX__
 				<a class="internal-link" href="File/Live Nude Improv Performance.jpg.md"><img src="File/Live%20Nude%20Improv%20Performance.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Andy Crouch">Andy Crouch</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><a class="internal-link" href="Bradley Dean Whyte">Bradley Dean Whyte</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

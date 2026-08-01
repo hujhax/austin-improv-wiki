@@ -8,37 +8,22 @@
 				<a class="internal-link" href="File/Blue Maestro Picture.jpg.md"><img src="File/Blue%20Maestro%20Picture.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">2000-Present</td>
 		</tr>
-
-		
 	</table>
 </div>
 **Blue Maestro** is the non-family-friendly version of [[Maestro]].

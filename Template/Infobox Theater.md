@@ -17,7 +17,6 @@ This template lists standard, useful information about an improv theater.
 			<th scope="row" class="category-header">Address</th>
 			<td class="category"></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category"></td>
@@ -58,7 +57,6 @@ This template lists standard, useful information about an improv theater.
 			<th scope="row" class="category-header">Address</th>
 			<td class="category">Theater Address</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category">Years of Operation</td>

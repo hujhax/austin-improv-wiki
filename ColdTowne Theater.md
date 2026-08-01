@@ -12,12 +12,10 @@
 			<th scope="row" class="category-header">Address</th>
 			<td class="category">4803-B Airport Boulevard</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Homepage</th>
 			<td class="category">http://www.coldtownetheater.com</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category">2006-Present</td>

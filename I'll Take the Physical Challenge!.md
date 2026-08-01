@@ -8,42 +8,26 @@
 				<a class="internal-link" href="File/I'll Take the Physical Challenge! placeholder image.jpg.md"><img src="File/I'll%20Take%20the%20Physical%20Challenge!%20placeholder%20image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">TBA</td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">TBA</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Sep/Oct 2016</td>
 		</tr>
-
-		
 	</table>
 </div>
 

@@ -16,14 +16,10 @@ This template lists standard, useful information about an improv troupe.
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category"></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"></td>
 		</tr>
-
-
-
 	</table>
 </div>
 </pre>
@@ -65,13 +61,9 @@ This template lists standard, useful information about an improv troupe.
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">Unknown</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">Unknown</td>
 		</tr>
-
-
-
 	</table>
 </div>

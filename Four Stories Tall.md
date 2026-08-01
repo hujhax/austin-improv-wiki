@@ -12,12 +12,10 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">2012-Present</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><a class="internal-link" href="Jeremy Sweetlamb">Jeremy Sweetlamb</a></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

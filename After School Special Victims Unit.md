@@ -8,33 +8,22 @@
 				<a class="internal-link" href="File/After School Special Victims Unit.jpg.md"><img src="File/After%20School%20Special%20Victims%20Unit.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Michael Jastroch">Michael Jastroch</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><a class="internal-link" href="Lizzie Leslie">Lizzie Leslie</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><a class="internal-link" href="Jason Laney">Jason Laney</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

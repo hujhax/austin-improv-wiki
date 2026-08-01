@@ -12,19 +12,14 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">2012-Present</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><a class="internal-link" href="Scott Hearne">Scott Hearne</a></td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
 	</table>
 </div>
 **The Theft Forum** is a podcast about Austin improv.

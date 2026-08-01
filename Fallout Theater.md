@@ -12,12 +12,10 @@
 			<th scope="row" class="category-header">Address</th>
 			<td class="category">616 Lavaca St., Austin TX, 78701</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Homepage</th>
 			<td class="category">https://www.falloutcomedy.com/</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Years of Operation</th>
 			<td class="category">2018-Present</td>

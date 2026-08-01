@@ -16,7 +16,6 @@
 			<th scope="row" class="category-header">Years Active</th>
 			<td class="category">2010-{{CURRENTYEAR}}</td>
 		</tr>
-
 	</table>
 </div>
 **Thedward Blevins** is an improv performer and technical improviser.

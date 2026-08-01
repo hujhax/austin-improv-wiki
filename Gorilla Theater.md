@@ -8,42 +8,26 @@
 				<a class="internal-link" href="File/Gorilla Theater Pic.jpg.md"><img src="File/Gorilla%20Theater%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">Unknown</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category">Oct-Dec 2006</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***Gorilla Theater*** was a Johnstonian format put on by [[The Hideout Theatre]].

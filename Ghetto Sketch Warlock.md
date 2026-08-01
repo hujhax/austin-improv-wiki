@@ -12,14 +12,10 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">2008-Present</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></td>
 		</tr>
-
-
-
 	</table>
 </div>
 

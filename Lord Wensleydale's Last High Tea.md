@@ -8,18 +8,10 @@
 				<a class="internal-link" href="File/Lord Wensleydale's Last High Tea.jpg.md"><img src="File/Lord%20Wensleydale's%20Last%20High%20Tea.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Parallelogramophonograph">Parallelogramophonograph</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

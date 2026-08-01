@@ -16,12 +16,10 @@
 			<th scope="row" class="category-header">Years Active</th>
 			<td class="category">2012-Present</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Instrument(s)</th>
 			<td class="category">Piano</td>
 		</tr>
-
 	</table>
 </div>
 

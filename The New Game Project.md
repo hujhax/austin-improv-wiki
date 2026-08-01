@@ -8,37 +8,22 @@
 				<a class="internal-link" href="File/The New Game Project Pic.jpg.md"><img src="File/The%20New%20Game%20Project%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Roy Janik">Roy Janik</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Varies</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">1/5/12</td>
 		</tr>
-
-		
 	</table>
 </div>
 ***The New Game Project*** (AKA ***The New Game People***) is a shortform show that generates shortform formats based on audience suggestions.

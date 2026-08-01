@@ -158,7 +158,6 @@ To do that, you just include an "infobox" template at the top of the page.  For 
 			<th scope="row" class="category-header">Years Active</th>
 			<td class="category">2008-Present</td>
 		</tr>
-
 	</table>
 </div></nowiki>
 

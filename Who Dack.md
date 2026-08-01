@@ -12,14 +12,10 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">2011-Present</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">Variable</td>
 		</tr>
-
-
-
 	</table>
 </div>
 **Who Dack?** is an improv troupe composed of members from several theaters and improv traditions, that performs mainly at [[ColdTowne Theater]].

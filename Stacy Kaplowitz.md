@@ -16,7 +16,6 @@
 			<th scope="row" class="category-header">Years Active</th>
 			<td class="category">2009-2010</td>
 		</tr>
-
 	</table>
 </div>
 

@@ -8,38 +8,26 @@
 				<a class="internal-link" href="File/Rewind.jpg.md"><img src="File/Rewind.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><a class="internal-link" href="Monica Martinez Maher">Monica Martinez Maher</a></td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
 			<td class="category"><a class="internal-link" href="Cindy Ward">Cindy Ward</a></td>
 		</tr>
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
 			<td class="category"><a class="internal-link" href="Candace Ohm">Candace Ohm</a></td>
 		</tr>
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

@@ -16,7 +16,6 @@
 			<th scope="row" class="category-header">Years Active</th>
 			<td class="category">?-Present</td>
 		</tr>
-
 	</table>
 </div>
 [[Category/Performers|Parrish]]

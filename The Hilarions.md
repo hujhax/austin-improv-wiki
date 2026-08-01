@@ -12,7 +12,6 @@
 			<th class="category-header" scope="row">Years Active</th>
 			<td class="category">1984-1986</td>
 		</tr>
-
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--

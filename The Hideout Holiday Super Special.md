@@ -8,42 +8,26 @@
 				<a class="internal-link" href="File/The Hideout Holiday Super Special Pic.jpg.md"><img src="File/The%20Hideout%20Holiday%20Super%20Special%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">Various</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">Nov/Dec 2010</td>
 		</tr>
-
-		
 	</table>
 </div>
 

@@ -8,42 +8,26 @@
 				<a class="internal-link" href="File/Highly Suggestible.jpg.md"><img src="File/Highly%20Suggestible.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Varies</td>
 		</tr>
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category">Varies</td>
 		</tr>
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Run</th>
-
 			<td class="category">2015-Present</td>
 		</tr>
-
-		
 	</table>
 </div>
 

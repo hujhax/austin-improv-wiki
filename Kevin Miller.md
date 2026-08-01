@@ -16,7 +16,6 @@
 			<th scope="row" class="category-header">Years Active</th>
 			<td class="category">2001-2004,2009-Present</td>
 		</tr>
-
 	</table>
 </div>
 **Kevin Miller** is an Austin improviser and the dean of the [[Merlin Works Institute for Improvisation]]. He started improv on October 24, 2001, the morning after seeing his friend [[Andy Crouch]]'s graduation show at the [[Hideout Theatre]]. His first instructor was [[Shana Merlin]]. Kevin graduated from Level 3 at the Hideout on March 26, 2002 and became a member of [[We Could Be Heroes]].

@@ -8,42 +8,26 @@
 				<a class="internal-link" href="File/Festival Festival.jpg.md"><img src="File/Festival%20Festival.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category">Various</td>
 		</tr>
-
-
-
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category">Various</td>
 		</tr>
-
-
 		<tr class="">
-
 			<th scope="row" class="category-header">Initial Run</th>
-
 			<td class="category">Dec 2013</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Subsequent Run(s)</th>
 			<td class="category">Dec 2014</td>
 		</tr>
-
-		
 	</table>
 </div>
 

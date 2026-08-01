@@ -8,28 +8,18 @@
 				<a class="internal-link" href="File/Abiggaymusicalplaceholder.png.md"><img src="File/Abiggaymusicalplaceholder.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
-
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></td>
 		</tr>
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
 			<td class="category"><a class="internal-link" href="Mia Cisco">Mia Cisco</a></td>
 		</tr>
-
-
-
-
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
