@@ -1,1 +1,4 @@
-1. REDIRECT [[Puppet Improv Project]]
+---
+redirect: "Puppet Improv Project"
+---
+#REDIRECT [[Puppet Improv Project]]

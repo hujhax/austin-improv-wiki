@@ -1,1 +1,4 @@
-1. REDIRECT [[Girls Girls Girls]]
+---
+redirect: "Girls Girls Girls"
+---
+#REDIRECT [[Girls Girls Girls]]

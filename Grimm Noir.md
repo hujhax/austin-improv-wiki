@@ -1,1 +1,4 @@
-1. REDIRECT [[GrimmNoir]]
+---
+redirect: "GrimmNoir"
+---
+#REDIRECT [[GrimmNoir]]

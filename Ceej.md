@@ -1,1 +1,4 @@
-1. redirect [[Christopher 'Ceej' Allen]]
+---
+redirect: "Christopher 'Ceej' Allen"
+---
+#REDIRECT [[Christopher 'Ceej' Allen]]

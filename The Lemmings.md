@@ -1,1 +1,4 @@
-1. REDIRECT [[Echo Lake]]
+---
+redirect: "Echo Lake"
+---
+#REDIRECT [[Echo Lake]]

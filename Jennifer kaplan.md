@@ -1,1 +1,4 @@
-1. REDIRECT [[Jen Kaplan]]
+---
+redirect: "Jen Kaplan"
+---
+#REDIRECT [[Jen Kaplan]]

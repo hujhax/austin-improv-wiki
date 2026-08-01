@@ -1,1 +1,4 @@
-1. REDIRECT [[Heidi Rogers]]
+---
+redirect: "Heidi Rogers"
+---
+#REDIRECT [[Heidi Rogers]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[The Double Barrel]]
+---
+redirect: "The Double Barrel"
+---
+#REDIRECT [[The Double Barrel]]

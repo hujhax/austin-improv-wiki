@@ -1,1 +1,4 @@
-1. REDIRECT [[SongRunner]]
+---
+redirect: "SongRunner"
+---
+#REDIRECT [[SongRunner]]

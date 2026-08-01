@@ -1,1 +1,4 @@
-1. REDIRECT [[Brent Chismark]]
+---
+redirect: "Brent Chismark"
+---
+#REDIRECT [[Brent Chismark]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Chelsea Adland]]
+---
+redirect: "Chelsea Adland"
+---
+#REDIRECT [[Chelsea Adland]]

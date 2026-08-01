@@ -1,1 +1,4 @@
-1. REDIRECT [[R. Lance Hunter]]
+---
+redirect: "R. Lance Hunter"
+---
+#REDIRECT [[R. Lance Hunter]]

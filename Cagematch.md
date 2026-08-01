@@ -1,1 +1,4 @@
-1. REDIRECT [[The Cagematch]]
+---
+redirect: "The Cagematch"
+---
+#REDIRECT [[The Cagematch]]

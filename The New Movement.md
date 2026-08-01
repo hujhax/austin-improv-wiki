@@ -1,1 +1,4 @@
-1. REDIRECT [[The New Movement Theater]]
+---
+redirect: "The New Movement Theater"
+---
+#REDIRECT [[The New Movement Theater]]

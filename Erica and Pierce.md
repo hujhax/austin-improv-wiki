@@ -1,1 +1,4 @@
-1. REDIRECT [[Lies Pierce]]
+---
+redirect: "Lies Pierce"
+---
+#REDIRECT [[Lies Pierce]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Kosher Bacon]]
+---
+redirect: "Kosher Bacon"
+---
+#REDIRECT [[Kosher Bacon]]

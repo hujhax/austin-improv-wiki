@@ -1,1 +1,4 @@
-1. REDIRECT [[The Comedy Workshop]]
+---
+redirect: "The Comedy Workshop"
+---
+#REDIRECT [[The Comedy Workshop]]

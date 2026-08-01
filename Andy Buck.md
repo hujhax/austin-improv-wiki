@@ -1,1 +1,4 @@
-1. REDIRECT [[Andrew Buck]]
+---
+redirect: "Andrew Buck"
+---
+#REDIRECT [[Andrew Buck]]

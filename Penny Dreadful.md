@@ -1,1 +1,4 @@
-1. REDIRECT [[A Penny Dreadful]]
+---
+redirect: "A Penny Dreadful"
+---
+#REDIRECT [[A Penny Dreadful]]

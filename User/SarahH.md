@@ -1,1 +1,4 @@
-1. REDIRECT [[Sarah Hutchins]]
+---
+redirect: "Sarah Hutchins"
+---
+#REDIRECT [[Sarah Hutchins]]

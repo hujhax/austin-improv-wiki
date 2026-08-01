@@ -1,1 +1,4 @@
-1. REDIRECT [[Maestro]]
+---
+redirect: "Maestro"
+---
+#REDIRECT [[Maestro]]

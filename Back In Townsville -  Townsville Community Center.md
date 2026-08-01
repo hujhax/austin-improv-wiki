@@ -1,1 +1,4 @@
-1. REDIRECT [[Back In Townsville]]
+---
+redirect: "Back In Townsville"
+---
+#REDIRECT [[Back In Townsville]]

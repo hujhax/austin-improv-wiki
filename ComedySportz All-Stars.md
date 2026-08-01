@@ -1,1 +1,4 @@
-1. REDIRECT [[ComedySportz]]
+---
+redirect: "ComedySportz"
+---
+#REDIRECT [[ComedySportz]]

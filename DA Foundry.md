@@ -1,1 +1,4 @@
-1. REDIRECT [[DA Foundry]]
+---
+redirect: "DA Foundry"
+---
+#REDIRECT [[DA Foundry]]

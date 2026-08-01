@@ -1,1 +1,4 @@
-1. REDIRECT [[Cené]]
+---
+redirect: "Cené"
+---
+#REDIRECT [[Cené]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Instant Classic]]
+---
+redirect: "Instant Classic"
+---
+#REDIRECT [[Instant Classic]]

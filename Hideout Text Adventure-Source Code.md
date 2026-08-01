@@ -1,1 +1,4 @@
-1. REDIRECT [[The Hideout Text Adventure-Source Code]]
+---
+redirect: "The Hideout Text Adventure-Source Code"
+---
+#REDIRECT [[The Hideout Text Adventure-Source Code]]

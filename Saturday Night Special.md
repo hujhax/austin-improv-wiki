@@ -1,1 +1,4 @@
-1. REDIRECT [[The Saturday Night Special]]
+---
+redirect: "The Saturday Night Special"
+---
+#REDIRECT [[The Saturday Night Special]]

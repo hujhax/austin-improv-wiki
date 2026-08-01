@@ -1,1 +1,4 @@
-1. REDIRECT[[Ellen Pizarek]]
+---
+redirect: "Ellen Pizarek"
+---
+#REDIRECT [[Ellen Pizarek]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[The Care Bear Stare]]
+---
+redirect: "The Care Bear Stare"
+---
+#REDIRECT [[The Care Bear Stare]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Lindsey McGowen]]
+---
+redirect: "Lindsey McGowen"
+---
+#REDIRECT [[Lindsey McGowen]]

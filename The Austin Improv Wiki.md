@@ -1,1 +1,4 @@
-1. REDIRECT [[Main Page]]
+---
+redirect: "Main Page"
+---
+#REDIRECT [[Main Page]]

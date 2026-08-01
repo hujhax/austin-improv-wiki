@@ -1,1 +1,4 @@
-1. REDIRECT [[Erica Lies]]
+---
+redirect: "Erica Lies"
+---
+#REDIRECT [[Erica Lies]]

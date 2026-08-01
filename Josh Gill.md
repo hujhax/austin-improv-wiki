@@ -1,1 +1,4 @@
-1. REDIRECT [[Joshua Gill]]
+---
+redirect: "Joshua Gill"
+---
+#REDIRECT [[Joshua Gill]]

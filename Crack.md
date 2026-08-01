@@ -1,1 +1,4 @@
-1. REDIRECT [[Crack!]]
+---
+redirect: "Crack!"
+---
+#REDIRECT [[Crack!]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Kate Bojanek]]
+---
+redirect: "Kate Bojanek"
+---
+#REDIRECT [[Kate Bojanek]]

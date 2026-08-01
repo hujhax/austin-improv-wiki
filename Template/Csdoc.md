@@ -1,1 +1,4 @@
-1. REDIRECT [[Template/Citation Style documentation|Template:Citation Style documentation]]{{R from template shortcut}}
+---
+redirect: "Template/Citation Style documentation"
+---
+#REDIRECT [[Template/Citation Style documentation]]

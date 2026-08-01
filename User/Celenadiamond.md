@@ -1,1 +1,4 @@
-1. REDIRECT [[Celena Diamond]]
+---
+redirect: "Celena Diamond"
+---
+#REDIRECT [[Celena Diamond]]

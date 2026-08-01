@@ -1,1 +1,4 @@
-1. REDIRECT [[Steve Rogers]]
+---
+redirect: "Steve Rogers"
+---
+#REDIRECT [[Steve Rogers]]

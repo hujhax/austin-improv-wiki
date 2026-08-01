@@ -1,1 +1,4 @@
-1. REDIRECT [[Waterpark]]
+---
+redirect: "Waterpark"
+---
+#REDIRECT [[Waterpark]]

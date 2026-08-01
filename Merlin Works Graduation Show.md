@@ -1,1 +1,4 @@
-1. REDIRECT [[Merlin Works Graduation Shows]]
+---
+redirect: "Merlin Works Graduation Shows"
+---
+#REDIRECT [[Merlin Works Graduation Shows]]

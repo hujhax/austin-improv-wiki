@@ -1,1 +1,4 @@
-1. REDIRECT [[Available Cupholders]]
+---
+redirect: "Available Cupholders"
+---
+#REDIRECT [[Available Cupholders]]

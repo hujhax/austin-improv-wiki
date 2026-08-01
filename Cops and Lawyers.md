@@ -1,3 +1,4 @@
-1. REDIRECT [[Cops & Lawyers]]
-
-[[Category/Shows|Cops]]
+---
+redirect: "Cops & Lawyers"
+---
+#REDIRECT [[Cops & Lawyers]]

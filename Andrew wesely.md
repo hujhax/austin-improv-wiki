@@ -1,1 +1,4 @@
-1. redirect [[Drew Wesely]]
+---
+redirect: "Drew Wesely"
+---
+#REDIRECT [[Drew Wesely]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Duran & Johnson]]
+---
+redirect: "Duran & Johnson"
+---
+#REDIRECT [[Duran & Johnson]]

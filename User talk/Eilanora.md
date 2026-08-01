@@ -1,1 +1,4 @@
-1. REDIRECT [[Talk/Lindsey McGowen|Talk:Lindsey McGowen]]
+---
+redirect: "Talk/Lindsey McGowen"
+---
+#REDIRECT [[Talk/Lindsey McGowen]]

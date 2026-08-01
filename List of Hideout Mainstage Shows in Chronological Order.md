@@ -1,1 +1,4 @@
-1. REDIRECT [[Hideout Mainstage Shows]]
+---
+redirect: "Hideout Mainstage Shows"
+---
+#REDIRECT [[Hideout Mainstage Shows]]

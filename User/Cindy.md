@@ -1,1 +1,4 @@
-1. REDIRECT [[Cindy Page]]
+---
+redirect: "Cindy Page"
+---
+#REDIRECT [[Cindy Page]]

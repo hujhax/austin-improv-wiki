@@ -1,1 +1,4 @@
-1. REDIRECT [[Dusk]]
+---
+redirect: "Dusk"
+---
+#REDIRECT [[Dusk]]

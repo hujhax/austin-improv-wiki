@@ -1,1 +1,4 @@
-1. REDIRECT [[Not This American Life]]
+---
+redirect: "Not This American Life"
+---
+#REDIRECT [[Not This American Life]]

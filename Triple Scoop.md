@@ -1,1 +1,4 @@
-1. REDIRECT [[The Triple Scoop]]
+---
+redirect: "The Triple Scoop"
+---
+#REDIRECT [[The Triple Scoop]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Sam Schak]]
+---
+redirect: "Sam Schak"
+---
+#REDIRECT [[Sam Schak]]

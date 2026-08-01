@@ -1,1 +1,4 @@
-1. REDIRECT [[Theatresports]]
+---
+redirect: "Theatresports"
+---
+#REDIRECT [[Theatresports]]

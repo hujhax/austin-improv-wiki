@@ -1,1 +1,4 @@
-1. REDIRECT [[Patrick Knisely]]
+---
+redirect: "Patrick Knisely"
+---
+#REDIRECT [[Patrick Knisely]]

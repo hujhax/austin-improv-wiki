@@ -1,1 +1,4 @@
-1. REDIRECT [[The Aftermath]]
+---
+redirect: "The Aftermath"
+---
+#REDIRECT [[The Aftermath]]

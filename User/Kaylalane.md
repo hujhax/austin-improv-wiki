@@ -1,1 +1,4 @@
-1. REDIRECT [[Kayla Lane Freeman]]
+---
+redirect: "Kayla Lane Freeman"
+---
+#REDIRECT [[Kayla Lane Freeman]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Sara Farr]]
+---
+redirect: "Sara Farr"
+---
+#REDIRECT [[Sara Farr]]

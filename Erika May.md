@@ -1,1 +1,4 @@
-1. REDIRECT [[Erika May McNichol]]
+---
+redirect: "Erika May McNichol"
+---
+#REDIRECT [[Erika May McNichol]]

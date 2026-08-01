@@ -1,1 +1,4 @@
-1. REDIRECT [[The Polite Society]]
+---
+redirect: "The Polite Society"
+---
+#REDIRECT [[The Polite Society]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Lisa Jackson]]
+---
+redirect: "Lisa Jackson"
+---
+#REDIRECT [[Lisa Jackson]]

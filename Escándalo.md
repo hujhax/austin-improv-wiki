@@ -1,1 +1,4 @@
-1. REDIRECT [[¡Escándalo!]]
+---
+redirect: "¡Escándalo!"
+---
+#REDIRECT [[¡Escándalo!]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Ryan Hill]]
+---
+redirect: "Ryan Hill"
+---
+#REDIRECT [[Ryan Hill]]

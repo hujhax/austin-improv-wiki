@@ -1,1 +1,4 @@
-1. REDIRECT [[Heist!]]
+---
+redirect: "Heist!"
+---
+#REDIRECT [[Heist!]]

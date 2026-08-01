@@ -1,1 +1,4 @@
-1. REDIRECT [[Yamina Khouane]]
+---
+redirect: "Yamina Khouane"
+---
+#REDIRECT [[Yamina Khouane]]

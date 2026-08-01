@@ -1,1 +1,4 @@
-1. REDIRECT [[Firth & Arjet]]
+---
+redirect: "Firth & Arjet"
+---
+#REDIRECT [[Firth & Arjet]]

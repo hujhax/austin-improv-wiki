@@ -1,1 +1,4 @@
-1. REDIRECT [[Andreas Fabis]]
+---
+redirect: "Andreas Fabis"
+---
+#REDIRECT [[Andreas Fabis]]

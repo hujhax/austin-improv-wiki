@@ -1,1 +1,4 @@
-1. REDIRECT [[Bob McNichol]]
+---
+redirect: "Bob McNichol"
+---
+#REDIRECT [[Bob McNichol]]

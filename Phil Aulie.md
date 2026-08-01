@@ -1,1 +1,4 @@
-1. REDIRECT [[Philip Aulie]]
+---
+redirect: "Philip Aulie"
+---
+#REDIRECT [[Philip Aulie]]

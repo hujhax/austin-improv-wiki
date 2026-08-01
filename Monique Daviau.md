@@ -1,1 +1,4 @@
-1. REDIRECT [[Mo Daviau]]
+---
+redirect: "Mo Daviau"
+---
+#REDIRECT [[Mo Daviau]]

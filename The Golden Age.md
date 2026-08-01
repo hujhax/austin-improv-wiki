@@ -1,1 +1,4 @@
-1. REDIRECT [[Golden Age]]
+---
+redirect: "Golden Age"
+---
+#REDIRECT [[Golden Age]]

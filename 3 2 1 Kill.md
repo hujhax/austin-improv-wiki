@@ -1,1 +1,4 @@
-1. REDIRECT [[3, 2, 1, Kill!]]
+---
+redirect: "3, 2, 1, Kill!"
+---
+#REDIRECT [[3, 2, 1, Kill!]]

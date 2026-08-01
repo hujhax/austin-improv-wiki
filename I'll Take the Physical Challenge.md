@@ -1,1 +1,4 @@
-1. REDIRECT [[I'll Take the Physical Challenge!]]
+---
+redirect: "I'll Take the Physical Challenge!"
+---
+#REDIRECT [[I'll Take the Physical Challenge!]]

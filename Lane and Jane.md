@@ -1,1 +1,4 @@
-1. REDIRECT [[Lane & Jane]]
+---
+redirect: "Lane & Jane"
+---
+#REDIRECT [[Lane & Jane]]

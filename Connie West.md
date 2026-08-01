@@ -1,1 +1,4 @@
-1. REDIRECT [[Royston]]
+---
+redirect: "Royston"
+---
+#REDIRECT [[Royston]]

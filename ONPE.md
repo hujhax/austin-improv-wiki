@@ -1,1 +1,4 @@
-1. REDIRECT [[Only 90% Effective]]
+---
+redirect: "Only 90% Effective"
+---
+#REDIRECT [[Only 90% Effective]]

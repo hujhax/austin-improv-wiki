@@ -1,1 +1,4 @@
-1. REDIRECT [[Ratliff and Jackson]]
+---
+redirect: "Ratliff and Jackson"
+---
+#REDIRECT [[Ratliff and Jackson]]

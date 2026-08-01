@@ -1,1 +1,4 @@
-1. REDIRECT [[Don't Forget Kimberly]]
+---
+redirect: "Don't Forget Kimberly"
+---
+#REDIRECT [[Don't Forget Kimberly]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[David Ronn]]
+---
+redirect: "David Ronn"
+---
+#REDIRECT [[David Ronn]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Talk/Todd Hart|Talk:Todd Hart]]
+---
+redirect: "Talk/Todd Hart"
+---
+#REDIRECT [[Talk/Todd Hart]]

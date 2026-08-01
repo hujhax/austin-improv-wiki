@@ -1,1 +1,4 @@
-1. redirect [[The Austin Improv Collective]]
+---
+redirect: "The Austin Improv Collective"
+---
+#REDIRECT [[The Austin Improv Collective]]

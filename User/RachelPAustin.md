@@ -1,1 +1,4 @@
-1. REDIRECT [[Rachel Posey Austin]]
+---
+redirect: "Rachel Posey Austin"
+---
+#REDIRECT [[Rachel Posey Austin]]

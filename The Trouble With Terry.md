@@ -1,1 +1,4 @@
-1. REDIRECT [[The Trouble With Terry]]
+---
+redirect: "The Trouble With Terry"
+---
+#REDIRECT [[The Trouble With Terry]]

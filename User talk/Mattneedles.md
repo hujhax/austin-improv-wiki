@@ -1,1 +1,4 @@
-1. REDIRECT [[Talk/Matt Needles|Talk:Matt Needles]]
+---
+redirect: "Talk/Matt Needles"
+---
+#REDIRECT [[Talk/Matt Needles]]

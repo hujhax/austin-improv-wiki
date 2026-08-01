@@ -1,1 +1,4 @@
-1. REDIRECT [[Template/Infobox Theater|Template:Infobox Theater]]
+---
+redirect: "Template/Infobox Theater"
+---
+#REDIRECT [[Template/Infobox Theater]]

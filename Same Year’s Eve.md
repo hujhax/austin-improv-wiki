@@ -1,1 +1,4 @@
-1. redirect [[Same Year's Eve]]
+---
+redirect: "Same Year's Eve"
+---
+#REDIRECT [[Same Year's Eve]]

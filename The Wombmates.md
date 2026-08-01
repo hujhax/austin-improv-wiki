@@ -1,1 +1,4 @@
-1. REDIRECT [[Wombmates]]
+---
+redirect: "Wombmates"
+---
+#REDIRECT [[Wombmates]]

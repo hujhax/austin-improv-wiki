@@ -1,1 +1,4 @@
-1. REDIRECT [[Array]]
+---
+redirect: "Array"
+---
+#REDIRECT [[Array]]

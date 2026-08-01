@@ -1,1 +1,4 @@
-1. REDIRECT [[Luis Salinas]]
+---
+redirect: "Luis Salinas"
+---
+#REDIRECT [[Luis Salinas]]

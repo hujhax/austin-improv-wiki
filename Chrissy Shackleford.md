@@ -1,1 +1,4 @@
-1. REDIRECT [[Chrissy Shackelford]]
+---
+redirect: "Chrissy Shackelford"
+---
+#REDIRECT [[Chrissy Shackelford]]

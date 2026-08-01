@@ -1,1 +1,4 @@
-1. REDIRECT [[Ann Symmonds]]
+---
+redirect: "Ann Symmonds"
+---
+#REDIRECT [[Ann Symmonds]]

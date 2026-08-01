@@ -1,1 +1,4 @@
-1. REDIRECT [[Kaci Beeler]]
+---
+redirect: "Kaci Beeler"
+---
+#REDIRECT [[Kaci Beeler]]

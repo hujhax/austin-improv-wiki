@@ -1,1 +1,4 @@
-1. REDIRECT [[Mike and Irene]]
+---
+redirect: "Mike and Irene"
+---
+#REDIRECT [[Mike and Irene]]

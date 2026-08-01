@@ -1,1 +1,4 @@
-1. REDIRECT [[You, Me, and Greg]]
+---
+redirect: "You, Me, and Greg"
+---
+#REDIRECT [[You, Me, and Greg]]

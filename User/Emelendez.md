@@ -1,1 +1,4 @@
-1. REDIRECT [[Ed Melendez]]
+---
+redirect: "Ed Melendez"
+---
+#REDIRECT [[Ed Melendez]]

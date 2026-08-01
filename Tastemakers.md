@@ -1,1 +1,4 @@
-1. REDIRECT [[The Tastemakers]]
+---
+redirect: "The Tastemakers"
+---
+#REDIRECT [[The Tastemakers]]

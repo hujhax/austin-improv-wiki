@@ -1,1 +1,4 @@
-1. REDIRECT [[The Knuckleball Now]]
+---
+redirect: "The Knuckleball Now"
+---
+#REDIRECT [[The Knuckleball Now]]

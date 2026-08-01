@@ -1,1 +1,4 @@
-1. REDIRECT [[Megan and Quinn]]
+---
+redirect: "Megan and Quinn"
+---
+#REDIRECT [[Megan and Quinn]]

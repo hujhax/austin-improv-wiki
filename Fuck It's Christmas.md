@@ -1,1 +1,4 @@
-1. REDIRECT [[Fuck It's Hot]]
+---
+redirect: "Fuck It's Hot"
+---
+#REDIRECT [[Fuck It's Hot]]

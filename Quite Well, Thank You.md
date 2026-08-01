@@ -1,1 +1,4 @@
-1. REDIRECT [[Quite Well Thank You]]
+---
+redirect: "Quite Well Thank You"
+---
+#REDIRECT [[Quite Well Thank You]]

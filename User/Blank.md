@@ -1,1 +1,4 @@
-1. REDIRECT [[Greg Blank]]
+---
+redirect: "Greg Blank"
+---
+#REDIRECT [[Greg Blank]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[ColdTowne Student Troupes]]
+---
+redirect: "ColdTowne Student Troupes"
+---
+#REDIRECT [[ColdTowne Student Troupes]]

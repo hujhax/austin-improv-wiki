@@ -1,1 +1,4 @@
-1. REDIRECT [[Oh, Science!]]
+---
+redirect: "Oh, Science!"
+---
+#REDIRECT [[Oh, Science!]]

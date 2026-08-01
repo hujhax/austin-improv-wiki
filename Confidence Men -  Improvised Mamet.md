@@ -1,1 +1,4 @@
-1. REDIRECT [[Confidence Men]]
+---
+redirect: "Confidence Men"
+---
+#REDIRECT [[Confidence Men]]

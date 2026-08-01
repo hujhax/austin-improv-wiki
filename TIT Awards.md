@@ -1,1 +1,4 @@
-1. REDIRECT [[The Institution Theater Awards]]
+---
+redirect: "The Institution Theater Awards"
+---
+#REDIRECT [[The Institution Theater Awards]]

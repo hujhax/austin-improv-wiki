@@ -1,1 +1,4 @@
-1. REDIRECT [[Susannah Raulino]]
+---
+redirect: "Susannah Raulino"
+---
+#REDIRECT [[Susannah Raulino]]

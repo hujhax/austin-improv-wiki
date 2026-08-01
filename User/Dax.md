@@ -1,1 +1,4 @@
-1. REDIRECT [[Tim Honker]]
+---
+redirect: "Tim Honker"
+---
+#REDIRECT [[Tim Honker]]

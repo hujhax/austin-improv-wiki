@@ -1,1 +1,4 @@
-1. REDIRECT [[I Snood Bear]]
+---
+redirect: "I Snood Bear"
+---
+#REDIRECT [[I Snood Bear]]

@@ -1,1 +1,4 @@
-1. REDIRECT[[The 46-Hour Improv Marathon]]
+---
+redirect: "The 46-Hour Improv Marathon"
+---
+#REDIRECT [[The 46-Hour Improv Marathon]]

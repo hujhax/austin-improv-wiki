@@ -1,1 +1,4 @@
-1. REDIRECT [[G.O.O.F.S]]
+---
+redirect: "G.O.O.F.S"
+---
+#REDIRECT [[G.O.O.F.S]]

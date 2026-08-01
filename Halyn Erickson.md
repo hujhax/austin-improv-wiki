@@ -1,1 +1,4 @@
-1. REDIRECT [[Halyn Lee Erickson]]
+---
+redirect: "Halyn Lee Erickson"
+---
+#REDIRECT [[Halyn Lee Erickson]]

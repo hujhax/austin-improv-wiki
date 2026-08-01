@@ -1,1 +1,4 @@
-1. REDIRECT [[Live From ColdTowne It's Saturday Night!]]
+---
+redirect: "Live From ColdTowne It's Saturday Night!"
+---
+#REDIRECT [[Live From ColdTowne It's Saturday Night!]]

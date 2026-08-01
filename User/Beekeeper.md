@@ -1,1 +1,4 @@
-1. REDIRECT [[Topping Haggerty]]
+---
+redirect: "Topping Haggerty"
+---
+#REDIRECT [[Topping Haggerty]]

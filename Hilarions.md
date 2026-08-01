@@ -1,1 +1,4 @@
-1. REDIRECT [[The Hilarions]]
+---
+redirect: "The Hilarions"
+---
+#REDIRECT [[The Hilarions]]

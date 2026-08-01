@@ -1,1 +1,4 @@
-1. REDIRECT [[ImprompTwo]]
+---
+redirect: "ImprompTwo"
+---
+#REDIRECT [[ImprompTwo]]

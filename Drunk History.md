@@ -1,1 +1,4 @@
-1. REDIRECT [[History Under the Influence]]
+---
+redirect: "History Under the Influence"
+---
+#REDIRECT [[History Under the Influence]]

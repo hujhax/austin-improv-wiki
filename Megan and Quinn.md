@@ -1,1 +1,4 @@
-1. REDIRECT [[Temp]]
+---
+redirect: "Temp"
+---
+#REDIRECT [[Temp]]

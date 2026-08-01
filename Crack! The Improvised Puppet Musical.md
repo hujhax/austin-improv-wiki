@@ -1,3 +1,4 @@
-1. REDIRECT [[Crack!]]
-
-[[Category/Shows|Crack]]
+---
+redirect: "Crack!"
+---
+#REDIRECT [[Crack!]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Jon Bolden]]
+---
+redirect: "Jon Bolden"
+---
+#REDIRECT [[Jon Bolden]]

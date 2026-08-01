@@ -1,1 +1,4 @@
-1. REDIRECT [[Seance]]
+---
+redirect: "Seance"
+---
+#REDIRECT [[Seance]]

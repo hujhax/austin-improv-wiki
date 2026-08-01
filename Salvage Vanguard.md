@@ -1,1 +1,4 @@
-1. REDIRECT [[Salvage Vanguard Theater]]
+---
+redirect: "Salvage Vanguard Theater"
+---
+#REDIRECT [[Salvage Vanguard Theater]]

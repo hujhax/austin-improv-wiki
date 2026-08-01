@@ -1,1 +1,4 @@
-1. REDIRECT [[Alex Ayala]]
+---
+redirect: "Alex Ayala"
+---
+#REDIRECT [[Alex Ayala]]

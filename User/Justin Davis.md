@@ -1,1 +1,4 @@
-1. REDIRECT [[Justin Davis]]
+---
+redirect: "Justin Davis"
+---
+#REDIRECT [[Justin Davis]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Franz & Dave]]
+---
+redirect: "Franz & Dave"
+---
+#REDIRECT [[Franz & Dave]]

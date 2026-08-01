@@ -1,1 +1,4 @@
-1. REDIRECT [[Steam]]
+---
+redirect: "Steam"
+---
+#REDIRECT [[Steam]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Bryan 'Lubu' Roberts]]
+---
+redirect: "Bryan 'Lubu' Roberts"
+---
+#REDIRECT [[Bryan 'Lubu' Roberts]]

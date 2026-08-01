@@ -1,1 +1,4 @@
-1. REDIRECT [[Liz Brammer]]
+---
+redirect: "Liz Brammer"
+---
+#REDIRECT [[Liz Brammer]]

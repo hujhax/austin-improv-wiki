@@ -1,1 +1,4 @@
-1. REDIRECT [[The Free Fringe]]
+---
+redirect: "The Free Fringe"
+---
+#REDIRECT [[The Free Fringe]]

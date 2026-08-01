@@ -1,1 +1,4 @@
-1. REDIRECT [[Mary Henderson]]
+---
+redirect: "Mary Henderson"
+---
+#REDIRECT [[Mary Henderson]]

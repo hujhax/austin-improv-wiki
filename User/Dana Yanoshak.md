@@ -1,1 +1,4 @@
-1. REDIRECT [[Dana Yanoshak]]
+---
+redirect: "Dana Yanoshak"
+---
+#REDIRECT [[Dana Yanoshak]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Jeff Britt]]
+---
+redirect: "Jeff Britt"
+---
+#REDIRECT [[Jeff Britt]]

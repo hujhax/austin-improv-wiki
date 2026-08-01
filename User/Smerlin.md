@@ -1,1 +1,4 @@
-1. REDIRECT [[Shana Merlin]]
+---
+redirect: "Shana Merlin"
+---
+#REDIRECT [[Shana Merlin]]

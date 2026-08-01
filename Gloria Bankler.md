@@ -1,1 +1,4 @@
-1. redirect [[Gloria Rabil Bankler]]
+---
+redirect: "Gloria Rabil Bankler"
+---
+#REDIRECT [[Gloria Rabil Bankler]]

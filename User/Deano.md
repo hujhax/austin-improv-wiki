@@ -1,1 +1,4 @@
-1. REDIRECT [[Deano Jones]]
+---
+redirect: "Deano Jones"
+---
+#REDIRECT [[Deano Jones]]

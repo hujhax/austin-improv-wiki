@@ -1,1 +1,4 @@
-1. REDIRECT [[Lacy Alana]]
+---
+redirect: "Lacy Alana"
+---
+#REDIRECT [[Lacy Alana]]

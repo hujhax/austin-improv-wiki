@@ -1,1 +1,4 @@
-1. REDIRECT [[Galactic]]
+---
+redirect: "Galactic"
+---
+#REDIRECT [[Galactic]]

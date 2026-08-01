@@ -1,1 +1,4 @@
-1. REDIRECT [[Bad Boys]]
+---
+redirect: "Bad Boys"
+---
+#REDIRECT [[Bad Boys]]

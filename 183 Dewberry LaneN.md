@@ -1,1 +1,4 @@
-1. REDIRECT [[183 Dewberry Lane]]
+---
+redirect: "183 Dewberry Lane"
+---
+#REDIRECT [[183 Dewberry Lane]]

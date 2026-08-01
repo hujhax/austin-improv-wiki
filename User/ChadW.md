@@ -1,1 +1,4 @@
-1. REDIRECT [[Chad Wellington]]
+---
+redirect: "Chad Wellington"
+---
+#REDIRECT [[Chad Wellington]]

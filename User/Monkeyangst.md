@@ -1,1 +1,4 @@
-1. REDIRECT [[Brad Hawkins]]
+---
+redirect: "Brad Hawkins"
+---
+#REDIRECT [[Brad Hawkins]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[The 2012 Out of Bounds Comedy Festival]]
+---
+redirect: "The 2012 Out of Bounds Comedy Festival"
+---
+#REDIRECT [[The 2012 Out of Bounds Comedy Festival]]

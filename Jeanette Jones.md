@@ -1,1 +1,4 @@
-1. REDIRECT [[Jeanette Bozied]]
+---
+redirect: "Jeanette Bozied"
+---
+#REDIRECT [[Jeanette Bozied]]

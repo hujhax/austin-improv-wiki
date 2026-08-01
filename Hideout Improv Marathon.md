@@ -1,1 +1,4 @@
-1. REDIRECT [[The Hideout Improv Marathon]]
+---
+redirect: "The Hideout Improv Marathon"
+---
+#REDIRECT [[The Hideout Improv Marathon]]

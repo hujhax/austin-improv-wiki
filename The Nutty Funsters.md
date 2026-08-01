@@ -1,1 +1,4 @@
-1. REDIRECT [[Parallelogramophonograph#The Nutty Funsters]]
+---
+redirect: "Parallelogramophonograph#The Nutty Funsters"
+---
+#REDIRECT [[Parallelogramophonograph#The Nutty Funsters]]

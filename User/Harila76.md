@@ -1,1 +1,4 @@
-1. REDIRECT [[Lahari Samineni]]
+---
+redirect: "Lahari Samineni"
+---
+#REDIRECT [[Lahari Samineni]]

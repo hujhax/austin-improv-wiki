@@ -1,1 +1,4 @@
-1. REDIRECT [[Lunch Pail]]
+---
+redirect: "Lunch Pail"
+---
+#REDIRECT [[Lunch Pail]]

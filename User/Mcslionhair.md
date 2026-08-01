@@ -1,1 +1,4 @@
-1. REDIRECT [[Quinn Buckner]]
+---
+redirect: "Quinn Buckner"
+---
+#REDIRECT [[Quinn Buckner]]

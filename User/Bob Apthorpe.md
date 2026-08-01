@@ -1,1 +1,4 @@
-1. REDIRECT [[Bob Apthorpe]]
+---
+redirect: "Bob Apthorpe"
+---
+#REDIRECT [[Bob Apthorpe]]

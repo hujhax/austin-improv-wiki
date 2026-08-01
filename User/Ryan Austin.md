@@ -1,1 +1,4 @@
-1. REDIRECT [[Ryan Austin]]
+---
+redirect: "Ryan Austin"
+---
+#REDIRECT [[Ryan Austin]]

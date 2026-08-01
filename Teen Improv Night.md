@@ -1,1 +1,4 @@
-1. REDIRECT [[All Ages Improv Night]]
+---
+redirect: "All Ages Improv Night"
+---
+#REDIRECT [[All Ages Improv Night]]

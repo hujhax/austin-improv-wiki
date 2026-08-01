@@ -1,1 +1,4 @@
-1. REDIRECT [[Editor and Chief]]
+---
+redirect: "Editor and Chief"
+---
+#REDIRECT [[Editor and Chief]]

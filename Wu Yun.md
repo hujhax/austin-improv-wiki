@@ -1,1 +1,4 @@
-1. REDIRECT [[Want to Know]]
+---
+redirect: "Want to Know"
+---
+#REDIRECT [[Want to Know]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Keegan Hines]]
+---
+redirect: "Keegan Hines"
+---
+#REDIRECT [[Keegan Hines]]

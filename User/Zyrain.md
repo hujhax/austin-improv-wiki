@@ -1,1 +1,4 @@
-1. REDIRECT [[Neal Tibrewala]]
+---
+redirect: "Neal Tibrewala"
+---
+#REDIRECT [[Neal Tibrewala]]

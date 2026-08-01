@@ -1,1 +1,4 @@
-1. REDIRECT [[Timothy Coyle]]
+---
+redirect: "Timothy Coyle"
+---
+#REDIRECT [[Timothy Coyle]]

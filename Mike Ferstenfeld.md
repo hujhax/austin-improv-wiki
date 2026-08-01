@@ -1,1 +1,4 @@
-1. REDIRECT [[Michael Ferstenfeld]]
+---
+redirect: "Michael Ferstenfeld"
+---
+#REDIRECT [[Michael Ferstenfeld]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[The Hideout Theatre]]
+---
+redirect: "The Hideout Theatre"
+---
+#REDIRECT [[The Hideout Theatre]]

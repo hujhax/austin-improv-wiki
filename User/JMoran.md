@@ -1,1 +1,4 @@
-1. REDIRECT [[Jeremy Moran]]
+---
+redirect: "Jeremy Moran"
+---
+#REDIRECT [[Jeremy Moran]]

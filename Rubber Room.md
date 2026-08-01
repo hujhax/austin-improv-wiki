@@ -1,1 +1,4 @@
-1. REDIRECT [[The Rubber Room]]
+---
+redirect: "The Rubber Room"
+---
+#REDIRECT [[The Rubber Room]]

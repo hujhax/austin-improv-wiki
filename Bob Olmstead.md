@@ -1,1 +1,4 @@
-1. REDIRECT [[Bobby Ford]]
+---
+redirect: "Bobby Ford"
+---
+#REDIRECT [[Bobby Ford]]

@@ -1,1 +1,4 @@
-1. REDIRECT  [[The Austin Improv Forums]]
+---
+redirect: "The Austin Improv Forums"
+---
+#REDIRECT [[The Austin Improv Forums]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Asaf Ronen]]
+---
+redirect: "Asaf Ronen"
+---
+#REDIRECT [[Asaf Ronen]]

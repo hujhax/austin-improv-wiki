@@ -1,1 +1,4 @@
-1. REDIRECT [[McNichol & May]]
+---
+redirect: "McNichol & May"
+---
+#REDIRECT [[McNichol & May]]

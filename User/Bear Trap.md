@@ -1,1 +1,4 @@
-1. REDIRECT [[Brett Tribe]]
+---
+redirect: "Brett Tribe"
+---
+#REDIRECT [[Brett Tribe]]

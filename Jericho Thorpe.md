@@ -1,1 +1,4 @@
-1. REDIRECT [[Jericho Thorp]]
+---
+redirect: "Jericho Thorp"
+---
+#REDIRECT [[Jericho Thorp]]

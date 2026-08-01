@@ -1,1 +1,4 @@
-1. REDIRECT [[Jeremy Sweetlamb]]
+---
+redirect: "Jeremy Sweetlamb"
+---
+#REDIRECT [[Jeremy Sweetlamb]]

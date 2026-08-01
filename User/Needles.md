@@ -1,1 +1,4 @@
-1. REDIRECT [[Matt Needles]]
+---
+redirect: "Matt Needles"
+---
+#REDIRECT [[Matt Needles]]

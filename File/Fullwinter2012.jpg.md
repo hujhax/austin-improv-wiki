@@ -1,3 +1,6 @@
 <div style="text-align: center;"><img src="Fullwinter2012.jpg" style="max-width: 100%; height: auto;" /></div>
 
-1. REDIRECT ![[Caeriel Crestin Pic.jpg]]
+---
+redirect: "File/Caeriel Crestin Pic.jpg"
+---
+#REDIRECT [[File/Caeriel Crestin Pic.jpg]]

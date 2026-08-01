@@ -1,3 +1,6 @@
 <div style="text-align: center;"><img src="Chris Kyle- American Improvisers.jpg" style="max-width: 100%; height: auto;" /></div>
 
-1. REDIRECT ![[Chris Kyle American Improvisers.jpg]]
+---
+redirect: "File/Chris Kyle American Improvisers.jpg"
+---
+#REDIRECT [[File/Chris Kyle American Improvisers.jpg]]

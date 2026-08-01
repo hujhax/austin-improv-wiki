@@ -1,1 +1,4 @@
-1. REDIRECT [[Cody Dearing]]
+---
+redirect: "Cody Dearing"
+---
+#REDIRECT [[Cody Dearing]]

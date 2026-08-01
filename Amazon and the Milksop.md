@@ -1,1 +1,4 @@
-1. redirect [[The Amazon and the Milksop]]
+---
+redirect: "The Amazon and the Milksop"
+---
+#REDIRECT [[The Amazon and the Milksop]]

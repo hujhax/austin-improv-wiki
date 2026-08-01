@@ -1,1 +1,4 @@
-1. REDIRECT [[Talk/Adriane Shown|Talk:Adriane Shown]]
+---
+redirect: "Talk/Adriane Shown"
+---
+#REDIRECT [[Talk/Adriane Shown]]

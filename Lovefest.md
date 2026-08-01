@@ -1,1 +1,4 @@
-1. REDIRECT [[Love Fest]]
+---
+redirect: "Love Fest"
+---
+#REDIRECT [[Love Fest]]

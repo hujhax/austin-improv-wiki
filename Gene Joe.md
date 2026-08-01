@@ -1,1 +1,4 @@
-1. REDIRECT [[Gene Zhou]]
+---
+redirect: "Gene Zhou"
+---
+#REDIRECT [[Gene Zhou]]

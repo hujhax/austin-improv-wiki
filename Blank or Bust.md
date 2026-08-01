@@ -1,1 +1,4 @@
-1. REDIRECT [[' ' or Bust!]]
+---
+redirect: "' ' or Bust!"
+---
+#REDIRECT [[' ' or Bust!]]

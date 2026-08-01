@@ -1,1 +1,4 @@
-1. REDIRECT [[Big Beautiful Warriors]]
+---
+redirect: "Big Beautiful Warriors"
+---
+#REDIRECT [[Big Beautiful Warriors]]

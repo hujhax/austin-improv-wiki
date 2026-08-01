@@ -1,1 +1,4 @@
-1. REDIRECT [[Talk/Erica Lies|Talk:Erica Lies]]
+---
+redirect: "Talk/Erica Lies"
+---
+#REDIRECT [[Talk/Erica Lies]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Justin Bozied]]
+---
+redirect: "Justin Bozied"
+---
+#REDIRECT [[Justin Bozied]]

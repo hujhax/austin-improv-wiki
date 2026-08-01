@@ -1,1 +1,4 @@
-1. REDIRECT [[¡Zarzamora!]]
+---
+redirect: "¡Zarzamora!"
+---
+#REDIRECT [[¡Zarzamora!]]

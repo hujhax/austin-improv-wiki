@@ -1,1 +1,4 @@
-1. REDIRECT [[Apocalypse! (show)]]
+---
+redirect: "Apocalypse! (show)"
+---
+#REDIRECT [[Apocalypse! (show)]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Aden Kirschner‎]]
+---
+redirect: "Aden Kirschner‎"
+---
+#REDIRECT [[Aden Kirschner‎]]

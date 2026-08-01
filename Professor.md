@@ -1,1 +1,4 @@
-1. REDIRECT [[The Professor]]
+---
+redirect: "The Professor"
+---
+#REDIRECT [[The Professor]]

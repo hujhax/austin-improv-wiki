@@ -1,1 +1,4 @@
-1. REDIRECT [[Achatina Achatina]]
+---
+redirect: "Achatina Achatina"
+---
+#REDIRECT [[Achatina Achatina]]

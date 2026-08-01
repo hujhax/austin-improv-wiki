@@ -1,1 +1,4 @@
-1. REDIRECT [[J. R. Zambrano]]
+---
+redirect: "J. R. Zambrano"
+---
+#REDIRECT [[J. R. Zambrano]]

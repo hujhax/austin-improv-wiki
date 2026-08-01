@@ -1,1 +1,4 @@
-1. REDIRECT [[Roy Janik]]
+---
+redirect: "Roy Janik"
+---
+#REDIRECT [[Roy Janik]]

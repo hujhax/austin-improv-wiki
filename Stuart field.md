@@ -1,1 +1,4 @@
-1. redirect [[Stuart Feild]]
+---
+redirect: "Stuart Feild"
+---
+#REDIRECT [[Stuart Feild]]

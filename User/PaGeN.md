@@ -1,1 +1,4 @@
-1. REDIRECT [[Paul Normandin]]
+---
+redirect: "Paul Normandin"
+---
+#REDIRECT [[Paul Normandin]]

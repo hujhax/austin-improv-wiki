@@ -1,1 +1,4 @@
-1. REDIRECT [[The Austin Improv Potluck]]
+---
+redirect: "The Austin Improv Potluck"
+---
+#REDIRECT [[The Austin Improv Potluck]]

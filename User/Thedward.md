@@ -1,1 +1,4 @@
-1. REDIRECT [[Thedward Blevins]]
+---
+redirect: "Thedward Blevins"
+---
+#REDIRECT [[Thedward Blevins]]

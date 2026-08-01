@@ -1,1 +1,4 @@
-1. REDIRECT [[Movie Riot]]
+---
+redirect: "Movie Riot"
+---
+#REDIRECT [[Movie Riot]]

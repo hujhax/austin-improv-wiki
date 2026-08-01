@@ -1,1 +1,4 @@
-1. REDIRECT [[Kenjutsu]]
+---
+redirect: "Kenjutsu"
+---
+#REDIRECT [[Kenjutsu]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Start Trekkin']]
+---
+redirect: "Start Trekkin'"
+---
+#REDIRECT [[Start Trekkin']]

@@ -1,1 +1,4 @@
-1. REDIRECT [[The Lindas]]
+---
+redirect: "The Lindas"
+---
+#REDIRECT [[The Lindas]]

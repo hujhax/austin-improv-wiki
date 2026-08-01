@@ -1,1 +1,4 @@
-1. REDIRECT [[Sarah Marie Curry]]
+---
+redirect: "Sarah Marie Curry"
+---
+#REDIRECT [[Sarah Marie Curry]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Jason Finkelman]]
+---
+redirect: "Jason Finkelman"
+---
+#REDIRECT [[Jason Finkelman]]

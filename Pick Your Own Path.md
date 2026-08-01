@@ -1,1 +1,4 @@
-1. REDIRECT [[Control Issues]]
+---
+redirect: "Control Issues"
+---
+#REDIRECT [[Control Issues]]

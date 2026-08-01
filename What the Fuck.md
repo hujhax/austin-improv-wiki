@@ -1,1 +1,4 @@
-1. REDIRECT [[What the F@$]]
+---
+redirect: "What the F@$"
+---
+#REDIRECT [[What the F@$]]

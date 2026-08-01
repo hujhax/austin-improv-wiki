@@ -1,3 +1,6 @@
 <div style="text-align: center;"><img src="Cyber House Rules.jpg" style="max-width: 100%; height: auto;" /></div>
 
-1. REDIRECT ![[SongRunner.jpg]]
+---
+redirect: "File/SongRunner.jpg"
+---
+#REDIRECT [[File/SongRunner.jpg]]

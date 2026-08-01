@@ -1,1 +1,4 @@
-1. REDIRECT [[Braised in Texas]]
+---
+redirect: "Braised in Texas"
+---
+#REDIRECT [[Braised in Texas]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Kevlar]]
+---
+redirect: "Kevlar"
+---
+#REDIRECT [[Kevlar]]

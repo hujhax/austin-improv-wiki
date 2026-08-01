@@ -1,1 +1,4 @@
-1. REDIRECT [[The Matriarchy]]
+---
+redirect: "The Matriarchy"
+---
+#REDIRECT [[The Matriarchy]]

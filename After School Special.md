@@ -1,1 +1,4 @@
-1. REDIRECT [[After School Improv]]
+---
+redirect: "After School Improv"
+---
+#REDIRECT [[After School Improv]]

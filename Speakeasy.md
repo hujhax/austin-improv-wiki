@@ -1,1 +1,4 @@
-1. REDIRECT [[The Speakeasy]]
+---
+redirect: "The Speakeasy"
+---
+#REDIRECT [[The Speakeasy]]

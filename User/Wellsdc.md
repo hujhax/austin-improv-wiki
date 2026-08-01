@@ -1,1 +1,4 @@
-1. REDIRECT [[David Wells]]
+---
+redirect: "David Wells"
+---
+#REDIRECT [[David Wells]]

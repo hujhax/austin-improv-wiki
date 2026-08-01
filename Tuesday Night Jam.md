@@ -1,1 +1,4 @@
-1. REDIRECT [[The Tuesday Night Jam]]
+---
+redirect: "The Tuesday Night Jam"
+---
+#REDIRECT [[The Tuesday Night Jam]]

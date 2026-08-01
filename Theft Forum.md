@@ -1,1 +1,4 @@
-1. REDIRECT [[The Theft Forum]]
+---
+redirect: "The Theft Forum"
+---
+#REDIRECT [[The Theft Forum]]

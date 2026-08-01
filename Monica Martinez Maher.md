@@ -1,1 +1,4 @@
-1. REDIRECT [[Monica Alquetz]]
+---
+redirect: "Monica Alquetz"
+---
+#REDIRECT [[Monica Alquetz]]

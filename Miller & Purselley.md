@@ -1,1 +1,4 @@
-1. REDIRECT [[Miller and Purselley]]
+---
+redirect: "Miller and Purselley"
+---
+#REDIRECT [[Miller and Purselley]]

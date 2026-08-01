@@ -1,1 +1,4 @@
-1. REDIRECT [[Youth Group Improv]]
+---
+redirect: "Youth Group Improv"
+---
+#REDIRECT [[Youth Group Improv]]

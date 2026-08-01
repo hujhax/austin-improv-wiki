@@ -1,1 +1,4 @@
-1. REDIRECT [[The Institution Theater]]
+---
+redirect: "The Institution Theater"
+---
+#REDIRECT [[The Institution Theater]]

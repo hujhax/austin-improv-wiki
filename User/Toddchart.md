@@ -1,1 +1,4 @@
-1. REDIRECT [[Todd Hart]]
+---
+redirect: "Todd Hart"
+---
+#REDIRECT [[Todd Hart]]

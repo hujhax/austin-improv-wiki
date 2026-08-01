@@ -1,1 +1,4 @@
-1. REDIRECT [[SSHH!]]
+---
+redirect: "SSHH!"
+---
+#REDIRECT [[SSHH!]]

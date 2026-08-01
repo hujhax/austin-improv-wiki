@@ -1,1 +1,4 @@
-1. REDIRECT [[The Weekender]]
+---
+redirect: "The Weekender"
+---
+#REDIRECT [[The Weekender]]

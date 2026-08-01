@@ -1,1 +1,4 @@
-1. REDIRECT [[Nothing and Everything]]
+---
+redirect: "Nothing and Everything"
+---
+#REDIRECT [[Nothing and Everything]]

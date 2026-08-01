@@ -1,1 +1,4 @@
-1. redirect [[Gnap! Theater Projects]]
+---
+redirect: "Gnap! Theater Projects"
+---
+#REDIRECT [[Gnap! Theater Projects]]

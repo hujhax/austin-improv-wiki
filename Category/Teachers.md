@@ -1,4 +1,7 @@
-1. REDIRECT [[List of Austin Improv Teachers]]
+---
+redirect: "List of Austin Improv Teachers"
+---
+#REDIRECT [[List of Austin Improv Teachers]]
 
 ## Pages in category "Teachers"
 

@@ -1,1 +1,4 @@
-1. REDIRECT [[Lauren Buck]]
+---
+redirect: "Lauren Buck"
+---
+#REDIRECT [[Lauren Buck]]

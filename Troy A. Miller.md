@@ -1,1 +1,4 @@
-1. REDIRECT [[Troy Miller]]
+---
+redirect: "Troy Miller"
+---
+#REDIRECT [[Troy Miller]]

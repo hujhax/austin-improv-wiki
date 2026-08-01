@@ -1,1 +1,4 @@
-1. REDIRECT [[Senshi Sokkyo]]
+---
+redirect: "Senshi Sokkyo"
+---
+#REDIRECT [[Senshi Sokkyo]]

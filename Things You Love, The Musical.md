@@ -1,1 +1,4 @@
-1. REDIRECT [[Things You Love]]
+---
+redirect: "Things You Love"
+---
+#REDIRECT [[Things You Love]]

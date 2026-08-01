@@ -1,1 +1,4 @@
-1. REDIRECT [[Toby Keith and the French Guy]]
+---
+redirect: "Toby Keith and the French Guy"
+---
+#REDIRECT [[Toby Keith and the French Guy]]

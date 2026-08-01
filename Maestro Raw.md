@@ -1,1 +1,4 @@
-1. REDIRECT [[Maestro Raw]]
+---
+redirect: "Maestro Raw"
+---
+#REDIRECT [[Maestro Raw]]

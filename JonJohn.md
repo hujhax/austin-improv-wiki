@@ -1,1 +1,4 @@
-1. REDIRECT [[Déclassé]]
+---
+redirect: "Déclassé"
+---
+#REDIRECT [[Déclassé]]

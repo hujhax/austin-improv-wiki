@@ -1,1 +1,4 @@
-1. REDIRECT [[Nathan Sowell]]
+---
+redirect: "Nathan Sowell"
+---
+#REDIRECT [[Nathan Sowell]]

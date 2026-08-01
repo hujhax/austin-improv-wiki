@@ -1,1 +1,4 @@
-1. REDIRECT [[Colin Thomas Bates]]
+---
+redirect: "Colin Thomas Bates"
+---
+#REDIRECT [[Colin Thomas Bates]]

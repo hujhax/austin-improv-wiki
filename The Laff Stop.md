@@ -1,1 +1,4 @@
-1. REDIRECT [[Cap City Comedy Club]]
+---
+redirect: "Cap City Comedy Club"
+---
+#REDIRECT [[Cap City Comedy Club]]

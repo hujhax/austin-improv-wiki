@@ -1,1 +1,4 @@
-1. REDIRECT [[Merlin Works Second Sundays]]
+---
+redirect: "Merlin Works Second Sundays"
+---
+#REDIRECT [[Merlin Works Second Sundays]]

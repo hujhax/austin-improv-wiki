@@ -1,1 +1,4 @@
-1. REDIRECT [[Twelve-Inch Integrity]]
+---
+redirect: "Twelve-Inch Integrity"
+---
+#REDIRECT [[Twelve-Inch Integrity]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Template/List of Hideout Theatre Shows|Template:List of Hideout Theatre Shows]]
+---
+redirect: "Template/List of Hideout Theatre Shows"
+---
+#REDIRECT [[Template/List of Hideout Theatre Shows]]

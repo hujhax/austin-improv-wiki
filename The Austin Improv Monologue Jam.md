@@ -1,1 +1,4 @@
-1. REDIRECT [[The Monologue Jam]]
+---
+redirect: "The Monologue Jam"
+---
+#REDIRECT [[The Monologue Jam]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[Magician vs. Clown]]
+---
+redirect: "Magician vs. Clown"
+---
+#REDIRECT [[Magician vs. Clown]]

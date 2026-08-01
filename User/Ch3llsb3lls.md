@@ -1,1 +1,4 @@
-1. REDIRECT [[Chelley Pyatt]]
+---
+redirect: "Chelley Pyatt"
+---
+#REDIRECT [[Chelley Pyatt]]

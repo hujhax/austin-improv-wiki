@@ -1,1 +1,4 @@
-1. REDIRECT [[Kristin Henn]]
+---
+redirect: "Kristin Henn"
+---
+#REDIRECT [[Kristin Henn]]

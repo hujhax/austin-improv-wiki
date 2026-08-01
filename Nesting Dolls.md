@@ -1,1 +1,4 @@
-1. REDIRECT [[The Nesting Dolls]]
+---
+redirect: "The Nesting Dolls"
+---
+#REDIRECT [[The Nesting Dolls]]

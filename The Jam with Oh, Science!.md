@@ -1,1 +1,4 @@
-1. REDIRECT [[The Jam]]
+---
+redirect: "The Jam"
+---
+#REDIRECT [[The Jam]]

@@ -1,1 +1,4 @@
-1. REDIRECT [[The New Game Project]]
+---
+redirect: "The New Game Project"
+---
+#REDIRECT [[The New Game Project]]

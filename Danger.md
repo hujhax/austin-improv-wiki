@@ -1,1 +1,4 @@
-1. REDIRECT [[Danger!]]
+---
+redirect: "Danger!"
+---
+#REDIRECT [[Danger!]]

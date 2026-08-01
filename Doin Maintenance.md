@@ -1,1 +1,4 @@
-1. REDIRECT [[Doin' Maintenance]]
+---
+redirect: "Doin' Maintenance"
+---
+#REDIRECT [[Doin' Maintenance]]

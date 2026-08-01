@@ -1,1 +1,4 @@
-1. REDIRECT [[Caeriel Crestin]]
+---
+redirect: "Caeriel Crestin"
+---
+#REDIRECT [[Caeriel Crestin]]

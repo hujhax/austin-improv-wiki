@@ -1,1 +1,4 @@
-1. REDIRECT [[Joshua Krilov]]
+---
+redirect: "Joshua Krilov"
+---
+#REDIRECT [[Joshua Krilov]]

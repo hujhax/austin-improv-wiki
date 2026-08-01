@@ -1,1 +1,4 @@
-1. REDIRECT [[The Jukebox Musical Project#Renaissance Queen]]
+---
+redirect: "The Jukebox Musical Project#Renaissance Queen"
+---
+#REDIRECT [[The Jukebox Musical Project#Renaissance Queen]]

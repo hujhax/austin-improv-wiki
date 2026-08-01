@@ -1,1 +1,4 @@
-1. REDIRECT [[Northshore Local]]
+---
+redirect: "Northshore Local"
+---
+#REDIRECT [[Northshore Local]]

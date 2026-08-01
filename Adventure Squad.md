@@ -1,1 +1,4 @@
-1. REDIRECT [[Adventure Squad!]]
+---
+redirect: "Adventure Squad!"
+---
+#REDIRECT [[Adventure Squad!]]

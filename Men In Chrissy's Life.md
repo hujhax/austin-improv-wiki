@@ -1,1 +1,4 @@
-1. REDIRECT [[Silent Letters]]
+---
+redirect: "Silent Letters"
+---
+#REDIRECT [[Silent Letters]]

@@ -1,3 +1,4 @@
-1. REDIRECT [[Dusk]]
-
-[[Category/Shows|Dusk]]
+---
+redirect: "Dusk"
+---
+#REDIRECT [[Dusk]]

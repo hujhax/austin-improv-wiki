@@ -1,1 +1,4 @@
-1. REDIRECT [[Awww, Shit!]]
+---
+redirect: "Awww, Shit!"
+---
+#REDIRECT [[Awww, Shit!]]

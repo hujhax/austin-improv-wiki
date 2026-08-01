@@ -1,1 +1,4 @@
-1. REDIRECT [[Brent Unger]]
+---
+redirect: "Brent Unger"
+---
+#REDIRECT [[Brent Unger]]

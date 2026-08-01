@@ -1,1 +1,4 @@
-1. REDIRECT [[Scott Hearne]]
+---
+redirect: "Scott Hearne"
+---
+#REDIRECT [[Scott Hearne]]

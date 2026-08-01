@@ -1,1 +1,4 @@
-1. REDIRECT [[Jay Michael]]
+---
+redirect: "Jay Michael"
+---
+#REDIRECT [[Jay Michael]]
