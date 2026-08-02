@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Fakespeare Preview Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Preview image for *[[Fakespeare]]*, featuring director [[Andy Crouch]].
+Preview image for *[[Shows/Fakespeare]]*, featuring director [[Performers/Andy Crouch]].
 
-Artwork by [[Kaci Beeler]].
+Artwork by [[Performers/Kaci Beeler]].
 
 Photo by: unknown.
 

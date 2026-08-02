@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cagematch2x4.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The 2x4 with the names of winners of *[[The Cagematch]]*, mounted on the wall at [[ColdTowne Theater]].
+The 2x4 with the names of winners of *[[Shows/The Cagematch]]*, mounted on the wall at [[Coldtowne Theater]].
 
 Photo by [[Adam Trabka]].
 ## Licensing

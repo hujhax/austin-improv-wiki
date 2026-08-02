@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="The Heroes of Comedy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Flyer for [[The Heroes of Comedy]] for Jan/Feb 2000, featuring [[Craig Kotfas]] as a superhero.
+Flyer for [[Troupes/The Heroes of Comedy]] for Jan/Feb 2000, featuring [[Performers/Craig Kotfas]] as a superhero.
 
 Photo by [[Lisa Brown]].
 
-Art by [[Sean Hill]].
+Art by [[Performers/Sean Hill]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

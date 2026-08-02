@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Danielle Saar Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Danielle Saar]] performing in *[[Maestro]]*.
+[[Performers/Danielle Saar]] performing in *[[Shows/Maestro]]*.
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

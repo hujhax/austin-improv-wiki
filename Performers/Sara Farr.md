@@ -1,0 +1,113 @@
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Sara Farr</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/Sara Farr Pic.jpg.md"><img src="File/Sara%20Farr%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+	</table>
+</div>
+
+**Sara Farr** is an improv performer and technical improvisor.  She is the woman behind the [[Puppet Improv Project]].
+
+## History
+Sara started performing in 2005 with [[Troupes/Wooden Nickel]]; that same year, she organized [[The Tuesday Night Jam]] at [[The Hideout Theatre]].  Her first improv-scoring was for [[Troupes/Get Up]] at [[The 2005 Out of Bounds Comedy Festival]].  The following year, she started performing with [[Troupes/The Leading Brands]] and regularly scoring [[Troupes/Get Up]].
+
+In 2009, she founded the [[Puppet Improv Project]], which has since had several show runs, and festival appearances at [[The Out Of Bounds Comedy Festival]] and the Twin Cities Fest.  She began performing with [[Troupes/ComedySportz]] in 2010, but its Austin chapter dissolved in 2012 (she still makes guest appearances in San Antonio).
+
+She's scored many shows at [[The Hideout Theatre]], and in 2013 started teching occasionally for [[Troupes/Girls Girls Girls]].
+
+Sara also designed the [[Austin Improv Collective]]'s "kitchen sink" logo.
+
+A post from her about the first improv show she ever saw:<blockquote><p>A stand-up show at a comedy club in Santa Monica (early 1990s; not Laugh Factory, not Comedy Store, hm...) while attending college at USC. The last set, after all the other stand-ups, was a group of LA character actors (whose names I can't remember, but who I distinctly remember were staring in sitcoms or playing secondary rolls in films). It was shockingly fun. I remember thinking, "Why weren't these guys the opening act???!!" The one game they played that I remember was "Directed Story". A year later, [[Performers/Tom Booker]] and I unknowingly ALMOST crossed paths when my friends and I discussed going to see his production of "The Brady Bunch".</p> 
+
+<p>Also, saw some USC Theater students doing improv on the grass in the "quad". Only thing I remember was them doing an improvised "Death By..." scene. Fav was "Death By Admissions" where the players grew old and died while waiting in line.</p></blockquote>
+
+## Troupes
+* [[Troupes/ComedySportz]]
+* [[Troupes/Get Up]] (tech)
+* [[Troupes/Girls Girls Girls]] (tech)
+* [[Troupes/The Leading Brands]]
+* [[Troupes/Wooden Nickel]]
+
+## Shows
+* *[[Dusk]]*
+* *[[Shows/Haunted]]*
+* *[[Shows/Heist!]]*
+* *[[Shows/Hitchcocked!]]*
+* [[Live TV Tuesdays -  Angel]] (assistant director)
+* *[[Shows/Lola]]* (tech, sound design)
+* [[Puppet Improv Project]] productions:
+	* *[[Crack]]*
+	* *[[Elf Employment]]*
+	* *[[Off the Reef]]*
+	* *[[Puppet Fever]]*
+	* *[[Puppet Katamari]]*
+	* *[[Trash]]*
+	* *[[Wild West Puppets]]*
+* *[[Seance]]*
+[[Category/Performers|Farr]]
+[[Category/Techs|Farr]]
+[[Category/Active|Category:Active]]

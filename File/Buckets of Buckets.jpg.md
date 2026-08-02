@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Buckets of Buckets.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Buckets of Buckets]].
+Publicity photo of [[Troupes/Buckets of Buckets]].
 
 Photo by: unknown.
 ## Licensing

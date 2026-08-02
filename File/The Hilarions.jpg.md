@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Hilarions.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[The Hilarions]] from 1984.
+Publicity photo of [[Troupes/The Hilarions]] from 1984.
 
 Photo taken from [this article](http://www.austinchronicle.com/arts/2001-01-26/80278/).
 ## Licensing

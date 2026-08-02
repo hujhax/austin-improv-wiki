@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Murphy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Murphy]].
+Publicity photo of [[Troupes/Murphy]].
 
 Photo by: unknown.
 

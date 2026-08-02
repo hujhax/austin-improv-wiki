@@ -1,4 +1,4 @@
 ---
-redirect: "SongRunner"
+redirect: "Shows/SongRunner"
 ---
-#REDIRECT [[SongRunner]]
+#REDIRECT [[Shows/SongRunner]]

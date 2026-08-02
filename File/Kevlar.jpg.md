@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kevlar.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Kevlar]].
+Publicity photo of [[Troupes/Kevlar]].
 
 Photo by: unknown.
 ## Licensing

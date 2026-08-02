@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Snap Snap Nation.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Snap Snap Nation]].
+Publicity photo of [[Troupes/Snap Snap Nation]].
 
 Photo by: unknown.
 ## Licensing

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="That Racket!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[That Racket!]]
+Publicity photo of [[Troupes/That Racket!]]
 
 Photo by [[Steve Rogers]].
 ## Licensing

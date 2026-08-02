@@ -5,19 +5,19 @@
 
 ## Acts
 ### Local Acts
-* [[Foolish Mortals]]
+* [[Troupes/Foolish Mortals]]
 * [[Gag Reflex]]
-* [[Get Up]]
-* [[Girls Girls Girls]]
+* [[Troupes/Get Up]]
+* [[Troupes/Girls Girls Girls]]
 * [[Heroes of Comedy]]
 * [[Polite Society]]
-* [[The Knuckleball Now]]
+* [[Troupes/The Knuckleball Now]]
 * [[The Plurals]]
-* [[The Sicks]]
+* [[Troupes/The Sicks]]
 * [[The Think Tank]]
-* [[Tight]]
-* [[Well Hung Jury]]
-* [[Wooden Nickel]]
+* [[Troupes/Tight]]
+* [[Troupes/Well Hung Jury]]
+* [[Troupes/Wooden Nickel]]
 
 ### Out-of-Town Acts
 * Apollo 12 (Phoenix)

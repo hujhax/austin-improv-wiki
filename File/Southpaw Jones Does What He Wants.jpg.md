@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Southpaw Jones Does What He Wants.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Banner art for *[[Southpaw Jones Does What He Wants]]*.
+Banner art for *[[Shows/Southpaw Jones Does What He Wants]]*.
 
-Art by [[Asaf Ronen]].
+Art by [[Performers/Asaf Ronen]].
 
 Photo by: unknown.
 ## Licensing

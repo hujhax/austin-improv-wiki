@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Miller and Lies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Miller and Lies]] performing at [[The Institution Theater]].
+[[Troupes/Miller and Lies]] performing at [[The Institution Theater]].
 
-Photo by [[Claudio Fox]].
+Photo by [[Performers/Claudio Fox]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

@@ -30,20 +30,20 @@
 ***ImprompTwo*** is a weekly performance slot at [[The Institution Theater]].
 
 ## Summary
-*ImprompTwo* is a "casual duo night", featuring [[Cascade]] with another guest duo each week.
+*ImprompTwo* is a "casual duo night", featuring [[Troupes/Cascade]] with another guest duo each week.
 
 ## Guests
-* January 11th - [[MANDINKA]]
-* January 18th - [[Austin-Austin]]
-* January 25th - [[Kim Stacy]] & [[Asaf Ronen]]
+* January 11th - [[Troupes/MANDINKA]]
+* January 18th - [[Troupes/Austin-Austin]]
+* January 25th - [[Kim Stacy]] & [[Performers/Asaf Ronen]]
 
 ## Media
 ### Videos
 * Videos of the 5/23/15 show:
-	* [Video](http://vimeo.com/131850763) of [[JK]].
+	* [Video](http://vimeo.com/131850763) of [[Troupes/JK]].
 	* [Video](http://vimeo.com/131851909) of interstitial music from [[The Laylas]].
-	* [Video](http://vimeo.com/131853278) of [[Sarah Marie Curry]] and [[Clifton Highfield]], sitting in for [[Cascade]].
+	* [Video](http://vimeo.com/131853278) of [[Performers/Sarah Marie Curry]] and [[Performers/Clifton Highfield]], sitting in for [[Troupes/Cascade]].
 * Videos of the 8/30/15 show:
-	* [Video](http://vimeo.com/137809092) of [[Lindsey McGowen]] and [[Peter Rogers]] singing "Dance Me to the End of Love".
-	* [Video](http://vimeo.com/137908715) of [[Lindsey McGowen]] and [[Tosin Awofeso]] singing "Manhattan".
+	* [Video](http://vimeo.com/137809092) of [[Lindsey McGowen]] and [[Performers/Peter Rogers]] singing "Dance Me to the End of Love".
+	* [Video](http://vimeo.com/137908715) of [[Lindsey McGowen]] and [[Performers/Tosin awofeso]] singing "Manhattan".
 	* [Video](http://vimeo.com/137908715) of [[Lindsey McGowen]] leading an a cappella improv game.

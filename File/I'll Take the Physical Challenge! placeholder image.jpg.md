@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="I'll Take the Physical Challenge! placeholder image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Placeholder image for *[[I'll Take the Physical Challenge!]]*
+Placeholder image for *[[Shows/I'll Take the Physical Challenge!]]*
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

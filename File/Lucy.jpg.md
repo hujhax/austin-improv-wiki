@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Lucy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Lucy]].
+Publicity image for [[Troupes/Lucy]].
 
 Photo by: unknown.
 

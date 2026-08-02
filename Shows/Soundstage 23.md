@@ -1,0 +1,147 @@
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Soundstage 23</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Soundstage23.jpg.md"><img src="File/Soundstage23.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Alan Buttars">Alan Buttars</a></li><!--
+  --><li style=""><a class="internal-link" href="Alonso Salas">Alonso Salas</a></li><!--
+  --><li style=""><a class="internal-link" href="Biz Gilmore">Biz Gilmore</a></li><!--
+  --><li style=""><a class="internal-link" href="Casey Quinlan">Casey Quinlan</a></li><!--
+  --><li style=""><a class="internal-link" href="Jason Castro">Jason Castro</a></li><!--
+  --><li style=""><a class="internal-link" href="Joel Barton">Joel Barton</a></li><!--
+  --><li style=""><a class="internal-link" href="Michelle Dahlenburg">Michelle Dahlenburg</a></li><!--
+  --><li style=""><a class="internal-link" href="Shay Millheiser">Shay Millheiser</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Run</th>
+			<td class="category">October 2017</td>
+		</tr>
+	</table>
+</div>
+
+***Soundstage 23*** was a Hideout student mainstage show.  It was a musical set behind the scenes at a film studio during the Golden Age of Hollywood.  It was inspired by *La La Land*, *Hail, Caesar!*, *Noises Off*, and *Singin' in the Rain*.
+
+## Promotional Blurb
+There is never a dull moment on Soundstage 23. The sound stages are alive with the song and dance numbers of the movies filmed there. But what happens behind the scenes after the cameras turn off?
+
+Catch a glimpse into the lives of the people working on a movie set as they navigate the drama on and off screen.
+
+Inspired by La La Land, Hail, Caesar!, Noises Off, and Singing in the Rain, Soundstage 23 is a musical ensemble narrative production that will explore the lives of glamorous stars, regular old working actors, production crews, directors, producers and all the other vibrant personalities of a classic cinematic musical.
+
+Between the dramas of life on set, actors sing and dance their hearts out on camera, embracing the excitement of the Golden Age of Hollywood – all completely improvised on-the-spot by the Hideout’s up-and-coming talent!
+
+## More Information
+* [The show's web page.](http://www.hideouttheatre.com/shows/soundstage23)
+
+[[Category/Shows|Category:Shows]]
+[[Category/The Hideout Theatre|Category:The Hideout Theatre]]

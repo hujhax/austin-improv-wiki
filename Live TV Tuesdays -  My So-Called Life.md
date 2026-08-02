@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -23,11 +23,11 @@
   --><li style=""><a class="internal-link" href="Brittany Salyer">Brittany Salyer</a></li><!--
   --><li style=""><a class="internal-link" href="Christian Rashsalve Huey">Christian Rashsalve Huey</a></li><!--
   --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
   --><li style=""><a class="internal-link" href="Rafael Virguez">Rafael Virguez</a></li><!--
-  --><li style=""><a class="internal-link" href="Ruby Willmann">Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
-  --><li style="" ><a class="internal-link" href="Ted Meredith">Ted Meredith</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Performers/Stephanie Hagemeister</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Ted Meredith">Performers/Ted Meredith</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: My So-Called Life*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - My So-Called Life|*My So-Called Life*]] episode ["Pressure"](http://www.imdb.com/title/tt0654958/).
+***Live TV Tuesdays: My So-Called Life*** refers to the *[[Shows/Live TV Tuesdays]]* presentation of the [[Wikipedia - My So-Called Life|*My So-Called Life*]] episode ["Pressure"](http://www.imdb.com/title/tt0654958/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *My So-Called Life".
@@ -87,11 +87,11 @@ It played exclusively at [[The Highball]].
 
 ## Cast
 * Angela Chase -- [[Christine Giordano]]
-* Jordan Catalano -- [[Kyle Traughber]]
-* Brian Krakow -- [[Ted Meredith]] 
-* Patricia Chase/Sharon Cherski -- [[Ruby Willmann]]
+* Jordan Catalano -- [[Performers/Kyle Traughber]]
+* Brian Krakow -- [[Performers/Ted Meredith]] 
+* Patricia Chase/Sharon Cherski -- [[Performers/Ruby Willmann]]
 * Graham Chase -- [[Christian Rashsalve Huey]]
-* Danielle Chase -- [[Stephanie Hagemeister]]
+* Danielle Chase -- [[Performers/Stephanie Hagemeister]]
 * Rickie Vasquez -- [[Matholomew Giles]]
 * Rayanne Graff -- [[Britany Salyer]]
 * Ensemble -- [[Ann Wilson]], [[Rafael Virguez]]

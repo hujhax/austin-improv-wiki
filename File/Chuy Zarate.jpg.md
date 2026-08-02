@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Chuy Zarate.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Chuy Zarate]] performing in the season one finale of *[[Thinning the Herd]]*.
+[[Performers/Chuy Zarate]] performing in the season one finale of *[[Shows/Thinning The Herd]]*.
 
 Photo by [[Steve Rogers]], from [[Photoset](http - --www.facebook.com-media-set-set=a.480098265387028.115279.221927764537414&type=3|this)].
 ## Licensing

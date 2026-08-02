@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Ryan Austin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Head shot of [[Ryan Austin]].
+Head shot of [[Performers/Ryan Austin]].
 
-(Copyright owned by [[Ryan Austin]].)
+(Copyright owned by [[Performers/Ryan Austin]].)
 
 ## Licensing
 {{Template:AIC-Wiki-only license}}

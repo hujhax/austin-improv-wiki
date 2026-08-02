@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Twelve-Inch Integrity.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Twelve-Inch Integrity]].
+Logo for [[Troupes/Twelve-Inch Integrity]].
 
 Art by: unknown.
 ## Licensing

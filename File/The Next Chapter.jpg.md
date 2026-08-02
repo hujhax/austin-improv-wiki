@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Next Chapter.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[The Next Chapter]]*.
+Publicity image for *[[Shows/The Next Chapter]]*.
 
 Art by [[Justin Davis]].
 

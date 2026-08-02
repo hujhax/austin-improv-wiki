@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Blah Blah Train.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Casual photo of [[The Blah Blah Train]].
+Casual photo of [[Troupes/The Blah Blah Train]].
 
 Photo by: unknown.
 

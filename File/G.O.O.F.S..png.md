@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="G.O.O.F.S..png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Still from a video of the 1/2/14 performance by [[G.O.O.F.S]]
+Still from a video of the 1/2/14 performance by [[Troupes/G.O.O.F.S]]
 
-Video by [[Melissa Patterson]].
+Video by [[Performers/Melissa Patterson]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

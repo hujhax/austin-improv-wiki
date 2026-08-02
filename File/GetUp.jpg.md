@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="GetUp.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photographer unknown. Taken from [[Get Up]]'s website.
+Photographer unknown. Taken from [[Troupes/Get Up]]'s website.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

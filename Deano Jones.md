@@ -24,22 +24,22 @@
 ## History
 Moving to Austin in 2005 from New York City, Deano began taking improv classes at [[Merlin Works]] in 2009. 
 
-He has appeared in [[Michael Joplin]]'s *[[The Family]]*, Hideout mainstage shows *[[The Andersons]]*, *[[The Violet Underbelly]]* and *[[Holy 1960's Batman, Batman!]]*. He is a member of troupes [[Simply D-Vine]], [[The Intentions]] and [[The Knuckleball Now]].
+He has appeared in [[Performers/Michael Joplin]]'s *[[The Family]]*, Hideout mainstage shows *[[Shows/The Andersons]]*, *[[Shows/The Violet Underbelly]]* and *[[Holy 1960's Batman, Batman!]]*. He is a member of troupes [[Troupes/Simply D-VINE]], [[Troupes/The Intentions]] and [[Troupes/The Knuckleball Now]].
 
 As a graphic designer, Deano has created over 200 posters for improv shows in the AIC.
 
-His novel, *[Rise of the Cafe Racer](http://www.riseofthecaferacer.com)*, was featured in *[[The Next Chapter]]*.
+His novel, *[Rise of the Cafe Racer](http://www.riseofthecaferacer.com)*, was featured in *[[Shows/The Next Chapter]]*.
 
 ## Shows
-* *[[The Andersons]]*
+* *[[Shows/The Andersons]]*
 * *[[The Family]]*
-* *[[Holy 1960s Batman, Batman!]]*
-* *[[The Violet Underbelly]]*
+* *[[Shows/Holy 1960s Batman, Batman!]]*
+* *[[Shows/The Violet Underbelly]]*
 
 ## Troupes
-* [[The Intentions]]
-* [[The Knuckleball Now]]
-* [[Simply D-Vine]]
+* [[Troupes/The Intentions]]
+* [[Troupes/The Knuckleball Now]]
+* [[Troupes/Simply D-VINE]]
 
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/id/2816451) on *[[The Theft Forum]]*.

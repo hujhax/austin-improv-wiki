@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="One More Night.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional image for *[[One More Night]]*.
+Promotional image for *[[Shows/One More Night]]*.
 
-Photo by [[Jon Bolden]].  Design by [[Courtney Hopkin]].
+Photo by [[Performers/Jon Bolden]].  Design by [[Performers/Courtney Hopkin]].
 
 Taken from http://onemorenight.eventbrite.com/.
 

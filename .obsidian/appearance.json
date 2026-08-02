@@ -1,5 +1,4 @@
 {
-    "cssSnippets": [
-        "wiki-styles"
-    ]
+  "theme": "obsidian",
+  "cssTheme": "Minimal"
 }

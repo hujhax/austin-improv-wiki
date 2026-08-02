@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="The Love Notes.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[The Love Notes]] take their final bow with troupe member [[Meghan Wolff]] (before her departure to Minneapolis), from their 5/29/10 performance in *[[The Saturday Night Special]]*.
+[[Troupes/The Love Notes]] take their final bow with troupe member [[Performers/Meghan Wolff]] (before her departure to Minneapolis), from their 5/29/10 performance in *[[Shows/The Saturday Night Special]]*.
 
-Photo by [[Peter Rogers]].
+Photo by [[Performers/Peter Rogers]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

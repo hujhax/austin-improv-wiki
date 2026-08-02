@@ -1,4 +1,4 @@
 ---
-redirect: "¡Zarzamora!"
+redirect: "Troupes/¡ZARZAMORA!"
 ---
-#REDIRECT [[¡Zarzamora!]]
+#REDIRECT [[Troupes/¡ZARZAMORA!]]

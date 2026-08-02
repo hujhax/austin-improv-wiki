@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="The Joss Whedon Pajama Party.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for *[[The Joss Whedon Pajama Party]]*, featuring [[Chelley Pyatt]].
+Poster for *[[The Joss Whedon Pajama Party]]*, featuring [[Performers/Chelley Pyatt]].
 
-Photo by [[Sarah Swofford]]; art by [[Asaf Ronen]].
+Photo by [[Performers/Sarah Swofford]]; art by [[Performers/Asaf Ronen]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

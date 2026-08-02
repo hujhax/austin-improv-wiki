@@ -1,4 +1,4 @@
 ---
-redirect: "Déclassé"
+redirect: "Troupes/Déclassé"
 ---
-#REDIRECT [[Déclassé]]
+#REDIRECT [[Troupes/Déclassé]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Rarebit.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Rarebit]].
+Publicity image for [[Troupes/Rarebit]].
 
 Photo by: unknown.
 

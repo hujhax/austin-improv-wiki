@@ -1,13 +1,13 @@
 <div style="text-align: center;"><img src="183 Dewberry Lane Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for *[[183 Dewberry Lane]]*.
+Poster for *[[Shows/183 Dewberry Lane]]*.
 
-Photos by [[Jay Mahavier]].
+Photos by [[Performers/Jay Mahavier]].
 
-Makeup effects by [[Jason Vines]].
+Makeup effects by [[Performers/Jason Vines]].
 
-Art by [[Kaci Beeler]].
+Art by [[Performers/Kaci Beeler]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

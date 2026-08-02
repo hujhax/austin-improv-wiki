@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Beans Beans (the musical troupe).jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Beans Beans (the musical troupe)]]
+Publicity image for [[Troupes/Beans Beans (the musical troupe)]]
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Bill Stern Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Bill Stern]], performing in hour 30 ("1001 Monologues for Teens") of [[The 41-Hour Improv Marathon]].
+[[Performers/Bill Stern]], performing in hour 30 ("1001 Monologues for Teens") of [[The 41-Hour Improv Marathon]].
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=1).
 ## Licensing

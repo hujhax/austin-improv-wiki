@@ -1,4 +1,4 @@
 ---
-redirect: "Heist!"
+redirect: "Shows/Heist!"
 ---
-#REDIRECT [[Heist!]]
+#REDIRECT [[Shows/Heist!]]

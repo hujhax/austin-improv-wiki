@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Look Cookie.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Look Cookie]].
+Publicity image for [[Troupes/Look Cookie]].
 
 Photo by: unknown.
 

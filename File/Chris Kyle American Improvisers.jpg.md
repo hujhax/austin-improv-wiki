@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Chris Kyle American Improvisers.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Chris Kyle -  American Improvisers]].
+Publicity photo of [[Troupes/Chris Kyle -  American Improvisers]].
 
 Photo by: unknown.
 

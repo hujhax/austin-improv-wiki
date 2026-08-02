@@ -1,4 +1,4 @@
 ---
-redirect: "Ball&Chain"
+redirect: "Troupes/Ball&Chain"
 ---
-#REDIRECT [[Ball&Chain]]
+#REDIRECT [[Troupes/Ball&Chain]]

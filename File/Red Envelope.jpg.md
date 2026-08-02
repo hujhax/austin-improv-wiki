@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Red Envelope.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Red Envelope]]*.
+Publicity poster for *[[Shows/Red Envelope]]*.
 
 Art by: unknown.
 ## Licensing

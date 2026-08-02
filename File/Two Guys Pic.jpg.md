@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Two Guys Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity shot for [[Two Guys From Yonkers]].
+Publicity shot for [[Troupes/Two Guys from Yonkers]].
 
 Photo by [[Steve Rogers]].
 

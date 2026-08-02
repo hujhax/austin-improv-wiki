@@ -9,70 +9,70 @@ The festival ran from Tuesday 8/28/12 to Monday 9/3/11.
 
 It included a performance of [[Blue Maestro]], as well as "ZEDTalks", a set of TEDTalks-like presentations on random subjects set to randomly-selected PowerPoint presentations.
 
-The festival roast featured [[David Lampe]].
+The festival roast featured [[Performers/David Lampe]].
 
 ## Acts
 ### Local Improv and Sketch Acts
-* *[[After School Improv]]*
-* [[The Amazon and the Milksop]]
-* [[Available Cupholders]]
-* [[Bad Boys]]
-* [[Baxter and Bernard]]
+* *[[Shows/After School Improv]]*
+* [[Troupes/The Amazon and The Milksop]]
+* [[Troupes/Available Cupholders]]
+* [[Troupes/Bad Boys]]
+* [[Troupes/Baxter and Bernard]]
 * [[Ben Schave]]
-* [[Big Beautiful Warlock]]
-* [[ColdTowne (troupe)|ColdTowne]]
-* [[Confidence Men]]
-* [[Ctrl-Alt-Delight]]
-* [[The Cubbies]]
-* [[Danger! Warning! Improv!]]
-* [[The Dukes of Bedside Manor]]
+* [[Troupes/Big Beautiful Warlock]]
+* [[Troupes/ColdTowne (Troupe)|ColdTowne]]
+* [[Troupes/Confidence Men]]
+* [[Troupes/Ctrl-Alt-Delight]]
+* [[Troupes/The Cubbies]]
+* [[Troupes/Danger! Warning! Improv!]]
+* [[Troupes/The Dukes of Bedside Manor]]
 * [[The Encyclopedia Show]]
-* [[The Escorts]]
-* [[False Matters]]
-* [[The Frank Mills]]
+* [[Troupes/The Escorts]]
+* [[Shows/False Matters]]
+* [[Troupes/The Frank Mills]]
 * [[Franz and Dave]]
-* [[Furiously Missing]]
-* [[Galactic]]
-* [[Get Up]]
-* [[Gigglepants]]
-* [[Girls Girls Girls]]
-* [[Goat]]
-* [[Improv for Evil]]
-* [[In Our Prime]]
-* [[Indigo Shift]]
-* [[The Intentions]]
-* [[Jorak and Jorak Do Movie]]
-* [[Junk]]
-* [[The Knuckleball Now]]
-* [[Local Genius Society]]
-* [[Magician vs. Clown]]
-* *[[Manhattan Stories]]*
-* [[Midnight Society]]
-* [[Miller and Purselley]]
-* [[Monks' Night Out]] Reunion
-* [[Nice Astronaut]]
-* [[Oh, Science!]]
-* [[Opposites]]
-* [[Parallelogramophonograph]]
-* *[[Process]]*
-* [[The Professor]]
+* [[Troupes/Furiously Missing]]
+* [[Troupes/Galactic]]
+* [[Troupes/Get Up]]
+* [[Troupes/GigglePants]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Goat]]
+* [[Troupes/Improv For Evil]]
+* [[Troupes/In Our Prime]]
+* [[Troupes/Indigo Shift]]
+* [[Troupes/The Intentions]]
+* [[Troupes/Jorak and Jorak Do Movie]]
+* [[Troupes/Junk]]
+* [[Troupes/The Knuckleball Now]]
+* [[Troupes/Local Genius Society]]
+* [[Troupes/Magician vs. Clown]]
+* *[[Shows/Manhattan Stories]]*
+* [[Troupes/Midnight Society]]
+* [[Troupes/Miller and Purselley]]
+* [[Troupes/Monks' Night Out]] Reunion
+* [[Troupes/Nice Astronaut]]
+* [[Troupes/Oh, Science!]]
+* [[Troupes/Opposites]]
+* [[Troupes/Parallelogramophonograph]]
+* *[[Shows/Process]]*
+* [[Shows/The Professor]]
 * [[Puppet Improv Project]]
-* [[Rachel and Dave]]
-* [[Ratliff and Jackson]]
-* [[Sarah 7]]
-* [[Shades of Brown]]
-* *[[Spirited]]*
-* [[Squirrel Buddies]]
-* *[[Start Trekkin']]*
-* [[Stool Pigeon]]
-* [[Tears But Joy]]
-* [[There's Waldo]]
-* *[[Twilight Zoned]]*
-* [[What's the Story, Steve]]
-* [[Your Dad's Friends]]
-* [[Your Terrific Neighbors]]
-* [[You're Not My Real Dad]]
-* [[¡Zarzamora!]]
+* [[Troupes/Rachel and Dave]]
+* [[Troupes/Ratliff and Jackson]]
+* [[Troupes/Sarah 7]]
+* [[Troupes/Shades of Brown]]
+* *[[Shows/Spirited]]*
+* [[Troupes/Squirrel Buddies]]
+* *[[Shows/Start Trekkin']]*
+* [[Shows/Stool Pigeon]]
+* [[Troupes/Tears But Joy]]
+* [[Troupes/There's Waldo]]
+* *[[Shows/Twilight Zoned]]*
+* [[Troupes/What's the Story, Steve]]
+* [[Troupes/Your Dad's Friends]]
+* [[Troupes/Your Terrific Neighbors]]
+* [[Troupes/You're Not My Real Dad]]
+* [[Troupes/¡ZARZAMORA!]]
 
 ### Out-of-Town Improv and Sketch Acts
 * 3 For All (San Francisco)
@@ -106,7 +106,7 @@ The festival roast featured [[David Lampe]].
 * The Magnet Theater TourCo 
 * ManCamp 
 * The Mascot Wedding Show 
-* [[Meghan Wolff|MegaWolff]]
+* [[Performers/Meghan Wolff|MegaWolff]]
 * Mike and Irene and Eric
 * Never Pickles (Chicago)
 * Oh Theodora 
@@ -176,12 +176,12 @@ The festival roast featured [[David Lampe]].
 
 ## Media
 ### Videos
-* [Video](http://www.facebook.com/photo.php?v=10151033461051953) by [[Mitchell Deane]] of the roast of [[David Lampe]].
-* [Video](http://vimeo.com/48671066) by [[Dave Alley]] of the show from Bearded Men.
-* [Video](http://vimeo.com/49552277) by [[Dave Alley]] of the 8.31.12 show from Epic Adventure.
+* [Video](http://www.facebook.com/photo.php?v=10151033461051953) by [[Performers/Mitchell Deane]] of the roast of [[Performers/David Lampe]].
+* [Video](http://vimeo.com/48671066) by [[Performers/Dave alley]] of the show from Bearded Men.
+* [Video](http://vimeo.com/49552277) by [[Performers/Dave alley]] of the 8.31.12 show from Epic Adventure.
 
 ### Photos
-* [Festival photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102314470853730.3455056.7909117&type=3) by [[Heidi Rogers]].
+* [Festival photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102314470853730.3455056.7909117&type=3) by [[Performers/Heidi Rogers]].
 
 ### Publicity
 * [Video promo.](http://vimeo.com/47916987)

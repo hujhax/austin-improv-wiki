@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Fourth Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Peter Rogers]] plays the Fourth Professor in the 3/30/12 performance of [[The Professor]].
+[[Performers/Peter Rogers]] plays the Fourth Professor in the 3/30/12 performance of [[Shows/The Professor]].
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3).
 ## Licensing

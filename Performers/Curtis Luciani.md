@@ -1,0 +1,51 @@
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Curtis Luciani</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/Curtis Luciani Pic.jpg.md"><img src="File/Curtis%20Luciani%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">The Hideout Theatre</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2001-Present</td>
+		</tr>
+	</table>
+</div>
+
+**Curtis Luciani** ([[Wikipedia - Help - IPA for English#Key|/ˈluːtʃiːˌɑːniː/]]) is an improv performer and director.
+
+## History
+Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
+
+## Troupes
+* [[Troupes/The Amazon and The Milksop]]
+* [[Troupes/Ed 32]]
+* [[Troupes/Girl Embassy World Team]]
+* [[Troupes/Rise & Shine]]
+* [[Troupes/Your Terrific Neighbors]]
+
+## Shows
+* *[[Shows/The Andersons]]* (ensemble)
+* *[[Shows/Austin Secrets]]*
+* *[[Blood, Sweat, and Cheers]]* (Jason Flipp [Coach Jay])
+* *[[Shows/Charles Dickens Unleashed]]*
+* *[[Shows/Hitchcocked!]]*
+* *[[Shows/Holy 1960s Batman, Batman!]]*
+* *[[Shows/The Hustle Show]]*
+* *[[Shows/Improvised Shakespeare]]*
+* *[[Shows/One More Night]]*
+* *[[Shows/Victrola]]*
+* *[[Shows/Who is T. Henry Baudecliffe]]* (co-director)
+
+## Media
+* [A video](http://youtu.be/buYJ8CoEZPQ) of Curtis roasting [[Performers/Tom Booker]] at [[The 2011 Out of Bounds Comedy Festival]].
+
+[[Category/Performers|Luciani]]
+[[Category/Directors|Luciani]]

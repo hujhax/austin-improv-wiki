@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Au Pair.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Au Pair]].
+Publicity photo of [[Troupes/Au Pair]].
 
 Photo by: unknown.
 

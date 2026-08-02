@@ -1,3 +1,3 @@
 ## Pages in category "Bands"
 
-* [[Cock Sound]]
+* [[Troupes/Cock Sound]]

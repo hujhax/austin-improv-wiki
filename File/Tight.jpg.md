@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Tight.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image of [[Tight]].
+Publicity image of [[Troupes/Tight]].
 
 Photo by: unknown.
 

@@ -1,4 +1,4 @@
 ---
-redirect: "Epic"
+redirect: "Troupes/Epic"
 ---
-#REDIRECT [[Epic]]
+#REDIRECT [[Troupes/Epic]]

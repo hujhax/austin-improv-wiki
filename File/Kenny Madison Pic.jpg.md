@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kenny Madison Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Kenny Madison]] from *[[Close Up]]*.
+Publicity photo of [[Performers/Kenny Madison]] from *[[Shows/Close Up]]*.
 
 Photo by [[Steve Rogers]].
 ## Licensing

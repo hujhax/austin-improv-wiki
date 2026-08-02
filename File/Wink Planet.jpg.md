@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Wink Planet.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Group photo of [[Wink Planet]].
+Group photo of [[Troupes/Wink Planet]].
 
 Photo by: unknown.
 ## Licensing

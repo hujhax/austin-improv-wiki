@@ -8,134 +8,134 @@ The awards ceremony was held on 1/27/13.
 ## Nominees and Winners
 Winners are listed in **bold text**.
 
-### Favorite [[Live TV Tuesdays]] Show
+### Favorite [[Shows/Live TV Tuesdays]] Show
 * ***[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
 * *[[Live TV Tuesdays -  Firefly]]*
 * *[[Live TV Tuesdays -  Freaks and Geeks]]*
 * *[[Live TV Tuesdays -  Scrubs]]*
 
 ### Favorite Improvised "Something" Show
-* *[[Danger!]]*
+* *[[Shows/Danger!]]*
 * *[[Only 3 Will Survive]]* 
-* ***[[Thinning the Herd]]***
-* *[[The Triple Scoop]]*
+* ***[[Shows/Thinning The Herd]]***
+* *[[Shows/The Triple Scoop]]*
 
 ### Favorite Scripted, Sketch, or Variety Show
 * ***[[Human Santapede 2]]***
-* *[[Manson -  The Musical]]*
+* *[[Shows/Manson -  The Musical]]*
 * *[[The Moral Compass Rumpas]]*
 * *[[This American Live]]*
 
 ### Favorite Director of a Scripted Show
-* [[Asaf Ronen]], for *[[Live TV Tuesdays -  Firefly]]*
-* **[[Heidi Caldwell]], for *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
-* [[Madeline Jo Chauvin]] & [[Kevin Machate]], for *[[Live TV Tuesdays -  Scrubs]]*
-* [[Ted Meredith]], for *[[Live TV Tuesdays -  Freaks and Geeks]]*
+* [[Performers/Asaf Ronen]], for *[[Live TV Tuesdays -  Firefly]]*
+* **[[Performers/Heidi Caldwell]], for *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
+* [[Performers/Madeline Jo Chauvin]] & [[Kevin Machate]], for *[[Live TV Tuesdays -  Scrubs]]*
+* [[Performers/Ted Meredith]], for *[[Live TV Tuesdays -  Freaks and Geeks]]*
 
 ### Favorite Director of an Improvised Show
-* [[Amy Dietz]], for *[[Danger!]]*
-* [[Asaf Ronen]] & [[Mike Ferstenfeld]], for *[[This American Live]]*
-* [[Sarah Marie Curry]], for *[[Racket!]]*
-* **[[Tom Booker]], for *[[Pulp Friction]]***
+* [[Amy Dietz]], for *[[Shows/Danger!]]*
+* [[Performers/Asaf Ronen]] & [[Mike Ferstenfeld]], for *[[This American Live]]*
+* [[Performers/Sarah Marie Curry]], for *[[Racket!]]*
+* **[[Performers/Tom Booker]], for *[[Shows/Pulp Friction]]***
 
 ### Favorite Male Performer
-* [[Adam Mengesha]]
+* [[Performers/Adam Mengesha]]
 * [[Andrew Robinson]]
-* [[Heath Allyn]]
-* [[Jason Vines]]
-* [[John Buseman]]
+* [[Performers/Heath Allyn]]
+* [[Performers/Jason Vines]]
+* [[Performers/John Buseman]]
 * [[Lucas Reilly]]
 * [[Marvin Pratt]]
-* [[Peter Rogers]]
+* [[Performers/Peter Rogers]]
 * **[[Tyler Reece Booker]]**
-* [[Wyatt Tall]]
+* [[Performers/Wyatt Tall]]
 
 ### Favorite Female Performer
 * [[Beth Shea]]
 * [[Christine Giordano]]
-* [[Erica Lies]]
-* [[Heidi Caldwell]]
-* [[Madeline Jo Chauvin]]
+* [[Performers/Erica Lies]]
+* [[Performers/Heidi Caldwell]]
+* [[Performers/Madeline Jo Chauvin]]
 * [[Regina Soto]]
 * [[Roxy Castillo]]
-* [[Sarah Marie Curry]]
-* **[[Taylor Overstreet]]**
-* [[Topping Haggerty]]
+* [[Performers/Sarah Marie Curry]]
+* **[[Performers/Taylor Overstreet]]**
+* [[Performers/Topping Haggerty]]
 
 ### Favorite Original Video
 * **"A Brand New Day" from *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
 * "Good Morning" from *[[The Moral Compass Rumpas]]*
-* "It Gets Fatter" from *[[Thinning the Herd]]*
+* "It Gets Fatter" from *[[Shows/Thinning The Herd]]*
 * "SXSW Hot Spots" from *[[The Moral Compass Rumpas]]*
-* "Treats and Eats" from [[There's Waldo]]
+* "Treats and Eats" from [[Troupes/There's Waldo]]
 
 ### Favorite Improvised Line of Dialog
-* "Be less King Kong, be more Godzilla" -- [[Asaf Ronen]] in class
-* **"Do you know how many fat people have already sat in that chair tonight!" -- [[Heidi Caldwell]] to [[Tyler Bryce]] after he sat in a chair on stage and it collapsed, in [[Thinning the Herd]]**
-* "I hope somebody makes it rain" -- [[Sarah Swofford]] as a stripper who has just learned that the strip club she is in, is currently on fire, performing in [[The Birthday Clusterfunk]] 8/9/12
-* "I need a Fluffer!" [[Heath Allyn]] as Angel the puppet after getting the stuffing ripped out of him by Nina the werewolf in *[[Live TV Tuesdays -  Angel]]*
-* "My rainstick is raw" -- [[Jason Vines]] in *[[Live TV Tuesdays -  Firefly]]*
-* "She doesn't have a bad attitude, she has a fucking devil in her" -- [[Troy Miller]] in [[Confidence Men]]'s "Mamet Goes to the Movies" treatment of  *The Exorcist*
-* "Space Herpes" (an improvised song) -- [[Heath Allyn]] in *[[Live TV Tuesdays -  Firefly]]*
-* "Unfortunately, balls aren't thrown by nuns" -- [[Regina Soto]] as a soon to be nun being driven to the nunnery by her husband, daughter and the family dog, when the dog asks "You're still gonna throw the ball right?" performing with [[IScream Sandwich]] in [[The Triple Scoop]] 12/8/12
-* "We ran out of Space Ice" -- [[Michael Thomas]] in *[[Live TV Tuesdays -  Firefly]]*
-* "When you've left the city limits, where are you?" -- [[Brandon Martin]] in *[[This American Live]]*
-* "You know when you cry, I lose respect for you as a pilot, and respect is like half of what being a pilot is" -- [[Marcus Hysmith]] in [[Dumbasses]] performing in [[The Birthday Clusterfunk]] 3/25/12
-* "You need the healing power of the U-KU-LE-LE" -- [[Heath Allyn]] as Manson to Tex Watson before singing his solo in *[[Manson -  The Musical]]*
+* "Be less King Kong, be more Godzilla" -- [[Performers/Asaf Ronen]] in class
+* **"Do you know how many fat people have already sat in that chair tonight!" -- [[Performers/Heidi Caldwell]] to [[Performers/Tyler Bryce]] after he sat in a chair on stage and it collapsed, in [[Shows/Thinning The Herd]]**
+* "I hope somebody makes it rain" -- [[Performers/Sarah Swofford]] as a stripper who has just learned that the strip club she is in, is currently on fire, performing in [[The Birthday Clusterfunk]] 8/9/12
+* "I need a Fluffer!" [[Performers/Heath Allyn]] as Angel the puppet after getting the stuffing ripped out of him by Nina the werewolf in *[[Live TV Tuesdays -  Angel]]*
+* "My rainstick is raw" -- [[Performers/Jason Vines]] in *[[Live TV Tuesdays -  Firefly]]*
+* "She doesn't have a bad attitude, she has a fucking devil in her" -- [[Performers/Troy Miller]] in [[Troupes/Confidence Men]]'s "Mamet Goes to the Movies" treatment of  *The Exorcist*
+* "Space Herpes" (an improvised song) -- [[Performers/Heath Allyn]] in *[[Live TV Tuesdays -  Firefly]]*
+* "Unfortunately, balls aren't thrown by nuns" -- [[Regina Soto]] as a soon to be nun being driven to the nunnery by her husband, daughter and the family dog, when the dog asks "You're still gonna throw the ball right?" performing with [[Troupes/IScream Sandwich]] in [[Shows/The Triple Scoop]] 12/8/12
+* "We ran out of Space Ice" -- [[Performers/Michael Thomas]] in *[[Live TV Tuesdays -  Firefly]]*
+* "When you've left the city limits, where are you?" -- [[Performers/Brandon Martin]] in *[[This American Live]]*
+* "You know when you cry, I lose respect for you as a pilot, and respect is like half of what being a pilot is" -- [[Marcus Hysmith]] in [[Troupes/Dumbasses]] performing in [[The Birthday Clusterfunk]] 3/25/12
+* "You need the healing power of the U-KU-LE-LE" -- [[Performers/Heath Allyn]] as Manson to Tex Watson before singing his solo in *[[Shows/Manson -  The Musical]]*
 
 ### Favorite Institution Theater Instructor
-* [[Asaf Ronen]]
-* [[Clifton Highfield]]
-* [[John Ratliff]]
+* [[Performers/Asaf Ronen]]
+* [[Performers/Clifton Highfield]]
+* [[Performers/John Ratliff]]
 * [[Justin Davis]]
-* [[Sarah Marie Curry]]
-* [[Ted Meredith]]
-* **[[Tom Booker]]**
+* [[Performers/Sarah Marie Curry]]
+* [[Performers/Ted Meredith]]
+* **[[Performers/Tom Booker]]**
 
 ### Favorite New Male Improvisor
-* [[Adam Mengesha]]
+* [[Performers/Adam Mengesha]]
 * [[Andrew Maniaci]]
 * [[Andrew Robinson]]
-* [[Heath Allyn]]
+* [[Performers/Heath Allyn]]
 * [[Kevin Machate]]
 * [[Mars Wright]]
 * [[Steve Glazier]]
-* **[[Wyatt Tall]]**
+* **[[Performers/Wyatt Tall]]**
 
 ### Favorite New Female Improvisor
-* [[Adriane Shown]]
-* [[Carissa McAtee]]
-* [[Celena Diamond]]
-* [[Heidi Rogers]]
+* [[Performers/Adriane Shown]]
+* [[Performers/Carissa McAtee]]
+* [[Performers/Celena Diamond]]
+* [[Performers/Heidi Rogers]]
 * [[Jeanette Jones]]
 * [[Megan Moten]]
-* **[[Sam Schak]]**
-* [[Sarah Swofford]]
+* **[[Performers/Sam Schak]]**
+* [[Performers/Sarah Swofford]]
 
 ### Favorite Tech Performer
-* [[Chelley Pyatt]]
-* **[[Cindy Page]]**
-* [[David Zimmerman]]
-* [[Wyatt Tall]]
+* [[Performers/Chelley Pyatt]]
+* **[[Performers/Cindy Page]]**
+* [[Performers/David Zimmerman]]
+* [[Performers/Wyatt Tall]]
 
 ### The Audience Award
-* [[Adriane Shown]]
-* [[Celena Diamond]]
-* [[Chelley Pyatt]]
-* **[[Heidi Caldwell]]**
-* [[Madeline Jo Chauvin]]
-* [[Luis Salinas|Luis]] and [[Jessica Salinas]]
+* [[Performers/Adriane Shown]]
+* [[Performers/Celena Diamond]]
+* [[Performers/Chelley Pyatt]]
+* **[[Performers/Heidi Caldwell]]**
+* [[Performers/Madeline Jo Chauvin]]
+* [[Performers/Luis Salinas|Luis]] and [[Jessica Salinas]]
 * [[Regina Soto]]
-* [[Sam Schak]]
+* [[Performers/Sam Schak]]
 * [[Valerie Nies]]
-* [[Wyatt Tall]]
+* [[Performers/Wyatt Tall]]
 
 ### The Tom Booker Appreciation Awards
-* **[[Carissa McAtee]]**
-* **[[Chelley Pyatt]]**
+* **[[Performers/Carissa McAtee]]**
+* **[[Performers/Chelley Pyatt]]**
 
 ### The Heidi Caldwell Award
-* **[[Asaf Ronen]]**
+* **[[Performers/Asaf Ronen]]**
 
 ## Media
 ### Videos

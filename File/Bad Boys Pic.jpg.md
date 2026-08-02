@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Bad Boys Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for [[Bad Boys]].
+Publicity poster for [[Troupes/Bad Boys]].
 
-Photo by [[Jon Bolden]].
+Photo by [[Performers/Jon Bolden]].
 
 Art by [[Julia Sweeney|Julia]] and [[Kyle Sweeney]].
 ## Licensing

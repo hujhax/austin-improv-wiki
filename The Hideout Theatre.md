@@ -29,55 +29,55 @@
 
 ## History
 ### 1998-1999: Austin Theatresports
-Inspired by the improv he had seen in San Francisco, [[Sean Hill]] founded [[Austin Theatresports]] in 1998.  This is the group that would shortly form the core of the Hideout Theatre, but they didn't have a theater space yet.  Instead, they performed *[[Austin Theatresports|Theatresports]]* shows at a number of venues in town, including [[The Hyde Park Theater]].
+Inspired by the improv he had seen in San Francisco, [[Performers/Sean Hill]] founded [[Austin Theatresports]] in 1998.  This is the group that would shortly form the core of the Hideout Theatre, but they didn't have a theater space yet.  Instead, they performed *[[Austin Theatresports|Theatresports]]* shows at a number of venues in town, including [[The Hyde Park Theater]].
 
 ### 1999-2004: Sean Hill Starts the Hideout
-In the first years of the theater's operation, [[Sean Hill]] led building/renovating the initial theater space, and he produced the first shows there, starting with [[Theatresports]], and expanding the program out to other [[Wikipedia - Keith Johnstone|Keith Johnstone]] formats such as *[[Maestro]]* and *[[Gorilla Theater]]*.  He included some traditional longforms that weren't strictly Johnstonian, such as *[[More or Less]]* and *[[Six Degrees]]*.
+In the first years of the theater's operation, [[Performers/Sean Hill]] led building/renovating the initial theater space, and he produced the first shows there, starting with [[Shows/TheatreSports]], and expanding the program out to other [[Wikipedia - Keith Johnstone|Keith Johnstone]] formats such as *[[Shows/Maestro]]* and *[[Shows/Gorilla Theater]]*.  He included some traditional longforms that weren't strictly Johnstonian, such as *[[Shows/More or Less]]* and *[[Shows/Six Degrees]]*.
 
 ### 2005-2009: The AIC Years
-In the mid-2000s, [[Sean Hill]] took a more hands-off approach to the theater, and the [[Austin Improv Collective]] along with Manager [[Andy Crouch]] started to produce shows there, creating programs like *[[The Threefer]]* and *[[The Double Barrel]]*.
+In the mid-2000s, [[Performers/Sean Hill]] took a more hands-off approach to the theater, and the [[Austin Improv Collective]] along with Manager [[Performers/Andy Crouch]] started to produce shows there, creating programs like *[[Shows/The Threefer]]* and *[[Shows/The Double Barrel]]*.
 
 ### 2009-Present: New Management
-By mid-2009, [[Sean Hill]]'s lease on the property came to an end, and he chose not to renew.  Eager to see [[The Hideout Theater]] continue, [[Jessica Arjet]], [[Kareem Badr]] and [[Roy Janik]] acquired the property.<ref name="auschron1">[The Hideout: Under new – but very familiar – management (Austin Chronicle, 22 May 2009)](http://www.austinchronicle.com/arts/2009-05-22/784213/)</ref>  They immediately scheduled regular two-month mainstage runs for Saturday nights.  Over time, they steadily expanded the education program, and the weekly show schedule.
+By mid-2009, [[Performers/Sean Hill]]'s lease on the property came to an end, and he chose not to renew.  Eager to see [[The Hideout Theater]] continue, [[Performers/Jessica Arjet]], [[Performers/Kareem Badr]] and [[Performers/Roy Janik]] acquired the property.<ref name="auschron1">[The Hideout: Under new – but very familiar – management (Austin Chronicle, 22 May 2009)](http://www.austinchronicle.com/arts/2009-05-22/784213/)</ref>  They immediately scheduled regular two-month mainstage runs for Saturday nights.  Over time, they steadily expanded the education program, and the weekly show schedule.
 
-On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House business and operations. In January of 2013, the Saturday mainstage shows, as well as *[[Maestro]]*, were moved to the building's larger, downstairs theater. In April, the Coffee House hours were extended, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows. A second, smaller, Hideout Coffee bar location opened inside an office building at 504 Lavaca in June of 2014. Unlike the expanded hours of The Hideout Coffee House, the Coffee Bar is only open Monday-Friday from 7am until 3pm.
+On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House business and operations. In January of 2013, the Saturday mainstage shows, as well as *[[Shows/Maestro]]*, were moved to the building's larger, downstairs theater. In April, the Coffee House hours were extended, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows. A second, smaller, Hideout Coffee bar location opened inside an office building at 504 Lavaca in June of 2014. Unlike the expanded hours of The Hideout Coffee House, the Coffee Bar is only open Monday-Friday from 7am until 3pm.
 
 ## Shows
 The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
 
 ### Ongoing Shows
 * *[[Hideout Kids]]*
-* *[[The Free Fringe]]*
-* *[[Gorilla Theater]]*
-* *[[Maestro]]*
-* *[[More or Less]]*
-* *[[Six Degrees]]*
-* *[[The Spectacle]]*
-* *[[The Threefer]]*
-* *[[The Weekender]]*
-* *[[The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
-	* *[[2x4]]*
-	* *[[Control Issues]]*
-	* *[[Dubbed Indemnity]]*
-	* *[[The Fancy-Pants Mashup]]*
-	* *[[The Lottery]]*
-	* *[[Maestro Raw]]*
-	* *[[The Narrative Improv Jam]]*
-	* *[[The Nightmare Video Project]]*
-	* *[[The TV Set]]*
-	* "[[TheatreDome]]"
+* *[[Shows/The Free Fringe]]*
+* *[[Shows/Gorilla Theater]]*
+* *[[Shows/Maestro]]*
+* *[[Shows/More or Less]]*
+* *[[Shows/Six Degrees]]*
+* *[[Shows/The Spectacle]]*
+* *[[Shows/The Threefer]]*
+* *[[Shows/The Weekender]]*
+* *[[Shows/The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
+	* *[[Shows/2x4]]*
+	* *[[Shows/Control Issues]]*
+	* *[[Shows/Dubbed Indemnity]]*
+	* *[[Shows/The Fancy-Pants Mashup]]*
+	* *[[Shows/The Lottery]]*
+	* *[[Shows/Maestro Raw]]*
+	* *[[Shows/The Narrative Improv Jam]]*
+	* *[[Shows/The Nightmare Video Project]]*
+	* *[[Shows/The TV Set]]*
+	* "[[Shows/TheatreDome]]"
 
 ## Media
 ### Videos
-* [A "tribute video"](http://www.viddler.com/v/92d2eec8) by [[Troy Miller]] from 2009.
+* [A "tribute video"](http://www.viddler.com/v/92d2eec8) by [[Performers/Troy Miller]] from 2009.
 * [Theater promo](http://vimeo.com/81069788) from 2013.
 
 ## More Information
 * [The Hideout's blog.](http://www.hideouttheatre.com/blog)
 * [The history of the Hideout's logo.](http://www.hideouttheatre.com/the-making-of-the-hideout-logo)
 * [[The Hideout Text Adventure|A text adventure written about the Hideout.]]
-* [Post about the theater](http://yesandrew.com/2014/03/25/austin-improv-theaters-as-modern-american-humorists-day-2-the-hideout/) by [[Andrew Buck]].
-* ["In Praise Of"](http://yesandrew.com/in-praise-of-the-hideout-theatre/) post by [[Andrew Buck]].
+* [Post about the theater](http://yesandrew.com/2014/03/25/austin-improv-theaters-as-modern-american-humorists-day-2-the-hideout/) by [[Performers/Andrew Buck]].
+* ["In Praise Of"](http://yesandrew.com/in-praise-of-the-hideout-theatre/) post by [[Performers/Andrew Buck]].
 * [A blogpost about the 11/1/12 "unification day"](http://www.hideouttheatre.com/happy-unification-day), when the upstairs theater, the downstairs theater, and the coffeehouse were united under the Hideout management.
 
 ## Notes

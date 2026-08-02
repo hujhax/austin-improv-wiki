@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="J-K.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[J-K]].
+Publicity photo of [[Troupes/J-K]].
 
 Photo by: unknown.
 ## Licensing

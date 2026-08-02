@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="HIGHdeas.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[HIGHdeas]].
+Publicity image for [[Troupes/HIGHdeas]].
 
 Art by: unknown.
 ## Licensing

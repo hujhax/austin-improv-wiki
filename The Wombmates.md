@@ -1,4 +1,4 @@
 ---
-redirect: "Wombmates"
+redirect: "Troupes/Wombmates"
 ---
-#REDIRECT [[Wombmates]]
+#REDIRECT [[Troupes/Wombmates]]

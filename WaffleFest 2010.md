@@ -1,38 +1,38 @@
-**WaffleFest 2010** was the ninth annual [[WaffleFest]].
+**WaffleFest 2010** was the ninth annual [[Wafflefest]].
 
 ## Summary
 The ran from 11/18/10 to 11/20/10.
 
-It included an all-star *[[Maestro]]*.
+It included an all-star *[[Shows/Maestro]]*.
 
 ## Acts
 * [[Achatina Achatina!]]
 * [[ColdTowne]]
-* [[Confidence Men]]
+* [[Troupes/Confidence Men]]
 * [[Ctrl Alt Delight]]
-* [[The Dancy Street D'Orchestra]]
-* [[Delta Burka]]
-* [[Florida Room]]
-* [[The Frank Mills]]
-* [[Get Up]]
-* [[Gigglepants]]
-* [[Girl Embassy World Team]]
-* [[Girls Girls Girls]]
+* [[Troupes/The Dancy Street D'Orchestra]]
+* [[Troupes/Delta Burka]]
+* [[Troupes/Florida Room]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Get Up]]
+* [[Troupes/GigglePants]]
+* [[Troupes/Girl Embassy World Team]]
+* [[Troupes/Girls Girls Girls]]
 * [[Glamping Trip]]
-* [[Improv for Evil]]
+* [[Troupes/Improv For Evil]]
 * [[The Institution Theater]]
-* [[The Intentions]]
-* [[Junk]]
-* [[The Knuckleball Now]]
+* [[Troupes/The Intentions]]
+* [[Troupes/Junk]]
+* [[Troupes/The Knuckleball Now]]
 * [[Louder Than Words]]
-* [[Midnight Society]]
-* [[Parallelogramophonograph]]
-* [[Sarah 7]]
-* [[Snackers]]
-* [[The Starter Kit]]
-* [[You're Not My Real Dad]]
-* [[Your Dad's Friends]]
-* [[Your Terrific Neighbors]]
+* [[Troupes/Midnight Society]]
+* [[Troupes/Parallelogramophonograph]]
+* [[Troupes/Sarah 7]]
+* [[Troupes/Snackers]]
+* [[Troupes/The Starter Kit]]
+* [[Troupes/You're Not My Real Dad]]
+* [[Troupes/Your Dad's Friends]]
+* [[Troupes/Your Terrific Neighbors]]
 
 ## More Information
 * [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?t=11204) on [[The Austin Improv Forums]].

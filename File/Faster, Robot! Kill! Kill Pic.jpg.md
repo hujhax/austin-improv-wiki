@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Faster, Robot! Kill! Kill Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Faster, Robot! Kill! Kill!]].
+Publicity image for [[Troupes/Faster, Robot! Kill! Kill!]].
 
 Art by: unknown.
 ## Licensing

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Cubbies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[The Cubbies]].
+Photo of [[Troupes/The Cubbies]].
 
 Photo by: unknown.  Taken from the troupe's facebook page.
 ## Licensing

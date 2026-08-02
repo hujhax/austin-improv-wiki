@@ -24,4 +24,4 @@
 ## Shows
 * *[[Live TV Tuesdays -  Angel]]* (Spike/Framkin)
 * *[[Live TV Tuesdays -  Scrubs]]* (Dr. Cox, co-director)
-* *[[Manson -  The Musical]]* (Beatle/Monkee/Beach Boy, Voytek Frykowski, Leno LaBianca)
+* *[[Shows/Manson -  The Musical]]* (Beatle/Monkee/Beach Boy, Voytek Frykowski, Leno LaBianca)

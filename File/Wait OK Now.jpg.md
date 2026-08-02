@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Wait OK Now.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Wait OK Now]] performing at [[Salvage Vanguard Theater]] on May 31, 2012.
+[[Troupes/Wait OK Now]] performing at [[Salvage Vanguard Theater]] on May 31, 2012.
 
 Photograph courtesy of Claudio Fox from his Facebook photoset [Wait OK Now & 7Eight7's](https://www.facebook.com/claudio.fox.5/media_set?set=a.423932184294949.95441.100000345135257).
 

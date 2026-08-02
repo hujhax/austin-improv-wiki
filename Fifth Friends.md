@@ -1,4 +1,4 @@
 ---
-redirect: "SSHH!"
+redirect: "Troupes/SSHH!"
 ---
-#REDIRECT [[SSHH!]]
+#REDIRECT [[Troupes/SSHH!]]

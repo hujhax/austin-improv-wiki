@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -23,20 +23,20 @@
 
 
 ## Troupes
-* [[Cheap Date]] (2013-Present)
-* [[Concrete]] (2012-Present)
-* [[Golden Age]] (2012-2013)
-* [[Lunch Pail]] (2014-Present)
-* [[Price Check]] (2013)
+* [[Troupes/Cheap Date]] (2013-Present)
+* [[Troupes/Concrete]] (2012-Present)
+* [[Troupes/Golden Age]] (2012-2013)
+* [[Troupes/Lunch Pail]] (2014-Present)
+* [[Troupes/Price Check]] (2013)
 
 
 ## *[[Cagematch]]* Teams
-* [[Charlatans!]] (2014)
-* [[Cold Turkey]] (2012)
+* [[Troupes/Charlatans!]] (2014)
+* [[Troupes/Cold Turkey]] (2012)
 
 
 ## Shows
-* *[[Boy Band]]*
+* *[[Shows/Boy Band]]*
 * *[[Love Fest]]*
-* *[[Slam Team Six]]*
-* *[[TGIS]]*
+* *[[Shows/Slam Team Six]]*
+* *[[Shows/TGIS]]*

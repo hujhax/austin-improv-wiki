@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Aden Kirschner Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Aden Kirschner]] for *[[Rock]]*.
+Publicity photo of [[Performers/Aden Kirschner]] for *[[Shows/Rock]]*.
 
-Photo by [[Jon Bolden]].
+Photo by [[Performers/Jon Bolden]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Wooden Nickel.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Cast photo of [[Wooden Nickel]].
+Cast photo of [[Troupes/Wooden Nickel]].
 
 Photo by: unknown.
 ## Licensing

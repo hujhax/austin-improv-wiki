@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Decoy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Video still of [[Decoy]], from their first performance.
+Video still of [[Troupes/Decoy]], from their first performance.
 
 From a video by [[Kyle Sweeney]].
 ## Licensing

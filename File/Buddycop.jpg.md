@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Buddycop.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promo image for *[[Buddy Cop]]*.
+Promo image for *[[Shows/Buddy Cop]]*.
 
-Design by [[Kaci Beeler]].
+Design by [[Performers/Kaci Beeler]].
 
 Photo by [[Steve Rogers]].
 ## Licensing

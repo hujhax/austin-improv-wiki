@@ -1,5 +1,5 @@
 ## Pages in category "Musicians"
 
-* [[Tosin Awofeso]]
-* [[Brently Heilbron]]
-* [[Ammon Taylor]]
+* [[Performers/Tosin awofeso]]
+* [[Performers/Brently Heilbron]]
+* [[Performers/Ammon Taylor]]

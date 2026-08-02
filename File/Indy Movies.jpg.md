@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Indy Movies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Indy Movies]]*.
+Publicity poster for *[[Shows/Indy Movies]]*.
 
 Art by: unknown.
 ## Licensing

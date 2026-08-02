@@ -14,16 +14,16 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
   --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
-  --><li style=""><a class="internal-link" href="John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Buseman">Performers/John Buseman</a></li><!--
   --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Performers/Nicole McCracken</a></li><!--
   --><li style=""><a class="internal-link" href="Wayne Alan Brenner">Wayne Alan Brenner</a></li><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: John Hughes Summer School*** refers to the *[[Live TV Tuesdays]]* presentation of "John Hughes Summer School", a staged reading of various scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.
+***Live TV Tuesdays: John Hughes Summer School*** refers to the *[[Shows/Live TV Tuesdays]]* presentation of "John Hughes Summer School", a staged reading of various scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.
 
 ## Summary
 It ran exclusively at [[The Highball]].

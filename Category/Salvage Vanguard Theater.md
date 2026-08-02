@@ -1,3 +1,3 @@
 ## Pages in category "Salvage Vanguard Theater"
 
-* [[Apocalypse! (show)]]
+* [[Shows/Apocalypse! (Show)]]

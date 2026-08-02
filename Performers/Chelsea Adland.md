@@ -1,0 +1,55 @@
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Chelsea Adland</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/Chelsea Gilman Pic.jpg.md"><img src="File/Chelsea%20Gilman%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2000-Present</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Instrument(s)</th>
+			<td class="category">Drums</td>
+		</tr>
+	</table>
+</div>
+
+**Chelsea Adland** (née **Gilman**) is an improv performer.
+
+## History
+Chelsea Gilman Adland started improvising when she auditioned successfully for [[We Could Be Heroes]] in May of 2000.
+
+A post from her about the first improv show she ever saw:<blockquote><p>I saw some improv shows as a kid and performed *Whose Line Is It, Anyway?* games  in high school...</p> 
+
+<p>The first improv show I saw in Austin was in the Texas Union Building my freshman year at UT, so 1999-2000. It was [[Troupes/Well Hung Jury]], and I didn't know any of them, but recognized [[Ben Sterling]] from the theatre department.  I also saw [[Troupes/Fatbuckle]]'s first show that year, and remember [[Lee Eddy]] trying to get someone to guess Yoko Ono.</p> 
+
+<p>It looked like a lot of fun, so that spring when I saw an ad in *The Chronicle*, I auditioned for [[We Could Be Heroes]].</p></blockquote>
+
+## Troupes
+* [[Troupes/The Intentions]] (2010-present)
+* [[Troupes/The Dancy Street D'Orchestra]] (drummer)
+* [[Troupes/The Love Notes]] (2009-2010)
+* [[Troupes/Girls Girls Girls]]
+* [[We Could Be Heroes]] (2000-2002)
+
+## Shows
+* *[[Dusk]]*
+* *[[Shows/Guilds Of Steel]]*
+* *[[Shows/One More Night]]*
+
+## Festivals
+* Chicago Improv Festival
+* [[The Out Of Bounds Comedy Festival]]
+* [[Wafflefest]]
+
+[[Category/Performers|Gilman]]
+[[Category/Active|Category:Active]]

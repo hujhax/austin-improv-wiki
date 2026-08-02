@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="After School Special Victims Unit.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[After School Special Victims Unit]]*.
+Publicity poster for *[[Shows/After School Special Victims Unit]]*.
 
 Art by: unknown.
 

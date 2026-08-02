@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Boy Toy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Boy Toy]].
+Logo for [[Troupes/Boy Toy]].
 
 Art by: unknown.
 ## Licensing

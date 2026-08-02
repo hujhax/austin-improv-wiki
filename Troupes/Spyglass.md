@@ -1,0 +1,84 @@
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Spyglass</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Troupe default image.png.md"><img src="File/Troupe%20default%20image.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2012</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Brandon Salinas">Brandon Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Performers/Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Performers/Lindsey Reeves</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+	</table>
+</div>
+
+**Spyglass** was an improv troupe.
+
+## Summary
+### Press Blurb
+Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Everyone has a their own version of the truth. Spyglass ([[Brandon Salinas]], [[Performers/Lindsey Reeves]], & [[Performers/Kayla Lane Freeman]]) improvises slice-of-life tales that explore these different perspectives through the use of meta monologues, time dashes, and grounded scenework.</blockquote>
+
+### "What's Your Deal?"
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Each show focuses on a relationship between two or more people. We examine that relationship by jumping around in time and space with one central scene at the show's core. Characters frequently break out of the scene to talk to the audience and provide additional insight or to ask the audience's opinion on how to handle certain problems. </blockquote>
+
+[[Category/Troupes|Category:Troupes]]
+[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Only One Performance|Category:Only One Performance]]

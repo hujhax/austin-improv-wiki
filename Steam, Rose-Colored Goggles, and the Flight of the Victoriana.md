@@ -1,4 +1,4 @@
 ---
-redirect: "Steam"
+redirect: "Shows/Steam"
 ---
-#REDIRECT [[Steam]]
+#REDIRECT [[Shows/Steam]]

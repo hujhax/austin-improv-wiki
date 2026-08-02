@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="IScream Sandwich.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[IScream Sandwich]] performing at *[[The Triple Scoop]]* on 3/2/13.
+[[Troupes/IScream Sandwich]] performing at *[[Shows/The Triple Scoop]]* on 3/2/13.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/media/set/?set=a.4398232116699.1073741826.1315383518&type=3).
 ## Licensing

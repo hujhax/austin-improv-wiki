@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mitch Mills.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-From a [[That Racket!]] photoshoot. 
+From a [[Troupes/That Racket!]] photoshoot. 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Checkbook.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Checkbook]].
+Publicity photo for [[Troupes/Checkbook]].
 
 Photo by: unknown.
 ## Licensing

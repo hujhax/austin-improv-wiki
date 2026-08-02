@@ -14,26 +14,26 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Chelley Pyatt">Chelley Pyatt</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Chelley Pyatt">Performers/Chelley Pyatt</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Performers/Adam Mengesha</a></li><!--
   --><li style=""><a class="internal-link" href="Angela Maldonado">Angela Maldonado</a></li><!--
-  --><li style=""><a class="internal-link" href="Carissa McAtee">Carissa McAtee</a></li><!--
-  --><li style=""><a class="internal-link" href="Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Heath Allyn">Heath Allyn</a></li><!--
-  --><li style=""><a class="internal-link" href="Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Performers/Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Performers/Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Performers/Heidi Caldwell</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Reese">Joel Reese</a></li><!--
   --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
-  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
-  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
   --><li style=""><a class="internal-link" href="Vicki Bui">Vicki Bui</a></li><!--
   --><!--
   --><!--
@@ -86,37 +86,37 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Angel*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Angel (TV series)|*Angel*]] episode [[Wikipedia - Smile Time|"Smile Time"]].
+***Live TV Tuesdays: Angel*** refers to the *[[Shows/Live TV Tuesdays]]* presentation of the [[Wikipedia - Angel (TV series)|*Angel*]] episode [[Wikipedia - Smile Time|"Smile Time"]].
 
 ## History
-This was the third of the Joss-Whedon-derived productions from *[[Live TV Tuesdays]]* -- the first two being [[Live TV Tuesdays -  Buffy|*Buffy*]] and [[Live TV Tuesdays -  Doctor Horrible|*Doctor Horrible*]].
+This was the third of the Joss-Whedon-derived productions from *[[Shows/Live TV Tuesdays]]* -- the first two being [[Live TV Tuesdays -  Buffy|*Buffy*]] and [[Live TV Tuesdays -  Doctor Horrible|*Doctor Horrible*]].
 
-This was one of the most ambitious *TV Tuesdays* shows in terms of production.  To do justice to the source material, the show was very mixed-media, involving not only the usual sound and lighting tech, but also musical numbers, video playback, and (most significantly) both hand and full-body puppets.  [[Sara Farr]] of the [[Puppet Improv Project]] handled the show's puppet-related work.
+This was one of the most ambitious *TV Tuesdays* shows in terms of production.  To do justice to the source material, the show was very mixed-media, involving not only the usual sound and lighting tech, but also musical numbers, video playback, and (most significantly) both hand and full-body puppets.  [[Performers/Sara Farr]] of the [[Puppet Improv Project]] handled the show's puppet-related work.
 
-[[Peter Rogers]] reprised his role as Wesley from the earlier production of [[Live TV Tuesdays -  Buffy|*Buffy*]].  The production brought [[Heath Allyn]] and [[Adam Mengesha]] into [[The Institution]]'s orbit; they would both go on to participate in [[Live TV Tuesdays -  Firefly|the TV Tuesdays production of *Firefly*]].
+[[Performers/Peter Rogers]] reprised his role as Wesley from the earlier production of [[Live TV Tuesdays -  Buffy|*Buffy*]].  The production brought [[Performers/Heath Allyn]] and [[Performers/Adam Mengesha]] into [[The Institution]]'s orbit; they would both go on to participate in [[Live TV Tuesdays -  Firefly|the TV Tuesdays production of *Firefly*]].
 
 ## Cast
-* Angel -- [[Heath Allyn]]
-* Wesley -- [[Peter Rogers]]
+* Angel -- [[Performers/Heath Allyn]]
+* Wesley -- [[Performers/Peter Rogers]]
 * Fred -- [[Vicki Bui]]
-* Gunn -- [[Adam Mengesha]]
+* Gunn -- [[Performers/Adam Mengesha]]
 * Lorne -- [[Joel Reese]]
-* Nina -- [[Carissa McAtee]]
-* Harmony -- [[Heidi Caldwell]]
+* Nina -- [[Performers/Carissa McAtee]]
+* Harmony -- [[Performers/Heidi Caldwell]]
 * Spike/Framkin -- [[Kevin Machate]]
-* Polo -- [[Sara Farr]]
-* Flora -- [[Heidi Caldwell]]
-* Groofus/Knox -- [[Chad Wellington]]
+* Polo -- [[Performers/Sara Farr]]
+* Flora -- [[Performers/Heidi Caldwell]]
+* Groofus/Knox -- [[Performers/Chad Wellington]]
 * Dr. Sparrow/Mother/Ratio -- [[Robin Anderson]]
 * Children -- [[Angela Maldonado]]
 
 ## Crew
 * Vocal Coach -- [[Allison Asher]]
-* Puppets By -- [[Chadwick Smith]] and [[Sara Farr]]
-* Puppet Director -- [[Sara Farr]]
+* Puppets By -- [[Chadwick Smith]] and [[Performers/Sara Farr]]
+* Puppet Director -- [[Performers/Sara Farr]]
 * Tech -- [[BK McKee]]
 * Videography -- [[Brian Boyko]]
-* Directed By -- [[Chelley Pyatt]]
+* Directed By -- [[Performers/Chelley Pyatt]]
 
 ## Media
 ### Videos
@@ -124,7 +124,7 @@ This was one of the most ambitious *TV Tuesdays* shows in terms of production.  
 * [Video of one of the performances.](http://vimeo.com/55953813)
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150715866007265.456324.588952264&type=3) by [[Peter Rogers]] of the 2/23/12 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150715866007265.456324.588952264&type=3) by [[Performers/Peter Rogers]] of the 2/23/12 rehearsal.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3064724619845.119619.1315383518&type=3) by [[Michael Yew]] of the 5/4/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.333075650094454.74236.118587218209966&type=1) by [[Roy Moore]] of the 5/16/12 show.
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Andy Crouch.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Andy Crouch]] performing as Sherlock Holmes in [[Danger! Warning! Improv!]] show.
+[[Performers/Andy Crouch]] performing as Sherlock Holmes in [[Troupes/Danger! Warning! Improv!]] show.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3) of the 5/31/13 [[Threefer]].
 

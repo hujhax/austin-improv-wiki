@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Charles Dickens Unleashed.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional image for *[[Charles Dickens Unleashed]]*.
+Promotional image for *[[Shows/Charles Dickens Unleashed]]*.
 
 Photo by: unknown.
 
-Art by: [[Kaci Beeler]].
+Art by: [[Performers/Kaci Beeler]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

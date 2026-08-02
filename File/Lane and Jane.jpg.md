@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Lane and Jane.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Lane & Jane]], performing in the 5/17/13 *[[2x4]]*.
+[[Troupes/Lane & Jane]], performing in the 5/17/13 *[[Shows/2x4]]*.
 
 Still from [this video](http://vimeo.com/66537083).
 ## Licensing

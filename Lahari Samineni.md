@@ -23,18 +23,18 @@
 **Lahari Samineni** is a new performer who performs primarily with [[The Hideout Theatre]] and [[The Institution Theatre]].  She began taking classes at the Hideout in January 2013, and began performing in November 2013.  
 
 ## Troupes
-* [[Minority Report]]
-* [[Worst First Date]] (Duo with [[R Lance Hunter]])
-* [[Things We Don't Speak Of]]
+* [[Troupes/Minority Report]]
+* [[Troupes/Worst First Date]] (Duo with [[R Lance Hunter]])
+* [[Troupes/Things We Don't Speak Of]]
 <br>
 Past:<br>
-* [[Character Explosion]] 
-* [[Who Wants Attention!]]
+* [[Troupes/Character Explosion]] 
+* [[Troupes/Who Wants Attention!]]
 
 ## Shows
-* '[[Immigrants, The Musical! (Part One)]]"
-* *[[The Source]]*
-* *[[Home for the Holidays]]* (aka *[[I'll Be Home For Christmas]]*)
-* *[[The Ladies Room]]*
-* *[[The Secret Life of Inanimate Objects]]*
-* *[[Teenage Wasteland]]* (tech: score)
+* '[[Shows/Immigrants, The Musical! (Part One)]]"
+* *[[Shows/The Source]]*
+* *[[Shows/Home for the Holidays]]* (aka *[[I'll Be Home for Christmas]]*)
+* *[[Shows/The Ladies Room]]*
+* *[[Shows/The Secret Life of Inanimate Objects]]*
+* *[[Shows/Teenage Wasteland]]* (tech: score)

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Stool Pigeon.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Stool Pigeon]]*.
+Publicity image for *[[Shows/Stool Pigeon]]*.
 
 Art by: unknown.
 ## Licensing

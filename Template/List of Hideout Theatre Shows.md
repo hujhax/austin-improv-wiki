@@ -5,22 +5,22 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 
 ### Ongoing Shows
 * *[[Hideout Kids]]*
-* *[[The Free Fringe]]*
-* *[[Gorilla Theater]]*
-* *[[Maestro]]*
-* *[[More or Less]]*
-* *[[Six Degrees]]*
-* *[[The Spectacle]]*
-* *[[The Threefer]]*
-* *[[The Weekender]]*
-* *[[The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
-	* *[[2x4]]*
-	* *[[Control Issues]]*
-	* *[[Dubbed Indemnity]]*
-	* *[[The Fancy-Pants Mashup]]*
-	* *[[The Lottery]]*
-	* *[[Maestro Raw]]*
-	* *[[The Narrative Improv Jam]]*
-	* *[[The Nightmare Video Project]]*
-	* *[[The TV Set]]*
-	* "[[TheatreDome]]"
+* *[[Shows/The Free Fringe]]*
+* *[[Shows/Gorilla Theater]]*
+* *[[Shows/Maestro]]*
+* *[[Shows/More or Less]]*
+* *[[Shows/Six Degrees]]*
+* *[[Shows/The Spectacle]]*
+* *[[Shows/The Threefer]]*
+* *[[Shows/The Weekender]]*
+* *[[Shows/The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
+	* *[[Shows/2x4]]*
+	* *[[Shows/Control Issues]]*
+	* *[[Shows/Dubbed Indemnity]]*
+	* *[[Shows/The Fancy-Pants Mashup]]*
+	* *[[Shows/The Lottery]]*
+	* *[[Shows/Maestro Raw]]*
+	* *[[Shows/The Narrative Improv Jam]]*
+	* *[[Shows/The Nightmare Video Project]]*
+	* *[[Shows/The TV Set]]*
+	* "[[Shows/TheatreDome]]"

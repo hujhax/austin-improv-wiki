@@ -14,15 +14,15 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Norman Tran">Norman Tran</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Norman Tran">Performers/Norman Tran</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Norman Tran">Performers/Norman Tran</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Bonnet">Brian Bonnet</a></li><!--
   --><li style=""><a class="internal-link" href="Catherine Grady">Catherine Grady</a></li><!--
-  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Performers/Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

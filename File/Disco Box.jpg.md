@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Disco Box.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Disco Box]], during their 5/10/12 performance at *[[The Threefer]]*.
+[[Troupes/Disco Box]], during their 5/10/12 performance at *[[Shows/The Threefer]]*.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3).
 ## Licensing

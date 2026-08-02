@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Watergate.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Watergate]].
+Publicity image for [[Troupes/Watergate]].
 
 Photo by: unknown.
 

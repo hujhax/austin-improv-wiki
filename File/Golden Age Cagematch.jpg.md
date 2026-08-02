@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Golden Age Cagematch.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Golden Age]] celebrates their 10/24/12 *[[Cagematch]]* championship.
+[[Troupes/Golden Age]] celebrates their 10/24/12 *[[Cagematch]]* championship.
 
 Photo by: unknown.
 ## Licensing

@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -129,18 +129,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Performers/Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Performers/Howard Katz</a></li><!--
   --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
-  --><li style=""><a class="internal-link" href="Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Daniel">Patrick Daniel</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style="" ><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
-  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Performers/Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Performers/Patrick Knisely</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -193,25 +193,25 @@
 ## Summary
 It was a two-act show, featuring short-form songs and scenes in act one, and then an improvised narrative musical in act two.
 
-The show debuted Thanksgiving weekend, 2009, and returned to SVT for a run of 6 shows in August, 2010.  It also played [[The Out of Bounds Comedy Festival]] that year.
+The show debuted Thanksgiving weekend, 2009, and returned to SVT for a run of 6 shows in August, 2010.  It also played [[The Out Of Bounds Comedy Festival]] that year.
 
 Each performance had a (human) guest for the night, while all the other performers improvised through modified sock puppets with rod armatures.  Sometimes, larger puppets, such as full-body puppets, were used as well.  Also, there was a musical improvisor providing live music for every performance.
 
 ### Guests
 Here is a list of guests for each show:
 * 8/6/10: [[Albert Im]]
-* 8/7/10: [[Arthur Simone]]
-* 8/13/10: [[Les McGehee]]
-* 8/14/10: [[John Ratliff]]
+* 8/7/10: [[Performers/Arthur Simone]]
+* 8/13/10: [[Performers/Les McGehee]]
+* 8/14/10: [[Performers/John Ratliff]]
 * 8/20/10: [[L. B. Deyo]]
-* 8/21/10: [[Shana Merlin]]
+* 8/21/10: [[Performers/Shana Merlin]]
 
 ### Press Description
 The show is created by mixing highly volatile puppet characters with a band of uninhibited improvisers. The result is a hilarious variety of songs and scenes in Act 1, and a completely improvise musical in Act 2 -- all conceived and performed on the spot and starring puppets. This is not your average puppet show, and it is definitely NOT a show for young children.
 
 ## Media
 ### Videos
-* Video by [[Sara Farr]] of the 8/6/10 show, in four parts: [1](http://vimeo.com/16455732), [2](http://vimeo.com/16456196), [3](http://vimeo.com/16456760), [4](http://vimeo.com/16456886).
+* Video by [[Performers/Sara Farr]] of the 8/6/10 show, in four parts: [1](http://vimeo.com/16455732), [2](http://vimeo.com/16456196), [3](http://vimeo.com/16456760), [4](http://vimeo.com/16456886).
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 11/28/09 show.
@@ -223,7 +223,7 @@ The show is created by mixing highly volatile puppet characters with a band of u
 * [Photoset](http://www.facebook.com/media/set/?set=a.1333129940203.2040265.1589679282&type=1) by [[Roy Moore]] of the 8/14/10 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1336635907850.2040545.1589679282&type=3) by [[Roy Moore]] of the 8/20/10 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1339599941949.2040804.1589679282&type=1) by [[Roy Moore]] of the 8/21/10 show.
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3) by [[Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3) by [[Performers/Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The show's website.](http://puppetimprovproject.org/crack.html)

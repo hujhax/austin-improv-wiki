@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Austin Comedy Hour.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Austin Comedy Hour]]*.
+Publicity image for *[[Shows/Austin Comedy Hour]]*.
 
 Art by: unknown.
 ## Licensing

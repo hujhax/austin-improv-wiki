@@ -1,4 +1,4 @@
 ---
-redirect: "Kevlar"
+redirect: "Troupes/Kevlar"
 ---
-#REDIRECT [[Kevlar]]
+#REDIRECT [[Troupes/Kevlar]]

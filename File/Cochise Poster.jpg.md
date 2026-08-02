@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cochise Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Cochise]]*, featuring members of [[Improv for Evil]].
+Publicity image for *[[Shows/Cochise]]*, featuring members of [[Troupes/Improv For Evil]].
 
 Photo by: unknown.
 

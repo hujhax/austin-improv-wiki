@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Dumbasses.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Luis Salinas]] and [[Marcus Hysmith]], in character as [[Dumbasses]], present an award at the first annual [[Institution Theater Awards]] show.
+[[Performers/Luis Salinas]] and [[Marcus Hysmith]], in character as [[Troupes/Dumbasses]], present an award at the first annual [[Institution Theater Awards]] show.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.480786615318193.115392.221927764537414&type=3).
 

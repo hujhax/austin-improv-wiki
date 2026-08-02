@@ -5,9 +5,9 @@ The festival ran from 5/7/09 to 5/9/09 at [[Salvage Vanguard Theater]].
 
 ## Acts
 ### Local Acts
-* [[Adventure Squad!]]
+* [[Troupes/Adventure Squad!]]
 * [[Firth&Arjet]]
-* [[Girls Girls Girls]]
+* [[Troupes/Girls Girls Girls]]
 
 ### Out-of-Town Acts
 * Jill Bernard (Minneapolis)

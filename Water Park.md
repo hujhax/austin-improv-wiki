@@ -1,4 +1,4 @@
 ---
-redirect: "Waterpark"
+redirect: "Troupes/Waterpark"
 ---
-#REDIRECT [[Waterpark]]
+#REDIRECT [[Troupes/Waterpark]]

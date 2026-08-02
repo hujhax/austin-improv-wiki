@@ -11,7 +11,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a> (2014)</li><!--
+  --><li style=""><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a> (2014)</li><!--
   --><li style=""><a class="internal-link" href="Institution Theater">Institution Theater</a> (2015)</li><!--
   --><!--
   --><!--
@@ -69,12 +69,12 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Scott Hearne]]</td>
+			<td class="category">[[Performers/Scott Hearne]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bad Font">Bad Font</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Bad Font">Troupes/Bad Font</a></li><!--
   --><li style=""><a class="internal-link" href="Empty Promises">Empty Promises</a></li><!--
   --><!--
   --><!--
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***Dorm Daze*** are two separate runs of shows featuring two Harold troupes, [[Bad Font]] and [[Empty Promises]]. The first run took place at [[ColdTowne Theater]] in November of 2014, the second run at [[The Institution]] in June of 2015. 
+***Dorm Daze*** are two separate runs of shows featuring two Harold troupes, [[Troupes/Bad Font]] and [[Empty Promises]]. The first run took place at [[Coldtowne Theater]] in November of 2014, the second run at [[The Institution]] in June of 2015. 
 
 ## Summary
 Summary for the second run at The Institution:
@@ -152,4 +152,4 @@ Summary for the second run at The Institution:
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3) by [[Steve Rogers]] of the 6/27/15 performance, featuring [[Bad Font]] and [[Empty Promises]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3) by [[Steve Rogers]] of the 6/27/15 performance, featuring [[Troupes/Bad Font]] and [[Empty Promises]].

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Hot Property.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Hot Property]].
+Publicity photo of [[Troupes/Hot Property]].
 
 Photo by: unknown.
 ## Licensing

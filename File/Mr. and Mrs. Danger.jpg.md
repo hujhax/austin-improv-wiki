@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mr. and Mrs. Danger.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Mr. and Mrs. Danger]] (as "Perfect Season").
+Publicity photo of [[Troupes/Mr. and Mrs. Danger]] (as "Perfect Season").
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

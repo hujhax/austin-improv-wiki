@@ -1,0 +1,88 @@
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Discomfort Trumpet</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Discomfort Trumpet.jpg.md"><img src="File/Discomfort%20Trumpet.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2010</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Performers/Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Matthew Derman">Matthew Derman</a></li><!--
+  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+	</table>
+</div>
+
+**Discomfort Trumpet** was an improv troupe.
+
+## Summary
+### Press Blurb
+Their press blurb, taken from a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We're just three people who know how to rub each other the wrong way and revel in doing so. We find humor in the awkward, the intimate, and the tragic. Come see the improvisational near-disaster that is Discomfort Trumpet.</blockquote>
+
+### "What's Your Deal?"
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Improv centered around one set of characters or one source scene. We diverge to heighten or add info, but always return to our original people and places. Relationship-based, longer scenes. Plenty of straight up absurdity. </blockquote>
+
+## Media
+### Photos
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.469676042264.238160.588952264&type=3) by [[Performers/Peter Rogers]] of their 8/31/10 performance in an exhibition match at *[[Shows/The Cagematch]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.482836252264.261191.588952264&type=3) by [[Performers/Peter Rogers]] of the 9/2/10 show from [[The 2010 Out of Bounds Comedy Festival]].
+
+[[Category/Troupes|Category:Troupes]]
+[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

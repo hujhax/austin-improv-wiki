@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Rucker Park.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Rucker Park]]*.
+Publicity image for *[[Shows/Rucker Park]]*.
 
 Art by: unknown.
 ## Licensing

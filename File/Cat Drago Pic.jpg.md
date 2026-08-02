@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cat Drago Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Cat Drago]], performing in the 9/8/12 premiere of *[[The Tribunal]]*.
+[[Performers/Cat Drago]], performing in the 9/8/12 premiere of *[[The Tribunal]]*.
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3).
 ## Licensing

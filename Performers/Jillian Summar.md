@@ -1,0 +1,39 @@
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jillian Summar</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/Jillian Summar.jpg.md"><img src="File/Jillian%20Summar.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a>, <a class="internal-link" href="The Institution Theater">The Institution Theater</a> <a class="internal-link" href="Merlin Works">Merlin Works</a></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2012-Present</td>
+		</tr>
+	</table>
+</div>
+
+Jillian Summar is an improv performer, singing improv teacher, and vocal performer.
+
+## History
+In ancient Egypt the sorceress Jillatep first heard the stirrings of improv inspiration...
+
+## Troupes
+* [[Troupes/JK]]
+* [[Troupes/Doin' Maintenance]] (defunct)
+* [[Troupes/The Known Wizards]]
+* [[Troupes/Your Dad's Friends]]
+
+## Shows
+* *[[Camp Madeupponathaspotta]]*
+* *[[Shows/History Under the Influence]]*
+* [[Shows/Hurly Burly]] 
+
+[[Category/Performers|Summar]]
+[[Category/Teachers|Summar]]

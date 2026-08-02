@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Shanty Town Lake.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shanty Town Lake]]*.
+Publicity poster for *[[Shows/Shanty Town Lake]]*.
 
 Art by: unknown.
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Slam Team Six.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The 4/5/14 performance of *[[Slam Team Six]]*.
+The 4/5/14 performance of *[[Shows/Slam Team Six]]*.
 
 Photo by [[Steve Rogers]], from this [photoset](http://www.facebook.com/media/set/?set=a.711697908893728.1073741982.221927764537414&type=3).
 ## Licensing

@@ -1,0 +1,68 @@
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jon Bolden</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/Jon Bolden Pic.jpg.md"><img src="File/Jon%20Bolden%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+	</table>
+</div>
+
+Jon Bolden is an improv performer, instructor, director, and photographer who works primarily at [[The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
+
+## Teaching
+Jon teaches all levels at [[The Hideout Theatre]]. In the fall of 2014, he will being teaching *Introduction to Improv* and *Improv for Actors* at the State Theater for Acting. Jon and [[Performers/Roy Janik]] have developed a workshop series on being positive called *The Power of Positivity*.
+
+Jon has also taught workshops in Alaska, Seattle, Oklahoma, Ohio, Houston, Tokyo and Osaka Japan, and Washington DC.
+
+## History
+Jon moved to downtown Austin in 2007, where he stumbled upon a Christmas performance of the [[Troupes/Available Cupholders]] at [[The Hideout Theatre]]. It was his first experience seeing live improv. He attended the free [[Tuesday Night Jam]] the following week and has been involved weekly since.
+
+Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He performs weekly with [[Troupes/Bad Boys]] and travels/teaches workshops with Roy Janik as [[Troupes/Squirrel Buddies]]
+
+## Troupes
+* [[Shows/The Big Bash]]
+* [[Troupes/Bad Boys]]
+* [[Troupes/Blink]]
+* [[Troupes/The Dukes of Bedside Manor]]
+* [[Troupes/Squirrel Buddies]]
+* [[Troupes/The JBs]]
+* [[Troupes/The Randy Meisner]]
+* [[Troupes/Rise & Shine]]
+* [[Troupes/RUSH]]
+
+## Shows
+* *[[The 43-Hour Improv Marathon]]*
+* *[[Shows/After School Improv]]*
+* *[[Shows/The Andersons]]*
+* *[[Shows/Austin Secrets]]*
+* *[[Shows/Camp Madeupponaspotta]] (Director)*
+* *[[Shows/Charles Dickens Unleashed]]*
+* *[[Shows/False Matters]]*
+* *[[Heist]]*
+* *[[Shows/Lola]]* (tech)
+* *[[Shows/Process]]*
+* *[[Shows/Manhattan Stories]]* (Performed and Directed)
+* *[[Shows/Nothing And Everything]]* (Director)
+* *[[Shows/The New Game Project]]*
+* *[[Theatresports (mainstage run)|Theatresports]]*
+
+## More Information
+* [Interview](http://yesandrew.com/2014/06/08/the-sunday-interview-jon-bolden-2/) by [[Performers/Andrew Buck]].
+* [Interview](http://gybpodcast.libsyn.com/john-bolden-ep18-got-your-back) on *[[Got Your Back]]*.
+
+[[Category/Performers|Bolden]]
+[[Category/Teachers|Bolden]]
+[[Category/Photographers|Bolden]]
+[[Category/Directors|Bolden]]

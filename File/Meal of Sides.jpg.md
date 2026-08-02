@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Meal of Sides.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Meal of Sides]].
+Publicity photo of [[Troupes/Meal of Sides]].
 
 Photo by: unknown.
 ## Licensing

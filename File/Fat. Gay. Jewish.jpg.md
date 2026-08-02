@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Fat. Gay. Jewish.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Fat. Gay. Jewish]]
+Logo for [[Troupes/Fat. Gay. Jewish]]
 
 Art by: unknown.
 ## Licensing

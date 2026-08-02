@@ -1,4 +1,4 @@
 ---
-redirect: "Galactic"
+redirect: "Troupes/Galactic"
 ---
-#REDIRECT [[Galactic]]
+#REDIRECT [[Troupes/Galactic]]

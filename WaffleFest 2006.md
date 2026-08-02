@@ -1,23 +1,23 @@
-**WaffleFest 2006** was the fifth annual [[WaffleFest]].
+**WaffleFest 2006** was the fifth annual [[Wafflefest]].
 
 ## Summary
 The festival expanded from two days to three days, running from 11/16/06 to 11/18/06.
 
 ## Acts
-* [[$10 Bourbon]]
-* [[Available Cupholders]]
+* [[Troupes/$10 Bourbon]]
+* [[Troupes/Available Cupholders]]
 * [[ColdTowne]]
-* [[Foolish Mortals]]
-* [[The Frank Mills]]
-* [[Girls Girls Girls]]
+* [[Troupes/Foolish Mortals]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Girls Girls Girls]]
 * [[Heroes of Comedy]]
-* [[Improv for Evil]]
-* [[Jeremy Sweetlamb]] (as "Bearded Lamb")
-* [[The Leading Brands]]
+* [[Troupes/Improv For Evil]]
+* [[Performers/Jeremy Sweetlamb]] (as "Bearded Lamb")
+* [[Troupes/The Leading Brands]]
 * [[One A.M]]
 * [[One Too]]
-* [[Parallelogramophonograph]]
-* [[Scissor]]
+* [[Troupes/Parallelogramophonograph]]
+* [[Troupes/Scissor]]
 * [[You Me & Greg]]
 
 ## More Information

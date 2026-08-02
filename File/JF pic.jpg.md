@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="JF pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Jason Finkelman]], performing in *[[Rock]]* on 6/9/12.
+[[Performers/Jason Finkelman]], performing in *[[Shows/Rock]]* on 6/9/12.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.380863341977188.90896.221927764537414&type=3).
 ## Licensing

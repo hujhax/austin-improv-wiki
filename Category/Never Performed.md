@@ -1,9 +1,9 @@
 ## Pages in category "Never Performed"
 
-* [[Achatina Achatina]]
-* [[Bookish & Unmarried]]
-* [[Executive Mandate]]
-* [[Florida Room]]
-* [[IPhone the Musical]]
-* [[Mr. and Mrs. Danger]]
-* [[No Left]]
+* [[Troupes/Achatina Achatina]]
+* [[Troupes/Bookish & Unmarried]]
+* [[Troupes/Executive Mandate]]
+* [[Troupes/Florida Room]]
+* [[Troupes/IPhone the Musical]]
+* [[Troupes/Mr. and Mrs. Danger]]
+* [[Troupes/No Left]]

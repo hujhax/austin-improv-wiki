@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Brad Hawkins.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Brad Hawkins]], in the 10.27.12 performance of *[[The Black Vault]]*.
+[[Performers/Brad Hawkins]], in the 10.27.12 performance of *[[Shows/The Black Vault]]*.
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3).
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Conspiracy Butter.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Conspiracy Butter]] in their 5/26/06 performance at [[The Hideout Theatre]].
+[[Troupes/Conspiracy Butter]] in their 5/26/06 performance at [[The Hideout Theatre]].
 
 Still from a video by [[Bryan Boyko]].
 ## Licensing

@@ -19,17 +19,17 @@
 	</table>
 </div>
 
-**Patrick Creamer** is an improvisor. He also has a podcast with [[Quinn Buckner]] called *[Now You Know A Little Bit More About Us](http://nowyouknowalittlebitmoreaboutus.libsyn.com/)*
+**Patrick Creamer** is an improvisor. He also has a podcast with [[Performers/Quinn Buckner]] called *[Now You Know A Little Bit More About Us](http://nowyouknowalittlebitmoreaboutus.libsyn.com/)*
 
 ## Troupes
-* [[G.O.O.F.S]]
-* [[RhinoDino]]
-* [[SNAFU]] (Former member)
-* [[Gigglepants]] (Former member)
+* [[Troupes/G.O.O.F.S]]
+* [[Troupes/Rhinodino]]
+* [[Troupes/Snafu]] (Former member)
+* [[Troupes/GigglePants]] (Former member)
 
 ## Shows
-* *[[Boy, Howdy!]]*
-* *[[Camp Madeupponaspotta]]*
-* *[[Golden (mainstage)|Golden]]*
-* *[[Happily Ever After]]*
-* *[[The Fancy-Pants Mashup]]*
+* *[[Shows/Boy, Howdy!]]*
+* *[[Shows/Camp Madeupponaspotta]]*
+* *[[Shows/Golden (mainstage)|Golden]]*
+* *[[Shows/Happily Ever After]]*
+* *[[Shows/The Fancy-Pants Mashup]]*

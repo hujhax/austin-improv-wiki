@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Devil and Halyn Erickson.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[The Devil and Halyn Erickson]]*.
+Publicity image for *[[Shows/The Devil and Halyn Erickson]]*.
 
 Art by: [[Halyn Erickson]].
 ## Licensing

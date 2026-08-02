@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="J. R. Zambrano Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[J. R. Zambrano]] for *[[A Deed So Dark]]*.
+Publicity photo of [[Performers/J. R. Zambrano]] for *[[Shows/A Deed So Dark]]*.
 
 Photo by [[Steve Rogers]].
 ## Licensing

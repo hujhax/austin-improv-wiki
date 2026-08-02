@@ -1,23 +1,23 @@
-**WaffleFest 2008** was the seventh annual [[WaffleFest]].
+**WaffleFest 2008** was the seventh annual [[Wafflefest]].
 
 ## Summary
 The ran from 11/20/08 to 11/22/08.
 
 ## Acts
 ### Local Acts
-* [[Available Cupholders]]
+* [[Troupes/Available Cupholders]]
 * [[ColdTowne]]
-* [[The Frank Mills]]
-* [[Get Up]]
-* [[Girls Girls Girls]]
-* [[Gigglepants]]
-* [[Improv for Evil]]
-* [[Junk]]
-* [[The Knuckleball Now]]
-* [[Les McGehee]]
-* [[Parallelogramophonograph]]
-* [[Unfurled]]
-* [[You're Not My Real Dad]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Get Up]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/GigglePants]]
+* [[Troupes/Improv For Evil]]
+* [[Troupes/Junk]]
+* [[Troupes/The Knuckleball Now]]
+* [[Performers/Les McGehee]]
+* [[Troupes/Parallelogramophonograph]]
+* [[Troupes/Unfurled]]
+* [[Troupes/You're Not My Real Dad]]
 * [[You, Me and Greg]]
 
 ### Out of Town Acts

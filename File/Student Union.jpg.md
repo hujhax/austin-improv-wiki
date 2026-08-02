@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Student Union.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Student Union]]*.
+Publicity image for *[[Shows/Student Union]]*.
 
 Art by: unknown.
 ## Licensing

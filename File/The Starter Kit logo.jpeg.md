@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Starter Kit logo.jpeg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[The Starter Kit]]. 
+Logo for [[Troupes/The Starter Kit]]. 
 
 Art by: Tiffany Adams.
 

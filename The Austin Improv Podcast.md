@@ -5,7 +5,7 @@ The Austin Improv Podcast was begun in December 2012. It is one of the only podc
 
 Most, but not all, of the episodes are a Living Room Bat: cast members tell true stories from their lives, then improvise audio scenes inspired by those stories. 
 
-The podcast is hosted and produced by [[Scott Hearne]] and [[Caeriel Crestin]]. 
+The podcast is hosted and produced by [[Performers/Scott Hearne]] and [[Performers/Caeriel Crestin]]. 
 
 ## More Information
 * [The podcast's facebook page.](http://www.facebook.com/austinimprov)

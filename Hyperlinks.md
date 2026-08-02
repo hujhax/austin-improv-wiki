@@ -14,19 +14,19 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bryan 'Lubu' Roberts">Bryan 'Lubu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Christopher 'Ceej' Allen">Christopher 'Ceej' Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Kristin Firth">Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christopher 'Ceej' Allen">Performers/Christopher 'Ceej' Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Performers/Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -87,7 +87,7 @@
 ## Summary
 ### Press Blurbs
 #### 2010
-The press blurb for the show from the annoucement on [[The AIC Forums]] of its headlining run on *[[The Threefer]]*.<blockquote>"Hyperlinks is the only improv show that puts full control in the audience’s hands. With no idea where their scenes will be edited, it is up to the best improvisers in town to move faster than the audience can click them into completely new scenes. If you love improv, but have always wanted to move more at your own tempo, this is the show for you."</blockquote>
+The press blurb for the show from the annoucement on [[The AIC Forums]] of its headlining run on *[[Shows/The Threefer]]*.<blockquote>"Hyperlinks is the only improv show that puts full control in the audience’s hands. With no idea where their scenes will be edited, it is up to the best improvisers in town to move faster than the audience can click them into completely new scenes. If you love improv, but have always wanted to move more at your own tempo, this is the show for you."</blockquote>
 
 #### 2011
 Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>
@@ -99,14 +99,14 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Fast-paced short scenes based on audience participation.</blockquote>
 
 ## History
-The show first ran as half of the *[[The Double Barrel]]* on 12/1/06, the first show [[Asaf Ronen]] produced on his arrival in Austin.  It then ran as the mainstage show at [[The Hideout Theatre]] through March 2009.  It was brought back as the headlining act of *[[The Threefer]]* in January 2010.  It's been performed since in various one-off shows with a variety of casts.
+The show first ran as half of the *[[Shows/The Double Barrel]]* on 12/1/06, the first show [[Performers/Asaf Ronen]] produced on his arrival in Austin.  It then ran as the mainstage show at [[The Hideout Theatre]] through March 2009.  It was brought back as the headlining act of *[[Shows/The Threefer]]* in January 2010.  It's been performed since in various one-off shows with a variety of casts.
 
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1591801526831.2070976.1589679282&type=3) by [[Roy Moore]] that includes their 3/13/11 show at [[The Institution Theater]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/25/11 performance in *[[The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/25/11 performance in *[[Shows/The Threefer]]*.
 
 ## More Information
-* [Announcement about their appearance](http://forum.austinimprov.com/viewtopic.php?p=16696) in *[[The Double Barrel]]* on 12/1/06 on [[The AIC Forums]].
+* [Announcement about their appearance](http://forum.austinimprov.com/viewtopic.php?p=16696) in *[[Shows/The Double Barrel]]* on 12/1/06 on [[The AIC Forums]].
 * [Announcement of the final mainstage appearance](http://forum.austinimprov.com/viewtopic.php?p=76358) on 3/28/09 on [[The AIC Forums]].
-* [Announcement about their headlining run](http://forum.austinimprov.com/viewtopic.php?p=89018) in February 2010 in *[[The Threefer]]* on [[The AIC Forums]].
+* [Announcement about their headlining run](http://forum.austinimprov.com/viewtopic.php?p=89018) in February 2010 in *[[Shows/The Threefer]]* on [[The AIC Forums]].

@@ -3,38 +3,38 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 </noinclude>
 ### Ongoing Shows
 * *[[The Austin Improv Monologue Jam]]*
-* *[[Booker and a Buddy]]*
-* *[[Highly Suggestible]]*
+* *[[Shows/Booker and a Buddy]]*
+* *[[Shows/Highly Suggestible]]*
 * *[[Impromp-Two]]*
-* *[[The Rubber Room]]*
-* *[[Tarantula]]*
-* *[[The Triple Scoop]]*
+* *[[Shows/The Rubber Room]]*
+* *[[Shows/Tarantula]]*
+* *[[Shows/The Triple Scoop]]*
 
 ### Mainstage Productions
-* *[[Bad Girls in Plaid Skirts]]*
+* *[[Shows/Bad Girls in Plaid Skirts]]*
 * *[[Bitterfest]]*
-* *[[Boys of Summer]]*
-* *[[Buzz Band]]*
+* *[[Shows/Boys of Summer]]*
+* *[[Shows/Buzz Band]]*
 * *[[Danger]]*
 * *[[Fuck It's Christmas]]*
-* *[[Fuck It's Hot]]*
-* *[[Hell & Back Cabaret]]* (2013)
-* *[[Hurly Burly]]* 
+* *[[Shows/Fuck It's Hot]]*
+* *[[Shows/Hell & Back Cabaret]]* (2013)
+* *[[Shows/Hurly Burly]]* 
 * *[[The Joss Whedon Pajama Party]]* 
-* *[[The Ladies Room]]*
-* *[[Late Night Time Machine]]*
-* *[[Live TV Tuesdays]]*
+* *[[Shows/The Ladies Room]]*
+* *[[Shows/Late Night Time Machine]]*
+* *[[Shows/Live TV Tuesdays]]*
 * *[[Love Fest]]*
-* *[[Manson -  The Musical]]*
-* *[[Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
-* *[[The Next Chapter]]* (2013)
-* *[[Not This American Life]]*
+* *[[Shows/Manson -  The Musical]]*
+* *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
+* *[[Shows/The Next Chapter]]* (2013)
+* *[[Shows/Not This American Life]]*
 * *[[Only Three Will Survive]]*
-* *[[Pulp Friction]]*
-* *[[Risen]]*
-* *[[The Source]]*
-* *[[The Suitcase]]* (2013)
-* *[[TIT Talks]]*
-* *[[Trust No One]]*
-* *[[You Can't Stay Here]]*
-* *[[You Think You're So Smart]]*
+* *[[Shows/Pulp Friction]]*
+* *[[Shows/RISEN]]*
+* *[[Shows/The Source]]*
+* *[[Shows/The Suitcase]]* (2013)
+* *[[Shows/TIT Talks]]*
+* *[[Shows/Trust No One]]*
+* *[[Shows/You Can't Stay Here]]*
+* *[[Shows/You Think You're So Smart]]*

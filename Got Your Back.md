@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="K.C. Harvey-Taylor">K.C. Harvey-Taylor</a></li><!--
   --><!--
   --><!--
@@ -77,10 +77,10 @@
 **Got Your Back** is an Austin comedy podcast featuring interviews with Austin comedians.
 
 ## History
-The first show released on 2/3/14, with an interview of [[Michael Jastroch]].
+The first show released on 2/3/14, with an interview of [[Performers/Michael Jastroch]].
 
 ## Format
-In each show, hosts [[Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a local comedian. Often times the special guest performs or teachers improv, sketch or stand-up comedy. Shows begin with an open interview of a guest, and then move to a second portion where the guest is asked a standard set of seven questions. Here are those seven questions copied from Cody Dearing's notes:
+In each show, hosts [[Performers/Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a local comedian. Often times the special guest performs or teachers improv, sketch or stand-up comedy. Shows begin with an open interview of a guest, and then move to a second portion where the guest is asked a standard set of seven questions. Here are those seven questions copied from Cody Dearing's notes:
 
 1. Do you have a favorite quote about [comedy, improv, writing, etc]?
 
@@ -99,7 +99,7 @@ In each show, hosts [[Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a loca
 After the standard questions segment there is typically a "commercial break" that features a comedic audio sketch by a local sketch group (often Midnight Society). Each show ends with some music by a "lesser known" (often local) artist to build on the theme of local support and DYI artist empowerment.
 
 ## More Information
-* [The show announcement](http://www.coldtownetheater.com/blog/presenting-got-your-back-podcast) on the [[ColdTowne Theater]] website.
+* [The show announcement](http://www.coldtownetheater.com/blog/presenting-got-your-back-podcast) on the [[Coldtowne Theater]] website.
 * [The podcast's RSS feed.](http://gybpodcast.libsyn.com/rss)
 * [The podcast's facebook page.](http://www.facebook.com/GYBPodcast)
 * [The podcast's LibSyn page.](http://gybpodcast.libsyn.com/webpage)

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Bad Example.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promo image for the 1/11/14 show from [[Bad Example]].
+Promo image for the 1/11/14 show from [[Troupes/Bad Example]].
 
 Art by: unknown.
 ## Licensing

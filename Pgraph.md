@@ -1,4 +1,4 @@
 ---
-redirect: "Parallelogramophonograph"
+redirect: "Troupes/Parallelogramophonograph"
 ---
-#REDIRECT [[Parallelogramophonograph]]
+#REDIRECT [[Troupes/Parallelogramophonograph]]

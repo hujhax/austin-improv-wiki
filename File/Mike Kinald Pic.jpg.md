@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mike Kinald Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Mike Kinald]], performing in the premiere of *[[The Tribunal]]* on 9/28/12.
+[[Performers/Mike Kinald]], performing in the premiere of *[[The Tribunal]]* on 9/28/12.
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3).
 ## Licensing

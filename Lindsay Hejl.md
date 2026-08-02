@@ -22,13 +22,13 @@
 **Lindsay Hejl** is an improv performer. She moved away to Chicago in 2015. 
 
 ## Troupes
-* [[Field Day]]
-* [[G.O.O.F.S]]
-* [[The Ones]]
-* [[Peanut Berry]]
+* [[Troupes/Field Day]]
+* [[Troupes/G.O.O.F.S]]
+* [[Troupes/The Ones]]
+* [[Troupes/Peanut Berry]]
 
 ## Shows
-* *[[Control Issues]]*
-* *[[Flying Theater Machine]]*
+* *[[Shows/Control Issues]]*
+* *[[Shows/Flying Theater Machine]]*
 * *[[Song Runner]]*
-* *[[What the F@$]]*
+* *[[Shows/What the F@$]]*

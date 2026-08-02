@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Adriane Shown Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Adriane Shown]], in the 9/27/13 performance of the *[[Hell & Back Cabaret]]*.
+[[Performers/Adriane Shown]], in the 9/27/13 performance of the *[[Shows/Hell & Back Cabaret]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.208887992621682.1073741837.156632087847273&type=1).
 ## Licensing

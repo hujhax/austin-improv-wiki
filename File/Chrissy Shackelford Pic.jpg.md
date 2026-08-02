@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Chrissy Shackelford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Casual photo of [[Chrissy Shackelford]].
+Casual photo of [[Performers/Chrissy Shackelford]].
 
 Photo by: unknown.
 

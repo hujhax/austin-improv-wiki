@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="A Bedtime Gorey.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[A Bedtime Gorey]]*, featuring [[Kaci Beeler]].
+Publicity poster for *[[Shows/A Bedtime Gorey]]*, featuring [[Performers/Kaci Beeler]].
 
 Photo by: unknown.
 
-Art by [[Kaci Beeler]].
+Art by [[Performers/Kaci Beeler]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

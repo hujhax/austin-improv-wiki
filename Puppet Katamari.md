@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Sara Farr">Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -25,13 +25,13 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amy McSmith">Amy McSmith</a></li><!--
   --><li style=""><a class="internal-link" href="Chadwick Smith">Chadwick Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Gene Zhou">Gene Zhou</a></li><!--
-  --><li style=""><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Jay Byrd">Jay Byrd</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Performers/Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Performers/Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Performers/Jay Byrd</a></li><!--
   --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
-  --><li style=""><a class="internal-link" href="Leng Wong">Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style="" ><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Performers/Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Performers/Patrick Knisely</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

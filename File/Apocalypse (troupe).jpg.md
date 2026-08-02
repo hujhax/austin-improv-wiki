@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Apocalypse (troupe).jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for the troupe [[Apocalypse (troupe)|Apocalypse]].
+Publicity photo for the troupe [[Troupes/Apocalypse (troupe)|Apocalypse]].
 
-Art by [[Andreas Fabis]].
+Art by [[Performers/Andreas Fabis]].
 
 Photo by: unknown.
 ## Licensing

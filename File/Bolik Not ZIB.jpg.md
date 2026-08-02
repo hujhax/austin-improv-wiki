@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Bolik Not ZIB.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Bolik Not ZIB]].
+Publicity photo of [[Troupes/Bolik Not ZIB]].
 
 Photo by: unknown.
 ## Licensing

@@ -15,29 +15,29 @@ The Building Connections classes tailored to youth on the Autism Spectrum are sp
 #### Instructors
 The following improvisers have all served as co-teachers for the program.
 
-* [[Jessica Arjet]]
-* [[Luke Wallens]]
-* [[Valerie Ward]]
-* [[Sam Schak]]
+* [[Performers/Jessica Arjet]]
+* [[Performers/Luke Wallens]]
+* [[Performers/Valerie Ward]]
+* [[Performers/Sam Schak]]
 * [[Zac Carr]]
-* [[Joy Parks]]
+* [[Performers/Joy Parks]]
 * [[Lori Hobbie]]
-* [[Sunaina Suhag]]
+* [[Performers/Sunaina Suhag]]
 * [[Mason Pitluk]]
 
 ### Classes for Homeless Youth
-The Building Connections classes for homeless youth were originally taught by [[Lacy Shawn]] and [[Bridget Brewer]].  When Bridget moved to Providence, RI for graduate school, [[Luke Wallens]] replaced Bridget.
+The Building Connections classes for homeless youth were originally taught by [[Lacy Shawn]] and [[Performers/Bridget Brewer]].  When Bridget moved to Providence, RI for graduate school, [[Performers/Luke Wallens]] replaced Bridget.
 
 #### Instructors
 The following improvisers have all served as co-teachers for the program.
 
-* [[Theo Daley]]
-* [[Manuel Duran]]
+* [[Performers/Theo Daley]]
+* [[Performers/Manuel Duran]]
 * [[Tim Coyle]]
 * [[Bonnie Dibler]]
 
 ## History
-After a meeting with local AIC improvisers [[Luke Wallens]], [[Sam Schak]], [[Chris Albano]], and [[Bridget Brewer]], the Special Needs Improv Program (later dubbed Building Connections) was created by Social Worker and improviser [[Lacy Shawn]] and [[The Hideout Theater]]'s Children's Programs Coordinator, [[Jessica Arjet]].
+After a meeting with local AIC improvisers [[Performers/Luke Wallens]], [[Performers/Sam Schak]], [[Performers/Chris Albano]], and [[Performers/Bridget Brewer]], the Special Needs Improv Program (later dubbed Building Connections) was created by Social Worker and improviser [[Lacy Shawn]] and [[The Hideout Theater]]'s Children's Programs Coordinator, [[Performers/Jessica Arjet]].
 
 The first classes were offered in 2013, and were six weeks in length. Classes catered to pre-teens and teens on the Autism Spectrum.
 

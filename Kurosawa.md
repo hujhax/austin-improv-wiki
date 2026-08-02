@@ -1,4 +1,4 @@
 ---
-redirect: "Kenjutsu"
+redirect: "Shows/Kenjutsu"
 ---
-#REDIRECT [[Kenjutsu]]
+#REDIRECT [[Shows/Kenjutsu]]

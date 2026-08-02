@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Arthur Simone">Arthur Simone</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Arthur Simone">Performers/Arthur Simone</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Dear Frailty*** is a one-man show created by and starring [[Arthur Simone]].  Simone went on to win [Best Actor/Actress 2009](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=808768) in the Austin Chronicle shortly after Dear Frailty's run ended.
+***Dear Frailty*** is a one-man show created by and starring [[Performers/Arthur Simone]].  Simone went on to win [Best Actor/Actress 2009](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=808768) in the Austin Chronicle shortly after Dear Frailty's run ended.
 
 ## History
 Arthur Simone conceived Dear Frailty in the summer of 2009 and based it on new character monologues and some from a previous one man show of his in New Orleans.  Arthur hired Tim  as Director, and used  [[Josh Gill]] as tech.

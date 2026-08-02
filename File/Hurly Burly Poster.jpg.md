@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Hurly Burly Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for *[[Hurly Burly]]*.
+Poster for *[[Shows/Hurly Burly]]*.
 
-Illustration by [[Halyn Lee Erickson]].
+Illustration by [[Performers/Halyn Lee Erickson]].
 
-Art by [[Asaf Ronen]].
+Art by [[Performers/Asaf Ronen]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

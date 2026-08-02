@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Bear Derby.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for [[Bear Derby]].
+Publicity poster for [[Troupes/Bear Derby]].
 
 Art by: unknown.
 ## Licensing

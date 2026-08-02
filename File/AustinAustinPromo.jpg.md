@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="AustinAustinPromo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Austin-Austin]] Performing in *[[Out of Bounds]]*
+[[Troupes/Austin-Austin]] Performing in *[[Out of Bounds]]*
 Photo by [[Steve Rogers]]
 ## Licensing
 The owner of this image has granted free use of this file with no restrictions.

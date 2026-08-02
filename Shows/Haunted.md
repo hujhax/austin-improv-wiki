@@ -1,0 +1,149 @@
+<div>
+	<table class="infobox infobox-show">
+		<tr>
+			<th colspan="2" class="infobox-header">Haunted</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Haunted Poster.jpg.md"><img src="File/Haunted%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Theater</th>
+			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Directed by</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Produced by</th>
+			<td class="category">[[Gnap! Theater Projects]]</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Performers/Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="David Harper">David Harper</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Performers/Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Performers/Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Run</th>
+			<td class="category">Sep/Oct 2008</td>
+		</tr>
+	</table>
+</div>
+
+:*This page refers to the Salvage Vanguard graduation show run based on classic ghost stories.  For the Salvage Vanguard mainstage run based around 19th-century communications with dead spirits, see *[[Seance]]''.
+***Haunted*** was a longform narrative based around classic ghost stories.  It was a [[Merlin Works Graduation Shows|Merlin Works graduation show]].
+
+## History
+### Show Dates
+* 9/13/08
+* 9/27/08
+* 10/11/08
+* 10/25/08
+* 10/31/08
+	* This show (and this show only) was part of *[[Shows/The Double Barrel]]* at [[The Hideout Theatre]].
+* 12/20/08
+
+[[Category/Shows|Category:Shows]]

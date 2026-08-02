@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Jay Michael Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Jay Michael]], in the 1/14/12 performance of *[[Twilight Zoned]]*.
+[[Performers/Jay Michael]], in the 1/14/12 performance of *[[Shows/Twilight Zoned]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.275898742473649.69807.221927764537414&type=3).
 ## Licensing

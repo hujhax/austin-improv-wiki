@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Niceasstronautchamp1.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Nice Astronaut]].
+Photo of [[Troupes/Nice Astronaut]].
 
 Photo by: unknown.
 

@@ -5,9 +5,9 @@ redirect: "List of Austin Improv Jams and Mixers"
 
 ## Pages in category "Jams and Mixers"
 
-* [[All Ages Improv Night]]
-* [[Drew's Improv Gym]]
-* [[The Jam]]
+* [[Shows/All Ages Improv Night]]
+* [[Shows/Drew's Improv Gym]]
+* [[Shows/The Jam]]
 * [[The Merlin Works Mixer]]
-* [[The Rubber Room]]
+* [[Shows/The Rubber Room]]
 * [[The Tuesday Night Jam]]

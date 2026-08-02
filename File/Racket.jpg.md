@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Racket.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Racket]]*.
+Publicity image for *[[Shows/Racket]]*.
 
-Art by [[Asaf Ronen]].
+Art by [[Performers/Asaf Ronen]].
 
 Photos by: unknown.
 ## Licensing

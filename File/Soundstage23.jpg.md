@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Soundstage23.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for *[[Soundstage 23]]*, featuring the cast.
+Poster for *[[Shows/Soundstage 23]]*, featuring the cast.
 
-Design by [[Kaci Beeler]].
+Design by [[Performers/Kaci Beeler]].
 
 Photos by [[Steve Rogers]].
 ## Licensing

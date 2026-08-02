@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{bulleted list | 
 * <a class="internal-link" href="Phil Wilhelm">Phil Wilhelm</a>
-* <a class="internal-link" href="Gene Zhou">Gene Zhou</a>
+* <a class="internal-link" href="Performers/Gene Zhou">Performers/Gene Zhou</a>
 * <a class="internal-link" href="Zach Palmer">Zach Palmer</a>
 * <a class="internal-link" href="Michael Williams">Michael Williams</a>
-* <a class="internal-link" href="Michael Ferstenfeld">Michael Ferstenfeld</a>
-* <a class="internal-link" href="Frank Willmore">Frank Willmore</a>
+* <a class="internal-link" href="Performers/Michael Ferstenfeld">Performers/Michael Ferstenfeld</a>
+* <a class="internal-link" href="Performers/Frank Willmore">Performers/Frank Willmore</a>
 ] }}</td>
 		</tr>
 	</table>
@@ -30,10 +30,10 @@
 [[The Perfect Banana]] was a 2008 cagematch team consisting of:
 
 * [[Phil Wilhelm]]
-* [[Gene Zhou]]
+* [[Performers/Gene Zhou]]
 * [[Zach Palmer]]
 * [[Michael Williams]]
-* [[Michael Ferstenfeld]]
-* [[Frank Willmore]]
+* [[Performers/Michael Ferstenfeld]]
+* [[Performers/Frank Willmore]]
 
 Advanced to 3rd round (?) and known primarily for 'the teacup scene'.

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Gioboozeman Party.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-2011 publicity image for [[Gioboozeman Party]].
+2011 publicity image for [[Troupes/Gioboozeman Party]].
 
 Photos by: unknown.
 

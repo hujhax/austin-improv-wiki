@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Reframed.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Reframed]]*.
+Publicity image for *[[Shows/Reframed]]*.
 
 Photo and art by [[Steve Rogers]].
 ## Licensing

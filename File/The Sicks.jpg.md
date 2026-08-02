@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Sicks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[The Sicks]].
+Logo for [[Troupes/The Sicks]].
 
 Art by: [[Laura Steffen Sterling]].
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ann Symmonds Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Ann Symmonds]].
+Photo of [[Performers/Ann Symmonds]].
 
 Photo by: unknown.
 ## Licensing

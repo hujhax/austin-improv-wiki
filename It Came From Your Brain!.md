@@ -15,7 +15,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Performers/Kenny Madison</a></li><!--
   --><li style=""><a class="internal-link" href="Nicholaus Weindel">Nicholaus Weindel</a></li><!--
   --><!--
   --><!--
@@ -76,10 +76,10 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Jennifer Dorsey">Jennifer Dorsey</a></li><!--
   --><li style=""><a class="internal-link" href="Marcone Cangussu">Marcone Cangussu</a></li><!--
-  --><li style=""><a class="internal-link" href="David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Alicia Earls">Alicia Earls</a></li><!--
   --><li style=""><a class="internal-link" href="Ethan Stites">Ethan Stites</a></li><!--
-  --><li style=""><a class="internal-link" href="Heidi Penix">Heidi Penix</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Performers/Heidi Penix</a></li><!--
   --><li style=""><a class="internal-link" href="Ben Howell">Ben Howell</a></li><!--
   --><li style=""><a class="internal-link" href="Heidi Lorenz">Heidi Lorenz</a> (Host)</li><!--
   --><!--
@@ -131,7 +131,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
   --><li style=""><a class="internal-link" href="Juese Cutler">Juese Cutler</a></li><!--
-  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Performers/Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

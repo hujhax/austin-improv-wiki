@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Total Panic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Total Panic]] performing at [[ColdTowne Theater]].
+[[Troupes/Total Panic]] performing at [[Coldtowne Theater]].
 
 Photo by: unknown, from [this photoset](http://www.flickr.com/photos/coldtowne/sets/72157619852025521).
 

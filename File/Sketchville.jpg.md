@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Sketchville.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Opening title card for *[[Sketchville]]*.
+Opening title card for *[[Shows/Sketchville]]*.
 
-Photo (of a building exterior on South Congress) by [[Peter Rogers]].
+Photo (of a building exterior on South Congress) by [[Performers/Peter Rogers]].
 
 Art by Howard des Chenes.
 ## Licensing

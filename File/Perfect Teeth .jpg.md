@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Perfect Teeth .jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Perfect Teeth]], performing in their 12/7/14 debut.
+[[Troupes/Perfect Teeth]], performing in their 12/7/14 debut.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

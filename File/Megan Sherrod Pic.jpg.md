@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Megan Sherrod Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Megan Sherrod]], performing in the 7/13/14 [[Second Sunday]] [[Merlin Works]] graduation show at [[ZACH Theatre]].
+[[Performers/Megan Sherrod]], performing in the 7/13/14 [[Second Sunday]] [[Merlin Works]] graduation show at [[ZACH Theatre]].
 
-Photo by [[Chris Curl]], from [this photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152470500872107.1073741836.549002106&type=3).
+Photo by [[Performers/Chris Curl]], from [this photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152470500872107.1073741836.549002106&type=3).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

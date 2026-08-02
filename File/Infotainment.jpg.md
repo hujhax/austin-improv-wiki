@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Infotainment.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Infotainment]].
+Publicity image for [[Troupes/Infotainment]].
 
 Photos by: unknown.
 

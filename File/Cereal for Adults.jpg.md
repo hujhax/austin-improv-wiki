@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cereal for Adults.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Cereal for Adults]]*.
+Publicity poster for *[[Shows/Cereal for Adults]]*.
 
 Art by: unknown.
 ## Licensing

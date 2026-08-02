@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="ColorWheel.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[ColorWheel]].
+Publicity photo of [[Troupes/ColorWheel]].
 
 Photo by: unknown.
 ## Licensing

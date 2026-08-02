@@ -8,8 +8,8 @@ This is a list of festivals associated with the Austin improv scene.
 * [[The Improvised Play Festival]]
 * [[The Ladies Are Funny Festival]]
 * [[The Moontower Comedy Festival]]
-* [[The Out of Bounds Comedy Festival]]
-* [[WaffleFest]]
+* [[The Out Of Bounds Comedy Festival]]
+* [[Wafflefest]]
 
 Former Austin-based festivals that have featured improv:
 * [[Big Stinkin' Improv and Sketch Comedy Festival]]

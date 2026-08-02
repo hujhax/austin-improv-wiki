@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Three Blondes.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Three Blondes]]' 10/3/12 show at *[[The Cagematch]]*.
+Publicity image for [[Troupes/Three Blondes]]' 10/3/12 show at *[[Shows/The Cagematch]]*.
 
 Photos by: unknown.
 

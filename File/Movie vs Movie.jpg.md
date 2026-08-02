@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Movie vs Movie.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for *[[Movie vs Movie]]* by [[Carlos LaRotta]].
+Publicity art for *[[Movie vs Movie]]* by [[Performers/Carlos Larotta]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="You Think You're So Smart Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[You Think You're So Smart]]*.
+Publicity poster for *[[Shows/You Think You're So Smart]]*.
 
 Art by [[Justin Davis]].
 

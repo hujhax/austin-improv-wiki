@@ -1,26 +1,26 @@
-**WaffleFest 2007** was the sixth annual [[WaffleFest]].
+**WaffleFest 2007** was the sixth annual [[Wafflefest]].
 
 ## Summary
 The festival ran from 11/15/07 to 11/17/07.
 
-It included an all-star *[[Maestro]]*.
+It included an all-star *[[Shows/Maestro]]*.
 
 ## Acts
-* [[$10 Bourbon]]
+* [[Troupes/$10 Bourbon]]
 * [[ColdTowne]]
-* [[The Frank Mills]]
-* [[Get Up]]
-* [[Girls Girls Girls]]
-* [[Improv for Evil]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Get Up]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Improv For Evil]]
 * [[Is That Science]]
-* [[Junk]]
-* [[The Knuckleball Now]]
-* [[Les McGehee]] (as "Les McGehee plays well with Waffles")
-* [[Look Cookie]]
-* [[Midnight Society]]
-* [[Parallelogramophonograph]]
+* [[Troupes/Junk]]
+* [[Troupes/The Knuckleball Now]]
+* [[Performers/Les McGehee]] (as "Les McGehee plays well with Waffles")
+* [[Troupes/Look Cookie]]
+* [[Troupes/Midnight Society]]
+* [[Troupes/Parallelogramophonograph]]
 * [[The Smoking Arm]]
-* [[The Starter Kit]]
+* [[Troupes/The Starter Kit]]
 
 ## More Information
 * [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?f=13&t=5380) on [[The Austin Improv Forums]].

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Stacy & Darren.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Stacy & Darren]], in their 12/2/10 performance in *[[The Threefer]]*.
+[[Troupes/Stacy & Darren]], in their 12/2/10 performance in *[[Shows/The Threefer]]*.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/michael.yew/media_set?set=a.1451649133966.61937.1315383518&type=3).
 ## Licensing

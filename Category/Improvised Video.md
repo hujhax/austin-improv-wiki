@@ -1,3 +1,3 @@
 ## Pages in category "Improvised Video"
 
-* [[3, 2, 1, Kill!]]
+* [[Troupes/3, 2, 1, Kill!]]

@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="The Saturday Night Special Publicity.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[The Saturday Night Special]]*.
+Publicity image for *[[Shows/The Saturday Night Special]]*.
 
-Art by: unknown. Perhaps [[Courtney Hopkin]] or [[Shannon McCormick]].
+Art by: unknown. Perhaps [[Performers/Courtney Hopkin]] or [[Performers/Shannon McCormick]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

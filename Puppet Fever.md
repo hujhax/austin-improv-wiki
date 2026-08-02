@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -22,19 +22,19 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Michael Brockman">Michael Brockman</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Michael Brockman">Performers/Michael Brockman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Performers/Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
-  --><li style=""><a class="internal-link" href="Kimberly Cox">Kimberly Cox</a></li><!--
-  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Performers/Kimberly Cox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -89,13 +89,13 @@
 ***Puppet Fever*** was an improvised puppet musical.
 
 ## History
-This show opened *[[The Saturday Night Special]]* in June 2011, and then played a performance at [The Twin Cities Improv Festival](http://twincitiesimprovfestival.wordpress.com/) that same year.
+This show opened *[[Shows/The Saturday Night Special]]* in June 2011, and then played a performance at [The Twin Cities Improv Festival](http://twincitiesimprovfestival.wordpress.com/) that same year.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150257317112265.368948.588952264&type=3) by [[Peter Rogers]] of their 5/5/11 rehearsal.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150263784492265.370554.588952264&type=3) by [[Peter Rogers]] of their 5/14/11 rehearsal.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282246257265.375406.588952264&type=3) by [[Peter Rogers]] of their 5/28/11 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150257317112265.368948.588952264&type=3) by [[Performers/Peter Rogers]] of their 5/5/11 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150263784492265.370554.588952264&type=3) by [[Performers/Peter Rogers]] of their 5/14/11 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282246257265.375406.588952264&type=3) by [[Performers/Peter Rogers]] of their 5/28/11 rehearsal.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3) by [[Roy Moore]] that includes their 6/4/11 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1724667128388.2082226.1589679282&type=3) by [[Roy Moore]] that includes their 6/11/11 show.
 

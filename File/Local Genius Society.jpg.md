@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Local Genius Society.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Local Genius Society]] performing at the 2012 [[WaffleFest]].
+[[Troupes/Local Genius Society]] performing at the 2012 [[Wafflefest]].
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3).
 ## Licensing

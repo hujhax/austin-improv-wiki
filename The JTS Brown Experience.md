@@ -1,4 +1,4 @@
 ---
-redirect: "Array"
+redirect: "Troupes/Array"
 ---
-#REDIRECT [[Array]]
+#REDIRECT [[Troupes/Array]]

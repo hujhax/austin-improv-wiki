@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for the 2012 run of [[The Professor]].
+Publicity poster for the 2012 run of [[Shows/The Professor]].
 
 Photo by [[Roy Moore]].  Poster art by [[Justin Davis]].
 

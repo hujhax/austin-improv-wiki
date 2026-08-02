@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Fiasco Set.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The set for *[[Fiasco]]*.
+The set for *[[Shows/Fiasco]]*.
 
-Set design (and photo) by [[Kaci Beeler]].
+Set design (and photo) by [[Performers/Kaci Beeler]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

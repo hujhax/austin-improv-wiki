@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Asides.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[The Asides]].
+Publicity photo of [[Troupes/The Asides]].
 
 Photo by: unknown.
 ## Licensing

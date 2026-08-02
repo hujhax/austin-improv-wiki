@@ -1,36 +1,36 @@
-**WaffleFest 2015** was the fourteenth annual [[WaffleFest]].
+**WaffleFest 2015** was the fourteenth annual [[Wafflefest]].
 
 ## Summary
 The festival ran from 11/19/15 to 11/21/15.
 
-It included an all-star *[[Maestro]]* and a teen showcase.
+It included an all-star *[[Shows/Maestro]]* and a teen showcase.
 
 ## Acts
-* [[The Amazon and the Milksop]]
-* [[Austin-Austin]]
-* [[Available Cupholders]]
-* [[Bad Boys]]
-* [[Boomerang]]
-* *[[Boy, Howdy!]]*
-* [[Confidence Men]]
+* [[Troupes/The Amazon and The Milksop]]
+* [[Troupes/Austin-Austin]]
+* [[Troupes/Available Cupholders]]
+* [[Troupes/Bad Boys]]
+* [[Troupes/Boomerang]]
+* *[[Shows/Boy, Howdy!]]*
+* [[Troupes/Confidence Men]]
 * [[Damn, Gina!]]
-* [[Echo Lake]]
-* [[The Escorts]]
-* [[The Frank Mills]]
-* [[Get Up]]
-* [[Gigglepants]]
-* [[Girls Girls Girls]]
-* [[Golden]]
-* [[Houses in Motion]]
-* [[Junk]]
+* [[Troupes/Echo Lake]]
+* [[Troupes/The Escorts]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Get Up]]
+* [[Troupes/GigglePants]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Golden]]
+* [[Troupes/Houses in Motion]]
+* [[Troupes/Junk]]
 * [[Known Wizards]]
-* [[The Knuckleball Now]]
-* [[MC Harold]]
-* [[Movie Riot]]
-* [[Opposites]]
-* [[Parallelogramophonograph]]
-* [[Physics Curse]]
-* [[Squirrel Buddies]]
+* [[Troupes/The Knuckleball Now]]
+* [[Troupes/MC Harold]]
+* [[Shows/Movie Riot]]
+* [[Troupes/Opposites]]
+* [[Troupes/Parallelogramophonograph]]
+* [[Troupes/Physics Curse]]
+* [[Troupes/Squirrel Buddies]]
 
 ## Media
 ### Photos

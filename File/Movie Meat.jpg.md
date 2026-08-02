@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Movie Meat.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Movie Meat]].
+Publicity image for [[Troupes/Movie Meat]].
 
 Photo by: unknown.
 

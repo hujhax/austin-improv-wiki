@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Eye for an iPhone.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Eye for an iPhone]]*.
+Publicity poster for *[[Shows/Eye for an iPhone]]*.
 
 Art by: unknown.
 ## Licensing

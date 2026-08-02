@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Church Potluck.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Church Potluck]].
+Publicity photo of [[Troupes/Church Potluck]].
 
 Photo by: unknown.
 ## Licensing

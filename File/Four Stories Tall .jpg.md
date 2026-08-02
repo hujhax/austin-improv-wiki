@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Four Stories Tall .jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Four Stories Tall]].
+Publicity photo for [[Troupes/Four Stories Tall]].
 
 Photo by: unknown.
 ## Licensing

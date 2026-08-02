@@ -65,7 +65,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Marc Majcher]]</td>
+			<td class="category">[[Performers/Marc Majcher]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -94,67 +94,67 @@ The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The 
 
 The third performance took place as part of [[The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[The Hideout Theatre]].
 
-The fourth performance was part of the *[[Four Chambers]]* series at [[The Hideout Theatre]] in 2015.
+The fourth performance was part of the *[[Shows/Four Chambers]]* series at [[The Hideout Theatre]] in 2015.
 
 ## Casts
 ### Show #1
-* [[Bobby Ford]] (Wolf)
-* [[Britney Salyer]] (thug)
-* [[Cat Drago]] (Cat)
-* [[Emily Breedlove]] (Dog)
-* [[Halyn Lee Erickson]] (Mouse)
-* [[Jayme Ramsay]] (Hawk)
-* [[Jordan T. Maxwell]] (Bison)
+* [[Performers/Bobby Ford]] (Wolf)
+* [[Performers/Britney Salyer]] (thug)
+* [[Performers/Cat Drago]] (Cat)
+* [[Performers/Emily Breedlove]] (Dog)
+* [[Performers/Halyn Lee Erickson]] (Mouse)
+* [[Performers/Jayme Ramsay]] (Hawk)
+* [[Performers/Jordan T. Maxwell]] (Bison)
 * [[Justin Davis]] (Rat)
-* [[Kevin Miller]] (Raven)
-* [[Mike Kinald]] (Stork)
-* [[Mitchell Deane]] (Elk)
-* [[Thedward Blevins]] (Horse)
-* [[Valerie Ward]] (Peacock)
+* [[Performers/Kevin Miller]] (Raven)
+* [[Performers/Mike Kinald]] (Stork)
+* [[Performers/Mitchell Deane]] (Elk)
+* [[Performers/Thedward Blevins]] (Horse)
+* [[Performers/Valerie Ward]] (Peacock)
 
 ### Show #2
 * [[Ashley Jayne Carlisle]]
-* [[Brett Tribe]]
-* [[Bridget Brewer]]
-* [[Chad Wellington]]
-* [[Cindy Page]]
-* [[Cortney DeAngelo]]
-* [[Heidi Rogers]]
-* [[Jayme Ramsay]] (thug)
-* [[Jessica Arjet]]
+* [[Performers/Brett Tribe]]
+* [[Performers/Bridget Brewer]]
+* [[Performers/Chad Wellington]]
+* [[Performers/Cindy Page]]
+* [[Performers/Cortney DeAngelo]]
+* [[Performers/Heidi Rogers]]
+* [[Performers/Jayme Ramsay]] (thug)
+* [[Performers/Jessica Arjet]]
 * [[JM Specht]]
-* [[Mike Nystul]]
-* [[Nicole Oliver]]
-* [[Ryan Hill]]
+* [[Performers/Mike Nystul]]
+* [[Performers/Nicole Oliver]]
+* [[Performers/Ryan Hill]]
 
 ### Show #3
-* [[Brad Hawkins]]
-* [[Bridget Brewer]]
-* [[Caeriel Crestin]]
-* [[Heidi Rogers]]
+* [[Performers/Brad Hawkins]]
+* [[Performers/Bridget Brewer]]
+* [[Performers/Caeriel Crestin]]
+* [[Performers/Heidi Rogers]]
 * [[J. M. Specht]]
-* [[Jayme Ramsay]]
-* [[Jessica Arjet]]
-* [[Jordan T. Maxwell]]
-* [[Manuel Duran]]
-* [[Marc Majcher]]
-* [[Nicole Oliver]]
-* [[Peter Rogers]]
-* [[Ruby Willmann]]
+* [[Performers/Jayme Ramsay]]
+* [[Performers/Jessica Arjet]]
+* [[Performers/Jordan T. Maxwell]]
+* [[Performers/Manuel Duran]]
+* [[Performers/Marc Majcher]]
+* [[Performers/Nicole Oliver]]
+* [[Performers/Peter Rogers]]
+* [[Performers/Ruby Willmann]]
 
 ### Show #4
-* [[Cat Drago]] (Peacock)
-* [[Chris Albano]] (Dog)
-* [[Chris Villafano]] (Bison)
-* [[David Lampe]] (Cat)
+* [[Performers/Cat Drago]] (Peacock)
+* [[Performers/Chris Albano]] (Dog)
+* [[Performers/Chris Villafano]] (Bison)
+* [[Performers/David Lampe]] (Cat)
 * [[Ericka Bundy]] (Rat)
-* [[Heidi Penix]] (Wolf)
+* [[Performers/Heidi Penix]] (Wolf)
 * [[Lacy Shawn]] (Elk)
 * [[Leonard Balsera]] (Raven)
-* [[Luke Wallens]] (Horse)
-* [[Mike Kinald]] (Thug)
-* [[Rachel Posey Austin]] (Mouse)
-* [[Ryan Austin]] (Stork)
+* [[Performers/Luke Wallens]] (Horse)
+* [[Performers/Mike Kinald]] (Thug)
+* [[Performers/Rachel Posey Austin]] (Mouse)
+* [[Performers/Ryan Austin]] (Stork)
 * [[Terra Chirieleison]] (Hawk)
 
 ## Media

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Vinyl Destination.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-*[[Vinyl Destination]]*, in their 9/3/07 show in [[The 2007 Out of Bounds Comedy Festival]].
+*[[Shows/Vinyl Destination]]*, in their 9/3/07 show in [[The 2007 Out of Bounds Comedy Festival]].
 
 Photo by: unknown, from [this photoset](http://www.flickr.com/photos/oob_pics/sets/72157601896325337).
 ## Licensing

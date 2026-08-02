@@ -1,0 +1,83 @@
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Texas Giant</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Troupe default image.png.md"><img src="File/Troupe%20default%20image.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2009</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Performers/Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Performers/Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Erika May">Erika May</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+	</table>
+</div>
+
+**Texas Giant** was an improv troupe.
+
+## Summary
+### "What's Your Deal?"
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote><p>I suppose this may have been a better place to tell you. However, here is the idea. The form will most likely not be terribly experimental. The focus will be on not having any sweep edits so that the show ends up "eating" itself. I am not sure if you are familiar wit the beer shark mice style of play, but that is what the format is going to be like.</p> 
+
+<p>Lots of reoccurring characters and ideas more so than just a montage of scenes.</p> </blockquote>
+
+[[Category/Troupes|Category:Troupes]]
+[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Only One Performance|Category:Only One Performance]]

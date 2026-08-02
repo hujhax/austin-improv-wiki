@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Claudio Fox Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Claudio Fox]], performing in the 12/20/12 *[[Free Fringe]]*.
+[[Performers/Claudio Fox]], performing in the 12/20/12 *[[Free Fringe]]*.
 
-Photo by [[Jen Kaplan]], from [this photoset](http://www.facebook.com/media/set/?set=a.509951649026335.114518.100000345135257&type=3).
+Photo by [[Performers/Jen Kaplan]], from [this photoset](http://www.facebook.com/media/set/?set=a.509951649026335.114518.100000345135257&type=3).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

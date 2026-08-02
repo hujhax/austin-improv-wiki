@@ -14,17 +14,17 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Ted Meredith">Ted Meredith</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ted Meredith">Performers/Ted Meredith</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Bill Price">Bill Price</a></li><!--
   --><li style=""><a class="internal-link" href="Carla Goodman">Carla Goodman</a></li><!--
   --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
   --><li style=""><a class="internal-link" href="Jiovani Galo">Jiovani Galo</a></li><!--
-  --><li style=""><a class="internal-link" href="Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Performers/Jon Clinkenbeard</a></li><!--
   --><li style=""><a class="internal-link" href="Kacy Todd">Kacy Todd</a></li><!--
   --><li style=""><a class="internal-link" href="Kelli Bland">Kelli Bland</a></li><!--
   --><!--
@@ -73,7 +73,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Britney Salyer]]</td>
+			<td class="category">[[Performers/Britney Salyer]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Dawson's Creek|*Dawson's Creek*]] episode ["The Longest Day"](http://www.imdb.com/title/tt0555187/).
+***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Shows/Live TV Tuesdays]]* presentation of the [[Wikipedia - Dawson's Creek|*Dawson's Creek*]] episode ["The Longest Day"](http://www.imdb.com/title/tt0555187/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *Dawson's Creek".
@@ -93,15 +93,15 @@ It played exclusively at [[The Highball]].
 * Dawson Leery -- [[Cody Melcher]]
 * Joey Potter -- [[Kelli Bland]]
 * Jen Lindley -- [[Kacy Todd]]
-* Pacey Witter -- [[Jon Clinkenbeard]]
+* Pacey Witter -- [[Performers/Jon Clinkenbeard]]
 * Andie McPhee & Evelyn ‘Grams’ Ryan -- [[Carla Goodman]]
 * Doug Witter& Henry Parker -- [[Bill Price]]
-* Mitch Leery & William ‘Will’ Krudski  -- [[Andreas Fabis]]
+* Mitch Leery & William ‘Will’ Krudski  -- [[Performers/Andreas Fabis]]
 * Buzz Thompson -- [[Jiovani Galo]]
 
 ## Crew
-* Directed by [[Ted Meredith]]
-* Stage Manager -- [[Britney Salyer]]
+* Directed by [[Performers/Ted Meredith]]
+* Stage Manager -- [[Performers/Britney Salyer]]
 
 ## Media
 * [A photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes photos of the 5/24/11 performance.

@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Thinning the Herd.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional image for the third season of *[[Thinning the Herd]]*.  The photo features [[David Lampe]], [[Chelley Pyatt]], [[Paul Normandin]], and [[Jen Dorsey]].
+Promotional image for the third season of *[[Shows/Thinning The Herd]]*.  The photo features [[Performers/David Lampe]], [[Performers/Chelley Pyatt]], [[Performers/Paul Normandin]], and [[Jen Dorsey]].
 
-Art by: [[Asaf Ronen]].
+Art by: [[Performers/Asaf Ronen]].
 
 Photo by: unknown.
 ## Licensing

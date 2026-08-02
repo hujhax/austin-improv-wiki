@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="ComedySportz">ComedySportz</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/ComedySportz">Troupes/ComedySportz</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

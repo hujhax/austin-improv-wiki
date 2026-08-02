@@ -1,4 +1,4 @@
 ---
-redirect: "Maestro"
+redirect: "Shows/Maestro"
 ---
-#REDIRECT [[Maestro]]
+#REDIRECT [[Shows/Maestro]]

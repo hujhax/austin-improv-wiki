@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Arkay.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Arkay]] from their 5/2/13 premiere at [[ColdTowne Theater]].
+Photo of [[Arkay]] from their 5/2/13 premiere at [[Coldtowne Theater]].
 
 Photo by: Andres Lucero.
 ## Licensing

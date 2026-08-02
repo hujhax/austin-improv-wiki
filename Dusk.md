@@ -14,34 +14,34 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Shana Merlin">Shana Merlin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Avimaan Syam">Avimaan Syam</a></li><!--
-  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Performers/Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Performers/Avimaan Syam</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
   --><li style=""><a class="internal-link" href="Chelsea Gilman">Chelsea Gilman</a></li><!--
-  --><li style=""><a class="internal-link" href="Colin Thomas Bates">Colin Thomas Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style="" ><a class="internal-link" href="Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Thomas Bates">Performers/Colin Thomas Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
   --><li style=""><a class="internal-link" href="Hugo Zesati">Hugo Zesati</a></li><!--
-  --><li style=""><a class="internal-link" href="Julie Gillis">Julie Gillis</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Performers/Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Performers/Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lauren Buck">Performers/Lauren Buck</a></li><!--
   --><li style=""><a class="internal-link" href="Lauren Zinn">Lauren Zinn</a></li><!--
-  --><li style=""><a class="internal-link" href="Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Liz Brammer">Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Madi Goff">Madi Goff</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Performers/Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madi Goff">Performers/Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Performers/Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Performers/Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -104,107 +104,107 @@ The marketing tagline for season 2 was "Forever is for serious."
 ## Cast and Crew
 ### Season 1 (2009)
 #### Cast
-* [[Andreas Fabis]]
-* [[Audrey Rachel Sansom]]
-* [[Avimaan Syam]]
-* [[Bryan Cruz]]
+* [[Performers/Andreas Fabis]]
+* [[Performers/Audrey Rachel Sansom]]
+* [[Performers/Avimaan Syam]]
+* [[Performers/Bryan Cruz]]
 * [[Chelsea Gilman]]
-* [[Courtney Hopkin]]
-* [[Julie Gillis]]
-* [[Kyle Traughber]]
+* [[Performers/Courtney Hopkin]]
+* [[Performers/Julie Gillis]]
+* [[Performers/Kyle Traughber]]
 * [[Lauren Zinn]]
-* [[Lindsey Reeves]]
-* [[Madi Goff]]
-* [[Michael Joplin]]
-* [[Michael Thomas]]
-* [[Patrick Knisely]]
-* [[Sarah Marie Curry]]
+* [[Performers/Lindsey Reeves]]
+* [[Performers/Madi Goff]]
+* [[Performers/Michael Joplin]]
+* [[Performers/Michael Thomas]]
+* [[Performers/Patrick Knisely]]
+* [[Performers/Sarah Marie Curry]]
 
 ### Crew
-* Director -- [[Shana Merlin]]
-* Producer -- [[Shannon McCormick]]
-* PR -- [[Lauren Buck]]
-* Graphic Design -- [[Courtney Hopkin]]
-* Costumes -- [[Audrey Rachel Sansom]]
-* Photos -- [[Jon Bolden]]
-* Video Director -- [[Michael Thomas]]
+* Director -- [[Performers/Shana Merlin]]
+* Producer -- [[Performers/Shannon McCormick]]
+* PR -- [[Performers/Lauren Buck]]
+* Graphic Design -- [[Performers/Courtney Hopkin]]
+* Costumes -- [[Performers/Audrey Rachel Sansom]]
+* Photos -- [[Performers/Jon Bolden]]
+* Video Director -- [[Performers/Michael Thomas]]
 * Video Editor -- [[Don Swaynos]]
-* Sound Design -- [[Sara Farr]] and [[Sarah Marie Curry]]
+* Sound Design -- [[Performers/Sara Farr]] and [[Performers/Sarah Marie Curry]]
 * Set Design -- [[Cindie Mooney]]
-* Light Design -- [[Ace Manning]]
-* Program Design -- [[Courtney Hopkin]]
+* Light Design -- [[Performers/Ace Manning]]
+* Program Design -- [[Performers/Courtney Hopkin]]
 * Sound Tech -- [[Joshua Bush]]
 * Light Tech -- [[Michael Sullivan]]
-* Box Office -- [[Britney Salyer]]
+* Box Office -- [[Performers/Britney Salyer]]
 
 ### Chicago
 #### Cast
-* [[Avimaan Syam]]
+* [[Performers/Avimaan Syam]]
 * [[Chelsea Gilman]]
-* [[Courtney Hopkin]]
-* [[Kyle Traughber]]
-* [[Lindsey Reeves]]
-* [[Michael Joplin]]
-* [[Michael Thomas]]
-* [[Patrick Knisely]]
-* [[Shana Merlin]]
+* [[Performers/Courtney Hopkin]]
+* [[Performers/Kyle Traughber]]
+* [[Performers/Lindsey Reeves]]
+* [[Performers/Michael Joplin]]
+* [[Performers/Michael Thomas]]
+* [[Performers/Patrick Knisely]]
+* [[Performers/Shana Merlin]]
 
 #### Crew
-* Tech -- [[Sara Farr]]
+* Tech -- [[Performers/Sara Farr]]
 
 ### New York Cast
-* [[Andreas Fabis]]
-* [[Audrey Rachel Sansom]]
-* [[Avimaan Syam]]
-* [[Bryan Cruz]]
-* [[Julie Gillis]]
+* [[Performers/Andreas Fabis]]
+* [[Performers/Audrey Rachel Sansom]]
+* [[Performers/Avimaan Syam]]
+* [[Performers/Bryan Cruz]]
+* [[Performers/Julie Gillis]]
 * [[Lauren Zinn]]
-* [[Madi Goff]]
-* [[Michael Joplin]]
-* [[Michael Thomas]]
-* [[Shana Merlin]]
+* [[Performers/Madi Goff]]
+* [[Performers/Michael Joplin]]
+* [[Performers/Michael Thomas]]
+* [[Performers/Shana Merlin]]
 
 ### Season 2 (2010)
 #### Cast
-* [[Ace Manning]]
-* [[Andreas Fabis]]
-* [[Audrey Rachel Sansom]]
-* [[Avimaan Syam]]
-* [[Bryan Cruz]]
+* [[Performers/Ace Manning]]
+* [[Performers/Andreas Fabis]]
+* [[Performers/Audrey Rachel Sansom]]
+* [[Performers/Avimaan Syam]]
+* [[Performers/Bryan Cruz]]
 * [[Chelsea Gilman]]
-* [[Courtney Hopkin]]
+* [[Performers/Courtney Hopkin]]
 * [[Hugo Zesati]]
-* [[Katie Thornton]]
-* [[Kyle Traughber]]
-* [[Lauren Buck]]
-* [[Michael Thomas]]
-* [[Sarah Marie Curry]]
-* [[Shana Merlin]]
+* [[Performers/Katie Thornton]]
+* [[Performers/Kyle Traughber]]
+* [[Performers/Lauren Buck]]
+* [[Performers/Michael Thomas]]
+* [[Performers/Sarah Marie Curry]]
+* [[Performers/Shana Merlin]]
 
 #### Crew
-* Director -- [[Shana Merlin]]
-* Producer -- [[Shannon McCormick]]
-* Stage Manager -- [[Dana Yanoshak]]
-* PR -- [[Andreas Fabis]]
-* Graphic and Program Design -- [[Courtney Hopkin]]
-* Costumes -- [[Audrey Rachel Sansom]], [[Courtney Hopkin]]
-* Photos -- [[Jon Bolden]]
-* Video Director -- [[Michael Thomas]]
-* Video Editor -- [[Michael Thomas]]
-* Sound Design -- [[Sarah Marie Curry]], [[Sara Farr]]
-* Set Design -- [[Audrey Rachel Sansom]], [[Courtney Hopkin]]
+* Director -- [[Performers/Shana Merlin]]
+* Producer -- [[Performers/Shannon McCormick]]
+* Stage Manager -- [[Performers/Dana Yanoshak]]
+* PR -- [[Performers/Andreas Fabis]]
+* Graphic and Program Design -- [[Performers/Courtney Hopkin]]
+* Costumes -- [[Performers/Audrey Rachel Sansom]], [[Performers/Courtney Hopkin]]
+* Photos -- [[Performers/Jon Bolden]]
+* Video Director -- [[Performers/Michael Thomas]]
+* Video Editor -- [[Performers/Michael Thomas]]
+* Sound Design -- [[Performers/Sarah Marie Curry]], [[Performers/Sara Farr]]
+* Set Design -- [[Performers/Audrey Rachel Sansom]], [[Performers/Courtney Hopkin]]
 
 ### Atlanta Cast
-* [[Andreas Fabis]]
-* [[Bryan Cruz]]
-* [[Colin Thomas Bates]]
-* [[Courtney Hopkin]]
-* [[Dana Yanoshak]]
-* [[Kyle Traughber]]
-* [[Liz Brammer]]
-* [[Michael Joplin]]
-* [[Michael Thomas]]
-* [[Shana Merlin]]
+* [[Performers/Andreas Fabis]]
+* [[Performers/Bryan Cruz]]
+* [[Performers/Colin Thomas Bates]]
+* [[Performers/Courtney Hopkin]]
+* [[Performers/Dana Yanoshak]]
+* [[Performers/Kyle Traughber]]
+* [[Performers/Liz Brammer]]
+* [[Performers/Michael Joplin]]
+* [[Performers/Michael Thomas]]
+* [[Performers/Shana Merlin]]
 
 ## Media
 ### Videos
@@ -215,22 +215,22 @@ The marketing tagline for season 2 was "Forever is for serious."
 * Video of their 9/24/10 show: [part 1](http://vimeo.com/30947551), [part 2](http://vimeo.com/31256790).
 
 ### Photos
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150295116320324.548314.503270323&type=3) by [[Kevin Miller]] of the 10/23/09 premiere.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150295116320324.548314.503270323&type=3) by [[Performers/Kevin Miller]] of the 10/23/09 premiere.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 11/7/09 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 show at [[The 2010 Out of Bounds Comedy Festival]].
-	* [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3) by [[Peter Rogers]]
+	* [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3) by [[Performers/Peter Rogers]]
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/10 performance at [[The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/22/10 performance at [[Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3) by [[Peter Rogers]] of their 10/23/10 show at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3) by [[Performers/Peter Rogers]] of their 10/23/10 show at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3) by [[Roy Moore]] of their 10/29/10 show at [[Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3) by [[Peter Rogers]] of their 11/13/10 show at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3) by [[Performers/Peter Rogers]] of their 11/13/10 show at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1435556900813.2056609.1589679282&type=3) by [[Roy Moore]] of their 11/19/10 show at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/20/10 performance.
 
 ### Publicity
 * "Bella Picks a Team" promo: [part 1](http://youtu.be/FtYlYgi1VFk), [part 2](http://youtu.be/vMB-7BVfcJM), [part 3](http://youtu.be/WtXFzyyBuRg), [part 4](http://youtu.be/V5BQAFlib_g).
-* [Video interview](http://vimeo.com/16279072) with [[Katie Thornton]] about the show.
-* [Video interview](http://vimeo.com/16178759) with [[Shana Merlin]] about the show.
+* [Video interview](http://vimeo.com/16279072) with [[Performers/Katie Thornton]] about the show.
+* [Video interview](http://vimeo.com/16178759) with [[Performers/Shana Merlin]] about the show.
 
 ## More Information
 * [The announcement of season 1](http://forum.austinimprov.com/viewtopic.php?f=2&t=9800) on [[The AIC Forums]].

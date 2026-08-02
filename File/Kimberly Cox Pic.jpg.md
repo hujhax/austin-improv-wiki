@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kimberly Cox Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Kimberly Cox]], performing with [[The Intentions]] in *[[The Weekender]]* on 5/15/11.
+[[Performers/Kimberly Cox]], performing with [[Troupes/The Intentions]] in *[[Shows/The Weekender]]* on 5/15/11.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.124411107639921.31672.100002130980897&type=3).
 ## Licensing

@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Michael Joplin">Michael Joplin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -26,7 +26,7 @@
   --><li style=""><a class="internal-link" href="Aron Taylor">Aron Taylor</a></li><!--
   --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Elizabeth Bigger">Elizabeth Bigger</a></li><!--
-  --><li style=""><a class="internal-link" href="Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Performers/Erin Molson</a></li><!--
   --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
   --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
   --><li style=""><a class="internal-link" href="Jonathan Euseppi">Jonathan Euseppi</a></li><!--
@@ -92,7 +92,7 @@
 
 ## Media
 * [A music video for "You Don't Have To Know My Name (To Be My Lover)"](http://youtu.be/wwsSt9mL3aI), ostensibly created by Giovanni Valenti, one of the show's characters.
-* [Photoset](http://www.facebook.com/media/set/?set=a.353389970616.152707.607595616&type=1) by [[Andreas Fabis]] of the 2/26/10 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.353389970616.152707.607595616&type=1) by [[Performers/Andreas Fabis]] of the 2/26/10 performance.
 
 ## More Information
 * [The show's website.](http://gnaptheater.org/the-family/)

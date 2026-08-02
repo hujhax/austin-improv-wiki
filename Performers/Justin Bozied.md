@@ -1,0 +1,53 @@
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Justin Bozied</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/Justin Davis.jpg.md"><img src="File/Justin%20Davis.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">None</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2007-Present</td>
+		</tr>
+	</table>
+</div>
+
+**Justin Bozied** (formerly Justin Davis) is an improv performer, director, and teacher. He first took classes at [[The Hideout Theatre]] from 2006 to 2007. Justin was a founding member of [[Troupes/The Starter Kit]], an improv troupe that lasted four and a half years before splitting up mainly due to multiple members moving away from Austin. A decided shift in his performing style happened around this time, and he pursued more opportunities behind the scenes as a director, producer, creator, and instructor.  
+
+## Troupes
+* [[Troupes/Je Ju]]
+* [[Troupes/The Library]]
+* [[Shows/The Professor]] (creator, director, 2011-2012)
+* [[Troupes/Century]]
+* [[Troupes/The Starter Kit]]
+* [[Troupes/The Asides]]
+* [[Troupes/Mr. Rather]]
+
+## Shows
+* *[[Shows/The Black Vault]]*
+* *[[Shows/Ka-Baam!!]]*
+* *[[Magna Veritas]]*
+* *[[Shows/The Next Chapter]]* (creator, director, and performer)
+* *[[Shows/You Think You're So Smart]]* (creator, director, and performer)
+* *[[Shows/Spirited]]*
+* *[[Shows/Start Trekkin']]*
+* *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
+* *[[The Birthday Clusterfunk]]* (host and producer)
+* *[[Shows/The Rubber Room]]* (performer and producer)
+* *[[This American Live]]* (guest storyteller)
+* *[[Shows/Maestro]]* (2000-) (director, performer)
+* ''[[Shows/The Nightmare Video Project]]
+* ''[[Pick Your Own Path]]
+* ''[[The Tribunal]]
+* ''[[Shows/Holy 1960s Batman, Batman!]] (guest villain)
+
+[[Category/Performers|Davis]]
+[[Category/Teachers|Davis]]
+[[Category/Directors|Davis]]

@@ -1,0 +1,92 @@
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Kingz</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Kingz.jpg.md"><img src="File/Kingz.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2015-Present</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
+  --><li style=""><a class="internal-link" href="Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Meredith Roberts">Meredith Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Molly Moore">Molly Moore</a></li><!--
+  --><li style=""><a class="internal-link" href="Xaria Coleman">Xaria Coleman</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+	</table>
+</div>
+
+**Kingz** is an improv troupe of women in drag.
+
+## Summary
+### Press Blurb
+Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Kingz is an Austin, TX based improv comedy troupe of women who dress like dudes. Through the art of drag and audience suggestions these gentleladies bring the perfect combination of laughs, beard stubble and manliness to their relationship based performances. It's good to be the Kingz.</blockquote>
+
+### "What's Your Deal?"
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We are women who dress up like dudes and perform a mono scene with pop outs. Our focus is on compelling and hilarious character driven scenes.</blockquote>
+
+## Media
+### Videos
+* [Video](http://youtu.be/3Ef7GoOzsIw) of their 6/3/15 show at [[Coldtowne Theater]].
+
+## More Information
+* [The troupe's facebook page.](http://www.facebook.com/pages/Kingz/838619749519864)
+
+[[Category/Troupes|Category:Troupes]]
+[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Active|Category:Active]]
+[[Category/All-Female Troupes|Category:All-Female Troupes]]

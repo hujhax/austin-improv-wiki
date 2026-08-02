@@ -15,7 +15,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Performers/Madeline Jo Chauvin</a></li><!--
   --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
   --><!--
   --><!--
@@ -72,7 +72,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Diana Caldwell">Diana Caldwell</a></li><!--
   --><li style=""><a class="internal-link" href="Jesse Prebix">Jesse Prebix</a></li><!--
-  --><li style=""><a class="internal-link" href="Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -125,16 +125,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adam Mengesha">Adam Mengesha</a></li><!--
-  --><li style=""><a class="internal-link" href="Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Performers/Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Performers/Adriane Shown</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Hush">Andy Hush</a></li><!--
   --><li style=""><a class="internal-link" href="Ben Howell">Ben Howell</a></li><!--
   --><li style=""><a class="internal-link" href="Benjamin Scott">Benjamin Scott</a></li><!--
   --><li style=""><a class="internal-link" href="Carrie H. Stephens">Carrie H. Stephens</a></li><!--
-  --><li style=""><a class="internal-link" href="Chris Villafano">Chris Villafano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Performers/Chris Villafano</a></li><!--
   --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
-  --><li style="" ><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Howard Katz">Performers/Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Performers/Madeline Jo Chauvin</a></li><!--
   --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
   --><li style=""><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
   --><li style=""><a class="internal-link" href="Richard Dodwell">Richard Dodwell</a></li><!--
@@ -181,8 +181,8 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="BK McKee">BK McKee</a></li><!--
-  --><li style=""><a class="internal-link" href="Neal Tibrewala">Neal Tibrewala</a></li><!--
-  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Performers/Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Performers/Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -239,40 +239,40 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Scrubs*** refers to the *[[Live TV Tuesdays]]* presentation of the [[Wikipedia - Scrubs (TV series)|*Scrubs*]] episodes ["My Overkill"](http://scrubs.wikia.com/wiki/My_Overkill) and ["My Musical"](http://scrubs.wikia.com/wiki/My_Musical).
+***Live TV Tuesdays: Scrubs*** refers to the *[[Shows/Live TV Tuesdays]]* presentation of the [[Wikipedia - Scrubs (TV series)|*Scrubs*]] episodes ["My Overkill"](http://scrubs.wikia.com/wiki/My_Overkill) and ["My Musical"](http://scrubs.wikia.com/wiki/My_Musical).
 
 It was referred to as "*Scrubs: Live*".
 
 ## History
-This was the last of the [[Live TV Tuesdays]] productions.
+This was the last of the [[Shows/Live TV Tuesdays]] productions.
 
 It played exclusively at [[The Institution Theater]].
 
 ## Cast
 * Dr. J.D. Dorian -- [[Ben Howell]]
-* Dr. Christopher Turk -- [[Adam Mengesha]]
+* Dr. Christopher Turk -- [[Performers/Adam Mengesha]]
 * Nurse Carla Espinoza -- [[Tatiana Artis]]
 * Dr. Elliot Reid -- [[Laura Komkov]]
 * Dr. Perry Cox -- [[Kevin Machate]]
 * Dr. Bob Kelso -- [[Richard Dodwell]]
 * Patti Miller/Ensemble -- [[Carrie H. Stephens]]
 * Nurse LaVerne Roberts -- [[Benjamin Scott]]
-* The Janitor -- [[Howard Katz]]
+* The Janitor -- [[Performers/Howard Katz]]
 * Troubadour/Ted -- [[David Rosenbaum]]
-* Jordan/Ensemble -- [[Adriane Shown]]
+* Jordan/Ensemble -- [[Performers/Adriane Shown]]
 * Doug/Ensemble -- [[Andy Hush]]
-* Chet/Ensemble -- [[Chris Villafano]]
-* Gooch -- [[Madeline Jo Chauvin]]
+* Chet/Ensemble -- [[Performers/Chris Villafano]]
+* Gooch -- [[Performers/Madeline Jo Chauvin]]
 
 ## Crew
-* Produced and Directed by -- [[Madeline Jo Chauvin]], [[Kevin Machate]]
-* Executive Producers -- [[Tom Booker]], [[Diana Caldwell]], [[Jesse Prebix]]
-* Choreographer -- [[Carissa McAtee]]
+* Produced and Directed by -- [[Performers/Madeline Jo Chauvin]], [[Kevin Machate]]
+* Executive Producers -- [[Performers/Tom Booker]], [[Diana Caldwell]], [[Jesse Prebix]]
+* Choreographer -- [[Performers/Carissa McAtee]]
 * Music Arranger -- [[Stefan DelBosque]]
-* Vocal Coach -- [[Aden Kirschner]]
+* Vocal Coach -- [[Performers/Aden Kirschner]]
 * Photographer -- [[Eleazar Paradise]]
-* Program Designer -- [[Asaf Ronen]]
-* Technical Arts -- [[Todd Hart]], [[BK McKee]], [[Neal Tibrewala]]
+* Program Designer -- [[Performers/Asaf Ronen]]
+* Technical Arts -- [[Performers/Todd Hart]], [[BK McKee]], [[Performers/Neal Tibrewala]]
 * Video Production -- [[Madeline Chauvin]]
 * "My Overkill" written by Bill Lawrence
 * "My Musical" written by Debra Fordham
@@ -281,7 +281,7 @@ It played exclusively at [[The Institution Theater]].
 ## Media
 * [Photoset of the 8/10/12 performance](http://www.facebook.com/media/set/?set=a.376141825787836.83399.118587218209966&type=3) by [[Roy Moore]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.10102310892215350.3454321.7944448&type=3)  by [[Madeline Chauvin]].
-* [Publicity photos](http://www.facebook.com/media/set/?set=a.10102326737516240.3457235.7914830&type=3) posted by [[Adam Mengesha]].
+* [Publicity photos](http://www.facebook.com/media/set/?set=a.10102326737516240.3457235.7914830&type=3) posted by [[Performers/Adam Mengesha]].
 * [[File/ScrubsProgram.jpeg.md|The show's program.]]
 
 ## More Information

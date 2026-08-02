@@ -1,4 +1,4 @@
 ---
-redirect: "Hitchcocked!"
+redirect: "Shows/Hitchcocked!"
 ---
-#REDIRECT [[Hitchcocked!]]
+#REDIRECT [[Shows/Hitchcocked!]]

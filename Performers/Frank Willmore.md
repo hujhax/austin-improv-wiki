@@ -1,0 +1,40 @@
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Frank Willmore</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/.md"><img src="File/" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category">Various</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2005-Present</td>
+		</tr>
+	</table>
+</div>
+
+**Frank Willmore** is an improv performer.
+
+## History
+. 
+
+## Troupes
+* [[Troupes/The Leading Brands]]
+* [[Troupes/IPhone the Musical]]
+* [[The Perfect Banana]]
+* [[Oscar's Flying Fish and Unicorn Minstrel Show]]
+* [[Troupes/Southern Hospitality's Cardboard Coffin]]
+* [[Troupes/Past Life Aggression]]
+
+## Shows
+* *[[Shows/Maestro]]*
+* *[[Fancy Pants Mashup]]*
+* *[[Same Year's Eve]]*
+
+[[Category/Performers|Willmore]]

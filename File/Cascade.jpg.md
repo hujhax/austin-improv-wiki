@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cascade.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for Cascade by [[Ryan Austin]]
+Poster for Cascade by [[Performers/Ryan Austin]]
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

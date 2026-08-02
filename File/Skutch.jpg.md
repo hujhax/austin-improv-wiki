@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Skutch.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Skutch]].
+Publicity photo of [[Troupes/Skutch]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

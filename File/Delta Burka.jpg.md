@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Delta Burka.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Delta Burka]].
+Publicity photo of [[Troupes/Delta Burka]].
 
 Photo by: unknown.
 ## Licensing

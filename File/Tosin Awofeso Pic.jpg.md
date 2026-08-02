@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Tosin Awofeso Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Tosin Awofeso]] accompanies the 5/24/14 performance of *[[Theatresports]]*.
+[[Performers/Tosin awofeso]] accompanies the 5/24/14 performance of *[[Shows/TheatreSports]]*.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201938403444447.1073741889.1315383518&type=3).
 

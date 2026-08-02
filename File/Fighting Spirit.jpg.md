@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Fighting Spirit.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for *[[Fighting Spirit]]*.
+Poster for *[[Shows/Fighting Spirit]]*.
 
 Art by: unknown.
 ## Licensing

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mustache.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Mustache]], featuring [[Frank Netscher]].
+Publicity image for [[Troupes/Mustache]], featuring [[Performers/Frank Netscher]].
 
 Photo by: unknown.
 

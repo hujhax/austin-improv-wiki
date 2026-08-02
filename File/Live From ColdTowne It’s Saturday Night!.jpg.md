@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Live From ColdTowne It’s Saturday Night!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Live From ColdTowne It's Saturday Night!]]*.
+Publicity image for *[[Shows/Live From ColdTowne It's Saturday Night!]]*.
 
 Art by: unknown.
 

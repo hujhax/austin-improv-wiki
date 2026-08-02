@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Furiously Missing.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Furiously Missing]].
+Publicity photo of [[Troupes/Furiously Missing]].
 
 Photo by: unknown.
 ## Licensing

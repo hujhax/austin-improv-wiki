@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Bridgeport Women's Correctional Facility Short Form Players.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for the 2014 shows by the [[Bridgeport Women's Correctional Facility Short Form Players]].
+Publicity photo for the 2014 shows by the [[Troupes/Bridgeport Women's Correctional Facility Short Form Players]].
 
 Photo by: unknown.
 ## Licensing

@@ -3,11 +3,11 @@
 ## Summary
 Promotional image for *[[Dusk]]*.
 
-From left: [[Bryan Cruz]], [[Chelsea Gilman]], and [[Michael Thomas]].
+From left: [[Performers/Bryan Cruz]], [[Chelsea Gilman]], and [[Performers/Michael Thomas]].
 
-Photo by [[Jon Bolden]].
+Photo by [[Performers/Jon Bolden]].
 
-Poster art by [[Courtney Hopkin]].
+Poster art by [[Performers/Courtney Hopkin]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

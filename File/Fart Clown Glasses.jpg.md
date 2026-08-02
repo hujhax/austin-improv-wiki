@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Fart Clown Glasses.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Casual photo of [[Fart Clown Glasses]] by [[Erika May McNichol]].
+Casual photo of [[Troupes/Fart Clown Glasses]] by [[Performers/Erika May McNichol]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Craig Kotfas Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Craig Kotfas]], getting spattered with fake blood at the second annual [[Bloody Balloon Battle]].
+[[Performers/Craig Kotfas]], getting spattered with fake blood at the second annual [[Bloody Balloon Battle]].
 
 Photo by John Clark, from [this photoset](http://www.facebook.com/media/set/?set=a.551683694857166.145019.523241557701380&type=3).
 ## Licensing

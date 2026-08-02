@@ -14,13 +14,13 @@ Nearly every page has an 'Edit' button towards the top-right corner, next to the
 
 
 **How do I make a new page?**<br/>
-[Here is a quick video demonstration](http://screencast.com/t/rJvTnPGn8) of how to do it.  Basically, the easy way to do it is to take an existing page for a troupe, a show, or a performer -- like [[The Foreign Legion|this troupe page]], [[Totally Improvised, 90210|this show page]], or [[Peter Rogers|this performer page]] -- as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
+[Here is a quick video demonstration](http://screencast.com/t/rJvTnPGn8) of how to do it.  Basically, the easy way to do it is to take an existing page for a troupe, a show, or a performer -- like [[Troupes/The Foreign Legion|this troupe page]], [[Shows/Totally Improvised, 90210|this show page]], or [[Performers/Peter Rogers|this performer page]] -- as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
 
 
 **I haven't used a wiki before! How do I make my page look pretty?**<br/>
 First off, *don't worry about it*. It's *incredibly* easy for the rest of us to make the content you add look pretty. But it's hard (as in "impossible") for the rest of us to magically know the things that *you* know about the Austin improv scene. So be bold, make mistakes, and trust that the rest of this community has your back.
 
-But if you want to learn about wiki markup, [[Help/Formatting|this page]] gives a great summary.  Also, [[AIC Wiki Style Guide|the style guide]] can show you how to make your new page fit in with all the pages we've already got.
+But if you want to learn about wiki markup, [[Help/Formatting|this page]] gives a great summary.  Also, [[Performers/AIC Wiki Style Guide|the style guide]] can show you how to make your new page fit in with all the pages we've already got.
 
 
 **How do I show up in the &lt;x&gt; category?**<br/>
@@ -32,7 +32,7 @@ You can do the same thing with different category names to make a page show up i
 **How do I get my troupe to show up in [[List of Austin Improv Troupes|the troupes category]]?**<br/>
 Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Category:Troupes]]</nowiki>.
 
-If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[The Frank Mills]], you could add: <nowiki>[[Category/Troupes|Frank Mills]]</nowiki>.
+If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[Troupes/The Frank Mills]], you could add: <nowiki>[[Category/Troupes|Frank Mills]]</nowiki>.
 
 (If the troupe is currently active, also add this: <nowiki>[[Category/Active|Category:Active]]</nowiki>.)
 
@@ -40,14 +40,14 @@ If your troupe begins with an article such as "the" or "a", you will want to tel
 **How do I upload a picture?**<br/>
 [Here is a quick video that explains how to do it.](http://screencast.com/t/OhasuYtz)
 
-[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Jon Bolden]], [[Michael Yew]], [[Steve Rogers]], [[Roy Moore]], [[Menelaos Prokos]], [[Dave Alley]], and [[Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
+[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Performers/Jon Bolden]], [[Michael Yew]], [[Steve Rogers]], [[Roy Moore]], [[Performers/Menelaos Prokos]], [[Performers/Dave alley]], and [[Performers/Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
 * Credit them in the picture's description.
 * Link back to the original photoset if you can.
 * In the "licensing" dropdown, select "The copyright holder gave me permission to use this work only in AIC Wiki articles."
 
 For an example of following these three rules, look at [this photo](http://wiki.austinimprov.com/wiki/File:Peter_Rogers_Pic.jpg).
 
-(Also, [[Courtney Hopkin]], [[Asaf Ronen]] and [[Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
+(Also, [[Performers/Courtney Hopkin]], [[Performers/Asaf Ronen]] and [[Performers/Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
 
 
 **I want both "Hideout Theatre" and "The Hideout Theatre" to link to the same information -- does this mean I need to make two copies of the Hideout page?**<br/>
@@ -57,6 +57,6 @@ That means that all the [[Hideout Theatre]] page does is "redirect" to [[The Hid
 
 
 **I have a problem with the site! Who do I call?**<br/>
-Either [[Kevin Miller]], [[Brad Hawkins]], or [[Peter Rogers]] can probably handle your issue.
+Either [[Performers/Kevin Miller]], [[Performers/Brad Hawkins]], or [[Performers/Peter Rogers]] can probably handle your issue.
 
 As site administrators, they can do things like delete files, protect pages (meaning nobody can edit them), and even grant other people admin privileges, should you be interested in that.

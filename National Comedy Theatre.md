@@ -1,4 +1,4 @@
 ---
-redirect: "ComedySportz"
+redirect: "Troupes/ComedySportz"
 ---
-#REDIRECT [[ComedySportz]]
+#REDIRECT [[Troupes/ComedySportz]]

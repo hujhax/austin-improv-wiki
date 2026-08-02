@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Slam Team Cartoon.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for *[[Slam Team Six]]*.
+Publicity art for *[[Shows/Slam Team Six]]*.
 
 Art by: unknown.
 ## Licensing

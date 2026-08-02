@@ -1,12 +1,12 @@
 **David Rosenbaum** is an improv performer and musical improviser.
 
 ## Troupes
-* [[My Friend Stripey]]
-* [[Umami]]
-* [[The Dancy Street D'Orchestra]] (accompanist)
-* [[DA Foundry]] (accompanist and player)
-* [[Human People]] (accompanist and player)
-* [[Too Shy Guys]] (accompanist)
+* [[Troupes/My Friend Stripey]]
+* [[Troupes/Umami]]
+* [[Troupes/The Dancy Street D'Orchestra]] (accompanist)
+* [[Troupes/DA Foundry]] (accompanist and player)
+* [[Troupes/Human People]] (accompanist and player)
+* [[Troupes/Too Shy Guys]] (accompanist)
 
 ## Shows
 * *[[Danger! The Improvised Lifetime Movie]]*

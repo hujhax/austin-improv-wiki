@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Jorak and Jorak Do Movie.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Jorak and Jorak Do Movie]], performing at [[ColdTowne Theater]]...............................................................................................................................................
+[[Troupes/Jorak and Jorak Do Movie]], performing at [[Coldtowne Theater]]...............................................................................................................................................
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Jordan T. Maxwell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promo photo for *[[Strange Worlds]]*.
+Promo photo for *[[Shows/Strange Worlds]]*.
 
-Photo by [[Jon Bolden]]. Artwork by [[Kaci Beeler]].
+Photo by [[Performers/Jon Bolden]]. Artwork by [[Performers/Kaci Beeler]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

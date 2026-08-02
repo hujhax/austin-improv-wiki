@@ -1,0 +1,57 @@
+<div>
+	<table class="infobox infobox-performer">
+		<tr>
+			<th colspan="2" class="infobox-header">Jessica Arjet</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/Jessica Arjet Pic.jpg.md"><img src="File/Jessica%20Arjet%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Primary Theater</th>
+			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+		</tr>
+		<tr class="">
+			<th scope="row" class="category-header">Years Active</th>
+			<td class="category">2003-Present</td>
+		</tr>
+	</table>
+</div>
+
+**Jessica Arjet** is an improv performer, director, teacher, and co-owner of [[The Hideout Theatre]].
+
+## Summary
+Jessica is the co-owner of the Hideout Theatre where she directs all of the youth programs, oversees Maestro, the intern program, and the art exhibits.  She is the founder, producer and director of the [[Shows/Flying Theater Machine]], Austin's only improv comedy for kids.  Jessica teaches and coaches both adults and children. She is also a professional clown (Penelope Foolish).
+
+## History
+Jessica Arjet graduated from the [[Heroes of Comedy]] Improv School in 2003.  Upon graduation, she was invited to join the house improv team.
+
+She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour Improv Marathon]].
+
+## Troupes
+* [[Bedfellows]]
+* [[Troupes/ComedySportz]]
+* [[Troupes/Firth & Arjet]]
+* [[Troupes/In Our Prime]]
+* [[Troupes/Your Dad's Friends]]
+* [[Shows/Flying Theater Machine]]
+
+## Shows
+* *[[Shows/The Black Vault]]*
+* "[[Shows/Spirited]]"
+* Louder than Words (director) 
+* *[[Blood, Sweat, and Cheers]]* (Barbara Davis)
+* *[[Shows/Charles Dickens Unleashed]]*
+* *[[Shows/Fakespeare]]* (Margaret/Hecate/Angus)
+* *[[Shows/Live Nude Improv]]*
+* *[[Shows/Strange Worlds]]* (Maxine Maker)
+* "[[Shows/I Love You So Much]]" (Director)
+
+## More Information
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2628012) with Jessica on *[[The Theft Forum]]*.
+* [Interview](http://yesandrew.com/sunday-interview-jessica-arjet/) by [[Performers/Andrew Buck]].
+
+[[Category/Performers|Arjet]]
+[[Category/Teachers|Arjet]]
+[[Category/Directors|Arjet]]

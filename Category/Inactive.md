@@ -1,6 +1,6 @@
 ## Pages in category "Inactive"
 
-* [[1813 Drake]]
-* [[Century]]
-* [[Double Dutch]]
-* [[Goat]]
+* [[Troupes/1813 Drake]]
+* [[Troupes/Century]]
+* [[Troupes/Double Dutch]]
+* [[Troupes/Goat]]

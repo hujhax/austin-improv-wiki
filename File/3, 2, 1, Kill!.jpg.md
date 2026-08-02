@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="3, 2, 1, Kill!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for [[3, 2, 1, Kill!]]
+Publicity poster for [[Troupes/3, 2, 1, Kill!]]
 
 Art by: unknown.
 ## Licensing

@@ -10,55 +10,55 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 ## Acts
 ### Local Improv and Sketch Acts
 * *2001* Dubbed
-* [[The $3 Bills]]
+* [[Troupes/The $3 Bills]]
 * [[Achatina Achatina!]]
-* [[The Amazon and the Milksop]]
-* [[Anticdotes]]
-* [[Austin Secrets]]
-* [[Boy Toy]]
-* [[Buddy Daddy]]
+* [[Troupes/The Amazon and The Milksop]]
+* [[Troupes/Anticdotes]]
+* [[Shows/Austin Secrets]]
+* [[Troupes/Boy Toy]]
+* [[Troupes/Buddy Daddy]]
 * [[ColdTowne]]
 * [[ColdTowne Fantasy]]
 * [[Confidence Men -  Improvised Mamet]]
 * [[Cooper Street]]
 * [[Crack!]]
-* [[Dick Rambuck]]
+* [[Troupes/Dick Rambuck]]
 * [[Dusk -  Improvised Tween Erotica]]
 * [[Firth and Arjet]]
-* [[The Frank Mills]]
-* [[Get Up]]
-* [[Girls Girls Girls]]
-* [[The Glamping Trip]]
-* [[Guilds of Steel]]
-* [[Happiness is a Choice]]
-* [[Hitchcocked!]]
-* [[Improv for Evil]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Get Up]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/The Glamping Trip]]
+* [[Shows/Guilds Of Steel]]
+* [[Troupes/Happiness is a Choice]]
+* [[Shows/Hitchcocked!]]
+* [[Troupes/Improv For Evil]]
 * [[The Inmates of the Institution]]
-* [[J-K]]
-* [[Junk]]
-* [[The Knuckleball Now]]
-* [[Look Cookie]]
-* [[Midnight Society]]
+* [[Troupes/J-K]]
+* [[Troupes/Junk]]
+* [[Troupes/The Knuckleball Now]]
+* [[Troupes/Look Cookie]]
+* [[Troupes/Midnight Society]]
 * [[MilkMilkLemonade]]
-* [[Murphy]]
-* [[Nice Astronaut]]
-* [[Northshore Local]]
-* [[Parallelogramophonograph]]
-* [[Pretty Jack Jaybird]]
-* [[Sarah 7]]
-* [[Shades of Brown]]
-* *[[Shanty Town Lake]]*
-* [[The Sicks]]
-* [[Snackers]]
-* [[Start Trekkin']] (NYC+Austin)
-* [[The Starter Kit]]
-* [[Stool Pigeon]]
+* [[Troupes/Murphy]]
+* [[Troupes/Nice Astronaut]]
+* [[Troupes/Northshore Local]]
+* [[Troupes/Parallelogramophonograph]]
+* [[Troupes/Pretty Jack Jaybird]]
+* [[Troupes/Sarah 7]]
+* [[Troupes/Shades of Brown]]
+* *[[Shows/Shanty Town Lake]]*
+* [[Troupes/The Sicks]]
+* [[Troupes/Snackers]]
+* [[Shows/Start Trekkin']] (NYC+Austin)
+* [[Troupes/The Starter Kit]]
+* [[Shows/Stool Pigeon]]
 * [[Topping Haggerty Experience]]
 * [[Triforce]]
-* [[Venn Diaphragm]]
-* [[Your Dad's Friends]]
-* [[Your Terrific Neighbors]]
-* [[You're Not My Real Dad]]
+* [[Troupes/Venn Diaphragm]]
+* [[Troupes/Your Dad's Friends]]
+* [[Troupes/Your Terrific Neighbors]]
+* [[Troupes/You're Not My Real Dad]]
 
 ### Out-of-Town Improv and Sketch Acts
 * 1954 (LA)
@@ -155,7 +155,7 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [Video of the 9/5/10 "Rocket Surgery" interview with Kevin McDonald.](http://blip.tv/out-of-bounds-comedy-festival/rocket-surgery-with-kevin-mcdonald-oob-2010-4763290)
 
 ### Other
-* Photos of [[Kaci Beeler]]'s set designs:
+* Photos of [[Performers/Kaci Beeler]]'s set designs:
 	* At [[Salvage Vanguard Theater]]: 
 		* The small stage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_5/oob2010_5.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_4/oob2010_4.jpg?disposition=download).
 		* The large stage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_7/oob2010_7.jpg?disposition=download),[2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_8/oob2010_8.jpg?disposition=download),[3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_6/oob2010_6.jpg?disposition=download).

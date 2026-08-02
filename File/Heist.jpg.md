@@ -3,9 +3,9 @@
 ## Summary
 Poster for [[Heist]].
 
-Photos by [[Jon Bolden]].
+Photos by [[Performers/Jon Bolden]].
 
-Art by [[Andreas Fabis]] and [[Courtney Hopkin]].
+Art by [[Performers/Andreas Fabis]] and [[Performers/Courtney Hopkin]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

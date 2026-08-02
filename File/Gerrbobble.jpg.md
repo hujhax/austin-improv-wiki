@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Gerrbobble.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Gerrbobble]].
+Publicity image for [[Troupes/Gerrbobble]].
 
 Photo by: unknown.
 

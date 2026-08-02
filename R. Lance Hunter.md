@@ -25,12 +25,12 @@
 Lance began taking classes at [[The Hideout Theatre]] on 3/9/13.
 
 ## Troupes
-* *[[Golden]]* (Technical Improviser)
-* [[Worst First Date]]
-* [[Super Sweet]]
+* *[[Troupes/Golden]]* (Technical Improviser)
+* [[Troupes/Worst First Date]]
+* [[Troupes/Super Sweet]]
 
 ## Shows
-* *[[Golden (mainstage)|Golden]]* (Technical Improviser)
+* *[[Shows/Golden (mainstage)|Golden]]* (Technical Improviser)
 
 ## More Information
 * [Lance Hunter](https://www.facebook.com/lancehunterart) promotional page on Facebook.

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cochise Performance.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Marc Majcher]] interrogates [[Mike Kinald]] in *[[Cochise]]*, as part of [[The 40-Hour Improv Marathon]].
+[[Performers/Marc Majcher]] interrogates [[Performers/Mike Kinald]] in *[[Shows/Cochise]]*, as part of [[The 40-Hour Improv Marathon]].
 
 Photo by [[Michael Yew]], from [this photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620623735851).
 ## Licensing

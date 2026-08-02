@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,21 +19,21 @@
 	</table>
 </div>
 
-**Alejandro Garcia** is an improv performer who works primarily at [[ColdTowne Theater]].
+**Alejandro Garcia** is an improv performer who works primarily at [[Coldtowne Theater]].
 
 
 ## Troupes
-* [[Cheap Date]] (2013-2015)
+* [[Troupes/Cheap Date]] (2013-2015)
 * [[Empty Promises]] (2014-Present)
-* [[Lunch Pail]] (2014-2015)
-* [[Matt & Alejandro's One Man Show]] (2014-2015)
+* [[Troupes/Lunch Pail]] (2014-2015)
+* [[Troupes/Matt & Alejandro's One Man Show]] (2014-2015)
 Brute Squad
 
 ## *[[Cagematch]]* Teams
-* [[Billy Shakes and All-Star Bards]] (2014)
-* [[The Level Five]] (2012)
+* [[Troupes/Billy Shakes And All-Star Bards]] (2014)
+* [[Troupes/The Level Five]] (2012)
 
 
 ## Shows
-* *[[Beware of Female Spies]]*
-* *[[The Organ Trail]]*
+* *[[Shows/Beware of Female Spies]]*
+* *[[Shows/The Organ Trail]]*

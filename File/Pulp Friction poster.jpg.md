@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Pulp Friction poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for *[[Pulp Friction]]*.
+Poster for *[[Shows/Pulp Friction]]*.
 
-Photo of [[Mia Iseman]] by [[Steve Rogers]].
+Photo of [[Performers/Mia Iseman]] by [[Steve Rogers]].
 
-Poster art by [[Asaf Ronen]].
+Poster art by [[Performers/Asaf Ronen]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

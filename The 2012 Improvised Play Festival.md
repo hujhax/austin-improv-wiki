@@ -4,18 +4,18 @@ It ran from 4/12/12 to 4/14/12.
 
 ## Acts
 ### Local Acts
-* *[[After School Improv]]*
-* [[Available Cupholders]]
-* [[Confidence Men]]
-* [[The Escorts]]
-* [[Furiously Missing]]
-* [[GrimmNoir]]
-* [[Local Genius Society]]
-* *[[The Narrative Improv Jam]]*
-* [[Parallelogramophonograph]] present "Dick and Jane"
-* *[[Process]]*
-* *[[Spirited]]*
-* *[[Steam]]*
+* *[[Shows/After School Improv]]*
+* [[Troupes/Available Cupholders]]
+* [[Troupes/Confidence Men]]
+* [[Troupes/The Escorts]]
+* [[Troupes/Furiously Missing]]
+* [[Shows/GrimmNoir]]
+* [[Troupes/Local Genius Society]]
+* *[[Shows/The Narrative Improv Jam]]*
+* [[Troupes/Parallelogramophonograph]] present "Dick and Jane"
+* *[[Shows/Process]]*
+* *[[Shows/Spirited]]*
+* *[[Shows/Steam]]*
 
 ### Out-of-Town Acts
 * Bunker 13 (Seattle)

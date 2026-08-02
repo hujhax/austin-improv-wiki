@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kinkade.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Casual photo of [[Kinkade]].
+Casual photo of [[Troupes/Kinkade]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

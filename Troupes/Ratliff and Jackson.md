@@ -1,0 +1,106 @@
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Ratliff and Jackson</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Ratliff and Jackson.jpg.md"><img src="File/Ratliff%20and%20Jackson.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2008-Present</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+	</table>
+</div>
+
+**Ratliff and Jackson** is an improv duo consisting of [[Performers/John Ratliff]] and [[Performers/Lisa Jackson]].
+
+## Summary
+### Press Blurbs
+This is their bio from the [[2012 Out of Bounds]] web site:
+<blockquote><p>"'We need a suggestion of something you have on or with you that has a lot of meaning for you.' From that starting point, Ratliff & Jackson create a longform show that can go from hilarious to heartbreaking and back again, sometimes within seconds. They might play a two-person single scene, or they might play multiple characters in a series of scenes, depending on what happens in the moment. Because it's, y'know, improv. Two of Austin's most versatile improvisers, [[Performers/Lisa Jackson]] and [[Performers/John Ratliff]] are equally comfortable with realistic, emotionally grounded scenework and high-pitched, not-very-convincing British accents. Lisa teaches at [[The Hideout Theatre]]. John teaches at [[The Institution Theater]]. They both teach at [[ColdTowne Conservatory]]."</p></blockquote>
+
+Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Two of Austin's most versatile improvisers, Lisa Jackson and John Ratliff are equally comfortable with emotionally realistic grounded scenework and barely-plausible high-pitched British accents. Lisa and John are both members of the ColdTowne Conservatory faculty and also play together in their group The Honeypot. Lisa is a primary cast member of ColdTowne's Stool Pigeon show and improvises with her husband, Josh Gill, as Galactic. John performs with The Glamping Trip and The Randy Meisner and also teaches at the Institution Theater. </blockquote>
+
+### "What's Your Deal?"
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Currently we're doing a format that the audiences have loved called 3, 2, 1 (indicating the number of characters in the scenes in the top three scenes then we collide those worlds)</blockquote>
+
+## History
+Ratliff and Jackson headlined *[[Shows/The Threefer]]* in September 2012.
+
+## Media
+### Videos
+* [Video](http://vimeo.com/39441547) by [[Performers/Lisa Jackson]] of their 3/28/12 show ("Cowboy Boots").
+* [Video](http://vimeo.com/50171903) by [[Performers/Lisa Jackson]] of their 9/20/12 show ("Glasses and Underwear").
+* [Video of their 5/17/13 performance](http://vimeo.com/66528017) in the *[[Shows/2x4]]*.
+* [Video of their 8/27/13 performance](http://vimeo.com/74439291), part of [[The 2013 Out of Bounds Comedy Festival]].
+
+### Photos
+* [A photoset](http://www.facebook.com/media/set/?set=a.10151045919445267.430310.550920266&type=1) by [[Performers/Adriane Shown]] that includes their performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.10151044387950793.420989.666390792&type=1) by [[Performers/Dave alley]] that includes their performance at the 9/20/12 *[[Shows/The Threefer|Threefer]]*.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577366742107.1073741848.549002106&type=3) by [[Performers/Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+
+## More Information
+* [The duo's facebook page.](http://www.facebook.com/RatliffandJackson)
+
+[[Category/Active|Category:Active]]
+[[Category/Troupes|Category:Troupes]]
+[[Category/Duos|Category:Duos]]
+[[Category/John Ratliff Duos|Category:John Ratliff Duos]]

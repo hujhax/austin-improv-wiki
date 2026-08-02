@@ -12,75 +12,75 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 ## Acts
 ### Local Improv and Sketch Acts
 * [[710 Split]]
-* [[After School Improv]]
+* [[Shows/After School Improv]]
 * [[The Amazon & The Milksop]]
-* [[Array]]
+* [[Troupes/Array]]
 * [[The Austin Comedy Hour]]
-* [[Available Cupholders]]
-* [[Backpack Picnic]]
-* [[Bad Boys]]
-* [[Big Beautiful Warlock]]
-* [[BOSS]]
-* [[Brain Trust]]
-* [[Braised in Texas]]
-* [[Cheap Date]]
+* [[Troupes/Available Cupholders]]
+* [[Troupes/Backpack Picnic]]
+* [[Troupes/Bad Boys]]
+* [[Troupes/Big Beautiful Warlock]]
+* [[Troupes/Boss]]
+* [[Troupes/Brain Trust]]
+* [[Shows/Braised in Texas]]
+* [[Troupes/Cheap Date]]
 * [[ColdTowne Rap Tigers]]
-* [[Confidence Men]]
-* [[Danger! Warning! Improv!]]
-* [[Dervish]]
-* [[Do You Still Want To Do This]]
-* [[The Escorts]]
-* [[Fakespeare]]
-* [[False Matters]]
-* [[The Frank Mills]]
-* [[Galactic]]
-* [[Get Up]]
-* [[Bryan 'Lubu' Roberts|Ghetto Sketch Warlock]]
-* [[Girls Girls Girls]]
-* [[Improv for Evil]]
-* [[In Our Prime]]
-* [[Indigo Shift]]
-* [[IScream Sandwich]]
+* [[Troupes/Confidence Men]]
+* [[Troupes/Danger! Warning! Improv!]]
+* [[Troupes/Dervish]]
+* [[Troupes/Do You Still Want to Do This]]
+* [[Troupes/The Escorts]]
+* [[Shows/Fakespeare]]
+* [[Shows/False Matters]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Galactic]]
+* [[Troupes/Get Up]]
+* [[Performers/Bryan 'LuBu' Roberts|Ghetto Sketch Warlock]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Improv For Evil]]
+* [[Troupes/In Our Prime]]
+* [[Troupes/Indigo Shift]]
+* [[Troupes/IScream Sandwich]]
 * [[IZARZAMORA!]]
-* [[Jorak and Jorak Do Movie]]
-* [[Junk]]
+* [[Troupes/Jorak and Jorak Do Movie]]
+* [[Troupes/Junk]]
 * [[Known Wizards]]
-* [[The Knuckleball Now]]
-* [[The Ladies]]
-* [[Local Genius Society]]
+* [[Troupes/The Knuckleball Now]]
+* [[Troupes/The Ladies]]
+* [[Troupes/Local Genius Society]]
 * [[Magician vs Clown]]
-* [[MANDINKA]]
-* [[Midnight Society]]
-* [[Mike and Irene]]
-* [[Miller and Purselley]]
-* [[My Best Fiend]]
-* [[Nice Astronaut]]
-* [[Oh, Science!]]
-* [[Opposites]]
-* [[Parallelogramophonograph]]
-* [[The Professor]]
-* [[Precious Dads]]
-* [[Pulp Friction]]
+* [[Troupes/MANDINKA]]
+* [[Troupes/Midnight Society]]
+* [[Troupes/Mike and Irene]]
+* [[Troupes/Miller and Purselley]]
+* [[Troupes/My Best Fiend]]
+* [[Troupes/Nice Astronaut]]
+* [[Troupes/Oh, Science!]]
+* [[Troupes/Opposites]]
+* [[Troupes/Parallelogramophonograph]]
+* [[Shows/The Professor]]
+* [[Troupes/Precious Dads]]
+* [[Shows/Pulp Friction]]
 * [[Ratliff & Jackson]]
-* [[RhinoDino]]
-* [[Scout]]
-* [[The Seven Eight Sevens]]
-* [[Shades of Brown]]
-* [[Simply D-Vine]]
-* [[Squirrel Buddies]]
-* [[Stag Comedy]]
-* [[Stool Pigeon]]
-* *[[Strange Worlds]]*
-* [[The Team]]
+* [[Troupes/Rhinodino]]
+* [[Troupes/Scout]]
+* [[Troupes/The Seven Eight Sevens]]
+* [[Troupes/Shades of Brown]]
+* [[Troupes/Simply D-VINE]]
+* [[Troupes/Squirrel Buddies]]
+* [[Troupes/Stag Comedy]]
+* [[Shows/Stool Pigeon]]
+* *[[Shows/Strange Worlds]]*
+* [[Troupes/The Team]]
 * [[The Theft Forum]]
-* [[There's Waldo]]
+* [[Troupes/There's Waldo]]
 * [[The Tribunal]]
-* [[Twilight Zoned]]
-* [[Waiting for Batman]]
+* [[Shows/Twilight Zoned]]
+* [[Troupes/Waiting for Batman]]
 * [[What's the Story Steve]]
-* [[You're Not My Real Dad]]
-* [[Your Dad's Friends]]
-* [[Your Terrific Neighbors]]
+* [[Troupes/You're Not My Real Dad]]
+* [[Troupes/Your Dad's Friends]]
+* [[Troupes/Your Terrific Neighbors]]
 * [[ZEDtalks]]
 
 ### Out-of-Town Improv and Sketch Acts
@@ -182,32 +182,32 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/82058494) of the [[Midnight Society]] performance.
+* [Video](http://vimeo.com/82058494) of the [[Troupes/Midnight Society]] performance.
 * [Video](http://vimeo.com/80117806) of the [[Knuckleball Now]] performance.
-* [Video](http://vimeo.com/74079905) by [[Dave Alley]] of the Shock T's first show.
-* [Video](http://vimeo.com/75142719) by [[Dave Alley]] of the Shock T's second show.
-* [Video](http://vimeo.com/74561501) by [[Dave Alley]] of the Doubtful Guests show.
+* [Video](http://vimeo.com/74079905) by [[Performers/Dave alley]] of the Shock T's first show.
+* [Video](http://vimeo.com/75142719) by [[Performers/Dave alley]] of the Shock T's second show.
+* [Video](http://vimeo.com/74561501) by [[Performers/Dave alley]] of the Doubtful Guests show.
 	* [Video](http://vimeo.com/76282619) of another Doubtful Guests show.
-* [Video](http://vimeo.com/75369228) by [[Dave Alley]] of the Razowsky & Bernard show.
-* [Video](http://vimeo.com/75744067) by [[Dave Alley]] of the first Baby Wants Candy show.
-* [Video](http://vimeo.com/79299058) by [[Dave Alley]] of the second Baby Wants Candy show.
-* [Video](http://vimeo.com/79623214) by [[Dave Alley]] of the Baby Wants Candy lottery show.
-* [Video](http://vimeo.com/80964868) by [[Dave Alley]] of the Middle Age Comeback show.
-* [Video](http://vimeo.com/81893384) by [[Dave Alley]] of the ZEDTalks show.
-* [Video](http://vimeo.com/74381930) by [[Brad Hawkins]] of the "Thunderstood" show.
-* [Video](http://vimeo.com/74571786) by [[Brad Hawkins]] of the "New Money" show.
+* [Video](http://vimeo.com/75369228) by [[Performers/Dave alley]] of the Razowsky & Bernard show.
+* [Video](http://vimeo.com/75744067) by [[Performers/Dave alley]] of the first Baby Wants Candy show.
+* [Video](http://vimeo.com/79299058) by [[Performers/Dave alley]] of the second Baby Wants Candy show.
+* [Video](http://vimeo.com/79623214) by [[Performers/Dave alley]] of the Baby Wants Candy lottery show.
+* [Video](http://vimeo.com/80964868) by [[Performers/Dave alley]] of the Middle Age Comeback show.
+* [Video](http://vimeo.com/81893384) by [[Performers/Dave alley]] of the ZEDTalks show.
+* [Video](http://vimeo.com/74381930) by [[Performers/Brad Hawkins]] of the "Thunderstood" show.
+* [Video](http://vimeo.com/74571786) by [[Performers/Brad Hawkins]] of the "New Money" show.
 * [Video](http://vimeo.com/76269860) of the Hill/Jones show.
 * [Video of the 8/29/13 roast of Tim League.](http://vimeo.com/74687764)
 * [Video](http://vimeo.com/79299057) of the 8/30/13 All Girl Revue performance.
 * [Video](http://vimeo.com/74055491) of the 8/30/13 [[Stag]] performance.
 * [Video of the 8/31/13 All Girl Revue.](http://vimeo.com/74439290)
-* [Video](http://vimeo.com/75094440) of the 9/1/13 [[Waiting for Batman]] performance.
+* [Video](http://vimeo.com/75094440) of the 9/1/13 [[Troupes/Waiting for Batman]] performance.
 
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.608306615857504.1073741849.100000345135257&type=3) by [[Claudio Fox]] of the festival's "Out of Funds" fundraiser.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.608306615857504.1073741849.100000345135257&type=3) by [[Performers/Claudio Fox]] of the festival's "Out of Funds" fundraiser.
 * [Photoset](http://www.facebook.com/media/set/?set=a.591886167541570.1073741920.221927764537414&type=3) by [[Steve Rogers]] of the 8/29/13 roast of Tim League.
-* [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.10151901983997704.1073741840.505207703&type=3) by [[Tyler Bryce]] of the Minigolf tournament.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Heidi Rogers]] of the festival.
+* [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.10151901983997704.1073741840.505207703&type=3) by [[Performers/Tyler Bryce]] of the Minigolf tournament.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers]] of the festival.
 
 ## More Information
 * [The 2013 Out of Bounds web site.](http://www.outofboundscomedy.com/2013)

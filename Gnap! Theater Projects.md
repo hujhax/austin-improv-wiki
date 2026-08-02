@@ -1,70 +1,70 @@
 Gnap! Theater Projects is a theater production company that, between 2008 and 2012, produced improv shows at [[Salvage Vanguard Theater]].
 
-Its artistic director is [[Shannon McCormick]].
+Its artistic director is [[Performers/Shannon McCormick]].
 
 ## Shows
 ### Ongoing Shows
-* *[[Austin's Next Top Improviser]]*
-* *[[The Derby]]*
-* *[[The Saturday Night Special]]*
+* *[[Shows/Austin's Next Top Improviser]]*
+* *[[Shows/The Derby]]*
+* *[[Shows/The Saturday Night Special]]*
 
 ### Mainstage Productions
 * *[[' ' or Bust!]]*
-* *[[The Amazing Improvised Race]]*
-* *[[Bad Company]]*
-* *[[The Cherry Bowl]]* (2012, 2013)
-* *[[Cover to Cover]]* (2011)
-* *[[Crack! The Improvised Puppet Musical]]* (PIP/Gnap 2009, 2010)
-* *[[Doctors Without Boundaries]]*
-* *[[Dusk - Improvised Tween Erotica]]*
+* *[[Shows/The Amazing Improvised Race]]*
+* *[[Shows/Bad Company]]*
+* *[[Shows/The Cherry Bowl]]* (2012, 2013)
+* *[[Shows/Cover to Cover]]* (2011)
+* *[[Shows/Crack! The Improvised Puppet Musical]]* (PIP/Gnap 2009, 2010)
+* *[[Shows/Doctors Without Boundaries]]*
+* *[[Shows/Dusk - Improvised Tween Erotica]]*
 * *[[Elf Employment]]* (PIP/Gnap 2011)
-* *[[False Matters]]* (2011)
-* *[[Guilds of Steel]]*
-* *[[Haunted]]*
-* *[[Heist!]]*
-* *[[Lola]]*
-* *[[Not This American Life]]* (2012)
-* *[[One More Night]]*
-* *[[Pocketful of Posies]]* (2012)
-* *[[The Professor]]* (2012)
-* *[[The Sandbox]]*
+* *[[Shows/False Matters]]* (2011)
+* *[[Shows/Guilds Of Steel]]*
+* *[[Shows/Haunted]]*
+* *[[Shows/Heist!]]*
+* *[[Shows/Lola]]*
+* *[[Shows/Not This American Life]]* (2012)
+* *[[Shows/One More Night]]*
+* *[[Shows/Pocketful of Posies]]* (2012)
+* *[[Shows/The Professor]]* (2012)
+* *[[Shows/The Sandbox]]*
 * *[[Seance]]* (2012)
-* *[[Showdown]]* (2011)
-* *[[Steam]]* (2012)
-* *[[The Sword of Merlin Works]]*
-* *[[Totally Improvised, 90210]]* (2011)
-* *[[The Trouble With Terry]]*
+* *[[Shows/Showdown]]* (2011)
+* *[[Shows/Steam]]* (2012)
+* *[[Shows/The Sword of Merlin Works]]*
+* *[[Shows/Totally Improvised, 90210]]* (2011)
+* *[[Shows/The Trouble With Terry]]*
 
 ## Company Members
-* [[Ace Manning]]
-* [[Andreas Fabis]]
-* [[Audrey Rachel Sansom]]
-* [[Avimaan Syam]]
+* [[Performers/Ace Manning]]
+* [[Performers/Andreas Fabis]]
+* [[Performers/Audrey Rachel Sansom]]
+* [[Performers/Avimaan Syam]]
 * [[Ben Schave]]
 * [[Brandon Salinas]]
-* [[Britney Salyer]]
-* [[Bryan 'Lubu' Roberts]]
+* [[Performers/Britney Salyer]]
+* [[Performers/Bryan 'LuBu' Roberts]]
 * [[Caitlin Reilly]]
-* [[Clay Towery]]
-* [[Courtney Hopkin]]
-* [[Craig Kotfas]]
-* [[Eric Heiberg]]
-* [[Jason Vines]]
+* [[Performers/Clay Towery]]
+* [[Performers/Courtney Hopkin]]
+* [[Performers/Craig Kotfas]]
+* [[Performers/Eric Heiberg]]
+* [[Performers/Jason Vines]]
 * [[Jennifer Micallef]]
-* [[Julie Gillis]]
+* [[Performers/Julie Gillis]]
 * [[Kerri Lendo]]
-* [[Kyle Traughber]]
-* [[Lauren Buck]]
-* [[Liz Brammer]]
-* [[Marc Majcher]]
-* [[Michael Thomas]]
-* [[Sara Farr]]
-* [[Sarah Marie Curry]]
-* [[Shana Merlin]]
-* [[Shannon McCormick]]
-* [[Topping Haggerty]]
+* [[Performers/Kyle Traughber]]
+* [[Performers/Lauren Buck]]
+* [[Performers/Liz Brammer]]
+* [[Performers/Marc Majcher]]
+* [[Performers/Michael Thomas]]
+* [[Performers/Sara Farr]]
+* [[Performers/Sarah Marie Curry]]
+* [[Performers/Shana Merlin]]
+* [[Performers/Shannon McCormick]]
+* [[Performers/Topping Haggerty]]
 
 ## Artistic Associates
 * [[Chris Lucas]]
 * [[Don Swaynos]]
-* [[Jon Bolden]]
+* [[Performers/Jon Bolden]]

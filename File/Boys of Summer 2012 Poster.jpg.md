@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Boys of Summer 2012 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The 2012 *[[Boys of Summer]]* poster, designed by [[Deano Jones]].
+The 2012 *[[Shows/Boys of Summer]]* poster, designed by [[Deano Jones]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

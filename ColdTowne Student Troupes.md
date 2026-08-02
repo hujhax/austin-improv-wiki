@@ -8,63 +8,63 @@
 ! scope="col"| Debut Date
 |-
 ! scope="row"| 1
-| [[Look Cookie]]
+| [[Troupes/Look Cookie]]
 | April 2007
 |-
 ! scope="row"| 2
-| [[Midnight Society]]
+| [[Troupes/Midnight Society]]
 | September 2007
 |-
 ! scope="row"| 3
-| [[Murphy]]
+| [[Troupes/Murphy]]
 | February 10, 2008
 |-
 ! scope="row"| 4
-| [[Unfurled]]
+| [[Troupes/Unfurled]]
 | June, 2008
 |-
 ! scope="row"| 5
-| [[Northshore Local]]
+| [[Troupes/Northshore Local]]
 | December, 2008
 |-
 ! scope="row"| 6
-| [[Total Panic]]
+| [[Troupes/Total Panic]]
 | June 14, 2009
 |-
 ! scope="row"| 7
-| [[Oh, Science!]]
+| [[Troupes/Oh, Science!]]
 | December 2009
 |-
 ! scope="row"| 8
-| [[Secret Senate]]
+| [[Troupes/Secret Senate]]
 | June 6, 2010
 |-
 ! scope="row"| 9
-| [[Journey to the Big Water]]
+| [[Troupes/Journey To The Big Water]]
 | November 14, 2010
 |-
 ! scope="row"| 10
-| [[Consequences]]
+| [[Troupes/Consequences]]
 | May 15th, 2011
 |-
 ! scope="row"| 11
-| [[Tears But Joy]]
+| [[Troupes/Tears But Joy]]
 | ?
 |-
 ! scope="row"| 12
-| [[Cup]]
+| [[Troupes/Cup]]
 | ?
 |-
 ! scope="row"| 13
-| [[Cheap Date]]
+| [[Troupes/Cheap Date]]
 | January 3, 2013
 |-
 ! scope="row"| 14
-| [[Bear Derby]]
+| [[Troupes/Bear Derby]]
 | August 1, 2013
 |-
 ! scope="row"| 15
-| [[Rush]]
+| [[Troupes/RUSH]]
 | ???
 |-
 |}

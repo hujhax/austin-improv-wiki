@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Buzz Band.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Buzz Band]]*, featuring [[Megan Simon]].
+Publicity image for *[[Shows/Buzz Band]]*, featuring [[Megan Simon]].
 
 Photo by: unknown.
 
-Art by [[Asaf Ronen]].
+Art by [[Performers/Asaf Ronen]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Midnight Special and Gong Show.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for the *[[Midnight Special and Gong Show]]*.
+Publicity image for the *[[Shows/Midnight Special and Gong Show]]*.
 
 Art by: unknown.
 ## Licensing

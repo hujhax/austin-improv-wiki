@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Worst First Date.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for [[Worst First Date]].
+Publicity art for [[Troupes/Worst First Date]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

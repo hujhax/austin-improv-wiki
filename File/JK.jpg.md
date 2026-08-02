@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="JK.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image of [[JK]].
+Publicity image of [[Troupes/JK]].
 
 Photos by: unknown.
 

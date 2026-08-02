@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Courtney Hopkin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Courtney Hopkin]] performing with [[Your Terrific Neighbors]] in their 7/13/12 performance.
+[[Performers/Courtney Hopkin]] performing with [[Troupes/Your Terrific Neighbors]] in their 7/13/12 performance.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.396688563727999.94464.221927764537414&type=3).
 ## Licensing

@@ -4,14 +4,14 @@
 
 ## Acts
 ### Local Acts
-* [[Ed 32]] 
-* [[First Round Draft]] 
-* [[Gravy]] 
+* [[Troupes/Ed 32]] 
+* [[Troupes/First Round Draft]] 
+* [[Troupes/Gravy]] 
 * [[Heroes of Comedy]] 
 * [[National Comedy Theatre]] 
 * [[One Night Band]] 
 * A showcase for people who had taken a solo workshop from [[Jeremy Lamb]].
-* [[Well Hung Jury]] 
+* [[Troupes/Well Hung Jury]] 
 
 ### Out-of-Town Acts
 * Freudian Slip (College Station)

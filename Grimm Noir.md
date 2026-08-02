@@ -1,4 +1,4 @@
 ---
-redirect: "GrimmNoir"
+redirect: "Shows/GrimmNoir"
 ---
-#REDIRECT [[GrimmNoir]]
+#REDIRECT [[Shows/GrimmNoir]]

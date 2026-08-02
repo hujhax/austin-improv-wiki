@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Dave Buckman">Dave Buckman</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -31,16 +31,16 @@
   --><li style=""><a class="internal-link" href="Amy Smith">Amy Smith</a></li><!--
   --><li style=""><a class="internal-link" href="Chadwick Smith">Chadwick Smith</a></li><!--
   --><li style=""><a class="internal-link" href="Ellen Pittsford">Ellen Pittsford</a></li><!--
-  --><li style=""><a class="internal-link" href="Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Performers/Howard Katz</a></li><!--
   --><li style=""><a class="internal-link" href="Jenna Howard">Jenna Howard</a></li><!--
   --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
   --><li style="" ><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Nancy Lyon">Nancy Lyon</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style=""><a class="internal-link" href="Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Shana Merlin">Shana Merlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Performers/Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Performers/Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

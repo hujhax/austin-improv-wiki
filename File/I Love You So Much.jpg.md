@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="I Love You So Much.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[I Love You So Much]]*.
+Publicity poster for *[[Shows/I Love You So Much]]*.
 
-Art by [[Kaci Beeler]].
+Art by [[Performers/Kaci Beeler]].
 
-Photos by [[Jon Bolden]].
+Photos by [[Performers/Jon Bolden]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

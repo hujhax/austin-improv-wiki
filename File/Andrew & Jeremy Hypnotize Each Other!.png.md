@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Andrew & Jeremy Hypnotize Each Other!.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Andrew & Jeremy Hypnotize Each Other!]]
+Photo of [[Troupes/Andrew & Jeremy Hypnotize Each Other!]]
 
 Photo by: unknown.
 ## Licensing

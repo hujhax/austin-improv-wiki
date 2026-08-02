@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Jay Byrd Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Jay Byrd]], guesting in the 8/2/13 premiere of *[[The ReSet Project]]*.
+[[Performers/Jay Byrd]], guesting in the 8/2/13 premiere of *[[Shows/The ReSet Project]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.575651409165046.1073741905.221927764537414&type=3).
 ## Licensing

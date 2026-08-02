@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Mandinka.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional photo for [[MANDINKA]], featuring [[Mia Iseman]] and [[Andrew Buck]].
+Promotional photo for [[Troupes/MANDINKA]], featuring [[Performers/Mia Iseman]] and [[Performers/Andrew Buck]].
 
 Photo by: Corina Sims
 
-Art by: [[Andrew Buck]]
+Art by: [[Performers/Andrew Buck]]
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

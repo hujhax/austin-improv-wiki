@@ -10,28 +10,28 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Parallelogramophonograph">Parallelogramophonograph</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/Parallelogramophonograph">Troupes/Parallelogramophonograph</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alex Baia">Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Bridget Brewer">Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Irene White">Irene White</a></li><!--
-  --><li style=""><a class="internal-link" href="Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Jon Bolden">Jon Bolden</a></li><!--
-  --><li style="" ><a class="internal-link" href="Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Performers/Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Irene White">Performers/Irene White</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
-  --><li style=""><a class="internal-link" href="Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Thedward Blevins">Thedward Blevins</a></li><!--
-  --><li style=""><a class="internal-link" href="Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Performers/Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -76,12 +76,12 @@
 
 ***Lord Wensleydale's Last High Tea*** was an improvised, interactive farce performed as part of Digestible Feats in the 2013 Fusebox Festival.
 
-It was presented by [[Parallelogramophonograph]], who were in charge of the theatrics, and pastry chef Jodi Elliot, who was in charge of the food.
+It was presented by [[Troupes/Parallelogramophonograph]], who were in charge of the theatrics, and pastry chef Jodi Elliot, who was in charge of the food.
 
 ## Summary
 This was a high tea held at the Umlauf Sculpture Garden.  The paying attendees were, according to the show's conceit, the guests of Lord Wensleydale, who had invited them all to high tea to make a very special announcement.
 
-All cast members wore period costumes and white makeup.  Some were "guests", and sat among the paying customers.  Others were "servants", who worked the event.  Cast members interacted with the audience and with each other (typically with the guests abusing the servants).  [[Roy Janik]] emceed the event in character as "Mr. Tiddles", the house steward.
+All cast members wore period costumes and white makeup.  Some were "guests", and sat among the paying customers.  Others were "servants", who worked the event.  Cast members interacted with the audience and with each other (typically with the guests abusing the servants).  [[Performers/Roy Janik]] emceed the event in character as "Mr. Tiddles", the house steward.
 
 Several events punctuated the high tea.  Shortly after the first course, the von Geltsacks, rich visitors from Germany and the high tea's honored guests, arrived at the venue.  Towards the end of the event, Lord Wensleydale announced that he was marrying his daughter Petunia off to the Dietrich von Geltsack.  Baron von Geltsack was shocked, as he had assumed *he* would marry the young Miss Petunia.  Finally, Petunia rejected both offers, and ran off with the head servant, Mr. Tiddles.
 
@@ -89,28 +89,28 @@ Several events punctuated the high tea.  Shortly after the first course, the von
 ![[Lord Wensleydale Performance.jpg|A mishap with a cake at *Lord Wensleydale's Last High Tea*.]]
 
 ### Main Characters
-* Lord Wenseleydale (the host) -- [[Kareem Badr]]
-* Lady Wenseleydale (his wife) -- [[Valerie Ward]]
-* Petunia Wenseleydale (their daughter) -- [[Kaci Beeler]]
-* Mr. Tiddles (their steward) -- [[Roy Janik]]
-* Baron von Geltsack -- [[Andreas Fabis]]
-* Dietrich von Geltsack (his son) -- [[Marc Majcher]]
+* Lord Wenseleydale (the host) -- [[Performers/Kareem Badr]]
+* Lady Wenseleydale (his wife) -- [[Performers/Valerie Ward]]
+* Petunia Wenseleydale (their daughter) -- [[Performers/Kaci Beeler]]
+* Mr. Tiddles (their steward) -- [[Performers/Roy Janik]]
+* Baron von Geltsack -- [[Performers/Andreas Fabis]]
+* Dietrich von Geltsack (his son) -- [[Performers/Marc Majcher]]
 
 ### Guests
-* Michael Pickswithsmith (the artist) -- [[Jon Bolden]]
-* Mimsy -- [[Halyn Lee Erickson]]
-* Rebecca -- [[Emma Holder]]
-* Elizabeth (Rebecca's sister) -- [[Mia Iseman]]
+* Michael Pickswithsmith (the artist) -- [[Performers/Jon Bolden]]
+* Mimsy -- [[Performers/Halyn Lee Erickson]]
+* Rebecca -- [[Performers/Emma Holder]]
+* Elizabeth (Rebecca's sister) -- [[Performers/Mia Iseman]]
 * Claire Asa Bell -- [[Pseudonyms|Madeline M.]]
-* Professor Reginald "Reg" Lackwit -- [[Jordan T. Maxwell]]
-* Peter Hinchcliffe -- [[Peter Rogers]]
-* Rosemary Moncrieff -- [[Irene White]]
+* Professor Reginald "Reg" Lackwit -- [[Performers/Jordan T. Maxwell]]
+* Peter Hinchcliffe -- [[Performers/Peter Rogers]]
+* Rosemary Moncrieff -- [[Performers/Irene White]]
 
 ### Servants
-* Crasser -- [[Alex Baia]]
-* Gilbert -- [[Thedward Blevins]]
-* Nancy Bottomtop (from Limerick) -- [[Bridget Brewer]]
-* Penny -- [[Jayme Ramsay]]
+* Crasser -- [[Performers/Alex Baia]]
+* Gilbert -- [[Performers/Thedward Blevins]]
+* Nancy Bottomtop (from Limerick) -- [[Performers/Bridget Brewer]]
+* Penny -- [[Performers/Jayme Ramsay]]
 
 ## Recognition
 The event was nominated for an Austin Critics Table Award in 2013, under the category of "Theatrical Event."

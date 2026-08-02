@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Jukebox.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Casual cast photo of [[Jukebox]], posted 12/18/11.
+Casual cast photo of [[Troupes/Jukebox]], posted 12/18/11.
 
 Photo by: unknown.
 ## Licensing

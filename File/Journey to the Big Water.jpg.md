@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Journey to the Big Water.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for [[Journey to the Big Water]].
+Publicity poster for [[Troupes/Journey To The Big Water]].
 
 Photo by: unknown.
 

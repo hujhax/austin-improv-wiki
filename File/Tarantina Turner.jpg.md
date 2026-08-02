@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Tarantina Turner.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Tarantina Turner]].
+Publicity image for [[Troupes/Tarantina Turner]].
 
 Art by: unknown.
 ## Licensing

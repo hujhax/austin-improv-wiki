@@ -7,35 +7,35 @@ Its advertising and art were election-themed.
 
 ## Acts
 ### Local Acts
-* [[$10 Bourbon]]
-* [[Buddy Daddy]]
-* *[[Cochise]]*
+* [[Troupes/$10 Bourbon]]
+* [[Troupes/Buddy Daddy]]
+* *[[Shows/Cochise]]*
 * [[ColdTowne]]
-* [[Get Up]]
-* [[Girls Girls Girls]]
-* [[Improvised Shakespeare]]
-* [[Junk]]
-* [[Ka-Baam!!]]
-* [[Look Cookie]]
+* [[Troupes/Get Up]]
+* [[Troupes/Girls Girls Girls]]
+* [[Shows/Improvised Shakespeare]]
+* [[Troupes/Junk]]
+* [[Shows/Ka-Baam!!]]
+* [[Troupes/Look Cookie]]
 * [[Lovey and Lovey]]
 * [[Master Pancake Theatre]]
 * [[Matt Bearden]]
-* [[Midnight Society]]
-* [[Murphy]]
-* [[Parallelogramophonograph]]
+* [[Troupes/Midnight Society]]
+* [[Troupes/Murphy]]
+* [[Troupes/Parallelogramophonograph]]
 * [[Skipfield]]
-* [[Snackers]]
-* [[Stool Pigeon]]
+* [[Troupes/Snackers]]
+* [[Shows/Stool Pigeon]]
 * [[The 3 Actorteers]]
-* [[The Knuckleball Now]]
-* [[The Starter Kit]]
-* [[You're Not My Real Dad]]
+* [[Troupes/The Knuckleball Now]]
+* [[Troupes/The Starter Kit]]
+* [[Troupes/You're Not My Real Dad]]
 
 ### Out-of-Town Acts
 * 88improv (Omaha, NE)
 * Attencion! (Chicago, IL)
-* [[Available Cupholders]] (Austin, Chicago, LA)
-* [[Backpack Picnic]] (Austin, LA)
+* [[Troupes/Available Cupholders]] (Austin, Chicago, LA)
+* [[Troupes/Backpack Picnic]] (Austin, LA)
 * Curtis Needs a Ride (Ft. Worth, TX)
 * Double Eagle Short Films Festival (Various)
 * FUCT (New York, NY)
@@ -73,10 +73,10 @@ Its advertising and art were election-themed.
 * [Video of ¡ATTENÇION!'s 8/30/08 show.](http://blip.tv/out-of-bounds-comedy-festival/attencion-sat-8pm-svt-oranges-stage-1245344)
 
 ### Photos
-* [Festival photoset](http://www.facebook.com/Jonbolden/media_set?set=a.510093442253.2020581.76200304&type=3) by [[Jon Bolden]].
+* [Festival photoset](http://www.facebook.com/Jonbolden/media_set?set=a.510093442253.2020581.76200304&type=3) by [[Performers/Jon Bolden]].
 
 ### Other
-* Photos of [[Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2826349202_06fb0722d1/2826349202_06fb0722d1.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2841636953_3176e42a3d/2841636953_3176e42a3d.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2826441454_358b13f651/2826441454_358b13f651.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2841639641_90c2d5d69a/2841639641_90c2d5d69a.jpg?disposition=download), [5](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2842473952_2767011e74/2842473952_2767011e74.jpg?disposition=download), [6](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2842471016_7523c24228/2842471016_7523c24228.jpg?disposition=download), [7](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/n76200304_30680112_2362/n76200304_30680112_2362.jpg?disposition=download), [8](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2841633835_35198236e9/2841633835_35198236e9.jpg?disposition=download).
+* Photos of [[Performers/Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2826349202_06fb0722d1/2826349202_06fb0722d1.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2841636953_3176e42a3d/2841636953_3176e42a3d.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2826441454_358b13f651/2826441454_358b13f651.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2841639641_90c2d5d69a/2841639641_90c2d5d69a.jpg?disposition=download), [5](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2842473952_2767011e74/2842473952_2767011e74.jpg?disposition=download), [6](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2842471016_7523c24228/2842471016_7523c24228.jpg?disposition=download), [7](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/n76200304_30680112_2362/n76200304_30680112_2362.jpg?disposition=download), [8](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2841633835_35198236e9/2841633835_35198236e9.jpg?disposition=download).
 
 ## More Information
 * [The 2008 Out of Bounds web site.](http://www.outofboundsimprov.com/2008/home08.html)

@@ -7,43 +7,43 @@ Its advertising was classic-Nintendo themed.
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[A Bunch of Liars]]
-* [[Antique Limax]]
-* [[Available Cupholders]]
-* [[Buddy Daddy]]
+* [[Troupes/A Bunch of Liars]]
+* [[Troupes/Antique Limax]]
+* [[Troupes/Available Cupholders]]
+* [[Troupes/Buddy Daddy]]
 * [[The New Movement]] Presents: Chris and Tami
 * [[ColdTowne]]
-* [[ComedySportz]] All-Stars
-* [[Confidence Men]]
-* [[Firth & Arjet]]
+* [[Troupes/ComedySportz]] All-Stars
+* [[Troupes/Confidence Men]]
+* [[Troupes/Firth & Arjet]]
 * [[Flying Theatre Machine]]
-* [[The Frank Mills]]
-* [[Get Up]]
-* [[Gigglepants]]
-* [[Girls Girls Girls]]
-* [[Girltrap]]
-* [[Golden Eagle]]
-* [[Improv for Evil]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Get Up]]
+* [[Troupes/GigglePants]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Girltrap]]
+* [[Troupes/Golden Eagle]]
+* [[Troupes/Improv For Evil]]
 * The Inmates of [[The Institution Theatre]]
 * [[Jabbertalky]]
-* [[Junk]]
-* [[The Knuckleball Now]]
-* [[Look Cookie]]
-* [[Midnight Society]]
-* [[Murphy]]
-* [[Nice Astronaut]]
-* [[Northshore Local]]
-* [[Parallelogramophonograph]]
+* [[Troupes/Junk]]
+* [[Troupes/The Knuckleball Now]]
+* [[Troupes/Look Cookie]]
+* [[Troupes/Midnight Society]]
+* [[Troupes/Murphy]]
+* [[Troupes/Nice Astronaut]]
+* [[Troupes/Northshore Local]]
+* [[Troupes/Parallelogramophonograph]]
 * [[Ratliff & Jackson]]
-* [[Rise & Shine]]
-* [[Snackers]]
-* [[Start Trekkin']]
-* [[The Starter Kit]]
-* [[Stool Pigeon]]
-* [[Venn Diaphragm]]
-* [[You, Me, and Greg]] Reunion Show
-* [[You're Not My Real Dad]]
-* [[Your Terrific Neighbors]]
+* [[Troupes/Rise & Shine]]
+* [[Troupes/Snackers]]
+* [[Shows/Start Trekkin']]
+* [[Troupes/The Starter Kit]]
+* [[Shows/Stool Pigeon]]
+* [[Troupes/Venn Diaphragm]]
+* [[Troupes/You, Me, and Greg]] Reunion Show
+* [[Troupes/You're Not My Real Dad]]
+* [[Troupes/Your Terrific Neighbors]]
 
 ### Out-of-Town Improv and Sketch Acts
 * 7-10 Split (LA)
@@ -116,7 +116,7 @@ Its advertising was classic-Nintendo themed.
 * [Video of Impro Melbourne's 9/6/09 show.](http://blip.tv/out-of-bounds-comedy-festival/impro-melbourne-live-at-oob-2009-3104539)
 
 ### Other
-* Photos of [[Kaci Beeler]]'s set designs: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_2/oob_set09_2.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_3/oob_set09_3.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo-25/photo-25.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_1/oob_set09_1.jpg?disposition=download).
+* Photos of [[Performers/Kaci Beeler]]'s set designs: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_2/oob_set09_2.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_3/oob_set09_3.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo-25/photo-25.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob_set09_1/oob_set09_1.jpg?disposition=download).
 
 ## More Information
 * [An article about the festival from *The Examiner*.](http://www.examiner.com/article/out-of-bounds-comedy-festival-2009-thursday)

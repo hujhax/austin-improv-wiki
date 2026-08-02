@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="The tribunal.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Jordan T. Maxwell]] comforts [[Cat Drago]] in the premiere of *[[The Tribunal]]* on 9/28/12.            
+[[Performers/Jordan T. Maxwell]] comforts [[Performers/Cat Drago]] in the premiere of *[[The Tribunal]]* on 9/28/12.            
 
-Also pictured: [[Jayme Ramsay]], [[Emily Breedlove]], and [[Mitchell Deane]].
+Also pictured: [[Performers/Jayme Ramsay]], [[Performers/Emily Breedlove]], and [[Performers/Mitchell Deane]].
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3).
 

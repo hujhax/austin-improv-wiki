@@ -2,12 +2,12 @@
 
 ## Acts
 ### Local Acts
-* [[Ed 32]] "Starship"
+* [[Troupes/Ed 32]] "Starship"
 * [[The Edmund Bulldogs]]
-* [[Fatbuckle]]
+* [[Troupes/Fatbuckle]]
 * [[Gag Reflex]]
-* [[Girls Girls Girls]]
-* [[Gravy]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Gravy]]
 * [[Heroes of Comedy]]
 * [[Latino Comedy Project]]
 

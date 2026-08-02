@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="An Inconvenient Troupe.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Still from a *[[Cagematch]]* performance by [[An Inconvenient Troupe]].
+Still from a *[[Cagematch]]* performance by [[Troupes/An Inconvenient Troupe]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

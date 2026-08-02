@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kingston.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Kingston]].
+Publicity image for [[Troupes/Kingston]].
 
 Photo by: unknown.
 ## Licensing

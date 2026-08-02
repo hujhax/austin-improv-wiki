@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The First Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Jordan T. Maxwell]] plays the First Professor in the 6/23/11 performance of [[The Professor]] in *[[The Threefer]]*.
+[[Performers/Jordan T. Maxwell]] plays the First Professor in the 6/23/11 performance of [[Shows/The Professor]] in *[[Shows/The Threefer]]*.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3).
 ## Licensing

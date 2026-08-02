@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Soy Taco.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Casual photo of [[Soy Taco]].
+Casual photo of [[Troupes/Soy Taco]].
 
 Photo by: unknown.
 ## Licensing

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Pariah.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Pariah]].
+Publicity photo for [[Troupes/Pariah]].
 
 Photo by: unknown.
 ## Licensing

@@ -10,13 +10,13 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="ColdTowne Theater">ColdTowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Tim</li><!--
-  --><li style=""><a class="internal-link" href="Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Performers/Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -133,16 +133,16 @@
 	</table>
 </div>
 
-**Townsville** is a [Close Quarters](http://wiki.improvresourcecenter.com/index.php?title=Close_Quarters) sketch comedy show created by Tim and [[Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles and crew as needed for each script.
+**Townsville** is a [Close Quarters](http://wiki.improvresourcecenter.com/index.php?title=Close_Quarters) sketch comedy show created by Tim and [[Performers/Nicole McCracken]].  Tim & Nicole write, produce and act in the shows and cast additional roles and crew as needed for each script.
 
 ## Format
 Townsville is a scripted version of the improv format Close Quarters.  Each Townsville script takes place in a single location (typically a building or business) over a short period of time (typically under an hour) in the fictional Austin suburb of Townsville, Texas.  Each script is titled after the location where the show takes place.
 
 ## History
-Tim & Nicole met in their improv troupe [[Nice Astronaut]] when she joined in late 2009.  They both wanted to write a Close Quarters based improv show, but the rest of the improv troupe wasn't interested at the time, so they formed a separate group.
+Tim & Nicole met in their improv troupe [[Troupes/Nice Astronaut]] when she joined in late 2009.  They both wanted to write a Close Quarters based improv show, but the rest of the improv troupe wasn't interested at the time, so they formed a separate group.
 
 ## Etymology
-The name is intended to invoke a generic town that could be anywhere.  **Townsville, Texas** is intended to be an amalgamation of Pflugerville and Budda, Texas.  The usage of "town" in the name was accidental and is not intended to invoke the spelling of [[ColdTowne Theater]] or an association like Tim's former sketch group [[UpTowne]].
+The name is intended to invoke a generic town that could be anywhere.  **Townsville, Texas** is intended to be an amalgamation of Pflugerville and Budda, Texas.  The usage of "town" in the name was accidental and is not intended to invoke the spelling of [[Coldtowne Theater]] or an association like Tim's former sketch group [[Troupes/UpTowne]].
 
 
 ## Shows/Episodes
@@ -153,20 +153,20 @@ Townsville's first script took place at a fictional sleazy small-town bar named 
 
 ![[Macdaddy-Redux-11x17 smaller.png|The poster for the March 2012 run of MacDaddy's at ColdTowne Theater]]
 
-The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole paid to rent out ColdTowne Theater for 2 nights while the theater was dark for the holidays.  "MacDaddy's" was then performed at the Frontera Short Fringe Festival in February 2012.  Tim & Nicole had directed the show up to this point, but once they were given a March 2012 run at ColdTowne Theater on Saturday nights, they got [[Clifton Highfield]] to direct the show.  The MacDaddy's script was performed a total of 7 times.
+The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole paid to rent out ColdTowne Theater for 2 nights while the theater was dark for the holidays.  "MacDaddy's" was then performed at the Frontera Short Fringe Festival in February 2012.  Tim & Nicole had directed the show up to this point, but once they were given a March 2012 run at ColdTowne Theater on Saturday nights, they got [[Performers/Clifton Highfield]] to direct the show.  The MacDaddy's script was performed a total of 7 times.
 
 #### MacDaddy's Cast & Crew
 * Nicole McCracken - writer/co-director/producer, lead actress
 * Tim - writer/co-director/producer/actor
-* [[Clifton Highfield]] - Director/Tech
+* [[Performers/Clifton Highfield]] - Director/Tech
 * [[Sam Van Metre]] - Assistant Director/Tech
 * [[Annette Cantu]] - Assistant Director/Tech
 * [[Joel Keith]] - lead actor
 * [[Kristen Henn]] - actor
 * [[Tre Fuentes]] - actor
-* [[Drew Wesely]] - actor
-* [[Frank Netscher]] - actor
-* [[Emma Holder]] - actor
+* [[Performers/Drew Wesely]] - actor
+* [[Performers/Frank Netscher]] - actor
+* [[Performers/Emma Holder]] - actor
 * [[Caitlin Bumgartner]] - actor
 * [[Max Krumke]] - video sketch camera operator, actor, editor
 * [[A.J. Holler]] - actor
@@ -184,7 +184,7 @@ Community Center will be the second installment of Townsville.
 Townsville was nominated for Best Sketch Show at the [[ColdTowne Theater Awards]] 2012.
 
 ## See Also
-* [[Nice Astronaut]]
+* [[Troupes/Nice Astronaut]]
 * [[Close Quarters]]
 
 [[Category/Active|Category:Active]]

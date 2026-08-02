@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Ladies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[The Ladies]].
+Publicity image for [[Troupes/The Ladies]].
 
 Photos by: unknown.
 

@@ -1,4 +1,4 @@
 ---
-redirect: "Ka-Baam!!"
+redirect: "Shows/Ka-Baam!!"
 ---
-#REDIRECT [[Ka-Baam!!]]
+#REDIRECT [[Shows/Ka-Baam!!]]

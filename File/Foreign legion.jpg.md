@@ -1,6 +1,6 @@
 <div style="text-align: center;"><img src="Foreign legion.jpg" style="max-width: 100%; height: auto;" /></div>
 
-[[The Foreign Legion]] - poster design by [[Deano Jones]]
+[[Troupes/The Foreign Legion]] - poster design by [[Deano Jones]]
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

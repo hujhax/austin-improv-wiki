@@ -1,4 +1,4 @@
 ---
-redirect: "¡Escándalo!"
+redirect: "Shows/¡Escándalo!"
 ---
-#REDIRECT [[¡Escándalo!]]
+#REDIRECT [[Shows/¡Escándalo!]]

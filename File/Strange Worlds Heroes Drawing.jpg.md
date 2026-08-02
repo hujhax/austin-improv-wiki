@@ -1,14 +1,14 @@
 <div style="text-align: center;"><img src="Strange Worlds Heroes Drawing.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-A drawing of the cast of heroes from *[[Strange Worlds]]*.
+A drawing of the cast of heroes from *[[Shows/Strange Worlds]]*.
 
-Drawing by [[Ryan Austin]].
+Drawing by [[Performers/Ryan Austin]].
 
-The drawing is owned by [[Jordan T. Maxwell]], who commissioned it at the end of the show's run.
+The drawing is owned by [[Performers/Jordan T. Maxwell]], who commissioned it at the end of the show's run.
 
 ## Character Guide
-Top row, from left: Bellwether Blue, The Stranger ([[Jordan T. Maxwell]]'s hosting role), Jack Ryder.
+Top row, from left: Bellwether Blue, The Stranger ([[Performers/Jordan T. Maxwell]]'s hosting role), Jack Ryder.
 
 Middle row, from left: Nate Jester, Simon Doyle, Maxine Maker, Rick White, Morgan McNulty.
 

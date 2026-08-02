@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="ZA.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[ZA]].
+Publicity image for [[Troupes/ZA]].
 
 Photo by: unknown.
 ## Licensing

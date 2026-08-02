@@ -1,0 +1,90 @@
+<div>
+	<table class="infobox infobox-troupe">
+		<tr>
+			<th class="infobox-header" colspan="2">Gravy</th>
+		</tr>
+		<tr class="">
+			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/GravyReunion.jpg.md"><img src="File/GravyReunion.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">2002-2004.</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category"><div class="plainlist"><ul style=""><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Performers/Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Performers/Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Performers/Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike D'Alonzo">Performers/Mike D'Alonzo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Performers/Shannon McCormick</a></li><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+  --><!--
+--></ul></div></td>
+		</tr>
+	</table>
+</div>
+
+**Gravy** was an improv troupe.
+
+## History
+The troupe performed a reunion show at [[The Hideout Theatre]] in 2014.
+
+## Summary
+### Press Blurb
+Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Gravy was a powerhouse supergroup from the mid 2000s focusing on organic flow within the constrained "Elevator" format. There are a fun, experienced pack of jackasses who follow their every instinct on stage without too much forethought to the consequences.</blockquote>
+
+### "What's Your Deal?"
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Utilizing frequent pop-outs in the "Elevator" format, the group weaves broken narratives from the past and future while tying together the present situation the characters are met with.</blockquote>
+
+## History
+The troupe performed their last show at [[The 2004 Out of Bounds Comedy Festival]].
+
+[[Category/Troupes|Category:Troupes]]
+[[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
+[[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]

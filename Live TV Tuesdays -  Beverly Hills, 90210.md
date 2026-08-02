@@ -14,19 +14,19 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
-  --><li style=""><a class="internal-link" href="Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
   --><li style=""><a class="internal-link" href="Cassiday Proctor">Cassiday Proctor</a></li><!--
-  --><li style=""><a class="internal-link" href="Erica Lies">Erica Lies</a></li><!--
-  --><li style=""><a class="internal-link" href="Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Performers/Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Buseman">Performers/John Buseman</a></li><!--
   --><li style=""><a class="internal-link" href="Martina Ohlhauser">Martina Ohlhauser</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Performers/Michael Thomas</a></li><!--
   --><li style="" ><a class="internal-link" href="Sara Osburn">Sara Osburn</a></li><!--
   --><li style=""><a class="internal-link" href="Tyler Pratt">Tyler Pratt</a></li><!--
   --><!--
@@ -74,8 +74,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Performers/Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Performers/Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -133,28 +133,28 @@
 	</table>
 </div>
 
-:*This page refers to the [[Live TV Tuesdays]] presentation of "Spring Dance".  For the [[Gnap! Theater Projects]] improv show based on *90210*, see *[[Totally Improvised, 90210]]''.
+:*This page refers to the [[Shows/Live TV Tuesdays]] presentation of "Spring Dance".  For the [[Gnap! Theater Projects]] improv show based on *90210*, see *[[Shows/Totally Improvised, 90210]]''.
 
-***Live TV Tuesdays: 90210*** refers to the [[Live TV Tuesdays]] presentation of the [[Wikipedia - Beverly Hills, 90210|*Beverly Hills, 90210*]] episode ["Spring Dance"](http://90210.wikia.com/wiki/Spring_Dance).
+***Live TV Tuesdays: 90210*** refers to the [[Shows/Live TV Tuesdays]] presentation of the [[Wikipedia - Beverly Hills, 90210|*Beverly Hills, 90210*]] episode ["Spring Dance"](http://90210.wikia.com/wiki/Spring_Dance).
 
 It was presented by [[The Institution Theater]] at [[The Highball]].
 
 ## Cast
 * Brandon Walsh -- [[Tyler Pratt]]
 * Brenda Walsh -- [[Sara Osburn]]
-* Dylan McKay -- [[Bryan Cruz]]
+* Dylan McKay -- [[Performers/Bryan Cruz]]
 * Kelly Taylor -- [[Cassiday Proctor]]
-* Steve Sanders -- [[Michael Thomas]]
-* Andrea Zuckerman-- [[Erica Lies]]
+* Steve Sanders -- [[Performers/Michael Thomas]]
+* Andrea Zuckerman-- [[Performers/Erica Lies]]
 * Donna Martin -- [[Martina Ohlhauser]]
-* David Silver -- [[Jason Vines]]
-* Jim Walsh/Nat -- [[John Buseman]]
+* David Silver -- [[Performers/Jason Vines]]
+* Jim Walsh/Nat -- [[Performers/John Buseman]]
 * Cindy Walsh/Darla Diller -- [[Ashley Lowe]]
  
 ## Crew
-* Tech -- [[Todd Hart]]
-* Stage Manager -- [[Madeline Jo Chauvin]]
-* Director -- [[Tom Booker]]
+* Tech -- [[Performers/Todd Hart]]
+* Stage Manager -- [[Performers/Madeline Jo Chauvin]]
+* Director -- [[Performers/Tom Booker]]
 
 ## Media
 * [Photoset of the 4/5/11 production.](http://www.facebook.com/media/set/?set=a.10150189247619090.330829.273514734089&type=3)

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="MikeIrenePoster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for [[Mike and Irene]].
+Poster for [[Troupes/Mike and Irene]].
 
 Art by: unknown.
 ## Licensing

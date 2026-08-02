@@ -1,37 +1,37 @@
-**WaffleFest 2011** was the tenth annual [[WaffleFest]].
+**WaffleFest 2011** was the tenth annual [[Wafflefest]].
 
 ## Summary
 The ran from 11/17/11 to 1/19/11.
 
-It included an all-star *[[Maestro]]*.
+It included an all-star *[[Shows/Maestro]]*.
 
 ## Acts
-* [[The Amazon and the Milksop]]
-* [[Bad Boys]]
-* [[Charles Dickens Unleashed]]
+* [[Troupes/The Amazon and The Milksop]]
+* [[Troupes/Bad Boys]]
+* [[Shows/Charles Dickens Unleashed]]
 * [[ColdTowne]]
-* [[Confidence Men]]
-* [[The Control Group]]
-* [[Danger! Warning! Improv!]], presenting "Secret Agent Men"
-* [[Elevator Action]]
-* [[The Frank Mills]]
-* [[Furiously Missing]]
-* [[Get Up]]
-* [[Gigglepants]]
-* [[Girls Girls Girls]]
-* [[Improv for Evil]]
-* [[The Intentions]]
-* [[Junk]]
-* [[The Knuckleball Now]]
-* [[Local Genius Society]]
-* [[Midnight Society]]
-* [[Parallelogramophonograph]]
-* [[Sarah 7]]
-* [[Simply D-Vine]]
+* [[Troupes/Confidence Men]]
+* [[Troupes/The Control Group]]
+* [[Troupes/Danger! Warning! Improv!]], presenting "Secret Agent Men"
+* [[Troupes/Elevator Action]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Furiously Missing]]
+* [[Troupes/Get Up]]
+* [[Troupes/GigglePants]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Improv For Evil]]
+* [[Troupes/The Intentions]]
+* [[Troupes/Junk]]
+* [[Troupes/The Knuckleball Now]]
+* [[Troupes/Local Genius Society]]
+* [[Troupes/Midnight Society]]
+* [[Troupes/Parallelogramophonograph]]
+* [[Troupes/Sarah 7]]
+* [[Troupes/Simply D-VINE]]
 * Teen Showcase
-* [[You're Not My Real Dad]]
-* [[Your Dad's Friends]]
-* [[Your Terrific Neighbors]]
+* [[Troupes/You're Not My Real Dad]]
+* [[Troupes/Your Dad's Friends]]
+* [[Troupes/Your Terrific Neighbors]]
 
 ## Media
 ### Other

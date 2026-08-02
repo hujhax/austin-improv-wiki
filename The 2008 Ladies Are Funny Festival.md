@@ -5,9 +5,9 @@ The festival ran from 4/24/08 to 4/26/08 at [[The Hideout Theatre]].
 
 ## Acts
 ### Local Acts
-* [[Adventure Squad!]]
+* [[Troupes/Adventure Squad!]]
 * [Dick Monologues](http://www.dickmonologues.com/)
-* [[Girls Girls Girls]]
+* [[Troupes/Girls Girls Girls]]
 * [[Pom Pom Sisterhood]]
 
 ### Out-of-Town Acts

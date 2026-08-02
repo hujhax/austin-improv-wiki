@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Austin Terrell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Austin Terrell]], appearing in *Makeshift Shakespeare* at the Voodoo Comedy Playhouse in Denver, Colorado.
+[[Performers/Austin Terrell]], appearing in *Makeshift Shakespeare* at the Voodoo Comedy Playhouse in Denver, Colorado.
 
 Pulled from [this photoset](http://www.facebook.com/media/set/?set=a.279167988793324.64319.201732149870242&type=3).
 

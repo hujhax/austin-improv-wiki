@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Monday Night Mash.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for *[[The Monday Night Mash]]*.
+Publicity art for *[[Shows/The Monday Night Mash]]*.
 
 Art by [[Albert Im]].
 

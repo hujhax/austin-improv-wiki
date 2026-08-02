@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Like Likes.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Group photo of [[The Like Likes]].
+Group photo of [[Troupes/The Like Likes]].
 
 Photo by: unknown.
 ## Licensing

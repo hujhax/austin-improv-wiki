@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="BridgetBrewer.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Bridget Brewer]], performing in *[[The Fancy-Pants Mashup]]* on 3/1/13.
+[[Performers/Bridget Brewer]], performing in *[[Shows/The Fancy-Pants Mashup]]* on 3/1/13.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/media/set/?set=a.4390052592216.1073741825.1315383518&type=3).
 

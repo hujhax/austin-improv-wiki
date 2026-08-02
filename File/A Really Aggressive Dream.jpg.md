@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="A Really Aggressive Dream.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[A Really Aggressive Dream]].
+Publicity photo for [[Troupes/A Really Aggressive Dream]].
 
 Photo by: unknown.
 ## Licensing

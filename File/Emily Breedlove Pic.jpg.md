@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Emily Breedlove Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Emily Breedlove]], performing in the [[Steam – Sixth Night|sixth night]] of *[[Steam]]*, on 1/21/12.
+[[Performers/Emily Breedlove]], performing in the [[Steam – Sixth Night|sixth night]] of *[[Shows/Steam]]*, on 1/21/12.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.280686221994901.70792.221927764537414&type=3).
 ## Licensing

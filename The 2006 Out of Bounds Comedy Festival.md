@@ -7,17 +7,17 @@
 ## Acts
 ### Local Acts
 * [[The Becchini]]
-* [[ColdTowne (troupe)|ColdTowne]]
-* [[The Frank Mills]]
-* [[Get Up]]
-* [[Girls Girls Girls]]
-* [[Hoover's Blanket]]
-* [[The Knuckleball Now]]
+* [[Troupes/ColdTowne (Troupe)|ColdTowne]]
+* [[Troupes/The Frank Mills]]
+* [[Troupes/Get Up]]
+* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Hoover's Blanket]]
+* [[Troupes/The Knuckleball Now]]
 * [[Latino Comedy Project]]
-* [[The Leading Brands]]
-* [[McNichol & May]]
+* [[Troupes/The Leading Brands]]
+* [[Troupes/McNichol & May]]
 * [[One Night Band]]
-* [[Parallelogramophonograph]]
+* [[Troupes/Parallelogramophonograph]]
 * [[The Plurals]]
 * [[Scott & Stacy]]
 * [[You Me & Greg]]
@@ -26,7 +26,7 @@
 * 3 for All (San Francisco)
 * American Standard (New York)
 * Apollo 12 (Phoenix)
-* [[Available Cupholders]] (Chicago)
+* [[Troupes/Available Cupholders]] (Chicago)
 * Dasariski (Los Angeles)
 * Double Feature (San Francisco)
 * Edmond Bulldogs (LA/Austin)

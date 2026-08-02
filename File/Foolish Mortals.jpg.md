@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Foolish Mortals.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Foolish Mortals]], taken from [the troupe's web site](http://foolishmortals.austinimprov.com/).
+Publicity image for [[Troupes/Foolish Mortals]], taken from [the troupe's web site](http://foolishmortals.austinimprov.com/).
 
 Photo by: unknown.
 ## Licensing

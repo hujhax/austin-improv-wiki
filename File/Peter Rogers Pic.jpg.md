@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Peter Rogers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Peter Rogers]] acting as 'script supervisor' for a performance of [[Live Nude Improv]].
+[[Performers/Peter Rogers]] acting as 'script supervisor' for a performance of [[Shows/Live Nude Improv]].
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.152074441540254.40967.100002130980897).
 

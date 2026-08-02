@@ -1,4 +1,4 @@
 ---
-redirect: "Royston"
+redirect: "Troupes/Royston"
 ---
-#REDIRECT [[Royston]]
+#REDIRECT [[Troupes/Royston]]

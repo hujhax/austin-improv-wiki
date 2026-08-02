@@ -1,4 +1,4 @@
-This was the first [[Strange Worlds]] story about Simon Doyle, AKA "Codename: Sleuth".  It was improvised on March 30th, 2013. 
+This was the first [[Shows/Strange Worlds]] story about Simon Doyle, AKA "Codename: Sleuth".  It was improvised on March 30th, 2013. 
 
 ## Episode Summary
 The villainous Spiderweb agent Pravda ties a young woman to a conveyor belt for revealing some of their secrets, pulling her ever closer to a deadly spinning saw blade.  The young woman manages to get a hand free and pulls Pravda on to the belt, dragging them both towards the saw.  Simon Doyle bursts into the warehouse and shuts down the power, stopping the saw mere centimeters from their heads.  Pravda pleads with Doyle that he owes her one, but he fires all the same, killing her dead.  He laments that he only meant to graze her.

@@ -2,26 +2,26 @@
 
 It ran from 4/10/14 through 4/12/14.
 
-It was produced by [[Thedward Blevins]] and [[Ruby Willmann]].
+It was produced by [[Performers/Thedward Blevins]] and [[Performers/Ruby Willmann]].
 
 ## Acts
 ### Local Acts
-* [[BeauMoMa]]
-* *[[Beware of Female Spies]]*
-* *[[The Big Bash]]*
-* *[[The Black Vault]]*
+* [[Troupes/BeauMoMa]]
+* *[[Shows/Beware of Female Spies]]*
+* *[[Shows/The Big Bash]]*
+* *[[Shows/The Black Vault]]*
 * [[Breaking Beckett]]
 * *[[Camp Madeupponathaspotta]]*
-* [[Confidence Men]]
-* [[The Escorts]]
+* [[Troupes/Confidence Men]]
+* [[Troupes/The Escorts]]
 * [[GOOFS]]
-* [[In Our Prime]]
-* *[[Kenjutsu]]*
-* *[[The Next Chapter]]*
-* [[Parallelogramophonograph]]
-* *[[Past Lives]]*
-* *[[Strange Worlds]]*
-* *[[What the F@$]]*
+* [[Troupes/In Our Prime]]
+* *[[Shows/Kenjutsu]]*
+* *[[Shows/The Next Chapter]]*
+* [[Troupes/Parallelogramophonograph]]
+* *[[Troupes/Past Lives]]*
+* *[[Shows/Strange Worlds]]*
+* *[[Shows/What the F@$]]*
 
 ### Out-of-Town Acts
 * Bunker 13 (Seattle)
@@ -34,8 +34,8 @@ It was produced by [[Thedward Blevins]] and [[Ruby Willmann]].
 * [Video](http://vimeo.com/98101962) of the Stephen Kearin Project's "Mélange" show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152295923042107.1073741831.549002106&type=3) by [[Chris Curl]] of the Stephen Kearin Project's "Mélange" show.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104426067058010.1073741863.7909117&type=3) by [[Heidi Rogers]] that includes Instant Movie.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152295923042107.1073741831.549002106&type=3) by [[Performers/Chris Curl]] of the Stephen Kearin Project's "Mélange" show.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104426067058010.1073741863.7909117&type=3) by [[Performers/Heidi Rogers]] that includes Instant Movie.
 
 ## More Information
 * [The festival website.](http://www.improvisedplayfestival.com/)

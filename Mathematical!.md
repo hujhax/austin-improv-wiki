@@ -1,4 +1,4 @@
 ---
-redirect: "Mathematical"
+redirect: "Troupes/Mathematical"
 ---
-#REDIRECT [[Mathematical]]
+#REDIRECT [[Troupes/Mathematical]]

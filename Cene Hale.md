@@ -1,4 +1,4 @@
 ---
-redirect: "Cené"
+redirect: "Performers/Cené"
 ---
-#REDIRECT [[Cené]]
+#REDIRECT [[Performers/Cené]]

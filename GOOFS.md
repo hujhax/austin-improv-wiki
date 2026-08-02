@@ -1,4 +1,4 @@
 ---
-redirect: "G.O.O.F.S"
+redirect: "Troupes/G.O.O.F.S"
 ---
-#REDIRECT [[G.O.O.F.S]]
+#REDIRECT [[Troupes/G.O.O.F.S]]

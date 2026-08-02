@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Ka-Baam!! Logo.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-*[[Ka-Baam!!]]* logo.
+*[[Shows/Ka-Baam!!]]* logo.
 
-Art by [[Asaf Ronen]].
+Art by [[Performers/Asaf Ronen]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 
