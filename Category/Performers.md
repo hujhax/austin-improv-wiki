@@ -108,6 +108,7 @@ redirect: "List of Austin Improv Performers"
 * [[Performers/Taylor Flanagan]]
 * [[Performers/Bobby Ford]]
 * [[Performers/Claudio Fox]]
+* [[Performers/Frank Wilmore]]
 * [[Performers/Kayla Lane Freeman]]
 * [[Performers/Rosemarie Frezza]]
 * [[Performers/Joshua Gill]]
