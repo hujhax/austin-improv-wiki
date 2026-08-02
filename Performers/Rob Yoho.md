@@ -29,7 +29,7 @@ As a director, Rob’s varied credits include scripted plays such as True West, 
 Rob is also an actor in improvised theatre, having appeared in productions in Austin at The Hideout Theatre, The Institution Theatre, and serving as one of the original devisers of the the improvised Greek tragedy It’s All Greek to Me (Orlando, 2011).
 
 ## Troupes
-* [[AJAR]]
+* [[Troupes/AJAR|AJAR]]
 
 ## Shows
 * [[Shows/Austin Secrets|Austin Secrets]] (stage manager)

@@ -1,5 +1,4 @@
-
-**Topping Haggerty Experience** is the one-person improvised long form show performed by [[Performers/Topping Haggerty|Topping Haggerty]].
+**Topping Haggerty Experience** is the one-person improvised long form show performed by [[Troupes/Topping Haggerty|Topping Haggerty]].
 
 
 ## History
@@ -17,3 +16,4 @@ THE was first performed in Buenos Aires, Argentina, as 'CamelBack', and has had 
 *THE: Today is Not Tomorrow* (Fully improvised 007 movie)
 
 *THE: Bring It* (Audience edits everything - thanks Finland!)
+[[Category/Troupes|Category:Troupes]]

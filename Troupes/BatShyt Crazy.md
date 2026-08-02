@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Beth Doughty">Beth Doughty</a></li><!--
   --><li style=""><a class="internal-link" href="Megan Thornton">Megan Thornton</a></li><!--
@@ -86,9 +86,9 @@ In 2015, they took the stage again to perform the foul mouthed Christmas musical
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/104261690) by [[Performers/Topping Haggerty|Topping Haggerty]] of their 8/1/14 show.
-* [Video](https://vimeo.com/107663376) by [[Performers/Topping Haggerty|Topping Haggerty]] of their 8/22/14 show.
-* [Video](https://vimeo.com/118369303) by [[Performers/Topping Haggerty|Topping Haggerty]] of their 2015 [[FronteraFest]] show.
+* [Video](http://vimeo.com/104261690) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 8/1/14 show.
+* [Video](https://vimeo.com/107663376) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 8/22/14 show.
+* [Video](https://vimeo.com/118369303) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 2015 [[FronteraFest]] show.
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.10152671362812265.1073741853.588952264&type=3) of their 8/1/14 show by [[Performers/Peter Rogers|Peter Rogers]].

@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
   --><li style=""><a class="internal-link" href="Justin Soileau">Justin Soileau</a></li><!--
   --><li style=""><a class="internal-link" href="Lance Nealy">Lance Nealy</a></li><!--
-  --><li style="" ><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -235,7 +235,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Michael Brockman|Michael Brockman]] (musical improvisor)
 * [[Performers/Sean Hill|Sean Hill]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 * [[Performers/Troy Miller|Troy Miller]]
 * [[Performers/David Zimmerman|David Zimmerman]] (Sound FX)
 * [[Performers/Neal Tibrewala|Neal Tibrewala]] (Lights)

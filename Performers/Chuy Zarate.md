@@ -29,7 +29,7 @@ As a teenager in San Antonio, Zarate was coached in improv by [[Performers/David
 
 ## Troupes
 * [[Troupes/ChuTopp|ChuTopp]]
-* [[The Oxymorons]]
+* [[Troupes/The Oxymorons|The Oxymorons]]
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 

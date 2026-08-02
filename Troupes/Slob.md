@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Dave Michaels">Dave Michaels</a></li><!--
   --><li style=""><a class="internal-link" href="Kate Trammell">Kate Trammell</a></li><!--
-  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style=""><a class="internal-link" href="Sarah Coker">Sarah Coker</a></li><!--
   --><!--
   --><!--

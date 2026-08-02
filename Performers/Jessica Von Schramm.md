@@ -81,7 +81,7 @@ Jessica von Schramm started taking improv classes at [[Theatres/The Hideout Thea
 * [[Troupes/Golden|Golden]]
 * [[Troupes/Minority Report|Minority Report]]
 * [[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]] (2015-2016)
-* [[AJAR]]
+* [[Troupes/AJAR|AJAR]]
 * [[Cupcake Compadres]]
 * [[Garage]]
 * [[MANIC PIXIE STIX]]

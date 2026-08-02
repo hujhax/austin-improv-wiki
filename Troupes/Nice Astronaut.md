@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Byrnes">Katie Byrnes</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
-  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

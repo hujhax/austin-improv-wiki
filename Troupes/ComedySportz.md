@@ -119,7 +119,7 @@ ComedySportz included some 350 members over the course of its existence, includi
 * [Tim Bauer](Tim%20Bauer)
 * [Tim Simek](Tim%20Simek)
 * [Tonie Perensky](Tonie%20Perensky)
-* [Topping Haggerty](Performers/Topping%20Haggerty)
+* [Topping Haggerty](Troupes/Topping%20Haggerty)
 * [Tyler Bryce](Performers/Tyler%20Bryce)
 * [Mike Kinald](Performers/Mike%20Kinald)
 ## Media

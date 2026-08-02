@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Dustin Finkelstein">Dustin Finkelstein</a></li><!--
   --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
   --><li style=""><a class="internal-link" href="Matthew Stoner">Matthew Stoner</a></li><!--
-  --><li style="" ><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style=""><a class="internal-link" href="Sarah Coker">Sarah Coker</a></li><!--
   --><li style=""><a class="internal-link" href="XJ Coleman">XJ Coleman</a></li><!--
   --><!--

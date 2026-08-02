@@ -25,7 +25,7 @@
   --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@ The troupe included musicians [[Performers/David Rosenbaum|David Rosenbaum]] (on
 ## History
 The troupe was founded in 2010 by [[Performers/Susannah Raulino|Susannah Raulino]] and [[Performers/Amy Averett|Amy Averett]], and disbanded after their [[Festivals/Out of Bounds|Out of Bounds]] performance in 2011.
 
-After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]], [[Performers/Topping Haggerty|Topping Haggerty]], and [[Performers/David Rosenbaum|David Rosenbaum]] would go on to found the musical trio [[Troupes/DA Foundry|DA Foundry]].
+After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]], [[Troupes/Topping Haggerty|Topping Haggerty]], and [[Performers/David Rosenbaum|David Rosenbaum]] would go on to found the musical trio [[Troupes/DA Foundry|DA Foundry]].
 
 [[Performers/Amy Averett|Amy Averett]] would go on to join [[Troupes/Girls Girls Girls|Girls Girls Girls]].
 

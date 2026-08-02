@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
   --><!--
   --><!--
@@ -71,15 +71,15 @@
 </div>
 
 ## Summary
-**ChuTopp** is the improv power duo of [[Performers/Topping Haggerty|Topping Haggerty]] and [[Performers/Chuy Zarate|Chuy Zarate]] that began its powerful existence in 2012. They embrace the awkward truth about their very flawed, but focused, characters. ChuTopp's first format, *The End of the World*, had not so worldly, not so knowledgeable, amazingly innocuous characters saving the world from kitten-apocalypses, to the world-wide loss of cell phones, to a plague of ants. Currently, ChuTopp's format is *The Heist*, where all the plans are bad but all the intentions are good.
+**ChuTopp** is the improv power duo of [[Troupes/Topping Haggerty|Topping Haggerty]] and [[Performers/Chuy Zarate|Chuy Zarate]] that began its powerful existence in 2012. They embrace the awkward truth about their very flawed, but focused, characters. ChuTopp's first format, *The End of the World*, had not so worldly, not so knowledgeable, amazingly innocuous characters saving the world from kitten-apocalypses, to the world-wide loss of cell phones, to a plague of ants. Currently, ChuTopp's format is *The Heist*, where all the plans are bad but all the intentions are good.
 
 ## History
 ChuTopp performs at [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/Coldtowne Theater|Coldtowne Theater]]. ChuTopp was also in Frontera Fest Short Fringe in 2014, 2015, and 2017. In 2016, ChuTopp performed at DuoFest in Philadelphia, and at the Big Sexy Comedy Festival in Dallas.
 
 ## Media
 ### Videos
-* [Video](https://vimeo.com/203716569) by [[Performers/Topping Haggerty|Topping Haggerty]] of their 2017 [[FronteraFest]] show.
-* [Video](https://vimeo.com/118970094) by [[Performers/Topping Haggerty|Topping Haggerty]] of their 2015 [[FronteraFest]] show.
+* [Video](https://vimeo.com/203716569) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 2017 [[FronteraFest]] show.
+* [Video](https://vimeo.com/118970094) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 2015 [[FronteraFest]] show.
 * [Video](https://vimeo.com/119300295) by [[Performers/Peter Rogers|Peter Rogers]] of their 1/23/15 performance in the *[[Shows/2x4|2x4]]*.
 
 [[Category/Troupes|ChuTopp]]

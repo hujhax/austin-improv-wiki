@@ -60,7 +60,7 @@ Winners are listed in **bold text**.
 * [[Roxy Castillo]]
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * **[[Performers/Taylor Overstreet|Taylor Overstreet]]**
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 
 ### Favorite Original Video
 * **"A Brand New Day" from *[[Shows/Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***

@@ -264,7 +264,7 @@
 * [[Performers/Jericho Thorp]]
 * [[Troupes/Three on a Match]]
 * [[Troupes/Too Shy Guys]]
-* [[Performers/Topping Haggerty]]
+* [[Troupes/Topping Haggerty]]
 * [[Shows/Townsville]]
 * [[Troupes/Twine]]
 * [[Troupes/Twins]]

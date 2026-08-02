@@ -123,7 +123,7 @@ On 11/17/11, cast members [[Performers/Curtis Luciani|Curtis Luciani]], [[Perfor
 * [[Performers/Patrick Daniel|Patrick Daniel]]
 * [[Performers/Peter Rogers|Peter Rogers]]
 * [[Performers/Roy Janik|Roy Janik]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 * [[Performers/Valerie Ward|Valerie Ward]]
 
 #### Crew
@@ -147,7 +147,7 @@ On 11/17/11, cast members [[Performers/Curtis Luciani|Curtis Luciani]], [[Perfor
 * [[Performers/Mitchell Deane|Mitchell Deane]]
 * [[Performers/Peter Rogers|Peter Rogers]]
 * [[Performers/Roy Janik|Roy Janik]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 * [[Performers/Valerie Ward|Valerie Ward]]
 * [[Performers/Zac Grantham|Zac Grantham]]
 

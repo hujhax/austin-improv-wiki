@@ -92,7 +92,7 @@
   --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><li style=""><a class="internal-link" href="Zach Palmer">Zach Palmer</a></li><!--
   --><!--
   --><!--
@@ -157,7 +157,7 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [[Performers/Michael Joplin|Michael Joplin]]
 * [[Performers/Mike Kinald|Mike Kinald]]
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 * [[Zach Palmer]]
 
 ### 2010 Cast
@@ -173,7 +173,7 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Mike Kinald|Mike Kinald]]
 * [[Performers/Quinn Buckner|Quinn Buckner]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 * [[Zach Palmer]]
 
 ## Media

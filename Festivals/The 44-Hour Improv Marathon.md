@@ -85,7 +85,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 	* The second story featured [[Performers/Peter Rogers|Peter Rogers]] as a doctor who performed a series of sleep-deprivation experiments with disastrous results.
 * Sunday 1am (hour 33): [[Puppet Improv Project]]: improv with puppets!
 	* The show format was "couples therapy", in which Sara Farr helped a number of puppet couples deal with their relationship problems.
-	* The core cast were joined by [[Performers/Chad Wellington|Chad Wellington]], [[Elizabeth Buchanan]], [[Jennifer Bateman]], [[Performers/Patrick Knisely|Patrick Knisely]], [[Performers/Sara Farr|Sara Farr]], and [[Performers/Topping Haggerty|Topping Haggerty]].
+	* The core cast were joined by [[Performers/Chad Wellington|Chad Wellington]], [[Elizabeth Buchanan]], [[Jennifer Bateman]], [[Performers/Patrick Knisely|Patrick Knisely]], [[Performers/Sara Farr|Sara Farr]], and [[Troupes/Topping Haggerty|Topping Haggerty]].
 * Sunday 2am (hour 34): *[[Shows/Tech Nightmare|Tech Nightmare]]*: wherein the players have to do everything the people in the tech booth tell them to.
 * Sunday 3am (hour 35): [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]] presented *[[Shows/Big Beautiful Warriors|Big Beautiful Warriors]]*, a game show with very non-traditional games.
 * Sunday 4am (hour 36): *[[Shows/Pulp Friction|Pulp Friction]]*: improv in the style of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]].

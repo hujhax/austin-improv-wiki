@@ -150,7 +150,7 @@ Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes,
 **Episode 1**
 * Marlon Brando ([[Performers/Mike Kinald|Mike Kinald]])
 * David Lynch ([[Performers/Ceej Allen|Ceej Allen]])
-* Julia Child ([[Performers/Topping Haggerty|Topping Haggerty]])
+* Julia Child ([[Troupes/Topping Haggerty|Topping Haggerty]])
 * Justin Bieber (backstage) ([[Andrew Maniaci]])
 
 **Episode 2**

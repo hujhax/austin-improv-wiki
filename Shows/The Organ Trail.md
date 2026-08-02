@@ -33,7 +33,7 @@
   --><li style=""><a class="internal-link" href="Lance Nealy">Lance Nealy</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
-  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style=""><a class="internal-link" href="Richard Smith">Richard Smith</a></li><!--
   --><li style=""><a class="internal-link" href="Bobby Stover">Bobby Stover</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--

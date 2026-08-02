@@ -89,7 +89,7 @@
   --><li style="" ><a class="internal-link" href="Patrick Knisley">Patrick Knisley</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Shawn Utterback">Shawn Utterback</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -157,7 +157,7 @@ In 2011, the show ran Fridays and Saturdays at 8pm at [[Theatres/Salvage Vanguar
 * [[Performers/Kate Bojanek|Kate Bojanek]]
 * [[Patrick Knisley]]
 * [[Performers/Sara Farr|Sara Farr]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 
 #### Guest Santas
 * 12/2: [[Performers/Deano Jones|Deano Jones]]

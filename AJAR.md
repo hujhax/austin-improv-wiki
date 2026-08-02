@@ -1,1 +1,0 @@
-Dis one badass troupe

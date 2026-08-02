@@ -1,0 +1,2 @@
+**The Oxymorons** is a long-running San Antonio-based improv troupe that has included a number of Austin improvisers, including [[Performers/Chuy Zarate|Chuy Zarate]].
+[[Category/Troupes|Category:Troupes]]

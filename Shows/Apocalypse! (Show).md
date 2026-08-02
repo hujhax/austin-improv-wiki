@@ -36,7 +36,7 @@
   --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -109,7 +109,7 @@ Each night, the roles of Hero 1, Hero 2, Villain, and Narrator were decided befo
 * [[Performers/Julie Gillis|Julie Gillis]]
 * [[Pseudonyms|Madeline M.]]
 * [[Performers/Michael Thomas|Michael Thomas]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 
 #### Show Cast
 * [[Performers/Aden Kirschner|Aden Kirschner]]
@@ -125,7 +125,7 @@ Each night, the roles of Hero 1, Hero 2, Villain, and Narrator were decided befo
 * [[Performers/Mark Carpenter|Mark Carpenter]]
 * [[Performers/Meghan Wolff|Meghan Wolff]]
 * [[Performers/Michael Thomas|Michael Thomas]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 
 In addition, [[Performers/Sarah Marie Curry|Sarah Marie Curry]] and [[Performers/Courtney Hopkin|Courtney Hopkin]] appeared as guest cast members.
 

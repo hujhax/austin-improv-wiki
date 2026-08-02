@@ -62,7 +62,7 @@ Its artistic director is [[Performers/Shannon McCormick|Shannon McCormick]].
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * [[Performers/Shana Merlin|Shana Merlin]]
 * [[Performers/Shannon McCormick|Shannon McCormick]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 
 ## Artistic Associates
 * [[Chris Lucas]]

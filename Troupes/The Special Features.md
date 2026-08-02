@@ -19,7 +19,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><li style=""><a class="internal-link" href="Matthew Arisheh Falkenberg">Matthew Arisheh Falkenberg</a></li><!--
   --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--

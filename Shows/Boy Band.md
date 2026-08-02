@@ -80,7 +80,7 @@
   --><li style=""><a class="internal-link" href="JenRaye Adams">JenRaye Adams</a></li><!--
   --><li style=""><a class="internal-link" href="Logan Williams">Logan Williams</a></li><!--
   --><li style=""><a class="internal-link" href="Matthew Stoner">Matthew Stoner</a></li><!--
-  --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

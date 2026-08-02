@@ -27,7 +27,7 @@
 * [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] 
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
-* [[The Oxymorons]]
+* [[Troupes/The Oxymorons|The Oxymorons]]
 * [[The Stucco Iguanas]]
 * [[Troupes/Monks' Night Out|Monks' Night Out]]
 * [[Comedy Workshop Tour Company]]

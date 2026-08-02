@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Cole Spainhour">Cole Spainhour</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@ The current members of ¡Zarzamora! are:
 * [[Performers/Chuy Zarate|Chuy Zarate]]
 * [[Performers/Brad Hawkins|Brad Hawkins]]
 * [[Performers/Kevin Miller|Kevin Miller]]
-* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
 * [[Cole Spainhour]]
 * [[Performers/Patrick Daniel|Patrick Daniel]] (member at large)
 

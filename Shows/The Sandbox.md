@@ -30,7 +30,7 @@
   --><li style=""><a class="internal-link" href="Kerri Lendo">Kerri Lendo</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -148,7 +148,7 @@
 * 2/4/11: [[Performers/Marc Majcher|Marc Majcher]] directed "Bloody Work", a retelling and exploration of the Servant Girl Annihilator murders in Austin in 1884-1885.
 * 2/5/11: [[Performers/Jason Vines|Jason Vines]] directed "Crossroads".
 * 2/11/11: [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] directed "Worm Hole: Adventures in Multi-Dimensional Time Space".
-* 2/12/11:  [[Performers/Topping Haggerty|Topping Haggerty]] directed "Quantum Historical Flux 101".
+* 2/12/11:  [[Troupes/Topping Haggerty|Topping Haggerty]] directed "Quantum Historical Flux 101".
 
 ## Media
 ### Videos

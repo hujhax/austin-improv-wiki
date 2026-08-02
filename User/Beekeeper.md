@@ -1,4 +1,4 @@
 ---
-redirect: "Performers/Topping Haggerty"
+redirect: "Troupes/Topping Haggerty"
 ---
-#REDIRECT [[Performers/Topping Haggerty]]
+#REDIRECT [[Troupes/Topping Haggerty]]

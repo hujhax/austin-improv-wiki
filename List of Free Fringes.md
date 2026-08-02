@@ -43,7 +43,7 @@ Join the Hideout for the first ever Ladies' Night at the Free Fringe. Funny, tal
 
 ### Feb  2, 2012
 #### *[[Shows/GrimmNoire|GrimmNoire]]*
-Ever wonder what Cinderella would look like if written by Dashiell Hammett? How about if The Big Bad Wolf was looking for a "Special Package" when Red came down the path? It's Grimm's Fairy Tales in the style of Film Noir. One fairy tale is retold in the style of Noir. starring: [[Performers/Mike Kinald|Mike Kinald]], [[Performers/David Lampe|David Lampe]], [[Performers/Jason Vines|Jason Vines]], [[Performers/Topping Haggerty|Topping Haggerty]], [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]]
+Ever wonder what Cinderella would look like if written by Dashiell Hammett? How about if The Big Bad Wolf was looking for a "Special Package" when Red came down the path? It's Grimm's Fairy Tales in the style of Film Noir. One fairy tale is retold in the style of Noir. starring: [[Performers/Mike Kinald|Mike Kinald]], [[Performers/David Lampe|David Lampe]], [[Performers/Jason Vines|Jason Vines]], [[Troupes/Topping Haggerty|Topping Haggerty]], [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]]
 
 #### *Tamales!* ([[Performers/Jason Vines|Jason Vines]])
 We have a large container of cooked tamales on stage. + We do improv scenes. = At least one person must be eating a tamale at all times during any given scene. Improvisers must justify why one person has their mouth full. starring: [[Performers/Jason Vines|Jason Vines]], [[Performers/Mike Kinald|Mike Kinald]], [[Performers/Eric Heiberg|Eric Heiberg]], [[Ann Wilson]], [[Performers/Amy Averett|Amy Averett]], [[Meredith Newell]], [[Victoria Bui]], [[Performers/John Buseman|John Buseman]]
@@ -237,7 +237,7 @@ The cast of After School Improv, the first ever Hideout Student Mainstage, reuni
 #### *Once Upon A Time* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 ### Jul  5, 2012
 #### *Celebrity Alter-Ego* ([[Performers/Andreas Fabis|Andreas Fabis]])
-Yeah, yeah, Abraham Lincoln: Vampire Hunter... WHATEVER. That's only the tip of the iceberg. Come see these intrepid performers unveil the secrets of some of history's greatest women and men. Joan of Arc, volcano whisperer? Albert Einstein, werewolf counselor? starring: [[Performers/Peter Rogers|Peter Rogers]], [[Performers/Topping Haggerty|Topping Haggerty]], [[Performers/Kevin Miller|Kevin Miller]], [[Robin Anderson]], and [[Performers/Lindsey Reeves|Lindsey Reeves]]
+Yeah, yeah, Abraham Lincoln: Vampire Hunter... WHATEVER. That's only the tip of the iceberg. Come see these intrepid performers unveil the secrets of some of history's greatest women and men. Joan of Arc, volcano whisperer? Albert Einstein, werewolf counselor? starring: [[Performers/Peter Rogers|Peter Rogers]], [[Troupes/Topping Haggerty|Topping Haggerty]], [[Performers/Kevin Miller|Kevin Miller]], [[Robin Anderson]], and [[Performers/Lindsey Reeves|Lindsey Reeves]]
 
 #### *Audition* ([[Performers/Mike Nystul|Alex Gray]])
 The next big show is casting and four hopefuls are competing for a coveted space in the production. The brilliant (some say sadistic) director has come ready to put everyone through their paces. These lucky four have come to play and play they shall... 
@@ -744,7 +744,7 @@ Ruby presents anecdotes from her six-month stint in South America, and improviso
 #### Wanted
 Every character wants something and there is usually something they don't want. We are going to assign those things at random and watch as the cast tries to navigate their way through the resulting story. No one knows what anyone else was assigned and everyone has to try to get what they want by the end of the show. It is very likely that they will fail but the process of watching them struggle is half the fun!
 
-[[Performers/Mike Nystul|Mike Nystul]], [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/David Lampe|David Lampe]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Topping Haggerty|Topping Haggerty]], [[Performers/Chad Wellington|Chad Wellington]]
+[[Performers/Mike Nystul|Mike Nystul]], [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/David Lampe|David Lampe]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Troupes/Topping Haggerty|Topping Haggerty]], [[Performers/Chad Wellington|Chad Wellington]]
 
 #### First and Last
 Stories without all the boring bits in the middle. We see the opening and ending scenes of several improvised tales.
@@ -832,10 +832,10 @@ Asaf has invited three contenders to join him in a two-person set: [[Dave]]
 [[Buckman]], [[Performers/Kareem Badr|Kareem Badr]], and [[Performers/Courtney Hopkin|Courtney Hopkin]], with the audience deciding who the better match is at the end.
 
 ### August 8, 2013
-#### Topping Has Two Dads ([[Performers/Topping Haggerty|Topping Haggerty]])
+#### Topping Has Two Dads ([[Troupes/Topping Haggerty|Topping Haggerty]])
 Cole, Topping and I were driving back from Oklahoma and decided that we should put up a sitcom where Topping is the child. She never gets what she wants and Cole and I probably end up divorced.
 
-Starring: [[Performers/Chuy Zarate|Chuy Zarate]], Cole, and [[Performers/Topping Haggerty|Topping Haggerty]]
+Starring: [[Performers/Chuy Zarate|Chuy Zarate]], Cole, and [[Troupes/Topping Haggerty|Topping Haggerty]]
 
 #### Ryan Austin Secrets ([[Performers/Ryan Austin|Ryan Austin]])
 [[Performers/Ryan Austin|Ryan Austin]] shares some intimate details of his life, which will inspire the scenes the performers act out. He can call scene at any time and share a new secret to start the next scene. Are these secrets real? Are they true? He swears they are. Who knows what we might learn about homeschooling, hip hop, Dakota Fanning or designated driving.
@@ -1954,7 +1954,7 @@ Did you ever wonder why Germans say "I'll be right back" when they go to the res
 Based on a popular meme, "Your Corpus Is Showing" will lovingly poke fun at the unique experiences one can have only from growing up in Corpus.
 
 #### Arjet Universe
-[[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Topping Haggerty|Topping Haggerty]].
+[[Performers/Jessica Arjet|Jessica Arjet]] and [[Troupes/Topping Haggerty|Topping Haggerty]].
 
 #### Media
 ##### Photos
