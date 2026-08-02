@@ -30,8 +30,8 @@
 
 
 ## Shows
-* *Rennaissance Queen* (part of [[The Jukebox Musical Project]])
-* *Women of the Wild West* (part of [[The Jukebox Musical Project]])
+* *Rennaissance Queen* (part of [[Shows/The Jukebox Musical Project|The Jukebox Musical Project]])
+* *Women of the Wild West* (part of [[Shows/The Jukebox Musical Project|The Jukebox Musical Project]])
 
 
 ## Links

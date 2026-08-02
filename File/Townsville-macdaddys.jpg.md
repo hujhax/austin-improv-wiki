@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Townsville-macdaddys.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Incomplete photo of the March 2012 run of [[Townsville]]'s MacDaddy's show.
+Incomplete photo of the March 2012 run of [[Shows/Townsville|Townsville]]'s MacDaddy's show.
 
 Photo by: unknown.
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Trash.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity banner art for *[[Trash]]*.
+Publicity banner art for *[[Shows/Trash|Trash]]*.
 
 Art by [[Performers/Sara Farr|Sara Farr]].
 ## Licensing

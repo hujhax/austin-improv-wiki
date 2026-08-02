@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Sock Treatment.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for *[[Sock Treatment]]*.
+Poster for *[[Shows/Sock Treatment|Sock Treatment]]*.
 
 Photo and art by [[Performers/Sara Farr|Sara Farr]].
 ## Licensing

@@ -38,12 +38,12 @@ Since then, she's also studied at [[Coldtowne Theater]] and [[The Institution Th
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Hurly Burly|Hurly Burly]]* (co-director)
 * *[[Shows/Kenjutsu|Kenjutsu]]* 
-* *[[Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
 * *[[Shows/Maestro|Maestro]]*
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
 * *[[Shows/Steam|Steam]]* (Crank)
 * *[[Shows/Strange Worlds|Strange Worlds]]* (Bellwether Blue)
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 
 ## More Information
 * [Jayme's introduction thread](http://forum.austinimprov.com/viewtopic.php?t=11956) on [[The AIC Forums]].

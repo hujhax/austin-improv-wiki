@@ -30,12 +30,12 @@
 
 ## Shows
 * *[[Shows/The Derby|The Derby]]*
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
-* *[[Love Fest]]*
+* *[[Shows/Love Fest|Love Fest]]*
 * *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
-* *[[Seance]]*
+* *[[Shows/Seance|Seance]]*
 * *[[Shows/Tall Tales of the High Seas|Tall Tales of the High Seas]]* (Co-Director and Cast)
 * *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
 

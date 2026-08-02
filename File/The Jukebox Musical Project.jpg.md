@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Jukebox Musical Project.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for "In the Air Tonight", a performance from [[The Jukebox Musical Project]].
+Publicity image for "In the Air Tonight", a performance from [[Shows/The Jukebox Musical Project|The Jukebox Musical Project]].
 
 Art by [[Performers/Asaf Ronen|Asaf Ronen]].
 ## Licensing

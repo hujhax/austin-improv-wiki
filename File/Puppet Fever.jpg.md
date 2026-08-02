@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Puppet Fever.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Puppet Fever]]*.
+Publicity poster for *[[Shows/Puppet Fever|Puppet Fever]]*.
 
 Art by [[Performers/Sara Farr|Sara Farr]].
 ## Licensing

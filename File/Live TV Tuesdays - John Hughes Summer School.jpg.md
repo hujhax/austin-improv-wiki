@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Live TV Tuesdays - John Hughes Summer School.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The 7/19/11 performance of *[[Live TV Tuesdays -  John Hughes Summer School]]*.
+The 7/19/11 performance of *[[Shows/Live TV Tuesdays -  John Hughes Summer School|Live TV Tuesdays -  John Hughes Summer School]]*.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/media/set/?set=a.1860642198537.91518.1315383518&type=3).
 ## Licensing

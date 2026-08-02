@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Dusk Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional image for *[[Dusk]]*.
+Promotional image for *[[Shows/Dusk|Dusk]]*.
 
 From left: [[Performers/Bryan Cruz|Bryan Cruz]], [[Performers/Chelsea Gilman|Chelsea Gilman]], and [[Performers/Michael Thomas|Michael Thomas]].
 

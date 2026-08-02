@@ -32,9 +32,9 @@ Heidi was a film student and enthusiast. She started taking improv classes at th
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Shows/The Next Chapter|The Next Chapter]]*
 * *[[Shows/Not This American Life|Not This American Life]]*
-* *[[Only Three Will Survive]]*
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Shows/Pulp Friction|Pulp Friction]]*
-* *[[Rock N Roll Purgatory]]*
+* *[[Shows/Rock N Roll Purgatory|Rock N Roll Purgatory]]*
 * *[[Shows/Strange Worlds|Strange Worlds]]*
 
 

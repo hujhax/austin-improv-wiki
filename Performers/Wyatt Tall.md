@@ -25,8 +25,8 @@
 * [[Troupes/IScream Sandwich|IScream Sandwich]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Freaks and Geeks]]* (Bill Haverchuck)
-* *[[Only Three Will Survive]]*
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Bill Haverchuck)
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Shows/Pulp Friction|Pulp Friction]]*
 * *[[Shows/The Suitcase|The Suitcase]]*
 

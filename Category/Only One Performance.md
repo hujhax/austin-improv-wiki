@@ -45,7 +45,7 @@ This is a list of stage entities that only had a single performance.
 * [[Troupes/Late Night Lunch Show]]
 * [[Troupes/The Level Five]]
 * [[Troupes/Lo Mismo]]
-* [[Lord Wensleydale's Last High Tea]]
+* [[Shows/Lord Wensleydale's Last High Tea]]
 * [[Troupes/Mickle]]
 * [[Troupes/Mixed Company]]
 * [[Troupes/Mundane]]

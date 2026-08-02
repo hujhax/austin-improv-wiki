@@ -40,9 +40,9 @@ A post from her about the first improv show she ever saw:<blockquote><p>My first
 
 ## Shows
 * *[[Shows/Danger!|Danger!]]*
-* *[[Dusk]]* (2009)
-* *[[Live TV Tuesdays -  Firefly]]* (Inara)
-* *[[Live TV Tuesdays -  Freaks and Geeks]]* (Neal)
+* *[[Shows/Dusk|Dusk]]* (2009)
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (Inara)
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Neal)
 * *[[Shows/Rock|Rock]]*
 
 [[Category/Performers|Reeves]]

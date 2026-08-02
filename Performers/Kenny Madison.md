@@ -40,7 +40,7 @@ Kenny wants you to realize that you need to accept how great you are. Improv cha
 ## Shows
 * *[[Shows/Start Trekkin'|Start Trekkin']]* (player)
 * *[[Fuck It's Christmas!]]* (writer/player)
-* *[[It Came From Your Brain!]]* (producer/director/Monster Crew)
+* *[[Shows/It Came From Your Brain!|It Came From Your Brain!]]* (producer/director/Monster Crew)
 * *[[Over the Lege]]* (writer/player)
 * *[[Award Winner]]* (director)
 * *[[Shows/Close Up|Close Up]]* (player)

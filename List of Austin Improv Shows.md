@@ -94,7 +94,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * *[[Shows/Crack! The Improvised Puppet Musical|Crack! The Improvised Puppet Musical]]* (PIP/Gnap 2009, 2010)
 * *[[Shows/Doctors Without Boundaries|Doctors Without Boundaries]]*
 * *[[Shows/Dusk - Improvised Tween Erotica|Dusk - Improvised Tween Erotica]]*
-* *[[Elf Employment]]* (PIP/Gnap 2011)
+* *[[Shows/Elf Employment|Elf Employment]]* (PIP/Gnap 2011)
 * *[[Shows/False Matters|False Matters]]* (2011)
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * *[[Shows/Haunted|Haunted]]*
@@ -105,7 +105,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (2012)
 * *[[Troupes/The Professor|The Professor]]* (2012)
 * *[[Shows/The Sandbox|The Sandbox]]*
-* *[[Seance]]* (2012)
+* *[[Shows/Seance|Seance]]* (2012)
 * *[[Shows/Showdown|Showdown]]* (2011)
 * *[[Shows/Steam|Steam]]* (2012)
 * *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]*
@@ -142,7 +142,7 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * *[[Shows/The Austin Improv Monologue Jam|The Austin Improv Monologue Jam]]*
 * *[[Shows/Booker and a Buddy|Booker and a Buddy]]*
 * *[[Shows/Highly Suggestible|Highly Suggestible]]*
-* *[[Impromp-Two]]*
+* *[[Shows/Impromp-Two|Impromp-Two]]*
 * *[[Shows/The Rubber Room|The Rubber Room]]*
 * *[[Shows/Tarantula|Tarantula]]*
 * *[[Shows/The Triple Scoop|The Triple Scoop]]*
@@ -157,16 +157,16 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * *[[Shows/Fuck It's Hot|Fuck It's Hot]]*
 * *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]* (2013)
 * *[[Shows/Hurly Burly|Hurly Burly]]* 
-* *[[The Joss Whedon Pajama Party]]* 
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]* 
 * *[[Shows/The Ladies Room|The Ladies Room]]*
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 * *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]*
-* *[[Love Fest]]*
+* *[[Shows/Love Fest|Love Fest]]*
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]*
 * *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
 * *[[Shows/The Next Chapter|The Next Chapter]]* (2013)
 * *[[Shows/Not This American Life|Not This American Life]]*
-* *[[Only Three Will Survive]]*
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Shows/Pulp Friction|Pulp Friction]]*
 * *[[Shows/RISEN|RISEN]]*
 * *[[Shows/The Source|The Source]]*

@@ -22,7 +22,7 @@
 **Alexa Ramirez** is an improv performer.
 
 ## Shows
-* *[[The Joss Whedon Pajama Party]]*
-* *[[Live TV Tuesdays -  Firefly]]* (River)
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (River)
 
 [[Category/Performers|Ramirez]]

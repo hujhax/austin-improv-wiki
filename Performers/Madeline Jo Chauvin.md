@@ -44,7 +44,7 @@ A post from her about the first improv show she ever saw:<blockquote>I saw "Star
 * *[[Will You Be My Tinderella]]*(improv)
 * *[[Shows/The Ladies Room|The Ladies Room]]* (improv)2015
 * *[[Shows/GrimmNoir|GrimmNoir]]*
-* *[[Love Fest]]* (performer, improv, host)
+* *[[Shows/Love Fest|Love Fest]]* (performer, improv, host)
 * *[[Christmas at the Cozy Mountain Inn]]* (improv)
 * *[[The Better Half Presents Date Night]]*(co-producer, co-director, host)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]* (producer, season three)
@@ -52,16 +52,16 @@ A post from her about the first improv show she ever saw:<blockquote>I saw "Star
 * *[[Shows/Danger!|Danger!]]* (performer, improv)
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (performer, improv 2013- 2015)
 * *[[The Informal Pig Show]]* (host)
-* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
+* *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (performer, scripted, "Katie")
 * *[[The Moral Compass Rumpus]]* (performer, scripted, 1-time fill in)
-* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
-* *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (tech)
-* *[[Live TV Tuesdays -  Saved by the Bell]]* (stage manager)
-* *[[Live TV Tuesdays -  Scrubs]]* (co-producer, co-director / Gooch)
+* *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
+* *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (tech)
+* *[[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]]* (stage manager)
+* *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]* (co-producer, co-director / Gooch)
 
 ## Awards
 * [[The 2014 Institution Theater Awards]]: winner, The Audience Member Award.
 
-* [[The 2013 Institution Theater Awards]]: nominated for Favorite Female Performer, The Audience Award, Favorite Director (for *[[Live TV Tuesdays -  Scrubs]]*) Favorite Show (as Producer) (for *[[Live TV Tuesdays -  Scrubs]]*), and Favorite Video ( for "Dr. Horrible's Sing-Along Blog")- Winner
+* [[The 2013 Institution Theater Awards]]: nominated for Favorite Female Performer, The Audience Award, Favorite Director (for *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]*) Favorite Show (as Producer) (for *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]*), and Favorite Video ( for "Dr. Horrible's Sing-Along Blog")- Winner
 [[Category/Performers|Chauvin]]

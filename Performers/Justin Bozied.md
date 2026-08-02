@@ -33,7 +33,7 @@
 ## Shows
 * *[[Shows/The Black Vault|The Black Vault]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
-* *[[Magna Veritas]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Shows/The Next Chapter|The Next Chapter]]* (creator, director, and performer)
 * *[[Shows/You Think You're So Smart|You Think You're So Smart]]* (creator, director, and performer)
 * *[[Shows/Spirited|Spirited]]*
@@ -45,7 +45,7 @@
 * *[[Shows/Maestro|Maestro]]* (2000-) (director, performer)
 * ''[[Shows/The Nightmare Video Project|The Nightmare Video Project]]
 * ''[[Shows/Pick Your Own Path|Pick Your Own Path]]
-* ''[[The Tribunal]]
+* ''[[Shows/The Tribunal|The Tribunal]]
 * ''[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]] (guest villain)
 
 [[Category/Performers|Davis]]

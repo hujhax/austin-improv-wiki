@@ -41,8 +41,8 @@ Gene Zhou started improv in 2010 when he got thirsty walking downtown and wander
 * *[[Shows/Austin's Next Top Improviser|Austin's Next Top Improviser]]*
 * *[[Shows/Haunted|Haunted]]*
 * *[[Shows/Not This American Life|Not This American Life]]*
-* *[[PIP on TV]]*
-* *[[Puppet Fever]]*
+* *[[Shows/PIP on TV|PIP on TV]]*
+* *[[Shows/Puppet Fever|Puppet Fever]]*
 * *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]* (tech)
 * *[[Shows/Start Trekkin'|Start Trekkin']]* (tech)
 * *[[Shows/Twilight Zoned|Twilight Zoned]]* (tech)

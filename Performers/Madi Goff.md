@@ -37,8 +37,8 @@ She currently works as administrator for the Impro Theatre School in Los Angeles
 ## Shows
 * *[[69 Love Scenes]]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[Crack!]]*
-* *[[Dusk]]*
+* *[[Shows/Crack!|Crack!]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * *[[Shows/Heist!|Heist!]]*
 * *[[Shows/One More Night|One More Night]]*

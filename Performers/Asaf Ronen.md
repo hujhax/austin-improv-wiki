@@ -51,12 +51,12 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (touring performer)
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]* (director)
-* *[[Hyperlinks]]* (director)
+* *[[Shows/Hyperlinks|Hyperlinks]]* (director)
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
-* *[[The Joss Whedon Pajama Party]]* (director)
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]* (director)
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]* (director)
-* *[[Live TV Tuesdays -  Firefly]]* (director)
-* *[[Only Three Will Survive]]* (director)
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (director)
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]* (director)
 * *[[Shows/The Rubber Room|The Rubber Room]]* (director)
 * *[[Sickest Fing Stories]]* (director)
 * *[[Shows/Spirited|Spirited]]* (director)

@@ -32,7 +32,7 @@ Colin moved away to Houston in 2012.
 * [[Troupes/Stone Airplane|Stone Airplane]]
 
 ## Shows
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Not This American Life|Not This American Life]]*
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (David Silver)
 

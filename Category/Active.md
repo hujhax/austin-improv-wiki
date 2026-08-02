@@ -265,7 +265,7 @@
 * [[Troupes/Three on a Match]]
 * [[Troupes/Too Shy Guys]]
 * [[Performers/Topping Haggerty]]
-* [[Townsville]]
+* [[Shows/Townsville]]
 * [[Troupes/Twine]]
 * [[Troupes/Twins]]
 * [[Troupes/Two Guys from Yonkers]]

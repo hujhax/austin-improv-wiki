@@ -82,9 +82,9 @@ A post from him about the first improv show he ever saw:<blockquote>Winter of 20
 
 ## Shows
 * *[[Shows/Hitchcocked!|Hitchcocked!]]* (tech)
-* *[[The Joss Whedon Pajama Party]]* 
-* *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Bad Horse Chorus)
-* *[[Live TV Tuesdays -  Freaks and Geeks]]* (tech)
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]* 
+* *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Bad Horse Chorus)
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (tech)
 * *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]* (sound tech)
 * *[[Shows/Spirited|Spirited]]* (music)
 * *[[Shows/Start Trekkin'|Start Trekkin']]* (sound tech)

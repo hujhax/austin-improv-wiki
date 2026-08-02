@@ -19,6 +19,6 @@
 	</table>
 </div>
 
-**David Young** is an actor.  He played Corbin in *[[Live TV Tuesdays -  Firefly]]*.
+**David Young** is an actor.  He played Corbin in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*.
 
 [[Category/Performers|Young]]

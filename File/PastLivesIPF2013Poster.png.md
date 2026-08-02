@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="PastLivesIPF2013Poster.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity graphic for *[[Troupes/Past Lives|Past Lives]]*.
+Publicity graphic for *[[Shows/Past Lives|Past Lives]]*.
 
 Photos and art by [[Performers/Mia Iseman|Mia Iseman]].
 

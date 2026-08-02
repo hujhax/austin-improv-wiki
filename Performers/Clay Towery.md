@@ -36,11 +36,11 @@ He passed away unexpectedly the morning of February 13, 2014.
 ## Shows
 * *[[Shows/The Black Vault|The Black Vault]]*
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
-* *[[Crack!]]*
+* *[[Shows/Crack!|Crack!]]*
 * *[[Shows/Doctors Without Boundaries|Doctors Without Boundaries]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
-* *[[Puppet Fever]]*
-* *[[Seance]]* (director)
+* *[[Shows/Puppet Fever|Puppet Fever]]*
+* *[[Shows/Seance|Seance]]* (director)
 * *[[Shows/Showdown|Showdown]]* (Clement Merseault)
 * *[[Shows/Spirited|Spirited]]*
 

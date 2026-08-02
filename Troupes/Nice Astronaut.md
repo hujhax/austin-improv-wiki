@@ -75,7 +75,7 @@
 ## History
 Nice Astronaut was the first permanent, self-formed troupe from [[Coldtowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008, under the name *HJ Compromise*.  They were originally coached by [[Performers/Tom Booker|Tom Booker]] (2008-2009) and were later coached by [[Performers/Dave Buckman|Dave Buckman]] (2009-2011, 2013) and then [[Performers/Cody Dearing|Cody Dearing]] (2013-).
 
-In 2011, [[Performers/Nicole McCracken|Nicole McCracken]] and Tim formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
+In 2011, [[Performers/Nicole McCracken|Nicole McCracken]] and Tim formed a separate troupe named [[Shows/Townsville|Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
 
 ## Teaching
 Nice Astronaut taught improv and sketch workshops in Austin, Phoenix, and Houston in 2013-2014.
@@ -139,7 +139,7 @@ Nice Astronaut has performed at the following festivals
 Nice Astronaut also hosted the short lived ["Nomad Comedy Nights"](http://blog.coldtownetheater.com/wp-content/uploads/2009/06/nomad-poster-june09b.jpg) on Wednesdays at Nomad Bar during the summer of 2009.
 
 ## See Also
-* [[Townsville]]
+* [[Shows/Townsville|Townsville]]
 * [[Troupes/Who Dack|Who Dack]]
 * [[Troupes/Kingston|Kingston]]
 * [[Troupes/First United Methodist Church of Plano's Youth Group Improv|First United Methodist Church of Plano's Youth Group Improv]]

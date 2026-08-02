@@ -9,10 +9,10 @@ The awards ceremony was held on 1/27/13.
 Winners are listed in **bold text**.
 
 ### Favorite [[Shows/Live TV Tuesdays|Live TV Tuesdays]] Show
-* ***[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
-* *[[Live TV Tuesdays -  Firefly]]*
-* *[[Live TV Tuesdays -  Freaks and Geeks]]*
-* *[[Live TV Tuesdays -  Scrubs]]*
+* ***[[Shows/Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]*
+* *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]*
 
 ### Favorite Improvised "Something" Show
 * *[[Shows/Danger!|Danger!]]*
@@ -27,10 +27,10 @@ Winners are listed in **bold text**.
 * *[[Shows/This American Live|This American Live]]*
 
 ### Favorite Director of a Scripted Show
-* [[Performers/Asaf Ronen|Asaf Ronen]], for *[[Live TV Tuesdays -  Firefly]]*
-* **[[Performers/Heidi Caldwell|Heidi Caldwell]], for *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
-* [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] & [[Performers/Kevin Machate|Kevin Machate]], for *[[Live TV Tuesdays -  Scrubs]]*
-* [[Performers/Ted Meredith|Ted Meredith]], for *[[Live TV Tuesdays -  Freaks and Geeks]]*
+* [[Performers/Asaf Ronen|Asaf Ronen]], for *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*
+* **[[Performers/Heidi Caldwell|Heidi Caldwell]], for *[[Shows/Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
+* [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] & [[Performers/Kevin Machate|Kevin Machate]], for *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]*
+* [[Performers/Ted Meredith|Ted Meredith]], for *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]*
 
 ### Favorite Director of an Improvised Show
 * [[Amy Dietz]], for *[[Shows/Danger!|Danger!]]*
@@ -63,7 +63,7 @@ Winners are listed in **bold text**.
 * [[Performers/Topping Haggerty|Topping Haggerty]]
 
 ### Favorite Original Video
-* **"A Brand New Day" from *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
+* **"A Brand New Day" from *[[Shows/Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
 * "Good Morning" from *[[The Moral Compass Rumpas]]*
 * "It Gets Fatter" from *[[Shows/Thinning The Herd|Thinning The Herd]]*
 * "SXSW Hot Spots" from *[[The Moral Compass Rumpas]]*
@@ -73,12 +73,12 @@ Winners are listed in **bold text**.
 * "Be less King Kong, be more Godzilla" -- [[Performers/Asaf Ronen|Asaf Ronen]] in class
 * **"Do you know how many fat people have already sat in that chair tonight!" -- [[Performers/Heidi Caldwell|Heidi Caldwell]] to [[Performers/Tyler Bryce|Tyler Bryce]] after he sat in a chair on stage and it collapsed, in [[Shows/Thinning The Herd|Thinning The Herd]]**
 * "I hope somebody makes it rain" -- [[Performers/Sarah Swofford|Sarah Swofford]] as a stripper who has just learned that the strip club she is in, is currently on fire, performing in [[The Birthday Clusterfunk]] 8/9/12
-* "I need a Fluffer!" [[Performers/Heath Allyn|Heath Allyn]] as Angel the puppet after getting the stuffing ripped out of him by Nina the werewolf in *[[Live TV Tuesdays -  Angel]]*
-* "My rainstick is raw" -- [[Performers/Jason Vines|Jason Vines]] in *[[Live TV Tuesdays -  Firefly]]*
+* "I need a Fluffer!" [[Performers/Heath Allyn|Heath Allyn]] as Angel the puppet after getting the stuffing ripped out of him by Nina the werewolf in *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]*
+* "My rainstick is raw" -- [[Performers/Jason Vines|Jason Vines]] in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*
 * "She doesn't have a bad attitude, she has a fucking devil in her" -- [[Performers/Troy Miller|Troy Miller]] in [[Troupes/Confidence Men|Confidence Men]]'s "Mamet Goes to the Movies" treatment of  *The Exorcist*
-* "Space Herpes" (an improvised song) -- [[Performers/Heath Allyn|Heath Allyn]] in *[[Live TV Tuesdays -  Firefly]]*
+* "Space Herpes" (an improvised song) -- [[Performers/Heath Allyn|Heath Allyn]] in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*
 * "Unfortunately, balls aren't thrown by nuns" -- [[Regina Soto]] as a soon to be nun being driven to the nunnery by her husband, daughter and the family dog, when the dog asks "You're still gonna throw the ball right?" performing with [[Troupes/IScream Sandwich|IScream Sandwich]] in [[Shows/The Triple Scoop|The Triple Scoop]] 12/8/12
-* "We ran out of Space Ice" -- [[Performers/Michael Thomas|Michael Thomas]] in *[[Live TV Tuesdays -  Firefly]]*
+* "We ran out of Space Ice" -- [[Performers/Michael Thomas|Michael Thomas]] in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*
 * "When you've left the city limits, where are you?" -- [[Performers/Brandon Martin|Brandon Martin]] in *[[Shows/This American Live|This American Live]]*
 * "You know when you cry, I lose respect for you as a pilot, and respect is like half of what being a pilot is" -- [[Marcus Hysmith]] in [[Troupes/Dumbasses|Dumbasses]] performing in [[The Birthday Clusterfunk]] 3/25/12
 * "You need the healing power of the U-KU-LE-LE" -- [[Performers/Heath Allyn|Heath Allyn]] as Manson to Tex Watson before singing his solo in *[[Shows/Manson -  The Musical|Manson -  The Musical]]*

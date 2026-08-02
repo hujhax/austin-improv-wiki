@@ -28,11 +28,11 @@ Carissa moved from Dallas to Austin in 2011.
 * [[Troupes/IScream Sandwich|IScream Sandwich]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Angel]]* (Nina)
-* *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Groupie Chorus)
-* *[[Live TV Tuesdays -  Party of Five]]* (Julia)
-* *[[Live TV Tuesdays -  Scrubs]]* (choreographer)
-* *[[Live TV Tuesdays -  South Park]]* (Wendy)
+* *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]* (Nina)
+* *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Groupie Chorus)
+* *[[Shows/Live TV Tuesdays -  Party of Five|Live TV Tuesdays -  Party of Five]]* (Julia)
+* *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]* (choreographer)
+* *[[Shows/Live TV Tuesdays -  South Park|Live TV Tuesdays -  South Park]]* (Wendy)
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (choreographer)
 
 [[Category/Performers|McAtee]]

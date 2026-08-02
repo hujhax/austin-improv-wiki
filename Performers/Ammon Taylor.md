@@ -35,7 +35,7 @@ Pianist Ammon Taylor is best known as the current accompanist for [[Troupes/Girl
 * *[[Shut Up and Sing]]* (accompanist)
 * *[[Shows/Maestro|Maestro]]* (accompanist)
 * *[[Shows/TheatreSports|TheatreSports]]* (accompanist)
-* *[[Trash]]* (composer)
+* *[[Shows/Trash|Trash]]* (composer)
 * *[[Shows/Happily Ever After|Happily Ever After]]* (Musical director)
 * *[[Shows/A Deed So Dark|A Deed So Dark]]* (Musical director)
 

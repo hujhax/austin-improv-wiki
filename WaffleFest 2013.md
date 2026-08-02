@@ -28,7 +28,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]* and a teen showcase.
 * [[Troupes/Local Genius Society|Local Genius Society]]
 * [[Troupes/Midnight Society|Midnight Society]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-* [[Troupes/Past Lives|Past Lives]]
+* [[Shows/Past Lives|Past Lives]]
 * [[Troupes/Simply D-VINE|Simply D-VINE]]
 * [[Troupes/Squirrel Buddies|Squirrel Buddies]]
 * [[Troupes/Water Park|Water Park]]

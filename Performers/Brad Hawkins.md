@@ -40,7 +40,7 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 ## Shows
 ### Improvised
 * *[[Shows/Family Tides|Family Tides]]*
-* *[[Magna Veritas]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
 * *[[Shows/The Black Vault|The Black Vault]]*
 * *[[Shows/The Next Chapter|The Next Chapter]]*
@@ -52,6 +52,6 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 * *[[All Hell Breaks Loose]]*
 
 ### Non-Improvised
-* *[[Live TV Tuesdays -  Felicity]]*
+* *[[Shows/Live TV Tuesdays -  Felicity|Live TV Tuesdays -  Felicity]]*
 * *[[Shows/The Cherry Bowl|The Cherry Bowl]]*
 [[Category/Performers|Hawkins]]

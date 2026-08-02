@@ -2,7 +2,7 @@
 
 * [[Shows/Booker and a Buddy]]
 * [[Shows/Boys of Summer]]
-* [[Breaking Beckett]]
+* [[Shows/Breaking Beckett]]
 * [[Shows/GrimmNoir]]
 * [[Shows/Highly Suggestible]]
 * [[Shows/Improv Anonymous]]

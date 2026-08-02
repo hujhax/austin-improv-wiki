@@ -17,7 +17,7 @@ Winners are listed in **bold text**.
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*
 * ***[[Shows/Fuck It's Hot|Fuck It's Hot]]***
 * *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]*
-* *[[Lovefest]]*
+* *[[Shows/Lovefest|Lovefest]]*
 * *[[Shows/Not This American Life|Not This American Life]]*
 
 ### Favorite "One Off" Show
@@ -29,13 +29,13 @@ Winners are listed in **bold text**.
 
 ### Favorite Director
 * **[[Performers/Asaf Ronen|Asaf Ronen]], for *[[Shows/The Suitcase|The Suitcase]]***
-* [[Performers/Clifton Highfield|Clifton Highfield]], for *[[Lovefest]]*
+* [[Performers/Clifton Highfield|Clifton Highfield]], for *[[Shows/Lovefest|Lovefest]]*
 * [[Performers/Justin Davis|Justin Davis]], for *[[Shows/The Next Chapter|The Next Chapter]]*
 * [[Performers/Tom Booker|Tom Booker]], for *[[Shows/Fuck It's Hot|Fuck It's Hot]]*
 * [[Performers/Tyler Bryce|Tyler Bryce]], for *[[Shows/Thinning The Herd|Thinning The Herd]]*
 
 ### Favorite Tech Performer
-* [[Performers/Chelley Pyatt|Chelley Pyatt]], for *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*, *[[Shows/Fuck It's Hot|Fuck It's Hot]]*, *[[The Joss Whedon Pajama Party]]*, and *[[Shows/The Next Chapter|The Next Chapter]]*.
+* [[Performers/Chelley Pyatt|Chelley Pyatt]], for *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*, *[[Shows/Fuck It's Hot|Fuck It's Hot]]*, *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*, and *[[Shows/The Next Chapter|The Next Chapter]]*.
 * [[Performers/Cindy Page|Cindy Page]], for *[[Shows/False Matters|False Matters]]* and *[[Shows/Hell and Back Cabaret|Hell and Back Cabaret]]*.
 * [[Performers/Cindy Page|Cindy Page]] & [[Performers/Chad Wellington|Chad Wellington]], for *[[Shows/Thinning The Herd|Thinning The Herd]]*.
 * [[Courtney DeAngelo]], for *[[Shows/The Suitcase|The Suitcase]]* and *[[Shows/Hell and Back Cabaret|Hell and Back Cabaret]]*.

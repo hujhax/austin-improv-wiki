@@ -23,7 +23,7 @@
 
 ## Summary
 From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/arthur-simone):
-<blockquote><p>Arthur Simone is an actor, artist and co-founder of Austin's ColdTowne Theater. He graduated in Theatre from Oberlin College and studied improvisation at Chicago's Improv Olympic. Notable live performances have included [[Troupes/Buddy Daddy|improv with a dog]], Carla Goodman's Failure: a Big StupidMess, Rubber Repertory's Jubilee and his one-man show *[[Dear Frailty]]*, which earned him an award as Best Actor in Austin.</p>
+<blockquote><p>Arthur Simone is an actor, artist and co-founder of Austin's ColdTowne Theater. He graduated in Theatre from Oberlin College and studied improvisation at Chicago's Improv Olympic. Notable live performances have included [[Troupes/Buddy Daddy|improv with a dog]], Carla Goodman's Failure: a Big StupidMess, Rubber Repertory's Jubilee and his one-man show *[[Shows/Dear Frailty|Dear Frailty]]*, which earned him an award as Best Actor in Austin.</p>
 
 <p>As a film and television actor, he's appeared in everything from *Big Momma's House 2* to *Parkland*. Arthur has been a sometime fixture on the annual East Austin Studio Tour and has been a finalist for the Hunting Art Prize.</p></blockquote>
 
@@ -40,10 +40,10 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 
 ## Shows
 * *[[Shows/Braised in Texas|Braised in Texas]]*
-* *[[Dear Frailty]]*
+* *[[Shows/Dear Frailty|Dear Frailty]]*
 
 ### Guest Appearances
-* *[[Crack!]]* (8/7/10)
+* *[[Shows/Crack!|Crack!]]* (8/7/10)
 * *[[Shows/Boys of Summer|Boys of Summer]]* (2006 run)
 
 ## More Information

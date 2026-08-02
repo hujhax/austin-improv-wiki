@@ -45,7 +45,7 @@ In 2013, she applied her improv skills to her professional acting work, becoming
 * *[[Shows/Maestro|Maestro]]* at the [[Hideout Theater]]
 * *[[Shows/After School Improv|After School Improv]]* (2009 crew - sound improviser) at the [[Hideout Theater]]
 * *[[Shows/Fancy Pants Mash Up|Fancy Pants Mash Up]]* at the [[Hideout Theater]]
-* *[[Only Three Will Survive]]* at The [[Institution Theater]]
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]* at The [[Institution Theater]]
 * *[[Shows/The ReSet Project|The ReSet Project]]* (produced by [[Performers/Leng Wong|Leng Wong]], Lucky Chaos Theater) at [[Salvage Vanguard Theater]]
 
 [[Category/Performers|Center]]

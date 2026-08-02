@@ -82,7 +82,7 @@ In January 2012, Andrew Pish moved to Los Angeles.  While there, he's studied wi
 * [[Troupes/The Professor|The Professor]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Buffy]]* (Angel)
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Angel)
 * *[[Shows/Spirited|Spirited]]*
 
 ## More Information

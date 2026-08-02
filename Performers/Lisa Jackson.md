@@ -85,7 +85,7 @@ Lisa appeared in [[The 42-Hour Improv Marathon]], and [[The 44-Hour Improv Marat
 
 ## Shows
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Crack!]]*
+* *[[Shows/Crack!|Crack!]]*
 * *[[Shows/Family Tides|Family Tides]]*
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/Manhattan Stories|Manhattan Stories]]*

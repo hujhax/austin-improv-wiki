@@ -26,7 +26,7 @@
 * [[Troupes/Goat|Goat]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Party of Five]]* (Charlie)
+* *[[Shows/Live TV Tuesdays -  Party of Five|Live TV Tuesdays -  Party of Five]]* (Charlie)
 * *[[Shows/Strange Worlds|Strange Worlds]]* (Nate Jester)
 * *[[Shows/The Suitcase|The Suitcase]]*
 

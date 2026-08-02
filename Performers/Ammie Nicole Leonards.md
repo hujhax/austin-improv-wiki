@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-**Ammie Nicole Leonards** is an actress.  She played Zoe in *[[Live TV Tuesdays -  Firefly]]*.
+**Ammie Nicole Leonards** is an actress.  She played Zoe in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*.
 
 ## Shows
-* *[[The Joss Whedon Pajama Party]]*
-* *[[Live TV Tuesdays -  Firefly]]* (Zoe)
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (Zoe)
 
 [[Category/Performers|Leonards]]

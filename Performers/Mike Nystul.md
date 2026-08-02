@@ -87,8 +87,8 @@ In 2010, Nystul founded [[The Lair]], an improv theater in Round Rock, Texas.
 ## Shows
 * *[[Troupes/Epic|Epic]]* (performer, director)
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
-* *[[Live TV Tuesdays -  South Park]]* (Randy Marsh)
-* *[[The Tribunal]]* (show #2)
+* *[[Shows/Live TV Tuesdays -  South Park|Live TV Tuesdays -  South Park]]* (Randy Marsh)
+* *[[Shows/The Tribunal|The Tribunal]]* (show #2)
 
 [[Category/Performers|Nystul]]
 [[Category/Directors|Nystul]]

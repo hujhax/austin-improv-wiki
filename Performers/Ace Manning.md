@@ -30,7 +30,7 @@ Ace was a company member of [[Gnap! Theater Projects]].
 * [[Troupes/Well Hung Jury|Well Hung Jury]]
 
 ## Shows
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/Lola|Lola]]*

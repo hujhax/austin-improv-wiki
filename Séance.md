@@ -1,4 +1,0 @@
----
-redirect: "Seance"
----
-#REDIRECT [[Seance]]

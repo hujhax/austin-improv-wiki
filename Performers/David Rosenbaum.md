@@ -10,7 +10,7 @@
 
 ## Shows
 * *[[Shows/Danger! The Improvised Lifetime Movie|Danger! The Improvised Lifetime Movie]]*
-* *[[Only Three Will Survive]]*
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Akimbo Bubble Scuttle Ruckus]]*
 * *[[The Moral Compass Rumpus]]*
 [[Category/Performers|Category:Performers]]

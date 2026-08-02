@@ -36,7 +36,7 @@ He is a regular cast member of *[[Shows/Flying Theater Machine|Flying Theater Ma
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Key Party]]*
 * *[[Shows/The Next Chapter|The Next Chapter]]*
-* *[[Only Three Will Survive]]*
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Troupes/Taxi Cab Impressions|Taxi Cab Impressions]]*
 * *[[Troupes/Scrabbled|Scrabbled]]*
 

@@ -33,8 +33,8 @@ Jon moved to Austin in 2007, and then moved to New York City in 2011.
 
 ## Shows
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
-* *[[Hyperlinks]]*
-* *[[Live TV Tuesdays -  Dawson's Creek]]* (Pacey Witter)
+* *[[Shows/Hyperlinks|Hyperlinks]]*
+* *[[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]]* (Pacey Witter)
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 
 ## More Information

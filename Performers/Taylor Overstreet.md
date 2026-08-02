@@ -33,9 +33,9 @@ In 2014, Taylor moved away to Chicago.
 * *[[Troupes/Array|Array]]*
 * *[[Shows/Braised in Texas|Braised in Texas]]*
 * *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
-* *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Penny)
-* *[[Live TV Tuesdays -  Party of Five]]* (Kirsten)
-* *[[Only Three Will Survive]]*
+* *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Penny)
+* *[[Shows/Live TV Tuesdays -  Party of Five|Live TV Tuesdays -  Party of Five]]* (Kirsten)
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Shows/Pulp Friction|Pulp Friction]]*
 * *[[Shows/Spirited|Spirited]]*
 

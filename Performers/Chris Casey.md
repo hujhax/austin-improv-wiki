@@ -36,7 +36,7 @@ He was inspired to try improv by his kids who also took classes at [[The Hideout
 * *[[Shows/Fancy Pants|Fancy Pants]]*
 * *[[Shows/2x4|2x4]]*
 * *[[Musical Night at Indra's]]*
-* *[[Impromp-Two]]*
+* *[[Shows/Impromp-Two|Impromp-Two]]*
 * *[[Alamo City Improv]]*
 * *[[Duo Night at Station Theatre]]*
 * *[[Shows/All You Need is Love|All You Need is Love]]*

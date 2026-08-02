@@ -30,8 +30,8 @@ Nancy has enjoyed performing at [[Coldtowne Theater]], [[The Hideout Theatre]], 
 * [[Troupes/The Wine Smugglers|The Wine Smugglers]]
 
 ## Shows
-* *[[Off the Reef]]*
-* *[[Crack!]]*
+* *[[Shows/Off the Reef|Off the Reef]]*
+* *[[Shows/Crack!|Crack!]]*
 
 
 [[Category/Performers|Lyon]]

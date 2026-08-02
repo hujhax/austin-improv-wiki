@@ -36,12 +36,12 @@ Ruby Willmann started taking improv classes after seeing a [[Troupes/Parallelogr
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*
 * *[[Shows/Kenjutsu|Kenjutsu]]*
-* *[[Live TV Tuesdays -  Buffy]]* (Assistant Director)
-* *[[Live TV Tuesdays -  My So-Called Life]]*
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Assistant Director)
+* *[[Shows/Live TV Tuesdays -  My So-Called Life|Live TV Tuesdays -  My So-Called Life]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
-* *[[Magna Veritas]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Shows/Not This American Life|Not This American Life]]*
-* *[[Only Three Will Survive]]*
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
 * *[[Shows/Process|Process]]*
 * *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*

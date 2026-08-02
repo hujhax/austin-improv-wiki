@@ -27,7 +27,7 @@
 * *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
 
 ### Non-Improvised
-* *[[South Park Live]]*
+* *[[Shows/South Park Live|South Park Live]]*
 * *[[Comedy Dance Camp]]*
 
 [[Category/Performers|Harris]]

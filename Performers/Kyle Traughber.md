@@ -34,10 +34,10 @@ Kyle was a company member with [[Gnap! Theater Projects]].
 * [[Troupes/Senshi Sokkyo|Senshi Sokkyo]]
 
 ## Shows
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Heist!|Heist!]]*
-* *[[Live TV Tuesdays -  Freaks and Geeks]]* (Daniel Desario)
-* *[[Live TV Tuesdays -  My So-Called Life]]* (Jordan Catalano)
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Daniel Desario)
+* *[[Shows/Live TV Tuesdays -  My So-Called Life|Live TV Tuesdays -  My So-Called Life]]* (Jordan Catalano)
 * *[[Shows/One More Night|One More Night]]*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
 * *[[Shows/The Sandbox|The Sandbox]]* (creator)

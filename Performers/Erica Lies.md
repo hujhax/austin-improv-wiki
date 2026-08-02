@@ -39,8 +39,8 @@ Erica Lies is a writer, improviser, and teacher in Austin. She’s been writing 
 * [[Damn Gina Presents Night Watch]] (director)
 * [[Shows/Highly Suggestible|Highly Suggestible]] (director, producer)
 * [[It Takes Two -  A Night of Almost Famous Comedy Duos]] (producer)
-* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (Andrea Zuckerman)
-* *[[Live TV Tuesdays -  Saved by the Bell]]*
+* *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (Andrea Zuckerman)
+* *[[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]]*
 * "[[New Year, Same Shit (ColdTowne TourCo)]]"
 * *[[Shows/Rapture The Flag|Rapture The Flag]]*
 * "[[Shows/Stool Pigeon|Stool Pigeon]]"

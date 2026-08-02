@@ -94,7 +94,7 @@ A post from him about the first improv show he ever saw:<blockquote>The first sh
 * The Austin Monologue Jam
 
 ## Shows
-* *[[The Joss Whedon Pajama Party]]*
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
 * *[[Shows/Thinning The Herd|Thinning The Herd]]* (director)
 * *[[Shows/Fuck, It's Hot|Fuck, It's Hot]]*
 

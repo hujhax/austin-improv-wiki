@@ -15,7 +15,7 @@ This **List of Gnap! Theater Projects Shows** is designed to be transcluded into
 * *[[Shows/Crack! The Improvised Puppet Musical|Crack! The Improvised Puppet Musical]]* (PIP/Gnap 2009, 2010)
 * *[[Shows/Doctors Without Boundaries|Doctors Without Boundaries]]*
 * *[[Shows/Dusk - Improvised Tween Erotica|Dusk - Improvised Tween Erotica]]*
-* *[[Elf Employment]]* (PIP/Gnap 2011)
+* *[[Shows/Elf Employment|Elf Employment]]* (PIP/Gnap 2011)
 * *[[Shows/False Matters|False Matters]]* (2011)
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * *[[Shows/Haunted|Haunted]]*
@@ -26,7 +26,7 @@ This **List of Gnap! Theater Projects Shows** is designed to be transcluded into
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (2012)
 * *[[Troupes/The Professor|The Professor]]* (2012)
 * *[[Shows/The Sandbox|The Sandbox]]*
-* *[[Seance]]* (2012)
+* *[[Shows/Seance|Seance]]* (2012)
 * *[[Shows/Showdown|Showdown]]* (2011)
 * *[[Shows/Steam|Steam]]* (2012)
 * *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]*

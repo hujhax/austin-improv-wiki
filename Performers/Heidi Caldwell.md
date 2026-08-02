@@ -34,9 +34,9 @@ Heidi is currently studying to be a Certified Therapeutic Recreational Specialis
 * [[Troupes/IScream Sandwich|IScream Sandwich]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Angel]]* (Harmony)
-* *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (director)
-* *[[Live TV Tuesdays -  Party of Five]]* (director)]
+* *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]* (Harmony)
+* *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (director)
+* *[[Shows/Live TV Tuesdays -  Party of Five|Live TV Tuesdays -  Party of Five]]* (director)]
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]*  (Gypsy, Abigail Folger)
 * *[[Shows/Not This American Life|Not This American Life]]*
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*

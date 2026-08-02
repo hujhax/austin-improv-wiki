@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Off the Reef.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity banner art for *[[Off the Reef]]*.
+Publicity banner art for *[[Shows/Off the Reef|Off the Reef]]*.
 
 Art by [[Performers/Sara Farr|Sara Farr]].
 ## Licensing

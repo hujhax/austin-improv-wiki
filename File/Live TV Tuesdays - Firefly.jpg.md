@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Live TV Tuesdays - Firefly.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The cast of *[[Live TV Tuesdays -  Firefly]]* takes a bow.
+The cast of *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* takes a bow.
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.348540731881279.76730.118587218209966&type=3).
 

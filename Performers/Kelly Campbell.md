@@ -80,7 +80,7 @@ Ms. Campbell saw her first improv show in high school, at UCB in New York City. 
 * *[[Shows/Close Up|Close Up]]*
 * *[[Shows/Fiasco|Fiasco]]* (scoring tech)
 * *[[Hardish Bodies]]*
-* *[[The Jukebox Musical Project]]* ("Karma Police")
+* *[[Shows/The Jukebox Musical Project|The Jukebox Musical Project]]* ("Karma Police")
 * *[[Shows/Lonely Star|Lonely Star]]*
 * *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*
 * *[[The Fool's Well]]*

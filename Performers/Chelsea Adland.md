@@ -42,7 +42,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>I saw so
 * [[Troupes/We Could Be Heroes|We Could Be Heroes]] (2000-2002)
 
 ## Shows
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * *[[Shows/One More Night|One More Night]]*
 

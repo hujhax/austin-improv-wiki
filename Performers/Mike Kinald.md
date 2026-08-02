@@ -35,7 +35,7 @@ He was asked to join the newly forming Austin troupe [[Troupes/Improv For Evil|I
 
 ## Shows
 * *[[The Blank Show]]*
-* *[[Blue Maestro]]*
+* *[[Shows/Blue Maestro|Blue Maestro]]*
 * *[[Shows/The Cagematch|The Cagematch]]* (host, 2007)
 * *[[Shows/Cochise|Cochise]]*
 * *[[Troupes/ComedySportz|ComedySportz]]*
@@ -50,7 +50,7 @@ He was asked to join the newly forming Austin troupe [[Troupes/Improv For Evil|I
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
 * *[[Splatter Theater]]*
 * *[[Shows/TheatreSports|TheatreSports]]* (2007)
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 * *[[Late Night Time Machine With Teddy Hancox]]*
 
 [[Category/Performers|Kinald]]

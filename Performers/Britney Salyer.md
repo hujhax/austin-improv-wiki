@@ -76,12 +76,12 @@
 Britney was a company member of [[Gnap! Theater Projects]].
 
 ## Shows
-* *[[Dusk]]* (box office)
+* *[[Shows/Dusk|Dusk]]* (box office)
 * *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]* (tech)
-* *[[Live TV Tuesdays -  Dawson's Creek]]* (stage manager)
-* *[[Live TV Tuesdays -  My So-Called Life]]* (Rayanne Graff)
+* *[[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]]* (stage manager)
+* *[[Shows/Live TV Tuesdays -  My So-Called Life|Live TV Tuesdays -  My So-Called Life]]* (Rayanne Graff)
 * *[[Shows/The Sandbox|The Sandbox]]*
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 
 [[Category/Performers|Salyer]]
 [[Category/Active|Category:Active]]

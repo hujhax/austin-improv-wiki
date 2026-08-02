@@ -74,7 +74,7 @@ PREVIOUS
 * [[McNichol & May -  Great Americans]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Freaks and Geeks]]* (Mr. Weir)
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Mr. Weir)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
 
 ## More Information

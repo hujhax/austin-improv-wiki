@@ -87,17 +87,17 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 * *[[Shows/Happily Ever After|Happily Ever After]]* (technical director, light tech)
 * *[[Shows/Buzz Band|Buzz Band]]*
 * *[[Shows/Wanderlust|Wanderlust]]* (light tech)
-* *[[Trash]]* (Phil, Mayor, Heap)
+* *[[Shows/Trash|Trash]]* (Phil, Mayor, Heap)
 * *[[Shows/The Dahl House|The Dahl House]]*
 * *[[Shows/Hurly Burly|Hurly Burly]]*
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Shows/Racket|Racket]]*
-* *[[The Joss Whedon Pajama Party]]*
-* *[[Live TV Tuesdays -  Angel]]* (Groofus, Knox)
-* *[[Live TV Tuesdays -  Firefly]]* (sound tech)
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
+* *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]* (Groofus, Knox)
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (sound tech)
 * *[[Shows/Strange Worlds|Strange Worlds]]* (light tech)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]* (tech)
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]* (tech)
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (light tech)
 

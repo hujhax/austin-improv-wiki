@@ -36,9 +36,9 @@ In 2012, he moved away to Los Angeles.
 ## Shows
 * *[[Shows/The Andersons|The Andersons]]* (director)
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
-* *[[Crack!]]*
+* *[[Shows/Crack!|Crack!]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
-* *[[Live TV Tuesdays -  Saved by the Bell]]* (Zack Morris)
+* *[[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]]* (Zack Morris)
 * *[[Shows/TheatreSports|TheatreSports]]*
 
 [[Category/Performers|Daniel]]

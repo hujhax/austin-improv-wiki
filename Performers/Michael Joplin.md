@@ -31,8 +31,8 @@
 
 ## Shows
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
-* *[[Dusk]]*
-* *[[The Family]]*
+* *[[Shows/Dusk|Dusk]]*
+* *[[Shows/The Family|The Family]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]* (director)
 * *[[Shows/Heist!|Heist!]]* (director)
 * *[[Shows/Lola|Lola]]*

@@ -23,7 +23,7 @@
 
 ## History
 ## Shows
-* *[[Breaking Beckett]]* (Tech)
+* *[[Shows/Breaking Beckett|Breaking Beckett]]* (Tech)
 * *[[Shows/RISEN|RISEN]]* (Tech)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
 

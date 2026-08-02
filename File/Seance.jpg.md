@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Seance.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Show poster for *[[Seance]]*, featuring the cast.
+Show poster for *[[Shows/Seance|Seance]]*, featuring the cast.
 
 Photo and art by [[Roy Moore]].
 ## Licensing

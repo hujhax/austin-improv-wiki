@@ -31,7 +31,7 @@ In late 2008, Josh moved in with [[Performers/Arthur Simone|Arthur Simone]], co-
 * [[Troupes/Nice Astronaut|Nice Astronaut]] (2010-2012)
 
 ## Shows
-* *[[Dear Frailty]]* (tech)
+* *[[Shows/Dear Frailty|Dear Frailty]]* (tech)
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]*  (Tex Watson)
 
 ## More Information

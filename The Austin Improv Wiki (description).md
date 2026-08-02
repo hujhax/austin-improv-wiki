@@ -5,7 +5,7 @@
 The goal of the wiki is to document everything relevant to Austin improv.  This includes primarily theaters, shows, troupes, and performers, but can range beyond that to anything in the scene, from the [[Bloody Balloon Battle]] to the [[The Skull on Stick|Hideout's skull-on-a-stick prop]].
 
 #### Non-Improv Inclusions
-This wiki includes many scripted productions such as *[[Blood, Sweat, and Cheers]]*.  While scripted work is not, strictly speaking, Austin improv, the productions documented here either include many Austin improvisors in the production, or use improv as part of a devising process that generates the show's material.  Many (including *[[Blood, Sweat, and Cheers]]*) do both.
+This wiki includes many scripted productions such as *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]*.  While scripted work is not, strictly speaking, Austin improv, the productions documented here either include many Austin improvisors in the production, or use improv as part of a devising process that generates the show's material.  Many (including *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]*) do both.
 
 #### Things Outside the Wiki's Scope
 Note that this is an intersection of two topics -- "Austin" and "improv".  This means that topics documented here have to be relevant to both of those things.  General information about Austin (say, favorite restaurants) or general information about improv (say, favorite warm-up exercises) should not be included here.  The [[Main Page]] includes links to general Austin information and general improv information.

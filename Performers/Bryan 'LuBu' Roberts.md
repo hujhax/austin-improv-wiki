@@ -52,8 +52,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>I was in 
 * *[[Shows/Eye for an iPhone|Eye for an iPhone]]*
 * *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]* (director)
-* *[[Hyperlinks]]*
-* *[[Live TV Tuesdays -  Saved by the Bell]]* (Samuel "Screech" Powers)
+* *[[Shows/Hyperlinks|Hyperlinks]]*
+* *[[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]]* (Samuel "Screech" Powers)
 * *[[Shows/Maestro|Maestro]]* (Maestro of Maestros)
 * *[[Shows/Rapture The Flag|Rapture The Flag]]*
 * *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*

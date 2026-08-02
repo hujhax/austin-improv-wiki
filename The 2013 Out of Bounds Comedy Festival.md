@@ -74,7 +74,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [[Troupes/The Team|The Team]]
 * [[Troupes/The Theft Forum|The Theft Forum]]
 * [[Troupes/There's Waldo|There's Waldo]]
-* [[The Tribunal]]
+* [[Shows/The Tribunal|The Tribunal]]
 * [[Shows/Twilight Zoned|Twilight Zoned]]
 * [[Troupes/Waiting for Batman|Waiting for Batman]]
 * [[Troupes/What's the Story Steve|What's the Story Steve]]

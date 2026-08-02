@@ -34,7 +34,7 @@ Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41
 ## Shows
 * *[[Shows/The Andersons|The Andersons]]* (ensemble)
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Blood, Sweat, and Cheers]]* (Jason Flipp [Coach Jay])
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (Jason Flipp [Coach Jay])
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*

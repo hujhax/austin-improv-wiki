@@ -85,9 +85,9 @@ Cat began doing improv after watching long stretches of [[The 42-Hour Improv Mar
 * *[[Shows/RISEN|RISEN]]*
 * *[[Shows/Control Issues|Control Issues]]*
 * *[[Shows/Kenjutsu|Kenjutsu]]*
-* *[[Love Fest]]*
+* *[[Shows/Love Fest|Love Fest]]*
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 
 ## More Information
 * [A 6/1/12 interview](http://www.hideouttheatre.com/the-game-changer-part-two) with Cat about discovering and watching [[The 42-Hour Improv Marathon]].

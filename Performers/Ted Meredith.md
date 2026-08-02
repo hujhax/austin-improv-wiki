@@ -87,9 +87,9 @@ Ted's biography on the web site for [[The Institution Theater]] is as follows:<b
 * [[Esther's Follies]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Dawson's Creek]]* (director)
-* *[[Live TV Tuesdays -  Freaks and Geeks]]* (director)
-* *[[Live TV Tuesdays -  My So-Called Life]]* (Brian Krakow)
+* *[[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]]* (director)
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (director)
+* *[[Shows/Live TV Tuesdays -  My So-Called Life|Live TV Tuesdays -  My So-Called Life]]* (Brian Krakow)
 
 [[Category/Performers|Meredith]]
 [[Category/Teachers|Meredith]]

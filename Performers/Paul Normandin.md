@@ -74,7 +74,7 @@
 * *[[Shows/The Next Chapter|The Next Chapter]]* (2013)
 * *[[Shows/The ReSet Project|The ReSet Project]]* (2013)
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]* (2013-)
-* *[[Elf Employment]]* (2013 Guest)
+* *[[Shows/Elf Employment|Elf Employment]]* (2013 Guest)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]* (2013-2014)
 * *[[Shows/Hurly Burly|Hurly Burly]]* (2014-2017)
 * *[[Shows/Improv Anonymous|Improv Anonymous]]* (2014 - )
@@ -83,7 +83,7 @@
 * *[[Shattered]]* (2019) 
 
 ## Scripted Shows
-* *[[Blood, Sweat, and Cheers]]* (Bob Davis 2012)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (Bob Davis 2012)
 * *[[The Spark]]* (Jerry 2015)
 * *[[No One Dies in This Story]]* (Paul 2017)
 * *[[Bargainland]]* (Johnny 2017)

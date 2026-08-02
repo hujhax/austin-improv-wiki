@@ -75,7 +75,7 @@
 ## Summary
 Formed in 2015, these [[The Hideout Theatre]] alumni are divided by an ocean, but united by a love of improv and performing together. They formed to perform at the 2015 Tampa Improv Festival, after Mark received an invitation to perform from fellow Hideout alumni Nicholas Riggs and Hannah Prince. Aspen was Mark's first choice of fellow performer and he was delighted when she agreed to do a show together. At TIF, they did a David Razowsky-inspired two chairs format show, getting a great reception from a packed house.
 
-In April 2016, they performed together again, first at [[Troupes/Cascade|Cascade]]'s [[ImprompTwo]] show at [[The Institution Theater]] (doing the two chairs format again), and then at the Hideout's [[The 2016 Improvised Play Festival]], as part of the duos slot. Inspired by the rich, theatrical and character-led improv that the Hideout teaches, and the music of The Lumineers their show told two vignettes from characters' lives, allowing both performers to play a lead role. Each vignette was inspired by the name of a person significant to an audience member, and an emotion that they associated with them. The result was a delightful show, mixing comedy and powerful emotion and is something that both the Englishman and the Belle are very proud of.
+In April 2016, they performed together again, first at [[Troupes/Cascade|Cascade]]'s [[Shows/ImprompTwo|ImprompTwo]] show at [[The Institution Theater]] (doing the two chairs format again), and then at the Hideout's [[The 2016 Improvised Play Festival]], as part of the duos slot. Inspired by the rich, theatrical and character-led improv that the Hideout teaches, and the music of The Lumineers their show told two vignettes from characters' lives, allowing both performers to play a lead role. Each vignette was inspired by the name of a person significant to an audience member, and an emotion that they associated with them. The result was a delightful show, mixing comedy and powerful emotion and is something that both the Englishman and the Belle are very proud of.
 
 They performed together once more in Austin in April 2017, first at the Hideout's Dual Reality show, then again at ImprompTwo. They followed this up in June with two sets at the 1st Ocean State Improv Festival in Wakefield Rhode Island (at the Contemporary Theatre Company, directed by fellow Hideout alumnus Christopher Simpson), together with other Austin-based teams [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] and [[The Matriarchy]]. At all of these shows, they did the format that they performed at The Improvised Play Festival, it continuing to be one that appeals deeply to both of them.
 
@@ -83,7 +83,7 @@ They're also becoming know as one of the more splendidly-dressed improv duos aro
 
 ## History
 * 11/6/15 - 2015 Tampa Improv Festival
-* 4/4/16 - [[The Institution Theater]] *[[ImprompTwo]]*
+* 4/4/16 - [[The Institution Theater]] *[[Shows/ImprompTwo|ImprompTwo]]*
 * 4/1/16 - *[[The 2016 Improvised Play Festival]]*
 * 4/21/17 - [[The Hideout Theatre]] *Dual Reality*
 * 4/21/17 - [[The Institution Theater]] *ImprompTwo*

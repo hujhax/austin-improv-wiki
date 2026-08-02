@@ -32,11 +32,11 @@ Katie started taking improv classes with [[Performers/Shana Merlin|Shana Merlin]
 ## Shows
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[Shows/The Andersons|The Andersons]]* (Mary-Alice Anderson)
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/The Sandbox|The Sandbox]]*
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (Kelly Taylor)
 * *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*
-* *[[Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
 * *[[Oscar Bait]]*
 * *[[Shows/Braised in Texas|Braised in Texas]]*
 * *[[Shows/Beware of Female Spies|Beware of Female Spies]]* (producer) 

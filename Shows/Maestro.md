@@ -51,7 +51,7 @@ Often, tie-breakers are used in Maestro, say if it's down to two remaining perfo
 ### Other Information
 The [[Out of Bounds Comedy Festival]] includes an "All-Star Maestro" performance, which usually has 24 players.
 
-The Hideout sporadically puts on *[[Blue Maestro]]*, which is the non-family-friendly version of the show.
+The Hideout sporadically puts on *[[Shows/Blue Maestro|Blue Maestro]]*, which is the non-family-friendly version of the show.
 
 Once a month, as part of *[[Shows/The Wheel|The Wheel]]*, The Hideout puts on *[[Shows/Maestro Raw|Maestro Raw]]*, which is cast mostly (if not exclusively) from Hideout students.
 

@@ -34,7 +34,7 @@
 * *[[Shows/Reframed|Reframed]]*  (Producer)
 * *[[Project ReSet]]*
 * *[[Shows/False Matters|False Matters]]* (stage manager)
-* *[[Magna Veritas]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Shows/Spirited|Spirited]]*
 * *[[Shows/Steam|Steam]]*
 * *[[Shows/The Trouble With Terry|The Trouble With Terry]]*

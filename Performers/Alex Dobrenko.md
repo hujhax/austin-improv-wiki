@@ -33,7 +33,7 @@ In 2014, Alex moved away to Los Angeles.
 
 ## Shows
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Blood, Sweat, and Cheers]]* (James Kowalski)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (James Kowalski)
 * *[[Shows/Cover to Cover|Cover to Cover]]*
 * *[[Shows/Manhattan Stories|Manhattan Stories]]*
 * *[[Shows/Process|Process]]*

@@ -17,10 +17,10 @@ It ran from 4/11/13 to 4/13/13.
 * [[Troupes/Local Genius Society|Local Genius Society]]
 * [[Troupes/Miller and Purselley|Miller and Purselley]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
-* *[[Troupes/Past Lives|Past Lives]]*
+* *[[Shows/Past Lives|Past Lives]]*
 * *[[Shows/Pulp Friction|Pulp Friction]]*
 * *[[Shows/Strange Worlds|Strange Worlds]]*
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 
 ### Out-of-Town Acts
 * Fun Grip (Dallas) 

@@ -48,7 +48,7 @@ Kacey started doing improv since 2000 as a member of [[The Hideout]] Theatre's h
 * *[[Shows/Song Runner|Song Runner]]* (director)
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 * *[[Shows/After School Improv|After School Improv]]*
-* *[[Live TV Tuesdays -  Buffy]]* (lighting tech)
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (lighting tech)
 * *[[Asafapalooza]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Shows/Rock|Rock]]* (director and player)

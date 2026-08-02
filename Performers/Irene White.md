@@ -79,7 +79,7 @@ Irene White hails from the great state of Texas where she graduated from the Uni
 * [[Troupes/Mike and Irene|Mike and Irene]]
 
 ## Shows
-* *[[Lord Wensleydale's Last High Tea]]*
+* *[[Shows/Lord Wensleydale's Last High Tea|Lord Wensleydale's Last High Tea]]*
 
 
 [[Category/Performers|White]]

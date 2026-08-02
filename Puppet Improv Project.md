@@ -5,15 +5,15 @@
 ## Shows
 The Puppet Improv Project does one-off shows for productions like [[The Hideout Improv Marathon]], but it is best known for its show runs:
 
-* *[[Crack!]]* (Nov 2009, Aug 2010)
-* *[[Sock Treatment]]* (Dec 2009)
-* *[[PIP on TV]]* (Mar 2011)
-* *[[Puppet Fever]]* (Jun 2011)
-* *[[Puppet Katamari]]* (Sep/Oct 2011)
-* *[[Elf Employment]]* (Dec 2011, Dec 2013)
-* *[[Off the Reef]]* (Sep/Oct 2012)
-* *[[Trash]]* (Jul 2013)
-* *[[Fae]]* (Winter 2014)
+* *[[Shows/Crack!|Crack!]]* (Nov 2009, Aug 2010)
+* *[[Shows/Sock Treatment|Sock Treatment]]* (Dec 2009)
+* *[[Shows/PIP on TV|PIP on TV]]* (Mar 2011)
+* *[[Shows/Puppet Fever|Puppet Fever]]* (Jun 2011)
+* *[[Shows/Puppet Katamari|Puppet Katamari]]* (Sep/Oct 2011)
+* *[[Shows/Elf Employment|Elf Employment]]* (Dec 2011, Dec 2013)
+* *[[Shows/Off the Reef|Off the Reef]]* (Sep/Oct 2012)
+* *[[Shows/Trash|Trash]]* (Jul 2013)
+* *[[Shows/Fae|Fae]]* (Winter 2014)
 
 ## Media
 {Note: Media for specific PIP shows can be found on the pages for those shows.}

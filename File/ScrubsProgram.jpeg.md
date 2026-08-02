@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="ScrubsProgram.jpeg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The program for *[[Live TV Tuesdays -  Scrubs]]*.
+The program for *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]*.
 
 Photography by [[Eleazar Paradise]].
 

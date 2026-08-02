@@ -93,21 +93,21 @@ A post from her about the first improv show she ever saw:<blockquote><p>A stand-
 * [[Troupes/Wooden Nickel|Wooden Nickel]]
 
 ## Shows
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Haunted|Haunted]]*
 * *[[Shows/Heist!|Heist!]]*
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
-* [[Live TV Tuesdays -  Angel]] (assistant director)
+* [[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]] (assistant director)
 * *[[Shows/Lola|Lola]]* (tech, sound design)
 * [[Puppet Improv Project]] productions:
-	* *[[Crack]]*
-	* *[[Elf Employment]]*
-	* *[[Off the Reef]]*
-	* *[[Puppet Fever]]*
-	* *[[Puppet Katamari]]*
-	* *[[Trash]]*
+	* *[[Shows/Crack|Crack]]*
+	* *[[Shows/Elf Employment|Elf Employment]]*
+	* *[[Shows/Off the Reef|Off the Reef]]*
+	* *[[Shows/Puppet Fever|Puppet Fever]]*
+	* *[[Shows/Puppet Katamari|Puppet Katamari]]*
+	* *[[Shows/Trash|Trash]]*
 	* *[[Wild West Puppets]]*
-* *[[Seance]]*
+* *[[Shows/Seance|Seance]]*
 [[Category/Performers|Farr]]
 [[Category/Techs|Farr]]
 [[Category/Active|Category:Active]]

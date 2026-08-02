@@ -156,7 +156,7 @@ There's a game in Maestro called Half-Life, where we do a scene in a minute, the
 * [Video](http://vimeo.com/41133909) by [[Performers/Peter Rogers|Peter Rogers]] of "Campfire Songs"
 
 ### May  3, 2012
-#### *[[Blue Maestro]]*
+#### *[[Shows/Blue Maestro|Blue Maestro]]*
 ### May 10, 2012
 #### *Full Moon Rises* ([[Performers/Zac Grantham|Zac Grantham]])
 There is a party game called Mafia. It's popular among geeks. There is a variation of that game with werewolves instead of mafia. Essentially people are either werewolves or villagers. Every night, the werewolves kill one villager. During the day, the villagers (and werewolves) investigate and kill one person they think is a werewolf. This repeats and eventually either all the villagers die or the werewolves are killed. The Fringe version is set in a late 17th century New England village. The performers randomly draw cards to assign roles to people. The scenes take place during the day as people try to determine who the werewolves are. Murder! Supernatural intrigue! Suspense! Improv! 
@@ -1791,7 +1791,7 @@ Dave Ronn's identical twin muppet comes to town. No one can tell the two apart. 
 
 WARNING: live puppets.
 
-#### The Black Death ([[Performers/Asaf Ronen|Asaf Ronen]], [[The Jukebox Musical Project]])
+#### The Black Death ([[Performers/Asaf Ronen|Asaf Ronen]], [[Shows/The Jukebox Musical Project|The Jukebox Musical Project]])
 The work of Smashing Pumpkins plopped into a fifteen-minute musical set (where else?) in 1348 London during the height of the Black Plague. Romance, travel, and rats underscored, despite all its rage, by the lyrics of Corgan and company.
 
 #### Arjet Universe

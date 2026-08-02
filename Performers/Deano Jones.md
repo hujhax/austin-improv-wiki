@@ -24,7 +24,7 @@
 ## History
 Moving to Austin in 2005 from New York City, Deano began taking improv classes at [[Merlin Works]] in 2009. 
 
-He has appeared in [[Performers/Michael Joplin|Michael Joplin]]'s *[[The Family]]*, Hideout mainstage shows *[[Shows/The Andersons|The Andersons]]*, *[[Shows/The Violet Underbelly|The Violet Underbelly]]* and *[[Shows/Holy 1960's Batman, Batman!|Holy 1960's Batman, Batman!]]*. He is a member of troupes [[Troupes/Simply D-VINE|Simply D-VINE]], [[Troupes/The Intentions|The Intentions]] and [[Troupes/The Knuckleball Now|The Knuckleball Now]].
+He has appeared in [[Performers/Michael Joplin|Michael Joplin]]'s *[[Shows/The Family|The Family]]*, Hideout mainstage shows *[[Shows/The Andersons|The Andersons]]*, *[[Shows/The Violet Underbelly|The Violet Underbelly]]* and *[[Shows/Holy 1960's Batman, Batman!|Holy 1960's Batman, Batman!]]*. He is a member of troupes [[Troupes/Simply D-VINE|Simply D-VINE]], [[Troupes/The Intentions|The Intentions]] and [[Troupes/The Knuckleball Now|The Knuckleball Now]].
 
 As a graphic designer, Deano has created over 200 posters for improv shows in the AIC.
 
@@ -32,7 +32,7 @@ His novel, *[Rise of the Cafe Racer](http://www.riseofthecaferacer.com)*, was fe
 
 ## Shows
 * *[[Shows/The Andersons|The Andersons]]*
-* *[[The Family]]*
+* *[[Shows/The Family|The Family]]*
 * *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 

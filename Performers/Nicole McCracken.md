@@ -29,10 +29,10 @@
 * *[[Shows/Beware of Female Spies|Beware of Female Spies]]*
 * *[[Shows/Braised in Texas|Braised in Texas]]*
 * *[[Shows/Danger!|Danger!]]*
-* *[[Live TV Tuesdays -  John Hughes Summer School]]*
-* *[[Live TV Tuesdays -  South Park]]*
+* *[[Shows/Live TV Tuesdays -  John Hughes Summer School|Live TV Tuesdays -  John Hughes Summer School]]*
+* *[[Shows/Live TV Tuesdays -  South Park|Live TV Tuesdays -  South Park]]*
 * *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*
-* *[[Townsville]]*
+* *[[Shows/Townsville|Townsville]]*
 
 
 [[Category/Performers|McCracken]]

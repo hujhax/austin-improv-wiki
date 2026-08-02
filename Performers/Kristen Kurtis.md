@@ -28,5 +28,5 @@
 * [[Troupes/Really Big Thumbs Up|Really Big Thumbs Up]]
 
 ## Shows
-* *[[Rock N Roll Purgatory]]*
+* *[[Shows/Rock N Roll Purgatory|Rock N Roll Purgatory]]*
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*

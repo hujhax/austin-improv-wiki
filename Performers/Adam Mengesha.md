@@ -31,10 +31,10 @@ He took his first improv class at [[The Institution Theater]] with the intention
 
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
-* *[[Live TV Tuesdays -  Angel]]* (Gunn)
-* *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]* (Bad Horse Chorus)
-* *[[Live TV Tuesdays -  Firefly]]* (Book)
-* *[[Live TV Tuesdays -  Scrubs]]* (Turk)
+* *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]* (Gunn)
+* *[[Shows/Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]* (Bad Horse Chorus)
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (Book)
+* *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]* (Turk)
 * *[[Shows/The Rubber Room|The Rubber Room]]*
 
 

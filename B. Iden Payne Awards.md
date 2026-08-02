@@ -90,7 +90,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 		* [[Shows/Austin Secrets|Austin Secrets]] ([[The Hideout Theatre]])
 		* [[ColdTowne]] ([[Coldtowne Theater]])
 		* [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]] ([[The Institution Theater]])
-		* [[Dusk -  Improvised Tween Erotica]] ([[GNAP! Theater Productions]])
+		* [[Shows/Dusk -  Improvised Tween Erotica|Dusk -  Improvised Tween Erotica]] ([[GNAP! Theater Productions]])
 		* [[Troupes/The Frank Mills|The Frank Mills]] ([[Coldtowne Theater]])
 
 

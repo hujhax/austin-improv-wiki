@@ -73,7 +73,7 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Shows/After School Improv|After School Improv]]* (Performed and Directed)
 * *[[Shows/The Andersons|The Andersons]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]* (2010-2013)
-* *[[Blood, Sweat, and Cheers]]* (June Davis, writer, producer)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (June Davis, writer, producer)
 * [[Shows/A Bedtime Gorey|A Bedtime Gorey]]
 * *[[Shows/The Big Bash|The Big Bash]]* (company member) 
 * [[Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players|Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]] (2006, 2014)
@@ -93,7 +93,7 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[The Kindness of Strangers -  Improvised Tennesee Williams]]* (Performed and Co-Directed)
-* *[[Lord Wensleydale's Last High Tea]]*
+* *[[Shows/Lord Wensleydale's Last High Tea|Lord Wensleydale's Last High Tea]]*
 * *[[Shows/Manhattan Stories|Manhattan Stories]]*
 * *[[Shows/Maestro|Maestro]]* (2005-)
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*

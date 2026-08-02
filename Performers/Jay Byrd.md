@@ -32,7 +32,7 @@
 
 ## Shows
 * *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
-* *[[Puppet Katamari]]*
+* *[[Shows/Puppet Katamari|Puppet Katamari]]*
 * *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
 
 ### Guest Appearances

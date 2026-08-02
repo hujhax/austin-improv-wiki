@@ -58,7 +58,7 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 
 ## Past Shows
 * *[[Austin Translation]]* (Assistant Director)
-* *[[Townsville]]* comedic play - actor, writer  (Performed in Frontera Fest)
+* *[[Shows/Townsville|Townsville]]* comedic play - actor, writer  (Performed in Frontera Fest)
 * *[[The Alamo Drewhouse presents Dinner & A Drewvie]]* (Director/Producer)
 * *[[Shows/TGIS|TGIS]]*
 * *[[Shows/The Organ Trail|The Organ Trail]]*

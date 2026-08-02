@@ -28,8 +28,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>Aside fro
 ## Previous Projects
 * [[Troupes/Achatina Achatina|Achatina Achatina]] 
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
-* *[[Live TV Tuesdays -  Buffy]]* (Xander Harris) 
-* *[[Live TV Tuesdays -  South Park]]* (Director)
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Xander Harris) 
+* *[[Shows/Live TV Tuesdays -  South Park|Live TV Tuesdays -  South Park]]* (Director)
 * [[The Pappy Parker Players]] 
 * *[[Shows/Pulp Friction|Pulp Friction]]*: Improvised Tarantino 
 * [[Troupes/Secret Senate|Secret Senate]]

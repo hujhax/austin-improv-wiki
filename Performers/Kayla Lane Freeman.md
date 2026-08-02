@@ -41,7 +41,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>My siste
 
 ## Shows
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Blood, Sweat, and Cheers]]* (Chrissy McCarthy)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (Chrissy McCarthy)
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
 * *[[Shows/Spirited|Spirited]]*
 * *[[Shows/Stool Pigeon|Stool Pigeon]]*

@@ -28,7 +28,7 @@ Bob decided to take an improv class after his second short film had finished tou
 Bob is a fully out *Star Wars* nerd and Lick ice cream addict, a professional mentor by trade, among other vocations.  On the filmmaking side, he has produced and directed two dramatic short films which have toured internationally. His filmmaking studies include work with the University of Texas, Michael Hauge Screenwriting Intensive, countless workshops at The Austin Film Festival, Sundance Shorts, Microbudget Film School and FilmWorks Austin . Bob has two beloved dogs, Wicket and Peanut and has called Austin home since 1987.
 
 ## Breaking Beckett -Improvised Dramatic Theater
-In late 2013 Bob began working on the idea of bringing dramatic absurdist theater to the world of improv, [[Breaking Beckett]], which he went on to produce and direct. Breaking Beckett examines the moments we tend to not share: moments of heartbreak or overwhelming despair, childhood innocence lost, the shame of our most serious mistakes, all filtered through the work of Samuel Beckett. Inspired by but not beholden to the author’s absurdist one-act plays, the actors will adhere to the choreography of the pieces while following their own improvised story lines. Breaking Beckett is Bob's first improv project as a producer and director.
+In late 2013 Bob began working on the idea of bringing dramatic absurdist theater to the world of improv, [[Shows/Breaking Beckett|Breaking Beckett]], which he went on to produce and direct. Breaking Beckett examines the moments we tend to not share: moments of heartbreak or overwhelming despair, childhood innocence lost, the shame of our most serious mistakes, all filtered through the work of Samuel Beckett. Inspired by but not beholden to the author’s absurdist one-act plays, the actors will adhere to the choreography of the pieces while following their own improvised story lines. Breaking Beckett is Bob's first improv project as a producer and director.
 
 ## Troupes
 * [[Troupes/Two Guys from Yonkers|Two Guys from Yonkers]] (2011 - Present)
@@ -38,9 +38,9 @@ In late 2013 Bob began working on the idea of bringing dramatic absurdist theate
 * *[[Shows/The Cagematch|The Cagematch]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
-* *[[The Tribunal]]* (2012 Cast)
+* *[[Shows/The Tribunal|The Tribunal]]* (2012 Cast)
 * *[[Shows/The ReSet Project|The ReSet Project]]*
-* *[[Breaking Beckett]]* (Producer/Director)
+* *[[Shows/Breaking Beckett|Breaking Beckett]]* (Producer/Director)
 
 [[Category/Performers|Ford]]
 [[Category/Directors|Ford]]

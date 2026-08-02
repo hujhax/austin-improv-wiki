@@ -47,7 +47,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Shows/The Andersons|The Andersons]]* (Mr. Cooper)
 * *[[Shows/Austin Secrets|Austin Secrets]]* (creator/director)
 * *[[Shows/The Black Vault|The Black Vault]]*
-* *[[Blood, Sweat, and Cheers]]* (director)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (director)
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*

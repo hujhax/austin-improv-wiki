@@ -79,7 +79,7 @@ In 2012, Stephanie moved to New York City.
 * [[Troupes/Journey To The Big Water|Journey To The Big Water]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Buffy]]* (Buffy Summers)
-* *[[Live TV Tuesdays -  My So-Called Life]]* (Danielle Chase)
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Buffy Summers)
+* *[[Shows/Live TV Tuesdays -  My So-Called Life|Live TV Tuesdays -  My So-Called Life]]* (Danielle Chase)
 
 [[Category/Performers|Hagemeister]]

@@ -41,18 +41,18 @@ In 2015 she moved to Paris.
 ## Shows
 * *[[The 43-Hour Improv Marathon]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]* (seasons 2 and 4)
-* *[[Blood, Sweat, and Cheers]]* (Kennedy Campbell, choreographer)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (Kennedy Campbell, choreographer)
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]* (season 2)
 * *[[Troupes/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*
 * *[[Shows/Fandom|Fandom]]*
 * *[[Shows/Hurly Burly|Hurly Burly]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
-* *[[Lord Wensleydale’s Last High Tea]]*
+* *[[Shows/Lord Wensleydale’s Last High Tea|Lord Wensleydale’s Last High Tea]]*
 * *[[Shows/Process|Process]]*
 * *[[Shows/Rock|Rock]]*
 * *[[Shows/Spirited|Spirited]]*
 * *[[Shows/TheatreSports|TheatreSports]]*
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 
 ## More Information
 * [A 6/10/10 tumblr post titled "on improv and what it has been to me from childhood-present".](http://misshalyn.tumblr.com/post/684528455/on-improv-and-what-it-has-been-to-me-from)

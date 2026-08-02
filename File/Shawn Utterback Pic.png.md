@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Shawn Utterback Pic.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Performers/Shawn Utterback|Shawn Utterback]] for *[[Elf Employment]]*.
+Publicity photo of [[Performers/Shawn Utterback|Shawn Utterback]] for *[[Shows/Elf Employment|Elf Employment]]*.
 
 Photo by [Annie Ray](http://annierayevents.com/).
 ## Licensing

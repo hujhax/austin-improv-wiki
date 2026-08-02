@@ -80,13 +80,13 @@ Bryan Cruz is a notable performer known in the Austin Improv Community before mo
 * [[Troupes/No Chaser|No Chaser]]
 
 ## Shows
-* *[[Crack!]]*
+* *[[Shows/Crack!|Crack!]]*
 * *[[Shows/Doctors Without Boundaries|Doctors Without Boundaries]]*
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
-* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (Dylan McKay)
-* *[[Live TV Tuesdays -  Buffy]]* (Oz)
-* *[[Live TV Tuesdays -  Saved by the Bell]]* (A. C. Slater)
+* *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (Dylan McKay)
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Oz)
+* *[[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]]* (A. C. Slater)
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (Dylan McKay)
 
 ## Media

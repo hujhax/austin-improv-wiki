@@ -27,12 +27,12 @@
 
 ## Shows
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Blood, Sweat, and Cheers]]* (sound tech)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (sound tech)
 * *[[Shows/Fandom|Fandom]]*
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*
-* *[[Seance]]*
-* *[[The Tribunal]]*
+* *[[Shows/Seance|Seance]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 * *[[Shows/TheatreSports|TheatreSports]]*
 
 ## More Information

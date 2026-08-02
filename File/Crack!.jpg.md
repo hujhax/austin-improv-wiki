@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Crack!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Crack!]]
+Publicity image for [[Shows/Crack!|Crack!]]
 
 Artwork by [[Performers/Sara Farr|Sara Farr]].
 ## Licensing

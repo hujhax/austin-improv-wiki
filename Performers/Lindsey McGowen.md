@@ -76,7 +76,7 @@
 Lindsey studied Stage Management and Lighting Design at Case Western Reserve University in Cleveland, OH. She also occasionally ran tech for CWRU's collegiate improv troupe "Improvment." Upon graduating, she decided that theater-as-a-day-job was not as fun as it looked and took a hiatus from theater starting shortly after graduation. In 2013, she started volunteering with a local improv theatre (GO!Comedy in Ferndale, MI) before relocating to Austin in early 2014.
 
 
-On arriving in Austin, she immediately jumped into technical improv with both feet and has been instrumental to several mainstage shows at both [[The Hideout Theatre]] and [[The Institution Theater]] ever since. She also acts as Lead Audio Engineer on *Tales from the Black Vault*, the podcast version of [[Shows/The Black Vault|The Black Vault]], and as Music Director for [[The Jukebox Musical Project]].
+On arriving in Austin, she immediately jumped into technical improv with both feet and has been instrumental to several mainstage shows at both [[The Hideout Theatre]] and [[The Institution Theater]] ever since. She also acts as Lead Audio Engineer on *Tales from the Black Vault*, the podcast version of [[Shows/The Black Vault|The Black Vault]], and as Music Director for [[Shows/The Jukebox Musical Project|The Jukebox Musical Project]].
 
 
 Outside of improv, Lindsey is a professional Project Manager and is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [Synesthesia](http://vimeo.com/100491197) and as a guest musician with [[Troupes/Indigo Shift|Indigo Shift]].
@@ -113,7 +113,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Shows/The Black Vault|The Black Vault]]* (light tech, 2015-present)
 * *[[Troupes/The Amazon and The Milksop|"The Fitzgeralds Save the World"]]* (tech, 2016-present)
 * *[[Shows/The International Improv Experience|The International Improv Experience]]* (light tech)
-* *[[The Jukebox Musical Project]]* 
+* *[[Shows/The Jukebox Musical Project|The Jukebox Musical Project]]* 
 	* *The Black Death* (music director)
 	* *In the Air Tonight* (music director)
 	* *Karma Police* (music director)

@@ -25,6 +25,6 @@
 * [[Troupes/Ed 32|Ed 32]]
 
 ## Shows
-* *[[Live TV Tuesdays -  Firefly]]* (Wash)
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (Wash)
 
 [[Category/Performers|Robinson]]

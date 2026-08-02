@@ -49,12 +49,12 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]]*
 * *[[Shows/History Under the Influence|History Under the Influence]]*
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
-* *[[The Joss Whedon Pajama Party]]*
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
-* *[[Live TV Tuesdays -  Angel]]* (Wesley)
-* *[[Live TV Tuesdays -  Buffy]]* (Wesley)
-* *[[Live TV Tuesdays -  Firefly]]* (Simon)
-* *[[Live TV Tuesdays -  Freaks and Geeks]]* (Nick)
+* *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]* (Wesley)
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Wesley)
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (Simon)
+* *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Nick)
 * *[[Shows/Local on the Eights|Local on the Eights]]* (co-director)
 * *[[Shows/Lonely Star|Lonely Star]]*
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
@@ -81,7 +81,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 ## Writing
 ### Sketches
 * Videos
-	* Sketches Peter wrote for *[[The Joss Whedon Pajama Party]]*: ["The Big Red Button"](http://vimeo.com/44147623); ["Cancellation Support Group"](http://vimeo.com/44147529); ["Joss Whedon's Dream Project"](http://vimeo.com/45173703), "Wash Has Too Much Time on His Hands", Parts [1](http://vimeo.com/45295722), [2](http://vimeo.com/45295972), & [3](http://vimeo.com/45295836).
+	* Sketches Peter wrote for *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*: ["The Big Red Button"](http://vimeo.com/44147623); ["Cancellation Support Group"](http://vimeo.com/44147529); ["Joss Whedon's Dream Project"](http://vimeo.com/45173703), "Wash Has Too Much Time on His Hands", Parts [1](http://vimeo.com/45295722), [2](http://vimeo.com/45295972), & [3](http://vimeo.com/45295836).
 	* Sketches Peter wrote for an opening set for [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]: ["*Hurt Locker* OMG YAY"](http://vimeo.com/44639689); ["Harlequin Network-Computing Theater"](http://vimeo.com/44640172); ["Waylon Jennings Interrupts"](http://vimeo.com/44640577).
 	* ["The *Arrested Development* Documentary Crew"](http://vimeo.com/51553569)
 	* ["Learning Something New About History"](http://vimeo.com/35782149)

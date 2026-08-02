@@ -56,15 +56,15 @@ Topping was a company member with [[Gnap! Theater Projects]].
 ## Shows
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
-* *[[Crack!]]*
-* *[[Elf Employment]]*
+* *[[Shows/Crack!|Crack!]]*
+* *[[Shows/Elf Employment|Elf Employment]]*
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * *[[The Last Freak Show]]*
 * *[[This Week Tonight]]*
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 * *[[Shows/Lola|Lola]]*
-* *[[Off the Reef]]*
+* *[[Shows/Off the Reef|Off the Reef]]*
 * *[[Shows/The Sandbox|The Sandbox]]*
 * *[[Two on Two]]*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*

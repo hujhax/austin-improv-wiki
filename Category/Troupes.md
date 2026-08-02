@@ -410,7 +410,7 @@ For a sorted list, see the [[List of Austin Improv Troupes]].
 * [[Troupes/Pariah]]
 * [[Troupes/Party Court]]
 * [[Troupes/Past Life Aggression]]
-* [[Troupes/Past Lives]]
+* [[Shows/Past Lives]]
 * [[Troupes/Pasta with a Chat]]
 * [[Troupes/Patio Talk]]
 * [[Troupes/Paul Bunyan]]

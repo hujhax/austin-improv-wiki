@@ -39,7 +39,7 @@ He has been a guest musician for [[Troupes/Indigo Shift|Indigo Shift]] and a gue
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/Lola|Lola]]*
 * *[[Shows/TheatreSports|TheatreSports]]*
-* *[[Rock N Roll Purgatory]]*
+* *[[Shows/Rock N Roll Purgatory|Rock N Roll Purgatory]]*
 
 ## More Information
 * [Craig's web site.](http://kotfas.com/)

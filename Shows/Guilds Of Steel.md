@@ -191,3 +191,4 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 
 ### Publicity
 * [Promotional photos for the 2010 run.](http://www.facebook.com/media/set/?set=a.405946063310.181500.16782108310&type=3)
+[[Category/Shows|Category:Shows]]

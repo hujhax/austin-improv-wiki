@@ -290,7 +290,7 @@ The schedule is as follows:
 		* [[Performers/Ace Manning|Ace Manning]]
 	* Snogger: [[Performers/Marc Majcher|Marc Majcher]]
 * May 25th
-	* Exhibition match: [[Blood, Sweat, and Cheers|Cheerleaders]] vs. *[[Shows/Pulp Friction|Pulp Friction]]*.
+	* Exhibition match: [[Shows/Blood, Sweat, and Cheers|Cheerleaders]] vs. *[[Shows/Pulp Friction|Pulp Friction]]*.
 	* Guests:
 		* [[Performers/Craig Kotfas|Craig Kotfas]]
 		* [[Performers/Jay Michael|Jay Michael]]

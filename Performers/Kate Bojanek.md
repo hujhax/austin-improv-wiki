@@ -33,7 +33,7 @@
 * [[Troupes/The Varsity|The Varsity]]
 
 ## Shows
-* *[[Elf Employment]]*
+* *[[Shows/Elf Employment|Elf Employment]]*
 * *[[Shows/Family Tides|Family Tides]]*
 * *[[Troupes/UpTowne|UpTowne]]*
 

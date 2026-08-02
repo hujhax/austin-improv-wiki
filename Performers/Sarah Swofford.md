@@ -25,8 +25,8 @@
 * [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
 
 ## Shows
-* *[[The Joss Whedon Pajama Party]]*
-* *[[Live TV Tuesdays -  Firefly]]* (Kaylee)
-* *[[Love Fest]]*
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (Kaylee)
+* *[[Shows/Love Fest|Love Fest]]*
 
 [[Category/Performers|Swofford]]

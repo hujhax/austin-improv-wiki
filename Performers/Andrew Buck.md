@@ -40,6 +40,6 @@ Andrew also maintains an improv-related blog at [YesAndrew.com](http://www.yesan
 ## Troupes
 * [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
 * [[Troupes/MANDINKA|MANDINKA]]
-* [[Troupes/Past Lives|Past Lives]]
+* [[Shows/Past Lives|Past Lives]]
 
 [[Category/Performers|Buck]]

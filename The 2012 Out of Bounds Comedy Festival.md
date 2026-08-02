@@ -7,7 +7,7 @@ It featured Scott Adsit, John Lutz, and L. A. improv troupe Beer Shark Mice as h
 
 The festival ran from Tuesday 8/28/12 to Monday 9/3/11.
 
-It included a performance of [[Blue Maestro]], as well as "ZEDTalks", a set of TEDTalks-like presentations on random subjects set to randomly-selected PowerPoint presentations.
+It included a performance of [[Shows/Blue Maestro|Blue Maestro]], as well as "ZEDTalks", a set of TEDTalks-like presentations on random subjects set to randomly-selected PowerPoint presentations.
 
 The festival roast featured [[Performers/David Lampe|David Lampe]].
 

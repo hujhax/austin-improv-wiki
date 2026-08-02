@@ -104,7 +104,7 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * *[[Shows/The Big Bash|The Big Bash]]*
 * *[[Shows/Boys of Summer|Boys of Summer]]*
 * *[[Campfire Songs]]*
-* *[[Crack]]*
+* *[[Shows/Crack|Crack]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Gorilla Improv]]*  (w/ Greg Proops, Jill Bernard, Jeremy Lamb & Shana Merlin)
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
@@ -115,7 +115,7 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * *[[Love Is a Funny Thing]]*
 * *[[Shows/Maestro|Maestro]]*
 * *[[Shows/Process|Process]]*
-* *[[Puppet Katamari]]* (composer)
+* *[[Shows/Puppet Katamari|Puppet Katamari]]* (composer)
 * *[[Shows/Racket|Racket]]* (performer)
 * *[[Troupes/Revlis|Revlis]]*
 * *[[Shows/Rock|Rock]]* (co-director)

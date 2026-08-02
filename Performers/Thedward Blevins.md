@@ -51,15 +51,15 @@ He has been teaching assistant for both adult and children's improv classes, and
 * *[[Shows/Start Trekkin'|Start Trekkin']]* (Season 8 — 2017) (Technical Improviser)
 * *[[The Fourth Wall is Behind You]]* (2017) (Sketch show with [[Troupes/Inner Picnic|Inner Picnic]] at the Frontera Fest Short Fringe)
 * *[[Shows/Fiasco|Fiasco]]* (2016) (Technical Improviser — Multimedia)
-* *[[It Came From Your Brain!]]* (2016) (Stage Manager/ Monster Crew)
+* *[[Shows/It Came From Your Brain!|It Came From Your Brain!]]* (2016) (Stage Manager/ Monster Crew)
 * *[[Shows/Adventure PhD|Adventure PhD]]* (2016)
 * *[[Shows/Camp Madeupponthaspotta|Camp Madeupponthaspotta]]* (2014)
 * *[[Shows/Mister Morbid’s Moonlight Movie Mayhem Madness Massacre|Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013–2015) (cohost)
-* *[[Lord Wensleydale’s Last High Tea]]* (2013)
+* *[[Shows/Lord Wensleydale’s Last High Tea|Lord Wensleydale’s Last High Tea]]* (2013)
 * *[[Shows/The ReSet Project|The ReSet Project]]* (2013) (Technical Improviser)
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (2012-2017)
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]* (2012-2014)
-* *[[The Tribunal]]* (2012)
+* *[[Shows/The Tribunal|The Tribunal]]* (2012)
 * *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]* (2012)
 
 ## Troupes

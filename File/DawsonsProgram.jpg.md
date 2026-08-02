@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="DawsonsProgram.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Program for *[[Live TV Tuesdays -  Dawson's Creek]]*.
+Program for *[[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]]*.
 
 Program art by: unknown.
 ## Licensing

@@ -36,10 +36,10 @@
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
 * *[[Shows/The Free Fringe|The Free Fringe]]*
 * *[[Shows/Haunted|Haunted]]*
-* *[[The Joss Whedon Pajama Party]]*
-* *[[Live TV Tuesdays -  Buffy]]* (sales manager/ensemble)
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (sales manager/ensemble)
 * *[[Shows/Lola|Lola]]* (tech)
-* *[[Magna Veritas]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
 * *[[Shows/TheatreSports|TheatreSports]]*
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]*

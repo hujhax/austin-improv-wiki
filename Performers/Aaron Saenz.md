@@ -38,7 +38,7 @@ Aaron appeared in the early 1980s and continues to appear today.
 ## Shows
 * *[[Shows/Fandom|Fandom]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*
-* *[[Troupes/Past Lives|Past Lives]]*
+* *[[Shows/Past Lives|Past Lives]]*
 * *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
 * *[[Shows/The International Improv Experience|The International Improv Experience]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]*

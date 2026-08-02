@@ -81,7 +81,7 @@ Greg and Chris met during level two music class at [[The Hideout Theatre]]. Late
 ## Shows
 * *[[Shows/2x4|2x4]]*
 * *[[Musical Night at Indra's]]*
-* *[[Impromp-Two]]*
+* *[[Shows/Impromp-Two|Impromp-Two]]*
 * *[[Alamo City Improv]]*
 * *Duo Night at [Station Theatre](http://www.stationtheater.com/)*
 * *[[Shows/Free Fringe|Free Fringe]]* (with special guest [[Performers/Aspen Webster|Aspen Webster]])

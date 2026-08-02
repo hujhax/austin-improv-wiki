@@ -1,4 +1,0 @@
----
-redirect: "ImprompTwo"
----
-#REDIRECT [[ImprompTwo]]

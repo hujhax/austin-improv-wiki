@@ -22,7 +22,7 @@
 **Kevin Machate** is an improv performer who works primarily with [[The Institution Theater]].
 
 ## Shows
-* *[[Live TV Tuesdays -  Angel]]* (Spike/Framkin)
-* *[[Live TV Tuesdays -  Scrubs]]* (Dr. Cox, co-director)
+* *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]* (Spike/Framkin)
+* *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]* (Dr. Cox, co-director)
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (Beatle/Monkee/Beach Boy, Voytek Frykowski, Leno LaBianca)
 [[Category/Performers|Category:Performers]]

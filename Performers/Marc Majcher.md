@@ -47,7 +47,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Shows/The Black Vault|The Black Vault]]* (Performed and Directed)
 * *[[Troupes/Blink|Blink]]* (Coached)
-* *[[Blue Maestro]]*
+* *[[Shows/Blue Maestro|Blue Maestro]]*
 * *[[Shows/Buddy Cop|Buddy Cop]]*
 * *[[Shows/The Cagematch|The Cagematch]]*
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
@@ -80,11 +80,11 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
 * *[[Shows/Lola|Lola]]*
 * *[[Shows/Lonely Star|Lonely Star]]*
-* "[[Lord Wensleydale's Last High Tea]]" (Dietrich von Geltsack)
+* "[[Shows/Lord Wensleydale's Last High Tea|Lord Wensleydale's Last High Tea]]" (Dietrich von Geltsack)
 * *[[Louder Than Words]]*
 * *[[Shows/Maestro|Maestro]]* (2000-)
 * *[[Shows/Maestro|Maestro RAW]]* (Directed)
-* *[[Magna Veritas]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Shows/Manhattan Stories|Manhattan Stories]]*
 * *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
 * *[[Shows/The Nightmare Video Project|The Nightmare Video Project]]* ("Directed"/Produced videos 2010-2012)
@@ -99,7 +99,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/The Sandbox|The Sandbox]]* (Performed, Directed "Bloody Work")
 * *[[Shows/Savage Swords|Savage Swords]]* (director)
 * *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*  (Co-director)
-* *[[Seance]]*
+* *[[Shows/Seance|Seance]]*
 * *[[Speak No More]]* (Director/performer)
 * *[[Shows/Spirited|Spirited]]* (Performed and co-directed)
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
@@ -109,7 +109,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/This American Live|This American Live]]* (Segment)
 * ''[[Shows/The International Improv Experience|The International Improv Experience]]
 * *[[Shows/The Source|The Source]]*
-* *[[The Tribunal]]* (Performed and directed)
+* *[[Shows/The Tribunal|The Tribunal]]* (Performed and directed)
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 * *[[Shows/Wanderlust|Wanderlust]]*
 * *[[Shows/The Well-Made Play|The Well-Made Play]]* (Stage Manager)
@@ -150,7 +150,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * The 2012 Frontera Fest Short Fringe
 	* in *Linear Perspectives* by [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]]
 * [[The 2013 Improvised Play Festival]]
-	* With *[[Shows/The Black Vault|The Black Vault]]*, [[Troupes/The Escorts|The Escorts]], *[[Shows/False Matters|False Matters]]*, *[[Shows/Live Nude Improv|Live Nude Improv]]*, *[[Shows/Strange Worlds|Strange Worlds]]*, and *[[The Tribunal]]*
+	* With *[[Shows/The Black Vault|The Black Vault]]*, [[Troupes/The Escorts|The Escorts]], *[[Shows/False Matters|False Matters]]*, *[[Shows/Live Nude Improv|Live Nude Improv]]*, *[[Shows/Strange Worlds|Strange Worlds]]*, and *[[Shows/The Tribunal|The Tribunal]]*
 * The 2013 Unscripted New York Festival
 	* With *[[Shows/Strange Worlds|Strange Worlds]]*
 * The 2014 Alaska State Improv Festival

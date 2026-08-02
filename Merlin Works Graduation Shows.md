@@ -2,7 +2,7 @@
 
 Each run was the culmination of the school's "601" class which specialized in creating a longform format.
 
-Beginning in 2013, Merlin Works moved to the ZACH Theatre and graduation performances became a part of [[Merlin Works Second Sundays]].
+Beginning in 2013, Merlin Works moved to the ZACH Theatre and graduation performances became a part of [[Shows/Merlin Works Second Sundays|Merlin Works Second Sundays]].
 
 ## List of Shows in Chronological Order
 {| class="wikitable"

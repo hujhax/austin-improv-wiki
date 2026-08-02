@@ -43,7 +43,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 	* Like the *Twin Peaks* pilot, this performance featured an FBI agent investigating the murder of a teenage girl in a northwest logging town.
 * Saturday 12am (hour 8): *[[Shows/The New Game Project|The New Game Project]]*: the audience suggested the names of games, and the players invented and played games with those names.
 * Saturday 1am (hour 9): [[Troupes/In Our Prime|In Our Prime]]: grounded, dramatic improv, in this case based around an extended family attending a wedding.
-* Saturday 2am (hour 10): *[[Troupes/Past Lives|Past Lives]]*: following a soul through thematically-linked vignettes across history.
+* Saturday 2am (hour 10): *[[Shows/Past Lives|Past Lives]]*: following a soul through thematically-linked vignettes across history.
 * Saturday 3am (hour 11): [[Troupes/Cheap Date|Cheap Date]]
 * Saturday 4am (hour 12): "[The Bat](http://improvencyclopedia.org/games/The_Bat.html)" with [[Troupes/ColdTowne (Troupe)|ColdTowne]]: an improv show in the dark.
 * Saturday 5am (hour 13): *[[Shows/Epic Telescope|Epic Telescope]]* (AKA "Half-Life in reverse"): a story presented first in one minute, then three minutes, then five, then fifteen, then thirty.

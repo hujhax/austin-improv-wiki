@@ -35,7 +35,7 @@
 * Saturday 2pm: [[Shows/Flying Theater Machine|Flying Theater Machine]]
 * Saturday 3pm: Student Show
 * Saturday 4pm: [[Troupes/Improv For Evil|Improv For Evil]]
-* Saturday 5pm: *[[Dusk]]*
+* Saturday 5pm: *[[Shows/Dusk|Dusk]]*
 * Saturday 6pm: *[[Shows/Austin Secrets|Austin Secrets]]*
 * Saturday 7pm: [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 * Saturday 8pm: *[[Shows/The Andersons|The Andersons]]*

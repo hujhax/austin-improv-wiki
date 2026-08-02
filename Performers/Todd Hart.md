@@ -81,7 +81,7 @@ Sometime around 1987/88 he auditioned for *[[Troupes/ComedySportz|ComedySportz]]
 
 Later, Todd got a degree in Communications with minor in English Writing (and a near minor in Computer Science). And later, he got a Master's degree in Human Services - Conflict Resolution. 
 
-Twenty or so years later, Todd was waiting across the street from the Hideout and saw the words - Improv Classes. He took classes, and went on to do tech for many shows including *[[Shows/Maestro|Maestro]]*, *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*, *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*, *[[Seance]]*, and *[[Shows/Hitchcocked!|Hitchcocked!]]*. 
+Twenty or so years later, Todd was waiting across the street from the Hideout and saw the words - Improv Classes. He took classes, and went on to do tech for many shows including *[[Shows/Maestro|Maestro]]*, *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*, *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*, *[[Shows/Seance|Seance]]*, and *[[Shows/Hitchcocked!|Hitchcocked!]]*. 
 
 Currently expanding into the world of standup from the tutelage of [[Brently Helbrion]] who teaches an Improv to Standup class. 
 
@@ -92,10 +92,10 @@ Currently expanding into the world of standup from the tutelage of [[Brently Hel
 * [[Todd, God, and the Devil]]
 
 ## Shows
-* *[[Crack!]]*
+* *[[Shows/Crack!|Crack!]]*
 * *[[Shows/The Derby|The Derby]]*
 * *[[The Depression Chronicles]]*
-* *[[Magna Veritas]]*
-* *[[Seance]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
+* *[[Shows/Seance|Seance]]*
 
 [[Category/Performers|Hart]]

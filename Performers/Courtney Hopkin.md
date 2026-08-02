@@ -38,9 +38,9 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 
 ## Shows
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Blood, Sweat, and Cheers]]* (Samantha "Sam" Rogers)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (Samantha "Sam" Rogers)
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Fandom|Fandom]]*
 * *[[Shows/Myth Debunkers|Myth Debunkers]]* (Kari Byron)
 * *[[Shows/Process|Process]]*

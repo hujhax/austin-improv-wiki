@@ -25,13 +25,13 @@
 * [[Troupes/MANDINKA|MANDINKA]]
 * [[Troupes/The Starborn|The Starborn]]
 * [[Troupes/Three on a Match|Three on a Match]]
-* [[Troupes/Past Lives|Past Lives]]
+* [[Shows/Past Lives|Past Lives]]
 * [[Troupes/Buttholes|Buttholes]]
 
 ## Shows
 * *[[Shows/Pulp Friction|Pulp Friction]]*
 * *[[Shows/Fandom|Fandom]]*
-* *[[Lord Wensleydale’s Last High Tea]]*
+* *[[Shows/Lord Wensleydale’s Last High Tea|Lord Wensleydale’s Last High Tea]]*
 * *[[Shows/TheatreSports|TheatreSports]]* (2013)
 * *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
 * *[[Shows/Slam Team Six|Slam Team Six]]*

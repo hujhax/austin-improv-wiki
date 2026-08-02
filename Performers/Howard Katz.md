@@ -25,12 +25,12 @@
 * [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
 
 ## Shows
-* *[[Crack!]]*
-* *[[Elf Employment]]*
+* *[[Shows/Crack!|Crack!]]*
+* *[[Shows/Elf Employment|Elf Employment]]*
 * *[[Shows/Heist!|Heist!]]*
-* *[[Live TV Tuesdays -  Scrubs]]* ("The Janitor")
-* *[[Off the Reef]]*
-* *[[Puppet Katamari]]*
+* *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]* ("The Janitor")
+* *[[Shows/Off the Reef|Off the Reef]]*
+* *[[Shows/Puppet Katamari|Puppet Katamari]]*
 * *[[Shows/Steam|Steam]]* ("Gear Shift")
 
 [[Category/Performers|Katz]]

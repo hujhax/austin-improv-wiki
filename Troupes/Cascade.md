@@ -80,7 +80,7 @@ Formed in April of 2014, Cascade is an improv duo staring Sarah Marie Curry (Aus
 
 Built on a foundation of mutual adoration, and a love of theater and dramatic story telling, they specialize in realism, raw emotion, acting and what we in the improv world call "grounded scene work". They want you to laugh and cry. They love working together. And they love your support. Thank you.
 
-In January 2015 they began hosting *[[ImprompTwo]]* at [[The Institution Theater]] with a different guest troupe every week.
+In January 2015 they began hosting *[[Shows/ImprompTwo|ImprompTwo]]* at [[The Institution Theater]] with a different guest troupe every week.
 
 ## Media
 ### Photos

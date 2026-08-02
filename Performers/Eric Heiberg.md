@@ -37,7 +37,7 @@ In 2013, he moved to Minneapolis.  Just before that, he had a special *[[Shows/F
 * *[[Shows/The Derby|The Derby]]* (producer/creator)
 * *[[Shows/Fandom|Fandom]]*
 * *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
-* *[[Hyperlinks]]*
+* *[[Shows/Hyperlinks|Hyperlinks]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Shows/Lola|Lola]]*
 * *[[Shows/Myth Debunkers|Myth Debunkers]]* (creator/Tory Belleci)

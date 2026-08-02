@@ -30,12 +30,12 @@ A post from her about the first improv show she ever saw:<blockquote><p>The firs
 
 ## Shows
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (tech)
-* *[[The Joss Whedon Pajama Party]]*
-* *[[Live TV Tuesdays -  Angel]]* (director)
-* *[[Live TV Tuesdays -  Buffy]]* (stage manager/prop master)
-* *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]* (assistant director/co-musical director/groupie 1)
-* *[[Live TV Tuesdays -  Firefly]]* (vocal coach)
-* *[[Only Three Will Survive]]* (tech)
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
+* *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]* (director)
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (stage manager/prop master)
+* *[[Shows/Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog|Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]* (assistant director/co-musical director/groupie 1)
+* *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (vocal coach)
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]* (tech)
 * *[[Shows/Racket|Racket]]*
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
 * *[[Shows/Trust No One|Trust No One]]*

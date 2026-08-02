@@ -33,7 +33,7 @@ In 2012, he moved away to Los Angeles.
 ## Shows
 * *[[69 Love Scenes]]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Heist!|Heist!]]*
 * *[[Shows/One More Night|One More Night]]*
 * *[[Shows/Showdown|Showdown]]* (director)

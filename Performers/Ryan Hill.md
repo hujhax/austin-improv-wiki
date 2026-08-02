@@ -45,13 +45,13 @@ He is also a musician and has played for [[Shows/I Love You So Much|I Love You S
 ## Shows
 * *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/The Black Vault|The Black Vault]]*
-* *[[Breaking Beckett]]*
+* *[[Shows/Breaking Beckett|Breaking Beckett]]*
 * *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]* (musician)
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Shows/Hurly Burly|Hurly Burly]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*
-* *[[Live TV Tuesdays -  Buffy]]*
-* ''[[Love Fest]]
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]*
+* ''[[Shows/Love Fest|Love Fest]]
 * *[[Shows/The Next Chapter|The Next Chapter]]*
 * *[[Shows/Not This American Life|Not This American Life]]*
 * *[[Shows/RISEN|RISEN]]*

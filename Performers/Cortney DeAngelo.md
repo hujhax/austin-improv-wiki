@@ -26,7 +26,7 @@ A post from her about the first improv show she ever saw:<blockquote>I was actua
 
 ## Shows
 * *[[Shows/After School Improv|After School Improv]]* (tech, 2012)
-* *[[Blood, Sweat, and Cheers]]* (choreography)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (choreography)
 * *[[Troupes/Epic|Epic]]*
 * *[[Shows/Fakespeare|Fakespeare]]* (tech)
 * *[[Shows/Fandom|Fandom]]* (tech)
@@ -35,7 +35,7 @@ A post from her about the first improv show she ever saw:<blockquote>I was actua
 * *[[Shows/The Suitcase|The Suitcase]]* (tech)
 * *[[Shows/Tech Nightmare|Tech Nightmare]]* (co-director)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
-* *[[The Tribunal]]* (4/12/13 show)
+* *[[Shows/The Tribunal|The Tribunal]]* (4/12/13 show)
 
 ## More Information
 * [Courtney's self-introduction thread](http://forum.austinimprov.com/viewtopic.php?p=113455) on [[The Austin Improv Forums]].

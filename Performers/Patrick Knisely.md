@@ -36,11 +36,11 @@
 
 ## Shows
 * *[[Shows/The Trouble With Terry|The Trouble With Terry]]*
-* *[[Dusk]]*
-* *[[Crack!]]*
-* *[[Elf Employment]]*
-* *[[Puppet Katamari]]*
-* *[[Off the Reef]]*
+* *[[Shows/Dusk|Dusk]]*
+* *[[Shows/Crack!|Crack!]]*
+* *[[Shows/Elf Employment|Elf Employment]]*
+* *[[Shows/Puppet Katamari|Puppet Katamari]]*
+* *[[Shows/Off the Reef|Off the Reef]]*
 
 
 

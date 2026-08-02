@@ -10,7 +10,7 @@ It was produced by [[Performers/Thedward Blevins|Thedward Blevins]] and [[Perfor
 * *[[Shows/Beware of Female Spies|Beware of Female Spies]]*
 * *[[Shows/The Big Bash|The Big Bash]]*
 * *[[Shows/The Black Vault|The Black Vault]]*
-* [[Breaking Beckett]]
+* [[Shows/Breaking Beckett|Breaking Beckett]]
 * *[[Shows/Camp Madeupponathaspotta|Camp Madeupponathaspotta]]*
 * [[Troupes/Confidence Men|Confidence Men]]
 * [[Troupes/The Escorts|The Escorts]]
@@ -19,7 +19,7 @@ It was produced by [[Performers/Thedward Blevins|Thedward Blevins]] and [[Perfor
 * *[[Shows/Kenjutsu|Kenjutsu]]*
 * *[[Shows/The Next Chapter|The Next Chapter]]*
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-* *[[Troupes/Past Lives|Past Lives]]*
+* *[[Shows/Past Lives|Past Lives]]*
 * *[[Shows/Strange Worlds|Strange Worlds]]*
 * *[[Shows/What the F@$|What the F@$]]*
 

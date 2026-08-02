@@ -49,10 +49,10 @@ Past:
 * *[[Shows/Braised in Texas|Braised in Texas]]*
 * *[[Shows/Manhattan Stories|Manhattan Stories]]* (co-director)
 * *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
-* *[[Crack!]]*
+* *[[Shows/Crack!|Crack!]]*
 * *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
 

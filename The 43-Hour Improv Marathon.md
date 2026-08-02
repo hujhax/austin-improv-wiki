@@ -46,7 +46,7 @@
 * Sunday 1am: [[The Puppet Improv Project]]
 * Sunday 2am: *[[Shows/Tech Nightmare|Tech Nightmare]]*
 * Sunday 3am: [[Troupes/Midnight Society|Midnight Society]] 
-* Sunday 4am: *[[Seance]]*
+* Sunday 4am: *[[Shows/Seance|Seance]]*
 * Sunday 5am: [[Troupes/Tears But Joy|Tears But Joy]] 
 * Sunday 6am: [[Troupes/Local Genius Society|Local Genius Society]] presents "Beach Cops"
 * Sunday 7am: [[Troupes/Your Dad's Friends|Your Dad's Friends]]

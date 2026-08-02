@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-![[Emily Breedlove - Tribunal.jpg|Emily Breedlove in *[The Tribunal](The%20Tribunal)*.]]
+![[Emily Breedlove - Tribunal.jpg|Emily Breedlove in *[The Tribunal](Shows/The%20Tribunal)*.]]
 
 **Emily Breedlove** is an opera singer and an improv performer.
 
@@ -82,14 +82,14 @@
 ## Shows
 * *[[Shows/The Black Vault|The Black Vault]]*
 * *[[Shows/The Cherry Bowl|The Cherry Bowl]]*
-* *[[Crack!]]*
+* *[[Shows/Crack!|Crack!]]*
 * *[[Shows/GrimmNoir|GrimmNoir]]*
-* *[[Magna Veritas]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Shows/One More Night|One More Night]]*
-* *[[Seance]]*
+* *[[Shows/Seance|Seance]]*
 * *[[Shows/Spirited|Spirited]]*
 * *[[Shows/Steam|Steam]]*
 * *[[Shows/TheatreSports|TheatreSports]]*
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 
 [[Category/Performers|Breedlove]]

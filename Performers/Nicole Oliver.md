@@ -36,7 +36,7 @@ She relocated to Austin in 2008 and got back into the improv scene in 2011.
 * *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Shows/TheatreSports|TheatreSports]]*
-* *[[The Tribunal]]*
+* *[[Shows/The Tribunal|The Tribunal]]*
 * *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
 * *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
 * *[[Shows/Wanderlust|Wanderlust]]*

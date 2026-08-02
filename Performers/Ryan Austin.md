@@ -22,7 +22,7 @@
 Ryan Austin is a well-dressed improviser who works mostly with [[The Hideout Theatre]].
 
 ## History
-Ryan began improv classes at [[The Hideout Theatre]] in May 2011. He was completely unaware of long form narrative improv before seeing his first show at the Hideout and fell in love instantly. He graduated with a BFA in screenwriting and that love of story has kept him fully engaged in improv storytelling. He has been a member of both [[Troupes/Local Genius Society|Local Genius Society]] and [[Troupes/Past Lives|Past Lives]]. Currently he performs with [[Troupes/The Starborn|The Starborn]] and [[Troupes/Austin-Austin|Austin-Austin]].
+Ryan began improv classes at [[The Hideout Theatre]] in May 2011. He was completely unaware of long form narrative improv before seeing his first show at the Hideout and fell in love instantly. He graduated with a BFA in screenwriting and that love of story has kept him fully engaged in improv storytelling. He has been a member of both [[Troupes/Local Genius Society|Local Genius Society]] and [[Shows/Past Lives|Past Lives]]. Currently he performs with [[Troupes/The Starborn|The Starborn]] and [[Troupes/Austin-Austin|Austin-Austin]].
 
 He began directing improv in August of 2012 when [[Performers/Ruby Willmann|Ruby Willmann]] handed down the host/director role of [[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]] to him. He has since become a director for [[Shows/Maestro|Maestro]] and co-directed several MainStage shows.
 
@@ -40,7 +40,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * [[Troupes/Austin-Austin|Austin-Austin]]
 * [[Troupes/The Starborn|The Starborn]]
 * [[Troupes/Local Genius Society|Local Genius Society]] (2012 - 2014)
-* *[[Troupes/Past Lives|Past Lives]]* (2013 - 2014)
+* *[[Shows/Past Lives|Past Lives]]* (2013 - 2014)
 
 ## Shows
 * *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])

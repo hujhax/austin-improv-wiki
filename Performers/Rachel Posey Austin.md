@@ -48,7 +48,7 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Shows/Origins|Origins]]
 * [[Shows/Lonely Star|Lonely Star]]
 * [[Shows/A Deed So Dark|A Deed So Dark]] (sound tech)
-* [[The Tribunal]] (played Mouse)
+* [[Shows/The Tribunal|The Tribunal]] (played Mouse)
 * [[The Beach Boys Solve A Mystery]]
 * [[Shows/Nothing And Everything|Nothing And Everything]] (assistant director)
 * [[Shows/The Dahl House|The Dahl House]] (sound tech)

@@ -29,7 +29,7 @@ He is a graduate of the ColdTowne Conservatory at [[Coldtowne Theater]] and has 
 ## Shows
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Troupes/Array|Array]]*
-* *[[Lord Wensleydale’s Last High Tea]]*
+* *[[Shows/Lord Wensleydale’s Last High Tea|Lord Wensleydale’s Last High Tea]]*
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
 * *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*
 * *[[Shows/Slaughter Your Shorts|Slaughter Your Shorts]]*

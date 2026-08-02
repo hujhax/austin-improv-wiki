@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Elf Employment.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for the 2011 run of *[[Elf Employment]]*.
+Publicity image for the 2011 run of *[[Shows/Elf Employment|Elf Employment]]*.
 
 Art by [[Performers/Sara Farr|Sara Farr]].
 ## Licensing

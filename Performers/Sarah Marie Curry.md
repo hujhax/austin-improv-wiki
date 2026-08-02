@@ -58,12 +58,12 @@ Advanced Musical Improv
 * [[Troupes/Rook|Rook]]
 
 ## Shows
-* *[[Dusk]]* - Gnap Theatre
+* *[[Shows/Dusk|Dusk]]* - Gnap Theatre
 * *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]* - The Institution Theatre
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]* - Gnap Theatre
 * *[[Shows/Hitchcocked!|Hitchcocked!]]* - The Hideout Theatre
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]* - The Hideout Theatre
-* *[[Live TV Tuesdays -  Buffy]]* - The Institution Theatre
+* *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* - The Institution Theatre
 * *[[More Than Words]]* - The Hideout Theatre
 * *[[Key Party]]* (director, performer) - The Institution Theatre
 * *[[Shows/Racket|Racket]]* (director, performer) - The Institution Theatre
@@ -71,7 +71,7 @@ Advanced Musical Improv
 * *[[Shows/Spirited|Spirited]]* - The Hideout Theatre
 * *[[Shows/RISEN|RISEN]]* (director) - The Institution Theatre
 * *[[Shows/Tarantula|Tarantula]]* (director) - The Institution Theatre
-* *[[Impromp-Two]]* - The Institution Theatre
+* *[[Shows/Impromp-Two|Impromp-Two]]* - The Institution Theatre
 * *[[JTS Brown]]*- Coldtowne Theater
 * *[[Sweet Lightning]]* - The Fallout Theater
 * *[[Shows/Maestro|Maestro]]* - The Hideout Theatre

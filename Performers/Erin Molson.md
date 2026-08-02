@@ -27,7 +27,7 @@
 ## Shows
 * *[[Shows/After School Improv|After School Improv]]*
 * *[[Troupes/ComedySportz|ComedySportz]]*
-* *[[The Family]]*
+* *[[Shows/The Family|The Family]]*
 * *[[Shows/Happily Ever After|Happily Ever After]]*
 * *[[Shows/A Deed So Dark|A Deed So Dark]]*
 

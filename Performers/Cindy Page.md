@@ -55,12 +55,12 @@ She was Technical Director for the [[Out of Bounds Comedy Festival]] from 2013-2
 * *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]* *(tech, performer)*
 * *[[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]]* *(technical director, creature crew)*
 * *[[Shows/Hurly Burly|Hurly Burly]]* *(light tech)*
-* *[[The Joss Whedon Pajama Party]]* *(tech)*
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]* *(tech)*
 * *[[Shows/Kenjutsu|Kenjutsu]]* *(light tech)*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]* *(light tech)*
 * *[[Shows/Lonely Star|Lonely Star]]* *(tech director, light tech)*
 * *[[Shows/One Small Step|One Small Step]]* *(performer)*
-* *[[Only Three Will Survive]]* *(tech)*
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]* *(tech)*
 * *[[Shows/Origins|Origins]]* *(tech director)*
 * *[[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]* *(costuming designer)*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]* *(tech)*
@@ -69,13 +69,13 @@ She was Technical Director for the [[Out of Bounds Comedy Festival]] from 2013-2
 * *[[Shows/Rock|Rock]]* *(light tech)*
 * *[[Shows/Savage Swords|Savage Swords]]* *(costume designer, sound tech)*
 * *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]* *(sound tech)*
-* *[[Seance]]* *(tech)*
+* *[[Shows/Seance|Seance]]* *(tech)*
 * *[[Shows/SongRunner|SongRunner]]* *(tech director)*
 * *[[Shows/Start Trekkin'|Start Trekkin']]* *(scoring tech, sound tech, costumes)*
 * *[[Shows/Story to the Death|Story to the Death]]* *(tech director)*
 * *[[Shows/Strange Worlds|Strange Worlds]]* *(tech director, scoring tech)*
 * *[[Shows/Thinning The Herd|Thinning The Herd]]* *(light tech, scorekeeper)*
-* *[[The Tribunal]]* *(performer)*
+* *[[Shows/The Tribunal|The Tribunal]]* *(performer)*
 * *[[Shows/Trust No One|Trust No One]]* *(light tech)*
 
 ## More Information

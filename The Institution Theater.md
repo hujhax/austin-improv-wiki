@@ -38,7 +38,7 @@ In 2014, the Institution expanded into a second space, just across the parking l
 * *[[Shows/The Austin Improv Monologue Jam|The Austin Improv Monologue Jam]]*
 * *[[Shows/Booker and a Buddy|Booker and a Buddy]]*
 * *[[Shows/Highly Suggestible|Highly Suggestible]]*
-* *[[Impromp-Two]]*
+* *[[Shows/Impromp-Two|Impromp-Two]]*
 * *[[Shows/The Rubber Room|The Rubber Room]]*
 * *[[Shows/Tarantula|Tarantula]]*
 * *[[Shows/The Triple Scoop|The Triple Scoop]]*
@@ -53,16 +53,16 @@ In 2014, the Institution expanded into a second space, just across the parking l
 * *[[Shows/Fuck It's Hot|Fuck It's Hot]]*
 * *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]* (2013)
 * *[[Shows/Hurly Burly|Hurly Burly]]* 
-* *[[The Joss Whedon Pajama Party]]* 
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]* 
 * *[[Shows/The Ladies Room|The Ladies Room]]*
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 * *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]*
-* *[[Love Fest]]*
+* *[[Shows/Love Fest|Love Fest]]*
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]*
 * *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
 * *[[Shows/The Next Chapter|The Next Chapter]]* (2013)
 * *[[Shows/Not This American Life|Not This American Life]]*
-* *[[Only Three Will Survive]]*
+* *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Shows/Pulp Friction|Pulp Friction]]*
 * *[[Shows/RISEN|RISEN]]*
 * *[[Shows/The Source|The Source]]*

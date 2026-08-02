@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Hyperlinks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-From a 3/3/11 performance of *[[Hyperlinks]]* produced by [[The Institution Theater]].
+From a 3/3/11 performance of *[[Shows/Hyperlinks|Hyperlinks]]* produced by [[The Institution Theater]].
 
 Photo by [[Roy Moore]], from [this photoset](http://controlimages.com/2011/03/30/institution-house-teams-03-13-11/).
 

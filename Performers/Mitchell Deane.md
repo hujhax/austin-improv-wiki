@@ -41,9 +41,9 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 * *[[Shows/Flying Theatre Machine|Flying Theatre Machine]]*
 * *[[Shows/Free Fringe|Free Fringe]]*
 * *[[Fresh Roasted]]*
-* *[[The Joss Whedon Pajama Party]]*
+* *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
 * *[[Shows/The Lottery|The Lottery]]*
-* *[[Love Fest]]*
+* *[[Shows/Love Fest|Love Fest]]*
 * *[[Shows/Maestro Raw|Maestro Raw]]*
 * *[[Shows/Maestro|Maestro]]*
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (Beatle/Monkee/Beach Boy)

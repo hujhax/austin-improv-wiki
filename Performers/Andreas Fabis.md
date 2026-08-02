@@ -39,18 +39,18 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Tro
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[Shows/The Black Vault|The Black Vault]]*
 * *[[Circus of the Damned]]*
-* *[[Crack!]]*
+* *[[Shows/Crack!|Crack!]]*
 * *[[Shows/The Derby|The Derby]]*
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Heist|Heist]]*
 * *[[Holiday Party Disaster]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
-* *[[Live TV Tuesdays -  Dawson's Creek]]*
-* *[[Love Fest]]*
-* *[[Magna Veritas]]*
+* *[[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]]*
+* *[[Shows/Love Fest|Love Fest]]*
+* *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Mischief Managed]]*
 * *[[Mission Kid Possible]]*
 * *[[Shows/The Nightmare Video Project|The Nightmare Video Project]]* (2011-2012)
@@ -58,7 +58,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Tro
 * *[[Shows/One Small Step|One Small Step]]*
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
 * *[[Shows/Pulp Friction|Pulp Friction]]*
-* *[[Seance]]*
+* *[[Shows/Seance|Seance]]*
 * *[[Shows/Showdown|Showdown]]*
 * *[[Shows/Spirited|Spirited]]*
 * *[[Stories from around the World]]*

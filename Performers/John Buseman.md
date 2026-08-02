@@ -84,8 +84,8 @@ A post from him about the first improv show he ever saw:<blockquote>UCB tour co 
 
 ## Shows
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
-* *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (Jim Walsh/Nat)
-* *[[Live TV Tuesdays -  John Hughes Summer School]]*
+* *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (Jim Walsh/Nat)
+* *[[Shows/Live TV Tuesdays -  John Hughes Summer School|Live TV Tuesdays -  John Hughes Summer School]]*
 * *[[Shows/Spirited|Spirited]]*
 * *[[Wheelhouse of Spectacular Wow Times!]]* (host/producer)
 

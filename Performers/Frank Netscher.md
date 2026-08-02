@@ -39,7 +39,7 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 ## Shows
 * *[[Shows/Big Beautiful Warriors|Big Beautiful Warriors]]*
 * *[[Shows/Live From ColdTowne It's Saturday Night!|Live From ColdTowne It's Saturday Night!]]*
-* *[[Townsville]]*
+* *[[Shows/Townsville|Townsville]]*
 
 ## More Information
 * [Frank's bio page on the ColdTowne Theater site.](http://www.coldtownetheater.com/performer/frank-netscher)

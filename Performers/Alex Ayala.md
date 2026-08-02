@@ -30,5 +30,5 @@
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
-* [[Dorm Daze]]
+* [[Shows/Dorm Daze|Dorm Daze]]
 [[Category/Performers|Ayala]]

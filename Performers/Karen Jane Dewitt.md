@@ -43,10 +43,10 @@ In 2012, she attended the iO Summer Intensive in Chicago.
 ## Shows
 * *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Blood, Sweat, and Cheers]]* (Gabriella "Gabi" Romero)
+* *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (Gabriella "Gabi" Romero)
 * *[[Shows/Danger!|Danger!]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*
-* *[[Live TV Tuesdays -  Party of Five]]* (Claudia)
+* *[[Shows/Live TV Tuesdays -  Party of Five|Live TV Tuesdays -  Party of Five]]* (Claudia)
 
 ## More Information
 * [The web site for Scissortail Savories and Sweets](http://www.scissortailsavoriesandsweets.com/), Karen Jane's bakery.

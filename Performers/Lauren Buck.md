@@ -32,7 +32,7 @@ Lauren was a company member of [[Gnap! Theater Projects]].
 * [[Troupes/Lady Couch|Lady Couch]]
 
 ## Shows
-* *[[Dusk]]*
+* *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*

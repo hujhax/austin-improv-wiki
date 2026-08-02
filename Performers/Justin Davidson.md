@@ -30,4 +30,4 @@
 
 ## Shows
 * *[[Shows/TIT Talks|TIT Talks]]*
-* *[[Rock N Roll Purgatory]]*
+* *[[Shows/Rock N Roll Purgatory|Rock N Roll Purgatory]]*
