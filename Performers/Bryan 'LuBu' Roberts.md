@@ -34,7 +34,7 @@ Bryan currently maintains the comedy website ghettosketchwarlock.com and perform
 ### The First Improv Show He Saw
 A post from him about the first improv show he ever saw:<blockquote><p>I was in the first one I ever saw. UIL competition at Bryan High School in 2000. Group Improv was an optional event(you signed up when you got there) and so me and a few other guys from my Speech Team went for it.</p> 
 
-<p>If that doesn't count, then it's got to be [[Ed32]]/*[[Gorilla Theatre]]* which I watched sometime in late 2003, when I was planning to audition for [[Ed32]] (I was soon not able to). Good stuff, of course.</p> </blockquote>
+<p>If that doesn't count, then it's got to be [[Troupes/Ed32]]/*[[Shows/Gorilla Theatre]]* which I watched sometime in late 2003, when I was planning to audition for [[Troupes/Ed32]] (I was soon not able to). Good stuff, of course.</p> </blockquote>
 
 ## Troupes
 * [[Troupes/Boss]]
@@ -50,7 +50,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I was in 
 * *[[Shows/After School Special Victims Unit]]*
 * *[[Shows/Cereal for Adults]]*
 * *[[Shows/Eye for an iPhone]]*
-* *[[Fuck It's Christmas]]*
+* *[[Shows/Fuck It's Christmas]]*
 * *[[Shows/Guilds Of Steel]]* (director)
 * *[[Hyperlinks]]*
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (Samuel "Screech" Powers)

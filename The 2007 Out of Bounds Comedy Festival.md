@@ -21,7 +21,7 @@ Its advertising and art were themed around Soviet Russia.
 * [[Troupes/The Knuckleball Now]]
 * [[Troupes/The Leading Brands]]
 * [[Shows/Vinyl Destination]]
-* [[You Me & Greg]]
+* [[Troupes/You Me & Greg]]
 
 ### Out-of-Town Acts
 * 88improv (Omaha)

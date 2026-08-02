@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Mixed Company** was a one-off *[[Cagematch]]* team.
+**Mixed Company** was a one-off *[[Shows/Cagematch]]* team.
 
 ## Summary
 [[Joseph Dailey]] is also a member of [[Troupes/Nice Astronaut]].

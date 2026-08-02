@@ -33,7 +33,7 @@ He was inspired to try improv by his kids who also took classes at [[The Hideout
 * *[[Shows/The Weekender]]*
 * *[[Shows/Maestro]]*
 * *[[Shows/Maestro Raw]]*
-* *[[Fancy Pants]]*
+* *[[Shows/Fancy Pants]]*
 * *[[Shows/2x4]]*
 * *[[Musical Night at Indra's]]*
 * *[[Impromp-Two]]*

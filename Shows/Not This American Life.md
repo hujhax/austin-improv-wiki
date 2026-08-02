@@ -70,10 +70,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andy Buck">Andy Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Buck">Performers/Andy Buck</a></li><!--
   --><li style=""><a class="internal-link" href="Annabel Guevara">Annabel Guevara</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Performers/Brandon Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Performers/Colin Bates</a></li><!--
   --><li style=""><a class="internal-link" href="Dan Kerrigan">Dan Kerrigan</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Performers/Gene Zhou</a></li><!--
@@ -195,15 +195,15 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * First run, cast by [[Performers/Shannon McCormick]] & [[Kerri Lendo]]
 	* Directed and adapted for the stage by [[Performers/Michael Ferstenfeld]]
 	* Assistant Directed by [[Performers/Ruby Willmann]]
-	* Cast & Producers: [[Andy Buck]], [[Performers/Emma Holder]], [[Performers/Lisa Jackson]], [[Performers/Kevin Miller]], [[Performers/Heidi Rogers]], [[Performers/Luis Salinas]], [[Teresa York]], [[Performers/Ruby Willmann]], [[Performers/Gene Zhou]], [[Performers/Sam Schak]] (tech)
+	* Cast & Producers: [[Performers/Andy Buck]], [[Performers/Emma Holder]], [[Performers/Lisa Jackson]], [[Performers/Kevin Miller]], [[Performers/Heidi Rogers]], [[Performers/Luis Salinas]], [[Teresa York]], [[Performers/Ruby Willmann]], [[Performers/Gene Zhou]], [[Performers/Sam Schak]] (tech)
  
 * Second run, cast, directed, and produced by [[Performers/Asaf Ronen]] & [[Performers/Michael Ferstenfeld]]
-	* [[Colin Bates]], [[Performers/Nicole Beckley]], [[Performers/Heidi Caldwell]], [[Annabel Guevara]], [[Dan Kerrigan]], [[Performers/Brandon Martin]], [[Performers/Kevin Miller]], [[Performers/Sam Schak]], [[Mars Wright]], [[Performers/Gene Zhou]]
+	* [[Performers/Colin Bates]], [[Performers/Nicole Beckley]], [[Performers/Heidi Caldwell]], [[Annabel Guevara]], [[Dan Kerrigan]], [[Performers/Brandon Martin]], [[Performers/Kevin Miller]], [[Performers/Sam Schak]], [[Mars Wright]], [[Performers/Gene Zhou]]
 
 * Third run, no regular cast:
 	* Directed and Produced by [[Performers/Michael Ferstenfeld]] & [[Performers/Asaf Ronen]]
 	* Recurring cast: [[Performers/Jeff Britt]], [[Performers/Ryan Hill]]
-	* Assistant Producers: [[Performers/Heidi Caldwell]], [[Performers/Nicole Beckley]], [[Sarah Marie Tufts]], [[Performers/Luis Salinas]], [[Performers/Gene Zhou]]
+	* Assistant Producers: [[Performers/Heidi Caldwell]], [[Performers/Nicole Beckley]], [[Performers/Sarah Marie Tufts]], [[Performers/Luis Salinas]], [[Performers/Gene Zhou]]
 
 ### Topics
 #### First Run
@@ -213,7 +213,7 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * 5/26/12 - Episode 4 - "Cinematic Reality" (produced by [[Performers/Heidi Rogers]])
 * 6/1/12 - Episode 5 - "What a Coincidence" (produced by [[Teresa York]])
 * 6/2/12 - Episode 6 - "Haunted." (produced by [[Performers/Kevin Miller]])
-* 6/8/12 - Episode 7 - "Food Glorious Food" (produced by [[Andy Buck]])
+* 6/8/12 - Episode 7 - "Food Glorious Food" (produced by [[Performers/Andy Buck]])
 * 6/9/12 - Episode 8 - "Beginnings and Endings" (produced by [[Performers/Emma Holder]] & [[Performers/Asaf Ronen]])
 
 #### Second Run

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Only Three Will Survive.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Only Three Will Survive]]*, featuring [[Performers/Heidi Rogers]], [[Lacy Shawn]], and [[Performers/Wyatt Tall]].
+Publicity image for *[[Only Three Will Survive]]*, featuring [[Performers/Heidi Rogers]], [[Performers/Lacy Shawn]], and [[Performers/Wyatt Tall]].
 
 Photo by [[Performers/Sarah Swofford]].
 

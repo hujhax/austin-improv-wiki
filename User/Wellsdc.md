@@ -1,4 +1,4 @@
 ---
-redirect: "David Wells"
+redirect: "Performers/David Wells"
 ---
-#REDIRECT [[David Wells]]
+#REDIRECT [[Performers/David Wells]]

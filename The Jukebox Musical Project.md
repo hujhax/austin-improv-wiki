@@ -264,8 +264,8 @@ Set during the USA/USSR space race of the 1970s and featuring music by [[Wikiped
 * [[Performers/Jordan T. Maxwell]]
 * [[John Mendell]]
 * [[Performers/Donna Rice]]
-* [[Dave Ronn]]
-* [[Jill Summar]]
+* [[Performers/Dave Ronn]]
+* [[Performers/Jill Summar]]
 
 ### Karma Police
 Set during the Salem Witch Trials and featuring music by [[Wikipedia - Radiohead|Radiohead]] (July 2015)
@@ -276,7 +276,7 @@ Set during the Salem Witch Trials and featuring music by [[Wikipedia - Radiohead
 * [[Performers/Michael Ferstenfeld]]
 * [[Kim Stacy]]
 * [[Performers/Megan Sherrod]]
-* [[Jill Summar]]
+* [[Performers/Jill Summar]]
 * [[Performers/Kelly Campbell]]
 
 ### Renaissance Queen
@@ -286,7 +286,7 @@ Set during the Italian Renaissance and featuring music by [[Wikipedia - Queen (b
 * [[Performers/Bryan Curry]] - Michelangelo
 * [[Nicholaus Weindel]] - Rafael 
 * [[Kim Stacy]] - Chorus/Teacher
-* [[Cené Hale]] - Chorus/Margharita/Father
+* [[Performers/Cené Hale]] - Chorus/Margharita/Father
 * [[Lindsey McGowen]] - Chorus/Mother/Medici
 
 ### Home Again: The Story of Passover
@@ -304,7 +304,7 @@ The story of Annie Oakley and Calamity Jane as told through the music of [[Wikip
 #### Cast
 * [[Emily Cawood]] - May Lillie
 * [[Kim Stacy]] - Lillian Smith
-* [[Cene Hale]] - Annie Oakley
+* [[Performers/Cene Hale]] - Annie Oakley
 * [[Brittni Cocchiara]] - Calamity Jane
 * [[Performers/Tosin awofeso]] - Buffalo Bill
 * [[Allen Fisher]] - Frank Butler

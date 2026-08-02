@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Danger.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for *[[Danger]]*.
+Publicity photo for *[[Shows/Danger]]*.
 
 Photo by: unknown.
 ## Licensing

@@ -79,7 +79,7 @@
   --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
   --><li style=""><a class="internal-link" href="Nicholas Marino">Nicholas Marino</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Rachel Austin">Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Performers/Rachel Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Performers/Rosemarie Frezza</a></li><!--
   --><li style=""><a class="internal-link" href="Way Spurr-Chen">Way Spurr-Chen</a></li><!--
   --><!--

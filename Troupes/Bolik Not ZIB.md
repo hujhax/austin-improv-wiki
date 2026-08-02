@@ -1,4 +1,4 @@
 ---
-redirect: "Bolik Not ZIB"
+redirect: "Troupes/Bolik Not ZIB"
 ---
-#REDIRECT [[Bolik Not ZIB]]
+#REDIRECT [[Troupes/Bolik Not ZIB]]

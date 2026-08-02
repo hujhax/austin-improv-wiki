@@ -101,7 +101,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/37385435) by [[Kyle Sweeney]] of their final performance in *[[Thursday Night Social Club]]*, "Hoop Poop" (uploaded 2/24/12). 
 * [Video](http://vimeo.com/37550428) by [[Kyle Sweeney]] of their 2/27/12 show, "Sit In's".
 * [Video](http://vimeo.com/40252187) by [[Kyle Sweeney]] of their 4/12/12 show, "Rooster".
-* [Video](http://vimeo.com/41814176) by [[Kyle Sweeney]] of their 5/7/12 *[[Monday Night Mash]]* show, "Rooster".
+* [Video](http://vimeo.com/41814176) by [[Kyle Sweeney]] of their 5/7/12 *[[Shows/Monday Night Mash]]* show, "Rooster".
 * [Video](http://vimeo.com/43683016) by [[Kyle Sweeney]] of their "Nazi Dream" show (uploaded 6/8/12).
 * [Video](http://vimeo.com/44279396) by [[Kyle Sweeney]] of their "Kindness Kids" show (uploaded 6/18/12).
 * [Video](http://vimeo.com/46047691) by [[Kyle Sweeney]] of their "Anxious Sexism" show (uploaded 7/19/12).

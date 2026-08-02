@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Knife Crime Island** was a one-off *[[Cagematch]]* team.
+**Knife Crime Island** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/7/14.

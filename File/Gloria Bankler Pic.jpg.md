@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Gloria Bankler Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Gloria Bankler]] performing.
+[[Performers/Gloria Bankler]] performing.
 
 Photo Credit: [[Performers/Dave alley]].
 

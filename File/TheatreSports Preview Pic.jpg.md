@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="TheatreSports Preview Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Preview image for *[[Theatresports (mainstage run)|TheatreSports]]*.
+Preview image for *[[Shows/Theatresports (mainstage run)|TheatreSports]]*.
 
 Artwork by [[Performers/Kaci Beeler]].
 

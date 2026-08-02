@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Pack of Cigarettes & Some Milk** was a one-off *[[Cagematch]]* team.
+**Pack of Cigarettes & Some Milk** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 4/30/14.  They received a 3-minute jumping ovation from the audience.

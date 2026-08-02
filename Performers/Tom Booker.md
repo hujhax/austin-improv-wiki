@@ -38,7 +38,7 @@ He's a really nice guy. You should meet him.
 
 ## Shows
 * *[[Shows/Bad Girls in Plaid Skirts]]* (writer, director, performer [The Bishop])
-* *[[Fuck It's Christmas]]* (director, performer)
+* *[[Shows/Fuck It's Christmas]]* (director, performer)
 * *[[Shows/Fuck It's Hot]]* (director)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (director)
 * *[[Live TV Tuesdays -  John Hughes Summer School]]* (director)

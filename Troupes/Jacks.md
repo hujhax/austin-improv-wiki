@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Jacks** is a *[[Cagematch]]* team.
+**Jacks** is a *[[Shows/Cagematch]]* team.
 
 ## History
 They played in the 7/23/14 *Cagematch*.

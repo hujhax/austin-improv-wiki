@@ -23,10 +23,10 @@
   --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Performers/Ash Nunley</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Schwartz">Performers/David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Halyn Erickson">Halyn Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Erickson">Performers/Halyn Erickson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Performers/Melissa Patterson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--

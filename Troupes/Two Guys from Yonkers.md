@@ -87,7 +87,7 @@ Here is [[Performers/Bobby Ford]]'s explanation of the name's origin:<blockquote
 * [[The Hideout Theatre]] - [[Shows/The Threefer]] and [[Shows/The Weekender]]
 * Opening act for [[Troupes/Parallelogramophonograph]] (in 2013)
 * [[The Institution Theater]] in [[Shows/The Triple Scoop]]
-* [[Coldtowne Theater]] and their show the [[Cagematch]]
+* [[Coldtowne Theater]] and their show the [[Shows/Cagematch]]
 
 ## Media
 ### Videos
@@ -100,7 +100,7 @@ Here is [[Performers/Bobby Ford]]'s explanation of the name's origin:<blockquote
 * [Video](http://vimeo.com/55690464) by [[Performers/Paul Normandin]] of their 12/9/12 performance in *[[Shows/The Weekender]]*.
 * [Video](http://vimeo.com/57209037) by [[Performers/Paul Normandin]] of their 12/23/12 performance at [[Coldtowne Theater]].
 * [Video](http://vimeo.com/57533245) by [[Performers/Paul Normandin]] of their January 2013 performance in [[FronteraFest]].
-* [Video](http://vimeo.com/60376143) by [[Performers/Paul Normandin]] of their 2/15/13 performance in *[[PGraph Presents]]*.
+* [Video](http://vimeo.com/60376143) by [[Performers/Paul Normandin]] of their 2/15/13 performance in *[[Shows/PGraph Presents]]*.
 * [Video](http://vimeo.com/61076534) by [[Performers/Paul Normandin]] of their 3/3/13 performance in *[[Shows/The Weekender]]*.
 * [Video](http://vimeo.com/64470434) by [[Performers/Paul Normandin]] of their 4/6/13 performance at [[The Institution Theater]].
 * [Video](http://vimeo.com/71314848) by [[Performers/Paul Normandin]] of their 7/28/13 performance at [[The Institution Theater]].

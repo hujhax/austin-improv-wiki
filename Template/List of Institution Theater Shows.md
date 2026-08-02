@@ -2,7 +2,7 @@
 This **List of Institution Theater Shows** is designed to be transcluded into any "[[Institution Theater]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
-* *[[The Austin Improv Monologue Jam]]*
+* *[[Shows/The Austin Improv Monologue Jam]]*
 * *[[Shows/Booker and a Buddy]]*
 * *[[Shows/Highly Suggestible]]*
 * *[[Impromp-Two]]*
@@ -15,8 +15,8 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[Bitterfest]]*
 * *[[Shows/Boys of Summer]]*
 * *[[Shows/Buzz Band]]*
-* *[[Danger]]*
-* *[[Fuck It's Christmas]]*
+* *[[Shows/Danger]]*
+* *[[Shows/Fuck It's Christmas]]*
 * *[[Shows/Fuck It's Hot]]*
 * *[[Shows/Hell & Back Cabaret]]* (2013)
 * *[[Shows/Hurly Burly]]* 

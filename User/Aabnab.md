@@ -1,4 +1,4 @@
 ---
-redirect: "Tyler Bryce"
+redirect: "Performers/Tyler Bryce"
 ---
-#REDIRECT [[Tyler Bryce]]
+#REDIRECT [[Performers/Tyler Bryce]]

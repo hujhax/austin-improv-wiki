@@ -96,7 +96,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 <p>Jake and Callie have both been training at [[The Institution Theater]] and other theaters. </p>
 <p>Jake has 5+ years of improv under his belt. </p>
 <p>Callie is in level 3 at the [[Institution Theater]]. </p>
-<p>The Couchsurfers coach with [[Performers/Asaf Ronen]] and recently debuted their show at [[The Insitution Theater]]'s *[[Triple Scoop]]* showcase.</p>
+<p>The Couchsurfers coach with [[Performers/Asaf Ronen]] and recently debuted their show at [[The Insitution Theater]]'s *[[Shows/Triple Scoop]]* showcase.</p>
 </blockquote>
 
 ## More Information

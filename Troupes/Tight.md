@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Performers/Bob McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Erika McNichol">Erika McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika McNichol">Performers/Erika McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Erin Plischke">Erin Plischke</a></li><!--
   --><li style=""><a class="internal-link" href="Jen Cargill">Jen Cargill</a></li><!--
   --><li style=""><a class="internal-link" href="Mac Antigua">Mac Antigua</a></li><!--
@@ -78,7 +78,7 @@ Formed by former members of the Chicago Improv Community in the Spring of 2005.
 
 Tight played shows in both Houston and Austin throughout early 2005.
 
-In June of 2005, [[Performers/Bob McNichol]] & [[Erika McNichol]] also moved from Chicago's iO community and had known Jen and Erin and Dave in Chicago and fit right into the group seamlessly.
+In June of 2005, [[Performers/Bob McNichol]] & [[Performers/Erika McNichol]] also moved from Chicago's iO community and had known Jen and Erin and Dave in Chicago and fit right into the group seamlessly.
 
 Tight's main format was a monoscene in real time.
 

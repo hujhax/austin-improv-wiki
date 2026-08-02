@@ -24,7 +24,7 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Eizabeth Brammer">Eizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eizabeth Brammer">Performers/Eizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Performers/Joshua Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--

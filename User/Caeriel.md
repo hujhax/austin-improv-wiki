@@ -1,4 +1,4 @@
 ---
-redirect: "Caeriel Crestin"
+redirect: "Performers/Caeriel Crestin"
 ---
-#REDIRECT [[Caeriel Crestin]]
+#REDIRECT [[Performers/Caeriel Crestin]]

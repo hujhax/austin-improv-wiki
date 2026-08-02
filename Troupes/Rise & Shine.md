@@ -82,7 +82,7 @@ The cast played the same characters every time & invited a guest player to impro
 ## History
 *Rise & Shine* started in January, 2009 and stopped performing sometime in late 2010.
 
-The first performance was a [[Cagematch]] show and happened on Saturday, March 7th, 2009 at [[Coldtowne Theater]]. It featured [[Performers/John Ratliff]] as the guest celebrity.
+The first performance was a [[Shows/Cagematch]] show and happened on Saturday, March 7th, 2009 at [[Coldtowne Theater]]. It featured [[Performers/John Ratliff]] as the guest celebrity.
 
 ## Media
 ### Videos

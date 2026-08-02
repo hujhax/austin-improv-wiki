@@ -1,4 +1,4 @@
 ---
-redirect: "Ryan Austin"
+redirect: "Performers/Ryan Austin"
 ---
-#REDIRECT [[Ryan Austin]]
+#REDIRECT [[Performers/Ryan Austin]]

@@ -1,4 +1,4 @@
 ---
-redirect: "Justin Davis"
+redirect: "Performers/Justin Davis"
 ---
-#REDIRECT [[Justin Davis]]
+#REDIRECT [[Performers/Justin Davis]]

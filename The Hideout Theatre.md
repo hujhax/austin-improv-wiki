@@ -29,7 +29,7 @@
 
 ## History
 ### 1998-1999: Austin Theatresports
-Inspired by the improv he had seen in San Francisco, [[Performers/Sean Hill]] founded [[Austin Theatresports]] in 1998.  This is the group that would shortly form the core of the Hideout Theatre, but they didn't have a theater space yet.  Instead, they performed *[[Austin Theatresports|Theatresports]]* shows at a number of venues in town, including [[The Hyde Park Theater]].
+Inspired by the improv he had seen in San Francisco, [[Performers/Sean Hill]] founded [[Troupes/Austin Theatresports]] in 1998.  This is the group that would shortly form the core of the Hideout Theatre, but they didn't have a theater space yet.  Instead, they performed *[[Troupes/Austin Theatresports|Theatresports]]* shows at a number of venues in town, including [[The Hyde Park Theater]].
 
 ### 1999-2004: Sean Hill Starts the Hideout
 In the first years of the theater's operation, [[Performers/Sean Hill]] led building/renovating the initial theater space, and he produced the first shows there, starting with [[Shows/TheatreSports]], and expanding the program out to other [[Wikipedia - Keith Johnstone|Keith Johnstone]] formats such as *[[Shows/Maestro]]* and *[[Shows/Gorilla Theater]]*.  He included some traditional longforms that weren't strictly Johnstonian, such as *[[Shows/More or Less]]* and *[[Shows/Six Degrees]]*.
@@ -46,7 +46,7 @@ On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House bus
 The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
 
 ### Ongoing Shows
-* *[[Hideout Kids]]*
+* *[[Shows/Hideout Kids]]*
 * *[[Shows/The Free Fringe]]*
 * *[[Shows/Gorilla Theater]]*
 * *[[Shows/Maestro]]*

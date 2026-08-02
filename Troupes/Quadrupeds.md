@@ -83,7 +83,7 @@ And repeat a third time with yet another choice. We try to make sure the stories
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/126649332) of their performance in the 4/30/15 *[[Free Fringe]]*.
+* [Video](http://vimeo.com/126649332) of their performance in the 4/30/15 *[[Shows/Free Fringe]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

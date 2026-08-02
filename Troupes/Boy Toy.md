@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Performers/Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Performers/Josh Krilov</a></li><!--
   --><li style="" ><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
   --><!--

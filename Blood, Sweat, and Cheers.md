@@ -137,5 +137,5 @@ Several cast members played as an exhibition team in *[[Shows/TheatreSports]]* o
 * [The show's kickstarter.](http://www.kickstarter.com/projects/kacibeeler/it-takes-blood-sweat-and-cheers-to-make-theater)
 * ["Save the date" post](http://forum.austinimprov.com/viewtopic.php?f=2&t=15140) on [[The AIC Forums]].
 * [The show's blog.](http://austincheershow.blogspot.com/)
-* [An interview about the play](http://kut.org/2013/05/204801/) with [[Performers/Kaci Beeler]] and [[Halyn Erickson]] on KUT's *Arts Eclectic*.
+* [An interview about the play](http://kut.org/2013/05/204801/) with [[Performers/Kaci Beeler]] and [[Performers/Halyn Erickson]] on KUT's *Arts Eclectic*.
 * [An interview](http://www.mystatesman.com/news/entertainment/like-a-local-kaci-beeler-cheers-for-some-laughs/nX5Bx/) with [[Performers/Kaci Beeler]] in *The Austin-American Statesman*.

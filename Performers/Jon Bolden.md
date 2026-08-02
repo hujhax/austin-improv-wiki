@@ -50,13 +50,13 @@ Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He
 * *[[Shows/Camp Madeupponaspotta]] (Director)*
 * *[[Shows/Charles Dickens Unleashed]]*
 * *[[Shows/False Matters]]*
-* *[[Heist]]*
+* *[[Shows/Heist]]*
 * *[[Shows/Lola]]* (tech)
 * *[[Shows/Process]]*
 * *[[Shows/Manhattan Stories]]* (Performed and Directed)
 * *[[Shows/Nothing And Everything]]* (Director)
 * *[[Shows/The New Game Project]]*
-* *[[Theatresports (mainstage run)|Theatresports]]*
+* *[[Shows/Theatresports (mainstage run)|Theatresports]]*
 
 ## More Information
 * [Interview](http://yesandrew.com/2014/06/08/the-sunday-interview-jon-bolden-2/) by [[Performers/Andrew Buck]].

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Heist.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for [[Heist]].
+Poster for [[Shows/Heist]].
 
 Photos by [[Performers/Jon Bolden]].
 

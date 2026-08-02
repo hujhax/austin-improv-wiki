@@ -42,7 +42,7 @@ Chris moved to Round Rock in 2011, where he would frequently visit Austin. It wa
 
 ## Shows
 * *[[Shows/The Untitled Avant-Garde Theater Project with a Really Long Title]]*
-* *[[Fancy Pants]]*
+* *[[Shows/Fancy Pants]]*
 * *[[Shows/Maestro]]*
 * *[[Shows/Maestro Raw]]*
 * *[[The Tribunial]]*

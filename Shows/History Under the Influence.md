@@ -120,7 +120,7 @@ The Austin-based core cast of *History Under the Influence* is listed below, but
 * [[Performers/David Lampe]]
 * [[Performers/Caeriel Crestin]]
 * [[Performers/Mitchell Deane]]
-* [[Jill Summar]]
+* [[Performers/Jill Summar]]
 * [[Performers/Katie Doran]]
 * [[Performers/Aspen Webster]]
 * [[Performers/Chris Curl]]

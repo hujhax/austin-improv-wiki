@@ -33,7 +33,7 @@ Rachel is a core cast member in [[The 45-Hour Improv Marathon]].
 ## Shows
 * *[[Troupes/Bridgeport Women's Correctional Facility Short Form Players]]*
 * *[[Shows/Shanty Town Lake]]*
-* *[[3 2 1 Kill]]*
+* *[[Troupes/3 2 1 Kill]]*
 * *[[Troupes/You're Fat]]*
 
 ## More Information

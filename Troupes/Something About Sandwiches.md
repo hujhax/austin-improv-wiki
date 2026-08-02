@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Something About Sandwiches** was a one-off *[[Cagematch]]* duo.
+**Something About Sandwiches** was a one-off *[[Shows/Cagematch]]* duo.
 
 ## Summary
 They did an improv montage while making sandwiches for the audience.

@@ -82,7 +82,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes one of their shows. 
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.437930102264.211724.588952264&type=3) by [[Performers/Peter Rogers]] of their performance in the 5/6/10 *[[Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.437930102264.211724.588952264&type=3) by [[Performers/Peter Rogers]] of their performance in the 5/6/10 *[[Shows/Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 8/27/10 performance.
 
 ## More Information

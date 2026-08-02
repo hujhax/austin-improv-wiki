@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Movie Meat** was a *[[Cagematch]]* duo that performed the Movie format.
+**Movie Meat** was a *[[Shows/Cagematch]]* duo that performed the Movie format.
 
 ## Summary
 The duo occasionally performed with guests such as [[Performers/Joshua Krilov]], [[Performers/Lance Gilstrap]], and [[Andy Petruzzo]].

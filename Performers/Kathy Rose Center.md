@@ -39,12 +39,12 @@ In 2013, she applied her improv skills to her professional acting work, becoming
 * [[Troupes/Pom-Pom Sisterhood]]
 * [[Troupes/Grey Matters]]
 * [[JOY!]]
-* [[Taxi Cab Impressions]]
+* [[Troupes/Taxi Cab Impressions]]
 
 ## Shows
 * *[[Shows/Maestro]]* at the [[Hideout Theater]]
 * *[[Shows/After School Improv]]* (2009 crew - sound improviser) at the [[Hideout Theater]]
-* *[[Fancy Pants Mash Up]]* at the [[Hideout Theater]]
+* *[[Shows/Fancy Pants Mash Up]]* at the [[Hideout Theater]]
 * *[[Only Three Will Survive]]* at The [[Institution Theater]]
 * *[[Shows/The ReSet Project]]* (produced by [[Performers/Leng Wong]], Lucky Chaos Theater) at [[Salvage Vanguard Theater]]
 

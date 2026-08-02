@@ -1,4 +1,4 @@
 ---
-redirect: "Neal Tibrewala"
+redirect: "Performers/Neal Tibrewala"
 ---
-#REDIRECT [[Neal Tibrewala]]
+#REDIRECT [[Performers/Neal Tibrewala]]

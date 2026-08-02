@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Performers/Ryan Hill</a></li><!--
   --><li style=""><a class="internal-link" href="Ben Masten">Ben Masten</a></li><!--
@@ -73,7 +73,7 @@
 **Century** was an improv troupe that performed a monoscene format with a historical suggestion.
 
 ## History
-After the four members performed in [[Shows/The Next Chapter]], directed by [[Justin Davis]], [[Performers/Brad Hawkins]] suggested they continue as an independent troupe.
+After the four members performed in [[Shows/The Next Chapter]], directed by [[Performers/Justin Davis]], [[Performers/Brad Hawkins]] suggested they continue as an independent troupe.
 
 The troupe decided to call it quits in mid 2014.
 

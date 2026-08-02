@@ -19,7 +19,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Chrissy Shackleford">Chrissy Shackleford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackleford">Performers/Chrissy Shackleford</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Performers/Erika May McNichol</a></li><!--
@@ -87,7 +87,7 @@ The troupe prepared for the performance runs by, among other things, developing 
 [[Performers/Erika May McNichol]] came up with the idea for the troupe while living in Chicago, after seeing *[[Wikipedia - Switchblade Sisters|Switchblade Sisters]]*.  She also drew inspiration from the 1980s promotional TV show [[Wikipedia - Gorgeous Ladies of Wrestling|Gorgeous Ladies of Wrestling]].
 
 The troupe debuted in *[[Shows/The Cagematch]]* on 7/14/06 with the following cast:
-* [[Erika May]]
+* [[Performers/Erika May]]
 * [[Jen Cargill]]
 * [[Jill Morris]]
 * [[Performers/Kaci Beeler]]
@@ -98,7 +98,7 @@ The troupe debuted in *[[Shows/The Cagematch]]* on 7/14/06 with the following ca
 This run included a show at [[The 2006 Out of Bounds Comedy Festival]].  The last performance on record for that incarnation is a 4/27/07 performance in *[[Shows/The Threefer]]*.
 
 The troupe returned to [[ColdTowne]] in June 2014 for a run of Saturday-night shows, as the "Bridgeport Correctional Facility Short Form Impromptu Skit Players", with the following cast:
-* [[Chrissy Shackleford]]
+* [[Performers/Chrissy Shackleford]]
 * [[Performers/Cortnie Jones]]
 * [[Performers/Courtney Hopkin]]
 * [[Performers/Erika May McNichol]]

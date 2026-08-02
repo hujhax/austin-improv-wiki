@@ -83,7 +83,7 @@ The first improv show he ever saw was *[[Shows/After School Improv]]*.
 * [[Troupes/Apocalypse Meow]]
 * [[Troupes/The Dancy Street D'Orchestra]]
 * [[Troupes/Danger! Warning! Improv!]] (tech)
-* [[EPIC!]]
+* [[Troupes/EPIC!]]
 * [[Shows/Flying Theater Machine]]
 * [[Shows/The Professor]] (tech)
 * [[Troupes/The Starborn]] (tech)

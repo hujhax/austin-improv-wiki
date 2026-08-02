@@ -1,4 +1,4 @@
 ---
-redirect: "Chelsea Bunn"
+redirect: "Performers/Chelsea Bunn"
 ---
-#REDIRECT [[Chelsea Bunn]]
+#REDIRECT [[Performers/Chelsea Bunn]]

@@ -31,7 +31,7 @@ In ancient Egypt the sorceress Jillatep first heard the stirrings of improv insp
 * [[Troupes/Your Dad's Friends]]
 
 ## Shows
-* *[[Camp Madeupponathaspotta]]*
+* *[[Shows/Camp Madeupponathaspotta]]*
 * *[[Shows/History Under the Influence]]*
 * [[Shows/Hurly Burly]] 
 

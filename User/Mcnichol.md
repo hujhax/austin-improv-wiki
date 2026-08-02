@@ -1,4 +1,4 @@
 ---
-redirect: "Bob McNichol"
+redirect: "Performers/Bob McNichol"
 ---
-#REDIRECT [[Bob McNichol]]
+#REDIRECT [[Performers/Bob McNichol]]

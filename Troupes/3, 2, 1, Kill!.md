@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Performers/Arthur Simone</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Performers/Bob McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Performers/Erika May McNichol</a></li><!--

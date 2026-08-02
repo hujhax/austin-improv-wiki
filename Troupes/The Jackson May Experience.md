@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Jackson May Experience** was a one-off *[[Cagematch]]* duo.
+**The Jackson May Experience** was a one-off *[[Shows/Cagematch]]* duo.
 
 ## History
 They played one Cagematch on 4/3/10

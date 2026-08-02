@@ -30,10 +30,10 @@ A post from him about the first improv show he ever saw:<blockquote>First improv
 * [[Troupes/Junk]]
 
 ## Shows
-* *[[Hitchcocked]]*
+* *[[Shows/Hitchcocked]]*
 * *[[Shows/The Sci-Fi Comedy Double Feature]]* (director)
 * *[[Shows/Start Trekkin']]* (director)
-* *[[Theatresports (mainstage run)|Theatresports]]*
+* *[[Shows/Theatresports (mainstage run)|Theatresports]]*
 * *[[Shows/Twilight Zoned]]* (director)
 
 ## More Information

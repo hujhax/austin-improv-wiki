@@ -7,7 +7,7 @@ The festival ran from 5/5/10 to 5/8/10 at [[Salvage Vanguard Theater]].
 ### Local Acts
 * [[Troupes/Adventure Squad!]]
 * [[Troupes/Battle Axe]]
-* [[Firth&Arjet]]
+* [[Troupes/Firth&Arjet]]
 * [[Troupes/Florida Room]]
 * [[Troupes/Girl Embassy World Team]]
 * [[Troupes/Girls Girls Girls]]

@@ -1,4 +1,4 @@
 ---
-redirect: "Brad Hawkins"
+redirect: "Performers/Brad Hawkins"
 ---
-#REDIRECT [[Brad Hawkins]]
+#REDIRECT [[Performers/Brad Hawkins]]

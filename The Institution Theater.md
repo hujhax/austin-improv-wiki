@@ -35,7 +35,7 @@ In 2014, the Institution expanded into a second space, just across the parking l
 
 ## Shows
 ### Ongoing Shows
-* *[[The Austin Improv Monologue Jam]]*
+* *[[Shows/The Austin Improv Monologue Jam]]*
 * *[[Shows/Booker and a Buddy]]*
 * *[[Shows/Highly Suggestible]]*
 * *[[Impromp-Two]]*
@@ -48,8 +48,8 @@ In 2014, the Institution expanded into a second space, just across the parking l
 * *[[Bitterfest]]*
 * *[[Shows/Boys of Summer]]*
 * *[[Shows/Buzz Band]]*
-* *[[Danger]]*
-* *[[Fuck It's Christmas]]*
+* *[[Shows/Danger]]*
+* *[[Shows/Fuck It's Christmas]]*
 * *[[Shows/Fuck It's Hot]]*
 * *[[Shows/Hell & Back Cabaret]]* (2013)
 * *[[Shows/Hurly Burly]]* 

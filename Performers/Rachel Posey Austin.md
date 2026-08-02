@@ -32,7 +32,7 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Troupes/Physics Curse]]
 * [[Shows/Control Issues]] (former troupe member)
 * [[Coyly Blunt]]
-* [[Zarzamora]]
+* [[Troupes/Zarzamora]]
 * [[Donut Patrol]]
 
 ## Shows
@@ -42,7 +42,7 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Damn Gina Presents The Nightwatch]]
 * [[Shows/Peter Pan and the Great Unknown]]
 * [[Coven]]
-* [[I'll Take the Physical Challenge]]
+* [[Shows/I'll Take the Physical Challenge]]
 * [[Shows/Process]]
 * [[The 47-Hour Improv Marathon]]
 * [[Shows/Origins]]
@@ -54,7 +54,7 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Shows/The Dahl House]] (sound tech)
 * *[[Shows/The Organ Trail]]* 
 * *[[It's Saturday Night!]]*
-* *[[Camp Madeuponthespotta]]*
+* *[[Shows/Camp Madeuponthespotta]]*
 
 ## Festivals
 * Out of Bounds 2017 (Austin, TX)

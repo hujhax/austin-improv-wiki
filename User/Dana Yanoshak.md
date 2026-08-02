@@ -1,4 +1,4 @@
 ---
-redirect: "Dana Yanoshak"
+redirect: "Performers/Dana Yanoshak"
 ---
-#REDIRECT [[Dana Yanoshak]]
+#REDIRECT [[Performers/Dana Yanoshak]]

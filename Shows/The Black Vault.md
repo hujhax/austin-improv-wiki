@@ -26,7 +26,7 @@
   --><li style=""><a class="internal-link" href="Performers/Jay Michael">Performers/Jay Michael</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Performers/Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
@@ -150,7 +150,7 @@ After its mainstage run, there were a number of one-off shows:
 * 12/6/12: "Lovecraft Secrets", a mash-up with *[[Shows/Austin Secrets]]* that played at *[[Shows/The Free Fringe]]*.
 * 4/13/13: a 25-minute show played [[The 2013 Improvised Play Festival]].
 * 5/5/13: a 25-minute show played "nerd-prov", a nerd-themed quadruple-bill at *[[The Institution Theater]]*.
-* 5/23/13: "Pick Your Own Black Vault", a mash-up with *[[Pick Your Own Path]]* that played at *[[Shows/The Free Fringe]]*.
+* 5/23/13: "Pick Your Own Black Vault", a mash-up with *[[Shows/Pick Your Own Path]]* that played at *[[Shows/The Free Fringe]]*.
 * 6/23/13: the show was hour 32 of [[The 44-Hour Improv Marathon]].
 * 3/27/14: a double-bill with [[Shows/Strange Worlds]] as a fundraiser for both show's trip to the Alaska State Improv Festival.
 
@@ -191,7 +191,7 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 * [Photoset](http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3) by [[Roy Moore]] that includes their 10/11/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3) by [[Performers/Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/) by [[Performers/Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.712663832143464.1073741848.473177099425473&type=3) by [[Performers/Chad Wellington]] of their 10/24/14 show with [[Mister Morbid]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.712663832143464.1073741848.473177099425473&type=3) by [[Performers/Chad Wellington]] of their 10/24/14 show with [[Shows/Mister Morbid]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203090924416751.1073741919.1315383518&type=3) by [[Michael Yew]] of the 12/4/14 performance of "Arkham Community Radio" in *[[Shows/The Free Fringe]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204872285069654.1073741966.1315383518&type=3) by [[Michael Yew]] of a 9/15 cast visit to H. P. Lovecraft's gravesite in Providence, Rhode Island.
 
@@ -204,7 +204,7 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 	* Short cast interviews:
 		* [Interview](http://vimeo.com/112034604) with [[Performers/Paul Normandin]].
 		* [Interview](http://vimeo.com/112034692) with [[Performers/Jayme Ramsay]].
-		* [Interview](http://vimeo.com/112257992) with [[Justin Davis]].
+		* [Interview](http://vimeo.com/112257992) with [[Performers/Justin Davis]].
 		* [Interview](http://vimeo.com/112363296) with [[Performers/Andreas Fabis]].
 		* [Interview](http://vimeo.com/112363297) with [[Performers/Marc Majcher]].
 

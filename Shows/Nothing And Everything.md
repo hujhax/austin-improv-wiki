@@ -78,12 +78,12 @@
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Performers/Kaci Danger</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Performers/Megan Sherrod</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Troy A. Miller">Troy A. Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy A. Miller">Performers/Troy A. Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
   --><!--
   --><!--

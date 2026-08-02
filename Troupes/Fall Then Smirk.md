@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Fall Then Smirk** was a one-off *[[Cagematch]]* team.
+**Fall Then Smirk** was a one-off *[[Shows/Cagematch]]* team.
 
 ## Summary
 The troupe was set up to be an analog to [[Troupes/The Frank Mills]] ("Fall Then Smirk" is an anagram for that name), with each cast member playing in the style of one of the [[Frank Mills]] troupe members:

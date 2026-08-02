@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Sons of Tiny Dinosaurs** was a one-off *[[Cagematch]]* team.
+**Sons of Tiny Dinosaurs** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/7/11.

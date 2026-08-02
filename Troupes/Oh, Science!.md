@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ed Melendez">Performers/Ed Melendez</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Performers/Kristin Henn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Livni">Performers/Nathan Livni</a></li><!--
   --><!--
@@ -76,9 +76,9 @@
 The troupe was founded as a [[ColdTowne Student Troupes|ColdTowne student troupe]] in July of 2009. Known for their intensely joyful, energetic shows, the troupe performed a modified Harold until Spring 2013. Currently, they perform a monoscene.
 
 ## History
-Here is [[Josh Gill]]'s explanation of the name's origin:<blockquote>Oh, Science was born out of a Google spreadsheet of well over 200 possible names. We all got together in a room with some pizza, and basically narrowed it down, then went through a voting/vetoing process until we narrowed it down to Oh, Science! (with the proper punctuation. I still think we should have been called The Masons. :D</blockquote>
+Here is [[Performers/Josh Gill]]'s explanation of the name's origin:<blockquote>Oh, Science was born out of a Google spreadsheet of well over 200 possible names. We all got together in a room with some pizza, and basically narrowed it down, then went through a voting/vetoing process until we narrowed it down to Oh, Science! (with the proper punctuation. I still think we should have been called The Masons. :D</blockquote>
 
-Since February 10, 2010 they have hosted the [[Coldtowne Theater]] 8:30PM Sunday slot, which was first called *[[The Jam with Oh, Science!]]* and is now called *[[Shows/Improvised Comedy with Oh, Science!]]*.
+Since February 10, 2010 they have hosted the [[Coldtowne Theater]] 8:30PM Sunday slot, which was first called *[[Shows/The Jam with Oh, Science!]]* and is now called *[[Shows/Improvised Comedy with Oh, Science!]]*.
 
 Oh, Science! has performed at [[The Out Of Bounds Comedy Festival]] and at The Del Close Marathon.
 

@@ -5,7 +5,7 @@
 ## Summary
 The festival ran from 11/8/12 to 11/10/12.
 
-It included an all-star *[[Shows/Maestro]]*, a teen improv showcase, and a "Ladies' Night", which featured local improvisors [[Performers/Aden Kirschner]], [[Performers/Amy Averett]], [[Performers/Courtney Hopkin]], [[Performers/Emma Holder]], [[Erika McNichol]], [[Performers/Halyn Lee Erickson]], [[Performers/Kaci Beeler]], [[Performers/Kayla Lane Freeman]], [[Lauren Zinn]], and [[Performers/Shana Merlin]].
+It included an all-star *[[Shows/Maestro]]*, a teen improv showcase, and a "Ladies' Night", which featured local improvisors [[Performers/Aden Kirschner]], [[Performers/Amy Averett]], [[Performers/Courtney Hopkin]], [[Performers/Emma Holder]], [[Performers/Erika McNichol]], [[Performers/Halyn Lee Erickson]], [[Performers/Kaci Beeler]], [[Performers/Kayla Lane Freeman]], [[Performers/Lauren Zinn]], and [[Performers/Shana Merlin]].
 
 The festival also included several acts from *[[Shows/The Free Fringe]]*.
 

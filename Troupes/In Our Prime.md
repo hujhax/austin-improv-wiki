@@ -77,7 +77,7 @@
 **In Our Prime** is an improv troupe that focuses on grounded, dramatic longforms.
 
 ## Summary
-In Our Prime was the brainchild of [[Performers/Paul Normandin]]. Paul and [[Gloria Bankler]] became close friends after [[Performers/Kaci Beeler]]'s *Romance and Intimacy* Elective at [[The Hideout Theatre]] in 2011. Gloria and Paul met [[Performers/Ryan Hill]] when they all took an elective workshop at [[The Hideout Theatre]] entitled *Andy is Mean to You*, wherein Hideout Education Director [[Performers/Andy Crouch]] would give very direct feedback to students. Soon after, Paul approached Gloria and Ryan with his idea for a troupe that would perform extremely grounded, even dramatic, improv with very little focus on comedy. 
+In Our Prime was the brainchild of [[Performers/Paul Normandin]]. Paul and [[Performers/Gloria Bankler]] became close friends after [[Performers/Kaci Beeler]]'s *Romance and Intimacy* Elective at [[The Hideout Theatre]] in 2011. Gloria and Paul met [[Performers/Ryan Hill]] when they all took an elective workshop at [[The Hideout Theatre]] entitled *Andy is Mean to You*, wherein Hideout Education Director [[Performers/Andy Crouch]] would give very direct feedback to students. Soon after, Paul approached Gloria and Ryan with his idea for a troupe that would perform extremely grounded, even dramatic, improv with very little focus on comedy. 
 
 The troupe was briefly named *It'll Come to Us* until the name *In Our Prime* was decided on due to the older-than-average age of the cast and the primeness of their number (three). The trio performed a debut show at the Hideout.
 
@@ -85,7 +85,7 @@ Ryan was a teaching assistant for Hideout Theatre co-owner [[Performers/Jessica 
 
 IOP is a house troupe for [[Alamao City Improv]] headlining a show in San Antonio (starting in 2016) on the first Saturday of each month. In Our Prime is also directing a main stage show for [[Alamao City Improv]], Gone Tomorrow, with performances each Friday and Saturday July 14 through August 12, 2017.
 
-IOP has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), the [[Wafflefest]] (2012-13), [[Frontera Fest]] (2013-14), [[The Improvised Play Festival]] (2013-2014), [[Unscripted New York]] (2014) and [[The Out Of Bounds Comedy Festival]] (2012-14). They played a regular monthly slot in *[[Shows/The Free Fringe]]* at [[The Hideout Theatre]] through 2013 and have also performed a month-long [[Threefer]] run there. The troupe's *[[Free Fringe]]* shows tended to be more humorous and less grounded. 
+IOP has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), the [[Wafflefest]] (2012-13), [[Frontera Fest]] (2013-14), [[The Improvised Play Festival]] (2013-2014), [[Unscripted New York]] (2014) and [[The Out Of Bounds Comedy Festival]] (2012-14). They played a regular monthly slot in *[[Shows/The Free Fringe]]* at [[The Hideout Theatre]] through 2013 and have also performed a month-long [[Shows/Threefer]] run there. The troupe's *[[Shows/Free Fringe]]* shows tended to be more humorous and less grounded. 
 
 They were coached for a period of several months in 2012 by [[Performers/Jeremy Sweetlamb|Jeremy Lamb]]. [[Performers/Shannon McCormick]] also coached them for several months starting in June of 2013. [[Performers/Chuy Zarate]] and [[Performers/Christopher 'Ceej' Allen]] have coached them in 2015.
 
@@ -98,11 +98,11 @@ Here is [[Performers/Paul Normandin]]'s explanation of the name's origin:<blockq
 * 07/20/2012 - Improv Festival Oklahoma ("Survivalist Family")
 * 09/01/2012 - [[Out of Bounds]] ("Dating an Environmentalist")
 * 09/29/2012 - Hawaii Improvaganza Festival ("Art")
-* 10/04/2012 - [[Threefer]] Run ("Gay Boy")
-* 10/11/2012 - [[Threefer]] Run ("Drugs and Kids")
-* 10/18/2012 - [[Threefer]] Run ("The Car Accident & The Brady Bunch")
-* 10/18/2012 - [[Free Fringe]] Curve Ball Format Debut ("Hell")
-* 10/25/2012 - [[Threefer]] Run ("Run-Away Dad")
+* 10/04/2012 - [[Shows/Threefer]] Run ("Gay Boy")
+* 10/11/2012 - [[Shows/Threefer]] Run ("Drugs and Kids")
+* 10/18/2012 - [[Shows/Threefer]] Run ("The Car Accident & The Brady Bunch")
+* 10/18/2012 - [[Shows/Free Fringe]] Curve Ball Format Debut ("Hell")
+* 10/25/2012 - [[Shows/Threefer]] Run ("Run-Away Dad")
 * 11/10/2012 - [[Wafflefest]] ("The Affair")
 
 ## Media

@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Cold Turkey** was a one-off *[[Cagematch]]* team that did an "improvised intervention".
+**Cold Turkey** was a one-off *[[Shows/Cagematch]]* team that did an "improvised intervention".
 
 ## History
 They played one Cagematch on 5/11/12.

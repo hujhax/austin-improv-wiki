@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Charlatans!** was a one-off *[[Cagematch]]* team.
+**Charlatans!** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/28/14.

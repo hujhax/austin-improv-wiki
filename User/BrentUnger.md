@@ -1,4 +1,4 @@
 ---
-redirect: "Brent Unger"
+redirect: "Performers/Brent Unger"
 ---
-#REDIRECT [[Brent Unger]]
+#REDIRECT [[Performers/Brent Unger]]

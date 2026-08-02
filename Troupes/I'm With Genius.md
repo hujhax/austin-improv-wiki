@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**I'm With Genius** was a one-off *[[Cagematch]]* team.
+**I'm With Genius** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 11/28/09.

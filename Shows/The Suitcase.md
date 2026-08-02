@@ -28,11 +28,11 @@
   --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Performers/Clifton Highfield</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Performers/Jeanette Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Performers/Kayla Lane Freeman</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Nicole Beckley">Performers/Nicole Beckley</a></li><!--
-  --><li style=""><a class="internal-link" href="Samantha schak">Samantha schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Samantha schak">Performers/Samantha schak</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Performers/Wyatt Tall</a></li><!--
   --><!--
   --><!--
@@ -152,6 +152,6 @@ The show opened with a set of monologues, and then the story split up, with inde
 * [Press photos for the show.](http://www.facebook.com/media/set/?set=a.10151560732329090.1073741825.273514734089&type=1)
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2314430) with director [[Performers/Asaf Ronen]], assistant director [[Performers/Jason Vines]], and cast members [[Performers/Nicole Beckley]] and [[Jeanette Jones]] on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2314430) with director [[Performers/Asaf Ronen]], assistant director [[Performers/Jason Vines]], and cast members [[Performers/Nicole Beckley]] and [[Performers/Jeanette Jones]] on *[[The Theft Forum]]*.
 
 [[Category/Shows|Suitcase]]

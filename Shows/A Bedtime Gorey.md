@@ -24,7 +24,7 @@
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Jayme Ramsey">Jayme Ramsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsey">Performers/Jayme Ramsey</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--

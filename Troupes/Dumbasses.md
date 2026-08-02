@@ -85,7 +85,7 @@ Dumbasses formed in [[The Institution Theater]]'s master class during one of ins
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/21/12 performance at [[The Institution Theater]].
-* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Performers/Chad Wellington]] that includes their performance in the 6/9/13 *[[Triple Scoop]]*.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Performers/Chad Wellington]] that includes their performance in the 6/9/13 *[[Shows/Triple Scoop]]*.
 
 ## More Information
 * [The Dumbasses facebook page](http://www.facebook.com/pages/Dumbasses/311185398904052)

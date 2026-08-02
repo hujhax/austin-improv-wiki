@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Texas Jim Crago** was a one-off *[[Cagematch]]* team.
+**Texas Jim Crago** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one exhibition Cagematch on 11/28/12.

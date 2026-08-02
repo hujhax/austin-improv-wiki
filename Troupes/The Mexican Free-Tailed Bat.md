@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Mexican Free-Tailed Bat** was a one-off *[[Cagematch]]* team.
+**The Mexican Free-Tailed Bat** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/7/11.

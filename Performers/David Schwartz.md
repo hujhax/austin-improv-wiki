@@ -22,12 +22,12 @@
 **David Schwartz** is an improv performer
 
 ## History
-David started improvising seriously in 2009, performing in a competitive, short form group called Cheap Sox from his alma mater, Tufts University. He joined the Austin improv scene when he moved to Austin in 2013. In addition to his troupes and shows, he has also performed in [[Mister Morbid]], the 48-Hour improv fest, the [[Moontower Comedy Festival]], and the [[Megaphone Marathon]].
+David started improvising seriously in 2009, performing in a competitive, short form group called Cheap Sox from his alma mater, Tufts University. He joined the Austin improv scene when he moved to Austin in 2013. In addition to his troupes and shows, he has also performed in [[Shows/Mister Morbid]], the 48-Hour improv fest, the [[Moontower Comedy Festival]], and the [[Megaphone Marathon]].
 
 ## Troupes
 * [[Troupes/Field Day]]
 * [[POV]]
-* [[Water Park]]
+* [[Troupes/Water Park]]
 
 ## Shows
 * *[[Shows/A Penny Dreadful]]* (assistant director)

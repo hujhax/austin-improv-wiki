@@ -48,7 +48,7 @@ She was Technical Director for the [[Out of Bounds Comedy Festival]] from 2013-2
 * *[[Shows/Fiasco]]* *(scoring tech/sound swing)*
 * *[[Shows/Flying Theater Machine]]* *(tech)*
 * *[[Shows/Fragile Rock]]* *(musician)*
-* *[[Fuck It's Christmas]]* *(musician)*
+* *[[Shows/Fuck It's Christmas]]* *(musician)*
 * *[[Shows/Fuck It's Hot]]* *(musician)*
 * *[[Shows/GrimmNoir]]* *(tech director, tech)*
 * *[[Shows/The International Improv Experience]]* ''(tech)

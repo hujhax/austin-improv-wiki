@@ -273,14 +273,14 @@ It played exclusively at [[The Institution Theater]].
 * Photographer -- [[Eleazar Paradise]]
 * Program Designer -- [[Performers/Asaf Ronen]]
 * Technical Arts -- [[Performers/Todd Hart]], [[BK McKee]], [[Performers/Neal Tibrewala]]
-* Video Production -- [[Madeline Chauvin]]
+* Video Production -- [[Performers/Madeline Chauvin]]
 * "My Overkill" written by Bill Lawrence
 * "My Musical" written by Debra Fordham
 * "Screw You" written by Garfunkel and Oates
 
 ## Media
 * [Photoset of the 8/10/12 performance](http://www.facebook.com/media/set/?set=a.376141825787836.83399.118587218209966&type=3) by [[Roy Moore]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.10102310892215350.3454321.7944448&type=3)  by [[Madeline Chauvin]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.10102310892215350.3454321.7944448&type=3)  by [[Performers/Madeline Chauvin]].
 * [Publicity photos](http://www.facebook.com/media/set/?set=a.10102326737516240.3457235.7914830&type=3) posted by [[Performers/Adam Mengesha]].
 * [[File/ScrubsProgram.jpeg.md|The show's program.]]
 

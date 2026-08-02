@@ -1,4 +1,4 @@
-This category is for projects that started out as one-offs in [[The Hideout Theatre]]'s *[[Free Fringe]]*.
+This category is for projects that started out as one-offs in [[The Hideout Theatre]]'s *[[Shows/Free Fringe]]*.
 
 ## Pages in category "Started as a Fringe Show"
 

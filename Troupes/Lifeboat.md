@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Delaney Liming">Delaney Liming</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
   --><!--
   --><!--

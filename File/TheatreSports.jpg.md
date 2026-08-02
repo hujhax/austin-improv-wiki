@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="TheatreSports.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-publicity image for [[Theatresports (mainstage run)|TheatreSports]].
+publicity image for [[Shows/Theatresports (mainstage run)|TheatreSports]].
 
 Art by [[Performers/Kaci Beeler]].
 ## Licensing

@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Three Blondes** was a one-off *[[Cagematch]]* team.
+**Three Blondes** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 The troupe played a Cagematch on 10/3/12.

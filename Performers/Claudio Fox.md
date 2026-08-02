@@ -25,7 +25,7 @@
 * [[Troupes/Shades of Brown]]
 
 ## Shows
-* *[[Fuck It's Christmas]]*
+* *[[Shows/Fuck It's Christmas]]*
 * *[[Shows/GrimmNoir]]*
 
 [[Category/Performers|Fox]]

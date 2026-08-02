@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Mike McGill">Mike McGill</a></li><!--
   --><!--

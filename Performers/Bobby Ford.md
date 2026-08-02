@@ -37,7 +37,7 @@ In late 2013 Bob began working on the idea of bringing dramatic absurdist theate
 * *[[Shows/Maestro]]* 
 * *[[Shows/The Cagematch]]*
 * *[[Shows/The Fancy-Pants Mashup]]*
-* *[[Pick Your Own Path]]*
+* *[[Shows/Pick Your Own Path]]*
 * *[[The Tribunal]]* (2012 Cast)
 * *[[Shows/The ReSet Project]]*
 * *[[Breaking Beckett]]* (Producer/Director)

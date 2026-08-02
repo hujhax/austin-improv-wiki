@@ -144,7 +144,7 @@ In practical terms, the host presents a short segment or trailer of a 70s horror
 ## History
 ### 2013 Guest Schedule
 * 10/4/13: [[Troupes/Dumbasses]] & [[Troupes/Indigo Shift]] 
-* 10/5/13: [[Shows/Flying Theater Machine]] & [[Zarzamora]]
+* 10/5/13: [[Shows/Flying Theater Machine]] & [[Troupes/Zarzamora]]
 * 10/11/13: *[[Shows/The Black Vault]]* & [[Troupes/Midnight Society]] 
 * 10/12/13: [[Troupes/Parallelogramophonograph]] & "David Razowsky and Friends" 
 * 10/18/13: [[Troupes/The Knuckleball Now]] & [[Troupes/No Frills]] 
@@ -157,18 +157,18 @@ Unknown.
 
 ### 2015 Guest Schedule
 * 10/9/15: [[Troupes/Golden]] & [[Troupes/Cascade]]
-* 10/16/15: [[Flying Theatre Machine]] & [[Troupes/The Knuckleball Now]]
+* 10/16/15: [[Shows/Flying Theatre Machine]] & [[Troupes/The Knuckleball Now]]
 * 10/23/15: *[[Shows/The Ladies Room]]* & [[Troupes/Confidence Men]]
 * 10/30/15: [[Troupes/Indigo Shift]] & [[Troupes/Midnight Society]]
 
 ## Media
 ### Videos
-* [Audio](http://vimeo.com/76849825) of the *[[Black Vault]]* show on 10/11/13.
-* [Video](http://vimeo.com/77576162) of the [[Professor]] show on 10/19/13.
+* [Audio](http://vimeo.com/76849825) of the *[[Shows/Black Vault]]* show on 10/11/13.
+* [Video](http://vimeo.com/77576162) of the [[Shows/Professor]] show on 10/19/13.
 * [Video](http://vimeo.com/channels/austinimprov/77891213) of the [[Shows/False Matters]] show on 10/19/13.
 
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3) by [[Performers/Claudio Fox]] of the 10/5/13 performance with [[Shows/Flying Theater Machine]] and [[Zarzamora]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3) by [[Performers/Claudio Fox]] of the 10/5/13 performance with [[Shows/Flying Theater Machine]] and [[Troupes/Zarzamora]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3) by [[Roy Moore]] of the 10/11/13 performance with *[[Shows/The Black Vault]]* and [[Troupes/Midnight Society]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Performers/Claudio Fox]] of the 10/25/13 performance with [[Troupes/Waterpark]] and [[Troupes/Girls Girls Girls]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3) by [[Michael Yew]] of the 10/26/13 performance with [[Troupes/IScream Sandwich]] and [[Troupes/My Best Fiend]].

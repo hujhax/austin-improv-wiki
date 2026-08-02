@@ -26,7 +26,7 @@
   --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Performers/Aaron Walther</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Brady James">Brady James</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Performers/Elizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Gricelda Silva">Gricelda Silva</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Howard Katz">Performers/Howard Katz</a></li><!--
@@ -91,7 +91,7 @@ Like *[[Shows/Showdown]]*, *Steam* was a serialized narrative, with ten "episode
 * [[Performers/Audrey Rachel Sansom]] as "The Wild Heart," Wilhemina Wyldeheart 
 * [[Performers/Julie Gillis]] as "The Duchess," Lady Electra Spencer
 * [[Performers/Emily Breedlove]] as "The Amazon," Yvette Cloud
-* [[Elizabeth Brammer]] as "The Ingenue," Adelaide McKenna
+* [[Performers/Elizabeth Brammer]] as "The Ingenue," Adelaide McKenna
 * [[Gricelda Silva]] as "The Pixie," Leto
 * [[Performers/Aaron Walther]] as "The Rogue," Captain Hamwich Leon
 * [[Brady James]] as "The Young Adventurer," Benjamin Cumberbatch

@@ -70,12 +70,12 @@
 	</table>
 </div>
 
-**The Great Toad & Chameleon Circus** was a one-off *[[Cagematch]]* duo.
+**The Great Toad & Chameleon Circus** was a one-off *[[Shows/Cagematch]]* duo.
 
 ## History
 They showed up to play a Cagematch against [[Troupes/Firth & Arjet]] on 5/25/07, but no audience members showed up.
 
-They then teamed up with [[Troupes/Firth & Arjet]] to take on [[A Bride Soon]] on 6/9/07.  (They lost.)
+They then teamed up with [[Troupes/Firth & Arjet]] to take on [[Troupes/A Bride Soon]] on 6/9/07.  (They lost.)
 
 [[Category/Troupes|Great Toad & Chameleon Circus]]
 [[Category/Duos|Great Toad & Chameleon Circus]]

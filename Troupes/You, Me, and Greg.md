@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Doug Pena">Doug Pena</a></li><!--
   --><li style=""><a class="internal-link" href="Greg Spencer">Greg Spencer</a></li><!--
-  --><li style=""><a class="internal-link" href="Phil Aulie">Phil Aulie</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Phil Aulie">Performers/Phil Aulie</a></li><!--
   --><!--
   --><!--
   --><!--

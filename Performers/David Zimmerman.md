@@ -75,7 +75,7 @@
 ## History
 David was nominated for "Favorite Tech Performer" in [[The 2013 Institution Theater Awards]].
 
-A post from him about the first improv show he ever saw:<blockquote>Winter of 2006, I saw [[Troupes/Parallelogramophonograph]]'s *[[After School Special]]* at [[Coldtowne Theater]] after hearing about it from [[Wesley Bain|Wesley]] from [[The Tuesday Night Jam]], and I gave the suggestion of teen pregnancy for the show. [[Troupes/Get Up]] was also there, doing a sea epic. </blockquote>
+A post from him about the first improv show he ever saw:<blockquote>Winter of 2006, I saw [[Troupes/Parallelogramophonograph]]'s *[[Shows/After School Special]]* at [[Coldtowne Theater]] after hearing about it from [[Wesley Bain|Wesley]] from [[The Tuesday Night Jam]], and I gave the suggestion of teen pregnancy for the show. [[Troupes/Get Up]] was also there, doing a sea epic. </blockquote>
 
 ## Troupes
 * [[Troupes/Midnight Society]]

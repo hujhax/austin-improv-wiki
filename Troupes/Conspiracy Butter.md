@@ -73,7 +73,7 @@
 **Conspiracy Butter** was an improv duo.
 
 ## History
-The duo played at least one *[[Cagematch]]* in 2006.
+The duo played at least one *[[Shows/Cagematch]]* in 2006.
 
 ## Media
 ### Videos

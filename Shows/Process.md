@@ -42,9 +42,9 @@
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Performers/Jeremy Sweetlamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Performers/Kaci Danger</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Performers/Margaret Rose Hunsicker</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
@@ -92,7 +92,7 @@
   --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Performers/Nichole Bennett</a> (Lights/Run Crew)</li><!--
   --><li style=""><a class="internal-link" href="Nicole Oglesby">Nicole Oglesby</a> (Set Asst)</li><!--
   --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a> (Assistant Stage Manager)</li><!--
-  --><li style=""><a class="internal-link" href="Stuart m feild">Stuart m feild</a> (Set Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stuart m feild">Performers/Stuart m feild</a> (Set Lead)</li><!--
   --><!--
   --><!--
   --><!--
@@ -214,9 +214,9 @@ The show is returning in 2016 as a Hideout mainstage show.
 * [[Performers/Courtney Hopkin]]
 * [[Performers/Curtis Luciani]]
 * [[Haley Alea Erickson]]
-* [[J.R. Zambrano]]
+* [[Performers/J.R. Zambrano]]
 * [[Performers/Jeremy Sweetlamb]]
-* [[Kaci Danger]]
+* [[Performers/Kaci Danger]]
 * [[Performers/Katie Dahm]]
 * [[Performers/Margaret Rose Hunsicker]]
 * [[Performers/Michael Joplin]]
@@ -235,13 +235,13 @@ The show is returning in 2016 as a Hideout mainstage show.
 * Lights/Run Crew - [[Performers/Nichole Bennett]] and [[Bonnie Dilber]]
 * Run Crew - [[Jenn Hamm]]
 * Set Asst - [[Nicole Oglesby]]
-* Set Lead - [[Stuart m feild]]
+* Set Lead - [[Performers/Stuart m feild]]
 * Stage Manager - [[Performers/Jessica Von Schramm]]
 * Technical Director - [[Lindsey McGowen]]
 
 ## Media
 ### Videos
-* [Video](http://www.youtube.com/watch?v=KgYGpcS5ork) of [[The Available Cupholders]]' Play format at the 2010 Sarasota Improv Festival
+* [Video](http://www.youtube.com/watch?v=KgYGpcS5ork) of [[Troupes/The Available Cupholders]]' Play format at the 2010 Sarasota Improv Festival
 * [Video](http://vimeo.com/40488504) of their 4/15/12 performance in [[The 2012 Improvised Play Festival]]
 
 ### Photos

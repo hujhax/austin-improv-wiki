@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The MilkMen** was a one-off *[[Cagematch]]* team.
+**The MilkMen** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 1/2/09 and one on 2/6/09.

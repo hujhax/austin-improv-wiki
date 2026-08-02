@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Uncle Dan** was a one-off *[[Cagematch]]* team.
+**Uncle Dan** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They made it to the championship match of the winter 2009 "Theater of Cruelty" Cagematch.

@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Seussed Up** was a one-off *[[Cagematch]]* team.
+**Seussed Up** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 4/30/14.

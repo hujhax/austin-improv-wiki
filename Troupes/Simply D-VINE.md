@@ -82,7 +82,7 @@ The troupe debuted at [[Shows/The Spectacle]] on 11/27/10.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.165388706875494.43739.100002130980897&type=3) by [[Steve Rogers]] that includes their performance in [[The 2011 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.539914026030097.118722.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 2/9/13 performance in *[[Shows/The Triple Scoop]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.588812357848951.1073741915.221927764537414&type=3) by [[Steve Rogers]] of their 8/28/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
-* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Hell-and-Back-Cabaret/20130913/Simply-DVine/) by [[Performers/Chad Wellington]] of their 9/13/13 performance in [[The Hell & Back Cabaret]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Hell-and-Back-Cabaret/20130913/Simply-DVine/) by [[Performers/Chad Wellington]] of their 9/13/13 performance in [[Shows/The Hell & Back Cabaret]].
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3) by [[Performers/Warren Henderson]] that includes their 11/15/13 performance in the *[[Shows/2x4]]*.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[Shows/The Threefer]]*.

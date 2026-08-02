@@ -26,10 +26,10 @@
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Performers/Kimberly Cox</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Performers/Menelaos Prokos</a></li><!--

@@ -81,7 +81,7 @@
   --><li style=""><a class="internal-link" href="Ethan Stites">Ethan Stites</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Performers/Heidi Penix</a></li><!--
   --><li style=""><a class="internal-link" href="Ben Howell">Ben Howell</a></li><!--
-  --><li style=""><a class="internal-link" href="Heidi Lorenz">Heidi Lorenz</a> (Host)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Lorenz">Performers/Heidi Lorenz</a> (Host)</li><!--
   --><!--
   --><!--
   --><!--

@@ -21,7 +21,7 @@ It included an all-star *[[Shows/Maestro]]* and a teen showcase.
 * [[Troupes/In Our Prime]]
 * [[Troupes/IScream Sandwich]]
 * [[Troupes/Junk]]
-* [[Known Wizards]]
+* [[Troupes/Known Wizards]]
 * [[Troupes/The Knuckleball Now]]
 * [[Shows/Movie Riot]]
 * *[[Shows/Nothing And Everything]]*
@@ -30,7 +30,7 @@ It included an all-star *[[Shows/Maestro]]* and a teen showcase.
 * [[Troupes/Squirrel Buddies]]
 * [[Troupes/The Starborn]]
 * [[Troupes/Three on a Match]]
-* [[Zarzamora]]
+* [[Troupes/Zarzamora]]
 
 ## Media
 ### Photos

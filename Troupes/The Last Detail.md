@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Last Detail** was a one-off *[[Cagematch]]* duo.
+**The Last Detail** was a one-off *[[Shows/Cagematch]]* duo.
 
 ## History
 They played one Cagematch on 3/6/10.

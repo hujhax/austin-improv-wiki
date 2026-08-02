@@ -1,4 +1,4 @@
 ---
-redirect: "Asaf Ronen"
+redirect: "Performers/Asaf Ronen"
 ---
-#REDIRECT [[Asaf Ronen]]
+#REDIRECT [[Performers/Asaf Ronen]]

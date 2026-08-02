@@ -73,7 +73,7 @@
 **Phil** is an improv troupe.
 
 ## History
-Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[The Hideout Theatre]] with Tyler as their TA. Phil has since performed regularly at [[The Hideout Theatre]] and [[Coldtowne Theater]]. In May 2014, Phil had [[Threefer]] run at [[The Hideout Theatre]].
+Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[The Hideout Theatre]] with Tyler as their TA. Phil has since performed regularly at [[The Hideout Theatre]] and [[Coldtowne Theater]]. In May 2014, Phil had [[Shows/Threefer]] run at [[The Hideout Theatre]].
 
 ## Media
 ### Videos

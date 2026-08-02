@@ -37,7 +37,7 @@ After doing improv in Chicago, Erika May McNichol moved to Austin in June 2005.
 * *[[Title Fine -  We Got Game]]* (Director/Producer)
 * *[[Tweet Dreams]]* (Director/Producer)
 * *[[Church of Indeterminate Divinity]]* (Ensemble)
-* *[[Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]]* (Director/Producer)
+* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]]* (Director/Producer)
 * *[[Shows/Braised in Texas]]* (Director/Producer)
 * *[[McNichol & May -  Breeders]]* (Writer/Performer)
 * *[[Shows/Pocketful of Posies]]* (Ensemble)

@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Erika Bundy">Erika Bundy</a></li><!--
   --><li style=""><a class="internal-link" href="Jaci Kramer">Jaci Kramer</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Davis">Matt Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Rachel Austin">Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Performers/Rachel Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Richard Gentry">Richard Gentry</a></li><!--
   --><!--
   --><!--

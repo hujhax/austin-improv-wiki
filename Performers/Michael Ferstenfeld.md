@@ -28,7 +28,7 @@ Michael is the co-founder and artistic director of [Dystheatre](http://dystheatr
 * [[Troupes/Confidence Men]]
 * [[Troupes/Happiness is a Choice]]
 * [[Troupes/A Bunch of Liars]]
-* [[The Band of Liars]]
+* [[Troupes/The Band of Liars]]
 * [[Shows/The Professor]]
 
 ## Inactive Troupes
@@ -41,11 +41,11 @@ Michael is the co-founder and artistic director of [Dystheatre](http://dystheatr
 
 ## Shows
 * *[[Shows/Fakespeare]]* (Balthasar/Borachio/Banquo)
-* *[[Gorilla Theatre]]*
+* *[[Shows/Gorilla Theatre]]*
 * *[[Key Party]]*
 * *[[Shows/Start Trekkin']]*
 * *[[This Week Tonight]]*
-* *[[This American LIVE!]]* (Not Ira Glass)
+* *[[Shows/This American LIVE!]]* (Not Ira Glass)
 * *[[Shows/Late Night Time Machine]]* (Young Einstein)
 * *[[Shows/Tarantula]]*
 

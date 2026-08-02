@@ -27,7 +27,7 @@
   --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
   --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Santo">Performers/Josh Santo</a></li><!--
-  --><li style=""><a class="internal-link" href="JR Zambrano">JR Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/JR Zambrano">Performers/JR Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Lori Hobbie">Lori Hobbie</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Performers/Sunaina Suhag</a></li><!--
   --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--

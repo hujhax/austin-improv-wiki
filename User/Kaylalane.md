@@ -1,4 +1,4 @@
 ---
-redirect: "Kayla Lane Freeman"
+redirect: "Performers/Kayla Lane Freeman"
 ---
-#REDIRECT [[Kayla Lane Freeman]]
+#REDIRECT [[Performers/Kayla Lane Freeman]]

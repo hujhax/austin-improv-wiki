@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="History Under the Influence Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for the May 2014 *[[Threefer]]* run of *[[Shows/History Under the Influence]]* starring [[Performers/Kevin Miller]].
+Poster for the May 2014 *[[Shows/Threefer]]* run of *[[Shows/History Under the Influence]]* starring [[Performers/Kevin Miller]].
 
 Photo by [[Performers/Jon Bolden]].
 

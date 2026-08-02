@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Secret Garden.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Secret Garden]], performing in the 6/21/12 *[[Threefer]]*.
+[[Troupes/Secret Garden]], performing in the 6/21/12 *[[Shows/Threefer]]*.
 
 Still from [this video](http://vimeo.com/44573854) by [[Performers/Dave alley]].
 ## Licensing

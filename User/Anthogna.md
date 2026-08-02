@@ -1,4 +1,4 @@
 ---
-redirect: "Brent Chismark"
+redirect: "Performers/Brent Chismark"
 ---
-#REDIRECT [[Brent Chismark]]
+#REDIRECT [[Performers/Brent Chismark]]

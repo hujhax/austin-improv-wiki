@@ -36,7 +36,7 @@ Aspen started taking classes at the [[Hideout Theater]] in November of 2013, sho
 * *[[Shameless Dames]]* (2016)
 * ''[[Shows/Story to the Death]] (2016) (Assistant Director)
 * *[[Fool's Well]]* (2016)
-* ''[[Start Trekkin]] (2017)
+* ''[[Shows/Start Trekkin]] (2017)
 * ''[[Shows/How I Saved the World Over Summer Vacation]] (2017)
 * *[[Shows/Soundstage 23]]* (2017) (Co-Director)
 * *[[Big Gay Musical]]* (2018)

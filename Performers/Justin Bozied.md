@@ -41,10 +41,10 @@
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[The Birthday Clusterfunk]]* (host and producer)
 * *[[Shows/The Rubber Room]]* (performer and producer)
-* *[[This American Live]]* (guest storyteller)
+* *[[Shows/This American Live]]* (guest storyteller)
 * *[[Shows/Maestro]]* (2000-) (director, performer)
 * ''[[Shows/The Nightmare Video Project]]
-* ''[[Pick Your Own Path]]
+* ''[[Shows/Pick Your Own Path]]
 * ''[[The Tribunal]]
 * ''[[Shows/Holy 1960s Batman, Batman!]] (guest villain)
 

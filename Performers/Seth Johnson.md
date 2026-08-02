@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Seth Johnson** is an Austin improviser who began taking classes a [[The Hideout Theatre]] in 2012. He has performed in [[The Fancy Pants Mashup]].
+**Seth Johnson** is an Austin improviser who began taking classes a [[The Hideout Theatre]] in 2012. He has performed in [[Shows/The Fancy Pants Mashup]].
 
 ## Troupes
 ## Shows

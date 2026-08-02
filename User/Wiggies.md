@@ -1,4 +1,4 @@
 ---
-redirect: "Luis Salinas"
+redirect: "Performers/Luis Salinas"
 ---
-#REDIRECT [[Luis Salinas]]
+#REDIRECT [[Performers/Luis Salinas]]

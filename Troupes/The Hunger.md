@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Hunger** was a one-off *[[Cagematch]]* team.
+**The Hunger** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They won the "Let's Get Sweaty" Cagematch in the summer of 2014.

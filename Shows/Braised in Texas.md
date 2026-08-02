@@ -1,4 +1,4 @@
 ---
-redirect: "Braised in Texas"
+redirect: "Shows/Braised in Texas"
 ---
-#REDIRECT [[Braised in Texas]]
+#REDIRECT [[Shows/Braised in Texas]]

@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Andrew Wesley">Andrew Wesley</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Willmore">Performers/Frank Willmore</a></li><!--
-  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Phil Wilhelm">Phil Wilhelm</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
   --><!--

@@ -3,7 +3,7 @@
 ## Summary
 Photo by Steve Rogers
 
-Photo of [[Troupes/The Delightfuls]]: [[Performers/Bridget Brewer]], [[Lacy Shawn]], and [[Halyn Erickson]]
+Photo of [[Troupes/The Delightfuls]]: [[Performers/Bridget Brewer]], [[Performers/Lacy Shawn]], and [[Performers/Halyn Erickson]]
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

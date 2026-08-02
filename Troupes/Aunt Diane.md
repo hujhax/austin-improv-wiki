@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Aunt Diane** is a *[[Cagematch]]* team.
+**Aunt Diane** is a *[[Shows/Cagematch]]* team.
 
 ## History
 They played in the 7/30/14 *Cagematch*.

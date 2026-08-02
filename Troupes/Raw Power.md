@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Raw Power** is a *[[Cagematch]]* team.
+**Raw Power** is a *[[Shows/Cagematch]]* team.
 
 ## History
 They played in the 7/9/14 *Cagematch*.

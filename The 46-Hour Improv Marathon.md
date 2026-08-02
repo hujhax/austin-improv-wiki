@@ -20,7 +20,7 @@
 * [[Performers/Jessica Arjet]] - Planning
 * [[Performers/Kaci Beeler]] - Planning/Design
 * [[Performers/Courtney Hopkin]] - Marketing
-* [[Tim Coyle]] - Donations Captain
+* [[Performers/Tim Coyle]] - Donations Captain
 * [[Performers/Luke Wallens]] - Donations Assistant
 * [[Lahari Samineni]] - Sponsorship Captain
 * [[Performers/Cagney Ortiz]] - Sponsorship Assistant
@@ -34,7 +34,7 @@
 * Friday 5pm (hour 1): A "teen mixer", where the core cast play with teens from the Hideout's classes.
 * Friday 6pm (hour 2): "And They're Off" -- free-form improv with the core cast.
 * Friday 7pm (hour 3): *[[Shows/Start Trekkin']]*
-* Friday 8pm (hour 4): *[[The Fancy-Pants Mash-Up]]*
+* Friday 8pm (hour 4): *[[Shows/The Fancy-Pants Mash-Up]]*
 * Friday 9pm (hour 5): "At Home with Katy and Tony"
 	* "Two actual, lovely British people welcome the core 8 into their Living Room for this hour."
 * Friday 10pm (hour 6): [[Troupes/Parallelogramophonograph]]
@@ -72,7 +72,7 @@
 * Sunday 4am (hour 36): "The Orphan Is Displeased"
 	* "An orphan ([[Performers/Bridget Brewer]]) Skypes into the Marathon to control the action."
 * Sunday 5am (hour 37): *[[Shows/Tech Nightmare]]*
-* Sunday 6am (hour 38): *[[Care Bear Stare]]*
+* Sunday 6am (hour 38): *[[Shows/Care Bear Stare]]*
 	* "The Care Bears are here to bring badly-animated joy to your lives."
 * Sunday 7am (hour 39): *[[Shows/Buzz Band]]*
 * Sunday 8am (hour 40): [[Troupes/The Escorts]]
@@ -80,7 +80,7 @@
 * Sunday 10am (hour 42): "Fury Road"
 	* "*[[Wikipedia - Mad Max -  Fury Road|Mad Max: Fury Road]]* was a hell of a movie, and this will be a hell of a show."
 * Sunday 11am (hour 43): *[[Shows/Spirited]]*
-* Sunday 12pm (hour 44): [[The Available Cupholders]]
+* Sunday 12pm (hour 44): [[Troupes/The Available Cupholders]]
 * Sunday 1pm (hour 45): *[[Shows/Fakespeare]]*
 * Sunday 2pm (hour 46): "Final Show"
 	* The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep.

@@ -24,7 +24,7 @@
 ## Troupes
 * [[Troupes/Shades of Brown]]
 * [[Troupes/The Foreign Legion]]
-* [[Senshi Sokyo]]
+* [[Troupes/Senshi Sokyo]]
 * [[Troupes/Diplomatic Impunity]]
 * [[Troupes/The Walk-Ons]]
 

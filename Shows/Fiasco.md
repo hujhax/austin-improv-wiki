@@ -37,7 +37,7 @@
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Monica Martinez Maher">Monica Martinez Maher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Monica Martinez Maher">Performers/Monica Martinez Maher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
   --><!--
   --><!--

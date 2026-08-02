@@ -30,7 +30,7 @@
   --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Performers/Julie Gillis</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Katie Thornton">Performers/Katie Thornton</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Madi Goff">Performers/Madi Goff</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Performers/Mark Carpenter</a></li><!--
@@ -119,7 +119,7 @@ Each night, the roles of Hero 1, Hero 2, Villain, and Narrator were decided befo
 * [[James Roberts]]
 * [[Performers/Jason Vines]]
 * [[Performers/Julie Gillis]]
-* [[Justin Davis]]
+* [[Performers/Justin Davis]]
 * [[Performers/Katie Thornton]]
 * [[Performers/Madi Goff]]
 * [[Performers/Mark Carpenter]]

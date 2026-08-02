@@ -22,9 +22,9 @@
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Performers/Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Performers/Josh Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
   --><li style="" ><a class="internal-link" href="Melanie DeMartinis">Melanie DeMartinis</a></li><!--

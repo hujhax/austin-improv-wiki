@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Dragons?** was a one-off *[[Cagematch]]* team.
+**Dragons?** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one exhibition Cagematch on 7/3/10 and a "King of the Hill"-style match on 9/25/10.

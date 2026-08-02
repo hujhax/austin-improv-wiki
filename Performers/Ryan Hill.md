@@ -46,7 +46,7 @@ He is also a musician and has played for [[Shows/I Love You So Much]] with the b
 * *[[Shows/After School Improv]]*
 * *[[Shows/The Black Vault]]*
 * *[[Breaking Beckett]]*
-* *[[Fuck It's Christmas]]* (musician)
+* *[[Shows/Fuck It's Christmas]]* (musician)
 * *[[Shows/GrimmNoir]]*
 * *[[Shows/Hurly Burly]]*
 * *[[Shows/I Love You So Much]]*

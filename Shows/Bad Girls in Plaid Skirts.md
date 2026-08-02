@@ -1,4 +1,4 @@
 ---
-redirect: "Bad Girls in Plaid Skirts"
+redirect: "Shows/Bad Girls in Plaid Skirts"
 ---
-#REDIRECT [[Bad Girls in Plaid Skirts]]
+#REDIRECT [[Shows/Bad Girls in Plaid Skirts]]

@@ -11,7 +11,7 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 ### Local Improv and Sketch Acts
 * *2001* Dubbed
 * [[Troupes/The $3 Bills]]
-* [[Achatina Achatina!]]
+* [[Troupes/Achatina Achatina!]]
 * [[Troupes/The Amazon and The Milksop]]
 * [[Troupes/Anticdotes]]
 * [[Shows/Austin Secrets]]
@@ -19,12 +19,12 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [[Troupes/Buddy Daddy]]
 * [[ColdTowne]]
 * [[ColdTowne Fantasy]]
-* [[Confidence Men -  Improvised Mamet]]
+* [[Troupes/Confidence Men -  Improvised Mamet]]
 * [[Cooper Street]]
 * [[Crack!]]
 * [[Troupes/Dick Rambuck]]
 * [[Dusk -  Improvised Tween Erotica]]
-* [[Firth and Arjet]]
+* [[Troupes/Firth and Arjet]]
 * [[Troupes/The Frank Mills]]
 * [[Troupes/Get Up]]
 * [[Troupes/Girls Girls Girls]]

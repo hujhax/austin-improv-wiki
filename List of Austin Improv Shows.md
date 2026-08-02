@@ -8,7 +8,7 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 * *[[Nice Astronaut Presents Improv Roulette]]*
 * *[[Play By Play]]*
 * *[[Shows/All Ages Improv Night]]*
-* *[[What's the Story Steve]]*
+* *[[Troupes/What's the Story Steve]]*
 
 ### Mainstage Productions
 In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.
@@ -116,7 +116,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
 
 ### Ongoing Shows
-* *[[Hideout Kids]]*
+* *[[Shows/Hideout Kids]]*
 * *[[Shows/The Free Fringe]]*
 * *[[Shows/Gorilla Theater]]*
 * *[[Shows/Maestro]]*
@@ -139,7 +139,7 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 
 ## [[The Institution Theater]]
 ### Ongoing Shows
-* *[[The Austin Improv Monologue Jam]]*
+* *[[Shows/The Austin Improv Monologue Jam]]*
 * *[[Shows/Booker and a Buddy]]*
 * *[[Shows/Highly Suggestible]]*
 * *[[Impromp-Two]]*
@@ -152,8 +152,8 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * *[[Bitterfest]]*
 * *[[Shows/Boys of Summer]]*
 * *[[Shows/Buzz Band]]*
-* *[[Danger]]*
-* *[[Fuck It's Christmas]]*
+* *[[Shows/Danger]]*
+* *[[Shows/Fuck It's Christmas]]*
 * *[[Shows/Fuck It's Hot]]*
 * *[[Shows/Hell & Back Cabaret]]* (2013)
 * *[[Shows/Hurly Burly]]* 

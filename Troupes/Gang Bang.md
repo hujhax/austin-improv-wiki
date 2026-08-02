@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Performers/Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Performers/Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Gill">Performers/Joshua Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--

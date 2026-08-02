@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Andrew Buck Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Andrew Buck]] performing in [[This American Live]].
+[[Performers/Andrew Buck]] performing in [[Shows/This American Live]].
 
 Photo by [[Performers/Claudio Fox]], from [this photoset](http://www.facebook.com/media/set/?set=a.429397763748391.96354.100000345135257&type=3).
 

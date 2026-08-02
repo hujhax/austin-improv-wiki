@@ -18,7 +18,7 @@ There are no records of the two Cagematches before 11/18/05.
 * 12/2/05 - **[[Troupes/ColdTowne (Troupe)|Coldtowne]]** vs. [[Troupes/Parallelogramophonograph]] (Coldtowne win 22-13) 
 * 12/9/05 - **[[Troupes/ColdTowne (Troupe)|Coldtowne]]** vs. [[Troupes/I Am a Truck]] (I am a Truck win 19-12) 
 * 12/16/05 - [[Troupes/I Am a Truck]] vs. **[[Troupes/Available Cupholders]]** (Cupholders win 19-15) 
-* 12/23/05 - **[[Troupes/Available Cupholders]]** vs. [[You Me & Greg]] (Cupholders win 25-15) 
+* 12/23/05 - **[[Troupes/Available Cupholders]]** vs. [[Troupes/You Me & Greg]] (Cupholders win 25-15) 
 * 12/30/05 - No match, due to [[Same Year's Eve]].
 
 ### 2006
@@ -34,15 +34,15 @@ There are no records of the two Cagematches before 11/18/05.
 * 1/20/06 - [[Troupes/Available Cupholders]] vs. **[[Troupes/Short and Sweet]]** (S&S win 24-23) 
 * 1/27/06 - [[Troupes/Short and Sweet]] vs. **The Chins** (Chins win) 
 * 2/3/06 - **The Chins** vs. [[Troupes/Blue Balls]] (The Chins win 17-2) 
-* 2/10/06 - The Chins vs. **[[You Me & Greg]]** (YM&G win 16-3) 
-* 2/17/06 - **[[You Me & Greg]]** vs. [[Troupes/Sui Generis]] (YM&G win 22-8) 
-* 2/24/06 - **[[You Me & Greg]]** vs. [[Troupes/Paul Bunyan]] (YM&G win 33-6) 
-* 3/3/06 - **[[You Me & Greg]]** vs. Get Down (YM&G win 34-4) 
-* 3/10/06 - **[[You Me & Greg]]** vs. [[Troupes/Fart Clown Glasses]] (YM&G win 44-7) 
-* 3/17/06 - **[[You Me & Greg]]** vs. [[Troupes/1813 Drake]] (YM&G win 10-3) 
-* 3/24/06 - **[[You Me & Greg]]** vs. Trash Can Boys (YM&G win 7-5) 
-* 3/31/06 - **[[You Me & Greg]]** vs. [[Troupes/I Am a Coat Rack, I Am a Lamp]] (YM&G win 21-7) 
-* 4/7/06 - [[You Me & Greg]] vs. **Scorpions** (Scorpions win 22-13) 
+* 2/10/06 - The Chins vs. **[[Troupes/You Me & Greg]]** (YM&G win 16-3) 
+* 2/17/06 - **[[Troupes/You Me & Greg]]** vs. [[Troupes/Sui Generis]] (YM&G win 22-8) 
+* 2/24/06 - **[[Troupes/You Me & Greg]]** vs. [[Troupes/Paul Bunyan]] (YM&G win 33-6) 
+* 3/3/06 - **[[Troupes/You Me & Greg]]** vs. Get Down (YM&G win 34-4) 
+* 3/10/06 - **[[Troupes/You Me & Greg]]** vs. [[Troupes/Fart Clown Glasses]] (YM&G win 44-7) 
+* 3/17/06 - **[[Troupes/You Me & Greg]]** vs. [[Troupes/1813 Drake]] (YM&G win 10-3) 
+* 3/24/06 - **[[Troupes/You Me & Greg]]** vs. Trash Can Boys (YM&G win 7-5) 
+* 3/31/06 - **[[Troupes/You Me & Greg]]** vs. [[Troupes/I Am a Coat Rack, I Am a Lamp]] (YM&G win 21-7) 
+* 4/7/06 - [[Troupes/You Me & Greg]] vs. **Scorpions** (Scorpions win 22-13) 
 
 There are no more known matches for 2006.
 
@@ -56,19 +56,19 @@ This was the very first Cagematch tournament.
 #### Quarterfinals
 * 5/4/07: **[[Troupes/Look Cookie]]** vs. unknown troupe
 	* [[Eric Seufert]] put out repeated requests for a second team to compete against look cookie.  As of 5/1/07, no team had offered to take on [[Troupes/Look Cookie]].
-* 5/11/07: **[[A Bride Soon]]** vs. [[Troupes/JaMiGe]]
+* 5/11/07: **[[Troupes/A Bride Soon]]** vs. [[Troupes/JaMiGe]]
 * 5/18/07: **[[Troupes/The Starter Kit]]** vs. [[Troupes/Suspicious Package]]
 * 5/25/07: [[Troupes/Firth & Arjet]] vs. [[Troupes/The Great Toad & Chameleon Circus]]
 	* This match resulted in a tie -- no audience members showed up to vote -- so the teams joined forces for the semifinals.
 
 #### Semifinals
 * 5/31/07: **[[Troupes/The Starter Kit]]** vs. [[Troupes/Look Cookie]]
-* 6/9/07: **[[A Bride Soon]]** vs. [[Troupes/Firth & Arjet]] + [[Troupes/The Great Toad & Chameleon Circus]]
+* 6/9/07: **[[Troupes/A Bride Soon]]** vs. [[Troupes/Firth & Arjet]] + [[Troupes/The Great Toad & Chameleon Circus]]
 	* [[Performers/Cody Dearing]] hosted this match as "future Cody", complete with a pair of glowing sunglasses.
 	* [[Troupes/Firth & Arjet]] and [[Troupes/The Great Toad & Chameleon Circus]] lost this match in spite of bribing the audience with donuts.
 
 #### Championship
-* 6/22/07: **[[Troupes/The Starter Kit]]** vs. [[A Bride Soon]]
+* 6/22/07: **[[Troupes/The Starter Kit]]** vs. [[Troupes/A Bride Soon]]
 
 ### More Information
 * [Request for a second team for the 5/4/07 show.](http://forum.austinimprov.com/viewtopic.php?f=6&t=3594&p=28896&hilit=seufert#p28896)
@@ -152,16 +152,16 @@ The six-month gap in the record suggests that three complete tournaments took pl
 #### Quarterfinals
 * 3/7/09: **[[Troupes/Rise & Shine]]** vs. ???
 	* This was [[Troupes/Rise & Shine]]'s first show, and featured [[Performers/John Ratliff]] as the guest celebrity.
-* 4/4/09: **[[Fuck You!]]** vs. [[Troupes/RedRover]]
+* 4/4/09: **[[Troupes/Fuck You!]]** vs. [[Troupes/RedRover]]
 
 Nothing is known about the other two quarterfinals.
 
 #### Semifinals
-* 4/11/09: [[Troupes/Rise & Shine]] vs. **[[Twelve Inch Integrity]]**
-* 4/18/09: [[Troupes/Ramirez and Gilstrap]] vs. [[The P Comany!]] vs. [[Fuck You!]]
+* 4/11/09: [[Troupes/Rise & Shine]] vs. **[[Troupes/Twelve Inch Integrity]]**
+* 4/18/09: [[Troupes/Ramirez and Gilstrap]] vs. [[The P Comany!]] vs. [[Troupes/Fuck You!]]
 
 #### Championship
-* 4/25/09: **[[Twelve Inch Integrity]]** vs. ???
+* 4/25/09: **[[Troupes/Twelve Inch Integrity]]** vs. ???
 
 ### More Information
 * [Bracket listings](http://forum.austinimprov.com/viewtopic.php?t=8880) on [[The Austin Improv Forums]].
@@ -286,7 +286,7 @@ This tournament featured the champions of previous tournaments.
 
 ### Matches
 #### Quarterfinals
-* 5/8/10: **[[Troupes/Bless This Mess]]** vs. [[Twelve Inch Integrity]]
+* 5/8/10: **[[Troupes/Bless This Mess]]** vs. [[Troupes/Twelve Inch Integrity]]
 * 5/15/10: **[[Troupes/You're in Big Trouble, Mister!]]** vs. [[Troupes/Golden Eagle]]
 * 5/22/10: **[[Troupes/Achatina Achatina]]** vs. [[Troupes/Dick Rambuck]]
 * 6/5/10: [[Troupes/I Don't Appreciate It When You Talk to Me Like That]] vs. **[[Troupes/Your Dad's Friends]]**

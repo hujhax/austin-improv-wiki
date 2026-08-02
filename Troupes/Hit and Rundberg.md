@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Hit and Rundberg** was a one-off *[[Cagematch]]* team.
+**Hit and Rundberg** was a one-off *[[Shows/Cagematch]]* team.
 
 ## Summary
 Their self-description: "Audiences will run away with laughter with they hit the characters with emotions."

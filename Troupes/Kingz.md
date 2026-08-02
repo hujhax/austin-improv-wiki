@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
-  --><li style=""><a class="internal-link" href="Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cene Hale">Performers/Cene Hale</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Meredith Roberts">Meredith Roberts</a></li><!--

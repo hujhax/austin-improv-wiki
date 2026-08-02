@@ -80,7 +80,7 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Katie and Lisa improvise scenes with a tv sitting in a wheelchair with Nick's head in real time on the screen</blockquote>
 
 ## History
-The troupe lost a [[Cagematch]] on 5/23/09.
+The troupe lost a [[Shows/Cagematch]] on 5/23/09.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

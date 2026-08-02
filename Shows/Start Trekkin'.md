@@ -224,12 +224,12 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Aden Kirschner]]
 * [[Performers/Andy Crouch]]
 * [[Performers/Audrey Rachel Sansom]]
-* [[Chris Allen]]
+* [[Performers/Chris Allen]]
 * [[Dario Konjicija]]
 * [[Performers/David Lampe]]
 * [[Performers/Jay Michael]]
 * [[Performers/Jon Clinkenbeard]]
-* [[Justin Davis]]
+* [[Performers/Justin Davis]]
 * [[Performers/Kacey Samiee]]
 * [[Performers/Kaci Beeler]]
 * [[Performers/Marc Majcher]]
@@ -248,13 +248,13 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Jay Michael]]
 * [[Performers/Kaci Beeler]]
 * [[Performers/Kareem Badr]]
-* [[Roy Danger]]
+* [[Performers/Roy Danger]]
 * [[Performers/Troy Miller]]
 
 ### Season 7
 * [[Performers/Alex Dobrenko]]
 * [[Performers/Andy Crouch]]
-* [[Chris Allen]]
+* [[Performers/Chris Allen]]
 * [[Performers/Courtney Hopkin]]
 * [[Performers/David Lampe]]
 * [[Performers/Jay Michael]]
@@ -280,7 +280,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Katie Dahm]] 
 * [[Performers/Kenny Madison]]
 * [[Michelle Cook]] 
-* [[Monica Martinez Maher]]
+* [[Performers/Monica Martinez Maher]]
 
 ## Media
 ### Videos
@@ -307,7 +307,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Performers/Peter Rogers]] of the 1/8/12 performance.
 * [A photoset](http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3) by [[Steve Rogers]] of the 1/14/12 performance.
 * [Photoset](http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3) by [[Michael Yew]] that includes the 2/25/12 performance.
-* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) from [[Steve Rogers]], [and another](http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3)  from [[Michael Yew]], of the 3/8/12 *[[Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) from [[Steve Rogers]], [and another](http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3)  from [[Michael Yew]], of the 3/8/12 *[[Shows/Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
 * [A photoset](http://www.facebook.com/media/set/?set=a.415641555166033.100932.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/1/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.572351752828345.1073741903.221927764537414&type=3) by [[Steve Rogers]] of their 7/27/13 performance.

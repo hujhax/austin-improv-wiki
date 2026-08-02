@@ -130,13 +130,13 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 * [Photoset](http://www.facebook.com/#!/media/set/?set=a.180261545388210.48035.100002130980897&type=1) from 10/8/2011 by [[Steve Rogers]].
 * [Photoset](http://www.facebook.com/#!/media/set/?set=a.364117846958907.80222.338492619521430&type=1) by [[Roy Moore]] of their 3/29/2012 performance in *[[Shows/The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200570606370375.1073741859.1315383518&type=3) by [[Michael Yew]] that includes their performance in the 9/20/13 *[[Hell and Back Cabaret]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.208887992621682.1073741837.156632087847273&type=1) by [[Steve Rogers]] that includes their 9/27/13 performance at *[[The Hell & Back Cabaret]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3) by [[Michael Yew]] of their 12/20/13 performance in *[[PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200570606370375.1073741859.1315383518&type=3) by [[Michael Yew]] that includes their performance in the 9/20/13 *[[Shows/Hell and Back Cabaret]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.208887992621682.1073741837.156632087847273&type=1) by [[Steve Rogers]] that includes their 9/27/13 performance at *[[Shows/The Hell & Back Cabaret]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3) by [[Michael Yew]] of their 12/20/13 performance in *[[Shows/PGraph Presents]]*.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2014/Indigo-Shift-20140418/) by [[Performers/Chad Wellington]] of their 4/18/14 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528972488304.1073741902.1315383518&type=3) by [[Michael Yew]] that includes their show at [[The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10152831848412265.1073741860.588952264&type=3) by [[Performers/Peter Rogers]] of their 10/10/14 performance in [[Mister Morbid]], featuring [[Lindsey McGowen]] as their guest musician.
-* [Photoset](http://www.facebook.com/media/set/?set=a.954636894599827.1073742187.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/1/15 performance in *[[PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10152831848412265.1073741860.588952264&type=3) by [[Performers/Peter Rogers]] of their 10/10/14 performance in [[Shows/Mister Morbid]], featuring [[Lindsey McGowen]] as their guest musician.
+* [Photoset](http://www.facebook.com/media/set/?set=a.954636894599827.1073742187.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/1/15 performance in *[[Shows/PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.877626758972671.1073741954.118587218209966&type=3) by [[Roy Moore]] of their 9/11/2015 Indigo Shift Cabaret performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1042876175775898.1073742261.221927764537414&type=3) by [[Steve Rogers]] of their 9/18/2015 Indigo Shift Cabaret performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204899497069937.1073741967.1315383518&type=3) by [[Michael Yew]] of their 9/25/15 "Indigo Shift Cabaret" show.

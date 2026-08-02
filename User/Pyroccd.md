@@ -1,4 +1,4 @@
 ---
-redirect: "Cody Dearing"
+redirect: "Performers/Cody Dearing"
 ---
-#REDIRECT [[Cody Dearing]]
+#REDIRECT [[Performers/Cody Dearing]]

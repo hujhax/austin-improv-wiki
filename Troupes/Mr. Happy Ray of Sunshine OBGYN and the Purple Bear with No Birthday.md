@@ -80,7 +80,7 @@ The audience would suggest songs from their back catalog to play, and the duo wo
 ## History
 This was Cody's first improv group In Austin -- Andrea asked him to work with her on a project after she directed a sketch show of his called "No Astronauts Allowed".
 
-The duo played at least one *[[Cagematch]]* in 2006, against [[Chris Trew and Arthur Simone Sing the Songs of]].
+The duo played at least one *[[Shows/Cagematch]]* in 2006, against [[Chris Trew and Arthur Simone Sing the Songs of]].
 
 They also played the second [[See.Hear.Speak]] at [[Coldtowne Theater]] in 2007.
 

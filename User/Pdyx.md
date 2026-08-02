@@ -1,4 +1,4 @@
 ---
-redirect: "Patrick Knisely"
+redirect: "Performers/Patrick Knisely"
 ---
-#REDIRECT [[Patrick Knisely]]
+#REDIRECT [[Performers/Patrick Knisely]]

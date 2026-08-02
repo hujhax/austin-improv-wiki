@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Hey, Girl!** was a one-off *[[Cagematch]]* team.
+**Hey, Girl!** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 9/18/10.

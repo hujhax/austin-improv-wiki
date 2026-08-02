@@ -23,7 +23,7 @@ It included an all-star *[[Shows/Maestro]]* and a teen showcase.
 * [[Troupes/Golden]]
 * [[Troupes/Houses in Motion]]
 * [[Troupes/Junk]]
-* [[Known Wizards]]
+* [[Troupes/Known Wizards]]
 * [[Troupes/The Knuckleball Now]]
 * [[Troupes/MC Harold]]
 * [[Shows/Movie Riot]]

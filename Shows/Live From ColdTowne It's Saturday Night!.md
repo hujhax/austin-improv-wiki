@@ -31,6 +31,6 @@
 
 ## More Information
 * [The blogpost announcing ColdTowne's 2014 mainstage season, including this show.](http://www.coldtownetheater.com/blog/announcing-2014-coldtowne-mainstage-season)
-* [Interview](http://thetheftforum.libsyn.com/episode-62-its-saturday-night) by [[Performers/Scott Hearne]] with [[Performers/Frank Netscher]] and [[Cene Hale]] for *[[The Theft Forum]]*.
+* [Interview](http://thetheftforum.libsyn.com/episode-62-its-saturday-night) by [[Performers/Scott Hearne]] with [[Performers/Frank Netscher]] and [[Performers/Cene Hale]] for *[[The Theft Forum]]*.
 
 [[Category/Shows|Category:Shows]]

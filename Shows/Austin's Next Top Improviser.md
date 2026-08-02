@@ -88,7 +88,7 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
 * 10/9/09:
 	* [[David Harper]]
 	* [[Gary Richardson]]
-	* [[Gene Joe]]
+	* [[Performers/Gene Joe]]
 	* [[Performers/Jen Kaplan]]
 	* [[Performers/Jon Bolden]]
 	* [[Performers/Lindsey Reeves]]
@@ -98,16 +98,16 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
 	* [[Abbas Amirabadi]]
 	* [[Performers/Ed Melendez]]
 	* [[Jonathan Euseppi]]
-	* [[Justin Davis]]
+	* [[Performers/Justin Davis]]
 	* [[Katie Gill]]
 	* [[Performers/Lindsey Reeves]]
 	* Hosted by [[Performers/Erin Molson]].
 	* Coached by [[Performers/Shana Merlin]].
-	* Sound by [[Chelsea Gilman]].
+	* Sound by [[Performers/Chelsea Gilman]].
 * 12/11/09:
 	* [[Cody Melcher]]
 	* [[Performers/Eric Heiberg]]
-	* [[Gene Joe]]
+	* [[Performers/Gene Joe]]
 	* [[Performers/Howard Katz]]
 	* [[Performers/Lindsey Reeves]]
 	* [[Performers/Meghan Wolff]]

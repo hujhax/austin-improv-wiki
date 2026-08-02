@@ -27,7 +27,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>Theatre S
 ## Troupes
 * [[Troupes/ComedySportz]]
 * [[Troupes/Improv For Evil]]
-* [[Flying Theatre Machine]]
+* [[Shows/Flying Theatre Machine]]
 
 ## Shows
 * *[[Shows/Cochise]]*

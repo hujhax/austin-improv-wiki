@@ -25,7 +25,7 @@
 
 
 ## Troupes
-* [[Water Park]]
+* [[Troupes/Water Park]]
 * [[Troupes/Bad Font]]
 
 ## Shows

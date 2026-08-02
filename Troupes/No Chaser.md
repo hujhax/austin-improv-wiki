@@ -101,7 +101,7 @@ They headlined *[[Shows/The Threefer]]* in February 2009.
 * 10/6/08:  *[[Shows/The Monday Night Mash]]*.
 * 10/10/08: *[[Shows/The Threefer]]*, with [[Troupes/Unfurled]] and [[Troupes/Parallelogramophonograph]].
 * 10/24/08: *[[Shows/The Threefer]]*, with [[Troupes/Ghetto Sketch Warlock]] and [[Troupes/Parallelogramophonograph]].
-* 10/25/08: *[[Cagematch]]*.
+* 10/25/08: *[[Shows/Cagematch]]*.
 * 10/27/08: *[[Shows/The Monday Night Mash]]*.
 * 11/10/08: *[[Shows/The Monday Night Mash]]*.
 * 11/24/08: *[[Shows/The Monday Night Mash]]*.
@@ -115,8 +115,8 @@ They headlined *[[Shows/The Threefer]]* in February 2009.
 * 2/13/09: Valentine show at [[The Hideout Theatre]].
 * 2/16/09: *[[Shows/The Monday Night Mash]]*.
 * 2/19/09: *[[Shows/The Threefer]]*, with [[Troupes/Look Cookie]] and [[Troupes/Ghetto Sketch Warlock]].
-* 2/21/09: *[[Cagematch]]*, versus [[Damned Avalanche]].
-* 3/12/09: *[[Shows/The Threefer]]*, with [[Troupes/IPhone the Musical]] and [[Firth&Arjet]].
+* 2/21/09: *[[Shows/Cagematch]]*, versus [[Damned Avalanche]].
+* 3/12/09: *[[Shows/The Threefer]]*, with [[Troupes/IPhone the Musical]] and [[Troupes/Firth&Arjet]].
 * 5/11/09: *[[Shows/The Monday Night Mash]]*.
 * 5/25/09: *[[Shows/The Monday Night Mash]]*.
 * 5/28/09: *[[Shows/The Threefer]]*, with [[Troupes/The Starter Kit]] and [[Chris and Tami]].

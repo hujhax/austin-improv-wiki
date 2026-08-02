@@ -77,7 +77,7 @@ Here is [[Performers/Chuy Zarate]]'s explanation of the name's origin:<blockquot
 
 ## Media
 ### Video
-* [Video](http://youtu.be/QdYzPyrbd2s#t=3242) by [[Performers/Warren Henderson]] of their performance in the 4/22/12 *[[Weekender]]*.
+* [Video](http://youtu.be/QdYzPyrbd2s#t=3242) by [[Performers/Warren Henderson]] of their performance in the 4/22/12 *[[Shows/Weekender]]*.
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/10 performance at [[The 41-Hour Improv Marathon]].

@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Be Prepared** was a one-off *[[Cagematch]]* team.
+**Be Prepared** was a one-off *[[Shows/Cagematch]]* team.
 
 ## Summary
 The group's format was a mono-scene around a group of Boy Scouts performing some scouting activity (camping, merit badge-thing, canoeing, etc.).

@@ -29,7 +29,7 @@ He performed in [[The 2013 Out of Bounds Comedy Festival]] as a Stand-up act.
 * [[Troupes/GigglePants]]
 
 
-## *[[Cagematch]]* Teams
+## *[[Shows/Cagematch]]* Teams
 * [[Troupes/The Adorables]] (2010)
 
 

@@ -16,7 +16,7 @@ Its advertising was classic-Nintendo themed.
 * [[Troupes/ComedySportz]] All-Stars
 * [[Troupes/Confidence Men]]
 * [[Troupes/Firth & Arjet]]
-* [[Flying Theatre Machine]]
+* [[Shows/Flying Theatre Machine]]
 * [[Troupes/The Frank Mills]]
 * [[Troupes/Get Up]]
 * [[Troupes/GigglePants]]
@@ -34,7 +34,7 @@ Its advertising was classic-Nintendo themed.
 * [[Troupes/Nice Astronaut]]
 * [[Troupes/Northshore Local]]
 * [[Troupes/Parallelogramophonograph]]
-* [[Ratliff & Jackson]]
+* [[Troupes/Ratliff & Jackson]]
 * [[Troupes/Rise & Shine]]
 * [[Troupes/Snackers]]
 * [[Shows/Start Trekkin']]

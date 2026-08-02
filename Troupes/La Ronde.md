@@ -18,8 +18,8 @@
   --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Performers/Chris Baldenhofer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Performers/Josh Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
   --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
   --><li style=""><a class="internal-link" href="Mike Faerber">Mike Faerber</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**La Ronde** was a one-off *[[Cagematch]]* team.
+**La Ronde** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played Cagematches on 1/23/09 and 2/13/09.

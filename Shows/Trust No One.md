@@ -23,10 +23,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alexandria Ayala">Alexandria Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexandria Ayala">Performers/Alexandria Ayala</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Hush">Andy Hush</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Performers/Chelley Pyatt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Clint Harris">Performers/Clint Harris</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Michael">Performers/Jay Michael</a></li><!--

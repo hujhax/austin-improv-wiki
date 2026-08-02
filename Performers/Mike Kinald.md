@@ -44,10 +44,10 @@ He was asked to join the newly forming Austin troupe [[Troupes/Improv For Evil]]
 * *[[Shows/The Free Fringe]]*
 * *[[Shows/GrimmNoir]]* (director)
 * *[[Shows/Guilds Of Steel]]*
-* *[[Holy 1960's Batman, Batman!]]* (Guest Villain - The English Dentist)
+* *[[Shows/Holy 1960's Batman, Batman!]]* (Guest Villain - The English Dentist)
 * *[[Shows/Maestro]]*
 * *[[Shows/The Nightmare Video Project]]*
-* *[[Pick Your Own Path]]*
+* *[[Shows/Pick Your Own Path]]*
 * *[[Splatter Theater]]*
 * *[[Shows/TheatreSports]]* (2007)
 * *[[The Tribunal]]*

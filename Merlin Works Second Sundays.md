@@ -656,7 +656,7 @@
 |-
 |November 11, 2018||Singing 601||[[Better Than Dignity]]
 |-
-|October 21, 2018||Improv 301||[[Kevlar -  We're Bulletproof]]
+|October 21, 2018||Improv 301||[[Troupes/Kevlar -  We're Bulletproof]]
 |-
 |September 9, 2018||Student showcase||[[Crossroads]]
 |-
@@ -1314,7 +1314,7 @@
 --></ul></div>||N/A
 
 |-
-|February 8, 2015||Student showcase||[[Miller & Purselley]] 
+|February 8, 2015||Student showcase||[[Troupes/Miller & Purselley]] 
 |-
 |January 11, 2015||Student showcase||<div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="The New Kids">The New Kids</a></li><!--
@@ -1616,7 +1616,7 @@
 |-
 |June 9, 2013||Student showcase||[[Troupes/The Knuckleball Now]]
 |-
-|May 12, 2013||Improv 301||[[Miller & Purselley]]
+|May 12, 2013||Improv 301||[[Troupes/Miller & Purselley]]
 |-
 |April 14, 2013||Student showcase||[[Troupes/Confidence Men]]
 |-

@@ -39,6 +39,6 @@ RhinoDino has continued to perform together following the discontinuation of the
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3) by [[Jo Chauvin]] of the 9/9/11 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3) by [[Performers/Jo Chauvin]] of the 9/9/11 show.
 
 [[Category/Shows|Derby]]

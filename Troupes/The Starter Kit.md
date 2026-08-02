@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Zach Palmer">Zach Palmer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Temple">Performers/Brad Temple</a></li><!--
   --><!--
@@ -73,7 +73,7 @@
 **The Starter Kit** was an improv troupe.
 
 ## History
-In late 2006, [[Justin Davis]], [[Eric Garcia]], and [[Performers/Brad Temple]] met while taking improv classes at [[The Hideout Theatre]]. Wanting to continue on performing with each other, the three of them decided to form a troupe. The three then asked [[Performers/Aden Kirschner]], [[Zach Palmer]], and [[Ann Wilson]] to join this troupe after meeting and playing with them in the [[Tuesday Night Jam]]. After a few rehearsals, the nameless troupe signed up to play the *[[Cagematch]]* at [[Coldtowne Theater]]. Before the first show, Davis received a phone call by someone (possibly [[Performers/Andy Crouch]] or [[Performers/Michael Jastroch]]) looking for a name to call this team. Without thinking, he instantly said the words The Starter Kit. The troupe went on to win that *Cagematch* tournament. Troupe members discussed coming up with a different name, but after performing several shows and being introduced by this name, the troupe decided that the name had stuck.  
+In late 2006, [[Performers/Justin Davis]], [[Eric Garcia]], and [[Performers/Brad Temple]] met while taking improv classes at [[The Hideout Theatre]]. Wanting to continue on performing with each other, the three of them decided to form a troupe. The three then asked [[Performers/Aden Kirschner]], [[Zach Palmer]], and [[Ann Wilson]] to join this troupe after meeting and playing with them in the [[Tuesday Night Jam]]. After a few rehearsals, the nameless troupe signed up to play the *[[Shows/Cagematch]]* at [[Coldtowne Theater]]. Before the first show, Davis received a phone call by someone (possibly [[Performers/Andy Crouch]] or [[Performers/Michael Jastroch]]) looking for a name to call this team. Without thinking, he instantly said the words The Starter Kit. The troupe went on to win that *Cagematch* tournament. Troupe members discussed coming up with a different name, but after performing several shows and being introduced by this name, the troupe decided that the name had stuck.  
 
 Known for their playful and adventurous style, The Starter Kit quickly went on to perform regular shows at The Hideout and ColdTowne Theater, often being the opening act for [[Troupes/Parallelogramophonograph]]'s weekly Thursday night slot at ColdTowne. For the first three anniversary shows, The Starter Kit handed out water guns to the audience and performed montage scenes while audience members soaked them with water. 
 

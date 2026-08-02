@@ -20,7 +20,7 @@
 * [[Troupes/Parallelogramophonograph]]
 * [[The Plurals]]
 * [[Scott & Stacy]]
-* [[You Me & Greg]]
+* [[Troupes/You Me & Greg]]
 
 ### Out-of-Town Acts
 * 3 for All (San Francisco)

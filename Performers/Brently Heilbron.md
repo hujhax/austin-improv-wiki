@@ -34,7 +34,7 @@ He guested with [[Troupes/Girls Girls Girls]] during their *[[Shows/Boys of Summ
 
 ## Shows
 * *[[Shows/Fuck It's Hot]]* (writer/musician [2013], writer/musician/director [2014])
-* *[[Fuck It's Christmas]]* (writer/musician)
+* *[[Shows/Fuck It's Christmas]]* (writer/musician)
 
 ## More Information
 * [Brently's wikipedia page.](http://en.wikipedia.org/wiki/Brently_Heilbron)

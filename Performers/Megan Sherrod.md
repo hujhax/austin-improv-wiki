@@ -35,7 +35,7 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * *[[Happily Ever After - Hideout Kids Production]]*
 * *[[Shows/Boy, Howdy!]]*
 * *[[Shows/Buzz Band]]*
-* *[[The Fancy-Pants Mash-Up]]*
+* *[[Shows/The Fancy-Pants Mash-Up]]*
 * *[[The Fool's Well]]*
 * *[[Shows/Happily Ever After]]*
 * *[[Shows/Maestro]]*

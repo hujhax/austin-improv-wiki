@@ -29,7 +29,7 @@ Mr. Oklahoma
 ## Shows
 * *[[Shows/Indy Movies]]*
 * *[[Shows/Late Night Down]]*
-* *[[Movie vs Movie]]*
+* *[[Shows/Movie vs Movie]]*
 * *[[Shows/Sci-Fi Saturdays]]*
 * *[[Shows/Slam Team Six]]*
 * *[[Shows/Stool Pigeon]]*

@@ -41,7 +41,7 @@ Hurly Burly : Improvised Burlesque Stories, won two B. Iden Payne Awards, invite
 * *[[Shows/Hell & Back Cabaret]]* (creator, director, host [as "Gentress Helena Back" & "Sugarbabe Goodhue"])
 * *[[Teen Angst Tuesdays -  Felicity  -  Gimmie an O]]* (Various Roles)
 * *[[Teen Angst Tuesdays -  Scrubs  -  My Musical]]* (Jordan / Ensemble)
-* *[[This American Live]]* (Set Design)
+* *[[Shows/This American Live]]* (Set Design)
 * *[[Shows/The Suitcase]]* (Costume & Set Design)
 
 #### Additional Scripted Shows

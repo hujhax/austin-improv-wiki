@@ -7,7 +7,7 @@ It included workshops, an all-star musical Armando, an all-female, all-star [[Sh
 
 ## Acts
 ### Local Acts
-* [[The Bridgeport Women's Correctional Facility Short Form Players]]
+* [[Troupes/The Bridgeport Women's Correctional Facility Short Form Players]]
 * [[Troupes/The Frank Mills]]
 * [[Troupes/Girls Girls Girls]]
 * [[Performers/Jessica Arjet]] (as "Penelope Foolish")

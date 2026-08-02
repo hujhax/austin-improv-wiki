@@ -43,7 +43,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Tro
 * *[[Shows/The Derby]]*
 * *[[Dusk]]*
 * *[[Shows/The Fancy-Pants Mashup]]*
-* *[[Heist]]*
+* *[[Shows/Heist]]*
 * *[[Holiday Party Disaster]]*
 * *[[Shows/I Love You So Much]]*
 * *[[Shows/Ka-Baam!!]]*
@@ -56,7 +56,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Tro
 * *[[Shows/The Nightmare Video Project]]* (2011-2012)
 * *[[Shows/One More Night]]*
 * *[[Shows/One Small Step]]*
-* *[[Pick Your Own Path]]*
+* *[[Shows/Pick Your Own Path]]*
 * *[[Shows/Pulp Friction]]*
 * *[[Seance]]*
 * *[[Shows/Showdown]]*

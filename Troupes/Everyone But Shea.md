@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Edward Melendez">Edward Melendez</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Performers/Frank Netscher</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Performers/Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Performers/Kristin Henn</a></li><!--
   --><li style=""><a class="internal-link" href="Shea Scott">Shea Scott</a></li><!--
@@ -70,9 +70,9 @@
 	</table>
 </div>
 
-**Everyone But Shea** was a one-off *[[Cagematch]]* team.
+**Everyone But Shea** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
-They reached the championship round of the fall 2009 "War Forms of Dangerous Curves" *[[Cagematch]]*.
+They reached the championship round of the fall 2009 "War Forms of Dangerous Curves" *[[Shows/Cagematch]]*.
 
 [[Category/Troupes|Category:Troupes]]

@@ -31,7 +31,7 @@
   --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Performers/Halyn Lee Erickson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Performers/Heather Hasselle</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Performers/Jeanette Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
@@ -221,7 +221,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Chuy Zarate]]
 * [[Performers/Courtney Hopkin]]
 * [[Performers/Halyn Lee Erickson]]
-* [[Jeanette Jones]]
+* [[Performers/Jeanette Jones]]
 * [[Performers/John Ratliff]]
 * [[Performers/Jon Bolden]]
 * [[Performers/Kaci Beeler]]
@@ -269,7 +269,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Jon Bolden]]
 * [[Performers/Kaci Beeler]]
 * [[Performers/Kareem Badr]]
-* [[Lisa Michelle Jackson]]
+* [[Performers/Lisa Michelle Jackson]]
 * [[Performers/Luke Wallens]]
 * [[Performers/Margaret Rose Hunsicker]]
 * [[Patrick Creamer]]

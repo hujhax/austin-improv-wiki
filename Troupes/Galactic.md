@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
   --><!--
   --><!--
@@ -70,14 +70,14 @@
 	</table>
 </div>
 
-**Galactic** (formerly **Battlestar Gillacktucka**) is an improv duo consisting of [[Josh Gill]] and [[Performers/Lisa Jackson]].
+**Galactic** (formerly **Battlestar Gillacktucka**) is an improv duo consisting of [[Performers/Josh Gill]] and [[Performers/Lisa Jackson]].
 
 ## Summary
 ### Press Blurb
 <blockquote><p>Husband and wife improv comedy duo, Lisa Jackson and Josh Gill, are prominent performers and instructors in the Austin improv scene. They bring the fun and absurdity of their relationship to the stage as Galactic.</p></blockquote>
 
 ## History
-Here is [[Josh Gill]]'s explanation of the name's origin:<blockquote>Galactic started life as Battlestar Gillacktucka. The original concept for the troupe was that each show would have a sci fi element. I believe I was watching BG at the time, but we respelled Galactica to include parts of both Lisa's and my own last name. Gill [J]ack, and the tucka which was an inside joke about a gnome from a different show. The gnome was named Tucka. Well, the name just confused everybody and most of our audience was expecting BG improv, so we took it down to just Galactic.</blockquote>
+Here is [[Performers/Josh Gill]]'s explanation of the name's origin:<blockquote>Galactic started life as Battlestar Gillacktucka. The original concept for the troupe was that each show would have a sci fi element. I believe I was watching BG at the time, but we respelled Galactica to include parts of both Lisa's and my own last name. Gill [J]ack, and the tucka which was an inside joke about a gnome from a different show. The gnome was named Tucka. Well, the name just confused everybody and most of our audience was expecting BG improv, so we took it down to just Galactic.</blockquote>
 
 ## Media
 ### Video

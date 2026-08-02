@@ -30,7 +30,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 <p>In other words, I was present at THE BEGINNING OF THE MODERN ERA.</p> </blockquote>
 
 ## Troupes
-* [[Ratliff & Jackson]]
+* [[Troupes/Ratliff & Jackson]]
 * [[Troupes/Dervish]]
 * [[Troupes/The Glamping Trip]]
 * [[Troupes/The Randy Meisner]]

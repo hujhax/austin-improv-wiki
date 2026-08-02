@@ -40,7 +40,7 @@ Since then, she's also studied at [[Coldtowne Theater]] and [[The Institution Th
 * *[[Shows/Kenjutsu]]* 
 * *[[Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
 * *[[Shows/Maestro]]*
-* *[[Pick Your Own Path]]*
+* *[[Shows/Pick Your Own Path]]*
 * *[[Shows/Steam]]* (Crank)
 * *[[Shows/Strange Worlds]]* (Bellwether Blue)
 * *[[The Tribunal]]*

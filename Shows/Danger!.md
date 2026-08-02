@@ -27,7 +27,7 @@
   --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Performers/Karen Jane Dewitt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Performers/Lindsey Reeves</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
-  --><li style="" ><a class="internal-link" href="Madeline Chauvin">Madeline Chauvin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Madeline Chauvin">Performers/Madeline Chauvin</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Pedicano">Michael Pedicano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Performers/Nicole McCracken</a></li><!--
   --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--

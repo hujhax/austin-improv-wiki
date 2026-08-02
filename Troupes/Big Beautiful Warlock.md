@@ -77,11 +77,11 @@ In addition to these shows, they host a monthly improvised game show called [[Sh
 
 ## Media
 ### Videos
-* [Video of their 4/19/12 show](http://vimeo.com/40801629) at the *[[Free Fringe]]*.
+* [Video of their 4/19/12 show](http://vimeo.com/40801629) at the *[[Shows/Free Fringe]]*.
 * [Video of their 6/23/13 show](http://vimeo.com/77117598) in [[The 44-Hour Improv Marathon]].
 
 ### Photos
-* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Shows/Free Fringe]]* show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/9/12 performance at [[Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3) by [[Michael Yew]] which includes their 2/7/13 performance in *[[Shows/The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202516036124903.1073741899.1315383518&type=3) by [[Michael Yew]] that includes their 8/27/14 show at [[The 2014 Out of Bounds Comedy Festival]].

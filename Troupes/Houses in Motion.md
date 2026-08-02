@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Casey Height">Casey Height</a></li><!--
-  --><li style=""><a class="internal-link" href="Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cene Hale">Performers/Cene Hale</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Performers/Frank Netscher</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--

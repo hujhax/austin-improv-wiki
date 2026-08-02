@@ -1,4 +1,4 @@
-Someone should do a *[[Free Fringe]]* show inspired by the titles of spam pages:
+Someone should do a *[[Shows/Free Fringe]]* show inspired by the titles of spam pages:
 
 * Blog właśnie o tym czego szukasz czytaj więcej ciekawy artykuł 
 * Each Best Shoes For Sprint

@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Performers/Ash Nunley</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Performers/Jeanette Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Performers/Jessie Pascarelli</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Megan Venable">Performers/Megan Venable</a></li><!--
   --><!--
@@ -73,7 +73,7 @@
 **No Frills** is a troupe that focuses on monoscenes about women who like each other.
 
 ## History
-After rehearsing together at [[The Institution Theater]] in the summer of 2013, they had a soft debut at the Institution's *[[Rubber Room]]* on 7/7/13, and then had their official debut at [[Coldtowne Theater]] on 9/2/13 (taking the suggestion "Laundromat"). They have since performed at [[The Hideout Theatre]] in *[[Shows/The Threefer]]* and at [[The Institution Theater]] in *[[Shows/The Triple Scoop]]*.
+After rehearsing together at [[The Institution Theater]] in the summer of 2013, they had a soft debut at the Institution's *[[Shows/Rubber Room]]* on 7/7/13, and then had their official debut at [[Coldtowne Theater]] on 9/2/13 (taking the suggestion "Laundromat"). They have since performed at [[The Hideout Theatre]] in *[[Shows/The Threefer]]* and at [[The Institution Theater]] in *[[Shows/The Triple Scoop]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/NoFrillsAustin?ref=br_rs)

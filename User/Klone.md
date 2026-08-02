@@ -1,4 +1,4 @@
 ---
-redirect: "Scott Hearne"
+redirect: "Performers/Scott Hearne"
 ---
-#REDIRECT [[Scott Hearne]]
+#REDIRECT [[Performers/Scott Hearne]]

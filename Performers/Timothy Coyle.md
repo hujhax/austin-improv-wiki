@@ -29,7 +29,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Performers/Jon Bolden]] Levels 1 & 2
 * [[Performers/Ruby Willmann]] Level 3
 * [[Performers/Andy Crouch]] Levels 4 - 6
-* [[Stuart m feild]] TA Levels 1-6
+* [[Performers/Stuart m feild]] TA Levels 1-6
 
 ## Directing
 [[The Hideout Theatre]]
@@ -59,14 +59,14 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Performers/Katie Dahm]] at [[Hideout Theatre]] – Movement
 
 ## Coach/Mentors
-* [[Ceej Allen]]
+* [[Performers/Ceej Allen]]
 * [[Performers/Chuy Zarate]]
 * [[Performers/David Lampe]]
 * [[Performers/Robert Slack]]
 * [[Performers/Ruby Willmann]]
 * [[Performers/Ryan Hill]]
 * [[Performers/Marc Majcher]]
-* [[Lacy Shawn]]
+* [[Performers/Lacy Shawn]]
 
 ## Troupes / Duo
 * [[Troupes/Character Explosion]] (2014-2016)
@@ -77,13 +77,13 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 
 ## Shows
 [[Hideout Theatre]]
-* [[Free Fringe]] 2014 - current
+* [[Shows/Free Fringe]] 2014 - current
 * [[Shows/The Threefer]] 2014 - current
 * *[[Shows/Maestro Raw]]* 2014-Current
 	* Maestro Raw Winner January 27, 2018
 * [[Shows/The Weekender]] 2015 - current
 * *[[Shows/2x4]]* 2015-Current
-* *[[Fancy Pants]]* 2015-Current
+* *[[Shows/Fancy Pants]]* 2015-Current
 * *[[Shows/Maestro]]* 2015-Current
 * *[[Hideout Student Battle Royale]]* performer - 2015 / director - 2016
 
@@ -103,17 +103,17 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[KNOCK-OUT]] 2015 - current
 
 ## Free Fringes
-* *[[All Stars and Me]]* Produced by ([[Tim Coyle]])
-* *[[Ceej Character Explosion]]* Produced by ([[Ceej Allen]])
-* *[[Hug Day]]* Produced by ([[Tim Coyle]]) 
+* *[[All Stars and Me]]* Produced by ([[Performers/Tim Coyle]])
+* *[[Ceej Character Explosion]]* Produced by ([[Performers/Ceej Allen]])
+* *[[Hug Day]]* Produced by ([[Performers/Tim Coyle]]) 
 * *[[PLANK-A-THON!]]* Produced by ([[Performers/Joy Parks]]) 
 * *[[Hideout Action News Team]]* Produced by ([[Sushant Sethi]]) 
-* *[[Take me out to the Ballgame]]* Produced by ([[Tim Coyle]]) 
+* *[[Take me out to the Ballgame]]* Produced by ([[Performers/Tim Coyle]]) 
 * *[[Tim In A Cup]]* Produced by ([[Angie Alegria Smith]])
 * *[[Troupes/You Bet Your Life]]* Produced by ([[Performers/Robert Slack]])
 * *[[Sinistral]]* Produced by ([[Performers/Ellen Pizarek]])
 * *[[An Apply for Teacher]]* Produced by ([[Performers/Joy Parks]])
-* *[[WaffleFest Volunteer Appreciation Show - Improv Derby]]* Produced by ([[Tim Coyle]])
+* *[[WaffleFest Volunteer Appreciation Show - Improv Derby]]* Produced by ([[Performers/Tim Coyle]])
 * *[[Bronze]]* Produced by ([[Performers/Mitchell Deane]])
 
 ## Production
@@ -122,7 +122,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * 47 Hour Marathon - Donations Captain 2016
 
 ## More Information
-Tim can often be seen in the audience watching [[Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
+Tim can often be seen in the audience watching [[Shows/Flying Theatre Machine]] with his nephew Jack.  Tim has often be overheard saying that Jack, who wants to be an Improviser, will win a Maestro before he does.
 
 Depending on what crowd Tim is in, he has multiple nicknames including:
 * Cubbie - which he earned due to his love of the Chicago Cubs as a member of the TXRD Board Whores

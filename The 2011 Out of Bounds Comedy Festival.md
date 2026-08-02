@@ -13,7 +13,7 @@ The roast featured [[Performers/Tom Booker]].
 ### Local Improv and Sketch Acts
 * [[Troupes/The $3 Bills]]
 * [[Troupes/Achatina Achatina]]
-* [[The Amazon & The Milksop]]
+* [[Troupes/The Amazon & The Milksop]]
 * [[Troupes/Ames and James]]
 * [[Troupes/The Asides]]
 * [[Troupes/Available Cupholders]]
@@ -30,7 +30,7 @@ The roast featured [[Performers/Tom Booker]].
 * [[Troupes/The Dukes of Bedside Manor]]
 * [[Duo Shmuo]]
 * [[Troupes/Firth & Arjet]]
-* [[Flying Theatre Machine]]
+* [[Shows/Flying Theatre Machine]]
 * [[Troupes/The Frank Mills]]
 * [[Troupes/Get Up]]
 * [[Troupes/Girl Embassy World Team]]

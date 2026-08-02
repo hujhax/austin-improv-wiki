@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Nick Jimenez">Nick Jimenez</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sam Schak">Performers/Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## History
 Wait OK Now was formed in January 2012 as one of [[Gnap!]]'s student troupes and was cast at one of the
-[[Merlin Works Mixers]]. It originally consisted of [[Performers/Sam Schak]], [[Performers/Jen Kaplan]], [[Lacy Shawn]], [[Performers/Luke Wallens]], [[Tai Hovanky]], [[Nick Jimenez]], and [[Performers/Caeriel Crestin]], with [[Performers/Ruby Willmann]] as coach/director.
+[[Merlin Works Mixers]]. It originally consisted of [[Performers/Sam Schak]], [[Performers/Jen Kaplan]], [[Performers/Lacy Shawn]], [[Performers/Luke Wallens]], [[Tai Hovanky]], [[Nick Jimenez]], and [[Performers/Caeriel Crestin]], with [[Performers/Ruby Willmann]] as coach/director.
 The troupe did a run of shows at [[Salvage Vanguard Theater]] performing an improvised sitcom called *[[The Good Life]]*.
 
 They are currently on indefinite hiatus.

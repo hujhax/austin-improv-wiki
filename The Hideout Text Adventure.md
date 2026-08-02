@@ -3,7 +3,7 @@
 **The Hideout Text Adventure** (actual title: ***The Hideout Theatre Adventures: Quest for the Secret Skull***) is an [[Wikipedia - Interactive fiction|interactive-fiction]] game that takes place in and around [[The Hideout Theatre]].
 
 ## History
-The game originated in a facebook discussion on January 9th, 2012 about setting up a possible text-adventure-themed show at the Hideout, a production that could be paired with *[[Pick Your Own Path]]*.
+The game originated in a facebook discussion on January 9th, 2012 about setting up a possible text-adventure-themed show at the Hideout, a production that could be paired with *[[Shows/Pick Your Own Path]]*.
 
 [[Performers/Brad Hawkins]] then jokingly wrote out a walk-through of a (nonexistent) text-adventure game set at the Hideout, and [[Performers/Peter Rogers]] ran with the idea, quickly coding up more and more complicated iterations of a Hideout-themed game in [[Wikipedia - Inform 7#Inform 7|Inform 7]].  Eventually, Peter met with [[Performers/Kevin Miller]] and [[Performers/Marc Majcher]] to plan out the rest of the game, and quickly completed the code on his own on January 21st.
 

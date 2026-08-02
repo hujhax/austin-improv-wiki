@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Performers/Patrick Daniel</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Fontanel** was a one-off *[[Cagematch]]* team.
+**Fontanel** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 11/21/09.

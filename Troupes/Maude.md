@@ -74,7 +74,7 @@
 	</table>
 </div>
 
-**Maude** was a one-off *[[Cagematch]]* team.
+**Maude** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played two Cagematches on 9/19/09 and 10/10/09.

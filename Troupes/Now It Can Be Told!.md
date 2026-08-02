@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Now It Can Be Told!** was a one-off *[[Cagematch]]* team.
+**Now It Can Be Told!** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/7/14.

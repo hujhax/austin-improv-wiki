@@ -32,7 +32,7 @@ He was a core cast member in both [[The 40-Hour Improv Marathon]] and [[The 42-H
 * [[Troupes/Danger! Warning! Improv!]]
 * [[Troupes/Foolish Mortals]]
 * [[Troupes/Junk]]
-* [[We Could Be Heroes]]
+* [[Troupes/We Could Be Heroes]]
 * [[Troupes/Ball&Chain]]
 
 ## Shows

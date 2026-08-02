@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Confidence Men.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-From left: [[Performers/Michael Ferstenfeld]], [[Ceej Allen]], [[Performers/Tom Booker]], and [[Performers/Troy Miller]] 
+From left: [[Performers/Michael Ferstenfeld]], [[Performers/Ceej Allen]], [[Performers/Tom Booker]], and [[Performers/Troy Miller]] 
 
 [[Troupes/Confidence Men]], performing at [[Wafflefest]] 2012.
 

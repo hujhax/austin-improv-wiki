@@ -3,7 +3,7 @@
 ## Summary
 Promotional image for *[[Dusk]]*.
 
-From left: [[Performers/Bryan Cruz]], [[Chelsea Gilman]], and [[Performers/Michael Thomas]].
+From left: [[Performers/Bryan Cruz]], [[Performers/Chelsea Gilman]], and [[Performers/Michael Thomas]].
 
 Photo by [[Performers/Jon Bolden]].
 

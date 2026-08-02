@@ -37,7 +37,7 @@
   --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Performers/Mitchell Deane</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Performers/Thedward Blevins</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Performers/Jeanette Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Megan Venable">Performers/Megan Venable</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Performers/Suzanne Link</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Performers/Ryan Hill</a></li><!--
@@ -180,7 +180,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Performers/Tyler Bryce]]        (Aug 2015-Present)
 * [[Performers/Jessica Von Schramm]]       (July 2016-Present)
 * [[Performers/Suzanne Link]]      (July 2016-Present)
-* [[Jeanette Jones]]     (July 2016-Present)
+* [[Performers/Jeanette Jones]]     (July 2016-Present)
 
 ### Touring
 * [[Performers/Jessica Arjet]]
@@ -210,7 +210,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Performers/Peter Rogers]] of their 6/5/10 performance at [[The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 10/5/13 performance with [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.708255795917601.1073741846.473177099425473&type=3) by [[Performers/Chad Wellington]] of their 10/17/14 show with [[Mister Morbid]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.708255795917601.1073741846.473177099425473&type=3) by [[Performers/Chad Wellington]] of their 10/17/14 show with [[Shows/Mister Morbid]].
 
 ## More Information
 * [The show's web site.](http://www.hideouttheatre.com/improv-for-kids/flyingtheatermachine)

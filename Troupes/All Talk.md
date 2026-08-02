@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**All Talk** was a one-off *[[Cagematch]]* team.
+**All Talk** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played two Cagematches on 11/21/09 and 12/12/09.

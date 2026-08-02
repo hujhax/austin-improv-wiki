@@ -58,7 +58,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | [[Performers/Dave Buckman]]
 | [[Performers/Cat Drago]]
 | style="font-weight: bold;" | [[Performers/Caitlin Sweetlamb]]
-| [[J.R. Zambrano]]
+| [[Performers/J.R. Zambrano]]
 | style="font-weight: bold;" | [[Performers/Chuy Zarate]]
 | style="font-weight: bold;" | [[Performers/Lisa Jackson]]
 |-
@@ -96,7 +96,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | style="font-weight: bold;" | [[Performers/Jessica Arjet]]
 | Patti Stiles
 | [[Linzy Beltran]]
-| [[Monica Martinez Maher]]
+| [[Performers/Monica Martinez Maher]]
 |-
 | [[Performers/Kareem Badr]]
 | [[Performers/Meghan Wolff]]
@@ -117,7 +117,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | [[Performers/Michael Joplin]]
 | [[Performers/Ruby Willmann]]
 | [[Performers/Quinn Buckner]]
-| [[Rachel Austin]]
+| [[Performers/Rachel Austin]]
 | [[Performers/Ryan Austin]]
 | [[Shannon Stott]]
 | [[Performers/Megan Sherrod]]

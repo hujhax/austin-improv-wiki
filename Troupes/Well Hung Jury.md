@@ -24,7 +24,7 @@
   --><li style=""><a class="internal-link" href="Performers/Bill Stern">Performers/Bill Stern</a></li><!--
   --><li style=""><a class="internal-link" href="James Aldredge">James Aldredge</a></li><!--
   --><li style="" ><a class="internal-link" href="Jeffrey Amos">Jeffrey Amos</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Performers/Jeremy Lamb</a></li><!--
   --><li style=""><a class="internal-link" href="Jonathan Benner">Jonathan Benner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
   --><!--

@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Crazytowne** was a one-off *[[Cagematch]]* team.
+**Crazytowne** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 7/25/09.

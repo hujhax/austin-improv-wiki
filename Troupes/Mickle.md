@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Mickle** was a one-off *[[Cagematch]]* team.
+**Mickle** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They won the winter 2013 Cagematch tournament.

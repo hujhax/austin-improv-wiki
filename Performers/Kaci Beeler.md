@@ -28,9 +28,9 @@ Kaci began performing in *[[Shows/Maestro]]* at [[The Hideout Theatre]] in June 
 
 In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal State Fullerton at the end of the Fall Semester. She was asked to join the Austin improv troupe [[Troupes/Parallelogramophonograph]] upon her return and had her first performance with them on December 23rd, 2005, 42 days after the troupe's debut at [[Wafflefest]] in November.
 
-Kaci went on to perform in shows like The Twofer, The Blank Show, The Cagematch and The Style Show with a variety of groups in 2006 at The Hideout Theatre. She was also a part of the original [[Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]] cast that won the [[Out of Bounds]] cagematch tournament in August of 2006. [[Troupes/Parallelogramophonograph]] got their first weekly show at the newly opened [[Coldtowne Theater]] in October of 2006, where they originally performed [[Shows/After School Improv]], their first original longform narrative show concept, opening for [[Troupes/Get Up]]. 
+Kaci went on to perform in shows like The Twofer, The Blank Show, The Cagematch and The Style Show with a variety of groups in 2006 at The Hideout Theatre. She was also a part of the original [[Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]] cast that won the [[Out of Bounds]] cagematch tournament in August of 2006. [[Troupes/Parallelogramophonograph]] got their first weekly show at the newly opened [[Coldtowne Theater]] in October of 2006, where they originally performed [[Shows/After School Improv]], their first original longform narrative show concept, opening for [[Troupes/Get Up]]. 
 
-Kaci was invited to join the [[Troupes/Available Cupholders]] in the Spring of 2007, debuting at a [[Battle of the Sexes]] show versus the all-female musical troupe [[Troupes/Girls Girls Girls]]. The conceit of the show was that Kaci had been brought out as a "secret weapon" to help the formerly all-male team win the match. Kaci formed the duo [[Troupes/Adventure Squad!]] with [[Performers/Valerie Ward]] in 2008 in order to perform at [[LAFF]] (Ladies Are Funny Festival). She also was cast in [[Start Trekkin]] and [[Shows/Improvised Shakespeare]] in 2007, and went on to perform in several seasons of both productions. She directed her first show [[Shows/After School Improv]] in 2009 at The [[Hideout Theatre]], using PGraph's original format, now with an expanded cast, specialized technical improvisation, and a new scenic design. 
+Kaci was invited to join the [[Troupes/Available Cupholders]] in the Spring of 2007, debuting at a [[Battle of the Sexes]] show versus the all-female musical troupe [[Troupes/Girls Girls Girls]]. The conceit of the show was that Kaci had been brought out as a "secret weapon" to help the formerly all-male team win the match. Kaci formed the duo [[Troupes/Adventure Squad!]] with [[Performers/Valerie Ward]] in 2008 in order to perform at [[LAFF]] (Ladies Are Funny Festival). She also was cast in [[Shows/Start Trekkin]] and [[Shows/Improvised Shakespeare]] in 2007, and went on to perform in several seasons of both productions. She directed her first show [[Shows/After School Improv]] in 2009 at The [[Hideout Theatre]], using PGraph's original format, now with an expanded cast, specialized technical improvisation, and a new scenic design. 
 
 In 2009, Kaci took on the role of Director of Design at The Hideout Theatre when the new owners [[Performers/Kareem Badr]], [[Performers/Roy Janik]], and [[Performers/Jessica Arjet]] bought the business from [[Performers/Sean Hill]]. Kaci was involved with the original restructuring and talks with the landlords of the buildings, taking on her new position as a staff member of The Hideout Theatre when she graduated from St. Edward's University in May of 2009 at the age of 22. Kaci co-directed the Hideout Mainstage production [[Shows/Charles Dickens Unleashed]] with Jessica Arjet in November/December of 2009 and [[Who Is T. Henry Baudecliffe]] with Curtis Luciani in July/August of 2010. In the Fall of 2009, Kaci formed a duo troupe, [[Troupes/The Amazon and The Milksop]] with fellow Improvised Shakespeare cast member [[Performers/Curtis Luciani]]. They originally set out to explore gender roles through improvisation but have since gone on to create several original shows like [[Fitzgeralds For Hire]] and [[Catchin' Frogs]]. 
 
@@ -42,7 +42,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>The firs
 
 <p>In my freshman year of high school everyone was talking about the [[Troupes/Well Hung Jury]], an improv group of "cool people" who had graduated several years before I got there.</p> 
 
-<p>So in the summer of 2002 I started going to see their shows with some friends ([[Phil Aulie|Phil]] of [[Troupes/You, Me, and Greg]] and Xaq who used to be a Hideout house manager). I saw so many of their shows over the next few years that I can't exactly remember what happened at the first one. I do remember seeing a really hilarious improvised Shakespeare show they did and a disgusting no rules show they did. I also remember a Real/Surreal in which the phrase, "I am not Batman." was uttered over and over again.</p> 
+<p>So in the summer of 2002 I started going to see their shows with some friends ([[Performers/Phil Aulie|Phil]] of [[Troupes/You, Me, and Greg]] and Xaq who used to be a Hideout house manager). I saw so many of their shows over the next few years that I can't exactly remember what happened at the first one. I do remember seeing a really hilarious improvised Shakespeare show they did and a disgusting no rules show they did. I also remember a Real/Surreal in which the phrase, "I am not Batman." was uttered over and over again.</p> 
 
 <p>I always sat as far as I could in the front at every show. If they ever needed a volunteer I was more than ready to participate. I would laugh so hard at their shows I would almost fall out of my chair. 
 I never thought, "I can do this." I figured they were just really funny and talented guys, I never thought at the time that what they were doing was a learned art.</p> </blockquote>
@@ -64,7 +64,7 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * [[Troupes/Girl Embassy World Team]]
 * [[Troupes/Mr. and Mrs. Danger]]
 * [[Troupes/Parallelogramophonograph]]
-* [[Perfect Season]]
+* [[Troupes/Perfect Season]]
 * [[Troupes/The PITS]]
 
 ## Shows
@@ -76,7 +76,7 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Blood, Sweat, and Cheers]]* (June Davis, writer, producer)
 * [[Shows/A Bedtime Gorey]]
 * *[[Shows/The Big Bash]]* (company member) 
-* [[Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]] (2006, 2014)
+* [[Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]] (2006, 2014)
 * *[[Shows/Boy, Howdy!]]* (Performed and Directed)
 * *[[Shows/The Cagematch]]*
 * *[[Shows/Charles Dickens Unleashed]]* (Performed and Directed)
@@ -99,7 +99,7 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Shows/Nothing And Everything]]*
 * *[[Shows/The Nightmare Video Project]]* (2010-2012)
 * *[[Shows/Peter Pan and the Great Unknown]]* (Performed and Directed)
-* *[[Pick Your Own Path]]*
+* *[[Shows/Pick Your Own Path]]*
 * *[[Shows/Process]]*
 * *[[Orphans! The Improvised Orphan Musical]]* (Performed and Co-Directed)
 * *[[Shows/Reform School For Wayward Girls]]*

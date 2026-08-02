@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Performers/Bob McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Erika May">Erika May</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika May">Performers/Erika May</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--

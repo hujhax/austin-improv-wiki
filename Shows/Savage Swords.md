@@ -29,11 +29,11 @@
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
   --><li style=""><a class="internal-link" href="JM Specht">JM Specht</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Performers/Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Roy Danger">Roy Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Danger">Performers/Roy Danger</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Performers/Shannon McCormick</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Performers/Suzanne Link</a></li><!--
   --><!--

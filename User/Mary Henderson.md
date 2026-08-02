@@ -1,4 +1,4 @@
 ---
-redirect: "Mary Henderson"
+redirect: "Performers/Mary Henderson"
 ---
-#REDIRECT [[Mary Henderson]]
+#REDIRECT [[Performers/Mary Henderson]]

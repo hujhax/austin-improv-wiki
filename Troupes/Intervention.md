@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Intervention** is a *[[Cagematch]]* team.
+**Intervention** is a *[[Shows/Cagematch]]* team.
 
 ## History
 They played in the 7/16/14 *Cagematch*.

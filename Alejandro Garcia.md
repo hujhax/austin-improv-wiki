@@ -29,7 +29,7 @@
 * [[Troupes/Matt & Alejandro's One Man Show]] (2014-2015)
 Brute Squad
 
-## *[[Cagematch]]* Teams
+## *[[Shows/Cagematch]]* Teams
 * [[Troupes/Billy Shakes And All-Star Bards]] (2014)
 * [[Troupes/The Level Five]] (2012)
 

@@ -73,7 +73,7 @@
   --><li style=""><a class="internal-link" href="Performers/James C. Leary">Performers/James C. Leary</a></li><!--
   --><li style=""><a class="internal-link" href="Sydney Huddleston">Sydney Huddleston</a></li><!--
   --><li style=""><a class="internal-link" href="Mike Carreon">Mike Carreon</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Performers/Alex Ayala</a></li><!--
   --><li style="">various guests</li><!--
   --><!--
@@ -142,14 +142,14 @@ Late Night Time Machine with Teddy Hancox is a live comedy show created by [[Tes
 Shows have featured a mixture of improvised on-air interviews and off-air interactions (both on-set and behind the scenes), as well as stand up performances, the occasional musical performance, and written sketch commercials satirizing the culture of the late 60's.
 
 ## Origins
-Late Night Time Machine with Teddy Hancox was conceived by Tess Hermes, James C. Leary, and Mason Pitluk in the Summer of 2014. The show was pitched to the Institution Theater with [[Performers/Clifton Highfield]] signed on to direct, [[Sydney Huddleston]] signed on to play second lead Matilda Weatherspoon, [[Ceej Allen]] signed on as a performer, and [[Performers/Mark Shoemaker]] signed on as Technical Director. Hermes and Pitluk would write and produce while Leary would play host Teddy Hancox. The pitch itself was a three minute glimpse into an episode featuring a David Lynch guest interview, an off-air Tildy-Teddy interaction, and a Lucky Strike Cigarettes commercial.
+Late Night Time Machine with Teddy Hancox was conceived by Tess Hermes, James C. Leary, and Mason Pitluk in the Summer of 2014. The show was pitched to the Institution Theater with [[Performers/Clifton Highfield]] signed on to direct, [[Sydney Huddleston]] signed on to play second lead Matilda Weatherspoon, [[Performers/Ceej Allen]] signed on as a performer, and [[Performers/Mark Shoemaker]] signed on as Technical Director. Hermes and Pitluk would write and produce while Leary would play host Teddy Hancox. The pitch itself was a three minute glimpse into an episode featuring a David Lynch guest interview, an off-air Tildy-Teddy interaction, and a Lucky Strike Cigarettes commercial.
 
 ## Season 1
 Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes, Mason Pitluk, and Highfield, and featured the technical direction of Mark Shoemaker. 
 
 **Episode 1**
 * Marlon Brando ([[Performers/Mike Kinald]])
-* David Lynch ([[Ceej Allen]])
+* David Lynch ([[Performers/Ceej Allen]])
 * Julia Child ([[Performers/Topping Haggerty]])
 * Justin Bieber (backstage) ([[Andrew Maniaci]])
 
@@ -157,8 +157,8 @@ Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes,
 * Anne Frank ([[Performers/Alex Ayala]])
 * Socrates ([[Performers/Luke Wallens]])
 * Bindi Irwin ([[Ann Flynn Terrell]])
-* Beethoven ([[Ceej Allen]])
-* in world character Executive Executive Producer Barbara "Babs" Johnson ([[Jo Chauvin]]) 
+* Beethoven ([[Performers/Ceej Allen]])
+* in world character Executive Executive Producer Barbara "Babs" Johnson ([[Performers/Jo Chauvin]]) 
 
 **Episode 3**
 * Sigmund Freud ([[Andrew Schwartz]])
@@ -179,7 +179,7 @@ Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes,
 * Martha Stewart ([[Callie Sharon]])
 * Paula Deen ([[Rebecca Marsh]])
 * Anne Frank ([[Performers/Alex Ayala]])
-* David Lynch ([[Ceej Allen]])
+* David Lynch ([[Performers/Ceej Allen]])
 * Jesus of Nazareth ([[Performers/Justin Davidson]])
 
 ## Season 2
@@ -195,7 +195,7 @@ Season 2 primarily focused on:
 * Bjork ([[Performers/Sarah Marie Curry]])
 * Conan O'Brien ([[Performers/Ryan Hill]])
 * Emily Dickinson ([[Hanna AbuZayed]])
-* Vincent van Gogh ([[Ceej Allen]])
+* Vincent van Gogh ([[Performers/Ceej Allen]])
 * fictional YouTube sensation Stacy Stacy ([[Tess Hermes]])
 * Ellen DeGeneres ([[Mason Pitluk]])
 * special appearance by David Lynch (Ceej Allen)
@@ -205,13 +205,13 @@ Season 2 primarily focused on:
 * Genghis Khan ([[Performers/Brad Hawkins]])
 * Amy Winehouse ([[Performers/Kristen Kurtis]])
 * stand up from Baby Don Rickles ([[Performers/John Buseman]])
-* in world character Executive Executive Producer Barbara "Babs" Johnson ([[Jo Chauvin]]) 
+* in world character Executive Executive Producer Barbara "Babs" Johnson ([[Performers/Jo Chauvin]]) 
 
 **April 17th - Episode 3 - Party Time (or: How I Learned to Stop Worrying and Love Manuel Noriega)**
 * Manuel Noriega ([[Donnie Loa]])
 * Bill Clinton ([[Performers/Asaf Ronen]])
 * Stevie Nicks ([[Performers/Donna Rice]])
-* Joan Jett ([[Jayme Ramsey]])
+* Joan Jett ([[Performers/Jayme Ramsey]])
 * stand up from James Cagney ([[Lashonda Lester]])
 
 **April 24th - Episode 4 - The Silence of Tyranny, An Allegory (Presented by McDonald's)**
@@ -230,10 +230,10 @@ Season 2 primarily focused on:
 
 **May 8th - Episode 6 - Finale**
 * stand up and guest appearance from Salvador Dali ([[Performers/Brently Heilbron]])
-* Orson Welles ([[Jordan Maxwell]])
+* Orson Welles ([[Performers/Jordan Maxwell]])
 * Stanley Kubrick ([[Performers/Kenny Madison]])
 * Eve ([[Performers/Heidi Rogers]])
-* special appearance by David Lynch ([[Ceej Allen]])
+* special appearance by David Lynch ([[Performers/Ceej Allen]])
 
 ## Teddy Does ColdTowne
 On April 12, 2016, "Late Night Time Machine: Teddy Does ColdTowne" will debut at [[Coldtowne Theater]].  

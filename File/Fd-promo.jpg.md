@@ -3,7 +3,7 @@
 ## Summary
 [[Troupes/Franz & Dave]] perform at [[The Institution Theater]].
 
-Photo by [[Madeline Chauvin]].
+Photo by [[Performers/Madeline Chauvin]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

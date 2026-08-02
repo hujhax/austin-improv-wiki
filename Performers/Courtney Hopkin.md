@@ -32,7 +32,7 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 * [[Troupes/Rhinodino]]
 * [[Troupes/Snackers]]
 * [[Troupes/Your Terrific Neighbors]]
-* [[Nesting Dolls]]
+* [[Troupes/Nesting Dolls]]
 * [[Troupes/Do You Still Want to Do This]]
 * [[Troupes/Echo Lake]]
 

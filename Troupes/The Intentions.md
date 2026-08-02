@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Performers/Chelsea Gilman</a></li><!--
   --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Finkelman">Performers/Jason Finkelman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Performers/Kimberly Cox</a></li><!--

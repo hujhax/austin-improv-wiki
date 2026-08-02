@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Nerd Zoo** was a one-off *[[Cagematch]]* team.
+**Nerd Zoo** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 6/1/12.

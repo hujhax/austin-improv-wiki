@@ -67,18 +67,18 @@
 * [[We're Moving]] (2025 - Present)
 
 ## Improv Shows
-* *[[EPIC!]]* (Season 1 & 2 - 2011)
+* *[[Troupes/EPIC!]]* (Season 1 & 2 - 2011)
 * *[[Shows/The Sword of Merlin Works]]* (2012)
 * *[[Shows/The Black Vault]]* (2012-)
 * *[[Shows/Austin Secrets]]* (2012)
 * *[[Shows/The Next Chapter]]* (2013)
 * *[[Shows/The ReSet Project]]* (2013)
-* *[[Pick Your Own Path]]* (2013-)
+* *[[Shows/Pick Your Own Path]]* (2013-)
 * *[[Elf Employment]]* (2013 Guest)
 * *[[Shows/Thinning The Herd]]* (2013-2014)
 * *[[Shows/Hurly Burly]]* (2014-2017)
 * *[[Shows/Improv Anonymous]]* (2014 - )
-* *[[Grimm Noir]]* (2015)
+* *[[Shows/Grimm Noir]]* (2015)
 * ''["Austin Playback Theatre"](https://austinplaybacktheatre.wordpress.com/) (2015 - 2018)
 * *[[Shattered]]* (2019) 
 
@@ -107,7 +107,7 @@ Paul completed classes at [[The Hideout Theatre]] with his friend and classmate,
 
 Other classmates included [[Performers/Brad Hawkins]], [[Performers/Chad Wellington]], [[Katherine Greco]], and [[Performers/Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
 
-Paul conceived of and started a dramedy focused troupe [[Troupes/In Our Prime]] in 2011 with [[Gloria Rabil-Bankler]], [[Performers/Ryan Hill]], and [[Performers/Jessica Arjet]].
+Paul conceived of and started a dramedy focused troupe [[Troupes/In Our Prime]] in 2011 with [[Performers/Gloria Rabil-Bankler]], [[Performers/Ryan Hill]], and [[Performers/Jessica Arjet]].
 
 Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[Shows/The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[Troupes/We're Here to Date Your Daughter]] founded in 2012. 
 

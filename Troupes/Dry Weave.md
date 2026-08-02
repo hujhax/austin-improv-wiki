@@ -70,14 +70,14 @@
 	</table>
 </div>
 
-**Dry Weave** was a one-off *[[Cagematch]]* team.
+**Dry Weave** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They won the summer 2012 Cagematch on 6/29/12.
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/44662712) by [[Daniel Goldstein]] of their 6/22/12 semifinal *[[Cagematch]]* show.
+* [Video](http://vimeo.com/44662712) by [[Daniel Goldstein]] of their 6/22/12 semifinal *[[Shows/Cagematch]]* show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Only One Performance|Category:Only One Performance]]

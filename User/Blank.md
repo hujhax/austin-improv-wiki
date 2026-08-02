@@ -1,4 +1,4 @@
 ---
-redirect: "Greg Blank"
+redirect: "Performers/Greg Blank"
 ---
-#REDIRECT [[Greg Blank]]
+#REDIRECT [[Performers/Greg Blank]]

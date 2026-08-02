@@ -1,4 +1,4 @@
 ---
-redirect: "Thedward Blevins"
+redirect: "Performers/Thedward Blevins"
 ---
-#REDIRECT [[Thedward Blevins]]
+#REDIRECT [[Performers/Thedward Blevins]]

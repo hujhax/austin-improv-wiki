@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Ramirez and Gilstrap** was a one-off *[[Cagematch]]* duo.
+**Ramirez and Gilstrap** was a one-off *[[Shows/Cagematch]]* duo.
 
 ## History
 They played a Cagematch on 4/18/09.

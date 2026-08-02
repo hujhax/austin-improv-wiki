@@ -55,23 +55,23 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 	* This show featured student guests [[Ali Meier]], [[Corey Craig]], [[Performers/Greg Blank]], [[Jennifer Brinlee]], [[Niran Babalola]], and [[Ziad Rouhana]].
 * Saturday 8am (hour 16): [[Troupes/Waterpark]], a musical-improv troupe from [[The New Movement]], presented a non-narrative musical-improv show.
 * Saturday 9am (hour 17): *[[Shows/Dubbed Indemnity]]*: improvising the dialog, sound effects, and soundtrack for silenced TV and film clips.
-	* This featured guest [[Josh Gill]].
+	* This featured guest [[Performers/Josh Gill]].
 * Saturday 10am (hour 18): [[Troupes/Local Genius Society]] presented "Video Game", where cards scattered with 'helpful' instructions threw kinks and twists into an improvised story.
 	* This was a narrative based around "Disney Place", a knockoff version of [[Wikipedia - Disney World|Disney World]].
 * Saturday 11am (hour 19): *[[Shows/Charles Dickens Unleashed]]*: improv in the style of one of [[Wikipedia - Charles Dickens|Charles Dickens]]' early novels.
 	* This was the story of William Barachnal, a young aristocrat who was banished from his family home and, after a checkered youth, became a respected blacksmith in Derbyshire.
-* Saturday 12pm (hour 20): [[Arkay]] presents [JTS Brown](http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html).
+* Saturday 12pm (hour 20): [[Troupes/Arkay]] presents [JTS Brown](http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html).
 * Saturday 1pm (hour 21): [[Troupes/What's the Story, Steve]]: kid-friendly improv, featuring a dog.
 	* This featured guests [[Amy Carpenter]], [[Arian Brumby]], [[Performers/Clint Harris]], [[Performers/Drew Wesely]], [[Performers/Frank Netscher]], [[Performers/Kristin Henn]], and [[Performers/Luke Wallens]].
 	* In this story, Steve was a duke in a fantasy setting who was not invited to the kingdom's most eagerly-awaited birthday party.
 * Saturday 2pm (hour 22): Free-form improv from the core cast. (Nicknamed "The Eye of the Storm", this is the exact midpoint of the marathon.)
 * Saturday 3pm (hour 23): [[Troupes/Girls Girls Girls]]: improvised narrative musical.
 	* This musical was called "DMV", and featured a young lady getting her first driver's license at the local Department of Motor Vehicles.
-* Saturday 4pm (hour 24): *[[Pick Your Own Path]]*: improv in the style of the old *[[Wikipedia - Choose Your Own Adventure|Choose Your Own Adventure]]* books.
+* Saturday 4pm (hour 24): *[[Shows/Pick Your Own Path]]*: improv in the style of the old *[[Wikipedia - Choose Your Own Adventure|Choose Your Own Adventure]]* books.
 	* The core cast was joined by [[Content Love Knowles]], [[Performers/Thedward Blevins]], [[Performers/Mitchell Deane]], and [[Performers/Brad Hawkins]].
 	* The first story, "Fire-Breathing Dinosaurs", featured [[Performers/Jessica Arjet]] as a young girl who discovered a population of dragons on a field trip.
 	* The second story featured [[Performers/Aaron Saenz]] as a privileged child at a resort-like sleepaway camp who entered a different world while looking for a set of hot springs.
-* Saturday 5pm (hour 25): [[The Amazon & The Milksop]] presented a series of improvised English Instructional Videos.
+* Saturday 5pm (hour 25): [[Troupes/The Amazon & The Milksop]] presented a series of improvised English Instructional Videos.
 * Saturday 6pm (hour 26): [[Troupes/The Library]]: improvisors in several different genres performed a single narrative.
 * Saturday 7pm (hour 27): [[Troupes/The Knuckleball Now]]: rapid-fire improv.
 * Saturday 8pm (hour 28): *[[Shows/TheatreSports]]*: two teams of improvisors competed in a series of improv challenges.
@@ -81,7 +81,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 	* This was co-directed by [[Performers/Peter Rogers]] and [[Performers/Jessica Arjet]].
 	* The core cast was joined by [[Performers/Scott Hearne]], [[Performers/Ruby Willmann]], [[Performers/Troy Miller]], [[Performers/Cat Drago]], [[Performers/Chuy Zarate]], and [[Performers/Kaci Beeler]].
 * Sunday 12am (hour 32): *[[Shows/The Black Vault]]*: improvised [[Wikipedia - H. P. Lovecraft|H. P. Lovecraft]].
-	* The first story featured [[Justin Davis]] as a mountain explorer who brought back an evil elixir to his upper-class family.
+	* The first story featured [[Performers/Justin Davis]] as a mountain explorer who brought back an evil elixir to his upper-class family.
 	* The second story featured [[Performers/Peter Rogers]] as a doctor who performed a series of sleep-deprivation experiments with disastrous results.
 * Sunday 1am (hour 33): [[Puppet Improv Project]]: improv with puppets!
 	* The show format was "couples therapy", in which Sara Farr helped a number of puppet couples deal with their relationship problems.
@@ -97,17 +97,17 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Sunday 7am (hour 39): Student Show
 	* This was a long-form narrative set in New Orleans.
 	* This show featured student guests [[Ammu Ganesan]], [[Performers/David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Lindsay Hejl]], and [[Patrick Creamer]].
-* Sunday 8am (hour 40): *[[Care Bear Stare]]* -- The Care Bears came to bring badly animated joy to your lives.
+* Sunday 8am (hour 40): *[[Shows/Care Bear Stare]]* -- The Care Bears came to bring badly animated joy to your lives.
 	* In this show, [Care Bears](http://en.wikipedia.org/wiki/Care_Bears) based around not-exactly-G-rated emotions solved problems for the core-cast members in a longform narrative.
 	* The Care Bears:
 		* [[Performers/Roy Janik]] -- Desperately Cheerful Bear
-		* [[Josh Gill]] -- Stoner Bear
+		* [[Performers/Josh Gill]] -- Stoner Bear
 		* [[Performers/Cat Drago]] -- My Parents Didn't Love Me Enough Bear
 		* [[Performers/John Ratliff]] -- The Bear of Lost Hope
 		* [[Performers/Michael Joplin]] -- Gay Bear (and later, Bi Bear)
 * Sunday 9am (hour 41): [[The Institution Theater]] presented "the movie format", an improv montage with screenplay-style scene painting.
 	* This story followed a girl in the inner city and her estranged father through a narrative that became increasingly [[Wikipedia - David Lynch|Lynch]]ian over time.
-	* Guest performers: [[Performers/Asaf Ronen]], [[Performers/Clifton Highfield]], [[Deana Ricks]], [[Justin Davis]], [[Performers/Taylor Overstreet]], [[Performers/Tom Booker]].
+	* Guest performers: [[Performers/Asaf Ronen]], [[Performers/Clifton Highfield]], [[Deana Ricks]], [[Performers/Justin Davis]], [[Performers/Taylor Overstreet]], [[Performers/Tom Booker]].
 * Sunday 10am (hour 42): *[[Shows/Fakespeare]]*: improv in the style of William Shakespeare.
 	* This version of the show started with a few Shakespearean improv games, and then segued into a narrative.
 	* The narrative was based on a Persian attack on Jericho.

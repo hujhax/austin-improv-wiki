@@ -25,11 +25,11 @@
 Girls Girls Girls is Austin's longest-running all-female musical-improv troupe.  The Gals of GGG create full-length improvised musicals from a single audience suggestion. In other words using the talent of real live musicians, GGG makes up all of the songs, dances, characters, and stories to create one complete, blow-your-socks-off improvised musical.
 
 ## History
-In 1998, [[Austin Theatresports]] was founded with male and female members. The Girls of today started as a lab show of female members of Austin Theatresports. Goddess Improviser [Rebecca Stockley](http://www.improvlady.com) came to Austin to teach a workshop and while visiting, she gave the girls in the troupe some essential advice for having an all girl improv troupe: never, under no circumstances, let the boys come. The girls in the troupe first put up a lab show under the name "Rock Star Girls Galactica 3000". Original members included troupe founder [[Amy McCurdy]], [[Performers/Kacey Samiee]], [[Chelsea Gilman]], [[Lauren Zinn]], [[Kari Malek]], and [[Performers/Shana Merlin]].
+In 1998, [[Troupes/Austin Theatresports]] was founded with male and female members. The Girls of today started as a lab show of female members of Austin Theatresports. Goddess Improviser [Rebecca Stockley](http://www.improvlady.com) came to Austin to teach a workshop and while visiting, she gave the girls in the troupe some essential advice for having an all girl improv troupe: never, under no circumstances, let the boys come. The girls in the troupe first put up a lab show under the name "Rock Star Girls Galactica 3000". Original members included troupe founder [[Amy McCurdy]], [[Performers/Kacey Samiee]], [[Performers/Chelsea Gilman]], [[Performers/Lauren Zinn]], [[Kari Malek]], and [[Performers/Shana Merlin]].
 
 The girls started out with a mix of longform and short form. Shows included a wheel with names of improv games on it that you could spin to choose what was performed next. Also there were buckets onstage with suggestions in them. The girls even invented their own longform format called "Telephone." The show included an opening number which featured a choreographed dance to Bel Biv Devoe’s "Poison." They gave themselves rock-star aliases for the show as well such as "Casiopia", "Zelda Moonbeam", and "Chelsea Gilman". But as improv troupes do, this one lost momentum. No shows were scheduled no rehearsals held for over a year.
 
-Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[We Could Be Heroes]], but as its own troupe, called "Girls Girls Girls". The opening numbers were so much fun and went over so well, that the girls got together and decided they wanted to do improvised musical theatre. New members were added including [[Andrea Young]], [[Shelly Miller Bosse]], [[Monique Daviau]], and [[Katy Shea]] and the Girls as we know it today had begun. In 2003, the Girls decided to become an improv collective and work together to manage the troupe. In 2004 they added new members [[Tara White]] and [[Annette Jurcevic]] and began performing regularly at Arts on Real Theatre. In 2005, the Girls grew even bigger with the addition of [[Kimberly Tortorrici]], [[Jennifer Cargill]], [[Performers/Julie Gillis]], and [[Performers/Caitlin Sweetlamb]]. They also added a new format, GGG Beneath The Music, an improvised parody of VH1's Behind the Music.
+Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[Troupes/We Could Be Heroes]], but as its own troupe, called "Girls Girls Girls". The opening numbers were so much fun and went over so well, that the girls got together and decided they wanted to do improvised musical theatre. New members were added including [[Andrea Young]], [[Shelly Miller Bosse]], [[Performers/Monique Daviau]], and [[Katy Shea]] and the Girls as we know it today had begun. In 2003, the Girls decided to become an improv collective and work together to manage the troupe. In 2004 they added new members [[Tara White]] and [[Annette Jurcevic]] and began performing regularly at Arts on Real Theatre. In 2005, the Girls grew even bigger with the addition of [[Kimberly Tortorrici]], [[Jennifer Cargill]], [[Performers/Julie Gillis]], and [[Performers/Caitlin Sweetlamb]]. They also added a new format, GGG Beneath The Music, an improvised parody of VH1's Behind the Music.
 
 ### Formats
 ![[Secret Life of Soccer Moms Poster.jpg|Poster for "The Secret Lives of Soccer Moms".]]
@@ -49,7 +49,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Amy McCurdy]]
 * [[Andrea Young]]
 * [[Annette Jurcevic]]
-* [[Chelsea Gilman]]
+* [[Performers/Chelsea Gilman]]
 * [[Performers/Erin Molson]]
 * [[Jennifer Cargill]]
 * [[Performers/Julie Gillis]]
@@ -141,7 +141,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1221978361483.2027946.1589679282&type=3) by [[Roy Moore]] of their 4/3/10 performance in *[[Shows/The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1249529610247.2030742.1589679282&type=3) by [[Roy Moore]] of their 5/8/10 performance at *[[The Ladies Are Funny Festival]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100438451097360.3117252.7944448&type=3) by [[Jo Chauvin]] of their 7/23/10 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100438451097360.3117252.7944448&type=3) by [[Performers/Jo Chauvin]] of their 7/23/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/11/10 performance.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150151636822265.328769.588952264&type=3) by [[Performers/Peter Rogers]] of their 2/5/11 performance in *[[Shows/The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/4/11 "GGGlee" performance at [[The City Theater]].
@@ -221,7 +221,7 @@ This section lists media specifically for their *[[Shows/Boys of Summer]]* shows
 
 #### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.449206698434164.100559.100000345135257&type=3) by [[Performers/Claudio Fox]] of the 7/21/12 performance with [[Performers/Clay Towery]].
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers]].
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Performers/Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers]].
 	* [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Performers/Peter Rogers]] with that night's cast.
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.148885235192508.40280.100002130980897&type=3) by [[Steve Rogers]] of the 7/31/11 show featuring [[Performers/Michael Thomas]]. ("Comic Book Convention")
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show featuring [[Jason Laney]]. ("Mortuary")

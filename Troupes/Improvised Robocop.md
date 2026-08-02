@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Performers/Gene Zhou</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Performers/Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
-  --><li style=""><a class="internal-link" href="Jericho Thorpe">Jericho Thorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Performers/Jericho Thorpe</a></li><!--
   --><li style="" ><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Redding">Stephanie Redding</a></li><!--

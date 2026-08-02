@@ -1,4 +1,4 @@
 ---
-redirect: "Quinn Buckner"
+redirect: "Performers/Quinn Buckner"
 ---
-#REDIRECT [[Quinn Buckner]]
+#REDIRECT [[Performers/Quinn Buckner]]

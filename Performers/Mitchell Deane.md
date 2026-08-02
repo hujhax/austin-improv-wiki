@@ -22,24 +22,24 @@
 **Mitchell Deane** is an improv performer.
 
 ## History
-Mitchell, born in the last century, is a native Austinite with a bold Austin accent. He studied Theatre since middle school, going on to receive a degree in Theatre (Acting/Directing), as well as a degree in Communication at Texas A&M Corpus Christi. He started improv while in college with a group called [[Islander Improv]] that later became [[Camp Danger]]. This drove him to pursue improv theatre related internships, which led him to [[The Hideout Theatre]]. In the summer of 2010, he was at nearly every show, working in Box Office to Tech to House Management. Upon returning to school the next semester, he directed a fully improvised commedia dell'arte 50 minute play for his theatre capstone called *[[Commedia!]]*. After graduating, he returned to Austin where he got more involved in the improv scene, performing at [[The Hideout]], [[Salvage Vanguard]], [[The Institution Theater]], and [[Coldtowne Theater]] as well as completing all 6 levels of [[The Hideout Theatre]]. In 2011, Mitchell went with [[Troupes/Parallelogramophonograph]] to tech for them in the month long Edinburgh Fringe Festival in Edinburgh, Scotland. Later, Mitchell was given the honor of a [[Free Fringe]] called Drowning in Mitchell Deane, in which various Austin improvisers did different short scenes or games, improvising as if they were Mitchell Deane. He was a member of [[Troupes/The Seven Eight Sevens]](a troupe centered around characters and places of Austin). These days, Mitchell performs in [[Shows/History Under the Influence]] (an improvised show based on Drunk History),and [[Flying Theatre Machine]], a weekly improv show for kids.
+Mitchell, born in the last century, is a native Austinite with a bold Austin accent. He studied Theatre since middle school, going on to receive a degree in Theatre (Acting/Directing), as well as a degree in Communication at Texas A&M Corpus Christi. He started improv while in college with a group called [[Islander Improv]] that later became [[Camp Danger]]. This drove him to pursue improv theatre related internships, which led him to [[The Hideout Theatre]]. In the summer of 2010, he was at nearly every show, working in Box Office to Tech to House Management. Upon returning to school the next semester, he directed a fully improvised commedia dell'arte 50 minute play for his theatre capstone called *[[Commedia!]]*. After graduating, he returned to Austin where he got more involved in the improv scene, performing at [[The Hideout]], [[Salvage Vanguard]], [[The Institution Theater]], and [[Coldtowne Theater]] as well as completing all 6 levels of [[The Hideout Theatre]]. In 2011, Mitchell went with [[Troupes/Parallelogramophonograph]] to tech for them in the month long Edinburgh Fringe Festival in Edinburgh, Scotland. Later, Mitchell was given the honor of a [[Shows/Free Fringe]] called Drowning in Mitchell Deane, in which various Austin improvisers did different short scenes or games, improvising as if they were Mitchell Deane. He was a member of [[Troupes/The Seven Eight Sevens]](a troupe centered around characters and places of Austin). These days, Mitchell performs in [[Shows/History Under the Influence]] (an improvised show based on Drunk History),and [[Shows/Flying Theatre Machine]], a weekly improv show for kids.
 
 ## Troupes
 * [[Camp Danger]]
 * [[Islander Improv]]
 * [[Troupes/Kosher Bacon]]
 * [[Troupes/The Seven Eight Sevens]]
-* [[Flying Theatre Machine]]
+* [[Shows/Flying Theatre Machine]]
 * [[Shows/History Under the Influence]]
 
 ## Shows
 * *[[Shows/After School Improv]]*
-* *[[Cagematch]]*
+* *[[Shows/Cagematch]]*
 * *[[Shows/Charles Dickens Unleashed]]*
 * *[[Commedia!]]*
-* *[[The Fancy Pants Mash Up]]*
-* *[[Flying Theatre Machine]]*
-* *[[Free Fringe]]*
+* *[[Shows/The Fancy Pants Mash Up]]*
+* *[[Shows/Flying Theatre Machine]]*
+* *[[Shows/Free Fringe]]*
 * *[[Fresh Roasted]]*
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Shows/The Lottery]]*
@@ -48,7 +48,7 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 * *[[Shows/Maestro]]*
 * *[[Shows/Manson -  The Musical]]* (Beatle/Monkee/Beach Boy)
 * *[[Shows/The Nightmare Video Project]]*
-* *[[Pick Your Own Path]]*
+* *[[Shows/Pick Your Own Path]]*
 * *[[RPG Story]]*
 
 ## More Information

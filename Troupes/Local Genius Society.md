@@ -89,7 +89,7 @@ Local Genius Society has presented a number of different improv formats, includi
 ### Beach Cops
 Beach Cops was a series of narratives done in the style of *[[Wikipedia - Baywatch|Baywatch]]*. It came about as a one one-off joke in a show where Andrew and Zac played Beach Cops patrolling and protecting a beach. Tickled by the idea, LGS developed the format by drawing not only from Baywatch but also from *[[Wikipedia - Pacific Blue|Pacific Blue]]*. Beach Cops debuted at the [[The 2012 Improvised Play Festival]] ([Video](http://vimeo.com/40328506)) and was met with surprising success.
 
-It was performed several more times, including once at [[Coldtowne Theater]] with [[Kaci Danger]] as a guest Beach Cop. The final show was performed in Honolulu's Improvaganza festival in 2012. Beach Cops has since been retired.
+It was performed several more times, including once at [[Coldtowne Theater]] with [[Performers/Kaci Danger]] as a guest Beach Cop. The final show was performed in Honolulu's Improvaganza festival in 2012. Beach Cops has since been retired.
 
 ### Color
 Local Genius Society takes a suggestion of a color or brings a crayon box for an audience to select from and discuss what that color makes them think of. After each member has shared, a narrative based on the discussion is performed.

@@ -28,7 +28,7 @@
   --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
   --><li style=""><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
   --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica T. Von Schramm">Jessica T. Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica T. Von Schramm">Performers/Jessica T. Von Schramm</a></li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Patricia Harpst">Patricia Harpst</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Rob Yoho">Performers/Rob Yoho</a></li><!--

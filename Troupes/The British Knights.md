@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The British Knights** was a one-off *[[Cagematch]]* team.
+**The British Knights** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They won the Cagematch tournament in the summer of 2011.

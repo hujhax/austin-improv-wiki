@@ -43,7 +43,7 @@ Its early performances included a five-minute interstitial act between the first
 * [The show's site.](http://www.hideouttheatre.com/shows/TheSpectacle)
 * [The first call for submissions for *The Spectacle*](http://forum.austinimprov.com/viewtopic.php?t=10520), from [[Performers/Roy Janik]].
 * [The art created for the 4/2/10 premiere](http://www.hideouttheatre.com/mo-daviaus-story-for-the-spectacle) (by [[Performers/Mo Daviau]]).
-* [The story created for the 4/9/10 show](http://www.hideouttheatre.com/the-pony-wife-inspired-by-the-49-spectacle) (by [[Jo Chauvin]]).
+* [The story created for the 4/9/10 show](http://www.hideouttheatre.com/the-pony-wife-inspired-by-the-49-spectacle) (by [[Performers/Jo Chauvin]]).
 * [The poem created for the 4/23/10 show](http://www.hideouttheatre.com/big-poppa-es-poem-inspired-by-the-423-spectacle).
 
 [[Category/Shows|Spectacle]]

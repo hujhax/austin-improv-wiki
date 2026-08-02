@@ -28,7 +28,7 @@ Before coming to improv, Chrissy Shackelford attended the University of Texas at
 
 ## Troupes
 * [[Troupes/Nice Astronaut]] (April 2012- January 2013)
-* [[Men In Chrissy's Life]] (2013-present)
+* [[Troupes/Men In Chrissy's Life]] (2013-present)
 * [[Troupes/Cheap Date]] (2013-present)
 * [[Shows/Stool Pigeon]] (2013-present)
 * [[Powerball]] (2013-present)

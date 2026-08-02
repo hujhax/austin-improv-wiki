@@ -21,9 +21,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Performers/Jeremy Lamb</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
   --><!--
   --><!--
@@ -85,15 +85,15 @@
 ***Myth Debunkers*** was an improvised version of *[[Wikipedia - MythBusters|MythBusters]]*.
 
 ## History
-The show ran once as a *[[Free Fringe]]* on 6/14/12, and had an encore performance on 3/22/13 as part of *[[Shows/The TV Set]]*.
+The show ran once as a *[[Shows/Free Fringe]]* on 6/14/12, and had an encore performance on 3/22/13 as part of *[[Shows/The TV Set]]*.
 
 ## Cast
 Improvisors played the central cast of *MythBusters*, occasionally subbing out as flex characters.
-* Jamie Hyneman - [[Jeremy Lamb]] 
+* Jamie Hyneman - [[Performers/Jeremy Lamb]] 
 * Adam Savage - [[Performers/Jason Vines]] (6/14/12) / [[Performers/Ryan Austin]] (3/22/13)
 * Tory Belleci - [[Performers/Eric Heiberg]]
 * Kari Byron - [[Performers/Courtney Hopkin]]
-* Grant Imahara - [[Gene Joe]]
+* Grant Imahara - [[Performers/Gene Joe]]
 * The Narrator - [[Performers/Peter Rogers]]
 
 ## Media

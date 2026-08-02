@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Blank.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Greg Blank]], in the 3/1/13 performance of *[[The Fancy-Pants Mash-Up]]*.
+[[Performers/Greg Blank]], in the 3/1/13 performance of *[[Shows/The Fancy-Pants Mash-Up]]*.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/michael.yew/media_set?set=a.4390052592216.1073741825.1315383518&type=3).
 

@@ -1,4 +1,4 @@
 ---
-redirect: "Shana Merlin"
+redirect: "Performers/Shana Merlin"
 ---
-#REDIRECT [[Shana Merlin]]
+#REDIRECT [[Performers/Shana Merlin]]

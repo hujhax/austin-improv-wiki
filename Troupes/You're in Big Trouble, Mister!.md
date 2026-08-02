@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**You're in Big Trouble, Mister!** was a *[[Cagematch]]* team.
+**You're in Big Trouble, Mister!** was a *[[Shows/Cagematch]]* team.
 
 ## History
 They won the "Feud of Fury" Cagematch tournament in summer 2009, as well as the Cagematch "Tournament of Champions" in summer 2010.

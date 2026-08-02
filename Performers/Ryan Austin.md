@@ -28,7 +28,7 @@ He began directing improv in August of 2012 when [[Performers/Ruby Willmann]] ha
 
 
 ### First Improv Show He Saw
-A post from him about the first improv show he ever saw:<blockquote><p>The first live show I saw was when I was in level one. I went to see [[Pgraph]] (I think maybe [[Troupes/Improv For Evil]] opened for them?) because [[Performers/Roy Janik|Roy]] was my teacher and I thought I'd go and support him. Until that night I had never seen -nor was I aware- that people improvised long-form narratives.</p> 
+A post from him about the first improv show he ever saw:<blockquote><p>The first live show I saw was when I was in level one. I went to see [[Troupes/Pgraph]] (I think maybe [[Troupes/Improv For Evil]] opened for them?) because [[Performers/Roy Janik|Roy]] was my teacher and I thought I'd go and support him. Until that night I had never seen -nor was I aware- that people improvised long-form narratives.</p> 
 
 <p>It blew me away.</p> 
 
@@ -43,7 +43,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Troupes/Past Lives]]* (2013 - 2014)
 
 ## Shows
-* *[[The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
+* *[[Shows/The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
 * *[[Shows/Pocketful of Posies]]*
 * *[[Shows/Strange Worlds]]*
 * *[[Shows/I Love You So Much]]*
@@ -53,8 +53,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 
 ## Directing
 * "[[Shows/Happily Ever After]]" (2015, co-director)
-* *[[Theatresports (mainstage run)|TheatreSports]]* (2014, co director)
-* *[[Theatresports (mainstage run)|TheatreSports]]* (2013, assistant director)
+* *[[Shows/Theatresports (mainstage run)|TheatreSports]]* (2014, co director)
+* *[[Shows/Theatresports (mainstage run)|TheatreSports]]* (2013, assistant director)
 * *[[Shows/The Fancy-Pants Mashup]]* (director 2012-2013)
 
 

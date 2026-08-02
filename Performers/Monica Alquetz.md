@@ -39,7 +39,7 @@ Monica loves teaching improv because of how it reshapes people’s thinking when
 * *[[Coven]]*
 * *[[Shows/Start Trekkin']]*
 * *[[Shows/Sexy Future Space Lady]]*
-* *[[I'll Take the Physical Challenge]]*
+* *[[Shows/I'll Take the Physical Challenge]]*
 * *[[Silk Pajamas]]*
 * *[[Shows/The Black Vault]]*
 * *[[Small Town Girl]]*

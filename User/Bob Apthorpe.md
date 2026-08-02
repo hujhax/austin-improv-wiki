@@ -1,4 +1,4 @@
 ---
-redirect: "Bob Apthorpe"
+redirect: "Performers/Bob Apthorpe"
 ---
-#REDIRECT [[Bob Apthorpe]]
+#REDIRECT [[Performers/Bob Apthorpe]]

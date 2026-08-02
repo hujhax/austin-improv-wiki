@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
   --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Performers/Colin Bates</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -128,7 +128,7 @@
 **RhinoDino** is an improv troupe that focuses on short-form improv and modifying existing games to make them more interesting.
 
 ## History
-The troupe was initially conceptualized sometime in 2011 by good friends [[Performers/Quinn Buckner]], [[Performers/Kyle Traughber]], and [[Colin Bates]] as a troupe that would perform "improvised heavy metal."  This format was never realized, but RhinoDino began playing short-form shows together at [[Salvage Vanguard Theater]] in early 2012 as the "House Troupe" for "[[Shows/The Derby]]".  In September, 2012, [[Lacy Shawn]] and [[Performers/Courtney Hopkin]] joined RhinoDino.  [[Colin Bates]] recently re-located to Houston, but the remainder of the troupe remains intact and continues to perform monthly at the Salvage Vanguard Theater.
+The troupe was initially conceptualized sometime in 2011 by good friends [[Performers/Quinn Buckner]], [[Performers/Kyle Traughber]], and [[Performers/Colin Bates]] as a troupe that would perform "improvised heavy metal."  This format was never realized, but RhinoDino began playing short-form shows together at [[Salvage Vanguard Theater]] in early 2012 as the "House Troupe" for "[[Shows/The Derby]]".  In September, 2012, [[Performers/Lacy Shawn]] and [[Performers/Courtney Hopkin]] joined RhinoDino.  [[Performers/Colin Bates]] recently re-located to Houston, but the remainder of the troupe remains intact and continues to perform monthly at the Salvage Vanguard Theater.
 
 ## Format
 RhinoDino primarily performs short-form improv, with a specialization in naive games.  RhinoDino currently has a show at [[Salvage Vanguard Theater]] on the fourth Friday of every month at 10PM.  RhinoDino has also performed at [[The Hideout Theatre]], [[The Institution Theater]], [[Coldtowne Theater]], and [[The New Movement]].

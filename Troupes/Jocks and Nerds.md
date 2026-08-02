@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Jocks and Nerds** was a *[[Cagematch]]* team.
+**Jocks and Nerds** was a *[[Shows/Cagematch]]* team.
 
 ## Summary
 They did improv based on the lives of audience members.

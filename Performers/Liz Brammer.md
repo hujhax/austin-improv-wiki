@@ -31,7 +31,7 @@ In 2012, Liz moved to Seattle.
 * [[Troupes/Sarah 7]]
 * [[Troupes/Total Panic]]
 * [[Troupes/Elevator Action]]
-* [[Nesting Dolls]]
+* [[Troupes/Nesting Dolls]]
 
 ## Shows
 * *[[69 Love Scenes]]*

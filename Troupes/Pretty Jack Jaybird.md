@@ -1,4 +1,4 @@
 ---
-redirect: "Pretty Jack Jaybird"
+redirect: "Troupes/Pretty Jack Jaybird"
 ---
-#REDIRECT [[Pretty Jack Jaybird]]
+#REDIRECT [[Troupes/Pretty Jack Jaybird]]

@@ -143,7 +143,7 @@ The rest of the cast were ensemble players.
 [[Michael Yew]] was the technical director for the show.=== Guest Villains ===
 Each week, a guest improvisor would play the villain of the episode.  The villians were as follows:
 * [[Performers/Asaf Ronen]]
-* [[Justin Davis]]
+* [[Performers/Justin Davis]]
 * [[Performers/Kareem Badr]]
 * [[Performers/Lauren Buck]]
 * [[Performers/Mike Kinald]]
@@ -160,7 +160,7 @@ The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]]. 
 
 After its mainstage performances, it had its run extended for two weeks, played two special Halloween shows, and headlined the Black Box Comedy Festival in Atlanta, all in 2011.
 
-On 2/28/13, [[Performers/Eric Heiberg]] and [[Performers/Curtis Luciani]] reprised their respective roles as Chief O'Hara and Commissioner Gordon for a *[[Free Fringe]]* format called "[[Troupes/Waiting for Batman]]".  In it, the two characters spent twenty minutes chatting and waiting for Batman to show up at the commissioner's office.
+On 2/28/13, [[Performers/Eric Heiberg]] and [[Performers/Curtis Luciani]] reprised their respective roles as Chief O'Hara and Commissioner Gordon for a *[[Shows/Free Fringe]]* format called "[[Troupes/Waiting for Batman]]".  In it, the two characters spent twenty minutes chatting and waiting for Batman to show up at the commissioner's office.
 
 ## Media
 ### Videos
@@ -173,7 +173,7 @@ On 2/28/13, [[Performers/Eric Heiberg]] and [[Performers/Curtis Luciani]] repris
 * [Photoset](http://www.facebook.com/media/set/?set=a.1909076659819.107287.1628915954&type=3) posted by [[Deano Jones]] of the 5/21/11 performance ("The Baguette").
 	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes a 5/21/11 cast photo.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes the 5/28/11 performance, featuring guest villain [[Performers/Tom Booker]] (as "The Toupee").
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100853951601020.3219630.7944448&type=3) by [[Jo Chauvin]] of the same show.
+	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100853951601020.3219630.7944448&type=3) by [[Performers/Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/11/11 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/2/11 performance in [[The 2011 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3) posted by [[Deano Jones]] of their Black Box Festival performance in Atlanta
@@ -193,7 +193,7 @@ On 2/28/13, [[Performers/Eric Heiberg]] and [[Performers/Curtis Luciani]] repris
 	* [An interview](http://www.hideouttheatre.com/guest-villain-tom-booker) with [[Performers/Tom Booker]].
 	* [An interview](http://www.hideouttheatre.com/guest-villain-shana-merlin) with [[Performers/Shana Merlin]].
 	* [An interview](http://www.hideouttheatre.com/guest-villain-lauren-zinn) with [[Performers/Lauren Buck]].
-	* [An interview](http://www.hideouttheatre.com/guest-villain-justin-davis) with [[Justin Davis]].
+	* [An interview](http://www.hideouttheatre.com/guest-villain-justin-davis) with [[Performers/Justin Davis]].
 	* [An interview](http://www.hideouttheatre.com/guest-villain-kareem-badr) with [[Performers/Kareem Badr]].
 	* [An interview](http://www.hideouttheatre.com/guest-villain-jason-vines) with [[Performers/Jason Vines]].
  

@@ -1,4 +1,4 @@
 ---
-redirect: "The Out of Bounds Comedy Festival"
+redirect: "The Out Of Bounds Comedy Festival"
 ---
-#REDIRECT [[The Out of Bounds Comedy Festival]]
+#REDIRECT [[The Out Of Bounds Comedy Festival]]

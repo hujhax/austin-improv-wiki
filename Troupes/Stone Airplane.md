@@ -74,8 +74,8 @@
   --><li style=""><a class="internal-link" href="Bryson Rushing">Bryson Rushing</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Colin Bates">Colin Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Performers/Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
   --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
   --><!--
   --><!--

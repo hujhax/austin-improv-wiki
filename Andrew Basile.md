@@ -30,7 +30,7 @@
 * [[Troupes/Price Check]] (2013)
 
 
-## *[[Cagematch]]* Teams
+## *[[Shows/Cagematch]]* Teams
 * [[Troupes/Charlatans!]] (2014)
 * [[Troupes/Cold Turkey]] (2012)
 

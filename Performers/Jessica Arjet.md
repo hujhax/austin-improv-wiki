@@ -25,7 +25,7 @@
 Jessica is the co-owner of the Hideout Theatre where she directs all of the youth programs, oversees Maestro, the intern program, and the art exhibits.  She is the founder, producer and director of the [[Shows/Flying Theater Machine]], Austin's only improv comedy for kids.  Jessica teaches and coaches both adults and children. She is also a professional clown (Penelope Foolish).
 
 ## History
-Jessica Arjet graduated from the [[Heroes of Comedy]] Improv School in 2003.  Upon graduation, she was invited to join the house improv team.
+Jessica Arjet graduated from the [[Troupes/Heroes of Comedy]] Improv School in 2003.  Upon graduation, she was invited to join the house improv team.
 
 She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour Improv Marathon]].
 

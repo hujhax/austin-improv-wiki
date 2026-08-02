@@ -142,10 +142,10 @@ In December of 2016 it was decided to cancel TARANTULA. Sarah Marie Curry got al
 
 #### November 14th, 2015
 * [[Performers/Adam Mengesha]]
-* [[Cene Hale]]
+* [[Performers/Cene Hale]]
 * [[Clifton Highfied]]
 * [[Performers/Heidi Rogers]]
-* [[Rachel Austin]]
+* [[Performers/Rachel Austin]]
 * [[Performers/Sarah Marie Curry]]
 * [[Performers/Shannon McCormick]]
 * [[Performers/Jeremy Moran]]
@@ -192,7 +192,7 @@ In December of 2016 it was decided to cancel TARANTULA. Sarah Marie Curry got al
 * [[Performers/Brently Heilbron]]
 * [[Performers/Brett Tribe]]
 * [[Performers/Courtney Hopkin]]
-* [[Jordan Maxwell]]
+* [[Performers/Jordan Maxwell]]
 * [[Performers/Kenny Madison]]
 * [[Kierstin Hettler]]
 * [[Performers/Michael Ferstenfeld]]
@@ -260,7 +260,7 @@ In December of 2016 it was decided to cancel TARANTULA. Sarah Marie Curry got al
 #### January 24th, 2015
 * [[Performers/Arthur Simone]]
 * [[Performers/Asaf Ronen]]
-* [[Halyn Erickson]]
+* [[Performers/Halyn Erickson]]
 * [[Performers/Heidi Penix]]
 * [[Performers/Kareem Badr]]
 * [[Performers/Sam Schak]]

@@ -1,4 +1,4 @@
 ---
-redirect: "Ed Melendez"
+redirect: "Performers/Ed Melendez"
 ---
-#REDIRECT [[Ed Melendez]]
+#REDIRECT [[Performers/Ed Melendez]]

@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
-  --><li style=""><a class="internal-link" href="Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Performers/Chris Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
@@ -73,7 +73,7 @@
 **The Dark Bloodlords** was an improv troupe.
 
 ## History
-The troupe originated the Choose-Your-Own-Adventure-based format that would become *[[Pick Your Own Path]]*.
+The troupe originated the Choose-Your-Own-Adventure-based format that would become *[[Shows/Pick Your Own Path]]*.
 
 [[Category/Troupes|Dark Bloodlords]]
 

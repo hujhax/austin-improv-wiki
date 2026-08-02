@@ -1,4 +1,4 @@
 ---
-redirect: "Jeff Britt"
+redirect: "Performers/Jeff Britt"
 ---
-#REDIRECT [[Jeff Britt]]
+#REDIRECT [[Performers/Jeff Britt]]

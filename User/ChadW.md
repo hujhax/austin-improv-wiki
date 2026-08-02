@@ -1,4 +1,4 @@
 ---
-redirect: "Chad Wellington"
+redirect: "Performers/Chad Wellington"
 ---
-#REDIRECT [[Chad Wellington]]
+#REDIRECT [[Performers/Chad Wellington]]

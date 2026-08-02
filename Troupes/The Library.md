@@ -80,7 +80,7 @@
 
 
 ## History
-The troupe began as a *[[Free Fringe]]* one-off on 2/9/12.
+The troupe began as a *[[Shows/Free Fringe]]* one-off on 2/9/12.
 
 ### Former Members
 * [[Performers/Jon Bolden]]
@@ -94,7 +94,7 @@ The troupe began as a *[[Free Fringe]]* one-off on 2/9/12.
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/1/12 performance in [[The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3) by [[Performers/Warren Henderson]] that includes their 5/16/13 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201568613599932.1073741883.1315383518&type=3) by [[Michael Yew]] that includes their 3/21/14 performance in *[[PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201568613599932.1073741883.1315383518&type=3) by [[Michael Yew]] that includes their 3/21/14 performance in *[[Shows/PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203172527696782.1073741921.1315383518&type=3) by [[Michael Yew]] that includes their 12/18/14 performance in *[[Shows/The Threefer]]*.
 
 [[Category/Troupes|Library]]

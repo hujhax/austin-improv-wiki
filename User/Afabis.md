@@ -1,4 +1,4 @@
 ---
-redirect: "Andreas Fabis"
+redirect: "Performers/Andreas Fabis"
 ---
-#REDIRECT [[Andreas Fabis]]
+#REDIRECT [[Performers/Andreas Fabis]]

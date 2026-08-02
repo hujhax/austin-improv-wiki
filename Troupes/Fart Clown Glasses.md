@@ -73,7 +73,7 @@
 **Fart Clown Glasses** was an improv troupe.
 
 ## History
-The troupe played in at least two *[[Cagematch|Cagematches]]* in 2006.
+The troupe played in at least two *[[Shows/Cagematch|Cagematches]]* in 2006.
 
 [[Jill Morris]] came up with the troupe's name.
 

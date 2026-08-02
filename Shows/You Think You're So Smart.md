@@ -14,14 +14,14 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Justin Davis">Justin Davis</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
@@ -85,7 +85,7 @@
 ***You Think You're So Smart*** is an improvised panel show in the style of British programs like *[[Wikipedia - QI|QI]]*, *[[Wikipedia - Never Mind the Buzzcocks|Never Mind the Buzzcocks]]*, and *[[Wikipedia - Would I Lie to You (TV series)|Would I Lie to You?]]*
 
 ## Format
-In every performance, the panelists discuss facts and trivia in that week's category, provided by the show's host, [[Justin Davis]].
+In every performance, the panelists discuss facts and trivia in that week's category, provided by the show's host, [[Performers/Justin Davis]].
 
 Recurring features include the "Ranter's Corner", where a guest speaker delivers a rant related to the night's topic, "Spin the Wiki", where Justin uses [Wikipedia's "Random article" link](http://en.wikipedia.org/wiki/Special:Random) to supply a random topic, and "Would You Rather", where the panel discusses a choice between two alternatives which both have pros and cons.
 

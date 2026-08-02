@@ -155,7 +155,7 @@ The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 
 ### Videos
 * [Video of their show](http://vimeo.com/26127355) at [[The 2011 Improvised Play Festival]].
 * ["Violet Matters"](http://vimeo.com/channels/austinimprov/44619659), a 6/23/12 mash-up with *[[Shows/The Violet Underbelly]]*
-* [Video](http://vimeo.com/channels/austinimprov/77891213) of their 10/19/13 show with *[[Mister Morbid]]*.
+* [Video](http://vimeo.com/channels/austinimprov/77891213) of their 10/19/13 show with *[[Shows/Mister Morbid]]*.
 
 ### Photos
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.125071687573863.32003.100002130980897&type=3) by [[Steve Rogers]] of their 5/20/11 performance.

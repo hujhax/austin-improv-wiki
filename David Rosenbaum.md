@@ -9,7 +9,7 @@
 * [[Troupes/Too Shy Guys]] (accompanist)
 
 ## Shows
-* *[[Danger! The Improvised Lifetime Movie]]*
+* *[[Shows/Danger! The Improvised Lifetime Movie]]*
 * *[[Only Three Will Survive]]*
 * *[[Akimbo Bubble Scuttle Ruckus]]*
 * *[[The Moral Compass Rumpus]]*

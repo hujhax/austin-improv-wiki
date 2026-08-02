@@ -54,7 +54,7 @@ http://leavingmundania.com/2014/08/17/j-tuomas-harviainen-larp-collection/
 * [[Terra Chirieleison]]
 * [[Performers/Cat Drago]]
 * [[Performers/Heidi Penix]]
-* [[Lacy Shawn]]
+* [[Performers/Lacy Shawn]]
 * [[Performers/Luke Wallens]]
 * [[Performers/Chris Villafano]]
 * [[Performers/David Lampe]]
@@ -106,9 +106,9 @@ This show played on May 30, 2015.
 * [[Performers/Jessica Arjet]]
 * [[Performers/Chad Wellington]]
 * [[Performers/Heidi Rogers]]
-* [[JR Zambrano]]
-* [[Justin Davis]]
-* [[Jeanette Jones]]
+* [[Performers/JR Zambrano]]
+* [[Performers/Justin Davis]]
+* [[Performers/Jeanette Jones]]
 * [[Performers/Mike Kinald]]
 
 ## Media

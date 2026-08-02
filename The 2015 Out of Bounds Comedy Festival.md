@@ -16,7 +16,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * [[Troupes/Available Cupholders]]
 * [[Troupes/Bad Boys]]
 * [[Troupes/Bad Font]]
-* [[Ball & Chain]]
+* [[Troupes/Ball & Chain]]
 * [[Troupes/Boss]]
 * [[Troupes/Brain Trust]]
 * [[Troupes/Cascade]]
@@ -67,7 +67,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * [[Troupes/What's the Story, Steve]]
 * [[Troupes/Wink Planet]]
 * [[Troupes/You're Not My Real Dad]]
-* [[Zarzamora]]
+* [[Troupes/Zarzamora]]
 
 ### Out-of-Town Improv and Sketch Acts
 * 6chix
@@ -183,7 +183,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 
 ### Photos
 * Photosets from [[Steve Rogers]] featuring [candids from the first few nights](http://www.facebook.com/media/set/?set=a.1031477603582422.1073742239.221927764537414&type=3), [candids from the last few nights](http://www.facebook.com/media/set/?set=a.1035255256537990.1073742248.221927764537414&type=3),  [the 9/3/15 afterparty](http://www.facebook.com/media/set/?set=a.1032682190128630.1073742242.221927764537414&type=3), and [the Saturday afterparty photobooth](http://www.facebook.com/media/set/?set=a.1035098006553715.1073742247.221927764537414&type=3).
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] of 9/1/15, including [[Troupes/Squirrel Buddies]], Rorschach Pattern 9, [[Troupes/Honey Ladies]], [[Troupes/Golden]], [[Troupes/Cascade]], and [[Ball & Chain]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] of 9/1/15, including [[Troupes/Squirrel Buddies]], Rorschach Pattern 9, [[Troupes/Honey Ladies]], [[Troupes/Golden]], [[Troupes/Cascade]], and [[Troupes/Ball & Chain]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] of 9/2/15, including [[Troupes/GigglePants]], Urban Yeti Improv, [[Troupes/The Known Wizards]], [[Troupes/My Best Fiend]], [[Troupes/¡ZARZAMORA!]], and [[Shows/Fragile Rock]].
 * Photosets by [[Steve Rogers]] of 9/1/15: [an 8pm slot](http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3) featuring [[Troupes/Junk]], [[Troupes/Snafu]], and [[Troupes/Austin-Austin]]; [a 10pm slot](http://www.facebook.com/media/set/?set=a.1031442486919267.1073742238.221927764537414&type=3) featuring [[Troupes/Franz & Dave]], the Houlihans, and [[Shows/History Under the Influence]].
 * Photosets by [[Steve Rogers]] of 9/2/15: [an 8:30pm slot](http://www.facebook.com/media/set/?set=a.1032345030162346.1073742240.221927764537414&type=3) featuring [[Troupes/Nice Astronaut]], [[Troupes/Galactic]], and Winter Formal; [a 10pm slot](http://www.facebook.com/media/set/?set=a.1032385926824923.1073742241.221927764537414&type=3) featuring [[Troupes/Get Up]] and the Right Now.

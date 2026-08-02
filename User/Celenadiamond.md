@@ -1,4 +1,4 @@
 ---
-redirect: "Celena Diamond"
+redirect: "Performers/Celena Diamond"
 ---
-#REDIRECT [[Celena Diamond]]
+#REDIRECT [[Performers/Celena Diamond]]

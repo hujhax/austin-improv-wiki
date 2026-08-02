@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Straight Men** was a one-off *[[Cagematch]]* team.
+**Straight Men** was a one-off *[[Shows/Cagematch]]* team.
 
 ## Summary
 Their self-description: "Based on the Straight Men show at the Del Close Marathon in New York- a show where everyone plays the straight man. A sort of one-upmanship, where the goal is everyone for themselves trying to make themselves the straight man and everyone else crazy."

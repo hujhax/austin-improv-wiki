@@ -48,7 +48,7 @@ The nominees would then be voted on by any monetary supporter of the Austin Crea
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
 	* Winner: [[Troupes/The Frank Mills]]
 	* Nominees:
-		* [[You Me & Greg]] 
+		* [[Troupes/You Me & Greg]] 
 		* [[Troupes/Girls Girls Girls]] 
 		* [[Troupes/Foolish Mortals]] 
 		* [[Troupes/The Frank Mills]] 
@@ -77,7 +77,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 	* Winner: [[Troupes/Parallelogramophonograph]]
 	* Nominees:
 		* [[ColdTowne]]
-		* [[Confidence Men -  Improvised Mamet]]
+		* [[Troupes/Confidence Men -  Improvised Mamet]]
 		* [[Troupes/Midnight Society]]
 		* [[Troupes/Parallelogramophonograph]]
 		* [[Troupes/The Frank Mills]]
@@ -85,18 +85,18 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 
 ### 2009-2010 Season
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
-	* Winner: [[Confidence Men -  Improvised Mamet]]
+	* Winner: [[Troupes/Confidence Men -  Improvised Mamet]]
 	* Nominees:
 		* [[Shows/Austin Secrets]] ([[The Hideout Theatre]])
 		* [[ColdTowne]] ([[Coldtowne Theater]])
-		* [[Confidence Men -  Improvised Mamet]] ([[The Institution Theater]])
+		* [[Troupes/Confidence Men -  Improvised Mamet]] ([[The Institution Theater]])
 		* [[Dusk -  Improvised Tween Erotica]] ([[GNAP! Theater Productions]])
 		* [[Troupes/The Frank Mills]] ([[Coldtowne Theater]])
 
 
 ### 2010-2011 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
-	* Winner: [[Confidence Men -  Improvised Mamet]]
+	* Winner: [[Troupes/Confidence Men -  Improvised Mamet]]
 	* Nominees:
 		* [[Shows/Austin Secrets]] ([[The Hideout Theatre]])
 		* [[Troupes/Confidence Men]] ([[The Institution Theater]])
@@ -142,7 +142,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 * Outstanding Director
 	* Winners: [[Performers/Jayme Ramsay]] and [[Performers/Marc Majcher]], *[[Shows/Hurly Burly]]*
 	* Nominees:
-		* [[Jayme Ramsey]] and [[Performers/Marc Majcher]] (*[[Shows/Hurly Burly]]*)
+		* [[Performers/Jayme Ramsey]] and [[Performers/Marc Majcher]] (*[[Shows/Hurly Burly]]*)
 		* [[Performers/Valerie Ward]] (*[[Shows/A Bedtime Gorey]]*)
 		* [[Performers/Kareem Badr]] and [[Performers/Shannon McCormick]] (*[[Shows/Kenjutsu]]*)
 		* [[Performers/Roy Janik]] and [[Performers/Jessica Arjet]] (*[[Shows/I Love You So Much]]*) 

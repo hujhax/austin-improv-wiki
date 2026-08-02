@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Simone & Franks** was a one-off *[[Cagematch]]* duo.
+**Simone & Franks** was a one-off *[[Shows/Cagematch]]* duo.
 
 ## History
 They played one Cagematch on 4/10/13.

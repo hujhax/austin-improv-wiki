@@ -90,7 +90,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/The Nightmare Video Project]]* ("Directed"/Produced videos 2010-2012)
 * *[[Shows/Nothing And Everything]]*
 * *[[Shows/One More Night]]*
-* *[[Pick Your Own Path]]*
+* *[[Shows/Pick Your Own Path]]*
 * *[[Troupes/The Plagiarists]]*
 * *[[Shows/Process]]*
 * *[[Shows/Racket]]*
@@ -106,7 +106,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/Steam]]* (2012)
 * *[[Shows/Strange Worlds]]*
 * *[[Shows/TheatreSports]]*
-* *[[This American Live]]* (Segment)
+* *[[Shows/This American Live]]* (Segment)
 * ''[[Shows/The International Improv Experience]]
 * *[[Shows/The Source]]*
 * *[[The Tribunal]]* (Performed and directed)

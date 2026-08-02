@@ -135,9 +135,9 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 * [Video](http://vimeo.com/131967560) of their 6/26/15 "Box and String" show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3) by [[Michael Yew]] that includes a performance in *[[PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3) by [[Michael Yew]] that includes a performance in *[[Shows/PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/10 "French Farce" show at [[Coldtowne Theater]].
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100436370906080.3115649.7944448&type=3) by [[Jo Chauvin]] of their 4/16/10 "Dick and Jane" show in *[[Shows/The Spectacle]]*.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100436370906080.3115649.7944448&type=3) by [[Performers/Jo Chauvin]] of their 4/16/10 "Dick and Jane" show in *[[Shows/The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/7/10 show from *[[Shows/The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/21/10 show from *[[Shows/The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 6/18/10 performance.
@@ -172,16 +172,16 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 		* [[Performers/Kaci Beeler]]: [[Performers/Sarah Swofford]]
 		* [[Performers/Valerie Ward]]: [[Performers/John Ratliff]]
 		* [[Performers/Roy Janik]]: [[Performers/Cody Dearing]]
-		* [[Performers/Kareem Badr]]: [[Andy Buck]]
+		* [[Performers/Kareem Badr]]: [[Performers/Andy Buck]]
 * [A photoset](http://www.facebook.com/media/set/?set=a.523040367759484.1073741853.221927764537414&type=3) by [[Steve Rogers]] of their 4/12/13 performance at [[The 2013 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200446168619509.1073741854.1315383518&type=3) by [[Michael Yew]] which includes their 9/6/13 performance in *[[Shows/The Spectacle]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.598935996836587.1073741936.221927764537414&type=3) by [[Steve Rogers]] of their 500th show, on 9/15/13.
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200508705262886.1073741856.1315383518&type=3) by [[Michael Yew]] of the same show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200768887327275.1073741863.1315383518&type=3) by [[Michael Yew]] that includes their 11/1/13 performance in *[[PGraph Presents]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3) by [[Michael Yew]] of their 12/20/13 performance in *[[PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200768887327275.1073741863.1315383518&type=3) by [[Michael Yew]] that includes their 11/1/13 performance in *[[Shows/PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3) by [[Michael Yew]] of their 12/20/13 performance in *[[Shows/PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201568613599932.1073741883.1315383518&type=3) by [[Michael Yew]] that includes their 3/21/14 performance in *[[PGraph Presents]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152579627562265.1073741849.588952264&type=3) by [[Performers/Peter Rogers]] of their 6/27/14 performance in *[[PGraph Presents]]*
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201568613599932.1073741883.1315383518&type=3) by [[Michael Yew]] that includes their 3/21/14 performance in *[[Shows/PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152579627562265.1073741849.588952264&type=3) by [[Performers/Peter Rogers]] of their 6/27/14 performance in *[[Shows/PGraph Presents]]*
 	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202172654140568.1073741894.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203013018949163.1073741916.1315383518&type=3) by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.940852415978275.1073742181.221927764537414&type=3) by [[Steve Rogers]] of their 4/10/15 performance of "Box and String" in [[The Improvised Play Festival]].

@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Amber Shae">Amber Shae</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
   --><li style=""><a class="internal-link" href="Dee Ann Asbury">Dee Ann Asbury</a></li><!--
-  --><li style=""><a class="internal-link" href="Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Reid O'Conor">Reid O'Conor</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Leng Wong">Performers/Leng Wong</a></li><!--
   --><!--

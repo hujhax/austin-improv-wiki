@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Pulling from a wealth of improv experience, [[Performers/Ashley Nugent]] (iO West and Phoenix veteran, ColdTowne faculty), [[Julia Kirchen]] ([[Troupes/The Varsity]]), [[Performers/Emma Holder]] ([[Troupes/Baldenholder]], [[Rattlesnake Sketch]]) and [[Performers/Lisa Jackson]] ([[Battlestar Gillacktucka]], [[Ratliff & Jackson]], *[[Shows/Austin Secrets]]*) organically discover their character-driven show.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Pulling from a wealth of improv experience, [[Performers/Ashley Nugent]] (iO West and Phoenix veteran, ColdTowne faculty), [[Julia Kirchen]] ([[Troupes/The Varsity]]), [[Performers/Emma Holder]] ([[Troupes/Baldenholder]], [[Rattlesnake Sketch]]) and [[Performers/Lisa Jackson]] ([[Troupes/Battlestar Gillacktucka]], [[Troupes/Ratliff & Jackson]], *[[Shows/Austin Secrets]]*) organically discover their character-driven show.</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We perform long form improv that is character driven, we organically find the format of the show, but likely to be one long group scene or 3 or 4 grounded and related scenes.</blockquote>

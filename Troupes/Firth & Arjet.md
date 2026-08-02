@@ -73,7 +73,7 @@
 **Firth & Arjet** (frequently written with no spaces: **Firth&Arjet**) was an improv duo.
 
 ## History
-They duo started in January 2007, winning a series of *[[Cagematch]]* competition shows with a signature half-scripted format.  Later, they started working with [[Performers/Asaf Ronen]] as their director and coach, and worked on character-focused formats.
+They duo started in January 2007, winning a series of *[[Shows/Cagematch]]* competition shows with a signature half-scripted format.  Later, they started working with [[Performers/Asaf Ronen]] as their director and coach, and worked on character-focused formats.
 
 Firth and Arjet headlined *[[Shows/The Free Fringe]]* from its premiere on 1/5/12 until their last performance, on 8/9/12.
 
@@ -103,7 +103,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 
 ## Media
 ### Photos
-* [A photoset](http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1) by [[Michael Yew]] that includes their 2/5/10 *[[Double Barrel]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1) by [[Michael Yew]] that includes their 2/5/10 *[[Shows/Double Barrel]]* show.
 * [A photoset](http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1) by [[Michael Yew]] that includes their 11/5/10 show in *[[Shows/The Spectacle]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1) by [[Michael Yew]] that includes their 1/23/11 show at [[The Hideout Theatre]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=1) by [[Michael Yew]] that includes their 3/25/11 and 4/22/11 shows.
@@ -111,12 +111,12 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [A photoset](http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1) by [[Steve Rogers]] that includes their 9/2/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 * A [photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Performers/Peter Rogers]] of their 1/5/12 "Bridesmaids" performance in the premiere of *[[Shows/The Free Fringe]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1) by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[Shows/The Free Fringe]]*.
-* [A photoset](http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1) by [[Performers/Sam Schak]] that includes their 2/2/12 *[[Free Fringe]]* show.
-* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/8/12 *[[Free Fringe]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1) by [[Performers/Sam Schak]] that includes their 2/2/12 *[[Shows/Free Fringe]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/8/12 *[[Shows/Free Fringe]]* show.
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3) by [[Michael Yew]] of that same show.
-* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Free Fringe]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Shows/Free Fringe]]* show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/12 performance in *[[Shows/The Free Fringe]]*.
-* Their final *[[Free Fringe]]* performance on 8/9/12.
+* Their final *[[Shows/Free Fringe]]* performance on 8/9/12.
 	* [A photoset](http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1) by [[Michael Yew]].
 	* [A photoset](http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1) by [[Steve Rogers]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.

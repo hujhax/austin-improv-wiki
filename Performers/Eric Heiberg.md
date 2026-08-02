@@ -26,7 +26,7 @@ Eric was a company member of [[Gnap! Theater Projects]].
 
 He was a core cast member in [[The 43-Hour Improv Marathon]] and a guest boy in *[[Shows/Boys of Summer]]*.
 
-In 2013, he moved to Minneapolis.  Just before that, he had a special *[[Free Fringe]]* devoted to him.
+In 2013, he moved to Minneapolis.  Just before that, he had a special *[[Shows/Free Fringe]]* devoted to him.
 
 ## Troupes
 * [[Troupes/ComedySportz]]

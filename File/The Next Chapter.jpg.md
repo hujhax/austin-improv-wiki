@@ -3,7 +3,7 @@
 ## Summary
 Publicity image for *[[Shows/The Next Chapter]]*.
 
-Art by [[Justin Davis]].
+Art by [[Performers/Justin Davis]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

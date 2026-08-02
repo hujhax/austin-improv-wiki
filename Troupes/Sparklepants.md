@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Sparklepants** was a one-off *[[Cagematch]]* team.
+**Sparklepants** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 9/16/11.

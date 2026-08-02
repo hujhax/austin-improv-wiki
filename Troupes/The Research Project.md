@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Research Project** was a one-off *[[Cagematch]]* team.
+**The Research Project** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 6/8/12.

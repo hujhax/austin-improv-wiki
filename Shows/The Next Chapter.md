@@ -77,7 +77,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Jeanette Jones]]</td>
+			<td class="category">[[Performers/Jeanette Jones]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

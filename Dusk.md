@@ -24,7 +24,7 @@
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Performers/Avimaan Syam</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Performers/Chelsea Gilman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Colin Thomas Bates">Performers/Colin Thomas Bates</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
@@ -33,7 +33,7 @@
   --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Performers/Katie Thornton</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lauren Buck">Performers/Lauren Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Lauren Zinn">Lauren Zinn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lauren Zinn">Performers/Lauren Zinn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Performers/Lindsey Reeves</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Madi Goff">Performers/Madi Goff</a></li><!--
@@ -108,11 +108,11 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [[Performers/Audrey Rachel Sansom]]
 * [[Performers/Avimaan Syam]]
 * [[Performers/Bryan Cruz]]
-* [[Chelsea Gilman]]
+* [[Performers/Chelsea Gilman]]
 * [[Performers/Courtney Hopkin]]
 * [[Performers/Julie Gillis]]
 * [[Performers/Kyle Traughber]]
-* [[Lauren Zinn]]
+* [[Performers/Lauren Zinn]]
 * [[Performers/Lindsey Reeves]]
 * [[Performers/Madi Goff]]
 * [[Performers/Michael Joplin]]
@@ -140,7 +140,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 ### Chicago
 #### Cast
 * [[Performers/Avimaan Syam]]
-* [[Chelsea Gilman]]
+* [[Performers/Chelsea Gilman]]
 * [[Performers/Courtney Hopkin]]
 * [[Performers/Kyle Traughber]]
 * [[Performers/Lindsey Reeves]]
@@ -158,7 +158,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [[Performers/Avimaan Syam]]
 * [[Performers/Bryan Cruz]]
 * [[Performers/Julie Gillis]]
-* [[Lauren Zinn]]
+* [[Performers/Lauren Zinn]]
 * [[Performers/Madi Goff]]
 * [[Performers/Michael Joplin]]
 * [[Performers/Michael Thomas]]
@@ -171,7 +171,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [[Performers/Audrey Rachel Sansom]]
 * [[Performers/Avimaan Syam]]
 * [[Performers/Bryan Cruz]]
-* [[Chelsea Gilman]]
+* [[Performers/Chelsea Gilman]]
 * [[Performers/Courtney Hopkin]]
 * [[Hugo Zesati]]
 * [[Performers/Katie Thornton]]

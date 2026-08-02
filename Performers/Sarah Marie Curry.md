@@ -59,7 +59,7 @@ Advanced Musical Improv
 
 ## Shows
 * *[[Dusk]]* - Gnap Theatre
-* *[[Fuck It's Christmas]]* - The Institution Theatre
+* *[[Shows/Fuck It's Christmas]]* - The Institution Theatre
 * *[[Shows/Guilds Of Steel]]* - Gnap Theatre
 * *[[Shows/Hitchcocked!]]* - The Hideout Theatre
 * *[[Shows/Ka-Baam!!]]* - The Hideout Theatre

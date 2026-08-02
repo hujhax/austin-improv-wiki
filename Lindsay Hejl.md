@@ -30,5 +30,5 @@
 ## Shows
 * *[[Shows/Control Issues]]*
 * *[[Shows/Flying Theater Machine]]*
-* *[[Song Runner]]*
+* *[[Shows/Song Runner]]*
 * *[[Shows/What the F@$]]*

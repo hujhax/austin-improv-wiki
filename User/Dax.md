@@ -1,4 +1,4 @@
 ---
-redirect: "Tim Honker"
+redirect: "Performers/Tim Honker"
 ---
-#REDIRECT [[Tim Honker]]
+#REDIRECT [[Performers/Tim Honker]]

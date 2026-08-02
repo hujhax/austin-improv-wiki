@@ -4,7 +4,7 @@
 * [[Performers/Andy Crouch]]
 * [[Performers/Caitlin Sweetlamb]] 
 * [[Performers/Curtis Luciani]]
-* [[Jeremy Lamb]] 
+* [[Performers/Jeremy Lamb]] 
 * [[Performers/Kaci Beeler]] 
 * [[Performers/Kareem Badr]] 
 * [[Performers/Matt Pollock]]
@@ -31,7 +31,7 @@
 * Saturday 11am: [[Shows/Charles Dickens Unleashed|"What the Dickens!?", improvised Charles Dickens]]
 * Saturday noon: Student Showcase
 * Saturday 1pm: [[Troupes/ComedySportz]]
-* Saturday 2pm: [[Flying Theatre Machine]]
+* Saturday 2pm: [[Shows/Flying Theatre Machine]]
 * Saturday 3pm: Student Showcase
 * Saturday 4pm: "Play by Play: Cubs vs. White Sox", improv commentary over Major League Baseball
 * Saturday 5pm: "The Life Game", improv inspired by a live celebrity interview
@@ -47,7 +47,7 @@
 * Sunday 4am: [[Troupes/Parallelogramophonograph]]
 * Sunday 5am: "Mystery Meat", a surprise format from [[Performers/Roy Janik]]
 * Sunday 6am: "Soap Opera", improv daytime television with [[Troupes/Junk]]
-* Sunday 7am: [[McNichol and May]]
+* Sunday 7am: [[Troupes/McNichol and May]]
 * Sunday 8am: "The Final Countdown", free-form improv with the core improvisors
 
 ## Media

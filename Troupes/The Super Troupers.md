@@ -82,7 +82,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 <p>We love finding the game and focusing on relationships.</p></blockquote>
 
 ## History
-They played in the *[[Cagematch]]* on 12/12/12 and 1/9/13.
+They played in the *[[Shows/Cagematch]]* on 12/12/12 and 1/9/13.
 
 ## Media
 ### Videos

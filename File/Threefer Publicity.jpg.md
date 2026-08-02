@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Threefer Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[The Thursday Threefer]] featuring [[Troupes/The Starter Kit]], for a headlining run in January 2009.
+Publicity image for [[Shows/The Thursday Threefer]] featuring [[Troupes/The Starter Kit]], for a headlining run in January 2009.
 
 Art by [[Performers/Kaci Beeler]].
 

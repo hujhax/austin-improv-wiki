@@ -1,4 +1,4 @@
 ---
-redirect: "Jon Bolden"
+redirect: "Performers/Jon Bolden"
 ---
-#REDIRECT [[Jon Bolden]]
+#REDIRECT [[Performers/Jon Bolden]]

@@ -25,8 +25,8 @@
 * [[Troupes/Apocalypse (troupe)|Apocalypse]]
 * [[Bedfellows]]
 * [[Troupes/My Best Fiend]] (Guest Appearance as Marlene Dietrich)
-* [[Pick Your Own Path]] 
-* [[Senshi Sokyo]]
+* [[Shows/Pick Your Own Path]] 
+* [[Troupes/Senshi Sokyo]]
 
 ## Shows
 * *[[Shows/The Derby]]*

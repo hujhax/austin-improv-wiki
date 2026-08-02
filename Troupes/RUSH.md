@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/68171828) by [[Kyle Sweeney]] of the [[Troupes/RUSH]] set from *[[Movie vs. Movie]]* ("Bangalore", uploaded 6/11/13).
+* [Video](http://vimeo.com/68171828) by [[Kyle Sweeney]] of the [[Troupes/RUSH]] set from *[[Shows/Movie vs. Movie]]* ("Bangalore", uploaded 6/11/13).
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -24,7 +24,7 @@
   --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
@@ -153,7 +153,7 @@ Here is [[Performers/Jordan T. Maxwell]]'s explanation of the name's origin:<blo
 * **Dr. Lily Wilde** ([[Pseudonyms|Madeline M.]]), jungle professor, is an anthropologist raised in the jungles of the Amazon.  With her ready fists and her keen scientific insights, she fights all of the enemies of the natural world and its denizens.
 * **Maxine Maker** ([[Performers/Jessica Arjet]]) is a clever gadgeteer who uses her inventions to fight mad scientists, giant robots, and the like, in a world that's often biased against female engineers.
 * **The Grey Bishop** ([[Performers/Andreas Fabis]]) is Martin Van Sant, a Dutch bookshop owner and chess enthusiast who, in his spare time, dons a domino mask and matches wits against master criminals as "The Grey Bishop".  His morally ambiguous crimefighting methods often leave a body count, and he has a penchant for leaving chess pieces with his victims: pawns for minor henchmen, perhaps a bishop for a higher lieutenant, and so on.
-* **The Peregrine** ([[Lacy Shawn]]) is Annie Peregrine, a street urchin who moonlights as the city's most feared cat burglar (and occasionally dons the guise of high-society girl Anna Margaret Volare).  She targets the corrupt rich, and commits her crimes with the help of a slingshot with a variety of useful pellets, and Hawkimedes, a particularly well-trained hawk.
+* **The Peregrine** ([[Performers/Lacy Shawn]]) is Annie Peregrine, a street urchin who moonlights as the city's most feared cat burglar (and occasionally dons the guise of high-society girl Anna Margaret Volare).  She targets the corrupt rich, and commits her crimes with the help of a slingshot with a variety of useful pellets, and Hawkimedes, a particularly well-trained hawk.
 * **Bellwether Blue** ([[Performers/Jayme Ramsay]]) is an ace pilot, the daughter of a great (and deceased) war hero.  She flies with her two "Liberty Aces", Tank ([[Performers/Alexander Hilary]]) and Spunk ([[Performers/Marc Majcher]]), and often fights fascists intent on world domination.
 ### The Protagonists of Strange Times
 * **Morgan McNulty** ([[Performers/Heidi Rogers]]) is a city cop with a penchant for violence.  She's been suspended from active duty at least once for this.

@@ -25,10 +25,10 @@
   --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Performers/Heath Allyn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Performers/Heidi Caldwell</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Ausanka Reese">Joel Ausanka Reese</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
   --><li style="" ><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
-  --><li style=""><a class="internal-link" href="Madeline Chauvin">Madeline Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Chauvin">Performers/Madeline Chauvin</a></li><!--
   --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
   --><li style=""><a class="internal-link" href="Roxy Castillo">Roxy Castillo</a></li><!--
   --><li style=""><a class="internal-link" href="Steve Glazer">Steve Glazer</a></li><!--
@@ -142,13 +142,13 @@ The 2012 revival ran on Fridays and Saturdays in May.
 
 ### Cast
 * Charlie Manson -- [[Performers/Heath Allyn]]
-* Tex Watson -- [[Josh Gill]]
+* Tex Watson -- [[Performers/Josh Gill]]
 * Linda -- [[Beth Shea]]
 * Gypsy -- [[Performers/Heidi Caldwell]]
 * Squeaky -- [[Robin Anderson]]
 * Sadie -- [[Roxy Castillo]]
 * Lulu -- [[Laura Komkov]]
-* Katie -- [[Madeline Chauvin]]
+* Katie -- [[Performers/Madeline Chauvin]]
 * The Beatles/The Monkees/The Beach Boys -- [[Performers/Mitchell Deane]], [[Steve Glazer]], [[Performers/David Lampe]], and [[Kevin Machate]]
 * Sharon Tate -- [[Ashley Lowe]]
 * Jay Sebring -- [[Steve Glazer]]

@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Sausage Party** was a one-off *[[Cagematch]]* team.
+**Sausage Party** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 4/3/10.

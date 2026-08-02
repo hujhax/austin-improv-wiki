@@ -1,4 +1,4 @@
 ---
-redirect: "Erica Lies"
+redirect: "Performers/Erica Lies"
 ---
-#REDIRECT [[Erica Lies]]
+#REDIRECT [[Performers/Erica Lies]]

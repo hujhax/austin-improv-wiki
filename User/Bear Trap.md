@@ -1,4 +1,4 @@
 ---
-redirect: "Brett Tribe"
+redirect: "Performers/Brett Tribe"
 ---
-#REDIRECT [[Brett Tribe]]
+#REDIRECT [[Performers/Brett Tribe]]

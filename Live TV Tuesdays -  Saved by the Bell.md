@@ -20,7 +20,7 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Ellana Kelter">Ellana Kelter</a></li><!--
   --><li style=""><a class="internal-link" href="Espie Randolph">Espie Randolph</a></li><!--
   --><li style=""><a class="internal-link" href="Lauren Forman">Lauren Forman</a></li><!--
@@ -102,7 +102,7 @@ All of these performances were at The United States Art Authority at [[The Spide
 * Kelly Kapowski -- [[Lauren Forman]]
 * A. C. Slater -- [[Performers/Bryan Cruz]]
 * Jessie Spano -- [[Ellana Kelter]]
-* Samuel 'Screech' Powers -- [[Bryan Roberts]]
+* Samuel 'Screech' Powers -- [[Performers/Bryan Roberts]]
 * Lisa Turtle -- [[Espie Randolph]]
 * Principal Belding -- [[Terrill Fischer]]
  
@@ -114,7 +114,7 @@ All of these performances were at The United States Art Authority at [[The Spide
 
 ### Photos
 * [Publicity photos.](http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3)
-* [Performance and casual photos](http://www.facebook.com/MadelineChauvin/media_set?set=a.952975911550.2727692.7944448&type=3) by [[Jo Chauvin]].
+* [Performance and casual photos](http://www.facebook.com/MadelineChauvin/media_set?set=a.952975911550.2727692.7944448&type=3) by [[Performers/Jo Chauvin]].
 
 ## Other Information
 * [Forum announcement of the August run.](http://forum.austinimprov.com/viewtopic.php?f=2&t=9512)

@@ -84,7 +84,7 @@ Upon moving to Austin he signed up for classes pronto.
 
 ## Shows
 * *[[Shows/Cochise]]* (2014)
-* *[[Song Runner]]* (2015) (Tech)
+* *[[Shows/Song Runner]]* (2015) (Tech)
 * *[[Shows/The Untitled Avant-Garde Theater Project with a Really Long Title]]* (2016) (Tech)
 * *[[Shows/Buddy Cop]]* (2017) (Tech)
 * *[[Shows/Local on the Eights]]* (2017) (Tech)

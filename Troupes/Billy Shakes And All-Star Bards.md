@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Billy Shakes and All-Star Bards** was a one-off *[[Cagematch]]* team.
+**Billy Shakes and All-Star Bards** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/28/14.

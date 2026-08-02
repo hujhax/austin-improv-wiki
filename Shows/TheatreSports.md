@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Dav Wallace">Dav Wallace</a> and <a class="internal-link" href="Performers/Sean Hill">Performers/Sean Hill</a> (2007)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a> and <a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a> (2010)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a> (2013)</li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a> and <a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a> (2014)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a> and <a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a> (2014)</li><!--
   --><!--
   --><!--
   --><!--
@@ -83,7 +83,7 @@
   --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Temple">Performers/Brad Temple</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
@@ -100,12 +100,12 @@
   --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Performers/Keegan Hines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lauren Buck">Performers/Lauren Buck</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Performers/Matt Pollock</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Monique Daviau">Monique Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Monique Daviau">Performers/Monique Daviau</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Performers/Patrick Daniel</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
@@ -234,7 +234,7 @@ For this one, teams were set at the start of the run, and those teams played tog
 	* [[Performers/Sean Hill]]
 	* [[Performers/Shannon McCormick]]
 * Team Dragon's Lair
-	* [[Chris Allen]]
+	* [[Performers/Chris Allen]]
 	* [[Performers/Jon Bolden]]
 	* [[Performers/Kristin Firth]]
 	* [[Performers/Marc Majcher]]
@@ -260,7 +260,7 @@ The show runs in the downstairs theater.
 * [[Performers/Jon Bolden]]
 * [[Performers/Kareem Badr]]
 * [[Performers/Keegan Hines]]
-* [[Lacy Shawn]]
+* [[Performers/Lacy Shawn]]
 * [[Performers/Marc Majcher]]
 * [[Performers/Mia Iseman]]
 * [[Performers/Nicole Oliver]]

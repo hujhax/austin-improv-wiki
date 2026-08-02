@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Sandra Markarian">Sandra Markarian</a></li><!--
   --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Tarantina Turner** was a one-off *[[Cagematch]]* team that performed a Close Quarters format.
+**Tarantina Turner** was a one-off *[[Shows/Cagematch]]* team that performed a Close Quarters format.
 
 ## Summary
 ### Publicity Blurbs

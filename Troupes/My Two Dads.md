@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**My Two Dads** was a one-off *[[Cagematch]]* team.
+**My Two Dads** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played two Cagematches on 3/6/10 and 4/10/10.

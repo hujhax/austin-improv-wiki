@@ -32,7 +32,7 @@
 ## History
 [Keith Johnstone](http://en.wikipedia.org/wiki/Keith_Johnstone) invented Maestro (originally known as "Micetro" and still called that outside of Austin) when he was asked, on short notice, to concoct an improv format that 50 people could play. He initially called it "The New Game." When [[Performers/Sean Hill]] founded the Hideout, Micetro was one of the games he brought from [BATS](http://www.improv.org/Home.aspx) in San Francisco.
 
-In February 1999, [Dan O’Connor](http://www.imdb.com/name/nm0640284/) and [Brian Lohmann](http://www.brianlohmann.com) directed the first Micetro show in Austin for [[Austin Theatresports]] at the [Public Domain Theatre](http://www.austinchronicle.com/arts/2001-11-02/83474/) at 807 Congress Avenue. [Edi Patterson](http://www.imdb.com/name/nm0666198/) was the first winner. Later, Micetro was one of two shows ([[Shows/Gorilla Theater]] was the other) performed by Theatresports at the Hyde Park Theater, and part of the original programming when the Hideout opened in 2000.
+In February 1999, [Dan O’Connor](http://www.imdb.com/name/nm0640284/) and [Brian Lohmann](http://www.brianlohmann.com) directed the first Micetro show in Austin for [[Troupes/Austin Theatresports]] at the [Public Domain Theatre](http://www.austinchronicle.com/arts/2001-11-02/83474/) at 807 Congress Avenue. [Edi Patterson](http://www.imdb.com/name/nm0666198/) was the first winner. Later, Micetro was one of two shows ([[Shows/Gorilla Theater]] was the other) performed by Theatresports at the Hyde Park Theater, and part of the original programming when the Hideout opened in 2000.
 
 ## Description
 ### Show Structure
@@ -107,7 +107,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [1/26/13 Maestro.](http://vimeo.com/61489753)
 * [2/9/13 Maestro.](http://vimeo.com/65951692)
 * [Video](http://vimeo.com/73717598) by [[Performers/Brad Hawkins]] of the "All-Star Maestro" at [[The 2013 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/92380406) by [[Performers/Peter Rogers]] of the 4/17/14 "[[Franz and Dave]] *Maestro*".
+* [Video](http://vimeo.com/92380406) by [[Performers/Peter Rogers]] of the 4/17/14 "[[Troupes/Franz and Dave]] *Maestro*".
 * [Video](http://vimeo.com/130693553) of the 6/13/15 show.
 * [Video](http://vimeo.com/132017797) of the 6/27/15 show.
 * [Video](http://vimeo.com/134695308) of the 7/25/15 show.
@@ -160,10 +160,10 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.114527182264.110958.588952264&type=3) by [[Performers/Peter Rogers]] of the 5/16/09 Maestro.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.116189772264.111951.588952264&type=3) by [[Performers/Peter Rogers]] of the 5/23/09 Maestro.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.121688197264.115592.588952264&type=3) by [[Performers/Peter Rogers]] of the 6/6/09 Maestro.
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Jo Chauvin]] of the 9/12/09 show.
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100134803793990.2808265.7944448&type=3) by [[Jo Chauvin]] of the 10/19/09 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Performers/Jo Chauvin]] of the 9/12/09 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100134803793990.2808265.7944448&type=3) by [[Performers/Jo Chauvin]] of the 10/19/09 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3) by [[Roy Moore]] of the 10/31/09 "Celebrity Maestro".
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Jo Chauvin]] of the same show.
+	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Performers/Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242762607264.168277.588952264&type=3) by [[Performers/Peter Rogers]] of the 12/12/09 Maestro.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1145900099574.2020007.1589679282&type=3) by [[Roy Moore]] of the 12/19/09 Maestro.
 
@@ -172,18 +172,18 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3) by [[Roy Moore]] of the 1/9/10 Maestro.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.300456707264.179794.588952264&type=3) by [[Performers/Peter Rogers]] of the 1/16/10 Maestro (which included special guest Keith Johnstone).
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1199698684505.2025888.1589679282&type=3) by [[Roy Moore]] of the 3/6/10 Maestro.
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183544532160.2849456.7944448&type=3) by [[Jo Chauvin]] of the same show.
+	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183544532160.2849456.7944448&type=3) by [[Performers/Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1216743030603.2027415.1589679282&type=3) by [[Roy Moore]] of the 3/27/10 Maestro.
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100205308766460.2867895.7944448&type=3) by [[Jo Chauvin]] of the 4/17/10 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100205308766460.2867895.7944448&type=3) by [[Performers/Jo Chauvin]] of the 4/17/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] which includes the 5/29/10 Maestro.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes the 6/5/10 Maestro from [[The 41-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100427938659370.3109252.7944448&type=3) by [[Jo Chauvin]] of the 8/28/10 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100427938659370.3109252.7944448&type=3) by [[Performers/Jo Chauvin]] of the 8/28/10 show.
 * [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157624879000746/) by [[Nadine Latief]] of the 9/3/10 All-Star Maestro at [[The 2010 Out of Bounds Comedy Festival]].
 	* [Another photoset](http://www.facebook.com/roy.moore/media_set?set=a.1349973521282.2049911.1589679282&type=3) by [[Roy Moore]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1365397666876.2051363.1589679282&type=3) by [[Roy Moore]] of the 9/18/10 Maestro.
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100397893450210.3089568.7944448&type=3) by [[Jo Chauvin]] of the 11/13/10 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100397893450210.3089568.7944448&type=3) by [[Performers/Jo Chauvin]] of the 11/13/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] which includes the 11/27/10 Maestro.
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100417660501880.3101372.7944448&type=3) by [[Jo Chauvin]] of the same show.
+	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100417660501880.3101372.7944448&type=3) by [[Performers/Jo Chauvin]] of the same show.
 
 #### 2011
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198563102265.346711.588952264&type=3) by [[Performers/Peter Rogers]] of the 4/1/11 Maestro.

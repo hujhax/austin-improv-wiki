@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Dudeprov** was a one-off *[[Cagematch]]* team.
+**Dudeprov** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one exhibition Cagematch on 7/3/10.

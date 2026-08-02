@@ -21,7 +21,7 @@
 * Friday 5pm (hour 1): A "Kid mixer", where the core cast play with kids from the Hideout's Summer Camp.
 * Friday 6pm (hour 2): "And They're Off" -- free-form improv with the core cast.
 * Friday 7pm (hour 3): *[[Shows/Start Trekkin']]*
-* Friday 8pm (hours 4 & 5): *[[The Fancy-Pants Mash-Up]]*
+* Friday 8pm (hours 4 & 5): *[[Shows/The Fancy-Pants Mash-Up]]*
 * Friday 10pm (hour 6): [[Troupes/Parallelogramophonograph]]
 * Friday 11pm (hour 7): [[Troupes/The Knuckleball Now]]
 * Saturday 12am (hour 8): [[Troupes/Confidence Men]]
@@ -35,7 +35,7 @@
 * Saturday 8am (hour 16): [[Troupes/RUSH]]
 * Saturday 9am (hour 17): *[[Shows/Dubbed Indemnity]]*
 * Saturday 10am (hour 18): [[Troupes/The Escorts]], presenting "The E-Files"
-* Saturday 11am (hour 19): *[[Pick Your Own Path]]*
+* Saturday 11am (hour 19): *[[Shows/Pick Your Own Path]]*
 * Saturday 12pm (hour 20): [[Troupes/In Our Prime]]
 * Saturday 1pm (hour 21): [[Troupes/What's the Story, Steve]]
 * Saturday 2pm (hour 22): *[[Shows/History Under the Influence]]*
@@ -54,7 +54,7 @@
 * Sunday 4am (hour 36): [[Troupes/Big Beautiful Warlock]]
 * Sunday 5am (hour 37): Student show
 * Sunday 6am (hour 38): [[Troupes/Field Day]]
-* Sunday 7am (hour 39): *[[Care Bear Stare]]*: The Care Bears are here to bring badly animated joy to your lives.
+* Sunday 7am (hour 39): *[[Shows/Care Bear Stare]]*: The Care Bears are here to bring badly animated joy to your lives.
 * Sunday 8am (hour 40): *[[Shows/Kaleidoscope]]*
 * Sunday 9am (hour 41): [[The Institution Theater]] presents their "movie format".
 * Sunday 10am (hour 42): Secret Show
@@ -86,12 +86,12 @@
 * [Photoset](http://www.facebook.com/media/set/?set=a.10152099340360793.1073741871.666390792&type=3) of hour 45 by [[Performers/Dave alley]].
 
 ### Publicity
-* [A short pre-festival documentary](http://youtu.be/SrwOOvwxSNE) by [[Ceej Allen]].
+* [A short pre-festival documentary](http://youtu.be/SrwOOvwxSNE) by [[Performers/Ceej Allen]].
 
 ## More Information
 * [The suggestion form for troupes or formats for the marathon.](http://docs.google.com/forms/d/1l0bLg0JDek9x8sEsCrTuKoim2xf8rFuF2gF5ToNHsDw/viewform)
 * [The show's web page.](http://www.hideouttheatre.com/shows/improvmarathon)
 * [The volunteer schedule.](https://docs.google.com/spreadsheets/d/19EG2enFOwNcKzBMtd1ifAw2SXBx_-jqZucu9Poa_OLQ/edit#gid=1098163139)
-* [A Hideout blogpost](http://www.hideouttheatre.com/here-comes-the-sun-ceej-allen-on-the-improv-marathon) by [[Ceej Allen]] offering the core cast advice on the marathon.
+* [A Hideout blogpost](http://www.hideouttheatre.com/here-comes-the-sun-ceej-allen-on-the-improv-marathon) by [[Performers/Ceej Allen]] offering the core cast advice on the marathon.
 * [A Hideout blogpost](http://www.hideouttheatre.com/marathon-blog-post-by-bridge-o) by [[Performers/Bridget Brewer]] detailing why she chose to do the marathon.
 * [A podcast interview](http://www.hideouttheatre.com/improv-marathon-couples-podcast) with the two couples in the cast, from the Hideout's blog.

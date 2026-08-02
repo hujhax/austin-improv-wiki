@@ -96,7 +96,7 @@ A post from him about the first improv show he ever saw:<blockquote>The first sh
 ## Shows
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Shows/Thinning The Herd]]* (director)
-* *[[Fuck, It's Hot]]*
+* *[[Shows/Fuck, It's Hot]]*
 
 [[Category/Performers|Bryce]]
 [[Category/Directors|Bryce]]

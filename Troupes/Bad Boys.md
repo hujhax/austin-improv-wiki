@@ -74,7 +74,7 @@
 **Bad Boys** is an improv troupe.
 
 ## Summary
-Bad Boys have been performing since July of 2010. Bad Boys was originally formed by [[Danny Catlow]], [[Adam Trabka]], [[Byron Brown]] and [[Performers/Brett Tribe]] to compete in [[Cagematch]] while they were students at the [[ColdTowne Conservatory]]. They decided to continue performing together after winning that tournament.
+Bad Boys have been performing since July of 2010. Bad Boys was originally formed by [[Danny Catlow]], [[Adam Trabka]], [[Byron Brown]] and [[Performers/Brett Tribe]] to compete in [[Shows/Cagematch]] while they were students at the [[ColdTowne Conservatory]]. They decided to continue performing together after winning that tournament.
 
 [[Danny Catlow]] and [[Adam Trabka]] have since moved to other cities in the U.S. but are still considered full members of the ensemble.
 
@@ -85,7 +85,7 @@ Their initial format involved interviewing an audience member as inspiration for
 Bad Boys currently has an open-ended run on Friday nights at [[Coldtowne Theater]].
 
 ## History
-Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[[Cagematch]]* submission was due and we were spitballing names in RLM when Byron made this big dramatic proclamation that he knew exactly the name that would exemplify us and walked up to the chalkboard and wrote "BAD BOYS" in big letters. No one could come up with an argument against it so we went with it since at that time we were only committed to doing a Cagematch.</p>
+Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[[Shows/Cagematch]]* submission was due and we were spitballing names in RLM when Byron made this big dramatic proclamation that he knew exactly the name that would exemplify us and walked up to the chalkboard and wrote "BAD BOYS" in big letters. No one could come up with an argument against it so we went with it since at that time we were only committed to doing a Cagematch.</p>
 
 <p>In hindsight, he was probably doing a bit.</p></blockquote>
 ## Awards

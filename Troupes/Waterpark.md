@@ -80,7 +80,7 @@
 
 ### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 10/25/13 performance with [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.708255982584249.1073741847.473177099425473&type=3) by [[Performers/Chad Wellington]] of their 10/17/14 show with [[Mister Morbid]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.708255982584249.1073741847.473177099425473&type=3) by [[Performers/Chad Wellington]] of their 10/17/14 show with [[Shows/Mister Morbid]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Water-Park/350085621711326)

@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Performers/Kevin Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Performers/Ted Rutherford</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Jillian Summar">Performers/Jillian Summar</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Performers/Chuy Zarate</a></li><!--
   --><!--

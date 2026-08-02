@@ -25,7 +25,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Albano">Performers/Chris Albano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
@@ -193,7 +193,7 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 * [Post about the show](http://yesandrew.com/wanderlust-and-the-audacity-of-vision/) by [[Performers/Andrew Buck]].
 * [Radio interview](http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3) with [[Performers/Aaron Saenz]], [[Performers/Jordan T. Maxwell]], [[Performers/Cat Drago]], and [[Performers/Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
 * [blogpost](http://www.hideouttheatre.com/the-journey-to-wanderlustHideout) by [[Performers/Ruby Willmann]] about the production.
-* [Hideout blogpost](http://www.hideouttheatre.com/reflectionsonwanderlust) by [[Ceej Allen]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/reflectionsonwanderlust) by [[Performers/Ceej Allen]] about the production.
 * [Hideout blogpost](http://www.hideouttheatre.com/ryan_austin_onwanderlust) by [[Performers/Ryan Austin]] about the production.
 * [Hideout blogpost](http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback) by [[Performers/Nicole Oliver]] about the production.
 * [Hideout blogpost](http://www.hideouttheatre.com/cat-drago-bedtime-storytelling) by [[Performers/Cat Drago]] about the production.

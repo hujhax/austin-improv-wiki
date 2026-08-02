@@ -84,7 +84,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 The troupe played in *[[Shows/The Cagematch]]* in 2009.
 
 ## More Information
-* [Thread](http://forum.austinimprov.com/viewtopic.php?f=2&t=9931) on [[The Austin Improv Forums]] listing the *[[Cagematch]]* schedule that includes the troupe.
+* [Thread](http://forum.austinimprov.com/viewtopic.php?f=2&t=9931) on [[The Austin Improv Forums]] listing the *[[Shows/Cagematch]]* schedule that includes the troupe.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

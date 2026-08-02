@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Level Five** was a one-off *[[Cagematch]]* team.
+**The Level Five** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 12/5/12

@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Fat. Gay. Jewish.** was a one-off *[[Cagematch]]* team.
+**Fat. Gay. Jewish.** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 Three good friends and 1990s-era-[[Troupes/ComedySportz]] almuni got together 15 years later and played one Cagematch on 5/18/12.

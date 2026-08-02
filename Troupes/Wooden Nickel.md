@@ -72,7 +72,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Alex Nixon">Alex Nixon</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Cynthia Oelkers">Cynthia Oelkers</a></li><!--
   --><li style=""><a class="internal-link" href="Erin Plischke">Erin Plischke</a></li><!--
   --><li style=""><a class="internal-link" href="Kelly Hudson">Kelly Hudson</a></li><!--

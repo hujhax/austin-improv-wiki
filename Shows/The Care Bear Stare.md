@@ -72,7 +72,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
@@ -136,7 +136,7 @@
 ***The Care Bear Stare*** was an improv format inspired by the Care Bears cartoons and the planning for the [[44 Hour Improv Marathon]].
 
 ## History
-In a fit of zeal, first time producer [[Performers/Ryan Hill]] posted on his Facebook wall that he would do anything the Marathon players asked. [[Performers/Lisa Jackson]] seized the opportunity and said that she wanted to see her friends, [[Performers/Roy Janik]] and [[Performers/John Ratliff]], and her husband, [[Josh Gill]], in Care Bear costumes. In the spirit of improv, Ryan and Roy (the Artistic Director of the Marathon) decided to make it happen.
+In a fit of zeal, first time producer [[Performers/Ryan Hill]] posted on his Facebook wall that he would do anything the Marathon players asked. [[Performers/Lisa Jackson]] seized the opportunity and said that she wanted to see her friends, [[Performers/Roy Janik]] and [[Performers/John Ratliff]], and her husband, [[Performers/Josh Gill]], in Care Bear costumes. In the spirit of improv, Ryan and Roy (the Artistic Director of the Marathon) decided to make it happen.
 
 John and Josh were quickly on-board and [[Performers/Cat Drago]], who regularly watched the entire Marathon, was also recruited to play a Care Bear. Ryan did some research and concocted a skeleton of a format with Roy, where the Care Bears assisted the Marathon players (playing heightened versions of themselves) with their problems. The Care Bear characters chosen by the players were more grown up and comical, playing off of the extreme schmaltz of the actual Care Bear cartoons. Ryan designed and purchased custom t-shirts with some of the Care Bears belly symbols on them. He also procured fake bear ears to round out the minimalist costumes.
 

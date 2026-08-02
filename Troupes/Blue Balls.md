@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Blue Balls** was a one-off *[[Cagematch]]* team.
+**Blue Balls** was a one-off *[[Shows/Cagematch]]* team.
 
 ## Summary
 The show started with a set of six "hindrances" in a hat: donuts, alcohol, running shoes, cough syrup, an Ambien, and one other option.  Each performer then picked out two of the hindrances, ingested them (or smoked them, or, in the case of the running shoes, ran in them), and, thus hindered, started the show.

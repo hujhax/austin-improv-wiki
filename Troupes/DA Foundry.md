@@ -1,4 +1,4 @@
 ---
-redirect: "DA Foundry"
+redirect: "Troupes/DA Foundry"
 ---
-#REDIRECT [[DA Foundry]]
+#REDIRECT [[Troupes/DA Foundry]]

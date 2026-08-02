@@ -34,7 +34,7 @@ It is posited (but as of yet, scientifically unproven) that Heath is cool as hel
 * *[[Live TV Tuesdays -  Firefly]]*
 * *[[Love Fest]]*
 * *[[Shows/Manson -  The Musical]]*
-* *[[This American Live]]*
+* *[[Shows/This American Live]]*
 
 ## External Links
 * [Heath's website](http://www.heathallyn.com)

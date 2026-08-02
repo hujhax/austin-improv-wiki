@@ -33,7 +33,7 @@ Two attendees at the event, [[Performers/Ryan Hill]] and [[Performers/Cat Drago]
 * Saturday 12pm: Student Show
 * Saturday 1pm: 8-way Hell Dub narrative
 * Saturday 2pm: [[Troupes/Confidence Men]] presents "The Blank Variations"
-* Saturday 3pm: *[[Pick Your Own Path]]*
+* Saturday 3pm: *[[Shows/Pick Your Own Path]]*
 * Saturday 4pm: [[Troupes/Happy Butter]]
 * Saturday 5pm: [[Troupes/The Knuckleball Now]]
 * Saturday 6pm: *[[Shows/Start Trekkin']]*
@@ -41,7 +41,7 @@ Two attendees at the event, [[Performers/Ryan Hill]] and [[Performers/Cat Drago]
 * Saturday 8pm: *[[Shows/Holy 1960s Batman, Batman!]]*
 * Saturday 9pm: [[Troupes/Improv For Evil]]
 * Saturday 10pm: *[[Shows/Maestro]]*
-* Sunday 12am: [[McNichol and May]]
+* Sunday 12am: [[Troupes/McNichol and May]]
 * Sunday 1am: "[The Bat](http://improvencyclopedia.org/games/The_Bat.html)" with [[Troupes/ColdTowne (Troupe)|ColdTowne]]
 * Sunday 2am: [[The Puppet Improv Project]]
 * Sunday 3am: *[[Shows/Live Nude Improv]]* preview
@@ -49,7 +49,7 @@ Two attendees at the event, [[Performers/Ryan Hill]] and [[Performers/Cat Drago]
 * Sunday 5am: [[Troupes/The Dancy Street D'Orchestra]]
 * Sunday 6am: [[Shows/Doctors Without Boundaries]]
 * Sunday 7am: [[Your Dad’s Friends]] present "Improvention"
-* Sunday 8am: [[The Amazon & The Milksop]]
+* Sunday 8am: [[Troupes/The Amazon & The Milksop]]
 * Sunday 9am: *[[Shows/False Matters]]*
 * Sunday 10am: *[[Shows/Improvised Shakespeare]]*
 * Sunday 11am: "The Final Countdown", free-form improv with the core improvisors
@@ -62,19 +62,19 @@ Two attendees at the event, [[Performers/Ryan Hill]] and [[Performers/Cat Drago]
 * [Video of hour 10](http://vimeo.com/24973753) with [[Troupes/The Intentions]]
 * Videos of hour 21 with [[Troupes/Confidence Men]]:
 	* Scene #1, [[Performers/Jason Vines]] and [[Performers/Troy Miller]], ["Women at the Bar"](http://vimeo.com/24965887) 
-	* Scene #2, [[Performers/Asaf Ronen]] and [[Mike Ferstenfeld]], ["Tchaikovsky"](http://vimeo.com/24967781) 
+	* Scene #2, [[Performers/Asaf Ronen]] and [[Performers/Mike Ferstenfeld]], ["Tchaikovsky"](http://vimeo.com/24967781) 
 	* Scene #3,  [[Performers/Jordan T. Maxwell]] and [[Performers/Peter Rogers]], ["Turtles"](http://vimeo.com/24967846) 
 	* Scene #4, [[Performers/Karen Jane Dewitt]] and [[Performers/Lisa Jackson]], ["God"](http://vimeo.com/24967941) 
-	* Scene #5, [[Performers/Andy Crouch]] and [[Christopher Allen]], ["Wigs"](http://vimeo.com/24968081) 
+	* Scene #5, [[Performers/Andy Crouch]] and [[Performers/Christopher Allen]], ["Wigs"](http://vimeo.com/24968081) 
 	* Scene #6, [Tim Redmond](http://theimprobox.com/tim-redmond/) and [[Performers/Troy Miller]], ["Waiting"](http://vimeo.com/24968289) 
 	* Scene #7, [[Performers/Jeff Britt]] and [[Performers/Lisa Jackson]], ["Intermission"](http://vimeo.com/24968387) 
-	* Scene #8, [[Performers/Jason Vines]] and [[Mike Ferstenfeld]], ["Dreams"](http://vimeo.com/24969210) 
+	* Scene #8, [[Performers/Jason Vines]] and [[Performers/Mike Ferstenfeld]], ["Dreams"](http://vimeo.com/24969210) 
 	* Scene #9, [[Performers/Andy Crouch]] and [[Performers/Asaf Ronen]], ["Seventh Billing"](http://vimeo.com/24968732) 
 	* Scene #10, [[Performers/Jordan T. Maxwell]] and [[Performers/Karen Jane Dewitt]], ["Double Trouble"](http://vimeo.com/24968810) 
-	* Scene #11, [[Christopher Allen]] and [[Performers/Peter Rogers]], ["High-Wire Act"](http://vimeo.com/24968915) 
+	* Scene #11, [[Performers/Christopher Allen]] and [[Performers/Peter Rogers]], ["High-Wire Act"](http://vimeo.com/24968915) 
 	* Scene #12, [[Performers/Jeff Britt]] and [[Performers/Jason Vines]], ["Integrity"](http://vimeo.com/24968983) 
 	* Scene #13, [[Performers/Asaf Ronen]] and [[Performers/Lisa Jackson]], ["Hank Charlie"](http://vimeo.com/24969077) 
-	* Scene #14, [[Mike Ferstenfeld]], [[Performers/Troy Miller]], & [Tim Redmond](http://theimprobox.com/tim-redmond/), ["Tourists"](http://vimeo.com/24969097) 
+	* Scene #14, [[Performers/Mike Ferstenfeld]], [[Performers/Troy Miller]], & [Tim Redmond](http://theimprobox.com/tim-redmond/), ["Tourists"](http://vimeo.com/24969097) 
 * [Video of hour 41](http://vimeo.com/25373290) with [[Shows/Improvised Shakespeare]]
 * [Video of hour 42](http://vimeo.com/24979661)
 

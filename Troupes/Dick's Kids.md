@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Dick's Kids** was a one-off *[[Cagematch]]* team.
+**Dick's Kids** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 6/1/12.

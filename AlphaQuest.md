@@ -73,7 +73,7 @@
 **AlphaQuest** is a troupe that performs narratives while playing the Alphabet Game.
 
 ## History
-Laura invited everyone to do a [[Free Fringe]] with the crazy idea of doing the Alphabet Game on top of a narrative. Everyone had so much fun that we just kept doing shows. 
+Laura invited everyone to do a [[Shows/Free Fringe]] with the crazy idea of doing the Alphabet Game on top of a narrative. Everyone had so much fun that we just kept doing shows. 
 
 ## More Information
 * The troupe's [Facebook page.](https://www.facebook.com/alphaquestimprov/)

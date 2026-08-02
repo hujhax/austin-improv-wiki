@@ -101,7 +101,7 @@ Junk performed its 100th show on 12/22/12.
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129983882264.120571.588952264&type=3) by [[Performers/Peter Rogers]] of their 6/28/09 performance in [[The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1137160881099.2019048.1589679282&type=3) by [[Roy Moore]] of their 12/4/09 show.
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100190598071810.2855599.7944448&type=3) by [[Jo Chauvin]] of their 3/26/10 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100190598071810.2855599.7944448&type=3) by [[Performers/Jo Chauvin]] of their 3/26/10 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1280492264294.2033519.1589679282&type=1) by [[Roy Moore]] that includes their 6/12/10 performance in *[[Shows/The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1313301724510.2038344.1589679282&type=3) by [[Roy Moore]] that includes their 7/24/10 performance in *[[Shows/The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.482836252264.261191.588952264&type=3) by [[Performers/Peter Rogers]] of the 9/2/10 show from [[The 2010 Out of Bounds Comedy Festival]].

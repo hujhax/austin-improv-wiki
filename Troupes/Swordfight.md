@@ -90,7 +90,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.360450719602.192831.360441029602&type=1) of their performance in "4x4" (uploaded 3/3/10).
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183505325730.2849425.7944448&type=3) by [[Jo Chauvin]] of their 3/15/10 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183505325730.2849425.7944448&type=3) by [[Performers/Jo Chauvin]] of their 3/15/10 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3) by [[Roy Moore]] that includes their 5/31/10 performance in *[[Shows/The Monday Night Mash]]*.
 
 ### Publicity

@@ -77,9 +77,9 @@
 **Taxi Cab Impressions** is a predominantly short-form Armando-style troupe with a rotating cast pool.
 
 ## Summary
-The director and resident cab driver, [[Performers/Brent Unger]], shares his experiences as a taxi driver and audience members share their own experiences in taxis and those stories are used as inspiration for improvised scenes.  The troupe was formed in February 2013 after a very successful first show at [[The Hideout Theatre]]'s *[[Free Fringe]]*.
+The director and resident cab driver, [[Performers/Brent Unger]], shares his experiences as a taxi driver and audience members share their own experiences in taxis and those stories are used as inspiration for improvised scenes.  The troupe was formed in February 2013 after a very successful first show at [[The Hideout Theatre]]'s *[[Shows/Free Fringe]]*.
 
-Current cast members are [[Performers/Ryan Hill]], [[Performers/Heidi Rogers]], [[Performers/Paul Normandin]], [[Performers/Andreas Fabis]], [[Performers/Luke Wallens]], [[Performers/Dana Yanoshak]], [[Performers/Kathy Rose Center]], [[Performers/Chuy Zarate]], [[Performers/Jessica Arjet]], [[Performers/Brad Hawkins]], [[Chris Allen]] and [[Performers/Mike Nystul]].
+Current cast members are [[Performers/Ryan Hill]], [[Performers/Heidi Rogers]], [[Performers/Paul Normandin]], [[Performers/Andreas Fabis]], [[Performers/Luke Wallens]], [[Performers/Dana Yanoshak]], [[Performers/Kathy Rose Center]], [[Performers/Chuy Zarate]], [[Performers/Jessica Arjet]], [[Performers/Brad Hawkins]], [[Performers/Chris Allen]] and [[Performers/Mike Nystul]].
 
 ## Media
 ### Videos

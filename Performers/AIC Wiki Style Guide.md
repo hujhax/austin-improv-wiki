@@ -38,5 +38,5 @@ This would put the page (presumably for someone named Smith) into the Performers
 	* The 787's
 	* The 7-8-7s
 	* etc.
-When creating your page, please create Redirect pages for each variant you can think of. In the abovementioned example, you could create a page called [[The 787s]] and its content would simply be:
+When creating your page, please create Redirect pages for each variant you can think of. In the abovementioned example, you could create a page called [[Troupes/The 787s]] and its content would simply be:
  <nowiki>#redirect [[Troupes/The Seven Eight Sevens]]</nowiki>

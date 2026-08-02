@@ -7,7 +7,7 @@ The festival ran from 12/12/03 to 12/13/03.
 
 ## Acts
 * [[Troupes/ComedySportz]]
-* [[Ed32]]
+* [[Troupes/Ed32]]
 * [[Gag Reflex]]
 * [[Troupes/Girls Girls Girls]]
 * [[Troupes/Gravy]]

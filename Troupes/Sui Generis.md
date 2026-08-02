@@ -73,7 +73,7 @@
 **Sui Generis** was an improv troupe that specialized in short-form games.
 
 ## History
-They played one [[Cagematch]] against [[Troupes/You, Me, and Greg]] on 2/17/06, which they lost.
+They played one [[Shows/Cagematch]] against [[Troupes/You, Me, and Greg]] on 2/17/06, which they lost.
 
 ## More Information
 * [Cast list](http://forum.austinimprov.com/viewtopic.php?t=2649&start=0#p20442) on [[The Austin Improv Forums]].

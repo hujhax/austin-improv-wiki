@@ -6,7 +6,7 @@ The ran from 11/18/10 to 11/20/10.
 It included an all-star *[[Shows/Maestro]]*.
 
 ## Acts
-* [[Achatina Achatina!]]
+* [[Troupes/Achatina Achatina!]]
 * [[ColdTowne]]
 * [[Troupes/Confidence Men]]
 * [[Ctrl Alt Delight]]

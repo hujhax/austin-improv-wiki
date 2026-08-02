@@ -148,8 +148,8 @@ The Cagematch used to run at 11pm on Fridays; before that, it ran at 8pm (and br
 This is a list of winners of the Cagematch.
 
 #### The "King of the Hill" Years
-* [[Frogtown Hollow Jubilee Jug Band]] (5 weeks)
-* [[You, Me & Greg]] (4 weeks)
+* [[Troupes/Frogtown Hollow Jubilee Jug Band]] (5 weeks)
+* [[Troupes/You, Me & Greg]] (4 weeks)
 * [[Arthur Simone & Chris Trew Sing the Songs of]] (3 weeks)
 * [[Troupes/Awww, Shit!]]
 
@@ -160,7 +160,7 @@ This is a list of winners of the Cagematch.
 * [[Troupes/Antique Limax]] (9/27/08)
 * [[Troupes/Nice Astronaut]] (at the time called "HJ Compromise") (12/6/08)
 * [[Troupes/Golden Eagle]] (2/28/09)
-* [[Twelve Inch Integrity]] (4/25?/09)
+* [[Troupes/Twelve Inch Integrity]] (4/25?/09)
 * [[Lady Forms]] (6/20/09)
 * [[I Don't Appreciate It When You Talk to Me That Way]] (10/24/09)
 * [[Troupes/Achatina Achatina]] (12/19/09)
@@ -179,7 +179,7 @@ At this point in 2010, the Cagematch reverted to a "King of the Hill" format wit
 * [[Troupes/Tears But Joy]] (2/24/12)
 * [[Martians]] (4/20/12)
 * [[Troupes/Dry Weave]] (6/29/12)
-* [[The Golden Age]] (10/24/2012)
+* [[Troupes/The Golden Age]] (10/24/2012)
 * [[Troupes/Concrete]] 1/16/13
 * [[Troupes/Silent Letters]] (at the time, called "The Men in Chrissy's Life") (3/13/13)
 * [[Troupes/Gioboozeman Party]] (featuring special guests Rob Gagnon and Nicole McCracken's Brother 5/1/13)

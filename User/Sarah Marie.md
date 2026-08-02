@@ -1,4 +1,4 @@
 ---
-redirect: "Sarah Marie Curry"
+redirect: "Performers/Sarah Marie Curry"
 ---
-#REDIRECT [[Sarah Marie Curry]]
+#REDIRECT [[Performers/Sarah Marie Curry]]

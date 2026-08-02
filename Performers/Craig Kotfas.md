@@ -32,7 +32,7 @@ He has been a guest musician for [[Troupes/Indigo Shift]] and a guest boy for *[
 * [[Catch 24]]
 * [[Shows/False Matters]]
 * [[Troupes/Gravy]]
-* [[We Could Be Heroes]]
+* [[Troupes/We Could Be Heroes]]
 
 ## Shows
 * *[[Shows/The Great Mundane]]*

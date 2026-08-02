@@ -128,7 +128,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Jessica T. Von Schramm]] (stage manager)</td>
+			<td class="category">[[Performers/Jessica T. Von Schramm]] (stage manager)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

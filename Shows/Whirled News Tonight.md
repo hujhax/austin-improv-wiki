@@ -27,7 +27,7 @@
   --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Performers/Rachel Madorsky</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Chester">Scott Chester</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Cargill">Jennifer Cargill</a></li><!--
-  --><li style="" ><a class="internal-link" href="Erika McNichol">Erika McNichol</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Erika McNichol">Performers/Erika McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Performers/Bob McNichol</a></li><!--
   --><!--
   --><!--

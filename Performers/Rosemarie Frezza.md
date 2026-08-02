@@ -28,7 +28,7 @@
 ## Shows
 * *[[Shows/A Penny Dreadful]]*
 * *[[Shows/The Dahl House]]*
-* *[[The Fancy-Pants Mash-Up]]*
+* *[[Shows/The Fancy-Pants Mash-Up]]*
 * *[[Shows/Maestro]]*
 * *[[Shows/Maestro Raw]]*
 

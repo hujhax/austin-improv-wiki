@@ -1,6 +1,6 @@
 <noinclude>This is a list of photos of *[[Shows/Boys of Summer]]*, designed for transclusion.</noinclude>
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.449206698434164.100559.100000345135257&type=3) by [[Performers/Claudio Fox]] of the 7/21/12 performance with [[Performers/Clay Towery]].
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers]].
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Performers/Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers]].
 	* [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Performers/Peter Rogers]] with that night's cast.
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.148885235192508.40280.100002130980897&type=3) by [[Steve Rogers]] of the 7/31/11 show featuring [[Performers/Michael Thomas]]. ("Comic Book Convention")
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show featuring [[Jason Laney]]. ("Mortuary")

@@ -1,4 +1,4 @@
 ---
-redirect: "Paul Normandin"
+redirect: "Performers/Paul Normandin"
 ---
-#REDIRECT [[Paul Normandin]]
+#REDIRECT [[Performers/Paul Normandin]]

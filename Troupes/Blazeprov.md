@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Blazeprov** was a one-off *[[Cagematch]]* duo.
+**Blazeprov** was a one-off *[[Shows/Cagematch]]* duo.
 
 ## History
 They played one Cagematch on 5/18/12.

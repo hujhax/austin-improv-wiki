@@ -1,4 +1,4 @@
 ---
-redirect: "Sarah Hutchins"
+redirect: "Performers/Sarah Hutchins"
 ---
-#REDIRECT [[Sarah Hutchins]]
+#REDIRECT [[Performers/Sarah Hutchins]]

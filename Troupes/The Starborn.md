@@ -134,7 +134,7 @@
 **The Starborn** is a highly theatrical, audience-interactive improv show. Ryan and Mia play sibling aliens that "land" on the stage and mock the people of earth before the big invasion. Often times they will take humans at the end of the show as "pets", or misinterpret common customs and style to believe they are in the presence of James Bond or Batman. Audience members are frequently brought up on stage and integrated into the show.
 
 ## History
-It began as a [[Free Fringe]] show inspired by troupes like Super Mega Art Show and Butt Kapinski. The first iteration also involved theatricality, including costumes and the now signature "No Introduction" approach. The Starborn is never introduced as a troupe in a show's lineup, but is often announced as the fictional troupe "Ryan and Mia" and a power outage or landing is faked in place of "Ryan and Mia's" set.
+It began as a [[Shows/Free Fringe]] show inspired by troupes like Super Mega Art Show and Butt Kapinski. The first iteration also involved theatricality, including costumes and the now signature "No Introduction" approach. The Starborn is never introduced as a troupe in a show's lineup, but is often announced as the fictional troupe "Ryan and Mia" and a power outage or landing is faked in place of "Ryan and Mia's" set.
 
 [[Performers/Mia Iseman]] designed the costumes herself and made tweaks to the details to denote the different genders of the aliens.
 
@@ -159,7 +159,7 @@ In 2014, The Starborn was selected to perform two shows in the Out Of Bounds Com
 * [Video of their 4th performance](http://vimeo.com/86311594) from 02/06/2014.
 * [Video of their 3rd performance](http://vimeo.com/79608023) from 11/15/2013.
 * [Video of their 2nd performance](http://vimeo.com/77375209) from 10/17/2013.
-* [Video of their 1st performance](http://vimeo.com/58856305) from the 1/31/13 [[Free Fringe]].
+* [Video of their 1st performance](http://vimeo.com/58856305) from the 1/31/13 [[Shows/Free Fringe]].
 	* [Another video](http://vimeo.com/58798063) by [[Performers/Peter Rogers]] of the same show.
 
 ### Press Blurb

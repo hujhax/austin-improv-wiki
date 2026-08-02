@@ -46,7 +46,7 @@ After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[T
 * *[[Shows/The Next Chapter]]*
 * *[[Shows/Trust No One]]* (directed)
 * *[[Shows/Kenjutsu]]*
-* *[[Grimm Noir]]*
+* *[[Shows/Grimm Noir]]*
 * *[[Shows/You Can't Stay Here]]* (directed)
 * *[[Shows/Tall Tales of the High Seas]]*
 * *[[All Hell Breaks Loose]]*

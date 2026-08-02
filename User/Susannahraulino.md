@@ -1,4 +1,4 @@
 ---
-redirect: "Susannah Raulino"
+redirect: "Performers/Susannah Raulino"
 ---
-#REDIRECT [[Susannah Raulino]]
+#REDIRECT [[Performers/Susannah Raulino]]

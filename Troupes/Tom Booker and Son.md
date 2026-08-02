@@ -80,7 +80,7 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Character driven scenes. So far monoscenes, but for a next shows we are hoping to change our format a little more.</blockquote>
 
 ## History
-They played one exhibition *[[Cagematch]]* on 8/15/09.
+They played one exhibition *[[Shows/Cagematch]]* on 8/15/09.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

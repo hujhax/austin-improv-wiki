@@ -37,7 +37,7 @@ He is a regular cast member of *[[Shows/Flying Theater Machine]]*.
 * *[[Key Party]]*
 * *[[Shows/The Next Chapter]]*
 * *[[Only Three Will Survive]]*
-* *[[Taxi Cab Impressions]]*
+* *[[Troupes/Taxi Cab Impressions]]*
 * *[[Troupes/Scrabbled]]*
 
 [[Category/Performers|Wallens]]

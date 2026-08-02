@@ -83,7 +83,7 @@
   --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
-  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--

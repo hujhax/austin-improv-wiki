@@ -1,4 +1,4 @@
 ---
-redirect: "Yamina Khouane"
+redirect: "Performers/Yamina Khouane"
 ---
-#REDIRECT [[Yamina Khouane]]
+#REDIRECT [[Performers/Yamina Khouane]]

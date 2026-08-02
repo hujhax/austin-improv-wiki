@@ -1,4 +1,4 @@
 ---
-redirect: "Kevin Miller"
+redirect: "Performers/Kevin Miller"
 ---
-#REDIRECT [[Kevin Miller]]
+#REDIRECT [[Performers/Kevin Miller]]

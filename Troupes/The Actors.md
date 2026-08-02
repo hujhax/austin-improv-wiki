@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Actors** was a one-off *[[Cagematch]]* team.
+**The Actors** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 11/14/12.

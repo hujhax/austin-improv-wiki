@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andy Petruzzo">Andy Petruzzo</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Performers/Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Performers/Josh Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Five of ColdTowne Theater's best performers will try their hand at narrative improv and attempt to improvise a movie on the spot. Complete with cut-to's and closeups, zoom-ins and voiceovers, Movie: The Movie will make you feel like you're sitting at the local multiplex instead of the Hideout Theater. And after winning the AIC's *[[Cagematch]]* a record 6 times in a row, they've gotten pretty good at it.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Five of ColdTowne Theater's best performers will try their hand at narrative improv and attempt to improvise a movie on the spot. Complete with cut-to's and closeups, zoom-ins and voiceovers, Movie: The Movie will make you feel like you're sitting at the local multiplex instead of the Hideout Theater. And after winning the AIC's *[[Shows/Cagematch]]* a record 6 times in a row, they've gotten pretty good at it.</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We perform a movie.</blockquote>

@@ -1,4 +1,4 @@
 ---
-redirect: "Cereal for Adults"
+redirect: "Shows/Cereal for Adults"
 ---
-#REDIRECT [[Cereal for Adults]]
+#REDIRECT [[Shows/Cereal for Adults]]

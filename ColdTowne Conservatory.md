@@ -1,4 +1,4 @@
 ---
-redirect: "ColdTowne Theater"
+redirect: "Coldtowne Theater"
 ---
-#REDIRECT [[ColdTowne Theater]]
+#REDIRECT [[Coldtowne Theater]]

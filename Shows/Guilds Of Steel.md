@@ -15,7 +15,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
   --><!--
   --><!--
@@ -77,8 +77,8 @@
   --><li style=""><a class="internal-link" href="Performers/Ace Manning">Performers/Ace Manning</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Performers/Chelsea Gilman</a></li><!--
   --><li style=""><a class="internal-link" href="Clay Towrey">Clay Towrey</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
@@ -142,14 +142,14 @@
 ## History
 There were two runs of *Guilds of Steel*.
 
-The first was in May and June of 2009, and was directed by [[Bryan Roberts]] and [[Performers/Michael Joplin]].
+The first was in May and June of 2009, and was directed by [[Performers/Bryan Roberts]] and [[Performers/Michael Joplin]].
 
-The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010, and was directed solely by [[Bryan Roberts]].
+The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010, and was directed solely by [[Performers/Bryan Roberts]].
 
 ### 2009 Cast
 * [[Performers/Ace Manning]]
 * [[Performers/Audrey Rachel Sansom]]
-* [[Bryan Roberts]]
+* [[Performers/Bryan Roberts]]
 * [[Performers/Jason Vines]]
 * [[Performers/Jon Clinkenbeard]]
 * [[Leah Moss]]
@@ -163,8 +163,8 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 ### 2010 Cast
 * [[Performers/Audrey Rachel Sansom]]
 * [[Performers/Bryan Cruz]]
-* [[Bryan Roberts]]
-* [[Chelsea Gilman]]
+* [[Performers/Bryan Roberts]]
+* [[Performers/Chelsea Gilman]]
 * [[Performers/Clay Towery]]
 * [[Performers/Emily Breedlove]]
 * [[Performers/Kyle Traughber]]

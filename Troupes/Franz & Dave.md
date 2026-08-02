@@ -75,7 +75,7 @@
 ## History
 Franz & Dave was conceived in the [[The Hideout Theatre|Hideout's]] green room during a show sometime in early 2011. The duo debuted as part of [[Coldtowne Theater|ColdTowne]]'s [[Shakedown]] on May 11 of that year, hosted by [[Performers/Brett Tribe]]. They played to an audience of six that night.
 
-In addition to their regular two-person format, Franz & Dave have played a number of one-off shows including a [[Free Fringe]] appearance out of their usual costumes, in which the characters of Kafka and Lynch played recent [[The Hideout Theatre|Hideout]] graduates performing their first improv show. On April 17, 2014, again as part of the Free Fringe, Franz & Dave directed a [[Shows/Maestro]].
+In addition to their regular two-person format, Franz & Dave have played a number of one-off shows including a [[Shows/Free Fringe]] appearance out of their usual costumes, in which the characters of Kafka and Lynch played recent [[The Hideout Theatre|Hideout]] graduates performing their first improv show. On April 17, 2014, again as part of the Free Fringe, Franz & Dave directed a [[Shows/Maestro]].
 
 ## Format
 Franz & Dave's usual format has the characters of Kafka and Lynch collaborating on a "movie" based on the audience's suggestion (typically a dull or menial occupation, ala Kafka). The characters begin by scene painting, then break into and out of scenes from the "movie" as desired.
@@ -103,9 +103,9 @@ In [[The 44-Hour Improv Marathon]], the duo introduced "Pine Falls", an improvis
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150659165717265.450006.588952264&type=3) by [[Performers/Peter Rogers]] of their 2/1/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.756998384363680.1073742027.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers]] that includes their 12/5/13 *[[Free Fringe]]* show.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers]] that includes their 12/5/13 *[[Shows/Free Fringe]]* show.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105003365262780.1073741869.7909117&type=3) by [[Performers/Heidi Rogers]] that includes their 8/28/14 show at [[The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.954636894599827.1073742187.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/1/15 performance in *[[PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.954636894599827.1073742187.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/1/15 performance in *[[Shows/PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1031442486919267.1073742238.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information

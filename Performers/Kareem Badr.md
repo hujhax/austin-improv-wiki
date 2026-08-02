@@ -44,7 +44,7 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * *[[Shows/Ka-Baam!!]]*
 * *[[Shows/Process]]* 
 * *[[Shows/Start Trekkin']]*
-* *[[Theatresports (mainstage run)|Theatresports]]* (director, 2010)
+* *[[Shows/Theatresports (mainstage run)|Theatresports]]* (director, 2010)
 * *[[This Week Tonight]]* 
 * *[[Shows/The Violet Underbelly]]* (director)
 

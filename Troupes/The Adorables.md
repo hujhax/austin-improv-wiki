@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Adorables** was a one-off *[[Cagematch]]* team.
+**The Adorables** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 3/13/10.

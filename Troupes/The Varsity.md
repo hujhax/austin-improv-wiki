@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Brent Foshe">Brent Foshe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Drew Wesley">Drew Wesley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesley">Performers/Drew Wesley</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Performers/Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Gill">Performers/Joshua Gill</a></li><!--

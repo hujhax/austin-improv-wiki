@@ -1,4 +1,4 @@
 ---
-redirect: "Jeremy Moran"
+redirect: "Performers/Jeremy Moran"
 ---
-#REDIRECT [[Jeremy Moran]]
+#REDIRECT [[Performers/Jeremy Moran]]

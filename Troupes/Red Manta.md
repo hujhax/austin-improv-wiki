@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Performers/Carlos Larotta</a></li><!--
-  --><li style=""><a class="internal-link" href="Chrissy Shackleford">Chrissy Shackleford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackleford">Performers/Chrissy Shackleford</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Eric Rutherford">Eric Rutherford</a></li><!--
-  --><li style=""><a class="internal-link" href="Erika McNichol">Erika McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika McNichol">Performers/Erika McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Red Manta** is a *[[Cagematch]]* team.
+**Red Manta** is a *[[Shows/Cagematch]]* team.
 
 ## History
 They played in the 7/23/14 *Cagematch*.

@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Performers/Ed Melendez">Performers/Ed Melendez</a></li><!--
   --><li style=""><a class="internal-link" href="Ethan Love">Ethan Love</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Performers/Frank Netscher</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Performers/Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Kristen Henn">Kristen Henn</a></li><!--
   --><li style=""><a class="internal-link" href="Shea Scott">Shea Scott</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Fancy Saucers** was a one-off  *[[Cagematch]]* team.
+**The Fancy Saucers** was a one-off  *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 1/2/09.

@@ -1,4 +1,4 @@
 ---
-redirect: "Cops & Lawyers"
+redirect: "Shows/Cops & Lawyers"
 ---
-#REDIRECT [[Cops & Lawyers]]
+#REDIRECT [[Shows/Cops & Lawyers]]

@@ -7,10 +7,10 @@
 * [[Troupes/Ed 32]] 
 * [[Troupes/First Round Draft]] 
 * [[Troupes/Gravy]] 
-* [[Heroes of Comedy]] 
-* [[National Comedy Theatre]] 
+* [[Troupes/Heroes of Comedy]] 
+* [[Troupes/National Comedy Theatre]] 
 * [[One Night Band]] 
-* A showcase for people who had taken a solo workshop from [[Jeremy Lamb]].
+* A showcase for people who had taken a solo workshop from [[Performers/Jeremy Lamb]].
 * [[Troupes/Well Hung Jury]] 
 
 ### Out-of-Town Acts

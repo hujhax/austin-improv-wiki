@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Drinkies Galore** was a one-off *[[Cagematch]]* team.
+**Drinkies Galore** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 1/23/09.

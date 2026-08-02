@@ -25,7 +25,7 @@
   --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Performers/Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
@@ -108,7 +108,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Erik Adams]]
 * [[Performers/Jason Vines]]
 * [[Performers/Jon Clinkenbeard]]
-* [[Justin Davis]]
+* [[Performers/Justin Davis]]
 * [[Performers/Kacey Samiee]]
 * [[Performers/Kaci Beeler]]
 * [[Performers/Kareem Badr]]
@@ -122,7 +122,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Performers/Eric Heiberg]]
 * [[Erik Adams]]
 * [[Performers/Jason Vines]]
-* [[Justin Davis]]
+* [[Performers/Justin Davis]]
 * [[Performers/Kacey Samiee]]
 * [[Performers/Marc Majcher]]
 * [[Performers/Michael Thomas]]
@@ -168,7 +168,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * 9/19/09
 	* [[Performers/Audrey Rachel Sansom]] as Brick Woman
 	* [[Performers/Marc Majcher]] as Diabetes Boy
-	* [[Justin Davis]] as Spam-Man
+	* [[Performers/Justin Davis]] as Spam-Man
 	* [[Performers/Troy Miller]] as The Contortionist Alien [villain]
 * 9/25/09
 	* [[Performers/Eric Heiberg]] as Improv Dwarf
@@ -212,7 +212,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 ### Photos
 * [A photoset that includes both runs.](http://www.flickr.com/photos/austinimprov/sets/72157605333037069/)
 * [Photos of the 2009 run](http://www.flickr.com/photos/majcher/tags/kabaam/) from [[Performers/Marc Majcher]].
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969842825120.2743782.7944448&type=3) by [[Jo Chauvin]] of the 9/12/09 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969842825120.2743782.7944448&type=3) by [[Performers/Jo Chauvin]] of the 9/12/09 show.
 * [Cover-art from the 10/23/09 show, featuring "The Twitler".](http://twitpic.com/mqx6f)
 
 ### Other
@@ -220,7 +220,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 
 ## More Information
 * [Announcement of the opening of the first run](http://forum.austinimprov.com/viewtopic.php?t=6771) on [[The AIC Forums]].
-* [Press release for the 2008 run](http://keepjustinwriting.com/2009/05/11/7/) by [[Justin Davis]].
+* [Press release for the 2008 run](http://keepjustinwriting.com/2009/05/11/7/) by [[Performers/Justin Davis]].
 * [A story about the show in *The Austin Chronicle*](http://www.austinchronicle.com/arts/2008-05-02/618700/) by [[Wayne Allen Brenner]]
 * [The top ten arts events of 2008 (which included *Ka-Baam!!*)](http://www.austinchronicle.com/arts/2009-01-02/721384/), by [[Wayne Allen Brenner]] for *The Austin Chronicle*
 * [An announcement of the 5/31/08 show](http://forum.austinimprov.com/viewtopic.php?t=6953) on [[The AIC Forums]].

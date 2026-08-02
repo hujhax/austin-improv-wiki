@@ -26,9 +26,9 @@ Kris a.k.a. Kraab a.k.a. Sir Kraab is an improviser in Austin, TX, by way of D.C
 
 ## Shows
 * *[[Shows/The Weekender]]*
-* *[[Fancy Pants]]*
+* *[[Shows/Fancy Pants]]*
 * *[[Shows/The Threefer]]*
-* *[[Free Fringe]]*
+* *[[Shows/Free Fringe]]*
 * *Musical Night at Indra's*
 * *Tightrope @ [[Institution Theater]]*
 * *Alamo City Improv*

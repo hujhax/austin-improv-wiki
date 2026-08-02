@@ -103,7 +103,7 @@ A semi-narrative improv format that follows the potential dates and long term li
 
 ## Scripted Shows
 ### Back In Townsville: Townsville Community Center
-See full article: [[Back In Townsville -  Townsville Community Center]]
+See full article: [[Shows/Back In Townsville -  Townsville Community Center]]
 
 ### After Midnight
 After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The show titles and themes included:
@@ -142,7 +142,7 @@ Nice Astronaut also hosted the short lived ["Nomad Comedy Nights"](http://blog.c
 * [[Townsville]]
 * [[Troupes/Who Dack]]
 * [[Troupes/Kingston]]
-* [[First United Methodist Church of Plano's Youth Group Improv]]
+* [[Troupes/First United Methodist Church of Plano's Youth Group Improv]]
 
 ## More Information
 * [Nice Astronaut on Facebook](http://www.facebook.com/NiceAstronaut)

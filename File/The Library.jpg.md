@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Library.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Kacey Samiee]] and [[Justin Davis]] performing with [[Troupes/The Library]] on 5/16/13.
+[[Performers/Kacey Samiee]] and [[Performers/Justin Davis]] performing with [[Troupes/The Library]] on 5/16/13.
 
 Photo by [[Performers/Warren Henderson]], from [this photoset](http://www.facebook.com/photo.php?fbid=578612378835918&set=a.578612318835924.1073741830.100000614831752&type=3).
 

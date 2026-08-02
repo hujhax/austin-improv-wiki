@@ -11,11 +11,11 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[710 Split]]
+* [[Troupes/710 Split]]
 * [[Shows/After School Improv]]
-* [[The Amazon & The Milksop]]
+* [[Troupes/The Amazon & The Milksop]]
 * [[Troupes/Array]]
-* [[The Austin Comedy Hour]]
+* [[Shows/The Austin Comedy Hour]]
 * [[Troupes/Available Cupholders]]
 * [[Troupes/Backpack Picnic]]
 * [[Troupes/Bad Boys]]
@@ -41,14 +41,14 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [[Troupes/In Our Prime]]
 * [[Troupes/Indigo Shift]]
 * [[Troupes/IScream Sandwich]]
-* [[IZARZAMORA!]]
+* [[Troupes/IZARZAMORA!]]
 * [[Troupes/Jorak and Jorak Do Movie]]
 * [[Troupes/Junk]]
-* [[Known Wizards]]
+* [[Troupes/Known Wizards]]
 * [[Troupes/The Knuckleball Now]]
 * [[Troupes/The Ladies]]
 * [[Troupes/Local Genius Society]]
-* [[Magician vs Clown]]
+* [[Troupes/Magician vs Clown]]
 * [[Troupes/MANDINKA]]
 * [[Troupes/Midnight Society]]
 * [[Troupes/Mike and Irene]]
@@ -61,7 +61,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [[Shows/The Professor]]
 * [[Troupes/Precious Dads]]
 * [[Shows/Pulp Friction]]
-* [[Ratliff & Jackson]]
+* [[Troupes/Ratliff & Jackson]]
 * [[Troupes/Rhinodino]]
 * [[Troupes/Scout]]
 * [[Troupes/The Seven Eight Sevens]]
@@ -77,7 +77,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [[The Tribunal]]
 * [[Shows/Twilight Zoned]]
 * [[Troupes/Waiting for Batman]]
-* [[What's the Story Steve]]
+* [[Troupes/What's the Story Steve]]
 * [[Troupes/You're Not My Real Dad]]
 * [[Troupes/Your Dad's Friends]]
 * [[Troupes/Your Terrific Neighbors]]
@@ -183,7 +183,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 ## Media
 ### Videos
 * [Video](http://vimeo.com/82058494) of the [[Troupes/Midnight Society]] performance.
-* [Video](http://vimeo.com/80117806) of the [[Knuckleball Now]] performance.
+* [Video](http://vimeo.com/80117806) of the [[Troupes/Knuckleball Now]] performance.
 * [Video](http://vimeo.com/74079905) by [[Performers/Dave alley]] of the Shock T's first show.
 * [Video](http://vimeo.com/75142719) by [[Performers/Dave alley]] of the Shock T's second show.
 * [Video](http://vimeo.com/74561501) by [[Performers/Dave alley]] of the Doubtful Guests show.

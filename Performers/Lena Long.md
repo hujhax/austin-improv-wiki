@@ -24,7 +24,7 @@
 ## Shows
 * *[[The Gauntlet]]*
 * *[[Award Winner]]*
-* *[[Fuck, It's Hot!]]*
+* *[[Shows/Fuck, It's Hot!]]*
 * *[[A Fine Affair]]*
 * *[[Shows/Lonely Star]]*
 * *[[Shows/The Source]]*

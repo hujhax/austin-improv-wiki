@@ -1,4 +1,4 @@
 ---
-redirect: "Kathy Rose Center"
+redirect: "Performers/Kathy Rose Center"
 ---
-#REDIRECT [[Kathy Rose Center]]
+#REDIRECT [[Performers/Kathy Rose Center]]

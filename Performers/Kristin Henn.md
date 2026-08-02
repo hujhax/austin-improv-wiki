@@ -19,12 +19,12 @@
 	</table>
 </div>
 
-**Kristin Henn** is an improv performer, director, producer and teacher.  She directs Excused Absence Comedy, the youth program at [[Coldtowne Theater]] and Move your Tale, an organization that takes Improv to schools and community organizations. She performs every Sunday night at [[Coldtowne Theater]] with [[Troupes/Oh, Science!]] and Saturday mornings with [[What's the Story Steve]].
+**Kristin Henn** is an improv performer, director, producer and teacher.  She directs Excused Absence Comedy, the youth program at [[Coldtowne Theater]] and Move your Tale, an organization that takes Improv to schools and community organizations. She performs every Sunday night at [[Coldtowne Theater]] with [[Troupes/Oh, Science!]] and Saturday mornings with [[Troupes/What's the Story Steve]].
 
 ## Summary
 Kristin is an improv performer, teacher and director who oversees and facilitates the youth program at [[Coldtowne Theater]] via her performing arts organization, [[Excused Absence Comedy]], formerly Move Your Tale. 
 
-Her standing gigs include Excused Absence Nights formerly known as *[[Teen Improv Night]]* at [[Coldtowne Theater]], directing and producing [[Coldtowne Theater]]'s weekly kids improv show, *[[What's the Story Steve]]* and performing with the ColdTowne Tourco.
+Her standing gigs include Excused Absence Nights formerly known as *[[Shows/Teen Improv Night]]* at [[Coldtowne Theater]], directing and producing [[Coldtowne Theater]]'s weekly kids improv show, *[[Troupes/What's the Story Steve]]* and performing with the ColdTowne Tourco.
 
 Kristin is a senior faculty member of the ColdTowne Conservatory.
 
@@ -42,7 +42,7 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has st
 * *[[Shows/Flying Theater Machine]]*
 * *[[Big Beautiful Warlock presents Summer Jobs]]*
 * *[[Oh, Science! every Sunday at ColdTowne]]*
-* *[[What's the Story Steve]]*
+* *[[Troupes/What's the Story Steve]]*
 * *[[Shows/All Ages Improv Night]]*
 * [[Excused Absence Nights]]
 * [[Gardenalia]]

@@ -30,22 +30,22 @@ Winners are listed in **bold text**.
 ### Favorite Director
 * **[[Performers/Asaf Ronen]], for *[[Shows/The Suitcase]]***
 * [[Performers/Clifton Highfield]], for *[[Lovefest]]*
-* [[Justin Davis]], for *[[Shows/The Next Chapter]]*
+* [[Performers/Justin Davis]], for *[[Shows/The Next Chapter]]*
 * [[Performers/Tom Booker]], for *[[Shows/Fuck It's Hot]]*
 * [[Performers/Tyler Bryce]], for *[[Shows/Thinning The Herd]]*
 
 ### Favorite Tech Performer
 * [[Performers/Chelley Pyatt]], for *[[Shows/Bad Girls in Plaid Skirts]]*, *[[Shows/Fuck It's Hot]]*, *[[The Joss Whedon Pajama Party]]*, and *[[Shows/The Next Chapter]]*.
-* [[Performers/Cindy Page]], for *[[Shows/False Matters]]* and *[[Hell and Back Cabaret]]*.
+* [[Performers/Cindy Page]], for *[[Shows/False Matters]]* and *[[Shows/Hell and Back Cabaret]]*.
 * [[Performers/Cindy Page]] & [[Performers/Chad Wellington]], for *[[Shows/Thinning The Herd]]*.
-* [[Courtney DeAngelo]], for *[[Shows/The Suitcase]]* and *[[Hell and Back Cabaret]]*.
+* [[Courtney DeAngelo]], for *[[Shows/The Suitcase]]* and *[[Shows/Hell and Back Cabaret]]*.
 * **[[Performers/Mark Shoemaker]], for *[[Shows/The Triple Scoop]]*, *[[Shows/False Matters]]*, and *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.**
 
 ### Favorite Male Performer
 * **[[Andrew Robinson]]**
 * [[Performers/Bryan 'LuBu' Roberts]]
 * [[Performers/Bryan Curry]]
-* [[Ceej Allen]]
+* [[Performers/Ceej Allen]]
 * [[Performers/Clifton Highfield]]
 * [[Performers/Jason Vines]]
 * [[Marv Pratt]]
@@ -56,7 +56,7 @@ Winners are listed in **bold text**.
 * [[Performers/Carissa McAtee]]
 * **[[Performers/Erica Lies]]**
 * [[Performers/Heidi Caldwell]]
-* [[Jeanette Jones]]
+* [[Performers/Jeanette Jones]]
 * [[Regina Soto]]
 * [[Performers/Sam Schak]]
 * [[Performers/Sarah Marie Curry]]

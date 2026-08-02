@@ -39,7 +39,7 @@ Past:
 * [[Troupes/The Nesting Dolls]]
 
 ## Shows
-* *[[I'll Be Home for Christmas]]* (director)
+* *[[Shows/I'll Be Home for Christmas]]* (director)
 * *[[Shows/A Deed So Dark]]* (director)
 * *[[Shows/Nothing And Everything]]*
 * *[[Shows/Reform School For Wayward Girls]]*

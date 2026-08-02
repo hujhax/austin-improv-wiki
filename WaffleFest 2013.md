@@ -16,7 +16,7 @@ It included an all-star *[[Shows/Maestro]]* and a teen showcase.
 * [[Troupes/BeauMoMa]]
 * [[Troupes/Do You Still Want to Do This]]
 * [[Troupes/The Escorts]]
-* [[Firth&Arjet]]
+* [[Troupes/Firth&Arjet]]
 * [[Troupes/The Frank Mills]]
 * [[Troupes/Get Up]]
 * [[Troupes/GigglePants]]
@@ -31,7 +31,7 @@ It included an all-star *[[Shows/Maestro]]* and a teen showcase.
 * [[Troupes/Past Lives]]
 * [[Troupes/Simply D-VINE]]
 * [[Troupes/Squirrel Buddies]]
-* [[Water Park]]
+* [[Troupes/Water Park]]
 * [[Troupes/¡ZARZAMORA!]]
 
 ## More Information

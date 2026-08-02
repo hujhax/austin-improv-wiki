@@ -73,14 +73,14 @@
 **Jeremy Moran** is an improv performer and filmmaker.
 
 ## Summary
-Jeremy Moran started taking improv classes at The Hideout in Spring 2014. Since then, he has formed the troupes [[Andrew and Jeremy Hypnotize Each Other!]] and [[Troupes/Things We Don't Speak Of]], as well as performing in the student mainstage [[Shows/A Penny Dreadful]]
+Jeremy Moran started taking improv classes at The Hideout in Spring 2014. Since then, he has formed the troupes [[Troupes/Andrew and Jeremy Hypnotize Each Other!]] and [[Troupes/Things We Don't Speak Of]], as well as performing in the student mainstage [[Shows/A Penny Dreadful]]
 
 As a filmmaker, he has created numerous animated films. His next project is the animated dark comedy "Squiffle Will Die".
 
 He has also been active as an avant-garde musician. In October 2015, he performed sound poetry and experimental vocal music at [[The Institution Theater]].
 
 ## Troupes
-* [[Andrew and Jeremy Hypnotize Each Other!]]
+* [[Troupes/Andrew and Jeremy Hypnotize Each Other!]]
 * [[Troupes/Things We Don't Speak Of]]
 * [[Shows/A Penny Dreadful]]
 

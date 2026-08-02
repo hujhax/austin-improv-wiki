@@ -29,12 +29,12 @@
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Performers/Kaci Danger</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Megan Sherrod">Performers/Megan Sherrod</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
   --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Roy Danger">Roy Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Danger">Performers/Roy Danger</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
   --><!--
   --><!--

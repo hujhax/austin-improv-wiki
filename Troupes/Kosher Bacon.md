@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Ashley Carlisle">Ashley Carlisle</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Performers/Brandon Martin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Ellen Pittsford">Ellen Pittsford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ellen Pittsford">Performers/Ellen Pittsford</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Performers/Jessie Pascarelli</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Performers/Mitchell Deane</a></li><!--
   --><li style=""><a class="internal-link" href="Travis Devitt">Travis Devitt</a></li><!--

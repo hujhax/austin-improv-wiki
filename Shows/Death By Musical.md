@@ -72,7 +72,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
   --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
-  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Jordan T Maxwell">Jordan T Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--

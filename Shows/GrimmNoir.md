@@ -24,7 +24,7 @@
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Performers/Halyn Lee Erickson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Performers/Mike Kinald</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
@@ -197,7 +197,7 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 <p>In our play you get more of the "why" behind certain character motives and that could create a fuller plot and experience for the audience.</p></blockquote>
 
 ## History
-The show premiered as a *[[Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[The 2012 Improvised Play Festival]].
+The show premiered as a *[[Shows/Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[The 2012 Improvised Play Festival]].
 
 It is returning as a mainstage show at [[The Institution Theater]], running on Friday and Saturday nights at 8pm from 2/20/15 to 3/7/15.
 

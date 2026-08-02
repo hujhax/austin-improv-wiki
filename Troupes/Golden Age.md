@@ -73,7 +73,7 @@
 **Golden Age** is an improv troupe.
 
 ## Summary
-![[Golden Age Cagematch.jpg|Golden Age celebrates their 10/24/12 *[Cagematch](Cagematch)* championship.]]
+![[Golden Age Cagematch.jpg|Golden Age celebrates their 10/24/12 *[Cagematch](Shows/Cagematch)* championship.]]
 The troupe was formed by ColdTowne students and graduates to explore sci-fi-themed improv.
 
 At first, they performed a Bat -- that is, a Harold in the dark -- as their intro.
@@ -87,7 +87,7 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We dress science-y (most of us own Saganesque sport jackets), and do 3 short scene paintings then move into grounded mono scenes with side support in the form of sound effects, music, etc. Some popping out but we try to keep that to a minimum or until the run towards the end.</blockquote>
 
 ## History
-The troupe won one of ColdTowne's *[[Cagematch]]* tournaments in late 2012.
+The troupe won one of ColdTowne's *[[Shows/Cagematch]]* tournaments in late 2012.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/goldenageimprov)

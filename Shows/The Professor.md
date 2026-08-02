@@ -73,7 +73,7 @@
   --><li style=""><a class="internal-link" href="Performers/Andrew Pish">Performers/Andrew Pish</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Clay Towery">Performers/Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Performers/Colin Bates</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Performers/Jeff Britt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
@@ -81,7 +81,7 @@
   --><li style="" ><a class="internal-link" href="Performers/Karen Jane Dewitt">Performers/Karen Jane Dewitt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Performers/Katie Thornton</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Performers/Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Performers/Lindsey Reeves</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Performers/Michael Ferstenfeld</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Performers/Mike Nystul</a></li><!--
@@ -164,7 +164,7 @@ The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell]] 
 The first run of shows, from October to November of 2011, featured [[Performers/Michael Ferstenfeld]] and [[Performers/Andrew Pish]] as the Second and Third Professors.
 
 * [[Performers/Clay Towery]]
-* [[Colin Bates]]
+* [[Performers/Colin Bates]]
 * [[Performers/Emily Breedlove]]
 * [[Performers/Karen Jane Dewitt]]
 * [[Performers/Katie Thornton]]
@@ -178,11 +178,11 @@ The first run of shows, from October to November of 2011, featured [[Performers/
 The second run of shows, from March to April of 2012, introduced [[Performers/Peter Rogers]] and [[Performers/Karen Jane Dewitt]] as the Fourth and Fifth Professors, with [[Performers/Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Performers/Clay Towery]]
-* [[Colin Bates]]
+* [[Performers/Colin Bates]]
 * [[Performers/Emily Breedlove]]
 * [[Performers/Katie Thornton]]
 * [[Performers/Kayla Lane Freeman]]
-* [[Lacy Shawn]]
+* [[Performers/Lacy Shawn]]
 * [[Performers/Lindsey Reeves]]
 * [[Performers/Quinn Buckner]]
 * [[Performers/Ryan Austin]]
@@ -193,7 +193,7 @@ Season three ran on Saturdays at [[The Institution Theater]] in November 2013.
 * [[Performers/Bridget Brewer]]
 * [[Performers/Jeff Britt]]
 * [[Performers/Jordan T. Maxwell]]
-* [[Lacy Shawn]]
+* [[Performers/Lacy Shawn]]
 * [[Performers/Michael Ferstenfeld]]
 * [[Performers/Peter Rogers]]
 * [[Performers/Quinn Buckner]]
@@ -220,7 +220,7 @@ The run featured tech by [[Michael Yew]].
 * [Video](http://www.youtube.com/watch?v=gZuQFuFSpB8) by [[Performers/Michael Ferstenfeld]] of the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [Video](http://vimeo.com/62584250) by [[Performers/Michael Ferstenfeld]] of the 1/25/13 performance at [[The Institution Theater]].
 * Videos of the 8/28/13 show at [[The 2013 Out of Bounds Comedy Festival]]: [story #1](http://vimeo.com/73437075), [story #2](http://vimeo.com/73480143)
-* [Video](http://vimeo.com/77576162) of their 10/19/13 show with *[[Mister Morbid]]*.
+* [Video](http://vimeo.com/77576162) of their 10/19/13 show with *[[Shows/Mister Morbid]]*.
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/23/11 performance in *[[Shows/The Threefer]]*.

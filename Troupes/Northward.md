@@ -73,7 +73,7 @@
 **Northward** is an improv duo that focuses on big, distinct characters and strong relationships.
 
 ## History
-After playing together in *[[Camp Madeupponathaspotta]]*, [[Performers/Norman Tran|Norman]] and [[Performers/Thedward Blevins|Thedward]] decided to 
+After playing together in *[[Shows/Camp Madeupponathaspotta]]*, [[Performers/Norman Tran|Norman]] and [[Performers/Thedward Blevins|Thedward]] decided to 
 continue playing together as a duo. They had their debut show on Wednesday, July 2nd 2014 as part of *[[Shows/The Cagematch]]* 
 in the July Duo Exhibition round at [[Coldtowne Theater]].
 

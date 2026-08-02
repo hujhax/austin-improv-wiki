@@ -93,7 +93,7 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 
 ### Shows
 [[Hideout Theatre]]
-* [[Free Fringe]] 2014
+* [[Shows/Free Fringe]] 2014
 * [[Shows/The Threefer]] 2014 - current
 * [[Shows/The Weekender]] 2015 - current
 
@@ -111,17 +111,17 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 ### Coaches
 * [[Performers/Robert Slack]] was an original member of the troupe and coach, bringing his Improv and acting experience to the troupe.
 
-* [[Ceej Allen]] was instrumental of the concept used for the format, has been a member of the AIC since 2003 is also adding his own flavor and touch as a coach
+* [[Performers/Ceej Allen]] was instrumental of the concept used for the format, has been a member of the AIC since 2003 is also adding his own flavor and touch as a coach
 
 ### Troupe Members History
 Started as a Free Fringe :
-* *[[Ceej Character Explosion]]* ([[Ceej Allen]])
+* *[[Ceej Character Explosion]]* ([[Performers/Ceej Allen]])
 
 Debuted February 12, 2015 in the Threefer as a troupe
 
-Original Members of the troupe include [[Performers/Cagney Ortiz]], [[Performers/Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]], [[Performers/Robert Slack]], [[Tim Coyle]] and [[Sushant Sethi]].
+Original Members of the troupe include [[Performers/Cagney Ortiz]], [[Performers/Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]], [[Performers/Robert Slack]], [[Performers/Tim Coyle]] and [[Sushant Sethi]].
 
-The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Ceej Allen]].  
+The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Performers/Ceej Allen]].  
 
 ### Alumni
 Alumni
@@ -180,7 +180,7 @@ Alumni
 
 ## Media
 ### Videos
-* [Video of the troupe's "plank-a-thon"](http://www.youtube.com/watch?v=Q4giLqTx2Rw) from the 2/12/15 *[[Free Fringe]]*.
+* [Video of the troupe's "plank-a-thon"](http://www.youtube.com/watch?v=Q4giLqTx2Rw) from the 2/12/15 *[[Shows/Free Fringe]]*.
 * [Video of the troupe's "Improv Mixtape"](http://www.youtube.com/watch?v=6ltXQG2Ye-A) from the 4/13/15 *[[The Institution Theater]]*.
 * [Character Explosion's YouTube channel](https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw)
 

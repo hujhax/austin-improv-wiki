@@ -1,4 +1,4 @@
 ---
-redirect: "Jay Michael"
+redirect: "Performers/Jay Michael"
 ---
-#REDIRECT [[Jay Michael]]
+#REDIRECT [[Performers/Jay Michael]]

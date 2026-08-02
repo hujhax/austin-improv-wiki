@@ -1,4 +1,4 @@
 ---
-redirect: "Matt Needles"
+redirect: "Performers/Matt Needles"
 ---
-#REDIRECT [[Matt Needles]]
+#REDIRECT [[Performers/Matt Needles]]

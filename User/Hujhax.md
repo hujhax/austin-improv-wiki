@@ -1,4 +1,4 @@
 ---
-redirect: "Peter Rogers"
+redirect: "Performers/Peter Rogers"
 ---
-#REDIRECT [[Peter Rogers]]
+#REDIRECT [[Performers/Peter Rogers]]

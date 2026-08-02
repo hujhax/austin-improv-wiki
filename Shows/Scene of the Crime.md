@@ -39,7 +39,7 @@
   --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sean Hill">Performers/Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Troy A. Miller">Troy A. Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy A. Miller">Performers/Troy A. Miller</a></li><!--
   --><!--
   --><!--
   --><!--

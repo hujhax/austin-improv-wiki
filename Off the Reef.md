@@ -30,7 +30,7 @@
   --><li style=""><a class="internal-link" href="Alyse Deller">Alyse Deller</a></li><!--
   --><li style=""><a class="internal-link" href="Amy Smith">Amy Smith</a></li><!--
   --><li style=""><a class="internal-link" href="Chadwick Smith">Chadwick Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Ellen Pittsford">Ellen Pittsford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ellen Pittsford">Performers/Ellen Pittsford</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Howard Katz">Performers/Howard Katz</a></li><!--
   --><li style=""><a class="internal-link" href="Jenna Howard">Jenna Howard</a></li><!--

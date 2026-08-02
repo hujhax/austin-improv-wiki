@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Lacy Shawn Profile.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Lacy Shawn]] standing on a rainy street in San Francisco. 
+[[Performers/Lacy Shawn]] standing on a rainy street in San Francisco. 
 
 Taken by [[Performers/Quinn Buckner]].
 

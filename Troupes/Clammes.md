@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Performers/Chris Baldenhofer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Performers/Josh Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Michael James Williams">Michael James Williams</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Rousso">Stephanie Rousso</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Clammes** was a one-off *[[Cagematch]]* team.
+**Clammes** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 8/1/09.

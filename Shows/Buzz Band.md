@@ -73,8 +73,8 @@
   --><li style=""><a class="internal-link" href="Performers/Andrew Johnston">Performers/Andrew Johnston</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Ronn">Performers/David Ronn</a></li><!--
-  --><li style=""><a class="internal-link" href="J.R. Zambrano">J.R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Jordan Maxwell">Jordan Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan Maxwell">Performers/Jordan Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Performers/Mary Henderson</a></li><!--

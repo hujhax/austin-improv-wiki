@@ -21,7 +21,7 @@
 * Friday, 6pm (Hour 2): And They're Off
 	* "The core cast gets to know one another in this anything-goes hour."
 * Friday, 7pm (Hour 3): *[[Shows/Start Trekkin']]*
-* Friday, 8pm (Hour 4): *[[The Fancy-Pants Mash-Up]]*
+* Friday, 8pm (Hour 4): *[[Shows/The Fancy-Pants Mash-Up]]*
 * Friday, 9pm (Hour 5): [[Troupes/The Knuckleball Now]]
 * Friday, 10pm (Hour 6): [[Troupes/Parallelogramophonograph]]
 * Friday, 11pm (Hour 7): [[Troupes/Franz & Dave]] present "Pine Falls"
@@ -48,7 +48,7 @@
 * Saturday, 2pm (Hour 22): *[[Happy Fun Town]]*
 * Saturday, 3pm (Hour 23): "The Eye of the Storm"
 	* "The midpoint of the show... and a brief respite for the core 8 to do whatever they want. This is when they need you the most. Come cheer them on."
-* Saturday, 4pm (Hour 24): *[[Charles Dickens Unleashed!]]*
+* Saturday, 4pm (Hour 24): *[[Shows/Charles Dickens Unleashed!]]*
 * Saturday, 5pm (Hour 25): [[Shows/History Under the Influence]]
 * Saturday, 6pm (Hour 26): *[[Shows/The Secret Life of Inanimate Objects]]*
 * Saturday, 7pm (Hour 27): [[Troupes/Girls Girls Girls]]
@@ -71,7 +71,7 @@
 * Sunday, 11am (Hour 43): [[Damn, Gina!]]
 * Sunday, 12pm (Hour 44): The Secret Show
 	* "what's this gonna be? WHO KNOWS? A Marathon Tradition"
-* Sunday, 1pm (Hour 45): [[The Available Cupholders]]
+* Sunday, 1pm (Hour 45): [[Troupes/The Available Cupholders]]
 * Sunday, 2pm (Hour 46): *[[Shows/Fakespeare]]*
 * Sunday, 3pm (Hour 47): The Final Show
 	* "The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep."

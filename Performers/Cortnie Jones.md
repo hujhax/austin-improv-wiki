@@ -28,7 +28,7 @@
 
 ## Previous Troupes
 * [[Troupes/Elevator Action]]
-* [[North Shore Local]]
+* [[Troupes/North Shore Local]]
 * [[Troupes/Sarah 7]]
 * [[Troupes/Turn of the Century Paris]]
 

@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Angela Maldonado">Angela Maldonado</a></li><!--
   --><li style=""><a class="internal-link" href="Britain Spellings">Britain Spellings</a></li><!--
   --><li style=""><a class="internal-link" href="Caitlin Baumgartner">Caitlin Baumgartner</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Celena Diamond">Performers/Celena Diamond</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Performers/Chelley Pyatt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Performers/Chuy Zarate</a></li><!--
@@ -192,7 +192,7 @@ Season two ran from 2/10/13 to June of 2013.
 Season one ran from 10/6/13 to January 2014.
 
 * [[Angela Maldonado]]
-* [[Ceej Allen]]
+* [[Performers/Ceej Allen]]
 * [[Performers/Celena Diamond]]
 * [[Performers/Chelley Pyatt]]
 * [[Performers/Cortney DeAngelo]]
@@ -209,7 +209,7 @@ Season one ran from 10/6/13 to January 2014.
 ## Media
 ### Videos
 * [Video](http://vimeo.com/80101072) by [[Performers/Paul Normandin]] of the 10/20/13 show.
-* [Video](http://vimeo.com/84097461) by [[Jo Chauvin]] of the cast's 1/5/14 dance party.
+* [Video](http://vimeo.com/84097461) by [[Performers/Jo Chauvin]] of the cast's 1/5/14 dance party.
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.426596174070571.104123.221927764537414&type=3) by [[Steve Rogers]] of the 10/1/12 season-one premiere.

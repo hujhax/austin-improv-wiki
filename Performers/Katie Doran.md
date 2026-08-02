@@ -30,7 +30,7 @@
 * *[[Big Bully]]*
 
 ## Shows
-* The Hideout: *[[Shows/Maestro]]*, *[[The Fancy-Pants Mash-Up]]*, *[[Shows/The Threefer]]*, *[[Shows/The Free Fringe]]*, *[[Shows/The Weekender]]*
+* The Hideout: *[[Shows/Maestro]]*, *[[Shows/The Fancy-Pants Mash-Up]]*, *[[Shows/The Threefer]]*, *[[Shows/The Free Fringe]]*, *[[Shows/The Weekender]]*
 * The Institution: *[[Shows/The Triple Scoop]]*, *[[Shows/2x4]]* 
 * The New Movement: *[[The Knockout Tournament]]* (2015 Champions: [[Troupes/JK]])
 * ColdTowne: *[[Shows/The Cagematch]]*, [[Troupes/Loverboy]] (openers), *[[QueerTowne]]*

@@ -18,7 +18,7 @@ The ran from 11/20/08 to 11/22/08.
 * [[Troupes/Parallelogramophonograph]]
 * [[Troupes/Unfurled]]
 * [[Troupes/You're Not My Real Dad]]
-* [[You, Me and Greg]]
+* [[Troupes/You, Me and Greg]]
 
 ### Out of Town Acts
 * Curtis Needs a Ride

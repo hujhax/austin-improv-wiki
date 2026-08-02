@@ -31,14 +31,14 @@
 * Saturday 9am: [[Shows/Racket]]
 * Saturday 10am: [[Troupes/What's the Story, Steve]]
 * Saturday 11am: [[The Institution Theater]] presents the movie format
-* Saturday 12pm: [[The Amazon & The Milksop]] present improvised Tennessee Williams (by robots)
+* Saturday 12pm: [[Troupes/The Amazon & The Milksop]] present improvised Tennessee Williams (by robots)
 * Saturday 1pm: *[[Shows/Cover to Cover]]*
 * Saturday 2pm: Free-form improv from the core cast.
 * Saturday 3pm: Special preview of *[[Shows/The Black Vault]]*
 * Saturday 4pm: *[[Shows/Dubbed Indemnity]]*
 * Saturday 5pm: [[Troupes/The Knuckleball Now]]
 * Saturday 6pm: *[[Shows/Spirited]]*
-* Saturday 7pm: *[[Pick Your Own Path]]* 
+* Saturday 7pm: *[[Shows/Pick Your Own Path]]* 
 * Saturday 8pm: *[[Shows/Rock]]*
 * Saturday 9pm: [[Troupes/Available Cupholders]]
 * Saturday 10pm: *[[Shows/Maestro]]*
@@ -58,7 +58,7 @@
 ## Media
 ### Videos
 * [Hour 4: Girls Girls Girls](http://vimeo.com/43331034)
-* Hour 27: *[[Pick Your Own Path]]*: [show #1](http://vimeo.com/43374371), [show #2](http://vimeo.com/43417838).
+* Hour 27: *[[Shows/Pick Your Own Path]]*: [show #1](http://vimeo.com/43374371), [show #2](http://vimeo.com/43417838).
 * [Hours 30 & 31: *Maestro*](http://vimeo.com/43361530)
 
 ### Photos

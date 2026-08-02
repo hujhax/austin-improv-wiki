@@ -1,4 +1,4 @@
 ---
-redirect: "Cindy Page"
+redirect: "Performers/Cindy Page"
 ---
-#REDIRECT [[Cindy Page]]
+#REDIRECT [[Performers/Cindy Page]]

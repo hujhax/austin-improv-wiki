@@ -1,4 +1,4 @@
 ---
-redirect: "Keegan Hines"
+redirect: "Performers/Keegan Hines"
 ---
-#REDIRECT [[Keegan Hines]]
+#REDIRECT [[Performers/Keegan Hines]]

@@ -135,7 +135,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |-
 |Mar 2014||Apr 2014||*[[Shows/Kenjutsu]]*||[[Performers/Kareem Badr]], [[Performers/Shannon McCormick]]
 |-
-|May 2014||Jun 2014||*[[Shows/TheatreSports]]*||[[Lacy Shawn]], [[Performers/Ryan Austin]]
+|May 2014||Jun 2014||*[[Shows/TheatreSports]]*||[[Performers/Lacy Shawn]], [[Performers/Ryan Austin]]
 |-
 |Jul 2014||Aug 2014||*[[Shows/The International Improv Experience]]*||[[Performers/Roy Janik]]
 |-
@@ -171,7 +171,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
 |-
 |Mar 2017||Apr 2017||*[[Shows/TheatreSports]]*||[[Performers/Ryan Austin]], [[Performers/Manuel Duran]]
 |-
-|May 2017||Jun 2017||*[[Shows/How I Saved the World Over Summer Vacation]]*||[[Performers/Jordan T. Maxwell]], [[J.R. Zambrano]]
+|May 2017||Jun 2017||*[[Shows/How I Saved the World Over Summer Vacation]]*||[[Performers/Jordan T. Maxwell]], [[Performers/J.R. Zambrano]]
 |-
 |Jul 2017||Aug 2017||*[[Shows/The Kindness of Strangers]]*||[[Performers/Rob Yoho]], [[Performers/Kaci Beeler]]
 |-
@@ -216,7 +216,7 @@ In 2014 and 2015, the student mainstages were curated by [[Performers/Ruby Willm
 |-
 |Feb 2014||*[[Shows/What the F@$]]*||[[Performers/Ruby Willmann]]
 |-
-|Apr 2014||*[[Camp Madeupponathaspotta]]*|| [[Performers/Jon Bolden]]
+|Apr 2014||*[[Shows/Camp Madeupponathaspotta]]*|| [[Performers/Jon Bolden]]
 |-
 |Jun 2014||*[[Shows/Cochise]]*||[[Performers/Marc Majcher]]
 |-
@@ -266,11 +266,11 @@ In 2014 and 2015, the student mainstages were curated by [[Performers/Ruby Willm
 |-
 |Apr 2018||*[[&iexcl;Esc&aacute;ndalo!]]*||[[Performers/Jessica Von Schramm]], [[Performers/Luke Wallens]]
 |-
-|Jun 2018||*[[Things You Love, The Musical]]*||[[Performers/Caeriel Crestin]]
+|Jun 2018||*[[Shows/Things You Love, The Musical]]*||[[Performers/Caeriel Crestin]]
 |-
 |Aug 2018||*[[Shows/The Well-Made Play]]*||[[Lindsey McGowen]], [[Performers/Peter Rogers]]
 |-
-|Oct 2018||*[[Shows/Meat Cute]]*||[[Monica Martinez Maher]], [[Performers/Ryan Austin]]
+|Oct 2018||*[[Shows/Meat Cute]]*||[[Performers/Monica Martinez Maher]], [[Performers/Ryan Austin]]
 |-
 |Dec 2018||*[[Holiday Party Disaster]]*||[[Performers/Jessica Arjet]], [[Performers/Andreas Fabis]]
 |-
@@ -278,7 +278,7 @@ In 2014 and 2015, the student mainstages were curated by [[Performers/Ruby Willm
 |-
 |Apr 2019||*[[Silly Love Songs]]*||[[Performers/Aspen Webster]], [[Casey Marie]]
 |-
-|Jun 2019||*[[Dystopian Teen Future]]*||[[Frank Sánchez]], [[Jess von Schramm]]
+|Jun 2019||*[[Dystopian Teen Future]]*||[[Frank Sánchez]], [[Performers/Jess von Schramm]]
 |-
 |Aug 2019||*[[That! Big! 80s! Musical!]]*||[[Mallory Schlossberg]]
 |-

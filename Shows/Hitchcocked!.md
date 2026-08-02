@@ -76,7 +76,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Performers/Chris Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Michael">Performers/Jay Michael</a></li><!--
@@ -215,7 +215,7 @@ The show included several guest performers who weren't part of the main cast:
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 3/26/10 performance.
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100191585862270.2856707.7944448&type=3) by [[Jo Chauvin]] of the same show.
+	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100191585862270.2856707.7944448&type=3) by [[Performers/Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1215742685595.2027304.1589679282&type=1) by [[Roy Moore]] of the 3/27/10 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/2/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
 

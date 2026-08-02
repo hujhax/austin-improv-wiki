@@ -1,4 +1,4 @@
 ---
-redirect: "Sara Farr"
+redirect: "Performers/Sara Farr"
 ---
-#REDIRECT [[Sara Farr]]
+#REDIRECT [[Performers/Sara Farr]]

@@ -72,7 +72,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Performers/Avimaan Syam</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Performers/Elizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Performers/Jay Byrd</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Performers/Julie Gillis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
@@ -204,7 +204,7 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 * [Video of the 7/31/10 performance](http://vimeo.com/13863061) by [[Performers/Kristin Firth]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350315681440.3020024.7944448&type=3) by [[Jo Chauvin]] of an August 2010 show.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350315681440.3020024.7944448&type=3) by [[Performers/Jo Chauvin]] of an August 2010 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 8/28/10 performance.
 
 ### Publicity

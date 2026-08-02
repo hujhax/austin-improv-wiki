@@ -31,7 +31,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I think m
 ## Troupes
 * [[Troupes/Ed 32]]
 * [[Troupes/The Heroes of Comedy]] 
-* [[Polite Society Presents]] 
+* [[Troupes/Polite Society Presents]] 
 * [[Troupes/Junk]]
 * [[Troupes/Danger! Warning! Improv!]]
 

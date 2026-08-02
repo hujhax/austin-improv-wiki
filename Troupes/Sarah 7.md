@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Performers/Elizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Performers/Erika May McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
@@ -99,7 +99,7 @@ Sarah 7 headlined *[[Shows/The Threefer]]* in October 2012.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Sarah-7/332822362415)
-* [Forum announcement](http://forum.austinimprov.com/viewtopic.php?t=11152) of their *[[Threefer]]* headlining gig.
+* [Forum announcement](http://forum.austinimprov.com/viewtopic.php?t=11152) of their *[[Shows/Threefer]]* headlining gig.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

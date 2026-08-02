@@ -28,7 +28,7 @@
   --><li style=""><a class="internal-link" href="Brittany Flurry">Brittany Flurry</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Brooks">Jessica Brooks</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Jo Chauvin">Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jo Chauvin">Performers/Jo Chauvin</a></li><!--
   --><li style=""><a class="internal-link" href="Molly Mckee">Molly Mckee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Sam Schak">Performers/Sam Schak</a></li><!--

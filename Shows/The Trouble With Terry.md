@@ -1,4 +1,4 @@
 ---
-redirect: "The Trouble With Terry"
+redirect: "Shows/The Trouble With Terry"
 ---
-#REDIRECT [[The Trouble With Terry]]
+#REDIRECT [[Shows/The Trouble With Terry]]

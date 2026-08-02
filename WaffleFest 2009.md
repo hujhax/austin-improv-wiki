@@ -23,7 +23,7 @@ It included an all-star *[[Shows/Maestro]]*.
 * [[Troupes/Murphy]]
 * [[The New Movement]]
 * [[Troupes/Parallelogramophonograph]]
-* [[Rise and Shine]]
+* [[Troupes/Rise and Shine]]
 * [[Troupes/Snackers]]
 * [[Troupes/The Starter Kit]]
 * [[Troupes/Unfurled]]

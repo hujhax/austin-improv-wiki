@@ -22,7 +22,7 @@
 **Kacey Samiee** ([[Wikipedia - Help - IPA for English#Key|/ˈsæmiːˌiː/]]) is a performer, director, coach, teacher, and singer of improv.  
 
 ## History
-Kacey started doing improv since 2000 as a member of [[The Hideout]] Theatre's house troupe, [[We Could Be Heroes]]. A few years later she started directing and coaching both short form and narrative shows. In 2001, Kacey became a founding member of [[Troupes/Girls Girls Girls]] and was a co-creator of the first musical improv troupe in Austin. She spent the next decade helping to develop, and refine the technique of musical improv with [[Troupes/Girls Girls Girls]] until she left in 2010. In 2013 she created the curriculum for three levels of musical improv at [[The Hideout Theatre]] and began to teach. In 2015 she signed on to teach regular improv at the same institution as well.
+Kacey started doing improv since 2000 as a member of [[The Hideout]] Theatre's house troupe, [[Troupes/We Could Be Heroes]]. A few years later she started directing and coaching both short form and narrative shows. In 2001, Kacey became a founding member of [[Troupes/Girls Girls Girls]] and was a co-creator of the first musical improv troupe in Austin. She spent the next decade helping to develop, and refine the technique of musical improv with [[Troupes/Girls Girls Girls]] until she left in 2010. In 2013 she created the curriculum for three levels of musical improv at [[The Hideout Theatre]] and began to teach. In 2015 she signed on to teach regular improv at the same institution as well.
 
 ## Troupes
 * [[Troupes/Indigo Shift]]
@@ -38,14 +38,14 @@ Kacey started doing improv since 2000 as a member of [[The Hideout]] Theatre's h
 * [[Troupes/First Round Draft]] (Director)
 * [[Troupes/Girls Girls Girls]]
 * [[Troupes/Girl Embassy World Team]]
-* [[Heroes of Comedy]]
+* [[Troupes/Heroes of Comedy]]
 
 ## Shows
 * *[[Shows/Lonely Star]]* (Guest Star)
 * *[[Shows/Tarantula]]*
 * *[[Shows/A Deed So Dark]]*
 * *[[Shows/Happily Ever After]]*
-* *[[Song Runner]]* (director)
+* *[[Shows/Song Runner]]* (director)
 * *[[Shows/The Violet Underbelly]]*
 * *[[Shows/After School Improv]]*
 * *[[Live TV Tuesdays -  Buffy]]* (lighting tech)
@@ -55,10 +55,10 @@ Kacey started doing improv since 2000 as a member of [[The Hideout]] Theatre's h
 * *[[Shows/Cops & Lawyers]]*
 * *[[Shows/Start Trekkin']]*
 * *[[Shows/TheatreSports]]* (Director and Player)
-* *[[Gorilla Theatre]]*
+* *[[Shows/Gorilla Theatre]]*
 * *[[Shows/Six Degrees]]*
 * *[[Shows/More or Less]]*
-* *[[Micetro]]* (Director and Player)
+* *[[Shows/Micetro]]* (Director and Player)
 
 [[Category/Performers|Samiee]]
 [[Category/Teachers|Samiee]]

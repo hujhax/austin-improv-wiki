@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Performers/Chris Baldenhofer</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Micallef">Jennifer Micallef</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Performers/Josh Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Kerri Atwood">Kerri Atwood</a></li><!--
   --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**LadyForms** was a one-off *[[Cagematch]]* team.
+**LadyForms** was a one-off *[[Shows/Cagematch]]* team.
 
 ## Summary
 The troupe comprised the fourth graduating class from the [[ColdTowne Conservatory]].

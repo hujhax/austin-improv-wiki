@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**WIG** (also stylized W.I.G. or #WIG) is a group of female improvisers performing in Austin. The group was fully formed near the end of 2015, and had its first performance in the [[Threefer]] on February 18, 2016 with [[Troupes/Kinkade]] and [[Troupes/Golden]]. WIG's members are all current or former students of [[The Hideout Theatre]].
+**WIG** (also stylized W.I.G. or #WIG) is a group of female improvisers performing in Austin. The group was fully formed near the end of 2015, and had its first performance in the [[Shows/Threefer]] on February 18, 2016 with [[Troupes/Kinkade]] and [[Troupes/Golden]]. WIG's members are all current or former students of [[The Hideout Theatre]].
 
 The group is regularly coached by [[Performers/Nicole Oliver]], with additional coaching from [[Performers/Jessica Arjet]] and [[Performers/Kaci Beeler]].
 

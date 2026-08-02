@@ -1,4 +1,4 @@
 ---
-redirect: "Todd Hart"
+redirect: "Performers/Todd Hart"
 ---
-#REDIRECT [[Todd Hart]]
+#REDIRECT [[Performers/Todd Hart]]

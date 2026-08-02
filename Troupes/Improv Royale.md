@@ -17,9 +17,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Jericho Thorpe">Jericho Thorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Performers/Jericho Thorpe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><li style=""><a class="internal-link" href="Todd Schaenbacher">Todd Schaenbacher</a></li><!--
@@ -85,9 +85,9 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 ### Cast
 * [[Brent Foshee]] as The Texecutioner
 * [[Performers/Brett Tribe]] as El Tribe Loco
-* [[Bryan Roberts]] as The Natural Boy
+* [[Performers/Bryan Roberts]] as The Natural Boy
 * [[Performers/Dave Buckman]] as Baby Bob Buckland
-* [[Jericho Thorpe]] as Psychobilly
+* [[Performers/Jericho Thorpe]] as Psychobilly
 * [[Performers/Lance Gilstrap]] as Harrison Mack, The Business Maniac
 * [[Nick Ramierez]] as Stone Cold Nick Ramirez
 * [[Todd Schanbacher]] as The Ultimate Midwesterner

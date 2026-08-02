@@ -23,7 +23,7 @@
 
 ## History
 ## Shows
-* *[[Fuck It's Christmas]]*
+* *[[Shows/Fuck It's Christmas]]*
 * *[[Shows/RISEN]]* (tech)
 
 

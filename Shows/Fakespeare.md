@@ -81,7 +81,7 @@
   --><li style="" ><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Van Winkle">Performers/Katie Van Winkle</a></li><!--
-  --><li style=""><a class="internal-link" href="Mike Ferstenfeld">Mike Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Ferstenfeld">Performers/Mike Ferstenfeld</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Taylor Flanagan">Performers/Taylor Flanagan</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
@@ -204,7 +204,7 @@
 * [[Performers/Jordan T. Maxwell]] - Dogberry
 * [[Performers/Katie Dahm]] - Hero, Sexton
 * [[Performers/Katie Van Winkle]] - Don John, Watchman
-* [[Mike Ferstenfeld]] - Balthasar, Borachio
+* [[Performers/Mike Ferstenfeld]] - Balthasar, Borachio
 * [[Performers/Peter Rogers]] - Don Pedro
 * [[Performers/Taylor Flanagan]] - Friar, a Boy, Messenger
 * [[Performers/Troy Miller]] - Conrade, Messenger
@@ -221,7 +221,7 @@
 * [[Performers/Jordan T. Maxwell]] - Doctor
 * [[Performers/Katie Dahm]] - First Witch, Lady Macduff, Young Siward
 * [[Performers/Katie Van Winkle]] - Rosse
-* [[Mike Ferstenfeld]] - Banquo, Cathness, Seyton
+* [[Performers/Mike Ferstenfeld]] - Banquo, Cathness, Seyton
 * [[Performers/Peter Rogers]] - Third Murderer, Lennox
 * [[Performers/Taylor Flanagan]] - Malcolm, Fleance
 * [[Performers/Troy Miller]] - Duncan

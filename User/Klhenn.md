@@ -1,4 +1,4 @@
 ---
-redirect: "Kristin Henn"
+redirect: "Performers/Kristin Henn"
 ---
-#REDIRECT [[Kristin Henn]]
+#REDIRECT [[Performers/Kristin Henn]]

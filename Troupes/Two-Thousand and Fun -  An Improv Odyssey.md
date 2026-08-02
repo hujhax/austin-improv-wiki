@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Two-Thousand and Fun: An Improv Odyssey** was a one-off *[[Cagematch]]* duo.
+**Two-Thousand and Fun: An Improv Odyssey** was a one-off *[[Shows/Cagematch]]* duo.
 
 ## History
 They played one Cagematch on 5/11/12.

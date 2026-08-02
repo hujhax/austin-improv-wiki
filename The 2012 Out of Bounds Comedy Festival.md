@@ -30,7 +30,7 @@ The festival roast featured [[Performers/David Lampe]].
 * [[Troupes/The Escorts]]
 * [[Shows/False Matters]]
 * [[Troupes/The Frank Mills]]
-* [[Franz and Dave]]
+* [[Troupes/Franz and Dave]]
 * [[Troupes/Furiously Missing]]
 * [[Troupes/Galactic]]
 * [[Troupes/Get Up]]

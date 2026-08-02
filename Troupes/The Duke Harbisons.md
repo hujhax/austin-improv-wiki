@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Duke Harbisons** was a one-off *[[Cagematch]]* team.
+**The Duke Harbisons** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 7/17/10.  

@@ -32,7 +32,7 @@
 * [[Performers/Alex Baia]]
 * [[Jenna Marie Carey]]
 * [[Max Lipchitz]]
-* [[Bryan Roberts]]
+* [[Performers/Bryan Roberts]]
 * [[Adam Trabka]]
 * [[Performers/Jason Oliver]]
 * [[Performers/Nicole McCracken]]
@@ -48,7 +48,7 @@
 * [[Performers/Jericho Thorp]]
 * [[Katie Moore]]
 * [[Kyle Sweeney]]
-* [[Lacy Shawn]]
+* [[Performers/Lacy Shawn]]
 * [[Performers/Lance Gilstrap]]
 
 ## Media

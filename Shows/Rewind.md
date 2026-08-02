@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Monica Martinez Maher">Monica Martinez Maher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Monica Martinez Maher">Performers/Monica Martinez Maher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>

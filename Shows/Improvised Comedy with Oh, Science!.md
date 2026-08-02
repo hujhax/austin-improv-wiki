@@ -81,7 +81,7 @@
 ***Improvised Comedy with Oh, Science!*** is a double-header improv show featuring [[Troupes/Oh, Science!]] at 8:30PM every Sunday at [[Coldtowne Theater]].
 
 ## History
-This show is what *[[The Jam with Oh, Science!]]* turned into after the "jam" part of the show was discontinued.
+This show is what *[[Shows/The Jam with Oh, Science!]]* turned into after the "jam" part of the show was discontinued.
 
 It had its first performance on 5/12/13.
 

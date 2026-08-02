@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Doin Maintenance.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Doin Maintenance]].
+Publicity photo for [[Troupes/Doin Maintenance]].
 
 From [[Steve Rogers]]'s photobooth at [[The Austin Improv Potluck]] from 2013.
 ## Licensing

@@ -30,7 +30,7 @@
   --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Performers/Alex Ayala</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Clint Harris">Performers/Clint Harris</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
   --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--

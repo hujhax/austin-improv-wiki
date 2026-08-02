@@ -36,7 +36,7 @@ The theater was founded by the improv troupe [[Troupes/ColdTowne (Troupe)|ColdTo
 * *[[Nice Astronaut Presents Improv Roulette]]*
 * *[[Play By Play]]*
 * *[[Shows/All Ages Improv Night]]*
-* *[[What's the Story Steve]]*
+* *[[Troupes/What's the Story Steve]]*
 
 ### Mainstage Productions
 In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.

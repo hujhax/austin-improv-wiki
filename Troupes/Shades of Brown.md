@@ -88,7 +88,7 @@ This is their bio from their facebook page:
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3) by [[Roy Moore]] that includes their 8/19/10 performance in *[[Shows/The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 performance in *[[Shows/The Threefer]]*.
 * [Some 4/17/13 troupe photos](http://www.facebook.com/claudio.fox.5/media_set?set=a.561243300563836.1073741834.100000345135257&type=3) by [[Performers/Claudio Fox]].
-* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Performers/Chad Wellington]] that includes their performance in the 6/9/13 *[[Triple Scoop]]*.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Performers/Chad Wellington]] that includes their performance in the 6/9/13 *[[Shows/Triple Scoop]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[Shows/The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.882685965128254.1073742141.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/6/14 performance in *[[Shows/The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/8/15 performance in *[[Shows/The Threefer]]*.

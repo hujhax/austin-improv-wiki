@@ -1,4 +1,4 @@
 ---
-redirect: "Nathan Sowell"
+redirect: "Performers/Nathan Sowell"
 ---
-#REDIRECT [[Nathan Sowell]]
+#REDIRECT [[Performers/Nathan Sowell]]

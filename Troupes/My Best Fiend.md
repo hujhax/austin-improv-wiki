@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Performers/Chris Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
   --><!--
   --><!--
@@ -73,12 +73,12 @@
 **My Best Fiend** is an improv duo that creates fake behind the scenes documentaries in the style of [[Wikipedia - Werner Herzog|Werner Herzog]]'s *[[Wikipedia - My Best Fiend|My Best Fiend]]*.
 
 ## Summary
-[[Chris Allen]] plays genius/insane German actor [[Wikipedia - Klaus Kinski|Klaus Kinski]]; [[Performers/Andreas Fabis]] plays director [[Wikipedia - Werner Herzog|Werner Herzog]]. Their troubled cooperation resulted in movies like *Nosferatu*, *Fitzcarraldo* and *Aguierre*. The show presents a never-before-seen glimpse into the relationship and work of these two extraordinary men on one of their "forgotten" films.
+[[Performers/Chris Allen]] plays genius/insane German actor [[Wikipedia - Klaus Kinski|Klaus Kinski]]; [[Performers/Andreas Fabis]] plays director [[Wikipedia - Werner Herzog|Werner Herzog]]. Their troubled cooperation resulted in movies like *Nosferatu*, *Fitzcarraldo* and *Aguierre*. The show presents a never-before-seen glimpse into the relationship and work of these two extraordinary men on one of their "forgotten" films.
 
 Andreas is from Düsseldorf, Germany. He speaks German very well. Christopher is from Iowa. He took German twenty years ago in college... and tries hard to remember how to speak it while performing on stage. Andreas interprets as best as he can.
 
 ## History
-My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and performed at the 2013 Out of Bounds Festival.
+My Best Fiend premiered at the Hideout's *[[Shows/Free Fringe]]* on May 17th 2012 and performed at the 2013 Out of Bounds Festival.
 
 ## Media
 ### Videos
@@ -97,7 +97,7 @@ My Best Fiend premiered at the Hideout's *[[Free Fringe]]* on May 17th 2012 and 
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers]] that includes their 1/12/13 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200401010090574.1073741845.1315383518&type=3) by [[Michael Yew]] that includes their 9/27/13 performance at [[The 2013 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3) by [[Michael Yew]] which includes their 10/26/13 performance in *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers]] that includes their 12/5/13 *[[Free Fringe]]* show.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers]] that includes their 12/5/13 *[[Shows/Free Fringe]]* show.
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152576209432107.1073741846.549002106&type=3) by [[Performers/Chris Curl]] of their 8/31/14 performance at [[The 2014 Out of Bounds Comedy Festival]].
 	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].

@@ -8,7 +8,7 @@
 * [[Gag Reflex]]
 * [[Troupes/Girls Girls Girls]]
 * [[Troupes/Gravy]]
-* [[Heroes of Comedy]]
+* [[Troupes/Heroes of Comedy]]
 * [[Latino Comedy Project]]
 
 ### Out-of-Town Acts

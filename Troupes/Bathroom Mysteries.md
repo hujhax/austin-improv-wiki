@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Bathroom Mysteries** was a one-off *[[Cagematch]]* team.
+**Bathroom Mysteries** was a one-off *[[Shows/Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/18/12.

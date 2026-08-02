@@ -11,10 +11,10 @@ It was produced by [[Performers/Thedward Blevins]] and [[Performers/Ruby Willman
 * *[[Shows/The Big Bash]]*
 * *[[Shows/The Black Vault]]*
 * [[Breaking Beckett]]
-* *[[Camp Madeupponathaspotta]]*
+* *[[Shows/Camp Madeupponathaspotta]]*
 * [[Troupes/Confidence Men]]
 * [[Troupes/The Escorts]]
-* [[GOOFS]]
+* [[Troupes/GOOFS]]
 * [[Troupes/In Our Prime]]
 * *[[Shows/Kenjutsu]]*
 * *[[Shows/The Next Chapter]]*

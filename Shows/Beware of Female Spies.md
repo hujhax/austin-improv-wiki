@@ -78,7 +78,7 @@
   --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Performers/Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Chrissy Shackleford">Chrissy Shackleford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackleford">Performers/Chrissy Shackleford</a></li><!--
   --><li style=""><a class="internal-link" href="Liz Dykes">Liz Dykes</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Performers/Nicole McCracken</a></li><!--
   --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--

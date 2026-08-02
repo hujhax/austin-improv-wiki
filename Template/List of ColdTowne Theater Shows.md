@@ -8,7 +8,7 @@ This **List of [[Coldtowne Theater]] Shows** is designed to be transcluded into 
 * *[[Nice Astronaut Presents Improv Roulette]]*
 * *[[Play By Play]]*
 * *[[Shows/All Ages Improv Night]]*
-* *[[What's the Story Steve]]*
+* *[[Troupes/What's the Story Steve]]*
 
 ### Mainstage Productions
 In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.

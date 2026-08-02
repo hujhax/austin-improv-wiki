@@ -130,7 +130,7 @@
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a> (2014-2015)</li><!--
   --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a> (2014-2015)</li><!--
   --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a> (2015-2016)</li><!--
-  --><li style=""><a class="internal-link" href="Rachel Austin">Rachel Austin</a> (2015-2016)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Performers/Rachel Austin</a> (2015-2016)</li><!--
   --><!--
   --><!--
   --><!--
@@ -200,7 +200,7 @@ The show began its run with the name *Choose Your Own Adventure*, but on Novembe
 
 At the start of its run, a single *Pick Your Own Path* adventure was paired with *[[Shows/The Lottery]]* and a montage jam from experienced Hideout players.  In January 2012, *[[Shows/The Wheel]]* was revamped, *[[Shows/The Lottery]]* was retired, and *Pick Your Own Path* expanded to a double bill, with two *Pick Your Own Path* adventures and no additional acts.
 
-From 2010 to 2014, the show was a pick-up format, cast month-to-month from interested parties, à la *[[The Fancy-Pants Mash-Up]]*.  In mid-2014, [[Performers/Andrew Buck]] took over the show, and created a core cast that rehearsed the format regularly, bringing in only one or two guests in any given month.
+From 2010 to 2014, the show was a pick-up format, cast month-to-month from interested parties, à la *[[Shows/The Fancy-Pants Mash-Up]]*.  In mid-2014, [[Performers/Andrew Buck]] took over the show, and created a core cast that rehearsed the format regularly, bringing in only one or two guests in any given month.
 
 ## Media
 ### Videos

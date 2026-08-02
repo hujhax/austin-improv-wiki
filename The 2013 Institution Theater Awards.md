@@ -24,7 +24,7 @@ Winners are listed in **bold text**.
 * ***[[Human Santapede 2]]***
 * *[[Shows/Manson -  The Musical]]*
 * *[[The Moral Compass Rumpas]]*
-* *[[This American Live]]*
+* *[[Shows/This American Live]]*
 
 ### Favorite Director of a Scripted Show
 * [[Performers/Asaf Ronen]], for *[[Live TV Tuesdays -  Firefly]]*
@@ -34,7 +34,7 @@ Winners are listed in **bold text**.
 
 ### Favorite Director of an Improvised Show
 * [[Amy Dietz]], for *[[Shows/Danger!]]*
-* [[Performers/Asaf Ronen]] & [[Mike Ferstenfeld]], for *[[This American Live]]*
+* [[Performers/Asaf Ronen]] & [[Performers/Mike Ferstenfeld]], for *[[Shows/This American Live]]*
 * [[Performers/Sarah Marie Curry]], for *[[Racket!]]*
 * **[[Performers/Tom Booker]], for *[[Shows/Pulp Friction]]***
 
@@ -79,7 +79,7 @@ Winners are listed in **bold text**.
 * "Space Herpes" (an improvised song) -- [[Performers/Heath Allyn]] in *[[Live TV Tuesdays -  Firefly]]*
 * "Unfortunately, balls aren't thrown by nuns" -- [[Regina Soto]] as a soon to be nun being driven to the nunnery by her husband, daughter and the family dog, when the dog asks "You're still gonna throw the ball right?" performing with [[Troupes/IScream Sandwich]] in [[Shows/The Triple Scoop]] 12/8/12
 * "We ran out of Space Ice" -- [[Performers/Michael Thomas]] in *[[Live TV Tuesdays -  Firefly]]*
-* "When you've left the city limits, where are you?" -- [[Performers/Brandon Martin]] in *[[This American Live]]*
+* "When you've left the city limits, where are you?" -- [[Performers/Brandon Martin]] in *[[Shows/This American Live]]*
 * "You know when you cry, I lose respect for you as a pilot, and respect is like half of what being a pilot is" -- [[Marcus Hysmith]] in [[Troupes/Dumbasses]] performing in [[The Birthday Clusterfunk]] 3/25/12
 * "You need the healing power of the U-KU-LE-LE" -- [[Performers/Heath Allyn]] as Manson to Tex Watson before singing his solo in *[[Shows/Manson -  The Musical]]*
 
@@ -87,7 +87,7 @@ Winners are listed in **bold text**.
 * [[Performers/Asaf Ronen]]
 * [[Performers/Clifton Highfield]]
 * [[Performers/John Ratliff]]
-* [[Justin Davis]]
+* [[Performers/Justin Davis]]
 * [[Performers/Sarah Marie Curry]]
 * [[Performers/Ted Meredith]]
 * **[[Performers/Tom Booker]]**
@@ -107,7 +107,7 @@ Winners are listed in **bold text**.
 * [[Performers/Carissa McAtee]]
 * [[Performers/Celena Diamond]]
 * [[Performers/Heidi Rogers]]
-* [[Jeanette Jones]]
+* [[Performers/Jeanette Jones]]
 * [[Megan Moten]]
 * **[[Performers/Sam Schak]]**
 * [[Performers/Sarah Swofford]]

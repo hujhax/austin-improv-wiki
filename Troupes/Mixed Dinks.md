@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Mixed Dinks** was a one-off *[[Cagematch]]* team that performed a mono-scene with pop-outs.
+**Mixed Dinks** was a one-off *[[Shows/Cagematch]]* team that performed a mono-scene with pop-outs.
 
 ## History
 They won one Cagematch on 7/17/10, then lost to [[Troupes/Shades of Brown]] on 8/14/10.

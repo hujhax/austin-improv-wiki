@@ -17,7 +17,7 @@ It included an all-star *[[Shows/Maestro]]*.
 * *[[Shows/Start Trekkin']]*
 * [[Troupes/Tight]]
 * [[Troupes/Wooden Nickel]]
-* [[You, Me and Greg]]
+* [[Troupes/You, Me and Greg]]
 
 ## More Information
 * [Announcement about the festival](http://forum.austinimprov.com/viewtopic.php?t=81&p=285) on [[The Austin Improv Forums]].

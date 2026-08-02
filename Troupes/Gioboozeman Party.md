@@ -73,7 +73,7 @@
 **Gioboozeman Party** was an improv/sketch duo.
 
 ## History
-They won the March-Madness-themed duo *[[Cagematch]]* in the spring of 2013.
+They won the March-Madness-themed duo *[[Shows/Cagematch]]* in the spring of 2013.
 
 ## Media
 ### Videos

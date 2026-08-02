@@ -1,4 +1,4 @@
 ---
-redirect: "Chelley Pyatt"
+redirect: "Performers/Chelley Pyatt"
 ---
-#REDIRECT [[Chelley Pyatt]]
+#REDIRECT [[Performers/Chelley Pyatt]]
