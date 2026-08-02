@@ -154,7 +154,7 @@ The cast of ten rotated through the four main character positions, with a differ
 From the initial show announcement: <blockquote>"It’s two a.m. in the big, bad city. The bars are closed, but the night is just beginning. Beware: Things are different when it gets this late. In this unscripted play, a group of friends will find out how"</blockquote>
 
 ### Tom's Place
-![[Toms-place.jpg|Tom's Place logo, designed by [[Ryan Austin]] and [[Performers/Asaf Ronen]]]]
+![[Toms-place.jpg|Tom's Place logo, designed by [Ryan Austin](Performers/Ryan%20Austin) and [Asaf Ronen](Performers/Asaf%20Ronen)]]
 *You Can't Stay Here* made use of the Institution's "Institution South" space, which was converted temporarily into a makeshift bar called Tom's Place. Beer and wine were served, and early-arriving customers were treated to a few rounds of pub trivia. [[Performers/Asaf Ronen]], [[Performers/Kenny Madison]], and [[Will Cleveland]] served as quizmasters.
 
 Following the quiz, the first scene of the show began in Tom's Place. The four central characters for the evening were introduced, and their relationships established. After one scene had concluded, director [[Performers/Brad Hawkins]] announced the closing of Tom's Place and the audience was ushered into the theater space for the remainder of the show.

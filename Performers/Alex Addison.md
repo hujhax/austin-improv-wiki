@@ -5,7 +5,7 @@
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/<a class="internal-link" href="File - AlexAddison.jpeg.md"><img src="File/[[File%20-%20AlexAddison.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>">frameless</a>
+				<a class="internal-link" href="File/<a class="internal-link" href="File - AlexAddison.jpeg.md"><img src="File/[[File%20-%20AlexAddison.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>">File - AlexAddison.jpeg.md"><img src="File/[[File%20-%20AlexAddison.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -141,7 +141,7 @@
 	</table>
 </div>
 
-![[Fiasco Set.jpg|Fiasco set, by [[Kaci Beeler]].]]
+![[Fiasco Set.jpg|Fiasco set, by [Kaci Beeler](Performers/Kaci%20Beeler).]]
 
 ***Fiasco*** is the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[The Hideout Theatre]].  
 

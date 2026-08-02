@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-![[MikeIrene.jpg|Mike and Irene performing at [[The Hideout Theatre]].]]
+![[MikeIrene.jpg|Mike and Irene performing at [The Hideout Theatre](The%20Hideout%20Theatre).]]
 
 **Mike and Irene** is an improv duo.
 

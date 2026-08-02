@@ -145,7 +145,7 @@ The show was a longform narrative, dealing with conspiracies and paranoia. An au
 ### The View-Master of Providence
 In materials promoting this show, the Institution Theater's [[Wikipedia - View-Master|View-Master]] logo was incorporated into the [[Wikipedia - Eye of Providence|Eye of Providence]], a common [[Wikipedia - Freemasonry|Masonic]] symbol and one often associated with the [[Wikipedia - Illuminati|Illuminati]]. 
 
-![[Eye-of-institution-1.gif|The View-Master of Providence, designed by [[Brad Hawkins]]]]
+![[Eye-of-institution-1.gif|The View-Master of Providence, designed by [Brad Hawkins](Performers/Brad%20Hawkins)]]
 
 ## Media
 ### Videos

@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-![[Emily Breedlove - Tribunal.jpg|Emily Breedlove in *[[The Tribunal]]*.]]
+![[Emily Breedlove - Tribunal.jpg|Emily Breedlove in *[The Tribunal](The%20Tribunal)*.]]
 
 **Emily Breedlove** is an opera singer and an improv performer.
 

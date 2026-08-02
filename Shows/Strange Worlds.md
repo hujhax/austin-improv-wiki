@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-![[Strange Worlds Heroes Drawing.jpg|A drawing by [[Ryan Austin]] of the cast of heroes from *Strange Worlds*.]]
+![[Strange Worlds Heroes Drawing.jpg|A drawing by [Ryan Austin](Performers/Ryan%20Austin) of the cast of heroes from *Strange Worlds*.]]
 
 
 ***Strange Worlds*** was a mainstage show at [[The Hideout Theatre]] based on 30s [[Wikipedia - Pulp magazine|pulp adventure]].
