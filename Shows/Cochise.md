@@ -198,7 +198,7 @@ The show included over-the-top 70s costumes and many fake moustaches.
 ## History
 The name "Cochise" is a reference to a character in the Beastie Boys video "Sabotage", which traffics in the same genre as the improv show.
 
-The show premiered at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[The 40-Hour Improv Marathon]].
+The show premiered at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 
 It returned in 2014 for a June/July run as one of the first [[Hideout Student Mainstage]] shows.
 
@@ -231,9 +231,9 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 ## Media
 ![[Cochise Performance.jpg|A performance of *Cochise*.]]
 ### Photos
-* [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620623735851) by [[Michael Yew]] of their appearance in [[The 40-Hour Improv Marathon]].
+* [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620623735851) by [[Michael Yew]] of their appearance in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.746912335372285.1073742015.221927764537414&type=3) by [[Steve Rogers]] of the 6/7/14 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.759506387446213.1073742028.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.759506387446213.1073742028.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
 ### Videos
 * [Video of the premiere performance of *Cochise*](http://www.youtube.com/watch?v=gHYDvzQKeoM) at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].

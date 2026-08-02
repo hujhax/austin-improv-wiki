@@ -79,7 +79,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Festivals/Wafflefest|Wafflefest]]
 * [[Frontera Fest]] - Best of Week: 2005, 2007 & 2008.
 * [[Festivals/The Improvised Play Festival|The Improvised Play Festival]]
-* [[The Hideout Improv Marathon]]
+* [[Festivals/The Hideout Improv Marathon|The Hideout Improv Marathon]]
 * [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]] - Festival founders, producers and headliners.
 
 ## Other Festivals
@@ -124,14 +124,14 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/girls-girls-girls-sun-7-30pm-esther-s-1237263) of their 8/31/08 headlining show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video highlights](http://youtu.be/o-QneRdYgAM) of their 2/5/10 show (the premiere of *Jerzey Shorez*).
 * [Video highlights](http://youtu.be/pu1USWq1vy0) of their 2/12/10 show (the second performance of *Jerzey Shorez*).
-* [Video](http://vimeo.com/43331034) by [[Performers/Dave alley|Dave alley]] of the 6/1/12 show in [[The 43-Hour Improv Marathon]].
+* [Video](http://vimeo.com/43331034) by [[Performers/Dave alley|Dave alley]] of the 6/1/12 show in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Video](http://vimeo.com/43532723) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/2/12 show at [[Salvage Vanguard Theater]].
 * [Video](http://youtu.be/196aoEhy3hs) of their 1/13/13 show ("King Size Bed").
 * [Video](http://youtu.be/yDwlCWTJPE4) of their 2/15/13 "Welding Studio" show.
 * [Video](http://youtu.be/Sad-Ri4xo2w) of their 3/9/13 show ("Backyard").
 * [Video](http://youtu.be/yDwlCWTJPE4) of their 3/16/13 show ("Welding Studio").
 * [Video](http://youtu.be/9T4WUb7um0Q) of their 4/14/13 "Stage Door" show.
-* [Video of the first fifteen minutes of their 6/22/13 show,](http://vimeo.com/69001828) part of [[The 43-Hour Improv Marathon]].
+* [Video of the first fifteen minutes of their 6/22/13 show,](http://vimeo.com/69001828) part of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Video](http://youtu.be/i6z2TroPzss) of their 11/10/13 show ("Jeep").
 * [Video](http://youtu.be/8twSU8tYHiM) of their 12/7/13 holiday show.
 * [Video](http://youtu.be/XprjNzdgUvo) of their 4/12/14 "Pink Is the New Black" show.
@@ -140,13 +140,13 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1221978361483.2027946.1589679282&type=3) by [[Roy Moore]] of their 4/3/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1249529610247.2030742.1589679282&type=3) by [[Roy Moore]] of their 5/8/10 performance at *[[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100438451097360.3117252.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 7/23/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/11/10 performance.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150151636822265.328769.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/5/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/4/11 "GGGlee" performance at [[The City Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 5/6/11 performance in [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/11 show in [[The 42-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3) by [[Roy Moore]] that includes their 6/4/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.140277072719991.38310.100002130980897&type=3) by [[Steve Rogers]] of their 7/2/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*. ("Graceland")
 * [Photoset](http://www.facebook.com/media/set/?set=a.257845284278995.65486.221927764537414&type=3) by [[Steve Rogers]] of their 12/3/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
@@ -157,7 +157,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3027821617293.119201.1315383518&type=3) by [[Michael Yew]] of their 4/27/12 performance with [[Wikipedia - Laura Hall (musician)|Laura Hall]]
 * [Photoset](http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3) by [[Steve Rogers]] of the 5/5/12 show which they shared with [[Troupes/Confidence Men|Confidence Men]].
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10151724038250324.843293.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of a 5/23/12 improv jam they hosted.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/1/12 performance in [[The 43-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/1/12 performance in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/7/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3) by [[Steve Rogers]] of their 7/21/12 performance of *[[Shows/Boys of Summer|Boys of Summer]]*, featuring guest boy [[Performers/Clay Towery|Clay Towery]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.466601583361342.105337.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 9/1/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
@@ -175,7 +175,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.670030793018419.1073741871.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 12/7/13 performance at [[The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.720979564632229.1073741991.221927764537414&type=3) by [[Steve Rogers]] of their 4/19/14 "Pink Is the New Black" show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.759510950779090.1073742029.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.759510950779090.1073742029.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203483337546834.1073741925.1315383518&type=1) by [[Michael Yew]] of their 1/30/15 "Jam-a-Rama".
 * [Photoset](http://www.facebook.com/media/set/?set=a.10203490534406751.1073741927.1315383518&type=3) by [[Michael Yew]] of their 1/31/15 "Jam-a-Rama".
 * [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152967546725793.1073741899.666390792&type=3) by [[Performers/Dave alley|Dave alley]] of their 9/4/15 show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].

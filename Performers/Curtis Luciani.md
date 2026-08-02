@@ -22,7 +22,7 @@
 **Curtis Luciani** ([[Wikipedia - Help - IPA for English#Key|/ˈluːtʃiːˌɑːniː/]]) is an improv performer and director.
 
 ## History
-Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
+Curtis was a core performer in both [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] and [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 
 ## Troupes
 * [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]]

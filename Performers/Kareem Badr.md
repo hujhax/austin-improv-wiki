@@ -24,7 +24,7 @@
 ## History
 Kareem began taking classes at [[The Hideout Theatre]] on 1/8/05.  He performed in his first improv show on April 2nd of that same year.
 
-On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That same year, he appeared in [[The 40-Hour Improv Marathon]].
+On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That same year, he appeared in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 
 ## Troupes
 * [[Badr & Janik]]

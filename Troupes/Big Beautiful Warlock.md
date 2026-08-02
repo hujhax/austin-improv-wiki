@@ -78,7 +78,7 @@ In addition to these shows, they host a monthly improvised game show called [[Sh
 ## Media
 ### Videos
 * [Video of their 4/19/12 show](http://vimeo.com/40801629) at the *[[Shows/Free Fringe|Free Fringe]]*.
-* [Video of their 6/23/13 show](http://vimeo.com/77117598) in [[The 44-Hour Improv Marathon]].
+* [Video of their 6/23/13 show](http://vimeo.com/77117598) in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 ### Photos
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Shows/Free Fringe|Free Fringe]]* show.

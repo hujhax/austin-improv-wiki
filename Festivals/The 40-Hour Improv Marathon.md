@@ -1,4 +1,4 @@
-**The 40-Hour Improv Marathon** was the first annual [[Hideout Improv Marathon]].  It was performed in 2009.
+**The 40-Hour Improv Marathon** was the first annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It was performed in 2009.
 
 ## Core Players
 * [[Performers/Andy Crouch|Andy Crouch]]
@@ -74,3 +74,4 @@
 * ["The Hideout Improv Marathon"](http://www.austinchronicle.com/arts/2009-06-26/799086/) by [[Robert Faires]] (*The Austin Chronicle*)
 * ["Review: Hideout Improv Marathon"](http://www.austinchronicle.com/arts/2009-07-03/803083/) by [[Robert Faires]] (*The Austin Chronicle*)
 * [A post recapping the marathon.](http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success)
+[[Category/Festivals|Category:Festivals]]

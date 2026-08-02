@@ -39,7 +39,7 @@ It was a challenging format for performers.  A common pitfall was to simply narr
 ## History
 *Dubbed Indemnity* debuted as part of *[[Shows/The Wheel|The Wheel]]* in September of 2010.  Unfortunately, the video production required for *Dubbed Indemnity* became untenable, and [[Performers/Roy Janik|Roy Janik]] retired the format in September of 2011.  A number of different one-off events happened in its monthly time slot until it was replaced by *[[Shows/Maestro Raw|Maestro Raw]]* in January 2012.
 
-Since then, *Dubbed Indemnity* has shown up for occasional one-off performances in events like [[The 44-Hour Improv Marathon]].
+Since then, *Dubbed Indemnity* has shown up for occasional one-off performances in events like [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 ## Media
 ### Videos
@@ -48,9 +48,9 @@ Since then, *Dubbed Indemnity* has shown up for occasional one-off performances 
 * 3/25/11: [Video.](http://vimeo.com/21607975)
 * 4/23/11: [Video.](http://vimeo.com/22841998)
 * 5/27/11: [Video.](http://vimeo.com/24452011)
-* 6/22/13: [Video.](http://vimeo.com/73282840) (Part of [[The 44-Hour Improv Marathon]].)
+* 6/22/13: [Video.](http://vimeo.com/73282840) (Part of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].)
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/4/10 performance at [[The 41-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/4/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [A photoset](http://www.facebook.com/hujhax/media_set?set=a.462070062264.231094.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/9/10 show.
 
 ## More Information

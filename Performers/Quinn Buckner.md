@@ -80,7 +80,7 @@ In 2008 while attending UT Quinn saw some [[Troupes/GigglePants|GigglePants]] sh
 * 2014 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Tastemakers|Tastemakers]]
 * 2014 - Sketchfest / Cover Night - [[Troupes/Tastemakers|Tastemakers]]
 * 2015 - Improvised Play Festival - *[[Shows/Austin Secrets|Austin Secrets]]*
-* 2015 - [[46-Hour Improv Marathon]] - Ensemble
+* 2015 - [[Festivals/46-Hour Improv Marathon|46-Hour Improv Marathon]] - Ensemble
 * 2015 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Austin-Austin|Austin-Austin]], [[Troupes/Tastemakers|Tastemakers]], *[[Thunderdome]]*
 * 2015 - Sketchfest / Cover Night - [[Troupes/Tastemakers|Tastemakers]]
 * 2015 - [[Festivals/Wafflefest|Wafflefest]] - [[Troupes/Austin-Austin|Austin-Austin]]

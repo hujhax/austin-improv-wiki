@@ -73,6 +73,6 @@
 **The JBs** are an improv troupe whose members all have the initials "J. B."
 
 ## History
-The idea for the troupe came about when a number of improvisors with the initials "J. B." were simultaneously participating in an online chat accompanying the live-streamed video of [[The 42-Hour Improv Marathon]].
+The idea for the troupe came about when a number of improvisors with the initials "J. B." were simultaneously participating in an online chat accompanying the live-streamed video of [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 [[Category/Troupes|JBs]]

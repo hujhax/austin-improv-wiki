@@ -73,7 +73,7 @@
 **Cat Drago** is an improv performer.
 
 ## History
-Cat began doing improv after watching long stretches of [[The 42-Hour Improv Marathon]].  Since then she has successfully watched [[The 43-Hour Improv Marathon]], [[The 44-Hour Improv Marathon]] and [[The 45-Hour Improv Marathon]] in their entirety. She is a regular cast member of [[Shows/Control Issues|Control Issues]] at [[The Hideout]]. 
+Cat began doing improv after watching long stretches of [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].  Since then she has successfully watched [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]], [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]] and [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]] in their entirety. She is a regular cast member of [[Shows/Control Issues|Control Issues]] at [[The Hideout]]. 
 
 ## Troupes
 * [[Troupes/Kosher Bacon|Kosher Bacon]]
@@ -90,7 +90,7 @@ Cat began doing improv after watching long stretches of [[The 42-Hour Improv Mar
 * *[[Shows/The Tribunal|The Tribunal]]*
 
 ## More Information
-* [A 6/1/12 interview](http://www.hideouttheatre.com/the-game-changer-part-two) with Cat about discovering and watching [[The 42-Hour Improv Marathon]].
+* [A 6/1/12 interview](http://www.hideouttheatre.com/the-game-changer-part-two) with Cat about discovering and watching [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 [[Category/Performers|Drago]]
 [[Category/Active|Category:Active]]

@@ -75,7 +75,7 @@
 ## History
 Three Hot Chicks was founded by [[Joel Ausanka Reese]] after he attended the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] in 2010. A sitcom-based format was decided upon during rehearsals, and the troupe had their first show at the [[Hideout Theatre]] on February 3, 2011.
 
-Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
+Three Hot Chicks appeared in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 ## Format
 "Three Hot Chicks" referred to both the troupe and the name of the fictional sitcom the troupe created. Set in New York City, the show followed the misadventures of Mark Rabinowitz ([[Performers/Brad Hawkins|Brad Hawkins]]), his brother Vinnie ([[Joel Ausanka Reese]]), and three of Mark's ex-girlfriends: Morgan ([[Ruby Leigh Young]]), Brooke ([[Kacy Todd]]), and Jill ([[Performers/Ruby Willmann|Ruby Willmann]]). Standard sitcom tropes such as misunderstood intentions, the completion of absurd tasks, and even a laugh track were employed. At first, no continuity was observed between shows, but in the last handful of shows, characters were allowed to develop deeper relationships.
@@ -83,7 +83,7 @@ Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
 ## Media
 ### Videos
 * [Three Hot Chicks' debut show](http://vimeo.com/19634320) on Vimeo, courtesy of [[Performers/Peter Rogers|Peter Rogers]]
-* [Three Hot Chicks' appearance](http://vimeo.com/25332777) in [[The 42-Hour Improv Marathon]]
+* [Three Hot Chicks' appearance](http://vimeo.com/25332777) in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]]
 * [Video](http://vimeo.com/26109575) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 7/6/11 show at [[Coldtowne Theater]].
 
 ### Photos

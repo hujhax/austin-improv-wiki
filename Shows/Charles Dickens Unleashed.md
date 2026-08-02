@@ -103,9 +103,9 @@ At about the two-thirds mark, the narrator would introduce some significant pass
 At the end of the story, the onstage characters would again freeze into a tableau, and the narrator would step out to provide the closing lines of the "novel".
 
 ## History
-The show format was first tested out in [[The 40-Hour Improv Marathon]] on 6/27/09, for an audience of one ([[Performers/Mike Kinald|Mike Kinald]]).
+The show format was first tested out in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] on 6/27/09, for an audience of one ([[Performers/Mike Kinald|Mike Kinald]]).
 
-The show then ran in the 2009 November/December holiday season, and was brought back for a second mainstage run in 2011.  That second run was so successful that, in December, the Hideout added 6pm shows every Saturday.  The show also had Christmas performances in its "off" years (2010, 2012), and was part of [[The 43-Hour Improv Marathon]].
+The show then ran in the 2009 November/December holiday season, and was brought back for a second mainstage run in 2011.  That second run was so successful that, in December, the Hideout added 6pm shows every Saturday.  The show also had Christmas performances in its "off" years (2010, 2012), and was part of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 
 On 11/17/11, cast members [[Performers/Curtis Luciani|Curtis Luciani]], [[Performers/Kaci Beeler|Kaci Beeler]], and [[Performers/Peter Rogers|Peter Rogers]] appeared on KUT's *[Eklektikos](http://en.wikipedia.org/wiki/KUT#Local_productions)* to promote the show.
 
@@ -184,7 +184,7 @@ On 11/17/11, cast members [[Performers/Curtis Luciani|Curtis Luciani]], [[Perfor
 * 12/10/11 8pm performance: [photoset](http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.2275267843919.103545.1315383518&type=3) by [[Michael Yew]].
 * 12/17/11 performance: [photoset](http://www.facebook.com/media/set/?set=a.462273963836125.112151.221927764537414&type=3) by [[Steve Rogers]].
 * 12/21/12 performance: [photoset](http://www.facebook.com/media/set/?set=a.462857947111060.112251.221927764537414&type=3) by [[Steve Rogers]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.759515957445256.1073742031.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.759515957445256.1073742031.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.869583529771831.1073742132.221927764537414&type=3) by [[Steve Rogers]] of the 12/27/14 performance.
 
 ### Other

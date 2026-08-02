@@ -34,7 +34,7 @@ Kaci was invited to join the [[Troupes/Available Cupholders|Available Cupholders
 
 In 2009, Kaci took on the role of Director of Design at The Hideout Theatre when the new owners [[Performers/Kareem Badr|Kareem Badr]], [[Performers/Roy Janik|Roy Janik]], and [[Performers/Jessica Arjet|Jessica Arjet]] bought the business from [[Performers/Sean Hill|Sean Hill]]. Kaci was involved with the original restructuring and talks with the landlords of the buildings, taking on her new position as a staff member of The Hideout Theatre when she graduated from St. Edward's University in May of 2009 at the age of 22. Kaci co-directed the Hideout Mainstage production [[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]] with Jessica Arjet in November/December of 2009 and [[Who Is T. Henry Baudecliffe]] with Curtis Luciani in July/August of 2010. In the Fall of 2009, Kaci formed a duo troupe, [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]] with fellow Improvised Shakespeare cast member [[Performers/Curtis Luciani|Curtis Luciani]]. They originally set out to explore gender roles through improvisation but have since gone on to create several original shows like [[Fitzgeralds For Hire]] and [[Catchin' Frogs]]. 
 
-Kaci performed in both the 2009 [[40-Hour Improv Marathon]] and the 2010 [[41-Hour Improv Marathon]]. In 2011 PGraph lived and performed in Edinburgh, Scotland for 28 days while they performed 22 improv shows at the Edinburgh Fringe Festival. In 2012 Kaci toured Asia with the Boston, Massachusetts based group Improv Boston. They performed and taught improv in Seoul, South Korea, Beijing, China, Hong Kong, Shanghai, China, Osaka, Japan, and Tokyo, Japan. 
+Kaci performed in both the 2009 [[40-Hour Improv Marathon]] and the 2010 [[Festivals/41-Hour Improv Marathon|41-Hour Improv Marathon]]. In 2011 PGraph lived and performed in Edinburgh, Scotland for 28 days while they performed 22 improv shows at the Edinburgh Fringe Festival. In 2012 Kaci toured Asia with the Boston, Massachusetts based group Improv Boston. They performed and taught improv in Seoul, South Korea, Beijing, China, Hong Kong, Shanghai, China, Osaka, Japan, and Tokyo, Japan. 
 Through her personal improv work and her work with Parallelogramophonograph and the Available Cupholders, Kaci has toured to teach and perform improv throughout the United States, Canada, Australia, Scotland, England, France, China, Japan, and South Korea.
 
 ### The First Improv Show She Saw
@@ -68,8 +68,8 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * [[Troupes/The PITS|The PITS]]
 
 ## Shows
-* [[The 40-Hour Improv Marathon]]
-* [[The 41-Hour Improv Marathon]]
+* [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]]
+* [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]]
 * *[[Shows/After School Improv|After School Improv]]* (Performed and Directed)
 * *[[Shows/The Andersons|The Andersons]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]* (2010-2013)

@@ -11,7 +11,7 @@ ComedySportz is a format in which teams of improvisers compete to do the best sh
 ## History
 The franchise had its first audition on 1/22/86 (Superbowl Sunday).  Over their 28-year run, they put on over five thousand shows -- both in Austin and on tour around the world.
 In 2000, the Austin Audacities defeated the Chicago Jazz in a nail-biting finale to the ComedySportz National Tournament and were crowned the Champions of the Comedy League of America.  
-ComedySportz participated in both [The 40-Hour Improv Marathon](The%2040-Hour%20Improv%20Marathon) and [The 41-Hour Improv Marathon](The%2041-Hour%20Improv%20Marathon). 
+ComedySportz participated in both [The 40-Hour Improv Marathon](Festivals/The%2040-Hour%20Improv%20Marathon) and [The 41-Hour Improv Marathon](Festivals/The%2041-Hour%20Improv%20Marathon). 
 The Austin franchise closed up shop in 2012, but former players Shawn Utterback and Terrill Fischer acquired the license in 2017. Comedy Sportz now performs weekly at Zach North.
 ## Theaters
 ComedySportz ran in a number of theaters over the course of its existence, including:

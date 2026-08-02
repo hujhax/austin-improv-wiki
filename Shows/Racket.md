@@ -93,7 +93,7 @@ The cast also performed as a troupe for a number of one-off shows in 2012.
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2835332685190.115208.1315383518&type=3) by [[Michael Yew]] of their 3/23/12 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 
 ## More Information
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=12812) on [[The Austin Improv Forums]].

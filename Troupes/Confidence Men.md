@@ -124,7 +124,7 @@ This is their bio from their web site:
 * [Video of their 9/28/12 show.](http://www.viddler.com/v/73560641) ("Rivendell")
 * [Video of their 9/29/12 show.](http://www.viddler.com/v/8310310b) ("Sesame Street")
 * [Video of their 2/16/13 show.](http://www.viddler.com/v/2a1b2ab3) ("Jury Duty")
-* [Video of their 6/22/13 performance](http://vimeo.com/69454380) in [[The 44-Hour Improv Marathon]].
+* [Video of their 6/22/13 performance](http://vimeo.com/69454380) in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 * [Video of their 8/31/13 performance](http://vimeo.com/74439292) in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/125266916) of their 4/11/15 show at [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
@@ -135,7 +135,7 @@ This is their bio from their web site:
 * [Photoset](https://www.facebook.com/MadelineChauvin/media_set?set=a.10100417741200160.3101439.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 3/25/10 "Women With Confidence" show (featuring guest performer [[Performers/Shana Merlin|Shana Merlin]]).
 * [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.414116062703.206133.505207703&type=3) by [[Performers/Tyler Bryce|Tyler Bryce]] of their April 2010 show at the Red Dirt Improv Festival in Oklahoma.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/21/10 show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] of their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] of their 6/4/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 7/23/10 performance at *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3) by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the same performance.

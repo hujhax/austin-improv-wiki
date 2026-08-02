@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="46HourPromo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional image for [[The 46-Hour Improv Marathon]].
+Promotional image for [[Festivals/The 46-Hour Improv Marathon|The 46-Hour Improv Marathon]].
 
 Art by [[Performers/Kaci Beeler|Kaci Beeler]].
 ## Licensing

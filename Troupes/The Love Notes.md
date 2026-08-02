@@ -77,7 +77,7 @@ The first iteration of the troupe consisted of [[Performers/Avimaan Syam|Avimaan
 
 In November 2009, they presented "Where in the World?", a show format based on *[[Wikipedia - Where in the World is Carmen Sandiego|Where in the World is Carmen Sandiego?]]* as the regular opener for *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 
-The troupe performed in [[Festivals/WaffleFest 2009|WaffleFest 2009]], [[The 40-Hour Improv Marathon]], and  [[The 41-Hour Improv Marathon]].
+The troupe performed in [[Festivals/WaffleFest 2009|WaffleFest 2009]], [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]], and  [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 
 ## Media
 ### Photos

@@ -44,7 +44,7 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Coven]]
 * [[Shows/I'll Take the Physical Challenge|I'll Take the Physical Challenge]]
 * [[Shows/Process|Process]]
-* [[The 47-Hour Improv Marathon]]
+* [[Festivals/The 47-Hour Improv Marathon|The 47-Hour Improv Marathon]]
 * [[Shows/Origins|Origins]]
 * [[Shows/Lonely Star|Lonely Star]]
 * [[Shows/A Deed So Dark|A Deed So Dark]] (sound tech)

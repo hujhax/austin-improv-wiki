@@ -27,7 +27,7 @@ Jessica is the co-owner of the Hideout Theatre where she directs all of the yout
 ## History
 Jessica Arjet graduated from the [[Troupes/Heroes of Comedy|Heroes of Comedy]] Improv School in 2003.  Upon graduation, she was invited to join the house improv team.
 
-She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour Improv Marathon]].
+She was a core cast member of [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]] and [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 ## Troupes
 * [[Bedfellows]]

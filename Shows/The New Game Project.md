@@ -44,7 +44,7 @@ They then repeat this process with a new audience title.
 ## History
 The show began as a one-off for the premiere of *[[Shows/The Free Fringe|The Free Fringe]]* on 1/5/12
 
-It was part of [[The 44-Hour Improv Marathon]]
+It was part of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]]
 
 ## Media
 ### Videos
@@ -53,7 +53,7 @@ It was part of [[The 44-Hour Improv Marathon]]
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 1/5/12 performance at *[[Shows/The Free Fringe|The Free Fringe]]*.
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3) by [[Michael Yew]] that includes the same show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 
 [[Category/Active|Category:Active]]
 [[Category/Shows|Category:Shows]]

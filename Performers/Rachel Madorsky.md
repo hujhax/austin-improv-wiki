@@ -22,7 +22,7 @@
 **Rachel Madorsky** is an improv teacher and performer.
 
 ## History
-Rachel is a core cast member in [[The 45-Hour Improv Marathon]].
+Rachel is a core cast member in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
 ## Troupes
 * [[Troupes/The Frank Mills|The Frank Mills]]

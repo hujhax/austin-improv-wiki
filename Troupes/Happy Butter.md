@@ -83,7 +83,7 @@ It was made up of graduates of [[The Hideout Theatre]]'s first Level 6 class.
 * [Video of their 6/30/11 show.](http://www.youtube.com/watch?v=YLR3mamRjx8)
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.562180183845502.1073741892.221927764537414&type=3) by [[Steve Rogers]] of their 6/4/11 performance in [[The 42-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.562180183845502.1073741892.221927764537414&type=3) by [[Steve Rogers]] of their 6/4/11 performance in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Butter-Themed Troupes|Category:Butter-Themed Troupes]]

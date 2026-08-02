@@ -1,4 +1,4 @@
-**The 41-Hour Improv Marathon** was the second annual [[Hideout Improv Marathon]].  It was performed from 6/4/2010 to 6/6/2010.
+**The 41-Hour Improv Marathon** was the second annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It was performed from 6/4/2010 to 6/6/2010.
 
 ## Core Players
 * [[Performers/Bill Stern|Bill Stern]] 
@@ -65,3 +65,4 @@
 * [The marathon schedule announcement.](http://www.hideouttheatre.com/the-complete-2010-41-hour-marathon-schedule)
 	* [A promotional post about the marathon.](http://www.hideouttheatre.com/the-marathon-madness-is-about-to-begin)
 * [[Performers/Kevin Miller|Kevin Miller]] posts [a story about hour 41 of the marathon](http://happywaffle.wordpress.com/2010/06/06/hour-41-of-the-41-hour-improv-marathon/).
+[[Category/Festivals|Category:Festivals]]

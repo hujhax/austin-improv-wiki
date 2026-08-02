@@ -24,7 +24,7 @@
 ## History
 Prior to 2000, Peter's only experience with improv had been a number of improv games in high-school theater class, a 1997 trip to see Second City in Chicago, and an absolutely terrifying batch of improv games once in college.  Peter saw his first improv show in Austin after getting a free ticket to a [[Troupes/ComedySportz|ComedySportz]] show at Northcross Mall from a comedy defensive driving class in May 2000.  After that, he saw many more improv shows in town, and then he took the Hideout's first set of improv classes, from [[Performers/Shana Merlin|Shana Merlin]], between 2000 and 2001.  After that, Peter joined [[Troupes/First Round Draft|First Round Draft]], the troupe that formed from the first batch of Hideout students.  He left improv from 2004-2007, and then returned to do more shows, primarily at the Hideout.
 
-Peter was a core cast member in [[The 42-Hour Improv Marathon]] and [[The 44-Hour Improv Marathon]].
+Peter was a core cast member in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]] and [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 ## Photography
 Peter has photographed nearly three hundred improv shows, though he is perhaps better known for videography, posting improv videos to vimeo almost weekly, and setting up [The Austin Improv Vimeo Channel](http://vimeo.com/channels/austinimprov).

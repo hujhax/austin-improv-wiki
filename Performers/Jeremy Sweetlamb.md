@@ -45,7 +45,7 @@ I met them after the show. [[Performers/Tyler Bryce|Tyler Bryce]], now of Obviou
 * *[[Shows/Myth Debunkers|Myth Debunkers]]* (Jaime Hyneman)
 * *[[Shows/Process|Process]]* (director)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
-* [[The 40-Hour Improv Marathon]]
+* [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]]
 
 ## More Information
 * [Interview](http://gybpodcast.libsyn.com/jeremy-sweetlamb-ep17-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.

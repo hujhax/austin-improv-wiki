@@ -88,12 +88,12 @@ Epic Telescope reverses and expands this game.  The cast performs (say) a one-mi
 ## History
 The show began as a one-off for the premiere of *[[Shows/The Free Fringe|The Free Fringe]]* on 4/26/12.
 
-It was part of [[The 44-Hour Improv Marathon]].
+It was part of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 ## Media
 ### Videos
 * [Video of the 4/26/12 show.](http://vimeo.com/channels/austinimprov/41139122)
-* [Video of the 6/22/13 show](https://vimeo.com/77276938) in [[The 44-Hour Improv Marathon]].
+* [Video of the 6/22/13 show](https://vimeo.com/77276938) in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 
 [[Category/Active|Category:Active]]

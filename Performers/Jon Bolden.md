@@ -43,7 +43,7 @@ Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He
 * [[Troupes/RUSH|RUSH]]
 
 ## Shows
-* *[[The 43-Hour Improv Marathon]]*
+* *[[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]*
 * *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/The Andersons|The Andersons]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]*

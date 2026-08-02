@@ -24,7 +24,7 @@
 ## History
 In 2004, he moved away to Chicago.
 
-In 2010, Bill was a core performer in [[The 41-Hour Improv Marathon]].
+In 2010, Bill was a core performer in [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 
 A post from him about the first improv show he ever saw:<blockquote><p>Apart from the improv we did in theater in middle school and high school in class and at competition...</p> 
 

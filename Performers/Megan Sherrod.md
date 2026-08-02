@@ -25,7 +25,7 @@
 Megan Sherrod is a classically trained mezzo soprano and improv performer.  She holds a Bachelor of Music in Voice Performance from [[Wikipedia - Oklahoma City University|Oklahoma City University]] and Master of Music in Voice Performance from the [[Wikipedia - University of North Texas|University of North Texas]].  She has extensive performance experience in opera, operetta, and musical theatre.
 
 ## History
-Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014. She won her first [[Shows/Maestro|Maestro]] on October 4, 2014. She has been a teacher for the Hideout Theatre since 2017. In 2019, she was one of the core eight cast that completed [[Hideout Improv Marathon]].
+Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014. She won her first [[Shows/Maestro|Maestro]] on October 4, 2014. She has been a teacher for the Hideout Theatre since 2017. In 2019, she was one of the core eight cast that completed [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].
 
 ## Shows
 * *[[Make It So]]*
@@ -55,7 +55,7 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * 2017 - Out of Bounds Comedy Festival - Austin, TX: *[[Troupes/Rook|Rook]]*
 * 2017 - Dallas Comedy Festival - Dallas, TX: *[[Troupes/Rook|Rook]]*
 * 2016 - The Improvised Play Festival - Austin, TX: *[[Shows/Boy, Howdy!|Boy, Howdy!]]*
-* 2015 - *[[46-Hour Improv Marathon]]* - Austin, TX: *[[Shows/Happily Ever After|Happily Ever After]]*, *[[Shows/Maestro|Maestro]]*, *[[Shows/Buzz Band|Buzz Band]]*
+* 2015 - *[[Festivals/46-Hour Improv Marathon|46-Hour Improv Marathon]]* - Austin, TX: *[[Shows/Happily Ever After|Happily Ever After]]*, *[[Shows/Maestro|Maestro]]*, *[[Shows/Buzz Band|Buzz Band]]*
 * 2015 - The Improvised Play Festival - Austin, TX: *[[Shows/Nothing And Everything|Nothing And Everything]]*
 
 ## More Information

@@ -55,7 +55,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I used to
 
 ## Media
 ### Videos
-* The ["Human Clay" show he directed](http://vimeo.com/78187121) on 6/23/13 for [[The 44-Hour Improv Marathon]].
+* The ["Human Clay" show he directed](http://vimeo.com/78187121) on 6/23/13 for [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 * [His audition video](http://youtu.be/3MG9MHm3jAo) for the makeup-artist-competition show *[[Wikipedia - Face Off (TV series)|Face Off]]*.
 
 [[Category/Performers|Vines]]

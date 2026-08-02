@@ -22,7 +22,7 @@
 **Kayla Lane Freeman** is an improv performer.
 
 ## History
-Kayla appeared in [[The 44-Hour Improv Marathon]] as a core cast member.
+Kayla appeared in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]] as a core cast member.
 
 In 2013, she moved away to Chicago.
 

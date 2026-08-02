@@ -217,14 +217,14 @@ From 2010 to 2014, the show was a pick-up format, cast month-to-month from inter
 * 1/13/12: Videos of [show #1](http://vimeo.com/35070066) and [show #2](http://vimeo.com/35064068)
 * 2/10/12: Videos of [show #1](http://vimeo.com/36857558) and [show #2](http://vimeo.com/36871158).
 * 5/11/12: [Video.](http://vimeo.com/42285493)
-* 6/2/12: Videos of [show #1](http://vimeo.com/43374371) and [show #2](http://vimeo.com/43417838) (from [[The 42-Hour Improv Marathon]])
+* 6/2/12: Videos of [show #1](http://vimeo.com/43374371) and [show #2](http://vimeo.com/43417838) (from [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]])
 * 10/12/12: [show #1](http://vimeo.com/51661325) and [show #2](http://vimeo.com/51668007).
 * 12/14/12: [Video.](http://vimeo.com/55996276)
 * 1/11/13: [Video.](http://vimeo.com/57495369)
 * 3/8/13: Videos of [show #1](http://vimeo.com/61403063) and [show #2](http://vimeo.com/61405412).
 * 5/10/13: Videos of [show #1](http://vimeo.com/65993964) and [show #2](http://vimeo.com/65981712).
 * 5/23/13: [Video of "Pick Your Own Black Vault"](http://vimeo.com/66965290) (a mash-up with *[[Shows/The Black Vault|The Black Vault]]* at *[[Shows/The Free Fringe|The Free Fringe]]*).
-* [6/22/13: Video,](http://vimeo.com/70460663) from [[The 44-Hour Improv Marathon]].
+* [6/22/13: Video,](http://vimeo.com/70460663) from [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 * 5/9/14: [Video.](http://youtu.be/GAQarSR6qIM)
 * [Video](http://vimeo.com/100615630) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/11/14 first show ("The Lunar Bicycle").
 * [Video](http://vimeo.com/100610406) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/11/14 second show ("The Love and Horror of Bora Bora").
@@ -242,7 +242,7 @@ From 2010 to 2014, the show was a pick-up format, cast month-to-month from inter
 ### Photos
 * [A couple of pre-show photos](http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/8/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3) by [[Michael Yew]] that includes the 12/14/12 show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/14 performance in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/14 performance in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/pickyourownpath)

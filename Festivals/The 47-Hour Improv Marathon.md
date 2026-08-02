@@ -1,4 +1,4 @@
-**The 47-Hour Improv Marathon** was be the eighth annual [[Hideout Improv Marathon]].  It took place from June 17-19, 2016.
+**The 47-Hour Improv Marathon** was be the eighth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It took place from June 17-19, 2016.
 
 ## Core Players
 * [[Performers/Jessica Arjet|Jessica Arjet]]
@@ -36,7 +36,7 @@
 * Saturday, 5am (Hour 13): *[[Shows/Control Issues|Control Issues]]*
 * Saturday, 6am (Hour 14): [[Troupes/Of Mice And Mostly Women|Of Mice And Mostly Women]]
 * Saturday, 7am (Hour 15): "The 46ers"
-	* "A blast from the past. The Marathon cast from last year's [[46 Hour Improv Marathon]] return"
+	* "A blast from the past. The Marathon cast from last year's [[Festivals/46 Hour Improv Marathon|46 Hour Improv Marathon]] return"
 * Saturday, 8am (Hour 16): [[Troupes/Minority Report|Minority Report]]
 * Saturday, 9am (Hour 17): *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*
 * Saturday, 10am (Hour 18): [[Building Connections]]
@@ -78,3 +78,4 @@
 
 ## More Information
 * [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)
+[[Category/Festivals|Category:Festivals]]

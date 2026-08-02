@@ -40,8 +40,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * [[Troupes/MmmmK|MmmmK]]
 
 ## Shows
-* [[The 41-Hour Improv Marathon]]
-* [[The 43-Hour Improv Marathon]]
+* [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]]
+* [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]
 * *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
 * *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]*
@@ -131,7 +131,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 	* With *[[Shows/Cochise|Cochise]]*
 * [[Festivals/The 2009 Out of Bounds Comedy Festival|The 2009 Out of Bounds Comedy Festival]]
 	* With [[Troupes/Improv For Evil|Improv For Evil]]
-* [[The 41-Hour Improv Marathon]]
+* [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]]
 * [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]]
 	* With *[[Shows/Austin Secrets|Austin Secrets]]* and [[Troupes/Improv For Evil|Improv For Evil]]
 * [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]]
@@ -142,7 +142,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 	* With [[Troupes/MmmmK|MmmmK]]
 * [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]]
 	* With *[[Shows/After School Improv|After School Improv]]*, [[Troupes/The Escorts|The Escorts]], *[[Shows/Process|Process]]*, *[[Shows/Spirited|Spirited]]*, and *[[Shows/Steam|Steam]]*
-* [[The 43-Hour Improv Marathon]]
+* [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]
 * The Del Close Marathon 2012 (New York)
 	* With [[Troupes/The Escorts|The Escorts]]
 * [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]]

@@ -199,7 +199,7 @@ The show followed the lives of nine women working together in a house burlesque 
 
 Owing to the somewhat risqué nature of burlesque, several performers in the show have chosen to employ [[Pseudonyms]].
 
-The show ran Fridays in May and June of 2014, and was hour 34 of [[The 45-Hour Improv Marathon]].
+The show ran Fridays in May and June of 2014, and was hour 34 of [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
 It then ran Fridays in February and March of 2015, and was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
@@ -208,7 +208,7 @@ It then ran Fridays in February and March of 2015, and was part of [[Festivals/T
 * [An improvised song from one of the shows.](http://youtu.be/VWx0ht1g-9Y)
 
 ### Photos
-* [Photoset](http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their show in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their show in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
 ## More Information
 * [Audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=17121) in [[The Austin Improv Forums]].

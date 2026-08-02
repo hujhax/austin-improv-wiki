@@ -81,7 +81,7 @@ They were voted "Outstanding New Troupe" at [[Coldtowne Theater]] in 2013.
 ## Media
 ### Videos
 * [Video](http://vimeo.com/60843799) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of one of their shows (uploaded 3/1/12).
-* [Video of their 6/22/13 show](http://vimeo.com/channels/austinimprov/77204222) in [[The 44-Hour Improv Marathon]].
+* [Video of their 6/22/13 show](http://vimeo.com/channels/austinimprov/77204222) in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/cheapdateatx)

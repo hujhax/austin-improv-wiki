@@ -1,6 +1,6 @@
-**The 42-Hour Improv Marathon** was the third annual [[Hideout Improv Marathon]].  It was performed in 2011, running from 6/3/11 to 6/5/11.
+**The 42-Hour Improv Marathon** was the third annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It was performed in 2011, running from 6/3/11 to 6/5/11.
 
-Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/Cat Drago|Cat Drago]], decided to start doing improv after watching long stretches of the marathon.  The following year, they would come back to perform in one of the hours of [[The 43-Hour Improv Marathon]].
+Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/Cat Drago|Cat Drago]], decided to start doing improv after watching long stretches of the marathon.  The following year, they would come back to perform in one of the hours of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 
 ## Core Players
 * [[Performers/Andy Crouch|Andy Crouch]]
@@ -98,3 +98,4 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * [A recap of the event](http://hujhax.livejournal.com/760057.html) from core player [[Performers/Peter Rogers|Peter Rogers]].
 * [A 5/30/12 interview](http://www.hideouttheatre.com/the-game-changer-part-one) with [[Performers/Ryan Hill|Ryan Hill]] about discovering and watching the event.
 * [A 6/1/12 interview](http://www.hideouttheatre.com/the-game-changer-part-two) with [[Performers/Cat Drago|Cat Drago]] about discovering and watching the event.
+[[Category/Festivals|Category:Festivals]]

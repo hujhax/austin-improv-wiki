@@ -1,4 +1,4 @@
-**The 43-Hour Improv Marathon** was the fourth annual [[Hideout Improv Marathon]]. It was performed from 5pm on June 1st to 12pm June 3rd 2012.
+**The 43-Hour Improv Marathon** was the fourth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]]. It was performed from 5pm on June 1st to 12pm June 3rd 2012.
 
 ![[HardCore4.jpg|The "Hardcore Four", who stayed for the whole marathon.]]
 
@@ -85,3 +85,4 @@
 * [A blog post prior to the marathon](http://blog.jonbolden.com/2012/43-hour-improv-marathon/) from [[Performers/Jon Bolden|Jon Bolden]].
 	* [A post from Jon](http://www.hideouttheatre.com/a-voice-of-concern) about the possible damage the marathon might potentially do to his voice.
 * [A blog post about the Hardcore Four](http://www.hideouttheatre.com/the-first-hardcore-four), audience members [[Ashley Lowe]], [[Amy Dietze]], [[Ryan Criswell]], and [[Performers/Cat Drago|Cat Drago]] who stayed for the entire 43 hours.
+[[Category/Festivals|Category:Festivals]]

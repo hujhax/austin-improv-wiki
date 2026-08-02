@@ -46,7 +46,7 @@ Ruby Willmann started taking improv classes after seeing a [[Troupes/Parallelogr
 * *[[Shows/Process|Process]]*
 * *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
-* *[[The 45-Hour Improv Marathon]]*
+* *[[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]* (Host, 2011-2012)
 * *[[The Good Life]]* *(director)*
 * *[[Shows/The International Improv Experience|The International Improv Experience]]*

@@ -119,7 +119,7 @@ The director would finish the show, announcing to the audience that they'd had a
 ## History
 [[Performers/Andy Crouch|Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of [[Wikipedia - Dionysus in '69 (theatrical production)|*Dionysus in '69*]] by the [[Wikipedia - Rude Mechanicals (theater company)|Rude Mechanicals]].  He was inspired to make something equally transgressive and raw in the world of improv.
 
-Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Performers/Peter Rogers|Peter Rogers]] was the first of the cast to get completely naked onstage for the production, with [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] following soon after.
+Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Performers/Peter Rogers|Peter Rogers]] was the first of the cast to get completely naked onstage for the production, with [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] following soon after.
 
 The mainstage show ran through July and August in 2011, selling out often weeks in advance, and breaking all prior Hideout records for early sales.
 

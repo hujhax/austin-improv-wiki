@@ -24,7 +24,7 @@
 "Ceej" is a diminutive of Allen's first two initials, C.J.
 
 ## History
-Ceej was a core cast member of [[The 44-Hour Improv Marathon]].
+Ceej was a core cast member of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 A post from him about the first improv show he ever saw:<blockquote><p>I know it was a Micetro (as it was originally spelled). But I saw a few in a couple months...so my memory may trick me...</p> 
 

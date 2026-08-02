@@ -24,7 +24,7 @@
 ## History
 Lindsey started improv classes in spring of 2008 at [[The Merlin Works Institute for Improvisation]], where [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Kareem Badr|Kareem Badr]] were her teachers.  Among her classmates were [[Performers/Andreas Fabis|Andreas Fabis]], [[Brandon Salinas]], and [[Performers/Jen Kaplan|Jen Kaplan]].
 
-Lindsey appeared in [[The 44-Hour Improv Marathon]] as a core cast member.
+Lindsey appeared in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]] as a core cast member.
 
 A post from her about the first improv show she ever saw:<blockquote><p>My first experience watching an improv show was at the 2008 Short Fringe. [[Troupes/Look Cookie|Look Cookie]] performed after my group and I snuck into the audience to watch (and they actually talked about cookies), and then when we were in Best of Week, I listened to [[Troupes/Girls Girls Girls|Girls Girls Girls]] while waiting backstage to go on. And I thought, oh, we're so not going to be in Best of Fest. And we weren't.</p> 
 

@@ -93,11 +93,11 @@ This show is entirely controlled by the tech booth.  The tech booth offers a var
 As the tech booth announces at the top of the show, if the players don't follow the tech cues to the technical improvisors' satisfaction, those players are "punished" -- for example, by having to collectively dance to a particularly awful pop song.
 
 ## History
-The show originated as the Sunday-2am slot of [[The 43-Hour Improv Marathon]], with just the marathon's core players participating.
+The show originated as the Sunday-2am slot of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]], with just the marathon's core players participating.
 
-It was brought back many times as part of *[[Shows/The Free Fringe|The Free Fringe]]*, with performance dates on 7/19/12, 9/27/12, 10/25/12, and (for a special "Christmas *Tech Nightmare*") 12/13/12.  It was part of [[The 44-Hour Improv Marathon]] and [[The 45-Hour Improv Marathon]].
+It was brought back many times as part of *[[Shows/The Free Fringe|The Free Fringe]]*, with performance dates on 7/19/12, 9/27/12, 10/25/12, and (for a special "Christmas *Tech Nightmare*") 12/13/12.  It was part of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]] and [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
-[[Performers/Lindsey McGowen|Lindsey McGowen]] was added as a permanent member of the tech team after her debut in [[The 45-Hour Improv Marathon]].
+[[Performers/Lindsey McGowen|Lindsey McGowen]] was added as a permanent member of the tech team after her debut in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
 ## Media
 * 12/13/12 performance:

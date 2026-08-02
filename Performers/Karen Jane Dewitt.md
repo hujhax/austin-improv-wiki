@@ -27,7 +27,7 @@ Karen Jane is also the proprietress of Scissortail Savories and Sweets, a bakery
 ## History
 Karen Jane first started doing improv in September 2009.
 
-She was a core cast member in [[The 42-Hour Improv Marathon]].
+She was a core cast member in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 In 2012, she attended the iO Summer Intensive in Chicago.
 

@@ -24,11 +24,11 @@
 ## History
 Ryan dabbled in theater in high school and college. In the aughts he performed with Austin vintage radio drama troupe, *The Violet Crown Radio Players* and started the *Chicken Fried Radio* comedy podcast with his friend Toby Heidel, but his experience of improv was limited to enjoying reruns of *[[Wikipedia - Whose Line Is It Anyway|Whose Line Is It Anyway?]]*
 
-In 2011 he was telecommuting at the Hideout Coffee House and ran into an old friend, [[Performers/Thedward Blevins|Thedward Blevins]], who was attending improv class. Thedward introduced Ryan to Hideout Education Director [[Performers/Andy Crouch|Andy Crouch]]. After accepting Thedward's invitation to a Thursday evening of watching improv, Ryan attended twelve hours of [[The 42-Hour Improv Marathon]]. Somewhere in the wee hours of Saturday morning, he realized with a jolt of fear that he had discovered a new passion that could not be ignored.
+In 2011 he was telecommuting at the Hideout Coffee House and ran into an old friend, [[Performers/Thedward Blevins|Thedward Blevins]], who was attending improv class. Thedward introduced Ryan to Hideout Education Director [[Performers/Andy Crouch|Andy Crouch]]. After accepting Thedward's invitation to a Thursday evening of watching improv, Ryan attended twelve hours of [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]]. Somewhere in the wee hours of Saturday morning, he realized with a jolt of fear that he had discovered a new passion that could not be ignored.
 
 In June, 2011 he started classes with Crouch at [[The Hideout Theatre]]. He completed the Hideout curriculum in 2012. [[Performers/Roy Janik|Roy Janik]], [[The Hideout Theatre]] co-owner, was his teacher for the upper levels. He also took classes at [[The Institution Theater]].
 
-Ryan has been a TA for adult and teen improv classes at [[The Hideout Theater]]; he has coached [[Troupes/Four Stories Tall|Four Stories Tall]], a teen improv troupe. He produced [[The 44-Hour Improv Marathon]] and produced [[The 45-Hour Improv Marathon]] with [[Performers/Jessie Pascarelli|Jessie Pascarelli]].
+Ryan has been a TA for adult and teen improv classes at [[The Hideout Theater]]; he has coached [[Troupes/Four Stories Tall|Four Stories Tall]], a teen improv troupe. He produced [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]] and produced [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]] with [[Performers/Jessie Pascarelli|Jessie Pascarelli]].
 
 He is also a musician and has played for [[Shows/I Love You So Much|I Love You So Much]] with the band [[Tiny Cute Trio]] and [[Shows/Fuck It's Hot|Fuck It's Hot]] solo. He is also a frequent musical improviser substitute for [[Troupes/Indigo Shift|Indigo Shift]].
 
@@ -108,6 +108,6 @@ He is also a musician and has played for [[Shows/I Love You So Much|I Love You S
 
 ## More Information
 * [An 8/29/11 post from Ryan about zen and improv.](http://www.hideouttheatre.com/zen-and-improv-fingers-pointing-at-the-moon) 
-* [A 5/30/12 interview](http://www.hideouttheatre.com/the-game-changer-part-one) with Ryan about discovering and watching [[The 42-Hour Improv Marathon]].
+* [A 5/30/12 interview](http://www.hideouttheatre.com/the-game-changer-part-one) with Ryan about discovering and watching [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 [[Category/Performers|Hill]]

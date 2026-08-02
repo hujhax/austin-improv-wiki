@@ -1,6 +1,6 @@
 ![[The 44-Hour Cover Photo.jpg|Publicity image for the 44-Hour Improv Marathon.]]
 
-**The 44-Hour Improv Marathon** was the fifth annual [[Hideout Improv Marathon]].
+**The 44-Hour Improv Marathon** was the fifth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].
 
 ## Summary
 It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
@@ -47,7 +47,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Saturday 3am (hour 11): [[Troupes/Cheap Date|Cheap Date]]
 * Saturday 4am (hour 12): "[The Bat](http://improvencyclopedia.org/games/The_Bat.html)" with [[Troupes/ColdTowne (Troupe)|ColdTowne]]: an improv show in the dark.
 * Saturday 5am (hour 13): *[[Shows/Epic Telescope|Epic Telescope]]* (AKA "Half-Life in reverse"): a story presented first in one minute, then three minutes, then five, then fifteen, then thirty.
-* Saturday 6am (hour 14): Performance with veterans of [[The Hideout Improv Marathon]]
+* Saturday 6am (hour 14): Performance with veterans of [[Festivals/The Hideout Improv Marathon|The Hideout Improv Marathon]]
 	* This featured guests [[Performers/Andy Crouch|Andy Crouch]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]], [[Performers/Jason Vines|Jason Vines]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Jon Bolden|Jon Bolden]], [[Performers/Kaci Beeler|Kaci Beeler]], [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]], [[Performers/Roy Janik|Roy Janik]], and [[Performers/Valerie Ward|Valerie Ward]].
 	* In this format, veterans would tell anecdotes of their experiences in the Marathon, and the cast would perform a few scenes based on that anecdote.
 * Saturday 7am (hour 15): Student Show
@@ -197,3 +197,4 @@ The Saturday 2am slot was originally scheduled for [Project2](http://www.scifiim
 * [The call for marathon volunteers](http://forum.austinimprov.com/viewtopic.php?f=2&t=15375&p=131708#p131708) on [[The Austin Improv Forums]].
 	* [The volunteer schedule.](http://goo.gl/uCnNK)
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2362424) with core cast members [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], and [[Performers/Peter Rogers|Peter Rogers]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
+[[Category/Festivals|Category:Festivals]]

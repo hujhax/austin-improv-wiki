@@ -73,7 +73,7 @@
 **Lisa Jackson** is an improv instructor and performer.
 
 ## History
-Lisa appeared in [[The 42-Hour Improv Marathon]], and [[The 44-Hour Improv Marathon]], and the 2019 48-Hour Marathon at [[The Hideout Theatre]].
+Lisa appeared in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]], and [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]], and the 2019 48-Hour Marathon at [[The Hideout Theatre]].
 
 ## Troupes
 * [[Troupes/Dervish|Dervish]]

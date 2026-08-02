@@ -1,5 +1,5 @@
 ![[46HourPromo.jpg|Promotional image for the 46-hour marathon.]]
-**The 46-Hour Improv Marathon** is the seventh annual [[Hideout Improv Marathon]]. It took place from June 19-21, 2015.
+**The 46-Hour Improv Marathon** is the seventh annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]]. It took place from June 19-21, 2015.
 
 ## Core Players
 * [[Performers/Brett Tribe|Brett Tribe]]
@@ -104,3 +104,4 @@
 
 ## More Information
 * [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)
+[[Category/Festivals|Category:Festivals]]

@@ -92,7 +92,7 @@ At the top of the show, they would ask the audience for real summer camp experie
 The first half of the show ran 25 minutes, and was followed by an intermission.  After intermission, the cast would improvise a song about the show so far, and then perform the 25-minute second half.  (Often, they'd end the show with a reprise of the song.)
 
 ## History
-The show returned for the Saturday 7pm hour of [[The 45-Hour Improv Marathon]], and for a *[[Shows/Free Fringe|Free Fringe]]* show called "Bankruptcy Camp".
+The show returned for the Saturday 7pm hour of [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]], and for a *[[Shows/Free Fringe|Free Fringe]]* show called "Bankruptcy Camp".
 ## More Information
 * [The audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=17099#p135663) on [[The Austin Improv Forums]].
 * [Archived version of the official page](https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta)

@@ -22,7 +22,7 @@
 **Meghan Wolff** is an improv performer who worked primarily with [[The Hideout Theatre]], and now lives in Minneapolis.
 
 ## History
-Meghan was a core cast member in [[The 41-Hour Improv Marathon]].
+Meghan was a core cast member in [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 
 ## Troupes
 * [[Troupes/Blink|Blink]] (2009)

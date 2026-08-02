@@ -127,7 +127,7 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 ## Festivals
 ### Local Festivals
 * [[Fronterafest]]
-* [[The Hideout Improv Marathon]]
+* [[Festivals/The Hideout Improv Marathon|The Hideout Improv Marathon]]
 * [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]
 * [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
 * [[Festivals/Wafflefest|Wafflefest]]

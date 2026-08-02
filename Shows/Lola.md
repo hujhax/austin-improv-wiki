@@ -143,11 +143,11 @@
 The show improvised the same narrative three times, with three radically different outcomes based on slight changes in causal incidents. 
 
 ## History
-*[[Shows/Lola|Lola]]* was the first 8pm show put on by [[Gnap! Theater Projects]].  It ran on Fridays and Saturdays from 2/6/09 to 3/14/09, and comprised one of the hours of [[The 40-Hour Improv Marathon]] on 6/27/09.
+*[[Shows/Lola|Lola]]* was the first 8pm show put on by [[Gnap! Theater Projects]].  It ran on Fridays and Saturdays from 2/6/09 to 3/14/09, and comprised one of the hours of [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] on 6/27/09.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 6/27/09 performance during [[The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 6/27/09 performance during [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 
 ### Publicity
 * [Trailer for the show.](http://youtu.be/xyBEnvbJx_Y)

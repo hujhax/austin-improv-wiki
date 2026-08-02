@@ -7,19 +7,19 @@ In its first year, the marathon was a fundraiser for the Hideout itself.  The ne
 
 ## History
 The first record of the idea for the marathon is an email from [[Performers/Andy Crouch|Andy Crouch]] to [[Performers/Roy Janik|Roy Janik]] from 8/15/08:<blockquote>"We absolutely should do a 52-hour improv marathon as a fundraiser. You have a core group of people that actually stays up for the full time. Some people won't make it, but some will. You bring in guest players and change format every hour, working in all of our main formats (*[[Shows/Maestro|Maestro]]*, *[[Shows/Gorilla Theater|Gorilla]]*, *[[Shows/TheatreSports|TheatreSports]]*, *[[Shows/Six Degrees|Six Degrees]]*, *[[Shows/Start Trekkin'|Start Trekkin']]*, [[Shows/Improvised Shakespeare|Shakespeare]], *[[Shows/After School Improv|After School Special]]*, improvised musical, etc.) maybe more than once, and we make up some fun formats to fill the hours."</blockquote>
-The marathon debuted as [[The 40-Hour Improv Marathon]] in 2009.  The event has recurred every subsequent year, with the number of hours incrementing by one every time.
+The marathon debuted as [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] in 2009.  The event has recurred every subsequent year, with the number of hours incrementing by one every time.
 
 ### Individual Marathons
-* 2009: [[The 40-Hour Improv Marathon]]
-* 2010: [[The 41-Hour Improv Marathon]]
-* 2011: [[The 42-Hour Improv Marathon]]
-* 2012: [[The 43-Hour Improv Marathon]]
-* 2013: [[The 44-Hour Improv Marathon]]
-* 2014: [[The 45-Hour Improv Marathon]]
-* 2015: [[The 46-Hour Improv Marathon]]
-* 2016: [[The 47-Hour Improv Marathon]]
+* 2009: [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]]
+* 2010: [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]]
+* 2011: [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]]
+* 2012: [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]
+* 2013: [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]]
+* 2014: [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]]
+* 2015: [[Festivals/The 46-Hour Improv Marathon|The 46-Hour Improv Marathon]]
+* 2016: [[Festivals/The 47-Hour Improv Marathon|The 47-Hour Improv Marathon]]
 * [[The 2017 Hideout Improv Marathon]]
-* [[The 2018 Hideout Improv Marathon]]
+* [[Festivals/The 2018 Hideout Improv Marathon|The 2018 Hideout Improv Marathon]]
 * [[The 2019 Hideout Improv Marathon]]
 
 #### Marathon Casts
@@ -137,3 +137,4 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 
 ## More Information
 * [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)
+[[Category/Festivals|Category:Festivals]]
